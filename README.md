@@ -3,7 +3,7 @@ layout: default
 title: "README"
 ---
 
-# Voyage! The Open Astrophysics Vault
+# The Open Astrophysics Vault
 
 Welcome to the open vault for Year 1 Master of Science coursework in Astrophysics and Cosmology at the University of Padua (Università degli Studi di Padova), Italy.
 

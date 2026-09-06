@@ -207,7 +207,7 @@ central engines of galaxies, masses correlated with bulge properties (M-σ relat
 - [Pablo_02_Statistical_properties_of_galaxies](../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html) (Pablo's lectures, exists)
 - [Pablo_03_Star_formation_in_galaxies](../01_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html) (exists)
 - [Cosmic_inventory_overview](../02_Zettel/Theory/Cosmic_inventory_overview.html)
-- [Voyage!](../Voyage!.html)
+
 
 ---
 

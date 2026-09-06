@@ -313,7 +313,7 @@ every interferometry exam question maps to one of these boxes. recognising the b
 - [Mathematical_Numerical_Methods_MOC](../00_Atlas/Mathematical_Numerical_Methods_MOC.html)  -  FFT and image-deconvolution algorithms
 - [Fundamentals_Astrophysics_Cosmology_MOC](../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)  -  angular-diameter distance, Tolman surface brightness
 - [General_Relativity_MOC](../00_Atlas/General_Relativity_MOC.html)  -  EHT and S-star tests of GR
-- [Voyage!](../Voyage!.html)  -  the master mind-map
+
 
 ---
 

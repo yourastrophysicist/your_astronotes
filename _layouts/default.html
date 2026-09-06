@@ -21,6 +21,7 @@
     <nav class="header-nav">
       <a href="{{ '/' | relative_url }}" class="header-tab">Atlas</a>
       <a href="{{ '/About.html' | relative_url }}" class="header-tab">About</a>
+      <a href="https://instagram.com/your.astrophysicist" target="_blank" rel="noopener noreferrer" class="header-tab">Instagram</a>
       <a href="https://github.com/{{ site.github_repo }}" target="_blank" rel="noopener noreferrer" class="header-tab">GitHub</a>
     </nav>
   </header>
@@ -45,9 +46,9 @@
       </div>
 
       <div class="feedback-section">
-        <p>Found an issue or want to contribute? <a href="https://github.com/{{ site.github_repo }}/issues/new?title=Feedback+on+{{ page.title | url_encode }}&body=Source+file:+{{ page.path | url_encode }}" target="_blank" style="color: var(--primary-color); font-weight: 600; display: inline-flex; align-items: center; gap: 6px;">
+        <p>Follow along on Instagram <a href="https://instagram.com/your.astrophysicist" target="_blank" style="color: var(--primary-color); font-weight: 600;">@your.astrophysicist</a> &middot; <a href="https://github.com/{{ site.github_repo }}/issues/new?title=Feedback+on+{{ page.title | url_encode }}&body=Source+file:+{{ page.path | url_encode }}" target="_blank" style="color: var(--primary-color); font-weight: 600; display: inline-flex; align-items: center; gap: 6px;">
           <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor" style="display:inline-block; vertical-align:middle;"><path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"></path></svg>
-          Report an issue with this content
+          Report an issue
         </a></p>
       </div>
     </main>
@@ -56,6 +57,14 @@
       <div class="toc-card">
         <h3 class="toc-title">Contents</h3>
         <div id="toc-content"></div>
+      </div>
+      <div class="graph-card" style="margin-top: 18px;">
+        <h3 class="toc-title">Interactive Graph</h3>
+        <div id="graph-container" style="width: 100%; height: 210px; position: relative; background: var(--toc-bg); border: 1px solid var(--toc-border); border-radius: 2px; overflow: hidden;">
+          <canvas id="graph-canvas" width="246" height="208" style="display: block; width: 100%; height: 100%; cursor: grab;"></canvas>
+          <div id="graph-tooltip" style="display: none; position: absolute; background: #202122; color: #fff; padding: 3px 8px; border-radius: 3px; font-size: 0.75rem; pointer-events: none; z-index: 10; white-space: nowrap; max-width: 180px; overflow: hidden; text-overflow: ellipsis;"></div>
+        </div>
+        <div style="font-size: 0.72rem; color: var(--text-muted); margin-top: 4px; text-align: center;">Click node to navigate &middot; Drag to move</div>
       </div>
     </aside>
   </div>

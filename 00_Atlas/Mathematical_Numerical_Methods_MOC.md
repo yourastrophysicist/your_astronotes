@@ -321,7 +321,7 @@ the exam template I have on file (4 exercises) hits exactly these boxes: read-an
 - [General_Relativity_MOC](../00_Atlas/General_Relativity_MOC.html)  -  geodesic integration, effective-potential plots, perihelion-precession ODE solves
 - [Observational_Cosmology_MOC](../00_Atlas/Observational_Cosmology_MOC.html)  -  fitting Planck data, MCMC, FFT for the matter power spectrum
 - [Lab_High-Energy_MOC](../00_Atlas/Lab_High-Energy_MOC.html)  -  every detector simulation, every spectrum extraction, every ML photon classifier
-- [Voyage!](../Voyage!.html)  -  the master mind-map of the whole vault
+ of the whole vault
 
 ---
 

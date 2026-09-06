@@ -217,7 +217,7 @@ quick-reference summary of what each line ratio tells you. this is the concise r
 
 ## see also
 
-- [Voyage!](../Voyage!.html)  -  vault root MOC
+
 - [Spectroscopy_course_intro](../02_Zettel/Theory/Spectroscopy_course_intro.html)
 - [Bremsstrahlung](../02_Zettel/Theory/Bremsstrahlung.html)
 - [Synchroton](../02_Zettel/Theory/Synchroton.html)
