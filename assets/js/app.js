@@ -306,7 +306,7 @@ document.addEventListener('DOMContentLoaded', () => {
     
     const nodes = [];
     const links = [];
-    const nodeMap = new Map();
+    const addedUrls = new Set([currentPath]);
 
     // Center node (current page)
     const centerNode = {
@@ -317,16 +317,14 @@ document.addEventListener('DOMContentLoaded', () => {
       y: height / 2,
       vx: 0,
       vy: 0,
-      radius: 6.5,
+      radius: 6,
       isCenter: true,
       color: '#3366cc'
     };
     nodes.push(centerNode);
-    nodeMap.set(currentPath, centerNode);
 
     // Find outgoing internal links on the page
     const contentLinks = document.querySelectorAll('.markdown-body a');
-    const addedUrls = new Set([currentPath]);
 
     contentLinks.forEach(a => {
       if (!a.href || a.href.startsWith('#') || a.href.startsWith('mailto:')) return;
@@ -338,15 +336,15 @@ document.addEventListener('DOMContentLoaded', () => {
 
         const nodeTitle = a.textContent.trim() || u.pathname.split('/').pop().replace(/\.html$/, '');
         const angle = Math.random() * Math.PI * 2;
-        const dist = 45 + Math.random() * 40;
+        const dist = 35 + Math.random() * 30;
         const node = {
           id: 'node-' + nodes.length,
           title: nodeTitle,
           url: a.href,
           x: width / 2 + Math.cos(angle) * dist,
           y: height / 2 + Math.sin(angle) * dist,
-          vx: (Math.random() - 0.5) * 0.5,
-          vy: (Math.random() - 0.5) * 0.5,
+          vx: 0,
+          vy: 0,
           radius: 4,
           isCenter: false,
           color: '#54595d'
@@ -361,19 +359,19 @@ document.addEventListener('DOMContentLoaded', () => {
     if (nodes.length < 5 && Array.isArray(sp) && sp.length > 0) {
       const currentFolder = currentPath.split('/').slice(0, -1).join('/');
       sp.forEach(p => {
-        if (nodes.length >= 14 || !p.url || addedUrls.has(p.url)) return;
+        if (nodes.length >= 12 || !p.url || addedUrls.has(p.url)) return;
         if (p.url.includes(currentFolder) && p.url !== currentPath) {
           addedUrls.add(p.url);
           const angle = Math.random() * Math.PI * 2;
-          const dist = 50 + Math.random() * 35;
+          const dist = 40 + Math.random() * 30;
           const node = {
             id: 'node-' + nodes.length,
             title: p.title,
             url: p.url,
             x: width / 2 + Math.cos(angle) * dist,
             y: height / 2 + Math.sin(angle) * dist,
-            vx: (Math.random() - 0.5) * 0.5,
-            vy: (Math.random() - 0.5) * 0.5,
+            vx: 0,
+            vy: 0,
             radius: 3.5,
             isCenter: false,
             color: '#a2a9b1'
@@ -384,67 +382,16 @@ document.addEventListener('DOMContentLoaded', () => {
       });
     }
 
-    // Force simulation loop
+    // Stable Force Simulation with Alpha Cooling
+    let alpha = 1.0;
+    let animId = null;
     let draggedNode = null;
     let hoveredNode = null;
+    let dragStartX = 0;
+    let dragStartY = 0;
+    let hasDragged = false;
 
-    function step() {
-      // Coulomb repulsion between all node pairs
-      for (let i = 0; i < nodes.length; i++) {
-        for (let j = i + 1; j < nodes.length; j++) {
-          const a = nodes[i];
-          const b = nodes[j];
-          let dx = b.x - a.x;
-          let dy = b.y - a.y;
-          let dist = Math.sqrt(dx * dx + dy * dy) || 1;
-          if (dist < 120) {
-            const force = (800 / (dist * dist));
-            const fx = (dx / dist) * force;
-            const fy = (dy / dist) * force;
-            if (a !== draggedNode && !a.isCenter) { a.vx -= fx; a.vy -= fy; }
-            if (b !== draggedNode && !b.isCenter) { b.vx += fx; b.vy += fy; }
-          }
-        }
-      }
-
-      // Hooke spring attraction along edges
-      links.forEach(l => {
-        const dx = l.target.x - l.source.x;
-        const dy = l.target.y - l.source.y;
-        const dist = Math.sqrt(dx * dx + dy * dy) || 1;
-        const desiredDist = 55;
-        const force = (dist - desiredDist) * 0.04;
-        const fx = (dx / dist) * force;
-        const fy = (dy / dist) * force;
-        if (l.source !== draggedNode && !l.source.isCenter) { l.source.vx += fx; l.source.vy += fy; }
-        if (l.target !== draggedNode && !l.target.isCenter) { l.target.vx -= fx; l.target.vy -= fy; }
-      });
-
-      // Center gravity and velocity damping
-      nodes.forEach(n => {
-        if (n === draggedNode) return;
-        if (n.isCenter) {
-          n.x += (width / 2 - n.x) * 0.08;
-          n.y += (height / 2 - n.y) * 0.08;
-          return;
-        }
-        n.vx += (width / 2 - n.x) * 0.003;
-        n.vy += (height / 2 - n.y) * 0.003;
-
-        n.vx *= 0.82;
-        n.vy *= 0.82;
-        n.x += n.vx;
-        n.y += n.vy;
-
-        // Keep inside canvas bounds
-        const pad = n.radius + 6;
-        if (n.x < pad) n.x = pad;
-        if (n.x > width - pad) n.x = width - pad;
-        if (n.y < pad) n.y = pad;
-        if (n.y > height - pad) n.y = height - pad;
-      });
-
-      // Render Canvas
+    function render() {
       ctx.clearRect(0, 0, width, height);
 
       // Draw edges
@@ -461,20 +408,94 @@ document.addEventListener('DOMContentLoaded', () => {
       nodes.forEach(n => {
         ctx.beginPath();
         ctx.arc(n.x, n.y, n.radius, 0, Math.PI * 2);
-        ctx.fillStyle = (n === hoveredNode) ? '#2a4b8d' : n.color;
+        ctx.fillStyle = (n === hoveredNode) ? '#2a4b8d' : (n.isCenter ? '#3366cc' : n.color);
         ctx.fill();
 
         if (n.isCenter || n === hoveredNode) {
           ctx.lineWidth = 1.5;
-          ctx.strokeStyle = '#3366cc';
+          ctx.strokeStyle = n.isCenter ? '#202122' : '#3366cc';
           ctx.stroke();
         }
       });
-
-      requestAnimationFrame(step);
     }
 
-    requestAnimationFrame(step);
+    function step() {
+      if (alpha > 0.005) {
+        // Soft Coulomb repulsion
+        for (let i = 0; i < nodes.length; i++) {
+          for (let j = i + 1; j < nodes.length; j++) {
+            const a = nodes[i];
+            const b = nodes[j];
+            const dx = b.x - a.x;
+            const dy = b.y - a.y;
+            const dist = Math.max(Math.hypot(dx, dy), 6);
+            if (dist < 90) {
+              const force = (180 / (dist * dist + 40)) * alpha;
+              const fx = (dx / dist) * force;
+              const fy = (dy / dist) * force;
+              if (a !== draggedNode && !a.isCenter) { a.vx -= fx; a.vy -= fy; }
+              if (b !== draggedNode && !b.isCenter) { b.vx += fx; b.vy += fy; }
+            }
+          }
+        }
+
+        // Soft Hooke spring attraction
+        links.forEach(l => {
+          const dx = l.target.x - l.source.x;
+          const dy = l.target.y - l.source.y;
+          const dist = Math.hypot(dx, dy) || 1;
+          const desiredDist = 48;
+          const force = (dist - desiredDist) * 0.035 * alpha;
+          const fx = (dx / dist) * force;
+          const fy = (dy / dist) * force;
+          if (l.source !== draggedNode && !l.source.isCenter) { l.source.vx += fx; l.source.vy += fy; }
+          if (l.target !== draggedNode && !l.target.isCenter) { l.target.vx -= fx; l.target.vy -= fy; }
+        });
+
+        // Center gravity and velocity damping
+        nodes.forEach(n => {
+          if (n === draggedNode) return;
+          if (n.isCenter) {
+            n.x += (width / 2 - n.x) * 0.1;
+            n.y += (height / 2 - n.y) * 0.1;
+            return;
+          }
+          n.vx += (width / 2 - n.x) * 0.008 * alpha;
+          n.vy += (height / 2 - n.y) * 0.008 * alpha;
+
+          n.vx *= 0.85;
+          n.vy *= 0.85;
+          n.x += n.vx;
+          n.y += n.vy;
+
+          // Clamped boundaries
+          const pad = n.radius + 6;
+          if (n.x < pad) { n.x = pad; n.vx = 0; }
+          if (n.x > width - pad) { n.x = width - pad; n.vx = 0; }
+          if (n.y < pad) { n.y = pad; n.vy = 0; }
+          if (n.y > height - pad) { n.y = height - pad; n.vy = 0; }
+        });
+
+        alpha *= 0.95;
+      }
+
+      render();
+
+      if (alpha > 0.005 || draggedNode) {
+        animId = requestAnimationFrame(step);
+      } else {
+        animId = null;
+      }
+    }
+
+    function wakeSimulation(heat = 0.3) {
+      alpha = Math.max(alpha, heat);
+      if (!animId) {
+        animId = requestAnimationFrame(step);
+      }
+    }
+
+    wakeSimulation(1.0);
 
     // Mouse & Touch Interaction
     function getNodeAt(x, y) {
@@ -492,12 +513,20 @@ document.addEventListener('DOMContentLoaded', () => {
       const y = e.clientY - rect.top;
 
       if (draggedNode) {
-        draggedNode.x = x;
-        draggedNode.y = y;
+        if (!hasDragged && Math.hypot(x - dragStartX, y - dragStartY) > 3) {
+          hasDragged = true;
+        }
+        draggedNode.x = Math.max(draggedNode.radius + 4, Math.min(width - draggedNode.radius - 4, x));
+        draggedNode.y = Math.max(draggedNode.radius + 4, Math.min(height - draggedNode.radius - 4, y));
+        draggedNode.vx = 0;
+        draggedNode.vy = 0;
+        wakeSimulation(0.2);
         return;
       }
 
+      const prevHovered = hoveredNode;
       hoveredNode = getNodeAt(x, y);
+
       if (hoveredNode) {
         canvas.style.cursor = 'pointer';
         if (tooltip) {
@@ -510,34 +539,44 @@ document.addEventListener('DOMContentLoaded', () => {
         canvas.style.cursor = 'grab';
         if (tooltip) tooltip.style.display = 'none';
       }
+
+      if (hoveredNode !== prevHovered) {
+        render();
+      }
     });
 
     canvas.addEventListener('mouseleave', () => {
       hoveredNode = null;
       draggedNode = null;
+      hasDragged = false;
       if (tooltip) tooltip.style.display = 'none';
+      render();
     });
 
     canvas.addEventListener('mousedown', (e) => {
       const rect = canvas.getBoundingClientRect();
-      const x = e.clientX - rect.left;
-      const y = e.clientY - rect.top;
-      draggedNode = getNodeAt(x, y);
-      if (draggedNode) canvas.style.cursor = 'grabbing';
+      dragStartX = e.clientX - rect.left;
+      dragStartY = e.clientY - rect.top;
+      draggedNode = getNodeAt(dragStartX, dragStartY);
+      hasDragged = false;
+      if (draggedNode) {
+        canvas.style.cursor = 'grabbing';
+        wakeSimulation(0.4);
+      }
     });
 
     window.addEventListener('mouseup', (e) => {
       if (draggedNode) {
-        const rect = canvas.getBoundingClientRect();
-        const x = e.clientX - rect.left;
-        const y = e.clientY - rect.top;
-        if (Math.hypot(draggedNode.x - x, draggedNode.y - y) < 4) {
+        if (!hasDragged) {
+          // Plain click detected
           if (draggedNode.url && draggedNode.url !== currentPath && draggedNode.url !== '#') {
             window.location.href = draggedNode.url;
           }
         }
         draggedNode = null;
-        canvas.style.cursor = 'grab';
+        hasDragged = false;
+        canvas.style.cursor = hoveredNode ? 'pointer' : 'grab';
+        wakeSimulation(0.1);
       }
     });
   }
