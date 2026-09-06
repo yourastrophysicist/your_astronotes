@@ -1,9 +1,9 @@
 ---
 layout: default
-title: About The Open Astrophysics Vault
+title: About Your AstroNotes
 ---
 
-# About The Open Astrophysics Vault
+# About Your AstroNotes
 
 Welcome to the public archive of Year 1 Master of Science notes in Astrophysics and Cosmology from the University of Padua (Università degli Studi di Padova), Italy.
 

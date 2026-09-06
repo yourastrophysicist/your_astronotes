@@ -16,7 +16,7 @@
   <header>
     <div class="header-brand">
       <a href="{{ '/' | relative_url }}" class="logo">{{ site.title }}</a>
-      <span class="header-subtitle">From The Open Astrophysics Vault, the free astrophysics encyclopedia</span>
+      <span class="header-subtitle">From Your AstroNotes, the free astrophysics encyclopedia</span>
     </div>
     <nav class="header-nav">
       <a href="{{ '/' | relative_url }}" class="header-tab">Atlas</a>
@@ -38,7 +38,7 @@
       {% unless page.url == '/' or page.path == 'index.md' or page.title == 'index' %}
       <div class="article-header">
         <h1 class="article-title">{{ page.title }}</h1>
-        <div class="article-tagline">From The Open Astrophysics Vault, the free graduate second brain</div>
+        <div class="article-tagline">From Your AstroNotes, the free graduate second brain</div>
       </div>
       {% endunless %}
       <div class="markdown-body">
