@@ -417,7 +417,7 @@ historically the consistency of BBN predictions for D and $^3$He gave $4 \le \et
 measurements first came from meteorites and the local interstellar medium. but $^7$Li is both easily destroyed (at $T > 2 \times 10^6$ K) and easily produced (cosmic-ray spallation, AGB stars), so these are not primordial.
 
 starting in 1982, $^7$Li lines were measured in **old, metal-poor stars**. a remarkable correlation appeared: for low-mass metal-poor stars, $^7$Li abundance dropped sharply with mass, but for higher mass stars it formed a **plateau** (the **Spite plateau**):
-$$\frac{{}^7\text{Li}}{H} \sim O(1) \times 10^{-10}$$
+$$\frac{}^{7\text{Li}}{H} \sim O(1) \times 10^{-10}$$
 
 this was the sign that $^7$Li survived in higher-mass envelopes. it sits in the "trough" of the predicted $^7$Li($\eta$) curve, making it a sensitive probe of $\eta$.
 
