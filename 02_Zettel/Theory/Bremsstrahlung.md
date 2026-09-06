@@ -8,7 +8,7 @@ When a free charge (in general an electron) passes nearby an ion,
 		losing kinetic energy that is converted into radiation
 			this is called **Bremsstrahlung** (= braking radiation) or **free-free radiation**
 
-![Screenshot 2026-04-07 at 02.17.40](../../assets/images/Screenshot 2026-04-07 at 02.17.40.png)
+<img src="{{ "/assets/images/Screenshot%202026-04-07%20at%2002.17.40.png" | relative_url }}" alt="Screenshot 2026-04-07 at 02.17.40" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 ## Thermal Bremsstrahlung

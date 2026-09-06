@@ -103,11 +103,11 @@ it is a model for future high-resolution astronomy facilities.
 
 ## scientific figures
 
-![eht_planet_scale_array_eso1907j](../../../assets/images/eht_planet_scale_array_eso1907j.jpg)
+<img src="{{ "/assets/images/eht_planet_scale_array_eso1907j.jpg" | relative_url }}" alt="eht_planet_scale_array_eso1907j" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 reading cue: the EHT is a planet-scale VLBI array. the telescope is not one dish; it is Earth-sized Fourier sampling at 1.3 mm.
 
-![eht_m87_eso1907a](../../../assets/images/eht_m87_eso1907a.jpg)
+<img src="{{ "/assets/images/eht_m87_eso1907a.jpg" | relative_url }}" alt="eht_m87_eso1907a" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 reading cue: this is the famous M87* ring/shadow reconstruction. it is the science payoff of sparse global $(u,v)$ coverage plus careful calibration and imaging.
 

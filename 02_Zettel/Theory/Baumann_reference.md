@@ -11,7 +11,7 @@ starred sections (*) are non-examinable; boxed text contains technical details t
 
 notation: natural units $c = \hbar \equiv 1$, metric signature $(+ - - -)$ (opposite of GR course), Einstein summation, Greek indices $\mu,\nu = 0..3$, latin indices $i,j = 1..3$.
 
-![bbnTOC](../../assets/images/bbnTOC)
+<img src="{{ "/assets/images/bbn-01.png" | relative_url }}" alt="BBN Table of Contents" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 

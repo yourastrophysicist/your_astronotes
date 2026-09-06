@@ -4,7 +4,7 @@ title: "Distributions"
 ---
 
 ## Gaussian distribution
-![Screenshot 2026-04-07 at 02.09.33](../../assets/images/Screenshot 2026-04-07 at 02.09.33.png)
+<img src="{{ "/assets/images/Screenshot%202026-04-07%20at%2002.09.33.png" | relative_url }}" alt="Screenshot 2026-04-07 at 02.09.33" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 The most popular distribution is the **Gaussian** (or **Normal**) distribution
 	defined in the real numbers domain $\mathbb{R}$
 		by moments 1 and 2, while moments 3 and 4 are equal to zero:
@@ -28,7 +28,7 @@ Confidence intervals:
 ---
 
 ## Poisson distribution
-![Screenshot 2026-04-07 at 02.10.12](../../assets/images/Screenshot 2026-04-07 at 02.10.12.png)
+<img src="{{ "/assets/images/Screenshot%202026-04-07%20at%2002.10.12.png" | relative_url }}" alt="Screenshot 2026-04-07 at 02.10.12" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 The **Poisson** distribution is used for **discrete measurements**
 	it describes the probability of observing $k$ counts
 		knowing the expected value $\lambda$:

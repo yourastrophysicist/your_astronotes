@@ -63,7 +63,7 @@ digitization turns the IF voltage into a digital stream, quantization controls p
 
 ## scientific figure
 
-![digitization_quantization_sampling](../../../assets/images/digitization_quantization_sampling.svg)
+<img src="{{ "/assets/images/digitization_quantization_sampling.svg" | relative_url }}" alt="digitization_quantization_sampling" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 reading cue: after downconversion, the interferometer turns voltages into timed digital samples. the correlator can only compare antennas correctly if sampling, quantization, and timing are controlled.
 

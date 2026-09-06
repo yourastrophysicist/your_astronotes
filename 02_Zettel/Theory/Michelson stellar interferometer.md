@@ -7,7 +7,7 @@ title: "Michelson stellar interferometer"
 
 the *first* astronomical interferometer to measure stellar diameters. Albert A. Michelson and Francis G. Pease (1920) built a 20-foot (6-meter) beam extension mounted on top of the 100-inch Hooker telescope at Mt. Wilson and measured the angular diameter of the red supergiant **Betelgeuse** ($\alpha\text{ Orionis}$). the technique it pioneered — beam combination of light from separated apertures — established the optical baseline extension paradigm that drives modern facilities like CHARA and VLTI.
 
-![Michelson 20-foot stellar interferometer mounted on the Mt. Wilson 100-inch Hooker telescope, used to measure Betelgeuse in 1920.](Michelson_stellar_interferometer.jpg)
+<img src="{{ "/assets/images/Michelson_stellar_interferometer.jpg" | relative_url }}" alt="Michelson 20-foot stellar interferometer mounted on the Mt. Wilson 100-inch Hooker telescope, used to measure Betelgeuse in 1920." class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ## optical layout and baseline extension
 

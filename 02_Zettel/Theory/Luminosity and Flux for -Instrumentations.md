@@ -155,7 +155,7 @@ $$n_\nu = \frac{I_\nu}{h\nu} \qquad \left[\text{ph s}^{-1} \text{cm}^{-2} \text{
 for the **photon number density per energy**:
 $$n(E) = \frac{I_E}{E}$$
 
-![Screenshot 2026-04-04 at 19.34.51](../../assets/images/Screenshot 2026-04-04 at 19.34.51.png)
+<img src="{{ "/assets/images/Screenshot%202026-04-04%20at%2019.34.51.png" | relative_url }}" alt="Screenshot 2026-04-04 at 19.34.51" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 

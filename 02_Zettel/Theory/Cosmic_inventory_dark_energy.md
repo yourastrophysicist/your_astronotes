@@ -16,7 +16,7 @@ at present, a $\Lambda$ term fits the most data.
 still our most direct evidence that the universe is expanding. at low redshift, the linear Hubble law:
 $$v = H_0 d, \qquad z \simeq v/c$$
 
-![intro-30](../../assets/images/intro-30.png)
+<img src="{{ "/assets/images/intro-30.png" | relative_url }}" alt="intro-30" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 (Hubble's original 1929 plot. velocities should be in km/s, distances in Mpc; the solid line is the fit to corrected points.)
 
@@ -40,11 +40,11 @@ so $d_L(z)$ depends on the *content* of the universe. measuring $d_L$ at multipl
 
 to measure $d_L$ at high $z$ I need **standard candles**: objects of known intrinsic brightness. apparent brightness then gives distance.
 
-![intro-31](../../assets/images/intro-31.png)
+<img src="{{ "/assets/images/intro-31.png" | relative_url }}" alt="intro-31" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 Cepheid variables have a period-luminosity relation calibrated to thousands of stars within $\sim 20$ Mpc by HST. they anchor distances to galaxies that host SN Ia. SN Ia in turn extend out to $z \sim 1$ and beyond.
 
-![intro-32](../../assets/images/intro-32.png)
+<img src="{{ "/assets/images/intro-32.png" | relative_url }}" alt="intro-32" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 of all the candles (I-band Tully-Fisher, fundamental plane, surface brightness fluctuations, SN II, SN Ia), **SN Ia have the smallest dispersion and reach the highest redshifts**. the bottom panel shows that beyond $\sim 100$ Mpc, $H_0 \approx 72$ flattens out, confirming linear Hubble flow at low z.
 
@@ -54,7 +54,7 @@ of all the candles (I-band Tully-Fisher, fundamental plane, surface brightness f
 
 at high z the SN Ia turn out to be **fainter** than they should be in any matter-only or open universe. they sit on a curve with $\Omega_M = 0.28, \Omega_\Lambda = 0.72$. this is the 1998 Perlmutter / Riess / Schmidt result that earned the 2011 Nobel.
 
-![intro-33](../../assets/images/intro-33.png)
+<img src="{{ "/assets/images/intro-33.png" | relative_url }}" alt="intro-33" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 small-z expansion of the luminosity distance:
 $$d_L = \frac{c}{H_0}\left[z + \tfrac12(1 - q_0) z^2 + \cdots\right], \qquad q_0 = -\frac{\ddot a(t_0) a_0}{\dot a(t_0)^2}$$
@@ -66,7 +66,7 @@ $$\boxed{\,\Omega_\Lambda = 0.6847 \pm 0.0073\,}$$
 
 cosmological constant. consistent across SN Ia, BAO, and CMB.
 
-![intro-34](../../assets/images/intro-34.png)
+<img src="{{ "/assets/images/intro-34.png" | relative_url }}" alt="intro-34" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -83,9 +83,9 @@ but matter + radiation + neutrinos add up to only about $1/3$ of the critical de
 
 a cosmological constant is the limit $p = -\rho$ exactly. dark energy refers to a more general component with $p < -\rho/3$ that can evolve in time/space.
 
-![intro-35](../../assets/images/intro-35.png)
+<img src="{{ "/assets/images/intro-35.png" | relative_url }}" alt="intro-35" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
-![intro-36](../../assets/images/intro-36.png)
+<img src="{{ "/assets/images/intro-36.png" | relative_url }}" alt="intro-36" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -103,7 +103,7 @@ this is **clearly at odds** with independent age measurements:
 
 → the universe is $13.8 \times 10^9$ yr old. a cosmological constant adds the missing few Gyr by slowing down deceleration earlier (and accelerating later).
 
-![intro-37](../../assets/images/intro-37.png)
+<img src="{{ "/assets/images/intro-37.png" | relative_url }}" alt="intro-37" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 

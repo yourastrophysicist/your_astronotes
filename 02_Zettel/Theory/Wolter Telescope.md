@@ -6,7 +6,7 @@ title: "Wolter Telescope"
 The idea of using the [Grazing incidence](../../02_Zettel/Theory/Grazing incidence.html) reflection to focus X-rays was proposed in 1960 by **Giacconi & Rossi** *(JGR 65,773; A Telescope for Soft X-ray Astronomy)*
 	a truncated parabolic mirror not located in the vertex of the parabola, like incase of optical telescopes, but in the arms,
 
-![Screenshot 2026-04-06 at 21.33.22](../../assets/images/Screenshot 2026-04-06 at 21.33.22.png)
+<img src="{{ "/assets/images/Screenshot%202026-04-06%20at%2021.33.22.png" | relative_url }}" alt="Screenshot 2026-04-06 at 21.33.22" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 <font color="#bfbfbf">Proposed scheme for a X-ray mirror that takes advantage of the grazing incidence (Giacconi & Rossi 1960, their Fig. 1)</font> 
 
 This configuration works well **only if the rays are parallel** to the optical axis, 
@@ -20,7 +20,7 @@ The solution has been already found in 1952 by **Hans Wolter** who was working o
 $$\frac{h}{\sin\theta}=R$$
 (read more: Abbe sine condition - Wikipedia and Coma (optics) - Wikipedia)
 
-![Screenshot 2026-04-06 at 21.44.39](../../assets/images/Screenshot 2026-04-06 at 21.44.39.png)
+<img src="{{ "/assets/images/Screenshot%202026-04-06%20at%2021.44.39.png" | relative_url }}" alt="Screenshot 2026-04-06 at 21.44.39" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 <font color="#bfbfbf">Schematic representation of the principal Abbe surface.</font> 
 
 where $R$ is a constant radius. 
@@ -28,18 +28,18 @@ where $R$ is a constant radius.
 For astronomical objects, all rays may be considered parallel 
 	and so the Abbe condition is satisfied if **the incident rays intersect the reflected ray direction in a spherical surface**, called principal Abbe Surface 
 
-![Screenshot 2026-04-06 at 21.47.14](../../assets/images/Screenshot 2026-04-06 at 21.47.14.png)The Abbe condition $h= f\sin \alpha$ applied to the pair of mirrors. $q$ is the radius of the principal surface and corresponds to the focal length $f$ of the optical system that has length $L$. (Saha, Zhang, McClelland 2014)
+<img src="{{ "/assets/images/Screenshot%202026-04-06%20at%2021.47.14.png" | relative_url }}" alt="Screenshot 2026-04-06 at 21.47.14" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />The Abbe condition $h= f\sin \alpha$ applied to the pair of mirrors. $q$ is the radius of the principal surface and corresponds to the focal length $f$ of the optical system that has length $L$. (Saha, Zhang, McClelland 2014)
 
 In fact, the principal surface is not a sphere but a **paraboloid** that is well approximated by a sphere near the vertex of the optical system. 
 	This means that the Abbe condition is really verified in the angular region close to the center of the field-of-view.
 
-![Screenshot 2026-04-06 at 22.01.47](../../assets/images/Screenshot 2026-04-06 at 22.01.47.png)
+<img src="{{ "/assets/images/Screenshot%202026-04-06%20at%2022.01.47.png" | relative_url }}" alt="Screenshot 2026-04-06 at 22.01.47" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 <font color="#bfbfbf">Wolter I configurations. (Pareschi, Spiga & Pellicciari 2021, their Fig. 13.)</font> 
 
-![Screenshot 2026-04-06 at 22.02.49](../../assets/images/Screenshot 2026-04-06 at 22.02.49.png)
+<img src="{{ "/assets/images/Screenshot%202026-04-06%20at%2022.02.49.png" | relative_url }}" alt="Screenshot 2026-04-06 at 22.02.49" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 <font color="#bfbfbf">Wolter II configurations. (Pareschi, Spiga & Pellicciari 2021, their Fig. 13.)</font>
 
-![Screenshot 2026-04-06 at 22.03.26](../../assets/images/Screenshot 2026-04-06 at 22.03.26.png)
+<img src="{{ "/assets/images/Screenshot%202026-04-06%20at%2022.03.26.png" | relative_url }}" alt="Screenshot 2026-04-06 at 22.03.26" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 <font color="#bfbfbf">Wolter III configurations. (Pareschi, Spiga & Pellicciari 2021, their Fig. 13.)</font> 
 
 In the Figures three possible configurations are reported:

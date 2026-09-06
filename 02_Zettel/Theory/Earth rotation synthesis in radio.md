@@ -25,7 +25,7 @@ since the correlator runs in real time on digitized streams, every second of int
 
 ## the typical observation
 
-![Earth rotation synthesis: celestial source motion sweeping elliptical sampling tracks across the (u, v) Fourier plane over a 12-hour track.](Earth_rotation_synthesis_in_radio.svg)
+<img src="{{ "/assets/images/Earth_rotation_synthesis_in_radio.svg" | relative_url }}" alt="Earth rotation synthesis: celestial source motion sweeping elliptical sampling tracks across the (u, v) Fourier plane over a 12-hour track." class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 
 a typical VLA observation:

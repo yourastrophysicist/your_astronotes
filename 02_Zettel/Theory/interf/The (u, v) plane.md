@@ -93,11 +93,11 @@ snapshot (u, v) coverage is the union of just $N(N-1)/2$ points — much sparser
 
 ## scientific figures
 
-![uv_coverage_dirty_beam_demo](../../../assets/images/uv_coverage_dirty_beam_demo.png)
+<img src="{{ "/assets/images/uv_coverage_dirty_beam_demo.png" | relative_url }}" alt="uv_coverage_dirty_beam_demo" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 reading cue: each dot is one measured spatial frequency. the Fourier transform of that sampling pattern is the dirty beam, so gaps in the $(u,v)$ plane become sidelobes in the image.
 
-![nrao_snapshot_uv_coverage](../../../assets/images/nrao_snapshot_uv_coverage.jpg)
+<img src="{{ "/assets/images/nrao_snapshot_uv_coverage.jpg" | relative_url }}" alt="nrao_snapshot_uv_coverage" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 source: first figure is a local synthetic demo; second figure is from S. T. Myers, NRAO Synthesis Imaging Summer School page on snapshot imaging.
 

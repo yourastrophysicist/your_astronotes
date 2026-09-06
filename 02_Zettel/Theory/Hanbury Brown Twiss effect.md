@@ -17,7 +17,7 @@ the **first measurement** of a stellar diameter via *photon counting statistics*
 
 ## the math
 
-![Hanbury Brown and Twiss effect: photon bunching correlation in chaotic thermal light sources.](Hanbury_Brown_Twiss_effect.gif)
+<img src="{{ "/assets/images/Hanbury_Brown_Twiss_effect.gif" | relative_url }}" alt="Hanbury Brown and Twiss effect: photon bunching correlation in chaotic thermal light sources." class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 
 the second-order coherence function:

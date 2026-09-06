@@ -20,7 +20,7 @@ the wind carries material away from the star. as it cools, dust forms — often 
 
 ## what interferometry sees
 
-![Hubble Space Telescope image of a Wolf-Rayet star surrounded by an expanding circumstellar gas and dust nebula.](Dust_shells_and_Wolf-Rayet_stars.jpg)
+<img src="{{ "/assets/images/Dust_shells_and_Wolf-Rayet_stars.jpg" | relative_url }}" alt="Hubble Space Telescope image of a Wolf-Rayet star surrounded by an expanding circumstellar gas and dust nebula." class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 
 interferometric imaging of WR stars at K-band and N-band reveals:

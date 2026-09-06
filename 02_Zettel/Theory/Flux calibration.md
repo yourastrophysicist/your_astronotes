@@ -15,7 +15,7 @@ units: erg/s/cm$^2$/Å per ADU/s (or per electron/s).
 
 ## the standards
 
-![Flux calibration anchoring visibility amplitudes to absolute flux density standards such as 3C 286.](Flux_calibration.jpg)
+<img src="{{ "/assets/images/Flux_calibration.jpg" | relative_url }}" alt="Flux calibration anchoring visibility amplitudes to absolute flux density standards such as 3C 286." class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 
 main libraries:

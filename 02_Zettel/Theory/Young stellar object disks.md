@@ -15,7 +15,7 @@ VLTI/GRAVITY and the historical PIONIER instrument are the workhorses. CHARA con
 
 ## what is a YSO disk
 
-![ALMA 1.3 mm continuum image of concentric dust rings and gaps in the protoplanetary disk surrounding HL Tauri.](Young_stellar_object_disks.jpg)
+<img src="{{ "/assets/images/Young_stellar_object_disks.jpg" | relative_url }}" alt="ALMA 1.3 mm continuum image of concentric dust rings and gaps in the protoplanetary disk surrounding HL Tauri." class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 
 a young star (T Tauri, Herbig Ae/Be) of age $< 10$ Myr has a circumstellar disk of gas and dust. the disk:

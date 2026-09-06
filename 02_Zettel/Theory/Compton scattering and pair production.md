@@ -10,7 +10,7 @@ X-ray photons can **scatter off atomic electrons** while they pass through matte
 		this electron is in one of the outer orbits
 			and its binding energy is significantly less than the energy of the photon
 
-![Screenshot 2026-04-07 at 01.21.46](../../assets/images/Screenshot 2026-04-07 at 01.21.46.png)
+<img src="{{ "/assets/images/Screenshot%202026-04-07%20at%2001.21.46.png" | relative_url }}" alt="Screenshot 2026-04-07 at 01.21.46" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 The energy of the scattered photon depends on the angle $\theta$ and its original energy:
 $$E'_{ph} = \frac{E_{ph}}{1 + \frac{E_{ph}}{m_e c^2}(1 - \cos\theta)}$$
@@ -62,7 +62,7 @@ The three regions of the plot are defined by equalling the cross sections of:
 	[Photoelectric absorption](../../02_Zettel/Theory/Photoelectric absorption.html) and Compton scattering ($\sigma_{ph} = \sigma_C$)
 	Compton scattering and pair production ($\sigma_C = \sigma_{pp}$)
 
-![Screenshot 2026-04-07 at 01.22.49](../../assets/images/Screenshot 2026-04-07 at 01.22.49.png)
+<img src="{{ "/assets/images/Screenshot%202026-04-07%20at%2001.22.49.png" | relative_url }}" alt="Screenshot 2026-04-07 at 01.22.49" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 The two solid lines represent the regions of the plot where $\sigma_{ph} = \sigma_C$ and $\sigma_C = \sigma_{pp}$. The three regions define which interaction dominates as a function of photon energy and atomic number $Z$ of the absorber.
 
 ---

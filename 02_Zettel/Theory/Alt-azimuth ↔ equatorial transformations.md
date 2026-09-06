@@ -7,7 +7,7 @@ the spherical triangle linking the zenith $Z$, the celestial pole $P$, and the b
 
 so the alt-azimuth ↔ equatorial transformation is just the master spherical-trig equations applied with specific substitutions.
 
-![sphereastro-26](../../assets/images/sphereastro-26.png)
+<img src="{{ "/assets/images/sphereastro-26.png" | relative_url }}" alt="sphereastro-26" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -43,7 +43,7 @@ $$\boxed{\,\sin a = \cos h\cos\delta\cos\phi + \sin\delta\sin\phi\,}$$
 
 given $(h, \delta, \phi)$ I get $(A, a)$.
 
-![sphereastro-27](../../assets/images/sphereastro-27.png)
+<img src="{{ "/assets/images/sphereastro-27.png" | relative_url }}" alt="sphereastro-27" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 

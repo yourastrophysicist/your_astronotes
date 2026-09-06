@@ -17,7 +17,7 @@ a (now decommissioned) interferometer that combined the two 10m Keck telescopes 
 
 ## the unique features
 
-![Keck Interferometer: combining the twin 10-meter Keck telescopes across an 85-meter baseline for high-resolution infrared observations.](Keck_interferometer.png)
+<img src="{{ "/assets/images/Keck_interferometer.png" | relative_url }}" alt="Keck Interferometer: combining the twin 10-meter Keck telescopes across an 85-meter baseline for high-resolution infrared observations." class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 
 three:

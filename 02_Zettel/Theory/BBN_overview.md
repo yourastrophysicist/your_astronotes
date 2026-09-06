@@ -19,7 +19,7 @@ what comes out of BBN, three minutes later:
 
 essentially nothing heavier. the absence of tightly-bound isotopes at mass numbers $A=5$ and $A=8$, plus the steeply suppressed reaction rates at $T \sim 0.1$ MeV, prevents significant synthesis beyond $^4$He. heavier elements are forged later, in stars (see [Stellar nucleosynthesis](../../02_Zettel/Theory/Stellar nucleosynthesis.html)).
 
-![bbn-01](../../assets/images/bbn-01.png)
+<img src="{{ "/assets/images/bbn-01.png" | relative_url }}" alt="bbn-01" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -38,16 +38,16 @@ the leftover, "unburnt" amounts of D and $^3$He are the BBN abundances we observ
 
 since nuclei are made of protons and neutrons, the **neutron-to-proton ratio** $n/p$ is the single most important quantity for BBN — essentially all of the neutrons in the universe end up bound into $^4$He.
 
-![bbn-03](../../assets/images/bbn-03.png)
+<img src="{{ "/assets/images/bbn-03.png" | relative_url }}" alt="bbn-03" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
-![bbn-04](../../assets/images/bbn-04.png)
+<img src="{{ "/assets/images/bbn-04.png" | relative_url }}" alt="bbn-04" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ### binding energy per nucleon
 
 the total mass of a nucleus with $Z$ protons and $A-Z$ neutrons is slightly less than the sum of the individual nucleon masses. the difference is the **binding energy**:
 $$B_A = Z m_p + (A-Z) m_n - m_A$$
 
-![bbn-05](../../assets/images/bbn-05.png)
+<img src="{{ "/assets/images/bbn-05.png" | relative_url }}" alt="bbn-05" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 light elements (D, $^3$He) have binding energies of just a few MeV per nucleon. $^4$He sits at $\sim 7$ MeV/A, which is why it dominates the BBN end-state. heavier elements continue to climb up to iron at $\sim 8.8$ MeV/A.
 
@@ -82,13 +82,13 @@ $$\boxed{\,n_A = g_A A^{3/2}\, 2^{-A}(n_p)^Z(n_n)^{A-Z}\,(2\pi/m_N T)^{(3/2)(A-1
 
 this is the master NSE expression. the exponential factor $e^{B_A/T}$ is the binding-energy enhancement we expect; the prefactors carry the kinematic information.
 
-![bbn-06](../../assets/images/bbn-06.png)
+<img src="{{ "/assets/images/bbn-06.png" | relative_url }}" alt="bbn-06" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
-![bbn-08](../../assets/images/bbn-08.png)
+<img src="{{ "/assets/images/bbn-08.png" | relative_url }}" alt="bbn-08" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
-![bbn-09](../../assets/images/bbn-09.png)
+<img src="{{ "/assets/images/bbn-09.png" | relative_url }}" alt="bbn-09" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
-![bbn-10](../../assets/images/bbn-10.png)
+<img src="{{ "/assets/images/bbn-10.png" | relative_url }}" alt="bbn-10" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ### mass fractions
 
@@ -100,7 +100,7 @@ $$X_A = \frac{A n_A}{n_N}$$
 
 with $\sum_i X_i = 1$.
 
-![bbn-11](../../assets/images/bbn-11.png)
+<img src="{{ "/assets/images/bbn-11.png" | relative_url }}" alt="bbn-11" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -114,7 +114,7 @@ $$\boxed{\,\eta = \frac{n_N}{n_\gamma} = 2.68 \times 10^{-8} (\Omega_{0b} h^2) \
 
 with Planck's $\Omega_b h^2 \approx 0.0224$ this gives $\eta \sim 6 \times 10^{-10}$. *one nucleon per about a billion photons.* the universe is photon-dominated by number.
 
-![bbn-12](../../assets/images/bbn-12.png)
+<img src="{{ "/assets/images/bbn-12.png" | relative_url }}" alt="bbn-12" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ### why $\eta$ is approximately constant
 
@@ -131,9 +131,9 @@ is **not** strictly constant in general, because $g_{*s}$ changes with temperatu
 
 since BBN happens at $T \sim 0.3$–$0.1$ MeV (well after $e^\pm$ annihilation), I can treat $\eta$ as a constant equal to its present value.
 
-![bbn-13](../../assets/images/bbn-13.png)
+<img src="{{ "/assets/images/bbn-13.png" | relative_url }}" alt="bbn-13" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
-![bbn-14](../../assets/images/bbn-14.png)
+<img src="{{ "/assets/images/bbn-14.png" | relative_url }}" alt="bbn-14" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ### NSE mass fraction in terms of $\eta$
 
@@ -142,7 +142,7 @@ $$X_A = g_A\,[\zeta(3)^{A-1}\, 2^{(3A-5)/2}\, \pi^{(1-A)/2}]\, A^{5/2}\, (T/m_N)
 
 so $X_A \propto \eta^{A-1}$ — a strong dependence on the baryon-to-photon ratio for heavier species.
 
-![bbn-15](../../assets/images/bbn-15.png)
+<img src="{{ "/assets/images/bbn-15.png" | relative_url }}" alt="bbn-15" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -157,7 +157,7 @@ $$e^+ + n \leftrightarrow p + \bar\nu_e$$
 while the rates $\Gamma_i \gg H$, chemical equilibrium holds:
 $$\mu_n + \mu_\nu = \mu_p + \mu_e$$
 
-![bbn-16](../../assets/images/bbn-16.png)
+<img src="{{ "/assets/images/bbn-16.png" | relative_url }}" alt="bbn-16" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 so in (thermal) equilibrium:
 $$\frac{n}{p} = \frac{X_n}{X_p} = \frac{e^{(\mu_n - m_n)/T}}{e^{(\mu_p - m_p)/T}} = e^{-(m_n - m_p)/T}\, e^{(\mu_n - \mu_p)/T}$$
@@ -169,14 +169,14 @@ the chemical potentials in the second exponential: $\mu_e/T \sim n_e/n_\gamma \s
 
 $$\left(\frac{n}{p}\right)_{EQ} = e^{-Q/T}$$
 
-![bbn-17](../../assets/images/bbn-17.png)
+<img src="{{ "/assets/images/bbn-17.png" | relative_url }}" alt="bbn-17" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 at $T \gg Q = 1.293$ MeV, $(n/p)_{EQ} \approx 1$. for weak interactions
 $$\frac{\Gamma_w}{H} \sim \left(\frac{T}{1\,\text{MeV}}\right)^3$$
 
 so as long as $T \gg 1$ MeV, weak interactions are fast, n/p tracks its equilibrium value of 1.
 
-![bbn-18](../../assets/images/bbn-18.png)
+<img src="{{ "/assets/images/bbn-18.png" | relative_url }}" alt="bbn-18" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ### the bigger picture: NSE delays nucleosynthesis to $T \ll \text{MeV}$
 
@@ -190,11 +190,11 @@ $$\dots$$
 
 each species has $X_A \propto \eta^{A-1}$.
 
-![bbn-19](../../assets/images/bbn-19.png)
+<img src="{{ "/assets/images/bbn-19.png" | relative_url }}" alt="bbn-19" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 plotting these abundances as a function of $T$:
 
-![bbn-20](../../assets/images/bbn-20.png)
+<img src="{{ "/assets/images/bbn-20.png" | relative_url }}" alt="bbn-20" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 (at log $T_{\rm MeV} = -0.5$, i.e. $T \approx 0.3$ MeV, you see $^4$He and $^{12}$C cross over into significant abundance.)
 
@@ -207,7 +207,7 @@ $$T_{\rm NUCL} \approx \frac{B_A/(A-1)}{\ln(\eta^{-1}) + 1.5\ln(m_N/T)}$$
 
 so for D one finds $T_{\rm NUCL} \approx 0.07$ MeV; for $^3$He, 0.11 MeV; for $^4$He, 0.28 MeV.
 
-![bbn-21](../../assets/images/bbn-21.png)
+<img src="{{ "/assets/images/bbn-21.png" | relative_url }}" alt="bbn-21" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ### the deuterium "bottleneck" — actually entropy
 
@@ -217,7 +217,7 @@ the standard textbook explanation says nucleosynthesis is delayed by the small b
 
 a small bottleneck due to D (and $^3$He) does exist around $T \sim 0.1$ MeV: the small abundances of D and $^3$He **slow down** ${}^4$He synthesis a bit. but it is not the main reason for the delay.
 
-![bbn-22](../../assets/images/bbn-22.png)
+<img src="{{ "/assets/images/bbn-22.png" | relative_url }}" alt="bbn-22" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -234,7 +234,7 @@ light elements are in NSE but their abundances are tiny because $T \gg B_A$ and 
 $$X_n \approx X_p \approx 0.5$$
 $$X_2 \sim 10^{-12}, \quad X_3 \sim 10^{-23}, \quad X_4 \sim 10^{-30}$$
 
-![bbn-23](../../assets/images/bbn-23.png)
+<img src="{{ "/assets/images/bbn-23.png" | relative_url }}" alt="bbn-23" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ### Step 2: $T \sim 1$ MeV ($t \sim 1$ sec)
 
@@ -249,7 +249,7 @@ $$\left(\frac{n}{p}\right)_{\rm freeze-out} = e^{-Q/T_F} = e^{-1.293/0.8} \appro
 
 this is one of the most important examples in cosmology of a process that goes out of equilibrium. it is exactly why we spent so much time setting up the conditions for departure from equilibrium.
 
-![bbn-24](../../assets/images/bbn-24.png)
+<img src="{{ "/assets/images/bbn-24.png" | relative_url }}" alt="bbn-24" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 at this point the abundances are still:
 $$X_n \approx 1/7, \quad X_p \approx 6/7$$
@@ -257,7 +257,7 @@ $$X_2 \sim 10^{-12}, \quad X_3 \sim 10^{-23}, \quad X_4 \sim 10^{-28}, \quad X_{
 
 (the n/p ratio has shifted slightly from $1/6$ to $\sim 1/7$ due to occasional free neutron decays, $\tau_{1/2}(n) \approx 610$ s.)
 
-![bbn-25](../../assets/images/bbn-25.png)
+<img src="{{ "/assets/images/bbn-25.png" | relative_url }}" alt="bbn-25" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 at $T \sim 0.3$ MeV the NSE value of $^4$He approaches unity. but **shortly before**, at $T \sim 0.5$ MeV, the actual abundance of $^4$He falls *below* its NSE value. why?
 
@@ -268,14 +268,14 @@ these reactions are
 - $D + D \to p + {}^3$H, then ${}^3$H $+ D \to {}^4$He $+ n$
 - $D + D \to {}^4$He $+ \gamma$
 
-![bbn-27](../../assets/images/bbn-27.png)
+<img src="{{ "/assets/images/bbn-27.png" | relative_url }}" alt="bbn-27" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 their rates $\Gamma = n_A \sigma v$ are low for two reasons:
 1. the abundances of the "fuels" D, $^3$He, $^3$H are still very low, $X_A \sim 10^{-12}$
 2. the cross-sections $\sigma$ are suppressed by **Coulomb barrier**:
 $$\sigma \propto \exp[-2(A_1 A_2/(A_1+A_2))^{1/3} Z_1 Z_2 T_{\rm MeV}^{-1/3}]$$
 
-![bbn-28](../../assets/images/bbn-28.png)
+<img src="{{ "/assets/images/bbn-28.png" | relative_url }}" alt="bbn-28" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 once the abundances of D, $^3$He, $^3$H reach order unity at $T_{\rm NUCL} \sim 0.1$ MeV, the reactions become fast enough — and **essentially all the neutrons are bound into $^4$He**, the most tightly bound light species.
 
@@ -284,7 +284,7 @@ $$X_4 = \frac{4 n_4}{n_N} \simeq \frac{4(n_n/2)}{n_n + n_p} = \frac{2(n/p)_{\rm 
 
 this is the most famous prediction of BBN: roughly a quarter of the universe's baryonic mass is locked into $^4$He, primordially.
 
-![bbn-29](../../assets/images/bbn-29.png)
+<img src="{{ "/assets/images/bbn-29.png" | relative_url }}" alt="bbn-29" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ### Step 3: $T \sim 0.3 \to 0.1$ MeV ($t \sim 1$ to 3 minutes)
 
@@ -292,7 +292,7 @@ at this epoch $g_* = 3.36$ (3 light neutrinos + photons; $e^\pm$ have annihilate
 
 (an interesting check: at NSE, $T = 0.3$ MeV would give $(n/p)_{EQ} = e^{-Q/T} = e^{-4.31} \sim 1/74$, much smaller than the actual $1/7$. so the n/p ratio has *decoupled from equilibrium* — exactly what we expect from the freeze-out picture.)
 
-![bbn-26](../../assets/images/bbn-26.png)
+<img src="{{ "/assets/images/bbn-26.png" | relative_url }}" alt="bbn-26" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ### what about D, $^3$He, $^7$Li?
 
@@ -314,9 +314,9 @@ via two channels:
 - for $\eta < 3 \times 10^{-10}$: $^4$He $+ ^3$H $\to ^7$Li $+ \gamma$
 - for $\eta > 3 \times 10^{-10}$: $^4$He $+ ^3$He $\to ^7$Be $+ \gamma$, followed by $\beta$-decay of $^7$Be into $^7$Li
 
-![bbn-30](../../assets/images/bbn-30.png)
+<img src="{{ "/assets/images/bbn-30.png" | relative_url }}" alt="bbn-30" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
-![bbn-31](../../assets/images/bbn-31.png)
+<img src="{{ "/assets/images/bbn-31.png" | relative_url }}" alt="bbn-31" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -335,13 +335,13 @@ $$\Gamma \propto G_F^2 T^5, \qquad \tau_{1/2}(n) \propto (G_F^2 m_n^5)^{-1} \qua
 
 an **increase** in $\tau_{1/2}(n)$ (longer-lived neutron) decreases all weak interaction rates, leading to **earlier freeze-out** of n/p (because $\Gamma_w \sim H$ is satisfied at higher $T$), and thus a **larger frozen n/p ratio** and consequently **more $^4$He**.
 
-![bbn-32](../../assets/images/bbn-32.png)
+<img src="{{ "/assets/images/bbn-32.png" | relative_url }}" alt="bbn-32" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ### 2. cosmological parameters: $g_*(T)$ and $\eta$
 
 since $H \propto g_*^{1/2} T^2$, an increase in $g_*$ leads to a faster expansion, an earlier freeze-out of n/p, and a higher $^4$He abundance. **this is how BBN constrains the number of light particle species in the universe** — extra neutrino species, or primordial gravitational waves, would all increase $g_*$.
 
-![bbn-33](../../assets/images/bbn-33.png)
+<img src="{{ "/assets/images/bbn-33.png" | relative_url }}" alt="bbn-33" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ### 3. dependence on $\eta$
 
@@ -350,7 +350,7 @@ we already saw $X_A \propto \eta^{A-1}$. so:
 - D, $^3$He: their final abundances **decrease strongly with increasing $\eta$**, because the burning rate is faster
 - $^7$Li: there's a "trough" in $^7$Li/H at $\eta \sim 3 \times 10^{-10}$, where the two production channels swap dominance
 
-![bbn-34](../../assets/images/bbn-34.png)
+<img src="{{ "/assets/images/bbn-34.png" | relative_url }}" alt="bbn-34" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -358,17 +358,17 @@ we already saw $X_A \propto \eta^{A-1}$. so:
 
 the development of primordial nucleosynthesis as a function of $T$ for $\eta = 3 \times 10^{-10}$, $\tau_{1/2} = 10.6$ min, $N_\nu = 3$:
 
-![bbn-35](../../assets/images/bbn-35.png)
+<img src="{{ "/assets/images/bbn-35.png" | relative_url }}" alt="bbn-35" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 a more modern version with all the species labeled:
 
-![bbn-36](../../assets/images/bbn-36.png)
+<img src="{{ "/assets/images/bbn-36.png" | relative_url }}" alt="bbn-36" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 (Pradler & Pospelov 1011.1054.) you can see deuterium burning (D b.n.), neutrino decoupling, n/p decoupling, $e^\pm$ annihilation, and finally standard BBN freeze-out (SBBN f.o.) on a single timeline.
 
 abundances as a function of $\eta$:
 
-![bbn-37](../../assets/images/bbn-37.png)
+<img src="{{ "/assets/images/bbn-37.png" | relative_url }}" alt="bbn-37" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 the $^4$He mass fraction $Y_p$ slowly increases with $\eta$ (and with $N_\nu$). the curves for D, $^3$He, $^7$Li are sensitive in different ways. the $^7$Li **trough** at $\eta \sim 3 \times 10^{-10}$ is visible.
 
@@ -389,15 +389,15 @@ the modern way: **absorption lines of quasars by D at high redshift** ($z \sim 3
 
 these measurements actually give a **direct precise determination** of $(D/H)_{\rm prim}$, not just a lower bound:
 
-![bbn-39](../../assets/images/bbn-39.png)
+<img src="{{ "/assets/images/bbn-39.png" | relative_url }}" alt="bbn-39" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 $$D/H = \frac{10^5\, n_D}{n_H} = 2.527 \pm 0.030 \quad \text{(68\% CL, Cooke et al. 2018)}$$
 
 this is one of the most precise measurements of the baryon density we have. since the BBN prediction for D depends steeply on $\eta$, even relatively large errors on D translate into small errors on $\Omega_b h^2$.
 
-![bbn-38](../../assets/images/bbn-38.png)
+<img src="{{ "/assets/images/bbn-38.png" | relative_url }}" alt="bbn-38" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
-![bbn-40](../../assets/images/bbn-40.png)
+<img src="{{ "/assets/images/bbn-40.png" | relative_url }}" alt="bbn-40" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ### $^3$He
 
@@ -410,7 +410,7 @@ $^3$He is **harder to destroy** than D — at most a factor 2 of stellar process
 
 historically the consistency of BBN predictions for D and $^3$He gave $4 \le \eta \times 10^{10} \le 10$. now with precise D measurements alone, we get a precise $\eta$.
 
-![bbn-41](../../assets/images/bbn-41.png)
+<img src="{{ "/assets/images/bbn-41.png" | relative_url }}" alt="bbn-41" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ### $^7$Li
 
@@ -421,7 +421,7 @@ $$\frac{}^{7\text{Li}}{H} \sim O(1) \times 10^{-10}$$
 
 this was the sign that $^7$Li survived in higher-mass envelopes. it sits in the "trough" of the predicted $^7$Li($\eta$) curve, making it a sensitive probe of $\eta$.
 
-![bbn-42](../../assets/images/bbn-42.png)
+<img src="{{ "/assets/images/bbn-42.png" | relative_url }}" alt="bbn-42" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 (historically, using D, $^3$He, $^7$Li together: $4 \le \eta \times 10^{10} \le 7$.)
 
@@ -435,14 +435,14 @@ stars produce $^4$He, so high-metallicity environments will overestimate the pri
 
 extrapolating to zero metallicity:
 
-![bbn-44](../../assets/images/bbn-44.png)
+<img src="{{ "/assets/images/bbn-44.png" | relative_url }}" alt="bbn-44" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 most up-to-date (Aver et al. 2015):
 $$Y_p = \frac{4 n_{^4\text{He}}}{n_N} = 0.2449 \pm 0.0040 \quad (68\%\,\text{CL})$$
 
 remarkably consistent with the prediction of $\sim 25\%$.
 
-![bbn-43](../../assets/images/bbn-43.png)
+<img src="{{ "/assets/images/bbn-43.png" | relative_url }}" alt="bbn-43" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -453,13 +453,13 @@ $$\Omega_b h^2 = 0.0224 \pm 0.0001$$
 
 these are **two completely independent** measurements of the baryon content, and they are consistent at very high precision. that consistency is one of the strongest validations of the standard hot Big Bang model we have.
 
-![bbn-45](../../assets/images/bbn-45.png)
+<img src="{{ "/assets/images/bbn-45.png" | relative_url }}" alt="bbn-45" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
-![bbn-46](../../assets/images/bbn-46.png)
+<img src="{{ "/assets/images/bbn-46.png" | relative_url }}" alt="bbn-46" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 a beautiful summary plot:
 
-![bbn-47](../../assets/images/bbn-47.png)
+<img src="{{ "/assets/images/bbn-47.png" | relative_url }}" alt="bbn-47" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 (top) $Y_p^{\rm BBN}$ vs $\omega_b = \Omega_b h^2$, with the standard BBN prediction band (Aver et al. 2015 measurement bracketing the BBN curve) and the Planck CMB constraint (vertical red band).
 (bottom) $y_{DP} = $ D/H vs $\omega_b$, with two theoretical predictions (Adelberger et al. 2011 vs Marcucci et al. 2016) and the Cooke et al. 2018 measurement.

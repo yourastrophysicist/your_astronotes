@@ -50,11 +50,11 @@ properties:
   - **II**: inside the BH (future).
   - **III**: another asymptotically-flat universe ("parallel universe").
   - **IV**: white hole (past).
-![Pasted image 20260620132508](../../assets/images/Pasted image 20260620132508.png)
+<img src="{{ "/assets/images/Pasted%20image%2020260620132508.png" | relative_url }}" alt="Pasted image 20260620132508" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 regions III and IV are **mathematical artefacts** of the maximal extension; they don't exist in physical BHs (which form from gravitational collapse and never have a past horizon).
 
 ## Penrose diagrams
-![Pasted image 20260620134402](../../assets/images/Pasted image 20260620134402.png)
+<img src="{{ "/assets/images/Pasted%20image%2020260620134402.png" | relative_url }}" alt="Pasted image 20260620134402" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 a conformal compactification of Kruskal: maps the entire (infinite) Kruskal spacetime to a finite diagram. light cones still at 45°, but null infinity is finite. used to draw global causal structure.
 

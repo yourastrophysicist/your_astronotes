@@ -6,7 +6,7 @@ description: full overview of MS, TO, SGB, RGB, HB, AGB and WD positions on the 
 
 reading the [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.html) of an old, populous cluster means recognising six evolutionary loci that each correspond to a specific interior burning configuration. the same six loci appear, suitably shifted, in the [HR diagram](../../02_Zettel/Theory/HR diagram.html) $(\log L, \log T_\mathrm{eff})$.
 
-![L01_p14_CMD_evolutionary_phases-14](../../assets/images/L01_p14_CMD_evolutionary_phases-14.png)
+<img src="{{ "/assets/images/L01_p14_CMD_evolutionary_phases-14.png" | relative_url }}" alt="L01_p14_CMD_evolutionary_phases-14" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 *the canonical CMD of an old globular cluster (Milone et al. 2025) showing all six evolutionary phases: MS, TO, SGB, RGB, HB, AGB, and the WD cooling sequence below.*
 
 **main sequence (MS).** the diagonal locus from the faint-red lower MS to the bright-blue upper MS. interior physics: stable core hydrogen burning via the pp chain (low-mass, $M \lesssim 1.2 \, M_\odot$) or the CNO cycle (higher mass, with a convective core). lifetime $\tau_\mathrm{MS} \approx 10 \, (M/M_\odot)^{-2.5}$ Gyr. for an old GC the upper MS is empty because everything above $M_\mathrm{TO}$ has already evolved off (see [Main sequence on the CMD](../../02_Zettel/Theory/Main sequence on the CMD.html)).

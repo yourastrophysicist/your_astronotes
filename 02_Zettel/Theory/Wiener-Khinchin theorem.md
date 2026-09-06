@@ -23,7 +23,7 @@ $$R_x(\tau)=\int_{-\infty}^{\infty}S_x(\nu)e^{2\pi i\nu\tau}\,d\nu$$
 
 ## physical meaning
 
-![Wiener-Khinchin theorem: the autocorrelation of a wide-sense stationary signal forms a Fourier transform pair with its power spectral density.](Wiener-Khinchin_theorem.svg)
+<img src="{{ "/assets/images/Wiener-Khinchin_theorem.svg" | relative_url }}" alt="Wiener-Khinchin theorem: the autocorrelation of a wide-sense stationary signal forms a Fourier transform pair with its power spectral density." class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 
 correlation in time contains information about frequency content.

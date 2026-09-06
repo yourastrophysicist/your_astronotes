@@ -44,7 +44,7 @@ $$24\,\text{h} \leftrightarrow 360°, \qquad 1\,\text{h} \leftrightarrow 15°, \
 
 so $\alpha = 12$ h means $\alpha = 180°$, and the master relation $\Theta = h + \alpha$ adds time-format quantities directly.
 
-![sphereastro-25](../../assets/images/sphereastro-25.png)
+<img src="{{ "/assets/images/sphereastro-25.png" | relative_url }}" alt="sphereastro-25" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 

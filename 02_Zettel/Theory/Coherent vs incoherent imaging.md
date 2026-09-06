@@ -23,7 +23,7 @@ intensities just sum.
 
 ## what makes light coherent
 
-![Coherent superposition (adding complex field amplitudes) versus incoherent superposition (adding wave intensities).](Coherent_vs_incoherent_imaging.png)
+<img src="{{ "/assets/images/Coherent_vs_incoherent_imaging.png" | relative_url }}" alt="Coherent superposition (adding complex field amplitudes) versus incoherent superposition (adding wave intensities)." class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 
 mutual coherence requires both:

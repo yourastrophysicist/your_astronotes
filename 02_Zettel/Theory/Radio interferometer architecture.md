@@ -125,11 +125,11 @@ see also [Downconversion of signals in radio interferometers](../../02_Zettel/Th
 
 ## scientific figures
 
-![alma_signal_path_official](../../assets/images/alma_signal_path_official.gif)
+<img src="{{ "/assets/images/alma_signal_path_official.gif" | relative_url }}" alt="alma_signal_path_official" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 reading cue: ALMA's official signal path shows the whole radio chain: antenna collection, cold front end, back-end digitization, fiber transmission, and central correlation.
 
-![radio_interferometer_signal_chain](../../assets/images/radio_interferometer_signal_chain.svg)
+<img src="{{ "/assets/images/radio_interferometer_signal_chain.svg" | relative_url }}" alt="radio_interferometer_signal_chain" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 source: first figure from ALMA Observatory, "How ALMA Works"; second figure is a local study diagram of the same conceptual chain.
 

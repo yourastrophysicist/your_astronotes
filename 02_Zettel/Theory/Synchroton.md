@@ -12,7 +12,7 @@ The magnetic field $\vec{B}$ changes only the **direction** of the particle
 		becomes the velocity of the **circular motion** caused by the Lorentz force
 	the component parallel to $\vec{B}$ (i.e. $\vec{v}_\parallel$)
 		is a drift velocity that causes a **helical motion** around the field lines
-![Screenshot 2026-04-07 at 02.18.42](../../assets/images/Screenshot 2026-04-07 at 02.18.42.png)
+<img src="{{ "/assets/images/Screenshot%202026-04-07%20at%2002.18.42.png" | relative_url }}" alt="Screenshot 2026-04-07 at 02.18.42" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 ---
 
 ## Synchrotron frequency
@@ -63,7 +63,7 @@ The shape of $F(x)$ with $x = \frac{\nu}{\nu_c}$:
 	peaks near $\nu_c$
 	drops exponentially above $\nu_c$
 
-![Screenshot 2026-04-07 at 02.19.33](../../assets/images/Screenshot 2026-04-07 at 02.19.33.png)
+<img src="{{ "/assets/images/Screenshot%202026-04-07%20at%2002.19.33.png" | relative_url }}" alt="Screenshot 2026-04-07 at 02.19.33" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 ---
 
 ## Power-law spectrum (ensemble of particles)

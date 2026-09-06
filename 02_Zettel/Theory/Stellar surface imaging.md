@@ -16,7 +16,7 @@ tags:
 
 ## core physical intuition
 
-![Stellar surface imaging: reconstructing starspots and rapid rotation flattening from optical interferometry data.](Stellar_surface_imaging.jpg)
+<img src="{{ "/assets/images/Stellar_surface_imaging.jpg" | relative_url }}" alt="Stellar surface imaging: reconstructing starspots and rapid rotation flattening from optical interferometry data." class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 
 While measuring a single diameter is useful, combining light from many telescopes at once allows you to mathematically reconstruct a true two-dimensional picture of a star's surface. This requires extensive baseline coverage to sample many spatial frequencies and the use of closure phases to bypass the corrupting effects of Earth's atmosphere.

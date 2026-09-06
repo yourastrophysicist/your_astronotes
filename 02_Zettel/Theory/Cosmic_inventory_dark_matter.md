@@ -9,7 +9,7 @@ title: "Cosmic_inventory_dark_matter"
 
 these methods consistently give a total matter density several times the baryon density. the difference is **dark matter**: non-relativistic, effectively pressureless, gravitationally interacting, but invisible to photons.
 
-![intro-16](../../assets/images/intro-16.png)
+<img src="{{ "/assets/images/intro-16.png" | relative_url }}" alt="intro-16" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -20,7 +20,7 @@ $$\boxed{\,\Omega_m = 0.315 \pm 0.007, \quad \Omega_{dm} h^2 = 0.120 \pm 0.001\,
 
 so the matter density is about **five times the baryon density**. *most of the matter in the universe is not baryons.* dark matter is some new particle species (or species).
 
-![intro-24](../../assets/images/intro-24.png)
+<img src="{{ "/assets/images/intro-24.png" | relative_url }}" alt="intro-24" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -32,7 +32,7 @@ $$V^2(r) = \frac{GM(r)}{r}$$
 if all the mass is luminous and concentrated in a stellar disk, then beyond the disk edge $r_*$ the enclosed mass is constant and the velocity drops:
 $$V(r) \propto \frac{1}{r^{1/2}} \qquad \text{(Keplerian fall-off)}$$
 
-![intro-18](../../assets/images/intro-18.png)
+<img src="{{ "/assets/images/intro-18.png" | relative_url }}" alt="intro-18" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 what we *observe* is completely different. neutral hydrogen (21-cm) observations probe rotation way past the optical disk, and the curves stay **flat**. flat $V(r)$ means $M(r) \propto r$, so there is mass distributed at large radii that does not emit light.
 
@@ -41,7 +41,7 @@ what we *observe* is completely different. neutral hydrogen (21-cm) observations
 a galaxy is parametrized by its center, systemic velocity $V_{sys}$, circular velocity $V(R)$, inclination $i$, azimuth $\theta$:
 $$V_{obs}(\xi, \eta) = V_{sys} + V(R)\cos\theta\sin i$$
 
-![intro-19](../../assets/images/intro-19.png)
+<img src="{{ "/assets/images/intro-19.png" | relative_url }}" alt="intro-19" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 velocities are measured from Doppler shifts of emission lines (one side blueshifted, one redshifted).
 
@@ -49,13 +49,13 @@ velocities are measured from Doppler shifts of emission lines (one side blueshif
 
 Rubin & Ford (1970), Roberts & Whitehurst (1975), the entire Rubin sample of 21 Sc galaxies (1980) — all show: **no rotation curve follows the stellar disk velocity profile**.
 
-![intro-20](../../assets/images/intro-20.png)
+<img src="{{ "/assets/images/intro-20.png" | relative_url }}" alt="intro-20" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ### decomposing the rotation curve
 
 modern analysis fits the observed $V(r)$ as the sum of three components: stellar disk + gas + dark matter halo.
 
-![intro-21](../../assets/images/intro-21.png)
+<img src="{{ "/assets/images/intro-21.png" | relative_url }}" alt="intro-21" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 the stellar disk peaks and falls off; the gas rises slowly; the dark matter halo dominates at large radius. without a halo the high-$r$ flat curve cannot be explained. (Corbelli & Salucci 2000 for M33.)
 
@@ -65,7 +65,7 @@ the stellar disk peaks and falls off; the gas rises slowly; the dark matter halo
 
 galactic rotation curves only give a *galaxy-scale* measurement. the more compelling evidence comes from cosmological scales:
 
-![intro-23](../../assets/images/intro-23.png)
+<img src="{{ "/assets/images/intro-23.png" | relative_url }}" alt="intro-23" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 1. **distribution of galaxies on large scales** — strongly dependent on $\Omega_m h$
 2. **cosmic velocity fields** — peculiar motions trace the underlying gravitational potential
@@ -78,13 +78,13 @@ galactic rotation curves only give a *galaxy-scale* measurement. the more compel
 
 the relative heights of the second, third, fourth peaks fix $\Omega_m h^2$:
 
-![intro-25](../../assets/images/intro-25.png)
+<img src="{{ "/assets/images/intro-25.png" | relative_url }}" alt="intro-25" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ### mass-to-light ratio across scales
 
 a direct check. $M/L_B$ vs scale: luminous matter tracks $L$, total mass tracks $M$. if $M/L$ stayed constant with scale, all matter would be luminous. it does not.
 
-![intro-17](../../assets/images/intro-17.png)
+<img src="{{ "/assets/images/intro-17.png" | relative_url }}" alt="intro-17" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 at galactic scales (spirals, ellipticals): $M/L \sim 10$ in solar units. at cluster scales (rich clusters, superclusters): $M/L \sim 200\text{–}300$, consistent with $\Omega_m \approx 0.3$. the rise tells you the dark matter fraction increases on larger scales.
 
@@ -92,7 +92,7 @@ at galactic scales (spirals, ellipticals): $M/L \sim 10$ in solar units. at clus
 
 a universe of pure baryons would have huge oscillations in $P_m(k)$. our universe has small wiggles on top of a smooth dark-matter power-law. the data agree with the dark-matter-dominated prediction.
 
-![intro-28](../../assets/images/intro-28.png)
+<img src="{{ "/assets/images/intro-28.png" | relative_url }}" alt="intro-28" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -100,7 +100,7 @@ a universe of pure baryons would have huge oscillations in $P_m(k)$. our univers
 
 zoom out on $P_m(k)$:
 
-![intro-27](../../assets/images/intro-27.png)
+<img src="{{ "/assets/images/intro-27.png" | relative_url }}" alt="intro-27" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 the **turnover** at $k \sim 0.02\,h\,\text{Mpc}^{-1}$ corresponds to the **horizon size at matter-radiation equality** — directly sensitive to $\Omega_m h^2$. modes that entered the horizon during radiation domination did not grow (Meszaros effect); modes that entered later did. so the position of the turnover fixes the matter density.
 

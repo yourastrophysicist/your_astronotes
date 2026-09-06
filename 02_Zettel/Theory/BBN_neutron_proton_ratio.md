@@ -19,7 +19,7 @@ $$e^+ + n \leftrightarrow p + \bar\nu_e$$
 while the rates $\Gamma_i$ for these are $\Gamma_i \gg H$, chemical equilibrium also holds:
 $$\mu_n + \mu_\nu = \mu_p + \mu_e$$
 
-![bbn-16](../../assets/images/bbn-16.png)
+<img src="{{ "/assets/images/bbn-16.png" | relative_url }}" alt="bbn-16" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -41,7 +41,7 @@ where $Q = m_n - m_p = 1.293$ MeV (the neutron-proton mass difference).
 both terms negligible, so:
 $$\boxed{\,\left(\frac{n}{p}\right)_{\rm EQ} = e^{-Q/T}\,}$$
 
-![bbn-17](../../assets/images/bbn-17.png)
+<img src="{{ "/assets/images/bbn-17.png" | relative_url }}" alt="bbn-17" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -52,7 +52,7 @@ $$\frac{\Gamma_w}{H} \sim \left(\frac{T}{1\,\text{MeV}}\right)^3$$
 
 so as long as $T \gg 1$ MeV, weak interactions are fast and $(n/p)$ tracks its equilibrium value of 1.
 
-![bbn-18](../../assets/images/bbn-18.png)
+<img src="{{ "/assets/images/bbn-18.png" | relative_url }}" alt="bbn-18" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -64,7 +64,7 @@ $$\left(\frac{n}{p}\right)_{\rm freeze-out} = e^{-Q/T_F} = e^{-1.293/0.8} \appro
 
 this is one of the most important examples in cosmology of a process that goes out of equilibrium. it is exactly why we spend so much time on the conditions for departure from equilibrium ([Decoupling and freeze-out](../../02_Zettel/Theory/Decoupling and freeze-out.html)).
 
-![bbn-24](../../assets/images/bbn-24.png)
+<img src="{{ "/assets/images/bbn-24.png" | relative_url }}" alt="bbn-24" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -78,7 +78,7 @@ $$\left(\frac{n}{p}\right)_{\rm NUCL} \approx \frac{1}{7}$$
 
 (more rigorously, we should solve the time evolution of $(n/p)$ with the decay rate built in, but this is a good approximation.)
 
-![bbn-26](../../assets/images/bbn-26.png)
+<img src="{{ "/assets/images/bbn-26.png" | relative_url }}" alt="bbn-26" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -93,7 +93,7 @@ $$X_4 \simeq \frac{2(1/7)}{1 + 1/7} = \frac{2}{8} = \frac{1}{4} = 25\%$$
 
 → **the famous prediction of BBN: about 25% of the universe's baryonic mass locked into $^4$He, primordially**.
 
-![bbn-29](../../assets/images/bbn-29.png)
+<img src="{{ "/assets/images/bbn-29.png" | relative_url }}" alt="bbn-29" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 

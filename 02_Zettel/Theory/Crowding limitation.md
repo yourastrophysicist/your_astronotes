@@ -15,7 +15,7 @@ but if many sources are present in the field, their dirty beams *overlap*. each 
 
 ## the math
 
-![Crowding limitations and field of view constraints in sparse interferometric arrays caused by synthesized grating lobes.](Crowding_limitation.jpg)
+<img src="{{ "/assets/images/Crowding_limitation.jpg" | relative_url }}" alt="Crowding limitations and field of view constraints in sparse interferometric arrays caused by synthesized grating lobes." class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 
 let $N_{\rm src}$ sources be in the field, each producing a dirty beam pattern with peak $I_{\rm peak}$ and **integrated sidelobe ratio** $\eta_{\rm SL}$ (typical 0.1-0.5).

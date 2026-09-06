@@ -11,7 +11,7 @@ above $\sim 100$ Mpc the universe looks **homogeneous and isotropic**:
 	this is the **cosmological principle**,
 		the zero-th order picture of a comoving observer.
 
-![intro-04](../../assets/images/intro-04.png)
+<img src="{{ "/assets/images/intro-04.png" | relative_url }}" alt="intro-04" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 modern cosmology surveys reach about a Gpc; this is the redshift cone we live inside.
 
@@ -30,7 +30,7 @@ what the late 20th century added on top of this is the **Standard Model of Cosmo
 - **deviations from homogeneity and isotropy**: galaxies, clusters, CMB anisotropies (these are first-order corrections to the zeroth-order homogeneity)
 - **inflation** as the generator of those primordial perturbations
 
-![intro-06](../../assets/images/intro-06.png)
+<img src="{{ "/assets/images/intro-06.png" | relative_url }}" alt="intro-06" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 the present-day pie chart, from a Kolb arXiv preprint:
 $$\Omega_\Lambda \simeq 68.5\%, \quad \Omega_{dm} \simeq 26\%, \quad \Omega_{H,He\,gas} \simeq 4\%, \quad \Omega_\nu \simeq 0.26\%, \quad \Omega_\star \simeq 0.5\%, \quad \Omega_{\rm chem} \simeq 0.025\%, \quad \Omega_\gamma \simeq 0.005\%$$
@@ -47,7 +47,7 @@ $$\rho_{m} \propto a^{-3}, \qquad \rho_\gamma \propto a^{-4}, \qquad \rho_\Lambd
 
 so radiation dominates early, matter takes over after the **equality** epoch $a_{eq}$, and the cosmological constant takes over recently.
 
-![intro-07](../../assets/images/intro-07.png)
+<img src="{{ "/assets/images/intro-07.png" | relative_url }}" alt="intro-07" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 three regimes:
 - **radiation-dominated**: $a(t) \propto t^{1/2}$, until $z \sim 3300$
@@ -60,7 +60,7 @@ three regimes:
 
 every band of the electromagnetic spectrum contributes a *background* of photons:
 
-![intro-08](../../assets/images/intro-08.png)
+<img src="{{ "/assets/images/intro-08.png" | relative_url }}" alt="intro-08" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 - **CGB** = cosmic gamma-ray background
 - **CXB** = cosmic X-ray background (see [Lab_High-Energy_MOC](../../00_Atlas/Lab_High-Energy_MOC.html))
@@ -77,7 +77,7 @@ $$I_\nu = \frac{2h\nu^3}{c^2} \frac{1}{e^{h\nu/k_BT} - 1}$$
 
 best-fit temperature from FIRAS on COBE: $T_0 = 2.725 \pm 0.002$ K (95% CL). no spectral distortions detected, except the y-distortions from the Sunyaev-Zel'dovich effect through clusters.
 
-![intro-09](../../assets/images/intro-09.png)
+<img src="{{ "/assets/images/intro-09.png" | relative_url }}" alt="intro-09" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 the spectrum was measured beautifully by FIRAS (COBE), DMR (COBE), LBL ground+balloon, Princeton ground+balloon, UBC sounding rocket, and cyanogen optical. all of them lie on a 2.726 K Planck curve. it is the best blackbody we have ever measured.
 
@@ -91,7 +91,7 @@ $$n_\gamma = \frac{4\pi}{c}\int d\nu\, \frac{I_\nu}{h\nu} = \frac{8\pi}{c^3}\int
 
 (at $T = T_0 = 2.725$ K)
 
-![intro-10](../../assets/images/intro-10.png)
+<img src="{{ "/assets/images/intro-10.png" | relative_url }}" alt="intro-10" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 with the critical density
 $$\rho_{0,\rm crit} = \frac{3H_0^2}{8\pi G} = 1.88\,h^2 \times 10^{-29}~\text{g cm}^{-3} \simeq 8.1\times10^{-11}\,h^2\,(\text{eV})^4$$
@@ -112,17 +112,17 @@ a $\mu$-distortion would mean a chemical potential in the photon distribution
 $$f = \frac{1}{e^{(h\nu - \mu)/k_BT} - 1}$$
 and a y-distortion would be Compton scattering by hot electrons (SZ-like).
 
-![intro-11](../../assets/images/intro-11.png)
+<img src="{{ "/assets/images/intro-11.png" | relative_url }}" alt="intro-11" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ### CMB anisotropies
 
 zoom in on the same spectrum spatially, and it is *not* perfectly smooth. Planck (2018) measured the temperature and polarization full-sky maps at $\sim 5$ arcmin resolution:
 
-![intro-12](../../assets/images/intro-12.png)
+<img src="{{ "/assets/images/intro-12.png" | relative_url }}" alt="intro-12" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 at the level of micro-Kelvins, $\Delta T/\bar T \sim 10^{-5}$ — the universe is **almost** smooth. the COBE-DMR map from 1994 was the first detection of this:
 
-![intro-13](../../assets/images/intro-13.png)
+<img src="{{ "/assets/images/intro-13.png" | relative_url }}" alt="intro-13" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 $$\frac{\Delta T}{\bar T}(t_0,\hat n) \equiv \frac{T(t_0,\hat n) - \bar T}{\bar T} \simeq \frac{35\,\mu K}{2.725\,\text{K}} \simeq 10^{-5}$$
 
@@ -141,7 +141,7 @@ how do we *weigh* the baryons in the universe? four independent ways:
 
 methods 3 and 4 are in *excellent* agreement. methods 1 used to give a smaller number, leading to the **missing baryon problem** — about half the baryons were unaccounted for. recent work has shown most of the missing ones live in the **WHIM**, the warm-hot intergalactic medium in filaments connecting galaxies, too cold to emit X-rays brightly.
 
-![intro-14](../../assets/images/intro-14.png)
+<img src="{{ "/assets/images/intro-14.png" | relative_url }}" alt="intro-14" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 from Planck 2018:
 $$\boxed{\,\Omega_b h^2 = 0.0224 \pm 0.0001\,}$$
@@ -150,7 +150,7 @@ $$\boxed{\,\Omega_b h^2 = 0.0224 \pm 0.0001\,}$$
 
 the height of the first acoustic peak depends on the baryon density. more baryons = heavier "fluid" = lower sound speed = the compression peaks are enhanced and the rarefaction peaks are suppressed. so reading the peak heights gives $\Omega_b h^2$.
 
-![intro-15](../../assets/images/intro-15.png)
+<img src="{{ "/assets/images/intro-15.png" | relative_url }}" alt="intro-15" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -162,13 +162,13 @@ the height of the first acoustic peak depends on the baryon density. more baryon
 
 what these methods have shown is that the total matter density is several times larger than the baryon density. the difference is **dark matter**: non-relativistic, effectively pressureless, gravitationally interacting, but invisible to photons.
 
-![intro-16](../../assets/images/intro-16.png)
+<img src="{{ "/assets/images/intro-16.png" | relative_url }}" alt="intro-16" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ### mass-to-light ratio across scales
 
 a direct check is to plot $M/L_B$ (mass over blue-band luminosity) against scale. luminous matter tracks $L$; total mass tracks $M$. if $M/L$ stays constant with scale, all matter is luminous. it does *not*.
 
-![intro-17](../../assets/images/intro-17.png)
+<img src="{{ "/assets/images/intro-17.png" | relative_url }}" alt="intro-17" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 at galactic scales (spirals, ellipticals) $M/L \sim 10$ in solar units. at cluster scales (rich clusters, superclusters) $M/L \sim 200$–$300$, consistent with $\Omega_m \approx 0.3$. the rise tells you the fraction of dark matter increases on larger scales.
 
@@ -180,7 +180,7 @@ $$V^2(r) = \frac{GM(r)}{r}$$
 if all the mass is luminous and concentrated in a stellar disk, then beyond the disk edge $r_*$ the mass enclosed is constant and the velocity drops:
 $$V(r) \propto \frac{1}{r^{1/2}} \qquad (\text{Keplerian fall-off})$$
 
-![intro-18](../../assets/images/intro-18.png)
+<img src="{{ "/assets/images/intro-18.png" | relative_url }}" alt="intro-18" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 what we *observe* is completely different. neutral hydrogen 21-cm observations probe rotation way past the optical disk, and the curves stay flat — which means $M(r) \propto r$, i.e. there is mass distributed at large radii that does not emit light.
 
@@ -188,20 +188,20 @@ what we *observe* is completely different. neutral hydrogen 21-cm observations p
 
 a high-quality rotation curve looks like this:
 
-![intro-19](../../assets/images/intro-19.png)
+<img src="{{ "/assets/images/intro-19.png" | relative_url }}" alt="intro-19" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 the velocity is measured from the Doppler shift of emission lines (one side blueshifted, the other redshifted). a galaxy is parametrized by its center, systemic velocity $V_{sys}$, circular velocity $V(R)$, inclination $i$, and azimuth $\theta$:
 $$V_{obs}(\xi,\eta) = V_{sys} + V(R)\cos\theta\sin i$$
 
 historically, Rubin & Ford (1970), Roberts & Whitehurst (1975), and the entire Rubin sample of 21 Sc galaxies (1980) all show: **no rotation curve follows the stellar disk velocity profile**. the discrepancy at large radii is universal.
 
-![intro-20](../../assets/images/intro-20.png)
+<img src="{{ "/assets/images/intro-20.png" | relative_url }}" alt="intro-20" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ### decomposing the rotation curve
 
 the modern way is to fit the observed $V(r)$ as the sum of three components:
 
-![intro-21](../../assets/images/intro-21.png)
+<img src="{{ "/assets/images/intro-21.png" | relative_url }}" alt="intro-21" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 stellar disk + gas + dark matter halo. the stellar disk peaks and falls; the gas rises slowly; the dark matter halo dominates at large radius. without a halo the high-$r$ flat curve cannot be explained. (Corbelli & Salucci 2000 for M33.)
 
@@ -216,20 +216,20 @@ galactic rotation curves only give you a galaxy-scale measurement. the more comp
    - **baryon acoustic oscillations** (BAO): if baryons are only a small fraction of the matter, the BAO wiggles in $P_m(k)$ are proportionally small, and they have been measured robustly at the predicted amplitude
 4. **CMB temperature anisotropies and polarization** (the heights of the higher peaks fix $\Omega_m h^2$)
 
-![intro-23](../../assets/images/intro-23.png)
+<img src="{{ "/assets/images/intro-23.png" | relative_url }}" alt="intro-23" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 from Planck 2018:
 $$\boxed{\,\Omega_m = 0.315 \pm 0.007, \quad \Omega_{dm} h^2 = 0.120 \pm 0.001\,}$$
 
 so the matter density is about five times the baryon density. *most of the matter in the universe is not baryons*. it has to be some new species. we call it dark matter.
 
-![intro-24](../../assets/images/intro-24.png)
+<img src="{{ "/assets/images/intro-24.png" | relative_url }}" alt="intro-24" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ### CMB anisotropies fix the total matter
 
 the second peak height and the relative heights of the peaks fix $\Omega_m h^2$:
 
-![intro-25](../../assets/images/intro-25.png)
+<img src="{{ "/assets/images/intro-25.png" | relative_url }}" alt="intro-25" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ### the matter power spectrum and BAO
 
@@ -238,15 +238,15 @@ $$P_m(k) \sim \langle |\delta\rho_m/\bar\rho_m|^2 \rangle$$
 
 modern measurements stitch together Planck CMB, DES cosmic shear, SDSS LRG galaxies, and BOSS Ly-α forest, and they all sit on a single curve:
 
-![intro-26](../../assets/images/intro-26.png)
+<img src="{{ "/assets/images/intro-26.png" | relative_url }}" alt="intro-26" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
-![intro-27](../../assets/images/intro-27.png)
+<img src="{{ "/assets/images/intro-27.png" | relative_url }}" alt="intro-27" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 the **turnover** of the spectrum sits at the equality scale (the size of the horizon at matter-radiation equality), so it is sensitive to $\Omega_m h^2$. modes that entered the horizon during radiation domination got suppressed; modes that entered later did not.
 
 zooming in on $k \sim 0.1\,h\,\text{Mpc}^{-1}$, the spectrum has small wiggles superimposed on the smooth power-law: the **baryon acoustic oscillations**. a universe of pure baryons would have a hugely oscillating $P_m(k)$ (dashed curve). a universe of mostly dark matter has small wiggles on top of a smooth curve (solid). the data show the wiggles at exactly the predicted amplitude. **this is dark matter being detected through the absence of pure-baryon oscillations.**
 
-![intro-28](../../assets/images/intro-28.png)
+<img src="{{ "/assets/images/intro-28.png" | relative_url }}" alt="intro-28" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 right panel: BAO measured directly in SDSS LRGs and BOSS CMASS by computing $\log_{10}P(k)/P(k)_{\rm smooth}$ — those characteristic wiggles in galaxy clustering at $k \sim 0.05$–$0.2\, h\,\text{Mpc}^{-1}$.
 
@@ -268,7 +268,7 @@ even without a direct detection, neutrinos leave specific imprints on the CMB an
 
 $$\boxed{\,\sum m_\nu < 0.12\,\text{eV}\quad(95\%\,\text{CL}), \qquad \Omega_\nu h^2 < 0.0012\,(95\%\,\text{CL})\,}$$
 
-![intro-29](../../assets/images/intro-29.png)
+<img src="{{ "/assets/images/intro-29.png" | relative_url }}" alt="intro-29" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -279,7 +279,7 @@ $$\boxed{\,\sum m_\nu < 0.12\,\text{eV}\quad(95\%\,\text{CL}), \qquad \Omega_\nu
 still our most direct evidence that the universe is expanding. at low redshift, the linear Hubble law holds:
 $$v = H_0 d, \qquad z \simeq v/c$$
 
-![intro-30](../../assets/images/intro-30.png)
+<img src="{{ "/assets/images/intro-30.png" | relative_url }}" alt="intro-30" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 (Hubble's original 1929 plot. velocities should be in km/s, distances in Mpc; the solid line is the fit to the corrected points.)
 
@@ -295,9 +295,9 @@ what we want at high redshift are **standard candles** — objects whose intrins
 
 ### the cosmic distance ladder
 
-![intro-31](../../assets/images/intro-31.png)
+<img src="{{ "/assets/images/intro-31.png" | relative_url }}" alt="intro-31" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
-![intro-32](../../assets/images/intro-32.png)
+<img src="{{ "/assets/images/intro-32.png" | relative_url }}" alt="intro-32" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 Cepheid variables have a period-luminosity relation calibrated to thousands of stars within $\sim 20$ Mpc by HST. they anchor the distance to galaxies that host SN Ia. SN Ia in turn extend out to $z \sim 1$ and beyond. of all the candles in the figure (I-band Tully-Fisher, fundamental plane, surface brightness fluctuations, SN II, SN Ia), **SN Ia have the smallest dispersion and reach the highest redshifts**. the bottom panel shows that beyond $\sim 100$ Mpc, $H_0 \approx 72$ flattens out — confirming the linear Hubble flow at low z.
 
@@ -305,14 +305,14 @@ Cepheid variables have a period-luminosity relation calibrated to thousands of s
 
 at high z the SN Ia turn out to be **fainter** than they should be in any matter-only or open universe. they sit on top of a curve with $\Omega_M = 0.28$, $\Omega_\Lambda = 0.72$. this is the 1998 Perlmutter / Riess / Schmidt result.
 
-![intro-33](../../assets/images/intro-33.png)
+<img src="{{ "/assets/images/intro-33.png" | relative_url }}" alt="intro-33" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 the small-z form of the luminosity distance, expanded:
 $$d_L = \frac{c}{H_0}\left[z + \tfrac12(1 - q_0)z^2 + \cdots\right], \qquad q_0 = -\frac{\ddot a(t_0) a_0}{\dot a(t_0)^2}$$
 
 a positive $q_0$ means deceleration; a negative $q_0$ (acceleration) requires $\Omega_\Lambda > \Omega_m/2$.
 
-![intro-34](../../assets/images/intro-34.png)
+<img src="{{ "/assets/images/intro-34.png" | relative_url }}" alt="intro-34" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 best fit (Choudhury & Padmanabhan A&A 429, 807, 2005, with later updates):
 $$\boxed{\,\Omega_\Lambda = 0.6847 \pm 0.0073\,}$$
@@ -334,7 +334,7 @@ a *cosmological constant* is the limit $p = -\rho$ exactly, an energy density th
 
 at present, a $\Lambda$ term is the form of dark energy that fits the most data.
 
-![intro-35](../../assets/images/intro-35.png)
+<img src="{{ "/assets/images/intro-35.png" | relative_url }}" alt="intro-35" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ### age of the universe
 
@@ -345,9 +345,9 @@ with the measured $H_0 = 67.4$ km/s/Mpc, $H_0^{-1} = 9.7776\,h^{-1} \times 10^9$
 
 this is **clearly at odds** with independent age measurements (oldest globular clusters, white dwarf cooling, nuclear chronometers): the universe is $13.8 \times 10^9$ yr old. a cosmological constant pushes the age up to match.
 
-![intro-36](../../assets/images/intro-36.png)
+<img src="{{ "/assets/images/intro-36.png" | relative_url }}" alt="intro-36" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
-![intro-37](../../assets/images/intro-37.png)
+<img src="{{ "/assets/images/intro-37.png" | relative_url }}" alt="intro-37" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -355,7 +355,7 @@ this is **clearly at odds** with independent age measurements (oldest globular c
 
 putting the whole inventory together as a function of time:
 
-![intro-38](../../assets/images/intro-38.png)
+<img src="{{ "/assets/images/intro-38.png" | relative_url }}" alt="intro-38" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 reading top to bottom (today to early times):
 - **today**, $z \sim 0$, life on Earth, dark energy dominates
@@ -379,7 +379,7 @@ this is the chain my entire degree is unpacking, one block at a time.
 
 a useful summary of how the four main ΛCDM parameters move the CMB peaks:
 
-![intro-41](../../assets/images/intro-41.png)
+<img src="{{ "/assets/images/intro-41.png" | relative_url }}" alt="intro-41" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 (top-left: baseline / vary $\Omega_b h^2$. top-right: vary $\Omega_K, \Omega_\Lambda$. bottom-left: low $\Omega_b h^2$. bottom-right: vary $\Omega_m h^2$.) the position of the first peak fixes the geometry; the relative heights of the second, third, fourth peaks fix the baryon and matter densities; the damping tail at high $\ell$ fixes diffusion physics.
 

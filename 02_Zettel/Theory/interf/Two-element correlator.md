@@ -118,7 +118,7 @@ BookAI also emphasizes that the correlator output is not an image. it is a table
 
 ## scientific figure
 
-![radio_interferometer_signal_chain](../../../assets/images/radio_interferometer_signal_chain.svg)
+<img src="{{ "/assets/images/radio_interferometer_signal_chain.svg" | relative_url }}" alt="radio_interferometer_signal_chain" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 reading cue: the correlator is where two voltage streams become one visibility. the multiplication and time average estimate $R_{ij}(\tau)$, which is the observable behind aperture synthesis.
 

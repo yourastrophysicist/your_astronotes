@@ -7,7 +7,7 @@ at the beginning of nucleosynthesis ($T \gg 1$ MeV), the various nuclear species
 
 we are interested in particular in the n/p ratio, which is fixed at the beginning by its equilibrium value. the conditions for NSE will hold until the rates that maintain it become smaller than the expansion rate $H$ (see [Decoupling and freeze-out](../../02_Zettel/Theory/Decoupling and freeze-out.html)).
 
-![bbn-06](../../assets/images/bbn-06.png)
+<img src="{{ "/assets/images/bbn-06.png" | relative_url }}" alt="bbn-06" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -40,9 +40,9 @@ $$e^{\mu_p/T} = (n_p/g_p)(2\pi/m_p T)^{3/2}\, e^{m_p/T} \qquad (4)$$
 similarly for neutrons. substituting both into (3):
 $$e^{\mu_A/T} = (n_p/g_p)^Z (n_n/g_n)^{A-Z}\, (2\pi/m_p T)^{3Z/2}\, (2\pi/m_n T)^{3(A-Z)/2}\, e^{(Zm_p + (A-Z)m_n)/T} \qquad (5)$$
 
-![bbn-08](../../assets/images/bbn-08.png)
+<img src="{{ "/assets/images/bbn-08.png" | relative_url }}" alt="bbn-08" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
-![bbn-09](../../assets/images/bbn-09.png)
+<img src="{{ "/assets/images/bbn-09.png" | relative_url }}" alt="bbn-09" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -61,7 +61,7 @@ $$\boxed{\,n_A = g_A\, A^{3/2}\, 2^{-A}\, (n_p)^Z (n_n)^{A-Z}\, (2\pi/m_N T)^{(3
 
 the exponential factor $e^{B_A/T}$ is the binding-energy enhancement we expect; the prefactors carry the kinematic (volume of phase space) information.
 
-![bbn-10](../../assets/images/bbn-10.png)
+<img src="{{ "/assets/images/bbn-10.png" | relative_url }}" alt="bbn-10" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -75,7 +75,7 @@ $$X_A = \frac{A\, n_A}{n_N}$$
 
 with $\sum_i X_i = 1$. this is the cleanest way to compare predictions to observations.
 
-![bbn-11](../../assets/images/bbn-11.png)
+<img src="{{ "/assets/images/bbn-11.png" | relative_url }}" alt="bbn-11" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -87,7 +87,7 @@ $$X_A = g_A\,[\zeta(3)^{A-1}\, 2^{(3A-5)/2}\, \pi^{(1-A)/2}]\, A^{5/2}\, (T/m_N)
 
 so $X_A \propto \eta^{A-1}$ — a strong dependence on the baryon-to-photon ratio for heavier species.
 
-![bbn-15](../../assets/images/bbn-15.png)
+<img src="{{ "/assets/images/bbn-15.png" | relative_url }}" alt="bbn-15" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 

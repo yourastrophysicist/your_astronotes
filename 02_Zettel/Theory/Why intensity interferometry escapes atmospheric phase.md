@@ -22,7 +22,7 @@ the atmospheric phase difference $\Delta\phi_{\rm atm}$ corrupts the visibility.
 
 ## the intensity case
 
-![Immunity of intensity interferometry to atmospheric phase turbulence because wave phases are discarded before signal multiplication.](Why_intensity_interferometry_escapes_atmospheric_phase.png)
+<img src="{{ "/assets/images/Why_intensity_interferometry_escapes_atmospheric_phase.png" | relative_url }}" alt="Immunity of intensity interferometry to atmospheric phase turbulence because wave phases are discarded before signal multiplication." class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 
 now compute the *intensities*:

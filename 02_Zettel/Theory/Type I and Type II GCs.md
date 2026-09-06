@@ -6,7 +6,7 @@ description: Milone's classification of GCs by chromosome map morphology, with T
 
 milone et al. 2017 (HST UV Legacy Survey) found that ~17% of galactic GCs show a chromosome map structure that is qualitatively different from the rest. these clusters host not only a 1G + 2G split (the canonical multiple-population signature) but also a **second, redder + parallel chromosome map sequence** that itself contains its own 1G + 2G populations + is enhanced in iron + s-process elements. milone called these **Type II GCs**, contrasting with the canonical **Type I GCs**.
 
-![L19_p22_Terzan5_Ferraro-22](../../assets/images/L19_p22_Terzan5_Ferraro-22.png)
+<img src="{{ "/assets/images/L19_p22_Terzan5_Ferraro-22.png" | relative_url }}" alt="L19_p22_Terzan5_Ferraro-22" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 *Terzan 5 — possibly the most extreme Type II case. Ferraro et al. 2009 and Massari et al. 2014 found two metal populations ([Fe/H] $\sim -0.2$ and $\sim +0.3$) in this bulge GC, suggesting it may be a fossil bulge fragment rather than a true GC.*
 
 the distinction is now standard + carries strong implications for GC formation: type II GCs are likely **stripped nuclei of disrupted dwarf galaxies**, while type I GCs are clusters formed in single massive star-forming events.

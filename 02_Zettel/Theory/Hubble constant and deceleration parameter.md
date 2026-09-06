@@ -66,7 +66,7 @@ so:
 
 it is exactly this $z^2$ correction that the SN Ia Hubble diagram resolved in 1998. data with $z \sim 0.5$–$1$ break the degeneracy between $H_0$ and $q_0$, and the result was $q_0 < 0$. this was the discovery of dark energy.
 
-![intro-34](../../assets/images/intro-34.png)
+<img src="{{ "/assets/images/intro-34.png" | relative_url }}" alt="intro-34" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 

@@ -5,7 +5,7 @@ title: "Cosmic_inventory_photons"
 
 photons in the universe come in many bands, each carrying its own cosmic background:
 
-![intro-08](../../assets/images/intro-08.png)
+<img src="{{ "/assets/images/intro-08.png" | relative_url }}" alt="intro-08" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 - **CGB**: cosmic gamma-ray background
 - **CXB**: cosmic X-ray background (see [Lab_High-Energy_MOC](../../00_Atlas/Lab_High-Energy_MOC.html))
@@ -28,7 +28,7 @@ $$T_0 = 2.725 \pm 0.002~\text{K} \quad (95\%~\text{CL})$$
 
 no spectral distortions detected, except $y$-distortions from the Sunyaev-Zel'dovich effect through clusters.
 
-![intro-09](../../assets/images/intro-09.png)
+<img src="{{ "/assets/images/intro-09.png" | relative_url }}" alt="intro-09" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 datasets that confirmed the Planck shape over multiple decades of frequency: FIRAS (COBE), DMR (COBE), LBL ground+balloon, Princeton ground+balloon, UBC sounding rocket, cyanogen optical lines. all on the same 2.726 K curve.
 
@@ -46,7 +46,7 @@ $$n_\gamma = \frac{4\pi}{c}\int d\nu\, \frac{I_\nu}{h\nu} = \frac{8\pi}{c^3}\int
 
 (at $T = T_0 = 2.725$ K)
 
-![intro-10](../../assets/images/intro-10.png)
+<img src="{{ "/assets/images/intro-10.png" | relative_url }}" alt="intro-10" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 with the critical density $\rho_{0,\rm crit} = 3H_0^2/(8\pi G) \simeq 8.1\times10^{-11}\,h^2~\text{eV}^4$ and $H_0 = 67.4 \pm 0.5$ km/s/Mpc:
 
@@ -69,7 +69,7 @@ a $\mu$-distortion would mean a chemical potential in the photon distribution
 $$f = \frac{1}{e^{(h\nu - \mu)/k_BT} - 1}$$
 and a $y$-distortion would be Compton scattering by hot electrons (SZ-like).
 
-![intro-11](../../assets/images/intro-11.png)
+<img src="{{ "/assets/images/intro-11.png" | relative_url }}" alt="intro-11" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -77,11 +77,11 @@ and a $y$-distortion would be Compton scattering by hot electrons (SZ-like).
 
 zoom in on the same spectrum spatially, and it is *not* perfectly smooth. Planck (2018) measured the temperature and polarization full-sky maps at $\sim 5$ arcmin resolution:
 
-![intro-12](../../assets/images/intro-12.png)
+<img src="{{ "/assets/images/intro-12.png" | relative_url }}" alt="intro-12" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 at the level of micro-Kelvins, $\Delta T/\bar T \sim 10^{-5}$. the COBE-DMR map from 1994 was the first detection:
 
-![intro-13](../../assets/images/intro-13.png)
+<img src="{{ "/assets/images/intro-13.png" | relative_url }}" alt="intro-13" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 $$\frac{\Delta T}{\bar T}(t_0,\hat n) \equiv \frac{T(t_0,\hat n) - \bar T}{\bar T} \simeq \frac{35\,\mu K}{2.725\,\text{K}} \simeq 10^{-5}$$
 

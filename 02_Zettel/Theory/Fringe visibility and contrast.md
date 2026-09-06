@@ -9,7 +9,7 @@ the central observable of every interferometer. visibility quantifies *how stron
 
 ## the definition
 
-![Fringe visibility contrast curve $V = (I_{\max}-I_{\min})/(I_{\max}+I_{\min})$ as a function of spatial coherence and baseline length.](Fringe_visibility_and_contrast.png)
+<img src="{{ "/assets/images/Fringe_visibility_and_contrast.png" | relative_url }}" alt="Fringe visibility contrast curve $V = (I_{\max}-I_{\min})/(I_{\max}+I_{\min})$ as a function of spatial coherence and baseline length." class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 
 for a fringe pattern with maximum intensity $I_{\max}$ and minimum $I_{\min}$:

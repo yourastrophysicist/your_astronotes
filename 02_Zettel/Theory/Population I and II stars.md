@@ -4,7 +4,7 @@ name: Population I and II stars
 description: Baade's 1944 kinematic-chemical classification and its modern interpretation, plus the hypothetical first stars
 ---
 
-![L01_p23_stellar_pop_I_II-23](../../assets/images/L01_p23_stellar_pop_I_II-23.png)
+<img src="{{ "/assets/images/L01_p23_stellar_pop_I_II-23.png" | relative_url }}" alt="L01_p23_stellar_pop_I_II-23" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 *Pop I (open clusters, disk) vs Pop II (GCs, halo) in the Milky Way, the original schematic carrying Baade's 1944 distinction into modern terms.*
 
 the population concept was introduced by **walter baade in 1944** during the WWII blackout of mount wilson, when sky transparency over los angeles improved enough to resolve M31's bulge and inner disk into individual red giants. baade noticed that the blue-bright stars in the spiral arms and the red-giant population in the bulge looked like *two distinct stellar systems*, with different colours, different brightest-star luminosities, and different spatial distributions. he labelled them **population I** and **population II**.

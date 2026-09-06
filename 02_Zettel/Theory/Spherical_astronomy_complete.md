@@ -12,7 +12,7 @@ before any astrophysics: just *how do we point at the sky*.
 
 this is the geometry every later observation in every later course assumes.
 
-![sphereastro-06](../../assets/images/sphereastro-06.png)
+<img src="{{ "/assets/images/sphereastro-06.png" | relative_url }}" alt="sphereastro-06" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -20,7 +20,7 @@ this is the geometry every later observation in every later course assumes.
 
 old globes, old astrolabes, old cosmographies — all of them rest on the same idea: a sphere of directions, parametrized by two angles.
 
-![sphereastro-07](../../assets/images/sphereastro-07.png)
+<img src="{{ "/assets/images/sphereastro-07.png" | relative_url }}" alt="sphereastro-07" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -28,7 +28,7 @@ old globes, old astrolabes, old cosmographies — all of them rest on the same i
 
 a **great circle** (massimo cerchio) is the intersection of the sphere with a plane through its center. a **small circle** (cerchio minore) is the intersection with a plane *not* through the center. the two points at which the perpendicular axis through the center pierces the sphere are the **poles** of that great circle.
 
-![sphereastro-08](../../assets/images/sphereastro-08.png)
+<img src="{{ "/assets/images/sphereastro-08.png" | relative_url }}" alt="sphereastro-08" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 a **spherical triangle** is bounded by three arcs of great circles.
 
@@ -37,7 +37,7 @@ $$|AB| = r c, \qquad [c] = \text{rad}$$
 
 so on a unit-radius sphere the angles *are* the side lengths. this is convenient: on the celestial sphere we never need the radius — it cancels out of every angular relation.
 
-![sphereastro-09](../../assets/images/sphereastro-09.png)
+<img src="{{ "/assets/images/sphereastro-09.png" | relative_url }}" alt="sphereastro-09" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ### spherical excess
 
@@ -52,7 +52,7 @@ $$\text{Area}(ABC) = E r^2 \qquad [E] = \text{rad}$$
 
 so an octant of a unit sphere ($A = B = C = 90°$) has $E = 90° = \pi/2$ and area $\pi/2$, which checks out ($1/8$ of $4\pi$).
 
-![sphereastro-10](../../assets/images/sphereastro-10.png)
+<img src="{{ "/assets/images/sphereastro-10.png" | relative_url }}" alt="sphereastro-10" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -67,7 +67,7 @@ $$x = \cos\psi\cos\theta, \quad y = \sin\psi\cos\theta, \quad z = \sin\theta$$
 
 now consider a second system $(x', y', z')$ obtained by rotating around the $x$-axis by an angle $\chi$:
 
-![sphereastro-11](../../assets/images/sphereastro-11.png)
+<img src="{{ "/assets/images/sphereastro-11.png" | relative_url }}" alt="sphereastro-11" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 the cartesian rotation is just
 $$x' = x, \qquad y' = y\cos\chi + z\sin\chi, \qquad z' = z\cos\chi - y\sin\chi$$
@@ -80,7 +80,7 @@ $$\sin\theta' = \sin\theta\cos\chi - \sin\chi\sin\psi\cos\theta$$
 
 these are the *only* trig identities I need for the rest of spherical astronomy. every coordinate transformation, every rise-set calculation, every altitude formula is a special case of these.
 
-![sphereastro-12](../../assets/images/sphereastro-12.png)
+<img src="{{ "/assets/images/sphereastro-12.png" | relative_url }}" alt="sphereastro-12" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ### applied to a spherical triangle
 
@@ -90,7 +90,7 @@ reading the diagram:
 $$\psi = A - 90°, \qquad \theta = 90° - b, \qquad \chi = c$$
 $$\psi' = 90° - B, \qquad \theta' = 90° - a$$
 
-![sphereastro-13](../../assets/images/sphereastro-13.png)
+<img src="{{ "/assets/images/sphereastro-13.png" | relative_url }}" alt="sphereastro-13" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 substituting in the master equations and using $\cos(90° - x) = \sin x$, $\sin(90° - x) = \cos x$:
 
@@ -98,7 +98,7 @@ $$\cos(90° - B)\cos(90° - a) = \cos(A - 90°)\cos(90° - b)$$
 $$\sin(90° - B)\cos(90° - a) = \sin(A - 90°)\cos(90° - b)\cos c + \sin(90° - b)\sin c$$
 $$\sin(90° - a) = -\sin(A - 90°)\cos(90° - b)\sin c + \sin(90° - b)\cos c$$
 
-![sphereastro-14](../../assets/images/sphereastro-14.png)
+<img src="{{ "/assets/images/sphereastro-14.png" | relative_url }}" alt="sphereastro-14" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 cleaning up:
 $$\sin B \sin a = \sin A \sin b$$
@@ -113,7 +113,7 @@ $$\boxed{\,\frac{\sin a}{\sin A} = \frac{\sin b}{\sin B} = \frac{\sin c}{\sin C}
 
 useful for distances between points on the sphere.
 
-![sphereastro-15](../../assets/images/sphereastro-15.png)
+<img src="{{ "/assets/images/sphereastro-15.png" | relative_url }}" alt="sphereastro-15" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -124,7 +124,7 @@ the Earth's rotation axis defines its **two poles**. perpendicular to the axis, 
 - a **parallel of latitude** is a small circle parallel to the equator
 - a **meridian** is a half-great-circle joining the two poles
 
-![sphereastro-16](../../assets/images/sphereastro-16.png)
+<img src="{{ "/assets/images/sphereastro-16.png" | relative_url }}" alt="sphereastro-16" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 the two coordinates on the Earth's surface:
 - **geographical latitude** $\phi$: the angle between the local vertical and the equatorial plane (positive northward, negative southward)
@@ -132,7 +132,7 @@ the two coordinates on the Earth's surface:
 
 note: $\phi$ also equals **the altitude of the celestial pole on the local horizon**. this is the trick most navigation tables use.
 
-![sphereastro-17](../../assets/images/sphereastro-17.png)
+<img src="{{ "/assets/images/sphereastro-17.png" | relative_url }}" alt="sphereastro-17" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ### worked example: Helsinki to La Palma
 
@@ -143,7 +143,7 @@ apply $\cos a = \cos A \sin b \sin c + \cos b \cos c$ with $A = \lambda_1 - \lam
 substituting numbers (page from the slides): $\cos a = 0.732 \cdot 0.5 \cdot 0.877 + 0.866 \cdot 0.48 = 0.32 + 0.416 = 0.72$, so $a = 42.5° = 0.74$ rad. with Earth radius $R = 6400$ km:
 $$d = a \cdot R = 4748~\text{km}$$
 
-![sphereastro-18](../../assets/images/sphereastro-18.png)
+<img src="{{ "/assets/images/sphereastro-18.png" | relative_url }}" alt="sphereastro-18" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -162,13 +162,13 @@ a celestial body's coordinates:
 - **height** (altitude) $a$: angle above the horizon along the body's vertical, $a \in [-90°, 90°]$
 - **zenith distance** $z = 90° - a$
 
-![sphereastro-19](../../assets/images/sphereastro-19.png)
+<img src="{{ "/assets/images/sphereastro-19.png" | relative_url }}" alt="sphereastro-19" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ### the catch with alt-azimuth
 
 these coordinates are **time-dependent and observer-dependent**. three stars A, B, C rising in the east, culminating in the meridian, and setting in the west have different coordinates depending on the observer's latitude:
 
-![sphereastro-20](../../assets/images/sphereastro-20.png)
+<img src="{{ "/assets/images/sphereastro-20.png" | relative_url }}" alt="sphereastro-20" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 at $\phi = 45°$ N (Padova) the picture is one thing; at $\phi = 10°$ N it's another. and within a single night the same star moves continuously through different $(A, a)$ values. so alt-azimuth is **not a catalog system** — you cannot tabulate stars in this frame.
 
@@ -185,13 +185,13 @@ instead, use the Earth's rotation axis as the reference axis. it is (almost) con
 
 these are **independent of the Earth's rotation and of the observer's position**. a catalogable coordinate system.
 
-![sphereastro-21](../../assets/images/sphereastro-21.png)
+<img src="{{ "/assets/images/sphereastro-21.png" | relative_url }}" alt="sphereastro-21" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ### what stars do over a night
 
 during the night the stars *appear* to rotate around the celestial pole. the height of the pole on the horizon is the **observer's latitude**.
 
-![sphereastro-22](../../assets/images/sphereastro-22.png)
+<img src="{{ "/assets/images/sphereastro-22.png" | relative_url }}" alt="sphereastro-22" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 three categories of star:
 - **circumpolar**: $\delta + \phi > 90°$, always above the horizon, visible 24 h
@@ -208,7 +208,7 @@ extreme cases give a clean intuition:
 - **at $30°$ S**: a generic latitude — some circumpolar stars (around the south celestial pole), some rise/set
 - **at the equator**: you see the whole celestial sphere over a year. there are no circumpolar stars. all stars are visible for 12 h each day.
 
-![sphereastro-23](../../assets/images/sphereastro-23.png)
+<img src="{{ "/assets/images/sphereastro-23.png" | relative_url }}" alt="sphereastro-23" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ### hour angle and sidereal time
 
@@ -219,7 +219,7 @@ $$\boxed{\,\Theta = h + \alpha\,}$$
 
 practical use: I point at a star with known $(\alpha, \delta)$ and read $h$ off the hour wheel of the telescope. that gives me the local sidereal time.
 
-![sphereastro-24](../../assets/images/sphereastro-24.png)
+<img src="{{ "/assets/images/sphereastro-24.png" | relative_url }}" alt="sphereastro-24" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ### sidereal day vs solar day
 
@@ -233,7 +233,7 @@ $$\text{solar day} - \text{sidereal day} \approx 3\,\text{m}\,56\,\text{s}$$
 
 so sidereal time runs $\sim 4$ minutes faster per day than solar time. one full year offset = $24$ h.
 
-![sphereastro-25](../../assets/images/sphereastro-25.png)
+<img src="{{ "/assets/images/sphereastro-25.png" | relative_url }}" alt="sphereastro-25" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -245,7 +245,7 @@ $$\psi' = 90° - h, \qquad \theta' = \delta$$
 
 (reading off the spherical triangle with zenith Z, celestial pole P, and the star.)
 
-![sphereastro-26](../../assets/images/sphereastro-26.png)
+<img src="{{ "/assets/images/sphereastro-26.png" | relative_url }}" alt="sphereastro-26" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 substituting in the master equations gives the alt-az → equatorial transformation:
 $$\sin h \cos\delta = \sin A \cos a$$
@@ -258,7 +258,7 @@ $$\sin A \cos a = \sin h \cos\delta$$
 $$\cos A \cos a = \cos h \cos\delta\sin\phi - \sin\delta\cos\phi$$
 $$\sin a = \cos h \cos\delta\cos\phi + \sin\delta\sin\phi$$
 
-![sphereastro-27](../../assets/images/sphereastro-27.png)
+<img src="{{ "/assets/images/sphereastro-27.png" | relative_url }}" alt="sphereastro-27" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ### upper culmination ($h = 0$)
 
@@ -271,7 +271,7 @@ $$a_{\max} = \begin{cases} 90° - \phi + \delta & \text{star culminates south of
 
 $a_{\max} > 0$ iff $\delta > \phi - 90°$. otherwise the star is **never visible** from this latitude.
 
-![sphereastro-28](../../assets/images/sphereastro-28.png)
+<img src="{{ "/assets/images/sphereastro-28.png" | relative_url }}" alt="sphereastro-28" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ### lower culmination ($h = 12$ h)
 
@@ -283,7 +283,7 @@ $$a_{\min} = \begin{cases} \phi + \delta - 90° & \text{anti-culminates north of
 
 $a_{\min} > 0$ iff $\delta + \phi > 90°$. these stars are **circumpolar**.
 
-![sphereastro-29](../../assets/images/sphereastro-29.png)
+<img src="{{ "/assets/images/sphereastro-29.png" | relative_url }}" alt="sphereastro-29" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ### determining $\alpha$ and $\delta$ from observations
 
@@ -296,7 +296,7 @@ $$\delta = \tfrac12(a_{\min} + a_{\max})$$
 
 at the same time, the position of the celestial pole is fixed, so I can get $\delta$ for any other body just from its angular distance to the pole. the position of the celestial equator follows. and as the **zero point of right ascension** I take the point where the Sun crosses the equator from south to north — that defines $\gamma$.
 
-![sphereastro-30](../../assets/images/sphereastro-30.png)
+<img src="{{ "/assets/images/sphereastro-30.png" | relative_url }}" alt="sphereastro-30" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -310,7 +310,7 @@ then $\Theta_{s,t} = h_{s,t} + \alpha$ gives the sidereal time of rise and set.
 
 note: this calculation does **not** account for atmospheric refraction (which lifts apparent positions of objects near the horizon by about 34').
 
-![sphereastro-31](../../assets/images/sphereastro-31.png)
+<img src="{{ "/assets/images/sphereastro-31.png" | relative_url }}" alt="sphereastro-31" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ### worked examples (Padova, $\phi = 40°$ N)
 
@@ -320,7 +320,7 @@ note: this calculation does **not** account for atmospheric refraction (which li
 - $\delta = -50°$: $\cos h = +1$, $h = 0$ h. star is **never visible**.
 - $\delta = 0°$: $\cos h = 0$, $h = \pm 90° = \pm 6$ h. star above horizon for exactly 12 h, rises exactly E, sets exactly W.
 
-![sphereastro-32](../../assets/images/sphereastro-32.png)
+<img src="{{ "/assets/images/sphereastro-32.png" | relative_url }}" alt="sphereastro-32" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 

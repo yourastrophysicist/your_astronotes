@@ -6,7 +6,7 @@ description: H2 collision-induced absorption in cool dense WD atmospheres bends 
 
 # wdcs turn to blue and cia
 
-deep CMDs of nearby globular clusters and old open clusters reveal something unexpected at the very faint end of the [White dwarf cooling theory](../../02_Zettel/Theory/White dwarf cooling theory.html): instead of continuing to redden as luminosity drops, the white dwarf cooling sequence (WDCS) bends back **toward the blue**, forming a hook (the so-called blue turn) at $M_{F606W} \sim 15\text{-}16$. ![L06_p07_WD_blueturn](../../assets/images/L06_p07_WD_blueturn.png) this feature is real, predicted by atmosphere models, and a sensitive age diagnostic.
+deep CMDs of nearby globular clusters and old open clusters reveal something unexpected at the very faint end of the [White dwarf cooling theory](../../02_Zettel/Theory/White dwarf cooling theory.html): instead of continuing to redden as luminosity drops, the white dwarf cooling sequence (WDCS) bends back **toward the blue**, forming a hook (the so-called blue turn) at $M_{F606W} \sim 15\text{-}16$. <img src="{{ "/assets/images/L06_p07_WD_blueturn.png" | relative_url }}" alt="L06_p07_WD_blueturn" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" /> this feature is real, predicted by atmosphere models, and a sensitive age diagnostic.
 
 ## physical origin
 

@@ -17,7 +17,7 @@ variations in $n$ across the wavefront produce variations in $\phi$. these are t
 
 ## three observable consequences
 
-![Atmospheric turbulence breaking smooth plane waves into corrugated wavefronts, causing seeing disks of width $\lambda/r_0$.](Atmospheric_turbulence_overview.jpg)
+<img src="{{ "/assets/images/Atmospheric_turbulence_overview.jpg" | relative_url }}" alt="Atmospheric turbulence breaking smooth plane waves into corrugated wavefronts, causing seeing disks of width $\lambda/r_0$." class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 
 each is described by its own length-scale parameter:

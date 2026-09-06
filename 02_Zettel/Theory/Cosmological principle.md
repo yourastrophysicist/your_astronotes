@@ -31,11 +31,11 @@ three reasons, in increasing order of weight:
 
 1. **cosmographic surveys**: redshift surveys (2dFGRS, SDSS, Planck) show the galaxy distribution is statistically isotropic on large scales. small-scale clumpiness averages out at $> 100$ Mpc.
 
-![intro-04](../../assets/images/intro-04.png)
+<img src="{{ "/assets/images/intro-04.png" | relative_url }}" alt="intro-04" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 2. **CMB anisotropies are tiny**: $\Delta T/\bar T \sim 10^{-5}$. the universe at $z = 1100$ was extraordinarily smooth. modern temperature and polarization maps (Planck 2018) show this directly:
 
-![intro-12](../../assets/images/intro-12.png)
+<img src="{{ "/assets/images/intro-12.png" | relative_url }}" alt="intro-12" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 3. **theoretical simplicity**: the Copernican principle generalized. there is no privileged observer or direction in the universe. picking any other condition would require fine-tuning.
 

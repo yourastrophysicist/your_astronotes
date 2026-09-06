@@ -21,7 +21,7 @@ where $E_{bind}$ is the binding energy of the electron in its shell (K, L, M...)
 
 This can only happen when:
 $$E_{ph} \geq E_{bind}$$
-![Screenshot 2026-04-07 at 01.20.24](../../assets/images/Screenshot 2026-04-07 at 01.20.24.png)
+<img src="{{ "/assets/images/Screenshot%202026-04-07%20at%2001.20.24.png" | relative_url }}" alt="Screenshot 2026-04-07 at 01.20.24" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 ---
 
 ## Cross-Section
@@ -48,7 +48,7 @@ The cross-section is **not smooth** — it shows sharp discontinuities called **
 - **K-edge** (innermost shell) is the most prominent
 
 After each edge, $\sigma_{ph}$ drops as $E^{-3}$ until the next edge.
-![Screenshot 2026-04-07 at 01.21.02](../../assets/images/Screenshot 2026-04-07 at 01.21.02.png)
+<img src="{{ "/assets/images/Screenshot%202026-04-07%20at%2001.21.02.png" | relative_url }}" alt="Screenshot 2026-04-07 at 01.21.02" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 ---
 
 ## Relation to the Refractive Index

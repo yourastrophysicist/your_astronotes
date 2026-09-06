@@ -7,7 +7,7 @@ A **mechanical collimator** is the simplest instrument for high-energy X-ray and
 	it works by **geometrically blocking** photons that arrive from outside a defined angular range
 		no focusing is possible at these energies — the collimator replaces the telescope
 
-![Screenshot 2026-04-07 at 01.26.18](../../assets/images/Screenshot 2026-04-07 at 01.26.18.png)
+<img src="{{ "/assets/images/Screenshot%202026-04-07%20at%2001.26.18.png" | relative_url }}" alt="Screenshot 2026-04-07 at 01.26.18" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 <font color="#bfbfbf">Schematic of a mechanical collimator: absorbent walls around a detector restrict the field of view to a cone of half-angle $\Delta\theta$. Photons from outside this cone are stopped before reaching the detector.</font>
 
 ---

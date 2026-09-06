@@ -111,7 +111,7 @@ extending baselines beyond Earth's diameter:
 
 ## scientific figure
 
-![eht_planet_scale_array_eso1907j](../../assets/images/eht_planet_scale_array_eso1907j.jpg)
+<img src="{{ "/assets/images/eht_planet_scale_array_eso1907j.jpg" | relative_url }}" alt="eht_planet_scale_array_eso1907j" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 reading cue: VLBI is the extreme radio version of aperture synthesis: the baselines are continental or planetary, and timing is preserved by atomic clocks rather than by physical cables.
 

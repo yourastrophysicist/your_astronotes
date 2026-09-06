@@ -6,7 +6,7 @@ title: "X-ray diffraction grating"
 Contrary to visible light, in X-ray astronomy it is possible to obtain a spectrum with a detector
 	because we can **distinguish photons by energy**
 		but to have a spectrum with **high resolution**, gratings are needed
-![Screenshot 2026-04-07 at 01.59.06](../../assets/images/Screenshot 2026-04-07 at 01.59.06.png)
+<img src="{{ "/assets/images/Screenshot%202026-04-07%20at%2001.59.06.png" | relative_url }}" alt="Screenshot 2026-04-07 at 01.59.06" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 X-ray Diffraction Gratings (XrDG) are placed at the **exit aperture** of a focusing optic,
 	that is in the focused beam
@@ -72,7 +72,7 @@ This formula shows that it is possible to improve the resolving power
 ---
 
 ## Rowland circle
-![Screenshot 2026-04-07 at 01.59.39](../../assets/images/Screenshot 2026-04-07 at 01.59.39.png)
+<img src="{{ "/assets/images/Screenshot%202026-04-07%20at%2001.59.39.png" | relative_url }}" alt="Screenshot 2026-04-07 at 01.59.39" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 Gratings are placed in a **converging beam** instead of a parallel beam
 	the consequence is that both the incidence and dispersion angle
 		vary across the grating
@@ -83,7 +83,7 @@ The best solution is the **Rowland circle**:
 	a circle of radius $R$ that lies tangent to a concave curved diffraction grating of radius $2R$
 		the groove density is constant when projected on the plane tangent to the grating
 
-![Screenshot 2026-04-07 at 01.59.39](../../assets/images/Screenshot 2026-04-07 at 01.59.39.png)
+<img src="{{ "/assets/images/Screenshot%202026-04-07%20at%2001.59.39.png" | relative_url }}" alt="Screenshot 2026-04-07 at 01.59.39" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 ---
 
 ## Instruments
@@ -92,10 +92,10 @@ The best solution is the **Rowland circle**:
 	made by 192 grating facets (MEG)
 		covers $0.4$–$5~\text{keV}$ (about $31$–$2.5~\mathring{A}$)
 			with a resolution of $0.023~\mathring{A}$
-![Screenshot 2026-04-07 at 02.00.36](../../assets/images/Screenshot 2026-04-07 at 02.00.36.png)
+<img src="{{ "/assets/images/Screenshot%202026-04-07%20at%2002.00.36.png" | relative_url }}" alt="Screenshot 2026-04-07 at 02.00.36" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 **XMM-Newton RGS** (reflection):
 	made by 182 identical gratings blazed at $15~\mathring{A}$
 		covers $5$–$35~\mathring{A}$
 			with a resolution of about $0.06~\mathring{A}$
-![Screenshot 2026-04-07 at 02.00.58](../../assets/images/Screenshot 2026-04-07 at 02.00.58.png)
+<img src="{{ "/assets/images/Screenshot%202026-04-07%20at%2002.00.58.png" | relative_url }}" alt="Screenshot 2026-04-07 at 02.00.58" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />

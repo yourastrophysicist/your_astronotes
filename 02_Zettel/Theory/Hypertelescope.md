@@ -15,7 +15,7 @@ direct imaging — dropping each photon onto its proper position in the focal pl
 
 ## Labeyrie's idea
 
-![Labeyrie's hypertelescope concept: pupil densification concentrating light from a sparse array into direct high-contrast images.](Hypertelescope.jpg)
+<img src="{{ "/assets/images/Hypertelescope.jpg" | relative_url }}" alt="Labeyrie's hypertelescope concept: pupil densification concentrating light from a sparse array into direct high-contrast images." class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 
 after the light passes through the sub-apertures, *re-image* it through a "pupil densifier" — an optical system that compresses the sub-apertures into a tightly-packed array. the new "densified pupil" has sub-apertures touching each other.

@@ -9,7 +9,7 @@ the stars look like they sit on a sphere whose center happens to be wherever I a
 
 historically every culture built one. globes, astrolabes, the libri cosmografi.
 
-![sphereastro-06](../../assets/images/sphereastro-06.png)
+<img src="{{ "/assets/images/sphereastro-06.png" | relative_url }}" alt="sphereastro-06" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -21,7 +21,7 @@ a **small circle** (cerchio minore) is the intersection of the sphere with a pla
 
 the line perpendicular to a great circle through the center pierces the sphere at the two **poles** of that great circle.
 
-![sphereastro-08](../../assets/images/sphereastro-08.png)
+<img src="{{ "/assets/images/sphereastro-08.png" | relative_url }}" alt="sphereastro-08" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -32,7 +32,7 @@ $$|AB| = r c, \qquad [c] = \text{rad}$$
 
 so on a unit sphere ($r = 1$), the angle *is* the arc length. this is why the radius of the celestial sphere never appears in any practical formula: I always work with angles.
 
-![sphereastro-09](../../assets/images/sphereastro-09.png)
+<img src="{{ "/assets/images/sphereastro-09.png" | relative_url }}" alt="sphereastro-09" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -50,7 +50,7 @@ $$\text{Area}(ABC) = E\, r^2, \qquad [E] = \text{rad}$$
 
 quick check: an octant of a unit sphere has all three angles equal to $90°$, so $E = 90° = \pi/2$ rad and area $\pi/2$, which is $1/8$ of the full $4\pi$ surface — consistent.
 
-![sphereastro-10](../../assets/images/sphereastro-10.png)
+<img src="{{ "/assets/images/sphereastro-10.png" | relative_url }}" alt="sphereastro-10" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 

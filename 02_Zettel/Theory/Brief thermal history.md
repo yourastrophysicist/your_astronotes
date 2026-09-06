@@ -5,7 +5,7 @@ title: "Brief thermal history"
 
 a single image, the thermal history of the universe from the quantum gravity wall down to today, drawn as a redshift cone:
 
-![intro-38](../../assets/images/intro-38.png)
+<img src="{{ "/assets/images/intro-38.png" | relative_url }}" alt="intro-38" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 

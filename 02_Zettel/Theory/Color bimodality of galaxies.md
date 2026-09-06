@@ -18,7 +18,7 @@ if you take a magnitude-limited sample of nearby galaxies and plot a histogram o
 the same bimodality shows up in $g-r$, $NUV-r$, and (more weakly) in restframe colors at $z \sim 1$.
 
 ## why color is the right axis
-![Pasted image 20260413140422](../../assets/images/Pasted image 20260413140422.png)
+<img src="{{ "/assets/images/Pasted%20image%2020260413140422.png" | relative_url }}" alt="Pasted image 20260413140422" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 color is a $\sim$dimensionless ratio of fluxes, so it is mostly insensitive to distance and (at fixed $z$) to absolute scale. it tracks the **stellar population age + dust + metallicity**. for a stellar population, the bluest colors come from short-lived O/B stars; once star formation stops, those stars die in $\sim 10^7$–$10^8$ yr and the integrated color reddens fast. so color is, to first order, a *star-formation-state diagnostic*.
 

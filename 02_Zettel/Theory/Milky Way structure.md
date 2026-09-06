@@ -18,7 +18,7 @@ we live inside it, so mapping the Milky Way is *harder* than mapping external ga
 | **halo** | 30-50 kpc radius | $10^9\, M_\odot$ in stars | very old, low metallicity, Pop II | hot diffuse |
 | **dark matter halo** | $\sim 200$ kpc | $10^{12}\, M_\odot$ | non-luminous | none |
 
-![milkyway-04](../../assets/images/milkyway-04.png)
+<img src="{{ "/assets/images/milkyway-04.png" | relative_url }}" alt="milkyway-04" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 

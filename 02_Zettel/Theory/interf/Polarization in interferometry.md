@@ -153,7 +153,7 @@ BookAI's clean mental model: polarization is not an extra decorative map; it is 
 
 ## scientific figure
 
-![polarization_stokes_ellipse](../../../assets/images/polarization_stokes_ellipse.svg)
+<img src="{{ "/assets/images/polarization_stokes_ellipse.svg" | relative_url }}" alt="polarization_stokes_ellipse" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 reading cue: Stokes parameters are not four random letters. they are a compact bookkeeping system for total intensity, two linear-polarization axes, and circular handedness.
 

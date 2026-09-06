@@ -12,7 +12,7 @@ what we *do* know:
 
 even though we cannot detect the CνB directly, neutrinos leave specific imprints on the CMB and on small-scale structure formation. these imprints constrain neutrino properties.
 
-![intro-29](../../assets/images/intro-29.png)
+<img src="{{ "/assets/images/intro-29.png" | relative_url }}" alt="intro-29" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 

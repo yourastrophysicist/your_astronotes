@@ -17,7 +17,7 @@ with fringe tracking: long integrations possible. the SNR scales as $\sqrt{\tau}
 
 ## the principle
 
-![Real-time fringe tracking control loop dynamically adjusting optical path delay to maintain fringe visibility at maximum.](Fringe_tracking.jpg)
+<img src="{{ "/assets/images/Fringe_tracking.jpg" | relative_url }}" alt="Real-time fringe tracking control loop dynamically adjusting optical path delay to maintain fringe visibility at maximum." class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 
 a fast, sensitive instrument continuously measures the residual fringe position and commands the delay line (or a fast piezo) to stay locked. operates in **closed loop** at ~1 kHz, faster than the atmosphere.

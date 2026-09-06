@@ -40,7 +40,7 @@ now look at the CMB. it is uniform to $\Delta T/T \sim 10^{-5}$ over the entire 
 
 → how did they thermalize to the same temperature?
 
-![intro-12](../../assets/images/intro-12.png)
+<img src="{{ "/assets/images/intro-12.png" | relative_url }}" alt="intro-12" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 the **horizon problem**: the universe is much more uniform than causality allows. at face value this is impossible.
 

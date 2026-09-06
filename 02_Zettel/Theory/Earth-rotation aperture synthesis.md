@@ -111,7 +111,7 @@ every step is automated in CASA / AIPS / CARMA pipelines.
 
 ## scientific figure
 
-![uv_coverage_dirty_beam_demo](../../assets/images/uv_coverage_dirty_beam_demo.png)
+<img src="{{ "/assets/images/uv_coverage_dirty_beam_demo.png" | relative_url }}" alt="uv_coverage_dirty_beam_demo" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 reading cue: Earth rotation turns one physical baseline into a track through the $(u,v)$ plane. more hour-angle coverage means more Fourier samples and a cleaner synthesized beam.
 

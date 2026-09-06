@@ -77,7 +77,7 @@ for images, you need many baselines covering many spatial frequencies — see [A
 
 ## scientific figure
 
-![young_double_slit_interference](../../../assets/images/young_double_slit_interference.svg)
+<img src="{{ "/assets/images/young_double_slit_interference.svg" | relative_url }}" alt="young_double_slit_interference" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 reading cue: the two slits are the baby version of two telescope apertures. the baseline replaces the slit separation, and the fringe contrast becomes the observable that tells me about angular size.
 

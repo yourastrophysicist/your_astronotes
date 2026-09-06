@@ -9,7 +9,7 @@ $$\text{H} \to \text{He} \to \text{C} \to \text{O} \to \text{Ne} \to \text{Mg} \
 
 beyond iron, fusion is endothermic — energy must be put in, not released. so iron is the heaviest element produced by *equilibrium* stellar nucleosynthesis. heavier elements come from neutron capture (s-process and r-process) and other processes.
 
-![stellar-15](../../assets/images/stellar-15.png)
+<img src="{{ "/assets/images/stellar-15.png" | relative_url }}" alt="stellar-15" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -86,7 +86,7 @@ end result: an **onion-skin** structure with an iron core surrounded by Si, O, N
 
 at the iron core, fusion is endothermic. when the iron core exceeds the Chandrasekhar mass, it collapses → **core-collapse supernova**.
 
-![stellar-19](../../assets/images/stellar-19.png)
+<img src="{{ "/assets/images/stellar-19.png" | relative_url }}" alt="stellar-19" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 

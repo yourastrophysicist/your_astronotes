@@ -16,7 +16,7 @@ within this volume:
 - mostly **dwarf galaxies** by number
 - the brightest galaxies ($L > L^*$ where $L^* = 10^{10}\, L_\odot$) are far rarer — see [Schechter function](../../02_Zettel/Theory/Schechter function.html)
 
-![galaxies-04](../../assets/images/galaxies-04.png)
+<img src="{{ "/assets/images/galaxies-04.png" | relative_url }}" alt="galaxies-04" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 

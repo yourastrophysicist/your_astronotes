@@ -33,7 +33,7 @@ so the Sun has about 5 Gyr left on the MS, then ~1.5 Gyr of post-MS evolution, t
 
 at the RGB tip (12.2 Gyr cosmic age), the Sun's radius will be $\sim 100\, R_\odot \sim 0.5$ AU — engulfing Mercury and Venus, possibly Earth.
 
-![stellar-26](../../assets/images/stellar-26.png)
+<img src="{{ "/assets/images/stellar-26.png" | relative_url }}" alt="stellar-26" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 

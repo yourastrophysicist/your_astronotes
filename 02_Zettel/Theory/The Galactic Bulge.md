@@ -6,7 +6,7 @@ description: central stellar component of the Milky Way; old (~10 Gyr), metal-ri
 
 the **Galactic bulge** is the central stellar component of the Milky Way, located within the inner few kiloparsecs around the Galactic centre. it is a dense, gravitationally bound stellar system dominated by old stars. the bulge is one of the three main baryonic components of the Galaxy together with the disk and the halo, and its age + metallicity tell us about the **inner Galactic formation history**.
 
-![L19_p02_bulge_mass-02](../../assets/images/L19_p02_bulge_mass-02.png)
+<img src="{{ "/assets/images/L19_p02_bulge_mass-02.png" | relative_url }}" alt="L19_p02_bulge_mass-02" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ## mass budget of the Milky Way
 
@@ -38,7 +38,7 @@ reading the CMD of the bulge is hard. two challenges dominate:
 
 the bulge sits behind the Galactic disk along our line of sight. the bulge CMD is significantly contaminated by foreground disk stars, contaminating the bulge MS turn-off region. critically, this affects accurate age estimates of the bulge population (Zoccali, with bulge-TO + disk-MS + disk-RC + bulge-RC + RGB all visible).
 
-![L19_p06_bulge_CMD_disk_contam-06](../../assets/images/L19_p06_bulge_CMD_disk_contam-06.png)
+<img src="{{ "/assets/images/L19_p06_bulge_CMD_disk_contam-06.png" | relative_url }}" alt="L19_p06_bulge_CMD_disk_contam-06" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ### 2. differential reddening
 
@@ -50,21 +50,21 @@ two complementary approaches handle the field contamination problem:
 
 **(I) statistical decontamination** (Valenti et al. 2013): subtract a control field CMD from the bulge field CMD, leaving only the bulge population. this approach gives a clean bulge CMD on average but loses individual-star information.
 
-![L19_p07_decontamination_Valenti-07](../../assets/images/L19_p07_decontamination_Valenti-07.png)
+<img src="{{ "/assets/images/L19_p07_decontamination_Valenti-07.png" | relative_url }}" alt="L19_p07_decontamination_Valenti-07" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 **(II) proper motions** (Clarkson et al. 2008): bulge stars and disk stars have distinct kinematics. relative proper motions from multi-epoch HST imaging show two distinct distributions in the proper-motion diagram, which can be used to select bulge members with high purity. this is now the gold-standard method.
 
-![L19_p09_PM_Clarkson-09](../../assets/images/L19_p09_PM_Clarkson-09.png)
+<img src="{{ "/assets/images/L19_p09_PM_Clarkson-09.png" | relative_url }}" alt="L19_p09_PM_Clarkson-09" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ## the Clarkson et al. 2008 result: an old bulge
 
 using HST proper-motion-cleaned CMDs of $\sim 15{,}000$ bulge stars in the SWEEPS field (with $\mu_l < -2.0$ mas/yr selection), Clarkson et al. 2008 fit isochrones of varying age + metallicity to the bulge MS turn-off. the conclusion: the bulge is largely composed of **old stellar populations** ($\geq 10$ Gyr), and stars younger than $\sim 5$ Gyr, if present, constitute $< 5\%$ of the total bulge stellar content.
 
-![L19_p11_bulge_old-11](../../assets/images/L19_p11_bulge_old-11.png)
+<img src="{{ "/assets/images/L19_p11_bulge_old-11.png" | relative_url }}" alt="L19_p11_bulge_old-11" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 this is the single strongest piece of CMD evidence that the bulge formed rapidly + early.
 
-![L19_p11_bulge_old-11](../../assets/images/L19_p11_bulge_old-11.png)
+<img src="{{ "/assets/images/L19_p11_bulge_old-11.png" | relative_url }}" alt="L19_p11_bulge_old-11" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 *Clarkson et al. 2008: bulge MS turn-off compared with isochrones at varying age + [Fe/H]; bulk old, $< 5\%$ younger than 5 Gyr.*
 
 ## the Lagioia et al. 2014 NGC 6528 + Baade Window study
@@ -75,7 +75,7 @@ Lagioia et al. 2014 used the globular cluster NGC 6528 (which sits in the Baade 
 2. derived a high-resolution differential-reddening map from the cluster member ridge,
 3. corrected the bulge CMD for differential reddening using this map.
 
-![L19_p12_NGC6528_Lagioia-12](../../assets/images/L19_p12_NGC6528_Lagioia-12.png)
+<img src="{{ "/assets/images/L19_p12_NGC6528_Lagioia-12.png" | relative_url }}" alt="L19_p12_NGC6528_Lagioia-12" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 the result: after PM selection + DR correction, isochrone fits to NGC 6528 + bulge stars in the same field both give ages $\sim 10$-$12$ Gyr at $[{\rm Fe/H}] = +0.20$, $[\alpha/{\rm Fe}] = 0$, supporting rapid star formation in the bulge.
 

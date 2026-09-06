@@ -16,7 +16,7 @@ how do we *weigh* the baryons in the universe? four independent methods, with va
 
 methods 3 and 4 are in **excellent agreement** with each other. method 1 historically gave a smaller number, leading to the **missing baryon problem** — about half the baryons were unaccounted for. recent work has located most of them in the **WHIM** (warm-hot intergalactic medium) in filaments connecting galaxies, too cold to emit X-rays brightly.
 
-![intro-14](../../assets/images/intro-14.png)
+<img src="{{ "/assets/images/intro-14.png" | relative_url }}" alt="intro-14" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -42,7 +42,7 @@ the height of the first acoustic peak is set by the **baryon loading**:
 
 so reading the relative heights of the peaks gives $\Omega_b h^2$.
 
-![intro-15](../../assets/images/intro-15.png)
+<img src="{{ "/assets/images/intro-15.png" | relative_url }}" alt="intro-15" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 a low $\Omega_b h^2 \approx 0.02$ gives a moderate first peak; higher values pump up the first peak relative to the second. fitting the actual measured curve gives $\Omega_b h^2 = 0.0224$.
 

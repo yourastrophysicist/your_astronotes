@@ -14,7 +14,7 @@ through the 1980s + 1990s these scattered anomalies coalesced into a coherent pa
 
 the fanfare moment was the FLAMES@VLT survey by carretta + gratton + bragaglia (2009, 2010), which observed ~2500 RGB stars in 19 GCs. every cluster showed Na-O. they argued this was the defining signature of a globular cluster: any old massive cluster has it, any cluster without it is not really a GC.
 
-![L15_p30_NaO_anticorr-30](../../assets/images/L15_p30_NaO_anticorr-30.png)
+<img src="{{ "/assets/images/L15_p30_NaO_anticorr-30.png" | relative_url }}" alt="L15_p30_NaO_anticorr-30" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 *Na-O anti-correlation in 19 GCs (Carretta et al. 2009): every cluster shows the inverse correlation between [Na/Fe] and [O/Fe], the chemical fingerprint of multiple populations.*
 
 ## the photometric revolution

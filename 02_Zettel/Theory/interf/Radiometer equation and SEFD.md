@@ -94,7 +94,7 @@ the radiometer equation says sensitivity improves as $1/\sqrt{\Delta\nu t}$. for
 
 ## scientific figure
 
-![radiometer_noise_scaling](../../../assets/images/radiometer_noise_scaling.png)
+<img src="{{ "/assets/images/radiometer_noise_scaling.png" | relative_url }}" alt="radiometer_noise_scaling" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 reading cue: the painful but important memory: sensitivity improves only as the square root of bandwidth and time. to improve RMS by 10, I need 100 times more independent samples.
 

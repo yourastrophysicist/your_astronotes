@@ -16,7 +16,7 @@ tags:
 
 ## core physical intuition
 
-![Square Kilometre Array (SKA): next-generation radio observatory spanning Australia and South Africa.](The_Square_Kilometre_Array_SKA.png)
+<img src="{{ "/assets/images/The_Square_Kilometre_Array_SKA.png" | relative_url }}" alt="Square Kilometre Array (SKA): next-generation radio observatory spanning Australia and South Africa." class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 
 Radio signals from the early universe and distant galaxies are incredibly faint. To detect them, you need an enormous amount of metal pointing at the sky to collect the photons. The Square Kilometre Array aims to build a total collecting area approaching one square kilometer, vastly surpassing any existing instrument.

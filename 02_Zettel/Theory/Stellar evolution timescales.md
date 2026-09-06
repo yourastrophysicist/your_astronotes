@@ -61,7 +61,7 @@ ratios are huge ($10^9, 10^3$). this hierarchy means:
 
 so when we talk about the "evolution" of a star, we mean its motion across the HR diagram on the nuclear timescale. on shorter timescales, it just sits in equilibrium.
 
-![stellar-09](../../assets/images/stellar-09.png)
+<img src="{{ "/assets/images/stellar-09.png" | relative_url }}" alt="stellar-09" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 

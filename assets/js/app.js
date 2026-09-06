@@ -286,11 +286,15 @@ document.addEventListener('DOMContentLoaded', () => {
   // --- 5. Interactive Local Graph View ---
   const canvas = document.getElementById('graph-canvas');
   const tooltip = document.getElementById('graph-tooltip');
+  const zoomInBtn = document.getElementById('graph-zoom-in');
+  const zoomOutBtn = document.getElementById('graph-zoom-out');
+  const resetBtn = document.getElementById('graph-reset');
+
   if (canvas) {
     const ctx = canvas.getContext('2d');
     const container = canvas.parentElement;
     const width = container.clientWidth || 246;
-    const height = container.clientHeight || 208;
+    const height = container.clientHeight || 228;
     const dpr = window.devicePixelRatio || 1;
     
     canvas.width = width * dpr;
@@ -307,6 +311,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const nodes = [];
     const links = [];
     const addedUrls = new Set([currentPath]);
+    const nodeByUrl = new Map();
 
     // Center node (current page)
     const centerNode = {
@@ -317,11 +322,13 @@ document.addEventListener('DOMContentLoaded', () => {
       y: height / 2,
       vx: 0,
       vy: 0,
-      radius: 6,
+      radius: 6.5,
       isCenter: true,
+      degree: 0,
       color: '#3366cc'
     };
     nodes.push(centerNode);
+    nodeByUrl.set(currentPath, centerNode);
 
     // Find outgoing internal links on the page
     const contentLinks = document.querySelectorAll('.markdown-body a');
@@ -331,61 +338,106 @@ document.addEventListener('DOMContentLoaded', () => {
       try {
         const u = new URL(a.href, window.location.origin);
         if (u.origin !== window.location.origin) return;
-        if (addedUrls.has(u.pathname)) return;
-        addedUrls.add(u.pathname);
+        const normPath = u.pathname.replace(/\.md$/, '.html');
+        if (addedUrls.has(normPath)) return;
+        addedUrls.add(normPath);
 
-        const nodeTitle = a.textContent.trim() || u.pathname.split('/').pop().replace(/\.html$/, '');
+        const nodeTitle = a.textContent.trim() || normPath.split('/').pop().replace(/\.html$/, '');
         const angle = Math.random() * Math.PI * 2;
-        const dist = 35 + Math.random() * 30;
+        const dist = 40 + Math.random() * 35;
         const node = {
           id: 'node-' + nodes.length,
           title: nodeTitle,
-          url: a.href,
+          url: normPath,
           x: width / 2 + Math.cos(angle) * dist,
           y: height / 2 + Math.sin(angle) * dist,
           vx: 0,
           vy: 0,
-          radius: 4,
+          radius: 4.5,
           isCenter: false,
+          degree: 1,
           color: '#54595d'
         };
         nodes.push(node);
+        nodeByUrl.set(normPath, node);
         links.push({ source: centerNode, target: node });
+        centerNode.degree++;
       } catch (err) {}
     });
 
-    // If page has few links, add sibling notes from sitePages
+    // Add sibling notes from sitePages to enrich graph topology
     const sp = window.sitePages || (typeof sitePages !== 'undefined' ? sitePages : []);
-    if (nodes.length < 5 && Array.isArray(sp) && sp.length > 0) {
+    if (Array.isArray(sp) && sp.length > 0) {
       const currentFolder = currentPath.split('/').slice(0, -1).join('/');
       sp.forEach(p => {
-        if (nodes.length >= 12 || !p.url || addedUrls.has(p.url)) return;
-        if (p.url.includes(currentFolder) && p.url !== currentPath) {
-          addedUrls.add(p.url);
+        if (nodes.length >= 18 || !p.url) return;
+        const normUrl = p.url.replace(/\.md$/, '.html');
+        if (addedUrls.has(normUrl)) return;
+        if (normUrl.includes(currentFolder) && normUrl !== currentPath) {
+          addedUrls.add(normUrl);
           const angle = Math.random() * Math.PI * 2;
-          const dist = 40 + Math.random() * 30;
+          const dist = 50 + Math.random() * 40;
           const node = {
             id: 'node-' + nodes.length,
             title: p.title,
-            url: p.url,
+            url: normUrl,
             x: width / 2 + Math.cos(angle) * dist,
             y: height / 2 + Math.sin(angle) * dist,
             vx: 0,
             vy: 0,
-            radius: 3.5,
+            radius: 4,
             isCenter: false,
-            color: '#a2a9b1'
+            degree: 1,
+            color: '#72777d'
           };
           nodes.push(node);
+          nodeByUrl.set(normUrl, node);
           links.push({ source: centerNode, target: node });
+          centerNode.degree++;
         }
       });
     }
 
-    // Stable Force Simulation with Alpha Cooling
+    // Connect cross-links among neighboring nodes if they share title terms
+    for (let i = 1; i < nodes.length; i++) {
+      for (let j = i + 1; j < nodes.length; j++) {
+        const ni = nodes[i];
+        const nj = nodes[j];
+        const wordsI = ni.title.toLowerCase().split(/\W+/).filter(w => w.length > 3);
+        const wordsJ = nj.title.toLowerCase().split(/\W+/).filter(w => w.length > 3);
+        const common = wordsI.some(w => wordsJ.includes(w));
+        if (common && Math.random() < 0.4) {
+          links.push({ source: ni, target: nj });
+          ni.degree++;
+          nj.degree++;
+        }
+      }
+    }
+
+    // Camera Transform (Pan and Zoom)
+    const transform = { x: 0, y: 0, k: 1.0 };
+
+    function worldToScreen(wx, wy) {
+      return {
+        x: (wx - width / 2) * transform.k + width / 2 + transform.x,
+        y: (wy - height / 2) * transform.k + height / 2 + transform.y
+      };
+    }
+
+    function screenToWorld(sx, sy) {
+      return {
+        x: (sx - width / 2 - transform.x) / transform.k + width / 2,
+        y: (sy - height / 2 - transform.y) / transform.k + height / 2
+      };
+    }
+
+    // Force Simulation with Alpha Cooling
     let alpha = 1.0;
     let animId = null;
     let draggedNode = null;
+    let isPanning = false;
+    let panStartX = 0;
+    let panStartY = 0;
     let hoveredNode = null;
     let dragStartX = 0;
     let dragStartY = 0;
@@ -394,27 +446,91 @@ document.addEventListener('DOMContentLoaded', () => {
     function render() {
       ctx.clearRect(0, 0, width, height);
 
-      // Draw edges
-      ctx.lineWidth = 1;
-      ctx.strokeStyle = '#c8ccd1';
+      // Identify active neighbor set when hovering
+      const activeNeighborIds = new Set();
+      if (hoveredNode) {
+        activeNeighborIds.add(hoveredNode.id);
+        links.forEach(l => {
+          if (l.source.id === hoveredNode.id) activeNeighborIds.add(l.target.id);
+          if (l.target.id === hoveredNode.id) activeNeighborIds.add(l.source.id);
+        });
+      }
+
+      // 1. Draw Edges
       links.forEach(l => {
+        const sp = worldToScreen(l.source.x, l.source.y);
+        const tp = worldToScreen(l.target.x, l.target.y);
+        const isHoverEdge = hoveredNode && (l.source.id === hoveredNode.id || l.target.id === hoveredNode.id);
+
         ctx.beginPath();
-        ctx.moveTo(l.source.x, l.source.y);
-        ctx.lineTo(l.target.x, l.target.y);
+        ctx.moveTo(sp.x, sp.y);
+        ctx.lineTo(tp.x, tp.y);
+
+        if (isHoverEdge) {
+          ctx.lineWidth = 2 * transform.k;
+          ctx.strokeStyle = '#3366cc';
+        } else {
+          ctx.lineWidth = 1 * transform.k;
+          ctx.strokeStyle = hoveredNode ? 'rgba(200, 204, 209, 0.3)' : '#c8ccd1';
+        }
         ctx.stroke();
       });
 
-      // Draw nodes
+      // 2. Draw Nodes
       nodes.forEach(n => {
-        ctx.beginPath();
-        ctx.arc(n.x, n.y, n.radius, 0, Math.PI * 2);
-        ctx.fillStyle = (n === hoveredNode) ? '#2a4b8d' : (n.isCenter ? '#3366cc' : n.color);
-        ctx.fill();
+        const p = worldToScreen(n.x, n.y);
+        const r = n.radius * transform.k;
+        const isHover = (n === hoveredNode);
+        const isNeighbor = hoveredNode && activeNeighborIds.has(n.id);
+        const dimmed = hoveredNode && !isNeighbor;
 
-        if (n.isCenter || n === hoveredNode) {
-          ctx.lineWidth = 1.5;
-          ctx.strokeStyle = n.isCenter ? '#202122' : '#3366cc';
+        ctx.beginPath();
+        ctx.arc(p.x, p.y, r, 0, Math.PI * 2);
+
+        if (dimmed) {
+          ctx.fillStyle = 'rgba(162, 169, 177, 0.25)';
+          ctx.fill();
+        } else if (isHover) {
+          ctx.fillStyle = '#2a4b8d';
+          ctx.fill();
+          ctx.lineWidth = 2 * transform.k;
+          ctx.strokeStyle = '#3366cc';
           ctx.stroke();
+        } else if (n.isCenter) {
+          ctx.fillStyle = '#3366cc';
+          ctx.fill();
+          ctx.lineWidth = 1.5 * transform.k;
+          ctx.strokeStyle = '#202122';
+          ctx.stroke();
+        } else if (isNeighbor) {
+          ctx.fillStyle = '#202122';
+          ctx.fill();
+          ctx.lineWidth = 1.5 * transform.k;
+          ctx.strokeStyle = '#3366cc';
+          ctx.stroke();
+        } else {
+          ctx.fillStyle = n.color;
+          ctx.fill();
+          ctx.lineWidth = 1 * transform.k;
+          ctx.strokeStyle = '#a2a9b1';
+          ctx.stroke();
+        }
+
+        // Draw clean labels for center node and hovered/neighbor nodes
+        if (n.isCenter || isHover || (isNeighbor && transform.k >= 0.9)) {
+          ctx.font = `${Math.max(9, Math.round(10 * transform.k))}px sans-serif`;
+          ctx.textAlign = 'center';
+          ctx.textBaseline = 'top';
+          const label = n.title.length > 20 ? n.title.substring(0, 18) + '...' : n.title;
+          const textY = p.y + r + 3;
+
+          // Label pill background
+          const textWidth = ctx.measureText(label).width;
+          ctx.fillStyle = isHover ? 'rgba(32, 33, 34, 0.85)' : 'rgba(255, 255, 255, 0.88)';
+          ctx.fillRect(p.x - textWidth / 2 - 3, textY - 1, textWidth + 6, 13 * transform.k);
+
+          ctx.fillStyle = isHover ? '#ffffff' : (n.isCenter ? '#3366cc' : '#202122');
+          ctx.fillText(label, p.x, textY);
         }
       });
     }
@@ -429,8 +545,8 @@ document.addEventListener('DOMContentLoaded', () => {
             const dx = b.x - a.x;
             const dy = b.y - a.y;
             const dist = Math.max(Math.hypot(dx, dy), 6);
-            if (dist < 90) {
-              const force = (180 / (dist * dist + 40)) * alpha;
+            if (dist < 110) {
+              const force = (200 / (dist * dist + 50)) * alpha;
               const fx = (dx / dist) * force;
               const fy = (dy / dist) * force;
               if (a !== draggedNode && !a.isCenter) { a.vx -= fx; a.vy -= fy; }
@@ -444,7 +560,7 @@ document.addEventListener('DOMContentLoaded', () => {
           const dx = l.target.x - l.source.x;
           const dy = l.target.y - l.source.y;
           const dist = Math.hypot(dx, dy) || 1;
-          const desiredDist = 48;
+          const desiredDist = 52;
           const force = (dist - desiredDist) * 0.035 * alpha;
           const fx = (dx / dist) * force;
           const fy = (dy / dist) * force;
@@ -460,20 +576,13 @@ document.addEventListener('DOMContentLoaded', () => {
             n.y += (height / 2 - n.y) * 0.1;
             return;
           }
-          n.vx += (width / 2 - n.x) * 0.008 * alpha;
-          n.vy += (height / 2 - n.y) * 0.008 * alpha;
+          n.vx += (width / 2 - n.x) * 0.007 * alpha;
+          n.vy += (height / 2 - n.y) * 0.007 * alpha;
 
-          n.vx *= 0.85;
-          n.vy *= 0.85;
+          n.vx *= 0.86;
+          n.vy *= 0.86;
           n.x += n.vx;
           n.y += n.vy;
-
-          // Clamped boundaries
-          const pad = n.radius + 6;
-          if (n.x < pad) { n.x = pad; n.vx = 0; }
-          if (n.x > width - pad) { n.x = width - pad; n.vx = 0; }
-          if (n.y < pad) { n.y = pad; n.vy = 0; }
-          if (n.y > height - pad) { n.y = height - pad; n.vy = 0; }
         });
 
         alpha *= 0.95;
@@ -481,7 +590,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
       render();
 
-      if (alpha > 0.005 || draggedNode) {
+      if (alpha > 0.005 || draggedNode || isPanning) {
         animId = requestAnimationFrame(step);
       } else {
         animId = null;
@@ -497,42 +606,95 @@ document.addEventListener('DOMContentLoaded', () => {
 
     wakeSimulation(1.0);
 
-    // Mouse & Touch Interaction
-    function getNodeAt(x, y) {
+    // Node hit testing in screen coordinates
+    function getNodeAt(sx, sy) {
       for (let i = nodes.length - 1; i >= 0; i--) {
         const n = nodes[i];
-        const dist = Math.hypot(n.x - x, n.y - y);
-        if (dist <= n.radius + 6) return n;
+        const p = worldToScreen(n.x, n.y);
+        const dist = Math.hypot(p.x - sx, p.y - sy);
+        if (dist <= (n.radius * transform.k) + 6) return n;
       }
       return null;
     }
 
+    // Zoom and Pan Controls
+    function setZoom(factor, centerX = width / 2, centerY = height / 2) {
+      const newScale = Math.max(0.5, Math.min(3.0, transform.k * factor));
+      const scaleChange = newScale / transform.k;
+      transform.x = centerX - (centerX - transform.x) * scaleChange;
+      transform.y = centerY - (centerY - transform.y) * scaleChange;
+      transform.k = newScale;
+      wakeSimulation(0.1);
+      render();
+    }
+
+    if (zoomInBtn) {
+      zoomInBtn.addEventListener('click', () => setZoom(1.25));
+    }
+    if (zoomOutBtn) {
+      zoomOutBtn.addEventListener('click', () => setZoom(0.8));
+    }
+    if (resetBtn) {
+      resetBtn.addEventListener('click', () => {
+        transform.x = 0;
+        transform.y = 0;
+        transform.k = 1.0;
+        wakeSimulation(0.4);
+        render();
+      });
+    }
+
+    // Mouse Wheel Zooming
+    canvas.addEventListener('wheel', (e) => {
+      e.preventDefault();
+      const rect = canvas.getBoundingClientRect();
+      const sx = e.clientX - rect.left;
+      const sy = e.clientY - rect.top;
+      const zoomFactor = e.deltaY < 0 ? 1.12 : 0.89;
+      setZoom(zoomFactor, sx, sy);
+    }, { passive: false });
+
+    // Mouse & Touch Interactions
     canvas.addEventListener('mousemove', (e) => {
       const rect = canvas.getBoundingClientRect();
-      const x = e.clientX - rect.left;
-      const y = e.clientY - rect.top;
+      const sx = e.clientX - rect.left;
+      const sy = e.clientY - rect.top;
 
       if (draggedNode) {
-        if (!hasDragged && Math.hypot(x - dragStartX, y - dragStartY) > 3) {
+        if (!hasDragged && Math.hypot(sx - dragStartX, sy - dragStartY) > 3) {
           hasDragged = true;
         }
-        draggedNode.x = Math.max(draggedNode.radius + 4, Math.min(width - draggedNode.radius - 4, x));
-        draggedNode.y = Math.max(draggedNode.radius + 4, Math.min(height - draggedNode.radius - 4, y));
+        const w = screenToWorld(sx, sy);
+        draggedNode.x = w.x;
+        draggedNode.y = w.y;
         draggedNode.vx = 0;
         draggedNode.vy = 0;
-        wakeSimulation(0.2);
+        wakeSimulation(0.25);
+        return;
+      }
+
+      if (isPanning) {
+        if (!hasDragged && Math.hypot(sx - dragStartX, sy - dragStartY) > 3) {
+          hasDragged = true;
+        }
+        transform.x += (sx - panStartX);
+        transform.y += (sy - panStartY);
+        panStartX = sx;
+        panStartY = sy;
+        render();
         return;
       }
 
       const prevHovered = hoveredNode;
-      hoveredNode = getNodeAt(x, y);
+      hoveredNode = getNodeAt(sx, sy);
 
       if (hoveredNode) {
         canvas.style.cursor = 'pointer';
         if (tooltip) {
-          tooltip.textContent = hoveredNode.title;
-          tooltip.style.left = Math.min(x + 10, width - 170) + 'px';
-          tooltip.style.top = Math.max(y - 25, 5) + 'px';
+          const connText = hoveredNode.degree > 0 ? ` (${hoveredNode.degree} links)` : '';
+          tooltip.textContent = hoveredNode.title + connText;
+          tooltip.style.left = Math.min(sx + 10, width - 190) + 'px';
+          tooltip.style.top = Math.max(sy - 28, 5) + 'px';
           tooltip.style.display = 'block';
         }
       } else {
@@ -548,6 +710,7 @@ document.addEventListener('DOMContentLoaded', () => {
     canvas.addEventListener('mouseleave', () => {
       hoveredNode = null;
       draggedNode = null;
+      isPanning = false;
       hasDragged = false;
       if (tooltip) tooltip.style.display = 'none';
       render();
@@ -555,20 +718,29 @@ document.addEventListener('DOMContentLoaded', () => {
 
     canvas.addEventListener('mousedown', (e) => {
       const rect = canvas.getBoundingClientRect();
-      dragStartX = e.clientX - rect.left;
-      dragStartY = e.clientY - rect.top;
-      draggedNode = getNodeAt(dragStartX, dragStartY);
+      const sx = e.clientX - rect.left;
+      const sy = e.clientY - rect.top;
+      dragStartX = sx;
+      dragStartY = sy;
       hasDragged = false;
-      if (draggedNode) {
+
+      const hit = getNodeAt(sx, sy);
+      if (hit) {
+        draggedNode = hit;
         canvas.style.cursor = 'grabbing';
         wakeSimulation(0.4);
+      } else {
+        isPanning = true;
+        panStartX = sx;
+        panStartY = sy;
+        canvas.style.cursor = 'grabbing';
       }
     });
 
     window.addEventListener('mouseup', (e) => {
       if (draggedNode) {
         if (!hasDragged) {
-          // Plain click detected
+          // Plain click on node -> navigate to article
           if (draggedNode.url && draggedNode.url !== currentPath && draggedNode.url !== '#') {
             window.location.href = draggedNode.url;
           }
@@ -576,9 +748,67 @@ document.addEventListener('DOMContentLoaded', () => {
         draggedNode = null;
         hasDragged = false;
         canvas.style.cursor = hoveredNode ? 'pointer' : 'grab';
-        wakeSimulation(0.1);
+        wakeSimulation(0.15);
+      }
+      if (isPanning) {
+        isPanning = false;
+        hasDragged = false;
+        canvas.style.cursor = hoveredNode ? 'pointer' : 'grab';
       }
     });
   }
+
+  // --- 6. Client-Side Image Healer and Zoom Lightbox ---
+  const articleImages = document.querySelectorAll('.markdown-body img, .article-content img');
+  const siteBase = (typeof sitePages !== 'undefined' && sitePages.length > 0 && sitePages[0].url) 
+    ? sitePages[0].url.split('/').slice(0, 2).join('/') 
+    : '/your_astronotes';
+
+  articleImages.forEach(img => {
+    // 1. Error fallback handler to auto-resolve broken relative paths
+    img.addEventListener('error', function() {
+      const origSrc = this.getAttribute('src') || '';
+      if (origSrc.startsWith('http://') || origSrc.startsWith('https://')) return;
+      const filename = origSrc.split('/').pop().split('?')[0].split('#')[0];
+      if (filename && !this.dataset.retried) {
+        this.dataset.retried = 'true';
+        this.src = `${window.location.origin}${siteBase}/assets/images/${encodeURIComponent(decodeURIComponent(filename))}`;
+      }
+    });
+
+    // 2. Click to zoom modal preview for diagrams
+    img.style.cursor = 'zoom-in';
+    img.addEventListener('click', () => {
+      const overlay = document.createElement('div');
+      overlay.style.position = 'fixed';
+      overlay.style.top = '0';
+      overlay.style.left = '0';
+      overlay.style.width = '100vw';
+      overlay.style.height = '100vh';
+      overlay.style.backgroundColor = 'rgba(0, 0, 0, 0.85)';
+      overlay.style.zIndex = '9999';
+      overlay.style.display = 'flex';
+      overlay.style.alignItems = 'center';
+      overlay.style.justifyContent = 'center';
+      overlay.style.cursor = 'zoom-out';
+      overlay.style.padding = '20px';
+      overlay.style.boxSizing = 'border-box';
+
+      const bigImg = document.createElement('img');
+      bigImg.src = img.src;
+      bigImg.alt = img.alt || 'Full preview';
+      bigImg.style.maxWidth = '92vw';
+      bigImg.style.maxHeight = '92vh';
+      bigImg.style.borderRadius = '4px';
+      bigImg.style.boxShadow = '0 8px 30px rgba(0,0,0,0.5)';
+      bigImg.style.backgroundColor = '#fff';
+
+      overlay.appendChild(bigImg);
+      overlay.addEventListener('click', () => {
+        document.body.removeChild(overlay);
+      });
+      document.body.appendChild(overlay);
+    });
+  });
 });
 

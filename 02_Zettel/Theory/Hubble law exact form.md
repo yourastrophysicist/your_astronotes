@@ -30,7 +30,7 @@ a positive $q_0$ means deceleration (an EdS or matter-only universe). a negative
 
 at $z \sim 0.5$–$1$, the second-order term is large enough to break the degeneracy between $H_0$ and $q_0$. when SN Ia were measured at these redshifts in 1998, they came out *fainter* than any matter-only model, sitting on a curve consistent with $\Omega_M = 0.28, \Omega_\Lambda = 0.72$ — the discovery of dark energy.
 
-![intro-33](../../assets/images/intro-33.png)
+<img src="{{ "/assets/images/intro-33.png" | relative_url }}" alt="intro-33" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -48,7 +48,7 @@ related distances (all equal at low z, all different at high z):
 
 → see 03_Zettel/Theory/Cosmological distances for the full set.
 
-![intro-34](../../assets/images/intro-34.png)
+<img src="{{ "/assets/images/intro-34.png" | relative_url }}" alt="intro-34" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 

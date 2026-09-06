@@ -53,7 +53,7 @@ where
 The correction factor $\sqrt{1 - 2\delta/\sin^2\theta}$ is significant at small $\theta$
 	it shifts the peak reflection to slightly different angles than the naive Bragg formula predicts
 
-![Pasted image 20260406205703](../../assets/images/Pasted image 20260406205703.png)
+<img src="{{ "/assets/images/Pasted%20image%2020260406205703.png" | relative_url }}" alt="Pasted image 20260406205703" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 <font color="#bfbfbf">Bragg reflection geometry: parallel rays reflecting from successive layer interfaces interfere constructively when the path difference $\Delta = 2d_M\sin\theta$ equals an integer multiple of the wavelength.</font>
 
 ---
@@ -68,7 +68,7 @@ The number of pairs $N_{pairs}$ and the layer thickness ratio (e.g. $\Gamma = d_
 	optimized using simulation to **maximize reflectivity** over a target energy band
 		a broader energy band requires a **depth-graded multilayer**: $d_M$ varies with depth through the stack
 
-![Pasted image focusing multilayer reflection](../../assets/images/Pasted image focusing multilayer reflection.png)
+<img src="{{ "/assets/images/Pasted%20image%2020260406210339.png" | relative_url }}" alt="Focusing Multilayer Reflection" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 <font color="#bfbfbf">Schematic of X-ray reflection by a multilayer mirror. Hundreds of alternating high-Z/low-Z layer pairs produce constructive interference, giving significant reflectivity at energies where single-layer grazing incidence would fail.</font>
 
 ---

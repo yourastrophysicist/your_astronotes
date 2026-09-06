@@ -68,7 +68,7 @@ downconversion uses heterodyne mixing with a local oscillator to move a high-fre
 
 ## scientific figure
 
-![downconversion_mixer_if](../../assets/images/downconversion_mixer_if.svg)
+<img src="{{ "/assets/images/downconversion_mixer_if.svg" | relative_url }}" alt="downconversion_mixer_if" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 reading cue: the mixer multiplies the sky signal by a local oscillator. after filtering, the difference frequency is the intermediate frequency, which keeps the phase information but is easier to amplify and digitize.
 

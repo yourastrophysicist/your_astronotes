@@ -17,7 +17,7 @@ so a difference of 5 magnitudes corresponds to a factor of $10^{5/2.5} = 100$ in
 
 example: a 6th-magnitude star is $100\times$ fainter than a 1st-magnitude star, exactly as Hipparchus's eye was logarithmically responding to brightness.
 
-![radiative-15](../../assets/images/radiative-15.png)
+<img src="{{ "/assets/images/radiative-15.png" | relative_url }}" alt="radiative-15" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 

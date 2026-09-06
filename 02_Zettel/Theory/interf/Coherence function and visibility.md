@@ -117,7 +117,7 @@ a wide-bandwidth signal has $\Gamma_{11}$ with rapidly oscillating exponentials 
 
 ## scientific figure
 
-![van_cittert_zernike_geometry](../../../assets/images/van_cittert_zernike_geometry.svg)
+<img src="{{ "/assets/images/van_cittert_zernike_geometry.svg" | relative_url }}" alt="van_cittert_zernike_geometry" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 reading cue: visibility is the normalized coherence between two points in the wave field. physically, it is what remains of the fringe contrast after the extended source has washed out some phase coherence.
 

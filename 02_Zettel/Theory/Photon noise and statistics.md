@@ -16,7 +16,7 @@ tags:
 
 ## core physical intuition
 
-![Photon shot noise: quantum Poisson fluctuations $\sigma_N = \sqrt{N}$ setting the fundamental sensitivity limit of optical detectors.](Photon_noise_and_statistics.jpg)
+<img src="{{ "/assets/images/Photon_noise_and_statistics.jpg" | relative_url }}" alt="Photon shot noise: quantum Poisson fluctuations $\sigma_N = \sqrt{N}$ setting the fundamental sensitivity limit of optical detectors." class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 
 Even if you have perfectly stable instruments, zero background light, and no atmospheric turbulence, your measurements will still be noisy. This is because light does not flow like a continuous fluid; it arrives as a rain of discrete photons. 

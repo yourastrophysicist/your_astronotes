@@ -24,7 +24,7 @@ $$\Gamma \propto G_F^2 T^5, \qquad \tau_{1/2}(n) \propto (G_F^2 m_n^5)^{-1} \qua
 
 an **increase** in $\tau_{1/2}(n)$ (longer-lived neutron) decreases all weak interaction rates, leading to **earlier freeze-out** of n/p (because $\Gamma_w \sim H$ is satisfied at higher $T$), and thus a **larger frozen n/p ratio** and consequently **more $^4$He**.
 
-![bbn-32](../../assets/images/bbn-32.png)
+<img src="{{ "/assets/images/bbn-32.png" | relative_url }}" alt="bbn-32" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -40,7 +40,7 @@ so the corresponding interaction rates $\Gamma = n_A \sigma v = \Gamma(\eta, T)$
 
 note: $\eta = (n_N/n_\gamma) = 2.68 \times 10^{-8}\, (\Omega_{0b} h^2)$, see [BBN_baryon_to_photon_ratio](../../02_Zettel/Theory/BBN_baryon_to_photon_ratio.html).
 
-![bbn-33](../../assets/images/bbn-33.png)
+<img src="{{ "/assets/images/bbn-33.png" | relative_url }}" alt="bbn-33" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -63,7 +63,7 @@ finally, for $^7$Li there is a "trough" at $\eta \sim 3 \times 10^{-10}$ because
 
 so $^7$Li is a particularly **sensitive probe of $\eta$**.
 
-![bbn-34](../../assets/images/bbn-34.png)
+<img src="{{ "/assets/images/bbn-34.png" | relative_url }}" alt="bbn-34" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -71,11 +71,11 @@ so $^7$Li is a particularly **sensitive probe of $\eta$**.
 
 the development of primordial nucleosynthesis as a function of $T$ for $\eta = 3 \times 10^{-10}$, $\tau_{1/2} = 10.6$ min, $N_\nu = 3$:
 
-![bbn-35](../../assets/images/bbn-35.png)
+<img src="{{ "/assets/images/bbn-35.png" | relative_url }}" alt="bbn-35" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 a more modern version with all the species labeled:
 
-![bbn-36](../../assets/images/bbn-36.png)
+<img src="{{ "/assets/images/bbn-36.png" | relative_url }}" alt="bbn-36" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 (Pradler & Pospelov 1011.1054.) you can see deuterium burning (D b.n.), neutrino decoupling, n/p decoupling, $e^\pm$ annihilation, and finally standard BBN freeze-out (SBBN f.o.) on a single timeline.
 
@@ -85,7 +85,7 @@ a more modern version with all the species labeled:
 
 the famous "schramm plot":
 
-![bbn-37](../../assets/images/bbn-37.png)
+<img src="{{ "/assets/images/bbn-37.png" | relative_url }}" alt="bbn-37" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 the $^4$He mass fraction $Y_p = 4n_4/n_N$ slowly increases with $\eta$ (and with $N_\nu$). curves for D, $^3$He, $^7$Li are sensitive in different ways. the **$^7$Li trough** at $\eta \sim 3 \times 10^{-10}$ is visible.
 

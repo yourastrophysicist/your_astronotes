@@ -13,7 +13,7 @@ invented by Georges Sagnac in 1913 (in part to challenge Einstein's relativity, 
 
 ## the geometry
 
-![Sagnac interferometer: counter-propagating beams traversing a closed optical loop detect rotational motion via phase shifts.](Sagnac_interferometer.svg)
+<img src="{{ "/assets/images/Sagnac_interferometer.svg" | relative_url }}" alt="Sagnac interferometer: counter-propagating beams traversing a closed optical loop detect rotational motion via phase shifts." class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 
 a beam splitter, three or more mirrors arranged in a closed loop. light enters at the beam splitter, splits into clockwise (CW) and counter-clockwise (CCW) beams, each traveling around the loop in opposite directions, and recombines at the beam splitter.

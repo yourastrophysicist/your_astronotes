@@ -17,7 +17,7 @@ the most natural coordinate system for someone standing on the Earth: take the l
 
 reference plane: the plane tangent to the Earth that passes through the observer (the local horizontal plane).
 
-![sphereastro-19](../../assets/images/sphereastro-19.png)
+<img src="{{ "/assets/images/sphereastro-19.png" | relative_url }}" alt="sphereastro-19" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -45,7 +45,7 @@ so I cannot tabulate stars in alt-azimuth coordinates. it is only useful for *im
 
 three stars A, B, C rising in the east, culminating in the meridian, and setting in the west have completely different $(A, a)$ values depending on the observer's latitude:
 
-![sphereastro-20](../../assets/images/sphereastro-20.png)
+<img src="{{ "/assets/images/sphereastro-20.png" | relative_url }}" alt="sphereastro-20" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 at $\phi = 45°$ N (Padova) the picture is one thing; at $\phi = 10°$ N it's another. and within a single night, the same star moves continuously through different $(A, a)$ values.
 

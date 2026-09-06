@@ -91,7 +91,7 @@ so historically, radio aperture synthesis is a mature technique (since 1960s). o
 
 ## scientific figure
 
-![uv_coverage_dirty_beam_demo](../../assets/images/uv_coverage_dirty_beam_demo.png)
+<img src="{{ "/assets/images/uv_coverage_dirty_beam_demo.png" | relative_url }}" alt="uv_coverage_dirty_beam_demo" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 reading cue: aperture synthesis is the act of collecting many Fourier samples. the image quality is not only about the longest baseline; it is about how well the sampled $(u,v)$ plane constrains the Fourier transform.
 

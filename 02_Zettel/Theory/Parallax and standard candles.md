@@ -7,7 +7,7 @@ distances in astronomy span $\sim 30$ orders of magnitude — from the Earth-Moo
 
 the ladder starts from **trigonometric parallax** and extends to **standard candles** (Cepheids, supernovae) and **standard rulers** (BAO).
 
-![distancescale-04](../../assets/images/distancescale-04.png)
+<img src="{{ "/assets/images/distancescale-04.png" | relative_url }}" alt="distancescale-04" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -63,7 +63,7 @@ candidates:
 each is calibrated against the previous step:
 parallax → Cepheids in MW → Cepheids in nearby galaxies → SN Ia in same galaxies → SN Ia at high z
 
-![distancescale-08](../../assets/images/distancescale-08.png)
+<img src="{{ "/assets/images/distancescale-08.png" | relative_url }}" alt="distancescale-08" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 

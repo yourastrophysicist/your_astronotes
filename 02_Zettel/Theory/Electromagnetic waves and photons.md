@@ -7,7 +7,7 @@ title: "Electromagnetic waves and photons"
 
 light is both an electromagnetic wave and a stream of photons. interferometry operates in the **wave regime**: it measures the correlation of wave amplitudes (or intensities, in HBT) at separated points. but the photon picture matters for **noise**: the fundamental quantum granularity of light sets the photon-noise floor of every measurement.
 
-![Illustration of a transverse electromagnetic wave propagating through space](Onde_cisaillement_impulsion_1d_30_petit.gif)
+<img src="{{ "/assets/images/Onde_cisaillement_impulsion_1d_30_petit.gif" | relative_url }}" alt="Illustration of a transverse electromagnetic wave propagating through space" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ## classical electromagnetic waves & electron currents
 

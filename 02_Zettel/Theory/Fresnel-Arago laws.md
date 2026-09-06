@@ -50,7 +50,7 @@ Law 3 follows because natural light's perpendicular polarization components orig
 
 traditional Young's double-slit masks with polarizers lose $>95\%$ of light intensity. a modern, high-efficiency setup by Ivković, Jovanović, and Obradović (*Eur. J. Phys.* **45** 035303, 2024) uses an **Iceland spar (calcite $\text{CaCO}_3$) crystal** and a **diverging lens**.
 
-![ivkovic_2024_fig2](../../assets/images/ivkovic_2024_fig2.png)
+<img src="{{ "/assets/images/ivkovic_2024_fig2.png" | relative_url }}" alt="ivkovic_2024_fig2" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 *Figure 2: schematic of the experimental setup with calcite crystal and diverging lens for red (a) and green (b) lasers.*
 
 ### what makes it work: the diverging lens
@@ -59,30 +59,30 @@ placing a negative (diverging) lens after the calcite crystal rapidly expands th
 
 changing the distance of the lens from the calcite crystal alters the degree of spot overlap and fringe period $\Delta x$:
 
-![ivkovic_2024_fig4_rg](../../assets/images/ivkovic_2024_fig4_rg.png)
+<img src="{{ "/assets/images/ivkovic_2024_fig4_rg.png" | relative_url }}" alt="ivkovic_2024_fig4_rg" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 *Figure 4: greater spot overlap photos. (a, b) without analyzer: no fringes (Law 1); (c, d) with analyzer: sharp fringes appear (Law 4).*
 
-![ivkovic_2024_fig5_rg](../../assets/images/ivkovic_2024_fig5_rg.png)
+<img src="{{ "/assets/images/ivkovic_2024_fig5_rg.png" | relative_url }}" alt="ivkovic_2024_fig5_rg" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 *Figure 5: less spot overlap photos on screen without (a, b) and with (c, d) analyzer.*
 
 ### 1D intensity distributions
 
 processing smartphone photos in quantitative image software (ImageJ/SciPy) yields 1D spatial intensity curves $I(x)$:
 
-![ivkovic_2024_fig6_rg](../../assets/images/ivkovic_2024_fig6_rg.png)
+<img src="{{ "/assets/images/ivkovic_2024_fig6_rg.png" | relative_url }}" alt="ivkovic_2024_fig6_rg" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 *Figure 6: greater overlap cropped fringe photos (a, b) and extracted 1D intensity curves (c, d) for red and green light.*
 
-![ivkovic_2024_fig7](../../assets/images/ivkovic_2024_fig7.png)
+<img src="{{ "/assets/images/ivkovic_2024_fig7.png" | relative_url }}" alt="ivkovic_2024_fig7" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 *Figure 7: less overlap cropped fringe photos (a, b) and extracted 1D intensity curves (c, d).*
 
 ## the wire experiment reconstruction
 
 the same setup allows reconstructing Fresnel and Arago's original 1819 experiment with a thin metal wire ($\varnothing \approx 0.2-0.5\text{ mm}$):
 
-![ivkovic_2024_fig1_rg](../../assets/images/ivkovic_2024_fig1_rg.webp)
+<img src="{{ "/assets/images/ivkovic_2024_fig1_rg.webp" | relative_url }}" alt="ivkovic_2024_fig1_rg" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 *Figure 1: schematic diagrams of the wire experiment setup for red (a) and green (b) lasers.*
 
-![ivkovic_2024_fig3_rg](../../assets/images/ivkovic_2024_fig3_rg.png)
+<img src="{{ "/assets/images/ivkovic_2024_fig3_rg.png" | relative_url }}" alt="ivkovic_2024_fig3_rg" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 *Figure 3: wire experiment photos. (a, b) without analyzer: no fringes inside geometric shadow (Law 1); (c, d) with analyzer: sharp interference fringes appear in shadow (Law 4).*
 
 ## mathematical formulation and measurement
@@ -93,7 +93,7 @@ $$\Delta x = \lambda \cdot \frac{L}{d \cdot u} \implies \lambda = \frac{\Delta x
 
 where $u = d_S / d_L$ is the lens magnification (ratio of screen spot separation $d_S$ to lens position spot separation $d_L$), and $d$ is the calcite spot separation:
 
-![ivkovic_2024_fig8](../../assets/images/ivkovic_2024_fig8.png)
+<img src="{{ "/assets/images/ivkovic_2024_fig8.png" | relative_url }}" alt="ivkovic_2024_fig8" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 *Figure 8: calcite exit surface spots on graph paper ($d = 1.144\text{ mm}$ red; $d = 1.209\text{ mm}$ green).*
 
 ### experimental measurement table (Ivković et al. 2024)

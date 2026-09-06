@@ -11,7 +11,7 @@ contrast with [Amplitude-division interferometers](../../02_Zettel/Theory/Amplit
 
 ## the four classical examples
 
-![Wavefront-division double-slit geometry sampling distinct spatial sections of an incoming wavefront.](Wavefront-division_interferometers.svg)
+<img src="{{ "/assets/images/Wavefront-division_interferometers.svg" | relative_url }}" alt="Wavefront-division double-slit geometry sampling distinct spatial sections of an incoming wavefront." class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 
 ### 1. Young's double slit (1801)

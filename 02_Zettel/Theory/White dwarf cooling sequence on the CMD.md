@@ -6,7 +6,7 @@ description: the white dwarf cooling sequence appears as a faint, blue-to-red se
 
 the **white dwarf cooling sequence (WDCS)** is the locus of [white dwarfs](../../02_Zettel/Theory/White dwarf overview.html) on a [color-magnitude diagram](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.html). it appears below the main sequence at faint magnitudes, extending $\sim 5$-$8$ mag from $M_V \sim 10$ (newly formed hot WDs) to $M_V \sim 16$-$18$ (oldest cooled WDs). because WDs evolve by simple **passive cooling**, the WDCS provides an **independent age clock** that complements the main sequence turn-off.
 
-![L06_p05_stellar_evolution_CMD-05](../../assets/images/L06_p05_stellar_evolution_CMD-05.png)
+<img src="{{ "/assets/images/L06_p05_stellar_evolution_CMD-05.png" | relative_url }}" alt="L06_p05_stellar_evolution_CMD-05" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ## location on the CMD
 
@@ -17,7 +17,7 @@ a typical CMD of a globular cluster shows the WDCS as a faint, blueward-curving 
 - at $T_{\rm eff} < 5000$ K, hydrogen-rich atmospheres turn **bluer** again due to **collision-induced absorption (CIA)** of H$_2$ in the IR;
 - the WDCS thus has a characteristic **hook** at faint magnitudes (see [WDCS turn to blue and CIA](../../02_Zettel/Theory/WDCS turn to blue and CIA.html)).
 
-![L06_p07_WD_blueturn-07](../../assets/images/L06_p07_WD_blueturn-07.png)
+<img src="{{ "/assets/images/L06_p07_WD_blueturn-07.png" | relative_url }}" alt="L06_p07_WD_blueturn-07" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ## age dating from the WDCS luminosity function
 
@@ -29,7 +29,7 @@ the most powerful use of the WDCS is to date a cluster from the **luminosity fun
 
 this method is independent of the main sequence turn-off age (which depends on stellar interior physics) and provides a powerful cross-check.
 
-![L06_p13_NGC6397_WDage-13](../../assets/images/L06_p13_NGC6397_WDage-13.png)
+<img src="{{ "/assets/images/L06_p13_NGC6397_WDage-13.png" | relative_url }}" alt="L06_p13_NGC6397_WDage-13" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ## NGC 6397: the calibration cluster
 
@@ -55,7 +55,7 @@ the agreement is excellent + within the uncertainties. this is one of the **triu
 
 so the two methods are **complementary**, with different systematic errors. agreement between them gives confidence in absolute cluster ages.
 
-![L06_p21_age_FeH_relation-21](../../assets/images/L06_p21_age_FeH_relation-21.png)
+<img src="{{ "/assets/images/L06_p21_age_FeH_relation-21.png" | relative_url }}" alt="L06_p21_age_FeH_relation-21" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ## practical observational challenges
 
@@ -68,7 +68,7 @@ constructing the WDCS in a globular cluster is observationally extreme:
 
 clusters with published WDCS ages: NGC 6397, NGC 6791, M4, NGC 6752, 47 Tuc.
 
-![L06_p17_WDCS_47Tuc-17](../../assets/images/L06_p17_WDCS_47Tuc-17.png)
+<img src="{{ "/assets/images/L06_p17_WDCS_47Tuc-17.png" | relative_url }}" alt="L06_p17_WDCS_47Tuc-17" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ## the metallicity advantage
 

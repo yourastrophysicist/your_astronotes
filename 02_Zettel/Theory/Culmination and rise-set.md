@@ -30,7 +30,7 @@ $$\delta > \phi - 90°$$
 
 stars with $\delta < \phi - 90°$ are **never visible** from latitude $\phi$.
 
-![sphereastro-28](../../assets/images/sphereastro-28.png)
+<img src="{{ "/assets/images/sphereastro-28.png" | relative_url }}" alt="sphereastro-28" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -47,7 +47,7 @@ $$a_{\min} = \begin{cases} \phi + \delta - 90° & \text{anti-culmination north o
 condition for the star to be **circumpolar** (i.e. anti-culmination still above the horizon): $a_{\min} > 0$, which gives
 $$\delta + \phi > 90°$$
 
-![sphereastro-29](../../assets/images/sphereastro-29.png)
+<img src="{{ "/assets/images/sphereastro-29.png" | relative_url }}" alt="sphereastro-29" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -64,7 +64,7 @@ $$\delta = \tfrac12 (a_{\min} + a_{\max})$$
 
 once you have the latitude and the position of the celestial pole pinned down this way, the celestial equator is fixed, and you can take **the point where the Sun crosses the equator from south to north** as the zero of right ascension. this is where the $\gamma$ point comes from operationally.
 
-![sphereastro-30](../../assets/images/sphereastro-30.png)
+<img src="{{ "/assets/images/sphereastro-30.png" | relative_url }}" alt="sphereastro-30" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -78,7 +78,7 @@ the local sidereal time at rise/set follows from $\Theta_{s,t} = h_{s,t} + \alph
 
 note: this calculation **does not include atmospheric refraction**, which lifts apparent positions of objects near the horizon by about $34'$. this means the Sun rises a few minutes earlier and sets a few minutes later than the geometric formula predicts. for precise sunrise/sunset times you need to subtract that.
 
-![sphereastro-31](../../assets/images/sphereastro-31.png)
+<img src="{{ "/assets/images/sphereastro-31.png" | relative_url }}" alt="sphereastro-31" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -102,7 +102,7 @@ $\cos h = -(-1.192)(0.839) = +1.00$. $h = 0$ h — the star is **never visible**
 - $\delta = 0°$:
 $\cos h = 0$, $h = \pm 90° = \pm 6$ h. star above horizon for exactly 12 h, rises exactly E, sets exactly W.
 
-![sphereastro-32](../../assets/images/sphereastro-32.png)
+<img src="{{ "/assets/images/sphereastro-32.png" | relative_url }}" alt="sphereastro-32" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 

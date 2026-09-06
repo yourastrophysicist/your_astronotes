@@ -99,7 +99,7 @@ CLEAN-deconvolved imaging effectively *invents* a more uniform OTF (the clean be
 
 ## scientific figure
 
-![abbe_fourier_optics_orders](../../../assets/images/abbe_fourier_optics_orders.svg)
+<img src="{{ "/assets/images/abbe_fourier_optics_orders.svg" | relative_url }}" alt="abbe_fourier_optics_orders" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 reading cue: the OTF tells me which spatial frequencies survive the optical system. Abbe's picture makes this visual: the aperture passes or blocks diffraction orders, so resolution is a bandwidth limit.
 

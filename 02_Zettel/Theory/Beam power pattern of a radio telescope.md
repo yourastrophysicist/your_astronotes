@@ -79,7 +79,7 @@ the beam power pattern is the angular response of the antenna. it weights the sk
 
 ## scientific figure
 
-![antenna_effective_area_gain](../../assets/images/antenna_effective_area_gain.svg)
+<img src="{{ "/assets/images/antenna_effective_area_gain.svg" | relative_url }}" alt="antenna_effective_area_gain" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 reading cue: the antenna beam is the directional weighting of the sky. the same dish that collects power also defines the field of view and sidelobe response.
 

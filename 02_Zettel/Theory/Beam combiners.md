@@ -40,7 +40,7 @@ GRAVITY's beam combiner is integrated optics (4 telescopes → 6 baselines → 2
 
 ## pairwise vs all-on-one
 
-![Single-mode fiber and integrated optics beam combiners for multi-beam interferometric beam combination.](Beam_combiners.jpg)
+<img src="{{ "/assets/images/Beam_combiners.jpg" | relative_url }}" alt="Single-mode fiber and integrated optics beam combiners for multi-beam interferometric beam combination." class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 
 an $N$-telescope interferometer can combine beams two ways:

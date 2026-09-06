@@ -8,7 +8,7 @@ $$v = H_0\, d, \qquad z \simeq \frac{v}{c}$$
 
 a straight line through the origin in the $v$-$d$ plot. this is the celebrated 1929 Hubble result.
 
-![intro-30](../../assets/images/intro-30.png)
+<img src="{{ "/assets/images/intro-30.png" | relative_url }}" alt="intro-30" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -71,7 +71,7 @@ $$H_0 = 73.04 \pm 1.04~\text{km/s/Mpc} \quad \text{(Riess et al. 2022)}$$
 
 inconsistent at $\sim 5\sigma$ with the CMB-anchored value $67.4 \pm 0.5$. this is the **Hubble tension**.
 
-![intro-32](../../assets/images/intro-32.png)
+<img src="{{ "/assets/images/intro-32.png" | relative_url }}" alt="intro-32" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 

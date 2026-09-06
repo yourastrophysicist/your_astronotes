@@ -7,7 +7,7 @@ the **Hertzsprung-Russell diagram** plots stars in the $(T_{\rm eff}, L)$ plane.
 
 historically introduced independently by Ejnar Hertzsprung (1911) and Henry Norris Russell (1913).
 
-![stellar-02](../../assets/images/stellar-02.png)
+<img src="{{ "/assets/images/stellar-02.png" | relative_url }}" alt="stellar-02" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -46,7 +46,7 @@ cool, luminous stars sitting *above* the MS at red colors. these are post-MS sta
 
 faint, hot stars sitting *below* the MS. these are the **degenerate cores** of post-AGB stars, no longer fusing — just cooling. typical mass $\sim 0.6\, M_\odot$, radius $\sim R_\oplus$.
 
-![stellar-03](../../assets/images/stellar-03.png)
+<img src="{{ "/assets/images/stellar-03.png" | relative_url }}" alt="stellar-03" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 

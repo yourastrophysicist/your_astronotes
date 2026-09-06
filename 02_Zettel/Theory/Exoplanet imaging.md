@@ -18,7 +18,7 @@ only specialized high-contrast techniques can image planets directly.
 
 ## the observation modes
 
-![Direct imaging of exoplanetary system HR 8799 using high-contrast adaptive optics and coronagraphy.](Exoplanet_imaging.jpg)
+<img src="{{ "/assets/images/Exoplanet_imaging.jpg" | relative_url }}" alt="Direct imaging of exoplanetary system HR 8799 using high-contrast adaptive optics and coronagraphy." class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 
 three approaches:

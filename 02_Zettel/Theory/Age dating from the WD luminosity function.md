@@ -20,7 +20,7 @@ the procedure (originating with Hansen et al. 2007 for NGC 6397) is:
 
 ## NGC 6397: the textbook case
 
-NGC 6397 is a metal-poor halo globular cluster ([Fe/H] $\approx -2.1$) and sits close enough that HST/ACS can reach its faint WDs. ![L06_p13_NGC6397_WDage](../../assets/images/L06_p13_NGC6397_WDage.png) Hansen et al. (2007) found
+NGC 6397 is a metal-poor halo globular cluster ([Fe/H] $\approx -2.1$) and sits close enough that HST/ACS can reach its faint WDs. <img src="{{ "/assets/images/L06_p13_NGC6397_WDage.png" | relative_url }}" alt="L06_p13_NGC6397_WDage" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" /> Hansen et al. (2007) found
 $$t_{\rm WDCS} = 11.47 \pm 0.47\;\text{Gyr},$$
 in striking agreement with the main-sequence turnoff age $t_{\rm MSTO} = 11.6 \pm 1.0$ Gyr. the agreement, derived from completely different stellar physics (degenerate cooling on one side, hydrogen burning and convective core overshooting on the other), is a strong validation of both methods.
 

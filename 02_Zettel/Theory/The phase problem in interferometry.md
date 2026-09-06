@@ -16,7 +16,7 @@ tags:
 
 ## core physical intuition
 
-![The phase problem: atmospheric phase turbulence corrupts raw visibility phase, requiring closure techniques or self-calibration.](The_phase_problem_in_interferometry.jpg)
+<img src="{{ "/assets/images/The_phase_problem_in_interferometry.jpg" | relative_url }}" alt="The phase problem: atmospheric phase turbulence corrupts raw visibility phase, requiring closure techniques or self-calibration." class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 
 To mathematically reconstruct an image from interferometer data via Fourier transform, you need two pieces of information for every spatial frequency: the amplitude (how bright the fringes are) and the phase (where the fringe peaks are located relative to the center of your field). 

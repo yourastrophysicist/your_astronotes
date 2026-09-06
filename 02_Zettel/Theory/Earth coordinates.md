@@ -10,7 +10,7 @@ the Earth's rotation axis defines two **poles**: north (P) and south (P'). perpe
 - a **parallel** of latitude is a small circle parallel to the equator
 - a **meridian** is a half-great-circle joining the two poles
 
-![sphereastro-16](../../assets/images/sphereastro-16.png)
+<img src="{{ "/assets/images/sphereastro-16.png" | relative_url }}" alt="sphereastro-16" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -25,7 +25,7 @@ the Earth's rotation axis defines two **poles**: north (P) and south (P'). perpe
 - positive eastward, negative westward
 - $\theta \in [-180°, +180°]$ or equivalently $[0°, 360°]$
 
-![sphereastro-17](../../assets/images/sphereastro-17.png)
+<img src="{{ "/assets/images/sphereastro-17.png" | relative_url }}" alt="sphereastro-17" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -56,7 +56,7 @@ substituting (numbers from the slides): $\cos a = 0.732 \cdot 0.5 \cdot 0.877 + 
 so $a = 42.5° = 0.74$ rad, and
 $$d = a \cdot R_\oplus = 0.74 \cdot 6400 = 4748~\text{km}$$
 
-![sphereastro-18](../../assets/images/sphereastro-18.png)
+<img src="{{ "/assets/images/sphereastro-18.png" | relative_url }}" alt="sphereastro-18" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 

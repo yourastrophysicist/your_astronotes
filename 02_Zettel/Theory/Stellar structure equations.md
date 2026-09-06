@@ -12,7 +12,7 @@ a star is a (nearly) hydrostatic ball of gas in radiative or convective equilibr
 
 with appropriate boundary conditions and a constitutive equation of state, these uniquely determine the radial profile of $\rho(r), T(r), P(r), L(r)$ for a given mass and composition. this is the **Vogt-Russell theorem**.
 
-![stellar-07](../../assets/images/stellar-07.png)
+<img src="{{ "/assets/images/stellar-07.png" | relative_url }}" alt="stellar-07" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 

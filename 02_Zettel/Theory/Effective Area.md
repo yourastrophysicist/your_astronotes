@@ -8,7 +8,7 @@ In optical telescopes, mirrors are perpendicular to the optical axis
 In X-ray telescopes, mirrors are **cylinders** inclined at grazing angles
 	the consequence of grazing incidence is a strong reduction in collecting efficiency
 
-![580](../../assets/images/Screenshot 2026-04-07 at 01.09.09.png)
+<img src="{{ "/assets/images/Screenshot%202026-04-07%20at%2001.09.09.png" | relative_url }}" alt="580" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 <font color="#bfbfbf">Comparison between an optical telescope (left) and an X-ray telescope (right). The optical mirror uses its full circular area; the X-ray mirror only uses a thin annular ring.</font>
 
 ---
@@ -66,7 +66,7 @@ $$A_{eff,total}(E) = \sum_{n=1}^{N} A_{eff,n}(E)$$
 Additional advantage: different shells have different grazing angles
 	so they have different energy cutoffs → **broader energy response**
 
-![Screenshot 2026-04-07 at 01.10.31](../../assets/images/Screenshot 2026-04-07 at 01.10.31.png)
+<img src="{{ "/assets/images/Screenshot%202026-04-07%20at%2001.10.31.png" | relative_url }}" alt="Screenshot 2026-04-07 at 01.10.31" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 <font color="#bfbfbf">Nested mirror assembly of the Chandra X-ray telescope. Four pairs of paraboloid/hyperboloid shells are nested concentrically to maximize effective area.</font>
 
 ---

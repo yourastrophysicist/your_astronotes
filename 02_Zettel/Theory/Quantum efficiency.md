@@ -20,7 +20,7 @@ For silicon, $\ell_{abs}$ depends strongly on energy:
 	at $E \sim 1~\text{keV}$: $\ell_{abs} \sim 1~\mu$m — absorbed in the active region
 	at $E \sim 10~\text{keV}$: $\ell_{abs} \sim 100~\mu$m — may pass through the depletion region without being absorbed
 
-![Screenshot 2026-04-07 at 01.51.24](../../assets/images/Screenshot 2026-04-07 at 01.51.24.png)
+<img src="{{ "/assets/images/Screenshot%202026-04-07%20at%2001.51.24.png" | relative_url }}" alt="Screenshot 2026-04-07 at 01.51.24" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 <font color="#bfbfbf">Absorption length in silicon as a function of X-ray photon energy. At very low energies photons are absorbed in the dead layer; at high energies they may penetrate through the active depletion region.</font>
 
 ---
@@ -65,7 +65,7 @@ This gives a peaked curve with:
 **Absorption edges**: the cross section $\sigma_{ph}(E)$ has discontinuities at atomic edge energies
 	these show up as sharp features in the QE curve (e.g. Si K-edge at $1.84~\text{keV}$, O K-edge at $0.54~\text{keV}$)
 
-![Screenshot 2026-04-07 at 01.53.12](../../assets/images/Screenshot 2026-04-07 at 01.53.12.png)
+<img src="{{ "/assets/images/Screenshot%202026-04-07%20at%2001.53.12.png" | relative_url }}" alt="Screenshot 2026-04-07 at 01.53.12" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 <font color="#bfbfbf">QE curve of an X-ray CCD. The low-energy cutoff is set by absorption in the optical blocking filter; the high-energy rolloff by finite depletion depth. Absorption edges of Si and O are visible.</font>
 
 ---

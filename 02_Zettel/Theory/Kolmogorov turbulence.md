@@ -23,7 +23,7 @@ the **Kolmogorov 2/3 power law**.
 
 ## structure function
 
-![Kolmogorov atmospheric turbulence model showing phase distortion cascade from outer scale $ to dissipation scales.](Kolmogorov_turbulence.png)
+<img src="{{ "/assets/images/Kolmogorov_turbulence.png" | relative_url }}" alt="Kolmogorov atmospheric turbulence model showing phase distortion cascade from outer scale $ to dissipation scales." class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 
 formally, the second-order structure function:

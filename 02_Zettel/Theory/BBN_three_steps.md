@@ -18,7 +18,7 @@ light elements are in NSE but their abundances are *tiny* because $T \gg B_A$ an
 $$X_n \approx X_p \approx 0.5$$
 $$X_2 \sim 10^{-12}, \quad X_3 \sim 10^{-23}, \quad X_4 \sim 10^{-30}$$
 
-![bbn-23](../../assets/images/bbn-23.png)
+<img src="{{ "/assets/images/bbn-23.png" | relative_url }}" alt="bbn-23" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 so essentially nothing has happened yet — but the conditions are set.
 
@@ -38,7 +38,7 @@ $$\left(\frac{n}{p}\right)_{\rm freeze-out} = e^{-Q/T_F} = e^{-1.293/0.8} \appro
 
 → see [BBN_neutron_proton_ratio](../../02_Zettel/Theory/BBN_neutron_proton_ratio.html).
 
-![bbn-24](../../assets/images/bbn-24.png)
+<img src="{{ "/assets/images/bbn-24.png" | relative_url }}" alt="bbn-24" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 abundances at this point still tiny:
 $$X_n \approx 1/7, \quad X_p \approx 6/7$$
@@ -46,7 +46,7 @@ $$X_2 \sim 10^{-12}, \quad X_3 \sim 10^{-23}, \quad X_4 \sim 10^{-28}, \quad X_{
 
 (the n/p ratio has shifted from $1/6$ to $\sim 1/7$ due to occasional free neutron decays; $\tau_{1/2}(n) \approx 610$ s.)
 
-![bbn-25](../../assets/images/bbn-25.png)
+<img src="{{ "/assets/images/bbn-25.png" | relative_url }}" alt="bbn-25" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -56,7 +56,7 @@ at this epoch $g_* = 3.36$ (3 light neutrinos + photons; $e^\pm$ have annihilate
 
 the n/p ratio has slowly decayed to $\sim 1/7$ because of occasional weak processes, mainly free neutron decay. (an interesting check: at NSE at $T = 0.3$ MeV, $(n/p)_{\rm EQ} = e^{-Q/T} = e^{-4.31} \sim 1/74$, much smaller than the actual $1/7$. so the n/p ratio has *decoupled from equilibrium* — exactly what we expect from the freeze-out picture.)
 
-![bbn-26](../../assets/images/bbn-26.png)
+<img src="{{ "/assets/images/bbn-26.png" | relative_url }}" alt="bbn-26" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 at $T \sim 0.3$ MeV the NSE value of $^4$He approaches unity. but **shortly before**, at $T \sim 0.5$ MeV, the actual abundance of $^4$He falls *below* its NSE value. why?
 
@@ -67,21 +67,21 @@ the relevant reactions:
 - $D + D \to p + {}^3\text{H}$, then ${}^3\text{H} + D \to {}^4\text{He} + n$
 - $D + D \to {}^4\text{He} + \gamma$
 
-![bbn-27](../../assets/images/bbn-27.png)
+<img src="{{ "/assets/images/bbn-27.png" | relative_url }}" alt="bbn-27" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 their rates $\Gamma = n_A \sigma v$ are low for two reasons:
 1. the abundances of the "fuels" D, $^3$He, $^3$H are still very low ($X_A \sim 10^{-12}$)
 2. the cross-sections $\sigma$ are suppressed by the **Coulomb barrier**:
 $$\sigma \propto \exp\left[-2(A_1 A_2/(A_1 + A_2))^{1/3} Z_1 Z_2\, T_{\rm MeV}^{-1/3}\right]$$
 
-![bbn-28](../../assets/images/bbn-28.png)
+<img src="{{ "/assets/images/bbn-28.png" | relative_url }}" alt="bbn-28" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 once the abundances of D, $^3$He, $^3$H reach order unity at $T_{\rm NUCL} \sim 0.1$ MeV, the reactions become fast enough — and **essentially all the neutrons are bound into $^4$He**, the most tightly bound light species.
 
 mass fraction of $^4$He, assuming all neutrons go into $^4$He:
 $$X_4 = \frac{4 n_4}{n_N} \simeq \frac{2(n/p)_{\rm NUCL}}{1 + (n/p)_{\rm NUCL}} \simeq \frac{2(1/7)}{1 + 1/7} = \frac{1}{4} = 25\%$$
 
-![bbn-29](../../assets/images/bbn-29.png)
+<img src="{{ "/assets/images/bbn-29.png" | relative_url }}" alt="bbn-29" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -106,9 +106,9 @@ via two channels:
 
 → see [BBN_predictions](../../02_Zettel/Theory/BBN_predictions.html).
 
-![bbn-30](../../assets/images/bbn-30.png)
+<img src="{{ "/assets/images/bbn-30.png" | relative_url }}" alt="bbn-30" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
-![bbn-31](../../assets/images/bbn-31.png)
+<img src="{{ "/assets/images/bbn-31.png" | relative_url }}" alt="bbn-31" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 

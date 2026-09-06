@@ -112,13 +112,13 @@ this is what GRAVITY does for the Galactic Center S-stars: each frame gives only
 
 ## scientific figures
 
-![uv_coverage_dirty_beam_demo](../../../assets/images/uv_coverage_dirty_beam_demo.png)
+<img src="{{ "/assets/images/uv_coverage_dirty_beam_demo.png" | relative_url }}" alt="uv_coverage_dirty_beam_demo" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 reading cue: the dirty beam is not a mysterious artifact; it is the Fourier transform of the sampling mask. this is why the same source can look different under different array configurations.
 
-![nrao_snapshot_dirty_beam](../../../assets/images/nrao_snapshot_dirty_beam.jpg)
+<img src="{{ "/assets/images/nrao_snapshot_dirty_beam.jpg" | relative_url }}" alt="nrao_snapshot_dirty_beam" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
-![nrao_snapshot_dirty_image](../../../assets/images/nrao_snapshot_dirty_image.jpg)
+<img src="{{ "/assets/images/nrao_snapshot_dirty_image.jpg" | relative_url }}" alt="nrao_snapshot_dirty_image" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 source: first figure is a local synthetic demo; NRAO figures are from S. T. Myers, NRAO Synthesis Imaging Summer School page on a 30 s VLA A-configuration snapshot.
 

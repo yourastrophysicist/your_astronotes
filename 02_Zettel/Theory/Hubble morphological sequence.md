@@ -7,7 +7,7 @@ Edwin Hubble's 1926 morphological classification of galaxies, the **tuning fork 
 
 despite Hubble interpreting it as an *evolutionary sequence* (he thought ellipticals evolved into spirals — wrong), the classification is purely **morphological** and is now read backward: galaxies do not move along the fork as they age.
 
-![galaxies-08](../../assets/images/galaxies-08.png)
+<img src="{{ "/assets/images/galaxies-08.png" | relative_url }}" alt="galaxies-08" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 

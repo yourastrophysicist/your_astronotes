@@ -148,7 +148,7 @@ for the detailed pieces, see [Specific intensity and flux density](../../02_Zett
 
 ## scientific figure
 
-![specific_intensity_flux_beam](../../assets/images/specific_intensity_flux_beam.svg)
+<img src="{{ "/assets/images/specific_intensity_flux_beam.svg" | relative_url }}" alt="specific_intensity_flux_beam" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 reading cue: radio astronomy begins with brightness and flux density, but the instrument always sees a beam-weighted sky. this figure is the mental bridge between $I_\nu$, Jy, antenna temperature, and interferometric imaging.
 

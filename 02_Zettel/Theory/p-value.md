@@ -6,7 +6,7 @@ title: "p-value"
 Best-fit parameters and error bars are often insufficient to test a hypothesis
 	an additional tool is the **p-value** (probability value)
 		used to understand whether the hypotheses are correct or not
-![Screenshot 2026-04-07 at 02.14.05](../../assets/images/Screenshot 2026-04-07 at 02.14.05.png)
+<img src="{{ "/assets/images/Screenshot%202026-04-07%20at%2002.14.05.png" | relative_url }}" alt="Screenshot 2026-04-07 at 02.14.05" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 ---
 
 ## Definition

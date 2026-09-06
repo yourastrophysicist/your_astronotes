@@ -16,7 +16,7 @@ tags:
 
 ## core physical intuition
 
-![Maximum Entropy Method (MEM) deconvolution maximizing image entropy to reconstruct smooth, extended astrophysical sources.](Maximum_entropy_method.svg)
+<img src="{{ "/assets/images/Maximum_entropy_method.svg" | relative_url }}" alt="Maximum Entropy Method (MEM) deconvolution maximizing image entropy to reconstruct smooth, extended astrophysical sources." class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 
 An interferometer does not sample every possible spatial frequency, leaving gaps in the data. When mathematically reconstructing the image, there are infinitely many possible images that could fit the measurements. You need a rule to pick the best one.

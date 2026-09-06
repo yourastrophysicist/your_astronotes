@@ -16,7 +16,7 @@ $$\Omega_b h^2 = 0.0224 \pm 0.0001$$
 
 from the height of the acoustic peaks in the CMB temperature power spectrum, which is set by the baryon-photon fluid dynamics before recombination.
 
-![bbn-46](../../assets/images/bbn-46.png)
+<img src="{{ "/assets/images/bbn-46.png" | relative_url }}" alt="bbn-46" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 from **BBN** (Cooke et al. 2018, primarily from D/H in high-z quasar absorbers):
 $$\Omega_b h^2 = 0.0224 \pm 0.0001$$
@@ -29,7 +29,7 @@ from the abundance of light elements forged when the universe was three minutes 
 
 a beautiful summary plot:
 
-![bbn-47](../../assets/images/bbn-47.png)
+<img src="{{ "/assets/images/bbn-47.png" | relative_url }}" alt="bbn-47" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 (top) $Y_p^{\rm BBN}$ vs $\omega_b = \Omega_b h^2$, with the standard BBN prediction band (Aver et al. 2015 measurement bracketing the BBN curve) and the Planck CMB constraint (vertical red band).
 

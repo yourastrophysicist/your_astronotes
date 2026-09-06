@@ -119,7 +119,7 @@ variability → size constraint: $R \leq c\Delta t$. for MCG-6-30-15, $\Delta t 
 - some Sy 2s show **broad lines in polarized light** — light from the hidden BLR scattered by material above the torus. this was one of the strongest early proofs of the unified model. see AGN polarization.
 
 ## the classification zoo
-![AGNUnificationFull_PDF](../../../assets/images/AGNUnificationFull_PDF.pdf) 
+<img src="{{ "/assets/images/AGNUnificationFull_PDF.pdf" | relative_url }}" alt="AGNUnificationFull_PDF" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" /> 
 
 ### seyfert galaxies (Seyfert 1943)
 

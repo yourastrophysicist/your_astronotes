@@ -15,7 +15,7 @@ solution: *don't use a uniform aperture*. **apodize** it — taper the transmiss
 
 ## the FT picture
 
-![Pupil apodization: tapering aperture amplitude transmission to suppress high-order diffraction rings around bright stars.](Apodization.png)
+<img src="{{ "/assets/images/Apodization.png" | relative_url }}" alt="Pupil apodization: tapering aperture amplitude transmission to suppress high-order diffraction rings around bright stars." class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 
 aperture function $A(\mathbf x)$ → PSF = $|\hat A|^2$. so PSF sidelobes come from sharp edges of $A$ (which produce oscillations in $\hat A$).

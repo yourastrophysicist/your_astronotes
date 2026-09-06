@@ -38,7 +38,7 @@ ages were derived from the comparison of observations and stellar isochrones in 
 
 ### the result
 
-![L19_p17_alpha_Fe-17](../../assets/images/L19_p17_alpha_Fe-17.png)
+<img src="{{ "/assets/images/L19_p17_alpha_Fe-17.png" | relative_url }}" alt="L19_p17_alpha_Fe-17" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 *(age-metallicity from microlensed bulge dwarfs; Bensby et al. 2013/2017)*
 
 the age-metallicity diagram shows a striking pattern:

@@ -17,7 +17,7 @@ result: the central star is *suppressed*, while the surrounding area is preserve
 
 ## the math
 
-![Lyot coronagraph layout: focal plane occulting mask and Lyot pupil stop suppressing central starlight diffraction wings.](Coronagraphy.jpg)
+<img src="{{ "/assets/images/Coronagraphy.jpg" | relative_url }}" alt="Lyot coronagraph layout: focal plane occulting mask and Lyot pupil stop suppressing central starlight diffraction wings." class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 
 unlike nulling, coronagraphy is *non-interferometric* — it suppresses light by absorption, not interference. but the effect is similar: high contrast in a small region.

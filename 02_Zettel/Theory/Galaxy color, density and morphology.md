@@ -23,7 +23,7 @@ the empirical correlations:
 
 ## blanton & moustakas 2009 summary plot 
 
-![Pasted image 20260413140041](../../assets/images/Pasted image 20260413140041.png) 
+<img src="{{ "/assets/images/Pasted%20image%2020260413140041.png" | relative_url }}" alt="Pasted image 20260413140041" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" /> 
 
 the canonical figure: a CMD in bins of local density. the red sequence is essentially the same in every density bin, but the *fraction* of galaxies on it grows with density. the blue cloud's *typical color* shifts blueward at low density (Blanton 2009 fig. 5).
 

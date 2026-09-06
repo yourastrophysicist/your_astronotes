@@ -23,7 +23,7 @@ a third-order autocorrelation. by a Fourier-pair theorem, the triple correlation
 
 ## the atmosphere-immune property
 
-![Bispectrum triple correlation $\langle I(u_1)I(u_2)I^*(u_1+u_2)\rangle$ extracting turbulence-free object phase information.](Bispectrum_and_triple_correlation.jpg)
+<img src="{{ "/assets/images/Bispectrum_and_triple_correlation.jpg" | relative_url }}" alt="Bispectrum triple correlation $\langle I(u_1)I(u_2)I^*(u_1+u_2)\rangle$ extracting turbulence-free object phase information." class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 
 write $\tilde I_n(\mathbf u) = \tilde O(\mathbf u) \tilde S_n(\mathbf u)$ where $\tilde S_n$ is the random PSF Fourier transform:

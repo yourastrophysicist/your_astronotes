@@ -23,7 +23,7 @@ each step has real engineering challenges. lose the alignment at any point and t
 
 ## telescopes
 
-![Core architecture of a modern optical interferometer: siderostats, optical delay lines, beam combiners, and metrology lasers.](Components_of_a_modern_interferometer.jpg)
+<img src="{{ "/assets/images/Components_of_a_modern_interferometer.jpg" | relative_url }}" alt="Core architecture of a modern optical interferometer: siderostats, optical delay lines, beam combiners, and metrology lasers." class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 
 primary collecting elements. for VLTI: 4 × 8m (UTs) + 4 × 1.8m (ATs). for CHARA: 6 × 1m. for ALMA: 50+ × 12m.

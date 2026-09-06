@@ -15,7 +15,7 @@ the under-populated strip between the [Red sequence and blue cloud](../../02_Zet
 the residence time in the green valley is short, on the order of $\lesssim 1$ Gyr in most quenching scenarios. that is why it is a valley and not a third peak.
 
 ## faber 2007 evolutionary tracks
-![Pasted image 20260413140846](../../assets/images/Pasted image 20260413140846.png)
+<img src="{{ "/assets/images/Pasted%20image%2020260413140846.png" | relative_url }}" alt="Pasted image 20260413140846" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 Faber et al. 2007 sketched the canonical picture: a galaxy starts in the blue cloud, builds stellar mass, and at some point its star formation is *quenched*. it then slides across the green valley and lands on the red sequence, where it can keep growing in stellar mass only by **dry mergers** (mergers with other passive galaxies, no fresh gas).
 

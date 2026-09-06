@@ -73,7 +73,7 @@ Abbe's experiment shows that image detail is spatial-frequency content. interfer
 
 ## scientific figure
 
-![abbe_fourier_optics_orders](../../../assets/images/abbe_fourier_optics_orders.svg)
+<img src="{{ "/assets/images/abbe_fourier_optics_orders.svg" | relative_url }}" alt="abbe_fourier_optics_orders" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 reading cue: this is the optical cousin of aperture synthesis. the object is decomposed into spatial-frequency orders; the lens/aperture decides which orders reach the image.
 

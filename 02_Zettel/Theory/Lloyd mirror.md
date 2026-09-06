@@ -13,7 +13,7 @@ discovered by Humphrey Lloyd around 1834.
 
 ## the geometry
 
-![Lloyd's mirror experiment: direct light from a slit interferes with light reflected at grazing incidence, exhibiting a half-wave (\pi) phase shift.](Lloyd_mirror.jpg)
+<img src="{{ "/assets/images/Lloyd_mirror.jpg" | relative_url }}" alt="Lloyd's mirror experiment: direct light from a slit interferes with light reflected at grazing incidence, exhibiting a half-wave (\pi) phase shift." class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 
 a point source $S$ sits a small distance $h$ above a flat mirror. light goes:

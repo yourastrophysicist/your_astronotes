@@ -11,7 +11,7 @@ In classical physics, when $h\nu \ll mc^2$ (photon energy much less than electro
 
 ---
 ## Compton scattering
-![Screenshot 2026-04-07 at 02.20.13](../../assets/images/Screenshot 2026-04-07 at 02.20.13.png)
+<img src="{{ "/assets/images/Screenshot%202026-04-07%20at%2002.20.13.png" | relative_url }}" alt="Screenshot 2026-04-07 at 02.20.13" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 When $h\nu \gtrsim mc^2$, the interaction is no longer elastic
 	there is an **exchange of energy** between photon and electron
 		described by the **Klein-Nishina differential cross section**:

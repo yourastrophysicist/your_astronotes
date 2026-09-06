@@ -19,7 +19,7 @@ a galaxy looks **dramatically different** in different wavelength bands, because
 
 so a multi-wavelength SED is a complete portrait of a galaxy.
 
-![galaxies-15](../../assets/images/galaxies-15.png)
+<img src="{{ "/assets/images/galaxies-15.png" | relative_url }}" alt="galaxies-15" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 

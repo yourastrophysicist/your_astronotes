@@ -9,7 +9,7 @@ reference plane: the **celestial equator** (the projection of the Earth's equato
 
 key reference point: the $\gamma$ **point** (vernal equinox, "punto gamma") — the spring intersection of the celestial equator with the ecliptic. equivalently, the apparent position of the Sun on the celestial sphere on March 21, when it crosses the equator going from south to north.
 
-![sphereastro-21](../../assets/images/sphereastro-21.png)
+<img src="{{ "/assets/images/sphereastro-21.png" | relative_url }}" alt="sphereastro-21" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -31,7 +31,7 @@ both $\alpha$ and $\delta$ are **independent of the Earth's rotation and of the 
 
 during the night the stars *appear* to rotate around the celestial pole. the height of the pole on the local horizon is the **observer's latitude** $\phi$.
 
-![sphereastro-22](../../assets/images/sphereastro-22.png)
+<img src="{{ "/assets/images/sphereastro-22.png" | relative_url }}" alt="sphereastro-22" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 four categories, depending on declination $\delta$ and latitude $\phi$:
 
@@ -48,7 +48,7 @@ four categories, depending on declination $\delta$ and latitude $\phi$:
 
 extreme cases give clean intuition:
 
-![sphereastro-23](../../assets/images/sphereastro-23.png)
+<img src="{{ "/assets/images/sphereastro-23.png" | relative_url }}" alt="sphereastro-23" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 - **at the north pole** ($\phi = 90°$): the celestial pole is at the zenith. only half the celestial sphere is visible. all visible stars are circumpolar and visible for 24 h. the celestial equator coincides with the horizon.
 - **at $30°$ S**: a generic latitude. some circumpolar stars (around the south pole), some rise/set. the celestial equator is tilted relative to the horizon by $90° - |\phi| = 60°$.
@@ -62,7 +62,7 @@ declination $\delta$ tells me **which circle of declination** the body sits on. 
 
 definition: the **hour angle** $h$ is the angle measured along the celestial equator clockwise from the south meridian to the body's hour circle (the great circle through the celestial poles and the body).
 
-![sphereastro-24](../../assets/images/sphereastro-24.png)
+<img src="{{ "/assets/images/sphereastro-24.png" | relative_url }}" alt="sphereastro-24" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 so $h$ tells me how far past the meridian the star has gone. at the moment of upper culmination, $h = 0$. six hours after that, $h = 6$ h. when the star sets, $h = h_{s,t}$ given by Culmination and rise/set.
 

@@ -22,7 +22,7 @@ $$\eta \approx 6 \times 10^{-10}$$
 
 so the universe contains **about one nucleon per billion photons**. it is overwhelmingly photon-dominated by number.
 
-![bbn-12](../../assets/images/bbn-12.png)
+<img src="{{ "/assets/images/bbn-12.png" | relative_url }}" alt="bbn-12" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -43,9 +43,9 @@ it **is** constant after $e^\pm$ annihilation (which transfers $e^\pm$ entropy t
 
 since BBN happens at $T \sim 0.3$–$0.1$ MeV (well after $e^\pm$ annihilation), we can treat $\eta$ as a constant equal to its present value during all of BBN.
 
-![bbn-13](../../assets/images/bbn-13.png)
+<img src="{{ "/assets/images/bbn-13.png" | relative_url }}" alt="bbn-13" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
-![bbn-14](../../assets/images/bbn-14.png)
+<img src="{{ "/assets/images/bbn-14.png" | relative_url }}" alt="bbn-14" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 

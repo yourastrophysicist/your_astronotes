@@ -127,7 +127,7 @@ four assumptions, all reasonable for astronomy:
 
 ## scientific figure
 
-![van_cittert_zernike_geometry](../../../assets/images/van_cittert_zernike_geometry.svg)
+<img src="{{ "/assets/images/van_cittert_zernike_geometry.svg" | relative_url }}" alt="van_cittert_zernike_geometry" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 reading cue: two separated antennas measure a correlation of the incoming field. Van Cittert-Zernike says that correlation is one Fourier component of the sky brightness.
 

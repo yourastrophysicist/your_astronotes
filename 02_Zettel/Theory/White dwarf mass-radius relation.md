@@ -34,7 +34,7 @@ for fully ionised material, $\mu_e \approx A/Z \approx 2$ for both He and C-O an
 the M-R relation is tested directly using:
 
 - **eclipsing double-WD binaries**, where masses come from radial velocities and radii from light curves.
-- **astrometric WDs in binaries** like Sirius B and Procyon B (visible at the bottom of HR diagrams, see ![L06_p11_white_dwarf_HRD-11](../../assets/images/L06_p11_white_dwarf_HRD-11.png)).
+- **astrometric WDs in binaries** like Sirius B and Procyon B (visible at the bottom of HR diagrams, see <img src="{{ "/assets/images/L06_p11_white_dwarf_HRD-11.png" | relative_url }}" alt="L06_p11_white_dwarf_HRD-11" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />).
 - **gravitational redshifts** of WD spectral lines: $\Delta v \propto GM/R c$ depends on the ratio $M/R$.
 
 modern Gaia parallaxes plus spectroscopic gravities now test the M-R relation to high precision and have firmed up the relation across the full WD mass range.

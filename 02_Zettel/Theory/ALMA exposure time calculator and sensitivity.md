@@ -76,7 +76,7 @@ the ALMA ETC is the interferometric radiometer equation with real-world correcti
 
 ## scientific figure
 
-![radiometer_noise_scaling](../../assets/images/radiometer_noise_scaling.png)
+<img src="{{ "/assets/images/radiometer_noise_scaling.png" | relative_url }}" alt="radiometer_noise_scaling" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 reading cue: the exposure-time calculator is a practical wrapper around this scaling, with real-world corrections for antennas, weather, bandwidth, efficiency, and weighting.
 

@@ -94,7 +94,7 @@ a radio interferometric observation is designed around science requirements, tra
 
 ## scientific figure
 
-![radio_observing_workflow](../../../assets/images/radio_observing_workflow.svg)
+<img src="{{ "/assets/images/radio_observing_workflow.svg" | relative_url }}" alt="radio_observing_workflow" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 reading cue: an interferometric observation is a chain of decisions and corrections, not a single exposure. the trustworthy image appears only after setup, calibration, flagging, imaging, and validation agree.
 

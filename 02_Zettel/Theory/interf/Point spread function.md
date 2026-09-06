@@ -121,7 +121,7 @@ where $\sigma_\phi^2$ is the variance of phase aberrations across the aperture. 
 
 ## scientific figure
 
-![airy_pattern_generated](../../../assets/images/airy_pattern_generated.png)
+<img src="{{ "/assets/images/airy_pattern_generated.png" | relative_url }}" alt="airy_pattern_generated" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 reading cue: the PSF is the image of a point source. for an ideal circular aperture the PSF is the Airy pattern, so even a perfect telescope does not make a mathematical point.
 

@@ -24,9 +24,9 @@ key features:
 - monotonic in $T$: hotter blackbody is brighter at *every* frequency
 - universal: depends only on $T$, not on the material
 
-![radiative-08](../../assets/images/radiative-08.png)
+<img src="{{ "/assets/images/radiative-08.png" | relative_url }}" alt="radiative-08" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
-![radiative-09](../../assets/images/radiative-09.png)
+<img src="{{ "/assets/images/radiative-09.png" | relative_url }}" alt="radiative-09" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -85,7 +85,7 @@ $$R = \left(\frac{L}{4\pi\sigma T^4}\right)^{1/2}$$
 
 example for the Sun: $L_\odot = 3.83 \times 10^{33}$ erg/s, $T_\odot = 5800$ K → $R_\odot = 6.96 \times 10^{10}$ cm. checks out.
 
-![radiative-10](../../assets/images/radiative-10.png)
+<img src="{{ "/assets/images/radiative-10.png" | relative_url }}" alt="radiative-10" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 

@@ -18,7 +18,7 @@ a scale $\lambda$ corresponds to a wavenumber $k \sim 1/\lambda$. small $k$ = la
 
 a single curve, stitched together from many surveys, covering five orders of magnitude in $k$:
 
-![intro-27](../../assets/images/intro-27.png)
+<img src="{{ "/assets/images/intro-27.png" | relative_url }}" alt="intro-27" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 | dataset | $k$ range probed |
 |---|---|
@@ -48,7 +48,7 @@ so the position of the turnover is one of our handles on $\Omega_m h^2$.
 
 zoom in on the scale $k \sim 0.05\text{–}0.2\,h\,\text{Mpc}^{-1}$ and the smooth power-law has small wiggles superimposed on it: the **baryon acoustic oscillations** (BAO).
 
-![intro-28](../../assets/images/intro-28.png)
+<img src="{{ "/assets/images/intro-28.png" | relative_url }}" alt="intro-28" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 physical origin: before recombination, baryons and photons were tightly coupled in a single relativistic plasma. small perturbations propagated as **acoustic waves** with sound speed $c_s \sim c/\sqrt 3$. at recombination, the photons free-stream away and the baryons are left at the radius reached by the sound wave at that moment, the **sound horizon** $r_s \sim 150$ Mpc comoving. this leaves a characteristic wiggle pattern in the baryon distribution, which gravitationally couples to dark matter and thus shows up in the matter (galaxy) distribution today.
 
@@ -89,7 +89,7 @@ all three pin down the same $r_s \approx 150$ Mpc, but at different epochs, so t
 
 once you allow these perturbations to grow gravitationally over 13.8 Gyr, the universe goes from $\Delta T/T \sim 10^{-5}$ at recombination to the cosmic web today. the Springel / Max Planck IllustrisTNG simulations show this beautifully:
 
-![intro-26](../../assets/images/intro-26.png)
+<img src="{{ "/assets/images/intro-26.png" | relative_url }}" alt="intro-26" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 → video: [Volker Springel cosmological simulation](https://www.youtube.com/watch?v=FBkYIqtYb0I)
 

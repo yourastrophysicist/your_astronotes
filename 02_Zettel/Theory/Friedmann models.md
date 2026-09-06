@@ -84,7 +84,7 @@ three regimes in $a(t)$:
 | **matter-dominated** | $0.7 \lesssim z \lesssim 3300$ | $a \propto t^{2/3}$ |
 | **Λ-dominated** | $z \lesssim 0.7$ | $a \propto e^{Ht}$ |
 
-![intro-07](../../assets/images/intro-07.png)
+<img src="{{ "/assets/images/intro-07.png" | relative_url }}" alt="intro-07" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 the various models converge at small $t$ (early universe is matter+radiation dominated, regardless of $\Lambda$) but diverge dramatically at large $t$.
 

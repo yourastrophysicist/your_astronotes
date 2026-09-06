@@ -18,11 +18,11 @@ On the Color-Magnitude Diagram (CMD) of a cluster, the Main Sequence (MS) is typ
 *   The Main Sequence abruptly shifts or bends toward bluer colors by about $\Delta(m_{\text{F606W}} - m_{\text{F814W}}) \sim 0.05$ mag.
 *   A localized dip (deficiency) in stellar number counts occurs at this exact luminosity range.
 
-![Figure 6: CMD of NGC 2158 corrected for differential reddening. Panel (b) shows the zoom-in of the M-dwarf discontinuity on the low MS, and panel (c) shows the rotated CMD where the reference line is vertical.](marchuk_2026_fig6.png)
+<img src="{{ "/assets/images/marchuk_2026_fig6.png" | relative_url }}" alt="Figure 6: CMD of NGC 2158 corrected for differential reddening. Panel (b) shows the zoom-in of the M-dwarf discontinuity on the low MS, and panel (c) shows the rotated CMD where the reference line is vertical." class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 This gap is the cluster counterpart to the **Jao Gap**—a feature first identified by Jao et al. (2018) in the local Galactic field population. The discovery in NGC 2158 represents the first time this feature has been confirmed within a coeval (same age) and chemically homogeneous stellar cluster.
 
-![Figure 7: Zoomed-in view of the observed CMD (left) around the M-dwarf discontinuity compared to a simulated CMD (right) generated with artificial stars. The blue solid line is the MS fiducial, and the dashed line represents the binary sequence.](marchuk_2026_fig7.png)
+<img src="{{ "/assets/images/marchuk_2026_fig7.png" | relative_url }}" alt="Figure 7: Zoomed-in view of the observed CMD (left) around the M-dwarf discontinuity compared to a simulated CMD (right) generated with artificial stars. The blue solid line is the MS fiducial, and the dashed line represents the binary sequence." class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 

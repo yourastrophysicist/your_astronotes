@@ -16,7 +16,7 @@ tags:
 
 ## core physical intuition
 
-![Temporal coherence and coherence length $\ell_c = c/\Delta\nu$: maximum optical path difference over which wave phase remains predictable.](Temporal_coherence.gif)
+<img src="{{ "/assets/images/Temporal_coherence.gif" | relative_url }}" alt="Temporal coherence and coherence length $\ell_c = c/\Delta\nu$: maximum optical path difference over which wave phase remains predictable." class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 
 No real light source emits a perfectly pure, single-frequency sine wave. Real light has a spread of frequencies (a bandwidth). Because different frequencies oscillate at slightly different rates, a wave only remains perfectly in step (coherent) with a delayed copy of itself for a short duration. 

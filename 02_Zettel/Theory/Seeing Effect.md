@@ -90,7 +90,7 @@ For a **large aperture** ($D \gg r_0$):
 		the image is a smeared, broad seeing disk
 			but twinkling (scintillation) is reduced because the fluctuations average out
 
-![Pasted image 20260405103037](../../assets/images/Pasted image 20260405103037.png)
+<img src="{{ "/assets/images/Pasted%20image%2020260405102456.png" | relative_url }}" alt="Seeing and Aperture Effect" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 <font color="#bfbfbf">Image of a point source through telescopes of different aperture. Small apertures see image motion; large apertures see a broad seeing disk. Space telescopes (no atmosphere) achieve the diffraction limit.</font>
 
 ---

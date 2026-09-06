@@ -15,7 +15,7 @@ solution: cover the source with multiple pointings, then *combine* them into a s
 
 ## the procedure
 
-![Mosaicking: combining multiple overlapping pointing centers to image astronomical structures larger than a single primary beam.](Mosaicking.jpg)
+<img src="{{ "/assets/images/Mosaicking.jpg" | relative_url }}" alt="Mosaicking: combining multiple overlapping pointing centers to image astronomical structures larger than a single primary beam." class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 
 1. **plan**: divide the target into a grid of pointings, with overlap (typically half a primary beam between centers)

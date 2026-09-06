@@ -6,7 +6,7 @@ description: the predicted zero-metallicity first generation of stars, with top-
 
 **Population III stars** are the hypothetical first generation of stars in the universe, formed from primordial gas at $z \sim 20$-$30$ with $Z = 0$ (no metals beyond H, He, Li from BBN). they are the **bridge between the Big Bang and chemical evolution**: their nucleosynthesis seeded the universe with the first heavy elements, enabling all subsequent star formation.
 
-![L14_p05_first_stars-05](../../assets/images/L14_p05_first_stars-05.png)
+<img src="{{ "/assets/images/L14_p05_first_stars-05.png" | relative_url }}" alt="L14_p05_first_stars-05" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ## the predicted IMF
 

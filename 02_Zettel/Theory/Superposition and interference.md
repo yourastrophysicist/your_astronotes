@@ -18,7 +18,7 @@ tags:
 
 Waves do not bounce off each other like solid objects do; they pass right through one another. The principle of superposition states that the net disturbance at any point in space and time is simply the algebraic sum of the individual wave disturbances. 
 
-![Same double-slit assembly (0.7 mm between slits); in top image, one slit is closed. In the single-slit image, a diffraction pattern (the faint spots on either side of the main band) forms due to the nonzero width of the slit. This diffraction pattern is also seen in the double-slit image, but with many smaller interference fringes.](Pasted%20image%2020260806210503.png) 
+<img src="{{ "/assets/images/Pasted%20image%2020260806210503.png" | relative_url }}" alt="Same double-slit assembly (0.7 mm between slits); in top image, one slit is closed. In the single-slit image, a diffraction pattern (the faint spots on either side of the main band) forms due to the nonzero width of the slit. This diffraction pattern is also seen in the double-slit image, but with many smaller interference fringes." class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" /> 
 
 When dealing with light, our detectors (like CCDs or the human eye) only measure intensity, which is proportional to the square of the amplitude. If two waves are coherent (they maintain a fixed phase relationship over time), their superposition creates an interference pattern. Instead of a uniform blur of light, you get localized regions where the wave crests align perfectly (constructive interference, bright fringes) and regions where a crest meets a trough (destructive interference, dark fringes). This mapping of phase delays into measurable intensity variations is the entire basis of interferometry.
      x 
@@ -48,7 +48,7 @@ $$ \Delta\theta = \frac{\lambda}{d} $$
 
 Young's double slit experiment is literally the prototype for a stellar interferometer. In astronomical interferometry, the "slits" are individual telescope apertures separated by a baseline $d$. By measuring the properties of the resulting interference fringes (specifically their contrast or visibility), we can deduce the angular size and structure of the celestial source, achieving resolutions far beyond what a single telescope could provide.
 
-![VLBI](Pasted%20image%2020260806211247.png)
+<img src="{{ "/assets/images/Pasted%20image%2020260806211247.png" | relative_url }}" alt="VLBI" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 

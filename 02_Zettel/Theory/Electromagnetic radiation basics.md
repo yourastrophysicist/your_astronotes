@@ -7,7 +7,7 @@ until a few years ago, almost everything we knew about astronomy traveled on **e
 
 each band of the spectrum probes a different temperature regime and a different physical process — radio for cold gas, infrared for dust, optical for stars, UV for hot stars, X-ray for hot plasma and accretion, gamma-ray for the most violent universe.
 
-![radiative-02](../../assets/images/radiative-02.png)
+<img src="{{ "/assets/images/radiative-02.png" | relative_url }}" alt="radiative-02" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -23,7 +23,7 @@ $$dE_\nu = I_\nu \cos\theta\, d\sigma\, d\nu\, dt\, d\omega$$
 
 (the $\cos\theta\,d\sigma$ is the projected area as seen from the direction $\theta$.)
 
-![radiative-03](../../assets/images/radiative-03.png)
+<img src="{{ "/assets/images/radiative-03.png" | relative_url }}" alt="radiative-03" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -37,7 +37,7 @@ it defines the **surface brightness** of the object — the energy per unit time
 the **total intensity** is obtained by integrating over all frequencies:
 $$I = \int_0^\infty I_\nu\, d\nu$$
 
-![radiative-04](../../assets/images/radiative-04.png)
+<img src="{{ "/assets/images/radiative-04.png" | relative_url }}" alt="radiative-04" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 key fact: the specific intensity is **conserved** along a ray in vacuum:
 $$\frac{dI_\nu}{ds} = 0 \quad \text{(no absorption or emission)}$$
@@ -63,7 +63,7 @@ $$F = \int_0^\infty F_\nu\, d\nu \qquad [F] = \text{erg cm}^{-2}\text{s}^{-1}$$
 
 unlike intensity, **the flux density is measurable**.
 
-![radiative-05](../../assets/images/radiative-05.png)
+<img src="{{ "/assets/images/radiative-05.png" | relative_url }}" alt="radiative-05" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 

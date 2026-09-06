@@ -8,7 +8,7 @@ A CCD pixel is based on a **MOS capacitor** (Metal–Oxide–Semiconductor)
 		when a positive voltage is applied to the gate, it repels the holes in the p-type silicon
 			and creates a **potential well** — the depletion region — which collects and stores electrons
 
-![Screenshot 2026-04-07 at 01.50.01](../../assets/images/Screenshot 2026-04-07 at 01.50.01.png)
+<img src="{{ "/assets/images/Screenshot%202026-04-07%20at%2001.50.01.png" | relative_url }}" alt="Screenshot 2026-04-07 at 01.50.01" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 <font color="#bfbfbf">MOS capacitor structure: metal gate on top, silicon dioxide insulator in the middle, and p-type silicon at the bottom. A positive voltage on the gate creates a potential well that traps electrons produced by ionizing radiation.</font>
 
 ---
@@ -31,7 +31,7 @@ To move the charges one pixel along the column:
 Repeating this three-voltage sequence shifts the charge packet by one pixel
 	after $N$ shifts, the charge reaches the **serial register** at the edge of the CCD
 
-![Screenshot 2026-04-07 at 01.50.45](../../assets/images/Screenshot 2026-04-07 at 01.50.45.png)
+<img src="{{ "/assets/images/Screenshot%202026-04-07%20at%2001.50.45.png" | relative_url }}" alt="Screenshot 2026-04-07 at 01.50.45" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 <font color="#bfbfbf">Three-phase CCD: three gates per pixel with sequentially applied voltages move the charge packet one pixel per clock cycle.</font>
 
 ---

@@ -10,7 +10,7 @@ teachers:
 - **Prof. Giulia Rodighiero** (astrophysics / observations block) — giulia.rodighiero@unipd.it
 - tutor: **Dr. Ripalta Amoruso** — ripalta.amoruso@phd.unipd.it
 
-![sphereastro-01](../../assets/images/sphereastro-01.png)
+<img src="{{ "/assets/images/sphereastro-01.png" | relative_url }}" alt="sphereastro-01" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -98,11 +98,11 @@ the course is a foundation, in two halves: a *classical* astronomy and stellar e
 - spherical collapse of a protostructure
 - mass function of cosmic structures: Press-Schechter theory
 
-![sphereastro-02](../../assets/images/sphereastro-02.png)
+<img src="{{ "/assets/images/sphereastro-02.png" | relative_url }}" alt="sphereastro-02" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
-![sphereastro-03](../../assets/images/sphereastro-03.png)
+<img src="{{ "/assets/images/sphereastro-03.png" | relative_url }}" alt="sphereastro-03" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
-![sphereastro-04](../../assets/images/sphereastro-04.png)
+<img src="{{ "/assets/images/sphereastro-04.png" | relative_url }}" alt="sphereastro-04" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -117,7 +117,7 @@ the course is a foundation, in two halves: a *classical* astronomy and stellar e
 
 slides and lecture notes are posted on the e-learning platform [stem.elearning.unipd.it](https://stem.elearning.unipd.it/).
 
-![sphereastro-05](../../assets/images/sphereastro-05.png)
+<img src="{{ "/assets/images/sphereastro-05.png" | relative_url }}" alt="sphereastro-05" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 

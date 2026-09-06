@@ -11,7 +11,7 @@ dating a stellar population using the white dwarf cooling sequence (WDCS) and us
 ## the two clocks
 
 **MSTO age:**
-- the position of the turnoff in the CMD depends strongly on metallicity. ![L06_p19_isochrones_metallicity](../../assets/images/L06_p19_isochrones_metallicity.png) at fixed age, [Fe/H] from $-2$ to $+0.5$ shifts the turnoff colour by $\sim 1$ mag.
+- the position of the turnoff in the CMD depends strongly on metallicity. <img src="{{ "/assets/images/L06_p19_isochrones_metallicity.png" | relative_url }}" alt="L06_p19_isochrones_metallicity" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" /> at fixed age, [Fe/H] from $-2$ to $+0.5$ shifts the turnoff colour by $\sim 1$ mag.
 - accurate ages require accurate spectroscopic [Fe/H] (see [Spectroscopic determination of metallicity](../../02_Zettel/Theory/Spectroscopic determination of metallicity.html)) and reddening (see [Effects of differential reddening on CMD analysis](../../02_Zettel/Theory/Effects of differential reddening on CMD analysis.html)).
 - subject to systematic uncertainties from convective core overshooting, helium abundance, and isochrone calibration.
 
@@ -28,7 +28,7 @@ Hansen et al. (2007) found $t_{\rm WDCS} = 11.47 \pm 0.47$ Gyr, while the MSTO g
 
 ## case 2: 47 Tuc (metal-rich GC, younger by 2 Gyr)
 
-a comparison of the deep WDCS LFs of 47 Tuc and NGC 6397, scaled to the same distance and reddening, shows that **47 Tuc is about 2 Gyr younger** than NGC 6397. ![L06_p17_WDCS_47Tuc](../../assets/images/L06_p17_WDCS_47Tuc.png) this fits a picture in which the metal-rich (inner-halo / disk) clusters formed later than the metal-poor (outer-halo) clusters, consistent with rapid chemical enrichment in the inner Galaxy followed by prolonged accretion of metal-poor outer-halo clusters from dwarf-galaxy progenitors. ![L06_p21_age_FeH_relation](../../assets/images/L06_p21_age_FeH_relation.png)
+a comparison of the deep WDCS LFs of 47 Tuc and NGC 6397, scaled to the same distance and reddening, shows that **47 Tuc is about 2 Gyr younger** than NGC 6397. <img src="{{ "/assets/images/L06_p17_WDCS_47Tuc.png" | relative_url }}" alt="L06_p17_WDCS_47Tuc" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" /> this fits a picture in which the metal-rich (inner-halo / disk) clusters formed later than the metal-poor (outer-halo) clusters, consistent with rapid chemical enrichment in the inner Galaxy followed by prolonged accretion of metal-poor outer-halo clusters from dwarf-galaxy progenitors. <img src="{{ "/assets/images/L06_p21_age_FeH_relation.png" | relative_url }}" alt="L06_p21_age_FeH_relation" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ## case 3: NGC 6791 (the strange case)
 

@@ -19,7 +19,7 @@ What happens when $a_r=90°$ ?
 	we can define the **critical angle**:
 $$\alpha_c=\text{arcsin}\frac{n_2}{n_1}$$
 
-![Screenshot 2026-04-06 at 17.43.21](../../assets/images/Screenshot 2026-04-06 at 17.43.21.png)
+<img src="{{ "/assets/images/Screenshot%202026-04-06%20at%2017.43.21.png" | relative_url }}" alt="Screenshot 2026-04-06 at 17.43.21" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 <font color="#bfbfbf">(left) The effect of refraction: i and r indicate incidence and refraction, respectively. (center) The case of glass to water. (right) The case of the critical angle.</font> 
 
 Beyond the critical angle, the light ray is **reflected**.

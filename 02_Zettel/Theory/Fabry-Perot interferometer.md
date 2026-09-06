@@ -11,7 +11,7 @@ invented by Charles Fabry and Alfred Pérot in 1899. now ubiquitous in laser cav
 
 ## the geometry
 
-![Fabry-Perot etalon: multiple reflections between parallel highly reflective mirrors producing sharp, narrow transmission fringe rings.](Fabry-Perot_interferometer.png)
+<img src="{{ "/assets/images/Fabry-Perot_interferometer.png" | relative_url }}" alt="Fabry-Perot etalon: multiple reflections between parallel highly reflective mirrors producing sharp, narrow transmission fringe rings." class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 
 two parallel mirrors at distance $d$, each with reflectivity $R$ (typically $0.99$ or higher). a wave enters one mirror, partially reflects, and bounces back and forth. at each round trip it picks up a phase $\delta = 2\pi \cdot 2nd \cos\theta/\lambda$, where $\theta$ is the angle of incidence and $n$ is the refractive index between the mirrors (often $n=1$, vacuum or air).

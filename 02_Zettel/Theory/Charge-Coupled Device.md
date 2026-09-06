@@ -23,7 +23,7 @@ The band gap size defines the type of material:
 	**semiconductor**: $E_{gap} \geq 1~\text{eV}$, e.g. $E_{gap}(\text{Si}) = 1.26~\text{eV}$
 	**metal**: characterized by an **overlap** between valence and conduction bands
 
-![Screenshot 2026-04-07 at 01.41.09](../../assets/images/Screenshot 2026-04-07 at 01.41.09.png)
+<img src="{{ "/assets/images/Screenshot%202026-04-07%20at%2001.41.09.png" | relative_url }}" alt="Screenshot 2026-04-07 at 01.41.09" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 
 Without sufficient energy to cross the band gap,
@@ -35,7 +35,7 @@ semiconductors can allow conductivity through:
 			leaving a vacancy (a **hole**) in the valence band
 				and generating an **electron-hole pair**
 
-![Screenshot 2026-04-07 at 01.47.23](../../assets/images/Screenshot 2026-04-07 at 01.47.23.png)
+<img src="{{ "/assets/images/Screenshot%202026-04-07%20at%2001.47.23.png" | relative_url }}" alt="Screenshot 2026-04-07 at 01.47.23" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 ## Doping
@@ -69,7 +69,7 @@ If we introduce an element with **3 valence electrons** (acceptor):
 
 If we introduce an element with **5 valence electrons** (donor):
 	it forms 4 normal bonds but an **extra electron** is left over
-![Screenshot 2026-04-07 at 01.48.22](../../assets/images/Screenshot 2026-04-07 at 01.48.22.png)
+<img src="{{ "/assets/images/Screenshot%202026-04-07%20at%2001.48.22.png" | relative_url }}" alt="Screenshot 2026-04-07 at 01.48.22" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 Note: extra electrons or extra holes do **not** make the materials charged,
 	they are all neutral
 		what happens is only that there are more electrons than those necessary to form bonds, or more holes

@@ -15,7 +15,7 @@ $$1 + z = \frac{a(t_0)}{a(t_e)} = \frac{a_0}{a_e}$$
 
 Edwin Hubble plotted the observed velocities of nearby galaxies against their distances, finding a linear relation:
 
-![distancescale-19](../../assets/images/distancescale-19.png)
+<img src="{{ "/assets/images/distancescale-19.png" | relative_url }}" alt="distancescale-19" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 (that the slope $H_0 \sim 500$ km/s/Mpc was wrong by a factor 7 doesn't matter — the *linearity* was the discovery.) the modern best values:
 - $H_0 = 67.4 \pm 0.5$ km/s/Mpc (Planck CMB)

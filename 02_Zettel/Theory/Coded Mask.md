@@ -10,7 +10,7 @@ If there is nothing between a detector and the source,
 By using an aperture (**mask**) it is possible to select the incoming light rays
 	and create an image of the source — this is the **pinhole camera** principle
 
-![Screenshot 2026-04-07 at 01.26.56](../../assets/images/Screenshot 2026-04-07 at 01.26.56.png)
+<img src="{{ "/assets/images/Screenshot%202026-04-07%20at%2001.26.56.png" | relative_url }}" alt="Screenshot 2026-04-07 at 01.26.56" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 ---
 
 A **coded mask** is like a chessboard
@@ -19,7 +19,7 @@ A **coded mask** is like a chessboard
 	it is less sensitive than a [Mechanical Collimator](../../02_Zettel/Theory/Mechanical Collimator.html)
 		but it allows to generate images
 			reducing the problem of **source confusion**
-![Screenshot 2026-04-07 at 01.27.29](../../assets/images/Screenshot 2026-04-07 at 01.27.29.png)
+<img src="{{ "/assets/images/Screenshot%202026-04-07%20at%2001.27.29.png" | relative_url }}" alt="Screenshot 2026-04-07 at 01.27.29" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 Examples:
 	**INTEGRAL** has the instrument IBIS/ISGRI
 		hosting three coded masks covering $3~\text{keV}$–$10~\text{MeV}$ energy range

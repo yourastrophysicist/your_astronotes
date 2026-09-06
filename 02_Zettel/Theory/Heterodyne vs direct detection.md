@@ -7,7 +7,7 @@ title: "Heterodyne vs direct detection"
 
 two fundamentally different ways to combine signals from separated telescopes in an interferometer. **heterodyne** mixes the incoming radio signal with a local oscillator (LO) to bring it down to a manageable intermediate frequency (IF) where complex voltage amplitudes and phases are recorded and correlated electronically. **direct detection** physically combines the optical light waves at a beam splitter to measure photon fringe contrast. radio uses heterodyne; optical/IR uses direct detection.
 
-![Radio antenna dish array versus optical interferometer beam combination](Components_of_a_modern_interferometer.jpg)
+<img src="{{ "/assets/images/Components_of_a_modern_interferometer.jpg" | relative_url }}" alt="Radio antenna dish array versus optical interferometer beam combination" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ## heterodyne detection (the radio approach)
 

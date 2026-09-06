@@ -104,7 +104,7 @@ radiation mechanisms explain what emitted the light; interferometry explains whe
 
 ## scientific figure
 
-![radiation_mechanisms_spectra](../../assets/images/radiation_mechanisms_spectra.png)
+<img src="{{ "/assets/images/radiation_mechanisms_spectra.png" | relative_url }}" alt="radiation_mechanisms_spectra" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 reading cue: before asking what structure the interferometer resolves, ask what physical emission made the photons. thermal dust, free-free, synchrotron, lines, and masers have different spectral fingerprints.
 

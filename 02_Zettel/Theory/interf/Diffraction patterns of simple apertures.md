@@ -118,7 +118,7 @@ these are the "elementary functions" in interferometric design and analysis.
 
 ## scientific figure
 
-![airy_pattern_generated](../../../assets/images/airy_pattern_generated.png)
+<img src="{{ "/assets/images/airy_pattern_generated.png" | relative_url }}" alt="airy_pattern_generated" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 reading cue: the circular-aperture case is the one to keep in memory. the central lobe is the diffraction-limited core; the rings are sidelobes from the hard edge of the aperture.
 

@@ -48,7 +48,7 @@ so given $E(B - V)$, you get $A_V \approx 3.1\, E(B - V)$, and from there extinc
 ## the extinction curve
 
 how $A_\lambda/A_V$ varies with wavelength. 
-![Pasted image 20260611102013](../../assets/images/Pasted image 20260611102013.png)
+<img src="{{ "/assets/images/Pasted%20image%2020260611102013.png" | relative_url }}" alt="Pasted image 20260611102013" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 roughly:
 - UV: steep rise toward shorter $\lambda$, dominated by small grain absorption

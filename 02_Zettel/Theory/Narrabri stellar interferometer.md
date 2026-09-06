@@ -15,7 +15,7 @@ baselines: from $\sim 10$ m (close pair) to 188 m (diametrically opposite). vary
 
 ## why a railway
 
-![Narrabri Stellar Interferometer in Australia: two 6.5-meter optical reflectors on a 188-meter circular railway track.](Narrabri_stellar_interferometer.jpg)
+<img src="{{ "/assets/images/Narrabri_stellar_interferometer.jpg" | relative_url }}" alt="Narrabri Stellar Interferometer in Australia: two 6.5-meter optical reflectors on a 188-meter circular railway track." class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 
 the buckets needed to sample many baselines to trace the visibility curve. building 188 m of optical-quality structures was infeasible; HBT's insight was that for *intensity* correlation, the optics didn't need to be diffraction-limited. just collect photons. the railway-mounted buckets did exactly that.

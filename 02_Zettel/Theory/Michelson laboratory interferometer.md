@@ -11,7 +11,7 @@ distinct from the **Michelson stellar interferometer** (1920) which uses extende
 
 ## the optical setup
 
-![Michelson laboratory interferometer: beam splitter splits light into perpendicular arms, recombining reflected beams to produce interference fringes.](Michelson_laboratory_interferometer.svg)
+<img src="{{ "/assets/images/Michelson_laboratory_interferometer.svg" | relative_url }}" alt="Michelson laboratory interferometer: beam splitter splits light into perpendicular arms, recombining reflected beams to produce interference fringes." class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 
 a coherent source illuminates a 50/50 beam splitter. the splitter sends:

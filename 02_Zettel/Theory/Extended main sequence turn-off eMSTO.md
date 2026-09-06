@@ -6,7 +6,7 @@ description: broadened MS turn-off in 1-2 Gyr LMC + SMC + MW clusters, originall
 
 the **extended main sequence turn-off (eMSTO) phenomenon** is the discovery that intermediate-age ($\sim 1$-$2$ Gyr) star clusters in the LMC + SMC + MW show a broadened MS turn-off region, much wider than expected for a [simple stellar population](../../02_Zettel/Theory/Single stellar population SSP.html) of the same age. the TO width $\Delta V \sim 0.1$-$0.3$ mag is well-resolved with HST + JWST.
 
-![L18_p05_eMSTO_phenomenon-05](../../assets/images/L18_p05_eMSTO_phenomenon-05.png)
+<img src="{{ "/assets/images/L18_p05_eMSTO_phenomenon-05.png" | relative_url }}" alt="L18_p05_eMSTO_phenomenon-05" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ## the discovery
 

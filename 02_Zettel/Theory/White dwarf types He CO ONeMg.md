@@ -16,7 +16,7 @@ white dwarfs are not all the same inside. the chemical composition of the degene
 
 the progenitor mass that maps to a final WD mass is encoded in the [Initial-final mass relation IFMR](../../02_Zettel/Theory/Initial-final mass relation IFMR.html). mass loss on the RGB and AGB is the bottleneck: for a single star the mapping is $M_{\rm ZAMS} \to M_{\rm WD}$, and going from $\sim 1$ to $\sim 8\,M_\odot$ at the start gives a final mass between $\sim 0.5$ and $\sim 1\,M_\odot$ at the end.
 
-a useful summary picture is the post-MS evolutionary track of the sun in the [HR diagram](../../02_Zettel/Theory/HR diagram.html): it follows the RGB to the helium flash, descends to the HB to burn He, climbs the AGB, ejects a planetary nebula, and the exposed core contracts and cools as a CO white dwarf. ![L06_p11_white_dwarf_HRD-11](../../assets/images/L06_p11_white_dwarf_HRD-11.png)
+a useful summary picture is the post-MS evolutionary track of the sun in the [HR diagram](../../02_Zettel/Theory/HR diagram.html): it follows the RGB to the helium flash, descends to the HB to burn He, climbs the AGB, ejects a planetary nebula, and the exposed core contracts and cools as a CO white dwarf. <img src="{{ "/assets/images/L06_p11_white_dwarf_HRD-11.png" | relative_url }}" alt="L06_p11_white_dwarf_HRD-11" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 atmospheric composition is largely independent of core type: gravitational settling at $\log g \sim 8$ leaves a thin H layer (DA WDs, $\sim 80\%$) or a He-dominated atmosphere (DB, DO, etc.) sitting on top of any core composition.
 

@@ -113,7 +113,7 @@ these are better for some sources (very extended, complex) but CLEAN remains the
 
 ## scientific figure
 
-![nrao_snapshot_dirty_image](../../assets/images/nrao_snapshot_dirty_image.jpg)
+<img src="{{ "/assets/images/nrao_snapshot_dirty_image.jpg" | relative_url }}" alt="nrao_snapshot_dirty_image" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 reading cue: CLEAN starts from a dirty image like this: real sky convolved with the dirty beam. the algorithm removes scaled dirty-beam copies from the brightest residuals, then restores the model with a clean Gaussian beam.
 

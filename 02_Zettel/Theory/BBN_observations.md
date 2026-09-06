@@ -27,15 +27,15 @@ going to high z is important because there has been less stellar processing — 
 
 these measurements actually give a **direct precise determination** of $(D/H)_{\rm prim}$, not just a bound:
 
-![bbn-39](../../assets/images/bbn-39.png)
+<img src="{{ "/assets/images/bbn-39.png" | relative_url }}" alt="bbn-39" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 $$\boxed{\,D/H = (2.527 \pm 0.030)\times 10^{-5} \quad (68\%~\text{CL, Cooke et al. 2018})\,}$$
 
 since the BBN prediction for D depends steeply on $\eta$, even relatively large errors on D translate into small errors on $\Omega_b h^2$. this is **one of the most precise measurements of the baryon density we have**.
 
-![bbn-38](../../assets/images/bbn-38.png)
+<img src="{{ "/assets/images/bbn-38.png" | relative_url }}" alt="bbn-38" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
-![bbn-40](../../assets/images/bbn-40.png)
+<img src="{{ "/assets/images/bbn-40.png" | relative_url }}" alt="bbn-40" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -54,7 +54,7 @@ now $^3$He is **much more difficult to destroy** than D — at most an "astratio
 
 historically, consistency between predicted BBN abundances of D and $^3$He implied $4 \le \eta \times 10^{10} \le 10$. now with precise D measurements alone we get a precise $\eta$.
 
-![bbn-41](../../assets/images/bbn-41.png)
+<img src="{{ "/assets/images/bbn-41.png" | relative_url }}" alt="bbn-41" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -75,7 +75,7 @@ remarkably, this measurement can be achieved around the **trough** of the $^7$Li
 
 historically, using D, $^3$He, $^7$Li together one set: $4 \le \eta \times 10^{10} \le 7$.
 
-![bbn-42](../../assets/images/bbn-42.png)
+<img src="{{ "/assets/images/bbn-42.png" | relative_url }}" alt="bbn-42" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ### the "lithium problem"
 
@@ -93,14 +93,14 @@ stars produce $^4$He, so high-metallicity environments will overestimate the pri
 
 extrapolating the $Y$ vs O/H correlation to zero metallicity gives the primordial $^4$He abundance:
 
-![bbn-44](../../assets/images/bbn-44.png)
+<img src="{{ "/assets/images/bbn-44.png" | relative_url }}" alt="bbn-44" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 most up-to-date (Aver et al. 2015):
 $$\boxed{\,Y_p = \frac{4 n_{^4\text{He}}}{n_N} = 0.2449 \pm 0.0040 \quad (68\%~\text{CL})\,}$$
 
 remarkably consistent with the prediction of $\sim 25\%$.
 
-![bbn-43](../../assets/images/bbn-43.png)
+<img src="{{ "/assets/images/bbn-43.png" | relative_url }}" alt="bbn-43" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 

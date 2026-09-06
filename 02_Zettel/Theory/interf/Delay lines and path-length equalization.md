@@ -102,7 +102,7 @@ these specs make optical-interferometer delay lines among the most precise mecha
 
 ## scientific figure
 
-![vlti_delay_line_eso9811a](../../../assets/images/vlti_delay_line_eso9811a.jpg)
+<img src="{{ "/assets/images/vlti_delay_line_eso9811a.jpg" | relative_url }}" alt="vlti_delay_line_eso9811a" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 reading cue: optical interferometry must physically equalize path length so the wavefronts arrive in phase at the combiner. the delay line is the moving optical ruler that keeps OPD within the coherence length.
 

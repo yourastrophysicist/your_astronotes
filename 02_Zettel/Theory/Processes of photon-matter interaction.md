@@ -64,7 +64,7 @@ $$\lambda = \frac{1}{\mu}$$
 
 The dominant process at a given photon energy $E$ and absorber atomic number $Z$ is determined by comparing the three cross sections:
 
-![Screenshot 2026-04-07 at 01.22.49](../../assets/images/Screenshot 2026-04-07 at 01.22.49.png)
+<img src="{{ "/assets/images/Screenshot%202026-04-07%20at%2001.22.49.png" | relative_url }}" alt="Screenshot 2026-04-07 at 01.22.49" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 <font color="#bfbfbf">Dominant photon-matter interaction regimes as a function of photon energy $E$ and absorber atomic number $Z$. The solid lines show where $\sigma_{ph} = \sigma_C$ (left boundary) and $\sigma_C = \sigma_{pp}$ (right boundary). Below the left line: photoelectric dominates. Between the lines: Compton dominates. Above the right line: pair production dominates.</font>
 
 Key boundaries (for the boundary $\sigma_{ph} = \sigma_C$):

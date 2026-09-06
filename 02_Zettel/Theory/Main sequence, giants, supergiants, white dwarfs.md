@@ -31,7 +31,7 @@ with $t_{\rm MS,\odot} \approx 10^{10}$ yr. so:
 - $10\, M_\odot$: $\sim 30$ Myr
 - $0.1\, M_\odot$ (red dwarf): $\sim 10^{12}$ yr — longer than the age of the universe, so no red dwarf has ever finished its MS.
 
-![stellar-05](../../assets/images/stellar-05.png)
+<img src="{{ "/assets/images/stellar-05.png" | relative_url }}" alt="stellar-05" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -51,7 +51,7 @@ next phase: at the **He flash** (for stars $\lesssim 2.3\, M_\odot$), the He cor
 
 after He core exhaustion: the **asymptotic giant branch (AGB)**, with He shell burning above an inert C-O core. the star pulses, sheds its envelope as a **planetary nebula**, and ultimately reveals a hot core that becomes a **white dwarf**.
 
-![stellar-12](../../assets/images/stellar-12.png)
+<img src="{{ "/assets/images/stellar-12.png" | relative_url }}" alt="stellar-12" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -83,7 +83,7 @@ WDs sit *below* the MS on the HR diagram because they are very hot but very smal
 
 cosmological role: a SN Ia explosion happens when a C-O white dwarf in a binary accretes enough material to approach the Chandrasekhar limit and detonate (or merge with another WD). the resulting standardizable explosion is the **standard candle** that mapped the dark-energy-driven expansion of the universe (see [Cepheids and supernovae](../../02_Zettel/Theory/Cepheids and supernovae.html) and [Cosmic_inventory_dark_energy](../../02_Zettel/Theory/Cosmic_inventory_dark_energy.html)).
 
-![stellar-13](../../assets/images/stellar-13.png)
+<img src="{{ "/assets/images/stellar-13.png" | relative_url }}" alt="stellar-13" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 

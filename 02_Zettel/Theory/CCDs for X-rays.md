@@ -50,7 +50,7 @@ The depletion region for X-ray CCDs is on the order of $30$–$300~\mu\text{m}$
 ---
 
 ## Grades
-![Screenshot 2026-04-07 at 01.52.35](../../assets/images/Screenshot 2026-04-07 at 01.52.35.png)
+<img src="{{ "/assets/images/Screenshot%202026-04-07%20at%2001.52.35.png" | relative_url }}" alt="Screenshot 2026-04-07 at 01.52.35" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 A significant fraction of X-ray photons can interact with the material
 	depositing energy in **more than one pixel**
 		due to secondary ionization
@@ -59,7 +59,7 @@ A significant fraction of X-ray photons can interact with the material
 When the event is limited to a single pixel and no charges are deposited around:
 	we have a **perfect single** situation
 		the quality of the signal is called **grade 0**
-![Screenshot 2026-04-07 at 01.52.35](../../assets/images/Screenshot 2026-04-07 at 01.52.35.png)
+<img src="{{ "/assets/images/Screenshot%202026-04-07%20at%2001.52.35.png" | relative_url }}" alt="Screenshot 2026-04-07 at 01.52.35" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 Depending on the distribution of charges in the surrounding pixels,
 	other grades are defined with an increasing number corresponding to progressively worse situations:
 		**Grade 0**: perfect single
@@ -106,7 +106,7 @@ where
 	$d$ is the depletion region depth
 
 The transmission $T$ is characterized by **absorption edges** caused by the photoelectric effect
-![Screenshot 2026-04-07 at 01.53.12](../../assets/images/Screenshot 2026-04-07 at 01.53.12.png)
+<img src="{{ "/assets/images/Screenshot%202026-04-07%20at%2001.53.12.png" | relative_url }}" alt="Screenshot 2026-04-07 at 01.53.12" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 CCDs for X-rays are however sensitive to visible photons too
 	causing noise and calibration issues
 		materials like plastic or aluminum that absorb visible light
@@ -125,7 +125,7 @@ The **energy response function** is the energy distribution of the pulses genera
 	it is not a $\delta$ function but a **Gaussian function** due to errors
 		if $\Delta E = \text{FWHM}$ of the response function, the energy resolution is:
 $$R = \frac{\Delta E}{E} = \frac{\text{FWHM}}{E_0}$$
-![Screenshot 2026-04-07 at 01.53.44](../../assets/images/Screenshot 2026-04-07 at 01.53.44.png)
+<img src="{{ "/assets/images/Screenshot%202026-04-07%20at%2001.53.44.png" | relative_url }}" alt="Screenshot 2026-04-07 at 01.53.44" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 The FWHM in eV is given by:
 $$\text{FWHM} = 2.35w\sqrt{\sigma^2_{RON} + 0.115\frac{E_{ph}}{w}}$$
 
@@ -135,4 +135,4 @@ where
 	$w = 3.68~\text{eV}$ is the energy per electron-hole pair
 
 The spectral resolution is **higher at lower energies**
-![Screenshot 2026-04-07 at 01.54.35](../../assets/images/Screenshot 2026-04-07 at 01.54.35.png)
+<img src="{{ "/assets/images/Screenshot%202026-04-07%20at%2001.54.35.png" | relative_url }}" alt="Screenshot 2026-04-07 at 01.54.35" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />

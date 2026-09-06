@@ -113,7 +113,7 @@ free-space propagation = Fourier transform = aperture function → diffraction p
 
 ## scientific figure
 
-![airy_pattern_generated](../../../assets/images/airy_pattern_generated.png)
+<img src="{{ "/assets/images/airy_pattern_generated.png" | relative_url }}" alt="airy_pattern_generated" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 reading cue: Fraunhofer diffraction means the far-field pattern is the Fourier transform of the aperture. for a circular aperture this gives the Airy pattern, with the first zero setting the familiar $1.22\lambda/D$ scale.
 

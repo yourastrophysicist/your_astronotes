@@ -13,7 +13,7 @@ I need to measure the wavefront across a $D \sim 8$ m aperture sampled at $\sim 
 
 ## three main types
 
-![Shack-Hartmann wavefront sensor: micro-lenslet array measuring local wavefront slopes from spot pattern displacement.](Wavefront_sensors.svg)
+<img src="{{ "/assets/images/Wavefront_sensors.svg" | relative_url }}" alt="Shack-Hartmann wavefront sensor: micro-lenslet array measuring local wavefront slopes from spot pattern displacement." class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 
 ### Shack-Hartmann WFS

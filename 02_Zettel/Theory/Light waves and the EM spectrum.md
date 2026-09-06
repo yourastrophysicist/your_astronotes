@@ -9,7 +9,7 @@ the foundational opening of any interferometry course. light is a transverse ele
 
 ## the wave nature
 
-![The electromagnetic spectrum, showing wavelengths and atmospheric opacity windows utilized across optical/IR and radio interferometry.](Light_waves_and_the_EM_spectrum.svg)
+<img src="{{ "/assets/images/Light_waves_and_the_EM_spectrum.svg" | relative_url }}" alt="The electromagnetic spectrum, showing wavelengths and atmospheric opacity windows utilized across optical/IR and radio interferometry." class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 
 for centuries light was thought of as a stream of particles (Newton's corpuscular theory). but observations of refraction, diffraction, and interference forced the wave theory in the 19th century (Young, Fresnel, Maxwell). interferometry is *the* phenomenon that cannot be explained without the wave picture.

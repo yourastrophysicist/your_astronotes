@@ -19,7 +19,7 @@ this is sensitive to **second-order coherence** — bunching of photons due to t
 
 ## why it works
 
-![Intensity interferometry setup correlating detector current fluctuations $\langle I_1 I_2\rangle$ from two separate light collectors.](Intensity_interferometry_concept.svg)
+<img src="{{ "/assets/images/Intensity_interferometry_concept.svg" | relative_url }}" alt="Intensity interferometry setup correlating detector current fluctuations $\langle I_1 I_2\rangle$ from two separate light collectors." class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 
 Hanbury Brown and Twiss (1956) showed that for a thermal source (any star), the intensity fluctuations at two separated points are *correlated* with magnitude:

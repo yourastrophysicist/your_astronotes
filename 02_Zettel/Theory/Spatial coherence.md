@@ -21,7 +21,7 @@ with $|\gamma_{12}| \in [0, 1]$. this is the **complex degree of spatial coheren
 
 ## the link to visibility
 
-![Spatial coherence: correlation of wave phase across spatially separated points transverse to propagation.](Spatial_coherence.gif)
+<img src="{{ "/assets/images/Spatial_coherence.gif" | relative_url }}" alt="Spatial coherence: correlation of wave phase across spatially separated points transverse to propagation." class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 
 for an interferometer with two sub-apertures at $\mathbf r_1, \mathbf r_2$:

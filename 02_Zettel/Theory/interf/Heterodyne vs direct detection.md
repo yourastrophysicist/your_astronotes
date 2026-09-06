@@ -104,7 +104,7 @@ see [Downconversion of signals in radio interferometers](../../../02_Zettel/Theo
 
 ## scientific figure
 
-![downconversion_mixer_if](../../../assets/images/downconversion_mixer_if.svg)
+<img src="{{ "/assets/images/downconversion_mixer_if.svg" | relative_url }}" alt="downconversion_mixer_if" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 reading cue: radio interferometry can preserve phase electronically because heterodyne detection moves the signal down to a manageable frequency. optical interferometry usually has to combine the light itself before detection.
 

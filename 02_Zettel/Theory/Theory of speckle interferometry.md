@@ -16,7 +16,7 @@ tags:
 
 ## core physical intuition
 
-![Speckle transfer function preserving spatial frequency information out to the diffraction limit $D/\lambda$ in image power spectra.](Theory_of_speckle_interferometry.jpg)
+<img src="{{ "/assets/images/Theory_of_speckle_interferometry.jpg" | relative_url }}" alt="Speckle transfer function preserving spatial frequency information out to the diffraction limit $D/\lambda$ in image power spectra." class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 
 Normally a long exposure image through the atmosphere smears out into a blurry seeing disk. Labeyrie realized in 1970 that if you take an exposure fast enough to freeze the atmospheric motion, the resulting image is broken up into a random pattern of tiny speckles. Each individual speckle is actually a distorted copy of the diffraction-limited image.

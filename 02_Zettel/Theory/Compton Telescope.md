@@ -15,7 +15,7 @@ The **Compton telescope** turns this liability into a detection mechanism
 
 ## Design
 
-![Screenshot 2026-04-07 at 01.28.14](../../assets/images/Screenshot 2026-04-07 at 01.28.14.png)
+<img src="{{ "/assets/images/Screenshot%202026-04-07%20at%2001.28.14.png" | relative_url }}" alt="Screenshot 2026-04-07 at 01.28.14" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 <font color="#bfbfbf">Schematic of a Compton telescope. A gamma-ray Compton scatters in the upper (scatterer) plane and is absorbed in the lower (absorber) plane. The energy deposits and time-of-flight constrain the source direction to a cone.</font>
 
 A Compton telescope has **two planes of detectors** separated by a large distance $d$:

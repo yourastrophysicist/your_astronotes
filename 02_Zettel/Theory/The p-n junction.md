@@ -41,7 +41,7 @@ When diffusion and the built-in field reach equilibrium:
 		any electron appearing in this zone is immediately swept toward the n-type side
 			any hole is swept toward the p-type side
 
-![Screenshot 2026-04-07 at 01.48.55](../../assets/images/Screenshot 2026-04-07 at 01.48.55.png)
+<img src="{{ "/assets/images/Screenshot%202026-04-07%20at%2001.48.55.png" | relative_url }}" alt="Screenshot 2026-04-07 at 01.48.55" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 <font color="#bfbfbf">The p-n junction in equilibrium. Diffusion of carriers creates a depletion region with a built-in electric field. The potential barrier prevents further diffusion.</font>
 
 ---
@@ -60,7 +60,7 @@ Applying an external voltage modifies the depletion region:
 		fewer carriers cross → very small leakage current (ideal: no current)
 		depletion region becomes **wider**
 
-![Screenshot 2026-04-07 at 01.49.24](../../assets/images/Screenshot 2026-04-07 at 01.49.24.png)
+<img src="{{ "/assets/images/Screenshot%202026-04-07%20at%2001.49.24.png" | relative_url }}" alt="Screenshot 2026-04-07 at 01.49.24" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 <font color="#bfbfbf">Left: forward bias narrows the depletion region. Right: reverse bias widens the depletion region, which is the operating condition for detector applications.</font>
 
 ---

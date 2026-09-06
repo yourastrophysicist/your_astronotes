@@ -6,10 +6,10 @@ description: Milone's two-pseudo-color diagram from HST UV+optical photometry th
 
 the chromosome map is the diagnostic plot of multiple populations + Milone's signature contribution to the field. introduced by milone et al. 2015 + refined into a survey-wide instrument by milone et al. 2017 (the HST UV Legacy Survey of GCs, ApJ 836:14, with piotto, marino, bedin, anderson, brown, cassisi + collaborators). it takes a CMD + a color-color diagram + folds them into a single 2D plot whose two axes orthogonally separate populations by helium + nitrogen.
 
-![L17_p30_chromosome_map_classic-30](../../assets/images/L17_p30_chromosome_map_classic-30.png)
+<img src="{{ "/assets/images/L17_p30_chromosome_map_classic-30.png" | relative_url }}" alt="L17_p30_chromosome_map_classic-30" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 *classic chromosome map from Milone et al. 2017: 1G stars cluster around (0,0); 2G stars displaced upward + leftward.*
 
-![L15_p05_chromosome_map_intro-05](../../assets/images/L15_p05_chromosome_map_intro-05.png)
+<img src="{{ "/assets/images/L15_p05_chromosome_map_intro-05.png" | relative_url }}" alt="L15_p05_chromosome_map_intro-05" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ## construction
 

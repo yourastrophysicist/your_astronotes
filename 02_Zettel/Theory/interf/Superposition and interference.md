@@ -81,7 +81,7 @@ this is the central quantum-classical correspondence underlying every interferom
 
 ## scientific figure
 
-![young_double_slit_interference](../../../assets/images/young_double_slit_interference.svg)
+<img src="{{ "/assets/images/young_double_slit_interference.svg" | relative_url }}" alt="young_double_slit_interference" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 reading cue: interference is not an abstract word here. it is literally wave amplitudes adding with a phase difference, producing bright and dark fringes when the path difference changes by fractions of a wavelength.
 

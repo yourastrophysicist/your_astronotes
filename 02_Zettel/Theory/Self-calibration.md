@@ -15,7 +15,7 @@ the procedure converges (usually in 3-5 iterations) to a self-consistent solutio
 
 ## the formal statement
 
-![Self-calibration iterative cycle: using a preliminary sky model to solve for antenna gain errors and refine the final image.](Self-calibration.png)
+<img src="{{ "/assets/images/Self-calibration.png" | relative_url }}" alt="Self-calibration iterative cycle: using a preliminary sky model to solve for antenna gain errors and refine the final image." class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 
 at antenna $i$, the *measured* visibility on baseline $ij$ is

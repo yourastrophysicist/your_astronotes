@@ -18,7 +18,7 @@ $$\boxed{\,M_V = -2.43\log_{10}(P/\text{day}) - 1.62\,}$$
 
 so just by **timing the period** of a Cepheid, you know its absolute luminosity. measuring its apparent brightness then gives the distance.
 
-![distancescale-12](../../assets/images/distancescale-12.png)
+<img src="{{ "/assets/images/distancescale-12.png" | relative_url }}" alt="distancescale-12" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ### why Cepheids work
 
@@ -60,7 +60,7 @@ $$M_B^{\rm corr} \approx -19.5 \pm 0.1$$
 
 so SN Ia are the best **standard candles** we have at high redshift.
 
-![distancescale-15](../../assets/images/distancescale-15.png)
+<img src="{{ "/assets/images/distancescale-15.png" | relative_url }}" alt="distancescale-15" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ### why SN Ia are uniform
 

@@ -10,7 +10,7 @@ The criterion states:
 	two point sources are just resolved when the **central maximum** of one source's Airy disk
 		coincides with the **first diffraction minimum** of the other source's Airy disk
 
-![Pasted image 20260405183557](../../assets/images/Pasted image 20260405183557.png)
+<img src="{{ "/assets/images/Pasted%20image%2020260405183557.png" | relative_url }}" alt="Pasted image 20260405183557" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 <font color="#bfbfbf">Left: two point sources well resolved. Centre: Rayleigh limit — the first minimum of one coincides with the maximum of the other. Right: unresolved — the two maxima blend into one.</font>
 
 ---

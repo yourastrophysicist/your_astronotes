@@ -114,7 +114,7 @@ VLTI dominates faint-target science (sensitivity from the UTs); CHARA dominates 
 
 ## scientific figure
 
-![vlti_delay_line_eso9811a](../../../assets/images/vlti_delay_line_eso9811a.jpg)
+<img src="{{ "/assets/images/vlti_delay_line_eso9811a.jpg" | relative_url }}" alt="vlti_delay_line_eso9811a" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 reading cue: VLTI depends on delay lines because the telescopes are separated across Paranal but the beams must meet with matched optical path length in the interferometric laboratory.
 

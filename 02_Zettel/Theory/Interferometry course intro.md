@@ -20,7 +20,7 @@ physics is the same — phase, coherence, Van Cittert-Zernike — but the engine
 
 ## who teaches it
 
-![Schematic of an astronomical optical interferometer combining signals from separated telescopes via delay lines.](Interferometry_course_intro.jpg)
+<img src="{{ "/assets/images/Interferometry_course_intro.jpg" | relative_url }}" alt="Schematic of an astronomical optical interferometer combining signals from separated telescopes via delay lines." class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 
 **Mauro D'Onofrio** is a Padova astrophysicist with research interests spanning galaxy structure, scaling relations, and observational cosmology. for interferometry he supervises a course built around the Labeyrie textbook (which translates between the optical and radio formalisms) and a set of Italian "Lezione 1-7" + English "Lecture 8-10" slides.

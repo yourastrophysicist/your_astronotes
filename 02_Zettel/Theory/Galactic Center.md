@@ -31,7 +31,7 @@ in 2018, the GRAVITY/SINFONI team detected **gravitational redshift** of S2 ligh
 
 in May 2022, the EHT collaboration released the first **resolved image of Sgr A***:
 
-![milkyway-22](../../assets/images/milkyway-22.png)
+<img src="{{ "/assets/images/milkyway-22.png" | relative_url }}" alt="milkyway-22" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 a ring of emission with a dark central shadow — exactly as predicted by GR for a black hole. the ring diameter is $\sim 50\,\mu$as, consistent with $M_\bullet = 4.3 \times 10^6\, M_\odot$ and the known distance.
 

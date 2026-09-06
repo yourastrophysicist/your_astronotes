@@ -43,7 +43,7 @@ ambitious concept for 5-10 m baseline, $10^{12}$ contrast for direct *imaging* o
 
 ## the technical challenges
 
-![Space Interferometry Mission (SIM) concept for micro-arcsecond optical astrometry from space.](Future_space-based.jpg)
+<img src="{{ "/assets/images/Future_space-based.jpg" | relative_url }}" alt="Space Interferometry Mission (SIM) concept for micro-arcsecond optical astrometry from space." class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 
 three:

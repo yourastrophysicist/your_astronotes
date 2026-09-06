@@ -23,7 +23,7 @@ distinguished by temperature and density. the McKee-Ostriker (1977) framework:
 
 these phases are roughly in pressure equilibrium ($n T \sim$ const) but exist over many decades in $T$ and $n$.
 
-![milkyway-09](../../assets/images/milkyway-09.png)
+<img src="{{ "/assets/images/milkyway-09.png" | relative_url }}" alt="milkyway-09" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 

@@ -30,7 +30,7 @@ these are *short-lived* (10⁸ year lifetimes) but *deep* in the BH potential. t
 
 ## what GRAVITY does
 
-![VLTI GRAVITY astrometric orbit of star S2 around Sagittarius A*, verifying general relativistic Schwarzschild precession.](Galactic_Center_Sgr_A_and_S-stars.jpg)
+<img src="{{ "/assets/images/Galactic_Center_Sgr_A_and_S-stars.jpg" | relative_url }}" alt="VLTI GRAVITY astrometric orbit of star S2 around Sagittarius A*, verifying general relativistic Schwarzschild precession." class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 
 GRAVITY at VLTI tracks the S-stars at $\sim 50$ μas astrometric precision. each year of observations:

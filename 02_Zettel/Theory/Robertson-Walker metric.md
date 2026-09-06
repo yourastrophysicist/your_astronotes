@@ -37,7 +37,7 @@ $$ds^2 = dt^2 - a^2(t) \gamma_{ij}\, dx^i dx^j$$
 
 (Baumann §1.1.)
 
-![Pasted image 20260429100000](../../assets/images/Pasted image 20260429100000.png)
+<img src="{{ "/assets/images/sphereastro-01.png" | relative_url }}" alt="Foliation of Spacetime" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 (see Baumann figure 1.2 for the foliation into curved hypersurfaces.)
 

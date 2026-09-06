@@ -18,7 +18,7 @@ $$x = \cos\psi\cos\theta, \quad y = \sin\psi\cos\theta, \quad z = \sin\theta$$
 
 now consider a second system $(x', y', z')$ obtained by rotating around the $x$-axis by an angle $\chi$:
 
-![sphereastro-11](../../assets/images/sphereastro-11.png)
+<img src="{{ "/assets/images/sphereastro-11.png" | relative_url }}" alt="sphereastro-11" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -40,7 +40,7 @@ $$\boxed{\,\sin\theta' = \sin\theta\cos\chi - \sin\chi\sin\psi\cos\theta\,}$$
 
 useful for coordinate transformations.
 
-![sphereastro-12](../../assets/images/sphereastro-12.png)
+<img src="{{ "/assets/images/sphereastro-12.png" | relative_url }}" alt="sphereastro-12" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 
@@ -48,7 +48,7 @@ useful for coordinate transformations.
 
 now reinterpret the same setup as a spherical triangle on the celestial sphere, with $z$ pointing at vertex $A$ and $z'$ pointing at vertex $B$:
 
-![sphereastro-13](../../assets/images/sphereastro-13.png)
+<img src="{{ "/assets/images/sphereastro-13.png" | relative_url }}" alt="sphereastro-13" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 reading the triangle:
 $$\psi = A - 90°, \qquad \theta = 90° - b, \qquad \chi = c$$
@@ -60,7 +60,7 @@ $$\cos(90° - B)\cos(90° - a) = \cos(A - 90°)\cos(90° - b)$$
 $$\sin(90° - B)\cos(90° - a) = \sin(A - 90°)\cos(90° - b)\cos c + \sin(90° - b)\sin c$$
 $$\sin(90° - a) = -\sin(A - 90°)\cos(90° - b)\sin c + \sin(90° - b)\cos c$$
 
-![sphereastro-14](../../assets/images/sphereastro-14.png)
+<img src="{{ "/assets/images/sphereastro-14.png" | relative_url }}" alt="sphereastro-14" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 cleaning up:
 
@@ -80,7 +80,7 @@ $$\boxed{\,\frac{\sin a}{\sin A} = \frac{\sin b}{\sin B} = \frac{\sin c}{\sin C}
 
 this is the spherical analog of the planar sine rule. useful for computing distances (i.e. arc lengths) between points on the sphere when the angles are known.
 
-![sphereastro-15](../../assets/images/sphereastro-15.png)
+<img src="{{ "/assets/images/sphereastro-15.png" | relative_url }}" alt="sphereastro-15" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ---
 

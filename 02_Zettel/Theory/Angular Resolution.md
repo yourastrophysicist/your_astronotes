@@ -23,7 +23,7 @@ Why HPD and not FWHM?
 	HPD is a more honest measure of the total image quality
 	it directly tells you what extraction radius captures 50% of the photons
 
-![Screenshot of HPD diagram](../../assets/images/Screenshot of HPD diagram)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Chandra_artist_illustration.jpg/600px-Chandra_artist_illustration.jpg" alt="Chandra X-ray Observatory High Angular Resolution" class="note-img" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid var(--border-subtle); border-radius: 2px; margin: 12px 0;" />
 
 ### Example comparison
 For an azimuthally symmetric mirror shell:
