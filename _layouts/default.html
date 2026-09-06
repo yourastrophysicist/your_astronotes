@@ -14,8 +14,15 @@
 <body>
 
   <header>
-    <a href="{{ '/' | relative_url }}" class="logo">{{ site.title }}</a>
-    <span style="opacity: 0.7; font-size: 0.9rem;">{{ site.subtitle }}</span>
+    <div style="display: flex; align-items: center; gap: 16px;">
+      <a href="{{ '/' | relative_url }}" class="logo">{{ site.title }}</a>
+      <span style="opacity: 0.7; font-size: 0.9rem;">{{ site.subtitle }}</span>
+    </div>
+    <nav style="display: flex; align-items: center; gap: 20px; font-size: 0.95rem; font-weight: 600;">
+      <a href="{{ '/' | relative_url }}">Atlas</a>
+      <a href="{{ '/About' | relative_url }}">About</a>
+      <a href="https://github.com/{{ site.github_repo }}" target="_blank" rel="noopener noreferrer">GitHub</a>
+    </nav>
   </header>
 
   <div class="container">

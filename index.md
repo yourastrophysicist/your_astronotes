@@ -7,7 +7,7 @@ title: "index"
 
 Welcome to the open vault for Year 1 Master of Science coursework in Astrophysics and Cosmology at the University of Padua (Università degli Studi di Padova), Italy.
 
-This repository is an interconnected working second brain compiled by Jessica Syafaq Muthmaina. It contains lecture syntheses, mathematical derivations, observational instrumentation notes, and theoretical foundations.
+This repository is an interconnected working second brain compiled by Jessica Syafaq Muthmaina (read more in [About](About.md)). It contains lecture syntheses, mathematical derivations, observational instrumentation notes, and theoretical foundations.
 
 The vault is designed for physics and astrophysics undergraduates, beginning graduate students, and independent learners who want to study the material from first principles rather than skimming slide summaries.
 
