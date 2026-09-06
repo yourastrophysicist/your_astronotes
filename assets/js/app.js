@@ -98,8 +98,8 @@ document.addEventListener('DOMContentLoaded', () => {
         a.textContent = page.title;
 
         // Active link highlight
-        const normalizedCurrent = currentUrl.replace(/\\\/g, '/').replace(/index\\.html$/, '').replace(/\/$/, '');
-        const normalizedPage = page.url.replace(/\\\/g, '/').replace(/index\\.html$/, '').replace(/\/$/, '');
+        const normalizedCurrent = currentUrl.replace(/\/index\.html$/, '').replace(/\/$/, '');
+        const normalizedPage = page.url.replace(/\/index\.html$/, '').replace(/\/$/, '');
         if (normalizedCurrent === normalizedPage) {
           a.classList.add('active');
           // Bubble expand parents
