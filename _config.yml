@@ -1,9 +1,9 @@
 title: "The Open Astrophysics Vault"
 subtitle: "Year 1 Notes in Astrophysics and Cosmology"
 description: "A digital garden compiled directly from my Obsidian vault."
-baseurl: ""
-url: "https://yourastronotes.github.io"
-github_repo: "yourastronotes/yourastronotes.github.io"
+baseurl: "/your_astronotes"
+url: "https://yourastrophysicist.github.io"
+github_repo: "yourastrophysicist/your_astronotes"
 publish_tag: "*"
 markdown: kramdown
 kramdown:
