@@ -1,0 +1,18 @@
+title: "The Open Astrophysics Vault"
+subtitle: "Year 1 Notes in Astrophysics and Cosmology"
+description: "A digital garden compiled directly from my Obsidian vault."
+github_repo: "yourastrophysicist/your_astronotes"
+publish_tag: "*"
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/
+  - .github/
+
+relative_links:
+  enabled: false

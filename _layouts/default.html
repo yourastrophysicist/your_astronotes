@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <script src="{{ '/assets/js/site-data.js' | relative_url }}"><\/script>
+  <script src="{{ '/assets/js/app.js' | relative_url }}"><\/script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"><\/script>
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body, {delimiters: [{left: '$$', right: '$$', display: true}, {left: '$', right: '$', display: false}]});"><\/script>
+</head>
+<body>
+
+  <header>
+    <a href="{{ '/' | relative_url }}" class="logo">{{ site.title }}</a>
+    <span style="opacity: 0.7; font-size: 0.9rem;">{{ site.subtitle }}</span>
+  </header>
+
+  <div class="container">
+    <aside class="sidebar-left">
+      <input type="text" id="tree-search" class="search-box" placeholder="Search pages...">
+      <div id="file-tree"></div>
+    </aside>
+
+    <main>
+      <h1 style="margin-top:0;">{{ page.title }}</h1>
+      <div class="markdown-body">
+        {{ content }}
+      </div>
+
+      <div class="feedback-section" style="margin-top: 60px; padding-top: 20px; border-top: 1px solid var(--border-color); text-align: center;">
+        <p>Found a typo or have questions? <a href="https://github.com/{{ site.github_repo }}/issues/new?title=Feedback+on+{{ page.title | url_encode }}&body=Source+file:+{{ page.path | url_encode }}" target="_blank" style="color: var(--primary-color); font-weight: 600; display: inline-flex; align-items: center; gap: 6px;">
+          <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor" style="display:inline-block; vertical-align:middle;"><path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"></path></svg>
+          Report an issue with this content
+        </a></p>
+      </div>
+    </main>
+
+    <aside class="sidebar-right">
+      <h3 class="toc-title">On this page</h3>
+      <div id="toc-content"></div>
+    </aside>
+  </div>
+
+</body>
+</html>

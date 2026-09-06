@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="456.03" font-family="Liberation Sans,Arial,Nimbus Sans L,Helvetica,sans-serif" font-size="21.333">
+  <defs>
+    <marker id="f" markerHeight="1" markerWidth="1" orient="auto-start-reverse" overflow="visible" preserveAspectRatio="xMidYMid" viewBox="0 0 1 1">
+      <path fill="context-stroke" fill-rule="evenodd" d="M-1.4-2.8 6.3 0l-7.7 2.8C0 1.169 0-1.162-1.4-2.8"/>
+    </marker>
+    <marker id="d" markerHeight=".9" markerWidth=".9" orient="auto-start-reverse" overflow="visible" preserveAspectRatio="xMidYMid" viewBox="0 0 1 1">
+      <path fill="context-stroke" fill-rule="evenodd" stroke="context-stroke" stroke-width=".5pt" d="M2.885 0-1.44 2.5v-5z"/>
+    </marker>
+    <marker id="c" markerHeight=".5" markerWidth=".5" orient="auto-start-reverse" overflow="visible" preserveAspectRatio="xMidYMid" viewBox="0 0 1 1">
+      <path fill="context-stroke" fill-rule="evenodd" d="M-1.4-2.8 6.3 0l-7.7 2.8C0 1.169 0-1.162-1.4-2.8"/>
+    </marker>
+    <pattern xlink:href="#a" id="b" patternTransform="rotate(45)scale(2)" preserveAspectRatio="xMidYMid"/>
+    <pattern id="a" width="2" height="10" fill="#009898" patternTransform="scale(2)" patternUnits="userSpaceOnUse" preserveAspectRatio="xMidYMid">
+      <path d="M0-.5h1v11H0z"/>
+    </pattern>
+  </defs>
+  <path stroke="#000" stroke-width="2" d="M25.961 330.78h14.421"/>
+  <path fill="#00f5f5" d="M764.45 120.31 319.32 259.57l296.24 69.632 148.79.824z"/>
+  <path fill="url(#b)" d="M764.45 120.31 319.32 259.57l296.24 69.632 148.79.824z"/>
+  <g fill="none">
+    <g stroke="red">
+      <g stroke-width="3" marker-end="url(#c)">
+        <path marker-start="url(#c)" d="M754.56 123.4 319.31 259.57l433.45 101.36"/>
+        <path d="m387.3 329.62 365.67.35"/>
+        <path d="m409.55 30.49-19.365 289.24"/>
+        <path d="m271.11 176.35 483.45-52.942"/>
+        <path d="m409.55 30.49-86.974 221.12"/>
+        <path d="M409.55 30.49 276.88 169.75"/>
+      </g>
+      <path stroke-dasharray="3,3" stroke-width="1.5" d="M271.11 176.35 69.92 189.961l249.39 69.618"/>
+    </g>
+    <path stroke="#000" stroke-dasharray="6, 3, 1.5, 3" stroke-width="1.5" d="M62.347 259.88h723.7m-466.727-.31 68.17 118.01m-.19-47.96 28.738 27.57"/>
+  </g>
+  <path fill="#3f823e" stroke="#000" stroke-width="3" d="m764.48 38.045-.17 367.75"/>
+  <g fill="none">
+    <path stroke="red" stroke-dasharray="3, 3" stroke-width="1.5" d="M319.32 259.57 71.09 329.797l316.21-.183"/>
+    <path stroke="#000" stroke-width="3" d="m271.11 176.35 48.206 83.228 67.984 70.044"/>
+    <path stroke="#000" stroke-width="1.5" marker-end="url(#d)" marker-start="url(#d)" d="m33.504 196.07-.146 128.77"/>
+  </g>
+  <path fill="none" stroke="#000" marker-end="url(#f)" d="m354.13 377.82 16.481-10.507"/>
+  <path fill="none" stroke="#000" marker-end="url(#f)" d="m428.91 331.68-17.305 9.065"/>
+  <path stroke="#000" stroke-width="2" d="M25.93 190.1h14.421"/>
+  <text x="44.867" y="340.871">S<tspan dy=".4em" font-size="65%">2</tspan></text>
+  <text x="320.477" y="313.485">M<tspan dy=".4em" font-size="65%">2</tspan></text>
+  <text x="266.287" y="222.003">M<tspan dy=".4em" font-size="65%">1</tspan></text>
+  <text x="404.384" y="26.221">S</text>
+  <text x="308.241" y="280.272">A</text>
+  <text x="14.009" y="268.226">d</text>
+  <text x="386.27" y="358.664" font-family="serif">ɑ</text>
+  <text x="44.867" y="187.625">S<tspan dy=".4em" font-size="65%">1</tspan></text>
+</svg>
