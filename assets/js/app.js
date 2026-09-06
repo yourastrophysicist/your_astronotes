@@ -3,7 +3,9 @@ document.addEventListener('DOMContentLoaded', () => {
   const treeContainer = document.getElementById('file-tree');
   const searchInput = document.getElementById('tree-search');
 
-  if (treeContainer && typeof sitePages !== 'undefined' && Array.isArray(sitePages)) {
+  const pagesList = window.sitePages || (typeof sitePages !== 'undefined' && Array.isArray(sitePages) ? sitePages : []);
+
+  if (treeContainer && pagesList.length > 0) {
     const currentUrl = window.location.pathname;
 
     function buildTree(pages) {
@@ -116,7 +118,7 @@ document.addEventListener('DOMContentLoaded', () => {
       container.appendChild(ul);
     }
 
-    const treeData = buildTree(sitePages);
+    const treeData = buildTree(pagesList);
     renderTree(treeData, treeContainer);
 
     // Search Filtering

@@ -1,6 +1,6 @@
 ---
 ---
-const sitePages = [
+window.sitePages = [
   {% for p in site.pages %}
     {% if p.title %}
     {
@@ -11,3 +11,5 @@ const sitePages = [
     {% endif %}
   {% endfor %}
 ];
+var sitePages = window.sitePages;
+
