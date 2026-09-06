@@ -107,9 +107,9 @@ source: local study diagram generated from the Abbe/Fourier-optics interpretatio
 
 ## see also
 
-- [Point spread function](../../../02_Zettel/Theory/interf/Point spread function.md)
-- [Fraunhofer diffraction](../../../02_Zettel/Theory/interf/Fraunhofer diffraction.md)
+- [Point spread function](../../../02_Zettel/Theory/interf/Point spread function.html)
+- [Fraunhofer diffraction](../../../02_Zettel/Theory/interf/Fraunhofer diffraction.html)
 - [The (u, v) plane](../../../02_Zettel/Theory/interf/The (u, v) plane.md)
-- [Aperture synthesis principle](../../../02_Zettel/Theory/interf/Aperture synthesis principle.md)
-- [CLEAN algorithm](../../../02_Zettel/Theory/interf/CLEAN algorithm.md)
-- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Aperture synthesis principle](../../../02_Zettel/Theory/interf/Aperture synthesis principle.html)
+- [CLEAN algorithm](../../../02_Zettel/Theory/interf/CLEAN algorithm.html)
+- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.html)

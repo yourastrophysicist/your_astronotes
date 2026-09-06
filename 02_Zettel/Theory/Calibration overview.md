@@ -136,7 +136,7 @@ where $g_i$ and $g_j$ are complex antenna gains. the standard calibrator roles a
 - **phase calibrator**: tracks time-variable phase/gain
 - **polarization calibrator**: solves leakage and angle if needed
 
-BookAI's practical point: a final image is already determined by choices made before observation, especially configuration, calibrator cadence, bandwidth, and integration time. see [Steps in radio interferometric observations](../../02_Zettel/Theory/interf/Steps in radio interferometric observations.md).
+BookAI's practical point: a final image is already determined by choices made before observation, especially configuration, calibrator cadence, bandwidth, and integration time. see [Steps in radio interferometric observations](../../02_Zettel/Theory/interf/Steps in radio interferometric observations.html).
 
 ## scientific figure
 
@@ -148,9 +148,9 @@ source: local workflow diagram generated from the standard radio-reduction seque
 
 ## see also
 
-- [Bandpass calibration](../../02_Zettel/Theory/interf/Bandpass calibration.md)
-- [Flux calibration](../../02_Zettel/Theory/interf/Flux calibration.md)
-- [Phase referencing](../../02_Zettel/Theory/interf/Phase referencing.md)
-- [Self-calibration](../../02_Zettel/Theory/interf/Self-calibration.md)
-- [Polarization in interferometry](../../02_Zettel/Theory/interf/Polarization in interferometry.md)
-- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Bandpass calibration](../../02_Zettel/Theory/interf/Bandpass calibration.html)
+- [Flux calibration](../../02_Zettel/Theory/interf/Flux calibration.html)
+- [Phase referencing](../../02_Zettel/Theory/interf/Phase referencing.html)
+- [Self-calibration](../../02_Zettel/Theory/interf/Self-calibration.html)
+- [Polarization in interferometry](../../02_Zettel/Theory/interf/Polarization in interferometry.html)
+- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.html)

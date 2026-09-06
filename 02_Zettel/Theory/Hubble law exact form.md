@@ -62,9 +62,9 @@ so when an undergraduate first encounters $z = 0.5$ they often want to compute "
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Hubble law derivation low-z](../../02_Zettel/Theory/Hubble law derivation low-z.md)
-- [Hubble constant and deceleration parameter](../../02_Zettel/Theory/Hubble constant and deceleration parameter.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Hubble law derivation low-z](../../02_Zettel/Theory/Hubble law derivation low-z.html)
+- [Hubble constant and deceleration parameter](../../02_Zettel/Theory/Hubble constant and deceleration parameter.html)
 - 03_Zettel/Theory/Cosmological distances
-- [Cosmic_inventory_dark_energy](../../02_Zettel/Theory/Cosmic_inventory_dark_energy.md)
+- [Cosmic_inventory_dark_energy](../../02_Zettel/Theory/Cosmic_inventory_dark_energy.html)
 - Friedmann equations with Λ

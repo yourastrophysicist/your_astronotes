@@ -56,10 +56,10 @@ so for cosmology-aware galaxy work, Petrosian (or Kron) is preferred over isopho
 
 ## see also
 
-- [Aperture photometry](../../02_Zettel/Theory/Aperture photometry.md)
-- [Surface brightness dimming](../../02_Zettel/Theory/Surface brightness dimming.md)
-- [Galaxy size-luminosity relation](../../02_Zettel/Theory/Galaxy size-luminosity relation.md)
-- [Sersic profile](../../02_Zettel/Theory/Sersic profile.md)
-- [De Vaucouleurs and exponential profiles](../../02_Zettel/Theory/De Vaucouleurs and exponential profiles.md)
-- [SDSS overview](../../02_Zettel/Theory/SDSS overview.md)
-- [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.md)
+- [Aperture photometry](../../02_Zettel/Theory/Aperture photometry.html)
+- [Surface brightness dimming](../../02_Zettel/Theory/Surface brightness dimming.html)
+- [Galaxy size-luminosity relation](../../02_Zettel/Theory/Galaxy size-luminosity relation.html)
+- [Sersic profile](../../02_Zettel/Theory/Sersic profile.html)
+- [De Vaucouleurs and exponential profiles](../../02_Zettel/Theory/De Vaucouleurs and exponential profiles.html)
+- [SDSS overview](../../02_Zettel/Theory/SDSS overview.html)
+- [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.html)

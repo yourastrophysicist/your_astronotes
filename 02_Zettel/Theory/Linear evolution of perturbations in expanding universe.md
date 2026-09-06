@@ -41,7 +41,7 @@ three terms:
 with pressure included:
 $$\ddot\delta + 2H\dot\delta + \left(\frac{c_s^2 k^2}{a^2} - 4\pi G\bar\rho_m\right)\delta = 0$$
 
-where $c_s$ is the sound speed and $k$ is the comoving wavenumber. the second bracketed term is positive when the pressure gradient dominates (oscillation), negative when gravity dominates (growth) — see the **Jeans criterion** in [Jeans analysis in expanding universe](../../02_Zettel/Theory/Jeans analysis in expanding universe.md).
+where $c_s$ is the sound speed and $k$ is the comoving wavenumber. the second bracketed term is positive when the pressure gradient dominates (oscillation), negative when gravity dominates (growth) — see the **Jeans criterion** in [Jeans analysis in expanding universe](../../02_Zettel/Theory/Jeans analysis in expanding universe.html).
 
 ---
 
@@ -63,7 +63,7 @@ $$\delta_m \propto \log(a)$$
 
 i.e. nearly constant, only logarithmic growth.
 
-so dark matter perturbations grow strongly only after matter-radiation equality at $z_{\rm eq} \sim 3300$. the Meszaros effect is what determines the position of the **turnover** in the matter power spectrum (see [Matter power spectrum and BAO](../../02_Zettel/Theory/Matter power spectrum and BAO.md)).
+so dark matter perturbations grow strongly only after matter-radiation equality at $z_{\rm eq} \sim 3300$. the Meszaros effect is what determines the position of the **turnover** in the matter power spectrum (see [Matter power spectrum and BAO](../../02_Zettel/Theory/Matter power spectrum and BAO.html)).
 
 ---
 
@@ -97,10 +97,10 @@ so linear theory works *all the way* from the CMB to large-scale structure today
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Jeans analysis in expanding universe](../../02_Zettel/Theory/Jeans analysis in expanding universe.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Jeans analysis in expanding universe](../../02_Zettel/Theory/Jeans analysis in expanding universe.html)
 - [Growth factor D(z)](../../02_Zettel/Theory/Growth factor D(z).md)
-- [Spherical collapse](../../02_Zettel/Theory/Spherical collapse.md)
-- [Press-Schechter halo mass function](../../02_Zettel/Theory/Press-Schechter halo mass function.md)
-- [Matter power spectrum and BAO](../../02_Zettel/Theory/Matter power spectrum and BAO.md)
-- [Baumann_reference](../../02_Zettel/Theory/Baumann_reference.md) — chapters 4 and 5 are the rigorous treatment
+- [Spherical collapse](../../02_Zettel/Theory/Spherical collapse.html)
+- [Press-Schechter halo mass function](../../02_Zettel/Theory/Press-Schechter halo mass function.html)
+- [Matter power spectrum and BAO](../../02_Zettel/Theory/Matter power spectrum and BAO.html)
+- [Baumann_reference](../../02_Zettel/Theory/Baumann_reference.html) — chapters 4 and 5 are the rigorous treatment

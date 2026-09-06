@@ -155,9 +155,9 @@ DCT and DST are useful for symmetric/antisymmetric data (e.g. boundary value pro
 
 ## see also
 
-- [Discrete Fourier transform](../../02_Zettel/Theory/Discrete Fourier transform.md)
-- [Fast Fourier transform algorithm](../../02_Zettel/Theory/Fast Fourier transform algorithm.md)
-- [Physical interpretation of the FFT](../../02_Zettel/Theory/Physical interpretation of the FFT.md)
-- [Power spectrum estimation](../../02_Zettel/Theory/Power spectrum estimation.md)
-- [Fourier series math summary](../../02_Zettel/Theory/Fourier series math summary.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Discrete Fourier transform](../../02_Zettel/Theory/Discrete Fourier transform.html)
+- [Fast Fourier transform algorithm](../../02_Zettel/Theory/Fast Fourier transform algorithm.html)
+- [Physical interpretation of the FFT](../../02_Zettel/Theory/Physical interpretation of the FFT.html)
+- [Power spectrum estimation](../../02_Zettel/Theory/Power spectrum estimation.html)
+- [Fourier series math summary](../../02_Zettel/Theory/Fourier series math summary.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

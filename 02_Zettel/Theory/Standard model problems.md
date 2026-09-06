@@ -71,7 +71,7 @@ with $N \approx 60$ e-folds of inflation:
 - the observable universe (today $\sim H_0^{-1}$ across) was at the start of inflation a single Hubble volume, all in causal contact — solving the horizon problem
 - monopole density diluted to undetectable — solving the monopole problem
 
-inflation also generates the primordial perturbations from quantum fluctuations stretched to cosmic scales. the **same fluctuations** that solve the horizon problem also seed structure formation. → see [Inflation overview](../../02_Zettel/Theory/Inflation overview.md).
+inflation also generates the primordial perturbations from quantum fluctuations stretched to cosmic scales. the **same fluctuations** that solve the horizon problem also seed structure formation. → see [Inflation overview](../../02_Zettel/Theory/Inflation overview.html).
 
 ---
 
@@ -85,10 +85,10 @@ the price: a hypothetical scalar field (the **inflaton**) with a specific potent
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Inflation overview](../../02_Zettel/Theory/Inflation overview.md)
-- [Inflaton scalar field dynamics](../../02_Zettel/Theory/Inflaton scalar field dynamics.md)
-- [Old vs new vs chaotic inflation, slow-roll](../../02_Zettel/Theory/Old vs new vs chaotic inflation, slow-roll.md)
-- [Density parameters and flatness](../../02_Zettel/Theory/Density parameters and flatness.md)
-- [Brief thermal history](../../02_Zettel/Theory/Brief thermal history.md)
-- [Baumann_reference](../../02_Zettel/Theory/Baumann_reference.md) — chapter 2 has the full story
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Inflation overview](../../02_Zettel/Theory/Inflation overview.html)
+- [Inflaton scalar field dynamics](../../02_Zettel/Theory/Inflaton scalar field dynamics.html)
+- [Old vs new vs chaotic inflation, slow-roll](../../02_Zettel/Theory/Old vs new vs chaotic inflation, slow-roll.html)
+- [Density parameters and flatness](../../02_Zettel/Theory/Density parameters and flatness.html)
+- [Brief thermal history](../../02_Zettel/Theory/Brief thermal history.html)
+- [Baumann_reference](../../02_Zettel/Theory/Baumann_reference.html) — chapter 2 has the full story

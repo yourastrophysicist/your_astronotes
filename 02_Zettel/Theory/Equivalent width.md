@@ -23,7 +23,7 @@ equivalent definition in frequency: $W_\nu = \int (1 - F_\nu/F_c) d\nu$, units o
 
 ## the curve of growth
 
-$W$ vs column density $N$ is the **curve of growth** (see [Curve of growth](../../02_Zettel/Theory/Curve of growth.md)). three regimes:
+$W$ vs column density $N$ is the **curve of growth** (see [Curve of growth](../../02_Zettel/Theory/Curve of growth.html)). three regimes:
 
 1. **linear** ($\tau_0 \ll 1$): $W \propto N$. line grows as you add absorbers; depth increases linearly. easy abundance work.
 2. **saturation** ($\tau_0 \sim 1$): $W \propto \sqrt{\ln N}$. line core saturates near zero flux; further $N$ deepens the wings only slowly.
@@ -61,10 +61,10 @@ for an emission line, $F_\lambda > F_c$, so the integrand is negative. by conven
 
 ## see also
 
-- [Line profile function phi nu](../../02_Zettel/Theory/Line profile function phi nu.md)
-- [Absorption coefficient and oscillator strength](../../02_Zettel/Theory/Absorption coefficient and oscillator strength.md)
-- [Curve of growth](../../02_Zettel/Theory/Curve of growth.md)
-- [Optical depth](../../02_Zettel/Theory/Optical depth.md)
-- [Voigt profile](../../02_Zettel/Theory/Voigt profile.md)
-- [Damping wings](../../02_Zettel/Theory/Damping wings.md)
-- [Curve of growth abundance analysis](../../02_Zettel/Theory/Curve of growth abundance analysis.md)
+- [Line profile function phi nu](../../02_Zettel/Theory/Line profile function phi nu.html)
+- [Absorption coefficient and oscillator strength](../../02_Zettel/Theory/Absorption coefficient and oscillator strength.html)
+- [Curve of growth](../../02_Zettel/Theory/Curve of growth.html)
+- [Optical depth](../../02_Zettel/Theory/Optical depth.html)
+- [Voigt profile](../../02_Zettel/Theory/Voigt profile.html)
+- [Damping wings](../../02_Zettel/Theory/Damping wings.html)
+- [Curve of growth abundance analysis](../../02_Zettel/Theory/Curve of growth abundance analysis.html)

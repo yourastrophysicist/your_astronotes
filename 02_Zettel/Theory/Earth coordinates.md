@@ -31,7 +31,7 @@ the Earth's rotation axis defines two **poles**: north (P) and south (P'). perpe
 
 ## distance between two points on Earth
 
-the great-circle distance between points $1$ and $2$ on the Earth's surface follows directly from the **spherical cosine rule** (see [Spherical trigonometry](../../02_Zettel/Theory/Spherical trigonometry.md)):
+the great-circle distance between points $1$ and $2$ on the Earth's surface follows directly from the **spherical cosine rule** (see [Spherical trigonometry](../../02_Zettel/Theory/Spherical trigonometry.html)):
 $$\cos a = \cos A \sin b \sin c + \cos b \cos c$$
 
 set up the spherical triangle with the north pole as one vertex, then:
@@ -70,8 +70,8 @@ so by measuring how high Polaris sits above the northern horizon, I directly rea
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Spherical_astronomy_complete](../../02_Zettel/Theory/Spherical_astronomy_complete.md)
-- [Celestial sphere and great circles](../../02_Zettel/Theory/Celestial sphere and great circles.md)
-- [Spherical trigonometry](../../02_Zettel/Theory/Spherical trigonometry.md)
-- [Equatorial system](../../02_Zettel/Theory/Equatorial system.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Spherical_astronomy_complete](../../02_Zettel/Theory/Spherical_astronomy_complete.html)
+- [Celestial sphere and great circles](../../02_Zettel/Theory/Celestial sphere and great circles.html)
+- [Spherical trigonometry](../../02_Zettel/Theory/Spherical trigonometry.html)
+- [Equatorial system](../../02_Zettel/Theory/Equatorial system.html)

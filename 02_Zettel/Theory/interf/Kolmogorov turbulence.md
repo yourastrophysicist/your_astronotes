@@ -103,8 +103,8 @@ these scalings are extensively verified observationally. they tell us why IR int
 
 ## see also
 
-- [Atmospheric turbulence overview](../../../02_Zettel/Theory/interf/Atmospheric turbulence overview.md)
-- [Structure function and correlation function](../../../02_Zettel/Theory/interf/Structure function and correlation function.md)
-- [Fried parameter $r_0$](../../../02_Zettel/Theory/interf/Fried parameter $r_0$.md)
-- [Adaptive optics](../../../02_Zettel/Theory/interf/Adaptive optics.md)
-- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Atmospheric turbulence overview](../../../02_Zettel/Theory/interf/Atmospheric turbulence overview.html)
+- [Structure function and correlation function](../../../02_Zettel/Theory/interf/Structure function and correlation function.html)
+- [Fried parameter $r_0$](../../../02_Zettel/Theory/interf/Fried parameter $r_0$.html)
+- [Adaptive optics](../../../02_Zettel/Theory/interf/Adaptive optics.html)
+- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.html)

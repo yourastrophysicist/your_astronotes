@@ -76,12 +76,12 @@ modern strategy: **deep-wide hybrids** (Euclid + LSST) combine moderate depth ov
 
 ## see also
 
-- [Survey resources for Obs Astro](../../02_Zettel/Theory/Survey resources for Obs Astro.md)
-- [SDSS overview](../../02_Zettel/Theory/SDSS overview.md)
+- [Survey resources for Obs Astro](../../02_Zettel/Theory/Survey resources for Obs Astro.html)
+- [SDSS overview](../../02_Zettel/Theory/SDSS overview.html)
 - [Galaxy number counts N(m)](../../02_Zettel/Theory/Galaxy number counts N(m).md)
-- [Photometric redshifts](../../02_Zettel/Theory/Photometric redshifts.md)
-- [UV luminosity function](../../02_Zettel/Theory/UV luminosity function.md)
-- [Madau plot](../../02_Zettel/Theory/Madau plot.md)
-- [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.md)
-- [High-z galaxies with JWST](../../02_Zettel/Theory/High-z galaxies with JWST.md)
-- [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.md)
+- [Photometric redshifts](../../02_Zettel/Theory/Photometric redshifts.html)
+- [UV luminosity function](../../02_Zettel/Theory/UV luminosity function.html)
+- [Madau plot](../../02_Zettel/Theory/Madau plot.html)
+- [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.html)
+- [High-z galaxies with JWST](../../02_Zettel/Theory/High-z galaxies with JWST.html)
+- [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.html)

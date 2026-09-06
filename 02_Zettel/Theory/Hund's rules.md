@@ -62,10 +62,10 @@ physical origins:
 
 ## see also
 
-- [Russell-Saunders LS coupling](../../02_Zettel/Theory/Russell-Saunders LS coupling.md)
-- [Atomic term symbols](../../02_Zettel/Theory/Atomic term symbols.md)
-- [Quantum numbers and atomic states](../../02_Zettel/Theory/Quantum numbers and atomic states.md)
-- [Equivalent vs nonequivalent electrons](../../02_Zettel/Theory/Equivalent vs nonequivalent electrons.md)
-- [Selection rules](../../02_Zettel/Theory/Selection rules.md)
-- [Statistical weight g](../../02_Zettel/Theory/Statistical weight g.md)
-- [Pauli principle and electron configurations](../../02_Zettel/Theory/Pauli principle and electron configurations.md)
+- [Russell-Saunders LS coupling](../../02_Zettel/Theory/Russell-Saunders LS coupling.html)
+- [Atomic term symbols](../../02_Zettel/Theory/Atomic term symbols.html)
+- [Quantum numbers and atomic states](../../02_Zettel/Theory/Quantum numbers and atomic states.html)
+- [Equivalent vs nonequivalent electrons](../../02_Zettel/Theory/Equivalent vs nonequivalent electrons.html)
+- [Selection rules](../../02_Zettel/Theory/Selection rules.html)
+- [Statistical weight g](../../02_Zettel/Theory/Statistical weight g.html)
+- [Pauli principle and electron configurations](../../02_Zettel/Theory/Pauli principle and electron configurations.html)

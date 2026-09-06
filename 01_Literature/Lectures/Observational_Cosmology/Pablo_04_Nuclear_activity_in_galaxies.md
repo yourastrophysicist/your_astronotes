@@ -5,7 +5,7 @@ title: "Pablo_04_Nuclear_activity_in_galaxies"
 
 # Pablo lecture 2 — nuclear activity in galaxies
 
-up: [Observational_Cosmology_MOC](../../../00_Atlas/Observational_Cosmology_MOC.md)
+up: [Observational_Cosmology_MOC](../../../00_Atlas/Observational_Cosmology_MOC.html)
 date: 2026-04-16
 lecturer: Pablo Pérez-González (visiting)
 
@@ -28,7 +28,7 @@ AGN are detected using different methods at different wavelengths, which is why 
 ### what normal galaxies look like, for contrast
 
 - **evolved stellar populations**: absorption-dominated, smooth continuum, Ca K, G-band, Mg b. from Jorgensen et al. (2005).
-- **young stellar populations**: emission lines from HII regions — Hα, Hβ, Hγ, [OII], [OIII], [NII], [SII]. narrow, low-velocity. this is what we used [H-alpha SFR tracer](../../../02_Zettel/Theory/H-alpha SFR tracer.md) and [OII SFR tracer](../../../02_Zettel/Theory/OII SFR tracer.md) for in the previous lecture.
+- **young stellar populations**: emission lines from HII regions — Hα, Hβ, Hγ, [OII], [OIII], [NII], [SII]. narrow, low-velocity. this is what we used [H-alpha SFR tracer](../../../02_Zettel/Theory/H-alpha SFR tracer.html) and [OII SFR tracer](../../../02_Zettel/Theory/OII SFR tracer.html) for in the previous lecture.
 
 ### AGN spectra — why they're immediately different
 
@@ -58,7 +58,7 @@ AGN: **at least 400 km/s, up to several thousand km/s**. the gas is moving much 
 
 2. **broad line region (BLR)**: v = 1,000–10,000 km/s. allowed lines only — Balmer series, HeI, HeII. no forbidden lines because the gas is too dense. see Broad line region.
 
-3. the combined spectrum can also show **star formation lines** coexisting with AGN features — disentangling AGN from SF in the same galaxy is a persistent headache (connects directly to [Pablo_03_Star_formation_in_galaxies](../../../01_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.md)).
+3. the combined spectrum can also show **star formation lines** coexisting with AGN features — disentangling AGN from SF in the same galaxy is a persistent headache (connects directly to [Pablo_03_Star_formation_in_galaxies](../../../01_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html)).
 
 ### the SED across the entire electromagnetic spectrum
 
@@ -77,7 +77,7 @@ AGN: **at least 400 km/s, up to several thousand km/s**. the gas is moving much 
 | X-ray | power-law | corona, IC scattering |
 | Compton hump (~10–30 keV) | broad bump | reflection off cold material |
 
-compare to the SEDs from [Pablo_02_Statistical_properties_of_galaxies](../../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.md): an elliptical peaks in the NIR, a disk galaxy has UV+FIR, a starburst is FIR-dominated, a ULIRG is extreme FIR. the AGN SED is flatter and broader than any of them.
+compare to the SEDs from [Pablo_02_Statistical_properties_of_galaxies](../../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html): an elliptical peaks in the NIR, a disk galaxy has UV+FIR, a starburst is FIR-dominated, a ULIRG is extreme FIR. the AGN SED is flatter and broader than any of them.
 
 **UV/blue bump**: featureless blue continuum, especially visible in Sy 1s (Mrk 231, Polletta et al. 2007).
 
@@ -96,7 +96,7 @@ the X-ray spectrum (Risaliti & Elvis 2004) contains:
 
 absorption column densities $N_H$ span from $10^{21.5}$ to >$10^{25}$ cm⁻² (Gilli 2007). at $\log N_H > 24$ → **Compton-thick**: soft X-rays completely absorbed, only hard X-rays and the iron line + Compton hump get through. see AGN X-ray spectrum.
 
-this connects directly to [Lab_High-Energy_MOC](../../../00_Atlas/Lab_High-Energy_MOC.md) — the instruments that detect these features (Chandra, XMM-Newton, NuSTAR) are the ones from the instrumentation course.
+this connects directly to [Lab_High-Energy_MOC](../../../00_Atlas/Lab_High-Energy_MOC.html) — the instruments that detect these features (Chandra, XMM-Newton, NuSTAR) are the ones from the instrumentation course.
 
 high-resolution X-ray spectroscopy resolves individual lines: O VII Heα, O VIII Lyα/Lyβ, Ne X Lyα, Mg XI Heα, Fe XVII, NeIX Heα triplet, Fe XX/XXI. future missions (IXO-class) will do this routinely.
 
@@ -169,13 +169,13 @@ example: NGC 1052 — strong Na I λ5890,5896, [S II] λ6716,6731, Ca II H&K, G 
 
 ### ULIRGs and the starburst-AGN connection
 
-starburst galaxies aren't AGN, but intense star formation and nuclear activity often coexist — possibly sharing a common origin. connects directly to [LIRGs ULIRGs HyLIRGs](../../../02_Zettel/Theory/LIRGs ULIRGs HyLIRGs.md) from the previous lecture.
+starburst galaxies aren't AGN, but intense star formation and nuclear activity often coexist — possibly sharing a common origin. connects directly to [LIRGs ULIRGs HyLIRGs](../../../02_Zettel/Theory/LIRGs ULIRGs HyLIRGs.html) from the previous lecture.
 
 ULIRGs show very intense AGN that could explain much of their IR luminosity, but also have extreme star formation. as IR luminosity increases (Sanders & Mirabel 1996): the Sy 1 + Sy 2 fraction grows dramatically while the HII-region fraction drops.
 
 ### BPT diagram — the diagnostic tool
 
-Baldwin, Phillips & Terlevich (BPT) diagram. this is how you actually separate AGN from star-forming galaxies in practice. see [BPT diagram](../../../02_Zettel/Theory/BPT diagram.md).
+Baldwin, Phillips & Terlevich (BPT) diagram. this is how you actually separate AGN from star-forming galaxies in practice. see [BPT diagram](../../../02_Zettel/Theory/BPT diagram.html).
 
 - x-axis: $\log([\text{NII}]\,\lambda 6583 / \text{H}\alpha)$, or $\log([\text{SII}]\,\lambda\lambda 6718,6731 / \text{H}\alpha)$, or $\log([\text{OI}]\,\lambda 6300 / \text{H}\alpha)$
 - y-axis: $\log([\text{OIII}]\,\lambda 5007 / \text{H}\beta)$
@@ -368,7 +368,7 @@ the model isn't perfect. Pablo lists:
 
 new BH in star-forming clouds → BH grows, stars form → energy output blasts away gas clouds (quenching SF) → BH accretes remaining gas unobscured → QSO luminosity fades → **dormant black hole**, fuel used up.
 
-this connects the AGN to the host galaxy's star formation history — exactly what [Pablo_03_Star_formation_in_galaxies](../../../01_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.md) was building toward.
+this connects the AGN to the host galaxy's star formation history — exactly what [Pablo_03_Star_formation_in_galaxies](../../../01_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html) was building toward.
 
 ## AGN and galaxy evolution — the cosmological significance
 
@@ -446,12 +446,12 @@ Event Horizon Telescope imaged the SMBH shadow in M87 ($\sim 6.5 \times 10^9$ M�
 
 ## connections
 
-- previous lecture: [Pablo_03_Star_formation_in_galaxies](../../../01_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.md)
-- accretion physics from the instrumentation side: [Lab_High-Energy_MOC](../../../00_Atlas/Lab_High-Energy_MOC.md)
-- mergers and ULIRGs: [LIRGs ULIRGs HyLIRGs](../../../02_Zettel/Theory/LIRGs ULIRGs HyLIRGs.md)
-- SFR tracers contaminated by AGN: [Radio SFR tracer](../../../02_Zettel/Theory/Radio SFR tracer.md), [X-ray SFR tracer](../../../02_Zettel/Theory/X-ray SFR tracer.md)
+- previous lecture: [Pablo_03_Star_formation_in_galaxies](../../../01_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html)
+- accretion physics from the instrumentation side: [Lab_High-Energy_MOC](../../../00_Atlas/Lab_High-Energy_MOC.html)
+- mergers and ULIRGs: [LIRGs ULIRGs HyLIRGs](../../../02_Zettel/Theory/LIRGs ULIRGs HyLIRGs.html)
+- SFR tracers contaminated by AGN: [Radio SFR tracer](../../../02_Zettel/Theory/Radio SFR tracer.html), [X-ray SFR tracer](../../../02_Zettel/Theory/X-ray SFR tracer.html)
 - the mind map of everything: Interests_MOC
-- MOC: [Observational_Cosmology_MOC](../../../00_Atlas/Observational_Cosmology_MOC.md)
+- MOC: [Observational_Cosmology_MOC](../../../00_Atlas/Observational_Cosmology_MOC.html)
 
 ## key references
 

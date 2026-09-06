@@ -66,12 +66,12 @@ if confirmed: a **direct probe** of physics beyond the Standard Model (e.g. dark
 
 ## see also
 
-- [Brief thermal history](../../02_Zettel/Theory/Brief thermal history.md)
-- [Transition epochs](../../02_Zettel/Theory/Transition epochs.md)
-- [Big Bang nucleosynthesis](../../02_Zettel/Theory/Big Bang nucleosynthesis.md)
-- [Inflation overview](../../02_Zettel/Theory/Inflation overview.md)
-- [Cosmological inflation](../../02_Zettel/Theory/Cosmological inflation.md)
-- [Decoupling](../../02_Zettel/Theory/Decoupling.md)
-- [Baryogenesis](../../02_Zettel/Theory/Baryogenesis.md)
-- [Standard model problems](../../02_Zettel/Theory/Standard model problems.md)
-- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md)
+- [Brief thermal history](../../02_Zettel/Theory/Brief thermal history.html)
+- [Transition epochs](../../02_Zettel/Theory/Transition epochs.html)
+- [Big Bang nucleosynthesis](../../02_Zettel/Theory/Big Bang nucleosynthesis.html)
+- [Inflation overview](../../02_Zettel/Theory/Inflation overview.html)
+- [Cosmological inflation](../../02_Zettel/Theory/Cosmological inflation.html)
+- [Decoupling](../../02_Zettel/Theory/Decoupling.html)
+- [Baryogenesis](../../02_Zettel/Theory/Baryogenesis.html)
+- [Standard model problems](../../02_Zettel/Theory/Standard model problems.html)
+- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html)

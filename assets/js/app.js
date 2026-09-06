@@ -265,4 +265,20 @@ document.addEventListener('DOMContentLoaded', () => {
       if (rightSidebar) rightSidebar.classList.add('is-hidden');
     }
   }
+
+  // --- 4. Automatic .md to .html Link Rewriter ---
+  document.addEventListener('click', (e) => {
+    const link = e.target.closest('a');
+    if (link && link.href) {
+      try {
+        const url = new URL(link.href, window.location.origin);
+        if (url.origin === window.location.origin && url.pathname.endsWith('.md')) {
+          e.preventDefault();
+          url.pathname = url.pathname.replace(/\.md$/, '.html');
+          window.location.href = url.pathname + url.search + url.hash;
+        }
+      } catch (err) {}
+    }
+  });
 });
+

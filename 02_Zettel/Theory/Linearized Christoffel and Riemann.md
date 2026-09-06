@@ -57,12 +57,12 @@ post-Newtonian (PN) expansion goes to higher order systematically. for binary in
 
 ## see also
 
-- [Linearized metric perturbation](../../02_Zettel/Theory/Linearized metric perturbation.md)
-- [Linearized gauge transformations](../../02_Zettel/Theory/Linearized gauge transformations.md)
-- [Trace-reversed perturbation](../../02_Zettel/Theory/Trace-reversed perturbation.md)
-- [Lorenz gauge](../../02_Zettel/Theory/Lorenz gauge.md)
-- [Newtonian limit of GR](../../02_Zettel/Theory/Newtonian limit of GR.md)
+- [Linearized metric perturbation](../../02_Zettel/Theory/Linearized metric perturbation.html)
+- [Linearized gauge transformations](../../02_Zettel/Theory/Linearized gauge transformations.html)
+- [Trace-reversed perturbation](../../02_Zettel/Theory/Trace-reversed perturbation.html)
+- [Lorenz gauge](../../02_Zettel/Theory/Lorenz gauge.html)
+- [Newtonian limit of GR](../../02_Zettel/Theory/Newtonian limit of GR.html)
 - Q9 - weak-field Christoffel Gamma_i_00
 - Q10 - weak-field Ricci scalar
-- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.md)
-- [Ch 8 - Gravitational Waves](../../01_Literature/Book/Baumann GR/Ch 8 - Gravitational Waves.md)
+- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.html)
+- [Ch 8 - Gravitational Waves](../../01_Literature/Book/Baumann GR/Ch 8 - Gravitational Waves.html)

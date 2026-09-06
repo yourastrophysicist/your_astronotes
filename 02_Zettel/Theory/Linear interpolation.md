@@ -88,8 +88,8 @@ scipy: `scipy.interpolate.RegularGridInterpolator`.
 
 ## see also
 
-- [Lagrange polynomial interpolation](../../02_Zettel/Theory/Lagrange polynomial interpolation.md)
-- [Cubic spline interpolation](../../02_Zettel/Theory/Cubic spline interpolation.md)
-- [Runge phenomenon](../../02_Zettel/Theory/Runge phenomenon.md)
-- [Trapezoidal rule](../../02_Zettel/Theory/Trapezoidal rule.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Lagrange polynomial interpolation](../../02_Zettel/Theory/Lagrange polynomial interpolation.html)
+- [Cubic spline interpolation](../../02_Zettel/Theory/Cubic spline interpolation.html)
+- [Runge phenomenon](../../02_Zettel/Theory/Runge phenomenon.html)
+- [Trapezoidal rule](../../02_Zettel/Theory/Trapezoidal rule.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

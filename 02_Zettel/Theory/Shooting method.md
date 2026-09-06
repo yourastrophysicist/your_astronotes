@@ -92,8 +92,8 @@ solve $-\psi'' + V(x)\psi = E\psi$ on $[-L, L]$ with $\psi(\pm L) \to 0$. bounda
 
 ## see also
 
-- [Initial value vs boundary value problems](../../02_Zettel/Theory/Initial value vs boundary value problems.md)
-- [Newton-Raphson method](../../02_Zettel/Theory/Newton-Raphson method.md)
-- [Bisection method](../../02_Zettel/Theory/Bisection method.md)
-- [Runge-Kutta 4 method](../../02_Zettel/Theory/Runge-Kutta 4 method.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Initial value vs boundary value problems](../../02_Zettel/Theory/Initial value vs boundary value problems.html)
+- [Newton-Raphson method](../../02_Zettel/Theory/Newton-Raphson method.html)
+- [Bisection method](../../02_Zettel/Theory/Bisection method.html)
+- [Runge-Kutta 4 method](../../02_Zettel/Theory/Runge-Kutta 4 method.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

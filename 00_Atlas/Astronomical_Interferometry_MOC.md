@@ -66,10 +66,10 @@ every zettel follows the same pattern: motivation, math, physical interpretation
 
 before any physics, just *what is this course, who teaches it, what is the exam*.
 
-- [Interferometry course intro](../02_Zettel/Theory/interf/Interferometry course intro.md)  -  instructor, scope, how the optical and radio halves fit together
-- [Interferometry equation sheet](../02_Zettel/Theory/interf/Interferometry equation sheet.md)  -  every formula I might want, organized for fast lookup
-- [Figure bank - interferometry](../02_Zettel/Theory/interf/Figure bank - interferometry.md)  -  visual index for the scientific figures added across the zettels
-- [Why interferometry](../02_Zettel/Theory/interf/Why interferometry.md)  -  the angular-resolution motivation and the science it enables
+- [Interferometry course intro](../02_Zettel/Theory/interf/Interferometry course intro.html)  -  instructor, scope, how the optical and radio halves fit together
+- [Interferometry equation sheet](../02_Zettel/Theory/interf/Interferometry equation sheet.html)  -  every formula I might want, organized for fast lookup
+- [Figure bank - interferometry](../02_Zettel/Theory/interf/Figure bank - interferometry.html)  -  visual index for the scientific figures added across the zettels
+- [Why interferometry](../02_Zettel/Theory/interf/Why interferometry.html)  -  the angular-resolution motivation and the science it enables
 
 ---
 
@@ -77,32 +77,32 @@ before any physics, just *what is this course, who teaches it, what is the exam*
 
 before any interferometer, the underlying physics: light is a wave, waves superpose, superposition produces interference. once we have these in hand, every interferometer is "just" a clever way to make two waves from the same source meet at a detector.
 
-- [Light waves and the EM spectrum](../02_Zettel/Theory/interf/Light waves and the EM spectrum.md)  -  wave nature, $c = \lambda\nu$, refractive index, visible 380-750 nm
-- [Plane waves and Huygens principle](../02_Zettel/Theory/interf/Plane waves and Huygens principle.md)  -  the model of light as a propagating disturbance, Huygens construction for diffraction
-- [Superposition and interference](../02_Zettel/Theory/interf/Superposition and interference.md)  -  adding two waves, Young's two-slit experiment, fringe spacing $\lambda L/d$
-- [Electromagnetic waves and photons](../02_Zettel/Theory/interf/Electromagnetic waves and photons.md)  -  wave-particle duality and why interferometry needs the wave picture
-- [Optical path difference OPD](../02_Zettel/Theory/interf/Optical path difference OPD.md)  -  the master variable that drives the fringe pattern
-- [Fresnel-Arago laws](../02_Zettel/Theory/interf/Fresnel-Arago laws.md)  -  when polarized waves can and cannot interfere
-- [Young experiment as a stellar interferometer](../02_Zettel/Theory/interf/Young experiment as a stellar interferometer.md)  -  Stéphan and Michelson's insight: use the slit experiment on the sky to measure $\theta$
-- [Fringe visibility and contrast](../02_Zettel/Theory/interf/Fringe visibility and contrast.md)  -  $V = (I_{\max} - I_{\min})/(I_{\max} + I_{\min})$, the observable
+- [Light waves and the EM spectrum](../02_Zettel/Theory/interf/Light waves and the EM spectrum.html)  -  wave nature, $c = \lambda\nu$, refractive index, visible 380-750 nm
+- [Plane waves and Huygens principle](../02_Zettel/Theory/interf/Plane waves and Huygens principle.html)  -  the model of light as a propagating disturbance, Huygens construction for diffraction
+- [Superposition and interference](../02_Zettel/Theory/interf/Superposition and interference.html)  -  adding two waves, Young's two-slit experiment, fringe spacing $\lambda L/d$
+- [Electromagnetic waves and photons](../02_Zettel/Theory/interf/Electromagnetic waves and photons.html)  -  wave-particle duality and why interferometry needs the wave picture
+- [Optical path difference OPD](../02_Zettel/Theory/interf/Optical path difference OPD.html)  -  the master variable that drives the fringe pattern
+- [Fresnel-Arago laws](../02_Zettel/Theory/interf/Fresnel-Arago laws.html)  -  when polarized waves can and cannot interfere
+- [Young experiment as a stellar interferometer](../02_Zettel/Theory/interf/Young experiment as a stellar interferometer.html)  -  Stéphan and Michelson's insight: use the slit experiment on the sky to measure $\theta$
+- [Fringe visibility and contrast](../02_Zettel/Theory/interf/Fringe visibility and contrast.html)  -  $V = (I_{\max} - I_{\min})/(I_{\max} + I_{\min})$, the observable
 
 ### block 1.5  -  classical-optics interferometers (D'Onofrio Lezione 1-2)
 
 before astronomical interferometers, the laboratory ones. D'Onofrio's course develops these in detail because every astronomical interferometer is descended from one of them.
 
-- [Wavefront-division interferometers](../02_Zettel/Theory/interf/Wavefront-division interferometers.md)  -  Young, Fresnel double mirror, Fresnel biprism, Lloyd mirror
-- [Amplitude-division interferometers](../02_Zettel/Theory/Amplitude-division interferometers.md)  -  Michelson lab, Mach-Zehnder, Sagnac, Fabry-Perot
-- [Fresnel double mirror](../02_Zettel/Theory/interf/Fresnel double mirror.md)  -  two-mirror geometry producing two virtual sources
-- [Fresnel biprism](../02_Zettel/Theory/interf/Fresnel biprism.md)  -  single prism with two refracting halves
-- [Lloyd mirror](../02_Zettel/Theory/interf/Lloyd mirror.md)  -  single grazing-incidence mirror, the simplest two-source setup
-- [Michelson laboratory interferometer](../02_Zettel/Theory/interf/Michelson laboratory interferometer.md)  -  beam-splitter + two mirrors, the workhorse of metrology
-- [Mach-Zehnder interferometer](../02_Zettel/Theory/interf/Mach-Zehnder interferometer.md)  -  two beam splitters, quantum-information friendly
-- [Sagnac interferometer](../02_Zettel/Theory/interf/Sagnac interferometer.md)  -  counter-propagating beams in a closed loop, rotation-sensitive
-- [Fabry-Perot interferometer](../02_Zettel/Theory/interf/Fabry-Perot interferometer.md)  -  multiple-beam interference between two parallel mirrors
-- [Beam splitter physics](../02_Zettel/Theory/interf/Beam splitter physics.md)  -  partial reflection at a dielectric interface, $\pi$-phase asymmetry
-- [Fringes of equal inclination](../02_Zettel/Theory/interf/Fringes of equal inclination.md)  -  circular fringes from a thin film at varying angles
-- [Fringes of equal thickness](../02_Zettel/Theory/interf/Fringes of equal thickness.md)  -  straight or curved fringes from a wedge film
-- [Newton's rings](../02_Zettel/Theory/interf/Newton's rings.md)  -  concentric fringes from an air gap between a lens and a flat
+- [Wavefront-division interferometers](../02_Zettel/Theory/interf/Wavefront-division interferometers.html)  -  Young, Fresnel double mirror, Fresnel biprism, Lloyd mirror
+- [Amplitude-division interferometers](../02_Zettel/Theory/Amplitude-division interferometers.html)  -  Michelson lab, Mach-Zehnder, Sagnac, Fabry-Perot
+- [Fresnel double mirror](../02_Zettel/Theory/interf/Fresnel double mirror.html)  -  two-mirror geometry producing two virtual sources
+- [Fresnel biprism](../02_Zettel/Theory/interf/Fresnel biprism.html)  -  single prism with two refracting halves
+- [Lloyd mirror](../02_Zettel/Theory/interf/Lloyd mirror.html)  -  single grazing-incidence mirror, the simplest two-source setup
+- [Michelson laboratory interferometer](../02_Zettel/Theory/interf/Michelson laboratory interferometer.html)  -  beam-splitter + two mirrors, the workhorse of metrology
+- [Mach-Zehnder interferometer](../02_Zettel/Theory/interf/Mach-Zehnder interferometer.html)  -  two beam splitters, quantum-information friendly
+- [Sagnac interferometer](../02_Zettel/Theory/interf/Sagnac interferometer.html)  -  counter-propagating beams in a closed loop, rotation-sensitive
+- [Fabry-Perot interferometer](../02_Zettel/Theory/interf/Fabry-Perot interferometer.html)  -  multiple-beam interference between two parallel mirrors
+- [Beam splitter physics](../02_Zettel/Theory/interf/Beam splitter physics.html)  -  partial reflection at a dielectric interface, $\pi$-phase asymmetry
+- [Fringes of equal inclination](../02_Zettel/Theory/interf/Fringes of equal inclination.html)  -  circular fringes from a thin film at varying angles
+- [Fringes of equal thickness](../02_Zettel/Theory/interf/Fringes of equal thickness.html)  -  straight or curved fringes from a wedge film
+- [Newton's rings](../02_Zettel/Theory/interf/Newton's rings.html)  -  concentric fringes from an air gap between a lens and a flat
 
 ---
 
@@ -110,18 +110,18 @@ before astronomical interferometers, the laboratory ones. D'Onofrio's course dev
 
 the formal toolkit of wave optics. coherence is what makes fringes possible. the Van Cittert-Zernike theorem is the single most important result in this course.
 
-- [Fraunhofer diffraction](../02_Zettel/Theory/interf/Fraunhofer diffraction.md)  -  far-field approximation, diffraction integral as a Fourier transform
-- [Diffraction patterns of simple apertures](../02_Zettel/Theory/interf/Diffraction patterns of simple apertures.md)  -  single slit (sinc), circular aperture (Airy), rectangular, double slit
-- [Point spread function](../02_Zettel/Theory/interf/Point spread function.md)  -  the diffraction-limited image of a point source
-- [Optical transfer function](../02_Zettel/Theory/interf/Optical transfer function.md)  -  Fourier transform of the PSF, the spatial-frequency response of an optical system
-- [Abbe experiment and Fourier optics](../02_Zettel/Theory/interf/Abbe experiment and Fourier optics.md)  -  image formation as spatial-frequency selection: aperture cutoff, OTF/MTF, and why resolution is Fourier bandwidth
-- [Coherent vs incoherent imaging](../02_Zettel/Theory/interf/Coherent vs incoherent imaging.md)  -  when waves add as amplitudes vs when they add as intensities
-- [Spatial coherence](../02_Zettel/Theory/interf/Spatial coherence.md)  -  correlation of the wave at two points, what allows fringes between two apertures
-- [Temporal coherence](../02_Zettel/Theory/interf/Temporal coherence.md)  -  correlation in time, sets the maximum optical-path difference for fringes
-- [Wiener-Khinchin theorem](../02_Zettel/Theory/interf/Wiener-Khinchin theorem.md)  -  autocorrelation and power spectrum as Fourier pairs, the bridge between coherence, spectra, and correlators
-- [Coherence function and visibility](../02_Zettel/Theory/interf/Coherence function and visibility.md)  -  the math link: $V = |\gamma_{12}|$ where $\gamma_{12}$ is the normalized cross-correlation
-- [Van Cittert-Zernike theorem](../02_Zettel/Theory/interf/Van Cittert-Zernike theorem.md)  -  **the central theorem**: visibility is the Fourier transform of the source brightness distribution
-- [Photon noise and statistics](../02_Zettel/Theory/interf/Photon noise and statistics.md)  -  Poisson statistics, the photon-noise floor of every interferometric measurement
+- [Fraunhofer diffraction](../02_Zettel/Theory/interf/Fraunhofer diffraction.html)  -  far-field approximation, diffraction integral as a Fourier transform
+- [Diffraction patterns of simple apertures](../02_Zettel/Theory/interf/Diffraction patterns of simple apertures.html)  -  single slit (sinc), circular aperture (Airy), rectangular, double slit
+- [Point spread function](../02_Zettel/Theory/interf/Point spread function.html)  -  the diffraction-limited image of a point source
+- [Optical transfer function](../02_Zettel/Theory/interf/Optical transfer function.html)  -  Fourier transform of the PSF, the spatial-frequency response of an optical system
+- [Abbe experiment and Fourier optics](../02_Zettel/Theory/interf/Abbe experiment and Fourier optics.html)  -  image formation as spatial-frequency selection: aperture cutoff, OTF/MTF, and why resolution is Fourier bandwidth
+- [Coherent vs incoherent imaging](../02_Zettel/Theory/interf/Coherent vs incoherent imaging.html)  -  when waves add as amplitudes vs when they add as intensities
+- [Spatial coherence](../02_Zettel/Theory/interf/Spatial coherence.html)  -  correlation of the wave at two points, what allows fringes between two apertures
+- [Temporal coherence](../02_Zettel/Theory/interf/Temporal coherence.html)  -  correlation in time, sets the maximum optical-path difference for fringes
+- [Wiener-Khinchin theorem](../02_Zettel/Theory/interf/Wiener-Khinchin theorem.html)  -  autocorrelation and power spectrum as Fourier pairs, the bridge between coherence, spectra, and correlators
+- [Coherence function and visibility](../02_Zettel/Theory/interf/Coherence function and visibility.html)  -  the math link: $V = |\gamma_{12}|$ where $\gamma_{12}$ is the normalized cross-correlation
+- [Van Cittert-Zernike theorem](../02_Zettel/Theory/interf/Van Cittert-Zernike theorem.html)  -  **the central theorem**: visibility is the Fourier transform of the source brightness distribution
+- [Photon noise and statistics](../02_Zettel/Theory/interf/Photon noise and statistics.html)  -  Poisson statistics, the photon-noise floor of every interferometric measurement
 
 ---
 
@@ -129,16 +129,16 @@ the formal toolkit of wave optics. coherence is what makes fringes possible. the
 
 the engineering of building an image from many baselines. a single baseline samples one Fourier component; an array samples many; we Fourier-invert. the $(u, v)$ plane and its sampling are the unifying picture.
 
-- [Aperture synthesis principle](../02_Zettel/Theory/interf/Aperture synthesis principle.md)  -  multiple separated apertures = synthetic large aperture, sampling the (u, v) plane
+- [Aperture synthesis principle](../02_Zettel/Theory/interf/Aperture synthesis principle.html)  -  multiple separated apertures = synthetic large aperture, sampling the (u, v) plane
 - [The (u, v) plane](../02_Zettel/Theory/interf/The (u, v) plane.md)  -  projection of baselines on the sky, why Earth rotation makes the sampling track elliptical arcs
-- [Earth-rotation aperture synthesis](../02_Zettel/Theory/interf/Earth-rotation aperture synthesis.md)  -  using Earth's rotation to fill the (u, v) plane over a night
-- [Optimal array geometry](../02_Zettel/Theory/interf/Optimal array geometry.md)  -  circular, Y, T, configurations: tradeoffs between resolution and snapshot fidelity
-- [Dirty beam and dirty image](../02_Zettel/Theory/interf/Dirty beam and dirty image.md)  -  the synthesized PSF and the convolved image straight from the (u, v) data
-- [The phase problem in interferometry](../02_Zettel/Theory/interf/The phase problem in interferometry.md)  -  turbulent atmosphere randomizes phases, why visibility amplitude is preserved but phase is not
-- [Phase closure](../02_Zettel/Theory/interf/Phase closure.md)  -  closure phase of three baselines is atmosphere-independent, the key to optical imaging
-- [Closure amplitude](../02_Zettel/Theory/interf/Closure amplitude.md)  -  closure amplitude of four baselines is gain-independent
-- [Heterodyne vs direct detection](../02_Zettel/Theory/interf/Heterodyne vs direct detection.md)  -  radio mixes signals down to RF before correlation; optical has no oscillators, must combine waves directly
-- [Crowding limitation](../02_Zettel/Theory/interf/Crowding limitation.md)  -  fundamental limit on the field of view for a sparse array, why we cannot image the whole sky at once
+- [Earth-rotation aperture synthesis](../02_Zettel/Theory/interf/Earth-rotation aperture synthesis.html)  -  using Earth's rotation to fill the (u, v) plane over a night
+- [Optimal array geometry](../02_Zettel/Theory/interf/Optimal array geometry.html)  -  circular, Y, T, configurations: tradeoffs between resolution and snapshot fidelity
+- [Dirty beam and dirty image](../02_Zettel/Theory/interf/Dirty beam and dirty image.html)  -  the synthesized PSF and the convolved image straight from the (u, v) data
+- [The phase problem in interferometry](../02_Zettel/Theory/interf/The phase problem in interferometry.html)  -  turbulent atmosphere randomizes phases, why visibility amplitude is preserved but phase is not
+- [Phase closure](../02_Zettel/Theory/interf/Phase closure.html)  -  closure phase of three baselines is atmosphere-independent, the key to optical imaging
+- [Closure amplitude](../02_Zettel/Theory/interf/Closure amplitude.html)  -  closure amplitude of four baselines is gain-independent
+- [Heterodyne vs direct detection](../02_Zettel/Theory/interf/Heterodyne vs direct detection.html)  -  radio mixes signals down to RF before correlation; optical has no oscillators, must combine waves directly
+- [Crowding limitation](../02_Zettel/Theory/interf/Crowding limitation.html)  -  fundamental limit on the field of view for a sparse array, why we cannot image the whole sky at once
 
 ---
 
@@ -146,17 +146,17 @@ the engineering of building an image from many baselines. a single baseline samp
 
 the atmosphere is the worst enemy of optical interferometry and a manageable nuisance for radio. understanding *why* unlocks the techniques to get around it.
 
-- [Atmospheric turbulence overview](../02_Zettel/Theory/interf/Atmospheric turbulence overview.md)  -  the seeing, $r_0$, and isoplanatic patch as observable consequences of atmospheric turbulence
-- [Kolmogorov turbulence](../02_Zettel/Theory/interf/Kolmogorov turbulence.md)  -  the canonical model, $D(r) \propto r^{2/3}$, the inertial range
-- [Structure function and correlation function](../02_Zettel/Theory/interf/Structure function and correlation function.md)  -  $D(r), B(r)$, the statistical descriptors of phase fluctuations
-- [Fried parameter $r_0$](../02_Zettel/Theory/interf/Fried parameter $r_0$.md)  -  the size of the patch over which atmospheric phase is coherent, $r_0 \sim 10$ cm at 500 nm
-- [Isoplanatic patch](../02_Zettel/Theory/interf/Isoplanatic patch.md)  -  the angular size over which the atmospheric distortion is the same, $\theta_0 \sim$ a few arcseconds
-- [Frozen turbulence and Taylor hypothesis](../02_Zettel/Theory/interf/Frozen turbulence and Taylor hypothesis.md)  -  wind sweeping a frozen turbulent screen, the temporal proxy for spatial fluctuations
-- [Scintillation and twinkling](../02_Zettel/Theory/interf/Scintillation and twinkling.md)  -  intensity fluctuations from refraction, the visible "twinkle" of stars
-- [Adaptive optics](../02_Zettel/Theory/interf/Adaptive optics.md)  -  measure the wavefront, deform a mirror, undo the distortion in real time
-- [Wavefront sensors](../02_Zettel/Theory/interf/Wavefront sensors.md)  -  Shack-Hartmann, pyramid, curvature: how I measure the distortion
-- [Deformable mirrors and tip-tilt](../02_Zettel/Theory/interf/Deformable mirrors and tip-tilt.md)  -  the actuator side, how I correct the distortion
-- [Guide stars and laser guide stars](../02_Zettel/Theory/interf/Guide stars and laser guide stars.md)  -  the reference object I lock onto, natural vs sodium-laser
+- [Atmospheric turbulence overview](../02_Zettel/Theory/interf/Atmospheric turbulence overview.html)  -  the seeing, $r_0$, and isoplanatic patch as observable consequences of atmospheric turbulence
+- [Kolmogorov turbulence](../02_Zettel/Theory/interf/Kolmogorov turbulence.html)  -  the canonical model, $D(r) \propto r^{2/3}$, the inertial range
+- [Structure function and correlation function](../02_Zettel/Theory/interf/Structure function and correlation function.html)  -  $D(r), B(r)$, the statistical descriptors of phase fluctuations
+- [Fried parameter $r_0$](../02_Zettel/Theory/interf/Fried parameter $r_0$.html)  -  the size of the patch over which atmospheric phase is coherent, $r_0 \sim 10$ cm at 500 nm
+- [Isoplanatic patch](../02_Zettel/Theory/interf/Isoplanatic patch.html)  -  the angular size over which the atmospheric distortion is the same, $\theta_0 \sim$ a few arcseconds
+- [Frozen turbulence and Taylor hypothesis](../02_Zettel/Theory/interf/Frozen turbulence and Taylor hypothesis.html)  -  wind sweeping a frozen turbulent screen, the temporal proxy for spatial fluctuations
+- [Scintillation and twinkling](../02_Zettel/Theory/interf/Scintillation and twinkling.html)  -  intensity fluctuations from refraction, the visible "twinkle" of stars
+- [Adaptive optics](../02_Zettel/Theory/interf/Adaptive optics.html)  -  measure the wavefront, deform a mirror, undo the distortion in real time
+- [Wavefront sensors](../02_Zettel/Theory/interf/Wavefront sensors.html)  -  Shack-Hartmann, pyramid, curvature: how I measure the distortion
+- [Deformable mirrors and tip-tilt](../02_Zettel/Theory/interf/Deformable mirrors and tip-tilt.html)  -  the actuator side, how I correct the distortion
+- [Guide stars and laser guide stars](../02_Zettel/Theory/interf/Guide stars and laser guide stars.html)  -  the reference object I lock onto, natural vs sodium-laser
 
 ---
 
@@ -164,11 +164,11 @@ the atmosphere is the worst enemy of optical interferometry and a manageable nui
 
 before full interferometry, there are tricks to push a single telescope past the seeing-limited resolution. these are the historical precursors and still useful today.
 
-- [Speckle interferometry](../02_Zettel/Theory/interf/Speckle interferometry.md)  -  short exposures freeze the seeing, autocorrelation recovers the diffraction-limited power spectrum
-- [Theory of speckle interferometry](../02_Zettel/Theory/interf/Theory of speckle interferometry.md)  -  the Labeyrie 1970 derivation, the speckle transfer function
-- [Aperture masking](../02_Zettel/Theory/interf/Aperture masking.md)  -  block all but a few patches of the primary, turn the telescope into a multi-element interferometer
-- [Speckle imaging algorithms](../02_Zettel/Theory/interf/Speckle imaging algorithms.md)  -  Knox-Thompson and triple-correlation (bispectrum) phase reconstruction
-- [Bispectrum and triple correlation](../02_Zettel/Theory/interf/Bispectrum and triple correlation.md)  -  the closure-phase analog for single-aperture work, recovers an image from speckle data
+- [Speckle interferometry](../02_Zettel/Theory/interf/Speckle interferometry.html)  -  short exposures freeze the seeing, autocorrelation recovers the diffraction-limited power spectrum
+- [Theory of speckle interferometry](../02_Zettel/Theory/interf/Theory of speckle interferometry.html)  -  the Labeyrie 1970 derivation, the speckle transfer function
+- [Aperture masking](../02_Zettel/Theory/interf/Aperture masking.html)  -  block all but a few patches of the primary, turn the telescope into a multi-element interferometer
+- [Speckle imaging algorithms](../02_Zettel/Theory/interf/Speckle imaging algorithms.html)  -  Knox-Thompson and triple-correlation (bispectrum) phase reconstruction
+- [Bispectrum and triple correlation](../02_Zettel/Theory/interf/Bispectrum and triple correlation.html)  -  the closure-phase analog for single-aperture work, recovers an image from speckle data
 
 ---
 
@@ -176,11 +176,11 @@ before full interferometry, there are tricks to push a single telescope past the
 
 a different beast: correlate intensity fluctuations rather than wave amplitudes. relaxes the phase-stability requirements at the cost of much lower sensitivity. invented by Hanbury Brown and Twiss for stellar diameters.
 
-- [Intensity interferometry concept](../02_Zettel/Theory/interf/Intensity interferometry concept.md)  -  the HBT effect, $\langle I_1 I_2\rangle - \langle I_1\rangle\langle I_2\rangle \neq 0$ for a coherent source
-- [Hanbury Brown Twiss effect](../02_Zettel/Theory/interf/Hanbury Brown Twiss effect.md)  -  the foundational experiment, classical and quantum interpretations
-- [Narrabri stellar interferometer](../02_Zettel/Theory/interf/Narrabri stellar interferometer.md)  -  the first instrument that systematically measured stellar diameters this way
-- [Why intensity interferometry escapes atmospheric phase](../02_Zettel/Theory/interf/Why intensity interferometry escapes atmospheric phase.md)  -  only intensity correlations are needed; the atmosphere randomizes the wave phase but preserves the intensity correlation
-- [Sensitivity and modern revival](../02_Zettel/Theory/interf/Sensitivity and modern revival.md)  -  IACT arrays (CTA, VERITAS) revisiting the technique with modern photon-counting detectors
+- [Intensity interferometry concept](../02_Zettel/Theory/interf/Intensity interferometry concept.html)  -  the HBT effect, $\langle I_1 I_2\rangle - \langle I_1\rangle\langle I_2\rangle \neq 0$ for a coherent source
+- [Hanbury Brown Twiss effect](../02_Zettel/Theory/interf/Hanbury Brown Twiss effect.html)  -  the foundational experiment, classical and quantum interpretations
+- [Narrabri stellar interferometer](../02_Zettel/Theory/interf/Narrabri stellar interferometer.html)  -  the first instrument that systematically measured stellar diameters this way
+- [Why intensity interferometry escapes atmospheric phase](../02_Zettel/Theory/interf/Why intensity interferometry escapes atmospheric phase.html)  -  only intensity correlations are needed; the atmosphere randomizes the wave phase but preserves the intensity correlation
+- [Sensitivity and modern revival](../02_Zettel/Theory/interf/Sensitivity and modern revival.html)  -  IACT arrays (CTA, VERITAS) revisiting the technique with modern photon-counting detectors
 
 ---
 
@@ -188,17 +188,17 @@ a different beast: correlate intensity fluctuations rather than wave amplitudes.
 
 the workhorses: optical/IR interferometers that combine wave amplitudes from separated apertures. each has its quirks, and knowing them is what the exam tests.
 
-- [Michelson stellar interferometer](../02_Zettel/Theory/interf/Michelson stellar interferometer.md)  -  the historical first, 20-foot beam at Mt Wilson, Betelgeuse's diameter (1920)
-- [Components of a modern interferometer](../02_Zettel/Theory/interf/Components of a modern interferometer.md)  -  telescopes, beam lines, delay lines, beam combiners, fringe trackers
-- [Delay lines and path-length equalization](../02_Zettel/Theory/interf/Delay lines and path-length equalization.md)  -  keeping the optical path lengths matched to within the coherence length
-- [Beam combiners](../02_Zettel/Theory/Beam combiners.md)  -  pairwise (Michelson), all-on-one (Fizeau), single-mode-fiber, integrated-optics
-- [Fringe tracking](../02_Zettel/Theory/interf/Fringe tracking.md)  -  actively locking onto the fringe to compensate for atmospheric and mechanical drift
-- [VLTI Very Large Telescope Interferometer](../02_Zettel/Theory/interf/VLTI Very Large Telescope Interferometer.md)  -  ESO's 4 × 8m + 4 × 1.8m, baselines 8-130 m, IR
-- [CHARA array](../02_Zettel/Theory/interf/CHARA array.md)  -  Mt Wilson, six 1m telescopes, 33-330 m baselines, the workhorse for stellar surface imaging
-- [Large Binocular Telescope LBT](../02_Zettel/Theory/interf/Large Binocular Telescope LBT.md)  -  two 8m mirrors on one mount, Fizeau-style imaging
-- [COAST Cambridge Optical Aperture Synthesis Telescope](../02_Zettel/Theory/interf/COAST Cambridge Optical Aperture Synthesis Telescope.md)  -  small but historically significant, first true optical aperture synthesis image
-- [NPOI Navy Prototype Optical Interferometer](../02_Zettel/Theory/interf/NPOI Navy Prototype Optical Interferometer.md)  -  astrometric and imaging instrument
-- [Keck interferometer](../02_Zettel/Theory/interf/Keck interferometer.md)  -  twin 10m telescopes, now decommissioned
+- [Michelson stellar interferometer](../02_Zettel/Theory/interf/Michelson stellar interferometer.html)  -  the historical first, 20-foot beam at Mt Wilson, Betelgeuse's diameter (1920)
+- [Components of a modern interferometer](../02_Zettel/Theory/interf/Components of a modern interferometer.html)  -  telescopes, beam lines, delay lines, beam combiners, fringe trackers
+- [Delay lines and path-length equalization](../02_Zettel/Theory/interf/Delay lines and path-length equalization.html)  -  keeping the optical path lengths matched to within the coherence length
+- [Beam combiners](../02_Zettel/Theory/Beam combiners.html)  -  pairwise (Michelson), all-on-one (Fizeau), single-mode-fiber, integrated-optics
+- [Fringe tracking](../02_Zettel/Theory/interf/Fringe tracking.html)  -  actively locking onto the fringe to compensate for atmospheric and mechanical drift
+- [VLTI Very Large Telescope Interferometer](../02_Zettel/Theory/interf/VLTI Very Large Telescope Interferometer.html)  -  ESO's 4 × 8m + 4 × 1.8m, baselines 8-130 m, IR
+- [CHARA array](../02_Zettel/Theory/interf/CHARA array.html)  -  Mt Wilson, six 1m telescopes, 33-330 m baselines, the workhorse for stellar surface imaging
+- [Large Binocular Telescope LBT](../02_Zettel/Theory/interf/Large Binocular Telescope LBT.html)  -  two 8m mirrors on one mount, Fizeau-style imaging
+- [COAST Cambridge Optical Aperture Synthesis Telescope](../02_Zettel/Theory/interf/COAST Cambridge Optical Aperture Synthesis Telescope.html)  -  small but historically significant, first true optical aperture synthesis image
+- [NPOI Navy Prototype Optical Interferometer](../02_Zettel/Theory/interf/NPOI Navy Prototype Optical Interferometer.html)  -  astrometric and imaging instrument
+- [Keck interferometer](../02_Zettel/Theory/interf/Keck interferometer.html)  -  twin 10m telescopes, now decommissioned
 
 ---
 
@@ -206,22 +206,22 @@ the workhorses: optical/IR interferometers that combine wave amplitudes from sep
 
 the parallel universe. radio observations have it easier (no daytime brightness, Earth-rotation aperture synthesis works perfectly, electronics can heterodyne) but harder (huge antennas needed for sensitivity, RFI). the techniques are the same, the practical implementation completely different.
 
-- [Radio astronomy basics](../02_Zettel/Theory/interf/Radio astronomy basics.md)  -  Jansky, antenna temperature, brightness temperature, radio quiet zones, Allen-Mills
-- [Specific intensity and flux density](../02_Zettel/Theory/interf/Specific intensity and flux density.md)  -  the language of radio sources: $I_\nu$, $S_\nu$, Jansky, beam integration, and brightness temperature
-- [Antenna effective area and gain](../02_Zettel/Theory/interf/Antenna effective area and gain.md)  -  how a dish turns an electromagnetic wave into measurable power, with $A_{\rm e}$, gain, and aperture efficiency
-- [Beam power pattern of a radio telescope](../02_Zettel/Theory/interf/Beam power pattern of a radio telescope.md)  -  primary beam, beam solid angle, Gaussian beams, and why every antenna measures a weighted sky
-- [Radiometer equation and SEFD](../02_Zettel/Theory/interf/Radiometer equation and SEFD.md)  -  sensitivity from noise statistics: $T_{\rm sys}$, SEFD, bandwidth, integration time, and array RMS
-- [Radio interferometer architecture](../02_Zettel/Theory/interf/Radio interferometer architecture.md)  -  antennas, LO, mixer, correlator, the heterodyne chain
-- [Downconversion of signals in radio interferometers](../02_Zettel/Theory/interf/Downconversion of signals in radio interferometers.md)  -  why radio arrays preserve phase by mixing sky frequencies down to IF before digitization
-- [Digitization quantization and timing in radio interferometry](../02_Zettel/Theory/interf/Digitization quantization and timing in radio interferometry.md)  -  sampling, quantization efficiency, time standards, and why correlators need synchronized data streams
-- [Two-element correlator](../02_Zettel/Theory/interf/Two-element correlator.md)  -  the building block: multiply and time-average two voltages
-- [Connected element interferometer](../02_Zettel/Theory/interf/Connected element interferometer.md)  -  VLA-style, baselines fixed by cabling
-- [Very Long Baseline Interferometry VLBI](../02_Zettel/Theory/interf/Very Long Baseline Interferometry VLBI.md)  -  antennas around the world, atomic clocks, post-correlation, EVN, VLBA
-- [Earth rotation synthesis in radio](../02_Zettel/Theory/interf/Earth rotation synthesis in radio.md)  -  VLA's 12-hour tracks, ALMA's hour-long ones
-- [ALMA exposure time calculator and sensitivity](../02_Zettel/Theory/interf/ALMA exposure time calculator and sensitivity.md)  -  how observing setup becomes expected RMS through array size, weather, bandwidth, and integration time
-- [Major radio interferometers](../02_Zettel/Theory/interf/Major radio interferometers.md)  -  VLA, ALMA, EVN, MERLIN, ATCA, GMRT, LOFAR, MeerKAT, SKA
-- [Event Horizon Telescope EHT](../02_Zettel/Theory/interf/Event Horizon Telescope EHT.md)  -  the highest-resolution interferometer ever built, M87 and Sgr A*
-- [Pulsar timing arrays as interferometers](../02_Zettel/Theory/interf/Pulsar timing arrays as interferometers.md)  -  NANOGrav, EPTA, PPTA: nanosecond-level timing across many pulsars as a galactic-scale GW detector
+- [Radio astronomy basics](../02_Zettel/Theory/interf/Radio astronomy basics.html)  -  Jansky, antenna temperature, brightness temperature, radio quiet zones, Allen-Mills
+- [Specific intensity and flux density](../02_Zettel/Theory/interf/Specific intensity and flux density.html)  -  the language of radio sources: $I_\nu$, $S_\nu$, Jansky, beam integration, and brightness temperature
+- [Antenna effective area and gain](../02_Zettel/Theory/interf/Antenna effective area and gain.html)  -  how a dish turns an electromagnetic wave into measurable power, with $A_{\rm e}$, gain, and aperture efficiency
+- [Beam power pattern of a radio telescope](../02_Zettel/Theory/interf/Beam power pattern of a radio telescope.html)  -  primary beam, beam solid angle, Gaussian beams, and why every antenna measures a weighted sky
+- [Radiometer equation and SEFD](../02_Zettel/Theory/interf/Radiometer equation and SEFD.html)  -  sensitivity from noise statistics: $T_{\rm sys}$, SEFD, bandwidth, integration time, and array RMS
+- [Radio interferometer architecture](../02_Zettel/Theory/interf/Radio interferometer architecture.html)  -  antennas, LO, mixer, correlator, the heterodyne chain
+- [Downconversion of signals in radio interferometers](../02_Zettel/Theory/interf/Downconversion of signals in radio interferometers.html)  -  why radio arrays preserve phase by mixing sky frequencies down to IF before digitization
+- [Digitization quantization and timing in radio interferometry](../02_Zettel/Theory/interf/Digitization quantization and timing in radio interferometry.html)  -  sampling, quantization efficiency, time standards, and why correlators need synchronized data streams
+- [Two-element correlator](../02_Zettel/Theory/interf/Two-element correlator.html)  -  the building block: multiply and time-average two voltages
+- [Connected element interferometer](../02_Zettel/Theory/interf/Connected element interferometer.html)  -  VLA-style, baselines fixed by cabling
+- [Very Long Baseline Interferometry VLBI](../02_Zettel/Theory/interf/Very Long Baseline Interferometry VLBI.html)  -  antennas around the world, atomic clocks, post-correlation, EVN, VLBA
+- [Earth rotation synthesis in radio](../02_Zettel/Theory/interf/Earth rotation synthesis in radio.html)  -  VLA's 12-hour tracks, ALMA's hour-long ones
+- [ALMA exposure time calculator and sensitivity](../02_Zettel/Theory/interf/ALMA exposure time calculator and sensitivity.html)  -  how observing setup becomes expected RMS through array size, weather, bandwidth, and integration time
+- [Major radio interferometers](../02_Zettel/Theory/interf/Major radio interferometers.html)  -  VLA, ALMA, EVN, MERLIN, ATCA, GMRT, LOFAR, MeerKAT, SKA
+- [Event Horizon Telescope EHT](../02_Zettel/Theory/interf/Event Horizon Telescope EHT.html)  -  the highest-resolution interferometer ever built, M87 and Sgr A*
+- [Pulsar timing arrays as interferometers](../02_Zettel/Theory/interf/Pulsar timing arrays as interferometers.html)  -  NANOGrav, EPTA, PPTA: nanosecond-level timing across many pulsars as a galactic-scale GW detector
 
 ---
 
@@ -229,18 +229,18 @@ the parallel universe. radio observations have it easier (no daytime brightness,
 
 raw visibilities are not images. the path from voltages to a science-ready image is calibration → flagging → deconvolution → self-calibration → cleaning. this block covers the algorithmic side.
 
-- [Calibration overview](../02_Zettel/Theory/interf/Calibration overview.md)  -  bandpass, flux, phase calibrators, the ABC of radio reduction
-- [Steps in radio interferometric observations](../02_Zettel/Theory/interf/Steps in radio interferometric observations.md)  -  the full observing story: science goal, setup, calibrators, flagging, calibration, imaging, and validation
-- [Bandpass calibration](../02_Zettel/Theory/interf/Bandpass calibration.md)  -  flatten the frequency response of each antenna
-- [Flux calibration](../02_Zettel/Theory/interf/Flux calibration.md)  -  anchor the absolute scale to a known source (3C 286, 3C 48)
-- [Phase referencing](../02_Zettel/Theory/interf/Phase referencing.md)  -  alternate between the science target and a nearby calibrator to track atmospheric/instrumental phase
-- [Self-calibration](../02_Zettel/Theory/interf/Self-calibration.md)  -  use the data on the science target to refine the gain and phase solutions iteratively
-- [CLEAN algorithm](../02_Zettel/Theory/interf/CLEAN algorithm.md)  -  the iterative point-source deconvolution, Högbom 1974
-- [Maximum entropy method](../02_Zettel/Theory/Maximum entropy method.md)  -  the Bayesian alternative for extended sources, Cornwell-Evans
-- [Deconvolution algorithms compared](../02_Zettel/Theory/interf/Deconvolution algorithms compared.md)  -  CLEAN vs MEM vs modern Bayesian (regularized maximum likelihood)
-- [Imaging artifacts](../02_Zettel/Theory/interf/Imaging artifacts.md)  -  sidelobes, sidelobe confusion, primary beam attenuation, what they look like and how to avoid them
-- [Polarization in interferometry](../02_Zettel/Theory/interf/Polarization in interferometry.md)  -  Stokes parameters, parallel-hand and cross-hand correlations, Faraday rotation
-- [Mosaicking](../02_Zettel/Theory/interf/Mosaicking.md)  -  combining multiple pointings to map a region larger than the primary beam
+- [Calibration overview](../02_Zettel/Theory/interf/Calibration overview.html)  -  bandpass, flux, phase calibrators, the ABC of radio reduction
+- [Steps in radio interferometric observations](../02_Zettel/Theory/interf/Steps in radio interferometric observations.html)  -  the full observing story: science goal, setup, calibrators, flagging, calibration, imaging, and validation
+- [Bandpass calibration](../02_Zettel/Theory/interf/Bandpass calibration.html)  -  flatten the frequency response of each antenna
+- [Flux calibration](../02_Zettel/Theory/interf/Flux calibration.html)  -  anchor the absolute scale to a known source (3C 286, 3C 48)
+- [Phase referencing](../02_Zettel/Theory/interf/Phase referencing.html)  -  alternate between the science target and a nearby calibrator to track atmospheric/instrumental phase
+- [Self-calibration](../02_Zettel/Theory/interf/Self-calibration.html)  -  use the data on the science target to refine the gain and phase solutions iteratively
+- [CLEAN algorithm](../02_Zettel/Theory/interf/CLEAN algorithm.html)  -  the iterative point-source deconvolution, Högbom 1974
+- [Maximum entropy method](../02_Zettel/Theory/Maximum entropy method.html)  -  the Bayesian alternative for extended sources, Cornwell-Evans
+- [Deconvolution algorithms compared](../02_Zettel/Theory/interf/Deconvolution algorithms compared.html)  -  CLEAN vs MEM vs modern Bayesian (regularized maximum likelihood)
+- [Imaging artifacts](../02_Zettel/Theory/interf/Imaging artifacts.html)  -  sidelobes, sidelobe confusion, primary beam attenuation, what they look like and how to avoid them
+- [Polarization in interferometry](../02_Zettel/Theory/interf/Polarization in interferometry.html)  -  Stokes parameters, parallel-hand and cross-hand correlations, Faraday rotation
+- [Mosaicking](../02_Zettel/Theory/interf/Mosaicking.html)  -  combining multiple pointings to map a region larger than the primary beam
 
 ---
 
@@ -248,11 +248,11 @@ raw visibilities are not images. the path from voltages to a science-ready image
 
 interferometry-adjacent techniques for high-contrast imaging and pushing the resolution further.
 
-- [Nulling interferometry](../02_Zettel/Theory/interf/Nulling interferometry.md)  -  destructive on-axis interference suppresses bright stars, lets faint companions through
-- [Bracewell nuller](../02_Zettel/Theory/interf/Bracewell nuller.md)  -  the original 1978 idea: phase-flip half the array to null the central star
-- [Coronagraphy](../02_Zettel/Theory/interf/Coronagraphy.md)  -  block the starlight before it reaches the detector. Lyot, phase-mask, four-quadrant, vortex
-- [Apodization](../02_Zettel/Theory/interf/Apodization.md)  -  taper the aperture amplitude or phase to suppress diffraction wings
-- [Hypertelescope](../02_Zettel/Theory/interf/Hypertelescope.md)  -  Labeyrie's idea: pupil densification turns sparse-array interferometry into direct imaging
+- [Nulling interferometry](../02_Zettel/Theory/interf/Nulling interferometry.html)  -  destructive on-axis interference suppresses bright stars, lets faint companions through
+- [Bracewell nuller](../02_Zettel/Theory/interf/Bracewell nuller.html)  -  the original 1978 idea: phase-flip half the array to null the central star
+- [Coronagraphy](../02_Zettel/Theory/interf/Coronagraphy.html)  -  block the starlight before it reaches the detector. Lyot, phase-mask, four-quadrant, vortex
+- [Apodization](../02_Zettel/Theory/interf/Apodization.html)  -  taper the aperture amplitude or phase to suppress diffraction wings
+- [Hypertelescope](../02_Zettel/Theory/interf/Hypertelescope.html)  -  Labeyrie's idea: pupil densification turns sparse-array interferometry into direct imaging
 
 ---
 
@@ -260,18 +260,18 @@ interferometry-adjacent techniques for high-contrast imaging and pushing the res
 
 what we have actually learned with this technique. organized roughly by source class.
 
-- [Stellar diameters and limb darkening](../02_Zettel/Theory/interf/Stellar diameters and limb darkening.md)  -  the canonical first measurement, Michelson 1920 → CHARA 2010s
-- [Stellar surface imaging](../02_Zettel/Theory/interf/Stellar surface imaging.md)  -  spots, hot spots, granulation; Altair, Vega, Betelgeuse imaged
-- [Pulsating stars and Mira variables](../02_Zettel/Theory/interf/Pulsating stars and Mira variables.md)  -  diameter changes with pulsation phase
-- [Young stellar object disks](../02_Zettel/Theory/interf/Young stellar object disks.md)  -  inner-disk imaging, dust-sublimation radius measurements
-- [Dust shells and Wolf-Rayet stars](../02_Zettel/Theory/interf/Dust shells and Wolf-Rayet stars.md)  -  circumstellar geometry of mass-losing stars
-- [Binary star orbits](../02_Zettel/Theory/interf/Binary star orbits.md)  -  astrometric orbits at sub-mas precision, dynamical masses
-- [Galactic Center Sgr A and S-stars](../02_Zettel/Theory/interf/Galactic Center Sgr A and S-stars.md)  -  VLTI's GRAVITY: orbits of S-stars around Sgr A*, test of GR
-- [AGN and supermassive black holes](../02_Zettel/Theory/interf/AGN and supermassive black holes.md)  -  EHT's M87 and Sgr A* shadow images, jet bases
-- [Exoplanet imaging](../02_Zettel/Theory/interf/Exoplanet imaging.md)  -  high-contrast direct detection, atmosphere characterization
-- [Cosmological masers](../02_Zettel/Theory/interf/Cosmological masers.md)  -  VLBI of water masers in NGC 4258, geometric distance measurement
-- [Pulsar interferometry](../02_Zettel/Theory/interf/Pulsar interferometry.md)  -  timing-array gravitational waves, pulsar position astrometry
-- [Radiation mechanisms in astronomy and interferometers](../02_Zettel/Theory/interf/Radiation mechanisms in astronomy and interferometers.md)  -  thermal dust, free-free, synchrotron, spectral lines, and masers as the physical origin of the brightness maps
+- [Stellar diameters and limb darkening](../02_Zettel/Theory/interf/Stellar diameters and limb darkening.html)  -  the canonical first measurement, Michelson 1920 → CHARA 2010s
+- [Stellar surface imaging](../02_Zettel/Theory/interf/Stellar surface imaging.html)  -  spots, hot spots, granulation; Altair, Vega, Betelgeuse imaged
+- [Pulsating stars and Mira variables](../02_Zettel/Theory/interf/Pulsating stars and Mira variables.html)  -  diameter changes with pulsation phase
+- [Young stellar object disks](../02_Zettel/Theory/interf/Young stellar object disks.html)  -  inner-disk imaging, dust-sublimation radius measurements
+- [Dust shells and Wolf-Rayet stars](../02_Zettel/Theory/interf/Dust shells and Wolf-Rayet stars.html)  -  circumstellar geometry of mass-losing stars
+- [Binary star orbits](../02_Zettel/Theory/interf/Binary star orbits.html)  -  astrometric orbits at sub-mas precision, dynamical masses
+- [Galactic Center Sgr A and S-stars](../02_Zettel/Theory/interf/Galactic Center Sgr A and S-stars.html)  -  VLTI's GRAVITY: orbits of S-stars around Sgr A*, test of GR
+- [AGN and supermassive black holes](../02_Zettel/Theory/interf/AGN and supermassive black holes.html)  -  EHT's M87 and Sgr A* shadow images, jet bases
+- [Exoplanet imaging](../02_Zettel/Theory/interf/Exoplanet imaging.html)  -  high-contrast direct detection, atmosphere characterization
+- [Cosmological masers](../02_Zettel/Theory/interf/Cosmological masers.html)  -  VLBI of water masers in NGC 4258, geometric distance measurement
+- [Pulsar interferometry](../02_Zettel/Theory/interf/Pulsar interferometry.html)  -  timing-array gravitational waves, pulsar position astrometry
+- [Radiation mechanisms in astronomy and interferometers](../02_Zettel/Theory/interf/Radiation mechanisms in astronomy and interferometers.html)  -  thermal dust, free-free, synchrotron, spectral lines, and masers as the physical origin of the brightness maps
 
 ---
 
@@ -279,11 +279,11 @@ what we have actually learned with this technique. organized roughly by source c
 
 ground-based and space-based instruments under development or planned.
 
-- [Future ground-based optical](../02_Zettel/Theory/interf/Future ground-based optical.md)  -  OVLA, CARLINA hypertelescopes, OHANA fiber-link
-- [Future space-based](../02_Zettel/Theory/interf/Future space-based.md)  -  Darwin, TPF, SIM, the Exo-Earth Imager
-- [The Square Kilometre Array SKA](../02_Zettel/Theory/interf/The Square Kilometre Array SKA.md)  -  the next-generation radio array, two sites, cm-to-m wavelengths
-- [ngVLA Next Generation VLA](../02_Zettel/Theory/interf/ngVLA Next Generation VLA.md)  -  NRAO's mid-frequency successor to VLA, 2030s
-- [Lunar interferometry concepts](../02_Zettel/Theory/interf/Lunar interferometry concepts.md)  -  far-side of the Moon as the radio-quietest place in the inner solar system
+- [Future ground-based optical](../02_Zettel/Theory/interf/Future ground-based optical.html)  -  OVLA, CARLINA hypertelescopes, OHANA fiber-link
+- [Future space-based](../02_Zettel/Theory/interf/Future space-based.html)  -  Darwin, TPF, SIM, the Exo-Earth Imager
+- [The Square Kilometre Array SKA](../02_Zettel/Theory/interf/The Square Kilometre Array SKA.html)  -  the next-generation radio array, two sites, cm-to-m wavelengths
+- [ngVLA Next Generation VLA](../02_Zettel/Theory/interf/ngVLA Next Generation VLA.html)  -  NRAO's mid-frequency successor to VLA, 2030s
+- [Lunar interferometry concepts](../02_Zettel/Theory/interf/Lunar interferometry concepts.html)  -  far-side of the Moon as the radio-quietest place in the inner solar system
 
 ---
 
@@ -308,12 +308,12 @@ every interferometry exam question maps to one of these boxes. recognising the b
 
 ## related MOCs and where this work leaks into
 
-- [Observational_Cosmology_MOC](../00_Atlas/Observational_Cosmology_MOC.md)  -  radio surveys, ALMA continuum studies of high-$z$ galaxies
-- [Lab_High-Energy_MOC](../00_Atlas/Lab_High-Energy_MOC.md)  -  instrumentation, calibration philosophy carries across wavelengths
-- [Mathematical_Numerical_Methods_MOC](../00_Atlas/Mathematical_Numerical_Methods_MOC.md)  -  FFT and image-deconvolution algorithms
-- [Fundamentals_Astrophysics_Cosmology_MOC](../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)  -  angular-diameter distance, Tolman surface brightness
-- [General_Relativity_MOC](../00_Atlas/General_Relativity_MOC.md)  -  EHT and S-star tests of GR
-- [Voyage!](../Voyage!.md)  -  the master mind-map
+- [Observational_Cosmology_MOC](../00_Atlas/Observational_Cosmology_MOC.html)  -  radio surveys, ALMA continuum studies of high-$z$ galaxies
+- [Lab_High-Energy_MOC](../00_Atlas/Lab_High-Energy_MOC.html)  -  instrumentation, calibration philosophy carries across wavelengths
+- [Mathematical_Numerical_Methods_MOC](../00_Atlas/Mathematical_Numerical_Methods_MOC.html)  -  FFT and image-deconvolution algorithms
+- [Fundamentals_Astrophysics_Cosmology_MOC](../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)  -  angular-diameter distance, Tolman surface brightness
+- [General_Relativity_MOC](../00_Atlas/General_Relativity_MOC.html)  -  EHT and S-star tests of GR
+- [Voyage!](../Voyage!.html)  -  the master mind-map
 
 ---
 

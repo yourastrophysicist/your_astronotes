@@ -30,7 +30,7 @@ each tensor index brings one Christoffel correction with appropriate sign.
 - **Leibniz**: $\nabla(A\otimes B) = (\nabla A)\otimes B + A\otimes(\nabla B)$.
 - **respects contractions**: $\nabla(\delta^\mu_\nu) = 0$.
 - **on scalars**: $\nabla_\mu \phi = \partial_\mu \phi$ (no Christoffel needed; scalars are tensors of rank 0).
-- **metric compatibility**: $\nabla_\rho g_{\mu\nu} = 0$ (see [Metric compatibility](../../02_Zettel/Theory/Metric compatibility.md)).
+- **metric compatibility**: $\nabla_\rho g_{\mu\nu} = 0$ (see [Metric compatibility](../../02_Zettel/Theory/Metric compatibility.html)).
 
 ## why we need it
 
@@ -70,12 +70,12 @@ for symbolic work, SymPy + GraviPy or Mathematica + xAct handle this automatical
 
 ## see also
 
-- [Christoffel symbols](../../02_Zettel/Theory/Christoffel symbols.md)
-- [Levi-Civita connection](../../02_Zettel/Theory/Levi-Civita connection.md)
-- [Metric compatibility](../../02_Zettel/Theory/Metric compatibility.md)
-- [Riemann tensor](../../02_Zettel/Theory/Riemann tensor.md)
-- [Coordinate transformations and tensors](../../02_Zettel/Theory/Coordinate transformations and tensors.md)
+- [Christoffel symbols](../../02_Zettel/Theory/Christoffel symbols.html)
+- [Levi-Civita connection](../../02_Zettel/Theory/Levi-Civita connection.html)
+- [Metric compatibility](../../02_Zettel/Theory/Metric compatibility.html)
+- [Riemann tensor](../../02_Zettel/Theory/Riemann tensor.html)
+- [Coordinate transformations and tensors](../../02_Zettel/Theory/Coordinate transformations and tensors.html)
 - Q3 - covariant derivatives in polar
 - Q4 - metric compatibility on the 2-sphere
-- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.md)
-- [Ch 2 - Some Differential Geometry](../../01_Literature/Book/Baumann GR/Ch 2 - Some Differential Geometry.md)
+- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.html)
+- [Ch 2 - Some Differential Geometry](../../01_Literature/Book/Baumann GR/Ch 2 - Some Differential Geometry.html)

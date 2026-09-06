@@ -68,7 +68,7 @@ $$\Delta t_i = \eta \sqrt{\frac{|\mathbf{a}_i|}{|\ddot{\mathbf{a}}_i|}}$$
 
 with $\eta \sim 0.02$ a tuning parameter. each particle has its own timestep, scaled with the local dynamical timescale. close encounters get tiny $\Delta t$; particles in the cluster halo get large $\Delta t$. typically combined with **block timesteps** (each particle's step is $2^{-k}$ for some integer $k$) to allow synchronization.
 
-this is the workhorse of collisional N-body codes: NBODY6, NBODY7, KIRA. [Adaptive step size control](../../02_Zettel/Theory/Adaptive step size control.md) discusses the general framework.
+this is the workhorse of collisional N-body codes: NBODY6, NBODY7, KIRA. [Adaptive step size control](../../02_Zettel/Theory/Adaptive step size control.html) discusses the general framework.
 
 ## comparison with leapfrog
 
@@ -98,9 +98,9 @@ leapfrog wins for energy conservation over $10^9$ orbits at fixed timestep. Herm
 
 ## see also
 
-- [Leapfrog integrator](../../02_Zettel/Theory/Leapfrog integrator.md)
-- [Runge-Kutta 4 method](../../02_Zettel/Theory/Runge-Kutta 4 method.md)
-- [Astrophysical N-body problem formulation](../../02_Zettel/Theory/Astrophysical N-body problem formulation.md)
-- [Adaptive step size control](../../02_Zettel/Theory/Adaptive step size control.md)
-- [Energy conservation as a diagnostic](../../02_Zettel/Theory/Energy conservation as a diagnostic.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Leapfrog integrator](../../02_Zettel/Theory/Leapfrog integrator.html)
+- [Runge-Kutta 4 method](../../02_Zettel/Theory/Runge-Kutta 4 method.html)
+- [Astrophysical N-body problem formulation](../../02_Zettel/Theory/Astrophysical N-body problem formulation.html)
+- [Adaptive step size control](../../02_Zettel/Theory/Adaptive step size control.html)
+- [Energy conservation as a diagnostic](../../02_Zettel/Theory/Energy conservation as a diagnostic.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

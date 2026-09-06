@@ -5,7 +5,7 @@ title: "IR SFR tracer"
 
 # IR SFR tracer
 
-up: [Pablo_03_Star_formation_in_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.md)
+up: [Pablo_03_Star_formation_in_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html)
 
 ## the principle
 
@@ -50,11 +50,11 @@ this additive recipe (Bell 2005, Kennicutt 2009) is the best single-galaxy SFR i
 
 ## connections
 
-- the partner: [UV SFR tracer](../../02_Zettel/Theory/UV SFR tracer.md)
-- replacement without FIR: [UV slope and IRX-beta relation](../../02_Zettel/Theory/UV slope and IRX-beta relation.md)
-- extreme IR-bright objects: [LIRGs ULIRGs HyLIRGs](../../02_Zettel/Theory/LIRGs ULIRGs HyLIRGs.md)
-- comparison: [SFR tracer comparison](../../02_Zettel/Theory/SFR tracer comparison.md)
-- integral: [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.md)
+- the partner: [UV SFR tracer](../../02_Zettel/Theory/UV SFR tracer.html)
+- replacement without FIR: [UV slope and IRX-beta relation](../../02_Zettel/Theory/UV slope and IRX-beta relation.html)
+- extreme IR-bright objects: [LIRGs ULIRGs HyLIRGs](../../02_Zettel/Theory/LIRGs ULIRGs HyLIRGs.html)
+- comparison: [SFR tracer comparison](../../02_Zettel/Theory/SFR tracer comparison.html)
+- integral: [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.html)
 
 ## key references
 

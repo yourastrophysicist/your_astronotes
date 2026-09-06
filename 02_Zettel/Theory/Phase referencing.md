@@ -43,5 +43,5 @@ Phase referencing is the standard, unavoidable technique for all connected-eleme
 
 ## connections & zettel links
 
-* parent moc: [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.md)
-* related zettels: [The phase problem in interferometry](../../02_Zettel/Theory/interf/The phase problem in interferometry.md), [Self-calibration](../../02_Zettel/Theory/interf/Self-calibration.md), [Isoplanatic patch](../../02_Zettel/Theory/interf/Isoplanatic patch.md), [Steps in radio interferometric observations](../../02_Zettel/Theory/interf/Steps in radio interferometric observations.md)
+* parent moc: [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.html)
+* related zettels: [The phase problem in interferometry](../../02_Zettel/Theory/interf/The phase problem in interferometry.html), [Self-calibration](../../02_Zettel/Theory/interf/Self-calibration.html), [Isoplanatic patch](../../02_Zettel/Theory/interf/Isoplanatic patch.html), [Steps in radio interferometric observations](../../02_Zettel/Theory/interf/Steps in radio interferometric observations.html)

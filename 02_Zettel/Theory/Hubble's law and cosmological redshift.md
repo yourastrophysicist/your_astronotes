@@ -21,7 +21,7 @@ Edwin Hubble plotted the observed velocities of nearby galaxies against their di
 - $H_0 = 67.4 \pm 0.5$ km/s/Mpc (Planck CMB)
 - $H_0 = 73.04 \pm 1.04$ km/s/Mpc (SH0ES local)
 
-→ the ongoing **Hubble tension**, see [Hubble constant and deceleration parameter](../../02_Zettel/Theory/Hubble constant and deceleration parameter.md).
+→ the ongoing **Hubble tension**, see [Hubble constant and deceleration parameter](../../02_Zettel/Theory/Hubble constant and deceleration parameter.html).
 
 ---
 
@@ -76,7 +76,7 @@ $$v = H_0 d$$
 
 → Hubble's law is a *direct consequence* of the universe expanding uniformly.
 
-→ see [Hubble law derivation low-z](../../02_Zettel/Theory/Hubble law derivation low-z.md).
+→ see [Hubble law derivation low-z](../../02_Zettel/Theory/Hubble law derivation low-z.html).
 
 ---
 
@@ -91,7 +91,7 @@ with $q_0$ the deceleration parameter. measuring $d_L(z)$ at high z fits the cos
 
 → this is what was measured for SN Ia in 1998 (Perlmutter, Riess, Schmidt), discovering dark energy.
 
-→ see [Hubble law exact form](../../02_Zettel/Theory/Hubble law exact form.md) and [Cosmic_inventory_dark_energy](../../02_Zettel/Theory/Cosmic_inventory_dark_energy.md).
+→ see [Hubble law exact form](../../02_Zettel/Theory/Hubble law exact form.html) and [Cosmic_inventory_dark_energy](../../02_Zettel/Theory/Cosmic_inventory_dark_energy.html).
 
 ---
 
@@ -106,7 +106,7 @@ modern spectroscopy can measure $z$ to precision $\delta z/z \sim 10^{-4}$ for b
 - **Lyman break**: the absorption discontinuity at 1216 Å in the rest frame
 - **photometric redshifts**: SED fitting to broadband photometry (much less precise but applicable to fainter sources)
 
-→ see [Photometric redshifts](../../02_Zettel/Theory/Photometric redshifts.md).
+→ see [Photometric redshifts](../../02_Zettel/Theory/Photometric redshifts.html).
 
 ---
 
@@ -124,12 +124,12 @@ without $z$, you have no idea where in the universe (or in cosmic history) an ob
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Parallax and standard candles](../../02_Zettel/Theory/Parallax and standard candles.md)
-- [Cepheids and supernovae](../../02_Zettel/Theory/Cepheids and supernovae.md)
-- [Hubble law derivation low-z](../../02_Zettel/Theory/Hubble law derivation low-z.md)
-- [Hubble law exact form](../../02_Zettel/Theory/Hubble law exact form.md)
-- [Hubble constant and deceleration parameter](../../02_Zettel/Theory/Hubble constant and deceleration parameter.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Parallax and standard candles](../../02_Zettel/Theory/Parallax and standard candles.html)
+- [Cepheids and supernovae](../../02_Zettel/Theory/Cepheids and supernovae.html)
+- [Hubble law derivation low-z](../../02_Zettel/Theory/Hubble law derivation low-z.html)
+- [Hubble law exact form](../../02_Zettel/Theory/Hubble law exact form.html)
+- [Hubble constant and deceleration parameter](../../02_Zettel/Theory/Hubble constant and deceleration parameter.html)
 - 03_Zettel/Theory/Cosmological distances
 - 03_Zettel/Theory/Robertson-Walker metric
-- [Cosmic_inventory_dark_energy](../../02_Zettel/Theory/Cosmic_inventory_dark_energy.md)
+- [Cosmic_inventory_dark_energy](../../02_Zettel/Theory/Cosmic_inventory_dark_energy.html)

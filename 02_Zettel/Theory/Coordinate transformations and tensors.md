@@ -40,7 +40,7 @@ $$\partial'_\mu V'^\nu = \partial'_\mu\!\left(\frac{\partial x'^\nu}{\partial x^
 
 the second term spoils the transformation law. so the partial derivative of a tensor is **not** a tensor.
 
-the cure: replace $\partial$ with the **covariant derivative** $\nabla$, which adds a Christoffel-symbol correction to cancel this extra term. see [Covariant derivative](../../02_Zettel/Theory/Covariant derivative.md).
+the cure: replace $\partial$ with the **covariant derivative** $\nabla$, which adds a Christoffel-symbol correction to cancel this extra term. see [Covariant derivative](../../02_Zettel/Theory/Covariant derivative.html).
 
 ## examples to know
 
@@ -54,10 +54,10 @@ the cure: replace $\partial$ with the **covariant derivative** $\nabla$, which a
 
 ## see also
 
-- [Manifold metric and signature](../../02_Zettel/Theory/Manifold metric and signature.md)
-- [Christoffel symbols](../../02_Zettel/Theory/Christoffel symbols.md)
-- [Covariant derivative](../../02_Zettel/Theory/Covariant derivative.md)
-- [Riemann tensor](../../02_Zettel/Theory/Riemann tensor.md)
-- [Stress-energy tensor](../../02_Zettel/Theory/Stress-energy tensor.md)
-- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.md)
-- [Ch 2 - Some Differential Geometry](../../01_Literature/Book/Baumann GR/Ch 2 - Some Differential Geometry.md)
+- [Manifold metric and signature](../../02_Zettel/Theory/Manifold metric and signature.html)
+- [Christoffel symbols](../../02_Zettel/Theory/Christoffel symbols.html)
+- [Covariant derivative](../../02_Zettel/Theory/Covariant derivative.html)
+- [Riemann tensor](../../02_Zettel/Theory/Riemann tensor.html)
+- [Stress-energy tensor](../../02_Zettel/Theory/Stress-energy tensor.html)
+- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.html)
+- [Ch 2 - Some Differential Geometry](../../01_Literature/Book/Baumann GR/Ch 2 - Some Differential Geometry.html)

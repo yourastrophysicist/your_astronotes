@@ -122,9 +122,9 @@ source: ESO image eso9811a, VLTI delay line schematic.
 
 ## see also
 
-- [Components of a modern interferometer](../../02_Zettel/Theory/interf/Components of a modern interferometer.md)
-- [CHARA array](../../02_Zettel/Theory/interf/CHARA array.md)
-- [Adaptive optics](../../02_Zettel/Theory/interf/Adaptive optics.md)
-- [Fringe tracking](../../02_Zettel/Theory/interf/Fringe tracking.md)
-- [Galactic Center Sgr A and S-stars](../../02_Zettel/Theory/interf/Galactic Center Sgr A and S-stars.md)
-- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Components of a modern interferometer](../../02_Zettel/Theory/interf/Components of a modern interferometer.html)
+- [CHARA array](../../02_Zettel/Theory/interf/CHARA array.html)
+- [Adaptive optics](../../02_Zettel/Theory/interf/Adaptive optics.html)
+- [Fringe tracking](../../02_Zettel/Theory/interf/Fringe tracking.html)
+- [Galactic Center Sgr A and S-stars](../../02_Zettel/Theory/interf/Galactic Center Sgr A and S-stars.html)
+- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.html)

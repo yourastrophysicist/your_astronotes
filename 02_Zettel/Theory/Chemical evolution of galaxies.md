@@ -5,7 +5,7 @@ title: "Chemical evolution of galaxies"
 
 # chemical evolution of galaxies
 
-up: [Pablo_03_Star_formation_in_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.md)
+up: [Pablo_03_Star_formation_in_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html)
 
 ## the question
 
@@ -71,11 +71,11 @@ interpretation: feedback-driven outflow efficiency depends on $M_h$ → shallowe
 
 ## connections
 
-- stellar yields depend on: [Initial mass function](../../02_Zettel/Theory/Initial mass function.md)
-- enriches with: [Starburst galaxies](../../02_Zettel/Theory/Starburst galaxies.md), [LIRGs ULIRGs HyLIRGs](../../02_Zettel/Theory/LIRGs ULIRGs HyLIRGs.md)
-- measured via: Lick indices in [Stellar population synthesis](../../02_Zettel/Theory/Stellar population synthesis.md)
-- context for SED fitting: [SED fitting for SFH](../../02_Zettel/Theory/SED fitting for SFH.md)
-- cosmological driver: [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.md)
+- stellar yields depend on: [Initial mass function](../../02_Zettel/Theory/Initial mass function.html)
+- enriches with: [Starburst galaxies](../../02_Zettel/Theory/Starburst galaxies.html), [LIRGs ULIRGs HyLIRGs](../../02_Zettel/Theory/LIRGs ULIRGs HyLIRGs.html)
+- measured via: Lick indices in [Stellar population synthesis](../../02_Zettel/Theory/Stellar population synthesis.html)
+- context for SED fitting: [SED fitting for SFH](../../02_Zettel/Theory/SED fitting for SFH.html)
+- cosmological driver: [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.html)
 
 ## key references
 

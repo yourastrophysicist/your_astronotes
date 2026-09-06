@@ -46,23 +46,23 @@ among all terms allowed by an electron configuration, the lowest-energy one (the
 
 so for $C$ ($2p^2$): possible terms $^3P, ^1D, ^1S$. highest $S = 1$ $\to$ $^3P$. shell less than half $\to$ $J = 0$. ground state $^3P_0$.
 
-see [Hund's rules](../../02_Zettel/Theory/Hund's rules.md) for the full statement.
+see [Hund's rules](../../02_Zettel/Theory/Hund's rules.html) for the full statement.
 
 ## when LS coupling breaks down
 
 for heavy atoms ($Z \gtrsim 80$), spin-orbit becomes comparable to or larger than spin-spin and orbit-orbit. in this case, individual $\vec j_i$ couple first:
 $$\vec j_i = \vec\ell_i + \vec s_i$$
-then $\vec J = \sum_i \vec j_i$. this is **jj coupling** ([jj coupling](../../02_Zettel/Theory/jj coupling.md)).
+then $\vec J = \sum_i \vec j_i$. this is **jj coupling** ([jj coupling](../../02_Zettel/Theory/jj coupling.html)).
 
 intermediate-coupling cases are common in mid-$Z$ elements (Fe-peak elements in stars), where neither LS nor jj is strictly valid; the state is a quantum-mechanical mixture.
 
 ## see also
 
-- [Quantum numbers and atomic states](../../02_Zettel/Theory/Quantum numbers and atomic states.md)
-- [jj coupling](../../02_Zettel/Theory/jj coupling.md)
-- [Atomic term symbols](../../02_Zettel/Theory/Atomic term symbols.md)
-- [Hund's rules](../../02_Zettel/Theory/Hund's rules.md)
-- [Selection rules](../../02_Zettel/Theory/Selection rules.md)
-- [Statistical weight g](../../02_Zettel/Theory/Statistical weight g.md)
-- [Hydrogen spectral series](../../02_Zettel/Theory/Hydrogen spectral series.md)
-- [Helium energy levels](../../02_Zettel/Theory/Helium energy levels.md)
+- [Quantum numbers and atomic states](../../02_Zettel/Theory/Quantum numbers and atomic states.html)
+- [jj coupling](../../02_Zettel/Theory/jj coupling.html)
+- [Atomic term symbols](../../02_Zettel/Theory/Atomic term symbols.html)
+- [Hund's rules](../../02_Zettel/Theory/Hund's rules.html)
+- [Selection rules](../../02_Zettel/Theory/Selection rules.html)
+- [Statistical weight g](../../02_Zettel/Theory/Statistical weight g.html)
+- [Hydrogen spectral series](../../02_Zettel/Theory/Hydrogen spectral series.html)
+- [Helium energy levels](../../02_Zettel/Theory/Helium energy levels.html)

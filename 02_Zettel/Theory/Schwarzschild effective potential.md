@@ -39,7 +39,7 @@ the **innermost stable circular orbit**. inside ISCO, no stable circular orbit. 
 for photons (null geodesics), no rest-mass term:
 $$\dot r^2 = E^2 - V_{\rm eff}^{\rm null}(r), \quad V_{\rm eff}^{\rm null}(r) = \left(1 - \frac{2GM}{r}\right)\frac{L^2}{r^2}$$
 
-extremum at $r = 3GM$: the **photon sphere**. unstable circular photon orbit. see [Photon sphere](../../02_Zettel/Theory/Photon sphere.md).
+extremum at $r = 3GM$: the **photon sphere**. unstable circular photon orbit. see [Photon sphere](../../02_Zettel/Theory/Photon sphere.html).
 
 ## visualisation
 
@@ -57,12 +57,12 @@ GR adds the $-GMl^2/r^3$ term. at small $r$, this dominates $L^2/r^2$, eating aw
 
 ## see also
 
-- [Schwarzschild metric](../../02_Zettel/Theory/Schwarzschild metric.md)
-- [Effective potential approach](../../02_Zettel/Theory/Effective potential approach.md)
-- [Circular orbits in Schwarzschild](../../02_Zettel/Theory/Circular orbits in Schwarzschild.md)
-- [Photon sphere](../../02_Zettel/Theory/Photon sphere.md)
-- [Photon trajectories and impact parameter](../../02_Zettel/Theory/Photon trajectories and impact parameter.md)
-- [Killing vectors and conserved quantities](../../02_Zettel/Theory/Killing vectors and conserved quantities.md)
+- [Schwarzschild metric](../../02_Zettel/Theory/Schwarzschild metric.html)
+- [Effective potential approach](../../02_Zettel/Theory/Effective potential approach.html)
+- [Circular orbits in Schwarzschild](../../02_Zettel/Theory/Circular orbits in Schwarzschild.html)
+- [Photon sphere](../../02_Zettel/Theory/Photon sphere.html)
+- [Photon trajectories and impact parameter](../../02_Zettel/Theory/Photon trajectories and impact parameter.html)
+- [Killing vectors and conserved quantities](../../02_Zettel/Theory/Killing vectors and conserved quantities.html)
 - Q12 - circular orbits and orbital frequency
-- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.md)
-- [Ch 6 - Black Holes](../../01_Literature/Book/Baumann GR/Ch 6 - Black Holes.md)
+- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.html)
+- [Ch 6 - Black Holes](../../01_Literature/Book/Baumann GR/Ch 6 - Black Holes.html)

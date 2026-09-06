@@ -112,7 +112,7 @@ a transformative era for radio astronomy.
 
 ## see also
 
-- [Major radio interferometers](../../02_Zettel/Theory/interf/Major radio interferometers.md)
-- [The Square Kilometre Array SKA](../../02_Zettel/Theory/interf/The Square Kilometre Array SKA.md)
-- [Very Long Baseline Interferometry VLBI](../../02_Zettel/Theory/interf/Very Long Baseline Interferometry VLBI.md)
-- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Major radio interferometers](../../02_Zettel/Theory/interf/Major radio interferometers.html)
+- [The Square Kilometre Array SKA](../../02_Zettel/Theory/interf/The Square Kilometre Array SKA.html)
+- [Very Long Baseline Interferometry VLBI](../../02_Zettel/Theory/interf/Very Long Baseline Interferometry VLBI.html)
+- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.html)

@@ -76,11 +76,11 @@ active debate. JWST + Euclid + ELT + DESI will help discriminate.
 
 ## see also
 
-- [Cosmic_inventory_dark_matter](../../02_Zettel/Theory/Cosmic_inventory_dark_matter.md)
-- [Dark matter rotation curves](../../02_Zettel/Theory/Dark matter rotation curves.md)
-- [Tully-Fisher relation](../../02_Zettel/Theory/Tully-Fisher relation.md)
-- [Dark matter in dwarf galaxies](../../02_Zettel/Theory/Dark matter in dwarf galaxies.md)
-- [Lensing as a cosmological probe](../../02_Zettel/Theory/Lensing as a cosmological probe.md)
-- [Galaxy clusters and overview of evolution](../../02_Zettel/Theory/Galaxy clusters and overview of evolution.md)
-- [ΛCDM current parameters](../../02_Zettel/Theory/ΛCDM current parameters.md)
-- [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.md)
+- [Cosmic_inventory_dark_matter](../../02_Zettel/Theory/Cosmic_inventory_dark_matter.html)
+- [Dark matter rotation curves](../../02_Zettel/Theory/Dark matter rotation curves.html)
+- [Tully-Fisher relation](../../02_Zettel/Theory/Tully-Fisher relation.html)
+- [Dark matter in dwarf galaxies](../../02_Zettel/Theory/Dark matter in dwarf galaxies.html)
+- [Lensing as a cosmological probe](../../02_Zettel/Theory/Lensing as a cosmological probe.html)
+- [Galaxy clusters and overview of evolution](../../02_Zettel/Theory/Galaxy clusters and overview of evolution.html)
+- [ΛCDM current parameters](../../02_Zettel/Theory/ΛCDM current parameters.html)
+- [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.html)

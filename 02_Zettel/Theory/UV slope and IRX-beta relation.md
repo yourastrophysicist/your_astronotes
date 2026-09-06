@@ -5,7 +5,7 @@ title: "UV slope and IRX-beta relation"
 
 # UV slope and IRX-beta relation
 
-up: [Pablo_03_Star_formation_in_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.md) · [UV SFR tracer](../../02_Zettel/Theory/UV SFR tracer.md)
+up: [Pablo_03_Star_formation_in_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html) · [UV SFR tracer](../../02_Zettel/Theory/UV SFR tracer.html)
 
 ## the UV slope
 
@@ -43,10 +43,10 @@ at $z = 4$–$10$, rest-frame UV sits in HST/JWST bands, and the β-IRX relation
 
 ## connections
 
-- definition: [UV SFR tracer](../../02_Zettel/Theory/UV SFR tracer.md)
-- dust models underlying it: [Dust attenuation and extinction curves](../../02_Zettel/Theory/Dust attenuation and extinction curves.md)
-- IR partner: [IR SFR tracer](../../02_Zettel/Theory/IR SFR tracer.md)
-- cross-checks: [SFR tracer comparison](../../02_Zettel/Theory/SFR tracer comparison.md)
+- definition: [UV SFR tracer](../../02_Zettel/Theory/UV SFR tracer.html)
+- dust models underlying it: [Dust attenuation and extinction curves](../../02_Zettel/Theory/Dust attenuation and extinction curves.html)
+- IR partner: [IR SFR tracer](../../02_Zettel/Theory/IR SFR tracer.html)
+- cross-checks: [SFR tracer comparison](../../02_Zettel/Theory/SFR tracer comparison.html)
 
 ## key references
 

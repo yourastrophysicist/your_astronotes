@@ -42,7 +42,7 @@ this directly shifts the slope of the Hubble diagram, illustrating why high-prec
 
 ## see also
 
-- [Interstellar reddening and the reddening vector](../../02_Zettel/Theory/Interstellar reddening and the reddening vector.md)
-- [Interstellar absorption](../../02_Zettel/Theory/Interstellar absorption.md)
-- [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.md)
-- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.md)
+- [Interstellar reddening and the reddening vector](../../02_Zettel/Theory/Interstellar reddening and the reddening vector.html)
+- [Interstellar absorption](../../02_Zettel/Theory/Interstellar absorption.html)
+- [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.html)
+- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.html)

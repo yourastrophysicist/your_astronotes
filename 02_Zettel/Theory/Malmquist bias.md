@@ -5,7 +5,7 @@ title: "Malmquist bias"
 
 # malmquist bias
 
-up: [Pablo_02_Statistical_properties_of_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.md)
+up: [Pablo_02_Statistical_properties_of_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html)
 
 ## the bias in one sentence
 
@@ -32,10 +32,10 @@ at the sample boundary; it grows worse as you get closer to the limit.
 if you do not correct for Malmquist:
 
 - mean galaxy luminosity rises with $z$ → fake luminosity evolution
-- the [Schechter function](../../02_Zettel/Theory/Schechter function.md) $L^*$ moves to higher luminosity at high $z$ → fake $L^*$ evolution
+- the [Schechter function](../../02_Zettel/Theory/Schechter function.html) $L^*$ moves to higher luminosity at high $z$ → fake $L^*$ evolution
 - standard candles get *brighter* at large distance → biased $H_0$ if uncorrected
 
-most modern analyses use [1Vmax estimator](../../02_Zettel/Theory/1Vmax estimator.md) or maximum-likelihood (Sandage-Tammann-Yahil 1979) techniques to invert the bias rather than trying to apply a correction. the principle is the same: weight each source by the inverse volume in which it could have been detected.
+most modern analyses use [1Vmax estimator](../../02_Zettel/Theory/1Vmax estimator.html) or maximum-likelihood (Sandage-Tammann-Yahil 1979) techniques to invert the bias rather than trying to apply a correction. the principle is the same: weight each source by the inverse volume in which it could have been detected.
 
 ## a related effect: eddington bias
 
@@ -47,9 +47,9 @@ it is the cosmologists' version of survivorship bias. the sample edge selects, t
 
 ## connections
 
-- previous: [Redshift distribution of flux-limited samples](../../02_Zettel/Theory/Redshift distribution of flux-limited samples.md)
-- the LF estimator that handles it: [1Vmax estimator](../../02_Zettel/Theory/1Vmax estimator.md)
-- combined with photometry: [Photo-z biases and catastrophic outliers](../../02_Zettel/Theory/Photo-z biases and catastrophic outliers.md)
+- previous: [Redshift distribution of flux-limited samples](../../02_Zettel/Theory/Redshift distribution of flux-limited samples.html)
+- the LF estimator that handles it: [1Vmax estimator](../../02_Zettel/Theory/1Vmax estimator.html)
+- combined with photometry: [Photo-z biases and catastrophic outliers](../../02_Zettel/Theory/Photo-z biases and catastrophic outliers.html)
 
 ## key references
 

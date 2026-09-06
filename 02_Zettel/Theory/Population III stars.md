@@ -17,7 +17,7 @@ without metals, the gas cooling channels are restricted to:
 
 these are weak compared to metal-line cooling. the consequence: gas in primordial halos cannot fragment into low-mass clouds. simulations (Bromm & Larson 2004 review, ARA&A 42, 79) predict a **top-heavy IMF** with characteristic mass $\langle M \rangle \sim 100\,M_\odot$ and stars potentially up to $1000\,M_\odot$.
 
-this is dramatically different from the [Salpeter/Chabrier IMFs](../../02_Zettel/Theory/Salpeter Kroupa Chabrier IMFs.md) of present-day stellar populations.
+this is dramatically different from the [Salpeter/Chabrier IMFs](../../02_Zettel/Theory/Salpeter Kroupa Chabrier IMFs.html) of present-day stellar populations.
 
 ## fates of Pop III stars
 
@@ -41,7 +41,7 @@ Pop III stars formed at $z \sim 15$-$30$, within $\sim 100$-$300$ Myr after the 
 - **strong UV continuum + Balmer break absence**.
 - **specific SED slopes** distinct from later galaxy populations.
 
-candidate Pop III SF regions identified at $z \sim 10$-$15$ (LAP1-B, GLASS-z12, etc.) are tantalising but not yet definitive. see [JWST and the first stars](../../02_Zettel/Theory/JWST and the first stars.md).
+candidate Pop III SF regions identified at $z \sim 10$-$15$ (LAP1-B, GLASS-z12, etc.) are tantalising but not yet definitive. see [JWST and the first stars](../../02_Zettel/Theory/JWST and the first stars.html).
 
 ## the indirect evidence: CEMP-no + r-II stars
 
@@ -58,7 +58,7 @@ these stars are direct chemical fossils of single-progenitor Pop III enrichment 
 Pop III stars set the timing of:
 
 1. the **end of the cosmic dark ages** (their UV photons reionise H);
-2. the **transition from Pop III to Pop II** at $Z = Z_{\rm crit} \sim 10^{-5}$-$10^{-4}\,Z_\odot$ (see [Critical metallicity for fragmentation](../../02_Zettel/Theory/Critical metallicity for fragmentation.md));
+2. the **transition from Pop III to Pop II** at $Z = Z_{\rm crit} \sim 10^{-5}$-$10^{-4}\,Z_\odot$ (see [Critical metallicity for fragmentation](../../02_Zettel/Theory/Critical metallicity for fragmentation.html));
 3. the **seeding of supermassive black holes** (direct-collapse Pop III stars $> 260\,M_\odot$ may form intermediate-mass BHs that later grow into SMBHs).
 
 ## surveys for extremely metal-poor stars
@@ -84,11 +84,11 @@ the hunt for Pop III fossils is carried out by several ongoing survey programs (
 
 ## see also
 
-- [Critical metallicity for fragmentation](../../02_Zettel/Theory/Critical metallicity for fragmentation.md)
-- [Pop III nucleosynthesis signatures](../../02_Zettel/Theory/Pop III nucleosynthesis signatures.md)
-- [Search for Pop III stars in dwarf galaxies](../../02_Zettel/Theory/Search for Pop III stars in dwarf galaxies.md)
-- [JWST and the first stars](../../02_Zettel/Theory/JWST and the first stars.md)
-- [Pop III remnants in UFDGs](../../02_Zettel/Theory/Pop III remnants in UFDGs.md)
-- [Big Bang nucleosynthesis](../../02_Zettel/Theory/Big Bang nucleosynthesis.md)
-- [Ultra-faint dwarf galaxies definition](../../02_Zettel/Theory/Ultra-faint dwarf galaxies definition.md)
-- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.md)
+- [Critical metallicity for fragmentation](../../02_Zettel/Theory/Critical metallicity for fragmentation.html)
+- [Pop III nucleosynthesis signatures](../../02_Zettel/Theory/Pop III nucleosynthesis signatures.html)
+- [Search for Pop III stars in dwarf galaxies](../../02_Zettel/Theory/Search for Pop III stars in dwarf galaxies.html)
+- [JWST and the first stars](../../02_Zettel/Theory/JWST and the first stars.html)
+- [Pop III remnants in UFDGs](../../02_Zettel/Theory/Pop III remnants in UFDGs.html)
+- [Big Bang nucleosynthesis](../../02_Zettel/Theory/Big Bang nucleosynthesis.html)
+- [Ultra-faint dwarf galaxies definition](../../02_Zettel/Theory/Ultra-faint dwarf galaxies definition.html)
+- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.html)

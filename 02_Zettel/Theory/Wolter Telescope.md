@@ -3,7 +3,7 @@ layout: default
 title: "Wolter Telescope"
 ---
 
-The idea of using the [Grazing incidence](../../02_Zettel/Theory/Grazing incidence.md) reflection to focus X-rays was proposed in 1960 by **Giacconi & Rossi** *(JGR 65,773; A Telescope for Soft X-ray Astronomy)*
+The idea of using the [Grazing incidence](../../02_Zettel/Theory/Grazing incidence.html) reflection to focus X-rays was proposed in 1960 by **Giacconi & Rossi** *(JGR 65,773; A Telescope for Soft X-ray Astronomy)*
 	a truncated parabolic mirror not located in the vertex of the parabola, like incase of optical telescopes, but in the arms,
 
 ![Screenshot 2026-04-06 at 21.33.22](../../assets/images/Screenshot 2026-04-06 at 21.33.22.png)

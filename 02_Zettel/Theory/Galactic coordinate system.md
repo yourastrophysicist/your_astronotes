@@ -41,9 +41,9 @@ at high Galactic latitude, **Galactic extinction** is small ($A_V \lesssim 0.1$)
 
 ## see also
 
-- [Equatorial system](../../02_Zettel/Theory/Equatorial system.md)
-- [Ecliptic system](../../02_Zettel/Theory/Ecliptic system.md)
-- [Milky Way structure](../../02_Zettel/Theory/Milky Way structure.md)
-- [Interstellar medium components and gas cycle](../../02_Zettel/Theory/Interstellar medium components and gas cycle.md)
-- [Spiral arm kinematics](../../02_Zettel/Theory/Spiral arm kinematics.md)
-- [Spherical trigonometry](../../02_Zettel/Theory/Spherical trigonometry.md)
+- [Equatorial system](../../02_Zettel/Theory/Equatorial system.html)
+- [Ecliptic system](../../02_Zettel/Theory/Ecliptic system.html)
+- [Milky Way structure](../../02_Zettel/Theory/Milky Way structure.html)
+- [Interstellar medium components and gas cycle](../../02_Zettel/Theory/Interstellar medium components and gas cycle.html)
+- [Spiral arm kinematics](../../02_Zettel/Theory/Spiral arm kinematics.html)
+- [Spherical trigonometry](../../02_Zettel/Theory/Spherical trigonometry.html)

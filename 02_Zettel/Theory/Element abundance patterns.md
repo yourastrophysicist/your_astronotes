@@ -6,7 +6,7 @@ description: alpha/Fe, [C/N], and other element ratios as fingerprints of nucleo
 
 # element abundance patterns
 
-individual abundances of elements heavier than hydrogen and helium ("metals") are produced by different nucleosynthetic processes: massive-star core-collapse supernovae, type Ia supernovae, AGB winds, neutron-star mergers, etc. each process has its own characteristic timescale and yield pattern. so the **ratios** of element abundances in a star are diagnostic fingerprints of its formation environment. ratios are usually denoted $[\text{X/Y}] = \log_{10}(N_X/N_Y)_* - \log_{10}(N_X/N_Y)_\odot$ (see [Spectroscopic determination of metallicity](../../02_Zettel/Theory/Spectroscopic determination of metallicity.md)).
+individual abundances of elements heavier than hydrogen and helium ("metals") are produced by different nucleosynthetic processes: massive-star core-collapse supernovae, type Ia supernovae, AGB winds, neutron-star mergers, etc. each process has its own characteristic timescale and yield pattern. so the **ratios** of element abundances in a star are diagnostic fingerprints of its formation environment. ratios are usually denoted $[\text{X/Y}] = \log_{10}(N_X/N_Y)_* - \log_{10}(N_X/N_Y)_\odot$ (see [Spectroscopic determination of metallicity](../../02_Zettel/Theory/Spectroscopic determination of metallicity.html)).
 
 ## the alpha-element / Fe ratio: $[\alpha/\text{Fe}]$
 
@@ -31,7 +31,7 @@ CN-cycle hydrogen burning processes carbon into nitrogen. the [C/N] ratio is a s
 
 oxygen is an alpha element produced by core-collapse SNe. in globular clusters, however, the O-Na anticorrelation (O depleted, Na enhanced in 2G stars) is a near-universal signature of multiple populations (Gratton, Carretta, Lardo, Marino), arising from proton-capture nucleosynthesis at $T \sim 70$ MK in the polluter stars.
 
-the [Effects of differential reddening on CMD analysis](../../02_Zettel/Theory/Effects of differential reddening on CMD analysis.md) is unrelated, but the multiple populations show up clearly in optical-IR colours sensitive to OH and water bands.
+the [Effects of differential reddening on CMD analysis](../../02_Zettel/Theory/Effects of differential reddening on CMD analysis.html) is unrelated, but the multiple populations show up clearly in optical-IR colours sensitive to OH and water bands.
 
 ## n-capture elements (s-process and r-process)
 
@@ -54,9 +54,9 @@ ratios like [Ba/Eu] separate s- from r-process contributions and constrain galac
 a single overall [Fe/H] gives one number per star. the pattern of multiple element ratios encodes a **multi-dimensional fingerprint** of nucleosynthetic provenance: which kinds of supernovae enriched the gas, on what timescale, with what initial mass function. this is the foundation of **galactic archaeology**: the present-day distribution of stars in chemodynamic space (positions, velocities, abundances) constrains the assembly history of the Galaxy.
 
 ## see also
-- [Spectroscopic determination of metallicity](../../02_Zettel/Theory/Spectroscopic determination of metallicity.md)
-- [Curve of growth](../../02_Zettel/Theory/Curve of growth.md)
-- [Equivalent width](../../02_Zettel/Theory/Equivalent width.md)
-- [Atmospheric parameters Teff log g feh vmicro](../../02_Zettel/Theory/interf/Atmospheric parameters Teff log g feh vmicro.md)
-- [Local thermodynamic equilibrium LTE](../../02_Zettel/Theory/Local thermodynamic equilibrium LTE.md)
-- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.md)
+- [Spectroscopic determination of metallicity](../../02_Zettel/Theory/Spectroscopic determination of metallicity.html)
+- [Curve of growth](../../02_Zettel/Theory/Curve of growth.html)
+- [Equivalent width](../../02_Zettel/Theory/Equivalent width.html)
+- [Atmospheric parameters Teff log g feh vmicro](../../02_Zettel/Theory/interf/Atmospheric parameters Teff log g feh vmicro.html)
+- [Local thermodynamic equilibrium LTE](../../02_Zettel/Theory/Local thermodynamic equilibrium LTE.html)
+- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.html)

@@ -64,12 +64,12 @@ UV LF + Madau plot tell us:
 
 ## see also
 
-- [Schechter function](../../02_Zettel/Theory/Schechter function.md)
-- [Madau plot](../../02_Zettel/Theory/Madau plot.md)
-- [UV SFR tracer](../../02_Zettel/Theory/UV SFR tracer.md)
-- [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.md)
-- [Deep-field surveys](../../02_Zettel/Theory/Deep-field surveys.md)
-- [SED fitting basics](../../02_Zettel/Theory/SED fitting basics.md)
-- [High-z galaxies with JWST](../../02_Zettel/Theory/High-z galaxies with JWST.md)
-- [Reionization](../../02_Zettel/Theory/Reionization.md)
-- [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.md)
+- [Schechter function](../../02_Zettel/Theory/Schechter function.html)
+- [Madau plot](../../02_Zettel/Theory/Madau plot.html)
+- [UV SFR tracer](../../02_Zettel/Theory/UV SFR tracer.html)
+- [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.html)
+- [Deep-field surveys](../../02_Zettel/Theory/Deep-field surveys.html)
+- [SED fitting basics](../../02_Zettel/Theory/SED fitting basics.html)
+- [High-z galaxies with JWST](../../02_Zettel/Theory/High-z galaxies with JWST.html)
+- [Reionization](../../02_Zettel/Theory/Reionization.html)
+- [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.html)

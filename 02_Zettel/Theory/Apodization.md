@@ -76,7 +76,7 @@ it's a technique that sounds esoteric but is foundational: without apodization, 
 
 ## see also
 
-- [Coronagraphy](../../02_Zettel/Theory/interf/Coronagraphy.md)
-- [Nulling interferometry](../../02_Zettel/Theory/interf/Nulling interferometry.md)
-- [Bracewell nuller](../../02_Zettel/Theory/interf/Bracewell nuller.md)
-- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Coronagraphy](../../02_Zettel/Theory/interf/Coronagraphy.html)
+- [Nulling interferometry](../../02_Zettel/Theory/interf/Nulling interferometry.html)
+- [Bracewell nuller](../../02_Zettel/Theory/interf/Bracewell nuller.html)
+- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.html)

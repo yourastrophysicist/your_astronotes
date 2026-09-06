@@ -117,8 +117,8 @@ EHT's M87 image is the result of massive self-calibration combined with multiple
 
 ## see also
 
-- [Calibration overview](../../02_Zettel/Theory/interf/Calibration overview.md)
-- [Phase referencing](../../02_Zettel/Theory/interf/Phase referencing.md)
-- [CLEAN algorithm](../../02_Zettel/Theory/interf/CLEAN algorithm.md)
-- [The phase problem in interferometry](../../02_Zettel/Theory/interf/The phase problem in interferometry.md)
-- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Calibration overview](../../02_Zettel/Theory/interf/Calibration overview.html)
+- [Phase referencing](../../02_Zettel/Theory/interf/Phase referencing.html)
+- [CLEAN algorithm](../../02_Zettel/Theory/interf/CLEAN algorithm.html)
+- [The phase problem in interferometry](../../02_Zettel/Theory/interf/The phase problem in interferometry.html)
+- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.html)

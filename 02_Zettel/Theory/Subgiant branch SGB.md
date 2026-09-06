@@ -29,9 +29,9 @@ observational consequences and uses on the CMD:
 operationally, the SGB is "where the rules change": below it the star is a MS object, above it a giant. its morphology encodes the SC limit physics, the degeneracy state at TO, and the age and chemistry mix of the cluster.
 
 ## see also
-- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.md)
-- [Main sequence on the CMD](../../02_Zettel/Theory/Main sequence on the CMD.md)
-- [Main sequence turn-off as age indicator](../../02_Zettel/Theory/Main sequence turn-off as age indicator.md)
-- [Red giant branch RGB](../../02_Zettel/Theory/Red giant branch RGB.md)
-- [Stellar evolutionary phases on the CMD](../../02_Zettel/Theory/Stellar evolutionary phases on the CMD.md)
+- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.html)
+- [Main sequence on the CMD](../../02_Zettel/Theory/Main sequence on the CMD.html)
+- [Main sequence turn-off as age indicator](../../02_Zettel/Theory/Main sequence turn-off as age indicator.html)
+- [Red giant branch RGB](../../02_Zettel/Theory/Red giant branch RGB.html)
+- [Stellar evolutionary phases on the CMD](../../02_Zettel/Theory/Stellar evolutionary phases on the CMD.html)
 - Multiple populations in globular clusters

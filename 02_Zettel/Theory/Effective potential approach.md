@@ -55,14 +55,14 @@ $$V_{\rm eff}^{\rm null}(r) = \left(1 - \frac{2GM}{r}\right)\frac{L^2}{r^2}$$
 
 ## see also
 
-- [Geodesic equation](../../02_Zettel/Theory/Geodesic equation.md)
-- [Killing vectors and conserved quantities](../../02_Zettel/Theory/Killing vectors and conserved quantities.md)
-- [Schwarzschild metric](../../02_Zettel/Theory/Schwarzschild metric.md)
-- [Schwarzschild effective potential](../../02_Zettel/Theory/Schwarzschild effective potential.md)
-- [Circular orbits in Schwarzschild](../../02_Zettel/Theory/Circular orbits in Schwarzschild.md)
-- [Photon sphere](../../02_Zettel/Theory/Photon sphere.md)
-- [Photon trajectories and impact parameter](../../02_Zettel/Theory/Photon trajectories and impact parameter.md)
+- [Geodesic equation](../../02_Zettel/Theory/Geodesic equation.html)
+- [Killing vectors and conserved quantities](../../02_Zettel/Theory/Killing vectors and conserved quantities.html)
+- [Schwarzschild metric](../../02_Zettel/Theory/Schwarzschild metric.html)
+- [Schwarzschild effective potential](../../02_Zettel/Theory/Schwarzschild effective potential.html)
+- [Circular orbits in Schwarzschild](../../02_Zettel/Theory/Circular orbits in Schwarzschild.html)
+- [Photon sphere](../../02_Zettel/Theory/Photon sphere.html)
+- [Photon trajectories and impact parameter](../../02_Zettel/Theory/Photon trajectories and impact parameter.html)
 - Q12 - circular orbits and orbital frequency
 - Q14 - photon trajectory and impact parameter
-- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.md)
-- [Ch 6 - Black Holes](../../01_Literature/Book/Baumann GR/Ch 6 - Black Holes.md)
+- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.html)
+- [Ch 6 - Black Holes](../../01_Literature/Book/Baumann GR/Ch 6 - Black Holes.html)

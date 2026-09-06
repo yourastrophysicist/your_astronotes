@@ -25,18 +25,18 @@ practical fitting strategies fall into three families.
 
 (2) **horizontal methods** (chaboyer 1995): the colour difference $\delta(B-V)$ between the TO and the base of the RGB at fixed magnitude is age-sensitive but reddening-insensitive (since reddening shifts both TO and RGB by the same colour amount). this is the workhorse for relative ages between GCs.
 
-(3) **isochrone-fitting**: a full chi-square fit of model isochrones to the entire CMD, simultaneously solving for $(t, [\mathrm{Fe}/\mathrm{H}], (m-M)_0, E(B-V))$, with priors on $[\mathrm{Fe}/\mathrm{H}]$ from spectroscopy and on $(m-M)_0$ from gaia parallax or RR Lyrae (see [Isochrones and isochrone fitting](../../02_Zettel/Theory/Isochrones and isochrone fitting.md)).
+(3) **isochrone-fitting**: a full chi-square fit of model isochrones to the entire CMD, simultaneously solving for $(t, [\mathrm{Fe}/\mathrm{H}], (m-M)_0, E(B-V))$, with priors on $[\mathrm{Fe}/\mathrm{H}]$ from spectroscopy and on $(m-M)_0$ from gaia parallax or RR Lyrae (see [Isochrones and isochrone fitting](../../02_Zettel/Theory/Isochrones and isochrone fitting.html)).
 
 precision and pitfalls. with HST or JWST photometry the TO can be located to $\sim 0.05$ mag, which translates to a relative-age precision of $\sim 5\%$ between GCs, or $\sim 0.5$ Gyr at $10$ Gyr (marin-franch et al. 2009). absolute ages are limited by *systematic* uncertainties: the assumed He abundance $Y$ (helium-rich populations have brighter, redder TOs at fixed age, mimicking older ages by $\sim 1$ Gyr per $\Delta Y = 0.04$); the CNO and alpha enhancement mixture, which affects opacities and the TO morphology; convective core overshooting, which extends MS lifetimes and lowers $M_\mathrm{TO}$ at fixed age; and the reddening law, which moves the TO colour. realistic absolute ages for GCs are accurate to $\sim 1$ Gyr, with the oldest milky way GCs (NGC 6397, M92, M30) clustering at $12.5 \pm 0.5$ Gyr.
 
-a critical degeneracy: ages and metallicities are partially anti-correlated in TO photometry, because metal-rich isochrones at younger ages have similar TO colours and magnitudes to metal-poor isochrones at older ages (the [Age-metallicity degeneracy](../../02_Zettel/Theory/Age-metallicity degeneracy.md)). resolved CMDs break this degeneracy via the *RGB slope* and *HB morphology*, which respond differently to age and to $[\mathrm{Fe}/\mathrm{H}]$, but only if the photometry is deep and clean.
+a critical degeneracy: ages and metallicities are partially anti-correlated in TO photometry, because metal-rich isochrones at younger ages have similar TO colours and magnitudes to metal-poor isochrones at older ages (the [Age-metallicity degeneracy](../../02_Zettel/Theory/Age-metallicity degeneracy.html)). resolved CMDs break this degeneracy via the *RGB slope* and *HB morphology*, which respond differently to age and to $[\mathrm{Fe}/\mathrm{H}]$, but only if the photometry is deep and clean.
 
 the TO is also the foundation of the cluster age from main sequence turn-off derivation that places GC ages within a Gyr of the WMAP/Planck $\Lambda$CDM age of the universe, providing a cosmologically meaningful lower limit $t_0 > 12$ Gyr from stellar physics alone.
 
 ## see also
-- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.md)
-- [Main sequence on the CMD](../../02_Zettel/Theory/Main sequence on the CMD.md)
-- [Subgiant branch SGB](../../02_Zettel/Theory/Subgiant branch SGB.md)
-- [Isochrones and isochrone fitting](../../02_Zettel/Theory/Isochrones and isochrone fitting.md)
+- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.html)
+- [Main sequence on the CMD](../../02_Zettel/Theory/Main sequence on the CMD.html)
+- [Subgiant branch SGB](../../02_Zettel/Theory/Subgiant branch SGB.html)
+- [Isochrones and isochrone fitting](../../02_Zettel/Theory/Isochrones and isochrone fitting.html)
 - Cluster age from main sequence turn-off
-- [Age-metallicity degeneracy](../../02_Zettel/Theory/Age-metallicity degeneracy.md)
+- [Age-metallicity degeneracy](../../02_Zettel/Theory/Age-metallicity degeneracy.html)

@@ -71,12 +71,12 @@ these dominate the cold ISM and molecular cloud cooling.
 
 ## see also
 
-- [Heating rate in HII regions](../../02_Zettel/Theory/Heating rate in HII regions.md)
-- [Cooling rate in HII regions](../../02_Zettel/Theory/Cooling rate in HII regions.md)
-- [Equilibrium temperature](../../02_Zettel/Theory/Equilibrium temperature.md)
-- [Forbidden lines](../../02_Zettel/Theory/Forbidden lines.md)
-- [Bremsstrahlung](../../02_Zettel/Theory/Bremsstrahlung.md)
-- [Photodissociation regions PDRs](../../02_Zettel/Theory/Photodissociation regions PDRs.md)
-- [Metallicity and chemical evolution](../../02_Zettel/Theory/Metallicity and chemical evolution.md)
-- [Galaxy clusters and overview of evolution](../../02_Zettel/Theory/Galaxy clusters and overview of evolution.md)
-- [Compton and Inverse Compton](../../02_Zettel/Theory/Compton and Inverse Compton.md)
+- [Heating rate in HII regions](../../02_Zettel/Theory/Heating rate in HII regions.html)
+- [Cooling rate in HII regions](../../02_Zettel/Theory/Cooling rate in HII regions.html)
+- [Equilibrium temperature](../../02_Zettel/Theory/Equilibrium temperature.html)
+- [Forbidden lines](../../02_Zettel/Theory/Forbidden lines.html)
+- [Bremsstrahlung](../../02_Zettel/Theory/Bremsstrahlung.html)
+- [Photodissociation regions PDRs](../../02_Zettel/Theory/Photodissociation regions PDRs.html)
+- [Metallicity and chemical evolution](../../02_Zettel/Theory/Metallicity and chemical evolution.html)
+- [Galaxy clusters and overview of evolution](../../02_Zettel/Theory/Galaxy clusters and overview of evolution.html)
+- [Compton and Inverse Compton](../../02_Zettel/Theory/Compton and Inverse Compton.html)

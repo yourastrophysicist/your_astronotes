@@ -96,8 +96,8 @@ a common cause of bad images: incorrect bandpass leaves residual spectral struct
 
 ## see also
 
-- [Calibration overview](../../02_Zettel/Theory/interf/Calibration overview.md)
-- [Flux calibration](../../02_Zettel/Theory/interf/Flux calibration.md)
-- [Phase referencing](../../02_Zettel/Theory/interf/Phase referencing.md)
-- [Self-calibration](../../02_Zettel/Theory/interf/Self-calibration.md)
-- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Calibration overview](../../02_Zettel/Theory/interf/Calibration overview.html)
+- [Flux calibration](../../02_Zettel/Theory/interf/Flux calibration.html)
+- [Phase referencing](../../02_Zettel/Theory/interf/Phase referencing.html)
+- [Self-calibration](../../02_Zettel/Theory/interf/Self-calibration.html)
+- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.html)

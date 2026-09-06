@@ -22,7 +22,7 @@ physically: more massive stars have hotter cores, more efficient nuclear burning
 
 ## the IMF weighting
 
-the [Initial mass function](../../02_Zettel/Theory/Initial mass function.md) $\xi(M) \propto M^{-2.35}$ (Salpeter) means most stars are low-mass. but the **bolometric light** from a stellar population is
+the [Initial mass function](../../02_Zettel/Theory/Initial mass function.html) $\xi(M) \propto M^{-2.35}$ (Salpeter) means most stars are low-mass. but the **bolometric light** from a stellar population is
 $$L_{\rm tot} = \int \xi(M)\, L(M)\, dM \propto \int M^{-2.35} M^{3.5}\, dM = \int M^{1.15}\, dM$$
 which is **dominated by the high-mass end** of the integration range.
 
@@ -50,16 +50,16 @@ the SED of a galaxy at any moment is the **superposition** of contributions from
 - optical bolometric is mixed.
 - NIR ($\lambda > 1\,\mu$m) traces the integral of past star formation, i.e. the stellar mass.
 
-this is the spectral basis for population-synthesis SED fitting (see [Stellar population synthesis](../../02_Zettel/Theory/Stellar population synthesis.md) and `obs5.pdf`/`obs7.pdf`).
+this is the spectral basis for population-synthesis SED fitting (see [Stellar population synthesis](../../02_Zettel/Theory/Stellar population synthesis.html) and `obs5.pdf`/`obs7.pdf`).
 
 ## see also
 
-- [Planck law Wien Stefan-Boltzmann](../../02_Zettel/Theory/Planck law Wien Stefan-Boltzmann.md)
-- [Stellar scaling relations](../../02_Zettel/Theory/Stellar scaling relations.md)
-- [Mass-luminosity relation](../../02_Zettel/Theory/Mass-luminosity relation.md)
-- [Initial mass function](../../02_Zettel/Theory/Initial mass function.md)
-- [Stellar populations I II III](../../02_Zettel/Theory/Stellar populations I II III.md)
-- [UV SFR tracer](../../02_Zettel/Theory/UV SFR tracer.md)
-- [IR SFR tracer](../../02_Zettel/Theory/IR SFR tracer.md)
-- [Stellar population synthesis](../../02_Zettel/Theory/Stellar population synthesis.md)
-- [Stellar mass estimation in unresolved populations](../../02_Zettel/Theory/Stellar mass estimation in unresolved populations.md)
+- [Planck law Wien Stefan-Boltzmann](../../02_Zettel/Theory/Planck law Wien Stefan-Boltzmann.html)
+- [Stellar scaling relations](../../02_Zettel/Theory/Stellar scaling relations.html)
+- [Mass-luminosity relation](../../02_Zettel/Theory/Mass-luminosity relation.html)
+- [Initial mass function](../../02_Zettel/Theory/Initial mass function.html)
+- [Stellar populations I II III](../../02_Zettel/Theory/Stellar populations I II III.html)
+- [UV SFR tracer](../../02_Zettel/Theory/UV SFR tracer.html)
+- [IR SFR tracer](../../02_Zettel/Theory/IR SFR tracer.html)
+- [Stellar population synthesis](../../02_Zettel/Theory/Stellar population synthesis.html)
+- [Stellar mass estimation in unresolved populations](../../02_Zettel/Theory/Stellar mass estimation in unresolved populations.html)

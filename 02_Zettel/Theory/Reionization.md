@@ -72,12 +72,12 @@ resolving when + how reionisation proceeded is a key open question of galaxy for
 
 ## see also
 
-- [Photon decoupling and CMB](../../02_Zettel/Theory/Photon decoupling and CMB.md)
-- [Saha equation and recombination](../../02_Zettel/Theory/Saha equation and recombination.md)
+- [Photon decoupling and CMB](../../02_Zettel/Theory/Photon decoupling and CMB.html)
+- [Saha equation and recombination](../../02_Zettel/Theory/Saha equation and recombination.html)
 - Lyman-α forest
-- [Intergalactic medium](../../02_Zettel/Theory/Intergalactic medium.md)
-- [ΛCDM current parameters](../../02_Zettel/Theory/ΛCDM current parameters.md)
-- [Polarization E and B modes](../../02_Zettel/Theory/Polarization E and B modes.md)
-- [Cosmic_inventory_baryons](../../02_Zettel/Theory/Cosmic_inventory_baryons.md)
-- [Brief thermal history](../../02_Zettel/Theory/Brief thermal history.md)
-- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md)
+- [Intergalactic medium](../../02_Zettel/Theory/Intergalactic medium.html)
+- [ΛCDM current parameters](../../02_Zettel/Theory/ΛCDM current parameters.html)
+- [Polarization E and B modes](../../02_Zettel/Theory/Polarization E and B modes.html)
+- [Cosmic_inventory_baryons](../../02_Zettel/Theory/Cosmic_inventory_baryons.html)
+- [Brief thermal history](../../02_Zettel/Theory/Brief thermal history.html)
+- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html)

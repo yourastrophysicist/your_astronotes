@@ -60,11 +60,11 @@ modern surveys (LSST + Euclid) will discover thousands of new LSBs + UDGs at unp
 
 ## see also
 
-- [Sersic profile](../../02_Zettel/Theory/Sersic profile.md)
-- [De Vaucouleurs and exponential profiles](../../02_Zettel/Theory/De Vaucouleurs and exponential profiles.md)
-- [Dark matter rotation curves](../../02_Zettel/Theory/Dark matter rotation curves.md)
-- [Dark matter in dwarf galaxies](../../02_Zettel/Theory/Dark matter in dwarf galaxies.md)
-- [Cosmic_inventory_dark_matter](../../02_Zettel/Theory/Cosmic_inventory_dark_matter.md)
-- [Galaxy size-luminosity relation](../../02_Zettel/Theory/Galaxy size-luminosity relation.md)
-- [Surface brightness dimming](../../02_Zettel/Theory/Surface brightness dimming.md)
-- [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.md)
+- [Sersic profile](../../02_Zettel/Theory/Sersic profile.html)
+- [De Vaucouleurs and exponential profiles](../../02_Zettel/Theory/De Vaucouleurs and exponential profiles.html)
+- [Dark matter rotation curves](../../02_Zettel/Theory/Dark matter rotation curves.html)
+- [Dark matter in dwarf galaxies](../../02_Zettel/Theory/Dark matter in dwarf galaxies.html)
+- [Cosmic_inventory_dark_matter](../../02_Zettel/Theory/Cosmic_inventory_dark_matter.html)
+- [Galaxy size-luminosity relation](../../02_Zettel/Theory/Galaxy size-luminosity relation.html)
+- [Surface brightness dimming](../../02_Zettel/Theory/Surface brightness dimming.html)
+- [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.html)

@@ -61,13 +61,13 @@ $R_{\mu\nu} = 0$ to first order in $h$ (vacuum). $R = 0$. but $R_{0x0x} \sim \dd
 
 ## see also
 
-- [Riemann tensor](../../02_Zettel/Theory/Riemann tensor.md)
-- [Riemann tensor symmetries](../../02_Zettel/Theory/Riemann tensor symmetries.md)
-- [Counting Riemann components](../../02_Zettel/Theory/Counting Riemann components.md)
-- [Bianchi identities](../../02_Zettel/Theory/Bianchi identities.md)
-- [Einstein equations](../../02_Zettel/Theory/Einstein equations.md)
-- [Einstein tensor and Bianchi](../../02_Zettel/Theory/Einstein tensor and Bianchi.md)
-- [Sectional and Gaussian curvature](../../02_Zettel/Theory/Sectional and Gaussian curvature.md)
-- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.md)
-- [Ch 4 - Spacetime Curvature](../../01_Literature/Book/Baumann GR/Ch 4 - Spacetime Curvature.md)
+- [Riemann tensor](../../02_Zettel/Theory/Riemann tensor.html)
+- [Riemann tensor symmetries](../../02_Zettel/Theory/Riemann tensor symmetries.html)
+- [Counting Riemann components](../../02_Zettel/Theory/Counting Riemann components.html)
+- [Bianchi identities](../../02_Zettel/Theory/Bianchi identities.html)
+- [Einstein equations](../../02_Zettel/Theory/Einstein equations.html)
+- [Einstein tensor and Bianchi](../../02_Zettel/Theory/Einstein tensor and Bianchi.html)
+- [Sectional and Gaussian curvature](../../02_Zettel/Theory/Sectional and Gaussian curvature.html)
+- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.html)
+- [Ch 4 - Spacetime Curvature](../../01_Literature/Book/Baumann GR/Ch 4 - Spacetime Curvature.html)
 - Q10 - weak-field Ricci scalar

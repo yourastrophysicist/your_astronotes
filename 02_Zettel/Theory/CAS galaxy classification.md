@@ -90,10 +90,10 @@ CAS-based classifications enable:
 
 ## see also
 
-- [Hubble morphological sequence](../../02_Zettel/Theory/Hubble morphological sequence.md)
-- [Galaxy morphology vs physical properties](../../02_Zettel/Theory/Galaxy morphology vs physical properties.md)
-- [Sersic profile](../../02_Zettel/Theory/Sersic profile.md)
-- [Petrosian radius](../../02_Zettel/Theory/Petrosian radius.md)
-- [Galaxy color, density and morphology](../../02_Zettel/Theory/Galaxy color, density and morphology.md)
-- [SDSS overview](../../02_Zettel/Theory/SDSS overview.md)
-- [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.md)
+- [Hubble morphological sequence](../../02_Zettel/Theory/Hubble morphological sequence.html)
+- [Galaxy morphology vs physical properties](../../02_Zettel/Theory/Galaxy morphology vs physical properties.html)
+- [Sersic profile](../../02_Zettel/Theory/Sersic profile.html)
+- [Petrosian radius](../../02_Zettel/Theory/Petrosian radius.html)
+- [Galaxy color, density and morphology](../../02_Zettel/Theory/Galaxy color, density and morphology.html)
+- [SDSS overview](../../02_Zettel/Theory/SDSS overview.html)
+- [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.html)

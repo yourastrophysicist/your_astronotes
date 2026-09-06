@@ -24,7 +24,7 @@ ultra-faint dwarf galaxies are **fossils of the early universe**. their colour-m
 
 - low mean $[\text{Fe/H}]$ ($\sim -2.5$) because few generations of supernovae enriched the gas before it was lost.
 - broad $[\text{Fe/H}]$ spread despite low mean (often $\sim 0.5$-$1$ dex) because each individual SN dominated local enrichment in such small systems (stochastic nucleosynthesis).
-- presence of **CEMP-no stars** (carbon-enhanced metal-poor without s-process or r-process enrichment), which are inherited from pop iii progenitors (see [Pop III remnants in UFDGs](../../02_Zettel/Theory/Pop III remnants in UFDGs.md)).
+- presence of **CEMP-no stars** (carbon-enhanced metal-poor without s-process or r-process enrichment), which are inherited from pop iii progenitors (see [Pop III remnants in UFDGs](../../02_Zettel/Theory/Pop III remnants in UFDGs.html)).
 - enhanced $[\alpha/\text{Fe}]$, characteristic of pure core-collapse SN enrichment with no time for type ia.
 - in some cases (reticulum ii) a strong r-process enhancement attributed to a single early neutron-star merger.
 
@@ -38,6 +38,6 @@ ultra-faint dwarf galaxies are **fossils of the early universe**. their colour-m
 
 - UFDGs are direct probes of **reionisation feedback**. their old-only population is direct evidence that reionisation can quench dwarfs.
 - their stellar populations are the closest local analogues of the high-redshift dwarfs that JWST is now beginning to find.
-- they are the building blocks that contributed to the very oldest, most metal-poor part of the milky way halo (see [Halo accretion from dwarf galaxies](../../02_Zettel/Theory/Halo accretion from dwarf galaxies.md)).
+- they are the building blocks that contributed to the very oldest, most metal-poor part of the milky way halo (see [Halo accretion from dwarf galaxies](../../02_Zettel/Theory/Halo accretion from dwarf galaxies.html)).
 
-see also [Ultra-faint dwarf galaxies definition](../../02_Zettel/Theory/Ultra-faint dwarf galaxies definition.md), [UFDG dark matter content](../../02_Zettel/Theory/UFDG dark matter content.md), [UFDG search via deep CMD](../../02_Zettel/Theory/UFDG search via deep CMD.md), [Pop III remnants in UFDGs](../../02_Zettel/Theory/Pop III remnants in UFDGs.md), [Stellar populations I II III](../../02_Zettel/Theory/Stellar populations I II III.md), [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.md), [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.md)
+see also [Ultra-faint dwarf galaxies definition](../../02_Zettel/Theory/Ultra-faint dwarf galaxies definition.html), [UFDG dark matter content](../../02_Zettel/Theory/UFDG dark matter content.html), [UFDG search via deep CMD](../../02_Zettel/Theory/UFDG search via deep CMD.html), [Pop III remnants in UFDGs](../../02_Zettel/Theory/Pop III remnants in UFDGs.html), [Stellar populations I II III](../../02_Zettel/Theory/Stellar populations I II III.html), [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.html), [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.html)

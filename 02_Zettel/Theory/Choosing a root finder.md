@@ -104,8 +104,8 @@ skipping this step is the cause of more wrong-answer bugs than any algorithm cho
 
 ## see also
 
-- [Bisection method](../../02_Zettel/Theory/Bisection method.md)
-- [Newton-Raphson method](../../02_Zettel/Theory/Newton-Raphson method.md)
-- [Newton-Raphson for systems of equations](../../02_Zettel/Theory/Newton-Raphson for systems of equations.md)
-- [Relaxation method](../../02_Zettel/Theory/Relaxation method.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Bisection method](../../02_Zettel/Theory/Bisection method.html)
+- [Newton-Raphson method](../../02_Zettel/Theory/Newton-Raphson method.html)
+- [Newton-Raphson for systems of equations](../../02_Zettel/Theory/Newton-Raphson for systems of equations.html)
+- [Relaxation method](../../02_Zettel/Theory/Relaxation method.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

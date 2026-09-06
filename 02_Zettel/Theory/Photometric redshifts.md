@@ -5,7 +5,7 @@ title: "Photometric redshifts"
 
 # photometric redshifts
 
-up: [Pablo_02_Statistical_properties_of_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.md)
+up: [Pablo_02_Statistical_properties_of_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html)
 
 ## the idea
 
@@ -39,12 +39,12 @@ Benítez introduced a Bayesian prior on the prior magnitude-redshift distributio
 
 ## what i remember
 
-photo-z is not optional in modern surveys, and it is not free. expect $\sigma_z / (1+z) \sim 0.02$–$0.05$ at best, and $\sim 1$–$10\%$ catastrophic outliers depending on filter set and depth (see [Photo-z biases and catastrophic outliers](../../02_Zettel/Theory/Photo-z biases and catastrophic outliers.md)).
+photo-z is not optional in modern surveys, and it is not free. expect $\sigma_z / (1+z) \sim 0.02$–$0.05$ at best, and $\sim 1$–$10\%$ catastrophic outliers depending on filter set and depth (see [Photo-z biases and catastrophic outliers](../../02_Zettel/Theory/Photo-z biases and catastrophic outliers.html)).
 
 ## connections
 
-- biases of photo-z: [Photo-z biases and catastrophic outliers](../../02_Zettel/Theory/Photo-z biases and catastrophic outliers.md)
-- the underlying selection: [Redshift distribution of flux-limited samples](../../02_Zettel/Theory/Redshift distribution of flux-limited samples.md), [Malmquist bias](../../02_Zettel/Theory/Malmquist bias.md)
+- biases of photo-z: [Photo-z biases and catastrophic outliers](../../02_Zettel/Theory/Photo-z biases and catastrophic outliers.html)
+- the underlying selection: [Redshift distribution of flux-limited samples](../../02_Zettel/Theory/Redshift distribution of flux-limited samples.html), [Malmquist bias](../../02_Zettel/Theory/Malmquist bias.html)
 - features that drive photo-z: 4000 Å break and Lyman break
 
 ## key references

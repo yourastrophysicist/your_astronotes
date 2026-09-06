@@ -56,12 +56,12 @@ so the entire framework of nebular diagnostics ($T_e$, $n_e$, abundances) hinges
 
 ## see also
 
-- [Selection rules](../../02_Zettel/Theory/Selection rules.md)
-- [Atomic term symbols](../../02_Zettel/Theory/Atomic term symbols.md)
-- [Russell-Saunders LS coupling](../../02_Zettel/Theory/Russell-Saunders LS coupling.md)
-- [jj coupling](../../02_Zettel/Theory/jj coupling.md)
-- [Forbidden lines](../../02_Zettel/Theory/Forbidden lines.md)
-- [OIII forbidden lines](../../02_Zettel/Theory/OIII forbidden lines.md)
-- [SII forbidden lines](../../02_Zettel/Theory/SII forbidden lines.md)
-- [Forbidden line diagnostics](../../02_Zettel/Theory/Forbidden line diagnostics.md)
-- [Critical density](../../02_Zettel/Theory/Critical density.md)
+- [Selection rules](../../02_Zettel/Theory/Selection rules.html)
+- [Atomic term symbols](../../02_Zettel/Theory/Atomic term symbols.html)
+- [Russell-Saunders LS coupling](../../02_Zettel/Theory/Russell-Saunders LS coupling.html)
+- [jj coupling](../../02_Zettel/Theory/jj coupling.html)
+- [Forbidden lines](../../02_Zettel/Theory/Forbidden lines.html)
+- [OIII forbidden lines](../../02_Zettel/Theory/OIII forbidden lines.html)
+- [SII forbidden lines](../../02_Zettel/Theory/SII forbidden lines.html)
+- [Forbidden line diagnostics](../../02_Zettel/Theory/Forbidden line diagnostics.html)
+- [Critical density](../../02_Zettel/Theory/Critical density.html)

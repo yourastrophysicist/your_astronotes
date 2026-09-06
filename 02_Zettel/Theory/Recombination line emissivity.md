@@ -62,11 +62,11 @@ each recombination produces **one Balmer photon** on average (about $0.45$ H$\al
 
 ## see also
 
-- [Optically thin recombination lines](../../02_Zettel/Theory/Optically thin recombination lines.md)
-- [Case A vs Case B recombination](../../02_Zettel/Theory/Case A vs Case B recombination.md)
-- [Balmer decrement](../../02_Zettel/Theory/Balmer decrement.md)
-- [H-alpha SFR tracer](../../02_Zettel/Theory/H-alpha SFR tracer.md)
-- [Hydrogen spectral series](../../02_Zettel/Theory/Hydrogen spectral series.md)
+- [Optically thin recombination lines](../../02_Zettel/Theory/Optically thin recombination lines.html)
+- [Case A vs Case B recombination](../../02_Zettel/Theory/Case A vs Case B recombination.html)
+- [Balmer decrement](../../02_Zettel/Theory/Balmer decrement.html)
+- [H-alpha SFR tracer](../../02_Zettel/Theory/H-alpha SFR tracer.html)
+- [Hydrogen spectral series](../../02_Zettel/Theory/Hydrogen spectral series.html)
 - Strömgren sphere
-- [Recombination continuum](../../02_Zettel/Theory/Recombination continuum.md)
-- [Photoionisation balance](../../02_Zettel/Theory/Photoionisation balance.md)
+- [Recombination continuum](../../02_Zettel/Theory/Recombination continuum.html)
+- [Photoionisation balance](../../02_Zettel/Theory/Photoionisation balance.html)

@@ -50,17 +50,17 @@ all states with the same $n$ are degenerate (Coulomb degeneracy, removed only by
 
 - **measuring redshift**: identifying a Balmer series in a galaxy spectrum gives $z$ to many decimal places via $z = \lambda_{\rm obs}/\lambda_{\rm rest} - 1$.
 - **stellar spectral typing**: Balmer line strengths trace temperature directly via Boltzmann + Saha (peaks at A0).
-- **HII region diagnostics**: Balmer + higher series in emission, fluxes give SFR ([H-alpha SFR tracer](../../02_Zettel/Theory/H-alpha SFR tracer.md)) and dust ([Balmer decrement](../../02_Zettel/Theory/Balmer decrement.md)).
+- **HII region diagnostics**: Balmer + higher series in emission, fluxes give SFR ([H-alpha SFR tracer](../../02_Zettel/Theory/H-alpha SFR tracer.html)) and dust ([Balmer decrement](../../02_Zettel/Theory/Balmer decrement.html)).
 - **He II $\lambda 4686$**: hydrogenic He$^+$ Brackett line at optical, signature of very hot ionising sources (O stars, WN stars, AGN).
 - **radio recombination lines** (RRLs): high-$n$ transitions, e.g. H$110\alpha$ at $\sim 5$ GHz, used by ALMA / VLA to probe HII region kinematics.
 
 ## see also
 
-- [Hydrogen spectral series](../../02_Zettel/Theory/Hydrogen spectral series.md)
+- [Hydrogen spectral series](../../02_Zettel/Theory/Hydrogen spectral series.html)
 - Energy level diagrams Grötrian
-- [Helium energy levels](../../02_Zettel/Theory/Helium energy levels.md)
-- [Selection rules](../../02_Zettel/Theory/Selection rules.md)
-- [Balmer decrement](../../02_Zettel/Theory/Balmer decrement.md)
-- [H-alpha SFR tracer](../../02_Zettel/Theory/H-alpha SFR tracer.md)
-- [Optically thin recombination lines](../../02_Zettel/Theory/Optically thin recombination lines.md)
-- [Photon decoupling and CMB](../../02_Zettel/Theory/Photon decoupling and CMB.md) — Lyman recombination at cosmological scale
+- [Helium energy levels](../../02_Zettel/Theory/Helium energy levels.html)
+- [Selection rules](../../02_Zettel/Theory/Selection rules.html)
+- [Balmer decrement](../../02_Zettel/Theory/Balmer decrement.html)
+- [H-alpha SFR tracer](../../02_Zettel/Theory/H-alpha SFR tracer.html)
+- [Optically thin recombination lines](../../02_Zettel/Theory/Optically thin recombination lines.html)
+- [Photon decoupling and CMB](../../02_Zettel/Theory/Photon decoupling and CMB.html) — Lyman recombination at cosmological scale

@@ -68,11 +68,11 @@ modern cosmology gives $t_0 = 13.8$ Gyr, consistent with the oldest globulars at
 
 ## see also
 
-- [HR diagram](../../02_Zettel/Theory/HR diagram.md)
-- [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.md)
-- [Stellar populations I II III](../../02_Zettel/Theory/Stellar populations I II III.md)
-- [Stellar evolution timescales](../../02_Zettel/Theory/Stellar evolution timescales.md)
-- [Mass-luminosity relation](../../02_Zettel/Theory/Mass-luminosity relation.md)
-- [Stellar scaling relations](../../02_Zettel/Theory/Stellar scaling relations.md)
-- [SFH from resolved CMDs](../../02_Zettel/Theory/SFH from resolved CMDs.md)
-- [Cosmic_inventory_overview](../../02_Zettel/Theory/Cosmic_inventory_overview.md)
+- [HR diagram](../../02_Zettel/Theory/HR diagram.html)
+- [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.html)
+- [Stellar populations I II III](../../02_Zettel/Theory/Stellar populations I II III.html)
+- [Stellar evolution timescales](../../02_Zettel/Theory/Stellar evolution timescales.html)
+- [Mass-luminosity relation](../../02_Zettel/Theory/Mass-luminosity relation.html)
+- [Stellar scaling relations](../../02_Zettel/Theory/Stellar scaling relations.html)
+- [SFH from resolved CMDs](../../02_Zettel/Theory/SFH from resolved CMDs.html)
+- [Cosmic_inventory_overview](../../02_Zettel/Theory/Cosmic_inventory_overview.html)

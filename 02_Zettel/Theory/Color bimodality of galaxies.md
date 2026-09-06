@@ -5,7 +5,7 @@ title: "Color bimodality of galaxies"
 
 # color bimodality of galaxies
 
-up: [Pablo_02_Statistical_properties_of_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.md) · [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md)
+up: [Pablo_02_Statistical_properties_of_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html) · [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html)
 
 ## the empirical fact
 
@@ -24,18 +24,18 @@ color is a $\sim$dimensionless ratio of fluxes, so it is mostly insensitive to d
 
 ## why the bimodality is surprising
 
-if galaxy properties were continuous (say, a smooth distribution of star formation timescales), the color distribution would be unimodal. the *gap* between the two peaks tells us that whatever drives a galaxy from blue to red happens *fast*, faster than the time spent at either end. this is the [Green valley and quenching tracks](../../02_Zettel/Theory/Green valley and quenching tracks.md) story.
+if galaxy properties were continuous (say, a smooth distribution of star formation timescales), the color distribution would be unimodal. the *gap* between the two peaks tells us that whatever drives a galaxy from blue to red happens *fast*, faster than the time spent at either end. this is the [Green valley and quenching tracks](../../02_Zettel/Theory/Green valley and quenching tracks.html) story.
 
 ## reading the figure pablo shows
 
-Baldry 2004 fig. 1 plots $u-r$ histograms in bins of absolute $r$-band magnitude. in every bin the two-peak structure is clear, and the position of the red peak slides slightly redder for brighter galaxies (the [Red sequence and blue cloud](../../02_Zettel/Theory/Red sequence and blue cloud.md) tilt).
+Baldry 2004 fig. 1 plots $u-r$ histograms in bins of absolute $r$-band magnitude. in every bin the two-peak structure is clear, and the position of the red peak slides slightly redder for brighter galaxies (the [Red sequence and blue cloud](../../02_Zettel/Theory/Red sequence and blue cloud.html) tilt).
 
 ## connections
 
-- next: [Red sequence and blue cloud](../../02_Zettel/Theory/Red sequence and blue cloud.md) interprets the two peaks
-- mechanism: [Green valley and quenching tracks](../../02_Zettel/Theory/Green valley and quenching tracks.md)
-- environment: [Galaxy color, density and morphology](../../02_Zettel/Theory/Galaxy color, density and morphology.md)
-- mass-side picture: [Stellar mass function](../../02_Zettel/Theory/Stellar mass function.md) also bimodal at fixed $z$ (passive vs star-forming SMFs)
+- next: [Red sequence and blue cloud](../../02_Zettel/Theory/Red sequence and blue cloud.html) interprets the two peaks
+- mechanism: [Green valley and quenching tracks](../../02_Zettel/Theory/Green valley and quenching tracks.html)
+- environment: [Galaxy color, density and morphology](../../02_Zettel/Theory/Galaxy color, density and morphology.html)
+- mass-side picture: [Stellar mass function](../../02_Zettel/Theory/Stellar mass function.html) also bimodal at fixed $z$ (passive vs star-forming SMFs)
 
 ## key references
 

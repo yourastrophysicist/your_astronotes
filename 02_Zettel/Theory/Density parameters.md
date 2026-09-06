@@ -3,7 +3,7 @@ layout: default
 title: "Density parameters"
 ---
 
-**density parameters** $\Omega_X$ are dimensionless ratios of cosmic energy densities to the **critical density**. they parameterise $\Lambda$CDM + are the natural variables in the Friedmann equation. companion: [Density parameters and flatness](../../02_Zettel/Theory/Density parameters and flatness.md).
+**density parameters** $\Omega_X$ are dimensionless ratios of cosmic energy densities to the **critical density**. they parameterise $\Lambda$CDM + are the natural variables in the Friedmann equation. companion: [Density parameters and flatness](../../02_Zettel/Theory/Density parameters and flatness.html).
 
 ## the critical density
 
@@ -79,11 +79,11 @@ these are determined to $\sim 1\%$ from Planck CMB peak structure. converting to
 
 ## see also
 
-- [Density parameters and flatness](../../02_Zettel/Theory/Density parameters and flatness.md)
-- [Friedmann equations](../../02_Zettel/Theory/Friedmann equations.md)
-- [Spatial curvature parameter k](../../02_Zettel/Theory/Spatial curvature parameter k.md)
-- [ΛCDM current parameters](../../02_Zettel/Theory/ΛCDM current parameters.md)
-- [Hubble constant and deceleration parameter](../../02_Zettel/Theory/Hubble constant and deceleration parameter.md)
-- [Cosmological constant](../../02_Zettel/Theory/Cosmological constant.md)
-- [Cosmic_inventory_overview](../../02_Zettel/Theory/Cosmic_inventory_overview.md)
-- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md)
+- [Density parameters and flatness](../../02_Zettel/Theory/Density parameters and flatness.html)
+- [Friedmann equations](../../02_Zettel/Theory/Friedmann equations.html)
+- [Spatial curvature parameter k](../../02_Zettel/Theory/Spatial curvature parameter k.html)
+- [ΛCDM current parameters](../../02_Zettel/Theory/ΛCDM current parameters.html)
+- [Hubble constant and deceleration parameter](../../02_Zettel/Theory/Hubble constant and deceleration parameter.html)
+- [Cosmological constant](../../02_Zettel/Theory/Cosmological constant.html)
+- [Cosmic_inventory_overview](../../02_Zettel/Theory/Cosmic_inventory_overview.html)
+- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html)

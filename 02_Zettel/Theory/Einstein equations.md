@@ -62,7 +62,7 @@ adding $\Lambda g_{\mu\nu}$ to the LHS is the **only** other conserved tensor co
 
 with $\Lambda$ on the right side as a stress-energy contribution, it acts like a fluid with $\rho_\Lambda = \Lambda/(8\pi G)$, $p_\Lambda = -\rho_\Lambda$. constant density, negative pressure: drives accelerated expansion.
 
-see [Cosmological constant](../../02_Zettel/Theory/Cosmological constant.md).
+see [Cosmological constant](../../02_Zettel/Theory/Cosmological constant.html).
 
 ## solving Einstein's equation
 
@@ -77,17 +77,17 @@ most modern numerical relativity numerically solves the full Einstein equations 
 
 ## see also
 
-- [Einstein tensor and Bianchi](../../02_Zettel/Theory/Einstein tensor and Bianchi.md)
-- [Stress-energy tensor](../../02_Zettel/Theory/Stress-energy tensor.md)
-- [Trace-reversed Einstein equations](../../02_Zettel/Theory/Trace-reversed Einstein equations.md)
-- [Cosmological constant](../../02_Zettel/Theory/Cosmological constant.md)
-- [Newtonian limit of GR](../../02_Zettel/Theory/Newtonian limit of GR.md)
-- [Schwarzschild metric](../../02_Zettel/Theory/Schwarzschild metric.md)
-- [FLRW metric](../../02_Zettel/Theory/FLRW metric.md)
-- [Friedmann equations](../../02_Zettel/Theory/Friedmann equations.md)
-- [Bianchi identities](../../02_Zettel/Theory/Bianchi identities.md)
-- [Ricci tensor and scalar](../../02_Zettel/Theory/Ricci tensor and scalar.md)
+- [Einstein tensor and Bianchi](../../02_Zettel/Theory/Einstein tensor and Bianchi.html)
+- [Stress-energy tensor](../../02_Zettel/Theory/Stress-energy tensor.html)
+- [Trace-reversed Einstein equations](../../02_Zettel/Theory/Trace-reversed Einstein equations.html)
+- [Cosmological constant](../../02_Zettel/Theory/Cosmological constant.html)
+- [Newtonian limit of GR](../../02_Zettel/Theory/Newtonian limit of GR.html)
+- [Schwarzschild metric](../../02_Zettel/Theory/Schwarzschild metric.html)
+- [FLRW metric](../../02_Zettel/Theory/FLRW metric.html)
+- [Friedmann equations](../../02_Zettel/Theory/Friedmann equations.html)
+- [Bianchi identities](../../02_Zettel/Theory/Bianchi identities.html)
+- [Ricci tensor and scalar](../../02_Zettel/Theory/Ricci tensor and scalar.html)
 - Q10 - weak-field Ricci scalar
 - Q18 - derive the acceleration equation
-- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.md)
-- [Ch 5 - The Einstein Equation](../../01_Literature/Book/Baumann GR/Ch 5 - The Einstein Equation.md)
+- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.html)
+- [Ch 5 - The Einstein Equation](../../01_Literature/Book/Baumann GR/Ch 5 - The Einstein Equation.html)

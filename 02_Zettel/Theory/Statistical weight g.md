@@ -53,10 +53,10 @@ at low $T$, $Z \approx g_{\rm ground}$ (only ground populated). at high $T$, mor
 
 ## see also
 
-- [Atomic term symbols](../../02_Zettel/Theory/Atomic term symbols.md)
-- [Quantum numbers and atomic states](../../02_Zettel/Theory/Quantum numbers and atomic states.md)
-- [Russell-Saunders LS coupling](../../02_Zettel/Theory/Russell-Saunders LS coupling.md)
-- [Hund's rules](../../02_Zettel/Theory/Hund's rules.md)
-- [Boltzmann equation in spectroscopy](../../02_Zettel/Theory/Boltzmann equation in spectroscopy.md)
-- [Saha ionisation equation](../../02_Zettel/Theory/Saha ionisation equation.md)
-- [Partition function](../../02_Zettel/Theory/Partition function.md)
+- [Atomic term symbols](../../02_Zettel/Theory/Atomic term symbols.html)
+- [Quantum numbers and atomic states](../../02_Zettel/Theory/Quantum numbers and atomic states.html)
+- [Russell-Saunders LS coupling](../../02_Zettel/Theory/Russell-Saunders LS coupling.html)
+- [Hund's rules](../../02_Zettel/Theory/Hund's rules.html)
+- [Boltzmann equation in spectroscopy](../../02_Zettel/Theory/Boltzmann equation in spectroscopy.html)
+- [Saha ionisation equation](../../02_Zettel/Theory/Saha ionisation equation.html)
+- [Partition function](../../02_Zettel/Theory/Partition function.html)

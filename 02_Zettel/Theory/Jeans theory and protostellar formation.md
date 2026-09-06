@@ -5,7 +5,7 @@ title: "Jeans theory and protostellar formation"
 
 stars do not form in equilibrium — they form by **gravitational collapse** of cold molecular cloud regions whose mass exceeds the **Jeans mass**.
 
-the cosmological version of this argument applies to perturbations on the FRW background (see [Jeans analysis in expanding universe](../../02_Zettel/Theory/Jeans analysis in expanding universe.md)). here we focus on the stellar/protostellar version.
+the cosmological version of this argument applies to perturbations on the FRW background (see [Jeans analysis in expanding universe](../../02_Zettel/Theory/Jeans analysis in expanding universe.html)). here we focus on the stellar/protostellar version.
 
 ---
 
@@ -53,7 +53,7 @@ $$H_2 \to 2H \quad (E_{\rm diss} = 4.5\,\text{eV})$$
 then **hydrogen ionizes** at $T \sim 10^4$ K:
 $$H \to p + e^- \quad (E_{\rm ion} = 13.6\,\text{eV})$$
 
-each phase absorbs energy and modifies the contraction. eventually the central temperature reaches $\sim 10^6$ K and the protostar settles into a **quasi-equilibrium**, contracting on the Kelvin-Helmholtz timescale (see [Stellar evolution timescales](../../02_Zettel/Theory/Stellar evolution timescales.md)).
+each phase absorbs energy and modifies the contraction. eventually the central temperature reaches $\sim 10^6$ K and the protostar settles into a **quasi-equilibrium**, contracting on the Kelvin-Helmholtz timescale (see [Stellar evolution timescales](../../02_Zettel/Theory/Stellar evolution timescales.html)).
 
 ---
 
@@ -75,7 +75,7 @@ PMS lifetime:
 
 ## the IMF
 
-different fragments produce stars of different masses. the resulting distribution of stellar masses at birth is the **initial mass function** (IMF) — see [Initial mass function](../../02_Zettel/Theory/Initial mass function.md).
+different fragments produce stars of different masses. the resulting distribution of stellar masses at birth is the **initial mass function** (IMF) — see [Initial mass function](../../02_Zettel/Theory/Initial mass function.html).
 
 empirically (Salpeter 1955):
 $$\frac{dN}{dM} \propto M^{-2.35} \quad (M \gtrsim 0.5\,M_\odot)$$
@@ -92,16 +92,16 @@ protostellar collapse is the **bridge** between the diffuse ISM and the stars we
 - the **multiplicity** of star systems (binaries, triples)
 - the **initial conditions** for stellar evolution
 
-→ fundamental for galaxy evolution and chemical enrichment ([Chemical evolution of galaxies](../../02_Zettel/Theory/Chemical evolution of galaxies.md)).
+→ fundamental for galaxy evolution and chemical enrichment ([Chemical evolution of galaxies](../../02_Zettel/Theory/Chemical evolution of galaxies.html)).
 
 ---
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Jeans analysis in expanding universe](../../02_Zettel/Theory/Jeans analysis in expanding universe.md)
-- [HR diagram](../../02_Zettel/Theory/HR diagram.md)
-- [Main sequence, giants, supergiants, white dwarfs](../../02_Zettel/Theory/Main sequence, giants, supergiants, white dwarfs.md)
-- [Stellar evolution timescales](../../02_Zettel/Theory/Stellar evolution timescales.md)
-- [Initial mass function](../../02_Zettel/Theory/Initial mass function.md)
-- [Interstellar medium components and gas cycle](../../02_Zettel/Theory/Interstellar medium components and gas cycle.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Jeans analysis in expanding universe](../../02_Zettel/Theory/Jeans analysis in expanding universe.html)
+- [HR diagram](../../02_Zettel/Theory/HR diagram.html)
+- [Main sequence, giants, supergiants, white dwarfs](../../02_Zettel/Theory/Main sequence, giants, supergiants, white dwarfs.html)
+- [Stellar evolution timescales](../../02_Zettel/Theory/Stellar evolution timescales.html)
+- [Initial mass function](../../02_Zettel/Theory/Initial mass function.html)
+- [Interstellar medium components and gas cycle](../../02_Zettel/Theory/Interstellar medium components and gas cycle.html)

@@ -124,7 +124,7 @@ with $C$ the full data covariance matrix. ignoring correlations underestimates p
 
 ## see also
 
-- [Linear least squares](../../02_Zettel/Theory/Linear least squares.md)
-- [Goodness of fit and chi-squared](../../02_Zettel/Theory/Goodness of fit and chi-squared.md)
-- [General linear least squares](../../02_Zettel/Theory/General linear least squares.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Linear least squares](../../02_Zettel/Theory/Linear least squares.html)
+- [Goodness of fit and chi-squared](../../02_Zettel/Theory/Goodness of fit and chi-squared.html)
+- [General linear least squares](../../02_Zettel/Theory/General linear least squares.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

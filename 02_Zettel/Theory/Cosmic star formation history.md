@@ -5,7 +5,7 @@ title: "Cosmic star formation history"
 
 # cosmic star formation history
 
-up: [Pablo_02_Statistical_properties_of_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.md)
+up: [Pablo_02_Statistical_properties_of_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html)
 
 ## the madau-dickinson plot
 
@@ -39,7 +39,7 @@ the stellar mass density is the time integral of the SFR (modulo recycling and I
 
 $$\rho_{SFR}(z) = (1 - R)^{-1} \frac{d\rho_*(t)}{dt}$$
 
-where $R \approx 0.4$ is the mass returned to the ISM by stellar evolution. this is the consistency check: integrate the cosmic SFR and you should get the cosmic stellar mass density. see [Cosmic stellar mass density growth](../../02_Zettel/Theory/Cosmic stellar mass density growth.md) and [SFR and stellar mass density connection](../../02_Zettel/Theory/SFR and stellar mass density connection.md).
+where $R \approx 0.4$ is the mass returned to the ISM by stellar evolution. this is the consistency check: integrate the cosmic SFR and you should get the cosmic stellar mass density. see [Cosmic stellar mass density growth](../../02_Zettel/Theory/Cosmic stellar mass density growth.html) and [SFR and stellar mass density connection](../../02_Zettel/Theory/SFR and stellar mass density connection.html).
 
 ## three regimes
 
@@ -53,10 +53,10 @@ the cosmic SFR history is the integral of the galaxy LF over $L$ in slices of $z
 
 ## connections
 
-- LF integral that produces it: [Schechter function](../../02_Zettel/Theory/Schechter function.md), [Integrals of the Schechter function](../../02_Zettel/Theory/Integrals of the Schechter function.md)
-- mass-side companion: [Cosmic stellar mass density growth](../../02_Zettel/Theory/Cosmic stellar mass density growth.md)
-- formal identity: [SFR and stellar mass density connection](../../02_Zettel/Theory/SFR and stellar mass density connection.md)
-- the peak's physical meaning: cosmic noon, dust-obscured SF, the main sequence ([Galaxy main sequence of star formation](../../02_Zettel/Theory/Galaxy main sequence of star formation.md))
+- LF integral that produces it: [Schechter function](../../02_Zettel/Theory/Schechter function.html), [Integrals of the Schechter function](../../02_Zettel/Theory/Integrals of the Schechter function.html)
+- mass-side companion: [Cosmic stellar mass density growth](../../02_Zettel/Theory/Cosmic stellar mass density growth.html)
+- formal identity: [SFR and stellar mass density connection](../../02_Zettel/Theory/SFR and stellar mass density connection.html)
+- the peak's physical meaning: cosmic noon, dust-obscured SF, the main sequence ([Galaxy main sequence of star formation](../../02_Zettel/Theory/Galaxy main sequence of star formation.html))
 
 ## key references
 

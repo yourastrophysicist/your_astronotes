@@ -35,8 +35,8 @@ derivable from a single rotation around the $\gamma$ axis by $\varepsilon$.
 
 ## see also
 
-- [Equatorial system](../../02_Zettel/Theory/Equatorial system.md)
-- [Galactic coordinate system](../../02_Zettel/Theory/Galactic coordinate system.md)
-- [Spherical trigonometry](../../02_Zettel/Theory/Spherical trigonometry.md)
-- [Precession nutation aberration parallax](../../02_Zettel/Theory/Precession nutation aberration parallax.md)
-- [Sky brightness](../../02_Zettel/Theory/Sky brightness.md)
+- [Equatorial system](../../02_Zettel/Theory/Equatorial system.html)
+- [Galactic coordinate system](../../02_Zettel/Theory/Galactic coordinate system.html)
+- [Spherical trigonometry](../../02_Zettel/Theory/Spherical trigonometry.html)
+- [Precession nutation aberration parallax](../../02_Zettel/Theory/Precession nutation aberration parallax.html)
+- [Sky brightness](../../02_Zettel/Theory/Sky brightness.html)

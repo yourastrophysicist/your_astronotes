@@ -78,19 +78,19 @@ the locus of all stars in the cluster on the HR diagram is an **isochrone** ("eq
 ## the cosmological role of the HR diagram
 
 apart from being the central organizing tool of stellar astrophysics, the HR diagram:
-- gives **standard candles**: Cepheids on the instability strip, RR Lyraes on the horizontal branch (see [Cepheids and supernovae](../../02_Zettel/Theory/Cepheids and supernovae.md))
+- gives **standard candles**: Cepheids on the instability strip, RR Lyraes on the horizontal branch (see [Cepheids and supernovae](../../02_Zettel/Theory/Cepheids and supernovae.html))
 - gives **ages of the universe**: globular cluster MS turn-offs at $\sim 13$ Gyr
-- enables **stellar population synthesis**: integrating an isochrone over the IMF gives the integrated SED of a population (see [Spectral energy distributions](../../02_Zettel/Theory/Spectral energy distributions.md))
-- provides the **end-states** that make compact objects (neutron stars, black holes), the targets of high-energy astrophysics (see [Lab_High-Energy_MOC](../../00_Atlas/Lab_High-Energy_MOC.md))
+- enables **stellar population synthesis**: integrating an isochrone over the IMF gives the integrated SED of a population (see [Spectral energy distributions](../../02_Zettel/Theory/Spectral energy distributions.html))
+- provides the **end-states** that make compact objects (neutron stars, black holes), the targets of high-energy astrophysics (see [Lab_High-Energy_MOC](../../00_Atlas/Lab_High-Energy_MOC.html))
 
 ---
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Stellar spectra and spectral classification](../../02_Zettel/Theory/Stellar spectra and spectral classification.md)
-- [Main sequence, giants, supergiants, white dwarfs](../../02_Zettel/Theory/Main sequence, giants, supergiants, white dwarfs.md)
-- [Stellar scaling relations](../../02_Zettel/Theory/Stellar scaling relations.md)
-- [Stellar nucleosynthesis](../../02_Zettel/Theory/Stellar nucleosynthesis.md)
-- [Stellar evolution timescales](../../02_Zettel/Theory/Stellar evolution timescales.md)
-- [Solar evolution and final stages](../../02_Zettel/Theory/Solar evolution and final stages.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Stellar spectra and spectral classification](../../02_Zettel/Theory/Stellar spectra and spectral classification.html)
+- [Main sequence, giants, supergiants, white dwarfs](../../02_Zettel/Theory/Main sequence, giants, supergiants, white dwarfs.html)
+- [Stellar scaling relations](../../02_Zettel/Theory/Stellar scaling relations.html)
+- [Stellar nucleosynthesis](../../02_Zettel/Theory/Stellar nucleosynthesis.html)
+- [Stellar evolution timescales](../../02_Zettel/Theory/Stellar evolution timescales.html)
+- [Solar evolution and final stages](../../02_Zettel/Theory/Solar evolution and final stages.html)

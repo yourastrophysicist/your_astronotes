@@ -9,7 +9,7 @@ title: "Pablo_01_Introduction_to_galaxy_studies"
 
 goal of the lecture, as written on the slide: **historical introduction to the study of galaxies.** that is the whole thing. no derivations, no equations — just the long walk from a small cloud next to Andromeda's mouth, drawn by a Persian astronomer in the tenth century, to JWST's NIRCam staring down the first billion years.
 
-index: [Observational_Cosmology_MOC](../../../00_Atlas/Observational_Cosmology_MOC.md)
+index: [Observational_Cosmology_MOC](../../../00_Atlas/Observational_Cosmology_MOC.html)
 
 ---
 
@@ -157,7 +157,7 @@ the plots at the end of the historical slides are already dated "circa 2010" —
 - the history here is not decoration. Rodighiero's chapter 0 is going to derive $(1+z) = a(t_e)^{-1}$, $d_L = d_A(1+z)^2$, $q_0 = \Omega_m/2 - \Omega_\Lambda$ — and every one of those equations is the formalization of something somebody first *observed* in the timeline above. the redshift is huggins and slipher. the luminosity distance is hubble's 1929 plot. the $\Lambda$ term is perlmutter/schmidt.
 - the "great debate" is a lesson in why distance indicators matter more than anything else. curtis and shapley had the same sky and disagreed about the size of the universe by three orders of magnitude. the dispute was settled by *one* working standard candle (cepheids).
 
-next lecture will be where pablo gets technical — morphology, luminosity function, SEDs, photo-z — and that is where my [Observational_Cosmology_MOC](../../../00_Atlas/Observational_Cosmology_MOC.md) will start to grow under block 10.
+next lecture will be where pablo gets technical — morphology, luminosity function, SEDs, photo-z — and that is where my [Observational_Cosmology_MOC](../../../00_Atlas/Observational_Cosmology_MOC.html) will start to grow under block 10.
 
 ---
 

@@ -89,9 +89,9 @@ a PRNG with period $T$ should not be used for simulations requiring more than $\
 
 ## see also
 
-- [Random number seeds](../../02_Zettel/Theory/Random number seeds.md)
-- [Inverse transform sampling](../../02_Zettel/Theory/Inverse transform sampling.md)
-- [Box-Muller transform for Gaussian random numbers](../../02_Zettel/Theory/Box-Muller transform for Gaussian random numbers.md)
-- [Rejection sampling](../../02_Zettel/Theory/Rejection sampling.md)
-- [Monte Carlo integration mean value method](../../02_Zettel/Theory/Monte Carlo integration mean value method.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Random number seeds](../../02_Zettel/Theory/Random number seeds.html)
+- [Inverse transform sampling](../../02_Zettel/Theory/Inverse transform sampling.html)
+- [Box-Muller transform for Gaussian random numbers](../../02_Zettel/Theory/Box-Muller transform for Gaussian random numbers.html)
+- [Rejection sampling](../../02_Zettel/Theory/Rejection sampling.html)
+- [Monte Carlo integration mean value method](../../02_Zettel/Theory/Monte Carlo integration mean value method.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

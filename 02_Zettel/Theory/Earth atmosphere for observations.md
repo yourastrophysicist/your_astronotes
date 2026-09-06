@@ -5,7 +5,7 @@ title: "Earth atmosphere for observations"
 
 the atmosphere is the **last optical element** in any ground-based light path, and an actively bad one. before the photon hits the CCD it has spent its last microsecond inside 100 km of perturbed gas that does four annoying things: it absorbs at certain wavelengths (transparency), it dims the photon at all wavelengths (extinction), it twinkles its arrival time (scintillation), and it scrambles its arrival angle (seeing). this note collects all four into one comprehensive picture, with the formulas I need on the board.
 
-source: Lecture 2 ("Earth atmosphere") of the Obs Astrophysics course at U Padua, with reference text Lena et al., *Observational Astrophysics*. companion to [Observational_Astrophysics_MOC](../../00_Atlas/Observational_Astrophysics_MOC.md) Block 2.
+source: Lecture 2 ("Earth atmosphere") of the Obs Astrophysics course at U Padua, with reference text Lena et al., *Observational Astrophysics*. companion to [Observational_Astrophysics_MOC](../../00_Atlas/Observational_Astrophysics_MOC.html) Block 2.
 
 ---
 
@@ -158,12 +158,12 @@ the spine of any oral question on the atmosphere is:
 
 ## see also
 
-- [Observational_Astrophysics_MOC](../../00_Atlas/Observational_Astrophysics_MOC.md) — Block 2 lives here
-- [Adaptive optics overview](../../02_Zettel/Theory/interf/Adaptive optics overview.md)
-- [Atmospheric extinction](../../02_Zettel/Theory/interf/Atmospheric extinction.md)
-- [Atmospheric seeing](../../02_Zettel/Theory/interf/Atmospheric seeing.md)
-- [CCD detectors and SNR](../../02_Zettel/Theory/CCD detectors and SNR.md) — the next stop in the photon's journey
-- [Magnitudes and photometric systems](../../02_Zettel/Theory/Magnitudes and photometric systems.md) — what we do with the photometric standards
-- [Sky brightness](../../02_Zettel/Theory/Sky brightness.md)
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Lab_High-Energy_MOC](../../00_Atlas/Lab_High-Energy_MOC.md) — the X-ray analogue of "the atmosphere as a barrier"
+- [Observational_Astrophysics_MOC](../../00_Atlas/Observational_Astrophysics_MOC.html) — Block 2 lives here
+- [Adaptive optics overview](../../02_Zettel/Theory/interf/Adaptive optics overview.html)
+- [Atmospheric extinction](../../02_Zettel/Theory/interf/Atmospheric extinction.html)
+- [Atmospheric seeing](../../02_Zettel/Theory/interf/Atmospheric seeing.html)
+- [CCD detectors and SNR](../../02_Zettel/Theory/CCD detectors and SNR.html) — the next stop in the photon's journey
+- [Magnitudes and photometric systems](../../02_Zettel/Theory/Magnitudes and photometric systems.html) — what we do with the photometric standards
+- [Sky brightness](../../02_Zettel/Theory/Sky brightness.html)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Lab_High-Energy_MOC](../../00_Atlas/Lab_High-Energy_MOC.html) — the X-ray analogue of "the atmosphere as a barrier"

@@ -62,12 +62,12 @@ so PN spectra carry the chemical legacy of intermediate-mass star evolution and 
 
 ## see also
 
-- [H II region spectroscopy](../../02_Zettel/Theory/H II region spectroscopy.md)
-- [Forbidden lines](../../02_Zettel/Theory/Forbidden lines.md)
-- [OIII forbidden lines](../../02_Zettel/Theory/OIII forbidden lines.md)
+- [H II region spectroscopy](../../02_Zettel/Theory/H II region spectroscopy.html)
+- [Forbidden lines](../../02_Zettel/Theory/Forbidden lines.html)
+- [OIII forbidden lines](../../02_Zettel/Theory/OIII forbidden lines.html)
 - Strömgren sphere
-- [Helium energy levels](../../02_Zettel/Theory/Helium energy levels.md)
-- [Stellar evolution timescales](../../02_Zettel/Theory/Stellar evolution timescales.md)
-- [Stellar populations I II III](../../02_Zettel/Theory/Stellar populations I II III.md)
-- [Recombination continuum](../../02_Zettel/Theory/Recombination continuum.md)
-- [Photoionisation balance](../../02_Zettel/Theory/Photoionisation balance.md)
+- [Helium energy levels](../../02_Zettel/Theory/Helium energy levels.html)
+- [Stellar evolution timescales](../../02_Zettel/Theory/Stellar evolution timescales.html)
+- [Stellar populations I II III](../../02_Zettel/Theory/Stellar populations I II III.html)
+- [Recombination continuum](../../02_Zettel/Theory/Recombination continuum.html)
+- [Photoionisation balance](../../02_Zettel/Theory/Photoionisation balance.html)

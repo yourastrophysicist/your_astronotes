@@ -110,9 +110,9 @@ ELTs are interferometers in disguise: their adaptive secondaries make them optic
 
 ## see also
 
-- [Atmospheric turbulence overview](../../02_Zettel/Theory/interf/Atmospheric turbulence overview.md)
-- [Wavefront sensors](../../02_Zettel/Theory/interf/Wavefront sensors.md)
-- [Deformable mirrors and tip-tilt](../../02_Zettel/Theory/interf/Deformable mirrors and tip-tilt.md)
-- [Guide stars and laser guide stars](../../02_Zettel/Theory/interf/Guide stars and laser guide stars.md)
-- [Fried parameter $r_0$](../../02_Zettel/Theory/interf/Fried parameter $r_0$.md)
-- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Atmospheric turbulence overview](../../02_Zettel/Theory/interf/Atmospheric turbulence overview.html)
+- [Wavefront sensors](../../02_Zettel/Theory/interf/Wavefront sensors.html)
+- [Deformable mirrors and tip-tilt](../../02_Zettel/Theory/interf/Deformable mirrors and tip-tilt.html)
+- [Guide stars and laser guide stars](../../02_Zettel/Theory/interf/Guide stars and laser guide stars.html)
+- [Fried parameter $r_0$](../../02_Zettel/Theory/interf/Fried parameter $r_0$.html)
+- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.html)

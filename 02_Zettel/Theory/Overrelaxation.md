@@ -5,7 +5,7 @@ title: "Overrelaxation"
 
 # Overrelaxation
 
-an acceleration trick for [relaxation](../../02_Zettel/Theory/Relaxation method.md) iterations and for [Gauss-Seidel iteration](../../02_Zettel/Theory/Gauss-Seidel iteration.md). instead of accepting the relaxation update $g(x_n)$ as the next iterate, **overshoot** by a factor $\omega > 1$:
+an acceleration trick for [relaxation](../../02_Zettel/Theory/Relaxation method.html) iterations and for [Gauss-Seidel iteration](../../02_Zettel/Theory/Gauss-Seidel iteration.html). instead of accepting the relaxation update $g(x_n)$ as the next iterate, **overshoot** by a factor $\omega > 1$:
 
 $$x_{n+1} = x_n + \omega (g(x_n) - x_n)$$
 
@@ -98,8 +98,8 @@ if the system is small, just use a direct solver (`np.linalg.solve`) and skip th
 
 ## see also
 
-- [Relaxation method](../../02_Zettel/Theory/Relaxation method.md)
-- [Gauss-Seidel iteration](../../02_Zettel/Theory/Gauss-Seidel iteration.md)
-- [Boundary value PDEs and iteration](../../02_Zettel/Theory/Boundary value PDEs and iteration.md)
-- [Pros and cons of linear solvers](../../02_Zettel/Theory/Pros and cons of linear solvers.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Relaxation method](../../02_Zettel/Theory/Relaxation method.html)
+- [Gauss-Seidel iteration](../../02_Zettel/Theory/Gauss-Seidel iteration.html)
+- [Boundary value PDEs and iteration](../../02_Zettel/Theory/Boundary value PDEs and iteration.html)
+- [Pros and cons of linear solvers](../../02_Zettel/Theory/Pros and cons of linear solvers.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

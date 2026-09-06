@@ -53,11 +53,11 @@ for non-flat universes, replace $d_C$ in $d_L, d_A$ with the **transverse comovi
 ## see also
 
 - 03_Zettel/Theory/Cosmological distances
-- [Comoving vs proper coordinates](../../02_Zettel/Theory/Comoving vs proper coordinates.md)
-- [Angular diameter distance](../../02_Zettel/Theory/Angular diameter distance.md)
-- [Luminosity distance](../../02_Zettel/Theory/Luminosity distance.md)
-- [FLRW metric](../../02_Zettel/Theory/FLRW metric.md)
-- [Friedmann equations](../../02_Zettel/Theory/Friedmann equations.md)
-- [Hubble law](../../02_Zettel/Theory/Hubble law.md)
-- [Time-redshift relation](../../02_Zettel/Theory/Time-redshift relation.md)
-- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md)
+- [Comoving vs proper coordinates](../../02_Zettel/Theory/Comoving vs proper coordinates.html)
+- [Angular diameter distance](../../02_Zettel/Theory/Angular diameter distance.html)
+- [Luminosity distance](../../02_Zettel/Theory/Luminosity distance.html)
+- [FLRW metric](../../02_Zettel/Theory/FLRW metric.html)
+- [Friedmann equations](../../02_Zettel/Theory/Friedmann equations.html)
+- [Hubble law](../../02_Zettel/Theory/Hubble law.html)
+- [Time-redshift relation](../../02_Zettel/Theory/Time-redshift relation.html)
+- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html)

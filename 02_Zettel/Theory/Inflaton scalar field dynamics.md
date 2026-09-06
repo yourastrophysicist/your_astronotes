@@ -104,8 +104,8 @@ $$\frac{\delta\rho}{\rho} \sim \frac{H^2}{\dot\phi}$$
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Inflation overview](../../02_Zettel/Theory/Inflation overview.md)
-- [Old vs new vs chaotic inflation, slow-roll](../../02_Zettel/Theory/Old vs new vs chaotic inflation, slow-roll.md)
-- [Standard model problems](../../02_Zettel/Theory/Standard model problems.md)
-- [Baumann_reference](../../02_Zettel/Theory/Baumann_reference.md) — chapters 2.3, 6.2, 6.3 are the rigorous treatment
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Inflation overview](../../02_Zettel/Theory/Inflation overview.html)
+- [Old vs new vs chaotic inflation, slow-roll](../../02_Zettel/Theory/Old vs new vs chaotic inflation, slow-roll.html)
+- [Standard model problems](../../02_Zettel/Theory/Standard model problems.html)
+- [Baumann_reference](../../02_Zettel/Theory/Baumann_reference.html) — chapters 2.3, 6.2, 6.3 are the rigorous treatment

@@ -60,12 +60,12 @@ current B-mode searches (BICEP/Keck) use multi-frequency observations to subtrac
 
 ## see also
 
-- [CMB anisotropies](../../02_Zettel/Theory/CMB anisotropies.md)
-- [CMB power spectrum](../../02_Zettel/Theory/CMB power spectrum.md)
+- [CMB anisotropies](../../02_Zettel/Theory/CMB anisotropies.html)
+- [CMB power spectrum](../../02_Zettel/Theory/CMB power spectrum.html)
 - CMB — discovery and blackbody spectrum
-- [Inflation overview](../../02_Zettel/Theory/Inflation overview.md)
-- [Old vs new vs chaotic inflation, slow-roll](../../02_Zettel/Theory/Old vs new vs chaotic inflation, slow-roll.md)
-- [Linear evolution of perturbations in expanding universe](../../02_Zettel/Theory/Linear evolution of perturbations in expanding universe.md)
-- [Reionization](../../02_Zettel/Theory/Reionization.md)
-- [ΛCDM current parameters](../../02_Zettel/Theory/ΛCDM current parameters.md)
-- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md)
+- [Inflation overview](../../02_Zettel/Theory/Inflation overview.html)
+- [Old vs new vs chaotic inflation, slow-roll](../../02_Zettel/Theory/Old vs new vs chaotic inflation, slow-roll.html)
+- [Linear evolution of perturbations in expanding universe](../../02_Zettel/Theory/Linear evolution of perturbations in expanding universe.html)
+- [Reionization](../../02_Zettel/Theory/Reionization.html)
+- [ΛCDM current parameters](../../02_Zettel/Theory/ΛCDM current parameters.html)
+- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html)

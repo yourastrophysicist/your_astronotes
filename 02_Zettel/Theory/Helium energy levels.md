@@ -54,12 +54,12 @@ so the He I / He II ratio is a temperature thermometer for early-type stars. plu
 
 ## see also
 
-- [Quantum numbers and atomic states](../../02_Zettel/Theory/Quantum numbers and atomic states.md)
-- [Atomic term symbols](../../02_Zettel/Theory/Atomic term symbols.md)
-- [Russell-Saunders LS coupling](../../02_Zettel/Theory/Russell-Saunders LS coupling.md)
-- [Selection rules](../../02_Zettel/Theory/Selection rules.md)
-- [Hydrogen spectral series](../../02_Zettel/Theory/Hydrogen spectral series.md)
+- [Quantum numbers and atomic states](../../02_Zettel/Theory/Quantum numbers and atomic states.html)
+- [Atomic term symbols](../../02_Zettel/Theory/Atomic term symbols.html)
+- [Russell-Saunders LS coupling](../../02_Zettel/Theory/Russell-Saunders LS coupling.html)
+- [Selection rules](../../02_Zettel/Theory/Selection rules.html)
+- [Hydrogen spectral series](../../02_Zettel/Theory/Hydrogen spectral series.html)
 - Energy level diagrams Grötrian
-- [Helium population vs T](../../02_Zettel/Theory/Helium population vs T.md)
-- [Why the Sequence OBAFGKM](../../02_Zettel/Theory/Why the Sequence OBAFGKM.md)
-- [Stellar spectra and spectral classification](../../02_Zettel/Theory/Stellar spectra and spectral classification.md)
+- [Helium population vs T](../../02_Zettel/Theory/Helium population vs T.html)
+- [Why the Sequence OBAFGKM](../../02_Zettel/Theory/Why the Sequence OBAFGKM.html)
+- [Stellar spectra and spectral classification](../../02_Zettel/Theory/Stellar spectra and spectral classification.html)

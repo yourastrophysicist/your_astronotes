@@ -5,7 +5,7 @@ title: "Decoupling"
 
 **decoupling** is the moment a particle species stops interacting with the rest of the cosmic plasma. its distribution **freezes** at that moment + free-streams thereafter. happens for different species at different epochs. for **photons**, decoupling at $z \sim 1100$ produces the CMB.
 
-(companion: [Photon decoupling and CMB](../../02_Zettel/Theory/Photon decoupling and CMB.md) + [Decoupling and freeze-out](../../02_Zettel/Theory/Decoupling and freeze-out.md).)
+(companion: [Photon decoupling and CMB](../../02_Zettel/Theory/Photon decoupling and CMB.html) + [Decoupling and freeze-out](../../02_Zettel/Theory/Decoupling and freeze-out.html).)
 
 ## the criterion
 
@@ -85,14 +85,14 @@ each leaves a frozen relic abundance, observable today (CMB, $C\nu B$, dark matt
 
 ## see also
 
-- [Photon decoupling and CMB](../../02_Zettel/Theory/Photon decoupling and CMB.md)
-- [Decoupling and freeze-out](../../02_Zettel/Theory/Decoupling and freeze-out.md)
-- [Recombination](../../02_Zettel/Theory/Recombination.md)
-- [Saha equation and recombination](../../02_Zettel/Theory/Saha equation and recombination.md)
-- [Brief thermal history](../../02_Zettel/Theory/Brief thermal history.md)
-- [Transition epochs](../../02_Zettel/Theory/Transition epochs.md)
+- [Photon decoupling and CMB](../../02_Zettel/Theory/Photon decoupling and CMB.html)
+- [Decoupling and freeze-out](../../02_Zettel/Theory/Decoupling and freeze-out.html)
+- [Recombination](../../02_Zettel/Theory/Recombination.html)
+- [Saha equation and recombination](../../02_Zettel/Theory/Saha equation and recombination.html)
+- [Brief thermal history](../../02_Zettel/Theory/Brief thermal history.html)
+- [Transition epochs](../../02_Zettel/Theory/Transition epochs.html)
 - CMB — discovery and blackbody spectrum
 - Dark matter relics — WIMP miracle
-- [Cosmic_inventory_neutrinos](../../02_Zettel/Theory/Cosmic_inventory_neutrinos.md)
+- [Cosmic_inventory_neutrinos](../../02_Zettel/Theory/Cosmic_inventory_neutrinos.html)
 - Q19 - radiation universe
-- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md)
+- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html)

@@ -4,11 +4,11 @@ name: Search for Pop III stars in dwarf galaxies
 description: surveys hunting for chemically primitive stars with Pop III nucleosynthetic fingerprints, with UFDGs and the Galactic halo as the best hunting grounds
 ---
 
-since [Pop III stars](../../02_Zettel/Theory/Population III stars.md) are not directly observable today (the metal-free first generation has died out), the **search for Pop III chemical signatures** in surviving stars is the main observational frontier. ultra-faint dwarf galaxies + the Galactic outer halo are the best hunting grounds because their stars are old, chemically primitive, and were polluted by very few progenitors per cloud.
+since [Pop III stars](../../02_Zettel/Theory/Population III stars.html) are not directly observable today (the metal-free first generation has died out), the **search for Pop III chemical signatures** in surviving stars is the main observational frontier. ultra-faint dwarf galaxies + the Galactic outer halo are the best hunting grounds because their stars are old, chemically primitive, and were polluted by very few progenitors per cloud.
 
 ## why dwarf galaxies are the best targets
 
-unlike the Milky Way disk + bulge, [UFDGs](../../02_Zettel/Theory/Ultra-faint dwarf galaxies definition.md) have:
+unlike the Milky Way disk + bulge, [UFDGs](../../02_Zettel/Theory/Ultra-faint dwarf galaxies definition.html) have:
 
 - **brief star-formation episode** (single old burst, truncated at reionisation);
 - **shallow potential well** (only one or few SNe pollute the entire UFDG);
@@ -99,11 +99,11 @@ these surveys are slowly mapping the Pop III IMF + SN explosion physics by count
 
 ## see also
 
-- [Population III stars](../../02_Zettel/Theory/Population III stars.md)
-- [Pop III nucleosynthesis signatures](../../02_Zettel/Theory/Pop III nucleosynthesis signatures.md)
-- [Critical metallicity for fragmentation](../../02_Zettel/Theory/Critical metallicity for fragmentation.md)
-- [Pop III remnants in UFDGs](../../02_Zettel/Theory/Pop III remnants in UFDGs.md)
-- [Ultra-faint dwarf galaxies definition](../../02_Zettel/Theory/Ultra-faint dwarf galaxies definition.md)
-- [UFDG search via deep CMD](../../02_Zettel/Theory/UFDG search via deep CMD.md)
-- [JWST and the first stars](../../02_Zettel/Theory/JWST and the first stars.md)
-- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.md)
+- [Population III stars](../../02_Zettel/Theory/Population III stars.html)
+- [Pop III nucleosynthesis signatures](../../02_Zettel/Theory/Pop III nucleosynthesis signatures.html)
+- [Critical metallicity for fragmentation](../../02_Zettel/Theory/Critical metallicity for fragmentation.html)
+- [Pop III remnants in UFDGs](../../02_Zettel/Theory/Pop III remnants in UFDGs.html)
+- [Ultra-faint dwarf galaxies definition](../../02_Zettel/Theory/Ultra-faint dwarf galaxies definition.html)
+- [UFDG search via deep CMD](../../02_Zettel/Theory/UFDG search via deep CMD.html)
+- [JWST and the first stars](../../02_Zettel/Theory/JWST and the first stars.html)
+- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.html)

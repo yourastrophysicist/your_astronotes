@@ -70,11 +70,11 @@ published seeing for a site is the median over many years; a given night can be 
 
 ## see also
 
-- [Earth atmosphere for observations](../../02_Zettel/Theory/Earth atmosphere for observations.md)
-- [Adaptive optics overview](../../02_Zettel/Theory/interf/Adaptive optics overview.md)
-- [Atmospheric scintillation](../../02_Zettel/Theory/interf/Atmospheric scintillation.md)
-- [Seeing Effect](../../02_Zettel/Theory/Seeing Effect.md) — additional notes
-- [Atmospheric layers](../../02_Zettel/Theory/interf/Atmospheric layers.md)
+- [Earth atmosphere for observations](../../02_Zettel/Theory/Earth atmosphere for observations.html)
+- [Adaptive optics overview](../../02_Zettel/Theory/interf/Adaptive optics overview.html)
+- [Atmospheric scintillation](../../02_Zettel/Theory/interf/Atmospheric scintillation.html)
+- [Seeing Effect](../../02_Zettel/Theory/Seeing Effect.html) — additional notes
+- [Atmospheric layers](../../02_Zettel/Theory/interf/Atmospheric layers.html)
 - [Point Spread Function (PSF)](../../02_Zettel/Theory/Point Spread Function (PSF).md)
-- [Telescope resolving power](../../02_Zettel/Theory/Telescope resolving power.md)
-- [Rayleigh criterion](../../02_Zettel/Theory/Rayleigh criterion.md)
+- [Telescope resolving power](../../02_Zettel/Theory/Telescope resolving power.html)
+- [Rayleigh criterion](../../02_Zettel/Theory/Rayleigh criterion.html)

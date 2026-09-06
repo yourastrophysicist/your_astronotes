@@ -112,8 +112,8 @@ source: local schematic plot generated from standard qualitative spectral scalin
 
 ## see also
 
-- [Radio astronomy basics](../../02_Zettel/Theory/interf/Radio astronomy basics.md)
-- [Polarization in interferometry](../../02_Zettel/Theory/interf/Polarization in interferometry.md)
-- [Young stellar object disks](../../02_Zettel/Theory/interf/Young stellar object disks.md)
-- [AGN and supermassive black holes](../../02_Zettel/Theory/interf/AGN and supermassive black holes.md)
-- [Cosmological masers](../../02_Zettel/Theory/interf/Cosmological masers.md)
+- [Radio astronomy basics](../../02_Zettel/Theory/interf/Radio astronomy basics.html)
+- [Polarization in interferometry](../../02_Zettel/Theory/interf/Polarization in interferometry.html)
+- [Young stellar object disks](../../02_Zettel/Theory/interf/Young stellar object disks.html)
+- [AGN and supermassive black holes](../../02_Zettel/Theory/interf/AGN and supermassive black holes.html)
+- [Cosmological masers](../../02_Zettel/Theory/interf/Cosmological masers.html)

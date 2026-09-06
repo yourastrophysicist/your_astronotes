@@ -24,7 +24,7 @@ quantitatively, for an atom interacting with neutral perturbers via van der Waal
 $$\gamma_{\rm vdW} = C_6^{2/5} v^{3/5} n$$
 with $C_6$ the van der Waals coefficient and $v$ the relative speed.
 
-for ionic perturbers (Stark broadening of H), see [Stark broadening](../../02_Zettel/Theory/Stark broadening.md).
+for ionic perturbers (Stark broadening of H), see [Stark broadening](../../02_Zettel/Theory/Stark broadening.html).
 
 ## astronomical examples
 
@@ -39,7 +39,7 @@ for the same $T_{\rm eff}$, a **dwarf** has higher gas pressure (and density) th
 | H Balmer | very strong Stark wings | narrow, deep |
 | Ca II H + K | extensive wings | sharp |
 
-this is the **physical basis of luminosity classes** ([MK luminosity classes](../../02_Zettel/Theory/MK luminosity classes.md)). at fixed $T$, dwarfs have stronger pressure-broadened wings; giants have narrower lines.
+this is the **physical basis of luminosity classes** ([MK luminosity classes](../../02_Zettel/Theory/MK luminosity classes.html)). at fixed $T$, dwarfs have stronger pressure-broadened wings; giants have narrower lines.
 
 ### Balmer lines in OB stars
 
@@ -68,12 +68,12 @@ defined as $a = \Gamma/(4\pi\Delta\nu_D)$, the ratio of total Lorentzian (natura
 
 ## see also
 
-- [Natural broadening Lorentzian](../../02_Zettel/Theory/Natural broadening Lorentzian.md)
-- [Stark broadening](../../02_Zettel/Theory/Stark broadening.md)
-- [Line profile function phi nu](../../02_Zettel/Theory/Line profile function phi nu.md)
-- [Voigt profile](../../02_Zettel/Theory/Voigt profile.md)
-- [Damping wings](../../02_Zettel/Theory/Damping wings.md)
-- [Thermal Doppler broadening](../../02_Zettel/Theory/Thermal Doppler broadening.md)
-- [Curve of growth](../../02_Zettel/Theory/Curve of growth.md)
-- [MK luminosity classes](../../02_Zettel/Theory/MK luminosity classes.md)
-- [Stellar atmosphere structure](../../02_Zettel/Theory/Stellar atmosphere structure.md)
+- [Natural broadening Lorentzian](../../02_Zettel/Theory/Natural broadening Lorentzian.html)
+- [Stark broadening](../../02_Zettel/Theory/Stark broadening.html)
+- [Line profile function phi nu](../../02_Zettel/Theory/Line profile function phi nu.html)
+- [Voigt profile](../../02_Zettel/Theory/Voigt profile.html)
+- [Damping wings](../../02_Zettel/Theory/Damping wings.html)
+- [Thermal Doppler broadening](../../02_Zettel/Theory/Thermal Doppler broadening.html)
+- [Curve of growth](../../02_Zettel/Theory/Curve of growth.html)
+- [MK luminosity classes](../../02_Zettel/Theory/MK luminosity classes.html)
+- [Stellar atmosphere structure](../../02_Zettel/Theory/Stellar atmosphere structure.html)

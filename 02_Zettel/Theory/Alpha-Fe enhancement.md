@@ -5,7 +5,7 @@ title: "Alpha-Fe enhancement"
 
 # alpha-fe enhancement
 
-up: [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.md) · [Stellar nucleosynthesis](../../02_Zettel/Theory/Stellar nucleosynthesis.md) · Early-type galaxies
+up: [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.html) · [Stellar nucleosynthesis](../../02_Zettel/Theory/Stellar nucleosynthesis.html) · Early-type galaxies
 
 ## definition
 
@@ -43,5 +43,5 @@ More massive ellipticals formed their stars faster and earlier (downsizing).
 
 ## connections
 
-- stellar populations: [Color gradients in ellipticals](../../02_Zettel/Theory/Color gradients in ellipticals.md), [Stellar population synthesis](../../02_Zettel/Theory/Stellar population synthesis.md)
-- scaling laws: [Faber-Jackson relation](../../02_Zettel/Theory/Faber-Jackson relation.md)
+- stellar populations: [Color gradients in ellipticals](../../02_Zettel/Theory/Color gradients in ellipticals.html), [Stellar population synthesis](../../02_Zettel/Theory/Stellar population synthesis.html)
+- scaling laws: [Faber-Jackson relation](../../02_Zettel/Theory/Faber-Jackson relation.html)

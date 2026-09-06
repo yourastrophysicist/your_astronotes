@@ -59,11 +59,11 @@ so a photon orbits $\sim 2$ times before escaping. this produces the **bright ri
 
 ## see also
 
-- [Schwarzschild metric](../../02_Zettel/Theory/Schwarzschild metric.md)
-- [Schwarzschild effective potential](../../02_Zettel/Theory/Schwarzschild effective potential.md)
-- [Photon sphere](../../02_Zettel/Theory/Photon sphere.md)
-- [Light deflection](../../02_Zettel/Theory/Light deflection.md)
-- [Effective potential approach](../../02_Zettel/Theory/Effective potential approach.md)
+- [Schwarzschild metric](../../02_Zettel/Theory/Schwarzschild metric.html)
+- [Schwarzschild effective potential](../../02_Zettel/Theory/Schwarzschild effective potential.html)
+- [Photon sphere](../../02_Zettel/Theory/Photon sphere.html)
+- [Light deflection](../../02_Zettel/Theory/Light deflection.html)
+- [Effective potential approach](../../02_Zettel/Theory/Effective potential approach.html)
 - Q14 - photon trajectory and impact parameter
-- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.md)
-- [Ch 6 - Black Holes](../../01_Literature/Book/Baumann GR/Ch 6 - Black Holes.md)
+- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.html)
+- [Ch 6 - Black Holes](../../01_Literature/Book/Baumann GR/Ch 6 - Black Holes.html)

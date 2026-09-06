@@ -18,7 +18,7 @@ This is distinct from **sensitivity** (ability to detect faint sources)
 For any aperture of diameter $D$, the minimum resolvable angle is set by **diffraction** of light at the aperture:
 $$\boxed{\theta_{min} = 1.22 \frac{\lambda}{D}}$$
 
-This is the **Rayleigh criterion** — see [Rayleigh criterion](../../02_Zettel/Theory/Rayleigh criterion.md) for the full derivation from the Airy pattern
+This is the **Rayleigh criterion** — see [Rayleigh criterion](../../02_Zettel/Theory/Rayleigh criterion.html) for the full derivation from the Airy pattern
 
 The image of a point source at the focal plane is not a point but the **Airy disk**:
 	radius: $r_{Airy} = 1.22 f\lambda/D$ at the focal plane
@@ -49,7 +49,7 @@ This connects the physical pixel size on the detector to the angular resolution 
 
 ### Optical telescopes (ground-based)
 Diffraction limit $\ll$ seeing limit
-	the resolution is set entirely by **atmospheric [seeing](../../02_Zettel/Theory/Seeing Effect.md)**:
+	the resolution is set entirely by **atmospheric [seeing](../../02_Zettel/Theory/Seeing Effect.html)**:
 $$\theta_{seeing} \approx \frac{\lambda}{r_0} \sim 0.5''$$
 
 With **adaptive optics (AO)**:
@@ -64,7 +64,7 @@ Limited by **diffraction** (no atmosphere)
 ### X-ray telescopes (all space-based)
 Diffraction is negligible
 	resolution limited by **mirror imperfections** (figure errors, roughness, alignment)
-	characterized by HPD — see [Angular Resolution](../../02_Zettel/Theory/Angular Resolution.md)
+	characterized by HPD — see [Angular Resolution](../../02_Zettel/Theory/Angular Resolution.html)
 	Chandra HPD = $0.5''$: the best angular resolution in the X-ray sky
 
 ---
@@ -74,7 +74,7 @@ Diffraction is negligible
 The [Point Spread Function (PSF)](../../02_Zettel/Theory/Point Spread Function (PSF).md) describes the spatial distribution of the image of a point source
 	from the PSF, the resolving power metrics are derived:
 		**FWHM**: full width at half maximum of the PSF core
-		**HPD/HEW**: half-power diameter — see [Angular Resolution](../../02_Zettel/Theory/Angular Resolution.md)
+		**HPD/HEW**: half-power diameter — see [Angular Resolution](../../02_Zettel/Theory/Angular Resolution.html)
 		**EEF**: encircled energy fraction at angular radius $\theta$
 
 For two equally bright point sources to be resolved, their angular separation must exceed $\sim$HPD/2
@@ -90,4 +90,4 @@ where $\Delta\theta$ is set by the PSF width
 	sharper PSF → better spectral resolution for the same grating
 	this is why Chandra HETGS achieves $R \sim 1000$, while XMM-Newton RGS achieves $R \sim 200$
 
-See [X-ray diffraction grating](../../02_Zettel/Theory/X-ray diffraction grating.md) for full treatment
+See [X-ray diffraction grating](../../02_Zettel/Theory/X-ray diffraction grating.html) for full treatment

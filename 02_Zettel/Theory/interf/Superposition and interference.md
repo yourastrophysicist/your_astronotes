@@ -37,7 +37,7 @@ $$V = \frac{I_{\max} - I_{\min}}{I_{\max} + I_{\min}} = \frac{2 A_1 A_2}{A_1^2 +
 if $A_1 = A_2$: $V = 1$. perfect fringes.
 if $A_1 \neq A_2$: $V < 1$. weaker fringes.
 
-for an extended source, the visibility is also reduced by an additional factor — see [Van Cittert-Zernike theorem](../../../02_Zettel/Theory/interf/Van Cittert-Zernike theorem.md).
+for an extended source, the visibility is also reduced by an additional factor — see [Van Cittert-Zernike theorem](../../../02_Zettel/Theory/interf/Van Cittert-Zernike theorem.html).
 
 ## Young's two-slit experiment
 
@@ -89,9 +89,9 @@ source: local study diagram generated from the standard Young/Fraunhofer geometr
 
 ## see also
 
-- [Plane waves and Huygens principle](../../../02_Zettel/Theory/interf/Plane waves and Huygens principle.md)
-- [Young experiment as a stellar interferometer](../../../02_Zettel/Theory/interf/Young experiment as a stellar interferometer.md)
-- [Fringe visibility and contrast](../../../02_Zettel/Theory/interf/Fringe visibility and contrast.md)
-- [Coherence function and visibility](../../../02_Zettel/Theory/interf/Coherence function and visibility.md)
-- [Van Cittert-Zernike theorem](../../../02_Zettel/Theory/interf/Van Cittert-Zernike theorem.md)
-- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Plane waves and Huygens principle](../../../02_Zettel/Theory/interf/Plane waves and Huygens principle.html)
+- [Young experiment as a stellar interferometer](../../../02_Zettel/Theory/interf/Young experiment as a stellar interferometer.html)
+- [Fringe visibility and contrast](../../../02_Zettel/Theory/interf/Fringe visibility and contrast.html)
+- [Coherence function and visibility](../../../02_Zettel/Theory/interf/Coherence function and visibility.html)
+- [Van Cittert-Zernike theorem](../../../02_Zettel/Theory/interf/Van Cittert-Zernike theorem.html)
+- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.html)

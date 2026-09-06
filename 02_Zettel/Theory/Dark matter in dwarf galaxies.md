@@ -76,10 +76,10 @@ resolving these is an active research area + a major science goal of the next de
 
 ## see also
 
-- [Local Group galaxies](../../02_Zettel/Theory/Local Group galaxies.md)
-- [Dark matter rotation curves](../../02_Zettel/Theory/Dark matter rotation curves.md)
-- [Dark matter in elliptical galaxies](../../02_Zettel/Theory/Dark matter in elliptical galaxies.md)
-- [Cosmic_inventory_dark_matter](../../02_Zettel/Theory/Cosmic_inventory_dark_matter.md)
-- [MOND](../../02_Zettel/Theory/MOND.md)
-- [Stellar populations I II III](../../02_Zettel/Theory/Stellar populations I II III.md)
-- [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.md)
+- [Local Group galaxies](../../02_Zettel/Theory/Local Group galaxies.html)
+- [Dark matter rotation curves](../../02_Zettel/Theory/Dark matter rotation curves.html)
+- [Dark matter in elliptical galaxies](../../02_Zettel/Theory/Dark matter in elliptical galaxies.html)
+- [Cosmic_inventory_dark_matter](../../02_Zettel/Theory/Cosmic_inventory_dark_matter.html)
+- [MOND](../../02_Zettel/Theory/MOND.html)
+- [Stellar populations I II III](../../02_Zettel/Theory/Stellar populations I II III.html)
+- [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.html)

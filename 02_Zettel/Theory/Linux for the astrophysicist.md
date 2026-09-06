@@ -115,6 +115,6 @@ the exam happens at a real computer running Linux/macOS. when I write a python s
 
 ## see also
 
-- [Python language essentials](../../02_Zettel/Theory/Python language essentials.md)
-- [The conda environment](../../02_Zettel/Theory/The conda environment.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Python language essentials](../../02_Zettel/Theory/Python language essentials.html)
+- [The conda environment](../../02_Zettel/Theory/The conda environment.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

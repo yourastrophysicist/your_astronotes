@@ -10,7 +10,7 @@ $$\beta = \frac{\pi}{\lambda}b\sin\theta, \quad \gamma = \frac{\pi}{\lambda}d\si
 
 ## the two terms
 
-- **$\sin^2\beta/\beta^2$**: the **single-slit envelope**. wide, slow; sets the overall throughput shape. see [Single slit diffraction](../../02_Zettel/Theory/Single slit diffraction.md).
+- **$\sin^2\beta/\beta^2$**: the **single-slit envelope**. wide, slow; sets the overall throughput shape. see [Single slit diffraction](../../02_Zettel/Theory/Single slit diffraction.html).
 - **$\sin^2 N\gamma/\sin^2\gamma$**: the **N-slit interference**. narrow, sharp peaks; sets the spectral lines.
 
 ## principal maxima: the grating equation
@@ -36,11 +36,11 @@ for a $5000$-line grating in $m = 1$, $R = 5000$. typical optical spectrographs 
 
 ## see also
 
-- [Single slit diffraction](../../02_Zettel/Theory/Single slit diffraction.md)
-- [Grating equation](../../02_Zettel/Theory/Grating equation.md)
-- [Blazed gratings](../../02_Zettel/Theory/Blazed gratings.md)
-- [Spectrograph design](../../02_Zettel/Theory/Spectrograph design.md)
-- [Dispersion and spectral resolution](../../02_Zettel/Theory/Dispersion and spectral resolution.md)
-- [Spectrograph types](../../02_Zettel/Theory/Spectrograph types.md)
-- [Echelle spectroscopy](../../02_Zettel/Theory/Echelle spectroscopy.md)
-- [Appendix D - Gratings and spectrographs](../../02_Zettel/Theory/Appendix D - Gratings and spectrographs.md)
+- [Single slit diffraction](../../02_Zettel/Theory/Single slit diffraction.html)
+- [Grating equation](../../02_Zettel/Theory/Grating equation.html)
+- [Blazed gratings](../../02_Zettel/Theory/Blazed gratings.html)
+- [Spectrograph design](../../02_Zettel/Theory/Spectrograph design.html)
+- [Dispersion and spectral resolution](../../02_Zettel/Theory/Dispersion and spectral resolution.html)
+- [Spectrograph types](../../02_Zettel/Theory/Spectrograph types.html)
+- [Echelle spectroscopy](../../02_Zettel/Theory/Echelle spectroscopy.html)
+- [Appendix D - Gratings and spectrographs](../../02_Zettel/Theory/Appendix D - Gratings and spectrographs.html)

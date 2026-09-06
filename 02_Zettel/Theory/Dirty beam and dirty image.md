@@ -125,8 +125,8 @@ source: first figure is a local synthetic demo; NRAO figures are from S. T. Myer
 ## see also
 
 - [The (u, v) plane](../../02_Zettel/Theory/interf/The (u, v) plane.md)
-- [Aperture synthesis principle](../../02_Zettel/Theory/interf/Aperture synthesis principle.md)
-- [CLEAN algorithm](../../02_Zettel/Theory/interf/CLEAN algorithm.md)
-- [Maximum entropy method](../../02_Zettel/Theory/Maximum entropy method.md)
-- [Imaging artifacts](../../02_Zettel/Theory/interf/Imaging artifacts.md)
-- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Aperture synthesis principle](../../02_Zettel/Theory/interf/Aperture synthesis principle.html)
+- [CLEAN algorithm](../../02_Zettel/Theory/interf/CLEAN algorithm.html)
+- [Maximum entropy method](../../02_Zettel/Theory/Maximum entropy method.html)
+- [Imaging artifacts](../../02_Zettel/Theory/interf/Imaging artifacts.html)
+- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.html)

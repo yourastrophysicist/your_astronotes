@@ -71,8 +71,8 @@ if a few samples dominate the weights, $N_{\rm eff} \ll N$ and the estimator has
 
 ## see also
 
-- [Monte Carlo integration mean value method](../../02_Zettel/Theory/Monte Carlo integration mean value method.md)
-- [Inverse transform sampling](../../02_Zettel/Theory/Inverse transform sampling.md)
-- [Rejection sampling](../../02_Zettel/Theory/Rejection sampling.md)
-- [Multidimensional Monte Carlo integration](../../02_Zettel/Theory/Multidimensional Monte Carlo integration.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Monte Carlo integration mean value method](../../02_Zettel/Theory/Monte Carlo integration mean value method.html)
+- [Inverse transform sampling](../../02_Zettel/Theory/Inverse transform sampling.html)
+- [Rejection sampling](../../02_Zettel/Theory/Rejection sampling.html)
+- [Multidimensional Monte Carlo integration](../../02_Zettel/Theory/Multidimensional Monte Carlo integration.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

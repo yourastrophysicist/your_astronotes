@@ -132,7 +132,7 @@ df.to_parquet("processed.parquet")     # binary, much faster
 
 ## see also
 
-- [Numpy arrays vs Python lists](../../02_Zettel/Theory/Numpy arrays vs Python lists.md)
-- [Scipy and astropy quick reference](../../02_Zettel/Theory/Scipy and astropy quick reference.md)
-- [Matplotlib plotting essentials](../../02_Zettel/Theory/Matplotlib plotting essentials.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Numpy arrays vs Python lists](../../02_Zettel/Theory/Numpy arrays vs Python lists.html)
+- [Scipy and astropy quick reference](../../02_Zettel/Theory/Scipy and astropy quick reference.html)
+- [Matplotlib plotting essentials](../../02_Zettel/Theory/Matplotlib plotting essentials.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

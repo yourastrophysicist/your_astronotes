@@ -21,7 +21,7 @@ the typical scales:
 
 at scales above $\sim 100$ Mpc, the galaxy distribution looks statistically homogeneous and isotropic: that is the regime in which the cosmological principle holds.
 
-below that scale the universe is *clumpy* — galaxies, clusters, walls, voids, the cosmic web (see [Matter power spectrum and BAO](../../02_Zettel/Theory/Matter power spectrum and BAO.md)).
+below that scale the universe is *clumpy* — galaxies, clusters, walls, voids, the cosmic web (see [Matter power spectrum and BAO](../../02_Zettel/Theory/Matter power spectrum and BAO.html)).
 
 ---
 
@@ -66,8 +66,8 @@ so the cosmological principle reduces all of cosmology to *one ODE for one funct
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Cosmic_inventory_overview](../../02_Zettel/Theory/Cosmic_inventory_overview.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Cosmic_inventory_overview](../../02_Zettel/Theory/Cosmic_inventory_overview.html)
 - 03_Zettel/Theory/Robertson-Walker metric
 - Friedmann equations with Λ
-- [Cosmic_inventory_photons](../../02_Zettel/Theory/Cosmic_inventory_photons.md) — the CMB as the realization of the comoving frame
+- [Cosmic_inventory_photons](../../02_Zettel/Theory/Cosmic_inventory_photons.html) — the CMB as the realization of the comoving frame

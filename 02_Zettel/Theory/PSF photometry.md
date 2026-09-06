@@ -61,9 +61,9 @@ with a well-constrained PSF, the SNR per source improves over aperture photometr
 
 ## see also
 
-- [Aperture photometry](../../02_Zettel/Theory/Aperture photometry.md)
+- [Aperture photometry](../../02_Zettel/Theory/Aperture photometry.html)
 - [Point Spread Function (PSF)](../../02_Zettel/Theory/Point Spread Function (PSF).md)
-- [The CCD equation](../../02_Zettel/Theory/The CCD equation.md)
-- [CCD calibration steps](../../02_Zettel/Theory/CCD calibration steps.md)
-- [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.md)
-- [Photometric standard stars](../../02_Zettel/Theory/Photometric standard stars.md)
+- [The CCD equation](../../02_Zettel/Theory/The CCD equation.html)
+- [CCD calibration steps](../../02_Zettel/Theory/CCD calibration steps.html)
+- [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.html)
+- [Photometric standard stars](../../02_Zettel/Theory/Photometric standard stars.html)

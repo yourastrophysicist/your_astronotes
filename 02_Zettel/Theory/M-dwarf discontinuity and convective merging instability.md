@@ -94,8 +94,8 @@ Finding this gap in a star cluster is a major win for stellar modelers:
 ---
 
 ## See Also
-*   [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.md)
-*   [Resolved vs unresolved stellar populations](../../02_Zettel/Theory/Resolved vs unresolved stellar populations.md)
-*   [Stellar evolution timescales](../../02_Zettel/Theory/Stellar evolution timescales.md)
-*   [Main sequence turn-off as age indicator](../../02_Zettel/Theory/Main sequence turn-off as age indicator.md)
-*   [Stellar structure equations](../../02_Zettel/Theory/Stellar structure equations.md)
+*   [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.html)
+*   [Resolved vs unresolved stellar populations](../../02_Zettel/Theory/Resolved vs unresolved stellar populations.html)
+*   [Stellar evolution timescales](../../02_Zettel/Theory/Stellar evolution timescales.html)
+*   [Main sequence turn-off as age indicator](../../02_Zettel/Theory/Main sequence turn-off as age indicator.html)
+*   [Stellar structure equations](../../02_Zettel/Theory/Stellar structure equations.html)

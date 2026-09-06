@@ -56,7 +56,7 @@ photon $\to$ photoelectron at the photocathode $\to$ amplified by dynode chain (
 
 ## proportional counters and CCDs in X-ray
 
-at X-ray energies ($> 0.1$ keV), each detected photon produces hundreds to thousands of electron-hole pairs proportional to its energy. CCDs (CHANDRA ACIS, XMM EPIC) provide imaging spectroscopy: simultaneous position and energy per photon. proportional counters (RXTE PCA) gave timing + spectroscopy without imaging. see [CCDs for X-rays](../../02_Zettel/Theory/CCDs for X-rays.md).
+at X-ray energies ($> 0.1$ keV), each detected photon produces hundreds to thousands of electron-hole pairs proportional to its energy. CCDs (CHANDRA ACIS, XMM EPIC) provide imaging spectroscopy: simultaneous position and energy per photon. proportional counters (RXTE PCA) gave timing + spectroscopy without imaging. see [CCDs for X-rays](../../02_Zettel/Theory/CCDs for X-rays.html).
 
 ## photographic plates (historical)
 
@@ -78,9 +78,9 @@ silver-halide emulsion on glass. dominant detector $1880$ to $1980$. low QE ($\s
 
 ## see also
 
-- [CCD basics](../../02_Zettel/Theory/CCD basics.md)
-- [CCD detectors and SNR](../../02_Zettel/Theory/CCD detectors and SNR.md)
-- [CCDs for X-rays](../../02_Zettel/Theory/CCDs for X-rays.md)
-- [Charge-Coupled Device](../../02_Zettel/Theory/Charge-Coupled Device.md)
-- [Photoelectric absorption](../../02_Zettel/Theory/Photoelectric absorption.md)
-- [Lab_High-Energy_MOC](../../00_Atlas/Lab_High-Energy_MOC.md)
+- [CCD basics](../../02_Zettel/Theory/CCD basics.html)
+- [CCD detectors and SNR](../../02_Zettel/Theory/CCD detectors and SNR.html)
+- [CCDs for X-rays](../../02_Zettel/Theory/CCDs for X-rays.html)
+- [Charge-Coupled Device](../../02_Zettel/Theory/Charge-Coupled Device.html)
+- [Photoelectric absorption](../../02_Zettel/Theory/Photoelectric absorption.html)
+- [Lab_High-Energy_MOC](../../00_Atlas/Lab_High-Energy_MOC.html)

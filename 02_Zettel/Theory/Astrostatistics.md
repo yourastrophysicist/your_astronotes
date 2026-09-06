@@ -19,7 +19,7 @@ This is the framework that connects raw counts to physical parameters.
 
 ## What astrostatistics covers
 
-### Distributions — [Distributions](../../02_Zettel/Theory/Distributions.md)
+### Distributions — [Distributions](../../02_Zettel/Theory/Distributions.html)
 The mathematical foundations:
 	what probability distributions look like
 	their moments (mean, variance, skewness, kurtosis)
@@ -29,7 +29,7 @@ $$f(k;\lambda) = \frac{\lambda^k e^{-\lambda}}{k!} \qquad E[k] = V[k] = \lambda$
 The key fact: the **noise** on a Poisson count is $\sigma = \sqrt{\lambda}$
 	so faint sources (few photons) have large fractional uncertainty $\sigma/\lambda = 1/\sqrt{\lambda}$
 
-### Signal-to-noise ratio — [Signal-Noise Ratio](../../02_Zettel/Theory/Signal-Noise Ratio.md)
+### Signal-to-noise ratio — [Signal-Noise Ratio](../../02_Zettel/Theory/Signal-Noise Ratio.html)
 How many standard deviations is the source above the background?
 	for source count rate $s$, background rate $b$, exposure time $t$:
 $$SNR = \frac{st}{\sqrt{(s+b)t}}$$
@@ -38,7 +38,7 @@ Source-dominated ($b \ll s$): $SNR \approx \sqrt{st}$
 Background-dominated ($b \gg s$): $SNR \approx s\sqrt{t/b}$
 Both scale as $\sqrt{t}$ — doubling exposure improves SNR by $\sqrt{2}$
 
-### Spectral fitting — [Fitting](../../02_Zettel/Theory/Fitting.md)
+### Spectral fitting — [Fitting](../../02_Zettel/Theory/Fitting.html)
 Given observed counts $D_i$ in energy channel $i$ and a model predicting $M_i(\theta)$:
 
 **$\chi^2$ statistics** (Gaussian errors, $D_i \gtrsim 20$ counts):
@@ -54,7 +54,7 @@ $$C(I) = \int \mathcal{F}(E) \cdot R(I, E) \, dE$$
 
 where $R(I,E)$ is the redistribution matrix (RMF) and $\mathcal{F}(E)$ is the photon spectrum
 
-### Hypothesis testing — [p-value](../../02_Zettel/Theory/p-value.md)
+### Hypothesis testing — [p-value](../../02_Zettel/Theory/p-value.html)
 Is this source real? Is this spectral feature significant?
 $$p(S) = \int_S^\infty f(S') \, dS'$$
 
@@ -77,7 +77,7 @@ every step requires choosing the right statistic for the photon count regime
 
 ## Subtopics
 
-- [Distributions](../../02_Zettel/Theory/Distributions.md) — Poisson, Gaussian, binomial; moments
-- [Signal-Noise Ratio](../../02_Zettel/Theory/Signal-Noise Ratio.md) — detection, exposure time scaling
-- [Fitting](../../02_Zettel/Theory/Fitting.md) — $\chi^2$, C-statistics, forward folding, RMF/ARF
-- [p-value](../../02_Zettel/Theory/p-value.md) — hypothesis testing, significance, null hypothesis
+- [Distributions](../../02_Zettel/Theory/Distributions.html) — Poisson, Gaussian, binomial; moments
+- [Signal-Noise Ratio](../../02_Zettel/Theory/Signal-Noise Ratio.html) — detection, exposure time scaling
+- [Fitting](../../02_Zettel/Theory/Fitting.html) — $\chi^2$, C-statistics, forward folding, RMF/ARF
+- [p-value](../../02_Zettel/Theory/p-value.html) — hypothesis testing, significance, null hypothesis

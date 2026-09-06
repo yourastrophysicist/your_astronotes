@@ -72,12 +72,12 @@ permitted lines have $n_c \sim 10^{13}$ cm$^{-3}$ or higher; in nebular conditio
 
 ## see also
 
-- [Two-level atom](../../02_Zettel/Theory/Two-level atom.md)
-- [Statistical equilibrium equations](../../02_Zettel/Theory/Statistical equilibrium equations.md)
-- [Collisional excitation rate](../../02_Zettel/Theory/Collisional excitation rate.md)
-- [Forbidden lines](../../02_Zettel/Theory/Forbidden lines.md)
-- [OIII forbidden lines](../../02_Zettel/Theory/OIII forbidden lines.md)
-- [SII forbidden lines](../../02_Zettel/Theory/SII forbidden lines.md)
-- [Forbidden line diagnostics](../../02_Zettel/Theory/Forbidden line diagnostics.md)
-- [Spectroscopic ne diagnostics](../../02_Zettel/Theory/Spectroscopic ne diagnostics.md)
-- [Spectroscopic Te diagnostics](../../02_Zettel/Theory/Spectroscopic Te diagnostics.md)
+- [Two-level atom](../../02_Zettel/Theory/Two-level atom.html)
+- [Statistical equilibrium equations](../../02_Zettel/Theory/Statistical equilibrium equations.html)
+- [Collisional excitation rate](../../02_Zettel/Theory/Collisional excitation rate.html)
+- [Forbidden lines](../../02_Zettel/Theory/Forbidden lines.html)
+- [OIII forbidden lines](../../02_Zettel/Theory/OIII forbidden lines.html)
+- [SII forbidden lines](../../02_Zettel/Theory/SII forbidden lines.html)
+- [Forbidden line diagnostics](../../02_Zettel/Theory/Forbidden line diagnostics.html)
+- [Spectroscopic ne diagnostics](../../02_Zettel/Theory/Spectroscopic ne diagnostics.html)
+- [Spectroscopic Te diagnostics](../../02_Zettel/Theory/Spectroscopic Te diagnostics.html)

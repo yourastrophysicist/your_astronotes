@@ -57,11 +57,11 @@ so a rotating BH has an asymmetric shadow, slightly squashed. EHT data on M87 + 
 
 ## see also
 
-- [Schwarzschild metric](../../02_Zettel/Theory/Schwarzschild metric.md)
-- [Schwarzschild effective potential](../../02_Zettel/Theory/Schwarzschild effective potential.md)
-- [Photon trajectories and impact parameter](../../02_Zettel/Theory/Photon trajectories and impact parameter.md)
-- [Circular orbits in Schwarzschild](../../02_Zettel/Theory/Circular orbits in Schwarzschild.md)
-- [Effective potential approach](../../02_Zettel/Theory/Effective potential approach.md)
+- [Schwarzschild metric](../../02_Zettel/Theory/Schwarzschild metric.html)
+- [Schwarzschild effective potential](../../02_Zettel/Theory/Schwarzschild effective potential.html)
+- [Photon trajectories and impact parameter](../../02_Zettel/Theory/Photon trajectories and impact parameter.html)
+- [Circular orbits in Schwarzschild](../../02_Zettel/Theory/Circular orbits in Schwarzschild.html)
+- [Effective potential approach](../../02_Zettel/Theory/Effective potential approach.html)
 - Q14 - photon trajectory and impact parameter
-- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.md)
-- [Ch 6 - Black Holes](../../01_Literature/Book/Baumann GR/Ch 6 - Black Holes.md)
+- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.html)
+- [Ch 6 - Black Holes](../../01_Literature/Book/Baumann GR/Ch 6 - Black Holes.html)

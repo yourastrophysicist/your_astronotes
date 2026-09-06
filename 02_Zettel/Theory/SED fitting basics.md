@@ -27,7 +27,7 @@ posterior is $p(\theta | F^{\rm obs}) \propto \mathcal L(F^{\rm obs} | \theta)\,
 ### template-grid (frequentist)
 precompute a grid of model SEDs over $(\tau, Z, A_V)$, find the best-fitting redshift and template per source. fast, simple. examples: **EAZY**, **BPZ**, **Le Phare**, **HyperZ**.
 
-mostly used for **photometric redshifts** (see [Photometric redshifts](../../02_Zettel/Theory/Photometric redshifts.md)).
+mostly used for **photometric redshifts** (see [Photometric redshifts](../../02_Zettel/Theory/Photometric redshifts.html)).
 
 ### Bayesian + MCMC
 sample the full posterior over $\theta$. captures parameter degeneracies and uncertainties properly. examples: **Prospector**, **BAGPIPES**, **BEAGLE**, **CIGALE-MCMC**.
@@ -49,7 +49,7 @@ essential for dusty SFGs where $L_{\rm IR} > L_{\rm UV}$.
 | $A_V$ | flat in $0$ to $3$ | $\sim 0.2$ mag |
 | SFR | log-flat | $0.2$ dex (UV+IR), $0.5$ dex (UV only) |
 
-**$M_*$ is the most robust output**, partly thanks to the K-band's stable $\Upsilon$ ([Stellar mass estimation in unresolved populations](../../02_Zettel/Theory/Stellar mass estimation in unresolved populations.md)). age and SFH are much more uncertain because of the [Age-metallicity degeneracy](../../02_Zettel/Theory/Age-metallicity degeneracy.md) and dust-age degeneracy.
+**$M_*$ is the most robust output**, partly thanks to the K-band's stable $\Upsilon$ ([Stellar mass estimation in unresolved populations](../../02_Zettel/Theory/Stellar mass estimation in unresolved populations.html)). age and SFH are much more uncertain because of the [Age-metallicity degeneracy](../../02_Zettel/Theory/Age-metallicity degeneracy.html) and dust-age degeneracy.
 
 ## the components of a typical SED
 
@@ -71,13 +71,13 @@ a complete fit needs all of these. simplified fits (e.g. "stellar-only" UV-optic
 
 ## see also
 
-- [Stellar population synthesis](../../02_Zettel/Theory/Stellar population synthesis.md)
-- [SPS code families](../../02_Zettel/Theory/SPS code families.md)
-- [Single stellar population SSP](../../02_Zettel/Theory/Single stellar population SSP.md)
-- [Star formation history of a population](../../02_Zettel/Theory/Star formation history of a population.md)
-- [Photometric redshifts](../../02_Zettel/Theory/Photometric redshifts.md)
-- [Age-metallicity degeneracy](../../02_Zettel/Theory/Age-metallicity degeneracy.md)
-- [Stellar mass estimation in unresolved populations](../../02_Zettel/Theory/Stellar mass estimation in unresolved populations.md)
-- [Dust attenuation in synthetic populations](../../02_Zettel/Theory/Dust attenuation in synthetic populations.md)
-- [Dust attenuation and extinction curves](../../02_Zettel/Theory/Dust attenuation and extinction curves.md)
-- [SED fitting for SFH](../../02_Zettel/Theory/SED fitting for SFH.md)
+- [Stellar population synthesis](../../02_Zettel/Theory/Stellar population synthesis.html)
+- [SPS code families](../../02_Zettel/Theory/SPS code families.html)
+- [Single stellar population SSP](../../02_Zettel/Theory/Single stellar population SSP.html)
+- [Star formation history of a population](../../02_Zettel/Theory/Star formation history of a population.html)
+- [Photometric redshifts](../../02_Zettel/Theory/Photometric redshifts.html)
+- [Age-metallicity degeneracy](../../02_Zettel/Theory/Age-metallicity degeneracy.html)
+- [Stellar mass estimation in unresolved populations](../../02_Zettel/Theory/Stellar mass estimation in unresolved populations.html)
+- [Dust attenuation in synthetic populations](../../02_Zettel/Theory/Dust attenuation in synthetic populations.html)
+- [Dust attenuation and extinction curves](../../02_Zettel/Theory/Dust attenuation and extinction curves.html)
+- [SED fitting for SFH](../../02_Zettel/Theory/SED fitting for SFH.html)

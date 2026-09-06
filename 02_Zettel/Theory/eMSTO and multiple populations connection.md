@@ -6,7 +6,7 @@ description: argument that young eMSTO clusters and old GC multiple populations 
 
 one of the deepest open questions of the course: are **young eMSTO clusters** ($\sim 1$-$2$ Gyr LMC + SMC clusters with broadened MS turn-offs from stellar rotation) and **old GCs with multiple populations** ($> 10$ Gyr clusters with Na-O anti-correlations + He spreads + chromosome maps) the SAME phenomenon, observed at different stages of cluster evolution? or are they fundamentally different?
 
-this question matters because the answer determines whether [MPs in old GCs](../../02_Zettel/Theory/Multiple populations in GCs discovery.md) are a primordial phenomenon set at cluster formation, or whether they emerge from continuous secular evolution of the stellar population.
+this question matters because the answer determines whether [MPs in old GCs](../../02_Zettel/Theory/Multiple populations in GCs discovery.html) are a primordial phenomenon set at cluster formation, or whether they emerge from continuous secular evolution of the stellar population.
 
 ## the parallel observation
 
@@ -63,12 +63,12 @@ this hybrid picture is the current consensus, though many details remain open.
 ## why this matters for the course
 
 this is one of the **synthesis questions** of the entire course. it ties together:
-- [Extended main sequence turn-off eMSTO](../../02_Zettel/Theory/Extended main sequence turn-off eMSTO.md) (Block 12);
-- [Stellar rotation effects on CMD](../../02_Zettel/Theory/Stellar rotation effects on CMD.md) (Block 12);
-- [Multiple populations in GCs discovery](../../02_Zettel/Theory/Multiple populations in GCs discovery.md) (Block 11);
-- [Polluter scenarios for second-generation GC stars](../../02_Zettel/Theory/Polluter scenarios for second-generation GC stars.md) (Block 11);
-- [Helium spread in GCs](../../02_Zettel/Theory/Helium spread in GCs.md) (Block 11);
-- [Photometric chromosome maps](../../02_Zettel/Theory/Photometric chromosome maps.md) (Block 11).
+- [Extended main sequence turn-off eMSTO](../../02_Zettel/Theory/Extended main sequence turn-off eMSTO.html) (Block 12);
+- [Stellar rotation effects on CMD](../../02_Zettel/Theory/Stellar rotation effects on CMD.html) (Block 12);
+- [Multiple populations in GCs discovery](../../02_Zettel/Theory/Multiple populations in GCs discovery.html) (Block 11);
+- [Polluter scenarios for second-generation GC stars](../../02_Zettel/Theory/Polluter scenarios for second-generation GC stars.html) (Block 11);
+- [Helium spread in GCs](../../02_Zettel/Theory/Helium spread in GCs.html) (Block 11);
+- [Photometric chromosome maps](../../02_Zettel/Theory/Photometric chromosome maps.html) (Block 11).
 
 an exam answer connecting these blocks demonstrates fluency across the most modern parts of stellar populations science.
 
@@ -85,12 +85,12 @@ an exam answer connecting these blocks demonstrates fluency across the most mode
 
 ## see also
 
-- [Extended main sequence turn-off eMSTO](../../02_Zettel/Theory/Extended main sequence turn-off eMSTO.md)
-- [Origin of eMSTO age spread or rotation](../../02_Zettel/Theory/Origin of eMSTO age spread or rotation.md)
-- [Stellar rotation effects on CMD](../../02_Zettel/Theory/Stellar rotation effects on CMD.md)
-- [Splitting of the upper MS in young clusters](../../02_Zettel/Theory/Splitting of the upper MS in young clusters.md)
-- [Multiple populations in GCs discovery](../../02_Zettel/Theory/Multiple populations in GCs discovery.md)
-- [Photometric chromosome maps](../../02_Zettel/Theory/Photometric chromosome maps.md)
-- [Helium spread in GCs](../../02_Zettel/Theory/Helium spread in GCs.md)
-- [Polluter scenarios for second-generation GC stars](../../02_Zettel/Theory/Polluter scenarios for second-generation GC stars.md)
-- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.md)
+- [Extended main sequence turn-off eMSTO](../../02_Zettel/Theory/Extended main sequence turn-off eMSTO.html)
+- [Origin of eMSTO age spread or rotation](../../02_Zettel/Theory/Origin of eMSTO age spread or rotation.html)
+- [Stellar rotation effects on CMD](../../02_Zettel/Theory/Stellar rotation effects on CMD.html)
+- [Splitting of the upper MS in young clusters](../../02_Zettel/Theory/Splitting of the upper MS in young clusters.html)
+- [Multiple populations in GCs discovery](../../02_Zettel/Theory/Multiple populations in GCs discovery.html)
+- [Photometric chromosome maps](../../02_Zettel/Theory/Photometric chromosome maps.html)
+- [Helium spread in GCs](../../02_Zettel/Theory/Helium spread in GCs.html)
+- [Polluter scenarios for second-generation GC stars](../../02_Zettel/Theory/Polluter scenarios for second-generation GC stars.html)
+- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.html)

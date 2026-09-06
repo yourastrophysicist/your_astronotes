@@ -110,9 +110,9 @@ this is exactly Stéphan's adaptation in the 1870s, and Michelson's 20-foot beam
 
 ## see also
 
-- [Wavefront-division interferometers](../../02_Zettel/Theory/interf/Wavefront-division interferometers.md)
-- [Young experiment as a stellar interferometer](../../02_Zettel/Theory/interf/Young experiment as a stellar interferometer.md)
-- [Fresnel biprism](../../02_Zettel/Theory/interf/Fresnel biprism.md)
-- [Lloyd mirror](../../02_Zettel/Theory/interf/Lloyd mirror.md)
-- [Optical path difference OPD](../../02_Zettel/Theory/interf/Optical path difference OPD.md)
-- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Wavefront-division interferometers](../../02_Zettel/Theory/interf/Wavefront-division interferometers.html)
+- [Young experiment as a stellar interferometer](../../02_Zettel/Theory/interf/Young experiment as a stellar interferometer.html)
+- [Fresnel biprism](../../02_Zettel/Theory/interf/Fresnel biprism.html)
+- [Lloyd mirror](../../02_Zettel/Theory/interf/Lloyd mirror.html)
+- [Optical path difference OPD](../../02_Zettel/Theory/interf/Optical path difference OPD.html)
+- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.html)

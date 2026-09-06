@@ -45,7 +45,7 @@ a typical setup: a diffuse source (e.g. a frosted bulb), illuminating a tilted g
 
 ### 2. parallel-faced plate
 
-if the two surfaces are not parallel, the OPD varies across the plate, producing different fringes — that's [Fringes of equal thickness](../../../02_Zettel/Theory/interf/Fringes of equal thickness.md) instead.
+if the two surfaces are not parallel, the OPD varies across the plate, producing different fringes — that's [Fringes of equal thickness](../../../02_Zettel/Theory/interf/Fringes of equal thickness.html) instead.
 
 ### 3. moderate coherence
 
@@ -55,8 +55,8 @@ the source needs enough temporal coherence ($\ell_c > \Lambda$) to see fringes. 
 
 these are *temporal-coherence-limited* fringes from a partial-reflection / partial-transmission system. close cousin:
 
-- [Fringes of equal thickness](../../../02_Zettel/Theory/interf/Fringes of equal thickness.md): same physics, but with a *non-parallel* plate (wedge). fringes follow contours of equal thickness rather than equal inclination.
-- [Newton's rings](../../../02_Zettel/Theory/interf/Newton's rings.md): a special case of equal-thickness, with circular contours from a curved surface.
+- [Fringes of equal thickness](../../../02_Zettel/Theory/interf/Fringes of equal thickness.html): same physics, but with a *non-parallel* plate (wedge). fringes follow contours of equal thickness rather than equal inclination.
+- [Newton's rings](../../../02_Zettel/Theory/interf/Newton's rings.html): a special case of equal-thickness, with circular contours from a curved surface.
 
 both equal-inclination and equal-thickness fringes are products of *thin-film interference*, the same physics that produces the rainbow colors of soap bubbles and oil films.
 
@@ -82,8 +82,8 @@ this is *the* standard method for testing telescope mirrors and other optical el
 
 ## see also
 
-- [Optical path difference OPD](../../../02_Zettel/Theory/interf/Optical path difference OPD.md)
-- [Fringes of equal thickness](../../../02_Zettel/Theory/interf/Fringes of equal thickness.md)
-- [Newton's rings](../../../02_Zettel/Theory/interf/Newton's rings.md)
-- [Amplitude-division interferometers](../../../02_Zettel/Theory/Amplitude-division interferometers.md)
-- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Optical path difference OPD](../../../02_Zettel/Theory/interf/Optical path difference OPD.html)
+- [Fringes of equal thickness](../../../02_Zettel/Theory/interf/Fringes of equal thickness.html)
+- [Newton's rings](../../../02_Zettel/Theory/interf/Newton's rings.html)
+- [Amplitude-division interferometers](../../../02_Zettel/Theory/Amplitude-division interferometers.html)
+- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.html)

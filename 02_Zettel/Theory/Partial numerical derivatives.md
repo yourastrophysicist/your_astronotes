@@ -115,8 +115,8 @@ for moderate $n$, AD is usually a 10× speedup over finite differences and machi
 
 ## see also
 
-- [Forward backward and central differences](../../02_Zettel/Theory/Forward backward and central differences.md)
-- [Second derivatives](../../02_Zettel/Theory/Second derivatives.md)
-- [Newton-Raphson for systems of equations](../../02_Zettel/Theory/Newton-Raphson for systems of equations.md)
-- [Roundoff vs truncation balance](../../02_Zettel/Theory/Roundoff vs truncation balance.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Forward backward and central differences](../../02_Zettel/Theory/Forward backward and central differences.html)
+- [Second derivatives](../../02_Zettel/Theory/Second derivatives.html)
+- [Newton-Raphson for systems of equations](../../02_Zettel/Theory/Newton-Raphson for systems of equations.html)
+- [Roundoff vs truncation balance](../../02_Zettel/Theory/Roundoff vs truncation balance.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

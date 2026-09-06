@@ -51,7 +51,7 @@ the two factors of $(1+z)$ in $d_L = d_A(1+z)^2$ have specific physical origins:
 so the total **flux dilution** has *four* factors of $(1+z)$ (since flux $\propto 1/d_L^2$), which manifests as the famous **surface-brightness dimming**:
 $$\sigma \propto \frac{d_A^2}{d_L^2} \propto (1+z)^{-4}$$
 
-a brutal penalty on high-$z$ imaging. (see [Surface brightness dimming](../../02_Zettel/Theory/Surface brightness dimming.md) in the Observational Cosmology MOC.)
+a brutal penalty on high-$z$ imaging. (see [Surface brightness dimming](../../02_Zettel/Theory/Surface brightness dimming.html) in the Observational Cosmology MOC.)
 
 ---
 
@@ -79,8 +79,8 @@ at high $z$ they diverge. for a SN Ia at $z = 1$ in ΛCDM: $d_C \approx 3.4$ Gpc
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Hubble law exact form](../../02_Zettel/Theory/Hubble law exact form.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Hubble law exact form](../../02_Zettel/Theory/Hubble law exact form.html)
 - 03_Zettel/Theory/Robertson-Walker metric
 - Friedmann equations with Λ
-- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md) — block 1 has the same content with extra observational detail
+- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html) — block 1 has the same content with extra observational detail

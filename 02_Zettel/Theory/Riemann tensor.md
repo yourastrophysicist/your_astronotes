@@ -35,7 +35,7 @@ so Riemann is the **invariant** test of curvature. a metric like $ds^2 = dr^2 + 
 
 ## with all indices down
 
-$R_{\rho\sigma\mu\nu} = g_{\rho\alpha}R^\alpha{}_{\sigma\mu\nu}$. has more symmetries (see [Riemann tensor symmetries](../../02_Zettel/Theory/Riemann tensor symmetries.md)).
+$R_{\rho\sigma\mu\nu} = g_{\rho\alpha}R^\alpha{}_{\sigma\mu\nu}$. has more symmetries (see [Riemann tensor symmetries](../../02_Zettel/Theory/Riemann tensor symmetries.html)).
 
 ## the operational interpretation: tidal forces
 
@@ -63,15 +63,15 @@ non-zero Riemann from both $\dot a$ and $\ddot a$. encodes both the expansion an
 
 ## see also
 
-- [Riemann tensor symmetries](../../02_Zettel/Theory/Riemann tensor symmetries.md)
-- [Counting Riemann components](../../02_Zettel/Theory/Counting Riemann components.md)
-- [Ricci tensor and scalar](../../02_Zettel/Theory/Ricci tensor and scalar.md)
-- [Bianchi identities](../../02_Zettel/Theory/Bianchi identities.md)
-- [Geodesic deviation](../../02_Zettel/Theory/Geodesic deviation.md)
-- [Christoffel symbols](../../02_Zettel/Theory/Christoffel symbols.md)
-- [Covariant derivative](../../02_Zettel/Theory/Covariant derivative.md)
+- [Riemann tensor symmetries](../../02_Zettel/Theory/Riemann tensor symmetries.html)
+- [Counting Riemann components](../../02_Zettel/Theory/Counting Riemann components.html)
+- [Ricci tensor and scalar](../../02_Zettel/Theory/Ricci tensor and scalar.html)
+- [Bianchi identities](../../02_Zettel/Theory/Bianchi identities.html)
+- [Geodesic deviation](../../02_Zettel/Theory/Geodesic deviation.html)
+- [Christoffel symbols](../../02_Zettel/Theory/Christoffel symbols.html)
+- [Covariant derivative](../../02_Zettel/Theory/Covariant derivative.html)
 - Q5 - Riemann for 1+1 expanding metric
 - Q6 - Riemann for conformally flat 1+1
 - Q17 - Riemann R_0x0x for a TT plane wave
-- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.md)
-- [Ch 4 - Spacetime Curvature](../../01_Literature/Book/Baumann GR/Ch 4 - Spacetime Curvature.md)
+- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.html)
+- [Ch 4 - Spacetime Curvature](../../01_Literature/Book/Baumann GR/Ch 4 - Spacetime Curvature.html)

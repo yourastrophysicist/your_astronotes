@@ -104,8 +104,8 @@ all three set the practical sensitivity floor. modern instruments (GRAVITY, MATI
 
 ## see also
 
-- [Coherence function and visibility](../../../02_Zettel/Theory/interf/Coherence function and visibility.md)
-- [Van Cittert-Zernike theorem](../../../02_Zettel/Theory/interf/Van Cittert-Zernike theorem.md)
-- [Spatial coherence](../../../02_Zettel/Theory/interf/Spatial coherence.md)
-- [Stellar diameters and limb darkening](../../../02_Zettel/Theory/interf/Stellar diameters and limb darkening.md)
-- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Coherence function and visibility](../../../02_Zettel/Theory/interf/Coherence function and visibility.html)
+- [Van Cittert-Zernike theorem](../../../02_Zettel/Theory/interf/Van Cittert-Zernike theorem.html)
+- [Spatial coherence](../../../02_Zettel/Theory/interf/Spatial coherence.html)
+- [Stellar diameters and limb darkening](../../../02_Zettel/Theory/interf/Stellar diameters and limb darkening.html)
+- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.html)

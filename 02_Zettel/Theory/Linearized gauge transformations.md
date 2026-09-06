@@ -36,8 +36,8 @@ so **2 physical polarisations**: $h_+$ and $h_\times$. the two "tensor" polarisa
 ## fixing gauge
 
 common gauges:
-- **Lorenz gauge**: $\partial^\mu \bar h_{\mu\nu} = 0$. uses 4 conditions, fixes some of the gauge freedom. Einstein's equation becomes $\Box \bar h_{\mu\nu} = -16\pi G T_{\mu\nu}$. see [Lorenz gauge](../../02_Zettel/Theory/Lorenz gauge.md).
-- **transverse-traceless (TT) gauge**: in vacuum, additional 4 conditions reduce the perturbation to its 2 physical polarisations. see [Transverse traceless gauge](../../02_Zettel/Theory/Transverse traceless gauge.md).
+- **Lorenz gauge**: $\partial^\mu \bar h_{\mu\nu} = 0$. uses 4 conditions, fixes some of the gauge freedom. Einstein's equation becomes $\Box \bar h_{\mu\nu} = -16\pi G T_{\mu\nu}$. see [Lorenz gauge](../../02_Zettel/Theory/Lorenz gauge.html).
+- **transverse-traceless (TT) gauge**: in vacuum, additional 4 conditions reduce the perturbation to its 2 physical polarisations. see [Transverse traceless gauge](../../02_Zettel/Theory/Transverse traceless gauge.html).
 
 the gauge choice is a calculational tool. all observables are invariant.
 
@@ -49,11 +49,11 @@ altogether: 10 (original) - 4 (Lorenz) - 4 (residual) = 2 physical polarisations
 
 ## see also
 
-- [Linearized metric perturbation](../../02_Zettel/Theory/Linearized metric perturbation.md)
-- [Trace-reversed perturbation](../../02_Zettel/Theory/Trace-reversed perturbation.md)
-- [Lorenz gauge](../../02_Zettel/Theory/Lorenz gauge.md)
-- [Transverse traceless gauge](../../02_Zettel/Theory/Transverse traceless gauge.md)
-- [Plus and cross polarizations](../../02_Zettel/Theory/Plus and cross polarizations.md)
+- [Linearized metric perturbation](../../02_Zettel/Theory/Linearized metric perturbation.html)
+- [Trace-reversed perturbation](../../02_Zettel/Theory/Trace-reversed perturbation.html)
+- [Lorenz gauge](../../02_Zettel/Theory/Lorenz gauge.html)
+- [Transverse traceless gauge](../../02_Zettel/Theory/Transverse traceless gauge.html)
+- [Plus and cross polarizations](../../02_Zettel/Theory/Plus and cross polarizations.html)
 - Q15 - trace-reversed perturbation and Lorenz gauge
-- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.md)
-- [Ch 8 - Gravitational Waves](../../01_Literature/Book/Baumann GR/Ch 8 - Gravitational Waves.md)
+- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.html)
+- [Ch 8 - Gravitational Waves](../../01_Literature/Book/Baumann GR/Ch 8 - Gravitational Waves.html)

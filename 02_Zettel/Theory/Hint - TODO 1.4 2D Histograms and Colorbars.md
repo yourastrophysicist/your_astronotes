@@ -6,7 +6,7 @@ title: "Hint - TODO 1.4 2D Histograms and Colorbars"
 # Hint - TODO 1.4 2D Histograms and Colorbars
 
 **Target TODO**: TODO 1.4 in Module_1_Random_Sampling_and_Monte_Carlo  
-**Related Zettels**: [Matplotlib plotting essentials](../../02_Zettel/Theory/Matplotlib plotting essentials.md)
+**Related Zettels**: [Matplotlib plotting essentials](../../02_Zettel/Theory/Matplotlib plotting essentials.html)
 
 ---
 

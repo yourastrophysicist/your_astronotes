@@ -56,7 +56,7 @@ $$\dot\rho + 3H(\rho + p/c^2) = 0$$
 
 ## the Newtonian comparison
 
-the Newtonian derivation ([Newtonian Friedmann derivation](../../02_Zettel/Theory/Newtonian Friedmann derivation.md)) gives the same Friedmann equation, but without:
+the Newtonian derivation ([Newtonian Friedmann derivation](../../02_Zettel/Theory/Newtonian Friedmann derivation.html)) gives the same Friedmann equation, but without:
 - the $3p$ pressure term (radiation decelerates more than matter alone would).
 - the $\Lambda$ term (must be added by hand, no clear interpretation).
 - the relativistic generalisation.
@@ -66,13 +66,13 @@ so GR is **necessary** for cosmology that includes radiation + dark energy + lig
 ## see also
 
 - Friedmann equations with Λ
-- [Friedmann equations](../../02_Zettel/Theory/Friedmann equations.md)
-- [Newtonian Friedmann derivation](../../02_Zettel/Theory/Newtonian Friedmann derivation.md)
-- [Friedmann solutions](../../02_Zettel/Theory/Friedmann solutions.md)
-- [Cosmological constant](../../02_Zettel/Theory/Cosmological constant.md)
-- [Stress-energy tensor](../../02_Zettel/Theory/Stress-energy tensor.md)
-- [Continuity equation](../../02_Zettel/Theory/Continuity equation.md)
-- [Equation of state and density scaling](../../02_Zettel/Theory/Equation of state and density scaling.md)
-- [Einstein equations](../../02_Zettel/Theory/Einstein equations.md)
+- [Friedmann equations](../../02_Zettel/Theory/Friedmann equations.html)
+- [Newtonian Friedmann derivation](../../02_Zettel/Theory/Newtonian Friedmann derivation.html)
+- [Friedmann solutions](../../02_Zettel/Theory/Friedmann solutions.html)
+- [Cosmological constant](../../02_Zettel/Theory/Cosmological constant.html)
+- [Stress-energy tensor](../../02_Zettel/Theory/Stress-energy tensor.html)
+- [Continuity equation](../../02_Zettel/Theory/Continuity equation.html)
+- [Equation of state and density scaling](../../02_Zettel/Theory/Equation of state and density scaling.html)
+- [Einstein equations](../../02_Zettel/Theory/Einstein equations.html)
 - Q18 - derive the acceleration equation
-- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md)
+- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html)

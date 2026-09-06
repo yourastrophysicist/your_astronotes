@@ -81,7 +81,7 @@ three signatures of a bad-or-too-large-timestep integration:
 
 1. **steady drift** in $\Delta E/E$ — non-symplectic integrator at moderate $h$ → use a smaller $h$ or switch to leapfrog
 2. **explosive growth** in $\Delta E/E$ — unstable, e.g. Euler at any $h$ on a Kepler orbit → switch to a higher-order method
-3. **sudden jumps** in $\Delta E/E$ at specific times — close encounter that the timestep cannot resolve → use adaptive timestepping (see [Adaptive step size control](../../02_Zettel/Theory/Adaptive step size control.md))
+3. **sudden jumps** in $\Delta E/E$ at specific times — close encounter that the timestep cannot resolve → use adaptive timestepping (see [Adaptive step size control](../../02_Zettel/Theory/Adaptive step size control.html))
 
 case 3 is the most common cause of mysterious-looking energy plots in N-body work. the fix is timestep refinement, not algorithm change.
 
@@ -91,8 +91,8 @@ for a cosmological simulation in an expanding background, energy is *not* conser
 
 ## see also
 
-- [Astrophysical N-body problem formulation](../../02_Zettel/Theory/Astrophysical N-body problem formulation.md)
-- [Leapfrog integrator](../../02_Zettel/Theory/Leapfrog integrator.md)
-- [Runge-Kutta 4 method](../../02_Zettel/Theory/Runge-Kutta 4 method.md)
-- [Adaptive step size control](../../02_Zettel/Theory/Adaptive step size control.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Astrophysical N-body problem formulation](../../02_Zettel/Theory/Astrophysical N-body problem formulation.html)
+- [Leapfrog integrator](../../02_Zettel/Theory/Leapfrog integrator.html)
+- [Runge-Kutta 4 method](../../02_Zettel/Theory/Runge-Kutta 4 method.html)
+- [Adaptive step size control](../../02_Zettel/Theory/Adaptive step size control.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

@@ -5,15 +5,15 @@ title: "Space and ground facilities relevant for OC"
 
 # space and ground facilities relevant for oc
 
-up: [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md) · [Surveys to remember](../../02_Zettel/Theory/Surveys to remember.md)
+up: [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html) · [Surveys to remember](../../02_Zettel/Theory/Surveys to remember.html)
 
 ## major ground-based optical / near-ir facilities
 
 - **ESO VLT (Very Large Telescope)**:
   - Cerro Paranal, Chile. Four 8.2m Unit Telescopes (Antu, Kueyen, Melipal, Yepun).
-  - Key instruments: [MUSE datacubes](../../02_Zettel/Theory/MUSE datacubes.md) (panoramic IFU), X-shooter (UV to NIR echelle), HAWK-I (wide-field NIR), FORS2.
+  - Key instruments: [MUSE datacubes](../../02_Zettel/Theory/MUSE datacubes.html) (panoramic IFU), X-shooter (UV to NIR echelle), HAWK-I (wide-field NIR), FORS2.
   - UT4 fully equipped with the Adaptive Optics Facility (4 sodium laser guide stars).
-  - Interferometric mode: [VLTI Very Large Telescope Interferometer](../../02_Zettel/Theory/interf/VLTI Very Large Telescope Interferometer.md) combining 4 UTs or 4 Auxiliary Telescopes (ATs).
+  - Interferometric mode: [VLTI Very Large Telescope Interferometer](../../02_Zettel/Theory/interf/VLTI Very Large Telescope Interferometer.html) combining 4 UTs or 4 Auxiliary Telescopes (ATs).
 - **W. M. Keck Observatory**:
   - Mauna Kea, Hawaii. Twin 10m segmented-mirror telescopes.
   - Key instruments: MOSFIRE (multi-object NIR spectrograph), DEIMOS (optical multi-object), LRIS, KCWI (optical IFU).
@@ -40,12 +40,12 @@ up: [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md)
 ## space-based observatories
 
 - **HST (Hubble Space Telescope)**: 2.4m, UV-optical-NIR, standard candle calibration and deep fields.
-- **JWST (James Webb Space Telescope)**: 6.5m segmented beryllium mirror at Sun-Earth L2. Instruments: NIRCam, NIRSpec, MIRI, NIRISS. See [High-z galaxies with JWST](../../02_Zettel/Theory/High-z galaxies with JWST.md).
+- **JWST (James Webb Space Telescope)**: 6.5m segmented beryllium mirror at Sun-Earth L2. Instruments: NIRCam, NIRSpec, MIRI, NIRISS. See [High-z galaxies with JWST](../../02_Zettel/Theory/High-z galaxies with JWST.html).
 - **Planck**: 1.5m telescope at L2, all-sky CMB temperature and polarization.
 - **Euclid & Roman**: wide-field NIR cosmology missions.
 
 ## connections
 
-- survey overview: [Surveys to remember](../../02_Zettel/Theory/Surveys to remember.md)
-- ifu physics: [MUSE datacubes](../../02_Zettel/Theory/MUSE datacubes.md), [Datacube reduction](../../02_Zettel/Theory/Datacube reduction.md)
-- radio physics: [Major radio interferometers](../../02_Zettel/Theory/interf/Major radio interferometers.md), [Event Horizon Telescope EHT](../../02_Zettel/Theory/interf/Event Horizon Telescope EHT.md)
+- survey overview: [Surveys to remember](../../02_Zettel/Theory/Surveys to remember.html)
+- ifu physics: [MUSE datacubes](../../02_Zettel/Theory/MUSE datacubes.html), [Datacube reduction](../../02_Zettel/Theory/Datacube reduction.html)
+- radio physics: [Major radio interferometers](../../02_Zettel/Theory/interf/Major radio interferometers.html), [Event Horizon Telescope EHT](../../02_Zettel/Theory/interf/Event Horizon Telescope EHT.html)

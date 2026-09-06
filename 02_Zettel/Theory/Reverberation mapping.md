@@ -74,10 +74,10 @@ reverberation mapping is the **basis of the SMBH mass scale** for distant AGN:
 
 ## see also
 
-- [AGN spectroscopy](../../02_Zettel/Theory/AGN spectroscopy.md)
-- [Magorrian relation](../../02_Zettel/Theory/Magorrian relation.md)
-- [M sigma relation](../../02_Zettel/Theory/M sigma relation.md)
-- [Stellar dynamics SMBH masses](../../02_Zettel/Theory/Stellar dynamics SMBH masses.md)
-- [Water maser BH masses](../../02_Zettel/Theory/Water maser BH masses.md)
-- [Galactic Center Sgr A and S-stars](../../02_Zettel/Theory/interf/Galactic Center Sgr A and S-stars.md)
-- [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.md)
+- [AGN spectroscopy](../../02_Zettel/Theory/AGN spectroscopy.html)
+- [Magorrian relation](../../02_Zettel/Theory/Magorrian relation.html)
+- [M sigma relation](../../02_Zettel/Theory/M sigma relation.html)
+- [Stellar dynamics SMBH masses](../../02_Zettel/Theory/Stellar dynamics SMBH masses.html)
+- [Water maser BH masses](../../02_Zettel/Theory/Water maser BH masses.html)
+- [Galactic Center Sgr A and S-stars](../../02_Zettel/Theory/interf/Galactic Center Sgr A and S-stars.html)
+- [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.html)

@@ -81,8 +81,8 @@ so temporal fluctuations have the same 5/3 power law in $\tau$, with characteris
 
 ## see also
 
-- [Atmospheric turbulence overview](../../../02_Zettel/Theory/interf/Atmospheric turbulence overview.md)
-- [Kolmogorov turbulence](../../../02_Zettel/Theory/interf/Kolmogorov turbulence.md)
-- [Fried parameter $r_0$](../../../02_Zettel/Theory/interf/Fried parameter $r_0$.md)
-- [Frozen turbulence and Taylor hypothesis](../../../02_Zettel/Theory/interf/Frozen turbulence and Taylor hypothesis.md)
-- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Atmospheric turbulence overview](../../../02_Zettel/Theory/interf/Atmospheric turbulence overview.html)
+- [Kolmogorov turbulence](../../../02_Zettel/Theory/interf/Kolmogorov turbulence.html)
+- [Fried parameter $r_0$](../../../02_Zettel/Theory/interf/Fried parameter $r_0$.html)
+- [Frozen turbulence and Taylor hypothesis](../../../02_Zettel/Theory/interf/Frozen turbulence and Taylor hypothesis.html)
+- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.html)

@@ -129,7 +129,7 @@ $$F = \int_0^\infty F_\nu \, d\nu$$
 ## Photon flux and photon intensity
 
 In high-energy astronomy, detectors count **individual photons**
-	this is the regime of [CCDs for X-rays](../../02_Zettel/Theory/CCDs for X-rays.md) and proportional counters
+	this is the regime of [CCDs for X-rays](../../02_Zettel/Theory/CCDs for X-rays.html) and proportional counters
 		so it is more natural to work with photon quantities rather than energy quantities
 
 ### Photon flux
@@ -175,8 +175,8 @@ $$A_{eff}(E) = A_{geo} \times R_{mirrors}(E) \times QE(E) \times T_{filter}(E)$$
 
 with
 	$A_{geo}$: geometric collecting area of the mirror aperture
-	$R_{mirrors}(E)$: reflectivity of the grazing incidence mirrors at energy $E$ (see [Grazing incidence](../../02_Zettel/Theory/Grazing incidence.md))
-	$QE(E)$: quantum efficiency of the detector (see [Quantum efficiency](../../02_Zettel/Theory/Quantum efficiency.md))
+	$R_{mirrors}(E)$: reflectivity of the grazing incidence mirrors at energy $E$ (see [Grazing incidence](../../02_Zettel/Theory/Grazing incidence.html))
+	$QE(E)$: quantum efficiency of the detector (see [Quantum efficiency](../../02_Zettel/Theory/Quantum efficiency.html))
 	$T_{filter}(E)$: transmission of optical blocking filters
 
 **Inverting to get flux from counts** requires knowing $\mathcal{F}(E)$:
@@ -203,7 +203,7 @@ The **observed (absorbed) flux** is related to the **intrinsic flux** by:
 $$F_{obs}(E) = F_{int}(E) \times e^{-\sigma(E) \cdot N_H}$$
 
 where
-	$\sigma(E)$ is the **photoelectric absorption cross-section** per hydrogen atom (see [Photoelectric absorption](../../02_Zettel/Theory/Photoelectric absorption.md))
+	$\sigma(E)$ is the **photoelectric absorption cross-section** per hydrogen atom (see [Photoelectric absorption](../../02_Zettel/Theory/Photoelectric absorption.html))
 		$\sigma(E) \propto E^{-3}$ at energies above absorption edges
 	$N_H$ is the **hydrogen column density** in cm$^{-2}$
 		the integrated number of hydrogen atoms along the line of sight

@@ -33,7 +33,7 @@ introduced by Lohmann, Weigelt, and Wirnitzer (1983). compute the **bispectrum**
 
 $$B(\mathbf u, \mathbf v) = \langle \tilde I(\mathbf u) \tilde I(\mathbf v) \tilde I^*(\mathbf u + \mathbf v) \rangle$$
 
-this is the third-order spatial spectrum. atmospheric phases cancel (just like in [closure phase](../../../02_Zettel/Theory/interf/Phase closure.md)), so the bispectrum is *unbiased* by atmospheric noise.
+this is the third-order spatial spectrum. atmospheric phases cancel (just like in [closure phase](../../../02_Zettel/Theory/interf/Phase closure.html)), so the bispectrum is *unbiased* by atmospheric noise.
 
 the bispectrum encodes the source phase up to a global piston. modern algorithms (BSMEM, SQUEEZE) reconstruct images directly from bispectra.
 
@@ -85,9 +85,9 @@ steps 4 and 7 are the computationally intense parts. modern packages handle this
 
 ## see also
 
-- [Speckle interferometry](../../../02_Zettel/Theory/interf/Speckle interferometry.md)
-- [Theory of speckle interferometry](../../../02_Zettel/Theory/interf/Theory of speckle interferometry.md)
-- [Aperture masking](../../../02_Zettel/Theory/interf/Aperture masking.md)
-- [Bispectrum and triple correlation](../../../02_Zettel/Theory/interf/Bispectrum and triple correlation.md)
-- [Phase closure](../../../02_Zettel/Theory/interf/Phase closure.md)
-- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Speckle interferometry](../../../02_Zettel/Theory/interf/Speckle interferometry.html)
+- [Theory of speckle interferometry](../../../02_Zettel/Theory/interf/Theory of speckle interferometry.html)
+- [Aperture masking](../../../02_Zettel/Theory/interf/Aperture masking.html)
+- [Bispectrum and triple correlation](../../../02_Zettel/Theory/interf/Bispectrum and triple correlation.html)
+- [Phase closure](../../../02_Zettel/Theory/interf/Phase closure.html)
+- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.html)

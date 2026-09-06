@@ -121,9 +121,9 @@ source: local plot generated from $I(x)=[2J_1(x)/x]^2$.
 
 ## see also
 
-- [Plane waves and Huygens principle](../../../02_Zettel/Theory/interf/Plane waves and Huygens principle.md)
-- [Diffraction patterns of simple apertures](../../../02_Zettel/Theory/interf/Diffraction patterns of simple apertures.md)
-- [Point spread function](../../../02_Zettel/Theory/interf/Point spread function.md)
-- [Optical transfer function](../../../02_Zettel/Theory/interf/Optical transfer function.md)
-- [Van Cittert-Zernike theorem](../../../02_Zettel/Theory/interf/Van Cittert-Zernike theorem.md)
-- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Plane waves and Huygens principle](../../../02_Zettel/Theory/interf/Plane waves and Huygens principle.html)
+- [Diffraction patterns of simple apertures](../../../02_Zettel/Theory/interf/Diffraction patterns of simple apertures.html)
+- [Point spread function](../../../02_Zettel/Theory/interf/Point spread function.html)
+- [Optical transfer function](../../../02_Zettel/Theory/interf/Optical transfer function.html)
+- [Van Cittert-Zernike theorem](../../../02_Zettel/Theory/interf/Van Cittert-Zernike theorem.html)
+- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.html)

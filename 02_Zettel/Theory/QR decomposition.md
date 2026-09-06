@@ -9,7 +9,7 @@ every matrix $A$ (square or rectangular) factors as
 
 $$A = QR$$
 
-with $Q$ **orthogonal** ($Q^T Q = I$) and $R$ upper triangular. the columns of $Q$ are an orthonormal basis for the column space of $A$. for symmetric matrices this factorization is the foundation of the [QR algorithm for eigenvalues](../../02_Zettel/Theory/QR algorithm for eigenvalues.md); for rectangular matrices it is the cleanest way to do least squares.
+with $Q$ **orthogonal** ($Q^T Q = I$) and $R$ upper triangular. the columns of $Q$ are an orthonormal basis for the column space of $A$. for symmetric matrices this factorization is the foundation of the [QR algorithm for eigenvalues](../../02_Zettel/Theory/QR algorithm for eigenvalues.html); for rectangular matrices it is the cleanest way to do least squares.
 
 ## why orthogonal matrices are special
 
@@ -17,7 +17,7 @@ an orthogonal matrix $Q$ preserves length: $\|Q\mathbf{x}\| = \|\mathbf{x}\|$. i
 
 ## construction via Gram-Schmidt
 
-[Gram-Schmidt orthogonalization](../../02_Zettel/Theory/Gram-Schmidt orthogonalization.md) turns the columns $\mathbf{a}_0, \mathbf{a}_1, \ldots, \mathbf{a}_{N-1}$ of $A$ into an orthonormal set $\mathbf{q}_0, \mathbf{q}_1, \ldots, \mathbf{q}_{N-1}$:
+[Gram-Schmidt orthogonalization](../../02_Zettel/Theory/Gram-Schmidt orthogonalization.html) turns the columns $\mathbf{a}_0, \mathbf{a}_1, \ldots, \mathbf{a}_{N-1}$ of $A$ into an orthonormal set $\mathbf{q}_0, \mathbf{q}_1, \ldots, \mathbf{q}_{N-1}$:
 
 $$\mathbf{u}_i = \mathbf{a}_i - \sum_{k=0}^{i-1} (\mathbf{q}_k \cdot \mathbf{a}_i) \mathbf{q}_k, \qquad \mathbf{q}_i = \mathbf{u}_i / \|\mathbf{u}_i\|$$
 
@@ -65,7 +65,7 @@ this is what `np.linalg.lstsq` does under the hood.
 
 ### 2. eigenvalue computation (the QR algorithm)
 
-iterate: $A_0 = A$, then $A_k = Q_k R_k$, $A_{k+1} = R_k Q_k$. for symmetric $A$, $A_k$ converges to a diagonal matrix whose entries are the eigenvalues, and the cumulative product of the $Q_k$ converges to the eigenvector matrix. this is [QR algorithm for eigenvalues](../../02_Zettel/Theory/QR algorithm for eigenvalues.md).
+iterate: $A_0 = A$, then $A_k = Q_k R_k$, $A_{k+1} = R_k Q_k$. for symmetric $A$, $A_k$ converges to a diagonal matrix whose entries are the eigenvalues, and the cumulative product of the $Q_k$ converges to the eigenvector matrix. this is [QR algorithm for eigenvalues](../../02_Zettel/Theory/QR algorithm for eigenvalues.html).
 
 ### 3. orthonormal basis for a subspace
 
@@ -83,8 +83,8 @@ QR is the matrix-level statement of Gram-Schmidt. seeing both side by side:
 
 ## see also
 
-- [Gram-Schmidt orthogonalization](../../02_Zettel/Theory/Gram-Schmidt orthogonalization.md)
-- [QR algorithm for eigenvalues](../../02_Zettel/Theory/QR algorithm for eigenvalues.md)
-- [Power iteration](../../02_Zettel/Theory/Power iteration.md)
-- [Linear least squares](../../02_Zettel/Theory/Linear least squares.md) — uses QR internally
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Gram-Schmidt orthogonalization](../../02_Zettel/Theory/Gram-Schmidt orthogonalization.html)
+- [QR algorithm for eigenvalues](../../02_Zettel/Theory/QR algorithm for eigenvalues.html)
+- [Power iteration](../../02_Zettel/Theory/Power iteration.html)
+- [Linear least squares](../../02_Zettel/Theory/Linear least squares.html) — uses QR internally
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

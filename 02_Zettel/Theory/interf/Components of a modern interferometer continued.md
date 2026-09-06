@@ -21,7 +21,7 @@ these are *orders of magnitude* better than optical astrometry (Gaia: ~10 μas f
 
 ### 1. dynamical masses
 
-precise binary-star astrometry → orbital parameters → dynamical masses. precision $\sim 1\%$ for many systems (see [Binary star orbits](../../../02_Zettel/Theory/interf/Binary star orbits.md)).
+precise binary-star astrometry → orbital parameters → dynamical masses. precision $\sim 1\%$ for many systems (see [Binary star orbits](../../../02_Zettel/Theory/interf/Binary star orbits.html)).
 
 ### 2. cosmological distance ladder
 
@@ -64,8 +64,8 @@ proposed (or canceled) space-based microarcsecond astrometric missions. SIM was 
 
 ## see also
 
-- [Binary star orbits](../../../02_Zettel/Theory/interf/Binary star orbits.md)
-- [Pulsar interferometry](../../../02_Zettel/Theory/interf/Pulsar interferometry.md)
-- [Cosmological masers](../../../02_Zettel/Theory/interf/Cosmological masers.md)
-- [Galactic Center Sgr A and S-stars](../../../02_Zettel/Theory/interf/Galactic Center Sgr A and S-stars.md)
-- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Binary star orbits](../../../02_Zettel/Theory/interf/Binary star orbits.html)
+- [Pulsar interferometry](../../../02_Zettel/Theory/interf/Pulsar interferometry.html)
+- [Cosmological masers](../../../02_Zettel/Theory/interf/Cosmological masers.html)
+- [Galactic Center Sgr A and S-stars](../../../02_Zettel/Theory/interf/Galactic Center Sgr A and S-stars.html)
+- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.html)

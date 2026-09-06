@@ -82,9 +82,9 @@ so aperture masking is "interferometry within a single telescope" — same algor
 
 ## see also
 
-- [Speckle interferometry](../../02_Zettel/Theory/interf/Speckle interferometry.md)
-- [Speckle imaging algorithms](../../02_Zettel/Theory/interf/Speckle imaging algorithms.md)
-- [Bispectrum and triple correlation](../../02_Zettel/Theory/interf/Bispectrum and triple correlation.md)
-- [Phase closure](../../02_Zettel/Theory/interf/Phase closure.md)
-- [Aperture synthesis principle](../../02_Zettel/Theory/interf/Aperture synthesis principle.md)
-- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Speckle interferometry](../../02_Zettel/Theory/interf/Speckle interferometry.html)
+- [Speckle imaging algorithms](../../02_Zettel/Theory/interf/Speckle imaging algorithms.html)
+- [Bispectrum and triple correlation](../../02_Zettel/Theory/interf/Bispectrum and triple correlation.html)
+- [Phase closure](../../02_Zettel/Theory/interf/Phase closure.html)
+- [Aperture synthesis principle](../../02_Zettel/Theory/interf/Aperture synthesis principle.html)
+- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.html)

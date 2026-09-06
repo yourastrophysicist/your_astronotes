@@ -5,7 +5,7 @@ title: "Surveys to remember"
 
 # surveys to remember
 
-up: [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md) · [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.md)
+up: [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html) · [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.html)
 
 ## wide-field optical / spectroscopic surveys
 
@@ -52,5 +52,5 @@ up: [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md)
 
 ## connections
 
-- instruments: [Space and ground facilities relevant for OC](../../02_Zettel/Theory/Space and ground facilities relevant for OC.md)
-- science results: [Supernova Hubble diagram](../../02_Zettel/Theory/Supernova Hubble diagram.md), [Color bimodality of galaxies](../../02_Zettel/Theory/Color bimodality of galaxies.md), [CMB power spectrum](../../02_Zettel/Theory/CMB power spectrum.md)
+- instruments: [Space and ground facilities relevant for OC](../../02_Zettel/Theory/Space and ground facilities relevant for OC.html)
+- science results: [Supernova Hubble diagram](../../02_Zettel/Theory/Supernova Hubble diagram.html), [Color bimodality of galaxies](../../02_Zettel/Theory/Color bimodality of galaxies.html), [CMB power spectrum](../../02_Zettel/Theory/CMB power spectrum.html)

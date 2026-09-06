@@ -5,7 +5,7 @@ title: "Star formation rate and sSFR"
 
 # star formation rate and sSFR
 
-up: [Pablo_03_Star_formation_in_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.md)
+up: [Pablo_03_Star_formation_in_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html)
 
 ## the definitions
 
@@ -31,22 +31,22 @@ these three examples span almost 4 orders of magnitude in sSFR, and correspond c
 
 ## why sSFR matters more than SFR
 
-absolute SFR scales with galaxy size. sSFR removes that trivial dependence and asks *how star-forming for its mass* a galaxy is. this is why the [Galaxy main sequence of star formation](../../02_Zettel/Theory/Galaxy main sequence of star formation.md) is typically plotted as $\psi$ vs $M_*$ in log-log: on that plane the main sequence is a line with slope $\sim 0.7$–$1$, and its vertical offset directly measures sSFR.
+absolute SFR scales with galaxy size. sSFR removes that trivial dependence and asks *how star-forming for its mass* a galaxy is. this is why the [Galaxy main sequence of star formation](../../02_Zettel/Theory/Galaxy main sequence of star formation.html) is typically plotted as $\psi$ vs $M_*$ in log-log: on that plane the main sequence is a line with slope $\sim 0.7$–$1$, and its vertical offset directly measures sSFR.
 
 ## the characteristic sSFR evolves with redshift
 
 at $z = 0$: star-forming galaxies sit near sSFR $\sim 10^{-10}\,\text{yr}^{-1}$.
 at $z = 2$: the typical main-sequence galaxy at $M_* = 10^{10}\,M_\odot$ has sSFR $\sim 10^{-9}\,\text{yr}^{-1}$, a factor $\sim 20$ higher.
 
-this is the same phenomenon as the [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.md) peak at $z \sim 2$: the universe was churning out stars more efficiently, *per unit existing stellar mass*, in its youth.
+this is the same phenomenon as the [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.html) peak at $z \sim 2$: the universe was churning out stars more efficiently, *per unit existing stellar mass*, in its youth.
 
 ## connections
 
-- main sequence: [Galaxy main sequence of star formation](../../02_Zettel/Theory/Galaxy main sequence of star formation.md)
-- integrated over volume: [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.md)
-- over time to build mass: [SFR and stellar mass density connection](../../02_Zettel/Theory/SFR and stellar mass density connection.md)
-- tracers: [UV SFR tracer](../../02_Zettel/Theory/UV SFR tracer.md), [H-alpha SFR tracer](../../02_Zettel/Theory/H-alpha SFR tracer.md), [IR SFR tracer](../../02_Zettel/Theory/IR SFR tracer.md)
-- parametrizations of $\psi(t)$: [Star formation history parametrizations](../../02_Zettel/Theory/Star formation history parametrizations.md)
+- main sequence: [Galaxy main sequence of star formation](../../02_Zettel/Theory/Galaxy main sequence of star formation.html)
+- integrated over volume: [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.html)
+- over time to build mass: [SFR and stellar mass density connection](../../02_Zettel/Theory/SFR and stellar mass density connection.html)
+- tracers: [UV SFR tracer](../../02_Zettel/Theory/UV SFR tracer.html), [H-alpha SFR tracer](../../02_Zettel/Theory/H-alpha SFR tracer.html), [IR SFR tracer](../../02_Zettel/Theory/IR SFR tracer.html)
+- parametrizations of $\psi(t)$: [Star formation history parametrizations](../../02_Zettel/Theory/Star formation history parametrizations.html)
 
 ## key references
 

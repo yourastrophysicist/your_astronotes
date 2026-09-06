@@ -115,14 +115,14 @@ remarkably consistent with the prediction of $\sim 25\%$.
 
 D/H gives the **cleanest** measurement of $\eta$. $^4$He confirms the n/p physics. $^3$He and $^7$Li provide cross-checks (with the lithium problem outstanding).
 
-→ the final concordance check is comparing $\eta$ from BBN with $\eta$ from CMB peaks: see [BBN_concordance_with_CMB](../../02_Zettel/Theory/BBN_concordance_with_CMB.md).
+→ the final concordance check is comparing $\eta$ from BBN with $\eta$ from CMB peaks: see [BBN_concordance_with_CMB](../../02_Zettel/Theory/BBN_concordance_with_CMB.html).
 
 ---
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [BBN_overview](../../02_Zettel/Theory/BBN_overview.md)
-- [BBN_predictions](../../02_Zettel/Theory/BBN_predictions.md)
-- [BBN_concordance_with_CMB](../../02_Zettel/Theory/BBN_concordance_with_CMB.md)
-- [Cosmic_inventory_baryons](../../02_Zettel/Theory/Cosmic_inventory_baryons.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [BBN_overview](../../02_Zettel/Theory/BBN_overview.html)
+- [BBN_predictions](../../02_Zettel/Theory/BBN_predictions.html)
+- [BBN_concordance_with_CMB](../../02_Zettel/Theory/BBN_concordance_with_CMB.html)
+- [Cosmic_inventory_baryons](../../02_Zettel/Theory/Cosmic_inventory_baryons.html)

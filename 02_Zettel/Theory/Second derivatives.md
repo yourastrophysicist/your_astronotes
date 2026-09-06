@@ -86,8 +86,8 @@ the famous **5-point stencil**. this discretizes the Poisson equation $\nabla^2 
 
 ## see also
 
-- [Forward backward and central differences](../../02_Zettel/Theory/Forward backward and central differences.md)
-- [Roundoff vs truncation balance](../../02_Zettel/Theory/Roundoff vs truncation balance.md)
-- [Optimal step size for derivatives](../../02_Zettel/Theory/Optimal step size for derivatives.md)
-- [Finite difference discretization](../../02_Zettel/Theory/Finite difference discretization.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Forward backward and central differences](../../02_Zettel/Theory/Forward backward and central differences.html)
+- [Roundoff vs truncation balance](../../02_Zettel/Theory/Roundoff vs truncation balance.html)
+- [Optimal step size for derivatives](../../02_Zettel/Theory/Optimal step size for derivatives.html)
+- [Finite difference discretization](../../02_Zettel/Theory/Finite difference discretization.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

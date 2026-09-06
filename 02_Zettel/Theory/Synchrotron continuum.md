@@ -5,7 +5,7 @@ title: "Synchrotron continuum"
 
 **synchrotron emission** is radiation from relativistic electrons spiralling in a magnetic field. produces a characteristic power-law continuum and is the dominant non-thermal emission mechanism in radio galaxies, AGN jets, supernova remnants, and pulsar wind nebulae.
 
-note: the existing [Synchroton](../../02_Zettel/Theory/Synchroton.md) note in the vault covers this physics in depth. this note focuses on the spectroscopic perspective.
+note: the existing [Synchroton](../../02_Zettel/Theory/Synchroton.html) note in the vault covers this physics in depth. this note focuses on the spectroscopic perspective.
 
 ## the spectrum from a power-law electron distribution
 
@@ -58,14 +58,14 @@ at $\nu \sim 10$ GHz the two are comparable in star-forming galaxies; at higher 
 
 ## inverse Compton
 
-high-energy synchrotron-emitting electrons can also up-scatter low-energy photons via **inverse Compton** (see [Compton and Inverse Compton](../../02_Zettel/Theory/Compton and Inverse Compton.md)). produces a second peak in the SED at higher frequencies, often X-ray to TeV $\gamma$-ray. blazars famously show synchrotron + IC two-peak SEDs.
+high-energy synchrotron-emitting electrons can also up-scatter low-energy photons via **inverse Compton** (see [Compton and Inverse Compton](../../02_Zettel/Theory/Compton and Inverse Compton.html)). produces a second peak in the SED at higher frequencies, often X-ray to TeV $\gamma$-ray. blazars famously show synchrotron + IC two-peak SEDs.
 
 ## see also
 
-- [Synchroton](../../02_Zettel/Theory/Synchroton.md) — the comprehensive existing note
-- [Free-free continuum](../../02_Zettel/Theory/Free-free continuum.md)
-- [Bremsstrahlung](../../02_Zettel/Theory/Bremsstrahlung.md)
-- [Compton and Inverse Compton](../../02_Zettel/Theory/Compton and Inverse Compton.md)
-- [Radio SFR tracer](../../02_Zettel/Theory/Radio SFR tracer.md)
-- [AGN spectroscopy](../../02_Zettel/Theory/AGN spectroscopy.md)
-- [Supernova remnant spectroscopy](../../02_Zettel/Theory/Supernova remnant spectroscopy.md)
+- [Synchroton](../../02_Zettel/Theory/Synchroton.html) — the comprehensive existing note
+- [Free-free continuum](../../02_Zettel/Theory/Free-free continuum.html)
+- [Bremsstrahlung](../../02_Zettel/Theory/Bremsstrahlung.html)
+- [Compton and Inverse Compton](../../02_Zettel/Theory/Compton and Inverse Compton.html)
+- [Radio SFR tracer](../../02_Zettel/Theory/Radio SFR tracer.html)
+- [AGN spectroscopy](../../02_Zettel/Theory/AGN spectroscopy.html)
+- [Supernova remnant spectroscopy](../../02_Zettel/Theory/Supernova remnant spectroscopy.html)

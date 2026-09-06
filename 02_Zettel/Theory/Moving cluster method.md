@@ -42,8 +42,8 @@ with Gaia, distance to a cluster is now obtained by **inverting parallaxes** of 
 
 ## see also
 
-- [Distance ladder derivations](../../02_Zettel/Theory/Distance ladder derivations.md)
-- [Annual stellar parallax](../../02_Zettel/Theory/Annual stellar parallax.md)
-- [Spectroscopic parallax and main-sequence fitting](../../02_Zettel/Theory/Spectroscopic parallax and main-sequence fitting.md)
-- [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.md)
-- [Distance modulus](../../02_Zettel/Theory/Distance modulus.md)
+- [Distance ladder derivations](../../02_Zettel/Theory/Distance ladder derivations.html)
+- [Annual stellar parallax](../../02_Zettel/Theory/Annual stellar parallax.html)
+- [Spectroscopic parallax and main-sequence fitting](../../02_Zettel/Theory/Spectroscopic parallax and main-sequence fitting.html)
+- [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.html)
+- [Distance modulus](../../02_Zettel/Theory/Distance modulus.html)

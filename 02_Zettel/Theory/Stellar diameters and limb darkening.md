@@ -45,5 +45,5 @@ Measuring stellar diameters was the very first application of optical interferom
 
 ## connections & zettel links
 
-* parent moc: [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.md)
-* related zettels: [Fringe visibility and contrast](../../02_Zettel/Theory/interf/Fringe visibility and contrast.md), [Van Cittert-Zernike theorem](../../02_Zettel/Theory/interf/Van Cittert-Zernike theorem.md), [CHARA array](../../02_Zettel/Theory/interf/CHARA array.md), [VLTI Very Large Telescope Interferometer](../../02_Zettel/Theory/interf/VLTI Very Large Telescope Interferometer.md)
+* parent moc: [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.html)
+* related zettels: [Fringe visibility and contrast](../../02_Zettel/Theory/interf/Fringe visibility and contrast.html), [Van Cittert-Zernike theorem](../../02_Zettel/Theory/interf/Van Cittert-Zernike theorem.html), [CHARA array](../../02_Zettel/Theory/interf/CHARA array.html), [VLTI Very Large Telescope Interferometer](../../02_Zettel/Theory/interf/VLTI Very Large Telescope Interferometer.html)

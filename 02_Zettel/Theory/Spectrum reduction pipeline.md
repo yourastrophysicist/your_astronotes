@@ -9,7 +9,7 @@ the standard sequence of steps to turn a raw 2D spectroscopic image into a calib
 
 ### 1. bias subtraction
 
-remove the constant readout offset. take many zero-second exposures, average to make a master bias, subtract from every science frame. see [CCD calibration steps](../../02_Zettel/Theory/CCD calibration steps.md).
+remove the constant readout offset. take many zero-second exposures, average to make a master bias, subtract from every science frame. see [CCD calibration steps](../../02_Zettel/Theory/CCD calibration steps.html).
 
 ### 2. dark subtraction (often skipped)
 
@@ -28,11 +28,11 @@ procedure:
 
 ### 4. cosmic-ray rejection
 
-LACOSMIC or similar, applied to each 2D frame. see [Cosmic rays and bad pixels](../../02_Zettel/Theory/Cosmic rays and bad pixels.md).
+LACOSMIC or similar, applied to each 2D frame. see [Cosmic rays and bad pixels](../../02_Zettel/Theory/Cosmic rays and bad pixels.html).
 
 ### 5. wavelength calibration
 
-via comparison-lamp lines. see [Wavelength calibration](../../02_Zettel/Theory/Wavelength calibration.md). results in a wavelength solution $\lambda(x, y)$ (slightly different per row in longslit, per fiber in MOS, per spaxel in IFU).
+via comparison-lamp lines. see [Wavelength calibration](../../02_Zettel/Theory/Wavelength calibration.html). results in a wavelength solution $\lambda(x, y)$ (slightly different per row in longslit, per fiber in MOS, per spaxel in IFU).
 
 ### 6. trace and extract
 
@@ -51,7 +51,7 @@ at NIR or in dense sky-line regions, subtraction is delicate; tilted spectral li
 
 ### 8. flux calibration
 
-apply the sensitivity function from a spectrophotometric standard. see [Flux calibration](../../02_Zettel/Theory/interf/Flux calibration.md).
+apply the sensitivity function from a spectrophotometric standard. see [Flux calibration](../../02_Zettel/Theory/interf/Flux calibration.html).
 
 ### 9. heliocentric / barycentric correction
 
@@ -61,11 +61,11 @@ with $v_{\rm bary}$ up to $30$ km/s depending on time of year and target directi
 
 ### 10. telluric correction
 
-for NIR or near-IR-dependent science, divide by a telluric template (Molecfit, telfit). see [Flux calibration](../../02_Zettel/Theory/interf/Flux calibration.md).
+for NIR or near-IR-dependent science, divide by a telluric template (Molecfit, telfit). see [Flux calibration](../../02_Zettel/Theory/interf/Flux calibration.html).
 
 ### 11. atmospheric extinction correction
 
-apply $10^{0.4 k(\lambda) X}$ to correct back to above-atmosphere flux. see [Atmospheric extinction](../../02_Zettel/Theory/interf/Atmospheric extinction.md).
+apply $10^{0.4 k(\lambda) X}$ to correct back to above-atmosphere flux. see [Atmospheric extinction](../../02_Zettel/Theory/interf/Atmospheric extinction.html).
 
 ### 12. continuum normalisation (optional)
 
@@ -96,12 +96,12 @@ raw frame
 
 ## see also
 
-- [Spectrograph design](../../02_Zettel/Theory/Spectrograph design.md)
-- [Wavelength calibration](../../02_Zettel/Theory/Wavelength calibration.md)
-- [Flux calibration](../../02_Zettel/Theory/interf/Flux calibration.md)
-- [CCD calibration steps](../../02_Zettel/Theory/CCD calibration steps.md)
-- [Cosmic rays and bad pixels](../../02_Zettel/Theory/Cosmic rays and bad pixels.md)
-- [Atmospheric extinction](../../02_Zettel/Theory/interf/Atmospheric extinction.md)
-- [Sky brightness](../../02_Zettel/Theory/Sky brightness.md)
-- [Aperture photometry](../../02_Zettel/Theory/Aperture photometry.md)
-- [PSF photometry](../../02_Zettel/Theory/PSF photometry.md)
+- [Spectrograph design](../../02_Zettel/Theory/Spectrograph design.html)
+- [Wavelength calibration](../../02_Zettel/Theory/Wavelength calibration.html)
+- [Flux calibration](../../02_Zettel/Theory/interf/Flux calibration.html)
+- [CCD calibration steps](../../02_Zettel/Theory/CCD calibration steps.html)
+- [Cosmic rays and bad pixels](../../02_Zettel/Theory/Cosmic rays and bad pixels.html)
+- [Atmospheric extinction](../../02_Zettel/Theory/interf/Atmospheric extinction.html)
+- [Sky brightness](../../02_Zettel/Theory/Sky brightness.html)
+- [Aperture photometry](../../02_Zettel/Theory/Aperture photometry.html)
+- [PSF photometry](../../02_Zettel/Theory/PSF photometry.html)

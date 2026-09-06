@@ -30,7 +30,7 @@ a famous diagnostic:
 - **A0 V** ($T = 10\,000$ K, gravitating): H$\beta$ wings $\sim 15$ Å.
 - **B0 Ia supergiant** (low gravity): H$\beta$ wings $\sim 15$ Å.
 
-so at fixed $T$, dwarf H wings are wider than supergiant ones $\to$ a **gravity (pressure) discriminator**, basis of [MK luminosity classes](../../02_Zettel/Theory/MK luminosity classes.md) in early-type stars.
+so at fixed $T$, dwarf H wings are wider than supergiant ones $\to$ a **gravity (pressure) discriminator**, basis of [MK luminosity classes](../../02_Zettel/Theory/MK luminosity classes.html) in early-type stars.
 
 ## the formal theory
 
@@ -50,10 +50,10 @@ at $T < 7000$ K, van der Waals dominates for most lines (collisions with neutral
 
 ## see also
 
-- [Collisional pressure broadening](../../02_Zettel/Theory/Collisional pressure broadening.md)
-- [Natural broadening Lorentzian](../../02_Zettel/Theory/Natural broadening Lorentzian.md)
-- [Voigt profile](../../02_Zettel/Theory/Voigt profile.md)
-- [Hydrogen spectral series](../../02_Zettel/Theory/Hydrogen spectral series.md)
-- [MK luminosity classes](../../02_Zettel/Theory/MK luminosity classes.md)
-- [Stellar atmosphere structure](../../02_Zettel/Theory/Stellar atmosphere structure.md)
-- [Continuum opacity sources](../../02_Zettel/Theory/Continuum opacity sources.md)
+- [Collisional pressure broadening](../../02_Zettel/Theory/Collisional pressure broadening.html)
+- [Natural broadening Lorentzian](../../02_Zettel/Theory/Natural broadening Lorentzian.html)
+- [Voigt profile](../../02_Zettel/Theory/Voigt profile.html)
+- [Hydrogen spectral series](../../02_Zettel/Theory/Hydrogen spectral series.html)
+- [MK luminosity classes](../../02_Zettel/Theory/MK luminosity classes.html)
+- [Stellar atmosphere structure](../../02_Zettel/Theory/Stellar atmosphere structure.html)
+- [Continuum opacity sources](../../02_Zettel/Theory/Continuum opacity sources.html)

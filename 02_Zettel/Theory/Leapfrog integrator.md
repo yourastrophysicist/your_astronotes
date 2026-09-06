@@ -102,9 +102,9 @@ this is leapfrog with the velocity eliminated (it is recoverable from difference
 
 ## see also
 
-- [Euler method](../../02_Zettel/Theory/Euler method.md)
-- [Runge-Kutta 4 method](../../02_Zettel/Theory/Runge-Kutta 4 method.md)
-- [Energy conservation as a diagnostic](../../02_Zettel/Theory/Energy conservation as a diagnostic.md)
-- [Astrophysical N-body problem formulation](../../02_Zettel/Theory/Astrophysical N-body problem formulation.md)
-- [Fourth-order Hermite predictor-corrector](../../02_Zettel/Theory/Fourth-order Hermite predictor-corrector.md) — symplectic-ish, higher-order
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Euler method](../../02_Zettel/Theory/Euler method.html)
+- [Runge-Kutta 4 method](../../02_Zettel/Theory/Runge-Kutta 4 method.html)
+- [Energy conservation as a diagnostic](../../02_Zettel/Theory/Energy conservation as a diagnostic.html)
+- [Astrophysical N-body problem formulation](../../02_Zettel/Theory/Astrophysical N-body problem formulation.html)
+- [Fourth-order Hermite predictor-corrector](../../02_Zettel/Theory/Fourth-order Hermite predictor-corrector.html) — symplectic-ish, higher-order
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

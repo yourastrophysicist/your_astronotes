@@ -86,12 +86,12 @@ $$N(x) = a_0 + a_1 (x - x_0) + a_2 (x - x_0)(x - x_1) + \cdots$$
 
 with coefficients $a_i$ computed from divided differences. advantage: adding a new data point requires only $O(N)$ extra work (just compute one new divided difference and append a term), rather than rebuilding the whole polynomial.
 
-see [Newton divided differences](../../02_Zettel/Theory/Newton divided differences.md).
+see [Newton divided differences](../../02_Zettel/Theory/Newton divided differences.html).
 
 ## see also
 
-- [Linear interpolation](../../02_Zettel/Theory/Linear interpolation.md)
-- [Cubic spline interpolation](../../02_Zettel/Theory/Cubic spline interpolation.md)
-- [Runge phenomenon](../../02_Zettel/Theory/Runge phenomenon.md)
-- [Newton divided differences](../../02_Zettel/Theory/Newton divided differences.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Linear interpolation](../../02_Zettel/Theory/Linear interpolation.html)
+- [Cubic spline interpolation](../../02_Zettel/Theory/Cubic spline interpolation.html)
+- [Runge phenomenon](../../02_Zettel/Theory/Runge phenomenon.html)
+- [Newton divided differences](../../02_Zettel/Theory/Newton divided differences.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

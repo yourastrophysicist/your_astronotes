@@ -5,7 +5,7 @@ title: "Galaxy main sequence of star formation"
 
 # galaxy main sequence of star formation
 
-up: [Pablo_02_Statistical_properties_of_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.md)
+up: [Pablo_02_Statistical_properties_of_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html)
 
 ## the relation
 
@@ -31,7 +31,7 @@ the small scatter ($\sim 0.3$ dex) means that, at any given epoch, *most* galaxi
 
 starbursts (above the MS) are the *out-of-equilibrium* objects, mostly major mergers.
 
-quenched galaxies (below the MS) are *post-equilibrium*, having shut off star formation entirely (these are the [Red sequence and blue cloud](../../02_Zettel/Theory/Red sequence and blue cloud.md) red sequence).
+quenched galaxies (below the MS) are *post-equilibrium*, having shut off star formation entirely (these are the [Red sequence and blue cloud](../../02_Zettel/Theory/Red sequence and blue cloud.html) red sequence).
 
 ## three modes in the SFR-$M_*$ plane
 
@@ -52,10 +52,10 @@ the MS line on his plot is solid; the dashed and dotted lines are $4\times$ and 
 
 ## connections
 
-- driver: [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.md) (the integral over the MS gives $\rho_{SFR}$)
-- mass side: [Stellar mass function](../../02_Zettel/Theory/Stellar mass function.md)
-- equilibrium picture: bathtub model, gas accretion vs feedback (see [Halo gravity suppression of galaxy formation](../../02_Zettel/Theory/Halo gravity suppression of galaxy formation.md))
-- companion scaling relations: [Fundamental plane of ellipticals](../../02_Zettel/Theory/Fundamental plane of ellipticals.md), [Tully-Fisher relation](../../02_Zettel/Theory/Tully-Fisher relation.md), [Schmidt-Kennicutt law](../../02_Zettel/Theory/Schmidt-Kennicutt law.md)
+- driver: [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.html) (the integral over the MS gives $\rho_{SFR}$)
+- mass side: [Stellar mass function](../../02_Zettel/Theory/Stellar mass function.html)
+- equilibrium picture: bathtub model, gas accretion vs feedback (see [Halo gravity suppression of galaxy formation](../../02_Zettel/Theory/Halo gravity suppression of galaxy formation.html))
+- companion scaling relations: [Fundamental plane of ellipticals](../../02_Zettel/Theory/Fundamental plane of ellipticals.html), [Tully-Fisher relation](../../02_Zettel/Theory/Tully-Fisher relation.html), [Schmidt-Kennicutt law](../../02_Zettel/Theory/Schmidt-Kennicutt law.html)
 
 ## key references
 

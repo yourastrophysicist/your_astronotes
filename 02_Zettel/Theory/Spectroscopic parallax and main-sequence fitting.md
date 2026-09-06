@@ -9,7 +9,7 @@ title: "Spectroscopic parallax and main-sequence fitting"
 
 procedure:
 1. take a spectrum of the star.
-2. classify it on the [Stellar spectra and spectral classification](../../02_Zettel/Theory/Stellar spectra and spectral classification.md) OBAFGKM scheme + luminosity class (I to V from line widths / strengths).
+2. classify it on the [Stellar spectra and spectral classification](../../02_Zettel/Theory/Stellar spectra and spectral classification.html) OBAFGKM scheme + luminosity class (I to V from line widths / strengths).
 3. look up the absolute magnitude $M$ for that spectral type and luminosity class (e.g. from Allen's *Astrophysical Quantities*, or Pickles 1998 templates).
 4. measure the apparent magnitude $m$, correct for dust to get $m_0$.
 5. solve the distance modulus: $\mu = m_0 - M = 5\log_{10}(d_{\rm pc}) - 5$.
@@ -48,11 +48,11 @@ a generalisation: fit a theoretical **stellar isochrone** (e.g. PARSEC, BaSTI, Y
 
 ## see also
 
-- [Distance ladder derivations](../../02_Zettel/Theory/Distance ladder derivations.md)
-- [Distance modulus](../../02_Zettel/Theory/Distance modulus.md)
-- [Annual stellar parallax](../../02_Zettel/Theory/Annual stellar parallax.md)
-- [HR diagram](../../02_Zettel/Theory/HR diagram.md)
-- [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.md)
-- [Cluster ages from CMD turnoff](../../02_Zettel/Theory/Cluster ages from CMD turnoff.md)
-- [Stellar spectra and spectral classification](../../02_Zettel/Theory/Stellar spectra and spectral classification.md)
-- [Main sequence, giants, supergiants, white dwarfs](../../02_Zettel/Theory/Main sequence, giants, supergiants, white dwarfs.md)
+- [Distance ladder derivations](../../02_Zettel/Theory/Distance ladder derivations.html)
+- [Distance modulus](../../02_Zettel/Theory/Distance modulus.html)
+- [Annual stellar parallax](../../02_Zettel/Theory/Annual stellar parallax.html)
+- [HR diagram](../../02_Zettel/Theory/HR diagram.html)
+- [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.html)
+- [Cluster ages from CMD turnoff](../../02_Zettel/Theory/Cluster ages from CMD turnoff.html)
+- [Stellar spectra and spectral classification](../../02_Zettel/Theory/Stellar spectra and spectral classification.html)
+- [Main sequence, giants, supergiants, white dwarfs](../../02_Zettel/Theory/Main sequence, giants, supergiants, white dwarfs.html)

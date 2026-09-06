@@ -7,7 +7,7 @@ title: "Macroturbulence"
 
 ## difference from microturbulence
 
-[Microturbulence](../../02_Zettel/Theory/Microturbulence.md) acts on scales **smaller** than the line-forming layer; it enters the line-forming process and adds to the Doppler width as if it were extra thermal speed.
+[Microturbulence](../../02_Zettel/Theory/Microturbulence.html) acts on scales **smaller** than the line-forming layer; it enters the line-forming process and adds to the Doppler width as if it were extra thermal speed.
 
 macroturbulence acts on scales **larger** than the line-forming layer; different patches of the surface have different bulk velocities, but each patch's local line is essentially the same Voigt profile. summing across patches just **convolves** the disk-integrated line with a velocity distribution.
 
@@ -41,17 +41,17 @@ at low resolution they are degenerate. at high resolution ($R \gtrsim 30\,000$),
 
 ## physical origin
 
-attributed to large-scale convective motions in the atmosphere, especially in cool stars where convection cells are large. similar to [Microturbulence](../../02_Zettel/Theory/Microturbulence.md) but at larger scales.
+attributed to large-scale convective motions in the atmosphere, especially in cool stars where convection cells are large. similar to [Microturbulence](../../02_Zettel/Theory/Microturbulence.html) but at larger scales.
 
 direct imaging of convective patterns (e.g. Betelgeuse with CHARA, or solar granulation) supports the picture.
 
 ## see also
 
-- [Microturbulence](../../02_Zettel/Theory/Microturbulence.md)
-- [Thermal Doppler broadening](../../02_Zettel/Theory/Thermal Doppler broadening.md)
-- [Rotational broadening](../../02_Zettel/Theory/Rotational broadening.md)
-- [Stellar v sin i from line shape](../../02_Zettel/Theory/Stellar v sin i from line shape.md)
-- [Line profile function phi nu](../../02_Zettel/Theory/Line profile function phi nu.md)
-- [Voigt profile](../../02_Zettel/Theory/Voigt profile.md)
-- [Equivalent width](../../02_Zettel/Theory/Equivalent width.md)
-- [Curve of growth](../../02_Zettel/Theory/Curve of growth.md)
+- [Microturbulence](../../02_Zettel/Theory/Microturbulence.html)
+- [Thermal Doppler broadening](../../02_Zettel/Theory/Thermal Doppler broadening.html)
+- [Rotational broadening](../../02_Zettel/Theory/Rotational broadening.html)
+- [Stellar v sin i from line shape](../../02_Zettel/Theory/Stellar v sin i from line shape.html)
+- [Line profile function phi nu](../../02_Zettel/Theory/Line profile function phi nu.html)
+- [Voigt profile](../../02_Zettel/Theory/Voigt profile.html)
+- [Equivalent width](../../02_Zettel/Theory/Equivalent width.html)
+- [Curve of growth](../../02_Zettel/Theory/Curve of growth.html)

@@ -39,7 +39,7 @@ stellar dynamical masses determined for $\sim 100$ nearby SMBHs:
 - **M87** (NGC 4486): $M_{BH} = (6.5 \pm 0.7) \times 10^9\,M_\odot$, recently confirmed by EHT.
 - **M31** (NGC 224): $M_{BH} = (1.4 \pm 0.3) \times 10^8\,M_\odot$.
 - **M32**: $M_{BH} = 2.5 \times 10^6\,M_\odot$.
-- **Sgr A$^\star$** in MW: $M_{BH} = 4.3 \times 10^6\,M_\odot$ from S-star orbits (the cleanest stellar dynamical measurement ever made, see [Galactic Center Sgr A and S-stars](../../02_Zettel/Theory/interf/Galactic Center Sgr A and S-stars.md)).
+- **Sgr A$^\star$** in MW: $M_{BH} = 4.3 \times 10^6\,M_\odot$ from S-star orbits (the cleanest stellar dynamical measurement ever made, see [Galactic Center Sgr A and S-stars](../../02_Zettel/Theory/interf/Galactic Center Sgr A and S-stars.html)).
 
 these calibrate the $M_{BH}-\sigma$ + $M_{BH}-M_{\rm bulge}$ (Magorrian) relations.
 
@@ -63,11 +63,11 @@ so different methods cover different regimes; combined, give a unified SMBH mass
 
 ## see also
 
-- [Galactic Center Sgr A and S-stars](../../02_Zettel/Theory/interf/Galactic Center Sgr A and S-stars.md)
-- [Reverberation mapping](../../02_Zettel/Theory/Reverberation mapping.md)
-- [Water maser BH masses](../../02_Zettel/Theory/Water maser BH masses.md)
-- [Magorrian relation](../../02_Zettel/Theory/Magorrian relation.md)
-- [M sigma relation](../../02_Zettel/Theory/M sigma relation.md)
-- [Stellar kinematics measurements](../../02_Zettel/Theory/Stellar kinematics measurements.md)
-- [LOSVD](../../02_Zettel/Theory/LOSVD.md)
-- [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.md)
+- [Galactic Center Sgr A and S-stars](../../02_Zettel/Theory/interf/Galactic Center Sgr A and S-stars.html)
+- [Reverberation mapping](../../02_Zettel/Theory/Reverberation mapping.html)
+- [Water maser BH masses](../../02_Zettel/Theory/Water maser BH masses.html)
+- [Magorrian relation](../../02_Zettel/Theory/Magorrian relation.html)
+- [M sigma relation](../../02_Zettel/Theory/M sigma relation.html)
+- [Stellar kinematics measurements](../../02_Zettel/Theory/Stellar kinematics measurements.html)
+- [LOSVD](../../02_Zettel/Theory/LOSVD.html)
+- [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.html)

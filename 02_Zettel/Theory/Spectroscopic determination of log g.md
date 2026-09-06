@@ -10,9 +10,9 @@ surface gravity $g = GM/R^2$ controls photospheric pressure: hydrostatic equilib
 
 ## 1. ionisation balance
 
-the [Saha ionisation equation](../../02_Zettel/Theory/Saha ionisation equation.md) relates the populations of two consecutive ionisation stages of an element to electron pressure $P_e$ (hence to gravity) and temperature:
+the [Saha ionisation equation](../../02_Zettel/Theory/Saha ionisation equation.html) relates the populations of two consecutive ionisation stages of an element to electron pressure $P_e$ (hence to gravity) and temperature:
 $$\frac{N_{i+1}\,N_e}{N_i} = \frac{(2\pi m_e k T)^{3/2}}{h^3}\,\frac{2 U_{i+1}}{U_i}\,e^{-\chi_{\rm ion}/kT}.$$
-the standard procedure: derive abundances from neutral and singly ionised lines of the same element (commonly Fe I and Fe II) using equivalent widths and the [Curve of growth](../../02_Zettel/Theory/Curve of growth.md). the correct $\log g$ is the one that produces **the same abundance from both species**.
+the standard procedure: derive abundances from neutral and singly ionised lines of the same element (commonly Fe I and Fe II) using equivalent widths and the [Curve of growth](../../02_Zettel/Theory/Curve of growth.html). the correct $\log g$ is the one that produces **the same abundance from both species**.
 
 physical intuition for cool stars: in late-type photospheres Fe I is the minority species and Fe II the majority. raising $\log g$ raises $P_e$, which favours recombination of Fe II $\to$ Fe I, increasing Fe I lines slightly while decreasing Fe II lines markedly. ionisation balance is thus a sensitive lever on gravity.
 
@@ -20,7 +20,7 @@ caveats: Fe I is more affected by non-LTE, especially in metal-poor giants, wher
 
 ## 2. pressure-broadened wings of strong lines
 
-very strong lines (saturated and damped) develop **Lorentzian wings** from collisional broadening (van der Waals for cool stars, Stark for hot stars). the wings sit on the [Curve of growth](../../02_Zettel/Theory/Curve of growth.md) damped regime, where $W \propto \sqrt{\Gamma N}$ and $\Gamma$ scales with collisional rate $\propto n \propto P/T \propto g/T$. fitting the wing shape against model spectra gives $\log g$ directly.
+very strong lines (saturated and damped) develop **Lorentzian wings** from collisional broadening (van der Waals for cool stars, Stark for hot stars). the wings sit on the [Curve of growth](../../02_Zettel/Theory/Curve of growth.html) damped regime, where $W \propto \sqrt{\Gamma N}$ and $\Gamma$ scales with collisional rate $\propto n \propto P/T \propto g/T$. fitting the wing shape against model spectra gives $\log g$ directly.
 
 classic gravity diagnostics:
 
@@ -43,7 +43,7 @@ if distance is known (Gaia parallax) and $T_{\rm eff}$ is known, one computes th
 
 ## why log g matters
 
-$\log g$ separates dwarfs from giants of the same $T_{\rm eff}$ in the [HR diagram](../../02_Zettel/Theory/HR diagram.md). it sets line-broadening systematics that propagate into all abundance work. for white dwarfs, $\log g$ together with the [White dwarf mass-radius relation](../../02_Zettel/Theory/White dwarf mass-radius relation.md) yields the mass.
+$\log g$ separates dwarfs from giants of the same $T_{\rm eff}$ in the [HR diagram](../../02_Zettel/Theory/HR diagram.html). it sets line-broadening systematics that propagate into all abundance work. for white dwarfs, $\log g$ together with the [White dwarf mass-radius relation](../../02_Zettel/Theory/White dwarf mass-radius relation.html) yields the mass.
 
 ## typical precision
 
@@ -52,13 +52,13 @@ $\log g$ separates dwarfs from giants of the same $T_{\rm eff}$ in the [HR diagr
 - asteroseismic: 0.02-0.05 dex.
 
 ## see also
-- [Atmospheric parameters Teff log g feh vmicro](../../02_Zettel/Theory/interf/Atmospheric parameters Teff log g feh vmicro.md)
-- [Spectroscopic determination of Teff](../../02_Zettel/Theory/Spectroscopic determination of Teff.md)
-- [Saha ionisation equation](../../02_Zettel/Theory/Saha ionisation equation.md)
-- [Saha equation and recombination](../../02_Zettel/Theory/Saha equation and recombination.md)
-- [Curve of growth](../../02_Zettel/Theory/Curve of growth.md)
-- [Equivalent width](../../02_Zettel/Theory/Equivalent width.md)
-- [Stellar atmosphere structure](../../02_Zettel/Theory/Stellar atmosphere structure.md)
-- [Local thermodynamic equilibrium LTE](../../02_Zettel/Theory/Local thermodynamic equilibrium LTE.md)
-- [White dwarf mass-radius relation](../../02_Zettel/Theory/White dwarf mass-radius relation.md)
-- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.md)
+- [Atmospheric parameters Teff log g feh vmicro](../../02_Zettel/Theory/interf/Atmospheric parameters Teff log g feh vmicro.html)
+- [Spectroscopic determination of Teff](../../02_Zettel/Theory/Spectroscopic determination of Teff.html)
+- [Saha ionisation equation](../../02_Zettel/Theory/Saha ionisation equation.html)
+- [Saha equation and recombination](../../02_Zettel/Theory/Saha equation and recombination.html)
+- [Curve of growth](../../02_Zettel/Theory/Curve of growth.html)
+- [Equivalent width](../../02_Zettel/Theory/Equivalent width.html)
+- [Stellar atmosphere structure](../../02_Zettel/Theory/Stellar atmosphere structure.html)
+- [Local thermodynamic equilibrium LTE](../../02_Zettel/Theory/Local thermodynamic equilibrium LTE.html)
+- [White dwarf mass-radius relation](../../02_Zettel/Theory/White dwarf mass-radius relation.html)
+- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.html)

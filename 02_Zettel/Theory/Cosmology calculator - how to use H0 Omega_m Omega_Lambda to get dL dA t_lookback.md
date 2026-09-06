@@ -5,7 +5,7 @@ title: "Cosmology calculator - how to use H0 Omega_m Omega_Lambda to get dL dA t
 
 # cosmology calculator recipes
 
-up: [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md) · [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md) · 02_Zettel/Theory/Cosmological distances
+up: [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html) · [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html) · 02_Zettel/Theory/Cosmological distances
 
 ## master cosmological integrals
 
@@ -49,5 +49,5 @@ $$dV_C = D_H \frac{d_M^2(z)}{E(z)} d\Omega \, dz$$
 
 ## connections
 
-- distance proofs: [Luminosity distance](../../02_Zettel/Theory/Luminosity distance.md), [Angular diameter distance](../../02_Zettel/Theory/Angular diameter distance.md), [Surface brightness dimming](../../02_Zettel/Theory/Surface brightness dimming.md)
-- parameters: [ΛCDM current parameters](../../02_Zettel/Theory/ΛCDM current parameters.md)
+- distance proofs: [Luminosity distance](../../02_Zettel/Theory/Luminosity distance.html), [Angular diameter distance](../../02_Zettel/Theory/Angular diameter distance.html), [Surface brightness dimming](../../02_Zettel/Theory/Surface brightness dimming.html)
+- parameters: [ΛCDM current parameters](../../02_Zettel/Theory/ΛCDM current parameters.html)

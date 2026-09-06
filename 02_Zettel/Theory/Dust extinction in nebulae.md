@@ -7,7 +7,7 @@ dust mixed into ionised gas absorbs and scatters emission-line photons. measurin
 
 ## the standard method: Balmer decrement
 
-intrinsic Balmer line ratios from Case-B recombination at $T_e = 10^4$ K (see [Optically thin recombination lines](../../02_Zettel/Theory/Optically thin recombination lines.md)):
+intrinsic Balmer line ratios from Case-B recombination at $T_e = 10^4$ K (see [Optically thin recombination lines](../../02_Zettel/Theory/Optically thin recombination lines.html)):
 $$F(H\alpha)/F(H\beta) = 2.86$$
 
 the observed ratio is reddened by dust:
@@ -65,12 +65,12 @@ modeled by Charlot & Fall 2000 with two attenuation components.
 
 ## see also
 
-- [Balmer decrement](../../02_Zettel/Theory/Balmer decrement.md)
-- [Optically thin recombination lines](../../02_Zettel/Theory/Optically thin recombination lines.md)
-- [Case A vs Case B recombination](../../02_Zettel/Theory/Case A vs Case B recombination.md)
-- [Dust attenuation and extinction curves](../../02_Zettel/Theory/Dust attenuation and extinction curves.md)
-- [Dust attenuation in synthetic populations](../../02_Zettel/Theory/Dust attenuation in synthetic populations.md)
-- [Interstellar absorption](../../02_Zettel/Theory/Interstellar absorption.md)
-- [Forbidden line diagnostics](../../02_Zettel/Theory/Forbidden line diagnostics.md)
-- [H II region spectroscopy](../../02_Zettel/Theory/H II region spectroscopy.md)
-- [H-alpha SFR tracer](../../02_Zettel/Theory/H-alpha SFR tracer.md)
+- [Balmer decrement](../../02_Zettel/Theory/Balmer decrement.html)
+- [Optically thin recombination lines](../../02_Zettel/Theory/Optically thin recombination lines.html)
+- [Case A vs Case B recombination](../../02_Zettel/Theory/Case A vs Case B recombination.html)
+- [Dust attenuation and extinction curves](../../02_Zettel/Theory/Dust attenuation and extinction curves.html)
+- [Dust attenuation in synthetic populations](../../02_Zettel/Theory/Dust attenuation in synthetic populations.html)
+- [Interstellar absorption](../../02_Zettel/Theory/Interstellar absorption.html)
+- [Forbidden line diagnostics](../../02_Zettel/Theory/Forbidden line diagnostics.html)
+- [H II region spectroscopy](../../02_Zettel/Theory/H II region spectroscopy.html)
+- [H-alpha SFR tracer](../../02_Zettel/Theory/H-alpha SFR tracer.html)

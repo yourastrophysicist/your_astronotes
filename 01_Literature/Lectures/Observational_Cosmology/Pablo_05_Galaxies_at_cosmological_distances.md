@@ -5,7 +5,7 @@ title: "Pablo_05_Galaxies_at_cosmological_distances"
 
 # Pablo lecture 3 — galaxies at cosmological distances
 
-up: [Observational_Cosmology_MOC](../../../00_Atlas/Observational_Cosmology_MOC.md)
+up: [Observational_Cosmology_MOC](../../../00_Atlas/Observational_Cosmology_MOC.html)
 date: 2026-04-15
 lecturer: Pablo Pérez-González (visiting)
 
@@ -137,7 +137,7 @@ template libraries: Chary & Elbaz 2001 (CE01), Dale & Helou 2002 (DH02), Rieke e
 
 accuracy: Ilbert et al. 2006 found $\sigma_{\text{NMAD}} = 0.035$ in COSMOS. Barro & Pérez-González 2011 showed that adding Spitzer/IRAC data reduces the outlier fraction from 5% to 3% and gives $\sigma_{\text{NMAD}} = 0.036$ — the 1.6 μm bump is the anchor at $1 < z < 3$.
 
-see [Photometric redshifts](../../../02_Zettel/Theory/Photometric redshifts.md).
+see [Photometric redshifts](../../../02_Zettel/Theory/Photometric redshifts.html).
 
 ## selection biases
 
@@ -195,7 +195,7 @@ the most famous diagram in observational cosmology. $\rho_{\text{SFR}}(z)$ in $M
 
 the IR vs UV SFR density (Tresse et al. 2007): at $z \sim 0$, the UV attenuation is $A(\text{UV}) \sim 1$ mag; at $z > 1$ it rises to $\sim 2$ mag. the IR traces *more* of the total SFR than the UV at all epochs, and the discrepancy grows toward the peak.
 
-see [Cosmic star formation history](../../../02_Zettel/Theory/Cosmic star formation history.md), Madau-Lilly plot.
+see [Cosmic star formation history](../../../02_Zettel/Theory/Cosmic star formation history.html), Madau-Lilly plot.
 
 ### the IR luminosity density
 
@@ -289,13 +289,13 @@ the question "when did reionization complete?" remains open. see Epoch of reioni
 
 ## connections
 
-- previous lectures: [Pablo_03_Star_formation_in_galaxies](../../../01_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.md), [Pablo_04_Nuclear_activity_in_galaxies](../../../01_Literature/Lectures/Observational_Cosmology/Pablo_04_Nuclear_activity_in_galaxies.md)
-- the SFR tracers used to build the Madau plot come from: [SFR tracer comparison](../../../02_Zettel/Theory/SFR tracer comparison.md)
-- galaxy populations live on: [Galaxy main sequence of star formation](../../../02_Zettel/Theory/Galaxy main sequence of star formation.md)
-- bimodality: [Pablo_02_Statistical_properties_of_galaxies](../../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.md)
+- previous lectures: [Pablo_03_Star_formation_in_galaxies](../../../01_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html), [Pablo_04_Nuclear_activity_in_galaxies](../../../01_Literature/Lectures/Observational_Cosmology/Pablo_04_Nuclear_activity_in_galaxies.html)
+- the SFR tracers used to build the Madau plot come from: [SFR tracer comparison](../../../02_Zettel/Theory/SFR tracer comparison.html)
+- galaxy populations live on: [Galaxy main sequence of star formation](../../../02_Zettel/Theory/Galaxy main sequence of star formation.html)
+- bimodality: [Pablo_02_Statistical_properties_of_galaxies](../../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html)
 - AGN feedback and co-evolution: AGN-galaxy co-evolution
-- cosmic SFR history: [Cosmic star formation history](../../../02_Zettel/Theory/Cosmic star formation history.md)
-- MOC: [Observational_Cosmology_MOC](../../../00_Atlas/Observational_Cosmology_MOC.md)
+- cosmic SFR history: [Cosmic star formation history](../../../02_Zettel/Theory/Cosmic star formation history.html)
+- MOC: [Observational_Cosmology_MOC](../../../00_Atlas/Observational_Cosmology_MOC.html)
 
 ## key references
 

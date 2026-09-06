@@ -5,7 +5,7 @@ title: "Datacube reduction"
 
 # datacube reduction
 
-up: [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.md) · [MUSE datacubes](../../02_Zettel/Theory/MUSE datacubes.md)
+up: [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.html) · [MUSE datacubes](../../02_Zettel/Theory/MUSE datacubes.html)
 
 ## the 3d data structure
 
@@ -28,6 +28,6 @@ Integral Field Units (IFUs) record a three-dimensional dataset $I(x, y, \lambda)
 
 ## connections
 
-- hardware: [MUSE datacubes](../../02_Zettel/Theory/MUSE datacubes.md)
-- analysis: [Datacube redshift measurement](../../02_Zettel/Theory/Datacube redshift measurement.md), [Ionized gas kinematics](../../02_Zettel/Theory/Ionized gas kinematics.md)
-- calibration context: [CCD calibration steps](../../02_Zettel/Theory/CCD calibration steps.md)
+- hardware: [MUSE datacubes](../../02_Zettel/Theory/MUSE datacubes.html)
+- analysis: [Datacube redshift measurement](../../02_Zettel/Theory/Datacube redshift measurement.html), [Ionized gas kinematics](../../02_Zettel/Theory/Ionized gas kinematics.html)
+- calibration context: [CCD calibration steps](../../02_Zettel/Theory/CCD calibration steps.html)

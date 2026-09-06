@@ -81,12 +81,12 @@ so the Madau plot is the **cosmic star-formation history**, providing the bounda
 
 ## see also
 
-- [UV luminosity function](../../02_Zettel/Theory/UV luminosity function.md)
-- [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.md)
-- [UV SFR tracer](../../02_Zettel/Theory/UV SFR tracer.md)
-- [H-alpha SFR tracer](../../02_Zettel/Theory/H-alpha SFR tracer.md)
-- [IR SFR tracer](../../02_Zettel/Theory/IR SFR tracer.md)
-- [Cosmic stellar mass density growth](../../02_Zettel/Theory/Cosmic stellar mass density growth.md)
-- [Stellar populations I II III](../../02_Zettel/Theory/Stellar populations I II III.md)
-- [High-z galaxies with JWST](../../02_Zettel/Theory/High-z galaxies with JWST.md)
-- [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.md)
+- [UV luminosity function](../../02_Zettel/Theory/UV luminosity function.html)
+- [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.html)
+- [UV SFR tracer](../../02_Zettel/Theory/UV SFR tracer.html)
+- [H-alpha SFR tracer](../../02_Zettel/Theory/H-alpha SFR tracer.html)
+- [IR SFR tracer](../../02_Zettel/Theory/IR SFR tracer.html)
+- [Cosmic stellar mass density growth](../../02_Zettel/Theory/Cosmic stellar mass density growth.html)
+- [Stellar populations I II III](../../02_Zettel/Theory/Stellar populations I II III.html)
+- [High-z galaxies with JWST](../../02_Zettel/Theory/High-z galaxies with JWST.html)
+- [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.html)

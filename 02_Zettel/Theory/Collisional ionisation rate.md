@@ -61,9 +61,9 @@ at HII region temperatures, almost all atoms are in the lowest ionisation stage.
 
 ## see also
 
-- [Photoionization rate](../../02_Zettel/Theory/Photoionization rate.md)
-- [Recombination rate](../../02_Zettel/Theory/Recombination rate.md)
-- [Photoionisation balance](../../02_Zettel/Theory/Photoionisation balance.md)
-- [Ionisation parameter U](../../02_Zettel/Theory/Ionisation parameter U.md)
-- [Saha ionisation equation](../../02_Zettel/Theory/Saha ionisation equation.md) — analogous LTE formulation
-- [Bremsstrahlung](../../02_Zettel/Theory/Bremsstrahlung.md)
+- [Photoionization rate](../../02_Zettel/Theory/Photoionization rate.html)
+- [Recombination rate](../../02_Zettel/Theory/Recombination rate.html)
+- [Photoionisation balance](../../02_Zettel/Theory/Photoionisation balance.html)
+- [Ionisation parameter U](../../02_Zettel/Theory/Ionisation parameter U.html)
+- [Saha ionisation equation](../../02_Zettel/Theory/Saha ionisation equation.html) — analogous LTE formulation
+- [Bremsstrahlung](../../02_Zettel/Theory/Bremsstrahlung.html)

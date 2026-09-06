@@ -126,9 +126,9 @@ popt, pcov = curve_fit(model, x, y, p0=p0, jac=jacobian)
 
 ## see also
 
-- [Linear least squares](../../02_Zettel/Theory/Linear least squares.md)
-- [Weighted least squares](../../02_Zettel/Theory/Weighted least squares.md)
-- [General linear least squares](../../02_Zettel/Theory/General linear least squares.md)
-- [Goodness of fit and chi-squared](../../02_Zettel/Theory/Goodness of fit and chi-squared.md)
-- [Newton-Raphson method](../../02_Zettel/Theory/Newton-Raphson method.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Linear least squares](../../02_Zettel/Theory/Linear least squares.html)
+- [Weighted least squares](../../02_Zettel/Theory/Weighted least squares.html)
+- [General linear least squares](../../02_Zettel/Theory/General linear least squares.html)
+- [Goodness of fit and chi-squared](../../02_Zettel/Theory/Goodness of fit and chi-squared.html)
+- [Newton-Raphson method](../../02_Zettel/Theory/Newton-Raphson method.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

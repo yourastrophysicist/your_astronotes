@@ -48,7 +48,7 @@ substituting $n_\gamma = (2\zeta(3)/\pi^2) T^3$:
 
 $$\frac{X_e^2}{1 - X_e} = \frac{\sqrt\pi}{4\sqrt 2 \zeta(3)}\, \eta^{-1}\, \left(\frac{m_e}{T}\right)^{3/2} e^{-B_H/T}$$
 
-with $\eta \sim 6 \times 10^{-10}$ extremely small. the entropy factor delays recombination just like in BBN — see [BBN_baryon_to_photon_ratio](../../02_Zettel/Theory/BBN_baryon_to_photon_ratio.md).
+with $\eta \sim 6 \times 10^{-10}$ extremely small. the entropy factor delays recombination just like in BBN — see [BBN_baryon_to_photon_ratio](../../02_Zettel/Theory/BBN_baryon_to_photon_ratio.html).
 
 ---
 
@@ -88,8 +88,8 @@ the same reasoning explains why nuclei in BBN form at $T \sim 0.1$ MeV rather th
 ## why this matters
 
 three crucial consequences:
-1. **the CMB blackbody** we observe today is a snapshot of recombination — see [Cosmic_inventory_photons](../../02_Zettel/Theory/Cosmic_inventory_photons.md)
-2. **CMB anisotropies** at $\Delta T/T \sim 10^{-5}$ encode the matter perturbations at $z = 1100$, with all the BAO physics imprinted on them — see [Matter power spectrum and BAO](../../02_Zettel/Theory/Matter power spectrum and BAO.md)
+1. **the CMB blackbody** we observe today is a snapshot of recombination — see [Cosmic_inventory_photons](../../02_Zettel/Theory/Cosmic_inventory_photons.html)
+2. **CMB anisotropies** at $\Delta T/T \sim 10^{-5}$ encode the matter perturbations at $z = 1100$, with all the BAO physics imprinted on them — see [Matter power spectrum and BAO](../../02_Zettel/Theory/Matter power spectrum and BAO.html)
 3. **after decoupling**, dark matter perturbations grow freely (no photon pressure) and bring forth the cosmic web
 
 the Saha equation fixes the *epoch* of recombination, the *temperature* of the CMB blackbody we observe today, and the *peak position* of the CMB power spectrum.
@@ -98,11 +98,11 @@ the Saha equation fixes the *epoch* of recombination, the *temperature* of the C
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [BBN_overview](../../02_Zettel/Theory/BBN_overview.md) — same entropy logic, different epoch
-- [Photon decoupling and CMB](../../02_Zettel/Theory/Photon decoupling and CMB.md)
-- [Cosmic_inventory_photons](../../02_Zettel/Theory/Cosmic_inventory_photons.md)
-- [Brief thermal history](../../02_Zettel/Theory/Brief thermal history.md)
-- [Decoupling and freeze-out](../../02_Zettel/Theory/Decoupling and freeze-out.md)
-- [Boltzmann equation in cosmology](../../02_Zettel/Theory/Boltzmann equation in cosmology.md)
-- [Baumann_reference](../../02_Zettel/Theory/Baumann_reference.md) — chapter 3.3.3 has the rigorous derivation including freeze-out
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [BBN_overview](../../02_Zettel/Theory/BBN_overview.html) — same entropy logic, different epoch
+- [Photon decoupling and CMB](../../02_Zettel/Theory/Photon decoupling and CMB.html)
+- [Cosmic_inventory_photons](../../02_Zettel/Theory/Cosmic_inventory_photons.html)
+- [Brief thermal history](../../02_Zettel/Theory/Brief thermal history.html)
+- [Decoupling and freeze-out](../../02_Zettel/Theory/Decoupling and freeze-out.html)
+- [Boltzmann equation in cosmology](../../02_Zettel/Theory/Boltzmann equation in cosmology.html)
+- [Baumann_reference](../../02_Zettel/Theory/Baumann_reference.html) — chapter 3.3.3 has the rigorous derivation including freeze-out

@@ -5,7 +5,7 @@ title: "Recombination"
 
 **cosmological recombination** at $z \sim 1100$ ($T \sim 0.26$ eV) is the moment when free electrons combined with protons to form neutral hydrogen. **the universe became transparent** + the **CMB was released**. one of the three pillars of the Hot Big Bang.
 
-(companion: [Saha equation and recombination](../../02_Zettel/Theory/Saha equation and recombination.md) for the detailed Saha analysis + Case B physics; [Photon decoupling and CMB](../../02_Zettel/Theory/Photon decoupling and CMB.md) for the CMB perspective.)
+(companion: [Saha equation and recombination](../../02_Zettel/Theory/Saha equation and recombination.html) for the detailed Saha analysis + Case B physics; [Photon decoupling and CMB](../../02_Zettel/Theory/Photon decoupling and CMB.html) for the CMB perspective.)
 
 ## the setup
 
@@ -66,13 +66,13 @@ so the **electron density** has a U-shape: high before recombination, low betwee
 
 ## see also
 
-- [Saha equation and recombination](../../02_Zettel/Theory/Saha equation and recombination.md)
-- [Decoupling](../../02_Zettel/Theory/Decoupling.md)
-- [Photon decoupling and CMB](../../02_Zettel/Theory/Photon decoupling and CMB.md)
+- [Saha equation and recombination](../../02_Zettel/Theory/Saha equation and recombination.html)
+- [Decoupling](../../02_Zettel/Theory/Decoupling.html)
+- [Photon decoupling and CMB](../../02_Zettel/Theory/Photon decoupling and CMB.html)
 - CMB — discovery and blackbody spectrum
-- [CMB anisotropies](../../02_Zettel/Theory/CMB anisotropies.md)
-- [Reionization](../../02_Zettel/Theory/Reionization.md)
-- [Brief thermal history](../../02_Zettel/Theory/Brief thermal history.md)
-- [Transition epochs](../../02_Zettel/Theory/Transition epochs.md)
-- [Case A vs Case B recombination](../../02_Zettel/Theory/Case A vs Case B recombination.md)
-- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md)
+- [CMB anisotropies](../../02_Zettel/Theory/CMB anisotropies.html)
+- [Reionization](../../02_Zettel/Theory/Reionization.html)
+- [Brief thermal history](../../02_Zettel/Theory/Brief thermal history.html)
+- [Transition epochs](../../02_Zettel/Theory/Transition epochs.html)
+- [Case A vs Case B recombination](../../02_Zettel/Theory/Case A vs Case B recombination.html)
+- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html)

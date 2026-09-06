@@ -4,7 +4,7 @@ name: Pop III nucleosynthesis signatures
 description: characteristic abundance patterns left by Pop III progenitors (CEMP-no, r-process II, even-Z patterns from pair-instability SNe), used to fingerprint single zero-metallicity progenitor events in the metal-poor halo + UFDGs
 ---
 
-since [Pop III stars](../../02_Zettel/Theory/Population III stars.md) cannot be observed directly today, their nucleosynthesis is studied via the **abundance patterns** they imprinted on the next-generation gas. these patterns persist in the most metal-poor stars in the Galactic halo + ultra-faint dwarf galaxies, providing chemical fossils of single Pop III progenitors.
+since [Pop III stars](../../02_Zettel/Theory/Population III stars.html) cannot be observed directly today, their nucleosynthesis is studied via the **abundance patterns** they imprinted on the next-generation gas. these patterns persist in the most metal-poor stars in the Galactic halo + ultra-faint dwarf galaxies, providing chemical fossils of single Pop III progenitors.
 
 ## the canonical Pop III progenitor types
 
@@ -82,11 +82,11 @@ these signatures provide the **only observational handle on the Pop III IMF** un
 
 ## see also
 
-- [Population III stars](../../02_Zettel/Theory/Population III stars.md)
-- [Critical metallicity for fragmentation](../../02_Zettel/Theory/Critical metallicity for fragmentation.md)
-- [Search for Pop III stars in dwarf galaxies](../../02_Zettel/Theory/Search for Pop III stars in dwarf galaxies.md)
-- [Pop III remnants in UFDGs](../../02_Zettel/Theory/Pop III remnants in UFDGs.md)
-- [Ultra-faint dwarf galaxies definition](../../02_Zettel/Theory/Ultra-faint dwarf galaxies definition.md)
-- [UFDG dark matter content](../../02_Zettel/Theory/UFDG dark matter content.md)
-- [Big Bang nucleosynthesis](../../02_Zettel/Theory/Big Bang nucleosynthesis.md)
-- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.md)
+- [Population III stars](../../02_Zettel/Theory/Population III stars.html)
+- [Critical metallicity for fragmentation](../../02_Zettel/Theory/Critical metallicity for fragmentation.html)
+- [Search for Pop III stars in dwarf galaxies](../../02_Zettel/Theory/Search for Pop III stars in dwarf galaxies.html)
+- [Pop III remnants in UFDGs](../../02_Zettel/Theory/Pop III remnants in UFDGs.html)
+- [Ultra-faint dwarf galaxies definition](../../02_Zettel/Theory/Ultra-faint dwarf galaxies definition.html)
+- [UFDG dark matter content](../../02_Zettel/Theory/UFDG dark matter content.html)
+- [Big Bang nucleosynthesis](../../02_Zettel/Theory/Big Bang nucleosynthesis.html)
+- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.html)

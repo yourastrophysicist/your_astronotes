@@ -45,7 +45,7 @@ unresolved nebulae produce integrated spectra reflecting the volume-weighted mix
 - starburst galaxies (low $U$, low $T_e$): low [OIII]/[OII], high [SII]/H$\alpha$.
 - AGN narrow-line regions (high $U$, hard ionising spectrum): high [OIII]/H$\beta$, He II $\lambda 4686$ visible.
 
-these differences underlie the BPT diagram for galaxy classification ([BPT diagram](../../02_Zettel/Theory/BPT diagram.md)).
+these differences underlie the BPT diagram for galaxy classification ([BPT diagram](../../02_Zettel/Theory/BPT diagram.html)).
 
 ## ionisation correction factors (ICFs)
 
@@ -63,11 +63,11 @@ matter-bounded vs ionisation-bounded affects the integrated line ratios; matter-
 
 ## see also
 
-- [Ionisation parameter U](../../02_Zettel/Theory/Ionisation parameter U.md)
+- [Ionisation parameter U](../../02_Zettel/Theory/Ionisation parameter U.html)
 - Strömgren sphere
-- [Photoionisation balance](../../02_Zettel/Theory/Photoionisation balance.md)
-- [Forbidden line diagnostics](../../02_Zettel/Theory/Forbidden line diagnostics.md)
-- [BPT diagram](../../02_Zettel/Theory/BPT diagram.md)
-- [H II region spectroscopy](../../02_Zettel/Theory/H II region spectroscopy.md)
-- [AGN spectroscopy](../../02_Zettel/Theory/AGN spectroscopy.md)
-- [Planetary nebula spectroscopy](../../02_Zettel/Theory/Planetary nebula spectroscopy.md)
+- [Photoionisation balance](../../02_Zettel/Theory/Photoionisation balance.html)
+- [Forbidden line diagnostics](../../02_Zettel/Theory/Forbidden line diagnostics.html)
+- [BPT diagram](../../02_Zettel/Theory/BPT diagram.html)
+- [H II region spectroscopy](../../02_Zettel/Theory/H II region spectroscopy.html)
+- [AGN spectroscopy](../../02_Zettel/Theory/AGN spectroscopy.html)
+- [Planetary nebula spectroscopy](../../02_Zettel/Theory/Planetary nebula spectroscopy.html)

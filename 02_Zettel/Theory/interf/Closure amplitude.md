@@ -85,8 +85,8 @@ these are the "robust observables" that survive arbitrary station-based calibrat
 
 ## see also
 
-- [Phase closure](../../../02_Zettel/Theory/interf/Phase closure.md)
-- [The phase problem in interferometry](../../../02_Zettel/Theory/interf/The phase problem in interferometry.md)
-- [Self-calibration](../../../02_Zettel/Theory/interf/Self-calibration.md)
-- [Bispectrum and triple correlation](../../../02_Zettel/Theory/interf/Bispectrum and triple correlation.md)
-- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Phase closure](../../../02_Zettel/Theory/interf/Phase closure.html)
+- [The phase problem in interferometry](../../../02_Zettel/Theory/interf/The phase problem in interferometry.html)
+- [Self-calibration](../../../02_Zettel/Theory/interf/Self-calibration.html)
+- [Bispectrum and triple correlation](../../../02_Zettel/Theory/interf/Bispectrum and triple correlation.html)
+- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.html)

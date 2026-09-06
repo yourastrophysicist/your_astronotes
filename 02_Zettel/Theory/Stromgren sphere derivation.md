@@ -75,9 +75,9 @@ modern photoionisation codes (Cloudy) include all these effects; the analytic St
 ## see also
 
 - Strömgren sphere
-- [Photoionisation balance](../../02_Zettel/Theory/Photoionisation balance.md)
-- [Recombination rate](../../02_Zettel/Theory/Recombination rate.md)
-- [Photoionization rate](../../02_Zettel/Theory/Photoionization rate.md)
-- [Case A vs Case B recombination](../../02_Zettel/Theory/Case A vs Case B recombination.md)
-- [Ionisation parameter U](../../02_Zettel/Theory/Ionisation parameter U.md)
-- [H II region spectroscopy](../../02_Zettel/Theory/H II region spectroscopy.md)
+- [Photoionisation balance](../../02_Zettel/Theory/Photoionisation balance.html)
+- [Recombination rate](../../02_Zettel/Theory/Recombination rate.html)
+- [Photoionization rate](../../02_Zettel/Theory/Photoionization rate.html)
+- [Case A vs Case B recombination](../../02_Zettel/Theory/Case A vs Case B recombination.html)
+- [Ionisation parameter U](../../02_Zettel/Theory/Ionisation parameter U.html)
+- [H II region spectroscopy](../../02_Zettel/Theory/H II region spectroscopy.html)

@@ -61,8 +61,8 @@ optical interferometers must therefore combine the *actual light waves* before d
 
 ## see also
 
-- [Radio telescope components](../../02_Zettel/Theory/Radio telescope components.md)
-- [Electromagnetic waves and photons](../../02_Zettel/Theory/interf/Electromagnetic waves and photons.md)
-- [Michelson stellar interferometer](../../02_Zettel/Theory/interf/Michelson stellar interferometer.md)
-- [Two-element correlator](../../02_Zettel/Theory/interf/Two-element correlator.md)
-- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Radio telescope components](../../02_Zettel/Theory/Radio telescope components.html)
+- [Electromagnetic waves and photons](../../02_Zettel/Theory/interf/Electromagnetic waves and photons.html)
+- [Michelson stellar interferometer](../../02_Zettel/Theory/interf/Michelson stellar interferometer.html)
+- [Two-element correlator](../../02_Zettel/Theory/interf/Two-element correlator.html)
+- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.html)

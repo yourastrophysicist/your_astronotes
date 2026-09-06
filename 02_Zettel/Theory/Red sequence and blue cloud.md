@@ -5,11 +5,11 @@ title: "Red sequence and blue cloud"
 
 # red sequence and blue cloud
 
-up: [Pablo_02_Statistical_properties_of_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.md) · [Color bimodality of galaxies](../../02_Zettel/Theory/Color bimodality of galaxies.md)
+up: [Pablo_02_Statistical_properties_of_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html) · [Color bimodality of galaxies](../../02_Zettel/Theory/Color bimodality of galaxies.html)
 
 ## the two populations
 
-the [Color bimodality of galaxies](../../02_Zettel/Theory/Color bimodality of galaxies.md) resolves into two well-defined locii in the color-magnitude diagram (CMD):
+the [Color bimodality of galaxies](../../02_Zettel/Theory/Color bimodality of galaxies.html) resolves into two well-defined locii in the color-magnitude diagram (CMD):
 
 - **red sequence**: a tight, slightly tilted line of red galaxies, scatter $\sim 0.05$ mag in $u-r$. these are mostly ellipticals and S0s, plus the bulges of early-type spirals. essentially passive: little or no ongoing star formation, old stellar populations ($\gtrsim 5$ Gyr), often dust-poor.
 - **blue cloud**: a broader, more diffuse population running roughly parallel but $\sim 1$ mag bluer in $u-r$. these are spirals and irregulars, with active star formation, younger luminosity-weighted ages ($\sim 1$–$3$ Gyr), and variable dust.
@@ -26,14 +26,14 @@ because star-forming galaxies have a much larger dust spread and more variable s
 
 ## what fills the valley
 
-galaxies in the [Green valley and quenching tracks](../../02_Zettel/Theory/Green valley and quenching tracks.md) valley are not zero-density; they are real, transitioning objects. the *valley* is just where the residence time is short (Gyr or less), so at any snapshot you find few of them.
+galaxies in the [Green valley and quenching tracks](../../02_Zettel/Theory/Green valley and quenching tracks.html) valley are not zero-density; they are real, transitioning objects. the *valley* is just where the residence time is short (Gyr or less), so at any snapshot you find few of them.
 
 ## connections
 
-- physics of the transition: [Green valley and quenching tracks](../../02_Zettel/Theory/Green valley and quenching tracks.md)
-- environment correlation: [Galaxy color, density and morphology](../../02_Zettel/Theory/Galaxy color, density and morphology.md)
-- in the LF: [LF by morphology and SED](../../02_Zettel/Theory/LF by morphology and SED.md) (red-sequence LF is steeper at faint end, blue-cloud LF dominates at $L < L^*$)
-- mass version: [Stellar mass function](../../02_Zettel/Theory/Stellar mass function.md) (passive and star-forming SMFs each Schechter-like, with crossover near $M^*$)
+- physics of the transition: [Green valley and quenching tracks](../../02_Zettel/Theory/Green valley and quenching tracks.html)
+- environment correlation: [Galaxy color, density and morphology](../../02_Zettel/Theory/Galaxy color, density and morphology.html)
+- in the LF: [LF by morphology and SED](../../02_Zettel/Theory/LF by morphology and SED.html) (red-sequence LF is steeper at faint end, blue-cloud LF dominates at $L < L^*$)
+- mass version: [Stellar mass function](../../02_Zettel/Theory/Stellar mass function.html) (passive and star-forming SMFs each Schechter-like, with crossover near $M^*$)
 
 ## key references
 

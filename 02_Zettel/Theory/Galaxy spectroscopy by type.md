@@ -82,17 +82,17 @@ a 2D diagnostic plot ($[OIII]/H\beta$ vs $[NII]/H\alpha$) separates:
 - **AGN / Seyfert** (above the locus).
 - **LINERs** (intermediate).
 
-see [BPT diagram](../../02_Zettel/Theory/BPT diagram.md) for the full discussion.
+see [BPT diagram](../../02_Zettel/Theory/BPT diagram.html) for the full discussion.
 
 ## see also
 
-- [H II region spectroscopy](../../02_Zettel/Theory/H II region spectroscopy.md)
-- [Planetary nebula spectroscopy](../../02_Zettel/Theory/Planetary nebula spectroscopy.md)
-- [AGN spectroscopy](../../02_Zettel/Theory/AGN spectroscopy.md)
-- [BPT diagram](../../02_Zettel/Theory/BPT diagram.md)
-- [Calcium and CaII H+K](../../02_Zettel/Theory/Calcium and CaII H+K.md)
-- [Stellar population synthesis](../../02_Zettel/Theory/Stellar population synthesis.md)
-- [Why the Sequence OBAFGKM](../../02_Zettel/Theory/Why the Sequence OBAFGKM.md)
-- [Hubble morphological sequence](../../02_Zettel/Theory/Hubble morphological sequence.md)
-- [Color bimodality of galaxies](../../02_Zettel/Theory/Color bimodality of galaxies.md)
-- [Galaxy color, density and morphology](../../02_Zettel/Theory/Galaxy color, density and morphology.md)
+- [H II region spectroscopy](../../02_Zettel/Theory/H II region spectroscopy.html)
+- [Planetary nebula spectroscopy](../../02_Zettel/Theory/Planetary nebula spectroscopy.html)
+- [AGN spectroscopy](../../02_Zettel/Theory/AGN spectroscopy.html)
+- [BPT diagram](../../02_Zettel/Theory/BPT diagram.html)
+- [Calcium and CaII H+K](../../02_Zettel/Theory/Calcium and CaII H+K.html)
+- [Stellar population synthesis](../../02_Zettel/Theory/Stellar population synthesis.html)
+- [Why the Sequence OBAFGKM](../../02_Zettel/Theory/Why the Sequence OBAFGKM.html)
+- [Hubble morphological sequence](../../02_Zettel/Theory/Hubble morphological sequence.html)
+- [Color bimodality of galaxies](../../02_Zettel/Theory/Color bimodality of galaxies.html)
+- [Galaxy color, density and morphology](../../02_Zettel/Theory/Galaxy color, density and morphology.html)

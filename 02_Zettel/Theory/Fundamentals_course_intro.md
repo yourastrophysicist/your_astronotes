@@ -24,7 +24,7 @@ the course is a foundation, in two halves: a *classical* astronomy and stellar e
 - measurement of time
 - Kepler's laws, orbital elements
 
-→ see [Spherical_astronomy_complete](../../02_Zettel/Theory/Spherical_astronomy_complete.md)
+→ see [Spherical_astronomy_complete](../../02_Zettel/Theory/Spherical_astronomy_complete.html)
 
 ### Radiative mechanisms and magnitudes
 - electromagnetic radiation, intensity and radiation density, luminosity
@@ -72,7 +72,7 @@ the course is a foundation, in two halves: a *classical* astronomy and stellar e
 - solutions for flat case and universes with non-zero spatial curvature
 - exact treatment of Hubble's law
 
-→ see [Cosmic_inventory_overview](../../02_Zettel/Theory/Cosmic_inventory_overview.md)
+→ see [Cosmic_inventory_overview](../../02_Zettel/Theory/Cosmic_inventory_overview.html)
 
 ### Thermal history and the early universe
 - number density, energy density, pressure for thermal-equilibrium particles
@@ -87,7 +87,7 @@ the course is a foundation, in two halves: a *classical* astronomy and stellar e
 - primordial nucleosynthesis of light elements
 - hydrogen recombination: Saha equation, radiation decoupling, CMB
 
-→ see [BBN_overview](../../02_Zettel/Theory/BBN_overview.md)
+→ see [BBN_overview](../../02_Zettel/Theory/BBN_overview.html)
 
 ### Dark matter: general properties
 - basic concepts of the Boltzmann equation in cosmology and "cosmic relics"
@@ -113,7 +113,7 @@ the course is a foundation, in two halves: a *classical* astronomy and stellar e
 - **Schneider**, *Extragalactic Astronomy and Cosmology*, 2nd ed. — galaxies and cosmology rigorous treatment
 - **Coles & Lucchin**, *Cosmology: The Origin and Evolution of Cosmic Structure* (Wiley, 2002)
 - **Kolb & Turner**, *The Early Universe* (Addison-Wesley, 1990)
-- **Baumann**, *Cosmology* (Part III Cambridge lecture notes) — the modern back-up text, see [Baumann_reference](../../02_Zettel/Theory/Baumann_reference.md)
+- **Baumann**, *Cosmology* (Part III Cambridge lecture notes) — the modern back-up text, see [Baumann_reference](../../02_Zettel/Theory/Baumann_reference.html)
 
 slides and lecture notes are posted on the e-learning platform [stem.elearning.unipd.it](https://stem.elearning.unipd.it/).
 
@@ -131,8 +131,8 @@ every later course (Observational Cosmology, High Energy Instrumentation, GR) is
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Spherical_astronomy_complete](../../02_Zettel/Theory/Spherical_astronomy_complete.md)
-- [Cosmic_inventory_overview](../../02_Zettel/Theory/Cosmic_inventory_overview.md)
-- [BBN_overview](../../02_Zettel/Theory/BBN_overview.md)
-- [Baumann_reference](../../02_Zettel/Theory/Baumann_reference.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Spherical_astronomy_complete](../../02_Zettel/Theory/Spherical_astronomy_complete.html)
+- [Cosmic_inventory_overview](../../02_Zettel/Theory/Cosmic_inventory_overview.html)
+- [BBN_overview](../../02_Zettel/Theory/BBN_overview.html)
+- [Baumann_reference](../../02_Zettel/Theory/Baumann_reference.html)

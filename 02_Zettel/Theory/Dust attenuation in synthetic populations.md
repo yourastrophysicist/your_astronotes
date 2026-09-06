@@ -5,7 +5,7 @@ title: "Dust attenuation in synthetic populations"
 
 in any galaxy with active star formation, dust in the ISM **absorbs UV/optical photons** and re-emits them in the IR. modelling this attenuation correctly is essential for inferring SFR, age, and stellar mass from observed SEDs.
 
-a related note already exists at [Dust attenuation and extinction curves](../../02_Zettel/Theory/Dust attenuation and extinction curves.md) focused on the reddening laws. this note specifically addresses how dust enters **synthetic SED predictions** in stellar population synthesis.
+a related note already exists at [Dust attenuation and extinction curves](../../02_Zettel/Theory/Dust attenuation and extinction curves.html) focused on the reddening laws. this note specifically addresses how dust enters **synthetic SED predictions** in stellar population synthesis.
 
 ## the basic equation
 
@@ -62,7 +62,7 @@ $$\log_{10}(\mathrm{IRX}) = \log_{10}\!\left(10^{0.4\,A_{UV}} - 1\right)$$
 
 with $A_{UV} \approx a + b\beta$. allows estimating $A_{UV}$ from UV photometry alone when no IR data is available. caveats: scatter $\sim 0.5$ dex due to age, geometry, attenuation-law variations.
 
-see [UV slope and IRX-beta relation](../../02_Zettel/Theory/UV slope and IRX-beta relation.md).
+see [UV slope and IRX-beta relation](../../02_Zettel/Theory/UV slope and IRX-beta relation.html).
 
 ## consequences for SFR and mass
 
@@ -74,12 +74,12 @@ so dust is not a small correction. for any quantitative SFR or mass estimate of 
 
 ## see also
 
-- [Dust attenuation and extinction curves](../../02_Zettel/Theory/Dust attenuation and extinction curves.md)
-- [Interstellar absorption](../../02_Zettel/Theory/Interstellar absorption.md)
-- [UV SFR tracer](../../02_Zettel/Theory/UV SFR tracer.md)
-- [UV slope and IRX-beta relation](../../02_Zettel/Theory/UV slope and IRX-beta relation.md)
-- [IR SFR tracer](../../02_Zettel/Theory/IR SFR tracer.md)
-- [Balmer decrement](../../02_Zettel/Theory/Balmer decrement.md)
-- [SED fitting basics](../../02_Zettel/Theory/SED fitting basics.md)
-- [SFR tracers from population synthesis](../../02_Zettel/Theory/SFR tracers from population synthesis.md)
-- [Stellar population synthesis](../../02_Zettel/Theory/Stellar population synthesis.md)
+- [Dust attenuation and extinction curves](../../02_Zettel/Theory/Dust attenuation and extinction curves.html)
+- [Interstellar absorption](../../02_Zettel/Theory/Interstellar absorption.html)
+- [UV SFR tracer](../../02_Zettel/Theory/UV SFR tracer.html)
+- [UV slope and IRX-beta relation](../../02_Zettel/Theory/UV slope and IRX-beta relation.html)
+- [IR SFR tracer](../../02_Zettel/Theory/IR SFR tracer.html)
+- [Balmer decrement](../../02_Zettel/Theory/Balmer decrement.html)
+- [SED fitting basics](../../02_Zettel/Theory/SED fitting basics.html)
+- [SFR tracers from population synthesis](../../02_Zettel/Theory/SFR tracers from population synthesis.html)
+- [Stellar population synthesis](../../02_Zettel/Theory/Stellar population synthesis.html)

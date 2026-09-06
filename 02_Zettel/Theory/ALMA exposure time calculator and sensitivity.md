@@ -84,7 +84,7 @@ source: local plot generated from the radiometer-equation scaling.
 
 ## see also
 
-- [Radiometer equation and SEFD](../../02_Zettel/Theory/interf/Radiometer equation and SEFD.md)
-- [Antenna effective area and gain](../../02_Zettel/Theory/interf/Antenna effective area and gain.md)
-- [Radio interferometer architecture](../../02_Zettel/Theory/interf/Radio interferometer architecture.md)
-- [Steps in radio interferometric observations](../../02_Zettel/Theory/interf/Steps in radio interferometric observations.md)
+- [Radiometer equation and SEFD](../../02_Zettel/Theory/interf/Radiometer equation and SEFD.html)
+- [Antenna effective area and gain](../../02_Zettel/Theory/interf/Antenna effective area and gain.html)
+- [Radio interferometer architecture](../../02_Zettel/Theory/interf/Radio interferometer architecture.html)
+- [Steps in radio interferometric observations](../../02_Zettel/Theory/interf/Steps in radio interferometric observations.html)

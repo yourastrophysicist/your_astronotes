@@ -54,5 +54,5 @@ Young's double slit experiment is literally the prototype for a stellar interfer
 
 ## connections & zettel links
 
-* parent moc: [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.md)
-* related zettels: [Young experiment as a stellar interferometer](../../02_Zettel/Theory/interf/Young experiment as a stellar interferometer.md), [Fringe visibility and contrast](../../02_Zettel/Theory/interf/Fringe visibility and contrast.md), [Optical path difference OPD](../../02_Zettel/Theory/interf/Optical path difference OPD.md)
+* parent moc: [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.html)
+* related zettels: [Young experiment as a stellar interferometer](../../02_Zettel/Theory/interf/Young experiment as a stellar interferometer.html), [Fringe visibility and contrast](../../02_Zettel/Theory/interf/Fringe visibility and contrast.html), [Optical path difference OPD](../../02_Zettel/Theory/interf/Optical path difference OPD.html)

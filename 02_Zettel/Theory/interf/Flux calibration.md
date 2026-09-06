@@ -23,7 +23,7 @@ main libraries:
 
 ## airmass correction
 
-extinction depends on airmass $X$ (see [Atmospheric extinction](../../../02_Zettel/Theory/interf/Atmospheric extinction.md)). standard star and target are often at different airmasses, so:
+extinction depends on airmass $X$ (see [Atmospheric extinction](../../../02_Zettel/Theory/interf/Atmospheric extinction.html)). standard star and target are often at different airmasses, so:
 1. observe the standard at multiple airmasses to determine $k(\lambda)$ on the night.
 2. or use a tabulated mean extinction curve for the site.
 3. apply Beer-Lambert correction: $F_0(\lambda) = F_{\rm obs}(\lambda) \cdot 10^{0.4 k(\lambda) X}$.
@@ -53,10 +53,10 @@ absolute calibration is essential for:
 
 ## see also
 
-- [Spectrograph design](../../../02_Zettel/Theory/Spectrograph design.md)
-- [Spectrum reduction pipeline](../../../02_Zettel/Theory/Spectrum reduction pipeline.md)
-- [Wavelength calibration](../../../02_Zettel/Theory/Wavelength calibration.md)
-- [Atmospheric extinction](../../../02_Zettel/Theory/interf/Atmospheric extinction.md)
-- [Photometric standard stars](../../../02_Zettel/Theory/Photometric standard stars.md)
-- [Magnitudes and photometric systems](../../../02_Zettel/Theory/Magnitudes and photometric systems.md)
+- [Spectrograph design](../../../02_Zettel/Theory/Spectrograph design.html)
+- [Spectrum reduction pipeline](../../../02_Zettel/Theory/Spectrum reduction pipeline.html)
+- [Wavelength calibration](../../../02_Zettel/Theory/Wavelength calibration.html)
+- [Atmospheric extinction](../../../02_Zettel/Theory/interf/Atmospheric extinction.html)
+- [Photometric standard stars](../../../02_Zettel/Theory/Photometric standard stars.html)
+- [Magnitudes and photometric systems](../../../02_Zettel/Theory/Magnitudes and photometric systems.html)
 - [Spectral Energy Distribution (SED)](../../../02_Zettel/Theory/Spectral Energy Distribution (SED).md)

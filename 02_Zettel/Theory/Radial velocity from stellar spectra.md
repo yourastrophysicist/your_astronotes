@@ -50,7 +50,7 @@ $$v_{\rm GR} = \frac{GM}{Rc} \approx 0.6\;\text{km/s}\quad\text{for the sun}.$$
 absolute RVs (referred to a global standard) rely on accurate atomic line wavelengths and detailed corrections; precision is limited to $\sim 100$ m/s. differential RVs (within one observing campaign of one star) routinely reach 0.5-1 m/s, which is what makes exoplanet RV surveys possible.
 
 ## see also
-- [Stellar rotation v sini](../../02_Zettel/Theory/Stellar rotation v sini.md)
-- [Atmospheric parameters Teff log g feh vmicro](../../02_Zettel/Theory/interf/Atmospheric parameters Teff log g feh vmicro.md)
-- [Annual stellar parallax](../../02_Zettel/Theory/Annual stellar parallax.md)
-- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.md)
+- [Stellar rotation v sini](../../02_Zettel/Theory/Stellar rotation v sini.html)
+- [Atmospheric parameters Teff log g feh vmicro](../../02_Zettel/Theory/interf/Atmospheric parameters Teff log g feh vmicro.html)
+- [Annual stellar parallax](../../02_Zettel/Theory/Annual stellar parallax.html)
+- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.html)

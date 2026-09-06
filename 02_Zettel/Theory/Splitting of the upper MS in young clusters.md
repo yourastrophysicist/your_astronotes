@@ -4,7 +4,7 @@ name: Splitting of the upper MS in young clusters
 description: bifurcation of the upper main sequence into blue and red branches in young (~100 Myr) LMC clusters NGC 1755, NGC 1850, NGC 1856, attributed to slow + fast rotators
 ---
 
-in young ($\sim 50$-$300$ Myr) LMC clusters, deep HST photometry has revealed that the **upper main sequence is bifurcated** into a blue + a red branch separated by $\sim 0.05$-$0.10$ mag in colour. discovered by Milone et al. 2015, 2018 in NGC 1755, NGC 1850, NGC 1856 + others. this is one of the cleanest pieces of evidence that [stellar rotation](../../02_Zettel/Theory/Stellar rotation effects on CMD.md) dominates the [eMSTO](../../02_Zettel/Theory/Extended main sequence turn-off eMSTO.md) phenomenon.
+in young ($\sim 50$-$300$ Myr) LMC clusters, deep HST photometry has revealed that the **upper main sequence is bifurcated** into a blue + a red branch separated by $\sim 0.05$-$0.10$ mag in colour. discovered by Milone et al. 2015, 2018 in NGC 1755, NGC 1850, NGC 1856 + others. this is one of the cleanest pieces of evidence that [stellar rotation](../../02_Zettel/Theory/Stellar rotation effects on CMD.html) dominates the [eMSTO](../../02_Zettel/Theory/Extended main sequence turn-off eMSTO.html) phenomenon.
 
 ## the observation
 
@@ -46,7 +46,7 @@ it is plausible that NO single mechanism dominates: the bimodal distribution may
 ## why this is important
 
 the split upper MS is THE cleanest observational signature that rotation matters for cluster CMD morphology. it:
-- decisively rules out a pure age-spread interpretation of the [eMSTO](../../02_Zettel/Theory/Extended main sequence turn-off eMSTO.md);
+- decisively rules out a pure age-spread interpretation of the [eMSTO](../../02_Zettel/Theory/Extended main sequence turn-off eMSTO.html);
 - provides a direct empirical handle on the rotation distribution at cluster formation;
 - connects to the He-variation argument for old GC chromosome maps (D'Antona et al. 2015).
 
@@ -54,7 +54,7 @@ the split upper MS is THE cleanest observational signature that rotation matters
 
 old GCs ($> 5$ Gyr) do NOT show split upper MS: stars on the MS today are $M < 0.85\,M_\odot$ which have been magnetically braked + slow-rotating. but the He variations + chemical anomalies in old GCs may be the **fossil residue** of an earlier rotation-driven phase: when the GC was 100 Myr old, it likely had a split upper MS too; the rotation has since been braked away, but the He enrichment + chemical variations persist.
 
-if true, eMSTO clusters today + old GC chromosome maps are the same phenomenon at different epochs. this is the essence of the [eMSTO and multiple populations connection](../../02_Zettel/Theory/eMSTO and multiple populations connection.md).
+if true, eMSTO clusters today + old GC chromosome maps are the same phenomenon at different epochs. this is the essence of the [eMSTO and multiple populations connection](../../02_Zettel/Theory/eMSTO and multiple populations connection.html).
 
 ## reference papers
 
@@ -68,11 +68,11 @@ if true, eMSTO clusters today + old GC chromosome maps are the same phenomenon a
 
 ## see also
 
-- [Extended main sequence turn-off eMSTO](../../02_Zettel/Theory/Extended main sequence turn-off eMSTO.md)
-- [Origin of eMSTO age spread or rotation](../../02_Zettel/Theory/Origin of eMSTO age spread or rotation.md)
-- [Stellar rotation effects on CMD](../../02_Zettel/Theory/Stellar rotation effects on CMD.md)
-- [eMSTO and multiple populations connection](../../02_Zettel/Theory/eMSTO and multiple populations connection.md)
-- [Stellar rotation v sini](../../02_Zettel/Theory/Stellar rotation v sini.md)
-- [Multiple populations in GCs discovery](../../02_Zettel/Theory/Multiple populations in GCs discovery.md)
-- [Helium spread in GCs](../../02_Zettel/Theory/Helium spread in GCs.md)
-- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.md)
+- [Extended main sequence turn-off eMSTO](../../02_Zettel/Theory/Extended main sequence turn-off eMSTO.html)
+- [Origin of eMSTO age spread or rotation](../../02_Zettel/Theory/Origin of eMSTO age spread or rotation.html)
+- [Stellar rotation effects on CMD](../../02_Zettel/Theory/Stellar rotation effects on CMD.html)
+- [eMSTO and multiple populations connection](../../02_Zettel/Theory/eMSTO and multiple populations connection.html)
+- [Stellar rotation v sini](../../02_Zettel/Theory/Stellar rotation v sini.html)
+- [Multiple populations in GCs discovery](../../02_Zettel/Theory/Multiple populations in GCs discovery.html)
+- [Helium spread in GCs](../../02_Zettel/Theory/Helium spread in GCs.html)
+- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.html)

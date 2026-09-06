@@ -102,9 +102,9 @@ source: local workflow diagram generated from the standard radio-reduction seque
 
 ## see also
 
-- [Calibration overview](../../../02_Zettel/Theory/interf/Calibration overview.md)
-- [Bandpass calibration](../../../02_Zettel/Theory/interf/Bandpass calibration.md)
-- [Flux calibration](../../../02_Zettel/Theory/interf/Flux calibration.md)
-- [Phase referencing](../../../02_Zettel/Theory/interf/Phase referencing.md)
-- [Self-calibration](../../../02_Zettel/Theory/interf/Self-calibration.md)
-- [CLEAN algorithm](../../../02_Zettel/Theory/interf/CLEAN algorithm.md)
+- [Calibration overview](../../../02_Zettel/Theory/interf/Calibration overview.html)
+- [Bandpass calibration](../../../02_Zettel/Theory/interf/Bandpass calibration.html)
+- [Flux calibration](../../../02_Zettel/Theory/interf/Flux calibration.html)
+- [Phase referencing](../../../02_Zettel/Theory/interf/Phase referencing.html)
+- [Self-calibration](../../../02_Zettel/Theory/interf/Self-calibration.html)
+- [CLEAN algorithm](../../../02_Zettel/Theory/interf/CLEAN algorithm.html)

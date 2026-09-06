@@ -108,8 +108,8 @@ the actual VLA Y was chosen by trial-and-error in the 1970s, optimized for both 
 ## see also
 
 - [The (u, v) plane](../../../02_Zettel/Theory/interf/The (u, v) plane.md)
-- [Aperture synthesis principle](../../../02_Zettel/Theory/interf/Aperture synthesis principle.md)
-- [Earth-rotation aperture synthesis](../../../02_Zettel/Theory/interf/Earth-rotation aperture synthesis.md)
-- [Major radio interferometers](../../../02_Zettel/Theory/interf/Major radio interferometers.md)
-- [VLTI Very Large Telescope Interferometer](../../../02_Zettel/Theory/interf/VLTI Very Large Telescope Interferometer.md)
-- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Aperture synthesis principle](../../../02_Zettel/Theory/interf/Aperture synthesis principle.html)
+- [Earth-rotation aperture synthesis](../../../02_Zettel/Theory/interf/Earth-rotation aperture synthesis.html)
+- [Major radio interferometers](../../../02_Zettel/Theory/interf/Major radio interferometers.html)
+- [VLTI Very Large Telescope Interferometer](../../../02_Zettel/Theory/interf/VLTI Very Large Telescope Interferometer.html)
+- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.html)

@@ -67,13 +67,13 @@ other stars are point sources, but Sun-as-a-star spectroscopy + interferometric 
 
 ## see also
 
-- [Equation of radiative transfer](../../02_Zettel/Theory/Equation of radiative transfer.md)
-- [Optical depth](../../02_Zettel/Theory/Optical depth.md)
-- [Source function](../../02_Zettel/Theory/Source function.md)
-- [Eddington-Barbier approximation](../../02_Zettel/Theory/Eddington-Barbier approximation.md)
-- [Local thermodynamic equilibrium LTE](../../02_Zettel/Theory/Local thermodynamic equilibrium LTE.md)
-- [Limb darkening](../../02_Zettel/Theory/Limb darkening.md)
-- [Continuum opacity sources](../../02_Zettel/Theory/Continuum opacity sources.md)
-- [Stellar structure equations](../../02_Zettel/Theory/Stellar structure equations.md)
-- [Stellar populations I II III](../../02_Zettel/Theory/Stellar populations I II III.md)
-- [Stellar evolution timescales](../../02_Zettel/Theory/Stellar evolution timescales.md)
+- [Equation of radiative transfer](../../02_Zettel/Theory/Equation of radiative transfer.html)
+- [Optical depth](../../02_Zettel/Theory/Optical depth.html)
+- [Source function](../../02_Zettel/Theory/Source function.html)
+- [Eddington-Barbier approximation](../../02_Zettel/Theory/Eddington-Barbier approximation.html)
+- [Local thermodynamic equilibrium LTE](../../02_Zettel/Theory/Local thermodynamic equilibrium LTE.html)
+- [Limb darkening](../../02_Zettel/Theory/Limb darkening.html)
+- [Continuum opacity sources](../../02_Zettel/Theory/Continuum opacity sources.html)
+- [Stellar structure equations](../../02_Zettel/Theory/Stellar structure equations.html)
+- [Stellar populations I II III](../../02_Zettel/Theory/Stellar populations I II III.html)
+- [Stellar evolution timescales](../../02_Zettel/Theory/Stellar evolution timescales.html)

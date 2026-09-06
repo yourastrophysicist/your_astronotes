@@ -21,14 +21,14 @@ notation: natural units $c = \hbar \equiv 1$, metric signature $(+ - - -)$ (oppo
 
 **chapter 1 — Geometry and Dynamics**
 - 1.1 Geometry: metric, symmetric three-spaces (flat / spherical / hyperbolic), Robertson-Walker metric — *the cleanest derivation of FRW I know of*. central reference for 03_Zettel/Theory/Robertson-Walker metric.
-- 1.2 Kinematics: geodesics, redshift, distances — supplements 03_Zettel/Theory/Cosmological distances and [Hubble law derivation low-z](../../02_Zettel/Theory/Hubble law derivation low-z.md).
-- 1.3 Dynamics: matter sources, spacetime curvature, **Friedmann equations** — parallel to [Newtonian Friedmann derivation](../../02_Zettel/Theory/Newtonian Friedmann derivation.md) and Friedmann equations with Λ but with the full GR treatment.
+- 1.2 Kinematics: geodesics, redshift, distances — supplements 03_Zettel/Theory/Cosmological distances and [Hubble law derivation low-z](../../02_Zettel/Theory/Hubble law derivation low-z.html).
+- 1.3 Dynamics: matter sources, spacetime curvature, **Friedmann equations** — parallel to [Newtonian Friedmann derivation](../../02_Zettel/Theory/Newtonian Friedmann derivation.html) and Friedmann equations with Λ but with the full GR treatment.
 
 **chapter 2 — Inflation**
 - 2.1 The Horizon Problem: light, horizons, growing Hubble sphere, why the CMB is so uniform
 - 2.2 A Shrinking Hubble Sphere: solving the horizon problem, Hubble radius vs particle horizon, conditions for inflation
 - 2.3 Physics of Inflation: scalar field dynamics, slow-roll inflation, reheating
-the textbook source for [Inflation overview](../../02_Zettel/Theory/Inflation overview.md), [Inflaton scalar field dynamics](../../02_Zettel/Theory/Inflaton scalar field dynamics.md), [Old vs new vs chaotic inflation, slow-roll](../../02_Zettel/Theory/Old vs new vs chaotic inflation, slow-roll.md).
+the textbook source for [Inflation overview](../../02_Zettel/Theory/Inflation overview.html), [Inflaton scalar field dynamics](../../02_Zettel/Theory/Inflaton scalar field dynamics.html), [Old vs new vs chaotic inflation, slow-roll](../../02_Zettel/Theory/Old vs new vs chaotic inflation, slow-roll.html).
 
 **chapter 3 — Thermal History**
 - 3.1 The Hot Big Bang: local thermal equilibrium, decoupling and freeze-out, brief history of the universe
@@ -37,12 +37,12 @@ the textbook source for [Inflation overview](../../02_Zettel/Theory/Inflation ov
 
 > *my Boltzmann-centric treatment of BBN and recombination was heavily inspired by Dodelson's chapter 3.* — Baumann
 
-this is the rigorous companion to [BBN_overview](../../02_Zettel/Theory/BBN_overview.md), [Saha equation and recombination](../../02_Zettel/Theory/Saha equation and recombination.md), Dark matter relics — WIMP miracle, and [Boltzmann equation in cosmology](../../02_Zettel/Theory/Boltzmann equation in cosmology.md).
+this is the rigorous companion to [BBN_overview](../../02_Zettel/Theory/BBN_overview.html), [Saha equation and recombination](../../02_Zettel/Theory/Saha equation and recombination.html), Dark matter relics — WIMP miracle, and [Boltzmann equation in cosmology](../../02_Zettel/Theory/Boltzmann equation in cosmology.html).
 
 ### Part II — The Inhomogeneous Universe
 
 **chapter 4 — Cosmological Perturbation Theory**
-- 4.1 Newtonian: perturbed fluid eqs, Jeans' instability, dark matter inside Hubble — supplements [Linear evolution of perturbations in expanding universe](../../02_Zettel/Theory/Linear evolution of perturbations in expanding universe.md) and [Jeans analysis in expanding universe](../../02_Zettel/Theory/Jeans analysis in expanding universe.md)
+- 4.1 Newtonian: perturbed fluid eqs, Jeans' instability, dark matter inside Hubble — supplements [Linear evolution of perturbations in expanding universe](../../02_Zettel/Theory/Linear evolution of perturbations in expanding universe.html) and [Jeans analysis in expanding universe](../../02_Zettel/Theory/Jeans analysis in expanding universe.html)
 - 4.2 Relativistic: perturbed spacetime, perturbed matter, linearized evolution
 - 4.3 Conserved curvature perturbation, comoving curvature perturbation, conservation law
 
@@ -92,6 +92,6 @@ useful for exam practice — closer to the level Bartolo expects than the "Cosmi
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Cosmic_inventory_overview](../../02_Zettel/Theory/Cosmic_inventory_overview.md)
-- [BBN_overview](../../02_Zettel/Theory/BBN_overview.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Cosmic_inventory_overview](../../02_Zettel/Theory/Cosmic_inventory_overview.html)
+- [BBN_overview](../../02_Zettel/Theory/BBN_overview.html)

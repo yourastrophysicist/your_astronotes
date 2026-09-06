@@ -49,10 +49,10 @@ an independent rung in the distance ladder: SBF can target the same galaxies as 
 
 ## see also
 
-- [Distance ladder derivations](../../02_Zettel/Theory/Distance ladder derivations.md)
-- [Cepheid period-luminosity relation](../../02_Zettel/Theory/Cepheid period-luminosity relation.md)
-- [TRGB tip of the red giant branch](../../02_Zettel/Theory/TRGB tip of the red giant branch.md)
-- [Type Ia supernovae as standard candles](../../02_Zettel/Theory/Type Ia supernovae as standard candles.md)
-- [Galaxy size-luminosity relation](../../02_Zettel/Theory/Galaxy size-luminosity relation.md)
-- [Initial mass function](../../02_Zettel/Theory/Initial mass function.md)
-- [Stellar populations I II III](../../02_Zettel/Theory/Stellar populations I II III.md)
+- [Distance ladder derivations](../../02_Zettel/Theory/Distance ladder derivations.html)
+- [Cepheid period-luminosity relation](../../02_Zettel/Theory/Cepheid period-luminosity relation.html)
+- [TRGB tip of the red giant branch](../../02_Zettel/Theory/TRGB tip of the red giant branch.html)
+- [Type Ia supernovae as standard candles](../../02_Zettel/Theory/Type Ia supernovae as standard candles.html)
+- [Galaxy size-luminosity relation](../../02_Zettel/Theory/Galaxy size-luminosity relation.html)
+- [Initial mass function](../../02_Zettel/Theory/Initial mass function.html)
+- [Stellar populations I II III](../../02_Zettel/Theory/Stellar populations I II III.html)

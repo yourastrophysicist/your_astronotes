@@ -111,8 +111,8 @@ U, s, Vt = np.linalg.svd(A)
 
 ## see also
 
-- [Gauss elimination](../../02_Zettel/Theory/Gauss elimination.md)
-- [LU decomposition](../../02_Zettel/Theory/LU decomposition.md)
-- [Gauss-Seidel iteration](../../02_Zettel/Theory/Gauss-Seidel iteration.md)
-- [QR decomposition](../../02_Zettel/Theory/QR decomposition.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Gauss elimination](../../02_Zettel/Theory/Gauss elimination.html)
+- [LU decomposition](../../02_Zettel/Theory/LU decomposition.html)
+- [Gauss-Seidel iteration](../../02_Zettel/Theory/Gauss-Seidel iteration.html)
+- [QR decomposition](../../02_Zettel/Theory/QR decomposition.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

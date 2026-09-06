@@ -33,7 +33,7 @@ so:
 
 ### atmosphere of a star
 
-depth into the photosphere is parameterised by $\tau$. observers see the layer at $\tau = 1$ ([Eddington-Barbier approximation](../../02_Zettel/Theory/Eddington-Barbier approximation.md)). the surface ($\tau = 0$) is conventionally the top of the atmosphere where light escapes to vacuum.
+depth into the photosphere is parameterised by $\tau$. observers see the layer at $\tau = 1$ ([Eddington-Barbier approximation](../../02_Zettel/Theory/Eddington-Barbier approximation.html)). the surface ($\tau = 0$) is conventionally the top of the atmosphere where light escapes to vacuum.
 
 the **photospheric temperature** $T_{\rm eff}$ is defined as $T(\tau = 2/3)$ (a Rosseland-mean-weighted definition). the photosphere thus has a $T$-vs-$\tau$ profile.
 
@@ -50,7 +50,7 @@ curve of growth tracks how $W$ (equivalent width) grows with column density $N$:
 - saturation ($\tau_0 \sim 1$): $W \propto \sqrt{\ln N}$.
 - damping wing regime ($\tau_0 \gg 1$): $W \propto \sqrt{N}$.
 
-see [Curve of growth](../../02_Zettel/Theory/Curve of growth.md).
+see [Curve of growth](../../02_Zettel/Theory/Curve of growth.html).
 
 ## $\tau$ and column density
 
@@ -72,12 +72,12 @@ so the spectrum is the integrated effect of all these contributions, each with i
 
 ## see also
 
-- [Equation of radiative transfer](../../02_Zettel/Theory/Equation of radiative transfer.md)
-- [Source function](../../02_Zettel/Theory/Source function.md)
-- [Eddington-Barbier approximation](../../02_Zettel/Theory/Eddington-Barbier approximation.md)
-- [Continuum opacity sources](../../02_Zettel/Theory/Continuum opacity sources.md)
-- [Curve of growth](../../02_Zettel/Theory/Curve of growth.md)
-- [Equivalent width](../../02_Zettel/Theory/Equivalent width.md)
-- [Stellar atmosphere structure](../../02_Zettel/Theory/Stellar atmosphere structure.md)
-- [Photoelectric absorption](../../02_Zettel/Theory/Photoelectric absorption.md)
-- [Atmospheric extinction](../../02_Zettel/Theory/interf/Atmospheric extinction.md) — extinction along atmospheric path
+- [Equation of radiative transfer](../../02_Zettel/Theory/Equation of radiative transfer.html)
+- [Source function](../../02_Zettel/Theory/Source function.html)
+- [Eddington-Barbier approximation](../../02_Zettel/Theory/Eddington-Barbier approximation.html)
+- [Continuum opacity sources](../../02_Zettel/Theory/Continuum opacity sources.html)
+- [Curve of growth](../../02_Zettel/Theory/Curve of growth.html)
+- [Equivalent width](../../02_Zettel/Theory/Equivalent width.html)
+- [Stellar atmosphere structure](../../02_Zettel/Theory/Stellar atmosphere structure.html)
+- [Photoelectric absorption](../../02_Zettel/Theory/Photoelectric absorption.html)
+- [Atmospheric extinction](../../02_Zettel/Theory/interf/Atmospheric extinction.html) — extinction along atmospheric path

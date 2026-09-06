@@ -52,9 +52,9 @@ symbiotics offer an unusual window into:
 
 ## see also
 
-- [Emission line stars](../../02_Zettel/Theory/Emission line stars.md)
-- [Galactic novae spectroscopy](../../02_Zettel/Theory/Galactic novae spectroscopy.md)
-- [OIII forbidden lines](../../02_Zettel/Theory/OIII forbidden lines.md)
-- [Helium energy levels](../../02_Zettel/Theory/Helium energy levels.md)
-- [Type Ia supernovae as standard candles](../../02_Zettel/Theory/Type Ia supernovae as standard candles.md)
-- [Stellar spectra and spectral classification](../../02_Zettel/Theory/Stellar spectra and spectral classification.md)
+- [Emission line stars](../../02_Zettel/Theory/Emission line stars.html)
+- [Galactic novae spectroscopy](../../02_Zettel/Theory/Galactic novae spectroscopy.html)
+- [OIII forbidden lines](../../02_Zettel/Theory/OIII forbidden lines.html)
+- [Helium energy levels](../../02_Zettel/Theory/Helium energy levels.html)
+- [Type Ia supernovae as standard candles](../../02_Zettel/Theory/Type Ia supernovae as standard candles.html)
+- [Stellar spectra and spectral classification](../../02_Zettel/Theory/Stellar spectra and spectral classification.html)

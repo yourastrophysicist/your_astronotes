@@ -5,13 +5,13 @@ title: "Galaxy color, density and morphology"
 
 # galaxy color, density and morphology
 
-up: [Pablo_02_Statistical_properties_of_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.md)
+up: [Pablo_02_Statistical_properties_of_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html)
 
 ## three correlated axes
 
 galaxies cluster together on three axes that are not independent:
 
-1. **color**: red vs blue (see [Color bimodality of galaxies](../../02_Zettel/Theory/Color bimodality of galaxies.md))
+1. **color**: red vs blue (see [Color bimodality of galaxies](../../02_Zettel/Theory/Color bimodality of galaxies.html))
 2. **morphology**: early-type (E/S0) vs late-type (Sa/Sb/Sc/Irr)
 3. **environment**: high local density (clusters, groups) vs low density (field, voids)
 
@@ -38,14 +38,14 @@ modern view: both, with environment-driven quenching dominating for satellites a
 
 ## why this matters statistically
 
-if you measure a [Luminosity function definition](../../02_Zettel/Theory/Luminosity function definition.md) in a flux-limited survey without splitting by environment, you average over a huge dynamic range of $f_{\text{red}}$. the **field LF** is bluer and has a steeper faint-end slope than the **cluster LF**.
+if you measure a [Luminosity function definition](../../02_Zettel/Theory/Luminosity function definition.html) in a flux-limited survey without splitting by environment, you average over a huge dynamic range of $f_{\text{red}}$. the **field LF** is bluer and has a steeper faint-end slope than the **cluster LF**.
 
 ## connections
 
-- prior: [Color bimodality of galaxies](../../02_Zettel/Theory/Color bimodality of galaxies.md), [Red sequence and blue cloud](../../02_Zettel/Theory/Red sequence and blue cloud.md)
-- mechanism: [Green valley and quenching tracks](../../02_Zettel/Theory/Green valley and quenching tracks.md)
-- LF split: [LF by morphology and SED](../../02_Zettel/Theory/LF by morphology and SED.md) (Driver 2006 splits LF by morphology)
-- galaxy formation big picture: [Halo gravity suppression of galaxy formation](../../02_Zettel/Theory/Halo gravity suppression of galaxy formation.md)
+- prior: [Color bimodality of galaxies](../../02_Zettel/Theory/Color bimodality of galaxies.html), [Red sequence and blue cloud](../../02_Zettel/Theory/Red sequence and blue cloud.html)
+- mechanism: [Green valley and quenching tracks](../../02_Zettel/Theory/Green valley and quenching tracks.html)
+- LF split: [LF by morphology and SED](../../02_Zettel/Theory/LF by morphology and SED.html) (Driver 2006 splits LF by morphology)
+- galaxy formation big picture: [Halo gravity suppression of galaxy formation](../../02_Zettel/Theory/Halo gravity suppression of galaxy formation.html)
 
 ## key references
 

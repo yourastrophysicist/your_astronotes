@@ -38,7 +38,7 @@ frequencies above Nyquist *cannot be represented* — they alias down into the v
 
 direct evaluation of the formula: $O(N^2)$ — each of $N$ outputs is a sum of $N$ terms. for $N = 10^6$ that is $10^{12}$ operations, hours.
 
-the **Fast Fourier Transform (FFT)** computes the same thing in $O(N \log N)$. for $N = 10^6$: $\sim 2 \times 10^7$ operations, milliseconds. the FFT is what made signal processing practical. see [Fast Fourier transform algorithm](../../02_Zettel/Theory/Fast Fourier transform algorithm.md)
+the **Fast Fourier Transform (FFT)** computes the same thing in $O(N \log N)$. for $N = 10^6$: $\sim 2 \times 10^7$ operations, milliseconds. the FFT is what made signal processing practical. see [Fast Fourier transform algorithm](../../02_Zettel/Theory/Fast Fourier transform algorithm.html)
 
 
 
@@ -104,8 +104,8 @@ so to convolve two signals, FFT both, multiply, inverse FFT. cost: $O(N \log N)$
 
 ## see also
 
-- [Fourier series math summary](../../02_Zettel/Theory/Fourier series math summary.md)
-- [Fast Fourier transform algorithm](../../02_Zettel/Theory/Fast Fourier transform algorithm.md)
-- [Physical interpretation of the FFT](../../02_Zettel/Theory/Physical interpretation of the FFT.md)
-- [Power spectrum estimation](../../02_Zettel/Theory/Power spectrum estimation.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Fourier series math summary](../../02_Zettel/Theory/Fourier series math summary.html)
+- [Fast Fourier transform algorithm](../../02_Zettel/Theory/Fast Fourier transform algorithm.html)
+- [Physical interpretation of the FFT](../../02_Zettel/Theory/Physical interpretation of the FFT.html)
+- [Power spectrum estimation](../../02_Zettel/Theory/Power spectrum estimation.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

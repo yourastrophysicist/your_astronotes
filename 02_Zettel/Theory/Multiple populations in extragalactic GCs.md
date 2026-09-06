@@ -4,7 +4,7 @@ name: Multiple populations in extragalactic GCs
 description: confirmation that multiple stellar populations are universal in massive old globular clusters across the Local Group, with extensions to extragalactic systems via JWST
 ---
 
-a key test of [multiple populations (MPs)](../../02_Zettel/Theory/Multiple populations in GCs discovery.md) as a universal property of massive old globular clusters is whether they appear in clusters **outside the Milky Way**. they do. MPs have now been confirmed in GCs of:
+a key test of [multiple populations (MPs)](../../02_Zettel/Theory/Multiple populations in GCs discovery.html) as a universal property of massive old globular clusters is whether they appear in clusters **outside the Milky Way**. they do. MPs have now been confirmed in GCs of:
 
 - LMC + SMC (Magellanic Clouds);
 - Andromeda (M31);
@@ -20,7 +20,7 @@ ancient ($> 10$ Gyr) GCs in the Magellanic Clouds (NGC 2210, NGC 1841, NGC 1466,
 - **chromosome maps** of LMC GCs (Milone et al. 2020, MNRAS 491, 515) show the same 1G + 2G separation as Galactic GCs;
 - **Type II GC examples** also exist (e.g., NGC 1851-like with iron variations).
 
-the absence of MPs in young ($< 2$ Gyr) LMC + SMC clusters is interpreted as evidence that MPs require old age + high mass. [eMSTO](../../02_Zettel/Theory/Extended main sequence turn-off eMSTO.md) in young Magellanic clusters is a different phenomenon (likely [rotation-driven](../../02_Zettel/Theory/Stellar rotation effects on CMD.md)).
+the absence of MPs in young ($< 2$ Gyr) LMC + SMC clusters is interpreted as evidence that MPs require old age + high mass. [eMSTO](../../02_Zettel/Theory/Extended main sequence turn-off eMSTO.html) in young Magellanic clusters is a different phenomenon (likely [rotation-driven](../../02_Zettel/Theory/Stellar rotation effects on CMD.html)).
 
 ## the Andromeda (M31) GC system
 
@@ -45,7 +45,7 @@ these clusters are **not coeval with M31 + MW GCs**; they may be older + more di
 
 ## connection to dense star cluster formation
 
-the universality of MPs in massive old GCs (across MW + M31 + LMC + Fornax + giant ellipticals) implies that the **cluster formation channel** itself produces MPs. proposed mechanisms (see [Polluter scenarios for second-generation GC stars](../../02_Zettel/Theory/Polluter scenarios for second-generation GC stars.md)):
+the universality of MPs in massive old GCs (across MW + M31 + LMC + Fornax + giant ellipticals) implies that the **cluster formation channel** itself produces MPs. proposed mechanisms (see [Polluter scenarios for second-generation GC stars](../../02_Zettel/Theory/Polluter scenarios for second-generation GC stars.html)):
 
 - cluster mass above $\sim 5 \times 10^4\,M_\odot$ retains polluter ejecta against winds;
 - formation in dense gas-rich proto-galaxies enables 2G formation from 1G ejecta + retained primordial gas;
@@ -81,12 +81,12 @@ extragalactic confirmation of MPs:
 
 ## see also
 
-- [Multiple populations in GCs discovery](../../02_Zettel/Theory/Multiple populations in GCs discovery.md)
-- [Photometric chromosome maps](../../02_Zettel/Theory/Photometric chromosome maps.md)
-- [Type I and Type II GCs](../../02_Zettel/Theory/Type I and Type II GCs.md)
-- [Helium spread in GCs](../../02_Zettel/Theory/Helium spread in GCs.md)
-- [Polluter scenarios for second-generation GC stars](../../02_Zettel/Theory/Polluter scenarios for second-generation GC stars.md)
-- [GC formation models with MPs](../../02_Zettel/Theory/GC formation models with MPs.md)
-- [Extragalactic star clusters](../../02_Zettel/Theory/Extragalactic star clusters.md)
-- [JWST and the first stars](../../02_Zettel/Theory/JWST and the first stars.md)
-- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.md)
+- [Multiple populations in GCs discovery](../../02_Zettel/Theory/Multiple populations in GCs discovery.html)
+- [Photometric chromosome maps](../../02_Zettel/Theory/Photometric chromosome maps.html)
+- [Type I and Type II GCs](../../02_Zettel/Theory/Type I and Type II GCs.html)
+- [Helium spread in GCs](../../02_Zettel/Theory/Helium spread in GCs.html)
+- [Polluter scenarios for second-generation GC stars](../../02_Zettel/Theory/Polluter scenarios for second-generation GC stars.html)
+- [GC formation models with MPs](../../02_Zettel/Theory/GC formation models with MPs.html)
+- [Extragalactic star clusters](../../02_Zettel/Theory/Extragalactic star clusters.html)
+- [JWST and the first stars](../../02_Zettel/Theory/JWST and the first stars.html)
+- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.html)

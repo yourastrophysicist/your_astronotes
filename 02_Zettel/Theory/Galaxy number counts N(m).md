@@ -5,11 +5,11 @@ title: "Galaxy number counts N(m)"
 
 # galaxy number counts $N(m)$
 
-up: [Pablo_02_Statistical_properties_of_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.md)
+up: [Pablo_02_Statistical_properties_of_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html)
 
 ## the simplest extragalactic statistic
 
-count how many galaxies you see brighter than apparent magnitude $m$, per square degree. that gives the **cumulative count** $N(<m)$. its derivative $dN/dm$ is the **differential count** (see [Differential vs cumulative number counts](../../02_Zettel/Theory/Differential vs cumulative number counts.md)).
+count how many galaxies you see brighter than apparent magnitude $m$, per square degree. that gives the **cumulative count** $N(<m)$. its derivative $dN/dm$ is the **differential count** (see [Differential vs cumulative number counts](../../02_Zettel/Theory/Differential vs cumulative number counts.html)).
 
 historically this is the very first thing Hubble did in 1934 with $\sim 44{,}000$ galaxies on photographic plates.
 
@@ -35,9 +35,9 @@ the actual counts are close to euclidean only over a limited range, then they *f
 
 three reasons for the deviation, all cosmological:
 
-1. **finite extent / volume curvature**: the universe is not Euclidean; comoving volume saturates as $z \to \infty$ in flat $\Lambda$CDM (see [Radial comoving distance](../../02_Zettel/Theory/Radial comoving distance.md) and the volume element $dV/dz$).
-2. **K-correction**: at high $z$, the rest-frame band you are observing is bluer than the filter, where galaxies are usually fainter (see [K-correction](../../02_Zettel/Theory/K-correction.md)).
-3. **evolution**: galaxies were brighter / more numerous in the past (the cosmic SFR peaks at $z \sim 2$, see [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.md)).
+1. **finite extent / volume curvature**: the universe is not Euclidean; comoving volume saturates as $z \to \infty$ in flat $\Lambda$CDM (see [Radial comoving distance](../../02_Zettel/Theory/Radial comoving distance.html) and the volume element $dV/dz$).
+2. **K-correction**: at high $z$, the rest-frame band you are observing is bluer than the filter, where galaxies are usually fainter (see [K-correction](../../02_Zettel/Theory/K-correction.html)).
+3. **evolution**: galaxies were brighter / more numerous in the past (the cosmic SFR peaks at $z \sim 2$, see [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.html)).
 
 ## what pablo overplots
 
@@ -45,10 +45,10 @@ cosmological models on top of the observed counts: $\Omega_M=1$ no-$\Lambda$ EdS
 
 ## connections
 
-- next: [Differential vs cumulative number counts](../../02_Zettel/Theory/Differential vs cumulative number counts.md) (which form to plot)
-- band-dependence: [Galaxy counts at different wavelengths](../../02_Zettel/Theory/Galaxy counts at different wavelengths.md)
-- morphology split: [Driver 1998 counts by morphology](../../02_Zettel/Theory/Driver 1998 counts by morphology.md)
-- distance background: [Radial comoving distance](../../02_Zettel/Theory/Radial comoving distance.md), [Luminosity distance](../../02_Zettel/Theory/Luminosity distance.md), [K-correction](../../02_Zettel/Theory/K-correction.md)
+- next: [Differential vs cumulative number counts](../../02_Zettel/Theory/Differential vs cumulative number counts.html) (which form to plot)
+- band-dependence: [Galaxy counts at different wavelengths](../../02_Zettel/Theory/Galaxy counts at different wavelengths.html)
+- morphology split: [Driver 1998 counts by morphology](../../02_Zettel/Theory/Driver 1998 counts by morphology.html)
+- distance background: [Radial comoving distance](../../02_Zettel/Theory/Radial comoving distance.html), [Luminosity distance](../../02_Zettel/Theory/Luminosity distance.html), [K-correction](../../02_Zettel/Theory/K-correction.html)
 - the deeper Durham compilation: [counts.html](https://astro.dur.ac.uk/~nm/pubhtml/counts/counts.html)
 
 ## key references

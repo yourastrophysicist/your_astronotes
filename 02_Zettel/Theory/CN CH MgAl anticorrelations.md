@@ -4,7 +4,7 @@ name: CN CH MgAl anticorrelations
 description: extended chemical fingerprints of multiple populations beyond Na-O, tracing CN-cycle + MgAl-cycle proton-capture nucleosynthesis at increasing temperature
 ---
 
-the [Na O anticorrelation](../../02_Zettel/Theory/Na O anticorrelation.md) is the most famous, but it is one of a family of element-pair anti-correlations seen in globular cluster stars. each pair traces a different proton-capture chain operating at a characteristic temperature in the polluter. together they paint a full picture of hot H burning + let us rank GCs by how extreme their pollution was.
+the [Na O anticorrelation](../../02_Zettel/Theory/Na O anticorrelation.html) is the most famous, but it is one of a family of element-pair anti-correlations seen in globular cluster stars. each pair traces a different proton-capture chain operating at a characteristic temperature in the polluter. together they paint a full picture of hot H burning + let us rank GCs by how extreme their pollution was.
 
 ## the C-N anti-correlation (CN cycle)
 
@@ -19,7 +19,7 @@ observationally:
 
 the CN-CH bimodality on the RGB was the first hint that GCs had star-to-star inhomogeneity. it was originally explained (incorrectly) by deep mixing on the giant branch. once the same bimodality was found on the unevolved Main sequence MS (cannon, croke, bell, briley in the 1990s using strömgren + narrowband photometry of 47 Tuc + M71) the primordial origin became unavoidable.
 
-UV photometry from HST F275W + F336W is essentially a high-contrast CN+NH thermometer + this is what powers [Photometric chromosome maps](../../02_Zettel/Theory/Photometric chromosome maps.md).
+UV photometry from HST F275W + F336W is essentially a high-contrast CN+NH thermometer + this is what powers [Photometric chromosome maps](../../02_Zettel/Theory/Photometric chromosome maps.html).
 
 ## the Mg-Al anti-correlation (MgAl cycle)
 
@@ -47,11 +47,11 @@ ranking the anti-correlations by activation temperature gives a thermometer of t
 | Mg-Al (MgAl) | $\sim 65$-$80$ MK | massive metal-poor GCs only |
 | K-Mg + heavier | $\gtrsim 100$ MK | NGC 2419, NGC 2808 extreme |
 
-this ladder is one of the strongest constraints on [Polluter scenarios for second-generation GC stars](../../02_Zettel/Theory/Polluter scenarios for second-generation GC stars.md). any candidate polluter must reach temperatures $\gtrsim 70$ MK in the polluting layers to explain Mg-Al, but must also not over-produce heavier $\alpha$-elements or iron-peak species (which would show as a [Fe/H] spread, normally absent in [Type I GCs](../../02_Zettel/Theory/Type I and Type II GCs.md)).
+this ladder is one of the strongest constraints on [Polluter scenarios for second-generation GC stars](../../02_Zettel/Theory/Polluter scenarios for second-generation GC stars.html). any candidate polluter must reach temperatures $\gtrsim 70$ MK in the polluting layers to explain Mg-Al, but must also not over-produce heavier $\alpha$-elements or iron-peak species (which would show as a [Fe/H] spread, normally absent in [Type I GCs](../../02_Zettel/Theory/Type I and Type II GCs.html)).
 
 ## helium tracks alongside
 
-every proton capture chain produces $^4\text{He}$ as a side product. the same gas that is N-rich + Na-rich + Al-rich is also helium-enhanced. so the chemical anti-correlations are not independent: they are coupled by their common origin in hot H burning. this links to [Helium spread in GCs](../../02_Zettel/Theory/Helium spread in GCs.md) + to the vertical axis of the [chromosome map](../../02_Zettel/Theory/Photometric chromosome maps.md).
+every proton capture chain produces $^4\text{He}$ as a side product. the same gas that is N-rich + Na-rich + Al-rich is also helium-enhanced. so the chemical anti-correlations are not independent: they are coupled by their common origin in hot H burning. this links to [Helium spread in GCs](../../02_Zettel/Theory/Helium spread in GCs.html) + to the vertical axis of the [chromosome map](../../02_Zettel/Theory/Photometric chromosome maps.html).
 
 ## why it matters for chromosome maps
 
@@ -63,13 +63,13 @@ so the two axes are essentially "how N-rich" + "how He-rich". because all hot-H-
 
 ## see also
 
-- [Na O anticorrelation](../../02_Zettel/Theory/Na O anticorrelation.md)
-- [Helium spread in GCs](../../02_Zettel/Theory/Helium spread in GCs.md)
-- [Photometric chromosome maps](../../02_Zettel/Theory/Photometric chromosome maps.md)
-- [Multiple populations in GCs discovery](../../02_Zettel/Theory/Multiple populations in GCs discovery.md)
-- [Polluter scenarios for second-generation GC stars](../../02_Zettel/Theory/Polluter scenarios for second-generation GC stars.md)
-- [Type I and Type II GCs](../../02_Zettel/Theory/Type I and Type II GCs.md)
+- [Na O anticorrelation](../../02_Zettel/Theory/Na O anticorrelation.html)
+- [Helium spread in GCs](../../02_Zettel/Theory/Helium spread in GCs.html)
+- [Photometric chromosome maps](../../02_Zettel/Theory/Photometric chromosome maps.html)
+- [Multiple populations in GCs discovery](../../02_Zettel/Theory/Multiple populations in GCs discovery.html)
+- [Polluter scenarios for second-generation GC stars](../../02_Zettel/Theory/Polluter scenarios for second-generation GC stars.html)
+- [Type I and Type II GCs](../../02_Zettel/Theory/Type I and Type II GCs.html)
 - Hot bottom burning AGB nucleosynthesis
 - CNO cycle
-- [Stellar populations I II III](../../02_Zettel/Theory/Stellar populations I II III.md)
-- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.md)
+- [Stellar populations I II III](../../02_Zettel/Theory/Stellar populations I II III.html)
+- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.html)

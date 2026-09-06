@@ -87,8 +87,8 @@ solution: combine interferometric data with a *single-dish* total-power measurem
 ## see also
 
 - [The (u, v) plane](../../../02_Zettel/Theory/interf/The (u, v) plane.md)
-- [Earth-rotation aperture synthesis](../../../02_Zettel/Theory/interf/Earth-rotation aperture synthesis.md)
-- [Connected element interferometer](../../../02_Zettel/Theory/interf/Connected element interferometer.md)
-- [Optimal array geometry](../../../02_Zettel/Theory/interf/Optimal array geometry.md)
-- [CLEAN algorithm](../../../02_Zettel/Theory/interf/CLEAN algorithm.md)
-- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Earth-rotation aperture synthesis](../../../02_Zettel/Theory/interf/Earth-rotation aperture synthesis.html)
+- [Connected element interferometer](../../../02_Zettel/Theory/interf/Connected element interferometer.html)
+- [Optimal array geometry](../../../02_Zettel/Theory/interf/Optimal array geometry.html)
+- [CLEAN algorithm](../../../02_Zettel/Theory/interf/CLEAN algorithm.html)
+- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.html)

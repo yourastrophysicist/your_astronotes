@@ -49,12 +49,12 @@ every science instrument is a specific compromise: e.g. DECam uses $250\,\mu$m t
 
 ## see also
 
-- [CCD detectors and SNR](../../02_Zettel/Theory/CCD detectors and SNR.md)
-- [CCD readout](../../02_Zettel/Theory/CCD readout.md)
-- [CCD readout chain](../../02_Zettel/Theory/CCD readout chain.md)
-- [CCD noise sources](../../02_Zettel/Theory/CCD noise sources.md)
-- [The CCD equation](../../02_Zettel/Theory/The CCD equation.md)
-- [The p-n junction](../../02_Zettel/Theory/The p-n junction.md)
-- [Quantum efficiency](../../02_Zettel/Theory/Quantum efficiency.md)
-- [Charge-Coupled Device](../../02_Zettel/Theory/Charge-Coupled Device.md)
-- [Other detectors](../../02_Zettel/Theory/Other detectors.md)
+- [CCD detectors and SNR](../../02_Zettel/Theory/CCD detectors and SNR.html)
+- [CCD readout](../../02_Zettel/Theory/CCD readout.html)
+- [CCD readout chain](../../02_Zettel/Theory/CCD readout chain.html)
+- [CCD noise sources](../../02_Zettel/Theory/CCD noise sources.html)
+- [The CCD equation](../../02_Zettel/Theory/The CCD equation.html)
+- [The p-n junction](../../02_Zettel/Theory/The p-n junction.html)
+- [Quantum efficiency](../../02_Zettel/Theory/Quantum efficiency.html)
+- [Charge-Coupled Device](../../02_Zettel/Theory/Charge-Coupled Device.html)
+- [Other detectors](../../02_Zettel/Theory/Other detectors.html)

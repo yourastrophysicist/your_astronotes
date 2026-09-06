@@ -42,7 +42,7 @@ at fixed $T$, the D-line strength differs slightly between dwarfs and giants:
 - **dwarfs** (high pressure): more pressure broadening, broader Lorentzian wings, larger equivalent width.
 - **giants** (low pressure): less pressure broadening, narrower core, smaller wings.
 
-this is a **gravity discriminator**: at fixed spectral class, the D-doublet's wings are deeper for higher-gravity (smaller-radius) stars. used in [MK luminosity classes](../../02_Zettel/Theory/MK luminosity classes.md) determination, especially in K and M.
+this is a **gravity discriminator**: at fixed spectral class, the D-doublet's wings are deeper for higher-gravity (smaller-radius) stars. used in [MK luminosity classes](../../02_Zettel/Theory/MK luminosity classes.html) determination, especially in K and M.
 
 ## D lines in the ISM and exospheres
 
@@ -52,11 +52,11 @@ separate from stellar spectroscopy:
 
 ## see also
 
-- [Sodium and alkalis](../../02_Zettel/Theory/Sodium and alkalis.md)
-- [Boltzmann equation in spectroscopy](../../02_Zettel/Theory/Boltzmann equation in spectroscopy.md)
-- [Saha ionisation equation](../../02_Zettel/Theory/Saha ionisation equation.md)
-- [Population of excited levels](../../02_Zettel/Theory/Population of excited levels.md)
-- [MK luminosity classes](../../02_Zettel/Theory/MK luminosity classes.md)
-- [Stellar spectra and spectral classification](../../02_Zettel/Theory/Stellar spectra and spectral classification.md)
-- [Why the Sequence OBAFGKM](../../02_Zettel/Theory/Why the Sequence OBAFGKM.md)
-- [Interstellar absorption](../../02_Zettel/Theory/Interstellar absorption.md)
+- [Sodium and alkalis](../../02_Zettel/Theory/Sodium and alkalis.html)
+- [Boltzmann equation in spectroscopy](../../02_Zettel/Theory/Boltzmann equation in spectroscopy.html)
+- [Saha ionisation equation](../../02_Zettel/Theory/Saha ionisation equation.html)
+- [Population of excited levels](../../02_Zettel/Theory/Population of excited levels.html)
+- [MK luminosity classes](../../02_Zettel/Theory/MK luminosity classes.html)
+- [Stellar spectra and spectral classification](../../02_Zettel/Theory/Stellar spectra and spectral classification.html)
+- [Why the Sequence OBAFGKM](../../02_Zettel/Theory/Why the Sequence OBAFGKM.html)
+- [Interstellar absorption](../../02_Zettel/Theory/Interstellar absorption.html)

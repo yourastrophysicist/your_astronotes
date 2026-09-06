@@ -11,8 +11,8 @@ how do we *weigh* the baryons in the universe? four independent methods, with va
 
 1. **observe baryons in stars and galaxies** via optical and X-ray emission. counts the photons; depends on understanding stellar populations, dust, ICM gas, etc.
 2. **quasar absorption spectra**: light from distant quasars is absorbed by intervening hydrogen along the line of sight. the column density of neutral hydrogen depends on the baryon density.
-3. **primordial nucleosynthesis**: the abundances of light nuclei depend strongly on the baryon-to-photon ratio $\eta$ (see [BBN_overview](../../02_Zettel/Theory/BBN_overview.md)).
-4. **CMB anisotropies**: the height of the acoustic peaks depends on $\Omega_b h^2$ (see [Cosmic_inventory_photons](../../02_Zettel/Theory/Cosmic_inventory_photons.md)).
+3. **primordial nucleosynthesis**: the abundances of light nuclei depend strongly on the baryon-to-photon ratio $\eta$ (see [BBN_overview](../../02_Zettel/Theory/BBN_overview.html)).
+4. **CMB anisotropies**: the height of the acoustic peaks depends on $\Omega_b h^2$ (see [Cosmic_inventory_photons](../../02_Zettel/Theory/Cosmic_inventory_photons.html)).
 
 methods 3 and 4 are in **excellent agreement** with each other. method 1 historically gave a smaller number, leading to the **missing baryon problem** — about half the baryons were unaccounted for. recent work has located most of them in the **WHIM** (warm-hot intergalactic medium) in filaments connecting galaxies, too cold to emit X-rays brightly.
 
@@ -58,8 +58,8 @@ recent observations have located most of them in **diffuse gas in filaments** co
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Cosmic_inventory_overview](../../02_Zettel/Theory/Cosmic_inventory_overview.md)
-- [BBN_overview](../../02_Zettel/Theory/BBN_overview.md)
-- [Cosmic_inventory_photons](../../02_Zettel/Theory/Cosmic_inventory_photons.md)
-- [Cosmic_inventory_dark_matter](../../02_Zettel/Theory/Cosmic_inventory_dark_matter.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Cosmic_inventory_overview](../../02_Zettel/Theory/Cosmic_inventory_overview.html)
+- [BBN_overview](../../02_Zettel/Theory/BBN_overview.html)
+- [Cosmic_inventory_photons](../../02_Zettel/Theory/Cosmic_inventory_photons.html)
+- [Cosmic_inventory_dark_matter](../../02_Zettel/Theory/Cosmic_inventory_dark_matter.html)

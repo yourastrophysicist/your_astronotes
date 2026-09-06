@@ -7,7 +7,7 @@ title: "Wavefront-division interferometers"
 
 a class of interferometers where the original wavefront is **spatially divided** — different *parts* of the same wavefront are sent along different optical paths, then recombined. all four classical examples — Young, Fresnel double mirror, Fresnel biprism, Lloyd mirror — produce two virtual coherent sources from a single primary source.
 
-contrast with [Amplitude-division interferometers](../../02_Zettel/Theory/Amplitude-division interferometers.md), where the same wavefront is *partially reflected and transmitted*, creating two beams of reduced amplitude that travel different paths.
+contrast with [Amplitude-division interferometers](../../02_Zettel/Theory/Amplitude-division interferometers.html), where the same wavefront is *partially reflected and transmitted*, creating two beams of reduced amplitude that travel different paths.
 
 ## the four classical examples
 
@@ -20,7 +20,7 @@ the original. a single source illuminates a screen with two narrow slits. each s
 
 at a detection screen far away, the two paths $r_1, r_2$ from each slit to the observation point produce an OPD $\Lambda \approx d\sin\theta \approx d\theta$. fringes spaced $\lambda L/d$ on a screen at distance $L$.
 
-see [Young experiment as a stellar interferometer](../../02_Zettel/Theory/interf/Young experiment as a stellar interferometer.md).
+see [Young experiment as a stellar interferometer](../../02_Zettel/Theory/interf/Young experiment as a stellar interferometer.html).
 
 ### 2. Fresnel double mirror
 
@@ -28,7 +28,7 @@ two flat mirrors meeting at a small angle $\alpha \ll 1$ (typically a few minute
 
 these virtual sources are *coherent* (because they come from the same physical source) and produce Young-like fringes on a screen.
 
-see [Fresnel double mirror](../../02_Zettel/Theory/interf/Fresnel double mirror.md).
+see [Fresnel double mirror](../../02_Zettel/Theory/interf/Fresnel double mirror.html).
 
 ### 3. Fresnel biprism
 
@@ -36,7 +36,7 @@ a thin glass prism with two refracting surfaces meeting at an apex angle slightl
 
 simpler than the double mirror to align (no critical alignment of two separate elements). produces Young-like fringes.
 
-see [Fresnel biprism](../../02_Zettel/Theory/interf/Fresnel biprism.md).
+see [Fresnel biprism](../../02_Zettel/Theory/interf/Fresnel biprism.html).
 
 ### 4. Lloyd's mirror
 
@@ -44,7 +44,7 @@ the simplest of all. a single grazing-incidence mirror near a point source. ligh
 
 unique feature: the reflection introduces a $\pi$ phase shift (because reflection at a denser medium flips the phase). this means the *bright* and *dark* fringes are **swapped** compared to the geometric expectation. at zero OPD (the mirror's plane), there is a *dark* fringe rather than a bright one — a classic indicator of phase reflection.
 
-see [Lloyd mirror](../../02_Zettel/Theory/interf/Lloyd mirror.md).
+see [Lloyd mirror](../../02_Zettel/Theory/interf/Lloyd mirror.html).
 
 ## what they all have in common
 
@@ -95,9 +95,9 @@ amplitude division is dominant in lab metrology and quantum optics. wavefront di
 
 ## see also
 
-- [Amplitude-division interferometers](../../02_Zettel/Theory/Amplitude-division interferometers.md)
-- [Young experiment as a stellar interferometer](../../02_Zettel/Theory/interf/Young experiment as a stellar interferometer.md)
-- [Fresnel double mirror](../../02_Zettel/Theory/interf/Fresnel double mirror.md)
-- [Fresnel biprism](../../02_Zettel/Theory/interf/Fresnel biprism.md)
-- [Lloyd mirror](../../02_Zettel/Theory/interf/Lloyd mirror.md)
-- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Amplitude-division interferometers](../../02_Zettel/Theory/Amplitude-division interferometers.html)
+- [Young experiment as a stellar interferometer](../../02_Zettel/Theory/interf/Young experiment as a stellar interferometer.html)
+- [Fresnel double mirror](../../02_Zettel/Theory/interf/Fresnel double mirror.html)
+- [Fresnel biprism](../../02_Zettel/Theory/interf/Fresnel biprism.html)
+- [Lloyd mirror](../../02_Zettel/Theory/interf/Lloyd mirror.html)
+- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.html)

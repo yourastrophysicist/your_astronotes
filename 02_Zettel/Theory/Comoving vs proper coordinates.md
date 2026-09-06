@@ -54,12 +54,12 @@ at low $z$ all coincide; at high $z$ they diverge dramatically. see 03_Zettel/Th
 
 ## see also
 
-- [FLRW metric](../../02_Zettel/Theory/FLRW metric.md)
-- [Hubble law](../../02_Zettel/Theory/Hubble law.md)
+- [FLRW metric](../../02_Zettel/Theory/FLRW metric.html)
+- [Hubble law](../../02_Zettel/Theory/Hubble law.html)
 - 03_Zettel/Theory/Cosmological distances
-- [Radial comoving distance](../../02_Zettel/Theory/Radial comoving distance.md)
-- [Angular diameter distance](../../02_Zettel/Theory/Angular diameter distance.md)
-- [Luminosity distance](../../02_Zettel/Theory/Luminosity distance.md)
-- [Cosmological redshift](../../02_Zettel/Theory/Cosmological redshift.md)
-- [Peculiar velocities of galaxies and structures](../../02_Zettel/Theory/Peculiar velocities of galaxies and structures.md)
-- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md)
+- [Radial comoving distance](../../02_Zettel/Theory/Radial comoving distance.html)
+- [Angular diameter distance](../../02_Zettel/Theory/Angular diameter distance.html)
+- [Luminosity distance](../../02_Zettel/Theory/Luminosity distance.html)
+- [Cosmological redshift](../../02_Zettel/Theory/Cosmological redshift.html)
+- [Peculiar velocities of galaxies and structures](../../02_Zettel/Theory/Peculiar velocities of galaxies and structures.html)
+- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html)

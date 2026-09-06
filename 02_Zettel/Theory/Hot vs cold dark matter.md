@@ -20,7 +20,7 @@ $$\lambda_{\rm fs} \sim \int v\, dt$$
 
 this **erases** small-scale structure. for hot dark matter (e.g. eV-scale neutrinos), the free-streaming length is huge — comparable to a galaxy supercluster. so HDM cannot produce the observed small-scale structure (galaxies on the scale of $\sim 100$ kpc).
 
-→ **HDM is ruled out** as the dominant dark matter component. light neutrinos contribute at most $\Omega_\nu h^2 \lesssim 0.001$ (see [Cosmic_inventory_neutrinos](../../02_Zettel/Theory/Cosmic_inventory_neutrinos.md)).
+→ **HDM is ruled out** as the dominant dark matter component. light neutrinos contribute at most $\Omega_\nu h^2 \lesssim 0.001$ (see [Cosmic_inventory_neutrinos](../../02_Zettel/Theory/Cosmic_inventory_neutrinos.html)).
 
 ---
 
@@ -58,7 +58,7 @@ so the "way structure forms" alone tells us dark matter must be cold (or very ne
 
 ## connecting to the matter power spectrum
 
-the matter power spectrum (see [Matter power spectrum and BAO](../../02_Zettel/Theory/Matter power spectrum and BAO.md)) has a turnover at the equality scale, but **CDM continues to have power below the turnover**. HDM would have an exponential cutoff in $P_m(k)$ at the free-streaming scale.
+the matter power spectrum (see [Matter power spectrum and BAO](../../02_Zettel/Theory/Matter power spectrum and BAO.html)) has a turnover at the equality scale, but **CDM continues to have power below the turnover**. HDM would have an exponential cutoff in $P_m(k)$ at the free-streaming scale.
 
 observations show power on small scales (DES cosmic shear, Ly-α forest, lensing). this is direct evidence that the dominant component must be cold.
 
@@ -90,9 +90,9 @@ we **don't know**:
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Cosmic_inventory_dark_matter](../../02_Zettel/Theory/Cosmic_inventory_dark_matter.md)
-- [Cosmic_inventory_neutrinos](../../02_Zettel/Theory/Cosmic_inventory_neutrinos.md)
-- [Decoupling and freeze-out](../../02_Zettel/Theory/Decoupling and freeze-out.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Cosmic_inventory_dark_matter](../../02_Zettel/Theory/Cosmic_inventory_dark_matter.html)
+- [Cosmic_inventory_neutrinos](../../02_Zettel/Theory/Cosmic_inventory_neutrinos.html)
+- [Decoupling and freeze-out](../../02_Zettel/Theory/Decoupling and freeze-out.html)
 - Dark matter relics — WIMP miracle
-- [Matter power spectrum and BAO](../../02_Zettel/Theory/Matter power spectrum and BAO.md)
+- [Matter power spectrum and BAO](../../02_Zettel/Theory/Matter power spectrum and BAO.html)

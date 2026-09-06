@@ -53,11 +53,11 @@ in hotter stars (B, A, F), Na is mostly ionised; the Na I D lines are weak or ab
 
 ## see also
 
-- [Quantum numbers and atomic states](../../02_Zettel/Theory/Quantum numbers and atomic states.md)
-- [Atomic term symbols](../../02_Zettel/Theory/Atomic term symbols.md)
-- [Selection rules](../../02_Zettel/Theory/Selection rules.md)
-- [Sodium population vs T](../../02_Zettel/Theory/Sodium population vs T.md)
-- [Pauli principle and electron configurations](../../02_Zettel/Theory/Pauli principle and electron configurations.md)
-- [Stellar spectra and spectral classification](../../02_Zettel/Theory/Stellar spectra and spectral classification.md)
-- [MK luminosity classes](../../02_Zettel/Theory/MK luminosity classes.md)
-- [Why the Sequence OBAFGKM](../../02_Zettel/Theory/Why the Sequence OBAFGKM.md)
+- [Quantum numbers and atomic states](../../02_Zettel/Theory/Quantum numbers and atomic states.html)
+- [Atomic term symbols](../../02_Zettel/Theory/Atomic term symbols.html)
+- [Selection rules](../../02_Zettel/Theory/Selection rules.html)
+- [Sodium population vs T](../../02_Zettel/Theory/Sodium population vs T.html)
+- [Pauli principle and electron configurations](../../02_Zettel/Theory/Pauli principle and electron configurations.html)
+- [Stellar spectra and spectral classification](../../02_Zettel/Theory/Stellar spectra and spectral classification.html)
+- [MK luminosity classes](../../02_Zettel/Theory/MK luminosity classes.html)
+- [Why the Sequence OBAFGKM](../../02_Zettel/Theory/Why the Sequence OBAFGKM.html)

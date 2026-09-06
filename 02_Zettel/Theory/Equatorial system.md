@@ -81,9 +81,9 @@ equivalent statement: $\alpha = \Theta - h$. so a star is at the meridian (its h
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Spherical_astronomy_complete](../../02_Zettel/Theory/Spherical_astronomy_complete.md)
-- [Earth coordinates](../../02_Zettel/Theory/Earth coordinates.md)
-- [Sidereal vs solar time](../../02_Zettel/Theory/Sidereal vs solar time.md)
-- [Alt-azimuth ↔ equatorial transformations](../../02_Zettel/Theory/Alt-azimuth ↔ equatorial transformations.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Spherical_astronomy_complete](../../02_Zettel/Theory/Spherical_astronomy_complete.html)
+- [Earth coordinates](../../02_Zettel/Theory/Earth coordinates.html)
+- [Sidereal vs solar time](../../02_Zettel/Theory/Sidereal vs solar time.html)
+- [Alt-azimuth ↔ equatorial transformations](../../02_Zettel/Theory/Alt-azimuth ↔ equatorial transformations.html)
 - Culmination and rise/set

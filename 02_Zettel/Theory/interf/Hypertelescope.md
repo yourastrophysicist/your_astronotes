@@ -98,8 +98,8 @@ even if hypertelescopes are never built at scale, the concept frames the discuss
 
 ## see also
 
-- [Nulling interferometry](../../../02_Zettel/Theory/interf/Nulling interferometry.md)
-- [Apodization](../../../02_Zettel/Theory/interf/Apodization.md)
-- [Crowding limitation](../../../02_Zettel/Theory/interf/Crowding limitation.md)
-- [Future ground-based optical](../../../02_Zettel/Theory/interf/Future ground-based optical.md)
-- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Nulling interferometry](../../../02_Zettel/Theory/interf/Nulling interferometry.html)
+- [Apodization](../../../02_Zettel/Theory/interf/Apodization.html)
+- [Crowding limitation](../../../02_Zettel/Theory/interf/Crowding limitation.html)
+- [Future ground-based optical](../../../02_Zettel/Theory/interf/Future ground-based optical.html)
+- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.html)

@@ -5,7 +5,7 @@ title: "UV SFR tracer"
 
 # UV SFR tracer
 
-up: [Pablo_03_Star_formation_in_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.md)
+up: [Pablo_03_Star_formation_in_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html)
 
 ## what the UV sees
 
@@ -27,7 +27,7 @@ valid for $1500$–$2800$ Å, Salpeter IMF $0.1$–$100\,M_\odot$, solar metalli
 
 young massive stars form in dusty regions. a canonical spiral has $A_V \sim 1$, which corresponds to $A_{1500} \sim 3$–$4$. so UV luminosity can be suppressed by factors of 10–100 before it leaves the galaxy. raw UV SFR without dust correction can be wrong by an order of magnitude.
 
-the absorbed energy re-emerges in the infrared, which is the dual of the UV (see [IR SFR tracer](../../02_Zettel/Theory/IR SFR tracer.md)). so the correct total SFR is:
+the absorbed energy re-emerges in the infrared, which is the dual of the UV (see [IR SFR tracer](../../02_Zettel/Theory/IR SFR tracer.html)). so the correct total SFR is:
 
 $$\text{SFR}_{\text{total}} = \text{SFR}_{\text{UV,uncorrected}} + \text{SFR}_{\text{IR}}$$
 
@@ -39,7 +39,7 @@ Meurer 1999 showed that the UV spectral slope
 
 $$F_\lambda \propto \lambda^\beta$$
 
-measured between $\sim 1250$ and $\sim 2600$ Å correlates with the infrared-excess $\text{IRX} \equiv L_{\text{IR}}/L_{\text{UV}}$. a redder slope (larger $\beta$) means more dust. this **IRX-β relation** lets you recover the absorbed UV when no IR data are available. see [UV slope and IRX-beta relation](../../02_Zettel/Theory/UV slope and IRX-beta relation.md).
+measured between $\sim 1250$ and $\sim 2600$ Å correlates with the infrared-excess $\text{IRX} \equiv L_{\text{IR}}/L_{\text{UV}}$. a redder slope (larger $\beta$) means more dust. this **IRX-β relation** lets you recover the absorbed UV when no IR data are available. see [UV slope and IRX-beta relation](../../02_Zettel/Theory/UV slope and IRX-beta relation.html).
 
 ## when it fails
 
@@ -51,10 +51,10 @@ measured between $\sim 1250$ and $\sim 2600$ Å correlates with the infrared-exc
 
 ## connections
 
-- dual: [IR SFR tracer](../../02_Zettel/Theory/IR SFR tracer.md)
-- needs: [UV slope and IRX-beta relation](../../02_Zettel/Theory/UV slope and IRX-beta relation.md), [Dust attenuation and extinction curves](../../02_Zettel/Theory/Dust attenuation and extinction curves.md)
-- comparison: [SFR tracer comparison](../../02_Zettel/Theory/SFR tracer comparison.md)
-- integral: [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.md)
+- dual: [IR SFR tracer](../../02_Zettel/Theory/IR SFR tracer.html)
+- needs: [UV slope and IRX-beta relation](../../02_Zettel/Theory/UV slope and IRX-beta relation.html), [Dust attenuation and extinction curves](../../02_Zettel/Theory/Dust attenuation and extinction curves.html)
+- comparison: [SFR tracer comparison](../../02_Zettel/Theory/SFR tracer comparison.html)
+- integral: [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.html)
 
 ## key references
 

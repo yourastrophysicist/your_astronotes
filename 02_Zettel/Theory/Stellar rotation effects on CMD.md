@@ -4,7 +4,7 @@ name: Stellar rotation effects on CMD
 description: how rotation modifies a star's position in the CMD via gravity darkening, rotational mixing, atmospheric oblateness, with broader effect on cluster TO morphology
 ---
 
-stellar rotation is the most-overlooked physical effect in classical CMD analysis. for slow rotators ($v/v_{\rm crit} < 0.3$) it is negligible. for fast rotators ($v/v_{\rm crit} > 0.5$, common in B + early A stars), it shifts the star's position on the CMD by tenths of a magnitude in colour + magnitude. this matters for [eMSTO](../../02_Zettel/Theory/Extended main sequence turn-off eMSTO.md) interpretation + for the [split upper MS](../../02_Zettel/Theory/Splitting of the upper MS in young clusters.md) in young clusters.
+stellar rotation is the most-overlooked physical effect in classical CMD analysis. for slow rotators ($v/v_{\rm crit} < 0.3$) it is negligible. for fast rotators ($v/v_{\rm crit} > 0.5$, common in B + early A stars), it shifts the star's position on the CMD by tenths of a magnitude in colour + magnitude. this matters for [eMSTO](../../02_Zettel/Theory/Extended main sequence turn-off eMSTO.html) interpretation + for the [split upper MS](../../02_Zettel/Theory/Splitting of the upper MS in young clusters.html) in young clusters.
 
 ## the four physical effects
 
@@ -39,13 +39,13 @@ the equatorial bulge gives the rotating star a non-spherical photosphere. line p
 
 $$\Delta\lambda \approx \frac{\lambda v\sin i}{c}$$
 
-at $v\sin i \sim 200$ km/s, line broadening is $\sim 0.4$ Å in optical, blending nearby lines. this complicates EW measurements + abundance determinations (see [Stellar rotation v sini](../../02_Zettel/Theory/Stellar rotation v sini.md)).
+at $v\sin i \sim 200$ km/s, line broadening is $\sim 0.4$ Å in optical, blending nearby lines. this complicates EW measurements + abundance determinations (see [Stellar rotation v sini](../../02_Zettel/Theory/Stellar rotation v sini.html)).
 
 ### 4. He surface enrichment from mixing
 
 prolonged rotational mixing slowly raises the surface He abundance. for $v/v_{\rm crit} = 0.5$ over $1$ Gyr, $\Delta Y$ at the surface can reach $\sim 0.02$-$0.05$. for fast rotators in young clusters, the He enhancement contributes to colour shifts (He-rich envelopes are more transparent to UV).
 
-D'Antona et al. 2015 argued this connects rotation to the [He spread](../../02_Zettel/Theory/Helium spread in GCs.md) in old GCs: rotation today $\to$ surface He-rich tomorrow $\to$ helium-rich main-sequence stars persistent over Gyrs.
+D'Antona et al. 2015 argued this connects rotation to the [He spread](../../02_Zettel/Theory/Helium spread in GCs.html) in old GCs: rotation today $\to$ surface He-rich tomorrow $\to$ helium-rich main-sequence stars persistent over Gyrs.
 
 ## the observable signatures
 
@@ -86,11 +86,11 @@ these are now standard for fitting eMSTO + young cluster CMDs.
 
 ## see also
 
-- [Extended main sequence turn-off eMSTO](../../02_Zettel/Theory/Extended main sequence turn-off eMSTO.md)
-- [Origin of eMSTO age spread or rotation](../../02_Zettel/Theory/Origin of eMSTO age spread or rotation.md)
-- [Splitting of the upper MS in young clusters](../../02_Zettel/Theory/Splitting of the upper MS in young clusters.md)
-- [eMSTO and multiple populations connection](../../02_Zettel/Theory/eMSTO and multiple populations connection.md)
-- [Stellar rotation v sini](../../02_Zettel/Theory/Stellar rotation v sini.md)
-- [Helium spread in GCs](../../02_Zettel/Theory/Helium spread in GCs.md)
-- [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.md)
-- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.md)
+- [Extended main sequence turn-off eMSTO](../../02_Zettel/Theory/Extended main sequence turn-off eMSTO.html)
+- [Origin of eMSTO age spread or rotation](../../02_Zettel/Theory/Origin of eMSTO age spread or rotation.html)
+- [Splitting of the upper MS in young clusters](../../02_Zettel/Theory/Splitting of the upper MS in young clusters.html)
+- [eMSTO and multiple populations connection](../../02_Zettel/Theory/eMSTO and multiple populations connection.html)
+- [Stellar rotation v sini](../../02_Zettel/Theory/Stellar rotation v sini.html)
+- [Helium spread in GCs](../../02_Zettel/Theory/Helium spread in GCs.html)
+- [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.html)
+- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.html)

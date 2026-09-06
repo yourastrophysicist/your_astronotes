@@ -34,7 +34,7 @@ modern codes (Cloudy, MAPPINGS, MOCASSIN) include all of these and solve the ful
 
 ## simplification: two-level atom
 
-for many practical questions (forbidden line emission, single-doublet ratios), the **two-level atom** approximation (one ground + one excited) gives a useful closed-form solution. see [Two-level atom](../../02_Zettel/Theory/Two-level atom.md) for the full derivation.
+for many practical questions (forbidden line emission, single-doublet ratios), the **two-level atom** approximation (one ground + one excited) gives a useful closed-form solution. see [Two-level atom](../../02_Zettel/Theory/Two-level atom.html) for the full derivation.
 
 ## the LTE limit
 
@@ -66,12 +66,12 @@ this is the photoionisation equilibrium calculation (Cloudy, MAPPINGS V).
 
 ## see also
 
-- [Two-level atom](../../02_Zettel/Theory/Two-level atom.md)
-- [Collisional excitation rate](../../02_Zettel/Theory/Collisional excitation rate.md)
-- [Critical density](../../02_Zettel/Theory/Critical density.md)
-- [Forbidden lines](../../02_Zettel/Theory/Forbidden lines.md)
-- [Local thermodynamic equilibrium LTE](../../02_Zettel/Theory/Local thermodynamic equilibrium LTE.md)
-- [Boltzmann equation in spectroscopy](../../02_Zettel/Theory/Boltzmann equation in spectroscopy.md)
-- [Saha ionisation equation](../../02_Zettel/Theory/Saha ionisation equation.md)
-- [Photoionisation balance](../../02_Zettel/Theory/Photoionisation balance.md)
-- [Source function](../../02_Zettel/Theory/Source function.md)
+- [Two-level atom](../../02_Zettel/Theory/Two-level atom.html)
+- [Collisional excitation rate](../../02_Zettel/Theory/Collisional excitation rate.html)
+- [Critical density](../../02_Zettel/Theory/Critical density.html)
+- [Forbidden lines](../../02_Zettel/Theory/Forbidden lines.html)
+- [Local thermodynamic equilibrium LTE](../../02_Zettel/Theory/Local thermodynamic equilibrium LTE.html)
+- [Boltzmann equation in spectroscopy](../../02_Zettel/Theory/Boltzmann equation in spectroscopy.html)
+- [Saha ionisation equation](../../02_Zettel/Theory/Saha ionisation equation.html)
+- [Photoionisation balance](../../02_Zettel/Theory/Photoionisation balance.html)
+- [Source function](../../02_Zettel/Theory/Source function.html)

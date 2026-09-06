@@ -36,7 +36,7 @@ a numerical method usually calls another numerical method underneath. recognisin
 - **Monte Carlo integration** calls a **random number generator** and the **inverse transform**
 - a **shooting method** for a BVP calls **Newton-Raphson** wrapped around an **IVP**
 
-so the syllabus is a dependency graph. the order in [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md) follows this graph from the leaves up.
+so the syllabus is a dependency graph. the order in [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html) follows this graph from the leaves up.
 
 ## reference texts
 
@@ -49,5 +49,5 @@ so the syllabus is a dependency graph. the order in [Mathematical_Numerical_Meth
 
 ## see also
 
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md) — the map
-- [Numerical problem solving workflow](../../02_Zettel/Theory/Numerical problem solving workflow.md) — the meta-recipe
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html) — the map
+- [Numerical problem solving workflow](../../02_Zettel/Theory/Numerical problem solving workflow.html) — the meta-recipe

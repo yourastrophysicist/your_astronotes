@@ -58,12 +58,12 @@ historically: an oscillator with strength $f$ has the same time-integrated emiss
 
 ## see also
 
-- [Line profile function phi nu](../../02_Zettel/Theory/Line profile function phi nu.md)
-- [Equivalent width](../../02_Zettel/Theory/Equivalent width.md)
-- [Curve of growth](../../02_Zettel/Theory/Curve of growth.md)
-- [Optical depth](../../02_Zettel/Theory/Optical depth.md)
-- [Selection rules](../../02_Zettel/Theory/Selection rules.md)
-- [Forbidden vs permitted vs semiforbidden transitions](../../02_Zettel/Theory/Forbidden vs permitted vs semiforbidden transitions.md)
-- [Statistical weight g](../../02_Zettel/Theory/Statistical weight g.md)
-- [Equation of radiative transfer](../../02_Zettel/Theory/Equation of radiative transfer.md)
-- [Curve of growth abundance analysis](../../02_Zettel/Theory/Curve of growth abundance analysis.md)
+- [Line profile function phi nu](../../02_Zettel/Theory/Line profile function phi nu.html)
+- [Equivalent width](../../02_Zettel/Theory/Equivalent width.html)
+- [Curve of growth](../../02_Zettel/Theory/Curve of growth.html)
+- [Optical depth](../../02_Zettel/Theory/Optical depth.html)
+- [Selection rules](../../02_Zettel/Theory/Selection rules.html)
+- [Forbidden vs permitted vs semiforbidden transitions](../../02_Zettel/Theory/Forbidden vs permitted vs semiforbidden transitions.html)
+- [Statistical weight g](../../02_Zettel/Theory/Statistical weight g.html)
+- [Equation of radiative transfer](../../02_Zettel/Theory/Equation of radiative transfer.html)
+- [Curve of growth abundance analysis](../../02_Zettel/Theory/Curve of growth abundance analysis.html)

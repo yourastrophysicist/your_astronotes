@@ -81,7 +81,7 @@ source: local study diagram generated from standard antenna relations.
 
 ## see also
 
-- [Radio astronomy basics](../../02_Zettel/Theory/interf/Radio astronomy basics.md)
-- [Beam power pattern of a radio telescope](../../02_Zettel/Theory/interf/Beam power pattern of a radio telescope.md)
-- [Radiometer equation and SEFD](../../02_Zettel/Theory/interf/Radiometer equation and SEFD.md)
-- [Radio interferometer architecture](../../02_Zettel/Theory/interf/Radio interferometer architecture.md)
+- [Radio astronomy basics](../../02_Zettel/Theory/interf/Radio astronomy basics.html)
+- [Beam power pattern of a radio telescope](../../02_Zettel/Theory/interf/Beam power pattern of a radio telescope.html)
+- [Radiometer equation and SEFD](../../02_Zettel/Theory/interf/Radiometer equation and SEFD.html)
+- [Radio interferometer architecture](../../02_Zettel/Theory/interf/Radio interferometer architecture.html)

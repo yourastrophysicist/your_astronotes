@@ -5,7 +5,7 @@ title: "Ch 2 - Some Differential Geometry"
 
 # Baumann Ch 2, Some Differential Geometry
 
-up: [Baumann GR](../../../01_Literature/Book/Baumann GR/Baumann GR.md) · [General_Relativity_MOC](../../../00_Atlas/General_Relativity_MOC.md)
+up: [Baumann GR](../../../01_Literature/Book/Baumann GR/Baumann GR.html) · [General_Relativity_MOC](../../../00_Atlas/General_Relativity_MOC.html)
 
 *the math chapter. it sounds intimidating but the ideas are simple. all we are doing is figuring out how to do calculus on curved surfaces in a way that is independent of the coordinates we happen to use. once you see the pattern, the formalism becomes a friend, not a wall.*
 
@@ -204,7 +204,7 @@ $$d\tau^2 = -g_{\mu\nu} dx^\mu dx^\nu > 0$$
 
 if the curve is parametrized by $\tau$, its tangent vector is the **four-velocity** $U^\mu = dx^\mu/d\tau$, automatically normalized as $g_{\mu\nu} U^\mu U^\nu = -1$.
 
-this is the same proper time that appears in the relativistic action $S = -m\int d\tau$ in [Ch 3 - A First Look at Geodesics](../../../01_Literature/Book/Baumann GR/Ch 3 - A First Look at Geodesics.md).
+this is the same proper time that appears in the relativistic action $S = -m\int d\tau$ in [Ch 3 - A First Look at Geodesics](../../../01_Literature/Book/Baumann GR/Ch 3 - A First Look at Geodesics.html).
 
 ---
 
@@ -248,7 +248,7 @@ a final result: the **invariant volume element** for integration on a Lorentzian
 
 $$dV = \sqrt{-\det g_{\mu\nu}}\, d^4 x = \sqrt{-g}\, d^4 x$$
 
-the $\sqrt{-g}$ factor cancels the Jacobian from coordinate transformations, making integrals coordinate-independent. this is what shows up in the **Einstein-Hilbert action** $S = \int d^4x \sqrt{-g}\, R$ in [Ch 5 - The Einstein Equation](../../../01_Literature/Book/Baumann GR/Ch 5 - The Einstein Equation.md).
+the $\sqrt{-g}$ factor cancels the Jacobian from coordinate transformations, making integrals coordinate-independent. this is what shows up in the **Einstein-Hilbert action** $S = \int d^4x \sqrt{-g}\, R$ in [Ch 5 - The Einstein Equation](../../../01_Literature/Book/Baumann GR/Ch 5 - The Einstein Equation.html).
 
 ---
 
@@ -262,9 +262,9 @@ if i had to compress chapter 2 into a paragraph for the oral:
 
 ## connections
 
-- [General_Relativity_MOC](../../../00_Atlas/General_Relativity_MOC.md)
-- [Baumann GR](../../../01_Literature/Book/Baumann GR/Baumann GR.md)
-- [Manifold metric and signature](../../../02_Zettel/Theory/Manifold metric and signature.md) · [Coordinate transformations and tensors](../../../02_Zettel/Theory/Coordinate transformations and tensors.md) · [Locally inertial frame](../../../02_Zettel/Theory/Locally inertial frame.md)
+- [General_Relativity_MOC](../../../00_Atlas/General_Relativity_MOC.html)
+- [Baumann GR](../../../01_Literature/Book/Baumann GR/Baumann GR.html)
+- [Manifold metric and signature](../../../02_Zettel/Theory/Manifold metric and signature.html) · [Coordinate transformations and tensors](../../../02_Zettel/Theory/Coordinate transformations and tensors.html) · [Locally inertial frame](../../../02_Zettel/Theory/Locally inertial frame.html)
 - Q1 - Christoffels for diagonal 2D metric and Q2 - Christoffels for radial 2D metric (the Christoffel formula uses everything from this chapter)
-- previous: [Ch 1 - Gravity is Geometry](../../../01_Literature/Book/Baumann GR/Ch 1 - Gravity is Geometry.md)
-- next: [Ch 3 - A First Look at Geodesics](../../../01_Literature/Book/Baumann GR/Ch 3 - A First Look at Geodesics.md)
+- previous: [Ch 1 - Gravity is Geometry](../../../01_Literature/Book/Baumann GR/Ch 1 - Gravity is Geometry.html)
+- next: [Ch 3 - A First Look at Geodesics](../../../01_Literature/Book/Baumann GR/Ch 3 - A First Look at Geodesics.html)

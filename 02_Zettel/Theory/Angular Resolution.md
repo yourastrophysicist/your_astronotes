@@ -44,7 +44,7 @@ $$\sigma_{diff} \approx 1.22\lambda/D$$
 At X-ray energies: $\sigma_{diff} \sim 10^{-4}$–$10^{-3}$ arcsec — **completely negligible**
 
 ### Geometric aberrations ($\sigma_{geom}$)
-For a [Wolter I](../../02_Zettel/Theory/Wolter Telescope.md) telescope, the on-axis coma and field curvature
+For a [Wolter I](../../02_Zettel/Theory/Wolter Telescope.html) telescope, the on-axis coma and field curvature
 	from the formula for the blur circle radius at off-axis angle $\theta$ and graze angle $\alpha$:
 $$\sigma_{blur} \simeq 0.2\frac{\tan^2\theta}{\tan\alpha}\left(\frac{L}{f}\right) + 4\tan\theta\tan^2\alpha$$
 
@@ -70,7 +70,7 @@ Misalignment between the paraboloid and hyperboloid segments
 A good angular resolution:
 1. Allows detection of faint sources with low background contamination
 	- background within the PSF: $N_{bg} \propto HPD^2$
-	- SNR for a point source: $SNR \propto A_{eff}/HPD$ in the background-dominated regime — see [Signal-Noise Ratio](../../02_Zettel/Theory/Signal-Noise Ratio.md)
+	- SNR for a point source: $SNR \propto A_{eff}/HPD$ in the background-dominated regime — see [Signal-Noise Ratio](../../02_Zettel/Theory/Signal-Noise Ratio.html)
 
 2. Allows resolving multiple nearby sources
 	- at $HPD = 0.5''$, two sources $1''$ apart can be separated

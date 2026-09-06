@@ -50,14 +50,14 @@ this is **directly geodesic deviation**: the test masses are in free fall, and t
 
 ## see also
 
-- [Riemann tensor](../../02_Zettel/Theory/Riemann tensor.md)
-- [Geodesic equation](../../02_Zettel/Theory/Geodesic equation.md)
-- [Ricci tensor and scalar](../../02_Zettel/Theory/Ricci tensor and scalar.md)
-- [Newtonian limit of GR](../../02_Zettel/Theory/Newtonian limit of GR.md)
-- [Geodesic deviation under a GW](../../02_Zettel/Theory/Geodesic deviation under a GW.md)
-- [Plus and cross polarizations](../../02_Zettel/Theory/Plus and cross polarizations.md)
-- [Schwarzschild effective potential](../../02_Zettel/Theory/Schwarzschild effective potential.md)
+- [Riemann tensor](../../02_Zettel/Theory/Riemann tensor.html)
+- [Geodesic equation](../../02_Zettel/Theory/Geodesic equation.html)
+- [Ricci tensor and scalar](../../02_Zettel/Theory/Ricci tensor and scalar.html)
+- [Newtonian limit of GR](../../02_Zettel/Theory/Newtonian limit of GR.html)
+- [Geodesic deviation under a GW](../../02_Zettel/Theory/Geodesic deviation under a GW.html)
+- [Plus and cross polarizations](../../02_Zettel/Theory/Plus and cross polarizations.html)
+- [Schwarzschild effective potential](../../02_Zettel/Theory/Schwarzschild effective potential.html)
 - Q17 - Riemann R_0x0x for a TT plane wave
-- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.md)
-- [Ch 4 - Spacetime Curvature](../../01_Literature/Book/Baumann GR/Ch 4 - Spacetime Curvature.md)
-- [Ch 8 - Gravitational Waves](../../01_Literature/Book/Baumann GR/Ch 8 - Gravitational Waves.md)
+- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.html)
+- [Ch 4 - Spacetime Curvature](../../01_Literature/Book/Baumann GR/Ch 4 - Spacetime Curvature.html)
+- [Ch 8 - Gravitational Waves](../../01_Literature/Book/Baumann GR/Ch 8 - Gravitational Waves.html)

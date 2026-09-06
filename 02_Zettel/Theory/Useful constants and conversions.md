@@ -101,10 +101,10 @@ $\theta_{\rm seeing} \approx \lambda/r_0$. for $r_0 = 15$ cm at $500$ nm:
 
 ## see also
 
-- [Atmospheric extinction](../../02_Zettel/Theory/interf/Atmospheric extinction.md)
-- [Magnitudes and photometric systems](../../02_Zettel/Theory/Magnitudes and photometric systems.md)
-- [Distance modulus](../../02_Zettel/Theory/Distance modulus.md)
-- [Filter systems and bandpasses](../../02_Zettel/Theory/Filter systems and bandpasses.md)
-- [Atmospheric seeing](../../02_Zettel/Theory/interf/Atmospheric seeing.md)
-- [Distance ladder derivations](../../02_Zettel/Theory/Distance ladder derivations.md)
-- [Cosmic_inventory_overview](../../02_Zettel/Theory/Cosmic_inventory_overview.md)
+- [Atmospheric extinction](../../02_Zettel/Theory/interf/Atmospheric extinction.html)
+- [Magnitudes and photometric systems](../../02_Zettel/Theory/Magnitudes and photometric systems.html)
+- [Distance modulus](../../02_Zettel/Theory/Distance modulus.html)
+- [Filter systems and bandpasses](../../02_Zettel/Theory/Filter systems and bandpasses.html)
+- [Atmospheric seeing](../../02_Zettel/Theory/interf/Atmospheric seeing.html)
+- [Distance ladder derivations](../../02_Zettel/Theory/Distance ladder derivations.html)
+- [Cosmic_inventory_overview](../../02_Zettel/Theory/Cosmic_inventory_overview.html)

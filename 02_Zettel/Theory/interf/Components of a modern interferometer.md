@@ -128,9 +128,9 @@ a modern interferometer is *systems engineering on a heroic scale*. understandin
 
 ## see also
 
-- [Delay lines and path-length equalization](../../../02_Zettel/Theory/interf/Delay lines and path-length equalization.md)
-- [Beam combiners](../../../02_Zettel/Theory/Beam combiners.md)
-- [Fringe tracking](../../../02_Zettel/Theory/interf/Fringe tracking.md)
-- [VLTI Very Large Telescope Interferometer](../../../02_Zettel/Theory/interf/VLTI Very Large Telescope Interferometer.md)
-- [CHARA array](../../../02_Zettel/Theory/interf/CHARA array.md)
-- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Delay lines and path-length equalization](../../../02_Zettel/Theory/interf/Delay lines and path-length equalization.html)
+- [Beam combiners](../../../02_Zettel/Theory/Beam combiners.html)
+- [Fringe tracking](../../../02_Zettel/Theory/interf/Fringe tracking.html)
+- [VLTI Very Large Telescope Interferometer](../../../02_Zettel/Theory/interf/VLTI Very Large Telescope Interferometer.html)
+- [CHARA array](../../../02_Zettel/Theory/interf/CHARA array.html)
+- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.html)

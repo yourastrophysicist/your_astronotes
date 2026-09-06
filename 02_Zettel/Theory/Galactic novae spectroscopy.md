@@ -56,11 +56,11 @@ novae are **single-degenerate analogs** of SN Ia progenitors, but at much lower 
 
 ## see also
 
-- [Emission line stars](../../02_Zettel/Theory/Emission line stars.md)
-- [Symbiotic star spectroscopy](../../02_Zettel/Theory/Symbiotic star spectroscopy.md)
-- [Supernova spectroscopy](../../02_Zettel/Theory/Supernova spectroscopy.md)
-- [Type Ia supernovae as standard candles](../../02_Zettel/Theory/Type Ia supernovae as standard candles.md)
-- [Hydrogen spectral series](../../02_Zettel/Theory/Hydrogen spectral series.md)
-- [OIII forbidden lines](../../02_Zettel/Theory/OIII forbidden lines.md)
-- [Forbidden lines](../../02_Zettel/Theory/Forbidden lines.md)
-- [Recombination continuum](../../02_Zettel/Theory/Recombination continuum.md)
+- [Emission line stars](../../02_Zettel/Theory/Emission line stars.html)
+- [Symbiotic star spectroscopy](../../02_Zettel/Theory/Symbiotic star spectroscopy.html)
+- [Supernova spectroscopy](../../02_Zettel/Theory/Supernova spectroscopy.html)
+- [Type Ia supernovae as standard candles](../../02_Zettel/Theory/Type Ia supernovae as standard candles.html)
+- [Hydrogen spectral series](../../02_Zettel/Theory/Hydrogen spectral series.html)
+- [OIII forbidden lines](../../02_Zettel/Theory/OIII forbidden lines.html)
+- [Forbidden lines](../../02_Zettel/Theory/Forbidden lines.html)
+- [Recombination continuum](../../02_Zettel/Theory/Recombination continuum.html)

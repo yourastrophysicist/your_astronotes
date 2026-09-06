@@ -4,7 +4,7 @@ name: Bulge CMD complications
 description: field star contamination + differential reddening + crowding making bulge CMD analysis hard, with HST proper motions + cluster ridge DR maps as the main mitigations
 ---
 
-reading the CMD of the [Galactic bulge](../../02_Zettel/Theory/The Galactic Bulge.md) is one of the hardest problems in resolved-stellar-population astronomy. the bulge is bright + crowded + dust-obscured + behind the disk, and every standard CMD-fitting assumption gets stressed.
+reading the CMD of the [Galactic bulge](../../02_Zettel/Theory/The Galactic Bulge.html) is one of the hardest problems in resolved-stellar-population astronomy. the bulge is bright + crowded + dust-obscured + behind the disk, and every standard CMD-fitting assumption gets stressed.
 
 ## the four main complications
 
@@ -24,7 +24,7 @@ bulge sight lines have $A_V \sim 1$-$30$ mag, varying on arcminute scales due to
 
 - mimic spread in metallicity,
 - mimic spread in age (if interpreted as TO width),
-- mimic [multiple populations](../../02_Zettel/Theory/Multiple populations in GCs discovery.md).
+- mimic [multiple populations](../../02_Zettel/Theory/Multiple populations in GCs discovery.html).
 
 correction strategy: use cluster member ridge or RC ridge as an empirical reddening tracer (Lagioia et al. 2014, Milone et al. 2012). the cluster ridge gives a high-resolution $\delta E(B-V)$ map across the field, which is then applied to non-cluster bulge stars.
 
@@ -79,10 +79,10 @@ the bulge is the high-metallicity stress test of CMD analysis. mastering the pro
 
 ## see also
 
-- [The Galactic Bulge](../../02_Zettel/Theory/The Galactic Bulge.md)
-- [Bulge microlensing surveys](../../02_Zettel/Theory/Bulge microlensing surveys.md)
-- [Effects of differential reddening on CMD analysis](../../02_Zettel/Theory/Effects of differential reddening on CMD analysis.md)
-- [Differential reddening maps](../../02_Zettel/Theory/Differential reddening maps.md)
-- [Interstellar reddening and the reddening vector](../../02_Zettel/Theory/Interstellar reddening and the reddening vector.md)
-- [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.md)
-- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.md)
+- [The Galactic Bulge](../../02_Zettel/Theory/The Galactic Bulge.html)
+- [Bulge microlensing surveys](../../02_Zettel/Theory/Bulge microlensing surveys.html)
+- [Effects of differential reddening on CMD analysis](../../02_Zettel/Theory/Effects of differential reddening on CMD analysis.html)
+- [Differential reddening maps](../../02_Zettel/Theory/Differential reddening maps.html)
+- [Interstellar reddening and the reddening vector](../../02_Zettel/Theory/Interstellar reddening and the reddening vector.html)
+- [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.html)
+- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.html)

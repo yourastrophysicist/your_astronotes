@@ -12,7 +12,7 @@ at early times the universe is **radiation-dominated**, and the Friedmann equati
 with the energy density of relativistic species
 $$\rho_{\rm rad} = \frac{\pi^2}{30}\, g_*(T)\, T^4$$
 
-(see [Number density and energy density at thermal equilibrium](../../02_Zettel/Theory/Number density and energy density at thermal equilibrium.md)), the Friedmann equation is:
+(see [Number density and energy density at thermal equilibrium](../../02_Zettel/Theory/Number density and energy density at thermal equilibrium.html)), the Friedmann equation is:
 $$H^2 = \frac{8\pi G}{3}\rho_{\rm rad} = \frac{8\pi^3 G}{90}\, g_*(T)\, T^4$$
 
 so:
@@ -51,13 +51,13 @@ the **Hubble rate** $H \propto g_*^{1/2} T^2$ depends on $g_*$ — and so does t
 
 > **so the abundance of any thermal relic depends on $g_*$ at decoupling.**
 
-a famous BBN application: extra light degrees of freedom (a fourth neutrino species, primordial gravitational waves) would increase $g_*$ at $T \sim 1$ MeV, increase $H$, force earlier n/p freeze-out, and give a *higher* primordial $^4$He abundance. so observed $Y_p$ constrains the count of light species at the BBN epoch. → see [BBN_predictions](../../02_Zettel/Theory/BBN_predictions.md).
+a famous BBN application: extra light degrees of freedom (a fourth neutrino species, primordial gravitational waves) would increase $g_*$ at $T \sim 1$ MeV, increase $H$, force earlier n/p freeze-out, and give a *higher* primordial $^4$He abundance. so observed $Y_p$ constrains the count of light species at the BBN epoch. → see [BBN_predictions](../../02_Zettel/Theory/BBN_predictions.html).
 
 ---
 
 ## $T \propto 1/a$ as a corollary
 
-combined with entropy conservation $g_{*s} T^3 a^3 = $ const (see [Conservation of entropy in a comoving volume](../../02_Zettel/Theory/Conservation of entropy in a comoving volume.md)), this gives:
+combined with entropy conservation $g_{*s} T^3 a^3 = $ const (see [Conservation of entropy in a comoving volume](../../02_Zettel/Theory/Conservation of entropy in a comoving volume.html)), this gives:
 $$T \propto \frac{1}{a\, [g_{*s}]^{1/3}}$$
 
 across smooth epochs (constant $g_{*s}$), this reduces to $T \propto 1/a$. the photon temperature redshifts inversely with the scale factor — that's why the CMB is so cold today even though it was 3000 K at recombination.
@@ -76,10 +76,10 @@ extrapolating backward from $T_0 = 2.725$ K at $a = 1$ today:
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Brief thermal history](../../02_Zettel/Theory/Brief thermal history.md)
-- [Number density and energy density at thermal equilibrium](../../02_Zettel/Theory/Number density and energy density at thermal equilibrium.md)
-- [Conservation of entropy in a comoving volume](../../02_Zettel/Theory/Conservation of entropy in a comoving volume.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Brief thermal history](../../02_Zettel/Theory/Brief thermal history.html)
+- [Number density and energy density at thermal equilibrium](../../02_Zettel/Theory/Number density and energy density at thermal equilibrium.html)
+- [Conservation of entropy in a comoving volume](../../02_Zettel/Theory/Conservation of entropy in a comoving volume.html)
 - Friedmann equations with Λ
-- [Friedmann models](../../02_Zettel/Theory/Friedmann models.md)
-- [BBN_predictions](../../02_Zettel/Theory/BBN_predictions.md)
+- [Friedmann models](../../02_Zettel/Theory/Friedmann models.html)
+- [BBN_predictions](../../02_Zettel/Theory/BBN_predictions.html)

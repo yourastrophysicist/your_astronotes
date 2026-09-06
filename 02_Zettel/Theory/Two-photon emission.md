@@ -56,11 +56,11 @@ so high-density nebulae have **reduced** 2-photon continuum and **enhanced** Ly$
 
 ## see also
 
-- [Recombination continuum](../../02_Zettel/Theory/Recombination continuum.md)
-- [Balmer continuum](../../02_Zettel/Theory/Balmer continuum.md)
-- [Free-free continuum](../../02_Zettel/Theory/Free-free continuum.md)
-- [Optically thin recombination lines](../../02_Zettel/Theory/Optically thin recombination lines.md)
-- [Case A vs Case B recombination](../../02_Zettel/Theory/Case A vs Case B recombination.md)
-- [Selection rules](../../02_Zettel/Theory/Selection rules.md)
-- [Forbidden lines](../../02_Zettel/Theory/Forbidden lines.md)
-- [H II region spectroscopy](../../02_Zettel/Theory/H II region spectroscopy.md)
+- [Recombination continuum](../../02_Zettel/Theory/Recombination continuum.html)
+- [Balmer continuum](../../02_Zettel/Theory/Balmer continuum.html)
+- [Free-free continuum](../../02_Zettel/Theory/Free-free continuum.html)
+- [Optically thin recombination lines](../../02_Zettel/Theory/Optically thin recombination lines.html)
+- [Case A vs Case B recombination](../../02_Zettel/Theory/Case A vs Case B recombination.html)
+- [Selection rules](../../02_Zettel/Theory/Selection rules.html)
+- [Forbidden lines](../../02_Zettel/Theory/Forbidden lines.html)
+- [H II region spectroscopy](../../02_Zettel/Theory/H II region spectroscopy.html)

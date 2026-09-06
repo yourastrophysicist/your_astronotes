@@ -102,7 +102,7 @@ source: local plot generated from $\sigma\propto1/\sqrt{\Delta\nu t}$.
 
 ## see also
 
-- [Antenna effective area and gain](../../02_Zettel/Theory/interf/Antenna effective area and gain.md)
-- [Radio astronomy basics](../../02_Zettel/Theory/interf/Radio astronomy basics.md)
-- [ALMA exposure time calculator and sensitivity](../../02_Zettel/Theory/interf/ALMA exposure time calculator and sensitivity.md)
-- [Interferometry equation sheet](../../02_Zettel/Theory/interf/Interferometry equation sheet.md)
+- [Antenna effective area and gain](../../02_Zettel/Theory/interf/Antenna effective area and gain.html)
+- [Radio astronomy basics](../../02_Zettel/Theory/interf/Radio astronomy basics.html)
+- [ALMA exposure time calculator and sensitivity](../../02_Zettel/Theory/interf/ALMA exposure time calculator and sensitivity.html)
+- [Interferometry equation sheet](../../02_Zettel/Theory/interf/Interferometry equation sheet.html)

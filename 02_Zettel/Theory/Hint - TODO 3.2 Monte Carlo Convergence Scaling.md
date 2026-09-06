@@ -6,7 +6,7 @@ title: "Hint - TODO 3.2 Monte Carlo Convergence Scaling"
 # Hint - TODO 3.2 Monte Carlo Convergence Scaling
 
 **Target TODO**: TODO 3.2 in Module_1_Random_Sampling_and_Monte_Carlo  
-**Related Zettels**: [Monte Carlo integration mean value method](../../02_Zettel/Theory/Monte Carlo integration mean value method.md), [Matplotlib plotting essentials](../../02_Zettel/Theory/Matplotlib plotting essentials.md)
+**Related Zettels**: [Monte Carlo integration mean value method](../../02_Zettel/Theory/Monte Carlo integration mean value method.html), [Matplotlib plotting essentials](../../02_Zettel/Theory/Matplotlib plotting essentials.html)
 
 ---
 

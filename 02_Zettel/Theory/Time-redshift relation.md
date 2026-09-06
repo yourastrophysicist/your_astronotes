@@ -5,7 +5,7 @@ title: "Time-redshift relation"
 
 # time-redshift relation
 
-up: [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md) · [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md) · [Cosmological redshift](../../02_Zettel/Theory/Cosmological redshift.md)
+up: [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html) · [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html) · [Cosmological redshift](../../02_Zettel/Theory/Cosmological redshift.html)
 
 ## derivation from the scale factor
 
@@ -47,6 +47,6 @@ $$t_0 \approx 13.8 \text{ Gyr}$$
 
 ## connections
 
-- distances: [Radial comoving distance](../../02_Zettel/Theory/Radial comoving distance.md), 02_Zettel/Theory/Cosmological distances
-- background: [Friedmann equations](../../02_Zettel/Theory/Friedmann equations.md), [GR Friedmann with Lambda](../../02_Zettel/Theory/GR Friedmann with Lambda.md)
-- application: [Cosmology calculator - how to use H0 Omega_m Omega_Lambda to get dL dA t_lookback](../../02_Zettel/Theory/Cosmology calculator - how to use H0 Omega_m Omega_Lambda to get dL dA t_lookback.md)
+- distances: [Radial comoving distance](../../02_Zettel/Theory/Radial comoving distance.html), 02_Zettel/Theory/Cosmological distances
+- background: [Friedmann equations](../../02_Zettel/Theory/Friedmann equations.html), [GR Friedmann with Lambda](../../02_Zettel/Theory/GR Friedmann with Lambda.html)
+- application: [Cosmology calculator - how to use H0 Omega_m Omega_Lambda to get dL dA t_lookback](../../02_Zettel/Theory/Cosmology calculator - how to use H0 Omega_m Omega_Lambda to get dL dA t_lookback.html)

@@ -55,13 +55,13 @@ with $M_c \approx 0.22\,M_\odot$ (system) or $0.08\,M_\odot$ (single stars) and 
 
 **variants and extensions**
 
-- **top-heavy IMF**: shallower high-mass slope $\Gamma < 1.35$, expected for [Pop III](../../02_Zettel/Theory/Population III stars.md) and maybe for starburst galaxies and the galactic-centre arches cluster.
+- **top-heavy IMF**: shallower high-mass slope $\Gamma < 1.35$, expected for [Pop III](../../02_Zettel/Theory/Population III stars.html) and maybe for starburst galaxies and the galactic-centre arches cluster.
 - **bottom-heavy IMF**: steeper low-mass slope, claimed for massive ellipticals from gravity-sensitive absorption features (van dokkum & conroy 2010), still debated.
 - **integrated galactic IMF (IGIMF)**: kroupa & weidner argue the IMF integrated over a galaxy depends on its star-formation rate.
 
 ## see also
-- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.md)
+- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.html)
 - [Stellar mass function xi(M)](../../02_Zettel/Theory/Stellar mass function xi(M).md)
-- [Initial vs present-day mass function](../../02_Zettel/Theory/Initial vs present-day mass function.md)
-- [IMF from cluster luminosity functions](../../02_Zettel/Theory/IMF from cluster luminosity functions.md)
-- [Population III stars](../../02_Zettel/Theory/Population III stars.md)
+- [Initial vs present-day mass function](../../02_Zettel/Theory/Initial vs present-day mass function.html)
+- [IMF from cluster luminosity functions](../../02_Zettel/Theory/IMF from cluster luminosity functions.html)
+- [Population III stars](../../02_Zettel/Theory/Population III stars.html)

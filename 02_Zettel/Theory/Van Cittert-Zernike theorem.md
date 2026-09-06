@@ -135,10 +135,10 @@ source: local study diagram generated from the standard narrow-field VCZ relatio
 
 ## see also
 
-- [Spatial coherence](../../02_Zettel/Theory/interf/Spatial coherence.md)
-- [Coherence function and visibility](../../02_Zettel/Theory/interf/Coherence function and visibility.md)
-- [Fringe visibility and contrast](../../02_Zettel/Theory/interf/Fringe visibility and contrast.md)
-- [Aperture synthesis principle](../../02_Zettel/Theory/interf/Aperture synthesis principle.md)
+- [Spatial coherence](../../02_Zettel/Theory/interf/Spatial coherence.html)
+- [Coherence function and visibility](../../02_Zettel/Theory/interf/Coherence function and visibility.html)
+- [Fringe visibility and contrast](../../02_Zettel/Theory/interf/Fringe visibility and contrast.html)
+- [Aperture synthesis principle](../../02_Zettel/Theory/interf/Aperture synthesis principle.html)
 - [The (u, v) plane](../../02_Zettel/Theory/interf/The (u, v) plane.md)
-- [Dirty beam and dirty image](../../02_Zettel/Theory/interf/Dirty beam and dirty image.md)
-- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Dirty beam and dirty image](../../02_Zettel/Theory/interf/Dirty beam and dirty image.html)
+- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.html)

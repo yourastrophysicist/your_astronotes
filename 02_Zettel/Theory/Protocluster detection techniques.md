@@ -78,13 +78,13 @@ JWST is currently revolutionising this field with **spectroscopically confirmed 
 
 ## see also
 
-- [Galaxy clusters and overview of evolution](../../02_Zettel/Theory/Galaxy clusters and overview of evolution.md)
-- [Lyman alpha SFR tracer](../../02_Zettel/Theory/Lyman alpha SFR tracer.md)
-- [Photometric redshifts](../../02_Zettel/Theory/Photometric redshifts.md)
-- [Deep-field surveys](../../02_Zettel/Theory/Deep-field surveys.md)
-- [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.md)
-- [Madau plot](../../02_Zettel/Theory/Madau plot.md)
-- [Spherical collapse](../../02_Zettel/Theory/Spherical collapse.md)
-- [Press-Schechter halo mass function](../../02_Zettel/Theory/Press-Schechter halo mass function.md)
-- [High-z galaxies with JWST](../../02_Zettel/Theory/High-z galaxies with JWST.md)
-- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md)
+- [Galaxy clusters and overview of evolution](../../02_Zettel/Theory/Galaxy clusters and overview of evolution.html)
+- [Lyman alpha SFR tracer](../../02_Zettel/Theory/Lyman alpha SFR tracer.html)
+- [Photometric redshifts](../../02_Zettel/Theory/Photometric redshifts.html)
+- [Deep-field surveys](../../02_Zettel/Theory/Deep-field surveys.html)
+- [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.html)
+- [Madau plot](../../02_Zettel/Theory/Madau plot.html)
+- [Spherical collapse](../../02_Zettel/Theory/Spherical collapse.html)
+- [Press-Schechter halo mass function](../../02_Zettel/Theory/Press-Schechter halo mass function.html)
+- [High-z galaxies with JWST](../../02_Zettel/Theory/High-z galaxies with JWST.html)
+- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html)

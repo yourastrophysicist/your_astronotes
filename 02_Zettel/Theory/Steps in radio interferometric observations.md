@@ -48,5 +48,5 @@ Major facilities like ALMA and the VLA process observations through this standar
 
 ## connections & zettel links
 
-* parent moc: [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.md)
-* related zettels: [Calibration overview](../../02_Zettel/Theory/interf/Calibration overview.md), [Bandpass calibration](../../02_Zettel/Theory/interf/Bandpass calibration.md), [Flux calibration](../../02_Zettel/Theory/interf/Flux calibration.md), [Phase referencing](../../02_Zettel/Theory/interf/Phase referencing.md), [Self-calibration](../../02_Zettel/Theory/interf/Self-calibration.md), [CLEAN algorithm](../../02_Zettel/Theory/interf/CLEAN algorithm.md)
+* parent moc: [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.html)
+* related zettels: [Calibration overview](../../02_Zettel/Theory/interf/Calibration overview.html), [Bandpass calibration](../../02_Zettel/Theory/interf/Bandpass calibration.html), [Flux calibration](../../02_Zettel/Theory/interf/Flux calibration.html), [Phase referencing](../../02_Zettel/Theory/interf/Phase referencing.html), [Self-calibration](../../02_Zettel/Theory/interf/Self-calibration.html), [CLEAN algorithm](../../02_Zettel/Theory/interf/CLEAN algorithm.html)

@@ -3,7 +3,7 @@ layout: default
 title: "Perturbations in an expanding universe"
 ---
 
-**linear perturbation theory** in an expanding background: how small density inhomogeneities evolve under gravity in FLRW cosmology. companion: [Linear evolution of perturbations in expanding universe](../../02_Zettel/Theory/Linear evolution of perturbations in expanding universe.md) for the existing detailed treatment.
+**linear perturbation theory** in an expanding background: how small density inhomogeneities evolve under gravity in FLRW cosmology. companion: [Linear evolution of perturbations in expanding universe](../../02_Zettel/Theory/Linear evolution of perturbations in expanding universe.html) for the existing detailed treatment.
 
 ## the setup
 
@@ -51,7 +51,7 @@ $$\lambda_J = c_s\sqrt{\pi/(G\bar\rho)}$$
 
 scales **smaller** than $\lambda_J$ are pressure-supported (stable). scales **larger** than $\lambda_J$ collapse gravitationally.
 
-in the expanding universe, the Jeans length is modified by Hubble drag. see [Jeans analysis in expanding universe](../../02_Zettel/Theory/Jeans analysis in expanding universe.md).
+in the expanding universe, the Jeans length is modified by Hubble drag. see [Jeans analysis in expanding universe](../../02_Zettel/Theory/Jeans analysis in expanding universe.html).
 
 ## the matter era growth
 
@@ -104,12 +104,12 @@ so the universe transitions from linear to non-linear over cosmic history.
 
 ## see also
 
-- [Linear evolution of perturbations in expanding universe](../../02_Zettel/Theory/Linear evolution of perturbations in expanding universe.md)
-- [Cosmological evolution of perturbations in the cosmic fluid](../../02_Zettel/Theory/Cosmological evolution of perturbations in the cosmic fluid.md)
-- [Jeans analysis in expanding universe](../../02_Zettel/Theory/Jeans analysis in expanding universe.md)
+- [Linear evolution of perturbations in expanding universe](../../02_Zettel/Theory/Linear evolution of perturbations in expanding universe.html)
+- [Cosmological evolution of perturbations in the cosmic fluid](../../02_Zettel/Theory/Cosmological evolution of perturbations in the cosmic fluid.html)
+- [Jeans analysis in expanding universe](../../02_Zettel/Theory/Jeans analysis in expanding universe.html)
 - [Growth factor D(z)](../../02_Zettel/Theory/Growth factor D(z).md)
-- [Linear vs nonlinear regime](../../02_Zettel/Theory/Linear vs nonlinear regime.md)
-- [Spherical collapse](../../02_Zettel/Theory/Spherical collapse.md)
-- [Matter power spectrum and BAO](../../02_Zettel/Theory/Matter power spectrum and BAO.md)
-- [Matter radiation equality](../../02_Zettel/Theory/Matter radiation equality.md)
-- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md)
+- [Linear vs nonlinear regime](../../02_Zettel/Theory/Linear vs nonlinear regime.html)
+- [Spherical collapse](../../02_Zettel/Theory/Spherical collapse.html)
+- [Matter power spectrum and BAO](../../02_Zettel/Theory/Matter power spectrum and BAO.html)
+- [Matter radiation equality](../../02_Zettel/Theory/Matter radiation equality.html)
+- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html)

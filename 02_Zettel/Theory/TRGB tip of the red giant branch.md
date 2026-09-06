@@ -48,10 +48,10 @@ JWST is now resolving TRGB stars in galaxies hosting SN Ia, providing the cleane
 
 ## see also
 
-- [Cepheid period-luminosity relation](../../02_Zettel/Theory/Cepheid period-luminosity relation.md)
-- [Variable stars as standard candles](../../02_Zettel/Theory/Variable stars as standard candles.md)
-- [Type Ia supernovae as standard candles](../../02_Zettel/Theory/Type Ia supernovae as standard candles.md)
-- [Distance ladder derivations](../../02_Zettel/Theory/Distance ladder derivations.md)
-- [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.md)
-- [HR diagram](../../02_Zettel/Theory/HR diagram.md)
-- [Hubble flow distances](../../02_Zettel/Theory/Hubble flow distances.md)
+- [Cepheid period-luminosity relation](../../02_Zettel/Theory/Cepheid period-luminosity relation.html)
+- [Variable stars as standard candles](../../02_Zettel/Theory/Variable stars as standard candles.html)
+- [Type Ia supernovae as standard candles](../../02_Zettel/Theory/Type Ia supernovae as standard candles.html)
+- [Distance ladder derivations](../../02_Zettel/Theory/Distance ladder derivations.html)
+- [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.html)
+- [HR diagram](../../02_Zettel/Theory/HR diagram.html)
+- [Hubble flow distances](../../02_Zettel/Theory/Hubble flow distances.html)

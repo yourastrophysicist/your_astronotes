@@ -141,7 +141,7 @@ for a one-chapter introduction in a numerical methods course, iris is exactly ri
 
 ## see also
 
-- [Decision tree classifier](../../02_Zettel/Theory/Decision tree classifier.md)
-- [What is machine learning](../../02_Zettel/Theory/What is machine learning.md)
-- [Interpretability vs accuracy in ML](../../02_Zettel/Theory/Interpretability vs accuracy in ML.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Decision tree classifier](../../02_Zettel/Theory/Decision tree classifier.html)
+- [What is machine learning](../../02_Zettel/Theory/What is machine learning.html)
+- [Interpretability vs accuracy in ML](../../02_Zettel/Theory/Interpretability vs accuracy in ML.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

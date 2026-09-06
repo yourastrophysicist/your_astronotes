@@ -4,7 +4,7 @@ name: Extended main sequence turn-off eMSTO
 description: broadened MS turn-off in 1-2 Gyr LMC + SMC + MW clusters, originally interpreted as age spread, now mainly attributed to stellar rotation
 ---
 
-the **extended main sequence turn-off (eMSTO) phenomenon** is the discovery that intermediate-age ($\sim 1$-$2$ Gyr) star clusters in the LMC + SMC + MW show a broadened MS turn-off region, much wider than expected for a [simple stellar population](../../02_Zettel/Theory/Single stellar population SSP.md) of the same age. the TO width $\Delta V \sim 0.1$-$0.3$ mag is well-resolved with HST + JWST.
+the **extended main sequence turn-off (eMSTO) phenomenon** is the discovery that intermediate-age ($\sim 1$-$2$ Gyr) star clusters in the LMC + SMC + MW show a broadened MS turn-off region, much wider than expected for a [simple stellar population](../../02_Zettel/Theory/Single stellar population SSP.html) of the same age. the TO width $\Delta V \sim 0.1$-$0.3$ mag is well-resolved with HST + JWST.
 
 ![L18_p05_eMSTO_phenomenon-05](../../assets/images/L18_p05_eMSTO_phenomenon-05.png)
 
@@ -50,7 +50,7 @@ at younger ages, all stars are too hot/massive for rotational mixing to differen
 
 an active question: **are eMSTO clusters the present-day analogues of what old GCs looked like at $\sim 1$-$2$ Gyr after formation?**
 
-- old GCs show [Na-O anti-correlation](../../02_Zettel/Theory/Multiple populations in GCs discovery.md) + helium spread + chromosome maps;
+- old GCs show [Na-O anti-correlation](../../02_Zettel/Theory/Multiple populations in GCs discovery.html) + helium spread + chromosome maps;
 - young eMSTO clusters do NOT show clear chemical anomalies (yet);
 - but eMSTO + young split MS share the structural signature: **a single SSP cannot explain the CMD**.
 
@@ -79,12 +79,12 @@ eMSTO is one of the **central open problems** of the course:
 
 ## see also
 
-- [Origin of eMSTO age spread or rotation](../../02_Zettel/Theory/Origin of eMSTO age spread or rotation.md)
-- [Stellar rotation effects on CMD](../../02_Zettel/Theory/Stellar rotation effects on CMD.md)
-- [Splitting of the upper MS in young clusters](../../02_Zettel/Theory/Splitting of the upper MS in young clusters.md)
-- [eMSTO and multiple populations connection](../../02_Zettel/Theory/eMSTO and multiple populations connection.md)
-- [Multiple populations in GCs discovery](../../02_Zettel/Theory/Multiple populations in GCs discovery.md)
-- [Helium spread in GCs](../../02_Zettel/Theory/Helium spread in GCs.md)
-- [Single stellar population SSP](../../02_Zettel/Theory/Single stellar population SSP.md)
-- [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.md)
-- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.md)
+- [Origin of eMSTO age spread or rotation](../../02_Zettel/Theory/Origin of eMSTO age spread or rotation.html)
+- [Stellar rotation effects on CMD](../../02_Zettel/Theory/Stellar rotation effects on CMD.html)
+- [Splitting of the upper MS in young clusters](../../02_Zettel/Theory/Splitting of the upper MS in young clusters.html)
+- [eMSTO and multiple populations connection](../../02_Zettel/Theory/eMSTO and multiple populations connection.html)
+- [Multiple populations in GCs discovery](../../02_Zettel/Theory/Multiple populations in GCs discovery.html)
+- [Helium spread in GCs](../../02_Zettel/Theory/Helium spread in GCs.html)
+- [Single stellar population SSP](../../02_Zettel/Theory/Single stellar population SSP.html)
+- [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.html)
+- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.html)

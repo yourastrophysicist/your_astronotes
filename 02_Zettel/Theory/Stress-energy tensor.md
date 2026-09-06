@@ -64,7 +64,7 @@ $$\rho \propto a^{-3(1+w)}$$
 - radiation: $\rho \propto a^{-4}$.
 - dark energy: $\rho = $ const.
 
-see [Continuity equation](../../02_Zettel/Theory/Continuity equation.md) and [Equation of state and density scaling](../../02_Zettel/Theory/Equation of state and density scaling.md).
+see [Continuity equation](../../02_Zettel/Theory/Continuity equation.html) and [Equation of state and density scaling](../../02_Zettel/Theory/Equation of state and density scaling.html).
 
 ## Newtonian limit
 
@@ -72,12 +72,12 @@ in the weak-field, slow-motion limit, $T^{00} \to \rho c^2$ (mass-energy density
 
 ## see also
 
-- [Einstein equations](../../02_Zettel/Theory/Einstein equations.md)
-- [Einstein tensor and Bianchi](../../02_Zettel/Theory/Einstein tensor and Bianchi.md)
-- [Continuity equation](../../02_Zettel/Theory/Continuity equation.md)
-- [Equation of state and density scaling](../../02_Zettel/Theory/Equation of state and density scaling.md)
-- [Cosmological constant](../../02_Zettel/Theory/Cosmological constant.md)
-- [Newtonian limit of GR](../../02_Zettel/Theory/Newtonian limit of GR.md)
-- [Friedmann equations](../../02_Zettel/Theory/Friedmann equations.md)
-- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.md)
-- [Ch 5 - The Einstein Equation](../../01_Literature/Book/Baumann GR/Ch 5 - The Einstein Equation.md)
+- [Einstein equations](../../02_Zettel/Theory/Einstein equations.html)
+- [Einstein tensor and Bianchi](../../02_Zettel/Theory/Einstein tensor and Bianchi.html)
+- [Continuity equation](../../02_Zettel/Theory/Continuity equation.html)
+- [Equation of state and density scaling](../../02_Zettel/Theory/Equation of state and density scaling.html)
+- [Cosmological constant](../../02_Zettel/Theory/Cosmological constant.html)
+- [Newtonian limit of GR](../../02_Zettel/Theory/Newtonian limit of GR.html)
+- [Friedmann equations](../../02_Zettel/Theory/Friedmann equations.html)
+- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.html)
+- [Ch 5 - The Einstein Equation](../../01_Literature/Book/Baumann GR/Ch 5 - The Einstein Equation.html)

@@ -75,12 +75,12 @@ so the peak positions encode the sound horizon at recombination (a known scale),
 ## see also
 
 - CMB — discovery and blackbody spectrum
-- [CMB anisotropies](../../02_Zettel/Theory/CMB anisotropies.md)
-- [Polarization E and B modes](../../02_Zettel/Theory/Polarization E and B modes.md)
-- [Photon decoupling and CMB](../../02_Zettel/Theory/Photon decoupling and CMB.md)
-- [Saha equation and recombination](../../02_Zettel/Theory/Saha equation and recombination.md)
-- [Linear evolution of perturbations in expanding universe](../../02_Zettel/Theory/Linear evolution of perturbations in expanding universe.md)
-- [ΛCDM current parameters](../../02_Zettel/Theory/ΛCDM current parameters.md)
-- [Inflation overview](../../02_Zettel/Theory/Inflation overview.md)
-- [Matter power spectrum and BAO](../../02_Zettel/Theory/Matter power spectrum and BAO.md)
-- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md)
+- [CMB anisotropies](../../02_Zettel/Theory/CMB anisotropies.html)
+- [Polarization E and B modes](../../02_Zettel/Theory/Polarization E and B modes.html)
+- [Photon decoupling and CMB](../../02_Zettel/Theory/Photon decoupling and CMB.html)
+- [Saha equation and recombination](../../02_Zettel/Theory/Saha equation and recombination.html)
+- [Linear evolution of perturbations in expanding universe](../../02_Zettel/Theory/Linear evolution of perturbations in expanding universe.html)
+- [ΛCDM current parameters](../../02_Zettel/Theory/ΛCDM current parameters.html)
+- [Inflation overview](../../02_Zettel/Theory/Inflation overview.html)
+- [Matter power spectrum and BAO](../../02_Zettel/Theory/Matter power spectrum and BAO.html)
+- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html)

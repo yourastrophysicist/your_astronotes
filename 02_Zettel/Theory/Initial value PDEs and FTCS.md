@@ -37,7 +37,7 @@ FTCS for diffusion is **conditionally stable**: stable iff
 
 $$\alpha = \frac{D \Delta t}{\Delta x^2} \leq \frac{1}{2}$$
 
-so $\Delta t \leq \Delta x^2/(2D)$. this is the diffusion CFL condition. **violating it makes the simulation blow up exponentially** — the solution oscillates with growing amplitude. see [Stability and the Courant condition](../../02_Zettel/Theory/Stability and the Courant condition.md) for a fuller discussion.
+so $\Delta t \leq \Delta x^2/(2D)$. this is the diffusion CFL condition. **violating it makes the simulation blow up exponentially** — the solution oscillates with growing amplitude. see [Stability and the Courant condition](../../02_Zettel/Theory/Stability and the Courant condition.html) for a fuller discussion.
 
 for advection, FTCS is **unconditionally unstable** — even with arbitrarily small $\Delta t$ it grows. for hyperbolic problems we need upwind or Lax-Wendroff schemes instead.
 
@@ -98,8 +98,8 @@ FTCS is the conceptual key to the rest of computational PDE work:
 
 ## see also
 
-- [Finite difference discretization](../../02_Zettel/Theory/Finite difference discretization.md)
-- [Stability and the Courant condition](../../02_Zettel/Theory/Stability and the Courant condition.md)
-- [Boundary value PDEs and iteration](../../02_Zettel/Theory/Boundary value PDEs and iteration.md)
-- [Forward backward and central differences](../../02_Zettel/Theory/Forward backward and central differences.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Finite difference discretization](../../02_Zettel/Theory/Finite difference discretization.html)
+- [Stability and the Courant condition](../../02_Zettel/Theory/Stability and the Courant condition.html)
+- [Boundary value PDEs and iteration](../../02_Zettel/Theory/Boundary value PDEs and iteration.html)
+- [Forward backward and central differences](../../02_Zettel/Theory/Forward backward and central differences.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

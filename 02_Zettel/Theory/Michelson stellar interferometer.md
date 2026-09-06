@@ -92,8 +92,8 @@ Modern optical interferometers overcome these limits by adding:
 
 ## see also
 
-- [Young experiment as a stellar interferometer](../../02_Zettel/Theory/interf/Young experiment as a stellar interferometer.md)
-- [Radio telescope components](../../02_Zettel/Theory/Radio telescope components.md)
-- [Heterodyne vs direct detection](../../02_Zettel/Theory/interf/Heterodyne vs direct detection.md)
-- [Stellar diameters and limb darkening](../../02_Zettel/Theory/interf/Stellar diameters and limb darkening.md)
-- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Young experiment as a stellar interferometer](../../02_Zettel/Theory/interf/Young experiment as a stellar interferometer.html)
+- [Radio telescope components](../../02_Zettel/Theory/Radio telescope components.html)
+- [Heterodyne vs direct detection](../../02_Zettel/Theory/interf/Heterodyne vs direct detection.html)
+- [Stellar diameters and limb darkening](../../02_Zettel/Theory/interf/Stellar diameters and limb darkening.html)
+- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.html)

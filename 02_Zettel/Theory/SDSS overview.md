@@ -32,7 +32,7 @@ photometric magnitudes are in the **AB system**: $m_{AB} = -2.5\log_{10}(F_\nu/3
 per galaxy, SDSS provides:
 - **PSF magnitudes** $m^{\rm PSF}$: best for stars/point sources.
 - **model magnitudes** $m^{\rm model}$: best for galaxies (fits a galaxy model).
-- **Petrosian magnitudes** $m^{\rm petro}$: aperture-based, robust to profile shape. see [Petrosian radius](../../02_Zettel/Theory/Petrosian radius.md).
+- **Petrosian magnitudes** $m^{\rm petro}$: aperture-based, robust to profile shape. see [Petrosian radius](../../02_Zettel/Theory/Petrosian radius.html).
 - **Petrosian half-light radius** $r_{50}$ + $r_{90}$ (radii enclosing 50% and 90% of Petrosian flux).
 - **concentration index** $C = r_{90}/r_{50}$. proxy for morphology: $C \gtrsim 2.6$ = early-type, $C \lesssim 2.6$ = late-type.
 
@@ -67,12 +67,12 @@ among the most-cited results:
 
 ## see also
 
-- [Galaxy spectroscopy by type](../../02_Zettel/Theory/Galaxy spectroscopy by type.md)
-- [Petrosian radius](../../02_Zettel/Theory/Petrosian radius.md)
-- [Survey resources for Obs Astro](../../02_Zettel/Theory/Survey resources for Obs Astro.md)
-- [Photometric redshifts](../../02_Zettel/Theory/Photometric redshifts.md)
-- [Color bimodality of galaxies](../../02_Zettel/Theory/Color bimodality of galaxies.md)
-- [Multi-object spectroscopy MOS](../../02_Zettel/Theory/Multi-object spectroscopy MOS.md)
-- [Integral-field spectroscopy IFU](../../02_Zettel/Theory/Integral-field spectroscopy IFU.md)
-- [BPT diagram](../../02_Zettel/Theory/BPT diagram.md)
-- [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.md)
+- [Galaxy spectroscopy by type](../../02_Zettel/Theory/Galaxy spectroscopy by type.html)
+- [Petrosian radius](../../02_Zettel/Theory/Petrosian radius.html)
+- [Survey resources for Obs Astro](../../02_Zettel/Theory/Survey resources for Obs Astro.html)
+- [Photometric redshifts](../../02_Zettel/Theory/Photometric redshifts.html)
+- [Color bimodality of galaxies](../../02_Zettel/Theory/Color bimodality of galaxies.html)
+- [Multi-object spectroscopy MOS](../../02_Zettel/Theory/Multi-object spectroscopy MOS.html)
+- [Integral-field spectroscopy IFU](../../02_Zettel/Theory/Integral-field spectroscopy IFU.html)
+- [BPT diagram](../../02_Zettel/Theory/BPT diagram.html)
+- [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.html)

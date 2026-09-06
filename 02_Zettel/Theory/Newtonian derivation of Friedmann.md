@@ -3,7 +3,7 @@ layout: default
 title: "Newtonian derivation of Friedmann"
 ---
 
-a **Newtonian-only argument** that gives the same Friedmann equation as full GR. uses a uniform self-gravitating sphere + energy conservation. the standard pedagogical introduction. companion: [Newtonian Friedmann derivation](../../02_Zettel/Theory/Newtonian Friedmann derivation.md) for the explicit physics.
+a **Newtonian-only argument** that gives the same Friedmann equation as full GR. uses a uniform self-gravitating sphere + energy conservation. the standard pedagogical introduction. companion: [Newtonian Friedmann derivation](../../02_Zettel/Theory/Newtonian Friedmann derivation.html) for the explicit physics.
 
 ## the setup
 
@@ -59,12 +59,12 @@ historically: Friedmann (1922) derived these equations from GR. McCrea + Milne (
 
 ## see also
 
-- [Newtonian Friedmann derivation](../../02_Zettel/Theory/Newtonian Friedmann derivation.md)
-- [Friedmann equations](../../02_Zettel/Theory/Friedmann equations.md)
+- [Newtonian Friedmann derivation](../../02_Zettel/Theory/Newtonian Friedmann derivation.html)
+- [Friedmann equations](../../02_Zettel/Theory/Friedmann equations.html)
 - Friedmann equations with Λ
-- [Friedmann models](../../02_Zettel/Theory/Friedmann models.md)
-- [Spatial curvature parameter k](../../02_Zettel/Theory/Spatial curvature parameter k.md)
-- [Cosmological principle](../../02_Zettel/Theory/Cosmological principle.md)
-- [Density parameters](../../02_Zettel/Theory/Density parameters.md)
+- [Friedmann models](../../02_Zettel/Theory/Friedmann models.html)
+- [Spatial curvature parameter k](../../02_Zettel/Theory/Spatial curvature parameter k.html)
+- [Cosmological principle](../../02_Zettel/Theory/Cosmological principle.html)
+- [Density parameters](../../02_Zettel/Theory/Density parameters.html)
 - Q18 - derive the acceleration equation
-- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md)
+- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html)

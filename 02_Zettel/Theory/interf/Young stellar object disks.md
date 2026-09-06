@@ -107,8 +107,8 @@ YSO surveys often combine both: ALMA for outer-disk gas/dust, VLTI/CHARA for inn
 
 ## see also
 
-- [VLTI Very Large Telescope Interferometer](../../../02_Zettel/Theory/interf/VLTI Very Large Telescope Interferometer.md)
-- [Stellar surface imaging](../../../02_Zettel/Theory/interf/Stellar surface imaging.md)
-- [Dust shells and Wolf-Rayet stars](../../../02_Zettel/Theory/interf/Dust shells and Wolf-Rayet stars.md)
-- [Major radio interferometers](../../../02_Zettel/Theory/interf/Major radio interferometers.md)
-- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [VLTI Very Large Telescope Interferometer](../../../02_Zettel/Theory/interf/VLTI Very Large Telescope Interferometer.html)
+- [Stellar surface imaging](../../../02_Zettel/Theory/interf/Stellar surface imaging.html)
+- [Dust shells and Wolf-Rayet stars](../../../02_Zettel/Theory/interf/Dust shells and Wolf-Rayet stars.html)
+- [Major radio interferometers](../../../02_Zettel/Theory/interf/Major radio interferometers.html)
+- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.html)

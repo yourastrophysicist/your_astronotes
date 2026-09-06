@@ -61,7 +61,7 @@ this is the heart of why **BBN is one of the three observational pillars** of th
 2. the **CMB blackbody** (universe was hot)
 3. **BBN** (universe at $T \sim 1$ MeV produced the observed light element abundances)
 
-→ see [Cosmic_inventory_overview](../../02_Zettel/Theory/Cosmic_inventory_overview.md).
+→ see [Cosmic_inventory_overview](../../02_Zettel/Theory/Cosmic_inventory_overview.html).
 
 if any of these three were inconsistent with each other, our cosmological model would have problems. they are all consistent.
 
@@ -74,17 +74,17 @@ the one outstanding tension is in $^7$Li. CMB-anchored $\eta$ predicts $^7$Li/H 
 - uncertainties in the cross-sections for the reactions producing/destroying $^7$Li
 - new physics (e.g. exotic dark matter relics, late-decaying particles)
 
-this remains an active area of research. but unlike the Hubble tension or the dark energy problem, the lithium problem has not yet forced any major revision of the standard cosmological model. → see [BBN_observations](../../02_Zettel/Theory/BBN_observations.md).
+this remains an active area of research. but unlike the Hubble tension or the dark energy problem, the lithium problem has not yet forced any major revision of the standard cosmological model. → see [BBN_observations](../../02_Zettel/Theory/BBN_observations.html).
 
 ---
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [BBN_overview](../../02_Zettel/Theory/BBN_overview.md)
-- [BBN_observations](../../02_Zettel/Theory/BBN_observations.md)
-- [BBN_predictions](../../02_Zettel/Theory/BBN_predictions.md)
-- [BBN_baryon_to_photon_ratio](../../02_Zettel/Theory/BBN_baryon_to_photon_ratio.md)
-- [Cosmic_inventory_baryons](../../02_Zettel/Theory/Cosmic_inventory_baryons.md)
-- [Cosmic_inventory_photons](../../02_Zettel/Theory/Cosmic_inventory_photons.md)
-- [Cosmic_inventory_overview](../../02_Zettel/Theory/Cosmic_inventory_overview.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [BBN_overview](../../02_Zettel/Theory/BBN_overview.html)
+- [BBN_observations](../../02_Zettel/Theory/BBN_observations.html)
+- [BBN_predictions](../../02_Zettel/Theory/BBN_predictions.html)
+- [BBN_baryon_to_photon_ratio](../../02_Zettel/Theory/BBN_baryon_to_photon_ratio.html)
+- [Cosmic_inventory_baryons](../../02_Zettel/Theory/Cosmic_inventory_baryons.html)
+- [Cosmic_inventory_photons](../../02_Zettel/Theory/Cosmic_inventory_photons.html)
+- [Cosmic_inventory_overview](../../02_Zettel/Theory/Cosmic_inventory_overview.html)

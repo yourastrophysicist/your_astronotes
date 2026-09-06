@@ -104,8 +104,8 @@ for symmetric matrices, none of these troubles occur. **always check symmetry be
 
 ## see also
 
-- [QR algorithm for eigenvalues](../../02_Zettel/Theory/QR algorithm for eigenvalues.md)
-- [QR decomposition](../../02_Zettel/Theory/QR decomposition.md)
-- [Gram-Schmidt orthogonalization](../../02_Zettel/Theory/Gram-Schmidt orthogonalization.md)
-- [Power iteration](../../02_Zettel/Theory/Power iteration.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [QR algorithm for eigenvalues](../../02_Zettel/Theory/QR algorithm for eigenvalues.html)
+- [QR decomposition](../../02_Zettel/Theory/QR decomposition.html)
+- [Gram-Schmidt orthogonalization](../../02_Zettel/Theory/Gram-Schmidt orthogonalization.html)
+- [Power iteration](../../02_Zettel/Theory/Power iteration.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

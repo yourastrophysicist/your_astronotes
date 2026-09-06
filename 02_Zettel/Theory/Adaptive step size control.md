@@ -38,7 +38,7 @@ example: **Dormand-Prince RK45**, used in `scipy.integrate.solve_ivp` (`method='
 
 ### 3. predictor-corrector mismatch
 
-multistep methods (e.g. Adams-Bashforth-Moulton) do a "predictor" step then a "corrector" step. their difference is the error estimate. used in [Fourth-order Hermite predictor-corrector](../../02_Zettel/Theory/Fourth-order Hermite predictor-corrector.md) for collisional N-body.
+multistep methods (e.g. Adams-Bashforth-Moulton) do a "predictor" step then a "corrector" step. their difference is the error estimate. used in [Fourth-order Hermite predictor-corrector](../../02_Zettel/Theory/Fourth-order Hermite predictor-corrector.html) for collisional N-body.
 
 ## the step size update rule
 
@@ -86,7 +86,7 @@ sol = solve_ivp(f, t_span=(0, 100), y0=[1, 0],
 - **close encounters in N-body**: the timestep needed during a close approach is $10^4 \times$ smaller than during smooth motion. fixed-step is infeasible
 - **stiff problems**: the timestep needed for stability is much smaller than for accuracy; adaptive control catches this automatically
 - **shock formation in PDEs**: gradients sharpen, $h$ must follow
-- **Bulirsch-Stoer**: built around adaptivity, see [Bulirsch-Stoer extrapolation](../../02_Zettel/Theory/Bulirsch-Stoer extrapolation.md)
+- **Bulirsch-Stoer**: built around adaptivity, see [Bulirsch-Stoer extrapolation](../../02_Zettel/Theory/Bulirsch-Stoer extrapolation.html)
 
 ## the diagnostic: how to see adaptivity working
 
@@ -99,8 +99,8 @@ this is also a useful sanity check: if $h$ is constant throughout, adaptivity is
 
 ## see also
 
-- [Runge-Kutta 4 method](../../02_Zettel/Theory/Runge-Kutta 4 method.md)
-- [Bulirsch-Stoer extrapolation](../../02_Zettel/Theory/Bulirsch-Stoer extrapolation.md)
-- [Fourth-order Hermite predictor-corrector](../../02_Zettel/Theory/Fourth-order Hermite predictor-corrector.md)
-- [Astrophysical N-body problem formulation](../../02_Zettel/Theory/Astrophysical N-body problem formulation.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Runge-Kutta 4 method](../../02_Zettel/Theory/Runge-Kutta 4 method.html)
+- [Bulirsch-Stoer extrapolation](../../02_Zettel/Theory/Bulirsch-Stoer extrapolation.html)
+- [Fourth-order Hermite predictor-corrector](../../02_Zettel/Theory/Fourth-order Hermite predictor-corrector.html)
+- [Astrophysical N-body problem formulation](../../02_Zettel/Theory/Astrophysical N-body problem formulation.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

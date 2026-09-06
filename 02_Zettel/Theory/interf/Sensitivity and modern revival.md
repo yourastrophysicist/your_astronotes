@@ -97,8 +97,8 @@ three lessons from the modern revival:
 
 ## see also
 
-- [Intensity interferometry concept](../../../02_Zettel/Theory/interf/Intensity interferometry concept.md)
-- [Hanbury Brown Twiss effect](../../../02_Zettel/Theory/interf/Hanbury Brown Twiss effect.md)
-- [Narrabri stellar interferometer](../../../02_Zettel/Theory/interf/Narrabri stellar interferometer.md)
-- [Why intensity interferometry escapes atmospheric phase](../../../02_Zettel/Theory/interf/Why intensity interferometry escapes atmospheric phase.md)
-- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Intensity interferometry concept](../../../02_Zettel/Theory/interf/Intensity interferometry concept.html)
+- [Hanbury Brown Twiss effect](../../../02_Zettel/Theory/interf/Hanbury Brown Twiss effect.html)
+- [Narrabri stellar interferometer](../../../02_Zettel/Theory/interf/Narrabri stellar interferometer.html)
+- [Why intensity interferometry escapes atmospheric phase](../../../02_Zettel/Theory/interf/Why intensity interferometry escapes atmospheric phase.html)
+- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.html)

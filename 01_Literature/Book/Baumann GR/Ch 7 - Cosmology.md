@@ -5,7 +5,7 @@ title: "Ch 7 - Cosmology"
 
 # Baumann Ch 7, Cosmology
 
-up: [Baumann GR](../../../01_Literature/Book/Baumann GR/Baumann GR.md) · [General_Relativity_MOC](../../../00_Atlas/General_Relativity_MOC.md)
+up: [Baumann GR](../../../01_Literature/Book/Baumann GR/Baumann GR.html) · [General_Relativity_MOC](../../../00_Atlas/General_Relativity_MOC.html)
 
 *the chapter where Einstein's equations meet the universe. starting from the cosmological principle (homogeneity + isotropy), we derive the FLRW metric, plug it into Einstein's equation, and read off the Friedmann equations that govern cosmic evolution. then we compare to observation: what is the universe actually made of?*
 
@@ -221,11 +221,11 @@ if i had to compress chapter 7 into a paragraph for the oral:
 
 ## connections
 
-- [General_Relativity_MOC](../../../00_Atlas/General_Relativity_MOC.md)
-- [Baumann GR](../../../01_Literature/Book/Baumann GR/Baumann GR.md)
-- [FLRW metric](../../../02_Zettel/Theory/FLRW metric.md) · [Cosmological principle](../../../02_Zettel/Theory/Cosmological principle.md) · [Friedmann equations](../../../02_Zettel/Theory/Friedmann equations.md) · [Continuity equation](../../../02_Zettel/Theory/Continuity equation.md) · [Equation of state and density scaling](../../../02_Zettel/Theory/Equation of state and density scaling.md) · [Cosmic eras](../../../02_Zettel/Theory/Cosmic eras.md) · [Matter radiation equality](../../../02_Zettel/Theory/Matter radiation equality.md) · [Cosmological constant](../../../02_Zettel/Theory/Cosmological constant.md)
+- [General_Relativity_MOC](../../../00_Atlas/General_Relativity_MOC.html)
+- [Baumann GR](../../../01_Literature/Book/Baumann GR/Baumann GR.html)
+- [FLRW metric](../../../02_Zettel/Theory/FLRW metric.html) · [Cosmological principle](../../../02_Zettel/Theory/Cosmological principle.html) · [Friedmann equations](../../../02_Zettel/Theory/Friedmann equations.html) · [Continuity equation](../../../02_Zettel/Theory/Continuity equation.html) · [Equation of state and density scaling](../../../02_Zettel/Theory/Equation of state and density scaling.html) · [Cosmic eras](../../../02_Zettel/Theory/Cosmic eras.html) · [Matter radiation equality](../../../02_Zettel/Theory/Matter radiation equality.html) · [Cosmological constant](../../../02_Zettel/Theory/Cosmological constant.html)
 - Q18 - derive the acceleration equation · Q19 - radiation universe · Q20 - matter plus radiation universe
-- [Observational_Cosmology_MOC](../../../00_Atlas/Observational_Cosmology_MOC.md) (the observational counterpart)
-- [ΛCDM current parameters](../../../02_Zettel/Theory/ΛCDM current parameters.md)
-- previous: [Ch 6 - Black Holes](../../../01_Literature/Book/Baumann GR/Ch 6 - Black Holes.md)
-- next: [Ch 8 - Gravitational Waves](../../../01_Literature/Book/Baumann GR/Ch 8 - Gravitational Waves.md)
+- [Observational_Cosmology_MOC](../../../00_Atlas/Observational_Cosmology_MOC.html) (the observational counterpart)
+- [ΛCDM current parameters](../../../02_Zettel/Theory/ΛCDM current parameters.html)
+- previous: [Ch 6 - Black Holes](../../../01_Literature/Book/Baumann GR/Ch 6 - Black Holes.html)
+- next: [Ch 8 - Gravitational Waves](../../../01_Literature/Book/Baumann GR/Ch 8 - Gravitational Waves.html)

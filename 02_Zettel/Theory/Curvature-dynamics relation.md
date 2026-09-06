@@ -60,12 +60,12 @@ flat universe: $\ell_1 \approx 220$. open: smaller. closed: larger. Planck data 
 
 ## see also
 
-- [Spatial curvature parameter k](../../02_Zettel/Theory/Spatial curvature parameter k.md)
-- [Friedmann equations](../../02_Zettel/Theory/Friedmann equations.md)
-- [Density parameters](../../02_Zettel/Theory/Density parameters.md)
-- [ΛCDM current parameters](../../02_Zettel/Theory/ΛCDM current parameters.md)
-- [CMB power spectrum](../../02_Zettel/Theory/CMB power spectrum.md)
-- [Angular diameter distance](../../02_Zettel/Theory/Angular diameter distance.md)
-- [Inflation overview](../../02_Zettel/Theory/Inflation overview.md)
-- [Cosmological constant](../../02_Zettel/Theory/Cosmological constant.md)
-- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md)
+- [Spatial curvature parameter k](../../02_Zettel/Theory/Spatial curvature parameter k.html)
+- [Friedmann equations](../../02_Zettel/Theory/Friedmann equations.html)
+- [Density parameters](../../02_Zettel/Theory/Density parameters.html)
+- [ΛCDM current parameters](../../02_Zettel/Theory/ΛCDM current parameters.html)
+- [CMB power spectrum](../../02_Zettel/Theory/CMB power spectrum.html)
+- [Angular diameter distance](../../02_Zettel/Theory/Angular diameter distance.html)
+- [Inflation overview](../../02_Zettel/Theory/Inflation overview.html)
+- [Cosmological constant](../../02_Zettel/Theory/Cosmological constant.html)
+- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html)

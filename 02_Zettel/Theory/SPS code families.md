@@ -62,11 +62,11 @@ emerging as the standard for HII region modelling at high redshift (since binari
 
 ## see also
 
-- [Stellar population synthesis](../../02_Zettel/Theory/Stellar population synthesis.md)
-- [Single stellar population SSP](../../02_Zettel/Theory/Single stellar population SSP.md)
-- [Initial mass function](../../02_Zettel/Theory/Initial mass function.md)
-- [SED fitting basics](../../02_Zettel/Theory/SED fitting basics.md)
-- [Star formation history of a population](../../02_Zettel/Theory/Star formation history of a population.md)
-- [Stellar mass estimation in unresolved populations](../../02_Zettel/Theory/Stellar mass estimation in unresolved populations.md)
-- [UV SFR tracer](../../02_Zettel/Theory/UV SFR tracer.md)
-- [H-alpha SFR tracer](../../02_Zettel/Theory/H-alpha SFR tracer.md)
+- [Stellar population synthesis](../../02_Zettel/Theory/Stellar population synthesis.html)
+- [Single stellar population SSP](../../02_Zettel/Theory/Single stellar population SSP.html)
+- [Initial mass function](../../02_Zettel/Theory/Initial mass function.html)
+- [SED fitting basics](../../02_Zettel/Theory/SED fitting basics.html)
+- [Star formation history of a population](../../02_Zettel/Theory/Star formation history of a population.html)
+- [Stellar mass estimation in unresolved populations](../../02_Zettel/Theory/Stellar mass estimation in unresolved populations.html)
+- [UV SFR tracer](../../02_Zettel/Theory/UV SFR tracer.html)
+- [H-alpha SFR tracer](../../02_Zettel/Theory/H-alpha SFR tracer.html)

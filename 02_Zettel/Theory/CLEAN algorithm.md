@@ -121,8 +121,8 @@ source: S. T. Myers, NRAO Synthesis Imaging Summer School page on snapshot imagi
 
 ## see also
 
-- [Dirty beam and dirty image](../../02_Zettel/Theory/interf/Dirty beam and dirty image.md)
-- [Maximum entropy method](../../02_Zettel/Theory/Maximum entropy method.md)
-- [Self-calibration](../../02_Zettel/Theory/interf/Self-calibration.md)
-- [Imaging artifacts](../../02_Zettel/Theory/interf/Imaging artifacts.md)
-- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Dirty beam and dirty image](../../02_Zettel/Theory/interf/Dirty beam and dirty image.html)
+- [Maximum entropy method](../../02_Zettel/Theory/Maximum entropy method.html)
+- [Self-calibration](../../02_Zettel/Theory/interf/Self-calibration.html)
+- [Imaging artifacts](../../02_Zettel/Theory/interf/Imaging artifacts.html)
+- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.html)

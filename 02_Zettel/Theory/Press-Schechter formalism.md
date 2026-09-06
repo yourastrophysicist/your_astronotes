@@ -5,7 +5,7 @@ title: "Press-Schechter formalism"
 
 # press-schechter formalism
 
-up: [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md) · [Spherical collapse](../../02_Zettel/Theory/Spherical collapse.md) · [Linear vs nonlinear regime](../../02_Zettel/Theory/Linear vs nonlinear regime.md)
+up: [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html) · [Spherical collapse](../../02_Zettel/Theory/Spherical collapse.html) · [Linear vs nonlinear regime](../../02_Zettel/Theory/Linear vs nonlinear regime.html)
 
 ## the core premise
 
@@ -42,7 +42,7 @@ ight) \,}$$
 
 - **low-mass power law**: for $M \ll M^*(z)$ where $\sigma(M) \gg \delta_c$, the exponential is $\approx 1$, yielding a steep power law $dn/dM \propto M^{-2 + (n+3)/6}$.
 - **high-mass exponential cutoff**: for $M \gg M^*(z)$ where $\sigma(M) \ll \delta_c$, the exponential suppresses the number of massive halos.
-- **connection to the galaxy luminosity function**: the exponential cutoff in the halo mass function directly seeds the bright-end exponential cutoff in the [Schechter function](../../02_Zettel/Theory/Schechter function.md).
+- **connection to the galaxy luminosity function**: the exponential cutoff in the halo mass function directly seeds the bright-end exponential cutoff in the [Schechter function](../../02_Zettel/Theory/Schechter function.html).
 
 ## modern extensions
 
@@ -51,5 +51,5 @@ ight) \,}$$
 
 ## connections
 
-- linear collapse: [Spherical collapse](../../02_Zettel/Theory/Spherical collapse.md)
-- galaxy counterpart: [Schechter function](../../02_Zettel/Theory/Schechter function.md), [Integrals of the Schechter function](../../02_Zettel/Theory/Integrals of the Schechter function.md)
+- linear collapse: [Spherical collapse](../../02_Zettel/Theory/Spherical collapse.html)
+- galaxy counterpart: [Schechter function](../../02_Zettel/Theory/Schechter function.html), [Integrals of the Schechter function](../../02_Zettel/Theory/Integrals of the Schechter function.html)

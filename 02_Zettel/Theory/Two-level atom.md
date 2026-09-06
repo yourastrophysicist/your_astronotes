@@ -57,11 +57,11 @@ at high $n_e$: $j \propto n_1 A_{21} \propto n_e$, no $e^{-E/k_BT_e}$ in the sat
 
 if I take ratios of two transitions in the same atom with **different energy gaps**, the Boltzmann factor doesn't cancel:
 $$\frac{j_1}{j_2} \propto \frac{e^{-E_1/k_BT_e}}{e^{-E_2/k_BT_e}} = e^{-(E_1 - E_2)/k_BT_e}$$
-so the ratio is highly sensitive to $T_e$. this is the **temperature diagnostic** used by $[OIII]\,\lambda 4363/(\lambda 4959+5007)$ ([OIII forbidden lines](../../02_Zettel/Theory/OIII forbidden lines.md)).
+so the ratio is highly sensitive to $T_e$. this is the **temperature diagnostic** used by $[OIII]\,\lambda 4363/(\lambda 4959+5007)$ ([OIII forbidden lines](../../02_Zettel/Theory/OIII forbidden lines.html)).
 
 ### density diagnostics
 
-if I take ratios of two transitions from **different upper levels of the same multiplet** with very similar excitation energies but different $A_{21}$ and $q_{21}$, the Boltzmann factor cancels but the $n_e/n_c$ structure differs. this gives a **density diagnostic** like $[SII]\,\lambda 6716/\lambda 6731$ ([SII forbidden lines](../../02_Zettel/Theory/SII forbidden lines.md)).
+if I take ratios of two transitions from **different upper levels of the same multiplet** with very similar excitation energies but different $A_{21}$ and $q_{21}$, the Boltzmann factor cancels but the $n_e/n_c$ structure differs. this gives a **density diagnostic** like $[SII]\,\lambda 6716/\lambda 6731$ ([SII forbidden lines](../../02_Zettel/Theory/SII forbidden lines.html)).
 
 ## why forbidden lines are special
 
@@ -71,12 +71,12 @@ permitted lines have $n_c \sim 10^{14}$ cm$^{-3}$, so they're always in the low-
 
 ## see also
 
-- [Statistical equilibrium equations](../../02_Zettel/Theory/Statistical equilibrium equations.md)
-- [Critical density](../../02_Zettel/Theory/Critical density.md)
-- [Collisional excitation rate](../../02_Zettel/Theory/Collisional excitation rate.md)
-- [Forbidden lines](../../02_Zettel/Theory/Forbidden lines.md)
-- [OIII forbidden lines](../../02_Zettel/Theory/OIII forbidden lines.md)
-- [SII forbidden lines](../../02_Zettel/Theory/SII forbidden lines.md)
-- [Forbidden line diagnostics](../../02_Zettel/Theory/Forbidden line diagnostics.md)
-- [Spectroscopic Te diagnostics](../../02_Zettel/Theory/Spectroscopic Te diagnostics.md)
-- [Spectroscopic ne diagnostics](../../02_Zettel/Theory/Spectroscopic ne diagnostics.md)
+- [Statistical equilibrium equations](../../02_Zettel/Theory/Statistical equilibrium equations.html)
+- [Critical density](../../02_Zettel/Theory/Critical density.html)
+- [Collisional excitation rate](../../02_Zettel/Theory/Collisional excitation rate.html)
+- [Forbidden lines](../../02_Zettel/Theory/Forbidden lines.html)
+- [OIII forbidden lines](../../02_Zettel/Theory/OIII forbidden lines.html)
+- [SII forbidden lines](../../02_Zettel/Theory/SII forbidden lines.html)
+- [Forbidden line diagnostics](../../02_Zettel/Theory/Forbidden line diagnostics.html)
+- [Spectroscopic Te diagnostics](../../02_Zettel/Theory/Spectroscopic Te diagnostics.html)
+- [Spectroscopic ne diagnostics](../../02_Zettel/Theory/Spectroscopic ne diagnostics.html)

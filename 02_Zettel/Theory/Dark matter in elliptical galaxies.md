@@ -67,12 +67,12 @@ evidence: ATLAS3D dynamical $M_*/L$ vs SED-fitted $M_*/L$ shows discrepancies po
 
 ## see also
 
-- [Dark matter rotation curves](../../02_Zettel/Theory/Dark matter rotation curves.md)
-- [Dark matter in dwarf galaxies](../../02_Zettel/Theory/Dark matter in dwarf galaxies.md)
-- [Cosmic_inventory_dark_matter](../../02_Zettel/Theory/Cosmic_inventory_dark_matter.md)
-- [Galaxy clusters and overview of evolution](../../02_Zettel/Theory/Galaxy clusters and overview of evolution.md)
-- [LOSVD](../../02_Zettel/Theory/LOSVD.md)
-- [Stellar kinematics measurements](../../02_Zettel/Theory/Stellar kinematics measurements.md)
-- [Initial mass function](../../02_Zettel/Theory/Initial mass function.md)
-- [Lensing as a cosmological probe](../../02_Zettel/Theory/Lensing as a cosmological probe.md)
-- [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.md)
+- [Dark matter rotation curves](../../02_Zettel/Theory/Dark matter rotation curves.html)
+- [Dark matter in dwarf galaxies](../../02_Zettel/Theory/Dark matter in dwarf galaxies.html)
+- [Cosmic_inventory_dark_matter](../../02_Zettel/Theory/Cosmic_inventory_dark_matter.html)
+- [Galaxy clusters and overview of evolution](../../02_Zettel/Theory/Galaxy clusters and overview of evolution.html)
+- [LOSVD](../../02_Zettel/Theory/LOSVD.html)
+- [Stellar kinematics measurements](../../02_Zettel/Theory/Stellar kinematics measurements.html)
+- [Initial mass function](../../02_Zettel/Theory/Initial mass function.html)
+- [Lensing as a cosmological probe](../../02_Zettel/Theory/Lensing as a cosmological probe.html)
+- [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.html)

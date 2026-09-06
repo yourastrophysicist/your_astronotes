@@ -99,7 +99,7 @@ mean should be $\approx 0$, std $\approx 1$.
 
 ## see also
 
-- [Inverse transform sampling](../../02_Zettel/Theory/Inverse transform sampling.md) — the general method that fails for Gaussian
-- [Rejection sampling](../../02_Zettel/Theory/Rejection sampling.md)
-- [Pseudo-random number generators](../../02_Zettel/Theory/Pseudo-random number generators.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Inverse transform sampling](../../02_Zettel/Theory/Inverse transform sampling.html) — the general method that fails for Gaussian
+- [Rejection sampling](../../02_Zettel/Theory/Rejection sampling.html)
+- [Pseudo-random number generators](../../02_Zettel/Theory/Pseudo-random number generators.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

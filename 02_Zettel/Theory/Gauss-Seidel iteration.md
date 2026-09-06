@@ -74,7 +74,7 @@ if convergence is slow, try **successive over-relaxation (SOR)**: $x_i^{(k+1)} =
 
 ## astrophysics applications
 
-- **boundary-value PDEs** discretized on a grid: the resulting linear system is sparse (each grid point connects only to its neighbors) and Gauss-Seidel is the textbook method. see [Boundary value PDEs and iteration](../../02_Zettel/Theory/Boundary value PDEs and iteration.md)
+- **boundary-value PDEs** discretized on a grid: the resulting linear system is sparse (each grid point connects only to its neighbors) and Gauss-Seidel is the textbook method. see [Boundary value PDEs and iteration](../../02_Zettel/Theory/Boundary value PDEs and iteration.html)
 - **iterative refinement** of any direct-solver result, to clean up roundoff
 - **multigrid methods** use Gauss-Seidel as the "smoother" between coarse-grid corrections
 
@@ -89,8 +89,8 @@ if convergence is slow, try **successive over-relaxation (SOR)**: $x_i^{(k+1)} =
 
 ## see also
 
-- [Gauss elimination](../../02_Zettel/Theory/Gauss elimination.md)
-- [LU decomposition](../../02_Zettel/Theory/LU decomposition.md)
-- [Pros and cons of linear solvers](../../02_Zettel/Theory/Pros and cons of linear solvers.md)
-- [Boundary value PDEs and iteration](../../02_Zettel/Theory/Boundary value PDEs and iteration.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Gauss elimination](../../02_Zettel/Theory/Gauss elimination.html)
+- [LU decomposition](../../02_Zettel/Theory/LU decomposition.html)
+- [Pros and cons of linear solvers](../../02_Zettel/Theory/Pros and cons of linear solvers.html)
+- [Boundary value PDEs and iteration](../../02_Zettel/Theory/Boundary value PDEs and iteration.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

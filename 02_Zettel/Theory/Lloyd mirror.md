@@ -72,9 +72,9 @@ Lloyd's mirror has a modern descendant: in atomic physics, a "dipole mirror" ref
 
 ## see also
 
-- [Wavefront-division interferometers](../../02_Zettel/Theory/interf/Wavefront-division interferometers.md)
-- [Young experiment as a stellar interferometer](../../02_Zettel/Theory/interf/Young experiment as a stellar interferometer.md)
-- [Fresnel double mirror](../../02_Zettel/Theory/interf/Fresnel double mirror.md)
-- [Fresnel biprism](../../02_Zettel/Theory/interf/Fresnel biprism.md)
-- [Newton's rings](../../02_Zettel/Theory/interf/Newton's rings.md)
-- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Wavefront-division interferometers](../../02_Zettel/Theory/interf/Wavefront-division interferometers.html)
+- [Young experiment as a stellar interferometer](../../02_Zettel/Theory/interf/Young experiment as a stellar interferometer.html)
+- [Fresnel double mirror](../../02_Zettel/Theory/interf/Fresnel double mirror.html)
+- [Fresnel biprism](../../02_Zettel/Theory/interf/Fresnel biprism.html)
+- [Newton's rings](../../02_Zettel/Theory/interf/Newton's rings.html)
+- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.html)

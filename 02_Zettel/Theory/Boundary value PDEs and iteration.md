@@ -52,7 +52,7 @@ for i in range(1, N-1):
 
 converges in roughly half the iterations of Jacobi (the spectral radius of the iteration matrix is the square of Jacobi's). slightly harder to vectorize.
 
-see [Gauss-Seidel iteration](../../02_Zettel/Theory/Gauss-Seidel iteration.md) for the linear-algebra perspective.
+see [Gauss-Seidel iteration](../../02_Zettel/Theory/Gauss-Seidel iteration.html) for the linear-algebra perspective.
 
 ## SOR: even faster
 
@@ -60,7 +60,7 @@ successive over-relaxation. update the new value as
 
 $$\phi_{i,j}^{(k+1)} = (1 - \omega) \phi_{i,j}^{(k)} + \omega \cdot (\text{Gauss-Seidel update})$$
 
-with $\omega \in (1, 2)$. for a 2D Laplacian on $N \times N$ grid, optimal $\omega^* = 2/(1 + \sin(\pi/N))$, accelerating convergence by a factor $N$. see [Overrelaxation](../../02_Zettel/Theory/Overrelaxation.md).
+with $\omega \in (1, 2)$. for a 2D Laplacian on $N \times N$ grid, optimal $\omega^* = 2/(1 + \sin(\pi/N))$, accelerating convergence by a factor $N$. see [Overrelaxation](../../02_Zettel/Theory/Overrelaxation.html).
 
 ## the Poisson equation $\nabla^2 \phi = \rho$
 
@@ -104,9 +104,9 @@ every elliptic problem in computational astrophysics reduces to this iterative-r
 
 ## see also
 
-- [Finite difference discretization](../../02_Zettel/Theory/Finite difference discretization.md)
-- [Gauss-Seidel iteration](../../02_Zettel/Theory/Gauss-Seidel iteration.md)
-- [Overrelaxation](../../02_Zettel/Theory/Overrelaxation.md)
-- [Initial value PDEs and FTCS](../../02_Zettel/Theory/Initial value PDEs and FTCS.md)
-- [When to use implicit schemes](../../02_Zettel/Theory/When to use implicit schemes.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Finite difference discretization](../../02_Zettel/Theory/Finite difference discretization.html)
+- [Gauss-Seidel iteration](../../02_Zettel/Theory/Gauss-Seidel iteration.html)
+- [Overrelaxation](../../02_Zettel/Theory/Overrelaxation.html)
+- [Initial value PDEs and FTCS](../../02_Zettel/Theory/Initial value PDEs and FTCS.html)
+- [When to use implicit schemes](../../02_Zettel/Theory/When to use implicit schemes.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

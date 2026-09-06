@@ -43,17 +43,17 @@ natural broadening: $\sim 10^{-4}$ Å. so **Doppler broadening dominates** by a 
 
 ## natural + collisional = total Lorentzian
 
-natural broadening always coexists with **collisional (pressure) broadening** ([Collisional pressure broadening](../../02_Zettel/Theory/Collisional pressure broadening.md)), which is also Lorentzian. the total damping constant is:
+natural broadening always coexists with **collisional (pressure) broadening** ([Collisional pressure broadening](../../02_Zettel/Theory/Collisional pressure broadening.html)), which is also Lorentzian. the total damping constant is:
 $$\Gamma_{\rm total} = \gamma_{\rm nat} + \gamma_{\rm coll}$$
 
 at stellar densities, $\gamma_{\rm coll}$ usually exceeds $\gamma_{\rm nat}$ except for weak lines and tenuous regions. so observationally, "Lorentzian wings" usually mean collisional broadening + (small) natural contribution.
 
 ## see also
 
-- [Line profile function phi nu](../../02_Zettel/Theory/Line profile function phi nu.md)
-- [Voigt profile](../../02_Zettel/Theory/Voigt profile.md)
-- [Thermal Doppler broadening](../../02_Zettel/Theory/Thermal Doppler broadening.md)
-- [Collisional pressure broadening](../../02_Zettel/Theory/Collisional pressure broadening.md)
-- [Damping wings](../../02_Zettel/Theory/Damping wings.md)
-- [Curve of growth](../../02_Zettel/Theory/Curve of growth.md)
-- [Absorption coefficient and oscillator strength](../../02_Zettel/Theory/Absorption coefficient and oscillator strength.md)
+- [Line profile function phi nu](../../02_Zettel/Theory/Line profile function phi nu.html)
+- [Voigt profile](../../02_Zettel/Theory/Voigt profile.html)
+- [Thermal Doppler broadening](../../02_Zettel/Theory/Thermal Doppler broadening.html)
+- [Collisional pressure broadening](../../02_Zettel/Theory/Collisional pressure broadening.html)
+- [Damping wings](../../02_Zettel/Theory/Damping wings.html)
+- [Curve of growth](../../02_Zettel/Theory/Curve of growth.html)
+- [Absorption coefficient and oscillator strength](../../02_Zettel/Theory/Absorption coefficient and oscillator strength.html)

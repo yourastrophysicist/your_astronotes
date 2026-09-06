@@ -60,12 +60,12 @@ physical reason: the universe was compressed in time at early epochs. the first 
 
 ## see also
 
-- [Time-redshift relation](../../02_Zettel/Theory/Time-redshift relation.md)
-- [FLRW metric](../../02_Zettel/Theory/FLRW metric.md)
-- [Friedmann equations](../../02_Zettel/Theory/Friedmann equations.md)
-- [Cosmological redshift](../../02_Zettel/Theory/Cosmological redshift.md)
-- [Cosmic eras](../../02_Zettel/Theory/Cosmic eras.md)
-- [Brief thermal history](../../02_Zettel/Theory/Brief thermal history.md)
+- [Time-redshift relation](../../02_Zettel/Theory/Time-redshift relation.html)
+- [FLRW metric](../../02_Zettel/Theory/FLRW metric.html)
+- [Friedmann equations](../../02_Zettel/Theory/Friedmann equations.html)
+- [Cosmological redshift](../../02_Zettel/Theory/Cosmological redshift.html)
+- [Cosmic eras](../../02_Zettel/Theory/Cosmic eras.html)
+- [Brief thermal history](../../02_Zettel/Theory/Brief thermal history.html)
 - 03_Zettel/Theory/Cosmological distances
-- [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.md)
-- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md)
+- [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.html)
+- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html)

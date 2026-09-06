@@ -94,9 +94,9 @@ the Pythagorean three-body problem of the exam template is squarely **collisiona
 
 ## see also
 
-- [Astrophysical N-body problem formulation](../../02_Zettel/Theory/Astrophysical N-body problem formulation.md)
-- [Leapfrog integrator](../../02_Zettel/Theory/Leapfrog integrator.md)
-- [Fourth-order Hermite predictor-corrector](../../02_Zettel/Theory/Fourth-order Hermite predictor-corrector.md)
-- [Adaptive timesteps near close encounters](../../02_Zettel/Theory/Adaptive timesteps near close encounters.md)
-- [Energy conservation as a diagnostic](../../02_Zettel/Theory/Energy conservation as a diagnostic.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Astrophysical N-body problem formulation](../../02_Zettel/Theory/Astrophysical N-body problem formulation.html)
+- [Leapfrog integrator](../../02_Zettel/Theory/Leapfrog integrator.html)
+- [Fourth-order Hermite predictor-corrector](../../02_Zettel/Theory/Fourth-order Hermite predictor-corrector.html)
+- [Adaptive timesteps near close encounters](../../02_Zettel/Theory/Adaptive timesteps near close encounters.html)
+- [Energy conservation as a diagnostic](../../02_Zettel/Theory/Energy conservation as a diagnostic.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

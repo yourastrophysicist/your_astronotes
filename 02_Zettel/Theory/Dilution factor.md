@@ -55,10 +55,10 @@ near the inner edge of a disk around a black hole or compact object, the radiati
 ## see also
 
 - Strömgren sphere
-- [Photoionisation balance](../../02_Zettel/Theory/Photoionisation balance.md)
-- [Two-level atom](../../02_Zettel/Theory/Two-level atom.md)
-- [Statistical equilibrium equations](../../02_Zettel/Theory/Statistical equilibrium equations.md)
-- [Source function](../../02_Zettel/Theory/Source function.md)
-- [Local thermodynamic equilibrium LTE](../../02_Zettel/Theory/Local thermodynamic equilibrium LTE.md)
-- [Optically thin recombination lines](../../02_Zettel/Theory/Optically thin recombination lines.md)
-- [Specific intensity flux luminosity](../../02_Zettel/Theory/Specific intensity flux luminosity.md)
+- [Photoionisation balance](../../02_Zettel/Theory/Photoionisation balance.html)
+- [Two-level atom](../../02_Zettel/Theory/Two-level atom.html)
+- [Statistical equilibrium equations](../../02_Zettel/Theory/Statistical equilibrium equations.html)
+- [Source function](../../02_Zettel/Theory/Source function.html)
+- [Local thermodynamic equilibrium LTE](../../02_Zettel/Theory/Local thermodynamic equilibrium LTE.html)
+- [Optically thin recombination lines](../../02_Zettel/Theory/Optically thin recombination lines.html)
+- [Specific intensity flux luminosity](../../02_Zettel/Theory/Specific intensity flux luminosity.html)

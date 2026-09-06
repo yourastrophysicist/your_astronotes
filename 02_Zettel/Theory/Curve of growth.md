@@ -60,12 +60,12 @@ this is **Russell's curve-of-growth method**, the historical basis of stellar ab
 
 ## see also
 
-- [Equivalent width](../../02_Zettel/Theory/Equivalent width.md)
-- [Absorption coefficient and oscillator strength](../../02_Zettel/Theory/Absorption coefficient and oscillator strength.md)
-- [Line profile function phi nu](../../02_Zettel/Theory/Line profile function phi nu.md)
-- [Voigt profile](../../02_Zettel/Theory/Voigt profile.md)
-- [Damping wings](../../02_Zettel/Theory/Damping wings.md)
-- [Optical depth](../../02_Zettel/Theory/Optical depth.md)
-- [Microturbulence](../../02_Zettel/Theory/Microturbulence.md)
-- [Thermal Doppler broadening](../../02_Zettel/Theory/Thermal Doppler broadening.md)
-- [Curve of growth abundance analysis](../../02_Zettel/Theory/Curve of growth abundance analysis.md)
+- [Equivalent width](../../02_Zettel/Theory/Equivalent width.html)
+- [Absorption coefficient and oscillator strength](../../02_Zettel/Theory/Absorption coefficient and oscillator strength.html)
+- [Line profile function phi nu](../../02_Zettel/Theory/Line profile function phi nu.html)
+- [Voigt profile](../../02_Zettel/Theory/Voigt profile.html)
+- [Damping wings](../../02_Zettel/Theory/Damping wings.html)
+- [Optical depth](../../02_Zettel/Theory/Optical depth.html)
+- [Microturbulence](../../02_Zettel/Theory/Microturbulence.html)
+- [Thermal Doppler broadening](../../02_Zettel/Theory/Thermal Doppler broadening.html)
+- [Curve of growth abundance analysis](../../02_Zettel/Theory/Curve of growth abundance analysis.html)

@@ -116,8 +116,8 @@ modern interferometric science papers often combine CHARA's high-resolution imag
 
 ## see also
 
-- [Components of a modern interferometer](../../../02_Zettel/Theory/interf/Components of a modern interferometer.md)
-- [VLTI Very Large Telescope Interferometer](../../../02_Zettel/Theory/interf/VLTI Very Large Telescope Interferometer.md)
-- [Stellar surface imaging](../../../02_Zettel/Theory/interf/Stellar surface imaging.md)
-- [Stellar diameters and limb darkening](../../../02_Zettel/Theory/interf/Stellar diameters and limb darkening.md)
-- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Components of a modern interferometer](../../../02_Zettel/Theory/interf/Components of a modern interferometer.html)
+- [VLTI Very Large Telescope Interferometer](../../../02_Zettel/Theory/interf/VLTI Very Large Telescope Interferometer.html)
+- [Stellar surface imaging](../../../02_Zettel/Theory/interf/Stellar surface imaging.html)
+- [Stellar diameters and limb darkening](../../../02_Zettel/Theory/interf/Stellar diameters and limb darkening.html)
+- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.html)

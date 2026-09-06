@@ -5,7 +5,7 @@ title: "Differential vs cumulative number counts"
 
 # differential vs cumulative number counts
 
-up: [Pablo_02_Statistical_properties_of_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.md) · [Galaxy number counts N(m)](../../02_Zettel/Theory/Galaxy number counts N(m).md)
+up: [Pablo_02_Statistical_properties_of_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html) · [Galaxy number counts N(m)](../../02_Zettel/Theory/Galaxy number counts N(m).md)
 
 ## the two forms
 
@@ -40,8 +40,8 @@ Bethermin et al. 2010 plot $S^{2.5}\, dN/dS$ at 24 μm and 70 μm. the curve is 
 ## connections
 
 - previous: [Galaxy number counts N(m)](../../02_Zettel/Theory/Galaxy number counts N(m).md)
-- multi-band view: [Galaxy counts at different wavelengths](../../02_Zettel/Theory/Galaxy counts at different wavelengths.md)
-- morphology split: [Driver 1998 counts by morphology](../../02_Zettel/Theory/Driver 1998 counts by morphology.md)
+- multi-band view: [Galaxy counts at different wavelengths](../../02_Zettel/Theory/Galaxy counts at different wavelengths.html)
+- morphology split: [Driver 1998 counts by morphology](../../02_Zettel/Theory/Driver 1998 counts by morphology.html)
 - the Durham compilation gives both forms tabulated: [counts.html](https://astro.dur.ac.uk/~nm/pubhtml/counts/counts.html)
 
 ## key references

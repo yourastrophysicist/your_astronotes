@@ -48,7 +48,7 @@ in any extended ionised gas, **higher-ionisation species sit closer to the sourc
 - **O II / N II / S III**: ionisation potentials $\sim 13$ to $20$ eV.
 - **O I / S II / N I** at the boundary, where photons run out.
 
-this is the **ionisation stratification** ([Ionisation stratification](../../02_Zettel/Theory/Ionisation stratification.md)).
+this is the **ionisation stratification** ([Ionisation stratification](../../02_Zettel/Theory/Ionisation stratification.html)).
 
 ## photoionisation codes
 
@@ -56,10 +56,10 @@ modern photoionisation codes (Cloudy, MAPPINGS V, MOCASSIN) solve the full ionis
 
 ## see also
 
-- [Photoionization rate](../../02_Zettel/Theory/Photoionization rate.md)
-- [Recombination rate](../../02_Zettel/Theory/Recombination rate.md)
-- [Collisional ionisation rate](../../02_Zettel/Theory/Collisional ionisation rate.md)
-- [Ionisation parameter U](../../02_Zettel/Theory/Ionisation parameter U.md)
+- [Photoionization rate](../../02_Zettel/Theory/Photoionization rate.html)
+- [Recombination rate](../../02_Zettel/Theory/Recombination rate.html)
+- [Collisional ionisation rate](../../02_Zettel/Theory/Collisional ionisation rate.html)
+- [Ionisation parameter U](../../02_Zettel/Theory/Ionisation parameter U.html)
 - Strömgren sphere
-- [Ionisation stratification](../../02_Zettel/Theory/Ionisation stratification.md)
-- [Saha ionisation equation](../../02_Zettel/Theory/Saha ionisation equation.md) — LTE analogue
+- [Ionisation stratification](../../02_Zettel/Theory/Ionisation stratification.html)
+- [Saha ionisation equation](../../02_Zettel/Theory/Saha ionisation equation.html) — LTE analogue

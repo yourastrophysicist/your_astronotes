@@ -59,7 +59,7 @@ possible reconciliation:
 - a real bimodal age distribution (Bensby 2017): metal-poor old + metal-rich extended SFH;
 - systematic differences in age scales between $\log g$-$T_{\rm eff}$ ages and CMD-fit ages.
 
-the issue remains an active research question. see [The Galactic Bulge](../../02_Zettel/Theory/The Galactic Bulge.md).
+the issue remains an active research question. see [The Galactic Bulge](../../02_Zettel/Theory/The Galactic Bulge.html).
 
 ## related microlensing science
 
@@ -76,9 +76,9 @@ the issue remains an active research question. see [The Galactic Bulge](../../02
 
 ## see also
 
-- [The Galactic Bulge](../../02_Zettel/Theory/The Galactic Bulge.md)
-- [Bulge CMD complications](../../02_Zettel/Theory/Bulge CMD complications.md)
-- [Age-metallicity relation of Galactic GCs](../../02_Zettel/Theory/Age-metallicity relation of Galactic GCs.md)
-- [Atmospheric parameters Teff log g feh vmicro](../../02_Zettel/Theory/interf/Atmospheric parameters Teff log g feh vmicro.md)
-- [Spectroscopic determination of metallicity](../../02_Zettel/Theory/Spectroscopic determination of metallicity.md)
-- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.md)
+- [The Galactic Bulge](../../02_Zettel/Theory/The Galactic Bulge.html)
+- [Bulge CMD complications](../../02_Zettel/Theory/Bulge CMD complications.html)
+- [Age-metallicity relation of Galactic GCs](../../02_Zettel/Theory/Age-metallicity relation of Galactic GCs.html)
+- [Atmospheric parameters Teff log g feh vmicro](../../02_Zettel/Theory/interf/Atmospheric parameters Teff log g feh vmicro.html)
+- [Spectroscopic determination of metallicity](../../02_Zettel/Theory/Spectroscopic determination of metallicity.html)
+- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.html)

@@ -5,7 +5,7 @@ title: "Narrabri stellar interferometer"
 
 # Narrabri stellar interferometer
 
-the first instrument built specifically for [HBT](../../../02_Zettel/Theory/interf/Hanbury Brown Twiss effect.md) intensity interferometry on the sky. operated 1965-1972 in Australia. measured 32 stellar angular diameters with ~1% precision, the first systematic catalog of stellar diameters by interferometry.
+the first instrument built specifically for [HBT](../../../02_Zettel/Theory/interf/Hanbury Brown Twiss effect.html) intensity interferometry on the sky. operated 1965-1972 in Australia. measured 32 stellar angular diameters with ~1% precision, the first systematic catalog of stellar diameters by interferometry.
 
 ## the instrument
 
@@ -89,8 +89,8 @@ VERITAS (gamma-ray Cherenkov telescopes, ~17 m equivalent buckets) demonstrated 
 
 ## see also
 
-- [Intensity interferometry concept](../../../02_Zettel/Theory/interf/Intensity interferometry concept.md)
-- [Hanbury Brown Twiss effect](../../../02_Zettel/Theory/interf/Hanbury Brown Twiss effect.md)
-- [Why intensity interferometry escapes atmospheric phase](../../../02_Zettel/Theory/interf/Why intensity interferometry escapes atmospheric phase.md)
-- [Sensitivity and modern revival](../../../02_Zettel/Theory/interf/Sensitivity and modern revival.md)
-- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Intensity interferometry concept](../../../02_Zettel/Theory/interf/Intensity interferometry concept.html)
+- [Hanbury Brown Twiss effect](../../../02_Zettel/Theory/interf/Hanbury Brown Twiss effect.html)
+- [Why intensity interferometry escapes atmospheric phase](../../../02_Zettel/Theory/interf/Why intensity interferometry escapes atmospheric phase.html)
+- [Sensitivity and modern revival](../../../02_Zettel/Theory/interf/Sensitivity and modern revival.html)
+- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.html)

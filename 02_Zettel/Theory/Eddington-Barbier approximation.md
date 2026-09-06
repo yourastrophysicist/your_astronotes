@@ -47,7 +47,7 @@ quantitatively, the linear law:
 $$I_\nu(\mu) = I_\nu(1)\,(1 - u + u\mu)$$
 with $u$ the limb-darkening coefficient ($\sim 0.5$ in the Sun's V-band).
 
-see [Limb darkening](../../02_Zettel/Theory/Limb darkening.md).
+see [Limb darkening](../../02_Zettel/Theory/Limb darkening.html).
 
 ## limitations
 
@@ -59,11 +59,11 @@ modern stellar-atmosphere codes (PHOENIX, MARCS, ATLAS9) bypass Eddington-Barbie
 
 ## see also
 
-- [Equation of radiative transfer](../../02_Zettel/Theory/Equation of radiative transfer.md)
-- [Optical depth](../../02_Zettel/Theory/Optical depth.md)
-- [Source function](../../02_Zettel/Theory/Source function.md)
-- [Local thermodynamic equilibrium LTE](../../02_Zettel/Theory/Local thermodynamic equilibrium LTE.md)
-- [Limb darkening](../../02_Zettel/Theory/Limb darkening.md)
-- [Stellar atmosphere structure](../../02_Zettel/Theory/Stellar atmosphere structure.md)
-- [Continuum opacity sources](../../02_Zettel/Theory/Continuum opacity sources.md)
-- [Bolometric correction and effective temperature](../../02_Zettel/Theory/Bolometric correction and effective temperature.md)
+- [Equation of radiative transfer](../../02_Zettel/Theory/Equation of radiative transfer.html)
+- [Optical depth](../../02_Zettel/Theory/Optical depth.html)
+- [Source function](../../02_Zettel/Theory/Source function.html)
+- [Local thermodynamic equilibrium LTE](../../02_Zettel/Theory/Local thermodynamic equilibrium LTE.html)
+- [Limb darkening](../../02_Zettel/Theory/Limb darkening.html)
+- [Stellar atmosphere structure](../../02_Zettel/Theory/Stellar atmosphere structure.html)
+- [Continuum opacity sources](../../02_Zettel/Theory/Continuum opacity sources.html)
+- [Bolometric correction and effective temperature](../../02_Zettel/Theory/Bolometric correction and effective temperature.html)

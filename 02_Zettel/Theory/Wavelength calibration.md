@@ -42,9 +42,9 @@ LFC: a femtosecond laser locked to an atomic clock provides a regular forest of 
 
 ## see also
 
-- [Spectrograph design](../../02_Zettel/Theory/Spectrograph design.md)
-- [Spectrum reduction pipeline](../../02_Zettel/Theory/Spectrum reduction pipeline.md)
-- [Flux calibration](../../02_Zettel/Theory/interf/Flux calibration.md)
-- [Echelle spectroscopy](../../02_Zettel/Theory/Echelle spectroscopy.md)
-- [Stellar velocity from Doppler shift](../../02_Zettel/Theory/Stellar velocity from Doppler shift.md)
-- [Spectroscopic redshift from line shifts](../../02_Zettel/Theory/Spectroscopic redshift from line shifts.md)
+- [Spectrograph design](../../02_Zettel/Theory/Spectrograph design.html)
+- [Spectrum reduction pipeline](../../02_Zettel/Theory/Spectrum reduction pipeline.html)
+- [Flux calibration](../../02_Zettel/Theory/interf/Flux calibration.html)
+- [Echelle spectroscopy](../../02_Zettel/Theory/Echelle spectroscopy.html)
+- [Stellar velocity from Doppler shift](../../02_Zettel/Theory/Stellar velocity from Doppler shift.html)
+- [Spectroscopic redshift from line shifts](../../02_Zettel/Theory/Spectroscopic redshift from line shifts.html)

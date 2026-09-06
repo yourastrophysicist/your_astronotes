@@ -78,4 +78,4 @@ For **X-ray telescopes**:
 	the diffraction limit is completely negligible
 		at $E = 1$ keV ($\lambda = 1.24$ nm), a 1-m aperture gives $\theta_{diff} \sim 0.0003''$
 	the actual angular resolution (HPD $\sim 0.5''$ for Chandra) is entirely limited by mirror **figure errors and roughness**
-	see [Angular Resolution](../../02_Zettel/Theory/Angular Resolution.md) and [Point Spread Function (PSF)](../../02_Zettel/Theory/Point Spread Function (PSF).md)
+	see [Angular Resolution](../../02_Zettel/Theory/Angular Resolution.html) and [Point Spread Function (PSF)](../../02_Zettel/Theory/Point Spread Function (PSF).md)

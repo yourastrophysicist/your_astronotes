@@ -49,10 +49,10 @@ result: the metric is exactly Schwarzschild, regardless of any time-dependent as
 
 ## see also
 
-- [Schwarzschild metric](../../02_Zettel/Theory/Schwarzschild metric.md)
-- [Schwarzschild horizon](../../02_Zettel/Theory/Schwarzschild horizon.md)
-- [Einstein equations](../../02_Zettel/Theory/Einstein equations.md)
-- [Quadrupole formula](../../02_Zettel/Theory/Quadrupole formula.md)
-- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.md)
-- [Ch 5 - The Einstein Equation](../../01_Literature/Book/Baumann GR/Ch 5 - The Einstein Equation.md)
-- [Ch 6 - Black Holes](../../01_Literature/Book/Baumann GR/Ch 6 - Black Holes.md)
+- [Schwarzschild metric](../../02_Zettel/Theory/Schwarzschild metric.html)
+- [Schwarzschild horizon](../../02_Zettel/Theory/Schwarzschild horizon.html)
+- [Einstein equations](../../02_Zettel/Theory/Einstein equations.html)
+- [Quadrupole formula](../../02_Zettel/Theory/Quadrupole formula.html)
+- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.html)
+- [Ch 5 - The Einstein Equation](../../01_Literature/Book/Baumann GR/Ch 5 - The Einstein Equation.html)
+- [Ch 6 - Black Holes](../../01_Literature/Book/Baumann GR/Ch 6 - Black Holes.html)

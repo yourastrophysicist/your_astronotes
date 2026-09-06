@@ -87,14 +87,14 @@ three magnitude conventions:
 
 magnitudes in two filter systems do not differ by a constant offset. they differ by a **color term** that depends on the source SED:
 $$m_1 \approx m_2 + a + b(c_1 - c_2)$$
-where $(c_1 - c_2)$ is a color in either system. this is `obs6.pdf`'s key point: a 6000 K star and a 3000 K star feel a different shift between SDSS-i and Cousins-I, because they have different SED shapes through the (slightly different) i and I bandpasses. see [Photometric system conversion and color terms](../../02_Zettel/Theory/Photometric system conversion and color terms.md).
+where $(c_1 - c_2)$ is a color in either system. this is `obs6.pdf`'s key point: a 6000 K star and a 3000 K star feel a different shift between SDSS-i and Cousins-I, because they have different SED shapes through the (slightly different) i and I bandpasses. see [Photometric system conversion and color terms](../../02_Zettel/Theory/Photometric system conversion and color terms.html).
 
 ## see also
 
-- [Magnitudes and photometric systems](../../02_Zettel/Theory/Magnitudes and photometric systems.md)
-- [Pogson magnitudes and flux relation](../../02_Zettel/Theory/Pogson magnitudes and flux relation.md)
-- [Color indices](../../02_Zettel/Theory/Color indices.md)
-- [Photometric system conversion and color terms](../../02_Zettel/Theory/Photometric system conversion and color terms.md)
-- [Atmospheric extinction](../../02_Zettel/Theory/interf/Atmospheric extinction.md)
-- [Photometric standard stars](../../02_Zettel/Theory/Photometric standard stars.md)
-- [Bolometric correction and effective temperature](../../02_Zettel/Theory/Bolometric correction and effective temperature.md)
+- [Magnitudes and photometric systems](../../02_Zettel/Theory/Magnitudes and photometric systems.html)
+- [Pogson magnitudes and flux relation](../../02_Zettel/Theory/Pogson magnitudes and flux relation.html)
+- [Color indices](../../02_Zettel/Theory/Color indices.html)
+- [Photometric system conversion and color terms](../../02_Zettel/Theory/Photometric system conversion and color terms.html)
+- [Atmospheric extinction](../../02_Zettel/Theory/interf/Atmospheric extinction.html)
+- [Photometric standard stars](../../02_Zettel/Theory/Photometric standard stars.html)
+- [Bolometric correction and effective temperature](../../02_Zettel/Theory/Bolometric correction and effective temperature.html)

@@ -14,7 +14,7 @@ at low redshift ($z \lesssim 0.1$, distance $\lesssim$ 400 Mpc), the universe lo
 within this volume:
 - $\sim 10^7$ luminous galaxies down to $L \sim 10^7\, L_\odot$
 - mostly **dwarf galaxies** by number
-- the brightest galaxies ($L > L^*$ where $L^* = 10^{10}\, L_\odot$) are far rarer — see [Schechter function](../../02_Zettel/Theory/Schechter function.md)
+- the brightest galaxies ($L > L^*$ where $L^* = 10^{10}\, L_\odot$) are far rarer — see [Schechter function](../../02_Zettel/Theory/Schechter function.html)
 
 ![galaxies-04](../../assets/images/galaxies-04.png)
 
@@ -41,7 +41,7 @@ the Milky Way and Andromeda are on a **collision course** — they will merge in
 
 ## galaxy types in the local universe
 
-three main morphological classes (Hubble's tuning fork, see [Hubble morphological sequence](../../02_Zettel/Theory/Hubble morphological sequence.md)):
+three main morphological classes (Hubble's tuning fork, see [Hubble morphological sequence](../../02_Zettel/Theory/Hubble morphological sequence.html)):
 
 1. **ellipticals** (E): featureless, smooth, predominantly old red stars, gas-poor. range from dwarf ellipticals (cE) to giant ellipticals (gE) at the centers of clusters.
 
@@ -65,7 +65,7 @@ galaxy morphology depends on **environment**:
 
 this is the **morphology-density relation**. interpreted as: dense environments stripped gas from spirals, halting star formation and producing red, dead galaxies.
 
-→ see [Galaxy morphology vs physical properties](../../02_Zettel/Theory/Galaxy morphology vs physical properties.md) and [Galaxy color, density and morphology](../../02_Zettel/Theory/Galaxy color, density and morphology.md) in the Observational Cosmology MOC.
+→ see [Galaxy morphology vs physical properties](../../02_Zettel/Theory/Galaxy morphology vs physical properties.html) and [Galaxy color, density and morphology](../../02_Zettel/Theory/Galaxy color, density and morphology.html) in the Observational Cosmology MOC.
 
 ---
 
@@ -76,7 +76,7 @@ galaxies fall into two clear families in color-magnitude space:
 - **red sequence**: passive, often ellipticals
 - **green valley**: transition between them, sparsely populated
 
-→ see [Color bimodality of galaxies](../../02_Zettel/Theory/Color bimodality of galaxies.md) (Observational Cosmology MOC).
+→ see [Color bimodality of galaxies](../../02_Zettel/Theory/Color bimodality of galaxies.html) (Observational Cosmology MOC).
 
 this bimodality is a fundamental feature of the galaxy population. understanding **how galaxies move from the blue cloud to the red sequence (quenching)** is central to galaxy evolution.
 
@@ -95,7 +95,7 @@ several remarkable correlations between galaxy properties:
 | **main sequence of star formation** | $\rm SFR \propto M_*^{0.6-0.9}$ for star-forming galaxies |
 | **M-σ** | $M_{BH} \propto \sigma^4$ — central BH mass tracks bulge velocity dispersion |
 
-these are all probes of galaxy formation physics — see [Tully-Fisher relation](../../02_Zettel/Theory/Tully-Fisher relation.md), [Fundamental plane of ellipticals](../../02_Zettel/Theory/Fundamental plane of ellipticals.md), [Galaxy main sequence of star formation](../../02_Zettel/Theory/Galaxy main sequence of star formation.md), [Magorrian relation](../../02_Zettel/Theory/Magorrian relation.md).
+these are all probes of galaxy formation physics — see [Tully-Fisher relation](../../02_Zettel/Theory/Tully-Fisher relation.html), [Fundamental plane of ellipticals](../../02_Zettel/Theory/Fundamental plane of ellipticals.html), [Galaxy main sequence of star formation](../../02_Zettel/Theory/Galaxy main sequence of star formation.html), [Magorrian relation](../../02_Zettel/Theory/Magorrian relation.html).
 
 ---
 
@@ -108,17 +108,17 @@ galaxies in the local universe are the **end-products** of a long evolutionary h
 - some quenched and became red ellipticals; others kept forming stars
 - by today, the bimodal galaxy population reflects different evolutionary paths
 
-→ this is the central thread of the [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md).
+→ this is the central thread of the [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html).
 
 ---
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Hubble morphological sequence](../../02_Zettel/Theory/Hubble morphological sequence.md)
-- [Galaxy morphology vs physical properties](../../02_Zettel/Theory/Galaxy morphology vs physical properties.md)
-- [Galaxies across wavelengths](../../02_Zettel/Theory/Galaxies across wavelengths.md)
-- [Spectral energy distributions](../../02_Zettel/Theory/Spectral energy distributions.md)
-- [Galaxy clusters and overview of evolution](../../02_Zettel/Theory/Galaxy clusters and overview of evolution.md)
-- [Color bimodality of galaxies](../../02_Zettel/Theory/Color bimodality of galaxies.md)
-- [Schechter function](../../02_Zettel/Theory/Schechter function.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Hubble morphological sequence](../../02_Zettel/Theory/Hubble morphological sequence.html)
+- [Galaxy morphology vs physical properties](../../02_Zettel/Theory/Galaxy morphology vs physical properties.html)
+- [Galaxies across wavelengths](../../02_Zettel/Theory/Galaxies across wavelengths.html)
+- [Spectral energy distributions](../../02_Zettel/Theory/Spectral energy distributions.html)
+- [Galaxy clusters and overview of evolution](../../02_Zettel/Theory/Galaxy clusters and overview of evolution.html)
+- [Color bimodality of galaxies](../../02_Zettel/Theory/Color bimodality of galaxies.html)
+- [Schechter function](../../02_Zettel/Theory/Schechter function.html)

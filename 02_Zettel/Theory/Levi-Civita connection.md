@@ -54,11 +54,11 @@ and this is exactly **the equation that extremises the proper time** for timelik
 
 ## see also
 
-- [Christoffel symbols](../../02_Zettel/Theory/Christoffel symbols.md)
-- [Metric compatibility](../../02_Zettel/Theory/Metric compatibility.md)
-- [Covariant derivative](../../02_Zettel/Theory/Covariant derivative.md)
-- [Geodesic equation](../../02_Zettel/Theory/Geodesic equation.md)
-- [Parallel transport](../../02_Zettel/Theory/Parallel transport.md)
-- [Manifold metric and signature](../../02_Zettel/Theory/Manifold metric and signature.md)
-- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.md)
-- [Ch 2 - Some Differential Geometry](../../01_Literature/Book/Baumann GR/Ch 2 - Some Differential Geometry.md)
+- [Christoffel symbols](../../02_Zettel/Theory/Christoffel symbols.html)
+- [Metric compatibility](../../02_Zettel/Theory/Metric compatibility.html)
+- [Covariant derivative](../../02_Zettel/Theory/Covariant derivative.html)
+- [Geodesic equation](../../02_Zettel/Theory/Geodesic equation.html)
+- [Parallel transport](../../02_Zettel/Theory/Parallel transport.html)
+- [Manifold metric and signature](../../02_Zettel/Theory/Manifold metric and signature.html)
+- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.html)
+- [Ch 2 - Some Differential Geometry](../../01_Literature/Book/Baumann GR/Ch 2 - Some Differential Geometry.html)

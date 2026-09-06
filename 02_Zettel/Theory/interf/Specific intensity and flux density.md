@@ -48,7 +48,7 @@ real telescopes do not integrate over the source in an abstract way. they weight
 
 $$T_A \propto \int I(\theta,\phi)P(\theta,\phi)\,d\Omega$$
 
-where $P$ is the beam power pattern. this is why [Beam power pattern of a radio telescope](../../../02_Zettel/Theory/interf/Beam power pattern of a radio telescope.md) matters before imaging.
+where $P$ is the beam power pattern. this is why [Beam power pattern of a radio telescope](../../../02_Zettel/Theory/interf/Beam power pattern of a radio telescope.html) matters before imaging.
 
 ## connection to brightness temperature
 
@@ -84,7 +84,7 @@ source: local study diagram generated from $S_\nu=\int I_\nu P\,d\Omega$.
 
 ## see also
 
-- [Radio astronomy basics](../../../02_Zettel/Theory/interf/Radio astronomy basics.md)
-- [Beam power pattern of a radio telescope](../../../02_Zettel/Theory/interf/Beam power pattern of a radio telescope.md)
-- [Van Cittert-Zernike theorem](../../../02_Zettel/Theory/interf/Van Cittert-Zernike theorem.md)
-- [Interferometry equation sheet](../../../02_Zettel/Theory/interf/Interferometry equation sheet.md)
+- [Radio astronomy basics](../../../02_Zettel/Theory/interf/Radio astronomy basics.html)
+- [Beam power pattern of a radio telescope](../../../02_Zettel/Theory/interf/Beam power pattern of a radio telescope.html)
+- [Van Cittert-Zernike theorem](../../../02_Zettel/Theory/interf/Van Cittert-Zernike theorem.html)
+- [Interferometry equation sheet](../../../02_Zettel/Theory/interf/Interferometry equation sheet.html)

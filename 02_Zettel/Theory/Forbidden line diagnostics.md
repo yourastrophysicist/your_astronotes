@@ -16,7 +16,7 @@ ratio of two lines from **different upper levels of the same ion** with very dif
 | $[OII]\,\lambda 7320, 7330/(\lambda 3726, 3729)$ | similar |
 | $[SIII]\,\lambda 6312/(\lambda 9069, 9532)$ | similar |
 
-best for HII regions and PNe at $T_e \sim 10^4$ K. see [OIII forbidden lines](../../02_Zettel/Theory/OIII forbidden lines.md) for the canonical case.
+best for HII regions and PNe at $T_e \sim 10^4$ K. see [OIII forbidden lines](../../02_Zettel/Theory/OIII forbidden lines.html) for the canonical case.
 
 ## density diagnostics
 
@@ -29,7 +29,7 @@ ratio of two lines from **different upper levels of the same multiplet** with si
 | $[ArIV]\,\lambda 4711/\lambda 4740$ | $n_e = 10^3$ to $10^5$ |
 | $[NeIV]\,\lambda 2422/\lambda 2425$ | $n_e = 10^4$ to $10^6$ |
 
-best for typical HII regions and PNe. see [SII forbidden lines](../../02_Zettel/Theory/SII forbidden lines.md).
+best for typical HII regions and PNe. see [SII forbidden lines](../../02_Zettel/Theory/SII forbidden lines.html).
 
 ## ionisation diagnostics
 
@@ -42,7 +42,7 @@ ratio of two lines from **different ionisation stages of the same element**, iso
 | $[OIII]\,\lambda 5007/H\beta$ | ionisation + temperature combined |
 | $[OII]/H\beta$ | low-ionisation tracer, less abundant gas |
 
-these enter the **BPT diagram** for AGN classification. see [BPT diagram](../../02_Zettel/Theory/BPT diagram.md).
+these enter the **BPT diagram** for AGN classification. see [BPT diagram](../../02_Zettel/Theory/BPT diagram.html).
 
 ## abundance diagnostics
 
@@ -60,7 +60,7 @@ modern: software like PyNeb (Luridiana et al. 2015) automates this.
 for a spectrum of an HII region:
 
 1. measure line fluxes: $H\alpha, H\beta, [OIII]\,4959, 5007, 4363, [SII]\,6716, 6731, [NII]\,6548, 6584, [OII]\,3727, ...$
-2. **dust correction**: from $H\alpha/H\beta$ via [Balmer decrement](../../02_Zettel/Theory/Balmer decrement.md).
+2. **dust correction**: from $H\alpha/H\beta$ via [Balmer decrement](../../02_Zettel/Theory/Balmer decrement.html).
 3. **density**: from $[SII]\,\lambda 6716/6731$.
 4. **temperature**: from $[OIII]\,\lambda 4363/(\lambda 4959+5007)$.
 5. **ionisation**: from $[OIII]/[OII]$.
@@ -71,14 +71,14 @@ a complete analysis takes a few iterations (since $T_e$ and $n_e$ are coupled), 
 
 ## see also
 
-- [Forbidden lines](../../02_Zettel/Theory/Forbidden lines.md)
-- [OIII forbidden lines](../../02_Zettel/Theory/OIII forbidden lines.md)
-- [SII forbidden lines](../../02_Zettel/Theory/SII forbidden lines.md)
-- [Critical density](../../02_Zettel/Theory/Critical density.md)
-- [Two-level atom](../../02_Zettel/Theory/Two-level atom.md)
-- [Statistical equilibrium equations](../../02_Zettel/Theory/Statistical equilibrium equations.md)
-- [BPT diagram](../../02_Zettel/Theory/BPT diagram.md)
-- [Balmer decrement](../../02_Zettel/Theory/Balmer decrement.md)
-- [Spectroscopic Te diagnostics](../../02_Zettel/Theory/Spectroscopic Te diagnostics.md)
-- [Spectroscopic ne diagnostics](../../02_Zettel/Theory/Spectroscopic ne diagnostics.md)
-- [Dust extinction in nebulae](../../02_Zettel/Theory/Dust extinction in nebulae.md)
+- [Forbidden lines](../../02_Zettel/Theory/Forbidden lines.html)
+- [OIII forbidden lines](../../02_Zettel/Theory/OIII forbidden lines.html)
+- [SII forbidden lines](../../02_Zettel/Theory/SII forbidden lines.html)
+- [Critical density](../../02_Zettel/Theory/Critical density.html)
+- [Two-level atom](../../02_Zettel/Theory/Two-level atom.html)
+- [Statistical equilibrium equations](../../02_Zettel/Theory/Statistical equilibrium equations.html)
+- [BPT diagram](../../02_Zettel/Theory/BPT diagram.html)
+- [Balmer decrement](../../02_Zettel/Theory/Balmer decrement.html)
+- [Spectroscopic Te diagnostics](../../02_Zettel/Theory/Spectroscopic Te diagnostics.html)
+- [Spectroscopic ne diagnostics](../../02_Zettel/Theory/Spectroscopic ne diagnostics.html)
+- [Dust extinction in nebulae](../../02_Zettel/Theory/Dust extinction in nebulae.html)

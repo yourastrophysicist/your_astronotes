@@ -47,7 +47,7 @@ light cones are an invariant feature of Lorentzian spacetime; they're the trace 
 
 ## conservation across the type
 
-a **timelike** geodesic's tangent stays timelike (length-preserving parallel transport, see [Metric compatibility](../../02_Zettel/Theory/Metric compatibility.md)). similarly null and spacelike. the type is preserved.
+a **timelike** geodesic's tangent stays timelike (length-preserving parallel transport, see [Metric compatibility](../../02_Zettel/Theory/Metric compatibility.html)). similarly null and spacelike. the type is preserved.
 
 so a timelike particle never "becomes lightlike" mid-flight: timelike $\to$ timelike, null $\to$ null, etc.
 
@@ -61,11 +61,11 @@ events with null separation: connected by light only.
 
 ## see also
 
-- [Manifold metric and signature](../../02_Zettel/Theory/Manifold metric and signature.md)
-- [Geodesic equation](../../02_Zettel/Theory/Geodesic equation.md)
-- [Affine parameter](../../02_Zettel/Theory/Affine parameter.md)
-- [Cosmological redshift](../../02_Zettel/Theory/Cosmological redshift.md)
-- [Schwarzschild horizon](../../02_Zettel/Theory/Schwarzschild horizon.md)
-- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.md)
-- [Ch 1 - Gravity is Geometry](../../01_Literature/Book/Baumann GR/Ch 1 - Gravity is Geometry.md)
-- [Ch 3 - A First Look at Geodesics](../../01_Literature/Book/Baumann GR/Ch 3 - A First Look at Geodesics.md)
+- [Manifold metric and signature](../../02_Zettel/Theory/Manifold metric and signature.html)
+- [Geodesic equation](../../02_Zettel/Theory/Geodesic equation.html)
+- [Affine parameter](../../02_Zettel/Theory/Affine parameter.html)
+- [Cosmological redshift](../../02_Zettel/Theory/Cosmological redshift.html)
+- [Schwarzschild horizon](../../02_Zettel/Theory/Schwarzschild horizon.html)
+- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.html)
+- [Ch 1 - Gravity is Geometry](../../01_Literature/Book/Baumann GR/Ch 1 - Gravity is Geometry.html)
+- [Ch 3 - A First Look at Geodesics](../../01_Literature/Book/Baumann GR/Ch 3 - A First Look at Geodesics.html)

@@ -10,7 +10,7 @@ the **angular diameter distance** $d_A$ relates the **physical size** of an obje
 for a **flat** universe ($k = 0$):
 $$\boxed{\, d_A(z) = \frac{d_C(z)}{1 + z} \,}$$
 
-with $d_C(z)$ the comoving distance (see [Radial comoving distance](../../02_Zettel/Theory/Radial comoving distance.md)).
+with $d_C(z)$ the comoving distance (see [Radial comoving distance](../../02_Zettel/Theory/Radial comoving distance.html)).
 
 at low $z$: $d_A \approx cz/H_0$, just like Newtonian distance.
 
@@ -56,10 +56,10 @@ resolved by HST and JWST routinely.
 ## see also
 
 - 03_Zettel/Theory/Cosmological distances
-- [Radial comoving distance](../../02_Zettel/Theory/Radial comoving distance.md)
-- [Luminosity distance](../../02_Zettel/Theory/Luminosity distance.md)
-- [Surface brightness dimming](../../02_Zettel/Theory/Surface brightness dimming.md)
-- [FLRW metric](../../02_Zettel/Theory/FLRW metric.md)
-- [CMB power spectrum](../../02_Zettel/Theory/CMB power spectrum.md)
-- [Matter power spectrum and BAO](../../02_Zettel/Theory/Matter power spectrum and BAO.md)
-- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md)
+- [Radial comoving distance](../../02_Zettel/Theory/Radial comoving distance.html)
+- [Luminosity distance](../../02_Zettel/Theory/Luminosity distance.html)
+- [Surface brightness dimming](../../02_Zettel/Theory/Surface brightness dimming.html)
+- [FLRW metric](../../02_Zettel/Theory/FLRW metric.html)
+- [CMB power spectrum](../../02_Zettel/Theory/CMB power spectrum.html)
+- [Matter power spectrum and BAO](../../02_Zettel/Theory/Matter power spectrum and BAO.html)
+- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html)

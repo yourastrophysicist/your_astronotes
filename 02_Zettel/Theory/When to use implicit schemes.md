@@ -87,8 +87,8 @@ ask:
 
 ## see also
 
-- [Initial value PDEs and FTCS](../../02_Zettel/Theory/Initial value PDEs and FTCS.md)
-- [Stability and the Courant condition](../../02_Zettel/Theory/Stability and the Courant condition.md)
-- [Finite difference discretization](../../02_Zettel/Theory/Finite difference discretization.md)
-- [Built-in scipy integrators](../../02_Zettel/Theory/Built-in scipy integrators.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Initial value PDEs and FTCS](../../02_Zettel/Theory/Initial value PDEs and FTCS.html)
+- [Stability and the Courant condition](../../02_Zettel/Theory/Stability and the Courant condition.html)
+- [Finite difference discretization](../../02_Zettel/Theory/Finite difference discretization.html)
+- [Built-in scipy integrators](../../02_Zettel/Theory/Built-in scipy integrators.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

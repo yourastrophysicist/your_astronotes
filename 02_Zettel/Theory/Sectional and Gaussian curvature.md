@@ -58,11 +58,11 @@ for the universe, the **spatial 3-curvature** is parameterised by $k = -1, 0, +1
 
 ## see also
 
-- [Riemann tensor](../../02_Zettel/Theory/Riemann tensor.md)
-- [Counting Riemann components](../../02_Zettel/Theory/Counting Riemann components.md)
-- [Ricci tensor and scalar](../../02_Zettel/Theory/Ricci tensor and scalar.md)
-- [Cosmological constant](../../02_Zettel/Theory/Cosmological constant.md)
-- [Spatial curvature parameter k](../../02_Zettel/Theory/Spatial curvature parameter k.md)
-- [Cosmological principle](../../02_Zettel/Theory/Cosmological principle.md)
-- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.md)
-- [Ch 4 - Spacetime Curvature](../../01_Literature/Book/Baumann GR/Ch 4 - Spacetime Curvature.md)
+- [Riemann tensor](../../02_Zettel/Theory/Riemann tensor.html)
+- [Counting Riemann components](../../02_Zettel/Theory/Counting Riemann components.html)
+- [Ricci tensor and scalar](../../02_Zettel/Theory/Ricci tensor and scalar.html)
+- [Cosmological constant](../../02_Zettel/Theory/Cosmological constant.html)
+- [Spatial curvature parameter k](../../02_Zettel/Theory/Spatial curvature parameter k.html)
+- [Cosmological principle](../../02_Zettel/Theory/Cosmological principle.html)
+- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.html)
+- [Ch 4 - Spacetime Curvature](../../01_Literature/Book/Baumann GR/Ch 4 - Spacetime Curvature.html)

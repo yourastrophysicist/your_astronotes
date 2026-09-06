@@ -5,11 +5,11 @@ title: "SED fitting for SFH"
 
 # SED fitting for SFH
 
-up: [Pablo_03_Star_formation_in_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.md)
+up: [Pablo_03_Star_formation_in_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html)
 
 ## the idea
 
-beyond the Local Group we cannot resolve individual stars (see [SFH from resolved CMDs](../../02_Zettel/Theory/SFH from resolved CMDs.md)). the only accessible observable is the integrated SED. the goal of SED fitting is:
+beyond the Local Group we cannot resolve individual stars (see [SFH from resolved CMDs](../../02_Zettel/Theory/SFH from resolved CMDs.html)). the only accessible observable is the integrated SED. the goal of SED fitting is:
 
 **given multi-band photometry of a galaxy, recover $\psi(t)$, $Z(t)$, $A_V$, $M_*$, and $z$.**
 
@@ -24,8 +24,8 @@ $$F_\lambda^{\text{obs}}(\lambda) = \int_0^{t_0} \psi(t_0 - \tau)\, S_\lambda^{\
 inputs:
 - **SSP library**: SED of a single-age, single-metallicity population as a function of age. from Bruzual & Charlot 2003, FSPS, Maraston 2005, or Starburst99
 - **IMF**: typically Chabrier or Kroupa
-- **SFH parametrization**: delta, tau-model, delayed-tau, non-parametric (see [Star formation history parametrizations](../../02_Zettel/Theory/Star formation history parametrizations.md))
-- **attenuation curve**: Calzetti, Cardelli, Charlot-Fall, or free (see [Dust attenuation and extinction curves](../../02_Zettel/Theory/Dust attenuation and extinction curves.md))
+- **SFH parametrization**: delta, tau-model, delayed-tau, non-parametric (see [Star formation history parametrizations](../../02_Zettel/Theory/Star formation history parametrizations.html))
+- **attenuation curve**: Calzetti, Cardelli, Charlot-Fall, or free (see [Dust attenuation and extinction curves](../../02_Zettel/Theory/Dust attenuation and extinction curves.html))
 - **nebular emission** (continuum + lines) for young populations
 - **dust re-emission** (MIR/FIR templates) if IR data included
 - **IGM absorption** at $\lambda < 1216$ Å for $z > 2$
@@ -63,12 +63,12 @@ in order of reliability:
 
 ## connections
 
-- models used: [Stellar population synthesis](../../02_Zettel/Theory/Stellar population synthesis.md)
-- parametric forms: [Star formation history parametrizations](../../02_Zettel/Theory/Star formation history parametrizations.md)
-- resolved alternative: [SFH from resolved CMDs](../../02_Zettel/Theory/SFH from resolved CMDs.md)
-- extinction: [Dust attenuation and extinction curves](../../02_Zettel/Theory/Dust attenuation and extinction curves.md)
-- FIR input: [IR SFR tracer](../../02_Zettel/Theory/IR SFR tracer.md)
-- stellar mass: [Stellar mass function](../../02_Zettel/Theory/Stellar mass function.md)
+- models used: [Stellar population synthesis](../../02_Zettel/Theory/Stellar population synthesis.html)
+- parametric forms: [Star formation history parametrizations](../../02_Zettel/Theory/Star formation history parametrizations.html)
+- resolved alternative: [SFH from resolved CMDs](../../02_Zettel/Theory/SFH from resolved CMDs.html)
+- extinction: [Dust attenuation and extinction curves](../../02_Zettel/Theory/Dust attenuation and extinction curves.html)
+- FIR input: [IR SFR tracer](../../02_Zettel/Theory/IR SFR tracer.html)
+- stellar mass: [Stellar mass function](../../02_Zettel/Theory/Stellar mass function.html)
 
 ## key references
 

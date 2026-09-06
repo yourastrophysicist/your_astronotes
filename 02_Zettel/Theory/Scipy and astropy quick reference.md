@@ -182,7 +182,7 @@ plt.rcParams.update({'font.size': 12, 'figure.dpi': 100})
 
 ## see also
 
-- [Numpy arrays vs Python lists](../../02_Zettel/Theory/Numpy arrays vs Python lists.md)
-- [Matplotlib plotting essentials](../../02_Zettel/Theory/Matplotlib plotting essentials.md)
-- [Pandas for tabular astrophysics data](../../02_Zettel/Theory/Pandas for tabular astrophysics data.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Numpy arrays vs Python lists](../../02_Zettel/Theory/Numpy arrays vs Python lists.html)
+- [Matplotlib plotting essentials](../../02_Zettel/Theory/Matplotlib plotting essentials.html)
+- [Pandas for tabular astrophysics data](../../02_Zettel/Theory/Pandas for tabular astrophysics data.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

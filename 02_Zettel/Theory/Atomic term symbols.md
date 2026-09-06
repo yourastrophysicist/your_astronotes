@@ -43,17 +43,17 @@ example: $2p^1 \to L = 1$, parity $(-1)^1 = -1$ $\to$ odd. $2s^1 \to$ even. $2p^
 
 ## why parity matters
 
-the **electric dipole selection rule** requires $\Delta p = \text{change}$, i.e. odd $\to$ even or vice versa. if both states have the same parity, the transition is **parity-forbidden** at electric dipole. it can still proceed at magnetic dipole or electric quadrupole, $\sim 10^5$ to $10^8$ times weaker. these are the **forbidden lines** of nebular spectroscopy ([Forbidden lines](../../02_Zettel/Theory/Forbidden lines.md)).
+the **electric dipole selection rule** requires $\Delta p = \text{change}$, i.e. odd $\to$ even or vice versa. if both states have the same parity, the transition is **parity-forbidden** at electric dipole. it can still proceed at magnetic dipole or electric quadrupole, $\sim 10^5$ to $10^8$ times weaker. these are the **forbidden lines** of nebular spectroscopy ([Forbidden lines](../../02_Zettel/Theory/Forbidden lines.html)).
 
 the famous $[OIII]\,\lambda 4959, 5007$ Å lines arise from a parity-forbidden transition $^3P^e \to {^1\!}D^e$, both even, so E1 is forbidden but M1 is allowed.
 
 ## see also
 
-- [Quantum numbers and atomic states](../../02_Zettel/Theory/Quantum numbers and atomic states.md)
-- [Russell-Saunders LS coupling](../../02_Zettel/Theory/Russell-Saunders LS coupling.md)
-- [Hund's rules](../../02_Zettel/Theory/Hund's rules.md)
-- [Selection rules](../../02_Zettel/Theory/Selection rules.md)
-- [Statistical weight g](../../02_Zettel/Theory/Statistical weight g.md)
-- [Forbidden vs permitted vs semiforbidden transitions](../../02_Zettel/Theory/Forbidden vs permitted vs semiforbidden transitions.md)
-- [Forbidden lines](../../02_Zettel/Theory/Forbidden lines.md)
+- [Quantum numbers and atomic states](../../02_Zettel/Theory/Quantum numbers and atomic states.html)
+- [Russell-Saunders LS coupling](../../02_Zettel/Theory/Russell-Saunders LS coupling.html)
+- [Hund's rules](../../02_Zettel/Theory/Hund's rules.html)
+- [Selection rules](../../02_Zettel/Theory/Selection rules.html)
+- [Statistical weight g](../../02_Zettel/Theory/Statistical weight g.html)
+- [Forbidden vs permitted vs semiforbidden transitions](../../02_Zettel/Theory/Forbidden vs permitted vs semiforbidden transitions.html)
+- [Forbidden lines](../../02_Zettel/Theory/Forbidden lines.html)
 - Energy level diagrams Grötrian

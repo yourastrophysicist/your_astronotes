@@ -5,7 +5,7 @@ title: "General linear least squares"
 
 # General linear least squares
 
-generalization of [simple linear LSQ](../../02_Zettel/Theory/Linear least squares.md) to fitting models that are linear in the parameters but use *arbitrary* basis functions of the independent variable. the workhorse for fitting any function that can be written as a sum of known shapes.
+generalization of [simple linear LSQ](../../02_Zettel/Theory/Linear least squares.html) to fitting models that are linear in the parameters but use *arbitrary* basis functions of the independent variable. the workhorse for fitting any function that can be written as a sum of known shapes.
 
 ## the model
 
@@ -30,7 +30,7 @@ models with parameters appearing nonlinearly:
 - $y = A \sin(\omega x + \phi)$: nonlinear in $\omega$ and $\phi$
 - $y = a/(1 + b x)$: nonlinear in $b$
 
-these need [nonlinear LSQ](../../02_Zettel/Theory/Non-linear fitting with scipy.md) (Levenberg-Marquardt etc.).
+these need [nonlinear LSQ](../../02_Zettel/Theory/Non-linear fitting with scipy.html) (Levenberg-Marquardt etc.).
 
 ## the design matrix
 
@@ -72,7 +72,7 @@ y_w = y / sigma
 theta = np.linalg.lstsq(A_w, y_w, rcond=None)[0]
 ```
 
-equivalent to weighted least squares with $W = \text{diag}(1/\sigma^2)$. see [Weighted least squares](../../02_Zettel/Theory/Weighted least squares.md).
+equivalent to weighted least squares with $W = \text{diag}(1/\sigma^2)$. see [Weighted least squares](../../02_Zettel/Theory/Weighted least squares.html).
 
 ## parameter covariance
 
@@ -125,9 +125,9 @@ for polynomial fitting on $[0, L]$, the design matrix with $\phi_k(x) = x^k$ is 
 
 ## see also
 
-- [Linear least squares](../../02_Zettel/Theory/Linear least squares.md)
-- [Weighted least squares](../../02_Zettel/Theory/Weighted least squares.md)
-- [Polynomial fitting](../../02_Zettel/Theory/Polynomial fitting.md)
-- [Goodness of fit and chi-squared](../../02_Zettel/Theory/Goodness of fit and chi-squared.md)
-- [Non-linear fitting with scipy](../../02_Zettel/Theory/Non-linear fitting with scipy.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Linear least squares](../../02_Zettel/Theory/Linear least squares.html)
+- [Weighted least squares](../../02_Zettel/Theory/Weighted least squares.html)
+- [Polynomial fitting](../../02_Zettel/Theory/Polynomial fitting.html)
+- [Goodness of fit and chi-squared](../../02_Zettel/Theory/Goodness of fit and chi-squared.html)
+- [Non-linear fitting with scipy](../../02_Zettel/Theory/Non-linear fitting with scipy.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

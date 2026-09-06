@@ -80,9 +80,9 @@ these correspond to position errors of $\sim$ mas at cm, $\sim$ arcsec at mm, $\
 
 ## see also
 
-- [Calibration overview](../../../02_Zettel/Theory/interf/Calibration overview.md)
-- [Self-calibration](../../../02_Zettel/Theory/interf/Self-calibration.md)
-- [Bandpass calibration](../../../02_Zettel/Theory/interf/Bandpass calibration.md)
-- [Flux calibration](../../../02_Zettel/Theory/interf/Flux calibration.md)
-- [The phase problem in interferometry](../../../02_Zettel/Theory/interf/The phase problem in interferometry.md)
-- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Calibration overview](../../../02_Zettel/Theory/interf/Calibration overview.html)
+- [Self-calibration](../../../02_Zettel/Theory/interf/Self-calibration.html)
+- [Bandpass calibration](../../../02_Zettel/Theory/interf/Bandpass calibration.html)
+- [Flux calibration](../../../02_Zettel/Theory/interf/Flux calibration.html)
+- [The phase problem in interferometry](../../../02_Zettel/Theory/interf/The phase problem in interferometry.html)
+- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.html)

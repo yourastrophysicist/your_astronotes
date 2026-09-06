@@ -74,10 +74,10 @@ this is the most information-rich observation per unit telescope time you can ge
 
 ## see also
 
-- [Spectrograph types](../../02_Zettel/Theory/Spectrograph types.md)
-- [Multi-object spectroscopy MOS](../../02_Zettel/Theory/Multi-object spectroscopy MOS.md)
-- [Echelle spectroscopy](../../02_Zettel/Theory/Echelle spectroscopy.md)
-- [Spectrograph design](../../02_Zettel/Theory/Spectrograph design.md)
-- [Survey resources for Obs Astro](../../02_Zettel/Theory/Survey resources for Obs Astro.md)
-- [Galaxy main sequence of star formation](../../02_Zettel/Theory/Galaxy main sequence of star formation.md)
-- [Velocity dispersion from line width](../../02_Zettel/Theory/Velocity dispersion from line width.md)
+- [Spectrograph types](../../02_Zettel/Theory/Spectrograph types.html)
+- [Multi-object spectroscopy MOS](../../02_Zettel/Theory/Multi-object spectroscopy MOS.html)
+- [Echelle spectroscopy](../../02_Zettel/Theory/Echelle spectroscopy.html)
+- [Spectrograph design](../../02_Zettel/Theory/Spectrograph design.html)
+- [Survey resources for Obs Astro](../../02_Zettel/Theory/Survey resources for Obs Astro.html)
+- [Galaxy main sequence of star formation](../../02_Zettel/Theory/Galaxy main sequence of star formation.html)
+- [Velocity dispersion from line width](../../02_Zettel/Theory/Velocity dispersion from line width.html)

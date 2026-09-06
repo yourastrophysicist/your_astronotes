@@ -7,7 +7,7 @@ title: "index"
 
 Welcome to the open vault for Year 1 Master of Science coursework in Astrophysics and Cosmology at the University of Padua (Università degli Studi di Padova), Italy.
 
-This repository is an interconnected working second brain compiled by Jessica Syafaq Muthmaina (read more in [About](About.md)). It contains lecture syntheses, mathematical derivations, observational instrumentation notes, and theoretical foundations.
+This repository is an interconnected working second brain compiled by Jessica Syafaq Muthmaina (read more in [About](About.html)). It contains lecture syntheses, mathematical derivations, observational instrumentation notes, and theoretical foundations.
 
 The vault is designed for physics and astrophysics undergraduates, beginning graduate students, and independent learners who want to study the material from first principles rather than skimming slide summaries.
 
@@ -29,34 +29,34 @@ Storing this material as an interconnected graph makes those cross-disciplinary 
 
 The vault is structured around ten central Maps of Content (MOCs) located in `00_Atlas`. Each MOC serves as a comprehensive syllabus and conceptual spine for a full semester course:
 
-1. **[Fundamentals_Astrophysics_Cosmology_MOC](00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)**
+1. **[Fundamentals_Astrophysics_Cosmology_MOC](00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)**
    Foundational coordinates, spherical trigonometry, radiative mechanisms, magnitudes, stellar evolution basics, galactic structure, the Hubble law, and the thermal history of the universe.
 
-2. **[General_Relativity_MOC](00_Atlas/General_Relativity_MOC.md)**
+2. **[General_Relativity_MOC](00_Atlas/General_Relativity_MOC.html)**
    Differential geometry, manifolds, Christoffel symbols, Riemann curvature, Einstein field equations, geodesic motion, the Schwarzschild solution, orbits, and gravitational radiation.
 
-3. **[Stellar_Astrophysics_MOC](00_Atlas/Stellar_Astrophysics_MOC.md)**
+3. **[Stellar_Astrophysics_MOC](00_Atlas/Stellar_Astrophysics_MOC.html)**
    Stellar structure equations, polytropic models, equation of state, nuclear burning cycles, stellar atmospheres, color-magnitude diagrams, and cluster evolution.
 
-4. **[Astrophysics_of_Galaxies_MOC](00_Atlas/Astrophysics_of_Galaxies_MOC.md)**
+4. **[Astrophysics_of_Galaxies_MOC](00_Atlas/Astrophysics_of_Galaxies_MOC.html)**
    Photometric morphology, galactic dynamics, Jeans equations, dark matter halo profiles, stellar population synthesis, and scaling relations.
 
-5. **[Observational_Cosmology_MOC](00_Atlas/Observational_Cosmology_MOC.md)**
+5. **[Observational_Cosmology_MOC](00_Atlas/Observational_Cosmology_MOC.html)**
    FLRW metric dynamics, cosmological parameters, the cosmic distance ladder, big bang nucleosynthesis, recombination, and the cosmic microwave background.
 
-6. **[Observational_Astrophysics_MOC](00_Atlas/Observational_Astrophysics_MOC.md)**
+6. **[Observational_Astrophysics_MOC](00_Atlas/Observational_Astrophysics_MOC.html)**
    Atmospheric extinction and seeing, astronomical detectors (CCDs and infrared arrays), signal-to-noise calculations, photometric calibration, and error analysis.
 
-7. **[Astronomical_Interferometry_MOC](00_Atlas/Astronomical_Interferometry_MOC.md)**
+7. **[Astronomical_Interferometry_MOC](00_Atlas/Astronomical_Interferometry_MOC.html)**
    Coherence theory, the van Cittert-Zernike theorem, aperture synthesis, $uv$-plane coverage, visibility functions, dirty beams, CLEAN algorithms, ALMA, and the VLTI.
 
-8. **[Astronomical_Spectroscopy_MOC](00_Atlas/Astronomical_Spectroscopy_MOC.md)**
+8. **[Astronomical_Spectroscopy_MOC](00_Atlas/Astronomical_Spectroscopy_MOC.html)**
    Atomic structure, selection rules, line broadening mechanisms, spectrograph optics, dispersion, resolution, and Doppler kinematic measurements.
 
-9. **[Lab_High-Energy_MOC](00_Atlas/Lab_High-Energy_MOC.md)**
+9. **[Lab_High-Energy_MOC](00_Atlas/Lab_High-Energy_MOC.html)**
    High-energy radiation processes (synchrotron, inverse Compton, bremsstrahlung), X-ray and gamma-ray optics, scintillation crystals, solid-state detectors, and space missions.
 
-10. **[Mathematical_Numerical_Methods_MOC](00_Atlas/Mathematical_Numerical_Methods_MOC.md)**
+10. **[Mathematical_Numerical_Methods_MOC](00_Atlas/Mathematical_Numerical_Methods_MOC.html)**
     Numerical linear algebra, root-finding, numerical integration, ordinary differential equation solvers (Runge-Kutta, leapfrog), Monte Carlo methods, and Fast Fourier Transforms.
 
 ---

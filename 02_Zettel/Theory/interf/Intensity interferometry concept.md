@@ -102,8 +102,8 @@ intensity interferometers calibrate by measuring an unresolved (or known-diamete
 
 ## see also
 
-- [Hanbury Brown Twiss effect](../../../02_Zettel/Theory/interf/Hanbury Brown Twiss effect.md)
-- [Narrabri stellar interferometer](../../../02_Zettel/Theory/interf/Narrabri stellar interferometer.md)
-- [Why intensity interferometry escapes atmospheric phase](../../../02_Zettel/Theory/interf/Why intensity interferometry escapes atmospheric phase.md)
-- [Sensitivity and modern revival](../../../02_Zettel/Theory/interf/Sensitivity and modern revival.md)
-- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Hanbury Brown Twiss effect](../../../02_Zettel/Theory/interf/Hanbury Brown Twiss effect.html)
+- [Narrabri stellar interferometer](../../../02_Zettel/Theory/interf/Narrabri stellar interferometer.html)
+- [Why intensity interferometry escapes atmospheric phase](../../../02_Zettel/Theory/interf/Why intensity interferometry escapes atmospheric phase.html)
+- [Sensitivity and modern revival](../../../02_Zettel/Theory/interf/Sensitivity and modern revival.html)
+- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.html)

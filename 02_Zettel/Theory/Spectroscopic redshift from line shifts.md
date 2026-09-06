@@ -11,7 +11,7 @@ $$\boxed{\, z = \frac{\lambda_{\rm obs} - \lambda_{\rm rest}}{\lambda_{\rm rest}
 
 equivalently $\lambda_{\rm obs} = (1 + z) \lambda_{\rm rest}$.
 
-at small $z$, $v \approx cz$ (recession velocity). at high $z$, full FLRW relations apply ([Cosmological redshift](../../02_Zettel/Theory/Cosmological redshift.md)).
+at small $z$, $v \approx cz$ (recession velocity). at high $z$, full FLRW relations apply ([Cosmological redshift](../../02_Zettel/Theory/Cosmological redshift.html)).
 
 ## the procedure
 
@@ -56,7 +56,7 @@ so SDSS, DESI, etc. use $[OIII]\,\lambda 5007$ + companions for redshifts of mil
 ## limits of accuracy
 
 systematic errors that limit precision:
-- **wavelength calibration error** (see [Wavelength calibration](../../02_Zettel/Theory/Wavelength calibration.md)): typically $\delta\lambda \sim 0.01$ Å in modern echelle, $\sim 0.5$ Å in low-res.
+- **wavelength calibration error** (see [Wavelength calibration](../../02_Zettel/Theory/Wavelength calibration.html)): typically $\delta\lambda \sim 0.01$ Å in modern echelle, $\sim 0.5$ Å in low-res.
 - **line peculiar velocity**: galaxies can have $v_{\rm peculiar} \sim 300$ km/s at low $z$. limits the cosmological-redshift accuracy.
 - **profile asymmetry**: many emission lines (especially Ly$\alpha$ at high $z$) are asymmetric due to outflows or absorbers, biasing the centroid.
 
@@ -64,12 +64,12 @@ precision-RV applications (exoplanet detection): $\delta v \sim 0.1$ to $1$ m/s 
 
 ## see also
 
-- [Wavelength calibration](../../02_Zettel/Theory/Wavelength calibration.md)
-- [Cosmological redshift](../../02_Zettel/Theory/Cosmological redshift.md)
-- [Hubble's law and cosmological redshift](../../02_Zettel/Theory/Hubble's law and cosmological redshift.md)
-- [Distance ladder derivations](../../02_Zettel/Theory/Distance ladder derivations.md)
-- [Stellar velocity from Doppler shift](../../02_Zettel/Theory/Stellar velocity from Doppler shift.md)
-- [Hydrogen spectral series](../../02_Zettel/Theory/Hydrogen spectral series.md)
-- [Calcium and CaII H+K](../../02_Zettel/Theory/Calcium and CaII H+K.md)
-- [Photometric redshifts](../../02_Zettel/Theory/Photometric redshifts.md) — cheaper alternative
-- [Multi-object spectroscopy MOS](../../02_Zettel/Theory/Multi-object spectroscopy MOS.md)
+- [Wavelength calibration](../../02_Zettel/Theory/Wavelength calibration.html)
+- [Cosmological redshift](../../02_Zettel/Theory/Cosmological redshift.html)
+- [Hubble's law and cosmological redshift](../../02_Zettel/Theory/Hubble's law and cosmological redshift.html)
+- [Distance ladder derivations](../../02_Zettel/Theory/Distance ladder derivations.html)
+- [Stellar velocity from Doppler shift](../../02_Zettel/Theory/Stellar velocity from Doppler shift.html)
+- [Hydrogen spectral series](../../02_Zettel/Theory/Hydrogen spectral series.html)
+- [Calcium and CaII H+K](../../02_Zettel/Theory/Calcium and CaII H+K.html)
+- [Photometric redshifts](../../02_Zettel/Theory/Photometric redshifts.html) — cheaper alternative
+- [Multi-object spectroscopy MOS](../../02_Zettel/Theory/Multi-object spectroscopy MOS.html)

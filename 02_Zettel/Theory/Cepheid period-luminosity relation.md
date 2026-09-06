@@ -64,11 +64,11 @@ JWST + TRGB cross-checks are testing the local-ladder hypothesis. early JWST res
 
 ## see also
 
-- [Variable stars as standard candles](../../02_Zettel/Theory/Variable stars as standard candles.md)
-- [Distance ladder derivations](../../02_Zettel/Theory/Distance ladder derivations.md)
-- [Type Ia supernovae as standard candles](../../02_Zettel/Theory/Type Ia supernovae as standard candles.md)
-- [TRGB tip of the red giant branch](../../02_Zettel/Theory/TRGB tip of the red giant branch.md)
-- [Hubble flow distances](../../02_Zettel/Theory/Hubble flow distances.md)
-- [Hubble's law and cosmological redshift](../../02_Zettel/Theory/Hubble's law and cosmological redshift.md)
-- [Cepheids and supernovae](../../02_Zettel/Theory/Cepheids and supernovae.md)
-- [Annual stellar parallax](../../02_Zettel/Theory/Annual stellar parallax.md)
+- [Variable stars as standard candles](../../02_Zettel/Theory/Variable stars as standard candles.html)
+- [Distance ladder derivations](../../02_Zettel/Theory/Distance ladder derivations.html)
+- [Type Ia supernovae as standard candles](../../02_Zettel/Theory/Type Ia supernovae as standard candles.html)
+- [TRGB tip of the red giant branch](../../02_Zettel/Theory/TRGB tip of the red giant branch.html)
+- [Hubble flow distances](../../02_Zettel/Theory/Hubble flow distances.html)
+- [Hubble's law and cosmological redshift](../../02_Zettel/Theory/Hubble's law and cosmological redshift.html)
+- [Cepheids and supernovae](../../02_Zettel/Theory/Cepheids and supernovae.html)
+- [Annual stellar parallax](../../02_Zettel/Theory/Annual stellar parallax.html)

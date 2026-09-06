@@ -53,16 +53,16 @@ stars form, fuse light elements into heavier ones, return enriched material via 
 - **Pop II**: born after first SN enrichment, $Z \sim 10^{-3}$ to $10^{-1} Z_\odot$.
 - **Pop I**: born in fully enriched ISM, $Z \sim Z_\odot$.
 
-the **mass-metallicity relation** in galaxies traces this: more massive galaxies retain more SN ejecta, so reach higher $Z$ faster. see [Chemical evolution of galaxies](../../02_Zettel/Theory/Chemical evolution of galaxies.md) and [Metallicity and chemical evolution](../../02_Zettel/Theory/Metallicity and chemical evolution.md).
+the **mass-metallicity relation** in galaxies traces this: more massive galaxies retain more SN ejecta, so reach higher $Z$ faster. see [Chemical evolution of galaxies](../../02_Zettel/Theory/Chemical evolution of galaxies.html) and [Metallicity and chemical evolution](../../02_Zettel/Theory/Metallicity and chemical evolution.html).
 
 ## see also
 
-- [HR diagram](../../02_Zettel/Theory/HR diagram.md)
-- [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.md)
-- [Cluster ages from CMD turnoff](../../02_Zettel/Theory/Cluster ages from CMD turnoff.md)
-- [Metallicity and chemical evolution](../../02_Zettel/Theory/Metallicity and chemical evolution.md)
-- [Stellar evolution timescales](../../02_Zettel/Theory/Stellar evolution timescales.md)
-- [Initial mass function](../../02_Zettel/Theory/Initial mass function.md)
-- [Milky Way structure](../../02_Zettel/Theory/Milky Way structure.md)
-- [Chemical evolution of galaxies](../../02_Zettel/Theory/Chemical evolution of galaxies.md)
-- [Stellar population synthesis](../../02_Zettel/Theory/Stellar population synthesis.md)
+- [HR diagram](../../02_Zettel/Theory/HR diagram.html)
+- [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.html)
+- [Cluster ages from CMD turnoff](../../02_Zettel/Theory/Cluster ages from CMD turnoff.html)
+- [Metallicity and chemical evolution](../../02_Zettel/Theory/Metallicity and chemical evolution.html)
+- [Stellar evolution timescales](../../02_Zettel/Theory/Stellar evolution timescales.html)
+- [Initial mass function](../../02_Zettel/Theory/Initial mass function.html)
+- [Milky Way structure](../../02_Zettel/Theory/Milky Way structure.html)
+- [Chemical evolution of galaxies](../../02_Zettel/Theory/Chemical evolution of galaxies.html)
+- [Stellar population synthesis](../../02_Zettel/Theory/Stellar population synthesis.html)

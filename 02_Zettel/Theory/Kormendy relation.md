@@ -29,7 +29,7 @@ $$R_e \propto \sigma^{1.4}\,\langle I\rangle^{-0.9}$$
 
 projecting onto $\langle I\rangle - R_e$ gives Kormendy. Fundamental Plane has tighter scatter because it includes velocity dispersion as the third axis.
 
-see [Fundamental plane of ellipticals](../../02_Zettel/Theory/Fundamental plane of ellipticals.md).
+see [Fundamental plane of ellipticals](../../02_Zettel/Theory/Fundamental plane of ellipticals.html).
 
 ## the use
 
@@ -47,9 +47,9 @@ $$\langle\mu\rangle_V = 3.0 \log R_e + 18\,\text{mag/arcsec}^2$$
 
 ## see also
 
-- [Faber-Jackson relation](../../02_Zettel/Theory/Faber-Jackson relation.md)
-- [Fundamental plane of ellipticals](../../02_Zettel/Theory/Fundamental plane of ellipticals.md)
-- [De Vaucouleurs and exponential profiles](../../02_Zettel/Theory/De Vaucouleurs and exponential profiles.md)
-- [Sersic profile](../../02_Zettel/Theory/Sersic profile.md)
-- [Galaxy size-luminosity relation](../../02_Zettel/Theory/Galaxy size-luminosity relation.md)
-- [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.md)
+- [Faber-Jackson relation](../../02_Zettel/Theory/Faber-Jackson relation.html)
+- [Fundamental plane of ellipticals](../../02_Zettel/Theory/Fundamental plane of ellipticals.html)
+- [De Vaucouleurs and exponential profiles](../../02_Zettel/Theory/De Vaucouleurs and exponential profiles.html)
+- [Sersic profile](../../02_Zettel/Theory/Sersic profile.html)
+- [Galaxy size-luminosity relation](../../02_Zettel/Theory/Galaxy size-luminosity relation.html)
+- [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.html)

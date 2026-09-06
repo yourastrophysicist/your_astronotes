@@ -27,7 +27,7 @@ so a multi-wavelength SED is a complete portrait of a galaxy.
 
 take M101 (a face-on Sc galaxy):
 
-- **radio (1.4 GHz)**: smooth disk emission from synchrotron of cosmic-ray electrons accelerated in supernova remnants. tracer of recent star formation (see [Radio SFR tracer](../../02_Zettel/Theory/Radio SFR tracer.md)).
+- **radio (1.4 GHz)**: smooth disk emission from synchrotron of cosmic-ray electrons accelerated in supernova remnants. tracer of recent star formation (see [Radio SFR tracer](../../02_Zettel/Theory/Radio SFR tracer.html)).
 - **HI (21 cm)**: rotating gas disk, often extending much further than the optical disk. used for rotation curves.
 - **CO (mm)**: dense molecular gas, concentrated in spiral arms. tracer of the future fuel for star formation.
 - **far-IR (100$\mu$m)**: cold dust heated by the average stellar radiation field. tracer of dust mass and obscured star formation.
@@ -65,7 +65,7 @@ three idealized cases:
 - can be dim in UV/optical (heavy obscuration)
 - like Arp 220 — a ULIRG with $L_{\rm IR} \sim 10^{12}\, L_\odot$
 
-→ see [Spectral energy distributions](../../02_Zettel/Theory/Spectral energy distributions.md) for the SED fitting techniques used to extract galaxy properties from multi-wavelength data.
+→ see [Spectral energy distributions](../../02_Zettel/Theory/Spectral energy distributions.html) for the SED fitting techniques used to extract galaxy properties from multi-wavelength data.
 
 ---
 
@@ -76,7 +76,7 @@ $$m_{\rm obs}(\nu) = m_{\rm rest}(\nu(1+z)) + K(z)$$
 
 K-correction is band-dependent and SED-dependent. crucial for high-z work.
 
-→ see [K-correction](../../02_Zettel/Theory/K-correction.md) in the Observational Cosmology MOC.
+→ see [K-correction](../../02_Zettel/Theory/K-correction.html) in the Observational Cosmology MOC.
 
 ---
 
@@ -88,7 +88,7 @@ the integrated emission of all galaxies across cosmic time produces:
 - **CXB** (cosmic X-ray background): integrated AGN emission
 - **CRB** (cosmic radio background)
 
-→ see [Cosmic_inventory_photons](../../02_Zettel/Theory/Cosmic_inventory_photons.md) for the SEDs of these backgrounds.
+→ see [Cosmic_inventory_photons](../../02_Zettel/Theory/Cosmic_inventory_photons.html) for the SEDs of these backgrounds.
 
 these backgrounds carry the **integrated history** of all galaxies. a complete picture of galaxy evolution must reproduce them all.
 
@@ -108,13 +108,13 @@ the **modern era of cosmology** is multi-wavelength: SDSS optical + Galex UV + H
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Galaxies in the local universe](../../02_Zettel/Theory/Galaxies in the local universe.md)
-- [Hubble morphological sequence](../../02_Zettel/Theory/Hubble morphological sequence.md)
-- [Spectral energy distributions](../../02_Zettel/Theory/Spectral energy distributions.md)
-- [Cosmic_inventory_photons](../../02_Zettel/Theory/Cosmic_inventory_photons.md)
-- [K-correction](../../02_Zettel/Theory/K-correction.md)
-- [Galaxy counts at different wavelengths](../../02_Zettel/Theory/Galaxy counts at different wavelengths.md)
-- [IR SFR tracer](../../02_Zettel/Theory/IR SFR tracer.md)
-- [Radio SFR tracer](../../02_Zettel/Theory/Radio SFR tracer.md)
-- [X-ray SFR tracer](../../02_Zettel/Theory/X-ray SFR tracer.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Galaxies in the local universe](../../02_Zettel/Theory/Galaxies in the local universe.html)
+- [Hubble morphological sequence](../../02_Zettel/Theory/Hubble morphological sequence.html)
+- [Spectral energy distributions](../../02_Zettel/Theory/Spectral energy distributions.html)
+- [Cosmic_inventory_photons](../../02_Zettel/Theory/Cosmic_inventory_photons.html)
+- [K-correction](../../02_Zettel/Theory/K-correction.html)
+- [Galaxy counts at different wavelengths](../../02_Zettel/Theory/Galaxy counts at different wavelengths.html)
+- [IR SFR tracer](../../02_Zettel/Theory/IR SFR tracer.html)
+- [Radio SFR tracer](../../02_Zettel/Theory/Radio SFR tracer.html)
+- [X-ray SFR tracer](../../02_Zettel/Theory/X-ray SFR tracer.html)

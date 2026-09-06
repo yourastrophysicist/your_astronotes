@@ -121,7 +121,7 @@ $$\tau_g=\frac{\mathbf B\cdot\mathbf s}{c}$$
 
 BookAI's version is a good reminder that radio interferometry is not just "many dishes". it is a phase-preserving electronics machine.
 
-see also [Downconversion of signals in radio interferometers](../../02_Zettel/Theory/interf/Downconversion of signals in radio interferometers.md), [Digitization quantization and timing in radio interferometry](../../02_Zettel/Theory/interf/Digitization quantization and timing in radio interferometry.md), and [Radiometer equation and SEFD](../../02_Zettel/Theory/interf/Radiometer equation and SEFD.md).
+see also [Downconversion of signals in radio interferometers](../../02_Zettel/Theory/interf/Downconversion of signals in radio interferometers.html), [Digitization quantization and timing in radio interferometry](../../02_Zettel/Theory/interf/Digitization quantization and timing in radio interferometry.html), and [Radiometer equation and SEFD](../../02_Zettel/Theory/interf/Radiometer equation and SEFD.html).
 
 ## scientific figures
 
@@ -135,9 +135,9 @@ source: first figure from ALMA Observatory, "How ALMA Works"; second figure is a
 
 ## see also
 
-- [Radio astronomy basics](../../02_Zettel/Theory/interf/Radio astronomy basics.md)
-- [Two-element correlator](../../02_Zettel/Theory/interf/Two-element correlator.md)
-- [Connected element interferometer](../../02_Zettel/Theory/interf/Connected element interferometer.md)
-- [Very Long Baseline Interferometry VLBI](../../02_Zettel/Theory/interf/Very Long Baseline Interferometry VLBI.md)
-- [Earth rotation synthesis in radio](../../02_Zettel/Theory/interf/Earth rotation synthesis in radio.md)
-- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Radio astronomy basics](../../02_Zettel/Theory/interf/Radio astronomy basics.html)
+- [Two-element correlator](../../02_Zettel/Theory/interf/Two-element correlator.html)
+- [Connected element interferometer](../../02_Zettel/Theory/interf/Connected element interferometer.html)
+- [Very Long Baseline Interferometry VLBI](../../02_Zettel/Theory/interf/Very Long Baseline Interferometry VLBI.html)
+- [Earth rotation synthesis in radio](../../02_Zettel/Theory/interf/Earth rotation synthesis in radio.html)
+- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.html)

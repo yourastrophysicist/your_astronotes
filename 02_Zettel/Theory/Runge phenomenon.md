@@ -88,8 +88,8 @@ the Runge phenomenon is a striking example of "more is less" in numerical analys
 
 ## see also
 
-- [Lagrange polynomial interpolation](../../02_Zettel/Theory/Lagrange polynomial interpolation.md)
-- [Newton divided differences](../../02_Zettel/Theory/Newton divided differences.md)
-- [Cubic spline interpolation](../../02_Zettel/Theory/Cubic spline interpolation.md)
-- [Linear interpolation](../../02_Zettel/Theory/Linear interpolation.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Lagrange polynomial interpolation](../../02_Zettel/Theory/Lagrange polynomial interpolation.html)
+- [Newton divided differences](../../02_Zettel/Theory/Newton divided differences.html)
+- [Cubic spline interpolation](../../02_Zettel/Theory/Cubic spline interpolation.html)
+- [Linear interpolation](../../02_Zettel/Theory/Linear interpolation.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

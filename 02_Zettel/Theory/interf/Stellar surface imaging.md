@@ -108,8 +108,8 @@ before interferometric imaging, stellar surfaces were inferred indirectly (from 
 
 ## see also
 
-- [Stellar diameters and limb darkening](../../../02_Zettel/Theory/interf/Stellar diameters and limb darkening.md)
-- [CHARA array](../../../02_Zettel/Theory/interf/CHARA array.md)
-- [VLTI Very Large Telescope Interferometer](../../../02_Zettel/Theory/interf/VLTI Very Large Telescope Interferometer.md)
-- [Phase closure](../../../02_Zettel/Theory/interf/Phase closure.md)
-- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Stellar diameters and limb darkening](../../../02_Zettel/Theory/interf/Stellar diameters and limb darkening.html)
+- [CHARA array](../../../02_Zettel/Theory/interf/CHARA array.html)
+- [VLTI Very Large Telescope Interferometer](../../../02_Zettel/Theory/interf/VLTI Very Large Telescope Interferometer.html)
+- [Phase closure](../../../02_Zettel/Theory/interf/Phase closure.html)
+- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.html)

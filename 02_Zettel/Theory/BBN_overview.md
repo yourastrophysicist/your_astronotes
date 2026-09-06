@@ -17,7 +17,7 @@ what comes out of BBN, three minutes later:
 - a **relevant** amount of $^2$H (deuterium, 1p+1n) and $^3$He (2p+1n)
 - a **small** amount of $^7$Li (3p+4n)
 
-essentially nothing heavier. the absence of tightly-bound isotopes at mass numbers $A=5$ and $A=8$, plus the steeply suppressed reaction rates at $T \sim 0.1$ MeV, prevents significant synthesis beyond $^4$He. heavier elements are forged later, in stars (see [Stellar nucleosynthesis](../../02_Zettel/Theory/Stellar nucleosynthesis.md)).
+essentially nothing heavier. the absence of tightly-bound isotopes at mass numbers $A=5$ and $A=8$, plus the steeply suppressed reaction rates at $T \sim 0.1$ MeV, prevents significant synthesis beyond $^4$He. heavier elements are forged later, in stars (see [Stellar nucleosynthesis](../../02_Zettel/Theory/Stellar nucleosynthesis.html)).
 
 ![bbn-01](../../assets/images/bbn-01.png)
 
@@ -109,7 +109,7 @@ with $\sum_i X_i = 1$.
 a critical cosmological number for BBN:
 $$\eta = \frac{n_N}{n_\gamma}$$
 
-a simple estimate gives $n_N = 1.38 \times 10^{-5}\, (\Omega_{0b} h^2)$ cm$^{-3}$ today. with the photon number density $n_\gamma = (2\zeta(3)/\pi^2) T^3 \simeq 422$ cm$^{-3}$ (see [Cosmic_inventory_photons](../../02_Zettel/Theory/Cosmic_inventory_photons.md)):
+a simple estimate gives $n_N = 1.38 \times 10^{-5}\, (\Omega_{0b} h^2)$ cm$^{-3}$ today. with the photon number density $n_\gamma = (2\zeta(3)/\pi^2) T^3 \simeq 422$ cm$^{-3}$ (see [Cosmic_inventory_photons](../../02_Zettel/Theory/Cosmic_inventory_photons.html)):
 $$\boxed{\,\eta = \frac{n_N}{n_\gamma} = 2.68 \times 10^{-8} (\Omega_{0b} h^2) \quad \text{today}\,}$$
 
 with Planck's $\Omega_b h^2 \approx 0.0224$ this gives $\eta \sim 6 \times 10^{-10}$. *one nucleon per about a billion photons.* the universe is photon-dominated by number.
@@ -494,10 +494,10 @@ this is why BBN is one of the three observational pillars of the standard hot Bi
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Cosmic_inventory_overview](../../02_Zettel/Theory/Cosmic_inventory_overview.md)
-- [Cosmic_inventory_baryons](../../02_Zettel/Theory/Cosmic_inventory_baryons.md)
-- [Brief thermal history](../../02_Zettel/Theory/Brief thermal history.md)
-- [Saha equation and recombination](../../02_Zettel/Theory/Saha equation and recombination.md) — same entropy logic, different epoch
-- [Stellar nucleosynthesis](../../02_Zettel/Theory/Stellar nucleosynthesis.md) — what happens *after* BBN, in stars
-- [Baumann_reference](../../02_Zettel/Theory/Baumann_reference.md) — chapter 3.3.4 is the Boltzmann-equation derivation
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Cosmic_inventory_overview](../../02_Zettel/Theory/Cosmic_inventory_overview.html)
+- [Cosmic_inventory_baryons](../../02_Zettel/Theory/Cosmic_inventory_baryons.html)
+- [Brief thermal history](../../02_Zettel/Theory/Brief thermal history.html)
+- [Saha equation and recombination](../../02_Zettel/Theory/Saha equation and recombination.html) — same entropy logic, different epoch
+- [Stellar nucleosynthesis](../../02_Zettel/Theory/Stellar nucleosynthesis.html) — what happens *after* BBN, in stars
+- [Baumann_reference](../../02_Zettel/Theory/Baumann_reference.html) — chapter 3.3.4 is the Boltzmann-equation derivation

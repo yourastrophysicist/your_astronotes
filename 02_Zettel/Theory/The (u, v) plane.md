@@ -47,5 +47,5 @@ The quality of a synthesized radio or optical image is entirely dependent on (u,
 
 ## connections & zettel links
 
-* parent moc: [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.md)
-* related zettels: [Aperture synthesis principle](../../02_Zettel/Theory/interf/Aperture synthesis principle.md), [Earth-rotation aperture synthesis](../../02_Zettel/Theory/interf/Earth-rotation aperture synthesis.md), [Dirty beam and dirty image](../../02_Zettel/Theory/interf/Dirty beam and dirty image.md), [Van Cittert-Zernike theorem](../../02_Zettel/Theory/interf/Van Cittert-Zernike theorem.md)
+* parent moc: [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.html)
+* related zettels: [Aperture synthesis principle](../../02_Zettel/Theory/interf/Aperture synthesis principle.html), [Earth-rotation aperture synthesis](../../02_Zettel/Theory/interf/Earth-rotation aperture synthesis.html), [Dirty beam and dirty image](../../02_Zettel/Theory/interf/Dirty beam and dirty image.html), [Van Cittert-Zernike theorem](../../02_Zettel/Theory/interf/Van Cittert-Zernike theorem.html)

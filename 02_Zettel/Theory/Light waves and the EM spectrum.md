@@ -79,7 +79,7 @@ the $\mathbf{E}$ vector can be:
 - **elliptically polarized**: a general intermediate case
 - **unpolarized**: random fluctuating polarization, like sunlight
 
-polarization matters for interferometry through the Fresnel-Arago laws (see [Fresnel-Arago laws](../../02_Zettel/Theory/interf/Fresnel-Arago laws.md)): only parallel-polarized waves can interfere. perpendicular polarizations cannot form fringes.
+polarization matters for interferometry through the Fresnel-Arago laws (see [Fresnel-Arago laws](../../02_Zettel/Theory/interf/Fresnel-Arago laws.html)): only parallel-polarized waves can interfere. perpendicular polarizations cannot form fringes.
 
 ## the intensity
 
@@ -100,9 +100,9 @@ so this zettel is the foundation. after it, every result is one more layer of st
 
 ## see also
 
-- [Plane waves and Huygens principle](../../02_Zettel/Theory/interf/Plane waves and Huygens principle.md)
-- [Superposition and interference](../../02_Zettel/Theory/interf/Superposition and interference.md)
-- [Electromagnetic waves and photons](../../02_Zettel/Theory/interf/Electromagnetic waves and photons.md)
-- [Optical path difference OPD](../../02_Zettel/Theory/interf/Optical path difference OPD.md)
-- [Fresnel-Arago laws](../../02_Zettel/Theory/interf/Fresnel-Arago laws.md)
-- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Plane waves and Huygens principle](../../02_Zettel/Theory/interf/Plane waves and Huygens principle.html)
+- [Superposition and interference](../../02_Zettel/Theory/interf/Superposition and interference.html)
+- [Electromagnetic waves and photons](../../02_Zettel/Theory/interf/Electromagnetic waves and photons.html)
+- [Optical path difference OPD](../../02_Zettel/Theory/interf/Optical path difference OPD.html)
+- [Fresnel-Arago laws](../../02_Zettel/Theory/interf/Fresnel-Arago laws.html)
+- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.html)

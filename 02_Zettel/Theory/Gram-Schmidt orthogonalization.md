@@ -78,7 +78,7 @@ stack as columns:
 
 $$A = QR$$
 
-with $Q$ orthogonal ($Q^T Q = I$) and $R$ upper triangular with diagonal $\|\mathbf{u}_i\|$ and off-diagonal $(\mathbf{q}_k \cdot \mathbf{a}_i)$. this is [QR decomposition](../../02_Zettel/Theory/QR decomposition.md) — Gram-Schmidt is *one* way to compute it.
+with $Q$ orthogonal ($Q^T Q = I$) and $R$ upper triangular with diagonal $\|\mathbf{u}_i\|$ and off-diagonal $(\mathbf{q}_k \cdot \mathbf{a}_i)$. this is [QR decomposition](../../02_Zettel/Theory/QR decomposition.html) — Gram-Schmidt is *one* way to compute it.
 
 ## why it matters in physics
 
@@ -93,6 +93,6 @@ $O(N^3)$ for an $N \times N$ matrix (the dominant cost is the dot products and r
 
 ## see also
 
-- [QR decomposition](../../02_Zettel/Theory/QR decomposition.md)
-- [QR algorithm for eigenvalues](../../02_Zettel/Theory/QR algorithm for eigenvalues.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [QR decomposition](../../02_Zettel/Theory/QR decomposition.html)
+- [QR algorithm for eigenvalues](../../02_Zettel/Theory/QR algorithm for eigenvalues.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

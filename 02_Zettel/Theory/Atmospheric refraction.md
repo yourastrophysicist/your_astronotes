@@ -28,7 +28,7 @@ $n(\lambda)$ depends weakly on wavelength, so $R(\lambda)$ does too. at $z > 0$ 
 $$\Delta R(B \to R) \sim 1''\quad\text{at } z = 30°$$
 $$\Delta R(B \to R) \sim 3''\quad\text{at } z = 60°$$
 
-for high-resolution imaging or spectroscopy at $z > 30°$, an **atmospheric dispersion corrector** (ADC, a counter-rotating prism pair) is mandatory. see [Atmospheric dispersion](../../02_Zettel/Theory/interf/Atmospheric dispersion.md).
+for high-resolution imaging or spectroscopy at $z > 30°$, an **atmospheric dispersion corrector** (ADC, a counter-rotating prism pair) is mandatory. see [Atmospheric dispersion](../../02_Zettel/Theory/interf/Atmospheric dispersion.html).
 
 ## environmental dependence
 
@@ -45,9 +45,9 @@ so on a hot day or at high altitude the refraction is smaller. at Mauna Kea ($P 
 
 ## see also
 
-- [Earth atmosphere for observations](../../02_Zettel/Theory/Earth atmosphere for observations.md)
-- [Atmospheric dispersion](../../02_Zettel/Theory/interf/Atmospheric dispersion.md)
-- [Atmospheric extinction](../../02_Zettel/Theory/interf/Atmospheric extinction.md)
-- [Equatorial system](../../02_Zettel/Theory/Equatorial system.md)
-- [Horizontal alt-azimuth system](../../02_Zettel/Theory/Horizontal alt-azimuth system.md)
-- [Precession nutation aberration parallax](../../02_Zettel/Theory/Precession nutation aberration parallax.md)
+- [Earth atmosphere for observations](../../02_Zettel/Theory/Earth atmosphere for observations.html)
+- [Atmospheric dispersion](../../02_Zettel/Theory/interf/Atmospheric dispersion.html)
+- [Atmospheric extinction](../../02_Zettel/Theory/interf/Atmospheric extinction.html)
+- [Equatorial system](../../02_Zettel/Theory/Equatorial system.html)
+- [Horizontal alt-azimuth system](../../02_Zettel/Theory/Horizontal alt-azimuth system.html)
+- [Precession nutation aberration parallax](../../02_Zettel/Theory/Precession nutation aberration parallax.html)

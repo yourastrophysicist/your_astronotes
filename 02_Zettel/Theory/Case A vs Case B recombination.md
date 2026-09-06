@@ -41,7 +41,7 @@ result: Case-B Balmer line ratios are well-defined and robust to recombination d
 | H$\varepsilon$/H$\beta$ | $0.158$ |
 | H8/H$\beta$ | $0.105$ |
 
-deviation from H$\alpha$/H$\beta = 2.86$ in observed spectra indicates **dust extinction** ([Balmer decrement](../../02_Zettel/Theory/Balmer decrement.md)).
+deviation from H$\alpha$/H$\beta = 2.86$ in observed spectra indicates **dust extinction** ([Balmer decrement](../../02_Zettel/Theory/Balmer decrement.html)).
 
 ## comparison
 
@@ -65,11 +65,11 @@ modern photoionisation codes (Cloudy, MAPPINGS) handle Cases A, B, C, and interm
 
 ## see also
 
-- [Optically thin recombination lines](../../02_Zettel/Theory/Optically thin recombination lines.md)
-- [Recombination line emissivity](../../02_Zettel/Theory/Recombination line emissivity.md)
-- [Balmer decrement](../../02_Zettel/Theory/Balmer decrement.md)
-- [Hydrogen spectral series](../../02_Zettel/Theory/Hydrogen spectral series.md)
-- [H-alpha SFR tracer](../../02_Zettel/Theory/H-alpha SFR tracer.md)
-- [Photoionisation balance](../../02_Zettel/Theory/Photoionisation balance.md)
+- [Optically thin recombination lines](../../02_Zettel/Theory/Optically thin recombination lines.html)
+- [Recombination line emissivity](../../02_Zettel/Theory/Recombination line emissivity.html)
+- [Balmer decrement](../../02_Zettel/Theory/Balmer decrement.html)
+- [Hydrogen spectral series](../../02_Zettel/Theory/Hydrogen spectral series.html)
+- [H-alpha SFR tracer](../../02_Zettel/Theory/H-alpha SFR tracer.html)
+- [Photoionisation balance](../../02_Zettel/Theory/Photoionisation balance.html)
 - Strömgren sphere
-- [Photon decoupling and CMB](../../02_Zettel/Theory/Photon decoupling and CMB.md) — analogous Case-B-like problem in the cosmological recombination
+- [Photon decoupling and CMB](../../02_Zettel/Theory/Photon decoupling and CMB.html) — analogous Case-B-like problem in the cosmological recombination

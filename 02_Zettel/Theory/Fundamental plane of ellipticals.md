@@ -5,7 +5,7 @@ title: "Fundamental plane of ellipticals"
 
 # fundamental plane of ellipticals
 
-up: [Pablo_02_Statistical_properties_of_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.md)
+up: [Pablo_02_Statistical_properties_of_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html)
 
 ## the relation
 
@@ -48,11 +48,11 @@ three uses:
 
 ## connections
 
-- size-luminosity context: [Galaxy size-luminosity relation](../../02_Zettel/Theory/Galaxy size-luminosity relation.md)
-- spirals' analogue: [Tully-Fisher relation](../../02_Zettel/Theory/Tully-Fisher relation.md)
-- gas physics analogue: [Schmidt-Kennicutt law](../../02_Zettel/Theory/Schmidt-Kennicutt law.md)
-- BH analogue: [Magorrian relation](../../02_Zettel/Theory/Magorrian relation.md)
-- main star-formation analogue: [Galaxy main sequence of star formation](../../02_Zettel/Theory/Galaxy main sequence of star formation.md)
+- size-luminosity context: [Galaxy size-luminosity relation](../../02_Zettel/Theory/Galaxy size-luminosity relation.html)
+- spirals' analogue: [Tully-Fisher relation](../../02_Zettel/Theory/Tully-Fisher relation.html)
+- gas physics analogue: [Schmidt-Kennicutt law](../../02_Zettel/Theory/Schmidt-Kennicutt law.html)
+- BH analogue: [Magorrian relation](../../02_Zettel/Theory/Magorrian relation.html)
+- main star-formation analogue: [Galaxy main sequence of star formation](../../02_Zettel/Theory/Galaxy main sequence of star formation.html)
 
 ## key references
 

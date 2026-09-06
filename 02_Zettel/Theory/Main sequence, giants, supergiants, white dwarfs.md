@@ -9,7 +9,7 @@ the four main populations on the HR diagram, each corresponding to a different s
 
 ## main sequence (MS)
 
-stars **fusing hydrogen to helium in their cores** via the pp chain or the CNO cycle (see [Stellar nucleosynthesis](../../02_Zettel/Theory/Stellar nucleosynthesis.md)).
+stars **fusing hydrogen to helium in their cores** via the pp chain or the CNO cycle (see [Stellar nucleosynthesis](../../02_Zettel/Theory/Stellar nucleosynthesis.html)).
 
 defining feature: hydrostatic equilibrium between gravity (compressing the star) and thermal pressure from nuclear burning (resisting compression). this state is stable and long-lasting.
 
@@ -63,7 +63,7 @@ key feature: **non-degenerate** core. they go through successive nuclear burning
 
 end products: **neutron star** (typical) or **black hole** (if very massive). the supernova ejects most of the mass and enriches the ISM with metals.
 
-→ see [Solar evolution and final stages](../../02_Zettel/Theory/Solar evolution and final stages.md).
+→ see [Solar evolution and final stages](../../02_Zettel/Theory/Solar evolution and final stages.html).
 
 ---
 
@@ -81,7 +81,7 @@ properties:
 
 WDs sit *below* the MS on the HR diagram because they are very hot but very small — same $T$ as a B star, but $L \sim 10^{-4}\, L_\odot$.
 
-cosmological role: a SN Ia explosion happens when a C-O white dwarf in a binary accretes enough material to approach the Chandrasekhar limit and detonate (or merge with another WD). the resulting standardizable explosion is the **standard candle** that mapped the dark-energy-driven expansion of the universe (see [Cepheids and supernovae](../../02_Zettel/Theory/Cepheids and supernovae.md) and [Cosmic_inventory_dark_energy](../../02_Zettel/Theory/Cosmic_inventory_dark_energy.md)).
+cosmological role: a SN Ia explosion happens when a C-O white dwarf in a binary accretes enough material to approach the Chandrasekhar limit and detonate (or merge with another WD). the resulting standardizable explosion is the **standard candle** that mapped the dark-energy-driven expansion of the universe (see [Cepheids and supernovae](../../02_Zettel/Theory/Cepheids and supernovae.html) and [Cosmic_inventory_dark_energy](../../02_Zettel/Theory/Cosmic_inventory_dark_energy.html)).
 
 ![stellar-13](../../assets/images/stellar-13.png)
 
@@ -100,7 +100,7 @@ cosmological role: a SN Ia explosion happens when a C-O white dwarf in a binary 
 
 ## the IMF and the post-MS census
 
-from the **initial mass function** (see [Initial mass function](../../02_Zettel/Theory/Initial mass function.md)), most stars are low-mass:
+from the **initial mass function** (see [Initial mass function](../../02_Zettel/Theory/Initial mass function.html)), most stars are low-mass:
 - the Galactic disc has $\sim 10^{11}$ stars
 - 90% are MS, 9% are giants, 1% are WDs
 - (these fractions depend on the population age — older clusters have more WDs)
@@ -111,10 +111,10 @@ more massive stars are *underrepresented* in the present-day census because they
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [HR diagram](../../02_Zettel/Theory/HR diagram.md)
-- [Stellar scaling relations](../../02_Zettel/Theory/Stellar scaling relations.md)
-- [Stellar structure equations](../../02_Zettel/Theory/Stellar structure equations.md)
-- [Stellar nucleosynthesis](../../02_Zettel/Theory/Stellar nucleosynthesis.md)
-- [Stellar evolution timescales](../../02_Zettel/Theory/Stellar evolution timescales.md)
-- [Solar evolution and final stages](../../02_Zettel/Theory/Solar evolution and final stages.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [HR diagram](../../02_Zettel/Theory/HR diagram.html)
+- [Stellar scaling relations](../../02_Zettel/Theory/Stellar scaling relations.html)
+- [Stellar structure equations](../../02_Zettel/Theory/Stellar structure equations.html)
+- [Stellar nucleosynthesis](../../02_Zettel/Theory/Stellar nucleosynthesis.html)
+- [Stellar evolution timescales](../../02_Zettel/Theory/Stellar evolution timescales.html)
+- [Solar evolution and final stages](../../02_Zettel/Theory/Solar evolution and final stages.html)

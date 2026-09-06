@@ -74,13 +74,13 @@ BPT classifications are run on $\sim 10^6$ galaxies in SDSS spectroscopic sample
 
 ## see also
 
-- [Forbidden line diagnostics](../../02_Zettel/Theory/Forbidden line diagnostics.md)
-- [OIII forbidden lines](../../02_Zettel/Theory/OIII forbidden lines.md)
-- [Forbidden lines](../../02_Zettel/Theory/Forbidden lines.md)
-- [Ionisation parameter and ionisation state](../../02_Zettel/Theory/Ionisation parameter and ionisation state.md)
-- [H II region spectroscopy](../../02_Zettel/Theory/H II region spectroscopy.md)
-- [AGN spectroscopy](../../02_Zettel/Theory/AGN spectroscopy.md)
-- [Galaxy spectroscopy by type](../../02_Zettel/Theory/Galaxy spectroscopy by type.md)
-- [Balmer decrement](../../02_Zettel/Theory/Balmer decrement.md)
-- [Dust extinction in nebulae](../../02_Zettel/Theory/Dust extinction in nebulae.md)
-- [Photoionisation balance](../../02_Zettel/Theory/Photoionisation balance.md)
+- [Forbidden line diagnostics](../../02_Zettel/Theory/Forbidden line diagnostics.html)
+- [OIII forbidden lines](../../02_Zettel/Theory/OIII forbidden lines.html)
+- [Forbidden lines](../../02_Zettel/Theory/Forbidden lines.html)
+- [Ionisation parameter and ionisation state](../../02_Zettel/Theory/Ionisation parameter and ionisation state.html)
+- [H II region spectroscopy](../../02_Zettel/Theory/H II region spectroscopy.html)
+- [AGN spectroscopy](../../02_Zettel/Theory/AGN spectroscopy.html)
+- [Galaxy spectroscopy by type](../../02_Zettel/Theory/Galaxy spectroscopy by type.html)
+- [Balmer decrement](../../02_Zettel/Theory/Balmer decrement.html)
+- [Dust extinction in nebulae](../../02_Zettel/Theory/Dust extinction in nebulae.html)
+- [Photoionisation balance](../../02_Zettel/Theory/Photoionisation balance.html)

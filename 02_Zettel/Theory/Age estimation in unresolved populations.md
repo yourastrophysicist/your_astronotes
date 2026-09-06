@@ -41,7 +41,7 @@ inverse of the doubling time. high sSFR = young, active galaxy; low sSFR = old, 
 
 ## the central degeneracy
 
-age-metallicity degeneracy in broadband colors: see [Age-metallicity degeneracy](../../02_Zettel/Theory/Age-metallicity degeneracy.md). older + metal-poor mimics younger + metal-rich. need either:
+age-metallicity degeneracy in broadband colors: see [Age-metallicity degeneracy](../../02_Zettel/Theory/Age-metallicity degeneracy.html). older + metal-poor mimics younger + metal-rich. need either:
 - **Lick indices** (orthogonal age vs metal sensitivities).
 - **NIR + optical** combination.
 - **spectroscopy** (full-spectrum fitting like pPXF).
@@ -63,13 +63,13 @@ a galaxy "quenches" when its sSFR drops below a threshold and it stops adding ma
 
 ## see also
 
-- [Stellar population synthesis](../../02_Zettel/Theory/Stellar population synthesis.md)
-- [Single stellar population SSP](../../02_Zettel/Theory/Single stellar population SSP.md)
-- [SED fitting basics](../../02_Zettel/Theory/SED fitting basics.md)
-- [Lick indices](../../02_Zettel/Theory/Lick indices.md)
-- [Age-metallicity degeneracy](../../02_Zettel/Theory/Age-metallicity degeneracy.md)
-- [Stellar mass estimation in unresolved populations](../../02_Zettel/Theory/Stellar mass estimation in unresolved populations.md)
-- [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.md)
-- [Star formation history of a population](../../02_Zettel/Theory/Star formation history of a population.md)
-- [Stellar populations I II III](../../02_Zettel/Theory/Stellar populations I II III.md)
-- [Cluster ages from CMD turnoff](../../02_Zettel/Theory/Cluster ages from CMD turnoff.md)
+- [Stellar population synthesis](../../02_Zettel/Theory/Stellar population synthesis.html)
+- [Single stellar population SSP](../../02_Zettel/Theory/Single stellar population SSP.html)
+- [SED fitting basics](../../02_Zettel/Theory/SED fitting basics.html)
+- [Lick indices](../../02_Zettel/Theory/Lick indices.html)
+- [Age-metallicity degeneracy](../../02_Zettel/Theory/Age-metallicity degeneracy.html)
+- [Stellar mass estimation in unresolved populations](../../02_Zettel/Theory/Stellar mass estimation in unresolved populations.html)
+- [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.html)
+- [Star formation history of a population](../../02_Zettel/Theory/Star formation history of a population.html)
+- [Stellar populations I II III](../../02_Zettel/Theory/Stellar populations I II III.html)
+- [Cluster ages from CMD turnoff](../../02_Zettel/Theory/Cluster ages from CMD turnoff.html)

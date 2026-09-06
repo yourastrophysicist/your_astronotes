@@ -58,7 +58,7 @@ $$\phi(M) \propto M^{-2.35} \quad (M > 0.5\,M_\odot)$$
 
 modern: **Kroupa (2001)** or **Chabrier (2003)** with a turnover at low mass.
 
-→ see [Initial mass function](../../02_Zettel/Theory/Initial mass function.md).
+→ see [Initial mass function](../../02_Zettel/Theory/Initial mass function.html).
 
 stellar mass = total mass currently in stars. typically inferred from optical-NIR photometry. uncertainty $\sim 0.2$–$0.3$ dex due to IMF, SFH, and dust uncertainties.
 
@@ -76,7 +76,7 @@ the star formation rate today is inferred from various tracers (each sensitive t
 | **radio** (1.4 GHz) | $\sim 100$ Myr | FIR-radio correlation |
 | **X-ray** (0.5-10 keV) | $\sim 100$ Myr | Ranalli 2003 |
 
-→ see [UV SFR tracer](../../02_Zettel/Theory/UV SFR tracer.md), [H-alpha SFR tracer](../../02_Zettel/Theory/H-alpha SFR tracer.md), [IR SFR tracer](../../02_Zettel/Theory/IR SFR tracer.md), [Radio SFR tracer](../../02_Zettel/Theory/Radio SFR tracer.md), [X-ray SFR tracer](../../02_Zettel/Theory/X-ray SFR tracer.md).
+→ see [UV SFR tracer](../../02_Zettel/Theory/UV SFR tracer.html), [H-alpha SFR tracer](../../02_Zettel/Theory/H-alpha SFR tracer.html), [IR SFR tracer](../../02_Zettel/Theory/IR SFR tracer.html), [Radio SFR tracer](../../02_Zettel/Theory/Radio SFR tracer.html), [X-ray SFR tracer](../../02_Zettel/Theory/X-ray SFR tracer.html).
 
 a galaxy's SED encodes its current SFR (UV/H$\alpha$) and its recent SFH (optical-NIR continuum shape).
 
@@ -102,7 +102,7 @@ $$\chi^2(z) = \sum_i \frac{[f^{\rm obs}_i - f^{\rm template}_i(z)]^2}{\sigma_i^2
 
 minimum $\chi^2(z)$ gives the photo-z. accuracy depends on the SED features being captured by the photometry — typically $\sigma_z/(1+z) \sim 0.03$ for high-quality photo-z, much worse for low-coverage data.
 
-→ see [Photometric redshifts](../../02_Zettel/Theory/Photometric redshifts.md).
+→ see [Photometric redshifts](../../02_Zettel/Theory/Photometric redshifts.html).
 
 ---
 
@@ -124,11 +124,11 @@ modern galaxy surveys (SDSS, COSMOS, JADES, CEERS, Euclid) are *mostly photometr
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Galaxies across wavelengths](../../02_Zettel/Theory/Galaxies across wavelengths.md)
-- [Hubble morphological sequence](../../02_Zettel/Theory/Hubble morphological sequence.md)
-- [Initial mass function](../../02_Zettel/Theory/Initial mass function.md)
-- [Photometric redshifts](../../02_Zettel/Theory/Photometric redshifts.md)
-- [Stellar population synthesis](../../02_Zettel/Theory/Stellar population synthesis.md)
-- [SED fitting for SFH](../../02_Zettel/Theory/SED fitting for SFH.md)
-- [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Galaxies across wavelengths](../../02_Zettel/Theory/Galaxies across wavelengths.html)
+- [Hubble morphological sequence](../../02_Zettel/Theory/Hubble morphological sequence.html)
+- [Initial mass function](../../02_Zettel/Theory/Initial mass function.html)
+- [Photometric redshifts](../../02_Zettel/Theory/Photometric redshifts.html)
+- [Stellar population synthesis](../../02_Zettel/Theory/Stellar population synthesis.html)
+- [SED fitting for SFH](../../02_Zettel/Theory/SED fitting for SFH.html)
+- [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.html)

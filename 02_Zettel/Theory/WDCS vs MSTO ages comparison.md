@@ -6,18 +6,18 @@ description: cross-checking ages from white dwarf cooling against main-sequence 
 
 # wdcs vs msto ages comparison
 
-dating a stellar population using the white dwarf cooling sequence (WDCS) and using the main-sequence turnoff (MSTO) rests on completely different stellar physics. the WDCS reflects degenerate cooling (electron degeneracy pressure, conductive opacities, ion crystallisation; see [White dwarf cooling theory](../../02_Zettel/Theory/White dwarf cooling theory.md)), while the MSTO reflects nuclear hydrogen burning timescales for stars of about a solar mass (see [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.md) and [HR diagram](../../02_Zettel/Theory/HR diagram.md)). they are sensitive to different things.
+dating a stellar population using the white dwarf cooling sequence (WDCS) and using the main-sequence turnoff (MSTO) rests on completely different stellar physics. the WDCS reflects degenerate cooling (electron degeneracy pressure, conductive opacities, ion crystallisation; see [White dwarf cooling theory](../../02_Zettel/Theory/White dwarf cooling theory.html)), while the MSTO reflects nuclear hydrogen burning timescales for stars of about a solar mass (see [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.html) and [HR diagram](../../02_Zettel/Theory/HR diagram.html)). they are sensitive to different things.
 
 ## the two clocks
 
 **MSTO age:**
 - the position of the turnoff in the CMD depends strongly on metallicity. ![L06_p19_isochrones_metallicity](../../assets/images/L06_p19_isochrones_metallicity.png) at fixed age, [Fe/H] from $-2$ to $+0.5$ shifts the turnoff colour by $\sim 1$ mag.
-- accurate ages require accurate spectroscopic [Fe/H] (see [Spectroscopic determination of metallicity](../../02_Zettel/Theory/Spectroscopic determination of metallicity.md)) and reddening (see [Effects of differential reddening on CMD analysis](../../02_Zettel/Theory/Effects of differential reddening on CMD analysis.md)).
+- accurate ages require accurate spectroscopic [Fe/H] (see [Spectroscopic determination of metallicity](../../02_Zettel/Theory/Spectroscopic determination of metallicity.html)) and reddening (see [Effects of differential reddening on CMD analysis](../../02_Zettel/Theory/Effects of differential reddening on CMD analysis.html)).
 - subject to systematic uncertainties from convective core overshooting, helium abundance, and isochrone calibration.
 
 **WDCS age:**
 - the position of the cooling sequence in the CMD is **almost insensitive to metallicity**. metal-poor (NGC 6397, [Fe/H] $\sim -2.1$) and metal-rich (47 Tuc, [Fe/H] $\sim -0.7$) clusters have WDCS at nearly identical absolute magnitudes and colours, despite very different MS positions.
-- depends on WD masses through the [Initial-final mass relation IFMR](../../02_Zettel/Theory/Initial-final mass relation IFMR.md) and on atmosphere physics (especially [WDCS turn to blue and CIA](../../02_Zettel/Theory/WDCS turn to blue and CIA.md) at the faint end).
+- depends on WD masses through the [Initial-final mass relation IFMR](../../02_Zettel/Theory/Initial-final mass relation IFMR.html) and on atmosphere physics (especially [WDCS turn to blue and CIA](../../02_Zettel/Theory/WDCS turn to blue and CIA.html) at the faint end).
 - requires very deep, very nearby photometry; only a handful of GCs accessible.
 
 so the two methods are nearly orthogonal in their systematics. agreement is a strong consistency test.
@@ -50,10 +50,10 @@ NGC 6791 is now seen as a striking demonstration of what binaries do to the WDCS
 the two together provide robust, cross-validated ages of the oldest stellar populations, and any disagreement is itself astrophysically informative.
 
 ## see also
-- [Age dating from the WD luminosity function](../../02_Zettel/Theory/Age dating from the WD luminosity function.md)
-- [White dwarf cooling theory](../../02_Zettel/Theory/White dwarf cooling theory.md)
-- [Initial-final mass relation IFMR](../../02_Zettel/Theory/Initial-final mass relation IFMR.md)
-- [WDCS turn to blue and CIA](../../02_Zettel/Theory/WDCS turn to blue and CIA.md)
-- [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.md)
-- [HR diagram](../../02_Zettel/Theory/HR diagram.md)
-- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.md)
+- [Age dating from the WD luminosity function](../../02_Zettel/Theory/Age dating from the WD luminosity function.html)
+- [White dwarf cooling theory](../../02_Zettel/Theory/White dwarf cooling theory.html)
+- [Initial-final mass relation IFMR](../../02_Zettel/Theory/Initial-final mass relation IFMR.html)
+- [WDCS turn to blue and CIA](../../02_Zettel/Theory/WDCS turn to blue and CIA.html)
+- [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.html)
+- [HR diagram](../../02_Zettel/Theory/HR diagram.html)
+- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.html)

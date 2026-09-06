@@ -5,7 +5,7 @@ title: "Star formation history parametrizations"
 
 # star formation history parametrizations
 
-up: [Pablo_03_Star_formation_in_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.md)
+up: [Pablo_03_Star_formation_in_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html)
 
 ## what is an SFH?
 
@@ -51,11 +51,11 @@ typical uncertainties on $M_*$ are $\sim 0.1$–$0.2$ dex, on SFR $\sim 0.3$ dex
 
 ## connections
 
-- needs an [Initial mass function](../../02_Zettel/Theory/Initial mass function.md) to convert to observable light
-- executed using [Stellar population synthesis](../../02_Zettel/Theory/Stellar population synthesis.md) codes
-- observable SED fitting discussed in [SED fitting for SFH](../../02_Zettel/Theory/SED fitting for SFH.md)
-- resolved-star alternative: [SFH from resolved CMDs](../../02_Zettel/Theory/SFH from resolved CMDs.md)
-- instant SFR observables: [H-alpha SFR tracer](../../02_Zettel/Theory/H-alpha SFR tracer.md), [UV SFR tracer](../../02_Zettel/Theory/UV SFR tracer.md), [IR SFR tracer](../../02_Zettel/Theory/IR SFR tracer.md)
+- needs an [Initial mass function](../../02_Zettel/Theory/Initial mass function.html) to convert to observable light
+- executed using [Stellar population synthesis](../../02_Zettel/Theory/Stellar population synthesis.html) codes
+- observable SED fitting discussed in [SED fitting for SFH](../../02_Zettel/Theory/SED fitting for SFH.html)
+- resolved-star alternative: [SFH from resolved CMDs](../../02_Zettel/Theory/SFH from resolved CMDs.html)
+- instant SFR observables: [H-alpha SFR tracer](../../02_Zettel/Theory/H-alpha SFR tracer.html), [UV SFR tracer](../../02_Zettel/Theory/UV SFR tracer.html), [IR SFR tracer](../../02_Zettel/Theory/IR SFR tracer.html)
 
 ## key references
 

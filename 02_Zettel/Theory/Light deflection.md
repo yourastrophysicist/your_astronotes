@@ -54,12 +54,12 @@ each is a direct application of $\Delta\phi = 4GM/(c^2 b)$, integrated over a re
 
 ## see also
 
-- [Photon trajectories and impact parameter](../../02_Zettel/Theory/Photon trajectories and impact parameter.md)
-- [Schwarzschild metric](../../02_Zettel/Theory/Schwarzschild metric.md)
-- [Schwarzschild effective potential](../../02_Zettel/Theory/Schwarzschild effective potential.md)
-- [Photon sphere](../../02_Zettel/Theory/Photon sphere.md)
-- [Perihelion precession](../../02_Zettel/Theory/Perihelion precession.md)
-- [Effective potential approach](../../02_Zettel/Theory/Effective potential approach.md)
-- [Lensing as a cosmological probe](../../02_Zettel/Theory/Lensing as a cosmological probe.md)
-- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.md)
-- [Ch 6 - Black Holes](../../01_Literature/Book/Baumann GR/Ch 6 - Black Holes.md)
+- [Photon trajectories and impact parameter](../../02_Zettel/Theory/Photon trajectories and impact parameter.html)
+- [Schwarzschild metric](../../02_Zettel/Theory/Schwarzschild metric.html)
+- [Schwarzschild effective potential](../../02_Zettel/Theory/Schwarzschild effective potential.html)
+- [Photon sphere](../../02_Zettel/Theory/Photon sphere.html)
+- [Perihelion precession](../../02_Zettel/Theory/Perihelion precession.html)
+- [Effective potential approach](../../02_Zettel/Theory/Effective potential approach.html)
+- [Lensing as a cosmological probe](../../02_Zettel/Theory/Lensing as a cosmological probe.html)
+- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.html)
+- [Ch 6 - Black Holes](../../01_Literature/Book/Baumann GR/Ch 6 - Black Holes.html)

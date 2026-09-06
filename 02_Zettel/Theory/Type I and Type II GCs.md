@@ -75,16 +75,16 @@ this is one more reason the chromosome map is the centerpiece of the field: it i
 
 ## see also
 
-- [Multiple populations in GCs discovery](../../02_Zettel/Theory/Multiple populations in GCs discovery.md)
-- [Photometric chromosome maps](../../02_Zettel/Theory/Photometric chromosome maps.md)
-- [Helium spread in GCs](../../02_Zettel/Theory/Helium spread in GCs.md)
-- [Na O anticorrelation](../../02_Zettel/Theory/Na O anticorrelation.md)
-- [CN CH MgAl anticorrelations](../../02_Zettel/Theory/CN CH MgAl anticorrelations.md)
-- [Mass dependence of multiple populations](../../02_Zettel/Theory/Mass dependence of multiple populations.md)
-- [GC formation models with MPs](../../02_Zettel/Theory/GC formation models with MPs.md)
-- [Multiple populations in extragalactic GCs](../../02_Zettel/Theory/Multiple populations in extragalactic GCs.md)
-- [Polluter scenarios for second-generation GC stars](../../02_Zettel/Theory/Polluter scenarios for second-generation GC stars.md)
+- [Multiple populations in GCs discovery](../../02_Zettel/Theory/Multiple populations in GCs discovery.html)
+- [Photometric chromosome maps](../../02_Zettel/Theory/Photometric chromosome maps.html)
+- [Helium spread in GCs](../../02_Zettel/Theory/Helium spread in GCs.html)
+- [Na O anticorrelation](../../02_Zettel/Theory/Na O anticorrelation.html)
+- [CN CH MgAl anticorrelations](../../02_Zettel/Theory/CN CH MgAl anticorrelations.html)
+- [Mass dependence of multiple populations](../../02_Zettel/Theory/Mass dependence of multiple populations.html)
+- [GC formation models with MPs](../../02_Zettel/Theory/GC formation models with MPs.html)
+- [Multiple populations in extragalactic GCs](../../02_Zettel/Theory/Multiple populations in extragalactic GCs.html)
+- [Polluter scenarios for second-generation GC stars](../../02_Zettel/Theory/Polluter scenarios for second-generation GC stars.html)
 - s-process nucleosynthesis
 - Galactic archaeology with Gaia
-- [Stellar populations I II III](../../02_Zettel/Theory/Stellar populations I II III.md)
-- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.md)
+- [Stellar populations I II III](../../02_Zettel/Theory/Stellar populations I II III.html)
+- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.html)

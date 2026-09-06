@@ -3,7 +3,7 @@ layout: default
 title: "Big Bang nucleosynthesis"
 ---
 
-**Big Bang Nucleosynthesis (BBN)** is the production of light elements ($^4$He, D, $^3$He, $^7$Li) in the first few minutes after the Big Bang. the only place outside stellar interiors where light elements are forged. one of the three pillars of the Hot Big Bang. (companion: [BBN_overview](../../02_Zettel/Theory/BBN_overview.md) + family of BBN notes for details.)
+**Big Bang Nucleosynthesis (BBN)** is the production of light elements ($^4$He, D, $^3$He, $^7$Li) in the first few minutes after the Big Bang. the only place outside stellar interiors where light elements are forged. one of the three pillars of the Hot Big Bang. (companion: [BBN_overview](../../02_Zettel/Theory/BBN_overview.html) + family of BBN notes for details.)
 
 ## the timeline
 
@@ -69,16 +69,16 @@ consistent with the standard 3 light neutrinos. rules out extra relativistic spe
 
 ## see also
 
-- [BBN_overview](../../02_Zettel/Theory/BBN_overview.md)
-- [BBN_predictions](../../02_Zettel/Theory/BBN_predictions.md)
-- [BBN_three_steps](../../02_Zettel/Theory/BBN_three_steps.md)
-- [BBN_baryon_to_photon_ratio](../../02_Zettel/Theory/BBN_baryon_to_photon_ratio.md)
-- [BBN_concordance_with_CMB](../../02_Zettel/Theory/BBN_concordance_with_CMB.md)
-- [BBN_observations](../../02_Zettel/Theory/BBN_observations.md)
-- [BBN_NSE_initial_conditions](../../02_Zettel/Theory/BBN_NSE_initial_conditions.md)
-- [BBN_neutron_proton_ratio](../../02_Zettel/Theory/BBN_neutron_proton_ratio.md)
-- [Brief thermal history](../../02_Zettel/Theory/Brief thermal history.md)
-- [Transition epochs](../../02_Zettel/Theory/Transition epochs.md)
-- [Decoupling](../../02_Zettel/Theory/Decoupling.md)
-- [ΛCDM current parameters](../../02_Zettel/Theory/ΛCDM current parameters.md)
-- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md)
+- [BBN_overview](../../02_Zettel/Theory/BBN_overview.html)
+- [BBN_predictions](../../02_Zettel/Theory/BBN_predictions.html)
+- [BBN_three_steps](../../02_Zettel/Theory/BBN_three_steps.html)
+- [BBN_baryon_to_photon_ratio](../../02_Zettel/Theory/BBN_baryon_to_photon_ratio.html)
+- [BBN_concordance_with_CMB](../../02_Zettel/Theory/BBN_concordance_with_CMB.html)
+- [BBN_observations](../../02_Zettel/Theory/BBN_observations.html)
+- [BBN_NSE_initial_conditions](../../02_Zettel/Theory/BBN_NSE_initial_conditions.html)
+- [BBN_neutron_proton_ratio](../../02_Zettel/Theory/BBN_neutron_proton_ratio.html)
+- [Brief thermal history](../../02_Zettel/Theory/Brief thermal history.html)
+- [Transition epochs](../../02_Zettel/Theory/Transition epochs.html)
+- [Decoupling](../../02_Zettel/Theory/Decoupling.html)
+- [ΛCDM current parameters](../../02_Zettel/Theory/ΛCDM current parameters.html)
+- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html)

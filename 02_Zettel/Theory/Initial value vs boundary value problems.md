@@ -13,7 +13,7 @@ all conditions are at the *same* time $t_0$:
 
 $$\dot{\mathbf{y}} = \mathbf{f}(\mathbf{y}, t), \quad \mathbf{y}(t_0) = \mathbf{y}_0$$
 
-I integrate forward from $t_0$. each step uses only past information. the algorithms are Euler, RK, leapfrog — see [Runge-Kutta 4 method](../../02_Zettel/Theory/Runge-Kutta 4 method.md), [Leapfrog integrator](../../02_Zettel/Theory/Leapfrog integrator.md), etc.
+I integrate forward from $t_0$. each step uses only past information. the algorithms are Euler, RK, leapfrog — see [Runge-Kutta 4 method](../../02_Zettel/Theory/Runge-Kutta 4 method.html), [Leapfrog integrator](../../02_Zettel/Theory/Leapfrog integrator.html), etc.
 
 natural for: dynamical evolution where I know the present state and want to predict the future. orbits, stellar evolution from a starting model, nuclear burning, atmospheric chemistry.
 
@@ -39,7 +39,7 @@ three main families:
 
 ### shooting method
 
-[Shooting method](../../02_Zettel/Theory/Shooting method.md): turn the BVP into an IVP by guessing the missing initial conditions, integrate forward, root-find on the boundary residual at the other end. wraps a 1D root finder around an IVP solver.
+[Shooting method](../../02_Zettel/Theory/Shooting method.html): turn the BVP into an IVP by guessing the missing initial conditions, integrate forward, root-find on the boundary residual at the other end. wraps a 1D root finder around an IVP solver.
 
 pros: uses standard IVP machinery. flexible. easy to implement.
 cons: sensitive to the initial guess; can be unstable for stiff or oscillatory problems.
@@ -92,9 +92,9 @@ ask: *where are the conditions specified?*
 
 ## see also
 
-- [Runge-Kutta 4 method](../../02_Zettel/Theory/Runge-Kutta 4 method.md)
-- [Leapfrog integrator](../../02_Zettel/Theory/Leapfrog integrator.md)
-- [Shooting method](../../02_Zettel/Theory/Shooting method.md)
-- [Built-in scipy integrators](../../02_Zettel/Theory/Built-in scipy integrators.md)
-- [Boundary value PDEs and iteration](../../02_Zettel/Theory/Boundary value PDEs and iteration.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Runge-Kutta 4 method](../../02_Zettel/Theory/Runge-Kutta 4 method.html)
+- [Leapfrog integrator](../../02_Zettel/Theory/Leapfrog integrator.html)
+- [Shooting method](../../02_Zettel/Theory/Shooting method.html)
+- [Built-in scipy integrators](../../02_Zettel/Theory/Built-in scipy integrators.html)
+- [Boundary value PDEs and iteration](../../02_Zettel/Theory/Boundary value PDEs and iteration.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

@@ -89,8 +89,8 @@ this damps the oscillations and converges where vanilla relaxation diverges.
 
 ## see also
 
-- [Bisection method](../../02_Zettel/Theory/Bisection method.md)
-- [Newton-Raphson method](../../02_Zettel/Theory/Newton-Raphson method.md)
-- [Gauss-Seidel iteration](../../02_Zettel/Theory/Gauss-Seidel iteration.md)
-- [Overrelaxation](../../02_Zettel/Theory/Overrelaxation.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Bisection method](../../02_Zettel/Theory/Bisection method.html)
+- [Newton-Raphson method](../../02_Zettel/Theory/Newton-Raphson method.html)
+- [Gauss-Seidel iteration](../../02_Zettel/Theory/Gauss-Seidel iteration.html)
+- [Overrelaxation](../../02_Zettel/Theory/Overrelaxation.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

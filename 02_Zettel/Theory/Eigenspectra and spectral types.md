@@ -5,7 +5,7 @@ title: "Eigenspectra and spectral types"
 
 # eigenspectra and spectral types
 
-up: [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.md) · [PCA spectral classification of galaxies](../../02_Zettel/Theory/PCA spectral classification of galaxies.md)
+up: [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.html) · [PCA spectral classification of galaxies](../../02_Zettel/Theory/PCA spectral classification of galaxies.html)
 
 ## the method
 
@@ -31,6 +31,6 @@ with $\theta \approx 26.1^\circ$. $\eta$ correlates directly with the current-to
 
 ## connections
 
-- parent: [PCA spectral classification of galaxies](../../02_Zettel/Theory/PCA spectral classification of galaxies.md)
-- application: [Galaxy SED fitting](../../02_Zettel/Theory/Galaxy SED fitting.md), [Color bimodality of galaxies](../../02_Zettel/Theory/Color bimodality of galaxies.md)
-- survey context: [SDSS overview](../../02_Zettel/Theory/SDSS overview.md), [Surveys to remember](../../02_Zettel/Theory/Surveys to remember.md)
+- parent: [PCA spectral classification of galaxies](../../02_Zettel/Theory/PCA spectral classification of galaxies.html)
+- application: [Galaxy SED fitting](../../02_Zettel/Theory/Galaxy SED fitting.html), [Color bimodality of galaxies](../../02_Zettel/Theory/Color bimodality of galaxies.html)
+- survey context: [SDSS overview](../../02_Zettel/Theory/SDSS overview.html), [Surveys to remember](../../02_Zettel/Theory/Surveys to remember.html)

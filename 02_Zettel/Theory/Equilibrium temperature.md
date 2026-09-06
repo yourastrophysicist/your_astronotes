@@ -56,13 +56,13 @@ modern photoionisation + radiation-hydrodynamics codes (Cloudy + Yt, MAPPINGS V)
 
 ## see also
 
-- [Heating rate in HII regions](../../02_Zettel/Theory/Heating rate in HII regions.md)
-- [Cooling rate in HII regions](../../02_Zettel/Theory/Cooling rate in HII regions.md)
-- [Cooling curve](../../02_Zettel/Theory/Cooling curve.md)
-- [OIII forbidden lines](../../02_Zettel/Theory/OIII forbidden lines.md)
-- [Forbidden line diagnostics](../../02_Zettel/Theory/Forbidden line diagnostics.md)
-- [Metallicity and chemical evolution](../../02_Zettel/Theory/Metallicity and chemical evolution.md)
-- [Spectroscopic Te diagnostics](../../02_Zettel/Theory/Spectroscopic Te diagnostics.md)
-- [Photoionisation balance](../../02_Zettel/Theory/Photoionisation balance.md)
-- [Ionisation parameter U](../../02_Zettel/Theory/Ionisation parameter U.md)
+- [Heating rate in HII regions](../../02_Zettel/Theory/Heating rate in HII regions.html)
+- [Cooling rate in HII regions](../../02_Zettel/Theory/Cooling rate in HII regions.html)
+- [Cooling curve](../../02_Zettel/Theory/Cooling curve.html)
+- [OIII forbidden lines](../../02_Zettel/Theory/OIII forbidden lines.html)
+- [Forbidden line diagnostics](../../02_Zettel/Theory/Forbidden line diagnostics.html)
+- [Metallicity and chemical evolution](../../02_Zettel/Theory/Metallicity and chemical evolution.html)
+- [Spectroscopic Te diagnostics](../../02_Zettel/Theory/Spectroscopic Te diagnostics.html)
+- [Photoionisation balance](../../02_Zettel/Theory/Photoionisation balance.html)
+- [Ionisation parameter U](../../02_Zettel/Theory/Ionisation parameter U.html)
 - Strömgren sphere

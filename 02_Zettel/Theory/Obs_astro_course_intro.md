@@ -3,7 +3,7 @@ layout: default
 title: "Obs_astro_course_intro"
 ---
 
-the first-semester Observational Astrophysics course at the University of Padova, AY 2025/2026. unlike [Fundamentals_course_intro](../../02_Zettel/Theory/Fundamentals_course_intro.md) which sweeps through cosmology in one trunk, this course is the **observational pipeline**: how a real photon, on a real night, gets turned into a number with error bars.
+the first-semester Observational Astrophysics course at the University of Padova, AY 2025/2026. unlike [Fundamentals_course_intro](../../02_Zettel/Theory/Fundamentals_course_intro.html) which sweeps through cosmology in one trunk, this course is the **observational pipeline**: how a real photon, on a real night, gets turned into a number with error bars.
 
 ## the conceptual chain
 
@@ -30,8 +30,8 @@ the exam tests fluency in the chain: I should be able to take any astrophysical 
 
 ## see also
 
-- [Observational_Astrophysics_MOC](../../00_Atlas/Observational_Astrophysics_MOC.md)
-- [Fundamentals_course_intro](../../02_Zettel/Theory/Fundamentals_course_intro.md)
-- [Earth atmosphere for observations](../../02_Zettel/Theory/Earth atmosphere for observations.md)
-- [CCD detectors and SNR](../../02_Zettel/Theory/CCD detectors and SNR.md)
-- [Distance ladder derivations](../../02_Zettel/Theory/Distance ladder derivations.md)
+- [Observational_Astrophysics_MOC](../../00_Atlas/Observational_Astrophysics_MOC.html)
+- [Fundamentals_course_intro](../../02_Zettel/Theory/Fundamentals_course_intro.html)
+- [Earth atmosphere for observations](../../02_Zettel/Theory/Earth atmosphere for observations.html)
+- [CCD detectors and SNR](../../02_Zettel/Theory/CCD detectors and SNR.html)
+- [Distance ladder derivations](../../02_Zettel/Theory/Distance ladder derivations.html)

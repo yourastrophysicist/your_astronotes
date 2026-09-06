@@ -5,7 +5,7 @@ title: "SFH from resolved CMDs"
 
 # SFH from resolved CMDs
 
-up: [Pablo_03_Star_formation_in_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.md)
+up: [Pablo_03_Star_formation_in_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html)
 
 ## the idea
 
@@ -42,13 +42,13 @@ codes: MATCH (Dolphin), StarFISH, IAC-POP.
 - **crowding**: in galaxy centres, blending wrecks photometry. periphery regions work better
 - **age-metallicity degeneracy**: reducing it requires deep photometry through the MS turnoff
 
-the technique is extremely powerful for the Local Group (LMC/SMC, M31, dSphs) but cannot be applied to the bulk of the cosmic galaxy population. for that, see [SED fitting for SFH](../../02_Zettel/Theory/SED fitting for SFH.md).
+the technique is extremely powerful for the Local Group (LMC/SMC, M31, dSphs) but cannot be applied to the bulk of the cosmic galaxy population. for that, see [SED fitting for SFH](../../02_Zettel/Theory/SED fitting for SFH.html).
 
 ## connections
 
-- complementary method: [SED fitting for SFH](../../02_Zettel/Theory/SED fitting for SFH.md)
-- enters population synthesis: [Stellar population synthesis](../../02_Zettel/Theory/Stellar population synthesis.md)
-- parametric priors for SED fits: [Star formation history parametrizations](../../02_Zettel/Theory/Star formation history parametrizations.md)
+- complementary method: [SED fitting for SFH](../../02_Zettel/Theory/SED fitting for SFH.html)
+- enters population synthesis: [Stellar population synthesis](../../02_Zettel/Theory/Stellar population synthesis.html)
+- parametric priors for SED fits: [Star formation history parametrizations](../../02_Zettel/Theory/Star formation history parametrizations.html)
 
 ## key references
 

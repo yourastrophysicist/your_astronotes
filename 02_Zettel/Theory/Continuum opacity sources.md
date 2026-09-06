@@ -21,7 +21,7 @@ photon ionises an atom: $X + h\nu \to X^+ + e^-$. requires $h\nu > \chi$, the bi
 each edge produces a **discontinuity** (jump) in the continuum. the **Balmer jump** in A and F stars is a famous diagnostic.
 
 ### free-free (bremsstrahlung)
-photon emitted (or absorbed) when free electron passes near an ion: $e^- + X^+ \to e^- + X^+ + h\nu$. continuous spectrum, $\propto e^{-h\nu/k_BT}$. dominant in **hot ionised gas**: HII regions, hot star coronae, X-ray plasmas. see [Bremsstrahlung](../../02_Zettel/Theory/Bremsstrahlung.md).
+photon emitted (or absorbed) when free electron passes near an ion: $e^- + X^+ \to e^- + X^+ + h\nu$. continuous spectrum, $\propto e^{-h\nu/k_BT}$. dominant in **hot ionised gas**: HII regions, hot star coronae, X-ray plasmas. see [Bremsstrahlung](../../02_Zettel/Theory/Bremsstrahlung.html).
 
 ### electron scattering (Thomson)
 electron deflects a photon: $e^- + h\nu \to e^- + h\nu$. cross section $\sigma_T = 6.65 \times 10^{-25}$ cm$^2$, **independent of frequency**. dominant continuum opacity in **hot stars** ($T > 20\,000$ K) where most matter is ionised and there are no bound electrons left to absorb.
@@ -59,14 +59,14 @@ ratios of continuum fluxes at carefully chosen wavelengths (e.g. just blue and r
 
 ## see also
 
-- [Equation of radiative transfer](../../02_Zettel/Theory/Equation of radiative transfer.md)
-- [Optical depth](../../02_Zettel/Theory/Optical depth.md)
-- [Source function](../../02_Zettel/Theory/Source function.md)
-- [Stellar atmosphere structure](../../02_Zettel/Theory/Stellar atmosphere structure.md)
-- [Photoelectric absorption](../../02_Zettel/Theory/Photoelectric absorption.md)
-- [Bremsstrahlung](../../02_Zettel/Theory/Bremsstrahlung.md)
-- [Bolometric correction and effective temperature](../../02_Zettel/Theory/Bolometric correction and effective temperature.md)
-- [Stellar spectra and spectral classification](../../02_Zettel/Theory/Stellar spectra and spectral classification.md)
-- [Hydrogen spectral series](../../02_Zettel/Theory/Hydrogen spectral series.md)
-- [Recombination continuum](../../02_Zettel/Theory/Recombination continuum.md)
-- [Free-free continuum](../../02_Zettel/Theory/Free-free continuum.md)
+- [Equation of radiative transfer](../../02_Zettel/Theory/Equation of radiative transfer.html)
+- [Optical depth](../../02_Zettel/Theory/Optical depth.html)
+- [Source function](../../02_Zettel/Theory/Source function.html)
+- [Stellar atmosphere structure](../../02_Zettel/Theory/Stellar atmosphere structure.html)
+- [Photoelectric absorption](../../02_Zettel/Theory/Photoelectric absorption.html)
+- [Bremsstrahlung](../../02_Zettel/Theory/Bremsstrahlung.html)
+- [Bolometric correction and effective temperature](../../02_Zettel/Theory/Bolometric correction and effective temperature.html)
+- [Stellar spectra and spectral classification](../../02_Zettel/Theory/Stellar spectra and spectral classification.html)
+- [Hydrogen spectral series](../../02_Zettel/Theory/Hydrogen spectral series.html)
+- [Recombination continuum](../../02_Zettel/Theory/Recombination continuum.html)
+- [Free-free continuum](../../02_Zettel/Theory/Free-free continuum.html)

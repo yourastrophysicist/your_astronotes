@@ -6,17 +6,17 @@ description: deriving [Fe/H] from equivalent widths or spectral synthesis, with 
 
 # spectroscopic determination of metallicity
 
-the term "metallicity" usually means [Fe/H] (iron-to-hydrogen ratio relative to solar), but spectroscopists ultimately derive abundances of many individual elements. the basic ingredients are: equivalent widths (or full line profiles), atomic data (oscillator strengths, damping constants, excitation potentials), a model atmosphere defined by $T_{\rm eff}$ and $\log g$, and a microturbulence (see [Microturbulence](../../02_Zettel/Theory/Microturbulence.md) and [Atmospheric parameters Teff log g feh vmicro](../../02_Zettel/Theory/interf/Atmospheric parameters Teff log g feh vmicro.md)).
+the term "metallicity" usually means [Fe/H] (iron-to-hydrogen ratio relative to solar), but spectroscopists ultimately derive abundances of many individual elements. the basic ingredients are: equivalent widths (or full line profiles), atomic data (oscillator strengths, damping constants, excitation potentials), a model atmosphere defined by $T_{\rm eff}$ and $\log g$, and a microturbulence (see [Microturbulence](../../02_Zettel/Theory/Microturbulence.html) and [Atmospheric parameters Teff log g feh vmicro](../../02_Zettel/Theory/interf/Atmospheric parameters Teff log g feh vmicro.html)).
 
 ## the general strategy
 
 at any wavelength, the line opacity of a transition $i \to j$ is
 $$\kappa_\ell \propto N_i\,f_{ij},$$
-where $f_{ij}$ is the oscillator strength. the population $N_i$ depends on the **abundance** $A$ (the total number density of the element relative to hydrogen), the [Saha ionisation equation](../../02_Zettel/Theory/Saha ionisation equation.md) balance between ionisation stages, and the Boltzmann distribution within a stage. once these are known, the line opacity gives a synthetic line profile (or [Equivalent width](../../02_Zettel/Theory/Equivalent width.md)) for each candidate abundance, and one picks the abundance that matches the observation.
+where $f_{ij}$ is the oscillator strength. the population $N_i$ depends on the **abundance** $A$ (the total number density of the element relative to hydrogen), the [Saha ionisation equation](../../02_Zettel/Theory/Saha ionisation equation.html) balance between ionisation stages, and the Boltzmann distribution within a stage. once these are known, the line opacity gives a synthetic line profile (or [Equivalent width](../../02_Zettel/Theory/Equivalent width.html)) for each candidate abundance, and one picks the abundance that matches the observation.
 
 ## method 1: equivalent widths
 
-for unblended lines, measure $W_\lambda$ from the spectrum. interpret it via the [Curve of growth](../../02_Zettel/Theory/Curve of growth.md) for that line, given $T_{\rm eff}$, $\log g$, $\xi_t$:
+for unblended lines, measure $W_\lambda$ from the spectrum. interpret it via the [Curve of growth](../../02_Zettel/Theory/Curve of growth.html) for that line, given $T_{\rm eff}$, $\log g$, $\xi_t$:
 
 - weak lines: $W \propto A$ (linear regime, cleanest abundance probe).
 - saturated lines: $W \propto \sqrt{\log A}$ (avoid; very weak abundance dependence).
@@ -43,9 +43,9 @@ because [Fe/H] couples to both $T_{\rm eff}$ (excitation balance) and $\log g$ (
 
 1. start with a photometric guess of $T_{\rm eff}, \log g$.
 2. compute Fe I and Fe II abundances line by line.
-3. demand zero slope of [Fe I/H] vs $\chi_{\rm exc}$ (sets $T_{\rm eff}$, see [Spectroscopic determination of Teff](../../02_Zettel/Theory/Spectroscopic determination of Teff.md)).
+3. demand zero slope of [Fe I/H] vs $\chi_{\rm exc}$ (sets $T_{\rm eff}$, see [Spectroscopic determination of Teff](../../02_Zettel/Theory/Spectroscopic determination of Teff.html)).
 4. demand zero slope of [Fe I/H] vs $\log W/\lambda$ (sets $\xi_t$).
-5. demand [Fe I/H] = [Fe II/H] (sets $\log g$, see [Spectroscopic determination of log g](../../02_Zettel/Theory/Spectroscopic determination of log g.md)).
+5. demand [Fe I/H] = [Fe II/H] (sets $\log g$, see [Spectroscopic determination of log g](../../02_Zettel/Theory/Spectroscopic determination of log g.html)).
 6. iterate until self-consistent.
 
 ## high-precision relative abundances: solar twins and planet formation
@@ -63,16 +63,16 @@ similar high-precision differential spectroscopy is critical for:
 
 ## non-LTE and 3D corrections
 
-[Local thermodynamic equilibrium LTE](../../02_Zettel/Theory/Local thermodynamic equilibrium LTE.md) is an approximation. for metal-poor giants, Fe I lines suffer from over-ionisation and yield abundances $\sim 0.1\text{-}0.3$ dex too low; Fe II is more robust. 3D hydrodynamic atmospheres modify the inferred [Fe/H] of the sun by $\sim 0.05$ dex (the Asplund 2009 revision). for high-precision work these corrections are now standard.
+[Local thermodynamic equilibrium LTE](../../02_Zettel/Theory/Local thermodynamic equilibrium LTE.html) is an approximation. for metal-poor giants, Fe I lines suffer from over-ionisation and yield abundances $\sim 0.1\text{-}0.3$ dex too low; Fe II is more robust. 3D hydrodynamic atmospheres modify the inferred [Fe/H] of the sun by $\sim 0.05$ dex (the Asplund 2009 revision). for high-precision work these corrections are now standard.
 
 ## see also
-- [Equivalent width](../../02_Zettel/Theory/Equivalent width.md)
-- [Curve of growth](../../02_Zettel/Theory/Curve of growth.md)
-- [Atmospheric parameters Teff log g feh vmicro](../../02_Zettel/Theory/interf/Atmospheric parameters Teff log g feh vmicro.md)
-- [Spectroscopic determination of Teff](../../02_Zettel/Theory/Spectroscopic determination of Teff.md)
-- [Spectroscopic determination of log g](../../02_Zettel/Theory/Spectroscopic determination of log g.md)
-- [Microturbulence](../../02_Zettel/Theory/Microturbulence.md)
-- [Local thermodynamic equilibrium LTE](../../02_Zettel/Theory/Local thermodynamic equilibrium LTE.md)
-- [Saha ionisation equation](../../02_Zettel/Theory/Saha ionisation equation.md)
-- [Element abundance patterns](../../02_Zettel/Theory/Element abundance patterns.md)
-- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.md)
+- [Equivalent width](../../02_Zettel/Theory/Equivalent width.html)
+- [Curve of growth](../../02_Zettel/Theory/Curve of growth.html)
+- [Atmospheric parameters Teff log g feh vmicro](../../02_Zettel/Theory/interf/Atmospheric parameters Teff log g feh vmicro.html)
+- [Spectroscopic determination of Teff](../../02_Zettel/Theory/Spectroscopic determination of Teff.html)
+- [Spectroscopic determination of log g](../../02_Zettel/Theory/Spectroscopic determination of log g.html)
+- [Microturbulence](../../02_Zettel/Theory/Microturbulence.html)
+- [Local thermodynamic equilibrium LTE](../../02_Zettel/Theory/Local thermodynamic equilibrium LTE.html)
+- [Saha ionisation equation](../../02_Zettel/Theory/Saha ionisation equation.html)
+- [Element abundance patterns](../../02_Zettel/Theory/Element abundance patterns.html)
+- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.html)

@@ -64,7 +64,7 @@ $$\boxed{\,\Omega_K = 1 - \Omega_0 = 0.001 \pm 0.002 \quad (68\%~\text{CL})\,}$$
 
 so the universe is **flat to a fraction of a percent**.
 
-this is also what generic inflation models predict, by stretching out any pre-inflation curvature to undetectable levels (see [Inflation overview](../../02_Zettel/Theory/Inflation overview.md)).
+this is also what generic inflation models predict, by stretching out any pre-inflation curvature to undetectable levels (see [Inflation overview](../../02_Zettel/Theory/Inflation overview.html)).
 
 so for ΛCDM in 2025: I always work with $k = 0$ in practice. the formulas simplify:
 $$d\ell^2 = a^2(t)[dr^2 + r^2 d\Omega^2]$$
@@ -82,8 +82,8 @@ so two universes with different $|k|$ but the same $k/a^2$ are physically equiva
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
 - 03_Zettel/Theory/Robertson-Walker metric
 - Friedmann equations with Λ
-- [Density parameters and flatness](../../02_Zettel/Theory/Density parameters and flatness.md)
-- [Inflation overview](../../02_Zettel/Theory/Inflation overview.md)
+- [Density parameters and flatness](../../02_Zettel/Theory/Density parameters and flatness.html)
+- [Inflation overview](../../02_Zettel/Theory/Inflation overview.html)

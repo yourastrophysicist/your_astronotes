@@ -5,7 +5,7 @@ title: "Modified midpoint method"
 
 # Modified midpoint method
 
-the workhorse subroutine for [Bulirsch-Stoer extrapolation](../../02_Zettel/Theory/Bulirsch-Stoer extrapolation.md). integrates an ODE from $t$ to $t + H$ using $n$ substeps of the midpoint rule, with a clever final correction step. the result is an estimate that has only *even* powers of $h = H/n$ in its error expansion — exactly what Richardson extrapolation wants.
+the workhorse subroutine for [Bulirsch-Stoer extrapolation](../../02_Zettel/Theory/Bulirsch-Stoer extrapolation.html). integrates an ODE from $t$ to $t + H$ using $n$ substeps of the midpoint rule, with a clever final correction step. the result is an estimate that has only *even* powers of $h = H/n$ in its error expansion — exactly what Richardson extrapolation wants.
 
 ## the algorithm
 
@@ -25,7 +25,7 @@ the local truncation error of the modified midpoint method is
 
 $$E(h) = \alpha h^2 + \beta h^4 + \gamma h^6 + \cdots$$
 
-(only even powers). running it at several $n$ (giving several $h$) and extrapolating in $h^2$ to $h = 0$ gives a sequence of estimates that converge geometrically. this is [Bulirsch-Stoer extrapolation](../../02_Zettel/Theory/Bulirsch-Stoer extrapolation.md).
+(only even powers). running it at several $n$ (giving several $h$) and extrapolating in $h^2$ to $h = 0$ gives a sequence of estimates that converge geometrically. this is [Bulirsch-Stoer extrapolation](../../02_Zettel/Theory/Bulirsch-Stoer extrapolation.html).
 
 ## python implementation
 
@@ -52,12 +52,12 @@ $n + 1$ evaluations of $\mathbf{f}$ per macrostep of size $H$. for $n = 2, 4, 6,
 
 modified midpoint as a standalone integrator is just a second-order method with twice the cost of midpoint RK2. nobody runs it alone.
 
-its **only** purpose is as the inner-loop subroutine of [Bulirsch-Stoer extrapolation](../../02_Zettel/Theory/Bulirsch-Stoer extrapolation.md), which combines results from $n = 2, 4, 6, 8, \ldots$ via Richardson extrapolation to achieve very high-order accuracy.
+its **only** purpose is as the inner-loop subroutine of [Bulirsch-Stoer extrapolation](../../02_Zettel/Theory/Bulirsch-Stoer extrapolation.html), which combines results from $n = 2, 4, 6, 8, \ldots$ via Richardson extrapolation to achieve very high-order accuracy.
 
 ## see also
 
-- [Bulirsch-Stoer extrapolation](../../02_Zettel/Theory/Bulirsch-Stoer extrapolation.md)
-- [Runge-Kutta 4 method](../../02_Zettel/Theory/Runge-Kutta 4 method.md)
-- [Adaptive step size control](../../02_Zettel/Theory/Adaptive step size control.md)
-- [Truncation error and order of accuracy](../../02_Zettel/Theory/Truncation error and order of accuracy.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Bulirsch-Stoer extrapolation](../../02_Zettel/Theory/Bulirsch-Stoer extrapolation.html)
+- [Runge-Kutta 4 method](../../02_Zettel/Theory/Runge-Kutta 4 method.html)
+- [Adaptive step size control](../../02_Zettel/Theory/Adaptive step size control.html)
+- [Truncation error and order of accuracy](../../02_Zettel/Theory/Truncation error and order of accuracy.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

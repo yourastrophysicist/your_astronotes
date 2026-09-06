@@ -90,7 +90,7 @@ remnant:
 
 energy: $\sim 10^{53}$ erg released, mostly in neutrinos. only $\sim 10^{49}$ erg in kinetic energy of ejecta, $\sim 10^{49}$ erg in light. but a SN at peak can outshine its host galaxy briefly.
 
-→ see [Lab_High-Energy_MOC](../../00_Atlas/Lab_High-Energy_MOC.md) for accretion onto compact objects formed in this way.
+→ see [Lab_High-Energy_MOC](../../00_Atlas/Lab_High-Energy_MOC.html) for accretion onto compact objects formed in this way.
 
 ---
 
@@ -99,7 +99,7 @@ energy: $\sim 10^{53}$ erg released, mostly in neutrinos. only $\sim 10^{49}$ er
 the post-MS evolution is crucial because:
 1. **chemical enrichment**: SNe and AGB winds return processed material to the ISM, increasing metallicity
 2. **stellar feedback**: SNe shock heat the ISM, drive galactic winds, regulate star formation
-3. **standard candles**: SN Ia (from binary WD mergers/accretion) are the cosmic distance ladder — see [Cepheids and supernovae](../../02_Zettel/Theory/Cepheids and supernovae.md)
+3. **standard candles**: SN Ia (from binary WD mergers/accretion) are the cosmic distance ladder — see [Cepheids and supernovae](../../02_Zettel/Theory/Cepheids and supernovae.html)
 4. **gravitational waves**: NS-NS and NS-BH mergers (descendents of high-mass stellar evolution) are the LIGO/Virgo sources
 5. **the elements**: everything heavier than helium in the universe comes from stellar nucleosynthesis (modulo trace BBN $^7$Li)
 
@@ -107,11 +107,11 @@ the post-MS evolution is crucial because:
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Stellar evolution timescales](../../02_Zettel/Theory/Stellar evolution timescales.md)
-- [Stellar nucleosynthesis](../../02_Zettel/Theory/Stellar nucleosynthesis.md)
-- [Main sequence, giants, supergiants, white dwarfs](../../02_Zettel/Theory/Main sequence, giants, supergiants, white dwarfs.md)
-- [HR diagram](../../02_Zettel/Theory/HR diagram.md)
-- [Cepheids and supernovae](../../02_Zettel/Theory/Cepheids and supernovae.md)
-- [Accretion onto compact objects](../../02_Zettel/Theory/Accretion onto compact objects.md)
-- [Chemical evolution of galaxies](../../02_Zettel/Theory/Chemical evolution of galaxies.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Stellar evolution timescales](../../02_Zettel/Theory/Stellar evolution timescales.html)
+- [Stellar nucleosynthesis](../../02_Zettel/Theory/Stellar nucleosynthesis.html)
+- [Main sequence, giants, supergiants, white dwarfs](../../02_Zettel/Theory/Main sequence, giants, supergiants, white dwarfs.html)
+- [HR diagram](../../02_Zettel/Theory/HR diagram.html)
+- [Cepheids and supernovae](../../02_Zettel/Theory/Cepheids and supernovae.html)
+- [Accretion onto compact objects](../../02_Zettel/Theory/Accretion onto compact objects.html)
+- [Chemical evolution of galaxies](../../02_Zettel/Theory/Chemical evolution of galaxies.html)

@@ -5,7 +5,7 @@ title: "Tully-Fisher relation"
 
 # tully-fisher relation
 
-up: [Pablo_02_Statistical_properties_of_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.md)
+up: [Pablo_02_Statistical_properties_of_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html)
 
 ## the relation
 
@@ -37,9 +37,9 @@ with sub-0.1 dex scatter. this is one of the cleanest scaling relations in galax
 
 ## connections
 
-- ellipticals analogue: [Fundamental plane of ellipticals](../../02_Zettel/Theory/Fundamental plane of ellipticals.md)
-- size-luminosity context: [Galaxy size-luminosity relation](../../02_Zettel/Theory/Galaxy size-luminosity relation.md)
-- relation to gas/SF: [Schmidt-Kennicutt law](../../02_Zettel/Theory/Schmidt-Kennicutt law.md)
+- ellipticals analogue: [Fundamental plane of ellipticals](../../02_Zettel/Theory/Fundamental plane of ellipticals.html)
+- size-luminosity context: [Galaxy size-luminosity relation](../../02_Zettel/Theory/Galaxy size-luminosity relation.html)
+- relation to gas/SF: [Schmidt-Kennicutt law](../../02_Zettel/Theory/Schmidt-Kennicutt law.html)
 
 ## key references
 

@@ -37,10 +37,10 @@ UFDGs look like extensions of the dwarf galaxy sequence in luminosity-size-$M/L$
 
 **why they matter**:
 
-- they probe the faint end of galaxy formation, **the regime where reionisation feedback shuts off star formation** (see [UFDG star formation histories](../../02_Zettel/Theory/UFDG star formation histories.md)).
+- they probe the faint end of galaxy formation, **the regime where reionisation feedback shuts off star formation** (see [UFDG star formation histories](../../02_Zettel/Theory/UFDG star formation histories.html)).
 - they constrain the nature of dark matter: warm dark matter or fuzzy DM models predict cutoffs in the subhalo mass function that would suppress UFDGs.
-- they are the chemically simplest galaxies and preserve nucleosynthetic signatures of the very first generations (see [Pop III remnants in UFDGs](../../02_Zettel/Theory/Pop III remnants in UFDGs.md)).
-- they are the modern equivalent of the building blocks that the milky way halo was assembled from, so they connect directly to galactic archaeology of the halo (see [Halo accretion from dwarf galaxies](../../02_Zettel/Theory/Halo accretion from dwarf galaxies.md)).
+- they are the chemically simplest galaxies and preserve nucleosynthetic signatures of the very first generations (see [Pop III remnants in UFDGs](../../02_Zettel/Theory/Pop III remnants in UFDGs.html)).
+- they are the modern equivalent of the building blocks that the milky way halo was assembled from, so they connect directly to galactic archaeology of the halo (see [Halo accretion from dwarf galaxies](../../02_Zettel/Theory/Halo accretion from dwarf galaxies.html)).
 
 a useful pedagogical warning: the UFDG/GC boundary is fuzzy. a few systems (segue 1, willman 1, crater ii) have been debated for years. the resolution is usually deeper photometry plus more spectroscopic members, which firms up either a metallicity spread (favours UFDG) or a single isochrone (favours GC).
 
@@ -66,4 +66,4 @@ this is an exam-relevant conceptual question: **why does a narrow SGB imply a sh
 - **Ji et al. 2016** — r-process enhancement in Reticulum II.
 - **Muratore et al. 2026** — JWST + HST Boötes I photometry.
 
-see also [UFDG dark matter content](../../02_Zettel/Theory/UFDG dark matter content.md), [UFDG star formation histories](../../02_Zettel/Theory/UFDG star formation histories.md), [UFDG search via deep CMD](../../02_Zettel/Theory/UFDG search via deep CMD.md), [Pop III remnants in UFDGs](../../02_Zettel/Theory/Pop III remnants in UFDGs.md), [Halo accretion from dwarf galaxies](../../02_Zettel/Theory/Halo accretion from dwarf galaxies.md), [Stellar populations I II III](../../02_Zettel/Theory/Stellar populations I II III.md), [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.md)
+see also [UFDG dark matter content](../../02_Zettel/Theory/UFDG dark matter content.html), [UFDG star formation histories](../../02_Zettel/Theory/UFDG star formation histories.html), [UFDG search via deep CMD](../../02_Zettel/Theory/UFDG search via deep CMD.html), [Pop III remnants in UFDGs](../../02_Zettel/Theory/Pop III remnants in UFDGs.html), [Halo accretion from dwarf galaxies](../../02_Zettel/Theory/Halo accretion from dwarf galaxies.html), [Stellar populations I II III](../../02_Zettel/Theory/Stellar populations I II III.html), [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.html)

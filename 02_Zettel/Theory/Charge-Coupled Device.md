@@ -78,7 +78,7 @@ Note: extra electrons or extra holes do **not** make the materials charged,
 
 ## Subtopics
 
-- [The p-n junction](../../02_Zettel/Theory/The p-n junction.md)
-- [CCD readout](../../02_Zettel/Theory/CCD readout.md)
-- [Quantum efficiency](../../02_Zettel/Theory/Quantum efficiency.md)
-- [CCDs for X-rays](../../02_Zettel/Theory/CCDs for X-rays.md)
+- [The p-n junction](../../02_Zettel/Theory/The p-n junction.html)
+- [CCD readout](../../02_Zettel/Theory/CCD readout.html)
+- [Quantum efficiency](../../02_Zettel/Theory/Quantum efficiency.html)
+- [CCDs for X-rays](../../02_Zettel/Theory/CCDs for X-rays.html)

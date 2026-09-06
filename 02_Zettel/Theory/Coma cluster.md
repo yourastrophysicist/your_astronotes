@@ -5,7 +5,7 @@ title: "Coma cluster"
 
 # coma cluster
 
-up: [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.md) · [Virgo cluster](../../02_Zettel/Theory/Virgo cluster.md)
+up: [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.html) · [Virgo cluster](../../02_Zettel/Theory/Virgo cluster.html)
 
 ## properties
 
@@ -35,5 +35,5 @@ Chandra and XMM-Newton observations reveal a pervasive hot gas halo:
 
 ## connections
 
-- discovery context: [Dark matter on galactic scales](../../02_Zettel/Theory/Dark matter on galactic scales.md), [Bullet Cluster and dark matter mapping](../../02_Zettel/Theory/Bullet Cluster and dark matter mapping.md)
-- cluster comparison: [Virgo cluster](../../02_Zettel/Theory/Virgo cluster.md)
+- discovery context: [Dark matter on galactic scales](../../02_Zettel/Theory/Dark matter on galactic scales.html), [Bullet Cluster and dark matter mapping](../../02_Zettel/Theory/Bullet Cluster and dark matter mapping.html)
+- cluster comparison: [Virgo cluster](../../02_Zettel/Theory/Virgo cluster.html)

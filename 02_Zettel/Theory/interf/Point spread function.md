@@ -129,9 +129,9 @@ source: local plot generated from the Airy-pattern Bessel formula.
 
 ## see also
 
-- [Fraunhofer diffraction](../../../02_Zettel/Theory/interf/Fraunhofer diffraction.md)
-- [Diffraction patterns of simple apertures](../../../02_Zettel/Theory/interf/Diffraction patterns of simple apertures.md)
-- [Optical transfer function](../../../02_Zettel/Theory/interf/Optical transfer function.md)
-- [Adaptive optics](../../../02_Zettel/Theory/interf/Adaptive optics.md)
-- [CLEAN algorithm](../../../02_Zettel/Theory/interf/CLEAN algorithm.md)
-- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Fraunhofer diffraction](../../../02_Zettel/Theory/interf/Fraunhofer diffraction.html)
+- [Diffraction patterns of simple apertures](../../../02_Zettel/Theory/interf/Diffraction patterns of simple apertures.html)
+- [Optical transfer function](../../../02_Zettel/Theory/interf/Optical transfer function.html)
+- [Adaptive optics](../../../02_Zettel/Theory/interf/Adaptive optics.html)
+- [CLEAN algorithm](../../../02_Zettel/Theory/interf/CLEAN algorithm.html)
+- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.html)

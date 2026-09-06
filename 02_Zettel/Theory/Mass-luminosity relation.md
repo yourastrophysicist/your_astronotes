@@ -60,12 +60,12 @@ the **mass-to-light ratio** $M/L$ thus increases with age: young SSPs are lumino
 
 ## see also
 
-- [Stellar scaling relations](../../02_Zettel/Theory/Stellar scaling relations.md)
-- [HR diagram](../../02_Zettel/Theory/HR diagram.md)
-- [Stellar evolution timescales](../../02_Zettel/Theory/Stellar evolution timescales.md)
-- [Initial mass function](../../02_Zettel/Theory/Initial mass function.md)
-- [Why hot massive stars dominate luminosity](../../02_Zettel/Theory/Why hot massive stars dominate luminosity.md)
-- [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.md)
-- [Cluster ages from CMD turnoff](../../02_Zettel/Theory/Cluster ages from CMD turnoff.md)
-- [Planck law Wien Stefan-Boltzmann](../../02_Zettel/Theory/Planck law Wien Stefan-Boltzmann.md)
-- [Stellar structure equations](../../02_Zettel/Theory/Stellar structure equations.md)
+- [Stellar scaling relations](../../02_Zettel/Theory/Stellar scaling relations.html)
+- [HR diagram](../../02_Zettel/Theory/HR diagram.html)
+- [Stellar evolution timescales](../../02_Zettel/Theory/Stellar evolution timescales.html)
+- [Initial mass function](../../02_Zettel/Theory/Initial mass function.html)
+- [Why hot massive stars dominate luminosity](../../02_Zettel/Theory/Why hot massive stars dominate luminosity.html)
+- [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.html)
+- [Cluster ages from CMD turnoff](../../02_Zettel/Theory/Cluster ages from CMD turnoff.html)
+- [Planck law Wien Stefan-Boltzmann](../../02_Zettel/Theory/Planck law Wien Stefan-Boltzmann.html)
+- [Stellar structure equations](../../02_Zettel/Theory/Stellar structure equations.html)

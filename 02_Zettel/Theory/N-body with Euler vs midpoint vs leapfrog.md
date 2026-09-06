@@ -105,7 +105,7 @@ expected:
 
 for a *gravitational* (Hamiltonian) system, symplectic integrators are not optional — they are what makes long-time integration meaningful. for short integrations (a few orbital periods), any decent scheme works. for long integrations (cosmological simulations, planetary system stability over Gyr), only symplectic schemes are trusted.
 
-the cost of leapfrog is the same as midpoint (one acceleration per step). there is no reason *not* to use leapfrog for any second-order Hamiltonian system unless the problem requires higher order, in which case use [Fourth-order Hermite predictor-corrector](../../02_Zettel/Theory/Fourth-order Hermite predictor-corrector.md) or higher-order symplectic schemes (Forest-Ruth, Yoshida).
+the cost of leapfrog is the same as midpoint (one acceleration per step). there is no reason *not* to use leapfrog for any second-order Hamiltonian system unless the problem requires higher order, in which case use [Fourth-order Hermite predictor-corrector](../../02_Zettel/Theory/Fourth-order Hermite predictor-corrector.html) or higher-order symplectic schemes (Forest-Ruth, Yoshida).
 
 ## the exam connection
 
@@ -115,10 +115,10 @@ so for the exam, the question's choice of integrator is part of the problem. fol
 
 ## see also
 
-- [Euler method](../../02_Zettel/Theory/Euler method.md)
-- [Runge-Kutta 2 midpoint method](../../02_Zettel/Theory/Runge-Kutta 2 midpoint method.md)
-- [Leapfrog integrator](../../02_Zettel/Theory/Leapfrog integrator.md)
-- [Astrophysical N-body problem formulation](../../02_Zettel/Theory/Astrophysical N-body problem formulation.md)
-- [Energy conservation as a diagnostic](../../02_Zettel/Theory/Energy conservation as a diagnostic.md)
-- [The Pythagorean three-body problem](../../02_Zettel/Theory/The Pythagorean three-body problem.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Euler method](../../02_Zettel/Theory/Euler method.html)
+- [Runge-Kutta 2 midpoint method](../../02_Zettel/Theory/Runge-Kutta 2 midpoint method.html)
+- [Leapfrog integrator](../../02_Zettel/Theory/Leapfrog integrator.html)
+- [Astrophysical N-body problem formulation](../../02_Zettel/Theory/Astrophysical N-body problem formulation.html)
+- [Energy conservation as a diagnostic](../../02_Zettel/Theory/Energy conservation as a diagnostic.html)
+- [The Pythagorean three-body problem](../../02_Zettel/Theory/The Pythagorean three-body problem.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

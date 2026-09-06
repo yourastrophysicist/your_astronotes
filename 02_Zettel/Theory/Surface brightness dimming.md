@@ -64,12 +64,12 @@ so deep-field surveys at $H, K$ + ALMA sub-mm reach much higher $z$ than equival
 
 ## see also
 
-- [Luminosity distance](../../02_Zettel/Theory/Luminosity distance.md)
-- [Angular diameter distance](../../02_Zettel/Theory/Angular diameter distance.md)
-- [Radial comoving distance](../../02_Zettel/Theory/Radial comoving distance.md)
-- [K-correction](../../02_Zettel/Theory/K-correction.md)
-- [K-correction in optical vs sub-mm](../../02_Zettel/Theory/K-correction in optical vs sub-mm.md)
+- [Luminosity distance](../../02_Zettel/Theory/Luminosity distance.html)
+- [Angular diameter distance](../../02_Zettel/Theory/Angular diameter distance.html)
+- [Radial comoving distance](../../02_Zettel/Theory/Radial comoving distance.html)
+- [K-correction](../../02_Zettel/Theory/K-correction.html)
+- [K-correction in optical vs sub-mm](../../02_Zettel/Theory/K-correction in optical vs sub-mm.html)
 - 03_Zettel/Theory/Cosmological distances
-- [Hubble flow distances](../../02_Zettel/Theory/Hubble flow distances.md)
-- [Photometric redshifts](../../02_Zettel/Theory/Photometric redshifts.md)
-- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md)
+- [Hubble flow distances](../../02_Zettel/Theory/Hubble flow distances.html)
+- [Photometric redshifts](../../02_Zettel/Theory/Photometric redshifts.html)
+- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html)

@@ -76,13 +76,13 @@ major systematic; active research area.
 
 ## see also
 
-- [Stellar populations I II III](../../02_Zettel/Theory/Stellar populations I II III.md)
-- [Single stellar population SSP](../../02_Zettel/Theory/Single stellar population SSP.md)
-- [Age-metallicity degeneracy](../../02_Zettel/Theory/Age-metallicity degeneracy.md)
-- [Lick indices](../../02_Zettel/Theory/Lick indices.md)
-- [Metallicity and chemical evolution](../../02_Zettel/Theory/Metallicity and chemical evolution.md)
-- [Galaxy spectroscopy by type](../../02_Zettel/Theory/Galaxy spectroscopy by type.md)
-- [Initial mass function](../../02_Zettel/Theory/Initial mass function.md)
-- [Chemical evolution of galaxies](../../02_Zettel/Theory/Chemical evolution of galaxies.md)
-- [Hubble morphological sequence](../../02_Zettel/Theory/Hubble morphological sequence.md)
-- [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.md)
+- [Stellar populations I II III](../../02_Zettel/Theory/Stellar populations I II III.html)
+- [Single stellar population SSP](../../02_Zettel/Theory/Single stellar population SSP.html)
+- [Age-metallicity degeneracy](../../02_Zettel/Theory/Age-metallicity degeneracy.html)
+- [Lick indices](../../02_Zettel/Theory/Lick indices.html)
+- [Metallicity and chemical evolution](../../02_Zettel/Theory/Metallicity and chemical evolution.html)
+- [Galaxy spectroscopy by type](../../02_Zettel/Theory/Galaxy spectroscopy by type.html)
+- [Initial mass function](../../02_Zettel/Theory/Initial mass function.html)
+- [Chemical evolution of galaxies](../../02_Zettel/Theory/Chemical evolution of galaxies.html)
+- [Hubble morphological sequence](../../02_Zettel/Theory/Hubble morphological sequence.html)
+- [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.html)

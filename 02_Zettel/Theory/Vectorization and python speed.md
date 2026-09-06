@@ -115,6 +115,6 @@ this is now as fast as the vectorized version, but uses $O(1)$ extra memory beca
 
 ## see also
 
-- [Numpy arrays vs Python lists](../../02_Zettel/Theory/Numpy arrays vs Python lists.md)
-- [Computational complexity and speed](../../02_Zettel/Theory/Computational complexity and speed.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Numpy arrays vs Python lists](../../02_Zettel/Theory/Numpy arrays vs Python lists.html)
+- [Computational complexity and speed](../../02_Zettel/Theory/Computational complexity and speed.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

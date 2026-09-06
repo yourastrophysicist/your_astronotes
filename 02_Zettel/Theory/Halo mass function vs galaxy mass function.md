@@ -5,14 +5,14 @@ title: "Halo mass function vs galaxy mass function"
 
 # halo mass function vs galaxy mass function
 
-up: [Pablo_02_Statistical_properties_of_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.md)
+up: [Pablo_02_Statistical_properties_of_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html)
 
 ## the comparison plot
 
 overplot, in the same axes:
 
 - the **halo mass function (HMF)** $n(M_h)\, dM_h$, predicted from Press-Schechter or measured in N-body simulations
-- the **galaxy stellar mass function (SMF)** $\phi(M_*)\, dM_*$ (see [Stellar mass function](../../02_Zettel/Theory/Stellar mass function.md))
+- the **galaxy stellar mass function (SMF)** $\phi(M_*)\, dM_*$ (see [Stellar mass function](../../02_Zettel/Theory/Stellar mass function.html))
 
 to make them comparable, multiply each halo mass by the cosmic baryon fraction $f_b = \Omega_b/\Omega_m \approx 0.16$ to get a "maximum possible stellar mass": $M_{*,\max} = f_b\, M_h$.
 
@@ -30,7 +30,7 @@ so the "shape mismatch" is itself a clue: galaxy formation is inefficient *every
 
 ## the meeting point
 
-the two curves are *closest* at $M_h \sim 10^{12}\,M_\odot$, which corresponds to $M_* \sim 5 \times 10^{10}\,M_\odot$. this is roughly the milky way's halo mass. it is also the [Stellar-to-halo mass ratio](../../02_Zettel/Theory/Stellar-to-halo mass ratio.md) peak.
+the two curves are *closest* at $M_h \sim 10^{12}\,M_\odot$, which corresponds to $M_* \sim 5 \times 10^{10}\,M_\odot$. this is roughly the milky way's halo mass. it is also the [Stellar-to-halo mass ratio](../../02_Zettel/Theory/Stellar-to-halo mass ratio.html) peak.
 
 ## what this implies
 
@@ -47,10 +47,10 @@ modern galaxy formation simulations (IllustrisTNG, EAGLE, SIMBA) tune their feed
 
 ## connections
 
-- mechanism: [Halo gravity suppression of galaxy formation](../../02_Zettel/Theory/Halo gravity suppression of galaxy formation.md)
-- the canonical figure: [Stellar-to-halo mass ratio](../../02_Zettel/Theory/Stellar-to-halo mass ratio.md)
-- both functions: [Stellar mass function](../../02_Zettel/Theory/Stellar mass function.md) and (course block 8) Press–Schechter formalism
-- big-picture course context: [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md) block 10
+- mechanism: [Halo gravity suppression of galaxy formation](../../02_Zettel/Theory/Halo gravity suppression of galaxy formation.html)
+- the canonical figure: [Stellar-to-halo mass ratio](../../02_Zettel/Theory/Stellar-to-halo mass ratio.html)
+- both functions: [Stellar mass function](../../02_Zettel/Theory/Stellar mass function.html) and (course block 8) Press–Schechter formalism
+- big-picture course context: [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html) block 10
 
 ## key references
 

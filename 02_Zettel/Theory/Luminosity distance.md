@@ -46,7 +46,7 @@ plot $\mu(z)$ for SN Ia:
 
 at $z \sim 0.5$ to $1$, SN Ia are **fainter** than expected for a matter-only universe. the data prefer $\Omega_m \approx 0.3$, $\Omega_\Lambda \approx 0.7$, the smoking-gun discovery of accelerated expansion (Perlmutter, Riess, Schmidt 1998).
 
-see [Type Ia supernovae as standard candles](../../02_Zettel/Theory/Type Ia supernovae as standard candles.md) and [Supernova Hubble diagram](../../02_Zettel/Theory/Supernova Hubble diagram.md).
+see [Type Ia supernovae as standard candles](../../02_Zettel/Theory/Type Ia supernovae as standard candles.html) and [Supernova Hubble diagram](../../02_Zettel/Theory/Supernova Hubble diagram.html).
 
 ## relation to other distances
 
@@ -57,17 +57,17 @@ so $d_L \ge d_C \ge d_A$, with equality at $z = 0$.
 
 surface brightness $\sigma = $ flux per solid angle $\propto F/\theta^2 = (L/d_L^2)/(D^2/d_A^2) = (L/D^2)/d_L^2 \cdot d_A^2 = (L/D^2)\cdot 1/(1+z)^4$. the **$(1+z)^{-4}$ surface brightness dimming**, brutal at high $z$.
 
-see [Surface brightness dimming](../../02_Zettel/Theory/Surface brightness dimming.md).
+see [Surface brightness dimming](../../02_Zettel/Theory/Surface brightness dimming.html).
 
 ## see also
 
 - 03_Zettel/Theory/Cosmological distances
-- [Radial comoving distance](../../02_Zettel/Theory/Radial comoving distance.md)
-- [Angular diameter distance](../../02_Zettel/Theory/Angular diameter distance.md)
-- [Surface brightness dimming](../../02_Zettel/Theory/Surface brightness dimming.md)
-- [Distance modulus](../../02_Zettel/Theory/Distance modulus.md)
-- [Type Ia supernovae as standard candles](../../02_Zettel/Theory/Type Ia supernovae as standard candles.md)
-- [Supernova Hubble diagram](../../02_Zettel/Theory/Supernova Hubble diagram.md)
-- [K-correction](../../02_Zettel/Theory/K-correction.md)
-- [Hubble law](../../02_Zettel/Theory/Hubble law.md)
-- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md)
+- [Radial comoving distance](../../02_Zettel/Theory/Radial comoving distance.html)
+- [Angular diameter distance](../../02_Zettel/Theory/Angular diameter distance.html)
+- [Surface brightness dimming](../../02_Zettel/Theory/Surface brightness dimming.html)
+- [Distance modulus](../../02_Zettel/Theory/Distance modulus.html)
+- [Type Ia supernovae as standard candles](../../02_Zettel/Theory/Type Ia supernovae as standard candles.html)
+- [Supernova Hubble diagram](../../02_Zettel/Theory/Supernova Hubble diagram.html)
+- [K-correction](../../02_Zettel/Theory/K-correction.html)
+- [Hubble law](../../02_Zettel/Theory/Hubble law.html)
+- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html)

@@ -4,7 +4,7 @@ name: Origin of eMSTO age spread or rotation
 description: the debate over whether eMSTOs in young clusters reflect prolonged star formation or differing stellar rotation, with rotation now favoured
 ---
 
-since the discovery of the [Extended main sequence turn-off eMSTO](../../02_Zettel/Theory/Extended main sequence turn-off eMSTO.md) in $1$-$2$ Gyr LMC clusters (Mackey & Broby Nielsen 2007), there has been a sustained debate over what physical mechanism produces the broadened TO. two competing hypotheses dominate the literature.
+since the discovery of the [Extended main sequence turn-off eMSTO](../../02_Zettel/Theory/Extended main sequence turn-off eMSTO.html) in $1$-$2$ Gyr LMC clusters (Mackey & Broby Nielsen 2007), there has been a sustained debate over what physical mechanism produces the broadened TO. two competing hypotheses dominate the literature.
 
 ## hypothesis 1: prolonged star formation (age spread)
 
@@ -95,10 +95,10 @@ if true, this unifies the eMSTO + chromosome map phenomena into a single evoluti
 
 ## see also
 
-- [Extended main sequence turn-off eMSTO](../../02_Zettel/Theory/Extended main sequence turn-off eMSTO.md)
-- [Stellar rotation effects on CMD](../../02_Zettel/Theory/Stellar rotation effects on CMD.md)
-- [Splitting of the upper MS in young clusters](../../02_Zettel/Theory/Splitting of the upper MS in young clusters.md)
-- [eMSTO and multiple populations connection](../../02_Zettel/Theory/eMSTO and multiple populations connection.md)
-- [Multiple populations in GCs discovery](../../02_Zettel/Theory/Multiple populations in GCs discovery.md)
-- [Helium spread in GCs](../../02_Zettel/Theory/Helium spread in GCs.md)
-- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.md)
+- [Extended main sequence turn-off eMSTO](../../02_Zettel/Theory/Extended main sequence turn-off eMSTO.html)
+- [Stellar rotation effects on CMD](../../02_Zettel/Theory/Stellar rotation effects on CMD.html)
+- [Splitting of the upper MS in young clusters](../../02_Zettel/Theory/Splitting of the upper MS in young clusters.html)
+- [eMSTO and multiple populations connection](../../02_Zettel/Theory/eMSTO and multiple populations connection.html)
+- [Multiple populations in GCs discovery](../../02_Zettel/Theory/Multiple populations in GCs discovery.html)
+- [Helium spread in GCs](../../02_Zettel/Theory/Helium spread in GCs.html)
+- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.html)

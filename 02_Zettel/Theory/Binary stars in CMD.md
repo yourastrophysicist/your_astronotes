@@ -4,7 +4,7 @@ name: Binary stars in CMD
 description: how unresolved binaries shift stars above the main sequence by up to 0.75 mag in cluster CMDs
 ---
 
-unresolved binaries are one of the most useful "contaminants" of a cluster [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.md). when two stars share a single PSF in our images, we measure the combined flux and assign it to a single point in the [HR diagram](../../02_Zettel/Theory/HR diagram.md). the result is a systematic shift upward (brighter) and slightly redward, depending on the mass ratio $q = M_2/M_1$.
+unresolved binaries are one of the most useful "contaminants" of a cluster [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.html). when two stars share a single PSF in our images, we measure the combined flux and assign it to a single point in the [HR diagram](../../02_Zettel/Theory/HR diagram.html). the result is a systematic shift upward (brighter) and slightly redward, depending on the mass ratio $q = M_2/M_1$.
 
 the cleanest case is the equal-mass binary, $q = 1$. two identical main-sequence stars contribute the same flux, so the total is exactly twice the single-star flux. in magnitudes,
 
@@ -18,9 +18,9 @@ if we model the magnitude offset for an unresolved pair of MS stars,
 
 $$m_{\text{tot}} = -2.5 \log_{10}\!\left(10^{-0.4 m_1} + 10^{-0.4 m_2}\right),$$
 
-we can build synthetic CMDs by sampling pairs from an assumed [Stellar mass function](../../02_Zettel/Theory/Stellar mass function.md) (often the [IMF](../../02_Zettel/Theory/Salpeter Kroupa Chabrier IMFs.md)) plus a $q$ distribution. the comparison to observations gives the [binary fraction](../../02_Zettel/Theory/Cluster binary fraction methods.md) $f_b$.
+we can build synthetic CMDs by sampling pairs from an assumed [Stellar mass function](../../02_Zettel/Theory/Stellar mass function.html) (often the [IMF](../../02_Zettel/Theory/Salpeter Kroupa Chabrier IMFs.html)) plus a $q$ distribution. the comparison to observations gives the [binary fraction](../../02_Zettel/Theory/Cluster binary fraction methods.html) $f_b$.
 
-the same trick works for higher multiples. triples and quadruples shift even further above the MS, but they are rare and dynamically unstable in [Globular Clusters](../../02_Zettel/Theory/Globular Clusters.md). most "binary ridge" stars are genuine bound pairs, although a small fraction can be chance superpositions in dense cluster fields (mitigated with HST proper motions and high-resolution imaging).
+the same trick works for higher multiples. triples and quadruples shift even further above the MS, but they are rare and dynamically unstable in [Globular Clusters](../../02_Zettel/Theory/Globular Clusters.html). most "binary ridge" stars are genuine bound pairs, although a small fraction can be chance superpositions in dense cluster fields (mitigated with HST proper motions and high-resolution imaging).
 
 ## binary fraction measurements
 
@@ -33,10 +33,10 @@ the same trick works for higher multiples. triples and quadruples shift even fur
 - **Bedin et al. 2008, 2009** — high binary fraction in NGC 6791 and its impact on the WDCS.
 
 ## see also
-- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.md)
-- [Cluster binary fraction methods](../../02_Zettel/Theory/Cluster binary fraction methods.md)
-- [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.md)
-- [Binary star orbits](../../02_Zettel/Theory/interf/Binary star orbits.md)
-- [Single stellar population SSP](../../02_Zettel/Theory/Single stellar population SSP.md)
-- [White dwarf cooling sequence on the CMD](../../02_Zettel/Theory/White dwarf cooling sequence on the CMD.md)
+- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.html)
+- [Cluster binary fraction methods](../../02_Zettel/Theory/Cluster binary fraction methods.html)
+- [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.html)
+- [Binary star orbits](../../02_Zettel/Theory/interf/Binary star orbits.html)
+- [Single stellar population SSP](../../02_Zettel/Theory/Single stellar population SSP.html)
+- [White dwarf cooling sequence on the CMD](../../02_Zettel/Theory/White dwarf cooling sequence on the CMD.html)
 

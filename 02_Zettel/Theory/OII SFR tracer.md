@@ -5,7 +5,7 @@ title: "OII SFR tracer"
 
 # [OII] SFR tracer
 
-up: [Pablo_03_Star_formation_in_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.md)
+up: [Pablo_03_Star_formation_in_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html)
 
 ## the line
 
@@ -37,9 +37,9 @@ valid for solar metallicity, Salpeter IMF. the scatter is $\sim 0.3$ dex around 
 
 ## connections
 
-- recombination-line tracer: [H-alpha SFR tracer](../../02_Zettel/Theory/H-alpha SFR tracer.md)
-- other high-$z$ lines: [Lyman alpha SFR tracer](../../02_Zettel/Theory/Lyman alpha SFR tracer.md), [Other SFR tracer lines](../../02_Zettel/Theory/Other SFR tracer lines.md)
-- extinction: [Balmer decrement](../../02_Zettel/Theory/Balmer decrement.md), [Dust attenuation and extinction curves](../../02_Zettel/Theory/Dust attenuation and extinction curves.md)
+- recombination-line tracer: [H-alpha SFR tracer](../../02_Zettel/Theory/H-alpha SFR tracer.html)
+- other high-$z$ lines: [Lyman alpha SFR tracer](../../02_Zettel/Theory/Lyman alpha SFR tracer.html), [Other SFR tracer lines](../../02_Zettel/Theory/Other SFR tracer lines.html)
+- extinction: [Balmer decrement](../../02_Zettel/Theory/Balmer decrement.html), [Dust attenuation and extinction curves](../../02_Zettel/Theory/Dust attenuation and extinction curves.html)
 
 ## key references
 

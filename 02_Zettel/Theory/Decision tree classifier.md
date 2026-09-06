@@ -143,7 +143,7 @@ is enough.
 
 ## see also
 
-- [What is machine learning](../../02_Zettel/Theory/What is machine learning.md)
-- [Iris dataset and the ML hello world](../../02_Zettel/Theory/Iris dataset and the ML hello world.md)
-- [Interpretability vs accuracy in ML](../../02_Zettel/Theory/Interpretability vs accuracy in ML.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [What is machine learning](../../02_Zettel/Theory/What is machine learning.html)
+- [Iris dataset and the ML hello world](../../02_Zettel/Theory/Iris dataset and the ML hello world.html)
+- [Interpretability vs accuracy in ML](../../02_Zettel/Theory/Interpretability vs accuracy in ML.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

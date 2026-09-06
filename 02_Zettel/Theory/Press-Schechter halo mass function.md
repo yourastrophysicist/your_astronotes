@@ -29,7 +29,7 @@ so $\sigma(M)$ is the rms fluctuation of $\delta$ on the mass scale $M$. for ΛC
 
 assume:
 1. $\delta$ is Gaussian with variance $\sigma^2(M)$ at any mass scale
-2. a region of mass $M$ has collapsed if its smoothed linear $\delta$ exceeds the spherical-collapse threshold $\delta_c \approx 1.686$ (see [Spherical collapse](../../02_Zettel/Theory/Spherical collapse.md))
+2. a region of mass $M$ has collapsed if its smoothed linear $\delta$ exceeds the spherical-collapse threshold $\delta_c \approx 1.686$ (see [Spherical collapse](../../02_Zettel/Theory/Spherical collapse.html))
 
 the fraction of mass in regions with $\delta > \delta_c$ is:
 $$F(>M) = \frac{1}{\sqrt{2\pi}\sigma}\int_{\delta_c}^\infty e^{-\delta^2/(2\sigma^2)}\,d\delta = \frac{1}{2}\,\text{erfc}\left(\frac{\delta_c}{\sqrt 2\sigma}\right)$$
@@ -81,10 +81,10 @@ cluster counts are a competitive cosmological probe — they directly measure $\
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Spherical collapse](../../02_Zettel/Theory/Spherical collapse.md)
-- [Linear evolution of perturbations in expanding universe](../../02_Zettel/Theory/Linear evolution of perturbations in expanding universe.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Spherical collapse](../../02_Zettel/Theory/Spherical collapse.html)
+- [Linear evolution of perturbations in expanding universe](../../02_Zettel/Theory/Linear evolution of perturbations in expanding universe.html)
 - [Growth factor D(z)](../../02_Zettel/Theory/Growth factor D(z).md)
-- [Matter power spectrum and BAO](../../02_Zettel/Theory/Matter power spectrum and BAO.md)
-- [Cosmic_inventory_dark_matter](../../02_Zettel/Theory/Cosmic_inventory_dark_matter.md)
-- [Halo mass function vs galaxy mass function](../../02_Zettel/Theory/Halo mass function vs galaxy mass function.md)
+- [Matter power spectrum and BAO](../../02_Zettel/Theory/Matter power spectrum and BAO.html)
+- [Cosmic_inventory_dark_matter](../../02_Zettel/Theory/Cosmic_inventory_dark_matter.html)
+- [Halo mass function vs galaxy mass function](../../02_Zettel/Theory/Halo mass function vs galaxy mass function.html)

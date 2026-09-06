@@ -5,7 +5,7 @@ title: "Ionized gas SMBH masses"
 
 # ionized gas smbh masses
 
-up: [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.md) · [Water maser BH masses](../../02_Zettel/Theory/Water maser BH masses.md)
+up: [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.html) · [Water maser BH masses](../../02_Zettel/Theory/Water maser BH masses.html)
 
 ## the method
 
@@ -36,5 +36,5 @@ At $d = 16$ Mpc, this corresponds to an angular size $\theta = r_{\rm infl}/d \a
 
 ## connections
 
-- alternative methods: [Water maser BH masses](../../02_Zettel/Theory/Water maser BH masses.md), [Galactic Center Sgr A and S-stars](../../02_Zettel/Theory/interf/Galactic Center Sgr A and S-stars.md)
+- alternative methods: [Water maser BH masses](../../02_Zettel/Theory/Water maser BH masses.html), [Galactic Center Sgr A and S-stars](../../02_Zettel/Theory/interf/Galactic Center Sgr A and S-stars.html)
 - scaling laws: SMBH scaling relations M-sigma

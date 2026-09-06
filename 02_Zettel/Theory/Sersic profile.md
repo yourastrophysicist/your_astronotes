@@ -73,11 +73,11 @@ Sérsic captures both ends + everything in between with a single parameter.
 
 ## see also
 
-- [De Vaucouleurs and exponential profiles](../../02_Zettel/Theory/De Vaucouleurs and exponential profiles.md)
-- [Hubble morphological sequence](../../02_Zettel/Theory/Hubble morphological sequence.md)
-- [CAS galaxy classification](../../02_Zettel/Theory/CAS galaxy classification.md)
-- [Galaxy size-luminosity relation](../../02_Zettel/Theory/Galaxy size-luminosity relation.md)
-- [Petrosian radius](../../02_Zettel/Theory/Petrosian radius.md)
-- [Aperture photometry](../../02_Zettel/Theory/Aperture photometry.md)
-- [PSF photometry](../../02_Zettel/Theory/PSF photometry.md)
-- [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.md)
+- [De Vaucouleurs and exponential profiles](../../02_Zettel/Theory/De Vaucouleurs and exponential profiles.html)
+- [Hubble morphological sequence](../../02_Zettel/Theory/Hubble morphological sequence.html)
+- [CAS galaxy classification](../../02_Zettel/Theory/CAS galaxy classification.html)
+- [Galaxy size-luminosity relation](../../02_Zettel/Theory/Galaxy size-luminosity relation.html)
+- [Petrosian radius](../../02_Zettel/Theory/Petrosian radius.html)
+- [Aperture photometry](../../02_Zettel/Theory/Aperture photometry.html)
+- [PSF photometry](../../02_Zettel/Theory/PSF photometry.html)
+- [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.html)

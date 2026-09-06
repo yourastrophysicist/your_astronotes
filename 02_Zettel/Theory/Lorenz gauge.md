@@ -38,7 +38,7 @@ so to satisfy $\partial^\mu \bar h_{\mu\nu} = 0$, choose $\xi_\nu$ such that $\B
 
 after reaching Lorenz gauge, **further gauge transformations** with $\Box \xi^\mu = 0$ (i.e. wave-equation solutions) preserve Lorenz. so 4 more parameters of residual gauge.
 
-these are typically used to fix the **transverse-traceless (TT) gauge** in vacuum, leaving only 2 physical polarisations. see [Transverse traceless gauge](../../02_Zettel/Theory/Transverse traceless gauge.md).
+these are typically used to fix the **transverse-traceless (TT) gauge** in vacuum, leaving only 2 physical polarisations. see [Transverse traceless gauge](../../02_Zettel/Theory/Transverse traceless gauge.html).
 
 ## the analogy with EM
 
@@ -59,12 +59,12 @@ both are wave equations sourced by their currents. both have residual gauge free
 
 ## see also
 
-- [Linearized metric perturbation](../../02_Zettel/Theory/Linearized metric perturbation.md)
-- [Linearized gauge transformations](../../02_Zettel/Theory/Linearized gauge transformations.md)
-- [Trace-reversed perturbation](../../02_Zettel/Theory/Trace-reversed perturbation.md)
-- [Transverse traceless gauge](../../02_Zettel/Theory/Transverse traceless gauge.md)
-- [Quadrupole formula](../../02_Zettel/Theory/Quadrupole formula.md)
-- [Newtonian limit of GR](../../02_Zettel/Theory/Newtonian limit of GR.md)
+- [Linearized metric perturbation](../../02_Zettel/Theory/Linearized metric perturbation.html)
+- [Linearized gauge transformations](../../02_Zettel/Theory/Linearized gauge transformations.html)
+- [Trace-reversed perturbation](../../02_Zettel/Theory/Trace-reversed perturbation.html)
+- [Transverse traceless gauge](../../02_Zettel/Theory/Transverse traceless gauge.html)
+- [Quadrupole formula](../../02_Zettel/Theory/Quadrupole formula.html)
+- [Newtonian limit of GR](../../02_Zettel/Theory/Newtonian limit of GR.html)
 - Q15 - trace-reversed perturbation and Lorenz gauge
-- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.md)
-- [Ch 8 - Gravitational Waves](../../01_Literature/Book/Baumann GR/Ch 8 - Gravitational Waves.md)
+- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.html)
+- [Ch 8 - Gravitational Waves](../../01_Literature/Book/Baumann GR/Ch 8 - Gravitational Waves.html)

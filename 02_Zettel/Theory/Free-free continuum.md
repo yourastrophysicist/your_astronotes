@@ -5,7 +5,7 @@ title: "Free-free continuum"
 
 **free-free emission** (also called thermal bremsstrahlung) is photon emission when a free electron is deflected by the Coulomb field of an ion. distinct from recombination because the electron remains free before and after.
 
-note: the existing vault note [Bremsstrahlung](../../02_Zettel/Theory/Bremsstrahlung.md) covers the X-ray / hot-plasma case in more depth. this note focuses on the nebular / radio role.
+note: the existing vault note [Bremsstrahlung](../../02_Zettel/Theory/Bremsstrahlung.html) covers the X-ray / hot-plasma case in more depth. this note focuses on the nebular / radio role.
 
 ## the process
 
@@ -44,10 +44,10 @@ the radio continuum of star-forming galaxies has two components:
 - **synchrotron** (non-thermal, $S \propto \nu^{-0.7}$).
 - **free-free** (thermal, $S \propto \nu^{-0.1}$).
 
-at high frequencies ($\sim 30$ GHz), free-free dominates. used as a dust-insensitive SFR tracer ([Radio SFR tracer](../../02_Zettel/Theory/Radio SFR tracer.md)).
+at high frequencies ($\sim 30$ GHz), free-free dominates. used as a dust-insensitive SFR tracer ([Radio SFR tracer](../../02_Zettel/Theory/Radio SFR tracer.html)).
 
 ### hot plasma in clusters
-intracluster medium at $T \sim 10^7$ K. cutoff at $\sim 1$ keV. **dominant X-ray emission mechanism** of clusters; allows X-ray surveys to count hot baryons. see [Bremsstrahlung](../../02_Zettel/Theory/Bremsstrahlung.md) for the X-ray emphasis.
+intracluster medium at $T \sim 10^7$ K. cutoff at $\sim 1$ keV. **dominant X-ray emission mechanism** of clusters; allows X-ray surveys to count hot baryons. see [Bremsstrahlung](../../02_Zettel/Theory/Bremsstrahlung.html) for the X-ray emphasis.
 
 ### supernova remnants and corona
 similar physics, $T \sim 10^7$ K plasma.
@@ -67,12 +67,12 @@ inverse process: free-free can also absorb photons. relevant at low frequencies 
 
 ## see also
 
-- [Bremsstrahlung](../../02_Zettel/Theory/Bremsstrahlung.md) — X-ray emphasis
-- [Recombination continuum](../../02_Zettel/Theory/Recombination continuum.md)
-- [Balmer continuum](../../02_Zettel/Theory/Balmer continuum.md)
-- [Two-photon emission](../../02_Zettel/Theory/Two-photon emission.md)
-- [Synchroton](../../02_Zettel/Theory/Synchroton.md)
-- [Continuum opacity sources](../../02_Zettel/Theory/Continuum opacity sources.md)
-- [H II region spectroscopy](../../02_Zettel/Theory/H II region spectroscopy.md)
-- [Radio SFR tracer](../../02_Zettel/Theory/Radio SFR tracer.md)
-- [X-ray SFR tracer](../../02_Zettel/Theory/X-ray SFR tracer.md)
+- [Bremsstrahlung](../../02_Zettel/Theory/Bremsstrahlung.html) — X-ray emphasis
+- [Recombination continuum](../../02_Zettel/Theory/Recombination continuum.html)
+- [Balmer continuum](../../02_Zettel/Theory/Balmer continuum.html)
+- [Two-photon emission](../../02_Zettel/Theory/Two-photon emission.html)
+- [Synchroton](../../02_Zettel/Theory/Synchroton.html)
+- [Continuum opacity sources](../../02_Zettel/Theory/Continuum opacity sources.html)
+- [H II region spectroscopy](../../02_Zettel/Theory/H II region spectroscopy.html)
+- [Radio SFR tracer](../../02_Zettel/Theory/Radio SFR tracer.html)
+- [X-ray SFR tracer](../../02_Zettel/Theory/X-ray SFR tracer.html)

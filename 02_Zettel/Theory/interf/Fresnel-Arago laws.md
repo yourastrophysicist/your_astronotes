@@ -87,8 +87,8 @@ this is a standard undergraduate physics experiment, and a clean demonstration o
 
 ## see also
 
-- [Light waves and the EM spectrum](../../../02_Zettel/Theory/interf/Light waves and the EM spectrum.md)
-- [Polarization in interferometry](../../../02_Zettel/Theory/interf/Polarization in interferometry.md)
-- [Optical path difference OPD](../../../02_Zettel/Theory/interf/Optical path difference OPD.md)
-- [Superposition and interference](../../../02_Zettel/Theory/interf/Superposition and interference.md)
-- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Light waves and the EM spectrum](../../../02_Zettel/Theory/interf/Light waves and the EM spectrum.html)
+- [Polarization in interferometry](../../../02_Zettel/Theory/interf/Polarization in interferometry.html)
+- [Optical path difference OPD](../../../02_Zettel/Theory/interf/Optical path difference OPD.html)
+- [Superposition and interference](../../../02_Zettel/Theory/interf/Superposition and interference.html)
+- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.html)

@@ -38,7 +38,7 @@ the Strömgren analysis assumes hydrogen-only. real gas has He and metals:
 - **He II** ionises at $54.4$ eV: only the very hottest stars (O3, WR) produce He$^{2+}$ regions.
 - metal ions are stratified by their ionisation potentials.
 
-so the structure has nested ionisation regions, with stratification by $U$ ([Ionisation stratification](../../02_Zettel/Theory/Ionisation stratification.md)).
+so the structure has nested ionisation regions, with stratification by $U$ ([Ionisation stratification](../../02_Zettel/Theory/Ionisation stratification.html)).
 
 ## time-dependent expansion
 
@@ -51,11 +51,11 @@ after reaching $R_S$, the over-pressured ionised gas (factor $\sim 200\times$ pr
 ## see also
 
 - Strömgren sphere derivation
-- [Photoionisation balance](../../02_Zettel/Theory/Photoionisation balance.md)
-- [Recombination rate](../../02_Zettel/Theory/Recombination rate.md)
-- [Photoionization rate](../../02_Zettel/Theory/Photoionization rate.md)
-- [Ionisation stratification](../../02_Zettel/Theory/Ionisation stratification.md)
-- [H I regions](../../02_Zettel/Theory/H I regions.md)
-- [H II region spectroscopy](../../02_Zettel/Theory/H II region spectroscopy.md)
-- [Ionisation parameter U](../../02_Zettel/Theory/Ionisation parameter U.md)
-- [Case A vs Case B recombination](../../02_Zettel/Theory/Case A vs Case B recombination.md)
+- [Photoionisation balance](../../02_Zettel/Theory/Photoionisation balance.html)
+- [Recombination rate](../../02_Zettel/Theory/Recombination rate.html)
+- [Photoionization rate](../../02_Zettel/Theory/Photoionization rate.html)
+- [Ionisation stratification](../../02_Zettel/Theory/Ionisation stratification.html)
+- [H I regions](../../02_Zettel/Theory/H I regions.html)
+- [H II region spectroscopy](../../02_Zettel/Theory/H II region spectroscopy.html)
+- [Ionisation parameter U](../../02_Zettel/Theory/Ionisation parameter U.html)
+- [Case A vs Case B recombination](../../02_Zettel/Theory/Case A vs Case B recombination.html)

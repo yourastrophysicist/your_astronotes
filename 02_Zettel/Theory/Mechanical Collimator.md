@@ -64,7 +64,7 @@ However:
 	cannot resolve extended sources or separate AGN from clusters
 
 The collimator was the dominant X-ray instrument in the 1970s (before focusing X-ray telescopes)
-	it was replaced by [coded aperture masks](../../02_Zettel/Theory/Coded Mask.md) for imaging, and by [Wolter telescopes](../../02_Zettel/Theory/Wolter Telescope.md) for focusing below $\sim 10$ keV
+	it was replaced by [coded aperture masks](../../02_Zettel/Theory/Coded Mask.html) for imaging, and by [Wolter telescopes](../../02_Zettel/Theory/Wolter Telescope.html) for focusing below $\sim 10$ keV
 
 ---
 

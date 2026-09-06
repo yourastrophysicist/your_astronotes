@@ -49,9 +49,9 @@ practical pre-2020 list: Mauna Kea ($4200$ m), Cerro Paranal ($2600$ m), Cerro P
 
 ## see also
 
-- [Earth atmosphere for observations](../../02_Zettel/Theory/Earth atmosphere for observations.md)
-- [Atmospheric transparency windows](../../02_Zettel/Theory/interf/Atmospheric transparency windows.md)
-- [Atmospheric extinction](../../02_Zettel/Theory/interf/Atmospheric extinction.md)
-- [Atmospheric seeing](../../02_Zettel/Theory/interf/Atmospheric seeing.md)
-- [Sky brightness](../../02_Zettel/Theory/Sky brightness.md)
-- [Adaptive optics overview](../../02_Zettel/Theory/interf/Adaptive optics overview.md)
+- [Earth atmosphere for observations](../../02_Zettel/Theory/Earth atmosphere for observations.html)
+- [Atmospheric transparency windows](../../02_Zettel/Theory/interf/Atmospheric transparency windows.html)
+- [Atmospheric extinction](../../02_Zettel/Theory/interf/Atmospheric extinction.html)
+- [Atmospheric seeing](../../02_Zettel/Theory/interf/Atmospheric seeing.html)
+- [Sky brightness](../../02_Zettel/Theory/Sky brightness.html)
+- [Adaptive optics overview](../../02_Zettel/Theory/interf/Adaptive optics overview.html)

@@ -50,7 +50,7 @@ $$\mathcal B_{ijk} = \mathcal V_{ij} \cdot \mathcal V_{jk} \cdot \mathcal V_{ki}
 
 it is the product of the three complex visibilities around a triangle. the **closure phase is the phase of the bispectrum**: $\Phi_{ijk} = \arg \mathcal B_{ijk}$.
 
-the bispectrum's amplitude (as opposed to phase) does *not* close — it depends on station gain amplitudes. for amplitude closure, we need [Closure amplitude](../../../02_Zettel/Theory/interf/Closure amplitude.md) (with 4 stations).
+the bispectrum's amplitude (as opposed to phase) does *not* close — it depends on station gain amplitudes. for amplitude closure, we need [Closure amplitude](../../../02_Zettel/Theory/interf/Closure amplitude.html) (with 4 stations).
 
 ## counting closure relations
 
@@ -104,9 +104,9 @@ introduced by **Roger Jennison** (1958) in radio astronomy. didn't enter the opt
 
 ## see also
 
-- [The phase problem in interferometry](../../../02_Zettel/Theory/interf/The phase problem in interferometry.md)
-- [Closure amplitude](../../../02_Zettel/Theory/interf/Closure amplitude.md)
-- [Bispectrum and triple correlation](../../../02_Zettel/Theory/interf/Bispectrum and triple correlation.md)
-- [Self-calibration](../../../02_Zettel/Theory/interf/Self-calibration.md)
-- [CLEAN algorithm](../../../02_Zettel/Theory/interf/CLEAN algorithm.md)
-- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [The phase problem in interferometry](../../../02_Zettel/Theory/interf/The phase problem in interferometry.html)
+- [Closure amplitude](../../../02_Zettel/Theory/interf/Closure amplitude.html)
+- [Bispectrum and triple correlation](../../../02_Zettel/Theory/interf/Bispectrum and triple correlation.html)
+- [Self-calibration](../../../02_Zettel/Theory/interf/Self-calibration.html)
+- [CLEAN algorithm](../../../02_Zettel/Theory/interf/CLEAN algorithm.html)
+- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.html)

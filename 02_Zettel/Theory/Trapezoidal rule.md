@@ -95,8 +95,8 @@ Romberg integration: combine trapezoidal estimates at different step sizes via R
 
 ## see also
 
-- [Simpson's rule](../../02_Zettel/Theory/Simpson's rule.md)
-- [Trapezoidal rule error estimate](../../02_Zettel/Theory/Trapezoidal rule error estimate.md)
-- [Monte Carlo integration mean value method](../../02_Zettel/Theory/Monte Carlo integration mean value method.md)
-- [Truncation error and order of accuracy](../../02_Zettel/Theory/Truncation error and order of accuracy.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Simpson's rule](../../02_Zettel/Theory/Simpson's rule.html)
+- [Trapezoidal rule error estimate](../../02_Zettel/Theory/Trapezoidal rule error estimate.html)
+- [Monte Carlo integration mean value method](../../02_Zettel/Theory/Monte Carlo integration mean value method.html)
+- [Truncation error and order of accuracy](../../02_Zettel/Theory/Truncation error and order of accuracy.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

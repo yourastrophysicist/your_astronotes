@@ -62,10 +62,10 @@ dynamic range = bright magnitude - faint magnitude ≈ $\sim 16$ to $20$ mag for
 
 ## see also
 
-- [CCD basics](../../02_Zettel/Theory/CCD basics.md)
-- [CCD calibration steps](../../02_Zettel/Theory/CCD calibration steps.md)
-- [CCD readout chain](../../02_Zettel/Theory/CCD readout chain.md)
-- [Aperture photometry](../../02_Zettel/Theory/Aperture photometry.md)
-- [PSF photometry](../../02_Zettel/Theory/PSF photometry.md)
-- [Magnitudes and photometric systems](../../02_Zettel/Theory/Magnitudes and photometric systems.md)
-- [The CCD equation](../../02_Zettel/Theory/The CCD equation.md)
+- [CCD basics](../../02_Zettel/Theory/CCD basics.html)
+- [CCD calibration steps](../../02_Zettel/Theory/CCD calibration steps.html)
+- [CCD readout chain](../../02_Zettel/Theory/CCD readout chain.html)
+- [Aperture photometry](../../02_Zettel/Theory/Aperture photometry.html)
+- [PSF photometry](../../02_Zettel/Theory/PSF photometry.html)
+- [Magnitudes and photometric systems](../../02_Zettel/Theory/Magnitudes and photometric systems.html)
+- [The CCD equation](../../02_Zettel/Theory/The CCD equation.html)

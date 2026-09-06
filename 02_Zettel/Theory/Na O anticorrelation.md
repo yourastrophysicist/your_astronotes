@@ -35,23 +35,23 @@ so a region hot enough to do both will simultaneously deplete O + enhance Na, pr
 - the cores of fast-rotating massive MS stars
 - the convective envelopes of supermassive stars
 
-ordinary low-mass MS stars (the GC stars themselves) do not reach these temperatures internally, so their surface composition cannot be modified in situ on the MS. the polluted material had to come from somewhere else (see [Polluter scenarios for second-generation GC stars](../../02_Zettel/Theory/Polluter scenarios for second-generation GC stars.md)).
+ordinary low-mass MS stars (the GC stars themselves) do not reach these temperatures internally, so their surface composition cannot be modified in situ on the MS. the polluted material had to come from somewhere else (see [Polluter scenarios for second-generation GC stars](../../02_Zettel/Theory/Polluter scenarios for second-generation GC stars.html)).
 
 ## why it is not stellar evolution
 
 a tempting interpretation in the 1970s was that Na + O variations were produced by deep mixing on the giant branch in each star individually. this is ruled out because:
 1. the anti-correlation is seen in unevolved MS + subgiant stars, where deep mixing has not yet operated (gratton et al. 2001 in NGC 6752)
 2. the abundance pattern requires temperatures higher than any low-mass star achieves internally
-3. helium variations + colour splits track Na-O even on the MS (see [Helium spread in GCs](../../02_Zettel/Theory/Helium spread in GCs.md))
+3. helium variations + colour splits track Na-O even on the MS (see [Helium spread in GCs](../../02_Zettel/Theory/Helium spread in GCs.html))
 
 the contamination must therefore be primordial: 2G stars were born from gas already enriched by some earlier polluter generation.
 
 ## connections to other anti-correlations
 
 Na-O is the most accessible (strong + clean lines in the optical) but it is not isolated. the same hot-H-burning origin produces:
-- C depletion + N enhancement (CN cycle, lower T) → see [CN CH MgAl anticorrelations](../../02_Zettel/Theory/CN CH MgAl anticorrelations.md)
+- C depletion + N enhancement (CN cycle, lower T) → see [CN CH MgAl anticorrelations](../../02_Zettel/Theory/CN CH MgAl anticorrelations.html)
 - Mg depletion + Al enhancement (MgAl cycle, $T \gtrsim 70$ MK) → only in the most massive metal-poor GCs
-- He enhancement (the unique product of H burning) → see [Helium spread in GCs](../../02_Zettel/Theory/Helium spread in GCs.md)
+- He enhancement (the unique product of H burning) → see [Helium spread in GCs](../../02_Zettel/Theory/Helium spread in GCs.html)
 
 the joint pattern (Na up, Al up, Mg down, O down, C down, N up, He up, Fe constant) is the smoking gun for proton-capture pollution.
 
@@ -61,12 +61,12 @@ eugenio carretta + raffaele gratton + their collaborators (bragaglia, lucatello,
 
 ## see also
 
-- [Multiple populations in GCs discovery](../../02_Zettel/Theory/Multiple populations in GCs discovery.md)
-- [CN CH MgAl anticorrelations](../../02_Zettel/Theory/CN CH MgAl anticorrelations.md)
-- [Helium spread in GCs](../../02_Zettel/Theory/Helium spread in GCs.md)
-- [Polluter scenarios for second-generation GC stars](../../02_Zettel/Theory/Polluter scenarios for second-generation GC stars.md)
-- [Photometric chromosome maps](../../02_Zettel/Theory/Photometric chromosome maps.md)
+- [Multiple populations in GCs discovery](../../02_Zettel/Theory/Multiple populations in GCs discovery.html)
+- [CN CH MgAl anticorrelations](../../02_Zettel/Theory/CN CH MgAl anticorrelations.html)
+- [Helium spread in GCs](../../02_Zettel/Theory/Helium spread in GCs.html)
+- [Polluter scenarios for second-generation GC stars](../../02_Zettel/Theory/Polluter scenarios for second-generation GC stars.html)
+- [Photometric chromosome maps](../../02_Zettel/Theory/Photometric chromosome maps.html)
 - Hot bottom burning AGB nucleosynthesis
 - CNO cycle
-- [Stellar populations I II III](../../02_Zettel/Theory/Stellar populations I II III.md)
-- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.md)
+- [Stellar populations I II III](../../02_Zettel/Theory/Stellar populations I II III.html)
+- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.html)

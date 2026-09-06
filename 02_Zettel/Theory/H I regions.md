@@ -40,7 +40,7 @@ at the Strömgren-sphere boundary, the ionisation transitions sharply from $\sim
 - $[OI] \lambda 63\,\mu$m
 - $H_2$ rotational lines
 
-bright in dense star-forming regions (e.g. Orion). see [Photodissociation regions PDRs](../../02_Zettel/Theory/Photodissociation regions PDRs.md).
+bright in dense star-forming regions (e.g. Orion). see [Photodissociation regions PDRs](../../02_Zettel/Theory/Photodissociation regions PDRs.html).
 
 ## the Galactic HI distribution
 
@@ -59,10 +59,10 @@ extragalactic HI surveys (HIPASS, ALFALFA) give the HI mass function: distributi
 ## see also
 
 - Strömgren sphere
-- [Photodissociation regions PDRs](../../02_Zettel/Theory/Photodissociation regions PDRs.md)
-- [Ionisation stratification](../../02_Zettel/Theory/Ionisation stratification.md)
-- [Interstellar medium components and gas cycle](../../02_Zettel/Theory/Interstellar medium components and gas cycle.md)
-- [Hydrogen spectral series](../../02_Zettel/Theory/Hydrogen spectral series.md)
-- [Milky Way structure](../../02_Zettel/Theory/Milky Way structure.md)
-- [Missing baryons](../../02_Zettel/Theory/Missing baryons.md)
-- [Cosmic_inventory_baryons](../../02_Zettel/Theory/Cosmic_inventory_baryons.md)
+- [Photodissociation regions PDRs](../../02_Zettel/Theory/Photodissociation regions PDRs.html)
+- [Ionisation stratification](../../02_Zettel/Theory/Ionisation stratification.html)
+- [Interstellar medium components and gas cycle](../../02_Zettel/Theory/Interstellar medium components and gas cycle.html)
+- [Hydrogen spectral series](../../02_Zettel/Theory/Hydrogen spectral series.html)
+- [Milky Way structure](../../02_Zettel/Theory/Milky Way structure.html)
+- [Missing baryons](../../02_Zettel/Theory/Missing baryons.html)
+- [Cosmic_inventory_baryons](../../02_Zettel/Theory/Cosmic_inventory_baryons.html)

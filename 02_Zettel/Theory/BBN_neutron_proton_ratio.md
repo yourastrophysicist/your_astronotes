@@ -62,7 +62,7 @@ as $T$ decreases past 1 MeV, $\Gamma_w/H$ falls below 1. the weak processes can 
 
 $$\left(\frac{n}{p}\right)_{\rm freeze-out} = e^{-Q/T_F} = e^{-1.293/0.8} \approx \frac{1}{6}$$
 
-this is one of the most important examples in cosmology of a process that goes out of equilibrium. it is exactly why we spend so much time on the conditions for departure from equilibrium ([Decoupling and freeze-out](../../02_Zettel/Theory/Decoupling and freeze-out.md)).
+this is one of the most important examples in cosmology of a process that goes out of equilibrium. it is exactly why we spend so much time on the conditions for departure from equilibrium ([Decoupling and freeze-out](../../02_Zettel/Theory/Decoupling and freeze-out.html)).
 
 ![bbn-24](../../assets/images/bbn-24.png)
 
@@ -107,16 +107,16 @@ increasing the **neutron half-life** $\tau_{1/2}(n)$ would decrease all weak rat
 
 increasing $g_*$ (e.g. extra neutrino species, primordial gravitational waves) would increase $H \propto g_*^{1/2} T^2$, leading to earlier freeze-out, hence more $^4$He.
 
-→ this is how BBN constrains physics beyond the standard model. see [BBN_predictions](../../02_Zettel/Theory/BBN_predictions.md).
+→ this is how BBN constrains physics beyond the standard model. see [BBN_predictions](../../02_Zettel/Theory/BBN_predictions.html).
 
 ---
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [BBN_overview](../../02_Zettel/Theory/BBN_overview.md)
-- [BBN_NSE_initial_conditions](../../02_Zettel/Theory/BBN_NSE_initial_conditions.md)
-- [BBN_baryon_to_photon_ratio](../../02_Zettel/Theory/BBN_baryon_to_photon_ratio.md)
-- [BBN_three_steps](../../02_Zettel/Theory/BBN_three_steps.md)
-- [BBN_predictions](../../02_Zettel/Theory/BBN_predictions.md)
-- [Decoupling and freeze-out](../../02_Zettel/Theory/Decoupling and freeze-out.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [BBN_overview](../../02_Zettel/Theory/BBN_overview.html)
+- [BBN_NSE_initial_conditions](../../02_Zettel/Theory/BBN_NSE_initial_conditions.html)
+- [BBN_baryon_to_photon_ratio](../../02_Zettel/Theory/BBN_baryon_to_photon_ratio.html)
+- [BBN_three_steps](../../02_Zettel/Theory/BBN_three_steps.html)
+- [BBN_predictions](../../02_Zettel/Theory/BBN_predictions.html)
+- [Decoupling and freeze-out](../../02_Zettel/Theory/Decoupling and freeze-out.html)

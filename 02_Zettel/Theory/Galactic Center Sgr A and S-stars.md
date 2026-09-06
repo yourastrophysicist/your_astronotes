@@ -86,8 +86,8 @@ GRAVITY observations of these populations will refine our understanding of stell
 
 ## see also
 
-- [VLTI Very Large Telescope Interferometer](../../02_Zettel/Theory/interf/VLTI Very Large Telescope Interferometer.md)
-- [Event Horizon Telescope EHT](../../02_Zettel/Theory/interf/Event Horizon Telescope EHT.md)
-- [AGN and supermassive black holes](../../02_Zettel/Theory/interf/AGN and supermassive black holes.md)
-- [Stellar diameters and limb darkening](../../02_Zettel/Theory/interf/Stellar diameters and limb darkening.md)
-- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [VLTI Very Large Telescope Interferometer](../../02_Zettel/Theory/interf/VLTI Very Large Telescope Interferometer.html)
+- [Event Horizon Telescope EHT](../../02_Zettel/Theory/interf/Event Horizon Telescope EHT.html)
+- [AGN and supermassive black holes](../../02_Zettel/Theory/interf/AGN and supermassive black holes.html)
+- [Stellar diameters and limb darkening](../../02_Zettel/Theory/interf/Stellar diameters and limb darkening.html)
+- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.html)

@@ -5,7 +5,7 @@ title: "Galaxy time scales"
 
 # galaxy time scales
 
-up: [Pablo_03_Star_formation_in_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.md)
+up: [Pablo_03_Star_formation_in_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html)
 
 ## why time scales first
 
@@ -25,7 +25,7 @@ a useful rule: a galaxy has $\sim 100$ orbits in a Hubble time.
 
 ### cooling time
 $$t_{\text{cool}} = \frac{3 n k_B T / 2}{n_e n_H \Lambda(T, Z)}$$
-sets whether hot halo gas can ever cool into a disk. comparable to or shorter than $t_H$ for $T < 10^6$ K gas in galactic halos; much longer than $t_H$ above $M_h \sim 10^{12}\,M_\odot$, which is why [Halo gravity suppression of galaxy formation](../../02_Zettel/Theory/Halo gravity suppression of galaxy formation.md) kicks in there.
+sets whether hot halo gas can ever cool into a disk. comparable to or shorter than $t_H$ for $T < 10^6$ K gas in galactic halos; much longer than $t_H$ above $M_h \sim 10^{12}\,M_\odot$, which is why [Halo gravity suppression of galaxy formation](../../02_Zettel/Theory/Halo gravity suppression of galaxy formation.html) kicks in there.
 
 ### star formation time
 $$t_{SF} = \frac{M_{\text{gas}}}{\psi}$$
@@ -61,9 +61,9 @@ a single galaxy measured in Hα and UV can disagree by factors of a few if SFR h
 
 ## connections
 
-- tracers discussed individually under [UV SFR tracer](../../02_Zettel/Theory/UV SFR tracer.md), [H-alpha SFR tracer](../../02_Zettel/Theory/H-alpha SFR tracer.md), [IR SFR tracer](../../02_Zettel/Theory/IR SFR tracer.md)
-- cooling-time threshold at halo scale: [Halo gravity suppression of galaxy formation](../../02_Zettel/Theory/Halo gravity suppression of galaxy formation.md)
-- SFR tracer timescale differences: [SFR tracer comparison](../../02_Zettel/Theory/SFR tracer comparison.md)
+- tracers discussed individually under [UV SFR tracer](../../02_Zettel/Theory/UV SFR tracer.html), [H-alpha SFR tracer](../../02_Zettel/Theory/H-alpha SFR tracer.html), [IR SFR tracer](../../02_Zettel/Theory/IR SFR tracer.html)
+- cooling-time threshold at halo scale: [Halo gravity suppression of galaxy formation](../../02_Zettel/Theory/Halo gravity suppression of galaxy formation.html)
+- SFR tracer timescale differences: [SFR tracer comparison](../../02_Zettel/Theory/SFR tracer comparison.html)
 
 ## key references
 

@@ -5,7 +5,7 @@ title: "Modified gravity alternatives"
 
 # modified gravity alternatives
 
-up: [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.md) · [Dark matter rotation curves](../../02_Zettel/Theory/Dark matter rotation curves.md)
+up: [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.html) · [Dark matter rotation curves](../../02_Zettel/Theory/Dark matter rotation curves.html)
 
 ## mond (modified newtonian dynamics)
 
@@ -31,10 +31,10 @@ $$\frac{v^4}{r^2} = \frac{G M a_0}{r^2} \implies v_{\rm flat} = (G M a_0)^{1/4}$
 ## challenges and failures
 
 - **galaxy clusters**: MOND fails to explain the velocity dispersions of rich clusters (e.g., Coma) without invoking missing baryons or massive neutrinos.
-- **the bullet cluster**: [Bullet Cluster and dark matter mapping](../../02_Zettel/Theory/Bullet Cluster and dark matter mapping.md) shows lensing peaks offset from the gas, requiring collisionless dark mass.
+- **the bullet cluster**: [Bullet Cluster and dark matter mapping](../../02_Zettel/Theory/Bullet Cluster and dark matter mapping.html) shows lensing peaks offset from the gas, requiring collisionless dark mass.
 - **cosmology and cmb**: relativistic MOND formulations (TeVeS, Bekenstein 2004) struggle to simultaneously match the acoustic peak heights in the CMB power spectrum and the galaxy matter power spectrum $P(k)$ without a cold dark matter component.
 
 ## connections
 
-- dark matter evidence: [Bullet Cluster and dark matter mapping](../../02_Zettel/Theory/Bullet Cluster and dark matter mapping.md), [Dark matter rotation curves](../../02_Zettel/Theory/Dark matter rotation curves.md)
-- scaling laws: [Tully-Fisher relation](../../02_Zettel/Theory/Tully-Fisher relation.md)
+- dark matter evidence: [Bullet Cluster and dark matter mapping](../../02_Zettel/Theory/Bullet Cluster and dark matter mapping.html), [Dark matter rotation curves](../../02_Zettel/Theory/Dark matter rotation curves.html)
+- scaling laws: [Tully-Fisher relation](../../02_Zettel/Theory/Tully-Fisher relation.html)

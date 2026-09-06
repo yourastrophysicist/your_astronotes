@@ -60,13 +60,13 @@ at fixed redshift, integrating the **stellar mass function** over all galaxies s
 
 ## see also
 
-- [Stellar population synthesis](../../02_Zettel/Theory/Stellar population synthesis.md)
-- [SED fitting basics](../../02_Zettel/Theory/SED fitting basics.md)
-- [Single stellar population SSP](../../02_Zettel/Theory/Single stellar population SSP.md)
-- [Mass-luminosity relation](../../02_Zettel/Theory/Mass-luminosity relation.md)
-- [SPS code families](../../02_Zettel/Theory/SPS code families.md)
-- [Initial mass function](../../02_Zettel/Theory/Initial mass function.md)
-- [Stellar mass function](../../02_Zettel/Theory/Stellar mass function.md)
-- [Cosmic stellar mass density growth](../../02_Zettel/Theory/Cosmic stellar mass density growth.md)
-- [Why hot massive stars dominate luminosity](../../02_Zettel/Theory/Why hot massive stars dominate luminosity.md)
-- [Age estimation in unresolved populations](../../02_Zettel/Theory/Age estimation in unresolved populations.md)
+- [Stellar population synthesis](../../02_Zettel/Theory/Stellar population synthesis.html)
+- [SED fitting basics](../../02_Zettel/Theory/SED fitting basics.html)
+- [Single stellar population SSP](../../02_Zettel/Theory/Single stellar population SSP.html)
+- [Mass-luminosity relation](../../02_Zettel/Theory/Mass-luminosity relation.html)
+- [SPS code families](../../02_Zettel/Theory/SPS code families.html)
+- [Initial mass function](../../02_Zettel/Theory/Initial mass function.html)
+- [Stellar mass function](../../02_Zettel/Theory/Stellar mass function.html)
+- [Cosmic stellar mass density growth](../../02_Zettel/Theory/Cosmic stellar mass density growth.html)
+- [Why hot massive stars dominate luminosity](../../02_Zettel/Theory/Why hot massive stars dominate luminosity.html)
+- [Age estimation in unresolved populations](../../02_Zettel/Theory/Age estimation in unresolved populations.html)

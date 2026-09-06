@@ -14,7 +14,7 @@ $$\eta \equiv \frac{n_N}{n_\gamma}$$
 
 a simple estimate gives $n_N = 1.38 \times 10^{-5}\,(\Omega_{0b} h^2)$ cm$^{-3}$ today, where $\Omega_{0b}$ is the baryon density parameter today.
 
-with the photon number density $n_\gamma = (2\zeta(3)/\pi^2) T^3 \simeq 422$ cm$^{-3}$ at $T_0 = 2.725$ K (see [Cosmic_inventory_photons](../../02_Zettel/Theory/Cosmic_inventory_photons.md)):
+with the photon number density $n_\gamma = (2\zeta(3)/\pi^2) T^3 \simeq 422$ cm$^{-3}$ at $T_0 = 2.725$ K (see [Cosmic_inventory_photons](../../02_Zettel/Theory/Cosmic_inventory_photons.html)):
 $$\boxed{\,\eta = \frac{n_N}{n_\gamma} = 2.68 \times 10^{-8}\, (\Omega_{0b} h^2) \quad \text{today}\,}$$
 
 with Planck's $\Omega_b h^2 \approx 0.0224$, this gives
@@ -51,7 +51,7 @@ since BBN happens at $T \sim 0.3$–$0.1$ MeV (well after $e^\pm$ annihilation),
 
 ## why the small $\eta$ delays nucleosynthesis
 
-the NSE mass fractions (see [BBN_NSE_initial_conditions](../../02_Zettel/Theory/BBN_NSE_initial_conditions.md)) scale as
+the NSE mass fractions (see [BBN_NSE_initial_conditions](../../02_Zettel/Theory/BBN_NSE_initial_conditions.html)) scale as
 $$X_A \propto \eta^{A-1}$$
 
 so for $\eta \sim 10^{-10}$:
@@ -77,7 +77,7 @@ $\eta$ controls:
 - the final abundance of each light element ($X_A \propto \eta^{A-1}$)
 - the predictions for D/H, $^3$He/H, $^4$He/H, $^7$Li/H
 
-so measuring any one of those abundances precisely fixes $\eta$ — and hence $\Omega_b h^2$. this is method 3 in [Cosmic_inventory_baryons](../../02_Zettel/Theory/Cosmic_inventory_baryons.md).
+so measuring any one of those abundances precisely fixes $\eta$ — and hence $\Omega_b h^2$. this is method 3 in [Cosmic_inventory_baryons](../../02_Zettel/Theory/Cosmic_inventory_baryons.html).
 
 agreement of $\Omega_b h^2$ from BBN with $\Omega_b h^2$ from CMB peaks is one of the great validations of the standard model.
 
@@ -85,10 +85,10 @@ agreement of $\Omega_b h^2$ from BBN with $\Omega_b h^2$ from CMB peaks is one o
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [BBN_overview](../../02_Zettel/Theory/BBN_overview.md)
-- [BBN_NSE_initial_conditions](../../02_Zettel/Theory/BBN_NSE_initial_conditions.md)
-- [BBN_neutron_proton_ratio](../../02_Zettel/Theory/BBN_neutron_proton_ratio.md)
-- [Cosmic_inventory_baryons](../../02_Zettel/Theory/Cosmic_inventory_baryons.md)
-- [Cosmic_inventory_photons](../../02_Zettel/Theory/Cosmic_inventory_photons.md)
-- [Conservation of entropy in a comoving volume](../../02_Zettel/Theory/Conservation of entropy in a comoving volume.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [BBN_overview](../../02_Zettel/Theory/BBN_overview.html)
+- [BBN_NSE_initial_conditions](../../02_Zettel/Theory/BBN_NSE_initial_conditions.html)
+- [BBN_neutron_proton_ratio](../../02_Zettel/Theory/BBN_neutron_proton_ratio.html)
+- [Cosmic_inventory_baryons](../../02_Zettel/Theory/Cosmic_inventory_baryons.html)
+- [Cosmic_inventory_photons](../../02_Zettel/Theory/Cosmic_inventory_photons.html)
+- [Conservation of entropy in a comoving volume](../../02_Zettel/Theory/Conservation of entropy in a comoving volume.html)

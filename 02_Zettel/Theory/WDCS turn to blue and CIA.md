@@ -6,7 +6,7 @@ description: H2 collision-induced absorption in cool dense WD atmospheres bends 
 
 # wdcs turn to blue and cia
 
-deep CMDs of nearby globular clusters and old open clusters reveal something unexpected at the very faint end of the [White dwarf cooling theory](../../02_Zettel/Theory/White dwarf cooling theory.md): instead of continuing to redden as luminosity drops, the white dwarf cooling sequence (WDCS) bends back **toward the blue**, forming a hook (the so-called blue turn) at $M_{F606W} \sim 15\text{-}16$. ![L06_p07_WD_blueturn](../../assets/images/L06_p07_WD_blueturn.png) this feature is real, predicted by atmosphere models, and a sensitive age diagnostic.
+deep CMDs of nearby globular clusters and old open clusters reveal something unexpected at the very faint end of the [White dwarf cooling theory](../../02_Zettel/Theory/White dwarf cooling theory.html): instead of continuing to redden as luminosity drops, the white dwarf cooling sequence (WDCS) bends back **toward the blue**, forming a hook (the so-called blue turn) at $M_{F606W} \sim 15\text{-}16$. ![L06_p07_WD_blueturn](../../assets/images/L06_p07_WD_blueturn.png) this feature is real, predicted by atmosphere models, and a sensitive age diagnostic.
 
 ## physical origin
 
@@ -22,14 +22,14 @@ the photosphere becomes nearly opaque in the infrared while remaining relatively
 
 ## why it matters
 
-the blue turn is set by a **specific combination of $T_{\rm eff}$, $\log g$, and atmospheric composition**, and atmosphere models (e.g. Hansen et al. 2007) reproduce it quantitatively. since cooler WDs are older, the blue turn corresponds to a definite age. clusters that show a clear hook are old enough that the oldest WDs have cooled into the CIA regime; clusters that don't reach the hook are too young or too distant. the position of the hook in absolute magnitude is therefore one of the cleanest age estimators available, with little dependence on metallicity (see [White dwarf cooling theory](../../02_Zettel/Theory/White dwarf cooling theory.md) for why WDCS ages are metallicity-insensitive in general).
+the blue turn is set by a **specific combination of $T_{\rm eff}$, $\log g$, and atmospheric composition**, and atmosphere models (e.g. Hansen et al. 2007) reproduce it quantitatively. since cooler WDs are older, the blue turn corresponds to a definite age. clusters that show a clear hook are old enough that the oldest WDs have cooled into the CIA regime; clusters that don't reach the hook are too young or too distant. the position of the hook in absolute magnitude is therefore one of the cleanest age estimators available, with little dependence on metallicity (see [White dwarf cooling theory](../../02_Zettel/Theory/White dwarf cooling theory.html) for why WDCS ages are metallicity-insensitive in general).
 
 it is one of the few places in stellar astrophysics where molecular physics in a strange regime (dense H$_2$ at $\rho \gtrsim 0.1$ g cm$^{-3}$) directly maps onto a measurable colour-magnitude feature used to date the Galaxy.
 
 ## see also
-- [White dwarf cooling theory](../../02_Zettel/Theory/White dwarf cooling theory.md)
-- [Age dating from the WD luminosity function](../../02_Zettel/Theory/Age dating from the WD luminosity function.md)
-- [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.md)
-- [Continuum opacity sources](../../02_Zettel/Theory/Continuum opacity sources.md)
-- [White dwarf overview](../../02_Zettel/Theory/White dwarf overview.md)
-- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.md)
+- [White dwarf cooling theory](../../02_Zettel/Theory/White dwarf cooling theory.html)
+- [Age dating from the WD luminosity function](../../02_Zettel/Theory/Age dating from the WD luminosity function.html)
+- [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.html)
+- [Continuum opacity sources](../../02_Zettel/Theory/Continuum opacity sources.html)
+- [White dwarf overview](../../02_Zettel/Theory/White dwarf overview.html)
+- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.html)

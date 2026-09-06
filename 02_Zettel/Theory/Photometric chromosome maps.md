@@ -27,7 +27,7 @@ each star is plotted in $(\Delta_C, \Delta_{F275W,F814W})$ + the cluster's popul
 
 ## what the map shows
 
-for a typical [Type I GC](../../02_Zettel/Theory/Type I and Type II GCs.md):
+for a typical [Type I GC](../../02_Zettel/Theory/Type I and Type II GCs.html):
 - a **1G clump** at $\Delta_C \approx 0$, near the bottom of the He axis: primordial composition
 - a **2G stream** extending to higher $\Delta_C$ + higher $\Delta_{F275W,F814W}$: enhanced N + He
 - the 2G is often itself substructured, with discrete sub-populations 2Ga, 2Gb (sometimes more)
@@ -38,13 +38,13 @@ from Milone et al. 2015 (ApJ 808, 51), the chemical definition:
 - **1G stars** display chemical abundances comparable to those of **field stars** with the same metallicity: normal Na, O, C, N, Mg, He.
 - **2G stars** display anomalous abundances: enhanced Na, N, He; depleted O, C, Mg. these are the products of hot proton-capture nucleosynthesis in a previous polluter generation.
 
-the 2G fraction $N_{2G}/N_\text{tot}$ is read directly off the map. it averages ~65% across the survey + correlates strongly with cluster mass (see [Mass dependence of multiple populations](../../02_Zettel/Theory/Mass dependence of multiple populations.md)).
+the 2G fraction $N_{2G}/N_\text{tot}$ is read directly off the map. it averages ~65% across the survey + correlates strongly with cluster mass (see [Mass dependence of multiple populations](../../02_Zettel/Theory/Mass dependence of multiple populations.html)).
 
 ## why two axes + not one
 
 historically Na-O was the diagnostic, but it requires expensive high-resolution spectroscopy on bright giants. the chromosome map's power is that it works **photometrically**, on every star down to several mag below the MS turn-off, in clusters out to ~50 kpc, including some in M31 + the Magellanic Clouds.
 
-the orthogonality of the axes matters. ΔF275W,F814W tracks He primarily because of the long baseline + the structural effect of He on stellar atmospheres ([Stellar atmosphere structure](../../02_Zettel/Theory/Stellar atmosphere structure.md)). ΔC isolates nitrogen via molecular absorption. a star can be N-rich without being He-rich (modest 2G) or both (extreme 2G), + the map separates these cases. this lets milone's group identify substructure within the 2G + define discrete populations 2Ga, 2Gb, 2Gc.
+the orthogonality of the axes matters. ΔF275W,F814W tracks He primarily because of the long baseline + the structural effect of He on stellar atmospheres ([Stellar atmosphere structure](../../02_Zettel/Theory/Stellar atmosphere structure.html)). ΔC isolates nitrogen via molecular absorption. a star can be N-rich without being He-rich (modest 2G) or both (extreme 2G), + the map separates these cases. this lets milone's group identify substructure within the 2G + define discrete populations 2Ga, 2Gb, 2Gc.
 
 ## the HST UV Legacy Survey of GCs
 
@@ -63,14 +63,14 @@ for a given cluster, the chromosome map is the basis for:
 - spectroscopic follow-up: select 1G + 2G targets cleanly for FLAMES / MUSE / MIKE confirmation
 - constraining polluter models: discrete vs continuous distribution, He spread, N spread
 - studying spatial + kinematic differences between populations using gaia or HST proper motions
-- finding [Type II GCs](../../02_Zettel/Theory/Type I and Type II GCs.md) (NGC 1851, M22, M2, NGC 6934, $\omega$ Cen)
+- finding [Type II GCs](../../02_Zettel/Theory/Type I and Type II GCs.html) (NGC 1851, M22, M2, NGC 6934, $\omega$ Cen)
 
 ## extensions
 
 milone et al. 2018 + marino et al. 2019 extended the chromosome map to:
 - include F410M (replacing F438W where available) for sharper N sensitivity
 - add JWST NIRCam filters for clusters with high reddening (e.g. terzan 5, liller 1, bulge GCs)
-- map populations on the [Asymptotic giant branch AGB](../../02_Zettel/Theory/Asymptotic giant branch AGB.md) + HB, where He effects are amplified
+- map populations on the [Asymptotic giant branch AGB](../../02_Zettel/Theory/Asymptotic giant branch AGB.html) + HB, where He effects are amplified
 
 the chromosome map is also being applied to extragalactic GCs (LMC, SMC, M31) via HST + JWST, confirming MPs are universal in old massive clusters across galaxies.
 
@@ -87,15 +87,15 @@ before the chromosome map, multiple populations were a complicated patchwork of 
 
 ## see also
 
-- [Multiple populations in GCs discovery](../../02_Zettel/Theory/Multiple populations in GCs discovery.md)
-- [Na O anticorrelation](../../02_Zettel/Theory/Na O anticorrelation.md)
-- [CN CH MgAl anticorrelations](../../02_Zettel/Theory/CN CH MgAl anticorrelations.md)
-- [Helium spread in GCs](../../02_Zettel/Theory/Helium spread in GCs.md)
-- [Type I and Type II GCs](../../02_Zettel/Theory/Type I and Type II GCs.md)
-- [Mass dependence of multiple populations](../../02_Zettel/Theory/Mass dependence of multiple populations.md)
-- [Polluter scenarios for second-generation GC stars](../../02_Zettel/Theory/Polluter scenarios for second-generation GC stars.md)
-- [GC formation models with MPs](../../02_Zettel/Theory/GC formation models with MPs.md)
-- [Multiple populations in extragalactic GCs](../../02_Zettel/Theory/Multiple populations in extragalactic GCs.md)
-- [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.md)
-- [Stellar atmosphere structure](../../02_Zettel/Theory/Stellar atmosphere structure.md)
-- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.md)
+- [Multiple populations in GCs discovery](../../02_Zettel/Theory/Multiple populations in GCs discovery.html)
+- [Na O anticorrelation](../../02_Zettel/Theory/Na O anticorrelation.html)
+- [CN CH MgAl anticorrelations](../../02_Zettel/Theory/CN CH MgAl anticorrelations.html)
+- [Helium spread in GCs](../../02_Zettel/Theory/Helium spread in GCs.html)
+- [Type I and Type II GCs](../../02_Zettel/Theory/Type I and Type II GCs.html)
+- [Mass dependence of multiple populations](../../02_Zettel/Theory/Mass dependence of multiple populations.html)
+- [Polluter scenarios for second-generation GC stars](../../02_Zettel/Theory/Polluter scenarios for second-generation GC stars.html)
+- [GC formation models with MPs](../../02_Zettel/Theory/GC formation models with MPs.html)
+- [Multiple populations in extragalactic GCs](../../02_Zettel/Theory/Multiple populations in extragalactic GCs.html)
+- [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.html)
+- [Stellar atmosphere structure](../../02_Zettel/Theory/Stellar atmosphere structure.html)
+- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.html)

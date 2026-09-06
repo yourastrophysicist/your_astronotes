@@ -9,7 +9,7 @@ the **partition function** $Z(T)$ of an ion encodes the total weight of all its 
 
 $$Z(T) = \sum_k g_k\,e^{-E_k/k_BT}$$
 
-sum over all bound levels $k$ of the ion, with $g_k$ the statistical weight ([Statistical weight g](../../02_Zettel/Theory/Statistical weight g.md)) and $E_k$ the energy above the ground state.
+sum over all bound levels $k$ of the ion, with $g_k$ the statistical weight ([Statistical weight g](../../02_Zettel/Theory/Statistical weight g.html)) and $E_k$ the energy above the ground state.
 
 ## limits
 
@@ -41,8 +41,8 @@ quick-and-dirty: for most species below $T = 10^4$ K, $Z_i \approx g_i^{\rm grou
 
 ## see also
 
-- [Boltzmann equation in spectroscopy](../../02_Zettel/Theory/Boltzmann equation in spectroscopy.md)
-- [Saha ionisation equation](../../02_Zettel/Theory/Saha ionisation equation.md)
-- [Statistical weight g](../../02_Zettel/Theory/Statistical weight g.md)
-- [Population of excited levels](../../02_Zettel/Theory/Population of excited levels.md)
-- [Number density and energy density at thermal equilibrium](../../02_Zettel/Theory/Number density and energy density at thermal equilibrium.md) — analogous in cosmological / photon-gas context
+- [Boltzmann equation in spectroscopy](../../02_Zettel/Theory/Boltzmann equation in spectroscopy.html)
+- [Saha ionisation equation](../../02_Zettel/Theory/Saha ionisation equation.html)
+- [Statistical weight g](../../02_Zettel/Theory/Statistical weight g.html)
+- [Population of excited levels](../../02_Zettel/Theory/Population of excited levels.html)
+- [Number density and energy density at thermal equilibrium](../../02_Zettel/Theory/Number density and energy density at thermal equilibrium.html) — analogous in cosmological / photon-gas context

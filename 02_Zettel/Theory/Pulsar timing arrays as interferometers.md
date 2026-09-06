@@ -93,7 +93,7 @@ but the analogy is more deep than literal: PTAs measure GW *strain* (a tensor fi
 
 ## see also
 
-- [Very Long Baseline Interferometry VLBI](../../02_Zettel/Theory/interf/Very Long Baseline Interferometry VLBI.md)
-- [Major radio interferometers](../../02_Zettel/Theory/interf/Major radio interferometers.md)
-- [Pulsar interferometry](../../02_Zettel/Theory/interf/Pulsar interferometry.md)
-- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Very Long Baseline Interferometry VLBI](../../02_Zettel/Theory/interf/Very Long Baseline Interferometry VLBI.html)
+- [Major radio interferometers](../../02_Zettel/Theory/interf/Major radio interferometers.html)
+- [Pulsar interferometry](../../02_Zettel/Theory/interf/Pulsar interferometry.html)
+- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.html)

@@ -5,7 +5,7 @@ title: "Schmidt-Kennicutt law"
 
 # schmidt-kennicutt law
 
-up: [Pablo_02_Statistical_properties_of_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.md)
+up: [Pablo_02_Statistical_properties_of_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html)
 
 ## the relation
 
@@ -36,14 +36,14 @@ the Schmidt-Kennicutt law extends with similar slope to $z \sim 3$ (Genzel 2010,
 - normal MS galaxies on the local SK relation
 - starbursts (mergers, sub-mm galaxies) on a parallel sequence with $\sim 4 \times$ shorter depletion time
 
-this matches the bimodality seen in the [Galaxy main sequence of star formation](../../02_Zettel/Theory/Galaxy main sequence of star formation.md).
+this matches the bimodality seen in the [Galaxy main sequence of star formation](../../02_Zettel/Theory/Galaxy main sequence of star formation.html).
 
 ## connections
 
-- main-sequence picture: [Galaxy main sequence of star formation](../../02_Zettel/Theory/Galaxy main sequence of star formation.md)
-- gas accretion / feedback: [Halo gravity suppression of galaxy formation](../../02_Zettel/Theory/Halo gravity suppression of galaxy formation.md)
-- spirals' dynamics: [Tully-Fisher relation](../../02_Zettel/Theory/Tully-Fisher relation.md)
-- aggregate consequence: [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.md)
+- main-sequence picture: [Galaxy main sequence of star formation](../../02_Zettel/Theory/Galaxy main sequence of star formation.html)
+- gas accretion / feedback: [Halo gravity suppression of galaxy formation](../../02_Zettel/Theory/Halo gravity suppression of galaxy formation.html)
+- spirals' dynamics: [Tully-Fisher relation](../../02_Zettel/Theory/Tully-Fisher relation.html)
+- aggregate consequence: [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.html)
 
 ## key references
 

@@ -132,7 +132,7 @@ now the *ensemble* is reproducible, *each individual realization* is reproducibl
 
 ## see also
 
-- [Pseudo-random number generators](../../02_Zettel/Theory/Pseudo-random number generators.md)
-- [Inverse transform sampling](../../02_Zettel/Theory/Inverse transform sampling.md)
-- [Monte Carlo integration mean value method](../../02_Zettel/Theory/Monte Carlo integration mean value method.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Pseudo-random number generators](../../02_Zettel/Theory/Pseudo-random number generators.html)
+- [Inverse transform sampling](../../02_Zettel/Theory/Inverse transform sampling.html)
+- [Monte Carlo integration mean value method](../../02_Zettel/Theory/Monte Carlo integration mean value method.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

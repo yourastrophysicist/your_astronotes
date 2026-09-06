@@ -91,13 +91,13 @@ if the system comes from a Hamiltonian $H(\mathbf{q}, \mathbf{p})$, the equation
 
 $$\dot{\mathbf{q}} = \partial H/\partial \mathbf{p}, \quad \dot{\mathbf{p}} = -\partial H/\partial \mathbf{q}$$
 
-these have **symplectic** structure that should be preserved by the integrator. use [leapfrog](../../02_Zettel/Theory/Leapfrog integrator.md) or symplectic RK schemes, not generic RK4. see also [Energy conservation as a diagnostic](../../02_Zettel/Theory/Energy conservation as a diagnostic.md).
+these have **symplectic** structure that should be preserved by the integrator. use [leapfrog](../../02_Zettel/Theory/Leapfrog integrator.html) or symplectic RK schemes, not generic RK4. see also [Energy conservation as a diagnostic](../../02_Zettel/Theory/Energy conservation as a diagnostic.html).
 
 ## boundary conditions
 
 a system of $k$ first-order ODEs needs $k$ initial conditions to specify a unique solution (initial value problem) — typically values of all components at $t_0$.
 
-if instead the conditions are split: some at $t_0$, some at $t_f$ → boundary value problem (BVP). use [shooting](../../02_Zettel/Theory/Shooting method.md) or `scipy.integrate.solve_bvp`.
+if instead the conditions are split: some at $t_0$, some at $t_f$ → boundary value problem (BVP). use [shooting](../../02_Zettel/Theory/Shooting method.html) or `scipy.integrate.solve_bvp`.
 
 ## the python convention
 
@@ -112,10 +112,10 @@ v_history = sol.y[3*N:].reshape(N, 3, len(sol.t))
 
 ## see also
 
-- [Euler method](../../02_Zettel/Theory/Euler method.md)
-- [Runge-Kutta 4 method](../../02_Zettel/Theory/Runge-Kutta 4 method.md)
-- [Leapfrog integrator](../../02_Zettel/Theory/Leapfrog integrator.md)
-- [Astrophysical N-body problem formulation](../../02_Zettel/Theory/Astrophysical N-body problem formulation.md)
-- [Built-in scipy integrators](../../02_Zettel/Theory/Built-in scipy integrators.md)
-- [Initial value vs boundary value problems](../../02_Zettel/Theory/Initial value vs boundary value problems.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Euler method](../../02_Zettel/Theory/Euler method.html)
+- [Runge-Kutta 4 method](../../02_Zettel/Theory/Runge-Kutta 4 method.html)
+- [Leapfrog integrator](../../02_Zettel/Theory/Leapfrog integrator.html)
+- [Astrophysical N-body problem formulation](../../02_Zettel/Theory/Astrophysical N-body problem formulation.html)
+- [Built-in scipy integrators](../../02_Zettel/Theory/Built-in scipy integrators.html)
+- [Initial value vs boundary value problems](../../02_Zettel/Theory/Initial value vs boundary value problems.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

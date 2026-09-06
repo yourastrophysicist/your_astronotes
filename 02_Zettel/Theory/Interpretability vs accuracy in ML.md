@@ -98,7 +98,7 @@ Mapelli's notes touch on the *idea* of interpretability mainly through the decis
 
 ## see also
 
-- [Decision tree classifier](../../02_Zettel/Theory/Decision tree classifier.md)
-- [What is machine learning](../../02_Zettel/Theory/What is machine learning.md)
-- [Iris dataset and the ML hello world](../../02_Zettel/Theory/Iris dataset and the ML hello world.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Decision tree classifier](../../02_Zettel/Theory/Decision tree classifier.html)
+- [What is machine learning](../../02_Zettel/Theory/What is machine learning.html)
+- [Iris dataset and the ML hello world](../../02_Zettel/Theory/Iris dataset and the ML hello world.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

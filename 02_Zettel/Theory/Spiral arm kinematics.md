@@ -20,7 +20,7 @@ for the Milky Way, the rotation curve:
 - rises rapidly out to $\sim 1$ kpc (rigid-body rotation in the bulge)
 - nearly flat out to large radii: $V \approx 220$ km/s for $R = 5$–$15$ kpc
 
-the flat outer rotation curve is the **strongest galactic-scale evidence for dark matter** — see [Cosmic_inventory_dark_matter](../../02_Zettel/Theory/Cosmic_inventory_dark_matter.md). without dark matter, $V$ would Keplerian-decline outside the visible disk.
+the flat outer rotation curve is the **strongest galactic-scale evidence for dark matter** — see [Cosmic_inventory_dark_matter](../../02_Zettel/Theory/Cosmic_inventory_dark_matter.html). without dark matter, $V$ would Keplerian-decline outside the visible disk.
 
 ---
 
@@ -97,18 +97,18 @@ the relative role of these is still under debate, especially for **flocculent** 
 
 beyond the Milky Way, spiral arm kinematics:
 - enable **rotation-curve measurements** in external galaxies → rotation-curve based dark matter
-- give the **Tully-Fisher relation**: $L \propto V_{\rm flat}^4$ for spiral galaxies, a key distance indicator (see [Tully-Fisher relation](../../02_Zettel/Theory/Tully-Fisher relation.md))
-- explain the **morphology** of spiral types Sa-Sb-Sc-SBc (see [Hubble morphological sequence](../../02_Zettel/Theory/Hubble morphological sequence.md))
+- give the **Tully-Fisher relation**: $L \propto V_{\rm flat}^4$ for spiral galaxies, a key distance indicator (see [Tully-Fisher relation](../../02_Zettel/Theory/Tully-Fisher relation.html))
+- explain the **morphology** of spiral types Sa-Sb-Sc-SBc (see [Hubble morphological sequence](../../02_Zettel/Theory/Hubble morphological sequence.html))
 - track recent **star formation history** (the arms are stellar nurseries)
 
 ---
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Milky Way structure](../../02_Zettel/Theory/Milky Way structure.md)
-- [Interstellar medium components and gas cycle](../../02_Zettel/Theory/Interstellar medium components and gas cycle.md)
-- [Cosmic_inventory_dark_matter](../../02_Zettel/Theory/Cosmic_inventory_dark_matter.md)
-- [Hubble morphological sequence](../../02_Zettel/Theory/Hubble morphological sequence.md)
-- [Tully-Fisher relation](../../02_Zettel/Theory/Tully-Fisher relation.md)
-- [Galaxies in the local universe](../../02_Zettel/Theory/Galaxies in the local universe.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Milky Way structure](../../02_Zettel/Theory/Milky Way structure.html)
+- [Interstellar medium components and gas cycle](../../02_Zettel/Theory/Interstellar medium components and gas cycle.html)
+- [Cosmic_inventory_dark_matter](../../02_Zettel/Theory/Cosmic_inventory_dark_matter.html)
+- [Hubble morphological sequence](../../02_Zettel/Theory/Hubble morphological sequence.html)
+- [Tully-Fisher relation](../../02_Zettel/Theory/Tully-Fisher relation.html)
+- [Galaxies in the local universe](../../02_Zettel/Theory/Galaxies in the local universe.html)

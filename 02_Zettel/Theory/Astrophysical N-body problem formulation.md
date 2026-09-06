@@ -28,7 +28,7 @@ the N-body system has several Noether-related conservation laws that I exploit a
 - **linear momentum** $\mathbf{P} = \sum m_i \mathbf{v}_i$ (translation symmetry)
 - **angular momentum** $\mathbf{L} = \sum m_i \mathbf{r}_i \times \mathbf{v}_i$ (rotation symmetry)
 
-for an isolated system, $E$, $\mathbf{P}$, $\mathbf{L}$ are constant. the integrator's quality is measured by how well it preserves them. see [Energy conservation as a diagnostic](../../02_Zettel/Theory/Energy conservation as a diagnostic.md).
+for an isolated system, $E$, $\mathbf{P}$, $\mathbf{L}$ are constant. the integrator's quality is measured by how well it preserves them. see [Energy conservation as a diagnostic](../../02_Zettel/Theory/Energy conservation as a diagnostic.html).
 
 ## the force computation
 
@@ -74,7 +74,7 @@ $$\mathbf{a}_i = -G \sum_{j \neq i} m_j \frac{\mathbf{r}_i - \mathbf{r}_j}{(|\ma
 
 $\epsilon$ is the "minimum resolved scale" of the simulation. for a galaxy with $N = 10^9$ tracers covering 100 kpc, $\epsilon \sim 100$ pc. softening prevents close-encounter blowups but smears out real two-body relaxation; it is a deliberate physics choice, not a numerical hack.
 
-for **collisional** systems (globular clusters, planetary systems) $\epsilon = 0$ — close encounters *are* the physics. the integrator must handle them with adaptive timesteps. see [Collisional vs collisionless N-body](../../02_Zettel/Theory/Collisional vs collisionless N-body.md).
+for **collisional** systems (globular clusters, planetary systems) $\epsilon = 0$ — close encounters *are* the physics. the integrator must handle them with adaptive timesteps. see [Collisional vs collisionless N-body](../../02_Zettel/Theory/Collisional vs collisionless N-body.html).
 
 ## units
 
@@ -98,9 +98,9 @@ the energy diagnostic: total energy should stay constant within the integrator's
 
 ## see also
 
-- [Energy conservation as a diagnostic](../../02_Zettel/Theory/Energy conservation as a diagnostic.md)
-- [Collisional vs collisionless N-body](../../02_Zettel/Theory/Collisional vs collisionless N-body.md)
-- [Leapfrog integrator](../../02_Zettel/Theory/Leapfrog integrator.md)
-- [Fourth-order Hermite predictor-corrector](../../02_Zettel/Theory/Fourth-order Hermite predictor-corrector.md)
-- [Adaptive step size control](../../02_Zettel/Theory/Adaptive step size control.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Energy conservation as a diagnostic](../../02_Zettel/Theory/Energy conservation as a diagnostic.html)
+- [Collisional vs collisionless N-body](../../02_Zettel/Theory/Collisional vs collisionless N-body.html)
+- [Leapfrog integrator](../../02_Zettel/Theory/Leapfrog integrator.html)
+- [Fourth-order Hermite predictor-corrector](../../02_Zettel/Theory/Fourth-order Hermite predictor-corrector.html)
+- [Adaptive step size control](../../02_Zettel/Theory/Adaptive step size control.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

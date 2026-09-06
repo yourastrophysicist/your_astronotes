@@ -55,12 +55,12 @@ so the universe started accelerating $\sim 6$ Gyr ago.
 
 ## see also
 
-- [Hubble constant and deceleration parameter](../../02_Zettel/Theory/Hubble constant and deceleration parameter.md)
-- [Friedmann equations](../../02_Zettel/Theory/Friedmann equations.md)
-- [Cosmological constant](../../02_Zettel/Theory/Cosmological constant.md)
-- [ΛCDM current parameters](../../02_Zettel/Theory/ΛCDM current parameters.md)
-- [Supernova Hubble diagram](../../02_Zettel/Theory/Supernova Hubble diagram.md)
-- [Density parameters](../../02_Zettel/Theory/Density parameters.md)
-- [Cosmic eras](../../02_Zettel/Theory/Cosmic eras.md)
-- [Type Ia supernovae as standard candles](../../02_Zettel/Theory/Type Ia supernovae as standard candles.md)
-- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md)
+- [Hubble constant and deceleration parameter](../../02_Zettel/Theory/Hubble constant and deceleration parameter.html)
+- [Friedmann equations](../../02_Zettel/Theory/Friedmann equations.html)
+- [Cosmological constant](../../02_Zettel/Theory/Cosmological constant.html)
+- [ΛCDM current parameters](../../02_Zettel/Theory/ΛCDM current parameters.html)
+- [Supernova Hubble diagram](../../02_Zettel/Theory/Supernova Hubble diagram.html)
+- [Density parameters](../../02_Zettel/Theory/Density parameters.html)
+- [Cosmic eras](../../02_Zettel/Theory/Cosmic eras.html)
+- [Type Ia supernovae as standard candles](../../02_Zettel/Theory/Type Ia supernovae as standard candles.html)
+- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html)

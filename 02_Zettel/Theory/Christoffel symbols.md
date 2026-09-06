@@ -50,19 +50,19 @@ $ds^2 = R^2(d\theta^2 + \sin^2\theta\,d\phi^2)$. non-zero: $\Gamma^\theta{}_{\ph
 $\Gamma^t{}_{tr} = M/[r(r - 2M)]$, $\Gamma^r{}_{tt} = (M/r^2)(1 - 2M/r)$, $\Gamma^r{}_{rr} = -M/[r(r - 2M)]$, etc. see Q11 - selected Schwarzschild Christoffels for the full table.
 
 ### FLRW
-$\Gamma^0{}_{ij} = a\dot a\,\gamma_{ij}$, $\Gamma^i{}_{0j} = (\dot a/a)\delta^i{}_j$. see [FLRW metric](../../02_Zettel/Theory/FLRW metric.md).
+$\Gamma^0{}_{ij} = a\dot a\,\gamma_{ij}$, $\Gamma^i{}_{0j} = (\dot a/a)\delta^i{}_j$. see [FLRW metric](../../02_Zettel/Theory/FLRW metric.html).
 
 ## see also
 
-- [Levi-Civita connection](../../02_Zettel/Theory/Levi-Civita connection.md)
-- [Covariant derivative](../../02_Zettel/Theory/Covariant derivative.md)
-- [Metric compatibility](../../02_Zettel/Theory/Metric compatibility.md)
-- [Geodesic equation](../../02_Zettel/Theory/Geodesic equation.md)
-- [Riemann tensor](../../02_Zettel/Theory/Riemann tensor.md)
-- [Coordinate transformations and tensors](../../02_Zettel/Theory/Coordinate transformations and tensors.md)
+- [Levi-Civita connection](../../02_Zettel/Theory/Levi-Civita connection.html)
+- [Covariant derivative](../../02_Zettel/Theory/Covariant derivative.html)
+- [Metric compatibility](../../02_Zettel/Theory/Metric compatibility.html)
+- [Geodesic equation](../../02_Zettel/Theory/Geodesic equation.html)
+- [Riemann tensor](../../02_Zettel/Theory/Riemann tensor.html)
+- [Coordinate transformations and tensors](../../02_Zettel/Theory/Coordinate transformations and tensors.html)
 - Q1 - Christoffels for diagonal 2D metric
 - Q2 - Christoffels for radial 2D metric
 - Q11 - selected Schwarzschild Christoffels
 - Q16 - Christoffels for a TT plane wave
-- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.md)
-- [Ch 2 - Some Differential Geometry](../../01_Literature/Book/Baumann GR/Ch 2 - Some Differential Geometry.md)
+- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.html)
+- [Ch 2 - Some Differential Geometry](../../01_Literature/Book/Baumann GR/Ch 2 - Some Differential Geometry.html)

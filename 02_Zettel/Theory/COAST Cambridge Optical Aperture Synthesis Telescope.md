@@ -70,8 +70,8 @@ COAST shows that *demonstrating a technique* often precedes its scientific domin
 
 ## see also
 
-- [Components of a modern interferometer](../../02_Zettel/Theory/interf/Components of a modern interferometer.md)
-- [CHARA array](../../02_Zettel/Theory/interf/CHARA array.md)
-- [Phase closure](../../02_Zettel/Theory/interf/Phase closure.md)
-- [Bispectrum and triple correlation](../../02_Zettel/Theory/interf/Bispectrum and triple correlation.md)
-- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Components of a modern interferometer](../../02_Zettel/Theory/interf/Components of a modern interferometer.html)
+- [CHARA array](../../02_Zettel/Theory/interf/CHARA array.html)
+- [Phase closure](../../02_Zettel/Theory/interf/Phase closure.html)
+- [Bispectrum and triple correlation](../../02_Zettel/Theory/interf/Bispectrum and triple correlation.html)
+- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.html)

@@ -3,7 +3,7 @@ layout: default
 title: "Friedmann solutions"
 ---
 
-explicit solutions to the Friedmann equation in special cases. each has a characteristic $a(t)$ + matches a specific cosmological scenario. see [Friedmann models](../../02_Zettel/Theory/Friedmann models.md) for additional detail.
+explicit solutions to the Friedmann equation in special cases. each has a characteristic $a(t)$ + matches a specific cosmological scenario. see [Friedmann models](../../02_Zettel/Theory/Friedmann models.html) for additional detail.
 
 ## the master equation
 
@@ -85,13 +85,13 @@ the **transition between regimes** is what makes $\Lambda$CDM rich + observation
 
 ## see also
 
-- [Friedmann models](../../02_Zettel/Theory/Friedmann models.md)
-- [Friedmann equations](../../02_Zettel/Theory/Friedmann equations.md)
+- [Friedmann models](../../02_Zettel/Theory/Friedmann models.html)
+- [Friedmann equations](../../02_Zettel/Theory/Friedmann equations.html)
 - Friedmann equations with Λ
-- [Newtonian Friedmann derivation](../../02_Zettel/Theory/Newtonian Friedmann derivation.md)
-- [Cosmic eras](../../02_Zettel/Theory/Cosmic eras.md)
-- [Spatial curvature parameter k](../../02_Zettel/Theory/Spatial curvature parameter k.md)
-- [Cosmological constant](../../02_Zettel/Theory/Cosmological constant.md)
+- [Newtonian Friedmann derivation](../../02_Zettel/Theory/Newtonian Friedmann derivation.html)
+- [Cosmic eras](../../02_Zettel/Theory/Cosmic eras.html)
+- [Spatial curvature parameter k](../../02_Zettel/Theory/Spatial curvature parameter k.html)
+- [Cosmological constant](../../02_Zettel/Theory/Cosmological constant.html)
 - Q19 - radiation universe
 - Q20 - matter plus radiation universe
-- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md)
+- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html)

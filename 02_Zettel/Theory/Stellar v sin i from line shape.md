@@ -57,7 +57,7 @@ for individual stars with known $i$ (eclipsing binaries, transiting planets via 
 
 ## the macroturbulence-rotation degeneracy
 
-both rotation and **macroturbulence** ([Macroturbulence](../../02_Zettel/Theory/Macroturbulence.md)) broaden lines without changing equivalent width. they have **different shapes**:
+both rotation and **macroturbulence** ([Macroturbulence](../../02_Zettel/Theory/Macroturbulence.html)) broaden lines without changing equivalent width. they have **different shapes**:
 - rotation: two-horned profile with sharp edges at $\pm v\sin i$.
 - macroturbulence: smooth Gaussian-like profile.
 
@@ -76,11 +76,11 @@ extreme rotators near critical breakup. used to identify rapidly rotating binari
 
 ## see also
 
-- [Rotational broadening](../../02_Zettel/Theory/Rotational broadening.md)
-- [Stellar velocity from Doppler shift](../../02_Zettel/Theory/Stellar velocity from Doppler shift.md)
-- [Macroturbulence](../../02_Zettel/Theory/Macroturbulence.md)
-- [Microturbulence](../../02_Zettel/Theory/Microturbulence.md)
-- [Velocity dispersion from line width](../../02_Zettel/Theory/Velocity dispersion from line width.md)
-- [Echelle spectroscopy](../../02_Zettel/Theory/Echelle spectroscopy.md)
-- [Voigt profile](../../02_Zettel/Theory/Voigt profile.md)
-- [Emission line stars](../../02_Zettel/Theory/Emission line stars.md)
+- [Rotational broadening](../../02_Zettel/Theory/Rotational broadening.html)
+- [Stellar velocity from Doppler shift](../../02_Zettel/Theory/Stellar velocity from Doppler shift.html)
+- [Macroturbulence](../../02_Zettel/Theory/Macroturbulence.html)
+- [Microturbulence](../../02_Zettel/Theory/Microturbulence.html)
+- [Velocity dispersion from line width](../../02_Zettel/Theory/Velocity dispersion from line width.html)
+- [Echelle spectroscopy](../../02_Zettel/Theory/Echelle spectroscopy.html)
+- [Voigt profile](../../02_Zettel/Theory/Voigt profile.html)
+- [Emission line stars](../../02_Zettel/Theory/Emission line stars.html)

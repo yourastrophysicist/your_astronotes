@@ -5,7 +5,7 @@ title: "Ionized gas kinematics"
 
 # ionized gas kinematics
 
-up: [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.md) · [Datacube redshift measurement](../../02_Zettel/Theory/Datacube redshift measurement.md)
+up: [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.html) · [Datacube redshift measurement](../../02_Zettel/Theory/Datacube redshift measurement.html)
 
 ## kinematic observables
 
@@ -34,6 +34,6 @@ where:
 
 ## connections
 
-- comparison: [Stellar kinematics measurements](../../02_Zettel/Theory/Stellar kinematics measurements.md)
-- dark matter: [Dark matter rotation curves](../../02_Zettel/Theory/Dark matter rotation curves.md), [Modified gravity alternatives](../../02_Zettel/Theory/Modified gravity alternatives.md)
-- scaling: [Tully-Fisher relation](../../02_Zettel/Theory/Tully-Fisher relation.md)
+- comparison: [Stellar kinematics measurements](../../02_Zettel/Theory/Stellar kinematics measurements.html)
+- dark matter: [Dark matter rotation curves](../../02_Zettel/Theory/Dark matter rotation curves.html), [Modified gravity alternatives](../../02_Zettel/Theory/Modified gravity alternatives.html)
+- scaling: [Tully-Fisher relation](../../02_Zettel/Theory/Tully-Fisher relation.html)

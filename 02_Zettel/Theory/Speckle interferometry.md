@@ -61,7 +61,7 @@ for symmetric sources (binary stars with equal magnitudes, uniform disks):
 
 for asymmetric sources, $|\tilde O|$ alone is *not enough* — phase information is needed for full reconstruction. speckle interferometry recovers the *symmetric part* of the source.
 
-for more complete recovery, use Knox-Thompson or [triple-correlation](../../02_Zettel/Theory/interf/Bispectrum and triple correlation.md) methods, which preserve some phase information.
+for more complete recovery, use Knox-Thompson or [triple-correlation](../../02_Zettel/Theory/interf/Bispectrum and triple correlation.html) methods, which preserve some phase information.
 
 ## the practical procedure
 
@@ -103,9 +103,9 @@ instruments: PISCO at Mt. Wilson, the Andor speckle camera at WIYN, NESSI at Gem
 
 ## see also
 
-- [Theory of speckle interferometry](../../02_Zettel/Theory/interf/Theory of speckle interferometry.md)
-- [Aperture masking](../../02_Zettel/Theory/interf/Aperture masking.md)
-- [Speckle imaging algorithms](../../02_Zettel/Theory/interf/Speckle imaging algorithms.md)
-- [Bispectrum and triple correlation](../../02_Zettel/Theory/interf/Bispectrum and triple correlation.md)
-- [Adaptive optics](../../02_Zettel/Theory/interf/Adaptive optics.md)
-- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Theory of speckle interferometry](../../02_Zettel/Theory/interf/Theory of speckle interferometry.html)
+- [Aperture masking](../../02_Zettel/Theory/interf/Aperture masking.html)
+- [Speckle imaging algorithms](../../02_Zettel/Theory/interf/Speckle imaging algorithms.html)
+- [Bispectrum and triple correlation](../../02_Zettel/Theory/interf/Bispectrum and triple correlation.html)
+- [Adaptive optics](../../02_Zettel/Theory/interf/Adaptive optics.html)
+- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.html)

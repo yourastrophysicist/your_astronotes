@@ -144,7 +144,7 @@ so the natural chain is:
 
 $$I_\nu\rightarrow \text{beam-weighted antenna signal}\rightarrow \text{voltage}\rightarrow \text{visibility}\rightarrow \text{image}$$
 
-for the detailed pieces, see [Specific intensity and flux density](../../../02_Zettel/Theory/interf/Specific intensity and flux density.md), [Antenna effective area and gain](../../../02_Zettel/Theory/interf/Antenna effective area and gain.md), [Beam power pattern of a radio telescope](../../../02_Zettel/Theory/interf/Beam power pattern of a radio telescope.md), and [Radiometer equation and SEFD](../../../02_Zettel/Theory/interf/Radiometer equation and SEFD.md).
+for the detailed pieces, see [Specific intensity and flux density](../../../02_Zettel/Theory/interf/Specific intensity and flux density.html), [Antenna effective area and gain](../../../02_Zettel/Theory/interf/Antenna effective area and gain.html), [Beam power pattern of a radio telescope](../../../02_Zettel/Theory/interf/Beam power pattern of a radio telescope.html), and [Radiometer equation and SEFD](../../../02_Zettel/Theory/interf/Radiometer equation and SEFD.html).
 
 ## scientific figure
 
@@ -156,8 +156,8 @@ source: local study diagram generated from the standard brightness-to-flux relat
 
 ## see also
 
-- [Radio interferometer architecture](../../../02_Zettel/Theory/interf/Radio interferometer architecture.md)
-- [Two-element correlator](../../../02_Zettel/Theory/interf/Two-element correlator.md)
-- [Major radio interferometers](../../../02_Zettel/Theory/interf/Major radio interferometers.md)
-- [Heterodyne vs direct detection](../../../02_Zettel/Theory/interf/Heterodyne vs direct detection.md)
-- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Radio interferometer architecture](../../../02_Zettel/Theory/interf/Radio interferometer architecture.html)
+- [Two-element correlator](../../../02_Zettel/Theory/interf/Two-element correlator.html)
+- [Major radio interferometers](../../../02_Zettel/Theory/interf/Major radio interferometers.html)
+- [Heterodyne vs direct detection](../../../02_Zettel/Theory/interf/Heterodyne vs direct detection.html)
+- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.html)

@@ -83,8 +83,8 @@ prefer not-a-knot unless I have a physical reason for natural (e.g. genuinely fl
 
 ## see also
 
-- [Linear interpolation](../../02_Zettel/Theory/Linear interpolation.md)
-- [Lagrange polynomial interpolation](../../02_Zettel/Theory/Lagrange polynomial interpolation.md)
-- [Runge phenomenon](../../02_Zettel/Theory/Runge phenomenon.md)
-- [Newton divided differences](../../02_Zettel/Theory/Newton divided differences.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Linear interpolation](../../02_Zettel/Theory/Linear interpolation.html)
+- [Lagrange polynomial interpolation](../../02_Zettel/Theory/Lagrange polynomial interpolation.html)
+- [Runge phenomenon](../../02_Zettel/Theory/Runge phenomenon.html)
+- [Newton divided differences](../../02_Zettel/Theory/Newton divided differences.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

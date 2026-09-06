@@ -42,7 +42,7 @@ a triaxial structure (mildly bar-like) of old stars in the central few kpc. cont
 
 old stellar population (Pop II): no recent star formation. the stars formed early in the universe and have been there ever since. but the bulge has multiple populations; recent surveys (APOGEE) reveal a complex star formation history.
 
-at the very center: the **Galactic Center** with the supermassive black hole **Sgr A*** ($M \sim 4 \times 10^6\, M_\odot$). see [Galactic Center](../../02_Zettel/Theory/Galactic Center.md).
+at the very center: the **Galactic Center** with the supermassive black hole **Sgr A*** ($M \sim 4 \times 10^6\, M_\odot$). see [Galactic Center](../../02_Zettel/Theory/Galactic Center.html).
 
 ---
 
@@ -50,7 +50,7 @@ at the very center: the **Galactic Center** with the supermassive black hole **S
 
 modern observations (especially infrared, e.g. 2MASS, Spitzer) show the inner Milky Way has a **bar** — an elongated stellar structure tilted relative to the Sun-Galactic Center line. about $\sim 5$ kpc long, oriented at $\sim 25-30°$ to our line of sight.
 
-Milky Way is therefore a **barred spiral**: SBbc in the Hubble classification (see [Hubble morphological sequence](../../02_Zettel/Theory/Hubble morphological sequence.md)).
+Milky Way is therefore a **barred spiral**: SBbc in the Hubble classification (see [Hubble morphological sequence](../../02_Zettel/Theory/Hubble morphological sequence.html)).
 
 ---
 
@@ -76,7 +76,7 @@ $$V \propto 1/\sqrt R$$
 
 instead, $V$ stays flat. this is the signature of an **extended dark matter halo** with $\rho \propto 1/r^2$ (giving $M(r) \propto r$, hence flat $V$).
 
-→ see [Cosmic_inventory_dark_matter](../../02_Zettel/Theory/Cosmic_inventory_dark_matter.md).
+→ see [Cosmic_inventory_dark_matter](../../02_Zettel/Theory/Cosmic_inventory_dark_matter.html).
 
 local Milky Way dark matter density: $\rho_{DM} \sim 0.4$ GeV/cm$^3$ at the Sun's location. critical input for direct dark matter detection experiments (XENON, LUX, etc.).
 
@@ -95,10 +95,10 @@ local Milky Way dark matter density: $\rho_{DM} \sim 0.4$ GeV/cm$^3$ at the Sun'
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Interstellar medium components and gas cycle](../../02_Zettel/Theory/Interstellar medium components and gas cycle.md)
-- [Spiral arm kinematics](../../02_Zettel/Theory/Spiral arm kinematics.md)
-- [Galactic Center](../../02_Zettel/Theory/Galactic Center.md)
-- [Cosmic_inventory_dark_matter](../../02_Zettel/Theory/Cosmic_inventory_dark_matter.md)
-- [Hubble morphological sequence](../../02_Zettel/Theory/Hubble morphological sequence.md)
-- [Galaxies in the local universe](../../02_Zettel/Theory/Galaxies in the local universe.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Interstellar medium components and gas cycle](../../02_Zettel/Theory/Interstellar medium components and gas cycle.html)
+- [Spiral arm kinematics](../../02_Zettel/Theory/Spiral arm kinematics.html)
+- [Galactic Center](../../02_Zettel/Theory/Galactic Center.html)
+- [Cosmic_inventory_dark_matter](../../02_Zettel/Theory/Cosmic_inventory_dark_matter.html)
+- [Hubble morphological sequence](../../02_Zettel/Theory/Hubble morphological sequence.html)
+- [Galaxies in the local universe](../../02_Zettel/Theory/Galaxies in the local universe.html)

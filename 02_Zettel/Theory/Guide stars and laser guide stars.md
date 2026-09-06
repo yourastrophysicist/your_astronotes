@@ -99,8 +99,8 @@ first LGS systems: late 1980s (US Air Force, "Star Wars" laser-imaging research)
 
 ## see also
 
-- [Adaptive optics](../../02_Zettel/Theory/interf/Adaptive optics.md)
-- [Wavefront sensors](../../02_Zettel/Theory/interf/Wavefront sensors.md)
-- [Deformable mirrors and tip-tilt](../../02_Zettel/Theory/interf/Deformable mirrors and tip-tilt.md)
-- [Isoplanatic patch](../../02_Zettel/Theory/interf/Isoplanatic patch.md)
-- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Adaptive optics](../../02_Zettel/Theory/interf/Adaptive optics.html)
+- [Wavefront sensors](../../02_Zettel/Theory/interf/Wavefront sensors.html)
+- [Deformable mirrors and tip-tilt](../../02_Zettel/Theory/interf/Deformable mirrors and tip-tilt.html)
+- [Isoplanatic patch](../../02_Zettel/Theory/interf/Isoplanatic patch.html)
+- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.html)

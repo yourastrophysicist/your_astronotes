@@ -68,10 +68,10 @@ in extended atmospheres (Betelgeuse, R Doradus), the plane-parallel approximatio
 
 ## see also
 
-- [Eddington-Barbier approximation](../../02_Zettel/Theory/Eddington-Barbier approximation.md)
-- [Optical depth](../../02_Zettel/Theory/Optical depth.md)
-- [Source function](../../02_Zettel/Theory/Source function.md)
-- [Stellar atmosphere structure](../../02_Zettel/Theory/Stellar atmosphere structure.md)
-- [Equation of radiative transfer](../../02_Zettel/Theory/Equation of radiative transfer.md)
-- [Bolometric correction and effective temperature](../../02_Zettel/Theory/Bolometric correction and effective temperature.md)
-- [Type Ia supernovae as standard candles](../../02_Zettel/Theory/Type Ia supernovae as standard candles.md) — uses transit-like analysis
+- [Eddington-Barbier approximation](../../02_Zettel/Theory/Eddington-Barbier approximation.html)
+- [Optical depth](../../02_Zettel/Theory/Optical depth.html)
+- [Source function](../../02_Zettel/Theory/Source function.html)
+- [Stellar atmosphere structure](../../02_Zettel/Theory/Stellar atmosphere structure.html)
+- [Equation of radiative transfer](../../02_Zettel/Theory/Equation of radiative transfer.html)
+- [Bolometric correction and effective temperature](../../02_Zettel/Theory/Bolometric correction and effective temperature.html)
+- [Type Ia supernovae as standard candles](../../02_Zettel/Theory/Type Ia supernovae as standard candles.html) — uses transit-like analysis

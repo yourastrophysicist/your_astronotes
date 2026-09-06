@@ -28,7 +28,7 @@ $$\dot a^2 = \frac{8\pi G \rho_0}{3 a}$$
 
 → $a \propto t^{2/3}$. age of the universe: $t_0 = 2/(3 H_0)$.
 
-with the measured $H_0 = 67.4$ km/s/Mpc, EdS gives $t_0 \approx 9.6$ Gyr — *too young* compared to the observed 13.8 Gyr (see the age problem at [Cosmic_inventory_dark_energy](../../02_Zettel/Theory/Cosmic_inventory_dark_energy.md)).
+with the measured $H_0 = 67.4$ km/s/Mpc, EdS gives $t_0 \approx 9.6$ Gyr — *too young* compared to the observed 13.8 Gyr (see the age problem at [Cosmic_inventory_dark_energy](../../02_Zettel/Theory/Cosmic_inventory_dark_energy.html)).
 
 ---
 
@@ -50,7 +50,7 @@ $$
 
 → $a(t) \propto e^{Ht}$, exponential expansion.
 
-the late-time attractor of any Λ-containing universe. inflation in the early universe is a near-de-Sitter phase, and dark-energy domination today is approaching one (see [Inflation overview](../../02_Zettel/Theory/Inflation overview.md) and [Cosmic_inventory_dark_energy](../../02_Zettel/Theory/Cosmic_inventory_dark_energy.md)).
+the late-time attractor of any Λ-containing universe. inflation in the early universe is a near-de-Sitter phase, and dark-energy domination today is approaching one (see [Inflation overview](../../02_Zettel/Theory/Inflation overview.html) and [Cosmic_inventory_dark_energy](../../02_Zettel/Theory/Cosmic_inventory_dark_energy.html)).
 
 ---
 
@@ -106,8 +106,8 @@ ironic postscript: $\Lambda$ came back in 1998 — not for static universe, but 
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
 - Friedmann equations with Λ
-- [Density parameters and flatness](../../02_Zettel/Theory/Density parameters and flatness.md)
-- [Brief thermal history](../../02_Zettel/Theory/Brief thermal history.md)
-- [Cosmic_inventory_dark_energy](../../02_Zettel/Theory/Cosmic_inventory_dark_energy.md)
+- [Density parameters and flatness](../../02_Zettel/Theory/Density parameters and flatness.html)
+- [Brief thermal history](../../02_Zettel/Theory/Brief thermal history.html)
+- [Cosmic_inventory_dark_energy](../../02_Zettel/Theory/Cosmic_inventory_dark_energy.html)

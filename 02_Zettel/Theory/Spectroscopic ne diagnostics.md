@@ -19,7 +19,7 @@ the workhorse for $n_e \sim 10^2$ to $10^4$ cm$^{-3}$. doublet of S$^+$ from $^2
 | $10^4$ | $\sim 0.55$ |
 | $10^5$ | $\sim 0.45$ |
 
-see [SII forbidden lines](../../02_Zettel/Theory/SII forbidden lines.md).
+see [SII forbidden lines](../../02_Zettel/Theory/SII forbidden lines.html).
 
 ### $[OII]\,\lambda 3729/\lambda 3726$
 
@@ -59,12 +59,12 @@ precision: limited by line-flux measurement and instrumental resolution. typical
 
 ## see also
 
-- [Forbidden line diagnostics](../../02_Zettel/Theory/Forbidden line diagnostics.md)
-- [Spectroscopic Te diagnostics](../../02_Zettel/Theory/Spectroscopic Te diagnostics.md)
-- [SII forbidden lines](../../02_Zettel/Theory/SII forbidden lines.md)
-- [Critical density](../../02_Zettel/Theory/Critical density.md)
-- [Two-level atom](../../02_Zettel/Theory/Two-level atom.md)
-- [Equivalent vs nonequivalent electrons](../../02_Zettel/Theory/Equivalent vs nonequivalent electrons.md)
-- [Ionisation parameter U](../../02_Zettel/Theory/Ionisation parameter U.md)
-- [H II region spectroscopy](../../02_Zettel/Theory/H II region spectroscopy.md)
-- [Planetary nebula spectroscopy](../../02_Zettel/Theory/Planetary nebula spectroscopy.md)
+- [Forbidden line diagnostics](../../02_Zettel/Theory/Forbidden line diagnostics.html)
+- [Spectroscopic Te diagnostics](../../02_Zettel/Theory/Spectroscopic Te diagnostics.html)
+- [SII forbidden lines](../../02_Zettel/Theory/SII forbidden lines.html)
+- [Critical density](../../02_Zettel/Theory/Critical density.html)
+- [Two-level atom](../../02_Zettel/Theory/Two-level atom.html)
+- [Equivalent vs nonequivalent electrons](../../02_Zettel/Theory/Equivalent vs nonequivalent electrons.html)
+- [Ionisation parameter U](../../02_Zettel/Theory/Ionisation parameter U.html)
+- [H II region spectroscopy](../../02_Zettel/Theory/H II region spectroscopy.html)
+- [Planetary nebula spectroscopy](../../02_Zettel/Theory/Planetary nebula spectroscopy.html)

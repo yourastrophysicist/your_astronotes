@@ -5,7 +5,7 @@ title: "Cosmic stellar mass density growth"
 
 # cosmic stellar mass density growth
 
-up: [Pablo_02_Statistical_properties_of_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.md)
+up: [Pablo_02_Statistical_properties_of_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html)
 
 ## the definition
 
@@ -13,7 +13,7 @@ the cosmic stellar mass density is
 
 $$\rho_*(z) = \int_0^\infty M_*\, \phi(M_*, z)\, dM_*$$
 
-units of $M_\odot\, \text{Mpc}^{-3}$. it is the first moment of the stellar mass function (see [Stellar mass function](../../02_Zettel/Theory/Stellar mass function.md) and [Integrals of the Schechter function](../../02_Zettel/Theory/Integrals of the Schechter function.md)).
+units of $M_\odot\, \text{Mpc}^{-3}$. it is the first moment of the stellar mass function (see [Stellar mass function](../../02_Zettel/Theory/Stellar mass function.html) and [Integrals of the Schechter function](../../02_Zettel/Theory/Integrals of the Schechter function.html)).
 
 ## perez-gonzalez 2008a result
 
@@ -33,7 +33,7 @@ $$\rho_*(t) = (1 - R) \int_0^t \rho_{SFR}(t')\, dt'$$
 
 where $R \approx 0.4$ is the **return fraction** (mass given back to the ISM by stellar winds and SNe over a Hubble time, IMF-dependent).
 
-this is [SFR and stellar mass density connection](../../02_Zettel/Theory/SFR and stellar mass density connection.md): the cosmic SFR is the time derivative of the stellar mass density, modulo recycling.
+this is [SFR and stellar mass density connection](../../02_Zettel/Theory/SFR and stellar mass density connection.html): the cosmic SFR is the time derivative of the stellar mass density, modulo recycling.
 
 historically, integrating the Madau-Dickinson SFR overshot the measured stellar mass density by a factor of $\sim 1.5$. the "stellar-mass-budget" tension drove a decade of work on IMF, dust corrections, and stellar evolution. recent updates (Davidzon 2017, Madau-Dickinson 2014) bring the two within $\sim 30\%$ at all $z$.
 
@@ -49,10 +49,10 @@ both $\rho_*$ (via $M_*/L$) and $\rho_{SFR}$ (via SFR/$L_{UV}$ or SFR/$L_{IR}$) 
 
 ## connections
 
-- companion plot: [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.md)
-- bridge equation: [SFR and stellar mass density connection](../../02_Zettel/Theory/SFR and stellar mass density connection.md)
-- mass function: [Stellar mass function](../../02_Zettel/Theory/Stellar mass function.md)
-- mass integrals: [Integrals of the Schechter function](../../02_Zettel/Theory/Integrals of the Schechter function.md)
+- companion plot: [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.html)
+- bridge equation: [SFR and stellar mass density connection](../../02_Zettel/Theory/SFR and stellar mass density connection.html)
+- mass function: [Stellar mass function](../../02_Zettel/Theory/Stellar mass function.html)
+- mass integrals: [Integrals of the Schechter function](../../02_Zettel/Theory/Integrals of the Schechter function.html)
 
 ## key references
 

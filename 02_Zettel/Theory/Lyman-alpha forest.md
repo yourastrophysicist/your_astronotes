@@ -61,12 +61,12 @@ besides Ly-α, the IGM clouds have metal absorption lines (C IV, Mg II, O VI). t
 
 ## see also
 
-- [Reionization](../../02_Zettel/Theory/Reionization.md)
-- [Intergalactic medium](../../02_Zettel/Theory/Intergalactic medium.md)
-- [Damping wings](../../02_Zettel/Theory/Damping wings.md)
-- [Hydrogen spectral series](../../02_Zettel/Theory/Hydrogen spectral series.md)
-- [Voigt profile](../../02_Zettel/Theory/Voigt profile.md)
-- [Photoionisation balance](../../02_Zettel/Theory/Photoionisation balance.md)
-- [Cosmic_inventory_baryons](../../02_Zettel/Theory/Cosmic_inventory_baryons.md)
-- [ΛCDM current parameters](../../02_Zettel/Theory/ΛCDM current parameters.md)
-- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md)
+- [Reionization](../../02_Zettel/Theory/Reionization.html)
+- [Intergalactic medium](../../02_Zettel/Theory/Intergalactic medium.html)
+- [Damping wings](../../02_Zettel/Theory/Damping wings.html)
+- [Hydrogen spectral series](../../02_Zettel/Theory/Hydrogen spectral series.html)
+- [Voigt profile](../../02_Zettel/Theory/Voigt profile.html)
+- [Photoionisation balance](../../02_Zettel/Theory/Photoionisation balance.html)
+- [Cosmic_inventory_baryons](../../02_Zettel/Theory/Cosmic_inventory_baryons.html)
+- [ΛCDM current parameters](../../02_Zettel/Theory/ΛCDM current parameters.html)
+- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html)

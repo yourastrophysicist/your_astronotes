@@ -5,7 +5,7 @@ title: "Ch 9 - Inflation and Primordial Gravitational Waves"
 
 # Baumann Ch 9 (extension), Inflation and Primordial Gravitational Waves
 
-up: [Baumann GR](../../../01_Literature/Book/Baumann GR/Baumann GR.md) · [General_Relativity_MOC](../../../00_Atlas/General_Relativity_MOC.md)
+up: [Baumann GR](../../../01_Literature/Book/Baumann GR/Baumann GR.html) · [General_Relativity_MOC](../../../00_Atlas/General_Relativity_MOC.html)
 
 *this chapter is not in Baumann's GR lecture notes. it is the natural next step, the bridge between Ch 7 (cosmology) and Ch 8 (gravitational waves), and the topic Baumann himself is most associated with. it answers the question that Ch 7 quietly leaves open: where did the FLRW universe come from? why does it look so smooth, so flat, so finely tuned? and what is the smoking gun that would tell us inflation actually happened?*
 
@@ -196,13 +196,13 @@ if i had to compress chapter 9 into a paragraph for the oral:
 
 ## connections
 
-- [General_Relativity_MOC](../../../00_Atlas/General_Relativity_MOC.md)
-- [Baumann GR](../../../01_Literature/Book/Baumann GR/Baumann GR.md)
+- [General_Relativity_MOC](../../../00_Atlas/General_Relativity_MOC.html)
+- [Baumann GR](../../../01_Literature/Book/Baumann GR/Baumann GR.html)
 - Inflation MOC · Cosmological perturbation theory · FLRW · Slow-roll parameters · Scalar field stress-energy
 - Comoving Hubble radius · Horizon problem · Flatness problem · E-folds
 - Curvature perturbation · Power spectrum · Spectral tilt · Tensor-to-scalar ratio
 - CMB polarization · E-modes and B-modes · BICEP · LiteBIRD · CMB-S4
-- bridges: [Ch 7 - Cosmology](../../../01_Literature/Book/Baumann GR/Ch 7 - Cosmology.md) (FLRW + Friedmann) and [Ch 8 - Gravitational Waves](../../../01_Literature/Book/Baumann GR/Ch 8 - Gravitational Waves.md) (TT metric perturbations)
+- bridges: [Ch 7 - Cosmology](../../../01_Literature/Book/Baumann GR/Ch 7 - Cosmology.html) (FLRW + Friedmann) and [Ch 8 - Gravitational Waves](../../../01_Literature/Book/Baumann GR/Ch 8 - Gravitational Waves.html) (TT metric perturbations)
 - references: Baumann, *Cosmology* (Cambridge, 2022); Baumann, "TASI Lectures on Inflation" (arXiv:0907.5424)
-- previous: [Ch 8 - Gravitational Waves](../../../01_Literature/Book/Baumann GR/Ch 8 - Gravitational Waves.md)
+- previous: [Ch 8 - Gravitational Waves](../../../01_Literature/Book/Baumann GR/Ch 8 - Gravitational Waves.html)
 - this is the natural continuation of Baumann's GR notes, beyond the printed text.

@@ -131,9 +131,9 @@ plt.xlabel('frequency [Hz]'); plt.ylabel('amplitude')
 
 ## see also
 
-- [Discrete Fourier transform](../../02_Zettel/Theory/Discrete Fourier transform.md)
-- [Fast Fourier transform algorithm](../../02_Zettel/Theory/Fast Fourier transform algorithm.md)
-- [Fourier series math summary](../../02_Zettel/Theory/Fourier series math summary.md)
-- [Power spectrum estimation](../../02_Zettel/Theory/Power spectrum estimation.md)
-- [FFT in scipy and numpy](../../02_Zettel/Theory/FFT in scipy and numpy.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Discrete Fourier transform](../../02_Zettel/Theory/Discrete Fourier transform.html)
+- [Fast Fourier transform algorithm](../../02_Zettel/Theory/Fast Fourier transform algorithm.html)
+- [Fourier series math summary](../../02_Zettel/Theory/Fourier series math summary.html)
+- [Power spectrum estimation](../../02_Zettel/Theory/Power spectrum estimation.html)
+- [FFT in scipy and numpy](../../02_Zettel/Theory/FFT in scipy and numpy.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

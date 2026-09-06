@@ -4,7 +4,7 @@ name: Critical metallicity for fragmentation
 description: the threshold metallicity Z_crit ~ 10^-5 to 10^-4 Z_sun below which gas cannot cool efficiently enough to fragment into low-mass stars, marking the Pop III to Pop II transition
 ---
 
-the **critical metallicity for fragmentation** $Z_{\rm crit}$ is the threshold metallicity below which a primordial gas cloud cannot cool efficiently enough to fragment into stellar-mass clumps. below $Z_{\rm crit}$, the gas collapses monolithically into very massive ($\geq 100\,M_\odot$) [Pop III stars](../../02_Zettel/Theory/Population III stars.md). above $Z_{\rm crit}$, metal-line + dust cooling enables fragmentation into the standard near-Salpeter [IMF](../../02_Zettel/Theory/Salpeter Kroupa Chabrier IMFs.md) of Pop II + Pop I stars.
+the **critical metallicity for fragmentation** $Z_{\rm crit}$ is the threshold metallicity below which a primordial gas cloud cannot cool efficiently enough to fragment into stellar-mass clumps. below $Z_{\rm crit}$, the gas collapses monolithically into very massive ($\geq 100\,M_\odot$) [Pop III stars](../../02_Zettel/Theory/Population III stars.html). above $Z_{\rm crit}$, metal-line + dust cooling enables fragmentation into the standard near-Salpeter [IMF](../../02_Zettel/Theory/Salpeter Kroupa Chabrier IMFs.html) of Pop II + Pop I stars.
 
 ## numerical value
 
@@ -78,10 +78,10 @@ $Z_{\rm crit}$ controls the **transition between Pop III and Pop II**. it determ
 
 ## see also
 
-- [Population III stars](../../02_Zettel/Theory/Population III stars.md)
-- [Pop III nucleosynthesis signatures](../../02_Zettel/Theory/Pop III nucleosynthesis signatures.md)
-- [Search for Pop III stars in dwarf galaxies](../../02_Zettel/Theory/Search for Pop III stars in dwarf galaxies.md)
-- [Pop III remnants in UFDGs](../../02_Zettel/Theory/Pop III remnants in UFDGs.md)
-- [Big Bang nucleosynthesis](../../02_Zettel/Theory/Big Bang nucleosynthesis.md)
-- [Salpeter Kroupa Chabrier IMFs](../../02_Zettel/Theory/Salpeter Kroupa Chabrier IMFs.md)
-- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.md)
+- [Population III stars](../../02_Zettel/Theory/Population III stars.html)
+- [Pop III nucleosynthesis signatures](../../02_Zettel/Theory/Pop III nucleosynthesis signatures.html)
+- [Search for Pop III stars in dwarf galaxies](../../02_Zettel/Theory/Search for Pop III stars in dwarf galaxies.html)
+- [Pop III remnants in UFDGs](../../02_Zettel/Theory/Pop III remnants in UFDGs.html)
+- [Big Bang nucleosynthesis](../../02_Zettel/Theory/Big Bang nucleosynthesis.html)
+- [Salpeter Kroupa Chabrier IMFs](../../02_Zettel/Theory/Salpeter Kroupa Chabrier IMFs.html)
+- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.html)

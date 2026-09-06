@@ -100,7 +100,7 @@ $$\nu_{\rm IF}=|\nu_{\rm RF}-\nu_{\rm LO}|$$
 
 this also introduces the idea of **sidebands**: both upper and lower sky frequencies can map into the same IF unless the receiver selects or calibrates them. the phase is preserved only if the LO is stable, which is why connected arrays distribute coherent references and VLBI uses hydrogen masers.
 
-see [Downconversion of signals in radio interferometers](../../../02_Zettel/Theory/interf/Downconversion of signals in radio interferometers.md) for the full BookAI version.
+see [Downconversion of signals in radio interferometers](../../../02_Zettel/Theory/interf/Downconversion of signals in radio interferometers.html) for the full BookAI version.
 
 ## scientific figure
 
@@ -112,9 +112,9 @@ source: local study diagram generated from the heterodyne identity.
 
 ## see also
 
-- [Aperture synthesis principle](../../../02_Zettel/Theory/interf/Aperture synthesis principle.md)
-- [Radio astronomy basics](../../../02_Zettel/Theory/interf/Radio astronomy basics.md)
-- [Radio interferometer architecture](../../../02_Zettel/Theory/interf/Radio interferometer architecture.md)
-- [Components of a modern interferometer](../../../02_Zettel/Theory/interf/Components of a modern interferometer.md)
-- [VLTI Very Large Telescope Interferometer](../../../02_Zettel/Theory/interf/VLTI Very Large Telescope Interferometer.md)
-- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Aperture synthesis principle](../../../02_Zettel/Theory/interf/Aperture synthesis principle.html)
+- [Radio astronomy basics](../../../02_Zettel/Theory/interf/Radio astronomy basics.html)
+- [Radio interferometer architecture](../../../02_Zettel/Theory/interf/Radio interferometer architecture.html)
+- [Components of a modern interferometer](../../../02_Zettel/Theory/interf/Components of a modern interferometer.html)
+- [VLTI Very Large Telescope Interferometer](../../../02_Zettel/Theory/interf/VLTI Very Large Telescope Interferometer.html)
+- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.html)

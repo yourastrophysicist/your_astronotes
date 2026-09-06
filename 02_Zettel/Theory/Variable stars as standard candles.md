@@ -16,7 +16,7 @@ calibration (HST + Gaia + Wesenheit relations): $b \approx -2.78$, $a \approx -1
 
 range: $\sim 30$ Mpc with HST; pushes to $\sim 100$ Mpc with JWST.
 
-calibrators: Galactic Cepheids with Gaia parallaxes; SMC and LMC Cepheids with eclipsing-binary geometric distances. see [Cepheid period-luminosity relation](../../02_Zettel/Theory/Cepheid period-luminosity relation.md).
+calibrators: Galactic Cepheids with Gaia parallaxes; SMC and LMC Cepheids with eclipsing-binary geometric distances. see [Cepheid period-luminosity relation](../../02_Zettel/Theory/Cepheid period-luminosity relation.html).
 
 ### RR Lyrae
 
@@ -59,10 +59,10 @@ modern best practice: cross-check Cepheid + TRGB + Mira distances to the same ga
 
 ## see also
 
-- [Cepheid period-luminosity relation](../../02_Zettel/Theory/Cepheid period-luminosity relation.md)
-- [Distance ladder derivations](../../02_Zettel/Theory/Distance ladder derivations.md)
-- [TRGB tip of the red giant branch](../../02_Zettel/Theory/TRGB tip of the red giant branch.md)
-- [Cepheids and supernovae](../../02_Zettel/Theory/Cepheids and supernovae.md)
-- [Type Ia supernovae as standard candles](../../02_Zettel/Theory/Type Ia supernovae as standard candles.md)
-- [Annual stellar parallax](../../02_Zettel/Theory/Annual stellar parallax.md)
-- [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.md)
+- [Cepheid period-luminosity relation](../../02_Zettel/Theory/Cepheid period-luminosity relation.html)
+- [Distance ladder derivations](../../02_Zettel/Theory/Distance ladder derivations.html)
+- [TRGB tip of the red giant branch](../../02_Zettel/Theory/TRGB tip of the red giant branch.html)
+- [Cepheids and supernovae](../../02_Zettel/Theory/Cepheids and supernovae.html)
+- [Type Ia supernovae as standard candles](../../02_Zettel/Theory/Type Ia supernovae as standard candles.html)
+- [Annual stellar parallax](../../02_Zettel/Theory/Annual stellar parallax.html)
+- [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.html)

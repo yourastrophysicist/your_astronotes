@@ -68,10 +68,10 @@ each modern observatory has multiple instruments to cover different regimes. a t
 
 ## see also
 
-- [Spectrograph design](../../02_Zettel/Theory/Spectrograph design.md)
-- [Echelle spectroscopy](../../02_Zettel/Theory/Echelle spectroscopy.md)
-- [Multi-object spectroscopy MOS](../../02_Zettel/Theory/Multi-object spectroscopy MOS.md)
-- [Integral-field spectroscopy IFU](../../02_Zettel/Theory/Integral-field spectroscopy IFU.md)
-- [Grating equation](../../02_Zettel/Theory/Grating equation.md)
-- [Dispersion and spectral resolution](../../02_Zettel/Theory/Dispersion and spectral resolution.md)
-- [Survey resources for Obs Astro](../../02_Zettel/Theory/Survey resources for Obs Astro.md)
+- [Spectrograph design](../../02_Zettel/Theory/Spectrograph design.html)
+- [Echelle spectroscopy](../../02_Zettel/Theory/Echelle spectroscopy.html)
+- [Multi-object spectroscopy MOS](../../02_Zettel/Theory/Multi-object spectroscopy MOS.html)
+- [Integral-field spectroscopy IFU](../../02_Zettel/Theory/Integral-field spectroscopy IFU.html)
+- [Grating equation](../../02_Zettel/Theory/Grating equation.html)
+- [Dispersion and spectral resolution](../../02_Zettel/Theory/Dispersion and spectral resolution.html)
+- [Survey resources for Obs Astro](../../02_Zettel/Theory/Survey resources for Obs Astro.html)

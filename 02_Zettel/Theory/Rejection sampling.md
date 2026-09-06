@@ -67,7 +67,7 @@ def rejection_sample_vec(P, P_max, a, b, N_target):
 
 ## when to use rejection
 
-- **$P$ is not analytically invertible** (so [Inverse transform sampling](../../02_Zettel/Theory/Inverse transform sampling.md) fails)
+- **$P$ is not analytically invertible** (so [Inverse transform sampling](../../02_Zettel/Theory/Inverse transform sampling.html) fails)
 - **$P$ is bounded** and I have a reasonable upper bound
 - **2D or higher**: rejection extends naturally to multiple dimensions, where inverse sampling does not
 - **physical setup is naturally 2D**: like the bounding-box-under-the-curve picture
@@ -115,8 +115,8 @@ plt.plot(xx, P(xx) / Z, 'r-')      # Z = trapezoid integral of P
 
 ## see also
 
-- [Inverse transform sampling](../../02_Zettel/Theory/Inverse transform sampling.md)
-- [Box-Muller transform for Gaussian random numbers](../../02_Zettel/Theory/Box-Muller transform for Gaussian random numbers.md)
-- [Importance sampling](../../02_Zettel/Theory/Importance sampling.md)
-- [Pseudo-random number generators](../../02_Zettel/Theory/Pseudo-random number generators.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Inverse transform sampling](../../02_Zettel/Theory/Inverse transform sampling.html)
+- [Box-Muller transform for Gaussian random numbers](../../02_Zettel/Theory/Box-Muller transform for Gaussian random numbers.html)
+- [Importance sampling](../../02_Zettel/Theory/Importance sampling.html)
+- [Pseudo-random number generators](../../02_Zettel/Theory/Pseudo-random number generators.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

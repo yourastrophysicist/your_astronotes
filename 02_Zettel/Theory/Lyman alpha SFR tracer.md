@@ -5,7 +5,7 @@ title: "Lyman alpha SFR tracer"
 
 # Lyman alpha SFR tracer
 
-up: [Pablo_03_Star_formation_in_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.md)
+up: [Pablo_03_Star_formation_in_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html)
 
 ## the line
 
@@ -47,10 +47,10 @@ which is just $L(\text{H}\alpha)$ calibration scaled by $1/8.7$. in reality, $f_
 
 ## connections
 
-- recombination physics: [H-alpha SFR tracer](../../02_Zettel/Theory/H-alpha SFR tracer.md)
-- reionization: [Reionization](../../02_Zettel/Theory/Reionization.md) (block 9 of Observational Cosmology)
-- extinction: [Dust attenuation and extinction curves](../../02_Zettel/Theory/Dust attenuation and extinction curves.md)
-- other emission lines: [Other SFR tracer lines](../../02_Zettel/Theory/Other SFR tracer lines.md), [OII SFR tracer](../../02_Zettel/Theory/OII SFR tracer.md)
+- recombination physics: [H-alpha SFR tracer](../../02_Zettel/Theory/H-alpha SFR tracer.html)
+- reionization: [Reionization](../../02_Zettel/Theory/Reionization.html) (block 9 of Observational Cosmology)
+- extinction: [Dust attenuation and extinction curves](../../02_Zettel/Theory/Dust attenuation and extinction curves.html)
+- other emission lines: [Other SFR tracer lines](../../02_Zettel/Theory/Other SFR tracer lines.html), [OII SFR tracer](../../02_Zettel/Theory/OII SFR tracer.html)
 
 ## key references
 

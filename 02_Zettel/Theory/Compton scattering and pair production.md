@@ -59,7 +59,7 @@ Measuring the pair direction through tracking devices,
 ## Summary of dominant processes
 
 The three regions of the plot are defined by equalling the cross sections of:
-	[Photoelectric absorption](../../02_Zettel/Theory/Photoelectric absorption.md) and Compton scattering ($\sigma_{ph} = \sigma_C$)
+	[Photoelectric absorption](../../02_Zettel/Theory/Photoelectric absorption.html) and Compton scattering ($\sigma_{ph} = \sigma_C$)
 	Compton scattering and pair production ($\sigma_C = \sigma_{pp}$)
 
 ![Screenshot 2026-04-07 at 01.22.49](../../assets/images/Screenshot 2026-04-07 at 01.22.49.png)

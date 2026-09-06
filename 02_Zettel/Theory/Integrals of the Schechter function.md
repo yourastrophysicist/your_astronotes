@@ -5,7 +5,7 @@ title: "Integrals of the Schechter function"
 
 # integrals of the schechter function
 
-up: [Pablo_02_Statistical_properties_of_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.md) · [Schechter function](../../02_Zettel/Theory/Schechter function.md)
+up: [Pablo_02_Statistical_properties_of_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html) · [Schechter function](../../02_Zettel/Theory/Schechter function.html)
 
 ## why this note exists
 
@@ -64,9 +64,9 @@ N_above_Lstar = phi_star * gamma(alpha + 1) * gammaincc(alpha + 1, 1.0)  # for a
 
 ## connections
 
-- the LF: [Schechter function](../../02_Zettel/Theory/Schechter function.md), [Schechter function in magnitudes](../../02_Zettel/Theory/Schechter function in magnitudes.md)
-- integrating over $z$ for cosmic histories: [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.md), [Cosmic stellar mass density growth](../../02_Zettel/Theory/Cosmic stellar mass density growth.md)
-- mass version (gives $\rho_*$): [Stellar mass function](../../02_Zettel/Theory/Stellar mass function.md)
+- the LF: [Schechter function](../../02_Zettel/Theory/Schechter function.html), [Schechter function in magnitudes](../../02_Zettel/Theory/Schechter function in magnitudes.html)
+- integrating over $z$ for cosmic histories: [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.html), [Cosmic stellar mass density growth](../../02_Zettel/Theory/Cosmic stellar mass density growth.html)
+- mass version (gives $\rho_*$): [Stellar mass function](../../02_Zettel/Theory/Stellar mass function.html)
 
 ## key references
 

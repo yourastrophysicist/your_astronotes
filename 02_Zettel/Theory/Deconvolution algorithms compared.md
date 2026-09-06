@@ -113,7 +113,7 @@ choose based on the science: faster methods for routine observations, slower/bet
 
 ## see also
 
-- [CLEAN algorithm](../../02_Zettel/Theory/interf/CLEAN algorithm.md)
-- [Maximum entropy method](../../02_Zettel/Theory/Maximum entropy method.md)
-- [Dirty beam and dirty image](../../02_Zettel/Theory/interf/Dirty beam and dirty image.md)
-- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [CLEAN algorithm](../../02_Zettel/Theory/interf/CLEAN algorithm.html)
+- [Maximum entropy method](../../02_Zettel/Theory/Maximum entropy method.html)
+- [Dirty beam and dirty image](../../02_Zettel/Theory/interf/Dirty beam and dirty image.html)
+- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.html)

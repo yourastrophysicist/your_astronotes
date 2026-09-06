@@ -5,7 +5,7 @@ title: "Schechter function in magnitudes"
 
 # schechter function in magnitudes
 
-up: [Pablo_02_Statistical_properties_of_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.md) · [Schechter function](../../02_Zettel/Theory/Schechter function.md)
+up: [Pablo_02_Statistical_properties_of_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html) · [Schechter function](../../02_Zettel/Theory/Schechter function.html)
 
 ## the change of variable
 
@@ -49,9 +49,9 @@ these are the magnitudes of the slope to keep in mind.
 
 ## connections
 
-- functional form: [Schechter function](../../02_Zettel/Theory/Schechter function.md)
-- integrals: [Integrals of the Schechter function](../../02_Zettel/Theory/Integrals of the Schechter function.md)
-- canonical numbers: [Schechter K-band luminosity function](../../02_Zettel/Theory/Schechter K-band luminosity function.md)
+- functional form: [Schechter function](../../02_Zettel/Theory/Schechter function.html)
+- integrals: [Integrals of the Schechter function](../../02_Zettel/Theory/Integrals of the Schechter function.html)
+- canonical numbers: [Schechter K-band luminosity function](../../02_Zettel/Theory/Schechter K-band luminosity function.html)
 
 ## key references
 

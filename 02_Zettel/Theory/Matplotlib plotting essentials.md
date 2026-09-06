@@ -220,6 +220,6 @@ plt.savefig("ex4_nbody.pdf")
 
 ## see also
 
-- [Numpy arrays vs Python lists](../../02_Zettel/Theory/Numpy arrays vs Python lists.md)
-- [Numerical problem solving workflow](../../02_Zettel/Theory/Numerical problem solving workflow.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Numpy arrays vs Python lists](../../02_Zettel/Theory/Numpy arrays vs Python lists.html)
+- [Numerical problem solving workflow](../../02_Zettel/Theory/Numerical problem solving workflow.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

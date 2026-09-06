@@ -29,7 +29,7 @@ at $\lambda > 1\,\mu$m, the SSP color is much less metallicity-dependent. so com
 
 ### Lick indices
 
-Balmer-line indices (H$\beta$, H$\delta$) are primarily age-sensitive; Mg, Fe indices are primarily metallicity-sensitive. plotting one against the other moves age and metallicity along orthogonal tracks. see [Lick indices](../../02_Zettel/Theory/Lick indices.md).
+Balmer-line indices (H$\beta$, H$\delta$) are primarily age-sensitive; Mg, Fe indices are primarily metallicity-sensitive. plotting one against the other moves age and metallicity along orthogonal tracks. see [Lick indices](../../02_Zettel/Theory/Lick indices.html).
 
 ### the $4000$ Å break
 
@@ -54,12 +54,12 @@ modern Bayesian SED fitters (Prospector, BAGPIPES) sample the joint posterior ov
 
 ## see also
 
-- [Stellar population synthesis](../../02_Zettel/Theory/Stellar population synthesis.md)
-- [Lick indices](../../02_Zettel/Theory/Lick indices.md)
-- [SED fitting basics](../../02_Zettel/Theory/SED fitting basics.md)
-- [Single stellar population SSP](../../02_Zettel/Theory/Single stellar population SSP.md)
-- [SPS code families](../../02_Zettel/Theory/SPS code families.md)
-- [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.md)
-- [Cluster ages from CMD turnoff](../../02_Zettel/Theory/Cluster ages from CMD turnoff.md)
-- [Color indices](../../02_Zettel/Theory/Color indices.md)
-- [Bolometric correction and effective temperature](../../02_Zettel/Theory/Bolometric correction and effective temperature.md)
+- [Stellar population synthesis](../../02_Zettel/Theory/Stellar population synthesis.html)
+- [Lick indices](../../02_Zettel/Theory/Lick indices.html)
+- [SED fitting basics](../../02_Zettel/Theory/SED fitting basics.html)
+- [Single stellar population SSP](../../02_Zettel/Theory/Single stellar population SSP.html)
+- [SPS code families](../../02_Zettel/Theory/SPS code families.html)
+- [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.html)
+- [Cluster ages from CMD turnoff](../../02_Zettel/Theory/Cluster ages from CMD turnoff.html)
+- [Color indices](../../02_Zettel/Theory/Color indices.html)
+- [Bolometric correction and effective temperature](../../02_Zettel/Theory/Bolometric correction and effective temperature.html)

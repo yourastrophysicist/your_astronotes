@@ -28,7 +28,7 @@ unlike a stellar photosphere, an HII region has no broad metal absorption featur
 
 from a single HII region spectrum:
 
-1. **dust extinction** $A_V$: from $H\alpha/H\beta$ via [Balmer decrement](../../02_Zettel/Theory/Balmer decrement.md).
+1. **dust extinction** $A_V$: from $H\alpha/H\beta$ via [Balmer decrement](../../02_Zettel/Theory/Balmer decrement.html).
 2. **electron density** $n_e$: from $[SII]\,\lambda 6716/\lambda 6731$.
 3. **electron temperature** $T_e$: from $[OIII]\,\lambda 4363/(\lambda 4959+5007)$.
 4. **ionisation parameter** $U$: from $[OIII]/[OII]$ ratio.
@@ -63,15 +63,15 @@ photoionisation modelling (Cloudy, MAPPINGS) recovers source spectrum + gas cond
 ## see also
 
 - Strömgren sphere
-- [Ionisation stratification](../../02_Zettel/Theory/Ionisation stratification.md)
-- [Forbidden lines](../../02_Zettel/Theory/Forbidden lines.md)
-- [OIII forbidden lines](../../02_Zettel/Theory/OIII forbidden lines.md)
-- [SII forbidden lines](../../02_Zettel/Theory/SII forbidden lines.md)
-- [Forbidden line diagnostics](../../02_Zettel/Theory/Forbidden line diagnostics.md)
-- [Balmer decrement](../../02_Zettel/Theory/Balmer decrement.md)
-- [Dust extinction in nebulae](../../02_Zettel/Theory/Dust extinction in nebulae.md)
-- [Photoionisation balance](../../02_Zettel/Theory/Photoionisation balance.md)
-- [Optically thin recombination lines](../../02_Zettel/Theory/Optically thin recombination lines.md)
-- [Recombination continuum](../../02_Zettel/Theory/Recombination continuum.md)
-- [BPT diagram](../../02_Zettel/Theory/BPT diagram.md)
-- [H-alpha SFR tracer](../../02_Zettel/Theory/H-alpha SFR tracer.md)
+- [Ionisation stratification](../../02_Zettel/Theory/Ionisation stratification.html)
+- [Forbidden lines](../../02_Zettel/Theory/Forbidden lines.html)
+- [OIII forbidden lines](../../02_Zettel/Theory/OIII forbidden lines.html)
+- [SII forbidden lines](../../02_Zettel/Theory/SII forbidden lines.html)
+- [Forbidden line diagnostics](../../02_Zettel/Theory/Forbidden line diagnostics.html)
+- [Balmer decrement](../../02_Zettel/Theory/Balmer decrement.html)
+- [Dust extinction in nebulae](../../02_Zettel/Theory/Dust extinction in nebulae.html)
+- [Photoionisation balance](../../02_Zettel/Theory/Photoionisation balance.html)
+- [Optically thin recombination lines](../../02_Zettel/Theory/Optically thin recombination lines.html)
+- [Recombination continuum](../../02_Zettel/Theory/Recombination continuum.html)
+- [BPT diagram](../../02_Zettel/Theory/BPT diagram.html)
+- [H-alpha SFR tracer](../../02_Zettel/Theory/H-alpha SFR tracer.html)

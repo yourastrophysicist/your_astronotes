@@ -95,8 +95,8 @@ in an interferometer, the IF signals $V_i(t)$ and $V_j(t)$ from antenna dishes $
 
 ## see also
 
-- [Electromagnetic waves and photons](../../02_Zettel/Theory/interf/Electromagnetic waves and photons.md)
-- [Heterodyne vs direct detection](../../02_Zettel/Theory/interf/Heterodyne vs direct detection.md)
-- [Two-element correlator](../../02_Zettel/Theory/interf/Two-element correlator.md)
-- [Components of a modern interferometer](../../02_Zettel/Theory/interf/Components of a modern interferometer.md)
-- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Electromagnetic waves and photons](../../02_Zettel/Theory/interf/Electromagnetic waves and photons.html)
+- [Heterodyne vs direct detection](../../02_Zettel/Theory/interf/Heterodyne vs direct detection.html)
+- [Two-element correlator](../../02_Zettel/Theory/interf/Two-element correlator.html)
+- [Components of a modern interferometer](../../02_Zettel/Theory/interf/Components of a modern interferometer.html)
+- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.html)

@@ -5,7 +5,7 @@ title: "Newton-Raphson for systems of equations"
 
 # Newton-Raphson for systems of equations
 
-the multivariate generalization of [Newton-Raphson method](../../02_Zettel/Theory/Newton-Raphson method.md). given a vector function $\mathbf{f}: \mathbb{R}^n \to \mathbb{R}^n$, find $\mathbf{x}^*$ such that $\mathbf{f}(\mathbf{x}^*) = \mathbf{0}$.
+the multivariate generalization of [Newton-Raphson method](../../02_Zettel/Theory/Newton-Raphson method.html). given a vector function $\mathbf{f}: \mathbb{R}^n \to \mathbb{R}^n$, find $\mathbf{x}^*$ such that $\mathbf{f}(\mathbf{x}^*) = \mathbf{0}$.
 
 ## the algorithm
 
@@ -80,8 +80,8 @@ when $\mathbf{f}$ comes from discretizing a PDE, the Jacobian inherits structure
 
 ## see also
 
-- [Newton-Raphson method](../../02_Zettel/Theory/Newton-Raphson method.md) — 1D version
-- [Bisection method](../../02_Zettel/Theory/Bisection method.md) — slower but bulletproof alternative
-- [Choosing a root finder](../../02_Zettel/Theory/Choosing a root finder.md)
-- [Linear least squares](../../02_Zettel/Theory/Linear least squares.md) — minimization is equivalent to root-finding on the gradient
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Newton-Raphson method](../../02_Zettel/Theory/Newton-Raphson method.html) — 1D version
+- [Bisection method](../../02_Zettel/Theory/Bisection method.html) — slower but bulletproof alternative
+- [Choosing a root finder](../../02_Zettel/Theory/Choosing a root finder.html)
+- [Linear least squares](../../02_Zettel/Theory/Linear least squares.html) — minimization is equivalent to root-finding on the gradient
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

@@ -53,11 +53,11 @@ H I lines become **strongest at $T \sim 10\,000$ K** (A-type stars) for a hard p
 
 ## see also
 
-- [Boltzmann equation in spectroscopy](../../02_Zettel/Theory/Boltzmann equation in spectroscopy.md)
-- [Saha ionisation equation](../../02_Zettel/Theory/Saha ionisation equation.md)
-- [Hydrogen spectral series](../../02_Zettel/Theory/Hydrogen spectral series.md)
-- [Helium population vs T](../../02_Zettel/Theory/Helium population vs T.md)
-- [Population of excited levels](../../02_Zettel/Theory/Population of excited levels.md)
-- [Why the Sequence OBAFGKM](../../02_Zettel/Theory/Why the Sequence OBAFGKM.md)
-- [Stellar spectra and spectral classification](../../02_Zettel/Theory/Stellar spectra and spectral classification.md)
+- [Boltzmann equation in spectroscopy](../../02_Zettel/Theory/Boltzmann equation in spectroscopy.html)
+- [Saha ionisation equation](../../02_Zettel/Theory/Saha ionisation equation.html)
+- [Hydrogen spectral series](../../02_Zettel/Theory/Hydrogen spectral series.html)
+- [Helium population vs T](../../02_Zettel/Theory/Helium population vs T.html)
+- [Population of excited levels](../../02_Zettel/Theory/Population of excited levels.html)
+- [Why the Sequence OBAFGKM](../../02_Zettel/Theory/Why the Sequence OBAFGKM.html)
+- [Stellar spectra and spectral classification](../../02_Zettel/Theory/Stellar spectra and spectral classification.html)
 - Energy level diagrams Grötrian

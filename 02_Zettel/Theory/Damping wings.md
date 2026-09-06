@@ -28,7 +28,7 @@ so $W \propto \sqrt{N}$, the slope $1/2$ of the curve-of-growth damping regime.
 
 ### stellar Balmer lines
 
-at $T \gtrsim 9000$ K (A0 stars), Stark broadening of H Balmer lines is very strong. the Balmer line profile has a Doppler core saturated to zero flux + extensive Stark damping wings extending tens of Å. the wing extent is a sensitive **gravity diagnostic** ([MK luminosity classes](../../02_Zettel/Theory/MK luminosity classes.md)).
+at $T \gtrsim 9000$ K (A0 stars), Stark broadening of H Balmer lines is very strong. the Balmer line profile has a Doppler core saturated to zero flux + extensive Stark damping wings extending tens of Å. the wing extent is a sensitive **gravity diagnostic** ([MK luminosity classes](../../02_Zettel/Theory/MK luminosity classes.html)).
 
 ### Ca II H + K
 
@@ -52,13 +52,13 @@ modern abundance pipelines (turbospectrum, MOOG) include damping wings in the li
 
 ## see also
 
-- [Voigt profile](../../02_Zettel/Theory/Voigt profile.md)
-- [Curve of growth](../../02_Zettel/Theory/Curve of growth.md)
-- [Equivalent width](../../02_Zettel/Theory/Equivalent width.md)
-- [Stark broadening](../../02_Zettel/Theory/Stark broadening.md)
-- [Collisional pressure broadening](../../02_Zettel/Theory/Collisional pressure broadening.md)
-- [Natural broadening Lorentzian](../../02_Zettel/Theory/Natural broadening Lorentzian.md)
-- [Optical depth](../../02_Zettel/Theory/Optical depth.md)
-- [Hydrogen spectral series](../../02_Zettel/Theory/Hydrogen spectral series.md)
-- [Calcium and CaII H+K](../../02_Zettel/Theory/Calcium and CaII H+K.md)
-- [Curve of growth abundance analysis](../../02_Zettel/Theory/Curve of growth abundance analysis.md)
+- [Voigt profile](../../02_Zettel/Theory/Voigt profile.html)
+- [Curve of growth](../../02_Zettel/Theory/Curve of growth.html)
+- [Equivalent width](../../02_Zettel/Theory/Equivalent width.html)
+- [Stark broadening](../../02_Zettel/Theory/Stark broadening.html)
+- [Collisional pressure broadening](../../02_Zettel/Theory/Collisional pressure broadening.html)
+- [Natural broadening Lorentzian](../../02_Zettel/Theory/Natural broadening Lorentzian.html)
+- [Optical depth](../../02_Zettel/Theory/Optical depth.html)
+- [Hydrogen spectral series](../../02_Zettel/Theory/Hydrogen spectral series.html)
+- [Calcium and CaII H+K](../../02_Zettel/Theory/Calcium and CaII H+K.html)
+- [Curve of growth abundance analysis](../../02_Zettel/Theory/Curve of growth abundance analysis.html)

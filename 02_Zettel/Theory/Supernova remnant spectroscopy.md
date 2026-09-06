@@ -68,13 +68,13 @@ the Crab is **the** prototype pulsar wind nebula, key calibrator for high-energy
 
 ## see also
 
-- [Supernova spectroscopy](../../02_Zettel/Theory/Supernova spectroscopy.md)
-- [H II region spectroscopy](../../02_Zettel/Theory/H II region spectroscopy.md)
-- [Forbidden lines](../../02_Zettel/Theory/Forbidden lines.md)
-- [SII forbidden lines](../../02_Zettel/Theory/SII forbidden lines.md)
-- [BPT diagram](../../02_Zettel/Theory/BPT diagram.md)
-- [Synchrotron continuum](../../02_Zettel/Theory/Synchrotron continuum.md)
-- [Synchroton](../../02_Zettel/Theory/Synchroton.md)
-- [Bremsstrahlung](../../02_Zettel/Theory/Bremsstrahlung.md)
-- [Photoionisation balance](../../02_Zettel/Theory/Photoionisation balance.md)
-- [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.md)
+- [Supernova spectroscopy](../../02_Zettel/Theory/Supernova spectroscopy.html)
+- [H II region spectroscopy](../../02_Zettel/Theory/H II region spectroscopy.html)
+- [Forbidden lines](../../02_Zettel/Theory/Forbidden lines.html)
+- [SII forbidden lines](../../02_Zettel/Theory/SII forbidden lines.html)
+- [BPT diagram](../../02_Zettel/Theory/BPT diagram.html)
+- [Synchrotron continuum](../../02_Zettel/Theory/Synchrotron continuum.html)
+- [Synchroton](../../02_Zettel/Theory/Synchroton.html)
+- [Bremsstrahlung](../../02_Zettel/Theory/Bremsstrahlung.html)
+- [Photoionisation balance](../../02_Zettel/Theory/Photoionisation balance.html)
+- [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.html)

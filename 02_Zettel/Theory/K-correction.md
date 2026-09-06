@@ -17,7 +17,7 @@ so my V-band magnitude is sampling the source's **near-UV** spectrum, not its V-
 the magnitude relation becomes
 $$\boxed{\, m = M + 5\log_{10}(d_L/10\,\text{pc}) + K(z)\,}$$
 
-where $d_L$ is the luminosity distance ([Luminosity distance](../../02_Zettel/Theory/Luminosity distance.md)) and $K(z)$ is the K-correction in the chosen band.
+where $d_L$ is the luminosity distance ([Luminosity distance](../../02_Zettel/Theory/Luminosity distance.html)) and $K(z)$ is the K-correction in the chosen band.
 
 in band $X$ at redshift $z$:
 $$K_X(z) = -2.5 \log_{10}\!\left[\frac{(1+z)\int F(\lambda) T_X(\lambda)\, d\lambda}{\int F(\lambda/(1+z)) T_X(\lambda)\, d\lambda}\right]$$
@@ -43,7 +43,7 @@ example: the Sun's SED. observed V-band at $z = 0.5$ samples rest-frame near-UV,
 at sub-mm wavelengths ($\sim 850\,\mu$m, SCUBA-2), the negative slope of the Wien tail of the warm-dust greybody means moving the source to higher $z$ samples a *brighter* part of the rest-frame SED. the K-correction can be **strongly negative**:
 $$K(z) < 0\quad\text{at sub-mm for } z \in [1, 10]$$
 
-consequence: dusty star-forming galaxies have **roughly constant flux** at $850\,\mu$m from $z \sim 1$ to $z \sim 10$. the sub-mm is the only optical-NIR-radio band where increasing $z$ does not fade the source. this is what enables ALMA/SCUBA surveys for high-$z$ dusty galaxies. see [K-correction in optical vs sub-mm](../../02_Zettel/Theory/K-correction in optical vs sub-mm.md).
+consequence: dusty star-forming galaxies have **roughly constant flux** at $850\,\mu$m from $z \sim 1$ to $z \sim 10$. the sub-mm is the only optical-NIR-radio band where increasing $z$ does not fade the source. this is what enables ALMA/SCUBA surveys for high-$z$ dusty galaxies. see [K-correction in optical vs sub-mm](../../02_Zettel/Theory/K-correction in optical vs sub-mm.html).
 
 ## practical computation
 
@@ -56,11 +56,11 @@ the python package `kcorrect` (Blanton) is the standard tool for SDSS-derived K-
 
 ## see also
 
-- [Distance modulus](../../02_Zettel/Theory/Distance modulus.md)
-- [K-correction in optical vs sub-mm](../../02_Zettel/Theory/K-correction in optical vs sub-mm.md)
-- [Luminosity distance](../../02_Zettel/Theory/Luminosity distance.md)
-- [Distance ladder derivations](../../02_Zettel/Theory/Distance ladder derivations.md)
-- [Photometric redshifts](../../02_Zettel/Theory/Photometric redshifts.md)
-- [Filter systems and bandpasses](../../02_Zettel/Theory/Filter systems and bandpasses.md)
-- [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.md)
-- [Cosmological redshift](../../02_Zettel/Theory/Cosmological redshift.md)
+- [Distance modulus](../../02_Zettel/Theory/Distance modulus.html)
+- [K-correction in optical vs sub-mm](../../02_Zettel/Theory/K-correction in optical vs sub-mm.html)
+- [Luminosity distance](../../02_Zettel/Theory/Luminosity distance.html)
+- [Distance ladder derivations](../../02_Zettel/Theory/Distance ladder derivations.html)
+- [Photometric redshifts](../../02_Zettel/Theory/Photometric redshifts.html)
+- [Filter systems and bandpasses](../../02_Zettel/Theory/Filter systems and bandpasses.html)
+- [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.html)
+- [Cosmological redshift](../../02_Zettel/Theory/Cosmological redshift.html)

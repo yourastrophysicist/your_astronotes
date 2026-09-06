@@ -96,7 +96,7 @@ equivalent to scaling each row of $A$ and each $y_i$ by $1/\sigma_i$:
 
 $$A_{ik} \to A_{ik}/\sigma_i, \quad y_i \to y_i/\sigma_i$$
 
-then solve as usual. see [Weighted least squares](../../02_Zettel/Theory/Weighted least squares.md).
+then solve as usual. see [Weighted least squares](../../02_Zettel/Theory/Weighted least squares.html).
 
 ## diagnostic: plot residuals
 
@@ -118,9 +118,9 @@ never trust a fit without looking at the residuals.
 
 ## see also
 
-- [Weighted least squares](../../02_Zettel/Theory/Weighted least squares.md)
-- [General linear least squares](../../02_Zettel/Theory/General linear least squares.md)
-- [Polynomial fitting](../../02_Zettel/Theory/Polynomial fitting.md)
-- [Goodness of fit and chi-squared](../../02_Zettel/Theory/Goodness of fit and chi-squared.md)
-- [QR decomposition](../../02_Zettel/Theory/QR decomposition.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Weighted least squares](../../02_Zettel/Theory/Weighted least squares.html)
+- [General linear least squares](../../02_Zettel/Theory/General linear least squares.html)
+- [Polynomial fitting](../../02_Zettel/Theory/Polynomial fitting.html)
+- [Goodness of fit and chi-squared](../../02_Zettel/Theory/Goodness of fit and chi-squared.html)
+- [QR decomposition](../../02_Zettel/Theory/QR decomposition.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

@@ -35,7 +35,7 @@ cooling rate scales as $L \propto Z$ (metal abundance) directly, since metal-lin
 - **low metallicity** ($Z \sim 0.01\,Z_\odot$): cooling weak, $T_e$ rises to $15\,000$ to $20\,000$ K (e.g. in extragalactic HII regions of dwarf galaxies, BCDs).
 - **very metal-rich** ($Z \sim 2\,Z_\odot$): cooling very efficient, $T_e \sim 5000$ to $7000$ K.
 
-so **$T_e$ is anti-correlated with metallicity**, the opposite of intuition. used as a metallicity diagnostic via direct $T_e$ measurements ([OIII forbidden lines](../../02_Zettel/Theory/OIII forbidden lines.md)).
+so **$T_e$ is anti-correlated with metallicity**, the opposite of intuition. used as a metallicity diagnostic via direct $T_e$ measurements ([OIII forbidden lines](../../02_Zettel/Theory/OIII forbidden lines.html)).
 
 ## H Lyman alpha cooling
 
@@ -47,7 +47,7 @@ since $E_{ul}/k_BT_e$ is large at typical $T_e$, the Boltzmann factor is small a
 
 ## free-free cooling
 
-at $T_e \sim 10^4$ K, free-free emission is **subdominant** to forbidden lines. but at $T \gtrsim 10^7$ K (cluster ICM, SNR shocks), free-free becomes the dominant cooling mechanism. see [Bremsstrahlung](../../02_Zettel/Theory/Bremsstrahlung.md).
+at $T_e \sim 10^4$ K, free-free emission is **subdominant** to forbidden lines. but at $T \gtrsim 10^7$ K (cluster ICM, SNR shocks), free-free becomes the dominant cooling mechanism. see [Bremsstrahlung](../../02_Zettel/Theory/Bremsstrahlung.html).
 
 ## the cooling timescale
 
@@ -57,12 +57,12 @@ $t_{\rm cool} = (3 n k_BT)/(2 L)$. for HII regions: $\sim 10^4$ years. compare w
 
 ## see also
 
-- [Heating rate in HII regions](../../02_Zettel/Theory/Heating rate in HII regions.md)
-- [Equilibrium temperature](../../02_Zettel/Theory/Equilibrium temperature.md)
-- [Cooling curve](../../02_Zettel/Theory/Cooling curve.md)
-- [Forbidden lines](../../02_Zettel/Theory/Forbidden lines.md)
-- [OIII forbidden lines](../../02_Zettel/Theory/OIII forbidden lines.md)
-- [Critical density](../../02_Zettel/Theory/Critical density.md)
-- [Two-level atom](../../02_Zettel/Theory/Two-level atom.md)
-- [Forbidden line diagnostics](../../02_Zettel/Theory/Forbidden line diagnostics.md)
-- [Metallicity and chemical evolution](../../02_Zettel/Theory/Metallicity and chemical evolution.md)
+- [Heating rate in HII regions](../../02_Zettel/Theory/Heating rate in HII regions.html)
+- [Equilibrium temperature](../../02_Zettel/Theory/Equilibrium temperature.html)
+- [Cooling curve](../../02_Zettel/Theory/Cooling curve.html)
+- [Forbidden lines](../../02_Zettel/Theory/Forbidden lines.html)
+- [OIII forbidden lines](../../02_Zettel/Theory/OIII forbidden lines.html)
+- [Critical density](../../02_Zettel/Theory/Critical density.html)
+- [Two-level atom](../../02_Zettel/Theory/Two-level atom.html)
+- [Forbidden line diagnostics](../../02_Zettel/Theory/Forbidden line diagnostics.html)
+- [Metallicity and chemical evolution](../../02_Zettel/Theory/Metallicity and chemical evolution.html)

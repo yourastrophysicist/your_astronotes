@@ -5,7 +5,7 @@ title: "Truncation error and order of accuracy"
 
 # Truncation error and order of accuracy
 
-every numerical algorithm replaces a continuous mathematical operation with a discrete approximation. the *truncation error* is what is lost in that replacement — the terms in the Taylor series that we throw away, the integral pieces that we approximate by trapezoids, the ODE step that we miss by linearizing. this is the *deterministic* error of the algorithm. the other kind, [roundoff](../../02_Zettel/Theory/Floating point representation and rounding errors.md), is the random error from finite precision. both matter, and they fight each other.
+every numerical algorithm replaces a continuous mathematical operation with a discrete approximation. the *truncation error* is what is lost in that replacement — the terms in the Taylor series that we throw away, the integral pieces that we approximate by trapezoids, the ODE step that we miss by linearizing. this is the *deterministic* error of the algorithm. the other kind, [roundoff](../../02_Zettel/Theory/Floating point representation and rounding errors.html), is the random error from finite precision. both matter, and they fight each other.
 
 ## the Taylor series anchor
 
@@ -82,12 +82,12 @@ $$h_{\rm opt} \sim \epsilon^{1/(p+1)}$$
 for forward-difference first derivative ($p = 1$): $h_{\rm opt} \sim \sqrt\epsilon \sim 10^{-8}$.
 for central difference ($p = 2$): $h_{\rm opt} \sim \epsilon^{1/3} \sim 10^{-5}$.
 
-this is why I cannot just "use very small $h$" to make finite differences accurate. see [Roundoff vs truncation balance](../../02_Zettel/Theory/Roundoff vs truncation balance.md) for the full picture.
+this is why I cannot just "use very small $h$" to make finite differences accurate. see [Roundoff vs truncation balance](../../02_Zettel/Theory/Roundoff vs truncation balance.html) for the full picture.
 
 ## see also
 
-- [Floating point representation and rounding errors](../../02_Zettel/Theory/Floating point representation and rounding errors.md)
-- [Roundoff vs truncation balance](../../02_Zettel/Theory/Roundoff vs truncation balance.md)
-- [Forward backward and central differences](../../02_Zettel/Theory/Forward backward and central differences.md)
-- [Trapezoidal rule](../../02_Zettel/Theory/Trapezoidal rule.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Floating point representation and rounding errors](../../02_Zettel/Theory/Floating point representation and rounding errors.html)
+- [Roundoff vs truncation balance](../../02_Zettel/Theory/Roundoff vs truncation balance.html)
+- [Forward backward and central differences](../../02_Zettel/Theory/Forward backward and central differences.html)
+- [Trapezoidal rule](../../02_Zettel/Theory/Trapezoidal rule.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

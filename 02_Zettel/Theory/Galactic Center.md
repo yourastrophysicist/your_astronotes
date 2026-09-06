@@ -74,15 +74,15 @@ the Galactic Center is:
 2. a **strong-field GR laboratory** (S2 pericenter, EHT shadow)
 3. a **template** for understanding AGN: low-luminosity AGN, quiescent supermassive holes
 4. a **cosmic ray and gamma-ray source**: Fermi sees diffuse gamma rays plus a possible "Galactic Center excess" that some interpret as dark matter annihilation
-5. evidence for the **M-sigma relation**: $M_\bullet \propto \sigma^4$ for galactic bulges (see [Magorrian relation](../../02_Zettel/Theory/Magorrian relation.md) in the Observational Cosmology MOC)
+5. evidence for the **M-sigma relation**: $M_\bullet \propto \sigma^4$ for galactic bulges (see [Magorrian relation](../../02_Zettel/Theory/Magorrian relation.html) in the Observational Cosmology MOC)
 
 ---
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Milky Way structure](../../02_Zettel/Theory/Milky Way structure.md)
-- [Cosmic_inventory_dark_matter](../../02_Zettel/Theory/Cosmic_inventory_dark_matter.md)
-- [Accretion onto compact objects](../../02_Zettel/Theory/Accretion onto compact objects.md)
-- [Magorrian relation](../../02_Zettel/Theory/Magorrian relation.md)
-- [Hubble morphological sequence](../../02_Zettel/Theory/Hubble morphological sequence.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Milky Way structure](../../02_Zettel/Theory/Milky Way structure.html)
+- [Cosmic_inventory_dark_matter](../../02_Zettel/Theory/Cosmic_inventory_dark_matter.html)
+- [Accretion onto compact objects](../../02_Zettel/Theory/Accretion onto compact objects.html)
+- [Magorrian relation](../../02_Zettel/Theory/Magorrian relation.html)
+- [Hubble morphological sequence](../../02_Zettel/Theory/Hubble morphological sequence.html)

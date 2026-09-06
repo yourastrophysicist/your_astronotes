@@ -5,7 +5,7 @@ title: "Other SFR tracer lines"
 
 # other SFR tracer lines
 
-up: [Pablo_03_Star_formation_in_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.md)
+up: [Pablo_03_Star_formation_in_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html)
 
 some emission lines play niche but important roles as SFR tracers when optical/UV recombination lines are unavailable or extinguished.
 
@@ -25,7 +25,7 @@ the $\lambda = 158\,\mu$m fine-structure line of C⁺ is the dominant coolant of
 
 - calibration: $L([\text{CII}])/L_{\text{FIR}} \sim 10^{-3}$ in normal SFGs, *drops* in ULIRGs ("[CII] deficit")
 - observable with ALMA from $z \sim 2$ to $z > 7$: the line redshifts into submm/mm where the sky is transparent
-- now the primary SFR tracer in the $z > 5$ universe via ALMA, in tandem with [UV SFR tracer](../../02_Zettel/Theory/UV SFR tracer.md)
+- now the primary SFR tracer in the $z > 5$ universe via ALMA, in tandem with [UV SFR tracer](../../02_Zettel/Theory/UV SFR tracer.html)
 
 ## [OIII] 88 μm, [NII] 122 μm, [SIII] 33 μm
 
@@ -45,9 +45,9 @@ Hnα at $\nu \sim $ GHz. extinction-free, but very weak. niche use in dusty Gala
 
 ## connections
 
-- main tracers: [H-alpha SFR tracer](../../02_Zettel/Theory/H-alpha SFR tracer.md), [UV SFR tracer](../../02_Zettel/Theory/UV SFR tracer.md), [IR SFR tracer](../../02_Zettel/Theory/IR SFR tracer.md), [Radio SFR tracer](../../02_Zettel/Theory/Radio SFR tracer.md)
-- extinction context: [Dust attenuation and extinction curves](../../02_Zettel/Theory/Dust attenuation and extinction curves.md)
-- comparison: [SFR tracer comparison](../../02_Zettel/Theory/SFR tracer comparison.md)
+- main tracers: [H-alpha SFR tracer](../../02_Zettel/Theory/H-alpha SFR tracer.html), [UV SFR tracer](../../02_Zettel/Theory/UV SFR tracer.html), [IR SFR tracer](../../02_Zettel/Theory/IR SFR tracer.html), [Radio SFR tracer](../../02_Zettel/Theory/Radio SFR tracer.html)
+- extinction context: [Dust attenuation and extinction curves](../../02_Zettel/Theory/Dust attenuation and extinction curves.html)
+- comparison: [SFR tracer comparison](../../02_Zettel/Theory/SFR tracer comparison.html)
 
 ## key references
 

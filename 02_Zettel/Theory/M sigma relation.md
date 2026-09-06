@@ -69,11 +69,11 @@ probably all three operate; modern simulations with feedback (IllustrisTNG, EAGL
 
 ## see also
 
-- [Magorrian relation](../../02_Zettel/Theory/Magorrian relation.md)
-- [Faber-Jackson relation](../../02_Zettel/Theory/Faber-Jackson relation.md)
-- [Stellar dynamics SMBH masses](../../02_Zettel/Theory/Stellar dynamics SMBH masses.md)
-- [Reverberation mapping](../../02_Zettel/Theory/Reverberation mapping.md)
-- [Water maser BH masses](../../02_Zettel/Theory/Water maser BH masses.md)
-- [AGN spectroscopy](../../02_Zettel/Theory/AGN spectroscopy.md)
-- [Galactic Center Sgr A and S-stars](../../02_Zettel/Theory/interf/Galactic Center Sgr A and S-stars.md)
-- [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.md)
+- [Magorrian relation](../../02_Zettel/Theory/Magorrian relation.html)
+- [Faber-Jackson relation](../../02_Zettel/Theory/Faber-Jackson relation.html)
+- [Stellar dynamics SMBH masses](../../02_Zettel/Theory/Stellar dynamics SMBH masses.html)
+- [Reverberation mapping](../../02_Zettel/Theory/Reverberation mapping.html)
+- [Water maser BH masses](../../02_Zettel/Theory/Water maser BH masses.html)
+- [AGN spectroscopy](../../02_Zettel/Theory/AGN spectroscopy.html)
+- [Galactic Center Sgr A and S-stars](../../02_Zettel/Theory/interf/Galactic Center Sgr A and S-stars.html)
+- [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.html)

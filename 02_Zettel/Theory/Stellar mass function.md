@@ -5,7 +5,7 @@ title: "Stellar mass function"
 
 # stellar mass function
 
-up: [Pablo_02_Statistical_properties_of_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.md)
+up: [Pablo_02_Statistical_properties_of_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html)
 
 ## from luminosity to mass
 
@@ -34,7 +34,7 @@ local SMF parameters (Cole et al. 2001 from 2MASS, Bell et al. 2003 from SDSS+2M
 
 ## bimodal SMF: passive vs star-forming
 
-just like the [Color bimodality of galaxies](../../02_Zettel/Theory/Color bimodality of galaxies.md), the SMF splits cleanly into two components:
+just like the [Color bimodality of galaxies](../../02_Zettel/Theory/Color bimodality of galaxies.html), the SMF splits cleanly into two components:
 
 - **passive (red sequence) SMF**: $M^*_{\text{pass}} \approx 7 \times 10^{10}\, M_\odot$, $\alpha \approx -0.4$ (flat faint end)
 - **star-forming (blue cloud) SMF**: $M^*_{\text{SF}} \approx 5 \times 10^{10}\, M_\odot$, $\alpha \approx -1.4$ (steep faint end)
@@ -46,21 +46,21 @@ the two cross around $M_* \sim 3 \times 10^{10}\, M_\odot$. above the crossover,
 the total SMF evolves modestly:
 
 - $M^*$ does not change much from $z \sim 2$ to $z = 0$ (mass scales freeze in early)
-- $\phi^*$ at high $M_*$ doubles since $z = 1$ (red sequence buildup, [Green valley and quenching tracks](../../02_Zettel/Theory/Green valley and quenching tracks.md))
+- $\phi^*$ at high $M_*$ doubles since $z = 1$ (red sequence buildup, [Green valley and quenching tracks](../../02_Zettel/Theory/Green valley and quenching tracks.html))
 - the low-mass slope $\alpha$ steepens slightly
 
-the integrated stellar mass density $\rho_*(z)$ rises by a factor $\sim 5$ from $z \sim 3$ to today (see [Cosmic stellar mass density growth](../../02_Zettel/Theory/Cosmic stellar mass density growth.md)).
+the integrated stellar mass density $\rho_*(z)$ rises by a factor $\sim 5$ from $z \sim 3$ to today (see [Cosmic stellar mass density growth](../../02_Zettel/Theory/Cosmic stellar mass density growth.html)).
 
 ## SMF vs HMF: the mismatch
 
-the predicted halo mass function (HMF) from $\Lambda$CDM is also Schechter-like (Press-Schechter), but with a *much* shallower exponential cutoff ($M^*_h \sim 10^{14}\,M_\odot$) and a *much* steeper faint-end slope ($\alpha_{\text{HMF}} \approx -1.9$). the two functions do not match in either parameter. the gap is the central puzzle of galaxy formation, see [Halo mass function vs galaxy mass function](../../02_Zettel/Theory/Halo mass function vs galaxy mass function.md) and [Stellar-to-halo mass ratio](../../02_Zettel/Theory/Stellar-to-halo mass ratio.md).
+the predicted halo mass function (HMF) from $\Lambda$CDM is also Schechter-like (Press-Schechter), but with a *much* shallower exponential cutoff ($M^*_h \sim 10^{14}\,M_\odot$) and a *much* steeper faint-end slope ($\alpha_{\text{HMF}} \approx -1.9$). the two functions do not match in either parameter. the gap is the central puzzle of galaxy formation, see [Halo mass function vs galaxy mass function](../../02_Zettel/Theory/Halo mass function vs galaxy mass function.html) and [Stellar-to-halo mass ratio](../../02_Zettel/Theory/Stellar-to-halo mass ratio.html).
 
 ## connections
 
-- baseline LF: [Luminosity function definition](../../02_Zettel/Theory/Luminosity function definition.md), [Schechter function](../../02_Zettel/Theory/Schechter function.md)
-- color split: [Color bimodality of galaxies](../../02_Zettel/Theory/Color bimodality of galaxies.md)
-- halo connection: [Halo mass function vs galaxy mass function](../../02_Zettel/Theory/Halo mass function vs galaxy mass function.md), [Stellar-to-halo mass ratio](../../02_Zettel/Theory/Stellar-to-halo mass ratio.md)
-- cosmic integral: [Cosmic stellar mass density growth](../../02_Zettel/Theory/Cosmic stellar mass density growth.md)
+- baseline LF: [Luminosity function definition](../../02_Zettel/Theory/Luminosity function definition.html), [Schechter function](../../02_Zettel/Theory/Schechter function.html)
+- color split: [Color bimodality of galaxies](../../02_Zettel/Theory/Color bimodality of galaxies.html)
+- halo connection: [Halo mass function vs galaxy mass function](../../02_Zettel/Theory/Halo mass function vs galaxy mass function.html), [Stellar-to-halo mass ratio](../../02_Zettel/Theory/Stellar-to-halo mass ratio.html)
+- cosmic integral: [Cosmic stellar mass density growth](../../02_Zettel/Theory/Cosmic stellar mass density growth.html)
 
 ## key references
 

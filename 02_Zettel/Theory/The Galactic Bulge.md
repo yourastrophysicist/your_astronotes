@@ -26,9 +26,9 @@ the age of the Galactic bulge directly constrains how the Milky Way formed and e
 
 - **galaxy formation history**: tells us whether the inner Galaxy formed rapidly at early times (collapse, mergers) or more gradually through secular evolution of the disk (bar formation + buckling).
 - **link to cosmology**: if the bulge is predominantly old ($\geq 10$ Gyr), it traces star formation at high redshift and provides a local benchmark for galaxy formation in the early Universe.
-- **chemical evolution**: combined with $[\alpha/{\rm Fe}]$, age constrains the timescale of chemical enrichment and the relative roles of [Type II vs Type Ia supernovae](../../02_Zettel/Theory/Cepheids and supernovae.md).
+- **chemical evolution**: combined with $[\alpha/{\rm Fe}]$, age constrains the timescale of chemical enrichment and the relative roles of [Type II vs Type Ia supernovae](../../02_Zettel/Theory/Cepheids and supernovae.html).
 - **structure-evolution connection**: helps disentangle classical bulge vs bar-driven (pseudo-bulge) components.
-- **calibration of stellar populations**: a key laboratory for testing stellar evolution models at high metallicity and for interpreting [unresolved stellar populations](../../02_Zettel/Theory/Resolved vs unresolved stellar populations.md) in external galaxies.
+- **calibration of stellar populations**: a key laboratory for testing stellar evolution models at high metallicity and for interpreting [unresolved stellar populations](../../02_Zettel/Theory/Resolved vs unresolved stellar populations.html) in external galaxies.
 
 ## the CMD of the bulge: observational challenges
 
@@ -42,7 +42,7 @@ the bulge sits behind the Galactic disk along our line of sight. the bulge CMD i
 
 ### 2. differential reddening
 
-photometry of bulge stars typically suffers from low-scale **differential reddening**. patchy dust in front of the bulge field artificially broadens the CMD sequences and can be confused with multiple populations or metallicity spreads. see [Effects of differential reddening on CMD analysis](../../02_Zettel/Theory/Effects of differential reddening on CMD analysis.md).
+photometry of bulge stars typically suffers from low-scale **differential reddening**. patchy dust in front of the bulge field artificially broadens the CMD sequences and can be confused with multiple populations or metallicity spreads. see [Effects of differential reddening on CMD analysis](../../02_Zettel/Theory/Effects of differential reddening on CMD analysis.html).
 
 ### approaches to decontamination
 
@@ -121,19 +121,19 @@ so the unresolved question: is the bulge a single old population with a tiny you
 ## the Galactic bulge in context
 
 connections to the rest of the course:
-- the bulge GCs (NGC 6528, NGC 6553, Liller 1, Terzan 5) are the metal-rich tail of the [Age-metallicity relation of Galactic GCs](../../02_Zettel/Theory/Age-metallicity relation of Galactic GCs.md).
-- Terzan 5 is famous for hosting **two metal populations** (Ferraro et al. 2009, Massari et al. 2014: $[{\rm Fe/H}] \sim -0.2$ + $\sim +0.3$, with an outlier $\sim -0.8$). it may be a **fossil bulge fragment**, not a true GC. see [Multiple populations in GCs discovery](../../02_Zettel/Theory/Multiple populations in GCs discovery.md).
-- the bulge bar links to dynamical bulge formation (boxy/peanut shape from bar buckling); see [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.md).
+- the bulge GCs (NGC 6528, NGC 6553, Liller 1, Terzan 5) are the metal-rich tail of the [Age-metallicity relation of Galactic GCs](../../02_Zettel/Theory/Age-metallicity relation of Galactic GCs.html).
+- Terzan 5 is famous for hosting **two metal populations** (Ferraro et al. 2009, Massari et al. 2014: $[{\rm Fe/H}] \sim -0.2$ + $\sim +0.3$, with an outlier $\sim -0.8$). it may be a **fossil bulge fragment**, not a true GC. see [Multiple populations in GCs discovery](../../02_Zettel/Theory/Multiple populations in GCs discovery.html).
+- the bulge bar links to dynamical bulge formation (boxy/peanut shape from bar buckling); see [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.html).
 - chemical evolution models (Matteucci & Romano 1999) predict the bulge formed at the same time or even faster than the Galactic halo, consistent with its $\alpha$-enhancement.
 
 ## see also
 
-- [Bulge microlensing surveys](../../02_Zettel/Theory/Bulge microlensing surveys.md)
-- [Bulge CMD complications](../../02_Zettel/Theory/Bulge CMD complications.md)
-- [Age-metallicity relation of Galactic GCs](../../02_Zettel/Theory/Age-metallicity relation of Galactic GCs.md)
-- [Galactic GC two-population age structure](../../02_Zettel/Theory/Galactic GC two-population age structure.md)
-- [Halo accretion from dwarf galaxies](../../02_Zettel/Theory/Halo accretion from dwarf galaxies.md)
-- [Effects of differential reddening on CMD analysis](../../02_Zettel/Theory/Effects of differential reddening on CMD analysis.md)
-- [Multiple populations in GCs discovery](../../02_Zettel/Theory/Multiple populations in GCs discovery.md)
-- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.md)
-- [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.md)
+- [Bulge microlensing surveys](../../02_Zettel/Theory/Bulge microlensing surveys.html)
+- [Bulge CMD complications](../../02_Zettel/Theory/Bulge CMD complications.html)
+- [Age-metallicity relation of Galactic GCs](../../02_Zettel/Theory/Age-metallicity relation of Galactic GCs.html)
+- [Galactic GC two-population age structure](../../02_Zettel/Theory/Galactic GC two-population age structure.html)
+- [Halo accretion from dwarf galaxies](../../02_Zettel/Theory/Halo accretion from dwarf galaxies.html)
+- [Effects of differential reddening on CMD analysis](../../02_Zettel/Theory/Effects of differential reddening on CMD analysis.html)
+- [Multiple populations in GCs discovery](../../02_Zettel/Theory/Multiple populations in GCs discovery.html)
+- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.html)
+- [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.html)

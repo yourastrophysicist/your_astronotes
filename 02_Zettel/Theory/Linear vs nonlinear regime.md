@@ -10,7 +10,7 @@ cosmological perturbations begin **linear** ($\delta \ll 1$, growing as $\delta 
 linear perturbations satisfy:
 $$\rho(\vec x) = \bar\rho(t)[1 + \delta(\vec x, t)], \quad |\delta| \ll 1$$
 
-linear theory predicts evolution by ODEs (see [Perturbations in an expanding universe](../../02_Zettel/Theory/Perturbations in an expanding universe.md)). evolution is solvable analytically.
+linear theory predicts evolution by ODEs (see [Perturbations in an expanding universe](../../02_Zettel/Theory/Perturbations in an expanding universe.html)). evolution is solvable analytically.
 
 once $\delta \sim 1$, **non-linear effects** dominate. linear theory **breaks down**. need full N-body simulations or analytic approximations.
 
@@ -49,7 +49,7 @@ $$\delta_c = 1.686$$
 
 so when **linear** $\delta$ reaches $1.686$, the **actual** $\delta \to \infty$ (collapse).
 
-see [Spherical collapse](../../02_Zettel/Theory/Spherical collapse.md).
+see [Spherical collapse](../../02_Zettel/Theory/Spherical collapse.html).
 
 ## Press-Schechter mass function
 
@@ -58,7 +58,7 @@ $$n(M, z)\,dM \propto \exp\!\left[-\frac{\delta_c^2}{2\sigma^2(M, z)}\right]$$
 
 where $\sigma^2(M, z)$ is the linear matter variance on scale $M$. so the **fraction of mass above a given collapse threshold** depends on the spectrum + growth factor.
 
-see [Press-Schechter halo mass function](../../02_Zettel/Theory/Press-Schechter halo mass function.md).
+see [Press-Schechter halo mass function](../../02_Zettel/Theory/Press-Schechter halo mass function.html).
 
 ## N-body simulations
 
@@ -69,7 +69,7 @@ for full non-linear evolution, **N-body simulations** are essential:
 
 these reproduce observed galaxy + cluster + LSS statistics.
 
-see [N-body simulations](../../02_Zettel/Theory/N-body simulations.md).
+see [N-body simulations](../../02_Zettel/Theory/N-body simulations.html).
 
 ## the implications for observations
 
@@ -84,13 +84,13 @@ modern cosmological analyses combine **all** regimes: linear + non-linear, CMB +
 
 ## see also
 
-- [Linear evolution of perturbations in expanding universe](../../02_Zettel/Theory/Linear evolution of perturbations in expanding universe.md)
-- [Cosmological evolution of perturbations in the cosmic fluid](../../02_Zettel/Theory/Cosmological evolution of perturbations in the cosmic fluid.md)
-- [Perturbations in an expanding universe](../../02_Zettel/Theory/Perturbations in an expanding universe.md)
-- [Spherical collapse](../../02_Zettel/Theory/Spherical collapse.md)
-- [Press-Schechter halo mass function](../../02_Zettel/Theory/Press-Schechter halo mass function.md)
-- [N-body simulations](../../02_Zettel/Theory/N-body simulations.md)
+- [Linear evolution of perturbations in expanding universe](../../02_Zettel/Theory/Linear evolution of perturbations in expanding universe.html)
+- [Cosmological evolution of perturbations in the cosmic fluid](../../02_Zettel/Theory/Cosmological evolution of perturbations in the cosmic fluid.html)
+- [Perturbations in an expanding universe](../../02_Zettel/Theory/Perturbations in an expanding universe.html)
+- [Spherical collapse](../../02_Zettel/Theory/Spherical collapse.html)
+- [Press-Schechter halo mass function](../../02_Zettel/Theory/Press-Schechter halo mass function.html)
+- [N-body simulations](../../02_Zettel/Theory/N-body simulations.html)
 - [Growth factor D(z)](../../02_Zettel/Theory/Growth factor D(z).md)
-- [Matter power spectrum and BAO](../../02_Zettel/Theory/Matter power spectrum and BAO.md)
-- [Jeans analysis in expanding universe](../../02_Zettel/Theory/Jeans analysis in expanding universe.md)
-- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md)
+- [Matter power spectrum and BAO](../../02_Zettel/Theory/Matter power spectrum and BAO.html)
+- [Jeans analysis in expanding universe](../../02_Zettel/Theory/Jeans analysis in expanding universe.html)
+- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html)

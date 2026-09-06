@@ -45,7 +45,7 @@ masses inferred from:
 EHT 2022 published the first image of Sgr A* itself:
 - **bright ring** of size ~50 μas (smaller than M87 because Sgr A* is closer)
 - **dark center** also from the photon sphere
-- mass $M_{\rm BH} = 4.3 \times 10^6 M_\odot$, consistent with [GRAVITY S-star](../../02_Zettel/Theory/interf/Galactic Center Sgr A and S-stars.md) measurements
+- mass $M_{\rm BH} = 4.3 \times 10^6 M_\odot$, consistent with [GRAVITY S-star](../../02_Zettel/Theory/interf/Galactic Center Sgr A and S-stars.html) measurements
 
 both M87 and Sgr A* images confirm GR predictions for the photon ring at $\sim 1$ percent precision in linear scale.
 
@@ -103,8 +103,8 @@ planned:
 
 ## see also
 
-- [Event Horizon Telescope EHT](../../02_Zettel/Theory/interf/Event Horizon Telescope EHT.md)
-- [Galactic Center Sgr A and S-stars](../../02_Zettel/Theory/interf/Galactic Center Sgr A and S-stars.md)
-- [VLTI Very Large Telescope Interferometer](../../02_Zettel/Theory/interf/VLTI Very Large Telescope Interferometer.md)
-- [Pulsar timing arrays as interferometers](../../02_Zettel/Theory/interf/Pulsar timing arrays as interferometers.md)
-- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Event Horizon Telescope EHT](../../02_Zettel/Theory/interf/Event Horizon Telescope EHT.html)
+- [Galactic Center Sgr A and S-stars](../../02_Zettel/Theory/interf/Galactic Center Sgr A and S-stars.html)
+- [VLTI Very Large Telescope Interferometer](../../02_Zettel/Theory/interf/VLTI Very Large Telescope Interferometer.html)
+- [Pulsar timing arrays as interferometers](../../02_Zettel/Theory/interf/Pulsar timing arrays as interferometers.html)
+- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.html)

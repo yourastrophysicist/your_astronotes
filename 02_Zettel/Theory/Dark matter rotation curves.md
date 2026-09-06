@@ -75,11 +75,11 @@ mass-to-light for the **whole halo**: $M_{\rm tot}/L \sim 10$ to $30$ for typica
 
 ## see also
 
-- [Cosmic_inventory_dark_matter](../../02_Zettel/Theory/Cosmic_inventory_dark_matter.md)
-- [Tully-Fisher relation](../../02_Zettel/Theory/Tully-Fisher relation.md)
-- [Spiral arm kinematics](../../02_Zettel/Theory/Spiral arm kinematics.md)
-- [Dark matter in elliptical galaxies](../../02_Zettel/Theory/Dark matter in elliptical galaxies.md)
-- [Dark matter in dwarf galaxies](../../02_Zettel/Theory/Dark matter in dwarf galaxies.md)
-- [MOND](../../02_Zettel/Theory/MOND.md)
-- [Lensing as a cosmological probe](../../02_Zettel/Theory/Lensing as a cosmological probe.md)
-- [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.md)
+- [Cosmic_inventory_dark_matter](../../02_Zettel/Theory/Cosmic_inventory_dark_matter.html)
+- [Tully-Fisher relation](../../02_Zettel/Theory/Tully-Fisher relation.html)
+- [Spiral arm kinematics](../../02_Zettel/Theory/Spiral arm kinematics.html)
+- [Dark matter in elliptical galaxies](../../02_Zettel/Theory/Dark matter in elliptical galaxies.html)
+- [Dark matter in dwarf galaxies](../../02_Zettel/Theory/Dark matter in dwarf galaxies.html)
+- [MOND](../../02_Zettel/Theory/MOND.html)
+- [Lensing as a cosmological probe](../../02_Zettel/Theory/Lensing as a cosmological probe.html)
+- [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.html)

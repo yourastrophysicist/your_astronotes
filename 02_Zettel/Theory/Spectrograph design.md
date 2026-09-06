@@ -63,14 +63,14 @@ so $\eta_{\rm tot} \approx 0.2$ to $0.3$ at peak. spectrographs are inefficient 
 
 ## see also
 
-- [Grating equation](../../02_Zettel/Theory/Grating equation.md)
-- [Dispersion and spectral resolution](../../02_Zettel/Theory/Dispersion and spectral resolution.md)
-- [Spectrograph types](../../02_Zettel/Theory/Spectrograph types.md)
-- [Echelle spectroscopy](../../02_Zettel/Theory/Echelle spectroscopy.md)
-- [Multi-object spectroscopy MOS](../../02_Zettel/Theory/Multi-object spectroscopy MOS.md)
-- [Integral-field spectroscopy IFU](../../02_Zettel/Theory/Integral-field spectroscopy IFU.md)
-- [Wavelength calibration](../../02_Zettel/Theory/Wavelength calibration.md)
-- [Flux calibration](../../02_Zettel/Theory/interf/Flux calibration.md)
-- [Spectrum reduction pipeline](../../02_Zettel/Theory/Spectrum reduction pipeline.md)
-- [Atmospheric seeing](../../02_Zettel/Theory/interf/Atmospheric seeing.md) — what sets the slit width
-- [CCD detectors and SNR](../../02_Zettel/Theory/CCD detectors and SNR.md)
+- [Grating equation](../../02_Zettel/Theory/Grating equation.html)
+- [Dispersion and spectral resolution](../../02_Zettel/Theory/Dispersion and spectral resolution.html)
+- [Spectrograph types](../../02_Zettel/Theory/Spectrograph types.html)
+- [Echelle spectroscopy](../../02_Zettel/Theory/Echelle spectroscopy.html)
+- [Multi-object spectroscopy MOS](../../02_Zettel/Theory/Multi-object spectroscopy MOS.html)
+- [Integral-field spectroscopy IFU](../../02_Zettel/Theory/Integral-field spectroscopy IFU.html)
+- [Wavelength calibration](../../02_Zettel/Theory/Wavelength calibration.html)
+- [Flux calibration](../../02_Zettel/Theory/interf/Flux calibration.html)
+- [Spectrum reduction pipeline](../../02_Zettel/Theory/Spectrum reduction pipeline.html)
+- [Atmospheric seeing](../../02_Zettel/Theory/interf/Atmospheric seeing.html) — what sets the slit width
+- [CCD detectors and SNR](../../02_Zettel/Theory/CCD detectors and SNR.html)

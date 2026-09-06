@@ -70,7 +70,7 @@ this is the basis of the **Rayleigh quotient iteration**: at each step, set $\si
 
 ### subspace iteration
 
-run power iteration on $K > 1$ orthogonal vectors simultaneously, with re-orthogonalization (via Gram-Schmidt or QR) between steps. converges to the $K$ dominant eigenvectors at once. this is essentially the [QR algorithm for eigenvalues](../../02_Zettel/Theory/QR algorithm for eigenvalues.md) in disguise.
+run power iteration on $K > 1$ orthogonal vectors simultaneously, with re-orthogonalization (via Gram-Schmidt or QR) between steps. converges to the $K$ dominant eigenvectors at once. this is essentially the [QR algorithm for eigenvalues](../../02_Zettel/Theory/QR algorithm for eigenvalues.html) in disguise.
 
 ## limitations
 
@@ -103,7 +103,7 @@ vals, vecs = eigs(A_sparse, k=5, which='LM')        # largest magnitude
 
 ## see also
 
-- [QR algorithm for eigenvalues](../../02_Zettel/Theory/QR algorithm for eigenvalues.md)
-- [QR decomposition](../../02_Zettel/Theory/QR decomposition.md)
-- [Matrix diagonalization $A = VDV^T$](../../02_Zettel/Theory/Matrix diagonalization $A = VDV^T$.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [QR algorithm for eigenvalues](../../02_Zettel/Theory/QR algorithm for eigenvalues.html)
+- [QR decomposition](../../02_Zettel/Theory/QR decomposition.html)
+- [Matrix diagonalization $A = VDV^T$](../../02_Zettel/Theory/Matrix diagonalization $A = VDV^T$.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

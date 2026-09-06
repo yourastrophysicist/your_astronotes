@@ -3,7 +3,7 @@ layout: default
 title: "N-body simulations"
 ---
 
-**N-body simulations** numerically follow the gravitational evolution of $\sim 10^9$ to $10^{12}$ "particles" representing dark matter (+ optionally baryons) under their mutual gravity. the standard tool for predicting the **non-linear regime** of structure formation. (companion: [Astrophysical N-body problem formulation](../../02_Zettel/Theory/Astrophysical N-body problem formulation.md) for the algorithmic side.)
+**N-body simulations** numerically follow the gravitational evolution of $\sim 10^9$ to $10^{12}$ "particles" representing dark matter (+ optionally baryons) under their mutual gravity. the standard tool for predicting the **non-linear regime** of structure formation. (companion: [Astrophysical N-body problem formulation](../../02_Zettel/Theory/Astrophysical N-body problem formulation.html) for the algorithmic side.)
 
 ## the basic problem
 
@@ -82,13 +82,13 @@ simulations underpin:
 
 ## see also
 
-- [Astrophysical N-body problem formulation](../../02_Zettel/Theory/Astrophysical N-body problem formulation.md)
-- [Collisional vs collisionless N-body](../../02_Zettel/Theory/Collisional vs collisionless N-body.md)
-- [N-body with Euler vs midpoint vs leapfrog](../../02_Zettel/Theory/N-body with Euler vs midpoint vs leapfrog.md)
-- [Linear vs nonlinear regime](../../02_Zettel/Theory/Linear vs nonlinear regime.md)
-- [Spherical collapse](../../02_Zettel/Theory/Spherical collapse.md)
-- [Press-Schechter halo mass function](../../02_Zettel/Theory/Press-Schechter halo mass function.md)
-- [Halo mass function vs galaxy mass function](../../02_Zettel/Theory/Halo mass function vs galaxy mass function.md)
-- [Matter power spectrum and BAO](../../02_Zettel/Theory/Matter power spectrum and BAO.md)
-- [Cosmic_inventory_dark_matter](../../02_Zettel/Theory/Cosmic_inventory_dark_matter.md)
-- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md)
+- [Astrophysical N-body problem formulation](../../02_Zettel/Theory/Astrophysical N-body problem formulation.html)
+- [Collisional vs collisionless N-body](../../02_Zettel/Theory/Collisional vs collisionless N-body.html)
+- [N-body with Euler vs midpoint vs leapfrog](../../02_Zettel/Theory/N-body with Euler vs midpoint vs leapfrog.html)
+- [Linear vs nonlinear regime](../../02_Zettel/Theory/Linear vs nonlinear regime.html)
+- [Spherical collapse](../../02_Zettel/Theory/Spherical collapse.html)
+- [Press-Schechter halo mass function](../../02_Zettel/Theory/Press-Schechter halo mass function.html)
+- [Halo mass function vs galaxy mass function](../../02_Zettel/Theory/Halo mass function vs galaxy mass function.html)
+- [Matter power spectrum and BAO](../../02_Zettel/Theory/Matter power spectrum and BAO.html)
+- [Cosmic_inventory_dark_matter](../../02_Zettel/Theory/Cosmic_inventory_dark_matter.html)
+- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html)

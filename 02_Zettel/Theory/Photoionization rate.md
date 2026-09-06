@@ -59,10 +59,10 @@ the **dimensionless ionisation parameter**. controls the ionisation state of the
 
 ## see also
 
-- [Collisional ionisation rate](../../02_Zettel/Theory/Collisional ionisation rate.md)
-- [Recombination rate](../../02_Zettel/Theory/Recombination rate.md)
-- [Photoionisation balance](../../02_Zettel/Theory/Photoionisation balance.md)
-- [Ionisation parameter U](../../02_Zettel/Theory/Ionisation parameter U.md)
+- [Collisional ionisation rate](../../02_Zettel/Theory/Collisional ionisation rate.html)
+- [Recombination rate](../../02_Zettel/Theory/Recombination rate.html)
+- [Photoionisation balance](../../02_Zettel/Theory/Photoionisation balance.html)
+- [Ionisation parameter U](../../02_Zettel/Theory/Ionisation parameter U.html)
 - Strömgren sphere
-- [Photoelectric absorption](../../02_Zettel/Theory/Photoelectric absorption.md)
-- [Photoionisation balance](../../02_Zettel/Theory/Photoionisation balance.md)
+- [Photoelectric absorption](../../02_Zettel/Theory/Photoelectric absorption.html)
+- [Photoionisation balance](../../02_Zettel/Theory/Photoionisation balance.html)

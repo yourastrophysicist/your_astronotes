@@ -5,7 +5,7 @@ title: "What is machine learning"
 
 # What is machine learning
 
-a one-page summary of the field that Mapelli's notes touch on briefly. ML is *fitting models to data*, but with much greater flexibility than the parametric models of [Linear least squares](../../02_Zettel/Theory/Linear least squares.md) or [Non-linear fitting with scipy](../../02_Zettel/Theory/Non-linear fitting with scipy.md) — and the field has developed its own vocabulary, recipes, and pitfalls.
+a one-page summary of the field that Mapelli's notes touch on briefly. ML is *fitting models to data*, but with much greater flexibility than the parametric models of [Linear least squares](../../02_Zettel/Theory/Linear least squares.html) or [Non-linear fitting with scipy](../../02_Zettel/Theory/Non-linear fitting with scipy.html) — and the field has developed its own vocabulary, recipes, and pitfalls.
 
 ## the core distinction: supervised vs unsupervised
 
@@ -125,7 +125,7 @@ ML is full of footguns. the discipline is in the *experimental protocol* (proper
 
 ## see also
 
-- [Decision tree classifier](../../02_Zettel/Theory/Decision tree classifier.md)
-- [Iris dataset and the ML hello world](../../02_Zettel/Theory/Iris dataset and the ML hello world.md)
-- [Interpretability vs accuracy in ML](../../02_Zettel/Theory/Interpretability vs accuracy in ML.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Decision tree classifier](../../02_Zettel/Theory/Decision tree classifier.html)
+- [Iris dataset and the ML hello world](../../02_Zettel/Theory/Iris dataset and the ML hello world.html)
+- [Interpretability vs accuracy in ML](../../02_Zettel/Theory/Interpretability vs accuracy in ML.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

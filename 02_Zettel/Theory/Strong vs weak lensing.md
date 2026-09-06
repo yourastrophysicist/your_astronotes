@@ -69,10 +69,10 @@ both are essential complementary probes.
 ## see also
 
 - Gravitational lensing — intro
-- [Lensing as a cosmological probe](../../02_Zettel/Theory/Lensing as a cosmological probe.md)
-- [Light deflection](../../02_Zettel/Theory/Light deflection.md)
-- [Cosmic_inventory_dark_matter](../../02_Zettel/Theory/Cosmic_inventory_dark_matter.md)
+- [Lensing as a cosmological probe](../../02_Zettel/Theory/Lensing as a cosmological probe.html)
+- [Light deflection](../../02_Zettel/Theory/Light deflection.html)
+- [Cosmic_inventory_dark_matter](../../02_Zettel/Theory/Cosmic_inventory_dark_matter.html)
 - 03_Zettel/Theory/Cosmological distances
-- [ΛCDM current parameters](../../02_Zettel/Theory/ΛCDM current parameters.md)
-- [Hubble law](../../02_Zettel/Theory/Hubble law.md)
-- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md)
+- [ΛCDM current parameters](../../02_Zettel/Theory/ΛCDM current parameters.html)
+- [Hubble law](../../02_Zettel/Theory/Hubble law.html)
+- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html)

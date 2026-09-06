@@ -47,7 +47,7 @@ It is important not to confuse seeing and transparency:
 
 Turbulence in the atmosphere scrambles the wavefront of starlight
 	causing **image blurring** (seeing) and **brightness fluctuations** (scintillation / twinkling)
-		see [Seeing Effect](../../../02_Zettel/Theory/Seeing Effect.md) for the full treatment including the Fried parameter and Kolmogorov turbulence
+		see [Seeing Effect](../../../02_Zettel/Theory/Seeing Effect.html) for the full treatment including the Fried parameter and Kolmogorov turbulence
 
 The seeing **degrades angular resolution** — for a large aperture telescope the seeing limit is:
 $$\theta_{seeing} \approx \frac{\lambda}{r_0} \sim 0.5'' - 2''$$
@@ -67,7 +67,7 @@ Transmission of the Earth's atmosphere as a function of wavelength. Only the opt
 
 At X-ray energies:
 	photons are absorbed by **photoelectric absorption** by atmospheric atoms (N, O, Ar)
-		the cross section $\sigma_{ph} \propto Z^{4-5}/E^3$ — see [Photoelectric absorption](../../../02_Zettel/Theory/Photoelectric absorption.md)
+		the cross section $\sigma_{ph} \propto Z^{4-5}/E^3$ — see [Photoelectric absorption](../../../02_Zettel/Theory/Photoelectric absorption.html)
 			even at $E = 10~\text{keV}$: the optical depth $\tau_{atm} \gg 1$ — **complete opacity**
 
 The atmospheric column density:

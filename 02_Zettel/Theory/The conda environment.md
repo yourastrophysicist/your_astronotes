@@ -118,6 +118,6 @@ git add environment.yml; git commit -m "add scikit-learn"
 
 ## see also
 
-- [Linux for the astrophysicist](../../02_Zettel/Theory/Linux for the astrophysicist.md)
-- [Python language essentials](../../02_Zettel/Theory/Python language essentials.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Linux for the astrophysicist](../../02_Zettel/Theory/Linux for the astrophysicist.html)
+- [Python language essentials](../../02_Zettel/Theory/Python language essentials.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

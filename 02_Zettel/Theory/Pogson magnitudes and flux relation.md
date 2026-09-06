@@ -53,7 +53,7 @@ this is why mmag photometry is the gold standard for transit detection and aster
 
 - **apparent magnitude** $m$: what an observer measures; depends on distance.
 - **absolute magnitude** $M$: what would be measured at $d = 10$ pc; intrinsic.
-- **distance modulus** $\mu = m - M = 5\log_{10}(d/10\,\text{pc})$. see [Distance modulus](../../02_Zettel/Theory/Distance modulus.md).
+- **distance modulus** $\mu = m - M = 5\log_{10}(d/10\,\text{pc})$. see [Distance modulus](../../02_Zettel/Theory/Distance modulus.html).
 
 for the Sun: $m_V \approx -26.74$ (very bright apparent), $M_V = +4.83$ (modest absolute). the $\mu = -31.57$ tells you the Sun is **very close**.
 
@@ -63,9 +63,9 @@ historical accident; people used logs and chose a coefficient that made Hipparch
 
 ## see also
 
-- [Magnitudes and photometric systems](../../02_Zettel/Theory/Magnitudes and photometric systems.md)
-- [Distance modulus](../../02_Zettel/Theory/Distance modulus.md)
-- [Specific intensity flux luminosity](../../02_Zettel/Theory/Specific intensity flux luminosity.md)
-- [Color indices](../../02_Zettel/Theory/Color indices.md)
-- [Filter systems and bandpasses](../../02_Zettel/Theory/Filter systems and bandpasses.md)
-- [Atmospheric extinction](../../02_Zettel/Theory/interf/Atmospheric extinction.md)
+- [Magnitudes and photometric systems](../../02_Zettel/Theory/Magnitudes and photometric systems.html)
+- [Distance modulus](../../02_Zettel/Theory/Distance modulus.html)
+- [Specific intensity flux luminosity](../../02_Zettel/Theory/Specific intensity flux luminosity.html)
+- [Color indices](../../02_Zettel/Theory/Color indices.html)
+- [Filter systems and bandpasses](../../02_Zettel/Theory/Filter systems and bandpasses.html)
+- [Atmospheric extinction](../../02_Zettel/Theory/interf/Atmospheric extinction.html)

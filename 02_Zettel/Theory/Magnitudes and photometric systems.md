@@ -77,7 +77,7 @@ color is essentially a proxy for **temperature** — a quasi-blackbody spectrum 
 - G2 (Sun): $B - V = 0.65$
 - M0: $B - V \approx 1.40$
 
-so two-band photometry alone gives a rough $T$ estimate. add a third band and you can also estimate dust reddening — see [Interstellar absorption](../../02_Zettel/Theory/Interstellar absorption.md).
+so two-band photometry alone gives a rough $T$ estimate. add a third band and you can also estimate dust reddening — see [Interstellar absorption](../../02_Zettel/Theory/Interstellar absorption.html).
 
 ---
 
@@ -134,12 +134,12 @@ modern professional astronomy still uses magnitudes universally, even though we 
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Electromagnetic radiation basics](../../02_Zettel/Theory/Electromagnetic radiation basics.md)
-- [Blackbody radiation and Stefan-Boltzmann](../../02_Zettel/Theory/Blackbody radiation and Stefan-Boltzmann.md)
-- [Stellar spectra and spectral classification](../../02_Zettel/Theory/Stellar spectra and spectral classification.md)
-- [Interstellar absorption](../../02_Zettel/Theory/Interstellar absorption.md)
-- [Parallax and standard candles](../../02_Zettel/Theory/Parallax and standard candles.md)
-- [Cepheids and supernovae](../../02_Zettel/Theory/Cepheids and supernovae.md)
-- [HR diagram](../../02_Zettel/Theory/HR diagram.md)
-- [Luminosity and Flux for -Instrumentations](../../02_Zettel/Theory/Luminosity and Flux for -Instrumentations.md) — X-ray version
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Electromagnetic radiation basics](../../02_Zettel/Theory/Electromagnetic radiation basics.html)
+- [Blackbody radiation and Stefan-Boltzmann](../../02_Zettel/Theory/Blackbody radiation and Stefan-Boltzmann.html)
+- [Stellar spectra and spectral classification](../../02_Zettel/Theory/Stellar spectra and spectral classification.html)
+- [Interstellar absorption](../../02_Zettel/Theory/Interstellar absorption.html)
+- [Parallax and standard candles](../../02_Zettel/Theory/Parallax and standard candles.html)
+- [Cepheids and supernovae](../../02_Zettel/Theory/Cepheids and supernovae.html)
+- [HR diagram](../../02_Zettel/Theory/HR diagram.html)
+- [Luminosity and Flux for -Instrumentations](../../02_Zettel/Theory/Luminosity and Flux for -Instrumentations.html) — X-ray version

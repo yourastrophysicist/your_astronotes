@@ -147,10 +147,10 @@ so Fresnel-Arago, classical optics from 1819, is the classical analogue of the q
 
 ## see also
 
-- [Light waves and the EM spectrum](../../02_Zettel/Theory/interf/Light waves and the EM spectrum.md)
-- [Polarization in interferometry](../../02_Zettel/Theory/interf/Polarization in interferometry.md)
-- [Optical path difference OPD](../../02_Zettel/Theory/interf/Optical path difference OPD.md)
-- [Superposition and interference](../../02_Zettel/Theory/interf/Superposition and interference.md)
-- [Beam splitter physics](../../02_Zettel/Theory/interf/Beam splitter physics.md)
-- [Coherence function and visibility](../../02_Zettel/Theory/interf/Coherence function and visibility.md)
-- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Light waves and the EM spectrum](../../02_Zettel/Theory/interf/Light waves and the EM spectrum.html)
+- [Polarization in interferometry](../../02_Zettel/Theory/interf/Polarization in interferometry.html)
+- [Optical path difference OPD](../../02_Zettel/Theory/interf/Optical path difference OPD.html)
+- [Superposition and interference](../../02_Zettel/Theory/interf/Superposition and interference.html)
+- [Beam splitter physics](../../02_Zettel/Theory/interf/Beam splitter physics.html)
+- [Coherence function and visibility](../../02_Zettel/Theory/interf/Coherence function and visibility.html)
+- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.html)

@@ -32,7 +32,7 @@ so the CMB is **the oldest electromagnetic signal** we can detect. its features 
 
 ## the photon density
 
-derived in [Cosmic_inventory_photons_derivation](../../02_Zettel/Theory/Cosmic_inventory_photons_derivation.md):
+derived in [Cosmic_inventory_photons_derivation](../../02_Zettel/Theory/Cosmic_inventory_photons_derivation.html):
 - $n_\gamma = (2\zeta(3)/\pi^2)(k_BT/\hbar c)^3 \approx 411$ cm$^{-3}$ today.
 - $\rho_\gamma = (\pi^2/15)(k_BT)^4/(\hbar c)^3 \approx 4.18 \times 10^{-13}$ erg/cm$^3$.
 - $\Omega_{0\gamma} \approx 2.47 \times 10^{-5}\,h^{-2}$.
@@ -59,13 +59,13 @@ current limits (FIRAS): $\mu/T < 9\times 10^{-5}$, $y < 1.5\times 10^{-5}$. futu
 
 ## see also
 
-- [Cosmic_inventory_photons](../../02_Zettel/Theory/Cosmic_inventory_photons.md)
-- [Cosmic_inventory_photons_derivation](../../02_Zettel/Theory/Cosmic_inventory_photons_derivation.md)
-- [Photon decoupling and CMB](../../02_Zettel/Theory/Photon decoupling and CMB.md)
-- [Saha equation and recombination](../../02_Zettel/Theory/Saha equation and recombination.md)
-- [CMB anisotropies](../../02_Zettel/Theory/CMB anisotropies.md)
-- [CMB power spectrum](../../02_Zettel/Theory/CMB power spectrum.md)
-- [Polarization E and B modes](../../02_Zettel/Theory/Polarization E and B modes.md)
+- [Cosmic_inventory_photons](../../02_Zettel/Theory/Cosmic_inventory_photons.html)
+- [Cosmic_inventory_photons_derivation](../../02_Zettel/Theory/Cosmic_inventory_photons_derivation.html)
+- [Photon decoupling and CMB](../../02_Zettel/Theory/Photon decoupling and CMB.html)
+- [Saha equation and recombination](../../02_Zettel/Theory/Saha equation and recombination.html)
+- [CMB anisotropies](../../02_Zettel/Theory/CMB anisotropies.html)
+- [CMB power spectrum](../../02_Zettel/Theory/CMB power spectrum.html)
+- [Polarization E and B modes](../../02_Zettel/Theory/Polarization E and B modes.html)
 - CMB Spectral Distortions — What They Are and Where They Come From
-- [Brief thermal history](../../02_Zettel/Theory/Brief thermal history.md)
-- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md)
+- [Brief thermal history](../../02_Zettel/Theory/Brief thermal history.html)
+- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html)

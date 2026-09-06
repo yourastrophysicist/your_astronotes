@@ -5,7 +5,7 @@ title: "Molecular clouds"
 
 # molecular clouds
 
-up: [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.md) · [Interstellar medium components and gas cycle](../../02_Zettel/Theory/Interstellar medium components and gas cycle.md)
+up: [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.html) · [Interstellar medium components and gas cycle](../../02_Zettel/Theory/Interstellar medium components and gas cycle.html)
 
 ## properties of giant molecular clouds (gmcs)
 
@@ -43,5 +43,5 @@ Larson (1981) established three empirical scaling relations for virialized GMCs:
 
 ## connections
 
-- star formation law: [Schmidt-Kennicutt law](../../02_Zettel/Theory/Schmidt-Kennicutt law.md)
-- ism context: [Interstellar medium components and gas cycle](../../02_Zettel/Theory/Interstellar medium components and gas cycle.md)
+- star formation law: [Schmidt-Kennicutt law](../../02_Zettel/Theory/Schmidt-Kennicutt law.html)
+- ism context: [Interstellar medium components and gas cycle](../../02_Zettel/Theory/Interstellar medium components and gas cycle.html)

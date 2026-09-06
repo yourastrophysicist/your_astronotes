@@ -20,7 +20,7 @@
     </div>
     <nav style="display: flex; align-items: center; gap: 20px; font-size: 0.95rem; font-weight: 600;">
       <a href="{{ '/' | relative_url }}">Atlas</a>
-      <a href="{{ '/About' | relative_url }}">About</a>
+      <a href="{{ '/About.html' | relative_url }}">About</a>
       <a href="https://github.com/{{ site.github_repo }}" target="_blank" rel="noopener noreferrer">GitHub</a>
     </nav>
   </header>
@@ -32,7 +32,9 @@
     </aside>
 
     <main>
+      {% unless page.url == '/' or page.path == 'index.md' or page.title == 'index' or page.title contains 'About The Open Astrophysics Vault' %}
       <h1 style="margin-top:0;">{{ page.title }}</h1>
+      {% endunless %}
       <div class="markdown-body">
         {{ content }}
       </div>

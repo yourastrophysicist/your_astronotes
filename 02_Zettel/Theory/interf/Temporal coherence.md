@@ -104,8 +104,8 @@ a Michelson interferometer with a moving mirror sweeping through delays $\tau$. 
 
 ## see also
 
-- [Coherent vs incoherent imaging](../../../02_Zettel/Theory/interf/Coherent vs incoherent imaging.md)
-- [Spatial coherence](../../../02_Zettel/Theory/interf/Spatial coherence.md)
-- [Coherence function and visibility](../../../02_Zettel/Theory/interf/Coherence function and visibility.md)
-- [Delay lines and path-length equalization](../../../02_Zettel/Theory/interf/Delay lines and path-length equalization.md)
-- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Coherent vs incoherent imaging](../../../02_Zettel/Theory/interf/Coherent vs incoherent imaging.html)
+- [Spatial coherence](../../../02_Zettel/Theory/interf/Spatial coherence.html)
+- [Coherence function and visibility](../../../02_Zettel/Theory/interf/Coherence function and visibility.html)
+- [Delay lines and path-length equalization](../../../02_Zettel/Theory/interf/Delay lines and path-length equalization.html)
+- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.html)

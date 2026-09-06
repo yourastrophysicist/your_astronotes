@@ -108,8 +108,8 @@ best practices:
 
 ## see also
 
-- [CLEAN algorithm](../../../02_Zettel/Theory/interf/CLEAN algorithm.md)
-- [Calibration overview](../../../02_Zettel/Theory/interf/Calibration overview.md)
-- [Dirty beam and dirty image](../../../02_Zettel/Theory/interf/Dirty beam and dirty image.md)
-- [Self-calibration](../../../02_Zettel/Theory/interf/Self-calibration.md)
-- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [CLEAN algorithm](../../../02_Zettel/Theory/interf/CLEAN algorithm.html)
+- [Calibration overview](../../../02_Zettel/Theory/interf/Calibration overview.html)
+- [Dirty beam and dirty image](../../../02_Zettel/Theory/interf/Dirty beam and dirty image.html)
+- [Self-calibration](../../../02_Zettel/Theory/interf/Self-calibration.html)
+- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.html)

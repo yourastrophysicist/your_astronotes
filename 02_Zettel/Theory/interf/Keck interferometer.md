@@ -58,8 +58,8 @@ these capabilities now exist at VLTI (but with multiple smaller dishes). the dua
 
 ## see also
 
-- [Components of a modern interferometer](../../../02_Zettel/Theory/interf/Components of a modern interferometer.md)
-- [VLTI Very Large Telescope Interferometer](../../../02_Zettel/Theory/interf/VLTI Very Large Telescope Interferometer.md)
-- [Adaptive optics](../../../02_Zettel/Theory/interf/Adaptive optics.md)
-- [Nulling interferometry](../../../02_Zettel/Theory/interf/Nulling interferometry.md)
-- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Components of a modern interferometer](../../../02_Zettel/Theory/interf/Components of a modern interferometer.html)
+- [VLTI Very Large Telescope Interferometer](../../../02_Zettel/Theory/interf/VLTI Very Large Telescope Interferometer.html)
+- [Adaptive optics](../../../02_Zettel/Theory/interf/Adaptive optics.html)
+- [Nulling interferometry](../../../02_Zettel/Theory/interf/Nulling interferometry.html)
+- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.html)

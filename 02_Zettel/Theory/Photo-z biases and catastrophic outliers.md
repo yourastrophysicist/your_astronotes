@@ -5,7 +5,7 @@ title: "Photo-z biases and catastrophic outliers"
 
 # photo-z biases and catastrophic outliers
 
-up: [Pablo_02_Statistical_properties_of_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.md) · [Photometric redshifts](../../02_Zettel/Theory/Photometric redshifts.md)
+up: [Pablo_02_Statistical_properties_of_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html) · [Photometric redshifts](../../02_Zettel/Theory/Photometric redshifts.html)
 
 ## the failure modes
 
@@ -49,9 +49,9 @@ if 5% of your $z \sim 7$ Lyman-break candidates are actually $z \sim 0.2$ red dw
 
 ## connections
 
-- previous: [Photometric redshifts](../../02_Zettel/Theory/Photometric redshifts.md)
-- driving statistics: [Redshift distribution of flux-limited samples](../../02_Zettel/Theory/Redshift distribution of flux-limited samples.md), [Malmquist bias](../../02_Zettel/Theory/Malmquist bias.md)
-- LF estimation under photo-z uncertainty: [1Vmax estimator](../../02_Zettel/Theory/1Vmax estimator.md) needs $V_{\max}$ to be marginalized over $p(z)$
+- previous: [Photometric redshifts](../../02_Zettel/Theory/Photometric redshifts.html)
+- driving statistics: [Redshift distribution of flux-limited samples](../../02_Zettel/Theory/Redshift distribution of flux-limited samples.html), [Malmquist bias](../../02_Zettel/Theory/Malmquist bias.html)
+- LF estimation under photo-z uncertainty: [1Vmax estimator](../../02_Zettel/Theory/1Vmax estimator.html) needs $V_{\max}$ to be marginalized over $p(z)$
 
 ## key references
 

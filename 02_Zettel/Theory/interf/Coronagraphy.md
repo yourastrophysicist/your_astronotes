@@ -113,8 +113,8 @@ modern instruments (SPHERE, MagAO-X) often combine both: a coronagraph at the fo
 
 ## see also
 
-- [Nulling interferometry](../../../02_Zettel/Theory/interf/Nulling interferometry.md)
-- [Bracewell nuller](../../../02_Zettel/Theory/interf/Bracewell nuller.md)
-- [Apodization](../../../02_Zettel/Theory/interf/Apodization.md)
-- [Adaptive optics](../../../02_Zettel/Theory/interf/Adaptive optics.md)
-- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Nulling interferometry](../../../02_Zettel/Theory/interf/Nulling interferometry.html)
+- [Bracewell nuller](../../../02_Zettel/Theory/interf/Bracewell nuller.html)
+- [Apodization](../../../02_Zettel/Theory/interf/Apodization.html)
+- [Adaptive optics](../../../02_Zettel/Theory/interf/Adaptive optics.html)
+- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.html)

@@ -5,7 +5,7 @@ title: "Balmer decrement"
 
 # Balmer decrement
 
-up: [Pablo_03_Star_formation_in_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.md) · [H-alpha SFR tracer](../../02_Zettel/Theory/H-alpha SFR tracer.md)
+up: [Pablo_03_Star_formation_in_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html) · [H-alpha SFR tracer](../../02_Zettel/Theory/H-alpha SFR tracer.html)
 
 ## the idea
 
@@ -37,7 +37,7 @@ for a LIRG with $A_V \sim 3$ in the diffuse ISM and possibly $A_V \sim 6$ in the
 
 ## gas vs stars
 
-the **gas** $E(B-V)_{\text{gas}}$ measured from Balmer decrement is generally *larger* than the **stellar** $E(B-V)_{\text{star}}$ measured from continuum slope, because HII regions live deeper in birth clouds (see Charlot & Fall 2000 in [Dust attenuation and extinction curves](../../02_Zettel/Theory/Dust attenuation and extinction curves.md)). typical ratio, from Calzetti 2000:
+the **gas** $E(B-V)_{\text{gas}}$ measured from Balmer decrement is generally *larger* than the **stellar** $E(B-V)_{\text{star}}$ measured from continuum slope, because HII regions live deeper in birth clouds (see Charlot & Fall 2000 in [Dust attenuation and extinction curves](../../02_Zettel/Theory/Dust attenuation and extinction curves.html)). typical ratio, from Calzetti 2000:
 
 $$E(B-V)_{\text{star}} \simeq 0.44\, E(B-V)_{\text{gas}}$$
 
@@ -49,9 +49,9 @@ $$E(B-V)_{\text{star}} \simeq 0.44\, E(B-V)_{\text{gas}}$$
 
 ## connections
 
-- primary use: [H-alpha SFR tracer](../../02_Zettel/Theory/H-alpha SFR tracer.md)
-- extinction curves: [Dust attenuation and extinction curves](../../02_Zettel/Theory/Dust attenuation and extinction curves.md)
-- alternative correction: [UV slope and IRX-beta relation](../../02_Zettel/Theory/UV slope and IRX-beta relation.md)
+- primary use: [H-alpha SFR tracer](../../02_Zettel/Theory/H-alpha SFR tracer.html)
+- extinction curves: [Dust attenuation and extinction curves](../../02_Zettel/Theory/Dust attenuation and extinction curves.html)
+- alternative correction: [UV slope and IRX-beta relation](../../02_Zettel/Theory/UV slope and IRX-beta relation.html)
 
 ## key references
 

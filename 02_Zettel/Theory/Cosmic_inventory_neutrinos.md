@@ -38,7 +38,7 @@ $$T_\nu = \left(\frac{4}{11}\right)^{1/3} T_\gamma$$
 so today, with $T_\gamma = 2.725$ K, we expect
 $$T_\nu \approx 1.95~\text{K}$$
 
-(see [Conservation of entropy in a comoving volume](../../02_Zettel/Theory/Conservation of entropy in a comoving volume.md) for the derivation.)
+(see [Conservation of entropy in a comoving volume](../../02_Zettel/Theory/Conservation of entropy in a comoving volume.html) for the derivation.)
 
 the neutrino number density today is then
 $$n_\nu = \frac{3}{4} \times \frac{4}{11} n_\gamma = \frac{3}{11} n_\gamma \approx 115~\text{cm}^{-3}$$ per species.
@@ -56,7 +56,7 @@ $$\boxed{\,\Omega_\nu h^2 < 0.0012\,(95\%\,\text{CL})\,}$$
 
 (Planck 2018 + lensing + BAO.)
 
-three light neutrino species are assumed (the standard model count). additional sterile neutrino species would change $g_*$ during BBN and the CMB era, providing complementary constraints — see [BBN_predictions](../../02_Zettel/Theory/BBN_predictions.md).
+three light neutrino species are assumed (the standard model count). additional sterile neutrino species would change $g_*$ during BBN and the CMB era, providing complementary constraints — see [BBN_predictions](../../02_Zettel/Theory/BBN_predictions.html).
 
 ---
 
@@ -65,7 +65,7 @@ three light neutrino species are assumed (the standard model count). additional 
 even though their contribution to $\Omega$ is small, neutrinos:
 - imprint a specific fingerprint on the **CMB damping tail** (high-$\ell$ region of the power spectrum)
 - suppress power on scales smaller than their **free-streaming length**, leaving a measurable feature in the matter power spectrum
-- contribute to $g_*$ during BBN, thereby influencing the n/p freeze-out and primordial $^4$He abundance (see [BBN_predictions](../../02_Zettel/Theory/BBN_predictions.md))
+- contribute to $g_*$ during BBN, thereby influencing the n/p freeze-out and primordial $^4$He abundance (see [BBN_predictions](../../02_Zettel/Theory/BBN_predictions.html))
 - if any single neutrino is heavier than $\sim 0.1$ eV, it is non-relativistic today and contributes to $\Omega_m$
 
 upcoming experiments (CMB-S4, Euclid, DESI, LiteBIRD) aim to push the bound on $\sum m_\nu$ down to $\sim 0.02$ eV, which would actually *measure* the neutrino mass scale (since the inverted hierarchy demands $\sum m_\nu \gtrsim 0.1$ eV). this is one of the most exciting cosmological measurements coming in the next decade.
@@ -74,8 +74,8 @@ upcoming experiments (CMB-S4, Euclid, DESI, LiteBIRD) aim to push the bound on $
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Cosmic_inventory_overview](../../02_Zettel/Theory/Cosmic_inventory_overview.md)
-- [Decoupling and freeze-out](../../02_Zettel/Theory/Decoupling and freeze-out.md)
-- [Conservation of entropy in a comoving volume](../../02_Zettel/Theory/Conservation of entropy in a comoving volume.md)
-- [BBN_predictions](../../02_Zettel/Theory/BBN_predictions.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Cosmic_inventory_overview](../../02_Zettel/Theory/Cosmic_inventory_overview.html)
+- [Decoupling and freeze-out](../../02_Zettel/Theory/Decoupling and freeze-out.html)
+- [Conservation of entropy in a comoving volume](../../02_Zettel/Theory/Conservation of entropy in a comoving volume.html)
+- [BBN_predictions](../../02_Zettel/Theory/BBN_predictions.html)

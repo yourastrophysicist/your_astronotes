@@ -58,11 +58,11 @@ $\bar h$ is also natural for cosmological perturbation theory on FLRW background
 
 ## see also
 
-- [Linearized metric perturbation](../../02_Zettel/Theory/Linearized metric perturbation.md)
-- [Linearized Christoffel and Riemann](../../02_Zettel/Theory/Linearized Christoffel and Riemann.md)
-- [Linearized gauge transformations](../../02_Zettel/Theory/Linearized gauge transformations.md)
-- [Lorenz gauge](../../02_Zettel/Theory/Lorenz gauge.md)
-- [Transverse traceless gauge](../../02_Zettel/Theory/Transverse traceless gauge.md)
+- [Linearized metric perturbation](../../02_Zettel/Theory/Linearized metric perturbation.html)
+- [Linearized Christoffel and Riemann](../../02_Zettel/Theory/Linearized Christoffel and Riemann.html)
+- [Linearized gauge transformations](../../02_Zettel/Theory/Linearized gauge transformations.html)
+- [Lorenz gauge](../../02_Zettel/Theory/Lorenz gauge.html)
+- [Transverse traceless gauge](../../02_Zettel/Theory/Transverse traceless gauge.html)
 - Q15 - trace-reversed perturbation and Lorenz gauge
-- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.md)
-- [Ch 8 - Gravitational Waves](../../01_Literature/Book/Baumann GR/Ch 8 - Gravitational Waves.md)
+- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.html)
+- [Ch 8 - Gravitational Waves](../../01_Literature/Book/Baumann GR/Ch 8 - Gravitational Waves.html)

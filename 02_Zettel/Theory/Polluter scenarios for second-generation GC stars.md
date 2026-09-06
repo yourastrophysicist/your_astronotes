@@ -63,14 +63,14 @@ bastian + lardo (2018) wrote the canonical review summarizing the failure of eve
 
 ## see also
 
-- [Multiple populations in GCs discovery](../../02_Zettel/Theory/Multiple populations in GCs discovery.md)
-- [Na O anticorrelation](../../02_Zettel/Theory/Na O anticorrelation.md)
-- [CN CH MgAl anticorrelations](../../02_Zettel/Theory/CN CH MgAl anticorrelations.md)
-- [Helium spread in GCs](../../02_Zettel/Theory/Helium spread in GCs.md)
+- [Multiple populations in GCs discovery](../../02_Zettel/Theory/Multiple populations in GCs discovery.html)
+- [Na O anticorrelation](../../02_Zettel/Theory/Na O anticorrelation.html)
+- [CN CH MgAl anticorrelations](../../02_Zettel/Theory/CN CH MgAl anticorrelations.html)
+- [Helium spread in GCs](../../02_Zettel/Theory/Helium spread in GCs.html)
 - Hot bottom burning AGB nucleosynthesis
-- [GC formation models with MPs](../../02_Zettel/Theory/GC formation models with MPs.md)
-- [Photometric chromosome maps](../../02_Zettel/Theory/Photometric chromosome maps.md)
-- [Type I and Type II GCs](../../02_Zettel/Theory/Type I and Type II GCs.md)
-- [Mass dependence of multiple populations](../../02_Zettel/Theory/Mass dependence of multiple populations.md)
-- [Stellar populations I II III](../../02_Zettel/Theory/Stellar populations I II III.md)
-- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.md)
+- [GC formation models with MPs](../../02_Zettel/Theory/GC formation models with MPs.html)
+- [Photometric chromosome maps](../../02_Zettel/Theory/Photometric chromosome maps.html)
+- [Type I and Type II GCs](../../02_Zettel/Theory/Type I and Type II GCs.html)
+- [Mass dependence of multiple populations](../../02_Zettel/Theory/Mass dependence of multiple populations.html)
+- [Stellar populations I II III](../../02_Zettel/Theory/Stellar populations I II III.html)
+- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.html)

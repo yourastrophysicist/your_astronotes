@@ -55,7 +55,7 @@ rotation rate evolves with age: young stars rotate fast, then magnetic braking s
 
 ### Be stars and Wolf-Rayet stars
 
-extreme rotators near break-up. material flung off into circumstellar disks gives the characteristic emission-line spectra (see [Emission line stars](../../02_Zettel/Theory/Emission line stars.md)).
+extreme rotators near break-up. material flung off into circumstellar disks gives the characteristic emission-line spectra (see [Emission line stars](../../02_Zettel/Theory/Emission line stars.html)).
 
 ### exoplanets via Rossiter-McLaughlin
 
@@ -63,11 +63,11 @@ a planet transiting in front of a rotating star occults different velocity compo
 
 ## see also
 
-- [Line profile function phi nu](../../02_Zettel/Theory/Line profile function phi nu.md)
-- [Macroturbulence](../../02_Zettel/Theory/Macroturbulence.md)
-- [Microturbulence](../../02_Zettel/Theory/Microturbulence.md)
-- [Voigt profile](../../02_Zettel/Theory/Voigt profile.md)
-- [Stellar v sin i from line shape](../../02_Zettel/Theory/Stellar v sin i from line shape.md)
-- [Echelle spectroscopy](../../02_Zettel/Theory/Echelle spectroscopy.md)
-- [Stellar velocity from Doppler shift](../../02_Zettel/Theory/Stellar velocity from Doppler shift.md)
-- [Emission line stars](../../02_Zettel/Theory/Emission line stars.md)
+- [Line profile function phi nu](../../02_Zettel/Theory/Line profile function phi nu.html)
+- [Macroturbulence](../../02_Zettel/Theory/Macroturbulence.html)
+- [Microturbulence](../../02_Zettel/Theory/Microturbulence.html)
+- [Voigt profile](../../02_Zettel/Theory/Voigt profile.html)
+- [Stellar v sin i from line shape](../../02_Zettel/Theory/Stellar v sin i from line shape.html)
+- [Echelle spectroscopy](../../02_Zettel/Theory/Echelle spectroscopy.html)
+- [Stellar velocity from Doppler shift](../../02_Zettel/Theory/Stellar velocity from Doppler shift.html)
+- [Emission line stars](../../02_Zettel/Theory/Emission line stars.html)

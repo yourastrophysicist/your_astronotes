@@ -103,7 +103,7 @@ both are amplitude-division; the difference is whether the cavity is "open" (two
 
 ## see also
 
-- [Amplitude-division interferometers](../../../02_Zettel/Theory/Amplitude-division interferometers.md)
-- [Michelson laboratory interferometer](../../../02_Zettel/Theory/interf/Michelson laboratory interferometer.md)
-- [Beam splitter physics](../../../02_Zettel/Theory/interf/Beam splitter physics.md)
-- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Amplitude-division interferometers](../../../02_Zettel/Theory/Amplitude-division interferometers.html)
+- [Michelson laboratory interferometer](../../../02_Zettel/Theory/interf/Michelson laboratory interferometer.html)
+- [Beam splitter physics](../../../02_Zettel/Theory/interf/Beam splitter physics.html)
+- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.html)

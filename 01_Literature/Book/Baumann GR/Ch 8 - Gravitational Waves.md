@@ -5,7 +5,7 @@ title: "Ch 8 - Gravitational Waves"
 
 # Baumann Ch 8, Gravitational Waves
 
-up: [Baumann GR](../../../01_Literature/Book/Baumann GR/Baumann GR.md) · [General_Relativity_MOC](../../../00_Atlas/General_Relativity_MOC.md)
+up: [Baumann GR](../../../01_Literature/Book/Baumann GR/Baumann GR.html) · [General_Relativity_MOC](../../../00_Atlas/General_Relativity_MOC.html)
 
 *the final chapter and the most beautiful payoff. linearized GR, gauge symmetry, the wave equation $\Box \bar h_{\mu\nu} = -16\pi G T_{\mu\nu}$, transverse-traceless gauge with two physical polarizations, the quadrupole formula for radiation, and the September 14, 2015 LIGO detection. by the end you will understand why gravitational waves exist, what they look like, how they are produced, and why detecting them was so hard.*
 
@@ -254,10 +254,10 @@ if i had to compress chapter 8 into a paragraph for the oral:
 
 ## connections
 
-- [General_Relativity_MOC](../../../00_Atlas/General_Relativity_MOC.md)
-- [Baumann GR](../../../01_Literature/Book/Baumann GR/Baumann GR.md)
-- [Linearized metric perturbation](../../../02_Zettel/Theory/Linearized metric perturbation.md) · [Linearized Christoffel and Riemann](../../../02_Zettel/Theory/Linearized Christoffel and Riemann.md) · [Linearized gauge transformations](../../../02_Zettel/Theory/Linearized gauge transformations.md) · [Trace-reversed perturbation](../../../02_Zettel/Theory/Trace-reversed perturbation.md) · [Lorenz gauge](../../../02_Zettel/Theory/Lorenz gauge.md) · [Newtonian limit of GR](../../../02_Zettel/Theory/Newtonian limit of GR.md)
-- [Transverse traceless gauge](../../../02_Zettel/Theory/Transverse traceless gauge.md) · [Plus and cross polarizations](../../../02_Zettel/Theory/Plus and cross polarizations.md) · [Quadrupole formula](../../../02_Zettel/Theory/Quadrupole formula.md) · [Geodesic deviation under a GW](../../../02_Zettel/Theory/Geodesic deviation under a GW.md)
+- [General_Relativity_MOC](../../../00_Atlas/General_Relativity_MOC.html)
+- [Baumann GR](../../../01_Literature/Book/Baumann GR/Baumann GR.html)
+- [Linearized metric perturbation](../../../02_Zettel/Theory/Linearized metric perturbation.html) · [Linearized Christoffel and Riemann](../../../02_Zettel/Theory/Linearized Christoffel and Riemann.html) · [Linearized gauge transformations](../../../02_Zettel/Theory/Linearized gauge transformations.html) · [Trace-reversed perturbation](../../../02_Zettel/Theory/Trace-reversed perturbation.html) · [Lorenz gauge](../../../02_Zettel/Theory/Lorenz gauge.html) · [Newtonian limit of GR](../../../02_Zettel/Theory/Newtonian limit of GR.html)
+- [Transverse traceless gauge](../../../02_Zettel/Theory/Transverse traceless gauge.html) · [Plus and cross polarizations](../../../02_Zettel/Theory/Plus and cross polarizations.html) · [Quadrupole formula](../../../02_Zettel/Theory/Quadrupole formula.html) · [Geodesic deviation under a GW](../../../02_Zettel/Theory/Geodesic deviation under a GW.html)
 - Q9 - weak-field Christoffel Gamma_i_00 · Q10 - weak-field Ricci scalar · Q15 - trace-reversed perturbation and Lorenz gauge · Q16 - Christoffels for a TT plane wave · Q17 - Riemann R_0x0x for a TT plane wave
-- previous: [Ch 7 - Cosmology](../../../01_Literature/Book/Baumann GR/Ch 7 - Cosmology.md)
+- previous: [Ch 7 - Cosmology](../../../01_Literature/Book/Baumann GR/Ch 7 - Cosmology.html)
 - end of book.

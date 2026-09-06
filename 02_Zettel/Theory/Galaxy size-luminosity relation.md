@@ -5,7 +5,7 @@ title: "Galaxy size-luminosity relation"
 
 # galaxy size-luminosity relation
 
-up: [Pablo_02_Statistical_properties_of_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.md)
+up: [Pablo_02_Statistical_properties_of_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html)
 
 ## the canonical figure
 
@@ -22,8 +22,8 @@ plot effective (half-light) radius $R_e$ on the y-axis vs absolute B-band magnit
 the dwarf and giant branches do *not* connect smoothly. moving from a faint dE to a UCD, $R_e$ drops by an order of magnitude. moving from a UCD to a giant elliptical, $R_e$ rises by three orders of magnitude. so size is *not* a monotonic function of luminosity across the full population. there are at least two physical sequences:
 
 - the **dwarf sequence** (dSph + dE): pressure-supported, low-density, dark-matter-dominated, easily disturbed by feedback and tides.
-- the **giant sequence** (Es + spiral bulges): also pressure-supported but at much higher densities; sit on the [Fundamental plane of ellipticals](../../02_Zettel/Theory/Fundamental plane of ellipticals.md).
-- the **disk sequence** (spirals): rotation-supported, follow [Tully-Fisher relation](../../02_Zettel/Theory/Tully-Fisher relation.md) (luminosity vs $V_{\text{rot}}$, with $R$ folded in).
+- the **giant sequence** (Es + spiral bulges): also pressure-supported but at much higher densities; sit on the [Fundamental plane of ellipticals](../../02_Zettel/Theory/Fundamental plane of ellipticals.html).
+- the **disk sequence** (spirals): rotation-supported, follow [Tully-Fisher relation](../../02_Zettel/Theory/Tully-Fisher relation.html) (luminosity vs $V_{\text{rot}}$, with $R$ folded in).
 - the **compact intruders** (cE, UCD): probably tidally stripped nuclei of larger galaxies, not a primordial sequence.
 
 ## what i remember
@@ -32,9 +32,9 @@ the size-luminosity plot is the *first* indication that "galaxy" is not one kind
 
 ## connections
 
-- next: [Fundamental plane of ellipticals](../../02_Zettel/Theory/Fundamental plane of ellipticals.md) adds velocity dispersion, $R_e \propto \sigma^{1.4}\langle I \rangle_e^{-0.9}$
-- spirals: [Tully-Fisher relation](../../02_Zettel/Theory/Tully-Fisher relation.md)
-- mass version: stellar mass density profile, related to [Stellar mass function](../../02_Zettel/Theory/Stellar mass function.md) only via mass-to-light ratio
+- next: [Fundamental plane of ellipticals](../../02_Zettel/Theory/Fundamental plane of ellipticals.html) adds velocity dispersion, $R_e \propto \sigma^{1.4}\langle I \rangle_e^{-0.9}$
+- spirals: [Tully-Fisher relation](../../02_Zettel/Theory/Tully-Fisher relation.html)
+- mass version: stellar mass density profile, related to [Stellar mass function](../../02_Zettel/Theory/Stellar mass function.html) only via mass-to-light ratio
 
 ## key references
 

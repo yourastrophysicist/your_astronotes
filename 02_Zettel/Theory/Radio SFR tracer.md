@@ -5,7 +5,7 @@ title: "Radio SFR tracer"
 
 # radio SFR tracer
 
-up: [Pablo_03_Star_formation_in_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.md)
+up: [Pablo_03_Star_formation_in_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html)
 
 ## the two radio components
 
@@ -47,9 +47,9 @@ for Kroupa IMF. very similar coefficient at 33 GHz, where thermal dominates.
 
 ## connections
 
-- the partner: [IR SFR tracer](../../02_Zettel/Theory/IR SFR tracer.md)
-- extinction-free alternative: [X-ray SFR tracer](../../02_Zettel/Theory/X-ray SFR tracer.md)
-- comparison: [SFR tracer comparison](../../02_Zettel/Theory/SFR tracer comparison.md)
+- the partner: [IR SFR tracer](../../02_Zettel/Theory/IR SFR tracer.html)
+- extinction-free alternative: [X-ray SFR tracer](../../02_Zettel/Theory/X-ray SFR tracer.html)
+- comparison: [SFR tracer comparison](../../02_Zettel/Theory/SFR tracer comparison.html)
 - AGN: separate radio-loudness class
 
 ## key references

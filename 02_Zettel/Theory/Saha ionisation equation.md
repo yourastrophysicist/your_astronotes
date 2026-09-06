@@ -3,7 +3,7 @@ layout: default
 title: "Saha ionisation equation"
 ---
 
-the **Saha equation** gives the relative populations of two adjacent ionisation stages of the same element at thermal equilibrium. complement of [Boltzmann equation in spectroscopy](../../02_Zettel/Theory/Boltzmann equation in spectroscopy.md) (which works within a single ionisation stage).
+the **Saha equation** gives the relative populations of two adjacent ionisation stages of the same element at thermal equilibrium. complement of [Boltzmann equation in spectroscopy](../../02_Zettel/Theory/Boltzmann equation in spectroscopy.html) (which works within a single ionisation stage).
 
 ## the equation
 
@@ -49,21 +49,21 @@ so H ionisation transitions from "negligible" to "dominant" between roughly $T =
 
 in equilibrium, recombination ($\text{ion} + e^- \to \text{atom} + \gamma$) competes with ionisation. recombination rate $\propto n_{i+1} n_e$, ionisation rate $\propto n_i$ (in detailed balance). so the equilibrium fraction depends on both ionisation potential and electron density.
 
-practical consequence: at a fixed $T$, **lower $n_e$ shifts the equilibrium toward ionisation**. denser atmospheres (giants vs dwarfs at same $T$) are slightly less ionised. this is the basis of **gravity sensitivity** of certain lines and is what discriminates luminosity classes ([MK luminosity classes](../../02_Zettel/Theory/MK luminosity classes.md)).
+practical consequence: at a fixed $T$, **lower $n_e$ shifts the equilibrium toward ionisation**. denser atmospheres (giants vs dwarfs at same $T$) are slightly less ionised. this is the basis of **gravity sensitivity** of certain lines and is what discriminates luminosity classes ([MK luminosity classes](../../02_Zettel/Theory/MK luminosity classes.html)).
 
 ## relation to the cosmic Saha for recombination
 
-at recombination of the early universe ($z \sim 1100$, $T \sim 3000$ K), the same equation applies but now in the cosmic-background-photon environment. see [Saha equation and recombination](../../02_Zettel/Theory/Saha equation and recombination.md) for the cosmological version, which uses $\eta = n_b/n_\gamma \sim 10^{-9}$ and gives a recombination temperature much lower than $\chi_H$, exactly because of the photon-to-baryon ratio. there the equation says when matter and radiation decouple.
+at recombination of the early universe ($z \sim 1100$, $T \sim 3000$ K), the same equation applies but now in the cosmic-background-photon environment. see [Saha equation and recombination](../../02_Zettel/Theory/Saha equation and recombination.html) for the cosmological version, which uses $\eta = n_b/n_\gamma \sim 10^{-9}$ and gives a recombination temperature much lower than $\chi_H$, exactly because of the photon-to-baryon ratio. there the equation says when matter and radiation decouple.
 
 ## see also
 
-- [Boltzmann equation in spectroscopy](../../02_Zettel/Theory/Boltzmann equation in spectroscopy.md)
-- [Saha equation and recombination](../../02_Zettel/Theory/Saha equation and recombination.md) — cosmological analogue
-- [Statistical weight g](../../02_Zettel/Theory/Statistical weight g.md)
-- [Partition function](../../02_Zettel/Theory/Partition function.md)
-- [Population of excited levels](../../02_Zettel/Theory/Population of excited levels.md)
-- [Why the Sequence OBAFGKM](../../02_Zettel/Theory/Why the Sequence OBAFGKM.md)
-- [Hydrogen population vs T](../../02_Zettel/Theory/Hydrogen population vs T.md)
-- [Helium population vs T](../../02_Zettel/Theory/Helium population vs T.md)
-- [MK luminosity classes](../../02_Zettel/Theory/MK luminosity classes.md)
-- [Photoionisation balance](../../02_Zettel/Theory/Photoionisation balance.md)
+- [Boltzmann equation in spectroscopy](../../02_Zettel/Theory/Boltzmann equation in spectroscopy.html)
+- [Saha equation and recombination](../../02_Zettel/Theory/Saha equation and recombination.html) — cosmological analogue
+- [Statistical weight g](../../02_Zettel/Theory/Statistical weight g.html)
+- [Partition function](../../02_Zettel/Theory/Partition function.html)
+- [Population of excited levels](../../02_Zettel/Theory/Population of excited levels.html)
+- [Why the Sequence OBAFGKM](../../02_Zettel/Theory/Why the Sequence OBAFGKM.html)
+- [Hydrogen population vs T](../../02_Zettel/Theory/Hydrogen population vs T.html)
+- [Helium population vs T](../../02_Zettel/Theory/Helium population vs T.html)
+- [MK luminosity classes](../../02_Zettel/Theory/MK luminosity classes.html)
+- [Photoionisation balance](../../02_Zettel/Theory/Photoionisation balance.html)

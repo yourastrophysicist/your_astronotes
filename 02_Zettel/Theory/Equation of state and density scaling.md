@@ -74,13 +74,13 @@ modern dark-energy models try to constrain $w(z)$ observationally (e.g. via BAO,
 
 ## see also
 
-- [Continuity equation](../../02_Zettel/Theory/Continuity equation.md)
-- [Friedmann equations](../../02_Zettel/Theory/Friedmann equations.md)
-- [Cosmic eras](../../02_Zettel/Theory/Cosmic eras.md)
-- [Matter radiation equality](../../02_Zettel/Theory/Matter radiation equality.md)
-- [Cosmological constant](../../02_Zettel/Theory/Cosmological constant.md)
-- [Stress-energy tensor](../../02_Zettel/Theory/Stress-energy tensor.md)
-- [FLRW metric](../../02_Zettel/Theory/FLRW metric.md)
-- [Cosmic_inventory_overview](../../02_Zettel/Theory/Cosmic_inventory_overview.md)
-- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.md)
-- [Ch 7 - Cosmology](../../01_Literature/Book/Baumann GR/Ch 7 - Cosmology.md)
+- [Continuity equation](../../02_Zettel/Theory/Continuity equation.html)
+- [Friedmann equations](../../02_Zettel/Theory/Friedmann equations.html)
+- [Cosmic eras](../../02_Zettel/Theory/Cosmic eras.html)
+- [Matter radiation equality](../../02_Zettel/Theory/Matter radiation equality.html)
+- [Cosmological constant](../../02_Zettel/Theory/Cosmological constant.html)
+- [Stress-energy tensor](../../02_Zettel/Theory/Stress-energy tensor.html)
+- [FLRW metric](../../02_Zettel/Theory/FLRW metric.html)
+- [Cosmic_inventory_overview](../../02_Zettel/Theory/Cosmic_inventory_overview.html)
+- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.html)
+- [Ch 7 - Cosmology](../../01_Literature/Book/Baumann GR/Ch 7 - Cosmology.html)

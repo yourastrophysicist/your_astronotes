@@ -65,8 +65,8 @@ dithering is now standard in every survey from SDSS through Euclid.
 
 ## see also
 
-- [CCD calibration steps](../../02_Zettel/Theory/CCD calibration steps.md)
-- [CCD basics](../../02_Zettel/Theory/CCD basics.md)
-- [CCD readout chain](../../02_Zettel/Theory/CCD readout chain.md)
-- [Aperture photometry](../../02_Zettel/Theory/Aperture photometry.md)
-- [The CCD equation](../../02_Zettel/Theory/The CCD equation.md)
+- [CCD calibration steps](../../02_Zettel/Theory/CCD calibration steps.html)
+- [CCD basics](../../02_Zettel/Theory/CCD basics.html)
+- [CCD readout chain](../../02_Zettel/Theory/CCD readout chain.html)
+- [Aperture photometry](../../02_Zettel/Theory/Aperture photometry.html)
+- [The CCD equation](../../02_Zettel/Theory/The CCD equation.html)

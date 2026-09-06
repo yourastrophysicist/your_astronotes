@@ -101,7 +101,7 @@ def isclose(a, b, rtol=1e-12, atol=1e-15):
 
 ## see also
 
-- [Truncation error and order of accuracy](../../02_Zettel/Theory/Truncation error and order of accuracy.md) — the *other* error type
-- [Roundoff vs truncation balance](../../02_Zettel/Theory/Roundoff vs truncation balance.md) — the U-curve, optimal step size
-- [Computational complexity and speed](../../02_Zettel/Theory/Computational complexity and speed.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Truncation error and order of accuracy](../../02_Zettel/Theory/Truncation error and order of accuracy.html) — the *other* error type
+- [Roundoff vs truncation balance](../../02_Zettel/Theory/Roundoff vs truncation balance.html) — the U-curve, optimal step size
+- [Computational complexity and speed](../../02_Zettel/Theory/Computational complexity and speed.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

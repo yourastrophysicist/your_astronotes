@@ -75,7 +75,7 @@ so the choice between single-dish and interferometer is a tradeoff between sensi
 5. **restore** with a clean beam (Gaussian fit to the dirty beam's central lobe)
 6. **report** the cleaned image plus any residuals
 
-each step has its own tradeoffs and pitfalls — see [CLEAN algorithm](../../02_Zettel/Theory/interf/CLEAN algorithm.md), [Calibration overview](../../02_Zettel/Theory/interf/Calibration overview.md), etc.
+each step has its own tradeoffs and pitfalls — see [CLEAN algorithm](../../02_Zettel/Theory/interf/CLEAN algorithm.html), [Calibration overview](../../02_Zettel/Theory/interf/Calibration overview.html), etc.
 
 ## why optical interferometry is harder
 
@@ -100,8 +100,8 @@ source: local synthetic demo generated from a rotating Y-like array model.
 ## see also
 
 - [The (u, v) plane](../../02_Zettel/Theory/interf/The (u, v) plane.md)
-- [Earth-rotation aperture synthesis](../../02_Zettel/Theory/interf/Earth-rotation aperture synthesis.md)
-- [Optimal array geometry](../../02_Zettel/Theory/interf/Optimal array geometry.md)
-- [Dirty beam and dirty image](../../02_Zettel/Theory/interf/Dirty beam and dirty image.md)
-- [CLEAN algorithm](../../02_Zettel/Theory/interf/CLEAN algorithm.md)
-- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Earth-rotation aperture synthesis](../../02_Zettel/Theory/interf/Earth-rotation aperture synthesis.html)
+- [Optimal array geometry](../../02_Zettel/Theory/interf/Optimal array geometry.html)
+- [Dirty beam and dirty image](../../02_Zettel/Theory/interf/Dirty beam and dirty image.html)
+- [CLEAN algorithm](../../02_Zettel/Theory/interf/CLEAN algorithm.html)
+- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.html)

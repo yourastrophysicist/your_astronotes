@@ -16,7 +16,7 @@ By using an aperture (**mask**) it is possible to select the incoming light rays
 A **coded mask** is like a chessboard
 	where some parts absorb radiation
 		and some others let the radiation reach the detector
-	it is less sensitive than a [Mechanical Collimator](../../02_Zettel/Theory/Mechanical Collimator.md)
+	it is less sensitive than a [Mechanical Collimator](../../02_Zettel/Theory/Mechanical Collimator.html)
 		but it allows to generate images
 			reducing the problem of **source confusion**
 ![Screenshot 2026-04-07 at 01.27.29](../../assets/images/Screenshot 2026-04-07 at 01.27.29.png)

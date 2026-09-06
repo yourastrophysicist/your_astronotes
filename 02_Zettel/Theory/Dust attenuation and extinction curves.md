@@ -5,7 +5,7 @@ title: "Dust attenuation and extinction curves"
 
 # dust attenuation and extinction curves
 
-up: [Pablo_03_Star_formation_in_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.md)
+up: [Pablo_03_Star_formation_in_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html)
 
 ## extinction vs attenuation
 
@@ -54,10 +54,10 @@ a starburst / LIRG can have $A_V \sim 3$, $A_{\text{1500}} \sim 10$, almost all 
 
 ## connections
 
-- used in: [UV SFR tracer](../../02_Zettel/Theory/UV SFR tracer.md), [UV slope and IRX-beta relation](../../02_Zettel/Theory/UV slope and IRX-beta relation.md), [H-alpha SFR tracer](../../02_Zettel/Theory/H-alpha SFR tracer.md)
-- measurement in line spectra: [Balmer decrement](../../02_Zettel/Theory/Balmer decrement.md)
-- reprocessed output: [IR SFR tracer](../../02_Zettel/Theory/IR SFR tracer.md)
-- enters all SED fitting: [Stellar population synthesis](../../02_Zettel/Theory/Stellar population synthesis.md)
+- used in: [UV SFR tracer](../../02_Zettel/Theory/UV SFR tracer.html), [UV slope and IRX-beta relation](../../02_Zettel/Theory/UV slope and IRX-beta relation.html), [H-alpha SFR tracer](../../02_Zettel/Theory/H-alpha SFR tracer.html)
+- measurement in line spectra: [Balmer decrement](../../02_Zettel/Theory/Balmer decrement.html)
+- reprocessed output: [IR SFR tracer](../../02_Zettel/Theory/IR SFR tracer.html)
+- enters all SED fitting: [Stellar population synthesis](../../02_Zettel/Theory/Stellar population synthesis.html)
 
 ## key references
 

@@ -62,10 +62,10 @@ for Schwarzschild, the Penrose diagram is a square divided into four triangles (
 
 ## see also
 
-- [Schwarzschild metric](../../02_Zettel/Theory/Schwarzschild metric.md)
-- [Schwarzschild horizon](../../02_Zettel/Theory/Schwarzschild horizon.md)
-- [Schwarzschild Christoffels](../../02_Zettel/Theory/Schwarzschild Christoffels.md)
-- [Radial infall](../../02_Zettel/Theory/Radial infall.md)
-- [Timelike vs null vs spacelike](../../02_Zettel/Theory/Timelike vs null vs spacelike.md)
-- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.md)
-- [Ch 6 - Black Holes](../../01_Literature/Book/Baumann GR/Ch 6 - Black Holes.md)
+- [Schwarzschild metric](../../02_Zettel/Theory/Schwarzschild metric.html)
+- [Schwarzschild horizon](../../02_Zettel/Theory/Schwarzschild horizon.html)
+- [Schwarzschild Christoffels](../../02_Zettel/Theory/Schwarzschild Christoffels.html)
+- [Radial infall](../../02_Zettel/Theory/Radial infall.html)
+- [Timelike vs null vs spacelike](../../02_Zettel/Theory/Timelike vs null vs spacelike.html)
+- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.html)
+- [Ch 6 - Black Holes](../../01_Literature/Book/Baumann GR/Ch 6 - Black Holes.html)

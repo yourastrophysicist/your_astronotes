@@ -74,7 +74,7 @@ the luminosity class is read off the *width* of certain lines: in giants, lower 
 
 ## the HR diagram connection
 
-plotting all stars in the $(T_{\rm eff}, L)$ plane gives the **Hertzsprung-Russell diagram** (see [HR diagram](../../02_Zettel/Theory/HR diagram.md)). the OBAFGKM sequence runs along the main sequence (luminosity class V), where temperature and luminosity correlate. the giant and supergiant branches lie above the main sequence at the same temperature (cooler outer envelopes, larger radius → more luminous via Stefan-Boltzmann).
+plotting all stars in the $(T_{\rm eff}, L)$ plane gives the **Hertzsprung-Russell diagram** (see [HR diagram](../../02_Zettel/Theory/HR diagram.html)). the OBAFGKM sequence runs along the main sequence (luminosity class V), where temperature and luminosity correlate. the giant and supergiant branches lie above the main sequence at the same temperature (cooler outer envelopes, larger radius → more luminous via Stefan-Boltzmann).
 
 so spectral type + luminosity class = position in the HR diagram = stellar physics.
 
@@ -105,9 +105,9 @@ so OBAFGKM is the *temperature-ordered* version, with the original alphabetical 
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Blackbody radiation and Stefan-Boltzmann](../../02_Zettel/Theory/Blackbody radiation and Stefan-Boltzmann.md)
-- [HR diagram](../../02_Zettel/Theory/HR diagram.md)
-- [Main sequence, giants, supergiants, white dwarfs](../../02_Zettel/Theory/Main sequence, giants, supergiants, white dwarfs.md)
-- [Stellar scaling relations](../../02_Zettel/Theory/Stellar scaling relations.md)
-- [Magnitudes and photometric systems](../../02_Zettel/Theory/Magnitudes and photometric systems.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Blackbody radiation and Stefan-Boltzmann](../../02_Zettel/Theory/Blackbody radiation and Stefan-Boltzmann.html)
+- [HR diagram](../../02_Zettel/Theory/HR diagram.html)
+- [Main sequence, giants, supergiants, white dwarfs](../../02_Zettel/Theory/Main sequence, giants, supergiants, white dwarfs.html)
+- [Stellar scaling relations](../../02_Zettel/Theory/Stellar scaling relations.html)
+- [Magnitudes and photometric systems](../../02_Zettel/Theory/Magnitudes and photometric systems.html)

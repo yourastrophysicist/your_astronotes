@@ -139,9 +139,9 @@ the system has been a benchmark for chaotic-dynamics integrators ever since. one
 
 ## see also
 
-- [Astrophysical N-body problem formulation](../../02_Zettel/Theory/Astrophysical N-body problem formulation.md)
-- [Runge-Kutta 2 midpoint method](../../02_Zettel/Theory/Runge-Kutta 2 midpoint method.md)
-- [Energy conservation as a diagnostic](../../02_Zettel/Theory/Energy conservation as a diagnostic.md)
-- [N-body with Euler vs midpoint vs leapfrog](../../02_Zettel/Theory/N-body with Euler vs midpoint vs leapfrog.md)
-- [Adaptive timesteps near close encounters](../../02_Zettel/Theory/Adaptive timesteps near close encounters.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Astrophysical N-body problem formulation](../../02_Zettel/Theory/Astrophysical N-body problem formulation.html)
+- [Runge-Kutta 2 midpoint method](../../02_Zettel/Theory/Runge-Kutta 2 midpoint method.html)
+- [Energy conservation as a diagnostic](../../02_Zettel/Theory/Energy conservation as a diagnostic.html)
+- [N-body with Euler vs midpoint vs leapfrog](../../02_Zettel/Theory/N-body with Euler vs midpoint vs leapfrog.html)
+- [Adaptive timesteps near close encounters](../../02_Zettel/Theory/Adaptive timesteps near close encounters.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

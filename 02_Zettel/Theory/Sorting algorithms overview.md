@@ -128,5 +128,5 @@ arr_sorted_by_b = arr[np.argsort(b)]    # sort arr by the order of b
 
 ## see also
 
-- [Computational complexity and speed](../../02_Zettel/Theory/Computational complexity and speed.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Computational complexity and speed](../../02_Zettel/Theory/Computational complexity and speed.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

@@ -48,7 +48,7 @@ so the morphology-density relation reflects the environmental history of galaxie
 
 ## the color bimodality
 
-galaxies fall into two clear families in $u-r$ vs $M_r$ space (see [Color bimodality of galaxies](../../02_Zettel/Theory/Color bimodality of galaxies.md) in the Observational Cosmology MOC):
+galaxies fall into two clear families in $u-r$ vs $M_r$ space (see [Color bimodality of galaxies](../../02_Zettel/Theory/Color bimodality of galaxies.html) in the Observational Cosmology MOC):
 - **blue cloud**: mostly Sc-Sd-Irr, blue colors, active star formation
 - **red sequence**: mostly E-S0-Sa, red colors, passive
 
@@ -111,10 +111,10 @@ so the present-day Hubble sequence is the **end-state** of multiple evolutionary
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Galaxies in the local universe](../../02_Zettel/Theory/Galaxies in the local universe.md)
-- [Hubble morphological sequence](../../02_Zettel/Theory/Hubble morphological sequence.md)
-- [Color bimodality of galaxies](../../02_Zettel/Theory/Color bimodality of galaxies.md)
-- [Galaxy color, density and morphology](../../02_Zettel/Theory/Galaxy color, density and morphology.md)
-- [Galaxy clusters and overview of evolution](../../02_Zettel/Theory/Galaxy clusters and overview of evolution.md)
-- [Spectral energy distributions](../../02_Zettel/Theory/Spectral energy distributions.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Galaxies in the local universe](../../02_Zettel/Theory/Galaxies in the local universe.html)
+- [Hubble morphological sequence](../../02_Zettel/Theory/Hubble morphological sequence.html)
+- [Color bimodality of galaxies](../../02_Zettel/Theory/Color bimodality of galaxies.html)
+- [Galaxy color, density and morphology](../../02_Zettel/Theory/Galaxy color, density and morphology.html)
+- [Galaxy clusters and overview of evolution](../../02_Zettel/Theory/Galaxy clusters and overview of evolution.html)
+- [Spectral energy distributions](../../02_Zettel/Theory/Spectral energy distributions.html)

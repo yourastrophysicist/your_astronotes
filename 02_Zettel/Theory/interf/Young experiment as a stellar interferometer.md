@@ -73,7 +73,7 @@ the Labeyrie textbook reproduces a photograph of Stéphan's mask covering the Ma
 
 two slits sample exactly *one* spatial frequency, $\mathbf u = \mathbf B/\lambda$. they tell you the visibility at that frequency but nothing about the others. so two-element interferometers are useful for measuring the *size* of simple sources (uniform disks, binary separations) but cannot produce images.
 
-for images, you need many baselines covering many spatial frequencies — see [Aperture synthesis principle](../../../02_Zettel/Theory/interf/Aperture synthesis principle.md) and [The (u, v) plane](../../../02_Zettel/Theory/interf/The (u, v) plane.md).
+for images, you need many baselines covering many spatial frequencies — see [Aperture synthesis principle](../../../02_Zettel/Theory/interf/Aperture synthesis principle.html) and [The (u, v) plane](../../../02_Zettel/Theory/interf/The (u, v) plane.md).
 
 ## scientific figure
 
@@ -85,9 +85,9 @@ source: local study diagram generated from the standard Young/Fraunhofer geometr
 
 ## see also
 
-- [Plane waves and Huygens principle](../../../02_Zettel/Theory/interf/Plane waves and Huygens principle.md)
-- [Superposition and interference](../../../02_Zettel/Theory/interf/Superposition and interference.md)
-- [Fringe visibility and contrast](../../../02_Zettel/Theory/interf/Fringe visibility and contrast.md)
-- [Michelson stellar interferometer](../../../02_Zettel/Theory/interf/Michelson stellar interferometer.md)
-- [Stellar diameters and limb darkening](../../../02_Zettel/Theory/interf/Stellar diameters and limb darkening.md)
-- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Plane waves and Huygens principle](../../../02_Zettel/Theory/interf/Plane waves and Huygens principle.html)
+- [Superposition and interference](../../../02_Zettel/Theory/interf/Superposition and interference.html)
+- [Fringe visibility and contrast](../../../02_Zettel/Theory/interf/Fringe visibility and contrast.html)
+- [Michelson stellar interferometer](../../../02_Zettel/Theory/interf/Michelson stellar interferometer.html)
+- [Stellar diameters and limb darkening](../../../02_Zettel/Theory/interf/Stellar diameters and limb darkening.html)
+- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.html)

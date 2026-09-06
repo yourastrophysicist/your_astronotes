@@ -91,7 +91,7 @@ his calculation framework — destructive interference on-axis, transmission off
 
 ## see also
 
-- [Nulling interferometry](../../../02_Zettel/Theory/interf/Nulling interferometry.md)
-- [Coronagraphy](../../../02_Zettel/Theory/interf/Coronagraphy.md)
-- [Apodization](../../../02_Zettel/Theory/interf/Apodization.md)
-- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Nulling interferometry](../../../02_Zettel/Theory/interf/Nulling interferometry.html)
+- [Coronagraphy](../../../02_Zettel/Theory/interf/Coronagraphy.html)
+- [Apodization](../../../02_Zettel/Theory/interf/Apodization.html)
+- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.html)

@@ -4,7 +4,7 @@ name: JWST and the first stars
 description: how the James Webb Space Telescope is opening direct observation of Pop III stars and first-galaxy formation at z > 10 via NIRSpec + NIRCam
 ---
 
-since its 2022 first light, the **James Webb Space Telescope (JWST)** has opened the high-redshift frontier for [Pop III star](../../02_Zettel/Theory/Population III stars.md) research. for the first time, the era when the very first stars formed ($z \sim 10$-$20$, $\sim 200$-$500$ Myr after the Big Bang) is directly observationally accessible.
+since its 2022 first light, the **James Webb Space Telescope (JWST)** has opened the high-redshift frontier for [Pop III star](../../02_Zettel/Theory/Population III stars.html) research. for the first time, the era when the very first stars formed ($z \sim 10$-$20$, $\sim 200$-$500$ Myr after the Big Bang) is directly observationally accessible.
 
 ## what JWST adds
 
@@ -46,7 +46,7 @@ JWST has also enabled:
 - **Sparkler galaxy** (Mowla et al. 2022; Adamo + Padova group ongoing) — a lensed $z \sim 1.4$ galaxy in the SMACS 0723 field with star-cluster-like sources around it; possibly first-detected protoglobular clusters formed at $z \sim 9$.
 - **first galaxies = first proto-GC sites**: present-day GCs may form in just-starting galaxies at $z \sim 8$-$15$, providing the link between high-z observations + local GC science.
 
-these observations are the **direct interface** between [multiple-population](../../02_Zettel/Theory/Multiple populations in GCs discovery.md) science (Milone's specialty) and high-redshift galaxy formation: present-day GCs may be the fossils of the first JWST-observable starbursts.
+these observations are the **direct interface** between [multiple-population](../../02_Zettel/Theory/Multiple populations in GCs discovery.html) science (Milone's specialty) and high-redshift galaxy formation: present-day GCs may be the fossils of the first JWST-observable starbursts.
 
 ## remaining challenges
 
@@ -60,7 +60,7 @@ upcoming surveys (JWST cycle 4-6 + ELT first light) should resolve these issues.
 
 JWST is closing a $50$-year gap between theoretical Pop III predictions and direct observation. for the Stellar Astrophysics course, this represents:
 
-- the convergence of [Pop III theory](../../02_Zettel/Theory/Population III stars.md) + [stellar archaeology in UFDGs](../../02_Zettel/Theory/Pop III nucleosynthesis signatures.md) + JWST direct detection;
+- the convergence of [Pop III theory](../../02_Zettel/Theory/Population III stars.html) + [stellar archaeology in UFDGs](../../02_Zettel/Theory/Pop III nucleosynthesis signatures.html) + JWST direct detection;
 - the link between resolved-stellar-population science (the bulk of the course) + high-redshift galaxy formation;
 - the realisation that present-day GCs (Milone's research) may be the surviving fossils of the first galaxies JWST is now imaging.
 
@@ -76,11 +76,11 @@ JWST is closing a $50$-year gap between theoretical Pop III predictions and dire
 
 ## see also
 
-- [Population III stars](../../02_Zettel/Theory/Population III stars.md)
-- [Pop III nucleosynthesis signatures](../../02_Zettel/Theory/Pop III nucleosynthesis signatures.md)
-- [Critical metallicity for fragmentation](../../02_Zettel/Theory/Critical metallicity for fragmentation.md)
-- [Search for Pop III stars in dwarf galaxies](../../02_Zettel/Theory/Search for Pop III stars in dwarf galaxies.md)
-- [Pop III remnants in UFDGs](../../02_Zettel/Theory/Pop III remnants in UFDGs.md)
-- [Extragalactic star clusters](../../02_Zettel/Theory/Extragalactic star clusters.md)
-- [Multiple populations in extragalactic GCs](../../02_Zettel/Theory/Multiple populations in extragalactic GCs.md)
-- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.md)
+- [Population III stars](../../02_Zettel/Theory/Population III stars.html)
+- [Pop III nucleosynthesis signatures](../../02_Zettel/Theory/Pop III nucleosynthesis signatures.html)
+- [Critical metallicity for fragmentation](../../02_Zettel/Theory/Critical metallicity for fragmentation.html)
+- [Search for Pop III stars in dwarf galaxies](../../02_Zettel/Theory/Search for Pop III stars in dwarf galaxies.html)
+- [Pop III remnants in UFDGs](../../02_Zettel/Theory/Pop III remnants in UFDGs.html)
+- [Extragalactic star clusters](../../02_Zettel/Theory/Extragalactic star clusters.html)
+- [Multiple populations in extragalactic GCs](../../02_Zettel/Theory/Multiple populations in extragalactic GCs.html)
+- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.html)

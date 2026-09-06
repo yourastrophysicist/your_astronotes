@@ -69,11 +69,11 @@ at $z = 5$: $K \approx -5.7$ mag. so a sub-mm source at $z = 5$ is **brighter** 
 
 ## see also
 
-- [K-correction](../../02_Zettel/Theory/K-correction.md)
-- [Luminosity distance](../../02_Zettel/Theory/Luminosity distance.md)
-- [Angular diameter distance](../../02_Zettel/Theory/Angular diameter distance.md)
-- [Surface brightness dimming](../../02_Zettel/Theory/Surface brightness dimming.md)
-- [IR SFR tracer](../../02_Zettel/Theory/IR SFR tracer.md)
-- [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.md)
-- [LIRGs ULIRGs HyLIRGs](../../02_Zettel/Theory/LIRGs ULIRGs HyLIRGs.md)
-- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md)
+- [K-correction](../../02_Zettel/Theory/K-correction.html)
+- [Luminosity distance](../../02_Zettel/Theory/Luminosity distance.html)
+- [Angular diameter distance](../../02_Zettel/Theory/Angular diameter distance.html)
+- [Surface brightness dimming](../../02_Zettel/Theory/Surface brightness dimming.html)
+- [IR SFR tracer](../../02_Zettel/Theory/IR SFR tracer.html)
+- [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.html)
+- [LIRGs ULIRGs HyLIRGs](../../02_Zettel/Theory/LIRGs ULIRGs HyLIRGs.html)
+- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html)

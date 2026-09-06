@@ -96,9 +96,9 @@ three:
 
 ## see also
 
-- [Coherent vs incoherent imaging](../../02_Zettel/Theory/interf/Coherent vs incoherent imaging.md)
-- [Temporal coherence](../../02_Zettel/Theory/interf/Temporal coherence.md)
-- [Coherence function and visibility](../../02_Zettel/Theory/interf/Coherence function and visibility.md)
-- [Van Cittert-Zernike theorem](../../02_Zettel/Theory/interf/Van Cittert-Zernike theorem.md)
-- [Fringe visibility and contrast](../../02_Zettel/Theory/interf/Fringe visibility and contrast.md)
-- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Coherent vs incoherent imaging](../../02_Zettel/Theory/interf/Coherent vs incoherent imaging.html)
+- [Temporal coherence](../../02_Zettel/Theory/interf/Temporal coherence.html)
+- [Coherence function and visibility](../../02_Zettel/Theory/interf/Coherence function and visibility.html)
+- [Van Cittert-Zernike theorem](../../02_Zettel/Theory/interf/Van Cittert-Zernike theorem.html)
+- [Fringe visibility and contrast](../../02_Zettel/Theory/interf/Fringe visibility and contrast.html)
+- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.html)

@@ -99,9 +99,9 @@ galaxies sit on the nodes of a vast filamentary network, with voids in between. 
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Cosmic_inventory_overview](../../02_Zettel/Theory/Cosmic_inventory_overview.md)
-- [Linear evolution of perturbations in expanding universe](../../02_Zettel/Theory/Linear evolution of perturbations in expanding universe.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Cosmic_inventory_overview](../../02_Zettel/Theory/Cosmic_inventory_overview.html)
+- [Linear evolution of perturbations in expanding universe](../../02_Zettel/Theory/Linear evolution of perturbations in expanding universe.html)
 - [Growth factor D(z)](../../02_Zettel/Theory/Growth factor D(z).md)
-- [Press-Schechter halo mass function](../../02_Zettel/Theory/Press-Schechter halo mass function.md)
-- [Baumann_reference](../../02_Zettel/Theory/Baumann_reference.md) — chapters 4 and 5 are the rigorous treatment
+- [Press-Schechter halo mass function](../../02_Zettel/Theory/Press-Schechter halo mass function.html)
+- [Baumann_reference](../../02_Zettel/Theory/Baumann_reference.html) — chapters 4 and 5 are the rigorous treatment

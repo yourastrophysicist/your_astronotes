@@ -41,7 +41,7 @@ modern cosmological weak lensing surveys (DES, KiDS, HSC, Euclid) measure $\kapp
 
 a special case: photon orbits around a black hole. the **photon sphere** at $r = 3GM$ produces a **bright ring** in EHT images (M87 in 2019, Sgr A$^\star$ in 2022). photons can complete one or more orbits before escaping, giving a sharp ring around the BH shadow.
 
-see [Photon sphere](../../02_Zettel/Theory/Photon sphere.md).
+see [Photon sphere](../../02_Zettel/Theory/Photon sphere.html).
 
 ## historical milestones
 
@@ -56,11 +56,11 @@ see [Photon sphere](../../02_Zettel/Theory/Photon sphere.md).
 
 ## see also
 
-- [Strong vs weak lensing](../../02_Zettel/Theory/Strong vs weak lensing.md)
-- [Lensing as a cosmological probe](../../02_Zettel/Theory/Lensing as a cosmological probe.md)
-- [Light deflection](../../02_Zettel/Theory/Light deflection.md)
-- [Photon sphere](../../02_Zettel/Theory/Photon sphere.md)
-- [Schwarzschild metric](../../02_Zettel/Theory/Schwarzschild metric.md)
-- [Cosmic_inventory_dark_matter](../../02_Zettel/Theory/Cosmic_inventory_dark_matter.md)
-- [Photon trajectories and impact parameter](../../02_Zettel/Theory/Photon trajectories and impact parameter.md)
-- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md)
+- [Strong vs weak lensing](../../02_Zettel/Theory/Strong vs weak lensing.html)
+- [Lensing as a cosmological probe](../../02_Zettel/Theory/Lensing as a cosmological probe.html)
+- [Light deflection](../../02_Zettel/Theory/Light deflection.html)
+- [Photon sphere](../../02_Zettel/Theory/Photon sphere.html)
+- [Schwarzschild metric](../../02_Zettel/Theory/Schwarzschild metric.html)
+- [Cosmic_inventory_dark_matter](../../02_Zettel/Theory/Cosmic_inventory_dark_matter.html)
+- [Photon trajectories and impact parameter](../../02_Zettel/Theory/Photon trajectories and impact parameter.html)
+- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html)

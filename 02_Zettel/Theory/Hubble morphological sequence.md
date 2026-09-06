@@ -69,7 +69,7 @@ properties:
 - mix of old (bulge) and young (disk) stellar populations
 - **gas-rich** disks supporting active star formation
 - supported by **rotation**, with $V_{\rm flat} \sim 200-300$ km/s
-- show the spiral density wave structure (see [Spiral arm kinematics](../../02_Zettel/Theory/Spiral arm kinematics.md))
+- show the spiral density wave structure (see [Spiral arm kinematics](../../02_Zettel/Theory/Spiral arm kinematics.html))
 
 ---
 
@@ -146,9 +146,9 @@ so morphological classification is still the standard starting point for any gal
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Galaxies in the local universe](../../02_Zettel/Theory/Galaxies in the local universe.md)
-- [Galaxy morphology vs physical properties](../../02_Zettel/Theory/Galaxy morphology vs physical properties.md)
-- [Galaxies across wavelengths](../../02_Zettel/Theory/Galaxies across wavelengths.md)
-- [Color bimodality of galaxies](../../02_Zettel/Theory/Color bimodality of galaxies.md)
-- [Spiral arm kinematics](../../02_Zettel/Theory/Spiral arm kinematics.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Galaxies in the local universe](../../02_Zettel/Theory/Galaxies in the local universe.html)
+- [Galaxy morphology vs physical properties](../../02_Zettel/Theory/Galaxy morphology vs physical properties.html)
+- [Galaxies across wavelengths](../../02_Zettel/Theory/Galaxies across wavelengths.html)
+- [Color bimodality of galaxies](../../02_Zettel/Theory/Color bimodality of galaxies.html)
+- [Spiral arm kinematics](../../02_Zettel/Theory/Spiral arm kinematics.html)

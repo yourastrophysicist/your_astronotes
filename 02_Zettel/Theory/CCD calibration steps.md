@@ -77,10 +77,10 @@ problems show up as residual gradients, donut shapes (telescope-shadow vignettin
 
 ## see also
 
-- [CCD basics](../../02_Zettel/Theory/CCD basics.md)
-- [CCD readout chain](../../02_Zettel/Theory/CCD readout chain.md)
-- [CCD detectors and SNR](../../02_Zettel/Theory/CCD detectors and SNR.md)
-- [The CCD equation](../../02_Zettel/Theory/The CCD equation.md)
-- [Aperture photometry](../../02_Zettel/Theory/Aperture photometry.md)
-- [Cosmic rays and bad pixels](../../02_Zettel/Theory/Cosmic rays and bad pixels.md)
-- [Linearity and saturation](../../02_Zettel/Theory/Linearity and saturation.md)
+- [CCD basics](../../02_Zettel/Theory/CCD basics.html)
+- [CCD readout chain](../../02_Zettel/Theory/CCD readout chain.html)
+- [CCD detectors and SNR](../../02_Zettel/Theory/CCD detectors and SNR.html)
+- [The CCD equation](../../02_Zettel/Theory/The CCD equation.html)
+- [Aperture photometry](../../02_Zettel/Theory/Aperture photometry.html)
+- [Cosmic rays and bad pixels](../../02_Zettel/Theory/Cosmic rays and bad pixels.html)
+- [Linearity and saturation](../../02_Zettel/Theory/Linearity and saturation.html)

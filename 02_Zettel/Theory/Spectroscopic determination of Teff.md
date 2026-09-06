@@ -6,21 +6,21 @@ description: how effective temperature is derived from line ratios, excitation b
 
 # spectroscopic determination of Teff
 
-the effective temperature is the most fundamental atmospheric parameter (see [Atmospheric parameters Teff log g feh vmicro](../../02_Zettel/Theory/interf/Atmospheric parameters Teff log g feh vmicro.md)). several spectroscopic techniques exist, each with distinct sensitivities and systematics. in practice multiple methods are combined and cross-checked.
+the effective temperature is the most fundamental atmospheric parameter (see [Atmospheric parameters Teff log g feh vmicro](../../02_Zettel/Theory/interf/Atmospheric parameters Teff log g feh vmicro.html)). several spectroscopic techniques exist, each with distinct sensitivities and systematics. in practice multiple methods are combined and cross-checked.
 
 ## 1. excitation balance (Boltzmann method)
 
 within a given ionisation stage of one element (typically Fe I), the populations of different excitation levels follow the Boltzmann distribution,
 $$\frac{N_i}{N_j} = \frac{g_i}{g_j}\,e^{-(\chi_i - \chi_j)/kT}.$$
-lines arising from different lower excitation potentials $\chi_{\rm exc}$ have different temperature sensitivities. if you derive the iron abundance line by line (using each line's equivalent width and the [Curve of growth](../../02_Zettel/Theory/Curve of growth.md)) and plot [Fe/H] vs $\chi_{\rm exc}$, the correct $T_{\rm eff}$ is the one for which the **slope is zero**, i.e. all lines yield the same abundance.
+lines arising from different lower excitation potentials $\chi_{\rm exc}$ have different temperature sensitivities. if you derive the iron abundance line by line (using each line's equivalent width and the [Curve of growth](../../02_Zettel/Theory/Curve of growth.html)) and plot [Fe/H] vs $\chi_{\rm exc}$, the correct $T_{\rm eff}$ is the one for which the **slope is zero**, i.e. all lines yield the same abundance.
 
 practical requirements:
 
 - many Fe I lines covering a wide range of $\chi_{\rm exc}$ (typically 0-5 eV).
-- assumption of [Local thermodynamic equilibrium LTE](../../02_Zettel/Theory/Local thermodynamic equilibrium LTE.md) (Boltzmann holds only locally).
+- assumption of [Local thermodynamic equilibrium LTE](../../02_Zettel/Theory/Local thermodynamic equilibrium LTE.html) (Boltzmann holds only locally).
 - adequate spectral resolution and S/N.
 
-this method is the workhorse for FGK stars in [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.md) and field surveys.
+this method is the workhorse for FGK stars in [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.html) and field surveys.
 
 ## 2. hydrogen line wings
 
@@ -32,17 +32,17 @@ in cool stars, ratios of two nearby spectral lines with different temperature se
 
 ## 4. SED fitting (photometric / spectrophotometric)
 
-the overall shape of the spectral energy distribution, particularly the slope of the Paschen continuum and the Balmer jump in hot stars, plus broadband colours, gives $T_{\rm eff}$ via comparison with models or with the infrared flux method (IRFM). this is largely independent of the spectroscopic methods above and provides a useful cross-check. limitations: requires accurate reddening (see [Effects of differential reddening on CMD analysis](../../02_Zettel/Theory/Effects of differential reddening on CMD analysis.md)) and absolute photometric calibration.
+the overall shape of the spectral energy distribution, particularly the slope of the Paschen continuum and the Balmer jump in hot stars, plus broadband colours, gives $T_{\rm eff}$ via comparison with models or with the infrared flux method (IRFM). this is largely independent of the spectroscopic methods above and provides a useful cross-check. limitations: requires accurate reddening (see [Effects of differential reddening on CMD analysis](../../02_Zettel/Theory/Effects of differential reddening on CMD analysis.html)) and absolute photometric calibration.
 
 ## 5. ionisation balance (cross-check)
 
-while ionisation balance is primarily used for $\log g$ (see [Spectroscopic determination of log g](../../02_Zettel/Theory/Spectroscopic determination of log g.md)), the two ionisation stages also give a constraint on $T_{\rm eff}$ through their joint Saha-Boltzmann dependence. usually it is co-determined with gravity in an iterative loop.
+while ionisation balance is primarily used for $\log g$ (see [Spectroscopic determination of log g](../../02_Zettel/Theory/Spectroscopic determination of log g.html)), the two ionisation stages also give a constraint on $T_{\rm eff}$ through their joint Saha-Boltzmann dependence. usually it is co-determined with gravity in an iterative loop.
 
 ## sources of systematic error
 
 - **non-LTE effects.** in metal-poor giants, departures from LTE for Fe I can systematically lower the inferred Teff by 50-150 K. Fe II is more reliable because it is the majority species.
 - **3D atmosphere effects.** classical 1D models miss granulation; using 3D non-LTE corrections shifts Teff by tens of kelvin.
-- **microturbulence coupling.** an incorrect $\xi_t$ (see [Microturbulence](../../02_Zettel/Theory/Microturbulence.md)) introduces a tilt in the EW vs $\chi_{\rm exc}$ diagram that mimics a temperature error.
+- **microturbulence coupling.** an incorrect $\xi_t$ (see [Microturbulence](../../02_Zettel/Theory/Microturbulence.html)) introduces a tilt in the EW vs $\chi_{\rm exc}$ diagram that mimics a temperature error.
 
 ## typical precision
 
@@ -50,12 +50,12 @@ while ionisation balance is primarily used for $\log g$ (see [Spectroscopic dete
 - differential (star-to-star within similar parameters): $\Delta T_{\rm eff} \sim 10\text{-}50$ K
 
 ## see also
-- [Atmospheric parameters Teff log g feh vmicro](../../02_Zettel/Theory/interf/Atmospheric parameters Teff log g feh vmicro.md)
-- [Spectroscopic determination of log g](../../02_Zettel/Theory/Spectroscopic determination of log g.md)
-- [Spectroscopic determination of metallicity](../../02_Zettel/Theory/Spectroscopic determination of metallicity.md)
-- [Curve of growth](../../02_Zettel/Theory/Curve of growth.md)
-- [Equivalent width](../../02_Zettel/Theory/Equivalent width.md)
-- [Local thermodynamic equilibrium LTE](../../02_Zettel/Theory/Local thermodynamic equilibrium LTE.md)
-- [Saha ionisation equation](../../02_Zettel/Theory/Saha ionisation equation.md)
-- [Microturbulence](../../02_Zettel/Theory/Microturbulence.md)
-- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.md)
+- [Atmospheric parameters Teff log g feh vmicro](../../02_Zettel/Theory/interf/Atmospheric parameters Teff log g feh vmicro.html)
+- [Spectroscopic determination of log g](../../02_Zettel/Theory/Spectroscopic determination of log g.html)
+- [Spectroscopic determination of metallicity](../../02_Zettel/Theory/Spectroscopic determination of metallicity.html)
+- [Curve of growth](../../02_Zettel/Theory/Curve of growth.html)
+- [Equivalent width](../../02_Zettel/Theory/Equivalent width.html)
+- [Local thermodynamic equilibrium LTE](../../02_Zettel/Theory/Local thermodynamic equilibrium LTE.html)
+- [Saha ionisation equation](../../02_Zettel/Theory/Saha ionisation equation.html)
+- [Microturbulence](../../02_Zettel/Theory/Microturbulence.html)
+- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.html)

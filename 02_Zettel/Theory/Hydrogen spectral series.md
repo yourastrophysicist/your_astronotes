@@ -62,12 +62,12 @@ Balmer line strength peaks at A0, exactly the spectral type Cecilia Payne identi
 
 ## see also
 
-- [Rydberg-Ritz formula](../../02_Zettel/Theory/Rydberg-Ritz formula.md)
+- [Rydberg-Ritz formula](../../02_Zettel/Theory/Rydberg-Ritz formula.html)
 - Energy level diagrams Grötrian
-- [Atomic term symbols](../../02_Zettel/Theory/Atomic term symbols.md)
-- [Hydrogen population vs T](../../02_Zettel/Theory/Hydrogen population vs T.md)
-- [Helium energy levels](../../02_Zettel/Theory/Helium energy levels.md)
-- [Why the Sequence OBAFGKM](../../02_Zettel/Theory/Why the Sequence OBAFGKM.md)
-- [Balmer decrement](../../02_Zettel/Theory/Balmer decrement.md)
-- [H-alpha SFR tracer](../../02_Zettel/Theory/H-alpha SFR tracer.md)
-- [Photon decoupling and CMB](../../02_Zettel/Theory/Photon decoupling and CMB.md)
+- [Atomic term symbols](../../02_Zettel/Theory/Atomic term symbols.html)
+- [Hydrogen population vs T](../../02_Zettel/Theory/Hydrogen population vs T.html)
+- [Helium energy levels](../../02_Zettel/Theory/Helium energy levels.html)
+- [Why the Sequence OBAFGKM](../../02_Zettel/Theory/Why the Sequence OBAFGKM.html)
+- [Balmer decrement](../../02_Zettel/Theory/Balmer decrement.html)
+- [H-alpha SFR tracer](../../02_Zettel/Theory/H-alpha SFR tracer.html)
+- [Photon decoupling and CMB](../../02_Zettel/Theory/Photon decoupling and CMB.html)

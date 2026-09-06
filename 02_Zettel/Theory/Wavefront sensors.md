@@ -111,7 +111,7 @@ the inversion is a sparse linear-system solve, doable in microseconds on modern 
 
 ## see also
 
-- [Adaptive optics](../../02_Zettel/Theory/interf/Adaptive optics.md)
-- [Deformable mirrors and tip-tilt](../../02_Zettel/Theory/interf/Deformable mirrors and tip-tilt.md)
-- [Guide stars and laser guide stars](../../02_Zettel/Theory/interf/Guide stars and laser guide stars.md)
-- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Adaptive optics](../../02_Zettel/Theory/interf/Adaptive optics.html)
+- [Deformable mirrors and tip-tilt](../../02_Zettel/Theory/interf/Deformable mirrors and tip-tilt.html)
+- [Guide stars and laser guide stars](../../02_Zettel/Theory/interf/Guide stars and laser guide stars.html)
+- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.html)

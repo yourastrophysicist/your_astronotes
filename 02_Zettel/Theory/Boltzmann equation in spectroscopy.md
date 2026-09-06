@@ -11,7 +11,7 @@ $$\boxed{\, \frac{n_i}{n_j} = \frac{g_i}{g_j}\,e^{-(E_i - E_j)/k_BT} \,}$$
 
 where:
 - $n_i, n_j$ = number densities (or fractions) of atoms in levels $i$ and $j$.
-- $g_i, g_j$ = statistical weights ([Statistical weight g](../../02_Zettel/Theory/Statistical weight g.md)).
+- $g_i, g_j$ = statistical weights ([Statistical weight g](../../02_Zettel/Theory/Statistical weight g.html)).
 - $E_i, E_j$ = energies of the two levels.
 - $T$ = temperature.
 
@@ -58,16 +58,16 @@ departures from LTE: chromospheres, coronae, and any optically thin gas where ra
 
 ## Saha + Boltzmann together
 
-Boltzmann gives populations within an ionisation stage; Saha ([Saha ionisation equation](../../02_Zettel/Theory/Saha ionisation equation.md)) gives ratios between adjacent stages. together they specify the full distribution. usually computed with software (e.g. ATLAS9, MARCS, PHOENIX) that iterates.
+Boltzmann gives populations within an ionisation stage; Saha ([Saha ionisation equation](../../02_Zettel/Theory/Saha ionisation equation.html)) gives ratios between adjacent stages. together they specify the full distribution. usually computed with software (e.g. ATLAS9, MARCS, PHOENIX) that iterates.
 
 ## see also
 
-- [Saha ionisation equation](../../02_Zettel/Theory/Saha ionisation equation.md)
-- [Statistical weight g](../../02_Zettel/Theory/Statistical weight g.md)
-- [Partition function](../../02_Zettel/Theory/Partition function.md)
-- [Population of excited levels](../../02_Zettel/Theory/Population of excited levels.md)
-- [Why the Sequence OBAFGKM](../../02_Zettel/Theory/Why the Sequence OBAFGKM.md)
-- [Number density and energy density at thermal equilibrium](../../02_Zettel/Theory/Number density and energy density at thermal equilibrium.md) — cosmological version
-- [Hydrogen population vs T](../../02_Zettel/Theory/Hydrogen population vs T.md)
-- [Helium population vs T](../../02_Zettel/Theory/Helium population vs T.md)
-- [Local thermodynamic equilibrium LTE](../../02_Zettel/Theory/Local thermodynamic equilibrium LTE.md)
+- [Saha ionisation equation](../../02_Zettel/Theory/Saha ionisation equation.html)
+- [Statistical weight g](../../02_Zettel/Theory/Statistical weight g.html)
+- [Partition function](../../02_Zettel/Theory/Partition function.html)
+- [Population of excited levels](../../02_Zettel/Theory/Population of excited levels.html)
+- [Why the Sequence OBAFGKM](../../02_Zettel/Theory/Why the Sequence OBAFGKM.html)
+- [Number density and energy density at thermal equilibrium](../../02_Zettel/Theory/Number density and energy density at thermal equilibrium.html) — cosmological version
+- [Hydrogen population vs T](../../02_Zettel/Theory/Hydrogen population vs T.html)
+- [Helium population vs T](../../02_Zettel/Theory/Helium population vs T.html)
+- [Local thermodynamic equilibrium LTE](../../02_Zettel/Theory/Local thermodynamic equilibrium LTE.html)

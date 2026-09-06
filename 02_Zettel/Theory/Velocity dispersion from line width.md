@@ -55,7 +55,7 @@ $$L \propto \sigma_v^4$$
 which extends to the **fundamental plane**:
 $$R_e \propto \sigma_v^{1.4}\,\langle I\rangle_e^{-0.9}$$
 
-both projections of the underlying virial relation. used as galaxy distance indicators ([Fundamental plane of ellipticals](../../02_Zettel/Theory/Fundamental plane of ellipticals.md)).
+both projections of the underlying virial relation. used as galaxy distance indicators ([Fundamental plane of ellipticals](../../02_Zettel/Theory/Fundamental plane of ellipticals.html)).
 
 ## $M-\sigma$ relation for SMBHs
 
@@ -74,13 +74,13 @@ modern IFU (MUSE, MaNGA) maps $\sigma_v$ across galaxies, recovering both rotati
 
 ## see also
 
-- [Stellar velocity from Doppler shift](../../02_Zettel/Theory/Stellar velocity from Doppler shift.md)
-- [Stellar v sin i from line shape](../../02_Zettel/Theory/Stellar v sin i from line shape.md)
-- [Rotational broadening](../../02_Zettel/Theory/Rotational broadening.md)
-- [Macroturbulence](../../02_Zettel/Theory/Macroturbulence.md)
-- [Calcium and CaII H+K](../../02_Zettel/Theory/Calcium and CaII H+K.md)
-- [Fundamental plane of ellipticals](../../02_Zettel/Theory/Fundamental plane of ellipticals.md)
-- [Tully-Fisher relation](../../02_Zettel/Theory/Tully-Fisher relation.md)
-- [Magorrian relation](../../02_Zettel/Theory/Magorrian relation.md)
-- [Integral-field spectroscopy IFU](../../02_Zettel/Theory/Integral-field spectroscopy IFU.md)
-- [Galactic Center](../../02_Zettel/Theory/Galactic Center.md)
+- [Stellar velocity from Doppler shift](../../02_Zettel/Theory/Stellar velocity from Doppler shift.html)
+- [Stellar v sin i from line shape](../../02_Zettel/Theory/Stellar v sin i from line shape.html)
+- [Rotational broadening](../../02_Zettel/Theory/Rotational broadening.html)
+- [Macroturbulence](../../02_Zettel/Theory/Macroturbulence.html)
+- [Calcium and CaII H+K](../../02_Zettel/Theory/Calcium and CaII H+K.html)
+- [Fundamental plane of ellipticals](../../02_Zettel/Theory/Fundamental plane of ellipticals.html)
+- [Tully-Fisher relation](../../02_Zettel/Theory/Tully-Fisher relation.html)
+- [Magorrian relation](../../02_Zettel/Theory/Magorrian relation.html)
+- [Integral-field spectroscopy IFU](../../02_Zettel/Theory/Integral-field spectroscopy IFU.html)
+- [Galactic Center](../../02_Zettel/Theory/Galactic Center.html)

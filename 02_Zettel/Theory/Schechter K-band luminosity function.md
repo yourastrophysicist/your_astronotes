@@ -5,7 +5,7 @@ title: "Schechter K-band luminosity function"
 
 # schechter k-band luminosity function
 
-up: [Pablo_02_Statistical_properties_of_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.md) · [Schechter function](../../02_Zettel/Theory/Schechter function.md)
+up: [Pablo_02_Statistical_properties_of_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html) · [Schechter function](../../02_Zettel/Theory/Schechter function.html)
 
 ## the canonical local k-band lf
 
@@ -26,7 +26,7 @@ K is $2.2$ μm, near the peak of the stellar SED for evolved populations. it is
 - relatively immune to dust attenuation (extinction $A_K \approx 0.1\, A_V$)
 - dominated by old stars, so it tracks **stellar mass** with $M_*/L_K$ varying by only a factor of $\sim 2$ across galaxy types (vs a factor of $\sim 10$ in B-band)
 
-so the K-band LF is the best optical/NIR proxy for the underlying [Stellar mass function](../../02_Zettel/Theory/Stellar mass function.md).
+so the K-band LF is the best optical/NIR proxy for the underlying [Stellar mass function](../../02_Zettel/Theory/Stellar mass function.html).
 
 ## what these numbers mean
 
@@ -40,10 +40,10 @@ $\alpha = -0.81$ is *flatter* than the typical optical LF ($\alpha \sim -1.2$). 
 
 ## connections
 
-- the form: [Schechter function](../../02_Zettel/Theory/Schechter function.md), [Schechter function in magnitudes](../../02_Zettel/Theory/Schechter function in magnitudes.md)
-- estimator that produced these: [1Vmax estimator](../../02_Zettel/Theory/1Vmax estimator.md)
-- mass version: [Stellar mass function](../../02_Zettel/Theory/Stellar mass function.md)
-- band comparison: [Galaxy counts at different wavelengths](../../02_Zettel/Theory/Galaxy counts at different wavelengths.md) (K-band counts at the Durham compilation [counts.html](https://astro.dur.ac.uk/~nm/pubhtml/counts/counts.html))
+- the form: [Schechter function](../../02_Zettel/Theory/Schechter function.html), [Schechter function in magnitudes](../../02_Zettel/Theory/Schechter function in magnitudes.html)
+- estimator that produced these: [1Vmax estimator](../../02_Zettel/Theory/1Vmax estimator.html)
+- mass version: [Stellar mass function](../../02_Zettel/Theory/Stellar mass function.html)
+- band comparison: [Galaxy counts at different wavelengths](../../02_Zettel/Theory/Galaxy counts at different wavelengths.html) (K-band counts at the Durham compilation [counts.html](https://astro.dur.ac.uk/~nm/pubhtml/counts/counts.html))
 
 ## key references
 

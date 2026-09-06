@@ -16,7 +16,7 @@ at small $z$, $v \approx cz$ (low-velocity Doppler). example: $H\alpha$ rest at 
 
 $$v = H_0\, d \quad\Rightarrow\quad d \approx \frac{cz}{H_0}$$
 
-with current values $H_0 \approx 67$ to $73$ km/s/Mpc (a $\sim 7\%$ tension; see [Cepheid period-luminosity relation](../../02_Zettel/Theory/Cepheid period-luminosity relation.md) and [Type Ia supernovae as standard candles](../../02_Zettel/Theory/Type Ia supernovae as standard candles.md)).
+with current values $H_0 \approx 67$ to $73$ km/s/Mpc (a $\sim 7\%$ tension; see [Cepheid period-luminosity relation](../../02_Zettel/Theory/Cepheid period-luminosity relation.html) and [Type Ia supernovae as standard candles](../../02_Zettel/Theory/Type Ia supernovae as standard candles.html)).
 
 worked example: $z = 0.10$, $H_0 = 70$ km/s/Mpc:
 $$d \approx \frac{(3 \times 10^5)(0.10)}{70} = 429\,\text{Mpc}$$
@@ -45,7 +45,7 @@ $$d_L(z) = (1+z)\,\frac{c}{H_0}\int_0^z \frac{dz'}{\sqrt{\Omega_m(1+z')^3 + \Ome
 
 so $d_L$ now depends on $\Omega_m, \Omega_\Lambda, w$, the very things we want to measure. SN Ia at $z \sim 1$ provide the cosmological constraints.
 
-K-correction also kicks in: the observed band samples a different rest-frame wavelength. see [K-correction](../../02_Zettel/Theory/K-correction.md).
+K-correction also kicks in: the observed band samples a different rest-frame wavelength. see [K-correction](../../02_Zettel/Theory/K-correction.html).
 
 ## the velocity-redshift confusion
 
@@ -73,13 +73,13 @@ CMB-derived $H_0$ comes from a totally different chain: sound horizon at recombi
 
 ## see also
 
-- [Distance ladder derivations](../../02_Zettel/Theory/Distance ladder derivations.md)
-- [Hubble's law and cosmological redshift](../../02_Zettel/Theory/Hubble's law and cosmological redshift.md)
-- [Hubble law derivation low-z](../../02_Zettel/Theory/Hubble law derivation low-z.md)
-- [Hubble law exact form](../../02_Zettel/Theory/Hubble law exact form.md)
-- [Hubble constant and deceleration parameter](../../02_Zettel/Theory/Hubble constant and deceleration parameter.md)
-- [Cosmological redshift](../../02_Zettel/Theory/Cosmological redshift.md)
-- [Luminosity distance](../../02_Zettel/Theory/Luminosity distance.md)
-- [K-correction](../../02_Zettel/Theory/K-correction.md)
-- [Type Ia supernovae as standard candles](../../02_Zettel/Theory/Type Ia supernovae as standard candles.md)
-- [Cepheid period-luminosity relation](../../02_Zettel/Theory/Cepheid period-luminosity relation.md)
+- [Distance ladder derivations](../../02_Zettel/Theory/Distance ladder derivations.html)
+- [Hubble's law and cosmological redshift](../../02_Zettel/Theory/Hubble's law and cosmological redshift.html)
+- [Hubble law derivation low-z](../../02_Zettel/Theory/Hubble law derivation low-z.html)
+- [Hubble law exact form](../../02_Zettel/Theory/Hubble law exact form.html)
+- [Hubble constant and deceleration parameter](../../02_Zettel/Theory/Hubble constant and deceleration parameter.html)
+- [Cosmological redshift](../../02_Zettel/Theory/Cosmological redshift.html)
+- [Luminosity distance](../../02_Zettel/Theory/Luminosity distance.html)
+- [K-correction](../../02_Zettel/Theory/K-correction.html)
+- [Type Ia supernovae as standard candles](../../02_Zettel/Theory/Type Ia supernovae as standard candles.html)
+- [Cepheid period-luminosity relation](../../02_Zettel/Theory/Cepheid period-luminosity relation.html)

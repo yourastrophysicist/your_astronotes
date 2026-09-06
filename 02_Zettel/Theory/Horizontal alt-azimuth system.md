@@ -58,14 +58,14 @@ at $\phi = 45°$ N (Padova) the picture is one thing; at $\phi = 10°$ N it's an
 - **atmospheric refraction and extinction**: the air path length depends on zenith distance $z$
 - **catching a transient or a satellite** that is moving in the sky
 
-for **catalog work** I switch to the equatorial system (see [Equatorial system](../../02_Zettel/Theory/Equatorial system.md)), which is observer-independent.
+for **catalog work** I switch to the equatorial system (see [Equatorial system](../../02_Zettel/Theory/Equatorial system.html)), which is observer-independent.
 
 ---
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Spherical_astronomy_complete](../../02_Zettel/Theory/Spherical_astronomy_complete.md)
-- [Equatorial system](../../02_Zettel/Theory/Equatorial system.md)
-- [Alt-azimuth ↔ equatorial transformations](../../02_Zettel/Theory/Alt-azimuth ↔ equatorial transformations.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Spherical_astronomy_complete](../../02_Zettel/Theory/Spherical_astronomy_complete.html)
+- [Equatorial system](../../02_Zettel/Theory/Equatorial system.html)
+- [Alt-azimuth ↔ equatorial transformations](../../02_Zettel/Theory/Alt-azimuth ↔ equatorial transformations.html)
 - Culmination and rise/set

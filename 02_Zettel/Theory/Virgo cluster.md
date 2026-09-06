@@ -5,7 +5,7 @@ title: "Virgo cluster"
 
 # virgo cluster
 
-up: [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.md) · [Coma cluster](../../02_Zettel/Theory/Coma cluster.md)
+up: [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.html) · [Coma cluster](../../02_Zettel/Theory/Coma cluster.html)
 
 ## properties
 
@@ -32,5 +32,5 @@ Because Virgo is close and dense, it serves as the premier laboratory for enviro
 
 ## connections
 
-- cluster physics: [Coma cluster](../../02_Zettel/Theory/Coma cluster.md), [Galaxy clusters and overview of evolution](../../02_Zettel/Theory/Galaxy clusters and overview of evolution.md)
-- central engine: [AGN and supermassive black holes](../../02_Zettel/Theory/interf/AGN and supermassive black holes.md)
+- cluster physics: [Coma cluster](../../02_Zettel/Theory/Coma cluster.html), [Galaxy clusters and overview of evolution](../../02_Zettel/Theory/Galaxy clusters and overview of evolution.html)
+- central engine: [AGN and supermassive black holes](../../02_Zettel/Theory/interf/AGN and supermassive black holes.html)

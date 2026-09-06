@@ -38,7 +38,7 @@ the various cross-sections also depend on $T$, and the number densities of nucle
 $$n_A = (X_A/A)(\eta n_\gamma)$$
 so the corresponding interaction rates $\Gamma = n_A \sigma v = \Gamma(\eta, T)$.
 
-note: $\eta = (n_N/n_\gamma) = 2.68 \times 10^{-8}\, (\Omega_{0b} h^2)$, see [BBN_baryon_to_photon_ratio](../../02_Zettel/Theory/BBN_baryon_to_photon_ratio.md).
+note: $\eta = (n_N/n_\gamma) = 2.68 \times 10^{-8}\, (\Omega_{0b} h^2)$, see [BBN_baryon_to_photon_ratio](../../02_Zettel/Theory/BBN_baryon_to_photon_ratio.html).
 
 ![bbn-33](../../assets/images/bbn-33.png)
 
@@ -108,9 +108,9 @@ these specific dependences are what make BBN such a powerful probe:
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [BBN_overview](../../02_Zettel/Theory/BBN_overview.md)
-- [BBN_three_steps](../../02_Zettel/Theory/BBN_three_steps.md)
-- [BBN_baryon_to_photon_ratio](../../02_Zettel/Theory/BBN_baryon_to_photon_ratio.md)
-- [BBN_observations](../../02_Zettel/Theory/BBN_observations.md)
-- [BBN_concordance_with_CMB](../../02_Zettel/Theory/BBN_concordance_with_CMB.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [BBN_overview](../../02_Zettel/Theory/BBN_overview.html)
+- [BBN_three_steps](../../02_Zettel/Theory/BBN_three_steps.html)
+- [BBN_baryon_to_photon_ratio](../../02_Zettel/Theory/BBN_baryon_to_photon_ratio.html)
+- [BBN_observations](../../02_Zettel/Theory/BBN_observations.html)
+- [BBN_concordance_with_CMB](../../02_Zettel/Theory/BBN_concordance_with_CMB.html)

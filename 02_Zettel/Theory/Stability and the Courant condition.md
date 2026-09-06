@@ -81,8 +81,8 @@ before running any explicit PDE simulation:
 
 ## see also
 
-- [Initial value PDEs and FTCS](../../02_Zettel/Theory/Initial value PDEs and FTCS.md)
-- [Finite difference discretization](../../02_Zettel/Theory/Finite difference discretization.md)
-- [Boundary value PDEs and iteration](../../02_Zettel/Theory/Boundary value PDEs and iteration.md)
-- [Adaptive step size control](../../02_Zettel/Theory/Adaptive step size control.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Initial value PDEs and FTCS](../../02_Zettel/Theory/Initial value PDEs and FTCS.html)
+- [Finite difference discretization](../../02_Zettel/Theory/Finite difference discretization.html)
+- [Boundary value PDEs and iteration](../../02_Zettel/Theory/Boundary value PDEs and iteration.html)
+- [Adaptive step size control](../../02_Zettel/Theory/Adaptive step size control.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

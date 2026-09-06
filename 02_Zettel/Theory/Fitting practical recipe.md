@@ -41,8 +41,8 @@ fit in $\tilde x$, then transform back. avoids ill-conditioning. for power-law d
 
 ### 4. choose linear vs nonlinear LSQ
 
-- model linear in parameters → [Linear least squares](../../02_Zettel/Theory/Linear least squares.md) (closed-form solution)
-- model nonlinear in parameters → [scipy.optimize.curve_fit](../../02_Zettel/Theory/Non-linear fitting with scipy.md) or `least_squares`
+- model linear in parameters → [Linear least squares](../../02_Zettel/Theory/Linear least squares.html) (closed-form solution)
+- model nonlinear in parameters → [scipy.optimize.curve_fit](../../02_Zettel/Theory/Non-linear fitting with scipy.html) or `least_squares`
 
 if the model can be **linearized** by a transformation (e.g. $y = A e^{-\lambda x} \to \log y = \log A - \lambda x$), do it — much faster and more stable. but check that the transformation respects the noise structure (homoscedastic on the linear scale becomes heteroscedastic on the log scale, and vice versa).
 
@@ -149,10 +149,10 @@ for name, val, err in zip(['A', 'λ', 'C'], popt, sigma_p):
 
 ## see also
 
-- [Linear least squares](../../02_Zettel/Theory/Linear least squares.md)
-- [Weighted least squares](../../02_Zettel/Theory/Weighted least squares.md)
-- [General linear least squares](../../02_Zettel/Theory/General linear least squares.md)
-- [Polynomial fitting](../../02_Zettel/Theory/Polynomial fitting.md)
-- [Non-linear fitting with scipy](../../02_Zettel/Theory/Non-linear fitting with scipy.md)
-- [Goodness of fit and chi-squared](../../02_Zettel/Theory/Goodness of fit and chi-squared.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Linear least squares](../../02_Zettel/Theory/Linear least squares.html)
+- [Weighted least squares](../../02_Zettel/Theory/Weighted least squares.html)
+- [General linear least squares](../../02_Zettel/Theory/General linear least squares.html)
+- [Polynomial fitting](../../02_Zettel/Theory/Polynomial fitting.html)
+- [Non-linear fitting with scipy](../../02_Zettel/Theory/Non-linear fitting with scipy.html)
+- [Goodness of fit and chi-squared](../../02_Zettel/Theory/Goodness of fit and chi-squared.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

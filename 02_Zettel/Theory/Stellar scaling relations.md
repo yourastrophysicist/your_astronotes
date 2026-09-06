@@ -74,7 +74,7 @@ so:
 
 these scaling relations have huge consequences:
 
-1. **the IMF and the integrated luminosity**: even though massive stars are rare ([Initial mass function](../../02_Zettel/Theory/Initial mass function.md) $\propto M^{-2.35}$), they dominate the *luminosity* of a stellar population because $L \propto M^{3.5}$. so UV light from a galaxy traces O-B stars.
+1. **the IMF and the integrated luminosity**: even though massive stars are rare ([Initial mass function](../../02_Zettel/Theory/Initial mass function.html) $\propto M^{-2.35}$), they dominate the *luminosity* of a stellar population because $L \propto M^{3.5}$. so UV light from a galaxy traces O-B stars.
 
 2. **the MS turn-off as a chronometer**: the brightest MS star in a coeval cluster gives the cluster age via $t_{\rm MS}$. globular clusters: turn-off at $\sim 0.8\, M_\odot$ → $\sim 12$ Gyr.
 
@@ -97,10 +97,10 @@ so these relations are most useful for $0.5\, M_\odot \lesssim M \lesssim 50\, M
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Main sequence, giants, supergiants, white dwarfs](../../02_Zettel/Theory/Main sequence, giants, supergiants, white dwarfs.md)
-- [HR diagram](../../02_Zettel/Theory/HR diagram.md)
-- [Stellar structure equations](../../02_Zettel/Theory/Stellar structure equations.md)
-- [Stellar evolution timescales](../../02_Zettel/Theory/Stellar evolution timescales.md)
-- [Initial mass function](../../02_Zettel/Theory/Initial mass function.md)
-- [Blackbody radiation and Stefan-Boltzmann](../../02_Zettel/Theory/Blackbody radiation and Stefan-Boltzmann.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Main sequence, giants, supergiants, white dwarfs](../../02_Zettel/Theory/Main sequence, giants, supergiants, white dwarfs.html)
+- [HR diagram](../../02_Zettel/Theory/HR diagram.html)
+- [Stellar structure equations](../../02_Zettel/Theory/Stellar structure equations.html)
+- [Stellar evolution timescales](../../02_Zettel/Theory/Stellar evolution timescales.html)
+- [Initial mass function](../../02_Zettel/Theory/Initial mass function.html)
+- [Blackbody radiation and Stefan-Boltzmann](../../02_Zettel/Theory/Blackbody radiation and Stefan-Boltzmann.html)

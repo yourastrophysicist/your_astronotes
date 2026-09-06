@@ -58,7 +58,7 @@ massive, unstable, episodic mass loss with H, He, Fe emission. e.g. $\eta$ Carin
 B-type supergiants with forbidden line emission ($[OI], [FeII]$), suggesting low-density circumstellar disks.
 
 ### symbiotic stars
-binary systems with a cool giant + a hot accreting WD. spectra mix M-giant absorption with WD emission. see [Symbiotic star spectroscopy](../../02_Zettel/Theory/Symbiotic star spectroscopy.md).
+binary systems with a cool giant + a hot accreting WD. spectra mix M-giant absorption with WD emission. see [Symbiotic star spectroscopy](../../02_Zettel/Theory/Symbiotic star spectroscopy.html).
 
 ## the role in stellar evolution
 
@@ -72,12 +72,12 @@ each connects to the broader narrative of massive-star evolution.
 
 ## see also
 
-- [Galactic novae spectroscopy](../../02_Zettel/Theory/Galactic novae spectroscopy.md)
-- [Symbiotic star spectroscopy](../../02_Zettel/Theory/Symbiotic star spectroscopy.md)
-- [Supernova spectroscopy](../../02_Zettel/Theory/Supernova spectroscopy.md)
-- [Stellar spectra and spectral classification](../../02_Zettel/Theory/Stellar spectra and spectral classification.md)
-- [Helium energy levels](../../02_Zettel/Theory/Helium energy levels.md)
-- [Hydrogen spectral series](../../02_Zettel/Theory/Hydrogen spectral series.md)
-- [Optically thin recombination lines](../../02_Zettel/Theory/Optically thin recombination lines.md)
-- [Rotational broadening](../../02_Zettel/Theory/Rotational broadening.md)
-- [H II region spectroscopy](../../02_Zettel/Theory/H II region spectroscopy.md)
+- [Galactic novae spectroscopy](../../02_Zettel/Theory/Galactic novae spectroscopy.html)
+- [Symbiotic star spectroscopy](../../02_Zettel/Theory/Symbiotic star spectroscopy.html)
+- [Supernova spectroscopy](../../02_Zettel/Theory/Supernova spectroscopy.html)
+- [Stellar spectra and spectral classification](../../02_Zettel/Theory/Stellar spectra and spectral classification.html)
+- [Helium energy levels](../../02_Zettel/Theory/Helium energy levels.html)
+- [Hydrogen spectral series](../../02_Zettel/Theory/Hydrogen spectral series.html)
+- [Optically thin recombination lines](../../02_Zettel/Theory/Optically thin recombination lines.html)
+- [Rotational broadening](../../02_Zettel/Theory/Rotational broadening.html)
+- [H II region spectroscopy](../../02_Zettel/Theory/H II region spectroscopy.html)

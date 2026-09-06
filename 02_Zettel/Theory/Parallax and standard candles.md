@@ -51,14 +51,14 @@ this is the **distance ladder**.
 a standard candle is an object of **known intrinsic luminosity**. measuring its apparent brightness gives the distance via $F = L/(4\pi d^2)$, equivalently $d_L^2 = L/(4\pi F)$.
 
 candidates:
-- **Cepheid variables**: period-luminosity relation (see [Cepheids and supernovae](../../02_Zettel/Theory/Cepheids and supernovae.md))
+- **Cepheid variables**: period-luminosity relation (see [Cepheids and supernovae](../../02_Zettel/Theory/Cepheids and supernovae.html))
 - **RR Lyrae stars**: horizontal-branch pulsators, $M_V \approx 0.5$ — useful in old stellar populations
 - **TRGB**: tip of the red giant branch, $M_I \approx -4.0$ — uses the Helium flash that ends RGB evolution
 - **planetary nebula luminosity function**: bright cutoff at $M = -4.5$ in [OIII] 5007 Å — galaxy distances
 - **surface brightness fluctuations**: Poisson noise of unresolved giants in elliptical galaxies
-- **Tully-Fisher**: $L \propto V_{\rm flat}^4$ for spirals (see [Tully-Fisher relation](../../02_Zettel/Theory/Tully-Fisher relation.md))
+- **Tully-Fisher**: $L \propto V_{\rm flat}^4$ for spirals (see [Tully-Fisher relation](../../02_Zettel/Theory/Tully-Fisher relation.html))
 - **fundamental plane**: $R_e \propto \sigma^{1.4} \langle I\rangle^{-0.9}$ for ellipticals
-- **SN Ia**: standard candle thermonuclear explosions (see [Cepheids and supernovae](../../02_Zettel/Theory/Cepheids and supernovae.md))
+- **SN Ia**: standard candle thermonuclear explosions (see [Cepheids and supernovae](../../02_Zettel/Theory/Cepheids and supernovae.html))
 
 each is calibrated against the previous step:
 parallax → Cepheids in MW → Cepheids in nearby galaxies → SN Ia in same galaxies → SN Ia at high z
@@ -72,7 +72,7 @@ parallax → Cepheids in MW → Cepheids in nearby galaxies → SN Ia in same ga
 a logarithmic distance, in magnitudes:
 $$\mu \equiv m - M = 5\log_{10}(d_{\rm pc}/10) = 5\log_{10}(d_{\rm Mpc}) + 25$$
 
-(see [Magnitudes and photometric systems](../../02_Zettel/Theory/Magnitudes and photometric systems.md)). this is the standard way to express distances in observational astronomy.
+(see [Magnitudes and photometric systems](../../02_Zettel/Theory/Magnitudes and photometric systems.html)). this is the standard way to express distances in observational astronomy.
 
 example: for the Andromeda galaxy at $d = 0.78$ Mpc, $\mu = 24.5$. for the Hubble Deep Field at $z = 1$, $\mu \approx 44$.
 
@@ -110,12 +110,12 @@ so the cosmic distance ladder is a careful, multi-decade effort to **propagate c
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Cepheids and supernovae](../../02_Zettel/Theory/Cepheids and supernovae.md)
-- [Hubble's law and cosmological redshift](../../02_Zettel/Theory/Hubble's law and cosmological redshift.md)
-- [Magnitudes and photometric systems](../../02_Zettel/Theory/Magnitudes and photometric systems.md)
-- [Tully-Fisher relation](../../02_Zettel/Theory/Tully-Fisher relation.md)
-- [Fundamental plane of ellipticals](../../02_Zettel/Theory/Fundamental plane of ellipticals.md)
-- [Hubble constant and deceleration parameter](../../02_Zettel/Theory/Hubble constant and deceleration parameter.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Cepheids and supernovae](../../02_Zettel/Theory/Cepheids and supernovae.html)
+- [Hubble's law and cosmological redshift](../../02_Zettel/Theory/Hubble's law and cosmological redshift.html)
+- [Magnitudes and photometric systems](../../02_Zettel/Theory/Magnitudes and photometric systems.html)
+- [Tully-Fisher relation](../../02_Zettel/Theory/Tully-Fisher relation.html)
+- [Fundamental plane of ellipticals](../../02_Zettel/Theory/Fundamental plane of ellipticals.html)
+- [Hubble constant and deceleration parameter](../../02_Zettel/Theory/Hubble constant and deceleration parameter.html)
 - 03_Zettel/Theory/Cosmological distances
-- [Cosmic_inventory_dark_energy](../../02_Zettel/Theory/Cosmic_inventory_dark_energy.md)
+- [Cosmic_inventory_dark_energy](../../02_Zettel/Theory/Cosmic_inventory_dark_energy.html)

@@ -46,12 +46,12 @@ modern cosmological simulations (IllustrisTNG, EAGLE, SIMBA) reproduce the WHIM 
 
 ## see also
 
-- [Intergalactic medium](../../02_Zettel/Theory/Intergalactic medium.md)
+- [Intergalactic medium](../../02_Zettel/Theory/Intergalactic medium.html)
 - Lyman-α forest
-- [Cosmic_inventory_baryons](../../02_Zettel/Theory/Cosmic_inventory_baryons.md)
-- [Cosmic_inventory_overview](../../02_Zettel/Theory/Cosmic_inventory_overview.md)
-- [Reionization](../../02_Zettel/Theory/Reionization.md)
-- [ΛCDM current parameters](../../02_Zettel/Theory/ΛCDM current parameters.md)
-- [BBN_concordance_with_CMB](../../02_Zettel/Theory/BBN_concordance_with_CMB.md)
-- [Galaxy clusters and overview of evolution](../../02_Zettel/Theory/Galaxy clusters and overview of evolution.md)
-- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md)
+- [Cosmic_inventory_baryons](../../02_Zettel/Theory/Cosmic_inventory_baryons.html)
+- [Cosmic_inventory_overview](../../02_Zettel/Theory/Cosmic_inventory_overview.html)
+- [Reionization](../../02_Zettel/Theory/Reionization.html)
+- [ΛCDM current parameters](../../02_Zettel/Theory/ΛCDM current parameters.html)
+- [BBN_concordance_with_CMB](../../02_Zettel/Theory/BBN_concordance_with_CMB.html)
+- [Galaxy clusters and overview of evolution](../../02_Zettel/Theory/Galaxy clusters and overview of evolution.html)
+- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html)

@@ -14,7 +14,7 @@ the total-to-selective extinction ratio is
 
 $$R_V = \frac{A_V}{E(B-V)}$$
 
-and on a colour-magnitude diagram (see [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.md)), this ratio is the slope of the **reddening vector**. if you plot $V$ vs $(B-V)$, an unreddened star at intrinsic position $(V_0, (B-V)_0)$ shifts to
+and on a colour-magnitude diagram (see [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.html)), this ratio is the slope of the **reddening vector**. if you plot $V$ vs $(B-V)$, an unreddened star at intrinsic position $(V_0, (B-V)_0)$ shifts to
 
 $$V = V_0 + A_V, \quad (B-V) = (B-V)_0 + E(B-V)$$
 
@@ -28,6 +28,6 @@ a few subtleties:
 - the reddening vector direction depends on the photometric system. in $(V, B-V)$ the slope is $R_V \approx 3.1$, but in $(V, V-I)$ the slope changes because $A_V/E(V-I) \approx 2.45$ for the same dust law.
 - reddening is not the same as extinction alone. extinction is the total flux loss; reddening is the differential effect across wavelengths. you can have heavy extinction with little reddening if the dust law is grey, but in the standard ISM both go together.
 
-reddening is a key systematic in distance and age determinations. the [Distance modulus](../../02_Zettel/Theory/Distance modulus.md) becomes the apparent distance modulus $(m-M)_V = (m-M)_0 + A_V$, and getting $A_V$ wrong propagates directly into the inferred distance and any age inferred from main-sequence-turnoff fitting (see [Single stellar population SSP](../../02_Zettel/Theory/Single stellar population SSP.md)). for galactic globular clusters in the bulge, where reddening can be $E(B-V) \gtrsim 1$ and highly variable, this is one of the dominant error sources.
+reddening is a key systematic in distance and age determinations. the [Distance modulus](../../02_Zettel/Theory/Distance modulus.html) becomes the apparent distance modulus $(m-M)_V = (m-M)_0 + A_V$, and getting $A_V$ wrong propagates directly into the inferred distance and any age inferred from main-sequence-turnoff fitting (see [Single stellar population SSP](../../02_Zettel/Theory/Single stellar population SSP.html)). for galactic globular clusters in the bulge, where reddening can be $E(B-V) \gtrsim 1$ and highly variable, this is one of the dominant error sources.
 
-see also [Interstellar absorption](../../02_Zettel/Theory/Interstellar absorption.md), [Extinction law and Rv](../../02_Zettel/Theory/Extinction law and Rv.md), [HR diagram](../../02_Zettel/Theory/HR diagram.md), [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.md)
+see also [Interstellar absorption](../../02_Zettel/Theory/Interstellar absorption.html), [Extinction law and Rv](../../02_Zettel/Theory/Extinction law and Rv.html), [HR diagram](../../02_Zettel/Theory/HR diagram.html), [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.html)

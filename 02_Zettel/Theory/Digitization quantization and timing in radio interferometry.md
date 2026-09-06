@@ -71,7 +71,7 @@ source: local study diagram generated from a sampled and quantized voltage model
 
 ## see also
 
-- [Downconversion of signals in radio interferometers](../../02_Zettel/Theory/interf/Downconversion of signals in radio interferometers.md)
-- [Two-element correlator](../../02_Zettel/Theory/interf/Two-element correlator.md)
-- [Very Long Baseline Interferometry VLBI](../../02_Zettel/Theory/interf/Very Long Baseline Interferometry VLBI.md)
-- [Radio interferometer architecture](../../02_Zettel/Theory/interf/Radio interferometer architecture.md)
+- [Downconversion of signals in radio interferometers](../../02_Zettel/Theory/interf/Downconversion of signals in radio interferometers.html)
+- [Two-element correlator](../../02_Zettel/Theory/interf/Two-element correlator.html)
+- [Very Long Baseline Interferometry VLBI](../../02_Zettel/Theory/interf/Very Long Baseline Interferometry VLBI.html)
+- [Radio interferometer architecture](../../02_Zettel/Theory/interf/Radio interferometer architecture.html)

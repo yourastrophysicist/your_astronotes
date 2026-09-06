@@ -39,7 +39,7 @@ $$R_{00} \approx 8\pi G(\rho c^2 - \tfrac{1}{2}(-1)(-\rho c^2)) = 4\pi G \rho c^
 then $R_{00} \to -2\nabla^2 \Phi$ in the Newtonian limit, giving:
 $$\nabla^2 \Phi = 4\pi G \rho$$
 
-**Poisson's equation** of Newtonian gravity. see [Newtonian limit of GR](../../02_Zettel/Theory/Newtonian limit of GR.md) and Q10 - weak-field Ricci scalar.
+**Poisson's equation** of Newtonian gravity. see [Newtonian limit of GR](../../02_Zettel/Theory/Newtonian limit of GR.html) and Q10 - weak-field Ricci scalar.
 
 ### radiation
 for radiation, $T = -\rho + 3p = 0$. so the trace-reversed form gives $R_{\mu\nu} = 8\pi G T_{\mu\nu}$, no trace term needed. simpler.
@@ -55,11 +55,11 @@ both are equivalent. choice is a matter of computational convenience.
 
 ## see also
 
-- [Einstein equations](../../02_Zettel/Theory/Einstein equations.md)
-- [Einstein tensor and Bianchi](../../02_Zettel/Theory/Einstein tensor and Bianchi.md)
-- [Stress-energy tensor](../../02_Zettel/Theory/Stress-energy tensor.md)
-- [Newtonian limit of GR](../../02_Zettel/Theory/Newtonian limit of GR.md)
+- [Einstein equations](../../02_Zettel/Theory/Einstein equations.html)
+- [Einstein tensor and Bianchi](../../02_Zettel/Theory/Einstein tensor and Bianchi.html)
+- [Stress-energy tensor](../../02_Zettel/Theory/Stress-energy tensor.html)
+- [Newtonian limit of GR](../../02_Zettel/Theory/Newtonian limit of GR.html)
 - Q10 - weak-field Ricci scalar
-- [Schwarzschild metric](../../02_Zettel/Theory/Schwarzschild metric.md)
-- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.md)
-- [Ch 5 - The Einstein Equation](../../01_Literature/Book/Baumann GR/Ch 5 - The Einstein Equation.md)
+- [Schwarzschild metric](../../02_Zettel/Theory/Schwarzschild metric.html)
+- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.html)
+- [Ch 5 - The Einstein Equation](../../01_Literature/Book/Baumann GR/Ch 5 - The Einstein Equation.html)

@@ -81,8 +81,8 @@ for interferometry, the practical lesson: **never measure which path the light t
 
 ## see also
 
-- [Plane waves and Huygens principle](../../../02_Zettel/Theory/interf/Plane waves and Huygens principle.md)
-- [Superposition and interference](../../../02_Zettel/Theory/interf/Superposition and interference.md)
-- [Photon noise and statistics](../../../02_Zettel/Theory/interf/Photon noise and statistics.md)
-- [Polarization in interferometry](../../../02_Zettel/Theory/interf/Polarization in interferometry.md)
-- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Plane waves and Huygens principle](../../../02_Zettel/Theory/interf/Plane waves and Huygens principle.html)
+- [Superposition and interference](../../../02_Zettel/Theory/interf/Superposition and interference.html)
+- [Photon noise and statistics](../../../02_Zettel/Theory/interf/Photon noise and statistics.html)
+- [Polarization in interferometry](../../../02_Zettel/Theory/interf/Polarization in interferometry.html)
+- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.html)

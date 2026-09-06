@@ -44,7 +44,7 @@ $$j \propto n_e\,e^{-E_{ul}/k_BT_e}$$
 ### high density ($n_e \gg n_c$)
 collisional de-excitation wins. $j \propto A_{ul}$, **independent of $n_e$**. line saturates.
 
-the **critical density** $n_c = A_{ul}/q_{ul}$ marks the transition. see [Critical density](../../02_Zettel/Theory/Critical density.md).
+the **critical density** $n_c = A_{ul}/q_{ul}$ marks the transition. see [Critical density](../../02_Zettel/Theory/Critical density.html).
 
 ## the temperature diagnostics
 
@@ -54,16 +54,16 @@ $$\frac{F(\lambda_1)}{F(\lambda_2)} = \frac{A_1 \nu_1}{A_2 \nu_2} = \text{const}
 ratios of lines from **different upper levels** of the same ion depend on the ratio of Boltzmann factors $\to$ direct $T_e$:
 $$\frac{F(\lambda_1)}{F(\lambda_2)} \propto e^{-(E_1 - E_2)/k_BT_e}$$
 
-example: $[OIII]\,\lambda 4363/(\lambda 4959 + \lambda 5007)$ is highly $T_e$-sensitive because $\lambda 4363$ comes from a much higher level. see [OIII forbidden lines](../../02_Zettel/Theory/OIII forbidden lines.md).
+example: $[OIII]\,\lambda 4363/(\lambda 4959 + \lambda 5007)$ is highly $T_e$-sensitive because $\lambda 4363$ comes from a much higher level. see [OIII forbidden lines](../../02_Zettel/Theory/OIII forbidden lines.html).
 
 ## see also
 
-- [Statistical equilibrium equations](../../02_Zettel/Theory/Statistical equilibrium equations.md)
-- [Two-level atom](../../02_Zettel/Theory/Two-level atom.md)
-- [Critical density](../../02_Zettel/Theory/Critical density.md)
-- [Forbidden lines](../../02_Zettel/Theory/Forbidden lines.md)
-- [OIII forbidden lines](../../02_Zettel/Theory/OIII forbidden lines.md)
-- [SII forbidden lines](../../02_Zettel/Theory/SII forbidden lines.md)
-- [Forbidden line diagnostics](../../02_Zettel/Theory/Forbidden line diagnostics.md)
-- [Boltzmann equation in spectroscopy](../../02_Zettel/Theory/Boltzmann equation in spectroscopy.md)
-- [Spectroscopic Te diagnostics](../../02_Zettel/Theory/Spectroscopic Te diagnostics.md)
+- [Statistical equilibrium equations](../../02_Zettel/Theory/Statistical equilibrium equations.html)
+- [Two-level atom](../../02_Zettel/Theory/Two-level atom.html)
+- [Critical density](../../02_Zettel/Theory/Critical density.html)
+- [Forbidden lines](../../02_Zettel/Theory/Forbidden lines.html)
+- [OIII forbidden lines](../../02_Zettel/Theory/OIII forbidden lines.html)
+- [SII forbidden lines](../../02_Zettel/Theory/SII forbidden lines.html)
+- [Forbidden line diagnostics](../../02_Zettel/Theory/Forbidden line diagnostics.html)
+- [Boltzmann equation in spectroscopy](../../02_Zettel/Theory/Boltzmann equation in spectroscopy.html)
+- [Spectroscopic Te diagnostics](../../02_Zettel/Theory/Spectroscopic Te diagnostics.html)

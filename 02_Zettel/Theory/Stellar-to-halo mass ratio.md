@@ -5,7 +5,7 @@ title: "Stellar-to-halo mass ratio"
 
 # stellar-to-halo mass ratio
 
-up: [Pablo_02_Statistical_properties_of_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.md)
+up: [Pablo_02_Statistical_properties_of_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html)
 
 ## the most informative single plot in galaxy evolution
 
@@ -27,7 +27,7 @@ at low mass:
 
 - $M_h = 10^{10}\,M_\odot$ → $M_*/M_h \sim 10^{-3}$, so $M_* \sim 10^7\,M_\odot$
 - only $\sim 1\%$ of the cosmic baryon budget makes it into stars
-- this is **SN feedback** (see [Halo gravity suppression of galaxy formation](../../02_Zettel/Theory/Halo gravity suppression of galaxy formation.md))
+- this is **SN feedback** (see [Halo gravity suppression of galaxy formation](../../02_Zettel/Theory/Halo gravity suppression of galaxy formation.html))
 
 at high mass:
 
@@ -44,7 +44,7 @@ what *does* evolve: the halo mass function shifts to lower masses at high $z$ (f
 ## what abundance matching assumes
 
 - monotonic relation between $M_h$ and $M_*$ at fixed $z$ (no scatter, or controlled scatter)
-- both functions are correctly measured (the SMF, see [Stellar mass function](../../02_Zettel/Theory/Stellar mass function.md), and the HMF from N-body or Press-Schechter)
+- both functions are correctly measured (the SMF, see [Stellar mass function](../../02_Zettel/Theory/Stellar mass function.html), and the HMF from N-body or Press-Schechter)
 - no environmental dependence beyond what is captured by halo mass
 
 modern variants relax these (HOD models, conditional luminosity functions, splashback masses), but the SHMR is the simplest and most informative starting point.
@@ -55,10 +55,10 @@ every galaxy formation model lives or dies on this plot. you have one curve, one
 
 ## connections
 
-- function pair: [Halo mass function vs galaxy mass function](../../02_Zettel/Theory/Halo mass function vs galaxy mass function.md)
-- mechanism: [Halo gravity suppression of galaxy formation](../../02_Zettel/Theory/Halo gravity suppression of galaxy formation.md)
-- LF/SMF: [Stellar mass function](../../02_Zettel/Theory/Stellar mass function.md)
-- big-picture: [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md) block 10
+- function pair: [Halo mass function vs galaxy mass function](../../02_Zettel/Theory/Halo mass function vs galaxy mass function.html)
+- mechanism: [Halo gravity suppression of galaxy formation](../../02_Zettel/Theory/Halo gravity suppression of galaxy formation.html)
+- LF/SMF: [Stellar mass function](../../02_Zettel/Theory/Stellar mass function.html)
+- big-picture: [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html) block 10
 
 ## key references
 

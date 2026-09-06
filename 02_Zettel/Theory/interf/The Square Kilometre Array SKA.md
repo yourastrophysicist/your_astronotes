@@ -127,7 +127,7 @@ scientifically, SKA is expected to:
 
 ## see also
 
-- [Major radio interferometers](../../../02_Zettel/Theory/interf/Major radio interferometers.md)
-- [Pulsar timing arrays as interferometers](../../../02_Zettel/Theory/interf/Pulsar timing arrays as interferometers.md)
-- [ngVLA Next Generation VLA](../../../02_Zettel/Theory/interf/ngVLA Next Generation VLA.md)
-- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Major radio interferometers](../../../02_Zettel/Theory/interf/Major radio interferometers.html)
+- [Pulsar timing arrays as interferometers](../../../02_Zettel/Theory/interf/Pulsar timing arrays as interferometers.html)
+- [ngVLA Next Generation VLA](../../../02_Zettel/Theory/interf/ngVLA Next Generation VLA.html)
+- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.html)

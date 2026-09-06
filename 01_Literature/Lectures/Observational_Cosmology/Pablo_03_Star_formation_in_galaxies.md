@@ -5,7 +5,7 @@ title: "Pablo_03_Star_formation_in_galaxies"
 
 # Pablo lecture 1B — star formation in galaxies
 
-up: [Observational_Cosmology_MOC](../../../00_Atlas/Observational_Cosmology_MOC.md)
+up: [Observational_Cosmology_MOC](../../../00_Atlas/Observational_Cosmology_MOC.html)
 date: 2026-04-13
 lecturer: Pablo Pérez-González (visiting)
 
@@ -17,17 +17,17 @@ the whole lecture revolves around converting an observable (a flux in some band)
 
 ## the central variables
 
-- **star formation rate** $\psi(t) = dM_*/dt$ in $M_\odot/\text{yr}$. see [Star formation rate and sSFR](../../../02_Zettel/Theory/Star formation rate and sSFR.md).
+- **star formation rate** $\psi(t) = dM_*/dt$ in $M_\odot/\text{yr}$. see [Star formation rate and sSFR](../../../02_Zettel/Theory/Star formation rate and sSFR.html).
 - **specific SFR** $\text{sSFR} = \psi / M_*$, with units of $\text{yr}^{-1}$. measures how fast the galaxy is doubling its stellar mass.
-- **star formation history** $\psi(t)$, the whole function. see [Star formation history parametrizations](../../../02_Zettel/Theory/Star formation history parametrizations.md).
-- **initial mass function** $\xi(M)$, the distribution of stellar masses at formation. see [Initial mass function](../../../02_Zettel/Theory/Initial mass function.md).
-- **chemical evolution** $Z(t)$. see [Chemical evolution of galaxies](../../../02_Zettel/Theory/Chemical evolution of galaxies.md).
+- **star formation history** $\psi(t)$, the whole function. see [Star formation history parametrizations](../../../02_Zettel/Theory/Star formation history parametrizations.html).
+- **initial mass function** $\xi(M)$, the distribution of stellar masses at formation. see [Initial mass function](../../../02_Zettel/Theory/Initial mass function.html).
+- **chemical evolution** $Z(t)$. see [Chemical evolution of galaxies](../../../02_Zettel/Theory/Chemical evolution of galaxies.html).
 
-all of them are entangled in the observable: a single SED is produced by integrating $\xi(M)$ over $\psi(t)$ convolved with stellar evolution tracks and reddened by dust, plus emission from gas and (sometimes) AGN. separating them is what stellar population synthesis tries to do. see [Stellar population synthesis](../../../02_Zettel/Theory/Stellar population synthesis.md).
+all of them are entangled in the observable: a single SED is produced by integrating $\xi(M)$ over $\psi(t)$ convolved with stellar evolution tracks and reddened by dust, plus emission from gas and (sometimes) AGN. separating them is what stellar population synthesis tries to do. see [Stellar population synthesis](../../../02_Zettel/Theory/Stellar population synthesis.html).
 
 ## time scales in a galaxy
 
-before computing anything, Pablo lists the time scales that matter, because SFR tracers are only useful if the tracer lifetime is shorter than the SFR variation timescale. see [Galaxy time scales](../../../02_Zettel/Theory/Galaxy time scales.md) for:
+before computing anything, Pablo lists the time scales that matter, because SFR tracers are only useful if the tracer lifetime is shorter than the SFR variation timescale. see [Galaxy time scales](../../../02_Zettel/Theory/Galaxy time scales.html) for:
 
 - Hubble time $t_H = 1/H_0 \sim 14$ Gyr
 - dynamical time $t_{\text{dyn}} = \sqrt{3\pi/16 G \rho}$
@@ -42,56 +42,56 @@ every tracer is a window into the population of massive, short-lived stars, beca
 
 ### UV continuum (1500–2800 Å)
 - traces O and B stars, timescale $\sim 10$–$100$ Myr
-- [UV SFR tracer](../../../02_Zettel/Theory/UV SFR tracer.md): Kennicutt 1998 calibration $\text{SFR} = 1.4 \times 10^{-28} L_\nu(\text{UV})$
-- but the UV is heavily dust-absorbed. to correct you use the [UV slope and IRX-beta relation](../../../02_Zettel/Theory/UV slope and IRX-beta relation.md) (Meurer 1999)
-- dust correction depends on the assumed [Dust attenuation and extinction curves](../../../02_Zettel/Theory/Dust attenuation and extinction curves.md) (Calzetti 2000, Cardelli 1989, Charlot & Fall 2000)
+- [UV SFR tracer](../../../02_Zettel/Theory/UV SFR tracer.html): Kennicutt 1998 calibration $\text{SFR} = 1.4 \times 10^{-28} L_\nu(\text{UV})$
+- but the UV is heavily dust-absorbed. to correct you use the [UV slope and IRX-beta relation](../../../02_Zettel/Theory/UV slope and IRX-beta relation.html) (Meurer 1999)
+- dust correction depends on the assumed [Dust attenuation and extinction curves](../../../02_Zettel/Theory/Dust attenuation and extinction curves.html) (Calzetti 2000, Cardelli 1989, Charlot & Fall 2000)
 
 ### Hα recombination line (6563 Å)
 - traces ionizing photons from O stars, timescale $\sim 10$ Myr only
-- [H-alpha SFR tracer](../../../02_Zettel/Theory/H-alpha SFR tracer.md): $\text{SFR} = 7.9 \times 10^{-42} L(\text{H}\alpha)$
-- still needs dust correction via [Balmer decrement](../../../02_Zettel/Theory/Balmer decrement.md) $F(\text{H}\alpha)/F(\text{H}\beta) = 2.86$ for case B
+- [H-alpha SFR tracer](../../../02_Zettel/Theory/H-alpha SFR tracer.html): $\text{SFR} = 7.9 \times 10^{-42} L(\text{H}\alpha)$
+- still needs dust correction via [Balmer decrement](../../../02_Zettel/Theory/Balmer decrement.html) $F(\text{H}\alpha)/F(\text{H}\beta) = 2.86$ for case B
 
 ### Lyman α (1216 Å)
 - also a recombination line, but resonantly scattered by neutral H
-- [Lyman alpha SFR tracer](../../../02_Zettel/Theory/Lyman alpha SFR tracer.md): fraction that escapes depends on HI geometry and dust
+- [Lyman alpha SFR tracer](../../../02_Zettel/Theory/Lyman alpha SFR tracer.html): fraction that escapes depends on HI geometry and dust
 
 ### [OII] 3727 Å
 - forbidden doublet, needs metallicity-dependent calibration
-- [OII SFR tracer](../../../02_Zettel/Theory/OII SFR tracer.md): secondary but useful at intermediate $z$ where Hα redshifts out of the optical
+- [OII SFR tracer](../../../02_Zettel/Theory/OII SFR tracer.html): secondary but useful at intermediate $z$ where Hα redshifts out of the optical
 
 ### Paschen α, [CII] 158 μm, PAHs
 - NIR and MIR features, less extinction-sensitive than the optical/UV
-- [Other SFR tracer lines](../../../02_Zettel/Theory/Other SFR tracer lines.md)
+- [Other SFR tracer lines](../../../02_Zettel/Theory/Other SFR tracer lines.html)
 
 ### X-rays (0.5–10 keV)
 - diffuse + HMXB emission, $\text{SFR} \propto L_X$, timescale $\sim 10$ Myr
-- [X-ray SFR tracer](../../../02_Zettel/Theory/X-ray SFR tracer.md): Ranalli 2003, Mineo 2014
+- [X-ray SFR tracer](../../../02_Zettel/Theory/X-ray SFR tracer.html): Ranalli 2003, Mineo 2014
 
 ### total IR (8–1000 μm)
 - reprocessed UV/optical by dust grains, the only SFR tracer that is *insensitive* to extinction (the absorbed photons *are* the tracer)
-- [IR SFR tracer](../../../02_Zettel/Theory/IR SFR tracer.md): $\text{SFR} = 4.5 \times 10^{-44} L_{\text{TIR}}$ (Kennicutt 1998)
+- [IR SFR tracer](../../../02_Zettel/Theory/IR SFR tracer.html): $\text{SFR} = 4.5 \times 10^{-44} L_{\text{TIR}}$ (Kennicutt 1998)
 - Pablo emphasises his own Pérez-González 2006 work on the M81 SED
 
 ### radio (1.4 / 8.5 GHz)
 - synchrotron from cosmic-ray electrons + thermal free-free from HII regions
-- [Radio SFR tracer](../../../02_Zettel/Theory/Radio SFR tracer.md): advantage is immunity to extinction; disadvantage is contamination from AGN
+- [Radio SFR tracer](../../../02_Zettel/Theory/Radio SFR tracer.html): advantage is immunity to extinction; disadvantage is contamination from AGN
 
 ### comparison across tracers
-- [SFR tracer comparison](../../../02_Zettel/Theory/SFR tracer comparison.md): Cardiel 2003, Pérez-González 2006, Buat 2002, Sullivan 2000. IR-based SFR and Hα-based SFR agree on average but scatter grows at high luminosity, where dust obscuration is extreme.
+- [SFR tracer comparison](../../../02_Zettel/Theory/SFR tracer comparison.html): Cardiel 2003, Pérez-González 2006, Buat 2002, Sullivan 2000. IR-based SFR and Hα-based SFR agree on average but scatter grows at high luminosity, where dust obscuration is extreme.
 
 ## SFH tracers: how do we get $\psi(t)$ itself?
 
 two approaches:
 
-1. **resolved colour-magnitude diagrams** (Local Group, M31, SMC): [SFH from resolved CMDs](../../../02_Zettel/Theory/SFH from resolved CMDs.md). Ferguson 2002, Tolstoy 2009, Harris & Zaritsky 2004.
-2. **broadband SED fitting** with stellar population synthesis models: assume a parametric SFH and fit. [SED fitting for SFH](../../../02_Zettel/Theory/SED fitting for SFH.md). Papovich 2001, Pérez-González 2008. the workhorse for everything beyond the Local Group.
+1. **resolved colour-magnitude diagrams** (Local Group, M31, SMC): [SFH from resolved CMDs](../../../02_Zettel/Theory/SFH from resolved CMDs.html). Ferguson 2002, Tolstoy 2009, Harris & Zaritsky 2004.
+2. **broadband SED fitting** with stellar population synthesis models: assume a parametric SFH and fit. [SED fitting for SFH](../../../02_Zettel/Theory/SED fitting for SFH.html). Papovich 2001, Pérez-González 2008. the workhorse for everything beyond the Local Group.
 
 ## example galaxy classes
 
-- [Starburst galaxies](../../../02_Zettel/Theory/Starburst galaxies.md): M82, NGC 1741, Wolf-Rayet galaxies, HII galaxies / BCDs
-- [Post-starburst galaxies](../../../02_Zettel/Theory/Post-starburst galaxies.md): strong Balmer absorption, no emission, Kriek 2010
-- [LIRGs ULIRGs HyLIRGs](../../../02_Zettel/Theory/LIRGs ULIRGs HyLIRGs.md): $L_{\text{IR}} > 10^{11}, 10^{12}, 10^{13} L_\odot$, Sanders & Mirabel 1996, Arp 220. most are mergers.
-- [Galaxy mergers and SF](../../../02_Zettel/Theory/Galaxy mergers and SF.md): merger fraction rises with $z$, and major mergers drive the (U)LIRG population.
+- [Starburst galaxies](../../../02_Zettel/Theory/Starburst galaxies.html): M82, NGC 1741, Wolf-Rayet galaxies, HII galaxies / BCDs
+- [Post-starburst galaxies](../../../02_Zettel/Theory/Post-starburst galaxies.html): strong Balmer absorption, no emission, Kriek 2010
+- [LIRGs ULIRGs HyLIRGs](../../../02_Zettel/Theory/LIRGs ULIRGs HyLIRGs.html): $L_{\text{IR}} > 10^{11}, 10^{12}, 10^{13} L_\odot$, Sanders & Mirabel 1996, Arp 220. most are mergers.
+- [Galaxy mergers and SF](../../../02_Zettel/Theory/Galaxy mergers and SF.html): merger fraction rises with $z$, and major mergers drive the (U)LIRG population.
 
 ## stellar population synthesis
 
@@ -108,7 +108,7 @@ Pablo stresses that the **ingredients** of any SPS model are: metallicity $Z$, I
 - closed-box vs inflow/outflow
 - yields from SN II (α-elements), SN Ia (Fe peak), AGB (C, N, s-process)
 - Tinsley 1979 framework: $\dot M_Z = -\psi Z + \int y_Z\, \xi\, \psi\, dm$
-- see [Chemical evolution of galaxies](../../../02_Zettel/Theory/Chemical evolution of galaxies.md)
+- see [Chemical evolution of galaxies](../../../02_Zettel/Theory/Chemical evolution of galaxies.html)
 
 ## what the student should take away
 
@@ -120,11 +120,11 @@ Pablo stresses that the **ingredients** of any SPS model are: metallicity $Z$, I
 
 ## connections
 
-- previous lecture: [Pablo_02_Statistical_properties_of_galaxies](../../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.md)
-- integral of SFR over the whole universe: [Cosmic star formation history](../../../02_Zettel/Theory/Cosmic star formation history.md)
-- locus on which star-forming galaxies live: [Galaxy main sequence of star formation](../../../02_Zettel/Theory/Galaxy main sequence of star formation.md)
-- SFR $\leftrightarrow$ gas: [Schmidt-Kennicutt law](../../../02_Zettel/Theory/Schmidt-Kennicutt law.md)
-- MOC: [Observational_Cosmology_MOC](../../../00_Atlas/Observational_Cosmology_MOC.md)
+- previous lecture: [Pablo_02_Statistical_properties_of_galaxies](../../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html)
+- integral of SFR over the whole universe: [Cosmic star formation history](../../../02_Zettel/Theory/Cosmic star formation history.html)
+- locus on which star-forming galaxies live: [Galaxy main sequence of star formation](../../../02_Zettel/Theory/Galaxy main sequence of star formation.html)
+- SFR $\leftrightarrow$ gas: [Schmidt-Kennicutt law](../../../02_Zettel/Theory/Schmidt-Kennicutt law.html)
+- MOC: [Observational_Cosmology_MOC](../../../00_Atlas/Observational_Cosmology_MOC.html)
 
 ## key references
 

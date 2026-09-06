@@ -77,7 +77,7 @@ at $z \lesssim 0.1$: SN Ia are well-fit by Hubble's linear law $v = H_0 d$.
 
 at $z \sim 0.5$–$1$: SN Ia are *fainter* than expected in any matter-only universe → the universe is **accelerating**. → discovery of dark energy (Perlmutter 1998, Riess 1998 — Nobel 2011).
 
-→ see [Hubble law exact form](../../02_Zettel/Theory/Hubble law exact form.md) and [Cosmic_inventory_dark_energy](../../02_Zettel/Theory/Cosmic_inventory_dark_energy.md).
+→ see [Hubble law exact form](../../02_Zettel/Theory/Hubble law exact form.html) and [Cosmic_inventory_dark_energy](../../02_Zettel/Theory/Cosmic_inventory_dark_energy.html).
 
 at $z > 1$: SN Ia continue to provide constraints on the **dark energy equation of state**. the modern "Pantheon" and "Pantheon+" samples have $\sim 1500$ SN Ia and constrain $w$ to a few percent.
 
@@ -91,7 +91,7 @@ calibrated step by step:
 
 modern: **SH0ES program** (Riess+) anchors via Cepheids; **CCHP** (Freedman+) uses TRGB instead. SH0ES finds $H_0 = 73$, CCHP finds $H_0 \sim 70$. Hubble tension persists.
 
-→ see [Hubble constant and deceleration parameter](../../02_Zettel/Theory/Hubble constant and deceleration parameter.md).
+→ see [Hubble constant and deceleration parameter](../../02_Zettel/Theory/Hubble constant and deceleration parameter.html).
 
 ---
 
@@ -114,12 +114,12 @@ ongoing measurements with TRGB, JWST imaging of Cepheids, gravitational waves as
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Parallax and standard candles](../../02_Zettel/Theory/Parallax and standard candles.md)
-- [Hubble's law and cosmological redshift](../../02_Zettel/Theory/Hubble's law and cosmological redshift.md)
-- [Hubble constant and deceleration parameter](../../02_Zettel/Theory/Hubble constant and deceleration parameter.md)
-- [Hubble law exact form](../../02_Zettel/Theory/Hubble law exact form.md)
-- [Cosmic_inventory_dark_energy](../../02_Zettel/Theory/Cosmic_inventory_dark_energy.md)
-- [HR diagram](../../02_Zettel/Theory/HR diagram.md)
-- [Solar evolution and final stages](../../02_Zettel/Theory/Solar evolution and final stages.md)
-- [Magnitudes and photometric systems](../../02_Zettel/Theory/Magnitudes and photometric systems.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Parallax and standard candles](../../02_Zettel/Theory/Parallax and standard candles.html)
+- [Hubble's law and cosmological redshift](../../02_Zettel/Theory/Hubble's law and cosmological redshift.html)
+- [Hubble constant and deceleration parameter](../../02_Zettel/Theory/Hubble constant and deceleration parameter.html)
+- [Hubble law exact form](../../02_Zettel/Theory/Hubble law exact form.html)
+- [Cosmic_inventory_dark_energy](../../02_Zettel/Theory/Cosmic_inventory_dark_energy.html)
+- [HR diagram](../../02_Zettel/Theory/HR diagram.html)
+- [Solar evolution and final stages](../../02_Zettel/Theory/Solar evolution and final stages.html)
+- [Magnitudes and photometric systems](../../02_Zettel/Theory/Magnitudes and photometric systems.html)

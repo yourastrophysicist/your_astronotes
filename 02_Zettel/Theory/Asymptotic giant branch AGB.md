@@ -25,9 +25,9 @@ two sub-phases:
 CMD signatures. AGB stars sit slightly *blueward* of the RGB at low $L$ but reach $L$ above the RGB tip. they are sparsely populated in low-mass clusters because the TP-AGB lifetime is short ($\sim 10^6$ yr); old MW GCs typically show a handful of AGB stars. the **AGB clump** or "AGB bump" is the analogue of the RGB bump for AGB stars. dusty AGBs are bright in mid-IR and provide the dominant *near-IR luminosity* of intermediate-age (1-2 Gyr) populations, complicating SSP models.
 
 ## see also
-- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.md)
-- [Helium flash and horizontal branch](../../02_Zettel/Theory/Helium flash and horizontal branch.md)
-- [White dwarf cooling sequence on the CMD](../../02_Zettel/Theory/White dwarf cooling sequence on the CMD.md)
-- [Red giant branch RGB](../../02_Zettel/Theory/Red giant branch RGB.md)
-- [Single stellar population SSP](../../02_Zettel/Theory/Single stellar population SSP.md)
-- [Stellar evolutionary phases on the CMD](../../02_Zettel/Theory/Stellar evolutionary phases on the CMD.md)
+- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.html)
+- [Helium flash and horizontal branch](../../02_Zettel/Theory/Helium flash and horizontal branch.html)
+- [White dwarf cooling sequence on the CMD](../../02_Zettel/Theory/White dwarf cooling sequence on the CMD.html)
+- [Red giant branch RGB](../../02_Zettel/Theory/Red giant branch RGB.html)
+- [Single stellar population SSP](../../02_Zettel/Theory/Single stellar population SSP.html)
+- [Stellar evolutionary phases on the CMD](../../02_Zettel/Theory/Stellar evolutionary phases on the CMD.html)

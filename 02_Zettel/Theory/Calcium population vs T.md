@@ -37,7 +37,7 @@ so Ca II H + K are strong from M through early A, peaking around G-K. the broade
 
 ## why Ca II is so prominent in galaxy spectra
 
-galaxy integrated light is dominated by **G and K stars** (most numerous in the IMF, longest MS lifetime). these stars all have very strong Ca II H + K. so old galaxy spectra show massive H + K absorption, contributing to the **$4000$ Å break** ([Calcium and CaII H+K](../../02_Zettel/Theory/Calcium and CaII H+K.md)).
+galaxy integrated light is dominated by **G and K stars** (most numerous in the IMF, longest MS lifetime). these stars all have very strong Ca II H + K. so old galaxy spectra show massive H + K absorption, contributing to the **$4000$ Å break** ([Calcium and CaII H+K](../../02_Zettel/Theory/Calcium and CaII H+K.html)).
 
 so Ca II H + K are simultaneously:
 - a **stellar temperature thermometer** in F-G-K dwarfs (line shape changes).
@@ -51,11 +51,11 @@ Ca II also has a strong NIR triplet at $8498, 8542, 8662$ Å from $3\,^2D \to 4\
 
 ## see also
 
-- [Calcium and CaII H+K](../../02_Zettel/Theory/Calcium and CaII H+K.md)
-- [Boltzmann equation in spectroscopy](../../02_Zettel/Theory/Boltzmann equation in spectroscopy.md)
-- [Saha ionisation equation](../../02_Zettel/Theory/Saha ionisation equation.md)
-- [Population of excited levels](../../02_Zettel/Theory/Population of excited levels.md)
-- [Why the Sequence OBAFGKM](../../02_Zettel/Theory/Why the Sequence OBAFGKM.md)
-- [Stellar spectra and spectral classification](../../02_Zettel/Theory/Stellar spectra and spectral classification.md)
-- [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.md)
-- [Single stellar population SSP](../../02_Zettel/Theory/Single stellar population SSP.md)
+- [Calcium and CaII H+K](../../02_Zettel/Theory/Calcium and CaII H+K.html)
+- [Boltzmann equation in spectroscopy](../../02_Zettel/Theory/Boltzmann equation in spectroscopy.html)
+- [Saha ionisation equation](../../02_Zettel/Theory/Saha ionisation equation.html)
+- [Population of excited levels](../../02_Zettel/Theory/Population of excited levels.html)
+- [Why the Sequence OBAFGKM](../../02_Zettel/Theory/Why the Sequence OBAFGKM.html)
+- [Stellar spectra and spectral classification](../../02_Zettel/Theory/Stellar spectra and spectral classification.html)
+- [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.html)
+- [Single stellar population SSP](../../02_Zettel/Theory/Single stellar population SSP.html)

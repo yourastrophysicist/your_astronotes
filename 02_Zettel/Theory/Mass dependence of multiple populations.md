@@ -4,7 +4,7 @@ name: Mass dependence of multiple populations
 description: how the 2G fraction, helium spread, + chemical extension scale with cluster mass, with low-mass clusters often single-population + LMC eMSTO clusters reversing the trend
 ---
 
-multiple populations are not a binary on/off feature. their amplitude scales smoothly with cluster mass: more massive GCs host larger 2G fractions, larger helium spreads, + more extreme chemical anti-correlations. low-mass clusters often show no MPs at all. this scaling is one of the strongest empirical handles on the formation mechanism + a key constraint on [Polluter scenarios for second-generation GC stars](../../02_Zettel/Theory/Polluter scenarios for second-generation GC stars.md).
+multiple populations are not a binary on/off feature. their amplitude scales smoothly with cluster mass: more massive GCs host larger 2G fractions, larger helium spreads, + more extreme chemical anti-correlations. low-mass clusters often show no MPs at all. this scaling is one of the strongest empirical handles on the formation mechanism + a key constraint on [Polluter scenarios for second-generation GC stars](../../02_Zettel/Theory/Polluter scenarios for second-generation GC stars.html).
 
 ## the empirical scaling
 
@@ -33,7 +33,7 @@ bastian + lardo 2018 catalogued these "single-population" clusters + argued the 
 
 why? possible explanations:
 1. **deep potential well needed** to retain polluter ejecta against SN winds + radiation pressure. deeper wells form in more massive proto-clusters, scaling roughly with $\sigma_v^2 \propto M / r$.
-2. **runaway collisions** to form a [supermassive star](../../02_Zettel/Theory/Polluter scenarios for second-generation GC stars.md) require very dense initial conditions, which are realized only in massive proto-clusters
+2. **runaway collisions** to form a [supermassive star](../../02_Zettel/Theory/Polluter scenarios for second-generation GC stars.html) require very dense initial conditions, which are realized only in massive proto-clusters
 3. **dilution gas reservoir**: more massive clusters can retain larger gas budgets for the second-generation star formation event
 
 ## the radial + dynamical signatures
@@ -47,13 +47,13 @@ dalessandro, ferraro, miocchi + others have measured this radial segregation. so
 ## the LMC age trend + reversal
 
 a beautiful complication comes from the LMC + SMC clusters. observations show:
-- **young** ($< 2$ Gyr) massive LMC clusters: NO multiple-population N-He chemistry, but **eMSTO** + split MS due to rotation (see [Extended main sequence turn-off eMSTO](../../02_Zettel/Theory/Extended main sequence turn-off eMSTO.md))
+- **young** ($< 2$ Gyr) massive LMC clusters: NO multiple-population N-He chemistry, but **eMSTO** + split MS due to rotation (see [Extended main sequence turn-off eMSTO](../../02_Zettel/Theory/Extended main sequence turn-off eMSTO.html))
 - **intermediate** ($2$-$8$ Gyr) LMC clusters: weak or partial N-spread (martocchia, niederhofer, lardo + bastian)
 - **old** ($> 8$ Gyr) LMC clusters: full multiple-population signature, indistinguishable from galactic GCs
 
 this is striking. it suggests MPs may **develop** with age, or alternatively that only old clusters formed under the conditions that produce MPs. the timing is consistent with the hypothesis that MPs require the cluster to be very massive at formation + that present-day low-mass clusters were once more massive but lost mass to tides.
 
-at very young ages ($< 100$ Myr) the eMSTO LMC clusters show split MS due to rotation, not chemistry: this is the rotation regime + does not connect cleanly to the chemical MP signature seen in old GCs (see [eMSTO and multiple populations connection](../../02_Zettel/Theory/eMSTO and multiple populations connection.md)).
+at very young ages ($< 100$ Myr) the eMSTO LMC clusters show split MS due to rotation, not chemistry: this is the rotation regime + does not connect cleanly to the chemical MP signature seen in old GCs (see [eMSTO and multiple populations connection](../../02_Zettel/Theory/eMSTO and multiple populations connection.html)).
 
 ## interpretation
 
@@ -66,15 +66,15 @@ all of these scale with mass. the cleanest statement: **multiple populations are
 
 ## see also
 
-- [Multiple populations in GCs discovery](../../02_Zettel/Theory/Multiple populations in GCs discovery.md)
-- [Photometric chromosome maps](../../02_Zettel/Theory/Photometric chromosome maps.md)
-- [Helium spread in GCs](../../02_Zettel/Theory/Helium spread in GCs.md)
-- [Polluter scenarios for second-generation GC stars](../../02_Zettel/Theory/Polluter scenarios for second-generation GC stars.md)
-- [GC formation models with MPs](../../02_Zettel/Theory/GC formation models with MPs.md)
-- [Type I and Type II GCs](../../02_Zettel/Theory/Type I and Type II GCs.md)
-- [Multiple populations in extragalactic GCs](../../02_Zettel/Theory/Multiple populations in extragalactic GCs.md)
-- [Extended main sequence turn-off eMSTO](../../02_Zettel/Theory/Extended main sequence turn-off eMSTO.md)
-- [eMSTO and multiple populations connection](../../02_Zettel/Theory/eMSTO and multiple populations connection.md)
+- [Multiple populations in GCs discovery](../../02_Zettel/Theory/Multiple populations in GCs discovery.html)
+- [Photometric chromosome maps](../../02_Zettel/Theory/Photometric chromosome maps.html)
+- [Helium spread in GCs](../../02_Zettel/Theory/Helium spread in GCs.html)
+- [Polluter scenarios for second-generation GC stars](../../02_Zettel/Theory/Polluter scenarios for second-generation GC stars.html)
+- [GC formation models with MPs](../../02_Zettel/Theory/GC formation models with MPs.html)
+- [Type I and Type II GCs](../../02_Zettel/Theory/Type I and Type II GCs.html)
+- [Multiple populations in extragalactic GCs](../../02_Zettel/Theory/Multiple populations in extragalactic GCs.html)
+- [Extended main sequence turn-off eMSTO](../../02_Zettel/Theory/Extended main sequence turn-off eMSTO.html)
+- [eMSTO and multiple populations connection](../../02_Zettel/Theory/eMSTO and multiple populations connection.html)
 - Magellanic Clouds
-- [Stellar populations I II III](../../02_Zettel/Theory/Stellar populations I II III.md)
-- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.md)
+- [Stellar populations I II III](../../02_Zettel/Theory/Stellar populations I II III.html)
+- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.html)

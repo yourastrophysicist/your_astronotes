@@ -3,7 +3,7 @@ layout: default
 title: "Precession nutation aberration parallax"
 ---
 
-on top of the equatorial coordinate frame ([Equatorial system](../../02_Zettel/Theory/Equatorial system.md)) sit four small but unavoidable corrections. any precision astrometry, target acquisition, or ephemeris computation has to account for them. each is geometric and well-understood.
+on top of the equatorial coordinate frame ([Equatorial system](../../02_Zettel/Theory/Equatorial system.html)) sit four small but unavoidable corrections. any precision astrometry, target acquisition, or ephemeris computation has to account for them. each is geometric and well-understood.
 
 ## precession of the equinoxes
 
@@ -36,7 +36,7 @@ apparent shift of a nearby star against distant background as Earth orbits the S
 $$p = \frac{1\,\text{AU}}{d}$$
 maximum amplitude $p \le 0.76''$ (Proxima Centauri, $1.3$ pc). decreases linearly with distance. defines the parsec: $d({\rm pc}) = 1/p({\rm arcsec})$.
 
-**consequence**: must be removed for precision astrometry of background stars; *measured* for foreground stars, where it is the only fully geometric distance method. see [Distance ladder derivations](../../02_Zettel/Theory/Distance ladder derivations.md) and [Annual stellar parallax](../../02_Zettel/Theory/Annual stellar parallax.md).
+**consequence**: must be removed for precision astrometry of background stars; *measured* for foreground stars, where it is the only fully geometric distance method. see [Distance ladder derivations](../../02_Zettel/Theory/Distance ladder derivations.html) and [Annual stellar parallax](../../02_Zettel/Theory/Annual stellar parallax.html).
 
 ## ordering and magnitudes
 
@@ -51,9 +51,9 @@ the order in which they are applied to a catalog position to get an apparent pos
 
 ## see also
 
-- [Equatorial system](../../02_Zettel/Theory/Equatorial system.md)
-- [Time keeping in astronomy](../../02_Zettel/Theory/Time keeping in astronomy.md)
-- [Annual stellar parallax](../../02_Zettel/Theory/Annual stellar parallax.md)
-- [Distance ladder derivations](../../02_Zettel/Theory/Distance ladder derivations.md)
-- [Atmospheric refraction](../../02_Zettel/Theory/interf/Atmospheric refraction.md)
-- [Spherical trigonometry](../../02_Zettel/Theory/Spherical trigonometry.md)
+- [Equatorial system](../../02_Zettel/Theory/Equatorial system.html)
+- [Time keeping in astronomy](../../02_Zettel/Theory/Time keeping in astronomy.html)
+- [Annual stellar parallax](../../02_Zettel/Theory/Annual stellar parallax.html)
+- [Distance ladder derivations](../../02_Zettel/Theory/Distance ladder derivations.html)
+- [Atmospheric refraction](../../02_Zettel/Theory/interf/Atmospheric refraction.html)
+- [Spherical trigonometry](../../02_Zettel/Theory/Spherical trigonometry.html)

@@ -80,13 +80,13 @@ so AGN are not just targets but **probes** of cosmology.
 
 ## see also
 
-- [Galaxy spectroscopy by type](../../02_Zettel/Theory/Galaxy spectroscopy by type.md)
-- [BPT diagram](../../02_Zettel/Theory/BPT diagram.md)
-- [Forbidden line diagnostics](../../02_Zettel/Theory/Forbidden line diagnostics.md)
-- [Ionisation parameter U](../../02_Zettel/Theory/Ionisation parameter U.md)
-- [Magnesium and alkali earths](../../02_Zettel/Theory/Magnesium and alkali earths.md)
-- [Hydrogen spectral series](../../02_Zettel/Theory/Hydrogen spectral series.md)
-- [Helium energy levels](../../02_Zettel/Theory/Helium energy levels.md)
-- [Forbidden vs permitted vs semiforbidden transitions](../../02_Zettel/Theory/Forbidden vs permitted vs semiforbidden transitions.md)
-- [Synchrotron continuum](../../02_Zettel/Theory/Synchrotron continuum.md)
-- [Galactic Center](../../02_Zettel/Theory/Galactic Center.md) — the closest SMBH
+- [Galaxy spectroscopy by type](../../02_Zettel/Theory/Galaxy spectroscopy by type.html)
+- [BPT diagram](../../02_Zettel/Theory/BPT diagram.html)
+- [Forbidden line diagnostics](../../02_Zettel/Theory/Forbidden line diagnostics.html)
+- [Ionisation parameter U](../../02_Zettel/Theory/Ionisation parameter U.html)
+- [Magnesium and alkali earths](../../02_Zettel/Theory/Magnesium and alkali earths.html)
+- [Hydrogen spectral series](../../02_Zettel/Theory/Hydrogen spectral series.html)
+- [Helium energy levels](../../02_Zettel/Theory/Helium energy levels.html)
+- [Forbidden vs permitted vs semiforbidden transitions](../../02_Zettel/Theory/Forbidden vs permitted vs semiforbidden transitions.html)
+- [Synchrotron continuum](../../02_Zettel/Theory/Synchrotron continuum.html)
+- [Galactic Center](../../02_Zettel/Theory/Galactic Center.html) — the closest SMBH

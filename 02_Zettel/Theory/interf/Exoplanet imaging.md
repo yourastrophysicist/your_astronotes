@@ -103,7 +103,7 @@ these complement transit observations (which give bulk planet density) and radia
 
 ## see also
 
-- [Coronagraphy](../../../02_Zettel/Theory/interf/Coronagraphy.md)
-- [Nulling interferometry](../../../02_Zettel/Theory/interf/Nulling interferometry.md)
-- [VLTI Very Large Telescope Interferometer](../../../02_Zettel/Theory/interf/VLTI Very Large Telescope Interferometer.md)
-- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Coronagraphy](../../../02_Zettel/Theory/interf/Coronagraphy.html)
+- [Nulling interferometry](../../../02_Zettel/Theory/interf/Nulling interferometry.html)
+- [VLTI Very Large Telescope Interferometer](../../../02_Zettel/Theory/interf/VLTI Very Large Telescope Interferometer.html)
+- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.html)

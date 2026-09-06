@@ -108,7 +108,7 @@ $\cos h = 0$, $h = \pm 90° = \pm 6$ h. star above horizon for exactly 12 h, ris
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Spherical_astronomy_complete](../../02_Zettel/Theory/Spherical_astronomy_complete.md)
-- [Equatorial system](../../02_Zettel/Theory/Equatorial system.md)
-- [Alt-azimuth ↔ equatorial transformations](../../02_Zettel/Theory/Alt-azimuth ↔ equatorial transformations.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Spherical_astronomy_complete](../../02_Zettel/Theory/Spherical_astronomy_complete.html)
+- [Equatorial system](../../02_Zettel/Theory/Equatorial system.html)
+- [Alt-azimuth ↔ equatorial transformations](../../02_Zettel/Theory/Alt-azimuth ↔ equatorial transformations.html)

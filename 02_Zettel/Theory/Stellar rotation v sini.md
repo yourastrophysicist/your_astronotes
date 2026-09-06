@@ -42,19 +42,19 @@ the dramatic drop near spectral type F (the "Kraft break") is due to the onset o
 
 ## degeneracy with macroturbulence
 
-at moderate $v\sin i$ (5-20 km/s) the rotation kernel can be confused with **macroturbulence**, large-scale velocity fields with comparable broadening but a different functional form (radial-tangential profile). a Fourier or careful profile fit is needed to disentangle them. microturbulence (see [Microturbulence](../../02_Zettel/Theory/Microturbulence.md)) is different: it operates within the line-formation region rather than across the disk.
+at moderate $v\sin i$ (5-20 km/s) the rotation kernel can be confused with **macroturbulence**, large-scale velocity fields with comparable broadening but a different functional form (radial-tangential profile). a Fourier or careful profile fit is needed to disentangle them. microturbulence (see [Microturbulence](../../02_Zettel/Theory/Microturbulence.html)) is different: it operates within the line-formation region rather than across the disk.
 
 ## why it matters
 
 - $v\sin i$ traces stellar evolution: angular momentum loss on the main sequence, conservation on the giant branch.
 - it sets a floor on RV precision and abundance precision.
 - combined with rotational period from photometry (spots), $v\sin i$ gives stellar inclination.
-- in clusters, rotation distributions trace age and binary history; in stellar populations, fast rotators may produce extended turn-offs in the [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.md).
+- in clusters, rotation distributions trace age and binary history; in stellar populations, fast rotators may produce extended turn-offs in the [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.html).
 
 ## see also
-- [Atmospheric parameters Teff log g feh vmicro](../../02_Zettel/Theory/interf/Atmospheric parameters Teff log g feh vmicro.md)
-- [Microturbulence](../../02_Zettel/Theory/Microturbulence.md)
-- [Radial velocity from stellar spectra](../../02_Zettel/Theory/Radial velocity from stellar spectra.md)
-- [Equivalent width](../../02_Zettel/Theory/Equivalent width.md)
-- [Stellar atmosphere structure](../../02_Zettel/Theory/Stellar atmosphere structure.md)
-- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.md)
+- [Atmospheric parameters Teff log g feh vmicro](../../02_Zettel/Theory/interf/Atmospheric parameters Teff log g feh vmicro.html)
+- [Microturbulence](../../02_Zettel/Theory/Microturbulence.html)
+- [Radial velocity from stellar spectra](../../02_Zettel/Theory/Radial velocity from stellar spectra.html)
+- [Equivalent width](../../02_Zettel/Theory/Equivalent width.html)
+- [Stellar atmosphere structure](../../02_Zettel/Theory/Stellar atmosphere structure.html)
+- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.html)

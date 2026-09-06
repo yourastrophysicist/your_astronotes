@@ -98,8 +98,8 @@ for any 1D integral of a smooth function, Simpson is the right default. for 2D a
 
 ## see also
 
-- [Trapezoidal rule](../../02_Zettel/Theory/Trapezoidal rule.md)
-- [Trapezoidal rule error estimate](../../02_Zettel/Theory/Trapezoidal rule error estimate.md)
-- [Monte Carlo integration mean value method](../../02_Zettel/Theory/Monte Carlo integration mean value method.md)
-- [Truncation error and order of accuracy](../../02_Zettel/Theory/Truncation error and order of accuracy.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Trapezoidal rule](../../02_Zettel/Theory/Trapezoidal rule.html)
+- [Trapezoidal rule error estimate](../../02_Zettel/Theory/Trapezoidal rule error estimate.html)
+- [Monte Carlo integration mean value method](../../02_Zettel/Theory/Monte Carlo integration mean value method.html)
+- [Truncation error and order of accuracy](../../02_Zettel/Theory/Truncation error and order of accuracy.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

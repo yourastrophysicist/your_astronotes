@@ -18,7 +18,7 @@ for the Sun: $t_{\rm dyn,\odot} \sim 30$ minutes.
 
 physical meaning: any structural disturbance (e.g. starting nuclear burning, a perturbation in pressure) propagates across the star at the **sound speed** in $\sim t_{\rm dyn}$. so on timescales longer than $t_{\rm dyn}$, hydrostatic equilibrium is maintained instantaneously — the star is in **mechanical equilibrium** to a very good approximation.
 
-implication: the structure equations [Stellar structure equations](../../02_Zettel/Theory/Stellar structure equations.md) always assume hydrostatic equilibrium because all interesting processes happen on timescales much longer than $t_{\rm dyn}$.
+implication: the structure equations [Stellar structure equations](../../02_Zettel/Theory/Stellar structure equations.html) always assume hydrostatic equilibrium because all interesting processes happen on timescales much longer than $t_{\rm dyn}$.
 
 ---
 
@@ -100,9 +100,9 @@ similarly, on **dynamical timescales**, you only see truly violent events: pulsa
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Stellar scaling relations](../../02_Zettel/Theory/Stellar scaling relations.md)
-- [Stellar structure equations](../../02_Zettel/Theory/Stellar structure equations.md)
-- [Main sequence, giants, supergiants, white dwarfs](../../02_Zettel/Theory/Main sequence, giants, supergiants, white dwarfs.md)
-- [HR diagram](../../02_Zettel/Theory/HR diagram.md)
-- [Solar evolution and final stages](../../02_Zettel/Theory/Solar evolution and final stages.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Stellar scaling relations](../../02_Zettel/Theory/Stellar scaling relations.html)
+- [Stellar structure equations](../../02_Zettel/Theory/Stellar structure equations.html)
+- [Main sequence, giants, supergiants, white dwarfs](../../02_Zettel/Theory/Main sequence, giants, supergiants, white dwarfs.html)
+- [HR diagram](../../02_Zettel/Theory/HR diagram.html)
+- [Solar evolution and final stages](../../02_Zettel/Theory/Solar evolution and final stages.html)

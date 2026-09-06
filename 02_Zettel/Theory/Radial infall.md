@@ -72,10 +72,10 @@ quantitative: for a Sun-mass BH ($GM \sim 5\,\mu$s in time units), $\tau_{\rm ho
 
 ## see also
 
-- [Schwarzschild metric](../../02_Zettel/Theory/Schwarzschild metric.md)
-- [Schwarzschild horizon](../../02_Zettel/Theory/Schwarzschild horizon.md)
-- [Schwarzschild effective potential](../../02_Zettel/Theory/Schwarzschild effective potential.md)
-- [Geodesic equation](../../02_Zettel/Theory/Geodesic equation.md)
+- [Schwarzschild metric](../../02_Zettel/Theory/Schwarzschild metric.html)
+- [Schwarzschild horizon](../../02_Zettel/Theory/Schwarzschild horizon.html)
+- [Schwarzschild effective potential](../../02_Zettel/Theory/Schwarzschild effective potential.html)
+- [Geodesic equation](../../02_Zettel/Theory/Geodesic equation.html)
 - Q13 - radial infall and proper time
-- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.md)
-- [Ch 6 - Black Holes](../../01_Literature/Book/Baumann GR/Ch 6 - Black Holes.md)
+- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.html)
+- [Ch 6 - Black Holes](../../01_Literature/Book/Baumann GR/Ch 6 - Black Holes.html)

@@ -161,7 +161,7 @@ source: local study diagram generated from the standard Stokes-parameter interpr
 
 ## see also
 
-- [Calibration overview](../../../02_Zettel/Theory/interf/Calibration overview.md)
-- [Bandpass calibration](../../../02_Zettel/Theory/interf/Bandpass calibration.md)
-- [AGN and supermassive black holes](../../../02_Zettel/Theory/interf/AGN and supermassive black holes.md)
-- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Calibration overview](../../../02_Zettel/Theory/interf/Calibration overview.html)
+- [Bandpass calibration](../../../02_Zettel/Theory/interf/Bandpass calibration.html)
+- [AGN and supermassive black holes](../../../02_Zettel/Theory/interf/AGN and supermassive black holes.html)
+- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.html)

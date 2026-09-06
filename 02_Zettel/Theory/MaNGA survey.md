@@ -79,10 +79,10 @@ so MaNGA is the **statistical workhorse** of nearby IFU astronomy.
 
 ## see also
 
-- [Integral-field spectroscopy IFU](../../02_Zettel/Theory/Integral-field spectroscopy IFU.md)
-- [Stellar kinematics measurements](../../02_Zettel/Theory/Stellar kinematics measurements.md)
-- [LOSVD](../../02_Zettel/Theory/LOSVD.md)
-- [SDSS overview](../../02_Zettel/Theory/SDSS overview.md)
-- [Galaxy spectroscopy by type](../../02_Zettel/Theory/Galaxy spectroscopy by type.md)
-- [Stellar populations I II III](../../02_Zettel/Theory/Stellar populations I II III.md)
-- [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.md)
+- [Integral-field spectroscopy IFU](../../02_Zettel/Theory/Integral-field spectroscopy IFU.html)
+- [Stellar kinematics measurements](../../02_Zettel/Theory/Stellar kinematics measurements.html)
+- [LOSVD](../../02_Zettel/Theory/LOSVD.html)
+- [SDSS overview](../../02_Zettel/Theory/SDSS overview.html)
+- [Galaxy spectroscopy by type](../../02_Zettel/Theory/Galaxy spectroscopy by type.html)
+- [Stellar populations I II III](../../02_Zettel/Theory/Stellar populations I II III.html)
+- [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.html)

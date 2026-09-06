@@ -54,7 +54,7 @@ end product: $T_{\rm eff} \pm 50$ K, $\log g \pm 0.1$, $[Fe/H] \pm 0.05$ for hig
 ## abundance patterns: $\alpha$/Fe etc.
 
 beyond Fe, key abundance ratios:
-- **$[\alpha/Fe]$** (O, Mg, Si, Ca, Ti / Fe): reflects star-formation timescale (see [Metallicity and chemical evolution](../../02_Zettel/Theory/Metallicity and chemical evolution.md)).
+- **$[\alpha/Fe]$** (O, Mg, Si, Ca, Ti / Fe): reflects star-formation timescale (see [Metallicity and chemical evolution](../../02_Zettel/Theory/Metallicity and chemical evolution.html)).
 - **$[C/O]$**: from C and O lines, traces nucleosynthesis.
 - **$[Eu/Fe]$, $[Ba/Fe]$**: r-process and s-process tracers.
 - **$[Li/H]$**: stellar age and convective mixing.
@@ -67,13 +67,13 @@ modern Galactic-archaeology surveys recover abundances of $\sim 30$ elements per
 
 ## see also
 
-- [Curve of growth](../../02_Zettel/Theory/Curve of growth.md)
-- [Equivalent width](../../02_Zettel/Theory/Equivalent width.md)
-- [Absorption coefficient and oscillator strength](../../02_Zettel/Theory/Absorption coefficient and oscillator strength.md)
-- [Voigt profile](../../02_Zettel/Theory/Voigt profile.md)
-- [Microturbulence](../../02_Zettel/Theory/Microturbulence.md)
-- [Boltzmann equation in spectroscopy](../../02_Zettel/Theory/Boltzmann equation in spectroscopy.md)
-- [Saha ionisation equation](../../02_Zettel/Theory/Saha ionisation equation.md)
-- [Stellar atmosphere structure](../../02_Zettel/Theory/Stellar atmosphere structure.md)
-- [Metallicity and chemical evolution](../../02_Zettel/Theory/Metallicity and chemical evolution.md)
-- [Echelle spectroscopy](../../02_Zettel/Theory/Echelle spectroscopy.md)
+- [Curve of growth](../../02_Zettel/Theory/Curve of growth.html)
+- [Equivalent width](../../02_Zettel/Theory/Equivalent width.html)
+- [Absorption coefficient and oscillator strength](../../02_Zettel/Theory/Absorption coefficient and oscillator strength.html)
+- [Voigt profile](../../02_Zettel/Theory/Voigt profile.html)
+- [Microturbulence](../../02_Zettel/Theory/Microturbulence.html)
+- [Boltzmann equation in spectroscopy](../../02_Zettel/Theory/Boltzmann equation in spectroscopy.html)
+- [Saha ionisation equation](../../02_Zettel/Theory/Saha ionisation equation.html)
+- [Stellar atmosphere structure](../../02_Zettel/Theory/Stellar atmosphere structure.html)
+- [Metallicity and chemical evolution](../../02_Zettel/Theory/Metallicity and chemical evolution.html)
+- [Echelle spectroscopy](../../02_Zettel/Theory/Echelle spectroscopy.html)

@@ -63,17 +63,17 @@ the BPT diagram (Baldwin, Phillips, Terlevich 1981) plots:
 
 galaxies form a "main sequence" in this diagram: star-forming galaxies on a curving locus, AGN above and to the right. the separation reflects the harder ionising spectrum of AGN (needs higher $U$ + harder photons to produce the [OIII]/H$\beta$ ratios seen in Seyfert nuclei).
 
-see [BPT diagram](../../02_Zettel/Theory/BPT diagram.md).
+see [BPT diagram](../../02_Zettel/Theory/BPT diagram.html).
 
 ## see also
 
-- [Ionisation parameter U](../../02_Zettel/Theory/Ionisation parameter U.md)
-- [Photoionisation balance](../../02_Zettel/Theory/Photoionisation balance.md)
+- [Ionisation parameter U](../../02_Zettel/Theory/Ionisation parameter U.html)
+- [Photoionisation balance](../../02_Zettel/Theory/Photoionisation balance.html)
 - Strömgren sphere
-- [Ionisation stratification](../../02_Zettel/Theory/Ionisation stratification.md)
-- [BPT diagram](../../02_Zettel/Theory/BPT diagram.md)
-- [H II region spectroscopy](../../02_Zettel/Theory/H II region spectroscopy.md)
-- [AGN spectroscopy](../../02_Zettel/Theory/AGN spectroscopy.md)
-- [Forbidden line diagnostics](../../02_Zettel/Theory/Forbidden line diagnostics.md)
-- [Spectroscopic Te diagnostics](../../02_Zettel/Theory/Spectroscopic Te diagnostics.md)
-- [Spectroscopic ne diagnostics](../../02_Zettel/Theory/Spectroscopic ne diagnostics.md)
+- [Ionisation stratification](../../02_Zettel/Theory/Ionisation stratification.html)
+- [BPT diagram](../../02_Zettel/Theory/BPT diagram.html)
+- [H II region spectroscopy](../../02_Zettel/Theory/H II region spectroscopy.html)
+- [AGN spectroscopy](../../02_Zettel/Theory/AGN spectroscopy.html)
+- [Forbidden line diagnostics](../../02_Zettel/Theory/Forbidden line diagnostics.html)
+- [Spectroscopic Te diagnostics](../../02_Zettel/Theory/Spectroscopic Te diagnostics.html)
+- [Spectroscopic ne diagnostics](../../02_Zettel/Theory/Spectroscopic ne diagnostics.html)

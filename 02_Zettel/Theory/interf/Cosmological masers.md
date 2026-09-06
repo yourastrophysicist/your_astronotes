@@ -83,7 +83,7 @@ these will provide independent $H_0$ measurements at $\sim 1\%$ precision by 203
 
 ## see also
 
-- [Very Long Baseline Interferometry VLBI](../../../02_Zettel/Theory/interf/Very Long Baseline Interferometry VLBI.md)
-- [Major radio interferometers](../../../02_Zettel/Theory/interf/Major radio interferometers.md)
-- [AGN and supermassive black holes](../../../02_Zettel/Theory/interf/AGN and supermassive black holes.md)
-- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Very Long Baseline Interferometry VLBI](../../../02_Zettel/Theory/interf/Very Long Baseline Interferometry VLBI.html)
+- [Major radio interferometers](../../../02_Zettel/Theory/interf/Major radio interferometers.html)
+- [AGN and supermassive black holes](../../../02_Zettel/Theory/interf/AGN and supermassive black holes.html)
+- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.html)

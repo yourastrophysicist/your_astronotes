@@ -127,7 +127,7 @@ if I find myself writing a `for` loop over data, the question is: can this be ve
 
 ## see also
 
-- [Computational complexity and speed](../../02_Zettel/Theory/Computational complexity and speed.md)
-- [Vectorization and python speed](../../02_Zettel/Theory/Vectorization and python speed.md)
-- [Python language essentials](../../02_Zettel/Theory/Python language essentials.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Computational complexity and speed](../../02_Zettel/Theory/Computational complexity and speed.html)
+- [Vectorization and python speed](../../02_Zettel/Theory/Vectorization and python speed.html)
+- [Python language essentials](../../02_Zettel/Theory/Python language essentials.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

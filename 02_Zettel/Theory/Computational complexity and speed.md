@@ -46,7 +46,7 @@ a modern laptop does $\sim 10^9$ floating-point operations per second on numpy c
 
 **FFT**: $O(N \log N)$, the algorithm that made signal processing practical
 
-**sorting**: $O(N \log N)$, see [Sorting algorithms overview](../../02_Zettel/Theory/Sorting algorithms overview.md)
+**sorting**: $O(N \log N)$, see [Sorting algorithms overview](../../02_Zettel/Theory/Sorting algorithms overview.html)
 
 ## space complexity
 
@@ -75,7 +75,7 @@ for i in range(N):
 result = x @ A @ x
 ```
 
-this is the *single most important* python performance lesson and the reason [Numpy arrays vs Python lists](../../02_Zettel/Theory/Numpy arrays vs Python lists.md) is its own zettel.
+this is the *single most important* python performance lesson and the reason [Numpy arrays vs Python lists](../../02_Zettel/Theory/Numpy arrays vs Python lists.html) is its own zettel.
 
 ## profiling, when to optimize
 
@@ -94,8 +94,8 @@ before writing code, mentally compute: what is $N$, what is the algorithm comple
 
 ## see also
 
-- [Vectorization and python speed](../../02_Zettel/Theory/Vectorization and python speed.md)
-- [Numpy arrays vs Python lists](../../02_Zettel/Theory/Numpy arrays vs Python lists.md)
-- [Sorting algorithms overview](../../02_Zettel/Theory/Sorting algorithms overview.md)
-- [Fast Fourier transform algorithm](../../02_Zettel/Theory/Fast Fourier transform algorithm.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Vectorization and python speed](../../02_Zettel/Theory/Vectorization and python speed.html)
+- [Numpy arrays vs Python lists](../../02_Zettel/Theory/Numpy arrays vs Python lists.html)
+- [Sorting algorithms overview](../../02_Zettel/Theory/Sorting algorithms overview.html)
+- [Fast Fourier transform algorithm](../../02_Zettel/Theory/Fast Fourier transform algorithm.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

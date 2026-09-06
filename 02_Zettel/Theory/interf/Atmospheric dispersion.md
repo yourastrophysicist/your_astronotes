@@ -7,7 +7,7 @@ the atmospheric refractive index $n(\lambda)$ depends on wavelength: blue light 
 
 ## the geometry
 
-refraction angle (see [Atmospheric refraction](../../../02_Zettel/Theory/interf/Atmospheric refraction.md)):
+refraction angle (see [Atmospheric refraction](../../../02_Zettel/Theory/interf/Atmospheric refraction.html)):
 $$R(\lambda) \approx (n_0(\lambda) - 1)\tan z$$
 
 since $n_0(\lambda) - 1$ varies with wavelength, $R(\lambda)$ does too. the differential between two wavelengths $\lambda_1$ and $\lambda_2$:
@@ -51,8 +51,8 @@ weakly chromatic in the optical, more strongly so in the UV. water vapour adds a
 
 ## see also
 
-- [Atmospheric refraction](../../../02_Zettel/Theory/interf/Atmospheric refraction.md)
-- [Earth atmosphere for observations](../../../02_Zettel/Theory/Earth atmosphere for observations.md)
-- [Adaptive optics overview](../../../02_Zettel/Theory/interf/Adaptive optics overview.md)
+- [Atmospheric refraction](../../../02_Zettel/Theory/interf/Atmospheric refraction.html)
+- [Earth atmosphere for observations](../../../02_Zettel/Theory/Earth atmosphere for observations.html)
+- [Adaptive optics overview](../../../02_Zettel/Theory/interf/Adaptive optics overview.html)
 - [Point Spread Function (PSF)](../../../02_Zettel/Theory/Point Spread Function (PSF).md)
-- [Filter systems and bandpasses](../../../02_Zettel/Theory/Filter systems and bandpasses.md)
+- [Filter systems and bandpasses](../../../02_Zettel/Theory/Filter systems and bandpasses.html)

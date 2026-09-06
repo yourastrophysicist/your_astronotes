@@ -14,13 +14,13 @@ the helium flash applies to stars with degenerate cores at He ignition, i.e. $M 
 
 **the horizontal branch.** post-flash the star settles into stable core-He burning with a thin H shell still active. the structure is now a $\sim 0.5 \, M_\odot$ He-burning core surrounded by a thin H-shell and an envelope of mass $M_\mathrm{env} = M_\star - M_c$. luminosity is set mostly by the core: $L_\mathrm{HB} \approx 50 \, L_\odot$ ($M_V \approx 0.5$), almost independent of envelope mass. this is the famous *flat HB luminosity at fixed $M_V$* used in distance work.
 
-what *does* depend on envelope mass is the position in *temperature*. the HB is a near-horizontal locus on the CMD spanning $T_\mathrm{eff}$ from $\sim 5000$ K (red HB) up to $\sim 30000$ K (extreme blue HB or "EHB"). the rule is simple: at fixed core mass, larger envelopes give *cooler, redder* HB stars; thinner envelopes give *hotter, bluer* HB stars. envelope mass after the RGB tip is set by $M_\mathrm{env} = M_\mathrm{TO} - M_c - \Delta M_\mathrm{loss}$, where the RGB mass loss $\Delta M_\mathrm{loss}$ is the dominant variable (reimers wind, see [Red giant branch RGB](../../02_Zettel/Theory/Red giant branch RGB.md)). a star that loses $\sim 0.1 \, M_\odot$ on the RGB ends up red-HB; one that loses $\sim 0.25 \, M_\odot$ ends up blue-HB.
+what *does* depend on envelope mass is the position in *temperature*. the HB is a near-horizontal locus on the CMD spanning $T_\mathrm{eff}$ from $\sim 5000$ K (red HB) up to $\sim 30000$ K (extreme blue HB or "EHB"). the rule is simple: at fixed core mass, larger envelopes give *cooler, redder* HB stars; thinner envelopes give *hotter, bluer* HB stars. envelope mass after the RGB tip is set by $M_\mathrm{env} = M_\mathrm{TO} - M_c - \Delta M_\mathrm{loss}$, where the RGB mass loss $\Delta M_\mathrm{loss}$ is the dominant variable (reimers wind, see [Red giant branch RGB](../../02_Zettel/Theory/Red giant branch RGB.html)). a star that loses $\sim 0.1 \, M_\odot$ on the RGB ends up red-HB; one that loses $\sim 0.25 \, M_\odot$ ends up blue-HB.
 
 **HB morphology and the second-parameter problem.** at fixed $[\mathrm{Fe}/\mathrm{H}]$, globular clusters show a wide spread in HB morphology. metallicity is the *first parameter*: metal-rich GCs (M71, 47 Tuc) have red HBs/red clumps, while metal-poor GCs (M15, M92) have blue HBs. however, clusters with the same metallicity can have vastly different HB morphologies (e.g., the classic M3 vs. M13 or NGC 288 vs. NGC 362 pairs). this is the *second-parameter problem*.
 
 Milone's lectures (specifically following Milone et al. 2014, MNRAS 439, 1588) divide horizontal branch parameters into:
 1. **global parameters**: vary from cluster to cluster. the leading global second parameter is **age** (older GCs have bluer HBs at fixed $[{\rm Fe/H}]$), as shown by Dotter et al. (2010). cluster **mass** also acts as a global parameter affecting the blue extension of the HB (Recio-Blanco et al. 2006).
-2. **non-global (internal) parameters**: vary star-to-star within a single cluster. the primary internal parameter is **helium abundance $Y$**, which is closely linked to the presence of [multiple populations](../../02_Zettel/Theory/Multiple populations in GCs discovery.md) (helium-enriched 2G stars have higher $T_{\rm eff}$ and populate the bluer parts of the HB).
+2. **non-global (internal) parameters**: vary star-to-star within a single cluster. the primary internal parameter is **helium abundance $Y$**, which is closely linked to the presence of [multiple populations](../../02_Zettel/Theory/Multiple populations in GCs discovery.html) (helium-enriched 2G stars have higher $T_{\rm eff}$ and populate the bluer parts of the HB).
 
 to quantify HB morphology, Milone et al. (2014) introduced two pseudo-color metrics:
 - **$L_1$ (Color distance)**: the color distance from the RGB to the reddest part of the HB.
@@ -33,9 +33,9 @@ based on $L_1$, clusters are classified into three groups: G1 (metal-rich, $[{\r
 CMD signatures and uses. the HB is a well-defined horizontal feature near $M_V = 0.5$ that anchors the cluster's distance modulus once $[\mathrm{Fe}/\mathrm{H}]$ is known (calibration $M_V^\mathrm{HB} = 0.18 [\mathrm{Fe}/\mathrm{H}] + 0.85$ approximately). its colour distribution encodes RGB mass loss and helium content, and the RR Lyrae stars within the strip provide a fully independent distance via the $PLZ$ relation.
 
 ## see also
-- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.md)
-- [Red giant branch RGB](../../02_Zettel/Theory/Red giant branch RGB.md)
-- [Asymptotic giant branch AGB](../../02_Zettel/Theory/Asymptotic giant branch AGB.md)
+- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.html)
+- [Red giant branch RGB](../../02_Zettel/Theory/Red giant branch RGB.html)
+- [Asymptotic giant branch AGB](../../02_Zettel/Theory/Asymptotic giant branch AGB.html)
 - Distance modulus from CMD
-- [Stellar evolutionary phases on the CMD](../../02_Zettel/Theory/Stellar evolutionary phases on the CMD.md)
-- [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.md)
+- [Stellar evolutionary phases on the CMD](../../02_Zettel/Theory/Stellar evolutionary phases on the CMD.html)
+- [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.html)

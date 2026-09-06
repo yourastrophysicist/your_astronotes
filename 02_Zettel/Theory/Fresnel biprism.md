@@ -57,8 +57,8 @@ same as Young's experiment:
 
 ## see also
 
-- [Wavefront-division interferometers](../../02_Zettel/Theory/interf/Wavefront-division interferometers.md)
-- [Fresnel double mirror](../../02_Zettel/Theory/interf/Fresnel double mirror.md)
-- [Lloyd mirror](../../02_Zettel/Theory/interf/Lloyd mirror.md)
-- [Young experiment as a stellar interferometer](../../02_Zettel/Theory/interf/Young experiment as a stellar interferometer.md)
-- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Wavefront-division interferometers](../../02_Zettel/Theory/interf/Wavefront-division interferometers.html)
+- [Fresnel double mirror](../../02_Zettel/Theory/interf/Fresnel double mirror.html)
+- [Lloyd mirror](../../02_Zettel/Theory/interf/Lloyd mirror.html)
+- [Young experiment as a stellar interferometer](../../02_Zettel/Theory/interf/Young experiment as a stellar interferometer.html)
+- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.html)

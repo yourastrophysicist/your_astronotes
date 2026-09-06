@@ -56,12 +56,12 @@ at high $z$ ($z \gtrsim 1$): SN Ia were **brighter** than expected for a constan
 
 ## see also
 
-- [Type Ia supernovae as standard candles](../../02_Zettel/Theory/Type Ia supernovae as standard candles.md)
-- [Luminosity distance](../../02_Zettel/Theory/Luminosity distance.md)
-- [Distance modulus](../../02_Zettel/Theory/Distance modulus.md)
-- [Hubble flow distances](../../02_Zettel/Theory/Hubble flow distances.md)
-- [Distance ladder derivations](../../02_Zettel/Theory/Distance ladder derivations.md)
-- [Cepheid period-luminosity relation](../../02_Zettel/Theory/Cepheid period-luminosity relation.md)
-- [TRGB tip of the red giant branch](../../02_Zettel/Theory/TRGB tip of the red giant branch.md)
-- [Cosmic_inventory_dark_energy](../../02_Zettel/Theory/Cosmic_inventory_dark_energy.md)
-- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md)
+- [Type Ia supernovae as standard candles](../../02_Zettel/Theory/Type Ia supernovae as standard candles.html)
+- [Luminosity distance](../../02_Zettel/Theory/Luminosity distance.html)
+- [Distance modulus](../../02_Zettel/Theory/Distance modulus.html)
+- [Hubble flow distances](../../02_Zettel/Theory/Hubble flow distances.html)
+- [Distance ladder derivations](../../02_Zettel/Theory/Distance ladder derivations.html)
+- [Cepheid period-luminosity relation](../../02_Zettel/Theory/Cepheid period-luminosity relation.html)
+- [TRGB tip of the red giant branch](../../02_Zettel/Theory/TRGB tip of the red giant branch.html)
+- [Cosmic_inventory_dark_energy](../../02_Zettel/Theory/Cosmic_inventory_dark_energy.html)
+- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html)

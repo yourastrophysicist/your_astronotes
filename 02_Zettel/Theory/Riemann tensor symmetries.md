@@ -19,7 +19,7 @@ these all hold for the Levi-Civita connection on any manifold.
 each has a different origin:
 - **(1) and (2)** follow from the antisymmetry of $\nabla_\mu \nabla_\nu - \nabla_\nu \nabla_\mu$ (commutator).
 - **(3)** follows from metric compatibility + torsion-free.
-- **(4) first Bianchi** follows from torsion-free alone. (the **second Bianchi**, $\nabla_{[\lambda}R_{\mu\nu]\rho\sigma} = 0$, is differential, see [Bianchi identities](../../02_Zettel/Theory/Bianchi identities.md).)
+- **(4) first Bianchi** follows from torsion-free alone. (the **second Bianchi**, $\nabla_{[\lambda}R_{\mu\nu]\rho\sigma} = 0$, is differential, see [Bianchi identities](../../02_Zettel/Theory/Bianchi identities.html).)
 
 ## the immediate consequences
 
@@ -47,7 +47,7 @@ $$\boxed{\, \frac{n^2(n^2 - 1)}{12} \,}$$
 | 4 | 20 |
 | 10 | 825 |
 
-so Riemann in 4D spacetime has **20 independent components**. of these, the Ricci tensor (10 components, since symmetric) absorbs 10. the **Weyl tensor** (the trace-free part of Riemann) carries the remaining 10. see [Counting Riemann components](../../02_Zettel/Theory/Counting Riemann components.md).
+so Riemann in 4D spacetime has **20 independent components**. of these, the Ricci tensor (10 components, since symmetric) absorbs 10. the **Weyl tensor** (the trace-free part of Riemann) carries the remaining 10. see [Counting Riemann components](../../02_Zettel/Theory/Counting Riemann components.html).
 
 ## why the symmetries matter
 
@@ -62,9 +62,9 @@ a useful exercise. once you compute Riemann components for the 2-sphere or Schwa
 
 ## see also
 
-- [Riemann tensor](../../02_Zettel/Theory/Riemann tensor.md)
-- [Counting Riemann components](../../02_Zettel/Theory/Counting Riemann components.md)
-- [Ricci tensor and scalar](../../02_Zettel/Theory/Ricci tensor and scalar.md)
-- [Bianchi identities](../../02_Zettel/Theory/Bianchi identities.md)
-- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.md)
-- [Ch 4 - Spacetime Curvature](../../01_Literature/Book/Baumann GR/Ch 4 - Spacetime Curvature.md)
+- [Riemann tensor](../../02_Zettel/Theory/Riemann tensor.html)
+- [Counting Riemann components](../../02_Zettel/Theory/Counting Riemann components.html)
+- [Ricci tensor and scalar](../../02_Zettel/Theory/Ricci tensor and scalar.html)
+- [Bianchi identities](../../02_Zettel/Theory/Bianchi identities.html)
+- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.html)
+- [Ch 4 - Spacetime Curvature](../../01_Literature/Book/Baumann GR/Ch 4 - Spacetime Curvature.html)

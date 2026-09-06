@@ -5,7 +5,7 @@ title: "Ch 3 - A First Look at Geodesics"
 
 # Baumann Ch 3, A First Look at Geodesics
 
-up: [Baumann GR](../../../01_Literature/Book/Baumann GR/Baumann GR.md) · [General_Relativity_MOC](../../../00_Atlas/General_Relativity_MOC.md)
+up: [Baumann GR](../../../01_Literature/Book/Baumann GR/Baumann GR.html) · [General_Relativity_MOC](../../../00_Atlas/General_Relativity_MOC.html)
 
 *the chapter where the abstract math finally produces real physics. starting from the simplest possible action for a point particle, $S = -m \int d\tau$, we derive the geodesic equation and use it to predict Mercury's $43''$ perihelion precession and Eddington's $1.75''$ light deflection. these are the two predictions that made GR famous.*
 
@@ -90,7 +90,7 @@ $$S = -m \int d\lambda\, \sqrt{-g_{\mu\nu} \dot x^\mu \dot x^\nu}$$
 
 $$\boxed{\,\frac{d^2 x^\mu}{d\tau^2} + \Gamma^\mu{}_{\alpha\beta}\, \frac{dx^\alpha}{d\tau}\frac{dx^\beta}{d\tau} = 0\,}$$
 
-with the [Christoffel symbols](../../../02_Zettel/Theory/Christoffel symbols.md) popping out exactly as
+with the [Christoffel symbols](../../../02_Zettel/Theory/Christoffel symbols.html) popping out exactly as
 
 $$\Gamma^\mu{}_{\alpha\beta} = \tfrac12 g^{\mu\lambda}(\partial_\alpha g_{\beta\lambda} + \partial_\beta g_{\alpha\lambda} - \partial_\lambda g_{\alpha\beta})$$
 
@@ -162,7 +162,7 @@ this calculation is exactly what Q9 - weak-field Christoffel Gamma_i_00 asks for
 
 ### the metric
 
-assuming Birkhoff (proven in [Ch 5 - The Einstein Equation](../../../01_Literature/Book/Baumann GR/Ch 5 - The Einstein Equation.md)), the spacetime around any spherically symmetric mass $M$ is
+assuming Birkhoff (proven in [Ch 5 - The Einstein Equation](../../../01_Literature/Book/Baumann GR/Ch 5 - The Einstein Equation.html)), the spacetime around any spherically symmetric mass $M$ is
 
 $$ds^2 = -\left(1 - \frac{2GM}{r}\right)dt^2 + \left(1 - \frac{2GM}{r}\right)^{-1}dr^2 + r^2(d\theta^2 + \sin^2\theta\,d\phi^2)$$
 
@@ -326,10 +326,10 @@ if i had to compress chapter 3 into a paragraph for the oral:
 
 ## connections
 
-- [General_Relativity_MOC](../../../00_Atlas/General_Relativity_MOC.md)
-- [Baumann GR](../../../01_Literature/Book/Baumann GR/Baumann GR.md)
-- [Geodesic equation](../../../02_Zettel/Theory/Geodesic equation.md) · [Schwarzschild metric](../../../02_Zettel/Theory/Schwarzschild metric.md) · [Schwarzschild effective potential](../../../02_Zettel/Theory/Schwarzschild effective potential.md) · [Killing vectors and conserved quantities](../../../02_Zettel/Theory/Killing vectors and conserved quantities.md) · [Newtonian limit of GR](../../../02_Zettel/Theory/Newtonian limit of GR.md)
-- [Photon sphere](../../../02_Zettel/Theory/Photon sphere.md) · [Perihelion precession](../../../02_Zettel/Theory/Perihelion precession.md) · [Light deflection](../../../02_Zettel/Theory/Light deflection.md)
+- [General_Relativity_MOC](../../../00_Atlas/General_Relativity_MOC.html)
+- [Baumann GR](../../../01_Literature/Book/Baumann GR/Baumann GR.html)
+- [Geodesic equation](../../../02_Zettel/Theory/Geodesic equation.html) · [Schwarzschild metric](../../../02_Zettel/Theory/Schwarzschild metric.html) · [Schwarzschild effective potential](../../../02_Zettel/Theory/Schwarzschild effective potential.html) · [Killing vectors and conserved quantities](../../../02_Zettel/Theory/Killing vectors and conserved quantities.html) · [Newtonian limit of GR](../../../02_Zettel/Theory/Newtonian limit of GR.html)
+- [Photon sphere](../../../02_Zettel/Theory/Photon sphere.html) · [Perihelion precession](../../../02_Zettel/Theory/Perihelion precession.html) · [Light deflection](../../../02_Zettel/Theory/Light deflection.html)
 - Q9 - weak-field Christoffel Gamma_i_00 · Q12 - circular orbits and orbital frequency · Q13 - radial infall and proper time · Q14 - photon trajectory and impact parameter
-- previous: [Ch 2 - Some Differential Geometry](../../../01_Literature/Book/Baumann GR/Ch 2 - Some Differential Geometry.md)
-- next: [Ch 4 - Spacetime Curvature](../../../01_Literature/Book/Baumann GR/Ch 4 - Spacetime Curvature.md)
+- previous: [Ch 2 - Some Differential Geometry](../../../01_Literature/Book/Baumann GR/Ch 2 - Some Differential Geometry.html)
+- next: [Ch 4 - Spacetime Curvature](../../../01_Literature/Book/Baumann GR/Ch 4 - Spacetime Curvature.html)

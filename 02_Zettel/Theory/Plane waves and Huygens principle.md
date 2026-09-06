@@ -53,5 +53,5 @@ This principle is the bedrock of interferometry. When starlight arrives at Earth
 
 ## connections & zettel links
 
-* parent moc: [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.md)
-* related zettels: [Light waves and the EM spectrum](../../02_Zettel/Theory/interf/Light waves and the EM spectrum.md), [Superposition and interference](../../02_Zettel/Theory/interf/Superposition and interference.md), [Fraunhofer diffraction](../../02_Zettel/Theory/interf/Fraunhofer diffraction.md)
+* parent moc: [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.html)
+* related zettels: [Light waves and the EM spectrum](../../02_Zettel/Theory/interf/Light waves and the EM spectrum.html), [Superposition and interference](../../02_Zettel/Theory/interf/Superposition and interference.html), [Fraunhofer diffraction](../../02_Zettel/Theory/interf/Fraunhofer diffraction.html)

@@ -340,8 +340,8 @@ with the master equations of spherical trigonometry I can transform between any 
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Appendix E - Astronomical coordinates](../../02_Zettel/Theory/Appendix E - Astronomical coordinates.md) — short reference card, also covers vernal equinox, precession, J2000
-- [Earth coordinates](../../02_Zettel/Theory/Earth coordinates.md)
-- [Equatorial system](../../02_Zettel/Theory/Equatorial system.md)
-- [Horizontal alt-azimuth system](../../02_Zettel/Theory/Horizontal alt-azimuth system.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Appendix E - Astronomical coordinates](../../02_Zettel/Theory/Appendix E - Astronomical coordinates.html) — short reference card, also covers vernal equinox, precession, J2000
+- [Earth coordinates](../../02_Zettel/Theory/Earth coordinates.html)
+- [Equatorial system](../../02_Zettel/Theory/Equatorial system.html)
+- [Horizontal alt-azimuth system](../../02_Zettel/Theory/Horizontal alt-azimuth system.html)

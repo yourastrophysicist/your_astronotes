@@ -96,4 +96,4 @@ where $f_{cam}$ is the focal length of the camera lens
 ## X-ray gratings
 
 In X-ray astronomy, gratings are used in **transmission** or **reflection** geometry
-	(see [X-ray diffraction grating](../../02_Zettel/Theory/X-ray diffraction grating.md) for details specific to instruments like Chandra HETGS and XMM RGS)
+	(see [X-ray diffraction grating](../../02_Zettel/Theory/X-ray diffraction grating.html) for details specific to instruments like Chandra HETGS and XMM RGS)

@@ -5,7 +5,7 @@ title: "Bulirsch-Stoer extrapolation"
 
 # Bulirsch-Stoer extrapolation
 
-a high-accuracy ODE integrator that uses [Modified midpoint method](../../02_Zettel/Theory/Modified midpoint method.md) at multiple step sizes, then Richardson-extrapolates to $h = 0$. for *very smooth* integrands and high precision targets, it can outperform RK4 by orders of magnitude — ten or more digits of accuracy with a few dozen function evaluations.
+a high-accuracy ODE integrator that uses [Modified midpoint method](../../02_Zettel/Theory/Modified midpoint method.html) at multiple step sizes, then Richardson-extrapolates to $h = 0$. for *very smooth* integrands and high precision targets, it can outperform RK4 by orders of magnitude — ten or more digits of accuracy with a few dozen function evaluations.
 
 ## the idea
 
@@ -91,8 +91,8 @@ example: the Voyager spacecraft trajectory was integrated for the original missi
 
 ## see also
 
-- [Modified midpoint method](../../02_Zettel/Theory/Modified midpoint method.md)
-- [Runge-Kutta 4 method](../../02_Zettel/Theory/Runge-Kutta 4 method.md)
-- [Leapfrog integrator](../../02_Zettel/Theory/Leapfrog integrator.md)
-- [Adaptive step size control](../../02_Zettel/Theory/Adaptive step size control.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Modified midpoint method](../../02_Zettel/Theory/Modified midpoint method.html)
+- [Runge-Kutta 4 method](../../02_Zettel/Theory/Runge-Kutta 4 method.html)
+- [Leapfrog integrator](../../02_Zettel/Theory/Leapfrog integrator.html)
+- [Adaptive step size control](../../02_Zettel/Theory/Adaptive step size control.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

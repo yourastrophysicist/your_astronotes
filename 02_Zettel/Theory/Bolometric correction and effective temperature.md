@@ -54,7 +54,7 @@ practical chain:
 3. **$BC_X(T_{\rm eff})$** $\to$ $M_{\rm bol}$ $\to$ $L$.
 4. $L$ + $T_{\rm eff}$ $\to$ $R$ via Stefan-Boltzmann.
 
-this is the standard way to populate the [HR diagram](../../02_Zettel/Theory/HR diagram.md) with both luminosity and radius.
+this is the standard way to populate the [HR diagram](../../02_Zettel/Theory/HR diagram.html) with both luminosity and radius.
 
 ## modern alternative: SED fitting
 
@@ -62,10 +62,10 @@ instead of using $BC$, fit a model spectrum (Kurucz, PHOENIX, BT-Settl) to multi
 
 ## see also
 
-- [Magnitudes and photometric systems](../../02_Zettel/Theory/Magnitudes and photometric systems.md)
-- [Stellar scaling relations](../../02_Zettel/Theory/Stellar scaling relations.md)
-- [HR diagram](../../02_Zettel/Theory/HR diagram.md)
-- [Stellar spectra and spectral classification](../../02_Zettel/Theory/Stellar spectra and spectral classification.md)
-- [Planck law Wien Stefan-Boltzmann](../../02_Zettel/Theory/Planck law Wien Stefan-Boltzmann.md)
-- [Specific intensity flux luminosity](../../02_Zettel/Theory/Specific intensity flux luminosity.md)
-- [Filter systems and bandpasses](../../02_Zettel/Theory/Filter systems and bandpasses.md)
+- [Magnitudes and photometric systems](../../02_Zettel/Theory/Magnitudes and photometric systems.html)
+- [Stellar scaling relations](../../02_Zettel/Theory/Stellar scaling relations.html)
+- [HR diagram](../../02_Zettel/Theory/HR diagram.html)
+- [Stellar spectra and spectral classification](../../02_Zettel/Theory/Stellar spectra and spectral classification.html)
+- [Planck law Wien Stefan-Boltzmann](../../02_Zettel/Theory/Planck law Wien Stefan-Boltzmann.html)
+- [Specific intensity flux luminosity](../../02_Zettel/Theory/Specific intensity flux luminosity.html)
+- [Filter systems and bandpasses](../../02_Zettel/Theory/Filter systems and bandpasses.html)

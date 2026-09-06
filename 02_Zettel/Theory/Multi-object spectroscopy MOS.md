@@ -64,11 +64,11 @@ velocity dispersions, mass measurements, star-formation classification.
 
 ## see also
 
-- [Spectrograph types](../../02_Zettel/Theory/Spectrograph types.md)
-- [Spectrograph design](../../02_Zettel/Theory/Spectrograph design.md)
-- [Echelle spectroscopy](../../02_Zettel/Theory/Echelle spectroscopy.md)
-- [Integral-field spectroscopy IFU](../../02_Zettel/Theory/Integral-field spectroscopy IFU.md)
-- [Wavelength calibration](../../02_Zettel/Theory/Wavelength calibration.md)
-- [Flux calibration](../../02_Zettel/Theory/interf/Flux calibration.md)
-- [Survey resources for Obs Astro](../../02_Zettel/Theory/Survey resources for Obs Astro.md)
-- [Photometric redshifts](../../02_Zettel/Theory/Photometric redshifts.md) — what MOS surveys spectroscopically confirm
+- [Spectrograph types](../../02_Zettel/Theory/Spectrograph types.html)
+- [Spectrograph design](../../02_Zettel/Theory/Spectrograph design.html)
+- [Echelle spectroscopy](../../02_Zettel/Theory/Echelle spectroscopy.html)
+- [Integral-field spectroscopy IFU](../../02_Zettel/Theory/Integral-field spectroscopy IFU.html)
+- [Wavelength calibration](../../02_Zettel/Theory/Wavelength calibration.html)
+- [Flux calibration](../../02_Zettel/Theory/interf/Flux calibration.html)
+- [Survey resources for Obs Astro](../../02_Zettel/Theory/Survey resources for Obs Astro.html)
+- [Photometric redshifts](../../02_Zettel/Theory/Photometric redshifts.html) — what MOS surveys spectroscopically confirm

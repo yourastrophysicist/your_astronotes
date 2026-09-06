@@ -71,13 +71,13 @@ RK4 with a fixed step is easier to write from scratch (and required by some exam
 
 ## limitations of RK4
 
-- **not symplectic**: for Hamiltonian systems, RK4 has a small but non-zero energy drift. for integrations of $\sim 100$ orbital periods this is fine; for $\sim 10^9$ periods (like solar-system N-body), it is fatal. use [Leapfrog integrator](../../02_Zettel/Theory/Leapfrog integrator.md) or symplectic Hermite instead
+- **not symplectic**: for Hamiltonian systems, RK4 has a small but non-zero energy drift. for integrations of $\sim 100$ orbital periods this is fine; for $\sim 10^9$ periods (like solar-system N-body), it is fatal. use [Leapfrog integrator](../../02_Zettel/Theory/Leapfrog integrator.html) or symplectic Hermite instead
 - **wasted work for stiff problems**: stability constraint forces small $h$, drowning the high-order accuracy. use implicit methods (BDF, Radau)
 - **fixed cost per step**: an adaptive scheme can use larger $h$ in smooth regions and smaller $h$ near close encounters, getting the same accuracy at lower total cost
 
 ## error estimation by step doubling
 
-even without an embedded estimator, I can estimate the local error by running RK4 once with step $h$ and once with step $h/2$ (twice). the difference is approximately $15 \times \text{error}_{h/2}$ (since error scales as $h^4$ and $(h/2)^4 = h^4/16$). this Richardson-extrapolation idea generalizes to [Bulirsch-Stoer extrapolation](../../02_Zettel/Theory/Bulirsch-Stoer extrapolation.md).
+even without an embedded estimator, I can estimate the local error by running RK4 once with step $h$ and once with step $h/2$ (twice). the difference is approximately $15 \times \text{error}_{h/2}$ (since error scales as $h^4$ and $(h/2)^4 = h^4/16$). this Richardson-extrapolation idea generalizes to [Bulirsch-Stoer extrapolation](../../02_Zettel/Theory/Bulirsch-Stoer extrapolation.html).
 
 ## astrophysics use cases
 
@@ -89,9 +89,9 @@ even without an embedded estimator, I can estimate the local error by running RK
 
 ## see also
 
-- [Euler method](../../02_Zettel/Theory/Euler method.md)
-- [Runge-Kutta 2 midpoint method](../../02_Zettel/Theory/Runge-Kutta 2 midpoint method.md)
-- [Leapfrog integrator](../../02_Zettel/Theory/Leapfrog integrator.md)
-- [Adaptive step size control](../../02_Zettel/Theory/Adaptive step size control.md)
-- [Bulirsch-Stoer extrapolation](../../02_Zettel/Theory/Bulirsch-Stoer extrapolation.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Euler method](../../02_Zettel/Theory/Euler method.html)
+- [Runge-Kutta 2 midpoint method](../../02_Zettel/Theory/Runge-Kutta 2 midpoint method.html)
+- [Leapfrog integrator](../../02_Zettel/Theory/Leapfrog integrator.html)
+- [Adaptive step size control](../../02_Zettel/Theory/Adaptive step size control.html)
+- [Bulirsch-Stoer extrapolation](../../02_Zettel/Theory/Bulirsch-Stoer extrapolation.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

@@ -61,11 +61,11 @@ isoelectronic ions have the same spectroscopic structure with rescaled energies 
 
 ## see also
 
-- [Quantum numbers and atomic states](../../02_Zettel/Theory/Quantum numbers and atomic states.md)
-- [Atomic term symbols](../../02_Zettel/Theory/Atomic term symbols.md)
-- [Hund's rules](../../02_Zettel/Theory/Hund's rules.md)
-- [Hydrogen spectral series](../../02_Zettel/Theory/Hydrogen spectral series.md)
-- [Helium energy levels](../../02_Zettel/Theory/Helium energy levels.md)
-- [Sodium and alkalis](../../02_Zettel/Theory/Sodium and alkalis.md)
-- [Calcium and CaII H+K](../../02_Zettel/Theory/Calcium and CaII H+K.md)
-- [Magnesium and alkali earths](../../02_Zettel/Theory/Magnesium and alkali earths.md)
+- [Quantum numbers and atomic states](../../02_Zettel/Theory/Quantum numbers and atomic states.html)
+- [Atomic term symbols](../../02_Zettel/Theory/Atomic term symbols.html)
+- [Hund's rules](../../02_Zettel/Theory/Hund's rules.html)
+- [Hydrogen spectral series](../../02_Zettel/Theory/Hydrogen spectral series.html)
+- [Helium energy levels](../../02_Zettel/Theory/Helium energy levels.html)
+- [Sodium and alkalis](../../02_Zettel/Theory/Sodium and alkalis.html)
+- [Calcium and CaII H+K](../../02_Zettel/Theory/Calcium and CaII H+K.html)
+- [Magnesium and alkali earths](../../02_Zettel/Theory/Magnesium and alkali earths.html)

@@ -62,11 +62,11 @@ major surveys: DES, KiDS, HSC. soon: Euclid, LSST, Roman.
 ## see also
 
 - Gravitational lensing — intro
-- [Strong vs weak lensing](../../02_Zettel/Theory/Strong vs weak lensing.md)
-- [Light deflection](../../02_Zettel/Theory/Light deflection.md)
-- [Cosmic_inventory_dark_matter](../../02_Zettel/Theory/Cosmic_inventory_dark_matter.md)
-- [Cosmic_inventory_dark_energy](../../02_Zettel/Theory/Cosmic_inventory_dark_energy.md)
-- [ΛCDM current parameters](../../02_Zettel/Theory/ΛCDM current parameters.md)
-- [CMB power spectrum](../../02_Zettel/Theory/CMB power spectrum.md)
-- [Hubble law](../../02_Zettel/Theory/Hubble law.md)
-- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md)
+- [Strong vs weak lensing](../../02_Zettel/Theory/Strong vs weak lensing.html)
+- [Light deflection](../../02_Zettel/Theory/Light deflection.html)
+- [Cosmic_inventory_dark_matter](../../02_Zettel/Theory/Cosmic_inventory_dark_matter.html)
+- [Cosmic_inventory_dark_energy](../../02_Zettel/Theory/Cosmic_inventory_dark_energy.html)
+- [ΛCDM current parameters](../../02_Zettel/Theory/ΛCDM current parameters.html)
+- [CMB power spectrum](../../02_Zettel/Theory/CMB power spectrum.html)
+- [Hubble law](../../02_Zettel/Theory/Hubble law.html)
+- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html)

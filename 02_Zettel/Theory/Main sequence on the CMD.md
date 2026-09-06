@@ -4,7 +4,7 @@ name: Main sequence on the CMD
 description: core hydrogen burning, mass-luminosity relation, lifetime scaling, and the ZAMS-to-TAMS evolution
 ---
 
-the main sequence is the locus, on the [HR diagram](../../02_Zettel/Theory/HR diagram.md) or its observational CMD counterpart, where stars spend $\sim 90\%$ of their nuclear-burning life. the defining interior physics is *stable core hydrogen burning*: a star burns H to He in its central regions, and the gravitational pressure of the overlying envelope is balanced by the radiation+gas pressure produced by that burning, in hydrostatic and thermal equilibrium.
+the main sequence is the locus, on the [HR diagram](../../02_Zettel/Theory/HR diagram.html) or its observational CMD counterpart, where stars spend $\sim 90\%$ of their nuclear-burning life. the defining interior physics is *stable core hydrogen burning*: a star burns H to He in its central regions, and the gravitational pressure of the overlying envelope is balanced by the radiation+gas pressure produced by that burning, in hydrostatic and thermal equilibrium.
 
 two regimes split the MS by the dominant nuclear cycle. for $M \lesssim 1.2 \, M_\odot$ (low-mass MS) hydrogen burns mainly via the **pp chain**, with weak temperature dependence ($\epsilon_\mathrm{pp} \propto T^4$ near $T \sim 10^7$ K). low-mass stars therefore have *radiative cores* and a convective envelope (the convection zone deepens at lower mass; below $\sim 0.35 \, M_\odot$ the star is fully convective). for $M \gtrsim 1.2 \, M_\odot$ (intermediate and high mass) the **CNO cycle** dominates, with $\epsilon_\mathrm{CNO} \propto T^{17}$, the steep temperature dependence forcing a *convective core* and a radiative envelope. the convective core stores fresh fuel via mixing and drives the small "hook" feature near the TO at H exhaustion.
 
@@ -25,9 +25,9 @@ operational uses on the CMD: **MS fitting** uses the position of an empirical or
 the lower MS ($M \lesssim 0.5 \, M_\odot$) is the longest-lived part of any cluster: even the oldest GCs still have full M-dwarf populations, which makes the lower MS an evolution-free reference for distance and reddening work.
 
 ## see also
-- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.md)
-- [HR diagram](../../02_Zettel/Theory/HR diagram.md)
-- [Stellar evolutionary phases on the CMD](../../02_Zettel/Theory/Stellar evolutionary phases on the CMD.md)
-- [Main sequence turn-off as age indicator](../../02_Zettel/Theory/Main sequence turn-off as age indicator.md)
-- [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.md)
+- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.html)
+- [HR diagram](../../02_Zettel/Theory/HR diagram.html)
+- [Stellar evolutionary phases on the CMD](../../02_Zettel/Theory/Stellar evolutionary phases on the CMD.html)
+- [Main sequence turn-off as age indicator](../../02_Zettel/Theory/Main sequence turn-off as age indicator.html)
+- [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.html)
 - Distance modulus from CMD

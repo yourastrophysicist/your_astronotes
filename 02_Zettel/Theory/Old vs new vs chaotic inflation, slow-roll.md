@@ -47,7 +47,7 @@ the broad framework that includes new and chaotic inflation as special cases. re
 - $\epsilon \equiv (M_{\rm Pl}^2/2)(V'/V)^2 \ll 1$
 - $|\eta| \equiv M_{\rm Pl}^2 |V''/V| \ll 1$
 
-(see [Inflaton scalar field dynamics](../../02_Zettel/Theory/Inflaton scalar field dynamics.md).)
+(see [Inflaton scalar field dynamics](../../02_Zettel/Theory/Inflaton scalar field dynamics.html).)
 
 these are the **slow-roll parameters**. as long as both are small, the field rolls slowly down the potential, and inflation proceeds.
 
@@ -89,8 +89,8 @@ these are all open questions. but the basic framework — slow-roll inflation by
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Inflation overview](../../02_Zettel/Theory/Inflation overview.md)
-- [Inflaton scalar field dynamics](../../02_Zettel/Theory/Inflaton scalar field dynamics.md)
-- [Standard model problems](../../02_Zettel/Theory/Standard model problems.md)
-- [Baumann_reference](../../02_Zettel/Theory/Baumann_reference.md) — chapter 2 has the modern derivation
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Inflation overview](../../02_Zettel/Theory/Inflation overview.html)
+- [Inflaton scalar field dynamics](../../02_Zettel/Theory/Inflaton scalar field dynamics.html)
+- [Standard model problems](../../02_Zettel/Theory/Standard model problems.html)
+- [Baumann_reference](../../02_Zettel/Theory/Baumann_reference.html) — chapter 2 has the modern derivation

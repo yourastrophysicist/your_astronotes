@@ -53,7 +53,7 @@ assumption: the PSF is uniform across the image. fails for spatially varying PSF
 - **suboptimal SNR**: pixel weighting is uniform inside the aperture; PSF photometry weights pixels by the PSF and gets better SNR.
 - **sensitive to aperture choice and centring**: a few-pixel offset can change the magnitude.
 
-for crowded fields (globular clusters, nuclear regions), use [PSF photometry](../../02_Zettel/Theory/PSF photometry.md) instead.
+for crowded fields (globular clusters, nuclear regions), use [PSF photometry](../../02_Zettel/Theory/PSF photometry.html) instead.
 
 ## standard tools
 
@@ -70,9 +70,9 @@ for galaxies and extended sources, circular apertures truncate flux. Kron radii 
 
 ## see also
 
-- [The CCD equation](../../02_Zettel/Theory/The CCD equation.md)
-- [PSF photometry](../../02_Zettel/Theory/PSF photometry.md)
-- [CCD calibration steps](../../02_Zettel/Theory/CCD calibration steps.md)
-- [Sky brightness](../../02_Zettel/Theory/Sky brightness.md)
-- [Magnitudes and photometric systems](../../02_Zettel/Theory/Magnitudes and photometric systems.md)
-- [Galaxy size-luminosity relation](../../02_Zettel/Theory/Galaxy size-luminosity relation.md)
+- [The CCD equation](../../02_Zettel/Theory/The CCD equation.html)
+- [PSF photometry](../../02_Zettel/Theory/PSF photometry.html)
+- [CCD calibration steps](../../02_Zettel/Theory/CCD calibration steps.html)
+- [Sky brightness](../../02_Zettel/Theory/Sky brightness.html)
+- [Magnitudes and photometric systems](../../02_Zettel/Theory/Magnitudes and photometric systems.html)
+- [Galaxy size-luminosity relation](../../02_Zettel/Theory/Galaxy size-luminosity relation.html)

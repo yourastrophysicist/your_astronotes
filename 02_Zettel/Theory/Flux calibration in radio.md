@@ -7,7 +7,7 @@ title: "Flux calibration in radio"
 
 set the *absolute* flux scale of a radio observation by tying it to a known reference. the second step (after bandpass) in radio data reduction. essential for any quantitative radio measurement.
 
-(for *spectroscopic* flux calibration, see [Flux calibration](../../02_Zettel/Theory/interf/Flux calibration.md) for stellar spectra.)
+(for *spectroscopic* flux calibration, see [Flux calibration](../../02_Zettel/Theory/interf/Flux calibration.html) for stellar spectra.)
 
 ## the issue
 
@@ -83,9 +83,9 @@ if "calibrator" is partially resolved, naive flux transfer underestimates the co
 
 ## see also
 
-- [Calibration overview](../../02_Zettel/Theory/interf/Calibration overview.md)
-- [Bandpass calibration](../../02_Zettel/Theory/interf/Bandpass calibration.md)
-- [Phase referencing](../../02_Zettel/Theory/interf/Phase referencing.md)
-- [Self-calibration](../../02_Zettel/Theory/interf/Self-calibration.md)
-- [Flux calibration](../../02_Zettel/Theory/interf/Flux calibration.md) — for stellar spectra (different topic)
-- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Calibration overview](../../02_Zettel/Theory/interf/Calibration overview.html)
+- [Bandpass calibration](../../02_Zettel/Theory/interf/Bandpass calibration.html)
+- [Phase referencing](../../02_Zettel/Theory/interf/Phase referencing.html)
+- [Self-calibration](../../02_Zettel/Theory/interf/Self-calibration.html)
+- [Flux calibration](../../02_Zettel/Theory/interf/Flux calibration.html) — for stellar spectra (different topic)
+- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.html)

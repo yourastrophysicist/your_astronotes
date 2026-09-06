@@ -103,8 +103,8 @@ niche secured: bright nearby stars, surface features, hot spots, cool spots.
 
 ## see also
 
-- [Intensity interferometry concept](../../../02_Zettel/Theory/interf/Intensity interferometry concept.md)
-- [Hanbury Brown Twiss effect](../../../02_Zettel/Theory/interf/Hanbury Brown Twiss effect.md)
-- [Narrabri stellar interferometer](../../../02_Zettel/Theory/interf/Narrabri stellar interferometer.md)
-- [Sensitivity and modern revival](../../../02_Zettel/Theory/interf/Sensitivity and modern revival.md)
-- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Intensity interferometry concept](../../../02_Zettel/Theory/interf/Intensity interferometry concept.html)
+- [Hanbury Brown Twiss effect](../../../02_Zettel/Theory/interf/Hanbury Brown Twiss effect.html)
+- [Narrabri stellar interferometer](../../../02_Zettel/Theory/interf/Narrabri stellar interferometer.html)
+- [Sensitivity and modern revival](../../../02_Zettel/Theory/interf/Sensitivity and modern revival.html)
+- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.html)

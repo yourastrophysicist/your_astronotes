@@ -60,5 +60,5 @@ every exam exercise is this template scaled to a different class. recognising th
 
 ## see also
 
-- [Math Numerical Methods course intro](../../02_Zettel/Theory/Math Numerical Methods course intro.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md) — the full topic dependency graph
+- [Math Numerical Methods course intro](../../02_Zettel/Theory/Math Numerical Methods course intro.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html) — the full topic dependency graph

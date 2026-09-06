@@ -57,12 +57,12 @@ for typical objects:
 
 ## see also
 
-- [Schwarzschild metric](../../02_Zettel/Theory/Schwarzschild metric.md)
-- [Schwarzschild Christoffels](../../02_Zettel/Theory/Schwarzschild Christoffels.md)
-- [Schwarzschild effective potential](../../02_Zettel/Theory/Schwarzschild effective potential.md)
-- [Eddington-Finkelstein and Kruskal](../../02_Zettel/Theory/Eddington-Finkelstein and Kruskal.md)
-- [Photon sphere](../../02_Zettel/Theory/Photon sphere.md)
-- [Photon trajectories and impact parameter](../../02_Zettel/Theory/Photon trajectories and impact parameter.md)
-- [Timelike vs null vs spacelike](../../02_Zettel/Theory/Timelike vs null vs spacelike.md)
-- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.md)
-- [Ch 6 - Black Holes](../../01_Literature/Book/Baumann GR/Ch 6 - Black Holes.md)
+- [Schwarzschild metric](../../02_Zettel/Theory/Schwarzschild metric.html)
+- [Schwarzschild Christoffels](../../02_Zettel/Theory/Schwarzschild Christoffels.html)
+- [Schwarzschild effective potential](../../02_Zettel/Theory/Schwarzschild effective potential.html)
+- [Eddington-Finkelstein and Kruskal](../../02_Zettel/Theory/Eddington-Finkelstein and Kruskal.html)
+- [Photon sphere](../../02_Zettel/Theory/Photon sphere.html)
+- [Photon trajectories and impact parameter](../../02_Zettel/Theory/Photon trajectories and impact parameter.html)
+- [Timelike vs null vs spacelike](../../02_Zettel/Theory/Timelike vs null vs spacelike.html)
+- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.html)
+- [Ch 6 - Black Holes](../../01_Literature/Book/Baumann GR/Ch 6 - Black Holes.html)

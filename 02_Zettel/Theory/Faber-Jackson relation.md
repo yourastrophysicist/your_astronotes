@@ -43,7 +43,7 @@ $$R_e \propto \sigma^{1.4}\,\langle I\rangle^{-0.9}$$
 
 projecting onto the $L-\sigma$ plane (with $L \propto R_e^2 \langle I\rangle$) gives Faber-Jackson with some scatter. the Fundamental Plane is **tighter** because it captures the additional dimension.
 
-see [Fundamental plane of ellipticals](../../02_Zettel/Theory/Fundamental plane of ellipticals.md).
+see [Fundamental plane of ellipticals](../../02_Zettel/Theory/Fundamental plane of ellipticals.html).
 
 ## the M-σ Connection
 
@@ -69,11 +69,11 @@ with $L_{K,*} \sim 10^{11}\,L_\odot$ for $\sigma = 200$ km/s.
 
 ## see also
 
-- [Tully-Fisher relation](../../02_Zettel/Theory/Tully-Fisher relation.md)
-- [Fundamental plane of ellipticals](../../02_Zettel/Theory/Fundamental plane of ellipticals.md)
-- [Kormendy relation](../../02_Zettel/Theory/Kormendy relation.md)
-- [M sigma relation](../../02_Zettel/Theory/M sigma relation.md)
-- [Magorrian relation](../../02_Zettel/Theory/Magorrian relation.md)
-- [Velocity dispersion from line width](../../02_Zettel/Theory/Velocity dispersion from line width.md)
-- [LOSVD](../../02_Zettel/Theory/LOSVD.md)
-- [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.md)
+- [Tully-Fisher relation](../../02_Zettel/Theory/Tully-Fisher relation.html)
+- [Fundamental plane of ellipticals](../../02_Zettel/Theory/Fundamental plane of ellipticals.html)
+- [Kormendy relation](../../02_Zettel/Theory/Kormendy relation.html)
+- [M sigma relation](../../02_Zettel/Theory/M sigma relation.html)
+- [Magorrian relation](../../02_Zettel/Theory/Magorrian relation.html)
+- [Velocity dispersion from line width](../../02_Zettel/Theory/Velocity dispersion from line width.html)
+- [LOSVD](../../02_Zettel/Theory/LOSVD.html)
+- [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.html)

@@ -4,7 +4,7 @@ name: Effects of differential reddening on CMD analysis
 description: how spatially-varying interstellar reddening artificially broadens cluster sequences on the CMD, mimicking metallicity spreads and multiple populations, and must be corrected before MP analysis
 ---
 
-**differential reddening (DR)** is one of the dominant sources of systematic error in resolved cluster CMD analysis. it broadens main sequence + RGB + HB ridges and can mimic real physical phenomena (metallicity spread, [multiple populations](../../02_Zettel/Theory/Multiple populations in GCs discovery.md), [eMSTO](../../02_Zettel/Theory/Extended main sequence turn-off eMSTO.md)). diagnosing + correcting DR is critical before any chromosome-map analysis.
+**differential reddening (DR)** is one of the dominant sources of systematic error in resolved cluster CMD analysis. it broadens main sequence + RGB + HB ridges and can mimic real physical phenomena (metallicity spread, [multiple populations](../../02_Zettel/Theory/Multiple populations in GCs discovery.html), [eMSTO](../../02_Zettel/Theory/Extended main sequence turn-off eMSTO.html)). diagnosing + correcting DR is critical before any chromosome-map analysis.
 
 ## the basic effect
 
@@ -12,7 +12,7 @@ each star sits at a specific spatial position $(x, y)$ in the cluster field. the
 
 $$E(B-V)_i = \langle E(B-V) \rangle + \delta_i$$
 
-with $\delta_i$ ranging from $-3\sigma$ to $+3\sigma$. each star's CMD position is shifted along the [reddening vector](../../02_Zettel/Theory/Interstellar reddening and the reddening vector.md) by an amount proportional to $\delta_i$.
+with $\delta_i$ ranging from $-3\sigma$ to $+3\sigma$. each star's CMD position is shifted along the [reddening vector](../../02_Zettel/Theory/Interstellar reddening and the reddening vector.html) by an amount proportional to $\delta_i$.
 
 result: the cluster MS, RGB, HB on the CMD become **broadened** vertically + horizontally along the reddening vector.
 
@@ -21,7 +21,7 @@ result: the cluster MS, RGB, HB on the CMD become **broadened** vertically + hor
 | mimicked phenomenon | DR signature | distinguishing feature |
 |---|---|---|
 | metallicity spread | broadens RGB + MS | DR shift along reddening vector, NOT iso-metallicity locus |
-| [multiple populations](../../02_Zettel/Theory/Multiple populations in GCs discovery.md) | broadens MS + RGB | DR has spatial coherence; MPs are independent of position |
+| [multiple populations](../../02_Zettel/Theory/Multiple populations in GCs discovery.html) | broadens MS + RGB | DR has spatial coherence; MPs are independent of position |
 | age spread | broadens TO | DR also broadens lower MS, age spread should not |
 | binary fraction | scatters above MS | DR scatters along reddening vector, not just upward |
 
@@ -42,7 +42,7 @@ this test is the **first thing** to do before claiming any chromosome-map split 
 
 ## the impact on chromosome maps
 
-[Photometric chromosome maps](../../02_Zettel/Theory/Photometric chromosome maps.md) rely on UV photometry where dust extinction is strongest. the chromosome-map axes:
+[Photometric chromosome maps](../../02_Zettel/Theory/Photometric chromosome maps.html) rely on UV photometry where dust extinction is strongest. the chromosome-map axes:
 
 - $\Delta_{F275W,F814W}$ (vertical, He-sensitive)
 - $\Delta_{C\,F275W,F336W,F438W}$ (horizontal, N-sensitive)
@@ -60,7 +60,7 @@ DR is severe in:
 - inner halo + disc fields ($|b| < 10^\circ$);
 - young LMC + SMC clusters near the Magellanic Stream + 30 Doradus.
 
-in these fields, even a tight CMD ridge has DR-induced scatter $\sigma \sim 0.05$-$0.15$ mag. without DR mapping (see [Differential reddening maps](../../02_Zettel/Theory/Differential reddening maps.md)), no chromosome map is publishable.
+in these fields, even a tight CMD ridge has DR-induced scatter $\sigma \sim 0.05$-$0.15$ mag. without DR mapping (see [Differential reddening maps](../../02_Zettel/Theory/Differential reddening maps.html)), no chromosome map is publishable.
 
 ## correction strategies
 
@@ -91,11 +91,11 @@ failing to correct DR has produced spurious "multiple populations" or "age sprea
 
 ## see also
 
-- [Differential reddening maps](../../02_Zettel/Theory/Differential reddening maps.md)
-- [Interstellar reddening and the reddening vector](../../02_Zettel/Theory/Interstellar reddening and the reddening vector.md)
-- [Extinction law and Rv](../../02_Zettel/Theory/Extinction law and Rv.md)
-- [Bulge CMD complications](../../02_Zettel/Theory/Bulge CMD complications.md)
-- [Photometric chromosome maps](../../02_Zettel/Theory/Photometric chromosome maps.md)
-- [Multiple populations in GCs discovery](../../02_Zettel/Theory/Multiple populations in GCs discovery.md)
-- [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.md)
-- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.md)
+- [Differential reddening maps](../../02_Zettel/Theory/Differential reddening maps.html)
+- [Interstellar reddening and the reddening vector](../../02_Zettel/Theory/Interstellar reddening and the reddening vector.html)
+- [Extinction law and Rv](../../02_Zettel/Theory/Extinction law and Rv.html)
+- [Bulge CMD complications](../../02_Zettel/Theory/Bulge CMD complications.html)
+- [Photometric chromosome maps](../../02_Zettel/Theory/Photometric chromosome maps.html)
+- [Multiple populations in GCs discovery](../../02_Zettel/Theory/Multiple populations in GCs discovery.html)
+- [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.html)
+- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.html)

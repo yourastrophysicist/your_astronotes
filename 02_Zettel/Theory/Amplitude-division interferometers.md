@@ -7,7 +7,7 @@ title: "Amplitude-division interferometers"
 
 a class of interferometers where a beam splitter — a partially-reflective optical element — splits an incoming beam into two beams of reduced amplitude that travel different paths and then recombine. **the dominant family** in laboratory optics, metrology, quantum optics, and gravitational-wave detection.
 
-contrast with [Wavefront-division interferometers](../../02_Zettel/Theory/interf/Wavefront-division interferometers.md), where different *parts* of a wavefront are sent along different paths.
+contrast with [Wavefront-division interferometers](../../02_Zettel/Theory/interf/Wavefront-division interferometers.html), where different *parts* of a wavefront are sent along different paths.
 
 ## the basic setup
 
@@ -31,7 +31,7 @@ historical importance:
 - Michelson stellar interferometer 1920: applied to astronomy
 - LIGO (modern): detects gravitational waves via path-length changes
 
-see [Michelson laboratory interferometer](../../02_Zettel/Theory/interf/Michelson laboratory interferometer.md) for the optical setup, [Michelson stellar interferometer](../../02_Zettel/Theory/interf/Michelson stellar interferometer.md) for the astronomical adaptation.
+see [Michelson laboratory interferometer](../../02_Zettel/Theory/interf/Michelson laboratory interferometer.html) for the optical setup, [Michelson stellar interferometer](../../02_Zettel/Theory/interf/Michelson stellar interferometer.html) for the astronomical adaptation.
 
 ### 2. Mach-Zehnder interferometer
 
@@ -42,7 +42,7 @@ useful for:
 - balanced detection
 - displaying both interference outputs simultaneously (one constructive, one destructive)
 
-see [Mach-Zehnder interferometer](../../02_Zettel/Theory/interf/Mach-Zehnder interferometer.md).
+see [Mach-Zehnder interferometer](../../02_Zettel/Theory/interf/Mach-Zehnder interferometer.html).
 
 ### 3. Sagnac interferometer
 
@@ -50,7 +50,7 @@ a beam splitter sends light around a *closed loop* in two opposite directions (c
 
 **rotation-sensitive**: if the apparatus rotates, the two paths have slightly different lengths in the rotating frame (Sagnac effect). used in fiber-optic gyroscopes for navigation.
 
-see [Sagnac interferometer](../../02_Zettel/Theory/interf/Sagnac interferometer.md).
+see [Sagnac interferometer](../../02_Zettel/Theory/interf/Sagnac interferometer.html).
 
 ### 4. Fabry-Perot interferometer
 
@@ -63,7 +63,7 @@ used as:
 - spectroscopic filters with very high resolution
 - standards for wavelength measurement
 
-see [Fabry-Perot interferometer](../../02_Zettel/Theory/interf/Fabry-Perot interferometer.md).
+see [Fabry-Perot interferometer](../../02_Zettel/Theory/interf/Fabry-Perot interferometer.html).
 
 ## what they share
 
@@ -73,7 +73,7 @@ three features:
 
 every amplitude-division interferometer pivots on the beam splitter. its quality (50/50 ratio, $\pi$ phase relationship, low loss, smoothness) determines the instrument quality.
 
-see [Beam splitter physics](../../02_Zettel/Theory/interf/Beam splitter physics.md).
+see [Beam splitter physics](../../02_Zettel/Theory/interf/Beam splitter physics.html).
 
 ### 2. two beams (or many)
 
@@ -122,10 +122,10 @@ amplitude-division interferometry has not stopped evolving. it is one of the mos
 
 ## see also
 
-- [Wavefront-division interferometers](../../02_Zettel/Theory/interf/Wavefront-division interferometers.md)
-- [Beam splitter physics](../../02_Zettel/Theory/interf/Beam splitter physics.md)
-- [Michelson laboratory interferometer](../../02_Zettel/Theory/interf/Michelson laboratory interferometer.md)
-- [Mach-Zehnder interferometer](../../02_Zettel/Theory/interf/Mach-Zehnder interferometer.md)
-- [Sagnac interferometer](../../02_Zettel/Theory/interf/Sagnac interferometer.md)
-- [Fabry-Perot interferometer](../../02_Zettel/Theory/interf/Fabry-Perot interferometer.md)
-- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Wavefront-division interferometers](../../02_Zettel/Theory/interf/Wavefront-division interferometers.html)
+- [Beam splitter physics](../../02_Zettel/Theory/interf/Beam splitter physics.html)
+- [Michelson laboratory interferometer](../../02_Zettel/Theory/interf/Michelson laboratory interferometer.html)
+- [Mach-Zehnder interferometer](../../02_Zettel/Theory/interf/Mach-Zehnder interferometer.html)
+- [Sagnac interferometer](../../02_Zettel/Theory/interf/Sagnac interferometer.html)
+- [Fabry-Perot interferometer](../../02_Zettel/Theory/interf/Fabry-Perot interferometer.html)
+- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.html)

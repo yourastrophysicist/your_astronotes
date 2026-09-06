@@ -120,6 +120,6 @@ print(f"a = {popt[0]:.3f} ± {perr[0]:.3f}")
 
 ## see also
 
-- [Linear least squares](../../02_Zettel/Theory/Linear least squares.md)
-- [Weighted least squares](../../02_Zettel/Theory/Weighted least squares.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Linear least squares](../../02_Zettel/Theory/Linear least squares.html)
+- [Weighted least squares](../../02_Zettel/Theory/Weighted least squares.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

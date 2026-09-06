@@ -73,11 +73,11 @@ so PCA captures the same astrophysics as morphology + color, in a different basi
 
 ## see also
 
-- [Galaxy spectroscopy by type](../../02_Zettel/Theory/Galaxy spectroscopy by type.md)
-- [Color bimodality of galaxies](../../02_Zettel/Theory/Color bimodality of galaxies.md)
-- [Red sequence and blue cloud](../../02_Zettel/Theory/Red sequence and blue cloud.md)
-- [Hubble morphological sequence](../../02_Zettel/Theory/Hubble morphological sequence.md)
-- [CAS galaxy classification](../../02_Zettel/Theory/CAS galaxy classification.md)
-- [Stellar population synthesis](../../02_Zettel/Theory/Stellar population synthesis.md)
-- [SDSS overview](../../02_Zettel/Theory/SDSS overview.md)
-- [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.md)
+- [Galaxy spectroscopy by type](../../02_Zettel/Theory/Galaxy spectroscopy by type.html)
+- [Color bimodality of galaxies](../../02_Zettel/Theory/Color bimodality of galaxies.html)
+- [Red sequence and blue cloud](../../02_Zettel/Theory/Red sequence and blue cloud.html)
+- [Hubble morphological sequence](../../02_Zettel/Theory/Hubble morphological sequence.html)
+- [CAS galaxy classification](../../02_Zettel/Theory/CAS galaxy classification.html)
+- [Stellar population synthesis](../../02_Zettel/Theory/Stellar population synthesis.html)
+- [SDSS overview](../../02_Zettel/Theory/SDSS overview.html)
+- [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.html)

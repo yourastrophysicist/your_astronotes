@@ -116,8 +116,8 @@ modern WR star observations routinely combine both, telling a complete story of 
 
 ## see also
 
-- [Stellar surface imaging](../../../02_Zettel/Theory/interf/Stellar surface imaging.md)
-- [Pulsating stars and Mira variables](../../../02_Zettel/Theory/interf/Pulsating stars and Mira variables.md)
-- [Young stellar object disks](../../../02_Zettel/Theory/interf/Young stellar object disks.md)
-- [VLTI Very Large Telescope Interferometer](../../../02_Zettel/Theory/interf/VLTI Very Large Telescope Interferometer.md)
-- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Stellar surface imaging](../../../02_Zettel/Theory/interf/Stellar surface imaging.html)
+- [Pulsating stars and Mira variables](../../../02_Zettel/Theory/interf/Pulsating stars and Mira variables.html)
+- [Young stellar object disks](../../../02_Zettel/Theory/interf/Young stellar object disks.html)
+- [VLTI Very Large Telescope Interferometer](../../../02_Zettel/Theory/interf/VLTI Very Large Telescope Interferometer.html)
+- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.html)

@@ -45,7 +45,7 @@ so $U$ decreases outward. consequently, the ionisation state stratifies:
 - middle: $[OIII], [NII]$.
 - outer: $[OII], [SII], [NI]$, neutral H.
 
-this is **ionisation stratification** ([Ionisation stratification](../../02_Zettel/Theory/Ionisation stratification.md)).
+this is **ionisation stratification** ([Ionisation stratification](../../02_Zettel/Theory/Ionisation stratification.html)).
 
 ## how to measure $U$
 
@@ -73,12 +73,12 @@ so $U$ is essentially the dimensionless control parameter; $c$ and atomic consta
 
 ## see also
 
-- [Photoionization rate](../../02_Zettel/Theory/Photoionization rate.md)
-- [Recombination rate](../../02_Zettel/Theory/Recombination rate.md)
-- [Photoionisation balance](../../02_Zettel/Theory/Photoionisation balance.md)
-- [Ionisation stratification](../../02_Zettel/Theory/Ionisation stratification.md)
+- [Photoionization rate](../../02_Zettel/Theory/Photoionization rate.html)
+- [Recombination rate](../../02_Zettel/Theory/Recombination rate.html)
+- [Photoionisation balance](../../02_Zettel/Theory/Photoionisation balance.html)
+- [Ionisation stratification](../../02_Zettel/Theory/Ionisation stratification.html)
 - Strömgren sphere
-- [BPT diagram](../../02_Zettel/Theory/BPT diagram.md)
-- [Forbidden line diagnostics](../../02_Zettel/Theory/Forbidden line diagnostics.md)
-- [H II region spectroscopy](../../02_Zettel/Theory/H II region spectroscopy.md)
-- [AGN spectroscopy](../../02_Zettel/Theory/AGN spectroscopy.md)
+- [BPT diagram](../../02_Zettel/Theory/BPT diagram.html)
+- [Forbidden line diagnostics](../../02_Zettel/Theory/Forbidden line diagnostics.html)
+- [H II region spectroscopy](../../02_Zettel/Theory/H II region spectroscopy.html)
+- [AGN spectroscopy](../../02_Zettel/Theory/AGN spectroscopy.html)

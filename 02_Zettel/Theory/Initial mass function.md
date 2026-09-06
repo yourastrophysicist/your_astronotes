@@ -5,7 +5,7 @@ title: "Initial mass function"
 
 # initial mass function
 
-up: [Pablo_03_Star_formation_in_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.md)
+up: [Pablo_03_Star_formation_in_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html)
 
 ## definition
 
@@ -62,14 +62,14 @@ for a Salpeter IMF over $[0.1, 100]\,M_\odot$, the ionizing photon rate per unit
 
 $$Q(\text{H I}) \simeq 9 \times 10^{46}\,\text{photons/s per } M_\odot/\text{yr}$$
 
-this plugs directly into the Hα calibration (see [H-alpha SFR tracer](../../02_Zettel/Theory/H-alpha SFR tracer.md)).
+this plugs directly into the Hα calibration (see [H-alpha SFR tracer](../../02_Zettel/Theory/H-alpha SFR tracer.html)).
 
 ## connections
 
-- enters all tracer calibrations: [UV SFR tracer](../../02_Zettel/Theory/UV SFR tracer.md), [H-alpha SFR tracer](../../02_Zettel/Theory/H-alpha SFR tracer.md), [IR SFR tracer](../../02_Zettel/Theory/IR SFR tracer.md)
-- needed for mass estimates: [Stellar mass function](../../02_Zettel/Theory/Stellar mass function.md)
-- needed for chemical yields: [Chemical evolution of galaxies](../../02_Zettel/Theory/Chemical evolution of galaxies.md)
-- SSP ingredients: [Stellar population synthesis](../../02_Zettel/Theory/Stellar population synthesis.md)
+- enters all tracer calibrations: [UV SFR tracer](../../02_Zettel/Theory/UV SFR tracer.html), [H-alpha SFR tracer](../../02_Zettel/Theory/H-alpha SFR tracer.html), [IR SFR tracer](../../02_Zettel/Theory/IR SFR tracer.html)
+- needed for mass estimates: [Stellar mass function](../../02_Zettel/Theory/Stellar mass function.html)
+- needed for chemical yields: [Chemical evolution of galaxies](../../02_Zettel/Theory/Chemical evolution of galaxies.html)
+- SSP ingredients: [Stellar population synthesis](../../02_Zettel/Theory/Stellar population synthesis.html)
 
 ## key references
 

@@ -106,10 +106,10 @@ it represents the new frontier of stellar populations + cluster dynamics merging
 
 ## see also
 
-- [Black holes in globular clusters](../../02_Zettel/Theory/Black holes in globular clusters.md)
-- [Hunting BHs via radial velocities](../../02_Zettel/Theory/Hunting BHs via radial velocities.md)
-- [Intermediate-mass BHs in GCs](../../02_Zettel/Theory/Intermediate-mass BHs in GCs.md)
-- [Millisecond pulsars in GCs](../../02_Zettel/Theory/Millisecond pulsars in GCs.md)
-- [X-ray sources in globular clusters](../../02_Zettel/Theory/X-ray sources in globular clusters.md)
-- [Cepheids and supernovae](../../02_Zettel/Theory/Cepheids and supernovae.md)
-- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.md)
+- [Black holes in globular clusters](../../02_Zettel/Theory/Black holes in globular clusters.html)
+- [Hunting BHs via radial velocities](../../02_Zettel/Theory/Hunting BHs via radial velocities.html)
+- [Intermediate-mass BHs in GCs](../../02_Zettel/Theory/Intermediate-mass BHs in GCs.html)
+- [Millisecond pulsars in GCs](../../02_Zettel/Theory/Millisecond pulsars in GCs.html)
+- [X-ray sources in globular clusters](../../02_Zettel/Theory/X-ray sources in globular clusters.html)
+- [Cepheids and supernovae](../../02_Zettel/Theory/Cepheids and supernovae.html)
+- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.html)

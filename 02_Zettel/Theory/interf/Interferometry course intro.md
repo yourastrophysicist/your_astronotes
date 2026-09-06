@@ -37,7 +37,7 @@ the whole course is one extended answer to "how do I get from a sky brightness t
 $$\text{plane wave} \to \text{coherence} \to \text{visibility} \to \text{Fourier component}$$
 $$\to \text{(u,v) sample} \to \text{dirty image} \to \text{deconvolved image}$$
 
-each step is one block of [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.md):
+each step is one block of [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.html):
 - physics fundamentals (block 1)
 - coherence (block 2)
 - aperture synthesis (block 3)
@@ -68,6 +68,6 @@ each step is one block of [Astronomical_Interferometry_MOC](../../../00_Atlas/As
 
 ## see also
 
-- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.md)
-- [Why interferometry](../../../02_Zettel/Theory/interf/Why interferometry.md)
-- [Interferometry equation sheet](../../../02_Zettel/Theory/interf/Interferometry equation sheet.md)
+- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.html)
+- [Why interferometry](../../../02_Zettel/Theory/interf/Why interferometry.html)
+- [Interferometry equation sheet](../../../02_Zettel/Theory/interf/Interferometry equation sheet.html)

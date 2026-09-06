@@ -77,11 +77,11 @@ at high $z$, the term "stellar velocity" is replaced by **redshift**. but veloci
 
 ## see also
 
-- [Spectroscopic redshift from line shifts](../../02_Zettel/Theory/Spectroscopic redshift from line shifts.md)
-- [Wavelength calibration](../../02_Zettel/Theory/Wavelength calibration.md)
-- [Echelle spectroscopy](../../02_Zettel/Theory/Echelle spectroscopy.md)
-- [Rotational broadening](../../02_Zettel/Theory/Rotational broadening.md)
-- [Stellar v sin i from line shape](../../02_Zettel/Theory/Stellar v sin i from line shape.md)
-- [Velocity dispersion from line width](../../02_Zettel/Theory/Velocity dispersion from line width.md)
-- [Annual stellar parallax](../../02_Zettel/Theory/Annual stellar parallax.md)
-- [Macroturbulence](../../02_Zettel/Theory/Macroturbulence.md)
+- [Spectroscopic redshift from line shifts](../../02_Zettel/Theory/Spectroscopic redshift from line shifts.html)
+- [Wavelength calibration](../../02_Zettel/Theory/Wavelength calibration.html)
+- [Echelle spectroscopy](../../02_Zettel/Theory/Echelle spectroscopy.html)
+- [Rotational broadening](../../02_Zettel/Theory/Rotational broadening.html)
+- [Stellar v sin i from line shape](../../02_Zettel/Theory/Stellar v sin i from line shape.html)
+- [Velocity dispersion from line width](../../02_Zettel/Theory/Velocity dispersion from line width.html)
+- [Annual stellar parallax](../../02_Zettel/Theory/Annual stellar parallax.html)
+- [Macroturbulence](../../02_Zettel/Theory/Macroturbulence.html)

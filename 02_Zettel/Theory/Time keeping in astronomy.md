@@ -26,7 +26,7 @@ UTC = UT1 + DUT1, with $|$DUT1$| < 0.9$ s by definition.
 
 ### sidereal time
 
-- **GMST** (Greenwich Mean Sidereal Time): Earth's rotation angle measured against the equinox $\gamma$. one sidereal day = $23^{\rm h}56^{\rm m}4.0905^{\rm s}$, shorter than the solar day by $\sim 4$ minutes. used to compute hour angle (see [Equatorial system](../../02_Zettel/Theory/Equatorial system.md)).
+- **GMST** (Greenwich Mean Sidereal Time): Earth's rotation angle measured against the equinox $\gamma$. one sidereal day = $23^{\rm h}56^{\rm m}4.0905^{\rm s}$, shorter than the solar day by $\sim 4$ minutes. used to compute hour angle (see [Equatorial system](../../02_Zettel/Theory/Equatorial system.html)).
 - **LMST** (Local Mean Sidereal Time): GMST + observer's east longitude. directly gives the hour angle of $\gamma$ at the observer.
 
 sidereal time is what you actually use to point a telescope, not UTC. observatories all run on local sidereal time alongside UTC.
@@ -48,8 +48,8 @@ a single Julian Date can be ambiguous about which time scale it is in. always sp
 
 ## see also
 
-- [Equatorial system](../../02_Zettel/Theory/Equatorial system.md) — sidereal time enters the hour angle
-- [Sidereal vs solar time](../../02_Zettel/Theory/Sidereal vs solar time.md)
-- [Precession nutation aberration parallax](../../02_Zettel/Theory/Precession nutation aberration parallax.md)
-- [Earth coordinates](../../02_Zettel/Theory/Earth coordinates.md)
-- [Observational_Astrophysics_MOC](../../00_Atlas/Observational_Astrophysics_MOC.md)
+- [Equatorial system](../../02_Zettel/Theory/Equatorial system.html) — sidereal time enters the hour angle
+- [Sidereal vs solar time](../../02_Zettel/Theory/Sidereal vs solar time.html)
+- [Precession nutation aberration parallax](../../02_Zettel/Theory/Precession nutation aberration parallax.html)
+- [Earth coordinates](../../02_Zettel/Theory/Earth coordinates.html)
+- [Observational_Astrophysics_MOC](../../00_Atlas/Observational_Astrophysics_MOC.html)

@@ -52,7 +52,7 @@ $$\epsilon_{CNO} \propto \rho T^{18}$$
 
 → extreme temperature sensitivity of CNO. that's why slightly more massive stars have *much* hotter cores and burn through hydrogen far faster.
 
-→ see [Stellar nucleosynthesis](../../02_Zettel/Theory/Stellar nucleosynthesis.md) for the full chain of fusion processes.
+→ see [Stellar nucleosynthesis](../../02_Zettel/Theory/Stellar nucleosynthesis.html) for the full chain of fusion processes.
 
 ---
 
@@ -66,7 +66,7 @@ $$\frac{dT(r)}{dr} = -\frac{3\kappa\rho L(r)}{16\pi a c r^2 T^3(r)}$$
 
 where $a$ is the radiation constant, $\kappa$ is the **opacity** (cm$^2$/g, depending on $T, \rho$, composition).
 
-→ see [Radiative transport](../../02_Zettel/Theory/Radiative transport.md).
+→ see [Radiative transport](../../02_Zettel/Theory/Radiative transport.html).
 
 ### convective transport
 when the radiative gradient becomes too steep, the gas becomes **convectively unstable** — hot bubbles rise, cool ones sink, transporting energy via macroscopic motions.
@@ -98,7 +98,7 @@ with these conditions, the four equations + an equation of state $P = P(\rho, T,
 
 > **the structure of a star in equilibrium is uniquely determined by its total mass and chemical composition.**
 
-so once you fix $M$ and $X$ (mass fractions of H, He, metals), the entire run of $\rho(r), T(r), P(r), L(r)$ follows uniquely. this is why MS stars trace out a *one-parameter* family — every property correlates with mass (see [Stellar scaling relations](../../02_Zettel/Theory/Stellar scaling relations.md)).
+so once you fix $M$ and $X$ (mass fractions of H, He, metals), the entire run of $\rho(r), T(r), P(r), L(r)$ follows uniquely. this is why MS stars trace out a *one-parameter* family — every property correlates with mass (see [Stellar scaling relations](../../02_Zettel/Theory/Stellar scaling relations.html)).
 
 after the star evolves and the composition becomes inhomogeneous, you need additional information (e.g. the composition profile $X(r)$) to specify the structure. so post-MS stars are richer.
 
@@ -114,10 +114,10 @@ starting from the ZAMS (zero-age main sequence), the structure evolves as compos
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Stellar scaling relations](../../02_Zettel/Theory/Stellar scaling relations.md)
-- [Radiative transport](../../02_Zettel/Theory/Radiative transport.md)
-- [Stellar nucleosynthesis](../../02_Zettel/Theory/Stellar nucleosynthesis.md)
-- [Stellar evolution timescales](../../02_Zettel/Theory/Stellar evolution timescales.md)
-- [Main sequence, giants, supergiants, white dwarfs](../../02_Zettel/Theory/Main sequence, giants, supergiants, white dwarfs.md)
-- [Jeans theory and protostellar formation](../../02_Zettel/Theory/Jeans theory and protostellar formation.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Stellar scaling relations](../../02_Zettel/Theory/Stellar scaling relations.html)
+- [Radiative transport](../../02_Zettel/Theory/Radiative transport.html)
+- [Stellar nucleosynthesis](../../02_Zettel/Theory/Stellar nucleosynthesis.html)
+- [Stellar evolution timescales](../../02_Zettel/Theory/Stellar evolution timescales.html)
+- [Main sequence, giants, supergiants, white dwarfs](../../02_Zettel/Theory/Main sequence, giants, supergiants, white dwarfs.html)
+- [Jeans theory and protostellar formation](../../02_Zettel/Theory/Jeans theory and protostellar formation.html)

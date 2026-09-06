@@ -98,9 +98,9 @@ practical full pipelines (DRAGONS, STScI's calibration pipelines) wrap many such
 
 ## see also
 
-- [CCD calibration steps](../../02_Zettel/Theory/CCD calibration steps.md)
-- [Aperture photometry](../../02_Zettel/Theory/Aperture photometry.md)
-- [PSF photometry](../../02_Zettel/Theory/PSF photometry.md)
-- [Photometric standard stars](../../02_Zettel/Theory/Photometric standard stars.md)
-- [Survey resources for Obs Astro](../../02_Zettel/Theory/Survey resources for Obs Astro.md)
-- [Useful constants and conversions](../../02_Zettel/Theory/Useful constants and conversions.md)
+- [CCD calibration steps](../../02_Zettel/Theory/CCD calibration steps.html)
+- [Aperture photometry](../../02_Zettel/Theory/Aperture photometry.html)
+- [PSF photometry](../../02_Zettel/Theory/PSF photometry.html)
+- [Photometric standard stars](../../02_Zettel/Theory/Photometric standard stars.html)
+- [Survey resources for Obs Astro](../../02_Zettel/Theory/Survey resources for Obs Astro.html)
+- [Useful constants and conversions](../../02_Zettel/Theory/Useful constants and conversions.html)

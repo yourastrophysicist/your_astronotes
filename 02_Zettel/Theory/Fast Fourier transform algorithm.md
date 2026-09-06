@@ -5,7 +5,7 @@ title: "Fast Fourier transform algorithm"
 
 # Fast Fourier transform algorithm
 
-the algorithm that computes the [Discrete Fourier transform](../../02_Zettel/Theory/Discrete Fourier transform.md) in $O(N \log N)$ instead of the naive $O(N^2)$. one of the most consequential algorithms ever invented, transforming entire fields of science and engineering.
+the algorithm that computes the [Discrete Fourier transform](../../02_Zettel/Theory/Discrete Fourier transform.html) in $O(N \log N)$ instead of the naive $O(N^2)$. one of the most consequential algorithms ever invented, transforming entire fields of science and engineering.
 
 ## the idea: divide and conquer
 
@@ -90,9 +90,9 @@ before Cooley-Tukey (1965), Fourier analysis was practically restricted to $N \l
 
 ## see also
 
-- [Discrete Fourier transform](../../02_Zettel/Theory/Discrete Fourier transform.md)
-- [Fourier series math summary](../../02_Zettel/Theory/Fourier series math summary.md)
-- [Physical interpretation of the FFT](../../02_Zettel/Theory/Physical interpretation of the FFT.md)
-- [Computational complexity and speed](../../02_Zettel/Theory/Computational complexity and speed.md)
-- [Power spectrum estimation](../../02_Zettel/Theory/Power spectrum estimation.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Discrete Fourier transform](../../02_Zettel/Theory/Discrete Fourier transform.html)
+- [Fourier series math summary](../../02_Zettel/Theory/Fourier series math summary.html)
+- [Physical interpretation of the FFT](../../02_Zettel/Theory/Physical interpretation of the FFT.html)
+- [Computational complexity and speed](../../02_Zettel/Theory/Computational complexity and speed.html)
+- [Power spectrum estimation](../../02_Zettel/Theory/Power spectrum estimation.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

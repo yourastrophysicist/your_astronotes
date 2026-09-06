@@ -73,7 +73,7 @@ where $\chi$ is a redefined radial coordinate and $S_k(\chi) = \sin\chi$ ($k=+1$
 this is the **conformal metric**. since light travels along null geodesics ($ds^2 = 0$), and the prefactor $a^2(\tau)$ is conformal, light propagation in FRW is the same as in flat Minkowski if I first transform to conformal time. along a radial null geodesic:
 $$\Delta \tau = \Delta \chi$$
 
-useful for horizon arguments (see [Standard model problems](../../02_Zettel/Theory/Standard model problems.md) and [Inflation overview](../../02_Zettel/Theory/Inflation overview.md)).
+useful for horizon arguments (see [Standard model problems](../../02_Zettel/Theory/Standard model problems.html) and [Inflation overview](../../02_Zettel/Theory/Inflation overview.html)).
 
 ---
 
@@ -103,10 +103,10 @@ three equivalent ways to write the FRW metric, useful in different contexts:
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Cosmological principle](../../02_Zettel/Theory/Cosmological principle.md)
-- [Curvature parameter k](../../02_Zettel/Theory/Curvature parameter k.md)
-- [Hubble constant and deceleration parameter](../../02_Zettel/Theory/Hubble constant and deceleration parameter.md)
-- [Newtonian Friedmann derivation](../../02_Zettel/Theory/Newtonian Friedmann derivation.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Cosmological principle](../../02_Zettel/Theory/Cosmological principle.html)
+- [Curvature parameter k](../../02_Zettel/Theory/Curvature parameter k.html)
+- [Hubble constant and deceleration parameter](../../02_Zettel/Theory/Hubble constant and deceleration parameter.html)
+- [Newtonian Friedmann derivation](../../02_Zettel/Theory/Newtonian Friedmann derivation.html)
 - Friedmann equations with Λ
-- [Baumann_reference](../../02_Zettel/Theory/Baumann_reference.md) — chapter 1.1 has the full derivation with all the box-by-box detail
+- [Baumann_reference](../../02_Zettel/Theory/Baumann_reference.html) — chapter 1.1 has the full derivation with all the box-by-box detail

@@ -96,8 +96,8 @@ nulling interferometry is poised for:
 
 ## see also
 
-- [Bracewell nuller](../../02_Zettel/Theory/interf/Bracewell nuller.md)
-- [Coronagraphy](../../02_Zettel/Theory/interf/Coronagraphy.md)
-- [Apodization](../../02_Zettel/Theory/interf/Apodization.md)
-- [Hypertelescope](../../02_Zettel/Theory/interf/Hypertelescope.md)
-- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Bracewell nuller](../../02_Zettel/Theory/interf/Bracewell nuller.html)
+- [Coronagraphy](../../02_Zettel/Theory/interf/Coronagraphy.html)
+- [Apodization](../../02_Zettel/Theory/interf/Apodization.html)
+- [Hypertelescope](../../02_Zettel/Theory/interf/Hypertelescope.html)
+- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.html)

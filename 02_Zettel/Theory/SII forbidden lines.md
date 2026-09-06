@@ -7,7 +7,7 @@ $[SII]$ forbidden lines are the **workhorse density diagnostic** in photoionised
 
 ## the doublet
 
-singly ionised sulphur S$^+$ has $3p^3$ valence configuration. terms (see [Equivalent vs nonequivalent electrons](../../02_Zettel/Theory/Equivalent vs nonequivalent electrons.md)):
+singly ionised sulphur S$^+$ has $3p^3$ valence configuration. terms (see [Equivalent vs nonequivalent electrons](../../02_Zettel/Theory/Equivalent vs nonequivalent electrons.html)):
 - ground $^4S_{3/2}$.
 - $^2D_{5/2}$ and $^2D_{3/2}$, fine-structure split.
 - $^2P_{1/2, 3/2}$.
@@ -71,12 +71,12 @@ so $[SII]$ is the most-used because the wavelengths are accessible and the lines
 
 ## see also
 
-- [Forbidden lines](../../02_Zettel/Theory/Forbidden lines.md)
-- [Critical density](../../02_Zettel/Theory/Critical density.md)
-- [Two-level atom](../../02_Zettel/Theory/Two-level atom.md)
-- [OIII forbidden lines](../../02_Zettel/Theory/OIII forbidden lines.md)
-- [Forbidden line diagnostics](../../02_Zettel/Theory/Forbidden line diagnostics.md)
-- [Spectroscopic ne diagnostics](../../02_Zettel/Theory/Spectroscopic ne diagnostics.md)
-- [Equivalent vs nonequivalent electrons](../../02_Zettel/Theory/Equivalent vs nonequivalent electrons.md)
-- [Selection rules](../../02_Zettel/Theory/Selection rules.md)
-- [BPT diagram](../../02_Zettel/Theory/BPT diagram.md)
+- [Forbidden lines](../../02_Zettel/Theory/Forbidden lines.html)
+- [Critical density](../../02_Zettel/Theory/Critical density.html)
+- [Two-level atom](../../02_Zettel/Theory/Two-level atom.html)
+- [OIII forbidden lines](../../02_Zettel/Theory/OIII forbidden lines.html)
+- [Forbidden line diagnostics](../../02_Zettel/Theory/Forbidden line diagnostics.html)
+- [Spectroscopic ne diagnostics](../../02_Zettel/Theory/Spectroscopic ne diagnostics.html)
+- [Equivalent vs nonequivalent electrons](../../02_Zettel/Theory/Equivalent vs nonequivalent electrons.html)
+- [Selection rules](../../02_Zettel/Theory/Selection rules.html)
+- [BPT diagram](../../02_Zettel/Theory/BPT diagram.html)

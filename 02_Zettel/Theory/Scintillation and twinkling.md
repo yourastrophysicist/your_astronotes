@@ -92,8 +92,8 @@ planets famously do not twinkle (much). the difference is primary education's in
 
 ## see also
 
-- [Atmospheric turbulence overview](../../02_Zettel/Theory/interf/Atmospheric turbulence overview.md)
-- [Kolmogorov turbulence](../../02_Zettel/Theory/interf/Kolmogorov turbulence.md)
-- [Fried parameter $r_0$](../../02_Zettel/Theory/interf/Fried parameter $r_0$.md)
-- [Adaptive optics](../../02_Zettel/Theory/interf/Adaptive optics.md)
-- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Atmospheric turbulence overview](../../02_Zettel/Theory/interf/Atmospheric turbulence overview.html)
+- [Kolmogorov turbulence](../../02_Zettel/Theory/interf/Kolmogorov turbulence.html)
+- [Fried parameter $r_0$](../../02_Zettel/Theory/interf/Fried parameter $r_0$.html)
+- [Adaptive optics](../../02_Zettel/Theory/interf/Adaptive optics.html)
+- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.html)

@@ -15,7 +15,7 @@ practical: at $T_e = 8000$ K, ratio $\sim 0.005$; at $T_e = 12\,000$ K, $\sim 0.
 
 caveat: $\lambda 4363$ has high $n_c \sim 3 \times 10^7$ cm$^{-3}$. at $n_e > 10^5$, density correction needed.
 
-see [OIII forbidden lines](../../02_Zettel/Theory/OIII forbidden lines.md) for full discussion.
+see [OIII forbidden lines](../../02_Zettel/Theory/OIII forbidden lines.html) for full discussion.
 
 ### $[NII]\,\lambda 5755/(\lambda 6548 + \lambda 6584)$
 
@@ -53,7 +53,7 @@ direct $T_e$ method: pioneered by Aller, Peimbert, Stasińska. used today for hu
 
 ## the metallicity connection
 
-$T_e$ is **anti-correlated with metallicity** (since metal-line cooling is the dominant cooling mechanism, see [Equilibrium temperature](../../02_Zettel/Theory/Equilibrium temperature.md)):
+$T_e$ is **anti-correlated with metallicity** (since metal-line cooling is the dominant cooling mechanism, see [Equilibrium temperature](../../02_Zettel/Theory/Equilibrium temperature.html)):
 - $\log(O/H) \sim 8.0$ (1/3 solar): $T_e \sim 12\,000$ K.
 - $\log(O/H) \sim 8.7$ (solar): $T_e \sim 8500$ K.
 - $\log(O/H) \sim 7.5$ (very metal-poor): $T_e \sim 18\,000$ K.
@@ -62,12 +62,12 @@ so direct $T_e$ measurement gives metallicity. modern abundance work uses this e
 
 ## see also
 
-- [Forbidden line diagnostics](../../02_Zettel/Theory/Forbidden line diagnostics.md)
-- [OIII forbidden lines](../../02_Zettel/Theory/OIII forbidden lines.md)
-- [SII forbidden lines](../../02_Zettel/Theory/SII forbidden lines.md)
-- [Spectroscopic ne diagnostics](../../02_Zettel/Theory/Spectroscopic ne diagnostics.md)
-- [Two-level atom](../../02_Zettel/Theory/Two-level atom.md)
-- [Critical density](../../02_Zettel/Theory/Critical density.md)
-- [Cooling rate in HII regions](../../02_Zettel/Theory/Cooling rate in HII regions.md)
-- [Equilibrium temperature](../../02_Zettel/Theory/Equilibrium temperature.md)
-- [Metallicity and chemical evolution](../../02_Zettel/Theory/Metallicity and chemical evolution.md)
+- [Forbidden line diagnostics](../../02_Zettel/Theory/Forbidden line diagnostics.html)
+- [OIII forbidden lines](../../02_Zettel/Theory/OIII forbidden lines.html)
+- [SII forbidden lines](../../02_Zettel/Theory/SII forbidden lines.html)
+- [Spectroscopic ne diagnostics](../../02_Zettel/Theory/Spectroscopic ne diagnostics.html)
+- [Two-level atom](../../02_Zettel/Theory/Two-level atom.html)
+- [Critical density](../../02_Zettel/Theory/Critical density.html)
+- [Cooling rate in HII regions](../../02_Zettel/Theory/Cooling rate in HII regions.html)
+- [Equilibrium temperature](../../02_Zettel/Theory/Equilibrium temperature.html)
+- [Metallicity and chemical evolution](../../02_Zettel/Theory/Metallicity and chemical evolution.html)

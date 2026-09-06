@@ -5,7 +5,7 @@ title: "Quenching and passive galaxies at high z"
 
 # quenching and passive galaxies at high z
 
-up: [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md) · [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.md) · [Green valley and quenching tracks](../../02_Zettel/Theory/Green valley and quenching tracks.md)
+up: [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html) · [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.html) · [Green valley and quenching tracks](../../02_Zettel/Theory/Green valley and quenching tracks.html)
 
 ## the definition of quenching
 
@@ -34,6 +34,6 @@ Recent JWST observations have discovered fully quenched, massive ($M_* \gtrsim 1
 
 ## connections
 
-- local bimodality: [Color bimodality of galaxies](../../02_Zettel/Theory/Color bimodality of galaxies.md), [Red sequence and blue cloud](../../02_Zettel/Theory/Red sequence and blue cloud.md)
-- early universe: [High-z galaxies with JWST](../../02_Zettel/Theory/High-z galaxies with JWST.md)
-- spectral classification: [Eigenspectra and spectral types](../../02_Zettel/Theory/Eigenspectra and spectral types.md)
+- local bimodality: [Color bimodality of galaxies](../../02_Zettel/Theory/Color bimodality of galaxies.html), [Red sequence and blue cloud](../../02_Zettel/Theory/Red sequence and blue cloud.html)
+- early universe: [High-z galaxies with JWST](../../02_Zettel/Theory/High-z galaxies with JWST.html)
+- spectral classification: [Eigenspectra and spectral types](../../02_Zettel/Theory/Eigenspectra and spectral types.html)

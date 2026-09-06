@@ -57,17 +57,17 @@ $$\mu = 5 \log_{10}(d_L/10\,\text{pc})$$
 with $d_L$ the **luminosity distance**. for flat $\Lambda$CDM:
 $$d_L(z) = (1+z)\,\frac{c}{H_0}\int_0^z \frac{dz'}{\sqrt{\Omega_m(1+z')^3 + \Omega_\Lambda}}$$
 
-at low $z$, $d_L \approx cz/H_0$, recovering the Hubble flow. see [Luminosity distance](../../02_Zettel/Theory/Luminosity distance.md) and [Distance ladder derivations](../../02_Zettel/Theory/Distance ladder derivations.md).
+at low $z$, $d_L \approx cz/H_0$, recovering the Hubble flow. see [Luminosity distance](../../02_Zettel/Theory/Luminosity distance.html) and [Distance ladder derivations](../../02_Zettel/Theory/Distance ladder derivations.html).
 
-at high $z$, an additional **K-correction** is needed because the observed band samples a different rest-frame wavelength than the calibrated $M$. see [K-correction](../../02_Zettel/Theory/K-correction.md).
+at high $z$, an additional **K-correction** is needed because the observed band samples a different rest-frame wavelength than the calibrated $M$. see [K-correction](../../02_Zettel/Theory/K-correction.html).
 
 ## see also
 
-- [Pogson magnitudes and flux relation](../../02_Zettel/Theory/Pogson magnitudes and flux relation.md)
-- [Magnitudes and photometric systems](../../02_Zettel/Theory/Magnitudes and photometric systems.md)
-- [Distance ladder derivations](../../02_Zettel/Theory/Distance ladder derivations.md)
-- [Luminosity distance](../../02_Zettel/Theory/Luminosity distance.md)
-- [Atmospheric extinction](../../02_Zettel/Theory/interf/Atmospheric extinction.md)
-- [Interstellar absorption](../../02_Zettel/Theory/Interstellar absorption.md)
-- [K-correction](../../02_Zettel/Theory/K-correction.md)
-- [Hubble law](../../02_Zettel/Theory/Hubble law.md)
+- [Pogson magnitudes and flux relation](../../02_Zettel/Theory/Pogson magnitudes and flux relation.html)
+- [Magnitudes and photometric systems](../../02_Zettel/Theory/Magnitudes and photometric systems.html)
+- [Distance ladder derivations](../../02_Zettel/Theory/Distance ladder derivations.html)
+- [Luminosity distance](../../02_Zettel/Theory/Luminosity distance.html)
+- [Atmospheric extinction](../../02_Zettel/Theory/interf/Atmospheric extinction.html)
+- [Interstellar absorption](../../02_Zettel/Theory/Interstellar absorption.html)
+- [K-correction](../../02_Zettel/Theory/K-correction.html)
+- [Hubble law](../../02_Zettel/Theory/Hubble law.html)

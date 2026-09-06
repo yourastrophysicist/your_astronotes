@@ -40,9 +40,9 @@ peak strength as Mg II in stellar populations: $T \sim 8000$ to $10\,000$ K (A0)
 
 ## see also
 
-- [Magnesium and alkali earths](../../02_Zettel/Theory/Magnesium and alkali earths.md)
-- [Boltzmann equation in spectroscopy](../../02_Zettel/Theory/Boltzmann equation in spectroscopy.md)
-- [Saha ionisation equation](../../02_Zettel/Theory/Saha ionisation equation.md)
-- [Population of excited levels](../../02_Zettel/Theory/Population of excited levels.md)
-- [Why the Sequence OBAFGKM](../../02_Zettel/Theory/Why the Sequence OBAFGKM.md)
-- [Stellar spectra and spectral classification](../../02_Zettel/Theory/Stellar spectra and spectral classification.md)
+- [Magnesium and alkali earths](../../02_Zettel/Theory/Magnesium and alkali earths.html)
+- [Boltzmann equation in spectroscopy](../../02_Zettel/Theory/Boltzmann equation in spectroscopy.html)
+- [Saha ionisation equation](../../02_Zettel/Theory/Saha ionisation equation.html)
+- [Population of excited levels](../../02_Zettel/Theory/Population of excited levels.html)
+- [Why the Sequence OBAFGKM](../../02_Zettel/Theory/Why the Sequence OBAFGKM.html)
+- [Stellar spectra and spectral classification](../../02_Zettel/Theory/Stellar spectra and spectral classification.html)

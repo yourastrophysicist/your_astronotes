@@ -51,7 +51,7 @@ e.g. nebular emission from a thin HII region: each atom radiates and the photon 
 ### optically thick ($\tau \gg 1$)
 absorption dominates. emergent intensity is the source function at $\tau = 1$:
 $$I_\nu(0) \approx S_\nu(\tau = 1) = B_\nu(T(\tau = 1))\quad\text{(at LTE)}$$
-this is the **Eddington-Barbier approximation** (see [Eddington-Barbier approximation](../../02_Zettel/Theory/Eddington-Barbier approximation.md)). emergent radiation samples one layer's thermal Planck spectrum: the **photosphere**, where light is "born."
+this is the **Eddington-Barbier approximation** (see [Eddington-Barbier approximation](../../02_Zettel/Theory/Eddington-Barbier approximation.html)). emergent radiation samples one layer's thermal Planck spectrum: the **photosphere**, where light is "born."
 
 ## why both matter
 
@@ -67,13 +67,13 @@ multiplying RTE by $1, \mu, \mu^2$ and integrating over angle gives the moment e
 
 ## see also
 
-- [Optical depth](../../02_Zettel/Theory/Optical depth.md)
-- [Source function](../../02_Zettel/Theory/Source function.md)
-- [Local thermodynamic equilibrium LTE](../../02_Zettel/Theory/Local thermodynamic equilibrium LTE.md)
-- [Eddington-Barbier approximation](../../02_Zettel/Theory/Eddington-Barbier approximation.md)
-- [Stellar atmosphere structure](../../02_Zettel/Theory/Stellar atmosphere structure.md)
-- [Continuum opacity sources](../../02_Zettel/Theory/Continuum opacity sources.md)
-- [Specific intensity flux luminosity](../../02_Zettel/Theory/Specific intensity flux luminosity.md)
-- [Limb darkening](../../02_Zettel/Theory/Limb darkening.md)
-- [Radiative transport](../../02_Zettel/Theory/Radiative transport.md) — additional notes
-- [Boltzmann equation in cosmology](../../02_Zettel/Theory/Boltzmann equation in cosmology.md) — analogous in cosmological / photon-fluid regime
+- [Optical depth](../../02_Zettel/Theory/Optical depth.html)
+- [Source function](../../02_Zettel/Theory/Source function.html)
+- [Local thermodynamic equilibrium LTE](../../02_Zettel/Theory/Local thermodynamic equilibrium LTE.html)
+- [Eddington-Barbier approximation](../../02_Zettel/Theory/Eddington-Barbier approximation.html)
+- [Stellar atmosphere structure](../../02_Zettel/Theory/Stellar atmosphere structure.html)
+- [Continuum opacity sources](../../02_Zettel/Theory/Continuum opacity sources.html)
+- [Specific intensity flux luminosity](../../02_Zettel/Theory/Specific intensity flux luminosity.html)
+- [Limb darkening](../../02_Zettel/Theory/Limb darkening.html)
+- [Radiative transport](../../02_Zettel/Theory/Radiative transport.html) — additional notes
+- [Boltzmann equation in cosmology](../../02_Zettel/Theory/Boltzmann equation in cosmology.html) — analogous in cosmological / photon-fluid regime

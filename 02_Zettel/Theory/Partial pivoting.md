@@ -5,7 +5,7 @@ title: "Partial pivoting"
 
 # Partial pivoting
 
-the fix for the failure mode of plain [Gauss elimination](../../02_Zettel/Theory/Gauss elimination.md): zero or tiny pivots. partial pivoting swaps rows so that at each elimination step the **largest available pivot** is used.
+the fix for the failure mode of plain [Gauss elimination](../../02_Zettel/Theory/Gauss elimination.html): zero or tiny pivots. partial pivoting swaps rows so that at each elimination step the **largest available pivot** is used.
 
 ## why it matters
 
@@ -73,7 +73,7 @@ partial pivoting adds $O(N^2)$ work to a $O(N^3)$ algorithm — **negligible**. 
 
 ## what about iterative methods?
 
-[Gauss-Seidel iteration](../../02_Zettel/Theory/Gauss-Seidel iteration.md) does not need pivoting in the same way — it iterates rather than eliminates. but Gauss-Seidel has a different requirement: the matrix must be diagonally dominant for convergence. so the algorithm and the diagnostic differ.
+[Gauss-Seidel iteration](../../02_Zettel/Theory/Gauss-Seidel iteration.html) does not need pivoting in the same way — it iterates rather than eliminates. but Gauss-Seidel has a different requirement: the matrix must be diagonally dominant for convergence. so the algorithm and the diagnostic differ.
 
 ## scaling and equilibration
 
@@ -87,8 +87,8 @@ after elimination. the parity of the number of row swaps must be tracked.
 
 ## see also
 
-- [Gauss elimination](../../02_Zettel/Theory/Gauss elimination.md) — the unpivoted algorithm
-- [LU decomposition](../../02_Zettel/Theory/LU decomposition.md) — same elimination, cached as a factorization (with permutation matrix $P$)
-- [Gauss-Seidel iteration](../../02_Zettel/Theory/Gauss-Seidel iteration.md)
-- [Pros and cons of linear solvers](../../02_Zettel/Theory/Pros and cons of linear solvers.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Gauss elimination](../../02_Zettel/Theory/Gauss elimination.html) — the unpivoted algorithm
+- [LU decomposition](../../02_Zettel/Theory/LU decomposition.html) — same elimination, cached as a factorization (with permutation matrix $P$)
+- [Gauss-Seidel iteration](../../02_Zettel/Theory/Gauss-Seidel iteration.html)
+- [Pros and cons of linear solvers](../../02_Zettel/Theory/Pros and cons of linear solvers.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

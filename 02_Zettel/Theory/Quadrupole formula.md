@@ -70,11 +70,11 @@ direct detection: GW150914 (LIGO 2015), Nobel 2017.
 
 ## see also
 
-- [Linearized metric perturbation](../../02_Zettel/Theory/Linearized metric perturbation.md)
-- [Transverse traceless gauge](../../02_Zettel/Theory/Transverse traceless gauge.md)
-- [Plus and cross polarizations](../../02_Zettel/Theory/Plus and cross polarizations.md)
-- [Geodesic deviation under a GW](../../02_Zettel/Theory/Geodesic deviation under a GW.md)
-- [GW energy and angular momentum](../../02_Zettel/Theory/GW energy and angular momentum.md)
-- [Birkhoff theorem](../../02_Zettel/Theory/Birkhoff theorem.md)
-- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.md)
-- [Ch 8 - Gravitational Waves](../../01_Literature/Book/Baumann GR/Ch 8 - Gravitational Waves.md)
+- [Linearized metric perturbation](../../02_Zettel/Theory/Linearized metric perturbation.html)
+- [Transverse traceless gauge](../../02_Zettel/Theory/Transverse traceless gauge.html)
+- [Plus and cross polarizations](../../02_Zettel/Theory/Plus and cross polarizations.html)
+- [Geodesic deviation under a GW](../../02_Zettel/Theory/Geodesic deviation under a GW.html)
+- [GW energy and angular momentum](../../02_Zettel/Theory/GW energy and angular momentum.html)
+- [Birkhoff theorem](../../02_Zettel/Theory/Birkhoff theorem.html)
+- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.html)
+- [Ch 8 - Gravitational Waves](../../01_Literature/Book/Baumann GR/Ch 8 - Gravitational Waves.html)

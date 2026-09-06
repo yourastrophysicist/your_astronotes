@@ -62,11 +62,11 @@ ignoring metallicity introduces systematic errors of $\sim 0.05$ to $0.5$ mag in
 
 ## see also
 
-- [Stellar populations I II III](../../02_Zettel/Theory/Stellar populations I II III.md)
-- [Chemical evolution of galaxies](../../02_Zettel/Theory/Chemical evolution of galaxies.md)
-- [Initial mass function](../../02_Zettel/Theory/Initial mass function.md)
-- [Stellar nucleosynthesis](../../02_Zettel/Theory/Stellar nucleosynthesis.md)
-- [Cluster ages from CMD turnoff](../../02_Zettel/Theory/Cluster ages from CMD turnoff.md)
-- [Stellar mass function](../../02_Zettel/Theory/Stellar mass function.md)
-- [Cepheid period-luminosity relation](../../02_Zettel/Theory/Cepheid period-luminosity relation.md)
-- [TRGB tip of the red giant branch](../../02_Zettel/Theory/TRGB tip of the red giant branch.md)
+- [Stellar populations I II III](../../02_Zettel/Theory/Stellar populations I II III.html)
+- [Chemical evolution of galaxies](../../02_Zettel/Theory/Chemical evolution of galaxies.html)
+- [Initial mass function](../../02_Zettel/Theory/Initial mass function.html)
+- [Stellar nucleosynthesis](../../02_Zettel/Theory/Stellar nucleosynthesis.html)
+- [Cluster ages from CMD turnoff](../../02_Zettel/Theory/Cluster ages from CMD turnoff.html)
+- [Stellar mass function](../../02_Zettel/Theory/Stellar mass function.html)
+- [Cepheid period-luminosity relation](../../02_Zettel/Theory/Cepheid period-luminosity relation.html)
+- [TRGB tip of the red giant branch](../../02_Zettel/Theory/TRGB tip of the red giant branch.html)

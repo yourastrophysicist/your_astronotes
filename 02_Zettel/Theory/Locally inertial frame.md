@@ -52,11 +52,11 @@ GR builds on the strong EP. tested to spectacular precision by Eotvos-type exper
 
 ## see also
 
-- [Manifold metric and signature](../../02_Zettel/Theory/Manifold metric and signature.md)
-- [Christoffel symbols](../../02_Zettel/Theory/Christoffel symbols.md)
-- [Geodesic deviation](../../02_Zettel/Theory/Geodesic deviation.md)
-- [Geodesic equation](../../02_Zettel/Theory/Geodesic equation.md)
-- [Newtonian limit of GR](../../02_Zettel/Theory/Newtonian limit of GR.md)
-- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.md)
-- [Ch 1 - Gravity is Geometry](../../01_Literature/Book/Baumann GR/Ch 1 - Gravity is Geometry.md)
-- [Ch 2 - Some Differential Geometry](../../01_Literature/Book/Baumann GR/Ch 2 - Some Differential Geometry.md)
+- [Manifold metric and signature](../../02_Zettel/Theory/Manifold metric and signature.html)
+- [Christoffel symbols](../../02_Zettel/Theory/Christoffel symbols.html)
+- [Geodesic deviation](../../02_Zettel/Theory/Geodesic deviation.html)
+- [Geodesic equation](../../02_Zettel/Theory/Geodesic equation.html)
+- [Newtonian limit of GR](../../02_Zettel/Theory/Newtonian limit of GR.html)
+- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.html)
+- [Ch 1 - Gravity is Geometry](../../01_Literature/Book/Baumann GR/Ch 1 - Gravity is Geometry.html)
+- [Ch 2 - Some Differential Geometry](../../01_Literature/Book/Baumann GR/Ch 2 - Some Differential Geometry.html)

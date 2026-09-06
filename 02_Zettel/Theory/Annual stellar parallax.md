@@ -39,7 +39,7 @@ Gaia is the transformative dataset for the modern distance scale. every Cepheid,
 ## systematics and corrections
 
 modern parallax is a precision measurement requiring careful systematics control:
-- **annual aberration** (constant $20''$, must be removed; see [Precession nutation aberration parallax](../../02_Zettel/Theory/Precession nutation aberration parallax.md)).
+- **annual aberration** (constant $20''$, must be removed; see [Precession nutation aberration parallax](../../02_Zettel/Theory/Precession nutation aberration parallax.html)).
 - **proper motion** (linear drift on the sky, $\sim$mas/yr for nearby stars; orthogonal to parallax oscillation in time).
 - **stellar binary motion** (additional ellipse if the star has an unresolved companion).
 - **Gaia zero-point offset** ($\sim -29\,\mu$as for the parallax bias, debated).
@@ -62,11 +62,11 @@ Gaia DR3 reduced the systematic uncertainty on the local-distance ladder from $\
 
 ## see also
 
-- [AU calibration parallax and parsec](../../02_Zettel/Theory/AU calibration parallax and parsec.md)
-- [Distance ladder derivations](../../02_Zettel/Theory/Distance ladder derivations.md)
-- [Cepheid period-luminosity relation](../../02_Zettel/Theory/Cepheid period-luminosity relation.md)
-- [Spectroscopic parallax and main-sequence fitting](../../02_Zettel/Theory/Spectroscopic parallax and main-sequence fitting.md)
-- [Distance modulus](../../02_Zettel/Theory/Distance modulus.md)
-- [Precession nutation aberration parallax](../../02_Zettel/Theory/Precession nutation aberration parallax.md)
-- [Parallax and standard candles](../../02_Zettel/Theory/Parallax and standard candles.md)
-- [Hubble flow distances](../../02_Zettel/Theory/Hubble flow distances.md)
+- [AU calibration parallax and parsec](../../02_Zettel/Theory/AU calibration parallax and parsec.html)
+- [Distance ladder derivations](../../02_Zettel/Theory/Distance ladder derivations.html)
+- [Cepheid period-luminosity relation](../../02_Zettel/Theory/Cepheid period-luminosity relation.html)
+- [Spectroscopic parallax and main-sequence fitting](../../02_Zettel/Theory/Spectroscopic parallax and main-sequence fitting.html)
+- [Distance modulus](../../02_Zettel/Theory/Distance modulus.html)
+- [Precession nutation aberration parallax](../../02_Zettel/Theory/Precession nutation aberration parallax.html)
+- [Parallax and standard candles](../../02_Zettel/Theory/Parallax and standard candles.html)
+- [Hubble flow distances](../../02_Zettel/Theory/Hubble flow distances.html)

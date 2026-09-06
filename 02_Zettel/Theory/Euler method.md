@@ -73,12 +73,12 @@ $$\mathbf{q}_{n+1} = \mathbf{q}_n + h\nabla T(\mathbf{p}_{n+1})$$
 
 note the order: $\mathbf{p}$ first (using current $\mathbf{q}$), then $\mathbf{q}$ (using *new* $\mathbf{p}$). this is symplectic — it conserves a slightly modified Hamiltonian and so the energy oscillates around the true value rather than drifting. for the harmonic oscillator, energy stays bounded.
 
-semi-implicit Euler is the simplest symplectic integrator, and the conceptual ancestor of [Leapfrog integrator](../../02_Zettel/Theory/Leapfrog integrator.md).
+semi-implicit Euler is the simplest symplectic integrator, and the conceptual ancestor of [Leapfrog integrator](../../02_Zettel/Theory/Leapfrog integrator.html).
 
 ## see also
 
-- [Runge-Kutta 2 midpoint method](../../02_Zettel/Theory/Runge-Kutta 2 midpoint method.md) — $O(h^2)$ at twice the cost
-- [Runge-Kutta 4 method](../../02_Zettel/Theory/Runge-Kutta 4 method.md) — $O(h^4)$ at four times the cost, the workhorse
-- [Leapfrog integrator](../../02_Zettel/Theory/Leapfrog integrator.md) — second-order, symplectic, no energy drift
-- [Energy conservation as a diagnostic](../../02_Zettel/Theory/Energy conservation as a diagnostic.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Runge-Kutta 2 midpoint method](../../02_Zettel/Theory/Runge-Kutta 2 midpoint method.html) — $O(h^2)$ at twice the cost
+- [Runge-Kutta 4 method](../../02_Zettel/Theory/Runge-Kutta 4 method.html) — $O(h^4)$ at four times the cost, the workhorse
+- [Leapfrog integrator](../../02_Zettel/Theory/Leapfrog integrator.html) — second-order, symplectic, no energy drift
+- [Energy conservation as a diagnostic](../../02_Zettel/Theory/Energy conservation as a diagnostic.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

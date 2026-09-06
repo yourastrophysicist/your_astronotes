@@ -5,11 +5,11 @@ title: "1Vmax estimator"
 
 # 1/Vmax estimator
 
-up: [Pablo_02_Statistical_properties_of_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.md) · [Luminosity function definition](../../02_Zettel/Theory/Luminosity function definition.md)
+up: [Pablo_02_Statistical_properties_of_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html) · [Luminosity function definition](../../02_Zettel/Theory/Luminosity function definition.html)
 
 ## the problem
 
-a flux-limited sample (apparent magnitude $m < m_{\text{lim}}$) does not see all galaxies in your survey volume. faint galaxies are only visible nearby; bright galaxies are visible far. so a naive histogram of absolute magnitudes is biased toward bright objects (this is [Malmquist bias](../../02_Zettel/Theory/Malmquist bias.md)).
+a flux-limited sample (apparent magnitude $m < m_{\text{lim}}$) does not see all galaxies in your survey volume. faint galaxies are only visible nearby; bright galaxies are visible far. so a naive histogram of absolute magnitudes is biased toward bright objects (this is [Malmquist bias](../../02_Zettel/Theory/Malmquist bias.html)).
 
 we want $\phi(L)$, the *intrinsic* density of galaxies per unit luminosity per unit volume. how do we estimate it?
 
@@ -31,12 +31,12 @@ the expected number of galaxies of luminosity $L$ in your sample is $\phi(L)\, d
 
 $$V_{\max}(L) = \Omega_{\text{survey}} \int_{z_{\min}}^{z_{\max}(L)} \frac{dV}{dz\, d\Omega}\, dz$$
 
-where $z_{\max}(L)$ solves $L = 4 \pi d_L(z_{\max})^2 \cdot S_{\text{lim}} \cdot 10^{0.4\, K(z_{\max})}$. so $V_{\max}$ folds in cosmology, [K-correction](../../02_Zettel/Theory/K-correction.md), and the survey footprint.
+where $z_{\max}(L)$ solves $L = 4 \pi d_L(z_{\max})^2 \cdot S_{\text{lim}} \cdot 10^{0.4\, K(z_{\max})}$. so $V_{\max}$ folds in cosmology, [K-correction](../../02_Zettel/Theory/K-correction.html), and the survey footprint.
 
 ## variants and limitations
 
 - **bivariate $V_{\max}$**: when you have two flux limits (e.g. K-band and 24 μm) you intersect the two volumes.
-- **photo-z $V_{\max}$**: marginalize over $p(z)$ rather than using a point estimate, otherwise outliers (see [Photo-z biases and catastrophic outliers](../../02_Zettel/Theory/Photo-z biases and catastrophic outliers.md)) bias the LF.
+- **photo-z $V_{\max}$**: marginalize over $p(z)$ rather than using a point estimate, otherwise outliers (see [Photo-z biases and catastrophic outliers](../../02_Zettel/Theory/Photo-z biases and catastrophic outliers.html)) bias the LF.
 - **Sandage-Tammann-Yahil 1979 max-likelihood**: an alternative that does not bin in $L$ and is less sensitive to large-scale structure (which can bias 1/Vmax in pencil-beam surveys).
 - **STY likelihood for the Schechter parameters**: fit $\phi^*$, $L^*$, $\alpha$ directly without binning.
 
@@ -46,10 +46,10 @@ it is the simplest unbiased LF estimator. it costs essentially nothing per galax
 
 ## connections
 
-- bias it corrects: [Malmquist bias](../../02_Zettel/Theory/Malmquist bias.md)
-- the LF it estimates: [Schechter function](../../02_Zettel/Theory/Schechter function.md)
-- when photo-z complicate it: [Photo-z biases and catastrophic outliers](../../02_Zettel/Theory/Photo-z biases and catastrophic outliers.md)
-- mass version: [Stellar mass function](../../02_Zettel/Theory/Stellar mass function.md)
+- bias it corrects: [Malmquist bias](../../02_Zettel/Theory/Malmquist bias.html)
+- the LF it estimates: [Schechter function](../../02_Zettel/Theory/Schechter function.html)
+- when photo-z complicate it: [Photo-z biases and catastrophic outliers](../../02_Zettel/Theory/Photo-z biases and catastrophic outliers.html)
+- mass version: [Stellar mass function](../../02_Zettel/Theory/Stellar mass function.html)
 
 ## key references
 

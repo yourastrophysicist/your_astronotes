@@ -115,8 +115,8 @@ source: ESO/EHT images eso1907j and eso1907a.
 
 ## see also
 
-- [Very Long Baseline Interferometry VLBI](../../02_Zettel/Theory/interf/Very Long Baseline Interferometry VLBI.md)
-- [AGN and supermassive black holes](../../02_Zettel/Theory/interf/AGN and supermassive black holes.md)
-- [Galactic Center Sgr A and S-stars](../../02_Zettel/Theory/interf/Galactic Center Sgr A and S-stars.md)
-- [Major radio interferometers](../../02_Zettel/Theory/interf/Major radio interferometers.md)
-- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Very Long Baseline Interferometry VLBI](../../02_Zettel/Theory/interf/Very Long Baseline Interferometry VLBI.html)
+- [AGN and supermassive black holes](../../02_Zettel/Theory/interf/AGN and supermassive black holes.html)
+- [Galactic Center Sgr A and S-stars](../../02_Zettel/Theory/interf/Galactic Center Sgr A and S-stars.html)
+- [Major radio interferometers](../../02_Zettel/Theory/interf/Major radio interferometers.html)
+- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.html)

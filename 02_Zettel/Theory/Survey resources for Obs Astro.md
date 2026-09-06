@@ -124,10 +124,10 @@ for SFR, galaxy SEDs, distance methods, photometric redshifts, the relevant data
 
 ## see also
 
-- [Photometric standard stars](../../02_Zettel/Theory/Photometric standard stars.md)
-- [Filter systems and bandpasses](../../02_Zettel/Theory/Filter systems and bandpasses.md)
-- [Magnitudes and photometric systems](../../02_Zettel/Theory/Magnitudes and photometric systems.md)
-- [Atmospheric transparency windows](../../02_Zettel/Theory/interf/Atmospheric transparency windows.md)
-- [Observational_Astrophysics_MOC](../../00_Atlas/Observational_Astrophysics_MOC.md)
-- [Lab_High-Energy_MOC](../../00_Atlas/Lab_High-Energy_MOC.md)
-- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md)
+- [Photometric standard stars](../../02_Zettel/Theory/Photometric standard stars.html)
+- [Filter systems and bandpasses](../../02_Zettel/Theory/Filter systems and bandpasses.html)
+- [Magnitudes and photometric systems](../../02_Zettel/Theory/Magnitudes and photometric systems.html)
+- [Atmospheric transparency windows](../../02_Zettel/Theory/interf/Atmospheric transparency windows.html)
+- [Observational_Astrophysics_MOC](../../00_Atlas/Observational_Astrophysics_MOC.html)
+- [Lab_High-Energy_MOC](../../00_Atlas/Lab_High-Energy_MOC.html)
+- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html)

@@ -108,10 +108,10 @@ the parameter is now everywhere in optical astronomy and adaptive-optics literat
 
 ## see also
 
-- [Atmospheric turbulence overview](../../02_Zettel/Theory/interf/Atmospheric turbulence overview.md)
-- [Kolmogorov turbulence](../../02_Zettel/Theory/interf/Kolmogorov turbulence.md)
-- [Structure function and correlation function](../../02_Zettel/Theory/interf/Structure function and correlation function.md)
-- [Isoplanatic patch](../../02_Zettel/Theory/interf/Isoplanatic patch.md)
-- [Frozen turbulence and Taylor hypothesis](../../02_Zettel/Theory/interf/Frozen turbulence and Taylor hypothesis.md)
-- [Adaptive optics](../../02_Zettel/Theory/interf/Adaptive optics.md)
-- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Atmospheric turbulence overview](../../02_Zettel/Theory/interf/Atmospheric turbulence overview.html)
+- [Kolmogorov turbulence](../../02_Zettel/Theory/interf/Kolmogorov turbulence.html)
+- [Structure function and correlation function](../../02_Zettel/Theory/interf/Structure function and correlation function.html)
+- [Isoplanatic patch](../../02_Zettel/Theory/interf/Isoplanatic patch.html)
+- [Frozen turbulence and Taylor hypothesis](../../02_Zettel/Theory/interf/Frozen turbulence and Taylor hypothesis.html)
+- [Adaptive optics](../../02_Zettel/Theory/interf/Adaptive optics.html)
+- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.html)

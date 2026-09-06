@@ -47,7 +47,7 @@ at $T \sim 10^5$ to $10^7$ K, hosted in **filaments connecting galaxies**, the W
 
 XMM-Newton + Chandra detected hints; **eROSITA** + future X-ray missions (Athena) will map systematically.
 
-see [Missing baryons](../../02_Zettel/Theory/Missing baryons.md).
+see [Missing baryons](../../02_Zettel/Theory/Missing baryons.html).
 
 ## the cosmic web
 
@@ -74,12 +74,12 @@ major IGM probes:
 
 ## see also
 
-- [Reionization](../../02_Zettel/Theory/Reionization.md)
+- [Reionization](../../02_Zettel/Theory/Reionization.html)
 - Lyman-α forest
-- [Missing baryons](../../02_Zettel/Theory/Missing baryons.md)
-- [Cosmic_inventory_baryons](../../02_Zettel/Theory/Cosmic_inventory_baryons.md)
-- [Cosmic_inventory_overview](../../02_Zettel/Theory/Cosmic_inventory_overview.md)
-- [ΛCDM current parameters](../../02_Zettel/Theory/ΛCDM current parameters.md)
-- [H I regions](../../02_Zettel/Theory/H I regions.md)
-- [Photodissociation regions PDRs](../../02_Zettel/Theory/Photodissociation regions PDRs.md)
-- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md)
+- [Missing baryons](../../02_Zettel/Theory/Missing baryons.html)
+- [Cosmic_inventory_baryons](../../02_Zettel/Theory/Cosmic_inventory_baryons.html)
+- [Cosmic_inventory_overview](../../02_Zettel/Theory/Cosmic_inventory_overview.html)
+- [ΛCDM current parameters](../../02_Zettel/Theory/ΛCDM current parameters.html)
+- [H I regions](../../02_Zettel/Theory/H I regions.html)
+- [Photodissociation regions PDRs](../../02_Zettel/Theory/Photodissociation regions PDRs.html)
+- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html)

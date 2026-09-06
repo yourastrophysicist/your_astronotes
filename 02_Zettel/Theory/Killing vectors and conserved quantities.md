@@ -39,7 +39,7 @@ Schwarzschild has 4 Killing vectors:
 - $\partial_t$ (time-translation symmetry): conserved **energy** $E = -\xi_t \cdot \dot x = (1 - 2GM/r)\dot t$.
 - 3 rotations of the angular coordinates: conserved **angular momentum** components. for orbits in the equatorial plane, $L = r^2\dot\phi$ (or the $z$-component).
 
-these reduce the 4-component geodesic problem to a 1D effective potential problem in $r$. see [Effective potential approach](../../02_Zettel/Theory/Effective potential approach.md).
+these reduce the 4-component geodesic problem to a 1D effective potential problem in $r$. see [Effective potential approach](../../02_Zettel/Theory/Effective potential approach.html).
 
 ### FLRW
 
@@ -67,12 +67,12 @@ this is how Schwarzschild geodesics are made tractable: the spherical + time sym
 
 ## see also
 
-- [Geodesic equation](../../02_Zettel/Theory/Geodesic equation.md)
-- [Affine parameter](../../02_Zettel/Theory/Affine parameter.md)
-- [Effective potential approach](../../02_Zettel/Theory/Effective potential approach.md)
-- [Schwarzschild metric](../../02_Zettel/Theory/Schwarzschild metric.md)
-- [Schwarzschild effective potential](../../02_Zettel/Theory/Schwarzschild effective potential.md)
-- [FLRW metric](../../02_Zettel/Theory/FLRW metric.md)
-- [Cosmological redshift](../../02_Zettel/Theory/Cosmological redshift.md)
-- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.md)
-- [Ch 3 - A First Look at Geodesics](../../01_Literature/Book/Baumann GR/Ch 3 - A First Look at Geodesics.md)
+- [Geodesic equation](../../02_Zettel/Theory/Geodesic equation.html)
+- [Affine parameter](../../02_Zettel/Theory/Affine parameter.html)
+- [Effective potential approach](../../02_Zettel/Theory/Effective potential approach.html)
+- [Schwarzschild metric](../../02_Zettel/Theory/Schwarzschild metric.html)
+- [Schwarzschild effective potential](../../02_Zettel/Theory/Schwarzschild effective potential.html)
+- [FLRW metric](../../02_Zettel/Theory/FLRW metric.html)
+- [Cosmological redshift](../../02_Zettel/Theory/Cosmological redshift.html)
+- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.html)
+- [Ch 3 - A First Look at Geodesics](../../01_Literature/Book/Baumann GR/Ch 3 - A First Look at Geodesics.html)

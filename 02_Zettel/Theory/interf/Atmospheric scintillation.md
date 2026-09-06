@@ -50,8 +50,8 @@ both come from the same atmospheric turbulence, but they live in different obser
 
 ## see also
 
-- [Earth atmosphere for observations](../../../02_Zettel/Theory/Earth atmosphere for observations.md)
-- [Atmospheric seeing](../../../02_Zettel/Theory/interf/Atmospheric seeing.md)
-- [Adaptive optics overview](../../../02_Zettel/Theory/interf/Adaptive optics overview.md)
-- [CCD detectors and SNR](../../../02_Zettel/Theory/CCD detectors and SNR.md)
-- [Sky brightness](../../../02_Zettel/Theory/Sky brightness.md)
+- [Earth atmosphere for observations](../../../02_Zettel/Theory/Earth atmosphere for observations.html)
+- [Atmospheric seeing](../../../02_Zettel/Theory/interf/Atmospheric seeing.html)
+- [Adaptive optics overview](../../../02_Zettel/Theory/interf/Adaptive optics overview.html)
+- [CCD detectors and SNR](../../../02_Zettel/Theory/CCD detectors and SNR.html)
+- [Sky brightness](../../../02_Zettel/Theory/Sky brightness.html)

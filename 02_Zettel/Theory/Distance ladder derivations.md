@@ -3,9 +3,9 @@ layout: default
 title: "Distance ladder derivations"
 ---
 
-a comprehensive companion to [Observational_Astrophysics_MOC](../../00_Atlas/Observational_Astrophysics_MOC.md) Block 5. the goal is to derive every rung of the distance ladder, from the AU outward to the Hubble flow, with the geometry shown explicitly each time. this is the master "where does this distance come from" note.
+a comprehensive companion to [Observational_Astrophysics_MOC](../../00_Atlas/Observational_Astrophysics_MOC.html) Block 5. the goal is to derive every rung of the distance ladder, from the AU outward to the Hubble flow, with the geometry shown explicitly each time. this is the master "where does this distance come from" note.
 
-source: Lecture 5 ("Distance ladder") of the Obs Astrophysics course at U Padua, plus the user's exam-answer drafts `obs1.pdf` (AU + parallax) and `obs2.pdf` (distance modulus + dust + Hubble). companion to [Cosmic_inventory_photons_derivation](../../02_Zettel/Theory/Cosmic_inventory_photons_derivation.md) in style.
+source: Lecture 5 ("Distance ladder") of the Obs Astrophysics course at U Padua, plus the user's exam-answer drafts `obs1.pdf` (AU + parallax) and `obs2.pdf` (distance modulus + dust + Hubble). companion to [Cosmic_inventory_photons_derivation](../../02_Zettel/Theory/Cosmic_inventory_photons_derivation.html) in style.
 
 ---
 
@@ -150,8 +150,8 @@ three things break the simple $cz/H_0$ formula:
 1. **peculiar velocities**: at $z \lesssim 0.01$, peculiar motion of the host galaxy can be a $\sim 30\%$ correction. that is why low-$z$ Hubble-law distances are unreliable; you need either many galaxies (averaging out) or independent distance estimators (Tully-Fisher, SN Ia at $z \sim 0.01$ to $0.1$).
 2. **cosmological dependence**: at $z \gtrsim 0.1$, the simple $v = cz$ Doppler approximation breaks. the proper distance depends on the full FLRW solution:
 $$d_L(z) = (1+z) \frac{c}{H_0}\int_0^z \frac{dz'}{\sqrt{\Omega_m(1+z')^3 + \Omega_\Lambda}}$$
-(flat $\Lambda$CDM). this is what makes high-$z$ SN Ia so useful: their Hubble diagram constrains $\Omega_m$ and $\Omega_\Lambda$. see [Luminosity distance](../../02_Zettel/Theory/Luminosity distance.md).
-3. **K-correction**: at high $z$ a fixed-band magnitude samples a different rest-frame wavelength than at $z = 0$. the K-correction translates between them. see [K-correction](../../02_Zettel/Theory/K-correction.md) and [K-correction in optical vs sub-mm](../../02_Zettel/Theory/K-correction in optical vs sub-mm.md).
+(flat $\Lambda$CDM). this is what makes high-$z$ SN Ia so useful: their Hubble diagram constrains $\Omega_m$ and $\Omega_\Lambda$. see [Luminosity distance](../../02_Zettel/Theory/Luminosity distance.html).
+3. **K-correction**: at high $z$ a fixed-band magnitude samples a different rest-frame wavelength than at $z = 0$. the K-correction translates between them. see [K-correction](../../02_Zettel/Theory/K-correction.html) and [K-correction in optical vs sub-mm](../../02_Zettel/Theory/K-correction in optical vs sub-mm.html).
 
 ### the modern $H_0$ tension
 
@@ -215,19 +215,19 @@ start at $1$ AU calibrated by radar to nine digits, propagate to nearby stars by
 
 ## see also
 
-- [Observational_Astrophysics_MOC](../../00_Atlas/Observational_Astrophysics_MOC.md) — Block 5 lives here
-- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md) — Block 1 (Distances in cosmology) extends this to high $z$
-- [Luminosity distance](../../02_Zettel/Theory/Luminosity distance.md) / [Angular diameter distance](../../02_Zettel/Theory/Angular diameter distance.md) / [Radial comoving distance](../../02_Zettel/Theory/Radial comoving distance.md)
-- [Distance modulus](../../02_Zettel/Theory/Distance modulus.md)
-- [Hubble law](../../02_Zettel/Theory/Hubble law.md)
-- [Cosmological redshift](../../02_Zettel/Theory/Cosmological redshift.md)
-- [K-correction](../../02_Zettel/Theory/K-correction.md)
-- [K-correction in optical vs sub-mm](../../02_Zettel/Theory/K-correction in optical vs sub-mm.md)
-- [Supernova Hubble diagram](../../02_Zettel/Theory/Supernova Hubble diagram.md)
-- [Cepheid period-luminosity relation](../../02_Zettel/Theory/Cepheid period-luminosity relation.md)
-- [TRGB tip of the red giant branch](../../02_Zettel/Theory/TRGB tip of the red giant branch.md)
-- [Type Ia supernovae as standard candles](../../02_Zettel/Theory/Type Ia supernovae as standard candles.md)
-- [Earth atmosphere for observations](../../02_Zettel/Theory/Earth atmosphere for observations.md) — what limits the parallax precision
-- [CCD detectors and SNR](../../02_Zettel/Theory/CCD detectors and SNR.md) — what enables the photometry that anchors every candle
-- [Cosmic_inventory_overview](../../02_Zettel/Theory/Cosmic_inventory_overview.md) — where the cosmic distance scale connects to the budget
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
+- [Observational_Astrophysics_MOC](../../00_Atlas/Observational_Astrophysics_MOC.html) — Block 5 lives here
+- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html) — Block 1 (Distances in cosmology) extends this to high $z$
+- [Luminosity distance](../../02_Zettel/Theory/Luminosity distance.html) / [Angular diameter distance](../../02_Zettel/Theory/Angular diameter distance.html) / [Radial comoving distance](../../02_Zettel/Theory/Radial comoving distance.html)
+- [Distance modulus](../../02_Zettel/Theory/Distance modulus.html)
+- [Hubble law](../../02_Zettel/Theory/Hubble law.html)
+- [Cosmological redshift](../../02_Zettel/Theory/Cosmological redshift.html)
+- [K-correction](../../02_Zettel/Theory/K-correction.html)
+- [K-correction in optical vs sub-mm](../../02_Zettel/Theory/K-correction in optical vs sub-mm.html)
+- [Supernova Hubble diagram](../../02_Zettel/Theory/Supernova Hubble diagram.html)
+- [Cepheid period-luminosity relation](../../02_Zettel/Theory/Cepheid period-luminosity relation.html)
+- [TRGB tip of the red giant branch](../../02_Zettel/Theory/TRGB tip of the red giant branch.html)
+- [Type Ia supernovae as standard candles](../../02_Zettel/Theory/Type Ia supernovae as standard candles.html)
+- [Earth atmosphere for observations](../../02_Zettel/Theory/Earth atmosphere for observations.html) — what limits the parallax precision
+- [CCD detectors and SNR](../../02_Zettel/Theory/CCD detectors and SNR.html) — what enables the photometry that anchors every candle
+- [Cosmic_inventory_overview](../../02_Zettel/Theory/Cosmic_inventory_overview.html) — where the cosmic distance scale connects to the budget
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)

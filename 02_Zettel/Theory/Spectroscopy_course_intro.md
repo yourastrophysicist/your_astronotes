@@ -10,7 +10,7 @@ the second-semester Astronomical Spectroscopy course at U Padova, AY 2025/2026, 
 every lecture is one stage in this chain:
 $$\text{atomic physics} \to \text{level populations (Boltzmann + Saha)} \to \text{radiative transfer} \to \text{absorption / emission lines} \to \text{spectrograph} \to \text{calibrated spectrum} \to \text{plasma diagnostics}$$
 
-it is the *complement* to [Observational_Astrophysics_MOC](../../00_Atlas/Observational_Astrophysics_MOC.md): where Obs Astro turns photons into magnitudes (one number per source), Spectroscopy resolves photons by wavelength (a vector per source) and asks what the gas was that emitted them.
+it is the *complement* to [Observational_Astrophysics_MOC](../../00_Atlas/Observational_Astrophysics_MOC.html): where Obs Astro turns photons into magnitudes (one number per source), Spectroscopy resolves photons by wavelength (a vector per source) and asks what the gas was that emitted them.
 
 ## the two physical settings
 
@@ -39,7 +39,7 @@ oral exam questions almost always sit in one of these:
 
 ## see also
 
-- [Astronomical_Spectroscopy_MOC](../../00_Atlas/Astronomical_Spectroscopy_MOC.md)
-- [Observational_Astrophysics_MOC](../../00_Atlas/Observational_Astrophysics_MOC.md)
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
+- [Astronomical_Spectroscopy_MOC](../../00_Atlas/Astronomical_Spectroscopy_MOC.html)
+- [Observational_Astrophysics_MOC](../../00_Atlas/Observational_Astrophysics_MOC.html)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
 - Exams summer 2026 master plan

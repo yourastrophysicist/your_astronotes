@@ -55,7 +55,7 @@ $$d_L(z) = (1 + z)\int_0^z \frac{c\, dz'}{H(z')}$$
 and at small $z$:
 $$d_L(z) = \frac{c}{H_0}\left[z + \tfrac12(1 - q_0) z^2 + O(z^3)\right]$$
 
-→ see [Hubble law exact form](../../02_Zettel/Theory/Hubble law exact form.md).
+→ see [Hubble law exact form](../../02_Zettel/Theory/Hubble law exact form.html).
 
 ---
 
@@ -77,9 +77,9 @@ inconsistent at $\sim 5\sigma$ with the CMB-anchored value $67.4 \pm 0.5$. this 
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
 - 03_Zettel/Theory/Robertson-Walker metric
-- [Hubble constant and deceleration parameter](../../02_Zettel/Theory/Hubble constant and deceleration parameter.md)
-- [Hubble law exact form](../../02_Zettel/Theory/Hubble law exact form.md)
+- [Hubble constant and deceleration parameter](../../02_Zettel/Theory/Hubble constant and deceleration parameter.html)
+- [Hubble law exact form](../../02_Zettel/Theory/Hubble law exact form.html)
 - 03_Zettel/Theory/Cosmological distances
-- [Cepheids and supernovae](../../02_Zettel/Theory/Cepheids and supernovae.md)
+- [Cepheids and supernovae](../../02_Zettel/Theory/Cepheids and supernovae.html)

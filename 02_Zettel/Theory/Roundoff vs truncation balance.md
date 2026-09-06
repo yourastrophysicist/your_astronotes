@@ -91,8 +91,8 @@ these are the conventional defaults in `scipy.optimize.approx_fprime` and `scipy
 
 ## see also
 
-- [Floating point representation and rounding errors](../../02_Zettel/Theory/Floating point representation and rounding errors.md)
-- [Truncation error and order of accuracy](../../02_Zettel/Theory/Truncation error and order of accuracy.md)
-- [Forward backward and central differences](../../02_Zettel/Theory/Forward backward and central differences.md)
-- [Optimal step size for derivatives](../../02_Zettel/Theory/Optimal step size for derivatives.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Floating point representation and rounding errors](../../02_Zettel/Theory/Floating point representation and rounding errors.html)
+- [Truncation error and order of accuracy](../../02_Zettel/Theory/Truncation error and order of accuracy.html)
+- [Forward backward and central differences](../../02_Zettel/Theory/Forward backward and central differences.html)
+- [Optimal step size for derivatives](../../02_Zettel/Theory/Optimal step size for derivatives.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

@@ -150,8 +150,8 @@ construction underway 2020s-2030s. designed for:
 
 ## see also
 
-- [Connected element interferometer](../../02_Zettel/Theory/interf/Connected element interferometer.md)
-- [Very Long Baseline Interferometry VLBI](../../02_Zettel/Theory/interf/Very Long Baseline Interferometry VLBI.md)
-- [Event Horizon Telescope EHT](../../02_Zettel/Theory/interf/Event Horizon Telescope EHT.md)
-- [Earth rotation synthesis in radio](../../02_Zettel/Theory/interf/Earth rotation synthesis in radio.md)
-- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Connected element interferometer](../../02_Zettel/Theory/interf/Connected element interferometer.html)
+- [Very Long Baseline Interferometry VLBI](../../02_Zettel/Theory/interf/Very Long Baseline Interferometry VLBI.html)
+- [Event Horizon Telescope EHT](../../02_Zettel/Theory/interf/Event Horizon Telescope EHT.html)
+- [Earth rotation synthesis in radio](../../02_Zettel/Theory/interf/Earth rotation synthesis in radio.html)
+- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.html)

@@ -5,7 +5,7 @@ title: "ΛCDM current parameters"
 
 # standard lcdm parameters
 
-up: [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md) · [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
+up: [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html) · [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
 
 ## planck 2018 baseline parameters
 
@@ -38,5 +38,5 @@ This discrepancy with Planck CMB results exceeds $5\sigma$ significance, represe
 
 ## connections
 
-- thermal context: [Brief thermal history](../../02_Zettel/Theory/Brief thermal history.md), [CMB power spectrum](../../02_Zettel/Theory/CMB power spectrum.md)
-- distances: [Supernova Hubble diagram](../../02_Zettel/Theory/Supernova Hubble diagram.md), [Distance ladder derivations](../../02_Zettel/Theory/Distance ladder derivations.md)
+- thermal context: [Brief thermal history](../../02_Zettel/Theory/Brief thermal history.html), [CMB power spectrum](../../02_Zettel/Theory/CMB power spectrum.html)
+- distances: [Supernova Hubble diagram](../../02_Zettel/Theory/Supernova Hubble diagram.html), [Distance ladder derivations](../../02_Zettel/Theory/Distance ladder derivations.html)

@@ -60,7 +60,7 @@ connected arrays distribute a coherent LO or clock reference. VLBI stations use 
 
 ## relation to optical direct detection
 
-radio can downconvert and record voltages. optical interferometry usually cannot; optical/IR systems must physically combine beams before detection. this is the core difference in [Heterodyne vs direct detection](../../02_Zettel/Theory/interf/Heterodyne vs direct detection.md).
+radio can downconvert and record voltages. optical interferometry usually cannot; optical/IR systems must physically combine beams before detection. this is the core difference in [Heterodyne vs direct detection](../../02_Zettel/Theory/interf/Heterodyne vs direct detection.html).
 
 ## exam sentence
 
@@ -76,7 +76,7 @@ source: local study diagram generated from the heterodyne identity.
 
 ## see also
 
-- [Heterodyne vs direct detection](../../02_Zettel/Theory/interf/Heterodyne vs direct detection.md)
-- [Radio interferometer architecture](../../02_Zettel/Theory/interf/Radio interferometer architecture.md)
-- [Two-element correlator](../../02_Zettel/Theory/interf/Two-element correlator.md)
-- [Digitization quantization and timing in radio interferometry](../../02_Zettel/Theory/interf/Digitization quantization and timing in radio interferometry.md)
+- [Heterodyne vs direct detection](../../02_Zettel/Theory/interf/Heterodyne vs direct detection.html)
+- [Radio interferometer architecture](../../02_Zettel/Theory/interf/Radio interferometer architecture.html)
+- [Two-element correlator](../../02_Zettel/Theory/interf/Two-element correlator.html)
+- [Digitization quantization and timing in radio interferometry](../../02_Zettel/Theory/interf/Digitization quantization and timing in radio interferometry.html)

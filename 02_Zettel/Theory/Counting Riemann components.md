@@ -60,9 +60,9 @@ with Weyl trace-free: $C^\mu{}_{\sigma\mu\nu} = 0$. Weyl carries the "vacuum" gr
 
 ## see also
 
-- [Riemann tensor](../../02_Zettel/Theory/Riemann tensor.md)
-- [Riemann tensor symmetries](../../02_Zettel/Theory/Riemann tensor symmetries.md)
-- [Ricci tensor and scalar](../../02_Zettel/Theory/Ricci tensor and scalar.md)
-- [Sectional and Gaussian curvature](../../02_Zettel/Theory/Sectional and Gaussian curvature.md)
-- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.md)
-- [Ch 4 - Spacetime Curvature](../../01_Literature/Book/Baumann GR/Ch 4 - Spacetime Curvature.md)
+- [Riemann tensor](../../02_Zettel/Theory/Riemann tensor.html)
+- [Riemann tensor symmetries](../../02_Zettel/Theory/Riemann tensor symmetries.html)
+- [Ricci tensor and scalar](../../02_Zettel/Theory/Ricci tensor and scalar.html)
+- [Sectional and Gaussian curvature](../../02_Zettel/Theory/Sectional and Gaussian curvature.html)
+- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.html)
+- [Ch 4 - Spacetime Curvature](../../01_Literature/Book/Baumann GR/Ch 4 - Spacetime Curvature.html)

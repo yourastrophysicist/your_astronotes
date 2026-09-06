@@ -12,7 +12,7 @@ helium lines (He I $\lambda 5876, 4471, 10830$) are excitable only in stars with
 - hot horizontal branch stars (where measured He shows complex behaviour from gravitational settling + radiative levitation, not the photospheric birth value)
 - blue hook stars in extreme HBs
 
-so the inference for cool stars is **structural**: how does adding helium change the star's interior + therefore its position in the [CMD](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.md)?
+so the inference for cool stars is **structural**: how does adding helium change the star's interior + therefore its position in the [CMD](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.html)?
 
 ## structural effects of enhanced Y
 
@@ -29,7 +29,7 @@ so a He-enhanced 2G shows up in a CMD as:
 
 ## measuring ΔY from MS splits
 
-the cleanest method is fitting isochrones to a split MS. piotto et al. 2007 in NGC 2808 found three discrete MS branches. the bluest required $Y \sim 0.40$ (vs primordial $Y \sim 0.245$ from [Big Bang nucleosynthesis](../../02_Zettel/Theory/Big Bang nucleosynthesis.md)), giving $\Delta Y \sim 0.15$. the intermediate branch needed $Y \sim 0.32$. all three agreed in age + [Fe/H], so the only free parameter was helium.
+the cleanest method is fitting isochrones to a split MS. piotto et al. 2007 in NGC 2808 found three discrete MS branches. the bluest required $Y \sim 0.40$ (vs primordial $Y \sim 0.245$ from [Big Bang nucleosynthesis](../../02_Zettel/Theory/Big Bang nucleosynthesis.html)), giving $\Delta Y \sim 0.15$. the intermediate branch needed $Y \sim 0.32$. all three agreed in age + [Fe/H], so the only free parameter was helium.
 
 milone et al. (2012, 2014, 2018) extended this to many clusters using HST UV+optical photometry. the helium spread is mass-dependent: more massive GCs show larger $\Delta Y$. an empirical scaling roughly:
 $$\Delta Y_\text{max} \sim 0.05 + 0.04 \log_{10}(M / 10^5\, M_\odot)$$
@@ -48,11 +48,11 @@ these three match the three MS branches + close the loop.
 
 ## the chromosome map vertical axis
 
-in [Photometric chromosome maps](../../02_Zettel/Theory/Photometric chromosome maps.md) the $\Delta_{F275W, F814W}$ axis is essentially a He thermometer. the F275W-F814W baseline is long enough to be sensitive to the temperature shift induced by helium variation, while being only weakly sensitive to N + O via molecular bands (those are picked up in the orthogonal $\Delta_{C\,F275W,F336W,F438W}$ axis). milone's chromosome maps therefore separate populations by both He + N independently.
+in [Photometric chromosome maps](../../02_Zettel/Theory/Photometric chromosome maps.html) the $\Delta_{F275W, F814W}$ axis is essentially a He thermometer. the F275W-F814W baseline is long enough to be sensitive to the temperature shift induced by helium variation, while being only weakly sensitive to N + O via molecular bands (those are picked up in the orthogonal $\Delta_{C\,F275W,F336W,F438W}$ axis). milone's chromosome maps therefore separate populations by both He + N independently.
 
 ## why He enhancement is unavoidable
 
-any nuclear polluter that produces Na-O, CN, or MgAl signatures must by stoichiometry also produce $^4\text{He}$. the question is not whether 2G is He-rich but how rich. the observed magnitude of $\Delta Y \sim 0.10$-$0.15$ is one of the tightest constraints on [polluter scenarios](../../02_Zettel/Theory/Polluter scenarios for second-generation GC stars.md):
+any nuclear polluter that produces Na-O, CN, or MgAl signatures must by stoichiometry also produce $^4\text{He}$. the question is not whether 2G is He-rich but how rich. the observed magnitude of $\Delta Y \sim 0.10$-$0.15$ is one of the tightest constraints on [polluter scenarios](../../02_Zettel/Theory/Polluter scenarios for second-generation GC stars.html):
 - AGB hot bottom burning naturally produces $Y \sim 0.36$-$0.38$ in ejecta, marginally enough
 - fast-rotating massive stars can reach $Y \sim 0.40$ but with chemistry mismatches
 - supermassive stars ($> 10^4\, M_\odot$) reach $Y \sim 0.4$-$0.5$ trivially
@@ -61,21 +61,21 @@ the helium constraint, combined with the mass budget, is the single hardest test
 
 ## extreme cases
 
-- $\omega$ Centauri: $Y$ up to $\sim 0.40$, with multiple discrete populations + an iron spread (qualifies as Type II / accreted nucleus, see [Type I and Type II GCs](../../02_Zettel/Theory/Type I and Type II GCs.md))
+- $\omega$ Centauri: $Y$ up to $\sim 0.40$, with multiple discrete populations + an iron spread (qualifies as Type II / accreted nucleus, see [Type I and Type II GCs](../../02_Zettel/Theory/Type I and Type II GCs.html))
 - NGC 2808: classic three-MS cluster, $\Delta Y \sim 0.15$
 - NGC 6441 + NGC 6388: metal-rich but with extended blue HBs implying $\Delta Y \sim 0.05$-$0.07$ despite high [Fe/H]
 - 47 Tuc: modest $\Delta Y \sim 0.03$, consistent with mild Na-O extension
 
 ## see also
 
-- [Na O anticorrelation](../../02_Zettel/Theory/Na O anticorrelation.md)
-- [CN CH MgAl anticorrelations](../../02_Zettel/Theory/CN CH MgAl anticorrelations.md)
-- [Photometric chromosome maps](../../02_Zettel/Theory/Photometric chromosome maps.md)
-- [Multiple populations in GCs discovery](../../02_Zettel/Theory/Multiple populations in GCs discovery.md)
-- [Polluter scenarios for second-generation GC stars](../../02_Zettel/Theory/Polluter scenarios for second-generation GC stars.md)
-- [Type I and Type II GCs](../../02_Zettel/Theory/Type I and Type II GCs.md)
-- [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.md)
+- [Na O anticorrelation](../../02_Zettel/Theory/Na O anticorrelation.html)
+- [CN CH MgAl anticorrelations](../../02_Zettel/Theory/CN CH MgAl anticorrelations.html)
+- [Photometric chromosome maps](../../02_Zettel/Theory/Photometric chromosome maps.html)
+- [Multiple populations in GCs discovery](../../02_Zettel/Theory/Multiple populations in GCs discovery.html)
+- [Polluter scenarios for second-generation GC stars](../../02_Zettel/Theory/Polluter scenarios for second-generation GC stars.html)
+- [Type I and Type II GCs](../../02_Zettel/Theory/Type I and Type II GCs.html)
+- [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.html)
 - Horizontal branch morphology
-- [Big Bang nucleosynthesis](../../02_Zettel/Theory/Big Bang nucleosynthesis.md)
-- [Stellar atmosphere structure](../../02_Zettel/Theory/Stellar atmosphere structure.md)
-- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.md)
+- [Big Bang nucleosynthesis](../../02_Zettel/Theory/Big Bang nucleosynthesis.html)
+- [Stellar atmosphere structure](../../02_Zettel/Theory/Stellar atmosphere structure.html)
+- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.html)

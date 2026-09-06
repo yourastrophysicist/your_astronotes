@@ -49,10 +49,10 @@ practical: convert to an affine parameter when doing physics; convert back when 
 
 ## see also
 
-- [Geodesic equation](../../02_Zettel/Theory/Geodesic equation.md)
-- [Timelike vs null vs spacelike](../../02_Zettel/Theory/Timelike vs null vs spacelike.md)
-- [Killing vectors and conserved quantities](../../02_Zettel/Theory/Killing vectors and conserved quantities.md)
-- [Effective potential approach](../../02_Zettel/Theory/Effective potential approach.md)
+- [Geodesic equation](../../02_Zettel/Theory/Geodesic equation.html)
+- [Timelike vs null vs spacelike](../../02_Zettel/Theory/Timelike vs null vs spacelike.html)
+- [Killing vectors and conserved quantities](../../02_Zettel/Theory/Killing vectors and conserved quantities.html)
+- [Effective potential approach](../../02_Zettel/Theory/Effective potential approach.html)
 - Q8 - null geodesic in static metric
-- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.md)
-- [Ch 3 - A First Look at Geodesics](../../01_Literature/Book/Baumann GR/Ch 3 - A First Look at Geodesics.md)
+- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.html)
+- [Ch 3 - A First Look at Geodesics](../../01_Literature/Book/Baumann GR/Ch 3 - A First Look at Geodesics.html)

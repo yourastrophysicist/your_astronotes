@@ -22,7 +22,7 @@ modern cosmology surveys reach about a Gpc; this is the redshift cone we live in
 since the 1960s the *standard hot Big Bang model* has rested on three observational pillars:
 
 1. **the Hubble diagram** — the universe is expanding (and right now accelerating)
-2. **Big-Bang nucleosynthesis** — the relative abundances of light elements forged in the first three minutes (see [BBN_overview](../../02_Zettel/Theory/BBN_overview.md))
+2. **Big-Bang nucleosynthesis** — the relative abundances of light elements forged in the first three minutes (see [BBN_overview](../../02_Zettel/Theory/BBN_overview.html))
 3. **the cosmic microwave background** — a near-perfect blackbody at $T_0 = 2.725$ K filling the sky
 
 what the late 20th century added on top of this is the **Standard Model of Cosmology** — ΛCDM. it adds:
@@ -63,7 +63,7 @@ every band of the electromagnetic spectrum contributes a *background* of photons
 ![intro-08](../../assets/images/intro-08.png)
 
 - **CGB** = cosmic gamma-ray background
-- **CXB** = cosmic X-ray background (see [Lab_High-Energy_MOC](../../00_Atlas/Lab_High-Energy_MOC.md))
+- **CXB** = cosmic X-ray background (see [Lab_High-Energy_MOC](../../00_Atlas/Lab_High-Energy_MOC.html))
 - **CUVOB** = cosmic UV/optical background (stars and AGN)
 - **CIB** = cosmic infrared background (dust-reprocessed star formation)
 - **CMB** = cosmic microwave background (the dominant one, by far)
@@ -136,7 +136,7 @@ how do we *weigh* the baryons in the universe? four independent ways:
 
 1. **observe baryons in stars and galaxies** via optical and X-ray emission
 2. **quasar absorption spectra** — light absorbed by intervening hydrogen along the line of sight
-3. **primordial nucleosynthesis** — the abundances of light nuclei depend strongly on the baryon density (see [BBN_overview](../../02_Zettel/Theory/BBN_overview.md))
+3. **primordial nucleosynthesis** — the abundances of light nuclei depend strongly on the baryon density (see [BBN_overview](../../02_Zettel/Theory/BBN_overview.html))
 4. **CMB anisotropies** — the height of the acoustic peaks depends on $\Omega_b h^2$
 
 methods 3 and 4 are in *excellent* agreement. methods 1 used to give a smaller number, leading to the **missing baryon problem** — about half the baryons were unaccounted for. recent work has shown most of the missing ones live in the **WHIM**, the warm-hot intergalactic medium in filaments connecting galaxies, too cold to emit X-rays brightly.
@@ -415,19 +415,19 @@ what we don't know:
 
 ## subtopics
 
-- [Cosmic_inventory_photons](../../02_Zettel/Theory/Cosmic_inventory_photons.md)
-- [Cosmic_inventory_baryons](../../02_Zettel/Theory/Cosmic_inventory_baryons.md)
-- [Cosmic_inventory_dark_matter](../../02_Zettel/Theory/Cosmic_inventory_dark_matter.md)
-- [Cosmic_inventory_neutrinos](../../02_Zettel/Theory/Cosmic_inventory_neutrinos.md)
-- [Cosmic_inventory_dark_energy](../../02_Zettel/Theory/Cosmic_inventory_dark_energy.md)
-- [Brief thermal history](../../02_Zettel/Theory/Brief thermal history.md)
-- [BBN_overview](../../02_Zettel/Theory/BBN_overview.md)
-- [Matter power spectrum and BAO](../../02_Zettel/Theory/Matter power spectrum and BAO.md)
+- [Cosmic_inventory_photons](../../02_Zettel/Theory/Cosmic_inventory_photons.html)
+- [Cosmic_inventory_baryons](../../02_Zettel/Theory/Cosmic_inventory_baryons.html)
+- [Cosmic_inventory_dark_matter](../../02_Zettel/Theory/Cosmic_inventory_dark_matter.html)
+- [Cosmic_inventory_neutrinos](../../02_Zettel/Theory/Cosmic_inventory_neutrinos.html)
+- [Cosmic_inventory_dark_energy](../../02_Zettel/Theory/Cosmic_inventory_dark_energy.html)
+- [Brief thermal history](../../02_Zettel/Theory/Brief thermal history.html)
+- [BBN_overview](../../02_Zettel/Theory/BBN_overview.html)
+- [Matter power spectrum and BAO](../../02_Zettel/Theory/Matter power spectrum and BAO.html)
 
 ---
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md) — the natural follow-on
-- [Baumann_reference](../../02_Zettel/Theory/Baumann_reference.md) — chapter 3 (Thermal History) is the rigorous treatment
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html) — the natural follow-on
+- [Baumann_reference](../../02_Zettel/Theory/Baumann_reference.html) — chapter 3 (Thermal History) is the rigorous treatment

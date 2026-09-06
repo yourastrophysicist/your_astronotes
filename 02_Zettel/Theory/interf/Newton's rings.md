@@ -5,7 +5,7 @@ title: "Newton's rings"
 
 # Newton's rings
 
-the most famous example of [Fringes of equal thickness](../../../02_Zettel/Theory/interf/Fringes of equal thickness.md): concentric circular interference fringes in the air gap between a curved lens and a flat reference. observed by Newton, predicted (correctly!) by Hooke before him, and definitively explained by Young and Fresnel in the early 1800s.
+the most famous example of [Fringes of equal thickness](../../../02_Zettel/Theory/interf/Fringes of equal thickness.html): concentric circular interference fringes in the air gap between a curved lens and a flat reference. observed by Newton, predicted (correctly!) by Hooke before him, and definitively explained by Young and Fresnel in the early 1800s.
 
 historically: the experiment that *should have* convinced Newton of the wave nature of light (it didn't; he persisted with corpuscular theory).
 
@@ -72,8 +72,8 @@ a soap bubble's iridescent colors are Newton's rings in *white light*: at each t
 
 ## see also
 
-- [Fringes of equal thickness](../../../02_Zettel/Theory/interf/Fringes of equal thickness.md)
-- [Fringes of equal inclination](../../../02_Zettel/Theory/interf/Fringes of equal inclination.md)
-- [Optical path difference OPD](../../../02_Zettel/Theory/interf/Optical path difference OPD.md)
-- [Amplitude-division interferometers](../../../02_Zettel/Theory/Amplitude-division interferometers.md)
-- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Fringes of equal thickness](../../../02_Zettel/Theory/interf/Fringes of equal thickness.html)
+- [Fringes of equal inclination](../../../02_Zettel/Theory/interf/Fringes of equal inclination.html)
+- [Optical path difference OPD](../../../02_Zettel/Theory/interf/Optical path difference OPD.html)
+- [Amplitude-division interferometers](../../../02_Zettel/Theory/Amplitude-division interferometers.html)
+- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.html)

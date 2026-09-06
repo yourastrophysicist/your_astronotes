@@ -5,7 +5,7 @@ title: "Polynomial fitting"
 
 # Polynomial fitting
 
-a special case of [general linear LSQ](../../02_Zettel/Theory/General linear least squares.md) with $\phi_k(x) = x^k$. fit a polynomial of degree $M$ through $N$ data points, $N > M$, in the least-squares sense.
+a special case of [general linear LSQ](../../02_Zettel/Theory/General linear least squares.html) with $\phi_k(x) = x^k$. fit a polynomial of degree $M$ through $N$ data points, $N > M$, in the least-squares sense.
 
 ## the model
 
@@ -51,7 +51,7 @@ three fixes:
 
 high-degree polynomial fits are *bad practice* for two reasons:
 
-1. **Runge phenomenon**: a high-degree polynomial through equispaced data oscillates wildly between points. see [Runge phenomenon](../../02_Zettel/Theory/Runge phenomenon.md)
+1. **Runge phenomenon**: a high-degree polynomial through equispaced data oscillates wildly between points. see [Runge phenomenon](../../02_Zettel/Theory/Runge phenomenon.html)
 2. **overfitting**: with $M \sim N$, the polynomial passes too close to the data, capturing noise
 
 **rule of thumb**: keep $M \leq 5$ for fitting to data. if you need more flexibility, switch to:
@@ -111,9 +111,9 @@ most of the time, what I want is a *low-degree* polynomial fit (M = 2-4). higher
 
 ## see also
 
-- [Linear least squares](../../02_Zettel/Theory/Linear least squares.md)
-- [General linear least squares](../../02_Zettel/Theory/General linear least squares.md)
-- [Weighted least squares](../../02_Zettel/Theory/Weighted least squares.md)
-- [Goodness of fit and chi-squared](../../02_Zettel/Theory/Goodness of fit and chi-squared.md)
-- [Runge phenomenon](../../02_Zettel/Theory/Runge phenomenon.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Linear least squares](../../02_Zettel/Theory/Linear least squares.html)
+- [General linear least squares](../../02_Zettel/Theory/General linear least squares.html)
+- [Weighted least squares](../../02_Zettel/Theory/Weighted least squares.html)
+- [Goodness of fit and chi-squared](../../02_Zettel/Theory/Goodness of fit and chi-squared.html)
+- [Runge phenomenon](../../02_Zettel/Theory/Runge phenomenon.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

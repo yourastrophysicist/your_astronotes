@@ -5,7 +5,7 @@ title: "Newton divided differences"
 
 # Newton divided differences
 
-an algebraically equivalent rewriting of [Lagrange's polynomial](../../02_Zettel/Theory/Lagrange polynomial interpolation.md) that has one practical advantage: I can add a new data point without redoing the whole calculation. instead of $O(N)$ extra work for each new point, only $O(N)$ work *total* and only $O(1)$ when adding one more point at the end.
+an algebraically equivalent rewriting of [Lagrange's polynomial](../../02_Zettel/Theory/Lagrange polynomial interpolation.html) that has one practical advantage: I can add a new data point without redoing the whole calculation. instead of $O(N)$ extra work for each new point, only $O(N)$ work *total* and only $O(1)$ when adding one more point at the end.
 
 ## the form
 
@@ -86,7 +86,7 @@ same as Lagrange, since the polynomials are equal:
 
 $$f(x) - N(x) = \frac{f^{(N+1)}(\xi)}{(N+1)!} \prod_{i=0}^N (x - x_i)$$
 
-so the same caveats apply: high-degree polynomial interpolation suffers from [Runge phenomenon](../../02_Zettel/Theory/Runge phenomenon.md) at equispaced nodes.
+so the same caveats apply: high-degree polynomial interpolation suffers from [Runge phenomenon](../../02_Zettel/Theory/Runge phenomenon.html) at equispaced nodes.
 
 ## when to use Newton vs Lagrange
 
@@ -103,9 +103,9 @@ so the same caveats apply: high-degree polynomial interpolation suffers from [Ru
 
 ## see also
 
-- [Lagrange polynomial interpolation](../../02_Zettel/Theory/Lagrange polynomial interpolation.md)
-- [Linear interpolation](../../02_Zettel/Theory/Linear interpolation.md)
-- [Cubic spline interpolation](../../02_Zettel/Theory/Cubic spline interpolation.md)
-- [Runge phenomenon](../../02_Zettel/Theory/Runge phenomenon.md)
-- [Bulirsch-Stoer extrapolation](../../02_Zettel/Theory/Bulirsch-Stoer extrapolation.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Lagrange polynomial interpolation](../../02_Zettel/Theory/Lagrange polynomial interpolation.html)
+- [Linear interpolation](../../02_Zettel/Theory/Linear interpolation.html)
+- [Cubic spline interpolation](../../02_Zettel/Theory/Cubic spline interpolation.html)
+- [Runge phenomenon](../../02_Zettel/Theory/Runge phenomenon.html)
+- [Bulirsch-Stoer extrapolation](../../02_Zettel/Theory/Bulirsch-Stoer extrapolation.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

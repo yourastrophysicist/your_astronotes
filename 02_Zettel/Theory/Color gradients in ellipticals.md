@@ -5,7 +5,7 @@ title: "Color gradients in ellipticals"
 
 # color gradients in ellipticals
 
-up: [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.md) · [Alpha-Fe enhancement](../../02_Zettel/Theory/Alpha-Fe enhancement.md) · [Color bimodality of galaxies](../../02_Zettel/Theory/Color bimodality of galaxies.md)
+up: [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.html) · [Alpha-Fe enhancement](../../02_Zettel/Theory/Alpha-Fe enhancement.html) · [Color bimodality of galaxies](../../02_Zettel/Theory/Color bimodality of galaxies.html)
 
 ## the observational fact
 
@@ -33,5 +33,5 @@ A redder color can be caused by either older age or higher metallicity. To resol
 
 ## connections
 
-- chemical enrichment: [Alpha-Fe enhancement](../../02_Zettel/Theory/Alpha-Fe enhancement.md)
-- structure: [Sersic profile](../../02_Zettel/Theory/Sersic profile.md), [De Vaucouleurs and exponential profiles](../../02_Zettel/Theory/De Vaucouleurs and exponential profiles.md)
+- chemical enrichment: [Alpha-Fe enhancement](../../02_Zettel/Theory/Alpha-Fe enhancement.html)
+- structure: [Sersic profile](../../02_Zettel/Theory/Sersic profile.html), [De Vaucouleurs and exponential profiles](../../02_Zettel/Theory/De Vaucouleurs and exponential profiles.html)

@@ -13,7 +13,7 @@ with $L$ having unit diagonal ($L_{ii} = 1$) and $U$ having the pivots on its di
 
 ## why bother
 
-[Gauss elimination](../../02_Zettel/Theory/Gauss elimination.md) solves $A\mathbf{x} = \mathbf{b}$ in $O(N^3)$. but if I have *many* right-hand sides $\mathbf{b}_1, \mathbf{b}_2, \ldots, \mathbf{b}_M$ with the same $A$, redoing the elimination $M$ times is wasteful: the elimination work is identical each time, only the RHS changes.
+[Gauss elimination](../../02_Zettel/Theory/Gauss elimination.html) solves $A\mathbf{x} = \mathbf{b}$ in $O(N^3)$. but if I have *many* right-hand sides $\mathbf{b}_1, \mathbf{b}_2, \ldots, \mathbf{b}_M$ with the same $A$, redoing the elimination $M$ times is wasteful: the elimination work is identical each time, only the RHS changes.
 
 LU caches the elimination work as $L$ and $U$. then for each RHS:
 
@@ -73,7 +73,7 @@ x2 = lu_solve((lu, piv), b2)
 
 - **LDL$^T$ decomposition**: for symmetric $A$, $A = LDL^T$ with $D$ diagonal. half the storage, half the work
 - **Cholesky decomposition**: for symmetric positive-definite $A$, $A = LL^T$. half the work again, and numerically the most stable factorization. the workhorse for covariance matrices in statistics
-- **QR decomposition**: $A = QR$ with $Q$ orthogonal, $R$ upper triangular — see [QR decomposition](../../02_Zettel/Theory/QR decomposition.md). better for least-squares problems
+- **QR decomposition**: $A = QR$ with $Q$ orthogonal, $R$ upper triangular — see [QR decomposition](../../02_Zettel/Theory/QR decomposition.html). better for least-squares problems
 - **SVD**: $A = U\Sigma V^T$, the most general factorization, expensive but works for rectangular and rank-deficient matrices
 
 ## when LU is the right tool
@@ -90,9 +90,9 @@ x2 = lu_solve((lu, piv), b2)
 
 ## see also
 
-- [Gauss elimination](../../02_Zettel/Theory/Gauss elimination.md) — what LU caches
-- [Partial pivoting](../../02_Zettel/Theory/Partial pivoting.md) — the $P$ in $PA = LU$
-- [QR decomposition](../../02_Zettel/Theory/QR decomposition.md) — different factorization, different problem
-- [Gauss-Seidel iteration](../../02_Zettel/Theory/Gauss-Seidel iteration.md)
-- [Pros and cons of linear solvers](../../02_Zettel/Theory/Pros and cons of linear solvers.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Gauss elimination](../../02_Zettel/Theory/Gauss elimination.html) — what LU caches
+- [Partial pivoting](../../02_Zettel/Theory/Partial pivoting.html) — the $P$ in $PA = LU$
+- [QR decomposition](../../02_Zettel/Theory/QR decomposition.html) — different factorization, different problem
+- [Gauss-Seidel iteration](../../02_Zettel/Theory/Gauss-Seidel iteration.html)
+- [Pros and cons of linear solvers](../../02_Zettel/Theory/Pros and cons of linear solvers.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

@@ -13,7 +13,7 @@ so the alt-azimuth ↔ equatorial transformation is just the master spherical-tr
 
 ## alt-azimuth → equatorial
 
-substitute into the master equations (see [Spherical trigonometry](../../02_Zettel/Theory/Spherical trigonometry.md)):
+substitute into the master equations (see [Spherical trigonometry](../../02_Zettel/Theory/Spherical trigonometry.html)):
 $$\psi = 90° - A, \qquad \theta = a, \qquad \chi = 90° - \phi$$
 $$\psi' = 90° - h, \qquad \theta' = \delta$$
 
@@ -57,9 +57,9 @@ given $(h, \delta, \phi)$ I get $(A, a)$.
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Spherical_astronomy_complete](../../02_Zettel/Theory/Spherical_astronomy_complete.md)
-- [Spherical trigonometry](../../02_Zettel/Theory/Spherical trigonometry.md)
-- [Equatorial system](../../02_Zettel/Theory/Equatorial system.md)
-- [Horizontal alt-azimuth system](../../02_Zettel/Theory/Horizontal alt-azimuth system.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Spherical_astronomy_complete](../../02_Zettel/Theory/Spherical_astronomy_complete.html)
+- [Spherical trigonometry](../../02_Zettel/Theory/Spherical trigonometry.html)
+- [Equatorial system](../../02_Zettel/Theory/Equatorial system.html)
+- [Horizontal alt-azimuth system](../../02_Zettel/Theory/Horizontal alt-azimuth system.html)
 - Culmination and rise/set

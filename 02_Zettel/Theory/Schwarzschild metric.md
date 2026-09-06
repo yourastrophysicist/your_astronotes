@@ -52,21 +52,21 @@ for typical objects (with $r_s = 2GM$):
 
 ## see also
 
-- [Birkhoff theorem](../../02_Zettel/Theory/Birkhoff theorem.md)
-- [Schwarzschild Christoffels](../../02_Zettel/Theory/Schwarzschild Christoffels.md)
-- [Schwarzschild horizon](../../02_Zettel/Theory/Schwarzschild horizon.md)
-- [Schwarzschild effective potential](../../02_Zettel/Theory/Schwarzschild effective potential.md)
-- [Circular orbits in Schwarzschild](../../02_Zettel/Theory/Circular orbits in Schwarzschild.md)
-- [Photon sphere](../../02_Zettel/Theory/Photon sphere.md)
-- [Radial infall](../../02_Zettel/Theory/Radial infall.md)
-- [Photon trajectories and impact parameter](../../02_Zettel/Theory/Photon trajectories and impact parameter.md)
-- [Perihelion precession](../../02_Zettel/Theory/Perihelion precession.md)
-- [Light deflection](../../02_Zettel/Theory/Light deflection.md)
-- [Eddington-Finkelstein and Kruskal](../../02_Zettel/Theory/Eddington-Finkelstein and Kruskal.md)
+- [Birkhoff theorem](../../02_Zettel/Theory/Birkhoff theorem.html)
+- [Schwarzschild Christoffels](../../02_Zettel/Theory/Schwarzschild Christoffels.html)
+- [Schwarzschild horizon](../../02_Zettel/Theory/Schwarzschild horizon.html)
+- [Schwarzschild effective potential](../../02_Zettel/Theory/Schwarzschild effective potential.html)
+- [Circular orbits in Schwarzschild](../../02_Zettel/Theory/Circular orbits in Schwarzschild.html)
+- [Photon sphere](../../02_Zettel/Theory/Photon sphere.html)
+- [Radial infall](../../02_Zettel/Theory/Radial infall.html)
+- [Photon trajectories and impact parameter](../../02_Zettel/Theory/Photon trajectories and impact parameter.html)
+- [Perihelion precession](../../02_Zettel/Theory/Perihelion precession.html)
+- [Light deflection](../../02_Zettel/Theory/Light deflection.html)
+- [Eddington-Finkelstein and Kruskal](../../02_Zettel/Theory/Eddington-Finkelstein and Kruskal.html)
 - Q11 - selected Schwarzschild Christoffels
 - Q12 - circular orbits and orbital frequency
 - Q13 - radial infall and proper time
 - Q14 - photon trajectory and impact parameter
-- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.md)
-- [Ch 5 - The Einstein Equation](../../01_Literature/Book/Baumann GR/Ch 5 - The Einstein Equation.md)
-- [Ch 6 - Black Holes](../../01_Literature/Book/Baumann GR/Ch 6 - Black Holes.md)
+- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.html)
+- [Ch 5 - The Einstein Equation](../../01_Literature/Book/Baumann GR/Ch 5 - The Einstein Equation.html)
+- [Ch 6 - Black Holes](../../01_Literature/Book/Baumann GR/Ch 6 - Black Holes.html)

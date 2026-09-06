@@ -80,19 +80,19 @@ both observed, both consistent with $\Lambda$CDM.
 
 once $\delta \gtrsim 1$, the linear theory breaks down. perturbations collapse into halos via **spherical collapse** (when $\delta_c = 1.686$ at the linear level) + go non-linear. structure formation continues hierarchically.
 
-see [Spherical collapse](../../02_Zettel/Theory/Spherical collapse.md) + [Press-Schechter halo mass function](../../02_Zettel/Theory/Press-Schechter halo mass function.md) + [N-body simulations](../../02_Zettel/Theory/N-body simulations.md).
+see [Spherical collapse](../../02_Zettel/Theory/Spherical collapse.html) + [Press-Schechter halo mass function](../../02_Zettel/Theory/Press-Schechter halo mass function.html) + [N-body simulations](../../02_Zettel/Theory/N-body simulations.html).
 
 ## see also
 
-- [Linear evolution of perturbations in expanding universe](../../02_Zettel/Theory/Linear evolution of perturbations in expanding universe.md)
-- [Linear vs nonlinear regime](../../02_Zettel/Theory/Linear vs nonlinear regime.md)
-- [Jeans analysis in expanding universe](../../02_Zettel/Theory/Jeans analysis in expanding universe.md)
+- [Linear evolution of perturbations in expanding universe](../../02_Zettel/Theory/Linear evolution of perturbations in expanding universe.html)
+- [Linear vs nonlinear regime](../../02_Zettel/Theory/Linear vs nonlinear regime.html)
+- [Jeans analysis in expanding universe](../../02_Zettel/Theory/Jeans analysis in expanding universe.html)
 - [Growth factor D(z)](../../02_Zettel/Theory/Growth factor D(z).md)
-- [Spherical collapse](../../02_Zettel/Theory/Spherical collapse.md)
-- [Press-Schechter halo mass function](../../02_Zettel/Theory/Press-Schechter halo mass function.md)
-- [Matter power spectrum and BAO](../../02_Zettel/Theory/Matter power spectrum and BAO.md)
-- [CMB power spectrum](../../02_Zettel/Theory/CMB power spectrum.md)
-- [Matter radiation equality](../../02_Zettel/Theory/Matter radiation equality.md)
-- [Inflation overview](../../02_Zettel/Theory/Inflation overview.md)
-- [N-body simulations](../../02_Zettel/Theory/N-body simulations.md)
-- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md)
+- [Spherical collapse](../../02_Zettel/Theory/Spherical collapse.html)
+- [Press-Schechter halo mass function](../../02_Zettel/Theory/Press-Schechter halo mass function.html)
+- [Matter power spectrum and BAO](../../02_Zettel/Theory/Matter power spectrum and BAO.html)
+- [CMB power spectrum](../../02_Zettel/Theory/CMB power spectrum.html)
+- [Matter radiation equality](../../02_Zettel/Theory/Matter radiation equality.html)
+- [Inflation overview](../../02_Zettel/Theory/Inflation overview.html)
+- [N-body simulations](../../02_Zettel/Theory/N-body simulations.html)
+- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html)

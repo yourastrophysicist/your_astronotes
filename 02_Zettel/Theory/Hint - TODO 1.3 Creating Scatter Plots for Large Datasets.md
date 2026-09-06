@@ -6,7 +6,7 @@ title: "Hint - TODO 1.3 Creating Scatter Plots for Large Datasets"
 # Hint - TODO 1.3 Creating Scatter Plots for Large Datasets
 
 **Target TODO**: TODO 1.3 in Module_1_Random_Sampling_and_Monte_Carlo  
-**Related Zettels**: [Matplotlib plotting essentials](../../02_Zettel/Theory/Matplotlib plotting essentials.md)
+**Related Zettels**: [Matplotlib plotting essentials](../../02_Zettel/Theory/Matplotlib plotting essentials.html)
 
 ---
 

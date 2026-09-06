@@ -90,7 +90,7 @@ discretize $x$ at $N$ uniform points: $x_n = n\Delta t$ for $n = 0, 1, \ldots, N
 
 $$X_k = \sum_{n=0}^{N-1} x_n e^{-2\pi i k n/N}$$
 
-this is the [Discrete Fourier transform](../../02_Zettel/Theory/Discrete Fourier transform.md). the DFT inherits all the structure (linearity, Parseval, convolution) from its continuous parent.
+this is the [Discrete Fourier transform](../../02_Zettel/Theory/Discrete Fourier transform.html). the DFT inherits all the structure (linearity, Parseval, convolution) from its continuous parent.
 
 ## astrophysics applications
 
@@ -102,8 +102,8 @@ this is the [Discrete Fourier transform](../../02_Zettel/Theory/Discrete Fourier
 
 ## see also
 
-- [Discrete Fourier transform](../../02_Zettel/Theory/Discrete Fourier transform.md)
-- [Fast Fourier transform algorithm](../../02_Zettel/Theory/Fast Fourier transform algorithm.md)
-- [Physical interpretation of the FFT](../../02_Zettel/Theory/Physical interpretation of the FFT.md)
-- [Power spectrum estimation](../../02_Zettel/Theory/Power spectrum estimation.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Discrete Fourier transform](../../02_Zettel/Theory/Discrete Fourier transform.html)
+- [Fast Fourier transform algorithm](../../02_Zettel/Theory/Fast Fourier transform algorithm.html)
+- [Physical interpretation of the FFT](../../02_Zettel/Theory/Physical interpretation of the FFT.html)
+- [Power spectrum estimation](../../02_Zettel/Theory/Power spectrum estimation.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

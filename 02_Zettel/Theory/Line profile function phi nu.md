@@ -34,7 +34,7 @@ FWHM: exactly $\Gamma$. Lorentzian has very wide wings ($\propto 1/(\nu-\nu_0)^2
 when both Gaussian and Lorentzian mechanisms operate (the usual case in real atmospheres), the combined profile is the **Voigt profile**, the convolution of Gaussian + Lorentzian:
 $$\phi_{\rm Voigt}(\nu) = \int \phi_{\rm G}(\nu')\,\phi_{\rm L}(\nu - \nu')\,d\nu'$$
 
-at line center, the Gaussian dominates (narrow core). in the wings, the Lorentzian dominates ($1/(\nu-\nu_0)^2$ tails). see [Voigt profile](../../02_Zettel/Theory/Voigt profile.md).
+at line center, the Gaussian dominates (narrow core). in the wings, the Lorentzian dominates ($1/(\nu-\nu_0)^2$ tails). see [Voigt profile](../../02_Zettel/Theory/Voigt profile.html).
 
 ## consequences for the spectrum
 
@@ -50,13 +50,13 @@ Voigt profile is parameterised by two: $u = (\nu - \nu_0)/\Delta\nu_D$ and $a = 
 
 ## see also
 
-- [Absorption coefficient and oscillator strength](../../02_Zettel/Theory/Absorption coefficient and oscillator strength.md)
-- [Equivalent width](../../02_Zettel/Theory/Equivalent width.md)
-- [Curve of growth](../../02_Zettel/Theory/Curve of growth.md)
-- [Voigt profile](../../02_Zettel/Theory/Voigt profile.md)
-- [Natural broadening Lorentzian](../../02_Zettel/Theory/Natural broadening Lorentzian.md)
-- [Thermal Doppler broadening](../../02_Zettel/Theory/Thermal Doppler broadening.md)
-- [Collisional pressure broadening](../../02_Zettel/Theory/Collisional pressure broadening.md)
-- [Microturbulence](../../02_Zettel/Theory/Microturbulence.md)
-- [Damping wings](../../02_Zettel/Theory/Damping wings.md)
-- [Rotational broadening](../../02_Zettel/Theory/Rotational broadening.md)
+- [Absorption coefficient and oscillator strength](../../02_Zettel/Theory/Absorption coefficient and oscillator strength.html)
+- [Equivalent width](../../02_Zettel/Theory/Equivalent width.html)
+- [Curve of growth](../../02_Zettel/Theory/Curve of growth.html)
+- [Voigt profile](../../02_Zettel/Theory/Voigt profile.html)
+- [Natural broadening Lorentzian](../../02_Zettel/Theory/Natural broadening Lorentzian.html)
+- [Thermal Doppler broadening](../../02_Zettel/Theory/Thermal Doppler broadening.html)
+- [Collisional pressure broadening](../../02_Zettel/Theory/Collisional pressure broadening.html)
+- [Microturbulence](../../02_Zettel/Theory/Microturbulence.html)
+- [Damping wings](../../02_Zettel/Theory/Damping wings.html)
+- [Rotational broadening](../../02_Zettel/Theory/Rotational broadening.html)

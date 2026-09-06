@@ -72,7 +72,7 @@ the energy diagnostic for midpoint should show $\Delta E/E$ on the order of $h^2
 
 energy gain per step: $\sim h^2/2$ for Euler, $\sim h^4$ for midpoint. the energy still drifts (midpoint is *not* symplectic), but at a much slower rate. for many problems midpoint is "good enough."
 
-for *long-time* energy conservation, [Leapfrog integrator](../../02_Zettel/Theory/Leapfrog integrator.md) (also second-order) is structurally better than midpoint because it is symplectic.
+for *long-time* energy conservation, [Leapfrog integrator](../../02_Zettel/Theory/Leapfrog integrator.html) (also second-order) is structurally better than midpoint because it is symplectic.
 
 ## stability
 
@@ -82,13 +82,13 @@ midpoint is conditionally stable: it is stable for $|1 + h\lambda + h^2 \lambda^
 
 - **as a teaching tool for second-order accuracy** — the natural step up from Euler
 - **lightweight integrations** where RK4 is overkill but Euler is too inaccurate
-- **embedded RK pairs** (e.g. RK23) use a midpoint-class step plus a higher-order step to estimate error for adaptive control. see [Adaptive step size control](../../02_Zettel/Theory/Adaptive step size control.md)
+- **embedded RK pairs** (e.g. RK23) use a midpoint-class step plus a higher-order step to estimate error for adaptive control. see [Adaptive step size control](../../02_Zettel/Theory/Adaptive step size control.html)
 
 ## see also
 
-- [Euler method](../../02_Zettel/Theory/Euler method.md)
-- [Runge-Kutta 4 method](../../02_Zettel/Theory/Runge-Kutta 4 method.md)
-- [Leapfrog integrator](../../02_Zettel/Theory/Leapfrog integrator.md) — same order, symplectic, better for orbits
-- [Energy conservation as a diagnostic](../../02_Zettel/Theory/Energy conservation as a diagnostic.md)
-- [Astrophysical N-body problem formulation](../../02_Zettel/Theory/Astrophysical N-body problem formulation.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Euler method](../../02_Zettel/Theory/Euler method.html)
+- [Runge-Kutta 4 method](../../02_Zettel/Theory/Runge-Kutta 4 method.html)
+- [Leapfrog integrator](../../02_Zettel/Theory/Leapfrog integrator.html) — same order, symplectic, better for orbits
+- [Energy conservation as a diagnostic](../../02_Zettel/Theory/Energy conservation as a diagnostic.html)
+- [Astrophysical N-body problem formulation](../../02_Zettel/Theory/Astrophysical N-body problem formulation.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

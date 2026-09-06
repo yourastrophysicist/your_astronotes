@@ -3,7 +3,7 @@ layout: default
 title: "The CCD equation"
 ---
 
-the master equation that tells me whether my observation is going to detect anything. derived from [CCD noise sources](../../02_Zettel/Theory/CCD noise sources.md) by dividing source signal by total noise.
+the master equation that tells me whether my observation is going to detect anything. derived from [CCD noise sources](../../02_Zettel/Theory/CCD noise sources.html) by dividing source signal by total noise.
 
 ## the equation
 
@@ -69,16 +69,16 @@ planning rule: aim for $N_{\rm sky} \gtrsim 10\sigma_{\rm RN}^2$ per pixel per e
 ## extensions
 
 - **aperture optimisation**: for a Gaussian PSF on flat sky, the aperture radius maximising SNR is $\sim 1.4\,$FWHM. larger collects more flux but more sky; smaller cuts sky but loses source.
-- **PSF photometry**: see [PSF photometry](../../02_Zettel/Theory/PSF photometry.md). equivalent to weighting pixels by the PSF, recovers some SNR vs aperture in crowded fields.
+- **PSF photometry**: see [PSF photometry](../../02_Zettel/Theory/PSF photometry.html). equivalent to weighting pixels by the PSF, recovers some SNR vs aperture in crowded fields.
 - **stacking**: $K$ exposures combined optimally give $\sqrt{K}$ improvement in sky/source-limited; in read-noise-limited, only linearly in $K$ if the noise per stack is dominated by readout.
 
 ## see also
 
-- [CCD detectors and SNR](../../02_Zettel/Theory/CCD detectors and SNR.md) — the comprehensive companion
-- [CCD noise sources](../../02_Zettel/Theory/CCD noise sources.md)
-- [CCD basics](../../02_Zettel/Theory/CCD basics.md)
-- [CCD readout chain](../../02_Zettel/Theory/CCD readout chain.md)
-- [Aperture photometry](../../02_Zettel/Theory/Aperture photometry.md)
-- [PSF photometry](../../02_Zettel/Theory/PSF photometry.md)
-- [Sky brightness](../../02_Zettel/Theory/Sky brightness.md)
-- [Signal-Noise Ratio](../../02_Zettel/Theory/Signal-Noise Ratio.md)
+- [CCD detectors and SNR](../../02_Zettel/Theory/CCD detectors and SNR.html) — the comprehensive companion
+- [CCD noise sources](../../02_Zettel/Theory/CCD noise sources.html)
+- [CCD basics](../../02_Zettel/Theory/CCD basics.html)
+- [CCD readout chain](../../02_Zettel/Theory/CCD readout chain.html)
+- [Aperture photometry](../../02_Zettel/Theory/Aperture photometry.html)
+- [PSF photometry](../../02_Zettel/Theory/PSF photometry.html)
+- [Sky brightness](../../02_Zettel/Theory/Sky brightness.html)
+- [Signal-Noise Ratio](../../02_Zettel/Theory/Signal-Noise Ratio.html)

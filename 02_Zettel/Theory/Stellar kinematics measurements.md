@@ -78,12 +78,12 @@ useful for:
 
 ## see also
 
-- [LOSVD](../../02_Zettel/Theory/LOSVD.md)
-- [Velocity dispersion from line width](../../02_Zettel/Theory/Velocity dispersion from line width.md)
-- [Faber-Jackson relation](../../02_Zettel/Theory/Faber-Jackson relation.md)
-- [Fundamental plane of ellipticals](../../02_Zettel/Theory/Fundamental plane of ellipticals.md)
-- [Tully-Fisher relation](../../02_Zettel/Theory/Tully-Fisher relation.md)
-- [Stellar dynamics SMBH masses](../../02_Zettel/Theory/Stellar dynamics SMBH masses.md)
-- [Integral-field spectroscopy IFU](../../02_Zettel/Theory/Integral-field spectroscopy IFU.md)
-- [MaNGA survey](../../02_Zettel/Theory/MaNGA survey.md)
-- [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.md)
+- [LOSVD](../../02_Zettel/Theory/LOSVD.html)
+- [Velocity dispersion from line width](../../02_Zettel/Theory/Velocity dispersion from line width.html)
+- [Faber-Jackson relation](../../02_Zettel/Theory/Faber-Jackson relation.html)
+- [Fundamental plane of ellipticals](../../02_Zettel/Theory/Fundamental plane of ellipticals.html)
+- [Tully-Fisher relation](../../02_Zettel/Theory/Tully-Fisher relation.html)
+- [Stellar dynamics SMBH masses](../../02_Zettel/Theory/Stellar dynamics SMBH masses.html)
+- [Integral-field spectroscopy IFU](../../02_Zettel/Theory/Integral-field spectroscopy IFU.html)
+- [MaNGA survey](../../02_Zettel/Theory/MaNGA survey.html)
+- [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.html)

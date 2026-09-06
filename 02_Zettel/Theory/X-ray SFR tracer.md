@@ -5,7 +5,7 @@ title: "X-ray SFR tracer"
 
 # X-ray SFR tracer
 
-up: [Pablo_03_Star_formation_in_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.md)
+up: [Pablo_03_Star_formation_in_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html)
 
 ## where the X-rays come from
 
@@ -42,10 +42,10 @@ the relation between $L_X$ and SFR evolves: $L_X / \text{SFR} \propto (1+z)^\bet
 
 ## connections
 
-- dual-band check: [IR SFR tracer](../../02_Zettel/Theory/IR SFR tracer.md)
+- dual-band check: [IR SFR tracer](../../02_Zettel/Theory/IR SFR tracer.html)
 - AGN identification: X-ray colour, SED fitting
-- other extinction-free tracer: [Radio SFR tracer](../../02_Zettel/Theory/Radio SFR tracer.md)
-- comparison: [SFR tracer comparison](../../02_Zettel/Theory/SFR tracer comparison.md)
+- other extinction-free tracer: [Radio SFR tracer](../../02_Zettel/Theory/Radio SFR tracer.html)
+- comparison: [SFR tracer comparison](../../02_Zettel/Theory/SFR tracer comparison.html)
 
 ## key references
 

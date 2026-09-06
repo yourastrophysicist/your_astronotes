@@ -56,21 +56,21 @@ a **wave equation** with source. like Maxwell's $\Box A_\mu = -j_\mu/c^2$ in EM.
 
 ## what linearized GR contains
 
-1. **Newtonian limit**: slow motion + weak field. $h_{00} = -2\Phi/c^2$ recovers Poisson's equation $\nabla^2\Phi = 4\pi G\rho$. see [Newtonian limit of GR](../../02_Zettel/Theory/Newtonian limit of GR.md).
-2. **Gravitational waves**: vacuum solutions $\Box h_{\mu\nu} = 0$ admit travelling-wave solutions, the GWs detected by LIGO. see [Plus and cross polarizations](../../02_Zettel/Theory/Plus and cross polarizations.md) and [Quadrupole formula](../../02_Zettel/Theory/Quadrupole formula.md).
+1. **Newtonian limit**: slow motion + weak field. $h_{00} = -2\Phi/c^2$ recovers Poisson's equation $\nabla^2\Phi = 4\pi G\rho$. see [Newtonian limit of GR](../../02_Zettel/Theory/Newtonian limit of GR.html).
+2. **Gravitational waves**: vacuum solutions $\Box h_{\mu\nu} = 0$ admit travelling-wave solutions, the GWs detected by LIGO. see [Plus and cross polarizations](../../02_Zettel/Theory/Plus and cross polarizations.html) and [Quadrupole formula](../../02_Zettel/Theory/Quadrupole formula.html).
 
 ## see also
 
-- [Linearized Christoffel and Riemann](../../02_Zettel/Theory/Linearized Christoffel and Riemann.md)
-- [Linearized gauge transformations](../../02_Zettel/Theory/Linearized gauge transformations.md)
-- [Trace-reversed perturbation](../../02_Zettel/Theory/Trace-reversed perturbation.md)
-- [Lorenz gauge](../../02_Zettel/Theory/Lorenz gauge.md)
-- [Newtonian limit of GR](../../02_Zettel/Theory/Newtonian limit of GR.md)
-- [Transverse traceless gauge](../../02_Zettel/Theory/Transverse traceless gauge.md)
-- [Plus and cross polarizations](../../02_Zettel/Theory/Plus and cross polarizations.md)
-- [Quadrupole formula](../../02_Zettel/Theory/Quadrupole formula.md)
+- [Linearized Christoffel and Riemann](../../02_Zettel/Theory/Linearized Christoffel and Riemann.html)
+- [Linearized gauge transformations](../../02_Zettel/Theory/Linearized gauge transformations.html)
+- [Trace-reversed perturbation](../../02_Zettel/Theory/Trace-reversed perturbation.html)
+- [Lorenz gauge](../../02_Zettel/Theory/Lorenz gauge.html)
+- [Newtonian limit of GR](../../02_Zettel/Theory/Newtonian limit of GR.html)
+- [Transverse traceless gauge](../../02_Zettel/Theory/Transverse traceless gauge.html)
+- [Plus and cross polarizations](../../02_Zettel/Theory/Plus and cross polarizations.html)
+- [Quadrupole formula](../../02_Zettel/Theory/Quadrupole formula.html)
 - Q9 - weak-field Christoffel Gamma_i_00
 - Q10 - weak-field Ricci scalar
 - Q15 - trace-reversed perturbation and Lorenz gauge
-- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.md)
-- [Ch 8 - Gravitational Waves](../../01_Literature/Book/Baumann GR/Ch 8 - Gravitational Waves.md)
+- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.html)
+- [Ch 8 - Gravitational Waves](../../01_Literature/Book/Baumann GR/Ch 8 - Gravitational Waves.html)

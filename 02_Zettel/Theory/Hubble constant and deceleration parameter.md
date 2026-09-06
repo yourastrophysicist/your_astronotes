@@ -81,10 +81,10 @@ a cosmological constant has $w = -1$ exactly. observed $w \approx -1$ to $\sim 1
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Cosmic_inventory_overview](../../02_Zettel/Theory/Cosmic_inventory_overview.md)
-- [Cosmic_inventory_dark_energy](../../02_Zettel/Theory/Cosmic_inventory_dark_energy.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Cosmic_inventory_overview](../../02_Zettel/Theory/Cosmic_inventory_overview.html)
+- [Cosmic_inventory_dark_energy](../../02_Zettel/Theory/Cosmic_inventory_dark_energy.html)
 - Friedmann equations with Λ
-- [Density parameters and flatness](../../02_Zettel/Theory/Density parameters and flatness.md)
-- [Hubble law derivation low-z](../../02_Zettel/Theory/Hubble law derivation low-z.md)
-- [Hubble law exact form](../../02_Zettel/Theory/Hubble law exact form.md)
+- [Density parameters and flatness](../../02_Zettel/Theory/Density parameters and flatness.html)
+- [Hubble law derivation low-z](../../02_Zettel/Theory/Hubble law derivation low-z.html)
+- [Hubble law exact form](../../02_Zettel/Theory/Hubble law exact form.html)

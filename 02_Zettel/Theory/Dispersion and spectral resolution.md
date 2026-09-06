@@ -75,11 +75,11 @@ higher $R$ generally requires echelle and bigger grating (or finer ruling).
 
 ## see also
 
-- [Grating equation](../../02_Zettel/Theory/Grating equation.md)
-- [Spectrograph design](../../02_Zettel/Theory/Spectrograph design.md)
-- [Single slit diffraction](../../02_Zettel/Theory/Single slit diffraction.md)
-- [N-slit interference and gratings](../../02_Zettel/Theory/N-slit interference and gratings.md)
-- [Spectrograph types](../../02_Zettel/Theory/Spectrograph types.md)
-- [Echelle spectroscopy](../../02_Zettel/Theory/Echelle spectroscopy.md)
-- [Atmospheric seeing](../../02_Zettel/Theory/interf/Atmospheric seeing.md)
-- [CCD detectors and SNR](../../02_Zettel/Theory/CCD detectors and SNR.md)
+- [Grating equation](../../02_Zettel/Theory/Grating equation.html)
+- [Spectrograph design](../../02_Zettel/Theory/Spectrograph design.html)
+- [Single slit diffraction](../../02_Zettel/Theory/Single slit diffraction.html)
+- [N-slit interference and gratings](../../02_Zettel/Theory/N-slit interference and gratings.html)
+- [Spectrograph types](../../02_Zettel/Theory/Spectrograph types.html)
+- [Echelle spectroscopy](../../02_Zettel/Theory/Echelle spectroscopy.html)
+- [Atmospheric seeing](../../02_Zettel/Theory/interf/Atmospheric seeing.html)
+- [CCD detectors and SNR](../../02_Zettel/Theory/CCD detectors and SNR.html)

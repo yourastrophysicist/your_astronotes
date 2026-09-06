@@ -55,7 +55,7 @@ $$a(\tau) = a_{\rm eq}\!\left[\frac{2\sqrt{2}\tau/(\tau + \tau_*)}{}\right]$$
 ## transitions
 
 ### matter-radiation equality
-$\rho_m = \rho_r$ at $a_{\rm eq} = \Omega_r/\Omega_m \approx 1/3400$, redshift $z_{\rm eq} \approx 3400$. see [Matter radiation equality](../../02_Zettel/Theory/Matter radiation equality.md).
+$\rho_m = \rho_r$ at $a_{\rm eq} = \Omega_r/\Omega_m \approx 1/3400$, redshift $z_{\rm eq} \approx 3400$. see [Matter radiation equality](../../02_Zettel/Theory/Matter radiation equality.html).
 
 ### matter-$\Lambda$ equality
 $\rho_m = \rho_\Lambda$ at $a = (\Omega_m/\Omega_\Lambda)^{1/3} \approx 0.77$, redshift $z \approx 0.3$. (or $0.5$ for the start of acceleration, where $\ddot a > 0$.)
@@ -75,15 +75,15 @@ $\rho_m = \rho_\Lambda$ at $a = (\Omega_m/\Omega_\Lambda)^{1/3} \approx 0.77$, r
 
 ## see also
 
-- [Friedmann equations](../../02_Zettel/Theory/Friedmann equations.md)
-- [Equation of state and density scaling](../../02_Zettel/Theory/Equation of state and density scaling.md)
-- [Continuity equation](../../02_Zettel/Theory/Continuity equation.md)
-- [Matter radiation equality](../../02_Zettel/Theory/Matter radiation equality.md)
-- [Cosmological constant](../../02_Zettel/Theory/Cosmological constant.md)
-- [Hubble constant and deceleration parameter](../../02_Zettel/Theory/Hubble constant and deceleration parameter.md)
-- [Cosmic_inventory_overview](../../02_Zettel/Theory/Cosmic_inventory_overview.md)
-- [Brief thermal history](../../02_Zettel/Theory/Brief thermal history.md)
+- [Friedmann equations](../../02_Zettel/Theory/Friedmann equations.html)
+- [Equation of state and density scaling](../../02_Zettel/Theory/Equation of state and density scaling.html)
+- [Continuity equation](../../02_Zettel/Theory/Continuity equation.html)
+- [Matter radiation equality](../../02_Zettel/Theory/Matter radiation equality.html)
+- [Cosmological constant](../../02_Zettel/Theory/Cosmological constant.html)
+- [Hubble constant and deceleration parameter](../../02_Zettel/Theory/Hubble constant and deceleration parameter.html)
+- [Cosmic_inventory_overview](../../02_Zettel/Theory/Cosmic_inventory_overview.html)
+- [Brief thermal history](../../02_Zettel/Theory/Brief thermal history.html)
 - Q19 - radiation universe
 - Q20 - matter plus radiation universe
-- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.md)
-- [Ch 7 - Cosmology](../../01_Literature/Book/Baumann GR/Ch 7 - Cosmology.md)
+- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.html)
+- [Ch 7 - Cosmology](../../01_Literature/Book/Baumann GR/Ch 7 - Cosmology.html)

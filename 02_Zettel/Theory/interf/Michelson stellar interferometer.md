@@ -86,7 +86,7 @@ GI2T's first results in 1985 represented the modern era of optical amplitude int
 
 ## see also
 
-- [Young experiment as a stellar interferometer](../../../02_Zettel/Theory/interf/Young experiment as a stellar interferometer.md)
-- [Components of a modern interferometer](../../../02_Zettel/Theory/interf/Components of a modern interferometer.md)
-- [Stellar diameters and limb darkening](../../../02_Zettel/Theory/interf/Stellar diameters and limb darkening.md)
-- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Young experiment as a stellar interferometer](../../../02_Zettel/Theory/interf/Young experiment as a stellar interferometer.html)
+- [Components of a modern interferometer](../../../02_Zettel/Theory/interf/Components of a modern interferometer.html)
+- [Stellar diameters and limb darkening](../../../02_Zettel/Theory/interf/Stellar diameters and limb darkening.html)
+- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.html)

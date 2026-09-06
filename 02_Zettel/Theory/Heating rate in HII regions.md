@@ -49,7 +49,7 @@ beyond hydrogen photoionisation:
 
 ## balance with cooling
 
-heating is balanced by **cooling** ([Cooling rate in HII regions](../../02_Zettel/Theory/Cooling rate in HII regions.md)) at the equilibrium $T_e$:
+heating is balanced by **cooling** ([Cooling rate in HII regions](../../02_Zettel/Theory/Cooling rate in HII regions.html)) at the equilibrium $T_e$:
 $$G(T_e) = L(T_e)$$
 
 solving gives the local $T_e$. for typical HII regions, $T_e \approx 7000$ to $14\,000$ K.
@@ -62,11 +62,11 @@ heating rate per atom $\propto U$. so high-$U$ regions are "hotter" in the sense
 
 ## see also
 
-- [Cooling rate in HII regions](../../02_Zettel/Theory/Cooling rate in HII regions.md)
-- [Equilibrium temperature](../../02_Zettel/Theory/Equilibrium temperature.md)
-- [Cooling curve](../../02_Zettel/Theory/Cooling curve.md)
-- [Photoionization rate](../../02_Zettel/Theory/Photoionization rate.md)
-- [Photoionisation balance](../../02_Zettel/Theory/Photoionisation balance.md)
-- [Ionisation parameter U](../../02_Zettel/Theory/Ionisation parameter U.md)
+- [Cooling rate in HII regions](../../02_Zettel/Theory/Cooling rate in HII regions.html)
+- [Equilibrium temperature](../../02_Zettel/Theory/Equilibrium temperature.html)
+- [Cooling curve](../../02_Zettel/Theory/Cooling curve.html)
+- [Photoionization rate](../../02_Zettel/Theory/Photoionization rate.html)
+- [Photoionisation balance](../../02_Zettel/Theory/Photoionisation balance.html)
+- [Ionisation parameter U](../../02_Zettel/Theory/Ionisation parameter U.html)
 - Strömgren sphere
-- [Forbidden line diagnostics](../../02_Zettel/Theory/Forbidden line diagnostics.md)
+- [Forbidden line diagnostics](../../02_Zettel/Theory/Forbidden line diagnostics.html)

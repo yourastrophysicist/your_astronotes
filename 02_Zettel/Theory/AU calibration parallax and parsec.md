@@ -71,11 +71,11 @@ range of geometric parallax:
 
 ## see also
 
-- [Annual stellar parallax](../../02_Zettel/Theory/Annual stellar parallax.md)
-- [Distance ladder derivations](../../02_Zettel/Theory/Distance ladder derivations.md)
-- [Distance modulus](../../02_Zettel/Theory/Distance modulus.md)
-- [Cepheid period-luminosity relation](../../02_Zettel/Theory/Cepheid period-luminosity relation.md)
-- [Spectroscopic parallax and main-sequence fitting](../../02_Zettel/Theory/Spectroscopic parallax and main-sequence fitting.md)
-- [Hubble law](../../02_Zettel/Theory/Hubble law.md)
-- [Earth coordinates](../../02_Zettel/Theory/Earth coordinates.md)
-- [Precession nutation aberration parallax](../../02_Zettel/Theory/Precession nutation aberration parallax.md)
+- [Annual stellar parallax](../../02_Zettel/Theory/Annual stellar parallax.html)
+- [Distance ladder derivations](../../02_Zettel/Theory/Distance ladder derivations.html)
+- [Distance modulus](../../02_Zettel/Theory/Distance modulus.html)
+- [Cepheid period-luminosity relation](../../02_Zettel/Theory/Cepheid period-luminosity relation.html)
+- [Spectroscopic parallax and main-sequence fitting](../../02_Zettel/Theory/Spectroscopic parallax and main-sequence fitting.html)
+- [Hubble law](../../02_Zettel/Theory/Hubble law.html)
+- [Earth coordinates](../../02_Zettel/Theory/Earth coordinates.html)
+- [Precession nutation aberration parallax](../../02_Zettel/Theory/Precession nutation aberration parallax.html)

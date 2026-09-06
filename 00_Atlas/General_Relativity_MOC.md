@@ -89,7 +89,7 @@ every concept note follows the same teaching order: motivation, analogy, definit
 
 these are not equations, they are the rules and the conventions.
 
-- [Baumann GR](../01_Literature/Book/Baumann GR/Baumann GR.md) reading companion to the textbook, chapter by chapter
+- [Baumann GR](../01_Literature/Book/Baumann GR/Baumann GR.html) reading companion to the textbook, chapter by chapter
 
 ---
 
@@ -99,16 +99,16 @@ before we can do anything, we have to agree on a language for "spacetime as a ge
 
 physical question this block answers: **how do i write down a spacetime so that i can do calculus on it?**
 
-- [Manifold metric and signature](../02_Zettel/Theory/Manifold metric and signature.md) what is a manifold, what is a metric, why "Lorentzian signature" matters
-- [Coordinate transformations and tensors](../02_Zettel/Theory/Coordinate transformations and tensors.md) vectors, co-vectors, tensors, why partial derivatives are not tensors
-- [Locally inertial frame](../02_Zettel/Theory/Locally inertial frame.md) the GR version of "Newton's first law works locally"
-- [Christoffel symbols](../02_Zettel/Theory/Christoffel symbols.md) the price of using coordinates in curved space
-- [Levi-Civita connection](../02_Zettel/Theory/Levi-Civita connection.md) why GR uses one specific connection and not others
-- [Covariant derivative](../02_Zettel/Theory/Covariant derivative.md) the differentiation that respects curvature
-- [Metric compatibility](../02_Zettel/Theory/Metric compatibility.md) why $\nabla g = 0$ and why this matters
-- [Parallel transport](../02_Zettel/Theory/Parallel transport.md) the curved-space version of "translating without rotating"
+- [Manifold metric and signature](../02_Zettel/Theory/Manifold metric and signature.html) what is a manifold, what is a metric, why "Lorentzian signature" matters
+- [Coordinate transformations and tensors](../02_Zettel/Theory/Coordinate transformations and tensors.html) vectors, co-vectors, tensors, why partial derivatives are not tensors
+- [Locally inertial frame](../02_Zettel/Theory/Locally inertial frame.html) the GR version of "Newton's first law works locally"
+- [Christoffel symbols](../02_Zettel/Theory/Christoffel symbols.html) the price of using coordinates in curved space
+- [Levi-Civita connection](../02_Zettel/Theory/Levi-Civita connection.html) why GR uses one specific connection and not others
+- [Covariant derivative](../02_Zettel/Theory/Covariant derivative.html) the differentiation that respects curvature
+- [Metric compatibility](../02_Zettel/Theory/Metric compatibility.html) why $\nabla g = 0$ and why this matters
+- [Parallel transport](../02_Zettel/Theory/Parallel transport.html) the curved-space version of "translating without rotating"
 
-reading: [Ch 1 - Gravity is Geometry](../01_Literature/Book/Baumann GR/Ch 1 - Gravity is Geometry.md) for the motivation, [Ch 2 - Some Differential Geometry](../01_Literature/Book/Baumann GR/Ch 2 - Some Differential Geometry.md) for the math.
+reading: [Ch 1 - Gravity is Geometry](../01_Literature/Book/Baumann GR/Ch 1 - Gravity is Geometry.html) for the motivation, [Ch 2 - Some Differential Geometry](../01_Literature/Book/Baumann GR/Ch 2 - Some Differential Geometry.html) for the math.
 
 ---
 
@@ -120,15 +120,15 @@ physical question this block answers: **how do i know if a space is curved, and 
 
 the answer is the Riemann tensor. it is built from a beautiful operational test: parallel transport a vector around a tiny closed loop. if the vector comes back to the same vector, the space is flat. if it comes back rotated, the space is curved, and Riemann measures how much. this is not a metaphor; it is the actual definition.
 
-- [Riemann tensor](../02_Zettel/Theory/Riemann tensor.md) the path-dependence of parallel transport, made precise
-- [Riemann tensor symmetries](../02_Zettel/Theory/Riemann tensor symmetries.md) the four symmetries (antisym pair, antisym pair, pair exchange, first Bianchi) that reduce its components
-- [Counting Riemann components](../02_Zettel/Theory/Counting Riemann components.md) $n^2(n^2-1)/12$, equals 1 in 2D, 6 in 3D, 20 in 4D
-- [Ricci tensor and scalar](../02_Zettel/Theory/Ricci tensor and scalar.md) the contractions, what they capture
-- [Sectional and Gaussian curvature](../02_Zettel/Theory/Sectional and Gaussian curvature.md) the geometric meaning of one Riemann component
-- [Bianchi identities](../02_Zettel/Theory/Bianchi identities.md) the differential identity that forces conservation laws
-- [Geodesic deviation](../02_Zettel/Theory/Geodesic deviation.md) the physical content of curvature: tidal forces
+- [Riemann tensor](../02_Zettel/Theory/Riemann tensor.html) the path-dependence of parallel transport, made precise
+- [Riemann tensor symmetries](../02_Zettel/Theory/Riemann tensor symmetries.html) the four symmetries (antisym pair, antisym pair, pair exchange, first Bianchi) that reduce its components
+- [Counting Riemann components](../02_Zettel/Theory/Counting Riemann components.html) $n^2(n^2-1)/12$, equals 1 in 2D, 6 in 3D, 20 in 4D
+- [Ricci tensor and scalar](../02_Zettel/Theory/Ricci tensor and scalar.html) the contractions, what they capture
+- [Sectional and Gaussian curvature](../02_Zettel/Theory/Sectional and Gaussian curvature.html) the geometric meaning of one Riemann component
+- [Bianchi identities](../02_Zettel/Theory/Bianchi identities.html) the differential identity that forces conservation laws
+- [Geodesic deviation](../02_Zettel/Theory/Geodesic deviation.html) the physical content of curvature: tidal forces
 
-reading: [Ch 4 - Spacetime Curvature](../01_Literature/Book/Baumann GR/Ch 4 - Spacetime Curvature.md).
+reading: [Ch 4 - Spacetime Curvature](../01_Literature/Book/Baumann GR/Ch 4 - Spacetime Curvature.html).
 
 ---
 
@@ -147,13 +147,13 @@ definition 1 connects to Lagrangian mechanics ($S = -m \int d\tau$). definition 
 
 a deep simplification: when the spacetime has symmetries (the metric does not depend on some coordinate), there are **conserved quantities** along the geodesic. this is the GR version of Noether's theorem and it lets me reduce 4D problems to 1D effective-potential problems.
 
-- [Geodesic equation](../02_Zettel/Theory/Geodesic equation.md) the ODE for free-falling motion
-- [Affine parameter](../02_Zettel/Theory/Affine parameter.md) proper time for massive, anything-linear for null
-- [Killing vectors and conserved quantities](../02_Zettel/Theory/Killing vectors and conserved quantities.md) when the metric has a symmetry, there is a conserved momentum
-- [Effective potential approach](../02_Zettel/Theory/Effective potential approach.md) reducing the 4D Schwarzschild geodesic to a 1D radial problem
-- [Timelike vs null vs spacelike](../02_Zettel/Theory/Timelike vs null vs spacelike.md) the three flavors of geodesic
+- [Geodesic equation](../02_Zettel/Theory/Geodesic equation.html) the ODE for free-falling motion
+- [Affine parameter](../02_Zettel/Theory/Affine parameter.html) proper time for massive, anything-linear for null
+- [Killing vectors and conserved quantities](../02_Zettel/Theory/Killing vectors and conserved quantities.html) when the metric has a symmetry, there is a conserved momentum
+- [Effective potential approach](../02_Zettel/Theory/Effective potential approach.html) reducing the 4D Schwarzschild geodesic to a 1D radial problem
+- [Timelike vs null vs spacelike](../02_Zettel/Theory/Timelike vs null vs spacelike.html) the three flavors of geodesic
 
-reading: [Ch 3 - A First Look at Geodesics](../01_Literature/Book/Baumann GR/Ch 3 - A First Look at Geodesics.md) (gives a great pedagogical derivation of the geodesic equation from the relativistic action).
+reading: [Ch 3 - A First Look at Geodesics](../01_Literature/Book/Baumann GR/Ch 3 - A First Look at Geodesics.html) (gives a great pedagogical derivation of the geodesic equation from the relativistic action).
 
 ---
 
@@ -173,13 +173,13 @@ $$G_{\mu\nu} = 8\pi G T_{\mu\nu}$$
 
 the constant $8\pi G$ is fixed by demanding the equation reduces to Newton in the appropriate limit.
 
-- [Einstein equations](../02_Zettel/Theory/Einstein equations.md) the master equation
-- [Einstein tensor and Bianchi](../02_Zettel/Theory/Einstein tensor and Bianchi.md) why it has to be $G$ and not $R$
-- [Stress-energy tensor](../02_Zettel/Theory/Stress-energy tensor.md) perfect fluid, dust, radiation, vacuum, scalar field
-- [Trace-reversed Einstein equations](../02_Zettel/Theory/Trace-reversed Einstein equations.md) the equivalent form $R_{\mu\nu} = 8\pi G(T_{\mu\nu} - \tfrac12 g_{\mu\nu}T)$
-- [Cosmological constant](../02_Zettel/Theory/Cosmological constant.md) the only other thing that can be added consistently
+- [Einstein equations](../02_Zettel/Theory/Einstein equations.html) the master equation
+- [Einstein tensor and Bianchi](../02_Zettel/Theory/Einstein tensor and Bianchi.html) why it has to be $G$ and not $R$
+- [Stress-energy tensor](../02_Zettel/Theory/Stress-energy tensor.html) perfect fluid, dust, radiation, vacuum, scalar field
+- [Trace-reversed Einstein equations](../02_Zettel/Theory/Trace-reversed Einstein equations.html) the equivalent form $R_{\mu\nu} = 8\pi G(T_{\mu\nu} - \tfrac12 g_{\mu\nu}T)$
+- [Cosmological constant](../02_Zettel/Theory/Cosmological constant.html) the only other thing that can be added consistently
 
-reading: [Ch 5 - The Einstein Equation](../01_Literature/Book/Baumann GR/Ch 5 - The Einstein Equation.md).
+reading: [Ch 5 - The Einstein Equation](../01_Literature/Book/Baumann GR/Ch 5 - The Einstein Equation.html).
 
 ---
 
@@ -197,20 +197,20 @@ four physical predictions, all confirmed by experiment:
 
 a fifth prediction: there is an **event horizon** at $r = 2GM$, a one-way membrane. inside it, even light cannot escape. that is the black hole.
 
-- [Schwarzschild metric](../02_Zettel/Theory/Schwarzschild metric.md) the metric and its derivation
-- [Birkhoff theorem](../02_Zettel/Theory/Birkhoff theorem.md) spherically symmetric vacuum is automatically static
-- [Schwarzschild Christoffels](../02_Zettel/Theory/Schwarzschild Christoffels.md) the standard table
-- [Schwarzschild horizon](../02_Zettel/Theory/Schwarzschild horizon.md) the $r = 2GM$ surface, why it is a coordinate singularity not a curvature one
-- [Schwarzschild effective potential](../02_Zettel/Theory/Schwarzschild effective potential.md) the master tool for orbits
-- [Circular orbits in Schwarzschild](../02_Zettel/Theory/Circular orbits in Schwarzschild.md) $\Omega^2 = GM/r^3$ exactly
-- [Photon sphere](../02_Zettel/Theory/Photon sphere.md) $r = 3GM$, the bright ring
-- [Radial infall](../02_Zettel/Theory/Radial infall.md) the cycloid solution
-- [Photon trajectories and impact parameter](../02_Zettel/Theory/Photon trajectories and impact parameter.md) $b = L/E$ and $b_{\rm crit} = 3\sqrt{3}\,GM$
-- [Perihelion precession](../02_Zettel/Theory/Perihelion precession.md) the $43''$/century
-- [Light deflection](../02_Zettel/Theory/Light deflection.md) the $1.75''$
-- [Eddington-Finkelstein and Kruskal](../02_Zettel/Theory/Eddington-Finkelstein and Kruskal.md) coordinates that pass through the horizon smoothly
+- [Schwarzschild metric](../02_Zettel/Theory/Schwarzschild metric.html) the metric and its derivation
+- [Birkhoff theorem](../02_Zettel/Theory/Birkhoff theorem.html) spherically symmetric vacuum is automatically static
+- [Schwarzschild Christoffels](../02_Zettel/Theory/Schwarzschild Christoffels.html) the standard table
+- [Schwarzschild horizon](../02_Zettel/Theory/Schwarzschild horizon.html) the $r = 2GM$ surface, why it is a coordinate singularity not a curvature one
+- [Schwarzschild effective potential](../02_Zettel/Theory/Schwarzschild effective potential.html) the master tool for orbits
+- [Circular orbits in Schwarzschild](../02_Zettel/Theory/Circular orbits in Schwarzschild.html) $\Omega^2 = GM/r^3$ exactly
+- [Photon sphere](../02_Zettel/Theory/Photon sphere.html) $r = 3GM$, the bright ring
+- [Radial infall](../02_Zettel/Theory/Radial infall.html) the cycloid solution
+- [Photon trajectories and impact parameter](../02_Zettel/Theory/Photon trajectories and impact parameter.html) $b = L/E$ and $b_{\rm crit} = 3\sqrt{3}\,GM$
+- [Perihelion precession](../02_Zettel/Theory/Perihelion precession.html) the $43''$/century
+- [Light deflection](../02_Zettel/Theory/Light deflection.html) the $1.75''$
+- [Eddington-Finkelstein and Kruskal](../02_Zettel/Theory/Eddington-Finkelstein and Kruskal.html) coordinates that pass through the horizon smoothly
 
-reading: [Ch 5 - The Einstein Equation](../01_Literature/Book/Baumann GR/Ch 5 - The Einstein Equation.md) (Schwarzschild derivation), [Ch 6 - Black Holes](../01_Literature/Book/Baumann GR/Ch 6 - Black Holes.md) (deep cuts on horizons, Kruskal, Penrose diagrams).
+reading: [Ch 5 - The Einstein Equation](../01_Literature/Book/Baumann GR/Ch 5 - The Einstein Equation.html) (Schwarzschild derivation), [Ch 6 - Black Holes](../01_Literature/Book/Baumann GR/Ch 6 - Black Holes.html) (deep cuts on horizons, Kruskal, Penrose diagrams).
 
 ---
 
@@ -226,15 +226,15 @@ write the metric as $g_{\mu\nu} = \eta_{\mu\nu} + h_{\mu\nu}$ with $|h| \ll 1$, 
 
 linearized GR has a **gauge symmetry**, just like electromagnetism. an infinitesimal coordinate change shifts $h_{\mu\nu}$ by $h \to h + 2\partial_{(\mu}\xi_{\nu)}$. fixing this gauge (Lorenz gauge, then transverse-traceless) is what makes the wave equation clean.
 
-- [Linearized metric perturbation](../02_Zettel/Theory/Linearized metric perturbation.md) $h_{\mu\nu}$ on Minkowski
-- [Linearized Christoffel and Riemann](../02_Zettel/Theory/Linearized Christoffel and Riemann.md) drop $\Gamma\Gamma$ terms
-- [Linearized gauge transformations](../02_Zettel/Theory/Linearized gauge transformations.md) residual diffeomorphism freedom
-- [Trace-reversed perturbation](../02_Zettel/Theory/Trace-reversed perturbation.md) $\bar h_{\mu\nu} = h_{\mu\nu} - \tfrac12 \eta_{\mu\nu} h$, an involution
-- [Lorenz gauge](../02_Zettel/Theory/Lorenz gauge.md) $\partial^\mu \bar h_{\mu\nu} = 0$, makes Einstein's equation a wave equation
-- [Newtonian limit of GR](../02_Zettel/Theory/Newtonian limit of GR.md) $h_{00} = -2\Phi$ recovers Poisson's equation
-- [SVT decomposition](../02_Zettel/Theory/SVT decomposition.md) scalar / vector / tensor split
+- [Linearized metric perturbation](../02_Zettel/Theory/Linearized metric perturbation.html) $h_{\mu\nu}$ on Minkowski
+- [Linearized Christoffel and Riemann](../02_Zettel/Theory/Linearized Christoffel and Riemann.html) drop $\Gamma\Gamma$ terms
+- [Linearized gauge transformations](../02_Zettel/Theory/Linearized gauge transformations.html) residual diffeomorphism freedom
+- [Trace-reversed perturbation](../02_Zettel/Theory/Trace-reversed perturbation.html) $\bar h_{\mu\nu} = h_{\mu\nu} - \tfrac12 \eta_{\mu\nu} h$, an involution
+- [Lorenz gauge](../02_Zettel/Theory/Lorenz gauge.html) $\partial^\mu \bar h_{\mu\nu} = 0$, makes Einstein's equation a wave equation
+- [Newtonian limit of GR](../02_Zettel/Theory/Newtonian limit of GR.html) $h_{00} = -2\Phi$ recovers Poisson's equation
+- [SVT decomposition](../02_Zettel/Theory/SVT decomposition.html) scalar / vector / tensor split
 
-reading: [Ch 8 - Gravitational Waves](../01_Literature/Book/Baumann GR/Ch 8 - Gravitational Waves.md) § 8.1 for the linearized formalism.
+reading: [Ch 8 - Gravitational Waves](../01_Literature/Book/Baumann GR/Ch 8 - Gravitational Waves.html) § 8.1 for the linearized formalism.
 
 ---
 
@@ -246,13 +246,13 @@ physical question this block answers: **what are gravitational waves and what do
 
 after fixing all the gauge freedom (Lorenz first, then four extra TT conditions), only **two physical polarizations** survive: $h_+$ ("plus") and $h_\times$ ("cross"). they affect a ring of test masses by alternately stretching and squeezing it: the "+" pattern stretches the ring along $x$ while squeezing along $y$, then reverses; the "×" pattern is the same rotated by $45°$. LIGO detects this stretching directly through laser interferometry.
 
-- [Transverse traceless gauge](../02_Zettel/Theory/Transverse traceless gauge.md) the canonical GW gauge, four extra conditions, two polarizations
-- [Plus and cross polarizations](../02_Zettel/Theory/Plus and cross polarizations.md) $h_+, h_\times$, the stretching and squeezing patterns
-- [Geodesic deviation under a GW](../02_Zettel/Theory/Geodesic deviation under a GW.md) the LIGO physics, $\Delta L/L \sim h$
-- [Quadrupole formula](../02_Zettel/Theory/Quadrupole formula.md) $h^{TT}_{ij} = (2G/r) \ddot Q_{ij}$, why no monopole or dipole GW
-- [GW energy and angular momentum](../02_Zettel/Theory/GW energy and angular momentum.md) the Isaacson tensor
+- [Transverse traceless gauge](../02_Zettel/Theory/Transverse traceless gauge.html) the canonical GW gauge, four extra conditions, two polarizations
+- [Plus and cross polarizations](../02_Zettel/Theory/Plus and cross polarizations.html) $h_+, h_\times$, the stretching and squeezing patterns
+- [Geodesic deviation under a GW](../02_Zettel/Theory/Geodesic deviation under a GW.html) the LIGO physics, $\Delta L/L \sim h$
+- [Quadrupole formula](../02_Zettel/Theory/Quadrupole formula.html) $h^{TT}_{ij} = (2G/r) \ddot Q_{ij}$, why no monopole or dipole GW
+- [GW energy and angular momentum](../02_Zettel/Theory/GW energy and angular momentum.html) the Isaacson tensor
 
-reading: [Ch 8 - Gravitational Waves](../01_Literature/Book/Baumann GR/Ch 8 - Gravitational Waves.md) § 8.2 to 8.4.
+reading: [Ch 8 - Gravitational Waves](../01_Literature/Book/Baumann GR/Ch 8 - Gravitational Waves.html) § 8.2 to 8.4.
 
 ---
 
@@ -275,17 +275,17 @@ three eras of cosmic history:
 
 today: $\Omega_r \approx 9 \times 10^{-5}$, $\Omega_m \approx 0.32$, $\Omega_\Lambda \approx 0.68$, $|\Omega_k| < 0.005$. **5% baryons, 27% dark matter, 68% dark energy.** 95% of the universe is invisible.
 
-- [Cosmological principle](../02_Zettel/Theory/Cosmological principle.md) homogeneous + isotropic at each time
-- [FLRW metric](../02_Zettel/Theory/FLRW metric.md) $ds^2 = -dt^2 + a(t)^2 \gamma_{ij} dx^i dx^j$
-- [Spatial curvature parameter k](../02_Zettel/Theory/Spatial curvature parameter k.md) flat / closed / open
-- [Friedmann equations](../02_Zettel/Theory/Friedmann equations.md) the master cosmological equations
-- [Continuity equation](../02_Zettel/Theory/Continuity equation.md) from $\nabla^\mu T_{\mu\nu} = 0$
-- [Equation of state and density scaling](../02_Zettel/Theory/Equation of state and density scaling.md) $\rho \propto a^{-3(1+w)}$
-- [Cosmic eras](../02_Zettel/Theory/Cosmic eras.md) radiation, matter, dark energy
-- [Matter radiation equality](../02_Zettel/Theory/Matter radiation equality.md) $a_{\rm eq}$, the cosmic transition
-- [Deceleration parameter](../02_Zettel/Theory/Deceleration parameter.md) $q$, why it is negative today
+- [Cosmological principle](../02_Zettel/Theory/Cosmological principle.html) homogeneous + isotropic at each time
+- [FLRW metric](../02_Zettel/Theory/FLRW metric.html) $ds^2 = -dt^2 + a(t)^2 \gamma_{ij} dx^i dx^j$
+- [Spatial curvature parameter k](../02_Zettel/Theory/Spatial curvature parameter k.html) flat / closed / open
+- [Friedmann equations](../02_Zettel/Theory/Friedmann equations.html) the master cosmological equations
+- [Continuity equation](../02_Zettel/Theory/Continuity equation.html) from $\nabla^\mu T_{\mu\nu} = 0$
+- [Equation of state and density scaling](../02_Zettel/Theory/Equation of state and density scaling.html) $\rho \propto a^{-3(1+w)}$
+- [Cosmic eras](../02_Zettel/Theory/Cosmic eras.html) radiation, matter, dark energy
+- [Matter radiation equality](../02_Zettel/Theory/Matter radiation equality.html) $a_{\rm eq}$, the cosmic transition
+- [Deceleration parameter](../02_Zettel/Theory/Deceleration parameter.html) $q$, why it is negative today
 
-reading: [Ch 7 - Cosmology](../01_Literature/Book/Baumann GR/Ch 7 - Cosmology.md).
+reading: [Ch 7 - Cosmology](../01_Literature/Book/Baumann GR/Ch 7 - Cosmology.html).
 
 ---
 
@@ -333,8 +333,8 @@ every question is a calculation that lives inside one of the eight blocks. when 
 
 GR is the geometric trunk that other courses graft onto.
 
-- **[Observational_Cosmology_MOC](../00_Atlas/Observational_Cosmology_MOC.md)** is the same Block 8 (FLRW + Friedmann), but turned outward toward observation. distance ladders, the K-correction, surface-brightness dimming, the CMB, all sit on top of FLRW. when i derive Friedmann here, i am building the foundation that course needs.
-- **[Lab_High-Energy_MOC](../00_Atlas/Lab_High-Energy_MOC.md)** turns Schwarzschild into observables. ISCO sets the inner edge of accretion disks (and hence the $L_{\rm Edd}$-scale luminosity). the photon sphere becomes the bright ring in EHT images. gravitational redshift shows up in iron K$\alpha$ line shapes from neutron stars and BHs.
+- **[Observational_Cosmology_MOC](../00_Atlas/Observational_Cosmology_MOC.html)** is the same Block 8 (FLRW + Friedmann), but turned outward toward observation. distance ladders, the K-correction, surface-brightness dimming, the CMB, all sit on top of FLRW. when i derive Friedmann here, i am building the foundation that course needs.
+- **[Lab_High-Energy_MOC](../00_Atlas/Lab_High-Energy_MOC.html)** turns Schwarzschild into observables. ISCO sets the inner edge of accretion disks (and hence the $L_{\rm Edd}$-scale luminosity). the photon sphere becomes the bright ring in EHT images. gravitational redshift shows up in iron K$\alpha$ line shapes from neutron stars and BHs.
 - **Fundamentals of Astrophysics and Cosmology** (the parallel course): Newtonian-fluid derivation of Friedmann, and the basics of CMB physics. it is GR cosmology's "easier sister." i should read both side by side.
 
 ---
@@ -350,7 +350,7 @@ GR is the geometric trunk that other courses graft onto.
 
 - **Sean Carroll, *Spacetime and Geometry*** the standard rigorous treatment, source for most of the equation sheet
 - **Bernard Schutz, *A First Course in General Relativity*** more physical, intuition-first
-- **Daniel Baumann, *General Relativity*** the book the course follows. reading companion (chapter by chapter) at [Baumann GR](../01_Literature/Book/Baumann GR/Baumann GR.md)
+- **Daniel Baumann, *General Relativity*** the book the course follows. reading companion (chapter by chapter) at [Baumann GR](../01_Literature/Book/Baumann GR/Baumann GR.html)
 - 20 official questions: `Downloads/GR_Exam_2026.pdf`
 - official equation sheet: `Downloads/GR_Equations_2026.pdf`
 - long-form course walkthrough: `1st Semester/GENERAL RELATIVITY FOR ASTROPHYSICS AND COSMOLOGY/QA GR.pdf`
@@ -361,4 +361,4 @@ GR is the geometric trunk that other courses graft onto.
 
 > general relativity replaces Newton's "gravity is a force" with "gravity is geometry." spacetime is a Lorentzian manifold whose metric $g_{\mu\nu}$ encodes how distances are measured. coordinate axes generally tilt as i move around, captured by the Christoffel symbols $\Gamma^\alpha{}_{\mu\nu}$, the unique symbols that are both metric-compatible and torsion-free. true curvature is captured by the Riemann tensor, defined by the path-dependence of parallel transport, and physically by the relative acceleration of nearby geodesics (tidal forces). matter sources curvature through Einstein's equation $G_{\mu\nu} = 8\pi G T_{\mu\nu}$, where $G_{\mu\nu} = R_{\mu\nu} - \tfrac12 g_{\mu\nu}R$ is the unique "second-derivative of metric" combination that is automatically conserved. matter responds by following geodesics $\ddot x + \Gamma \dot x \dot x = 0$. solving Einstein's equation in special cases gives Schwarzschild (spherical vacuum, models stars and black holes), FLRW (homogeneous-isotropic, models the universe), and linearized perturbations on Minkowski (gravitational waves and the Newtonian limit). every measurable consequence of GR, perihelion precession, light deflection, gravitational redshift, expansion of the universe, gravitational waves, comes out of this single chain.
 
-see also: [Observational_Cosmology_MOC](../00_Atlas/Observational_Cosmology_MOC.md) · [Lab_High-Energy_MOC](../00_Atlas/Lab_High-Energy_MOC.md) · [Voyage!](../Voyage!.md)
+see also: [Observational_Cosmology_MOC](../00_Atlas/Observational_Cosmology_MOC.html) · [Lab_High-Energy_MOC](../00_Atlas/Lab_High-Energy_MOC.html) · [Voyage!](../Voyage!.html)

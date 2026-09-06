@@ -81,9 +81,9 @@ it also gives the **physical intuition** for why the cosmological constant is so
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
 - Friedmann equations with Λ
-- [Friedmann models](../../02_Zettel/Theory/Friedmann models.md)
-- [Curvature parameter k](../../02_Zettel/Theory/Curvature parameter k.md)
-- [Density parameters and flatness](../../02_Zettel/Theory/Density parameters and flatness.md)
-- [Baumann_reference](../../02_Zettel/Theory/Baumann_reference.md) — chapter 1.3 has the GR derivation, contrast with this
+- [Friedmann models](../../02_Zettel/Theory/Friedmann models.html)
+- [Curvature parameter k](../../02_Zettel/Theory/Curvature parameter k.html)
+- [Density parameters and flatness](../../02_Zettel/Theory/Density parameters and flatness.html)
+- [Baumann_reference](../../02_Zettel/Theory/Baumann_reference.html) — chapter 1.3 has the GR derivation, contrast with this

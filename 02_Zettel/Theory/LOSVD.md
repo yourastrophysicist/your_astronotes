@@ -73,13 +73,13 @@ all derived from accurate $\sigma$ measurements via LOSVD fitting.
 
 ## see also
 
-- [Velocity dispersion from line width](../../02_Zettel/Theory/Velocity dispersion from line width.md)
-- [Stellar kinematics measurements](../../02_Zettel/Theory/Stellar kinematics measurements.md)
-- [Stellar v sin i from line shape](../../02_Zettel/Theory/Stellar v sin i from line shape.md)
-- [Faber-Jackson relation](../../02_Zettel/Theory/Faber-Jackson relation.md)
-- [Fundamental plane of ellipticals](../../02_Zettel/Theory/Fundamental plane of ellipticals.md)
-- [Tully-Fisher relation](../../02_Zettel/Theory/Tully-Fisher relation.md)
-- [M sigma relation](../../02_Zettel/Theory/M sigma relation.md)
-- [MaNGA survey](../../02_Zettel/Theory/MaNGA survey.md)
-- [Integral-field spectroscopy IFU](../../02_Zettel/Theory/Integral-field spectroscopy IFU.md)
-- [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.md)
+- [Velocity dispersion from line width](../../02_Zettel/Theory/Velocity dispersion from line width.html)
+- [Stellar kinematics measurements](../../02_Zettel/Theory/Stellar kinematics measurements.html)
+- [Stellar v sin i from line shape](../../02_Zettel/Theory/Stellar v sin i from line shape.html)
+- [Faber-Jackson relation](../../02_Zettel/Theory/Faber-Jackson relation.html)
+- [Fundamental plane of ellipticals](../../02_Zettel/Theory/Fundamental plane of ellipticals.html)
+- [Tully-Fisher relation](../../02_Zettel/Theory/Tully-Fisher relation.html)
+- [M sigma relation](../../02_Zettel/Theory/M sigma relation.html)
+- [MaNGA survey](../../02_Zettel/Theory/MaNGA survey.html)
+- [Integral-field spectroscopy IFU](../../02_Zettel/Theory/Integral-field spectroscopy IFU.html)
+- [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.html)

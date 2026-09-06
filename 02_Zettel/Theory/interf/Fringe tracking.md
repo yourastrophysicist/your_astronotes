@@ -96,8 +96,8 @@ without fringe tracking, modern optical interferometry would be limited to a han
 
 ## see also
 
-- [Components of a modern interferometer](../../../02_Zettel/Theory/interf/Components of a modern interferometer.md)
-- [Delay lines and path-length equalization](../../../02_Zettel/Theory/interf/Delay lines and path-length equalization.md)
-- [Beam combiners](../../../02_Zettel/Theory/Beam combiners.md)
-- [Adaptive optics](../../../02_Zettel/Theory/interf/Adaptive optics.md)
-- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Components of a modern interferometer](../../../02_Zettel/Theory/interf/Components of a modern interferometer.html)
+- [Delay lines and path-length equalization](../../../02_Zettel/Theory/interf/Delay lines and path-length equalization.html)
+- [Beam combiners](../../../02_Zettel/Theory/Beam combiners.html)
+- [Adaptive optics](../../../02_Zettel/Theory/interf/Adaptive optics.html)
+- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.html)

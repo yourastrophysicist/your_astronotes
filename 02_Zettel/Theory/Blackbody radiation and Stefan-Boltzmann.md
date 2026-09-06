@@ -5,7 +5,7 @@ title: "Blackbody radiation and Stefan-Boltzmann"
 
 a **blackbody** is an idealized object that absorbs all incident electromagnetic radiation and re-emits it in thermal equilibrium. its emission depends only on the temperature, and the spectrum is the **Planck function**.
 
-stars are *approximately* blackbodies (with absorption lines from their atmospheres). the CMB is *the* blackbody — the most perfect one we have ever measured (see [Cosmic_inventory_photons](../../02_Zettel/Theory/Cosmic_inventory_photons.md)).
+stars are *approximately* blackbodies (with absorption lines from their atmospheres). the CMB is *the* blackbody — the most perfect one we have ever measured (see [Cosmic_inventory_photons](../../02_Zettel/Theory/Cosmic_inventory_photons.html)).
 
 ---
 
@@ -100,10 +100,10 @@ so $T_{\rm eff}$ is what we mean when we say "the Sun is at 5800 K." it is not t
 
 ## why this matters for cosmology
 
-- **CMB** is a near-perfect blackbody at $T_0 = 2.725$ K, allowing precise measurement of $\rho_\gamma$ and $n_\gamma$ today (see [Cosmic_inventory_photons](../../02_Zettel/Theory/Cosmic_inventory_photons.md))
-- the photon distribution function in the early universe is a Bose-Einstein blackbody; integrating gives $\rho_\gamma \propto g_*\, T^4$ (see [Number density and energy density at thermal equilibrium](../../02_Zettel/Theory/Number density and energy density at thermal equilibrium.md))
+- **CMB** is a near-perfect blackbody at $T_0 = 2.725$ K, allowing precise measurement of $\rho_\gamma$ and $n_\gamma$ today (see [Cosmic_inventory_photons](../../02_Zettel/Theory/Cosmic_inventory_photons.html))
+- the photon distribution function in the early universe is a Bose-Einstein blackbody; integrating gives $\rho_\gamma \propto g_*\, T^4$ (see [Number density and energy density at thermal equilibrium](../../02_Zettel/Theory/Number density and energy density at thermal equilibrium.html))
 - **stellar spectra** are quasi-blackbody, so star temperatures and radii are inferred via the Stefan-Boltzmann law plus distance measurements
-- **$L/T_{\rm eff}$** is the basis of the HR diagram (see [HR diagram](../../02_Zettel/Theory/HR diagram.md))
+- **$L/T_{\rm eff}$** is the basis of the HR diagram (see [HR diagram](../../02_Zettel/Theory/HR diagram.html))
 
 so the Planck function is the bridge between thermodynamics and astrophysics — it lets us read temperature off a spectrum.
 
@@ -111,10 +111,10 @@ so the Planck function is the bridge between thermodynamics and astrophysics —
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Electromagnetic radiation basics](../../02_Zettel/Theory/Electromagnetic radiation basics.md)
-- [Stellar spectra and spectral classification](../../02_Zettel/Theory/Stellar spectra and spectral classification.md)
-- [Magnitudes and photometric systems](../../02_Zettel/Theory/Magnitudes and photometric systems.md)
-- [HR diagram](../../02_Zettel/Theory/HR diagram.md)
-- [Cosmic_inventory_photons](../../02_Zettel/Theory/Cosmic_inventory_photons.md)
-- [Number density and energy density at thermal equilibrium](../../02_Zettel/Theory/Number density and energy density at thermal equilibrium.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Electromagnetic radiation basics](../../02_Zettel/Theory/Electromagnetic radiation basics.html)
+- [Stellar spectra and spectral classification](../../02_Zettel/Theory/Stellar spectra and spectral classification.html)
+- [Magnitudes and photometric systems](../../02_Zettel/Theory/Magnitudes and photometric systems.html)
+- [HR diagram](../../02_Zettel/Theory/HR diagram.html)
+- [Cosmic_inventory_photons](../../02_Zettel/Theory/Cosmic_inventory_photons.html)
+- [Number density and energy density at thermal equilibrium](../../02_Zettel/Theory/Number density and energy density at thermal equilibrium.html)

@@ -63,12 +63,12 @@ at fixed redshift, peculiar velocities show up as residuals in distance-redshift
 
 ## see also
 
-- [Hubble law](../../02_Zettel/Theory/Hubble law.md)
-- [Hubble flow distances](../../02_Zettel/Theory/Hubble flow distances.md)
-- [Cosmological redshift](../../02_Zettel/Theory/Cosmological redshift.md)
-- [Comoving vs proper coordinates](../../02_Zettel/Theory/Comoving vs proper coordinates.md)
-- [Cosmic_inventory_dark_matter](../../02_Zettel/Theory/Cosmic_inventory_dark_matter.md)
-- [Tully-Fisher relation](../../02_Zettel/Theory/Tully-Fisher relation.md)
-- [Fundamental plane of ellipticals](../../02_Zettel/Theory/Fundamental plane of ellipticals.md)
-- [Galaxy main sequence of star formation](../../02_Zettel/Theory/Galaxy main sequence of star formation.md)
-- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md)
+- [Hubble law](../../02_Zettel/Theory/Hubble law.html)
+- [Hubble flow distances](../../02_Zettel/Theory/Hubble flow distances.html)
+- [Cosmological redshift](../../02_Zettel/Theory/Cosmological redshift.html)
+- [Comoving vs proper coordinates](../../02_Zettel/Theory/Comoving vs proper coordinates.html)
+- [Cosmic_inventory_dark_matter](../../02_Zettel/Theory/Cosmic_inventory_dark_matter.html)
+- [Tully-Fisher relation](../../02_Zettel/Theory/Tully-Fisher relation.html)
+- [Fundamental plane of ellipticals](../../02_Zettel/Theory/Fundamental plane of ellipticals.html)
+- [Galaxy main sequence of star formation](../../02_Zettel/Theory/Galaxy main sequence of star formation.html)
+- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html)

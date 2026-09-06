@@ -30,7 +30,7 @@ where $a_\perp$ and $a_\parallel$ are acceleration components perpendicular and 
 
 ## Three main mechanisms in high-energy astrophysics
 
-### 1. Thermal Bremsstrahlung → [Bremsstrahlung](../../02_Zettel/Theory/Bremsstrahlung.md)
+### 1. Thermal Bremsstrahlung → [Bremsstrahlung](../../02_Zettel/Theory/Bremsstrahlung.html)
 Free electrons decelerated in the electric field of ions in a **hot plasma**
 	spectrum: flat below $h\nu \sim k_BT$, exponential cutoff above
 	dominant mechanism in: **galaxy clusters**, hot stellar coronae, supernova remnants at low energies
@@ -38,7 +38,7 @@ Free electrons decelerated in the electric field of ions in a **hot plasma**
 Key observable: the cutoff energy gives the plasma temperature directly
 $$h\nu_{cutoff} \approx k_B T_e$$
 
-### 2. Synchrotron radiation → [Synchroton](../../02_Zettel/Theory/Synchroton.md)
+### 2. Synchrotron radiation → [Synchroton](../../02_Zettel/Theory/Synchroton.html)
 Relativistic electrons ($\gamma \gg 1$) spiraling in a **magnetic field** $B$
 	each electron emits a peaked spectrum at the critical frequency:
 $$\nu_c \propto \gamma^2 \frac{qB}{m_ec}$$
@@ -48,7 +48,7 @@ $$f_\nu \propto \nu^{-\alpha} \qquad \alpha = \frac{s-1}{2}$$
 
 Dominant mechanism in: **supernova remnants, pulsar wind nebulae, AGN jets, radio galaxies**
 
-### 3. Inverse Compton scattering → [Compton and Inverse Compton](../../02_Zettel/Theory/Compton and Inverse Compton.md)
+### 3. Inverse Compton scattering → [Compton and Inverse Compton](../../02_Zettel/Theory/Compton and Inverse Compton.html)
 Relativistic electrons ($\gamma \gg 1$) scatter **low-energy photons** up to high energies
 	energy boost: $E_f \approx \gamma^2 E_i$
 	power: $P_{IC}/P_{syn} = U_{ph}/U_B$ (photon vs magnetic energy density)
@@ -83,7 +83,7 @@ This is not a coincidence:
 
 ## Subtopics
 
-- [Bremsstrahlung](../../02_Zettel/Theory/Bremsstrahlung.md) — thermal free-free emission, clusters, plasma temperature
-- [Synchroton](../../02_Zettel/Theory/Synchroton.md) — magnetic radiation, power-law spectra, cooling breaks
-- [Compton and Inverse Compton](../../02_Zettel/Theory/Compton and Inverse Compton.md) — Compton, Thomson, IC power, Comptonization, y-parameter
-- [Accretion onto compact objects](../../02_Zettel/Theory/Accretion onto compact objects.md) — where all this radiation comes from in compact sources
+- [Bremsstrahlung](../../02_Zettel/Theory/Bremsstrahlung.html) — thermal free-free emission, clusters, plasma temperature
+- [Synchroton](../../02_Zettel/Theory/Synchroton.html) — magnetic radiation, power-law spectra, cooling breaks
+- [Compton and Inverse Compton](../../02_Zettel/Theory/Compton and Inverse Compton.html) — Compton, Thomson, IC power, Comptonization, y-parameter
+- [Accretion onto compact objects](../../02_Zettel/Theory/Accretion onto compact objects.html) — where all this radiation comes from in compact sources

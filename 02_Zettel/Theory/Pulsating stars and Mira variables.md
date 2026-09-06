@@ -90,8 +90,8 @@ a typical Mira observation: 4-8 phases × 2 wavelengths × 5 baselines = 40+ mea
 
 ## see also
 
-- [Stellar diameters and limb darkening](../../02_Zettel/Theory/interf/Stellar diameters and limb darkening.md)
-- [Stellar surface imaging](../../02_Zettel/Theory/interf/Stellar surface imaging.md)
-- [Dust shells and Wolf-Rayet stars](../../02_Zettel/Theory/interf/Dust shells and Wolf-Rayet stars.md)
-- [CHARA array](../../02_Zettel/Theory/interf/CHARA array.md)
-- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Stellar diameters and limb darkening](../../02_Zettel/Theory/interf/Stellar diameters and limb darkening.html)
+- [Stellar surface imaging](../../02_Zettel/Theory/interf/Stellar surface imaging.html)
+- [Dust shells and Wolf-Rayet stars](../../02_Zettel/Theory/interf/Dust shells and Wolf-Rayet stars.html)
+- [CHARA array](../../02_Zettel/Theory/interf/CHARA array.html)
+- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.html)

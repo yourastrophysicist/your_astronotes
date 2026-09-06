@@ -55,7 +55,7 @@ plugging FLRW + a perfect fluid into Einstein's equation gives the **Friedmann e
 $$H^2 = \frac{8\pi G}{3}\rho - \frac{k}{a^2}$$
 $$\frac{\ddot a}{a} = -\frac{4\pi G}{3}(\rho + 3p)$$
 
-these govern the cosmic evolution. see [Friedmann equations](../../02_Zettel/Theory/Friedmann equations.md).
+these govern the cosmic evolution. see [Friedmann equations](../../02_Zettel/Theory/Friedmann equations.html).
 
 ## redshift physics
 
@@ -73,23 +73,23 @@ depending on which fluid dominates the energy density:
 2. **matter era**: $\rho \propto a^{-3}$, $a \propto t^{2/3}$. $z = 0.5$ to $3400$.
 3. **dark energy era**: $\rho \approx $ const, $a \propto e^{Ht}$. $z < 0.5$, including today.
 
-see [Cosmic eras](../../02_Zettel/Theory/Cosmic eras.md).
+see [Cosmic eras](../../02_Zettel/Theory/Cosmic eras.html).
 
 ## see also
 
-- [Cosmological principle](../../02_Zettel/Theory/Cosmological principle.md)
-- [Spatial curvature parameter k](../../02_Zettel/Theory/Spatial curvature parameter k.md)
-- [Friedmann equations](../../02_Zettel/Theory/Friedmann equations.md)
-- [Continuity equation](../../02_Zettel/Theory/Continuity equation.md)
-- [Equation of state and density scaling](../../02_Zettel/Theory/Equation of state and density scaling.md)
-- [Cosmic eras](../../02_Zettel/Theory/Cosmic eras.md)
-- [Matter radiation equality](../../02_Zettel/Theory/Matter radiation equality.md)
-- [Hubble constant and deceleration parameter](../../02_Zettel/Theory/Hubble constant and deceleration parameter.md)
-- [Newtonian Friedmann derivation](../../02_Zettel/Theory/Newtonian Friedmann derivation.md)
+- [Cosmological principle](../../02_Zettel/Theory/Cosmological principle.html)
+- [Spatial curvature parameter k](../../02_Zettel/Theory/Spatial curvature parameter k.html)
+- [Friedmann equations](../../02_Zettel/Theory/Friedmann equations.html)
+- [Continuity equation](../../02_Zettel/Theory/Continuity equation.html)
+- [Equation of state and density scaling](../../02_Zettel/Theory/Equation of state and density scaling.html)
+- [Cosmic eras](../../02_Zettel/Theory/Cosmic eras.html)
+- [Matter radiation equality](../../02_Zettel/Theory/Matter radiation equality.html)
+- [Hubble constant and deceleration parameter](../../02_Zettel/Theory/Hubble constant and deceleration parameter.html)
+- [Newtonian Friedmann derivation](../../02_Zettel/Theory/Newtonian Friedmann derivation.html)
 - 03_Zettel/Theory/Robertson-Walker metric
-- [Cosmological redshift](../../02_Zettel/Theory/Cosmological redshift.md)
+- [Cosmological redshift](../../02_Zettel/Theory/Cosmological redshift.html)
 - Q18 - derive the acceleration equation
 - Q19 - radiation universe
 - Q20 - matter plus radiation universe
-- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.md)
-- [Ch 7 - Cosmology](../../01_Literature/Book/Baumann GR/Ch 7 - Cosmology.md)
+- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.html)
+- [Ch 7 - Cosmology](../../01_Literature/Book/Baumann GR/Ch 7 - Cosmology.html)

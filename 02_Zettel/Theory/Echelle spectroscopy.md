@@ -55,10 +55,10 @@ backbone of Galactic Archaeology surveys: GALAH, APOGEE-2, 4MOST-HR. abundance-p
 
 ## see also
 
-- [Grating equation](../../02_Zettel/Theory/Grating equation.md)
-- [Blazed gratings](../../02_Zettel/Theory/Blazed gratings.md)
-- [Spectrograph design](../../02_Zettel/Theory/Spectrograph design.md)
-- [Dispersion and spectral resolution](../../02_Zettel/Theory/Dispersion and spectral resolution.md)
-- [Spectrograph types](../../02_Zettel/Theory/Spectrograph types.md)
-- [Stellar v sin i from line shape](../../02_Zettel/Theory/Stellar v sin i from line shape.md)
-- [Curve of growth abundance analysis](../../02_Zettel/Theory/Curve of growth abundance analysis.md)
+- [Grating equation](../../02_Zettel/Theory/Grating equation.html)
+- [Blazed gratings](../../02_Zettel/Theory/Blazed gratings.html)
+- [Spectrograph design](../../02_Zettel/Theory/Spectrograph design.html)
+- [Dispersion and spectral resolution](../../02_Zettel/Theory/Dispersion and spectral resolution.html)
+- [Spectrograph types](../../02_Zettel/Theory/Spectrograph types.html)
+- [Stellar v sin i from line shape](../../02_Zettel/Theory/Stellar v sin i from line shape.html)
+- [Curve of growth abundance analysis](../../02_Zettel/Theory/Curve of growth abundance analysis.html)

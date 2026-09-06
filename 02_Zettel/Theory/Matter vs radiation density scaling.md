@@ -60,13 +60,13 @@ so the **equality scale** $k_{\rm eq}$ marks the transition in the matter power 
 
 ## see also
 
-- [Equation of state and density scaling](../../02_Zettel/Theory/Equation of state and density scaling.md)
-- [Continuity equation](../../02_Zettel/Theory/Continuity equation.md)
-- [Friedmann equations](../../02_Zettel/Theory/Friedmann equations.md)
-- [Cosmic eras](../../02_Zettel/Theory/Cosmic eras.md)
-- [Matter radiation equality](../../02_Zettel/Theory/Matter radiation equality.md)
-- [Density parameters](../../02_Zettel/Theory/Density parameters.md)
-- [Cosmological redshift](../../02_Zettel/Theory/Cosmological redshift.md)
-- [Conservation of entropy in a comoving volume](../../02_Zettel/Theory/Conservation of entropy in a comoving volume.md)
-- [Linear evolution of perturbations in expanding universe](../../02_Zettel/Theory/Linear evolution of perturbations in expanding universe.md)
-- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md)
+- [Equation of state and density scaling](../../02_Zettel/Theory/Equation of state and density scaling.html)
+- [Continuity equation](../../02_Zettel/Theory/Continuity equation.html)
+- [Friedmann equations](../../02_Zettel/Theory/Friedmann equations.html)
+- [Cosmic eras](../../02_Zettel/Theory/Cosmic eras.html)
+- [Matter radiation equality](../../02_Zettel/Theory/Matter radiation equality.html)
+- [Density parameters](../../02_Zettel/Theory/Density parameters.html)
+- [Cosmological redshift](../../02_Zettel/Theory/Cosmological redshift.html)
+- [Conservation of entropy in a comoving volume](../../02_Zettel/Theory/Conservation of entropy in a comoving volume.html)
+- [Linear evolution of perturbations in expanding universe](../../02_Zettel/Theory/Linear evolution of perturbations in expanding universe.html)
+- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html)

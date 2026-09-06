@@ -50,8 +50,8 @@ what students should be able to defend by exam day:
 
 ## see also
 
-- [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.md)
-- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md)
-- [Astronomical_Spectroscopy_MOC](../../00_Atlas/Astronomical_Spectroscopy_MOC.md)
-- [Pablo_02_Statistical_properties_of_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.md)
+- [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.html)
+- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html)
+- [Astronomical_Spectroscopy_MOC](../../00_Atlas/Astronomical_Spectroscopy_MOC.html)
+- [Pablo_02_Statistical_properties_of_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html)
 - Exams summer 2026 master plan

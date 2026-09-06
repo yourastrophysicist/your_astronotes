@@ -19,7 +19,7 @@ with the dot meaning $d/d\lambda$. the Christoffel correction is the price of us
 
 intuitively: at each step along the curve, "parallel transport" the vector by adjusting it just enough to compensate for the curving of the coordinate basis. the geometric content: the vector "stays parallel to itself" in the sense determined by the connection.
 
-on a curved manifold, parallel transport is **path-dependent**: transporting a vector around a closed loop generally returns it to a **rotated** version of itself. the rotation is exactly the **Riemann tensor** (see [Riemann tensor](../../02_Zettel/Theory/Riemann tensor.md)).
+on a curved manifold, parallel transport is **path-dependent**: transporting a vector around a closed loop generally returns it to a **rotated** version of itself. the rotation is exactly the **Riemann tensor** (see [Riemann tensor](../../02_Zettel/Theory/Riemann tensor.html)).
 
 ## the canonical example: the 2-sphere
 
@@ -40,7 +40,7 @@ this is the "auto-parallel" definition of geodesic: a curve whose tangent is par
 
 ## connection to metric compatibility
 
-[Metric compatibility](../../02_Zettel/Theory/Metric compatibility.md) $\nabla g = 0$ implies that **inner products are preserved** under parallel transport:
+[Metric compatibility](../../02_Zettel/Theory/Metric compatibility.html) $\nabla g = 0$ implies that **inner products are preserved** under parallel transport:
 $$\frac{d}{d\lambda}(g_{\mu\nu}V^\mu W^\nu) = 0$$
 
 so two vectors parallel-transported along the same curve maintain their relative angle and magnitudes.
@@ -58,11 +58,11 @@ this is the operational definition of curvature: not "how the manifold looks ben
 
 ## see also
 
-- [Christoffel symbols](../../02_Zettel/Theory/Christoffel symbols.md)
-- [Covariant derivative](../../02_Zettel/Theory/Covariant derivative.md)
-- [Levi-Civita connection](../../02_Zettel/Theory/Levi-Civita connection.md)
-- [Metric compatibility](../../02_Zettel/Theory/Metric compatibility.md)
-- [Geodesic equation](../../02_Zettel/Theory/Geodesic equation.md)
-- [Riemann tensor](../../02_Zettel/Theory/Riemann tensor.md)
-- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.md)
-- [Ch 2 - Some Differential Geometry](../../01_Literature/Book/Baumann GR/Ch 2 - Some Differential Geometry.md)
+- [Christoffel symbols](../../02_Zettel/Theory/Christoffel symbols.html)
+- [Covariant derivative](../../02_Zettel/Theory/Covariant derivative.html)
+- [Levi-Civita connection](../../02_Zettel/Theory/Levi-Civita connection.html)
+- [Metric compatibility](../../02_Zettel/Theory/Metric compatibility.html)
+- [Geodesic equation](../../02_Zettel/Theory/Geodesic equation.html)
+- [Riemann tensor](../../02_Zettel/Theory/Riemann tensor.html)
+- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.html)
+- [Ch 2 - Some Differential Geometry](../../01_Literature/Book/Baumann GR/Ch 2 - Some Differential Geometry.html)

@@ -50,9 +50,9 @@ cross-matching catalogs from different surveys without a color-term correction b
 
 ## see also
 
-- [Filter systems and bandpasses](../../02_Zettel/Theory/Filter systems and bandpasses.md)
-- [Magnitudes and photometric systems](../../02_Zettel/Theory/Magnitudes and photometric systems.md)
-- [Color indices](../../02_Zettel/Theory/Color indices.md)
-- [Pogson magnitudes and flux relation](../../02_Zettel/Theory/Pogson magnitudes and flux relation.md)
-- [Photometric standard stars](../../02_Zettel/Theory/Photometric standard stars.md)
-- [Photometric redshifts](../../02_Zettel/Theory/Photometric redshifts.md) — extreme version of the conversion problem
+- [Filter systems and bandpasses](../../02_Zettel/Theory/Filter systems and bandpasses.html)
+- [Magnitudes and photometric systems](../../02_Zettel/Theory/Magnitudes and photometric systems.html)
+- [Color indices](../../02_Zettel/Theory/Color indices.html)
+- [Pogson magnitudes and flux relation](../../02_Zettel/Theory/Pogson magnitudes and flux relation.html)
+- [Photometric standard stars](../../02_Zettel/Theory/Photometric standard stars.html)
+- [Photometric redshifts](../../02_Zettel/Theory/Photometric redshifts.html) — extreme version of the conversion problem

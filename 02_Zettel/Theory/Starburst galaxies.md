@@ -5,13 +5,13 @@ title: "Starburst galaxies"
 
 # starburst galaxies
 
-up: [Pablo_03_Star_formation_in_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.md)
+up: [Pablo_03_Star_formation_in_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html)
 
 ## what makes a starburst
 
 a starburst is a galaxy where the current SFR is much higher than its long-term average, typically sSFR $\gtrsim 10^{-9}$ yr$^{-1}$ (gas-depletion time $< 1$ Gyr). the burst is **transient**: a galaxy cannot sustain it for more than $\sim 100$ Myr before running out of gas.
 
-from [Galaxy time scales](../../02_Zettel/Theory/Galaxy time scales.md): starburst $t_{SF} \equiv M_{\text{gas}}/\psi$ is $\sim 100$ Myr, comparable to or shorter than a dynamical time. so starbursts are self-quenching.
+from [Galaxy time scales](../../02_Zettel/Theory/Galaxy time scales.html): starburst $t_{SF} \equiv M_{\text{gas}}/\psi$ is $\sim 100$ Myr, comparable to or shorter than a dynamical time. so starbursts are self-quenching.
 
 ## the prototype: M82
 
@@ -47,18 +47,18 @@ intense SF drives:
 
 ## why these matter
 
-- dominate the cosmic SFR at $z > 1$ via their ULIRG descendants (see [LIRGs ULIRGs HyLIRGs](../../02_Zettel/Theory/LIRGs ULIRGs HyLIRGs.md))
+- dominate the cosmic SFR at $z > 1$ via their ULIRG descendants (see [LIRGs ULIRGs HyLIRGs](../../02_Zettel/Theory/LIRGs ULIRGs HyLIRGs.html))
 - drive metal enrichment of the CGM and IGM
 - are laboratories for extreme SF physics, testing the IMF, SF laws, feedback models
 - are the visible-universe analogue of the first galaxies
 
 ## connections
 
-- successor class when quenched: [Post-starburst galaxies](../../02_Zettel/Theory/Post-starburst galaxies.md)
-- extreme IR end: [LIRGs ULIRGs HyLIRGs](../../02_Zettel/Theory/LIRGs ULIRGs HyLIRGs.md)
-- high-$z$ class: [High-z galaxies with JWST](../../02_Zettel/Theory/High-z galaxies with JWST.md)
-- sSFR context: [Star formation rate and sSFR](../../02_Zettel/Theory/Star formation rate and sSFR.md)
-- tracer challenges: [SFR tracer comparison](../../02_Zettel/Theory/SFR tracer comparison.md)
+- successor class when quenched: [Post-starburst galaxies](../../02_Zettel/Theory/Post-starburst galaxies.html)
+- extreme IR end: [LIRGs ULIRGs HyLIRGs](../../02_Zettel/Theory/LIRGs ULIRGs HyLIRGs.html)
+- high-$z$ class: [High-z galaxies with JWST](../../02_Zettel/Theory/High-z galaxies with JWST.html)
+- sSFR context: [Star formation rate and sSFR](../../02_Zettel/Theory/Star formation rate and sSFR.html)
+- tracer challenges: [SFR tracer comparison](../../02_Zettel/Theory/SFR tracer comparison.html)
 
 ## key references
 

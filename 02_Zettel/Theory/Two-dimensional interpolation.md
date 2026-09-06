@@ -126,8 +126,8 @@ or set `bounds_error=True` (default in many scipy interpolators) to raise an err
 
 ## see also
 
-- [Linear interpolation](../../02_Zettel/Theory/Linear interpolation.md)
-- [Cubic spline interpolation](../../02_Zettel/Theory/Cubic spline interpolation.md)
-- [Lagrange polynomial interpolation](../../02_Zettel/Theory/Lagrange polynomial interpolation.md)
-- [Scipy interpolation tools](../../02_Zettel/Theory/Scipy interpolation tools.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Linear interpolation](../../02_Zettel/Theory/Linear interpolation.html)
+- [Cubic spline interpolation](../../02_Zettel/Theory/Cubic spline interpolation.html)
+- [Lagrange polynomial interpolation](../../02_Zettel/Theory/Lagrange polynomial interpolation.html)
+- [Scipy interpolation tools](../../02_Zettel/Theory/Scipy interpolation tools.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

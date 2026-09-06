@@ -45,5 +45,5 @@ MEM has historically been used extensively for single-dish deconvolution and for
 
 ## connections & zettel links
 
-* parent moc: [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.md)
-* related zettels: [CLEAN algorithm](../../02_Zettel/Theory/interf/CLEAN algorithm.md), [Deconvolution algorithms compared](../../02_Zettel/Theory/interf/Deconvolution algorithms compared.md), [Dirty beam and dirty image](../../02_Zettel/Theory/interf/Dirty beam and dirty image.md)
+* parent moc: [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.html)
+* related zettels: [CLEAN algorithm](../../02_Zettel/Theory/interf/CLEAN algorithm.html), [Deconvolution algorithms compared](../../02_Zettel/Theory/interf/Deconvolution algorithms compared.html), [Dirty beam and dirty image](../../02_Zettel/Theory/interf/Dirty beam and dirty image.html)

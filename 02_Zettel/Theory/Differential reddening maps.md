@@ -4,7 +4,7 @@ name: Differential reddening maps
 description: technique for mapping spatial variations in interstellar reddening across a star cluster field using cluster member ridge offsets, developed by Milone et al. 2012
 ---
 
-**differential reddening (DR)** is the spatial variation in interstellar reddening $E(B-V)$ across a star cluster field, caused by patchy dust distribution along the line of sight. it artificially broadens cluster sequences (MS, RGB, HB) on the CMD and can mimic [multiple populations](../../02_Zettel/Theory/Multiple populations in GCs discovery.md) or metallicity spreads. a high-resolution DR map allows correction.
+**differential reddening (DR)** is the spatial variation in interstellar reddening $E(B-V)$ across a star cluster field, caused by patchy dust distribution along the line of sight. it artificially broadens cluster sequences (MS, RGB, HB) on the CMD and can mimic [multiple populations](../../02_Zettel/Theory/Multiple populations in GCs discovery.html) or metallicity spreads. a high-resolution DR map allows correction.
 
 ## the Milone et al. 2012 method
 
@@ -20,7 +20,7 @@ for each cluster member star at position $(x, y)$, measure its perpendicular dis
 
 $$\Delta E(B-V)(x, y) = \frac{\Delta_{\rm offset}}{R_V}$$
 
-(see [Interstellar reddening and the reddening vector](../../02_Zettel/Theory/Interstellar reddening and the reddening vector.md) for the geometry).
+(see [Interstellar reddening and the reddening vector](../../02_Zettel/Theory/Interstellar reddening and the reddening vector.html) for the geometry).
 
 ### step 3: interpolate spatial map
 
@@ -82,10 +82,10 @@ modern variants use Gaia-based field stars + RC stars + multiple stars per pixel
 
 ## see also
 
-- [Effects of differential reddening on CMD analysis](../../02_Zettel/Theory/Effects of differential reddening on CMD analysis.md)
-- [Interstellar reddening and the reddening vector](../../02_Zettel/Theory/Interstellar reddening and the reddening vector.md)
-- [Extinction law and Rv](../../02_Zettel/Theory/Extinction law and Rv.md)
-- [Bulge CMD complications](../../02_Zettel/Theory/Bulge CMD complications.md)
-- [Photometric chromosome maps](../../02_Zettel/Theory/Photometric chromosome maps.md)
-- [Multiple populations in GCs discovery](../../02_Zettel/Theory/Multiple populations in GCs discovery.md)
-- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.md)
+- [Effects of differential reddening on CMD analysis](../../02_Zettel/Theory/Effects of differential reddening on CMD analysis.html)
+- [Interstellar reddening and the reddening vector](../../02_Zettel/Theory/Interstellar reddening and the reddening vector.html)
+- [Extinction law and Rv](../../02_Zettel/Theory/Extinction law and Rv.html)
+- [Bulge CMD complications](../../02_Zettel/Theory/Bulge CMD complications.html)
+- [Photometric chromosome maps](../../02_Zettel/Theory/Photometric chromosome maps.html)
+- [Multiple populations in GCs discovery](../../02_Zettel/Theory/Multiple populations in GCs discovery.html)
+- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.html)

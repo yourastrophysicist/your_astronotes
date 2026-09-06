@@ -46,12 +46,12 @@ a Riemannian manifold has only Euclidean-like distances; no concept of past / fu
 
 ## see also
 
-- [Coordinate transformations and tensors](../../02_Zettel/Theory/Coordinate transformations and tensors.md)
-- [Locally inertial frame](../../02_Zettel/Theory/Locally inertial frame.md)
-- [Christoffel symbols](../../02_Zettel/Theory/Christoffel symbols.md)
+- [Coordinate transformations and tensors](../../02_Zettel/Theory/Coordinate transformations and tensors.html)
+- [Locally inertial frame](../../02_Zettel/Theory/Locally inertial frame.html)
+- [Christoffel symbols](../../02_Zettel/Theory/Christoffel symbols.html)
 - 03_Zettel/Theory/Robertson-Walker metric
-- [FLRW metric](../../02_Zettel/Theory/FLRW metric.md)
-- [Schwarzschild metric](../../02_Zettel/Theory/Schwarzschild metric.md)
-- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.md)
-- [Ch 1 - Gravity is Geometry](../../01_Literature/Book/Baumann GR/Ch 1 - Gravity is Geometry.md)
-- [Ch 2 - Some Differential Geometry](../../01_Literature/Book/Baumann GR/Ch 2 - Some Differential Geometry.md)
+- [FLRW metric](../../02_Zettel/Theory/FLRW metric.html)
+- [Schwarzschild metric](../../02_Zettel/Theory/Schwarzschild metric.html)
+- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.html)
+- [Ch 1 - Gravity is Geometry](../../01_Literature/Book/Baumann GR/Ch 1 - Gravity is Geometry.html)
+- [Ch 2 - Some Differential Geometry](../../01_Literature/Book/Baumann GR/Ch 2 - Some Differential Geometry.html)

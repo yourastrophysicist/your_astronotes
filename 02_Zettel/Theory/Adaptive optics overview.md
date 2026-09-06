@@ -3,7 +3,7 @@ layout: default
 title: "Adaptive optics overview"
 ---
 
-**adaptive optics (AO)** is the technique of measuring the atmospheric wavefront distortion in real time and correcting it with a deformable mirror, *before* the science detector sees the image. it is what breaks the seeing limit ([Atmospheric seeing](../../02_Zettel/Theory/interf/Atmospheric seeing.md)) and recovers (most of) the diffraction limit at large telescopes.
+**adaptive optics (AO)** is the technique of measuring the atmospheric wavefront distortion in real time and correcting it with a deformable mirror, *before* the science detector sees the image. it is what breaks the seeing limit ([Atmospheric seeing](../../02_Zettel/Theory/interf/Atmospheric seeing.html)) and recovers (most of) the diffraction limit at large telescopes.
 
 ## the components
 
@@ -74,9 +74,9 @@ the next generation telescopes (ELT $39$ m, GMT $25$ m, TMT $30$ m) all rely on 
 
 ## see also
 
-- [Atmospheric seeing](../../02_Zettel/Theory/interf/Atmospheric seeing.md)
-- [Earth atmosphere for observations](../../02_Zettel/Theory/Earth atmosphere for observations.md)
-- [Telescope resolving power](../../02_Zettel/Theory/Telescope resolving power.md)
+- [Atmospheric seeing](../../02_Zettel/Theory/interf/Atmospheric seeing.html)
+- [Earth atmosphere for observations](../../02_Zettel/Theory/Earth atmosphere for observations.html)
+- [Telescope resolving power](../../02_Zettel/Theory/Telescope resolving power.html)
 - [Point Spread Function (PSF)](../../02_Zettel/Theory/Point Spread Function (PSF).md)
-- [Rayleigh criterion](../../02_Zettel/Theory/Rayleigh criterion.md)
-- [Observational_Astrophysics_MOC](../../00_Atlas/Observational_Astrophysics_MOC.md)
+- [Rayleigh criterion](../../02_Zettel/Theory/Rayleigh criterion.html)
+- [Observational_Astrophysics_MOC](../../00_Atlas/Observational_Astrophysics_MOC.html)

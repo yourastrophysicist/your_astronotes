@@ -62,16 +62,16 @@ a key fact: matter dominated **before** recombination ($z_{\rm eq} \approx 3400 
 
 ## see also
 
-- [Cosmic eras](../../02_Zettel/Theory/Cosmic eras.md)
-- [Equation of state and density scaling](../../02_Zettel/Theory/Equation of state and density scaling.md)
-- [Continuity equation](../../02_Zettel/Theory/Continuity equation.md)
-- [Friedmann equations](../../02_Zettel/Theory/Friedmann equations.md)
-- [FLRW metric](../../02_Zettel/Theory/FLRW metric.md)
-- [Cosmic_inventory_overview](../../02_Zettel/Theory/Cosmic_inventory_overview.md)
-- [Brief thermal history](../../02_Zettel/Theory/Brief thermal history.md)
-- [Saha equation and recombination](../../02_Zettel/Theory/Saha equation and recombination.md)
-- [Photon decoupling and CMB](../../02_Zettel/Theory/Photon decoupling and CMB.md)
-- [Matter power spectrum and BAO](../../02_Zettel/Theory/Matter power spectrum and BAO.md)
+- [Cosmic eras](../../02_Zettel/Theory/Cosmic eras.html)
+- [Equation of state and density scaling](../../02_Zettel/Theory/Equation of state and density scaling.html)
+- [Continuity equation](../../02_Zettel/Theory/Continuity equation.html)
+- [Friedmann equations](../../02_Zettel/Theory/Friedmann equations.html)
+- [FLRW metric](../../02_Zettel/Theory/FLRW metric.html)
+- [Cosmic_inventory_overview](../../02_Zettel/Theory/Cosmic_inventory_overview.html)
+- [Brief thermal history](../../02_Zettel/Theory/Brief thermal history.html)
+- [Saha equation and recombination](../../02_Zettel/Theory/Saha equation and recombination.html)
+- [Photon decoupling and CMB](../../02_Zettel/Theory/Photon decoupling and CMB.html)
+- [Matter power spectrum and BAO](../../02_Zettel/Theory/Matter power spectrum and BAO.html)
 - Q20 - matter plus radiation universe
-- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.md)
-- [Ch 7 - Cosmology](../../01_Literature/Book/Baumann GR/Ch 7 - Cosmology.md)
+- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.html)
+- [Ch 7 - Cosmology](../../01_Literature/Book/Baumann GR/Ch 7 - Cosmology.html)

@@ -5,7 +5,7 @@ title: "Ch 4 - Spacetime Curvature"
 
 # Baumann Ch 4, Spacetime Curvature
 
-up: [Baumann GR](../../../01_Literature/Book/Baumann GR/Baumann GR.md) · [General_Relativity_MOC](../../../00_Atlas/General_Relativity_MOC.md)
+up: [Baumann GR](../../../01_Literature/Book/Baumann GR/Baumann GR.html) · [General_Relativity_MOC](../../../00_Atlas/General_Relativity_MOC.html)
 
 *the chapter where curvature finally becomes a precise physical concept. covariant derivative, parallel transport, Killing vectors, the Riemann tensor as the path-dependence of parallel transport, and geodesic deviation as the physical meaning of curvature, the relative acceleration of nearby free particles.*
 
@@ -65,7 +65,7 @@ so **the connection $\Gamma$ in GR is the gauge potential of "local Lorentz symm
 
 ### the Levi-Civita connection, why GR uses one specific $\Gamma$
 
-so far, the connection $\Gamma$ is not unique. there are many possible $\Gamma$'s on a given manifold. GR picks a specific one, the [Levi-Civita connection](../../../02_Zettel/Theory/Levi-Civita connection.md), by demanding two extra properties:
+so far, the connection $\Gamma$ is not unique. there are many possible $\Gamma$'s on a given manifold. GR picks a specific one, the [Levi-Civita connection](../../../02_Zettel/Theory/Levi-Civita connection.html), by demanding two extra properties:
 
 1. **torsion-free**: $\Gamma^\alpha{}_{\mu\nu} = \Gamma^\alpha{}_{\nu\mu}$
 2. **metric-compatible**: $\nabla_\lambda g_{\mu\nu} = 0$
@@ -211,7 +211,7 @@ with all indices down ($R_{\mu\nu\rho\sigma} = g_{\mu\lambda}R^\lambda{}_{\nu\rh
 
 these symmetries reduce the components dramatically. starting from $4^4 = 256$ in 4D, we get only **20 independent components**. in 3D, **6**. in 2D, **only 1**.
 
-> the count $20$ is the same number as the $20$ leftover physical $\partial^2 g$ components in a local inertial frame from [Ch 2 - Some Differential Geometry](../../../01_Literature/Book/Baumann GR/Ch 2 - Some Differential Geometry.md) § 2.5. that is **not** a coincidence: it is the deep statement of "curvature equals second derivatives of the metric, modulo coordinate gauge."
+> the count $20$ is the same number as the $20$ leftover physical $\partial^2 g$ components in a local inertial frame from [Ch 2 - Some Differential Geometry](../../../01_Literature/Book/Baumann GR/Ch 2 - Some Differential Geometry.html) § 2.5. that is **not** a coincidence: it is the deep statement of "curvature equals second derivatives of the metric, modulo coordinate gauge."
 
 ### Bianchi differential identity
 
@@ -219,7 +219,7 @@ a fifth identity, this one differential:
 
 $$\boxed{\,\nabla_\lambda R_{\mu\nu\rho\sigma} + \nabla_\mu R_{\nu\lambda\rho\sigma} + \nabla_\nu R_{\lambda\mu\rho\sigma} = 0\,}$$
 
-the GR analog of $\partial_\lambda F_{\mu\nu} + \partial_\mu F_{\nu\lambda} + \partial_\nu F_{\lambda\mu} = 0$ in EM. this is what forces the conservation of the Einstein tensor, $\nabla^\mu G_{\mu\nu} = 0$, which we will need in [Ch 5 - The Einstein Equation](../../../01_Literature/Book/Baumann GR/Ch 5 - The Einstein Equation.md).
+the GR analog of $\partial_\lambda F_{\mu\nu} + \partial_\mu F_{\nu\lambda} + \partial_\nu F_{\lambda\mu} = 0$ in EM. this is what forces the conservation of the Einstein tensor, $\nabla^\mu G_{\mu\nu} = 0$, which we will need in [Ch 5 - The Einstein Equation](../../../01_Literature/Book/Baumann GR/Ch 5 - The Einstein Equation.html).
 
 ### Ricci tensor and scalar
 
@@ -292,11 +292,11 @@ if i had to compress chapter 4 into a paragraph for the oral:
 
 ## connections
 
-- [General_Relativity_MOC](../../../00_Atlas/General_Relativity_MOC.md)
-- [Baumann GR](../../../01_Literature/Book/Baumann GR/Baumann GR.md)
-- [Christoffel symbols](../../../02_Zettel/Theory/Christoffel symbols.md) · [Levi-Civita connection](../../../02_Zettel/Theory/Levi-Civita connection.md) · [Covariant derivative](../../../02_Zettel/Theory/Covariant derivative.md) · [Metric compatibility](../../../02_Zettel/Theory/Metric compatibility.md) · [Parallel transport](../../../02_Zettel/Theory/Parallel transport.md)
-- [Riemann tensor](../../../02_Zettel/Theory/Riemann tensor.md) · [Riemann tensor symmetries](../../../02_Zettel/Theory/Riemann tensor symmetries.md) · [Counting Riemann components](../../../02_Zettel/Theory/Counting Riemann components.md) · [Ricci tensor and scalar](../../../02_Zettel/Theory/Ricci tensor and scalar.md) · [Bianchi identities](../../../02_Zettel/Theory/Bianchi identities.md) · [Geodesic deviation](../../../02_Zettel/Theory/Geodesic deviation.md)
-- [Killing vectors and conserved quantities](../../../02_Zettel/Theory/Killing vectors and conserved quantities.md)
+- [General_Relativity_MOC](../../../00_Atlas/General_Relativity_MOC.html)
+- [Baumann GR](../../../01_Literature/Book/Baumann GR/Baumann GR.html)
+- [Christoffel symbols](../../../02_Zettel/Theory/Christoffel symbols.html) · [Levi-Civita connection](../../../02_Zettel/Theory/Levi-Civita connection.html) · [Covariant derivative](../../../02_Zettel/Theory/Covariant derivative.html) · [Metric compatibility](../../../02_Zettel/Theory/Metric compatibility.html) · [Parallel transport](../../../02_Zettel/Theory/Parallel transport.html)
+- [Riemann tensor](../../../02_Zettel/Theory/Riemann tensor.html) · [Riemann tensor symmetries](../../../02_Zettel/Theory/Riemann tensor symmetries.html) · [Counting Riemann components](../../../02_Zettel/Theory/Counting Riemann components.html) · [Ricci tensor and scalar](../../../02_Zettel/Theory/Ricci tensor and scalar.html) · [Bianchi identities](../../../02_Zettel/Theory/Bianchi identities.html) · [Geodesic deviation](../../../02_Zettel/Theory/Geodesic deviation.html)
+- [Killing vectors and conserved quantities](../../../02_Zettel/Theory/Killing vectors and conserved quantities.html)
 - Q3 - covariant derivatives in polar · Q4 - metric compatibility on the 2-sphere · Q5 - Riemann for 1+1 expanding metric · Q6 - Riemann for conformally flat 1+1 · Q7 - geodesics on the 2-sphere · Q8 - null geodesic in static metric · Q17 - Riemann R_0x0x for a TT plane wave
-- previous: [Ch 3 - A First Look at Geodesics](../../../01_Literature/Book/Baumann GR/Ch 3 - A First Look at Geodesics.md)
-- next: [Ch 5 - The Einstein Equation](../../../01_Literature/Book/Baumann GR/Ch 5 - The Einstein Equation.md)
+- previous: [Ch 3 - A First Look at Geodesics](../../../01_Literature/Book/Baumann GR/Ch 3 - A First Look at Geodesics.html)
+- next: [Ch 5 - The Einstein Equation](../../../01_Literature/Book/Baumann GR/Ch 5 - The Einstein Equation.html)

@@ -11,7 +11,7 @@ in cosmology, the Jeans criterion determines which scales of density perturbatio
 
 ## the linear perturbation equation with pressure
 
-starting from the perturbed fluid equations (see [Linear evolution of perturbations in expanding universe](../../02_Zettel/Theory/Linear evolution of perturbations in expanding universe.md)), with sound speed $c_s$:
+starting from the perturbed fluid equations (see [Linear evolution of perturbations in expanding universe](../../02_Zettel/Theory/Linear evolution of perturbations in expanding universe.html)), with sound speed $c_s$:
 
 $$\ddot\delta + 2H\dot\delta + \left(\frac{c_s^2 k^2}{a^2} - 4\pi G\bar\rho\right)\delta = 0$$
 
@@ -45,7 +45,7 @@ masses larger than $M_J$ collapse; smaller masses oscillate.
 
 ### baryons before recombination
 
-before recombination, baryons + photons form a tightly coupled fluid with sound speed $c_s \sim c/\sqrt 3$. the Jeans length is huge — much larger than the Hubble radius. so **no baryon perturbation can grow before recombination**: they all oscillate as acoustic waves. this is the origin of the CMB peak structure and BAO. → see [Matter power spectrum and BAO](../../02_Zettel/Theory/Matter power spectrum and BAO.md) and [Photon decoupling and CMB](../../02_Zettel/Theory/Photon decoupling and CMB.md).
+before recombination, baryons + photons form a tightly coupled fluid with sound speed $c_s \sim c/\sqrt 3$. the Jeans length is huge — much larger than the Hubble radius. so **no baryon perturbation can grow before recombination**: they all oscillate as acoustic waves. this is the origin of the CMB peak structure and BAO. → see [Matter power spectrum and BAO](../../02_Zettel/Theory/Matter power spectrum and BAO.html) and [Photon decoupling and CMB](../../02_Zettel/Theory/Photon decoupling and CMB.html).
 
 ### baryons after recombination
 
@@ -58,7 +58,7 @@ so baryon perturbations on essentially all galactic scales can grow. they fall i
 
 cold dark matter has $c_s \approx 0$ (or extremely small velocity dispersion), so $\lambda_J \approx 0$. **all CDM scales are above the Jeans length** at all times — CDM can grow on all scales as soon as it dominates the energy density (after matter-radiation equality at $z_{\rm eq} \sim 3300$). this is exactly what enables structure formation.
 
-→ this is also why dark matter must be cold: hot dark matter has a large Jeans length, washing out small-scale structure (free-streaming). see [Hot vs cold dark matter](../../02_Zettel/Theory/Hot vs cold dark matter.md).
+→ this is also why dark matter must be cold: hot dark matter has a large Jeans length, washing out small-scale structure (free-streaming). see [Hot vs cold dark matter](../../02_Zettel/Theory/Hot vs cold dark matter.html).
 
 ---
 
@@ -81,16 +81,16 @@ $$M_J \sim \left(\frac{k_BT}{Gm_p}\right)^{3/2} \rho^{-1/2}$$
 - HII regions: $T \sim 10^4$ K, $\rho \sim 10^{-24}$ g/cm$^3$, $M_J \sim 10^7 M_\odot$
 - intracluster gas: $T \sim 10^7$ K, $\rho \sim 10^{-26}$ g/cm$^3$, $M_J \sim 10^{15} M_\odot$ (cluster scale)
 
-so the Jeans analysis is also the foundation of star formation theory: clouds with $M > M_J$ collapse and form stars (see [Jeans theory and protostellar formation](../../02_Zettel/Theory/Jeans theory and protostellar formation.md)).
+so the Jeans analysis is also the foundation of star formation theory: clouds with $M > M_J$ collapse and form stars (see [Jeans theory and protostellar formation](../../02_Zettel/Theory/Jeans theory and protostellar formation.html)).
 
 ---
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Linear evolution of perturbations in expanding universe](../../02_Zettel/Theory/Linear evolution of perturbations in expanding universe.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Linear evolution of perturbations in expanding universe](../../02_Zettel/Theory/Linear evolution of perturbations in expanding universe.html)
 - [Growth factor D(z)](../../02_Zettel/Theory/Growth factor D(z).md)
-- [Hot vs cold dark matter](../../02_Zettel/Theory/Hot vs cold dark matter.md)
-- [Photon decoupling and CMB](../../02_Zettel/Theory/Photon decoupling and CMB.md)
-- [Matter power spectrum and BAO](../../02_Zettel/Theory/Matter power spectrum and BAO.md)
-- [Spherical collapse](../../02_Zettel/Theory/Spherical collapse.md)
+- [Hot vs cold dark matter](../../02_Zettel/Theory/Hot vs cold dark matter.html)
+- [Photon decoupling and CMB](../../02_Zettel/Theory/Photon decoupling and CMB.html)
+- [Matter power spectrum and BAO](../../02_Zettel/Theory/Matter power spectrum and BAO.html)
+- [Spherical collapse](../../02_Zettel/Theory/Spherical collapse.html)

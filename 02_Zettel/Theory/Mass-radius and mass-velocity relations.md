@@ -5,7 +5,7 @@ title: "Mass-radius and mass-velocity relations"
 
 # mass-radius and mass-velocity relations
 
-up: [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.md) · Scaling relations in ellipticals · [Tully-Fisher relation](../../02_Zettel/Theory/Tully-Fisher relation.md)
+up: [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.html) · Scaling relations in ellipticals · [Tully-Fisher relation](../../02_Zettel/Theory/Tully-Fisher relation.html)
 
 ## early-type galaxy scaling relations
 
@@ -38,5 +38,5 @@ Late-type galaxies (spirals) are governed by angular momentum and rotational equ
 
 ## connections
 
-- kinematics: [Ionized gas kinematics](../../02_Zettel/Theory/Ionized gas kinematics.md), [Stellar kinematics measurements](../../02_Zettel/Theory/Stellar kinematics measurements.md)
-- dark matter: [Dark matter rotation curves](../../02_Zettel/Theory/Dark matter rotation curves.md), [Modified gravity alternatives](../../02_Zettel/Theory/Modified gravity alternatives.md)
+- kinematics: [Ionized gas kinematics](../../02_Zettel/Theory/Ionized gas kinematics.html), [Stellar kinematics measurements](../../02_Zettel/Theory/Stellar kinematics measurements.html)
+- dark matter: [Dark matter rotation curves](../../02_Zettel/Theory/Dark matter rotation curves.html), [Modified gravity alternatives](../../02_Zettel/Theory/Modified gravity alternatives.html)

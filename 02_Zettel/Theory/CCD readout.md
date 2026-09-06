@@ -111,4 +111,4 @@ $$E_{ph} \xrightarrow{w = 3.68~\text{eV}} N_e = E_{ph}/w \xrightarrow{Q=N_e \cdo
 The energy resolution (FWHM in eV) is:
 $$\text{FWHM} = 2.35w\sqrt{\sigma_{RON}^2 + F \cdot \frac{E_{ph}}{w}}$$
 
-where $F = 0.115$ is the Fano factor for silicon — see [CCDs for X-rays](../../02_Zettel/Theory/CCDs for X-rays.md)
+where $F = 0.115$ is the Fano factor for silicon — see [CCDs for X-rays](../../02_Zettel/Theory/CCDs for X-rays.html)

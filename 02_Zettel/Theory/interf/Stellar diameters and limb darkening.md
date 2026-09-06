@@ -89,8 +89,8 @@ a single star observation: 30-60 minutes.
 
 ## see also
 
-- [Fringe visibility and contrast](../../../02_Zettel/Theory/interf/Fringe visibility and contrast.md)
-- [Van Cittert-Zernike theorem](../../../02_Zettel/Theory/interf/Van Cittert-Zernike theorem.md)
-- [CHARA array](../../../02_Zettel/Theory/interf/CHARA array.md)
-- [Stellar surface imaging](../../../02_Zettel/Theory/interf/Stellar surface imaging.md)
-- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Fringe visibility and contrast](../../../02_Zettel/Theory/interf/Fringe visibility and contrast.html)
+- [Van Cittert-Zernike theorem](../../../02_Zettel/Theory/interf/Van Cittert-Zernike theorem.html)
+- [CHARA array](../../../02_Zettel/Theory/interf/CHARA array.html)
+- [Stellar surface imaging](../../../02_Zettel/Theory/interf/Stellar surface imaging.html)
+- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.html)

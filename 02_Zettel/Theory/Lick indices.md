@@ -50,10 +50,10 @@ still, indices remain useful for low-SNR or low-resolution data where full-spect
 
 ## see also
 
-- [Stellar population synthesis](../../02_Zettel/Theory/Stellar population synthesis.md)
-- [Age-metallicity degeneracy](../../02_Zettel/Theory/Age-metallicity degeneracy.md)
-- [Single stellar population SSP](../../02_Zettel/Theory/Single stellar population SSP.md)
-- [SPS code families](../../02_Zettel/Theory/SPS code families.md)
-- [Stellar spectra and spectral classification](../../02_Zettel/Theory/Stellar spectra and spectral classification.md)
-- [Metallicity and chemical evolution](../../02_Zettel/Theory/Metallicity and chemical evolution.md)
-- [SED fitting basics](../../02_Zettel/Theory/SED fitting basics.md)
+- [Stellar population synthesis](../../02_Zettel/Theory/Stellar population synthesis.html)
+- [Age-metallicity degeneracy](../../02_Zettel/Theory/Age-metallicity degeneracy.html)
+- [Single stellar population SSP](../../02_Zettel/Theory/Single stellar population SSP.html)
+- [SPS code families](../../02_Zettel/Theory/SPS code families.html)
+- [Stellar spectra and spectral classification](../../02_Zettel/Theory/Stellar spectra and spectral classification.html)
+- [Metallicity and chemical evolution](../../02_Zettel/Theory/Metallicity and chemical evolution.html)
+- [SED fitting basics](../../02_Zettel/Theory/SED fitting basics.html)

@@ -104,9 +104,9 @@ a Michelson laboratory interferometer with one moving mirror sweeps OPD by twice
 
 ## see also
 
-- [Light waves and the EM spectrum](../../../02_Zettel/Theory/interf/Light waves and the EM spectrum.md)
-- [Superposition and interference](../../../02_Zettel/Theory/interf/Superposition and interference.md)
-- [Fresnel-Arago laws](../../../02_Zettel/Theory/interf/Fresnel-Arago laws.md)
-- [Wavefront-division interferometers](../../../02_Zettel/Theory/interf/Wavefront-division interferometers.md)
-- [Amplitude-division interferometers](../../../02_Zettel/Theory/Amplitude-division interferometers.md)
-- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Light waves and the EM spectrum](../../../02_Zettel/Theory/interf/Light waves and the EM spectrum.html)
+- [Superposition and interference](../../../02_Zettel/Theory/interf/Superposition and interference.html)
+- [Fresnel-Arago laws](../../../02_Zettel/Theory/interf/Fresnel-Arago laws.html)
+- [Wavefront-division interferometers](../../../02_Zettel/Theory/interf/Wavefront-division interferometers.html)
+- [Amplitude-division interferometers](../../../02_Zettel/Theory/Amplitude-division interferometers.html)
+- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.html)

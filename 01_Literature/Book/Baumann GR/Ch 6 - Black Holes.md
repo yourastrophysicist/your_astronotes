@@ -5,7 +5,7 @@ title: "Ch 6 - Black Holes"
 
 # Baumann Ch 6, Black Holes
 
-up: [Baumann GR](../../../01_Literature/Book/Baumann GR/Baumann GR.md) · [General_Relativity_MOC](../../../00_Atlas/General_Relativity_MOC.md)
+up: [Baumann GR](../../../01_Literature/Book/Baumann GR/Baumann GR.html) · [General_Relativity_MOC](../../../00_Atlas/General_Relativity_MOC.html)
 
 *the longest chapter and the most fun. what really happens at the Schwarzschild horizon, why $r = 2GM$ is not a "real" singularity, how the spacetime extends past the horizon (Eddington-Finkelstein, Kruskal), and what charged and rotating black holes look like (Reissner-Nordstrom, Kerr). this chapter does not appear directly in the 20 exam questions, but it is the place oral examiners love to dig.*
 
@@ -253,11 +253,11 @@ if i had to compress chapter 6 into a paragraph for the oral:
 
 ## connections
 
-- [General_Relativity_MOC](../../../00_Atlas/General_Relativity_MOC.md)
-- [Baumann GR](../../../01_Literature/Book/Baumann GR/Baumann GR.md)
-- [Schwarzschild metric](../../../02_Zettel/Theory/Schwarzschild metric.md) · [Schwarzschild horizon](../../../02_Zettel/Theory/Schwarzschild horizon.md) · [Eddington-Finkelstein and Kruskal](../../../02_Zettel/Theory/Eddington-Finkelstein and Kruskal.md) · [Birkhoff theorem](../../../02_Zettel/Theory/Birkhoff theorem.md)
+- [General_Relativity_MOC](../../../00_Atlas/General_Relativity_MOC.html)
+- [Baumann GR](../../../01_Literature/Book/Baumann GR/Baumann GR.html)
+- [Schwarzschild metric](../../../02_Zettel/Theory/Schwarzschild metric.html) · [Schwarzschild horizon](../../../02_Zettel/Theory/Schwarzschild horizon.html) · [Eddington-Finkelstein and Kruskal](../../../02_Zettel/Theory/Eddington-Finkelstein and Kruskal.html) · [Birkhoff theorem](../../../02_Zettel/Theory/Birkhoff theorem.html)
 - Q11 - selected Schwarzschild Christoffels through Q14 - photon trajectory and impact parameter (this chapter is the deep cuts on Schwarzschild)
-- [Photon sphere](../../../02_Zettel/Theory/Photon sphere.md) · [Radial infall](../../../02_Zettel/Theory/Radial infall.md)
+- [Photon sphere](../../../02_Zettel/Theory/Photon sphere.html) · [Radial infall](../../../02_Zettel/Theory/Radial infall.html)
 - Hawking radiation (extension)
-- previous: [Ch 5 - The Einstein Equation](../../../01_Literature/Book/Baumann GR/Ch 5 - The Einstein Equation.md)
-- next: [Ch 7 - Cosmology](../../../01_Literature/Book/Baumann GR/Ch 7 - Cosmology.md)
+- previous: [Ch 5 - The Einstein Equation](../../../01_Literature/Book/Baumann GR/Ch 5 - The Einstein Equation.html)
+- next: [Ch 7 - Cosmology](../../../01_Literature/Book/Baumann GR/Ch 7 - Cosmology.html)

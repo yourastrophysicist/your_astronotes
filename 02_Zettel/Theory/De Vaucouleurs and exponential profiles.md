@@ -7,7 +7,7 @@ two **canonical surface-brightness profiles** in galaxy astronomy:
 - **de Vaucouleurs $r^{1/4}$ law**: ellipticals + bulges.
 - **exponential disk profile**: spiral disks.
 
-both are special cases of the more general [Sersic profile](../../02_Zettel/Theory/Sersic profile.md).
+both are special cases of the more general [Sersic profile](../../02_Zettel/Theory/Sersic profile.html).
 
 ## de Vaucouleurs $r^{1/4}$ profile
 
@@ -72,10 +72,10 @@ modern Sérsic fits with $n$ as a free parameter give better fits, with $n$ vary
 
 ## see also
 
-- [Sersic profile](../../02_Zettel/Theory/Sersic profile.md)
-- [Hubble morphological sequence](../../02_Zettel/Theory/Hubble morphological sequence.md)
-- [Galaxy size-luminosity relation](../../02_Zettel/Theory/Galaxy size-luminosity relation.md)
-- [CAS galaxy classification](../../02_Zettel/Theory/CAS galaxy classification.md)
-- [Petrosian radius](../../02_Zettel/Theory/Petrosian radius.md)
-- [Galaxy mergers and SF](../../02_Zettel/Theory/Galaxy mergers and SF.md)
-- [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.md)
+- [Sersic profile](../../02_Zettel/Theory/Sersic profile.html)
+- [Hubble morphological sequence](../../02_Zettel/Theory/Hubble morphological sequence.html)
+- [Galaxy size-luminosity relation](../../02_Zettel/Theory/Galaxy size-luminosity relation.html)
+- [CAS galaxy classification](../../02_Zettel/Theory/CAS galaxy classification.html)
+- [Petrosian radius](../../02_Zettel/Theory/Petrosian radius.html)
+- [Galaxy mergers and SF](../../02_Zettel/Theory/Galaxy mergers and SF.html)
+- [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.html)

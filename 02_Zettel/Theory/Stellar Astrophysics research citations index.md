@@ -4,7 +4,7 @@ name: Stellar Astrophysics research citations index
 description: master list of all research papers cited in Antonino Milone's Stellar Astrophysics lectures at U Padova AY 2025/2026, organised by topic + lecture
 ---
 
-a master index of every research paper, survey, and project cited across Milone's 19 lectures. organised by **block + topic** to support exam recall ("which paper showed X?"). use as a lookup index alongside the [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.md).
+a master index of every research paper, survey, and project cited across Milone's 19 lectures. organised by **block + topic** to support exam recall ("which paper showed X?"). use as a lookup index alongside the [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.html).
 
 ---
 
@@ -241,9 +241,9 @@ these are the papers students should know cold for the exam:
 
 ## see also
 
-- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.md)
-- [Photometric chromosome maps](../../02_Zettel/Theory/Photometric chromosome maps.md)
-- [The Galactic Bulge](../../02_Zettel/Theory/The Galactic Bulge.md)
-- [Bulge microlensing surveys](../../02_Zettel/Theory/Bulge microlensing surveys.md)
-- [Multiple populations in GCs discovery](../../02_Zettel/Theory/Multiple populations in GCs discovery.md)
-- [Age-metallicity relation of Galactic GCs](../../02_Zettel/Theory/Age-metallicity relation of Galactic GCs.md)
+- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.html)
+- [Photometric chromosome maps](../../02_Zettel/Theory/Photometric chromosome maps.html)
+- [The Galactic Bulge](../../02_Zettel/Theory/The Galactic Bulge.html)
+- [Bulge microlensing surveys](../../02_Zettel/Theory/Bulge microlensing surveys.html)
+- [Multiple populations in GCs discovery](../../02_Zettel/Theory/Multiple populations in GCs discovery.html)
+- [Age-metallicity relation of Galactic GCs](../../02_Zettel/Theory/Age-metallicity relation of Galactic GCs.html)

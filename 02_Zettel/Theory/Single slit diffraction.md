@@ -25,15 +25,15 @@ narrower for wider slits, broader for narrower slits. classical Heisenberg-style
 
 every component of a spectrograph (slit, grating, camera) has a finite aperture, so each contributes a single-slit diffraction envelope to the final image. the slit at the focal plane sets the **slit-image** width on the detector; the dispersing element (grating) introduces the second envelope.
 
-in particular, the **grating envelope**: each individual groove of an N-slit grating diffracts as a single slit of width $b$, modulating the otherwise sharp grating maxima. the result is the [N-slit interference and gratings](../../02_Zettel/Theory/N-slit interference and gratings.md) pattern: sharp principal maxima sitting *under* a single-slit envelope.
+in particular, the **grating envelope**: each individual groove of an N-slit grating diffracts as a single slit of width $b$, modulating the otherwise sharp grating maxima. the result is the [N-slit interference and gratings](../../02_Zettel/Theory/N-slit interference and gratings.html) pattern: sharp principal maxima sitting *under* a single-slit envelope.
 
 this envelope is what makes the **blazed grating** useful: by tilting the groove face you shift the single-slit envelope to peak at a chosen order/wavelength, dramatically increasing throughput there.
 
 ## see also
 
-- [N-slit interference and gratings](../../02_Zettel/Theory/N-slit interference and gratings.md)
-- [Grating equation](../../02_Zettel/Theory/Grating equation.md)
-- [Blazed gratings](../../02_Zettel/Theory/Blazed gratings.md)
-- [Spectrograph design](../../02_Zettel/Theory/Spectrograph design.md)
-- [Dispersion and spectral resolution](../../02_Zettel/Theory/Dispersion and spectral resolution.md)
-- [Rayleigh criterion](../../02_Zettel/Theory/Rayleigh criterion.md)
+- [N-slit interference and gratings](../../02_Zettel/Theory/N-slit interference and gratings.html)
+- [Grating equation](../../02_Zettel/Theory/Grating equation.html)
+- [Blazed gratings](../../02_Zettel/Theory/Blazed gratings.html)
+- [Spectrograph design](../../02_Zettel/Theory/Spectrograph design.html)
+- [Dispersion and spectral resolution](../../02_Zettel/Theory/Dispersion and spectral resolution.html)
+- [Rayleigh criterion](../../02_Zettel/Theory/Rayleigh criterion.html)

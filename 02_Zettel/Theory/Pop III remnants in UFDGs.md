@@ -4,7 +4,7 @@ name: Pop III remnants in UFDGs
 description: ultra-faint dwarfs preserve pre-reionisation chemistry with CEMP-no stars and r-process signatures encoding Pop III nucleosynthesis
 ---
 
-ultra-faint dwarf galaxies are **chemically pristine fossils**. because their star formation shut off at $z \gtrsim 6$ (see [UFDG star formation histories](../../02_Zettel/Theory/UFDG star formation histories.md)), the stars in them today encode the nucleosynthetic output of the very first generations, including the chemical fingerprints of population iii stars (see [Stellar populations I II III](../../02_Zettel/Theory/Stellar populations I II III.md)).
+ultra-faint dwarf galaxies are **chemically pristine fossils**. because their star formation shut off at $z \gtrsim 6$ (see [UFDG star formation histories](../../02_Zettel/Theory/UFDG star formation histories.html)), the stars in them today encode the nucleosynthetic output of the very first generations, including the chemical fingerprints of population iii stars (see [Stellar populations I II III](../../02_Zettel/Theory/Stellar populations I II III.html)).
 
 **why UFDGs are good fossils**:
 
@@ -15,7 +15,7 @@ ultra-faint dwarf galaxies are **chemically pristine fossils**. because their st
 **CEMP-no stars** (carbon-enhanced metal-poor stars without s/r-process enhancement, $[\text{C/Fe}] > +0.7$, $[\text{Ba/Fe}] < 0$):
 
 - these are extremely metal-poor stars ($[\text{Fe/H}] < -3$) with very high carbon abundances. their pattern matches what high-mass pop iii faint supernovae are predicted to produce: a **mixing-and-fallback** explosion in which the iron-rich inner ejecta fall back onto the remnant black hole, leaving the outer carbon, nitrogen, oxygen, and lighter elements to enrich the surroundings.
-- CEMP-no stars are common in the milky way halo at very low $[\text{Fe/H}]$, and they are present in UFDGs (segue 1, bootes i) at higher fraction than in classical dSphs. this links the halo CEMP-no population to the dwarf-galaxy building blocks of the halo (see [Halo accretion from dwarf galaxies](../../02_Zettel/Theory/Halo accretion from dwarf galaxies.md)).
+- CEMP-no stars are common in the milky way halo at very low $[\text{Fe/H}]$, and they are present in UFDGs (segue 1, bootes i) at higher fraction than in classical dSphs. this links the halo CEMP-no population to the dwarf-galaxy building blocks of the halo (see [Halo accretion from dwarf galaxies](../../02_Zettel/Theory/Halo accretion from dwarf galaxies.html)).
 
 **r-process enhancement**:
 
@@ -27,8 +27,8 @@ ultra-faint dwarf galaxies are **chemically pristine fossils**. because their st
 
 **no s-process (or very little)**: AGB stars are slow producers of s-process elements with delay $\gtrsim 100$ Myr. UFDGs sometimes show evidence for one or two AGB enrichments, but in many cases no s-process at all, again consistent with a very short SFH.
 
-**connection to BBN**: the lowest-metallicity stars in UFDGs and the halo are also targets for **lithium spite plateau** measurements (the cosmological lithium problem). their atmospheres preserve close to BBN abundances of Li (see [Big Bang nucleosynthesis](../../02_Zettel/Theory/Big Bang nucleosynthesis.md)) modulo atomic-diffusion corrections, and any deviation from the spite plateau is a sensitive test of pop iii processes.
+**connection to BBN**: the lowest-metallicity stars in UFDGs and the halo are also targets for **lithium spite plateau** measurements (the cosmological lithium problem). their atmospheres preserve close to BBN abundances of Li (see [Big Bang nucleosynthesis](../../02_Zettel/Theory/Big Bang nucleosynthesis.html)) modulo atomic-diffusion corrections, and any deviation from the spite plateau is a sensitive test of pop iii processes.
 
 **summary**: UFDGs are the only known systems where individual pop iii nucleosynthesis events can be reverse-engineered from a small but coherent chemical inventory. they are essentially time capsules from before reionisation, and they constrain pop iii IMF, mixing-fallback yields, neutron-star merger rates, and the distribution of r-process events at very early times.
 
-see also [Ultra-faint dwarf galaxies definition](../../02_Zettel/Theory/Ultra-faint dwarf galaxies definition.md), [UFDG star formation histories](../../02_Zettel/Theory/UFDG star formation histories.md), [UFDG dark matter content](../../02_Zettel/Theory/UFDG dark matter content.md), [Halo accretion from dwarf galaxies](../../02_Zettel/Theory/Halo accretion from dwarf galaxies.md), [Stellar populations I II III](../../02_Zettel/Theory/Stellar populations I II III.md), [Big Bang nucleosynthesis](../../02_Zettel/Theory/Big Bang nucleosynthesis.md), [BBN_neutron_proton_ratio](../../02_Zettel/Theory/BBN_neutron_proton_ratio.md), [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.md)
+see also [Ultra-faint dwarf galaxies definition](../../02_Zettel/Theory/Ultra-faint dwarf galaxies definition.html), [UFDG star formation histories](../../02_Zettel/Theory/UFDG star formation histories.html), [UFDG dark matter content](../../02_Zettel/Theory/UFDG dark matter content.html), [Halo accretion from dwarf galaxies](../../02_Zettel/Theory/Halo accretion from dwarf galaxies.html), [Stellar populations I II III](../../02_Zettel/Theory/Stellar populations I II III.html), [Big Bang nucleosynthesis](../../02_Zettel/Theory/Big Bang nucleosynthesis.html), [BBN_neutron_proton_ratio](../../02_Zettel/Theory/BBN_neutron_proton_ratio.html), [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.html)

@@ -17,7 +17,7 @@ $$B_\lambda(T) = \frac{2hc^2}{\lambda^5}\,\frac{1}{e^{hc/\lambda k_BT} - 1}$$
 
 a one-parameter family: knowing $T$ tells you the entire spectrum. units: erg s$^{-1}$ cm$^{-2}$ sr$^{-1}$ Hz$^{-1}$ (or per cm$^{-1}$ if in $\lambda$).
 
-derivation in a few lines: at thermal equilibrium photons follow a Bose-Einstein distribution with $\mu = 0$, integrate over phase space (see [Cosmic_inventory_photons_derivation](../../02_Zettel/Theory/Cosmic_inventory_photons_derivation.md)).
+derivation in a few lines: at thermal equilibrium photons follow a Bose-Einstein distribution with $\mu = 0$, integrate over phase space (see [Cosmic_inventory_photons_derivation](../../02_Zettel/Theory/Cosmic_inventory_photons_derivation.html)).
 
 ### two limits of the Planck law
 
@@ -58,7 +58,7 @@ the Stefan-Boltzmann scaling $L \propto R^2 T^4$ is much steeper in $T$ than in 
 $$L \propto M^{3.5}$$
 (approximately, for $M > M_\odot$).
 
-so even though massive stars are rare ([Initial mass function](../../02_Zettel/Theory/Initial mass function.md)), their per-star luminosity is enormous. integrated over an SSP, the bolometric light is dominated by the most massive stars currently alive.
+so even though massive stars are rare ([Initial mass function](../../02_Zettel/Theory/Initial mass function.html)), their per-star luminosity is enormous. integrated over an SSP, the bolometric light is dominated by the most massive stars currently alive.
 
 at UV wavelengths the dominance is even more extreme: only the very hottest stars contribute, because the Wien tail of cooler stars is exponentially suppressed.
 
@@ -66,14 +66,14 @@ quantitative example for a Salpeter IMF in an SSP:
 - 1\% of stars by number have $M > 10\,M_\odot$.
 - but they contribute $\sim 50$ to $90$\% of the bolometric light (depending on age) and $\sim 99$\% of the UV light.
 
-this is the answer to obs3.pdf and the foundation of UV-based SFR tracers (see [UV SFR tracer](../../02_Zettel/Theory/UV SFR tracer.md)).
+this is the answer to obs3.pdf and the foundation of UV-based SFR tracers (see [UV SFR tracer](../../02_Zettel/Theory/UV SFR tracer.html)).
 
 ## see also
 
-- [Blackbody radiation and Stefan-Boltzmann](../../02_Zettel/Theory/Blackbody radiation and Stefan-Boltzmann.md)
-- [Cosmic_inventory_photons_derivation](../../02_Zettel/Theory/Cosmic_inventory_photons_derivation.md) — full derivation of $\rho_\gamma$ and $n_\gamma$
-- [Why hot massive stars dominate luminosity](../../02_Zettel/Theory/Why hot massive stars dominate luminosity.md)
-- [Initial mass function](../../02_Zettel/Theory/Initial mass function.md)
-- [Stellar scaling relations](../../02_Zettel/Theory/Stellar scaling relations.md)
-- [Bolometric correction and effective temperature](../../02_Zettel/Theory/Bolometric correction and effective temperature.md)
-- [Specific intensity flux luminosity](../../02_Zettel/Theory/Specific intensity flux luminosity.md)
+- [Blackbody radiation and Stefan-Boltzmann](../../02_Zettel/Theory/Blackbody radiation and Stefan-Boltzmann.html)
+- [Cosmic_inventory_photons_derivation](../../02_Zettel/Theory/Cosmic_inventory_photons_derivation.html) — full derivation of $\rho_\gamma$ and $n_\gamma$
+- [Why hot massive stars dominate luminosity](../../02_Zettel/Theory/Why hot massive stars dominate luminosity.html)
+- [Initial mass function](../../02_Zettel/Theory/Initial mass function.html)
+- [Stellar scaling relations](../../02_Zettel/Theory/Stellar scaling relations.html)
+- [Bolometric correction and effective temperature](../../02_Zettel/Theory/Bolometric correction and effective temperature.html)
+- [Specific intensity flux luminosity](../../02_Zettel/Theory/Specific intensity flux luminosity.html)

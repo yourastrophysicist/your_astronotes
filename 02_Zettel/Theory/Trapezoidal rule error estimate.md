@@ -94,8 +94,8 @@ so for periodic integrands, plain trapezoidal *beats Simpson's rule* at large $N
 
 ## see also
 
-- [Trapezoidal rule](../../02_Zettel/Theory/Trapezoidal rule.md)
-- [Simpson's rule](../../02_Zettel/Theory/Simpson's rule.md)
-- [Truncation error and order of accuracy](../../02_Zettel/Theory/Truncation error and order of accuracy.md)
-- [Built-in scipy integrators](../../02_Zettel/Theory/Built-in scipy integrators.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Trapezoidal rule](../../02_Zettel/Theory/Trapezoidal rule.html)
+- [Simpson's rule](../../02_Zettel/Theory/Simpson's rule.html)
+- [Truncation error and order of accuracy](../../02_Zettel/Theory/Truncation error and order of accuracy.html)
+- [Built-in scipy integrators](../../02_Zettel/Theory/Built-in scipy integrators.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

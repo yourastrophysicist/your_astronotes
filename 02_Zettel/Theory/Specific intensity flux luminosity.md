@@ -14,7 +14,7 @@ units: erg s$^{-1}$ cm$^{-2}$ sr$^{-1}$ Hz$^{-1}$.
 
 the most fundamental: it specifies the radiation field at a point in a direction at a frequency. crucially, **$I_\nu$ is conserved along a ray** in vacuum:
 $$\frac{dI_\nu}{ds} = 0\quad\text{in free space}$$
-this is why surface brightness of a resolved object is *independent of distance* in Euclidean space (in cosmology, redshift breaks this: $I_\nu^{\rm obs} = I_\nu^{\rm rest}/(1+z)^4$, see [Surface brightness dimming](../../02_Zettel/Theory/Surface brightness dimming.md)).
+this is why surface brightness of a resolved object is *independent of distance* in Euclidean space (in cosmology, redshift breaks this: $I_\nu^{\rm obs} = I_\nu^{\rm rest}/(1+z)^4$, see [Surface brightness dimming](../../02_Zettel/Theory/Surface brightness dimming.html)).
 
 ## flux $F_\nu$ and bolometric flux $F$
 
@@ -47,7 +47,7 @@ energy per unit volume per unit frequency:
 $$u_\nu = \frac{4\pi}{c} \langle I_\nu\rangle$$
 relevant for thermodynamic problems (CMB, stellar interiors). the bolometric:
 $$u = \int u_\nu\, d\nu$$
-for a blackbody, $u = aT^4$ with $a = 4\sigma_{SB}/c$. see [Blackbody radiation and Stefan-Boltzmann](../../02_Zettel/Theory/Blackbody radiation and Stefan-Boltzmann.md).
+for a blackbody, $u = aT^4$ with $a = 4\sigma_{SB}/c$. see [Blackbody radiation and Stefan-Boltzmann](../../02_Zettel/Theory/Blackbody radiation and Stefan-Boltzmann.html).
 
 ## a worked relation
 
@@ -69,10 +69,10 @@ $$F = \frac{L}{4\pi d^2} = \left(\frac{R}{d}\right)^2 \sigma_{SB} T^4$$
 
 ## see also
 
-- [Blackbody radiation and Stefan-Boltzmann](../../02_Zettel/Theory/Blackbody radiation and Stefan-Boltzmann.md)
-- [Magnitudes and photometric systems](../../02_Zettel/Theory/Magnitudes and photometric systems.md)
-- [Distance modulus](../../02_Zettel/Theory/Distance modulus.md)
-- [Luminosity distance](../../02_Zettel/Theory/Luminosity distance.md) — the cosmological generalisation
-- [Surface brightness dimming](../../02_Zettel/Theory/Surface brightness dimming.md)
-- [Electromagnetic radiation basics](../../02_Zettel/Theory/Electromagnetic radiation basics.md)
-- [Luminosity and Flux for -Instrumentations](../../02_Zettel/Theory/Luminosity and Flux for -Instrumentations.md)
+- [Blackbody radiation and Stefan-Boltzmann](../../02_Zettel/Theory/Blackbody radiation and Stefan-Boltzmann.html)
+- [Magnitudes and photometric systems](../../02_Zettel/Theory/Magnitudes and photometric systems.html)
+- [Distance modulus](../../02_Zettel/Theory/Distance modulus.html)
+- [Luminosity distance](../../02_Zettel/Theory/Luminosity distance.html) — the cosmological generalisation
+- [Surface brightness dimming](../../02_Zettel/Theory/Surface brightness dimming.html)
+- [Electromagnetic radiation basics](../../02_Zettel/Theory/Electromagnetic radiation basics.html)
+- [Luminosity and Flux for -Instrumentations](../../02_Zettel/Theory/Luminosity and Flux for -Instrumentations.html)

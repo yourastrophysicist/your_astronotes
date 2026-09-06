@@ -9,7 +9,7 @@ an iterative method for computing all eigenvalues and eigenvectors of a symmetri
 
 ## the idea in two sentences
 
-repeatedly factor $A_k = Q_k R_k$ via [QR decomposition](../../02_Zettel/Theory/QR decomposition.md), then form $A_{k+1} = R_k Q_k$ (the same factors swapped). for symmetric $A$, the matrices $A_k$ converge to a *diagonal* matrix whose entries are the eigenvalues. the cumulative product $V = Q_0 Q_1 Q_2 \cdots$ converges to the eigenvector matrix.
+repeatedly factor $A_k = Q_k R_k$ via [QR decomposition](../../02_Zettel/Theory/QR decomposition.html), then form $A_{k+1} = R_k Q_k$ (the same factors swapped). for symmetric $A$, the matrices $A_k$ converge to a *diagonal* matrix whose entries are the eigenvalues. the cumulative product $V = Q_0 Q_1 Q_2 \cdots$ converges to the eigenvector matrix.
 
 ## why it works
 
@@ -27,7 +27,7 @@ with $D$ diagonal, eigenvalues on the diagonal, and the columns of $V = \lim V_k
 ## the algorithm (textbook form)
 
 1. initialize $V \leftarrow I$, $A_1 \leftarrow A$
-2. factor $A_1 = Q R$ (one of the methods in [QR decomposition](../../02_Zettel/Theory/QR decomposition.md))
+2. factor $A_1 = Q R$ (one of the methods in [QR decomposition](../../02_Zettel/Theory/QR decomposition.html))
 3. compute $A_1 \leftarrow R Q$ and $V \leftarrow V Q$
 4. compute $D = V^T A V$
 5. if $D$ is sufficiently diagonal (off-diagonal elements below tolerance $\epsilon$), output $V$ and $D$. otherwise go to step 2
@@ -63,7 +63,7 @@ with both tricks: $O(N^3)$ total. this is what `np.linalg.eigh` (for symmetric) 
 
 ## connection to power iteration
 
-[Power iteration](../../02_Zettel/Theory/Power iteration.md) finds the *single* dominant eigenvalue and eigenvector. the QR algorithm is "power iteration on the whole eigenvector basis at once": each QR step is essentially performing one power iteration step on $N$ orthogonal subspaces simultaneously, with re-orthogonalization at every step.
+[Power iteration](../../02_Zettel/Theory/Power iteration.html) finds the *single* dominant eigenvalue and eigenvector. the QR algorithm is "power iteration on the whole eigenvector basis at once": each QR step is essentially performing one power iteration step on $N$ orthogonal subspaces simultaneously, with re-orthogonalization at every step.
 
 ## limitations
 
@@ -92,8 +92,8 @@ eigenvalues, eigenvectors = np.linalg.eig(A)     # general A, complex eigenvalue
 
 ## see also
 
-- [QR decomposition](../../02_Zettel/Theory/QR decomposition.md)
-- [Gram-Schmidt orthogonalization](../../02_Zettel/Theory/Gram-Schmidt orthogonalization.md)
-- [Power iteration](../../02_Zettel/Theory/Power iteration.md)
-- [Matrix diagonalization $A = VDV^T$](../../02_Zettel/Theory/Matrix diagonalization $A = VDV^T$.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [QR decomposition](../../02_Zettel/Theory/QR decomposition.html)
+- [Gram-Schmidt orthogonalization](../../02_Zettel/Theory/Gram-Schmidt orthogonalization.html)
+- [Power iteration](../../02_Zettel/Theory/Power iteration.html)
+- [Matrix diagonalization $A = VDV^T$](../../02_Zettel/Theory/Matrix diagonalization $A = VDV^T$.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

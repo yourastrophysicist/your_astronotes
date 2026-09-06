@@ -8,7 +8,7 @@ photometric standard stars are sources with **precisely calibrated magnitudes** 
 ## the role of standards
 
 every science image needs two corrections:
-1. **atmospheric extinction**: $k(\lambda) X$ subtracted (see [Atmospheric extinction](../../02_Zettel/Theory/interf/Atmospheric extinction.md)).
+1. **atmospheric extinction**: $k(\lambda) X$ subtracted (see [Atmospheric extinction](../../02_Zettel/Theory/interf/Atmospheric extinction.html)).
 2. **instrumental zeropoint**: the offset $Z$ in $m = -2.5\log_{10}(F_{\rm src}) + Z$.
 
 both come from observations of standard stars during the night.
@@ -69,10 +69,10 @@ on non-photometric nights (varying clouds), use **differential** photometry: sci
 
 ## see also
 
-- [Atmospheric extinction](../../02_Zettel/Theory/interf/Atmospheric extinction.md)
-- [Magnitudes and photometric systems](../../02_Zettel/Theory/Magnitudes and photometric systems.md)
-- [Filter systems and bandpasses](../../02_Zettel/Theory/Filter systems and bandpasses.md)
-- [Color indices](../../02_Zettel/Theory/Color indices.md)
-- [Aperture photometry](../../02_Zettel/Theory/Aperture photometry.md)
-- [CCD calibration steps](../../02_Zettel/Theory/CCD calibration steps.md)
-- [Survey resources for Obs Astro](../../02_Zettel/Theory/Survey resources for Obs Astro.md)
+- [Atmospheric extinction](../../02_Zettel/Theory/interf/Atmospheric extinction.html)
+- [Magnitudes and photometric systems](../../02_Zettel/Theory/Magnitudes and photometric systems.html)
+- [Filter systems and bandpasses](../../02_Zettel/Theory/Filter systems and bandpasses.html)
+- [Color indices](../../02_Zettel/Theory/Color indices.html)
+- [Aperture photometry](../../02_Zettel/Theory/Aperture photometry.html)
+- [CCD calibration steps](../../02_Zettel/Theory/CCD calibration steps.html)
+- [Survey resources for Obs Astro](../../02_Zettel/Theory/Survey resources for Obs Astro.html)

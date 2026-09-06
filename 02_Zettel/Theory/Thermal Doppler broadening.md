@@ -52,7 +52,7 @@ Gaussian FWHM = $2\sqrt{\ln 2}\,\Delta\nu_D \approx 1.665\,\Delta\nu_D$.
 in real stellar atmospheres there's also small-scale turbulence (microturbulence) which adds a velocity component:
 $$\Delta\nu_D = \frac{\nu_0}{c}\sqrt{\frac{2k_BT}{m} + v_{\rm turb}^2}$$
 
-so for cool-star metal lines, $v_{\rm turb} \sim 1$ to $5$ km/s exceeds the thermal width and dominates. see [Microturbulence](../../02_Zettel/Theory/Microturbulence.md).
+so for cool-star metal lines, $v_{\rm turb} \sim 1$ to $5$ km/s exceeds the thermal width and dominates. see [Microturbulence](../../02_Zettel/Theory/Microturbulence.html).
 
 ## thermometric use
 
@@ -65,11 +65,11 @@ caveat: must subtract macro/microturbulence and rotational broadening first.
 
 ## see also
 
-- [Line profile function phi nu](../../02_Zettel/Theory/Line profile function phi nu.md)
-- [Natural broadening Lorentzian](../../02_Zettel/Theory/Natural broadening Lorentzian.md)
-- [Microturbulence](../../02_Zettel/Theory/Microturbulence.md)
-- [Macroturbulence](../../02_Zettel/Theory/Macroturbulence.md)
-- [Voigt profile](../../02_Zettel/Theory/Voigt profile.md)
-- [Curve of growth](../../02_Zettel/Theory/Curve of growth.md)
-- [Equivalent width](../../02_Zettel/Theory/Equivalent width.md)
-- [Stellar v sin i from line shape](../../02_Zettel/Theory/Stellar v sin i from line shape.md)
+- [Line profile function phi nu](../../02_Zettel/Theory/Line profile function phi nu.html)
+- [Natural broadening Lorentzian](../../02_Zettel/Theory/Natural broadening Lorentzian.html)
+- [Microturbulence](../../02_Zettel/Theory/Microturbulence.html)
+- [Macroturbulence](../../02_Zettel/Theory/Macroturbulence.html)
+- [Voigt profile](../../02_Zettel/Theory/Voigt profile.html)
+- [Curve of growth](../../02_Zettel/Theory/Curve of growth.html)
+- [Equivalent width](../../02_Zettel/Theory/Equivalent width.html)
+- [Stellar v sin i from line shape](../../02_Zettel/Theory/Stellar v sin i from line shape.html)

@@ -5,7 +5,7 @@ title: "LF by morphology and SED"
 
 # LF by morphology and SED
 
-up: [Pablo_02_Statistical_properties_of_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.md) · [Schechter function](../../02_Zettel/Theory/Schechter function.md)
+up: [Pablo_02_Statistical_properties_of_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html) · [Schechter function](../../02_Zettel/Theory/Schechter function.html)
 
 ## the total LF hides a sum
 
@@ -33,7 +33,7 @@ Wolf 2003 used the COMBO-17 17-filter survey to assign each galaxy an SED templa
 - the **red sequence LF** at $z \sim 1$ has a brighter $L^*$ than today (massive ellipticals were brighter in the past per their stellar populations were younger)
 - the **blue cloud LF** has a roughly constant shape but the $\phi^*$ rises with $z$ (more star-forming galaxies in the past)
 
-this is the LF realization of the [Color bimodality of galaxies](../../02_Zettel/Theory/Color bimodality of galaxies.md) story: each subpopulation evolves independently.
+this is the LF realization of the [Color bimodality of galaxies](../../02_Zettel/Theory/Color bimodality of galaxies.html) story: each subpopulation evolves independently.
 
 ## sersic-index split
 
@@ -51,10 +51,10 @@ the Schechter parameters $(\phi^*, L^*, \alpha)$ are not "the LF parameters of t
 
 ## connections
 
-- baseline: [Schechter function](../../02_Zettel/Theory/Schechter function.md)
-- driver of the morphological split: [Galaxy color, density and morphology](../../02_Zettel/Theory/Galaxy color, density and morphology.md)
-- counts version of the same: [Driver 1998 counts by morphology](../../02_Zettel/Theory/Driver 1998 counts by morphology.md)
-- bright-end excess at high $z$: [Double power-law modified Schechter](../../02_Zettel/Theory/Double power-law modified Schechter.md)
+- baseline: [Schechter function](../../02_Zettel/Theory/Schechter function.html)
+- driver of the morphological split: [Galaxy color, density and morphology](../../02_Zettel/Theory/Galaxy color, density and morphology.html)
+- counts version of the same: [Driver 1998 counts by morphology](../../02_Zettel/Theory/Driver 1998 counts by morphology.html)
+- bright-end excess at high $z$: [Double power-law modified Schechter](../../02_Zettel/Theory/Double power-law modified Schechter.html)
 
 ## key references
 

@@ -109,7 +109,7 @@ the formalism above is *scalar* — it ignores polarization. for polarized sourc
 - four Stokes parameters describe the source polarization
 - a polarized interferometer measures these four
 
-most of the course is scalar. polarization-aware interferometry shows up in [Polarization in interferometry](../../../02_Zettel/Theory/interf/Polarization in interferometry.md).
+most of the course is scalar. polarization-aware interferometry shows up in [Polarization in interferometry](../../../02_Zettel/Theory/interf/Polarization in interferometry.html).
 
 ## the role of bandwidth (again)
 
@@ -125,8 +125,8 @@ source: local study diagram generated from the standard mutual-coherence geometr
 
 ## see also
 
-- [Spatial coherence](../../../02_Zettel/Theory/interf/Spatial coherence.md)
-- [Temporal coherence](../../../02_Zettel/Theory/interf/Temporal coherence.md)
-- [Van Cittert-Zernike theorem](../../../02_Zettel/Theory/interf/Van Cittert-Zernike theorem.md)
-- [Fringe visibility and contrast](../../../02_Zettel/Theory/interf/Fringe visibility and contrast.md)
-- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Spatial coherence](../../../02_Zettel/Theory/interf/Spatial coherence.html)
+- [Temporal coherence](../../../02_Zettel/Theory/interf/Temporal coherence.html)
+- [Van Cittert-Zernike theorem](../../../02_Zettel/Theory/interf/Van Cittert-Zernike theorem.html)
+- [Fringe visibility and contrast](../../../02_Zettel/Theory/interf/Fringe visibility and contrast.html)
+- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.html)

@@ -55,11 +55,11 @@ physically: $\nabla^\mu G_{\mu\nu} = 0$ has 4 components and matches the 4 compo
 
 ## see also
 
-- [Einstein equations](../../02_Zettel/Theory/Einstein equations.md)
-- [Bianchi identities](../../02_Zettel/Theory/Bianchi identities.md)
-- [Stress-energy tensor](../../02_Zettel/Theory/Stress-energy tensor.md)
-- [Ricci tensor and scalar](../../02_Zettel/Theory/Ricci tensor and scalar.md)
-- [Riemann tensor](../../02_Zettel/Theory/Riemann tensor.md)
-- [Trace-reversed Einstein equations](../../02_Zettel/Theory/Trace-reversed Einstein equations.md)
-- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.md)
-- [Ch 5 - The Einstein Equation](../../01_Literature/Book/Baumann GR/Ch 5 - The Einstein Equation.md)
+- [Einstein equations](../../02_Zettel/Theory/Einstein equations.html)
+- [Bianchi identities](../../02_Zettel/Theory/Bianchi identities.html)
+- [Stress-energy tensor](../../02_Zettel/Theory/Stress-energy tensor.html)
+- [Ricci tensor and scalar](../../02_Zettel/Theory/Ricci tensor and scalar.html)
+- [Riemann tensor](../../02_Zettel/Theory/Riemann tensor.html)
+- [Trace-reversed Einstein equations](../../02_Zettel/Theory/Trace-reversed Einstein equations.html)
+- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.html)
+- [Ch 5 - The Einstein Equation](../../01_Literature/Book/Baumann GR/Ch 5 - The Einstein Equation.html)

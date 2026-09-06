@@ -5,7 +5,7 @@ title: "Theory of speckle interferometry"
 
 # Theory of speckle interferometry
 
-the formal derivation that justifies [Labeyrie's](../../../02_Zettel/Theory/interf/Speckle interferometry.md) technique. shows that the *power spectrum* of speckle frames recovers the *power spectrum* of the source at all spatial frequencies up to the diffraction limit, despite the seeing.
+the formal derivation that justifies [Labeyrie's](../../../02_Zettel/Theory/interf/Speckle interferometry.html) technique. shows that the *power spectrum* of speckle frames recovers the *power spectrum* of the source at all spatial frequencies up to the diffraction limit, despite the seeing.
 
 ## the model
 
@@ -96,12 +96,12 @@ ambiguities multiply. speckle interferometry alone gives a *family* of consisten
 
 speckle interferometry recovers spatial frequencies up to $u_{\max} = D/\lambda$ — the *full diffraction limit* of the telescope. this is the *same* as a perfectly diffraction-limited telescope or AO with Strehl 1.
 
-so for *symmetric* sources, speckle interferometry achieves diffraction-limited resolution. for asymmetric sources, modifications ([triple correlation](../../../02_Zettel/Theory/interf/Bispectrum and triple correlation.md), Knox-Thompson) are needed.
+so for *symmetric* sources, speckle interferometry achieves diffraction-limited resolution. for asymmetric sources, modifications ([triple correlation](../../../02_Zettel/Theory/interf/Bispectrum and triple correlation.html), Knox-Thompson) are needed.
 
 ## see also
 
-- [Speckle interferometry](../../../02_Zettel/Theory/interf/Speckle interferometry.md)
-- [Aperture masking](../../../02_Zettel/Theory/interf/Aperture masking.md)
-- [Speckle imaging algorithms](../../../02_Zettel/Theory/interf/Speckle imaging algorithms.md)
-- [Bispectrum and triple correlation](../../../02_Zettel/Theory/interf/Bispectrum and triple correlation.md)
-- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Speckle interferometry](../../../02_Zettel/Theory/interf/Speckle interferometry.html)
+- [Aperture masking](../../../02_Zettel/Theory/interf/Aperture masking.html)
+- [Speckle imaging algorithms](../../../02_Zettel/Theory/interf/Speckle imaging algorithms.html)
+- [Bispectrum and triple correlation](../../../02_Zettel/Theory/interf/Bispectrum and triple correlation.html)
+- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.html)

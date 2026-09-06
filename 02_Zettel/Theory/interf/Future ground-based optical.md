@@ -43,7 +43,7 @@ ongoing operations of LBT's interferometric mode:
 
 ### proposed Carlina hypertelescope
 
-Antoine Labeyrie's hypertelescope concept (see [Hypertelescope](../../../02_Zettel/Theory/interf/Hypertelescope.md)). a sparse array on a parabolic surface with cable-suspended focus. proposed since the 1990s, prototype tested at Caussols. full-scale never built.
+Antoine Labeyrie's hypertelescope concept (see [Hypertelescope](../../../02_Zettel/Theory/interf/Hypertelescope.html)). a sparse array on a parabolic surface with cable-suspended focus. proposed since the 1990s, prototype tested at Caussols. full-scale never built.
 
 still pursued conceptually for sub-mas direct imaging at AU scales (resolved exo-Earths around nearby stars).
 
@@ -97,8 +97,8 @@ these motivate space-based alternatives.
 
 ## see also
 
-- [VLTI Very Large Telescope Interferometer](../../../02_Zettel/Theory/interf/VLTI Very Large Telescope Interferometer.md)
-- [CHARA array](../../../02_Zettel/Theory/interf/CHARA array.md)
-- [Hypertelescope](../../../02_Zettel/Theory/interf/Hypertelescope.md)
-- [Future space-based](../../../02_Zettel/Theory/interf/Future space-based.md)
-- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [VLTI Very Large Telescope Interferometer](../../../02_Zettel/Theory/interf/VLTI Very Large Telescope Interferometer.html)
+- [CHARA array](../../../02_Zettel/Theory/interf/CHARA array.html)
+- [Hypertelescope](../../../02_Zettel/Theory/interf/Hypertelescope.html)
+- [Future space-based](../../../02_Zettel/Theory/interf/Future space-based.html)
+- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.html)

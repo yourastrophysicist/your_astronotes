@@ -11,7 +11,7 @@ in unresolved populations the only thing measurable is integrated light, so star
 
 **unobscured SFR**, $\sim 100$ Myr timescale.
 
-logic: very hot massive stars dominate UV emission (see [Why hot massive stars dominate luminosity](../../02_Zettel/Theory/Why hot massive stars dominate luminosity.md)). their lifetime sets the timescale. calibration (Kennicutt 1998, Madau 2014):
+logic: very hot massive stars dominate UV emission (see [Why hot massive stars dominate luminosity](../../02_Zettel/Theory/Why hot massive stars dominate luminosity.html)). their lifetime sets the timescale. calibration (Kennicutt 1998, Madau 2014):
 $$\mathrm{SFR} = 1.4 \times 10^{-28}\, L_\nu(\mathrm{UV})\,M_\odot/\text{yr}$$
 with $L_\nu$ in erg/s/Hz at $\sim 2000$ Å.
 
@@ -20,7 +20,7 @@ with $L_\nu$ in erg/s/Hz at $\sim 2000$ Å.
 - direct $A_{UV}$ from $L_{IR}$ in dust energy balance.
 - spectral fitting.
 
-see [UV SFR tracer](../../02_Zettel/Theory/UV SFR tracer.md).
+see [UV SFR tracer](../../02_Zettel/Theory/UV SFR tracer.html).
 
 ### H$\alpha$ emission ($6563$ Å)
 
@@ -30,9 +30,9 @@ logic: O stars produce ionising photons, which photoionise the surrounding HII r
 $$\mathrm{SFR} = 7.9 \times 10^{-42}\, L(H\alpha)\,M_\odot/\text{yr}$$
 (Kennicutt 1998).
 
-shorter timescale than UV (only the very most massive stars contribute) and **less dust-sensitive** but still affected, corrected via [Balmer decrement](../../02_Zettel/Theory/Balmer decrement.md).
+shorter timescale than UV (only the very most massive stars contribute) and **less dust-sensitive** but still affected, corrected via [Balmer decrement](../../02_Zettel/Theory/Balmer decrement.html).
 
-see [H-alpha SFR tracer](../../02_Zettel/Theory/H-alpha SFR tracer.md).
+see [H-alpha SFR tracer](../../02_Zettel/Theory/H-alpha SFR tracer.html).
 
 ### IR continuum ($\lambda > 8\,\mu$m, total $L_{IR}$)
 
@@ -44,7 +44,7 @@ with $L_{IR}$ in erg/s integrated over $8$ to $1000\,\mu$m.
 
 captures the **dust-obscured** contribution missed by UV. for ULIRGs, $\sim 99\%$ of SF is obscured.
 
-see [IR SFR tracer](../../02_Zettel/Theory/IR SFR tracer.md).
+see [IR SFR tracer](../../02_Zettel/Theory/IR SFR tracer.html).
 
 ## the energy-balance combination
 
@@ -61,7 +61,7 @@ equivalent to assuming dust energy conservation: every UV photon either escapes 
 - **X-ray luminosity** (HMXB + diffuse): SFR-tracking via young high-mass X-ray binaries. metallicity-dependent.
 - **nebular continuum** (Lyman edge, etc.): used at high $z$.
 
-see [Other SFR tracer lines](../../02_Zettel/Theory/Other SFR tracer lines.md) and [SFR tracer comparison](../../02_Zettel/Theory/SFR tracer comparison.md).
+see [Other SFR tracer lines](../../02_Zettel/Theory/Other SFR tracer lines.html) and [SFR tracer comparison](../../02_Zettel/Theory/SFR tracer comparison.html).
 
 ## key tradeoffs
 
@@ -76,7 +76,7 @@ see [Other SFR tracer lines](../../02_Zettel/Theory/Other SFR tracer lines.md) a
 
 ## consequences for cosmic SFH
 
-the [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.md) (Madau-Dickinson plot) is a synthesis of all these tracers across redshift bins, with each anchoring at different $z$:
+the [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.html) (Madau-Dickinson plot) is a synthesis of all these tracers across redshift bins, with each anchoring at different $z$:
 - low $z$: H$\alpha$ + UV.
 - $z = 1$ to $3$: [OII], UV (rest-frame).
 - $z > 3$: UV (rest-frame), Lyman-$\alpha$, ALMA [CII].
@@ -85,16 +85,16 @@ different tracers should give the same $\rho_{SFR}$ at fixed $z$; agreement vali
 
 ## see also
 
-- [UV SFR tracer](../../02_Zettel/Theory/UV SFR tracer.md)
-- [H-alpha SFR tracer](../../02_Zettel/Theory/H-alpha SFR tracer.md)
-- [IR SFR tracer](../../02_Zettel/Theory/IR SFR tracer.md)
-- [Lyman alpha SFR tracer](../../02_Zettel/Theory/Lyman alpha SFR tracer.md)
-- [Radio SFR tracer](../../02_Zettel/Theory/Radio SFR tracer.md)
-- [X-ray SFR tracer](../../02_Zettel/Theory/X-ray SFR tracer.md)
-- [OII SFR tracer](../../02_Zettel/Theory/OII SFR tracer.md)
-- [SFR tracer comparison](../../02_Zettel/Theory/SFR tracer comparison.md)
-- [Stellar population synthesis](../../02_Zettel/Theory/Stellar population synthesis.md)
-- [Star formation history of a population](../../02_Zettel/Theory/Star formation history of a population.md)
-- [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.md)
-- [Balmer decrement](../../02_Zettel/Theory/Balmer decrement.md)
-- [Dust attenuation in synthetic populations](../../02_Zettel/Theory/Dust attenuation in synthetic populations.md)
+- [UV SFR tracer](../../02_Zettel/Theory/UV SFR tracer.html)
+- [H-alpha SFR tracer](../../02_Zettel/Theory/H-alpha SFR tracer.html)
+- [IR SFR tracer](../../02_Zettel/Theory/IR SFR tracer.html)
+- [Lyman alpha SFR tracer](../../02_Zettel/Theory/Lyman alpha SFR tracer.html)
+- [Radio SFR tracer](../../02_Zettel/Theory/Radio SFR tracer.html)
+- [X-ray SFR tracer](../../02_Zettel/Theory/X-ray SFR tracer.html)
+- [OII SFR tracer](../../02_Zettel/Theory/OII SFR tracer.html)
+- [SFR tracer comparison](../../02_Zettel/Theory/SFR tracer comparison.html)
+- [Stellar population synthesis](../../02_Zettel/Theory/Stellar population synthesis.html)
+- [Star formation history of a population](../../02_Zettel/Theory/Star formation history of a population.html)
+- [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.html)
+- [Balmer decrement](../../02_Zettel/Theory/Balmer decrement.html)
+- [Dust attenuation in synthetic populations](../../02_Zettel/Theory/Dust attenuation in synthetic populations.html)

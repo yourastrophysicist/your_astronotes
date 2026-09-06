@@ -13,7 +13,7 @@ $$\vec j_i = \vec\ell_i + \vec s_i, \quad j_i = \ell_i \pm 1/2$$
 then sum the individual $\vec j_i$ to get the total:
 $$\vec J = \sum_i \vec j_i$$
 
-contrast with [Russell-Saunders LS coupling](../../02_Zettel/Theory/Russell-Saunders LS coupling.md) where you first sum all $\ell$s, then all $s$s, then couple.
+contrast with [Russell-Saunders LS coupling](../../02_Zettel/Theory/Russell-Saunders LS coupling.html) where you first sum all $\ell$s, then all $s$s, then couple.
 
 ## why it differs
 
@@ -42,8 +42,8 @@ most stellar spectroscopy is in the LS regime. but a few important cases:
 
 ## see also
 
-- [Russell-Saunders LS coupling](../../02_Zettel/Theory/Russell-Saunders LS coupling.md)
-- [Quantum numbers and atomic states](../../02_Zettel/Theory/Quantum numbers and atomic states.md)
-- [Atomic term symbols](../../02_Zettel/Theory/Atomic term symbols.md)
-- [Selection rules](../../02_Zettel/Theory/Selection rules.md)
-- [Forbidden vs permitted vs semiforbidden transitions](../../02_Zettel/Theory/Forbidden vs permitted vs semiforbidden transitions.md)
+- [Russell-Saunders LS coupling](../../02_Zettel/Theory/Russell-Saunders LS coupling.html)
+- [Quantum numbers and atomic states](../../02_Zettel/Theory/Quantum numbers and atomic states.html)
+- [Atomic term symbols](../../02_Zettel/Theory/Atomic term symbols.html)
+- [Selection rules](../../02_Zettel/Theory/Selection rules.html)
+- [Forbidden vs permitted vs semiforbidden transitions](../../02_Zettel/Theory/Forbidden vs permitted vs semiforbidden transitions.html)

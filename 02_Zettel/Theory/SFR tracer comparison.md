@@ -5,7 +5,7 @@ title: "SFR tracer comparison"
 
 # SFR tracer comparison
 
-up: [Pablo_03_Star_formation_in_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.md)
+up: [Pablo_03_Star_formation_in_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html)
 
 ## the question
 
@@ -59,10 +59,10 @@ if no IR, use UV + IRX-β. if no β, use Balmer-decrement-corrected Hα. in all 
 
 ## connections
 
-- individual tracers: [UV SFR tracer](../../02_Zettel/Theory/UV SFR tracer.md), [H-alpha SFR tracer](../../02_Zettel/Theory/H-alpha SFR tracer.md), [IR SFR tracer](../../02_Zettel/Theory/IR SFR tracer.md), [Radio SFR tracer](../../02_Zettel/Theory/Radio SFR tracer.md), [X-ray SFR tracer](../../02_Zettel/Theory/X-ray SFR tracer.md)
-- IRX-β cross-check: [UV slope and IRX-beta relation](../../02_Zettel/Theory/UV slope and IRX-beta relation.md)
-- extinction: [Dust attenuation and extinction curves](../../02_Zettel/Theory/Dust attenuation and extinction curves.md)
-- timescale issues: [Galaxy time scales](../../02_Zettel/Theory/Galaxy time scales.md)
+- individual tracers: [UV SFR tracer](../../02_Zettel/Theory/UV SFR tracer.html), [H-alpha SFR tracer](../../02_Zettel/Theory/H-alpha SFR tracer.html), [IR SFR tracer](../../02_Zettel/Theory/IR SFR tracer.html), [Radio SFR tracer](../../02_Zettel/Theory/Radio SFR tracer.html), [X-ray SFR tracer](../../02_Zettel/Theory/X-ray SFR tracer.html)
+- IRX-β cross-check: [UV slope and IRX-beta relation](../../02_Zettel/Theory/UV slope and IRX-beta relation.html)
+- extinction: [Dust attenuation and extinction curves](../../02_Zettel/Theory/Dust attenuation and extinction curves.html)
+- timescale issues: [Galaxy time scales](../../02_Zettel/Theory/Galaxy time scales.html)
 
 ## key references
 

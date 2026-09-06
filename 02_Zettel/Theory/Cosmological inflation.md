@@ -3,7 +3,7 @@ layout: default
 title: "Cosmological inflation"
 ---
 
-**cosmological inflation** is a brief period of nearly-exponential expansion in the very early universe ($t \sim 10^{-32}$ s), driving the universe through $\sim 60$ e-folds. proposed by Guth (1981) + Linde + Steinhardt + Albrecht to solve the **horizon, flatness, and monopole problems** of the Hot Big Bang. (companion: [Inflation overview](../../02_Zettel/Theory/Inflation overview.md) for additional context.)
+**cosmological inflation** is a brief period of nearly-exponential expansion in the very early universe ($t \sim 10^{-32}$ s), driving the universe through $\sim 60$ e-folds. proposed by Guth (1981) + Linde + Steinhardt + Albrecht to solve the **horizon, flatness, and monopole problems** of the Hot Big Bang. (companion: [Inflation overview](../../02_Zettel/Theory/Inflation overview.html) for additional context.)
 
 ## the problems inflation solves
 
@@ -68,13 +68,13 @@ these are some of the deepest open questions in physics.
 
 ## see also
 
-- [Inflation overview](../../02_Zettel/Theory/Inflation overview.md)
-- [Old vs new vs chaotic inflation, slow-roll](../../02_Zettel/Theory/Old vs new vs chaotic inflation, slow-roll.md)
-- [Inflaton scalar field dynamics](../../02_Zettel/Theory/Inflaton scalar field dynamics.md)
-- [Phase transitions](../../02_Zettel/Theory/interf/Phase transitions.md)
-- [CMB power spectrum](../../02_Zettel/Theory/CMB power spectrum.md)
-- [Polarization E and B modes](../../02_Zettel/Theory/Polarization E and B modes.md)
-- [ΛCDM current parameters](../../02_Zettel/Theory/ΛCDM current parameters.md)
-- [Standard model problems](../../02_Zettel/Theory/Standard model problems.md)
-- [Brief thermal history](../../02_Zettel/Theory/Brief thermal history.md)
-- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md)
+- [Inflation overview](../../02_Zettel/Theory/Inflation overview.html)
+- [Old vs new vs chaotic inflation, slow-roll](../../02_Zettel/Theory/Old vs new vs chaotic inflation, slow-roll.html)
+- [Inflaton scalar field dynamics](../../02_Zettel/Theory/Inflaton scalar field dynamics.html)
+- [Phase transitions](../../02_Zettel/Theory/interf/Phase transitions.html)
+- [CMB power spectrum](../../02_Zettel/Theory/CMB power spectrum.html)
+- [Polarization E and B modes](../../02_Zettel/Theory/Polarization E and B modes.html)
+- [ΛCDM current parameters](../../02_Zettel/Theory/ΛCDM current parameters.html)
+- [Standard model problems](../../02_Zettel/Theory/Standard model problems.html)
+- [Brief thermal history](../../02_Zettel/Theory/Brief thermal history.html)
+- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html)

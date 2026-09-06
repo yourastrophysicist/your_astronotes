@@ -8,9 +8,9 @@ title: "Local thermodynamic equilibrium LTE"
 ## what LTE buys you
 
 with LTE:
-- level populations from [Boltzmann equation in spectroscopy](../../02_Zettel/Theory/Boltzmann equation in spectroscopy.md) at local $T$.
-- ionisation populations from [Saha ionisation equation](../../02_Zettel/Theory/Saha ionisation equation.md) at local $T$.
-- source function $S_\nu = B_\nu(T)$ at local $T$ ([Source function](../../02_Zettel/Theory/Source function.md)).
+- level populations from [Boltzmann equation in spectroscopy](../../02_Zettel/Theory/Boltzmann equation in spectroscopy.html) at local $T$.
+- ionisation populations from [Saha ionisation equation](../../02_Zettel/Theory/Saha ionisation equation.html) at local $T$.
+- source function $S_\nu = B_\nu(T)$ at local $T$ ([Source function](../../02_Zettel/Theory/Source function.html)).
 - emission and absorption coefficients self-consistent.
 
 so the only "input" for the radiative-transfer problem is the temperature profile $T(\tau)$, which itself is constrained by global energy conservation. enormous simplification.
@@ -57,12 +57,12 @@ so the rates of both directions are equal. this is what enforces $S_\nu = B_\nu$
 
 ## see also
 
-- [Boltzmann equation in spectroscopy](../../02_Zettel/Theory/Boltzmann equation in spectroscopy.md)
-- [Saha ionisation equation](../../02_Zettel/Theory/Saha ionisation equation.md)
-- [Source function](../../02_Zettel/Theory/Source function.md)
-- [Equation of radiative transfer](../../02_Zettel/Theory/Equation of radiative transfer.md)
-- [Statistical equilibrium equations](../../02_Zettel/Theory/Statistical equilibrium equations.md)
-- [Two-level atom](../../02_Zettel/Theory/Two-level atom.md)
-- [Optical depth](../../02_Zettel/Theory/Optical depth.md)
-- [Stellar atmosphere structure](../../02_Zettel/Theory/Stellar atmosphere structure.md)
-- [Thermal equilibrium in the early universe](../../02_Zettel/Theory/Thermal equilibrium in the early universe.md) — cosmological-scale LTE
+- [Boltzmann equation in spectroscopy](../../02_Zettel/Theory/Boltzmann equation in spectroscopy.html)
+- [Saha ionisation equation](../../02_Zettel/Theory/Saha ionisation equation.html)
+- [Source function](../../02_Zettel/Theory/Source function.html)
+- [Equation of radiative transfer](../../02_Zettel/Theory/Equation of radiative transfer.html)
+- [Statistical equilibrium equations](../../02_Zettel/Theory/Statistical equilibrium equations.html)
+- [Two-level atom](../../02_Zettel/Theory/Two-level atom.html)
+- [Optical depth](../../02_Zettel/Theory/Optical depth.html)
+- [Stellar atmosphere structure](../../02_Zettel/Theory/Stellar atmosphere structure.html)
+- [Thermal equilibrium in the early universe](../../02_Zettel/Theory/Thermal equilibrium in the early universe.html) — cosmological-scale LTE

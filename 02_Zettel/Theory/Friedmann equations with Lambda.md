@@ -73,7 +73,7 @@ $$\Omega_i \equiv \frac{\rho_i}{\rho_{\rm crit}}, \qquad \rho_{\rm crit} = \frac
 
 with Planck 2018: $\Omega_m \approx 0.315$, $\Omega_\Lambda \approx 0.685$, $\Omega_K \approx 0.001 \pm 0.002$, $\Omega_\gamma \approx 5 \times 10^{-5}$.
 
-→ see [Density parameters and flatness](../../02_Zettel/Theory/Density parameters and flatness.md) for the full treatment.
+→ see [Density parameters and flatness](../../02_Zettel/Theory/Density parameters and flatness.html) for the full treatment.
 
 ---
 
@@ -91,11 +91,11 @@ at $z \to 0$: $H \to H_0$. at $z \to \infty$: $H \to H_0 \sqrt{\Omega_m}(1+z)^{3
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Newtonian Friedmann derivation](../../02_Zettel/Theory/Newtonian Friedmann derivation.md) — the classical version, parallel to this
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Newtonian Friedmann derivation](../../02_Zettel/Theory/Newtonian Friedmann derivation.html) — the classical version, parallel to this
 - 03_Zettel/Theory/Robertson-Walker metric
-- [Friedmann models](../../02_Zettel/Theory/Friedmann models.md)
-- [Density parameters and flatness](../../02_Zettel/Theory/Density parameters and flatness.md)
-- [Hubble constant and deceleration parameter](../../02_Zettel/Theory/Hubble constant and deceleration parameter.md)
-- [Cosmic_inventory_dark_energy](../../02_Zettel/Theory/Cosmic_inventory_dark_energy.md)
-- [Baumann_reference](../../02_Zettel/Theory/Baumann_reference.md) — chapter 1.3 has the full GR derivation
+- [Friedmann models](../../02_Zettel/Theory/Friedmann models.html)
+- [Density parameters and flatness](../../02_Zettel/Theory/Density parameters and flatness.html)
+- [Hubble constant and deceleration parameter](../../02_Zettel/Theory/Hubble constant and deceleration parameter.html)
+- [Cosmic_inventory_dark_energy](../../02_Zettel/Theory/Cosmic_inventory_dark_energy.html)
+- [Baumann_reference](../../02_Zettel/Theory/Baumann_reference.html) — chapter 1.3 has the full GR derivation

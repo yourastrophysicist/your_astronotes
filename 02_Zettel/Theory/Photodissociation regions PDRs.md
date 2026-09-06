@@ -73,9 +73,9 @@ typical:
 ## see also
 
 - Strömgren sphere
-- [H I regions](../../02_Zettel/Theory/H I regions.md)
-- [Ionisation stratification](../../02_Zettel/Theory/Ionisation stratification.md)
-- [Interstellar medium components and gas cycle](../../02_Zettel/Theory/Interstellar medium components and gas cycle.md)
-- [Photoionisation balance](../../02_Zettel/Theory/Photoionisation balance.md)
+- [H I regions](../../02_Zettel/Theory/H I regions.html)
+- [Ionisation stratification](../../02_Zettel/Theory/Ionisation stratification.html)
+- [Interstellar medium components and gas cycle](../../02_Zettel/Theory/Interstellar medium components and gas cycle.html)
+- [Photoionisation balance](../../02_Zettel/Theory/Photoionisation balance.html)
 - Cosmic infrared background — sometimes confused
-- [Forbidden lines](../../02_Zettel/Theory/Forbidden lines.md)
+- [Forbidden lines](../../02_Zettel/Theory/Forbidden lines.html)

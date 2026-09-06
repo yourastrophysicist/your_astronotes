@@ -171,8 +171,8 @@ rbf = RBFInterpolator(points, values, kernel='thin_plate_spline')
 
 ## see also
 
-- [Linear interpolation](../../02_Zettel/Theory/Linear interpolation.md)
-- [Cubic spline interpolation](../../02_Zettel/Theory/Cubic spline interpolation.md)
-- [Lagrange polynomial interpolation](../../02_Zettel/Theory/Lagrange polynomial interpolation.md)
-- [Two-dimensional interpolation](../../02_Zettel/Theory/Two-dimensional interpolation.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Linear interpolation](../../02_Zettel/Theory/Linear interpolation.html)
+- [Cubic spline interpolation](../../02_Zettel/Theory/Cubic spline interpolation.html)
+- [Lagrange polynomial interpolation](../../02_Zettel/Theory/Lagrange polynomial interpolation.html)
+- [Two-dimensional interpolation](../../02_Zettel/Theory/Two-dimensional interpolation.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

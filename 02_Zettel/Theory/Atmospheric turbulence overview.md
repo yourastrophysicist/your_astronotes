@@ -48,7 +48,7 @@ with $C_n^2$ the **structure parameter**. integrated along the line of sight, th
 
 $$D_\phi(r) = 6.88 (r/r_0)^{5/3}$$
 
-with $r_0$ the Fried parameter (see [Kolmogorov turbulence](../../02_Zettel/Theory/interf/Kolmogorov turbulence.md) and [Fried parameter $r_0$](../../02_Zettel/Theory/interf/Fried parameter $r_0$.md)).
+with $r_0$ the Fried parameter (see [Kolmogorov turbulence](../../02_Zettel/Theory/interf/Kolmogorov turbulence.html) and [Fried parameter $r_0$](../../02_Zettel/Theory/interf/Fried parameter $r_0$.html)).
 
 this 5/3 power-law is the *defining* mathematical signature of Kolmogorov turbulence. it has been verified at every well-characterized observatory.
 
@@ -105,11 +105,11 @@ scintillation is usually a few percent of total flux but can rise to tens of per
 
 ## see also
 
-- [Kolmogorov turbulence](../../02_Zettel/Theory/interf/Kolmogorov turbulence.md)
-- [Structure function and correlation function](../../02_Zettel/Theory/interf/Structure function and correlation function.md)
-- [Fried parameter $r_0$](../../02_Zettel/Theory/interf/Fried parameter $r_0$.md)
-- [Isoplanatic patch](../../02_Zettel/Theory/interf/Isoplanatic patch.md)
-- [Frozen turbulence and Taylor hypothesis](../../02_Zettel/Theory/interf/Frozen turbulence and Taylor hypothesis.md)
-- [Scintillation and twinkling](../../02_Zettel/Theory/interf/Scintillation and twinkling.md)
-- [Adaptive optics](../../02_Zettel/Theory/interf/Adaptive optics.md)
-- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Kolmogorov turbulence](../../02_Zettel/Theory/interf/Kolmogorov turbulence.html)
+- [Structure function and correlation function](../../02_Zettel/Theory/interf/Structure function and correlation function.html)
+- [Fried parameter $r_0$](../../02_Zettel/Theory/interf/Fried parameter $r_0$.html)
+- [Isoplanatic patch](../../02_Zettel/Theory/interf/Isoplanatic patch.html)
+- [Frozen turbulence and Taylor hypothesis](../../02_Zettel/Theory/interf/Frozen turbulence and Taylor hypothesis.html)
+- [Scintillation and twinkling](../../02_Zettel/Theory/interf/Scintillation and twinkling.html)
+- [Adaptive optics](../../02_Zettel/Theory/interf/Adaptive optics.html)
+- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.html)

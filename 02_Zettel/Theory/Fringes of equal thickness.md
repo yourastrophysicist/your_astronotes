@@ -32,13 +32,13 @@ each bright fringe corresponds to a specific thickness $d_m = m\lambda/(2 n_f)$.
 
 simple cases:
 - **wedge** (thickness varies linearly): fringes are *straight, parallel lines*
-- **circular gap** (e.g. between a flat and a curved lens): fringes are *circles* — these are [Newton's rings](../../02_Zettel/Theory/interf/Newton's rings.md)
+- **circular gap** (e.g. between a flat and a curved lens): fringes are *circles* — these are [Newton's rings](../../02_Zettel/Theory/interf/Newton's rings.html)
 - **soap bubble**: thickness varies in complex curves; fringes follow contour curves
 - **oil film on water**: thickness depends on local film age; the iridescent colors are equal-thickness fringes in white light
 
 ## the relation to other fringes
 
-distinction from [Fringes of equal inclination](../../02_Zettel/Theory/interf/Fringes of equal inclination.md):
+distinction from [Fringes of equal inclination](../../02_Zettel/Theory/interf/Fringes of equal inclination.html):
 - equal-thickness: thickness varies, angle is fixed → contours follow thickness
 - equal-inclination: thickness fixed, angle varies → rings follow angle
 
@@ -81,8 +81,8 @@ this is *the* modern method for optical-element characterization. used in:
 
 ## see also
 
-- [Optical path difference OPD](../../02_Zettel/Theory/interf/Optical path difference OPD.md)
-- [Fringes of equal inclination](../../02_Zettel/Theory/interf/Fringes of equal inclination.md)
-- [Newton's rings](../../02_Zettel/Theory/interf/Newton's rings.md)
-- [Amplitude-division interferometers](../../02_Zettel/Theory/Amplitude-division interferometers.md)
-- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Optical path difference OPD](../../02_Zettel/Theory/interf/Optical path difference OPD.html)
+- [Fringes of equal inclination](../../02_Zettel/Theory/interf/Fringes of equal inclination.html)
+- [Newton's rings](../../02_Zettel/Theory/interf/Newton's rings.html)
+- [Amplitude-division interferometers](../../02_Zettel/Theory/Amplitude-division interferometers.html)
+- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.html)

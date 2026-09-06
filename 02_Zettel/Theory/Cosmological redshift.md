@@ -68,13 +68,13 @@ so a single number $z$ is the **time stamp** of cosmological observations.
 
 ## see also
 
-- [Hubble's law and cosmological redshift](../../02_Zettel/Theory/Hubble's law and cosmological redshift.md)
-- [Hubble law](../../02_Zettel/Theory/Hubble law.md)
-- [FLRW metric](../../02_Zettel/Theory/FLRW metric.md)
-- [Comoving vs proper coordinates](../../02_Zettel/Theory/Comoving vs proper coordinates.md)
+- [Hubble's law and cosmological redshift](../../02_Zettel/Theory/Hubble's law and cosmological redshift.html)
+- [Hubble law](../../02_Zettel/Theory/Hubble law.html)
+- [FLRW metric](../../02_Zettel/Theory/FLRW metric.html)
+- [Comoving vs proper coordinates](../../02_Zettel/Theory/Comoving vs proper coordinates.html)
 - 03_Zettel/Theory/Cosmological distances
-- [Radial comoving distance](../../02_Zettel/Theory/Radial comoving distance.md)
-- [Spectroscopic redshift from line shifts](../../02_Zettel/Theory/Spectroscopic redshift from line shifts.md)
-- [Time-redshift relation](../../02_Zettel/Theory/Time-redshift relation.md)
-- [Photon decoupling and CMB](../../02_Zettel/Theory/Photon decoupling and CMB.md)
-- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md)
+- [Radial comoving distance](../../02_Zettel/Theory/Radial comoving distance.html)
+- [Spectroscopic redshift from line shifts](../../02_Zettel/Theory/Spectroscopic redshift from line shifts.html)
+- [Time-redshift relation](../../02_Zettel/Theory/Time-redshift relation.html)
+- [Photon decoupling and CMB](../../02_Zettel/Theory/Photon decoupling and CMB.html)
+- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html)

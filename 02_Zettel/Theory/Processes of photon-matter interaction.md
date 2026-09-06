@@ -23,7 +23,7 @@ A photon is **completely absorbed** by a bound electron
 	the electron is ejected with kinetic energy $E_{kin} = E_{ph} - E_{bind}$
 	the cross section: $\sigma_{ph} \propto Z^{4-5} / E^3$
 
-Read more: [Photoelectric absorption](../../02_Zettel/Theory/Photoelectric absorption.md)
+Read more: [Photoelectric absorption](../../02_Zettel/Theory/Photoelectric absorption.html)
 
 ### 2. Compton scattering
 Dominant at **intermediate energies** ($\sim 100~\text{keV}$–$30~\text{MeV}$, depending on $Z$)
@@ -32,7 +32,7 @@ A photon **scatters** off a (nearly free) electron
 	part of the photon energy is transferred to the electron
 	the photon continues at reduced energy and changed direction
 
-Read more: [Compton scattering and pair production](../../02_Zettel/Theory/Compton scattering and pair production.md)
+Read more: [Compton scattering and pair production](../../02_Zettel/Theory/Compton scattering and pair production.html)
 
 ### 3. Pair production
 Dominant at **high energies** ($E > 1.022~\text{MeV} = 2m_ec^2$, significant above $\sim 4~\text{MeV}$)
@@ -40,7 +40,7 @@ Dominant at **high energies** ($E > 1.022~\text{MeV} = 2m_ec^2$, significant abo
 A photon **converts** into an electron-positron pair in the nuclear Coulomb field
 	the cross section grows with $\ln(E/m_ec^2)$ and with $Z^2$
 
-Read more: [Compton scattering and pair production](../../02_Zettel/Theory/Compton scattering and pair production.md)
+Read more: [Compton scattering and pair production](../../02_Zettel/Theory/Compton scattering and pair production.html)
 
 ---
 
@@ -88,7 +88,7 @@ Key boundaries (for the boundary $\sigma_{ph} = \sigma_C$):
 ### For column density corrections (ISM absorption):
 - The ISM between source and observer absorbs X-rays through photoelectric absorption
 - The column density $N_H$ (hydrogen atoms cm$^{-2}$) parameterizes the total absorption
-- $F_{obs}(E) = F_{int}(E) \cdot e^{-\sigma(E) N_H}$ — see [Luminosity and Flux for -Instrumentations](../../02_Zettel/Theory/Luminosity and Flux for -Instrumentations.md)
+- $F_{obs}(E) = F_{int}(E) \cdot e^{-\sigma(E) N_H}$ — see [Luminosity and Flux for -Instrumentations](../../02_Zettel/Theory/Luminosity and Flux for -Instrumentations.html)
 
 ---
 

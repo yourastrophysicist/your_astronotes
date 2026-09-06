@@ -5,7 +5,7 @@ title: "LIRGs ULIRGs HyLIRGs"
 
 # LIRGs, ULIRGs, HyLIRGs
 
-up: [Pablo_03_Star_formation_in_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.md)
+up: [Pablo_03_Star_formation_in_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html)
 
 ## the luminosity classification
 
@@ -17,7 +17,7 @@ defined by the total infrared luminosity $L_{\text{TIR}}$ in the $8$–$1000\,\m
 | ULIRG (ultra-LIRG) | $10^{12}$–$10^{13}\,L_\odot$ | $> 170\,M_\odot/\text{yr}$ |
 | HyLIRG (hyper-LIRG) | $> 10^{13}\,L_\odot$ | $> 1700\,M_\odot/\text{yr}$ |
 
-the SFR thresholds follow from the IR calibration $\text{SFR} \approx L_{\text{TIR}} / (10^{10}\,L_\odot) \cdot 1.7\,M_\odot/\text{yr}$ (see [IR SFR tracer](../../02_Zettel/Theory/IR SFR tracer.md)).
+the SFR thresholds follow from the IR calibration $\text{SFR} \approx L_{\text{TIR}} / (10^{10}\,L_\odot) \cdot 1.7\,M_\odot/\text{yr}$ (see [IR SFR tracer](../../02_Zettel/Theory/IR SFR tracer.html)).
 
 ## discovery: IRAS 1983
 
@@ -51,7 +51,7 @@ $> 90\%$ of local ULIRGs are major mergers (Sanders & Mirabel 1996). the Sanders
 
 ## cosmological role
 
-at $z \sim 2$–$3$, LIRGs/ULIRGs dominate the [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.md) budget. the Madau-Dickinson peak is powered by IR-luminous objects. but:
+at $z \sim 2$–$3$, LIRGs/ULIRGs dominate the [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.html) budget. the Madau-Dickinson peak is powered by IR-luminous objects. but:
 - locally ULIRGs are rare ($< 1$% of galaxies)
 - at $z \sim 2$, they are the **main-sequence typical galaxy** at $M_* > 10^{10.5}\,M_\odot$. not exotic mergers, but normal SF at higher cosmic gas fractions
 - HyLIRGs at $z > 2$ are lensed systems or extreme sub-mm galaxies (Casey 2014)
@@ -66,11 +66,11 @@ many ULIRGs host both a starburst and an AGN (Genzel 1998, Farrah 2003). decompo
 
 ## connections
 
-- IR SFR: [IR SFR tracer](../../02_Zettel/Theory/IR SFR tracer.md)
-- mergers: [Galaxy mergers and SF](../../02_Zettel/Theory/Galaxy mergers and SF.md)
-- extreme SF physics: [Starburst galaxies](../../02_Zettel/Theory/Starburst galaxies.md)
-- high-$z$ counterparts: main-sequence at $z > 1$, [Galaxy main sequence of star formation](../../02_Zettel/Theory/Galaxy main sequence of star formation.md)
-- contribution to cosmic budget: [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.md)
+- IR SFR: [IR SFR tracer](../../02_Zettel/Theory/IR SFR tracer.html)
+- mergers: [Galaxy mergers and SF](../../02_Zettel/Theory/Galaxy mergers and SF.html)
+- extreme SF physics: [Starburst galaxies](../../02_Zettel/Theory/Starburst galaxies.html)
+- high-$z$ counterparts: main-sequence at $z > 1$, [Galaxy main sequence of star formation](../../02_Zettel/Theory/Galaxy main sequence of star formation.html)
+- contribution to cosmic budget: [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.html)
 
 ## key references
 

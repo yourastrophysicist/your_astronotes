@@ -5,7 +5,7 @@ title: "Redshift distribution of flux-limited samples"
 
 # redshift distribution of flux-limited samples
 
-up: [Pablo_02_Statistical_properties_of_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.md)
+up: [Pablo_02_Statistical_properties_of_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html)
 
 ## the question
 
@@ -17,7 +17,7 @@ intuitively: a faint magnitude limit sees deeper. so $\langle z \rangle$ should 
 
 $$\frac{dN}{dz}(m_{\text{lim}}) = \frac{dV}{dz} \int_{L_{\min}(z, m_{\text{lim}})}^{\infty} \phi(L, z)\, dL$$
 
-where $L_{\min}(z, m_{\text{lim}})$ is the luminosity such that a galaxy at redshift $z$ has apparent magnitude exactly $m_{\text{lim}}$. that depends on the [Luminosity distance](../../02_Zettel/Theory/Luminosity distance.md) and the [K-correction](../../02_Zettel/Theory/K-correction.md):
+where $L_{\min}(z, m_{\text{lim}})$ is the luminosity such that a galaxy at redshift $z$ has apparent magnitude exactly $m_{\text{lim}}$. that depends on the [Luminosity distance](../../02_Zettel/Theory/Luminosity distance.html) and the [K-correction](../../02_Zettel/Theory/K-correction.html):
 
 $$m_{\text{lim}} = M + 5\log_{10}(d_L / 10\,\text{pc}) + K(z)$$
 
@@ -37,16 +37,16 @@ the peak is the place these two curves cross.
 every survey analysis that quotes $\rho_{SFR}(z)$, $\phi(M_*, z)$, or any volume-limited quantity has to **invert this convolution**. the LF is the unknown; the observable is the $(m, z)$ density of sources. you need either:
 
 - a complete spectroscopic redshift for each source (expensive, doable only for $\sim 10^5$ to $10^6$ sources), or
-- [Photometric redshifts](../../02_Zettel/Theory/Photometric redshifts.md) (cheap, doable for $\sim 10^8$ sources but with biases).
+- [Photometric redshifts](../../02_Zettel/Theory/Photometric redshifts.html) (cheap, doable for $\sim 10^8$ sources but with biases).
 
-and both are subject to [Malmquist bias](../../02_Zettel/Theory/Malmquist bias.md) at the sample edge.
+and both are subject to [Malmquist bias](../../02_Zettel/Theory/Malmquist bias.html) at the sample edge.
 
 ## connections
 
-- biases: [Malmquist bias](../../02_Zettel/Theory/Malmquist bias.md), [Photo-z biases and catastrophic outliers](../../02_Zettel/Theory/Photo-z biases and catastrophic outliers.md)
-- redshift estimators: [Photometric redshifts](../../02_Zettel/Theory/Photometric redshifts.md)
-- the LF that drives this: [Luminosity function definition](../../02_Zettel/Theory/Luminosity function definition.md), [Schechter function](../../02_Zettel/Theory/Schechter function.md)
-- how to infer LF in the presence of a flux limit: [1Vmax estimator](../../02_Zettel/Theory/1Vmax estimator.md)
+- biases: [Malmquist bias](../../02_Zettel/Theory/Malmquist bias.html), [Photo-z biases and catastrophic outliers](../../02_Zettel/Theory/Photo-z biases and catastrophic outliers.html)
+- redshift estimators: [Photometric redshifts](../../02_Zettel/Theory/Photometric redshifts.html)
+- the LF that drives this: [Luminosity function definition](../../02_Zettel/Theory/Luminosity function definition.html), [Schechter function](../../02_Zettel/Theory/Schechter function.html)
+- how to infer LF in the presence of a flux limit: [1Vmax estimator](../../02_Zettel/Theory/1Vmax estimator.html)
 
 ## key references
 

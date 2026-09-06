@@ -81,8 +81,8 @@ root = brentq(f, a, b)
 
 ## see also
 
-- [Newton-Raphson method](../../02_Zettel/Theory/Newton-Raphson method.md)
-- [Relaxation method](../../02_Zettel/Theory/Relaxation method.md)
-- [Newton-Raphson for systems of equations](../../02_Zettel/Theory/Newton-Raphson for systems of equations.md)
-- [Choosing a root finder](../../02_Zettel/Theory/Choosing a root finder.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Newton-Raphson method](../../02_Zettel/Theory/Newton-Raphson method.html)
+- [Relaxation method](../../02_Zettel/Theory/Relaxation method.html)
+- [Newton-Raphson for systems of equations](../../02_Zettel/Theory/Newton-Raphson for systems of equations.html)
+- [Choosing a root finder](../../02_Zettel/Theory/Choosing a root finder.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

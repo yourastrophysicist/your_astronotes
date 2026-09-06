@@ -111,7 +111,7 @@ never differentiate noisy data directly. **smoothing is the default**. the only 
 
 ## see also
 
-- [Forward backward and central differences](../../02_Zettel/Theory/Forward backward and central differences.md)
-- [Cubic spline interpolation](../../02_Zettel/Theory/Cubic spline interpolation.md)
-- [Linear least squares](../../02_Zettel/Theory/Linear least squares.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Forward backward and central differences](../../02_Zettel/Theory/Forward backward and central differences.html)
+- [Cubic spline interpolation](../../02_Zettel/Theory/Cubic spline interpolation.html)
+- [Linear least squares](../../02_Zettel/Theory/Linear least squares.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

@@ -24,7 +24,7 @@ after dipole removal, $\Delta T/T \sim 10^{-5}$ on all scales. encoded in the **
 - **higher peaks** at $\ell \approx 540, 800, ...$: harmonics of the acoustic oscillation.
 - **damping tail** at $\ell \gtrsim 1000$: Silk damping by photon diffusion.
 
-each feature constrains specific physics. see [CMB power spectrum](../../02_Zettel/Theory/CMB power spectrum.md).
+each feature constrains specific physics. see [CMB power spectrum](../../02_Zettel/Theory/CMB power spectrum.html).
 
 ## physical origin: the seeds
 
@@ -57,15 +57,15 @@ the CMB is also polarised at the $\sim 10\%$ level of temperature anisotropies. 
 - **E-modes**: from scalar perturbations + reionisation.
 - **B-modes**: from tensor perturbations (primordial GW) + lensing.
 
-see [Polarization E and B modes](../../02_Zettel/Theory/Polarization E and B modes.md).
+see [Polarization E and B modes](../../02_Zettel/Theory/Polarization E and B modes.html).
 
 ## see also
 
 - CMB — discovery and blackbody spectrum
-- [CMB power spectrum](../../02_Zettel/Theory/CMB power spectrum.md)
-- [Polarization E and B modes](../../02_Zettel/Theory/Polarization E and B modes.md)
-- [Photon decoupling and CMB](../../02_Zettel/Theory/Photon decoupling and CMB.md)
-- [Linear evolution of perturbations in expanding universe](../../02_Zettel/Theory/Linear evolution of perturbations in expanding universe.md)
-- [Inflation overview](../../02_Zettel/Theory/Inflation overview.md)
-- [ΛCDM current parameters](../../02_Zettel/Theory/ΛCDM current parameters.md)
-- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md)
+- [CMB power spectrum](../../02_Zettel/Theory/CMB power spectrum.html)
+- [Polarization E and B modes](../../02_Zettel/Theory/Polarization E and B modes.html)
+- [Photon decoupling and CMB](../../02_Zettel/Theory/Photon decoupling and CMB.html)
+- [Linear evolution of perturbations in expanding universe](../../02_Zettel/Theory/Linear evolution of perturbations in expanding universe.html)
+- [Inflation overview](../../02_Zettel/Theory/Inflation overview.html)
+- [ΛCDM current parameters](../../02_Zettel/Theory/ΛCDM current parameters.html)
+- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html)

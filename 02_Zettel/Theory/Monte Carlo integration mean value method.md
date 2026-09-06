@@ -74,7 +74,7 @@ plt.loglog(Ns, errs[0] * (Ns[0] / np.array(Ns))**0.5, 'k--', label='1/√N')
 
 since the error is $\sim \sigma_f/\sqrt{N}$, *reducing $\sigma_f$* reduces the error without increasing $N$. four standard tricks:
 
-1. **importance sampling**: sample from a distribution $g(x)$ that mimics $f(x)$, weight by $f/g$. see [Importance sampling](../../02_Zettel/Theory/Importance sampling.md)
+1. **importance sampling**: sample from a distribution $g(x)$ that mimics $f(x)$, weight by $f/g$. see [Importance sampling](../../02_Zettel/Theory/Importance sampling.html)
 2. **stratified sampling**: divide the domain into sub-regions, sample uniformly within each, combine. reduces variance when $f$ is smoother in pieces than overall
 3. **control variates**: compute $\int (f - g) + \int g$ where $\int g$ is known and $f - g$ has lower variance. exam-grade trick
 4. **antithetic variates**: pair $x$ with $a + b - x$, use both. exact if $f$ is linear, helpful if $f$ has odd symmetry
@@ -109,8 +109,8 @@ def mc_integrate_2d(f, x_range, y_range, N):
 
 ## see also
 
-- [Importance sampling](../../02_Zettel/Theory/Importance sampling.md)
-- [Multidimensional Monte Carlo integration](../../02_Zettel/Theory/Multidimensional Monte Carlo integration.md)
-- [Trapezoidal rule](../../02_Zettel/Theory/Trapezoidal rule.md)
-- [Pseudo-random number generators](../../02_Zettel/Theory/Pseudo-random number generators.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Importance sampling](../../02_Zettel/Theory/Importance sampling.html)
+- [Multidimensional Monte Carlo integration](../../02_Zettel/Theory/Multidimensional Monte Carlo integration.html)
+- [Trapezoidal rule](../../02_Zettel/Theory/Trapezoidal rule.html)
+- [Pseudo-random number generators](../../02_Zettel/Theory/Pseudo-random number generators.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

@@ -12,7 +12,7 @@ title: "Supernova spectroscopy"
 - **strong Si II $\lambda 6355$ Å** absorption near max light. signature of partial nuclear burning to intermediate-mass elements.
 - **broad lines** $\sim 10^4$ km/s.
 - progenitor: thermonuclear explosion of a $\sim 1.4\,M_\odot$ C/O white dwarf.
-- standard candle for cosmology ([Type Ia supernovae as standard candles](../../02_Zettel/Theory/Type Ia supernovae as standard candles.md)).
+- standard candle for cosmology ([Type Ia supernovae as standard candles](../../02_Zettel/Theory/Type Ia supernovae as standard candles.html)).
 
 ### Type Ib
 - **no hydrogen**, **with helium** (He I $\lambda 5876, 6678, 7065$).
@@ -67,12 +67,12 @@ energy from gamma-rays + positrons heats the ejecta, driving the late-time emiss
 
 ## see also
 
-- [Type Ia supernovae as standard candles](../../02_Zettel/Theory/Type Ia supernovae as standard candles.md)
-- [Cepheids and supernovae](../../02_Zettel/Theory/Cepheids and supernovae.md)
-- [Emission line stars](../../02_Zettel/Theory/Emission line stars.md)
-- [Forbidden lines](../../02_Zettel/Theory/Forbidden lines.md)
-- [Hydrogen spectral series](../../02_Zettel/Theory/Hydrogen spectral series.md)
-- [Helium energy levels](../../02_Zettel/Theory/Helium energy levels.md)
-- [Galactic novae spectroscopy](../../02_Zettel/Theory/Galactic novae spectroscopy.md)
-- [Supernova remnant spectroscopy](../../02_Zettel/Theory/Supernova remnant spectroscopy.md)
-- [Stellar populations I II III](../../02_Zettel/Theory/Stellar populations I II III.md)
+- [Type Ia supernovae as standard candles](../../02_Zettel/Theory/Type Ia supernovae as standard candles.html)
+- [Cepheids and supernovae](../../02_Zettel/Theory/Cepheids and supernovae.html)
+- [Emission line stars](../../02_Zettel/Theory/Emission line stars.html)
+- [Forbidden lines](../../02_Zettel/Theory/Forbidden lines.html)
+- [Hydrogen spectral series](../../02_Zettel/Theory/Hydrogen spectral series.html)
+- [Helium energy levels](../../02_Zettel/Theory/Helium energy levels.html)
+- [Galactic novae spectroscopy](../../02_Zettel/Theory/Galactic novae spectroscopy.html)
+- [Supernova remnant spectroscopy](../../02_Zettel/Theory/Supernova remnant spectroscopy.html)
+- [Stellar populations I II III](../../02_Zettel/Theory/Stellar populations I II III.html)

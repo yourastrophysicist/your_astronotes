@@ -58,13 +58,13 @@ quick check: an octant of a unit sphere has all three angles equal to $90°$, so
 
 every coordinate system I will use (alt-azimuth, equatorial, ecliptic, galactic) is a parametrization of this same celestial sphere. transforming between them means rotating between two great-circle frames. that whole machinery is called **spherical trigonometry**, and it is built directly on the spherical-triangle setup above.
 
-→ next: [Spherical trigonometry](../../02_Zettel/Theory/Spherical trigonometry.md)
+→ next: [Spherical trigonometry](../../02_Zettel/Theory/Spherical trigonometry.html)
 
 ---
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Spherical_astronomy_complete](../../02_Zettel/Theory/Spherical_astronomy_complete.md) — the comprehensive narrative of the whole block
-- [Spherical trigonometry](../../02_Zettel/Theory/Spherical trigonometry.md)
-- [Earth coordinates](../../02_Zettel/Theory/Earth coordinates.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Spherical_astronomy_complete](../../02_Zettel/Theory/Spherical_astronomy_complete.html) — the comprehensive narrative of the whole block
+- [Spherical trigonometry](../../02_Zettel/Theory/Spherical trigonometry.html)
+- [Earth coordinates](../../02_Zettel/Theory/Earth coordinates.html)

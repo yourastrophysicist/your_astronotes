@@ -46,11 +46,11 @@ Ca ($Z = 20$): $[Ar] 4s^2$. ground $1\,^1S_0^e$. similar structure to Mg but the
 
 ## see also
 
-- [Atomic term symbols](../../02_Zettel/Theory/Atomic term symbols.md)
-- [Pauli principle and electron configurations](../../02_Zettel/Theory/Pauli principle and electron configurations.md)
-- [Magnesium population vs T](../../02_Zettel/Theory/Magnesium population vs T.md)
-- [Calcium and CaII H+K](../../02_Zettel/Theory/Calcium and CaII H+K.md)
-- [Selection rules](../../02_Zettel/Theory/Selection rules.md)
-- [Stellar spectra and spectral classification](../../02_Zettel/Theory/Stellar spectra and spectral classification.md)
-- [Why the Sequence OBAFGKM](../../02_Zettel/Theory/Why the Sequence OBAFGKM.md)
-- [Sodium and alkalis](../../02_Zettel/Theory/Sodium and alkalis.md)
+- [Atomic term symbols](../../02_Zettel/Theory/Atomic term symbols.html)
+- [Pauli principle and electron configurations](../../02_Zettel/Theory/Pauli principle and electron configurations.html)
+- [Magnesium population vs T](../../02_Zettel/Theory/Magnesium population vs T.html)
+- [Calcium and CaII H+K](../../02_Zettel/Theory/Calcium and CaII H+K.html)
+- [Selection rules](../../02_Zettel/Theory/Selection rules.html)
+- [Stellar spectra and spectral classification](../../02_Zettel/Theory/Stellar spectra and spectral classification.html)
+- [Why the Sequence OBAFGKM](../../02_Zettel/Theory/Why the Sequence OBAFGKM.html)
+- [Sodium and alkalis](../../02_Zettel/Theory/Sodium and alkalis.html)

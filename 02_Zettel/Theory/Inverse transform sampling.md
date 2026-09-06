@@ -54,7 +54,7 @@ s = a * (b / a) ** u
 
 ### Gaussian — the trick
 
-the Gaussian CDF $\Phi(x) = \tfrac12 [1 + \text{erf}(x/\sqrt 2)]$ is not analytically invertible. workaround: use the **Box-Muller transform** instead, which gives two normals from two uniforms via polar trigonometry. see [Box-Muller transform for Gaussian random numbers](../../02_Zettel/Theory/Box-Muller transform for Gaussian random numbers.md).
+the Gaussian CDF $\Phi(x) = \tfrac12 [1 + \text{erf}(x/\sqrt 2)]$ is not analytically invertible. workaround: use the **Box-Muller transform** instead, which gives two normals from two uniforms via polar trigonometry. see [Box-Muller transform for Gaussian random numbers](../../02_Zettel/Theory/Box-Muller transform for Gaussian random numbers.html).
 
 ## general algorithm when CDF is not analytic
 
@@ -115,8 +115,8 @@ samples = expon.rvs(scale=1/lam, size=N)
 
 ## see also
 
-- [Pseudo-random number generators](../../02_Zettel/Theory/Pseudo-random number generators.md)
-- [Box-Muller transform for Gaussian random numbers](../../02_Zettel/Theory/Box-Muller transform for Gaussian random numbers.md)
-- [Rejection sampling](../../02_Zettel/Theory/Rejection sampling.md)
-- [Importance sampling](../../02_Zettel/Theory/Importance sampling.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Pseudo-random number generators](../../02_Zettel/Theory/Pseudo-random number generators.html)
+- [Box-Muller transform for Gaussian random numbers](../../02_Zettel/Theory/Box-Muller transform for Gaussian random numbers.html)
+- [Rejection sampling](../../02_Zettel/Theory/Rejection sampling.html)
+- [Importance sampling](../../02_Zettel/Theory/Importance sampling.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

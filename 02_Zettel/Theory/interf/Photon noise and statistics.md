@@ -98,8 +98,8 @@ for radio: (1) plus reducing $T_{\rm sys}$ via cryogenics.
 
 ## see also
 
-- [Electromagnetic waves and photons](../../../02_Zettel/Theory/interf/Electromagnetic waves and photons.md)
-- [Coherence function and visibility](../../../02_Zettel/Theory/interf/Coherence function and visibility.md)
-- [Intensity interferometry concept](../../../02_Zettel/Theory/interf/Intensity interferometry concept.md)
-- [Hanbury Brown Twiss effect](../../../02_Zettel/Theory/interf/Hanbury Brown Twiss effect.md)
-- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Electromagnetic waves and photons](../../../02_Zettel/Theory/interf/Electromagnetic waves and photons.html)
+- [Coherence function and visibility](../../../02_Zettel/Theory/interf/Coherence function and visibility.html)
+- [Intensity interferometry concept](../../../02_Zettel/Theory/interf/Intensity interferometry concept.html)
+- [Hanbury Brown Twiss effect](../../../02_Zettel/Theory/interf/Hanbury Brown Twiss effect.html)
+- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.html)

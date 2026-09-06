@@ -19,15 +19,15 @@ All notes are linked below. The detailed derivations, equations, and figures liv
 
 Why X-ray astronomy must be done from space, and what "measuring" a source actually means.
 
-- [High_Energy_Instrumentation](../01_Literature/Lectures/High_Energy_Instrumentation.md)  -  course overview and motivation
-- [Atmospheric transmission](../02_Zettel/Theory/interf/Atmospheric transmission.md)  -  the four atmospheric effects; X-ray opacity; space as the only solution
-- [Seeing Effect](../02_Zettel/Theory/Seeing Effect.md)  -  Kolmogorov turbulence, Fried parameter, seeing disk, adaptive optics
-- [Luminosity and Flux for -Instrumentations](../02_Zettel/Theory/Luminosity and Flux for -Instrumentations.md)  -  $F = L/4\pi d_L^2$, photon flux, count rate, absorption, K-correction, ECF, hardness ratio
-- [Luminosity](../02_Zettel/Theory/Luminosity.md)  -  quick reference; typical values
-- [Telescope resolving power](../02_Zettel/Theory/Telescope resolving power.md)  -  Rayleigh criterion, plate scale, limiting factors by telescope type
-- [Rayleigh criterion](../02_Zettel/Theory/Rayleigh criterion.md)  -  Airy disk derivation, $\theta = 1.22\lambda/D$, examples
+- [High_Energy_Instrumentation](../01_Literature/Lectures/High_Energy_Instrumentation.html)  -  course overview and motivation
+- [Atmospheric transmission](../02_Zettel/Theory/interf/Atmospheric transmission.html)  -  the four atmospheric effects; X-ray opacity; space as the only solution
+- [Seeing Effect](../02_Zettel/Theory/Seeing Effect.html)  -  Kolmogorov turbulence, Fried parameter, seeing disk, adaptive optics
+- [Luminosity and Flux for -Instrumentations](../02_Zettel/Theory/Luminosity and Flux for -Instrumentations.html)  -  $F = L/4\pi d_L^2$, photon flux, count rate, absorption, K-correction, ECF, hardness ratio
+- [Luminosity](../02_Zettel/Theory/Luminosity.html)  -  quick reference; typical values
+- [Telescope resolving power](../02_Zettel/Theory/Telescope resolving power.html)  -  Rayleigh criterion, plate scale, limiting factors by telescope type
+- [Rayleigh criterion](../02_Zettel/Theory/Rayleigh criterion.html)  -  Airy disk derivation, $\theta = 1.22\lambda/D$, examples
 - [Point Spread Function (PSF)](../02_Zettel/Theory/Point Spread Function (PSF).md)  -  PSF definition, FWHM vs HPD, EEF, on-axis vs off-axis
-- [A Brief History of X-ray and Gamma-ray Missions](../02_Zettel/Theory/A Brief History of X-ray and Gamma-ray Missions.md)  -  from Giacconi 1962 to eROSITA 2019
+- [A Brief History of X-ray and Gamma-ray Missions](../02_Zettel/Theory/A Brief History of X-ray and Gamma-ray Missions.html)  -  from Giacconi 1962 to eROSITA 2019
 
 ---
 
@@ -35,11 +35,11 @@ Why X-ray astronomy must be done from space, and what "measuring" a source actua
 
 How we build telescopes that reflect X-rays.
 
-- [Grazing incidence](../02_Zettel/Theory/Grazing incidence.md)  -  refractive index $n = 1-\delta+i\beta$, critical angle $\theta_c \approx \sqrt{2\delta} \propto \sqrt{\rho}/E$, high-Z coatings
-- [Bragg Reflection](../02_Zettel/Theory/Bragg Reflection.md)  -  multilayer coatings, modified Bragg equation, NuSTAR, hard X-ray focusing
-- [Wolter Telescope](../02_Zettel/Theory/Wolter Telescope.md)  -  Wolter I/II/III, Abbe sine condition, two reflections, nested shells
-- [Effective Area](../02_Zettel/Theory/Effective Area.md)  -  $A_{eff} = A_{geo} \times R_{mirrors} \times QE \times T_{filter}$, energy dependence, mission comparison
-- [Angular Resolution](../02_Zettel/Theory/Angular Resolution.md)  -  HPD definition, blur circle sources ($\sigma_{diff}^2 + \sigma_{geom}^2 + \sigma_{rough}^2 + \sigma_{align}^2$), mission comparison
+- [Grazing incidence](../02_Zettel/Theory/Grazing incidence.html)  -  refractive index $n = 1-\delta+i\beta$, critical angle $\theta_c \approx \sqrt{2\delta} \propto \sqrt{\rho}/E$, high-Z coatings
+- [Bragg Reflection](../02_Zettel/Theory/Bragg Reflection.html)  -  multilayer coatings, modified Bragg equation, NuSTAR, hard X-ray focusing
+- [Wolter Telescope](../02_Zettel/Theory/Wolter Telescope.html)  -  Wolter I/II/III, Abbe sine condition, two reflections, nested shells
+- [Effective Area](../02_Zettel/Theory/Effective Area.html)  -  $A_{eff} = A_{geo} \times R_{mirrors} \times QE \times T_{filter}$, energy dependence, mission comparison
+- [Angular Resolution](../02_Zettel/Theory/Angular Resolution.html)  -  HPD definition, blur circle sources ($\sigma_{diff}^2 + \sigma_{geom}^2 + \sigma_{rough}^2 + \sigma_{align}^2$), mission comparison
 
 ---
 
@@ -47,12 +47,12 @@ How we build telescopes that reflect X-rays.
 
 What to use when you cannot focus.
 
-- [Processes of photon-matter interaction](../02_Zettel/Theory/Processes of photon-matter interaction.md)  -  three processes, linear attenuation coefficient $\mu = \sigma n$, mean free path $\lambda = 1/\mu$, domain diagram
-- [Photoelectric absorption](../02_Zettel/Theory/Photoelectric absorption.md)  -  $\sigma_{ph} \propto Z^{4-5}/E^3$, absorption edges, relation to $\beta$, ISM column density
-- [Compton scattering and pair production](../02_Zettel/Theory/Compton scattering and pair production.md)  -  Compton formula $E'_{ph}$, Klein-Nishina, pair production threshold $1.022~\text{MeV}$, annihilation
-- [Mechanical Collimator](../02_Zettel/Theory/Mechanical Collimator.md)  -  $\Delta\theta = d/L$, on/off method, no imaging, source confusion
-- [Coded Mask](../02_Zettel/Theory/Coded Mask.md)  -  shadowgram $D = S \otimes M + B$, deconvolution, $S' = S + B \otimes G$, INTEGRAL IBIS, Swift BAT
-- [Compton Telescope](../02_Zettel/Theory/Compton Telescope.md)  -  two planes (scatterer + absorber), source cone, time-of-flight rejection, COMPTEL/CGRO
+- [Processes of photon-matter interaction](../02_Zettel/Theory/Processes of photon-matter interaction.html)  -  three processes, linear attenuation coefficient $\mu = \sigma n$, mean free path $\lambda = 1/\mu$, domain diagram
+- [Photoelectric absorption](../02_Zettel/Theory/Photoelectric absorption.html)  -  $\sigma_{ph} \propto Z^{4-5}/E^3$, absorption edges, relation to $\beta$, ISM column density
+- [Compton scattering and pair production](../02_Zettel/Theory/Compton scattering and pair production.html)  -  Compton formula $E'_{ph}$, Klein-Nishina, pair production threshold $1.022~\text{MeV}$, annihilation
+- [Mechanical Collimator](../02_Zettel/Theory/Mechanical Collimator.html)  -  $\Delta\theta = d/L$, on/off method, no imaging, source confusion
+- [Coded Mask](../02_Zettel/Theory/Coded Mask.html)  -  shadowgram $D = S \otimes M + B$, deconvolution, $S' = S + B \otimes G$, INTEGRAL IBIS, Swift BAT
+- [Compton Telescope](../02_Zettel/Theory/Compton Telescope.html)  -  two planes (scatterer + absorber), source cone, time-of-flight rejection, COMPTEL/CGRO
 
 ---
 
@@ -60,11 +60,11 @@ What to use when you cannot focus.
 
 How X-ray photons become electrons and counts.
 
-- [Charge-Coupled Device](../02_Zettel/Theory/Charge-Coupled Device.md)  -  semiconductors, energy bands, doping, n-type and p-type silicon
-- [The p-n junction](../02_Zettel/Theory/The p-n junction.md)  -  diffusion, depletion region, reverse bias, buried channel
-- [CCD readout](../02_Zettel/Theory/CCD readout.md)  -  MOS capacitor, 3-phase clocking, serial register, readout noise $\sigma_{RON}$, CTE
-- [CCDs for X-rays](../02_Zettel/Theory/CCDs for X-rays.md)  -  $N_e = E_{ph}/w$ ($w = 3.68~\text{eV}$), photon counting mode, grades, pile-up, energy resolution
-- [Quantum efficiency](../02_Zettel/Theory/Quantum efficiency.md)  -  transmission through dead layers $T = e^{-\mu t}$, absorption in depletion $A = 1 - e^{-\mu_{Si}d}$, front vs back illumination, optical blocking filter
+- [Charge-Coupled Device](../02_Zettel/Theory/Charge-Coupled Device.html)  -  semiconductors, energy bands, doping, n-type and p-type silicon
+- [The p-n junction](../02_Zettel/Theory/The p-n junction.html)  -  diffusion, depletion region, reverse bias, buried channel
+- [CCD readout](../02_Zettel/Theory/CCD readout.html)  -  MOS capacitor, 3-phase clocking, serial register, readout noise $\sigma_{RON}$, CTE
+- [CCDs for X-rays](../02_Zettel/Theory/CCDs for X-rays.html)  -  $N_e = E_{ph}/w$ ($w = 3.68~\text{eV}$), photon counting mode, grades, pile-up, energy resolution
+- [Quantum efficiency](../02_Zettel/Theory/Quantum efficiency.html)  -  transmission through dead layers $T = e^{-\mu t}$, absorption in depletion $A = 1 - e^{-\mu_{Si}d}$, front vs back illumination, optical blocking filter
 
 ---
 
@@ -72,8 +72,8 @@ How X-ray photons become electrons and counts.
 
 High-resolution spectroscopy with dispersive elements.
 
-- [X-ray diffraction grating](../02_Zettel/Theory/X-ray diffraction grating.md)  -  transmission: $d(\sin\theta - \sin i) = m\lambda$; reflection: $d(\cos\theta - \cos i) = m\lambda$; Rowland circle; Chandra HETGS; XMM-Newton RGS
-- [Appendix D - Gratings and spectrographs](../02_Zettel/Theory/Appendix D - Gratings and spectrographs.md)  -  grating equation geometry, blazed gratings, angular dispersion, resolving power $R = mN$
+- [X-ray diffraction grating](../02_Zettel/Theory/X-ray diffraction grating.html)  -  transmission: $d(\sin\theta - \sin i) = m\lambda$; reflection: $d(\cos\theta - \cos i) = m\lambda$; Rowland circle; Chandra HETGS; XMM-Newton RGS
+- [Appendix D - Gratings and spectrographs](../02_Zettel/Theory/Appendix D - Gratings and spectrographs.html)  -  grating equation geometry, blazed gratings, angular dispersion, resolving power $R = mN$
 
 ---
 
@@ -81,11 +81,11 @@ High-resolution spectroscopy with dispersive elements.
 
 How to go from counts to meaningful physics.
 
-- [Astrostatistics](../02_Zettel/Theory/Astrostatistics.md)  -  introduction, the full chain from photons to physics
-- [Distributions](../02_Zettel/Theory/Distributions.md)  -  probability distributions, Poisson $f(k;\lambda) = \lambda^k e^{-\lambda}/k!$, $E[k] = V[k] = \lambda$, Gaussian approximation
-- [Signal-Noise Ratio](../02_Zettel/Theory/Signal-Noise Ratio.md)  -  $SNR = st/\sqrt{(s+b)t}$, source-dominated vs background-dominated, why angular resolution matters
-- [Fitting](../02_Zettel/Theory/Fitting.md)  -  $\chi^2$, reduced $\chi^2$, degrees of freedom, C-statistics (Kaastra 2017), forward folding, RMF, ARF
-- [p-value](../02_Zettel/Theory/p-value.md)  -  definition, null hypothesis, 4-step hypothesis test, critical warning
+- [Astrostatistics](../02_Zettel/Theory/Astrostatistics.html)  -  introduction, the full chain from photons to physics
+- [Distributions](../02_Zettel/Theory/Distributions.html)  -  probability distributions, Poisson $f(k;\lambda) = \lambda^k e^{-\lambda}/k!$, $E[k] = V[k] = \lambda$, Gaussian approximation
+- [Signal-Noise Ratio](../02_Zettel/Theory/Signal-Noise Ratio.html)  -  $SNR = st/\sqrt{(s+b)t}$, source-dominated vs background-dominated, why angular resolution matters
+- [Fitting](../02_Zettel/Theory/Fitting.html)  -  $\chi^2$, reduced $\chi^2$, degrees of freedom, C-statistics (Kaastra 2017), forward folding, RMF, ARF
+- [p-value](../02_Zettel/Theory/p-value.html)  -  definition, null hypothesis, 4-step hypothesis test, critical warning
 
 ---
 
@@ -93,10 +93,10 @@ How to go from counts to meaningful physics.
 
 The physics of what produces X-ray and gamma-ray emission.
 
-- [Radiative Processes](../02_Zettel/Theory/Radiative Processes.md)  -  Larmor formula, three mechanisms overview, particle distributions
-- [Bremsstrahlung](../02_Zettel/Theory/Bremsstrahlung.md)  -  thermal free-free emission, flat spectrum + exponential cutoff at $h\nu \sim k_BT$, galaxy clusters, emission measure
-- [Synchroton](../02_Zettel/Theory/Synchroton.md)  -  relativistic electrons in $B$, $\nu_c \propto \gamma^2 qB/m_ec$, power-law spectrum $f_\nu \propto \nu^{-\alpha}$ with $\alpha = (s-1)/2$, cooling break
-- [Compton and Inverse Compton](../02_Zettel/Theory/Compton and Inverse Compton.md)  -  Thomson/Compton, Klein-Nishina, IC energy boost $E_f \approx \gamma^2 E_i$, $P_{IC}/P_{syn} = U_{ph}/U_B$, Comptonization, y-parameter
+- [Radiative Processes](../02_Zettel/Theory/Radiative Processes.html)  -  Larmor formula, three mechanisms overview, particle distributions
+- [Bremsstrahlung](../02_Zettel/Theory/Bremsstrahlung.html)  -  thermal free-free emission, flat spectrum + exponential cutoff at $h\nu \sim k_BT$, galaxy clusters, emission measure
+- [Synchroton](../02_Zettel/Theory/Synchroton.html)  -  relativistic electrons in $B$, $\nu_c \propto \gamma^2 qB/m_ec$, power-law spectrum $f_\nu \propto \nu^{-\alpha}$ with $\alpha = (s-1)/2$, cooling break
+- [Compton and Inverse Compton](../02_Zettel/Theory/Compton and Inverse Compton.html)  -  Thomson/Compton, Klein-Nishina, IC energy boost $E_f \approx \gamma^2 E_i$, $P_{IC}/P_{syn} = U_{ph}/U_B$, Comptonization, y-parameter
 
 ---
 
@@ -104,16 +104,16 @@ The physics of what produces X-ray and gamma-ray emission.
 
 The extreme sources we observe.
 
-- [Accretion onto compact objects](../02_Zettel/Theory/Accretion onto compact objects.md)  -  $L_{acc} = \eta\dot{m}c^2$, $L_{Edd} \approx 1.3\times10^{38}(M/M_\odot)$ erg/s, $T(r) \propto r^{-3/4}$, ISCO, XRBs, AGN unified model
+- [Accretion onto compact objects](../02_Zettel/Theory/Accretion onto compact objects.html)  -  $L_{acc} = \eta\dot{m}c^2$, $L_{Edd} \approx 1.3\times10^{38}(M/M_\odot)$ erg/s, $T(r) \propto r^{-3/4}$, ISCO, XRBs, AGN unified model
 
 ---
 
 ## Appendices (background material)
 
-- [Appendix A - Optical telescopes](../02_Zettel/Theory/Appendix A - Optical telescopes.md)  -  aperture ratio, plate scale, conic sections
-- [Appendix B - Aberrations](../02_Zettel/Theory/Appendix B - Aberrations.md)  -  Seidel theory, spherical aberration, coma
-- [Appendix C - Telescope configurations](../02_Zettel/Theory/Appendix C - Telescope configurations.md)  -  Newton, Cassegrain, Ritchey-Chrétien
-- [Appendix E - Astronomical coordinates](../02_Zettel/Theory/Appendix E - Astronomical coordinates.md)  -  altazimuth, equatorial, vernal equinox, precession, J2000
+- [Appendix A - Optical telescopes](../02_Zettel/Theory/Appendix A - Optical telescopes.html)  -  aperture ratio, plate scale, conic sections
+- [Appendix B - Aberrations](../02_Zettel/Theory/Appendix B - Aberrations.html)  -  Seidel theory, spherical aberration, coma
+- [Appendix C - Telescope configurations](../02_Zettel/Theory/Appendix C - Telescope configurations.html)  -  Newton, Cassegrain, Ritchey-Chrétien
+- [Appendix E - Astronomical coordinates](../02_Zettel/Theory/Appendix E - Astronomical coordinates.html)  -  altazimuth, equatorial, vernal equinox, precession, J2000
 
 ---
 

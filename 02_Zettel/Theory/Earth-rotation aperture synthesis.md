@@ -120,8 +120,8 @@ source: local synthetic demo generated from rotating projected baselines.
 ## see also
 
 - [The (u, v) plane](../../02_Zettel/Theory/interf/The (u, v) plane.md)
-- [Aperture synthesis principle](../../02_Zettel/Theory/interf/Aperture synthesis principle.md)
-- [Optimal array geometry](../../02_Zettel/Theory/interf/Optimal array geometry.md)
-- [Dirty beam and dirty image](../../02_Zettel/Theory/interf/Dirty beam and dirty image.md)
-- [CLEAN algorithm](../../02_Zettel/Theory/interf/CLEAN algorithm.md)
-- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Aperture synthesis principle](../../02_Zettel/Theory/interf/Aperture synthesis principle.html)
+- [Optimal array geometry](../../02_Zettel/Theory/interf/Optimal array geometry.html)
+- [Dirty beam and dirty image](../../02_Zettel/Theory/interf/Dirty beam and dirty image.html)
+- [CLEAN algorithm](../../02_Zettel/Theory/interf/CLEAN algorithm.html)
+- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.html)

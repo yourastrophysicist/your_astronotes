@@ -38,7 +38,7 @@ three canonical cases:
 - **radiation** ($w = 1/3$): $\rho_r \propto a^{-4}$. volume + redshift of photon energies.
 - **dark energy** ($w = -1$): $\rho_\Lambda = $ const. constant energy density.
 
-see [Equation of state and density scaling](../../02_Zettel/Theory/Equation of state and density scaling.md).
+see [Equation of state and density scaling](../../02_Zettel/Theory/Equation of state and density scaling.html).
 
 ## consistency with Friedmann + acceleration
 
@@ -58,21 +58,21 @@ so dark energy density doesn't dilute. as the universe expands, dark energy "fil
 each species (photons, baryons, dark matter, dark energy) **separately** satisfies continuity, as long as they don't exchange energy with each other. for matter + radiation:
 $$\rho_m \propto a^{-3}, \quad \rho_r \propto a^{-4}$$
 
-so radiation dilutes faster than matter, leading to **matter-radiation equality** at $a_{\rm eq} \sim 1/3400$. see [Matter radiation equality](../../02_Zettel/Theory/Matter radiation equality.md).
+so radiation dilutes faster than matter, leading to **matter-radiation equality** at $a_{\rm eq} \sim 1/3400$. see [Matter radiation equality](../../02_Zettel/Theory/Matter radiation equality.html).
 
 species exchanges (e.g. $e^+$ annihilation transferring energy from $e^\pm$ to photons + neutrinos) need to be tracked carefully.
 
 ## see also
 
-- [Friedmann equations](../../02_Zettel/Theory/Friedmann equations.md)
-- [Equation of state and density scaling](../../02_Zettel/Theory/Equation of state and density scaling.md)
-- [Cosmic eras](../../02_Zettel/Theory/Cosmic eras.md)
-- [Matter radiation equality](../../02_Zettel/Theory/Matter radiation equality.md)
-- [Stress-energy tensor](../../02_Zettel/Theory/Stress-energy tensor.md)
-- [FLRW metric](../../02_Zettel/Theory/FLRW metric.md)
-- [Cosmological constant](../../02_Zettel/Theory/Cosmological constant.md)
+- [Friedmann equations](../../02_Zettel/Theory/Friedmann equations.html)
+- [Equation of state and density scaling](../../02_Zettel/Theory/Equation of state and density scaling.html)
+- [Cosmic eras](../../02_Zettel/Theory/Cosmic eras.html)
+- [Matter radiation equality](../../02_Zettel/Theory/Matter radiation equality.html)
+- [Stress-energy tensor](../../02_Zettel/Theory/Stress-energy tensor.html)
+- [FLRW metric](../../02_Zettel/Theory/FLRW metric.html)
+- [Cosmological constant](../../02_Zettel/Theory/Cosmological constant.html)
 - Q18 - derive the acceleration equation
 - Q19 - radiation universe
 - Q20 - matter plus radiation universe
-- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.md)
-- [Ch 7 - Cosmology](../../01_Literature/Book/Baumann GR/Ch 7 - Cosmology.md)
+- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.html)
+- [Ch 7 - Cosmology](../../01_Literature/Book/Baumann GR/Ch 7 - Cosmology.html)

@@ -57,7 +57,7 @@ these would push NPOI back toward the cutting edge of imaging.
 
 ## see also
 
-- [Components of a modern interferometer](../../02_Zettel/Theory/interf/Components of a modern interferometer.md)
-- [CHARA array](../../02_Zettel/Theory/interf/CHARA array.md)
-- [Stellar diameters and limb darkening](../../02_Zettel/Theory/interf/Stellar diameters and limb darkening.md)
-- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Components of a modern interferometer](../../02_Zettel/Theory/interf/Components of a modern interferometer.html)
+- [CHARA array](../../02_Zettel/Theory/interf/CHARA array.html)
+- [Stellar diameters and limb darkening](../../02_Zettel/Theory/interf/Stellar diameters and limb darkening.html)
+- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.html)

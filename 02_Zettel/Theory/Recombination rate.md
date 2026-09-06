@@ -16,7 +16,7 @@ for hydrogenic recombination at $T_e = 10^4$ K:
 - **Case A** (sums over all final levels including ground): $\alpha_A \approx 4.2 \times 10^{-13}$ cm$^3$ s$^{-1}$.
 - **Case B** (excludes direct-to-ground, applicable in optically thick HII regions): $\alpha_B \approx 2.6 \times 10^{-13}$ cm$^3$ s$^{-1}$.
 
-see [Case A vs Case B recombination](../../02_Zettel/Theory/Case A vs Case B recombination.md).
+see [Case A vs Case B recombination](../../02_Zettel/Theory/Case A vs Case B recombination.html).
 
 ## scaling
 
@@ -47,15 +47,15 @@ $$n_X^i\,\Gamma_i = n_X^{i+1}\,n_e\,\alpha_i(T_e)$$
 solve for the ion fraction:
 $$\frac{n_X^{i+1}}{n_X^i} = \frac{\Gamma_i}{n_e\alpha_i}$$
 
-so high $\Gamma$ or low $n_e$ (high $U$) means more ionised; low $\Gamma$ or high $n_e$ means less ionised. see [Photoionisation balance](../../02_Zettel/Theory/Photoionisation balance.md) and [Ionisation parameter U](../../02_Zettel/Theory/Ionisation parameter U.md).
+so high $\Gamma$ or low $n_e$ (high $U$) means more ionised; low $\Gamma$ or high $n_e$ means less ionised. see [Photoionisation balance](../../02_Zettel/Theory/Photoionisation balance.html) and [Ionisation parameter U](../../02_Zettel/Theory/Ionisation parameter U.html).
 
 ## see also
 
-- [Photoionization rate](../../02_Zettel/Theory/Photoionization rate.md)
-- [Collisional ionisation rate](../../02_Zettel/Theory/Collisional ionisation rate.md)
-- [Photoionisation balance](../../02_Zettel/Theory/Photoionisation balance.md)
-- [Ionisation parameter U](../../02_Zettel/Theory/Ionisation parameter U.md)
-- [Optically thin recombination lines](../../02_Zettel/Theory/Optically thin recombination lines.md)
-- [Recombination continuum](../../02_Zettel/Theory/Recombination continuum.md)
-- [Case A vs Case B recombination](../../02_Zettel/Theory/Case A vs Case B recombination.md)
+- [Photoionization rate](../../02_Zettel/Theory/Photoionization rate.html)
+- [Collisional ionisation rate](../../02_Zettel/Theory/Collisional ionisation rate.html)
+- [Photoionisation balance](../../02_Zettel/Theory/Photoionisation balance.html)
+- [Ionisation parameter U](../../02_Zettel/Theory/Ionisation parameter U.html)
+- [Optically thin recombination lines](../../02_Zettel/Theory/Optically thin recombination lines.html)
+- [Recombination continuum](../../02_Zettel/Theory/Recombination continuum.html)
+- [Case A vs Case B recombination](../../02_Zettel/Theory/Case A vs Case B recombination.html)
 - Strömgren sphere

@@ -6,7 +6,7 @@ title: "Growth factor D(z)"
 the **growth factor** $D(z)$ describes how the amplitude of a linear matter perturbation grows from some reference time (usually $z = \infty$ or recombination) to redshift $z$:
 $$\delta(\vec x, z) = D(z)\, \delta(\vec x, z = z_{\rm ref})$$
 
-it satisfies the master perturbation equation (see [Linear evolution of perturbations in expanding universe](../../02_Zettel/Theory/Linear evolution of perturbations in expanding universe.md)) and depends on the cosmological parameters.
+it satisfies the master perturbation equation (see [Linear evolution of perturbations in expanding universe](../../02_Zettel/Theory/Linear evolution of perturbations in expanding universe.html)) and depends on the cosmological parameters.
 
 ---
 
@@ -66,7 +66,7 @@ $$f(z) \approx \Omega_m(z)^{0.55}$$
 
 ### early dark energy and the Hubble tension
 
-if there is "early dark energy" before recombination, $H$ is higher at that epoch, affecting the sound horizon and CMB peak positions. this changes $D(z)$ and the inferred $H_0$ — proposed as a way to relieve the Hubble tension (see [Hubble constant and deceleration parameter](../../02_Zettel/Theory/Hubble constant and deceleration parameter.md)).
+if there is "early dark energy" before recombination, $H$ is higher at that epoch, affecting the sound horizon and CMB peak positions. this changes $D(z)$ and the inferred $H_0$ — proposed as a way to relieve the Hubble tension (see [Hubble constant and deceleration parameter](../../02_Zettel/Theory/Hubble constant and deceleration parameter.html)).
 
 ---
 
@@ -84,10 +84,10 @@ so $D(z)$ is one of the central observables of late-time cosmology, complementar
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Linear evolution of perturbations in expanding universe](../../02_Zettel/Theory/Linear evolution of perturbations in expanding universe.md)
-- [Jeans analysis in expanding universe](../../02_Zettel/Theory/Jeans analysis in expanding universe.md)
-- [Spherical collapse](../../02_Zettel/Theory/Spherical collapse.md)
-- [Matter power spectrum and BAO](../../02_Zettel/Theory/Matter power spectrum and BAO.md)
-- [Hubble constant and deceleration parameter](../../02_Zettel/Theory/Hubble constant and deceleration parameter.md)
-- [Cosmic_inventory_dark_energy](../../02_Zettel/Theory/Cosmic_inventory_dark_energy.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Linear evolution of perturbations in expanding universe](../../02_Zettel/Theory/Linear evolution of perturbations in expanding universe.html)
+- [Jeans analysis in expanding universe](../../02_Zettel/Theory/Jeans analysis in expanding universe.html)
+- [Spherical collapse](../../02_Zettel/Theory/Spherical collapse.html)
+- [Matter power spectrum and BAO](../../02_Zettel/Theory/Matter power spectrum and BAO.html)
+- [Hubble constant and deceleration parameter](../../02_Zettel/Theory/Hubble constant and deceleration parameter.html)
+- [Cosmic_inventory_dark_energy](../../02_Zettel/Theory/Cosmic_inventory_dark_energy.html)

@@ -10,7 +10,7 @@ the **Bianchi identities** are differential constraints on the Riemann tensor th
 cyclic over the last three indices:
 $$R_{\rho\sigma\mu\nu} + R_{\rho\mu\nu\sigma} + R_{\rho\nu\sigma\mu} = 0$$
 
-equivalently $R_{\rho[\sigma\mu\nu]} = 0$. this is one of the four symmetries of Riemann (see [Riemann tensor symmetries](../../02_Zettel/Theory/Riemann tensor symmetries.md)).
+equivalently $R_{\rho[\sigma\mu\nu]} = 0$. this is one of the four symmetries of Riemann (see [Riemann tensor symmetries](../../02_Zettel/Theory/Riemann tensor symmetries.html)).
 
 it's algebraic: it relates Riemann components at the same point. it's a consequence of torsion-free (i.e. $\Gamma^\rho{}_{\mu\nu} = \Gamma^\rho{}_{\nu\mu}$).
 
@@ -57,12 +57,12 @@ physically: they encode the **diffeomorphism invariance** of the theory. coordin
 
 ## see also
 
-- [Riemann tensor](../../02_Zettel/Theory/Riemann tensor.md)
-- [Riemann tensor symmetries](../../02_Zettel/Theory/Riemann tensor symmetries.md)
-- [Ricci tensor and scalar](../../02_Zettel/Theory/Ricci tensor and scalar.md)
-- [Einstein tensor and Bianchi](../../02_Zettel/Theory/Einstein tensor and Bianchi.md)
-- [Einstein equations](../../02_Zettel/Theory/Einstein equations.md)
-- [Stress-energy tensor](../../02_Zettel/Theory/Stress-energy tensor.md)
-- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.md)
-- [Ch 4 - Spacetime Curvature](../../01_Literature/Book/Baumann GR/Ch 4 - Spacetime Curvature.md)
-- [Ch 5 - The Einstein Equation](../../01_Literature/Book/Baumann GR/Ch 5 - The Einstein Equation.md)
+- [Riemann tensor](../../02_Zettel/Theory/Riemann tensor.html)
+- [Riemann tensor symmetries](../../02_Zettel/Theory/Riemann tensor symmetries.html)
+- [Ricci tensor and scalar](../../02_Zettel/Theory/Ricci tensor and scalar.html)
+- [Einstein tensor and Bianchi](../../02_Zettel/Theory/Einstein tensor and Bianchi.html)
+- [Einstein equations](../../02_Zettel/Theory/Einstein equations.html)
+- [Stress-energy tensor](../../02_Zettel/Theory/Stress-energy tensor.html)
+- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.html)
+- [Ch 4 - Spacetime Curvature](../../01_Literature/Book/Baumann GR/Ch 4 - Spacetime Curvature.html)
+- [Ch 5 - The Einstein Equation](../../01_Literature/Book/Baumann GR/Ch 5 - The Einstein Equation.html)

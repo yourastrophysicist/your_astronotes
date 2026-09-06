@@ -63,7 +63,7 @@ $$\boxed{\,\frac{T_\nu}{T_\gamma} = \left(\frac{4}{11}\right)^{1/3} \approx 0.71
 today, with $T_\gamma = 2.725$ K, this gives:
 $$T_\nu \approx 1.95\,\text{K}$$
 
-→ see [Cosmic_inventory_neutrinos](../../02_Zettel/Theory/Cosmic_inventory_neutrinos.md) for the full discussion.
+→ see [Cosmic_inventory_neutrinos](../../02_Zettel/Theory/Cosmic_inventory_neutrinos.html) for the full discussion.
 
 ---
 
@@ -74,16 +74,16 @@ $$\eta = 1.8\, g_{*s}(T) \cdot \frac{n_b}{s}$$
 
 after $e^\pm$ annihilation (everything settled), $g_{*s}$ is constant and $\eta$ is rigorously constant. this is why we can use the present-day $\eta \approx 6 \times 10^{-10}$ to compute BBN abundances at $T \sim 0.1$ MeV: by then $\eta$ is already at its present value.
 
-→ see [BBN_baryon_to_photon_ratio](../../02_Zettel/Theory/BBN_baryon_to_photon_ratio.md).
+→ see [BBN_baryon_to_photon_ratio](../../02_Zettel/Theory/BBN_baryon_to_photon_ratio.html).
 
 ---
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Thermal equilibrium in the early universe](../../02_Zettel/Theory/Thermal equilibrium in the early universe.md)
-- [Decoupling and freeze-out](../../02_Zettel/Theory/Decoupling and freeze-out.md)
-- [BBN_baryon_to_photon_ratio](../../02_Zettel/Theory/BBN_baryon_to_photon_ratio.md)
-- [Cosmic_inventory_neutrinos](../../02_Zettel/Theory/Cosmic_inventory_neutrinos.md)
-- [Brief thermal history](../../02_Zettel/Theory/Brief thermal history.md)
-- [Baumann_reference](../../02_Zettel/Theory/Baumann_reference.md) — chapter 3.2.3 has the rigorous treatment
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Thermal equilibrium in the early universe](../../02_Zettel/Theory/Thermal equilibrium in the early universe.html)
+- [Decoupling and freeze-out](../../02_Zettel/Theory/Decoupling and freeze-out.html)
+- [BBN_baryon_to_photon_ratio](../../02_Zettel/Theory/BBN_baryon_to_photon_ratio.html)
+- [Cosmic_inventory_neutrinos](../../02_Zettel/Theory/Cosmic_inventory_neutrinos.html)
+- [Brief thermal history](../../02_Zettel/Theory/Brief thermal history.html)
+- [Baumann_reference](../../02_Zettel/Theory/Baumann_reference.html) — chapter 3.2.3 has the rigorous treatment

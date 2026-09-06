@@ -6,7 +6,7 @@ title: "Hint - TODO 4.1 Vectorized N-Body Acceleration"
 # Hint - TODO 4.1 Vectorized N-Body Acceleration
 
 **Target TODO**: TODO 4.1 in Module_1_Random_Sampling_and_Monte_Carlo  
-**Related Zettels**: [Astrophysical N-body problem formulation](../../02_Zettel/Theory/Astrophysical N-body problem formulation.md), [The Pythagorean three-body problem](../../02_Zettel/Theory/The Pythagorean three-body problem.md)
+**Related Zettels**: [Astrophysical N-body problem formulation](../../02_Zettel/Theory/Astrophysical N-body problem formulation.html), [The Pythagorean three-body problem](../../02_Zettel/Theory/The Pythagorean three-body problem.html)
 
 ---
 

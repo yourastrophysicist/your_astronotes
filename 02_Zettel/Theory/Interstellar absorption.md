@@ -71,12 +71,12 @@ extinction matters because it directly affects:
 - **distance estimates**: a star looks fainter than it should at a given distance, leading to overestimated distances
 - **photometric redshifts**: dust reddens galaxy spectra, mimicking aging or higher-redshift effects
 - **luminosity functions**: a magnitude-limited sample is biased toward unreddened sightlines
-- **stellar mass estimates**: dust is a primary uncertainty in galaxy SED fitting (see [Dust attenuation and extinction curves](../../02_Zettel/Theory/Dust attenuation and extinction curves.md))
+- **stellar mass estimates**: dust is a primary uncertainty in galaxy SED fitting (see [Dust attenuation and extinction curves](../../02_Zettel/Theory/Dust attenuation and extinction curves.html))
 
 the modulus relation must be corrected:
 $$m - M = 5\log_{10}(d_{\rm pc}/10) + A_V$$
 
-(neglecting K-correction at high z; see [K-correction](../../02_Zettel/Theory/K-correction.md) in the Observational Cosmology MOC.)
+(neglecting K-correction at high z; see [K-correction](../../02_Zettel/Theory/K-correction.html) in the Observational Cosmology MOC.)
 
 ---
 
@@ -97,14 +97,14 @@ reddening within the host galaxy of a distant source can be much larger than Mil
 - **Charlot & Fall** (2000): two-component law, accounting for birth-cloud vs diffuse ISM dust
 - **Cardelli** (1989): the workhorse for Milky Way sightlines
 
-→ see [Dust attenuation and extinction curves](../../02_Zettel/Theory/Dust attenuation and extinction curves.md) (Observational Cosmology MOC).
+→ see [Dust attenuation and extinction curves](../../02_Zettel/Theory/Dust attenuation and extinction curves.html) (Observational Cosmology MOC).
 
 ---
 
 ## the bigger picture
 
 dust is *not* just a nuisance. it is a key tracer of:
-- star formation in galaxies (dust absorbs UV, re-emits in IR — see [IR SFR tracer](../../02_Zettel/Theory/IR SFR tracer.md))
+- star formation in galaxies (dust absorbs UV, re-emits in IR — see [IR SFR tracer](../../02_Zettel/Theory/IR SFR tracer.html))
 - chemical enrichment (heavy-element grains)
 - the cool ISM (cold dust at $\sim 20$ K dominates the FIR spectrum)
 
@@ -114,11 +114,11 @@ so understanding extinction is dual-purpose: a correction *and* a probe.
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Electromagnetic radiation basics](../../02_Zettel/Theory/Electromagnetic radiation basics.md)
-- [Magnitudes and photometric systems](../../02_Zettel/Theory/Magnitudes and photometric systems.md)
-- [Stellar spectra and spectral classification](../../02_Zettel/Theory/Stellar spectra and spectral classification.md)
-- [Milky Way structure](../../02_Zettel/Theory/Milky Way structure.md)
-- [Interstellar medium components and gas cycle](../../02_Zettel/Theory/Interstellar medium components and gas cycle.md)
-- [Dust attenuation and extinction curves](../../02_Zettel/Theory/Dust attenuation and extinction curves.md)
-- [Photoelectric absorption](../../02_Zettel/Theory/Photoelectric absorption.md) — the X-ray analog
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Electromagnetic radiation basics](../../02_Zettel/Theory/Electromagnetic radiation basics.html)
+- [Magnitudes and photometric systems](../../02_Zettel/Theory/Magnitudes and photometric systems.html)
+- [Stellar spectra and spectral classification](../../02_Zettel/Theory/Stellar spectra and spectral classification.html)
+- [Milky Way structure](../../02_Zettel/Theory/Milky Way structure.html)
+- [Interstellar medium components and gas cycle](../../02_Zettel/Theory/Interstellar medium components and gas cycle.html)
+- [Dust attenuation and extinction curves](../../02_Zettel/Theory/Dust attenuation and extinction curves.html)
+- [Photoelectric absorption](../../02_Zettel/Theory/Photoelectric absorption.html) — the X-ray analog

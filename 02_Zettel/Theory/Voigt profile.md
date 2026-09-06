@@ -59,13 +59,13 @@ DLA systems in QSO sight lines have $N \sim 10^{20}$ to $10^{22}$ cm$^{-2}$ of H
 
 ## see also
 
-- [Line profile function phi nu](../../02_Zettel/Theory/Line profile function phi nu.md)
-- [Natural broadening Lorentzian](../../02_Zettel/Theory/Natural broadening Lorentzian.md)
-- [Thermal Doppler broadening](../../02_Zettel/Theory/Thermal Doppler broadening.md)
-- [Collisional pressure broadening](../../02_Zettel/Theory/Collisional pressure broadening.md)
-- [Stark broadening](../../02_Zettel/Theory/Stark broadening.md)
-- [Microturbulence](../../02_Zettel/Theory/Microturbulence.md)
-- [Rotational broadening](../../02_Zettel/Theory/Rotational broadening.md)
-- [Damping wings](../../02_Zettel/Theory/Damping wings.md)
-- [Curve of growth](../../02_Zettel/Theory/Curve of growth.md)
-- [Equivalent width](../../02_Zettel/Theory/Equivalent width.md)
+- [Line profile function phi nu](../../02_Zettel/Theory/Line profile function phi nu.html)
+- [Natural broadening Lorentzian](../../02_Zettel/Theory/Natural broadening Lorentzian.html)
+- [Thermal Doppler broadening](../../02_Zettel/Theory/Thermal Doppler broadening.html)
+- [Collisional pressure broadening](../../02_Zettel/Theory/Collisional pressure broadening.html)
+- [Stark broadening](../../02_Zettel/Theory/Stark broadening.html)
+- [Microturbulence](../../02_Zettel/Theory/Microturbulence.html)
+- [Rotational broadening](../../02_Zettel/Theory/Rotational broadening.html)
+- [Damping wings](../../02_Zettel/Theory/Damping wings.html)
+- [Curve of growth](../../02_Zettel/Theory/Curve of growth.html)
+- [Equivalent width](../../02_Zettel/Theory/Equivalent width.html)

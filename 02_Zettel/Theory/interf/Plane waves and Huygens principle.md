@@ -73,8 +73,8 @@ today Huygens' principle is *the* practical tool for tracing light through compl
 
 ## see also
 
-- [Superposition and interference](../../../02_Zettel/Theory/interf/Superposition and interference.md)
-- [Fraunhofer diffraction](../../../02_Zettel/Theory/interf/Fraunhofer diffraction.md)
-- [Diffraction patterns of simple apertures](../../../02_Zettel/Theory/interf/Diffraction patterns of simple apertures.md)
-- [Young experiment as a stellar interferometer](../../../02_Zettel/Theory/interf/Young experiment as a stellar interferometer.md)
-- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Superposition and interference](../../../02_Zettel/Theory/interf/Superposition and interference.html)
+- [Fraunhofer diffraction](../../../02_Zettel/Theory/interf/Fraunhofer diffraction.html)
+- [Diffraction patterns of simple apertures](../../../02_Zettel/Theory/interf/Diffraction patterns of simple apertures.html)
+- [Young experiment as a stellar interferometer](../../../02_Zettel/Theory/interf/Young experiment as a stellar interferometer.html)
+- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.html)

@@ -49,13 +49,13 @@ at high $m$ (echelle), the FSR is small and orders pile up densely; needs a cros
 
 ## blaze
 
-the diffraction efficiency peaks where the grating's single-slit envelope is centred on the chosen order. a **blazed grating** (sawtooth groove profile) is engineered so the envelope peaks at a chosen wavelength in a chosen order, the **blaze wavelength** $\lambda_B$. see [Blazed gratings](../../02_Zettel/Theory/Blazed gratings.md).
+the diffraction efficiency peaks where the grating's single-slit envelope is centred on the chosen order. a **blazed grating** (sawtooth groove profile) is engineered so the envelope peaks at a chosen wavelength in a chosen order, the **blaze wavelength** $\lambda_B$. see [Blazed gratings](../../02_Zettel/Theory/Blazed gratings.html).
 
 ## see also
 
-- [Single slit diffraction](../../02_Zettel/Theory/Single slit diffraction.md)
-- [N-slit interference and gratings](../../02_Zettel/Theory/N-slit interference and gratings.md)
-- [Blazed gratings](../../02_Zettel/Theory/Blazed gratings.md)
-- [Dispersion and spectral resolution](../../02_Zettel/Theory/Dispersion and spectral resolution.md)
-- [Spectrograph design](../../02_Zettel/Theory/Spectrograph design.md)
-- [Echelle spectroscopy](../../02_Zettel/Theory/Echelle spectroscopy.md)
+- [Single slit diffraction](../../02_Zettel/Theory/Single slit diffraction.html)
+- [N-slit interference and gratings](../../02_Zettel/Theory/N-slit interference and gratings.html)
+- [Blazed gratings](../../02_Zettel/Theory/Blazed gratings.html)
+- [Dispersion and spectral resolution](../../02_Zettel/Theory/Dispersion and spectral resolution.html)
+- [Spectrograph design](../../02_Zettel/Theory/Spectrograph design.html)
+- [Echelle spectroscopy](../../02_Zettel/Theory/Echelle spectroscopy.html)

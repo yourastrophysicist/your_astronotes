@@ -5,7 +5,7 @@ title: "Ch 5 - The Einstein Equation"
 
 # Baumann Ch 5, The Einstein Equation
 
-up: [Baumann GR](../../../01_Literature/Book/Baumann GR/Baumann GR.md) · [General_Relativity_MOC](../../../00_Atlas/General_Relativity_MOC.md)
+up: [Baumann GR](../../../01_Literature/Book/Baumann GR/Baumann GR.html) · [General_Relativity_MOC](../../../00_Atlas/General_Relativity_MOC.html)
 
 *the chapter where the second half of the GR slogan, "matter tells spacetime how to curve", finally becomes a precise equation. we derive Einstein's equation $G_{\mu\nu} = 8\pi G T_{\mu\nu}$ in two ways: by physical reasoning (guess and fix) and from a variational principle (Einstein-Hilbert action). then we solve it in vacuum to get Schwarzschild, de Sitter, and anti-de Sitter.*
 
@@ -48,7 +48,7 @@ problem: stress-energy has to be conserved, $\nabla^\mu T_{\mu\nu} = 0$ (this is
 
 $$\nabla^\mu R_{\mu\nu} = \tfrac12 \nabla_\nu R \neq 0$$
 
-(this comes from the contracted Bianchi identity, see [Ch 4 - Spacetime Curvature](../../../01_Literature/Book/Baumann GR/Ch 4 - Spacetime Curvature.md)). so the first guess is inconsistent: the left side has a divergence, the right side doesn't.
+(this comes from the contracted Bianchi identity, see [Ch 4 - Spacetime Curvature](../../../01_Literature/Book/Baumann GR/Ch 4 - Spacetime Curvature.html)). so the first guess is inconsistent: the left side has a divergence, the right side doesn't.
 
 ### the second guess, the Einstein tensor
 
@@ -266,10 +266,10 @@ if i had to compress chapter 5 into a paragraph for the oral:
 
 ## connections
 
-- [General_Relativity_MOC](../../../00_Atlas/General_Relativity_MOC.md)
-- [Baumann GR](../../../01_Literature/Book/Baumann GR/Baumann GR.md)
-- [Einstein equations](../../../02_Zettel/Theory/Einstein equations.md) · [Einstein tensor and Bianchi](../../../02_Zettel/Theory/Einstein tensor and Bianchi.md) · [Stress-energy tensor](../../../02_Zettel/Theory/Stress-energy tensor.md) · [Cosmological constant](../../../02_Zettel/Theory/Cosmological constant.md) · [Trace-reversed Einstein equations](../../../02_Zettel/Theory/Trace-reversed Einstein equations.md)
-- [Schwarzschild metric](../../../02_Zettel/Theory/Schwarzschild metric.md) · [Birkhoff theorem](../../../02_Zettel/Theory/Birkhoff theorem.md)
+- [General_Relativity_MOC](../../../00_Atlas/General_Relativity_MOC.html)
+- [Baumann GR](../../../01_Literature/Book/Baumann GR/Baumann GR.html)
+- [Einstein equations](../../../02_Zettel/Theory/Einstein equations.html) · [Einstein tensor and Bianchi](../../../02_Zettel/Theory/Einstein tensor and Bianchi.html) · [Stress-energy tensor](../../../02_Zettel/Theory/Stress-energy tensor.html) · [Cosmological constant](../../../02_Zettel/Theory/Cosmological constant.html) · [Trace-reversed Einstein equations](../../../02_Zettel/Theory/Trace-reversed Einstein equations.html)
+- [Schwarzschild metric](../../../02_Zettel/Theory/Schwarzschild metric.html) · [Birkhoff theorem](../../../02_Zettel/Theory/Birkhoff theorem.html)
 - Q11 - selected Schwarzschild Christoffels · Q12 - circular orbits and orbital frequency · Q13 - radial infall and proper time · Q14 - photon trajectory and impact parameter · Q18 - derive the acceleration equation · Q19 - radiation universe · Q20 - matter plus radiation universe
-- previous: [Ch 4 - Spacetime Curvature](../../../01_Literature/Book/Baumann GR/Ch 4 - Spacetime Curvature.md)
-- next: [Ch 6 - Black Holes](../../../01_Literature/Book/Baumann GR/Ch 6 - Black Holes.md)
+- previous: [Ch 4 - Spacetime Curvature](../../../01_Literature/Book/Baumann GR/Ch 4 - Spacetime Curvature.html)
+- next: [Ch 6 - Black Holes](../../../01_Literature/Book/Baumann GR/Ch 6 - Black Holes.html)

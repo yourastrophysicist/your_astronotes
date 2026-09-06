@@ -5,7 +5,7 @@ title: "Radiative transport"
 
 in the deep interior of a star (or any opaque medium), photons cannot escape directly — they random-walk through the gas, scattered or absorbed by atoms and re-emitted. the net result is a slow diffusive transport of energy from hot regions to cool. this is **radiative transport**.
 
-it is one of the four pillars of [Stellar structure equations](../../02_Zettel/Theory/Stellar structure equations.md).
+it is one of the four pillars of [Stellar structure equations](../../02_Zettel/Theory/Stellar structure equations.html).
 
 ---
 
@@ -55,7 +55,7 @@ opacity tables (Opal, OP, ÆSOPUS) tabulate all these contributions for given $T
 
 ## convective vs radiative regimes
 
-if the radiative gradient required to carry $L$ exceeds the **adiabatic** gradient (the temperature gradient an adiabatically rising fluid element would have), the medium becomes **convectively unstable** — see [Stellar structure equations](../../02_Zettel/Theory/Stellar structure equations.md).
+if the radiative gradient required to carry $L$ exceeds the **adiabatic** gradient (the temperature gradient an adiabatically rising fluid element would have), the medium becomes **convectively unstable** — see [Stellar structure equations](../../02_Zettel/Theory/Stellar structure equations.html).
 
 so radiative transport is only the dominant mechanism where $\nabla_{\rm rad} < \nabla_{\rm ad}$. otherwise convection takes over.
 
@@ -84,7 +84,7 @@ $$L_{\rm Edd} = \frac{4\pi G M m_p c}{\sigma_T} \approx 1.3 \times 10^{38}\,(M/M
 
 beyond $L_{\rm Edd}$, radiation pressure exceeds gravity and the outer envelope is unstable (mass loss, winds).
 
-→ also limits the luminosity of accreting compact objects (X-ray binaries, AGN) — see [Accretion onto compact objects](../../02_Zettel/Theory/Accretion onto compact objects.md).
+→ also limits the luminosity of accreting compact objects (X-ray binaries, AGN) — see [Accretion onto compact objects](../../02_Zettel/Theory/Accretion onto compact objects.html).
 
 ---
 
@@ -101,9 +101,9 @@ modern codes: ATLAS (Kurucz), PHOENIX, TLUSTY, MARCS.
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Stellar structure equations](../../02_Zettel/Theory/Stellar structure equations.md)
-- [Stellar nucleosynthesis](../../02_Zettel/Theory/Stellar nucleosynthesis.md)
-- [Main sequence, giants, supergiants, white dwarfs](../../02_Zettel/Theory/Main sequence, giants, supergiants, white dwarfs.md)
-- [Stellar scaling relations](../../02_Zettel/Theory/Stellar scaling relations.md)
-- [Accretion onto compact objects](../../02_Zettel/Theory/Accretion onto compact objects.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Stellar structure equations](../../02_Zettel/Theory/Stellar structure equations.html)
+- [Stellar nucleosynthesis](../../02_Zettel/Theory/Stellar nucleosynthesis.html)
+- [Main sequence, giants, supergiants, white dwarfs](../../02_Zettel/Theory/Main sequence, giants, supergiants, white dwarfs.html)
+- [Stellar scaling relations](../../02_Zettel/Theory/Stellar scaling relations.html)
+- [Accretion onto compact objects](../../02_Zettel/Theory/Accretion onto compact objects.html)

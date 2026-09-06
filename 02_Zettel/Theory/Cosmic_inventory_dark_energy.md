@@ -121,9 +121,9 @@ experimentally, $w$ is being measured to $\sim 1\%$ precision by SN Ia + BAO + C
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Cosmic_inventory_overview](../../02_Zettel/Theory/Cosmic_inventory_overview.md)
-- [Hubble constant and deceleration parameter](../../02_Zettel/Theory/Hubble constant and deceleration parameter.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Cosmic_inventory_overview](../../02_Zettel/Theory/Cosmic_inventory_overview.html)
+- [Hubble constant and deceleration parameter](../../02_Zettel/Theory/Hubble constant and deceleration parameter.html)
 - Friedmann equations with Λ
-- [Friedmann models](../../02_Zettel/Theory/Friedmann models.md)
-- [Hubble law exact form](../../02_Zettel/Theory/Hubble law exact form.md)
+- [Friedmann models](../../02_Zettel/Theory/Friedmann models.html)
+- [Hubble law exact form](../../02_Zettel/Theory/Hubble law exact form.html)

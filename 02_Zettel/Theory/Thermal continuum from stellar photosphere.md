@@ -46,7 +46,7 @@ in cool stars, the dominant continuum opacity. H$^-$ has a very broad bound-free
 | F-G (Sun) | line blanketing in blue, H$^-$ in red |
 | K-M | molecular bands (TiO, VO) carve out optical |
 
-modern stellar atmosphere codes (PHOENIX, MARCS, ATLAS9) include all these effects. the resulting **synthetic spectra** are tabulated in libraries (Castelli-Kurucz, BT-Settl) used by population synthesis codes ([SPS code families](../../02_Zettel/Theory/SPS code families.md)).
+modern stellar atmosphere codes (PHOENIX, MARCS, ATLAS9) include all these effects. the resulting **synthetic spectra** are tabulated in libraries (Castelli-Kurucz, BT-Settl) used by population synthesis codes ([SPS code families](../../02_Zettel/Theory/SPS code families.html)).
 
 ## bolometric flux
 
@@ -57,17 +57,17 @@ $$F_{\rm bol} = \int F_\nu d\nu = \sigma_{SB} T_{\rm eff}^4$$
 
 ## the consequence for photometry
 
-photometric magnitudes depend on the convolution of $F_\lambda$ with filter throughput. the deviations from Planck contribute to the **bolometric correction** ([Bolometric correction and effective temperature](../../02_Zettel/Theory/Bolometric correction and effective temperature.md)). for the Sun, $BC_V \approx -0.07$, very small. for an O5 star, $BC_V \approx -4.1$ (most light in UV).
+photometric magnitudes depend on the convolution of $F_\lambda$ with filter throughput. the deviations from Planck contribute to the **bolometric correction** ([Bolometric correction and effective temperature](../../02_Zettel/Theory/Bolometric correction and effective temperature.html)). for the Sun, $BC_V \approx -0.07$, very small. for an O5 star, $BC_V \approx -4.1$ (most light in UV).
 
 ## see also
 
-- [Continuum opacity sources](../../02_Zettel/Theory/Continuum opacity sources.md)
-- [Equation of radiative transfer](../../02_Zettel/Theory/Equation of radiative transfer.md)
-- [Eddington-Barbier approximation](../../02_Zettel/Theory/Eddington-Barbier approximation.md)
-- [Source function](../../02_Zettel/Theory/Source function.md)
-- [Stellar atmosphere structure](../../02_Zettel/Theory/Stellar atmosphere structure.md)
-- [Planck law Wien Stefan-Boltzmann](../../02_Zettel/Theory/Planck law Wien Stefan-Boltzmann.md)
-- [Bolometric correction and effective temperature](../../02_Zettel/Theory/Bolometric correction and effective temperature.md)
-- [Hydrogen spectral series](../../02_Zettel/Theory/Hydrogen spectral series.md)
-- [Single stellar population SSP](../../02_Zettel/Theory/Single stellar population SSP.md)
-- [SPS code families](../../02_Zettel/Theory/SPS code families.md)
+- [Continuum opacity sources](../../02_Zettel/Theory/Continuum opacity sources.html)
+- [Equation of radiative transfer](../../02_Zettel/Theory/Equation of radiative transfer.html)
+- [Eddington-Barbier approximation](../../02_Zettel/Theory/Eddington-Barbier approximation.html)
+- [Source function](../../02_Zettel/Theory/Source function.html)
+- [Stellar atmosphere structure](../../02_Zettel/Theory/Stellar atmosphere structure.html)
+- [Planck law Wien Stefan-Boltzmann](../../02_Zettel/Theory/Planck law Wien Stefan-Boltzmann.html)
+- [Bolometric correction and effective temperature](../../02_Zettel/Theory/Bolometric correction and effective temperature.html)
+- [Hydrogen spectral series](../../02_Zettel/Theory/Hydrogen spectral series.html)
+- [Single stellar population SSP](../../02_Zettel/Theory/Single stellar population SSP.html)
+- [SPS code families](../../02_Zettel/Theory/SPS code families.html)

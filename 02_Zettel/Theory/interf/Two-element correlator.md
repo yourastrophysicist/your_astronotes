@@ -32,7 +32,7 @@ $$V_i(t) \propto E(\mathbf r_i, t)$$
 so the time-averaged product is the field correlation:
 $$\langle V_1 V_2 \rangle \propto \langle E^*(\mathbf r_1, t) E(\mathbf r_2, t) \rangle = \Gamma_{12}$$
 
-which is the **mutual coherence function** of [that zettel](../../../02_Zettel/Theory/interf/Coherence function and visibility.md) — equivalently, the visibility.
+which is the **mutual coherence function** of [that zettel](../../../02_Zettel/Theory/interf/Coherence function and visibility.html) — equivalently, the visibility.
 
 so the correlator literally computes the visibility.
 
@@ -126,8 +126,8 @@ source: local study diagram generated from the standard radio interferometer sig
 
 ## see also
 
-- [Radio interferometer architecture](../../../02_Zettel/Theory/interf/Radio interferometer architecture.md)
-- [Heterodyne vs direct detection](../../../02_Zettel/Theory/interf/Heterodyne vs direct detection.md)
-- [Coherence function and visibility](../../../02_Zettel/Theory/interf/Coherence function and visibility.md)
-- [CLEAN algorithm](../../../02_Zettel/Theory/interf/CLEAN algorithm.md)
-- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Radio interferometer architecture](../../../02_Zettel/Theory/interf/Radio interferometer architecture.html)
+- [Heterodyne vs direct detection](../../../02_Zettel/Theory/interf/Heterodyne vs direct detection.html)
+- [Coherence function and visibility](../../../02_Zettel/Theory/interf/Coherence function and visibility.html)
+- [CLEAN algorithm](../../../02_Zettel/Theory/interf/CLEAN algorithm.html)
+- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.html)

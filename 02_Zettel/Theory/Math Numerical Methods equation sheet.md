@@ -148,6 +148,6 @@ def step(y, t, h, f):
 
 ## see also
 
-- [Math Numerical Methods course intro](../../02_Zettel/Theory/Math Numerical Methods course intro.md)
-- [Numerical problem solving workflow](../../02_Zettel/Theory/Numerical problem solving workflow.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Math Numerical Methods course intro](../../02_Zettel/Theory/Math Numerical Methods course intro.html)
+- [Numerical problem solving workflow](../../02_Zettel/Theory/Numerical problem solving workflow.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

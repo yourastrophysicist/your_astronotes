@@ -4,7 +4,7 @@ name: White dwarf cooling sequence on the CMD
 description: the white dwarf cooling sequence appears as a faint, blue-to-red sequence below the main sequence on a CMD, used as an independent age clock that complements the main sequence turn-off
 ---
 
-the **white dwarf cooling sequence (WDCS)** is the locus of [white dwarfs](../../02_Zettel/Theory/White dwarf overview.md) on a [color-magnitude diagram](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.md). it appears below the main sequence at faint magnitudes, extending $\sim 5$-$8$ mag from $M_V \sim 10$ (newly formed hot WDs) to $M_V \sim 16$-$18$ (oldest cooled WDs). because WDs evolve by simple **passive cooling**, the WDCS provides an **independent age clock** that complements the main sequence turn-off.
+the **white dwarf cooling sequence (WDCS)** is the locus of [white dwarfs](../../02_Zettel/Theory/White dwarf overview.html) on a [color-magnitude diagram](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.html). it appears below the main sequence at faint magnitudes, extending $\sim 5$-$8$ mag from $M_V \sim 10$ (newly formed hot WDs) to $M_V \sim 16$-$18$ (oldest cooled WDs). because WDs evolve by simple **passive cooling**, the WDCS provides an **independent age clock** that complements the main sequence turn-off.
 
 ![L06_p05_stellar_evolution_CMD-05](../../assets/images/L06_p05_stellar_evolution_CMD-05.png)
 
@@ -15,7 +15,7 @@ a typical CMD of a globular cluster shows the WDCS as a faint, blueward-curving 
 - WDs start out **hot + bright** (top of WDCS, $M_V \sim 10$, blue colors);
 - they cool monotonically along a near-vertical track in pure-cooling models;
 - at $T_{\rm eff} < 5000$ K, hydrogen-rich atmospheres turn **bluer** again due to **collision-induced absorption (CIA)** of H$_2$ in the IR;
-- the WDCS thus has a characteristic **hook** at faint magnitudes (see [WDCS turn to blue and CIA](../../02_Zettel/Theory/WDCS turn to blue and CIA.md)).
+- the WDCS thus has a characteristic **hook** at faint magnitudes (see [WDCS turn to blue and CIA](../../02_Zettel/Theory/WDCS turn to blue and CIA.html)).
 
 ![L06_p07_WD_blueturn-07](../../assets/images/L06_p07_WD_blueturn-07.png)
 
@@ -72,7 +72,7 @@ clusters with published WDCS ages: NGC 6397, NGC 6791, M4, NGC 6752, 47 Tuc.
 
 ## the metallicity advantage
 
-a critical advantage of the WDCS: **the position of the WD cooling sequence in the CMD does not depend on the cluster metallicity** (Milone 2026, Lecture 6a). this is because the WD has shed its envelope and the core composition (CO) is insensitive to the original stellar metallicity. in contrast, the MSTO colour is strongly affected by [Fe/H] via line blanketing + opacity, creating the [Age-metallicity degeneracy](../../02_Zettel/Theory/Age-metallicity degeneracy.md).
+a critical advantage of the WDCS: **the position of the WD cooling sequence in the CMD does not depend on the cluster metallicity** (Milone 2026, Lecture 6a). this is because the WD has shed its envelope and the core composition (CO) is insensitive to the original stellar metallicity. in contrast, the MSTO colour is strongly affected by [Fe/H] via line blanketing + opacity, creating the [Age-metallicity degeneracy](../../02_Zettel/Theory/Age-metallicity degeneracy.html).
 
 this independence makes the WDCS especially powerful for comparing relative ages of clusters with different metallicities. comparison of NGC 6397 ([Fe/H] $\sim -2.1$, metal-poor) and 47 Tuc ([Fe/H] $\sim -0.7$, metal-rich) reveals that **47 Tuc is $\sim 2$ Gyr younger** than NGC 6397 — a result directly readable from the WD LF cutoff positions, without needing to disentangle metallicity effects.
 
@@ -86,7 +86,7 @@ this independence makes the WDCS especially powerful for comparing relative ages
 
 3. **Bedin et al. 2009**: the resolution came from recognising that **NGC 6791 hosts a large binary fraction** ($f_{\rm bin} \approx 0.32 \pm 0.03$). about 34% of WDs are in **WD-WD binary systems**. the combined luminosity of two faint WDs mimics a single brighter WD, producing the second peak in the LF. when the binary fraction is properly modelled, the WDCS age becomes consistent with the MSTO age.
 
-this case study is a beautiful illustration of how unresolved binaries can corrupt CMD analyses — a recurring theme across stellar astrophysics ([Binary stars in CMD](../../02_Zettel/Theory/Binary stars in CMD.md)).
+this case study is a beautiful illustration of how unresolved binaries can corrupt CMD analyses — a recurring theme across stellar astrophysics ([Binary stars in CMD](../../02_Zettel/Theory/Binary stars in CMD.html)).
 
 ## why this matters
 
@@ -110,13 +110,13 @@ it also provides a key constraint on the early Galactic formation: GC ages tell 
 
 ## see also
 
-- [White dwarf overview](../../02_Zettel/Theory/White dwarf overview.md)
-- [White dwarf cooling theory](../../02_Zettel/Theory/White dwarf cooling theory.md)
-- [White dwarf types He CO ONeMg](../../02_Zettel/Theory/White dwarf types He CO ONeMg.md)
-- [Chandrasekhar mass limit](../../02_Zettel/Theory/Chandrasekhar mass limit.md)
-- [White dwarf mass-radius relation](../../02_Zettel/Theory/White dwarf mass-radius relation.md)
-- [WDCS turn to blue and CIA](../../02_Zettel/Theory/WDCS turn to blue and CIA.md)
-- [Age dating from the WD luminosity function](../../02_Zettel/Theory/Age dating from the WD luminosity function.md)
-- [WDCS vs MSTO ages comparison](../../02_Zettel/Theory/WDCS vs MSTO ages comparison.md)
-- [Initial-final mass relation IFMR](../../02_Zettel/Theory/Initial-final mass relation IFMR.md)
-- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.md)
+- [White dwarf overview](../../02_Zettel/Theory/White dwarf overview.html)
+- [White dwarf cooling theory](../../02_Zettel/Theory/White dwarf cooling theory.html)
+- [White dwarf types He CO ONeMg](../../02_Zettel/Theory/White dwarf types He CO ONeMg.html)
+- [Chandrasekhar mass limit](../../02_Zettel/Theory/Chandrasekhar mass limit.html)
+- [White dwarf mass-radius relation](../../02_Zettel/Theory/White dwarf mass-radius relation.html)
+- [WDCS turn to blue and CIA](../../02_Zettel/Theory/WDCS turn to blue and CIA.html)
+- [Age dating from the WD luminosity function](../../02_Zettel/Theory/Age dating from the WD luminosity function.html)
+- [WDCS vs MSTO ages comparison](../../02_Zettel/Theory/WDCS vs MSTO ages comparison.html)
+- [Initial-final mass relation IFMR](../../02_Zettel/Theory/Initial-final mass relation IFMR.html)
+- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.html)

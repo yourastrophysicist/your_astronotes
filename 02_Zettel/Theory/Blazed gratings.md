@@ -34,9 +34,9 @@ echelle gratings are blazed at very high $\theta_B$ to send light into very high
 
 ## see also
 
-- [Grating equation](../../02_Zettel/Theory/Grating equation.md)
-- [Single slit diffraction](../../02_Zettel/Theory/Single slit diffraction.md)
-- [N-slit interference and gratings](../../02_Zettel/Theory/N-slit interference and gratings.md)
-- [Spectrograph design](../../02_Zettel/Theory/Spectrograph design.md)
-- [Dispersion and spectral resolution](../../02_Zettel/Theory/Dispersion and spectral resolution.md)
-- [Echelle spectroscopy](../../02_Zettel/Theory/Echelle spectroscopy.md)
+- [Grating equation](../../02_Zettel/Theory/Grating equation.html)
+- [Single slit diffraction](../../02_Zettel/Theory/Single slit diffraction.html)
+- [N-slit interference and gratings](../../02_Zettel/Theory/N-slit interference and gratings.html)
+- [Spectrograph design](../../02_Zettel/Theory/Spectrograph design.html)
+- [Dispersion and spectral resolution](../../02_Zettel/Theory/Dispersion and spectral resolution.html)
+- [Echelle spectroscopy](../../02_Zettel/Theory/Echelle spectroscopy.html)

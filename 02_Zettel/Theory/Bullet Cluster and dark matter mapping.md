@@ -5,7 +5,7 @@ title: "Bullet Cluster and dark matter mapping"
 
 # bullet cluster and dark matter mapping
 
-up: [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.md) · [Strong vs weak lensing](../../02_Zettel/Theory/Strong vs weak lensing.md) · [Dark matter on galactic scales](../../02_Zettel/Theory/Dark matter on galactic scales.md)
+up: [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.html) · [Strong vs weak lensing](../../02_Zettel/Theory/Strong vs weak lensing.html) · [Dark matter on galactic scales](../../02_Zettel/Theory/Dark matter on galactic scales.html)
 
 ## the physical system
 
@@ -34,6 +34,6 @@ This spatial dissociation provides direct, empirical proof that the majority of 
 
 ## connections
 
-- lensing technique: [Strong vs weak lensing](../../02_Zettel/Theory/Strong vs weak lensing.md), [Lensing as a cosmological probe](../../02_Zettel/Theory/Lensing as a cosmological probe.md)
-- alternative theories: [Modified gravity alternatives](../../02_Zettel/Theory/Modified gravity alternatives.md)
-- cluster context: [Coma cluster](../../02_Zettel/Theory/Coma cluster.md)
+- lensing technique: [Strong vs weak lensing](../../02_Zettel/Theory/Strong vs weak lensing.html), [Lensing as a cosmological probe](../../02_Zettel/Theory/Lensing as a cosmological probe.html)
+- alternative theories: [Modified gravity alternatives](../../02_Zettel/Theory/Modified gravity alternatives.html)
+- cluster context: [Coma cluster](../../02_Zettel/Theory/Coma cluster.html)

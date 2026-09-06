@@ -24,7 +24,7 @@ For a circular aperture of diameter $D$ at wavelength $\lambda$, the PSF is the 
 $$\text{PSF}(\theta) = \left[\frac{2J_1(\pi D\theta/\lambda)}{\pi D\theta/\lambda}\right]^2$$
 
 Properties:
-	central disk (Airy disk) radius: $\theta_{Airy} = 1.22\lambda/D$ — see [Rayleigh criterion](../../02_Zettel/Theory/Rayleigh criterion.md)
+	central disk (Airy disk) radius: $\theta_{Airy} = 1.22\lambda/D$ — see [Rayleigh criterion](../../02_Zettel/Theory/Rayleigh criterion.html)
 	central disk contains $\sim 84\%$ of total energy
 	surrounded by diffraction rings with decreasing intensity
 
@@ -42,7 +42,7 @@ The angular diameter where the PSF drops to half its peak value
 
 ### HPD / HEW (Half Power Diameter / Half Energy Width)
 The angular diameter of the circle that **contains 50% of the total encircled energy**
-	preferred for X-ray telescopes — see [Angular Resolution](../../02_Zettel/Theory/Angular Resolution.md)
+	preferred for X-ray telescopes — see [Angular Resolution](../../02_Zettel/Theory/Angular Resolution.html)
 	more robust to extended wings and complex PSF shapes than FWHM
 	for Chandra: HPD $\approx 0.5''$; for XMM-Newton: HPD $\approx 14''$
 
@@ -56,7 +56,7 @@ HPD is defined by $EEF(\theta_{HPD}/2) = 0.5$
 
 ## PSF in X-ray telescopes
 
-For [Wolter I](../../02_Zettel/Theory/Wolter Telescope.md) telescopes, the PSF is **not** set by diffraction
+For [Wolter I](../../02_Zettel/Theory/Wolter Telescope.html) telescopes, the PSF is **not** set by diffraction
 	at X-ray wavelengths ($\lambda \sim 0.1$–$10$ nm), the diffraction limit is $\ll 0.01''$ for any reasonable aperture
 		the PSF is dominated entirely by **geometric and manufacturing imperfections**
 
@@ -89,7 +89,7 @@ this is why Chandra (HPD $0.5''$) is ideal for faint sources in crowded fields
 
 ## PSF in gratings and spectroscopy
 
-For [X-ray gratings](../../02_Zettel/Theory/X-ray diffraction grating.md), the PSF of the telescope directly determines the **spectral resolving power**:
+For [X-ray gratings](../../02_Zettel/Theory/X-ray diffraction grating.html), the PSF of the telescope directly determines the **spectral resolving power**:
 $$R = \frac{\lambda}{\Delta\lambda} = \frac{\tan\theta}{\Delta\theta}$$
 
 where $\Delta\theta$ comes from the PSF angular width

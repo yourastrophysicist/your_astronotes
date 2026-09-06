@@ -124,8 +124,8 @@ if the two curves visually agree, full credit. if they disagree, even partial wo
 
 ## see also
 
-- [Inverse transform sampling](../../02_Zettel/Theory/Inverse transform sampling.md)
-- [Rejection sampling](../../02_Zettel/Theory/Rejection sampling.md)
-- [Box-Muller transform for Gaussian random numbers](../../02_Zettel/Theory/Box-Muller transform for Gaussian random numbers.md)
-- [Goodness of fit and chi-squared](../../02_Zettel/Theory/Goodness of fit and chi-squared.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Inverse transform sampling](../../02_Zettel/Theory/Inverse transform sampling.html)
+- [Rejection sampling](../../02_Zettel/Theory/Rejection sampling.html)
+- [Box-Muller transform for Gaussian random numbers](../../02_Zettel/Theory/Box-Muller transform for Gaussian random numbers.html)
+- [Goodness of fit and chi-squared](../../02_Zettel/Theory/Goodness of fit and chi-squared.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

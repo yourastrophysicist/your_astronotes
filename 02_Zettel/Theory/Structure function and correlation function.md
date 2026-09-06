@@ -49,5 +49,5 @@ The structure function is the fundamental bridge between the fluid dynamics of a
 
 ## connections & zettel links
 
-* parent moc: [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.md)
-* related zettels: [Kolmogorov turbulence](../../02_Zettel/Theory/interf/Kolmogorov turbulence.md), [Fried parameter $r_0$](../../02_Zettel/Theory/interf/Fried parameter $r_0$.md), [Isoplanatic patch](../../02_Zettel/Theory/interf/Isoplanatic patch.md), [Atmospheric turbulence overview](../../02_Zettel/Theory/interf/Atmospheric turbulence overview.md)
+* parent moc: [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.html)
+* related zettels: [Kolmogorov turbulence](../../02_Zettel/Theory/interf/Kolmogorov turbulence.html), [Fried parameter $r_0$](../../02_Zettel/Theory/interf/Fried parameter $r_0$.html), [Isoplanatic patch](../../02_Zettel/Theory/interf/Isoplanatic patch.html), [Atmospheric turbulence overview](../../02_Zettel/Theory/interf/Atmospheric turbulence overview.html)

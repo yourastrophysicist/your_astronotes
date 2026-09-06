@@ -50,7 +50,7 @@ the baryon and dark matter asymmetries are linked: produced together by a common
 ## experimental constraints
 
 we know:
-- $\eta_B \approx 6 \times 10^{-10}$ from BBN and CMB independently (see [BBN_baryon_to_photon_ratio](../../02_Zettel/Theory/BBN_baryon_to_photon_ratio.md) and [BBN_concordance_with_CMB](../../02_Zettel/Theory/BBN_concordance_with_CMB.md))
+- $\eta_B \approx 6 \times 10^{-10}$ from BBN and CMB independently (see [BBN_baryon_to_photon_ratio](../../02_Zettel/Theory/BBN_baryon_to_photon_ratio.html) and [BBN_concordance_with_CMB](../../02_Zettel/Theory/BBN_concordance_with_CMB.html))
 - the SM cannot produce this on its own
 - proton decay has not been observed: $\tau_p > 10^{34}$ yr — constrains GUT couplings
 - electroweak phase transition is *crossover* in the SM — no first-order transition
@@ -66,8 +66,8 @@ but **we do not know** which mechanism. determining this is one of the major goa
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Brief thermal history](../../02_Zettel/Theory/Brief thermal history.md)
-- [Inflation overview](../../02_Zettel/Theory/Inflation overview.md)
-- [BBN_baryon_to_photon_ratio](../../02_Zettel/Theory/BBN_baryon_to_photon_ratio.md)
-- [Cosmic_inventory_baryons](../../02_Zettel/Theory/Cosmic_inventory_baryons.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Brief thermal history](../../02_Zettel/Theory/Brief thermal history.html)
+- [Inflation overview](../../02_Zettel/Theory/Inflation overview.html)
+- [BBN_baryon_to_photon_ratio](../../02_Zettel/Theory/BBN_baryon_to_photon_ratio.html)
+- [Cosmic_inventory_baryons](../../02_Zettel/Theory/Cosmic_inventory_baryons.html)

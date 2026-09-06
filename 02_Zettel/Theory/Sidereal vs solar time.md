@@ -60,7 +60,7 @@ a sidereal clock at the observatory then keeps track of $\Theta$ continuously. s
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Spherical_astronomy_complete](../../02_Zettel/Theory/Spherical_astronomy_complete.md)
-- [Equatorial system](../../02_Zettel/Theory/Equatorial system.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Spherical_astronomy_complete](../../02_Zettel/Theory/Spherical_astronomy_complete.html)
+- [Equatorial system](../../02_Zettel/Theory/Equatorial system.html)
 - Culmination and rise/set

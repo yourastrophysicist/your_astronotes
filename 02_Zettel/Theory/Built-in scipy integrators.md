@@ -146,7 +146,7 @@ y_init = np.zeros((2, x.size))
 sol = solve_bvp(rhs, bc, x, y_init)
 ```
 
-uses collocation, an alternative to [shooting](../../02_Zettel/Theory/Shooting method.md). usually more robust.
+uses collocation, an alternative to [shooting](../../02_Zettel/Theory/Shooting method.html). usually more robust.
 
 ## when to roll my own
 
@@ -159,9 +159,9 @@ for everything else, use the scipy black box. it has been tested by thousands of
 
 ## see also
 
-- [Trapezoidal rule](../../02_Zettel/Theory/Trapezoidal rule.md)
-- [Simpson's rule](../../02_Zettel/Theory/Simpson's rule.md)
-- [Runge-Kutta 4 method](../../02_Zettel/Theory/Runge-Kutta 4 method.md)
-- [Adaptive step size control](../../02_Zettel/Theory/Adaptive step size control.md)
-- [Shooting method](../../02_Zettel/Theory/Shooting method.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Trapezoidal rule](../../02_Zettel/Theory/Trapezoidal rule.html)
+- [Simpson's rule](../../02_Zettel/Theory/Simpson's rule.html)
+- [Runge-Kutta 4 method](../../02_Zettel/Theory/Runge-Kutta 4 method.html)
+- [Adaptive step size control](../../02_Zettel/Theory/Adaptive step size control.html)
+- [Shooting method](../../02_Zettel/Theory/Shooting method.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

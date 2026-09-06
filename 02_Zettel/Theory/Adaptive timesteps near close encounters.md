@@ -83,9 +83,9 @@ a real Pythagorean 3-body integrator (Burrau 1913, Szebehely & Peters 1967) uses
 
 ## see also
 
-- [Adaptive step size control](../../02_Zettel/Theory/Adaptive step size control.md)
-- [Astrophysical N-body problem formulation](../../02_Zettel/Theory/Astrophysical N-body problem formulation.md)
-- [Fourth-order Hermite predictor-corrector](../../02_Zettel/Theory/Fourth-order Hermite predictor-corrector.md)
-- [Collisional vs collisionless N-body](../../02_Zettel/Theory/Collisional vs collisionless N-body.md)
-- [The Pythagorean three-body problem](../../02_Zettel/Theory/The Pythagorean three-body problem.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Adaptive step size control](../../02_Zettel/Theory/Adaptive step size control.html)
+- [Astrophysical N-body problem formulation](../../02_Zettel/Theory/Astrophysical N-body problem formulation.html)
+- [Fourth-order Hermite predictor-corrector](../../02_Zettel/Theory/Fourth-order Hermite predictor-corrector.html)
+- [Collisional vs collisionless N-body](../../02_Zettel/Theory/Collisional vs collisionless N-body.html)
+- [The Pythagorean three-body problem](../../02_Zettel/Theory/The Pythagorean three-body problem.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

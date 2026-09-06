@@ -69,14 +69,14 @@ systematic post-Newtonian expansion handles binary inspirals to $\sim 4$PN curre
 
 ## see also
 
-- [Linearized metric perturbation](../../02_Zettel/Theory/Linearized metric perturbation.md)
-- [Trace-reversed perturbation](../../02_Zettel/Theory/Trace-reversed perturbation.md)
-- [Lorenz gauge](../../02_Zettel/Theory/Lorenz gauge.md)
-- [Linearized Christoffel and Riemann](../../02_Zettel/Theory/Linearized Christoffel and Riemann.md)
+- [Linearized metric perturbation](../../02_Zettel/Theory/Linearized metric perturbation.html)
+- [Trace-reversed perturbation](../../02_Zettel/Theory/Trace-reversed perturbation.html)
+- [Lorenz gauge](../../02_Zettel/Theory/Lorenz gauge.html)
+- [Linearized Christoffel and Riemann](../../02_Zettel/Theory/Linearized Christoffel and Riemann.html)
 - Q9 - weak-field Christoffel Gamma_i_00
 - Q10 - weak-field Ricci scalar
-- [Schwarzschild metric](../../02_Zettel/Theory/Schwarzschild metric.md)
-- [Perihelion precession](../../02_Zettel/Theory/Perihelion precession.md)
-- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.md)
-- [Ch 8 - Gravitational Waves](../../01_Literature/Book/Baumann GR/Ch 8 - Gravitational Waves.md)
-- [Newtonian Friedmann derivation](../../02_Zettel/Theory/Newtonian Friedmann derivation.md)
+- [Schwarzschild metric](../../02_Zettel/Theory/Schwarzschild metric.html)
+- [Perihelion precession](../../02_Zettel/Theory/Perihelion precession.html)
+- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.html)
+- [Ch 8 - Gravitational Waves](../../01_Literature/Book/Baumann GR/Ch 8 - Gravitational Waves.html)
+- [Newtonian Friedmann derivation](../../02_Zettel/Theory/Newtonian Friedmann derivation.html)

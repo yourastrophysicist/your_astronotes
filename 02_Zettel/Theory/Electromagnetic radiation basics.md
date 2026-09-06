@@ -72,7 +72,7 @@ unlike intensity, **the flux density is measurable**.
 for an isotropic point source of total luminosity $L$, the energy crossing any sphere of radius $r$ is $L$. so the flux density at distance $r$ is:
 $$F = \frac{L}{4\pi r^2}$$
 
-this is the **inverse-square law**: $F \propto 1/r^2$. it is the basis of every distance measurement using a standard candle (see [Parallax and standard candles](../../02_Zettel/Theory/Parallax and standard candles.md) and [Cosmic_inventory_dark_energy](../../02_Zettel/Theory/Cosmic_inventory_dark_energy.md)).
+this is the **inverse-square law**: $F \propto 1/r^2$. it is the basis of every distance measurement using a standard candle (see [Parallax and standard candles](../../02_Zettel/Theory/Parallax and standard candles.html) and [Cosmic_inventory_dark_energy](../../02_Zettel/Theory/Cosmic_inventory_dark_energy.html)).
 
 the units of $F$ are flux density (erg/cm$^2$/s), and $L$ is the **luminosity** (erg/s).
 
@@ -94,9 +94,9 @@ this distinction is the basis for all observational astronomy: what you measure 
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Blackbody radiation and Stefan-Boltzmann](../../02_Zettel/Theory/Blackbody radiation and Stefan-Boltzmann.md)
-- [Magnitudes and photometric systems](../../02_Zettel/Theory/Magnitudes and photometric systems.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Blackbody radiation and Stefan-Boltzmann](../../02_Zettel/Theory/Blackbody radiation and Stefan-Boltzmann.html)
+- [Magnitudes and photometric systems](../../02_Zettel/Theory/Magnitudes and photometric systems.html)
 - 03_Zettel/Theory/Cosmological distances
-- [Parallax and standard candles](../../02_Zettel/Theory/Parallax and standard candles.md)
-- [Luminosity and Flux for -Instrumentations](../../02_Zettel/Theory/Luminosity and Flux for -Instrumentations.md) — for the X-ray version
+- [Parallax and standard candles](../../02_Zettel/Theory/Parallax and standard candles.html)
+- [Luminosity and Flux for -Instrumentations](../../02_Zettel/Theory/Luminosity and Flux for -Instrumentations.html) — for the X-ray version

@@ -30,7 +30,7 @@ problem: GCs are crowded, IMBH influence radii are small ($< 1$" for $10^3\,M_\o
 
 ### 2. millisecond pulsar accelerations
 
-[MSPs](../../02_Zettel/Theory/Millisecond pulsars in GCs.md) in GC cores act as precision clocks. acceleration of an MSP toward the cluster centre due to a central IMBH would produce a measurable orbital period derivative. successfully applied in Terzan 5, NGC 6440, M28 — none has yet given an unambiguous IMBH detection but constrains $M_{\rm BH} < 10^3$-$10^4\,M_\odot$.
+[MSPs](../../02_Zettel/Theory/Millisecond pulsars in GCs.html) in GC cores act as precision clocks. acceleration of an MSP toward the cluster centre due to a central IMBH would produce a measurable orbital period derivative. successfully applied in Terzan 5, NGC 6440, M28 — none has yet given an unambiguous IMBH detection but constrains $M_{\rm BH} < 10^3$-$10^4\,M_\odot$.
 
 ### 3. radio + X-ray accretion signatures
 
@@ -56,7 +56,7 @@ a key result: even if many GCs have IMBHs, they likely sit at $M_{\rm BH} \sim 1
 
 ## connection to gravitational waves
 
-LIGO-Virgo BH-BH mergers (e.g., GW190521, $M = 85 + 66 \to 142\,M_\odot$) have produced **direct evidence** for IMBHs from a single merger event. the mass of GW190521's remnant ($\sim 142\,M_\odot$) sits in the lower IMBH range. some authors argue GCs are the natural production sites of such heavy BH-BH binaries (see [BHs from gravitational waves](../../02_Zettel/Theory/BHs from gravitational waves.md)).
+LIGO-Virgo BH-BH mergers (e.g., GW190521, $M = 85 + 66 \to 142\,M_\odot$) have produced **direct evidence** for IMBHs from a single merger event. the mass of GW190521's remnant ($\sim 142\,M_\odot$) sits in the lower IMBH range. some authors argue GCs are the natural production sites of such heavy BH-BH binaries (see [BHs from gravitational waves](../../02_Zettel/Theory/BHs from gravitational waves.html)).
 
 ## why this matters
 
@@ -80,10 +80,10 @@ confirming or denying their existence is one of the open frontiers of stellar dy
 
 ## see also
 
-- [Black holes in globular clusters](../../02_Zettel/Theory/Black holes in globular clusters.md)
-- [Hunting BHs via radial velocities](../../02_Zettel/Theory/Hunting BHs via radial velocities.md)
-- [BHs from gravitational waves](../../02_Zettel/Theory/BHs from gravitational waves.md)
-- [Millisecond pulsars in GCs](../../02_Zettel/Theory/Millisecond pulsars in GCs.md)
-- [X-ray sources in globular clusters](../../02_Zettel/Theory/X-ray sources in globular clusters.md)
-- [AGN and supermassive black holes](../../02_Zettel/Theory/interf/AGN and supermassive black holes.md)
-- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.md)
+- [Black holes in globular clusters](../../02_Zettel/Theory/Black holes in globular clusters.html)
+- [Hunting BHs via radial velocities](../../02_Zettel/Theory/Hunting BHs via radial velocities.html)
+- [BHs from gravitational waves](../../02_Zettel/Theory/BHs from gravitational waves.html)
+- [Millisecond pulsars in GCs](../../02_Zettel/Theory/Millisecond pulsars in GCs.html)
+- [X-ray sources in globular clusters](../../02_Zettel/Theory/X-ray sources in globular clusters.html)
+- [AGN and supermassive black holes](../../02_Zettel/Theory/interf/AGN and supermassive black holes.html)
+- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.html)

@@ -55,7 +55,7 @@ so a virialized halo is about 178 times denser than the background. hence the co
 
 ## why $\delta_c \approx 1.686$ matters
 
-the spherical collapse threshold is the input to the **Press-Schechter halo mass function** (see [Press-Schechter halo mass function](../../02_Zettel/Theory/Press-Schechter halo mass function.md)). the idea: given the linear matter power spectrum $P_m(k)$, smooth it on scale $R$ to get the variance $\sigma^2(R)$ of the linear $\delta$ field. the fraction of mass in collapsed halos of mass $> M(R)$ is approximately the probability that a Gaussian field exceeds $\delta_c$:
+the spherical collapse threshold is the input to the **Press-Schechter halo mass function** (see [Press-Schechter halo mass function](../../02_Zettel/Theory/Press-Schechter halo mass function.html)). the idea: given the linear matter power spectrum $P_m(k)$, smooth it on scale $R$ to get the variance $\sigma^2(R)$ of the linear $\delta$ field. the fraction of mass in collapsed halos of mass $> M(R)$ is approximately the probability that a Gaussian field exceeds $\delta_c$:
 $$f_{\rm collapse}(>M) = \text{erfc}\left(\frac{\delta_c}{\sqrt 2 \sigma(M)}\right)$$
 
 so $\delta_c$ is the bridge between linear theory and the actual abundance of dark-matter halos.
@@ -78,9 +78,9 @@ corrections beyond spherical collapse:
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Linear evolution of perturbations in expanding universe](../../02_Zettel/Theory/Linear evolution of perturbations in expanding universe.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Linear evolution of perturbations in expanding universe](../../02_Zettel/Theory/Linear evolution of perturbations in expanding universe.html)
 - [Growth factor D(z)](../../02_Zettel/Theory/Growth factor D(z).md)
-- [Press-Schechter halo mass function](../../02_Zettel/Theory/Press-Schechter halo mass function.md)
-- [Jeans analysis in expanding universe](../../02_Zettel/Theory/Jeans analysis in expanding universe.md)
-- [Matter power spectrum and BAO](../../02_Zettel/Theory/Matter power spectrum and BAO.md)
+- [Press-Schechter halo mass function](../../02_Zettel/Theory/Press-Schechter halo mass function.html)
+- [Jeans analysis in expanding universe](../../02_Zettel/Theory/Jeans analysis in expanding universe.html)
+- [Matter power spectrum and BAO](../../02_Zettel/Theory/Matter power spectrum and BAO.html)

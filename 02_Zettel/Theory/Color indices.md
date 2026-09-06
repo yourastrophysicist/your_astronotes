@@ -12,7 +12,7 @@ intrinsically a one-number summary of the **shape** of the SED across two bandpa
 
 - **independent of distance**: both fluxes drop as $1/d^2$, the ratio is preserved.
 - **probe of temperature**: hotter blackbodies are bluer (less $B - V$ for example).
-- **probe of redshift**: at high $z$, spectral features shift through filters and colors change in characteristic ways. basis of [Photometric redshifts](../../02_Zettel/Theory/Photometric redshifts.md).
+- **probe of redshift**: at high $z$, spectral features shift through filters and colors change in characteristic ways. basis of [Photometric redshifts](../../02_Zettel/Theory/Photometric redshifts.html).
 - **probe of dust extinction**: dust reddens, so excess $E(B-V) \equiv (B - V)_{\rm obs} - (B - V)_{\rm intrinsic} > 0$.
 - **probe of stellar population age**: a young SSP is bluer, an old one redder.
 
@@ -39,11 +39,11 @@ galaxy SDSS color $u - r$ shows a clear **bimodality** between:
 - **red sequence**: $u - r \gtrsim 2.3$, passive ellipticals.
 - **green valley**: in between, transitional galaxies.
 
-see [Color bimodality of galaxies](../../02_Zettel/Theory/Color bimodality of galaxies.md) and [Red sequence and blue cloud](../../02_Zettel/Theory/Red sequence and blue cloud.md) for the cosmological context.
+see [Color bimodality of galaxies](../../02_Zettel/Theory/Color bimodality of galaxies.html) and [Red sequence and blue cloud](../../02_Zettel/Theory/Red sequence and blue cloud.html) for the cosmological context.
 
 ## color-magnitude diagrams (CMDs)
 
-plotting magnitude vs color for individual stars gives the observational version of the [HR diagram](../../02_Zettel/Theory/HR diagram.md). for cluster stars: a single, well-defined isochrone, with a turnoff at the mass-dependent main-sequence lifetime point.
+plotting magnitude vs color for individual stars gives the observational version of the [HR diagram](../../02_Zettel/Theory/HR diagram.html). for cluster stars: a single, well-defined isochrone, with a turnoff at the mass-dependent main-sequence lifetime point.
 
 for galaxies: a color-magnitude diagram of galaxies in a cluster shows the red sequence, used to determine the cluster redshift.
 
@@ -57,12 +57,12 @@ reddening vector on the CMD: a parallel shift along $B - V$ proportional to $E(B
 
 ## see also
 
-- [Magnitudes and photometric systems](../../02_Zettel/Theory/Magnitudes and photometric systems.md)
-- [Pogson magnitudes and flux relation](../../02_Zettel/Theory/Pogson magnitudes and flux relation.md)
-- [Filter systems and bandpasses](../../02_Zettel/Theory/Filter systems and bandpasses.md)
-- [Bolometric correction and effective temperature](../../02_Zettel/Theory/Bolometric correction and effective temperature.md)
-- [HR diagram](../../02_Zettel/Theory/HR diagram.md)
-- [Color bimodality of galaxies](../../02_Zettel/Theory/Color bimodality of galaxies.md)
-- [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.md)
-- [Photometric redshifts](../../02_Zettel/Theory/Photometric redshifts.md)
-- [Interstellar absorption](../../02_Zettel/Theory/Interstellar absorption.md)
+- [Magnitudes and photometric systems](../../02_Zettel/Theory/Magnitudes and photometric systems.html)
+- [Pogson magnitudes and flux relation](../../02_Zettel/Theory/Pogson magnitudes and flux relation.html)
+- [Filter systems and bandpasses](../../02_Zettel/Theory/Filter systems and bandpasses.html)
+- [Bolometric correction and effective temperature](../../02_Zettel/Theory/Bolometric correction and effective temperature.html)
+- [HR diagram](../../02_Zettel/Theory/HR diagram.html)
+- [Color bimodality of galaxies](../../02_Zettel/Theory/Color bimodality of galaxies.html)
+- [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.html)
+- [Photometric redshifts](../../02_Zettel/Theory/Photometric redshifts.html)
+- [Interstellar absorption](../../02_Zettel/Theory/Interstellar absorption.html)

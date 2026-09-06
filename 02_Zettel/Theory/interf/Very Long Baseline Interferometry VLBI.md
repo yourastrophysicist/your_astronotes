@@ -119,8 +119,8 @@ source: ESO image eso1907j, EHT planet-scale array illustration.
 
 ## see also
 
-- [Connected element interferometer](../../../02_Zettel/Theory/interf/Connected element interferometer.md)
-- [Major radio interferometers](../../../02_Zettel/Theory/interf/Major radio interferometers.md)
-- [Event Horizon Telescope EHT](../../../02_Zettel/Theory/interf/Event Horizon Telescope EHT.md)
-- [Earth rotation synthesis in radio](../../../02_Zettel/Theory/interf/Earth rotation synthesis in radio.md)
-- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Connected element interferometer](../../../02_Zettel/Theory/interf/Connected element interferometer.html)
+- [Major radio interferometers](../../../02_Zettel/Theory/interf/Major radio interferometers.html)
+- [Event Horizon Telescope EHT](../../../02_Zettel/Theory/interf/Event Horizon Telescope EHT.html)
+- [Earth rotation synthesis in radio](../../../02_Zettel/Theory/interf/Earth rotation synthesis in radio.html)
+- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.html)

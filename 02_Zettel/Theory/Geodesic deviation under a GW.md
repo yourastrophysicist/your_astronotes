@@ -61,13 +61,13 @@ the GW changes the **proper distance** between them via geodesic deviation, obse
 
 ## see also
 
-- [Geodesic deviation](../../02_Zettel/Theory/Geodesic deviation.md)
-- [Transverse traceless gauge](../../02_Zettel/Theory/Transverse traceless gauge.md)
-- [Plus and cross polarizations](../../02_Zettel/Theory/Plus and cross polarizations.md)
-- [Quadrupole formula](../../02_Zettel/Theory/Quadrupole formula.md)
-- [GW energy and angular momentum](../../02_Zettel/Theory/GW energy and angular momentum.md)
-- [Riemann tensor](../../02_Zettel/Theory/Riemann tensor.md)
-- [Linearized metric perturbation](../../02_Zettel/Theory/Linearized metric perturbation.md)
+- [Geodesic deviation](../../02_Zettel/Theory/Geodesic deviation.html)
+- [Transverse traceless gauge](../../02_Zettel/Theory/Transverse traceless gauge.html)
+- [Plus and cross polarizations](../../02_Zettel/Theory/Plus and cross polarizations.html)
+- [Quadrupole formula](../../02_Zettel/Theory/Quadrupole formula.html)
+- [GW energy and angular momentum](../../02_Zettel/Theory/GW energy and angular momentum.html)
+- [Riemann tensor](../../02_Zettel/Theory/Riemann tensor.html)
+- [Linearized metric perturbation](../../02_Zettel/Theory/Linearized metric perturbation.html)
 - Q17 - Riemann R_0x0x for a TT plane wave
-- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.md)
-- [Ch 8 - Gravitational Waves](../../01_Literature/Book/Baumann GR/Ch 8 - Gravitational Waves.md)
+- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.html)
+- [Ch 8 - Gravitational Waves](../../01_Literature/Book/Baumann GR/Ch 8 - Gravitational Waves.html)

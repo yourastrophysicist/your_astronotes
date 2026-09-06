@@ -4,11 +4,11 @@ name: Open clusters as young SSP laboratories
 description: low-mass disk clusters that probe young and intermediate-age stellar evolution before they dissolve
 ---
 
-open clusters are the young-population complement to globulars in the SSP-laboratory pairing. where [Globular clusters as SSP laboratories](../../02_Zettel/Theory/Globular clusters as SSP laboratories.md) pin down low-mass evolution at old ages, open clusters span the age range from $\sim 1$ Myr to a few Gyr and supply the calibration for high-mass evolution, the upper main sequence, and the early post-MS phases.
+open clusters are the young-population complement to globulars in the SSP-laboratory pairing. where [Globular clusters as SSP laboratories](../../02_Zettel/Theory/Globular clusters as SSP laboratories.html) pin down low-mass evolution at old ages, open clusters span the age range from $\sim 1$ Myr to a few Gyr and supply the calibration for high-mass evolution, the upper main sequence, and the early post-MS phases.
 
 their basic numbers: $N_\star \sim 10^2$ to a few $\times 10^3$ stars, half-mass radii $\sim 1$ to $5$ pc, total masses $10^2$ to $10^4 \, M_\odot$, and central densities orders of magnitude lower than GCs. they are *weakly bound*: the typical crossing time $t_\mathrm{cross} \sim r_h / \sigma_v \sim$ a few Myr, while the cluster's tidal-disruption time in the disk is $t_\mathrm{diss} \sim 10^8$ to $10^9$ yr. essentially all open clusters dissolve within $1$ Gyr, with the rare survivors (NGC 188, M67, berkeley 17) being the dynamically robust outliers used for absolute-age work on intermediate-age populations.
 
-they live in the *thin disk* of the host galaxy, follow disk kinematics ($\sigma_z \lesssim 20$ km/s), and inherit the disk metallicity at their birth radius. for milky way disk clusters this is roughly solar with a galactocentric gradient $d[\mathrm{Fe}/\mathrm{H}]/dR_g \approx -0.06$ dex/kpc. they are population I objects (see [Population I and II stars](../../02_Zettel/Theory/Population I and II stars.md)).
+they live in the *thin disk* of the host galaxy, follow disk kinematics ($\sigma_z \lesssim 20$ km/s), and inherit the disk metallicity at their birth radius. for milky way disk clusters this is roughly solar with a galactocentric gradient $d[\mathrm{Fe}/\mathrm{H}]/dR_g \approx -0.06$ dex/kpc. they are population I objects (see [Population I and II stars](../../02_Zettel/Theory/Population I and II stars.html)).
 
 three canonical examples define the calibration ladder:
 
@@ -27,9 +27,9 @@ their main weakness is small $N$, which means short-lived post-MS phases are sta
 a research-grade modern application is using gaia-DR3 astrometry to identify "moving groups" of common-origin stars dispersed from now-dissolved open clusters, recovering stellar associations that have already crossed their dissolution time.
 
 ## see also
-- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.md)
-- [Star cluster types](../../02_Zettel/Theory/Star cluster types.md)
-- [Globular clusters as SSP laboratories](../../02_Zettel/Theory/Globular clusters as SSP laboratories.md)
-- [Single stellar population SSP](../../02_Zettel/Theory/Single stellar population SSP.md)
-- [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.md)
-- [Stellar populations I II III](../../02_Zettel/Theory/Stellar populations I II III.md)
+- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.html)
+- [Star cluster types](../../02_Zettel/Theory/Star cluster types.html)
+- [Globular clusters as SSP laboratories](../../02_Zettel/Theory/Globular clusters as SSP laboratories.html)
+- [Single stellar population SSP](../../02_Zettel/Theory/Single stellar population SSP.html)
+- [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.html)
+- [Stellar populations I II III](../../02_Zettel/Theory/Stellar populations I II III.html)

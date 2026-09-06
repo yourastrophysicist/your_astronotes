@@ -83,7 +83,7 @@ a 50/50 beam splitter on the input would naively give 50/50 on the output ports.
 
 resolution: there are *two* output ports (the detector port and the back-toward-source port). when the detector sees constructive, the back port sees destructive, and vice versa. *energy is conserved across the two ports*, and one port at a time can have 100% or 0%.
 
-this is why pure Michelson is sometimes called "wasteful": half the light goes back toward the source. the [Mach-Zehnder interferometer](../../02_Zettel/Theory/interf/Mach-Zehnder interferometer.md) uses *both* outputs and is more efficient for some applications.
+this is why pure Michelson is sometimes called "wasteful": half the light goes back toward the source. the [Mach-Zehnder interferometer](../../02_Zettel/Theory/interf/Mach-Zehnder interferometer.html) uses *both* outputs and is more efficient for some applications.
 
 ## the modern variants
 
@@ -109,9 +109,9 @@ both are called "Michelson interferometer" and both share the inventor, but they
 
 ## see also
 
-- [Amplitude-division interferometers](../../02_Zettel/Theory/Amplitude-division interferometers.md)
-- [Beam splitter physics](../../02_Zettel/Theory/interf/Beam splitter physics.md)
-- [Mach-Zehnder interferometer](../../02_Zettel/Theory/interf/Mach-Zehnder interferometer.md)
-- [Michelson stellar interferometer](../../02_Zettel/Theory/interf/Michelson stellar interferometer.md)
-- [Optical path difference OPD](../../02_Zettel/Theory/interf/Optical path difference OPD.md)
-- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Amplitude-division interferometers](../../02_Zettel/Theory/Amplitude-division interferometers.html)
+- [Beam splitter physics](../../02_Zettel/Theory/interf/Beam splitter physics.html)
+- [Mach-Zehnder interferometer](../../02_Zettel/Theory/interf/Mach-Zehnder interferometer.html)
+- [Michelson stellar interferometer](../../02_Zettel/Theory/interf/Michelson stellar interferometer.html)
+- [Optical path difference OPD](../../02_Zettel/Theory/interf/Optical path difference OPD.html)
+- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.html)

@@ -58,7 +58,7 @@ at Mauna Kea, Cerro Paranal, La Palma: $\mu_V \approx 21.7$ to $22.0$ mag/arcsec
 
 ## practical consequence: sky-limited regime
 
-for faint sources, photon noise from sky pixels dominates the noise budget (see [CCD detectors and SNR](../../02_Zettel/Theory/CCD detectors and SNR.md) and [The CCD equation](../../02_Zettel/Theory/The CCD equation.md)). the signal-to-noise ratio is then
+for faint sources, photon noise from sky pixels dominates the noise budget (see [CCD detectors and SNR](../../02_Zettel/Theory/CCD detectors and SNR.html) and [The CCD equation](../../02_Zettel/Theory/The CCD equation.html)). the signal-to-noise ratio is then
 $${\rm SNR} \approx \frac{N_*}{\sqrt{n_{\rm pix} N_{\rm sky}}}$$
 which says:
 - a darker sky (fewer $N_{\rm sky}$ photons per pixel per second) gives higher SNR at fixed $t$.
@@ -68,10 +68,10 @@ so at faint magnitudes a small telescope at a dark site can outperform a big one
 
 ## see also
 
-- [Earth atmosphere for observations](../../02_Zettel/Theory/Earth atmosphere for observations.md)
-- [CCD detectors and SNR](../../02_Zettel/Theory/CCD detectors and SNR.md)
-- [The CCD equation](../../02_Zettel/Theory/The CCD equation.md)
-- [Atmospheric layers](../../02_Zettel/Theory/interf/Atmospheric layers.md)
-- [Atmospheric transparency windows](../../02_Zettel/Theory/interf/Atmospheric transparency windows.md)
-- [Filter systems and bandpasses](../../02_Zettel/Theory/Filter systems and bandpasses.md)
-- [Ecliptic system](../../02_Zettel/Theory/Ecliptic system.md) — zodiacal light
+- [Earth atmosphere for observations](../../02_Zettel/Theory/Earth atmosphere for observations.html)
+- [CCD detectors and SNR](../../02_Zettel/Theory/CCD detectors and SNR.html)
+- [The CCD equation](../../02_Zettel/Theory/The CCD equation.html)
+- [Atmospheric layers](../../02_Zettel/Theory/interf/Atmospheric layers.html)
+- [Atmospheric transparency windows](../../02_Zettel/Theory/interf/Atmospheric transparency windows.html)
+- [Filter systems and bandpasses](../../02_Zettel/Theory/Filter systems and bandpasses.html)
+- [Ecliptic system](../../02_Zettel/Theory/Ecliptic system.html) — zodiacal light

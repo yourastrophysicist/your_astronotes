@@ -9,7 +9,7 @@ title: "Luminosity"
 
 The full treatment — spectral luminosity, band luminosity, bolometric luminosity, and the connection to observed flux — is in:
 
-→ [Luminosity and Flux for -Instrumentations](../../02_Zettel/Theory/Luminosity and Flux for -Instrumentations.md)
+→ [Luminosity and Flux for -Instrumentations](../../02_Zettel/Theory/Luminosity and Flux for -Instrumentations.html)
 
 ---
 
@@ -39,4 +39,4 @@ $$L_{Edd} \approx 1.3 \times 10^{38} \left(\frac{M}{M_\odot}\right) \text{ erg s
 | Quasar (bolometric) | $10^{45}$–$10^{48}$ |
 | Galaxy cluster (X-ray Bremsstrahlung) | $10^{44}$–$10^{45}$ |
 
-These numbers define the Eddington ratios and accretion rates discussed in [Accretion onto compact objects](../../02_Zettel/Theory/Accretion onto compact objects.md)
+These numbers define the Eddington ratios and accretion rates discussed in [Accretion onto compact objects](../../02_Zettel/Theory/Accretion onto compact objects.html)

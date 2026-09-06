@@ -4,7 +4,7 @@ name: Hunting BHs via radial velocities
 description: single-line spectroscopic binaries with massive dark companions, NGC 3201 BH (Giesers 2018) and M22 candidate
 ---
 
-a stellar-mass [black hole](../../02_Zettel/Theory/Black holes in globular clusters.md) in a binary, if it is not currently accreting, is invisible to electromagnetic surveys. the only way to find it is dynamically: look for a luminous star whose radial velocity oscillates as it orbits an unseen massive companion. these are called **single-line spectroscopic binaries** (SB1, only one star contributes spectral lines).
+a stellar-mass [black hole](../../02_Zettel/Theory/Black holes in globular clusters.html) in a binary, if it is not currently accreting, is invisible to electromagnetic surveys. the only way to find it is dynamically: look for a luminous star whose radial velocity oscillates as it orbits an unseen massive companion. these are called **single-line spectroscopic binaries** (SB1, only one star contributes spectral lines).
 
 **the method**
 
@@ -19,7 +19,7 @@ $$f(M) = \frac{(M_2 \sin i)^3}{(M_1 + M_2)^2} = \frac{P\, K_1^3}{2\pi G} (1 - e^
 
 where $M_1$ is the visible star and $M_2$ the unseen companion.
 
-5. with an estimate of $M_1$ from the [CMD](../../02_Zettel/Theory/HR diagram.md) position and assumed inclination $i$, derive a lower limit on $M_2$. a value $M_2 \gg 1.4\,M_\odot$ rules out a WD or NS and points to a BH.
+5. with an estimate of $M_1$ from the [CMD](../../02_Zettel/Theory/HR diagram.html) position and assumed inclination $i$, derive a lower limit on $M_2$. a value $M_2 \gg 1.4\,M_\odot$ rules out a WD or NS and points to a BH.
 
 **NGC 3201 (Giesers et al. 2018)**
 
@@ -36,17 +36,17 @@ an earlier candidate in M22 was based on radio continuum detection of two compac
 **limitations and biases**
 
 - the method is sensitive only to **edge-on** systems; at low inclination $\sin i$, the inferred $M_2 \sin i$ underestimates the true mass.
-- the method is sensitive only to systems with a luminous companion; pure BH-BH binaries need [gravitational waves](../../02_Zettel/Theory/BHs from gravitational waves.md) to find.
+- the method is sensitive only to systems with a luminous companion; pure BH-BH binaries need [gravitational waves](../../02_Zettel/Theory/BHs from gravitational waves.html) to find.
 - short-period (< days) systems are easiest; year-long orbits require long observational baselines.
 - "dark" companions could in principle be very heavy white dwarfs or neutron stars near maximum mass; only a clear $> 3\,M_\odot$ minimum allows BH identification.
 
 **outlook**
 
-the next decade will multiply BH detections in clusters: ESO MUSE deep surveys, the upcoming ELT high-resolution spectrographs, Gaia astrometric binaries (already producing field BH candidates like Gaia BH1 and BH2), and combined RV+astrometry will yield population statistics. the predicted BH population per cluster is a key constraint on the [LIGO-Virgo](../../02_Zettel/Theory/BHs from gravitational waves.md) dynamical-merger channel.
+the next decade will multiply BH detections in clusters: ESO MUSE deep surveys, the upcoming ELT high-resolution spectrographs, Gaia astrometric binaries (already producing field BH candidates like Gaia BH1 and BH2), and combined RV+astrometry will yield population statistics. the predicted BH population per cluster is a key constraint on the [LIGO-Virgo](../../02_Zettel/Theory/BHs from gravitational waves.html) dynamical-merger channel.
 
 ## see also
-- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.md)
-- [Black holes in globular clusters](../../02_Zettel/Theory/Black holes in globular clusters.md)
-- [Intermediate-mass BHs in GCs](../../02_Zettel/Theory/Intermediate-mass BHs in GCs.md)
-- [BHs from gravitational waves](../../02_Zettel/Theory/BHs from gravitational waves.md)
-- [Binary star orbits](../../02_Zettel/Theory/interf/Binary star orbits.md)
+- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.html)
+- [Black holes in globular clusters](../../02_Zettel/Theory/Black holes in globular clusters.html)
+- [Intermediate-mass BHs in GCs](../../02_Zettel/Theory/Intermediate-mass BHs in GCs.html)
+- [BHs from gravitational waves](../../02_Zettel/Theory/BHs from gravitational waves.html)
+- [Binary star orbits](../../02_Zettel/Theory/interf/Binary star orbits.html)

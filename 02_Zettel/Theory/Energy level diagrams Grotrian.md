@@ -62,12 +62,12 @@ energy conversion: $1$ eV = $8065.54$ cm$^{-1}$, or $\lambda$(Å) $= 12398.42 / 
 
 ## see also
 
-- [Quantum numbers and atomic states](../../02_Zettel/Theory/Quantum numbers and atomic states.md)
-- [Atomic term symbols](../../02_Zettel/Theory/Atomic term symbols.md)
-- [Hund's rules](../../02_Zettel/Theory/Hund's rules.md)
-- [Selection rules](../../02_Zettel/Theory/Selection rules.md)
-- [Hydrogen spectral series](../../02_Zettel/Theory/Hydrogen spectral series.md)
-- [Helium energy levels](../../02_Zettel/Theory/Helium energy levels.md)
-- [Sodium and alkalis](../../02_Zettel/Theory/Sodium and alkalis.md)
-- [Forbidden lines](../../02_Zettel/Theory/Forbidden lines.md)
-- [Rydberg-Ritz formula](../../02_Zettel/Theory/Rydberg-Ritz formula.md)
+- [Quantum numbers and atomic states](../../02_Zettel/Theory/Quantum numbers and atomic states.html)
+- [Atomic term symbols](../../02_Zettel/Theory/Atomic term symbols.html)
+- [Hund's rules](../../02_Zettel/Theory/Hund's rules.html)
+- [Selection rules](../../02_Zettel/Theory/Selection rules.html)
+- [Hydrogen spectral series](../../02_Zettel/Theory/Hydrogen spectral series.html)
+- [Helium energy levels](../../02_Zettel/Theory/Helium energy levels.html)
+- [Sodium and alkalis](../../02_Zettel/Theory/Sodium and alkalis.html)
+- [Forbidden lines](../../02_Zettel/Theory/Forbidden lines.html)
+- [Rydberg-Ritz formula](../../02_Zettel/Theory/Rydberg-Ritz formula.html)

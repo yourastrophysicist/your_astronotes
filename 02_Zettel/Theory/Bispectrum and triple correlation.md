@@ -89,10 +89,10 @@ introduced by **Lohmann, Weigelt, and Wirnitzer** (1983) — the "Erlangen group
 
 ## see also
 
-- [Speckle interferometry](../../02_Zettel/Theory/interf/Speckle interferometry.md)
-- [Theory of speckle interferometry](../../02_Zettel/Theory/interf/Theory of speckle interferometry.md)
-- [Aperture masking](../../02_Zettel/Theory/interf/Aperture masking.md)
-- [Speckle imaging algorithms](../../02_Zettel/Theory/interf/Speckle imaging algorithms.md)
-- [Phase closure](../../02_Zettel/Theory/interf/Phase closure.md)
-- [Closure amplitude](../../02_Zettel/Theory/interf/Closure amplitude.md)
-- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Speckle interferometry](../../02_Zettel/Theory/interf/Speckle interferometry.html)
+- [Theory of speckle interferometry](../../02_Zettel/Theory/interf/Theory of speckle interferometry.html)
+- [Aperture masking](../../02_Zettel/Theory/interf/Aperture masking.html)
+- [Speckle imaging algorithms](../../02_Zettel/Theory/interf/Speckle imaging algorithms.html)
+- [Phase closure](../../02_Zettel/Theory/interf/Phase closure.html)
+- [Closure amplitude](../../02_Zettel/Theory/interf/Closure amplitude.html)
+- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.html)

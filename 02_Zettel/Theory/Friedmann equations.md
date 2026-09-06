@@ -22,7 +22,7 @@ the source of cosmic acceleration is $\rho + 3p$, not just $\rho$. for ordinary 
 stress-energy conservation gives:
 $$\dot \rho + 3H(\rho + p) = 0$$
 
-see [Continuity equation](../../02_Zettel/Theory/Continuity equation.md).
+see [Continuity equation](../../02_Zettel/Theory/Continuity equation.html).
 
 ## why two equations + one conservation = consistent
 
@@ -67,18 +67,18 @@ each species's contribution scales with $z$ according to its equation of state. 
 
 ## see also
 
-- [FLRW metric](../../02_Zettel/Theory/FLRW metric.md)
-- [Spatial curvature parameter k](../../02_Zettel/Theory/Spatial curvature parameter k.md)
-- [Continuity equation](../../02_Zettel/Theory/Continuity equation.md)
-- [Equation of state and density scaling](../../02_Zettel/Theory/Equation of state and density scaling.md)
-- [Cosmic eras](../../02_Zettel/Theory/Cosmic eras.md)
-- [Matter radiation equality](../../02_Zettel/Theory/Matter radiation equality.md)
-- [Hubble constant and deceleration parameter](../../02_Zettel/Theory/Hubble constant and deceleration parameter.md)
-- [Newtonian Friedmann derivation](../../02_Zettel/Theory/Newtonian Friedmann derivation.md)
+- [FLRW metric](../../02_Zettel/Theory/FLRW metric.html)
+- [Spatial curvature parameter k](../../02_Zettel/Theory/Spatial curvature parameter k.html)
+- [Continuity equation](../../02_Zettel/Theory/Continuity equation.html)
+- [Equation of state and density scaling](../../02_Zettel/Theory/Equation of state and density scaling.html)
+- [Cosmic eras](../../02_Zettel/Theory/Cosmic eras.html)
+- [Matter radiation equality](../../02_Zettel/Theory/Matter radiation equality.html)
+- [Hubble constant and deceleration parameter](../../02_Zettel/Theory/Hubble constant and deceleration parameter.html)
+- [Newtonian Friedmann derivation](../../02_Zettel/Theory/Newtonian Friedmann derivation.html)
 - Friedmann equations with Λ
-- [Cosmological constant](../../02_Zettel/Theory/Cosmological constant.md)
+- [Cosmological constant](../../02_Zettel/Theory/Cosmological constant.html)
 - Q18 - derive the acceleration equation
 - Q19 - radiation universe
 - Q20 - matter plus radiation universe
-- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.md)
-- [Ch 7 - Cosmology](../../01_Literature/Book/Baumann GR/Ch 7 - Cosmology.md)
+- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.html)
+- [Ch 7 - Cosmology](../../01_Literature/Book/Baumann GR/Ch 7 - Cosmology.html)

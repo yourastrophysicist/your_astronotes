@@ -5,7 +5,7 @@ title: "Photoelectric absorption"
 
 # X-ray Photoelectric Absorption
 
-In the complex [refractive index](../../02_Zettel/Theory/Grazing incidence.md) of a material:
+In the complex [refractive index](../../02_Zettel/Theory/Grazing incidence.html) of a material:
 $$n = 1 - \delta + i\beta$$
 the imaginary part $\beta$ is directly related to **photoelectric absorption**.  
 It describes how X-ray photons are attenuated as they travel through matter.
@@ -68,7 +68,7 @@ $$\mu = n_{atoms} \cdot \sigma_{ph}$$
 Because photoelectric absorption is dominant at low X-ray energies:
 - Mirror coatings (e.g. Au, Ir, Pt) are chosen for **low $\beta$** to minimize absorption and maximize reflectivity
 - The **critical angle** $\theta_c \approx \sqrt{2\delta}$ sets the grazing incidence limit, but $\beta$ determines how much intensity is lost even below $\theta_c$
-- Detectors like [CCDs](../../02_Zettel/Theory/CCDs for X-rays.md) exploit photoelectric absorption: the incoming photon liberates a charge cloud proportional to $E_{ph}$
+- Detectors like [CCDs](../../02_Zettel/Theory/CCDs for X-rays.html) exploit photoelectric absorption: the incoming photon liberates a charge cloud proportional to $E_{ph}$
 
 ---
 
@@ -81,4 +81,4 @@ Because photoelectric absorption is dominant at low X-ray energies:
 | Signature       | Absorption edges at shell binding energies |
 | Role in $n$     | Encoded in imaginary part $\beta$          |
 
-> **Exam tip:** photoelectric absorption is the *dominant* photon-matter interaction at X-ray energies below ~100 keV, above which Compton scattering takes over. See [Compton scattering and pair production](../../02_Zettel/Theory/Compton scattering and pair production.md).
+> **Exam tip:** photoelectric absorption is the *dominant* photon-matter interaction at X-ray energies below ~100 keV, above which Compton scattering takes over. See [Compton scattering and pair production](../../02_Zettel/Theory/Compton scattering and pair production.html).

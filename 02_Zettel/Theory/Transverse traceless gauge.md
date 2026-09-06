@@ -36,7 +36,7 @@ so two independent functions:
 - **$h_+$ ("plus")**: stretches along $x$, squeezes along $y$.
 - **$h_\times$ ("cross")**: stretches along $x = y$, squeezes along $x = -y$. rotated $45°$ from plus.
 
-see [Plus and cross polarizations](../../02_Zettel/Theory/Plus and cross polarizations.md) for the test-mass picture.
+see [Plus and cross polarizations](../../02_Zettel/Theory/Plus and cross polarizations.html) for the test-mass picture.
 
 ## reaching TT gauge
 
@@ -57,14 +57,14 @@ TT gauge works only:
 
 ## see also
 
-- [Linearized metric perturbation](../../02_Zettel/Theory/Linearized metric perturbation.md)
-- [Linearized gauge transformations](../../02_Zettel/Theory/Linearized gauge transformations.md)
-- [Lorenz gauge](../../02_Zettel/Theory/Lorenz gauge.md)
-- [Trace-reversed perturbation](../../02_Zettel/Theory/Trace-reversed perturbation.md)
-- [Plus and cross polarizations](../../02_Zettel/Theory/Plus and cross polarizations.md)
-- [Geodesic deviation under a GW](../../02_Zettel/Theory/Geodesic deviation under a GW.md)
-- [Quadrupole formula](../../02_Zettel/Theory/Quadrupole formula.md)
+- [Linearized metric perturbation](../../02_Zettel/Theory/Linearized metric perturbation.html)
+- [Linearized gauge transformations](../../02_Zettel/Theory/Linearized gauge transformations.html)
+- [Lorenz gauge](../../02_Zettel/Theory/Lorenz gauge.html)
+- [Trace-reversed perturbation](../../02_Zettel/Theory/Trace-reversed perturbation.html)
+- [Plus and cross polarizations](../../02_Zettel/Theory/Plus and cross polarizations.html)
+- [Geodesic deviation under a GW](../../02_Zettel/Theory/Geodesic deviation under a GW.html)
+- [Quadrupole formula](../../02_Zettel/Theory/Quadrupole formula.html)
 - Q16 - Christoffels for a TT plane wave
 - Q17 - Riemann R_0x0x for a TT plane wave
-- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.md)
-- [Ch 8 - Gravitational Waves](../../01_Literature/Book/Baumann GR/Ch 8 - Gravitational Waves.md)
+- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.html)
+- [Ch 8 - Gravitational Waves](../../01_Literature/Book/Baumann GR/Ch 8 - Gravitational Waves.html)

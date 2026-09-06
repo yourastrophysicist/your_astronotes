@@ -92,7 +92,7 @@ at the iron core, fusion is endothermic. when the iron core exceeds the Chandras
 
 ## elements beyond iron: s- and r-process
 
-iron is the most tightly bound nucleus per nucleon (peak of the binding energy curve, see the [BBN_overview](../../02_Zettel/Theory/BBN_overview.md) note). beyond iron, fusion *requires* energy input. so heavier elements form by **neutron capture**:
+iron is the most tightly bound nucleus per nucleon (peak of the binding energy curve, see the [BBN_overview](../../02_Zettel/Theory/BBN_overview.html) note). beyond iron, fusion *requires* energy input. so heavier elements form by **neutron capture**:
 
 ### slow process (s-process)
 in low-mass AGB stars (~few $M_\odot$). neutrons are captured slowly, with $\tau_{n-{\rm capture}} \gg \tau_{\beta-{\rm decay}}$. nuclei climb the valley of stability one neutron at a time, β-decaying when they get unstable.
@@ -116,7 +116,7 @@ stellar nucleosynthesis is what produced **everything heavier than helium** in t
 - the silicon in computer chips
 - everything
 
-it also enriches the **ISM** with heavy elements as stars die — see [Chemical evolution of galaxies](../../02_Zettel/Theory/Chemical evolution of galaxies.md). so the metallicity of stars and gas in galaxies records the **integrated history of star formation** in that galaxy.
+it also enriches the **ISM** with heavy elements as stars die — see [Chemical evolution of galaxies](../../02_Zettel/Theory/Chemical evolution of galaxies.html). so the metallicity of stars and gas in galaxies records the **integrated history of star formation** in that galaxy.
 
 → measuring metallicity is one of the prime probes of galaxy evolution.
 
@@ -124,10 +124,10 @@ it also enriches the **ISM** with heavy elements as stars die — see [Chemical 
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [BBN_overview](../../02_Zettel/Theory/BBN_overview.md) — primordial nucleosynthesis (the baseline before stars start)
-- [HR diagram](../../02_Zettel/Theory/HR diagram.md)
-- [Stellar structure equations](../../02_Zettel/Theory/Stellar structure equations.md)
-- [Stellar evolution timescales](../../02_Zettel/Theory/Stellar evolution timescales.md)
-- [Solar evolution and final stages](../../02_Zettel/Theory/Solar evolution and final stages.md)
-- [Chemical evolution of galaxies](../../02_Zettel/Theory/Chemical evolution of galaxies.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [BBN_overview](../../02_Zettel/Theory/BBN_overview.html) — primordial nucleosynthesis (the baseline before stars start)
+- [HR diagram](../../02_Zettel/Theory/HR diagram.html)
+- [Stellar structure equations](../../02_Zettel/Theory/Stellar structure equations.html)
+- [Stellar evolution timescales](../../02_Zettel/Theory/Stellar evolution timescales.html)
+- [Solar evolution and final stages](../../02_Zettel/Theory/Solar evolution and final stages.html)
+- [Chemical evolution of galaxies](../../02_Zettel/Theory/Chemical evolution of galaxies.html)

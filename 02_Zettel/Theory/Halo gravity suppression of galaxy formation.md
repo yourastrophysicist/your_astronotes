@@ -5,11 +5,11 @@ title: "Halo gravity suppression of galaxy formation"
 
 # halo gravity suppression of galaxy formation
 
-up: [Pablo_02_Statistical_properties_of_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.md)
+up: [Pablo_02_Statistical_properties_of_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html)
 
 ## the question
 
-why does the [Halo mass function vs galaxy mass function](../../02_Zettel/Theory/Halo mass function vs galaxy mass function.md) gap exist? why is galaxy formation efficient at $M_h \sim 10^{12}\,M_\odot$ and not at $M_h \sim 10^{10}$ or $M_h \sim 10^{14}$?
+why does the [Halo mass function vs galaxy mass function](../../02_Zettel/Theory/Halo mass function vs galaxy mass function.html) gap exist? why is galaxy formation efficient at $M_h \sim 10^{12}\,M_\odot$ and not at $M_h \sim 10^{10}$ or $M_h \sim 10^{14}$?
 
 the answer is two different feedback channels operating at the two ends of the halo mass function, both regulated by the depth of the halo gravitational potential.
 
@@ -45,7 +45,7 @@ at $M_h \sim 10^{12}\,M_\odot$:
 - $T_{\text{vir}} \sim 10^6$ K, low enough that the cooling time is shorter than the Hubble time (cooling function has a minimum around $10^6$ K)
 - AGN have not yet built up enough to shut down accretion
 
-so galaxy formation is *most efficient* here. this is what the [Stellar-to-halo mass ratio](../../02_Zettel/Theory/Stellar-to-halo mass ratio.md) peak shows.
+so galaxy formation is *most efficient* here. this is what the [Stellar-to-halo mass ratio](../../02_Zettel/Theory/Stellar-to-halo mass ratio.html) peak shows.
 
 ## what i remember
 
@@ -53,10 +53,10 @@ the SMF is *not* the result of differing baryon budgets, it is the result of *fe
 
 ## connections
 
-- consequence: [Stellar-to-halo mass ratio](../../02_Zettel/Theory/Stellar-to-halo mass ratio.md)
-- function comparison: [Halo mass function vs galaxy mass function](../../02_Zettel/Theory/Halo mass function vs galaxy mass function.md)
+- consequence: [Stellar-to-halo mass ratio](../../02_Zettel/Theory/Stellar-to-halo mass ratio.html)
+- function comparison: [Halo mass function vs galaxy mass function](../../02_Zettel/Theory/Halo mass function vs galaxy mass function.html)
 - related course block 8 topic: spherical collapse, Press-Schechter
-- color side: [Green valley and quenching tracks](../../02_Zettel/Theory/Green valley and quenching tracks.md), [Galaxy color, density and morphology](../../02_Zettel/Theory/Galaxy color, density and morphology.md)
+- color side: [Green valley and quenching tracks](../../02_Zettel/Theory/Green valley and quenching tracks.html), [Galaxy color, density and morphology](../../02_Zettel/Theory/Galaxy color, density and morphology.html)
 
 ## key references
 

@@ -5,7 +5,7 @@ title: "Stellar population synthesis"
 
 # stellar population synthesis
 
-up: [Pablo_03_Star_formation_in_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.md)
+up: [Pablo_03_Star_formation_in_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html)
 
 ## the goal
 
@@ -22,10 +22,10 @@ $$L_\lambda^{\text{gal}}(t) = \int_0^t \psi(t - \tau)\, L_\lambda^{\text{SSP}}(\
 ## the ingredients (Pablo's slide)
 
 1. **metallicity $Z$**. solar: $Z_\odot = 0.020$ (BC03) or $0.0142$ (Asplund). SPS libraries span $Z/Z_\odot = 10^{-4}$ to $\sim 2$
-2. **IMF**. Salpeter, Kroupa, Chabrier. see [Initial mass function](../../02_Zettel/Theory/Initial mass function.md)
-3. **SFH**. SSP, continuous, tau-models, delayed. see [Star formation history parametrizations](../../02_Zettel/Theory/Star formation history parametrizations.md)
+2. **IMF**. Salpeter, Kroupa, Chabrier. see [Initial mass function](../../02_Zettel/Theory/Initial mass function.html)
+3. **SFH**. SSP, continuous, tau-models, delayed. see [Star formation history parametrizations](../../02_Zettel/Theory/Star formation history parametrizations.html)
 4. **age**. measured from onset of SF
-5. **attenuation curve + $A_V$**. see [Dust attenuation and extinction curves](../../02_Zettel/Theory/Dust attenuation and extinction curves.md)
+5. **attenuation curve + $A_V$**. see [Dust attenuation and extinction curves](../../02_Zettel/Theory/Dust attenuation and extinction curves.html)
 6. **mass normalization**. arbitrary overall factor
 
 ## what SSP codes do internally
@@ -74,11 +74,11 @@ used as a Starburst99 → CLOUDY chain to predict nebular emission lines in SFGs
 
 ## connections
 
-- input for SFR: [SED fitting for SFH](../../02_Zettel/Theory/SED fitting for SFH.md)
-- IMF: [Initial mass function](../../02_Zettel/Theory/Initial mass function.md)
-- SFH: [Star formation history parametrizations](../../02_Zettel/Theory/Star formation history parametrizations.md)
-- dust: [Dust attenuation and extinction curves](../../02_Zettel/Theory/Dust attenuation and extinction curves.md)
-- chemical yields: [Chemical evolution of galaxies](../../02_Zettel/Theory/Chemical evolution of galaxies.md)
+- input for SFR: [SED fitting for SFH](../../02_Zettel/Theory/SED fitting for SFH.html)
+- IMF: [Initial mass function](../../02_Zettel/Theory/Initial mass function.html)
+- SFH: [Star formation history parametrizations](../../02_Zettel/Theory/Star formation history parametrizations.html)
+- dust: [Dust attenuation and extinction curves](../../02_Zettel/Theory/Dust attenuation and extinction curves.html)
+- chemical yields: [Chemical evolution of galaxies](../../02_Zettel/Theory/Chemical evolution of galaxies.html)
 
 ## key references
 

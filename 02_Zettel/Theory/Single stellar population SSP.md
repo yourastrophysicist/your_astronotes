@@ -58,7 +58,7 @@ the **mass-to-light ratio** $\Upsilon \equiv M_*/L_*$ thus increases by $\sim 10
 
 ## the K-band advantage
 
-in the K-band, $\Upsilon_K(\tau)$ varies by only $\sim 30\%$ over the relevant age range $1$ to $10$ Gyr. K-band is therefore the **least age-dependent tracer of stellar mass**, central to extragalactic stellar-mass measurements (see [Stellar mass estimation in unresolved populations](../../02_Zettel/Theory/Stellar mass estimation in unresolved populations.md)).
+in the K-band, $\Upsilon_K(\tau)$ varies by only $\sim 30\%$ over the relevant age range $1$ to $10$ Gyr. K-band is therefore the **least age-dependent tracer of stellar mass**, central to extragalactic stellar-mass measurements (see [Stellar mass estimation in unresolved populations](../../02_Zettel/Theory/Stellar mass estimation in unresolved populations.html)).
 
 ## SSPs as building blocks
 
@@ -69,12 +69,12 @@ with $\psi(t')$ the star formation history and $Z(t')$ the chemical evolution. s
 
 ## see also
 
-- [Stellar population synthesis](../../02_Zettel/Theory/Stellar population synthesis.md)
-- [SPS code families](../../02_Zettel/Theory/SPS code families.md)
-- [Initial mass function](../../02_Zettel/Theory/Initial mass function.md)
-- [Stellar populations I II III](../../02_Zettel/Theory/Stellar populations I II III.md)
-- [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.md)
-- [Lick indices](../../02_Zettel/Theory/Lick indices.md)
-- [Age-metallicity degeneracy](../../02_Zettel/Theory/Age-metallicity degeneracy.md)
-- [Star formation history of a population](../../02_Zettel/Theory/Star formation history of a population.md)
-- [Mass-luminosity relation](../../02_Zettel/Theory/Mass-luminosity relation.md)
+- [Stellar population synthesis](../../02_Zettel/Theory/Stellar population synthesis.html)
+- [SPS code families](../../02_Zettel/Theory/SPS code families.html)
+- [Initial mass function](../../02_Zettel/Theory/Initial mass function.html)
+- [Stellar populations I II III](../../02_Zettel/Theory/Stellar populations I II III.html)
+- [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.html)
+- [Lick indices](../../02_Zettel/Theory/Lick indices.html)
+- [Age-metallicity degeneracy](../../02_Zettel/Theory/Age-metallicity degeneracy.html)
+- [Star formation history of a population](../../02_Zettel/Theory/Star formation history of a population.html)
+- [Mass-luminosity relation](../../02_Zettel/Theory/Mass-luminosity relation.html)

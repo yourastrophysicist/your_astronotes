@@ -47,18 +47,18 @@ quantitatively, the jump in stars is **negative** (continuum is smaller at $\lam
 
 the near-UV continuum of an HII region sits on top of multiple contributions:
 1. **Balmer continuum** (recombination to $n = 2$).
-2. **2-photon continuum** (Two-photon emission from $2s \to 1s$, see [Two-photon emission](../../02_Zettel/Theory/Two-photon emission.md)).
-3. **Free-free** ([Bremsstrahlung](../../02_Zettel/Theory/Bremsstrahlung.md)) at the same wavelengths.
+2. **2-photon continuum** (Two-photon emission from $2s \to 1s$, see [Two-photon emission](../../02_Zettel/Theory/Two-photon emission.html)).
+3. **Free-free** ([Bremsstrahlung](../../02_Zettel/Theory/Bremsstrahlung.html)) at the same wavelengths.
 
 their sum is the **observed UV continuum** of the nebula. each has a different shape, so the SED encodes information about the gas conditions.
 
 ## see also
 
-- [Recombination continuum](../../02_Zettel/Theory/Recombination continuum.md)
-- [Two-photon emission](../../02_Zettel/Theory/Two-photon emission.md)
-- [Bremsstrahlung](../../02_Zettel/Theory/Bremsstrahlung.md)
-- [Free-free continuum](../../02_Zettel/Theory/Free-free continuum.md)
-- [Hydrogen spectral series](../../02_Zettel/Theory/Hydrogen spectral series.md)
-- [Optically thin recombination lines](../../02_Zettel/Theory/Optically thin recombination lines.md)
-- [Continuum opacity sources](../../02_Zettel/Theory/Continuum opacity sources.md)
-- [H II region spectroscopy](../../02_Zettel/Theory/H II region spectroscopy.md)
+- [Recombination continuum](../../02_Zettel/Theory/Recombination continuum.html)
+- [Two-photon emission](../../02_Zettel/Theory/Two-photon emission.html)
+- [Bremsstrahlung](../../02_Zettel/Theory/Bremsstrahlung.html)
+- [Free-free continuum](../../02_Zettel/Theory/Free-free continuum.html)
+- [Hydrogen spectral series](../../02_Zettel/Theory/Hydrogen spectral series.html)
+- [Optically thin recombination lines](../../02_Zettel/Theory/Optically thin recombination lines.html)
+- [Continuum opacity sources](../../02_Zettel/Theory/Continuum opacity sources.html)
+- [H II region spectroscopy](../../02_Zettel/Theory/H II region spectroscopy.html)

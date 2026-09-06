@@ -70,11 +70,11 @@ so water-maser masses are powerful but **niche**. complementary to stellar dynam
 
 ## see also
 
-- [Galactic Center Sgr A and S-stars](../../02_Zettel/Theory/interf/Galactic Center Sgr A and S-stars.md)
-- [Reverberation mapping](../../02_Zettel/Theory/Reverberation mapping.md)
-- [Stellar dynamics SMBH masses](../../02_Zettel/Theory/Stellar dynamics SMBH masses.md)
-- [Magorrian relation](../../02_Zettel/Theory/Magorrian relation.md)
-- [M sigma relation](../../02_Zettel/Theory/M sigma relation.md)
-- [AGN spectroscopy](../../02_Zettel/Theory/AGN spectroscopy.md)
-- [Hubble law](../../02_Zettel/Theory/Hubble law.md)
-- [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.md)
+- [Galactic Center Sgr A and S-stars](../../02_Zettel/Theory/interf/Galactic Center Sgr A and S-stars.html)
+- [Reverberation mapping](../../02_Zettel/Theory/Reverberation mapping.html)
+- [Stellar dynamics SMBH masses](../../02_Zettel/Theory/Stellar dynamics SMBH masses.html)
+- [Magorrian relation](../../02_Zettel/Theory/Magorrian relation.html)
+- [M sigma relation](../../02_Zettel/Theory/M sigma relation.html)
+- [AGN spectroscopy](../../02_Zettel/Theory/AGN spectroscopy.html)
+- [Hubble law](../../02_Zettel/Theory/Hubble law.html)
+- [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.html)

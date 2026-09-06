@@ -6,7 +6,7 @@ title: "Hint - TODO 1.1 Loading Data with np.loadtxt"
 # Hint - TODO 1.1 Loading Data with np.loadtxt
 
 **Target TODO**: TODO 1.1 in Module_1_Random_Sampling_and_Monte_Carlo  
-**Related Zettels**: [Numpy arrays vs Python lists](../../02_Zettel/Theory/Numpy arrays vs Python lists.md), [Pandas for tabular astrophysics data](../../02_Zettel/Theory/Pandas for tabular astrophysics data.md)
+**Related Zettels**: [Numpy arrays vs Python lists](../../02_Zettel/Theory/Numpy arrays vs Python lists.html), [Pandas for tabular astrophysics data](../../02_Zettel/Theory/Pandas for tabular astrophysics data.html)
 
 ---
 

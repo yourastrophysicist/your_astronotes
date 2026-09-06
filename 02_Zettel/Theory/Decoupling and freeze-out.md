@@ -52,7 +52,7 @@ remarkably, weak-scale annihilation cross-sections $\langle\sigma v\rangle \sim 
 
 ## the n/p freeze-out as a textbook example
 
-in BBN (see [BBN_overview](../../02_Zettel/Theory/BBN_overview.md)), the neutron-to-proton ratio is regulated by weak interactions:
+in BBN (see [BBN_overview](../../02_Zettel/Theory/BBN_overview.html)), the neutron-to-proton ratio is regulated by weak interactions:
 $$n + \nu \leftrightarrow p + e, \qquad n \to p + e + \bar\nu, \dots$$
 
 while $\Gamma_w \gg H$, $(n/p) = e^{-Q/T}$ tracks equilibrium. when $\Gamma_w \approx H$ at $T_F \sim 0.8$ MeV:
@@ -60,7 +60,7 @@ $$\left(\frac{n}{p}\right)_{\rm freeze-out} = e^{-Q/T_F} \approx \frac{1}{6}$$
 
 this frozen ratio determines the primordial $^4$He abundance (about 25%).
 
-→ see [BBN_neutron_proton_ratio](../../02_Zettel/Theory/BBN_neutron_proton_ratio.md).
+→ see [BBN_neutron_proton_ratio](../../02_Zettel/Theory/BBN_neutron_proton_ratio.html).
 
 ---
 
@@ -72,12 +72,12 @@ note: photons "decouple" at recombination, but they do not "freeze out" in the W
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Thermal equilibrium in the early universe](../../02_Zettel/Theory/Thermal equilibrium in the early universe.md)
-- [Conservation of entropy in a comoving volume](../../02_Zettel/Theory/Conservation of entropy in a comoving volume.md)
-- [BBN_overview](../../02_Zettel/Theory/BBN_overview.md)
-- [BBN_neutron_proton_ratio](../../02_Zettel/Theory/BBN_neutron_proton_ratio.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Thermal equilibrium in the early universe](../../02_Zettel/Theory/Thermal equilibrium in the early universe.html)
+- [Conservation of entropy in a comoving volume](../../02_Zettel/Theory/Conservation of entropy in a comoving volume.html)
+- [BBN_overview](../../02_Zettel/Theory/BBN_overview.html)
+- [BBN_neutron_proton_ratio](../../02_Zettel/Theory/BBN_neutron_proton_ratio.html)
 - Dark matter relics — WIMP miracle
-- [Hot vs cold dark matter](../../02_Zettel/Theory/Hot vs cold dark matter.md)
-- [Boltzmann equation in cosmology](../../02_Zettel/Theory/Boltzmann equation in cosmology.md)
-- [Baumann_reference](../../02_Zettel/Theory/Baumann_reference.md) — chapter 3.1.2 covers decoupling and freeze-out in detail
+- [Hot vs cold dark matter](../../02_Zettel/Theory/Hot vs cold dark matter.html)
+- [Boltzmann equation in cosmology](../../02_Zettel/Theory/Boltzmann equation in cosmology.html)
+- [Baumann_reference](../../02_Zettel/Theory/Baumann_reference.html) — chapter 3.1.2 covers decoupling and freeze-out in detail

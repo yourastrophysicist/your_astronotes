@@ -3,7 +3,7 @@ layout: default
 title: "Cosmic_inventory_dark_matter"
 ---
 
-"matter" in cosmology means non-relativistic, pressureless stuff. the four baryon methods (see [Cosmic_inventory_baryons](../../02_Zettel/Theory/Cosmic_inventory_baryons.md)) depend on photon-matter interaction; there are *other* methods that bypass photons entirely and exploit gravity:
+"matter" in cosmology means non-relativistic, pressureless stuff. the four baryon methods (see [Cosmic_inventory_baryons](../../02_Zettel/Theory/Cosmic_inventory_baryons.html)) depend on photon-matter interaction; there are *other* methods that bypass photons entirely and exploit gravity:
 
 > *typically one exploits the gravitational effects that matter determines, e.g. the gravitational field produced by a given system from which one infers the mass of the system.*
 
@@ -71,7 +71,7 @@ galactic rotation curves only give a *galaxy-scale* measurement. the more compel
 2. **cosmic velocity fields** — peculiar motions trace the underlying gravitational potential
 3. **measurements that depend on $\Omega_b/\Omega_m$**, like:
    - X-ray and Sunyaev-Zel'dovich measurements of cluster gas
-   - **baryon acoustic oscillations** in the matter power spectrum (see [Matter power spectrum and BAO](../../02_Zettel/Theory/Matter power spectrum and BAO.md))
+   - **baryon acoustic oscillations** in the matter power spectrum (see [Matter power spectrum and BAO](../../02_Zettel/Theory/Matter power spectrum and BAO.html))
 4. **CMB temperature anisotropies and polarization** — the peak heights fix $\Omega_m h^2$
 
 ### CMB anisotropies fix the total matter
@@ -104,7 +104,7 @@ zoom out on $P_m(k)$:
 
 the **turnover** at $k \sim 0.02\,h\,\text{Mpc}^{-1}$ corresponds to the **horizon size at matter-radiation equality** — directly sensitive to $\Omega_m h^2$. modes that entered the horizon during radiation domination did not grow (Meszaros effect); modes that entered later did. so the position of the turnover fixes the matter density.
 
-→ see [Matter power spectrum and BAO](../../02_Zettel/Theory/Matter power spectrum and BAO.md) for the full physics.
+→ see [Matter power spectrum and BAO](../../02_Zettel/Theory/Matter power spectrum and BAO.html) for the full physics.
 
 ---
 
@@ -116,15 +116,15 @@ unknown. candidates include:
 - **sterile neutrinos** at keV scale
 - **primordial black holes**
 
-distinguishing **hot vs cold dark matter** by structure formation: see [Hot vs cold dark matter](../../02_Zettel/Theory/Hot vs cold dark matter.md). observations strongly favor cold dark matter (CDM), the C in ΛCDM.
+distinguishing **hot vs cold dark matter** by structure formation: see [Hot vs cold dark matter](../../02_Zettel/Theory/Hot vs cold dark matter.html). observations strongly favor cold dark matter (CDM), the C in ΛCDM.
 
 ---
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Cosmic_inventory_overview](../../02_Zettel/Theory/Cosmic_inventory_overview.md)
-- [Cosmic_inventory_baryons](../../02_Zettel/Theory/Cosmic_inventory_baryons.md)
-- [Matter power spectrum and BAO](../../02_Zettel/Theory/Matter power spectrum and BAO.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Cosmic_inventory_overview](../../02_Zettel/Theory/Cosmic_inventory_overview.html)
+- [Cosmic_inventory_baryons](../../02_Zettel/Theory/Cosmic_inventory_baryons.html)
+- [Matter power spectrum and BAO](../../02_Zettel/Theory/Matter power spectrum and BAO.html)
 - Dark matter relics — WIMP miracle
-- [Hot vs cold dark matter](../../02_Zettel/Theory/Hot vs cold dark matter.md)
+- [Hot vs cold dark matter](../../02_Zettel/Theory/Hot vs cold dark matter.html)

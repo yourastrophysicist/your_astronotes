@@ -5,7 +5,7 @@ title: "Double power-law modified Schechter"
 
 # double power-law modified schechter
 
-up: [Pablo_02_Statistical_properties_of_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.md) · [Schechter function](../../02_Zettel/Theory/Schechter function.md)
+up: [Pablo_02_Statistical_properties_of_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html) · [Schechter function](../../02_Zettel/Theory/Schechter function.html)
 
 ## why a single schechter is not enough at high z
 
@@ -39,7 +39,7 @@ this is interpreted as **luminosity evolution**: every galaxy's IR luminosity gr
 
 ## what the modified form buys
 
-- properly matches the **counts** (bright-end excess in $dN/dS$ at high $z$, see [Differential vs cumulative number counts](../../02_Zettel/Theory/Differential vs cumulative number counts.md))
+- properly matches the **counts** (bright-end excess in $dN/dS$ at high $z$, see [Differential vs cumulative number counts](../../02_Zettel/Theory/Differential vs cumulative number counts.html))
 - gives the right **luminosity density** when integrated (a single Schechter under-predicts $\rho_L$ at high $z$ by 20–50%)
 - decouples evolution in $L^*$ from evolution in $\alpha$ (a single Schechter often forces $\alpha$ to absorb the excess)
 
@@ -49,9 +49,9 @@ Schechter is the *local* fit. at high $z$, the bright end fattens. you either fi
 
 ## connections
 
-- baseline form: [Schechter function](../../02_Zettel/Theory/Schechter function.md)
-- bright-end excess matters in counts: [Galaxy counts at different wavelengths](../../02_Zettel/Theory/Galaxy counts at different wavelengths.md)
-- LF evolution drives [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.md)
+- baseline form: [Schechter function](../../02_Zettel/Theory/Schechter function.html)
+- bright-end excess matters in counts: [Galaxy counts at different wavelengths](../../02_Zettel/Theory/Galaxy counts at different wavelengths.html)
+- LF evolution drives [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.html)
 
 ## key references
 

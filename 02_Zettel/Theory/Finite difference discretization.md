@@ -53,7 +53,7 @@ solve with Gauss-Seidel, conjugate gradient, multigrid, or sparse direct methods
 discretize space *and* time. with FTCS:
 $$\frac{u_{i,j}^{n+1} - u_{i,j}^n}{\Delta t} = D \cdot (\text{5-point Laplacian of } u^n)_{i,j}$$
 
-solve for $u_{i,j}^{n+1}$ explicitly. each timestep is a single matrix-vector multiplication. see [Initial value PDEs and FTCS](../../02_Zettel/Theory/Initial value PDEs and FTCS.md).
+solve for $u_{i,j}^{n+1}$ explicitly. each timestep is a single matrix-vector multiplication. see [Initial value PDEs and FTCS](../../02_Zettel/Theory/Initial value PDEs and FTCS.html).
 
 ## boundary conditions in the discretization
 
@@ -89,9 +89,9 @@ these come at the cost of more complex stencil definitions (the simple "$u_{i+1}
 
 ## see also
 
-- [Forward backward and central differences](../../02_Zettel/Theory/Forward backward and central differences.md)
-- [Second derivatives](../../02_Zettel/Theory/Second derivatives.md)
-- [Initial value PDEs and FTCS](../../02_Zettel/Theory/Initial value PDEs and FTCS.md)
-- [Boundary value PDEs and iteration](../../02_Zettel/Theory/Boundary value PDEs and iteration.md)
-- [Stability and the Courant condition](../../02_Zettel/Theory/Stability and the Courant condition.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Forward backward and central differences](../../02_Zettel/Theory/Forward backward and central differences.html)
+- [Second derivatives](../../02_Zettel/Theory/Second derivatives.html)
+- [Initial value PDEs and FTCS](../../02_Zettel/Theory/Initial value PDEs and FTCS.html)
+- [Boundary value PDEs and iteration](../../02_Zettel/Theory/Boundary value PDEs and iteration.html)
+- [Stability and the Courant condition](../../02_Zettel/Theory/Stability and the Courant condition.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

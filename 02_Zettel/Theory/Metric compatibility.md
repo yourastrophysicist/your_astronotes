@@ -55,11 +55,11 @@ several powerful tools:
 
 ## see also
 
-- [Levi-Civita connection](../../02_Zettel/Theory/Levi-Civita connection.md)
-- [Christoffel symbols](../../02_Zettel/Theory/Christoffel symbols.md)
-- [Covariant derivative](../../02_Zettel/Theory/Covariant derivative.md)
-- [Parallel transport](../../02_Zettel/Theory/Parallel transport.md)
-- [Geodesic equation](../../02_Zettel/Theory/Geodesic equation.md)
+- [Levi-Civita connection](../../02_Zettel/Theory/Levi-Civita connection.html)
+- [Christoffel symbols](../../02_Zettel/Theory/Christoffel symbols.html)
+- [Covariant derivative](../../02_Zettel/Theory/Covariant derivative.html)
+- [Parallel transport](../../02_Zettel/Theory/Parallel transport.html)
+- [Geodesic equation](../../02_Zettel/Theory/Geodesic equation.html)
 - Q4 - metric compatibility on the 2-sphere
-- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.md)
-- [Ch 2 - Some Differential Geometry](../../01_Literature/Book/Baumann GR/Ch 2 - Some Differential Geometry.md)
+- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.html)
+- [Ch 2 - Some Differential Geometry](../../01_Literature/Book/Baumann GR/Ch 2 - Some Differential Geometry.html)

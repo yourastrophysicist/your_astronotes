@@ -3,7 +3,7 @@ layout: default
 title: "Number density and energy density at thermal equilibrium"
 ---
 
-at temperatures where a species is in thermal equilibrium with the rest of the universe, its phase-space density follows the Bose-Einstein or Fermi-Dirac distribution (see [Thermal equilibrium in the early universe](../../02_Zettel/Theory/Thermal equilibrium in the early universe.md)). integrating gives clean expressions for **number density**, **energy density**, and **pressure**.
+at temperatures where a species is in thermal equilibrium with the rest of the universe, its phase-space density follows the Bose-Einstein or Fermi-Dirac distribution (see [Thermal equilibrium in the early universe](../../02_Zettel/Theory/Thermal equilibrium in the early universe.html)). integrating gives clean expressions for **number density**, **energy density**, and **pressure**.
 
 ---
 
@@ -75,7 +75,7 @@ $$g_{*s}(T) = \sum_{\rm bosons} g_i \left(\frac{T_i}{T}\right)^3 + \frac{7}{8}\s
 
 note: $g_{*s}$ uses **cubes** of the temperature ratio, $g_*$ uses **fourths**. they coincide when all species share the photon temperature, but differ after neutrino decoupling.
 
-→ see [Conservation of entropy in a comoving volume](../../02_Zettel/Theory/Conservation of entropy in a comoving volume.md).
+→ see [Conservation of entropy in a comoving volume](../../02_Zettel/Theory/Conservation of entropy in a comoving volume.html).
 
 ---
 
@@ -95,15 +95,15 @@ $$T^2 t \approx \frac{M_{\rm Pl}}{2 \sqrt{(8\pi^3/90) g_*}}$$
 
 with $M_{\rm Pl} = (8\pi G)^{-1/2}$ the reduced Planck mass.
 
-→ see [Temperature-time relation](../../02_Zettel/Theory/Temperature-time relation.md) for the worked-out form.
+→ see [Temperature-time relation](../../02_Zettel/Theory/Temperature-time relation.html) for the worked-out form.
 
 ---
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Thermal equilibrium in the early universe](../../02_Zettel/Theory/Thermal equilibrium in the early universe.md)
-- [Conservation of entropy in a comoving volume](../../02_Zettel/Theory/Conservation of entropy in a comoving volume.md)
-- [Temperature-time relation](../../02_Zettel/Theory/Temperature-time relation.md)
-- [Brief thermal history](../../02_Zettel/Theory/Brief thermal history.md)
-- [BBN_overview](../../02_Zettel/Theory/BBN_overview.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Thermal equilibrium in the early universe](../../02_Zettel/Theory/Thermal equilibrium in the early universe.html)
+- [Conservation of entropy in a comoving volume](../../02_Zettel/Theory/Conservation of entropy in a comoving volume.html)
+- [Temperature-time relation](../../02_Zettel/Theory/Temperature-time relation.html)
+- [Brief thermal history](../../02_Zettel/Theory/Brief thermal history.html)
+- [BBN_overview](../../02_Zettel/Theory/BBN_overview.html)

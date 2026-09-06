@@ -31,7 +31,7 @@ $$j(H\alpha) = n_e n_p\,\alpha^{\rm eff}_{H\alpha}\,h\nu_{H\alpha}$$
 so for an HII region with $n_e \sim n_p \sim 100$ cm$^{-3}$:
 $j(H\alpha) \sim 10^4 \cdot 1.17 \times 10^{-13} \cdot 3 \times 10^{-12}$ erg/cm$^3$/s $\sim 3.5 \times 10^{-21}$ erg/cm$^3$/s.
 
-integrated over the volume of a Strömgren sphere, this gives a typical HII region $H\alpha$ luminosity, used as an SFR tracer ([H-alpha SFR tracer](../../02_Zettel/Theory/H-alpha SFR tracer.md)).
+integrated over the volume of a Strömgren sphere, this gives a typical HII region $H\alpha$ luminosity, used as an SFR tracer ([H-alpha SFR tracer](../../02_Zettel/Theory/H-alpha SFR tracer.html)).
 
 ## case A vs case B
 
@@ -54,15 +54,15 @@ these are essentially **temperature-independent** (only $T_e^{-0.07}$ scaling), 
 deviations from these ratios are interpreted as **dust extinction**: the Balmer decrement gives $A_V$ via
 $$E(B - V) \approx 2.0\,\log_{10}\left[\frac{F(H\alpha)/F(H\beta)|_{\rm obs}}{2.86}\right]$$
 
-see [Balmer decrement](../../02_Zettel/Theory/Balmer decrement.md).
+see [Balmer decrement](../../02_Zettel/Theory/Balmer decrement.html).
 
 ## see also
 
-- [Case A vs Case B recombination](../../02_Zettel/Theory/Case A vs Case B recombination.md)
-- [Recombination line emissivity](../../02_Zettel/Theory/Recombination line emissivity.md)
-- [H-alpha SFR tracer](../../02_Zettel/Theory/H-alpha SFR tracer.md)
-- [Balmer decrement](../../02_Zettel/Theory/Balmer decrement.md)
-- [Recombination continuum](../../02_Zettel/Theory/Recombination continuum.md)
-- [Hydrogen spectral series](../../02_Zettel/Theory/Hydrogen spectral series.md)
-- [Two-level atom](../../02_Zettel/Theory/Two-level atom.md)
-- [Statistical equilibrium equations](../../02_Zettel/Theory/Statistical equilibrium equations.md)
+- [Case A vs Case B recombination](../../02_Zettel/Theory/Case A vs Case B recombination.html)
+- [Recombination line emissivity](../../02_Zettel/Theory/Recombination line emissivity.html)
+- [H-alpha SFR tracer](../../02_Zettel/Theory/H-alpha SFR tracer.html)
+- [Balmer decrement](../../02_Zettel/Theory/Balmer decrement.html)
+- [Recombination continuum](../../02_Zettel/Theory/Recombination continuum.html)
+- [Hydrogen spectral series](../../02_Zettel/Theory/Hydrogen spectral series.html)
+- [Two-level atom](../../02_Zettel/Theory/Two-level atom.html)
+- [Statistical equilibrium equations](../../02_Zettel/Theory/Statistical equilibrium equations.html)

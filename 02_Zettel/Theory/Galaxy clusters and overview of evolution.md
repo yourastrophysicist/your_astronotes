@@ -34,7 +34,7 @@ three roughly comparable mass components:
 | **hot intracluster medium (ICM)** | $\sim 13\%$ | X-ray emission, SZ effect |
 | **galaxies (stars)** | $\sim 2\%$ | optical/NIR imaging |
 
-the **galaxies are the smallest mass component**! most baryons in clusters are in the ICM — diffuse hot gas at $T \sim 10^7$–$10^8$ K, emitting X-rays via thermal Bremsstrahlung (see [Bremsstrahlung](../../02_Zettel/Theory/Bremsstrahlung.md)).
+the **galaxies are the smallest mass component**! most baryons in clusters are in the ICM — diffuse hot gas at $T \sim 10^7$–$10^8$ K, emitting X-rays via thermal Bremsstrahlung (see [Bremsstrahlung](../../02_Zettel/Theory/Bremsstrahlung.html)).
 
 ---
 
@@ -52,7 +52,7 @@ X-ray observations (Chandra, XMM-Newton) directly map the ICM. derived quantitie
 - **total mass** via hydrostatic equilibrium (assuming the gas is in HSE)
 - **metallicity** of the ICM ($\sim 0.3 Z_\odot$, enriched by SNe in cluster galaxies)
 
-→ see [Lab_High-Energy_MOC](../../00_Atlas/Lab_High-Energy_MOC.md) for the X-ray instrumentation.
+→ see [Lab_High-Energy_MOC](../../00_Atlas/Lab_High-Energy_MOC.html) for the X-ray instrumentation.
 
 ---
 
@@ -73,7 +73,7 @@ cluster abundance is a **direct probe of cosmological parameters**:
 - the **redshift evolution** $dn/dM(z)$ probes the growth factor $D(z)$
 - both are sensitive to dark matter and dark energy
 
-→ see [Press-Schechter halo mass function](../../02_Zettel/Theory/Press-Schechter halo mass function.md) and [Growth factor D(z)](../../02_Zettel/Theory/Growth factor D(z).md).
+→ see [Press-Schechter halo mass function](../../02_Zettel/Theory/Press-Schechter halo mass function.html) and [Growth factor D(z)](../../02_Zettel/Theory/Growth factor D(z).md).
 
 cluster cosmology is competitive with CMB and BAO for $\sigma_8$, $\Omega_m$, and is one of the prime science drivers of upcoming surveys (eROSITA, Euclid, Rubin Observatory).
 
@@ -87,7 +87,7 @@ clusters affect the galaxies they contain:
 - **suppression of star formation**: cluster galaxies have lower SFR than field galaxies of the same mass
 - **brightest cluster galaxy (BCG)**: at the cluster center, often a giant elliptical, grown by mergers and cooling flows
 
-→ see [Galaxy morphology vs physical properties](../../02_Zettel/Theory/Galaxy morphology vs physical properties.md).
+→ see [Galaxy morphology vs physical properties](../../02_Zettel/Theory/Galaxy morphology vs physical properties.html).
 
 ---
 
@@ -98,9 +98,9 @@ beyond individual clusters, the **large-scale structure** consists of:
 - **filaments** connecting them (containing most of the cosmic baryons in the **WHIM**)
 - **voids** between filaments
 
-the cosmic web is the result of gravitational growth of primordial perturbations (see [Linear evolution of perturbations in expanding universe](../../02_Zettel/Theory/Linear evolution of perturbations in expanding universe.md)). N-body simulations (Millennium, IllustrisTNG, EAGLE) reproduce the observed structure remarkably well.
+the cosmic web is the result of gravitational growth of primordial perturbations (see [Linear evolution of perturbations in expanding universe](../../02_Zettel/Theory/Linear evolution of perturbations in expanding universe.html)). N-body simulations (Millennium, IllustrisTNG, EAGLE) reproduce the observed structure remarkably well.
 
-→ see [Matter power spectrum and BAO](../../02_Zettel/Theory/Matter power spectrum and BAO.md) for the statistical description.
+→ see [Matter power spectrum and BAO](../../02_Zettel/Theory/Matter power spectrum and BAO.html) for the statistical description.
 
 ---
 
@@ -114,20 +114,20 @@ a brief summary of how galaxies evolve from $z \sim 10$ to today:
 4. **z = 1-2**: emergence of the **galaxy main sequence** of star formation. quiescent galaxies start appearing on the red sequence.
 5. **z = 0-1**: declining star formation. cluster galaxies are quenched. galaxies drift along the main sequence or onto the red sequence.
 
-→ see [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.md) for the integrated SFR vs cosmic time (the Madau-Dickinson plot).
+→ see [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.html) for the integrated SFR vs cosmic time (the Madau-Dickinson plot).
 
 ---
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Galaxies in the local universe](../../02_Zettel/Theory/Galaxies in the local universe.md)
-- [Hubble morphological sequence](../../02_Zettel/Theory/Hubble morphological sequence.md)
-- [Galaxy morphology vs physical properties](../../02_Zettel/Theory/Galaxy morphology vs physical properties.md)
-- [Spectral energy distributions](../../02_Zettel/Theory/Spectral energy distributions.md)
-- [Press-Schechter halo mass function](../../02_Zettel/Theory/Press-Schechter halo mass function.md)
-- [Linear evolution of perturbations in expanding universe](../../02_Zettel/Theory/Linear evolution of perturbations in expanding universe.md)
-- [Matter power spectrum and BAO](../../02_Zettel/Theory/Matter power spectrum and BAO.md)
-- [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.md)
-- [Bremsstrahlung](../../02_Zettel/Theory/Bremsstrahlung.md) — for the ICM X-ray emission
-- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Galaxies in the local universe](../../02_Zettel/Theory/Galaxies in the local universe.html)
+- [Hubble morphological sequence](../../02_Zettel/Theory/Hubble morphological sequence.html)
+- [Galaxy morphology vs physical properties](../../02_Zettel/Theory/Galaxy morphology vs physical properties.html)
+- [Spectral energy distributions](../../02_Zettel/Theory/Spectral energy distributions.html)
+- [Press-Schechter halo mass function](../../02_Zettel/Theory/Press-Schechter halo mass function.html)
+- [Linear evolution of perturbations in expanding universe](../../02_Zettel/Theory/Linear evolution of perturbations in expanding universe.html)
+- [Matter power spectrum and BAO](../../02_Zettel/Theory/Matter power spectrum and BAO.html)
+- [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.html)
+- [Bremsstrahlung](../../02_Zettel/Theory/Bremsstrahlung.html) — for the ICM X-ray emission
+- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html)

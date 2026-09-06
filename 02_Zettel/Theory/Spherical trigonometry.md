@@ -100,8 +100,8 @@ useful for computing angular distance between two points whose angular position 
 ## why this is the only toolkit I need
 
 every later operation in spherical astronomy reduces to one of these:
-- **alt-azimuth ↔ equatorial**: a single rotation by $\chi = 90° - \phi$, see [Alt-azimuth ↔ equatorial transformations](../../02_Zettel/Theory/Alt-azimuth ↔ equatorial transformations.md)
-- **distance between two points on Earth**: spherical cosine rule, see [Earth coordinates](../../02_Zettel/Theory/Earth coordinates.md)
+- **alt-azimuth ↔ equatorial**: a single rotation by $\chi = 90° - \phi$, see [Alt-azimuth ↔ equatorial transformations](../../02_Zettel/Theory/Alt-azimuth ↔ equatorial transformations.html)
+- **distance between two points on Earth**: spherical cosine rule, see [Earth coordinates](../../02_Zettel/Theory/Earth coordinates.html)
 - **rise and set conditions**: the third master equation evaluated at $a = 0$, see Culmination and rise/set
 - **culmination height**: the third master equation evaluated at $h = 0$ or $h = 12$h
 
@@ -111,8 +111,8 @@ so once I know the three master equations and the sine rule, everything else is 
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Spherical_astronomy_complete](../../02_Zettel/Theory/Spherical_astronomy_complete.md) — comprehensive narrative
-- [Celestial sphere and great circles](../../02_Zettel/Theory/Celestial sphere and great circles.md)
-- [Earth coordinates](../../02_Zettel/Theory/Earth coordinates.md)
-- [Alt-azimuth ↔ equatorial transformations](../../02_Zettel/Theory/Alt-azimuth ↔ equatorial transformations.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Spherical_astronomy_complete](../../02_Zettel/Theory/Spherical_astronomy_complete.html) — comprehensive narrative
+- [Celestial sphere and great circles](../../02_Zettel/Theory/Celestial sphere and great circles.html)
+- [Earth coordinates](../../02_Zettel/Theory/Earth coordinates.html)
+- [Alt-azimuth ↔ equatorial transformations](../../02_Zettel/Theory/Alt-azimuth ↔ equatorial transformations.html)

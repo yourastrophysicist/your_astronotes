@@ -53,12 +53,12 @@ at moderate redshift, Ca II H + K shifts to redder optical wavelengths ($\sim 58
 
 ## see also
 
-- [Atomic term symbols](../../02_Zettel/Theory/Atomic term symbols.md)
-- [Pauli principle and electron configurations](../../02_Zettel/Theory/Pauli principle and electron configurations.md)
-- [Calcium population vs T](../../02_Zettel/Theory/Calcium population vs T.md)
-- [Magnesium and alkali earths](../../02_Zettel/Theory/Magnesium and alkali earths.md)
-- [Stellar spectra and spectral classification](../../02_Zettel/Theory/Stellar spectra and spectral classification.md)
-- [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.md)
-- [Single stellar population SSP](../../02_Zettel/Theory/Single stellar population SSP.md)
-- [Why the Sequence OBAFGKM](../../02_Zettel/Theory/Why the Sequence OBAFGKM.md)
-- [Spectroscopic redshift from line shifts](../../02_Zettel/Theory/Spectroscopic redshift from line shifts.md)
+- [Atomic term symbols](../../02_Zettel/Theory/Atomic term symbols.html)
+- [Pauli principle and electron configurations](../../02_Zettel/Theory/Pauli principle and electron configurations.html)
+- [Calcium population vs T](../../02_Zettel/Theory/Calcium population vs T.html)
+- [Magnesium and alkali earths](../../02_Zettel/Theory/Magnesium and alkali earths.html)
+- [Stellar spectra and spectral classification](../../02_Zettel/Theory/Stellar spectra and spectral classification.html)
+- [Color-magnitude diagrams of clusters](../../02_Zettel/Theory/Color-magnitude diagrams of clusters.html)
+- [Single stellar population SSP](../../02_Zettel/Theory/Single stellar population SSP.html)
+- [Why the Sequence OBAFGKM](../../02_Zettel/Theory/Why the Sequence OBAFGKM.html)
+- [Spectroscopic redshift from line shifts](../../02_Zettel/Theory/Spectroscopic redshift from line shifts.html)

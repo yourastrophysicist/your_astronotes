@@ -119,9 +119,9 @@ where $R(\tau) = \langle x(t) x(t + \tau)\rangle$ is the autocorrelation. so the
 
 ## see also
 
-- [Discrete Fourier transform](../../02_Zettel/Theory/Discrete Fourier transform.md)
-- [Fast Fourier transform algorithm](../../02_Zettel/Theory/Fast Fourier transform algorithm.md)
-- [Physical interpretation of the FFT](../../02_Zettel/Theory/Physical interpretation of the FFT.md)
-- [Fourier series math summary](../../02_Zettel/Theory/Fourier series math summary.md)
-- [FFT in scipy and numpy](../../02_Zettel/Theory/FFT in scipy and numpy.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Discrete Fourier transform](../../02_Zettel/Theory/Discrete Fourier transform.html)
+- [Fast Fourier transform algorithm](../../02_Zettel/Theory/Fast Fourier transform algorithm.html)
+- [Physical interpretation of the FFT](../../02_Zettel/Theory/Physical interpretation of the FFT.html)
+- [Fourier series math summary](../../02_Zettel/Theory/Fourier series math summary.html)
+- [FFT in scipy and numpy](../../02_Zettel/Theory/FFT in scipy and numpy.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

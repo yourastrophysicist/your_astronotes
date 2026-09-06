@@ -5,7 +5,7 @@ title: "CCD detectors and SNR"
 
 the CCD is the workhorse detector of optical astronomy from the late 1970s onward. it converts photons into countable electrons with high quantum efficiency, low noise, and a clean linear response, then reads them out as a digital image. this note collects everything from the silicon physics through the master equation that tells me whether my observation is going to detect anything.
 
-source: Lecture 4 ("CCD and SNR") of the Obs Astrophysics course at U Padua, with reference text Howell, *Handbook of CCD Astronomy*. companion to [Observational_Astrophysics_MOC](../../00_Atlas/Observational_Astrophysics_MOC.md) Block 4.
+source: Lecture 4 ("CCD and SNR") of the Obs Astrophysics course at U Padua, with reference text Howell, *Handbook of CCD Astronomy*. companion to [Observational_Astrophysics_MOC](../../00_Atlas/Observational_Astrophysics_MOC.html) Block 4.
 
 ---
 
@@ -158,7 +158,7 @@ practical exposure planning: keep peak source flux at $\sim 50\%$ of full well t
 - **photon-counting detectors**: EMCCD (electron multiplication on-chip), MCP (microchannel plate), MKID (microwave kinetic inductance). useful when read noise dominates and you have very few photons per pixel per second.
 - **HgCdTe (Hawaii arrays), InSb**: NIR detectors where silicon is transparent. JWST NIRCam, HST WFC3-IR, ground-based NIR cameras.
 - **photographic plates**: historical only. nonlinear, low QE ($\sim 1\%$), but they covered huge areas before CCDs got big.
-- **bolometers** (sub-mm), **photomultipliers** (UV, photon counting), **proportional counters** (X-ray): different physical detectors for different bands. see [Lab_High-Energy_MOC](../../00_Atlas/Lab_High-Energy_MOC.md) for X-ray equivalents.
+- **bolometers** (sub-mm), **photomultipliers** (UV, photon counting), **proportional counters** (X-ray): different physical detectors for different bands. see [Lab_High-Energy_MOC](../../00_Atlas/Lab_High-Energy_MOC.html) for X-ray equivalents.
 
 ---
 
@@ -174,11 +174,11 @@ the spine of any oral question on CCDs is:
 
 ## see also
 
-- [Observational_Astrophysics_MOC](../../00_Atlas/Observational_Astrophysics_MOC.md) — Block 4 lives here
-- [Earth atmosphere for observations](../../02_Zettel/Theory/Earth atmosphere for observations.md) — what the photons go through *before* the CCD
-- [Aperture photometry](../../02_Zettel/Theory/Aperture photometry.md)
-- [PSF photometry](../../02_Zettel/Theory/PSF photometry.md)
-- [CCD calibration steps](../../02_Zettel/Theory/CCD calibration steps.md)
-- [Magnitudes and photometric systems](../../02_Zettel/Theory/Magnitudes and photometric systems.md) — converts CCD counts into a magnitude
-- [Distance ladder derivations](../../02_Zettel/Theory/Distance ladder derivations.md) — what the magnitudes are for
-- [Lab_High-Energy_MOC](../../00_Atlas/Lab_High-Energy_MOC.md) — X-ray detectors (CCDs, microcalorimeters), the same SNR logic with different noise sources
+- [Observational_Astrophysics_MOC](../../00_Atlas/Observational_Astrophysics_MOC.html) — Block 4 lives here
+- [Earth atmosphere for observations](../../02_Zettel/Theory/Earth atmosphere for observations.html) — what the photons go through *before* the CCD
+- [Aperture photometry](../../02_Zettel/Theory/Aperture photometry.html)
+- [PSF photometry](../../02_Zettel/Theory/PSF photometry.html)
+- [CCD calibration steps](../../02_Zettel/Theory/CCD calibration steps.html)
+- [Magnitudes and photometric systems](../../02_Zettel/Theory/Magnitudes and photometric systems.html) — converts CCD counts into a magnitude
+- [Distance ladder derivations](../../02_Zettel/Theory/Distance ladder derivations.html) — what the magnitudes are for
+- [Lab_High-Energy_MOC](../../00_Atlas/Lab_High-Energy_MOC.html) — X-ray detectors (CCDs, microcalorimeters), the same SNR logic with different noise sources

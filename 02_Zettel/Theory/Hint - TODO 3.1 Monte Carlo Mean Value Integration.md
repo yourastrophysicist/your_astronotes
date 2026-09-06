@@ -6,7 +6,7 @@ title: "Hint - TODO 3.1 Monte Carlo Mean Value Integration"
 # Hint - TODO 3.1 Monte Carlo Mean Value Integration
 
 **Target TODO**: TODO 3.1 in Module_1_Random_Sampling_and_Monte_Carlo  
-**Related Zettels**: [Monte Carlo integration mean value method](../../02_Zettel/Theory/Monte Carlo integration mean value method.md)
+**Related Zettels**: [Monte Carlo integration mean value method](../../02_Zettel/Theory/Monte Carlo integration mean value method.html)
 
 ---
 

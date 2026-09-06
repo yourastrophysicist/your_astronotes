@@ -7,7 +7,7 @@ $[OIII]$ forbidden lines are the **canonical $T_e$ diagnostic** in photoionised 
 
 ## the energy levels
 
-doubly ionised oxygen O$^{2+}$ has $2p^2$ valence configuration, same as neutral C. allowed terms (see [Equivalent vs nonequivalent electrons](../../02_Zettel/Theory/Equivalent vs nonequivalent electrons.md)):
+doubly ionised oxygen O$^{2+}$ has $2p^2$ valence configuration, same as neutral C. allowed terms (see [Equivalent vs nonequivalent electrons](../../02_Zettel/Theory/Equivalent vs nonequivalent electrons.html)):
 - ground $^3P_{0,1,2}$ (Hund: $J = 0$ for less-than-half).
 - $^1D_2$ at $\sim 2.5$ eV above ground.
 - $^1S_0$ at $\sim 5.4$ eV above ground.
@@ -61,14 +61,14 @@ at low metallicity, $n(O^{2+})/n_e$ small (less O total), and $T_e$ is high (les
 
 ## see also
 
-- [Forbidden lines](../../02_Zettel/Theory/Forbidden lines.md)
-- [Forbidden line diagnostics](../../02_Zettel/Theory/Forbidden line diagnostics.md)
-- [Critical density](../../02_Zettel/Theory/Critical density.md)
-- [Two-level atom](../../02_Zettel/Theory/Two-level atom.md)
-- [Spectroscopic Te diagnostics](../../02_Zettel/Theory/Spectroscopic Te diagnostics.md)
-- [Selection rules](../../02_Zettel/Theory/Selection rules.md)
-- [Atomic term symbols](../../02_Zettel/Theory/Atomic term symbols.md)
-- [Equivalent vs nonequivalent electrons](../../02_Zettel/Theory/Equivalent vs nonequivalent electrons.md)
-- [BPT diagram](../../02_Zettel/Theory/BPT diagram.md)
-- [H II region spectroscopy](../../02_Zettel/Theory/H II region spectroscopy.md)
-- [Planetary nebula spectroscopy](../../02_Zettel/Theory/Planetary nebula spectroscopy.md)
+- [Forbidden lines](../../02_Zettel/Theory/Forbidden lines.html)
+- [Forbidden line diagnostics](../../02_Zettel/Theory/Forbidden line diagnostics.html)
+- [Critical density](../../02_Zettel/Theory/Critical density.html)
+- [Two-level atom](../../02_Zettel/Theory/Two-level atom.html)
+- [Spectroscopic Te diagnostics](../../02_Zettel/Theory/Spectroscopic Te diagnostics.html)
+- [Selection rules](../../02_Zettel/Theory/Selection rules.html)
+- [Atomic term symbols](../../02_Zettel/Theory/Atomic term symbols.html)
+- [Equivalent vs nonequivalent electrons](../../02_Zettel/Theory/Equivalent vs nonequivalent electrons.html)
+- [BPT diagram](../../02_Zettel/Theory/BPT diagram.html)
+- [H II region spectroscopy](../../02_Zettel/Theory/H II region spectroscopy.html)
+- [Planetary nebula spectroscopy](../../02_Zettel/Theory/Planetary nebula spectroscopy.html)

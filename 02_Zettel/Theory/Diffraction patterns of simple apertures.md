@@ -90,7 +90,7 @@ $$I(\theta) \propto \left[\frac{2 J_1(\pi D \theta/\lambda)}{\pi D \theta/\lambd
 
 each Airy disk modulated by cosine fringes. fringe spacing: $\lambda/B$. envelope: Airy disk of single subaperture, scale $\lambda/D$. so the field of view (where fringes are visible) is set by $D$, the resolution within that field of view by $B$.
 
-this is the prototype for [Michelson stellar interferometer](../../02_Zettel/Theory/interf/Michelson stellar interferometer.md).
+this is the prototype for [Michelson stellar interferometer](../../02_Zettel/Theory/interf/Michelson stellar interferometer.html).
 
 ## sparse aperture array
 
@@ -103,7 +103,7 @@ $$I(\mathbf u) \propto |\tilde A_{\rm sub}|^2 \cdot \left|\sum_i e^{-2\pi i \mat
 
 the second factor is a function of the **array geometry**. its peaks are at the spatial frequencies $\mathbf u$ such that all sub-apertures interfere constructively. these peaks form the **(u, v) coverage** of the array.
 
-this is the foundation of [Aperture synthesis principle](../../02_Zettel/Theory/interf/Aperture synthesis principle.md).
+this is the foundation of [Aperture synthesis principle](../../02_Zettel/Theory/interf/Aperture synthesis principle.html).
 
 ## what to remember
 
@@ -126,8 +126,8 @@ source: local plot generated from the Airy-pattern Bessel formula.
 
 ## see also
 
-- [Fraunhofer diffraction](../../02_Zettel/Theory/interf/Fraunhofer diffraction.md)
-- [Point spread function](../../02_Zettel/Theory/interf/Point spread function.md)
-- [Optical transfer function](../../02_Zettel/Theory/interf/Optical transfer function.md)
-- [Aperture synthesis principle](../../02_Zettel/Theory/interf/Aperture synthesis principle.md)
-- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Fraunhofer diffraction](../../02_Zettel/Theory/interf/Fraunhofer diffraction.html)
+- [Point spread function](../../02_Zettel/Theory/interf/Point spread function.html)
+- [Optical transfer function](../../02_Zettel/Theory/interf/Optical transfer function.html)
+- [Aperture synthesis principle](../../02_Zettel/Theory/interf/Aperture synthesis principle.html)
+- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.html)

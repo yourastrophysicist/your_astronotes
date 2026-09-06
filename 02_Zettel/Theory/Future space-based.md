@@ -117,8 +117,8 @@ these costs require sustained political support over decades. science cases must
 
 ## see also
 
-- [Future ground-based optical](../../02_Zettel/Theory/interf/Future ground-based optical.md)
-- [Hypertelescope](../../02_Zettel/Theory/interf/Hypertelescope.md)
-- [Bracewell nuller](../../02_Zettel/Theory/interf/Bracewell nuller.md)
-- [Exoplanet imaging](../../02_Zettel/Theory/interf/Exoplanet imaging.md)
-- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Future ground-based optical](../../02_Zettel/Theory/interf/Future ground-based optical.html)
+- [Hypertelescope](../../02_Zettel/Theory/interf/Hypertelescope.html)
+- [Bracewell nuller](../../02_Zettel/Theory/interf/Bracewell nuller.html)
+- [Exoplanet imaging](../../02_Zettel/Theory/interf/Exoplanet imaging.html)
+- [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.html)

@@ -35,7 +35,7 @@ with $R$ a curvature radius (set to $\infty$ for $k = 0$). so:
 - $K > 0$ for $k = +1$.
 - $K < 0$ for $k = -1$.
 
-$K$ is the **Gaussian curvature** of any 2D slice of constant curvature on the homogeneous spatial slice. see [Sectional and Gaussian curvature](../../02_Zettel/Theory/Sectional and Gaussian curvature.md).
+$K$ is the **Gaussian curvature** of any 2D slice of constant curvature on the homogeneous spatial slice. see [Sectional and Gaussian curvature](../../02_Zettel/Theory/Sectional and Gaussian curvature.html).
 
 ## the Friedmann equation
 
@@ -65,7 +65,7 @@ $$|\Omega_k| < 0.005\quad(95\%\,\text{CL})$$
 
 so the universe is **flat to better than 0.5%**. consistent with $k = 0$.
 
-this is consistent with **inflation**: inflation drives $\Omega_k \to 0$ exponentially, regardless of pre-inflationary curvature. so a flat universe today is a natural prediction of inflation. see [Inflation overview](../../02_Zettel/Theory/Inflation overview.md).
+this is consistent with **inflation**: inflation drives $\Omega_k \to 0$ exponentially, regardless of pre-inflationary curvature. so a flat universe today is a natural prediction of inflation. see [Inflation overview](../../02_Zettel/Theory/Inflation overview.html).
 
 ## physical scales
 
@@ -73,13 +73,13 @@ even at $|\Omega_k| < 0.005$, the curvature radius $R \gtrsim 14$ Gpc. so the un
 
 ## see also
 
-- [FLRW metric](../../02_Zettel/Theory/FLRW metric.md)
-- [Friedmann equations](../../02_Zettel/Theory/Friedmann equations.md)
-- [Cosmological principle](../../02_Zettel/Theory/Cosmological principle.md)
-- [Cosmic eras](../../02_Zettel/Theory/Cosmic eras.md)
-- [Hubble constant and deceleration parameter](../../02_Zettel/Theory/Hubble constant and deceleration parameter.md)
-- [Inflation overview](../../02_Zettel/Theory/Inflation overview.md)
-- [Sectional and Gaussian curvature](../../02_Zettel/Theory/Sectional and Gaussian curvature.md)
-- [Curvature parameter k](../../02_Zettel/Theory/Curvature parameter k.md)
-- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.md)
-- [Ch 7 - Cosmology](../../01_Literature/Book/Baumann GR/Ch 7 - Cosmology.md)
+- [FLRW metric](../../02_Zettel/Theory/FLRW metric.html)
+- [Friedmann equations](../../02_Zettel/Theory/Friedmann equations.html)
+- [Cosmological principle](../../02_Zettel/Theory/Cosmological principle.html)
+- [Cosmic eras](../../02_Zettel/Theory/Cosmic eras.html)
+- [Hubble constant and deceleration parameter](../../02_Zettel/Theory/Hubble constant and deceleration parameter.html)
+- [Inflation overview](../../02_Zettel/Theory/Inflation overview.html)
+- [Sectional and Gaussian curvature](../../02_Zettel/Theory/Sectional and Gaussian curvature.html)
+- [Curvature parameter k](../../02_Zettel/Theory/Curvature parameter k.html)
+- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.html)
+- [Ch 7 - Cosmology](../../01_Literature/Book/Baumann GR/Ch 7 - Cosmology.html)

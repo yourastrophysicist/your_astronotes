@@ -11,8 +11,8 @@ with $f(p, t)$ the phase-space distribution function and $C[f]$ the **collision 
 in cosmology this is what governs:
 - dark matter freeze-out (see Dark matter relics — WIMP miracle)
 - neutrino decoupling
-- recombination (see [Saha equation and recombination](../../02_Zettel/Theory/Saha equation and recombination.md))
-- BBN (see [BBN_overview](../../02_Zettel/Theory/BBN_overview.md))
+- recombination (see [Saha equation and recombination](../../02_Zettel/Theory/Saha equation and recombination.html))
+- BBN (see [BBN_overview](../../02_Zettel/Theory/BBN_overview.html))
 
 ---
 
@@ -68,7 +68,7 @@ $$\Omega_\chi h^2 \approx \frac{3 \times 10^{-27}\,\text{cm}^3/\text{s}}{\langle
 for primordial nucleosynthesis, we need the Boltzmann equation for *each* nuclear species, with collision terms for all the nuclear reactions among them. this gives a coupled system of ODEs:
 $$\frac{d n_A}{dt} + 3 H n_A = \sum_{\rm reactions}\dots$$
 
-solved numerically by codes like PArthENoPE, PRIMAT, AlterBBN. the abundances of D, $^3$He, $^4$He, $^7$Li versus $\eta$ all come out of these calculations. → see [BBN_predictions](../../02_Zettel/Theory/BBN_predictions.md).
+solved numerically by codes like PArthENoPE, PRIMAT, AlterBBN. the abundances of D, $^3$He, $^4$He, $^7$Li versus $\eta$ all come out of these calculations. → see [BBN_predictions](../../02_Zettel/Theory/BBN_predictions.html).
 
 ---
 
@@ -77,7 +77,7 @@ solved numerically by codes like PArthENoPE, PRIMAT, AlterBBN. the abundances of
 for the ionization fraction $X_e = n_e/n_b$:
 $$\frac{dX_e}{dt} = ...$$
 
-(the **Peebles equation**, simplified version of the Boltzmann equation for hydrogen.) the Saha equation is the equilibrium limit. as recombination proceeds, $X_e$ deviates from Saha and freezes out at $X_e \sim 10^{-3}$. → see [Saha equation and recombination](../../02_Zettel/Theory/Saha equation and recombination.md).
+(the **Peebles equation**, simplified version of the Boltzmann equation for hydrogen.) the Saha equation is the equilibrium limit. as recombination proceeds, $X_e$ deviates from Saha and freezes out at $X_e \sim 10^{-3}$. → see [Saha equation and recombination](../../02_Zettel/Theory/Saha equation and recombination.html).
 
 ---
 
@@ -94,11 +94,11 @@ so once you have the cross-sections and masses, you can in principle compute the
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Decoupling and freeze-out](../../02_Zettel/Theory/Decoupling and freeze-out.md)
-- [Thermal equilibrium in the early universe](../../02_Zettel/Theory/Thermal equilibrium in the early universe.md)
-- [Saha equation and recombination](../../02_Zettel/Theory/Saha equation and recombination.md)
-- [BBN_overview](../../02_Zettel/Theory/BBN_overview.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Decoupling and freeze-out](../../02_Zettel/Theory/Decoupling and freeze-out.html)
+- [Thermal equilibrium in the early universe](../../02_Zettel/Theory/Thermal equilibrium in the early universe.html)
+- [Saha equation and recombination](../../02_Zettel/Theory/Saha equation and recombination.html)
+- [BBN_overview](../../02_Zettel/Theory/BBN_overview.html)
 - Dark matter relics — WIMP miracle
-- [Hot vs cold dark matter](../../02_Zettel/Theory/Hot vs cold dark matter.md)
-- [Baumann_reference](../../02_Zettel/Theory/Baumann_reference.md) — chapter 3.3.1 has the rigorous derivation
+- [Hot vs cold dark matter](../../02_Zettel/Theory/Hot vs cold dark matter.html)
+- [Baumann_reference](../../02_Zettel/Theory/Baumann_reference.html) — chapter 3.3.1 has the rigorous derivation

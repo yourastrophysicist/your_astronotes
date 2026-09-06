@@ -5,7 +5,7 @@ title: "High-z galaxies with JWST"
 
 # high-z galaxies with jwst
 
-up: [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md) · [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.md) · [Reionization](../../02_Zettel/Theory/Reionization.md)
+up: [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html) · [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.html) · [Reionization](../../02_Zettel/Theory/Reionization.html)
 
 ## instrument capabilities for high redshift
 
@@ -36,6 +36,6 @@ JWST has confirmed overmassive SMBHs at $z > 7 - 10$ (e.g., UHZ1 at $z = 10.1$ w
 
 ## connections
 
-- survey context: [Surveys to remember](../../02_Zettel/Theory/Surveys to remember.md)
-- epoch: [Reionization](../../02_Zettel/Theory/Reionization.md), [Population III stars](../../02_Zettel/Theory/Population III stars.md)
-- passive counterparts: [Quenching and passive galaxies at high z](../../02_Zettel/Theory/Quenching and passive galaxies at high z.md)
+- survey context: [Surveys to remember](../../02_Zettel/Theory/Surveys to remember.html)
+- epoch: [Reionization](../../02_Zettel/Theory/Reionization.html), [Population III stars](../../02_Zettel/Theory/Population III stars.html)
+- passive counterparts: [Quenching and passive galaxies at high z](../../02_Zettel/Theory/Quenching and passive galaxies at high z.html)

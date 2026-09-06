@@ -8,7 +8,7 @@ are there black holes in Globular clusters? for decades the answer was assumed t
 
 **the formation argument**
 
-a [standard IMF](../../02_Zettel/Theory/Salpeter Kroupa Chabrier IMFs.md) forms one stellar-mass BH per $\sim 500\,M_\odot$ of stars. for a typical massive GC of total stellar mass $\sim 10^6\,M_\odot$, that gives $\sim 2000$ BH progenitors. the ZAMS masses are $M \gtrsim 25\,M_\odot$; their MS lifetimes are $\sim 10\,\text{Myr}$, vanishingly short on cluster timescales. so all the BHs were made within the first few Myr of cluster formation, and any present today have been there for $\sim 12\,\text{Gyr}$.
+a [standard IMF](../../02_Zettel/Theory/Salpeter Kroupa Chabrier IMFs.html) forms one stellar-mass BH per $\sim 500\,M_\odot$ of stars. for a typical massive GC of total stellar mass $\sim 10^6\,M_\odot$, that gives $\sim 2000$ BH progenitors. the ZAMS masses are $M \gtrsim 25\,M_\odot$; their MS lifetimes are $\sim 10\,\text{Myr}$, vanishingly short on cluster timescales. so all the BHs were made within the first few Myr of cluster formation, and any present today have been there for $\sim 12\,\text{Gyr}$.
 
 **the retention problem**
 
@@ -28,22 +28,22 @@ monte carlo simulations (chatterjee, rodriguez, breen) and N-body simulations (w
 
 three lines of evidence confirm BH retention:
 
-1. **dynamical detections**: radial-velocity searches for unseen massive companions of luminous stars have produced compelling stellar-mass BH candidates in NGC 3201 (giesers et al. 2018: a $\sim 4\,M_\odot$ BH with an MS companion), and a possible $\sim 10\,M_\odot$ candidate in M22. see [Hunting BHs via radial velocities](../../02_Zettel/Theory/Hunting BHs via radial velocities.md).
+1. **dynamical detections**: radial-velocity searches for unseen massive companions of luminous stars have produced compelling stellar-mass BH candidates in NGC 3201 (giesers et al. 2018: a $\sim 4\,M_\odot$ BH with an MS companion), and a possible $\sim 10\,M_\odot$ candidate in M22. see [Hunting BHs via radial velocities](../../02_Zettel/Theory/Hunting BHs via radial velocities.html).
 2. **X-ray and radio**: a few persistent low-luminosity X-ray sources in GCs (M22-VLA1, M62-VLA1, 47 Tuc X-9 controversial) match the signature of accreting stellar-mass BHs.
-3. **gravitational waves**: [LIGO-Virgo](../../02_Zettel/Theory/BHs from gravitational waves.md) detections of BH-BH mergers with precessing spins, large mass ratios, and member masses in the pair-instability mass gap (e.g. GW190521 with $\sim 85\,M_\odot$ component) point to dynamical assembly in dense clusters as a viable channel.
+3. **gravitational waves**: [LIGO-Virgo](../../02_Zettel/Theory/BHs from gravitational waves.html) detections of BH-BH mergers with precessing spins, large mass ratios, and member masses in the pair-instability mass gap (e.g. GW190521 with $\sim 85\,M_\odot$ component) point to dynamical assembly in dense clusters as a viable channel.
 
 **implications**
 
 - BH retention modifies the cluster's central density profile (BH heating maintains a larger core).
 - the BH-BH binary population is a major contributor to the LIGO-Virgo merger rate from dynamical channels.
-- [IMBH](../../02_Zettel/Theory/Intermediate-mass BHs in GCs.md) formation through repeated mergers in a BH subsystem becomes plausible (the "BH runaway" or "hierarchical merger" scenario).
+- [IMBH](../../02_Zettel/Theory/Intermediate-mass BHs in GCs.html) formation through repeated mergers in a BH subsystem becomes plausible (the "BH runaway" or "hierarchical merger" scenario).
 
 the BH-in-GC question is now one of the most active areas at the intersection of stellar dynamics and gravitational-wave astrophysics.
 
 ## see also
-- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.md)
-- [Hunting BHs via radial velocities](../../02_Zettel/Theory/Hunting BHs via radial velocities.md)
-- [Intermediate-mass BHs in GCs](../../02_Zettel/Theory/Intermediate-mass BHs in GCs.md)
-- [BHs from gravitational waves](../../02_Zettel/Theory/BHs from gravitational waves.md)
-- [X-ray sources in globular clusters](../../02_Zettel/Theory/X-ray sources in globular clusters.md)
-- [AGN and supermassive black holes](../../02_Zettel/Theory/interf/AGN and supermassive black holes.md)
+- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.html)
+- [Hunting BHs via radial velocities](../../02_Zettel/Theory/Hunting BHs via radial velocities.html)
+- [Intermediate-mass BHs in GCs](../../02_Zettel/Theory/Intermediate-mass BHs in GCs.html)
+- [BHs from gravitational waves](../../02_Zettel/Theory/BHs from gravitational waves.html)
+- [X-ray sources in globular clusters](../../02_Zettel/Theory/X-ray sources in globular clusters.html)
+- [AGN and supermassive black holes](../../02_Zettel/Theory/interf/AGN and supermassive black holes.html)

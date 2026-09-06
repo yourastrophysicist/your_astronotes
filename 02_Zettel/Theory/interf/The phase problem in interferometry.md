@@ -63,7 +63,7 @@ each atmospheric phase $\phi_{\rm atm,i}$ appears with opposite signs in two ter
 
 result: $\Phi_{ijk}$ depends only on the *true* visibility phases and is preserved through atmospheric noise. this is the **key technique for optical aperture-synthesis imaging**.
 
-closure phase is not a complete substitute for individual phases (3 baselines give 1 closure relation, but I have 3 phases to recover), but combined with closure amplitudes and assumptions about source shape, it lets us reconstruct images. see [Phase closure](../../../02_Zettel/Theory/interf/Phase closure.md).
+closure phase is not a complete substitute for individual phases (3 baselines give 1 closure relation, but I have 3 phases to recover), but combined with closure amplitudes and assumptions about source shape, it lets us reconstruct images. see [Phase closure](../../../02_Zettel/Theory/interf/Phase closure.html).
 
 ### 3. self-calibration
 
@@ -116,9 +116,9 @@ both are spectacular demonstrations of how to get around the phase problem.
 
 ## see also
 
-- [Phase closure](../../../02_Zettel/Theory/interf/Phase closure.md)
-- [Closure amplitude](../../../02_Zettel/Theory/interf/Closure amplitude.md)
-- [Self-calibration](../../../02_Zettel/Theory/interf/Self-calibration.md)
-- [Adaptive optics](../../../02_Zettel/Theory/interf/Adaptive optics.md)
-- [Calibration overview](../../../02_Zettel/Theory/interf/Calibration overview.md)
-- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Phase closure](../../../02_Zettel/Theory/interf/Phase closure.html)
+- [Closure amplitude](../../../02_Zettel/Theory/interf/Closure amplitude.html)
+- [Self-calibration](../../../02_Zettel/Theory/interf/Self-calibration.html)
+- [Adaptive optics](../../../02_Zettel/Theory/interf/Adaptive optics.html)
+- [Calibration overview](../../../02_Zettel/Theory/interf/Calibration overview.html)
+- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.html)

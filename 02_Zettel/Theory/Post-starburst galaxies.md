@@ -5,7 +5,7 @@ title: "Post-starburst galaxies"
 
 # post-starburst galaxies
 
-up: [Pablo_03_Star_formation_in_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.md)
+up: [Pablo_03_Star_formation_in_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html)
 
 ## the defining signature
 
@@ -31,7 +31,7 @@ the Pablo slide shows Kriek et al. 2010 SEDs of 8.77–9.20 log-age templates. k
 
 ## what they are physically
 
-the leading scenario: a gas-rich merger drives a central starburst, feedback (SNe + AGN) expels or consumes the gas, SF shuts off. the galaxy is caught in transit across the [Green valley and quenching tracks](../../02_Zettel/Theory/Green valley and quenching tracks.md) on its way to the red sequence.
+the leading scenario: a gas-rich merger drives a central starburst, feedback (SNe + AGN) expels or consumes the gas, SF shuts off. the galaxy is caught in transit across the [Green valley and quenching tracks](../../02_Zettel/Theory/Green valley and quenching tracks.html) on its way to the red sequence.
 
 evidence:
 - PSBs have morphologies with tidal features, shells, and compact cores (Zabludoff 1996, Pawlik 2018)
@@ -46,11 +46,11 @@ evidence:
 
 ## connections
 
-- precursor: [Starburst galaxies](../../02_Zettel/Theory/Starburst galaxies.md)
-- transition locus: [Green valley and quenching tracks](../../02_Zettel/Theory/Green valley and quenching tracks.md)
-- end state: [Red sequence and blue cloud](../../02_Zettel/Theory/Red sequence and blue cloud.md)
-- quenching mechanisms: [Halo gravity suppression of galaxy formation](../../02_Zettel/Theory/Halo gravity suppression of galaxy formation.md)
-- SED fitting for ages: [SED fitting for SFH](../../02_Zettel/Theory/SED fitting for SFH.md)
+- precursor: [Starburst galaxies](../../02_Zettel/Theory/Starburst galaxies.html)
+- transition locus: [Green valley and quenching tracks](../../02_Zettel/Theory/Green valley and quenching tracks.html)
+- end state: [Red sequence and blue cloud](../../02_Zettel/Theory/Red sequence and blue cloud.html)
+- quenching mechanisms: [Halo gravity suppression of galaxy formation](../../02_Zettel/Theory/Halo gravity suppression of galaxy formation.html)
+- SED fitting for ages: [SED fitting for SFH](../../02_Zettel/Theory/SED fitting for SFH.html)
 
 ## key references
 

@@ -56,11 +56,11 @@ the spin-2 character: under rotation of $\theta$ around $\hat z$, the polarisati
 
 ## see also
 
-- [Transverse traceless gauge](../../02_Zettel/Theory/Transverse traceless gauge.md)
-- [Geodesic deviation under a GW](../../02_Zettel/Theory/Geodesic deviation under a GW.md)
-- [Quadrupole formula](../../02_Zettel/Theory/Quadrupole formula.md)
-- [Linearized metric perturbation](../../02_Zettel/Theory/Linearized metric perturbation.md)
+- [Transverse traceless gauge](../../02_Zettel/Theory/Transverse traceless gauge.html)
+- [Geodesic deviation under a GW](../../02_Zettel/Theory/Geodesic deviation under a GW.html)
+- [Quadrupole formula](../../02_Zettel/Theory/Quadrupole formula.html)
+- [Linearized metric perturbation](../../02_Zettel/Theory/Linearized metric perturbation.html)
 - Q16 - Christoffels for a TT plane wave
 - Q17 - Riemann R_0x0x for a TT plane wave
-- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.md)
-- [Ch 8 - Gravitational Waves](../../01_Literature/Book/Baumann GR/Ch 8 - Gravitational Waves.md)
+- [General_Relativity_MOC](../../00_Atlas/General_Relativity_MOC.html)
+- [Ch 8 - Gravitational Waves](../../01_Literature/Book/Baumann GR/Ch 8 - Gravitational Waves.html)

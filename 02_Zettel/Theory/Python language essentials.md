@@ -188,8 +188,8 @@ prints Tim Peters' aphorisms: *Beautiful is better than ugly. Explicit is better
 
 ## see also
 
-- [Numpy arrays vs Python lists](../../02_Zettel/Theory/Numpy arrays vs Python lists.md) — the essential next step
-- [Matplotlib plotting essentials](../../02_Zettel/Theory/Matplotlib plotting essentials.md)
-- [The conda environment](../../02_Zettel/Theory/The conda environment.md)
-- [Linux for the astrophysicist](../../02_Zettel/Theory/Linux for the astrophysicist.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Numpy arrays vs Python lists](../../02_Zettel/Theory/Numpy arrays vs Python lists.html) — the essential next step
+- [Matplotlib plotting essentials](../../02_Zettel/Theory/Matplotlib plotting essentials.html)
+- [The conda environment](../../02_Zettel/Theory/The conda environment.html)
+- [Linux for the astrophysicist](../../02_Zettel/Theory/Linux for the astrophysicist.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

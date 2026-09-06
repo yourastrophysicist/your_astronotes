@@ -79,7 +79,7 @@ $$g_{*s}(T) = \sum_{\rm bosons} g_i \left(\frac{T_i}{T}\right)^3 + \frac{7}{8}\s
 
 note the **$T^3$ vs $T^4$**: $g_{*s}$ uses cubes of the temperature ratio, $g_*$ uses fourths. they coincide when all species share the photon temperature, but differ after neutrino decoupling.
 
-→ see [Conservation of entropy in a comoving volume](../../02_Zettel/Theory/Conservation of entropy in a comoving volume.md).
+→ see [Conservation of entropy in a comoving volume](../../02_Zettel/Theory/Conservation of entropy in a comoving volume.html).
 
 ---
 
@@ -90,15 +90,15 @@ $$\Gamma \gg H$$
 
 every particle scatters many times per Hubble time, so the distribution rapidly relaxes to the Bose-Einstein or Fermi-Dirac form regardless of details. the universe is then characterized by a single number, $T$.
 
-when an interaction becomes inefficient ($\Gamma \lesssim H$), that species **decouples** from the thermal bath — see [Decoupling and freeze-out](../../02_Zettel/Theory/Decoupling and freeze-out.md). this is the origin of all the relics we observe: CMB photons (decoupled at $T \sim 0.3$ eV), CνB neutrinos (decoupled at $T \sim 1$ MeV), dark matter (decoupled at much earlier times for thermal WIMPs).
+when an interaction becomes inefficient ($\Gamma \lesssim H$), that species **decouples** from the thermal bath — see [Decoupling and freeze-out](../../02_Zettel/Theory/Decoupling and freeze-out.html). this is the origin of all the relics we observe: CMB photons (decoupled at $T \sim 0.3$ eV), CνB neutrinos (decoupled at $T \sim 1$ MeV), dark matter (decoupled at much earlier times for thermal WIMPs).
 
 ---
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Brief thermal history](../../02_Zettel/Theory/Brief thermal history.md)
-- [Conservation of entropy in a comoving volume](../../02_Zettel/Theory/Conservation of entropy in a comoving volume.md)
-- [Decoupling and freeze-out](../../02_Zettel/Theory/Decoupling and freeze-out.md)
-- [Boltzmann equation in cosmology](../../02_Zettel/Theory/Boltzmann equation in cosmology.md)
-- [Baumann_reference](../../02_Zettel/Theory/Baumann_reference.md) — chapter 3.2 has the rigorous treatment
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Brief thermal history](../../02_Zettel/Theory/Brief thermal history.html)
+- [Conservation of entropy in a comoving volume](../../02_Zettel/Theory/Conservation of entropy in a comoving volume.html)
+- [Decoupling and freeze-out](../../02_Zettel/Theory/Decoupling and freeze-out.html)
+- [Boltzmann equation in cosmology](../../02_Zettel/Theory/Boltzmann equation in cosmology.html)
+- [Baumann_reference](../../02_Zettel/Theory/Baumann_reference.html) — chapter 3.2 has the rigorous treatment

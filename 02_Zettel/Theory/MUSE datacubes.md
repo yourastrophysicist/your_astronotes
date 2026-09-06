@@ -5,7 +5,7 @@ title: "MUSE datacubes"
 
 # muse datacubes
 
-up: [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.md) · [Datacube reduction](../../02_Zettel/Theory/Datacube reduction.md)
+up: [Astrophysics_of_Galaxies_MOC](../../00_Atlas/Astrophysics_of_Galaxies_MOC.html) · [Datacube reduction](../../02_Zettel/Theory/Datacube reduction.html)
 
 ## instrument characteristics
 
@@ -38,5 +38,5 @@ A typical reduced MUSE cube contains:
 
 ## connections
 
-- pipeline: [Datacube reduction](../../02_Zettel/Theory/Datacube reduction.md)
-- kinematics: [Ionized gas kinematics](../../02_Zettel/Theory/Ionized gas kinematics.md), [Stellar kinematics measurements](../../02_Zettel/Theory/Stellar kinematics measurements.md)
+- pipeline: [Datacube reduction](../../02_Zettel/Theory/Datacube reduction.html)
+- kinematics: [Ionized gas kinematics](../../02_Zettel/Theory/Ionized gas kinematics.html), [Stellar kinematics measurements](../../02_Zettel/Theory/Stellar kinematics measurements.html)

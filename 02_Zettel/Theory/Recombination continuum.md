@@ -58,12 +58,12 @@ both contribute simultaneously; their sum is the smooth nebular continuum.
 
 ## see also
 
-- [Free-free continuum](../../02_Zettel/Theory/Free-free continuum.md)
-- [Balmer continuum](../../02_Zettel/Theory/Balmer continuum.md)
-- [Bremsstrahlung](../../02_Zettel/Theory/Bremsstrahlung.md)
-- [Two-photon emission](../../02_Zettel/Theory/Two-photon emission.md)
-- [Recombination rate](../../02_Zettel/Theory/Recombination rate.md)
-- [Optically thin recombination lines](../../02_Zettel/Theory/Optically thin recombination lines.md)
-- [Hydrogen spectral series](../../02_Zettel/Theory/Hydrogen spectral series.md)
-- [Continuum opacity sources](../../02_Zettel/Theory/Continuum opacity sources.md)
-- [H II region spectroscopy](../../02_Zettel/Theory/H II region spectroscopy.md)
+- [Free-free continuum](../../02_Zettel/Theory/Free-free continuum.html)
+- [Balmer continuum](../../02_Zettel/Theory/Balmer continuum.html)
+- [Bremsstrahlung](../../02_Zettel/Theory/Bremsstrahlung.html)
+- [Two-photon emission](../../02_Zettel/Theory/Two-photon emission.html)
+- [Recombination rate](../../02_Zettel/Theory/Recombination rate.html)
+- [Optically thin recombination lines](../../02_Zettel/Theory/Optically thin recombination lines.html)
+- [Hydrogen spectral series](../../02_Zettel/Theory/Hydrogen spectral series.html)
+- [Continuum opacity sources](../../02_Zettel/Theory/Continuum opacity sources.html)
+- [H II region spectroscopy](../../02_Zettel/Theory/H II region spectroscopy.html)

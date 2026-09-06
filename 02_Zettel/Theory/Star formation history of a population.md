@@ -54,7 +54,7 @@ so to constrain SFH on a $1$ Gyr timescale, you need data spanning UV to NIR. SE
 
 individual galaxy SFHs combine into the **cosmic star formation history** (Madau-Dickinson plot):
 $$\rho_{SFR}(z) \approx 0.015\,\frac{(1+z)^{2.7}}{1 + ((1+z)/2.9)^{5.6}}\,M_\odot/\text{yr/Mpc}^3$$
-peaks at $z \sim 2$ (cosmic noon), declines toward both higher and lower $z$. see [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.md).
+peaks at $z \sim 2$ (cosmic noon), declines toward both higher and lower $z$. see [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.html).
 
 ## the SFH-galaxy-type connection
 
@@ -68,13 +68,13 @@ reading a galaxy's SFH tells you what kind of object it is and how it got there.
 
 ## see also
 
-- [Stellar population synthesis](../../02_Zettel/Theory/Stellar population synthesis.md)
-- [Star formation history parametrizations](../../02_Zettel/Theory/Star formation history parametrizations.md) — alternative parametrisations
-- [SFH from resolved CMDs](../../02_Zettel/Theory/SFH from resolved CMDs.md)
-- [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.md)
-- [SED fitting basics](../../02_Zettel/Theory/SED fitting basics.md)
-- [Initial mass function](../../02_Zettel/Theory/Initial mass function.md)
-- [Star formation rate and sSFR](../../02_Zettel/Theory/Star formation rate and sSFR.md)
-- [UV SFR tracer](../../02_Zettel/Theory/UV SFR tracer.md)
-- [H-alpha SFR tracer](../../02_Zettel/Theory/H-alpha SFR tracer.md)
-- [IR SFR tracer](../../02_Zettel/Theory/IR SFR tracer.md)
+- [Stellar population synthesis](../../02_Zettel/Theory/Stellar population synthesis.html)
+- [Star formation history parametrizations](../../02_Zettel/Theory/Star formation history parametrizations.html) — alternative parametrisations
+- [SFH from resolved CMDs](../../02_Zettel/Theory/SFH from resolved CMDs.html)
+- [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.html)
+- [SED fitting basics](../../02_Zettel/Theory/SED fitting basics.html)
+- [Initial mass function](../../02_Zettel/Theory/Initial mass function.html)
+- [Star formation rate and sSFR](../../02_Zettel/Theory/Star formation rate and sSFR.html)
+- [UV SFR tracer](../../02_Zettel/Theory/UV SFR tracer.html)
+- [H-alpha SFR tracer](../../02_Zettel/Theory/H-alpha SFR tracer.html)
+- [IR SFR tracer](../../02_Zettel/Theory/IR SFR tracer.html)

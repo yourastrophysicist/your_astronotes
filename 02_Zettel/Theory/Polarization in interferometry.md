@@ -47,5 +47,5 @@ Polarization imaging is a crucial capability of arrays like ALMA and the VLA. It
 
 ## connections & zettel links
 
-* parent moc: [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.md)
-* related zettels: [Calibration overview](../../02_Zettel/Theory/interf/Calibration overview.md), [Imaging artifacts](../../02_Zettel/Theory/interf/Imaging artifacts.md), [AGN and supermassive black holes](../../02_Zettel/Theory/interf/AGN and supermassive black holes.md), [Radiation mechanisms in astronomy and interferometers](../../02_Zettel/Theory/interf/Radiation mechanisms in astronomy and interferometers.md)
+* parent moc: [Astronomical_Interferometry_MOC](../../00_Atlas/Astronomical_Interferometry_MOC.html)
+* related zettels: [Calibration overview](../../02_Zettel/Theory/interf/Calibration overview.html), [Imaging artifacts](../../02_Zettel/Theory/interf/Imaging artifacts.html), [AGN and supermassive black holes](../../02_Zettel/Theory/interf/AGN and supermassive black holes.html), [Radiation mechanisms in astronomy and interferometers](../../02_Zettel/Theory/interf/Radiation mechanisms in astronomy and interferometers.html)

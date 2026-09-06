@@ -98,8 +98,8 @@ or `scipy.optimize.brentq(f, a, b)` for the bracket-Brent hybrid.
 
 ## see also
 
-- [Bisection method](../../02_Zettel/Theory/Bisection method.md)
-- [Newton-Raphson for systems of equations](../../02_Zettel/Theory/Newton-Raphson for systems of equations.md)
-- [Relaxation method](../../02_Zettel/Theory/Relaxation method.md)
-- [Choosing a root finder](../../02_Zettel/Theory/Choosing a root finder.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Bisection method](../../02_Zettel/Theory/Bisection method.html)
+- [Newton-Raphson for systems of equations](../../02_Zettel/Theory/Newton-Raphson for systems of equations.html)
+- [Relaxation method](../../02_Zettel/Theory/Relaxation method.html)
+- [Choosing a root finder](../../02_Zettel/Theory/Choosing a root finder.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

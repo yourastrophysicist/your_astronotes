@@ -8,7 +8,7 @@ photons in the universe come in many bands, each carrying its own cosmic backgro
 ![intro-08](../../assets/images/intro-08.png)
 
 - **CGB**: cosmic gamma-ray background
-- **CXB**: cosmic X-ray background (see [Lab_High-Energy_MOC](../../00_Atlas/Lab_High-Energy_MOC.md))
+- **CXB**: cosmic X-ray background (see [Lab_High-Energy_MOC](../../00_Atlas/Lab_High-Energy_MOC.html))
 - **CUVOB**: cosmic UV/optical background (stars and AGN)
 - **CIB**: cosmic infrared background (dust-reprocessed star formation)
 - **CMB**: cosmic microwave background — **dominates by number** ($\sim 99\%$ of all photons)
@@ -91,9 +91,9 @@ these tiny anisotropies are the seeds of every galaxy and cluster I will ever ob
 
 ## see also
 
-- [Cosmic_inventory_photons_derivation](../../02_Zettel/Theory/Cosmic_inventory_photons_derivation.md)
+- [Cosmic_inventory_photons_derivation](../../02_Zettel/Theory/Cosmic_inventory_photons_derivation.html)
 - CMB Spectral Distortions — What They Are and Where They Come From
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Cosmic_inventory_overview](../../02_Zettel/Theory/Cosmic_inventory_overview.md)
-- [Brief thermal history](../../02_Zettel/Theory/Brief thermal history.md)
-- [Photon decoupling and CMB](../../02_Zettel/Theory/Photon decoupling and CMB.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Cosmic_inventory_overview](../../02_Zettel/Theory/Cosmic_inventory_overview.html)
+- [Brief thermal history](../../02_Zettel/Theory/Brief thermal history.html)
+- [Photon decoupling and CMB](../../02_Zettel/Theory/Photon decoupling and CMB.html)

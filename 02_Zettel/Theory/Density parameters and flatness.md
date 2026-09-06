@@ -83,15 +83,15 @@ far larger than the observable universe. so even if the universe is technically 
 
 ## why is the universe so flat?
 
-a deep question. if $\Omega_K(t)$ were anything but tiny in the early universe, it would have grown enormously by today (the **flatness problem**). starting with $\Omega_K \sim 10^{-3}$ today, you can extrapolate back and find the universe at the Planck epoch must have had $|\Omega_K|$ tuned to $\sim 10^{-60}$. this is a fine-tuning that **inflation** is designed to solve (see [Inflation overview](../../02_Zettel/Theory/Inflation overview.md) and [Standard model problems](../../02_Zettel/Theory/Standard model problems.md)).
+a deep question. if $\Omega_K(t)$ were anything but tiny in the early universe, it would have grown enormously by today (the **flatness problem**). starting with $\Omega_K \sim 10^{-3}$ today, you can extrapolate back and find the universe at the Planck epoch must have had $|\Omega_K|$ tuned to $\sim 10^{-60}$. this is a fine-tuning that **inflation** is designed to solve (see [Inflation overview](../../02_Zettel/Theory/Inflation overview.html) and [Standard model problems](../../02_Zettel/Theory/Standard model problems.html)).
 
 ---
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
 - Friedmann equations with Λ
-- [Curvature parameter k](../../02_Zettel/Theory/Curvature parameter k.md)
-- [Hubble constant and deceleration parameter](../../02_Zettel/Theory/Hubble constant and deceleration parameter.md)
-- [Inflation overview](../../02_Zettel/Theory/Inflation overview.md)
-- [Standard model problems](../../02_Zettel/Theory/Standard model problems.md)
+- [Curvature parameter k](../../02_Zettel/Theory/Curvature parameter k.html)
+- [Hubble constant and deceleration parameter](../../02_Zettel/Theory/Hubble constant and deceleration parameter.html)
+- [Inflation overview](../../02_Zettel/Theory/Inflation overview.html)
+- [Standard model problems](../../02_Zettel/Theory/Standard model problems.html)

@@ -54,9 +54,9 @@ each shift is not perfect: some electrons are lost or smeared. CTE is the per-pi
 
 ## see also
 
-- [CCD basics](../../02_Zettel/Theory/CCD basics.md)
-- [CCD readout](../../02_Zettel/Theory/CCD readout.md)
-- [CCD detectors and SNR](../../02_Zettel/Theory/CCD detectors and SNR.md)
-- [CCD noise sources](../../02_Zettel/Theory/CCD noise sources.md)
-- [The CCD equation](../../02_Zettel/Theory/The CCD equation.md)
-- [Charge-Coupled Device](../../02_Zettel/Theory/Charge-Coupled Device.md)
+- [CCD basics](../../02_Zettel/Theory/CCD basics.html)
+- [CCD readout](../../02_Zettel/Theory/CCD readout.html)
+- [CCD detectors and SNR](../../02_Zettel/Theory/CCD detectors and SNR.html)
+- [CCD noise sources](../../02_Zettel/Theory/CCD noise sources.html)
+- [The CCD equation](../../02_Zettel/Theory/The CCD equation.html)
+- [Charge-Coupled Device](../../02_Zettel/Theory/Charge-Coupled Device.html)

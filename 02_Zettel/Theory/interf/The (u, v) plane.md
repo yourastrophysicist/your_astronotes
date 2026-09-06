@@ -103,9 +103,9 @@ source: first figure is a local synthetic demo; second figure is from S. T. Myer
 
 ## see also
 
-- [Aperture synthesis principle](../../../02_Zettel/Theory/interf/Aperture synthesis principle.md)
-- [Earth-rotation aperture synthesis](../../../02_Zettel/Theory/interf/Earth-rotation aperture synthesis.md)
-- [Optimal array geometry](../../../02_Zettel/Theory/interf/Optimal array geometry.md)
-- [Dirty beam and dirty image](../../../02_Zettel/Theory/interf/Dirty beam and dirty image.md)
-- [Van Cittert-Zernike theorem](../../../02_Zettel/Theory/interf/Van Cittert-Zernike theorem.md)
-- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.md)
+- [Aperture synthesis principle](../../../02_Zettel/Theory/interf/Aperture synthesis principle.html)
+- [Earth-rotation aperture synthesis](../../../02_Zettel/Theory/interf/Earth-rotation aperture synthesis.html)
+- [Optimal array geometry](../../../02_Zettel/Theory/interf/Optimal array geometry.html)
+- [Dirty beam and dirty image](../../../02_Zettel/Theory/interf/Dirty beam and dirty image.html)
+- [Van Cittert-Zernike theorem](../../../02_Zettel/Theory/interf/Van Cittert-Zernike theorem.html)
+- [Astronomical_Interferometry_MOC](../../../00_Atlas/Astronomical_Interferometry_MOC.html)

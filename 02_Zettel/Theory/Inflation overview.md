@@ -5,7 +5,7 @@ title: "Inflation overview"
 
 **inflation** is a hypothetical epoch of accelerated expansion ($\ddot a > 0$) in the very early universe, $t \sim 10^{-35}$ s, $T \gtrsim 10^{16}$ GeV. it was proposed in 1981 by Alan Guth and refined by Andrei Linde, Albrecht-Steinhardt, Sato, and others.
 
-inflation is designed to solve the **fine-tuning problems** of the standard hot Big Bang model: flatness, horizon, monopoles (see [Standard model problems](../../02_Zettel/Theory/Standard model problems.md)).
+inflation is designed to solve the **fine-tuning problems** of the standard hot Big Bang model: flatness, horizon, monopoles (see [Standard model problems](../../02_Zettel/Theory/Standard model problems.html)).
 
 ---
 
@@ -58,7 +58,7 @@ generic predictions:
 - the primordial **scalar power spectrum** is nearly scale-invariant: $P_\zeta(k) \propto k^{n_s - 1}$ with $n_s$ slightly less than 1. measured: $n_s = 0.965 \pm 0.004$ (Planck 2018), perfectly consistent with single-field slow-roll inflation.
 - the **tensor-to-scalar ratio** $r$ is small but nonzero. measured upper bound: $r < 0.06$ (Planck + BICEP/Keck). future experiments (LiteBIRD, CMB-S4) aim for $r \sim 10^{-3}$.
 
-→ see [Inflaton scalar field dynamics](../../02_Zettel/Theory/Inflaton scalar field dynamics.md) and [Old vs new vs chaotic inflation, slow-roll](../../02_Zettel/Theory/Old vs new vs chaotic inflation, slow-roll.md) for the technical details.
+→ see [Inflaton scalar field dynamics](../../02_Zettel/Theory/Inflaton scalar field dynamics.html) and [Old vs new vs chaotic inflation, slow-roll](../../02_Zettel/Theory/Old vs new vs chaotic inflation, slow-roll.html) for the technical details.
 
 ---
 
@@ -76,7 +76,7 @@ so the timeline is:
 4. **matter domination** ($z < 3300$)
 5. **Λ domination** ($z < 0.7$)
 
-→ see [Brief thermal history](../../02_Zettel/Theory/Brief thermal history.md) for the full timeline.
+→ see [Brief thermal history](../../02_Zettel/Theory/Brief thermal history.html) for the full timeline.
 
 ---
 
@@ -93,10 +93,10 @@ inflation is a beautiful idea that solves real problems and has made specific pr
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.md)
-- [Standard model problems](../../02_Zettel/Theory/Standard model problems.md)
-- [Inflaton scalar field dynamics](../../02_Zettel/Theory/Inflaton scalar field dynamics.md)
-- [Old vs new vs chaotic inflation, slow-roll](../../02_Zettel/Theory/Old vs new vs chaotic inflation, slow-roll.md)
-- [Brief thermal history](../../02_Zettel/Theory/Brief thermal history.md)
-- [Baryogenesis](../../02_Zettel/Theory/Baryogenesis.md)
-- [Baumann_reference](../../02_Zettel/Theory/Baumann_reference.md) — chapter 2 is the rigorous treatment
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../00_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Standard model problems](../../02_Zettel/Theory/Standard model problems.html)
+- [Inflaton scalar field dynamics](../../02_Zettel/Theory/Inflaton scalar field dynamics.html)
+- [Old vs new vs chaotic inflation, slow-roll](../../02_Zettel/Theory/Old vs new vs chaotic inflation, slow-roll.html)
+- [Brief thermal history](../../02_Zettel/Theory/Brief thermal history.html)
+- [Baryogenesis](../../02_Zettel/Theory/Baryogenesis.html)
+- [Baumann_reference](../../02_Zettel/Theory/Baumann_reference.html) — chapter 2 is the rigorous treatment

@@ -93,9 +93,9 @@ $O(h^4)$. but four function evaluations and the optimal $h$ shifts to $\sim \eps
 
 ## see also
 
-- [Truncation error and order of accuracy](../../02_Zettel/Theory/Truncation error and order of accuracy.md)
-- [Roundoff vs truncation balance](../../02_Zettel/Theory/Roundoff vs truncation balance.md)
-- [Second derivatives](../../02_Zettel/Theory/Second derivatives.md)
-- [Partial numerical derivatives](../../02_Zettel/Theory/Partial numerical derivatives.md)
-- [Derivatives of noisy data](../../02_Zettel/Theory/Derivatives of noisy data.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Truncation error and order of accuracy](../../02_Zettel/Theory/Truncation error and order of accuracy.html)
+- [Roundoff vs truncation balance](../../02_Zettel/Theory/Roundoff vs truncation balance.html)
+- [Second derivatives](../../02_Zettel/Theory/Second derivatives.html)
+- [Partial numerical derivatives](../../02_Zettel/Theory/Partial numerical derivatives.html)
+- [Derivatives of noisy data](../../02_Zettel/Theory/Derivatives of noisy data.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

@@ -12,7 +12,7 @@ a white dwarf is held up by electron degeneracy pressure rather than thermal pre
 
 for a non-relativistic degenerate electron gas the equation of state is
 $$P = K_{\rm NR}\,\rho^{5/3},$$
-which corresponds to a polytrope of index $n = 3/2$. the resulting hydrostatic structure has a mass-radius relation $R \propto M^{-1/3}$ (more mass means smaller radius, see [White dwarf mass-radius relation](../../02_Zettel/Theory/White dwarf mass-radius relation.md)).
+which corresponds to a polytrope of index $n = 3/2$. the resulting hydrostatic structure has a mass-radius relation $R \propto M^{-1/3}$ (more mass means smaller radius, see [White dwarf mass-radius relation](../../02_Zettel/Theory/White dwarf mass-radius relation.html)).
 
 as the WD becomes more massive its central density rises and the typical electron Fermi momentum $p_F \propto n_e^{1/3}$ becomes comparable to $m_e c$. the electrons go ultra-relativistic, and the equation of state softens to
 $$P = K_{\rm UR}\,\rho^{4/3},$$
@@ -36,8 +36,8 @@ the mass cutoff has fundamental implications: it sets the dividing line in stell
 historically, derived by Chandrasekhar in 1931 in his early twenties, this result reshaped stellar astrophysics by showing that quantum mechanics imposes a fundamental ceiling on compact-object masses.
 
 ## see also
-- [White dwarf overview](../../02_Zettel/Theory/White dwarf overview.md)
-- [White dwarf mass-radius relation](../../02_Zettel/Theory/White dwarf mass-radius relation.md)
-- [White dwarf types He CO ONeMg](../../02_Zettel/Theory/White dwarf types He CO ONeMg.md)
-- [Initial-final mass relation IFMR](../../02_Zettel/Theory/Initial-final mass relation IFMR.md)
-- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.md)
+- [White dwarf overview](../../02_Zettel/Theory/White dwarf overview.html)
+- [White dwarf mass-radius relation](../../02_Zettel/Theory/White dwarf mass-radius relation.html)
+- [White dwarf types He CO ONeMg](../../02_Zettel/Theory/White dwarf types He CO ONeMg.html)
+- [Initial-final mass relation IFMR](../../02_Zettel/Theory/Initial-final mass relation IFMR.html)
+- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.html)

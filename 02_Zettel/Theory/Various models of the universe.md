@@ -90,13 +90,13 @@ this is the SN Ia signature that revolutionised cosmology in 1998.
 
 ## see also
 
-- [Friedmann equations](../../02_Zettel/Theory/Friedmann equations.md)
-- [Friedmann solutions](../../02_Zettel/Theory/Friedmann solutions.md)
-- [Friedmann models](../../02_Zettel/Theory/Friedmann models.md)
-- [ΛCDM current parameters](../../02_Zettel/Theory/ΛCDM current parameters.md)
-- [Cosmological constant](../../02_Zettel/Theory/Cosmological constant.md)
-- [Hubble law](../../02_Zettel/Theory/Hubble law.md)
-- [Supernova Hubble diagram](../../02_Zettel/Theory/Supernova Hubble diagram.md)
-- [Cosmic_inventory_overview](../../02_Zettel/Theory/Cosmic_inventory_overview.md)
-- [Brief thermal history](../../02_Zettel/Theory/Brief thermal history.md)
-- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.md)
+- [Friedmann equations](../../02_Zettel/Theory/Friedmann equations.html)
+- [Friedmann solutions](../../02_Zettel/Theory/Friedmann solutions.html)
+- [Friedmann models](../../02_Zettel/Theory/Friedmann models.html)
+- [ΛCDM current parameters](../../02_Zettel/Theory/ΛCDM current parameters.html)
+- [Cosmological constant](../../02_Zettel/Theory/Cosmological constant.html)
+- [Hubble law](../../02_Zettel/Theory/Hubble law.html)
+- [Supernova Hubble diagram](../../02_Zettel/Theory/Supernova Hubble diagram.html)
+- [Cosmic_inventory_overview](../../02_Zettel/Theory/Cosmic_inventory_overview.html)
+- [Brief thermal history](../../02_Zettel/Theory/Brief thermal history.html)
+- [Observational_Cosmology_MOC](../../00_Atlas/Observational_Cosmology_MOC.html)

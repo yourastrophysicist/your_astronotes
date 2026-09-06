@@ -25,7 +25,7 @@ after listing all and grouping into terms, the allowed terms are:
 $$np^2: \quad ^3P, ^1D, ^1S$$
 totalling $9 + 5 + 1 = 15$ states. ✓
 
-these are the terms of carbon ground configuration. by [Hund's rules](../../02_Zettel/Theory/Hund's rules.md), $^3P$ is the ground term.
+these are the terms of carbon ground configuration. by [Hund's rules](../../02_Zettel/Theory/Hund's rules.html), $^3P$ is the ground term.
 
 ## the $np^3$ example
 
@@ -58,9 +58,9 @@ textbooks (Cowan, *Theory of Atomic Structure*; Condon-Shortley) tabulate the al
 
 ## see also
 
-- [Quantum numbers and atomic states](../../02_Zettel/Theory/Quantum numbers and atomic states.md)
-- [Atomic term symbols](../../02_Zettel/Theory/Atomic term symbols.md)
-- [Hund's rules](../../02_Zettel/Theory/Hund's rules.md)
-- [Russell-Saunders LS coupling](../../02_Zettel/Theory/Russell-Saunders LS coupling.md)
-- [Pauli principle and electron configurations](../../02_Zettel/Theory/Pauli principle and electron configurations.md)
-- [Statistical weight g](../../02_Zettel/Theory/Statistical weight g.md)
+- [Quantum numbers and atomic states](../../02_Zettel/Theory/Quantum numbers and atomic states.html)
+- [Atomic term symbols](../../02_Zettel/Theory/Atomic term symbols.html)
+- [Hund's rules](../../02_Zettel/Theory/Hund's rules.html)
+- [Russell-Saunders LS coupling](../../02_Zettel/Theory/Russell-Saunders LS coupling.html)
+- [Pauli principle and electron configurations](../../02_Zettel/Theory/Pauli principle and electron configurations.html)
+- [Statistical weight g](../../02_Zettel/Theory/Statistical weight g.html)

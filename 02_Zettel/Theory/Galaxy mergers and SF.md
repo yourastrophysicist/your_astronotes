@@ -5,11 +5,11 @@ title: "Galaxy mergers and SF"
 
 # galaxy mergers and star formation
 
-up: [Pablo_03_Star_formation_in_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.md)
+up: [Pablo_03_Star_formation_in_galaxies](../../01_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html)
 
 ## mergers drive extreme SF
 
-tidal torques in a close encounter channel gas to the center, compressing it and triggering a nuclear starburst (Mihos & Hernquist 1996). this is the standard picture behind [LIRGs ULIRGs HyLIRGs](../../02_Zettel/Theory/LIRGs ULIRGs HyLIRGs.md): almost all local ULIRGs are major mergers.
+tidal torques in a close encounter channel gas to the center, compressing it and triggering a nuclear starburst (Mihos & Hernquist 1996). this is the standard picture behind [LIRGs ULIRGs HyLIRGs](../../02_Zettel/Theory/LIRGs ULIRGs HyLIRGs.html): almost all local ULIRGs are major mergers.
 
 the SF enhancement is dramatic:
 - pre-merger spirals: $\psi \sim 1$–$10\,M_\odot/\text{yr}$
@@ -28,7 +28,7 @@ results (Conselice 2003, van Dokkum 2005, Le Fèvre 2000, Lotz 2008, López-Sanj
 
 $$f_{\text{merger}}(z) \propto (1+z)^m,\quad m \simeq 2\text{–}3$$
 
-so at $z = 1$, roughly $10\%$ of galaxies are in mergers; at $z = 2$, $\sim 20$–$30\%$. this is a major driver of the [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.md) rise.
+so at $z = 1$, roughly $10\%$ of galaxies are in mergers; at $z = 2$, $\sim 20$–$30\%$. this is a major driver of the [Cosmic star formation history](../../02_Zettel/Theory/Cosmic star formation history.html) rise.
 
 ## the Pablo figure
 
@@ -44,7 +44,7 @@ a gas-rich major merger, via hydrodynamic simulations:
 2. **apocenter**: galaxies separated again, SF returns to near-normal
 3. **second passage / coalescence** ($t \sim 0.5$–$1$ Gyr): nuclei merge, violent relaxation, gas piled in inner kpc → **ULIRG phase** SFR $> 100 \, M_\odot/\text{yr}$
 4. **AGN ignition**: buried AGN accretes, eventually blows out gas
-5. **quench**: gas expelled or consumed, SF turns off, [Post-starburst galaxies](../../02_Zettel/Theory/Post-starburst galaxies.md) signature
+5. **quench**: gas expelled or consumed, SF turns off, [Post-starburst galaxies](../../02_Zettel/Theory/Post-starburst galaxies.html) signature
 6. **relaxation**: red-sequence elliptical remains
 
 this is the classical "major-merger-into-elliptical" paradigm (Toomre & Toomre 1972, Hopkins 2008).
@@ -59,12 +59,12 @@ mergers are **not** the source of main-sequence SF at $z = 1$–$2$. Rodighiero 
 
 ## connections
 
-- extreme IR end: [LIRGs ULIRGs HyLIRGs](../../02_Zettel/Theory/LIRGs ULIRGs HyLIRGs.md)
-- triggered SF: [Starburst galaxies](../../02_Zettel/Theory/Starburst galaxies.md)
-- quenching endpoint: [Post-starburst galaxies](../../02_Zettel/Theory/Post-starburst galaxies.md)
-- environmental context: [Galaxy color, density and morphology](../../02_Zettel/Theory/Galaxy color, density and morphology.md)
-- main-sequence context: [Galaxy main sequence of star formation](../../02_Zettel/Theory/Galaxy main sequence of star formation.md)
-- merger-driven dry growth: [Green valley and quenching tracks](../../02_Zettel/Theory/Green valley and quenching tracks.md)
+- extreme IR end: [LIRGs ULIRGs HyLIRGs](../../02_Zettel/Theory/LIRGs ULIRGs HyLIRGs.html)
+- triggered SF: [Starburst galaxies](../../02_Zettel/Theory/Starburst galaxies.html)
+- quenching endpoint: [Post-starburst galaxies](../../02_Zettel/Theory/Post-starburst galaxies.html)
+- environmental context: [Galaxy color, density and morphology](../../02_Zettel/Theory/Galaxy color, density and morphology.html)
+- main-sequence context: [Galaxy main sequence of star formation](../../02_Zettel/Theory/Galaxy main sequence of star formation.html)
+- merger-driven dry growth: [Green valley and quenching tracks](../../02_Zettel/Theory/Green valley and quenching tracks.html)
 
 ## key references
 

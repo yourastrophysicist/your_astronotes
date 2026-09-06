@@ -5,7 +5,7 @@ title: "Multidimensional Monte Carlo integration"
 
 # Multidimensional Monte Carlo integration
 
-the formula for [mean-value MC](../../02_Zettel/Theory/Monte Carlo integration mean value method.md) generalizes from 1D to any number of dimensions with no change of structure. and crucially, **the convergence rate stays $1/\sqrt{N}$ regardless of dimension**, which is what makes Monte Carlo dominate over deterministic quadrature in high dimensions.
+the formula for [mean-value MC](../../02_Zettel/Theory/Monte Carlo integration mean value method.html) generalizes from 1D to any number of dimensions with no change of structure. and crucially, **the convergence rate stays $1/\sqrt{N}$ regardless of dimension**, which is what makes Monte Carlo dominate over deterministic quadrature in high dimensions.
 
 ## the formula
 
@@ -93,8 +93,8 @@ scipy has `scipy.stats.qmc` for low-discrepancy sampling.
 
 ## see also
 
-- [Monte Carlo integration mean value method](../../02_Zettel/Theory/Monte Carlo integration mean value method.md)
-- [Importance sampling](../../02_Zettel/Theory/Importance sampling.md)
-- [Pseudo-random number generators](../../02_Zettel/Theory/Pseudo-random number generators.md)
-- [Trapezoidal rule](../../02_Zettel/Theory/Trapezoidal rule.md)
-- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.md)
+- [Monte Carlo integration mean value method](../../02_Zettel/Theory/Monte Carlo integration mean value method.html)
+- [Importance sampling](../../02_Zettel/Theory/Importance sampling.html)
+- [Pseudo-random number generators](../../02_Zettel/Theory/Pseudo-random number generators.html)
+- [Trapezoidal rule](../../02_Zettel/Theory/Trapezoidal rule.html)
+- [Mathematical_Numerical_Methods_MOC](../../00_Atlas/Mathematical_Numerical_Methods_MOC.html)

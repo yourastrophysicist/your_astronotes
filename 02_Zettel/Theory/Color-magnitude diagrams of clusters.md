@@ -4,7 +4,7 @@ name: Color-magnitude diagrams of clusters
 description: the central diagnostic tool of stellar population studies, plotting magnitude vs color for resolved cluster stars to extract age, metallicity, distance, and reddening
 ---
 
-a **color-magnitude diagram** (CMD) is the observational version of the [HR diagram](../../02_Zettel/Theory/HR diagram.md): $M_V$ (or $M_X$) vs a color (e.g. $B-V$, $g-r$, or $V-I$). for stellar **clusters** specifically, all stars share the same age, metallicity, and distance, so a cluster CMD is a powerful diagnostic of all four parameters: age, $Z$, distance modulus, and reddening. milone et al. 2025 (A&A 696, 221) provides the modern reference CMD for NGC 6397 ($\sim 13.5$ Gyr), used as the canonical example throughout the course.
+a **color-magnitude diagram** (CMD) is the observational version of the [HR diagram](../../02_Zettel/Theory/HR diagram.html): $M_V$ (or $M_X$) vs a color (e.g. $B-V$, $g-r$, or $V-I$). for stellar **clusters** specifically, all stars share the same age, metallicity, and distance, so a cluster CMD is a powerful diagnostic of all four parameters: age, $Z$, distance modulus, and reddening. milone et al. 2025 (A&A 696, 221) provides the modern reference CMD for NGC 6397 ($\sim 13.5$ Gyr), used as the canonical example throughout the course.
 
 ## why clusters
 
@@ -91,15 +91,15 @@ mixed-age, metal-poor populations. CMDs show extended MS + RGB + multiple turnof
 
 ## see also
 
-- [HR diagram](../../02_Zettel/Theory/HR diagram.md)
-- [Cluster ages from CMD turnoff](../../02_Zettel/Theory/Cluster ages from CMD turnoff.md)
-- [Stellar populations I II III](../../02_Zettel/Theory/Stellar populations I II III.md)
-- [Spectroscopic parallax and main-sequence fitting](../../02_Zettel/Theory/Spectroscopic parallax and main-sequence fitting.md)
-- [Variable stars as standard candles](../../02_Zettel/Theory/Variable stars as standard candles.md)
-- [Initial mass function](../../02_Zettel/Theory/Initial mass function.md)
-- [Stellar evolution timescales](../../02_Zettel/Theory/Stellar evolution timescales.md)
-- [Color indices](../../02_Zettel/Theory/Color indices.md)
-- [Distance modulus](../../02_Zettel/Theory/Distance modulus.md)
-- [SFH from resolved CMDs](../../02_Zettel/Theory/SFH from resolved CMDs.md)
-- [Isochrones and isochrone fitting](../../02_Zettel/Theory/Isochrones and isochrone fitting.md)
-- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.md)
+- [HR diagram](../../02_Zettel/Theory/HR diagram.html)
+- [Cluster ages from CMD turnoff](../../02_Zettel/Theory/Cluster ages from CMD turnoff.html)
+- [Stellar populations I II III](../../02_Zettel/Theory/Stellar populations I II III.html)
+- [Spectroscopic parallax and main-sequence fitting](../../02_Zettel/Theory/Spectroscopic parallax and main-sequence fitting.html)
+- [Variable stars as standard candles](../../02_Zettel/Theory/Variable stars as standard candles.html)
+- [Initial mass function](../../02_Zettel/Theory/Initial mass function.html)
+- [Stellar evolution timescales](../../02_Zettel/Theory/Stellar evolution timescales.html)
+- [Color indices](../../02_Zettel/Theory/Color indices.html)
+- [Distance modulus](../../02_Zettel/Theory/Distance modulus.html)
+- [SFH from resolved CMDs](../../02_Zettel/Theory/SFH from resolved CMDs.html)
+- [Isochrones and isochrone fitting](../../02_Zettel/Theory/Isochrones and isochrone fitting.html)
+- [Stellar_Astrophysics_MOC](../../00_Atlas/Stellar_Astrophysics_MOC.html)
