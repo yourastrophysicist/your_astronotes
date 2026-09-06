@@ -14,33 +14,38 @@
 <body>
 
   <header>
-    <div style="display: flex; align-items: center; gap: 16px;">
+    <div class="header-brand">
       <a href="{{ '/' | relative_url }}" class="logo">{{ site.title }}</a>
-      <span style="opacity: 0.7; font-size: 0.9rem;">{{ site.subtitle }}</span>
+      <span class="header-subtitle">From The Open Astrophysics Vault, the free astrophysics encyclopedia</span>
     </div>
-    <nav style="display: flex; align-items: center; gap: 20px; font-size: 0.95rem; font-weight: 600;">
-      <a href="{{ '/' | relative_url }}">Atlas</a>
-      <a href="{{ '/About.html' | relative_url }}">About</a>
-      <a href="https://github.com/{{ site.github_repo }}" target="_blank" rel="noopener noreferrer">GitHub</a>
+    <nav class="header-nav">
+      <a href="{{ '/' | relative_url }}" class="header-tab">Atlas</a>
+      <a href="{{ '/About.html' | relative_url }}" class="header-tab">About</a>
+      <a href="https://github.com/{{ site.github_repo }}" target="_blank" rel="noopener noreferrer" class="header-tab">GitHub</a>
     </nav>
   </header>
 
   <div class="container">
     <aside class="sidebar-left">
-      <input type="text" id="tree-search" class="search-box" placeholder="Search pages...">
+      <div class="sidebar-heading">Search Vault</div>
+      <input type="text" id="tree-search" class="search-box" placeholder="Search pages, maps, notes...">
+      <div class="sidebar-heading">Navigation</div>
       <div id="file-tree"></div>
     </aside>
 
     <main>
-      {% unless page.url == '/' or page.path == 'index.md' or page.title == 'index' or page.title contains 'About The Open Astrophysics Vault' %}
-      <h1 style="margin-top:0;">{{ page.title }}</h1>
+      {% unless page.url == '/' or page.path == 'index.md' or page.title == 'index' %}
+      <div class="article-header">
+        <h1 class="article-title">{{ page.title }}</h1>
+        <div class="article-tagline">From The Open Astrophysics Vault, the free graduate second brain</div>
+      </div>
       {% endunless %}
       <div class="markdown-body">
         {{ content }}
       </div>
 
-      <div class="feedback-section" style="margin-top: 60px; padding-top: 20px; border-top: 1px solid var(--border-color); text-align: center;">
-        <p>Found a typo or have questions? <a href="https://github.com/{{ site.github_repo }}/issues/new?title=Feedback+on+{{ page.title | url_encode }}&body=Source+file:+{{ page.path | url_encode }}" target="_blank" style="color: var(--primary-color); font-weight: 600; display: inline-flex; align-items: center; gap: 6px;">
+      <div class="feedback-section">
+        <p>Found an issue or want to contribute? <a href="https://github.com/{{ site.github_repo }}/issues/new?title=Feedback+on+{{ page.title | url_encode }}&body=Source+file:+{{ page.path | url_encode }}" target="_blank" style="color: var(--primary-color); font-weight: 600; display: inline-flex; align-items: center; gap: 6px;">
           <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor" style="display:inline-block; vertical-align:middle;"><path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"></path></svg>
           Report an issue with this content
         </a></p>
@@ -48,8 +53,10 @@
     </main>
 
     <aside class="sidebar-right">
-      <h3 class="toc-title">On this page</h3>
-      <div id="toc-content"></div>
+      <div class="toc-card">
+        <h3 class="toc-title">Contents</h3>
+        <div id="toc-content"></div>
+      </div>
     </aside>
   </div>
 
