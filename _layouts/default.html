@@ -19,8 +19,7 @@
       <span class="header-subtitle">From Your AstroNotes, the free astrophysics encyclopedia</span>
     </div>
     <nav class="header-nav">
-      <a href="{{ '/' | relative_url }}" class="header-tab">Atlas</a>
-      <a href="{{ '/About.html' | relative_url }}" class="header-tab">About</a>
+      <a href="{{ '/About.html' | relative_url }}" class="header-tab{% if page.url == '/About.html' or page.url == '/About' %} active{% endif %}">About</a>
       <a href="https://instagram.com/your.astrophysicist" target="_blank" rel="noopener noreferrer" class="header-tab">Instagram</a>
       <a href="https://github.com/{{ site.github_repo }}" target="_blank" rel="noopener noreferrer" class="header-tab">GitHub</a>
     </nav>

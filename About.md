@@ -13,9 +13,9 @@ This project transforms a private working Obsidian second brain into a free, ope
 
 ## Author and Compiler
 
-Curated and maintained by **Jessica Syafaq Muthmaina**.
+An open, community-oriented astrophysics compendium and graduate study reference.
 
-* **Instagram**: [@yourastrophysicist](https://instagram.com/yourastrophysicist)
+* **Instagram**: [@your.astrophysicist](https://instagram.com/your.astrophysicist)
 * **GitHub**: [yourastrophysicist](https://github.com/yourastrophysicist)
 * **Live Website**: [yourastrophysicist.github.io/your_astronotes](https://yourastrophysicist.github.io/your_astronotes/)
 * **Source Repository**: [github.com/yourastrophysicist/your_astronotes](https://github.com/yourastrophysicist/your_astronotes)
