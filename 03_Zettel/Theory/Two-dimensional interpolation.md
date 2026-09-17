@@ -73,9 +73,9 @@ zi = griddata((x, y), z, (xi, yi), method='cubic')        # 'nearest', 'linear',
 
 ### radial basis function (RBF)
 
-express $f$ as a weighted sum of radial functions $\phi(\|r - r_i\|)$ centered at each data point:
+express $f$ as a weighted sum of radial functions $\phi(\\lvert r - r_i\\rvert)$ centered at each data point:
 
-$$f(x, y) = \sum_i w_i \phi(\|(x, y) - (x_i, y_i)\|)$$
+$$f(x, y) = \sum_i w_i \phi(\\lvert (x, y) - (x_i, y_i)\\rvert)$$
 
 solve a linear system for the weights $w_i$ such that $f(x_j, y_j) = f_j$ for all $j$. choices of $\phi$: Gaussian, multiquadric, thin-plate spline.
 

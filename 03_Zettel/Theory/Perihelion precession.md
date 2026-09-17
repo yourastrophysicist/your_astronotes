@@ -20,7 +20,7 @@ $$u_0 = \frac{GM}{L^2}\,(1 + e\cos\phi)$$
 $$u_1 \propto \phi\sin\phi$$
 
 absorbing this into a precession of the orbit ($\phi \to \phi - \delta\phi$):
-$$\boxed{\, \Delta\phi_{\rm prec}\big|_{\rm per\,orbit} = \frac{6\pi GM}{a(1 - e^2)} \,}$$
+$$\boxed{\, \Delta\phi_{\rm prec}\big\vert_{\rm per\,orbit} = \frac{6\pi GM}{a(1 - e^2)} \,}$$
 
 with $a$ the semi-major axis. equivalent forms: $6\pi GM/p$ with $p = a(1 - e^2)$ the semi-latus rectum, or $6\pi GM/c^2 a (1 - e^2)$ in physical units.
 

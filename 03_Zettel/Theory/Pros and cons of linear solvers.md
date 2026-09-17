@@ -65,7 +65,7 @@ decision tree for solving $A\mathbf{x} = \mathbf{b}$. the choice depends on the 
 
 ## condition number considerations
 
-if $\kappa(A) = \|A\| \|A^{-1}\| \gg 1$, the matrix is **ill-conditioned**: small perturbations in $\mathbf{b}$ cause large changes in $\mathbf{x}$. iterative methods may stall; direct methods may give a "solution" that is off by many digits.
+if $\kappa(A) = \\lvert A\\rvert \\lvert A^{-1}\\rvert \gg 1$, the matrix is **ill-conditioned**: small perturbations in $\mathbf{b}$ cause large changes in $\mathbf{x}$. iterative methods may stall; direct methods may give a "solution" that is off by many digits.
 
 diagnostics:
 - $\log_{10}\kappa(A)$ tells you roughly how many digits of precision are lost

@@ -67,7 +67,7 @@ Non-linear activations break the linearity of chained matrix multiplications. Wi
 
 1. **Logistic Sigmoid**:
    $$\sigma(a) = \frac{1}{1 + e^{-a}}, \quad \sigma'(a) = \sigma(a)(1 - \sigma(a))$$
-   *Range*: $(0, 1)$. Prone to vanishing gradients in deep networks because $|\sigma'(a)| \le 0.25$.
+   *Range*: $(0, 1)$. Prone to vanishing gradients in deep networks because $\lvert \sigma'(a)\rvert \le 0.25$.
 2. **Hyperbolic Tangent ($\tanh$)**:
    $$\tanh(a) = \frac{e^a - e^{-a}}{e^a + e^{-a}} = 2\sigma(2a) - 1, \quad \tanh'(a) = 1 - \tanh^2(a)$$
    *Range*: $(-1, 1)$. Zero-centered, providing faster convergence than standard sigmoid.
@@ -86,11 +86,11 @@ The objective function measures the discrepancy between model predictions $\math
 
 ### 1. Regression Losses
 - **Mean Squared Error ($L_2$ Loss)**:
-  $$E(\mathbf{w}) = \frac{1}{2N} \sum_{n=1}^N \|\mathbf{y}_n - \mathbf{t}_n\|_2^2$$
+  $$E(\mathbf{w}) = \frac{1}{2N} \sum_{n=1}^N \\lvert \mathbf{y}_n - \mathbf{t}_n\\rvert_2^2$$
 - **Mean Absolute Error ($L_1$ Loss)**:
-  $$E(\mathbf{w}) = \frac{1}{N} \sum_{n=1}^N \|\mathbf{y}_n - \mathbf{t}_n\|_1$$
+  $$E(\mathbf{w}) = \frac{1}{N} \sum_{n=1}^N \\lvert \mathbf{y}_n - \mathbf{t}_n\\rvert_1$$
 - **Huber Loss** (smooth transition from quadratic for small errors to linear for outliers):
-  $$L_\delta(y, t) = \begin{cases} \frac{1}{2}(y - t)^2 & |y - t| \le \delta \\ \delta |y - t| - \frac{1}{2}\delta^2 & |y - t| > \delta \end{cases}$$
+  $$L_\delta(y, t) = \begin{cases} \frac{1}{2}(y - t)^2 & \lvert y - t\rvert \le \delta \\ \delta \lvert y - t\rvert - \frac{1}{2}\delta^2 & \lvert y - t\rvert > \delta \end{cases}$$
 
 ### 2. Classification Losses
 - **Binary Cross-Entropy**:

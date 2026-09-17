@@ -25,7 +25,7 @@ physical: world line of a **photon** (or any massless particle). moves at speed 
 
 natural parameter: **affine parameter** $\lambda$, no proper time ($d\tau = 0$).
 
-four-momentum: $p^\mu$ with $g pp = 0$. for a photon, $p^\mu = (E, \vec p)$ with $|\vec p| = E$. energy as measured by a comoving observer is $E_{\rm obs} = -p^\mu u_\mu$.
+four-momentum: $p^\mu$ with $g pp = 0$. for a photon, $p^\mu = (E, \vec p)$ with $\lvert \vec p\rvert = E$. energy as measured by a comoving observer is $E_{\rm obs} = -p^\mu u_\mu$.
 
 action: parametrise as $S = -\frac{1}{2}\int g_{\mu\nu}\dot x^\mu \dot x^\nu d\lambda$ (no square root) for null + timelike alike.
 

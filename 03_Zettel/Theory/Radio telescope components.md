@@ -62,7 +62,7 @@ because gigahertz to terahertz RF signals cannot be digitized or transmitted ove
   using trigonometric product identities:
   $$V_{\rm mix}(t) = \frac{A}{2} \left[ \cos(2\pi (\nu_{\rm RF} - \nu_{\rm LO}) t + (\phi_{\text{sky}} - \phi_{\text{LO}})) + \cos(2\pi (\nu_{\rm RF} + \nu_{\rm LO}) t + (\phi_{\text{sky}} + \phi_{\text{LO}})) \right]$$
 - **intermediate frequency (IF)**: a low-pass filter rejects the high-frequency sum term ($\nu_{\rm RF} + \nu_{\rm LO}$) and extracts the **difference frequency**:
-  $$\nu_{\rm IF} = |\nu_{\rm RF} - \nu_{\rm LO}|$$
+  $$\nu_{\rm IF} = \lvert \nu_{\rm RF} - \nu_{\rm LO}\rvert$$
   Crucially, the resulting IF voltage signal retains the exact phase $\phi_{\text{sky}}$ and amplitude of the original astronomical wave:
   $$V_{\rm IF}(t) = V_{0, \text{IF}} \cos(2\pi \nu_{\rm IF} t + \phi_{\text{sky}} - \phi_{\text{LO}})$$
 
@@ -75,7 +75,7 @@ in an interferometer, the IF signals $V_i(t)$ and $V_j(t)$ from antenna dishes $
 - **complex cross-correlation**: the correlator digitizes the voltages using ultra-fast Analog-to-Digital Converters (ADCs) and computes the time-averaged product:
   $$\mathcal{V}_{ij} = \langle V_i(t) V_j^*(t) \rangle = \frac{1}{\tau} \int_0^\tau V_i(t) V_j(t - \tau_g) \, dt$$
   where $\tau_g = \mathbf{B} \cdot \mathbf{s} / c$ is the geometric delay between the antennas.
-- **complex visibility output**: the correlated output gives the amplitude $|V_{ij}|$ and phase $\phi_{ij}$ of the complex visibility $\mathcal{V}(u,v)$ at spatial frequency $\mathbf{u} = \mathbf{B}/\lambda$, fulfilling the **Van Cittert-Zernike theorem**.
+- **complex visibility output**: the correlated output gives the amplitude $\lvert V_{ij}\rvert$ and phase $\phi_{ij}$ of the complex visibility $\mathcal{V}(u,v)$ at spatial frequency $\mathbf{u} = \mathbf{B}/\lambda$, fulfilling the **Van Cittert-Zernike theorem**.
 
 ---
 

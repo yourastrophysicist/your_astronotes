@@ -10,7 +10,7 @@ ultra-faint dwarfs are too sparse to find by eye on imaging data. they are diffu
 **matched filter principle** (rockosi et al. 2002, walsh, willman & jerjen 2009, koposov et al. 2008):
 
 1. assume a target population is an old, metal-poor stellar system at some distance modulus $(m-M)_0$. pick a corresponding fiducial CMD: typically an M92-like ($[\text{Fe/H}] \approx -2.3$, $\sim 13$ Gyr) ridgeline plus an RGB and HB.
-2. shift this fiducial in distance modulus to a trial value and broaden it by photometric errors to produce a probability density $P(\text{star} | \text{member})$ on the colour-magnitude plane.
+2. shift this fiducial in distance modulus to a trial value and broaden it by photometric errors to produce a probability density $P(\text{star} \mid \text{member})$ on the colour-magnitude plane.
 3. for each star in the photometric catalogue, compute the **likelihood ratio** $w(\text{colour}, \text{magnitude}) = P(\text{member}) / P(\text{field})$, where $P(\text{field})$ is the local empirical CMD of the surrounding field.
 4. weight every star by $w$ and bin spatially. true UFDGs appear as **significant peaks in the weighted star-count map**.
 5. scan over $(m-M)_0$ to find the optimal distance.

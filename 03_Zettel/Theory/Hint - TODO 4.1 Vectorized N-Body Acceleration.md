@@ -13,7 +13,7 @@ title: "Hint - TODO 4.1 Vectorized N-Body Acceleration"
 ## Explanation
 
 Gravitational acceleration on particle $i$ from all other particles $j$:
-$$\mathbf{a}_i = -G \sum_{j \neq i} m_j \frac{\mathbf{r}_i - \mathbf{r}_j}{|\mathbf{r}_i - \mathbf{r}_j|^3}$$
+$$\mathbf{a}_i = -G \sum_{j \neq i} m_j \frac{\mathbf{r}_i - \mathbf{r}_j}{\lvert \mathbf{r}_i - \mathbf{r}_j\rvert^3}$$
 
 In Python:
 ```python

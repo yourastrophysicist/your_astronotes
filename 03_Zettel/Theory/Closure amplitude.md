@@ -11,17 +11,17 @@ the amplitude analog of [phase closure](interf/Phase%20closure.html). for **four
 
 four stations $i, j, k, l$. define:
 
-$$A_{ijkl} = \frac{|V_{ij}| \cdot |V_{kl}|}{|V_{ik}| \cdot |V_{jl}|}$$
+$$A_{ijkl} = \frac{\lvert V_{ij}\lvert  \cdot \rvertV_{kl}\lvert }{\rvertV_{ik}\lvert  \cdot \rvertV_{jl}\rvert}$$
 
-with $|V|$ the visibility amplitudes.
+with $\lvert V\rvert$ the visibility amplitudes.
 
 if the gain amplitude at station $i$ is $g_i$ (multiplicative), then each measured amplitude is
 
-$$|V_{ij,\rm meas}| = g_i \cdot g_j \cdot |V_{ij,\rm true}|$$
+$$\lvert V_{ij,\rm meas}\rvert = g_i \cdot g_j \cdot \lvert V_{ij,\rm true}\rvert$$
 
 substituting:
 
-$$A_{ijkl,\rm meas} = \frac{g_i g_j |V_{ij,\rm true}| \cdot g_k g_l |V_{kl,\rm true}|}{g_i g_k |V_{ik,\rm true}| \cdot g_j g_l |V_{jl,\rm true}|} = \frac{|V_{ij,\rm true}| \cdot |V_{kl,\rm true}|}{|V_{ik,\rm true}| \cdot |V_{jl,\rm true}|}$$
+$$A_{ijkl,\rm meas} = \frac{g_i g_j \lvert V_{ij,\rm true}\lvert  \cdot g_k g_l \rvertV_{kl,\rm true}\lvert }{g_i g_k \rvertV_{ik,\rm true}\lvert  \cdot g_j g_l \rvertV_{jl,\rm true}\rvert} = \frac{\lvert V_{ij,\rm true}\lvert  \cdot \rvertV_{kl,\rm true}\lvert }{\rvertV_{ik,\rm true}\lvert  \cdot \rvertV_{jl,\rm true}\rvert}$$
 
 **the gains cancel**.
 
@@ -44,7 +44,7 @@ for $N = 6$: 9 closure amplitudes
 
 ## what closure amplitude encodes
 
-it depends on the *amplitudes* at four (u, v) points. for a point source, all $|V|$ are 1, so $A = 1$. for an extended source, the visibilities differ at different (u, v) and $A \neq 1$. measuring $A$ constrains the *amplitude pattern* of the source independently of phase.
+it depends on the *amplitudes* at four (u, v) points. for a point source, all $\lvert V\rvert$ are 1, so $A = 1$. for an extended source, the visibilities differ at different (u, v) and $A \neq 1$. measuring $A$ constrains the *amplitude pattern* of the source independently of phase.
 
 closure amplitude is most useful when:
 - you have *many* stations (so many independent closure amplitudes)

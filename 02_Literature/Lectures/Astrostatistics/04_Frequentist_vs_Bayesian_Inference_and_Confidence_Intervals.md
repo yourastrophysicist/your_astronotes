@@ -22,7 +22,7 @@ In the Bayesian formulation, probability is a formal quantitative measure of deg
 
 ## Frequentist Point Estimation and Classical Desiderata
 
-In the frequentist paradigm, parameter estimation begins by proposing an estimator. An estimator $\hat{\theta}(\boldsymbol{d})$ is a deterministic function of the random data vector $\boldsymbol{d}$. Because the data fluctuate across hypothetical repeated experiments, the estimator $\hat{\theta}$ is itself a random variable with a sampling distribution $p(\hat{\theta} | \theta_{\text{true}})$.
+In the frequentist paradigm, parameter estimation begins by proposing an estimator. An estimator $\hat{\theta}(\boldsymbol{d})$ is a deterministic function of the random data vector $\boldsymbol{d}$. Because the data fluctuate across hypothetical repeated experiments, the estimator $\hat{\theta}$ is itself a random variable with a sampling distribution $p(\hat{\theta} \mid \theta_{\text{true}})$.
 
 Classical frequentist statistics evaluates estimators based on average properties over hypothetical repetitions.
 
@@ -30,7 +30,7 @@ Classical frequentist statistics evaluates estimators based on average propertie
 
 The bias of an estimator is the difference between its expected value across infinite repetitions and the true underlying parameter value
 
-$$\operatorname{Bias}(\hat{\theta}) \equiv \langle \hat{\theta} \rangle - \theta_{\text{true}} = \int \hat{\theta}(\boldsymbol{d}) \, p(\boldsymbol{d} | \theta_{\text{true}}) \, d\boldsymbol{d} - \theta_{\text{true}}$$
+$$\operatorname{Bias}(\hat{\theta}) \equiv \langle \hat{\theta} \rangle - \theta_{\text{true}} = \int \hat{\theta}(\boldsymbol{d}) \, p(\boldsymbol{d} \mid \theta_{\text{true}}) \, d\boldsymbol{d} - \theta_{\text{true}}$$
 
 An estimator is unbiased if $\operatorname{Bias}(\hat{\theta}) = 0$ for all possible values of $\theta_{\text{true}}$.
 
@@ -50,7 +50,7 @@ This decomposition highlights the bias-variance tradeoff. Imposing strict unbias
 
 An estimator is consistent if it converges in probability to the true parameter value as the sample size $N$ approaches infinity
 
-$$\lim_{N \to \infty} P(|\hat{\theta}_N - \theta_{\text{true}}| > \epsilon) = 0 \quad \text{for any } \epsilon > 0$$
+$$\lim_{N \to \infty} P( \mid \hat{\theta}_N - \theta_{\text{true}} \mid > \epsilon) = 0 \quad \text{for any } \epsilon > 0$$
 
 An unbiased estimator is efficient if its variance achieves the theoretical lower bound established by the Cramér-Rao inequality.
 
@@ -64,7 +64,7 @@ Jerzy Neyman (1937) formulated the classical confidence interval to provide stat
 
 ### The Formal Coverage Property
 
-Let $\boldsymbol{d}$ be an observed dataset drawn from $p(\boldsymbol{d} | \theta_{\text{true}})$. A frequentist confidence interval at confidence level $1 - \alpha$ consists of two data-dependent boundary functions $L(\boldsymbol{d})$ and $U(\boldsymbol{d})$ constructed such that across hypothetical infinite repetitions of the experiment, the random interval $[L(\boldsymbol{d}), U(\boldsymbol{d})]$ covers the fixed true value $\theta_{\text{true}}$ with probability at least $1 - \alpha$
+Let $\boldsymbol{d}$ be an observed dataset drawn from $p(\boldsymbol{d} \mid \theta_{\text{true}})$. A frequentist confidence interval at confidence level $1 - \alpha$ consists of two data-dependent boundary functions $L(\boldsymbol{d})$ and $U(\boldsymbol{d})$ constructed such that across hypothetical infinite repetitions of the experiment, the random interval $[L(\boldsymbol{d}), U(\boldsymbol{d})]$ covers the fixed true value $\theta_{\text{true}}$ with probability at least $1 - \alpha$
 
 $$P\left( L(\boldsymbol{d}) \le \theta_{\text{true}} \le U(\boldsymbol{d}) \, \middle| \, \theta_{\text{true}} \right) = 1 - \alpha \quad \text{for all possible } \theta_{\text{true}}$$
 
@@ -78,7 +78,7 @@ In strict frequentist logic, one cannot assert that "there is a 95% probability 
 
 In direct contrast, a Bayesian credible interval conditions strictly on the observed data $\boldsymbol{d}_{\text{obs}}$
 
-$$P\left( \theta \in [L, U] \, \middle| \, \boldsymbol{d}_{\text{obs}} \right) = \int_L^U p(\theta | \boldsymbol{d}_{\text{obs}}) \, d\theta = 1 - \alpha$$
+$$P\left( \theta \in [L, U] \, \middle \mid \, \boldsymbol{d}_{\text{obs}} \right) = \int_L^U p(\theta \mid \boldsymbol{d}_{\text{obs}}) \, d\theta = 1 - \alpha$$
 
 Here, the boundaries $L$ and $U$ are fixed numbers computed from the posterior distribution. The parameter $\theta$ is the random variable described by our state of knowledge. The Bayesian statement matches what scientists intuitively want to conclude. Given the concrete data collected by our instrument, there is a $100(1 - \alpha)\%$ probability that the true physical parameter lies between $L$ and $U$.
 
@@ -96,15 +96,15 @@ Now consider two distinct experimental protocols that could have produced this e
 
 Protocol 1 (Fixed Sample Size). The experimenter obtained a telescope allocation granted in advance for exactly $N = 12$ observations. Here $N$ is fixed, and the number of successes $k$ is the random variable, following a Binomial distribution
 
-$$p(k | p, N=12) = \binom{12}{k} p^k (1 - p)^{12 - k} = \binom{12}{3} p^3 (1 - p)^9 = 220 \, p^3 (1 - p)^9$$
+$$p(k \mid p, N=12) = \binom{12}{k} p^k (1 - p)^{12 - k} = \binom{12}{3} p^3 (1 - p)^9 = 220 \, p^3 (1 - p)^9$$
 
 Protocol 2 (Fixed Number of Successes). The experimenter decided to observe continuously until exactly $k = 3$ successes were recorded, at which point funding ran out. Here $k = 3$ is fixed, and the total number of observations $N$ is the random variable, following a Negative Binomial distribution
 
-$$p(N | p, k=3) = \binom{N - 1}{k - 1} p^k (1 - p)^{N - k} = \binom{11}{2} p^3 (1 - p)^9 = 55 \, p^3 (1 - p)^9$$
+$$p(N \mid p, k=3) = \binom{N - 1}{k - 1} p^k (1 - p)^{N - k} = \binom{11}{2} p^3 (1 - p)^9 = 55 \, p^3 (1 - p)^9$$
 
 Now evaluate the scientific inferences under both frameworks.
 
-In Bayesian inference, the posterior distribution depends only on the likelihood function up to an overall normalization constant. Notice that as a function of the parameter $p$, both likelihoods are strictly proportional to $p^3 (1 - p)^9$. The constant combinatorial prefactors (220 versus 55) cancel out completely in Bayes' theorem. Assuming identical priors, the Bayesian posterior $p(p | \boldsymbol{d})$ is identical under both protocols. The internal intentions or stopping rules of the experimenter do not alter the physical inference drawn from the recorded data.
+In Bayesian inference, the posterior distribution depends only on the likelihood function up to an overall normalization constant. Notice that as a function of the parameter $p$, both likelihoods are strictly proportional to $p^3 (1 - p)^9$. The constant combinatorial prefactors (220 versus 55) cancel out completely in Bayes' theorem. Assuming identical priors, the Bayesian posterior $p(p \mid \boldsymbol{d})$ is identical under both protocols. The internal intentions or stopping rules of the experimenter do not alter the physical inference drawn from the recorded data.
 
 In frequentist hypothesis testing, however, significance testing requires computing the $p$-value, which sums the probabilities of unobserved data points at least as extreme as the observed data.
 - Under Protocol 1 (Binomial), the probability of observing 3 or fewer successes under the null hypothesis $H_0: p = 0.5$ is $\sum_{j=0}^3 \binom{12}{j} (0.5)^{12} \approx 0.073$.

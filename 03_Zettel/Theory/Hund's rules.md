@@ -14,7 +14,7 @@ apply in this order, breaking ties at each step:
 3. **lowest $J$ for less-than-half-filled shells**, **highest $J$ for more-than-half-filled**. spin-orbit coupling sign flips at half-filling.
 
 formal statement of rule 3:
-- shell less than half-filled: $J = |L - S|$.
+- shell less than half-filled: $J = \lvert L - S\rvert$.
 - shell exactly half-filled: $J = S$ (since $L = 0$ in this case for a half-filled shell of equivalent electrons).
 - shell more than half-filled: $J = L + S$.
 
@@ -25,7 +25,7 @@ formal statement of rule 3:
 allowed terms from $2p^2$ (equivalent electrons): $^1S, ^1D, ^3P$.
 - highest $S$: triplet $\to ^3P$.
 - $L = 1$, $S = 1$, so $J = 0, 1, 2$ are sublevels.
-- $2p^2$ is less than half-filled (2 of 6) $\to$ ground state is $J = |L - S| = 0$.
+- $2p^2$ is less than half-filled (2 of 6) $\to$ ground state is $J = \lvert L - S\rvert = 0$.
 - **ground**: $^3P_0$.
 
 ### nitrogen $2p^3$

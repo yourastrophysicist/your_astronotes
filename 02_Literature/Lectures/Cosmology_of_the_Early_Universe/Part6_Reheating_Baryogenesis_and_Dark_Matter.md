@@ -75,7 +75,7 @@ This is the standard **Mathieu equation**. For specific resonance bands in $(A_k
 $$X_k(\tau) \propto e^{\mu_k \tau}$$
 with Floquet exponent $\mu_k > 0$.
 
-In the **broad resonance regime** ($q \gg 1$), every time the oscillating inflaton crosses zero ($\phi(t) = 0$), the effective mass of $\chi$ drops to zero adiabatically fast ($|\dot{\omega}/\omega^2| \gg 1$). This non-adiabatic event creates bursts of $\chi$ particles. Within a few dozen oscillations, energy is exponentially transferred from the zero-mode condensate to high-momentum excitations, fragmenting the inflaton field prior to final thermalization.
+In the **broad resonance regime** ($q \gg 1$), every time the oscillating inflaton crosses zero ($\phi(t) = 0$), the effective mass of $\chi$ drops to zero adiabatically fast ($\lvert\dot{\omega}/\omega^2\rvert \gg 1$). This non-adiabatic event creates bursts of $\chi$ particles. Within a few dozen oscillations, energy is exponentially transferred from the zero-mode condensate to high-momentum excitations, fragmenting the inflaton field prior to final thermalization.
 
 ---
 

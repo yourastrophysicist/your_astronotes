@@ -7,7 +7,7 @@ at very high column density, the **Lorentzian wings** of a Voigt profile dominat
 
 ## the geometry
 
-far from line center ($|\nu - \nu_0| \gg \Delta\nu_D$), the Voigt profile reduces to the Lorentzian:
+far from line center ($\lvert \nu - \nu_0\rvert \gg \Delta\nu_D$), the Voigt profile reduces to the Lorentzian:
 $$\phi(\nu) \approx \frac{\Gamma/(4\pi^2)}{(\nu - \nu_0)^2}$$
 
 the optical depth in the wings:
@@ -17,7 +17,7 @@ so $\tau \propto N \cdot \Gamma / (\nu - \nu_0)^2$. **the wing optical depth sca
 
 ## consequence for the line shape
 
-at $N$ where the core has $\tau_0 \gg 1$ (saturated), increasing $N$ doesn't change the core but **deepens the wings** at increasingly large $|\nu - \nu_0|$. the line "grows outward" symmetrically.
+at $N$ where the core has $\tau_0 \gg 1$ (saturated), increasing $N$ doesn't change the core but **deepens the wings** at increasingly large $\lvert \nu - \nu_0\rvert$. the line "grows outward" symmetrically.
 
 equivalent width contribution from wings:
 $$W_{\rm wing} \approx 2\sqrt{N\,\frac{e^2 f \Gamma \lambda_0^2}{m_e c^3}}$$

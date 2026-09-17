@@ -56,7 +56,7 @@ the **language of spectra**: every line corresponds to a transition between two 
 - [Russell-Saunders LS coupling](../03_Zettel/Theory/Russell-Saunders%20LS%20coupling.html) — vectorial sum of $\vec L$ and $\vec S$, valid for light atoms ($Z \lesssim 30$)
 - [jj coupling](../03_Zettel/Theory/jj%20coupling.html) — heavier atoms, individual $\vec j_i = \vec\ell_i + \vec s_i$ couple
 - [Atomic term symbols](../03_Zettel/Theory/Atomic%20term%20symbols.html) — $n^{(2S+1)}L_J^{p}$ form: example $1\,^2\!S_{1/2}^e$ for H ground, parity $(-1)^{\sum\ell_i}$
-- [Hund's rules](../03_Zettel/Theory/Hund%27s%20rules.html) — ground state from highest $S$, then highest $L$, then $J = |L-S|$ if shell less than half-filled, $J = L+S$ otherwise
+- [Hund's rules](../03_Zettel/Theory/Hund%27s%20rules.html) — ground state from highest $S$, then highest $L$, then $J = \lvert L-S\rvert$ if shell less than half-filled, $J = L+S$ otherwise
 - [Statistical weight g](../03_Zettel/Theory/Statistical%20weight%20g.html) — $g = (2L+1)(2S+1)$ for an $LS$ term, $g = 2J+1$ for a sublevel, total state degeneracy
 - [Pauli principle and electron configurations](../03_Zettel/Theory/Pauli%20principle%20and%20electron%20configurations.html) — $1s^2 2s^2 2p^6 3s^1$ etc., shells and valence electrons
 - [Equivalent vs nonequivalent electrons](../03_Zettel/Theory/Equivalent%20vs%20nonequivalent%20electrons.html) — counting of allowed terms (e.g. $np^2$: $^3P, ^1D, ^1S$ from $15$ microstates)

@@ -56,7 +56,7 @@ comparing $M_{\rm dyn}$ with $M_*$ from SED fitting: gives $M_{\rm dyn}/M_* \sim
 
 - **simple disk**: nearly Gaussian LOSVD ($h_3 = h_4 = 0$).
 - **triaxial elliptical**: small $h_4 \sim 0.05$.
-- **disk-merger remnant**: large $|h_3|$, often anti-correlated with $v$.
+- **disk-merger remnant**: large $\lvert h_3\rvert$, often anti-correlated with $v$.
 - **counter-rotating cores** (KDCs): $h_3$ + $v$ change sign in the centre.
 
 so LOSVD higher moments = **archaeology** of past mergers.

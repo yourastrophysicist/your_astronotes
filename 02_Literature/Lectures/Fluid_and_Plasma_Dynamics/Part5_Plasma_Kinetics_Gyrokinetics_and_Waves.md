@@ -31,7 +31,7 @@ Direct numerical simulations of the full 6D Vlasov equation require resolving th
 
 The gyrokinetic framework is based on an asymptotic expansion in the small dimensionless parameter:
 $$\epsilon \equiv \frac{\rho_i}{L} \ll 1$$
-where $\rho_i = v_{th,i}/\Omega_{ci}$ is the ion Larmor radius and $L = |\nabla \ln n_0|^{-1}$ is the equilibrium gradient scale length.
+where $\rho_i = v_{th,i}/\Omega_{ci}$ is the ion Larmor radius and $L = \lvert \nabla \ln n_0\rvert^{-1}$ is the equilibrium gradient scale length.
 
 The fundamental gyrokinetic ordering assumptions are:
 1. **Low-frequency fluctuations**: The characteristic frequency of turbulent drift waves is much smaller than the ion cyclotron frequency:
@@ -151,7 +151,7 @@ $$D_i(k, \omega) = -\pi \frac{\omega_p^2}{k^2} f_0'\left( \frac{\omega}{k} \righ
 
 ### 2.3 Derivation of the Damping Rate
 
-Writing the complex root as $\omega = \omega_r + i \gamma_L$, with $|\gamma_L| \ll |\omega_r|$:
+Writing the complex root as $\omega = \omega_r + i \gamma_L$, with $\lvert \gamma_L\rvert \ll \lvert \omega_r\rvert$:
 $$D(k, \omega_r + i \gamma_L) \approx D_r(k, \omega_r) + i \gamma_L \frac{\partial D_r}{\partial \omega_r} + i D_i(k, \omega_r) = 0$$
 
 Separating real and imaginary parts:
@@ -170,7 +170,7 @@ $$f_0'\left( \frac{\omega_r}{k} \right) = -\frac{\omega_r}{k v_{th}^2} f_0\left(
 Because the slope of a Maxwellian is strictly negative at positive velocities:
 $$\gamma_L = -\sqrt{\frac{\pi}{8}} \frac{\omega_p}{(k \lambda_D)^3} \exp\left( -\frac{1}{2 k^2 \lambda_D^2} - \frac{3}{2} \right) < 0$$
 
-The wave amplitude decays exponentially: $E_1(t) \propto e^{-|\gamma_L| t}$. This is **Landau damping**.
+The wave amplitude decays exponentially: $E_1(t) \propto e^{-\lvert \gamma_L\rvert t}$. This is **Landau damping**.
 
 ### 2.4 Physical Mechanism: Wave-Particle Resonance
 
@@ -249,7 +249,7 @@ and cutoffs ($n^2 = 0$) at $\omega = \omega_R$ and $\omega = \omega_L$.
 *Figure FPD-06: Landau contour integration in the complex velocity plane. Deforming the integration contour around the pole at $v = \omega/k$ rigorously resolves collisionless Landau damping for electrostatic Langmuir waves.*
 
 ![Wave-Particle Energy Exchange and Distribution Flattening](../../../assets/images/fluid_landau_p04.png)
-*Figure FPD-07: Microscopic physical mechanism of Landau damping: resonant particles with velocity $v \approx v_\phi = \omega/k$ exchange net energy with the wave. Since $\left.\frac{\partial f_0}{\partial v}\right|_{v_\phi} < 0$ in a Maxwellian, more particles move slightly slower than the wave and absorb energy, causing the wave amplitude to damp exponentially.*
+*Figure FPD-07: Microscopic physical mechanism of Landau damping: resonant particles with velocity $v \approx v_\phi = \omega/k$ exchange net energy with the wave. Since $\left.\frac{\partial f_0}{\partial v}\right\rvert_{v_\phi} < 0$ in a Maxwellian, more particles move slightly slower than the wave and absorb energy, causing the wave amplitude to damp exponentially.*
 {% endraw %}
 
 <div class="backlinks-section">

@@ -21,7 +21,7 @@ $$\hat I_{\rm IS} = \frac{1}{N} \sum_{i=1}^N \frac{f(x_i)}{g(x_i)}, \quad x_i \s
 the variance of the estimator is
 $$\text{Var}(\hat I_{\rm IS}) = \frac{1}{N}\left[\int \frac{f^2(x)}{g(x)} dx - I^2\right]$$
 
-minimized when $g \propto |f|$ (the optimal $g^*(x) = |f(x)|/\int|f|$ gives variance zero if $f \geq 0$). in practice we cannot reach the optimum (we would need to know $\int f$ to normalize $g^*$), but a $g$ that *roughly* tracks $f$ already reduces variance dramatically.
+minimized when $g \propto \lvert f\rvert$ (the optimal $g^*(x) = \lvert f(x)\rvert/\int\lvert f\rvert$ gives variance zero if $f \geq 0$). in practice we cannot reach the optimum (we would need to know $\int f$ to normalize $g^*$), but a $g$ that *roughly* tracks $f$ already reduces variance dramatically.
 
 ## when the variance gets *worse*
 

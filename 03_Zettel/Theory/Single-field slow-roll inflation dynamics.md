@@ -35,7 +35,7 @@ $$\dot{H} = -\frac{\dot{\phi}^2}{2 M_{\rm Pl}^2}$$
 1. Kinetic energy much smaller than potential energy:
    $$\frac{1}{2}\dot{\phi}^2 \ll V(\phi) \implies H^2 \approx \frac{V(\phi)}{3 M_{\rm Pl}^2}$$
 2. Acceleration much smaller than friction:
-   $$|\ddot{\phi}| \ll |3H\dot{\phi}| \implies 3H\dot{\phi} \approx -V'(\phi)$$
+   $$\lvert \ddot{\phi}\rvert \ll \lvert 3H\dot{\phi}\rvert \implies 3H\dot{\phi} \approx -V'(\phi)$$
 
 Under these conditions, the field rolls with steady velocity:
 $$\dot{\phi} \approx -\frac{V'(\phi)}{3H} \approx -\frac{M_{\rm Pl} V'}{\sqrt{3V}}$$

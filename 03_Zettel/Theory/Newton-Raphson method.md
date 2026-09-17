@@ -21,7 +21,7 @@ this is the Newton iteration. geometrically: draw the tangent at $x_n$, slide al
 
 assuming $f'(x^*) \neq 0$ at the root and starting "close enough":
 
-$$|x_{n+1} - x^*| \leq C |x_n - x^*|^2$$
+$$\lvert x_{n+1} - x^*\rvert \leq C \lvert x_n - x^*\rvert^2$$
 
 so the number of correct digits *doubles* every iteration. starting with 1 digit accuracy, after 5 iterations I have 32 digits — *if* the iteration converges.
 

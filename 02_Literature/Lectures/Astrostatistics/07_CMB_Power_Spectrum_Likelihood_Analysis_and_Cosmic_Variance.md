@@ -81,17 +81,17 @@ In observational cosmology, we do not have access to an ensemble of universes. W
 
 For a fixed multipole $\ell$, the celestial sphere provides $2\ell + 1$ distinct $m$-modes ($m = -\ell, -\ell+1, \dots, \ell$). The natural estimator $\hat{C}_\ell$ is the empirical sample variance averaged across all available azimuthal modes
 
-$$\hat{C}_\ell \equiv \frac{1}{2\ell + 1} \sum_{m=-\ell}^\ell |a_{\ell m}|^2$$
+$$\hat{C}_\ell \equiv \frac{1}{2\ell + 1} \sum_{m=-\ell}^\ell \lvert a_{\ell m}\rvert^2$$
 
 Taking the ensemble expectation value confirms that $\hat{C}_\ell$ is strictly unbiased
 
-$$\langle \hat{C}_\ell \rangle = \frac{1}{2\ell + 1} \sum_{m=-\ell}^\ell \langle |a_{\ell m}|^2 \rangle = \frac{1}{2\ell + 1} \sum_{m=-\ell}^\ell C_\ell = C_\ell$$
+$$\langle \hat{C}_\ell \rangle = \frac{1}{2\ell + 1} \sum_{m=-\ell}^\ell \langle \verta_{\ell m}\vert ^2 \rangle = \frac{1}{2\ell + 1} \sum_{m=-\ell}^\ell C_\ell = C_\ell$$
 
 ### Cosmic Variance Derivation
 
 Because the $a_{\ell m}$ are independent zero-mean Gaussian random variables with variance $C_\ell$, the quantity
 
-$$X \equiv \frac{(2\ell + 1) \hat{C}_\ell}{C_\ell} = \sum_{m=-\ell}^\ell \frac{|a_{\ell m}|^2}{C_\ell}$$
+$$X \equiv \frac{(2\ell + 1) \hat{C}_\ell}{C_\ell} = \sum_{m=-\ell}^\ell \frac{\lvert a_{\ell m}\rvert^2}{C_\ell}$$
 
 is a sum of squares of independent Gaussian variables, following a chi-squared distribution with $2\ell + 1$ degrees of freedom
 
@@ -150,7 +150,7 @@ This expression reveals two distinct observational regimes
 
 ## The Exact CMB Likelihood Function
 
-To infer cosmological parameters $\boldsymbol{\theta}$ from measured CMB maps, we must construct the likelihood function $\mathcal{L}(\boldsymbol{\theta}) \equiv p(\boldsymbol{d} | \boldsymbol{\theta})$.
+To infer cosmological parameters $\boldsymbol{\theta}$ from measured CMB maps, we must construct the likelihood function $\mathcal{L}(\boldsymbol{\theta}) \equiv p(\boldsymbol{d} \mid \boldsymbol{\theta})$.
 
 ### Full-Sky Ideal Likelihood
 
@@ -158,9 +158,9 @@ Assume an idealized full-sky observation without noise. Given theoretical spectr
 
 The joint probability density of all modes up to $\ell_{\text{max}}$ is
 
-$$p(\{a_{\ell m}\} | \boldsymbol{\theta}) = \prod_{\ell=2}^{\ell_{\text{max}}} \prod_{m=-\ell}^\ell \frac{1}{\sqrt{2\pi C_\ell(\boldsymbol{\theta})}} \exp\left( -\frac{|a_{\ell m}|^2}{2 C_\ell(\boldsymbol{\theta})} \right)$$
+$$p(\{a_{\ell m}\} \mid \boldsymbol{\theta}) = \prod_{\ell=2}^{\ell_{\text{max}}} \prod_{m=-\ell}^\ell \frac{1}{\sqrt{2\pi C_\ell(\boldsymbol{\theta})}} \exp\left( -\frac{ \mid a_{\ell m} \mid ^2}{2 C_\ell(\boldsymbol{\theta})} \right)$$
 
-Substituting the estimator $\hat{C}_\ell = \frac{1}{2\ell + 1} \sum_{m} |a_{\ell m}|^2$, the likelihood function factorizes into
+Substituting the estimator $\hat{C}_\ell = \frac{1}{2\ell + 1} \sum_{m} \lvert a_{\ell m}\rvert^2$, the likelihood function factorizes into
 
 $$\mathcal{L}(\boldsymbol{\theta}) = \prod_{\ell=2}^{\ell_{\text{max}}} \frac{1}{\left[ 2\pi C_\ell(\boldsymbol{\theta}) \right]^{(2\ell + 1)/2}} \exp\left( -\frac{2\ell + 1}{2} \frac{\hat{C}_\ell}{C_\ell(\boldsymbol{\theta})} \right)$$
 

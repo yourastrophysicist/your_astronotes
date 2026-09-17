@@ -8,7 +8,7 @@ title: "N-body simulations"
 ## the basic problem
 
 solve Newton's equations for $N$ particles each interacting via gravity:
-$$\ddot{\vec r}_i = -\sum_{j\ne i}\frac{G m_j(\vec r_i - \vec r_j)}{|\vec r_i - \vec r_j|^3}$$
+$$\ddot{\vec r}_i = -\sum_{j\ne i}\frac{G m_j(\vec r_i - \vec r_j)}{\lvert \vec r_i - \vec r_j\rvert^3}$$
 
 in cosmology, with periodic boundary conditions in a comoving box, in expanding spacetime.
 

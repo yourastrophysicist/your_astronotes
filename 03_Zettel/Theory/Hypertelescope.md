@@ -28,13 +28,13 @@ result: the focal-plane image is a near-direct image, like from a single dish of
 
 let the original sparse array have $N$ sub-apertures of diameter $d$ at positions $\mathbf r_i$, with the longest baseline $B$. the original PSF:
 
-$$\text{PSF}_{\rm sparse}(\mathbf l) \propto |\sum_i \tilde A_i(\mathbf l) e^{-2\pi i \mathbf r_i \cdot \mathbf l/\lambda}|^2$$
+$$\text{PSF}_{\rm sparse}(\mathbf l) \propto \left\lvert\sum_i \tilde A_i(\mathbf l) e^{-2\pi i \mathbf r_i \cdot \mathbf l/\lambda}\right\rvert^2$$
 
 with $\tilde A_i$ each sub-aperture's amplitude pattern.
 
 after pupil densification (sub-apertures rearranged at positions $\mathbf r_i'$ with smaller spacings):
 
-$$\text{PSF}_{\rm hyper}(\mathbf l) \propto |\sum_i \tilde A_i(\mathbf l) e^{-2\pi i \mathbf r_i' \cdot \mathbf l/\lambda}|^2$$
+$$\text{PSF}_{\rm hyper}(\mathbf l) \propto \left\lvert\sum_i \tilde A_i(\mathbf l) e^{-2\pi i \mathbf r_i' \cdot \mathbf l/\lambda}\right\rvert^2$$
 
 the *fringe envelope* (set by $A_i$) is the same — the original sparse-aperture diffraction pattern. but the *fringe pattern* (set by $\mathbf r_i'$) is much narrower because the sub-apertures are now packed close together.
 

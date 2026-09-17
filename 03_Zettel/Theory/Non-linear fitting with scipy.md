@@ -57,7 +57,7 @@ key arguments:
 
 ## scipy.optimize.least_squares
 
-a more flexible alternative. takes a *residual function* $\mathbf{r}(\boldsymbol\theta) = \mathbf{y} - \mathbf{f}(\boldsymbol\theta)$ and minimizes $\|\mathbf{r}\|^2$:
+a more flexible alternative. takes a *residual function* $\mathbf{r}(\boldsymbol\theta) = \mathbf{y} - \mathbf{f}(\boldsymbol\theta)$ and minimizes $\\lvert \mathbf{r}\\rvert^2$:
 
 ```python
 from scipy.optimize import least_squares

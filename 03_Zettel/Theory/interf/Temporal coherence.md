@@ -15,7 +15,7 @@ $$\Gamma_{11}(\tau) = \langle E^*(t) E(t + \tau) \rangle$$
 normalized:
 $$\gamma_{11}(\tau) = \Gamma_{11}(\tau)/\Gamma_{11}(0)$$
 
-with $|\gamma_{11}| \in [0, 1]$. this is the **complex degree of temporal coherence**.
+with $\lvert \gamma_{11}\rvert \in [0, 1]$. this is the **complex degree of temporal coherence**.
 
 ## bandwidth determines coherence time
 
@@ -39,7 +39,7 @@ short coherence length → short delay tolerance.
 ## practical consequences
 
 an interferometer with two arms (the path lengths $L_1, L_2$ from each telescope to the beam combiner) requires
-$$|L_1 - L_2| < \ell_c$$
+$$\lvert L_1 - L_2\rvert < \ell_c$$
 
 for fringes to be visible. **delay lines** are mechanical/optical paths that match $L_1$ and $L_2$ to better than $\ell_c$.
 

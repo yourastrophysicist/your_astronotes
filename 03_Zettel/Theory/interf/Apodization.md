@@ -15,7 +15,7 @@ solution: *don't use a uniform aperture*. **apodize** it — taper the transmiss
 
 ## the FT picture
 
-aperture function $A(\mathbf x)$ → PSF = $|\hat A|^2$. so PSF sidelobes come from sharp edges of $A$ (which produce oscillations in $\hat A$).
+aperture function $A(\mathbf x)$ → PSF = $\lvert \hat A\rvert^2$. so PSF sidelobes come from sharp edges of $A$ (which produce oscillations in $\hat A$).
 
 apodization smooths the aperture edges. the resulting $\hat A$ has fewer oscillations → lower sidelobes.
 

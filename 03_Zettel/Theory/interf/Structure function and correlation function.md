@@ -14,10 +14,10 @@ let $\phi(\mathbf x)$ be a random field (e.g. atmospheric phase). then:
 **correlation function**:
 $$B_\phi(r) = \langle \phi(\mathbf x + \mathbf r) \phi(\mathbf x) \rangle$$
 
-(assuming $\langle \phi \rangle = 0$ and the field is statistically homogeneous). depends only on $r = |\mathbf r|$ for isotropic fields.
+(assuming $\langle \phi \rangle = 0$ and the field is statistically homogeneous). depends only on $r = \lvert \mathbf r\rvert$ for isotropic fields.
 
 **structure function**:
-$$D_\phi(r) = \langle |\phi(\mathbf x + \mathbf r) - \phi(\mathbf x)|^2 \rangle$$
+$$D_\phi(r) = \langle   \vert\phi(\mathbf x + \mathbf r) - \phi(\mathbf x)\vert ^2 \rangle$$
 
 both can be computed from a measured field by averaging over many independent realizations or over different positions $\mathbf x$.
 
@@ -72,7 +72,7 @@ VLTI, with baselines up to 130 m, is at the edge of the von Kármán correction.
 ## the temporal version
 
 the same statistics apply in time. the temporal structure function:
-$$D_\phi(\tau) = \langle |\phi(t + \tau) - \phi(t)|^2 \rangle$$
+$$D_\phi(\tau) = \langle   \vert\phi(t + \tau) - \phi(t)\vert ^2 \rangle$$
 
 for atmospheric turbulence with the **Taylor frozen-turbulence hypothesis** (turbulence patterns advect with the wind):
 $$D_\phi(\tau) = D_\phi^{\rm spatial}(v_{\rm wind} \tau)$$

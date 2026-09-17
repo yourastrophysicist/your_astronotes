@@ -11,7 +11,7 @@ a different beast from amplitude interferometry. correlate the *intensity fluctu
 
 amplitude interferometry: combine $E_1, E_2$ at a beam combiner, observe interference. the visibility is $\langle E_1^* E_2 \rangle$ — sensitive to the wave's **phase relationship** between the two telescopes.
 
-intensity interferometry: separately detect $I_1 = |E_1|^2$ and $I_2 = |E_2|^2$ at each telescope, *electronically* correlate the intensity fluctuations:
+intensity interferometry: separately detect $I_1 = \lvert E_1\rvert^2$ and $I_2 = \lvert E_2\rvert^2$ at each telescope, *electronically* correlate the intensity fluctuations:
 
 $$C_{12} = \langle (I_1 - \langle I_1 \rangle)(I_2 - \langle I_2 \rangle) \rangle$$
 
@@ -24,15 +24,15 @@ this is sensitive to **second-order coherence** — bunching of photons due to t
 
 Hanbury Brown and Twiss (1956) showed that for a thermal source (any star), the intensity fluctuations at two separated points are *correlated* with magnitude:
 
-$$\langle \Delta I_1 \Delta I_2 \rangle / \langle I \rangle^2 = |\gamma_{12}|^2$$
+$$\langle \Delta I_1 \Delta I_2 \rangle / \langle I \rangle^2 = \vert\gamma_{12} \vert^2$$
 
-where $|\gamma_{12}|$ is the **same complex degree of spatial coherence** as in amplitude interferometry. so the *modulus* (squared) of the visibility is encoded in the intensity correlation.
+where $\lvert \gamma_{12}\rvert$ is the **same complex degree of spatial coherence** as in amplitude interferometry. so the *modulus* (squared) of the visibility is encoded in the intensity correlation.
 
 ## the great practical advantage
 
 the intensity correlation is **insensitive to atmospheric phase corruption**. why? because:
 
-1. atmospheric phase is added to $E$, but cancels when computing $I = |E|^2$
+1. atmospheric phase is added to $E$, but cancels when computing $I = \lvert E\rvert^2$
 2. so each $I_i$ is *not* corrupted by atmospheric phase
 3. correlation of two unprotected $I_i$ measurements is then genuine source information
 
@@ -88,7 +88,7 @@ resolution: the technique works *both* classically and quantum-mechanically. it 
 
 ## what intensity interferometry tells us
 
-since the observable is $|\gamma_{12}|^2$ (squared modulus of visibility), intensity interferometry gives:
+since the observable is $\lvert \gamma_{12}\rvert^2$ (squared modulus of visibility), intensity interferometry gives:
 
 - **stellar angular diameters** (the canonical use)
 - **surface brightness distributions** (limb darkening, hot spots) for the brightest stars
@@ -128,7 +128,7 @@ intensity interferometers calibrate by measuring an unresolved (or known-diamete
 
 
 ![ivkovic_2024_fig4.png](../../assets/images/ivkovic_2024_fig4.png)
-*Ivkovic et al. (2024) Figure 4: Spatial coherence function $|g^{(2)}(d) - 1|$ as a function of baseline separation for resolved stellar disks.*
+*Ivkovic et al. (2024) Figure 4: Spatial coherence function $\lvert g^{(2)}(d) - 1\rvert$ as a function of baseline separation for resolved stellar disks.*
 
 
 ![ivkovic_2024_fig5.png](../../assets/images/ivkovic_2024_fig5.png)

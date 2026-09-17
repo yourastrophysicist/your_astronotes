@@ -75,7 +75,7 @@ at the present epoch:
 $$\frac{kc^2}{a_0^2} = H_0^2(\Omega_0 - 1)$$
 
 so the curvature *scale* is set by the deviation from $\Omega_0 = 1$, normalized by $H_0$. for $\Omega_K \approx 10^{-3}$ and $H_0^{-1} \approx 14$ Gpc, the curvature radius is at least
-$$a_0/\sqrt{|k|} \gtrsim H_0^{-1}/\sqrt{|\Omega_K|} \sim 14/\sqrt{0.003} \approx 250~\text{Gpc}$$
+$$a_0/\sqrt{\lvert k\rvert} \gtrsim H_0^{-1}/\sqrt{\lvert \Omega_K\rvert} \sim 14/\sqrt{0.003} \approx 250~\text{Gpc}$$
 
 far larger than the observable universe. so even if the universe is technically curved, we cannot detect it.
 
@@ -83,7 +83,7 @@ far larger than the observable universe. so even if the universe is technically 
 
 ## why is the universe so flat?
 
-a deep question. if $\Omega_K(t)$ were anything but tiny in the early universe, it would have grown enormously by today (the **flatness problem**). starting with $\Omega_K \sim 10^{-3}$ today, you can extrapolate back and find the universe at the Planck epoch must have had $|\Omega_K|$ tuned to $\sim 10^{-60}$. this is a fine-tuning that **inflation** is designed to solve (see [Inflation overview](./Inflation%20overview.html) and [Standard model problems](./Standard%20model%20problems.html)).
+a deep question. if $\Omega_K(t)$ were anything but tiny in the early universe, it would have grown enormously by today (the **flatness problem**). starting with $\Omega_K \sim 10^{-3}$ today, you can extrapolate back and find the universe at the Planck epoch must have had $\lvert \Omega_K\rvert$ tuned to $\sim 10^{-60}$. this is a fine-tuning that **inflation** is designed to solve (see [Inflation overview](./Inflation%20overview.html) and [Standard model problems](./Standard%20model%20problems.html)).
 
 ---
 

@@ -15,15 +15,15 @@ $$\Omega_K = -\frac{kc^2}{H^2 a^2}$$
 today: $\Omega_K = 0.001 \pm 0.002$ — the universe is flat to a fraction of a percent.
 
 but $\Omega_K$ **grows with time** in a matter or radiation dominated universe:
-- radiation era: $H^2 \propto a^{-4}$, so $|\Omega_K| \propto a^2$
-- matter era: $H^2 \propto a^{-3}$, so $|\Omega_K| \propto a$
+- radiation era: $H^2 \propto a^{-4}$, so $\lvert \Omega_K\rvert \propto a^2$
+- matter era: $H^2 \propto a^{-3}$, so $\lvert \Omega_K\rvert \propto a$
 
-so extrapolating *backward* in time, $|\Omega_K|$ has to be **fantastically small** in the early universe to give the present-day value.
+so extrapolating *backward* in time, $\lvert \Omega_K\rvert$ has to be **fantastically small** in the early universe to give the present-day value.
 
 at the Planck epoch ($T \sim 10^{19}$ GeV, $a \sim 10^{-31}$):
-$$|\Omega_K(t_{\rm Pl})| \lesssim 10^{-60}$$
+$$\lvert \Omega_K(t_{\rm Pl})\rvert \lesssim 10^{-60}$$
 
-why was the early universe so close to flat? if $|\Omega_K|$ was anything but tiny, the universe would either have recollapsed within Planck times (closed) or expanded so fast that no structure could form (open).
+why was the early universe so close to flat? if $\lvert \Omega_K\rvert$ was anything but tiny, the universe would either have recollapsed within Planck times (closed) or expanded so fast that no structure could form (open).
 
 → the **flatness problem**: a 60-decimal-place fine-tuning of initial conditions, not predicted by the standard model.
 
@@ -62,12 +62,12 @@ inflation = an early epoch of nearly exponential expansion driven by a scalar fi
 
 - $a(t) \propto e^{Ht}$ with $H$ approximately constant
 - the comoving Hubble radius $(aH)^{-1}$ **shrinks**
-- any pre-inflation curvature gets diluted: $|\Omega_K| \to |\Omega_K|/e^{2N}$ over $N$ e-folds
+- any pre-inflation curvature gets diluted: $\lvert \Omega_K\rvert \to \lvert \Omega_K\rvert/e^{2N}$ over $N$ e-folds
 - the Hubble volume at the start of inflation gets stretched far beyond what we observe today, making the entire observable universe come from a single causally connected region
 - any pre-inflation density of monopoles gets diluted by $e^{3N}$
 
 with $N \approx 60$ e-folds of inflation:
-- $|\Omega_K|$ gets suppressed by $e^{-120} \sim 10^{-52}$ — solving flatness
+- $\lvert \Omega_K\rvert$ gets suppressed by $e^{-120} \sim 10^{-52}$ — solving flatness
 - the observable universe (today $\sim H_0^{-1}$ across) was at the start of inflation a single Hubble volume, all in causal contact — solving the horizon problem
 - monopole density diluted to undetectable — solving the monopole problem
 

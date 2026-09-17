@@ -7,7 +7,7 @@ the **deceleration parameter** $q_0$ measures the rate of change of cosmic expan
 
 ## the definition
 
-$$\boxed{\, q_0 \equiv -\frac{\ddot a\,a}{\dot a^2}\bigg|_{t_0} \,}$$
+$$\boxed{\, q_0 \equiv -\frac{\ddot a\,a}{\dot a^2}\bigg\vert_{t_0} \,}$$
 
 with $a$ + $\dot a$ + $\ddot a$ evaluated today. negative sign by convention, so positive $q_0$ corresponds to deceleration.
 

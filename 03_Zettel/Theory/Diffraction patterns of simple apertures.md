@@ -99,7 +99,7 @@ $N$ subapertures (diameter $D$ each) at arbitrary positions $\mathbf r_i$ in the
 $$\tilde A(\mathbf u) = \tilde A_{\rm sub}(\mathbf u) \cdot \sum_i e^{-2\pi i \mathbf r_i \cdot \mathbf u}$$
 
 intensity:
-$$I(\mathbf u) \propto |\tilde A_{\rm sub}|^2 \cdot \left|\sum_i e^{-2\pi i \mathbf r_i \cdot \mathbf u}\right|^2$$
+$$I(\mathbf u) \propto \lvert \tilde A_{\rm sub}\rvert^2 \cdot \left\lvert\sum_i e^{-2\pi i \mathbf r_i \cdot \mathbf u}\right\rvert^2$$
 
 the second factor is a function of the **array geometry**. its peaks are at the spatial frequencies $\mathbf u$ such that all sub-apertures interfere constructively. these peaks form the **(u, v) coverage** of the array.
 
@@ -112,7 +112,7 @@ this is the foundation of [Aperture synthesis principle](interf/Aperture%20synth
 - **double-slit**: cosine fringes inside Airy/sinc envelope
 - **central obstruction**: raises side lobes
 - **Gaussian apodization**: zero side lobes
-- **array**: $|\sum e^{-2\pi i \mathbf r_i \cdot \mathbf u}|^2$ encodes the (u, v) coverage
+- **array**: $\lvert \sum e^{-2\pi i \mathbf r_i \cdot \mathbf u}\rvert^2$ encodes the (u, v) coverage
 
 these are the "elementary functions" in interferometric design and analysis.
 

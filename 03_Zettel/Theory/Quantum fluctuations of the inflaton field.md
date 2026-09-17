@@ -41,7 +41,7 @@ On super-horizon scales ($-k\tau \to 0$):
 $$\delta\phi_k \to \frac{i H}{\sqrt{2k^3}} = \text{constant}$$
 
 The dimensionless power spectrum outside the horizon is:
-$$\mathcal{P}_{\delta\phi}(k) \equiv \frac{k^3}{2\pi^2}|\delta\phi_k|^2 = \left(\frac{H}{2\pi}\right)^2$$
+$$\mathcal{P}_{\delta\phi}(k) \equiv \frac{k^3}{2\pi^2}\lvert \delta\phi_k\rvert^2 = \left(\frac{H}{2\pi}\right)^2$$
 
 ---
 

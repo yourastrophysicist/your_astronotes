@@ -20,7 +20,7 @@ $$S = \frac{1}{2}(R + L), \quad D = \frac{1}{2}(R - L), \quad P = 1 - \sum_s \fr
 ## wave modes in parallel propagation (k parallel to B0)
 
 for $\theta = 0$, waves decouple into circularly polarized transverse modes:
-1. **Right-hand circular (R-mode)**: $n^2 = R$. exhibits resonance ($n \to \infty$) at the electron cyclotron frequency $\omega = |\Omega_{ce}|$, where the wave electric field rotates in phase with gyrating electrons. at $\omega \ll |\Omega_{ce}|$, this branch becomes the **whistler wave**.
+1. **Right-hand circular (R-mode)**: $n^2 = R$. exhibits resonance ($n \to \infty$) at the electron cyclotron frequency $\omega = \lvert \Omega_{ce}\rvert$, where the wave electric field rotates in phase with gyrating electrons. at $\omega \ll \lvert \Omega_{ce}\rvert$, this branch becomes the **whistler wave**.
 2. **Left-hand circular (L-mode)**: $n^2 = L$. exhibits resonance at the ion cyclotron frequency $\omega = \Omega_{ci}$.
 
 the difference in phase velocities between R and L modes produces **Faraday rotation** of linearly polarized radio waves:

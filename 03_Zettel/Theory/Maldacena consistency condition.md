@@ -32,7 +32,7 @@ With $n_s \approx 0.965$:
 $$f_{\rm NL}^{\rm local} \approx \frac{5}{12}(1 - 0.965) \approx 0.015$$
 
 ### Foundational theorem
-A confirmed measurement of $|f_{\rm NL}^{\rm local}| \gtrsim 1$ would definitively falsify **all canonical single-field slow-roll inflation models**, proving that multiple dynamical fields or non-Bunch-Davies vacua were present during the primordial epoch.
+A confirmed measurement of $\lvert f_{\rm NL}^{\rm local}\rvert \gtrsim 1$ would definitively falsify **all canonical single-field slow-roll inflation models**, proving that multiple dynamical fields or non-Bunch-Davies vacua were present during the primordial epoch.
 
 ---
 

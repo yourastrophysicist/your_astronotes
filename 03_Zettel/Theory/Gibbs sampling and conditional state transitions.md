@@ -11,26 +11,26 @@ Gibbs sampling (Geman & Geman 1984) is a special case of the Metropolis-Hastings
 
 Let $\theta = (\theta_1, \theta_2, \dots, \theta_k)^T$ be a $k$-dimensional parameter vector. At step $t+1$, the algorithm updates each coordinate sequentially while conditioning on the most recent values of all other coordinates:
 
-$$\theta_1^{(t+1)} \sim p\left(\theta_1 \,\middle|\, \theta_2^{(t)}, \theta_3^{(t)}, \dots, \theta_k^{(t)}, D\right)$$
-$$\theta_2^{(t+1)} \sim p\left(\theta_2 \,\middle|\, \theta_1^{(t+1)}, \theta_3^{(t)}, \dots, \theta_k^{(t)}, D\right)$$
+$$\theta_1^{(t+1)} \sim p\left(\theta_1 \,\middle \mid \, \theta_2^{(t)}, \theta_3^{(t)}, \dots, \theta_k^{(t)}, D\right)$$
+$$\theta_2^{(t+1)} \sim p\left(\theta_2 \,\middle \mid \, \theta_1^{(t+1)}, \theta_3^{(t)}, \dots, \theta_k^{(t)}, D\right)$$
 $$\vdots$$
-$$\theta_j^{(t+1)} \sim p\left(\theta_j \,\middle|\, \theta_{<j}^{(t+1)}, \theta_{>j}^{(t)}, D\right)$$
+$$\theta_j^{(t+1)} \sim p\left(\theta_j \,\middle \mid \, \theta_{<j}^{(t+1)}, \theta_{>j}^{(t)}, D\right)$$
 $$\vdots$$
-$$\theta_k^{(t+1)} \sim p\left(\theta_k \,\middle|\, \theta_1^{(t+1)}, \dots, \theta_{k-1}^{(t+1)}, D\right)$$
+$$\theta_k^{(t+1)} \sim p\left(\theta_k \,\middle \mid \, \theta_1^{(t+1)}, \dots, \theta_{k-1}^{(t+1)}, D\right)$$
 
 ## Proof as a Special Case of Metropolis-Hastings
 
 Consider updating component $\theta_j$ from $\theta = (\theta_j, \theta_{-j})$ to $\theta' = (\theta_j', \theta_{-j})$. The proposal distribution proposes along coordinate $j$ according to the exact conditional distribution:
-$$q(\theta'|\theta) = p(\theta_j' | \theta_{-j}, D)$$
+$$q(\theta' \mid \theta) = p(\theta_j' \mid \theta_{-j}, D)$$
 
 The reverse proposal is:
-$$q(\theta|\theta') = p(\theta_j | \theta_{-j}, D)$$
+$$q(\theta \mid \theta') = p(\theta_j \mid \theta_{-j}, D)$$
 
 Evaluating the Metropolis-Hastings acceptance ratio:
-$$\alpha(\theta, \theta') = \min\left( 1, \frac{p(\theta'|D) q(\theta|\theta')}{p(\theta|D) q(\theta'|\theta)} \right)$$
+$$\alpha(\theta, \theta') = \min\left( 1, \frac{p(\theta' \mid D) q(\theta \mid \theta')}{p(\theta \mid D) q(\theta' \mid \theta)} \right)$$
 
-Decomposing the joint posteriors via the product rule $p(\theta|D) = p(\theta_j|\theta_{-j}, D) p(\theta_{-j}|D)$:
-$$\frac{p(\theta'|D) q(\theta|\theta')}{p(\theta|D) q(\theta'|\theta)} = \frac{\left[ p(\theta_j'|\theta_{-j}, D) p(\theta_{-j}|D) \right] \cdot p(\theta_j|\theta_{-j}, D)}{\left[ p(\theta_j|\theta_{-j}, D) p(\theta_{-j}|D) \right] \cdot p(\theta_j'|\theta_{-j}, D)} = 1$$
+Decomposing the joint posteriors via the product rule $p(\theta \mid D) = p(\theta_j \mid \theta_{-j}, D) p(\theta_{-j} \mid D)$:
+$$\frac{p(\theta' \mid D) q(\theta \mid \theta')}{p(\theta \mid D) q(\theta' \mid \theta)} = \frac{\left[ p(\theta_j' \mid \theta_{-j}, D) p(\theta_{-j} \mid D) \right] \cdot p(\theta_j \mid \theta_{-j}, D)}{\left[ p(\theta_j \mid \theta_{-j}, D) p(\theta_{-j} \mid D) \right] \cdot p(\theta_j' \mid \theta_{-j}, D)} = 1$$
 
 Therefore:
 $$\alpha(\theta, \theta') = \min(1, 1) = 1$$

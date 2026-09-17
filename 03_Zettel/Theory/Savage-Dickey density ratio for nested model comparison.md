@@ -12,31 +12,31 @@ The Savage-Dickey Density Ratio (SDDR; Dickey 1971) is an exact mathematical sho
 Consider two models $M_0$ and $M_1$:
 - **Complex model $M_1$**: Parameterized by $(\theta, \omega)$, where $\theta$ are common nuisance/background parameters and $\omega$ is the parameter of interest.
 - **Nested base model $M_0$**: A constrained subset of $M_1$ where $\omega$ is fixed to a specific theoretical value $\omega_0$ (e.g. $\Omega_k = 0$, or tensor-to-scalar ratio $r = 0$):
-$$p(D|\theta, M_0) \equiv p(D|\theta, \omega = \omega_0, M_1)$$
+$$p(D \mid \theta, M_0) \equiv p(D \mid \theta, \omega = \omega_0, M_1)$$
 
 Assume the prior in the unrestricted model factorizes at the point of interest:
-$$p(\theta, \omega | M_1) = p(\theta | \omega, M_1) p(\omega | M_1)$$
-such that $p(\theta | \omega = \omega_0, M_1) = p(\theta | M_0)$.
+$$p(\theta, \omega \mid M_1) = p(\theta \mid \omega, M_1) p(\omega \mid M_1)$$
+such that $p(\theta \mid \omega = \omega_0, M_1) = p(\theta \mid M_0)$.
 
 ## Mathematical Proof
 
 By definition, the Bayes factor comparing $M_0$ to $M_1$ is:
-$$B_{01} = \frac{p(D|M_0)}{p(D|M_1)}$$
+$$B_{01} = \frac{p(D \mid M_0)}{p(D \mid M_1)}$$
 
 Applying Bayes' theorem to the marginal posterior of $\omega$ under model $M_1$:
-$$p(\omega|D, M_1) = \frac{p(D|\omega, M_1) p(\omega|M_1)}{p(D|M_1)}$$
+$$p(\omega \mid D, M_1) = \frac{p(D \mid \omega, M_1) p(\omega \mid M_1)}{p(D \mid M_1)}$$
 
 Evaluating this relation specifically at $\omega = \omega_0$:
-$$p(\omega = \omega_0 | D, M_1) = \frac{p(D|\omega = \omega_0, M_1) p(\omega = \omega_0 | M_1)}{p(D|M_1)}$$
+$$p(\omega = \omega_0 \mid D, M_1) = \frac{p(D \mid \omega = \omega_0, M_1) p(\omega = \omega_0 \mid M_1)}{p(D \mid M_1)}$$
 
-Recognizing that the marginal likelihood $p(D|\omega = \omega_0, M_1)$ integrates over $\theta$:
-$$p(D|\omega = \omega_0, M_1) = \int p(D|\theta, \omega = \omega_0, M_1) p(\theta|\omega = \omega_0, M_1) \, d\theta = \int p(D|\theta, M_0) p(\theta|M_0) \, d\theta = p(D|M_0)$$
+Recognizing that the marginal likelihood $p(D \mid \omega = \omega_0, M_1)$ integrates over $\theta$:
+$$p(D \mid \omega = \omega_0, M_1) = \int p(D \mid \theta, \omega = \omega_0, M_1) p(\theta \mid \omega = \omega_0, M_1) \, d\theta = \int p(D \mid \theta, M_0) p(\theta \mid M_0) \, d\theta = p(D \mid M_0)$$
 
-Substituting $p(D|M_0)$ into the expression:
-$$p(\omega = \omega_0 | D, M_1) = \frac{p(D|M_0) p(\omega = \omega_0 | M_1)}{p(D|M_1)} = B_{01} \cdot p(\omega = \omega_0 | M_1)$$
+Substituting $p(D \mid M_0)$ into the expression:
+$$p(\omega = \omega_0 \mid D, M_1) = \frac{p(D \mid M_0) p(\omega = \omega_0 \mid M_1)}{p(D \mid M_1)} = B_{01} \cdot p(\omega = \omega_0 \mid M_1)$$
 
 Rearranging yields the Savage-Dickey Density Ratio:
-$$B_{01} = \frac{p(\omega = \omega_0 | D, M_1)}{p(\omega = \omega_0 | M_1)}$$
+$$B_{01} = \frac{p(\omega = \omega_0 \mid D, M_1)}{p(\omega = \omega_0 \mid M_1)}$$
 
 ## Operational Significance
 
@@ -45,7 +45,7 @@ $$B_{01} = \frac{\text{Posterior density at the null value}}{\text{Prior density
 
 ### Practical Advantages
 1. **Computational efficiency**: No need to compute evidence for either model via Nested Sampling or thermodynamic integration; running standard MCMC on $M_1$ suffices.
-2. **Intuitive geometry**: If the posterior distribution concentrates around $\omega_0$, the posterior density exceeds the prior density ($p(\omega_0|D) > p(\omega_0)$), yielding $B_{01} > 1$ (evidence favors the simpler model $M_0$).
+2. **Intuitive geometry**: If the posterior distribution concentrates around $\omega_0$, the posterior density exceeds the prior density ($p(\omega_0 \mid D) > p(\omega_0)$), yielding $B_{01} > 1$ (evidence favors the simpler model $M_0$).
 
 ## See Also
 - [Astro-Statistics_and_Cosmology_MOC](../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html)

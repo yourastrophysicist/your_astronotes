@@ -39,7 +39,7 @@ note the symmetric $2\pi$ in the exponents. some conventions put $2\pi$ only on 
 $\widehat{\alpha f + \beta g} = \alpha \hat f + \beta \hat g$.
 
 ### Parseval (energy conservation)
-$$\int |f(x)|^2 dx = \int |\hat f(k)|^2 dk$$
+$$\int \lvert f(x)\rvert^2 dx = \int \lvert \hat f(k)\rvert^2 dk$$
 
 physically: total signal energy in time domain equals total energy in frequency domain.
 

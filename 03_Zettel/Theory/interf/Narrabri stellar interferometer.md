@@ -52,7 +52,7 @@ three:
 
 intensity interferometry SNR scales as $V^2 \cdot N_{\rm photons}/\Delta\nu$ — much worse than amplitude. limit at Narrabri: $V \sim 6$ with reasonable integration times. a hundred bright stars accessible, all the rest invisible.
 
-### 2. only $|\gamma|^2$
+### 2. only $\lvert \gamma\rvert^2$
 
 the technique gives the *modulus squared* of the visibility, not the complex visibility. so:
 - stellar diameter measurable

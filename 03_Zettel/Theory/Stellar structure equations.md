@@ -44,7 +44,7 @@ where $a = 4\sigma/c$ is the radiation constant.
 
 #### B. Convective transport and the Schwarzschild criterion:
 Karl Schwarzschild proved that a fluid element displaced upward adiabatically will become buoyant and unstable to **convection** if the actual temperature gradient is steeper than the adiabatic gradient:
-$$\boxed{\, \left|\frac{dT}{dr}\right|_{\text{actual}} > \left|\frac{dT}{dr}\right|_{\text{ad}} = \left(1 - \frac{1}{\gamma}\right) \frac{T}{P} \left|\frac{dP}{dr}\right| \,}$$
+$$\boxed{\, \left\lvert\frac{dT}{dr}\right\rvert_{\text{actual}} > \left\lvert\frac{dT}{dr}\right\rvert_{\text{ad}} = \left(1 - \frac{1}{\gamma}\right) \frac{T}{P} \left\lvert\frac{dP}{dr}\right\rvert \,}$$
 
 convection is triggered when:
 1. the opacity $\kappa$ is very large (e.g. hydrogen/helium partial ionization zones where $T \sim 10^4-10^5$ K in outer stellar envelopes).

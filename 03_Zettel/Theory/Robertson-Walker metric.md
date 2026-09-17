@@ -17,7 +17,7 @@ $$\boxed{\,ds^2 = dt^2 - a^2(t)\left[\frac{dr^2}{1 - k r^2} + r^2(d\theta^2 + \s
 
 three structural elements:
 - $a(t)$: the **scale factor**, a single function of cosmic time encoding the entire dynamics
-- $k$: the **spatial curvature parameter**, with $k = 0$ flat, $k = +1$ closed (spherical), $k = -1$ open (hyperbolic). dimensionful normalization can absorb $|k|$ into the radial coordinate.
+- $k$: the **spatial curvature parameter**, with $k = 0$ flat, $k = +1$ closed (spherical), $k = -1$ open (hyperbolic). dimensionful normalization can absorb $\lvert k\rvert$ into the radial coordinate.
 - $d\Omega^2 = d\theta^2 + \sin^2\theta\,d\phi^2$: the standard 2-sphere line element
 
 ---

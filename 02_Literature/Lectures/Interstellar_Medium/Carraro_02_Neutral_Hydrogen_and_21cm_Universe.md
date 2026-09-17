@@ -58,7 +58,7 @@ $$T_* = \frac{h\nu_0}{k} = 0.06816\text{ K}$$
 
 because the transition is an electric-dipole forbidden magnetic dipole transition ($M1$), the Einstein $A_{10}$ coefficient is exceptionally small:
 
-$$A_{10} = \frac{64\pi^4 \nu_0^3}{3 h c^3} |\mu_{10}|^2 = 2.85 \times 10^{-15}\text{ s}^{-1}$$
+$$A_{10} = \frac{64\pi^4 \nu_0^3}{3 h c^3} \lvert \mu_{10}\rvert^2 = 2.85 \times 10^{-15}\text{ s}^{-1}$$
 
 the mean spontaneous radiative lifetime of an isolated excited H I atom is:
 
@@ -191,7 +191,7 @@ prof. carraro surveyed the modern observational frontiers:
    $$\phi(M_{\text{HI}}) dM_{\text{HI}} = \phi^* \left(\frac{M_{\text{HI}}}{M^*}\right)^\alpha \exp\left(-\frac{M_{\text{HI}}}{M^*}\right) \frac{dM_{\text{HI}}}{M^*}$$
    with faint-end slope $\alpha \approx -1.33$.
 3. **High-Velocity Clouds (HVCs)**:
-   clouds of neutral hydrogen moving with velocities that deviate drastically from Galactic rotation ($|v_{\text{LSR}}| > 90\text{ km s}^{-1}$), representing infalling primordial gas streams, tidal debris from the Magellanic Stream, and returning fountains from Galactic superbubbles.
+   clouds of neutral hydrogen moving with velocities that deviate drastically from Galactic rotation ($\lvert v_{\text{LSR}}\rvert > 90\text{ km s}^{-1}$), representing infalling primordial gas streams, tidal debris from the Magellanic Stream, and returning fountains from Galactic superbubbles.
 
 ---
 

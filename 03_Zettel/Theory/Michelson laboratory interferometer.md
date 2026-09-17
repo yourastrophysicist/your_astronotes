@@ -33,7 +33,7 @@ the beam splitter's substrate (typically glass) introduces a small extra OPL int
 
 ## the white-light fringe
 
-with a broadband source (white light), fringes are only visible when $\Lambda$ is small ($|\Lambda| < \ell_c$ = coherence length). at exactly $\Lambda = 0$, all wavelengths interfere constructively → strong central fringe.
+with a broadband source (white light), fringes are only visible when $\Lambda$ is small ($\lvert \Lambda\rvert < \ell_c$ = coherence length). at exactly $\Lambda = 0$, all wavelengths interfere constructively → strong central fringe.
 
 scanning the mirror through this region: a pattern of perhaps 5-10 visible fringes, with maximum brightness at the geometric zero. this is the **white-light fringe**, and it provides:
 - an absolute zero of OPD

@@ -15,7 +15,7 @@ a colour-magnitude diagram of resolved stars is one of the most powerful diagnos
 
 a key practical point: at the **solar neighbourhood**, all three components overlap spatially. a CMD of a small volume around the sun (e.g. a hipparcos or gaia parallax-selected sample) shows a superposition of these features. **kinematic decomposition** (selecting stars by velocity dispersion, vertical action, or angular momentum) is needed to isolate each component before fitting an age and metallicity.
 
-at **high galactic latitude** the thin disk thins out, leaving thick disk plus halo. at **large $|z|$**, halo dominates. so deep imaging fields off the plane (HST CDFs, gaia-DR3 stripes) give cleaner halo CMDs.
+at **high galactic latitude** the thin disk thins out, leaving thick disk plus halo. at **large $\lvert z\rvert$**, halo dominates. so deep imaging fields off the plane (HST CDFs, gaia-DR3 stripes) give cleaner halo CMDs.
 
 quantitative useful numbers:
 

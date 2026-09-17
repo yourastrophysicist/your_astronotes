@@ -3,7 +3,7 @@ layout: "default"
 title: "Linear evolution of perturbations in expanding universe"
 ---
 {% raw %}
-small density perturbations $\delta(\vec x, t) \equiv \delta\rho/\bar\rho$ on a homogeneous expanding background evolve according to a closed set of equations: continuity, Euler, and Poisson. in the **linear regime** ($|\delta| \ll 1$), these equations have analytic solutions that describe the *growth* of structure from CMB-era seeds to galaxy-era inhomogeneities.
+small density perturbations $\delta(\vec x, t) \equiv \delta\rho/\bar\rho$ on a homogeneous expanding background evolve according to a closed set of equations: continuity, Euler, and Poisson. in the **linear regime** ($\lvert \delta\rvert \ll 1$), these equations have analytic solutions that describe the *growth* of structure from CMB-era seeds to galaxy-era inhomogeneities.
 
 once $\delta \gtrsim 1$, linear theory breaks down and we have to go nonlinear (spherical collapse, N-body simulations).
 

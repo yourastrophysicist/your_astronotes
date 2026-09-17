@@ -76,15 +76,15 @@ $$t = y(\mathbf{x}, \mathbf{w}) + \epsilon = \mathbf{w}^T \boldsymbol{\phi}(\mat
 
 where $\beta \equiv \frac{1}{\sigma^2}$ denotes the **noise precision**. The conditional probability density of the target is:
 
-$$p(t | \mathbf{x}, \mathbf{w}, \beta) = \mathcal{N}(t | \mathbf{w}^T \boldsymbol{\phi}(\mathbf{x}), \beta^{-1}) = \sqrt{\frac{\beta}{2\pi}} \exp\left( -\frac{\beta}{2} \left[ t - \mathbf{w}^T \boldsymbol{\phi}(\mathbf{x}) \right]^2 \right)$$
+$$p(t \mid \mathbf{x}, \mathbf{w}, \beta) = \mathcal{N}(t \mid \mathbf{w}^T \boldsymbol{\phi}(\mathbf{x}), \beta^{-1}) = \sqrt{\frac{\beta}{2\pi}} \exp\left( -\frac{\beta}{2} \left[ t - \mathbf{w}^T \boldsymbol{\phi}(\mathbf{x}) \right]^2 \right)$$
 
 Given an independent and identically distributed (i.i.d.) dataset $\mathbf{X} = \{\mathbf{x}_1, \dots, \mathbf{x}_N\}$ with target vector $\mathbf{t} = (t_1, \dots, t_N)^T$, the joint likelihood function evaluates to:
 
-$$p(\mathbf{t} | \mathbf{X}, \mathbf{w}, \beta) = \prod_{n=1}^N \mathcal{N}(t_n | \mathbf{w}^T \boldsymbol{\phi}(\mathbf{x}_n), \beta^{-1})$$
+$$p(\mathbf{t} \mid \mathbf{X}, \mathbf{w}, \beta) = \prod_{n=1}^N \mathcal{N}(t_n \mid \mathbf{w}^T \boldsymbol{\phi}(\mathbf{x}_n), \beta^{-1})$$
 
 Taking the natural logarithm:
 
-$$\ln p(\mathbf{t} | \mathbf{X}, \mathbf{w}, \beta) = \frac{N}{2} \ln \beta - \frac{N}{2} \ln(2\pi) - \beta E_D(\mathbf{w})$$
+$$\ln p(\mathbf{t} \mid \mathbf{X}, \mathbf{w}, \beta) = \frac{N}{2} \ln \beta - \frac{N}{2} \ln(2\pi) - \beta E_D(\mathbf{w})$$
 
 where $E_D(\mathbf{w})$ is the standard **Sum-of-Squares Error**:
 
@@ -93,7 +93,7 @@ $$E_D(\mathbf{w}) = \frac{1}{2} \sum_{n=1}^N \left\{ t_n - \mathbf{w}^T \boldsym
 ### Derivation of the Maximum Likelihood Weights $\mathbf{w}_{\text{ML}}$
 Maximizing the log-likelihood with respect to $\mathbf{w}$ is mathematically identical to minimizing the sum-of-squares error $E_D(\mathbf{w})$. Computing the gradient:
 
-$$\nabla_{\mathbf{w}} \ln p(\mathbf{t} | \mathbf{X}, \mathbf{w}, \beta) = \sum_{n=1}^N \left\{ t_n - \mathbf{w}^T \boldsymbol{\phi}(\mathbf{x}_n) \right\} \boldsymbol{\phi}(\mathbf{x}_n)^T$$
+$$\nabla_{\mathbf{w}} \ln p(\mathbf{t} \mid \mathbf{X}, \mathbf{w}, \beta) = \sum_{n=1}^N \left\{ t_n - \mathbf{w}^T \boldsymbol{\phi}(\mathbf{x}_n) \right\} \boldsymbol{\phi}(\mathbf{x}_n)^T$$
 
 Setting the gradient to zero:
 
@@ -126,7 +126,7 @@ When the number of basis functions $M$ approaches or exceeds the number of obser
 
 To enforce smooth solutions, an explicit penalty term is added to the objective function:
 
-$$E_{\text{reg}}(\mathbf{w}) = E_D(\mathbf{w}) + \frac{\lambda}{2} \sum_{j=1}^{M-1} |w_j|^q$$
+$$E_{\text{reg}}(\mathbf{w}) = E_D(\mathbf{w}) + \frac{\lambda}{2} \sum_{j=1}^{M-1} \lvert w_j\rvert^q$$
 
 ```
 q = 2 : Ridge Regression (L2)         q = 1 : Lasso Regression (L1)
@@ -216,7 +216,7 @@ A **Decision Tree** partitions feature space into orthogonal, axis-aligned hyper
 ```
 
 ### Node Splitting Criteria
-At each node containing dataset $D$ with class proportions $p_i = \frac{N_i}{|D|}$:
+At each node containing dataset $D$ with class proportions $p_i = \frac{N_i}{\lvert D\rvert}$:
 1. **Gini Impurity**:
    $$\text{Gini}(D) = 1 - \sum_{i=1}^C p_i^2$$
 2. **Cross-Entropy**:

@@ -24,18 +24,18 @@ range: $0 \leq V \leq 1$.
 
 visibility is a *complex* quantity:
 
-$$\mathcal V = |\mathcal V| \, e^{i\phi_V}$$
+$$\mathcal V = \lvert \mathcal V\rvert \, e^{i\phi_V}$$
 
-- $|\mathcal V|$: the contrast (the magnitude in the formula above)
+- $\lvert \mathcal V\rvert$: the contrast (the magnitude in the formula above)
 - $\phi_V$: the *phase*, which encodes where the fringe pattern is positioned
 
-an interferometer measures both, in principle. in practice, atmospheric turbulence corrupts the phase, leaving only $|\mathcal V|$ measurable directly. the phase must be recovered with [phase closure](./Phase%20closure.html) or similar techniques.
+an interferometer measures both, in principle. in practice, atmospheric turbulence corrupts the phase, leaving only $\lvert \mathcal V\rvert$ measurable directly. the phase must be recovered with [phase closure](./Phase%20closure.html) or similar techniques.
 
 ## the link to coherence
 
 visibility = the magnitude of the **mutual coherence function** between the two telescopes' wavefronts:
 
-$$\mathcal V = \frac{\langle E_1^* E_2 \rangle}{\sqrt{\langle |E_1|^2 \rangle \langle |E_2|^2 \rangle}} = \gamma_{12}$$
+$$\mathcal V = \frac{\langle E_1^* E_2 \rangle}{\sqrt{\langle \vertE_1\vert ^2 \rangle \langle   \vertE_2\vert ^2 \rangle}} = \gamma_{12}$$
 
 where $E_1, E_2$ are the electric fields at the two telescopes. this is the **complex degree of coherence**.
 
@@ -59,7 +59,7 @@ $\mathcal V(\mathbf u) = 1$ for all $\mathbf u$. fringes are perfect at every ba
 
 ### uniform disk of angular diameter $\theta$
 
-$$|\mathcal V(B)| = \left|\frac{2 J_1(\pi \theta B/\lambda)}{\pi \theta B/\lambda}\right|$$
+$$\lvert \mathcal V(B)\rvert = \left\lvert\frac{2 J_1(\pi \theta B/\lambda)}{\pi \theta B/\lambda}\right\rvert$$
 
 (an Airy-like function). at $B = 0$, $V = 1$ (DC). first null at $B_1 = 1.22 \lambda/\theta$. measuring this null gives $\theta$.
 
@@ -69,11 +69,11 @@ two unresolved point sources of intensities $I_1, I_2$ at separation $\boldsymbo
 
 $$\mathcal V(\mathbf u) = \frac{I_1 + I_2 e^{2\pi i \mathbf u \cdot \boldsymbol\rho}}{I_1 + I_2}$$
 
-the visibility *amplitude* oscillates between $|V_{\max}|$ and $|V_{\min}|$ as $\mathbf u \cdot \boldsymbol\rho$ changes — a "fringe in the visibility" with period $1/|\boldsymbol\rho|$. measuring this gives both intensity ratio and separation.
+the visibility *amplitude* oscillates between $\lvert V_{\max}\rvert$ and $\lvert V_{\min}\rvert$ as $\mathbf u \cdot \boldsymbol\rho$ changes — a "fringe in the visibility" with period $1/\lvert \boldsymbol\rho\rvert$. measuring this gives both intensity ratio and separation.
 
 ### Gaussian disk, FWHM $\theta_G$
 
-$$|\mathcal V(B)| = \exp\left[-\frac{\pi^2 \theta_G^2 B^2}{4 \ln 2 \, \lambda^2}\right]$$
+$$\lvert \mathcal V(B)\rvert = \exp\left[-\frac{\pi^2 \theta_G^2 B^2}{4 \ln 2 \, \lambda^2}\right]$$
 
 monotonically decreasing, never reaches zero — a Gaussian source has no "edge" so visibility never quite vanishes.
 

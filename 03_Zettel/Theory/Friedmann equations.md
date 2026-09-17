@@ -54,7 +54,7 @@ with $\Omega_k = -kc^2/(a_0^2 H_0^2)$. so the universe today has:
 - $\Omega_m \approx 0.31$ (matter, dominantly cold dark matter + baryons).
 - $\Omega_r \approx 9 \times 10^{-5}$ (radiation, photons + relativistic neutrinos).
 - $\Omega_\Lambda \approx 0.69$ (dark energy).
-- $|\Omega_k| < 0.005$ (curvature, ~zero).
+- $\lvert \Omega_k\rvert < 0.005$ (curvature, ~zero).
 
 summing: $\Omega_{\rm tot} \approx 1$, consistent with flatness.
 

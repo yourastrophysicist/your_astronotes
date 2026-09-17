@@ -155,7 +155,7 @@ $$\frac{\rho_0}{B_0^2} \gamma k_\perp^2 \phi_1 = i k_\parallel j_{\parallel 1} +
 $$\eta_\parallel j_{\parallel 1} = -i k_\parallel \phi_1$$
 3. Linearized pressure equation:
 $$\gamma p_1 + \vec{v}_{E1} \cdot \nabla p_0 = 0 \implies \gamma p_1 - i \frac{k_y \phi_1}{B_0} \frac{p_0}{L_p} = 0 \implies p_1 = \frac{i k_y \phi_1}{\gamma B_0} \frac{p_0}{L_p}$$
-where $L_p = |\frac{d\ln p_0}{dx}|^{-1}$ is the pressure scale length.
+where $L_p = \lvert \frac{d\ln p_0}{dx}\rvert^{-1}$ is the pressure scale length.
 
 Eliminating $j_{\parallel 1}$ and $p_1$:
 $$\frac{\rho_0}{B_0^2} \gamma k_\perp^2 \phi_1 = \frac{k_\parallel^2}{\eta_\parallel} \phi_1 - \frac{2 k_y^2 p_0}{\gamma B_0^2 R_0 L_p} \phi_1$$
@@ -184,7 +184,7 @@ where $\nu_{sn}$ is the collision frequency with neutrals.
 Solving for the flux $\vec{\Gamma}_s = n_s \vec{v}_s$:
 $$\vec{\Gamma}_s = \pm n_s \mu_s \vec{E} - D_s \nabla n_s$$
 where the mobility $\mu_s$ and diffusion coefficient $D_s$ are:
-$$\mu_s = \frac{|q_s|}{m_s \nu_{sn}}, \quad D_s = \frac{k_B T_s}{m_s \nu_{sn}} = \mu_s \frac{k_B T_s}{e}$$
+$$\mu_s = \frac{\lvert q_s\rvert}{m_s \nu_{sn}}, \quad D_s = \frac{k_B T_s}{m_s \nu_{sn}} = \mu_s \frac{k_B T_s}{e}$$
 
 Because electrons are much lighter than ions ($m_e \ll m_i$), the collision frequency and mobility satisfy:
 $$\mu_e \gg \mu_i, \quad D_e \gg D_i$$

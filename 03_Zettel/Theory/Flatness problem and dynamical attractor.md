@@ -11,7 +11,7 @@ title: "Flatness problem and dynamical attractor"
 
 ## core physical intuition
 
-The Friedmann equation reveals that the deviation of the density parameter $\Omega(t)$ from unity ($\Omega_k \equiv 1 - \Omega = -k/a^2 H^2$) grows in any universe dominated by ordinary matter or radiation. In standard cosmology, spatial flatness ($\Omega = 1$) is an unstable repeller. For the universe to remain flat to within $|\Omega - 1| < 0.005$ today after 13.8 billion years of growth, it must have been tuned to $|1 - \Omega| < 10^{-60}$ at the Planck era.
+The Friedmann equation reveals that the deviation of the density parameter $\Omega(t)$ from unity ($\Omega_k \equiv 1 - \Omega = -k/a^2 H^2$) grows in any universe dominated by ordinary matter or radiation. In standard cosmology, spatial flatness ($\Omega = 1$) is an unstable repeller. For the universe to remain flat to within $\lvert \Omega - 1\rvert < 0.005$ today after 13.8 billion years of growth, it must have been tuned to $\lvert 1 - \Omega\rvert < 10^{-60}$ at the Planck era.
 
 Cosmic inflation flips the sign of cosmic acceleration. Because $\ddot{a} > 0$ during inflation, $\Omega = 1$ becomes a super-attractor. Any initial curvature is crushed exponentially to zero, explaining the observed flatness naturally without fine-tuning.
 
@@ -23,14 +23,14 @@ Differentiating the curvature density parameter $\Omega_k = -k/(aH)^2$:
 $$\frac{d\Omega_k}{d\ln a} = \Omega_k \Omega (1 + 3w) = \Omega_k (1 - \Omega_k)(1 + 3w)$$
 
 * In the standard Hot Big Bang:
-  - Radiation era ($w = 1/3$): $1 + 3w = 2 > 0 \implies |\Omega_k| \propto a^2$
-  - Matter era ($w = 0$): $1 + 3w = 1 > 0 \implies |\Omega_k| \propto a$
-  $$\frac{|\Omega_k(t_{\rm Pl})|}{|\Omega_k(t_0)|} \approx \left(\frac{a_{\rm Pl}}{a_{\rm eq}}\right)^2 \left(\frac{a_{\rm eq}}{a_0}\right) \sim 10^{-60}$$
+  - Radiation era ($w = 1/3$): $1 + 3w = 2 > 0 \implies \lvert \Omega_k\rvert \propto a^2$
+  - Matter era ($w = 0$): $1 + 3w = 1 > 0 \implies \lvert \Omega_k\rvert \propto a$
+  $$\frac{\lvert \Omega_k(t_{\rm Pl})\rvert}{\lvert \Omega_k(t_0)\rvert} \approx \left(\frac{a_{\rm Pl}}{a_{\rm eq}}\right)^2 \left(\frac{a_{\rm eq}}{a_0}\right) \sim 10^{-60}$$
 * During inflation ($w < -1/3$):
   $1 + 3w < 0$. For pure de Sitter ($w = -1$), $1 + 3w = -2$:
   $$\frac{d\Omega_k}{d\ln a} = -2\Omega_k \implies \Omega_k(a) \propto a^{-2} \propto e^{-2N}$$
   After $N \approx 60$ e-folds of inflation:
-  $$|\Omega_k| \sim e^{-120} \sim 10^{-52}$$
+  $$\lvert \Omega_k\rvert \sim e^{-120} \sim 10^{-52}$$
 
 ---
 

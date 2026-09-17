@@ -158,7 +158,7 @@ successive supernova explosions ($N_{\text{SN}} \sim 10 - 1000$) occurring every
 the scale height of the cold neutral gas disk in the Milky Way is $h \approx 100 - 200\text{ pc}$. 
 
 when the superbubble radius exceeds $R_s \approx 2 - 3 \, h$:
-1. the shock encounters a steep vertical exponential density gradient $\rho(z) = \rho_0 e^{-|z|/h}$.
+1. the shock encounters a steep vertical exponential density gradient $\rho(z) = \rho_0 e^{-\lvert z\rvert/h}$.
 2. the shock accelerates upwards ($v_s \propto \rho^{-1/5}$).
 3. Rayleigh-Taylor instability ruptures the top of the cold shell ("blowout"), forming a **Galactic Chimney** (Carraro slide 14).
 
@@ -168,7 +168,7 @@ the rupture vents millions of solar masses of hot, metal-enriched gas directly i
 - in the halo, the gas expands and cools radiatively over $\sim 10^7\text{ years}$.
 - upon cooling below $T \sim 10^4\text{ K}$, thermal instability causes the gas to condense into dense, neutral clouds.
 - the clouds lose pressure support and fall ballistically back onto the Galactic disk under gravity.
-- these infalling clouds are observed as **High-Velocity Clouds (HVCs)** ($|v_{\text{LSR}}| > 90\text{ km s}^{-1}$, Carraro slide 16).
+- these infalling clouds are observed as **High-Velocity Clouds (HVCs)** ($\lvert v_{\text{LSR}}\rvert > 90\text{ km s}^{-1}$, Carraro slide 16).
 
 the **galactic fountain** acts as a giant chemical recycling system, redistributing heavy elements synthesized in the inner disk to outer Galactocentric radii.
 

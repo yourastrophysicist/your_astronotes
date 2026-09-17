@@ -18,14 +18,14 @@ a fast-lookup reference for everything I might need on the exam. organized by pr
 ## linear systems $A\mathbf{x} = \mathbf{b}$
 
 - **Gauss elimination**: $O(N^3)$, in-place row reduction + back substitution
-- **partial pivoting**: swap row $k$ with the one having max $|A_{ik}|$ in column $k$, $i \geq k$
+- **partial pivoting**: swap row $k$ with the one having max $\lvert A_{ik}\rvert$ in column $k$, $i \geq k$
 - **LU**: $A = LU$, factor once $O(N^3)$, solve per RHS $O(N^2)$
 - **Gauss-Seidel**: iterative, $O(N^2)$ per step, converges for diagonally dominant or SPD $A$
 - **scipy**: `np.linalg.solve(A, b)`, `np.linalg.lstsq` (rectangular)
 
 ## eigenvalues
 
-- **power iteration**: $\mathbf{v}_{k+1} = A\mathbf{v}_k / \|A\mathbf{v}_k\|$, finds dominant eigenvalue
+- **power iteration**: $\mathbf{v}_{k+1} = A\mathbf{v}_k / \\lvert A\mathbf{v}_k\\rvert$, finds dominant eigenvalue
 - **QR algorithm**: $A_k = Q_k R_k$, $A_{k+1} = R_k Q_k$, converges to diagonal
 - **scipy**: `np.linalg.eigh(A)` for symmetric, `np.linalg.eig(A)` general
 
@@ -48,7 +48,7 @@ a fast-lookup reference for everything I might need on the exam. organized by pr
 - **trapezoidal**: $\int_a^b f \approx h(\tfrac12 f_0 + \sum_{i=1}^{N-1} f_i + \tfrac12 f_N)$, error $O(h^2)$
 - **Simpson 1/3** (needs even $N$): $\int_a^b f \approx \tfrac{h}{3}(f_0 + 4 f_1 + 2 f_2 + 4 f_3 + \cdots + f_N)$, error $O(h^4)$
 - **Monte Carlo (mean value)**: $I \approx (b-a)\langle f \rangle$, error $\sigma_f (b-a)/\sqrt{N}$
-- **importance sampling**: $I = \mathbb{E}_{x\sim g}[f/g]$, optimal $g \propto |f|$
+- **importance sampling**: $I = \mathbb{E}_{x\sim g}[f/g]$, optimal $g \propto \lvert f\rvert$
 - **scipy**: `np.trapz`, `scipy.integrate.simps`, `scipy.integrate.quad` (adaptive)
 
 ## random number sampling
@@ -71,9 +71,9 @@ a fast-lookup reference for everything I might need on the exam. organized by pr
 
 ## N-body force
 
-$$\mathbf{a}_i = -G \sum_{j \neq i} m_j \frac{\mathbf{r}_i - \mathbf{r}_j}{(|\mathbf{r}_i - \mathbf{r}_j|^2 + \epsilon^2)^{3/2}}$$
+$$\mathbf{a}_i = -G \sum_{j \neq i} m_j \frac{\mathbf{r}_i - \mathbf{r}_j}{(\lvert \mathbf{r}_i - \mathbf{r}_j\rvert^2 + \epsilon^2)^{3/2}}$$
 
-energy: $E = \tfrac12 \sum m_i v_i^2 - G \sum_{i<j} m_i m_j/|\mathbf{r}_i - \mathbf{r}_j|$
+energy: $E = \tfrac12 \sum m_i v_i^2 - G \sum_{i<j} m_i m_j/\lvert \mathbf{r}_i - \mathbf{r}_j\rvert$
 
 ## interpolation
 
@@ -94,7 +94,7 @@ energy: $E = \tfrac12 \sum m_i v_i^2 - G \sum_{i<j} m_i m_j/|\mathbf{r}_i - \mat
 - **DFT**: $X_k = \sum_n x_n e^{-2\pi i kn/N}$, $O(N^2)$ direct
 - **FFT**: same answer, $O(N \log N)$, requires $N$ power of 2 ideally
 - **Nyquist**: $f_{\rm Nyq} = 1/(2\Delta t)$
-- **Parseval**: $\sum |x_n|^2 = (1/N) \sum |X_k|^2$
+- **Parseval**: $\sum \lvert x_n\rvert^2 = (1/N) \sum \lvert X_k\rvert^2$
 - **numpy**: `np.fft.fft`, `np.fft.rfft` (real input), `np.fft.fftfreq`
 
 ## key python idioms

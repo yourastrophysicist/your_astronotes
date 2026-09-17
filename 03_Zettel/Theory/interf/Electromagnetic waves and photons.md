@@ -11,17 +11,17 @@ light is both an electromagnetic wave and a stream of photons. interferometry op
 
 Maxwell's equations in vacuum support transverse waves of the electric and magnetic fields:
 
-$$\mathbf E(\mathbf r, t) = \mathbf E_0 \, e^{i(\mathbf k \cdot \mathbf r - \omega t)}, \quad \mathbf B = \frac{\mathbf k \times \mathbf E}{|\mathbf k|}$$
+$$\mathbf E(\mathbf r, t) = \mathbf E_0 \, e^{i(\mathbf k \cdot \mathbf r - \omega t)}, \quad \mathbf B = \frac{\mathbf k \times \mathbf E}{\lvert \mathbf k\rvert}$$
 
-with $\omega = c |\mathbf k|$ and $\mathbf E \perp \mathbf B \perp \mathbf k$. the wave carries:
+with $\omega = c \lvert \mathbf k\rvert$ and $\mathbf E \perp \mathbf B \perp \mathbf k$. the wave carries:
 
-- **energy density**: $u = \tfrac12 \epsilon_0 |\mathbf E|^2 + \tfrac{1}{2\mu_0} |\mathbf B|^2 = \epsilon_0 |\mathbf E|^2$
-- **Poynting vector** (energy flux): $\mathbf S = \tfrac{1}{\mu_0} \mathbf E \times \mathbf B$, with $\langle |S| \rangle = \tfrac12 c \epsilon_0 |E_0|^2$
+- **energy density**: $u = \tfrac12 \epsilon_0 \lvert \mathbf E\rvert^2 + \tfrac{1}{2\mu_0} \lvert \mathbf B\rvert^2 = \epsilon_0 \lvert \mathbf E\rvert^2$
+- **Poynting vector** (energy flux): $\mathbf S = \tfrac{1}{\mu_0} \mathbf E \times \mathbf B$, with $\langle   \vertS\vert   \rangle = \tfrac12 c \epsilon_0 \lvert E_0\rvert^2$
 - **momentum**: $\mathbf p = \mathbf S/c^2$
 - **polarization**: the direction of $\mathbf E$. linear, circular, elliptical, or unpolarized
 
 the **intensity** measured by a detector is the time-averaged Poynting flux:
-$$I = \langle |S| \rangle = \tfrac12 c \epsilon_0 |E_0|^2$$
+$$I = \langle   \vertS\vert   \rangle = \tfrac12 c \epsilon_0 \lvert E_0\rvert^2$$
 
 interferometry measures correlations of $\mathbf E$ at separated points. the *visibility* and the *coherence function* both ride on top of this electromagnetic-field structure.
 
@@ -73,7 +73,7 @@ the boundary is around $\sim 100$ GHz for room-temperature receivers, lower for 
 
 the quintessential question: in Young's experiment, does each photon "go through both slits"?
 
-answer (as far as the experiment is concerned): each photon contributes to the interference pattern *as if it had an amplitude through each slit*. the probability density of detection is $|\psi_1 + \psi_2|^2$, just like the classical wave intensity.
+answer (as far as the experiment is concerned): each photon contributes to the interference pattern *as if it had an amplitude through each slit*. the probability density of detection is $\lvert \psi_1 + \psi_2\rvert^2$, just like the classical wave intensity.
 
 but if I *measure* which slit a photon went through, the interference disappears: the measurement collapses the wavefunction to a single slit. this **complementarity** is the foundational lesson of quantum optics.
 

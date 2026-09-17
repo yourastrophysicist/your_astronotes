@@ -61,7 +61,7 @@ the $\pi$ phase must be exact to $\sim \lambda/10000$ for $10^9$ contrast. for $
 
 ### 2. amplitude mismatch
 
-if arms have $5\%$ amplitude difference, the null is only $|1 - 1.05| = 0.05$ → $0.05^2 = 0.0025 = $ 1/400 contrast. for $10^9$, amplitudes must match to $\sim 10^{-5}$. extreme requirement.
+if arms have $5\%$ amplitude difference, the null is only $\lvert 1 - 1.05\rvert = 0.05$ → $0.05^2 = 0.0025 = $ 1/400 contrast. for $10^9$, amplitudes must match to $\sim 10^{-5}$. extreme requirement.
 
 ### 3. broadband
 

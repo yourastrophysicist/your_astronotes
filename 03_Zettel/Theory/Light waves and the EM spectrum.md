@@ -69,7 +69,7 @@ $$\nabla^2 \mathbf{E} = \frac{1}{c^2}\frac{\partial^2 \mathbf{E}}{\partial t^2}$
 with the same equation for $\mathbf{B}$. plane-wave solutions:
 $$\mathbf{E}(\mathbf{r}, t) = \mathbf{E}_0 \cos(\mathbf{k}\cdot\mathbf{r} - \omega t + \phi_0)$$
 
-with $\mathbf{k}$ the wave vector ($|\mathbf{k}| = 2\pi/\lambda$), $\omega = 2\pi\nu$, and $\phi_0$ an arbitrary phase. **everything in interferometry follows from adding two such waves and squaring the result.**
+with $\mathbf{k}$ the wave vector ($\lvert \mathbf{k}\rvert = 2\pi/\lambda$), $\omega = 2\pi\nu$, and $\phi_0$ an arbitrary phase. **everything in interferometry follows from adding two such waves and squaring the result.**
 
 ## the polarization of light
 
@@ -84,7 +84,7 @@ polarization matters for interferometry through the Fresnel-Arago laws (see [Fre
 ## the intensity
 
 the *intensity* (energy flux per unit area) of an EM wave:
-$$I = \frac{1}{2} \epsilon_0 c |\mathbf{E}_0|^2$$
+$$I = \frac{1}{2} \epsilon_0 c \lvert \mathbf{E}_0\rvert^2$$
 
 what a photodetector measures is intensity, time-averaged over many optical cycles (since detectors cannot follow the $\nu \sim 10^{14}$ Hz oscillations of visible light).
 

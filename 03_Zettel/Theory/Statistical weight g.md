@@ -16,7 +16,7 @@ because $m_J$ takes $2J + 1$ values from $-J$ to $+J$.
 summing over all $J$ within an $LS$ term:
 $$g_{LS} = (2L+1)(2S+1)$$
 
-derivation: $\sum_{J = |L-S|}^{L+S}(2J+1)$. the algebra collapses to $(2L+1)(2S+1)$.
+derivation: $\sum_{J = \lvert L-S\rvert}^{L+S}(2J+1)$. the algebra collapses to $(2L+1)(2S+1)$.
 
 ## per shell of given $(n, \ell)$ in a hydrogenic atom
 

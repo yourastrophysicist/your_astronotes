@@ -73,7 +73,7 @@ X = scipy.fft.fft(x)           # scipy version, often slightly faster than numpy
 - **pad to power of 2** when possible — fastest and most accurate
 - **always remove the mean** before FFT-ing a real signal, unless I want a giant DC spike that dominates the plot
 - **store the frequency axis** explicitly with `np.fft.fftfreq(N, d=dt)` — it is too easy to forget which bin corresponds to which frequency
-- **plot the magnitude** $|X_k|$ on log scale, the phase $\arg X_k$ separately if needed
+- **plot the magnitude** $\lvert X_k\rvert$ on log scale, the phase $\arg X_k$ separately if needed
 - **use `rfft` for real signals** — half the memory, half the time
 
 ## why this changed the world

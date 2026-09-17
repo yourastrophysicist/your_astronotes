@@ -31,8 +31,8 @@ $$\delta_g(k) = \frac{1}{\bar{n}}\sum_{i=1}^N e^{-i k \cdot x_i} - (2\pi)^3 \del
 
 ## Exact Derivation of Poisson Shot Noise
 
-Evaluating the expectation value $\mathbb{E}[|\delta_g(k)|^2]$:
-$$\mathbb{E}\left[ |\delta_g(k)|^2 \right] = \frac{1}{\bar{n}^2} \sum_{i=1}^N \sum_{j=1}^N \mathbb{E}\left[ e^{-i k \cdot (x_i - x_j)} \right]$$
+Evaluating the expectation value $\mathbb{E}[\lvert \delta_g(k)\rvert^2]$:
+$$\mathbb{E}\left[ \lvert \delta_g(k)\rvert^2 \right] = \frac{1}{\bar{n}^2} \sum_{i=1}^N \sum_{j=1}^N \mathbb{E}\left[ e^{-i k \cdot (x_i - x_j)} \right]$$
 
 Splitting the double sum into diagonal ($i = j$) and off-diagonal ($i \ne j$) terms:
 $$\sum_{i, j} e^{-i k \cdot (x_i - x_j)} = \sum_{i=j} 1 + \sum_{i \ne j} e^{-i k \cdot (x_i - x_j)} = N + \sum_{i \ne j} e^{-i k \cdot (x_i - x_j)}$$

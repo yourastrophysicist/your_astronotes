@@ -12,13 +12,13 @@ Constructing the exact statistical likelihood function for Cosmic Microwave Back
 At large angular scales ($\ell \le 30$), the number of degrees of freedom $2\ell + 1$ is small, and the distribution of the empirical estimator $\hat{C}_\ell$ is non-Gaussian.
 
 Because each $a_{\ell m}$ is a Gaussian random variable with variance $C_\ell$, the sum:
-$$(2\ell + 1) \frac{\hat{C}_\ell}{C_\ell} = \sum_{m=-\ell}^\ell \frac{|a_{\ell m}|^2}{C_\ell} \sim \chi^2_{2\ell+1}$$
+$$(2\ell + 1) \frac{\hat{C}_\ell}{C_\ell} = \sum_{m=-\ell}^\ell \frac{\lvert a_{\ell m}\rvert^2}{C_\ell} \sim \chi^2_{2\ell+1}$$
 follows a chi-squared distribution with $\nu = 2\ell + 1$ degrees of freedom.
 
 The probability density of the observed data $\hat{C}_\ell$ given the theoretical model $C_\ell$ is:
-$$p(\hat{C}_\ell | C_\ell) = \frac{1}{2^{\frac{2\ell+1}{2}} \Gamma\left(\frac{2\ell+1}{2}\right)} \left( \frac{2\ell+1}{C_\ell} \right)^{\frac{2\ell+1}{2}} \hat{C}_\ell^{\frac{2\ell-1}{2}} \exp\left[ -\frac{(2\ell+1)\hat{C}_\ell}{2 C_\ell} \right]$$
+$$p(\hat{C}_\ell \mid C_\ell) = \frac{1}{2^{\frac{2\ell+1}{2}} \Gamma\left(\frac{2\ell+1}{2}\right)} \left( \frac{2\ell+1}{C_\ell} \right)^{\frac{2\ell+1}{2}} \hat{C}_\ell^{\frac{2\ell-1}{2}} \exp\left[ -\frac{(2\ell+1)\hat{C}_\ell}{2 C_\ell} \right]$$
 
-Taking $-2\ln p(\hat{C}_\ell | C_\ell)$ and dropping parameter-independent constants yields the exact **Wishart log-likelihood**:
+Taking $-2\ln p(\hat{C}_\ell \mid C_\ell)$ and dropping parameter-independent constants yields the exact **Wishart log-likelihood**:
 $$-2\ln \mathcal{L}_\ell(C_\ell) = (2\ell + 1) \left[ \frac{\hat{C}_\ell}{C_\ell} + \ln C_\ell \right]$$
 
 Summing over uncoupled multipoles:

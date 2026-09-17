@@ -36,14 +36,14 @@ the core of SED fitting is a forward model mapping a physical parameter vector $
 ### statistical inference: likelihood and bayesian posteriors
 
 #### Gaussian likelihood
-for uncorrelated observational photometric uncertainties $\sigma_X$, the likelihood function $\mathcal{L}(\mathbf{F}^{\rm obs} | \mathbf{\theta})$ is:
+for uncorrelated observational photometric uncertainties $\sigma_X$, the likelihood function $\mathcal{L}(\mathbf{F}^{\rm obs} \mid \mathbf{\theta})$ is:
 
-$$\ln \mathcal{L}(\mathbf{F}^{\rm obs} | \mathbf{\theta}) = -\frac{1}{2} \sum_{X=1}^{N_{\rm bands}} \left[ \left( \frac{F_X^{\rm obs} - F_X^{\rm model}(\mathbf{\theta})}{\sigma_X} \right)^2 + \ln(2\pi\sigma_X^2) \right] = -\frac{1}{2}\chi^2(\mathbf{\theta}) + \mathrm{const}$$
+$$\ln \mathcal{L}(\mathbf{F}^{\rm obs} \mid \mathbf{\theta}) = -\frac{1}{2} \sum_{X=1}^{N_{\rm bands}} \left[ \left( \frac{F_X^{\rm obs} - F_X^{\rm model}(\mathbf{\theta})}{\sigma_X} \right)^2 + \ln(2\pi\sigma_X^2) \right] = -\frac{1}{2}\chi^2(\mathbf{\theta}) + \mathrm{const}$$
 
 #### Bayesian posterior
-Bayes' theorem yields the posterior probability distribution $p(\mathbf{\theta} | \mathbf{F}^{\rm obs})$:
+Bayes' theorem yields the posterior probability distribution $p(\mathbf{\theta} \mid \mathbf{F}^{\rm obs})$:
 
-$$p(\mathbf{\theta} | \mathbf{F}^{\rm obs}) = \frac{\mathcal{L}(\mathbf{F}^{\rm obs} | \mathbf{\theta})\,p(\mathbf{\theta})}{\int \mathcal{L}(\mathbf{F}^{\rm obs} | \mathbf{\theta})\,p(\mathbf{\theta})\,d\mathbf{\theta}}$$
+$$p(\mathbf{\theta} \mid \mathbf{F}^{\rm obs}) = \frac{\mathcal{L}(\mathbf{F}^{\rm obs} \mid \mathbf{\theta})\,p(\mathbf{\theta})}{\int \mathcal{L}(\mathbf{F}^{\rm obs} \mid \mathbf{\theta})\,p(\mathbf{\theta})\,d\mathbf{\theta}}$$
 
 where $p(\mathbf{\theta})$ incorporates physical priors:
 - $M_*$: flat in $\log M_*$ (or informed by the galaxy stellar mass function).

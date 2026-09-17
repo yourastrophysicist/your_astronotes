@@ -8,9 +8,9 @@ in the **slow-motion, weak-field** limit, GR reduces to **Newtonian gravity**. t
 ## the limits
 
 three approximations:
-1. **weak field**: $|h_{\mu\nu}| \ll 1$. metric is close to Minkowski.
-2. **slow motion**: $v \ll c$, equivalently $|\dot x^i/\dot x^0| \ll 1$. test particles move slowly.
-3. **stationary or slowly-varying**: $|\partial_t h| \ll |\partial_i h|$, time derivatives are small compared to spatial ones.
+1. **weak field**: $\lvert h_{\mu\nu}\rvert \ll 1$. metric is close to Minkowski.
+2. **slow motion**: $v \ll c$, equivalently $\lvert \dot x^i/\dot x^0\rvert \ll 1$. test particles move slowly.
+3. **stationary or slowly-varying**: $\lvert \partial_t h\rvert \ll \lvert \partial_i h\rvert$, time derivatives are small compared to spatial ones.
 
 ## the Newtonian potential
 

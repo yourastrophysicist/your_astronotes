@@ -42,7 +42,7 @@ sectional curvatures vary from $\sim GM/r^3$ at large $r$ to large values near $
 all sectional curvatures equal: $K = \Lambda/3$ (positive). this is a maximally symmetric spacetime.
 
 ### Anti-de Sitter (constant negative curvature)
-all sectional curvatures equal: $K = -|\Lambda|/3$ (negative). holography lives here.
+all sectional curvatures equal: $K = -\lvert \Lambda\rvert/3$ (negative). holography lives here.
 
 ## relation to Ricci and Einstein equations
 

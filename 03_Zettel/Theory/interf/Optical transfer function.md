@@ -18,13 +18,13 @@ each spatial frequency of the source is *multiplied* by the OTF at that frequenc
 
 ## the modulation transfer function
 
-the **MTF** is $|\text{OTF}|$, the magnitude of the OTF. it tells you "how much of the contrast survives" at each spatial frequency. since OTF can be complex, MTF is the real-valued part that matters for visual contrast.
+the **MTF** is $\lvert \text{OTF}\rvert$, the magnitude of the OTF. it tells you "how much of the contrast survives" at each spatial frequency. since OTF can be complex, MTF is the real-valued part that matters for visual contrast.
 
 ## OTF for a circular aperture
 
 aperture diameter $D$, no central obstruction. the OTF is the **autocorrelation of the aperture function**:
 
-$$\text{OTF}(\mathbf u) = \mathcal F[\text{PSF}] = \mathcal F\!\left[|\mathcal F[A]|^2\right] = A \star A$$
+$$\text{OTF}(\mathbf u) = \mathcal F[\text{PSF}] = \mathcal F\!\left[\lvert \mathcal F[A]\rvert^2\right] = A \star A$$
 
 (by the autocorrelation theorem). geometrically, the OTF is the *area of overlap* between the aperture and a shifted copy of itself.
 
@@ -68,7 +68,7 @@ three practical questions answered by the OTF:
 
 ### 1. what features can I see?
 
-frequencies $|\mathbf u| > \rho_c$ are not in the OTF support — those features are not in my data. for an interferometer, this means features at angular scales finer than $\lambda/B_{\max}$ (longest baseline) are unresolvable.
+frequencies $\lvert \mathbf u\rvert > \rho_c$ are not in the OTF support — those features are not in my data. for an interferometer, this means features at angular scales finer than $\lambda/B_{\max}$ (longest baseline) are unresolvable.
 
 ### 2. how much contrast do I lose?
 

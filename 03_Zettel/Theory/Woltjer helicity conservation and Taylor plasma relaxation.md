@@ -26,7 +26,7 @@ where $\mathbf{B} = \nabla \times \mathbf{A}$.
 J.B. Taylor recognized that in weakly resistive, turbulent plasmas ($S \gg 1$), local flux tubes reconnect violently, destroying individual flux surface invariants.
 
 however, the dissipation rates of magnetic energy and helicity scale differently with wavenumber:
-$$\frac{d\mathcal{W}}{dt} = -\frac{\eta}{\mu_0^2} \int |\nabla \times \mathbf{B}|^2 \, d^3x \sim -\eta k^2$$
+$$\frac{d\mathcal{W}}{dt} = -\frac{\eta}{\mu_0^2} \int \lvert \nabla \times \mathbf{B}\rvert^2 \, d^3x \sim -\eta k^2$$
 $$\frac{dK}{dt} = -2 \frac{\eta}{\mu_0} \int \mathbf{B} \cdot (\nabla \times \mathbf{B}) \, d^3x \sim -\eta k$$
 
 because reconnection concentrates turbulent fluctuations at small scales ($k \gg 1$), **energy dissipates rapidly while total global helicity $K$ decays negligibly**.

@@ -58,7 +58,7 @@ $$\nabla \cdot \vec{B} = 0$$
 ### 1.3 Magnetic Reynolds Number and Flux Freezing (Alfvén's Theorem)
 
 The ratio of the advective term to the resistive diffusion term in the induction equation is the dimensionless **magnetic Reynolds number**:
-$$R_m = \frac{|\nabla \times (\vec{v} \times \vec{B})|}{|\frac{\eta}{\mu_0} \nabla^2 \vec{B}|} \sim \frac{v B / L}{\frac{\eta}{\mu_0} B / L^2} = \mu_0 \sigma v L$$
+$$R_m = \frac{\lvert \nabla \times (\vec{v} \times \vec{B})\lvert }{\rvert\frac{\eta}{\mu_0} \nabla^2 \vec{B}\rvert} \sim \frac{v B / L}{\frac{\eta}{\mu_0} B / L^2} = \mu_0 \sigma v L$$
 
 - **Resistive diffusion limit ($R_m \ll 1$)**: The magnetic field diffuses through the fluid on the timescale $\tau_{diff} = \mu_0 \sigma L^2$.
 - **Ideal MHD limit ($R_m \gg 1$)**: In high-temperature astrophysical and fusion plasmas, $R_m \sim 10^6 - 10^{12}$. The diffusion term vanishes:
@@ -194,12 +194,12 @@ $$j_R \frac{\partial \psi}{\partial R} + j_Z \frac{\partial \psi}{\partial Z} = 
 
 3. **Radial Force Balance**:
 Evaluating the radial component of $\vec{j} \times \vec{B} = \nabla p$:
-$$(\vec{j} \times \vec{B}) \cdot \nabla\psi = \nabla p \cdot \nabla\psi = p'(\psi) |\nabla\psi|^2$$
+$$(\vec{j} \times \vec{B}) \cdot \nabla\psi = \nabla p \cdot \nabla\psi = p'(\psi) \lvert \nabla\psi\rvert^2$$
 
 Computing the cross product explicitly:
-$$\mu_0 (\vec{j} \times \vec{B}) \cdot \nabla\psi = -\frac{1}{R^2} \Delta^* \psi |\nabla\psi|^2 - \frac{F F'(\psi)}{R^2} |\nabla\psi|^2$$
+$$\mu_0 (\vec{j} \times \vec{B}) \cdot \nabla\psi = -\frac{1}{R^2} \Delta^* \psi \lvert \nabla\psi\rvert^2 - \frac{F F'(\psi)}{R^2} \lvert \nabla\psi\rvert^2$$
 
-Equating to $\mu_0 p'(\psi) |\nabla\psi|^2$ and dividing through by $\frac{|\nabla\psi|^2}{R^2}$:
+Equating to $\mu_0 p'(\psi) \lvert \nabla\psi\rvert^2$ and dividing through by $\frac{\lvert \nabla\psi\rvert^2}{R^2}$:
 $$\Delta^* \psi = -\mu_0 R^2 p'(\psi) - F F'(\psi)$$
 
 This is the **Grad-Shafranov equation** (Harold Grad and Vitalii Shafranov, 1958). It is the fundamental non-linear 2D partial differential equation governing 2D axisymmetric toroidal equilibria in tokamaks and spheromaks.

@@ -57,7 +57,7 @@ $$\eta \equiv M_{\rm Pl}^2 \frac{V''}{V}$$
 
 (with $M_{\rm Pl} = (8\pi G)^{-1/2}$ the reduced Planck mass.)
 
-slow-roll holds when both $\epsilon, |\eta| \ll 1$. in this regime:
+slow-roll holds when both $\epsilon, \lvert \eta\rvert \ll 1$. in this regime:
 - $\rho_\phi \approx V$, $p_\phi \approx -V$, $w \approx -1$
 - $H \approx $ const, $a \propto e^{Ht}$
 - inflation continues as long as $\epsilon < 1$

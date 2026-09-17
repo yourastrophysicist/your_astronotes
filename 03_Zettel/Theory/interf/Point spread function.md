@@ -19,7 +19,7 @@ where $*$ denotes convolution. so to recover $I_{\rm true}$, I need to **deconvo
 
 for an ideal aberration-free telescope of aperture $A(\mathbf r)$, the PSF is the **Fraunhofer diffraction pattern** of $A$:
 
-$$\text{PSF}(\mathbf l) \propto |\tilde A(\mathbf l/\lambda)|^2$$
+$$\text{PSF}(\mathbf l) \propto \lvert \tilde A(\mathbf l/\lambda)\rvert^2$$
 
 with $\tilde A$ the 2D Fourier transform of the aperture function and $\mathbf l$ the angular coordinate on the sky.
 

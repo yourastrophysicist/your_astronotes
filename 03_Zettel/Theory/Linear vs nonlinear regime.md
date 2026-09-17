@@ -8,7 +8,7 @@ cosmological perturbations begin **linear** ($\delta \ll 1$, growing as $\delta 
 ## the criterion
 
 linear perturbations satisfy:
-$$\rho(\vec x) = \bar\rho(t)[1 + \delta(\vec x, t)], \quad |\delta| \ll 1$$
+$$\rho(\vec x) = \bar\rho(t)[1 + \delta(\vec x, t)], \quad \lvert \delta\rvert \ll 1$$
 
 linear theory predicts evolution by ODEs (see [Perturbations in an expanding universe](./Perturbations%20in%20an%20expanding%20universe.html)). evolution is solvable analytically.
 

@@ -29,15 +29,15 @@ $$\lim_{\gamma \to 0} \frac{1}{v - (\omega/k) - i\epsilon} = \mathcal{P} \left( 
 
 the dielectric function becomes:
 
-$$D(k, \omega) = 1 - \frac{\omega_{pe}^2}{k^2} \mathcal{P} \int \frac{\partial f_0 / \partial v}{v - \omega/k} \, dv - i\pi \frac{\omega_{pe}^2}{k^2} \left. \frac{\partial f_0}{\partial v} \right|_{v = \omega/k}$$
+$$D(k, \omega) = 1 - \frac{\omega_{pe}^2}{k^2} \mathcal{P} \int \frac{\partial f_0 / \partial v}{v - \omega/k} \, dv - i\pi \frac{\omega_{pe}^2}{k^2} \left. \frac{\partial f_0}{\partial v} \right\rvert_{v = \omega/k}$$
 
 ## the landau damping rate
 
-assuming weak damping $\omega = \omega_r + i \gamma_L$ with $|\gamma_L| \ll \omega_r$:
+assuming weak damping $\omega = \omega_r + i \gamma_L$ with $\lvert \gamma_L\rvert \ll \omega_r$:
 
 $$\omega_r^2 \approx \omega_{pe}^2 + 3 k^2 v_{\text{th}}^2 \quad \text{(Bohm-Gross)}$$
 
-$$\gamma_L = - \frac{\text{Im}[D(k, \omega_r)]}{\partial \text{Re}[D] / \partial \omega} = \left. \frac{\pi \omega_r \omega_{pe}^2}{2 k^2} \frac{\partial f_0}{\partial v} \right|_{v = \omega_r / k}$$
+$$\gamma_L = - \frac{\text{Im}[D(k, \omega_r)]}{\partial \text{Re}[D] / \partial \omega} = \left. \frac{\pi \omega_r \omega_{pe}^2}{2 k^2} \frac{\partial f_0}{\partial v} \right\rvert_{v = \omega_r / k}$$
 
 for a standard Maxwellian distribution, $\partial f_0 / \partial v < 0$ for all $v > 0$, ensuring $\gamma_L < 0$: the wave is damped.
 

@@ -51,7 +51,7 @@ extreme cases give clean intuition:
 ![sphereastro-23.png](../../assets/images/sphereastro-23.png)
 
 - **at the north pole** ($\phi = 90°$): the celestial pole is at the zenith. only half the celestial sphere is visible. all visible stars are circumpolar and visible for 24 h. the celestial equator coincides with the horizon.
-- **at $30°$ S**: a generic latitude. some circumpolar stars (around the south pole), some rise/set. the celestial equator is tilted relative to the horizon by $90° - |\phi| = 60°$.
+- **at $30°$ S**: a generic latitude. some circumpolar stars (around the south pole), some rise/set. the celestial equator is tilted relative to the horizon by $90° - \lvert \phi\rvert = 60°$.
 - **at the equator** ($\phi = 0°$): you see the whole celestial sphere over a year. there are no circumpolar stars. all stars are visible exactly 12 h each day.
 
 ---

@@ -12,7 +12,7 @@ if all stars in a cluster move with the same 3D velocity $\vec V$, then their pr
 at the convergent point, the angle $\theta$ between the cluster's centre and the convergent point can be measured. then:
 - **proper motion** $\mu$ (in arcsec/yr): the angular speed of stars on the sky.
 - **radial velocity** $v_r$ (from spectroscopic Doppler, in km/s): the line-of-sight component of $\vec V$.
-- $|\vec V| \cos\theta = v_r$ and $|\vec V| \sin\theta = v_t = 4.74\,\mu\, d({\rm pc})$ km/s ($4.74$ is the conversion factor for $\mu$ in arcsec/yr and $d$ in pc).
+- $\lvert \vec V\rvert \cos\theta = v_r$ and $\lvert \vec V\rvert \sin\theta = v_t = 4.74\,\mu\, d({\rm pc})$ km/s ($4.74$ is the conversion factor for $\mu$ in arcsec/yr and $d$ in pc).
 
 solve for distance:
 $$\boxed{\, d = \frac{v_r \tan\theta}{4.74\,\mu}\,\text{pc}\,}$$

@@ -15,13 +15,13 @@ $$E_T = -\frac{(b - a)\, h^2}{12} f''(\xi)$$
 
 for some $\xi \in [a, b]$. this is an *exact* error formula, but $\xi$ is unknown. the practical bound:
 
-$$|E_T| \leq \frac{(b - a)^3}{12 N^2} \max_{x \in [a,b]} |f''(x)|$$
+$$\lvert E_T\rvert \leq \frac{(b - a)^3}{12 N^2} \max_{x \in [a,b]} \lvert f''(x)\rvert$$
 
 so error scales as $1/N^2$. doubling the number of points cuts the error by a factor of 4. **second-order accuracy.**
 
 ## the experimental error estimate
 
-in practice I rarely know $\max |f''|$ analytically. instead I use the **Richardson estimate**: compute the trapezoidal integral at $N$ and at $2N$ points, $T_N$ and $T_{2N}$. since the error is $\propto 1/N^2$:
+in practice I rarely know $\max \lvert f''\rvert$ analytically. instead I use the **Richardson estimate**: compute the trapezoidal integral at $N$ and at $2N$ points, $T_N$ and $T_{2N}$. since the error is $\propto 1/N^2$:
 
 $$T - T_N \approx 4 (T - T_{2N})$$
 
@@ -46,7 +46,7 @@ so trapezoidal at $N$ and $2N$, combined, *automatically gives me Simpson's accu
 the standard usage:
 
 1. compute $T_N$ for $N = 2, 4, 8, \ldots$
-2. stop when $|T_{2N} - T_N| < \epsilon$ (the differences are estimating the error)
+2. stop when $\lvert T_{2N} - T_N\rvert < \epsilon$ (the differences are estimating the error)
 3. report $R = T_{2N} + (T_{2N} - T_N)/3$ as the answer (Richardson-extrapolated)
 
 ```python

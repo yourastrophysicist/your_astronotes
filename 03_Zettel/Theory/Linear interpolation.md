@@ -19,7 +19,7 @@ a convex combination with weights summing to 1.
 
 if the underlying function is twice-differentiable, the error of linear interpolation between two adjacent points $h$ apart is
 
-$$|f(x) - L(x)| \leq \frac{h^2}{8} \max |f''|$$
+$$\lvert f(x) - L(x)\rvert \leq \frac{h^2}{8} \max \lvert f''\rvert$$
 
 so $O(h^2)$ — same order as the trapezoidal rule, which is just integrated linear interpolation.
 

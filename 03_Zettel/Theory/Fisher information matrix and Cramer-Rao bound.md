@@ -9,17 +9,17 @@ The Fisher Information Matrix (FIM) quantifies the amount of information an obse
 
 ## The Score Function and Fisher Information
 
-Let $y$ be data generated from a probability distribution $p(y|\theta)$ conditioned on parameters $\theta = (\theta_1, \dots, \theta_k)^T$. The **score function** $S(\theta)$ is the gradient of the log-likelihood:
-$$S(\theta) \equiv \nabla_\theta \ln p(y|\theta)$$
+Let $y$ be data generated from a probability distribution $p(y \mid \theta)$ conditioned on parameters $\theta = (\theta_1, \dots, \theta_k)^T$. The **score function** $S(\theta)$ is the gradient of the log-likelihood:
+$$S(\theta) \equiv \nabla_\theta \ln p(y \mid \theta)$$
 
 The expected value of the score function vanishes identically:
-$$\mathbb{E}[S(\theta)] = \int \left( \nabla_\theta \ln p(y|\theta) \right) p(y|\theta) \, dy = \int \nabla_\theta p(y|\theta) \, dy = \nabla_\theta \int p(y|\theta) \, dy = \nabla_\theta (1) = 0$$
+$$\mathbb{E}[S(\theta)] = \int \left( \nabla_\theta \ln p(y \mid \theta) \right) p(y \mid \theta) \, dy = \int \nabla_\theta p(y \mid \theta) \, dy = \nabla_\theta \int p(y \mid \theta) \, dy = \nabla_\theta (1) = 0$$
 
 The **Fisher Information Matrix** $F \in \mathbb{R}^{k \times k}$ is defined as the covariance matrix of the score function:
-$$F_{ij} \equiv \mathbb{E}\left[ S_i(\theta) S_j(\theta) \right] = \mathbb{E}\left[ \frac{\partial \ln p(y|\theta)}{\partial \theta_i} \frac{\partial \ln p(y|\theta)}{\partial \theta_j} \right]$$
+$$F_{ij} \equiv \mathbb{E}\left[ S_i(\theta) S_j(\theta) \right] = \mathbb{E}\left[ \frac{\partial \ln p(y \mid \theta)}{\partial \theta_i} \frac{\partial \ln p(y \mid \theta)}{\partial \theta_j} \right]$$
 
 Differentiating the identity $\mathbb{E}[S_i] = 0$ reveals the equivalent curvature formulation:
-$$F_{ij} = -\mathbb{E}\left[ \frac{\partial^2 \ln p(y|\theta)}{\partial \theta_i \partial \theta_j} \right]$$
+$$F_{ij} = -\mathbb{E}\left[ \frac{\partial^2 \ln p(y \mid \theta)}{\partial \theta_i \partial \theta_j} \right]$$
 
 The Fisher information measures the expected curvature of the log-likelihood surface around the true parameter value: sharp peaks correspond to abundant information and tiny parameter errors.
 

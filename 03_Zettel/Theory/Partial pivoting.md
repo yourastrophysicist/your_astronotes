@@ -25,7 +25,7 @@ then $m = 10^{-20}$, the multiplications stay tiny, and the answer is correct to
 
 at the start of step $k$:
 
-1. find $i^* \in \{k, k+1, \ldots, N\}$ with $|A_{i^*,k}| = \max_i |A_{ik}|$
+1. find $i^* \in \{k, k+1, \ldots, N\}$ with $\lvert A_{i^*,k}\rvert = \max_i \lvert A_{ik}\rvert$
 2. swap rows $k$ and $i^*$ of both $A$ and $\mathbf{b}$
 3. proceed with normal Gauss elimination
 

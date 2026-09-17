@@ -103,14 +103,14 @@ Using the second Friedmann equation $\ddot{a}/a = -4\pi G(\rho + 3p)/3 = -H^2(1+
 $$\frac{d\Omega_k}{d\ln a} = \Omega_k \Omega (1 + 3w) = \Omega_k (1 - \Omega_k)(1 + 3w)$$
 
 In any universe dominated by ordinary matter ($w=0$) or radiation ($w=1/3$), the factor $(1 + 3w)$ is strictly positive:
-* Radiation era: $1 + 3w = 2 > 0 \implies |1 - \Omega(t)| \propto a^2$
-* Matter era: $1 + 3w = 1 > 0 \implies |1 - \Omega(t)| \propto a$
+* Radiation era: $1 + 3w = 2 > 0 \implies \lvert 1 - \Omega(t)\rvert \propto a^2$
+* Matter era: $1 + 3w = 1 > 0 \implies \lvert 1 - \Omega(t)\rvert \propto a$
 
 This means that $\Omega = 1$ is an **unstable fixed point**. Any infinitesimal displacement away from exact flatness grows rapidly with time:
-$$\frac{|1 - \Omega(t_{\rm Pl})|}{|1 - \Omega(t_0)|} \approx \left(\frac{a_{\rm Pl}}{a_{\rm eq}}\right)^2 \left(\frac{a_{\rm eq}}{a_0}\right) \sim 10^{-60}$$
+$$\frac{\lvert 1 - \Omega(t_{\rm Pl})\rvert}{\lvert 1 - \Omega(t_0)\rvert} \approx \left(\frac{a_{\rm Pl}}{a_{\rm eq}}\right)^2 \left(\frac{a_{\rm eq}}{a_0}\right) \sim 10^{-60}$$
 
-Because observations today constrain $|1 - \Omega(t_0)| < 0.005$, the universe at the Planck scale must have been flat to within one part in $10^{60}$:
-$$|1 - \Omega(t_{\rm Pl})| < 10^{-60}$$
+Because observations today constrain $\lvert 1 - \Omega(t_0)\rvert < 0.005$, the universe at the Planck scale must have been flat to within one part in $10^{60}$:
+$$\lvert 1 - \Omega(t_{\rm Pl})\rvert < 10^{-60}$$
 If $\Omega$ at the Planck epoch had been $1.00000000000001$, the universe would have recollapsed in a few Planck times ($10^{-43}\text{ s}$). If it had been $0.99999999999999$, the universe would have expanded so rapidly that matter would have diluted before stars or galaxies could form. The standard model offers no dynamical reason for this extreme fine-tuning.
 
 ---
@@ -155,7 +155,7 @@ $$\frac{d\Omega_k}{d\ln a} = \Omega_k \Omega (1 + 3w)$$
 when $w < -1/3$, the factor $(1 + 3w) < 0$. Therefore, $\Omega = 1$ ($\Omega_k = 0$) transforms from an unstable repeller into a **stable dynamical attractor**:
 $$\Omega_k(t) \propto a^{-2} \propto e^{-2N}$$
 Starting from any arbitrary initial curvature $\Omega_k \sim \mathcal{O}(1)$, 60 e-folds of inflation drives $\Omega_k$ to:
-$$|\Omega_k| \sim e^{-120} \sim 10^{-52}$$
+$$\lvert \Omega_k\rvert \sim e^{-120} \sim 10^{-52}$$
 Inflation naturally predicts that the universe today must be spatially flat to high precision, completely eliminating the need for fine-tuning.
 
 ### Resolution of the relic problem

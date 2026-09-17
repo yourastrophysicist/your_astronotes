@@ -50,11 +50,11 @@ in pure $\chi^2$ template fitting, catastrophic degeneracies occur frequently (e
 
 Benítez (2000) introduced a Bayesian framework combining the photometric likelihood with an empirical prior on the joint redshift-type distribution conditioned on apparent magnitude $m_0$:
 
-$$p(z, T | \{F_i\}, m_0) = \frac{\mathcal{L}(\{F_i\} | z, T)\, p(z, T | m_0)}{p(\{F_i\} | m_0)}$$
+$$p(z, T \mid \{F_i\}, m_0) = \frac{\mathcal{L}(\{F_i\} \mid z, T)\, p(z, T \mid m_0)}{p(\{F_i\} \mid m_0)}$$
 
 where:
-- $\mathcal{L}(\{F_i\} | z, T) \propto \exp(-\frac{1}{2}\chi^2(z, T))$ is the photometric likelihood.
-- $p(z, T | m_0) = p(T | m_0)\, p(z | T, m_0)$ expresses the physical prior that bright galaxies ($m_0 < 20$) are predominantly low-redshift systems, while very high redshifts ($z > 3$) are exponentially improbable for bright apparent magnitudes.
+- $\mathcal{L}(\{F_i\} \mid z, T) \propto \exp(-\frac{1}{2}\chi^2(z, T))$ is the photometric likelihood.
+- $p(z, T \mid m_0) = p(T \mid m_0)\, p(z \mid T, m_0)$ expresses the physical prior that bright galaxies ($m_0 < 20$) are predominantly low-redshift systems, while very high redshifts ($z > 3$) are exponentially improbable for bright apparent magnitudes.
 - the Benítez prior suppresses catastrophic redshift outliers by more than a factor of $\sim 3$ compared to maximum-likelihood fitting alone.
 
 ---
@@ -63,10 +63,10 @@ where:
 
 photo-$z$ quality is quantified by two standard metrics evaluated against spectroscopic control samples:
 1. **normalized median absolute deviation ($\sigma_{\rm NMAD}$)**:
-   $$\sigma_{\rm NMAD} = 1.48 \times \mathrm{median}\left( \frac{|\Delta z - \mathrm{median}(\Delta z)|}{1 + z_{\rm spec}} \right), \qquad \Delta z \equiv z_{\rm phot} - z_{\rm spec}$$
+   $$\sigma_{\rm NMAD} = 1.48 \times \mathrm{median}\left( \frac{ \mid \Delta z - \mathrm{median}(\Delta z)|}{1 + z_{\rm spec}} \right), \qquad \Delta z \equiv z_{\rm phot} - z_{\rm spec}$$
    state-of-the-art surveys achieve $\sigma_{\rm NMAD} \sim 0.015\text{--}0.03$ for bright galaxies with $\ge 8$ filters, and $\sim 0.05$ for faint surveys.
 2. **catastrophic outlier fraction ($\eta$)**:
-   defined as the fraction of galaxies where $\frac{|\Delta z|}{1 + z_{\rm spec}} > 0.15$. Typically $\eta \sim 1\text{--}5\%$.
+   defined as the fraction of galaxies where $\frac{\lvert \Delta z\rvert}{1 + z_{\rm spec}} > 0.15$. Typically $\eta \sim 1\text{--}5\%$.
 
 #### primary failure mechanisms:
 - **break confusion**: the $4000$ Å break at $z \sim 0.3$ confused with the Lyman break at $z \sim 3$.

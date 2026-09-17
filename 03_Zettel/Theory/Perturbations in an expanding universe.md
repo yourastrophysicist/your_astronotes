@@ -10,11 +10,11 @@ title: "Perturbations in an expanding universe"
 write the metric perturbation as:
 $$g_{\mu\nu} = g_{\mu\nu}^{\rm FLRW} + h_{\mu\nu}$$
 
-with $|h| \ll g^{\rm FLRW}$. similarly the matter:
+with $\lvert h\rvert \ll g^{\rm FLRW}$. similarly the matter:
 $$\rho(\vec x, t) = \bar\rho(t)[1 + \delta(\vec x, t)]$$
 $$\vec v(\vec x, t) = \vec v_{\rm Hubble} + \vec v_{\rm pec}$$
 
-with $|\delta|, |v_{\rm pec}/c| \ll 1$.
+with $\lvert \delta\rvert, \lvert v_{\rm pec}/c\rvert \ll 1$.
 
 ## the equations
 

@@ -71,13 +71,13 @@ $$\boldsymbol{\Omega}, \boldsymbol{\theta}_{\text{nuis}}, \sigma_{\text{int}}, \
 
 By the product rule, the full joint posterior over all parameters and latent variables is
 
-$$p\left(\boldsymbol{\Omega}, \boldsymbol{\theta}_{\text{nuis}}, \sigma_{\text{int}}, \boldsymbol{\theta}_{\text{pop}}, \{\boldsymbol{z}_i^{\text{true}}\}_{i=1}^N \, \middle| \, \{\hat{\boldsymbol{D}}_i\}_{i=1}^N \right) \propto \pi(\boldsymbol{\Omega}) \, \pi(\boldsymbol{\theta}_{\text{nuis}}) \, \pi(\sigma_{\text{int}}) \, \pi(\boldsymbol{\theta}_{\text{pop}}) \prod_{i=1}^N p\left(\hat{\boldsymbol{D}}_i \, \middle| \, \boldsymbol{z}_i^{\text{true}}\right) \, p\left(\boldsymbol{z}_i^{\text{true}} \, \middle| \, \boldsymbol{\Omega}, \boldsymbol{\theta}_{\text{nuis}}, \sigma_{\text{int}}, \boldsymbol{\theta}_{\text{pop}}\right)$$
+$$p\left(\boldsymbol{\Omega}, \boldsymbol{\theta}_{\text{nuis}}, \sigma_{\text{int}}, \boldsymbol{\theta}_{\text{pop}}, \{\boldsymbol{z}_i^{\text{true}}\}_{i=1}^N \, \middle \mid \, \{\hat{\boldsymbol{D}}_i\}_{i=1}^N \right) \propto \pi(\boldsymbol{\Omega}) \, \pi(\boldsymbol{\theta}_{\text{nuis}}) \, \pi(\sigma_{\text{int}}) \, \pi(\boldsymbol{\theta}_{\text{pop}}) \prod_{i=1}^N p\left(\hat{\boldsymbol{D}}_i \, \middle \mid \, \boldsymbol{z}_i^{\text{true}}\right) \, p\left(\boldsymbol{z}_i^{\text{true}} \, \middle \mid \, \boldsymbol{\Omega}, \boldsymbol{\theta}_{\text{nuis}}, \sigma_{\text{int}}, \boldsymbol{\theta}_{\text{pop}}\right)$$
 
 ### Level 3 - Observational Likelihood
 
 Conditional on the true latent values $\boldsymbol{z}_i^{\text{true}}$, the observed data vector $\hat{\boldsymbol{D}}_i = (\hat{m}_{Bi}, \hat{x}_{1i}, \hat{c}_i)^T$ follows a multivariate Gaussian distribution governed by the known observational covariance matrix $\boldsymbol{C}_i$
 
-$$p(\hat{\boldsymbol{D}}_i | \boldsymbol{z}_i^{\text{true}}) = \frac{1}{(2\pi)^{3/2} \sqrt{\det \boldsymbol{C}_i}} \exp\left( -\frac{1}{2} (\hat{\boldsymbol{D}}_i - \boldsymbol{D}_i^{\text{true}})^T \boldsymbol{C}_i^{-1} (\hat{\boldsymbol{D}}_i - \boldsymbol{D}_i^{\text{true}}) \right)$$
+$$p(\hat{\boldsymbol{D}}_i \mid \boldsymbol{z}_i^{\text{true}}) = \frac{1}{(2\pi)^{3/2} \sqrt{\det \boldsymbol{C}_i}} \exp\left( -\frac{1}{2} (\hat{\boldsymbol{D}}_i - \boldsymbol{D}_i^{\text{true}})^T \boldsymbol{C}_i^{-1} (\hat{\boldsymbol{D}}_i - \boldsymbol{D}_i^{\text{true}}) \right)$$
 
 where the true apparent observables are linked to the true latent variables and cosmology by
 
@@ -89,11 +89,11 @@ The true latent properties of the supernova population are modeled through under
 
 The true absolute magnitude $M_i^{\text{true}}$ is centered on the standardized absolute magnitude with intrinsic Gaussian scatter $\sigma_{\text{int}}$
 
-$$p(M_i^{\text{true}} | x_{1i}^{\text{true}}, c_i^{\text{true}}, \boldsymbol{\theta}_{\text{nuis}}, \sigma_{\text{int}}) = \frac{1}{\sqrt{2\pi\sigma_{\text{int}}^2}} \exp\left( -\frac{\left[ M_i^{\text{true}} - (M_0 - \alpha x_{1i}^{\text{true}} + \beta c_i^{\text{true}}) \right]^2}{2\sigma_{\text{int}}^2} \right)$$
+$$p(M_i^{\text{true}} \mid x_{1i}^{\text{true}}, c_i^{\text{true}}, \boldsymbol{\theta}_{\text{nuis}}, \sigma_{\text{int}}) = \frac{1}{\sqrt{2\pi\sigma_{\text{int}}^2}} \exp\left( -\frac{\left[ M_i^{\text{true}} - (M_0 - \alpha x_{1i}^{\text{true}} + \beta c_i^{\text{true}}) \right]^2}{2\sigma_{\text{int}}^2} \right)$$
 
 The true population distributions of stretch and color are modeled as Gaussians (or asymmetric split-normals) with population parameters $\boldsymbol{\theta}_{\text{pop}} = (\bar{x}_*, \sigma_{x*}, \bar{c}_*, \sigma_{c*})$
 
-$$p(x_{1i}^{\text{true}} | \bar{x}_*, \sigma_{x*}) = \mathcal{N}(\bar{x}_*, \sigma_{x*}^2) \qquad \text{and} \qquad p(c_i^{\text{true}} | \bar{c}_*, \sigma_{c*}) = \mathcal{N}(\bar{c}_*, \sigma_{c*}^2)$$
+$$p(x_{1i}^{\text{true}} \mid \bar{x}_*, \sigma_{x*}) = \mathcal{N}(\bar{x}_*, \sigma_{x*}^2) \qquad \text{and} \qquad p(c_i^{\text{true}} \mid \bar{c}_*, \sigma_{c*}) = \mathcal{N}(\bar{c}_*, \sigma_{c*}^2)$$
 
 ---
 
@@ -135,7 +135,7 @@ Adding the observational covariance $\boldsymbol{C}_i$ yields the complete effec
 
 The marginalized likelihood for supernova $i$ integrates to the closed-form analytic expression
 
-$$p\left(\hat{\boldsymbol{D}}_i \, \middle| \, \boldsymbol{\Omega}, \boldsymbol{\theta}_{\text{nuis}}, \sigma_{\text{int}}, \boldsymbol{\theta}_{\text{pop}}\right) = \frac{1}{(2\pi)^{3/2} \sqrt{\det \boldsymbol{\Sigma}_i}} \exp\left( -\frac{1}{2} (\hat{\boldsymbol{D}}_i - \boldsymbol{m}_i)^T \boldsymbol{\Sigma}_i^{-1} (\hat{\boldsymbol{D}}_i - \boldsymbol{m}_i) \right)$$
+$$p\left(\hat{\boldsymbol{D}}_i \, \middle \mid \, \boldsymbol{\Omega}, \boldsymbol{\theta}_{\text{nuis}}, \sigma_{\text{int}}, \boldsymbol{\theta}_{\text{pop}}\right) = \frac{1}{(2\pi)^{3/2} \sqrt{\det \boldsymbol{\Sigma}_i}} \exp\left( -\frac{1}{2} (\hat{\boldsymbol{D}}_i - \boldsymbol{m}_i)^T \boldsymbol{\Sigma}_i^{-1} (\hat{\boldsymbol{D}}_i - \boldsymbol{m}_i) \right)$$
 
 This reduction shrinks the MCMC parameter space from thousands of latent coordinates to just a handful of global hyperparameters $(\boldsymbol{\Omega}, \alpha, \beta, M_0, \sigma_{\text{int}}, \bar{x}_*, \sigma_{x*}, \bar{c}_*, \sigma_{c*})$, allowing rapid, exact sampling.
 
@@ -149,17 +149,17 @@ Let $S_i = 1$ denote the binary proposition that supernova $i$ satisfied all tel
 
 By Bayes' rule, the likelihood conditional on detection is
 
-$$p(\hat{\boldsymbol{D}}_i | \boldsymbol{\theta}, S_i = 1) = \frac{p(S_i = 1 | \hat{\boldsymbol{D}}_i) \, p(\hat{\boldsymbol{D}}_i | \boldsymbol{\theta})}{P(S_i = 1 | \boldsymbol{\theta})}$$
+$$p(\hat{\boldsymbol{D}}_i \mid \boldsymbol{\theta}, S_i = 1) = \frac{p(S_i = 1 \mid \hat{\boldsymbol{D}}_i) \, p(\hat{\boldsymbol{D}}_i \mid \boldsymbol{\theta})}{P(S_i = 1 \mid \boldsymbol{\theta})}$$
 
-where $p(S_i = 1 | \hat{\boldsymbol{D}}_i)$ is the detection efficiency (survey selection function) as a function of measured magnitude and color.
+where $p(S_i = 1 \mid \hat{\boldsymbol{D}}_i)$ is the detection efficiency (survey selection function) as a function of measured magnitude and color.
 
-The denominator $P(S_i = 1 | \boldsymbol{\theta})$ represents the expected fraction of the underlying supernova population that would be detected under cosmological parameters $\boldsymbol{\theta}$
+The denominator $P(S_i = 1 \mid \boldsymbol{\theta})$ represents the expected fraction of the underlying supernova population that would be detected under cosmological parameters $\boldsymbol{\theta}$
 
-$$P(S_i = 1 | \boldsymbol{\theta}) = \int p(S_i = 1 | \hat{\boldsymbol{D}}) \, p(\hat{\boldsymbol{D}} | \boldsymbol{\theta}) \, d\hat{\boldsymbol{D}}$$
+$$P(S_i = 1 \mid \boldsymbol{\theta}) = \int p(S_i = 1 \mid \hat{\boldsymbol{D}}) \, p(\hat{\boldsymbol{D}} \mid \boldsymbol{\theta}) \, d\hat{\boldsymbol{D}}$$
 
 The total log-likelihood for the survey catalog is
 
-$$\ln \mathcal{L}_{\text{total}}(\boldsymbol{\theta}) = \sum_{i=1}^N \ln p(\hat{\boldsymbol{D}}_i | \boldsymbol{\theta}) - \sum_{i=1}^N \ln P(S_i = 1 | \boldsymbol{\theta}) + \sum_{i=1}^N \ln p(S_i = 1 | \hat{\boldsymbol{D}}_i)$$
+$$\ln \mathcal{L}_{\text{total}}(\boldsymbol{\theta}) = \sum_{i=1}^N \ln p(\hat{\boldsymbol{D}}_i \mid \boldsymbol{\theta}) - \sum_{i=1}^N \ln P(S_i = 1 \mid \boldsymbol{\theta}) + \sum_{i=1}^N \ln p(S_i = 1 \mid \hat{\boldsymbol{D}}_i)$$
 
 The denominator normalization term penalizes parameter configurations that predict a massive population of bright detectable supernovae where none were observed. This term naturally debiases the fitted cosmological parameters, removing spurious acceleration signals caused by flux truncation.
 

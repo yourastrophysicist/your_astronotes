@@ -23,13 +23,13 @@ $$\mathcal{L}(H) \propto H^k (1 - H)^{N - k}$$
 
 Under a uniform prior $\pi(H) = \mathcal{U}(0, 1) = \operatorname{Beta}(1, 1)$, the posterior is an exact Beta distribution
 
-$$p(H | k, N) = \operatorname{Beta}(k + 1, \, N - k + 1) = \frac{(N + 1)!}{k! (N - k)!} H^k (1 - H)^{N - k}$$
+$$p(H \mid k, N) = \operatorname{Beta}(k + 1, \, N - k + 1) = \frac{(N + 1)!}{k! (N - k)!} H^k (1 - H)^{N - k}$$
 
 The posterior mean is $\langle H \rangle = \frac{k + 1}{N + 2}$, and its variance is $\operatorname{Var}(H) = \frac{(k + 1)(N - k + 1)}{(N + 2)^2 (N + 3)} \approx \frac{H(1 - H)}{N}$.
 
 Under an informative Gaussian prior truncated to $[0, 1]$, $\pi(H) \propto \exp\left( -\frac{(H - 0.5)^2}{2(0.1)^2} \right)$, the posterior is
 
-$$p(H | k, N) \propto H^k (1 - H)^{N - k} \exp\left( -\frac{(H - 0.5)^2}{0.02} \right)$$
+$$p(H \mid k, N) \propto H^k (1 - H)^{N - k} \exp\left( -\frac{(H - 0.5)^2}{0.02} \right)$$
 
 As $N \to 1000$, the likelihood term dominates both posteriors. By the Bernstein-von Mises theorem, the log-likelihood grows as $\mathcal{O}(N)$, whereas the prior contributes an $\mathcal{O}(1)$ term. Both posteriors converge to an identical Gaussian distribution centered at the true value $H = 0.3$ with standard deviation $\sigma_N = \sqrt{\frac{0.3 \times 0.7}{1000}} \approx 0.0145$.
 
@@ -94,27 +94,27 @@ Let $S \in \{T, F\}$ denote the truth of the proposition, with prior $P(S = T) =
 First update (Politician A asserts $S = T$).
 Let $E_A$ denote the event that Politician A declares $S = T$.
 Politician A tells the truth with probability $P(A_T) = 4/5 = 0.8$.
-- If $S = T$, A speaks the truth when asserting $T$, so $P(E_A | S = T) = P(A_T) = 0.8$.
-- If $S = F$, A lies when asserting $T$, so $P(E_A | S = F) = 1 - P(A_T) = 0.2$.
+- If $S = T$, A speaks the truth when asserting $T$, so $P(E_A \mid S = T) = P(A_T) = 0.8$.
+- If $S = F$, A lies when asserting $T$, so $P(E_A \mid S = F) = 1 - P(A_T) = 0.2$.
 
 By Bayes' theorem
 
-$$P(S = T | E_A) = \frac{P(E_A | S = T) P(S = T)}{P(E_A | S = T) P(S = T) + P(E_A | S = F) P(S = F)} = \frac{0.8 \times 0.5}{(0.8 \times 0.5) + (0.2 \times 0.5)} = \frac{0.4}{0.4 + 0.1} = \frac{4}{5} = 0.8$$
+$$P(S = T \mid E_A) = \frac{P(E_A \mid S = T) P(S = T)}{P(E_A \mid S = T) P(S = T) + P(E_A \mid S = F) P(S = F)} = \frac{0.8 \times 0.5}{(0.8 \times 0.5) + (0.2 \times 0.5)} = \frac{0.4}{0.4 + 0.1} = \frac{4}{5} = 0.8$$
 
 Second update (Politician B also asserts $S = T$).
 Now $P(S = T)$ from the first stage acts as the prior for the second observation $E_B$.
 Politician B lies with probability $P(B_L) = 3/4 = 0.75$. Therefore, Politician B tells the truth with probability $P(B_T) = 1 - 0.75 = 0.25$.
 Assuming B's declaration is conditionally independent of A given the true state of $S$
-- If $S = T$, B speaks the truth when asserting $T$, so $P(E_B | S = T) = P(B_T) = 0.25$.
-- If $S = F$, B lies when asserting $T$, so $P(E_B | S = F) = P(B_L) = 0.75$.
+- If $S = T$, B speaks the truth when asserting $T$, so $P(E_B \mid S = T) = P(B_T) = 0.25$.
+- If $S = F$, B lies when asserting $T$, so $P(E_B \mid S = F) = P(B_L) = 0.75$.
 
 Applying Bayes' theorem
 
-$$P(S = T | E_A, E_B) = \frac{P(E_B | S = T) P(S = T | E_A)}{P(E_B | S = T) P(S = T | E_A) + P(E_B | S = F) P(S = F | E_A)}$$
+$$P(S = T \mid E_A, E_B) = \frac{P(E_B \mid S = T) P(S = T \mid E_A)}{P(E_B \mid S = T) P(S = T \mid E_A) + P(E_B \mid S = F) P(S = F \mid E_A)}$$
 
 Substitute the numerical values
 
-$$P(S = T | E_A, E_B) = \frac{0.25 \times 0.8}{(0.25 \times 0.8) + (0.75 \times 0.2)} = \frac{0.20}{0.20 + 0.15} = \frac{0.20}{0.35} = \frac{4}{7} \approx 0.5714$$
+$$P(S = T \mid E_A, E_B) = \frac{0.25 \times 0.8}{(0.25 \times 0.8) + (0.75 \times 0.2)} = \frac{0.20}{0.20 + 0.15} = \frac{0.20}{0.35} = \frac{4}{7} \approx 0.5714$$
 
 Conclusion. Because Politician B is habitual in lying ($75\%$ lie rate), his agreement with Politician A actually decreases our belief in proposition $S$ from $0.80$ down to $0.5714$.
 
@@ -135,16 +135,16 @@ Define the events
 
 Known probabilities
 - Population prevalence (base rate) - $P(D) = 0.01 \implies P(\bar{D}) = 0.99$.
-- False negative rate - $P(- | D) = 0.05 \implies$ Test sensitivity $P(+ | D) = 1 - 0.05 = 0.95$.
-- False positive rate - $P(+ | \bar{D}) = 0.05 \implies$ Test specificity $P(- | \bar{D}) = 1 - 0.05 = 0.95$.
+- False negative rate - $P(- \mid D) = 0.05 \implies$ Test sensitivity $P(+ \mid D) = 1 - 0.05 = 0.95$.
+- False positive rate - $P(+ \mid \bar{D}) = 0.05 \implies$ Test specificity $P(- \mid \bar{D}) = 1 - 0.05 = 0.95$.
 
 Applying Bayes' theorem
 
-$$P(D | +) = \frac{P(+ | D) P(D)}{P(+ | D) P(D) + P(+ | \bar{D}) P(\bar{D})}$$
+$$P(D \mid +) = \frac{P(+ \mid D) P(D)}{P(+ \mid D) P(D) + P(+ \mid \bar{D}) P(\bar{D})}$$
 
 Substitute the numerical values
 
-$$P(D | +) = \frac{0.95 \times 0.01}{(0.95 \times 0.01) + (0.05 \times 0.99)} = \frac{0.0095}{0.0095 + 0.0495} = \frac{0.0095}{0.0590} = \frac{95}{590} = \frac{19}{118} \approx 0.1610$$
+$$P(D \mid +) = \frac{0.95 \times 0.01}{(0.95 \times 0.01) + (0.05 \times 0.99)} = \frac{0.0095}{0.0095 + 0.0495} = \frac{0.0095}{0.0590} = \frac{95}{590} = \frac{19}{118} \approx 0.1610$$
 
 Conclusion. Despite a test accuracy of $95\%$, the probability of actually having the disease given a positive test is only approximately $16.1\%$. The rare base rate ($1\%$) means false positives outnumber true positives by more than five to one.
 
@@ -186,7 +186,7 @@ The integral inside the brackets is the normalization of a Gaussian density, eva
 
 Method 2 (Orthogonal Diagonalization).
 Because $\boldsymbol{C}$ is real and symmetric, there exists an orthogonal matrix $\boldsymbol{O}$ such that $\boldsymbol{O}^T \boldsymbol{O} = \boldsymbol{I}$ and $\boldsymbol{C} = \boldsymbol{O} \boldsymbol{\Lambda} \boldsymbol{O}^T$, where $\boldsymbol{\Lambda} = \operatorname{diag}(\lambda_1, \dots, \lambda_n)$.
-Define the rotated coordinates $\boldsymbol{u} = \boldsymbol{O}^T (\boldsymbol{x} - \boldsymbol{\mu})$. The Jacobian is $|\det \boldsymbol{O}| = 1$.
+Define the rotated coordinates $\boldsymbol{u} = \boldsymbol{O}^T (\boldsymbol{x} - \boldsymbol{\mu})$. The Jacobian is $\lvert \det \boldsymbol{O}\rvert = 1$.
 The quadratic form becomes $(\boldsymbol{x} - \boldsymbol{\mu})^T \boldsymbol{C}^{-1} (\boldsymbol{x} - \boldsymbol{\mu}) = \boldsymbol{u}^T \boldsymbol{\Lambda}^{-1} \boldsymbol{u} = \sum_{j=1}^n \frac{u_j^2}{\lambda_j}$.
 Define rotated wavevectors $\boldsymbol{q} = \boldsymbol{O}^T \boldsymbol{k}$, so $\boldsymbol{k}^T (\boldsymbol{x} - \boldsymbol{\mu}) = \boldsymbol{q}^T \boldsymbol{u} = \sum_{j=1}^n q_j u_j$.
 The $n$-dimensional integral factorizes into $n$ independent 1D integrals
@@ -207,7 +207,7 @@ Combining with $\exp(i \boldsymbol{k}^T \boldsymbol{\mu})$ establishes the resul
 ### Statement
 Show how the characteristic function generates moments via differentiation
 
-$$\langle x_{\alpha_1} \dots x_{\alpha_m} \rangle = \left. \frac{\partial^m \phi(\boldsymbol{k})}{\partial (i k_{\alpha_1}) \dots \partial (i k_{\alpha_m})} \right|_{\boldsymbol{k} = \mathbf{0}}$$
+$$\langle x_{\alpha_1} \dots x_{\alpha_m} \rangle = \left. \frac{\partial^m \phi(\boldsymbol{k})}{\partial (i k_{\alpha_1}) \dots \partial (i k_{\alpha_m})} \right\rvert_{\boldsymbol{k} = \mathbf{0}}$$
 
 Apply this to $\mathcal{N}(\boldsymbol{\mu}, \boldsymbol{\Sigma})$ to find its mean and covariance.
 
@@ -227,7 +227,7 @@ $$\frac{\partial \phi(\boldsymbol{k})}{\partial k_\alpha} = \left[ i \mu_\alpha 
 
 Dividing by $i$ and evaluating at $\boldsymbol{k} = \mathbf{0}$
 
-$$\langle x_\alpha \rangle = \left. \frac{1}{i} \frac{\partial \phi}{\partial k_\alpha} \right|_{\boldsymbol{k} = \mathbf{0}} = \frac{1}{i} (i \mu_\alpha) \phi(\mathbf{0}) = \mu_\alpha$$
+$$\langle x_\alpha \rangle = \left. \frac{1}{i} \frac{\partial \phi}{\partial k_\alpha} \right\rvert_{\boldsymbol{k} = \mathbf{0}} = \frac{1}{i} (i \mu_\alpha) \phi(\mathbf{0}) = \mu_\alpha$$
 
 Second derivative (Covariance)
 
@@ -293,14 +293,14 @@ Marginalized $95\%$ credible intervals ($z_{0.975} = 1.95996 \approx 1.96$)
 - For $X_2$ - $\mu_2 \pm 1.96 \sigma_2 = 2 \pm 1.96(0.9) = [0.236, \, 3.764]$.
 
 Conditional $95\%$ credible intervals fixed at the mean ($X_2 = \mu_2 = 2$, $X_1 = \mu_1 = -4$)
-- Conditioning $X_1 | X_2 = 2$
-  $\mu_{1|2} = \mu_1 + \frac{\Sigma_{12}}{\Sigma_{22}}(X_2 - \mu_2) = -4 + 0 = -4$.
-  $\sigma_{1|2}^2 = \Sigma_{11} - \frac{\Sigma_{12}^2}{\Sigma_{22}} = 1.44 - \frac{(-0.702)^2}{0.81} = 1.44 - 0.6084 = 0.8316 \implies \sigma_{1|2} \approx 0.9119$.
-  $95\%$ interval for $X_1 | X_2$ is $-4 \pm 1.96(0.9119) = [-5.787, \, -2.213]$.
-- Conditioning $X_2 | X_1 = -4$
-  $\mu_{2|1} = \mu_2 + \frac{\Sigma_{21}}{\Sigma_{11}}(X_1 - \mu_1) = 2 + 0 = 2$.
-  $\sigma_{2|1}^2 = \Sigma_{22} - \frac{\Sigma_{12}^2}{\Sigma_{11}} = 0.81 - \frac{(-0.702)^2}{1.44} = 0.81 - 0.342225 = 0.467775 \implies \sigma_{2|1} \approx 0.6839$.
-  $95\%$ interval for $X_2 | X_1$ is $2 \pm 1.96(0.6839) = [0.659, \, 3.341]$.
+- Conditioning $X_1 \mid X_2 = 2$
+  $\mu_{1\mid2} = \mu_1 + \frac{\Sigma_{12}}{\Sigma_{22}}(X_2 - \mu_2) = -4 + 0 = -4$.
+  $\sigma_{1\mid2}^2 = \Sigma_{11} - \frac{\Sigma_{12}^2}{\Sigma_{22}} = 1.44 - \frac{(-0.702)^2}{0.81} = 1.44 - 0.6084 = 0.8316 \implies \sigma_{1\mid2} \approx 0.9119$.
+  $95\%$ interval for $X_1 \mid X_2$ is $-4 \pm 1.96(0.9119) = [-5.787, \, -2.213]$.
+- Conditioning $X_2 \mid X_1 = -4$
+  $\mu_{2\mid1} = \mu_2 + \frac{\Sigma_{21}}{\Sigma_{11}}(X_1 - \mu_1) = 2 + 0 = 2$.
+  $\sigma_{2\mid1}^2 = \Sigma_{22} - \frac{\Sigma_{12}^2}{\Sigma_{11}} = 0.81 - \frac{(-0.702)^2}{1.44} = 0.81 - 0.342225 = 0.467775 \implies \sigma_{2\mid1} \approx 0.6839$.
+  $95\%$ interval for $X_2 \mid X_1$ is $2 \pm 1.96(0.6839) = [0.659, \, 3.341]$.
 
 Notice that conditioning significantly tightens the credible intervals due to the correlation $\rho = -0.65$.
 
@@ -435,7 +435,7 @@ $$\operatorname{Cov}(\hat{\omega}, \hat{b}) = \sigma^2 (\boldsymbol{T} \boldsymb
 ### Statement
 Consider data $d_i = \beta_0 + \sum_{j=1}^p \beta_j x_{ij} + \epsilon_i$ with independent Gaussian noise $\epsilon_i \sim \mathcal{N}(0, \sigma^2)$. The residual sum of squares is $\operatorname{RSS} \equiv \sum_{i=1}^n (d_i - \beta_0 - \sum_{j=1}^p \beta_j x_{ij})^2$.
 Show that
-1. An independent Laplace prior $p(\beta_j) = \frac{1}{2b}\exp(-|\beta_j|/b)$ leads to LASSO regression with $L_1$ penalty $\frac{2\sigma^2}{b} \sum_{j=1}^p |\beta_j|$.
+1. An independent Laplace prior $p(\beta_j) = \frac{1}{2b}\exp(- \mid \beta_j \mid /b)$ leads to LASSO regression with $L_1$ penalty $\frac{2\sigma^2}{b} \sum_{j=1}^p \lvert \beta_j\rvert$.
 2. An independent Gaussian prior $p(\beta_j) = \mathcal{N}(0, c)$ leads to Ridge regression with $L_2$ penalty $\frac{\sigma^2}{c} \sum_{j=1}^p \beta_j^2$.
 
 ### Analytical Solution
@@ -443,22 +443,22 @@ The log-likelihood for $n$ independent Gaussian measurements is
 
 $$\ln \mathcal{L}(\boldsymbol{\beta}) = -\frac{n}{2}\ln(2\pi\sigma^2) - \frac{1}{2\sigma^2} \operatorname{RSS}$$
 
-The MAP estimator maximizes $\ln p(\boldsymbol{\beta} | \boldsymbol{d}) = \ln \mathcal{L}(\boldsymbol{\beta}) + \ln \pi(\boldsymbol{\beta})$.
-Equivalently, it minimizes $-2\sigma^2 \ln p(\boldsymbol{\beta} | \boldsymbol{d}) = \operatorname{RSS} - 2\sigma^2 \ln \pi(\boldsymbol{\beta})$.
+The MAP estimator maximizes $\ln p(\boldsymbol{\beta} \mid \boldsymbol{d}) = \ln \mathcal{L}(\boldsymbol{\beta}) + \ln \pi(\boldsymbol{\beta})$.
+Equivalently, it minimizes $-2\sigma^2 \ln p(\boldsymbol{\beta} \mid \boldsymbol{d}) = \operatorname{RSS} - 2\sigma^2 \ln \pi(\boldsymbol{\beta})$.
 
 Part (a) Laplace Prior (LASSO).
-The joint prior is $\pi(\boldsymbol{\beta}) = \prod_{j=1}^p \frac{1}{2b} \exp\left( -\frac{|\beta_j|}{b} \right)$.
+The joint prior is $\pi(\boldsymbol{\beta}) = \prod_{j=1}^p \frac{1}{2b} \exp\left( -\frac{\lvert \beta_j\rvert}{b} \right)$.
 Taking the natural logarithm
 
-$$\ln \pi(\boldsymbol{\beta}) = -p \ln(2b) - \frac{1}{b} \sum_{j=1}^p |\beta_j|$$
+$$\ln \pi(\boldsymbol{\beta}) = -p \ln(2b) - \frac{1}{b} \sum_{j=1}^p \lvert \beta_j\rvert$$
 
 Substitute into the objective function
 
-$$-2\sigma^2 \ln p(\boldsymbol{\beta} | \boldsymbol{d}) = \operatorname{RSS} - 2\sigma^2 \left[ -p\ln(2b) - \frac{1}{b}\sum_{j=1}^p |\beta_j| \right] = \operatorname{RSS} + \frac{2\sigma^2}{b} \sum_{j=1}^p |\beta_j| + \text{const}$$
+$$-2\sigma^2 \ln p(\boldsymbol{\beta} \mid \boldsymbol{d}) = \operatorname{RSS} - 2\sigma^2 \left[ -p\ln(2b) - \frac{1}{b}\sum_{j=1}^p \lvert \beta_j\rvert \right] = \operatorname{RSS} + \frac{2\sigma^2}{b} \sum_{j=1}^p \lvert \beta_j\rvert + \text{const}$$
 
 Minimizing this expression proves that
 
-$$\hat{\boldsymbol{\beta}}_{\text{MAP}} = \operatorname{argmin}_{\boldsymbol{\beta}} \left[ \operatorname{RSS} + \frac{2\sigma^2}{b} \sum_{j=1}^p |\beta_j| \right]$$
+$$\hat{\boldsymbol{\beta}}_{\text{MAP}} = \operatorname{argmin}_{\boldsymbol{\beta}} \left[ \operatorname{RSS} + \frac{2\sigma^2}{b} \sum_{j=1}^p \lvert \beta_j\rvert \right]$$
 
 Part (b) Gaussian Prior (Ridge).
 The joint prior is $\pi(\boldsymbol{\beta}) = \prod_{j=1}^p \frac{1}{\sqrt{2\pi c}} \exp\left( -\frac{\beta_j^2}{2c} \right)$.
@@ -468,7 +468,7 @@ $$\ln \pi(\boldsymbol{\beta}) = -\frac{p}{2}\ln(2\pi c) - \frac{1}{2c} \sum_{j=1
 
 Substitute into the objective function
 
-$$-2\sigma^2 \ln p(\boldsymbol{\beta} | \boldsymbol{d}) = \operatorname{RSS} - 2\sigma^2 \left[ -\frac{p}{2}\ln(2\pi c) - \frac{1}{2c} \sum_{j=1}^p \beta_j^2 \right] = \operatorname{RSS} + \frac{\sigma^2}{c} \sum_{j=1}^p \beta_j^2 + \text{const}$$
+$$-2\sigma^2 \ln p(\boldsymbol{\beta} \mid \boldsymbol{d}) = \operatorname{RSS} - 2\sigma^2 \left[ -\frac{p}{2}\ln(2\pi c) - \frac{1}{2c} \sum_{j=1}^p \beta_j^2 \right] = \operatorname{RSS} + \frac{\sigma^2}{c} \sum_{j=1}^p \beta_j^2 + \text{const}$$
 
 Minimizing this expression proves that
 
@@ -515,8 +515,8 @@ You observe an evenly spaced time series $D = \{d_1, \dots, d_N\}$ at times $t_i
 Model $d_i = B_1 \cos(\omega t_i) + B_2 \sin(\omega t_i) + n_i$, with independent Gaussian noise $n_i \sim \mathcal{N}(0, \sigma^2)$.
 1. Show that the likelihood can be written as $\mathcal{L} \propto \exp\left( -\frac{Q}{2\sigma^2} \right)$ with $Q = N \overline{d^2} - 2[B_1 R(\omega) + B_2 I(\omega)] + B_1^2 c + B_2^2 s$.
 2. Show that $s$ and $c$ are well approximated as $\omega$-independent constants in the high-frequency limit.
-3. Marginalize over amplitudes $B_1, B_2$ under uniform priors to find the marginalized posterior $P(\omega | D)$.
-4. Show that the MAP estimate of $\omega$ maximizes the discrete Fourier power spectrum (periodogram) $C(\omega) = \frac{2}{N} |\sum_k d_k e^{-i\omega t_k}|^2$.
+3. Marginalize over amplitudes $B_1, B_2$ under uniform priors to find the marginalized posterior $P(\omega \mid D)$.
+4. Show that the MAP estimate of $\omega$ maximizes the discrete Fourier power spectrum (periodogram) $C(\omega) = \frac{2}{N} \lvert \sum_k d_k e^{-i\omega t_k}\rvert^2$.
 
 ### Analytical Solution
 
@@ -559,7 +559,7 @@ Both are $\omega$-independent constants.
 Part 3. Marginalization over Amplitudes $B_1$ and $B_2$.
 Assuming uniform priors $\pi(B_1, B_2, \omega) \propto \pi(\omega)$, the marginalized posterior for $\omega$ is
 
-$$p(\omega | D) \propto \pi(\omega) \int_{-\infty}^\infty dB_1 \int_{-\infty}^\infty dB_2 \exp\left( -\frac{Q}{2\sigma^2} \right)$$
+$$p(\omega \mid D) \propto \pi(\omega) \int_{-\infty}^\infty dB_1 \int_{-\infty}^\infty dB_2 \exp\left( -\frac{Q}{2\sigma^2} \right)$$
 
 Because the cross-term vanished, the double integral factorizes into two decoupled Gaussian integrals
 
@@ -569,7 +569,7 @@ $$\int_{-\infty}^\infty \exp\left( -\frac{s B_2^2 - 2 B_2 I(\omega)}{2\sigma^2} 
 
 Combining terms and noting that $\exp\left(-\frac{N\overline{d^2}}{2\sigma^2}\right)$ is independent of $\omega$
 
-$$p(\omega | D) \propto \frac{1}{\sqrt{c s}} \exp\left( \frac{\frac{R^2(\omega)}{c} + \frac{I^2(\omega)}{s}}{2\sigma^2} \right)$$
+$$p(\omega \mid D) \propto \frac{1}{\sqrt{c s}} \exp\left( \frac{\frac{R^2(\omega)}{c} + \frac{I^2(\omega)}{s}}{2\sigma^2} \right)$$
 
 Part 4. Connection to Discrete Fourier Transform and Periodogram.
 Substitute $c \approx s \approx N/2$ into the exponent
@@ -582,15 +582,15 @@ $$\sum_{k=1}^N d_k \exp(-i \omega t_k) = \sum_{k=1}^N d_k \cos(\omega t_k) - i \
 
 The modulus squared is
 
-$$\left| \sum_{k=1}^N d_k \exp(-i \omega t_k) \right|^2 = R^2(\omega) + I^2(\omega)$$
+$$\left\lvert \sum_{k=1}^N d_k \exp(-i \omega t_k) \right\rvert^2 = R^2(\omega) + I^2(\omega)$$
 
 Therefore, the periodogram $C(\omega)$ is identically
 
-$$C(\omega) \equiv \frac{2}{N} \left| \sum_{k=1}^N d_k \exp(-i \omega t_k) \right|^2 = \frac{R^2(\omega)}{c} + \frac{I^2(\omega)}{s}$$
+$$C(\omega) \equiv \frac{2}{N} \left\lvert \sum_{k=1}^N d_k \exp(-i \omega t_k) \right\rvert^2 = \frac{R^2(\omega)}{c} + \frac{I^2(\omega)}{s}$$
 
 The marginalized posterior for $\omega$ simplifies to
 
-$$p(\omega | D) \propto \exp\left( \frac{C(\omega)}{2\sigma^2} \right)$$
+$$p(\omega \mid D) \propto \exp\left( \frac{C(\omega)}{2\sigma^2} \right)$$
 
 Because the exponential is a strictly monotonically increasing function, the Maximum A Posteriori (MAP) estimate of the frequency $\hat{\omega}$ corresponds precisely to the frequency that maximizes the Schuster periodogram / power spectral density $C(\omega)$.
 

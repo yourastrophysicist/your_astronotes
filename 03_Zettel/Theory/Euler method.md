@@ -25,7 +25,7 @@ three problems:
 
 1. **first-order accuracy**: error per step is $O(h^2)$, global error is $O(h)$. halving $h$ halves the error. compare RK4: halving $h$ cuts error by 16
 2. **secular energy drift**: for Hamiltonian systems (orbits, oscillators), Euler systematically gains energy each step. an orbit spirals outward over time. this is *not* a roundoff issue; it is a structural property of the algorithm
-3. **stability**: for stiff systems, Euler requires very small timesteps to avoid blowup. the stability region of explicit Euler is the disk $|1 + h\lambda| \leq 1$ in the complex plane, which is small
+3. **stability**: for stiff systems, Euler requires very small timesteps to avoid blowup. the stability region of explicit Euler is the disk $\lvert 1 + h\lambda\rvert \leq 1$ in the complex plane, which is small
 
 ## python implementation
 

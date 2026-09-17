@@ -12,7 +12,7 @@ $$x_{n+1} = x_n + \omega (g(x_n) - x_n)$$
 equivalently
 $$x_{n+1} = (1 - \omega) x_n + \omega g(x_n)$$
 
-if the iteration converges with rate $|g'(x^*)|$ slowly approaching 1, overrelaxation can accelerate it dramatically by canceling the leading error mode.
+if the iteration converges with rate $\lvert g'(x^*)\rvert$ slowly approaching 1, overrelaxation can accelerate it dramatically by canceling the leading error mode.
 
 ## the formula
 
@@ -26,7 +26,7 @@ $$\omega^* = \frac{1}{1 - g'(x^*)}$$
 
 at this *optimal* $\omega^*$, the error contracts in one step (well, in the linearized regime). in practice $g'$ is unknown, but a few iterations let me estimate it from successive errors:
 
-$$|g'(x^*)| \approx \frac{|x_{n+1} - x_n|}{|x_n - x_{n-1}|}$$
+$$\lvert g'(x^*)\rvert \approx \frac{\lvert x_{n+1} - x_n\rvert}{\lvert x_n - x_{n-1}\rvert}$$
 
 then plug in.
 

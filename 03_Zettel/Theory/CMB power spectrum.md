@@ -11,7 +11,7 @@ decompose the CMB temperature map in spherical harmonics:
 $$T(\theta, \phi) - \bar T = \sum_{\ell, m} a_{\ell m}\,Y_\ell^m(\theta, \phi)$$
 
 the **power spectrum**:
-$$C_\ell \equiv \frac{1}{2\ell + 1}\sum_m |a_{\ell m}|^2$$
+$$C_\ell \equiv \frac{1}{2\ell + 1}\sum_m \lvert a_{\ell m}\rvert^2$$
 
 usually plotted as $D_\ell \equiv \ell(\ell+1)C_\ell/(2\pi)$ (which gives a roughly horizontal flat band at the Sachs-Wolfe plateau, easier to see structure on).
 

@@ -15,7 +15,7 @@ after correlation, the visibility is in *correlator units* — typically dimensi
 
 the visibility for a known calibrator at a measured value sets the conversion factor:
 
-$$\text{conversion factor} = \frac{S_{\rm cal,true}(\nu)}{|V_{\rm cal,measured}(\nu)|}$$
+$$\text{conversion factor} = \frac{S_{\rm cal,true}(\nu)}{\lvert V_{\rm cal,measured}(\nu)\rvert}$$
 
 apply this factor to the science target to get its flux in Jy.
 

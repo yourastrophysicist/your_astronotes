@@ -44,7 +44,7 @@ so
 $$\boxed{\, dm \approx -1.086\,\frac{dF}{F}\quad\text{or}\quad \frac{dF}{F} \approx -0.921\,dm\,}$$
 
 useful checks:
-- $dm = 0.01$ corresponds to $|dF/F| \approx 0.92\%$.
+- $dm = 0.01$ corresponds to $\lvert dF/F\rvert \approx 0.92\%$.
 - $dm = 0.001$ (mmag) corresponds to $\sim 0.092\%$ ($\sim 1$ part in 1000).
 
 this is why mmag photometry is the gold standard for transit detection and asteroseismology: $dm = 1$ mmag is a $\sim 1$/$1000$ flux change, comparable to a Jupiter transit across a Sun-like star.

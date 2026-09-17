@@ -41,7 +41,7 @@ the Friedmann equation can be written as
 $$\Omega(t) - 1 = \frac{k}{(aH)^2}$$
 where $\Omega \equiv \rho/\rho_{\rm crit}$. the right-hand side **grows in absolute value** during both radiation and matter domination (since $aH$ decreases as $t^{1/2}$ or $t^{1/3}$ respectively). so any tiny initial deviation from $\Omega = 1$ gets amplified over time.
 
-today $|\Omega - 1| \lesssim 0.005$. running this back to the Planck time, $|\Omega - 1|$ at $t_{\rm Pl}$ must have been smaller than $\sim 10^{-62}$. why was the universe born so absurdly fine-tuned to flatness?
+today $\lvert \Omega - 1\rvert \lesssim 0.005$. running this back to the Planck time, $\lvert \Omega - 1\rvert$ at $t_{\rm Pl}$ must have been smaller than $\sim 10^{-62}$. why was the universe born so absurdly fine-tuned to flatness?
 
 ### puzzle 3, the relic problem
 
@@ -52,7 +52,7 @@ grand unified theories generically predict heavy stable relics (magnetic monopol
 if at very early times there was a brief epoch of **accelerated expansion**, $\ddot a > 0$, then the comoving Hubble radius $(aH)^{-1}$ **decreases** during that epoch. this means:
 
 1. modes that are **outside** the horizon today were **inside** the horizon during inflation. so they were causally connected, and could thermalize. (horizon problem solved.)
-2. since $|\Omega - 1| \propto (aH)^{-2}$, accelerated expansion drives $\Omega$ exponentially toward $1$. (flatness problem solved.)
+2. since $\lvert \Omega - 1\rvert \propto (aH)^{-2}$, accelerated expansion drives $\Omega$ exponentially toward $1$. (flatness problem solved.)
 3. inflation dilutes any pre-existing relics by a factor of $a^{-3}$ over $\sim 60$ e-folds, so monopoles get diluted by $e^{180} \sim 10^{78}$. effectively zero. (relic problem solved.)
 
 so the question becomes: **what physical mechanism causes $\ddot a > 0$?**
@@ -115,7 +115,7 @@ during inflation, the inflaton field has small quantum fluctuations $\delta\phi$
 ### the spectrum of scalar perturbations
 
 curvature perturbations $\mathcal{R}$ (gauge-invariant comoving curvature) have a power spectrum
-$$\boxed{\,\mathcal{P}_\mathcal{R}(k) = \frac{1}{8\pi^2 \epsilon}\frac{H^2}{M_{\rm Pl}^2}\bigg|_{k = aH}\,}$$
+$$\boxed{\,\mathcal{P}_\mathcal{R}(k) = \frac{1}{8\pi^2 \epsilon}\frac{H^2}{M_{\rm Pl}^2}\bigg\vert_{k = aH}\,}$$
 evaluated at the moment mode $k$ exits the horizon. this is **nearly scale-invariant**, meaning $\mathcal{P}_\mathcal{R}(k) \propto k^{n_s - 1}$ with $n_s$ slightly less than 1. the deviation is
 $$n_s - 1 = -6\epsilon + 2\eta$$
 
@@ -138,7 +138,7 @@ scalar perturbations seed structure, and we've measured them. but inflation also
 ### the spectrum of tensor perturbations
 
 tensor modes have power spectrum
-$$\boxed{\,\mathcal{P}_t(k) = \frac{2}{\pi^2}\frac{H^2}{M_{\rm Pl}^2}\bigg|_{k = aH}\,}$$
+$$\boxed{\,\mathcal{P}_t(k) = \frac{2}{\pi^2}\frac{H^2}{M_{\rm Pl}^2}\bigg\vert_{k = aH}\,}$$
 sourced by quantum fluctuations of the metric during inflation. unlike scalar perturbations, the tensor spectrum's amplitude **does not depend on $\epsilon$**: it is set purely by $H$, i.e. by the **energy scale of inflation**.
 
 the **tensor-to-scalar ratio** is therefore

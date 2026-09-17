@@ -66,10 +66,10 @@ from a stack of speckle frames:
 2. accumulate $\langle B_n \rangle$ at all triplets $(\mathbf u_1, \mathbf u_2)$
 3. divide by the calibration $T_B$ (measured on a reference unresolved star)
 4. extract $\arg \langle B \rangle = \Phi_{\rm closure}$
-5. accumulate $\langle |\tilde I_n|^2 \rangle$ for amplitude
-6. divide by the speckle transfer function for $|\tilde O|$
+5. accumulate $\langle   \vert\tilde I_n\vert ^2 \rangle$ for amplitude
+6. divide by the speckle transfer function for $\lvert \tilde O\rvert$
 7. solve for $\phi_O$ from the closure-phase relations (regularized non-linear inversion)
-8. invert $\tilde O = |\tilde O| e^{i\phi_O}$ to get the image
+8. invert $\tilde O = \lvert \tilde O\rvert e^{i\phi_O}$ to get the image
 
 step 7 is the hard part. it's a non-linear optimization over a redundant set of phase relations. modern codes use Bayesian or maximum-entropy methods.
 

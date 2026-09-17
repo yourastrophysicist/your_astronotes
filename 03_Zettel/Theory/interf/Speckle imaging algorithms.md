@@ -5,17 +5,17 @@ title: "Speckle imaging algorithms"
 {% raw %}
 # Speckle imaging algorithms
 
-algorithms that recover *full* (amplitude + phase) image information from speckle data. unlike basic Labeyrie speckle interferometry (which gives only $|\tilde O|^2$), these recover an actual image, including asymmetries.
+algorithms that recover *full* (amplitude + phase) image information from speckle data. unlike basic Labeyrie speckle interferometry (which gives only $\lvert \tilde O\rvert^2$), these recover an actual image, including asymmetries.
 
 ## why we need them
 
-basic speckle interferometry recovers $|\tilde O|^2$, the autocorrelation. it's blind to the source's *parity* — a source and its mirror image have identical autocorrelations. so asymmetric sources cannot be uniquely reconstructed.
+basic speckle interferometry recovers $\lvert \tilde O\rvert^2$, the autocorrelation. it's blind to the source's *parity* — a source and its mirror image have identical autocorrelations. so asymmetric sources cannot be uniquely reconstructed.
 
 we need techniques that preserve phase. two main approaches:
 
 ### Knox-Thompson (cross-spectrum)
 
-introduced by Knox and Thompson (1974). instead of $|\tilde I|^2$, compute the **cross-spectrum**:
+introduced by Knox and Thompson (1974). instead of $\lvert \tilde I\rvert^2$, compute the **cross-spectrum**:
 
 $$C(\mathbf u, \mathbf u + \delta\mathbf u) = \langle \tilde I(\mathbf u) \tilde I^*(\mathbf u + \delta\mathbf u) \rangle$$
 
@@ -25,7 +25,7 @@ $$\arg C(\mathbf u, \mathbf u + \delta\mathbf u) \approx \phi_O(\mathbf u + \del
 
 integrating these phase differences across the (u, v) plane recovers $\phi_O(\mathbf u)$ — the source phase — modulo a global piston.
 
-combined with $|\tilde O|^2$ from basic speckle interferometry, we have $\tilde O(\mathbf u) = |\tilde O(\mathbf u)| e^{i\phi_O(\mathbf u)}$, fully reconstructing the image.
+combined with $\lvert \tilde O\rvert^2$ from basic speckle interferometry, we have $\tilde O(\mathbf u) = \lvert \tilde O(\mathbf u)\rvert e^{i\phi_O(\mathbf u)}$, fully reconstructing the image.
 
 ### triple correlation / bispectrum
 
@@ -74,12 +74,12 @@ even with AO, residual seeing motivates these techniques. they are part of every
 
 1. take many short-exposure frames
 2. for each frame, compute $\tilde I_n(\mathbf u)$
-3. accumulate $\langle |\tilde I|^2 \rangle$ (for amplitude)
+3. accumulate $\langle   \vert\tilde I\vert ^2 \rangle$ (for amplitude)
 4. accumulate the bispectrum $B(\mathbf u, \mathbf v)$ (for phase)
-5. divide $|\tilde I|^2$ by the speckle transfer function (calibrated)
-6. recover $|\tilde O(\mathbf u)|$ from amplitude
+5. divide $\lvert \tilde I\rvert^2$ by the speckle transfer function (calibrated)
+6. recover $\lvert \tilde O(\mathbf u)\rvert$ from amplitude
 7. recover $\phi_O(\mathbf u)$ from bispectrum (using a phase-recovery algorithm)
-8. inverse FT $\tilde O = |\tilde O| e^{i\phi_O}$ → image
+8. inverse FT $\tilde O = \lvert \tilde O\rvert e^{i\phi_O}$ → image
 
 steps 4 and 7 are the computationally intense parts. modern packages handle this in seconds for typical datasets.
 

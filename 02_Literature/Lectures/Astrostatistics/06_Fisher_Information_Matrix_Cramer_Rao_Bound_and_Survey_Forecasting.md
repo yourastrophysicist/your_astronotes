@@ -16,7 +16,7 @@ When planning next-generation cosmological surveys (such as the Euclid space tel
 
 The mathematical engine of cosmological forecasting is the Fisher Information Matrix formalism.
 
-Let $\boldsymbol{d}$ denote the random data vector observed by an experiment, governed by a likelihood function $\mathcal{L}(\boldsymbol{\theta}) \equiv p(\boldsymbol{d} | \boldsymbol{\theta})$ depending on a parameter vector $\boldsymbol{\theta} = (\theta_1, \theta_2, \dots, \theta_M)^T$.
+Let $\boldsymbol{d}$ denote the random data vector observed by an experiment, governed by a likelihood function $\mathcal{L}(\boldsymbol{\theta}) \equiv p(\boldsymbol{d} \mid \boldsymbol{\theta})$ depending on a parameter vector $\boldsymbol{\theta} = (\theta_1, \theta_2, \dots, \theta_M)^T$.
 
 The score function $\boldsymbol{S}(\boldsymbol{\theta})$ is defined as the gradient of the log-likelihood with respect to the parameters
 
@@ -24,15 +24,15 @@ $$\boldsymbol{S}(\boldsymbol{\theta}) \equiv \nabla_{\boldsymbol{\theta}} \ln \m
 
 The expectation value of the score function evaluated at the true parameter value $\boldsymbol{\theta}$ vanishes identically. To demonstrate this, consider the normalization condition of the likelihood
 
-$$\int p(\boldsymbol{d} | \boldsymbol{\theta}) \, d\boldsymbol{d} = 1$$
+$$\int p(\boldsymbol{d} \mid \boldsymbol{\theta}) \, d\boldsymbol{d} = 1$$
 
 Differentiating both sides with respect to $\theta_i$, and assuming regularity conditions permitting interchange of differentiation and integration
 
-$$\frac{\partial}{\partial \theta_i} \int p(\boldsymbol{d} | \boldsymbol{\theta}) \, d\boldsymbol{d} = \int \frac{\partial p(\boldsymbol{d} | \boldsymbol{\theta})}{\partial \theta_i} \, d\boldsymbol{d} = 0$$
+$$\frac{\partial}{\partial \theta_i} \int p(\boldsymbol{d} \mid \boldsymbol{\theta}) \, d\boldsymbol{d} = \int \frac{\partial p(\boldsymbol{d} \mid \boldsymbol{\theta})}{\partial \theta_i} \, d\boldsymbol{d} = 0$$
 
 Using the logarithmic derivative identity $\frac{\partial p}{\partial \theta_i} = p \, \frac{\partial \ln p}{\partial \theta_i}$
 
-$$\int \left( \frac{\partial \ln p(\boldsymbol{d} | \boldsymbol{\theta})}{\partial \theta_i} \right) p(\boldsymbol{d} | \boldsymbol{\theta}) \, d\boldsymbol{d} = \left\langle \frac{\partial \ln \mathcal{L}(\boldsymbol{\theta})}{\partial \theta_i} \right\rangle = 0$$
+$$\int \left( \frac{\partial \ln p(\boldsymbol{d} \mid \boldsymbol{\theta})}{\partial \theta_i} \right) p(\boldsymbol{d} \mid \boldsymbol{\theta}) \, d\boldsymbol{d} = \left\langle \frac{\partial \ln \mathcal{L}(\boldsymbol{\theta})}{\partial \theta_i} \right\rangle = 0$$
 
 Therefore, the expected value of the score vector across data realizations is zero
 
@@ -52,11 +52,11 @@ A key theorem establishes that the Fisher matrix is identically equal to the exp
 
 To prove this identity, differentiate the expected score with respect to $\theta_j$
 
-$$\frac{\partial}{\partial \theta_j} \int \left( \frac{\partial \ln p(\boldsymbol{d} | \boldsymbol{\theta})}{\partial \theta_i} \right) p(\boldsymbol{d} | \boldsymbol{\theta}) \, d\boldsymbol{d} = 0$$
+$$\frac{\partial}{\partial \theta_j} \int \left( \frac{\partial \ln p(\boldsymbol{d} \mid \boldsymbol{\theta})}{\partial \theta_i} \right) p(\boldsymbol{d} \mid \boldsymbol{\theta}) \, d\boldsymbol{d} = 0$$
 
 Applying the product rule to the integrand
 
-$$\int \left( \frac{\partial^2 \ln p(\boldsymbol{d} | \boldsymbol{\theta})}{\partial \theta_i \partial \theta_j} \right) p(\boldsymbol{d} | \boldsymbol{\theta}) \, d\boldsymbol{d} + \int \left( \frac{\partial \ln p(\boldsymbol{d} | \boldsymbol{\theta})}{\partial \theta_i} \right) \frac{\partial p(\boldsymbol{d} | \boldsymbol{\theta})}{\partial \theta_j} \, d\boldsymbol{d} = 0$$
+$$\int \left( \frac{\partial^2 \ln p(\boldsymbol{d} \mid \boldsymbol{\theta})}{\partial \theta_i \partial \theta_j} \right) p(\boldsymbol{d} \mid \boldsymbol{\theta}) \, d\boldsymbol{d} + \int \left( \frac{\partial \ln p(\boldsymbol{d} \mid \boldsymbol{\theta})}{\partial \theta_i} \right) \frac{\partial p(\boldsymbol{d} \mid \boldsymbol{\theta})}{\partial \theta_j} \, d\boldsymbol{d} = 0$$
 
 Substituting $\frac{\partial p}{\partial \theta_j} = p \, \frac{\partial \ln p}{\partial \theta_j}$ yields
 
@@ -86,15 +86,15 @@ where $\boldsymbol{A} \ge \boldsymbol{B}$ means that the matrix difference $\bol
 
 For a single scalar parameter $\theta$, the proof follows from the Cauchy-Schwarz inequality.
 
-Because $\hat{\theta}$ is unbiased, $\langle \hat{\theta} - \theta \rangle = \int (\hat{\theta}(\boldsymbol{d}) - \theta) p(\boldsymbol{d} | \theta) \, d\boldsymbol{d} = 0$.
+Because $\hat{\theta}$ is unbiased, $\langle \hat{\theta} - \theta \rangle = \int (\hat{\theta}(\boldsymbol{d}) - \theta) p(\boldsymbol{d} \mid \theta) \, d\boldsymbol{d} = 0$.
 
 Differentiating with respect to $\theta$
 
-$$\frac{d}{d\theta} \int (\hat{\theta}(\boldsymbol{d}) - \theta) p(\boldsymbol{d} | \theta) \, d\boldsymbol{d} = \int \left[ -p(\boldsymbol{d} | \theta) + (\hat{\theta}(\boldsymbol{d}) - \theta) \frac{\partial p(\boldsymbol{d} | \theta)}{\partial \theta} \right] d\boldsymbol{d} = 0$$
+$$\frac{d}{d\theta} \int (\hat{\theta}(\boldsymbol{d}) - \theta) p(\boldsymbol{d} \mid \theta) \, d\boldsymbol{d} = \int \left[ -p(\boldsymbol{d} \mid \theta) + (\hat{\theta}(\boldsymbol{d}) - \theta) \frac{\partial p(\boldsymbol{d} \mid \theta)}{\partial \theta} \right] d\boldsymbol{d} = 0$$
 
 Using $\frac{\partial p}{\partial \theta} = p \frac{\partial \ln p}{\partial \theta}$ and $\int p \, d\boldsymbol{d} = 1$
 
-$$\int (\hat{\theta}(\boldsymbol{d}) - \theta) \left( \frac{\partial \ln p}{\partial \theta} \right) p(\boldsymbol{d} | \theta) \, d\boldsymbol{d} = 1$$
+$$\int (\hat{\theta}(\boldsymbol{d}) - \theta) \left( \frac{\partial \ln p}{\partial \theta} \right) p(\boldsymbol{d} \mid \theta) \, d\boldsymbol{d} = 1$$
 
 This states that the covariance between the error $(\hat{\theta} - \theta)$ and the score $S(\theta)$ equals 1.
 
@@ -132,7 +132,7 @@ If all other parameters $\theta_{j \neq i}$ are assumed to be known exactly from
 
 The conditional variance is
 
-$$\sigma^2(\theta_i \, | \, \theta_{j \neq i}) = \frac{1}{F_{ii}}$$
+$$\sigma^2(\theta_i \, \mid \, \theta_{j \neq i}) = \frac{1}{F_{ii}}$$
 
 ### Marginalized Error
 

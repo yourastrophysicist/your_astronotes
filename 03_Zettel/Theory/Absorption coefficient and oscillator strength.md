@@ -19,7 +19,7 @@ units: cm$^{-1}$. constants:
 ## what the oscillator strength is
 
 $f_{lu}$ is the **dimensionless transition strength**, comparing a real quantum transition to a classical harmonic oscillator. mathematically:
-$$f_{lu} = \frac{2 m_e}{\hbar e^2}\,(E_u - E_l)\,|\langle u|x|l\rangle|^2$$
+$$f_{lu} = \frac{2 m_e}{\hbar e^2}\,(E_u - E_l)\,\lvert \langle u \vertx\vert l \rangle\rvert^2$$
 in Gaussian units. proportional to the squared dipole matrix element.
 
 for permitted transitions, $f \sim 0.1$ to $2$. for forbidden lines (M1, E2), $f \sim 10^{-6}$ to $10^{-3}$. for semi-forbidden (intersystem), $\sim 10^{-3}$ to $10^{-1}$.

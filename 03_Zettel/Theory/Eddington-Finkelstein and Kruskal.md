@@ -16,7 +16,7 @@ but Riemann is finite there (Kretschmann scalar = $48G^2M^2/r^6$, finite at hori
 ## Eddington-Finkelstein (EF)
 
 introduce **ingoing** EF coordinate $v = t + r^*$ with the **tortoise coordinate**:
-$$r^* = r + 2GM\ln|r/2GM - 1|$$
+$$r^* = r + 2GM\ln\lvert r/2GM - 1\rvert$$
 
 the metric becomes:
 $$ds^2 = -\left(1 - \frac{2GM}{r}\right)dv^2 + 2\,dv\,dr + r^2 d\Omega^2$$

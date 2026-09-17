@@ -36,7 +36,7 @@ $$\nabla^2 \Phi = 4\pi G \rho$$
 
 with Green's function solution
 
-$$\Phi(\vec x, t) = -G \int d^3 x'\, \frac{\rho(\vec x', t)}{|\vec x - \vec x'|}$$
+$$\Phi(\vec x, t) = -G \int d^3 x'\, \frac{\rho(\vec x', t)}{\lvert \vec x - \vec x'\rvert}$$
 
 ### crack 1, Newton breaks special relativity
 
@@ -167,7 +167,7 @@ the simplest line element that reproduces all of $1.3$ is
 
 $$\boxed{\,ds^2 = -\left(1 + \frac{2\Phi(\vec x)}{c^2}\right)c^2 dt^2 + d\vec x^2\,}$$
 
-with $|\Phi/c^2| \ll 1$. this is the **weak-field metric**, the GR encoding of Newtonian gravity. let me verify it gives back gravitational time dilation.
+with $\lvert \Phi/c^2\rvert \ll 1$. this is the **weak-field metric**, the GR encoding of Newtonian gravity. let me verify it gives back gravitational time dilation.
 
 a stationary observer at position $\vec x_A$ has worldline $(t, \vec x_A)$. their proper time interval is
 

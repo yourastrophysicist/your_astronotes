@@ -40,9 +40,9 @@ Crucially, the convergence rate $N^{-1/2}$ is completely independent of the dime
 ## Importance Sampling and Variance Reduction
 
 The sample variance $\sigma_f^2 = \text{Var}_p[f(X)/p(X)]$ determines the precision. The optimal sampling density $p^*(x)$ that minimizes variance to zero is:
-$$p^*(x) = \frac{|f(x)|}{\int |f(x')| \, dx'}$$
+$$p^*(x) = \frac{\lvert f(x)\rvert}{\int \lvert f(x')\rvert \, dx'}$$
 
-Importance sampling chooses an analytical proposal $q(x)$ that closely matches the shape and tails of $|f(x)|$, concentrating samples where the integrand has support and dramatically reducing the variance of cosmological observables.
+Importance sampling chooses an analytical proposal $q(x)$ that closely matches the shape and tails of $\lvert f(x)\rvert$, concentrating samples where the integrand has support and dramatically reducing the variance of cosmological observables.
 
 ## See Also
 - [Astro-Statistics_and_Cosmology_MOC](../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html)

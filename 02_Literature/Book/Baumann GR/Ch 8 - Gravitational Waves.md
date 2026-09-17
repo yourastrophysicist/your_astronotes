@@ -29,7 +29,7 @@ short answers:
 
 write the spacetime metric as Minkowski plus a small perturbation:
 
-$$g_{\mu\nu} = \eta_{\mu\nu} + h_{\mu\nu}, \qquad |h_{\mu\nu}| \ll 1$$
+$$g_{\mu\nu} = \eta_{\mu\nu} + h_{\mu\nu}, \qquad \lvert h_{\mu\nu}\rvert \ll 1$$
 
 work to first order in $h$. the inverse metric to first order is
 
@@ -109,7 +109,7 @@ plane-wave solutions: $\bar h_{\mu\nu} = \mathrm{Re}(H_{\mu\nu}\, e^{i k_\lambda
 
 substituting back, $\Box \bar h_{\mu\nu} = -k^\mu k_\mu \bar h_{\mu\nu}$, so the wave equation requires $k^\mu k_\mu = 0$: the wavevector is **null**.
 
-with $k^\mu = (\omega, \vec k)$, this means $\omega^2 = |\vec k|^2$, equivalently $\omega = \pm|\vec k|$. so **gravitational waves propagate at the speed of light**, exactly. confirmed by GW170817 (binary neutron star merger), which arrived within $\sim 1$ second of the gamma-ray burst from the same source after $\sim 130$ million years of travel.
+with $k^\mu = (\omega, \vec k)$, this means $\omega^2 = \lvert \vec k\rvert^2$, equivalently $\omega = \pm\lvert \vec k\rvert$. so **gravitational waves propagate at the speed of light**, exactly. confirmed by GW170817 (binary neutron star merger), which arrived within $\sim 1$ second of the gamma-ray burst from the same source after $\sim 130$ million years of travel.
 
 ### counting polarizations
 
@@ -187,7 +187,7 @@ for typical sources $H \sim 10^{-21}$, so $\delta L \sim 10^{-18}$ m, **about a 
 
 with sources, $\Box \bar h_{\mu\nu} = -16\pi G T_{\mu\nu}$. the retarded Green's function gives
 
-$$\bar h_{\mu\nu}(t, \vec x) = 4G \int d^3 y\, \frac{T_{\mu\nu}(t_r, \vec y)}{|\vec x - \vec y|}, \qquad t_r = t - |\vec x - \vec y|$$
+$$\bar h_{\mu\nu}(t, \vec x) = 4G \int d^3 y\, \frac{T_{\mu\nu}(t_r, \vec y)}{\lvert \vec x - \vec y\rvert}, \qquad t_r = t - \lvert \vec x - \vec y\rvert$$
 
 the **retarded time**: the field at $(t, \vec x)$ depends on the source at the earlier time $t_r$, accounting for the finite speed of propagation.
 
@@ -248,7 +248,7 @@ since then: many more BH mergers (LIGO O1, O2, O3 runs), the binary neutron star
 
 if i had to compress chapter 8 into a paragraph for the oral:
 
-> linearized GR is the weak-field perturbation theory, $g_{\mu\nu} = \eta_{\mu\nu} + h_{\mu\nu}$ with $|h| \ll 1$. the linearized Einstein tensor is gauge-invariant; the gauge symmetry is $h \to h + \partial \xi + \partial \xi$, the GR analog of the EM gauge $A \to A + \partial \alpha$. fixing de Donder (Lorenz) gauge $\partial^\mu \bar h_{\mu\nu} = 0$ collapses Einstein's equation to a wave equation $\Box \bar h_{\mu\nu} = -16 \pi G T_{\mu\nu}$, structurally identical to Maxwell's $\Box A_\mu = J_\mu$. in the static slow-motion limit this reproduces Newton's $\nabla^2 \Phi = 4\pi G \rho$. vacuum solutions are gravitational waves propagating at $c$ with two physical polarizations, $h_+$ and $h_\times$, that stretch and squeeze rings of test masses in characteristic patterns separated by $45°$. LIGO detects this stretching with strain sensitivity $\delta L/L \sim 10^{-21}$. waves are produced by time-varying mass quadrupole moments via $\bar h_{ij} = (2G/r)\ddot I_{ij}$; no monopole or dipole gravitational radiation exists because there are no negative gravitational charges. the first direct detection was September 14, 2015 (GW150914): two black holes of $30$ and $35 M_\odot$ merging to form a $62 M_\odot$ remnant, releasing $3 M_\odot c^2$ in GWs. this opened the era of gravitational-wave astronomy.
+> linearized GR is the weak-field perturbation theory, $g_{\mu\nu} = \eta_{\mu\nu} + h_{\mu\nu}$ with $\lvert h\rvert \ll 1$. the linearized Einstein tensor is gauge-invariant; the gauge symmetry is $h \to h + \partial \xi + \partial \xi$, the GR analog of the EM gauge $A \to A + \partial \alpha$. fixing de Donder (Lorenz) gauge $\partial^\mu \bar h_{\mu\nu} = 0$ collapses Einstein's equation to a wave equation $\Box \bar h_{\mu\nu} = -16 \pi G T_{\mu\nu}$, structurally identical to Maxwell's $\Box A_\mu = J_\mu$. in the static slow-motion limit this reproduces Newton's $\nabla^2 \Phi = 4\pi G \rho$. vacuum solutions are gravitational waves propagating at $c$ with two physical polarizations, $h_+$ and $h_\times$, that stretch and squeeze rings of test masses in characteristic patterns separated by $45°$. LIGO detects this stretching with strain sensitivity $\delta L/L \sim 10^{-21}$. waves are produced by time-varying mass quadrupole moments via $\bar h_{ij} = (2G/r)\ddot I_{ij}$; no monopole or dipole gravitational radiation exists because there are no negative gravitational charges. the first direct detection was September 14, 2015 (GW150914): two black holes of $30$ and $35 M_\odot$ merging to form a $62 M_\odot$ remnant, releasing $3 M_\odot c^2$ in GWs. this opened the era of gravitational-wave astronomy.
 
 ---
 

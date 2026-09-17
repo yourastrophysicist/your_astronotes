@@ -50,7 +50,7 @@ equivalently: the beam splitter's transfer matrix is
 
 $$\begin{pmatrix} t & r \\ r & t \end{pmatrix}$$
 
-with $|t|^2 + |r|^2 = 1$ and $t r^* + r t^* = 0$. the second condition forces a $\pi$-phase relationship between $t$ and $r$.
+with $\lvert t\rvert^2 + \lvert r\rvert^2 = 1$ and $t r^* + r t^* = 0$. the second condition forces a $\pi$-phase relationship between $t$ and $r$.
 
 ## the polarization dependence
 
@@ -66,7 +66,7 @@ solution: **non-polarizing beam splitters** are designed (with multi-layer coati
 
 a beam splitter is *the* fundamental two-mode quantum-optics element. a single photon entering input port 1 is, post-splitter, in a *quantum superposition* of being in output 1 (transmitted) and output 2 (reflected):
 
-$$|1\rangle_1 \to t |1\rangle_1 + r |1\rangle_2$$
+$$\vert 1 \rangle_1 \to t \vert 1 \rangle_1 + r \vert 1 \rangle_2$$
 
 the photon is in *both* output paths until detected. detecting it forces a probabilistic collapse to one or the other.
 

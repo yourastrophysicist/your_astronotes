@@ -54,7 +54,7 @@ The characterization of an exoplanet atmosphere represents an **inverse problem*
 ```
 
 1. **Forward Model $\mathcal{F}(\mathbf{x})$**: Takes a physical parameter vector $\mathbf{x}$ and integrates the differential equations of hydrostatic balance and radiative transfer to synthesize an emergent spectrum $\mathbf{y}(\mathbf{x})$.
-2. **Inverse Retrieval**: Given observed spectral points $\mathbf{D} = \{y_{\text{obs}, k}, \sigma_k\}_{k=1}^K$, inverts the non-linear operator $\mathcal{F}$ to infer the posterior probability distribution $P(\mathbf{x} | \mathbf{D})$ of atmospheric parameters.
+2. **Inverse Retrieval**: Given observed spectral points $\mathbf{D} = \{y_{\text{obs}, k}, \sigma_k\}_{k=1}^K$, inverts the non-linear operator $\mathcal{F}$ to infer the posterior probability distribution $P(\mathbf{x} \mid \mathbf{D})$ of atmospheric parameters.
 
 ---
 

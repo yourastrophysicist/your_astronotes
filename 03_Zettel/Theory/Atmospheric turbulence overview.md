@@ -42,7 +42,7 @@ over what *time* is the atmospheric distortion constant? the **Greenwood time** 
 
 the turbulence is well-described by Kolmogorov's 1941 theory of homogeneous, isotropic turbulence in the inertial range. the structure function of the refractive index is
 
-$$D_n(r) = \langle |n(\mathbf x + \mathbf r) - n(\mathbf x)|^2 \rangle = C_n^2 r^{2/3}$$
+$$D_n(r) = \langle   \vertn(\mathbf x + \mathbf r) - n(\mathbf x)\vert ^2 \rangle = C_n^2 r^{2/3}$$
 
 with $C_n^2$ the **structure parameter**. integrated along the line of sight, this gives the structure function of the *phase*:
 

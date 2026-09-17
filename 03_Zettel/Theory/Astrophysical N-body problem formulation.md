@@ -11,12 +11,12 @@ the N-body problem: $N$ point masses interacting only through Newtonian gravity.
 
 for particle $i$ with mass $m_i$ at position $\mathbf{r}_i$:
 
-$$\ddot{\mathbf{r}}_i = -G \sum_{j \neq i} m_j \frac{\mathbf{r}_i - \mathbf{r}_j}{|\mathbf{r}_i - \mathbf{r}_j|^3}$$
+$$\ddot{\mathbf{r}}_i = -G \sum_{j \neq i} m_j \frac{\mathbf{r}_i - \mathbf{r}_j}{\lvert \mathbf{r}_i - \mathbf{r}_j\rvert^3}$$
 
 equivalent first-order form for an integrator:
 
 $$\dot{\mathbf{r}}_i = \mathbf{v}_i$$
-$$\dot{\mathbf{v}}_i = \mathbf{a}_i = -G \sum_{j \neq i} m_j \frac{\mathbf{r}_i - \mathbf{r}_j}{|\mathbf{r}_i - \mathbf{r}_j|^3}$$
+$$\dot{\mathbf{v}}_i = \mathbf{a}_i = -G \sum_{j \neq i} m_j \frac{\mathbf{r}_i - \mathbf{r}_j}{\lvert \mathbf{r}_i - \mathbf{r}_j\rvert^3}$$
 
 the state vector is $(\mathbf{r}_i, \mathbf{v}_i)$ for $i = 1, \ldots, N$, total dimension $6N$.
 
@@ -24,7 +24,7 @@ the state vector is $(\mathbf{r}_i, \mathbf{v}_i)$ for $i = 1, \ldots, N$, total
 
 the N-body system has several Noether-related conservation laws that I exploit as diagnostics:
 
-- **energy** $E = \tfrac12 \sum m_i v_i^2 - G\sum_{i<j} m_i m_j/|\mathbf{r}_i - \mathbf{r}_j|$ (time-translation symmetry)
+- **energy** $E = \tfrac12 \sum m_i v_i^2 - G\sum_{i<j} m_i m_j/\lvert \mathbf{r}_i - \mathbf{r}_j\rvert$ (time-translation symmetry)
 - **linear momentum** $\mathbf{P} = \sum m_i \mathbf{v}_i$ (translation symmetry)
 - **angular momentum** $\mathbf{L} = \sum m_i \mathbf{r}_i \times \mathbf{v}_i$ (rotation symmetry)
 
@@ -68,9 +68,9 @@ for $N \sim 100$ this is fast; for $N \sim 10^4$ memory becomes the bottleneck (
 
 ## softening
 
-at small separations $|\mathbf{r}_i - \mathbf{r}_j| \to 0$, the force diverges as $1/r^2$. this is unphysical for "smooth" simulations (galaxies, where particles represent fluid elements, not real point masses). add a **softening length** $\epsilon$:
+at small separations $\lvert \mathbf{r}_i - \mathbf{r}_j\rvert \to 0$, the force diverges as $1/r^2$. this is unphysical for "smooth" simulations (galaxies, where particles represent fluid elements, not real point masses). add a **softening length** $\epsilon$:
 
-$$\mathbf{a}_i = -G \sum_{j \neq i} m_j \frac{\mathbf{r}_i - \mathbf{r}_j}{(|\mathbf{r}_i - \mathbf{r}_j|^2 + \epsilon^2)^{3/2}}$$
+$$\mathbf{a}_i = -G \sum_{j \neq i} m_j \frac{\mathbf{r}_i - \mathbf{r}_j}{(\lvert \mathbf{r}_i - \mathbf{r}_j\rvert^2 + \epsilon^2)^{3/2}}$$
 
 $\epsilon$ is the "minimum resolved scale" of the simulation. for a galaxy with $N = 10^9$ tracers covering 100 kpc, $\epsilon \sim 100$ pc. softening prevents close-encounter blowups but smears out real two-body relaxation; it is a deliberate physics choice, not a numerical hack.
 
@@ -118,7 +118,7 @@ the energy diagnostic: total energy should stay constant within the integrator's
 
 
 ![mnm_solution_p4_nbody.png](../../assets/images/mnm_solution_p4_nbody.png)
-*Exam Model Solution: Direct summation N-body acceleration loop with Plummer softening parameter $\epsilon$ preventing divergence during close encounters: $\vec{a}_i = \sum_{j \ne i} \frac{G m_j (\vec{r}_j - \vec{r}_i)}{(|\vec{r}_j - \vec{r}_i|^2 + \epsilon^2)^{3/2}}$.*
+*Exam Model Solution: Direct summation N-body acceleration loop with Plummer softening parameter $\epsilon$ preventing divergence during close encounters: $\vec{a}_i = \sum_{j \ne i} \frac{G m_j (\vec{r}_j - \vec{r}_i)}{(\lvert \vec{r}_j - \vec{r}_i\rvert^2 + \epsilon^2)^{3/2}}$.*
 
 
 ![mapelli_fig06_p55.png](../../assets/images/mapelli_fig06_p55.png)

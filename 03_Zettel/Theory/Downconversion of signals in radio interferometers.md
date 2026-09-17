@@ -33,7 +33,7 @@ $$=\frac{1}{2}\cos 2\pi(\nu_{\rm RF}-\nu_{\rm LO})t + \frac{1}{2}\cos 2\pi(\nu_{
 
 filter the unwanted term. the useful intermediate frequency is:
 
-$$\nu_{\rm IF}=|\nu_{\rm RF}-\nu_{\rm LO}|$$
+$$\nu_{\rm IF}=\lvert \nu_{\rm RF}-\nu_{\rm LO}\rvert$$
 
 ## phase preservation
 

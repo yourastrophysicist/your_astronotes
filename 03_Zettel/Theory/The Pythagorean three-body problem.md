@@ -21,7 +21,7 @@ a common explicit choice (matching Burrau's original numbers):
 - $\mathbf{r}_2 = (-2, -1)$
 - $\mathbf{r}_3 = (1, -1)$
 
-(distances: $|r_1 - r_2| = \sqrt{9 + 16} = 5$, $|r_1 - r_3| = \sqrt{0 + 16} = 4$, $|r_2 - r_3| = \sqrt{9 + 0} = 3$. )
+(distances: $\lvert r_1 - r_2\rvert = \sqrt{9 + 16} = 5$, $\lvert r_1 - r_3\rvert = \sqrt{0 + 16} = 4$, $\lvert r_2 - r_3\rvert = \sqrt{9 + 0} = 3$. )
 
 initial velocities: all zero. units: $G = 1$.
 
@@ -44,20 +44,20 @@ modern *arbitrary-precision* integrations (Boekholt & Portegies Zwart 2015, the 
 
 with $G = 1$, the total energy is:
 
-$$E = \tfrac12 \sum_i m_i v_i^2 - \sum_{i < j} \frac{m_i m_j}{|\mathbf{r}_i - \mathbf{r}_j|}$$
+$$E = \tfrac12 \sum_i m_i v_i^2 - \sum_{i < j} \frac{m_i m_j}{\lvert \mathbf{r}_i - \mathbf{r}_j\rvert}$$
 
 at $t = 0$ (rest):
 $$E_0 = -\frac{m_1 m_2}{5} - \frac{m_1 m_3}{4} - \frac{m_2 m_3}{3} = -\frac{12}{5} - \frac{15}{4} - \frac{20}{3} = -\frac{289}{20\cdot 3} \approx -12.81\overline{6}$$
 
 (exact value $-289/22 ish$ — work the LCD: $\frac{12}{5} = 144/60, \frac{15}{4} = 225/60, \frac{20}{3} = 400/60$, sum $769/60 = 12.8166\ldots$). so $E_0 \approx -12.817$.
 
-throughout the integration, this should be conserved. a properly-tuned midpoint or RK4 integrator with $h = 10^{-5}$ keeps $|\Delta E/E| < 10^{-8}$ during smooth phases, with brief excursions to ~$10^{-5}$ at close encounters.
+throughout the integration, this should be conserved. a properly-tuned midpoint or RK4 integrator with $h = 10^{-5}$ keeps $\lvert \Delta E/E\rvert < 10^{-8}$ during smooth phases, with brief excursions to ~$10^{-5}$ at close encounters.
 
 ## the standard exam exercise
 
 from `exam_template.pdf`:
 
-> Three point masses attract each other according to the Newtonian law of gravitation: $\vec{a}_i = -G \sum_{j \neq i} m_j (\vec{x}_i - \vec{x}_j)/|\vec{x}_i - \vec{x}_j|^3$. The masses of the particles are $m_1 = 3, m_2 = 4, m_3 = 5$; they are initially located at the apexes of a right triangle with sides 3, 4, and 5, as shown in the figure. The particles are free to move in the xy plane of the triangle and are at rest initially. We assume $G = 1$.
+> Three point masses attract each other according to the Newtonian law of gravitation: $\vec{a}_i = -G \sum_{j \neq i} m_j (\vec{x}_i - \vec{x}_j)/\lvert \vec{x}_i - \vec{x}_j\rvert^3$. The masses of the particles are $m_1 = 3, m_2 = 4, m_3 = 5$; they are initially located at the apexes of a right triangle with sides 3, 4, and 5, as shown in the figure. The particles are free to move in the xy plane of the triangle and are at rest initially. We assume $G = 1$.
 >
 > A. Write a script to integrate the position and the velocity of the three particles in two dimensions with the **midpoint method** between time $t = 0$ and time $t_f = 5$ with timesteps of $h = 10^{-5}$.
 > B. Plot the orbits of the three particles in the xy plane.

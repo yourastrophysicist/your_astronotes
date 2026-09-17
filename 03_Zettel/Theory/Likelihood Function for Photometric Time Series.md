@@ -9,7 +9,7 @@ The likelihood function quantifies the probability of observing photometric time
 
 ## Gaussian Likelihood Formulation
 Assuming independent, Gaussian-distributed observational errors:
-$$\mathcal{L}(\boldsymbol{\theta} | \boldsymbol{D}) = \prod_{i=1}^N \frac{1}{\sqrt{2\pi s_i^2}} \exp\left( -\frac{[y_i - m(t_i, \boldsymbol{\theta})]^2}{2 s_i^2} \right)$$
+$$\mathcal{L}(\boldsymbol{\theta} \mid \boldsymbol{D}) = \prod_{i=1}^N \frac{1}{\sqrt{2\pi s_i^2}} \exp\left( -\frac{[y_i - m(t_i, \boldsymbol{\theta})]^2}{2 s_i^2} \right)$$
 where $s_i^2 = \sigma_i^2 + \sigma_{\text{jitter}}^2$ incorporates instrumental jitter.
 
 ## Log-Likelihood Form

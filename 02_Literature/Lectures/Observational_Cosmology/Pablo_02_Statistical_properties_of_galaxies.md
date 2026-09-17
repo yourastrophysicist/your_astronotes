@@ -80,7 +80,7 @@ if we just look at the $z$-distribution of a flux-limited sample, the universe l
 
 - [Redshift distribution of flux-limited samples](../../../03_Zettel/Theory/Redshift%20distribution%20of%20flux-limited%20samples.html) — Brinchmann 2008, the median $z$ as a function of magnitude
 - [Malmquist bias](../../../03_Zettel/Theory/Malmquist%20bias.html) — flux limit + scatter in absolute magnitude pushes the average $M$ brighter at higher $z$
-- [Photometric redshifts](../../../03_Zettel/Theory/Photometric%20redshifts.html) — Benítez 2000 likelihood $p(z|m_0)$, the 4000 Å break as the workhorse feature
+- [Photometric redshifts](../../../03_Zettel/Theory/Photometric%20redshifts.html) — Benítez 2000 likelihood $p(z \mid m_0)$, the 4000 Å break as the workhorse feature
 - [Photo-z biases and catastrophic outliers](../../../03_Zettel/Theory/Photo-z%20biases%20and%20catastrophic%20outliers.html) — Oyaizu 2008, the failure modes of template fitting
 
 without these, every higher-order statistic ($\phi(L,z)$, $\rho_{SFR}(z)$) would be wrong.

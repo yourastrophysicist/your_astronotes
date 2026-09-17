@@ -144,7 +144,7 @@ $$\frac{d\Omega_k}{d\ln a} = -2\Omega_k \left[ -\frac{1}{2}\Omega(1+3w) \right] 
 ### Alternative description of the flatness problem
 This equation reveals that $\Omega_k = 0$ is a critical point:
 * In standard FRW, $1+3w > 0$. The derivative has the same sign as $\Omega_k$. Any deviation $\Omega_k > 0$ grows larger, and $\Omega_k < 0$ becomes more negative. $\Omega_k = 0$ is an **unstable repeller**.
-* During inflation, $1+3w < 0$. The derivative has the opposite sign to $\Omega_k$. Any initial perturbation decays exponentially: $\Omega_k(a) \propto a^{-|1+3w|}$. $\Omega_k = 0$ becomes a **stable dynamical attractor**.
+* During inflation, $1+3w < 0$. The derivative has the opposite sign to $\Omega_k$. Any initial perturbation decays exponentially: $\Omega_k(a) \propto a^{-\lvert 1+3w\rvert}$. $\Omega_k = 0$ becomes a **stable dynamical attractor**.
 
 ---
 
@@ -165,7 +165,7 @@ $$N = N_{\rm min} \equiv \ln\left(\frac{T_{\rm reh}}{\sqrt{T_{\rm eq} T_0}}\righ
 
 ### Implications
 1. If $N = N_{\rm min}$, $\Omega_0 = \Omega_i$.
-2. If $N > N_{\rm min}$ (even by just 5 or 10 e-folds), $|\Omega_k(t_0)| \ll 1$ regardless of $\Omega_i$. Since there is no physical upper bound preventing $N$ from exceeding $N_{\rm min}$, inflation generically predicts $|\Omega_k| \approx 0$ today.
+2. If $N > N_{\rm min}$ (even by just 5 or 10 e-folds), $\lvert \Omega_k(t_0)\rvert \ll 1$ regardless of $\Omega_i$. Since there is no physical upper bound preventing $N$ from exceeding $N_{\rm min}$, inflation generically predicts $\lvert \Omega_k\rvert \approx 0$ today.
 
 ---
 
@@ -303,7 +303,7 @@ $$V'(\phi) = -2V_0\frac{\phi}{\mu^2}, \quad V''(\phi) = -\frac{2V_0}{\mu^2}$$
 The slow-roll parameters are:
 $$\epsilon_V = \frac{M_{\rm Pl}^2}{2}\left(\frac{V'}{V}\right)^2 = \frac{M_{\rm Pl}^2}{2}\left(\frac{-2\phi/\mu^2}{1 - \phi^2/\mu^2}\right)^2 = \frac{2 M_{\rm Pl}^2 \phi^2}{\mu^4 (1 - \phi^2/\mu^2)^2}$$
 $$\eta_V = M_{\rm Pl}^2 \frac{V''}{V} = -\frac{2 M_{\rm Pl}^2}{\mu^2 (1 - \phi^2/\mu^2)}$$
-Inflation requires $|\eta_V| < 1$:
+Inflation requires $\lvert \eta_V\rvert < 1$:
 $$\frac{2 M_{\rm Pl}^2}{\mu^2} < 1 \implies \mu > \sqrt{2} M_{\rm Pl}$$
 Since $\mu$ is necessarily super-Planckian, and inflation occurs over field values rolling toward $\mu$, the field excursion during the observable 50–60 e-folds satisfies $\Delta\phi \sim \mu > M_{\rm Pl}$, classifying this as a large-field model.
 
@@ -429,13 +429,13 @@ $$E_{\rm inf} \approx 3.23 \times 10^{16} \times (10^{-3})^{1/4} \left(\frac{r}{
 
 ### Problem
 Plot/analyze the finite-temperature potential:
-$$V_T(\phi) = \frac{\lambda}{4}(\phi^2 - \sigma^2)^2 + \alpha \phi^2 T^2 + \gamma |\phi|^3 T$$
+$$V_T(\phi) = \frac{\lambda}{4}(\phi^2 - \sigma^2)^2 + \alpha \phi^2 T^2 + \gamma \lvert \phi\rvert^3 T$$
 with $\alpha > 0, \gamma < 0$.
 
 ### Physical analysis
 * At $T = 0$: $V_0(\phi) = \frac{\lambda}{4}(\phi^2 - \sigma^2)^2$ has degenerate minima at $\phi = \pm\sigma$.
 * At high $T$: The quadratic thermal term $\alpha \phi^2 T^2 > 0$ dominates, making $\phi = 0$ the unique global minimum (symmetric phase).
-* At intermediate $T$ (critical temperature $T_c$): The cubic term $\gamma |\phi|^3 T$ ($\gamma < 0$) generates a potential barrier separating the local minimum at $\phi = 0$ from the true vacuum at $\phi \neq 0$.
+* At intermediate $T$ (critical temperature $T_c$): The cubic term $\gamma \lvert \phi\rvert^3 T$ ($\gamma < 0$) generates a potential barrier separating the local minimum at $\phi = 0$ from the true vacuum at $\phi \neq 0$.
 The barrier prevents continuous rolling. Phase transition occurs via quantum tunneling and bubble nucleation, characterizing a **first-order phase transition**.
 
 ---
@@ -487,7 +487,7 @@ Compute explicitly the LHS of the Boltzmann equation $\frac{dn_1}{dt} + 3H n_1 =
 ### Derivation
 In FLRW spacetime, the phase-space distribution $f(E, t)$ obeys:
 $$\hat{L}[f] = p^\mu \frac{\partial f}{\partial x^\mu} - \Gamma^\mu_{\alpha\beta} p^\alpha p^\beta \frac{\partial f}{\partial p^\mu} = C[f]$$
-For homogeneous $f(p, t)$ where $p = |\vec{p}|$:
+For homogeneous $f(p, t)$ where $p = \lvert \vec{p}\rvert$:
 $$E \frac{\partial f}{\partial t} - H p^2 \frac{\partial f}{\partial p} = C[f]$$
 Dividing by $E$:
 $$\frac{\partial f}{\partial t} - H \frac{p^2}{E} \frac{\partial f}{\partial p} = \frac{C[f]}{E}$$

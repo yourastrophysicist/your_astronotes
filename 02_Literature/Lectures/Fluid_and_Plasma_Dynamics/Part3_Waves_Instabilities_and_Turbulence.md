@@ -24,7 +24,7 @@ $$\rho_0 = \text{constant}, \quad p_0 = \text{constant}, \quad \vec{v}_0 = 0$$
 
 Introduce small Eulerian perturbations:
 $$\rho(\vec{x}, t) = \rho_0 + \rho_1(\vec{x}, t), \quad p(\vec{x}, t) = p_0 + p_1(\vec{x}, t), \quad \vec{v}(\vec{x}, t) = \vec{v}_1(\vec{x}, t)$$
-where $|\rho_1| \ll \rho_0$, $|p_1| \ll p_0$.
+where $\lvert \rho_1\rvert \ll \rho_0$, $\lvert p_1\rvert \ll p_0$.
 
 Because acoustic wave oscillations occur rapidly compared to heat exchange timescales, the thermodynamic process is isentropic (adiabatic). The pressure perturbation relates to the density perturbation via the adiabatic sound speed $c_s$:
 $$p_1 = \left( \frac{\partial p}{\partial \rho} \right)_s \rho_1 = c_s^2 \rho_1, \quad c_s = \sqrt{\frac{\gamma p_0}{\rho_0}}$$
@@ -146,9 +146,9 @@ The dispersion relation is:
 $$\omega = k \frac{\rho_1 U_1 + \rho_2 U_2}{\rho_1 + \rho_2} \pm \sqrt{-k^2 \frac{\rho_1 \rho_2 (U_1 - U_2)^2}{(\rho_1 + \rho_2)^2} + g k \frac{\rho_1 - \rho_2}{\rho_1 + \rho_2}}$$
 
 In the absence of gravity ($g = 0$):
-$$\omega = k \frac{\rho_1 U_1 + \rho_2 U_2}{\rho_1 + \rho_2} \pm i k \frac{\sqrt{\rho_1 \rho_2}}{\rho_1 + \rho_2} |U_1 - U_2|$$
+$$\omega = k \frac{\rho_1 U_1 + \rho_2 U_2}{\rho_1 + \rho_2} \pm i k \frac{\sqrt{\rho_1 \rho_2}}{\rho_1 + \rho_2} \lvert U_1 - U_2\rvert$$
 
-The imaginary part is non-zero for any finite velocity shear $|U_1 - U_2| > 0$. The interface is unconditionally unstable, rolling up into characteristic Kelvin-Helmholtz cat's-eye vortices (commonly observed in astrophysical jets and planetary cloud bands).
+The imaginary part is non-zero for any finite velocity shear $\lvert U_1 - U_2\rvert > 0$. The interface is unconditionally unstable, rolling up into characteristic Kelvin-Helmholtz cat's-eye vortices (commonly observed in astrophysical jets and planetary cloud bands).
 
 ---
 

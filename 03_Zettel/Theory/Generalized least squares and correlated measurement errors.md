@@ -15,7 +15,7 @@ Let $\epsilon$ follow a zero-mean multivariate normal distribution with a non-di
 $$\epsilon \sim \mathcal{N}(0, \Sigma)$$
 
 The likelihood function is:
-$$p(y|\theta, \Sigma) = \frac{1}{(2\pi)^{N/2} |\Sigma|^{1/2}} \exp\left[ -\frac{1}{2} (y - X\theta)^T \Sigma^{-1} (y - X\theta) \right]$$
+$$p(y \mid \theta, \Sigma) = \frac{1}{(2\pi)^{N/2} \lvert \Sigma\rvert^{1/2}} \exp\left[ -\frac{1}{2} (y - X\theta)^T \Sigma^{-1} (y - X\theta) \right]$$
 
 The log-likelihood defines the generalized chi-squared statistic $\chi^2(\theta)$:
 $$\chi^2(\theta) \equiv (y - X\theta)^T \Sigma^{-1} (y - X\theta)$$

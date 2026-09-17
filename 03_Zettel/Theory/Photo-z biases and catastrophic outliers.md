@@ -13,7 +13,7 @@ photo-z accuracy is usually summarized by:
 
 - **bias** $\langle \Delta z / (1+z) \rangle$, the systematic offset
 - **scatter** $\sigma_{\text{NMAD}}(\Delta z / (1+z))$, the typical error
-- **catastrophic outlier fraction** $\eta$, the fraction with $|\Delta z| / (1+z) > 0.15$ (a common threshold)
+- **catastrophic outlier fraction** $\eta$, the fraction with $\lvert \Delta z\rvert / (1+z) > 0.15$ (a common threshold)
 
 modern deep-field photo-z (COSMOS2020, JADES) reach $\sigma \approx 0.01$ for bright spec-z-confirmed galaxies, but $\eta$ can climb to 5–15% at faint magnitudes.
 

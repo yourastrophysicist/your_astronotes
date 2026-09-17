@@ -56,7 +56,7 @@ The term $3H\dot{\phi}_0$ acts as a **Hubble friction** force, dissipating kinet
 
 Inflation requires the accelerated expansion to persist for long enough to achieve at least 50 to 60 e-folds. This demands two distinct conditions:
 1. **Potential dominance**: $\dot{\phi}^2 \ll V(\phi)$, ensuring $\ddot{a} > 0$
-2. **Small acceleration**: $|\ddot{\phi}| \ll |3H\dot{\phi}|$ and $|\ddot{\phi}| \ll |V'(\phi)|$, ensuring that the field does not accelerate rapidly down the slope
+2. **Small acceleration**: $\lvert \ddot{\phi}\rvert \ll \lvert 3H\dot{\phi}\rvert$ and $\lvert\ddot{\phi}\rvert \ll \lvert V'(\phi)\rvert$, ensuring that the field does not accelerate rapidly down the slope
 
 Under these conditions, the background equations simplify to the **slow-roll equations**:
 $$H^2 \approx \frac{V(\phi)}{3 M_{\rm Pl}^2}$$

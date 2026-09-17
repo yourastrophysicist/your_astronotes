@@ -29,7 +29,7 @@ so doubling the slit separation halves the resolved angle. for $\lambda = 500$ n
 a *point source* at infinity produces fringes with visibility $V = 1$ (perfect contrast).
 
 an *extended uniform disk* of angular diameter $\theta_d$ produces fringes with reduced visibility:
-$$V(d) = \left|\frac{2 J_1(\pi \theta_d d/\lambda)}{\pi \theta_d d/\lambda}\right|$$
+$$V(d) = \left\lvert\frac{2 J_1(\pi \theta_d d/\lambda)}{\pi \theta_d d/\lambda}\right\rvert$$
 
 the fringe pattern is the *incoherent sum* of fringe patterns from each point on the disk; nearby points produce slightly shifted fringes that wash each other out.
 

@@ -38,9 +38,9 @@ definition (fringe contrast):
 $$V = \frac{I_{\max} - I_{\min}}{I_{\max} + I_{\min}}, \quad V \in [0, 1]$$
 
 complex visibility:
-$$\mathcal V = |\mathcal V| \, e^{i\phi}$$
+$$\mathcal V = \lvert \mathcal V\rvert \, e^{i\phi}$$
 
-where $|\mathcal V|$ is the contrast and $\phi$ is the fringe-position phase.
+where $\lvert \mathcal V\rvert$ is the contrast and $\phi$ is the fringe-position phase.
 
 ## Van Cittert-Zernike theorem
 
@@ -58,7 +58,7 @@ $$I(\mathbf l) = \int \int \mathcal V(\mathbf u) \, e^{+2\pi i \mathbf u \cdot \
 **point source** at center: $\mathcal V(\mathbf u) = 1$ (constant).
 
 **uniform disk** of angular diameter $\theta$:
-$$V(B) = \left|\frac{2 J_1(\pi \theta B/\lambda)}{\pi \theta B/\lambda}\right|$$
+$$V(B) = \left\lvert\frac{2 J_1(\pi \theta B/\lambda)}{\pi \theta B/\lambda}\right\rvert$$
 
 (Airy-like). first null at $B = 1.22 \lambda/\theta$.
 
@@ -89,7 +89,7 @@ $$\Phi_{ijk} = \phi_{ij} + \phi_{jk} + \phi_{ki}$$
 atmospheric phase contributions cancel because each appears with opposite signs in two terms. closure phase is **atmosphere-independent**, the basis for optical imaging.
 
 closure amplitude (4 baselines):
-$$A_{ijkl} = \frac{|V_{ij}| |V_{kl}|}{|V_{ik}| |V_{jl}|}$$
+$$A_{ijkl} = \frac{\lvert V_{ij}\lvert  \rvertV_{kl}\lvert }{\rvertV_{ik}\lvert  \rvertV_{jl}\rvert}$$
 
 gain-independent.
 
@@ -219,7 +219,7 @@ $$\sigma\simeq\frac{\mathrm{SEFD}}{\sqrt{N_{\rm ant}(N_{\rm ant}-1)\Delta\nu t}}
 
 heterodyne mixing:
 
-$$\nu_{\rm IF}=|\nu_{\rm RF}-\nu_{\rm LO}|$$
+$$\nu_{\rm IF}=\lvert \nu_{\rm RF}-\nu_{\rm LO}\rvert$$
 
 geometric delay:
 

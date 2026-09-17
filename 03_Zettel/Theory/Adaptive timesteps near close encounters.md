@@ -17,7 +17,7 @@ a fixed timestep tuned for the smallest orbit makes the largest orbits enormousl
 
 the standard adaptive-timestep formula in collisional N-body:
 
-$$\Delta t_i = \eta \sqrt{\frac{|\mathbf{a}_i|}{|\dddot{\mathbf{r}}_i|}}$$
+$$\Delta t_i = \eta \sqrt{\frac{\lvert \mathbf{a}_i\lvert }{\rvert\dddot{\mathbf{r}}_i\rvert}}$$
 
 where $\eta \sim 0.02$ is a tuning parameter and $\dddot{\mathbf{r}}_i$ is the **second derivative of acceleration** (snap). geometric meaning: $\Delta t$ scales with the local dynamical timescale of particle $i$. close encounters have huge $\dddot{\mathbf{r}}$, hence tiny $\Delta t$.
 

@@ -9,7 +9,7 @@ every explicit time-stepping scheme for a PDE has a maximum stable timestep $\De
 
 ## the von Neumann stability analysis
 
-the workhorse method for analyzing linear schemes. assume a Fourier mode solution $u_j^n = \xi^n e^{ik j \Delta x}$, plug into the discrete scheme, solve for the **amplification factor** $\xi(k)$. stability requires $|\xi(k)| \leq 1$ for all $k$. otherwise that mode grows in time, and roundoff seeds will eventually make the whole solution blow up.
+the workhorse method for analyzing linear schemes. assume a Fourier mode solution $u_j^n = \xi^n e^{ik j \Delta x}$, plug into the discrete scheme, solve for the **amplification factor** $\xi(k)$. stability requires $\lvert \xi(k)\rvert \leq 1$ for all $k$. otherwise that mode grows in time, and roundoff seeds will eventually make the whole solution blow up.
 
 ## the parabolic constraint (diffusion)
 
@@ -17,7 +17,7 @@ FTCS for $\partial_t u = D \partial_x^2 u$ has
 
 $$\xi = 1 - 2\alpha(1 - \cos k\Delta x), \quad \alpha = D \Delta t/\Delta x^2$$
 
-worst case $k\Delta x = \pi$: $\xi = 1 - 4\alpha$. $|\xi| \leq 1$ requires:
+worst case $k\Delta x = \pi$: $\xi = 1 - 4\alpha$. $\lvert \xi\rvert \leq 1$ requires:
 
 $$\boxed{\alpha = \frac{D \Delta t}{\Delta x^2} \leq \frac{1}{2}}$$
 
@@ -33,7 +33,7 @@ for the wave equation $\partial_t u + c \partial_x u = 0$ discretized by upwind:
 
 $$\xi = 1 - \nu(1 - e^{-ik\Delta x}), \quad \nu = c\Delta t/\Delta x$$
 
-stability requires $|\xi|^2 \leq 1$, which gives
+stability requires $\lvert \xi\rvert^2 \leq 1$, which gives
 
 $$\boxed{\nu = \frac{c \Delta t}{\Delta x} \leq 1}$$
 
@@ -48,7 +48,7 @@ implications:
 FTCS for $\partial_t u + c \partial_x u = 0$:
 $$u_j^{n+1} = u_j^n - \tfrac{\nu}{2}(u_{j+1}^n - u_{j-1}^n)$$
 
-amplification: $\xi = 1 - i\nu \sin(k\Delta x)$. $|\xi|^2 = 1 + \nu^2 \sin^2(k\Delta x) > 1$ for any $\nu > 0$. **every Fourier mode grows**, no $\Delta t$ small enough saves the scheme. this is why we use upwind, Lax-Wendroff, or implicit schemes for hyperbolic problems.
+amplification: $\xi = 1 - i\nu \sin(k\Delta x)$. $\lvert \xi\rvert^2 = 1 + \nu^2 \sin^2(k\Delta x) > 1$ for any $\nu > 0$. **every Fourier mode grows**, no $\Delta t$ small enough saves the scheme. this is why we use upwind, Lax-Wendroff, or implicit schemes for hyperbolic problems.
 
 ## what blowup looks like
 

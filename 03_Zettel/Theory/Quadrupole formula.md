@@ -11,7 +11,7 @@ the TT-gauge metric perturbation at distance $r$ from a source:
 $$\boxed{\, h^{TT}_{ij}(t, \vec x) = \frac{2G}{r c^4}\,\ddot Q^{TT}_{ij}(t - r/c) \,}$$
 
 with the **mass quadrupole moment**:
-$$Q_{ij}(t) = \int \rho(t, \vec x')\!\left(x'_i x'_j - \tfrac{1}{3}\delta_{ij}|\vec x'|^2\right)d^3x'$$
+$$Q_{ij}(t) = \int \rho(t, \vec x')\!\left(x'_i x'_j - \tfrac{1}{3}\delta_{ij}\lvert \vec x'\rvert^2\right)d^3x'$$
 
 (the traceless second moment of the mass distribution). the TT projection extracts only the transverse-traceless part along the wave direction $\hat n$.
 

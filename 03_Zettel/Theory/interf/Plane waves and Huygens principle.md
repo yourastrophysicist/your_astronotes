@@ -15,8 +15,8 @@ $$\psi(\mathbf r, t) = A \, e^{i(\mathbf k \cdot \mathbf r - \omega t)}$$
 
 with:
 - $A$ amplitude
-- $\mathbf k$ wave vector, $|\mathbf k| = 2\pi/\lambda$, direction = direction of propagation
-- $\omega = 2\pi \nu = c |\mathbf k|$ angular frequency
+- $\mathbf k$ wave vector, $\lvert \mathbf k\rvert = 2\pi/\lambda$, direction = direction of propagation
+- $\omega = 2\pi \nu = c \lvert \mathbf k\rvert$ angular frequency
 - $\mathbf k \cdot \mathbf r - \omega t$ phase, constant on planes perpendicular to $\mathbf k$
 
 light from a distant source (a star) arrives at Earth as essentially a plane wave: the wavefronts are sections of a sphere whose radius (the distance) is so large that locally they look flat.
@@ -35,7 +35,7 @@ mathematically: the wave at a point $P$ is the integral over the wavefront $S$ o
 
 $$\psi(P) = \int_S K(\theta) \, \frac{\psi(\mathbf r')}{r} \, e^{ikr} \, dS$$
 
-with $r = |P - \mathbf r'|$ the distance from each source point to $P$, and $K(\theta)$ an "obliquity factor" that depends on the angle (formally derived in Kirchhoff's diffraction theory).
+with $r = \lvert P - \mathbf r'\rvert$ the distance from each source point to $P$, and $K(\theta)$ an "obliquity factor" that depends on the angle (formally derived in Kirchhoff's diffraction theory).
 
 Huygens' principle is what gives us **diffraction**: when a wave passes through a slit, only the points within the slit contribute as secondary sources, and the new wave spreads beyond the geometric shadow.
 

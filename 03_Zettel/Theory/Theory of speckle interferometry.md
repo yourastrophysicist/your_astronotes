@@ -28,9 +28,9 @@ In Fourier space, the instantaneous image $\tilde{I}(\mathbf{u})$ is the product
 $$\tilde{I}(\mathbf{u}) = \tilde{O}(\mathbf{u}) \tilde{S}(\mathbf{u})$$
 
 If we take the squared modulus to form the power spectrum and average over many short exposures, we get
-$$\langle |\tilde{I}(\mathbf{u})|^2 \rangle = |\tilde{O}(\mathbf{u})|^2 \langle |\tilde{S}(\mathbf{u})|^2 \rangle$$
+$$\langle \vert\tilde{I}(\mathbf{u})\vert ^2 \rangle = \vert\tilde{O}(\mathbf{u})\vert ^2 \langle   \vert\tilde{S}(\mathbf{u})\vert ^2 \rangle$$
 
-Here $\langle |\tilde{S}(\mathbf{u})|^2 \rangle$ is the speckle transfer function. Unlike the long-exposure transfer function which drops to zero at the seeing limit $r_0/\lambda$, the speckle transfer function has a high-frequency tail that extends all the way out to the telescope's diffraction cutoff $D/\lambda$.
+Here $\langle   \vert\tilde{S}(\mathbf{u})\vert ^2 \rangle$ is the speckle transfer function. Unlike the long-exposure transfer function which drops to zero at the seeing limit $r_0/\lambda$, the speckle transfer function has a high-frequency tail that extends all the way out to the telescope's diffraction cutoff $D/\lambda$.
 
 ---
 

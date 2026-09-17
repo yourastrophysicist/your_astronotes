@@ -29,11 +29,11 @@ occurs across an interface separating two fluid layers in relative tangential mo
 
 including both density difference and velocity shear, the general dispersion relation is:
 
-$$\omega = k \frac{\rho_1 U_1 + \rho_2 U_2}{\rho_1 + \rho_2} \pm i k \frac{\sqrt{\rho_1 \rho_2}}{\rho_1 + \rho_2} |U_1 - U_2|$$
+$$\omega = k \frac{\rho_1 U_1 + \rho_2 U_2}{\rho_1 + \rho_2} \pm i k \frac{\sqrt{\rho_1 \rho_2}}{\rho_1 + \rho_2} \lvert U_1 - U_2\rvert$$
 
 the imaginary component is unconditionally non-zero for any finite velocity shear $\Delta U > 0$, giving growth rate:
 
-$$\gamma_{\text{KH}} = k \frac{\sqrt{\rho_1 \rho_2}}{\rho_1 + \rho_2} |U_1 - U_2|$$
+$$\gamma_{\text{KH}} = k \frac{\sqrt{\rho_1 \rho_2}}{\rho_1 + \rho_2} \lvert U_1 - U_2\rvert$$
 
 shear rolls the interface into non-linear cat's-eye vortex spirals, breaking laminar flow into fully developed turbulence.
 

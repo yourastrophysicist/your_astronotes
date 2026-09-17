@@ -13,7 +13,7 @@ the single-particle distribution function $f_1(\mathbf{x}_1, \mathbf{v}_1, t)$ a
 
 $$f_s(\mathbf{x}_1, \dots, \mathbf{v}_s, t) = V^s \int \dots \int f_N \, d^3x_{s+1} d^3v_{s+1} \dots d^3x_N d^3v_N$$
 
-for a Hamiltonian with pairwise interaction potential $U_{ij} = U(|\mathbf{x}_i - \mathbf{x}_j|)$, the first BBGKY equation is:
+for a Hamiltonian with pairwise interaction potential $U_{ij} = U(\lvert \mathbf{x}_i - \mathbf{x}_j\rvert)$, the first BBGKY equation is:
 
 $$\frac{\partial f_1}{\partial t} + \mathbf{v}_1 \cdot \frac{\partial f_1}{\partial \mathbf{x}_1} + \frac{\mathbf{F}_{\text{ext}}}{m} \cdot \frac{\partial f_1}{\partial \mathbf{v}_1} = \frac{N-1}{m V} \int \frac{\partial U_{12}}{\partial \mathbf{x}_1} \cdot \frac{\partial f_2}{\partial \mathbf{v}_1} \, d^3x_2 d^3v_2$$
 
@@ -33,7 +33,7 @@ where the binary collision operator takes the integral form:
 
 $$C(f) = \int \int (f' f'_1 - f f_1) \, g \, \sigma(g, \Omega) \, d\Omega \, d^3v_1$$
 
-with relative velocity $g = |\mathbf{v} - \mathbf{v}_1|$, and primed quantities denoting velocities after an elastic collision.
+with relative velocity $g = \lvert \mathbf{v} - \mathbf{v}_1\rvert$, and primed quantities denoting velocities after an elastic collision.
 
 ## see also
 

@@ -71,7 +71,7 @@ title: "Fluid_and_Plasma_Dynamics_MOC"
 
 4. **Single-Particle Motion and Magnetic Confinement**:
    - Note: [Part4_Single_Particle_Motion_and_Magnetic_Confinement](../02_Literature/Lectures/Fluid_and_Plasma_Dynamics/Part4_Single_Particle_Motion_and_Magnetic_Confinement.html)
-   - Scope: Cyclotron gyration, cyclotron frequency $\Omega_c = |q|B/m$, Larmor radius $\rho_L = v_\perp / \Omega_c$, guiding-center concept, general force drift $\vec{v}_D = (\vec{F}\times\vec{B})/(q B^2)$, $E \times B$ drift, gradient drift $\vec{v}_{\nabla B} \propto \vec{B} \times \nabla B$, curvature drift $\vec{v}_c \propto \vec{R}_c \times \vec{B}$, vacuum magnetic drift, polarization drift, magnetic mirror geometry, parallel force $F_\parallel = -\mu \nabla_\parallel B$, first adiabatic invariant ($\mu = m v_\perp^2 / (2B)$), mirror reflection condition $\sin^2\alpha_0 \ge 1/R_m$, loss cone angle, tokamak toroidal magnetic geometry $B \approx B_0(1 - \epsilon\cos\theta)$, trapped vs passing particles, tokamak trapping condition $|v_{\parallel 0}|/v_0 \le \sqrt{2\epsilon}$, trapped fraction $f_{tr} \approx \sqrt{2\epsilon}$, banana orbits, banana width $\Delta r_b \approx \frac{q_s}{\sqrt{\epsilon}}\rho_L$, bounce frequency $\omega_b$, neoclassical transport, bootstrap current.
+   - Scope: Cyclotron gyration, cyclotron frequency $\Omega_c = \lvert q\rvert B/m$, Larmor radius $\rho_L = v_\perp / \Omega_c$, guiding-center concept, general force drift $\vec{v}_D = (\vec{F}\times\vec{B})/(q B^2)$, $E \times B$ drift, gradient drift $\vec{v}_{\nabla B} \propto \vec{B} \times \nabla B$, curvature drift $\vec{v}_c \propto \vec{R}_c \times \vec{B}$, vacuum magnetic drift, polarization drift, magnetic mirror geometry, parallel force $F_\parallel = -\mu \nabla_\parallel B$, first adiabatic invariant ($\mu = m v_\perp^2 / (2B)$), mirror reflection condition $\sin^2\alpha_0 \ge 1/R_m$, loss cone angle, tokamak toroidal magnetic geometry $B \approx B_0(1 - \epsilon\cos\theta)$, trapped vs passing particles, tokamak trapping condition $\lvert v_{\parallel 0}\rvert/v_0 \le \sqrt{2\epsilon}$, trapped fraction $f_{tr} \approx \sqrt{2\epsilon}$, banana orbits, banana width $\Delta r_b \approx \frac{q_s}{\sqrt{\epsilon}}\rho_L$, bounce frequency $\omega_b$, neoclassical transport, bootstrap current.
    - Oral Exam Questions: 12, 13, 14.
 
 5. **Plasma Kinetics, Gyrokinetics, and Waves**:
@@ -217,7 +217,7 @@ The official oral exam bank consists of 30 questions. The comprehensive, blackbo
 - **Kolmogorov Energy Spectrum**: $E(k) = C_K \epsilon^{2/3} k^{-5/3}$
 - **Kolmogorov Microscale**: $\eta_K = \left(\frac{\nu^3}{\epsilon}\right)^{1/4}$
 - **Grad-Shafranov Equation**: $\Delta^* \psi \equiv R \frac{\partial}{\partial R}\left(\frac{1}{R}\frac{\partial \psi}{\partial R}\right) + \frac{\partial^2 \psi}{\partial Z^2} = -\mu_0 R^2 p'(\psi) - F F'(\psi)$
-- **Landau Damping Rate**: $\gamma_L = \frac{\pi}{2} \frac{\omega_p^3}{k^2} \left.\frac{\partial f_0}{\partial v}\right|_{v = \omega/k}$
+- **Landau Damping Rate**: $\gamma_L = \frac{\pi}{2} \frac{\omega_p^3}{k^2} \left.\frac{\partial f_0}{\partial v}\right\rvert_{v = \omega/k}$
 - **Sweet-Parker Inflow Rate**: $\frac{v_{\mathrm{in}}}{v_A} = S^{-1/2} = \left(\frac{\eta}{\mu_0 L v_A}\right)^{1/2}$
 {% endraw %}
 

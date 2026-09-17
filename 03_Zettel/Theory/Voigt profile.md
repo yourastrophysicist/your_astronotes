@@ -37,8 +37,8 @@ equivalently the real part of the **Faddeeva function** $w(z)$ with $z = u + ia$
 ## the line behaviour
 
 real spectra show:
-- **near line center** ($|u| \lesssim 1$): Gaussian dominates. core depth set by integrated optical depth.
-- **at line wings** ($|u| \gtrsim 5$): Lorentzian dominates. fall-off as $1/u^2$ rather than exponential.
+- **near line center** ($\lvert u\rvert \lesssim 1$): Gaussian dominates. core depth set by integrated optical depth.
+- **at line wings** ($\lvert u\rvert \gtrsim 5$): Lorentzian dominates. fall-off as $1/u^2$ rather than exponential.
 
 so a typical absorption line has a deep narrow Doppler core surrounded by extended Lorentzian wings. visible in solar Ca II H + K, in stellar Balmer wings, and in the famous Damped Lyman Alpha (DLA) absorbers in QSO spectra.
 

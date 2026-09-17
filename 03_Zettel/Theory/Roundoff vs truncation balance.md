@@ -16,17 +16,17 @@ every finite-difference computation has two errors that fight each other as I sh
 
 for forward difference $f'(x) \approx [f(x+h) - f(x)]/h$:
 
-- truncation: $\sim \tfrac{h}{2} |f''(x)|$
-- roundoff: $\sim \epsilon |f(x)|/h$ (where $\epsilon \sim 10^{-16}$ is machine epsilon)
+- truncation: $\sim \tfrac{h}{2} \lvert f''(x)\rvert$
+- roundoff: $\sim \epsilon \lvert f(x)\rvert/h$ (where $\epsilon \sim 10^{-16}$ is machine epsilon)
 
 total:
-$$E(h) \sim \frac{h |f''|}{2} + \frac{\epsilon |f|}{h}$$
+$$E(h) \sim \frac{h \lvert f''\rvert}{2} + \frac{\epsilon \lvert f\rvert}{h}$$
 
 minimum at $dE/dh = 0$:
-$$h_{\rm opt} \sim \sqrt{\frac{2\epsilon |f|}{|f''|}} \approx \sqrt\epsilon \approx 10^{-8}$$
+$$h_{\rm opt} \sim \sqrt{\frac{2\epsilon \lvert f\rvert}{\lvert f''\rvert}} \approx \sqrt\epsilon \approx 10^{-8}$$
 
 minimum error:
-$$E_{\min} \sim \sqrt{\epsilon |f| |f''|} \approx 10^{-8}$$
+$$E_{\min} \sim \sqrt{\epsilon \lvert f\rvert \lvert f''\rvert} \approx 10^{-8}$$
 
 so the **best forward-difference accuracy is only $\sim 10^{-8}$**, not the $10^{-16}$ of double precision. **going smaller than $h \sim 10^{-8}$ makes the answer *worse*.**
 
@@ -43,7 +43,7 @@ each higher order pushes $h_{\rm opt}$ larger and the achievable error smaller. 
 
 ## the experimental verification
 
-the standard demo: pick a known function, sweep $h$ from $10^0$ down to $10^{-15}$, plot $|f'_{\rm numerical}(x_0) - f'_{\rm true}(x_0)|$ vs $h$ on log-log axes. expected:
+the standard demo: pick a known function, sweep $h$ from $10^0$ down to $10^{-15}$, plot $\lvert f'_{\rm numerical}(x_0) - f'_{\rm true}(x_0)\rvert$ vs $h$ on log-log axes. expected:
 
 - left side (large $h$): linear with slope $p$ (truncation regime)
 - right side (small $h$): linear with slope $-1$ (roundoff regime)

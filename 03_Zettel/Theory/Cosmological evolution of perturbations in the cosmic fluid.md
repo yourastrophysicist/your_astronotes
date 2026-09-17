@@ -7,7 +7,7 @@ in the early universe, small density perturbations evolved according to **gravit
 
 ## the perturbed fluid
 
-write the cosmic density as $\rho(\vec x, t) = \bar\rho(t)[1 + \delta(\vec x, t)]$ with $\delta$ the **density contrast**. in the linear regime $|\delta| \ll 1$, evolution follows linear ODEs.
+write the cosmic density as $\rho(\vec x, t) = \bar\rho(t)[1 + \delta(\vec x, t)]$ with $\delta$ the **density contrast**. in the linear regime $\lvert \delta\rvert \ll 1$, evolution follows linear ODEs.
 
 multiple fluids (photons, baryons, dark matter, neutrinos) couple via gravity + radiation pressure (for charged species).
 

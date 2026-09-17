@@ -63,7 +63,7 @@ A radio telescope antenna converts free-space electromagnetic waves into a digit
 5. **Digital Correlator**:
    - **Role**: Combines signals from pairs of antennas $i$ and $j$.
    - **Physics**: Digitizes $V_i(t)$ and $V_j(t)$ and computes the complex cross-correlation:
-     $$\mathcal{V}_{ij} = \langle V_i(t) V_j^*(t) \rangle = |V_{ij}| e^{i\phi_{ij}}$$
+     $$\mathcal{V}_{ij} = \langle V_i(t) V_j^*(t) \rangle = \vertV_{ij} \vert e^{i\phi_{ij}}$$
      yielding the Fourier component of the sky brightness distribution $\mathcal{I}(l,m)$ at spatial frequency $\mathbf{u} = \mathbf{B}/\lambda$ (Van Cittert-Zernike theorem).
 
 ---
@@ -89,7 +89,7 @@ Michelson placed two outer flat mirrors $M_1$ and $M_4$ separated by baseline $B
 #### Mathematical Derivation of Fringe Visibility & The Zero Condition
 According to the Van Cittert-Zernike theorem, for a circular star modeled as a uniform bright disk of angular diameter $\theta_*$, the complex fringe visibility as a function of baseline $B$ is given by the normalized 2D Fourier transform of a disk (the Airy visibility function):
 
-$$V(B) = \frac{I_{\max} - I_{\min}}{I_{\max} + I_{\min}} = \left| \frac{2 J_1(x)}{x} \right|, \quad \text{where } x = \frac{\pi \theta_* B}{\lambda}$$
+$$V(B) = \frac{I_{\max} - I_{\min}}{I_{\max} + I_{\min}} = \left\lvert \frac{2 J_1(x)}{x} \right\rvert, \quad \text{where } x = \frac{\pi \theta_* B}{\lambda}$$
 
 where $J_1(x)$ is the first-order Bessel function of the first kind.
 

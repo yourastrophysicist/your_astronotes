@@ -40,7 +40,7 @@ $$\psi(u, v) \propto \int\int A(\xi, \eta) \, e^{-2\pi i (u \xi + v \eta)} \, d\
 ## intensity
 
 since $\psi \propto \tilde A$,
-$$I(u, v) \propto |\tilde A(u, v)|^2$$
+$$I(u, v) \propto \lvert \tilde A(u, v)\rvert^2$$
 
 intensity is the *squared modulus* of the Fourier transform. this is the **diffraction pattern**.
 
@@ -48,7 +48,7 @@ intensity is the *squared modulus* of the Fourier transform. this is the **diffr
 
 ### single slit of width $a$
 
-$A(\xi) = \text{rect}(\xi/a) = 1$ for $|\xi| < a/2$, 0 else.
+$A(\xi) = \text{rect}(\xi/a) = 1$ for $\lvert \xi\rvert < a/2$, 0 else.
 
 Fourier transform: $\tilde A(u) = a \, \text{sinc}(\pi a u)$ where $\text{sinc}(x) = \sin x/x$.
 

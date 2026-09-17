@@ -11,7 +11,7 @@ the power spectrum of a time series tells me how the signal's energy is distribu
 
 given $N$ samples $x_n$ at intervals $\Delta t$, the periodogram is
 
-$$P_k = \frac{|X_k|^2}{N \Delta t}$$
+$$P_k = \frac{\lvert X_k\rvert^2}{N \Delta t}$$
 
 (units: power per Hz, with $X_k$ the DFT). plot $P_k$ vs $f_k$ on log-log axes.
 
@@ -60,11 +60,11 @@ freqs, P = welch(x, fs=1/dt, nperseg=N//4, detrend='linear')
 freqs, P = welch(x, fs=1/dt)
 ```
 
-returns $P$ in **power spectral density** units of $|x|^2/\text{Hz}$. integrate over a frequency band to get total power in that band:
+returns $P$ in **power spectral density** units of $\lvert x\rvert^2/\text{Hz}$. integrate over a frequency band to get total power in that band:
 
 $$\text{power}_{\Delta f} = \int_{f_1}^{f_2} P(f) \, df \approx \sum_{k \in [f_1, f_2]} P_k \cdot \Delta f$$
 
-Parseval's theorem: $\sum |x_n|^2 \cdot \Delta t = \int P(f) \, df$.
+Parseval's theorem: $\sum \lvert x_n\rvert^2 \cdot \Delta t = \int P(f) \, df$.
 
 ## reading a power spectrum
 

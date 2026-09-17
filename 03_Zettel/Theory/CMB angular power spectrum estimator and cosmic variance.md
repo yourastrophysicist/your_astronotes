@@ -22,23 +22,23 @@ where $C_\ell$ is the true theoretical angular power spectrum.
 ## The Unbiased Estimator
 
 For an individual realization of the universe, each multipole $\ell$ provides $2\ell + 1$ independent $m$-modes ($m \in [-\ell, \ell]$). The standard estimator $\hat{C}_\ell$ is:
-$$\hat{C}_\ell \equiv \frac{1}{2\ell + 1} \sum_{m=-\ell}^\ell |a_{\ell m}|^2$$
+$$\hat{C}_\ell \equiv \frac{1}{2\ell + 1} \sum_{m=-\ell}^\ell \lvert a_{\ell m}\rvert^2$$
 
 Taking the expectation value:
-$$\mathbb{E}[\hat{C}_\ell] = \frac{1}{2\ell + 1} \sum_{m=-\ell}^\ell \mathbb{E}[|a_{\ell m}|^2] = \frac{1}{2\ell + 1} (2\ell + 1) C_\ell = C_\ell$$
+$$\mathbb{E}[\hat{C}_\ell] = \frac{1}{2\ell + 1} \sum_{m=-\ell}^\ell \mathbb{E}[\lvert a_{\ell m}\rvert^2] = \frac{1}{2\ell + 1} (2\ell + 1) C_\ell = C_\ell$$
 confirming that $\hat{C}_\ell$ is an unbiased estimator.
 
 ## Derivation of Cosmic Variance
 
 To calculate the variance $\text{Var}(\hat{C}_\ell) = \mathbb{E}[\hat{C}_\ell^2] - (\mathbb{E}[\hat{C}_\ell])^2$:
-$$\mathbb{E}[\hat{C}_\ell^2] = \frac{1}{(2\ell+1)^2} \sum_{m, m'} \mathbb{E}[|a_{\ell m}|^2 |a_{\ell m'}|^2]$$
+$$\mathbb{E}[\hat{C}_\ell^2] = \frac{1}{(2\ell+1)^2} \sum_{m, m'} \mathbb{E}[\lvert a_{\ell m}\rvert^2 \lvert a_{\ell m'}\rvert^2]$$
 
 By Wick's theorem for a zero-mean Gaussian random field:
 $$\mathbb{E}[a_1 a_2^* a_3 a_4^*] = \mathbb{E}[a_1 a_2^*]\mathbb{E}[a_3 a_4^*] + \mathbb{E}[a_1 a_3]\mathbb{E}[a_2^* a_4^*] + \mathbb{E}[a_1 a_4^*]\mathbb{E}[a_2^* a_3]$$
 
 Applying Wick's theorem:
-$$\mathbb{E}[|a_{\ell m}|^2 |a_{\ell m'}|^2] = C_\ell^2 (1 + \delta_{m m'})$$
-$$\sum_{m, m'} \mathbb{E}[|a_{\ell m}|^2 |a_{\ell m'}|^2] = (2\ell+1)^2 C_\ell^2 + (2\ell+1) C_\ell^2$$
+$$\mathbb{E}[\lvert a_{\ell m}\rvert^2 \lvert a_{\ell m'}\rvert^2] = C_\ell^2 (1 + \delta_{m m'})$$
+$$\sum_{m, m'} \mathbb{E}[\lvert a_{\ell m}\rvert^2 \lvert a_{\ell m'}\rvert^2] = (2\ell+1)^2 C_\ell^2 + (2\ell+1) C_\ell^2$$
 
 Subtracting $(\mathbb{E}[\hat{C}_\ell])^2 = C_\ell^2$:
 $$\text{Var}(\hat{C}_\ell) = \frac{2}{2\ell + 1} C_\ell^2$$

@@ -32,8 +32,8 @@ a **great circle** (massimo cerchio) is the intersection of the sphere with a pl
 
 a **spherical triangle** is bounded by three arcs of great circles.
 
-the side $|AB|$ of the spherical triangle and the central angle $c$ subtending it are tied by
-$$|AB| = r c, \qquad [c] = \text{rad}$$
+the side $\lvert AB\rvert$ of the spherical triangle and the central angle $c$ subtending it are tied by
+$$\lvert AB\rvert = r c, \qquad [c] = \text{rad}$$
 
 so on a unit-radius sphere the angles *are* the side lengths. this is convenient: on the celestial sphere we never need the radius — it cancels out of every angular relation.
 

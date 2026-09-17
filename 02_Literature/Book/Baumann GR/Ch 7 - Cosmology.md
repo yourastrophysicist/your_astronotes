@@ -59,7 +59,7 @@ $$\boxed{\,ds^2 = -dt^2 + a(t)^2\left[\frac{dr^2}{1 - kr^2/R_0^2} + r^2\,d\Omega
 
 > physically: the $a(t)$ scale factor stretches the spatial slice uniformly as time goes on. galaxies at fixed comoving coordinates (fixed $r$, $\theta$, $\phi$) move apart at a rate proportional to their separation. this is **Hubble's law**, $v = H d$, with $H \equiv \dot a / a$ the Hubble parameter.
 
-> observationally: the universe today is **very close to flat**, $|\Omega_k| < 0.005$ from CMB and BAO measurements. so $k = 0$ is the realistic case.
+> observationally: the universe today is **very close to flat**, $\lvert \Omega_k\rvert < 0.005$ from CMB and BAO measurements. so $k = 0$ is the realistic case.
 
 ---
 
@@ -181,7 +181,7 @@ with the constraint $\Omega_r + \Omega_m + \Omega_k + \Omega_\Lambda = 1$ today.
 
 modern measurements (CMB from Planck + BAO + SN Ia + weak lensing):
 
-$$\Omega_r \approx 9 \times 10^{-5}, \qquad \Omega_m \approx 0.32, \qquad \Omega_\Lambda \approx 0.68, \qquad |\Omega_k| < 0.005$$
+$$\Omega_r \approx 9 \times 10^{-5}, \qquad \Omega_m \approx 0.32, \qquad \Omega_\Lambda \approx 0.68, \qquad \lvert \Omega_k\rvert < 0.005$$
 
 with $\Omega_b \approx 0.05$ (ordinary baryons) and $\Omega_c \approx 0.27$ (cold dark matter) inside $\Omega_m$.
 
@@ -190,7 +190,7 @@ with $\Omega_b \approx 0.05$ (ordinary baryons) and $\Omega_c \approx 0.27$ (col
 - **5% baryons**: stars, planets, gas, you, me. everything we can directly see.
 - **27% dark matter**: gravitates but does not interact electromagnetically. holds galaxies together.
 - **68% dark energy**: drives the accelerated expansion. probably a cosmological constant.
-- **almost exactly flat**: $|\Omega_k| < 0.005$, consistent with $k = 0$.
+- **almost exactly flat**: $\lvert \Omega_k\rvert < 0.005$, consistent with $k = 0$.
 
 > the bottom line: **95% of the universe is invisible**. we know it is there only through its gravitational effects. explaining what dark matter and dark energy are is one of the great open questions of modern physics.
 

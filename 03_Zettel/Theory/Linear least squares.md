@@ -13,7 +13,7 @@ closed-form solution via linear algebra. the workhorse fitting algorithm.
 
 ## the math
 
-let $A$ be the **design matrix** with $A_{ik} = \phi_k(x_i)$ ($N \times M$ where $M$ is the number of parameters). let $\mathbf{y}$ be the data vector. then $\chi^2 = \|\mathbf{y} - A\boldsymbol\theta\|^2$. setting $\partial \chi^2/\partial\theta_k = 0$ gives the **normal equations**:
+let $A$ be the **design matrix** with $A_{ik} = \phi_k(x_i)$ ($N \times M$ where $M$ is the number of parameters). let $\mathbf{y}$ be the data vector. then $\chi^2 = \\lvert \mathbf{y} - A\boldsymbol\theta\\rvert^2$. setting $\partial \chi^2/\partial\theta_k = 0$ gives the **normal equations**:
 
 $$A^T A \boldsymbol\theta = A^T \mathbf{y}$$
 
@@ -103,7 +103,7 @@ then solve as usual. see [Weighted least squares](./Weighted%20least%20squares.h
 after the fit, plot $y_i - f(x_i)$ vs $x_i$. expectations:
 - **scattered around zero**: model is good
 - **systematic trend** (residuals curve, oscillate, or have a bias): model is missing something
-- **funnel shape** (residuals scale with $|y|$): heteroscedastic noise, need weighted fit
+- **funnel shape** (residuals scale with $\lvert y\rvert$): heteroscedastic noise, need weighted fit
 - **outliers**: a few points at >3σ — investigate, decide whether to clip
 
 never trust a fit without looking at the residuals.

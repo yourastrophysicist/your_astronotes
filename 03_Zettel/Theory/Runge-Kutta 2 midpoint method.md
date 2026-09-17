@@ -76,7 +76,7 @@ for *long-time* energy conservation, [Leapfrog integrator](./Leapfrog%20integrat
 
 ## stability
 
-midpoint is conditionally stable: it is stable for $|1 + h\lambda + h^2 \lambda^2/2| \leq 1$, which is a slightly larger region than Euler's. but for stiff problems (large $|\lambda|$), it still requires small $h$.
+midpoint is conditionally stable: it is stable for $\lvert 1 + h\lambda + h^2 \lambda^2/2\rvert \leq 1$, which is a slightly larger region than Euler's. but for stiff problems (large $\lvert \lambda\rvert$), it still requires small $h$.
 
 ## astrophysics use cases
 

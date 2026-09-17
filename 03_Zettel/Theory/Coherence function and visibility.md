@@ -25,10 +25,10 @@ normalized:
 
 $$\gamma_{12}(\tau) = \frac{\Gamma_{12}(\tau)}{\sqrt{\Gamma_{11}(0) \Gamma_{22}(0)}}$$
 
-with $\Gamma_{ii}(0) = \langle |E(\mathbf r_i, t)|^2 \rangle = $ intensity at point $i$.
+with $\Gamma_{ii}(0) = \langle   \vertE(\mathbf r_i, t)\vert ^2 \rangle = $ intensity at point $i$.
 
 properties:
-- $|\gamma_{12}| \in [0, 1]$
+- $\lvert \gamma_{12}\rvert \in [0, 1]$
 - $\gamma_{12}(0)$: spatial coherence at zero time delay
 - $\gamma_{11}(\tau)$ at the same point: temporal autocorrelation
 
@@ -50,7 +50,7 @@ $$E_{\rm total} = E_1 + E_2$$
 
 intensity, time-averaged:
 
-$$I = \langle |E_1|^2 \rangle + \langle |E_2|^2 \rangle + 2 \text{Re}\, \Gamma_{12}(\tau_1 - \tau_2)$$
+$$I = \langle   \vertE_1\vert ^2 \rangle + \langle   \vertE_2\vert ^2 \rangle + 2 \text{Re}\, \Gamma_{12}(\tau_1 - \tau_2)$$
 
 let $I_0 = I_1 + I_2$ and $\delta = \tau_1 - \tau_2$. then
 
@@ -58,9 +58,9 @@ $$I = I_0 \left[1 + \frac{2 \sqrt{I_1 I_2}}{I_0} \text{Re}\, \gamma_{12}(\delta)
 
 defining $V$ via the contrast formula:
 
-$$V = \frac{I_{\max} - I_{\min}}{I_{\max} + I_{\min}} = \frac{2 \sqrt{I_1 I_2}}{I_0} |\gamma_{12}|$$
+$$V = \frac{I_{\max} - I_{\min}}{I_{\max} + I_{\min}} = \frac{2 \sqrt{I_1 I_2}}{I_0} \lvert \gamma_{12}\rvert$$
 
-if $I_1 = I_2$ (matched arms): $V = |\gamma_{12}|$.
+if $I_1 = I_2$ (matched arms): $V = \lvert \gamma_{12}\rvert$.
 
 **the fringe visibility *is* the magnitude of the mutual coherence function**.
 
@@ -68,9 +68,9 @@ if $I_1 = I_2$ (matched arms): $V = |\gamma_{12}|$.
 
 the full complex visibility includes phase:
 
-$$\mathcal V = \gamma_{12}(0) = |\gamma_{12}| e^{i \phi_{12}}$$
+$$\mathcal V = \gamma_{12}(0) = \lvert \gamma_{12}\rvert e^{i \phi_{12}}$$
 
-amplitude $|\mathcal V|$ is contrast, phase $\phi_{12}$ is fringe position.
+amplitude $\lvert \mathcal V\rvert$ is contrast, phase $\phi_{12}$ is fringe position.
 
 ## why intensity is real but visibility complex
 

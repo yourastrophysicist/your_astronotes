@@ -454,18 +454,32 @@ main {
   box-sizing: border-box;
 }
 
-/* Wikipedia Table Style */
-.markdown-body table {
-  display: block;
+/* Wikipedia Table Style & Responsive Mobile Container */
+.table-responsive {
   width: 100%;
-  max-width: 100%;
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
-  border-collapse: collapse;
   margin: 1.2em 0;
-  font-size: 0.9rem;
-  background-color: var(--toc-bg);
   border: 1px solid var(--border-color);
+  border-radius: 2px;
+  background-color: var(--toc-bg);
+}
+
+.markdown-body table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0;
+  font-size: 0.9rem;
+  background-color: transparent;
+  border: none;
+}
+
+.markdown-body > table {
+  display: block;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  border: 1px solid var(--border-color);
+  margin: 1.2em 0;
 }
 
 .markdown-body th,
@@ -473,15 +487,25 @@ main {
   border: 1px solid var(--border-color);
   padding: 8px 12px;
   text-align: left;
+  min-width: 120px;
+  white-space: normal;
+  word-break: normal;
+  line-height: 1.45;
 }
 
 .markdown-body th {
   background-color: var(--sidebar-hover);
   font-weight: 600;
+  white-space: nowrap;
 }
 
 .markdown-body tr:nth-child(even) {
   background-color: var(--content-bg);
+}
+
+.markdown-body td:first-child,
+.markdown-body th:first-child {
+  min-width: 90px;
 }
 
 /* Sidebar Right (Table of Contents Box) */
@@ -597,6 +621,21 @@ main {
   .header-subtitle {
     display: none;
   }
+  .table-responsive {
+    margin: 1em -16px;
+    width: calc(100% + 32px);
+    border-left: none;
+    border-right: none;
+    border-radius: 0;
+  }
+  .markdown-body table {
+    min-width: 520px;
+    font-size: 0.85rem;
+  }
+  .markdown-body th,
+  .markdown-body td {
+    padding: 7px 10px;
+  }
 }
 
 @media (max-width: 480px) {
@@ -628,12 +667,16 @@ main {
   main {
     padding: 16px 12px 36px 12px;
   }
+  .table-responsive {
+    margin: 1em -12px;
+    width: calc(100% + 24px);
+  }
 }
 
   </style>
-  <link rel="stylesheet" id="theme-stylesheet" href="{{ '/assets/css/style.css?v=11' | relative_url }}" onerror="if(!this.dataset.retried){this.dataset.retried=1;this.href=(location.pathname.startsWith('/your_astronotes')?'/your_astronotes':'')+'/assets/css/style.css'}">
-  <script src="{{ '/assets/js/site-data.js?v=11' | relative_url }}" onerror="if(!this.dataset.retried){this.dataset.retried=1;var s=document.createElement('script');s.src=(location.pathname.startsWith('/your_astronotes')?'/your_astronotes':'')+'/assets/js/site-data.js';document.head.appendChild(s);}"></script>
-  <script src="{{ '/assets/js/app.js?v=11' | relative_url }}" onerror="if(!this.dataset.retried){this.dataset.retried=1;var s=document.createElement('script');s.src=(location.pathname.startsWith('/your_astronotes')?'/your_astronotes':'')+'/assets/js/app.js';document.head.appendChild(s);}"></script>
+  <link rel="stylesheet" id="theme-stylesheet" href="{{ '/assets/css/style.css?v=12' | relative_url }}" onerror="if(!this.dataset.retried){this.dataset.retried=1;this.href=(location.pathname.startsWith('/your_astronotes')?'/your_astronotes':'')+'/assets/css/style.css'}">
+  <script src="{{ '/assets/js/site-data.js?v=12' | relative_url }}" onerror="if(!this.dataset.retried){this.dataset.retried=1;var s=document.createElement('script');s.src=(location.pathname.startsWith('/your_astronotes')?'/your_astronotes':'')+'/assets/js/site-data.js';document.head.appendChild(s);}"></script>
+  <script src="{{ '/assets/js/app.js?v=12' | relative_url }}" onerror="if(!this.dataset.retried){this.dataset.retried=1;var s=document.createElement('script');s.src=(location.pathname.startsWith('/your_astronotes')?'/your_astronotes':'')+'/assets/js/app.js';document.head.appendChild(s);}"></script>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
   <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
   <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body, {delimiters: [{left: '$$', right: '$$', display: true}, {left: '$', right: '$', display: false}, {left: '\\[', right: '\\]', display: true}, {left: '\\(', right: '\\)', display: false}], throwOnError: false, strict: false});"></script>
@@ -643,7 +686,7 @@ main {
   <header>
     <div class="header-brand">
       <a href="{{ '/' | relative_url }}" class="logo">{{ site.title }}</a>
-      <span class="header-subtitle">From Your AstroNotes, the free astrophysics encyclopedia</span>
+      <span class="header-subtitle">from your BRAT astrophysicist for your astronotes</span>
     </div>
     <nav class="header-nav">
       <a href="{{ '/About.html' | relative_url }}" class="header-tab{% if page.url == '/About.html' or page.url == '/About' %} active{% endif %}">About</a>
@@ -664,7 +707,7 @@ main {
       {% unless page.url == '/' or page.path == 'index.md' or page.title == 'index' %}
       <div class="article-header">
         <h1 class="article-title">{{ page.title }}</h1>
-        <div class="article-tagline">From Your AstroNotes, the free graduate second brain</div>
+        <div class="article-tagline">from your BRAT astrophysicist for your astronotes</div>
       </div>
       {% endunless %}
       <div class="markdown-body">

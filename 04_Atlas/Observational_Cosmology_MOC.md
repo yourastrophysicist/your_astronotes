@@ -359,7 +359,7 @@ Every single publication figure, Planck CMB spectrum, 21cm cosmology plot, quasa
   4. The angular scale observed on the sky today is: $\theta_s = \frac{r_s(z_*)}{D_A(z_*)}$, where $D_A(z_*)$ is the angular diameter distance to the last scattering surface: $D_A(z_*) = \int_0^{z_*} \frac{c dz}{H(z)}$.
   5. The multipole location of the first peak is: $\ell_1 \approx \frac{\pi}{\theta_s} \approx 220$.
   6. **Parameter Sensitivities**:
-     - *Spatial Curvature $\Omega_k$*: Governs geodesic geometry. If $\Omega_k < 0$ (closed), geodesics converge, making $\theta_s$ larger, shifting all peaks to lower multipoles $\ell$. Planck measures $\ell_1 = 220.0 \pm 0.5$, constraining $|\Omega_k| < 0.005$ (flat universe).
+     - *Spatial Curvature $\Omega_k$*: Governs geodesic geometry. If $\Omega_k < 0$ (closed), geodesics converge, making $\theta_s$ larger, shifting all peaks to lower multipoles $\ell$. Planck measures $\ell_1 = 220.0 \pm 0.5$, constraining $\lvert\Omega_k\rvert < 0.005$ (flat universe).
      - *Baryon Density $\Omega_b h^2$*: Baryons add mass to the fluid without pressure. Increasing $\Omega_b$ deepens potential wells, enhancing compression peaks (odd peaks: 1st, 3rd) relative to rarefaction peaks (2nd peak). The ratio of peak 1 to peak 2 measures $\Omega_b h^2 \approx 0.02237$.
      - *Cold Dark Matter $\Omega_c h^2$*: Governs early matter-radiation equality. Higher $\Omega_c$ moves equality earlier, shortening radiation driving and suppressing the amplitude of all peaks relative to the Sachs-Wolfe plateau.
 

@@ -79,7 +79,7 @@ $$u^2 + u_1^2 = (u')^2 + (u_1')^2$$
 Defining the relative velocities:
 $$\vec{g} = \vec{u} - \vec{u}_1, \quad \vec{g}' = \vec{u}' - \vec{u}_1'$$
 
-Conservation of energy implies $|\vec{g}| = |\vec{g}'| = g$. The collision merely rotates the relative velocity vector by a deflection angle $\theta$ into a solid angle element $d\Omega = \sin\theta \, d\theta \, d\phi$.
+Conservation of energy implies $\lvert\vec{g}\rvert = \lvert\vec{g}'\rvert = g$. The collision merely rotates the relative velocity vector by a deflection angle $\theta$ into a solid angle element $d\Omega = \sin\theta \, d\theta \, d\phi$.
 
 ### 2.2 Derivation of Gain and Loss Terms
 
@@ -114,7 +114,7 @@ Integrating over $\vec{u}_1$ and $\Omega$:
 $$\Gamma_{gain} = \int d^3u_1 \int d\Omega \, g \, \sigma(g, \Omega) f(\vec{x}, \vec{u}', t) f(\vec{x}, \vec{u}_1', t)$$
 
 Combining the gain and loss terms yields the **Boltzmann collision integral**:
-$$C(f) = \int d^3u_1 \int d\Omega \, \sigma(g, \Omega) |\vec{u} - \vec{u}_1| \left[ f(\vec{x}, \vec{u}', t) f(\vec{x}, \vec{u}_1', t) - f(\vec{x}, \vec{u}, t) f(\vec{x}, \vec{u}_1, t) \right]$$
+$$C(f) = \int d^3u_1 \int d\Omega \, \sigma(g, \Omega) \lvert \vec{u} - \vec{u}_1\rvert \left[ f(\vec{x}, \vec{u}', t) f(\vec{x}, \vec{u}_1', t) - f(\vec{x}, \vec{u}, t) f(\vec{x}, \vec{u}_1, t) \right]$$
 
 ### 2.3 The Boltzmann H-Theorem and Maxwellian Equilibrium
 
@@ -152,7 +152,7 @@ where the particle number density is $n(\vec{x}, t) = \int d^3u \, f(\vec{x}, \v
 Multiplying the collisional Boltzmann equation by $\chi(\vec{u})$ and integrating over all velocities:
 $$\int d^3u \, \chi \frac{\partial f}{\partial t} + \int d^3u \, \chi \, u_j \frac{\partial f}{\partial x_j} + \int d^3u \, \chi \frac{F_j}{m} \frac{\partial f}{\partial u_j} = \int d^3u \, \chi C(f)$$
 
-Integrating by parts and noting that $f \to 0$ exponentially as $|\vec{u}| \to \infty$:
+Integrating by parts and noting that $f \to 0$ exponentially as $\lvert \vec{u}\rvert \to \infty$:
 1. Temporal term:
 $$\int d^3u \, \chi \frac{\partial f}{\partial t} = \frac{\partial}{\partial t} (n \langle \chi \rangle)$$
 2. Spatial gradient term:
@@ -250,7 +250,7 @@ $$\rho \left( \frac{\partial \vec{v}}{\partial t} + (\vec{v} \cdot \nabla)\vec{v
 ### 4.3 First-Order Approximation (Chapman-Enskog Expansion / Navier-Stokes)
 
 When spatial gradients are non-zero ($Kn \ll 1$ but finite), the distribution function departs slightly from the local Maxwellian:
-$$f(\vec{x}, \vec{u}, t) = f_0(\vec{x}, \vec{u}, t) + g(\vec{x}, \vec{u}, t), \quad |g| \ll f_0$$
+$$f(\vec{x}, \vec{u}, t) = f_0(\vec{x}, \vec{u}, t) + g(\vec{x}, \vec{u}, t), \quad \lvert g\rvert \ll f_0$$
 
 Using the BGK (Bhatnagar-Gross-Krook) relaxation collision model $C(f) \approx -\frac{f - f_0}{\tau_{coll}} = -\frac{g}{\tau_{coll}}$:
 $$g \approx -\tau_{coll} \left( \frac{\partial f_0}{\partial t} + \vec{u} \cdot \nabla_{\vec{x}} f_0 + \frac{\vec{F}}{m} \cdot \nabla_{\vec{u}} f_0 \right)$$

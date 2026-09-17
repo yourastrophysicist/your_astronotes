@@ -129,7 +129,7 @@ next rung up: I want $f(x) = 0$ for a function $f$ I cannot solve analytically. 
 
 physical question this block answers: **given a function $f$ that I can evaluate but not invert, how do I find $x$ such that $f(x) = 0$?**
 
-- [Relaxation method](../03_Zettel/Theory/Relaxation%20method.html) — rewrite $f(x) = 0$ as $x = g(x)$ and iterate $x_{n+1} = g(x_n)$; converges if $|g'(x^*)| < 1$
+- [Relaxation method](../03_Zettel/Theory/Relaxation%20method.html) — rewrite $f(x) = 0$ as $x = g(x)$ and iterate $x_{n+1} = g(x_n)$; converges if $\lvert g'(x^*)\rvert < 1$
 - [Overrelaxation](../03_Zettel/Theory/Overrelaxation.html) — accelerate relaxation by overshooting: $x_{n+1} = x_n + \omega(g(x_n) - x_n)$ with $\omega > 1$
 - [Bisection method](../03_Zettel/Theory/Bisection%20method.html) — bracket a root and halve the interval; bulletproof but slow ($O(\log_2(1/\epsilon))$ iterations to error $\epsilon$)
 - [Newton-Raphson method](../03_Zettel/Theory/Newton-Raphson%20method.html) — local linearization, $x_{n+1} = x_n - f(x_n)/f'(x_n)$; quadratic convergence when it works, divergence when it doesn't
@@ -163,7 +163,7 @@ physical question this block answers: **given a function $f$, how do I compute i
 - [Trapezoidal rule error estimate](../03_Zettel/Theory/Trapezoidal%20rule%20error%20estimate.html) — error is bounded by the second derivative; how to know how many points I need
 - [Monte Carlo integration mean value method](../03_Zettel/Theory/Monte%20Carlo%20integration%20mean%20value%20method.html) — integral as expectation, $\int f \approx (b-a)\langle f \rangle$, error $\sim 1/\sqrt{N}$ regardless of dimension
 - [Multidimensional Monte Carlo integration](../03_Zettel/Theory/Multidimensional%20Monte%20Carlo%20integration.html) — the dimension-curse breaker: in $d \geq 4$, MC beats grid quadrature
-- [Importance sampling](../03_Zettel/Theory/Importance%20sampling.html) — sample from $g(x)$ instead of uniform, weight by $f/g$; reduces variance dramatically when $g \approx f/\|f\|$
+- [Importance sampling](../03_Zettel/Theory/Importance%20sampling.html) — sample from $g(x)$ instead of uniform, weight by $f/g$; reduces variance dramatically when $g \approx f/\lVert f\rVert$
 - [Built-in scipy integrators](../03_Zettel/Theory/Built-in%20scipy%20integrators.html) — `scipy.integrate.quad`, `scipy.integrate.simps`, when to trust them
 
 ---
@@ -205,7 +205,7 @@ physical question this block answers: **given a system $\dot{\mathbf{y}} = \math
 
 ## block 10 — the astrophysical N-body problem
 
-an N-body problem is just a special ODE: $\ddot{\mathbf{r}}_i = -G\sum_{j\neq i} m_j (\mathbf{r}_i - \mathbf{r}_j)/|\mathbf{r}_i - \mathbf{r}_j|^3$. but it is *the* astrophysical ODE — every gravitational simulation, from the solar system to a galaxy cluster, is one. and it has special structure (Hamiltonian, energy-conserving, scale-free) that the integrator should respect.
+an N-body problem is just a special ODE: $\ddot{\mathbf{r}}_i = -G\sum_{j\neq i} m_j (\mathbf{r}_i - \mathbf{r}_j)/\lvert\mathbf{r}_i - \mathbf{r}_j\rvert^3$. but it is *the* astrophysical ODE — every gravitational simulation, from the solar system to a galaxy cluster, is one. and it has special structure (Hamiltonian, energy-conserving, scale-free) that the integrator should respect.
 
 physical question this block answers: **given $N$ massive particles interacting gravitationally, how do I evolve them for a long time without the energy drifting?**
 
@@ -431,10 +431,10 @@ This matrix details the core exam problems, algorithm implementations, and trap 
 - **Derivation & Blackboard Walkthrough**:
   1. Enclose the entire simulation volume in a root cubic cell. Recursively subdivide any cell containing more than 1 particle into 8 octants until each leaf cell contains at most 1 particle. The tree depth is $\mathcal{O}(\log N)$.
   2. For each node in the tree, compute total mass $M_{\rm cell} = \sum_{k} m_k$ and center of mass $\vec{R}_{\rm cm} = \frac{1}{M_{\rm cell}}\sum_k m_k \vec{r}_k$.
-  3. When computing force on target particle $i$, traverse tree from root down. At cell $C$ of size $s$ at distance $d = |\vec{r}_i - \vec{R}_{\rm cm}|$, evaluate the **opening angle criterion**:
+  3. When computing force on target particle $i$, traverse tree from root down. At cell $C$ of size $s$ at distance $d = \lvert\vec{r}_i - \vec{R}_{\rm cm}\rvert$, evaluate the **opening angle criterion**:
      $$\theta = \frac{s}{d} < \theta_{\rm crit} \approx 0.5-0.7$$
   4. If $\theta < \theta_{\rm crit}$, the cell is sufficiently distant: approximate the entire cell as a single monopole gravitational source located at $\vec{R}_{\rm cm}$:
-     $$\vec{a}_i \approx \frac{G M_{\rm cell}(\vec{R}_{\rm cm} - \vec{r}_i)}{|\vec{R}_{\rm cm} - \vec{r}_i|^3}$$
+     $$\vec{a}_i \approx \frac{G M_{\rm cell}(\vec{R}_{\rm cm} - \vec{r}_i)}{\lvert\vec{R}_{\rm cm} - \vec{r}_i\rvert^3}$$
   5. If $\theta \ge \theta_{\rm crit}$, open the cell and recursively inspect its 8 child octants.
   6. Traversal requires traversing $\sim \log N$ tree levels for each of the $N$ particles, reducing computational cost from $\mathcal{O}(N^2)$ to $\mathcal{O}(N\log N)$.
 

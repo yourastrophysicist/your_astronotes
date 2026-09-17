@@ -34,11 +34,11 @@ $$\frac{B}{N} = \frac{1}{M-1}\sum_{m=1}^M (\bar{\theta}_m - \bar{\theta}_{\bulle
 $$s_m^2 = \frac{1}{N-1}\sum_{n=1}^N (\theta_{m, n} - \bar{\theta}_m)^2$$
 $$W = \frac{1}{M}\sum_{m=1}^M s_m^2$$
 
-5. **Pooled marginal posterior variance estimate ($\widehat{\text{Var}}(\theta|D)$)**:
-$$\widehat{\text{Var}}(\theta|D) = \frac{N-1}{N} W + \frac{1}{N} B$$
+5. **Pooled marginal posterior variance estimate ($\widehat{\text{Var}}(\theta\midD)$)**:
+$$\widehat{\text{Var}}(\theta\midD) = \frac{N-1}{N} W + \frac{1}{N} B$$
 
 The potential scale reduction factor $\hat{R}$ is defined as:
-$$\hat{R} = \sqrt{\frac{\widehat{\text{Var}}(\theta|D)}{W}} = \sqrt{\frac{N-1}{N} + \frac{1}{N}\frac{B}{W}}$$
+$$\hat{R} = \sqrt{\frac{\widehat{\text{Var}}(\theta\midD)}{W}} = \sqrt{\frac{N-1}{N} + \frac{1}{N}\frac{B}{W}}$$
 
 ### Convergence Threshold
 - If the chains have converged and mixed thoroughly, the between-chain variance matches the within-chain variance ($B/N \to 0$), and $\hat{R} \to 1.0$.

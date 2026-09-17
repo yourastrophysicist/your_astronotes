@@ -76,7 +76,7 @@ $$d_C(z) = \int_0^z \frac{c\,dz'}{H(z')} \quad \text{(comoving distance, flat)}$
 
 the value $k \in \{-1, 0, +1\}$ is a *topological* statement (positively, zero, or negatively curved). the *strength* of the curvature is encoded in $a$. so $k$ doesn't measure how strongly curved the universe is — it just classifies the geometry into three categories. the actual curvature scalar is $\propto k/a^2$.
 
-so two universes with different $|k|$ but the same $k/a^2$ are physically equivalent, and we can rescale the radial coordinate to fix $|k| \in \{0, 1\}$.
+so two universes with different $\lvert k\rvert$ but the same $k/a^2$ are physically equivalent, and we can rescale the radial coordinate to fix $\lvert k\rvert \in \{0, 1\}$.
 
 ---
 

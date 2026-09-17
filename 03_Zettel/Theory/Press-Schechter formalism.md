@@ -17,7 +17,7 @@ Press & Schechter (1974) proposed an analytical framework to calculate the numbe
    Density perturbations $\delta(\vec{x}) \equiv (\rho - \bar{\rho})/\bar{\rho}$ smoothed on a spatial scale $R$ corresponding to mass $M = \frac{4\pi}{3}\bar{\rho} R^3$ obey a Gaussian distribution:
    $$P(\delta_M) = \frac{1}{\sqrt{2\pi}\sigma(M)} \exp\left(-\frac{\delta_M^2}{2\sigma^2(M)}
 ight)$$
-   where $\sigma^2(M) = \int \frac{k^2 dk}{2\pi^2} P(k) |W(kR)|^2$ is the mass variance.
+   where $\sigma^2(M) = \int \frac{k^2 dk}{2\pi^2} P(k) \lvert W(kR)\rvert^2$ is the mass variance.
 
 2. **spherical collapse threshold**:
    In the spherical top-hat collapse model, a perturbation stops expanding, turns around, and collapses to a virialized halo when its linearly extrapolated overdensity reaches:

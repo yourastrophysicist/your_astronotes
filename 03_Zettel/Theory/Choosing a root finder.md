@@ -61,7 +61,7 @@ root = newton(f, x0)                       # secant method
 
 ### relaxation wins when
 - the problem comes from a fixed-point reformulation $x = g(x)$ that is naturally smooth
-- the convergence rate $|g'(x^*)|$ happens to be small
+- the convergence rate $\lvert g'(x^*)\rvert$ happens to be small
 
 ## the multi-dimensional case
 
@@ -80,7 +80,7 @@ root = newton(f, x0)                       # secant method
 - **Newton hits zero derivative**: switch to bisection
 - **bisection cannot bracket**: scan for sign changes first, possibly with multiple starting brackets
 - **multiple roots in bracket**: bisection finds *some* root, not necessarily the one I want — refine the bracket
-- **flat function**: $|f|$ is small but the actual root is far away; check the residual *and* the change in $x$
+- **flat function**: $\lvert f\rvert$ is small but the actual root is far away; check the residual *and* the change in $x$
 - **noise**: a noisy $f$ can produce spurious sign changes; smooth first or use a wider tolerance
 
 ## the verification step

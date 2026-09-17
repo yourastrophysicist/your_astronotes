@@ -30,19 +30,19 @@ Marginalization inflates uncertainty: $\Sigma_{11} \ge (\Lambda_{11})^{-1}$ in t
 ## Conditioning (Freezing Observed Subsets)
 
 The conditional distribution of $x_1$ given a known measurement $x_2 = a$ evaluates the slice along the joint density:
-$$p(x_1 | x_2 = a) = \frac{p(x_1, x_2 = a)}{p(x_2 = a)}$$
+$$p(x_1 \mid x_2 = a) = \frac{p(x_1, x_2 = a)}{p(x_2 = a)}$$
 
 The conditional distribution is itself a multivariate Gaussian:
-$$x_1 | (x_2 = a) \sim \mathcal{N}(\mu_{1|2}, \Sigma_{1|2})$$
+$$x_1 \mid (x_2 = a) \sim \mathcal{N}(\mu_{1\lvert 2}, \Sigma_{1\rvert2})$$
 
 where the conditional mean and conditional covariance are given by:
-$$\mu_{1|2} = \mu_1 + \Sigma_{12} \Sigma_{22}^{-1} (a - \mu_2)$$
-$$\Sigma_{1|2} = \Sigma_{11} - \Sigma_{12} \Sigma_{22}^{-1} \Sigma_{21}$$
+$$\mu_{1\mid2} = \mu_1 + \Sigma_{12} \Sigma_{22}^{-1} (a - \mu_2)$$
+$$\Sigma_{1\mid2} = \Sigma_{11} - \Sigma_{12} \Sigma_{22}^{-1} \Sigma_{21}$$
 
 In precision parameterization, the conditional precision is strikingly simple:
-$$\Sigma_{1|2}^{-1} = \Lambda_{11}$$
+$$\Sigma_{1\mid2}^{-1} = \Lambda_{11}$$
 
-Conditioning suppresses uncertainty: $\Sigma_{1|2} \le \Sigma_{11}$, with equality if and only if $x_1$ and $x_2$ are uncorrelated ($\Sigma_{12} = 0$).
+Conditioning suppresses uncertainty: $\Sigma_{1\mid2} \le \Sigma_{11}$, with equality if and only if $x_1$ and $x_2$ are uncorrelated ($\Sigma_{12} = 0$).
 
 ## Cosmological Applications
 - **Wiener filtering**: Optimal reconstruction of the primordial cosmological density field from sparse, noisy galaxy redshift surveys.

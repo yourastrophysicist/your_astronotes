@@ -34,7 +34,7 @@ $$\mathcal{P}_\zeta(k) = \sum_I N_{,I}^2 \left(\frac{H}{2\pi}\right)^2$$
 The local non-linear parameter is determined directly from the second derivatives:
 $$f_{\rm NL}^{\rm local} = \frac{5}{6} \frac{\sum_{I,J} N_{,I} N_{,J} N_{,IJ}}{\left( \sum_K N_{,K}^2 \right)^2}$$
 
-In multi-field models (such as the curvaton), curved trajectories in field space allow $N_{,IJ}$ to be large, generating detectable $|f_{\rm NL}| \gg 1$.
+In multi-field models (such as the curvaton), curved trajectories in field space allow $N_{,IJ}$ to be large, generating detectable $\lvert f_{\rm NL}\rvert \gg 1$.
 
 ---
 

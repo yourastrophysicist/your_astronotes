@@ -46,9 +46,9 @@ Cox formulated three foundational qualitative desiderata (or axioms of consisten
 
 The degree of plausibility associated with a proposition must be represented by a single real number. If proposition $A$ is more plausible than proposition $B$ given background information $I$, then their real-valued assignments must satisfy
 
-$$p(A|I) > p(B|I)$$
+$$p(A \mid I) > p(B \mid I)$$
 
-This implies that plausibility assignments possess a complete transitive ordering. If $p(A|I) > p(B|I)$ and $p(B|I) > p(C|I)$, then $p(A|I) > p(C|I)$.
+This implies that plausibility assignments possess a complete transitive ordering. If $p(A \mid I) > p(B \mid I)$ and $p(B \mid I) > p(C \mid I)$, then $p(A \mid I) > p(C \mid I)$.
 
 ### Desideratum 2. Qualitative Correspondence with Common Sense
 
@@ -70,23 +70,23 @@ From these minimal desiderata, Cox demonstrated that the algebraic rules governi
 
 Consider the joint proposition $AB$, representing the assertion that both proposition $A$ and proposition $B$ are true simultaneously, conditional on background knowledge $I$.
 
-To determine the plausibility of $AB|I$, we can decompose the evaluation into two consecutive steps. First, evaluate how plausible proposition $B$ is given $I$. Second, knowing that $B$ is true, evaluate how plausible proposition $A$ is given both $B$ and $I$.
+To determine the plausibility of $AB\midI$, we can decompose the evaluation into two consecutive steps. First, evaluate how plausible proposition $B$ is given $I$. Second, knowing that $B$ is true, evaluate how plausible proposition $A$ is given both $B$ and $I$.
 
 By Desideratum 1 and 2, there must exist some continuous function $F(u, v)$ such that
 
-$$p(AB|I) = F\left( p(B|I), p(A|BI) \right)$$
+$$p(AB \mid I) = F\left( p(B \mid I), p(A \mid BI) \right)$$
 
 Now consider the joint plausibility of three propositions $A$, $B$, and $C$. By the associativity of Boolean conjunction, $(AB)C = A(BC)$.
 
 Evaluating the joint plausibility $((AB)C)|I$ using the function $F$ yields
 
-$$p((AB)C|I) = F\left( p(C|I), p(AB|CI) \right) = F\left( p(C|I), F\left( p(B|CI), p(A|BCI) \right) \right)$$
+$$p((AB)C\midI) = F\left( p(C \mid I), p(AB \mid CI) \right) = F\left( p(C \mid I), F\left( p(B \mid CI), p(A \mid BCI) \right) \right)$$
 
 Evaluating the equivalent grouping $(A(BC))|I$ yields
 
-$$p(A(BC)|I) = F\left( p(BC|I), p(A|BCI) \right) = F\left( F(p(C|I), p(B|CI)), p(A|BCI) \right)$$
+$$p(A(BC)|I) = F\left( p(BC \mid I), p(A \mid BCI) \right) = F\left( F(p(C \mid I), p(B \mid CI)), p(A \mid BCI) \right)$$
 
-Letting $u = p(C|I)$, $v = p(B|CI)$, and $w = p(A|BCI)$, associativity demands that for all valid inputs, the function $F$ must satisfy the fundamental functional equation
+Letting $u = p(C \mid I)$, $v = p(B \mid CI)$, and $w = p(A \mid BCI)$, associativity demands that for all valid inputs, the function $F$ must satisfy the fundamental functional equation
 
 $$F(u, F(v, w)) = F(F(u, v), w)$$
 
@@ -96,7 +96,7 @@ $$w(F(u, v)) = w(u) \, w(v)$$
 
 Since the numerical scale of plausibilities is arbitrary up to a monotonic transformation, we can without loss of generality choose the representation where $w(x) = x$. Under this natural gauge choice, the product rule becomes
 
-$$p(AB|I) = p(A|BI) \, p(B|I) = p(B|AI) \, p(A|I)$$
+$$p(AB \mid I) = p(A \mid BI) \, p(B \mid I) = p(B \mid AI) \, p(A \mid I)$$
 
 This is the standard product rule of probability theory.
 
@@ -104,9 +104,9 @@ This is the standard product rule of probability theory.
 
 Next, consider the negation of a proposition, denoted $\bar{A}$, which asserts that $A$ is false.
 
-The plausibility of the negation $\bar{A}|I$ must depend purely on the plausibility of the assertion $A|I$. Therefore, there must exist a continuous, monotonically decreasing function $S(x)$ such that
+The plausibility of the negation $\bar{A}\midI$ must depend purely on the plausibility of the assertion $A\midI$. Therefore, there must exist a continuous, monotonically decreasing function $S(x)$ such that
 
-$$p(\bar{A}|I) = S(p(A|I))$$
+$$p(\bar{A} \mid I) = S(p(A \mid I))$$
 
 Since the double negation of a proposition returns the original proposition, $\bar{\bar{A}} = A$, applying the function $S$ twice must yield the identity
 
@@ -118,15 +118,15 @@ $$S(x) = (1 - x^m)^{1/m}$$
 
 for some non-zero real constant $m$.
 
-By redefining probabilities through the monotonic transformation $p'(A|I) = [p(A|I)]^m$, we set $m = 1$ without altering the ordering of plausibilities. This leads directly to the standard normalization and sum rule
+By redefining probabilities through the monotonic transformation $p'(A\midI) = [p(A \mid I)]^m$, we set $m = 1$ without altering the ordering of plausibilities. This leads directly to the standard normalization and sum rule
 
-$$p(A|I) + p(\bar{A}|I) = 1$$
+$$p(A \mid I) + p(\bar{A} \mid I) = 1$$
 
 where certainty is represented by $p = 1$ and impossibility by $p = 0$.
 
-For two mutually exclusive propositions $A$ and $B$ (meaning $p(AB|I) = 0$), the generalized sum rule yields
+For two mutually exclusive propositions $A$ and $B$ (meaning $p(AB \mid I) = 0$), the generalized sum rule yields
 
-$$p(A + B | I) = p(A|I) + p(B|I)$$
+$$p(A + B \mid I) = p(A \mid I) + p(B \mid I)$$
 
 where $A + B$ denotes the logical disjunction ($A$ or $B$).
 
@@ -140,43 +140,43 @@ Cox's theorem provides an epistemological justification for Bayesian probability
 
 From the symmetry of the product rule for propositions $A$ and $B$
 
-$$p(A, B | I) = p(A | B, I) \, p(B | I) = p(B | A, I) \, p(A | I)$$
+$$p(A, B \mid I) = p(A \mid B, I) \, p(B \mid I) = p(B \mid A, I) \, p(A \mid I)$$
 
-Equating both sides and dividing by $p(B|I)$, provided $p(B|I) \neq 0$, yields Bayes' theorem
+Equating both sides and dividing by $p(B \mid I)$, provided $p(B \mid I) \neq 0$, yields Bayes' theorem
 
-$$p(A | B, I) = \frac{p(B | A, I) \, p(A | I)}{p(B | I)}$$
+$$p(A \mid B, I) = \frac{p(B \mid A, I) \, p(A \mid I)}{p(B \mid I)}$$
 
 In observational astrophysics and cosmology, let $A$ represent the physical hypothesis or parameter vector $\theta$, and let $B$ represent the observed dataset $D$ obtained from a telescope or detector, conditioned on theoretical framework $M$
 
-$$p(\theta | D, M) = \frac{p(D | \theta, M) \, p(\theta | M)}{p(D | M)}$$
+$$p(\theta \mid D, M) = \frac{p(D \mid \theta, M) \, p(\theta \mid M)}{p(D \mid M)}$$
 
 Every component of this equation carries a distinct physical meaning.
 
-### The Prior Distribution $p(\theta | M)$
+### The Prior Distribution $p(\theta \mid M)$
 
 The prior probability density, often denoted $\pi(\theta)$, quantifies the state of knowledge regarding parameter $\theta$ before the dataset $D$ is analyzed. It encapsulates physical constraints (such as positive masses, bounded sound horizons, or temperature non-negativity), theoretical limits, and previous independent experimental results (such as using local distance ladder measurements to inform Hubble constant priors in high-redshift analyses).
 
-### The Likelihood Function $p(D | \theta, M)$
+### The Likelihood Function $p(D \mid \theta, M)$
 
-The likelihood, written $\mathcal{L}(\theta) \equiv p(D | \theta, M)$, represents the forward probability of obtaining the observed dataset $D$ assuming parameter values $\theta$ and model $M$. The likelihood incorporates the physical generative model of the cosmos, the transfer function of the instrument, beam convolutions, noise covariance matrices, and observational selection masks. It is a function of the parameters $\theta$ for fixed data $D$, although it is not a probability distribution over $\theta$ (its integral over $\theta$ does not generally equal 1).
+The likelihood, written $\mathcal{L}(\theta) \equiv p(D \mid \theta, M)$, represents the forward probability of obtaining the observed dataset $D$ assuming parameter values $\theta$ and model $M$. The likelihood incorporates the physical generative model of the cosmos, the transfer function of the instrument, beam convolutions, noise covariance matrices, and observational selection masks. It is a function of the parameters $\theta$ for fixed data $D$, although it is not a probability distribution over $\theta$ (its integral over $\theta$ does not generally equal 1).
 
-### The Posterior Distribution $p(\theta | D, M)$
+### The Posterior Distribution $p(\theta \mid D, M)$
 
 The posterior probability density function represents the complete updated state of knowledge regarding $\theta$ after taking into account both the prior information and the observational dataset $D$. All scientific inferences, parameter constraints, error bars, and correlations are derived directly from the posterior.
 
-### The Bayesian Evidence (Marginal Likelihood) $p(D | M)$
+### The Bayesian Evidence (Marginal Likelihood) $p(D \mid M)$
 
-The denominator $\mathcal{Z} \equiv p(D | M)$ is obtained by integrating the numerator over the entire continuous parameter space $\Omega_\theta$
+The denominator $\mathcal{Z} \equiv p(D \mid M)$ is obtained by integrating the numerator over the entire continuous parameter space $\Omega_\theta$
 
-$$\mathcal{Z} = \int_{\Omega_\theta} p(D | \theta, M) \, p(\theta | M) \, d\theta$$
+$$\mathcal{Z} = \int_{\Omega_\theta} p(D \mid \theta, M) \, p(\theta \mid M) \, d\theta$$
 
 For parameter estimation within a fixed, agreed-upon physical model $M$, the evidence is independent of $\theta$ and functions solely as a normalization constant ensuring that the posterior integrates to unity
 
-$$\int_{\Omega_\theta} p(\theta | D, M) \, d\theta = 1$$
+$$\int_{\Omega_\theta} p(\theta \mid D, M) \, d\theta = 1$$
 
 Consequently, parameter estimation is frequently expressed through the unnormalized relation
 
-$$p(\theta | D, M) \propto \mathcal{L}(\theta) \, \pi(\theta)$$
+$$p(\theta \mid D, M) \propto \mathcal{L}(\theta) \, \pi(\theta)$$
 
 However, when comparing distinct physical models $M_1$ and $M_2$ (for example, flat $\Lambda\text{CDM}$ versus dynamical dark energy $w(a)\text{CDM}$), the evidence $\mathcal{Z}$ becomes the central mathematical quantity governing Bayesian model selection.
 
@@ -214,15 +214,15 @@ A powerful operational property of Bayes' theorem is its capacity for sequential
 
 Suppose we begin with initial background information $I$ and collect an initial dataset $D_1$. Bayes' theorem gives the intermediate posterior
 
-$$p(\theta | D_1, I) = \frac{p(D_1 | \theta, I) \, p(\theta | I)}{p(D_1 | I)}$$
+$$p(\theta \mid D_1, I) = \frac{p(D_1 \mid \theta, I) \, p(\theta \mid I)}{p(D_1 \mid I)}$$
 
 Now suppose a second independent experiment is conducted, yielding dataset $D_2$. Applying Bayes' theorem using the first posterior as the new prior yields
 
-$$p(\theta | D_2, D_1, I) = \frac{p(D_2 | \theta, D_1, I) \, p(\theta | D_1, I)}{p(D_2 | D_1, I)}$$
+$$p(\theta \mid D_2, D_1, I) = \frac{p(D_2 \mid \theta, D_1, I) \, p(\theta \mid D_1, I)}{p(D_2 \mid D_1, I)}$$
 
-If measurements $D_1$ and $D_2$ are statistically independent conditional on $\theta$ (meaning $p(D_1, D_2 | \theta, I) = p(D_1 | \theta, I) \, p(D_2 | \theta, I)$), substituting the first expression into the second yields
+If measurements $D_1$ and $D_2$ are statistically independent conditional on $\theta$ (meaning $p(D_1, D_2 \mid \theta, I) = p(D_1 \mid \theta, I) \, p(D_2 \mid \theta, I)$), substituting the first expression into the second yields
 
-$$p(\theta | D_1, D_2, I) = \frac{p(D_2 | \theta, I) \, p(D_1 | \theta, I) \, p(\theta | I)}{p(D_1, D_2 | I)}$$
+$$p(\theta \mid D_1, D_2, I) = \frac{p(D_2 \mid \theta, I) \, p(D_1 \mid \theta, I) \, p(\theta \mid I)}{p(D_1, D_2 \mid I)}$$
 
 This proves that updating beliefs sequentially step by step produces the exact same final posterior distribution as analyzing the joint dataset $(D_1, D_2)$ simultaneously in a single unified step. Bayesian updating preserves information integrity regardless of the order or fragmentation of data acquisition.
 
@@ -240,7 +240,7 @@ This proves that updating beliefs sequentially step by step produces the exact s
 ## Lecture Visuals & Theoretical Slides
 
 ![Cox Theorem and Deductive Logic Foundations](../../../assets/images/astrostat_liguori_p02.png)
-*Figure AST-01: Foundations of Plausible Reasoning and Cox's Theorem (Prof. Michele Liguori). Cox's postulates establish that any system of plausible reasoning that satisfies transitivity, consistency, and scalar representation of belief uniquely maps onto the mathematical rules of probability theory: $P(A \cap B | I) = P(A | B, I) P(B | I)$ (Product Rule) and $P(A | I) + P(\neg A | I) = 1$ (Sum Rule).*
+*Figure AST-01: Foundations of Plausible Reasoning and Cox's Theorem (Prof. Michele Liguori). Cox's postulates establish that any system of plausible reasoning that satisfies transitivity, consistency, and scalar representation of belief uniquely maps onto the mathematical rules of probability theory: $P(A \cap B \mid I) = P(A \mid B, I) P(B \mid I)$ (Product Rule) and $P(A \mid I) + P(\neg A \mid I) = 1$ (Sum Rule).*
 {% endraw %}
 
 <div class="backlinks-section">

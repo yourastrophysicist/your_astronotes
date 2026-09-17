@@ -11,7 +11,7 @@ the simplest eigenvalue algorithm. given a square matrix $A$, find the dominant 
 
 start from a random vector $\mathbf{v}^{(0)}$. iterate:
 
-$$\mathbf{v}^{(k+1)} = \frac{A \mathbf{v}^{(k)}}{\|A \mathbf{v}^{(k)}\|}$$
+$$\mathbf{v}^{(k+1)} = \frac{A \mathbf{v}^{(k)}}{\\lvert A \mathbf{v}^{(k)}\\rvert}$$
 
 the normalization keeps the vector from blowing up or shrinking to zero. as $k \to \infty$, $\mathbf{v}^{(k)} \to \mathbf{v}_1$ (the dominant eigenvector). recover the eigenvalue:
 
@@ -19,11 +19,11 @@ $$\lambda_1 = \mathbf{v}^{(k)T} A \mathbf{v}^{(k)} \quad \text{(Rayleigh quotien
 
 ## why it converges
 
-expand $\mathbf{v}^{(0)}$ in the eigenbasis: $\mathbf{v}^{(0)} = \sum_i c_i \mathbf{v}_i$ with eigenvalues $\lambda_1, \lambda_2, \ldots$ ordered $|\lambda_1| > |\lambda_2| \geq \cdots$. then
+expand $\mathbf{v}^{(0)}$ in the eigenbasis: $\mathbf{v}^{(0)} = \sum_i c_i \mathbf{v}_i$ with eigenvalues $\lambda_1, \lambda_2, \ldots$ ordered $\lvert \lambda_1\rvert > \lvert \lambda_2\rvert \geq \cdots$. then
 
 $$A^k \mathbf{v}^{(0)} = \sum_i c_i \lambda_i^k \mathbf{v}_i = \lambda_1^k \left(c_1 \mathbf{v}_1 + \sum_{i \geq 2} c_i (\lambda_i/\lambda_1)^k \mathbf{v}_i\right)$$
 
-since $|\lambda_i/\lambda_1| < 1$ for $i \geq 2$, the non-dominant terms decay geometrically. after $k$ steps:
+since $\lvert \lambda_i/\lambda_1\rvert < 1$ for $i \geq 2$, the non-dominant terms decay geometrically. after $k$ steps:
 
 $$A^k \mathbf{v}^{(0)} \to \lambda_1^k c_1 \mathbf{v}_1$$
 
@@ -31,11 +31,11 @@ normalizing kills the $\lambda_1^k$ factor and leaves $\mathbf{v}_1$ (up to sign
 
 ## convergence rate
 
-linear with rate $|\lambda_2/\lambda_1|$:
+linear with rate $\lvert \lambda_2/\lambda_1\rvert$:
 
-$$\|\mathbf{v}^{(k)} - \mathbf{v}_1\| \sim |\lambda_2/\lambda_1|^k$$
+$$\lVert\mathbf{v}^{(k)} - \mathbf{v}_1\rVert \sim \lvert\lambda_2/\lambda_1\rvert^k$$
 
-if $|\lambda_2| \approx |\lambda_1|$, convergence is slow. if $|\lambda_2| \ll |\lambda_1|$ (well-separated dominant eigenvalue), convergence is fast.
+if $\lvert \lambda_2\rvert \approx \lvert \lambda_1\rvert$, convergence is slow. if $\lvert \lambda_2\rvert \ll \lvert \lambda_1\rvert$ (well-separated dominant eigenvalue), convergence is fast.
 
 ## python
 
@@ -75,8 +75,8 @@ run power iteration on $K > 1$ orthogonal vectors simultaneously, with re-orthog
 ## limitations
 
 - **only finds the dominant eigenvalue**. for the full spectrum, use QR algorithm
-- **fails if $|\lambda_2| = |\lambda_1|$** (e.g. eigenvalues $\pm \lambda$ for a symmetric matrix with both signs): the iteration cycles, doesn't converge
-- **slow if $|\lambda_2/\lambda_1|$ is close to 1**
+- **fails if $\lvert \lambda_2\rvert = \lvert \lambda_1\rvert$** (e.g. eigenvalues $\pm \lambda$ for a symmetric matrix with both signs): the iteration cycles, doesn't converge
+- **slow if $\lvert \lambda_2/\lambda_1\rvert$ is close to 1**
 
 ## astrophysics applications
 

@@ -26,7 +26,7 @@ Max Planck solved the ultraviolet catastrophe in 1900 by hypothesizing that ener
 the specific intensity of blackbody radiation as a function of frequency $\nu$ is:
 $$\boxed{\, B_\nu(T) = \frac{2h\nu^3}{c^2} \frac{1}{e^{\frac{h\nu}{k_B T}} - 1} \qquad [\text{W m}^{-2}\text{ Hz}^{-1}\text{ sr}^{-1}] \,}$$
 
-in terms of wavelength $\lambda$ (using $|B_\lambda d\lambda| = |B_\nu d\nu|$ with $\nu = c/\lambda$):
+in terms of wavelength $\lambda$ (using $\lvert B_\lambda d\lambda\rvert = \lvert B_\nu d\nu\rvert$ with $\nu = c/\lambda$):
 $$\boxed{\, B_\lambda(T) = \frac{2hc^2}{\lambda^5} \frac{1}{e^{\frac{hc}{\lambda k_B T}} - 1} \qquad [\text{W m}^{-2}\text{ m}^{-1}\text{ sr}^{-1}] \,}$$
 
 ![radiative-17.png](../../assets/images/radiative-17.png)

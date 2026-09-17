@@ -12,10 +12,10 @@ title: "Malavolta 12 - Transit Parameter Estimation and Likelihood Optimization"
 
 ## The Statistical Likelihood Function
 
-The likelihood function $\mathcal{L}(\boldsymbol{\theta} | \boldsymbol{D})$ represents the joint probability of observing dataset $\boldsymbol{D} = \{ y_i, t_i, \sigma_i \}_{i=1}^N$ given a physical model $m(t_i, \boldsymbol{\theta})$.
+The likelihood function $\mathcal{L}(\boldsymbol{\theta} \mid \boldsymbol{D})$ represents the joint probability of observing dataset $\boldsymbol{D} = \{ y_i, t_i, \sigma_i \}_{i=1}^N$ given a physical model $m(t_i, \boldsymbol{\theta})$.
 
 Assuming independent, Gaussian-distributed observational errors:
-$$\mathcal{L}(\boldsymbol{\theta} | \boldsymbol{D}) = \prod_{i=1}^N \frac{1}{\sqrt{2\pi \sigma_i^2}} \exp\left( -\frac{[y_i - m(t_i, \boldsymbol{\theta})]^2}{2 \sigma_i^2} \right)$$
+$$\mathcal{L}(\boldsymbol{\theta} \mid \boldsymbol{D}) = \prod_{i=1}^N \frac{1}{\sqrt{2\pi \sigma_i^2}} \exp\left( -\frac{[y_i - m(t_i, \boldsymbol{\theta})]^2}{2 \sigma_i^2} \right)$$
 
 The natural logarithm of the likelihood is:
 $$\ln \mathcal{L}(\boldsymbol{\theta}) = -\frac{1}{2} \sum_{i=1}^N \left[ \left( \frac{y_i - m(t_i, \boldsymbol{\theta})}{\sigma_i} \right)^2 + \ln(2\pi \sigma_i^2) \right]$$

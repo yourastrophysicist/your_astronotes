@@ -56,8 +56,8 @@ where $l$ is Galactic longitude, $d$ is distance, and $A$ and $B$ are the fundam
 
 ![milkyway-29.png](../../assets/images/milkyway-29.png)
 
-$$\boxed{\, A \equiv -\frac{1}{2} R_0 \left(\frac{d\Omega}{dR}\right)_0 = \frac{1}{2} \left(\frac{V_0}{R_0} - \left.\frac{dV}{dR}\right|_0\right) \approx +15 \text{ km s}^{-1}\text{ kpc}^{-1} \,}$$
-$$\boxed{\, B \equiv -\frac{1}{2} \left[R_0 \left(\frac{d\Omega}{dR}\right)_0 + 2\Omega_0\right] = -\frac{1}{2} \left(\frac{V_0}{R_0} + \left.\frac{dV}{dR}\right|_0\right) \approx -12 \text{ km s}^{-1}\text{ kpc}^{-1} \,}$$
+$$\boxed{\, A \equiv -\frac{1}{2} R_0 \left(\frac{d\Omega}{dR}\right)_0 = \frac{1}{2} \left(\frac{V_0}{R_0} - \left.\frac{dV}{dR}\right\rvert_0\right) \approx +15 \text{ km s}^{-1}\text{ kpc}^{-1} \,}$$
+$$\boxed{\, B \equiv -\frac{1}{2} \left[R_0 \left(\frac{d\Omega}{dR}\right)_0 + 2\Omega_0\right] = -\frac{1}{2} \left(\frac{V_0}{R_0} + \left.\frac{dV}{dR}\right\rvert_0\right) \approx -12 \text{ km s}^{-1}\text{ kpc}^{-1} \,}$$
 
 ![milkyway-30.png](../../assets/images/milkyway-30.png)
 
@@ -70,7 +70,7 @@ $$\boxed{\, B \equiv -\frac{1}{2} \left[R_0 \left(\frac{d\Omega}{dR}\right)_0 + 
 
 ## measuring the Galactic Rotation Curve: the tangent-point method
 
-using radio 21 cm observations of neutral hydrogen (HI), astronomers map the rotation curve $V(R)$ within the solar circle ($R < R_0$, $|l| < 90^\circ$):
+using radio 21 cm observations of neutral hydrogen (HI), astronomers map the rotation curve $V(R)$ within the solar circle ($R < R_0$, $\lvert l\rvert < 90^\circ$):
 
 ![milkyway-31.png](../../assets/images/milkyway-31.png)
 

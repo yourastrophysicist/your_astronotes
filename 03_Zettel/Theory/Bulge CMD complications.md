@@ -68,7 +68,7 @@ the bulge is the high-metallicity stress test of CMD analysis. mastering the pro
 
 - the same techniques apply to LMC / SMC clusters viewed through dust,
 - they apply to GCs in the inner halo (e.g., NGC 6528, NGC 6553),
-- they are required for any resolved-population study at $|b| < 10^\circ$.
+- they are required for any resolved-population study at $\lvert b\rvert < 10^\circ$.
 
 ## reference papers
 

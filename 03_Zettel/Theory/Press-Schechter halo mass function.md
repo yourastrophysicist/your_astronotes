@@ -12,9 +12,9 @@ it is the bridge between the **matter power spectrum** $P_m(k)$ and the **abunda
 ## the setup
 
 start from the linear matter power spectrum at some reference time (today, say). smooth it with a top-hat filter of comoving radius $R$ to get the variance:
-$$\sigma^2(R) = \int \frac{dk}{2\pi^2}\, k^2\, P_m(k)\, |W(kR)|^2$$
+$$\sigma^2(R) = \int \frac{dk}{2\pi^2}\, k^2\, P_m(k)\, \lvert W(kR)\rvert^2$$
 
-with $|W(kR)|^2 = (3/(kR)^3)^2 [\sin(kR) - kR\cos(kR)]^2$ the Fourier transform of a top hat.
+with $\lvert W(kR)\rvert^2 = (3/(kR)^3)^2 [\sin(kR) - kR\cos(kR)]^2$ the Fourier transform of a top hat.
 
 associate $R$ with a mass scale via the mean matter density:
 $$M(R) = \frac{4\pi}{3}\bar\rho_m R^3$$
@@ -37,7 +37,7 @@ $$F(>M) = \frac{1}{\sqrt{2\pi}\sigma}\int_{\delta_c}^\infty e^{-\delta^2/(2\sigm
 the **fudge factor of 2** comes from the "cloud-in-cloud" problem (a region with $\delta < \delta_c$ might be part of a larger collapsed region). Press and Schechter put this in by hand; the **excursion-set theory** of Bond, Cole, Efstathiou, Kaiser (1991) derives it rigorously.
 
 differentiating gives the **mass function**:
-$$\boxed{\,\frac{dn}{dM} = \sqrt{\frac{2}{\pi}}\, \frac{\bar\rho_m}{M^2}\, \frac{\delta_c}{\sigma(M)}\, \left|\frac{d\ln\sigma}{d\ln M}\right|\, e^{-\delta_c^2/(2\sigma^2)}\,}$$
+$$\boxed{\,\frac{dn}{dM} = \sqrt{\frac{2}{\pi}}\, \frac{\bar\rho_m}{M^2}\, \frac{\delta_c}{\sigma(M)}\, \left\lvert\frac{d\ln\sigma}{d\ln M}\right\rvert\, e^{-\delta_c^2/(2\sigma^2)}\,}$$
 
 ---
 

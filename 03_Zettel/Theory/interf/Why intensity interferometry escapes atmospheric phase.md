@@ -23,17 +23,17 @@ the atmospheric phase difference $\Delta\phi_{\rm atm}$ corrupts the visibility.
 ## the intensity case
 
 now compute the *intensities*:
-$$I_i = |E_{i, \rm meas}|^2 = |E_{i, \rm source}|^2 \cdot |e^{i \phi_{i, \rm atm}}|^2 = |E_{i, \rm source}|^2$$
+$$I_i = \lvert E_{i, \rm meas}\rvert^2 = \lvert E_{i, \rm source}\rvert^2 \cdot \lvert e^{i \phi_{i, \rm atm}}\rvert^2 = \lvert E_{i, \rm source}\rvert^2$$
 
-**the atmospheric phase cancels** in $I = |E|^2$. each telescope's intensity is unaffected by atmospheric phase corruption. only the source matters.
+**the atmospheric phase cancels** in $I = \lvert E\rvert^2$. each telescope's intensity is unaffected by atmospheric phase corruption. only the source matters.
 
 so when we compute the intensity correlation:
 $$C_{12} = \langle I_1 I_2 \rangle - \langle I_1 \rangle \langle I_2 \rangle$$
 
 the result depends only on source-side properties — specifically, on the modulus squared of the source's spatial coherence:
-$$C_{12} \propto |\gamma_{\rm source}^{(1)}(\mathbf B)|^2$$
+$$C_{12} \propto \lvert \gamma_{\rm source}^{(1)}(\mathbf B)\rvert^2$$
 
-**the atmosphere is gone**. measuring $C_{12}$ at multiple baselines traces $|\gamma|^2$ vs $\mathbf B$, recovering source structure exactly as amplitude interferometry would, but without phase-stability requirements.
+**the atmosphere is gone**. measuring $C_{12}$ at multiple baselines traces $\lvert \gamma\rvert^2$ vs $\mathbf B$, recovering source structure exactly as amplitude interferometry would, but without phase-stability requirements.
 
 ## intuitive picture
 
@@ -67,7 +67,7 @@ for a fully-resolved source ($V = 0.1$): amplitude needs $100\times$ more photon
 
 so intensity interferometry is restricted to **bright stars** ($V < 6$ or so).
 
-### 2. only $|V|^2$
+### 2. only $\lvert V\rvert^2$
 
 the intensity correlation gives the *squared modulus* of the visibility. phase information is lost — there's a parity ambiguity, just like basic speckle interferometry.
 

@@ -13,9 +13,9 @@ for a multi-electron atom in LS coupling:
 3. **then couple** $\vec L$ and $\vec S$ to give total: $\vec J = \vec L + \vec S$.
 
 allowed total values:
-- $L$: integer between $|\ell_1 - \ell_2|$ and $\ell_1 + \ell_2$, for two electrons. for more, iterate.
-- $S$: half-integer or integer, between $|s_1 - s_2|$ and $s_1 + s_2$. for $n$ electrons, $S \in \{0, 1, 2, \dots\}$ if $n$ even, $\{1/2, 3/2, \dots\}$ if odd.
-- $J$: integer or half-integer, between $|L - S|$ and $L + S$.
+- $L$: integer between $\lvert \ell_1 - \ell_2\rvert$ and $\ell_1 + \ell_2$, for two electrons. for more, iterate.
+- $S$: half-integer or integer, between $\lvert s_1 - s_2\rvert$ and $s_1 + s_2$. for $n$ electrons, $S \in \{0, 1, 2, \dots\}$ if $n$ even, $\{1/2, 3/2, \dots\}$ if odd.
+- $J$: integer or half-integer, between $\lvert L - S\rvert$ and $L + S$.
 
 each combination of $(L, S)$ is called a **term**; each combination of $(L, S, J)$ is a **multiplet sublevel** (often just called a "level").
 
@@ -42,7 +42,7 @@ example: the $^2P$ term of Na has $J = 1/2$ and $J = 3/2$, the famous **D-double
 among all terms allowed by an electron configuration, the lowest-energy one (the ground state) is selected by:
 1. highest $S$.
 2. then highest $L$.
-3. then $J = |L - S|$ if shell less than half-filled, $J = L + S$ if more than half-filled.
+3. then $J = \lvert L - S\rvert$ if shell less than half-filled, $J = L + S$ if more than half-filled.
 
 so for $C$ ($2p^2$): possible terms $^3P, ^1D, ^1S$. highest $S = 1$ $\to$ $^3P$. shell less than half $\to$ $J = 0$. ground state $^3P_0$.
 

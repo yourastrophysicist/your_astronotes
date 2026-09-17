@@ -25,7 +25,7 @@ By measuring exactly how this fringe visibility decreases as the baseline gets l
 ## key derivation & equations
 
 For a star modeled as a uniform disk of angular diameter $\theta_{\rm UD}$, the visibility $V$ as a function of projected baseline $B$ and wavelength $\lambda$ follows a Bessel function
-$$V(B) = \left| \frac{2J_1(\pi\theta_{\rm UD} B/\lambda)}{\pi\theta_{\rm UD} B/\lambda} \right|$$
+$$V(B) = \left\lvert \frac{2J_1(\pi\theta_{\rm UD} B/\lambda)}{\pi\theta_{\rm UD} B/\lambda} \right\rvert$$
 
 Because real stars exhibit limb darkening, their actual physical diameter $\theta_{\rm LD}$ is slightly larger than the naive uniform disk model suggests
 $$\theta_{\rm LD} > \theta_{\rm UD}$$

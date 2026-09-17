@@ -74,7 +74,7 @@ setting $a = 0$ in the third equation:
 $$0 = \cos h_{s,t}\cos\delta\cos\phi + \sin\delta\sin\phi$$
 $$\Rightarrow \boxed{\,\cos h_{s,t} = -\tan\delta\tan\phi\,}$$
 
-the local sidereal time at rise/set follows from $\Theta_{s,t} = h_{s,t} + \alpha$. the star is above the horizon for $2 |h_{s,t}|$ hours.
+the local sidereal time at rise/set follows from $\Theta_{s,t} = h_{s,t} + \alpha$. the star is above the horizon for $2 \lvert h_{s,t}\rvert$ hours.
 
 note: this calculation **does not include atmospheric refraction**, which lifts apparent positions of objects near the horizon by about $34'$. this means the Sun rises a few minutes earlier and sets a few minutes later than the geometric formula predicts. for precise sunrise/sunset times you need to subtract that.
 
@@ -121,7 +121,7 @@ $\cos h = 0$, $h = \pm 90° = \pm 6$ h. star above horizon for exactly 12 h, ris
 *Upper culmination / transit across local meridian.*
 
 ![obs_sph1-34.png](../../assets/images/obs_sph1-34.png)
-*Culmination altitude formula: a = 90 deg - |phi - delta|.*
+*Culmination altitude formula: a = 90 deg - \lvert\phi - \delta\rvert.*
 
 ![obs_sph1-35.png](../../assets/images/obs_sph1-35.png)
 *Lower culmination below the celestial pole.*

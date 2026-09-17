@@ -75,7 +75,7 @@ still limited by sensitivity:
 - **faint stars**: $V > 6$ remains hard
 - **extragalactic targets**: far too faint
 - **high-resolution spectroscopy**: needs very narrow bands, killing photon flux
-- **imaging asymmetric sources**: phase information still missing (only $|V|^2$)
+- **imaging asymmetric sources**: phase information still missing (only $\lvert V\rvert^2$)
 
 so intensity interferometry remains a **bright-star-only** technique, but with *much* more capability than Narrabri had.
 

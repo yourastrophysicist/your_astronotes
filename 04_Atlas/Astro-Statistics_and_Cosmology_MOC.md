@@ -170,12 +170,12 @@ Modular atomic reference notes synthesized across the four thematic pillars:
 
 ## Essential Formulas Quick Sheet (Astro-Statistics)
 
-- **Bayes' Theorem**: $P(\theta \| D, I) = \frac{\mathcal{L}(D \| \theta) \pi(\theta)}{\mathcal{Z}}$ where $\mathcal{Z} = \int \mathcal{L}(D \| \theta) \pi(\theta) d^N\theta$
+- **Bayes' Theorem**: $P(\theta \mid D, I) = \frac{\mathcal{L}(D \mid \theta) \pi(\theta)}{\mathcal{Z}}$ where $\mathcal{Z} = \int \mathcal{L}(D \mid \theta) \pi(\theta) d^N\theta$
 - **Fisher Information Matrix**: $F_{ij} = \frac{1}{2} \operatorname{Tr}\left[C^{-1} \frac{\partial C}{\partial \theta_i} C^{-1} \frac{\partial C}{\partial \theta_j}\right] + \frac{\partial \boldsymbol{\mu}^T}{\partial \theta_i} C^{-1} \frac{\partial \boldsymbol{\mu}}{\partial \theta_j}$
-- **Cramér-Rao Inequality**: $\operatorname{Var}(\hat{\theta}_i) \ge (F^{-1})_{ii}$ (marginalized), $\operatorname{Var}(\hat{\theta}_i \| \theta_{j \ne i}) \ge \frac{1}{F_{ii}}$ (conditional)
-- **Metropolis-Hastings Acceptance**: $\alpha(\theta \to \theta^*) = \min\left(1, \frac{\mathcal{L}(D\|\theta^*) \pi(\theta^*) q(\theta\|\theta^*)}{\mathcal{L}(D\|\theta) \pi(\theta) q(\theta^*\|\theta)}\right)$
+- **Cramér-Rao Inequality**: $\operatorname{Var}(\hat{\theta}_i) \ge (F^{-1})_{ii}$ (marginalized), $\operatorname{Var}(\hat{\theta}_i \mid \theta_{j \ne i}) \ge \frac{1}{F_{ii}}$ (conditional)
+- **Metropolis-Hastings Acceptance**: $\alpha(\theta \to \theta^*) = \min\left(1, \frac{\mathcal{L}(D\mid\theta^*) \pi(\theta^*) q(\theta\mid\theta^*)}{\mathcal{L}(D\mid\theta) \pi(\theta) q(\theta^*\mid\theta)}\right)$
 - **Gelman-Rubin Convergence**: $\hat{R} = \sqrt{\frac{W + \frac{1}{N}(B - W)}{W}} \to 1.0$ (convergence achieved when $\hat{R} < 1.05$)
-- **Savage-Dickey Ratio**: $B_{01} = \left.\frac{P(\omega \| D, M_1)}{\pi(\omega \| M_1)}\right|_{\omega = \omega_0}$
+- **Savage-Dickey Ratio**: $B_{01} = \left.\frac{P(\omega \mid D, M_1)}{\pi(\omega \mid M_1)}\right\vert_{\omega = \omega_0}$
 {% endraw %}
 
 <div class="backlinks-section">

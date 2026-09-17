@@ -25,7 +25,7 @@ $$x_i^{(k+1)} = \frac{1}{A_{ii}}\left(b_i - \sum_{j < i} A_{ij} x_j^{(k+1)} - \s
 
 note the *latest* $x_j$ are used: components below $i$ use the new value already computed in this sweep. that is what distinguishes Gauss-Seidel from Jacobi (which uses only old values).
 
-stop when $\|\mathbf{x}^{(k+1)} - \mathbf{x}^{(k)}\| < \epsilon$ for some tolerance.
+stop when $\\lvert \mathbf{x}^{(k+1)} - \mathbf{x}^{(k)}\\rvert < \epsilon$ for some tolerance.
 
 ## python implementation
 
@@ -50,7 +50,7 @@ note I do *not* need to make a copy of $x$ during the sweep — Gauss-Seidel nat
 
 Gauss-Seidel converges if and only if the spectral radius of the iteration matrix $G = -(D + L)^{-1}U$ is less than 1 (where $A = D + L + U$ is the diagonal-plus-strictly-lower-plus-strictly-upper splitting). practical sufficient conditions:
 
-- **diagonally dominant** $A$: $|A_{ii}| > \sum_{j \neq i} |A_{ij}|$ for all $i$ — converges
+- **diagonally dominant** $A$: $\lvert A_{ii}\rvert > \sum_{j \neq i} \lvert A_{ij}\rvert$ for all $i$ — converges
 - **symmetric positive-definite** $A$ — converges
 - general $A$: may diverge
 
@@ -60,7 +60,7 @@ if the matrix is not diagonally dominant or SPD, Gauss-Seidel can diverge specta
 
 linear: each iteration reduces the error by a factor of the spectral radius $\rho(G) \in (0, 1)$. so
 
-$$\|\mathbf{x}^{(k)} - \mathbf{x}^*\| \sim \rho^k \|\mathbf{x}^{(0)} - \mathbf{x}^*\|$$
+$$\lVert\mathbf{x}^{(k)} - \mathbf{x}^*\rVert \sim \rho^k \lVert\mathbf{x}^{(0)} - \mathbf{x}^*\rVert$$
 
 iterations needed to reach tolerance $\epsilon$: $k \sim \log(1/\epsilon)/\log(1/\rho)$. for $\rho = 0.9$ (slow): $k \sim 219$ iterations to reach $\epsilon = 10^{-10}$. for $\rho = 0.5$: $k \sim 33$.
 

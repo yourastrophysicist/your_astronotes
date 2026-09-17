@@ -36,7 +36,7 @@ $$\mathcal{I}(\theta) = \begin{cases} I_0 & \text{for } \theta \le \theta_*/2 \\
 
 Taking the 2D Fourier transform gives the classic Airy visibility function:
 
-$$V(B) = \frac{I_{\max} - I_{\min}}{I_{\max} + I_{\min}} = \left| \frac{2 J_1(x)}{x} \right|, \quad \text{where } x = \frac{\pi \theta_* B}{\lambda}$$
+$$V(B) = \frac{I_{\max} - I_{\min}}{I_{\max} + I_{\min}} = \left\lvert \frac{2 J_1(x)}{x} \right\rvert, \quad \text{where } x = \frac{\pi \theta_* B}{\lambda}$$
 
 where $J_1(x)$ is the first-order Bessel function of the first kind.
 
@@ -50,7 +50,7 @@ $$\frac{\pi \theta_* B_{\rm zero}}{\lambda} = 3.8317 \implies B_{\rm zero} = 1.2
 ### 2. binary star separation model
 For a binary star system consisting of two equal-brightness point stars separated by angular distance $\theta_{\rm sep}$ aligned along the baseline:
 
-$$V(B) = \left| \cos\left( \frac{\pi \theta_{\rm sep} B}{\lambda} \right) \right|$$
+$$V(B) = \left\lvert \cos\left( \frac{\pi \theta_{\rm sep} B}{\lambda} \right) \right\rvert$$
 
 The visibility vanishes ($V = 0$) when the baseline reaches:
 

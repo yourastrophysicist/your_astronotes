@@ -38,7 +38,7 @@ the observation:
 
 the bandpass has both **amplitude** and **phase** components:
 
-$$B_i(\nu) = |B_i(\nu)| \cdot e^{i \phi_i(\nu)}$$
+$$B_i(\nu) = \lvert B_i(\nu)\rvert \cdot e^{i \phi_i(\nu)}$$
 
 both vary with frequency. amplitude variations cause spectral-line distortions; phase variations cause spectral-position errors. a good bandpass calibration corrects both.
 

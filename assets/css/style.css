@@ -447,18 +447,32 @@ main {
   box-sizing: border-box;
 }
 
-/* Wikipedia Table Style */
-.markdown-body table {
-  display: block;
+/* Wikipedia Table Style & Responsive Mobile Container */
+.table-responsive {
   width: 100%;
-  max-width: 100%;
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
-  border-collapse: collapse;
   margin: 1.2em 0;
-  font-size: 0.9rem;
-  background-color: var(--toc-bg);
   border: 1px solid var(--border-color);
+  border-radius: 2px;
+  background-color: var(--toc-bg);
+}
+
+.markdown-body table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0;
+  font-size: 0.9rem;
+  background-color: transparent;
+  border: none;
+}
+
+.markdown-body > table {
+  display: block;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  border: 1px solid var(--border-color);
+  margin: 1.2em 0;
 }
 
 .markdown-body th,
@@ -466,15 +480,25 @@ main {
   border: 1px solid var(--border-color);
   padding: 8px 12px;
   text-align: left;
+  min-width: 120px;
+  white-space: normal;
+  word-break: normal;
+  line-height: 1.45;
 }
 
 .markdown-body th {
   background-color: var(--sidebar-hover);
   font-weight: 600;
+  white-space: nowrap;
 }
 
 .markdown-body tr:nth-child(even) {
   background-color: var(--content-bg);
+}
+
+.markdown-body td:first-child,
+.markdown-body th:first-child {
+  min-width: 90px;
 }
 
 /* Sidebar Right (Table of Contents Box) */
@@ -590,6 +614,21 @@ main {
   .header-subtitle {
     display: none;
   }
+  .table-responsive {
+    margin: 1em -16px;
+    width: calc(100% + 32px);
+    border-left: none;
+    border-right: none;
+    border-radius: 0;
+  }
+  .markdown-body table {
+    min-width: 520px;
+    font-size: 0.85rem;
+  }
+  .markdown-body th,
+  .markdown-body td {
+    padding: 7px 10px;
+  }
 }
 
 @media (max-width: 480px) {
@@ -620,5 +659,9 @@ main {
   }
   main {
     padding: 16px 12px 36px 12px;
+  }
+  .table-responsive {
+    margin: 1em -12px;
+    width: calc(100% + 24px);
   }
 }

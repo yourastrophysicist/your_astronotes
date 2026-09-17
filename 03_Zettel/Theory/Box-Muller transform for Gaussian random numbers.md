@@ -121,7 +121,7 @@ mean should be $\approx 0$, std $\approx 1$.
 
 
 ![mapelli_fig20_p192.png](../../assets/images/mapelli_fig20_p192.png)
-*Metropolis-Hastings Markov Chain Monte Carlo (MCMC) acceptance probability ratio $\alpha = \min(1, \frac{P(x')q(x|x')}{P(x)q(x'|x)})$.*
+*Metropolis-Hastings Markov Chain Monte Carlo (MCMC) acceptance probability ratio $\alpha = \min(1, \frac{P(x')q(x \mid x')}{P(x)q(x' \mid x)})$.*
 {% endraw %}
 
 <div class="backlinks-section">

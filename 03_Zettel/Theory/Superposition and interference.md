@@ -25,7 +25,7 @@ When dealing with light, our detectors (like CCDs or the human eye) only measure
 
 For two coherent waves with electric fields $E_1$ and $E_2$, the total field is $E_{tot} = E_1 + E_2$. The total intensity $I$ is proportional to the time-averaged square of the field:
 
-$$ I = \langle |E_1 + E_2|^2 \rangle $$
+$$ I = \langle   \vertE_1 + E_2\vert ^2 \rangle $$
 
 Expanding this yields the fundamental two-wave interference equation:
 

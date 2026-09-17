@@ -71,7 +71,7 @@ two competing physical timescales govern the cloud:
 
 introduce first-order perturbations:
 $$\rho(\vec{r}, t) = \rho_0 + \rho_1(\vec{r}, t), \quad \vec{v}(\vec{r}, t) = 0 + \vec{v}_1(\vec{r}, t), \quad P(\vec{r}, t) = P_0 + c_s^2 \rho_1, \quad \Phi(\vec{r}, t) = \Phi_0 + \Phi_1(\vec{r}, t)$$
-with $|\rho_1| \ll \rho_0$.
+with $\lvert \rho_1\rvert \ll \rho_0$.
 
 substituting into the fluid equations and neglecting second-order terms:
 1. $\frac{\partial\rho_1}{\partial t} + \rho_0 \vec{\nabla}\cdot\vec{v}_1 = 0$
@@ -150,7 +150,7 @@ $$2K + U = 0 \quad (\text{equilibrium})$$
 where thermal kinetic energy is $K = \frac{3}{2} N k_B T = \frac{3}{2} \frac{M}{\mu m_H} k_B T$, and self-gravitational potential energy of a uniform sphere of radius $R$ is $U = -\frac{3}{5}\frac{G M^2}{R}$.
 
 the condition for gravitational collapse is:
-$$2K < |U| \implies 3 \frac{M}{\mu m_H} k_B T < \frac{3}{5} \frac{G M^2}{R} \implies M > \frac{5 k_B T R}{G \mu m_H}$$
+$$2K < \lvert U\rvert \implies 3 \frac{M}{\mu m_H} k_B T < \frac{3}{5} \frac{G M^2}{R} \implies M > \frac{5 k_B T R}{G \mu m_H}$$
 
 substituting $R = \left(\frac{3M}{4\pi\rho_0}\right)^{1/3}$ yields $M > M_J \propto T^{3/2} \rho_0^{-1/2}$ (up to a factor of order unity).
 

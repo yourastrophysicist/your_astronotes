@@ -8,7 +8,7 @@ title: "Linearized metric perturbation"
 ## the setup
 
 write the full metric as:
-$$g_{\mu\nu} = \eta_{\mu\nu} + h_{\mu\nu}, \quad |h_{\mu\nu}| \ll 1$$
+$$g_{\mu\nu} = \eta_{\mu\nu} + h_{\mu\nu}, \quad \lvert h_{\mu\nu}\rvert \ll 1$$
 
 with $\eta_{\mu\nu} = {\rm diag}(-1, +1, +1, +1)$ the Minkowski metric. $h_{\mu\nu}$ is the **perturbation**, a small symmetric tensor.
 

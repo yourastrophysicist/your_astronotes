@@ -22,9 +22,9 @@ However, for cosmological perturbations, all Fourier modes originated deep insid
 The canonical commutation relation $[v_{\vec{k}}, v_{\vec{k}'}^{\prime\dagger}] = i (2\pi)^3 \delta^{(3)}(\vec{k}-\vec{k}')$ imposes the Wronskian normalization condition:
 $$v_k^*(\tau) v_k'(\tau) - v_k(\tau) v_k^{*\prime}(\tau) = -i$$
 
-The asymptotic past boundary condition defining the Bunch-Davies vacuum $|0\rangle$ is:
+The asymptotic past boundary condition defining the Bunch-Davies vacuum $\vert 0 \rangle$ is:
 $$\lim_{\tau \to -\infty} v_k(\tau) = \frac{1}{\sqrt{2k}} e^{-ik\tau}$$
-where $\hat{a}_{\vec{k}}|0\rangle = 0$ for all $\vec{k}$.
+where $\hat{a}_{\vec{k}}\vert 0 \rangle = 0$ for all $\vec{k}$.
 
 The exact solution to $v_k'' + (k^2 - 2/\tau^2)v_k = 0$ satisfying this condition is:
 $$v_k(\tau) = \frac{e^{-ik\tau}}{\sqrt{2k}}\left(1 - \frac{i}{k\tau}\right)$$

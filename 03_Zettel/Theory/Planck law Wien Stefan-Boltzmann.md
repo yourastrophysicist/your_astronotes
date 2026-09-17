@@ -13,7 +13,7 @@ $$B_\nu(T) = \frac{2h\nu^3}{c^2}\,\frac{1}{e^{h\nu/k_BT} - 1}$$
 or equivalently in wavelength:
 $$B_\lambda(T) = \frac{2hc^2}{\lambda^5}\,\frac{1}{e^{hc/\lambda k_BT} - 1}$$
 
-(use Jacobian $|d\nu/d\lambda| = c/\lambda^2$ to convert.)
+(use Jacobian $\lvert d\nu/d\lambda\rvert = c/\lambda^2$ to convert.)
 
 a one-parameter family: knowing $T$ tells you the entire spectrum. units: erg s$^{-1}$ cm$^{-2}$ sr$^{-1}$ Hz$^{-1}$ (or per cm$^{-1}$ if in $\lambda$).
 

@@ -27,8 +27,8 @@ the line perpendicular to a great circle through the center pierces the sphere a
 
 ## arc length and the central angle
 
-on a sphere of radius $r$, a great-circle arc $|AB|$ corresponds to a central angle $c$ (in radians) by
-$$|AB| = r c, \qquad [c] = \text{rad}$$
+on a sphere of radius $r$, a great-circle arc $\lvert AB\rvert$ corresponds to a central angle $c$ (in radians) by
+$$\lvert AB\rvert = r c, \qquad [c] = \text{rad}$$
 
 so on a unit sphere ($r = 1$), the angle *is* the arc length. this is why the radius of the celestial sphere never appears in any practical formula: I always work with angles.
 

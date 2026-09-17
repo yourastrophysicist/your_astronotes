@@ -30,7 +30,7 @@ with $\Omega_{\rm tot} = \Omega_m + \Omega_r + \Omega_\Lambda$.
 ## the observed value
 
 current measurements (Planck + BAO):
-$$|\Omega_k| < 0.005\quad(95\%\,\text{CL})$$
+$$\lvert \Omega_k\rvert < 0.005\quad(95\%\,\text{CL})$$
 
 so $\Omega_{\rm tot} = 1$ to within $\sim 0.5\%$. universe is **flat**.
 
@@ -40,7 +40,7 @@ equivalently: the curvature radius $R_k > 14$ Gpc, much bigger than the observab
 
 a key prediction of **inflation**: the universe should be **flat** to extreme precision. inflation drives $\Omega_k \to 0$ exponentially during the inflationary epoch, regardless of any pre-inflationary curvature.
 
-so the observation $|\Omega_k| < 0.005$ is **consistent with inflation**. measuring $\Omega_k$ at higher precision tests whether inflation was sufficient + uniform.
+so the observation $\lvert \Omega_k\rvert < 0.005$ is **consistent with inflation**. measuring $\Omega_k$ at higher precision tests whether inflation was sufficient + uniform.
 
 ## the physical picture
 

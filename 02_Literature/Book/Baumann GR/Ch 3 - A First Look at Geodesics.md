@@ -132,8 +132,8 @@ we want to check: in the limit of weak fields and slow motion, does the geodesic
 
 three conditions:
 
-1. **slow motion**: $|\dot x^i| \ll \dot t$, so spatial velocities are small compared to light speed
-2. **weak field**: $g_{\mu\nu} = \eta_{\mu\nu} + h_{\mu\nu}$ with $|h| \ll 1$
+1. **slow motion**: $\lvert \dot x^i\rvert \ll \dot t$, so spatial velocities are small compared to light speed
+2. **weak field**: $g_{\mu\nu} = \eta_{\mu\nu} + h_{\mu\nu}$ with $\lvert h\rvert \ll 1$
 3. **static field**: $\partial_0 g_{\mu\nu} = 0$, the field doesn't change in time
 
 ### the calculation

@@ -45,7 +45,7 @@ problem: requires *trans-Planckian* field values $\phi \gg M_{\rm Pl}$, which is
 
 the broad framework that includes new and chaotic inflation as special cases. require:
 - $\epsilon \equiv (M_{\rm Pl}^2/2)(V'/V)^2 \ll 1$
-- $|\eta| \equiv M_{\rm Pl}^2 |V''/V| \ll 1$
+- $\lvert \eta\rvert \equiv M_{\rm Pl}^2 \lvert V''/V\rvert \ll 1$
 
 (see [Inflaton scalar field dynamics](./Inflaton%20scalar%20field%20dynamics.html).)
 

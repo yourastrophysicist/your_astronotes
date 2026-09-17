@@ -11,7 +11,7 @@ the canonical first measurement of any stellar interferometer. measure the angul
 
 a star is approximately a uniform disk of angular diameter $\theta$. its visibility:
 
-$$|V(B)| = \left|\frac{2 J_1(\pi \theta B/\lambda)}{\pi \theta B/\lambda}\right|$$
+$$\lvert V(B)\rvert = \left\lvert\frac{2 J_1(\pi \theta B/\lambda)}{\pi \theta B/\lambda}\right\rvert$$
 
 first null at $B_1 = 1.22 \lambda/\theta$.
 

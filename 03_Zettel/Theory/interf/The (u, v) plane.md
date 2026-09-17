@@ -29,7 +29,7 @@ specifically: at hour angle $H$ and declination $\delta$, with the baseline expr
 $$u = (B_x \sin H + B_y \cos H)/\lambda$$
 $$v = (-B_x \sin\delta \cos H + B_y \sin\delta \sin H + B_z \cos\delta)/\lambda$$
 
-over a full night, $H$ ranges from $-12$h to $+12$h, and $(u, v)$ traces an **ellipse** centered at $(0, B_z \cos\delta/\lambda)$ with semi-axes $|B_x|/\lambda$ and $|B_y|/\lambda \cdot \sin\delta$.
+over a full night, $H$ ranges from $-12$h to $+12$h, and $(u, v)$ traces an **ellipse** centered at $(0, B_z \cos\delta/\lambda)$ with semi-axes $\lvert B_x\rvert/\lambda$ and $\lvert B_y\rvert/\lambda \cdot \sin\delta$.
 
 ## the ellipse pattern
 
@@ -49,14 +49,14 @@ the standard diagnostic. plot every measured visibility as a dot at $(u, v)$, po
 - **arcs**: elliptical tracks from Earth-rotation synthesis
 - **point clusters**: snapshot data (no rotation) or fixed VLBI baselines
 
-an interferometer designer's main goal: maximize uniform (u, v) coverage across as wide a range of $|\mathbf u|$ as possible.
+an interferometer designer's main goal: maximize uniform (u, v) coverage across as wide a range of $\lvert \mathbf u\rvert$ as possible.
 
 ## the resolution
 
-the *highest* spatial frequency sampled is $|\mathbf u|_{\max} = B_{\max}/\lambda$. corresponding angular resolution:
-$$\theta_{\rm res} \sim \frac{1}{|\mathbf u|_{\max}} = \frac{\lambda}{B_{\max}}$$
+the *highest* spatial frequency sampled is $\lvert \mathbf u\rvert_{\max} = B_{\max}/\lambda$. corresponding angular resolution:
+$$\theta_{\rm res} \sim \frac{1}{\lvert \mathbf u\rvert_{\max}} = \frac{\lambda}{B_{\max}}$$
 
-the *lowest* spatial frequency sampled is $|\mathbf u|_{\min} = B_{\min}/\lambda$, which sets the *largest angular scale* the interferometer can recover:
+the *lowest* spatial frequency sampled is $\lvert \mathbf u\rvert_{\min} = B_{\min}/\lambda$, which sets the *largest angular scale* the interferometer can recover:
 $$\theta_{\rm largest} \sim \frac{\lambda}{B_{\min}}$$
 
 structures larger than $\theta_{\rm largest}$ are "resolved out" — the array does not see them.

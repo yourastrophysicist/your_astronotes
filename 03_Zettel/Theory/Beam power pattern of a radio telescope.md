@@ -31,7 +31,7 @@ $$E(u,v)=\iint A(x,y)e^{-2\pi i(ux+vy)}dxdy$$
 
 then the power pattern is roughly
 
-$$P(u,v)=|E(u,v)|^2$$
+$$P(u,v)=\lvert E(u,v)\rvert^2$$
 
 this is the single-dish ancestor of the interferometric Fourier story.
 

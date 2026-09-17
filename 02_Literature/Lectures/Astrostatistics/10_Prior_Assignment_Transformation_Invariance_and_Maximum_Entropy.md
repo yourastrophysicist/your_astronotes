@@ -12,7 +12,7 @@ Reference index [Astro-Statistics_and_Cosmology_MOC](../../../04_Atlas/Astro-Sta
 
 ## The Problem of Prior Assignment
 
-A central pillar of the Bayesian framework is the prior probability distribution $\pi(\boldsymbol{\theta}) \equiv p(\boldsymbol{\theta} | M)$. The prior quantifies the state of knowledge regarding the parameter vector $\boldsymbol{\theta}$ before confronting the observational dataset $\boldsymbol{d}$.
+A central pillar of the Bayesian framework is the prior probability distribution $\pi(\boldsymbol{\theta}) \equiv p(\boldsymbol{\theta} \mid M)$. The prior quantifies the state of knowledge regarding the parameter vector $\boldsymbol{\theta}$ before confronting the observational dataset $\boldsymbol{d}$.
 
 In astronomical practice, two broad paradigms govern the selection of priors
 1. Informative Priors - constructed from previous independent empirical observations (for example, using a Gaussian prior on the Hubble constant $H_0 = 73.04 \pm 1.04 \, \text{km/s/Mpc}$ derived from Hubble Space Telescope Cepheid-calibrated supernovae when analyzing cosmic microwave background maps).
@@ -36,7 +36,7 @@ $$\pi_d(d) \propto \text{const}$$
 
 Now consider a colleague who measures the annual parallax $\varpi \equiv 1/d$. By standard conservation of probability mass
 
-$$\pi_\varpi(\varpi) \, |d\varpi| = \pi_d(d) \, |dd| \implies \pi_\varpi(\varpi) = \pi_d\left( \frac{1}{\varpi} \right) \left| \frac{dd}{d\varpi} \right| \propto \frac{1}{\varpi^2}$$
+$$\pi_\varpi(\varpi) \, \lvert d\varpi\rvert = \pi_d(d) \, \lvert dd\rvert \implies \pi_\varpi(\varpi) = \pi_d\left( \frac{1}{\varpi} \right) \left\lvert \frac{dd}{d\varpi} \right\rvert \propto \frac{1}{\varpi^2}$$
 
 The second researcher, who claims to measure the exact same physical system, finds a highly informative prior proportional to $1/\varpi^2$, strongly favoring small parallaxes.
 
@@ -52,7 +52,7 @@ E.T. Jaynes (1968) demonstrated that objective priors can be constructed rigorou
 
 A parameter $\mu$ is a location parameter if shifting both the data and the parameter by a constant $c$ leaves the sampling distribution invariant
 
-$$p(d + c \, | \, \mu + c) = p(d \, | \, \mu) \implies p(d \, | \, \mu) = f(d - \mu)$$
+$$p(d + c \, \mid \, \mu + c) = p(d \, \mid \, \mu) \implies p(d \, \mid \, \mu) = f(d - \mu)$$
 
 Physical examples include the celestial coordinates of a point source, the central rest wavelength of a spectral line $\lambda_0$, or the mean background sky noise level.
 
@@ -76,7 +76,7 @@ For an unbounded parameter space $\mu \in (-\infty, \infty)$, this produces an i
 
 A parameter $\sigma > 0$ is a scale parameter if stretching or shrinking the scale of the measurement by a positive factor $a > 0$ leaves the sampling distribution invariant
 
-$$p(a d \, | \, a \sigma) = \frac{1}{a} p(d \, | \, \sigma) \implies p(d \, | \, \sigma) = \frac{1}{\sigma} f\left( \frac{d}{\sigma} \right)$$
+$$p(a d \, \mid \, a \sigma) = \frac{1}{a} p(d \, \mid \, \sigma) \implies p(d \, \mid \, \sigma) = \frac{1}{\sigma} f\left( \frac{d}{\sigma} \right)$$
 
 Physical examples include the standard deviation of instrumental noise $\sigma$, the scale factor of the universe $a(t)$, the Hubble parameter $H_0$, or the decay lifetime of an unstable particle.
 
@@ -142,11 +142,11 @@ $$\det \boldsymbol{F}^{(\boldsymbol{\phi})} = \det(\boldsymbol{J}^T) \det(\bolds
 
 Taking the square root of both sides
 
-$$\sqrt{\det \boldsymbol{F}^{(\boldsymbol{\phi})}} = |\det \boldsymbol{J}| \sqrt{\det \boldsymbol{F}^{(\boldsymbol{\theta})}}$$
+$$\sqrt{\det \boldsymbol{F}^{(\boldsymbol{\phi})}} = \lvert \det \boldsymbol{J}\rvert \sqrt{\det \boldsymbol{F}^{(\boldsymbol{\theta})}}$$
 
 Now consider the standard transformation rule for probability density functions under coordinate change
 
-$$\pi_{\boldsymbol{\phi}}(\boldsymbol{\phi}) = \pi_{\boldsymbol{\theta}}(\boldsymbol{\theta}(\boldsymbol{\phi})) \, |\det \boldsymbol{J}|$$
+$$\pi_{\boldsymbol{\phi}}(\boldsymbol{\phi}) = \pi_{\boldsymbol{\theta}}(\boldsymbol{\theta}(\boldsymbol{\phi})) \, \lvert \det \boldsymbol{J}\rvert$$
 
 Comparing the two expressions demonstrates that $\sqrt{\det \boldsymbol{F}}$ transforms exactly as a probability density function. The state of prior knowledge represented by Jeffreys' rule is completely independent of the choice of coordinate system.
 

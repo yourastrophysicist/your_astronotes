@@ -52,7 +52,7 @@ $v(R)$ along the major axis. for spirals: rises to plateau (rotation-supported d
 $\sigma(R)$ vs radius. for ellipticals: declines outward; for some bulges, peaked.
 
 ### specific angular momentum $\lambda_R$
-$\lambda_R = \langle R |v|\rangle/\langle R\sqrt{v^2 + \sigma^2}\rangle$. measures rotation vs dispersion. galaxies separated into:
+$\lambda_R = \langle R \vertv\vert \rangle/\langle R\sqrt{v^2 + \sigma^2} \rangle$. measures rotation vs dispersion. galaxies separated into:
 - **fast rotators** ($\lambda_R > 0.3$): mostly rotation-supported. typical low-mass ellipticals + spiral bulges.
 - **slow rotators** ($\lambda_R < 0.3$): mostly dispersion-supported. massive ellipticals.
 

@@ -5,7 +5,7 @@ title: "Superposition and interference"
 {% raw %}
 # Superposition and interference
 
-waves add. when two coherent waves arrive at the same point, their amplitudes (not their intensities) sum, and the result has intensity $I = |\psi_1 + \psi_2|^2$. depending on the relative phase, the two waves can constructively reinforce or destructively cancel. this *interference* is what every interferometer measures.
+waves add. when two coherent waves arrive at the same point, their amplitudes (not their intensities) sum, and the result has intensity $I = \lvert \psi_1 + \psi_2\rvert^2$. depending on the relative phase, the two waves can constructively reinforce or destructively cancel. this *interference* is what every interferometer measures.
 
 ## the math
 
@@ -13,9 +13,9 @@ let two monochromatic waves arrive at a detector with amplitudes $\psi_1 = A_1 e
 
 $$\psi = \psi_1 + \psi_2 = A_1 e^{i\phi_1} + A_2 e^{i\phi_2}$$
 
-intensity = $|\psi|^2$:
+intensity = $\lvert \psi\rvert^2$:
 
-$$I = |\psi_1 + \psi_2|^2 = |A_1|^2 + |A_2|^2 + 2 |A_1| |A_2| \cos(\phi_1 - \phi_2)$$
+$$I = \lvert \psi_1 + \psi_2\rvert^2 = \lvert A_1\rvert^2 + \lvert A_2\rvert^2 + 2 \lvert A_1\rvert \lvert A_2\rvert \cos(\phi_1 - \phi_2)$$
 
 the third term, $2 A_1 A_2 \cos(\Delta\phi)$, is the **interference term**. it oscillates between $\pm 2 A_1 A_2$ as the phase difference $\Delta\phi = \phi_1 - \phi_2$ varies.
 
@@ -59,7 +59,7 @@ if the source is a *uniformly bright disk* (rather than a single point), each po
 
 specifically, a uniform disk of angular diameter $\theta_d$ produces fringes with visibility
 
-$$V(B) = \left| \frac{2 J_1(\pi \theta_d B/\lambda)}{\pi \theta_d B/\lambda} \right|$$
+$$V(B) = \left\lvert \frac{2 J_1(\pi \theta_d B/\lambda)}{\pi \theta_d B/\lambda} \right\rvert$$
 
 where $B = d$ is the baseline. the fringe contrast falls to zero (first null) at $B = 1.22 \lambda/\theta_d$ — the same Airy formula. measuring $V(B)$ at multiple baselines and finding where it nulls gives the source diameter.
 

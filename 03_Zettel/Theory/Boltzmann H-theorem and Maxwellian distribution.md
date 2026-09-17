@@ -39,7 +39,7 @@ $$\ln f' + \ln f'_1 = \ln f + \ln f_1$$
 
 $\ln f$ must be a linear combination of collision invariants (mass, momentum $\mathbf{v}$, kinetic energy $v^2$). this uniquely specifies the Maxwell-Boltzmann distribution:
 
-$$f_0(\mathbf{v}) = n \left( \frac{m}{2\pi k_B T} \right)^{3/2} \exp\left( -\frac{m |\mathbf{v} - \mathbf{u}|^2}{2 k_B T} \right)$$
+$$f_0(\mathbf{v}) = n \left( \frac{m}{2\pi k_B T} \right)^{3/2} \exp\left( -\frac{m \mid \mathbf{v} - \mathbf{u} \mid ^2}{2 k_B T} \right)$$
 
 ## see also
 

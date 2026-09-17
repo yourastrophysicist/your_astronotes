@@ -15,7 +15,7 @@ where $n_g(r)$ is the observed galaxy catalog, $n_s(r)$ is a synthetic random ca
 $$A \equiv \int \bar{n}^2(r) w^2(r) \, d^3r$$
 
 This definition ensures an unbiased estimator: $\mathbb{E}[F(k)] = 0$, and:
-$$\mathbb{E}\left[ |F(k)|^2 \right] = P_g(k) + P_{\rm shot}$$
+$$\mathbb{E}\left[ \lvert F(k)\rvert^2 \right] = P_g(k) + P_{\rm shot}$$
 where the residual shot noise power is:
 $$P_{\rm shot} = \frac{1+\alpha}{A} \int \bar{n}(r) w^2(r) \, d^3r$$
 

@@ -53,7 +53,7 @@ real receivers are not perfectly polarized: there's some **leakage** of, say, R-
 
 $$E_{\rm L,measured} = E_{\rm L,true} + D_i E_{\rm R,true}$$
 
-leakage is typically $|D| \sim 0.05$ (5%). without correction, polarization measurements are biased by this amount.
+leakage is typically $\lvert D\rvert \sim 0.05$ (5%). without correction, polarization measurements are biased by this amount.
 
 D-term calibration:
 1. observe an unpolarized calibrator (a source with $P = 0$)
@@ -131,9 +131,9 @@ $$\mathbf E(t)=\begin{pmatrix}E_x(t)\\E_y(t)\end{pmatrix}$$
 
 then defines Stokes parameters as time averages:
 
-$$I=\langle |E_x|^2+|E_y|^2\rangle$$
+$$I=\langle   \vertE_x\lvert ^2+\rvertE_y\vert ^2 \rangle$$
 
-$$Q=\langle |E_x|^2-|E_y|^2\rangle$$
+$$Q=\langle   \vertE_x\lvert ^2-\rvertE_y\vert ^2 \rangle$$
 
 $$U=\langle2\mathrm{Re}(E_xE_y^*)\rangle$$
 

@@ -810,5 +810,16 @@ document.addEventListener('DOMContentLoaded', () => {
       document.body.appendChild(overlay);
     });
   });
+
+  // --- 7. Responsive Table Wrapper for Mobile ---
+  document.querySelectorAll('.markdown-body table').forEach(table => {
+    if (!table.parentElement.classList.contains('table-responsive')) {
+      const wrapper = document.createElement('div');
+      wrapper.className = 'table-responsive';
+      table.parentNode.insertBefore(wrapper, table);
+      wrapper.appendChild(table);
+    }
+  });
 });
+
 

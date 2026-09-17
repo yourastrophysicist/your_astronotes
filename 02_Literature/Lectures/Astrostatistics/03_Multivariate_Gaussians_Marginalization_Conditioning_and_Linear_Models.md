@@ -78,29 +78,29 @@ This yields a practical rule. To marginalize over a subset of Gaussian variables
 
 Now consider the case where the subvector $\boldsymbol{x}_2$ is directly measured or fixed to a known value $\boldsymbol{x}_2 = \boldsymbol{a}$. The conditional distribution is defined by Bayes' rule
 
-$$p(\boldsymbol{x}_1 | \boldsymbol{x}_2) = \frac{p(\boldsymbol{x}_1, \boldsymbol{x}_2)}{p(\boldsymbol{x}_2)}$$
+$$p(\boldsymbol{x}_1 \mid \boldsymbol{x}_2) = \frac{p(\boldsymbol{x}_1, \boldsymbol{x}_2)}{p(\boldsymbol{x}_2)}$$
 
 Carrying out the division of exponential densities yields the conditional distribution
 
-$$p(\boldsymbol{x}_1 | \boldsymbol{x}_2) = \mathcal{N}\left( \boldsymbol{\mu}_{1|2}, \boldsymbol{\Sigma}_{1|2} \right)$$
+$$p(\boldsymbol{x}_1 \mid \boldsymbol{x}_2) = \mathcal{N}\left( \boldsymbol{\mu}_{1 \mid 2}, \boldsymbol{\Sigma}_{1\mid2} \right)$$
 
 where the conditional mean vector and conditional covariance matrix are given by
 
-$$\boldsymbol{\mu}_{1|2} = \boldsymbol{\mu}_1 + \boldsymbol{\Sigma}_{12} \boldsymbol{\Sigma}_{22}^{-1} (\boldsymbol{x}_2 - \boldsymbol{\mu}_2)$$
+$$\boldsymbol{\mu}_{1\mid2} = \boldsymbol{\mu}_1 + \boldsymbol{\Sigma}_{12} \boldsymbol{\Sigma}_{22}^{-1} (\boldsymbol{x}_2 - \boldsymbol{\mu}_2)$$
 
-$$\boldsymbol{\Sigma}_{1|2} = \boldsymbol{\Sigma}_{11} - \boldsymbol{\Sigma}_{12} \boldsymbol{\Sigma}_{22}^{-1} \boldsymbol{\Sigma}_{21} = \boldsymbol{\Lambda}_{11}^{-1}$$
+$$\boldsymbol{\Sigma}_{1\mid2} = \boldsymbol{\Sigma}_{11} - \boldsymbol{\Sigma}_{12} \boldsymbol{\Sigma}_{22}^{-1} \boldsymbol{\Sigma}_{21} = \boldsymbol{\Lambda}_{11}^{-1}$$
 
 ### Physical Implications - Marginalizing versus Conditioning
 
-Comparing the marginal covariance $\boldsymbol{\Sigma}_{11}$ and the conditional covariance $\boldsymbol{\Sigma}_{1|2}$ reveals a foundational principle in physical error budgeting.
+Comparing the marginal covariance $\boldsymbol{\Sigma}_{11}$ and the conditional covariance $\boldsymbol{\Sigma}_{1\mid2}$ reveals a foundational principle in physical error budgeting.
 
 Because $\boldsymbol{\Sigma}_{22}$ is positive-definite, its inverse $\boldsymbol{\Sigma}_{22}^{-1}$ is also positive-definite. For any non-zero matrix $\boldsymbol{\Sigma}_{12}$, the matrix product $\boldsymbol{\Sigma}_{12} \boldsymbol{\Sigma}_{22}^{-1} \boldsymbol{\Sigma}_{21}$ is positive semi-definite. Consequently
 
-$$\boldsymbol{\Sigma}_{11} - \boldsymbol{\Sigma}_{1|2} = \boldsymbol{\Sigma}_{12} \boldsymbol{\Sigma}_{22}^{-1} \boldsymbol{\Sigma}_{21} \ge 0$$
+$$\boldsymbol{\Sigma}_{11} - \boldsymbol{\Sigma}_{1\mid2} = \boldsymbol{\Sigma}_{12} \boldsymbol{\Sigma}_{22}^{-1} \boldsymbol{\Sigma}_{21} \ge 0$$
 
 which implies that for any individual parameter $i$, the conditional variance is strictly less than or equal to the marginal variance
 
-$$\sigma^2(x_i | \boldsymbol{x}_2) \le \sigma^2(x_i)$$
+$$\sigma^2(x_i \mid \boldsymbol{x}_2) \le \sigma^2(x_i)$$
 
 Equality holds if and only if $\boldsymbol{\Sigma}_{12} = \mathbf{0}$, meaning $\boldsymbol{x}_1$ and $\boldsymbol{x}_2$ are statistically independent.
 
@@ -118,7 +118,7 @@ Here $\boldsymbol{A} \in \mathbb{R}^{N \times M}$ is the design matrix whose col
 
 Assuming a uniform prior $\pi(\boldsymbol{\theta}) \propto \text{const}$, the posterior distribution over $\boldsymbol{\theta}$ is proportional to the Gaussian likelihood
 
-$$p(\boldsymbol{\theta} | \boldsymbol{d}) \propto \exp\left( -\frac{1}{2} \chi^2(\boldsymbol{\theta}) \right)$$
+$$p(\boldsymbol{\theta} \mid \boldsymbol{d}) \propto \exp\left( -\frac{1}{2} \chi^2(\boldsymbol{\theta}) \right)$$
 
 where the generalized chi-squared function is
 
@@ -152,7 +152,7 @@ $$\boldsymbol{\Sigma}_{\theta} = \left( \boldsymbol{A}^T \boldsymbol{C}^{-1} \bo
 
 The posterior distribution of the parameters is therefore an exact Gaussian
 
-$$p(\boldsymbol{\theta} | \boldsymbol{d}) = \mathcal{N}\left( \hat{\boldsymbol{\theta}}, \left( \boldsymbol{A}^T \boldsymbol{C}^{-1} \boldsymbol{A} \right)^{-1} \right)$$
+$$p(\boldsymbol{\theta} \mid \boldsymbol{d}) = \mathcal{N}\left( \hat{\boldsymbol{\theta}}, \left( \boldsymbol{A}^T \boldsymbol{C}^{-1} \boldsymbol{A} \right)^{-1} \right)$$
 
 This derivation encompasses template fitting for cosmic microwave background foregrounds, pulsar timing analysis, and ordinary linear regression as direct special cases.
 
@@ -206,7 +206,7 @@ $$\boldsymbol{\Sigma} = \boldsymbol{O} \boldsymbol{D} \boldsymbol{O}^T$$
 
 where $\boldsymbol{D} = \operatorname{diag}(\lambda_1, \lambda_2, \dots, \lambda_D)$ is the diagonal matrix of positive eigenvalues.
 
-Define the rotated and shifted coordinates $\boldsymbol{u} \equiv \boldsymbol{O}^T (\boldsymbol{x} - \boldsymbol{\mu})$. The Jacobian determinant of an orthogonal transformation is $|\det \boldsymbol{O}| = 1$, so $d^D\boldsymbol{x} = d^D\boldsymbol{u}$.
+Define the rotated and shifted coordinates $\boldsymbol{u} \equiv \boldsymbol{O}^T (\boldsymbol{x} - \boldsymbol{\mu})$. The Jacobian determinant of an orthogonal transformation is $\lvert \det \boldsymbol{O}\rvert = 1$, so $d^D\boldsymbol{x} = d^D\boldsymbol{u}$.
 
 In these decoupled coordinates, the exponent separates into a sum of $D$ independent 1D terms
 
@@ -232,9 +232,9 @@ Combining this with $\exp(i \boldsymbol{k}^T \boldsymbol{\mu})$ recovers the ide
 
 The characteristic function serves as a moment-generating engine. By differentiating $\phi(\boldsymbol{k})$ with respect to $(-i k_\alpha)$ and evaluating at $\boldsymbol{k} = \mathbf{0}$, arbitrary moments of the distribution are generated
 
-$$\langle x_\alpha \rangle = \left. \frac{\partial \phi(\boldsymbol{k})}{\partial (i k_\alpha)} \right|_{\boldsymbol{k}=\mathbf{0}} = \mu_\alpha$$
+$$\langle x_\alpha \rangle = \left. \frac{\partial \phi(\boldsymbol{k})}{\partial (i k_\alpha)} \right\rvert_{\boldsymbol{k}=\mathbf{0}} = \mu_\alpha$$
 
-$$\langle x_\alpha x_\beta \rangle = \left. \frac{\partial^2 \phi(\boldsymbol{k})}{\partial (i k_\alpha) \partial (i k_\beta)} \right|_{\boldsymbol{k}=\mathbf{0}} = \Sigma_{\alpha\beta} + \mu_\alpha \mu_\beta$$
+$$\langle x_\alpha x_\beta \rangle = \left. \frac{\partial^2 \phi(\boldsymbol{k})}{\partial (i k_\alpha) \partial (i k_\beta)} \right\rvert_{\boldsymbol{k}=\mathbf{0}} = \Sigma_{\alpha\beta} + \mu_\alpha \mu_\beta$$
 
 Notice further that as a mathematical function of the wavevector $\boldsymbol{k}$, the characteristic function
 

@@ -32,7 +32,7 @@ $$\text{Unmasked filter over transit} \implies \delta_{\text{measured}} < \delta
 
 ### The Mandatory Solution: Transit Masking
 Before calculating any filtering baseline, all in-transit data points must be masked:
-$$|t - (T_0 + n P)| > \frac{T_{\text{dur}}}{2} + \Delta t_{\text{margin}}$$
+$$\lvert t - (T_0 + n P)\rvert > \frac{T_{\text{dur}}}{2} + \Delta t_{\text{margin}}$$
 The filter is fitted or interpolated across the masked window strictly using out-of-transit data.
 
 ---
@@ -45,7 +45,7 @@ The filter is fitted or interpolated across the masked window strictly using out
 
 ### 2. Running Biweight Location Estimator
 The Tukey biweight estimator is significantly more robust against stellar flares and residual cosmic rays than the simple median:
-$$w(u) = (1 - u^2)^2 \quad \text{for } |u| \le 1, \quad w(u) = 0 \quad \text{for } |u| > 1$$
+$$w(u) = (1 - u^2)^2 \quad \text{for } \lvert u\rvert \le 1, \quad w(u) = 0 \quad \text{for } \lvert u\rvert > 1$$
 where $u = (x - M) / (c \cdot \text{MAD})$.
 
 ### 3. Savitzky-Golay Polynomial Filter

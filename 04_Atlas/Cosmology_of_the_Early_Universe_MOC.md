@@ -10,7 +10,7 @@ title: "Cosmology_of_the_Early_Universe_MOC"
 > **Schedule**:  
 > • Wednesday 10:30 – 12:30 (**Aula LUF2 [Aule di Via Luzzatti]**)  
 > • Friday 10:30 – 12:30 (**Aula P1C [Edificio Ricci Curbastro]**)  
-> **Timetable Dashboard**: Master Year 2 Semester 1 Timetable | Exams autumn 2026 sprint  
+> **Timetable Dashboard**: Master Year 2 Semester 1 Timetable  
 > **Literature Compendium**: [Course_Overview_and_Syllabus](../02_Literature/Lectures/Fluid_and_Plasma_Dynamics/Course_Overview_and_Syllabus.html) | [Bartolo_Exam_Exercises_and_Applications_Guide](../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Bartolo_Exam_Exercises_and_Applications_Guide.html)
 
 ---
@@ -41,7 +41,7 @@ Key Zettels & Derivations:
 * [FLRW metric](../03_Zettel/Theory/FLRW%20metric.html) — Homogeneous, isotropic line element in cosmic time $t$ and conformal time $\tau$.
 * [Friedmann equations](../03_Zettel/Theory/Friedmann%20equations.html) — Background dynamics, continuity equation, energy density scaling $\rho(a) \propto a^{-3(1+w)}$.
 * [Horizon problem and causal structure](../03_Zettel/Theory/Horizon%20problem%20and%20causal%20structure.html) — Particle horizon vs event horizon vs Hubble radius; physical horizon at recombination subtends $\theta_H \approx 1^\circ$ on the CMB sky ($\sim 40{,}000$ causally disconnected domains).
-* [Flatness problem and dynamical attractor](../03_Zettel/Theory/Flatness%20problem%20and%20dynamical%20attractor.html) — Curvature evolution equation $\frac{d\Omega_k}{d\ln a} = \Omega_k\Omega(1+3w)$; unstable repeller in standard cosmology ($|1-\Omega_{\rm Pl}| < 10^{-60}$) vs stable dynamical attractor during inflation ($|\Omega_k| \propto e^{-2N}$).
+* [Flatness problem and dynamical attractor](../03_Zettel/Theory/Flatness%20problem%20and%20dynamical%20attractor.html) — Curvature evolution equation $\frac{d\Omega_k}{d\ln a} = \Omega_k\Omega(1+3w)$; unstable repeller in standard cosmology ($\lvert 1-\Omega_{\rm Pl}\rvert < 10^{-60}$) vs stable dynamical attractor during inflation ($\lvert\Omega_k\rvert \propto e^{-2N}$).
 * [Cosmic relics and Kibble mechanism](../03_Zettel/Theory/Cosmic%20relics%20and%20Kibble%20mechanism.html) — Spontaneous symmetry breaking at $T_{\rm GUT} \sim 10^{16}\text{ GeV}$; topological defect formation; magnetic monopole overclosure catastrophe ($\Omega_{\rm mono} \sim 10^{14}$) and its exponential dilution ($e^{-3N} \sim 10^{-78}$).
 * [Cosmological inflation](../03_Zettel/Theory/Cosmological%20inflation.html) — The kinematics of accelerated expansion ($\ddot{a} > 0 \iff w < -1/3$); shrinking comoving Hubble radius $\frac{d}{dt}(aH)^{-1} < 0$.
 
@@ -77,7 +77,7 @@ Key Zettels & Derivations:
 * [Sasaki-Mukhanov variable and equation](../03_Zettel/Theory/Sasaki-Mukhanov%20variable%20and%20equation.html) — Canonical variable $v = z \mathcal{R} = a[\delta\phi + \frac{\dot{\phi}}{H}\psi]$, master equation $v_k'' + (k^2 - z''/z)v_k = 0$, de Sitter behavior $z''/z \approx 2/\tau^2$.
 * [Bunch-Davies vacuum and mode functions](../03_Zettel/Theory/Bunch-Davies%20vacuum%20and%20mode%20functions.html) — Asymptotic past ultraviolet boundary condition $\lim_{\tau\to-\infty} v_k = \frac{1}{\sqrt{2k}}e^{-ik\tau}$, exact Hankel function solutions $u_k(\tau) = \frac{e^{-ik\tau}}{\sqrt{2k}}(1 - \frac{i}{k\tau})$.
 * [Curvature perturbation R and zeta](../03_Zettel/Theory/Curvature%20perturbation%20R%20and%20zeta.html) — Comoving curvature perturbation $\mathcal{R}$ and uniform-density curvature perturbation $\zeta$; proof of super-horizon conservation ($d\zeta/dt = 0$ for $k \ll aH$ for adiabatic modes).
-* [Scalar primordial power spectrum and spectral index](../03_Zettel/Theory/Scalar%20primordial%20power%20spectrum%20and%20spectral%20index.html) — Dimensionless power spectrum $\mathcal{P}_\mathcal{R}(k) = \frac{1}{24\pi^2 M_{\rm Pl}^4}\frac{V}{\epsilon_V}\big|_{k=aH}$; scalar tilt $n_s - 1 \equiv \frac{d\ln\mathcal{P}_\mathcal{R}}{d\ln k} = 2\eta_V - 6\epsilon_V$; Planck 2018 value $n_s = 0.9649 \pm 0.0042$.
+* [Scalar primordial power spectrum and spectral index](../03_Zettel/Theory/Scalar%20primordial%20power%20spectrum%20and%20spectral%20index.html) — Dimensionless power spectrum $\mathcal{P}_\mathcal{R}(k) = \frac{1}{24\pi^2 M_{\rm Pl}^4}\frac{V}{\epsilon_V}\big\vert_{k=aH}$; scalar tilt $n_s - 1 \equiv \frac{d\ln\mathcal{P}_\mathcal{R}}{d\ln k} = 2\eta_V - 6\epsilon_V$; Planck 2018 value $n_s = 0.9649 \pm 0.0042$.
 
 ---
 
@@ -89,7 +89,7 @@ Quantum fluctuations of the spacetime geometry: transverse-traceless metric tens
 * Relevant Course PDFs: `Blocco3_updated_latest_GWs (1) (1).pdf`, `Lecture_XXIII_2023-2024 copy.pdf`, `2112.07961_Tristram_II (1).pdf`, `2208.00188 (1).pdf`
 
 Key Zettels & Derivations:
-* [Tensor perturbations and primordial gravitational waves](../03_Zettel/Theory/Tensor%20perturbations%20and%20primordial%20gravitational%20waves.html) — Metric perturbation $g_{ij} = a^2(\delta_{ij} + h_{ij})$, 2 polarization states ($+, \times$), wave equation $h_k'' + 2\frac{a'}{a}h_k' + k^2 h_k = 0$, tensor power spectrum $\mathcal{P}_T(k) = \frac{2}{\pi^2}\frac{H^2}{M_{\rm Pl}^2}\big|_{k=aH} = \frac{2}{3\pi^2}\frac{V}{M_{\rm Pl}^4}\big|_{k=aH}$.
+* [Tensor perturbations and primordial gravitational waves](../03_Zettel/Theory/Tensor%20perturbations%20and%20primordial%20gravitational%20waves.html) — Metric perturbation $g_{ij} = a^2(\delta_{ij} + h_{ij})$, 2 polarization states ($+, \times$), wave equation $h_k'' + 2\frac{a'}{a}h_k' + k^2 h_k = 0$, tensor power spectrum $\mathcal{P}_T(k) = \frac{2}{\pi^2}\frac{H^2}{M_{\rm Pl}^2}\big\vert_{k=aH} = \frac{2}{3\pi^2}\frac{V}{M_{\rm Pl}^4}\big\vert_{k=aH}$.
 * [Tensor-to-scalar ratio r and inflation energy scale](../03_Zettel/Theory/Tensor-to-scalar%20ratio%20r%20and%20inflation%20energy%20scale.html) — Ratio $r \equiv \mathcal{P}_T/\mathcal{P}_\mathcal{R} = 16\epsilon$; direct determination of the inflation energy scale $V^{1/4} \simeq 1.88 \times 10^{16}\text{ GeV}(r/0.10)^{1/4} \simeq 0.6 \times 10^{16}\text{ GeV}(r/10^{-3})^{1/4}$.
 * [Consistency relation of single-field slow-roll inflation](../03_Zettel/Theory/Consistency%20relation%20of%20single-field%20slow-roll%20inflation.html) — Tensor tilt $n_T = -2\epsilon = -r/8$; testable consistency relation $r = -8 n_T$.
 * Observational constraints: Planck 2018 + BICEP/Keck (Tristram et al. 2021) bound $r < 0.032$; future targets (LiteBIRD, CMB-S4) reaching $\sigma(r) \sim 10^{-3}$.
@@ -104,9 +104,9 @@ Probing physics beyond the two-point function: bispectrum shapes, non-linear par
 * Relevant Course PDFs: `Introduction_in_in_24.pdf`, `Appunti_formalismo_In-In.pdf`, `638979 2.pdf` (Chen 2010), `0506236 (1) 2.pdf` (Weinberg 2005)
 
 Key Zettels & Derivations:
-* [In-In formalism for cosmological correlators](../03_Zettel/Theory/In-In%20formalism%20for%20cosmological%20correlators.html) — Schwinger-Keldysh closed time contour; equal-time vacuum expectation values $\langle \Omega | \mathcal{O}(t) | \Omega \rangle$; Weinberg master commutator formula; interaction Hamiltonian $H_I(t)$.
+* [In-In formalism for cosmological correlators](../03_Zettel/Theory/In-In%20formalism%20for%20cosmological%20correlators.html) — Schwinger-Keldysh closed time contour; equal-time vacuum expectation values $\langle \Omega \vert \mathcal{O}(t) \vert \Omega \rangle$; Weinberg master commutator formula; interaction Hamiltonian $H_I(t)$.
 * [Primordial non-Gaussianity and bispectrum shapes](../03_Zettel/Theory/Primordial%20non-Gaussianity%20and%20bispectrum%20shapes.html) — 3-point correlation function in Fourier space $\langle\zeta_{\vec{k}_1}\zeta_{\vec{k}_2}\zeta_{\vec{k}_3}\rangle = (2\pi)^3 \delta^{(3)}(\sum\vec{k}) B_\zeta$; parameter $f_{\rm NL}$; local shape (squeezed $k_1 \ll k_2 \approx k_3$, multi-field/curvaton), equilateral shape ($k_1 \approx k_2 \approx k_3$, non-canonical kinetic terms $c_s \ll 1$), folded/orthogonal shapes (non-Bunch-Davies vacua).
-* [Maldacena consistency condition](../03_Zettel/Theory/Maldacena%20consistency%20condition.html) — Single-field theorem in the squeezed limit: $\lim_{k_1\to 0} \frac{B_\zeta}{P_\zeta(k_1)P_\zeta(k_2)} = -(n_s - 1) \implies f_{\rm NL}^{\rm local} = \frac{5}{12}(1 - n_s) \approx 0.015$; any detection of $|f_{\rm NL}^{\rm local}| \gtrsim 1$ rigorously falsifies all single-field slow-roll models.
+* [Maldacena consistency condition](../03_Zettel/Theory/Maldacena%20consistency%20condition.html) — Single-field theorem in the squeezed limit: $\lim_{k_1\to 0} \frac{B_\zeta}{P_\zeta(k_1)P_\zeta(k_2)} = -(n_s - 1) \implies f_{\rm NL}^{\rm local} = \frac{5}{12}(1 - n_s) \approx 0.015$; any detection of $\lvert f_{\rm NL}^{\rm local}\rvert \gtrsim 1$ rigorously falsifies all single-field slow-roll models.
 * [Delta-N formalism](../03_Zettel/Theory/Delta-N%20formalism.html) — Separate universe approximation on super-horizon scales ($k \ll aH$); non-linear curvature perturbation $\zeta \approx \delta N = \sum N_{,I}\delta\phi^I + \frac{1}{2}\sum N_{,IJ}\delta\phi^I\delta\phi^J$; computation of $f_{\rm NL}^{\rm local} = \frac{5}{6}\frac{\sum N_{,I}N_{,J}N_{,IJ}}{(\sum N_{,K}^2)^2}$.
 * Theories with non-canonical kinetic terms $\mathcal{L}(X, \phi)$: sound speed $c_s^2 = \mathcal{L}_{,X}/(\mathcal{L}_{,X} + 2X\mathcal{L}_{,XX})$ and generation of equilateral non-Gaussianity $f_{\rm NL}^{\rm equil} \sim -1/c_s^2$.
 
@@ -232,8 +232,8 @@ SORT file.name ASC
 
 - **Slow-Roll Parameters**: $\epsilon \equiv \frac{M_{\mathrm{pl}}^2}{2}\left(\frac{V'}{V}\right)^2$, $\eta \equiv M_{\mathrm{pl}}^2 \frac{V''}{V}$
 - **Number of e-folds**: $N = \int_{t}^{t_{\mathrm{end}}} H dt = \int_{\phi_{\mathrm{end}}}^\phi \frac{1}{M_{\mathrm{pl}}\sqrt{2\epsilon}} d\phi \approx 50 - 60$
-- **Scalar Power Spectrum**: $\mathcal{P}_\mathcal{R}(k) = \frac{H^2}{8\pi^2 M_{\mathrm{pl}}^2 \epsilon} \Big|_{k=aH}$
-- **Tensor Power Spectrum**: $\mathcal{P}_t(k) = \frac{2 H^2}{\pi^2 M_{\mathrm{pl}}^2} \Big|_{k=aH}$
+- **Scalar Power Spectrum**: $\mathcal{P}_\mathcal{R}(k) = \frac{H^2}{8\pi^2 M_{\mathrm{pl}}^2 \epsilon} \Big\vert_{k=aH}$
+- **Tensor Power Spectrum**: $\mathcal{P}_t(k) = \frac{2 H^2}{\pi^2 M_{\mathrm{pl}}^2} \Big\vert_{k=aH}$
 - **Tensor-to-Scalar Ratio**: $r = 16\epsilon = -8 n_t$
 - **Spectral Tilt**: $n_s - 1 = 2\eta - 6\epsilon$
 - **Maldacena Local Non-Gaussianity**: $f_{\mathrm{NL}}^{\mathrm{local}} = \frac{5}{12}(1 - n_s)$

@@ -280,7 +280,7 @@ $$\delta(x) \approx 5.0 \sqrt{\frac{\nu x}{U}}$$
 *Figure FPD-01: Prandtl boundary layer on a flat plate. The laminar viscous shear layer grows downstream as $\delta(x) \approx 5.0 \sqrt{\frac{\nu x}{U_\infty}} = \frac{5.0 x}{\sqrt{\mathrm{Re}_x}}$, matching the outer inviscid potential flow $U_\infty$ at the edge.*
 
 ![Adverse Pressure Gradients and Boundary Layer Separation](../../../assets/images/fluid_boundary_p05.png)
-*Figure FPD-02: Boundary layer separation under adverse pressure gradients $\frac{dp}{dx} > 0$. At the separation point, the wall shear stress vanishes $\left.\frac{\partial u}{\partial y}\right|_{y=0} = 0$, generating recirculating eddies, turbulent wake shed, and stall.*
+*Figure FPD-02: Boundary layer separation under adverse pressure gradients $\frac{dp}{dx} > 0$. At the separation point, the wall shear stress vanishes $\left.\frac{\partial u}{\partial y}\right\rvert_{y=0} = 0$, generating recirculating eddies, turbulent wake shed, and stall.*
 {% endraw %}
 
 <div class="backlinks-section">

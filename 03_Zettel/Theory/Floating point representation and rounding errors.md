@@ -29,7 +29,7 @@ np.finfo(float).tiny     # 2.2250738585072014e-308
 ## what this means in practice
 
 - **numbers below $10^{-308}$ underflow to 0**. above $10^{308}$ overflow to `inf`. there are also **subnormal** numbers near zero with reduced precision
-- **two numbers that differ by less than $\epsilon \cdot \max(|a|, |b|)$ are *the same* float**. this is why `0.1 + 0.2 == 0.3` returns `False` — `0.1` and `0.2` cannot both be exactly represented in binary, and their sum disagrees with `0.3` (also inexact) at the 17th digit
+- **two numbers that differ by less than $\epsilon \cdot \max(\lvert a\rvert, \lvert b\rvert)$ are *the same* float**. this is why `0.1 + 0.2 == 0.3` returns `False` — `0.1` and `0.2` cannot both be exactly represented in binary, and their sum disagrees with `0.3` (also inexact) at the 17th digit
 
 ```python
 >>> 0.1 + 0.2 == 0.3
@@ -38,7 +38,7 @@ False
 0.30000000000000004
 ```
 
-- **integer arithmetic is exact for $|n| < 2^{53}$**, then accumulates a 1-bit error per operation
+- **integer arithmetic is exact for $\lvert n\rvert < 2^{53}$**, then accumulates a 1-bit error per operation
 
 ## the three big rounding errors
 
@@ -55,7 +55,7 @@ mitigation:
 
 ### 2. accumulation in long sums
 
-summing $N$ floats, each with error $\sim \epsilon |x_i|$, gives final error $\sim \sqrt{N}\epsilon \langle|x|\rangle$ in the worst case (random) or $\sim N\epsilon$ in the worst-worst case (correlated). for $N = 10^9$ this can be a 1% error.
+summing $N$ floats, each with error $\sim \epsilon \lvert x_i\rvert$, gives final error $\sim \sqrt{N}\epsilon \langle\lvert x\rvert\rangle$ in the worst case (random) or $\sim N\epsilon$ in the worst-worst case (correlated). for $N = 10^9$ this can be a 1% error.
 
 mitigation:
 - **Kahan summation** keeps a running compensation term, error reduced to $O(\epsilon)$ independent of $N$
@@ -77,7 +77,7 @@ the lesson: when summing terms of wildly different magnitudes, sort first.
 
 ## scientific notation and how to think about precision
 
-every float carries an *implicit error* of $\sim \epsilon \cdot |x|$. so a result of `1.234567890123456` should not be reported beyond 15-16 digits, and any computation that produces 20 digits is lying about the last few.
+every float carries an *implicit error* of $\sim \epsilon \cdot \lvert x\rvert$. so a result of `1.234567890123456` should not be reported beyond 15-16 digits, and any computation that produces 20 digits is lying about the last few.
 
 a useful rule of thumb: each **floating-point operation** loses at most one bit of precision. after $N$ operations, expect $\log_2 N$ bits gone, i.e. $\sim N$ for $N$ small but $\sim \log N$ on average. for $N = 10^6$ steps of an ODE: still 13-14 reliable digits. for $N = 10^{10}$: only 10-11. **this is why long-time N-body integrations need symplectic schemes**: they protect the energy from accumulated rounding.
 

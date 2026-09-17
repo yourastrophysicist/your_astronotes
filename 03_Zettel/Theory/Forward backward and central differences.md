@@ -37,9 +37,9 @@ the symmetric subtraction kills the $f''$ term. one extra function evaluation bu
 
 at finite step size, the total error has two pieces:
 - **truncation** error: $O(h)$ (forward/backward) or $O(h^2)$ (central)
-- **roundoff** error: $\sim \epsilon |f|/h$ from cancellation in the numerator
+- **roundoff** error: $\sim \epsilon \lvert f\rvert/h$ from cancellation in the numerator
 
-total error $E(h) = C h^p + \epsilon|f|/h$. minimize by setting $dE/dh = 0$:
+total error $E(h) = C h^p + \epsilon\lvert f\rvert/h$. minimize by setting $dE/dh = 0$:
 
 | method | order $p$ | $h_{\rm opt}$ | minimum error |
 |---|---|---|---|

@@ -32,7 +32,7 @@ Level 3 (Observations & Covariance): { m_{B, i}^obs, x_{1, i}^obs, c_i^obs, C_i 
 
 ### Level 3: Observational Likelihood
 Conditioned on the latent true properties $\hat{v}_i = (M_i^t, x_{1, i}^t, c_i^t)$, the observed data $v_i = (m_{B, i}, x_{1, i}, c_i)$ follows a multivariate Gaussian:
-$$p(v_i | \hat{v}_i, C_i) = \frac{1}{(2\pi)^{3/2} |C_i|^{1/2}} \exp\left[ -\frac{1}{2} (v_i - \hat{v}_i)^T C_i^{-1} (v_i - \hat{v}_i) \right]$$
+$$p(v_i \mid \hat{v}_i, C_i) = \frac{1}{(2\pi)^{3/2} \lvert C_i\rvert^{1/2}} \exp\left[ -\frac{1}{2} (v_i - \hat{v}_i)^T C_i^{-1} (v_i - \hat{v}_i) \right]$$
 
 ### Level 2: Latent Population Prior
 The true properties are drawn from an underlying parent population:
@@ -42,7 +42,7 @@ where $\sigma_{\rm int}$ is the fundamental intrinsic scatter of Type Ia superno
 
 ### Level 1: Selection Effects (Malmquist Correction)
 The probability that a supernova enters the survey catalog depends on a selection probability function $S(m_B)$. The normalized likelihood is:
-$$p(v_i | \hat{v}_i, \text{detected}) = \frac{p(v_i | \hat{v}_i) S(m_{B, i})}{\int p(v' | \hat{v}_i) S(m_B') \, dv'}$$
+$$p(v_i \mid \hat{v}_i, \text{detected}) = \frac{p(v_i \mid \hat{v}_i) S(m_{B, i})}{\int p(v' \mid \hat{v}_i) S(m_B') \, dv'}$$
 
 ## Analytical Marginalization over Latent Variables
 

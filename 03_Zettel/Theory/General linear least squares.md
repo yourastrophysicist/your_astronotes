@@ -44,7 +44,7 @@ $$\mathbf{y} = A \boldsymbol\theta + \boldsymbol\epsilon$$
 
 with $\boldsymbol\epsilon$ the noise.
 
-minimize $\chi^2 = \|\mathbf{y} - A\boldsymbol\theta\|^2$. setting the gradient to zero:
+minimize $\chi^2 = \\lvert \mathbf{y} - A\boldsymbol\theta\\rvert^2$. setting the gradient to zero:
 
 $$A^T A \boldsymbol\theta = A^T \mathbf{y}$$
 
@@ -95,7 +95,7 @@ $$v(t) = a_0 + \sum_{k=1}^K [b_k \cos(\omega_k t) + c_k \sin(\omega_k t)]$$
 
 with known frequencies $\omega_k$ from a periodogram analysis. each $b_k$ and $c_k$ enters linearly. design matrix:
 
-$$A = (\mathbf{1}\,|\,\cos\omega_1 t\,|\,\sin\omega_1 t\,|\,\cos\omega_2 t\,|\,\sin\omega_2 t\,|\,\ldots)$$
+$$A = (\mathbf{1}\,\lvert \,\cos\omega_1 t\,\rvert\,\sin\omega_1 t\,\lvert \,\cos\omega_2 t\,\rvert\,\sin\omega_2 t\,|\,\ldots)$$
 
 solve, recover the amplitudes and phases of each harmonic.
 

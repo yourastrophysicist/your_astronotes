@@ -30,7 +30,7 @@ $$T_* = \frac{h\nu_0}{k} = 0.06816\text{ K}$$
 
 because both levels belong to the ground $1s$ orbital with identical even parity, electric dipole transitions are strictly forbidden ($\Delta \ell = 0$). the transition occurs via magnetic dipole radiation ($M1$):
 
-$$A_{10} = \frac{64\pi^4 \nu_0^3}{3 h c^3} |\mu_{10}|^2 = \frac{64\pi^4 \nu_0^3}{3 h c^3} \beta^2 \mu_B^2 = 2.85 \times 10^{-15}\text{ s}^{-1}$$
+$$A_{10} = \frac{64\pi^4 \nu_0^3}{3 h c^3} \lvert \mu_{10}\rvert^2 = \frac{64\pi^4 \nu_0^3}{3 h c^3} \beta^2 \mu_B^2 = 2.85 \times 10^{-15}\text{ s}^{-1}$$
 
 where $\mu_B = e\hbar / 2 m_e c$ is the Bohr magneton.
 

@@ -68,12 +68,12 @@ so larger arrays have *many* closure-phase observables, increasingly constrainin
 
 ## image reconstruction from closure phases
 
-the goal: from a set of measured $|\mathcal V|$ at many baselines and many closure phases $\Phi_{ijk}$, reconstruct an image $I(\mathbf l)$.
+the goal: from a set of measured $\lvert \mathcal V\rvert$ at many baselines and many closure phases $\Phi_{ijk}$, reconstruct an image $I(\mathbf l)$.
 
 the procedure (typically in optical interferometry):
 
 1. **start with a model**: e.g. a uniform disk
-2. **compute predicted $|\mathcal V|$ and $\Phi_{ijk}$** for the model
+2. **compute predicted $\lvert \mathcal V\rvert$ and $\Phi_{ijk}$** for the model
 3. **compute $\chi^2$** against measured data
 4. **update model** to reduce $\chi^2$
 5. **iterate**

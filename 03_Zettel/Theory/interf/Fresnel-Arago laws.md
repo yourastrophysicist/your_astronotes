@@ -16,7 +16,7 @@ if I split a beam into two paths, each with linear polarization perpendicular to
 
 mathematically: if $\mathbf{E}_1 = E_0 \hat{\mathbf{x}} \cos(\omega t)$ and $\mathbf{E}_2 = E_0 \hat{\mathbf{y}} \cos(\omega t + \delta)$, the intensity at the detector is
 
-$$I \propto \langle |\mathbf{E}_1 + \mathbf{E}_2|^2 \rangle = \langle E_x^2 \rangle + \langle E_y^2 \rangle = 2 E_0^2 / 2 = E_0^2$$
+$$I \propto \langle   \vert\mathbf{E}_1 + \mathbf{E}_2\vert ^2 \rangle = \langle E_x^2 \rangle + \langle E_y^2 \rangle = 2 E_0^2 / 2 = E_0^2$$
 
 — constant, no $\delta$ dependence, no fringes.
 

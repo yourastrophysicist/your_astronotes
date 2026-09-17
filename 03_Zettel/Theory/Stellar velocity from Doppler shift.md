@@ -15,7 +15,7 @@ so a star moving away (positive $v_r$) shifts lines redward; toward (negative $v
 at $v_r/c \gtrsim 0.01$, full relativistic Doppler:
 $$\frac{\lambda_{\rm obs}}{\lambda_{\rm rest}} = \sqrt{\frac{1 + v_r/c}{1 - v_r/c}}$$
 
-stars rarely have $|v_r| > 1000$ km/s (relative to Sun), so non-relativistic version is fine.
+stars rarely have $\lvert v_r\rvert > 1000$ km/s (relative to Sun), so non-relativistic version is fine.
 
 ## the measurement
 

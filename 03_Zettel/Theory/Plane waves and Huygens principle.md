@@ -31,14 +31,14 @@ $$ E(\mathbf{r}, t) = E_0 e^{i(\mathbf{k} \cdot \mathbf{r} - \omega t)} $$
 
 where:
 - $E_0$ is the amplitude
-- $\mathbf{k}$ is the wave vector (pointing in the direction of propagation, with magnitude $|\mathbf{k}| = 2\pi/\lambda$)
+- $\mathbf{k}$ is the wave vector (pointing in the direction of propagation, with magnitude $\lvert \mathbf{k}\rvert = 2\pi/\lambda$)
 - $\mathbf{r}$ is the position vector
 - $\omega$ is the angular frequency ($\omega = 2\pi\nu$)
 - $t$ is time
 
 Huygens' construction mathematically underpins the Fresnel-Kirchhoff diffraction formula, where the field at a point $P$ is given by an integral over the aperture surface $S$:
 
-$$ U(P) \propto \iint_S U(\mathbf{r'}) \frac{e^{ik|\mathbf{r}-\mathbf{r'}|}}{|\mathbf{r}-\mathbf{r'}|} \, dS $$
+$$ U(P) \propto \iint_S U(\mathbf{r'}) \frac{e^{ik\mid\mathbf{r}-\mathbf{r'}\lvert }}{\rvert\mathbf{r}-\mathbf{r'}|} \, dS $$
 
 ---
 

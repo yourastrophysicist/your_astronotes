@@ -18,7 +18,7 @@ the mutual conjunctions occur repeatedly at the same orbital longitudes, coheren
 
 the perturbations oscillate with a characteristic **super-period** $P_{\text{TTV}}$:
 
-$$P_{\text{TTV}} = \frac{1}{\left| \frac{j}{P_2} - \frac{j - 1}{P_1} \right|} = \frac{P_1}{j |\Delta|}$$
+$$P_{\text{TTV}} = \frac{1}{\left\lvert \frac{j}{P_2} - \frac{j - 1}{P_1} \right\rvert} = \frac{P_1}{j \lvert \Delta\rvert}$$
 
 where $\Delta$ is the normalized distance from exact resonance:
 
@@ -26,7 +26,7 @@ $$\Delta \equiv \frac{P_2}{P_1} \left( \frac{j - 1}{j} \right) - 1$$
 
 as $\Delta \to 0$, the super-period becomes long ($P_{\text{TTV}} \sim \text{months to years}$), and the TTV amplitude diverges as:
 
-$$\delta t_{\text{TTV}} \sim P_1 \left( \frac{M_2}{M_\star} \right) \frac{1}{|\Delta|}$$
+$$\delta t_{\text{TTV}} \sim P_1 \left( \frac{M_2}{M_\star} \right) \frac{1}{\lvert \Delta\rvert}$$
 
 ## measuring true planetary masses without radial velocity
 

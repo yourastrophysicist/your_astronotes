@@ -67,7 +67,7 @@ these may indicate new physics or unidentified systematics. still under investig
 if $\Lambda$CDM doesn't fit perfectly, what extensions might:
 - **massive neutrinos** $\sum m_\nu$: contributes to matter density, affects power spectrum.
 - **dynamical dark energy** $w(z)$: a different equation of state.
-- **non-zero spatial curvature** $\Omega_k$: still observationally allowed at $|\Omega_k| < 0.005$.
+- **non-zero spatial curvature** $\Omega_k$: still observationally allowed at $\lvert \Omega_k\rvert < 0.005$.
 - **early dark energy**: a transient component near recombination, helps with $H_0$ tension.
 - **modified gravity**: deviations from GR on large scales.
 - **non-standard recombination history**.

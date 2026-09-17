@@ -51,7 +51,7 @@ $$u_k^*(\tau) u_k'(\tau) - u_k(\tau) u_k^{*\prime}(\tau) = -i$$
 ### Mode boundary condition (Bunch-Davies vacuum)
 In the asymptotic past ($\tau \to -\infty$, or physical wavelength $\lambda = 2\pi a/k \ll H^{-1}$), every Fourier mode is deep inside the Hubble radius. The spatial curvature and cosmic expansion rate are negligible compared to the mode frequency ($k^2 \gg a''/a \approx 2/\tau^2$). Therefore, the mode behaves exactly like a harmonic oscillator in flat Minkowski spacetime. We select the positive-frequency Minkowski ground state:
 $$\lim_{\tau \to -\infty} u_k(\tau) = \frac{1}{\sqrt{2k}} e^{-ik\tau}$$
-This uniquely specifies the **Bunch-Davies vacuum** state $|0\rangle$, defined by $\hat{a}_{\vec{k}}|0\rangle = 0$ for all $\vec{k}$.
+This uniquely specifies the **Bunch-Davies vacuum** state $\vert 0 \rangle$, defined by $\hat{a}_{\vec{k}}\vert 0 \rangle = 0$ for all $\vec{k}$.
 
 ---
 
@@ -75,8 +75,8 @@ $$\delta\phi_k(\tau) \to \frac{i H}{\sqrt{2k^3}} = \text{constant}$$
 The quantum mode **freezes out**. Its phase becomes constant, its amplitude locks in, and the quantum fluctuation decoheres into a classical stochastic perturbation!
 
 The 2-point correlation function in vacuum is:
-$$\langle 0 | \hat{\delta\phi}(\tau, \vec{x}) \hat{\delta\phi}(\tau, \vec{x}') | 0 \rangle = \int \frac{d^3 k}{(2\pi)^3} P_{\delta\phi}(k) e^{i\vec{k}\cdot(\vec{x}-\vec{x}')}$$
-where the power spectrum is $P_{\delta\phi}(k) = |\delta\phi_k|^2 = \frac{H^2}{2k^3}$.
+$$\langle 0 \vert \hat{\delta\phi}(\tau, \vec{x}) \hat{\delta\phi}(\tau, \vec{x}') \vert 0 \rangle = \int \frac{d^3 k}{(2\pi)^3} P_{\delta\phi}(k) e^{i\vec{k}\cdot(\vec{x}-\vec{x}')}$$
+where the power spectrum is $P_{\delta\phi}(k) = \lvert \delta\phi_k\rvert^2 = \frac{H^2}{2k^3}$.
 
 The **dimensionless power spectrum** is:
 $$\mathcal{P}_{\delta\phi}(k) \equiv \frac{k^3}{2\pi^2} P_{\delta\phi}(k) = \left(\frac{H}{2\pi}\right)^2$$
@@ -94,10 +94,10 @@ $$\mathcal{R} = \frac{H}{\dot{\phi}_0}\delta\phi$$
 Because $\mathcal{R}$ is strictly **conserved outside the horizon** ($k \ll aH$) for adiabatic perturbations, its value at horizon exit during inflation determines its amplitude upon horizon re-entry during the radiation and matter eras.
 
 The power spectrum of curvature perturbations is:
-$$\mathcal{P}_\mathcal{R}(k) = \left(\frac{H}{\dot{\phi}_0}\right)^2 \mathcal{P}_{\delta\phi}(k) = \left(\frac{H}{\dot{\phi}_0}\right)^2 \left(\frac{H}{2\pi}\right)^2 = \frac{H^4}{4\pi^2 \dot{\phi}_0^2}\Bigg|_{k=aH}$$
+$$\mathcal{P}_\mathcal{R}(k) = \left(\frac{H}{\dot{\phi}_0}\right)^2 \mathcal{P}_{\delta\phi}(k) = \left(\frac{H}{\dot{\phi}_0}\right)^2 \left(\frac{H}{2\pi}\right)^2 = \frac{H^4}{4\pi^2 \dot{\phi}_0^2}\Bigg\vert_{k=aH}$$
 
 Using the slow-roll relation $\epsilon = \frac{\dot{\phi}_0^2}{2 M_{\rm Pl}^2 H^2} \approx \epsilon_V$:
-$$\mathcal{P}_\mathcal{R}(k) = \frac{1}{24\pi^2 M_{\rm Pl}^4} \frac{V}{\epsilon_V}\Bigg|_{k=aH} = \frac{1}{8\pi^2 M_{\rm Pl}^2} \frac{H^2}{\epsilon}\Bigg|_{k=aH}$$
+$$\mathcal{P}_\mathcal{R}(k) = \frac{1}{24\pi^2 M_{\rm Pl}^4} \frac{V}{\epsilon_V}\Bigg\vert_{k=aH} = \frac{1}{8\pi^2 M_{\rm Pl}^2} \frac{H^2}{\epsilon}\Bigg\vert_{k=aH}$$
 
 ### Scalar spectral index $n_s$
 The scale dependence of the scalar power spectrum is parameterized by:
@@ -107,7 +107,7 @@ $$n_s - 1 \equiv \frac{d\ln\mathcal{P}_\mathcal{R}}{d\ln k}$$
 Using $d\ln k = d\ln(aH) \approx H dt = dN$:
 $$n_s - 1 = \frac{d}{dN}\ln\left(\frac{H^4}{\dot{\phi}^2}\right) = 2\eta_V - 6\epsilon_V$$
 
-Since slow-roll requires $\epsilon_V, |\eta_V| \ll 1$, inflation naturally predicts a **nearly scale-invariant, slightly red-tilted spectrum** ($n_s < 1$).
+Since slow-roll requires $\epsilon_V, \lvert \eta_V\rvert \ll 1$, inflation naturally predicts a **nearly scale-invariant, slightly red-tilted spectrum** ($n_s < 1$).
 Planck 2018 measurements confirm:
 $$n_s = 0.9649 \pm 0.0042, \quad A_s \approx 2.1 \times 10^{-9}$$
 Exact scale invariance ($n_s = 1$, the Harrison-Zeldovich spectrum) is ruled out at more than $8\sigma$ confidence!
@@ -130,7 +130,7 @@ each mode function $v_k(\tau)$ obeys the exact same harmonic equation as a massl
 $$v_k''(\tau) + \left(k^2 - \frac{a''}{a}\right) v_k(\tau) = 0$$
 
 Quantizing in the Bunch-Davies vacuum yields the tensor power spectrum:
-$$\mathcal{P}_T(k) \equiv 2 \times \left(\frac{2}{a M_{\rm Pl}}\right)^2 \frac{k^3}{2\pi^2} |v_k|^2 = \frac{2}{\pi^2} \frac{H^2}{M_{\rm Pl}^2}\Bigg|_{k=aH} = \frac{2}{3\pi^2} \frac{V}{M_{\rm Pl}^4}\Bigg|_{k=aH}$$
+$$\mathcal{P}_T(k) \equiv 2 \times \left(\frac{2}{a M_{\rm Pl}}\right)^2 \frac{k^3}{2\pi^2} \lvert v_k\rvert^2 = \frac{2}{\pi^2} \frac{H^2}{M_{\rm Pl}^2}\Bigg\vert_{k=aH} = \frac{2}{3\pi^2} \frac{V}{M_{\rm Pl}^4}\Bigg\vert_{k=aH}$$
 
 ### Tensor spectral index $n_T$ and consistency relation
 $$\mathcal{P}_T(k) = A_t \left(\frac{k}{k_0}\right)^{n_T}$$

@@ -8,7 +8,7 @@ at the zeroth-order picture the universe is homogeneous,
 		and the small density fluctuations are what eventually grow into galaxies and clusters.
 
 we measure the variance of these fluctuations as a function of scale through the **matter power spectrum** $P_m(k)$:
-$$P_m(k) \sim \langle |\delta_m(\vec k)|^2 \rangle, \qquad \delta_m \equiv \frac{\rho_m - \bar\rho_m}{\bar\rho_m}$$
+$$P_m(k) \sim \langle   \vert\delta_m(\vec k)\vert ^2 \rangle, \qquad \delta_m \equiv \frac{\rho_m - \bar\rho_m}{\bar\rho_m}$$
 
 a scale $\lambda$ corresponds to a wavenumber $k \sim 1/\lambda$. small $k$ = large scales; large $k$ = small scales.
 

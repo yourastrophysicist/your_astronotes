@@ -20,16 +20,16 @@ $$\tilde I_n(\mathbf u) = \tilde O(\mathbf u) \cdot \tilde S_n(\mathbf u)$$
 
 ## the speckle transfer function
 
-compute $|\tilde I_n|^2$:
-$$|\tilde I_n(\mathbf u)|^2 = |\tilde O(\mathbf u)|^2 \cdot |\tilde S_n(\mathbf u)|^2$$
+compute $\lvert \tilde I_n\rvert^2$:
+$$\lvert \tilde I_n(\mathbf u)\rvert^2 = \lvert \tilde O(\mathbf u)\rvert^2 \cdot \lvert \tilde S_n(\mathbf u)\rvert^2$$
 
 now average over many frames (over many *instances* of atmospheric turbulence):
-$$\langle |\tilde I_n|^2 \rangle = |\tilde O|^2 \cdot \langle |\tilde S_n|^2 \rangle$$
+$$\langle   \vert\tilde I_n\vert ^2 \rangle = \lvert \tilde O\rvert^2 \cdot \langle   \vert\tilde S_n\vert ^2 \rangle$$
 
 the *speckle transfer function* (STF) is
-$$T_{\rm STF}(\mathbf u) = \langle |\tilde S_n(\mathbf u)|^2 \rangle$$
+$$T_{\rm STF}(\mathbf u) = \langle   \vert\tilde S_n(\mathbf u)\vert ^2 \rangle$$
 
-it has *non-zero* response up to the full diffraction-limit cutoff $u_{\max} = D/\lambda$. so $\langle |\tilde I|^2 \rangle$ contains $|\tilde O|^2$ at every spatial frequency the telescope is capable of resolving.
+it has *non-zero* response up to the full diffraction-limit cutoff $u_{\max} = D/\lambda$. so $\langle   \vert\tilde I\vert ^2 \rangle$ contains $\lvert \tilde O\rvert^2$ at every spatial frequency the telescope is capable of resolving.
 
 ## the explicit STF formula
 
@@ -47,13 +47,13 @@ $$T_{\rm short-exp}(\mathbf u) \propto T_{\rm tel}(\mathbf u)/N_{\rm sp}$$
 
 where $T_{\rm tel}$ is the *telescope* OTF (extends to $u_{\max} = D/\lambda$) and $N_{\rm sp} \sim (D/r_0)^2$ is the number of speckles per frame.
 
-the short-exposure term is what makes speckle interferometry work: it has $\sim 1/(D/r_0)^2$ amplitude — small but non-zero — at all spatial frequencies up to diffraction limit. averaging many frames recovers $|\tilde O|^2$ with SNR proportional to $\sqrt{N_{\rm frames}}$.
+the short-exposure term is what makes speckle interferometry work: it has $\sim 1/(D/r_0)^2$ amplitude — small but non-zero — at all spatial frequencies up to diffraction limit. averaging many frames recovers $\lvert \tilde O\rvert^2$ with SNR proportional to $\sqrt{N_{\rm frames}}$.
 
 ## the SNR
 
 for $N_f$ frames, $N_{\rm photons}$ photons per frame, $N_{\rm sp}$ speckles:
 
-$$\text{SNR}(|\tilde O|^2) \sim \frac{N_f \cdot N_{\rm photons}^2}{N_{\rm sp}^{1/2}} \cdot \frac{1}{|\tilde O(\mathbf u)|^{-2} - 1}$$
+$$\text{SNR}(\lvert \tilde O\rvert^2) \sim \frac{N_f \cdot N_{\rm photons}^2}{N_{\rm sp}^{1/2}} \cdot \frac{1}{\lvert \tilde O(\mathbf u)\rvert^{-2} - 1}$$
 
 (approximate). main features:
 - improves linearly with frame count
@@ -64,19 +64,19 @@ so speckle interferometry is photon-limited and works best when $D \sim r_0$ (fe
 
 ## the calibration
 
-to extract $|\tilde O|^2$, divide $\langle |\tilde I|^2 \rangle$ by the STF:
+to extract $\lvert \tilde O\rvert^2$, divide $\langle   \vert\tilde I\vert ^2 \rangle$ by the STF:
 
-$$|\tilde O|^2 = \frac{\langle |\tilde I_{\rm target}|^2 \rangle - \text{noise}}{T_{\rm STF}(\mathbf u)}$$
+$$\lvert \tilde O\rvert^2 = \frac{\langle   \vert\tilde I_{\rm target}\vert ^2 \rangle - \text{noise}}{T_{\rm STF}(\mathbf u)}$$
 
-the STF is measured on a *calibrator* — an unresolved bright star observed under the same conditions. since for a calibrator $|\tilde O|^2 = 1$:
+the STF is measured on a *calibrator* — an unresolved bright star observed under the same conditions. since for a calibrator $\lvert \tilde O\rvert^2 = 1$:
 
-$$T_{\rm STF}(\mathbf u) = \langle |\tilde I_{\rm cal}|^2 \rangle$$
+$$T_{\rm STF}(\mathbf u) = \langle   \vert\tilde I_{\rm cal}\vert ^2 \rangle$$
 
-so the calibrator's averaged power spectrum *is* the STF. ratio target/calibrator → $|\tilde O|^2$.
+so the calibrator's averaged power spectrum *is* the STF. ratio target/calibrator → $\lvert \tilde O\rvert^2$.
 
 ## what we can and can't recover
 
-speckle interferometry gives $|\tilde O|^2$ — the *power spectrum* — equivalent to the *autocorrelation* $O \star O$ in image space.
+speckle interferometry gives $\lvert \tilde O\rvert^2$ — the *power spectrum* — equivalent to the *autocorrelation* $O \star O$ in image space.
 
 three classes of sources:
 

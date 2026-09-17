@@ -45,8 +45,8 @@ bright in dense star-forming regions (e.g. Orion). see [Photodissociation region
 ## the Galactic HI distribution
 
 the Milky Way's HI:
-- thin disk at $|z| < 100$ pc, density $\sim 0.5$ cm$^{-3}$ averaged.
-- thick layer extending to $|z| \sim 1$ kpc.
+- thin disk at $\lvert z\rvert < 100$ pc, density $\sim 0.5$ cm$^{-3}$ averaged.
+- thick layer extending to $\lvert z\rvert \sim 1$ kpc.
 - spiral arms and shell structures from supernova feedback.
 - mass: $\sim 5 \times 10^9\,M_\odot$ in the Galactic disk.
 

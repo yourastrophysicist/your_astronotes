@@ -15,33 +15,33 @@ Richard T. Cox (1946) established that probability theory is the unique mathemat
 
 ## Derivation of Product and Sum Rules
 
-Let $AB$ denote the logical conjunction ($A \text{ and } B$). The plausibility of $AB$ given background information $I$, written $(AB|I)$, must depend on $(B|I)$ and the plausibility of $A$ given that $B$ is true, $(A|BI)$:
-$$(AB|I) = F[(A|BI), (B|I)]$$
+Let $AB$ denote the logical conjunction ($A \text{ and } B$). The plausibility of $AB$ given background information $I$, written $(AB\midI)$, must depend on $(B\midI)$ and the plausibility of $A$ given that $B$ is true, $(A\midBI)$:
+$$(AB\lvert I) = F[(A\rvertBI), (B\midI)]$$
 
 By associativity of conjunction, $A(BC) = (AB)C$, the functional equation for $F$ satisfies:
 $$F[F(x, y), z] = F[x, F(y, z)]$$
 
 Cox proved that the only continuous, strictly monotonic solution to this functional associativity equation is isomorphic to multiplication:
-$$w(AB|I) = w(A|BI) w(B|I)$$
+$$w(AB\lvert I) = w(A\rvertBI) w(B\midI)$$
 where $w$ is a positive, continuous, strictly monotonic rescaling of plausibility.
 
-Applying consistency to negation $\neg A$, where the plausibility of $\neg A$ is a function $S(w(A|I))$, leads to the complementary sum rule:
-$$w^m(A|I) + w^m(\neg A|I) = 1$$
+Applying consistency to negation $\neg A$, where the plausibility of $\neg A$ is a function $S(w(A\midI))$, leads to the complementary sum rule:
+$$w^m(A\lvert I) + w^m(\neg A\rvertI) = 1$$
 
 Setting the arbitrary exponent $m = 1$ establishes standard Kolmogorov normalization without invoking set-theoretic measure theory:
-$$P(AB|I) = P(A|BI) P(B|I)$$
-$$P(A|I) + P(\neg A|I) = 1$$
+$$P(AB \mid I) = P(A \mid BI) P(B \mid I)$$
+$$P(A \mid I) + P(\neg A \mid I) = 1$$
 
 ## Bayes' Theorem as a Mathematical Identity
 
-Commutativity of logical conjunction ($AB = BA$) implies $P(AB|I) = P(BA|I)$. Equating the two product rule expansions:
-$$P(A|BI) P(B|I) = P(B|AI) P(A|I)$$
+Commutativity of logical conjunction ($AB = BA$) implies $P(AB \mid I) = P(BA \mid I)$. Equating the two product rule expansions:
+$$P(A \mid BI) P(B \mid I) = P(B \mid AI) P(A \mid I)$$
 
-Isolating the conditional probability $P(A|BI)$ yields Bayes' theorem:
-$$P(A|BI) = \frac{P(B|AI) P(A|I)}{P(B|I)}$$
+Isolating the conditional probability $P(A \mid BI)$ yields Bayes' theorem:
+$$P(A \mid BI) = \frac{P(B \mid AI) P(A \mid I)}{P(B \mid I)}$$
 
 In observational astrophysics, identifying $A$ with a physical hypothesis or parameter vector $\theta$ and $B$ with observed data $D$ transforms deductive reasoning into optimal Bayesian inference:
-$$P(\theta|D, I) = \frac{P(D|\theta, I) P(\theta|I)}{P(D|I)}$$
+$$P(\theta \mid D, I) = \frac{P(D \mid \theta, I) P(\theta \mid I)}{P(D \mid I)}$$
 
 ## See Also
 - [Astro-Statistics_and_Cosmology_MOC](../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html)

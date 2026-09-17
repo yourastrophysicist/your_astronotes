@@ -26,7 +26,7 @@ this is the power emitted per unit frequency interval
 	equivalently, one can define the luminosity per unit wavelength $L_\lambda$:
 $$L_\lambda \equiv \frac{dL}{d\lambda} \qquad \left[\text{erg s}^{-1} \text{Å}^{-1}\right]$$
 
-the two are related by noting that $\nu\lambda = c$, so $|d\nu| = (c/\lambda^2)|d\lambda|$:
+the two are related by noting that $\nu\lambda = c$, so $\lvert d\nu\rvert = (c/\lambda^2)\lvert d\lambda\rvert$:
 $$L_\nu \, d\nu = L_\lambda \, d\lambda \implies L_\lambda = L_\nu \frac{c}{\lambda^2}$$
 
 ### Band luminosity

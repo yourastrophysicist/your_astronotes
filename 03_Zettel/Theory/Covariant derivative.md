@@ -44,8 +44,8 @@ $\nabla_\mu \phi = \partial_\mu \phi$. simple.
 ### divergence of a vector
 $\nabla_\mu V^\mu = \partial_\mu V^\mu + \Gamma^\mu{}_{\mu\nu} V^\nu$.
 
-a useful identity: $\Gamma^\mu{}_{\mu\nu} = \frac{1}{\sqrt{|g|}}\partial_\nu \sqrt{|g|}$, so:
-$$\nabla_\mu V^\mu = \frac{1}{\sqrt{|g|}}\partial_\mu(\sqrt{|g|}\,V^\mu)$$
+a useful identity: $\Gamma^\mu{}_{\mu\nu} = \frac{1}{\sqrt{\lvert g\rvert}}\partial_\nu \sqrt{\lvert g\rvert}$, so:
+$$\nabla_\mu V^\mu = \frac{1}{\sqrt{\lvert g\rvert}}\partial_\mu(\sqrt{\lvert g\rvert}\,V^\mu)$$
 
 this is how to compute divergence in any coordinate system. very useful.
 

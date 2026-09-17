@@ -10,17 +10,17 @@ a constructive procedure that turns a linearly independent set of vectors $\{\ma
 ## the geometric picture
 
 the first vector is just normalized:
-$$\mathbf{q}_0 = \mathbf{a}_0 / \|\mathbf{a}_0\|$$
+$$\mathbf{q}_0 = \mathbf{a}_0 / \\lvert \mathbf{a}_0\\rvert$$
 
 the second vector is what is left of $\mathbf{a}_1$ after removing its projection onto $\mathbf{q}_0$:
 $$\mathbf{u}_1 = \mathbf{a}_1 - (\mathbf{q}_0 \cdot \mathbf{a}_1)\mathbf{q}_0$$
-$$\mathbf{q}_1 = \mathbf{u}_1 / \|\mathbf{u}_1\|$$
+$$\mathbf{q}_1 = \mathbf{u}_1 / \\lvert \mathbf{u}_1\\rvert$$
 
 the third vector is $\mathbf{a}_2$ minus its projections onto $\mathbf{q}_0$ and $\mathbf{q}_1$, normalized. and so on.
 
 ## the formula
 
-$$\mathbf{u}_i = \mathbf{a}_i - \sum_{k=0}^{i-1}(\mathbf{q}_k \cdot \mathbf{a}_i)\mathbf{q}_k, \qquad \mathbf{q}_i = \frac{\mathbf{u}_i}{\|\mathbf{u}_i\|}$$
+$$\mathbf{u}_i = \mathbf{a}_i - \sum_{k=0}^{i-1}(\mathbf{q}_k \cdot \mathbf{a}_i)\mathbf{q}_k, \qquad \mathbf{q}_i = \frac{\mathbf{u}_i}{\\lvert \mathbf{u}_i\\rvert}$$
 
 each new $\mathbf{u}_i$ is the orthogonal complement of $\mathbf{a}_i$ relative to the span of the previous $\mathbf{q}$'s, then we normalize.
 
@@ -72,13 +72,13 @@ mathematically the two are identical; numerically the modified version preserves
 
 writing the recursion for $\mathbf{a}_i$ in terms of the $\mathbf{q}_k$:
 
-$$\mathbf{a}_i = \|\mathbf{u}_i\|\mathbf{q}_i + \sum_{k=0}^{i-1}(\mathbf{q}_k \cdot \mathbf{a}_i)\mathbf{q}_k$$
+$$\mathbf{a}_i = \\lvert \mathbf{u}_i\\rvert\mathbf{q}_i + \sum_{k=0}^{i-1}(\mathbf{q}_k \cdot \mathbf{a}_i)\mathbf{q}_k$$
 
 stack as columns:
 
 $$A = QR$$
 
-with $Q$ orthogonal ($Q^T Q = I$) and $R$ upper triangular with diagonal $\|\mathbf{u}_i\|$ and off-diagonal $(\mathbf{q}_k \cdot \mathbf{a}_i)$. this is [QR decomposition](./QR%20decomposition.html) — Gram-Schmidt is *one* way to compute it.
+with $Q$ orthogonal ($Q^T Q = I$) and $R$ upper triangular with diagonal $\\lvert \mathbf{u}_i\\rvert$ and off-diagonal $(\mathbf{q}_k \cdot \mathbf{a}_i)$. this is [QR decomposition](./QR%20decomposition.html) — Gram-Schmidt is *one* way to compute it.
 
 ## why it matters in physics
 

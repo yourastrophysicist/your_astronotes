@@ -19,8 +19,8 @@ Because $H$ decreases as the field rolls down the potential ($\dot{H} < 0$), mod
 
 ## key derivation & equations
 
-Using $\mathcal{R}_k = v_k / z$ with $z = a\sqrt{2\epsilon} M_{\rm Pl}$ and the super-horizon limit $|v_k| \to \frac{1}{\sqrt{2k^3}\tau}$:
-$$\mathcal{P}_\mathcal{R}(k) \equiv \frac{k^3}{2\pi^2}|\mathcal{R}_k|^2 = \frac{k^3}{2\pi^2}\frac{|v_k|^2}{a^2 2\epsilon M_{\rm Pl}^2} = \frac{H^2}{8\pi^2 \epsilon M_{\rm Pl}^2}\Bigg|_{k=aH} = \frac{1}{24\pi^2 M_{\rm Pl}^4}\frac{V}{\epsilon_V}\Bigg|_{k=aH}$$
+Using $\mathcal{R}_k = v_k / z$ with $z = a\sqrt{2\epsilon} M_{\rm Pl}$ and the super-horizon limit $\lvert v_k\rvert \to \frac{1}{\sqrt{2k^3}\tau}$:
+$$\mathcal{P}_\mathcal{R}(k) \equiv \frac{k^3}{2\pi^2}\lvert \mathcal{R}_k\rvert^2 = \frac{k^3}{2\pi^2}\frac{\lvert v_k\rvert^2}{a^2 2\epsilon M_{\rm Pl}^2} = \frac{H^2}{8\pi^2 \epsilon M_{\rm Pl}^2}\Bigg\vert_{k=aH} = \frac{1}{24\pi^2 M_{\rm Pl}^4}\frac{V}{\epsilon_V}\Bigg\vert_{k=aH}$$
 
 ### The scalar spectral index $n_s$
 $$\mathcal{P}_\mathcal{R}(k) = A_s \left(\frac{k}{k_0}\right)^{n_s - 1}$$

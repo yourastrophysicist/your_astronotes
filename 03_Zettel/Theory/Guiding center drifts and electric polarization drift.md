@@ -15,7 +15,7 @@ $$m \frac{d\mathbf{v}}{dt} = q (\mathbf{E} + \mathbf{v} \times \mathbf{B})$$
 
 for uniform $\mathbf{B} = B \hat{\mathbf{z}}$, the perpendicular velocity gyrates at the cyclotron frequency:
 
-$$\Omega_c = \frac{q B}{m}, \quad \rho_L = \frac{v_\perp}{|\Omega_c|}$$
+$$\Omega_c = \frac{q B}{m}, \quad \rho_L = \frac{v_\perp}{\lvert \Omega_c\rvert}$$
 
 decomposing particle position into guiding center $\mathbf{R}$ and gyroradius vector $\boldsymbol{\rho}_L$: $\mathbf{r} = \mathbf{R} + \boldsymbol{\rho}_L$.
 

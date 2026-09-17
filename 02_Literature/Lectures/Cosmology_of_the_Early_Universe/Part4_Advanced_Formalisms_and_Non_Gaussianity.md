@@ -72,29 +72,29 @@ The physical mechanism generating non-Gaussianity leaves an unmistakable signatu
 
 ## The In-In (Schwinger-Keldysh) formalism
 
-Standard quantum field theory relies on the In-Out $S$-matrix formalism, computing transition amplitudes between an asymptotic vacuum $|0_{\rm in}\rangle$ at $t \to -\infty$ and an asymptotic vacuum $|0_{\rm out}\rangle$ at $t \to +\infty$:
-$$\langle 0_{\rm out} | T[\dots] | 0_{\rm in} \rangle$$
+Standard quantum field theory relies on the In-Out $S$-matrix formalism, computing transition amplitudes between an asymptotic vacuum $\vert 0_{\rm in} \rangle$ at $t \to -\infty$ and an asymptotic vacuum $\vert 0_{\rm out} \rangle$ at $t \to +\infty$:
+$$\langle 0_{\rm out} \vert T[\dots] \vert 0_{\rm in} \rangle$$
 
-In cosmology, we cannot observe the infinite future vacuum $|0_{\rm out}\rangle$. Instead, we need the expectation value of quantum operators $\mathcal{O}(t)$ at a **fixed time $t$** (e.g. after horizon crossing):
-$$\langle \mathcal{O}(t) \rangle \equiv \langle \Omega | \mathcal{O}(t) | \Omega \rangle$$
-where $|\Omega\rangle$ is the true interacting vacuum state evolved from the Bunch-Davies vacuum $|0\rangle$ at early times.
+In cosmology, we cannot observe the infinite future vacuum $\vert 0_{\rm out} \rangle$. Instead, we need the expectation value of quantum operators $\mathcal{O}(t)$ at a **fixed time $t$** (e.g. after horizon crossing):
+$$\langle \mathcal{O}(t) \rangle \equiv \langle \Omega \vert \mathcal{O}(t) \vert \Omega \rangle$$
+where $\vert \Omega \rangle$ is the true interacting vacuum state evolved from the Bunch-Davies vacuum $\vert 0 \rangle$ at early times.
 
 The unitary time evolution operator is:
 $$U(t, t_0) = T \exp\left( -i \int_{t_0}^t dt' H_I(t') \right)$$
 where $H_I(t)$ is the interaction Hamiltonian in the interaction picture, and $T$ denotes time-ordering.
 
 The equal-time vacuum expectation value is:
-$$\langle \mathcal{O}(t) \rangle = \langle 0 | \left[ \bar{T} \exp\left( i \int_{-\infty(1-i\epsilon)}^t dt' H_I(t') \right) \right] \mathcal{O}_I(t) \left[ T \exp\left( -i \int_{-\infty(1+i\epsilon)}^t dt' H_I(t') \right) \right] | 0 \rangle$$
-where $\bar{T}$ denotes anti-time-ordering, and the $\pm i\epsilon$ contour rotation projects the free vacuum $|0\rangle$ onto the true interacting vacuum $|\Omega\rangle$.
+$$\langle \mathcal{O}(t) \rangle = \langle 0 \vert \left[ \bar{T} \exp\left( i \int_{-\infty(1-i\epsilon)}^t dt' H_I(t') \right) \right] \mathcal{O}_I(t) \left[ T \exp\left( -i \int_{-\infty(1+i\epsilon)}^t dt' H_I(t') \right) \right] \vert 0 \rangle$$
+where $\bar{T}$ denotes anti-time-ordering, and the $\pm i\epsilon$ contour rotation projects the free vacuum $\vert 0 \rangle$ onto the true interacting vacuum $\vert \Omega \rangle$.
 
 Weinberg (2005) reformulated this into a nested commutator series:
-$$\langle \mathcal{O}(t) \rangle = \langle 0 | \mathcal{O}_I(t) | 0 \rangle + i \int_{-\infty}^t dt_1 \langle 0 | [H_I(t_1), \mathcal{O}_I(t)] | 0 \rangle - \int_{-\infty}^t dt_1 \int_{-\infty}^{t_1} dt_2 \langle 0 | [H_I(t_2), [H_I(t_1), \mathcal{O}_I(t)]] | 0 \rangle + \dots$$
+$$\langle \mathcal{O}(t) \rangle = \langle 0 \vert \mathcal{O}_I(t) \vert 0 \rangle + i \int_{-\infty}^t dt_1 \langle 0 \vert [H_I(t_1), \mathcal{O}_I(t)] \vert 0 \rangle - \int_{-\infty}^t dt_1 \int_{-\infty}^{t_1} dt_2 \langle 0 \vert [H_I(t_2), [H_I(t_1), \mathcal{O}_I(t)]] \vert 0 \rangle + \dots$$
 
 To compute the bispectrum $\langle \zeta_{\vec{k}_1}\zeta_{\vec{k}_2}\zeta_{\vec{k}_3} \rangle$:
 1. Expand the action to third order in perturbations $S_{(3)} = \int dt\\, d^3 x\\, \mathcal{L}_{(3)}$.
 2. Derive the interaction Hamiltonian $H_I(t) = -\int d^3 x\\, \mathcal{L}_{(3)}$.
 3. Insert into the first-order in-in formula:
-   $$\langle \zeta_{\vec{k}_1}\zeta_{\vec{k}_2}\zeta_{\vec{k}_3}(t) \rangle = -i \int_{-\infty}^t dt' \langle 0 | [\zeta_{\vec{k}_1}\zeta_{\vec{k}_2}\zeta_{\vec{k}_3}(t), H_I(t')] | 0 \rangle$$
+   $$\langle \zeta_{\vec{k}_1}\zeta_{\vec{k}_2}\zeta_{\vec{k}_3}(t) \rangle = -i \int_{-\infty}^t dt' \langle 0 \vert [\zeta_{\vec{k}_1}\zeta_{\vec{k}_2}\zeta_{\vec{k}_3}(t), H_I(t')] \vert 0 \rangle$$
 
 ---
 
@@ -118,7 +118,7 @@ Because $n_s \approx 0.965$, standard single-field slow-roll inflation predicts:
 $$f_{\rm NL}^{\rm local} \approx \frac{5}{12}(1 - 0.965) \approx 0.015$$
 This value is far below current and near-future experimental sensitivity.
 
-**Crucial theorem consequence**: A confirmed experimental detection of $|f_{\rm NL}^{\rm local}| \gtrsim 1$ would definitively rule out **all single-field slow-roll inflation models**, regardless of the potential $V(\phi)$!
+**Crucial theorem consequence**: A confirmed experimental detection of $\lvert f_{\rm NL}^{\rm local}\rvert \gtrsim 1$ would definitively rule out **all single-field slow-roll inflation models**, regardless of the potential $V(\phi)$!
 
 ---
 
@@ -140,7 +140,7 @@ The non-linear local parameter is obtained directly from the second derivative:
 $$f_{\rm NL}^{\rm local} = \frac{5}{6} \frac{\sum_{I,J} N_{,I} N_{,J} N_{,IJ}}{\left(\sum_K N_{,K}^2\right)^2}$$
 
 In single-field inflation, $N(\phi) = \int \frac{H}{\dot{\phi}} d\phi$, so $N_{,\phi} = H/\dot{\phi}$ and $N_{,\phi\phi} = \frac{H'}{\dot{\phi}} - \frac{H\ddot{\phi}}{\dot{\phi}^3}$, recovering the slow-roll suppressed result $f_{\rm NL} \sim \mathcal{O}(\epsilon, \eta)$.
-In multi-field models, non-linear trajectories in field space allow $N_{,IJ}$ to be large, generating detectable $|f_{\rm NL}| \gg 1$.
+In multi-field models, non-linear trajectories in field space allow $N_{,IJ}$ to be large, generating detectable $\lvert f_{\rm NL}\rvert \gg 1$.
 
 ---
 
@@ -170,7 +170,7 @@ All shapes are consistent with zero within $1\sigma$ to $1.5\sigma$. This strong
 ## Theoretical Visuals & In-In Non-Gaussianity
 
 ![In-In Schwinger-Keldysh Closed Time Contour](../../../assets/images/early_inin_p01.png)
-*Figure CEU-09: The In-In (Schwinger-Keldysh) closed time path contour $\mathcal{C}$ computing expectation values of operators at fixed time $t$: $\langle \hat{\mathcal{O}}(t) \rangle = \langle 0 | \left[\bar{T} e^{i \int_{-\infty}^t H_I(t') dt'}\right] \hat{\mathcal{O}}(t) \left[T e^{-i \int_{-\infty}^t H_I(t'') dt''}\right] | 0 \rangle$.*
+*Figure CEU-09: The In-In (Schwinger-Keldysh) closed time path contour $\mathcal{C}$ computing expectation values of operators at fixed time $t$: $\langle \hat{\mathcal{O}}(t) \rangle = \langle 0 \vert \left[\bar{T} e^{i \int_{-\infty}^t H_I(t') dt'}\right] \hat{\mathcal{O}}(t) \left[T e^{-i \int_{-\infty}^t H_I(t'') dt''}\right] \vert 0 \rangle$.*
 
 ![Bispectrum Triangular Shapes and Momentum Conservation](../../../assets/images/early_inin_p05.png)
 *Figure CEU-10: Primordial 3-point correlation function (bispectrum) triangular configurations $(\mathbf{k}_1 + \mathbf{k}_2 + \mathbf{k}_3 = 0)$. Compares Local ($k_1 \ll k_2 \approx k_3$), Equilateral ($k_1 \approx k_2 \approx k_3$), and Folded ($k_1 + k_2 \approx k_3$) shapes.*

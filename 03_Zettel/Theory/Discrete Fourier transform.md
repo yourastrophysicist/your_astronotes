@@ -81,7 +81,7 @@ mitigation: **windowing**. multiply $x_n$ by a function (Hanning, Hamming, Black
 
 energy conservation between time and frequency domains:
 
-$$\sum_{n=0}^{N-1} |x_n|^2 = \frac{1}{N} \sum_{k=0}^{N-1} |X_k|^2$$
+$$\sum_{n=0}^{N-1} \lvert x_n\rvert^2 = \frac{1}{N} \sum_{k=0}^{N-1} \lvert X_k\rvert^2$$
 
 useful sanity check.
 

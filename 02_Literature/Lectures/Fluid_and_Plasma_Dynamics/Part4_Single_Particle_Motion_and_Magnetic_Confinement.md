@@ -26,13 +26,13 @@ $$\frac{dv_\parallel}{dt} = 0 \implies v_\parallel = \text{constant}$$
 $$\frac{d v_x}{dt} = \frac{q B}{m} v_y = \omega_c v_y$$
 $$\frac{d v_y}{dt} = -\frac{q B}{m} v_x = -\omega_c v_x$$
 where $\omega_c = \frac{q B}{m}$ is the algebraic cyclotron frequency (gyrofrequency). Its positive magnitude is defined as:
-$$\Omega_c = \frac{|q| B}{m}$$
+$$\Omega_c = \frac{\lvert q\rvert B}{m}$$
 
 Differentiating with respect to time decouples the perpendicular velocities into harmonic oscillator equations:
 $$\frac{d^2 v_x}{dt^2} + \Omega_c^2 v_x = 0, \quad \frac{d^2 v_y}{dt^2} + \Omega_c^2 v_y = 0$$
 
 The general solution describes circular gyration in the $(x, y)$ plane with radius $\rho_L$ (the **Larmor radius** or gyroradius):
-$$\rho_L = \frac{v_\perp}{\Omega_c} = \frac{m v_\perp}{|q| B}$$
+$$\rho_L = \frac{v_\perp}{\Omega_c} = \frac{m v_\perp}{\lvert q\rvert B}$$
 
 The full trajectory is a helix winding around a magnetic field line:
 $$\vec{r}(t) = \vec{R}(t) + \vec{\rho}_L(t)$$
@@ -78,7 +78,7 @@ $$\vec{v}_E = \frac{(q \vec{E}) \times \vec{B}}{q B^2} = \frac{\vec{E} \times \v
 
 Consider a magnetic field with a spatial gradient perpendicular to the field lines: $\vec{B} = B(y) \hat{z}$ with $\nabla B = \frac{dB}{dy} \hat{y}$.
 As the particle gyrates, the local magnetic field is stronger at the top of its orbit ($y > 0$) than at the bottom ($y < 0$).
-Because the local Larmor radius is inversely proportional to $B$ ($\rho_L(y) = \frac{m v_\perp}{|q| B(y)}$), the orbit has a smaller radius of curvature in the high-field region and a larger radius in the low-field region. This difference prevents the orbit from closing into a perfect circle, causing the particle to execute a cycloidal drift along the $x$-direction.
+Because the local Larmor radius is inversely proportional to $B$ ($\rho_L(y) = \frac{m v_\perp}{\lvert q\rvert B(y)}$), the orbit has a smaller radius of curvature in the high-field region and a larger radius in the low-field region. This difference prevents the orbit from closing into a perfect circle, causing the particle to execute a cycloidal drift along the $x$-direction.
 
 To derive the drift velocity analytically, calculate the net magnetic force averaged over one gyration. The instantaneous Lorentz force is:
 $$\vec{F} = q (\vec{v} \times \vec{B}(\vec{r}))$$
@@ -175,7 +175,7 @@ $$-v_\parallel \mu \frac{\partial B}{\partial z} + B \frac{d\mu}{dt} + \mu v_\pa
 The first and third terms cancel identically, leaving:
 $$B \frac{d\mu}{dt} = 0 \implies \frac{d\mu}{dt} = 0$$
 
-The magnetic moment $\mu$ is an exact **adiabatic invariant** (the first adiabatic invariant) provided the magnetic field varies slowly compared to the cyclotron period ($\frac{1}{\Omega_c B} \frac{\partial B}{\partial t} \ll 1$ and $\frac{\rho_L}{B} |\nabla B| \ll 1$).
+The magnetic moment $\mu$ is an exact **adiabatic invariant** (the first adiabatic invariant) provided the magnetic field varies slowly compared to the cyclotron period ($\frac{1}{\Omega_c B} \frac{\partial B}{\partial t} \ll 1$ and $\frac{\rho_L}{B} \lvert \nabla B\rvert \ll 1$).
 
 ### 2.3 Derivation of the Reflection Condition and Loss Cone
 
@@ -257,11 +257,11 @@ Using the trigonometric identity $\sin^2\alpha_0 = 1 - \cos^2\alpha_0 = 1 - (v_{
 $$1 - \frac{v_{\parallel 0}^2}{v_0^2} \ge 1 - 2\epsilon \implies \frac{v_{\parallel 0}^2}{v_0^2} \le 2\epsilon$$
 
 Taking the square root:
-$$\frac{|v_{\parallel 0}|}{v_0} \le \sqrt{2\epsilon} = \sqrt{\frac{2r}{R_0}}$$
+$$\frac{\lvert v_{\parallel 0}\rvert}{v_0} \le \sqrt{2\epsilon} = \sqrt{\frac{2r}{R_0}}$$
 
 This is the **trapping condition for a tokamak**:
-- **Trapped particles**: Particles with $|v_{\parallel 0}| < \sqrt{2\epsilon} v_0$ reflect at intermediate poloidal angles $\theta_{turn} < \pi$ and bounce back and forth on the outboard side.
-- **Passing (circulating) particles**: Particles with $|v_{\parallel 0}| > \sqrt{2\epsilon} v_0$ possess sufficient parallel kinetic energy to pass over the magnetic throat at $\theta = \pi$, circulating continuously around the torus.
+- **Trapped particles**: Particles with $\lvert v_{\parallel 0}\rvert < \sqrt{2\epsilon} v_0$ reflect at intermediate poloidal angles $\theta_{turn} < \pi$ and bounce back and forth on the outboard side.
+- **Passing (circulating) particles**: Particles with $\lvert v_{\parallel 0}\rvert > \sqrt{2\epsilon} v_0$ possess sufficient parallel kinetic energy to pass over the magnetic throat at $\theta = \pi$, circulating continuously around the torus.
 
 ### 3.3 Fraction of Trapped Particles
 

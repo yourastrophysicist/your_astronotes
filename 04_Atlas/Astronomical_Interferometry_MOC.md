@@ -120,7 +120,7 @@ the formal toolkit of wave optics. coherence is what makes fringes possible. the
 - [Spatial coherence](../03_Zettel/Theory/interf/Spatial%20coherence.html) — correlation of the wave at two points, what allows fringes between two apertures
 - [Temporal coherence](../03_Zettel/Theory/interf/Temporal%20coherence.html) — correlation in time, sets the maximum optical-path difference for fringes
 - [Wiener-Khinchin theorem](../03_Zettel/Theory/interf/Wiener-Khinchin%20theorem.html) — autocorrelation and power spectrum as Fourier pairs, the bridge between coherence, spectra, and correlators
-- [Coherence function and visibility](../03_Zettel/Theory/interf/Coherence%20function%20and%20visibility.html) — the math link: $V = |\gamma_{12}|$ where $\gamma_{12}$ is the normalized cross-correlation
+- [Coherence function and visibility](../03_Zettel/Theory/interf/Coherence%20function%20and%20visibility.html) — the math link: $V = \lvert\gamma_{12}\rvert$ where $\gamma_{12}$ is the normalized cross-correlation
 - [Van Cittert-Zernike theorem](../03_Zettel/Theory/interf/Van%20Cittert-Zernike%20theorem.html) — **the central theorem**: visibility is the Fourier transform of the source brightness distribution
 - [Photon noise and statistics](../03_Zettel/Theory/interf/Photon%20noise%20and%20statistics.html) — Poisson statistics, the photon-noise floor of every interferometric measurement
 
@@ -489,9 +489,9 @@ Every single instrument layout, fringe diagram, UV coverage simulation, and obse
   $$\mu(\vec{r}_1, \vec{r}_2, 0) = \frac{\iint I(\vec{s}) e^{-i \frac{2\pi}{\lambda} \vec{s} \cdot (\vec{r}_1 - \vec{r}_2)} d\Omega}{\iint I(\vec{s}) d\Omega}$$
 - **Derivation & Blackboard Walkthrough**:
   1. Consider an extended, spatially incoherent thermal source at distance $R$. Two points on the source $\vec{s}_1, \vec{s}_2$ satisfy $\langle E(\vec{s}_1) E^*(\vec{s}_2) \rangle = I(\vec{s}_1) \delta(\vec{s}_1 - \vec{s}_2)$.
-  2. Propagate electric fields to two detectors on Earth located at $\vec{r}_1, \vec{r}_2$ via spherical Huygens wavelets: $E(\vec{r}_1) = \int \frac{E(\vec{s})}{R} e^{i k |\vec{r}_1 - \vec{s}|} d^2 s$.
+  2. Propagate electric fields to two detectors on Earth located at $\vec{r}_1, \vec{r}_2$ via spherical Huygens wavelets: $E(\vec{r}_1) = \int \frac{E(\vec{s})}{R} e^{i k \lvert\vec{r}_1 - \vec{s}\rvert} d^2 s$.
   3. Write the mutual cross-correlation (coherence function) $\Gamma_{12} = \langle E(\vec{r}_1) E^*(\vec{r}_2) \rangle$.
-  4. Expand $|\vec{r}_1 - \vec{s}| \approx R - \vec{s} \cdot \vec{r}_1 / R$. In the Fraunhofer approximation, the distance cancels out.
+  4. Expand $\lvert\vec{r}_1 - \vec{s}\rvert \approx R - \vec{s} \cdot \vec{r}_1 / R$. In the Fraunhofer approximation, the distance cancels out.
   5. The resulting complex degree of coherence $\mu_{12}$ is exactly the two-dimensional spatial Fourier transform of the normalized sky brightness distribution $I_{\rm norm}(\vec{\sigma})$.
   6. Define baseline coordinates in units of wavelength: $u = (x_1 - x_2)/\lambda$, $v = (y_1 - y_2)/\lambda$. The complex visibility is $V(u,v) = \mathcal{F}\{I(x,y)\}$.
 - **Professor Trap Points**:

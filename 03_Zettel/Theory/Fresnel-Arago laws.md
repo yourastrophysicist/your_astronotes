@@ -16,7 +16,7 @@ if I split a beam into two paths, each with linear polarization perpendicular to
 
 mathematically: if $\mathbf{E}_1 = E_0 \hat{\mathbf{x}} \cos(\omega t)$ and $\mathbf{E}_2 = E_0 \hat{\mathbf{y}} \cos(\omega t + \delta)$, the intensity at the detector is
 
-$$I \propto \langle |\mathbf{E}_1 + \mathbf{E}_2|^2 \rangle = \langle E_x^2 \rangle + \langle E_y^2 \rangle = 2 E_0^2 / 2 = E_0^2$$
+$$I \propto \langle   \vert\mathbf{E}_1 + \mathbf{E}_2\vert ^2 \rangle = \langle E_x^2 \rangle + \langle E_y^2 \rangle = 2 E_0^2 / 2 = E_0^2$$
 
 — constant, no $\delta$ dependence, no fringes (visibility $V = 0$).
 
@@ -35,7 +35,7 @@ natural light is *incoherent* between its two perpendicular polarization states.
 ### Law 4
 > **two rays polarized at right angles coming from an initially linearly polarized beam can interfere** once brought into a common plane of polarization by an analyzer.
 
-because the parent beam was already linearly polarized (e.g. at $45^\circ$), its orthogonal projections have a fixed, deterministic phase relationship. passing them through an analyzer at angle $\theta_A$ projects both into a single axis, restoring fringes with visibility $V(\theta_A) = |\sin(2\theta_A)|$.
+because the parent beam was already linearly polarized (e.g. at $45^\circ$), its orthogonal projections have a fixed, deterministic phase relationship. passing them through an analyzer at angle $\theta_A$ projects both into a single axis, restoring fringes with visibility $V(\theta_A) = \lvert \sin(2\theta_A)\rvert$.
 
 ## the physical reason
 

@@ -46,13 +46,13 @@ $$\frac{\partial f}{\partial t} + \vec{u} \cdot \nabla_{\vec{x}} f + \frac{\vec{
    - Dilute gas: $n r_0^3 \ll 1$ (strictly binary collisions).
    - Local collisions: interaction range $r_0 \ll L$ and duration $\tau_{coll} \ll \tau$.
    - Molecular chaos (*Stoßzahlansatz*): $f_2(\vec{x}, \vec{u}, \vec{x}, \vec{u}_1, t) = f(\vec{x}, \vec{u}, t) f(\vec{x}, \vec{u}_1, t)$.
-2. Sketch the collision cylinder: relative speed $g = |\vec{u} - \vec{u}_1|$, impact parameter $b$, solid angle $d\Omega = \sin\theta d\theta d\phi$, volume element $dV = g \, dt \, b \, db \, d\phi = g \, dt \, \sigma(g, \Omega) d\Omega$.
+2. Sketch the collision cylinder: relative speed $g = \lvert \vec{u} - \vec{u}_1\rvert$, impact parameter $b$, solid angle $d\Omega = \sin\theta d\theta d\phi$, volume element $dV = g \, dt \, b \, db \, d\phi = g \, dt \, \sigma(g, \Omega) d\Omega$.
 3. Formulate the loss rate:
 $$\Gamma_{loss} = \int d^3u_1 \int d\Omega \, g \, \sigma(g, \Omega) f(\vec{x}, \vec{u}, t) f(\vec{x}, \vec{u}_1, t)$$
 4. Formulate the gain rate via the inverse collision $\vec{u}' + \vec{u}_1' \to \vec{u} + \vec{u}_1$. Using time-reversal invariance $\sigma(g', \Omega') = \sigma(g, \Omega)$ and phase-volume preservation $d^3u' d^3u_1' = d^3u d^3u_1$:
 $$\Gamma_{gain} = \int d^3u_1 \int d\Omega \, g \, \sigma(g, \Omega) f(\vec{x}, \vec{u}', t) f(\vec{x}, \vec{u}_1', t)$$
 5. Combine into the Boltzmann collision integral:
-$$C(f) = \int d^3u_1 \int d\Omega \, \sigma(g, \Omega) |\vec{u} - \vec{u}_1| \left[ f' f_1' - f f_1 \right]$$
+$$C(f) = \int d^3u_1 \int d\Omega \, \sigma(g, \Omega) \lvert \vec{u} - \vec{u}_1\rvert \left[ f' f_1' - f f_1 \right]$$
 6. Mention the $H$-theorem ($dH/dt \le 0$) and show that $C(f) = 0 \iff f' f_1' = f f_1 \implies f$ is the Maxwellian distribution.
 
 ---
@@ -95,7 +95,7 @@ $$\int d^3u \, \chi \left[ \frac{\partial f}{\partial t} + u_j \frac{\partial f}
    - $\vec{q}^{(0)} = \frac{1}{2}\rho \langle w^2 \vec{w} \rangle_0 = 0$ (odd integrand).
    - Yields the **Euler equations** for ideal, non-viscous fluids.
 4. **First-Order Approximation ($Kn \ll 1$)**:
-   - Chapman-Enskog expansion: $f = f_0 + g$, where $|g| \ll f_0$.
+   - Chapman-Enskog expansion: $f = f_0 + g$, where $\lvert g\rvert \ll f_0$.
    - Non-diagonal viscous stress tensor emerges: $P_{ij} = p \delta_{ij} - \sigma_{ij}$, with:
 $$\sigma_{ij} = \mu \left( \frac{\partial v_i}{\partial x_j} + \frac{\partial v_j}{\partial x_i} - \frac{2}{3}\delta_{ij}\nabla\cdot\vec{v} \right) + \zeta \delta_{ij} \nabla\cdot\vec{v}$$
    - Non-zero heat flux via Fourier's law: $\vec{q} = -\kappa \nabla T$.
@@ -278,7 +278,7 @@ $$B(\theta) \approx B_0(1 - \epsilon \cos\theta)$$
 High field on inboard ($\theta = \pi$); low field on outboard ($\theta = 0$).
 3. Identify the magnetic mirror along field lines with mirror ratio $R_m \approx 1 + 2\epsilon$.
 4. Derive the trapping condition at the outboard midplane:
-$$\sin^2\alpha_0 \ge \frac{1-\epsilon}{1+\epsilon} \approx 1 - 2\epsilon \implies \frac{|v_{\parallel 0}|}{v_0} \le \sqrt{2\epsilon}$$
+$$\sin^2\alpha_0 \ge \frac{1-\epsilon}{1+\epsilon} \approx 1 - 2\epsilon \implies \frac{\lvert v_{\parallel 0}\rvert}{v_0} \le \sqrt{2\epsilon}$$
 5. Calculate trapped fraction: $f_{tr} \approx \sqrt{2\epsilon} = \sqrt{2r/R_0}$.
 6. Explain banana orbits produced by vertical drift, stating banana width $\Delta r_b \approx \frac{q_s}{\sqrt{\epsilon}}\rho_L$ and bounce frequency $\omega_b \approx \frac{\sqrt{\epsilon} v_{th}}{q_s R_0}$.
 
@@ -313,7 +313,7 @@ $$D(k, \omega) = 1 - \frac{\omega_p^2}{k^2}\int_C \frac{f_0'(v)}{v - \omega/k} d
 3. Sketch the Landau contour $C$, deformed below the pole $v = \omega/k$ to maintain analytic continuation for damped modes ($\text{Im}(\omega) < 0$).
 4. Use the Plemelj formula to split $D(k, \omega) = D_r + i D_i$:
 $$D_r \approx 1 - \frac{\omega_p^2}{\omega_r^2} - 3\frac{k^2 v_{th}^2 \omega_p^2}{\omega_r^4}, \quad D_i = -\pi \frac{\omega_p^2}{k^2} f_0'\left( \frac{\omega_r}{k} \right)$$
-5. Derive damping rate $\gamma_L = -\frac{D_i}{\partial D_r / \partial \omega_r} = \left. \frac{\pi \omega_p^3}{2 k^2} \frac{df_0}{dv} \right|_{v = \omega_r/k}$.
+5. Derive damping rate $\gamma_L = -\frac{D_i}{\partial D_r / \partial \omega_r} = \left. \frac{\pi \omega_p^3}{2 k^2} \frac{df_0}{dv} \right\rvert_{v = \omega_r/k}$.
 6. Explain physical wave-particle resonance: for a Maxwellian, $df_0/dv < 0$, so more particles travel slightly slower than $v_{ph}$ than faster. The wave does net work accelerating slower particles, damping collisionlessly.
 
 ---
@@ -450,9 +450,9 @@ $$I^2 = \frac{8\pi}{\mu_0} N k_B (T_e + T_i)$$
 3. From $\vec{B} \cdot \nabla p = 0$, show $p = p(\psi)$.
 4. From $\vec{j} \cdot \nabla p = 0$, show $F = F(\psi)$.
 5. Use Ampère's law to express toroidal current: $\mu_0 j_\phi = -\frac{1}{R}\Delta^* \psi$, where $\Delta^* \psi = R \frac{\partial}{\partial R}\left( \frac{1}{R}\frac{\partial\psi}{\partial R} \right) + \frac{\partial^2\psi}{\partial Z^2}$.
-6. Project force balance along $\nabla\psi$: $(\vec{j} \times \vec{B}) \cdot \nabla\psi = \nabla p \cdot \nabla\psi = p'(\psi)|\nabla\psi|^2$.
+6. Project force balance along $\nabla\psi$: $(\vec{j} \times \vec{B}) \cdot \nabla\psi = \nabla p \cdot \nabla\psi = p'(\psi)\lvert \nabla\psi\rvert^2$.
 7. Evaluate the cross product explicitly:
-$$-\frac{\Delta^* \psi}{\mu_0 R^2}|\nabla\psi|^2 - \frac{F F'}{\mu_0 R^2}|\nabla\psi|^2 = p'(\psi)|\nabla\psi|^2$$
+$$-\frac{\Delta^* \psi}{\mu_0 R^2}\lvert \nabla\psi\rvert^2 - \frac{F F'}{\mu_0 R^2}\lvert \nabla\psi\rvert^2 = p'(\psi)\lvert \nabla\psi\rvert^2$$
 8. Conclude with the **Grad-Shafranov equation**:
 $$\Delta^* \psi = -\mu_0 R^2 p'(\psi) - F F'(\psi)$$
 

@@ -91,7 +91,7 @@ the failure of Schwarzschild coordinates at the horizon is visible in light cone
 
 introduce the **tortoise coordinate** $r^*$ via $dr^*/dr = (1 - 2GM/r)^{-1}$:
 
-$$r^* = r + 2GM\ln|r/(2GM) - 1|$$
+$$r^* = r + 2GM\ln\lvert r/(2GM) - 1\rvert$$
 
 then radial null geodesics have $dt = \pm dr^*$, $\pm 45°$ slope. but $r^* \to -\infty$ at $r = 2GM$, so the horizon is pushed to infinity.
 
@@ -131,12 +131,12 @@ $$ds^2 = \frac{32 G^3 M^3}{r}e^{-r/(2GM)}(-dT^2 + dX^2) + r^2 d\Omega^2$$
 
 the metric is **manifestly regular** at the horizon. radial null rays are $T = \pm X + $ const, exactly $45°$ throughout. the horizon $r = 2GM$ corresponds to $T = \pm X$, a **null surface**.
 
-the original Schwarzschild coordinates only cover the region $X > |T|$ (Region I). but the Kruskal coordinates extend everywhere, revealing **four regions**:
+the original Schwarzschild coordinates only cover the region $X > \lvert T\rvert$ (Region I). but the Kruskal coordinates extend everywhere, revealing **four regions**:
 
-- **Region I**, $X > |T|$: the exterior of the black hole, the original Schwarzschild geometry
-- **Region II**, $T > |X|$: the **inside of the black hole**. all future-directed timelike worldlines hit $r = 0$ (the upper hyperbola). this is where things fall to die.
-- **Region III**, $T < -|X|$: the inside of a **white hole**. opposite of region II.
-- **Region IV**, $X < -|T|$: another exterior region, a **mirror copy** of region I, **causally disconnected** from region I. connected to it only by a wormhole at $T = 0$.
+- **Region I**, $X > \lvert T\rvert$: the exterior of the black hole, the original Schwarzschild geometry
+- **Region II**, $T > \lvert X\rvert$: the **inside of the black hole**. all future-directed timelike worldlines hit $r = 0$ (the upper hyperbola). this is where things fall to die.
+- **Region III**, $T < -\lvert X\rvert$: the inside of a **white hole**. opposite of region II.
+- **Region IV**, $X < -\lvert T\rvert$: another exterior region, a **mirror copy** of region I, **causally disconnected** from region I. connected to it only by a wormhole at $T = 0$.
 
 regions I and IV are connected by an **Einstein-Rosen bridge** (wormhole), but it is **not traversable**: the regions are spacelike-separated, so you cannot send a signal through. these are not the science-fiction wormholes you can travel through.
 
@@ -180,13 +180,13 @@ $$r_\pm = GM \pm \sqrt{G^2 M^2 - Q^2}$$
 
 three cases:
 
-1. **$|Q| > GM$**: $\Delta$ has no zeros. **naked singularity**, no horizon. believed unphysical (cosmic censorship conjecture: nature forbids naked singularities).
-2. **$|Q| < GM$** (typical): two horizons, **outer** $r_+$ and **inner** $r_-$. spacetime is more complex than Schwarzschild: between the two horizons, $r$ is timelike (so $r$ must decrease toward the future); below $r_-$, $r$ is spacelike again, so an observer can avoid the singularity.
-3. **$|Q| = GM$**: **extremal black hole**. the two horizons merge. extremal RN BHs play a special role in string theory (BPS states, exact entropy formulas).
+1. **$\lvert Q\rvert > GM$**: $\Delta$ has no zeros. **naked singularity**, no horizon. believed unphysical (cosmic censorship conjecture: nature forbids naked singularities).
+2. **$\lvert Q\rvert < GM$** (typical): two horizons, **outer** $r_+$ and **inner** $r_-$. spacetime is more complex than Schwarzschild: between the two horizons, $r$ is timelike (so $r$ must decrease toward the future); below $r_-$, $r$ is spacelike again, so an observer can avoid the singularity.
+3. **$\lvert Q\rvert = GM$**: **extremal black hole**. the two horizons merge. extremal RN BHs play a special role in string theory (BPS states, exact entropy formulas).
 
 ### the extremal near-horizon geometry, AdS$_2 \times S^2$
 
-zooming in on the horizon of an extremal RN BH ($|Q| = GM$, $r_+ = r_- = GM$) gives a remarkable factorization:
+zooming in on the horizon of an extremal RN BH ($\lvert Q\rvert = GM$, $r_+ = r_- = GM$) gives a remarkable factorization:
 
 $$ds^2 \to -\frac{\eta^2}{(GM)^2}dt^2 + \frac{(GM)^2}{\eta^2}d\eta^2 + (GM)^2 d\Omega^2$$
 
@@ -232,7 +232,7 @@ inside the ergoregion, the **conserved energy** $E = -K^\mu P_\mu$ of a particle
 this opens up the **Penrose process** for energy extraction:
 
 1. drop an object into the ergoregion
-2. inside the ergoregion, split it into two pieces: piece A with $E_A < 0$, piece B with $E_B = E_{\rm in} + |E_A| > E_{\rm in}$
+2. inside the ergoregion, split it into two pieces: piece A with $E_A < 0$, piece B with $E_B = E_{\rm in} + \lvert E_A\rvert > E_{\rm in}$
 3. piece A falls into the BH (carrying away negative energy and reducing the BH's mass), piece B escapes carrying **more energy than the original object brought in**
 
 net effect: **energy is extracted from the rotational kinetic energy of the BH**. the BH spins down. you can extract up to about 29% of the BH's rest energy this way.

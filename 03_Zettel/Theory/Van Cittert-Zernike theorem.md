@@ -88,9 +88,9 @@ normalized:
 $$\gamma_{12}(\mathbf u) = \frac{I_1 e^{-2\pi i \mathbf u \cdot \boldsymbol\rho/2} + I_2 e^{+2\pi i \mathbf u \cdot \boldsymbol\rho/2}}{I_1 + I_2}$$
 
 (taking origin at the midpoint, with separation $\boldsymbol\rho$). magnitude:
-$$|\gamma_{12}|^2 = \frac{I_1^2 + I_2^2 + 2 I_1 I_2 \cos(2\pi \mathbf u \cdot \boldsymbol\rho)}{(I_1 + I_2)^2}$$
+$$\lvert \gamma_{12}\rvert^2 = \frac{I_1^2 + I_2^2 + 2 I_1 I_2 \cos(2\pi \mathbf u \cdot \boldsymbol\rho)}{(I_1 + I_2)^2}$$
 
-oscillates with baseline projection along $\boldsymbol\rho$. period in baseline = $\lambda/|\boldsymbol\rho|$.
+oscillates with baseline projection along $\boldsymbol\rho$. period in baseline = $\lambda/\lvert \boldsymbol\rho\rvert$.
 
 so a "fringe in the visibility" reveals the binary nature.
 

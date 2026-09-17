@@ -5,7 +5,7 @@ title: "Gauss elimination"
 {% raw %}
 # Gauss elimination
 
-the textbook algorithm for solving $A\mathbf{x} = \mathbf{b}$ where $A$ is a square $N \times N$ matrix and $\mathbf{b}$ is a known vector. the idea: row-reduce the augmented matrix $[A | \mathbf{b}]$ to upper triangular, then back-substitute.
+the textbook algorithm for solving $A\mathbf{x} = \mathbf{b}$ where $A$ is a square $N \times N$ matrix and $\mathbf{b}$ is a known vector. the idea: row-reduce the augmented matrix $[A \mid \mathbf{b}]$ to upper triangular, then back-substitute.
 
 ## the math
 

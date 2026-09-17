@@ -28,7 +28,7 @@ where $\tau = mt$ and:
 $$A_k \equiv \frac{k^2/a^2 + m_\chi^2}{m^2} + 2q, \quad q \equiv \frac{g^2 \Phi^2}{4 m^2}$$
 
 ### Broad resonance regime ($q \gg 1$)
-Whenever the oscillating inflaton crosses zero ($\phi = 0$), the adiabaticity condition $|\dot{\omega}_k / \omega_k^2| \ll 1$ is strongly violated. Particles are created in non-adiabatic bursts:
+Whenever the oscillating inflaton crosses zero ($\phi = 0$), the adiabaticity condition $\lvert\dot{\omega}_k / \omega_k^2\rvert \ll 1$ is strongly violated. Particles are created in non-adiabatic bursts:
 $$n_k(\tau) \propto e^{2\mu_k \tau}$$
 with Floquet growth exponent $\mu_k \sim 0.1 - 0.2$.
 

@@ -40,7 +40,7 @@ Let $\mathbf{D} \in \mathbb{R}^N$ denote an observed astrophysical dataset (e.g.
 
 Bayes' Theorem follows directly from the product rule of probability:
 
-$$P(\boldsymbol{\theta} | \mathbf{D}, \mathcal{M}) = \frac{P(\mathbf{D} | \boldsymbol{\theta}, \mathcal{M}) \, P(\boldsymbol{\theta} | \mathcal{M})}{P(\mathbf{D} | \mathcal{M})} = \frac{\mathcal{L}(\boldsymbol{\theta}) \, \pi(\boldsymbol{\theta})}{\mathcal{Z}}$$
+$$P(\boldsymbol{\theta} \mid \mathbf{D}, \mathcal{M}) = \frac{P(\mathbf{D} \mid \boldsymbol{\theta}, \mathcal{M}) \, P(\boldsymbol{\theta} \mid \mathcal{M})}{P(\mathbf{D} \mid \mathcal{M})} = \frac{\mathcal{L}(\boldsymbol{\theta}) \, \pi(\boldsymbol{\theta})}{\mathcal{Z}}$$
 
 ```
                                       Likelihood L(\theta) ─── What the data say
@@ -52,15 +52,15 @@ $$P(\boldsymbol{\theta} | \mathbf{D}, \mathcal{M}) = \frac{P(\mathbf{D} | \bolds
 ```
 
 ### Components of the Theorem
-1. **Prior Probability $\pi(\boldsymbol{\theta}) \equiv P(\boldsymbol{\theta} | \mathcal{M})$**:
+1. **Prior Probability $\pi(\boldsymbol{\theta}) \equiv P(\boldsymbol{\theta} \mid \mathcal{M})$**:
    Quantifies the state of physical knowledge regarding $\boldsymbol{\theta}$ prior to incorporating current dataset $\mathbf{D}$ (e.g., stellar radius from Gaia parallax, or positive bounds on gas mixing ratios).
-2. **Likelihood Function $\mathcal{L}(\boldsymbol{\theta}) \equiv P(\mathbf{D} | \boldsymbol{\theta}, \mathcal{M})$**:
+2. **Likelihood Function $\mathcal{L}(\boldsymbol{\theta}) \equiv P(\mathbf{D} \mid \boldsymbol{\theta}, \mathcal{M})$**:
    The probability of observing the empirical dataset $\mathbf{D}$ given a specific realization of model parameters $\boldsymbol{\theta}$. For independent Gaussian observational uncertainties $\sigma_k$:
    $$\mathcal{L}(\boldsymbol{\theta}) = \prod_{k=1}^K \frac{1}{\sqrt{2\pi \sigma_k^2}} \exp\left( -\frac{[y_k - f_k(\boldsymbol{\theta})]^2}{2\sigma_k^2} \right)$$
    $$\ln \mathcal{L}(\boldsymbol{\theta}) = -\frac{1}{2} \sum_{k=1}^K \left[ \frac{[y_k - f_k(\boldsymbol{\theta})]^2}{\sigma_k^2} + \ln(2\pi \sigma_k^2) \right] = -\frac{1}{2} \chi^2(\boldsymbol{\theta}) + \text{const}$$
-3. **Posterior Probability $P(\boldsymbol{\theta} | \mathbf{D}, \mathcal{M})$**:
+3. **Posterior Probability $P(\boldsymbol{\theta} \mid \mathbf{D}, \mathcal{M})$**:
    The joint probability distribution of physical parameters updated by the observational data.
-4. **Marginal Likelihood (Bayesian Evidence) $\mathcal{Z} \equiv P(\mathbf{D} | \mathcal{M})$**:
+4. **Marginal Likelihood (Bayesian Evidence) $\mathcal{Z} \equiv P(\mathbf{D} \mid \mathcal{M})$**:
    The multidimensional integral normalizing the posterior over the entire prior volume:
    $$\mathcal{Z} = \int_{\Omega_{\boldsymbol{\theta}}} \mathcal{L}(\boldsymbol{\theta}) \pi(\boldsymbol{\theta}) \, d^M\boldsymbol{\theta}$$
 
@@ -72,19 +72,19 @@ When the prior and posterior belong to the same probability distribution family,
 
 Consider $n$ Bernoulli trials resulting in $k$ successes (e.g., detecting $k$ transits in $n$ observed stellar orbits):
 - **Binomial Likelihood**:
-  $$P(k | n, p) = \binom{n}{k} p^k (1 - p)^{n - k}$$
+  $$P(k \mid n, p) = \binom{n}{k} p^k (1 - p)^{n - k}$$
 - **Beta Prior**:
-  $$\pi(p | \alpha, \beta) = \frac{1}{\text{B}(\alpha, \beta)} p^{\alpha - 1} (1 - p)^{\beta - 1}$$
+  $$\pi(p \mid \alpha, \beta) = \frac{1}{\text{B}(\alpha, \beta)} p^{\alpha - 1} (1 - p)^{\beta - 1}$$
   where $\text{B}(\alpha, \beta) = \int_0^1 u^{\alpha - 1} (1 - u)^{\beta - 1} du = \frac{\Gamma(\alpha)\Gamma(\beta)}{\Gamma(\alpha + \beta)}$ is the Beta function.
 
 ### Exact Posterior Update
 Multiplying prior by likelihood:
 
-$$P(p | k, n, \alpha, \beta) \propto p^k (1 - p)^{n - k} \cdot p^{\alpha - 1} (1 - p)^{\beta - 1} = p^{(\alpha + k) - 1} (1 - p)^{(\beta + n - k) - 1}$$
+$$P(p \mid k, n, \alpha, \beta) \propto p^k (1 - p)^{n - k} \cdot p^{\alpha - 1} (1 - p)^{\beta - 1} = p^{(\alpha + k) - 1} (1 - p)^{(\beta + n - k) - 1}$$
 
 The posterior is identically a Beta distribution with updated parameters:
 
-$$P(p | k, n, \alpha, \beta) = \text{Beta}(p | \alpha + k, \, \beta + n - k)$$
+$$P(p \mid k, n, \alpha, \beta) = \text{Beta}(p \mid \alpha + k, \, \beta + n - k)$$
 
 ```
 Prior: Beta(\alpha, \beta)  ───[Observation: k successes in n trials]───►  Posterior: Beta(\alpha + k, \beta + n - k)
@@ -98,14 +98,14 @@ Prior: Beta(\alpha, \beta)  ───[Observation: k successes in n trials]─�
 
 ### Point Estimators and Credible Intervals
 1. **Posterior Mean**:
-   $$\mathbb{E}[p | k, n] = \int_0^1 p \, P(p | k, n) \, dp = \frac{\alpha + k}{\alpha + \beta + n}$$
+   $$\mathbb{E}[p \mid k, n] = \int_0^1 p \, P(p \mid k, n) \, dp = \frac{\alpha + k}{\alpha + \beta + n}$$
    As $n \to \infty$, $\mathbb{E}[p] \to \frac{k}{n}$, recovering the Frequentist Maximum Likelihood Estimator (MLE).
 2. **Maximum A Posteriori (MAP)**:
    The mode of the posterior distribution:
    $$p_{\text{MAP}} = \frac{\alpha + k - 1}{\alpha + \beta + n - 2} \quad (\text{for } \alpha+k > 1, \beta+n-k > 1)$$
 3. **Highest Posterior Density (HPD / HDI) Interval**:
    A $100(1 - \alpha)\%$ HDI encompasses the narrowest parameter credible region such that every point inside possesses higher posterior density than any point outside:
-   $$\int_{\text{HDI}} P(\boldsymbol{\theta} | \mathbf{D}) d\boldsymbol{\theta} = 1 - \alpha$$
+   $$\int_{\text{HDI}} P(\boldsymbol{\theta} \mid \mathbf{D}) d\boldsymbol{\theta} = 1 - \alpha$$
 
 ---
 
@@ -120,7 +120,7 @@ Model 2 (\mathcal{M}_2): Flat Cloudy Atmosphere (No Molecules)  ───► Evi
 
 The relative plausibility of two competing models $\mathcal{M}_1$ and $\mathcal{M}_2$ given data $\mathbf{D}$ is evaluated via **Posterior Odds**:
 
-$$\frac{P(\mathcal{M}_1 | \mathbf{D})}{P(\mathcal{M}_2 | \mathbf{D})} = \frac{P(\mathbf{D} | \mathcal{M}_1)}{P(\mathbf{D} | \mathcal{M}_2)} \times \frac{P(\mathcal{M}_1)}{P(\mathcal{M}_2)} = \mathcal{B}_{12} \times \frac{P(\mathcal{M}_1)}{P(\mathcal{M}_2)}$$
+$$\frac{P(\mathcal{M}_1 \mid \mathbf{D})}{P(\mathcal{M}_2 \mid \mathbf{D})} = \frac{P(\mathbf{D} \mid \mathcal{M}_1)}{P(\mathbf{D} \mid \mathcal{M}_2)} \times \frac{P(\mathcal{M}_1)}{P(\mathcal{M}_2)} = \mathcal{B}_{12} \times \frac{P(\mathcal{M}_1)}{P(\mathcal{M}_2)}$$
 
 where $\mathcal{B}_{12} \equiv \frac{\mathcal{Z}_1}{\mathcal{Z}_2}$ is the **Bayes Factor** (ratio of marginal likelihoods).
 
@@ -153,7 +153,7 @@ Standard numerical quadrature scaling:
 - For $K = 100$ and $M = 15$: $100^{15} = 10^{30}$ evaluations. At $1\text{ ms}$ per forward model, this requires $10^{19}\text{ years}$.
 
 To sample these parameter spaces:
-1. **Markov Chain Monte Carlo (MCMC)**: Generates samples distributed asymptotically according to the posterior $P(\boldsymbol{\theta} | \mathbf{D})$. Highly effective for parameter estimation, but incapable of evaluating the evidence $\mathcal{Z}$ accurately because MCMC chains spend negligible time sampling low-likelihood prior regions.
+1. **Markov Chain Monte Carlo (MCMC)**: Generates samples distributed asymptotically according to the posterior $P(\boldsymbol{\theta} \mid \mathbf{D})$. Highly effective for parameter estimation, but incapable of evaluating the evidence $\mathcal{Z}$ accurately because MCMC chains spend negligible time sampling low-likelihood prior regions.
 2. **Nested Sampling (Skilling 2004)**: Specifically designed to compute the evidence $\mathcal{Z}$ directly while generating posterior samples as a secondary product.
 
 ---

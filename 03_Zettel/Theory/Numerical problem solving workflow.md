@@ -34,7 +34,7 @@ problem: find the root of $\cos(x) - x = 0$ on $[0, \pi/2]$.
 3. **algorithm**: bisection (bulletproof, log-time) or Newton ($f'(x) = -\sin(x) - 1$, smooth, can do better). pick Newton for speed, fall back to bisection if it diverges
 4. **validate**: $f(0) = 1 > 0$, $f(\pi/2) = -\pi/2 < 0$, so a root exists in the interval (intermediate value theorem). I expect $x^* \approx 0.74$ from a quick mental estimate
 5. **code**: 10-line Newton loop, tolerance $10^{-10}$
-6. **plot**: $f(x)$ on $[0, \pi/2]$ with the converged root marked, plus $|x_n - x^*|$ vs $n$ on log scale (should be linear with slope = quadratic convergence rate)
+6. **plot**: $f(x)$ on $[0, \pi/2]$ with the converged root marked, plus $\lvert x_n - x^*\rvert$ vs $n$ on log scale (should be linear with slope = quadratic convergence rate)
 7. **answer**: $x^* = 0.7390851332$, converged in 5 iterations from $x_0 = 0$
 
 every exam exercise is this template scaled to a different class. recognising that is what makes exercise 4 feel like a 45-minute task rather than a 3-hour panic.

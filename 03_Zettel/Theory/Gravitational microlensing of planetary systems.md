@@ -21,7 +21,7 @@ $$A(u) = \frac{u^2 + 2}{u \sqrt{u^2 + 4}} > 1$$
 
 when a planet of mass $M_p = q M_L$ ($q \ll 1$) orbits the lens at projected separation $s = d / \theta_E$, it acts as a binary lens. the 2D lens mapping is:
 
-$$\boldsymbol{\zeta} = \mathbf{z} - \frac{1}{1+q}\frac{\mathbf{z} - \mathbf{z}_1}{|\mathbf{z} - \mathbf{z}_1|^2} - \frac{q}{1+q}\frac{\mathbf{z} - \mathbf{z}_2}{|\mathbf{z} - \mathbf{z}_2|^2}$$
+$$\boldsymbol{\zeta} = \mathbf{z} - \frac{1}{1+q}\frac{\mathbf{z} - \mathbf{z}_1}{\lvert \mathbf{z} - \mathbf{z}_1\rvert^2} - \frac{q}{1+q}\frac{\mathbf{z} - \mathbf{z}_2}{\lvert \mathbf{z} - \mathbf{z}_2\rvert^2}$$
 
 where $\boldsymbol{\zeta}$ is source position and $\mathbf{z}$ is image position.
 the determinant of the Jacobian $\det J = 0$ defines closed curves in the source plane called **caustics**. when the background source crosses a caustic curve, magnification formally diverges ($A \to \infty$), producing sharp, asymmetric spike anomalies in the light curve lasting hours to days.

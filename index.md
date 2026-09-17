@@ -9,7 +9,7 @@ title: "Master's Curriculum in Astrophysics & Cosmology"
     Master's Curriculum in Astrophysics and Cosmology (Semesters 1-3) — Università degli Studi di Padova
   </p>
   <p style="font-size: 0.9rem; color: var(--text-muted, #54595d); max-width: 650px; margin: 6px auto 0; font-style: italic; font-family: 'Linux Libertine', Georgia, serif;">
-    An open digital garden of graduate lecture notes, derivations, Maps of Content, and observational figures.
+    From your BRAT astrophysicist for your astronotes &mdash; an open digital garden of graduate lecture notes, derivations, Maps of Content, and observational figures.
   </p>
 </div>
 

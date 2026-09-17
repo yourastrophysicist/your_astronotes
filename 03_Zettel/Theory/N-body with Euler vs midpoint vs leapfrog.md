@@ -109,7 +109,7 @@ the cost of leapfrog is the same as midpoint (one acceleration per step). there 
 
 ## the exam connection
 
-the exam template's exercise 4 (Pythagorean three-body) asks for **midpoint** integration. this is *deliberate*: the midpoint scheme will show a non-trivial energy drift, which is the diagnostic the question is testing. if I integrated the same problem with leapfrog, $|\Delta E/E|$ would be much smaller — a different answer.
+the exam template's exercise 4 (Pythagorean three-body) asks for **midpoint** integration. this is *deliberate*: the midpoint scheme will show a non-trivial energy drift, which is the diagnostic the question is testing. if I integrated the same problem with leapfrog, $\lvert \Delta E/E\rvert$ would be much smaller — a different answer.
 
 so for the exam, the question's choice of integrator is part of the problem. follow what is asked.
 

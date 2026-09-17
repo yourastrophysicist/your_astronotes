@@ -13,7 +13,7 @@ if a star rotates with equatorial velocity $v$, different parts of the visible h
 
 for a uniformly rotating, limb-darkened sphere, the rotational broadening profile is approximately
 $$G(\Delta\lambda) = \frac{2(1-\epsilon)\sqrt{1 - (\Delta\lambda/\Delta\lambda_L)^2} + \frac{\pi\epsilon}{2}(1 - (\Delta\lambda/\Delta\lambda_L)^2)}{\pi\Delta\lambda_L (1 - \epsilon/3)},$$
-defined over $|\Delta\lambda| \leq \Delta\lambda_L$ with
+defined over $\lvert \Delta\lambda\rvert \leq \Delta\lambda_L$ with
 $$\Delta\lambda_L = \frac{\lambda_0\,v\sin i}{c}.$$
 $\epsilon$ is the linear limb-darkening coefficient. the kernel is non-Gaussian: it has finite half-width $\Delta\lambda_L$ and steep edges, distinguishing rotational broadening from thermal/microturbulent broadening (which are Gaussian).
 

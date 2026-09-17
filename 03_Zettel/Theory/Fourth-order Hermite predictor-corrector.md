@@ -64,7 +64,7 @@ def hermite_step(r, v, a, adot, force_and_jerk, h):
 
 Aarseth's standard "individual timestep" formula:
 
-$$\Delta t_i = \eta \sqrt{\frac{|\mathbf{a}_i|}{|\ddot{\mathbf{a}}_i|}}$$
+$$\Delta t_i = \eta \sqrt{\frac{\lvert \mathbf{a}_i\lvert }{\rvert\ddot{\mathbf{a}}_i\rvert}}$$
 
 with $\eta \sim 0.02$ a tuning parameter. each particle has its own timestep, scaled with the local dynamical timescale. close encounters get tiny $\Delta t$; particles in the cluster halo get large $\Delta t$. typically combined with **block timesteps** (each particle's step is $2^{-k}$ for some integer $k$) to allow synchronization.
 

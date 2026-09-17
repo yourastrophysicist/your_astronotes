@@ -22,17 +22,17 @@ so the *choice* of rewriting determines whether the method works.
 
 ## convergence condition
 
-the iteration $x_{n+1} = g(x_n)$ converges to a fixed point $x^*$ iff $|g'(x^*)| < 1$ (and we start close enough). proof: by Taylor,
+the iteration $x_{n+1} = g(x_n)$ converges to a fixed point $x^*$ iff $\lvert g'(x^*)\rvert < 1$ (and we start close enough). proof: by Taylor,
 $$x_{n+1} - x^* = g(x_n) - g(x^*) \approx g'(x^*)(x_n - x^*)$$
 
-so the error multiplies by $g'(x^*)$ each step. if $|g'| < 1$ the error shrinks (linear convergence with rate $|g'|$). if $|g'| > 1$ it grows. if $|g'| = 0$, convergence is super-linear (this is what Newton achieves by construction).
+so the error multiplies by $g'(x^*)$ each step. if $\lvert g'\rvert < 1$ the error shrinks (linear convergence with rate $\lvert g'\rvert$). if $\lvert g'\rvert > 1$ it grows. if $\lvert g'\rvert = 0$, convergence is super-linear (this is what Newton achieves by construction).
 
 ## convergence rate
 
-linear: error $\sim |g'(x^*)|^n$. iterations to tolerance $\epsilon$:
-$$n \sim \frac{\log(1/\epsilon)}{\log(1/|g'(x^*)|)}$$
+linear: error $\sim \lvert g'(x^*)\rvert^n$. iterations to tolerance $\epsilon$:
+$$n \sim \frac{\log(1/\epsilon)}{\log(1/\lvert g'(x^*)\rvert)}$$
 
-for $|g'| = 0.9$: 219 steps to $\epsilon = 10^{-10}$. for $|g'| = 0.5$: 33 steps. for $|g'| = 0.1$: 10 steps. compare: bisection is $\log_2(1/\epsilon) \approx 33$ steps for $\epsilon = 10^{-10}$, regardless of the function.
+for $\lvert g'\rvert = 0.9$: 219 steps to $\epsilon = 10^{-10}$. for $\lvert g'\rvert = 0.5$: 33 steps. for $\lvert g'\rvert = 0.1$: 10 steps. compare: bisection is $\log_2(1/\epsilon) \approx 33$ steps for $\epsilon = 10^{-10}$, regardless of the function.
 
 ## python implementation
 
@@ -49,18 +49,18 @@ def relaxation(g, x0, tol=1e-10, max_iter=10000):
 
 ## overrelaxation
 
-if the iteration converges but slowly (because $|g'|$ is close to 1 from below), accelerate by overshooting:
+if the iteration converges but slowly (because $\lvert g'\rvert$ is close to 1 from below), accelerate by overshooting:
 
 $$x_{n+1} = x_n + \omega (g(x_n) - x_n)$$
 
-with $\omega > 1$. for the optimal $\omega$ (which depends on $g'$), the effective $|g'_{\rm eff}| = |1 + \omega(g' - 1)|$ can be much smaller than $|g'|$.
+with $\omega > 1$. for the optimal $\omega$ (which depends on $g'$), the effective $\lvert g'_{\rm eff}\rvert = \lvert 1 + \omega(g' - 1)\rvert$ can be much smaller than $\lvert g'\rvert$.
 
 if $\omega = 1$: standard relaxation.
 if $\omega < 1$: under-relaxation, slows things down (useful when relaxation oscillates around the root).
 
 picking $\omega$:
 - start with $\omega = 1$, observe convergence rate
-- estimate $g'$ from successive errors: $|g'| \approx |x_{n+1} - x_n|/|x_n - x_{n-1}|$
+- estimate $g'$ from successive errors: $\lvert g'\rvert \approx \lvert x_{n+1} - x_n\rvert / \lvert x_n - x_{n-1}\rvert$
 - for the optimum: $\omega^* = 2/(1 + \sqrt{1 - g'(x^*)^2})$ for symmetric problems
 
 in practice the optimal $\omega$ depends on the specific problem and is often found empirically.

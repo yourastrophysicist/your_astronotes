@@ -61,7 +61,7 @@ note the **error estimate is part of the output**. unlike deterministic rules, M
 
 ## the convergence plot (the standard exam diagnostic)
 
-run for $N = 10^3, 10^4, 10^5, 10^6$. plot $|\hat I - I_{\rm exact}|$ vs $N$ on log-log axes. expected slope: $-1/2$.
+run for $N = 10^3, 10^4, 10^5, 10^6$. plot $\lvert \hat I - I_{\rm exact}\rvert$ vs $N$ on log-log axes. expected slope: $-1/2$.
 
 ```python
 Ns = [10**i for i in range(2, 7)]

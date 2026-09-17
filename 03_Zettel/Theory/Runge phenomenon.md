@@ -28,7 +28,7 @@ the interpolation error is
 
 $$f(x) - L(x) = \frac{f^{(N+1)}(\xi)}{(N+1)!} \prod_{i=0}^N (x - x_i)$$
 
-the issue is the **node polynomial** $\omega(x) = \prod (x - x_i)$. for equispaced $x_i$, $|\omega|$ is small in the middle of the interval but grows rapidly toward the endpoints. for $f$ analytic but with poles in the complex plane near $\pm 1$ (Runge's example has poles at $x = \pm i/5$), $f^{(N+1)}/(N+1)!$ does not decay fast enough to compensate.
+the issue is the **node polynomial** $\omega(x) = \prod (x - x_i)$. for equispaced $x_i$, $\lvert \omega\rvert$ is small in the middle of the interval but grows rapidly toward the endpoints. for $f$ analytic but with poles in the complex plane near $\pm 1$ (Runge's example has poles at $x = \pm i/5$), $f^{(N+1)}/(N+1)!$ does not decay fast enough to compensate.
 
 ## the cure: Chebyshev nodes
 
@@ -36,7 +36,7 @@ place the interpolation points at the **Chebyshev nodes**:
 
 $$x_k = \cos\left(\frac{(2k+1)\pi}{2(N+1)}\right), \quad k = 0, 1, \ldots, N$$
 
-these nodes cluster near the endpoints, giving them more "support." the Chebyshev nodes minimize the maximum of $|\omega(x)|$ over $[-1, 1]$, killing Runge.
+these nodes cluster near the endpoints, giving them more "support." the Chebyshev nodes minimize the maximum of $\lvert \omega(x)\rvert$ over $[-1, 1]$, killing Runge.
 
 with Chebyshev nodes:
 - the interpolation error decays exponentially with $N$ for analytic $f$

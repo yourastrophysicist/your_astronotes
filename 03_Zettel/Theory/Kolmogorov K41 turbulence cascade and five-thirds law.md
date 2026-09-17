@@ -24,7 +24,7 @@ $$\epsilon = \frac{dE}{dt} \sim \frac{u_{\text{rms}}^3}{L} = \text{const}$$
 
 the turbulent kinetic energy per unit mass is related to the omnidirectional energy spectrum $E(k)$ by:
 
-$$\frac{1}{2} \langle |\mathbf{u}'|^2 \rangle = \int_0^\infty E(k) \, dk$$
+$$\frac{1}{2} \langle   \vert\mathbf{u}'\vert ^2 \rangle = \int_0^\infty E(k) \, dk$$
 
 by dimensional analysis in the inertial subrange, $E(k)$ can depend only on wavenumber $k$ ($[k] = \text{L}^{-1}$) and dissipation rate $\epsilon$ ($[\epsilon] = \text{L}^2 \text{T}^{-3}$):
 

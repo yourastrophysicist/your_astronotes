@@ -18,8 +18,8 @@ where $\epsilon = r / R_0 \ll 1$ is the inverse aspect ratio, and $\theta$ is th
 ## trapped versus passing particles
 
 because the magnetic field is stronger on the inboard side, the tokamak functions as a toroidal magnetic mirror:
-1. **passing particles**: particles with large parallel velocity $|v_\parallel| / v > \sqrt{2\epsilon}$ circulate continuously around the torus.
-2. **trapped particles**: particles with $|v_\parallel| / v \le \sqrt{2\epsilon}$ are mirrored before reaching the inboard side, bouncing back and forth on the outboard side.
+1. **passing particles**: particles with large parallel velocity $\lvert v_\parallel\rvert / v > \sqrt{2\epsilon}$ circulate continuously around the torus.
+2. **trapped particles**: particles with $\lvert v_\parallel\rvert / v \le \sqrt{2\epsilon}$ are mirrored before reaching the inboard side, bouncing back and forth on the outboard side.
    the trapped fraction of particles is:
    $$f_{\text{tr}} \approx \sqrt{2\epsilon} = \sqrt{\frac{2r}{R_0}}$$
 

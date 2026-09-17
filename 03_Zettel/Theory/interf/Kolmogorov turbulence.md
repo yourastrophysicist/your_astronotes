@@ -17,14 +17,14 @@ between $\ell_0 < r < L_0$ — the **inertial range** — the only relevant para
 
 dimensional analysis: the only velocity-dimension quantity is $(\epsilon r)^{1/3}$. so the velocity difference across a separation $r$ scales as
 
-$$|\Delta v(r)|^2 \sim (\epsilon r)^{2/3}$$
+$$\lvert \Delta v(r)\rvert^2 \sim (\epsilon r)^{2/3}$$
 
 the **Kolmogorov 2/3 power law**.
 
 ## structure function
 
 formally, the second-order structure function:
-$$D_v(r) = \langle |\mathbf v(\mathbf x + \mathbf r) - \mathbf v(\mathbf x)|^2 \rangle = C_v^2 r^{2/3}$$
+$$D_v(r) = \langle   \vert\mathbf v(\mathbf x + \mathbf r) - \mathbf v(\mathbf x)\vert ^2 \rangle = C_v^2 r^{2/3}$$
 
 with $C_v^2 \sim \epsilon^{2/3}$ a constant of proportionality.
 

@@ -300,9 +300,9 @@ To measure $T$: fit the **spectral shape** — the exponential cutoff energy dir
 Each electron of Lorentz factor $\gamma$ emits near $\nu_c \propto \gamma^2 qB/m_ec$, so $\gamma \propto (\nu/\nu_0)^{1/2}$.
 
 For electron distribution $N(\gamma) \propto \gamma^{-s}$:
-$$j(\nu) \propto N(\gamma) \cdot P_{syn}(\gamma) \cdot |d\gamma/d\nu|$$
+$$j(\nu) \propto N(\gamma) \cdot P_{syn}(\gamma) \cdot \lvert d\gamma/d\nu\rvert$$
 
-$P_{syn} \propto \gamma^2$, $|d\gamma/d\nu| \propto \gamma^{-1} \propto \nu^{-1/2}$, $N(\gamma) \propto \gamma^{-s} \propto \nu^{-s/2}$:
+$P_{syn} \propto \gamma^2$, $\lvert d\gamma/d\nu\rvert \propto \gamma^{-1} \propto \nu^{-1/2}$, $N(\gamma) \propto \gamma^{-s} \propto \nu^{-s/2}$:
 $$j(\nu) \propto \nu^{-s/2} \cdot \nu \cdot \nu^{-1/2} = \nu^{(1-s)/2}$$
 
 So $f_\nu \propto \nu^{-\alpha}$ with $\alpha = (s-1)/2$. Steeper electron spectrum → steeper synchrotron spectrum. The cooling break: high-$\gamma$ electrons cool faster ($t_c \propto 1/\gamma$), steepening the electron spectrum by 1 above the break → synchrotron spectrum steepens by $\Delta\alpha = 0.5$.

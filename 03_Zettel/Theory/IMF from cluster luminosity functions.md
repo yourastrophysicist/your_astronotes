@@ -11,13 +11,13 @@ how do we measure the [stellar mass function](./Stellar%20mass%20function%20xi%2
 2. apply a theoretical or empirical **mass-luminosity relation** $M = M(L)$ from Stellar evolution tracks for the cluster's age and [metallicity](./Stellar%20populations%20I%20II%20III.html),
 3. use the chain rule:
 
-$$\xi(M) = \frac{dN}{dM} = \Phi(M_V) \, \left| \frac{dM_V}{dM} \right|.$$
+$$\xi(M) = \frac{dN}{dM} = \Phi(M_V) \, \left\lvert \frac{dM_V}{dM} \right\rvert.$$
 
-the jacobian $|dM_V/dM|$ is the local slope of the [M-L relation](./Mass-luminosity%20relation.html) on the MS.
+the jacobian $\lvert dM_V/dM\rvert$ is the local slope of the [M-L relation](./Mass-luminosity%20relation.html) on the MS.
 
 **why this is hard at low mass**
 
-the M-L relation flattens as $M \to 0.1\,M_\odot$: a small change in mass produces a large change in luminosity (or, equivalently, $|dM_V/dM|$ becomes large). this means:
+the M-L relation flattens as $M \to 0.1\,M_\odot$: a small change in mass produces a large change in luminosity (or, equivalently, $\lvert dM_V/dM\rvert$ becomes large). this means:
 
 - a small intrinsic spread in mass produces a large spread in $M_V$,
 - many low-mass stars accumulate near a "bunching" magnitude,

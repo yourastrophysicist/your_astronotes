@@ -89,7 +89,7 @@ a **vector at a point $p$** is a derivative operator. it acts on functions $f$ o
 
 formally, if $\gamma(\lambda)$ is a curve through $p$ at $\lambda = 0$, the tangent vector to $\gamma$ at $p$ is
 
-$$V_p(f) \equiv \frac{d}{d\lambda} f(\gamma(\lambda))\Big|_{\lambda = 0}$$
+$$V_p(f) \equiv \frac{d}{d\lambda} f(\gamma(\lambda))\Big\vert_{\lambda = 0}$$
 
 in coordinates, $V_p(f) = (dx^\mu/d\lambda)\,\partial_\mu f|_p$, so the **components** of $V_p$ are $V^\mu = dx^\mu/d\lambda$.
 
@@ -108,7 +108,7 @@ example, polar coordinates in 2D flat space:
 $$\partial_r = \cos\phi\, \partial_x + \sin\phi\, \partial_y$$
 $$\partial_\phi = -r\sin\phi\, \partial_x + r\cos\phi\, \partial_y$$
 
-unlike cartesian basis vectors, **the polar basis vectors depend on position**. $\partial_\phi$ is short near the origin and long far away (because $|\partial_\phi| = r$). this is exactly why Christoffel symbols (Block 1) are non-zero in polar coordinates: the basis is twisting as i move.
+unlike cartesian basis vectors, **the polar basis vectors depend on position**. $\partial_\phi$ is short near the origin and long far away (because $\lvert \partial_\phi\rvert = r$). this is exactly why Christoffel symbols (Block 1) are non-zero in polar coordinates: the basis is twisting as i move.
 
 ### transformation rules
 
@@ -131,7 +131,7 @@ a **co-vector** (also called a one-form, or a "vector with a downstairs index") 
 i have seen co-vectors before, but with different names:
 
 - in **linear algebra**: row vector vs column vector (transpose)
-- in **quantum mechanics**: bra $\langle\psi|$ vs ket $|\psi\rangle$
+- in **quantum mechanics**: bra $\langle \psi \vert$ vs ket $\vert \psi \rangle$
 - in **special relativity**: $V_\mu = \eta_{\mu\nu}V^\nu$ vs $V^\mu$ (raising/lowering with $\eta$)
 
 the canonical example: **the differential of a function**. given a function $f$, define $df$ by

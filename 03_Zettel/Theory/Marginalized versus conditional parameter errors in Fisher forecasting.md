@@ -19,7 +19,7 @@ Geometrically, $\sigma_{\rm conditional}(\theta_i)$ represents the half-width of
 ## Marginalized Errors
 
 In reality, all cosmological parameters must be inferred simultaneously from the data. The marginalized distribution integrates out all parameters other than $\theta_i$:
-$$p(\theta_i|D) = \int p(\theta_1, \dots, \theta_k|D) \, d\theta_1 \dots d\theta_{i-1} d\theta_{i+1} \dots d\theta_k$$
+$$p(\theta_i \mid D) = \int p(\theta_1, \dots, \theta_k \mid D) \, d\theta_1 \dots d\theta_{i-1} d\theta_{i+1} \dots d\theta_k$$
 
 Under the asymptotic Gaussian approximation, the covariance matrix of the joint posterior is the inverse Fisher matrix:
 $$C \equiv F^{-1}$$

@@ -5,7 +5,7 @@ title: "Metropolis-Hastings algorithm and detailed balance"
 {% raw %}
 # Metropolis-Hastings algorithm and detailed balance
 
-The Metropolis-Hastings (MH) algorithm (Metropolis et al. 1953, Hastings 1970) generates a sequence of correlated random samples from an unnormalized probability distribution $p(\theta|D) \propto p(D|\theta)p(\theta)$ by simulating an ergodic Markov chain that has the target distribution as its unique stationary state.
+The Metropolis-Hastings (MH) algorithm (Metropolis et al. 1953, Hastings 1970) generates a sequence of correlated random samples from an unnormalized probability distribution $p(\theta \mid D) \propto p(D \mid \theta)p(\theta)$ by simulating an ergodic Markov chain that has the target distribution as its unique stationary state.
 
 ## The Invariant Distribution and Detailed Balance
 
@@ -21,22 +21,22 @@ $$\int \pi(\theta) T(\theta \to \theta') \, d\theta = \pi(\theta') \int T(\theta
 ## Algorithm Construction
 
 The MH algorithm splits the transition into two steps: a proposal step followed by an acceptance/rejection step:
-$$T(\theta \to \theta') = q(\theta'|\theta) \alpha(\theta, \theta') + \left(1 - r(\theta)\right) \delta(\theta' - \theta)$$
-where $q(\theta'|\theta)$ is the proposal distribution, $\alpha(\theta, \theta')$ is the acceptance probability, and $r(\theta) = \int q(\phi|\theta) \alpha(\theta, \phi) \, d\phi$.
+$$T(\theta \to \theta') = q(\theta' \mid \theta) \alpha(\theta, \theta') + \left(1 - r(\theta)\right) \delta(\theta' - \theta)$$
+where $q(\theta' \mid \theta)$ is the proposal distribution, $\alpha(\theta, \theta')$ is the acceptance probability, and $r(\theta) = \int q(\phi \mid \theta) \alpha(\theta, \phi) \, d\phi$.
 
 Substituting into the detailed balance condition for $\theta' \ne \theta$:
-$$\pi(\theta) q(\theta'|\theta) \alpha(\theta, \theta') = \pi(\theta') q(\theta|\theta') \alpha(\theta', \theta)$$
-$$\frac{\alpha(\theta, \theta')}{\alpha(\theta', \theta)} = \frac{\pi(\theta') q(\theta|\theta')}{\pi(\theta) q(\theta'|\theta)}$$
+$$\pi(\theta) q(\theta' \mid \theta) \alpha(\theta, \theta') = \pi(\theta') q(\theta \mid \theta') \alpha(\theta', \theta)$$
+$$\frac{\alpha(\theta, \theta')}{\alpha(\theta', \theta)} = \frac{\pi(\theta') q(\theta \mid \theta')}{\pi(\theta) q(\theta' \mid \theta)}$$
 
 Setting $\alpha(\theta', \theta) \le 1$ leads directly to the Metropolis-Hastings acceptance rule:
-$$\alpha(\theta, \theta') = \min\left( 1, \frac{\pi(\theta') q(\theta|\theta')}{\pi(\theta) q(\theta'|\theta)} \right)$$
+$$\alpha(\theta, \theta') = \min\left( 1, \frac{\pi(\theta') q(\theta \mid \theta')}{\pi(\theta) q(\theta' \mid \theta)} \right)$$
 
-For symmetric proposals ($q(\theta'|\theta) = q(\theta|\theta')$), the ratio reduces to the original Metropolis ratio $\pi(\theta') / \pi(\theta)$.
+For symmetric proposals ($q(\theta' \mid \theta) = q(\theta \mid \theta')$), the ratio reduces to the original Metropolis ratio $\pi(\theta') / \pi(\theta)$.
 
 ## Normalization Cancellation
 
-The primary practical power of the MH algorithm in Bayesian cosmology is that the normalizing evidence $p(D) = \int p(D|\theta)p(\theta)\,d\theta$ cancels identically:
-$$\frac{\pi(\theta')}{\pi(\theta)} = \frac{p(D|\theta') p(\theta') / p(D)}{p(D|\theta) p(\theta) / p(D)} = \frac{p(D|\theta') p(\theta')}{p(D|\theta) p(\theta)}$$
+The primary practical power of the MH algorithm in Bayesian cosmology is that the normalizing evidence $p(D) = \int p(D \mid \theta)p(\theta)\,d\theta$ cancels identically:
+$$\frac{\pi(\theta')}{\pi(\theta)} = \frac{p(D \mid \theta') p(\theta') / p(D)}{p(D \mid \theta) p(\theta) / p(D)} = \frac{p(D \mid \theta') p(\theta')}{p(D \mid \theta) p(\theta)}$$
 
 High-dimensional Bayesian posteriors can thus be mapped without evaluating the intractable evidence integral.
 

@@ -3,7 +3,7 @@ layout: "default"
 title: "Spherical collapse"
 ---
 {% raw %}
-linear perturbation theory works while $|\delta| \ll 1$. once $\delta \gtrsim 1$, the perturbation grows nonlinearly and eventually **collapses** into a virialized halo. the simplest analytic description is the **spherical collapse model**: an idealized uniform overdense sphere embedded in an FRW background.
+linear perturbation theory works while $\lvert \delta\rvert \ll 1$. once $\delta \gtrsim 1$, the perturbation grows nonlinearly and eventually **collapses** into a virialized halo. the simplest analytic description is the **spherical collapse model**: an idealized uniform overdense sphere embedded in an FRW background.
 
 ---
 

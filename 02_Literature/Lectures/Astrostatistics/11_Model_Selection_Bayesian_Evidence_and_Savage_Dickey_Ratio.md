@@ -26,17 +26,17 @@ The Bayesian framework provides a consistent, self-regulating mathematical mecha
 
 ## Bayesian Model Comparison and the Bayes Factor
 
-Let $\{M_1, M_2, \dots\}$ denote a discrete set of competing physical models. Each model $M_i$ possesses its own parameter space $\boldsymbol{\theta}_i$ of dimension $D_i$, with a corresponding prior $\pi(\boldsymbol{\theta}_i | M_i)$ and likelihood function $\mathcal{L}_i(\boldsymbol{\theta}_i) \equiv p(\boldsymbol{d} | \boldsymbol{\theta}_i, M_i)$.
+Let $\{M_1, M_2, \dots\}$ denote a discrete set of competing physical models. Each model $M_i$ possesses its own parameter space $\boldsymbol{\theta}_i$ of dimension $D_i$, with a corresponding prior $\pi(\boldsymbol{\theta}_i \mid M_i)$ and likelihood function $\mathcal{L}_i(\boldsymbol{\theta}_i) \equiv p(\boldsymbol{d} \mid \boldsymbol{\theta}_i, M_i)$.
 
 Applying Bayes' theorem at the model level
 
-$$p(M_i | \boldsymbol{d}) = \frac{p(\boldsymbol{d} | M_i) \, p(M_i)}{p(\boldsymbol{d})}$$
+$$p(M_i \mid \boldsymbol{d}) = \frac{p(\boldsymbol{d} \mid M_i) \, p(M_i)}{p(\boldsymbol{d})}$$
 
-where $p(M_i)$ is the prior probability assigned to model $M_i$, and the denominator is the sum over all considered models $p(\boldsymbol{d}) = \sum_j p(\boldsymbol{d} | M_j) p(M_j)$.
+where $p(M_i)$ is the prior probability assigned to model $M_i$, and the denominator is the sum over all considered models $p(\boldsymbol{d}) = \sum_j p(\boldsymbol{d} \mid M_j) p(M_j)$.
 
 When comparing two alternative models $M_1$ and $M_2$, we compute the posterior odds ratio
 
-$$\frac{p(M_1 | \boldsymbol{d})}{p(M_2 | \boldsymbol{d})} = \frac{p(M_1)}{p(M_2)} \times \frac{p(\boldsymbol{d} | M_1)}{p(\boldsymbol{d} | M_2)}$$
+$$\frac{p(M_1 \mid \boldsymbol{d})}{p(M_2 \mid \boldsymbol{d})} = \frac{p(M_1)}{p(M_2)} \times \frac{p(\boldsymbol{d} \mid M_1)}{p(\boldsymbol{d} \mid M_2)}$$
 
 This master equation states that
 
@@ -44,7 +44,7 @@ $$\text{Posterior Odds} = \text{Prior Odds} \times \text{Bayes Factor } B_{12}$$
 
 The Bayes factor $B_{12}$ is defined as the ratio of marginal likelihoods (Bayesian evidences)
 
-$$B_{12} \equiv \frac{p(\boldsymbol{d} | M_1)}{p(\boldsymbol{d} | M_2)} = \frac{\mathcal{Z}_1}{\mathcal{Z}_2}$$
+$$B_{12} \equiv \frac{p(\boldsymbol{d} \mid M_1)}{p(\boldsymbol{d} \mid M_2)} = \frac{\mathcal{Z}_1}{\mathcal{Z}_2}$$
 
 If the investigator has no prior theoretical preference between the two models, setting $p(M_1) = p(M_2)$, the posterior odds reduce identically to the Bayes factor.
 
@@ -55,10 +55,10 @@ If the investigator has no prior theoretical preference between the two models, 
 To interpret the numerical value of the Bayes factor, Harold Jeffreys (1961) proposed an empirical scale, later refined by Trotta (2008) for astrophysical and cosmological contexts.
 
 Evaluating evidence via $\ln B_{12}$
-- $|\ln B_{12}| < 1.0$ (odds less than $3:1$) - Inconclusive, barely worth mentioning. The data cannot distinguish between the models.
-- $1.0 < |\ln B_{12}| < 2.5$ (odds between $3:1$ and $12:1$) - Weak evidence in favor of the higher-evidence model.
-- $2.5 < |\ln B_{12}| < 5.0$ (odds between $12:1$ and $150:1$) - Moderate to substantial evidence.
-- $|\ln B_{12}| > 5.0$ (odds exceeding $150:1$) - Strong to decisive evidence.
+- $\lvert \ln B_{12}\rvert < 1.0$ (odds less than $3:1$) - Inconclusive, barely worth mentioning. The data cannot distinguish between the models.
+- $1.0 < \lvert \ln B_{12}\rvert < 2.5$ (odds between $3:1$ and $12:1$) - Weak evidence in favor of the higher-evidence model.
+- $2.5 < \lvert \ln B_{12}\rvert < 5.0$ (odds between $12:1$ and $150:1$) - Moderate to substantial evidence.
+- $\lvert \ln B_{12}\rvert > 5.0$ (odds exceeding $150:1$) - Strong to decisive evidence.
 
 ---
 
@@ -66,7 +66,7 @@ Evaluating evidence via $\ln B_{12}$
 
 The Bayesian evidence (or marginal likelihood) $\mathcal{Z}$ for model $M$ is defined as the integral of the likelihood weighted by the prior over the entire parameter space $\Omega_{\boldsymbol{\theta}}$
 
-$$\mathcal{Z} \equiv p(\boldsymbol{d} | M) = \int_{\Omega_{\boldsymbol{\theta}}} \mathcal{L}(\boldsymbol{\theta}) \, \pi(\boldsymbol{\theta} | M) \, d\boldsymbol{\theta}$$
+$$\mathcal{Z} \equiv p(\boldsymbol{d} \mid M) = \int_{\Omega_{\boldsymbol{\theta}}} \mathcal{L}(\boldsymbol{\theta}) \, \pi(\boldsymbol{\theta} \mid M) \, d\boldsymbol{\theta}$$
 
 Notice that the evidence is the average value of the likelihood across the entire prior volume. This mathematical structure embodies an automatic Occam's razor.
 
@@ -86,13 +86,13 @@ Let $\hat{\boldsymbol{\theta}}$ denote the maximum a posteriori parameter vector
 
 Expand the logarithm $\ln f(\boldsymbol{\theta})$ in a multivariate Taylor series about the peak $\hat{\boldsymbol{\theta}}$
 
-$$\ln f(\boldsymbol{\theta}) \approx \ln f(\hat{\boldsymbol{\theta}}) + \left. \nabla \ln f \right|_{\hat{\boldsymbol{\theta}}} (\boldsymbol{\theta} - \hat{\boldsymbol{\theta}}) - \frac{1}{2} (\boldsymbol{\theta} - \hat{\boldsymbol{\theta}})^T \boldsymbol{H} (\boldsymbol{\theta} - \hat{\boldsymbol{\theta}})$$
+$$\ln f(\boldsymbol{\theta}) \approx \ln f(\hat{\boldsymbol{\theta}}) + \left. \nabla \ln f \right\rvert_{\hat{\boldsymbol{\theta}}} (\boldsymbol{\theta} - \hat{\boldsymbol{\theta}}) - \frac{1}{2} (\boldsymbol{\theta} - \hat{\boldsymbol{\theta}})^T \boldsymbol{H} (\boldsymbol{\theta} - \hat{\boldsymbol{\theta}})$$
 
-Because $\hat{\boldsymbol{\theta}}$ is the mode, the gradient vanishes $\left. \nabla \ln f \right|_{\hat{\boldsymbol{\theta}}} = \mathbf{0}$.
+Because $\hat{\boldsymbol{\theta}}$ is the mode, the gradient vanishes $\left. \nabla \ln f \right\rvert_{\hat{\boldsymbol{\theta}}} = \mathbf{0}$.
 
 The matrix $\boldsymbol{H}$ is the positive-definite negative Hessian matrix evaluated at the peak
 
-$$H_{ij} = -\left. \frac{\partial^2 \ln [\mathcal{L}(\boldsymbol{\theta}) \pi(\boldsymbol{\theta})]}{\partial \theta_i \, \partial \theta_j} \right|_{\hat{\boldsymbol{\theta}}}$$
+$$H_{ij} = -\left. \frac{\partial^2 \ln [\mathcal{L}(\boldsymbol{\theta}) \pi(\boldsymbol{\theta})]}{\partial \theta_i \, \partial \theta_j} \right\rvert_{\hat{\boldsymbol{\theta}}}$$
 
 Exponentiating this expansion
 
@@ -147,9 +147,9 @@ Under model $M_0$, parameters are $\boldsymbol{\psi}$. Under model $M_1$, parame
 
 The Savage-Dickey density ratio requires that under the extended model $M_1$, the prior distribution on the common parameters $\boldsymbol{\psi}$ conditional on $\omega = \omega_0$ matches the prior on $\boldsymbol{\psi}$ under the base model $M_0$
 
-$$\pi(\boldsymbol{\psi} \, | \, \omega = \omega_0, M_1) = \pi(\boldsymbol{\psi} \, | \, M_0)$$
+$$\pi(\boldsymbol{\psi} \, \mid \, \omega = \omega_0, M_1) = \pi(\boldsymbol{\psi} \, \mid \, M_0)$$
 
-If the prior factorizes separably under $M_1$ such that $\pi(\omega, \boldsymbol{\psi} | M_1) = \pi(\omega | M_1) \pi(\boldsymbol{\psi} | M_1)$, this condition states that $\pi(\boldsymbol{\psi} | M_1) = \pi(\boldsymbol{\psi} | M_0)$.
+If the prior factorizes separably under $M_1$ such that $\pi(\omega, \boldsymbol{\psi} \mid M_1) = \pi(\omega \mid M_1) \pi(\boldsymbol{\psi} \mid M_1)$, this condition states that $\pi(\boldsymbol{\psi} \mid M_1) = \pi(\boldsymbol{\psi} \mid M_0)$.
 
 ### Complete Step-by-Step Derivation
 
@@ -157,47 +157,47 @@ We carry out the exact mathematical proof following Prof. Liguori's model select
 
 Step 1. Write down Bayes' theorem for the joint posterior of $(\omega, \boldsymbol{\psi})$ under the extended model $M_1$
 
-$$p(\omega, \boldsymbol{\psi} | \boldsymbol{d}, M_1) = \frac{p(\boldsymbol{d} | \omega, \boldsymbol{\psi}, M_1) \, \pi(\omega, \boldsymbol{\psi} | M_1)}{p(\boldsymbol{d} | M_1)}$$
+$$p(\omega, \boldsymbol{\psi} \mid \boldsymbol{d}, M_1) = \frac{p(\boldsymbol{d} \mid \omega, \boldsymbol{\psi}, M_1) \, \pi(\omega, \boldsymbol{\psi} \mid M_1)}{p(\boldsymbol{d} \mid M_1)}$$
 
-Using the product rule on the joint prior $\pi(\omega, \boldsymbol{\psi} | M_1) = \pi(\boldsymbol{\psi} | \omega, M_1) \, \pi(\omega | M_1)$
+Using the product rule on the joint prior $\pi(\omega, \boldsymbol{\psi} \mid M_1) = \pi(\boldsymbol{\psi} \mid \omega, M_1) \, \pi(\omega \mid M_1)$
 
-$$p(\omega, \boldsymbol{\psi} | \boldsymbol{d}, M_1) = \frac{p(\boldsymbol{d} | \omega, \boldsymbol{\psi}, M_1) \, \pi(\boldsymbol{\psi} | \omega, M_1) \, \pi(\omega | M_1)}{p(\boldsymbol{d} | M_1)}$$
+$$p(\omega, \boldsymbol{\psi} \mid \boldsymbol{d}, M_1) = \frac{p(\boldsymbol{d} \mid \omega, \boldsymbol{\psi}, M_1) \, \pi(\boldsymbol{\psi} \mid \omega, M_1) \, \pi(\omega \mid M_1)}{p(\boldsymbol{d} \mid M_1)}$$
 
 Step 2. Obtain the one-dimensional marginalized posterior for the extra parameter $\omega$ under model $M_1$ by integrating over all shared parameters $\boldsymbol{\psi}$
 
-$$p(\omega | \boldsymbol{d}, M_1) = \int p(\omega, \boldsymbol{\psi} | \boldsymbol{d}, M_1) \, d\boldsymbol{\psi}$$
+$$p(\omega \mid \boldsymbol{d}, M_1) = \int p(\omega, \boldsymbol{\psi} \mid \boldsymbol{d}, M_1) \, d\boldsymbol{\psi}$$
 
 Substitute the expression from Step 1 into this integral
 
-$$p(\omega | \boldsymbol{d}, M_1) = \frac{\pi(\omega | M_1)}{p(\boldsymbol{d} | M_1)} \int p(\boldsymbol{d} | \omega, \boldsymbol{\psi}, M_1) \, \pi(\boldsymbol{\psi} | \omega, M_1) \, d\boldsymbol{\psi}$$
+$$p(\omega \mid \boldsymbol{d}, M_1) = \frac{\pi(\omega \mid M_1)}{p(\boldsymbol{d} \mid M_1)} \int p(\boldsymbol{d} \mid \omega, \boldsymbol{\psi}, M_1) \, \pi(\boldsymbol{\psi} \mid \omega, M_1) \, d\boldsymbol{\psi}$$
 
 Step 3. Evaluate this continuous equation at the specific nested point $\omega = \omega_0$
 
-$$p(\omega = \omega_0 | \boldsymbol{d}, M_1) = \frac{\pi(\omega = \omega_0 | M_1)}{p(\boldsymbol{d} | M_1)} \int p(\boldsymbol{d} | \omega = \omega_0, \boldsymbol{\psi}, M_1) \, \pi(\boldsymbol{\psi} | \omega = \omega_0, M_1) \, d\boldsymbol{\psi}$$
+$$p(\omega = \omega_0 \mid \boldsymbol{d}, M_1) = \frac{\pi(\omega = \omega_0 \mid M_1)}{p(\boldsymbol{d} \mid M_1)} \int p(\boldsymbol{d} \mid \omega = \omega_0, \boldsymbol{\psi}, M_1) \, \pi(\boldsymbol{\psi} \mid \omega = \omega_0, M_1) \, d\boldsymbol{\psi}$$
 
 Step 4. Recognize the physical equivalence of the nested models. When $\omega$ is fixed to $\omega_0$, model $M_1$ is physically identical to model $M_0$.
 
 Therefore, the likelihood functions are identical
 
-$$p(\boldsymbol{d} | \omega = \omega_0, \boldsymbol{\psi}, M_1) = p(\boldsymbol{d} | \boldsymbol{\psi}, M_0)$$
+$$p(\boldsymbol{d} \mid \omega = \omega_0, \boldsymbol{\psi}, M_1) = p(\boldsymbol{d} \mid \boldsymbol{\psi}, M_0)$$
 
-Furthermore, by the prior separability condition, $\pi(\boldsymbol{\psi} | \omega = \omega_0, M_1) = \pi(\boldsymbol{\psi} | M_0)$.
+Furthermore, by the prior separability condition, $\pi(\boldsymbol{\psi} \mid \omega = \omega_0, M_1) = \pi(\boldsymbol{\psi} \mid M_0)$.
 
 Substitute these two relations into the integral
 
-$$\int p(\boldsymbol{d} | \omega = \omega_0, \boldsymbol{\psi}, M_1) \, \pi(\boldsymbol{\psi} | \omega = \omega_0, M_1) \, d\boldsymbol{\psi} = \int p(\boldsymbol{d} | \boldsymbol{\psi}, M_0) \, \pi(\boldsymbol{\psi} | M_0) \, d\boldsymbol{\psi}$$
+$$\int p(\boldsymbol{d} \mid \omega = \omega_0, \boldsymbol{\psi}, M_1) \, \pi(\boldsymbol{\psi} \mid \omega = \omega_0, M_1) \, d\boldsymbol{\psi} = \int p(\boldsymbol{d} \mid \boldsymbol{\psi}, M_0) \, \pi(\boldsymbol{\psi} \mid M_0) \, d\boldsymbol{\psi}$$
 
 Step 5. The integral on the right-hand side is, by definition, the Bayesian evidence (marginal likelihood) of the base model $M_0$
 
-$$\int p(\boldsymbol{d} | \boldsymbol{\psi}, M_0) \, \pi(\boldsymbol{\psi} | M_0) \, d\boldsymbol{\psi} = p(\boldsymbol{d} | M_0) = \mathcal{Z}_0$$
+$$\int p(\boldsymbol{d} \mid \boldsymbol{\psi}, M_0) \, \pi(\boldsymbol{\psi} \mid M_0) \, d\boldsymbol{\psi} = p(\boldsymbol{d} \mid M_0) = \mathcal{Z}_0$$
 
 Step 6. Substitute the evidence $\mathcal{Z}_0$ back into the evaluated equation from Step 3
 
-$$p(\omega = \omega_0 | \boldsymbol{d}, M_1) = \frac{\pi(\omega = \omega_0 | M_1)}{p(\boldsymbol{d} | M_1)} \, p(\boldsymbol{d} | M_0)$$
+$$p(\omega = \omega_0 \mid \boldsymbol{d}, M_1) = \frac{\pi(\omega = \omega_0 \mid M_1)}{p(\boldsymbol{d} \mid M_1)} \, p(\boldsymbol{d} \mid M_0)$$
 
-Step 7. Divide both sides by $\pi(\omega = \omega_0 | M_1)$ and multiply by $p(\boldsymbol{d} | M_1) / p(\boldsymbol{d} | M_0)$. This isolates the Bayes factor
+Step 7. Divide both sides by $\pi(\omega = \omega_0 \mid M_1)$ and multiply by $p(\boldsymbol{d} \mid M_1) / p(\boldsymbol{d} \mid M_0)$. This isolates the Bayes factor
 
-$$B_{01} \equiv \frac{p(\boldsymbol{d} | M_0)}{p(\boldsymbol{d} | M_1)} = \frac{p(\omega = \omega_0 | \boldsymbol{d}, M_1)}{\pi(\omega = \omega_0 | M_1)}$$
+$$B_{01} \equiv \frac{p(\boldsymbol{d} \mid M_0)}{p(\boldsymbol{d} \mid M_1)} = \frac{p(\omega = \omega_0 \mid \boldsymbol{d}, M_1)}{\pi(\omega = \omega_0 \mid M_1)}$$
 
 This equation is the Savage-Dickey Density Ratio.
 
@@ -208,8 +208,8 @@ The operational power of the Savage-Dickey ratio cannot be overstated.
 To compute the Bayes factor between a base cosmological model $M_0$ and an extended model $M_1$, an investigator does not need to compute two separate, difficult multidimensional evidence integrals.
 
 Instead, the researcher performs standard MCMC sampling of the extended model $M_1$ only. From the resulting MCMC chains, one estimates the one-dimensional marginalized posterior probability density for $\omega$ at the nested value $\omega_0$. Dividing this posterior density by the prior density evaluated at the same point gives the exact Bayes factor $B_{01}$.
-- If $p(\omega = \omega_0 | \boldsymbol{d}, M_1) > \pi(\omega = \omega_0 | M_1)$, the observational data have compressed probability mass toward the nested value $\omega_0$, yielding $B_{01} > 1$. The simpler model $M_0$ is favored.
-- If $p(\omega = \omega_0 | \boldsymbol{d}, M_1) < \pi(\omega = \omega_0 | M_1)$, the data have pushed the posterior away from $\omega_0$ into the extended space, yielding $B_{01} < 1$. The extended model $M_1$ is favored.
+- If $p(\omega = \omega_0 \mid \boldsymbol{d}, M_1) > \pi(\omega = \omega_0 \mid M_1)$, the observational data have compressed probability mass toward the nested value $\omega_0$, yielding $B_{01} > 1$. The simpler model $M_0$ is favored.
+- If $p(\omega = \omega_0 \mid \boldsymbol{d}, M_1) < \pi(\omega = \omega_0 \mid M_1)$, the data have pushed the posterior away from $\omega_0$ into the extended space, yielding $B_{01} < 1$. The extended model $M_1$ is favored.
 
 ---
 
@@ -218,17 +218,17 @@ Instead, the researcher performs standard MCMC sampling of the extended model $M
 - [Astro-Statistics_and_Cosmology_MOC](../../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html) - Master syllabus map of content
 - [01_Plausible_Reasoning_Cox_Theorem_and_Bayesian_Foundations](./01_Plausible_Reasoning_Cox_Theorem_and_Bayesian_Foundations.html) - Bayesian evidence definition and normalization
 - [04_Frequentist_vs_Bayesian_Inference_and_Confidence_Intervals](./04_Frequentist_vs_Bayesian_Inference_and_Confidence_Intervals.html) - Lindley's paradox and the distinction between $p$-values and Bayes factors
-- [05_Monte_Carlo_Metropolis_Hastings_and_MCMC_Convergence_Diagnostics](./05_Monte_Carlo_Metropolis_Hastings_and_MCMC_Convergence_Diagnostics.html) - Generating the posterior density $p(\omega | \boldsymbol{d}, M_1)$ from MCMC chains
+- [05_Monte_Carlo_Metropolis_Hastings_and_MCMC_Convergence_Diagnostics](./05_Monte_Carlo_Metropolis_Hastings_and_MCMC_Convergence_Diagnostics.html) - Generating the posterior density $p(\omega \mid \boldsymbol{d}, M_1)$ from MCMC chains
 - [10_Prior_Assignment_Transformation_Invariance_and_Maximum_Entropy](./10_Prior_Assignment_Transformation_Invariance_and_Maximum_Entropy.html) - Sensitivity of Bayes factors and Occam factors to prior volume specification
 
 
 ## Lecture Visuals & Bayesian Model Selection
 
 ![Bayesian Evidence and Occam Penalty](../../../assets/images/astrostat_model_p01.png)
-*Figure AST-07: Bayesian Model Selection and the Occam Factor. The marginal likelihood (evidence) $\mathcal{Z} = \int \mathcal{L}(D|\theta) \pi(\theta) d\theta$ automatically balances goodness of fit against model complexity. An overparameterized model spreads its prior volume over irrelevant regions, resulting in an Occam penalty factor $\frac{\Delta \theta_{\mathrm{posterior}}}{\Delta \theta_{\mathrm{prior}}} \ll 1$.*
+*Figure AST-07: Bayesian Model Selection and the Occam Factor. The marginal likelihood (evidence) $\mathcal{Z} = \int \mathcal{L}(D \mid \theta) \pi(\theta) d\theta$ automatically balances goodness of fit against model complexity. An overparameterized model spreads its prior volume over irrelevant regions, resulting in an Occam penalty factor $\frac{\Delta \theta_{\mathrm{posterior}}}{\Delta \theta_{\mathrm{prior}}} \ll 1$.*
 
 ![Savage-Dickey Density Ratio Derivation](../../../assets/images/astrostat_model_p02.png)
-*Figure AST-08: The Savage-Dickey Density Ratio for Nested Models. For nested models $M_0: \omega = \omega_0$ vs $M_1: \omega \text{ free}$, the Bayes factor simplifies exactly to the ratio of posterior to prior densities evaluated at the nested point: $B_{01} = \frac{P(\omega_0 | D, M_1)}{\pi(\omega_0 | M_1)}$, bypassing computationally intractable high-dimensional evidence integrals.*
+*Figure AST-08: The Savage-Dickey Density Ratio for Nested Models. For nested models $M_0: \omega = \omega_0$ vs $M_1: \omega \text{ free}$, the Bayes factor simplifies exactly to the ratio of posterior to prior densities evaluated at the nested point: $B_{01} = \frac{P(\omega_0 \mid D, M_1)}{\pi(\omega_0 \mid M_1)}$, bypassing computationally intractable high-dimensional evidence integrals.*
 
 ![Jeffreys Scale of Evidence and Model Comparison](../../../assets/images/astrostat_model_p04.png)
 *Figure AST-09: Jeffreys Scale and Interpretation of the Bayes Factor $\ln B_{01}$. In empirical astrophysics, $\ln B > 2.5$ denotes moderate evidence, while $\ln B > 5$ indicates decisive evidence, directly applied to testing flat $\Lambda\mathrm{CDM}$ vs dynamical dark energy $w(a)$ or sterile neutrino extensions.*

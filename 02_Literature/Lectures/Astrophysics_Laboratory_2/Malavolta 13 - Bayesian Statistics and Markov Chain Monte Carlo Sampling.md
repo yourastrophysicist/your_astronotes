@@ -23,16 +23,16 @@ In observational astrophysics, physical parameters are inferred from noisy, inco
 - **Bayesian Approach**:
 	- The observed data $\boldsymbol{D}$ are fixed observations.
 	- Parameters $\boldsymbol{\theta}$ are random variables described by probability density functions.
-	- Directly yields the **posterior probability distribution** $p(\boldsymbol{\theta} | \boldsymbol{D})$:
+	- Directly yields the **posterior probability distribution** $p(\boldsymbol{\theta} \mid \boldsymbol{D})$:
 
-$$p(\boldsymbol{\theta} | \boldsymbol{D}) = \frac{\mathcal{L}(\boldsymbol{D} | \boldsymbol{\theta}) \, \pi(\boldsymbol{\theta})}{\mathcal{Z}}$$
+$$p(\boldsymbol{\theta} \mid \boldsymbol{D}) = \frac{\mathcal{L}(\boldsymbol{D} \mid \boldsymbol{\theta}) \, \pi(\boldsymbol{\theta})}{\mathcal{Z}}$$
 where:
-- $\mathcal{L}(\boldsymbol{D} | \boldsymbol{\theta})$ is the likelihood function.
+- $\mathcal{L}(\boldsymbol{D} \mid \boldsymbol{\theta})$ is the likelihood function.
 - $\pi(\boldsymbol{\theta})$ is the prior probability distribution.
-- $\mathcal{Z} = \int \mathcal{L}(\boldsymbol{D} | \boldsymbol{\theta}) \, \pi(\boldsymbol{\theta}) \, d\boldsymbol{\theta}$ is the marginal likelihood (Bayesian evidence), acting as a normalization constant.
+- $\mathcal{Z} = \int \mathcal{L}(\boldsymbol{D} \mid \boldsymbol{\theta}) \, \pi(\boldsymbol{\theta}) \, d\boldsymbol{\theta}$ is the marginal likelihood (Bayesian evidence), acting as a normalization constant.
 
 In log-space:
-$$\ln p(\boldsymbol{\theta} | \boldsymbol{D}) = \ln \mathcal{L}(\boldsymbol{D} | \boldsymbol{\theta}) + \ln \pi(\boldsymbol{\theta}) + \text{const}$$
+$$\ln p(\boldsymbol{\theta} \mid \boldsymbol{D}) = \ln \mathcal{L}(\boldsymbol{D} \mid \boldsymbol{\theta}) + \ln \pi(\boldsymbol{\theta}) + \text{const}$$
 
 ---
 

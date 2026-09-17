@@ -82,7 +82,7 @@ The multi-decade transit light curve was modeled using the Bayesian framework **
 The TTV time-series exhibits two distinct dynamical frequencies:
 1. **Resonant Super-Period ($P_{\text{TTV}}$)**:
    The near-resonance $3:2$ interaction drives a sinusoidal timing oscillation with period:
-   $$P_{\text{TTV}} = \frac{1}{\left| \frac{3}{P_c} - \frac{2}{P_b} \right|} \approx 2,700\text{ days} \quad (\sim 7.4\text{ years})$$
+   $$P_{\text{TTV}} = \frac{1}{\left\lvert \frac{3}{P_c} - \frac{2}{P_b} \right\rvert} \approx 2,700\text{ days} \quad (\sim 7.4\text{ years})$$
 2. **Secular Precession Period ($P_{\text{sec}}$)**:
    Long-term exchange of angular momentum between the eccentric orbits drives a secular apsidal precession cycle with a timescale of:
    $$P_{\text{sec}} \approx 165\text{ years}$$

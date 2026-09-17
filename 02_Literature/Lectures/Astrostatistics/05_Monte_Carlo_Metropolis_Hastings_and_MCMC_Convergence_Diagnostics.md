@@ -12,7 +12,7 @@ Reference index [Astro-Statistics_and_Cosmology_MOC](../../../04_Atlas/Astro-Sta
 
 ## The Computational Challenge of High-Dimensional Inference
 
-In modern cosmological parameter estimation, the posterior probability density function $p(\boldsymbol{\theta} | \boldsymbol{d})$ lives in a high-dimensional parameter space. The baseline cosmological model ($\Lambda\text{CDM}$) requires at least six primary parameters
+In modern cosmological parameter estimation, the posterior probability density function $p(\boldsymbol{\theta} \mid \boldsymbol{d})$ lives in a high-dimensional parameter space. The baseline cosmological model ($\Lambda\text{CDM}$) requires at least six primary parameters
 
 $$\boldsymbol{\theta} = (\Omega_b h^2, \Omega_c h^2, 100\theta_{\text{MC}}, \tau_{\text{reio}}, \ln(10^{10} A_s), n_s)$$
 
@@ -20,7 +20,7 @@ When analyzing real cosmological data from the Planck satellite or galaxy cluste
 
 Calculating marginalized one-dimensional and two-dimensional posterior distributions requires evaluating multidimensional integrals of the form
 
-$$p(\theta_1 | \boldsymbol{d}) = \int \dots \int p(\theta_1, \theta_2, \dots, \theta_D | \boldsymbol{d}) \, d\theta_2 \dots d\theta_D$$
+$$p(\theta_1 \mid \boldsymbol{d}) = \int \dots \int p(\theta_1, \theta_2, \dots, \theta_D \mid \boldsymbol{d}) \, d\theta_2 \dots d\theta_D$$
 
 Standard deterministic numerical quadrature methods (such as Simpson's rule or Gaussian quadrature) suffer catastrophically from the curse of dimensionality. If each parameter axis is discretized using $K = 50$ grid points, evaluating a $D = 20$ dimensional posterior requires $50^{20} \approx 9.5 \times 10^{33}$ likelihood evaluations. If a single cosmological Boltzmann solver call (via CAMB or CLASS) takes $0.1$ seconds, evaluating this grid would exceed the age of the universe.
 
@@ -58,20 +58,20 @@ Before turning to Markov chains, consider two classical static sampling techniqu
 
 ### Rejection Sampling
 
-Suppose the target posterior $p(\boldsymbol{\theta} | \boldsymbol{d})$ is difficult to sample directly, but we can sample from a simpler proposal distribution $q(\boldsymbol{\theta})$, where a constant $M > 0$ exists such that $M q(\boldsymbol{\theta}) \ge p(\boldsymbol{\theta} | \boldsymbol{d})$ everywhere.
+Suppose the target posterior $p(\boldsymbol{\theta} \mid \boldsymbol{d})$ is difficult to sample directly, but we can sample from a simpler proposal distribution $q(\boldsymbol{\theta})$, where a constant $M > 0$ exists such that $M q(\boldsymbol{\theta}) \ge p(\boldsymbol{\theta} \mid \boldsymbol{d})$ everywhere.
 
 The algorithm proceeds
 1. Draw a candidate $\boldsymbol{\theta}^* \sim q(\boldsymbol{\theta})$.
 2. Draw a uniform random number $u \sim \mathcal{U}(0, 1)$.
-3. Accept $\boldsymbol{\theta}^*$ if $u \le \frac{p(\boldsymbol{\theta}^* | \boldsymbol{d})}{M q(\boldsymbol{\theta}^*)}$. Otherwise, reject $\boldsymbol{\theta}^*$ and repeat.
+3. Accept $\boldsymbol{\theta}^*$ if $u \le \frac{p(\boldsymbol{\theta}^* \mid \boldsymbol{d})}{M q(\boldsymbol{\theta}^*)}$. Otherwise, reject $\boldsymbol{\theta}^*$ and repeat.
 
-Accepted samples are strictly distributed according to $p(\boldsymbol{\theta} | \boldsymbol{d})$. However, in high dimensions, the volume ratio of the target density to the envelope $M q(\boldsymbol{\theta})$ decreases exponentially with $D$. The acceptance probability collapses toward zero, rendering rejection sampling useless for high-dimensional cosmology.
+Accepted samples are strictly distributed according to $p(\boldsymbol{\theta} \mid \boldsymbol{d})$. However, in high dimensions, the volume ratio of the target density to the envelope $M q(\boldsymbol{\theta})$ decreases exponentially with $D$. The acceptance probability collapses toward zero, rendering rejection sampling useless for high-dimensional cosmology.
 
 ### Importance Sampling
 
 In importance sampling, samples are drawn from an alternative proposal $q(\boldsymbol{\theta})$, and each sample is assigned an importance weight
 
-$$w_i = \frac{p(\boldsymbol{\theta}^{(i)} | \boldsymbol{d})}{q(\boldsymbol{\theta}^{(i)})}$$
+$$w_i = \frac{p(\boldsymbol{\theta}^{(i)} \mid \boldsymbol{d})}{q(\boldsymbol{\theta}^{(i)})}$$
 
 Expectation values are estimated as weighted averages
 
@@ -83,57 +83,57 @@ Importance sampling is useful when updating existing MCMC chains under slight mo
 
 ## Markov Chain Monte Carlo - Foundations
 
-Markov Chain Monte Carlo (MCMC) solves the sampling problem by generating a sequence of dependent samples that asymptotically trace the target distribution $p(\boldsymbol{\theta} | \boldsymbol{d})$, spending computational time precisely where the posterior mass is concentrated.
+Markov Chain Monte Carlo (MCMC) solves the sampling problem by generating a sequence of dependent samples that asymptotically trace the target distribution $p(\boldsymbol{\theta} \mid \boldsymbol{d})$, spending computational time precisely where the posterior mass is concentrated.
 
 A Markov chain is a sequence of random variables $\{\boldsymbol{\theta}^{(0)}, \boldsymbol{\theta}^{(1)}, \boldsymbol{\theta}^{(2)}, \dots\}$ characterized by the Markov property. The conditional probability of transitioning to state $\boldsymbol{\theta}^{(t+1)}$ depends exclusively on the current state $\boldsymbol{\theta}^{(t)}$ and is independent of the past trajectory
 
-$$p(\boldsymbol{\theta}^{(t+1)} | \boldsymbol{\theta}^{(t)}, \boldsymbol{\theta}^{(t-1)}, \dots, \boldsymbol{\theta}^{(0)}) = T(\boldsymbol{\theta}^{(t+1)} | \boldsymbol{\theta}^{(t)})$$
+$$p(\boldsymbol{\theta}^{(t+1)} \mid \boldsymbol{\theta}^{(t)}, \boldsymbol{\theta}^{(t-1)}, \dots, \boldsymbol{\theta}^{(0)}) = T(\boldsymbol{\theta}^{(t+1)} \mid \boldsymbol{\theta}^{(t)})$$
 
-where $T(\boldsymbol{\theta}' | \boldsymbol{\theta})$ is the transition probability kernel.
+where $T(\boldsymbol{\theta}' \mid \boldsymbol{\theta})$ is the transition probability kernel.
 
 ### Stationary Distribution and Detailed Balance
 
 A target distribution $p(\boldsymbol{\theta})$ is an invariant (or stationary) distribution of the Markov chain if, once the chain reaches $p(\boldsymbol{\theta})$, all subsequent steps remain distributed according to $p(\boldsymbol{\theta})$
 
-$$p(\boldsymbol{\theta}') = \int T(\boldsymbol{\theta}' | \boldsymbol{\theta}) \, p(\boldsymbol{\theta}) \, d\boldsymbol{\theta}$$
+$$p(\boldsymbol{\theta}') = \int T(\boldsymbol{\theta}' \mid \boldsymbol{\theta}) \, p(\boldsymbol{\theta}) \, d\boldsymbol{\theta}$$
 
 A sufficient (though not strictly necessary) condition to guarantee that $p(\boldsymbol{\theta})$ is a stationary distribution is the detailed balance condition (also known as microscopic reversibility)
 
-$$p(\boldsymbol{\theta}) \, T(\boldsymbol{\theta}' | \boldsymbol{\theta}) = p(\boldsymbol{\theta}') \, T(\boldsymbol{\theta} | \boldsymbol{\theta}')$$
+$$p(\boldsymbol{\theta}) \, T(\boldsymbol{\theta}' \mid \boldsymbol{\theta}) = p(\boldsymbol{\theta}') \, T(\boldsymbol{\theta} \mid \boldsymbol{\theta}')$$
 
 To prove that detailed balance guarantees stationarity, integrate both sides over $\boldsymbol{\theta}$
 
-$$\int p(\boldsymbol{\theta}) \, T(\boldsymbol{\theta}' | \boldsymbol{\theta}) \, d\boldsymbol{\theta} = \int p(\boldsymbol{\theta}') \, T(\boldsymbol{\theta} | \boldsymbol{\theta}') \, d\boldsymbol{\theta} = p(\boldsymbol{\theta}') \int T(\boldsymbol{\theta} | \boldsymbol{\theta}') \, d\boldsymbol{\theta}$$
+$$\int p(\boldsymbol{\theta}) \, T(\boldsymbol{\theta}' \mid \boldsymbol{\theta}) \, d\boldsymbol{\theta} = \int p(\boldsymbol{\theta}') \, T(\boldsymbol{\theta} \mid \boldsymbol{\theta}') \, d\boldsymbol{\theta} = p(\boldsymbol{\theta}') \int T(\boldsymbol{\theta} \mid \boldsymbol{\theta}') \, d\boldsymbol{\theta}$$
 
-Because $T(\boldsymbol{\theta} | \boldsymbol{\theta}')$ is a normalized transition probability over final states, $\int T(\boldsymbol{\theta} | \boldsymbol{\theta}') \, d\boldsymbol{\theta} = 1$, which directly recovers the stationarity equation.
+Because $T(\boldsymbol{\theta} \mid \boldsymbol{\theta}')$ is a normalized transition probability over final states, $\int T(\boldsymbol{\theta} \mid \boldsymbol{\theta}') \, d\boldsymbol{\theta} = 1$, which directly recovers the stationarity equation.
 
 ---
 
 ## The Metropolis-Hastings Algorithm
 
-The Metropolis-Hastings (MH) algorithm constructs a transition kernel $T(\boldsymbol{\theta}' | \boldsymbol{\theta})$ satisfying detailed balance for any chosen target distribution $p(\boldsymbol{\theta})$.
+The Metropolis-Hastings (MH) algorithm constructs a transition kernel $T(\boldsymbol{\theta}' \mid \boldsymbol{\theta})$ satisfying detailed balance for any chosen target distribution $p(\boldsymbol{\theta})$.
 
-The transition is split into two stages. First, propose a candidate move $\boldsymbol{\theta}^*$ from a proposal distribution $q(\boldsymbol{\theta}^* | \boldsymbol{\theta})$. Second, accept the candidate with probability $\alpha(\boldsymbol{\theta}, \boldsymbol{\theta}^*)$. If accepted, set $\boldsymbol{\theta}^{(t+1)} = \boldsymbol{\theta}^*$. If rejected, retain the current position, setting $\boldsymbol{\theta}^{(t+1)} = \boldsymbol{\theta}^{(t)}$.
+The transition is split into two stages. First, propose a candidate move $\boldsymbol{\theta}^*$ from a proposal distribution $q(\boldsymbol{\theta}^* \mid \boldsymbol{\theta})$. Second, accept the candidate with probability $\alpha(\boldsymbol{\theta}, \boldsymbol{\theta}^*)$. If accepted, set $\boldsymbol{\theta}^{(t+1)} = \boldsymbol{\theta}^*$. If rejected, retain the current position, setting $\boldsymbol{\theta}^{(t+1)} = \boldsymbol{\theta}^{(t)}$.
 
 The transition probability kernel for moving to a distinct state $\boldsymbol{\theta}' \neq \boldsymbol{\theta}$ is
 
-$$T(\boldsymbol{\theta}' | \boldsymbol{\theta}) = q(\boldsymbol{\theta}' | \boldsymbol{\theta}) \, \alpha(\boldsymbol{\theta}, \boldsymbol{\theta}')$$
+$$T(\boldsymbol{\theta}' \mid \boldsymbol{\theta}) = q(\boldsymbol{\theta}' \mid \boldsymbol{\theta}) \, \alpha(\boldsymbol{\theta}, \boldsymbol{\theta}')$$
 
 Imposing detailed balance requires
 
-$$p(\boldsymbol{\theta}) \, q(\boldsymbol{\theta}' | \boldsymbol{\theta}) \, \alpha(\boldsymbol{\theta}, \boldsymbol{\theta}') = p(\boldsymbol{\theta}') \, q(\boldsymbol{\theta} | \boldsymbol{\theta}') \, \alpha(\boldsymbol{\theta}', \boldsymbol{\theta})$$
+$$p(\boldsymbol{\theta}) \, q(\boldsymbol{\theta}' \mid \boldsymbol{\theta}) \, \alpha(\boldsymbol{\theta}, \boldsymbol{\theta}') = p(\boldsymbol{\theta}') \, q(\boldsymbol{\theta} \mid \boldsymbol{\theta}') \, \alpha(\boldsymbol{\theta}', \boldsymbol{\theta})$$
 
 Rearranging
 
-$$\frac{\alpha(\boldsymbol{\theta}, \boldsymbol{\theta}')}{\alpha(\boldsymbol{\theta}', \boldsymbol{\theta})} = \frac{p(\boldsymbol{\theta}') \, q(\boldsymbol{\theta} | \boldsymbol{\theta}')}{p(\boldsymbol{\theta}) \, q(\boldsymbol{\theta}' | \boldsymbol{\theta})}$$
+$$\frac{\alpha(\boldsymbol{\theta}, \boldsymbol{\theta}')}{\alpha(\boldsymbol{\theta}', \boldsymbol{\theta})} = \frac{p(\boldsymbol{\theta}') \, q(\boldsymbol{\theta} \mid \boldsymbol{\theta}')}{p(\boldsymbol{\theta}) \, q(\boldsymbol{\theta}' \mid \boldsymbol{\theta})}$$
 
 To maximize the acceptance probability while remaining bounded by $\alpha \le 1$, Metropolis and Hastings chose
 
-$$\alpha(\boldsymbol{\theta}, \boldsymbol{\theta}') = \min\left( 1, \, \frac{p(\boldsymbol{\theta}') \, q(\boldsymbol{\theta} | \boldsymbol{\theta}')}{p(\boldsymbol{\theta}) \, q(\boldsymbol{\theta}' | \boldsymbol{\theta})} \right)$$
+$$\alpha(\boldsymbol{\theta}, \boldsymbol{\theta}') = \min\left( 1, \, \frac{p(\boldsymbol{\theta}') \, q(\boldsymbol{\theta} \mid \boldsymbol{\theta}')}{p(\boldsymbol{\theta}) \, q(\boldsymbol{\theta}' \mid \boldsymbol{\theta})} \right)$$
 
-For a symmetric proposal distribution, where $q(\boldsymbol{\theta}' | \boldsymbol{\theta}) = q(\boldsymbol{\theta} | \boldsymbol{\theta}')$ (such as a Gaussian random walk $q(\boldsymbol{\theta}^* | \boldsymbol{\theta}) = \mathcal{N}(\boldsymbol{\theta}, \boldsymbol{\Sigma}_{\text{prop}})$), the proposal ratio equals unity, reducing to the classical Metropolis acceptance ratio
+For a symmetric proposal distribution, where $q(\boldsymbol{\theta}' \mid \boldsymbol{\theta}) = q(\boldsymbol{\theta} \mid \boldsymbol{\theta}')$ (such as a Gaussian random walk $q(\boldsymbol{\theta}^* \mid \boldsymbol{\theta}) = \mathcal{N}(\boldsymbol{\theta}, \boldsymbol{\Sigma}_{\text{prop}})$), the proposal ratio equals unity, reducing to the classical Metropolis acceptance ratio
 
-$$\alpha(\boldsymbol{\theta}, \boldsymbol{\theta}^*) = \min\left( 1, \, \frac{p(\boldsymbol{\theta}^* | \boldsymbol{d})}{p(\boldsymbol{\theta} | \boldsymbol{d})} \right) = \min\left( 1, \, \frac{\mathcal{L}(\boldsymbol{\theta}^*) \, \pi(\boldsymbol{\theta}^*)}{\mathcal{L}(\boldsymbol{\theta}) \, \pi(\boldsymbol{\theta})} \right)$$
+$$\alpha(\boldsymbol{\theta}, \boldsymbol{\theta}^*) = \min\left( 1, \, \frac{p(\boldsymbol{\theta}^* \mid \boldsymbol{d})}{p(\boldsymbol{\theta} \mid \boldsymbol{d})} \right) = \min\left( 1, \, \frac{\mathcal{L}(\boldsymbol{\theta}^*) \, \pi(\boldsymbol{\theta}^*)}{\mathcal{L}(\boldsymbol{\theta}) \, \pi(\boldsymbol{\theta})} \right)$$
 
 Notice that the normalization constant (the Bayesian evidence $\mathcal{Z}$) cancels out completely from the ratio. The algorithm requires only unnormalized evaluations of the likelihood and prior.
 
@@ -145,21 +145,21 @@ Gibbs sampling updates multidimensional parameter vectors by updating one scalar
 
 Let $\boldsymbol{\theta} = (\theta_1, \theta_2, \dots, \theta_D)$. In step $t+1$, the coordinates are updated sequentially
 
-$$\theta_1^{(t+1)} \sim p(\theta_1 \, | \, \theta_2^{(t)}, \theta_3^{(t)}, \dots, \theta_D^{(t)}, \boldsymbol{d})$$
+$$\theta_1^{(t+1)} \sim p(\theta_1 \, \mid \, \theta_2^{(t)}, \theta_3^{(t)}, \dots, \theta_D^{(t)}, \boldsymbol{d})$$
 
-$$\theta_2^{(t+1)} \sim p(\theta_2 \, | \, \theta_1^{(t+1)}, \theta_3^{(t)}, \dots, \theta_D^{(t)}, \boldsymbol{d})$$
+$$\theta_2^{(t+1)} \sim p(\theta_2 \, \mid \, \theta_1^{(t+1)}, \theta_3^{(t)}, \dots, \theta_D^{(t)}, \boldsymbol{d})$$
 
 $$\dots$$
 
-$$\theta_D^{(t+1)} \sim p(\theta_D \, | \, \theta_1^{(t+1)}, \dots, \theta_{D-1}^{(t+1)}, \boldsymbol{d})$$
+$$\theta_D^{(t+1)} \sim p(\theta_D \, \mid \, \theta_1^{(t+1)}, \dots, \theta_{D-1}^{(t+1)}, \boldsymbol{d})$$
 
 Gibbs sampling is an exact special case of the Metropolis-Hastings algorithm. Consider an update of coordinate $j$ where the proposal distribution is the full conditional distribution
 
-$$q(\boldsymbol{\theta}^* | \boldsymbol{\theta}) = p(\theta_j^* | \boldsymbol{\theta}_{-j}, \boldsymbol{d}) \, \delta(\boldsymbol{\theta}_{-j}^* - \boldsymbol{\theta}_{-j})$$
+$$q(\boldsymbol{\theta}^* \mid \boldsymbol{\theta}) = p(\theta_j^* \mid \boldsymbol{\theta}_{-j}, \boldsymbol{d}) \, \delta(\boldsymbol{\theta}_{-j}^* - \boldsymbol{\theta}_{-j})$$
 
 Substitute this into the Metropolis-Hastings acceptance ratio
 
-$$\alpha = \min\left( 1, \, \frac{p(\boldsymbol{\theta}^* | \boldsymbol{d}) \, q(\boldsymbol{\theta} | \boldsymbol{\theta}^*)}{p(\boldsymbol{\theta} | \boldsymbol{d}) \, q(\boldsymbol{\theta}^* | \boldsymbol{\theta})} \right) = \min\left( 1, \, \frac{p(\theta_j^* | \boldsymbol{\theta}_{-j}) p(\boldsymbol{\theta}_{-j}) \, p(\theta_j | \boldsymbol{\theta}_{-j})}{p(\theta_j | \boldsymbol{\theta}_{-j}) p(\boldsymbol{\theta}_{-j}) \, p(\theta_j^* | \boldsymbol{\theta}_{-j})} \right) = \min(1, 1) = 1$$
+$$\alpha = \min\left( 1, \, \frac{p(\boldsymbol{\theta}^* \mid \boldsymbol{d}) \, q(\boldsymbol{\theta} \mid \boldsymbol{\theta}^*)}{p(\boldsymbol{\theta} \mid \boldsymbol{d}) \, q(\boldsymbol{\theta}^* \mid \boldsymbol{\theta})} \right) = \min\left( 1, \, \frac{p(\theta_j^* \mid \boldsymbol{\theta}_{-j}) p(\boldsymbol{\theta}_{-j}) \, p(\theta_j \mid \boldsymbol{\theta}_{-j})}{p(\theta_j \mid \boldsymbol{\theta}_{-j}) p(\boldsymbol{\theta}_{-j}) \, p(\theta_j^* \mid \boldsymbol{\theta}_{-j})} \right) = \min(1, 1) = 1$$
 
 The acceptance probability is identically 1. Gibbs updates never reject proposals.
 
@@ -256,7 +256,7 @@ Convergence is considered achieved when $\hat{R} < 1.05$ (or $\hat{R} < 1.01$ fo
 ## Lecture Visuals & MCMC Diagnostics
 
 ![MCMC Metropolis-Hastings Sampling and Convergence](../../../assets/images/astrostat_liguori_p18.png)
-*Figure AST-03: Metropolis-Hastings Markov Chain Monte Carlo (MCMC) Sampling. Depicts proposal distribution transitions $q(\theta^* | \theta^{(t)})$ with acceptance probability $\alpha = \min\left(1, \frac{\mathcal{L}(D|\theta^*) \pi(\theta^*) q(\theta^{(t)}|\theta^*)}{\mathcal{L}(D|\theta^{(t)}) \pi(\theta^{(t)}) q(\theta^*|\theta^{(t)})}\right)$. The chain achieves the stationary target distribution once burn-in is discarded and the Gelman-Rubin convergence criterion $\hat{R} < 1.05$ across multiple independent chains is satisfied.*
+*Figure AST-03: Metropolis-Hastings Markov Chain Monte Carlo (MCMC) Sampling. Depicts proposal distribution transitions $q(\theta^* \mid \theta^{(t)})$ with acceptance probability $\alpha = \min\left(1, \frac{\mathcal{L}(D \mid \theta^*) \pi(\theta^*) q(\theta^{(t)}\mid\theta^*)}{\mathcal{L}(D \mid \theta^{(t)}) \pi(\theta^{(t)}) q(\theta^* \mid \theta^{(t)})}\right)$. The chain achieves the stationary target distribution once burn-in is discarded and the Gelman-Rubin convergence criterion $\hat{R} < 1.05$ across multiple independent chains is satisfied.*
 {% endraw %}
 
 <div class="backlinks-section">

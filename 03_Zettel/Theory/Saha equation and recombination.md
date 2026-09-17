@@ -55,7 +55,7 @@ with $\eta \sim 6 \times 10^{-10}$ extremely small. the entropy factor delays re
 ## when recombination actually happens
 
 setting $X_e = 0.5$ (half the electrons recombined) gives the Saha estimate:
-$$T_{\rm rec} \approx \frac{B_H}{|\ln \eta|} \approx \frac{13.6}{20} \approx 0.7\,\text{eV}$$
+$$T_{\rm rec} \approx \frac{B_H}{\lvert \ln \eta\rvert} \approx \frac{13.6}{20} \approx 0.7\,\text{eV}$$
 
 a more careful treatment (the Saha equation breaks down once recombination is not fast enough — the **freeze-out** of the electron fraction) gives:
 $$T_{\rm rec} \approx 0.3\,\text{eV} \quad \Leftrightarrow \quad z_{\rm rec} \sim 1100$$
@@ -79,7 +79,7 @@ the **last scattering surface** at $z \sim 1100$ is what we see today as the CMB
 
 ## why recombination happens *after* $T < B_H$ even though $T \approx B_H$ would energetically suffice
 
-same logic as BBN: there are about $10^9$ photons per baryon. even when the temperature is well below the binding energy of hydrogen, a tiny fraction of high-energy photons in the Wien tail can still ionize hydrogen. you need $T$ low enough that this Wien-tail population is suppressed below the (small) baryon density. this happens at $T \sim B_H/|\ln\eta|$, which is much lower than $B_H$ itself.
+same logic as BBN: there are about $10^9$ photons per baryon. even when the temperature is well below the binding energy of hydrogen, a tiny fraction of high-energy photons in the Wien tail can still ionize hydrogen. you need $T$ low enough that this Wien-tail population is suppressed below the (small) baryon density. this happens at $T \sim B_H/\lvert \ln\eta\rvert$, which is much lower than $B_H$ itself.
 
 the same reasoning explains why nuclei in BBN form at $T \sim 0.1$ MeV rather than $T \sim B_A = 1$–$8$ MeV. **entropy beats binding energy** in both cases.
 

@@ -50,7 +50,7 @@ where $\delta_m(\boldsymbol{x}) \equiv \frac{\rho_m(\boldsymbol{x}) - \bar{\rho}
 
 ## The Spatial Two-Point Correlation Function $\xi(r)$
 
-Under the assumption of statistical homogeneity and isotropy, the two-point spatial clustering of galaxies depends purely on the scalar separation distance $r = |\boldsymbol{x}_1 - \boldsymbol{x}_2|$.
+Under the assumption of statistical homogeneity and isotropy, the two-point spatial clustering of galaxies depends purely on the scalar separation distance $r = \lvert \boldsymbol{x}_1 - \boldsymbol{x}_2\rvert$.
 
 The spatial two-point correlation function $\xi(r)$ is defined as the ensemble covariance of the density contrast field
 
@@ -85,7 +85,7 @@ Statistical homogeneity requires that different Fourier wavevectors $\boldsymbol
 
 $$\langle \delta_g(\boldsymbol{k}) \, \delta_g^*(\boldsymbol{k}') \rangle = (2\pi)^3 P_g(\boldsymbol{k}) \, \delta_D(\boldsymbol{k} - \boldsymbol{k}')$$
 
-Statistical isotropy further ensures that the power spectrum depends solely on the scalar wavenumber magnitude $k = |\boldsymbol{k}|$, meaning $P_g(\boldsymbol{k}) = P_g(k)$.
+Statistical isotropy further ensures that the power spectrum depends solely on the scalar wavenumber magnitude $k = \lvert \boldsymbol{k}\rvert$, meaning $P_g(\boldsymbol{k}) = P_g(k)$.
 
 ### The Wiener-Khinchin Theorem
 
@@ -119,15 +119,15 @@ Taking the ensemble average
 
 $$\langle n(\boldsymbol{x}) n(\boldsymbol{x}') \rangle = \left\langle \sum_{i \neq j} \delta_D(\boldsymbol{x} - \boldsymbol{x}_i) \delta_D(\boldsymbol{x}' - \boldsymbol{x}_j) \right\rangle + \left\langle \sum_{i=1}^N \delta_D(\boldsymbol{x} - \boldsymbol{x}_i) \right\rangle \delta_D(\boldsymbol{x} - \boldsymbol{x}')$$
 
-The first term corresponds to pairs of distinct galaxies, governed by the continuous correlation function $\bar{n}^2 [1 + \xi(|\boldsymbol{x} - \boldsymbol{x}'|)]$. The second term is the self-correlation of individual galaxies, equal to $\bar{n} \delta_D(\boldsymbol{x} - \boldsymbol{x}')$.
+The first term corresponds to pairs of distinct galaxies, governed by the continuous correlation function $\bar{n}^2 [1 + \xi(\lvert\boldsymbol{x} - \boldsymbol{x}'\rvert)]$. The second term is the self-correlation of individual galaxies, equal to $\bar{n} \delta_D(\boldsymbol{x} - \boldsymbol{x}')$.
 
 Therefore, the exact two-point correlation of the microscopic galaxy density is
 
-$$\langle n(\boldsymbol{x}) n(\boldsymbol{x}') \rangle = \bar{n}^2 \left[ 1 + \xi(|\boldsymbol{x} - \boldsymbol{x}'|) \right] + \bar{n} \, \delta_D(\boldsymbol{x} - \boldsymbol{x}')$$
+$$\langle n(\boldsymbol{x}) n(\boldsymbol{x}') \rangle = \bar{n}^2 \left[ 1 + \xi( \vert\boldsymbol{x} - \boldsymbol{x}' \vert) \right] + \bar{n} \, \delta_D(\boldsymbol{x} - \boldsymbol{x}')$$
 
 Expressing this in terms of the empirical density contrast $\delta_{\text{obs}}(\boldsymbol{x}) = \frac{n(\boldsymbol{x}) - \bar{n}}{\bar{n}}$
 
-$$\langle \delta_{\text{obs}}(\boldsymbol{x}) \, \delta_{\text{obs}}(\boldsymbol{x}') \rangle = \xi(|\boldsymbol{x} - \boldsymbol{x}'|) + \frac{1}{\bar{n}} \, \delta_D(\boldsymbol{x} - \boldsymbol{x}')$$
+$$\langle \delta_{\text{obs}}(\boldsymbol{x}) \, \delta_{\text{obs}}(\boldsymbol{x}') \rangle = \xi( \vert\boldsymbol{x} - \boldsymbol{x}' \vert) + \frac{1}{\bar{n}} \, \delta_D(\boldsymbol{x} - \boldsymbol{x}')$$
 
 Fourier transforming both sides to obtain the observed power spectrum $P_{\text{obs}}(k)$
 
@@ -151,7 +151,7 @@ FKP defined the weighted field
 
 $$F(\boldsymbol{r}) \equiv \frac{w(\boldsymbol{r})}{A^{1/2}} \left[ n(\boldsymbol{r}) - \alpha n_s(\boldsymbol{r}) \right]$$
 
-where $n_s(\boldsymbol{r})$ is an unclustered synthetic catalog with number density $\bar{n}_s = \bar{n} / \alpha$, and $A$ is a normalization constant chosen so that $\langle |F(\boldsymbol{k})|^2 \rangle \to P(k)$ on small scales.
+where $n_s(\boldsymbol{r})$ is an unclustered synthetic catalog with number density $\bar{n}_s = \bar{n} / \alpha$, and $A$ is a normalization constant chosen so that $\langle   \vertF(\boldsymbol{k})\vert ^2 \rangle \to P(k)$ on small scales.
 
 By performing a variational minimization of the variance $\frac{\operatorname{Var}(\hat{P}(k))}{P^2(k)}$ with respect to the arbitrary weighting function $w(\boldsymbol{r})$, FKP proved that the optimal spatial weight is
 

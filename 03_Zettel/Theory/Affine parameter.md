@@ -27,7 +27,7 @@ mass $m$ has four-momentum $p^\mu = m u^\mu$, with $g_{\mu\nu}p^\mu p^\nu = -m^2
 
 photons travel along null geodesics, where $g_{\mu\nu}\dot x^\mu \dot x^\nu = 0$. there's **no proper time** because $d\tau = 0$ along the path.
 
-instead, choose any affine parameter $\lambda$ such that the geodesic equation holds. for photons, the natural choice is $\lambda$ proportional to the photon's energy as measured by a comoving observer. for example, in the asymptotically flat region of Schwarzschild, you can choose $\lambda$ such that $dx^\mu/d\lambda = (E, \vec p)$ with $E^2 = |\vec p|^2$.
+instead, choose any affine parameter $\lambda$ such that the geodesic equation holds. for photons, the natural choice is $\lambda$ proportional to the photon's energy as measured by a comoving observer. for example, in the asymptotically flat region of Schwarzschild, you can choose $\lambda$ such that $dx^\mu/d\lambda = (E, \vec p)$ with $E^2 = \lvert \vec p\rvert^2$.
 
 ## for spacelike geodesics
 

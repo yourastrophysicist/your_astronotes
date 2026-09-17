@@ -66,7 +66,7 @@ solve only for $\arg(g_i)$ — the phase. doesn't change visibility amplitudes. 
 
 ### amplitude-and-phase
 
-solve for both $|g_i|$ and $\arg(g_i)$. risky: amplitude solutions can absorb the *source flux* into the gains, getting the wrong answer. used carefully, after the model is well-established.
+solve for both $\lvert g_i\rvert$ and $\arg(g_i)$. risky: amplitude solutions can absorb the *source flux* into the gains, getting the wrong answer. used carefully, after the model is well-established.
 
 practical recipe:
 - iterations 1-3: phase-only self-cal

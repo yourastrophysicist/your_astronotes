@@ -58,7 +58,7 @@ so DR contributes $\sim 25$-$50\%$ of chromosome map width if uncorrected. corre
 
 DR is severe in:
 - bulge + bulge GCs (NGC 6528, NGC 6553, Liller 1, Terzan 5);
-- inner halo + disc fields ($|b| < 10^\circ$);
+- inner halo + disc fields ($\lvert b\rvert < 10^\circ$);
 - young LMC + SMC clusters near the Magellanic Stream + 30 Doradus.
 
 in these fields, even a tight CMD ridge has DR-induced scatter $\sigma \sim 0.05$-$0.15$ mag. without DR mapping (see [Differential reddening maps](./Differential%20reddening%20maps.html)), no chromosome map is publishable.

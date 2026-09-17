@@ -12,7 +12,7 @@ the bulletproof root finder. given a continuous $f$ that changes sign on $[a, b]
 1. start with $[a, b]$ such that $f(a) f(b) < 0$
 2. compute $c = (a + b)/2$ and $f(c)$
 3. if $f(a) f(c) < 0$, the root is in $[a, c]$: set $b \leftarrow c$. otherwise it is in $[c, b]$: set $a \leftarrow c$
-4. repeat until $|b - a| < \epsilon$ (or $|f(c)| < \epsilon$)
+4. repeat until $\lvert b - a\rvert < \epsilon$ (or $\lvert f(c)\rvert < \epsilon$)
 
 ## python implementation
 

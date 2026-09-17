@@ -17,7 +17,7 @@ an electron in a hydrogenic atom is labelled by:
 related: total angular momentum quantum number for one electron, $j = \ell + s$ (with $-j \le m_j \le j$).
 
 magnitudes:
-$$|\vec L| = \sqrt{\ell(\ell+1)}\,\hbar, \quad |\vec S| = \sqrt{s(s+1)}\,\hbar, \quad |\vec J| = \sqrt{j(j+1)}\,\hbar$$
+$$\lvert \vec L\rvert = \sqrt{\ell(\ell+1)}\,\hbar, \quad \lvert \vec S\rvert = \sqrt{s(s+1)}\,\hbar, \quad \lvert \vec J\rvert = \sqrt{j(j+1)}\,\hbar$$
 
 ## Pauli exclusion
 

@@ -68,7 +68,7 @@ ruled out by observations: the universe is flat ($\Omega_K \approx 0$) and conta
 ## open (matter only, $k = -1$, $\Lambda = 0$)
 
 similar parametric solution:
-$$a(\eta) = \frac{|k|^{-1/2}}{2}(\cosh\eta - 1), \qquad t(\eta) = \frac{|k|^{-1/2}}{2 c}(\sinh\eta - \eta)$$
+$$a(\eta) = \frac{\lvert k\rvert^{-1/2}}{2}(\cosh\eta - 1), \qquad t(\eta) = \frac{\lvert k\rvert^{-1/2}}{2 c}(\sinh\eta - \eta)$$
 
 the universe expands forever, asymptotically approaching the Milne (empty) limit at late times.
 

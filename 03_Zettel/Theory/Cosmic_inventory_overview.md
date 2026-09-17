@@ -234,7 +234,7 @@ the second peak height and the relative heights of the peaks fix $\Omega_m h^2$:
 ### the matter power spectrum and BAO
 
 once you allow density perturbations, the universe is not so smooth after all. the **matter power spectrum** $P_m(k)$ measures the variance of $\delta\rho_m/\bar\rho_m$ at wavenumber $k$ (loosely $\lambda \sim 1/k$):
-$$P_m(k) \sim \langle |\delta\rho_m/\bar\rho_m|^2 \rangle$$
+$$P_m(k) \sim \langle   \vert\delta\rho_m/\bar\rho_m\vert ^2 \rangle$$
 
 modern measurements stitch together Planck CMB, DES cosmic shear, SDSS LRG galaxies, and BOSS Ly-α forest, and they all sit on a single curve:
 

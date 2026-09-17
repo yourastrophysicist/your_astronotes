@@ -31,19 +31,19 @@ now compute the *autocorrelation* of the speckle frame:
 $$A(\mathbf l) = I_{\rm speckle} \star I_{\rm speckle}$$
 
 (where $\star$ is autocorrelation). in Fourier space:
-$$|\tilde I_{\rm speckle}|^2 = |\tilde O|^2 \cdot |\tilde S|^2$$
+$$\lvert\tilde I_{\rm speckle}\rvert^2 = \lvert\tilde O\rvert^2 \cdot \lvert\tilde S\rvert^2$$
 
 average over many frames:
-$$\langle |\tilde I_{\rm speckle}|^2 \rangle = |\tilde O|^2 \cdot \langle |\tilde S|^2 \rangle$$
+$$\langle   \vert\tilde I_{\rm speckle}\vert ^2 \rangle = \lvert \tilde O\rvert^2 \cdot \langle   \vert\tilde S\vert ^2 \rangle$$
 
-the average of $|\tilde S|^2$ is the **speckle transfer function**. it has *non-zero* response up to the full diffraction-limit cutoff $u_{\max}$ — unlike the long-exposure transfer function, which dies away at $r_0/\lambda$.
+the average of $\lvert \tilde S\rvert^2$ is the **speckle transfer function**. it has *non-zero* response up to the full diffraction-limit cutoff $u_{\max}$ — unlike the long-exposure transfer function, which dies away at $r_0/\lambda$.
 
-so by averaging $|\tilde I|^2$ over many speckle frames, we recover $|\tilde O|^2$ — the *power spectrum* of the source — at all spatial frequencies up to the diffraction limit.
+so by averaging $\lvert \tilde I\rvert^2$ over many speckle frames, we recover $\lvert \tilde O\rvert^2$ — the *power spectrum* of the source — at all spatial frequencies up to the diffraction limit.
 
 ## the speckle transfer function
 
 derived by Labeyrie:
-$$\langle |\tilde S(\mathbf u)|^2 \rangle = T_{\rm long}(\mathbf u) + T_{\rm speckle}(\mathbf u)$$
+$$\langle   \vert\tilde S(\mathbf u)\vert ^2 \rangle = T_{\rm long}(\mathbf u) + T_{\rm speckle}(\mathbf u)$$
 
 with:
 - $T_{\rm long}(\mathbf u)$: low-spatial-frequency content from long-exposure averaging (cuts off at $u \sim r_0/\lambda$)
@@ -53,20 +53,20 @@ so the whole spatial frequency range is sampled, with diminishing efficiency tow
 
 ## what speckle interferometry tells us
 
-it gives the **modulus** $|\tilde O|^2$ at every spatial frequency. equivalently: the **autocorrelation** $A_O = O \star O$.
+it gives the **modulus** $\lvert \tilde O\rvert^2$ at every spatial frequency. equivalently: the **autocorrelation** $A_O = O \star O$.
 
 for symmetric sources (binary stars with equal magnitudes, uniform disks):
 - $A_O$ uniquely determines $O$
-- speckle interferometry → $|\tilde O|$ → $O$ via inverse FT
+- speckle interferometry → $\lvert \tilde O\rvert$ → $O$ via inverse FT
 
-for asymmetric sources, $|\tilde O|$ alone is *not enough* — phase information is needed for full reconstruction. speckle interferometry recovers the *symmetric part* of the source.
+for asymmetric sources, $\lvert \tilde O\rvert$ alone is *not enough* — phase information is needed for full reconstruction. speckle interferometry recovers the *symmetric part* of the source.
 
 for more complete recovery, use [Knox-Thompson](interf/Speckle%20imaging%20algorithms.html) or [triple-correlation](interf/Bispectrum%20and%20triple%20correlation.html) methods, which preserve some phase information.
 
 ## the practical procedure
 
 1. take many short-exposure (10-30 ms) frames of the target through a narrow-band filter
-2. for each frame, compute its FFT, then $|\tilde I|^2$
+2. for each frame, compute its FFT, then $\lvert \tilde I\rvert^2$
 3. average over all frames
 4. divide by the speckle transfer function (calibrated from a reference unresolved star)
 5. inverse-FT to get the autocorrelation $A_O$
@@ -86,7 +86,7 @@ historical importance: Labeyrie 1974 used speckle interferometry to measure the 
 ## the limits
 
 - **bright sources only**: 100+ photons per frame per speckle needed for SNR. limits to $K \sim 10$ or so on 4m telescopes
-- **only $|\tilde O|^2$**: phase information lost in plain Labeyrie
+- **only $\lvert \tilde O\rvert^2$**: phase information lost in plain Labeyrie
 - **slow accumulation**: 1000 frames take ~30 seconds, AO can correct in 1 ms
 
 these limits motivated AO and modern interferometric techniques.

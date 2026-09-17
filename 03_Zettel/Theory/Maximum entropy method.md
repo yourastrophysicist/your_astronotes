@@ -28,7 +28,7 @@ The algorithm seeks to maximize the image entropy $H$, which is defined relative
 $$H = -\sum_k I_k \ln \left( \frac{I_k}{M_k} \right)$$
 
 This maximization is subject to the strict constraint that the resulting image $I$ must correctly predict the observed complex visibilities $V_i^{\rm obs}$ within the thermal noise $\sigma_i$. This is enforced using a chi-squared limit
-$$\chi^2 = \sum_i \frac{|V_i^{\rm obs} - V_i^{\rm model}|^2}{\sigma_i^2} \leq N_{\rm data}$$
+$$\chi^2 = \sum_i \frac{\lvert V_i^{\rm obs} - V_i^{\rm model}\rvert^2}{\sigma_i^2} \leq N_{\rm data}$$
 
 The algorithm iteratively adjusts the pixel values $I_k$ to find the unique global maximum of $H$ that satisfies the $\chi^2$ boundary.
 

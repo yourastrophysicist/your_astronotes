@@ -15,9 +15,9 @@ $$\Gamma_{12}(\mathbf r_1, \mathbf r_2) = \langle E^*(\mathbf r_1, t) E(\mathbf 
 
 normalized:
 
-$$\gamma_{12} = \frac{\Gamma_{12}}{\sqrt{\langle |E_1|^2 \rangle \langle |E_2|^2 \rangle}}$$
+$$\gamma_{12} = \frac{\Gamma_{12}}{\sqrt{\langle   \vertE_1\vert ^2 \rangle \langle   \vertE_2\vert ^2 \rangle}}$$
 
-with $|\gamma_{12}| \in [0, 1]$. this is the **complex degree of spatial coherence**.
+with $\lvert \gamma_{12}\rvert \in [0, 1]$. this is the **complex degree of spatial coherence**.
 
 ## the link to visibility
 
@@ -29,7 +29,7 @@ the visibility *is* the spatial coherence. measure one, and you have the other.
 
 ## what controls spatial coherence
 
-the angular size of the source. a point source produces fully coherent light everywhere ($|\gamma| = 1$ for any baseline). an extended source produces partially coherent light: each point on the source emits independently, and contributions from different points have different phase relationships at the two telescopes. they partially cancel.
+the angular size of the source. a point source produces fully coherent light everywhere ($\lvert \gamma\rvert = 1$ for any baseline). an extended source produces partially coherent light: each point on the source emits independently, and contributions from different points have different phase relationships at the two telescopes. they partially cancel.
 
 quantitatively, the **Van Cittert-Zernike theorem** says
 $$\gamma_{12}(\mathbf B) \propto \int I(\mathbf l) e^{-2\pi i \mathbf B \cdot \mathbf l/\lambda} \, d^2\mathbf l$$
@@ -37,15 +37,15 @@ $$\gamma_{12}(\mathbf B) \propto \int I(\mathbf l) e^{-2\pi i \mathbf B \cdot \m
 where $\mathbf B = \mathbf r_2 - \mathbf r_1$ and $I(\mathbf l)$ is the source brightness distribution.
 
 so:
-- as the source gets larger (extended in $\mathbf l$), the FT becomes more peaked at small $\mathbf u = \mathbf B/\lambda$. so $|\gamma|$ falls off faster with $\mathbf B$
-- as the source gets smaller, the FT broadens. $|\gamma|$ stays high for larger $\mathbf B$
+- as the source gets larger (extended in $\mathbf l$), the FT becomes more peaked at small $\mathbf u = \mathbf B/\lambda$. so $\lvert \gamma\rvert$ falls off faster with $\mathbf B$
+- as the source gets smaller, the FT broadens. $\lvert \gamma\rvert$ stays high for larger $\mathbf B$
 
-a perfectly resolved source ($\theta_s$ much larger than $\lambda/B$): $|\gamma| \approx 0$. no fringes.
-a perfectly unresolved source ($\theta_s$ much smaller than $\lambda/B$): $|\gamma| \approx 1$. perfect fringes.
+a perfectly resolved source ($\theta_s$ much larger than $\lambda/B$): $\lvert \gamma\rvert \approx 0$. no fringes.
+a perfectly unresolved source ($\theta_s$ much smaller than $\lambda/B$): $\lvert \gamma\rvert \approx 1$. perfect fringes.
 
 ## the coherence area
 
-the area over which $|\gamma|$ is high is the **coherence area**:
+the area over which $\lvert \gamma\rvert$ is high is the **coherence area**:
 
 $$A_c \approx \left(\frac{\lambda}{\theta_s}\right)^2$$
 
@@ -62,7 +62,7 @@ the coherence area sets the *baseline range* useful for resolving a given source
 an interferometer with baseline $\mathbf B$ measures $\gamma_{12}(\mathbf B)$ via the visibility of the resulting fringes. varying $\mathbf B$ traces out $\gamma$ as a function of baseline.
 
 for a uniform disk:
-- $|\gamma|$ falls from 1 to 0 like the Airy function
+- $\lvert \gamma\rvert$ falls from 1 to 0 like the Airy function
 - first zero at $B_0 = 1.22 \lambda/\theta_s$
 
 so finding the first null in the visibility curve gives the source diameter.
@@ -88,7 +88,7 @@ so two pinholes more than 55 μm apart see independent light from the Sun and no
 three:
 
 1. **why we want long baselines**: longer baselines $\to$ smaller $\theta_s$ probed. resolution scales as $\lambda/B$
-2. **why visibility falls with baseline**: the source has finite angular size, $|\gamma|$ tracks the FT
+2. **why visibility falls with baseline**: the source has finite angular size, $\lvert \gamma\rvert$ tracks the FT
 3. **why we measure visibility at multiple baselines**: each baseline samples one Fourier component; many baselines reconstruct the source
 
 ## see also

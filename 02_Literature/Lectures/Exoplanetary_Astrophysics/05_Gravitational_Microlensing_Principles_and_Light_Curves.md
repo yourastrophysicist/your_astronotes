@@ -72,7 +72,7 @@ $$\theta_{\pm} = \frac{1}{2} \left( \beta \pm \sqrt{\beta^2 + 4 \theta_E^2} \rig
 
 Because Liouville's theorem conserves surface brightness, gravitational lensing magnifies flux by distorting the solid angle subtended by the source. The magnification of each image is the Jacobian determinant of the lens mapping:
 
-$$A_{\pm} = \left| \frac{\theta_{\pm}}{\beta} \frac{d\theta_{\pm}}{d\beta} \right| = \frac{1}{4} \left( \frac{u}{\sqrt{u^2 + 4}} + \frac{\sqrt{u^2 + 4}}{u} \pm 2 \right)$$
+$$A_{\pm} = \left\lvert \frac{\theta_{\pm}}{\beta} \frac{d\theta_{\pm}}{d\beta} \right\rvert = \frac{1}{4} \left( \frac{u}{\sqrt{u^2 + 4}} + \frac{\sqrt{u^2 + 4}}{u} \pm 2 \right)$$
 
 where $u \equiv \beta / \theta_E$ is the source-lens angular separation normalized to the Einstein radius. The total observable flux magnification is the sum $A(u) = A_+ + A_-$ (**Paczyński 1986**):
 

@@ -134,7 +134,7 @@ $$p_i = \frac{\mathcal{L}_i \Delta X_i}{\hat{\mathcal{Z}}}$$
 
 The posterior distribution is represented as a weighted discrete mixture:
 
-$$P(\boldsymbol{\theta} | \mathbf{D}) \approx \sum_{i=1}^{N+K} p_i \, \delta_D(\boldsymbol{\theta} - \boldsymbol{\theta}_i)$$
+$$P(\boldsymbol{\theta} \mid \mathbf{D}) \approx \sum_{i=1}^{N+K} p_i \, \delta_D(\boldsymbol{\theta} - \boldsymbol{\theta}_i)$$
 
 Any physical expectation value $\mathbb{E}[f(\boldsymbol{\theta})]$ (e.g., mean planet radius, mixing ratios) evaluates directly via importance sum:
 
@@ -148,7 +148,7 @@ Resampling these points with probabilities $p_i$ generates unweighted posterior 
 
 The number of iterations required to traverse from the prior to the typical set depends on the **information gain $H$** (the Kullback-Leibler divergence from prior $\pi$ to posterior $P$):
 
-$$H \equiv \int_{\Omega_{\boldsymbol{\theta}}} P(\boldsymbol{\theta} | \mathbf{D}) \ln\left( \frac{P(\boldsymbol{\theta} | \mathbf{D})}{\pi(\boldsymbol{\theta})} \right) d^D\boldsymbol{\theta} \approx \sum_{i=1}^{N+K} p_i \ln\left(\frac{\mathcal{L}_i}{\hat{\mathcal{Z}}}\right)$$
+$$H \equiv \int_{\Omega_{\boldsymbol{\theta}}} P(\boldsymbol{\theta} \mid \mathbf{D}) \ln\left( \frac{P(\boldsymbol{\theta} \mid \mathbf{D})}{\pi(\boldsymbol{\theta})} \right) d^D\boldsymbol{\theta} \approx \sum_{i=1}^{N+K} p_i \ln\left(\frac{\mathcal{L}_i}{\hat{\mathcal{Z}}}\right)$$
 
 - $H$ measures the compression in state space in units of nats: the typical set occupies a fraction $e^{-H}$ of the original prior volume.
 - The total number of iterations required to reach the posterior peak scales as:

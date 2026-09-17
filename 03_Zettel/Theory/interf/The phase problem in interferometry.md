@@ -10,9 +10,9 @@ a fundamental headache: the **atmosphere randomizes the visibility phase**. for 
 ## what the phase encodes
 
 the complex visibility:
-$$\mathcal V(\mathbf u) = |\mathcal V| e^{i\phi}$$
+$$\mathcal V(\mathbf u) = \lvert \mathcal V\rvert e^{i\phi}$$
 
-amplitude $|\mathcal V|$: the fringe contrast. encodes the *shape* and *symmetric structure* of the source.
+amplitude $\lvert \mathcal V\rvert$: the fringe contrast. encodes the *shape* and *symmetric structure* of the source.
 
 phase $\phi$: where the fringe is positioned. encodes the *asymmetric* structure — the location of the source on the sky, asymmetries in its brightness distribution.
 
@@ -32,9 +32,9 @@ if I integrate the visibility for longer than the atmospheric coherence time, th
 
 if the atmosphere randomizes phase but the wave amplitude is preserved, the *time-averaged* visibility has zero phase but the *modulus* is still informative. crucial fact:
 
-$$\langle |\mathcal V| \rangle$$
+$$\langle   \vert\mathcal V\vert   \rangle$$
 
-over short coherence times remains close to the true $|\mathcal V|$ even when the phase is destroyed.
+over short coherence times remains close to the true $\lvert \mathcal V\rvert$ even when the phase is destroyed.
 
 this is why **fringe-tracking** and **bispectrum/closure** methods exist: they preserve information that survives the atmospheric corruption.
 

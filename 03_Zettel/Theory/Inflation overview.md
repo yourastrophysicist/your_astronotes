@@ -35,10 +35,10 @@ inflation must:
 
 ### flatness
 
-during inflation $|\Omega_K| \propto a^{-2}$ — *decreases* exponentially. starting from any pre-inflation curvature and inflating $N \approx 60$ e-folds:
-$$|\Omega_K|_{\rm post} = |\Omega_K|_{\rm pre} \cdot e^{-2N} \sim |\Omega_K|_{\rm pre} \cdot 10^{-52}$$
+during inflation $\lvert \Omega_K\rvert \propto a^{-2}$ — *decreases* exponentially. starting from any pre-inflation curvature and inflating $N \approx 60$ e-folds:
+$$\lvert \Omega_K\rvert_{\rm post} = \lvert \Omega_K\rvert_{\rm pre} \cdot e^{-2N} \sim \lvert \Omega_K\rvert_{\rm pre} \cdot 10^{-52}$$
 
-so any reasonable starting curvature gets driven to $|\Omega_K| \approx 0$ — explaining today's $|\Omega_K| < 10^{-3}$.
+so any reasonable starting curvature gets driven to $\lvert \Omega_K\rvert \approx 0$ — explaining today's $\lvert \Omega_K\rvert < 10^{-3}$.
 
 ### horizon
 

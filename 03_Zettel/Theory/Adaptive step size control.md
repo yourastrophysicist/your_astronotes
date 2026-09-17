@@ -13,8 +13,8 @@ at each step:
 
 1. propose a step of size $h$
 2. compute the result $\mathbf{y}_{n+1}$ AND an *error estimate* $\boldsymbol{\delta}$ (more on this below)
-3. if $\|\boldsymbol{\delta}\| < \epsilon_{\rm target}$: accept the step, increase $h$ for next time
-4. if $\|\boldsymbol{\delta}\| \geq \epsilon_{\rm target}$: reject, decrease $h$, retry
+3. if $\\lvert \boldsymbol{\delta}\\rvert < \epsilon_{\rm target}$: accept the step, increase $h$ for next time
+4. if $\\lvert \boldsymbol{\delta}\\rvert \geq \epsilon_{\rm target}$: reject, decrease $h$, retry
 
 the result is an integrator that costs the *minimum* number of function evaluations to maintain a given accuracy throughout the integration.
 
@@ -54,9 +54,9 @@ this is *the* adaptive timestep formula. it appears verbatim in scipy, in Press 
 
 a single tolerance $\epsilon$ is too crude for problems with components of very different magnitudes (some $y_i \sim 10^6$, others $\sim 10^{-3}$). use a hybrid:
 
-$$\text{scale}_i = \text{atol} + \text{rtol} \cdot |y_i|$$
+$$\text{scale}_i = \text{atol} + \text{rtol} \cdot \lvert y_i\rvert$$
 $$\delta_i^{\rm scaled} = \delta_i / \text{scale}_i$$
-$$\|\delta\|^2 = \frac{1}{N}\sum_i (\delta_i^{\rm scaled})^2$$
+$$\\lvert \delta\\rvert^2 = \frac{1}{N}\sum_i (\delta_i^{\rm scaled})^2$$
 
 `atol` (absolute tolerance) sets a floor for components near zero. `rtol` (relative tolerance) sets the per-component fractional error. typical values: `rtol=1e-8`, `atol=1e-10`.
 

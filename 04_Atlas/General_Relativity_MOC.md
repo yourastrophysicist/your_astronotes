@@ -230,7 +230,7 @@ GR is a non-linear theory. the equations are notoriously hard to solve. but in m
 
 physical question this block answers: **how do i do GR perturbation theory?**
 
-write the metric as $g_{\mu\nu} = \eta_{\mu\nu} + h_{\mu\nu}$ with $|h| \ll 1$, keep only first-order terms in $h$. this regime contains:
+write the metric as $g_{\mu\nu} = \eta_{\mu\nu} + h_{\mu\nu}$ with $\lvert h\rvert \ll 1$, keep only first-order terms in $h$. this regime contains:
 1. **Newtonian gravity**: the slow-motion, weak-field limit recovers Newton with $h_{00} = -2\Phi$
 2. **gravitational waves**: vacuum solutions of linearized GR
 
@@ -287,7 +287,7 @@ three eras of cosmic history:
 2. **matter era**, $a \propto t^{2/3}$, until $z \sim 0.5$
 3. **dark energy era**, $a \propto e^{H_\Lambda t}$, now and forever
 
-today: $\Omega_r \approx 9 \times 10^{-5}$, $\Omega_m \approx 0.32$, $\Omega_\Lambda \approx 0.68$, $|\Omega_k| < 0.005$. **5% baryons, 27% dark matter, 68% dark energy.** 95% of the universe is invisible.
+today: $\Omega_r \approx 9 \times 10^{-5}$, $\Omega_m \approx 0.32$, $\Omega_\Lambda \approx 0.68$, $\lvert\Omega_k\rvert < 0.005$. **5% baryons, 27% dark matter, 68% dark energy.** 95% of the universe is invisible.
 
 - [Cosmological principle](../03_Zettel/Theory/Cosmological%20principle.html) homogeneous + isotropic at each time
 - [FLRW metric](../03_Zettel/Theory/FLRW%20metric.html) $ds^2 = -dt^2 + a(t)^2 \gamma_{ij} dx^i dx^j$
@@ -556,7 +556,7 @@ The oral examination for General Relativity draws directly from a published bank
   1. The critical impact parameter for photon capture is $b_{\rm crit} = \frac{1}{\sqrt{V_{\rm eff}(3GM)}} = 3\sqrt{3}GM \approx 5.196 GM$.
   1. For weak deflection ($b \gg b_{\rm crit}$), rewrite orbit in $u = 1/r$: $\frac{d^2 u}{d\phi^2} + u = 3GM u^2$.
   1. Zeroth order (straight line): $u_0(\phi) = \frac{\cos\phi}{b}$. First-order perturbation: $u_1(\phi) = \frac{GM}{b^2}(1 + \sin^2\phi)$.
-  1. Total deflection angle: $\Delta\phi = 2|u_1(\pi/2)| b = \frac{4GM}{c^2 b}$. For the Sun ($M = M_\odot, b = R_\odot$), $\Delta\phi = 1.751$ arcseconds, confirming Dyson, Eddington & Davidson (1919).
+  1. Total deflection angle: $\Delta\phi = 2\lvert u_1(\pi/2)\rvert b = \frac{4GM}{c^2 b}$. For the Sun ($M = M_\odot, b = R_\odot$), $\Delta\phi = 1.751$ arcseconds, confirming Dyson, Eddington & Davidson (1919).
 - **Professor Trap Points**: *Mixing up the Newtonian deflection $\Delta\phi_{\rm Newton} = \frac{2GM}{c^2 b}$ with Einstein's GR deflection $\frac{4GM}{c^2 b}$. Space curvature doubles the Newtonian prediction!*
 
 ### Question 14: Perihelion Precession of Mercury
@@ -574,9 +574,9 @@ The oral examination for General Relativity draws directly from a published bank
 
 ### Question 15: Linearized Gravity and Gauge Invariance
 - **Official Exam Question & Figure Asset**: `![gr_q15_solution.png](../assets/images/gr_q15_solution.png)`
-- **Starting Formula**: $$g_{\mu\nu} = \eta_{\mu\nu} + h_{\mu\nu}, \quad |h_{\mu\nu}| \ll 1$$
+- **Starting Formula**: $$g_{\mu\nu} = \eta_{\mu\nu} + h_{\mu\nu}, \quad \lvert h_{\mu\nu}\rvert \ll 1$$
 - **Blackboard Derivation & Step-by-Step Proof**:
-  1. Under coordinate transformation $x^\mu \to x'^\mu = x^\mu + \xi^\mu(x)$ with $|\partial_\mu \xi_\nu| \sim \mathcal{O}(h)$, the metric perturbation transforms as: $h_{\mu\nu} \to h'_{\mu\nu} = h_{\mu\nu} - \partial_\mu \xi_\nu - \partial_\nu \xi_\mu$.
+  1. Under coordinate transformation $x^\mu \to x'^\mu = x^\mu + \xi^\mu(x)$ with $\lvert\partial_\mu \xi_\nu\rvert \sim \mathcal{O}(h)$, the metric perturbation transforms as: $h_{\mu\nu} \to h'_{\mu\nu} = h_{\mu\nu} - \partial_\mu \xi_\nu - \partial_\nu \xi_\mu$.
   1. Define trace-reversed metric perturbation: $\bar{h}_{\mu\nu} = h_{\mu\nu} - \frac{1}{2}\eta_{\mu\nu} h$.
   1. The linearized Einstein tensor is: $G_{\mu\nu}^{(1)} = -\frac{1}{2}\Box \bar{h}_{\mu\nu} - \frac{1}{2}\eta_{\mu\nu}\partial^\alpha\partial^\beta \bar{h}_{\alpha\beta} + \partial^\alpha \partial_{(\mu}\bar{h}_{\nu)\alpha}$.
   1. Choose the **Lorenz gauge** (harmonic gauge): $\partial_\mu \bar{h}^{\mu\nu} = 0$. If $\partial_\mu \bar{h}^{\mu\nu} = f^\nu \ne 0$, choose gauge vector $\xi^\nu$ satisfying $\Box \xi^\nu = f^\nu$, setting the divergence to zero.

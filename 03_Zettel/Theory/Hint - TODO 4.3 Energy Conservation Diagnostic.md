@@ -14,7 +14,7 @@ title: "Hint - TODO 4.3 Energy Conservation Diagnostic"
 
 Total mechanical energy $E = T + V$:
 - Kinetic Energy $T = \frac{1}{2} \sum_{i=1}^N m_i v_i^2$
-- Potential Energy $V = -G \sum_{i < j} \frac{m_i m_j}{|\mathbf{r}_i - \mathbf{r}_j|}$
+- Potential Energy $V = -G \sum_{i < j} \frac{m_i m_j}{\lvert \mathbf{r}_i - \mathbf{r}_j\rvert}$
 
 The relative energy variation between steps is defined as:
 $$\frac{\Delta E}{E(t)} = \frac{E(t+h) - E(t)}{E(t)}$$

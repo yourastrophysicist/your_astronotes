@@ -31,7 +31,7 @@ most components are fixed (or slowly varying). the *delay line* is the actively-
 
 if we want fringes, the path-length match must be tighter than the coherence length:
 
-$$|L_i - L_j| < \ell_c = c/\Delta\nu = \lambda^2/\Delta\lambda$$
+$$\lvert L_i - L_j\rvert < \ell_c = c/\Delta\nu = \lambda^2/\Delta\lambda$$
 
 for K-band ($\lambda = 2.2$ μm, $\Delta\lambda = 0.3$ μm): $\ell_c \sim 16$ μm.
 for narrow-band H ($\lambda = 1.6$ μm, $\Delta\lambda = 0.05$ μm): $\ell_c \sim 50$ μm.

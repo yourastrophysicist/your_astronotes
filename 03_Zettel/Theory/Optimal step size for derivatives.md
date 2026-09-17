@@ -29,7 +29,7 @@ for first derivatives, $q = 1$ (one division by $h$). for second derivatives, $q
 | central $f''$ | 2 | 2 | $\epsilon^{1/4}$ | $10^{-4}$ | $10^{-8}$ |
 | 5-pt central $f''$ | 4 | 2 | $\epsilon^{1/6}$ | $10^{-3}$ | $10^{-10}$ |
 
-(values for $\epsilon \approx 10^{-16}$ in double precision and assuming $|f|, |f^{(p)}| \sim 1$).
+(values for $\epsilon \approx 10^{-16}$ in double precision and assuming $\lvert f\rvert, \lvert f^{(p)}\rvert \sim 1$).
 
 ## the practical defaults
 
@@ -53,16 +53,16 @@ plt.loglog(hs, errs)
 
 the V-shape minimum is where I should set $h$. the minimum width also tells me the *achievable accuracy*: there is no point insisting on more precision than that.
 
-## scaling with $|x|$
+## scaling with $\lvert x\rvert$
 
-if $x$ is large, the *relative* perturbation is what matters. use $h = h_{\rm rel} \cdot |x|$:
+if $x$ is large, the *relative* perturbation is what matters. use $h = h_{\rm rel} \cdot \lvert x\rvert$:
 
 $$f'(x) \approx \frac{f(x(1 + h_{\rm rel})) - f(x(1 - h_{\rm rel}))}{2 x h_{\rm rel}}$$
 
-with $h_{\rm rel} \sim \epsilon^{1/3} \sim 10^{-5}$. this avoids the issue where $h \to 0$ relative to $|x|$ for large $x$, eating up significant figures.
+with $h_{\rm rel} \sim \epsilon^{1/3} \sim 10^{-5}$. this avoids the issue where $h \to 0$ relative to $\lvert x\rvert$ for large $x$, eating up significant figures.
 
 a robust compromise:
-$$h = h_0 + h_{\rm rel} |x|$$
+$$h = h_0 + h_{\rm rel} \lvert x\rvert$$
 
 with $h_0 \sim 10^{-8}$ as a floor for $x \approx 0$.
 

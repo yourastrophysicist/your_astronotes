@@ -13,7 +13,7 @@ title: "Slow-roll parameters epsilon and eta"
 
 Accelerated expansion ($\ddot{a} > 0$) requires the fractional change of the Hubble parameter per Hubble time to be small. The first parameter $\epsilon$ measures this fractional decrease of $H$, and inflation continues as long as $\epsilon < 1$.
 
-However, having $\epsilon < 1$ at an instant is not enough; inflation must last for at least 50–60 e-folds. The second parameter $\eta$ measures the fractional change of $\dot{\phi}$ per Hubble time. Requiring $|\eta| \ll 1$ ensures that the friction balance holds and that the field does not rapidly accelerate down the potential.
+However, having $\epsilon < 1$ at an instant is not enough; inflation must last for at least 50–60 e-folds. The second parameter $\eta$ measures the fractional change of $\dot{\phi}$ per Hubble time. Requiring $\lvert \eta\rvert \ll 1$ ensures that the friction balance holds and that the field does not rapidly accelerate down the potential.
 
 ---
 

@@ -51,7 +51,7 @@ $$\mathrm{OTF}=\mathcal F\{\mathrm{PSF}\}$$
 
 modulation transfer function:
 
-$$\mathrm{MTF}=|\mathrm{OTF}|$$
+$$\mathrm{MTF}=\lvert \mathrm{OTF}\rvert$$
 
 OTF tells which spatial frequencies are transmitted. MTF tells how much contrast survives at each spatial frequency.
 

@@ -38,9 +38,9 @@ plt.plot(freqs, np.abs(X_shifted))
 
 ## amplitudes and phases
 
-each $X_k$ is complex: $X_k = |X_k| e^{i\phi_k}$. interpretation:
+each $X_k$ is complex: $X_k = \lvert X_k\rvert e^{i\phi_k}$. interpretation:
 
-- $|X_k|$: amplitude of the $k$-th frequency
+- $\lvert X_k\rvert$: amplitude of the $k$-th frequency
 - $\arg X_k$: phase of the $k$-th frequency (where the cosine starts)
 
 for a real signal, $X_k = X_{N-k}^*$, so amplitudes are mirror-symmetric around $k = N/2$ and phases are antisymmetric. this is why we usually only plot the positive-frequency half.
@@ -54,7 +54,7 @@ $$X_m = \frac{NA}{2}, \quad X_{N-m} = \frac{NA}{2}, \quad \text{others} = 0$$
 
 each pure sinusoid contributes $NA/2$ to *two* bins (positive and negative frequencies). to get the physical amplitude $A$ from the FFT:
 
-$$A = 2 |X_m| / N$$
+$$A = 2 \lvert X_m\rvert / N$$
 
 (using just the positive-frequency bin, doubling to account for the negative-frequency mirror).
 
@@ -89,15 +89,15 @@ doubling $\Delta t$ (sampling slower) doesn't change $\Delta f$, just halves $f_
 
 ## power spectrum vs amplitude spectrum
 
-- **amplitude spectrum**: $|X_k|$
-- **power spectrum**: $|X_k|^2$, or normalized to physical units (power per Hz): $|X_k|^2/(N \Delta t)$
+- **amplitude spectrum**: $\lvert X_k\rvert$
+- **power spectrum**: $\lvert X_k\rvert^2$, or normalized to physical units (power per Hz): $\lvert X_k\rvert^2/(N \Delta t)$
 
 power is what is conserved by Parseval and what the eye usually wants in a log-log plot. astrophysics convention is usually one-sided power spectrum (positive frequencies only, doubled to account for the negative half).
 
 ## astrophysics use cases
 
 - **pulsar timing**: search for periodicities in photon arrival times via FFT, peak amplitude at the rotation frequency
-- **gravitational-wave detection**: matched filtering done entirely in the frequency domain; signal-to-noise = $\langle h | s \rangle$ via FFT
+- **gravitational-wave detection**: matched filtering done entirely in the frequency domain; signal-to-noise = $\langle h \vert s \rangle$ via FFT
 - **stellar oscillations / asteroseismology**: oscillation modes appear as discrete peaks in the time-series FFT
 - **CMB temperature analysis**: spherical-harmonic transform = sphere's Fourier transform, peaks at acoustic scales
 - **active-galactic-nuclei variability**: power spectrum of X-ray light curves probes accretion physics

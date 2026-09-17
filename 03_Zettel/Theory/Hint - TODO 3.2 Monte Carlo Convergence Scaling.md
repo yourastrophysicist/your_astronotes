@@ -13,7 +13,7 @@ title: "Hint - TODO 3.2 Monte Carlo Convergence Scaling"
 ## Explanation
 
 Monte Carlo integration error scales as $\sigma \propto \frac{1}{\sqrt{N}}$:
-- Plotting absolute error $|I_{\text{MC}} - I_{\text{exact}}|$ against $N$ on a log-log scale produces a line with slope $-1/2$.
+- Plotting absolute error $\lvert I_{\text{MC}} - I_{\text{exact}}\rvert$ against $N$ on a log-log scale produces a line with slope $-1/2$.
 
 ```python
 ax.loglog(N_values, errors, 'o-', label='Actual Error')

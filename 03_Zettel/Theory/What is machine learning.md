@@ -46,7 +46,7 @@ graphically: as I increase model complexity, training error always decreases but
 
 forces the model to be simpler than the data alone would allow. options:
 
-- **L1 / Lasso**: penalize $\sum |\theta_k|$ → sparse solutions (many parameters → 0)
+- **L1 / Lasso**: penalize $\sum \lvert \theta_k\rvert$ → sparse solutions (many parameters → 0)
 - **L2 / Ridge**: penalize $\sum \theta_k^2$ → small parameters
 - **dropout** (neural networks): randomly drop neurons during training
 - **early stopping**: stop training before fully converged

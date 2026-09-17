@@ -72,7 +72,7 @@ alternative to Big Bang:
 ## $\Lambda$CDM (modern, 1998-)
 
 the standard model:
-- $\Omega_m \approx 0.31$, $\Omega_\Lambda \approx 0.69$, $|\Omega_k| < 0.005$.
+- $\Omega_m \approx 0.31$, $\Omega_\Lambda \approx 0.69$, $\lvert \Omega_k\rvert < 0.005$.
 - flat with $\Lambda$ + cold dark matter + standard inflation.
 - accelerated expansion since $z \sim 0.7$.
 - age $13.8$ Gyr.

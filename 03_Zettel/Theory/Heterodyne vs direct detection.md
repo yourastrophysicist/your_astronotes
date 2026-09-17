@@ -24,7 +24,7 @@ $$V_{\rm mix}(t) = \frac{V_0 V_{\text{LO}}}{2} \left[ \cos(2\pi (\nu_{\rm RF} - 
 
 A low-pass filter removes the high-frequency sum term ($\nu_{\rm RF} + \nu_{\rm LO}$), leaving the **Intermediate Frequency (IF)** signal:
 
-$$V_{\rm IF}(t) = V_{\text{IF}} \cos(2\pi \nu_{\rm IF} t + \Delta\phi), \quad \text{where } \nu_{\rm IF} = |\nu_{\rm RF} - \nu_{\rm LO}|, \quad \Delta\phi = \phi_{\text{sky}} - \phi_{\text{LO}}$$
+$$V_{\rm IF}(t) = V_{\text{IF}} \cos(2\pi \nu_{\rm IF} t + \Delta\phi), \quad \text{where } \nu_{\rm IF} = \lvert \nu_{\rm RF} - \nu_{\rm LO}\rvert, \quad \Delta\phi = \phi_{\text{sky}} - \phi_{\text{LO}}$$
 
 **Key Physical Result**: Downconversion reduces the signal frequency from GHz to MHz/GHz range while **100% preserving the sky phase $\phi_{\text{sky}}$ and amplitude $V_0$**.
 
@@ -41,7 +41,7 @@ at optical/IR wavelengths ($\nu \sim 10^{14}-10^{15}\text{ Hz}$), no electronic 
 optical interferometers must therefore combine the *actual light waves* before detection:
 - Light from each telescope travels down real optical delay lines (evacuated tubes, precision mirrors) to a central beam combiner.
 - The light waves physically overlap at a beam splitter or fiber coupler, producing spatial or temporal interference fringes:
-  $$I_{\text{detected}} = I_1 + I_2 + 2\sqrt{I_1 I_2} |V| \cos(\phi_{\text{optical}})$$
+  $$I_{\text{detected}} = I_1 + I_2 + 2\sqrt{I_1 I_2} \lvert V\rvert \cos(\phi_{\text{optical}})$$
 - Detectors (CCDs, avalanche photodiodes) measure photon count intensities $I_{\text{detected}}$.
 
 ---

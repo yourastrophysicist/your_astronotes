@@ -27,14 +27,14 @@ so the error is $-\tfrac{h^2}{12} f^{(4)}(\xi)$, $O(h^2)$ accuracy.
 
 ## the U-shape: even worse than for first derivatives
 
-second derivatives have a **fiercer** roundoff problem. the numerator is $f(x+h) - 2f(x) + f(x-h)$ — three near-equal terms, two cancellations. roundoff in the numerator is $\sim \epsilon |f|$. dividing by $h^2$ amplifies it as $\epsilon|f|/h^2$.
+second derivatives have a **fiercer** roundoff problem. the numerator is $f(x+h) - 2f(x) + f(x-h)$ — three near-equal terms, two cancellations. roundoff in the numerator is $\sim \epsilon \lvert f\rvert$. dividing by $h^2$ amplifies it as $\epsilon\lvert f\rvert/h^2$.
 
-balancing truncation $h^2|f^{(4)}|/12$ against roundoff $\epsilon|f|/h^2$:
+balancing truncation $h^2\lvert f^{(4)}\rvert/12$ against roundoff $\epsilon\lvert f\rvert/h^2$:
 
 $$h_{\rm opt} \sim \epsilon^{1/4} \approx 10^{-4}$$
 
 minimum error:
-$$E_{\min} \sim \sqrt{\epsilon|f||f^{(4)}|} \approx 10^{-8}$$
+$$E_{\min} \sim \sqrt{\epsilon\lvert f\rvert\lvert f^{(4)}\rvert} \approx 10^{-8}$$
 
 so the **best achievable accuracy of a second derivative by finite differences is only $\sim 10^{-8}$**, even with double precision. for higher accuracy, use complex-step differentiation or symbolic/automatic differentiation.
 

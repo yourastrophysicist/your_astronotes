@@ -61,7 +61,7 @@ equivalently, **flatness is equivalent to $\Omega_{\rm tot} = 1$**.
 ## observational constraint
 
 current bound (Planck 2018 + BAO):
-$$|\Omega_k| < 0.005\quad(95\%\,\text{CL})$$
+$$\lvert \Omega_k\rvert < 0.005\quad(95\%\,\text{CL})$$
 
 so the universe is **flat to better than 0.5%**. consistent with $k = 0$.
 
@@ -69,7 +69,7 @@ this is consistent with **inflation**: inflation drives $\Omega_k \to 0$ exponen
 
 ## physical scales
 
-even at $|\Omega_k| < 0.005$, the curvature radius $R \gtrsim 14$ Gpc. so the universe is curved on scales larger than the Hubble radius. within the observable universe, curvature is negligible.
+even at $\lvert \Omega_k\rvert < 0.005$, the curvature radius $R \gtrsim 14$ Gpc. so the universe is curved on scales larger than the Hubble radius. within the observable universe, curvature is negligible.
 
 ## see also
 

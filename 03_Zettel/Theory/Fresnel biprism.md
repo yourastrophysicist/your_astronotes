@@ -52,7 +52,7 @@ modern lecture demos sometimes use the biprism for its visual elegance, though Y
 
 same as Young's experiment:
 - monochromatic source: full contrast
-- broadband source: fringes within the central few orders, washing out at large $|m|$
+- broadband source: fringes within the central few orders, washing out at large $\lvert m\rvert$
 - extended source: visibility decreases as the source angular size grows
 
 ## see also

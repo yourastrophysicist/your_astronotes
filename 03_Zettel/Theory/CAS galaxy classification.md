@@ -21,7 +21,7 @@ typical:
 ### asymmetry $A$
 
 degree of rotational symmetry. compute:
-$$A = \frac{\sum |I(x, y) - I_{180}(x, y)|}{2\sum |I(x, y)|}$$
+$$A = \frac{\sum \lvert I(x, y) - I_{180}(x, y)\rvert}{2\sum \lvert I(x, y)\rvert}$$
 
 with $I_{180}$ = image rotated by $180°$. high $A$ = lopsided / merging / disturbed galaxies.
 
@@ -33,7 +33,7 @@ typical:
 ### smoothness (clumpiness) $S$
 
 degree of small-scale structure. compute residual after smoothing:
-$$S = \frac{\sum |I(x, y) - I_S(x, y)|}{\sum |I(x, y)|}$$
+$$S = \frac{\sum \lvert I(x, y) - I_S(x, y)\rvert}{\sum \lvert I(x, y)\rvert}$$
 
 with $I_S$ = smoothed (Gaussian) image. high $S$ = clumpy (star-forming, knots), low $S$ = smooth (passive).
 

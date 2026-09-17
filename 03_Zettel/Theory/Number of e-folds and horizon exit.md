@@ -26,7 +26,7 @@ Using $dt = \frac{d\phi}{\dot{\phi}} \approx -\frac{3H}{V'} d\phi$:
 $$N(\phi) \approx \int_{\phi_{\rm end}}^\phi \frac{H^2}{V'} d\phi' = \frac{1}{M_{\rm Pl}^2} \int_{\phi_{\rm end}}^\phi \frac{V}{V'} d\phi' = \frac{1}{M_{\rm Pl}} \int_{\phi_{\rm end}}^\phi \frac{d\phi'}{\sqrt{2\epsilon_V}}$$
 
 where $\phi_{\rm end}$ is defined by the breakdown of slow roll:
-$$\epsilon_V(\phi_{\rm end}) = 1 \quad \text{or} \quad |\eta_V(\phi_{\rm end})| = 1$$
+$$\epsilon_V(\phi_{\rm end}) = 1 \quad \text{or} \quad \lvert \eta_V(\phi_{\rm end})\rvert = 1$$
 
 ### Horizon exit condition
 A comoving Fourier mode $k$ exits the Hubble radius when its comoving wavelength equals the comoving Hubble radius:

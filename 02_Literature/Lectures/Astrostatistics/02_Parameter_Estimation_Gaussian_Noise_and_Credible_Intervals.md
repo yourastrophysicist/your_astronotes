@@ -18,7 +18,7 @@ The observed data represent a superposition of the true physical signal and an o
 
 $$\boldsymbol{d} = \boldsymbol{s}(\boldsymbol{\theta}) + \boldsymbol{n}$$
 
-The statistical properties of the noise field $\boldsymbol{n}$ govern the form of the likelihood function $\mathcal{L}(\boldsymbol{\theta}) \equiv p(\boldsymbol{d} | \boldsymbol{\theta})$. 
+The statistical properties of the noise field $\boldsymbol{n}$ govern the form of the likelihood function $\mathcal{L}(\boldsymbol{\theta}) \equiv p(\boldsymbol{d} \mid \boldsymbol{\theta})$. 
 
 ---
 
@@ -32,11 +32,11 @@ Assume each measurement $d_i$ suffers from independent, zero-mean Gaussian noise
 
 The forward probability of observing $d_i$ given parameter values $\boldsymbol{\theta}$ is
 
-$$p(d_i | \boldsymbol{\theta}) = \frac{1}{\sqrt{2\pi \sigma_i^2}} \exp\left( -\frac{[d_i - s_i(\boldsymbol{\theta})]^2}{2\sigma_i^2} \right)$$
+$$p(d_i \mid \boldsymbol{\theta}) = \frac{1}{\sqrt{2\pi \sigma_i^2}} \exp\left( -\frac{[d_i - s_i(\boldsymbol{\theta})]^2}{2\sigma_i^2} \right)$$
 
 Because individual measurements are statistically independent, the joint likelihood function factorizes into the product of individual probabilities
 
-$$\mathcal{L}(\boldsymbol{\theta}) = \prod_{i=1}^N p(d_i | \boldsymbol{\theta}) = \left( \prod_{i=1}^N \frac{1}{\sqrt{2\pi\sigma_i^2}} \right) \exp\left( -\frac{1}{2} \sum_{i=1}^N \frac{[d_i - s_i(\boldsymbol{\theta})]^2}{\sigma_i^2} \right)$$
+$$\mathcal{L}(\boldsymbol{\theta}) = \prod_{i=1}^N p(d_i \mid \boldsymbol{\theta}) = \left( \prod_{i=1}^N \frac{1}{\sqrt{2\pi\sigma_i^2}} \right) \exp\left( -\frac{1}{2} \sum_{i=1}^N \frac{[d_i - s_i(\boldsymbol{\theta})]^2}{\sigma_i^2} \right)$$
 
 Defining the classical chi-squared goodness-of-fit statistic
 
@@ -85,7 +85,7 @@ The MLE exhibits remarkable asymptotic properties under regular conditions
 
 The Maximum A Posteriori estimator, denoted $\hat{\boldsymbol{\theta}}_{\text{MAP}}$, incorporates prior knowledge by finding the mode of the posterior probability density function
 
-$$\hat{\boldsymbol{\theta}}_{\text{MAP}} \equiv \operatorname{argmax}_{\boldsymbol{\theta}} p(\boldsymbol{\theta} | \boldsymbol{d}) = \operatorname{argmax}_{\boldsymbol{\theta}} \left[ \ln \mathcal{L}(\boldsymbol{\theta}) + \ln \pi(\boldsymbol{\theta}) \right]$$
+$$\hat{\boldsymbol{\theta}}_{\text{MAP}} \equiv \operatorname{argmax}_{\boldsymbol{\theta}} p(\boldsymbol{\theta} \mid \boldsymbol{d}) = \operatorname{argmax}_{\boldsymbol{\theta}} \left[ \ln \mathcal{L}(\boldsymbol{\theta}) + \ln \pi(\boldsymbol{\theta}) \right]$$
 
 When the prior $\pi(\boldsymbol{\theta})$ is uniform over the support of the likelihood, $\ln \pi(\boldsymbol{\theta})$ is an additive constant, and the MAP estimator coincides exactly with the MLE.
 
@@ -97,27 +97,27 @@ When the prior is informative, the MAP estimator balances goodness-of-fit agains
 
 A foundational theorem in Bayesian asymptotics is the Bernstein-von Mises theorem (often described as the Bayesian Central Limit Theorem).
 
-Consider a dataset of $N$ independent observations drawn from an underlying true distribution $p(d|\boldsymbol{\theta}_0)$. As $N \to \infty$, the log-likelihood grows linearly with $N$
+Consider a dataset of $N$ independent observations drawn from an underlying true distribution $p(d \mid \boldsymbol{\theta}_0)$. As $N \to \infty$, the log-likelihood grows linearly with $N$
 
-$$\ln \mathcal{L}(\boldsymbol{\theta}) = \sum_{i=1}^N \ln p(d_i | \boldsymbol{\theta}) \sim \mathcal{O}(N)$$
+$$\ln \mathcal{L}(\boldsymbol{\theta}) = \sum_{i=1}^N \ln p(d_i \mid \boldsymbol{\theta}) \sim \mathcal{O}(N)$$
 
 while the prior density $\pi(\boldsymbol{\theta})$ remains constant, contributing $\mathcal{O}(1)$ to the total log-posterior.
 
 Expanding the log-posterior in a Taylor series about the maximum a posteriori point $\hat{\boldsymbol{\theta}}$
 
-$$\ln p(\boldsymbol{\theta} | \boldsymbol{d}) \approx \ln p(\hat{\boldsymbol{\theta}} | \boldsymbol{d}) + \left. \nabla_{\boldsymbol{\theta}} \ln p(\boldsymbol{\theta} | \boldsymbol{d}) \right|_{\hat{\boldsymbol{\theta}}} (\boldsymbol{\theta} - \hat{\boldsymbol{\theta}}) - \frac{1}{2} (\boldsymbol{\theta} - \hat{\boldsymbol{\theta}})^T \boldsymbol{\Sigma}_{\text{post}}^{-1} (\boldsymbol{\theta} - \hat{\boldsymbol{\theta}})$$
+$$\ln p(\boldsymbol{\theta} \mid \boldsymbol{d}) \approx \ln p(\hat{\boldsymbol{\theta}} \mid \boldsymbol{d}) + \left. \nabla_{\boldsymbol{\theta}} \ln p(\boldsymbol{\theta} \mid \boldsymbol{d}) \right\rvert_{\hat{\boldsymbol{\theta}}} (\boldsymbol{\theta} - \hat{\boldsymbol{\theta}}) - \frac{1}{2} (\boldsymbol{\theta} - \hat{\boldsymbol{\theta}})^T \boldsymbol{\Sigma}_{\text{post}}^{-1} (\boldsymbol{\theta} - \hat{\boldsymbol{\theta}})$$
 
 Because $\hat{\boldsymbol{\theta}}$ is an interior local extremum, the first-order gradient vanishes identically
 
-$$\left. \nabla_{\boldsymbol{\theta}} \ln p(\boldsymbol{\theta} | \boldsymbol{d}) \right|_{\hat{\boldsymbol{\theta}}} = 0$$
+$$\left. \nabla_{\boldsymbol{\theta}} \ln p(\boldsymbol{\theta} \mid \boldsymbol{d}) \right\rvert_{\hat{\boldsymbol{\theta}}} = 0$$
 
 The curvature matrix is governed by the negative Hessian of the log-posterior
 
-$$\boldsymbol{\Sigma}_{\text{post}}^{-1} = -\left. \frac{\partial^2 \ln p(\boldsymbol{\theta} | \boldsymbol{d})}{\partial \boldsymbol{\theta} \, \partial \boldsymbol{\theta}^T} \right|_{\hat{\boldsymbol{\theta}}} = -\left. \frac{\partial^2 \ln \mathcal{L}(\boldsymbol{\theta})}{\partial \boldsymbol{\theta} \, \partial \boldsymbol{\theta}^T} \right|_{\hat{\boldsymbol{\theta}}} - \left. \frac{\partial^2 \ln \pi(\boldsymbol{\theta})}{\partial \boldsymbol{\theta} \, \partial \boldsymbol{\theta}^T} \right|_{\hat{\boldsymbol{\theta}}}$$
+$$\boldsymbol{\Sigma}_{\text{post}}^{-1} = -\left. \frac{\partial^2 \ln p(\boldsymbol{\theta} \mid \boldsymbol{d})}{\partial \boldsymbol{\theta} \, \partial \boldsymbol{\theta}^T} \right\rvert_{\hat{\boldsymbol{\theta}}} = -\left. \frac{\partial^2 \ln \mathcal{L}(\boldsymbol{\theta})}{\partial \boldsymbol{\theta} \, \partial \boldsymbol{\theta}^T} \right\rvert_{\hat{\boldsymbol{\theta}}} - \left. \frac{\partial^2 \ln \pi(\boldsymbol{\theta})}{\partial \boldsymbol{\theta} \, \partial \boldsymbol{\theta}^T} \right\rvert_{\hat{\boldsymbol{\theta}}}$$
 
 As $N \to \infty$, the likelihood curvature dominates completely, and the posterior distribution approaches a multivariate Gaussian
 
-$$p(\boldsymbol{\theta} | \boldsymbol{d}) \xrightarrow{N \to \infty} \mathcal{N}\left( \hat{\boldsymbol{\theta}}_{\text{MLE}}, \boldsymbol{F}^{-1} \right)$$
+$$p(\boldsymbol{\theta} \mid \boldsymbol{d}) \xrightarrow{N \to \infty} \mathcal{N}\left( \hat{\boldsymbol{\theta}}_{\text{MLE}}, \boldsymbol{F}^{-1} \right)$$
 
 where $\boldsymbol{F}$ is the Fisher information matrix.
 
@@ -147,7 +147,7 @@ $$\pi(\mu) = \frac{1}{\sqrt{2\pi\sigma_0^2}} \exp\left( -\frac{(\mu - \mu_0)^2}{
 
 Multiplying prior and likelihood yields the posterior distribution
 
-$$p(\mu | \boldsymbol{d}) \propto \exp\left( -\frac{1}{2} \left[ \frac{(\mu - \mu_0)^2}{\sigma_0^2} + \frac{N(\mu - \bar{d})^2}{\sigma^2} \right] \right)$$
+$$p(\mu \mid \boldsymbol{d}) \propto \exp\left( -\frac{1}{2} \left[ \frac{(\mu - \mu_0)^2}{\sigma_0^2} + \frac{N(\mu - \bar{d})^2}{\sigma^2} \right] \right)$$
 
 Expressing probability densities in terms of precision (the inverse variance), define prior precision $\tau_0 \equiv 1/\sigma_0^2$ and noise precision per sample $\tau \equiv 1/\sigma^2$. The exponent becomes
 
@@ -171,11 +171,11 @@ This closed-form derivation demonstrates fundamental Bayesian principles
 
 ## Credible Intervals and Bayesian Error Bars
 
-In Bayesian statistics, uncertainty on a physical parameter $\theta$ is fully characterized by the continuous posterior distribution $p(\theta | \boldsymbol{d})$. To convey this uncertainty compactly, we construct a credible interval.
+In Bayesian statistics, uncertainty on a physical parameter $\theta$ is fully characterized by the continuous posterior distribution $p(\theta \mid \boldsymbol{d})$. To convey this uncertainty compactly, we construct a credible interval.
 
 A $100(1 - \alpha)\%$ credible region $\mathcal{R}_\alpha$ in parameter space is a subset satisfying the condition that the integrated posterior probability within the region equals $1 - \alpha$
 
-$$\int_{\mathcal{R}_\alpha} p(\boldsymbol{\theta} | \boldsymbol{d}) \, d\boldsymbol{\theta} = 1 - \alpha$$
+$$\int_{\mathcal{R}_\alpha} p(\boldsymbol{\theta} \mid \boldsymbol{d}) \, d\boldsymbol{\theta} = 1 - \alpha$$
 
 Typical choices for $1 - \alpha$ include $0.6827$ (1-sigma equivalent), $0.9545$ (2-sigma equivalent), and $0.9973$ (3-sigma equivalent).
 
@@ -185,7 +185,7 @@ Because infinitely many intervals can enclose probability $1 - \alpha$, two form
 
 For a one-dimensional parameter $\theta \in [\theta_{\text{min}}, \theta_{\text{max}}]$, the equal-tailed credible interval $[\theta_1, \theta_2]$ places equal probability mass $\alpha/2$ in each of the two tails
 
-$$\int_{-\infty}^{\theta_1} p(\theta | \boldsymbol{d}) \, d\theta = \frac{\alpha}{2} \qquad \text{and} \qquad \int_{\theta_2}^\infty p(\theta | \boldsymbol{d}) \, d\theta = \frac{\alpha}{2}$$
+$$\int_{-\infty}^{\theta_1} p(\theta \mid \boldsymbol{d}) \, d\theta = \frac{\alpha}{2} \qquad \text{and} \qquad \int_{\theta_2}^\infty p(\theta \mid \boldsymbol{d}) \, d\theta = \frac{\alpha}{2}$$
 
 The boundaries correspond directly to the $\alpha/2$ and $1 - \alpha/2$ quantiles of the cumulative distribution function. Equal-tailed intervals are computationally trivial to extract from MCMC chain samples by simple rank ordering. However, for skewed, asymmetric, or bounded distributions (such as neutrino mass sums $\sum m_\nu > 0$), equal-tailed intervals can include regions of lower probability density while excluding regions of higher density.
 
@@ -193,11 +193,11 @@ The boundaries correspond directly to the $\alpha/2$ and $1 - \alpha/2$ quantile
 
 The Highest Posterior Density region $\mathcal{R}_{\text{HPD}}$ is defined by the property that the posterior density at every point inside the region is strictly greater than the posterior density at any point outside the region
 
-$$\mathcal{R}_{\text{HPD}} = \{ \boldsymbol{\theta} \mid p(\boldsymbol{\theta} | \boldsymbol{d}) \ge c_\alpha \}$$
+$$\mathcal{R}_{\text{HPD}} = \{ \boldsymbol{\theta} \mid p(\boldsymbol{\theta} \mid \boldsymbol{d}) \ge c_\alpha \}$$
 
 where the constant threshold $c_\alpha$ is chosen such that
 
-$$\int_{\mathcal{R}_{\text{HPD}}} p(\boldsymbol{\theta} | \boldsymbol{d}) \, d\boldsymbol{\theta} = 1 - \alpha$$
+$$\int_{\mathcal{R}_{\text{HPD}}} p(\boldsymbol{\theta} \mid \boldsymbol{d}) \, d\boldsymbol{\theta} = 1 - \alpha$$
 
 The HPD region possesses two key geometric properties
 1. Minimum Volume - among all possible regions containing probability $1 - \alpha$, the HPD region occupies the smallest total volume in parameter space.
@@ -219,7 +219,7 @@ For a symmetric unimodal distribution (such as a Gaussian), the equal-tailed int
 ## Lecture Visuals & Parameter Estimation
 
 ![Parameter Estimation and Credible Intervals](../../../assets/images/astrostat_liguori_p10.png)
-*Figure AST-02: Bayesian Parameter Estimation with Gaussian Measurement Noise. The posterior probability density function $P(\theta | D, I) \propto \mathcal{L}(D | \theta) \pi(\theta)$ under homoscedastic Gaussian noise $\sigma$ yields the quadratic log-likelihood $\ln \mathcal{L} = -\frac{1}{2} \sum \frac{(d_i - \mu_i(\theta))^2}{\sigma^2}$. The $68.3\%$ and $95.4\%$ Bayesian credible intervals are computed via direct integration of the posterior volume: $\int_{\Omega_C} P(\theta|D) d\theta = 1 - \alpha$.*
+*Figure AST-02: Bayesian Parameter Estimation with Gaussian Measurement Noise. The posterior probability density function $P(\theta \mid D, I) \propto \mathcal{L}(D \mid \theta) \pi(\theta)$ under homoscedastic Gaussian noise $\sigma$ yields the quadratic log-likelihood $\ln \mathcal{L} = -\frac{1}{2} \sum \frac{(d_i - \mu_i(\theta))^2}{\sigma^2}$. The $68.3\%$ and $95.4\%$ Bayesian credible intervals are computed via direct integration of the posterior volume: $\int_{\Omega_C} P(\theta \mid D) d\theta = 1 - \alpha$.*
 {% endraw %}
 
 <div class="backlinks-section">

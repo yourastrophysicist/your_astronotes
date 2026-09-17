@@ -24,8 +24,8 @@ $$v = (-B_x \sin\delta \cos H + B_y \sin\delta \sin H + B_z \cos\delta)/\lambda$
 
 as $H$ varies over a night, $(u, v)$ traces an *ellipse* with:
 - center at $(0, B_z \cos\delta/\lambda)$
-- semi-major axis $|B_{xy}|/\lambda$ (in the $u$ direction, $B_{xy} = \sqrt{B_x^2 + B_y^2}$)
-- semi-minor axis $|B_{xy}|/\lambda \cdot \sin\delta$ (in the $v$ direction)
+- semi-major axis $\lvert B_{xy}\rvert/\lambda$ (in the $u$ direction, $B_{xy} = \sqrt{B_x^2 + B_y^2}$)
+- semi-minor axis $\lvert B_{xy}\rvert/\lambda \cdot \sin\delta$ (in the $v$ direction)
 
 so:
 - at the **celestial pole** ($\delta = 90°$): $\sin\delta = 1$, ellipse → **circle**. perfect 2D coverage

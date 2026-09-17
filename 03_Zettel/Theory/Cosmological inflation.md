@@ -40,7 +40,7 @@ needed: $V(\phi)$ that:
 ## the predictions
 
 inflation makes specific predictions, **all of which have been observed**:
-1. **flatness**: $\Omega_k \to 0$. confirmed: $|\Omega_k| < 0.005$.
+1. **flatness**: $\Omega_k \to 0$. confirmed: $\lvert \Omega_k\rvert < 0.005$.
 2. **gaussian + nearly-scale-invariant scalar perturbations**: with spectral tilt $n_s$ slightly less than 1. confirmed: $n_s = 0.965 \pm 0.004$.
 3. **adiabatic perturbations**: same fluctuations in all species (photons, baryons, neutrinos, dark matter). confirmed by CMB.
 4. **gaussianity**: density perturbations have a near-Gaussian distribution. confirmed: $f_{NL} \sim 0$.

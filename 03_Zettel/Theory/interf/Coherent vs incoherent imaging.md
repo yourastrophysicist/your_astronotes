@@ -9,15 +9,15 @@ a fundamental distinction. **coherent** imaging adds wave amplitudes; **incohere
 
 ## the math
 
-two waves $\psi_1, \psi_2$ at a detector. the detected intensity is $I = |\psi_1 + \psi_2|^2$.
+two waves $\psi_1, \psi_2$ at a detector. the detected intensity is $I = \lvert \psi_1 + \psi_2\rvert^2$.
 
 if $\psi_1$ and $\psi_2$ are **coherent** (same source, fixed phase relationship):
-$$I = |\psi_1|^2 + |\psi_2|^2 + 2 \text{Re}\{\psi_1^* \psi_2\}$$
+$$I = \lvert \psi_1\rvert^2 + \lvert \psi_2\rvert^2 + 2 \text{Re}\{\psi_1^* \psi_2\}$$
 
 the cross term $2\text{Re}\{\psi_1^* \psi_2\}$ is the interference. depending on the phase, it can be positive (constructive) or negative (destructive).
 
 if $\psi_1, \psi_2$ are **incoherent** (independent sources, or same source but with phases that vary much faster than the detector integration time), the cross term **averages to zero**:
-$$\langle I \rangle = \langle |\psi_1|^2 \rangle + \langle |\psi_2|^2 \rangle = I_1 + I_2$$
+$$\langle I \rangle = \langle \vert\psi_1\vert ^2 \rangle + \langle   \vert\psi_2\vert ^2 \rangle = I_1 + I_2$$
 
 intensities just sum.
 

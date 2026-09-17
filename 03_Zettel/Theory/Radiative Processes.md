@@ -18,7 +18,7 @@ The root of all classical electromagnetic radiation is the **Larmor formula**:
 	any **accelerating charged particle** emits radiation
 
 Non-relativistic (Larmor):
-$$P = \frac{2q^2}{3c^3}|\ddot{\vec{r}}|^2 = \frac{2q^2}{3c^3}a^2$$
+$$P = \frac{2q^2}{3c^3}\lvert \ddot{\vec{r}}\rvert^2 = \frac{2q^2}{3c^3}a^2$$
 
 Relativistic generalization:
 $$P = \frac{2q^2\gamma^4}{3c^4}\left(a_\perp^2 + \gamma^2 a_\parallel^2\right)$$

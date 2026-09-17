@@ -15,7 +15,7 @@ $$\phi_{\rm rot}(v) = \frac{2}{\pi v\sin i}\sqrt{1 - (v/v\sin i)^2} \cdot (1 - \
 
 ## why two-horned
 
-at the limbs, the integrated line of sight has a full velocity span; at disk centre, much less. the cross-section through the disk produces a $1/\sqrt{1 - (v/v\sin i)^2}$ density of velocities at $|v| < v\sin i$, with sharp edges at $\pm v\sin i$.
+at the limbs, the integrated line of sight has a full velocity span; at disk centre, much less. the cross-section through the disk produces a $1/\sqrt{1 - (v/v\sin i)^2}$ density of velocities at $\lvert v\rvert < v\sin i$, with sharp edges at $\pm v\sin i$.
 
 with limb darkening, the horns are blunted and the profile looks more bell-like.
 

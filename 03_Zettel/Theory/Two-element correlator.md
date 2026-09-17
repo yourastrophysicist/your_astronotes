@@ -31,7 +31,7 @@ For a monochromatic source at frequency $\nu$ with a geometric delay $\tau_g$ be
 $$R_{ij} \propto e^{-2\pi i \nu \tau_g}$$
 
 This averaged output represents the complex visibility $\mathcal{V}$ of the source on that specific baseline, which has an amplitude and a phase
-$$\mathcal{V} = |\mathcal{V}| e^{i\phi}$$
+$$\mathcal{V} = \lvert \mathcal{V}\rvert e^{i\phi}$$
 
 ---
 

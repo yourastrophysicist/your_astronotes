@@ -41,7 +41,7 @@ The sky annulus contains zodiacal light, airglow, faint unresolved background st
 Iteratively removes pixels that deviate by more than $3\sigma$ from the median until convergence:
 $$I_{\text{sky}} = \text{median}(\text{sky\_pixels}_{\text{clipped}})$$
 $$\sigma_{\text{sky}} = 1.4826 \times \text{MAD}(\text{sky\_pixels}_{\text{clipped}})$$
-where $\text{MAD} = \text{median}(|x - \text{median}(x)|)$ is the Median Absolute Deviation.
+where $\text{MAD} = \text{median}(\lvert x - \text{median}(x)\rvert)$ is the Median Absolute Deviation.
 
 ### 2. Mode Estimator
 For moderately crowded fields where faint stars skew the sky distribution positively:

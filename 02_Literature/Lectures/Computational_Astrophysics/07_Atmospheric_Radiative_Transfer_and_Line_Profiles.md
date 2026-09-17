@@ -110,7 +110,7 @@ Molecules (N2, H2, He)                         Aerosols, condensates, cloud drop
 
 1. **Rayleigh Scattering ($x \ll 1$)**:
    The cross-section scales inversely with the fourth power of wavelength:
-   $$\sigma_R(\lambda) \propto \frac{a^6}{\lambda^4} \left| \frac{m^2 - 1}{m^2 + 2} \right|^2$$
+   $$\sigma_R(\lambda) \propto \frac{a^6}{\lambda^4} \left\lvert \frac{m^2 - 1}{m^2 + 2} \right\rvert^2$$
    Rayleigh scattering by molecular $\text{H}_2/\text{He}$ produces the steep blue spectral slope observed in exoplanet transmission spectra.
 2. **Lorenz-Mie Scattering ($x \gtrsim 1$)**:
    Applies to atmospheric clouds and mineral photochemical hazes (e.g., $\text{MgSiO}_3$, $\text{Fe}$, $\text{MnS}$). Produces a muted, flattened wavelength dependence that obscures molecular absorption features.

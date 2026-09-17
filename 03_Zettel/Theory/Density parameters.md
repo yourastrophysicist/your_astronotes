@@ -26,7 +26,7 @@ today's values (Planck $\Lambda$CDM):
 - $\Omega_m = \Omega_b + \Omega_c \approx 0.315$ (total matter).
 - $\Omega_r \approx 9.2 \times 10^{-5}$ (radiation: photons + neutrinos).
 - $\Omega_\Lambda \approx 0.685$ (dark energy / cosmological constant).
-- $\Omega_k \approx 0$ (curvature, $|\Omega_k| < 0.005$).
+- $\Omega_k \approx 0$ (curvature, $\lvert \Omega_k\rvert < 0.005$).
 
 normalisation:
 $$\Omega_m + \Omega_r + \Omega_\Lambda + \Omega_k = 1$$
@@ -56,12 +56,12 @@ so:
 
 equivalently, **$\Omega_{\rm tot} = 1 \Leftrightarrow$ flat universe**.
 
-current measurements: $|\Omega_k| < 0.005$. universe is **flat to better than 0.5%**.
+current measurements: $\lvert \Omega_k\rvert < 0.005$. universe is **flat to better than 0.5%**.
 
 ## the deceleration parameter
 
 derived from acceleration equation:
-$$q_0 \equiv -\frac{\ddot a a}{\dot a^2}\bigg|_{t_0} = \frac{1}{2}\Omega_m + \Omega_r - \Omega_\Lambda$$
+$$q_0 \equiv -\frac{\ddot a a}{\dot a^2}\bigg\vert_{t_0} = \frac{1}{2}\Omega_m + \Omega_r - \Omega_\Lambda$$
 
 (approximate; ignores radiation today since $\Omega_r$ tiny). with current values:
 $$q_0 \approx \frac{1}{2}(0.315) - 0.685 = -0.527$$

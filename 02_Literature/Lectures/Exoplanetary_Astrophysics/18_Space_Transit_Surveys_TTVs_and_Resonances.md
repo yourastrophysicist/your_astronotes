@@ -53,14 +53,14 @@ $$\Delta \equiv \frac{P_2}{P_1} \left( \frac{j - 1}{j} \right) - 1$$
 ### 2. TTV Super-Period ($P_{\text{TTV}}$)
 The periodic timing perturbation oscillates at the **synodic super-period** (circulation period of the resonant argument):
 
-$$P_{\text{TTV}} = \frac{1}{\left| \frac{j}{P_2} - \frac{j - 1}{P_1} \right|} = \frac{P_1}{j |\Delta|}$$
+$$P_{\text{TTV}} = \frac{1}{\left\lvert \frac{j}{P_2} - \frac{j - 1}{P_1} \right\rvert} = \frac{P_1}{j \lvert \Delta\rvert}$$
 
-For planets close to resonance ($|\Delta| \ll 1$), $P_{\text{TTV}}$ spans hundreds to thousands of days.
+For planets close to resonance ($\lvert \Delta\rvert \ll 1$), $P_{\text{TTV}}$ spans hundreds to thousands of days.
 
 ### 3. TTV Semi-Amplitude
 For circular or near-circular orbits, the semi-amplitude of the timing variation is proportional to the **perturber's mass** and inversely proportional to $\Delta$ (**Lithwick, Xie & Wu 2012**):
 
-$$V_1 \approx P_1 \left( \frac{M_2}{M_\star} \right) \frac{f(j, \alpha)}{|\Delta|}$$
+$$V_1 \approx P_1 \left( \frac{M_2}{M_\star} \right) \frac{f(j, \alpha)}{\lvert \Delta\rvert}$$
 
 where $\alpha = a_1 / a_2$ and $f(j, \alpha)$ is a Laplace coefficient combination of order unity.
 - For mutual transiting pairs, both planets exhibit anti-correlated TTV curves:

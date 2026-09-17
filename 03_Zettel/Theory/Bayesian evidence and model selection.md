@@ -9,12 +9,12 @@ In Bayesian inference, model selection addresses which physical framework $M_i$ 
 
 ## The Evidence Integral
 
-For a model $M$ parameterized by $\theta \in \mathbb{R}^k$, the evidence $p(D|M)$ is the normalization constant of Bayes' theorem, computed by integrating the likelihood over the entire prior space:
-$$p(D|M) = \int_{\Omega_\theta} p(D|\theta, M) p(\theta|M) \, d\theta$$
+For a model $M$ parameterized by $\theta \in \mathbb{R}^k$, the evidence $p(D \mid M)$ is the normalization constant of Bayes' theorem, computed by integrating the likelihood over the entire prior space:
+$$p(D \mid M) = \int_{\Omega_\theta} p(D \mid \theta, M) p(\theta \mid M) \, d\theta$$
 
 Given two competing models $M_1$ and $M_2$, the posterior odds ratio is:
-$$\frac{p(M_1|D)}{p(M_2|D)} = \frac{p(D|M_1)}{p(D|M_2)} \frac{p(M_1)}{p(M_2)} = B_{12} \frac{p(M_1)}{p(M_2)}$$
-where $B_{12} \equiv p(D|M_1)/p(D|M_2)$ is the **Bayes factor**.
+$$\frac{p(M_1 \mid D)}{p(M_2 \mid D)} = \frac{p(D \mid M_1)}{p(D \mid M_2)} \frac{p(M_1)}{p(M_2)} = B_{12} \frac{p(M_1)}{p(M_2)}$$
+where $B_{12} \equiv p(D \mid M_1)/p(D \mid M_2)$ is the **Bayes factor**.
 
 ## The Jeffreys Scale for Evaluating Evidence
 
@@ -30,14 +30,14 @@ Harold Jeffreys established a standard scale for interpreting the strength of ev
 ## The Automatic Occam's Razor via Laplace Approximation
 
 Under the Laplace approximation, expanding the log-likelihood around the best-fit parameter $\hat{\theta}$:
-$$p(D|\theta, M) \approx p(D|\hat{\theta}, M) \exp\left[ -\frac{1}{2} (\theta - \hat{\theta})^T F (\theta - \hat{\theta}) \right]$$
-where $F = -\nabla^2 \ln p(D|\hat{\theta})$ is the observed Fisher information matrix.
+$$p(D \mid \theta, M) \approx p(D \mid \hat{\theta}, M) \exp\left[ -\frac{1}{2} (\theta - \hat{\theta})^T F (\theta - \hat{\theta}) \right]$$
+where $F = -\nabla^2 \ln p(D \mid \hat{\theta})$ is the observed Fisher information matrix.
 
 Assuming a uniform prior over a prior volume $\Delta \theta$:
-$$p(\theta|M) = \frac{1}{\Delta \theta}$$
+$$p(\theta \mid M) = \frac{1}{\Delta \theta}$$
 
 Evaluating the Gaussian integral yields:
-$$p(D|M) \approx p(D|\hat{\theta}, M) \cdot \frac{(2\pi)^{k/2} (\det F)^{-1/2}}{\Delta \theta} = L_{\rm max} \cdot \Omega_{\rm Occam}$$
+$$p(D \mid M) \approx p(D \mid \hat{\theta}, M) \cdot \frac{(2\pi)^{k/2} (\det F)^{-1/2}}{\Delta \theta} = L_{\rm max} \cdot \Omega_{\rm Occam}$$
 
 The factor $\Omega_{\rm Occam} = \frac{\delta \theta_{\rm posterior}}{\Delta \theta_{\rm prior}} \ll 1$ represents the **Occam factor**.
 - A complex model with many free parameters has a vast prior volume $\Delta \theta$.

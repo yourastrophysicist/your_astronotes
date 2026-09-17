@@ -96,7 +96,7 @@ $$\frac{1}{2}\cos 2\pi(\nu_{\rm RF}-\nu_{\rm LO})t+\frac{1}{2}\cos 2\pi(\nu_{\rm
 
 filtering keeps the intermediate frequency:
 
-$$\nu_{\rm IF}=|\nu_{\rm RF}-\nu_{\rm LO}|$$
+$$\nu_{\rm IF}=\lvert \nu_{\rm RF}-\nu_{\rm LO}\rvert$$
 
 this also introduces the idea of **sidebands**: both upper and lower sky frequencies can map into the same IF unless the receiver selects or calibrates them. the phase is preserved only if the LO is stable, which is why connected arrays distribute coherent references and VLBI uses hydrogen masers.
 

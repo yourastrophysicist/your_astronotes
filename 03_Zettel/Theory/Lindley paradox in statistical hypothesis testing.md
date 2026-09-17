@@ -16,7 +16,7 @@ Let $D = \{x_1, \dots, x_N\}$ be $N$ independent measurements drawn from a norma
 $$\bar{x} \sim \mathcal{N}\left(\theta, \frac{\sigma^2}{N}\right)$$
 
 Under $H_1$, assign a diffuse prior over the parameter space:
-$$\theta | H_1 \sim \mathcal{N}(\theta_0, \sigma_0^2)$$
+$$\theta \mid H_1 \sim \mathcal{N}(\theta_0, \sigma_0^2)$$
 with $\sigma_0 \gg \sigma/\sqrt{N}$.
 
 The standard frequentist test statistic is:
@@ -27,12 +27,12 @@ Suppose the sample mean lands at a fixed boundary, say $z = 1.96$, corresponding
 ## Bayesian Evidence Computation
 
 The marginal likelihood under $H_0$ is:
-$$p(D|H_0) = \frac{1}{\sqrt{2\pi \sigma^2/N}} \exp\left[ -\frac{1}{2} z^2 \right]$$
+$$p(D \mid H_0) = \frac{1}{\sqrt{2\pi \sigma^2/N}} \exp\left[ -\frac{1}{2} z^2 \right]$$
 
 The marginal likelihood under $H_1$ integrates over the prior:
-$$p(D|H_1) = \int_{-\infty}^\infty p(D|\theta) p(\theta|H_1) \, d\theta = \frac{1}{\sqrt{2\pi (\sigma_0^2 + \sigma^2/N)}} \exp\left[ -\frac{1}{2} \frac{(\bar{x} - \theta_0)^2}{\sigma_0^2 + \sigma^2/N} \right]$$
+$$p(D \mid H_1) = \int_{-\infty}^\infty p(D \mid \theta) p(\theta \mid H_1) \, d\theta = \frac{1}{\sqrt{2\pi (\sigma_0^2 + \sigma^2/N)}} \exp\left[ -\frac{1}{2} \frac{(\bar{x} - \theta_0)^2}{\sigma_0^2 + \sigma^2/N} \right]$$
 
-The Bayes factor $B_{01} \equiv p(D|H_0) / p(D|H_1)$ simplifies to:
+The Bayes factor $B_{01} \equiv p(D \mid H_0) / p(D \mid H_1)$ simplifies to:
 $$B_{01} = \sqrt{1 + \frac{N\sigma_0^2}{\sigma^2}} \exp\left[ -\frac{1}{2} \frac{z^2}{1 + \sigma^2 / (N\sigma_0^2)} \right]$$
 
 In the limit $N \to \infty$ with $z$ held fixed (e.g. $z = 1.96$):
@@ -43,7 +43,7 @@ As $N \to \infty$, the Bayes factor in favor of the null hypothesis grows withou
 ## Physical Explanation in Cosmology
 
 The source of the paradox lies in how each paradigm penalizes parameter space volume:
-1. **The frequentist $p$-value** measures only the tail area under the null hypothesis; as $N$ grows, a fixed $z$ corresponds to an increasingly microscopic deviation $|\bar{x} - \theta_0| \propto 1/\sqrt{N}$.
+1. **The frequentist $p$-value** measures only the tail area under the null hypothesis; as $N$ grows, a fixed $z$ corresponds to an increasingly microscopic deviation $\lvert \bar{x} - \theta_0\rvert \propto 1/\sqrt{N}$.
 2. **The Bayesian evidence** incorporates an automatic Occam penalty. Model $H_1$ predicted that the parameter could lie anywhere across a wide swath $\sigma_0$. Finding the observed parameter packed tightly at $\theta_0 \pm \sigma/\sqrt{N}$ constitutes severe evidence against the sprawling flexibility of $H_1$.
 
 In cosmological tests (such as searching for non-zero spatial curvature $\Omega_k \ne 0$ or running of the spectral index $\alpha_s \ne 0$), large datasets can yield small $p$-values that actually support the simpler standard $\Lambda\text{CDM}$ model under Bayesian evidence.

@@ -13,23 +13,23 @@ with $Q$ **orthogonal** ($Q^T Q = I$) and $R$ upper triangular. the columns of $
 
 ## why orthogonal matrices are special
 
-an orthogonal matrix $Q$ preserves length: $\|Q\mathbf{x}\| = \|\mathbf{x}\|$. it also preserves angles. geometrically, $Q$ is a rotation (or rotation + reflection). this is what makes $Q$ numerically benign: multiplying by $Q$ neither blows up nor shrinks vectors, so roundoff errors stay bounded.
+an orthogonal matrix $Q$ preserves length: $\lVert Q\mathbf{x}\rVert = \lVert\mathbf{x}\rVert$. it also preserves angles. geometrically, $Q$ is a rotation (or rotation + reflection). this is what makes $Q$ numerically benign: multiplying by $Q$ neither blows up nor shrinks vectors, so roundoff errors stay bounded.
 
 ## construction via Gram-Schmidt
 
 [Gram-Schmidt orthogonalization](./Gram-Schmidt%20orthogonalization.html) turns the columns $\mathbf{a}_0, \mathbf{a}_1, \ldots, \mathbf{a}_{N-1}$ of $A$ into an orthonormal set $\mathbf{q}_0, \mathbf{q}_1, \ldots, \mathbf{q}_{N-1}$:
 
-$$\mathbf{u}_i = \mathbf{a}_i - \sum_{k=0}^{i-1} (\mathbf{q}_k \cdot \mathbf{a}_i) \mathbf{q}_k, \qquad \mathbf{q}_i = \mathbf{u}_i / \|\mathbf{u}_i\|$$
+$$\mathbf{u}_i = \mathbf{a}_i - \sum_{k=0}^{i-1} (\mathbf{q}_k \cdot \mathbf{a}_i) \mathbf{q}_k, \qquad \mathbf{q}_i = \mathbf{u}_i / \\lvert \mathbf{u}_i\\rvert$$
 
 writing $\mathbf{a}_i$ in the new basis:
 
-$$\mathbf{a}_i = \|\mathbf{u}_i\| \mathbf{q}_i + \sum_{k=0}^{i-1}(\mathbf{q}_k \cdot \mathbf{a}_i)\mathbf{q}_k$$
+$$\mathbf{a}_i = \\lvert \mathbf{u}_i\\rvert \mathbf{q}_i + \sum_{k=0}^{i-1}(\mathbf{q}_k \cdot \mathbf{a}_i)\mathbf{q}_k$$
 
 so
 
-$$A = (\mathbf{a}_0\, \mathbf{a}_1\, \cdots\, \mathbf{a}_{N-1}) = (\mathbf{q}_0\, \mathbf{q}_1\, \cdots\, \mathbf{q}_{N-1}) \begin{pmatrix} \|\mathbf{u}_0\| & \mathbf{q}_0\cdot\mathbf{a}_1 & \mathbf{q}_0\cdot\mathbf{a}_2 & \cdots \\ 0 & \|\mathbf{u}_1\| & \mathbf{q}_1\cdot\mathbf{a}_2 & \cdots \\ 0 & 0 & \|\mathbf{u}_2\| & \cdots \\ \vdots & & & \ddots \end{pmatrix} = QR$$
+$$A = (\mathbf{a}_0\, \mathbf{a}_1\, \cdots\, \mathbf{a}_{N-1}) = (\mathbf{q}_0\, \mathbf{q}_1\, \cdots\, \mathbf{q}_{N-1}) \begin{pmatrix} \\lvert \mathbf{u}_0\\rvert & \mathbf{q}_0\cdot\mathbf{a}_1 & \mathbf{q}_0\cdot\mathbf{a}_2 & \cdots \\ 0 & \\lvert \mathbf{u}_1\\rvert & \mathbf{q}_1\cdot\mathbf{a}_2 & \cdots \\ 0 & 0 & \\lvert \mathbf{u}_2\\rvert & \cdots \\ \vdots & & & \ddots \end{pmatrix} = QR$$
 
-with $R$ explicitly upper triangular. the diagonal of $R$ is the lengths $\|\mathbf{u}_i\|$ before normalization; the off-diagonal entries are projections.
+with $R$ explicitly upper triangular. the diagonal of $R$ is the lengths $\\lvert \mathbf{u}_i\\rvert$ before normalization; the off-diagonal entries are projections.
 
 ## python (production)
 

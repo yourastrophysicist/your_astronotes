@@ -126,7 +126,7 @@ because hydrogen and helium have excitation energies ($E_2 - E_1 = 10.2\text{ eV
 
 ## forbidden line physics
 
-in classical dipole selection rules, transitions between states of the same parity or differing spin ($\Delta S \ne 0$) are strictly forbidden (electric dipole moment $\langle f | \mathbf{d} | i \rangle = 0$).
+in classical dipole selection rules, transitions between states of the same parity or differing spin ($\Delta S \ne 0$) are strictly forbidden (electric dipole moment $\langle f \vert \mathbf{d} \vert i \rangle = 0$).
 
 however, higher-order multipole transitions:
 - **magnetic dipole ($M1$)**: transition probability $A_{ji} \sim 10^{-2} - 10^2\text{ s}^{-1}$

@@ -30,7 +30,7 @@ Defining canonically normalized variables $v_k = \frac{a M_{\rm Pl}}{2} h_k$:
 $$v_k'' + \left(k^2 - \frac{a''}{a}\right) v_k = 0$$
 
 Quantizing in the Bunch-Davies vacuum yields the tensor power spectrum (summed over both polarizations):
-$$\mathcal{P}_T(k) \equiv 2 \times \frac{k^3}{2\pi^2}|h_k|^2 = \frac{2}{\pi^2}\frac{H^2}{M_{\rm Pl}^2}\Bigg|_{k=aH} = \frac{2}{3\pi^2}\frac{V}{M_{\rm Pl}^4}\Bigg|_{k=aH}$$
+$$\mathcal{P}_T(k) \equiv 2 \times \frac{k^3}{2\pi^2}\lvert h_k\rvert^2 = \frac{2}{\pi^2}\frac{H^2}{M_{\rm Pl}^2}\Bigg\vert_{k=aH} = \frac{2}{3\pi^2}\frac{V}{M_{\rm Pl}^4}\Bigg\vert_{k=aH}$$
 
 ### Tensor spectral index $n_T$
 $$\mathcal{P}_T(k) = A_t \left(\frac{k}{k_0}\right)^{n_T}$$

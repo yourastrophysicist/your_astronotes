@@ -53,8 +53,8 @@ where $\alpha_P = 192.86^\circ$ ($12^{\rm h}51.4^{\rm m}$), $\delta_P = +27.13^\
 
 ## observational significance: the zone of avoidance
 
-- **the Galactic plane ($|b| \le 10^\circ$)**: densely packed with stars, molecular clouds, and interstellar dust grains. dust extinction ($A_V$) reaches tens of magnitudes in the visual band, creating the historical **Zone of Avoidance** where optical extragalactic astronomy was historically blind. radio (21 cm, CO) and infrared (2MASS, Spitzer, WISE, JWST) observations penetrate this dust.
-- **high galactic latitudes ($|b| > 30^\circ$)**: lines of sight pass quickly out of the thin Galactic disk ($h_z \sim 300$ pc). dust extinction drops to $A_V \lesssim 0.05-0.1$ mag. all major cosmological and deep extragalactic galaxy surveys (Hubble Deep Field, SDSS, DES, COSMOS, Euclid) target these high-$|b|$ windows to avoid Galactic foreground extinction and stellar crowding.
+- **the Galactic plane ($\lvert b\rvert \le 10^\circ$)**: densely packed with stars, molecular clouds, and interstellar dust grains. dust extinction ($A_V$) reaches tens of magnitudes in the visual band, creating the historical **Zone of Avoidance** where optical extragalactic astronomy was historically blind. radio (21 cm, CO) and infrared (2MASS, Spitzer, WISE, JWST) observations penetrate this dust.
+- **high galactic latitudes ($\lvert b\rvert > 30^\circ$)**: lines of sight pass quickly out of the thin Galactic disk ($h_z \sim 300$ pc). dust extinction drops to $A_V \lesssim 0.05-0.1$ mag. all major cosmological and deep extragalactic galaxy surveys (Hubble Deep Field, SDSS, DES, COSMOS, Euclid) target these high-$\lvert b\rvert$ windows to avoid Galactic foreground extinction and stellar crowding.
 
 ---
 

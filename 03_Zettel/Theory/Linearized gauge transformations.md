@@ -7,7 +7,7 @@ title: "Linearized gauge transformations"
 
 ## the transformation
 
-under an infinitesimal coordinate shift $x^\mu \to x'^\mu = x^\mu + \xi^\mu(x)$, with $|\xi| \ll 1$ small, the metric perturbation transforms as:
+under an infinitesimal coordinate shift $x^\mu \to x'^\mu = x^\mu + \xi^\mu(x)$, with $\lvert \xi\rvert \ll 1$ small, the metric perturbation transforms as:
 $$\boxed{\, h_{\mu\nu} \to h_{\mu\nu} + \partial_\mu\xi_\nu + \partial_\nu\xi_\mu = h_{\mu\nu} + 2\partial_{(\mu}\xi_{\nu)} \,}$$
 
 the symmetrised gradient of $\xi$ adds to $h$. note $\xi^\mu$ is a vector, hence has 4 components. so we have **4-parameter family** of gauge transformations, just like the 4 components of $A^\mu$ in EM.

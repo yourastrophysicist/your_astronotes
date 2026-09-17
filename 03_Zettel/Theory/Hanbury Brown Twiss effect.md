@@ -24,7 +24,7 @@ the second-order coherence function:
 $$g^{(2)}(\tau, \mathbf B) = \frac{\langle I(t, \mathbf r_1) I(t + \tau, \mathbf r_2) \rangle}{\langle I(t, \mathbf r_1) \rangle \langle I(t, \mathbf r_2) \rangle}$$
 
 at zero time delay and baseline $\mathbf B$:
-$$g^{(2)}(0, \mathbf B) = 1 + |\gamma^{(1)}(\mathbf B)|^2$$
+$$g^{(2)}(0, \mathbf B) = 1 + \lvert \gamma^{(1)}(\mathbf B)\rvert^2$$
 
 where $\gamma^{(1)}(\mathbf B)$ is the **first-order** spatial coherence — exactly the same quantity that amplitude interferometry measures via fringe visibility.
 
@@ -32,7 +32,7 @@ so:
 - at baselines where $\gamma^{(1)}$ is large (unresolved source): $g^{(2)} = 2$ (bunching!)
 - at baselines where $\gamma^{(1)}$ is small (resolved source): $g^{(2)} = 1$ (no excess correlation)
 
-measuring how $g^{(2)}$ falls from 2 to 1 with baseline gives $|\gamma^{(1)}|^2$ — the same observable as amplitude visibility, just squared.
+measuring how $g^{(2)}$ falls from 2 to 1 with baseline gives $\lvert \gamma^{(1)}\rvert^2$ — the same observable as amplitude visibility, just squared.
 
 ## the classical wave interpretation
 
@@ -43,7 +43,7 @@ $$\langle (I - \langle I \rangle)^2 \rangle = \langle I \rangle^2$$
 so the intensity has rms fluctuations equal to its mean. these fluctuations have a temporal autocorrelation set by the bandwidth (coherence time $\tau_c \sim 1/\Delta\nu$) and a spatial cross-correlation between two points set by the spatial coherence.
 
 the cross-correlation between $I_1$ and $I_2$ at separation $\mathbf B$:
-$$\langle \Delta I_1 \Delta I_2 \rangle = |\gamma^{(1)}(\mathbf B)|^2 \cdot \langle I \rangle^2$$
+$$\langle \Delta I_1 \Delta I_2 \rangle = \vert\gamma^{(1)}(\mathbf B)\vert ^2 \cdot \langle I \rangle^2$$
 
 this is the HBT signal. the squared spatial coherence drops as the baseline approaches the inverse angular size of the source — exactly as for amplitude visibility, except squared.
 

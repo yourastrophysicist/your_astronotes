@@ -30,7 +30,7 @@ consequence: stars re-establish hydrostatic equilibrium almost instantaneously c
 
 the time required for a star to radiate away its entire internal gravitational potential energy at its current luminosity, in the absence of nuclear reactions:
 
-$$t_{\text{KH}} \approx \frac{|E_{\text{grav}}|}{L} \approx \frac{G M^2}{R L}$$
+$$t_{\text{KH}} \approx \frac{\lvert E_{\text{grav}}\rvert}{L} \approx \frac{G M^2}{R L}$$
 
 for the Sun:
 $$t_{\text{KH},\odot} \approx \frac{(6.674 \times 10^{-11}) (1.989 \times 10^{30})^2}{(6.96 \times 10^8) (3.828 \times 10^{26})} \approx 9.9 \times 10^{14} \text{ s} \approx 3 \times 10^7 \text{ years}$$

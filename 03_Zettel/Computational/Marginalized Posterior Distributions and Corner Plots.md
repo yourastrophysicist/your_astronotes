@@ -9,7 +9,7 @@ Posterior probability distributions obtained via MCMC sampling encapsulate full 
 
 ## Marginalization
 The 1D marginalized posterior for parameter $\theta_1$ is obtained by integrating over all other $M-1$ parameters:
-$$p(\theta_1 | \boldsymbol{D}) = \int p(\boldsymbol{\theta} | \boldsymbol{D}) \, d\theta_2 \dots d\theta_M$$
+$$p(\theta_1 \mid \boldsymbol{D}) = \int p(\boldsymbol{\theta} \mid \boldsymbol{D}) \, d\theta_2 \dots d\theta_M$$
 In MCMC, this integral is performed simply by building a 1D histogram of the walker chain for $\theta_1$.
 
 ## Parameter Extraction from Percentiles

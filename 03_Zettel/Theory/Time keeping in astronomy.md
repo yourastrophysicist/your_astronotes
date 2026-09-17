@@ -13,7 +13,7 @@ title: "Time keeping in astronomy"
 - **UT1**: UT0 corrected for polar motion. tracks Earth's actual rotation, varies smoothly. used for celestial pointing.
 - **UTC**: coordinated universal time. atomic-clock-based but kept within $0.9$ s of UT1 by inserting **leap seconds**. this is what civil clocks (and computer clocks via NTP) display.
 
-UTC = UT1 + DUT1, with $|$DUT1$| < 0.9$ s by definition.
+UTC = UT1 + DUT1, with $$\lvert\text{DUT1}\rvert$ < 0.9$ s by definition.
 
 ### atomic time TAI
 

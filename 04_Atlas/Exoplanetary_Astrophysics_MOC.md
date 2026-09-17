@@ -93,7 +93,7 @@ $$\theta_E = \sqrt{\frac{4GM_L}{c^2} \frac{D_{LS}}{D_L D_S}}, \quad A(u) = \frac
 $$H = \frac{k_B T_{\text{eq}}}{\mu g_p}, \quad \Delta \delta(\lambda) \approx \frac{2 R_p (N H)}{R_\star^2}$$
 
 ### 7. TTV Super-Period Near Mean Motion Resonance
-$$P_{\text{TTV}} = \frac{1}{\left| \frac{j}{P_2} - \frac{j - 1}{P_1} \right|} = \frac{P_1}{j |\Delta|}, \quad \Delta = \frac{P_2}{P_1} \left( \frac{j - 1}{j} \right) - 1$$
+$$P_{\text{TTV}} = \frac{1}{\left\lvert \frac{j}{P_2} - \frac{j - 1}{P_1} \right\rvert} = \frac{P_1}{j \lvert\Delta\rvert}, \quad \Delta = \frac{P_2}{P_1} \left( \frac{j - 1}{j} \right) - 1$$
 
 ---
 
