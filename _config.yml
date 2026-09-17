@@ -1,9 +1,9 @@
 title: "Your AstroNotes"
 subtitle: "Master's Curriculum in Astrophysics and Cosmology (Semesters 1-3)"
 description: "Master's course notes, derivations, and figure references from the University of Padua."
-url: "https://yourastronotes.github.io"
-baseurl: ""
-github_repo: "yourastronotes/yourastronotes.github.io"
+url: "https://yourastrophysicist.github.io"
+baseurl: "/your_astronotes"
+github_repo: "yourastrophysicist/your_astronotes"
 publish_tag: "*"
 markdown: kramdown
 kramdown:
