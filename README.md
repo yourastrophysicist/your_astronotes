@@ -2,6 +2,7 @@
 layout: default
 title: "README"
 ---
+{% raw %}
 
 # Your AstroNotes
 
@@ -104,3 +105,5 @@ The notes assume standard undergraduate preparation in physics and applied mathe
 
 * **Metric Signature**: Mostly $(-, +, +, +)$ following standard modern general relativity literature (Baumann, Carroll, Wald), unless explicitly noted otherwise.
 * **Units**: Theoretical cosmology and high-energy notes frequently use natural units where $c = \hbar = k_B = 1$. Observational, instrumentation, and stellar physics notes retain explicit SI or CGS units.
+
+{% endraw %}

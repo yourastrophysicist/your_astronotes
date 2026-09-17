@@ -1,0 +1,50 @@
+---
+layout: "default"
+title: "Luminosity"
+---
+{% raw %}
+**Luminosity** is the total power emitted by a source — it is an **intrinsic property** of the source
+	independent of the distance to the observer, the observer's direction, or the instrument used to measure it
+		it has units of $\text{erg s}^{-1}$ (cgs) or Watts (SI)
+
+The full treatment — spectral luminosity, band luminosity, bolometric luminosity, and the connection to observed flux — is in:
+
+→ [Luminosity and Flux for -Instrumentations](./Luminosity%20and%20Flux%20for%20-Instrumentations.html)
+
+---
+
+## Quick reference
+
+**Bolometric luminosity** (total power across all frequencies):
+$$L_{bol} = \int_0^\infty L_\nu \, d\nu$$
+
+**Band luminosity** (over an observed energy range $[E_1, E_2]$):
+$$L_{E_1-E_2} = \int_{E_1}^{E_2} L_E \, dE$$
+
+**Flux–luminosity relation** (isotropic source, cosmological distance $d_L$):
+$$F = \frac{L}{4\pi d_L^2}$$
+
+**Eddington luminosity** (maximum sustainable luminosity by radiation pressure):
+$$L_{Edd} \approx 1.3 \times 10^{38} \left(\frac{M}{M_\odot}\right) \text{ erg s}^{-1}$$
+
+---
+
+## Typical values
+
+| Object | $L$ (erg s$^{-1}$) |
+|---|---|
+| Sun (bolometric) | $3.8 \times 10^{33}$ |
+| X-ray binary (typical) | $10^{37}$–$10^{38}$ |
+| Seyfert galaxy (X-ray) | $10^{42}$–$10^{44}$ |
+| Quasar (bolometric) | $10^{45}$–$10^{48}$ |
+| Galaxy cluster (X-ray Bremsstrahlung) | $10^{44}$–$10^{45}$ |
+
+These numbers define the Eddington ratios and accretion rates discussed in [Accretion onto compact objects](./Accretion%20onto%20compact%20objects.html)
+{% endraw %}
+
+<div class="backlinks-section">
+  <h4 class="backlinks-title">Linked References (1)</h4>
+  <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
+  </ul>
+</div>

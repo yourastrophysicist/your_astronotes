@@ -1,0 +1,70 @@
+---
+layout: "default"
+title: "Manifold metric and signature"
+---
+{% raw %}
+a **manifold** is the mathematical home of GR: a space that **looks locally like $\mathbb{R}^n$** but can be globally curved or topologically nontrivial. spacetime is a 4D manifold. on top of it lives a **metric** that tells me how to measure distances and times.
+
+## the manifold
+
+intuitively: a manifold is a curved space that, when you zoom in enough, looks flat. the surface of the Earth is a 2D manifold. zoomed in to a city block, it looks like a flat plane. at global scale, it's a sphere.
+
+formally: a topological space + an atlas of charts (coordinate patches) that smoothly glue together.
+
+GR's spacetime: **4D Lorentzian manifold**. 4D because three space + one time. Lorentzian because of the metric signature.
+
+## the metric
+
+a **metric tensor** $g_{\mu\nu}$ at each point of the manifold defines an inner product on the tangent space. it lets me compute lengths of vectors, angles between vectors, and the line element:
+$$ds^2 = g_{\mu\nu}\,dx^\mu dx^\nu$$
+
+this $ds^2$ is the **invariant proper interval** between nearby events. in flat spacetime (Minkowski), $g_{\mu\nu} = \eta_{\mu\nu} = {\rm diag}(-1, +1, +1, +1)$. in curved spacetime it's something else.
+
+## the signature
+
+the metric eigenvalues have signs: $(-, +, +, +)$ in our convention. the **signature** is the count of $+$ and $-$ eigenvalues; here, $(-, +, +, +)$, sometimes written as signature $(1, 3)$ or $-2$ (the trace).
+
+this is **Lorentzian signature**. it distinguishes spacetime from Riemannian geometry (all $+$, like the surface of a sphere). the negative eigenvalue corresponds to the **time direction** and gives spacetime its causal structure (light cones).
+
+alternative convention $(+, -, -, -)$ is also common; Baumann uses $(-, +, +, +)$ in the GR book, the "spacetime physics" convention.
+
+## why Lorentzian and not Riemannian
+
+the negative-eigenvalue direction is what allows:
+- **light cones** (null vectors with $g(v, v) = 0$).
+- **causal structure** (timelike, null, spacelike separations).
+- **proper time** vs **proper length** (different signs in $ds^2$).
+
+a Riemannian manifold has only Euclidean-like distances; no concept of past / future. spacetime needs the Lorentzian structure.
+
+## examples to remember
+
+- **Minkowski**: $ds^2 = -dt^2 + dx^2 + dy^2 + dz^2$. signature $(-,+,+,+)$.
+- **2-sphere** (Riemannian, not spacetime): $ds^2 = R^2(d\theta^2 + \sin^2\theta\,d\phi^2)$. signature $(+, +)$.
+- **Schwarzschild**: $ds^2 = -(1 - 2GM/r)dt^2 + (1 - 2GM/r)^{-1}dr^2 + r^2 d\Omega^2$. signature $(-,+,+,+)$ in the exterior.
+- **FLRW**: $ds^2 = -dt^2 + a^2(t)\gamma_{ij}\,dx^i\,dx^j$. signature $(-,+,+,+)$.
+
+## see also
+
+- [Coordinate transformations and tensors](./Coordinate%20transformations%20and%20tensors.html)
+- [Locally inertial frame](./Locally%20inertial%20frame.html)
+- [Christoffel symbols](./Christoffel%20symbols.html)
+- 03_Zettel/Theory/Robertson-Walker metric
+- [FLRW metric](./FLRW%20metric.html)
+- [Schwarzschild metric](./Schwarzschild%20metric.html)
+- [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
+- [Ch 1 - Gravity is Geometry](../../02_Literature/Book/Baumann%20GR/Ch%201%20-%20Gravity%20is%20Geometry.html)
+- [Ch 2 - Some Differential Geometry](../../02_Literature/Book/Baumann%20GR/Ch%202%20-%20Some%20Differential%20Geometry.html)
+{% endraw %}
+
+<div class="backlinks-section">
+  <h4 class="backlinks-title">Linked References (6)</h4>
+  <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="../../02_Literature/Book/Baumann%20GR/Ch%202%20-%20Some%20Differential%20Geometry.html" class="backlink-item">Ch 2 - Some Differential Geometry</a></li>
+    <li class="backlink-item-wrap"><a href="./Coordinate%20transformations%20and%20tensors.html" class="backlink-item">Coordinate transformations and tensors</a></li>
+    <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
+    <li class="backlink-item-wrap"><a href="./Levi-Civita%20connection.html" class="backlink-item">Levi-Civita connection</a></li>
+    <li class="backlink-item-wrap"><a href="./Locally%20inertial%20frame.html" class="backlink-item">Locally inertial frame</a></li>
+    <li class="backlink-item-wrap"><a href="./Timelike%20vs%20null%20vs%20spacelike.html" class="backlink-item">Timelike vs null vs spacelike</a></li>
+  </ul>
+</div>

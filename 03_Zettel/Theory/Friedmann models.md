@@ -1,0 +1,128 @@
+---
+layout: "default"
+title: "Friedmann models"
+---
+{% raw %}
+special solutions of the Friedmann equation, useful as **building blocks**: the actual universe is a piecewise combination of these regimes.
+
+starting from
+$$H^2 = \left(\frac{\dot a}{a}\right)^2 = \frac{8\pi G}{3}\rho - \frac{k c^2}{a^2} + \frac{\Lambda c^2}{3}$$
+
+let me solve in different limits.
+
+---
+
+## Milne (empty) universe: $\rho = 0$, $\Lambda = 0$, $k = -1$
+
+the simplest case: no matter, no Λ, only curvature drives the dynamics:
+$$\dot a^2 = c^2 \quad \Rightarrow \quad a(t) \propto t$$
+
+linear expansion. used as a reference baseline. only an open ($k = -1$) Milne universe is physical.
+
+---
+
+## Einstein-de Sitter (EdS): matter only, flat
+
+$\rho = \rho_m \propto a^{-3}$, $\Lambda = 0$, $k = 0$:
+$$\dot a^2 = \frac{8\pi G \rho_0}{3 a}$$
+
+→ $a \propto t^{2/3}$. age of the universe: $t_0 = 2/(3 H_0)$.
+
+with the measured $H_0 = 67.4$ km/s/Mpc, EdS gives $t_0 \approx 9.6$ Gyr — *too young* compared to the observed 13.8 Gyr (see the age problem at [Cosmic_inventory_dark_energy](./Cosmic_inventory_dark_energy.html)).
+
+---
+
+## radiation-dominated: $\rho \propto a^{-4}$, flat
+
+$$\dot a^2 = \frac{8\pi G \rho_{\gamma 0}}{3 a^2}$$
+
+→ $a \propto t^{1/2}$. age: $t_0 = 1/(2 H_0)$, even younger than EdS.
+
+valid in the early universe ($z \gtrsim z_{\rm eq} \sim 3300$).
+
+---
+
+## Λ-dominated (de Sitter): $\rho = \rho_V = $ const, flat
+
+$\Lambda$ alone:
+$$H^2 = \frac{\Lambda c^2}{3} = $ const
+$$
+
+→ $a(t) \propto e^{Ht}$, exponential expansion.
+
+the late-time attractor of any Λ-containing universe. inflation in the early universe is a near-de-Sitter phase, and dark-energy domination today is approaching one (see [Inflation overview](./Inflation%20overview.html) and [Cosmic_inventory_dark_energy](./Cosmic_inventory_dark_energy.html)).
+
+---
+
+## closed (matter only, $k = +1$, $\Lambda = 0$)
+
+a parametric solution exists:
+$$a(\eta) = \frac{a_{\max}}{2}(1 - \cos\eta), \qquad t(\eta) = \frac{a_{\max}}{2 c}(\eta - \sin\eta)$$
+
+(with $\eta$ a parameter, not conformal time here.) the universe expands to a maximum size $a_{\max}$ at $\eta = \pi$, then **recollapses**: a Big Crunch.
+
+ruled out by observations: the universe is flat ($\Omega_K \approx 0$) and contains dark energy.
+
+---
+
+## open (matter only, $k = -1$, $\Lambda = 0$)
+
+similar parametric solution:
+$$a(\eta) = \frac{|k|^{-1/2}}{2}(\cosh\eta - 1), \qquad t(\eta) = \frac{|k|^{-1/2}}{2 c}(\sinh\eta - \eta)$$
+
+the universe expands forever, asymptotically approaching the Milne (empty) limit at late times.
+
+---
+
+## ΛCDM (the actual universe)
+
+three regimes in $a(t)$:
+
+| regime | $z$ | $a(t)$ |
+|---|---|---|
+| **radiation-dominated** | $z \gtrsim 3300$ | $a \propto t^{1/2}$ |
+| **matter-dominated** | $0.7 \lesssim z \lesssim 3300$ | $a \propto t^{2/3}$ |
+| **Λ-dominated** | $z \lesssim 0.7$ | $a \propto e^{Ht}$ |
+
+![intro-07.png](../../assets/images/intro-07.png)
+
+the various models converge at small $t$ (early universe is matter+radiation dominated, regardless of $\Lambda$) but diverge dramatically at large $t$.
+
+age of the universe in ΛCDM: $\sim 13.8$ Gyr — Λ contributing those crucial extra few Gyr that EdS cannot.
+
+---
+
+## Einstein's static universe (historical sidebar)
+
+Einstein originally added Λ specifically to make a *static* solution: $\dot a = \ddot a = 0$. setting both to zero in the Friedmann + acceleration equations:
+$$\frac{8\pi G}{3}\rho - \frac{k c^2}{a^2} + \frac{\Lambda c^2}{3} = 0$$
+$$-\frac{4\pi G}{3}\rho + \frac{\Lambda c^2}{3} = 0 \quad (\text{for } w = 0 \text{ matter})$$
+
+this gives a unique static solution, but it is **unstable**: perturb it, and it either expands or collapses. when Hubble showed the universe expanding, Einstein called Λ his "biggest blunder."
+
+ironic postscript: $\Lambda$ came back in 1998 — not for static universe, but for **acceleration**.
+
+---
+
+## see also
+
+- [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- Friedmann equations with Λ
+- [Density parameters and flatness](./Density%20parameters%20and%20flatness.html)
+- [Brief thermal history](./Brief%20thermal%20history.html)
+- [Cosmic_inventory_dark_energy](./Cosmic_inventory_dark_energy.html)
+{% endraw %}
+
+<div class="backlinks-section">
+  <h4 class="backlinks-title">Linked References (8)</h4>
+  <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="./Cosmic_inventory_dark_energy.html" class="backlink-item">Cosmic_inventory_dark_energy</a></li>
+    <li class="backlink-item-wrap"><a href="./Friedmann%20equations%20with%20Lambda.html" class="backlink-item">Friedmann equations with Lambda</a></li>
+    <li class="backlink-item-wrap"><a href="./Friedmann%20solutions.html" class="backlink-item">Friedmann solutions</a></li>
+    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
+    <li class="backlink-item-wrap"><a href="./Newtonian%20Friedmann%20derivation.html" class="backlink-item">Newtonian Friedmann derivation</a></li>
+    <li class="backlink-item-wrap"><a href="./Newtonian%20derivation%20of%20Friedmann.html" class="backlink-item">Newtonian derivation of Friedmann</a></li>
+    <li class="backlink-item-wrap"><a href="./Temperature-time%20relation.html" class="backlink-item">Temperature-time relation</a></li>
+    <li class="backlink-item-wrap"><a href="./Various%20models%20of%20the%20universe.html" class="backlink-item">Various models of the universe</a></li>
+  </ul>
+</div>

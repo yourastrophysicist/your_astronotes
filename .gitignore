@@ -1,0 +1,9 @@
+﻿.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+_site/
+.DS_Store
+*.tmp
+*.pyc
+__pycache__/
+.venv/

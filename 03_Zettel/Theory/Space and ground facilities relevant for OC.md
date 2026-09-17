@@ -1,0 +1,60 @@
+---
+layout: "default"
+title: "Space and ground facilities relevant for OC"
+---
+{% raw %}
+# space and ground facilities relevant for oc
+
+up: [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html) · [Surveys to remember](./Surveys%20to%20remember.html)
+
+## major ground-based optical / near-ir facilities
+
+- **ESO VLT (Very Large Telescope)**:
+  - Cerro Paranal, Chile. Four 8.2m Unit Telescopes (Antu, Kueyen, Melipal, Yepun).
+  - Key instruments: [MUSE datacubes](./MUSE%20datacubes.html) (panoramic IFU), X-shooter (UV to NIR echelle), HAWK-I (wide-field NIR), FORS2.
+  - UT4 fully equipped with the Adaptive Optics Facility (4 sodium laser guide stars).
+  - Interferometric mode: [VLTI Very Large Telescope Interferometer](interf/VLTI%20Very%20Large%20Telescope%20Interferometer.html) combining 4 UTs or 4 Auxiliary Telescopes (ATs).
+- **W. M. Keck Observatory**:
+  - Mauna Kea, Hawaii. Twin 10m segmented-mirror telescopes.
+  - Key instruments: MOSFIRE (multi-object NIR spectrograph), DEIMOS (optical multi-object), LRIS, KCWI (optical IFU).
+- **Subaru Telescope**:
+  - Mauna Kea, Hawaii. 8.2m telescope operated by NAOJ.
+  - Key instruments: Hyper Suprime-Cam (HSC, $1.5^\circ$ diameter field of view) and Prime Focus Spectrograph (PFS, 2400 fibers).
+- **Extremely Large Telescopes (ELTs)**:
+  - ESO ELT (39m, Cerro Armazones, Chile).
+  - TMT (Thirty Meter Telescope, 30m) and GMT (Giant Magellan Telescope, 24.5m).
+
+## radio, sub-millimeter, and microwave facilities
+
+- **ALMA (Atacama Large Millimeter/submillimeter Array)**:
+  - Chajnantor Plateau, 5000m elevation, Chile.
+  - 66 high-precision antennas operating from $35\text{ GHz}$ to $950\text{ GHz}$ ($8.6\text{ mm}$ to $0.3\text{ mm}$).
+  - Baselines up to 16 km providing milliarcsecond angular resolution.
+  - Traces cold molecular gas (${\rm CO}$) and dust thermal continuum at high redshift.
+- **VLA / ngVLA (Next Generation VLA)**:
+  - Karl G. Jansky VLA (New Mexico), 27 antennas of 25m.
+- **SKA (Square Kilometre Array)**:
+  - SKA-Low (Australia, $50 - 350$ MHz for 21cm cosmology and Epoch of Reionization).
+  - SKA-Mid (South Africa, $350\text{ MHz} - 15\text{ GHz}$).
+
+## space-based observatories
+
+- **HST (Hubble Space Telescope)**: 2.4m, UV-optical-NIR, standard candle calibration and deep fields.
+- **JWST (James Webb Space Telescope)**: 6.5m segmented beryllium mirror at Sun-Earth L2. Instruments: NIRCam, NIRSpec, MIRI, NIRISS. See [High-z galaxies with JWST](./High-z%20galaxies%20with%20JWST.html).
+- **Planck**: 1.5m telescope at L2, all-sky CMB temperature and polarization.
+- **Euclid & Roman**: wide-field NIR cosmology missions.
+
+## connections
+
+- survey overview: [Surveys to remember](./Surveys%20to%20remember.html)
+- ifu physics: [MUSE datacubes](./MUSE%20datacubes.html), [Datacube reduction](./Datacube%20reduction.html)
+- radio physics: [Major radio interferometers](interf/Major%20radio%20interferometers.html), [Event Horizon Telescope EHT](interf/Event%20Horizon%20Telescope%20EHT.html)
+{% endraw %}
+
+<div class="backlinks-section">
+  <h4 class="backlinks-title">Linked References (2)</h4>
+  <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
+    <li class="backlink-item-wrap"><a href="./Surveys%20to%20remember.html" class="backlink-item">Surveys to remember</a></li>
+  </ul>
+</div>

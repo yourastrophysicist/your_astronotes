@@ -1,0 +1,77 @@
+---
+layout: "default"
+title: "Geodesic deviation"
+---
+{% raw %}
+the **geodesic deviation equation** is the GR formulation of **tidal force**: it tells you how the separation between two nearby free-falling observers evolves due to the curvature of spacetime.
+
+## the setup
+
+consider two infinitesimally separated geodesics with the same affine parameter, separated by a vector $\xi^\mu$ (the **deviation vector**). the geodesics' four-velocities are $u^\mu$.
+
+the **second covariant derivative of the deviation along the geodesic** is:
+$$\boxed{\, \frac{D^2\xi^\mu}{D\tau^2} = -R^\mu{}_{\nu\rho\sigma}u^\nu u^\rho \xi^\sigma \,}$$
+
+so the relative acceleration of two free-falling test particles is given by Riemann acting on their separation. **curvature = tidal force** in the most direct sense.
+
+## physical interpretation
+
+in flat spacetime ($R = 0$): two parallel geodesics stay parallel. no relative acceleration.
+
+in curved spacetime: parallel geodesics initially can diverge or converge. the "tidal effect."
+
+example: two test particles falling toward Earth side by side. Earth's gravity pulls them slightly toward each other (since both fall toward the centre). the convergence rate is the tidal force, encoded in Earth's Riemann tensor.
+
+example: a test ring of particles in free fall through a region with a passing gravitational wave gets stretched in one direction and squeezed in the perpendicular direction (the "+" and "×" patterns). the tidal force from the GW is captured by $R_{0i0j}$, which oscillates in time.
+
+## the Newtonian analog
+
+in Newtonian gravity, the relative acceleration of two nearby falling particles separated by $\xi^i$ is:
+$$\ddot \xi^i = -\partial_i \partial_j \Phi\,\xi^j$$
+with $\Phi$ the Newtonian potential.
+
+so the **Newtonian tidal tensor** is $\partial_i \partial_j \Phi$. in GR, this generalises to $R^\mu{}_{0\nu 0}$ (in the local rest frame of $u$), which reduces to $\partial_i \partial_j \Phi$ in the weak-field, slow-motion limit.
+
+## the operational definition of curvature
+
+the geodesic deviation equation is the **physical operational definition** of curvature:
+
+> "spacetime is curved when nearby free-falling observers experience relative acceleration."
+
+this is **not** something coordinate-dependent or subjective. the relative motion of nearby test particles is invariant. and it's controlled by Riemann.
+
+## the LIGO effect
+
+gravitational waves passing through a free-falling array of test masses produce time-varying separations:
+$$\Delta L/L \sim h_{\rm GW}$$
+with $h_{\rm GW}$ the wave amplitude. for typical astrophysical sources, $h \sim 10^{-21}$, requiring laser interferometers with arm lengths of km to detect $\Delta L \sim 10^{-18}$ m.
+
+this is **directly geodesic deviation**: the test masses are in free fall, and the GW imposes oscillating tidal forces via $R_{0i0j}$.
+
+## see also
+
+- [Riemann tensor](./Riemann%20tensor.html)
+- [Geodesic equation](./Geodesic%20equation.html)
+- [Ricci tensor and scalar](./Ricci%20tensor%20and%20scalar.html)
+- [Newtonian limit of GR](./Newtonian%20limit%20of%20GR.html)
+- [Geodesic deviation under a GW](./Geodesic%20deviation%20under%20a%20GW.html)
+- [Plus and cross polarizations](./Plus%20and%20cross%20polarizations.html)
+- [Schwarzschild effective potential](./Schwarzschild%20effective%20potential.html)
+- Q17 - Riemann R_0x0x for a TT plane wave
+- [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
+- [Ch 4 - Spacetime Curvature](../../02_Literature/Book/Baumann%20GR/Ch%204%20-%20Spacetime%20Curvature.html)
+- [Ch 8 - Gravitational Waves](../../02_Literature/Book/Baumann%20GR/Ch%208%20-%20Gravitational%20Waves.html)
+{% endraw %}
+
+<div class="backlinks-section">
+  <h4 class="backlinks-title">Linked References (7)</h4>
+  <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="../../02_Literature/Book/Baumann%20GR/Ch%201%20-%20Gravity%20is%20Geometry.html" class="backlink-item">Ch 1 - Gravity is Geometry</a></li>
+    <li class="backlink-item-wrap"><a href="../../02_Literature/Book/Baumann%20GR/Ch%204%20-%20Spacetime%20Curvature.html" class="backlink-item">Ch 4 - Spacetime Curvature</a></li>
+    <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
+    <li class="backlink-item-wrap"><a href="./Geodesic%20deviation%20under%20a%20GW.html" class="backlink-item">Geodesic deviation under a GW</a></li>
+    <li class="backlink-item-wrap"><a href="./Geodesic%20equation.html" class="backlink-item">Geodesic equation</a></li>
+    <li class="backlink-item-wrap"><a href="./Locally%20inertial%20frame.html" class="backlink-item">Locally inertial frame</a></li>
+    <li class="backlink-item-wrap"><a href="./Riemann%20tensor.html" class="backlink-item">Riemann tensor</a></li>
+  </ul>
+</div>

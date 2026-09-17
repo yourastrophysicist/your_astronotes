@@ -17,7 +17,7 @@ An open, community-oriented astrophysics compendium and graduate study reference
 
 * **Instagram**: [@your.astrophysicist](https://instagram.com/your.astrophysicist)
 * **GitHub**: [yourastrophysicist](https://github.com/yourastrophysicist)
-* **Live Website**: [yourastrophysicist.github.io/your_astronotes](https://yourastrophysicist.github.io/your_astronotes/)
+* **Live Website**: [yourastronotes.github.io](https://yourastronotes.github.io/)
 * **Source Repository**: [github.com/yourastrophysicist/your_astronotes](https://github.com/yourastrophysicist/your_astronotes)
 
 ---

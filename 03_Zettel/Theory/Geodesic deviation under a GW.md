@@ -1,0 +1,87 @@
+---
+layout: "default"
+title: "Geodesic deviation under a GW"
+---
+{% raw %}
+a passing gravitational wave doesn't push individual test particles (they stay at constant comoving coordinates in TT gauge), but it changes the **proper distance** between them. this is what LIGO measures: the differential strain between freely-falling mirrors.
+
+## the setup
+
+two test masses, $A$ and $B$, separated by a small spatial vector $\xi^\mu$. both are in **free fall** (no non-gravitational forces). a GW passes through.
+
+geodesic deviation equation:
+$$\frac{D^2\xi^i}{D\tau^2} = -R^i{}_{0j0}\,\xi^j$$
+
+(equatorial slice; only the spatial parts of Riemann matter for slow test masses.)
+
+## linearised Riemann
+
+in TT gauge, the linearised Riemann components are:
+$$R_{i0j0} = -\tfrac{1}{2}\ddot h_{ij}^{TT}$$
+
+so:
+$$\boxed{\, \ddot\xi_i = \tfrac{1}{2}\ddot h_{ij}^{TT}\,\xi^j \,}$$
+
+twice-time-derivative of $h^{TT}$ controls the relative acceleration of test masses.
+
+## solving
+
+integrate twice:
+$$\xi_i(t) = \xi_i^{(0)} + \tfrac{1}{2}h_{ij}^{TT}(t)\,\xi^j_{(0)}$$
+
+so the **separation vector picks up a contribution proportional to $h^{TT}$**. specifically, the proper distance between test masses changes by:
+$$\Delta L/L \sim \tfrac{1}{2}h^{TT}$$
+
+this is the **strain**, the observable in GW detectors.
+
+## the LIGO signal
+
+LIGO has two perpendicular arms of length $L \approx 4$ km. a GW with $h^{TT}$ produces a differential arm-length change:
+$$\Delta L_x - \Delta L_y \approx \tfrac{1}{2}(h_{xx}^{TT} - h_{yy}^{TT}) L = h_+(t) \cdot L$$
+
+(for $h_+$ polarisation alone; $h_\times$ would be picked up by arms at $45°$).
+
+measured via Michelson interferometry: the output light intensity depends on the relative arm length, sensitive to $\Delta L \sim 10^{-18}$ m for typical $h \sim 10^{-21}$ and $L = 4$ km.
+
+GW150914 (first LIGO detection): $h \sim 10^{-21}$ at peak, signal duration $\sim 0.2$ s, energy $\sim 3 M_\odot c^2$ radiated in GW.
+
+## the picture: ring of test masses
+
+if you arrange test masses in a circle in the $xy$-plane, a passing $h_+$ wave (propagating along $z$) makes the ring oscillate as an ellipse: stretched along $x$ + squeezed along $y$ at one phase, reversed half a period later.
+
+a $h_\times$ wave does the same but with axes rotated $45°$. so the ring oscillates with axes along $\pm 45°$.
+
+both effects are at the level of $\Delta L / L \sim h$, which for astrophysical sources is $\lesssim 10^{-21}$. tiny, requires extreme precision.
+
+## why "free-falling"
+
+LIGO's mirrors are suspended on multi-stage pendulums to isolate them from local seismic noise. on the GW timescales of $\sim 100$ Hz, they're effectively in **free fall** along the GW direction. so the mirrors follow geodesics.
+
+the GW changes the **proper distance** between them via geodesic deviation, observable as a strain in the arm length.
+
+## see also
+
+- [Geodesic deviation](./Geodesic%20deviation.html)
+- [Transverse traceless gauge](./Transverse%20traceless%20gauge.html)
+- [Plus and cross polarizations](./Plus%20and%20cross%20polarizations.html)
+- [Quadrupole formula](./Quadrupole%20formula.html)
+- [GW energy and angular momentum](./GW%20energy%20and%20angular%20momentum.html)
+- [Riemann tensor](./Riemann%20tensor.html)
+- [Linearized metric perturbation](./Linearized%20metric%20perturbation.html)
+- Q17 - Riemann R_0x0x for a TT plane wave
+- [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
+- [Ch 8 - Gravitational Waves](../../02_Literature/Book/Baumann%20GR/Ch%208%20-%20Gravitational%20Waves.html)
+{% endraw %}
+
+<div class="backlinks-section">
+  <h4 class="backlinks-title">Linked References (7)</h4>
+  <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="../../02_Literature/Book/Baumann%20GR/Ch%208%20-%20Gravitational%20Waves.html" class="backlink-item">Ch 8 - Gravitational Waves</a></li>
+    <li class="backlink-item-wrap"><a href="./GW%20energy%20and%20angular%20momentum.html" class="backlink-item">GW energy and angular momentum</a></li>
+    <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
+    <li class="backlink-item-wrap"><a href="./Geodesic%20deviation.html" class="backlink-item">Geodesic deviation</a></li>
+    <li class="backlink-item-wrap"><a href="./Plus%20and%20cross%20polarizations.html" class="backlink-item">Plus and cross polarizations</a></li>
+    <li class="backlink-item-wrap"><a href="./Quadrupole%20formula.html" class="backlink-item">Quadrupole formula</a></li>
+    <li class="backlink-item-wrap"><a href="./Transverse%20traceless%20gauge.html" class="backlink-item">Transverse traceless gauge</a></li>
+  </ul>
+</div>

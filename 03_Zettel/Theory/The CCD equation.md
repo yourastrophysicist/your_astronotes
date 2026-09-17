@@ -1,0 +1,123 @@
+---
+layout: "default"
+title: "The CCD equation"
+---
+{% raw %}
+the master equation that tells me whether my observation is going to detect anything. derived from [CCD noise sources](./CCD%20noise%20sources.html) by dividing source signal by total noise.
+
+## the equation
+
+$$\boxed{\, \mathrm{SNR} = \frac{N_*}{\sqrt{\,N_* + n_{\rm pix}(N_{\rm sky} + N_d + \sigma_{\rm RN}^2)\,}} \,}$$
+
+with:
+- $N_* = R_*\, t$: source counts (e$^-$) integrated over the aperture.
+- $n_{\rm pix}$: number of pixels in the aperture.
+- $N_{\rm sky} = R_{\rm sky}\, t$: sky counts per pixel.
+- $N_d = D\, t$: dark current per pixel.
+- $\sigma_{\rm RN}^2$: read-noise variance per pixel per readout.
+
+every exposure-time calculator on every observatory's website is running this calculation under the hood.
+
+## the three regimes
+
+depending on which term in the noise dominates, SNR scales differently with $t$:
+
+### source-limited
+$$N_* \gg n_{\rm pix}(N_{\rm sky} + N_d + \sigma_{\rm RN}^2)$$
+$$\mathrm{SNR} \approx \sqrt{N_*} = \sqrt{R_*\, t}\quad\Rightarrow\quad \mathrm{SNR} \propto \sqrt{t}$$
+to double SNR, $4\times$ exposure time. typical for bright stars, photometric standards.
+
+### sky-limited
+$$n_{\rm pix} N_{\rm sky} \gg N_*\,,\, N_d\,,\, \sigma_{\rm RN}^2$$
+$$\mathrm{SNR} \approx \frac{N_*}{\sqrt{n_{\rm pix} N_{\rm sky}}} = \frac{R_*\, t}{\sqrt{n_{\rm pix} R_{\rm sky}\, t}} = R_*\sqrt{\frac{t}{n_{\rm pix} R_{\rm sky}}}$$
+$$\mathrm{SNR} \propto \sqrt{t}$$
+the typical regime for faint extragalactic and faint-star science. SNR still grows as $\sqrt{t}$ but with a worse prefactor than source-limited.
+
+### read-noise-limited
+$$\sigma_{\rm RN}^2 \gg N_{\rm sky}, N_d$$
+(typical for short exposures, NIR with cold instrument, narrow-band imaging, photon-counting):
+$$\mathrm{SNR} \approx \frac{N_*}{\sqrt{n_{\rm pix}}\,\sigma_{\rm RN}} = \frac{R_*\, t}{\sqrt{n_{\rm pix}}\,\sigma_{\rm RN}}$$
+$$\mathrm{SNR} \propto t$$
+crucially, **SNR scales linearly with $t$** here, not $\sqrt{t}$. consequence: for $K$ short exposures of total time $t$:
+$$\mathrm{SNR}_K \approx \frac{R_*\, t}{\sqrt{K\, n_{\rm pix}}\,\sigma_{\rm RN}}$$
+which is $\sqrt{K}$ **worse** than one long exposure of duration $t$.
+
+**this is why you take long exposures**: in the read-noise-limited regime, fewer reads = more SNR for the same total integration time. limit: avoid saturating the brightest sources, avoid cosmic-ray pile-up.
+
+## a worked numerical example
+
+target: galaxy with $R_* = 5$ e$^-$/s, $R_{\rm sky} = 10$ e$^-$/s/pix, $D = 0.01$ e$^-$/s/pix, $\sigma_{\rm RN} = 5$ e$^-$/pix, aperture $n_{\rm pix} = 20$, exposure $t = 600$ s.
+
+- $N_* = 3000$
+- $N_{\rm sky} = 6000$
+- $N_d = 6$
+- $\sigma_{\rm RN}^2 = 25$
+
+$$\mathrm{SNR} = \frac{3000}{\sqrt{3000 + 20 \cdot (6000 + 6 + 25)}} = \frac{3000}{\sqrt{123\,620}} \approx 8.5$$
+
+interpretation: sky-limited (sky $\gg$ source, $20 \times 6000 \gg 3000$). doubling SNR requires $\sim 4\times$ time, or smaller aperture, or darker sky.
+
+## the master decision tree
+
+ask three questions:
+1. is $N_* \gg n_{\rm pix} N_{\rm sky}$? if yes, **source-limited**, take whatever exposure works.
+2. is $N_{\rm sky} \gg \sigma_{\rm RN}^2/t$? if yes, **sky-limited**, prefer many medium exposures (cosmic-ray rejection) at moderate read noise penalty.
+3. otherwise **read-noise-limited**, prefer few long exposures.
+
+planning rule: aim for $N_{\rm sky} \gtrsim 10\sigma_{\rm RN}^2$ per pixel per exposure to cleanly transition into the sky-limited regime; below that, longer exposures help.
+
+## extensions
+
+- **aperture optimisation**: for a Gaussian PSF on flat sky, the aperture radius maximising SNR is $\sim 1.4\,$FWHM. larger collects more flux but more sky; smaller cuts sky but loses source.
+- **PSF photometry**: see [PSF photometry](./PSF%20photometry.html). equivalent to weighting pixels by the PSF, recovers some SNR vs aperture in crowded fields.
+- **stacking**: $K$ exposures combined optimally give $\sqrt{K}$ improvement in sky/source-limited; in read-noise-limited, only linearly in $K$ if the noise per stack is dominated by readout.
+
+## see also
+
+- [CCD detectors and SNR](./CCD%20detectors%20and%20SNR.html) — the comprehensive companion
+- [CCD noise sources](./CCD%20noise%20sources.html)
+- [CCD basics](./CCD%20basics.html)
+- [CCD readout chain](./CCD%20readout%20chain.html)
+- [Aperture photometry](./Aperture%20photometry.html)
+- [PSF photometry](./PSF%20photometry.html)
+- [Sky brightness](./Sky%20brightness.html)
+- [Signal-Noise Ratio](./Signal-Noise%20Ratio.html)
+
+---
+
+## observational astrophysics course slides (Prof. Paolo Cassata)
+
+![obs_ccd-25.png](../../assets/images/obs_ccd-25.png)
+*Obs7 exam question: Full mathematical derivation of the CCD Signal-to-Noise Equation.*
+
+![obs_ccd-26.png](../../assets/images/obs_ccd-26.png)
+*Master formula: SNR = N_* / sqrt(N_* + n_pix * (N_sky + N_d + sigma_RN^2)).*
+
+![obs_ccd-27.png](../../assets/images/obs_ccd-27.png)
+*Source photon noise limited regime (bright stars): SNR proportional to sqrt(N_*) proportional to sqrt(t).*
+
+![obs_ccd-28.png](../../assets/images/obs_ccd-28.png)
+*Sky background limited regime (faint objects, ground-based optical): SNR proportional to N_* / sqrt(n_pix * N_sky).*
+
+![obs_ccd-29.png](../../assets/images/obs_ccd-29.png)
+*Read noise limited regime (short exposures, spectroscopy, high resolution): SNR proportional to N_* / (sqrt(n_pix) * sigma_RN).*
+
+![obs_ccd-30.png](../../assets/images/obs_ccd-30.png)
+*Exposure time calculation: required exposure time to reach target SNR.*
+{% endraw %}
+
+<div class="backlinks-section">
+  <h4 class="backlinks-title">Linked References (10)</h4>
+  <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="./Aperture%20photometry.html" class="backlink-item">Aperture photometry</a></li>
+    <li class="backlink-item-wrap"><a href="./CCD%20basics.html" class="backlink-item">CCD basics</a></li>
+    <li class="backlink-item-wrap"><a href="./CCD%20calibration%20steps.html" class="backlink-item">CCD calibration steps</a></li>
+    <li class="backlink-item-wrap"><a href="./CCD%20noise%20sources.html" class="backlink-item">CCD noise sources</a></li>
+    <li class="backlink-item-wrap"><a href="./CCD%20readout%20chain.html" class="backlink-item">CCD readout chain</a></li>
+    <li class="backlink-item-wrap"><a href="./Cosmic%20rays%20and%20bad%20pixels.html" class="backlink-item">Cosmic rays and bad pixels</a></li>
+    <li class="backlink-item-wrap"><a href="./Linearity%20and%20saturation.html" class="backlink-item">Linearity and saturation</a></li>
+    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
+    <li class="backlink-item-wrap"><a href="./PSF%20photometry.html" class="backlink-item">PSF photometry</a></li>
+    <li class="backlink-item-wrap"><a href="./Sky%20brightness.html" class="backlink-item">Sky brightness</a></li>
+  </ul>
+</div>
