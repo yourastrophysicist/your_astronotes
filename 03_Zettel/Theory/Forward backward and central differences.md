@@ -104,7 +104,7 @@ $O(h^4)$. but four function evaluations and the optimal $h$ shifts to $\sim \eps
 
 ### Numerical Methods & Algorithmic Diagnostics
 
-![mapelli_fig21_p205.png](../../assets/images/mapelli_fig21_p205.png)
+![mapelli_fig21_p205.png](../../assets/images/mapelli_fig21_p67.png)
 *Finite difference stencil: forward, backward, and central difference error terms.*
 {% endraw %}
 

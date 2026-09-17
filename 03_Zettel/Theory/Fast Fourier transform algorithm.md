@@ -101,7 +101,7 @@ before Cooley-Tukey (1965), Fourier analysis was practically restricted to $N \l
 
 ### Numerical Methods & Algorithmic Diagnostics
 
-![mapelli_fig11_p115.png](../../assets/images/mapelli_fig11_p115.png)
+![mapelli_fig11_p115.png](../../assets/images/mapelli_fig11_p55.png)
 *Fast Fourier Transform (FFT) grid density assignment and Green function kernel in k-space.*
 {% endraw %}
 

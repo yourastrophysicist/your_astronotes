@@ -23,7 +23,7 @@ where $B$ is the longest baseline. a few useful values:
 
 ## Young's fringes
 
-![Fundamental geometry of two-slit wave interference relating baseline $d$, wavelength $\lambda$, and fringe spacing $\Delta\theta = \lambda/d$.](Interferometry/Interferometry_equation_sheet.svg)
+![Fundamental geometry of two-slit wave interference relating baseline $d$, wavelength $\lambda$, and fringe spacing $\Delta\theta = \lambda/d$.](../../assets/images/Interferometry_equation_sheet.svg)
 
 
 fringe spacing on a screen at distance $L$ from a slit pair separated by $d$:

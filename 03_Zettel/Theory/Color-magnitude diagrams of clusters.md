@@ -5,7 +5,7 @@ name: "Color-magnitude diagrams of clusters"
 description: "the central diagnostic tool of stellar population studies, plotting magnitude vs color for resolved cluster stars to extract age, metallicity, distance, and reddening"
 ---
 {% raw %}
-![](Pasted%20image%2020260914195153.png)
+![](../../assets/images/Pasted%20image%2020260914195153.png)
 a **color-magnitude diagram** (CMD) is the observational version of the [HR diagram](./HR%20diagram.html): $M_V$ (or $M_X$) vs a color (e.g. $B-V$, $g-r$, or $V-I$). for stellar **clusters** specifically, all stars share the same age, metallicity, and distance, so a cluster CMD is a powerful diagnostic of all four parameters: age, $Z$, distance modulus, and reddening. milone et al. 2025 (A&A 696, 221) provides the modern reference CMD for NGC 6397 ($\sim 13.5$ Gyr), used as the canonical example throughout the course.
 
 ## why clusters

@@ -13,7 +13,7 @@ tags: ""
 
 ## core physical intuition
 
-![Synthesized radio image of a microquasar relativistic jet produced through standard radio data reduction steps.](Interferometry/Steps_in_radio_interferometric_observations.jpg)
+![Synthesized radio image of a microquasar relativistic jet produced through standard radio data reduction steps.](../../assets/images/Steps_in_radio_interferometric_observations.jpg)
 
 
 Taking an image with a radio interferometer is not a simple point-and-shoot process. Because the array is spread across miles of terrain, the signals are heavily distorted by the atmosphere and by variations in the electronics of each individual antenna. To recover the true sky image, the observer must constantly switch away from their science target to look at known, bright reference sources.

@@ -23,7 +23,7 @@ intensities just sum.
 
 ## what makes light coherent
 
-![Coherent superposition (adding complex field amplitudes) versus incoherent superposition (adding wave intensities).](Interferometry/Coherent_vs_incoherent_imaging.png)
+![Coherent superposition (adding complex field amplitudes) versus incoherent superposition (adding wave intensities).](../../assets/images/Coherent_vs_incoherent_imaging.png)
 
 
 mutual coherence requires both:

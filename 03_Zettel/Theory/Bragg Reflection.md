@@ -67,8 +67,6 @@ A typical hard X-ray mirror multilayer consists of **hundreds of bilayer pairs**
 The number of pairs $N_{pairs}$ and the layer thickness ratio (e.g. $\Gamma = d_{W}/d_M$) are free parameters
 	optimized using simulation to **maximize reflectivity** over a target energy band
 		a broader energy band requires a **depth-graded multilayer**: $d_M$ varies with depth through the stack
-
-![Pasted image focusing multilayer reflection.png](../../assets/images/Pasted image focusing multilayer reflection.png)
 <font color="#bfbfbf">Schematic of X-ray reflection by a multilayer mirror. Hundreds of alternating high-Z/low-Z layer pairs produce constructive interference, giving significant reflectivity at energies where single-layer grazing incidence would fail.</font>
 
 ---

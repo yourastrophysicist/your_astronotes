@@ -18,7 +18,7 @@ a unique twin-mirror telescope at Mt. Graham, Arizona. **two 8.4m primary mirror
 
 ## the dual capability
 
-![Large Binocular Telescope (LBT): dual 8.4-meter primary mirrors on a single alt-azimuth mount operating as a Fizeau interferometer.](Interferometry/Large_Binocular_Telescope_LBT.JPG)
+![Large Binocular Telescope (LBT): dual 8.4-meter primary mirrors on a single alt-azimuth mount operating as a Fizeau interferometer.](../../assets/images/Large_Binocular_Telescope_LBT.JPG)
 
 
 LBT can operate in two modes:

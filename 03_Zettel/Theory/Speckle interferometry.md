@@ -11,7 +11,7 @@ invented by Antoine Labeyrie (1970). a precursor to AO and a still-useful techni
 
 ## the problem
 
-![Short-exposure speckle image freezing atmospheric turbulence into diffraction-limited speckles across the seeing disk.](Interferometry/Speckle_interferometry.jpg)
+![Short-exposure speckle image freezing atmospheric turbulence into diffraction-limited speckles across the seeing disk.](../../assets/images/Speckle_interferometry.jpg)
 
 
 a long-exposure image of a star through the atmosphere has FWHM $\sim \lambda/r_0$ — far worse than the diffraction limit $\lambda/D$. standard imaging is *seeing-limited*.

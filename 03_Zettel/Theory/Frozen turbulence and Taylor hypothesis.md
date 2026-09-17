@@ -18,7 +18,7 @@ the temporal fluctuations $\phi(\mathbf x, t)$ are equivalent to spatial fluctua
 
 ## when it's valid
 
-![Taylor frozen turbulence hypothesis: wind carrying static phase screens across the aperture at velocity $.](Interferometry/Frozen_turbulence_and_Taylor_hypothesis.gif)
+![Taylor frozen turbulence hypothesis: wind carrying static phase screens across the aperture at velocity $.](../../assets/images/Frozen_turbulence_and_Taylor_hypothesis.gif)
 
 
 the eddy turnover time $\tau_{\rm eddy} \sim L/v_{\rm rms}$, where $L$ is the eddy size and $v_{\rm rms}$ is the rms turbulent velocity within the eddy. the advection time $\tau_{\rm adv} \sim L/v_{\rm wind}$, with $v_{\rm wind}$ the bulk wind.

@@ -113,7 +113,7 @@ leapfrog wins for energy conservation over $10^9$ orbits at fixed timestep. Herm
 *Exam Model Solution: Fourth-order Hermite scheme using explicit acceleration $\vec{a}_i$ and jerk $\dot{\vec{a}}_i$ to construct Hermite interpolation polynomials for high-precision collisional N-body dynamics.*
 
 
-![mapelli_fig08_p88.png](../../assets/images/mapelli_fig08_p88.png)
+![mapelli_fig08_p88.png](../../assets/images/mapelli_fig08_p49.png)
 *Aarseth Hermite integration algorithm flow: predictor step, acceleration and jerk evaluation, and corrector step.*
 {% endraw %}
 

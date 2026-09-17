@@ -227,7 +227,7 @@ $$\boxed{a = \sqrt{a_N a_0} \implies v_{\rm flat} = (G M a_0)^{1/4}} \qquad \tex
 
 ## Master Figure Index: Astrophysics of Galaxies (650 Images)
 
-### Part A: Curated Publication Figures (65 Figures from Literature)
+### Part A: Curated Publication Figures
 
 | Figure Image | Originating Paper / Source | Physical Topic Illustrated | Host Zettel Note |
 | :--- | :--- | :--- | :--- |

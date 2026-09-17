@@ -19,7 +19,7 @@ a typical D'Onofrio oral interferometry exam:
 
 ## scope
 
-![Superposition of wavefronts creating measurable interference fringes.](Interferometry/Interferometry_exam_rules.PNG)
+![Superposition of wavefronts creating measurable interference fringes.](../../assets/images/Interferometry_exam_rules.PNG)
 
 
 everything in [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html) is fair game, but the exam emphasizes:

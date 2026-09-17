@@ -93,7 +93,7 @@ prefer not-a-knot unless I have a physical reason for natural (e.g. genuinely fl
 
 ### Numerical Methods & Algorithmic Diagnostics
 
-![mapelli_fig13_p130.png](../../assets/images/mapelli_fig13_p130.png)
+![mapelli_fig13_p130.png](../../assets/images/mapelli_fig13_p57.png)
 *Cubic spline interpolation smoothing and continuity of second derivatives $S''(x)$.*
 {% endraw %}
 

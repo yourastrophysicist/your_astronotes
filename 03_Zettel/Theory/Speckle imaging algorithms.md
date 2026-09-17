@@ -41,7 +41,7 @@ triple correlation is the *time-domain* equivalent of the bispectrum, computing 
 
 ## comparison
 
-![Knox-Thompson and bispectrum phase reconstruction algorithms recovering true diffraction-limited object images from speckle frames.](Interferometry/Speckle_imaging_algorithms.gif)
+![Knox-Thompson and bispectrum phase reconstruction algorithms recovering true diffraction-limited object images from speckle frames.](../../assets/images/Speckle_imaging_algorithms.gif)
 
 
 | feature | Knox-Thompson | bispectrum |

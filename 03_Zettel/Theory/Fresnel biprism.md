@@ -11,7 +11,7 @@ simpler to align than the Fresnel double mirror: just one optical element.
 
 ## the geometry
 
-![Fresnel biprism ray trace: refraction through a thin double prism dividing a wavefront into two overlapping coherent beams.](Interferometry/Fresnel_biprism.PNG)
+![Fresnel biprism ray trace: refraction through a thin double prism dividing a wavefront into two overlapping coherent beams.](../../assets/images/Fresnel_biprism.PNG)
 
 
 a thin glass biprism has two refracting surfaces meeting at an apex angle slightly less than 180° (i.e. the prism has two halves with very small apex angles $\beta$ each).

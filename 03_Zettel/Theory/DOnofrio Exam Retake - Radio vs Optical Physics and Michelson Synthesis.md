@@ -35,7 +35,7 @@ When an incoming planar radio wave strikes a radio antenna (e.g. at the focus of
 
 ## Question 2: Detail the component-by-component physical workflow of a radio telescope.
 
-![Radio telescope components and heterodyne receiver chain](Interferometry/Karl_G._Jansky_Very_Large_Array.jpg)
+![Radio telescope components and heterodyne receiver chain](../../assets/images/radio_interferometer_signal_chain.svg)
 
 ### Model Answer
 
@@ -70,7 +70,7 @@ A radio telescope antenna converts free-space electromagnetic waves into a digit
 
 ## Question 3: Explain Michelson's 1920 Stellar Interferometer experiment at Mt. Wilson. How did it measure stellar angular diameters, and what is the visibility zero condition?
 
-![Michelson stellar interferometer diagram](Interferometry/Michelson_stellar_interferometer.png)
+![Michelson stellar interferometer diagram](../../assets/images/Michelson_stellar_interferometer.jpg)
 
 ### Model Answer & Derivation
 

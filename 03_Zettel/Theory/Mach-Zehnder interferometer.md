@@ -11,7 +11,7 @@ invented by Mach (1891) and Zehnder (1892) independently. now standard in optics
 
 ## the optical setup
 
-![Mach-Zehnder interferometer: two independent beam splitters create separate sample and reference paths.](Interferometry/Mach-Zehnder_interferometer.jpg)
+![Mach-Zehnder interferometer: two independent beam splitters create separate sample and reference paths.](../../assets/images/Mach-Zehnder_interferometer.jpg)
 
 
 four optical elements arranged in a rectangle:

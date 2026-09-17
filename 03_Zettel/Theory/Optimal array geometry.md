@@ -13,7 +13,7 @@ tags: ""
 
 ## core physical intuition
 
-![Aerial view of Paranal Observatory showing array configuration optimizing baseline geometry for interferometry.](Interferometry/Optimal_array_geometry.jpg)
+![Aerial view of Paranal Observatory showing array configuration optimizing baseline geometry for interferometry.](../../assets/images/Optimal_array_geometry.jpg)
 
 
 If you have a limited number of telescopes, where do you put them? The shape of the array completely determines how the (u,v) plane is sampled. Since gaps in the (u,v) plane lead to artifacts (sidelobes) in the dirty beam, the goal is to choose a geometry that provides the most uniform and complete coverage of spatial frequencies possible for your specific science goal.

@@ -91,7 +91,7 @@ fix: better phase calibration (more frequent calibrator visits, self-calibration
 
 ## diagnosing artifacts
 
-![Diffraction Airy pattern showing concentric sidelobes that produce imaging artifacts when sampling is incomplete.](Interferometry/Imaging_artifacts.svg)
+![Diffraction Airy pattern showing concentric sidelobes that produce imaging artifacts when sampling is incomplete.](../../assets/images/Imaging_artifacts.svg)
 
 
 three diagnostic plots:

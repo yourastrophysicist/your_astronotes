@@ -13,7 +13,7 @@ tags: ""
 
 ## core physical intuition
 
-![Stokes parameters ($I, Q, U, V$) representing linear and circular polarization states in cross-correlated receiver signals.](Interferometry/Polarization_in_interferometry.png)
+![Stokes parameters ($I, Q, U, V$) representing linear and circular polarization states in cross-correlated receiver signals.](../../assets/images/Polarization_in_interferometry.png)
 
 
 Light is an electromagnetic wave that carries polarization information, which is a direct tracer of magnetic fields in space. To capture this, radio antennas are equipped with two distinct feeds that are sensitive to orthogonal polarizations, either right and left circular or horizontal and vertical linear.

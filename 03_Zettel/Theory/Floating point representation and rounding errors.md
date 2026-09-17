@@ -110,7 +110,7 @@ def isclose(a, b, rtol=1e-12, atol=1e-15):
 
 ### Numerical Methods & Algorithmic Diagnostics
 
-![mapelli_fig01_p10.png](../../assets/images/mapelli_fig01_p10.png)
+![mapelli_fig01_p10.png](../../assets/images/mapelli_fig01_p6.png)
 *IEEE 754 floating-point standard: sign bit, exponent, and mantissa for single (float32) and double (float64) precision, and catastrophic cancellation error boundaries.*
 
 

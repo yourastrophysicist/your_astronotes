@@ -13,7 +13,7 @@ tags: ""
 
 ## core physical intuition
 
-![Phase structure function $D_\phi(r) \propto (r/r_0)^{5/3}$ quantifying phase variance across spatial separation $r$.](Interferometry/Structure_function_and_correlation_function.png)
+![Phase structure function $D_\phi(r) \propto (r/r_0)^{5/3}$ quantifying phase variance across spatial separation $r$.](../../assets/images/Structure_function_and_correlation_function.png)
 
 
 When starlight passes through the turbulent atmosphere, different parts of the wavefront are delayed by different amounts. Instead of trying to track the exact phase at every single point, we use statistical tools to describe the average behavior of these fluctuations. 

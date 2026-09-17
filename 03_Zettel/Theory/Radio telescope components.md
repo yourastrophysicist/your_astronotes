@@ -7,7 +7,7 @@ title: "Radio telescope components"
 
 a radio telescope is an astronomical instrument designed to detect and measure electromagnetic radiation at radio frequencies ($\sim 10\text{ MHz}$ to $1\text{ THz}$, wavelengths $\lambda \sim 1\text{0 m}$ to $0.3\text{ mm}$). unlike optical telescopes which focus and collect discrete photons on light-sensitive CCD detectors, a radio telescope operates in the **classical electromagnetic wave regime**: it collects incoming electric fields $\mathbf{E}(\mathbf{r}, t)$, converts them via oscillating electron charge densities into electrical AC voltages $V(t)$, and processes these signals electronically.
 
-![The Karl G. Jansky Very Large Array antenna dish and receiver optics](Interferometry/Karl_G._Jansky_Very_Large_Array.jpg)
+![The Karl G. Jansky Very Large Array antenna dish and receiver optics](../../assets/images/ngVLA_Next_Generation_VLA.jpg)
 
 ## physical workflow: from sky wave to electrical current
 

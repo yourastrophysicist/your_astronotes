@@ -11,7 +11,7 @@ historically: the experiment that *should have* convinced Newton of the wave nat
 
 ## the geometry
 
-![Newton's rings: interference pattern created by the air film of variable thickness between a convex lens and a flat glass plate.](Interferometry/Newton_s_rings.jpeg)
+![Newton's rings: interference pattern created by the air film of variable thickness between a convex lens and a flat glass plate.](../../assets/images/Newton_s_rings.jpeg)
 
 
 place a plano-convex lens (typically with curvature radius $R$ of order meters) on top of a precision-flat reference glass. the air gap between them has thickness:

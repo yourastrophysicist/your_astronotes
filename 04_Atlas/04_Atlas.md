@@ -5,7 +5,7 @@ name: "04_Atlas"
 description: "Master Maps of Content Hub organizing all 17 graduate astrophysics courses across Semesters 1 to 3."
 ---
 {% raw %}
-# 04_Atlas — Master Maps of Content Hub
+# 04_Atlas — Master Maps of Content Hub (Academic Scope: Semesters 1 – 3)
 
 Welcome to the central cartography of the astrophysics second brain. This directory organizes the entire Master's in Astrophysics and Cosmology curriculum at the Università degli Studi di Padova across foundational coursework and advanced specializations.
 
@@ -15,11 +15,11 @@ Welcome to the central cartography of the astrophysics second brain. This direct
 
 | Course | Lecturers | Map of Content | Lecture Notes Directory |
 |---|---|---|---|
-| **Fundamentals of Astrophysics & Cosmology** | Prof. G. Rodighiero & Prof. M. Viel | **[Fundamentals_Astrophysics_Cosmology_MOC](./Fundamentals_Astrophysics_Cosmology_MOC.html)** | 2_Literature/Lectures/ |
-| **Observational Astrophysics** | Prof. E. Giro & Prof. G. Umbriaco | **[Observational_Astrophysics_MOC](./Observational_Astrophysics_MOC.html)** | 2_Literature/Lectures/Cassata/ |
-| **General Relativity for Astrophysics** | Prof. S. Matarrese & Cambridge Baumann | **[General_Relativity_MOC](./General_Relativity_MOC.html)** | 2_Literature/Baumann/ |
-| **Mathematical and Numerical Methods** | Prof. M. Mapelli | **[Mathematical_Numerical_Methods_MOC](./Mathematical_Numerical_Methods_MOC.html)** | 2_Literature/Lectures/ |
-| **Astrophysics Laboratory 1 (High Energy)** | Prof. L. Burderi | **[Lab_High-Energy_MOC](./Lab_High-Energy_MOC.html)** | 2_Literature/Lectures/ |
+| **Fundamentals of Astrophysics & Cosmology** | Prof. G. Rodighiero & Prof. M. Viel | **[Fundamentals_Astrophysics_Cosmology_MOC](./Fundamentals_Astrophysics_Cosmology_MOC.html)** | 02_Literature/Lectures/ |
+| **Observational Astrophysics** | Prof. E. Giro & Prof. G. Umbriaco | **[Observational_Astrophysics_MOC](./Observational_Astrophysics_MOC.html)** | 02_Literature/Lectures/Cassata/ |
+| **General Relativity for Astrophysics** | Prof. S. Matarrese & Cambridge Baumann | **[General_Relativity_MOC](./General_Relativity_MOC.html)** | 02_Literature/Baumann/ |
+| **Mathematical and Numerical Methods** | Prof. M. Mapelli | **[Mathematical_Numerical_Methods_MOC](./Mathematical_Numerical_Methods_MOC.html)** | 02_Literature/Lectures/ |
+| **Astrophysics Laboratory 1 (High Energy)** | Prof. L. Burderi | **[Lab_High-Energy_MOC](./Lab_High-Energy_MOC.html)** | 02_Literature/Lectures/ |
 
 ---
 
@@ -27,11 +27,11 @@ Welcome to the central cartography of the astrophysics second brain. This direct
 
 | Course | Lecturers | Map of Content | Lecture Notes Directory |
 |---|---|---|---|
-| **Astrophysics of Galaxies** | Prof. A. Moretti | **[Astrophysics_of_Galaxies_MOC](./Astrophysics_of_Galaxies_MOC.html)** | 2_Literature/Lectures/ |
-| **Stellar Astrophysics** | Prof. A. Milone | **[Stellar_Astrophysics_MOC](./Stellar_Astrophysics_MOC.html)** | 2_Literature/Lectures/ |
-| **Astronomical Interferometry** | Prof. C. Pernechele | **[Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html)** | 2_Literature/Lectures/ |
-| **Observational Cosmology** | Prof. M. Viel & Prof. P. Vielva | **[Observational_Cosmology_MOC](./Observational_Cosmology_MOC.html)** | 2_Literature/Lectures/ |
-| **Astronomical Spectroscopy** | Prof. S. Ciroi | **[Astronomical_Spectroscopy_MOC](./Astronomical_Spectroscopy_MOC.html)** | 2_Literature/Lectures/ |
+| **Astrophysics of Galaxies** | Prof. A. Moretti | **[Astrophysics_of_Galaxies_MOC](./Astrophysics_of_Galaxies_MOC.html)** | 02_Literature/Lectures/ |
+| **Stellar Astrophysics** | Prof. A. Milone | **[Stellar_Astrophysics_MOC](./Stellar_Astrophysics_MOC.html)** | 02_Literature/Lectures/ |
+| **Astronomical Interferometry** | Prof. C. Pernechele | **[Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html)** | 02_Literature/Lectures/ |
+| **Observational Cosmology** | Prof. M. Viel & Prof. P. Vielva | **[Observational_Cosmology_MOC](./Observational_Cosmology_MOC.html)** | 02_Literature/Lectures/ |
+| **Astronomical Spectroscopy** | Prof. S. Ciroi | **[Astronomical_Spectroscopy_MOC](./Astronomical_Spectroscopy_MOC.html)** | 02_Literature/Lectures/ |
 
 ---
 
@@ -39,23 +39,23 @@ Welcome to the central cartography of the astrophysics second brain. This direct
 
 | Course | Lecturers | Map of Content | Lecture Notes Directory |
 |---|---|---|---|
-| **Exoplanetary Astrophysics** | Prof. G. Piotto | **[Exoplanetary_Astrophysics_MOC](./Exoplanetary_Astrophysics_MOC.html)** | 2_Literature/Lectures/Exoplanetary_Astrophysics/ |
-| **Astro-Statistics and Cosmology** | Prof. M. Liguori | **[Astro-Statistics_and_Cosmology_MOC](./Astro-Statistics_and_Cosmology_MOC.html)** | 2_Literature/Lectures/Astrostatistics/ |
-| **Astrophysics Laboratory 2** | Prof. L. Malavolta & Prof. G. Piotto | **[Astrophysics_Laboratory_2_MOC](./Astrophysics_Laboratory_2_MOC.html)** | 2_Literature/Lectures/Astrophysics_Laboratory_2/ |
-| **Computational Astrophysics** | Prof. T. Zingales | **[Computational_Astrophysics_MOC](./Computational_Astrophysics_MOC.html)** | 2_Literature/Lectures/Computational_Astrophysics/ |
-| **Cosmology of the Early Universe** | Prof. N. Bartolo & Prof. S. Matarrese | **[Cosmology_of_the_Early_Universe_MOC](./Cosmology_of_the_Early_Universe_MOC.html)** | 2_Literature/Lectures/Cosmology_of_the_Early_Universe/ |
-| **Astrophysics of the Interstellar Medium** | Prof. G. Carraro | **[Astrophysics_of_the_Interstellar_Medium_MOC](./Astrophysics_of_the_Interstellar_Medium_MOC.html)** | 2_Literature/Lectures/Interstellar_Medium/ |
-| **Fluid and Plasma Dynamics** | Prof. M. Giacomin | **[Fluid_and_Plasma_Dynamics_MOC](./Fluid_and_Plasma_Dynamics_MOC.html)** | 2_Literature/Lectures/Fluid_and_Plasma_Dynamics/ |
+| **Exoplanetary Astrophysics** | Prof. G. Piotto | **[Exoplanetary_Astrophysics_MOC](./Exoplanetary_Astrophysics_MOC.html)** | 02_Literature/Lectures/Exoplanetary_Astrophysics/ |
+| **Astro-Statistics and Cosmology** | Prof. M. Liguori | **[Astro-Statistics_and_Cosmology_MOC](./Astro-Statistics_and_Cosmology_MOC.html)** | 02_Literature/Lectures/Astrostatistics/ |
+| **Astrophysics Laboratory 2** | Prof. L. Malavolta & Prof. G. Piotto | **[Astrophysics_Laboratory_2_MOC](./Astrophysics_Laboratory_2_MOC.html)** | 02_Literature/Lectures/Astrophysics_Laboratory_2/ |
+| **Computational Astrophysics** | Prof. T. Zingales | **[Computational_Astrophysics_MOC](./Computational_Astrophysics_MOC.html)** | 02_Literature/Lectures/Computational_Astrophysics/ |
+| **Cosmology of the Early Universe** | Prof. N. Bartolo & Prof. S. Matarrese | **[Cosmology_of_the_Early_Universe_MOC](./Cosmology_of_the_Early_Universe_MOC.html)** | 02_Literature/Lectures/Cosmology_of_the_Early_Universe/ |
+| **Astrophysics of the Interstellar Medium** | Prof. G. Carraro | **[Astrophysics_of_the_Interstellar_Medium_MOC](./Astrophysics_of_the_Interstellar_Medium_MOC.html)** | 02_Literature/Lectures/Interstellar_Medium/ |
+| **Fluid and Plasma Dynamics** | Prof. M. Giacomin | **[Fluid_and_Plasma_Dynamics_MOC](./Fluid_and_Plasma_Dynamics_MOC.html)** | 02_Literature/Lectures/Fluid_and_Plasma_Dynamics/ |
 
 ---
 
 ## Conceptual Zettelkasten Structure
 
 Atomic notes synthesized from these courses are organized by domain:
-* **3_Zettel/Theory/**: Theoretical derivations, physical laws, astrophysical mechanisms, and analytical models.
-* **3_Zettel/Computational/**: Numerical integrators, algorithms, git versioning patterns, data reduction pipelines, and parallel HPC.
-* **3_Zettel/Activities/**: Laboratory exercises, instrument calibration runs, and observational protocols.
-* **3_Zettel/Observations/**: Observational catalogs, telescope specifications, and instrument facilities.
+* **03_Zettel/Theory/**: Theoretical derivations, physical laws, astrophysical mechanisms, and analytical models.
+* **03_Zettel/Computational/**: Numerical integrators, algorithms, git versioning patterns, data reduction pipelines, and parallel HPC.
+* **03_Zettel/Activities/**: Laboratory exercises, instrument calibration runs, and observational protocols.
+* **03_Zettel/Observations/**: Observational catalogs, telescope specifications, and instrument facilities.
 
 ---
 

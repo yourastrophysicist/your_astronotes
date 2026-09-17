@@ -11,7 +11,7 @@ NANOGrav, EPTA, PPTA, and InPTA are the major collaborations. their joint detect
 
 ## the pulsar as a clock
 
-![Pulsar Timing Array (PTA): galactic-scale array monitoring millisecond pulsars to detect nanohertz gravitational waves.](Interferometry/Pulsar_timing_arrays_as_interferometers.jpg)
+![Pulsar Timing Array (PTA): galactic-scale array monitoring millisecond pulsars to detect nanohertz gravitational waves.](../../assets/images/Pulsar_timing_arrays_as_interferometers.jpg)
 
 
 a millisecond pulsar (MSP) emits highly regular radio pulses, with stability rivaling atomic clocks: $\sim 10^{-15}$ over years. the pulse times of arrival (TOAs) at Earth follow a deterministic prediction:

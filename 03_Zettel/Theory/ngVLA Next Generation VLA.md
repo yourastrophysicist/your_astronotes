@@ -18,7 +18,7 @@ so ngVLA spans cm to mm. higher frequencies than SKA-Mid; lower than ALMA's mm r
 
 ## the science goals
 
-![The Karl G. Jansky Very Large Array (VLA) in New Mexico, serving as the foundation for the Next Generation VLA (ngVLA).](Interferometry/ngVLA_Next_Generation_VLA.jpg)
+![The Karl G. Jansky Very Large Array (VLA) in New Mexico, serving as the foundation for the Next Generation VLA (ngVLA).](../../assets/images/ngVLA_Next_Generation_VLA.jpg)
 
 
 complementary to SKA:

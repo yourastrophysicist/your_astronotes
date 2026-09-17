@@ -121,19 +121,19 @@ the energy diagnostic: total energy should stay constant within the integrator's
 *Exam Model Solution: Direct summation N-body acceleration loop with Plummer softening parameter $\epsilon$ preventing divergence during close encounters: $\vec{a}_i = \sum_{j \ne i} \frac{G m_j (\vec{r}_j - \vec{r}_i)}{(\lvert \vec{r}_j - \vec{r}_i\rvert^2 + \epsilon^2)^{3/2}}$.*
 
 
-![mapelli_fig06_p55.png](../../assets/images/mapelli_fig06_p55.png)
+![mapelli_fig06_p55.png](../../assets/images/mapelli_fig06_p16.png)
 *Two-body Kepler problem orbit integration and phase-space trajectory.*
 
 
-![mapelli_fig07_p72.png](../../assets/images/mapelli_fig07_p72.png)
+![mapelli_fig07_p72.png](../../assets/images/mapelli_fig07_p47.png)
 *Close binary encounter softening and regularized coordinates (Kustaanheimo-Stiefel).*
 
 
-![mapelli_fig25_p245.png](../../assets/images/mapelli_fig25_p245.png)
+![mapelli_fig25_p245.png](../../assets/images/mapelli_fig25_p77.png)
 *Smoothed Particle Hydrodynamics (SPH) kernel function $W(r, h)$ and smoothing length $h$.*
 
 
-![mapelli_fig26_p255.png](../../assets/images/mapelli_fig26_p255.png)
+![mapelli_fig26_p255.png](../../assets/images/mapelli_fig26_p86.png)
 *SPH density summation over neighboring particles: $\rho_i = \sum_j m_j W(\vec{r}_i - \vec{r}_j, h)$.*
 {% endraw %}
 

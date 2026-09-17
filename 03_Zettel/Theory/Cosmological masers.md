@@ -15,7 +15,7 @@ bright maser lines: $\sim 10$-$100$ Jy. at $T_b > 10^{14}$ K (10⁵× brighter t
 
 ## the scientific value
 
-![Charles Townes with the first operational maser device, the technology behind astrophysical water maser observations.](Interferometry/Cosmological_masers.jpg)
+![Charles Townes with the first operational maser device, the technology behind astrophysical water maser observations.](../../assets/images/Cosmological_masers.jpg)
 
 
 water masers in nearby galaxies trace the kinematics of *molecular gas* in the central regions:

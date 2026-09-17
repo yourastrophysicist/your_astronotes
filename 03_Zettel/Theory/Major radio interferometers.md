@@ -59,7 +59,7 @@ a survey of the world's major radio interferometers, organized by frequency band
 
 ## mm-wave (30-1000 GHz)
 
-![Atacama Large Millimeter/submillimeter Array (ALMA): 66 reconfigurable high-precision radio antennas at 5000 m altitude.](Interferometry/Major_radio_interferometers.jpg)
+![Atacama Large Millimeter/submillimeter Array (ALMA): 66 reconfigurable high-precision radio antennas at 5000 m altitude.](../../assets/images/Major_radio_interferometers.jpg)
 
 
 ### ALMA (Atacama Large Millimeter Array)

@@ -91,7 +91,7 @@ root = brentq(f, a, b)
 
 ### Numerical Methods & Algorithmic Diagnostics
 
-![mapelli_fig14_p138.png](../../assets/images/mapelli_fig14_p138.png)
+![mapelli_fig14_p138.png](../../assets/images/mapelli_fig14_p58.png)
 *Bisection method bracket shrinking vs Newton-Raphson tangent line convergence.*
 {% endraw %}
 

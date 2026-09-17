@@ -27,7 +27,7 @@ $$A_{ijkl,\rm meas} = \frac{g_i g_j \lvert V_{ij,\rm true}\lvert  \cdot g_k g_l 
 
 ## why four stations?
 
-![Closure amplitude: ratio of visibility amplitudes across 4 telescopes removing station-dependent receiver gain errors.](Interferometry/Closure_amplitude.jpg)
+![Closure amplitude: ratio of visibility amplitudes across 4 telescopes removing station-dependent receiver gain errors.](../../assets/images/Closure_amplitude.jpg)
 
 
 with three stations there are 3 baselines and 3 amplitudes. their product (or any ratio thereof) involves powers of every gain. closure happens only if I can construct a *ratio* whose gain dependence vanishes — and that requires 4 distinct stations.

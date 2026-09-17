@@ -115,19 +115,19 @@ every elliptic problem in computational astrophysics reduces to this iterative-r
 
 ### Numerical Methods & Algorithmic Diagnostics
 
-![mapelli_fig22_p215.png](../../assets/images/mapelli_fig22_p215.png)
+![mapelli_fig22_p215.png](../../assets/images/mapelli_fig22_p69.png)
 *Partial Differential Equation (PDE) classification: elliptic (Poisson), parabolic (diffusion), hyperbolic (wave).*
 
 
-![mapelli_fig23_p225.png](../../assets/images/mapelli_fig23_p225.png)
+![mapelli_fig23_p225.png](../../assets/images/mapelli_fig23_p73.png)
 *Courant-Friedrichs-Lewy (CFL) numerical stability condition for hyperbolic wave equations: $C = \frac{u \Delta t}{\Delta x} \le 1$.*
 
 
-![mapelli_fig24_p235.png](../../assets/images/mapelli_fig24_p235.png)
+![mapelli_fig24_p235.png](../../assets/images/mapelli_fig24_p75.png)
 *Hydrodynamic shock tube (Sod shock) test problem: shock front, contact discontinuity, and rarefaction fan.*
 
 
-![mapelli_fig27_p265.png](../../assets/images/mapelli_fig27_p265.png)
+![mapelli_fig27_p265.png](../../assets/images/mapelli_fig27_p103.png)
 *Adaptive Mesh Refinement (AMR): hierarchical grid refinement on density gradients.*
 {% endraw %}
 

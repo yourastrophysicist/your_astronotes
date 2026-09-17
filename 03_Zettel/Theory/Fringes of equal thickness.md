@@ -11,7 +11,7 @@ also called **Fizeau fringes** in older literature.
 
 ## the geometry
 
-![Fringes of equal thickness: localized straight contour fringes produced by an optical wedge or film of non-uniform thickness.](Interferometry/Fringes_of_equal_thickness.jpg)
+![Fringes of equal thickness: localized straight contour fringes produced by an optical wedge or film of non-uniform thickness.](../../assets/images/Fringes_of_equal_thickness.jpg)
 
 
 a thin film with non-parallel surfaces (a wedge, a curved gap, a soap bubble's varying thickness) of refractive index $n_f$. the *thickness* $d(x, y)$ varies across the film.

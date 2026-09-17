@@ -17,7 +17,7 @@ the **Center for High Angular Resolution Astronomy** array on Mt. Wilson, Califo
 
 ## why six telescopes
 
-![CHARA Array on Mount Wilson: six 1-meter telescopes providing optical/IR baselines up to 330 meters for stellar surface imaging.](Interferometry/CHARA_array.jpg)
+![CHARA Array on Mount Wilson: six 1-meter telescopes providing optical/IR baselines up to 330 meters for stellar surface imaging.](../../assets/images/CHARA_array.jpg)
 
 
 with $N = 6$ telescopes:

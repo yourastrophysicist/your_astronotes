@@ -11,7 +11,7 @@ historically important: it was *the* experiment that put the wave theory of ligh
 
 ## the geometry
 
-![Fresnel double mirror configuration: two inclined planar mirrors producing overlapping virtual coherent sources.](Interferometry/Fresnel_double_mirror.svg)
+![Fresnel double mirror configuration: two inclined planar mirrors producing overlapping virtual coherent sources.](../../assets/images/Fresnel_double_mirror.svg)
 
 
 a point source $S$ is placed near two mirrors meeting at angle $\alpha$ (typically a few minutes of arc). light from $S$ reflects off each mirror.

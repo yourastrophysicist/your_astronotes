@@ -13,7 +13,7 @@ pulsars are *the* radio interferometric target par excellence: small ($\sim 10$ 
 
 ## the typical observation
 
-![VLBI pulsar astrometry and interstellar scintillation interferometry measuring pulsar proper motion and plasma.](Interferometry/Pulsar_interferometry.jpg)
+![VLBI pulsar astrometry and interstellar scintillation interferometry measuring pulsar proper motion and plasma.](../../assets/images/Pulsar_interferometry.jpg)
 
 
 pulsars are observed:

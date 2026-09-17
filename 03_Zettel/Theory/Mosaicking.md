@@ -15,7 +15,7 @@ solution: cover the source with multiple pointings, then *combine* them into a s
 
 ## the procedure
 
-![Mosaicking: combining multiple overlapping pointing centers to image astronomical structures larger than a single primary beam.](Interferometry/Mosaicking.jpg)
+![Mosaicking: combining multiple overlapping pointing centers to image astronomical structures larger than a single primary beam.](../../assets/images/Mosaicking.jpg)
 
 
 1. **plan**: divide the target into a grid of pointings, with overlap (typically half a primary beam between centers)

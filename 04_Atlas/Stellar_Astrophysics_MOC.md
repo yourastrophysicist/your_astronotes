@@ -27,7 +27,7 @@ every one of the 19 lectures handles a piece of this chain. Milone's research on
 
 **research index**: [Stellar Astrophysics research citations index](../03_Zettel/Theory/Stellar%20Astrophysics%20research%20citations%20index.html) — full list of papers, surveys, projects cited across the 19 lectures, organised by block + topic.
 
-**figures**: representative figures from every lecture are extracted in `07_Images/Stellar_Astrophysics/`. naming convention: `L<lecture>_p<page>_<topic>.png`. they are referenced in individual zettels as `![L<XX>_p<YY>_<topic>.png](../assets/images/L<XX>_p<YY>_<topic>.png)`.
+**figures**: representative figures from every lecture are extracted in `07_Images/Stellar_Astrophysics/`. naming convention: `L<lecture>_p<page>_<topic>.png`. they are referenced in individual zettels as ``L<XX>_p<YY>_<topic>.png``.
 
 ## prerequisites + connections
 
@@ -283,11 +283,11 @@ a 90-second version of the entire course:
 
 ---
 
-## Master Figure Index (632 Total Images)
+## Master Figure Index
 
 Every single figure, CMD diagram, and lecture slide extracted from Prof. Antonino Milone's complete course materials is cataloged below with direct links to its high-resolution render in `07_Images/Stellar_Astrophysics/` and its corresponding pedagogical context:
 
-### Lecture 01: Reading the CMD I — Morphology, Sequences, and Cluster Taxonomy (27 Figures)
+### Lecture 01: Reading the CMD I — Morphology, Sequences, and Cluster Taxonomy
 
 | Image Asset | Description & Diagnostic Utility | Primary Zettel Note |
 |---|---|---|
@@ -319,7 +319,7 @@ Every single figure, CMD diagram, and lecture slide extracted from Prof. Antonin
 | `![LAntonino_p01_24.png](../assets/images/LAntonino_p01_24.png)` | Lecture slide / observational figure from P01 covering Lecture 01: Reading the CMD I | Lecture 01: Reading the CMD I |
 | `![LAntonino_p01_25.png](../assets/images/LAntonino_p01_25.png)` | Lecture slide / observational figure from P01 covering Lecture 01: Reading the CMD I | Lecture 01: Reading the CMD I |
 
-### Lecture 02: Reading the CMD II — Isochrone Fitting, Turnoff Age, and Distance Modulus (29 Figures)
+### Lecture 02: Reading the CMD II — Isochrone Fitting, Turnoff Age, and Distance Modulus
 
 | Image Asset | Description & Diagnostic Utility | Primary Zettel Note |
 |---|---|---|
@@ -353,7 +353,7 @@ Every single figure, CMD diagram, and lecture slide extracted from Prof. Antonin
 | `![Lecture02_p35-35.png](../assets/images/Lecture02_p35-35.png)` | Lecture slide / observational figure from P02 covering Lecture 02: Reading the CMD II | Lecture 02: Reading the CMD II |
 | `![Lecture02_p5-05.png](../assets/images/Lecture02_p5-05.png)` | Lecture slide / observational figure from P02 covering Lecture 02: Reading the CMD II | Lecture 02: Reading the CMD II |
 
-### Lecture 03: Reading the CMD III — Chemical Composition, Metallicity, and Horizontal Branch (29 Figures)
+### Lecture 03: Reading the CMD III — Chemical Composition, Metallicity, and Horizontal Branch
 
 | Image Asset | Description & Diagnostic Utility | Primary Zettel Note |
 |---|---|---|
@@ -387,7 +387,7 @@ Every single figure, CMD diagram, and lecture slide extracted from Prof. Antonin
 | `![Lecture03_p35-35.png](../assets/images/Lecture03_p35-35.png)` | Lecture slide / observational figure from P03 covering Lecture 03: Reading the CMD III | Lecture 03: Reading the CMD III |
 | `![Lecture03_p5-05.png](../assets/images/Lecture03_p5-05.png)` | Lecture slide / observational figure from P03 covering Lecture 03: Reading the CMD III | Lecture 03: Reading the CMD III |
 
-### Lecture 04: Interstellar Reddening, Extinction Laws, and Galactic Assembly (32 Figures)
+### Lecture 04: Interstellar Reddening, Extinction Laws, and Galactic Assembly
 
 | Image Asset | Description & Diagnostic Utility | Primary Zettel Note |
 |---|---|---|
@@ -424,7 +424,7 @@ Every single figure, CMD diagram, and lecture slide extracted from Prof. Antonin
 | `![Lecture04pI_p15-15.png](../assets/images/Lecture04pI_p15-15.png)` | Lecture slide / observational figure from P04 covering Lecture 04: Interstellar Reddening, Extinction Laws, and Galactic Assembly | Lecture 04: Interstellar Reddening, Extinction Laws, and Galactic Assembly |
 | `![Lecture04pI_p5-05.png](../assets/images/Lecture04pI_p5-05.png)` | Lecture slide / observational figure from P04 covering Lecture 04: Interstellar Reddening, Extinction Laws, and Galactic Assembly | Lecture 04: Interstellar Reddening, Extinction Laws, and Galactic Assembly |
 
-### Lecture 05: Ultra-Faint Dwarf Galaxies (UFDGs), Dark Matter Halos, and Pop III Remnants (30 Figures)
+### Lecture 05: Ultra-Faint Dwarf Galaxies (UFDGs), Dark Matter Halos, and Pop III Remnants
 
 | Image Asset | Description & Diagnostic Utility | Primary Zettel Note |
 |---|---|---|
@@ -459,7 +459,7 @@ Every single figure, CMD diagram, and lecture slide extracted from Prof. Antonin
 | `![Lecture05pI_p35-35.png](../assets/images/Lecture05pI_p35-35.png)` | Lecture slide / observational figure from P05 covering Lecture 05: Ultra-Faint Dwarf Galaxies (UFDGs), Dark Matter Halos, and Pop III Remnants | Lecture 05: Ultra-Faint Dwarf Galaxies (UFDGs), Dark Matter Halos, and Pop III Remnants |
 | `![Lecture05pI_p5-05.png](../assets/images/Lecture05pI_p5-05.png)` | Lecture slide / observational figure from P05 covering Lecture 05: Ultra-Faint Dwarf Galaxies (UFDGs), Dark Matter Halos, and Pop III Remnants | Lecture 05: Ultra-Faint Dwarf Galaxies (UFDGs), Dark Matter Halos, and Pop III Remnants |
 
-### Lecture 06: White Dwarf Cooling Sequences, Cosmochronology, and CIA Blue Turn (38 Figures)
+### Lecture 06: White Dwarf Cooling Sequences, Cosmochronology, and CIA Blue Turn
 
 | Image Asset | Description & Diagnostic Utility | Primary Zettel Note |
 |---|---|---|
@@ -502,7 +502,7 @@ Every single figure, CMD diagram, and lecture slide extracted from Prof. Antonin
 | `![LAntonino_p06_24.png](../assets/images/LAntonino_p06_24.png)` | Lecture slide / observational figure from P06 covering Lecture 06: White Dwarf Cooling Sequences, Cosmochronology, and CIA Blue Turn | Lecture 06: White Dwarf Cooling Sequences, Cosmochronology, and CIA Blue Turn |
 | `![LAntonino_p06_25.png](../assets/images/LAntonino_p06_25.png)` | Lecture slide / observational figure from P06 covering Lecture 06: White Dwarf Cooling Sequences, Cosmochronology, and CIA Blue Turn | Lecture 06: White Dwarf Cooling Sequences, Cosmochronology, and CIA Blue Turn |
 
-### Lecture 07: Stellar Spectroscopy I — Atmospheric Stratification and Radiative Transfer (29 Figures)
+### Lecture 07: Stellar Spectroscopy I — Atmospheric Stratification and Radiative Transfer
 
 | Image Asset | Description & Diagnostic Utility | Primary Zettel Note |
 |---|---|---|
@@ -536,7 +536,7 @@ Every single figure, CMD diagram, and lecture slide extracted from Prof. Antonin
 | `![Lecture07_p35-35.png](../assets/images/Lecture07_p35-35.png)` | Lecture slide / observational figure from P07 covering Lecture 07: Stellar Spectroscopy I | Lecture 07: Stellar Spectroscopy I |
 | `![Lecture07_p5-05.png](../assets/images/Lecture07_p5-05.png)` | Lecture slide / observational figure from P07 covering Lecture 07: Stellar Spectroscopy I | Lecture 07: Stellar Spectroscopy I |
 
-### Lecture 08: Stellar Spectroscopy II — Equivalent Width, Line Broadening, and Curve of Growth (29 Figures)
+### Lecture 08: Stellar Spectroscopy II — Equivalent Width, Line Broadening, and Curve of Growth
 
 | Image Asset | Description & Diagnostic Utility | Primary Zettel Note |
 |---|---|---|
@@ -570,7 +570,7 @@ Every single figure, CMD diagram, and lecture slide extracted from Prof. Antonin
 | `![Lecture08_p35-35.png](../assets/images/Lecture08_p35-35.png)` | Lecture slide / observational figure from P08 covering Lecture 08: Stellar Spectroscopy II | Lecture 08: Stellar Spectroscopy II |
 | `![Lecture08_p5-05.png](../assets/images/Lecture08_p5-05.png)` | Lecture slide / observational figure from P08 covering Lecture 08: Stellar Spectroscopy II | Lecture 08: Stellar Spectroscopy II |
 
-### Lecture 09: Atmospheric Parameters (Teff, log g, [Fe/H], v_micro) and Alpha Elements (31 Figures)
+### Lecture 09: Atmospheric Parameters (Teff, log g, [Fe/H], v_micro) and Alpha Elements
 
 | Image Asset | Description & Diagnostic Utility | Primary Zettel Note |
 |---|---|---|
@@ -606,7 +606,7 @@ Every single figure, CMD diagram, and lecture slide extracted from Prof. Antonin
 | `![Lecture09b_p35-35.png](../assets/images/Lecture09b_p35-35.png)` | Lecture slide / observational figure from P09 covering Lecture 09: Atmospheric Parameters (Teff, log g, [Fe/H], v_micro) and Alpha Elements | [[Lecture 09: Atmospheric Parameters (Teff, log g, [Fe/H], v_micro) and Alpha Elements]] |
 | `![Lecture09b_p5-05.png](../assets/images/Lecture09b_p5-05.png)` | Lecture slide / observational figure from P09 covering Lecture 09: Atmospheric Parameters (Teff, log g, [Fe/H], v_micro) and Alpha Elements | [[Lecture 09: Atmospheric Parameters (Teff, log g, [Fe/H], v_micro) and Alpha Elements]] |
 
-### Lecture 10: Differential Reddening Mapping (Milone 2012 Method) and CMD De-reddening (29 Figures)
+### Lecture 10: Differential Reddening Mapping (Milone 2012 Method) and CMD De-reddening
 
 | Image Asset | Description & Diagnostic Utility | Primary Zettel Note |
 |---|---|---|
@@ -640,7 +640,7 @@ Every single figure, CMD diagram, and lecture slide extracted from Prof. Antonin
 | `![Lecture10_p35-35.png](../assets/images/Lecture10_p35-35.png)` | Lecture slide / observational figure from P10 covering Lecture 10: Differential Reddening Mapping (Milone 2012 Method) and CMD De-reddening | Lecture 10: Differential Reddening Mapping (Milone 2012 Method) and CMD De-reddening |
 | `![Lecture10_p5-05.png](../assets/images/Lecture10_p5-05.png)` | Lecture slide / observational figure from P10 covering Lecture 10: Differential Reddening Mapping (Milone 2012 Method) and CMD De-reddening | Lecture 10: Differential Reddening Mapping (Milone 2012 Method) and CMD De-reddening |
 
-### Lecture 11: Binary Stars in Clusters, Sequence Elevation, and Mass Ratio Distribution (29 Figures)
+### Lecture 11: Binary Stars in Clusters, Sequence Elevation, and Mass Ratio Distribution
 
 | Image Asset | Description & Diagnostic Utility | Primary Zettel Note |
 |---|---|---|
@@ -674,7 +674,7 @@ Every single figure, CMD diagram, and lecture slide extracted from Prof. Antonin
 | `![Lecture11_p35-35.png](../assets/images/Lecture11_p35-35.png)` | Lecture slide / observational figure from P11 covering Lecture 11: Binary Stars in Clusters, Sequence Elevation, and Mass Ratio Distribution | Lecture 11: Binary Stars in Clusters, Sequence Elevation, and Mass Ratio Distribution |
 | `![Lecture11_p5-05.png](../assets/images/Lecture11_p5-05.png)` | Lecture slide / observational figure from P11 covering Lecture 11: Binary Stars in Clusters, Sequence Elevation, and Mass Ratio Distribution | Lecture 11: Binary Stars in Clusters, Sequence Elevation, and Mass Ratio Distribution |
 
-### Lecture 12: Blue Stragglers (BSS), Collisional Channels, and Exotic Compact Binaries (29 Figures)
+### Lecture 12: Blue Stragglers (BSS), Collisional Channels, and Exotic Compact Binaries
 
 | Image Asset | Description & Diagnostic Utility | Primary Zettel Note |
 |---|---|---|
@@ -708,7 +708,7 @@ Every single figure, CMD diagram, and lecture slide extracted from Prof. Antonin
 | `![Lecture12_p35-35.png](../assets/images/Lecture12_p35-35.png)` | Lecture slide / observational figure from P12 covering Lecture 12: Blue Stragglers (BSS), Collisional Channels, and Exotic Compact Binaries | Lecture 12: Blue Stragglers (BSS), Collisional Channels, and Exotic Compact Binaries |
 | `![Lecture12_p5-05.png](../assets/images/Lecture12_p5-05.png)` | Lecture slide / observational figure from P12 covering Lecture 12: Blue Stragglers (BSS), Collisional Channels, and Exotic Compact Binaries | Lecture 12: Blue Stragglers (BSS), Collisional Channels, and Exotic Compact Binaries |
 
-### Lecture 13: Stellar Mass Functions (IMF/PDMF), Mass Segregation, and Black Hole Retention (27 Figures)
+### Lecture 13: Stellar Mass Functions (IMF/PDMF), Mass Segregation, and Black Hole Retention
 
 | Image Asset | Description & Diagnostic Utility | Primary Zettel Note |
 |---|---|---|
@@ -740,7 +740,7 @@ Every single figure, CMD diagram, and lecture slide extracted from Prof. Antonin
 | `![Lecture13_p15-15.png](../assets/images/Lecture13_p15-15.png)` | Lecture slide / observational figure from P13 covering Lecture 13: Stellar Mass Functions (IMF/PDMF), Mass Segregation, and Black Hole Retention | Lecture 13: Stellar Mass Functions (IMF/PDMF), Mass Segregation, and Black Hole Retention |
 | `![Lecture13_p5-05.png](../assets/images/Lecture13_p5-05.png)` | Lecture slide / observational figure from P13 covering Lecture 13: Stellar Mass Functions (IMF/PDMF), Mass Segregation, and Black Hole Retention | Lecture 13: Stellar Mass Functions (IMF/PDMF), Mass Segregation, and Black Hole Retention |
 
-### Lecture 14: Population III Stars, Zero-Metallicity Nucleosynthesis, and Critical Metallicity (30 Figures)
+### Lecture 14: Population III Stars, Zero-Metallicity Nucleosynthesis, and Critical Metallicity
 
 | Image Asset | Description & Diagnostic Utility | Primary Zettel Note |
 |---|---|---|
@@ -775,7 +775,7 @@ Every single figure, CMD diagram, and lecture slide extracted from Prof. Antonin
 | `![Lecture14_p35-35.png](../assets/images/Lecture14_p35-35.png)` | Lecture slide / observational figure from P14 covering Lecture 14: Population III Stars, Zero-Metallicity Nucleosynthesis, and Critical Metallicity | Lecture 14: Population III Stars, Zero-Metallicity Nucleosynthesis, and Critical Metallicity |
 | `![Lecture14_p5-05.png](../assets/images/Lecture14_p5-05.png)` | Lecture slide / observational figure from P14 covering Lecture 14: Population III Stars, Zero-Metallicity Nucleosynthesis, and Critical Metallicity | Lecture 14: Population III Stars, Zero-Metallicity Nucleosynthesis, and Critical Metallicity |
 
-### Lecture 15: Multiple Populations in Globular Clusters I — Discovery, Na-O and Mg-Al Anticorrelations (31 Figures)
+### Lecture 15: Multiple Populations in Globular Clusters I — Discovery, Na-O and Mg-Al Anticorrelations
 
 | Image Asset | Description & Diagnostic Utility | Primary Zettel Note |
 |---|---|---|
@@ -811,7 +811,7 @@ Every single figure, CMD diagram, and lecture slide extracted from Prof. Antonin
 | `![Lecture15_p35-35.png](../assets/images/Lecture15_p35-35.png)` | Lecture slide / observational figure from P15 covering Lecture 15: Multiple Populations in Globular Clusters I | Lecture 15: Multiple Populations in Globular Clusters I |
 | `![Lecture15_p5-05.png](../assets/images/Lecture15_p5-05.png)` | Lecture slide / observational figure from P15 covering Lecture 15: Multiple Populations in Globular Clusters I | Lecture 15: Multiple Populations in Globular Clusters I |
 
-### Lecture 16: Multiple Populations in Globular Clusters — Helium Enrichment and Polluter Scenarios (25 Figures)
+### Lecture 16: Multiple Populations in Globular Clusters — Helium Enrichment and Polluter Scenarios
 
 | Image Asset | Description & Diagnostic Utility | Primary Zettel Note |
 |---|---|---|
@@ -841,7 +841,7 @@ Every single figure, CMD diagram, and lecture slide extracted from Prof. Antonin
 | `![LAntonino_p16_24.png](../assets/images/LAntonino_p16_24.png)` | Lecture slide / observational figure from P16 covering Lecture 16: Multiple Populations in Globular Clusters | Lecture 16: Multiple Populations in Globular Clusters |
 | `![LAntonino_p16_25.png](../assets/images/LAntonino_p16_25.png)` | Lecture slide / observational figure from P16 covering Lecture 16: Multiple Populations in Globular Clusters | Lecture 16: Multiple Populations in Globular Clusters |
 
-### Lecture 17: Multiple Populations in Globular Clusters II — The Chromosome Map and Type I/II GCs (30 Figures)
+### Lecture 17: Multiple Populations in Globular Clusters II — The Chromosome Map and Type I/II GCs
 
 | Image Asset | Description & Diagnostic Utility | Primary Zettel Note |
 |---|---|---|
@@ -876,7 +876,7 @@ Every single figure, CMD diagram, and lecture slide extracted from Prof. Antonin
 | `![Lecture17_p35-35.png](../assets/images/Lecture17_p35-35.png)` | Lecture slide / observational figure from P17 covering Lecture 17: Multiple Populations in Globular Clusters II | Lecture 17: Multiple Populations in Globular Clusters II |
 | `![Lecture17_p5-05.png](../assets/images/Lecture17_p5-05.png)` | Lecture slide / observational figure from P17 covering Lecture 17: Multiple Populations in Globular Clusters II | Lecture 17: Multiple Populations in Globular Clusters II |
 
-### Lecture 18: Extended Main Sequence Turnoff (eMSTO), Stellar Rotation, and Split MS (30 Figures)
+### Lecture 18: Extended Main Sequence Turnoff (eMSTO), Stellar Rotation, and Split MS
 
 | Image Asset | Description & Diagnostic Utility | Primary Zettel Note |
 |---|---|---|
@@ -911,7 +911,7 @@ Every single figure, CMD diagram, and lecture slide extracted from Prof. Antonin
 | `![Lecture18_p35-35.png](../assets/images/Lecture18_p35-35.png)` | Lecture slide / observational figure from P18 covering Lecture 18: Extended Main Sequence Turnoff (eMSTO), Stellar Rotation, and Split MS | Lecture 18: Extended Main Sequence Turnoff (eMSTO), Stellar Rotation, and Split MS |
 | `![Lecture18_p5-05.png](../assets/images/Lecture18_p5-05.png)` | Lecture slide / observational figure from P18 covering Lecture 18: Extended Main Sequence Turnoff (eMSTO), Stellar Rotation, and Split MS | Lecture 18: Extended Main Sequence Turnoff (eMSTO), Stellar Rotation, and Split MS |
 
-### Lecture 19: The Galactic Bulge — Structure, Ancient Populations, and Decontamination (40 Figures)
+### Lecture 19: The Galactic Bulge — Structure, Ancient Populations, and Decontamination
 
 | Image Asset | Description & Diagnostic Utility | Primary Zettel Note |
 |---|---|---|
@@ -956,7 +956,7 @@ Every single figure, CMD diagram, and lecture slide extracted from Prof. Antonin
 | `![Lecture19_p35-35.png](../assets/images/Lecture19_p35-35.png)` | Lecture slide / observational figure from P19 covering Lecture 19: The Galactic Bulge | Lecture 19: The Galactic Bulge |
 | `![Lecture19_p5-05.png](../assets/images/Lecture19_p5-05.png)` | Lecture slide / observational figure from P19 covering Lecture 19: The Galactic Bulge | Lecture 19: The Galactic Bulge |
 
-### Lecture 20: Pre-Main Sequence Evolution, Hayashi/Henyey Tracks, and Young Clusters (25 Figures)
+### Lecture 20: Pre-Main Sequence Evolution, Hayashi/Henyey Tracks, and Young Clusters
 
 | Image Asset | Description & Diagnostic Utility | Primary Zettel Note |
 |---|---|---|
@@ -986,7 +986,7 @@ Every single figure, CMD diagram, and lecture slide extracted from Prof. Antonin
 | `![LAntonino_p20_24.png](../assets/images/LAntonino_p20_24.png)` | Lecture slide / observational figure from P20 covering Lecture 20: Pre-Main Sequence Evolution, Hayashi/Henyey Tracks, and Young Clusters | Lecture 20: Pre-Main Sequence Evolution, Hayashi/Henyey Tracks, and Young Clusters |
 | `![LAntonino_p20_25.png](../assets/images/LAntonino_p20_25.png)` | Lecture slide / observational figure from P20 covering Lecture 20: Pre-Main Sequence Evolution, Hayashi/Henyey Tracks, and Young Clusters | Lecture 20: Pre-Main Sequence Evolution, Hayashi/Henyey Tracks, and Young Clusters |
 
-### Lecture 21: Extragalactic Stellar Populations, Resolved Systems, and JWST Frontiers (25 Figures)
+### Lecture 21: Extragalactic Stellar Populations, Resolved Systems, and JWST Frontiers
 
 | Image Asset | Description & Diagnostic Utility | Primary Zettel Note |
 |---|---|---|
@@ -1016,7 +1016,7 @@ Every single figure, CMD diagram, and lecture slide extracted from Prof. Antonin
 | `![LAntonino_p21_24.png](../assets/images/LAntonino_p21_24.png)` | Lecture slide / observational figure from P21 covering Lecture 21: Extragalactic Stellar Populations, Resolved Systems, and JWST Frontiers | Lecture 21: Extragalactic Stellar Populations, Resolved Systems, and JWST Frontiers |
 | `![LAntonino_p21_25.png](../assets/images/LAntonino_p21_25.png)` | Lecture slide / observational figure from P21 covering Lecture 21: Extragalactic Stellar Populations, Resolved Systems, and JWST Frontiers | Lecture 21: Extragalactic Stellar Populations, Resolved Systems, and JWST Frontiers |
 
-### Lecture 22: Course Synthesis, Open Problems in Multiple Populations, and Oral Exam Framework (8 Figures)
+### Lecture 22: Course Synthesis, Open Problems in Multiple Populations, and Oral Exam Framework
 
 | Image Asset | Description & Diagnostic Utility | Primary Zettel Note |
 |---|---|---|

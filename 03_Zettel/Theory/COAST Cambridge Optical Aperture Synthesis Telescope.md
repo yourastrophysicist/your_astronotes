@@ -18,7 +18,7 @@ a small but historically pivotal interferometer at Cambridge's Mullard Radio Ast
 
 ## the historical importance
 
-![Cambridge Optical Aperture Synthesis Telescope (COAST): historical pioneer of optical aperture synthesis image reconstruction.](Interferometry/COAST_Cambridge_Optical_Aperture_Synthesis_Telescope.jpg)
+![Cambridge Optical Aperture Synthesis Telescope (COAST): historical pioneer of optical aperture synthesis image reconstruction.](../../assets/images/COAST_Cambridge_Optical_Aperture_Synthesis_Telescope.jpg)
 
 
 before COAST, optical interferometers had measured visibility curves (showing source diameters) but had not produced *images*. radio interferometers had been making images for decades using closure phases.

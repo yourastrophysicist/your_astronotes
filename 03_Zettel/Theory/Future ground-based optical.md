@@ -41,7 +41,7 @@ ongoing operations of LBT's interferometric mode:
 
 ## the larger ambitions
 
-![39-meter European Extremely Large Telescope (ELT), pushing ground-based optical resolution with advanced adaptive optics.](Interferometry/Future_ground-based_optical.jpg)
+![39-meter European Extremely Large Telescope (ELT), pushing ground-based optical resolution with advanced adaptive optics.](../../assets/images/Future_ground-based_optical.jpg)
 
 
 ### proposed Carlina hypertelescope

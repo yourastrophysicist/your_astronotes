@@ -9,7 +9,7 @@ the **single most important quantity** in interferometry. when two waves from a 
 
 ## the definition
 
-![Optical Path Difference (OPD) between two interfering wave paths determining constructive or destructive interference](Interferometry/Optical_path_difference_OPD.svg) 
+![Optical Path Difference (OPD) between two interfering wave paths determining constructive or destructive interference](../../assets/images/Optical_path_difference_OPD.svg) 
 
 
 for two paths through media of refractive indices $n_i$ and geometric lengths $\ell_i$, the **optical path length (OPL)** for path $i$ is

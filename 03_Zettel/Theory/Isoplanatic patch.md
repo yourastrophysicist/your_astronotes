@@ -17,7 +17,7 @@ note the extra factor of $z^{5/3}$ in the integrand compared to the $r_0$ formul
 
 ## typical values
 
-![Isoplanatic patch $\theta_0$: maximum angular field over which atmospheric phase distortions remain nearly identical.](Interferometry/Isoplanatic_patch.svg)
+![Isoplanatic patch $\theta_0$: maximum angular field over which atmospheric phase distortions remain nearly identical.](../../assets/images/Isoplanatic_patch.svg)
 
 
 | wavelength | $\theta_0$ (good site) |

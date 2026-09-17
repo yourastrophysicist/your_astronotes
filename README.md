@@ -8,7 +8,7 @@ title: "README"
 
 Welcome to the public archive for the Master of Science coursework in Astrophysics and Cosmology at the University of Padua (Università degli Studi di Padova), Italy, covering Semesters 1, 2, and 3.
 
-This repository is an interconnected working second brain compiled by **Jessica Syafaq Muthmaina**. It contains lecture syntheses, mathematical derivations, observational instrumentation notes, laboratory reductions, and theoretical foundations.
+This repository is an interconnected working second brain compiled as an open graduate curriculum reference. It contains lecture syntheses, mathematical derivations, observational instrumentation notes, laboratory reductions, and theoretical foundations.
 
 The vault is designed for physics and astrophysics undergraduates, beginning graduate students, and independent researchers who want to study astrophysical material from first principles.
 
@@ -30,62 +30,62 @@ Storing this material as an interconnected graph makes those cross-disciplinary 
 
 ---
 
-## Course Maps of Content (04_Atlas)
+## Academic Scope (Semesters 1 – 3)
 
-The vault is structured around seventeen primary Maps of Content (MOCs) in 4_Atlas/. Each MOC serves as a comprehensive syllabus and conceptual spine for a semester course:
+The vault is structured around seventeen primary lecture courses and laboratory modules organized across Semesters 1 to 3 in 04_Atlas/: Each MOC serves as a comprehensive syllabus and conceptual spine for a semester course:
 
 ### Semester 1 (Foundations)
-1. **[Fundamentals of Astrophysics and Cosmology](04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)** (Prof. G. Rodighiero & Prof. M. Viel &middot; 433 Figures)
+1. **[Fundamentals of Astrophysics and Cosmology](04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)** (Prof. G. Rodighiero & Prof. M. Viel)
    Foundational coordinates, spherical trigonometry, radiative mechanisms, magnitudes, stellar evolution basics, galactic structure, Hubble law, and thermal cosmic history.
 
-2. **[Observational Astrophysics](04_Atlas/Observational_Astrophysics_MOC.html)** (Prof. E. Giro & Prof. G. Umbriaco &middot; 542 Figures)
+2. **[Observational Astrophysics](04_Atlas/Observational_Astrophysics_MOC.html)** (Prof. E. Giro & Prof. G. Umbriaco)
    Atmospheric extinction and seeing, astronomical detectors (CCDs and infrared arrays), signal-to-noise calculations, photometric calibration, and error budgets.
 
-3. **[General Relativity for Astrophysics](04_Atlas/General_Relativity_MOC.html)** (Prof. S. Matarrese & Cambridge Baumann &middot; 33 Figures)
+3. **[General Relativity for Astrophysics](04_Atlas/General_Relativity_MOC.html)** (Prof. S. Matarrese & Cambridge Baumann)
    Differential geometry, manifolds, Christoffel symbols, Riemann curvature, Einstein field equations, geodesic motion, Schwarzschild geometry, and gravitational waves.
 
-4. **[Mathematical and Numerical Methods](04_Atlas/Mathematical_Numerical_Methods_MOC.html)** (Prof. M. Mapelli &middot; 43 Figures)
+4. **[Mathematical and Numerical Methods](04_Atlas/Mathematical_Numerical_Methods_MOC.html)** (Prof. M. Mapelli)
    Numerical linear algebra, root-finding, numerical integration, ordinary differential equation solvers (Runge-Kutta, symplectic integrators), and Monte Carlo techniques.
 
-5. **[Astrophysics Laboratory 1 (High Energy)](04_Atlas/Lab_High-Energy_MOC.html)** (Prof. L. Burderi &middot; 26 Figures)
+5. **[Astrophysics Laboratory 1 (High Energy)](04_Atlas/Lab_High-Energy_MOC.html)** (Prof. L. Burderi)
    Non-thermal radiation mechanisms (synchrotron, inverse Compton, relativistic bremsstrahlung), grazing-incidence X-ray optics, scintillation crystals, and solid-state detectors.
 
 ### Semester 2 (Stars, Galaxies, and Cosmology)
-6. **[Astrophysics of Galaxies](04_Atlas/Astrophysics_of_Galaxies_MOC.html)** (Prof. A. Moretti &middot; 650 Figures)
+6. **[Astrophysics of Galaxies](04_Atlas/Astrophysics_of_Galaxies_MOC.html)** (Prof. A. Moretti)
    Photometric morphology (Sérsic, de Vaucouleurs), stellar dynamics, Jeans equations, dark matter halo profiles, and galactic scaling relations.
 
-7. **[Stellar Astrophysics](04_Atlas/Stellar_Astrophysics_MOC.html)** (Prof. A. Milone &middot; 632 Figures)
+7. **[Stellar Astrophysics](04_Atlas/Stellar_Astrophysics_MOC.html)** (Prof. A. Milone)
    Stellar structure equations, polytropic models, equation of state, nuclear fusion cycles, radiative atmospheres, and stellar population synthesis.
 
-8. **[Astronomical Interferometry](04_Atlas/Astronomical_Interferometry_MOC.html)** (Prof. C. Pernechele &middot; 126 Figures)
+8. **[Astronomical Interferometry](04_Atlas/Astronomical_Interferometry_MOC.html)** (Prof. C. Pernechele)
    Spatial coherence theory, van Cittert-Zernike theorem, aperture synthesis, uv-plane coverage, visibility functions, dirty beams, CLEAN algorithms, ALMA, and the VLTI.
 
-9. **[Observational Cosmology](04_Atlas/Observational_Cosmology_MOC.html)** (Prof. M. Viel & Prof. P. Vielva &middot; 49 Figures)
+9. **[Observational Cosmology](04_Atlas/Observational_Cosmology_MOC.html)** (Prof. M. Viel & Prof. P. Vielva)
    FLRW metric dynamics, cosmological parameters, cosmic distance ladder, big bang nucleosynthesis, recombination, and the cosmic microwave background.
 
-10. **[Astronomical Spectroscopy](04_Atlas/Astronomical_Spectroscopy_MOC.html)** (Prof. S. Ciroi &middot; 25 Figures)
+10. **[Astronomical Spectroscopy](04_Atlas/Astronomical_Spectroscopy_MOC.html)** (Prof. S. Ciroi)
     Atomic structure, selection rules, line broadening mechanisms, spectrograph optics, dispersion, resolution, and Doppler kinematic measurements.
 
 ### Semester 3 (Advanced Specializations)
-11. **[Exoplanetary Astrophysics](04_Atlas/Exoplanetary_Astrophysics_MOC.html)** (Prof. G. Piotto &middot; 12 Figures)
+11. **[Exoplanetary Astrophysics](04_Atlas/Exoplanetary_Astrophysics_MOC.html)** (Prof. G. Piotto)
     Radial velocity detections, transit photometry, exoplanet atmospheres, habitability zones, planetary migration, and space missions (Kepler, TESS, PLATO).
 
-12. **[Astro-Statistics and Cosmology](04_Atlas/Astro-Statistics_and_Cosmology_MOC.html)** (Prof. M. Liguori &middot; 9 Figures)
+12. **[Astro-Statistics and Cosmology](04_Atlas/Astro-Statistics_and_Cosmology_MOC.html)** (Prof. M. Liguori)
     Bayesian inference, parameter estimation, Markov Chain Monte Carlo (MCMC), likelihood analysis, model selection, and cosmological parameter constraints.
 
-13. **[Astrophysics Laboratory 2](04_Atlas/Astrophysics_Laboratory_2_MOC.html)** (Prof. L. Malavolta & Prof. G. Piotto &middot; 12 Figures)
+13. **[Astrophysics Laboratory 2](04_Atlas/Astrophysics_Laboratory_2_MOC.html)** (Prof. L. Malavolta & Prof. G. Piotto)
     High-resolution spectroscopic data reduction, radial velocity measurement pipelines, transit light curve modeling, and instrument characterization.
 
-14. **[Computational Astrophysics](04_Atlas/Computational_Astrophysics_MOC.html)** (Prof. T. Zingales &middot; 17 Figures)
+14. **[Computational Astrophysics](04_Atlas/Computational_Astrophysics_MOC.html)** (Prof. T. Zingales)
     Numerical hydrodynamics, N-body particle algorithms, adaptive mesh refinement, parallel computing for astrophysical simulations, and radiative transfer.
 
-15. **[Cosmology of the Early Universe](04_Atlas/Cosmology_of_the_Early_Universe_MOC.html)** (Prof. N. Bartolo & Prof. S. Matarrese &middot; 13 Figures)
+15. **[Cosmology of the Early Universe](04_Atlas/Cosmology_of_the_Early_Universe_MOC.html)** (Prof. N. Bartolo & Prof. S. Matarrese)
     Cosmic inflation models, generation of primordial perturbations, quantum fluctuations, reheating, baryogenesis, and non-Gaussianities.
 
-16. **[Fluid and Plasma Dynamics](04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html)** (Prof. M. Giacomin &middot; 14 Figures)
+16. **[Fluid and Plasma Dynamics](04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html)** (Prof. M. Giacomin)
     Navier-Stokes equations, ideal and resistive magnetohydrodynamics (MHD), plasma wave modes, shocks, magnetic reconnection, and turbulence.
 
-17. **[Astrophysics of the Interstellar Medium](04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html)** (Prof. G. Carraro &middot; 13 Figures)
+17. **[Astrophysics of the Interstellar Medium](04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html)** (Prof. G. Carraro)
     Interstellar dust, extinction curves, photoionization physics (H II regions), molecular clouds, cooling functions, and interstellar chemistry.
 
 ---
@@ -94,16 +94,16 @@ The vault is structured around seventeen primary Maps of Content (MOCs) in 4_Atl
 
 The repository follows a clean modular hierarchy:
 
-* **4_Atlas/**: Seventeen Maps of Content organizing curricula and reading roadmaps, along with the master [04_Atlas Hub](04_Atlas/04_Atlas.html).
-* **2_Literature/**: Lecture syntheses, course slide transcriptions, and reference literature breakdowns across all courses.
-* **3_Zettel/**: Over 1,300 atomic concept notes. Each note focuses on a discrete physical mechanism, mathematical definition, or observational effect with explicit backlinks.
+* **04_Atlas/**: Seventeen Maps of Content organizing curricula and reading roadmaps, along with the master [04_Atlas Hub](04_Atlas/04_Atlas.html).
+* **02_Literature/**: Lecture syntheses, course slide transcriptions, and reference literature breakdowns across all courses.
+* **03_Zettel/**: Over 1,300 atomic concept notes. Each note focuses on a discrete physical mechanism, mathematical definition, or observational effect with explicit backlinks.
 * **ssets/images/**: 2,870 astronomical diagrams, ray-tracing sketches, coordinate geometries, and observational plots.
 
 ---
 
 ## How to Study with This Vault
 
-1. **Start with a Course MOC**: Open an MOC in 4_Atlas/ to see the complete narrative arc of a course rather than reading disconnected concepts.
+1. **Start with a Course MOC**: Open an MOC in 04_Atlas/ to see the complete narrative arc of a course rather than reading disconnected concepts.
 2. **Work through the Mathematics**: Notes contain step-by-step derivations. Calculate the metric contractions, verify dimensional homogeneity, and evaluate physical limits.
 3. **Follow the Cross-Links**: Concepts link bidirectionally. If a derivation references a theorem or detector parameter, click the linked note to inspect its definition.
 

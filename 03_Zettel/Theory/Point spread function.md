@@ -13,7 +13,7 @@ tags: ""
 
 ## core physical intuition
 
-![Point Spread Function (PSF): 2D spatial intensity pattern produced by a diffraction-limited optical system imaging an unresolved point source.](Interferometry/Point_spread_function.svg)
+![Point Spread Function (PSF): 2D spatial intensity pattern produced by a diffraction-limited optical system imaging an unresolved point source.](../../assets/images/Point_spread_function.svg)
 
 
 Because light behaves as a wave, it cannot be focused to an infinitely small, perfect geometric point. Whenever a plane wave passes through a finite aperture (like a telescope mirror or a camera lens), the wavefront is truncated. Diffraction causes the wave to spread out. 

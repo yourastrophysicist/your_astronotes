@@ -37,8 +37,6 @@ $$ds^2 = dt^2 - a^2(t) \gamma_{ij}\, dx^i dx^j$$
 
 (Baumann §1.1.)
 
-![Pasted image 20260429100000.png](../../assets/images/Pasted image 20260429100000.png)
-
 (see Baumann figure 1.2 for the foliation into curved hypersurfaces.)
 
 ---

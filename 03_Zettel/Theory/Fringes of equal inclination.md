@@ -11,7 +11,7 @@ also called **Haidinger fringes** in older literature.
 
 ## the geometry
 
-![Fringes of equal inclination (Haidinger fringes) produced by light at varying angles of incidence on parallel planar surfaces.](Interferometry/Fringes_of_equal_inclination.svg)
+![Fringes of equal inclination (Haidinger fringes) produced by light at varying angles of incidence on parallel planar surfaces.](../../assets/images/Fringes_of_equal_inclination.svg)
 
 
 a parallel-faced plate of thickness $d$ and refractive index $n_f$ is illuminated by an *extended* light source (broad enough that multiple angles of incidence are present). the eye (or a detector with a focusing lens) is placed to observe light reflected from both surfaces.

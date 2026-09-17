@@ -25,7 +25,7 @@ no atmosphere, no weather, very stable temperature. sub-mm precision over kilome
 
 ## the typical concept
 
-![The Parkes radio telescope; lunar far-side concepts expand on dish arrays into the solar system quiet zone.](Interferometry/Lunar_interferometry_concepts.jpg)
+![The Parkes radio telescope; lunar far-side concepts expand on dish arrays into the solar system quiet zone.](../../assets/images/Lunar_interferometry_concepts.jpg)
 
 
 a lunar far-side radio telescope:

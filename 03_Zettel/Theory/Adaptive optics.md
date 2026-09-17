@@ -19,7 +19,7 @@ the loop runs at $\sim 1$ kHz. the residual wavefront error after correction is 
 
 ## the Strehl ratio
 
-![Adaptive optics control loop: wavefront sensor measures atmospheric distortion and deforms a flexible mirror in real time to restore sharpness.](Interferometry/Adaptive_optics.gif)
+![Adaptive optics control loop: wavefront sensor measures atmospheric distortion and deforms a flexible mirror in real time to restore sharpness.](../../assets/images/Adaptive_optics.gif)
 
 
 quantifies AO performance. ratio of the peak intensity in the corrected PSF to that of an ideal diffraction-limited PSF:

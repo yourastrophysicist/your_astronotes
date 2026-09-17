@@ -105,7 +105,7 @@ for a cosmological simulation in an expanding background, energy is *not* conser
 *Numerical Conservation of the Jacobi Integral $C_J$ in the Circular Restricted Three-Body Problem (CR3BP) along the Artemis Moon-Earth trajectory, demonstrating symplectic energy preservation within $\Delta C_J/C_J < 10^{-6}$.*
 
 
-![mapelli_fig05_p45.png](../../assets/images/mapelli_fig05_p45.png)
+![mapelli_fig05_p45.png](../../assets/images/mapelli_fig05_p10.png)
 *Energy error growth $\Delta E/E$ vs integration time for non-symplectic Euler and RK4 vs symplectic Leapfrog.*
 {% endraw %}
 

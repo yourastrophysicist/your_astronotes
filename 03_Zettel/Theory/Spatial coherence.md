@@ -21,7 +21,7 @@ with $\lvert \gamma_{12}\rvert \in [0, 1]$. this is the **complex degree of spat
 
 ## the link to visibility
 
-![Spatial coherence: correlation of wave phase across spatially separated points transverse to propagation.](Interferometry/Spatial_coherence.gif)
+![Spatial coherence: correlation of wave phase across spatially separated points transverse to propagation.](../../assets/images/Spatial_coherence.gif)
 
 
 for an interferometer with two sub-apertures at $\mathbf r_1, \mathbf r_2$:

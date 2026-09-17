@@ -89,8 +89,6 @@ For a **large aperture** ($D \gg r_0$):
 	many turbulent cells fill the aperture
 		the image is a smeared, broad seeing disk
 			but twinkling (scintillation) is reduced because the fluctuations average out
-
-![Pasted image 20260405103037.png](../../assets/images/Pasted image 20260405103037.png)
 <font color="#bfbfbf">Image of a point source through telescopes of different aperture. Small apertures see image motion; large apertures see a broad seeing disk. Space telescopes (no atmosphere) achieve the diffraction limit.</font>
 
 ---

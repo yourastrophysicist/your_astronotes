@@ -100,7 +100,7 @@ even without an embedded estimator, I can estimate the local error by running RK
 
 ### Numerical Methods & Algorithmic Diagnostics
 
-![mapelli_fig02_p22.png](../../assets/images/mapelli_fig02_p22.png)
+![mapelli_fig02_p22.png](../../assets/images/mapelli_fig02_p8.png)
 *Runge-Kutta 4th order (RK4) geometric staging: evaluation of four sub-step slopes $k_1, k_2, k_3, k_4$ across interval $[t_n, t_{n+1}]$.*
 
 

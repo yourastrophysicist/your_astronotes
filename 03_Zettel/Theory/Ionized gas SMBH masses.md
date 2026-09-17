@@ -43,7 +43,7 @@ At $d = 16$ Mpc, this corresponds to an angular size $\theta = r_{\rm infl}/d \a
 
 ## astrophysics of galaxies figures and slides (Prof. Alessandro Pizzella)
 
-![eht2019_M87_image.png](../../assets/images/eht2019_M87_image.png)
+![eht2019_M87_image_1.png](../../assets/images/eht2019_M87_image_1.png)
 *First direct image of a black hole shadow: M87* from the Event Horizon Telescope (EHT 2019).*
 
 ![gal_bh-14.png](../../assets/images/gal_bh-14.png)
@@ -99,10 +99,6 @@ At $d = 16$ Mpc, this corresponds to an angular size $\theta = r_{\rm infl}/d \a
 ![eht2019_M87_image_16.png](../../assets/images/eht2019_M87_image_16.png)
 
 ![eht2019_M87_image_17.png](../../assets/images/eht2019_M87_image_17.png)
-
-![eht2019_M87_image_18.png](../../assets/images/eht2019_M87_image_18.png)
-
-![eht2019_M87_image_19.png](../../assets/images/eht2019_M87_image_19.png)
 {% endraw %}
 
 <div class="backlinks-section">

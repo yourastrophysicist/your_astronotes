@@ -95,7 +95,7 @@ semi-implicit Euler is the simplest symplectic integrator, and the conceptual an
 *Official Exam Paper (25 Jan 2021): Problem on ODE integration of orbital motion and energy drift comparison between Euler and Runge-Kutta algorithms.*
 
 
-![mapelli_fig03_p28.png](../../assets/images/mapelli_fig03_p28.png)
+![mapelli_fig03_p28.png](../../assets/images/mapelli_fig03_p8.png)
 *Numerical stability regions for explicit vs implicit ODE integrators.*
 {% endraw %}
 

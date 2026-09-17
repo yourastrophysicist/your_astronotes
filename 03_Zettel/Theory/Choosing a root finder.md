@@ -114,7 +114,7 @@ skipping this step is the cause of more wrong-answer bugs than any algorithm cho
 
 ### Numerical Methods & Algorithmic Diagnostics
 
-![mapelli_fig16_p155.png](../../assets/images/mapelli_fig16_p155.png)
+![mapelli_fig16_p155.png](../../assets/images/mapelli_fig16_p59.png)
 *Root finding failure modes: local extrema, inflection points, and cyclic trapping.*
 {% endraw %}
 

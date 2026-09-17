@@ -13,7 +13,7 @@ tags: ""
 
 ## core physical intuition
 
-![Two-element radio correlator block diagram: multiplying and time-averaging receiver voltages $V_1(t)$ and $V_2(t)$.](Interferometry/Two-element_correlator.jpg)
+![Two-element radio correlator block diagram: multiplying and time-averaging receiver voltages $V_1(t)$ and $V_2(t)$.](../../assets/images/Two-element_correlator.jpg)
 
 
 A radio interferometer does not focus light with a physical lens. Instead it uses a correlator to digitally or electronically combine the signals collected by pairs of antennas. The correlator multiplies the time-varying voltage from one antenna with the voltage from another and averages the result over time.

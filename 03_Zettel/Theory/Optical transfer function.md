@@ -13,7 +13,7 @@ tags: ""
 
 ## core physical intuition
 
-![Optical Transfer Function (OTF) and Modulation Transfer Function (MTF): spatial frequency response curve of an optical system.](Interferometry/Optical_transfer_function.svg)
+![Optical Transfer Function (OTF) and Modulation Transfer Function (MTF): spatial frequency response curve of an optical system.](../../assets/images/Optical_transfer_function.svg)
 
 
 If you look at the sky as a complex tapestry of sine waves of varying spatial frequencies (broad blobs are low frequencies, sharp edges are high frequencies), any optical system acts as a filter. It cannot perfectly capture all details. 

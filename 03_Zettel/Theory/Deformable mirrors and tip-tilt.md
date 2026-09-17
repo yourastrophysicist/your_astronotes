@@ -40,7 +40,7 @@ actuator spacing is set to match $r_0$ at the science wavelength: $d \sim r_0$. 
 
 ## the speed requirement
 
-![Deformable mirror driven by piezoelectric actuators to compensate high-order optical wavefront aberrations.](Interferometry/Deformable_mirrors_and_tip-tilt.jpg)
+![Deformable mirror driven by piezoelectric actuators to compensate high-order optical wavefront aberrations.](../../assets/images/Deformable_mirrors_and_tip-tilt.jpg)
 
 
 DM actuators must respond within $\tau_0 \sim$ ms. typical DM bandwidths:

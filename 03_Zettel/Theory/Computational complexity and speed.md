@@ -104,15 +104,15 @@ before writing code, mentally compute: what is $N$, what is the algorithm comple
 
 ### Numerical Methods & Algorithmic Diagnostics
 
-![mapelli_fig28_p275.png](../../assets/images/mapelli_fig28_p275.png)
+![mapelli_fig28_p275.png](../../assets/images/mapelli_fig28_p108.png)
 *Parallel scaling: Amdahl law vs Gustafson law for strong and weak scaling in HPC clusters.*
 
 
-![mapelli_fig29_p285.png](../../assets/images/mapelli_fig29_p285.png)
+![mapelli_fig29_p285.png](../../assets/images/mapelli_fig29_p110.png)
 *MPI domain decomposition and ghost cell (halo) communication exchange between nodes.*
 
 
-![mapelli_fig30_p295.png](../../assets/images/mapelli_fig30_p295.png)
+![mapelli_fig30_p295.png](../../assets/images/mapelli_fig30_p114.png)
 *GPU acceleration with CUDA: grid, block, and thread hierarchy for vectorized gravity loops.*
 {% endraw %}
 

@@ -14,11 +14,11 @@ tags: ""
 ## core physical intuition
 
 When light travels through space, we can imagine the wavefront (the surface of constant phase) as a collection of tiny, secondary sources. According to Huygens' principle, each of these points emits its own spherical wavelet. The new wavefront at any later time is simply the envelope of all these overlapping secondary wavelets.
-![Animation of a 3D plane wave. Each color represents a different phase of the wave.](Plane_Wave_3D_Animation_300x216_255Colors%201.gif)
+![Animation of a 3D plane wave. Each color represents a different phase of the wave.](../../assets/images/Plane_Wave_3D_Animation_300x216_255Colors%201.gif)
 
 This simple geometric idea perfectly explains why light doesn't just travel in straight rays but bends around obstacles (diffraction). In the context of a plane wave, all the points on a flat wavefront emit wavelets that constructively interfere in the forward direction to maintain the flat shape. When a plane wave hits a telescope array, Huygens' principle guarantees that each separated aperture is sampling a localized portion of that same, continuous wavefront.
 
-![Wavefronts change shape after going through a lens ](Lens_and_wavefronts.gif) 
+![Wavefronts change shape after going through a lens ](../../assets/images/Lens_and_wavefronts.gif) 
 
 
 ---

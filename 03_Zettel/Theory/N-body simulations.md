@@ -97,19 +97,19 @@ simulations underpin:
 
 ### Numerical Methods & Algorithmic Diagnostics
 
-![mapelli_fig12_p120.png](../../assets/images/mapelli_fig12_p120.png)
+![mapelli_fig12_p120.png](../../assets/images/mapelli_fig12_p56.png)
 *N-body spatial partitioning: Octree hierarchy for Barnes-Hut algorithm, showing multipole expansion of cell mass and center of mass.*
 
 
-![mapelli_fig15_p145.png](../../assets/images/mapelli_fig15_p145.png)
+![mapelli_fig15_p145.png](../../assets/images/mapelli_fig15_p58.png)
 *Particle-Mesh (PM) algorithm: Cloud-In-Cell (CIC) mass assignment onto 3D grid, Poisson solver via FFT, and force interpolation.*
 
 
-![mapelli_fig09_p95.png](../../assets/images/mapelli_fig09_p95.png)
+![mapelli_fig09_p95.png](../../assets/images/mapelli_fig09_p52.png)
 *Barnes-Hut tree-code opening angle criterion $\theta = s/d < \theta_{\rm crit} \approx 0.5-0.7$.*
 
 
-![mapelli_fig10_p102.png](../../assets/images/mapelli_fig10_p102.png)
+![mapelli_fig10_p102.png](../../assets/images/mapelli_fig10_p53.png)
 *Direct summation vs Tree-code scaling: $\mathcal{O}(N^2)$ vs $\mathcal{O}(N\log N)$ CPU execution time.*
 {% endraw %}
 

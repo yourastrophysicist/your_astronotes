@@ -13,7 +13,7 @@ tags: ""
 
 ## core physical intuition
 
-![Phase referencing: rapidly nodding telescopes between science target and a nearby point-like calibrator to correct atmospheric phase drift.](Interferometry/Phase_referencing.svg)
+![Phase referencing: rapidly nodding telescopes between science target and a nearby point-like calibrator to correct atmospheric phase drift.](../../assets/images/Phase_referencing.svg)
 
 
 As radio waves travel through the Earth's atmosphere, pockets of varying humidity or ionospheric density delay the wavefronts by unpredictable amounts. This destroys the phase coherence needed to synthesize an image. Because science targets are often too faint to measure these phase shifts directly, astronomers use phase referencing.

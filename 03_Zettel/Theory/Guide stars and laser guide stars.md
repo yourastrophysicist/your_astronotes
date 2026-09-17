@@ -24,7 +24,7 @@ so NGS-only AO has limited sky coverage. the answer: laser guide stars.
 
 ## the sodium laser guide star
 
-![Laser Guide Star (LGS): sodium laser exciting mesospheric sodium atoms at 90 km altitude to create an artificial reference beacon.](Interferometry/Guide_stars_and_laser_guide_stars.jpg)
+![Laser Guide Star (LGS): sodium laser exciting mesospheric sodium atoms at 90 km altitude to create an artificial reference beacon.](../../assets/images/Guide_stars_and_laser_guide_stars.jpg)
 
 
 shine a $\lambda = 589$ nm laser at the mesospheric sodium layer (90 km altitude). sodium atoms absorb and re-emit, creating a $\sim 1''$-bright artificial star at the reach of the WFS.

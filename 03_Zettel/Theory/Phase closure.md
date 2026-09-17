@@ -13,7 +13,7 @@ tags: ""
 
 ## core physical intuition
 
-![Phase closure: summing visibility phases around a closed triangle of baselines cancels out individual telescope phase errors.](Interferometry/Phase_closure.jpg)
+![Phase closure: summing visibility phases around a closed triangle of baselines cancels out individual telescope phase errors.](../../assets/images/Phase_closure.jpg)
 
 
 Because the atmosphere adds random phase delays above each individual telescope, the absolute phase of any single baseline is corrupted. However, we can outsmart the atmosphere by forming closed loops of baselines. 

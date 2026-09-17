@@ -109,7 +109,7 @@ this is also a useful sanity check: if $h$ is constant throughout, adaptivity is
 
 ### Numerical Methods & Algorithmic Diagnostics
 
-![mapelli_fig04_p35.png](../../assets/images/mapelli_fig04_p35.png)
+![mapelli_fig04_p35.png](../../assets/images/mapelli_fig04_p9.png)
 *Adaptive step size control via embedded Runge-Kutta Cash-Karp / Dormand-Prince pairs.*
 {% endraw %}
 

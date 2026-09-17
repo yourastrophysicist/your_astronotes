@@ -17,7 +17,7 @@ result: phase coherence is maintained across all antennas automatically. no post
 
 ## the advantages
 
-![Connected-element radio array linked by cables, waveguides, or fiber optics for real-time signal distribution to a central correlator.](Interferometry/Connected_element_interferometer.jpg)
+![Connected-element radio array linked by cables, waveguides, or fiber optics for real-time signal distribution to a central correlator.](../../assets/images/Connected_element_interferometer.jpg)
 
 
 three:

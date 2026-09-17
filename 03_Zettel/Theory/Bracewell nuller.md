@@ -25,7 +25,7 @@ so the nuller acts as a *band-pass filter* on the sky: rejects on-axis sources, 
 
 ## the transmission pattern
 
-![Bracewell nulling setup: introducing a \pi phase shift to cancel bright central starlight and resolve faint companions.](Interferometry/Bracewell_nuller.svg)
+![Bracewell nulling setup: introducing a \pi phase shift to cancel bright central starlight and resolve faint companions.](../../assets/images/Bracewell_nuller.svg)
 
 
 for the simplest two-element Bracewell:

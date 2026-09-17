@@ -20,7 +20,7 @@ the problem is **ill-posed**: many $I_{\rm true}$ candidates produce the same $I
 
 ## the algorithms
 
-![Comparison of radio deconvolution algorithms: CLEAN point-source subtraction versus Maximum Entropy Method (MEM) for extended emission.](Interferometry/Deconvolution_algorithms_compared.jpg)
+![Comparison of radio deconvolution algorithms: CLEAN point-source subtraction versus Maximum Entropy Method (MEM) for extended emission.](../../assets/images/Deconvolution_algorithms_compared.jpg)
 
 
 ### CLEAN (Högbom 1974)

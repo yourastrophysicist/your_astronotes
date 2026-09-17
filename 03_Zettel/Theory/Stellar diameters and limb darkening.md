@@ -13,7 +13,7 @@ tags: ""
 
 ## core physical intuition
 
-![Stellar limb darkening profile modifying the uniform-disk visibility curve $V(B)$ measured by optical interferometers.](Interferometry/Stellar_diameters_and_limb_darkening.svg)
+![Stellar limb darkening profile modifying the uniform-disk visibility curve $V(B)$ measured by optical interferometers.](../../assets/images/Stellar_diameters_and_limb_darkening.svg)
 
 
 To a single telescope, almost every star is an unresolved point of light. However, as you separate two telescopes in an interferometer, the target star begins to look slightly resolved. When the star is resolved, light from one edge of the star interferes slightly out of step with light from the opposite edge. This causes the interferometric fringes to wash out and drop in contrast.

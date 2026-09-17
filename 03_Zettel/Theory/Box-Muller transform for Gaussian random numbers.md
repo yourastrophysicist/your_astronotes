@@ -116,11 +116,11 @@ mean should be $\approx 0$, std $\approx 1$.
 *Log-log plot of root-mean-square displacement $\sqrt{\langle R^2 \rangle}$ vs step number $N$, confirming the exact diffusion law $\sigma \propto N^{1/2}$ with slope $0.500 \pm 0.002$.*
 
 
-![mapelli_fig19_p185.png](../../assets/images/mapelli_fig19_p185.png)
+![mapelli_fig19_p185.png](../../assets/images/mapelli_fig19_p64.png)
 *Monte Carlo multidimensional integration: variance reduction and rejection sampling geometry.*
 
 
-![mapelli_fig20_p192.png](../../assets/images/mapelli_fig20_p192.png)
+![mapelli_fig20_p192.png](../../assets/images/mapelli_fig20_p66.png)
 *Metropolis-Hastings Markov Chain Monte Carlo (MCMC) acceptance probability ratio $\alpha = \min(1, \frac{P(x')q(x \mid x')}{P(x)q(x' \mid x)})$.*
 {% endraw %}
 

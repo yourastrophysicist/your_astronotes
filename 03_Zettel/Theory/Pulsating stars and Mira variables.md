@@ -27,7 +27,7 @@ molecular and dust shells reveal the physics of mass loss in AGB stars.
 
 ## Cepheid variables
 
-![Interferometric measurement of physical radius variations across pulsation cycles in Mira variable stars.](Interferometry/Pulsating_stars_and_Mira_variables.jpg)
+![Interferometric measurement of physical radius variations across pulsation cycles in Mira variable stars.](../../assets/images/Pulsating_stars_and_Mira_variables.jpg)
 
 
 classical Cepheids: hot, intermediate-mass yellow supergiants with periods of 1-100 days, pulsation amplitudes of 0.5-1.5 mag in V-band. *the* standard candles for the cosmological distance ladder.

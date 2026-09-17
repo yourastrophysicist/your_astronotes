@@ -11,8 +11,6 @@ starred sections (*) are non-examinable; boxed text contains technical details t
 
 notation: natural units $c = \hbar \equiv 1$, metric signature $(+ - - -)$ (opposite of GR course), Einstein summation, Greek indices $\mu,\nu = 0..3$, latin indices $i,j = 1..3$.
 
-![bbnTOC](../../assets/images/bbnTOC)
-
 ---
 
 ## structure of the book

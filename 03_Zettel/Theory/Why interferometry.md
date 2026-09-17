@@ -22,7 +22,7 @@ numerical examples:
 
 ## the limits of single apertures
 
-![Diffraction limit of a single telescope mirror vs. the synthetic angular resolution $\theta \approx \lambda/B$ achieved by separated apertures.](Interferometry/Why_interferometry.svg)
+![Diffraction limit of a single telescope mirror vs. the synthetic angular resolution $\theta \approx \lambda/B$ achieved by separated apertures.](../../assets/images/Why_interferometry.svg)
 
 
 three reasons single telescopes plateau in achievable resolution:

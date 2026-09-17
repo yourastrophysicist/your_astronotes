@@ -17,7 +17,7 @@ a U.S. Navy / USNO interferometer at Anderson Mesa, Arizona. designed for **astr
 
 ## the dual mission
 
-![Navy Precision Optical Interferometer (NPOI): long-baseline optical array for precise stellar astrometry and stellar diameter measurements.](Interferometry/NPOI_Navy_Prototype_Optical_Interferometer.jpg)
+![Navy Precision Optical Interferometer (NPOI): long-baseline optical array for precise stellar astrometry and stellar diameter measurements.](../../assets/images/NPOI_Navy_Prototype_Optical_Interferometer.jpg)
 
 
 ### astrometry

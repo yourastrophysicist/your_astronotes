@@ -11,7 +11,7 @@ simple in concept, but the physics has subtle features that matter: a $\pi$-phas
 
 ## the physical implementation
 
-![Dielectric beam splitter: partial wave reflection and transmission introducing phase asymmetries at optical interfaces.](Interferometry/Beam_splitter_physics.png)
+![Dielectric beam splitter: partial wave reflection and transmission introducing phase asymmetries at optical interfaces.](../../assets/images/Beam_splitter_physics.png)
 
 
 three common types:
