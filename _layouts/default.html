@@ -4,9 +4,580 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }} | {{ site.title }}</title>
-  <link rel="stylesheet" id="theme-stylesheet" href="{{ '/assets/css/style.css' | relative_url }}" onerror="if(!this.dataset.retried){this.dataset.retried=1;this.href=(location.pathname.startsWith('/your_astronotes')?'/your_astronotes':'')+'/assets/css/style.css'}">
-  <script src="{{ '/assets/js/site-data.js' | relative_url }}" onerror="if(!this.dataset.retried){this.dataset.retried=1;var s=document.createElement('script');s.src=(location.pathname.startsWith('/your_astronotes')?'/your_astronotes':'')+'/assets/js/site-data.js';document.head.appendChild(s);}"></script>
-  <script src="{{ '/assets/js/app.js' | relative_url }}" onerror="if(!this.dataset.retried){this.dataset.retried=1;var s=document.createElement('script');s.src=(location.pathname.startsWith('/your_astronotes')?'/your_astronotes':'')+'/assets/js/app.js';document.head.appendChild(s);}"></script>
+  <style id="wiki-theme">
+/* Wikipedia / MediaWiki Vector Skin Theme for Your AstroNotes */
+
+:root {
+  --bg-color: #f6f6f6;
+  --content-bg: #ffffff;
+  --text-color: #202122;
+  --text-muted: #54595d;
+  --heading-color: #000000;
+  
+  --primary-color: #3366cc;
+  --primary-hover: #2a4b8d;
+  --link-visited: #795cb2;
+  
+  --border-color: #a2a9b1;
+  --border-subtle: #eaecf0;
+  --sidebar-bg: #f8f9fa;
+  --sidebar-hover: #eaecf0;
+  --sidebar-active: #eaf3ff;
+  
+  --toc-bg: #f8f9fa;
+  --toc-border: #a2a9b1;
+  --toc-active: #3366cc;
+  
+  --code-bg: #f8f9fa;
+  --code-border: #eaecf0;
+  --code-text: #202122;
+
+  --badge-bg: #f8f9fa;
+  --badge-border: #a2a9b1;
+  
+  --header-height: 54px;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg-color: #101418;
+    --content-bg: #1a1f24;
+    --text-color: #eaecf0;
+    --text-muted: #9aa0a7;
+    --heading-color: #ffffff;
+    
+    --primary-color: #6daafb;
+    --primary-hover: #9ec2ff;
+    --link-visited: #c5a9fc;
+    
+    --border-color: #54595d;
+    --border-subtle: #2d333b;
+    --sidebar-bg: #14181c;
+    --sidebar-hover: #22272e;
+    --sidebar-active: #1f3044;
+    
+    --toc-bg: #14181c;
+    --toc-border: #54595d;
+    --toc-active: #6daafb;
+    
+    --code-bg: #22272e;
+    --code-border: #373e47;
+    --code-text: #eaecf0;
+
+    --badge-bg: #14181c;
+    --badge-border: #54595d;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  line-height: 1.6;
+  font-size: 15px;
+}
+
+a {
+  color: var(--primary-color);
+  text-decoration: none;
+}
+
+a:visited {
+  color: var(--link-visited);
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Header */
+header {
+  height: var(--header-height);
+  background-color: var(--content-bg);
+  border-bottom: 1px solid var(--border-color);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 24px;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
+}
+
+.header-brand {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  min-width: 0;
+  overflow: hidden;
+}
+
+.logo {
+  font-family: 'Linux Libertine', 'Georgia', 'Times New Roman', serif;
+  font-size: 1.35rem;
+  font-weight: normal;
+  color: var(--heading-color);
+  letter-spacing: -0.01em;
+  text-decoration: none;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.logo:hover {
+  text-decoration: none;
+  color: var(--primary-color);
+}
+
+.header-subtitle {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  font-style: italic;
+  font-family: 'Linux Libertine', 'Georgia', serif;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.header-nav {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-size: 0.9rem;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+
+.header-tab {
+  padding: 6px 10px;
+  color: var(--text-color);
+  border-radius: 2px;
+  font-size: 0.85rem;
+  font-weight: 500;
+  border: 1px solid transparent;
+  white-space: nowrap;
+}
+
+.header-tab:hover {
+  background-color: var(--sidebar-hover);
+  text-decoration: none;
+}
+
+.header-tab.active {
+  background-color: var(--content-bg);
+  border-color: var(--border-color);
+  border-bottom-color: var(--content-bg);
+  color: var(--heading-color);
+}
+
+/* Main Layout Grid */
+.container {
+  display: flex;
+  min-height: calc(100vh - var(--header-height));
+  max-width: 1680px;
+  margin: 0 auto;
+}
+
+/* Sidebar Left (Navigation Tree) */
+.sidebar-left {
+  width: 290px;
+  background-color: var(--sidebar-bg);
+  border-right: 1px solid var(--border-color);
+  padding: 16px;
+  position: sticky;
+  top: var(--header-height);
+  height: calc(100vh - var(--header-height));
+  overflow-y: auto;
+  flex-shrink: 0;
+}
+
+.sidebar-heading {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-weight: bold;
+  color: var(--text-muted);
+  margin-top: 16px;
+  margin-bottom: 8px;
+  padding-bottom: 4px;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.search-box {
+  width: 100%;
+  padding: 6px 10px;
+  border: 1px solid var(--border-color);
+  border-radius: 2px;
+  background-color: var(--content-bg);
+  color: var(--text-color);
+  font-size: 0.85rem;
+  margin-bottom: 12px;
+  outline: none;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.search-box:focus {
+  border-color: var(--primary-color);
+  box-shadow: inset 0 0 0 1px var(--primary-color);
+}
+
+.tree-list {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+  font-size: 0.88rem;
+}
+
+.tree-item {
+  margin: 2px 0;
+}
+
+.tree-folder {
+  font-weight: 600;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  user-select: none;
+  padding: 3px 6px;
+  border-radius: 2px;
+  color: var(--text-color);
+}
+
+.tree-folder:hover {
+  background-color: var(--sidebar-hover);
+}
+
+.tree-folder-contents {
+  list-style: none;
+  padding-left: 14px;
+  margin: 0;
+  border-left: 1px dashed var(--border-subtle);
+}
+
+.tree-folder-contents.is-collapsed {
+  display: none;
+}
+
+.tree-folder-contents.is-expanded {
+  display: block;
+}
+
+.tree-file-link {
+  display: block;
+  padding: 3px 6px;
+  color: var(--primary-color);
+  border-radius: 2px;
+  line-height: 1.4;
+}
+
+.tree-file-link:hover {
+  background-color: var(--sidebar-hover);
+  text-decoration: underline;
+}
+
+.tree-file-link.active {
+  font-weight: 700;
+  color: var(--heading-color);
+  background-color: var(--sidebar-active);
+  border-left: 3px solid var(--primary-color);
+}
+
+.is-hidden {
+  display: none !important;
+}
+
+/* Main Article Content */
+main {
+  flex-grow: 1;
+  padding: 28px 48px 60px 48px;
+  background-color: var(--content-bg);
+  overflow-x: hidden;
+  max-width: 1040px;
+}
+
+.article-header {
+  margin-bottom: 24px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.article-title {
+  font-family: 'Linux Libertine', 'Georgia', 'Times New Roman', serif;
+  font-size: 2rem;
+  font-weight: normal;
+  margin: 0 0 4px 0;
+  color: var(--heading-color);
+  line-height: 1.25;
+}
+
+.article-tagline {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  font-style: italic;
+  font-family: 'Linux Libertine', 'Georgia', serif;
+}
+
+/* Typography & Headings */
+.markdown-body h1,
+.markdown-body h2 {
+  font-family: 'Linux Libertine', 'Georgia', 'Times New Roman', serif;
+  font-weight: normal;
+  color: var(--heading-color);
+  border-bottom: 1px solid var(--border-color);
+  padding-bottom: 4px;
+  margin-top: 1.8em;
+  margin-bottom: 0.5em;
+}
+
+.markdown-body h1 {
+  font-size: 1.65rem;
+}
+
+.markdown-body h2 {
+  font-size: 1.4rem;
+}
+
+.markdown-body h3 {
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: var(--heading-color);
+  margin-top: 1.4em;
+  margin-bottom: 0.4em;
+}
+
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6 {
+  font-size: 1rem;
+  font-weight: bold;
+  color: var(--heading-color);
+  margin-top: 1.2em;
+  margin-bottom: 0.3em;
+}
+
+.markdown-body p {
+  margin: 0.7em 0 0.9em 0;
+}
+
+.markdown-body ul,
+.markdown-body ol {
+  padding-left: 24px;
+  margin: 0.6em 0 0.9em 0;
+}
+
+.markdown-body li {
+  margin: 0.3em 0;
+}
+
+.markdown-body hr {
+  height: 1px;
+  background-color: var(--border-color);
+  border: none;
+  margin: 2em 0;
+}
+
+.markdown-body blockquote {
+  margin: 1em 0;
+  padding: 12px 18px;
+  background-color: var(--toc-bg);
+  border-left: 4px solid var(--primary-color);
+  border-top: 1px solid var(--border-subtle);
+  border-right: 1px solid var(--border-subtle);
+  border-bottom: 1px solid var(--border-subtle);
+  color: var(--text-muted);
+  border-radius: 2px;
+}
+
+.markdown-body code {
+  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  font-size: 0.88em;
+  background-color: var(--code-bg);
+  border: 1px solid var(--code-border);
+  padding: 2px 5px;
+  border-radius: 2px;
+  color: var(--code-text);
+}
+
+.markdown-body pre {
+  background-color: var(--code-bg);
+  border: 1px solid var(--code-border);
+  padding: 14px;
+  overflow-x: auto;
+  border-radius: 2px;
+  font-size: 0.88rem;
+  line-height: 1.45;
+}
+
+.markdown-body pre code {
+  background: transparent;
+  border: none;
+  padding: 0;
+}
+
+/* Wikipedia Table Style */
+.markdown-body table {
+  border-collapse: collapse;
+  margin: 1.2em 0;
+  width: 100%;
+  font-size: 0.9rem;
+  background-color: var(--toc-bg);
+  border: 1px solid var(--border-color);
+}
+
+.markdown-body th,
+.markdown-body td {
+  border: 1px solid var(--border-color);
+  padding: 8px 12px;
+  text-align: left;
+}
+
+.markdown-body th {
+  background-color: var(--sidebar-hover);
+  font-weight: 600;
+}
+
+.markdown-body tr:nth-child(even) {
+  background-color: var(--content-bg);
+}
+
+/* Sidebar Right (Table of Contents Box) */
+.sidebar-right {
+  width: 280px;
+  background-color: var(--sidebar-bg);
+  border-left: 1px solid var(--border-color);
+  padding: 20px 16px;
+  position: sticky;
+  top: var(--header-height);
+  height: calc(100vh - var(--header-height));
+  overflow-y: auto;
+  flex-shrink: 0;
+}
+
+.toc-card {
+  background-color: var(--toc-bg);
+  border: 1px solid var(--toc-border);
+  padding: 12px 14px;
+  border-radius: 2px;
+}
+
+.toc-title {
+  font-family: 'Linux Libertine', 'Georgia', serif;
+  font-weight: bold;
+  margin: 0 0 8px 0;
+  font-size: 0.95rem;
+  color: var(--heading-color);
+  text-align: center;
+  border-bottom: 1px solid var(--border-subtle);
+  padding-bottom: 4px;
+}
+
+.toc-link {
+  display: block;
+  font-size: 0.85rem;
+  color: var(--primary-color);
+  margin: 5px 0;
+  line-height: 1.35;
+}
+
+.toc-link[data-level="1"] { padding-left: 0px; font-weight: 500; }
+.toc-link[data-level="2"] { padding-left: 10px; }
+.toc-link[data-level="3"] { padding-left: 20px; font-size: 0.8rem; }
+.toc-link[data-level="4"] { padding-left: 30px; font-size: 0.8rem; }
+
+.toc-link:hover {
+  text-decoration: underline;
+}
+
+.toc-link.active {
+  font-weight: bold;
+  color: var(--heading-color);
+}
+
+/* KaTeX Math Adjustments */
+.katex-display {
+  margin: 1em 0 !important;
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding: 6px 0;
+}
+
+/* Feedback footer */
+.feedback-section {
+  margin-top: 48px;
+  padding-top: 16px;
+  border-top: 1px solid var(--border-color);
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  text-align: center;
+}
+
+/* Responsive */
+@media (max-width: 1080px) {
+  .sidebar-right {
+    display: none;
+  }
+  main {
+    max-width: 100%;
+    padding: 24px 32px;
+  }
+}
+
+@media (max-width: 960px) {
+  .header-subtitle {
+    display: none;
+  }
+}
+
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+  }
+  .sidebar-left {
+    width: 100%;
+    position: static;
+    height: auto;
+    max-height: 280px;
+    border-right: none;
+    border-bottom: 1px solid var(--border-color);
+  }
+  main {
+    padding: 20px 16px;
+  }
+  header {
+    padding: 0 16px;
+  }
+  .header-subtitle {
+    display: none;
+  }
+}
+
+@media (max-width: 480px) {
+  header {
+    padding: 0 12px;
+  }
+  .logo {
+    font-size: 1.15rem;
+  }
+  .header-nav {
+    gap: 6px;
+  }
+  .header-tab {
+    padding: 4px 6px;
+    font-size: 0.8rem;
+  }
+}
+
+  </style>
+  <link rel="stylesheet" id="theme-stylesheet" href="{{ '/assets/css/style.css?v=10' | relative_url }}" onerror="if(!this.dataset.retried){this.dataset.retried=1;this.href=(location.pathname.startsWith('/your_astronotes')?'/your_astronotes':'')+'/assets/css/style.css'}">
+  <script src="{{ '/assets/js/site-data.js?v=10' | relative_url }}" onerror="if(!this.dataset.retried){this.dataset.retried=1;var s=document.createElement('script');s.src=(location.pathname.startsWith('/your_astronotes')?'/your_astronotes':'')+'/assets/js/site-data.js';document.head.appendChild(s);}"></script>
+  <script src="{{ '/assets/js/app.js?v=10' | relative_url }}" onerror="if(!this.dataset.retried){this.dataset.retried=1;var s=document.createElement('script');s.src=(location.pathname.startsWith('/your_astronotes')?'/your_astronotes':'')+'/assets/js/app.js';document.head.appendChild(s);}"></script>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
   <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
   <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body, {delimiters: [{left: '$$', right: '$$', display: true}, {left: '$', right: '$', display: false}, {left: '\\[', right: '\\]', display: true}, {left: '\\(', right: '\\)', display: false}], throwOnError: false, strict: false});"></script>
@@ -30,7 +601,7 @@
       <div class="sidebar-heading">Search Vault</div>
       <input type="text" id="tree-search" class="search-box" placeholder="Search pages, maps, notes...">
       <div class="sidebar-heading">Navigation</div>
-      <div id="file-tree"></div>
+      <div id="file-tree"><div style="font-size: 0.82rem; color: var(--text-muted); padding: 8px 4px;">Loading curriculum tree...</div></div>
     </aside>
 
     <main>

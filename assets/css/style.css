@@ -24,6 +24,9 @@
   --code-bg: #f8f9fa;
   --code-border: #eaecf0;
   --code-text: #202122;
+
+  --badge-bg: #f8f9fa;
+  --badge-border: #a2a9b1;
   
   --header-height: 54px;
 }
@@ -53,6 +56,9 @@
     --code-bg: #22272e;
     --code-border: #373e47;
     --code-text: #eaecf0;
+
+    --badge-bg: #14181c;
+    --badge-border: #54595d;
   }
 }
 
