@@ -288,7 +288,8 @@ header {
 
 /* Main Article Content */
 main {
-  flex-grow: 1;
+  flex: 1 1 0%;
+  min-width: 0;
   padding: 28px 48px 60px 48px;
   background-color: var(--content-bg);
   overflow-x: hidden;
@@ -318,6 +319,21 @@ main {
 }
 
 /* Typography & Headings */
+.markdown-body {
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+}
+
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6,
+[id] {
+  scroll-margin-top: calc(var(--header-height) + 16px);
+}
+
 .markdown-body h1,
 .markdown-body h2 {
   font-family: 'Linux Libertine', 'Georgia', 'Times New Roman', serif;
@@ -403,6 +419,8 @@ main {
   border: 1px solid var(--code-border);
   padding: 14px;
   overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  max-width: 100%;
   border-radius: 2px;
   font-size: 0.88rem;
   line-height: 1.45;
@@ -412,13 +430,32 @@ main {
   background: transparent;
   border: none;
   padding: 0;
+  white-space: pre;
+  word-break: normal;
+  word-wrap: normal;
+}
+
+/* Figures and Images */
+.markdown-body img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1.5em auto;
+  border-radius: 2px;
+  border: 1px solid var(--border-subtle);
+  background-color: #ffffff;
+  box-sizing: border-box;
 }
 
 /* Wikipedia Table Style */
 .markdown-body table {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
   border-collapse: collapse;
   margin: 1.2em 0;
-  width: 100%;
   font-size: 0.9rem;
   background-color: var(--toc-bg);
   border: 1px solid var(--border-color);
@@ -536,12 +573,16 @@ main {
     width: 100%;
     position: static;
     height: auto;
-    max-height: 280px;
+    max-height: 240px;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
     border-right: none;
     border-bottom: 1px solid var(--border-color);
+    padding: 12px 16px;
   }
   main {
-    padding: 20px 16px;
+    padding: 20px 16px 40px 16px;
+    max-width: 100%;
   }
   header {
     padding: 0 16px;
@@ -553,16 +594,31 @@ main {
 
 @media (max-width: 480px) {
   header {
-    padding: 0 12px;
+    height: auto;
+    min-height: var(--header-height);
+    padding: 8px 12px;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .header-brand {
+    width: 100%;
+    justify-content: space-between;
+  }
+  .header-nav {
+    width: 100%;
+    justify-content: flex-start;
+    gap: 6px;
+    border-top: 1px solid var(--border-subtle);
+    padding-top: 4px;
   }
   .logo {
     font-size: 1.15rem;
   }
-  .header-nav {
-    gap: 6px;
-  }
   .header-tab {
-    padding: 4px 6px;
-    font-size: 0.8rem;
+    padding: 3px 6px;
+    font-size: 0.78rem;
+  }
+  main {
+    padding: 16px 12px 36px 12px;
   }
 }
