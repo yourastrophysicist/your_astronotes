@@ -74,7 +74,7 @@ three:
 
 ### 1. cost
 
-the most expensive astronomical observatory ever built — perhaps $5-10 billion.
+the most expensive astronomical observatory ever built — perhaps \$5-10 billion.
 
 ### 2. lunar dust
 

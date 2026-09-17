@@ -9,8 +9,7 @@ interfacial instabilities govern the mixing of distinct fluid layers across astr
 
 ## 1. rayleigh-taylor instability (rti)
 
-occurs when a heavy fluid of density $\rho_2$ is supported against gravity (or effective acceleration $g$ pointing downward toward the lighter fluid) by a lighter fluid of density $\rho_1$ ($
-ho_2 > \rho_1$).
+occurs when a heavy fluid of density $\rho_2$ is supported against gravity (or effective acceleration $g$ pointing downward toward the lighter fluid) by a lighter fluid of density $\rho_1$ ($\rho_2 > \rho_1$).
 
 linearizing potential flow perturbations $\propto \exp(i k x - i \omega t + k z)$ across the interface gives the dispersion relation:
 

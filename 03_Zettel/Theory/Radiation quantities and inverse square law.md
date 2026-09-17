@@ -11,10 +11,7 @@ to describe how energy flows from astrophysical sources through space to an obse
 
 ## 1. specific intensity (radiance) $I_\nu$
 
-**specific intensity** $I_\nu$ (or brightness $B_\nu$) is the fundamental microphysical description of a radiation field. it measures the energy $dE_\nu$ flowing in frequency interval $[
-u, 
-u + d
-u]$ through an area $dA$, during time $dt$, within solid angle $d\Omega$, at an angle $\theta$ relative to the surface normal $\hat{n}$:
+**specific intensity** $I_\nu$ (or brightness $B_\nu$) is the fundamental microphysical description of a radiation field. it measures the energy $dE_\nu$ flowing in frequency interval $[\nu, \nu + d\nu]$ through an area $dA$, during time $dt$, within solid angle $d\Omega$, at an angle $\theta$ relative to the surface normal $\hat{n}$:
 
 $$\boxed{\, dE_\nu = I_\nu(\vec{r}, \hat{n}, t) \, \cos\theta \, dA \, dt \, d\nu \, d\Omega \,}$$
 

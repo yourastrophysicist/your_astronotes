@@ -679,7 +679,83 @@ main {
   <script src="{{ '/assets/js/app.js?v=12' | relative_url }}" onerror="if(!this.dataset.retried){this.dataset.retried=1;var s=document.createElement('script');s.src=(location.pathname.startsWith('/your_astronotes')?'/your_astronotes':'')+'/assets/js/app.js';document.head.appendChild(s);}"></script>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
   <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
-  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body, {delimiters: [{left: '$$', right: '$$', display: true}, {left: '$', right: '$', display: false}, {left: '\\[', right: '\\]', display: true}, {left: '\\(', right: '\\)', display: false}], throwOnError: false, strict: false});"></script>
+  <script>
+    function countSingleDollars(str) {
+      var s = str.replace(/\$\$/g, '');
+      var count = 0;
+      for (var i = 0; i < s.length; i++) {
+        if (s[i] === '$' && (i === 0 || s[i-1] !== '\\')) count++;
+      }
+      return count;
+    }
+
+    function sanitizeMathInDOM(root) {
+      if (!root) root = document.querySelector('.markdown-body') || document.body;
+      var selector = 'p, li, td, th, h1, h2, h3, h4, h5, h6, dd, dt, blockquote';
+      var nodes = root.querySelectorAll(selector);
+      nodes.forEach(function(el) {
+        if (el.querySelector('p, li, td, th, dd, dt, blockquote')) return;
+        var html = el.innerHTML;
+        if (html.indexOf('$') === -1) return;
+        if (html.indexOf('<em') === -1 && html.indexOf('<i') === -1) return;
+
+        var repaired = html.replace(/<(em|i)[^>]*>([\s\S]*?)<\/\1>/gi, function(emMatch, tag, innerText, offset, fullStr) {
+          if (/[\{\}\\\^\_\=\<\>]/.test(innerText)) return '_' + innerText + '_';
+          var charBefore = offset > 0 ? fullStr.charAt(offset - 1) : '';
+          var charAfter = (offset + emMatch.length < fullStr.length) ? fullStr.charAt(offset + emMatch.length) : '';
+          if (charBefore && !/\s/.test(charBefore) && /[\w\}\$\\]/.test(charBefore)) {
+            return '_' + innerText + '_';
+          }
+          if (charAfter && !/\s/.test(charAfter) && /[\{\$\\]/.test(charAfter)) {
+            return '_' + innerText + '_';
+          }
+          var dollarsBefore = countSingleDollars(fullStr.substring(0, offset));
+          if (dollarsBefore % 2 !== 0) {
+            return '_' + innerText + '_';
+          }
+          return emMatch;
+        });
+
+        if (repaired !== html) {
+          el.innerHTML = repaired;
+        }
+      });
+    }
+
+    function renderMathWithSanitizer() {
+      if (typeof renderMathInElement !== 'function') return;
+      try {
+        sanitizeMathInDOM();
+      } catch (err) {
+        console.warn('Math sanitization notice:', err);
+      }
+      renderMathInElement(document.body, {
+        delimiters: [
+          {left: '$$', right: '$$', display: true},
+          {left: '$', right: '$', display: false},
+          {left: '\\[', right: '\\]', display: true},
+          {left: '\\(', right: '\\)', display: false}
+        ],
+        throwOnError: false,
+        strict: false
+      });
+    }
+
+    window.addEventListener('DOMContentLoaded', function() {
+      if (typeof renderMathInElement === 'function') {
+        renderMathWithSanitizer();
+      } else {
+        var interval = setInterval(function() {
+          if (typeof renderMathInElement === 'function') {
+            clearInterval(interval);
+            renderMathWithSanitizer();
+          }
+        }, 50);
+        setTimeout(function() { clearInterval(interval); }, 5000);
+      }
+    });
+  </script>
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js" onload="renderMathWithSanitizer()"></script>
 </head>
 <body>
 

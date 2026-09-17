@@ -17,7 +17,7 @@ result: the bright central source is "nulled out" while faint surrounding featur
 
 ## the math
 
-![Nulling interferometry: introducing a \pi phase shift to destructively cancel bright central starlight while resolving faint companions.](../../assets/images/Nulling_interferometry.jpg)
+![Nulling interferometry: introducing a $\pi$ phase shift to destructively cancel bright central starlight while resolving faint companions.](../../assets/images/Nulling_interferometry.jpg)
 
 
 for a two-aperture nuller at baseline $B$, the response to an off-axis source at angle $\theta$ has transmission:

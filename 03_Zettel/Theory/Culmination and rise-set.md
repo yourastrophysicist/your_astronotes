@@ -121,13 +121,13 @@ $\cos h = 0$, $h = \pm 90° = \pm 6$ h. star above horizon for exactly 12 h, ris
 *Upper culmination / transit across local meridian.*
 
 ![obs_sph1-34.png](../../assets/images/obs_sph1-34.png)
-*Culmination altitude formula: a = 90 deg - \lvert\phi - \delta\rvert.*
+*Culmination altitude formula: $a = 90^\circ - \lvert\phi - \delta\rvert$.*
 
 ![obs_sph1-35.png](../../assets/images/obs_sph1-35.png)
 *Lower culmination below the celestial pole.*
 
 ![obs_sph1-36.png](../../assets/images/obs_sph1-36.png)
-*Circumpolar star condition: delta > 90 deg - phi.*
+*Circumpolar star condition: $\delta > 90^\circ - \phi$.*
 
 ![obs_sph1-37.png](../../assets/images/obs_sph1-37.png)
 *Never-rising star condition: delta < phi - 90 deg.*

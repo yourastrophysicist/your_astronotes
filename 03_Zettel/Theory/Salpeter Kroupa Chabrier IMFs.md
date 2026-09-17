@@ -21,12 +21,14 @@ salpeter's slope at high mass is robust and recovered (within errors) by every m
 
 pavel kroupa introduced a three-segment broken power-law to fit observed local star counts including the low-mass turnover:
 
-$$\xi(M) \propto
+$$
+\xi(M) \propto
 \begin{cases}
 M^{-0.3}, & 0.01 < M/M_\odot < 0.08 \\
 M^{-1.3}, & 0.08 < M/M_\odot < 0.5 \\
 M^{-2.3}, & 0.5 < M/M_\odot.
-\end{cases}$$
+\end{cases}
+$$
 
 the high-mass segment recovers salpeter; the low-mass slope is much shallower; the substellar segment (brown dwarfs) is nearly flat. the break at $0.5\,M_\odot$ is the empirical "low-mass turnover" of the IMF.
 
@@ -34,11 +36,13 @@ the high-mass segment recovers salpeter; the low-mass slope is much shallower; t
 
 gilles chabrier fitted local field and cluster mass functions with a smooth lognormal form below $1\,M_\odot$, joined to a salpeter power-law above:
 
-$$\xi_L(\log M) \propto
+$$
+\xi_L(\log M) \propto
 \begin{cases}
 \exp\!\left[ -\frac{(\log M - \log M_c)^2}{2\sigma^2} \right], & M < 1\,M_\odot \\
 M^{-1.35}, & M > 1\,M_\odot,
-\end{cases}$$
+\end{cases}
+$$
 
 with $M_c \approx 0.22\,M_\odot$ (system) or $0.08\,M_\odot$ (single stars) and $\sigma \approx 0.55$ dex. the lognormal has a clean physical motivation: the central limit theorem applied to multiplicative fragmentation processes naturally produces lognormals.
 

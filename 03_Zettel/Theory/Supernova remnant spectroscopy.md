@@ -52,7 +52,7 @@ other shock signatures:
 ## young SNR cases (Cas A, Tycho)
 
 ejecta still optically dominant. spectra show **abundance signatures of nucleosynthesis**:
-- O-rich knots in Cas A: $[OIII]$, [OIII]$, $[OII]$ very strong, no H or He.
+- O-rich knots in Cas A: $\mathrm{[O\,III]}$, $\mathrm{[O\,II]}$ very strong, no H or He.
 - Si, S, Ar from intermediate-mass elements.
 - Fe from $^{56}$Ni decay products.
 

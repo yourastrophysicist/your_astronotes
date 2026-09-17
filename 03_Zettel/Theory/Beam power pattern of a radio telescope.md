@@ -83,9 +83,7 @@ the beam power pattern is the angular response of the antenna. it weights the sk
 
 reading cue: the antenna beam is the directional weighting of the sky. the same dish that collects power also defines the field of view and sidelobe response.
 
-source: local study diagram generated from $A_{
-m eff}=\eta A$ and $G=4\pi A_{
-m eff}/\lambda^2$.
+source: local study diagram generated from $A_{\rm eff} = \eta A$ and $G = 4\pi A_{\rm eff}/\lambda^2$.
 
 ## see also
 
