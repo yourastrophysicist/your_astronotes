@@ -119,6 +119,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     const treeData = buildTree(pagesList);
+    treeContainer.innerHTML = '';
     renderTree(treeData, treeContainer);
 
     // Search Filtering
