@@ -2,7 +2,6 @@
 layout: "default"
 title: "Components of a modern interferometer continued"
 ---
-{% raw %}
 # Astrometry with interferometers
 
 a brief survey of how interferometric instruments achieve sub-mas position precision, the science enabled by it, and major astrometric programs.
@@ -69,4 +68,3 @@ proposed (or canceled) space-based microarcsecond astrometric missions. SIM was 
 - [Cosmological masers](interf/Cosmological%20masers.html)
 - [Galactic Center Sgr A and S-stars](interf/Galactic%20Center%20Sgr%20A%20and%20S-stars.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

@@ -2,7 +2,6 @@
 layout: "default"
 title: "Calibration overview"
 ---
-{% raw %}
 # Calibration overview
 
 raw visibilities are *not* science. the path from correlator output to publishable image involves multiple calibration stages, each correcting a specific instrumental or atmospheric effect. understanding the order and purpose of each step is essential for both observers and theorists interpreting interferometric data.
@@ -154,4 +153,3 @@ source: local workflow diagram generated from the standard radio-reduction seque
 - [Self-calibration](interf/Self-calibration.html)
 - [Polarization in interferometry](interf/Polarization%20in%20interferometry.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

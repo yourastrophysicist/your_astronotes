@@ -2,7 +2,6 @@
 layout: "default"
 title: "Cosmic rays and bad pixels"
 ---
-{% raw %}
 two classes of CCD-image artefacts that have to be handled before science: random cosmic-ray hits and persistent bad pixels.
 
 ## cosmic rays
@@ -65,17 +64,17 @@ dithering is now standard in every survey from SDSS through Euclid.
 
 ## see also
 
-- [CCD calibration steps](./CCD%20calibration%20steps.html)
-- [CCD basics](./CCD%20basics.html)
-- [CCD readout chain](./CCD%20readout%20chain.html)
-- [Aperture photometry](./Aperture%20photometry.html)
-- [The CCD equation](./The%20CCD%20equation.html)
-{% endraw %}
+- [CCD calibration steps](CCD%20calibration%20steps.html)
+- [CCD basics](CCD%20basics.html)
+- [CCD readout chain](CCD%20readout%20chain.html)
+- [Aperture photometry](Aperture%20photometry.html)
+- [The CCD equation](The%20CCD%20equation.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./CCD%20calibration%20steps.html" class="backlink-item">CCD calibration steps</a></li>
-    <li class="backlink-item-wrap"><a href="./Spectrum%20reduction%20pipeline.html" class="backlink-item">Spectrum reduction pipeline</a></li>
+    <li class="backlink-item-wrap"><a href="CCD%20calibration%20steps.html" class="backlink-item">CCD calibration steps</a></li>
+    <li class="backlink-item-wrap"><a href="Spectrum%20reduction%20pipeline.html" class="backlink-item">Spectrum reduction pipeline</a></li>
   </ul>
 </div>
+

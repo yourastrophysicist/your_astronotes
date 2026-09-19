@@ -2,7 +2,6 @@
 layout: "default"
 title: "Robertson-Walker metric"
 ---
-{% raw %}
 the cosmological principle (homogeneity + isotropy) imposes a unique form on the spacetime metric. that form is the **Robertson-Walker metric**, sometimes called Friedmann-Robertson-Walker (FRW) when paired with the dynamics.
 
 ---
@@ -71,7 +70,7 @@ where $\chi$ is a redefined radial coordinate and $S_k(\chi) = \sin\chi$ ($k=+1$
 this is the **conformal metric**. since light travels along null geodesics ($ds^2 = 0$), and the prefactor $a^2(\tau)$ is conformal, light propagation in FRW is the same as in flat Minkowski if I first transform to conformal time. along a radial null geodesic:
 $$\Delta \tau = \Delta \chi$$
 
-useful for horizon arguments (see [Standard model problems](./Standard%20model%20problems.html) and [Inflation overview](./Inflation%20overview.html)).
+useful for horizon arguments (see [Standard model problems](Standard%20model%20problems.html) and [Inflation overview](Inflation%20overview.html)).
 
 ---
 
@@ -102,19 +101,19 @@ three equivalent ways to write the FRW metric, useful in different contexts:
 ## see also
 
 - [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Cosmological principle](./Cosmological%20principle.html)
-- [Curvature parameter k](./Curvature%20parameter%20k.html)
-- [Hubble constant and deceleration parameter](./Hubble%20constant%20and%20deceleration%20parameter.html)
-- [Newtonian Friedmann derivation](./Newtonian%20Friedmann%20derivation.html)
+- [Cosmological principle](Cosmological%20principle.html)
+- [Curvature parameter k](Curvature%20parameter%20k.html)
+- [Hubble constant and deceleration parameter](Hubble%20constant%20and%20deceleration%20parameter.html)
+- [Newtonian Friedmann derivation](Newtonian%20Friedmann%20derivation.html)
 - Friedmann equations with Λ
-- [Baumann_reference](./Baumann_reference.html) — chapter 1.1 has the full derivation with all the box-by-box detail
-{% endraw %}
+- [Baumann_reference](Baumann_reference.html) — chapter 1.1 has the full derivation with all the box-by-box detail
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Hubble%27s%20law%20and%20cosmological%20redshift.html" class="backlink-item">Hubble's law and cosmological redshift</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Hubble%27s%20law%20and%20cosmological%20redshift.html" class="backlink-item">Hubble's law and cosmological redshift</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
   </ul>
 </div>
+

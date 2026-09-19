@@ -2,7 +2,6 @@
 layout: "default"
 title: "Systems of ODEs and higher-order ODEs"
 ---
-{% raw %}
 # Systems of ODEs and higher-order ODEs
 
 every higher-order ODE is equivalent to a first-order *system*. and every system is what numerical integrators expect. converting between them is the first step of any nontrivial integration problem.
@@ -91,13 +90,13 @@ if the system comes from a Hamiltonian $H(\mathbf{q}, \mathbf{p})$, the equation
 
 $$\dot{\mathbf{q}} = \partial H/\partial \mathbf{p}, \quad \dot{\mathbf{p}} = -\partial H/\partial \mathbf{q}$$
 
-these have **symplectic** structure that should be preserved by the integrator. use [leapfrog](./Leapfrog%20integrator.html) or symplectic RK schemes, not generic RK4. see also [Energy conservation as a diagnostic](./Energy%20conservation%20as%20a%20diagnostic.html).
+these have **symplectic** structure that should be preserved by the integrator. use [leapfrog](Leapfrog%20integrator.html) or symplectic RK schemes, not generic RK4. see also [Energy conservation as a diagnostic](Energy%20conservation%20as%20a%20diagnostic.html).
 
 ## boundary conditions
 
 a system of $k$ first-order ODEs needs $k$ initial conditions to specify a unique solution (initial value problem) — typically values of all components at $t_0$.
 
-if instead the conditions are split: some at $t_0$, some at $t_f$ → boundary value problem (BVP). use [shooting](./Shooting%20method.html) or `scipy.integrate.solve_bvp`.
+if instead the conditions are split: some at $t_0$, some at $t_f$ → boundary value problem (BVP). use [shooting](Shooting%20method.html) or `scipy.integrate.solve_bvp`.
 
 ## the python convention
 
@@ -112,14 +111,13 @@ v_history = sol.y[3*N:].reshape(N, 3, len(sol.t))
 
 ## see also
 
-- [Euler method](./Euler%20method.html)
-- [Runge-Kutta 4 method](./Runge-Kutta%204%20method.html)
-- [Leapfrog integrator](./Leapfrog%20integrator.html)
-- [Astrophysical N-body problem formulation](./Astrophysical%20N-body%20problem%20formulation.html)
-- [Built-in scipy integrators](./Built-in%20scipy%20integrators.html)
-- [Initial value vs boundary value problems](./Initial%20value%20vs%20boundary%20value%20problems.html)
+- [Euler method](Euler%20method.html)
+- [Runge-Kutta 4 method](Runge-Kutta%204%20method.html)
+- [Leapfrog integrator](Leapfrog%20integrator.html)
+- [Astrophysical N-body problem formulation](Astrophysical%20N-body%20problem%20formulation.html)
+- [Built-in scipy integrators](Built-in%20scipy%20integrators.html)
+- [Initial value vs boundary value problems](Initial%20value%20vs%20boundary%20value%20problems.html)
 - [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (1)</h4>
@@ -127,3 +125,4 @@ v_history = sol.y[3*N:].reshape(N, 3, len(sol.t))
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
   </ul>
 </div>
+

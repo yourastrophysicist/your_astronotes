@@ -1,15 +1,12 @@
 ---
 layout: "default"
 title: "Resistive ballooning mode and ion temperature gradient instability"
-name: "Resistive ballooning mode and ion temperature gradient instability"
-description: "bad curvature driven instabilities, line tying limits, and the one-third resistivity scaling in tokamak edge turbulence"
 ---
-{% raw %}
 turbulent heat and particle transport across magnetic flux surfaces in tokamaks is driven by microinstabilities concentrated in regions of unfavourable magnetic curvature.
 
 ## the resistive ballooning mode (rbm)
 
-in a toroidal magnetic field, the outboard side possesses "bad curvature" where the magnetic curvature vector $\boldsymbol{\kappa} = (\hat{\mathbf{b}} \cdot \nabla)\hat{\mathbf{b}}$ points in the same direction as the pressure gradient $\nabla p$ ($oldsymbol{\kappa} \cdot \nabla p > 0$).
+in a toroidal magnetic field, the outboard side possesses "bad curvature" where the magnetic curvature vector $\boldsymbol{\kappa} = (\hat{\mathbf{b}} \cdot \nabla)\hat{\mathbf{b}}$ points in the same direction as the pressure gradient $\nabla p$ ($\boldsymbol{\kappa} \cdot \nabla p > 0$).
 this creates a Rayleigh-Taylor-like gravitational instability with effective acceleration $g_{\text{eff}} = 2 c_s^2 / R$.
 
 in ideal MHD, magnetic tension resists field line bending. however, finite Spitzer resistivity $\eta_\parallel$ breaks ideal line tying by decoupling the electrostatic potential from the magnetic field through Ohm's law:
@@ -34,15 +31,15 @@ when the temperature gradient length $L_{T_i}$ is shorter than the critical thre
 
 - [Fluid_and_Plasma_Dynamics_MOC](../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html)
 - [Part6_Two_Fluid_Theory_Transport_and_Microinstabilities](../../02_Literature/Lectures/Fluid_and_Plasma_Dynamics/Part6_Two_Fluid_Theory_Transport_and_Microinstabilities.html)
-- [Drift-reduced Braginskii equations and vorticity derivation](./Drift-reduced%20Braginskii%20equations%20and%20vorticity%20derivation.html)
-- [Rayleigh-Taylor and Kelvin-Helmholtz hydrodynamic instabilities](./Rayleigh-Taylor%20and%20Kelvin-Helmholtz%20hydrodynamic%20instabilities.html)
-{% endraw %}
+- [Drift-reduced Braginskii equations and vorticity derivation](Drift-reduced%20Braginskii%20equations%20and%20vorticity%20derivation.html)
+- [Rayleigh-Taylor and Kelvin-Helmholtz hydrodynamic instabilities](Rayleigh-Taylor%20and%20Kelvin-Helmholtz%20hydrodynamic%20instabilities.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Drift-reduced%20Braginskii%20equations%20and%20vorticity%20derivation.html" class="backlink-item">Drift-reduced Braginskii equations and vorticity derivation</a></li>
+    <li class="backlink-item-wrap"><a href="Drift-reduced%20Braginskii%20equations%20and%20vorticity%20derivation.html" class="backlink-item">Drift-reduced Braginskii equations and vorticity derivation</a></li>
+    <li class="backlink-item-wrap"><a href="Gyrokinetic%20ordering%20and%205D%20phase%20space%20reduction.html" class="backlink-item">Gyrokinetic ordering and 5D phase space reduction</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Gyrokinetic%20ordering%20and%205D%20phase%20space%20reduction.html" class="backlink-item">Gyrokinetic ordering and 5D phase space reduction</a></li>
   </ul>
 </div>
+

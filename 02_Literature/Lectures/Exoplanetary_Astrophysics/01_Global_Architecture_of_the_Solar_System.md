@@ -2,7 +2,6 @@
 layout: "default"
 title: "01_Global_Architecture_of_the_Solar_System"
 ---
-{% raw %}
 # Lesson 01 – Global Architecture of the Solar System
 
 *Exoplanetary Astrophysics, Prof. Giampaolo Piotto (Lecture 06/10/2025)*  
@@ -147,13 +146,11 @@ Comparing the Solar System with exoplanet survey demographics reveals several st
 - Previous Lecture: [00_Introduction_and_Course_Overview](./00_Introduction_and_Course_Overview.html)
 - Next Lecture: [02_Exoplanet_Discovery_and_Taxonomy](./02_Exoplanet_Discovery_and_Taxonomy.html)
 - Related Notes: Mass-radius diagram and interior models | Planetary system dynamics and resonance
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
+  <h4 class="backlinks-title">Linked References (1)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./00_Introduction_and_Course_Overview.html" class="backlink-item">00_Introduction_and_Course_Overview</a></li>
-    <li class="backlink-item-wrap"><a href="./02_Exoplanet_Discovery_and_Taxonomy.html" class="backlink-item">02_Exoplanet_Discovery_and_Taxonomy</a></li>
     <li class="backlink-item-wrap"><a href="../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

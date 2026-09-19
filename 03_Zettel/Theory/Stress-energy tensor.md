@@ -2,7 +2,6 @@
 layout: "default"
 title: "Stress-energy tensor"
 ---
-{% raw %}
 the **stress-energy tensor** $T_{\mu\nu}$ encodes everything about matter and energy: density, momentum, pressure, stresses. it sits on the right-hand side of Einstein's equation.
 
 ## physical content
@@ -64,7 +63,7 @@ $$\rho \propto a^{-3(1+w)}$$
 - radiation: $\rho \propto a^{-4}$.
 - dark energy: $\rho = $ const.
 
-see [Continuity equation](./Continuity%20equation.html) and [Equation of state and density scaling](./Equation%20of%20state%20and%20density%20scaling.html).
+see [Continuity equation](Continuity%20equation.html) and [Equation of state and density scaling](Equation%20of%20state%20and%20density%20scaling.html).
 
 ## Newtonian limit
 
@@ -72,30 +71,29 @@ in the weak-field, slow-motion limit, $T^{00} \to \rho c^2$ (mass-energy density
 
 ## see also
 
-- [Einstein equations](./Einstein%20equations.html)
-- [Einstein tensor and Bianchi](./Einstein%20tensor%20and%20Bianchi.html)
-- [Continuity equation](./Continuity%20equation.html)
-- [Equation of state and density scaling](./Equation%20of%20state%20and%20density%20scaling.html)
-- [Cosmological constant](./Cosmological%20constant.html)
-- [Newtonian limit of GR](./Newtonian%20limit%20of%20GR.html)
-- [Friedmann equations](./Friedmann%20equations.html)
+- [Einstein equations](Einstein%20equations.html)
+- [Einstein tensor and Bianchi](Einstein%20tensor%20and%20Bianchi.html)
+- [Continuity equation](Continuity%20equation.html)
+- [Equation of state and density scaling](Equation%20of%20state%20and%20density%20scaling.html)
+- [Cosmological constant](Cosmological%20constant.html)
+- [Newtonian limit of GR](Newtonian%20limit%20of%20GR.html)
+- [Friedmann equations](Friedmann%20equations.html)
 - [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
 - [Ch 5 - The Einstein Equation](../../02_Literature/Book/Baumann%20GR/Ch%205%20-%20The%20Einstein%20Equation.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (11)</h4>
+  <h4 class="backlinks-title">Linked References (10)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Bianchi%20identities.html" class="backlink-item">Bianchi identities</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Book/Baumann%20GR/Ch%205%20-%20The%20Einstein%20Equation.html" class="backlink-item">Ch 5 - The Einstein Equation</a></li>
-    <li class="backlink-item-wrap"><a href="./Continuity%20equation.html" class="backlink-item">Continuity equation</a></li>
-    <li class="backlink-item-wrap"><a href="./Coordinate%20transformations%20and%20tensors.html" class="backlink-item">Coordinate transformations and tensors</a></li>
-    <li class="backlink-item-wrap"><a href="./Cosmological%20constant.html" class="backlink-item">Cosmological constant</a></li>
-    <li class="backlink-item-wrap"><a href="./Einstein%20equations.html" class="backlink-item">Einstein equations</a></li>
-    <li class="backlink-item-wrap"><a href="./Einstein%20tensor%20and%20Bianchi.html" class="backlink-item">Einstein tensor and Bianchi</a></li>
-    <li class="backlink-item-wrap"><a href="./Equation%20of%20state%20and%20density%20scaling.html" class="backlink-item">Equation of state and density scaling</a></li>
-    <li class="backlink-item-wrap"><a href="./GR%20Friedmann%20with%20Lambda.html" class="backlink-item">GR Friedmann with Lambda</a></li>
+    <li class="backlink-item-wrap"><a href="Bianchi%20identities.html" class="backlink-item">Bianchi identities</a></li>
+    <li class="backlink-item-wrap"><a href="Continuity%20equation.html" class="backlink-item">Continuity equation</a></li>
+    <li class="backlink-item-wrap"><a href="Coordinate%20transformations%20and%20tensors.html" class="backlink-item">Coordinate transformations and tensors</a></li>
+    <li class="backlink-item-wrap"><a href="Cosmological%20constant.html" class="backlink-item">Cosmological constant</a></li>
+    <li class="backlink-item-wrap"><a href="Einstein%20equations.html" class="backlink-item">Einstein equations</a></li>
+    <li class="backlink-item-wrap"><a href="Einstein%20tensor%20and%20Bianchi.html" class="backlink-item">Einstein tensor and Bianchi</a></li>
+    <li class="backlink-item-wrap"><a href="Equation%20of%20state%20and%20density%20scaling.html" class="backlink-item">Equation of state and density scaling</a></li>
+    <li class="backlink-item-wrap"><a href="GR%20Friedmann%20with%20Lambda.html" class="backlink-item">GR Friedmann with Lambda</a></li>
+    <li class="backlink-item-wrap"><a href="Trace-reversed%20Einstein%20equations.html" class="backlink-item">Trace-reversed Einstein equations</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Trace-reversed%20Einstein%20equations.html" class="backlink-item">Trace-reversed Einstein equations</a></li>
   </ul>
 </div>
+

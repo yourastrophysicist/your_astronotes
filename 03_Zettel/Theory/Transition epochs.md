@@ -2,7 +2,6 @@
 layout: "default"
 title: "Transition epochs"
 ---
-{% raw %}
 key cosmic epochs that mark transitions between qualitatively different regimes. these are the **landmarks** of cosmic history, useful for orienting any observational claim.
 
 ## the major transitions
@@ -49,27 +48,27 @@ the four most-cited:
 
 ## see also
 
-- [Brief thermal history](./Brief%20thermal%20history.html)
-- [Cosmic eras](./Cosmic%20eras.html)
-- [Matter radiation equality](./Matter%20radiation%20equality.html)
-- [Photon decoupling and CMB](./Photon%20decoupling%20and%20CMB.html)
-- [Saha equation and recombination](./Saha%20equation%20and%20recombination.html)
-- [BBN_overview](./BBN_overview.html)
-- [Reionization](./Reionization.html)
-- [Cosmic_inventory_overview](./Cosmic_inventory_overview.html)
-- [Friedmann equations](./Friedmann%20equations.html)
-- [ΛCDM current parameters](./%CE%9BCDM%20current%20parameters.html)
+- [Brief thermal history](Brief%20thermal%20history.html)
+- [Cosmic eras](Cosmic%20eras.html)
+- [Matter radiation equality](Matter%20radiation%20equality.html)
+- [Photon decoupling and CMB](Photon%20decoupling%20and%20CMB.html)
+- [Saha equation and recombination](Saha%20equation%20and%20recombination.html)
+- [BBN_overview](BBN_overview.html)
+- [Reionization](Reionization.html)
+- [Cosmic_inventory_overview](Cosmic_inventory_overview.html)
+- [Friedmann equations](Friedmann%20equations.html)
+- [ΛCDM current parameters](%CE%9BCDM%20current%20parameters.html)
 - [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (6)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Big%20Bang%20nucleosynthesis.html" class="backlink-item">Big Bang nucleosynthesis</a></li>
-    <li class="backlink-item-wrap"><a href="./Decoupling.html" class="backlink-item">Decoupling</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Phase%20transitions.html" class="backlink-item">Phase transitions</a></li>
+    <li class="backlink-item-wrap"><a href="Big%20Bang%20nucleosynthesis.html" class="backlink-item">Big Bang nucleosynthesis</a></li>
+    <li class="backlink-item-wrap"><a href="Decoupling.html" class="backlink-item">Decoupling</a></li>
+    <li class="backlink-item-wrap"><a href="Phase%20transitions.html" class="backlink-item">Phase transitions</a></li>
+    <li class="backlink-item-wrap"><a href="Recombination.html" class="backlink-item">Recombination</a></li>
     <li class="backlink-item-wrap"><a href="interf/Phase%20transitions.html" class="backlink-item">Phase transitions</a></li>
-    <li class="backlink-item-wrap"><a href="./Recombination.html" class="backlink-item">Recombination</a></li>
+    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
   </ul>
 </div>
+

@@ -2,7 +2,6 @@
 layout: "default"
 title: "Appendix D - Gratings and spectrographs"
 ---
-{% raw %}
 ## Diffraction grating
 
 A **diffraction grating** is a surface with many equally-spaced grooves (or slits)
@@ -96,14 +95,14 @@ where $f_{cam}$ is the focal length of the camera lens
 ## X-ray gratings
 
 In X-ray astronomy, gratings are used in **transmission** or **reflection** geometry
-	(see [X-ray diffraction grating](./X-ray%20diffraction%20grating.html) for details specific to instruments like Chandra HETGS and XMM RGS)
-{% endraw %}
+	(see [X-ray diffraction grating](X-ray%20diffraction%20grating.html) for details specific to instruments like Chandra HETGS and XMM RGS)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="N-slit%20interference%20and%20gratings.html" class="backlink-item">N-slit interference and gratings</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./N-slit%20interference%20and%20gratings.html" class="backlink-item">N-slit interference and gratings</a></li>
   </ul>
 </div>
+

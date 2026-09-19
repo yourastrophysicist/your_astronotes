@@ -2,10 +2,9 @@
 layout: "default"
 title: "Polynomial fitting"
 ---
-{% raw %}
 # Polynomial fitting
 
-a special case of [general linear LSQ](./General%20linear%20least%20squares.html) with $\phi_k(x) = x^k$. fit a polynomial of degree $M$ through $N$ data points, $N > M$, in the least-squares sense.
+a special case of [general linear LSQ](General%20linear%20least%20squares.html) with $\phi_k(x) = x^k$. fit a polynomial of degree $M$ through $N$ data points, $N > M$, in the least-squares sense.
 
 ## the model
 
@@ -51,7 +50,7 @@ three fixes:
 
 high-degree polynomial fits are *bad practice* for two reasons:
 
-1. **Runge phenomenon**: a high-degree polynomial through equispaced data oscillates wildly between points. see [Runge phenomenon](./Runge%20phenomenon.html)
+1. **Runge phenomenon**: a high-degree polynomial through equispaced data oscillates wildly between points. see [Runge phenomenon](Runge%20phenomenon.html)
 2. **overfitting**: with $M \sim N$, the polynomial passes too close to the data, capturing noise
 
 **rule of thumb**: keep $M \leq 5$ for fitting to data. if you need more flexibility, switch to:
@@ -111,20 +110,20 @@ most of the time, what I want is a *low-degree* polynomial fit (M = 2-4). higher
 
 ## see also
 
-- [Linear least squares](./Linear%20least%20squares.html)
-- [General linear least squares](./General%20linear%20least%20squares.html)
-- [Weighted least squares](./Weighted%20least%20squares.html)
-- [Goodness of fit and chi-squared](./Goodness%20of%20fit%20and%20chi-squared.html)
-- [Runge phenomenon](./Runge%20phenomenon.html)
+- [Linear least squares](Linear%20least%20squares.html)
+- [General linear least squares](General%20linear%20least%20squares.html)
+- [Weighted least squares](Weighted%20least%20squares.html)
+- [Goodness of fit and chi-squared](Goodness%20of%20fit%20and%20chi-squared.html)
+- [Runge phenomenon](Runge%20phenomenon.html)
 - [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Fitting%20practical%20recipe.html" class="backlink-item">Fitting practical recipe</a></li>
-    <li class="backlink-item-wrap"><a href="./General%20linear%20least%20squares.html" class="backlink-item">General linear least squares</a></li>
-    <li class="backlink-item-wrap"><a href="./Linear%20least%20squares.html" class="backlink-item">Linear least squares</a></li>
+    <li class="backlink-item-wrap"><a href="Fitting%20practical%20recipe.html" class="backlink-item">Fitting practical recipe</a></li>
+    <li class="backlink-item-wrap"><a href="General%20linear%20least%20squares.html" class="backlink-item">General linear least squares</a></li>
+    <li class="backlink-item-wrap"><a href="Linear%20least%20squares.html" class="backlink-item">Linear least squares</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
   </ul>
 </div>
+

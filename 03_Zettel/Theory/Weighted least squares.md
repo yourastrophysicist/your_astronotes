@@ -2,7 +2,6 @@
 layout: "default"
 title: "Weighted least squares"
 ---
-{% raw %}
 # Weighted least squares
 
 when data points have different uncertainties $\sigma_i$, the standard $\sum (y_i - f_i)^2$ is the *wrong* objective. each term should be weighted by its precision $1/\sigma_i^2$. the weighted form is the only sane choice for **heteroscedastic** (varying-error) data.
@@ -124,21 +123,21 @@ with $C$ the full data covariance matrix. ignoring correlations underestimates p
 
 ## see also
 
-- [Linear least squares](./Linear%20least%20squares.html)
-- [Goodness of fit and chi-squared](./Goodness%20of%20fit%20and%20chi-squared.html)
-- [General linear least squares](./General%20linear%20least%20squares.html)
+- [Linear least squares](Linear%20least%20squares.html)
+- [Goodness of fit and chi-squared](Goodness%20of%20fit%20and%20chi-squared.html)
+- [General linear least squares](General%20linear%20least%20squares.html)
 - [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (7)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Fitting%20practical%20recipe.html" class="backlink-item">Fitting practical recipe</a></li>
-    <li class="backlink-item-wrap"><a href="./General%20linear%20least%20squares.html" class="backlink-item">General linear least squares</a></li>
-    <li class="backlink-item-wrap"><a href="./Goodness%20of%20fit%20and%20chi-squared.html" class="backlink-item">Goodness of fit and chi-squared</a></li>
-    <li class="backlink-item-wrap"><a href="./Linear%20least%20squares.html" class="backlink-item">Linear least squares</a></li>
+    <li class="backlink-item-wrap"><a href="Fitting%20practical%20recipe.html" class="backlink-item">Fitting practical recipe</a></li>
+    <li class="backlink-item-wrap"><a href="General%20linear%20least%20squares.html" class="backlink-item">General linear least squares</a></li>
+    <li class="backlink-item-wrap"><a href="Goodness%20of%20fit%20and%20chi-squared.html" class="backlink-item">Goodness of fit and chi-squared</a></li>
+    <li class="backlink-item-wrap"><a href="Linear%20least%20squares.html" class="backlink-item">Linear least squares</a></li>
+    <li class="backlink-item-wrap"><a href="Non-linear%20fitting%20with%20scipy.html" class="backlink-item">Non-linear fitting with scipy</a></li>
+    <li class="backlink-item-wrap"><a href="Polynomial%20fitting.html" class="backlink-item">Polynomial fitting</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Non-linear%20fitting%20with%20scipy.html" class="backlink-item">Non-linear fitting with scipy</a></li>
-    <li class="backlink-item-wrap"><a href="./Polynomial%20fitting.html" class="backlink-item">Polynomial fitting</a></li>
   </ul>
 </div>
+

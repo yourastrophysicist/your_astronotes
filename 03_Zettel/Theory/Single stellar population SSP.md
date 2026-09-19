@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Single stellar population SSP"
-name: "Single stellar population SSP"
-description: "The fundamental building block of stellar population synthesis, defined by an instantaneous burst of coeval stars sharing initial chemical composition and evolving along isochrones."
 ---
-{% raw %}
 a **single stellar population (SSP)** is an idealized assembly of coeval stars formed instantaneously at $t = 0$ from gas of uniform chemical composition. It represents the elementary "basis function" of **stellar population synthesis (SPS)**: any complex star formation history in an unresolved galaxy can be synthesized by integrating a linear combination of SSPs over time and metallicity.
 
 ---
@@ -86,17 +83,17 @@ $$L_\lambda^{\rm CSP}(t) = \int_0^t \psi(t - \tau)\,L_\lambda^{\rm SSP}(\tau, Z(
 
 - [Observational_Astrophysics_MOC](../../04_Atlas/Observational_Astrophysics_MOC.html)
 - [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
-- [Stellar population synthesis](./Stellar%20population%20synthesis.html)
-- [SPS code families](./SPS%20code%20families.html)
-- [Initial mass function](./Initial%20mass%20function.html)
-- [Stellar populations I II III](./Stellar%20populations%20I%20II%20III.html)
-- [Color-magnitude diagrams of clusters](./Color-magnitude%20diagrams%20of%20clusters.html)
-- [Cluster ages from CMD turnoff](./Cluster%20ages%20from%20CMD%20turnoff.html)
-- [Lick indices](./Lick%20indices.html)
-- [Age-metallicity degeneracy](./Age-metallicity%20degeneracy.html)
-- [Star formation history of a population](./Star%20formation%20history%20of%20a%20population.html)
-- [Mass-luminosity relation](./Mass-luminosity%20relation.html)
-- [Stellar mass estimation in unresolved populations](./Stellar%20mass%20estimation%20in%20unresolved%20populations.html)
+- [Stellar population synthesis](Stellar%20population%20synthesis.html)
+- [SPS code families](SPS%20code%20families.html)
+- [Initial mass function](Initial%20mass%20function.html)
+- [Stellar populations I II III](Stellar%20populations%20I%20II%20III.html)
+- [Color-magnitude diagrams of clusters](Color-magnitude%20diagrams%20of%20clusters.html)
+- [Cluster ages from CMD turnoff](Cluster%20ages%20from%20CMD%20turnoff.html)
+- [Lick indices](Lick%20indices.html)
+- [Age-metallicity degeneracy](Age-metallicity%20degeneracy.html)
+- [Star formation history of a population](Star%20formation%20history%20of%20a%20population.html)
+- [Mass-luminosity relation](Mass-luminosity%20relation.html)
+- [Stellar mass estimation in unresolved populations](Stellar%20mass%20estimation%20in%20unresolved%20populations.html)
 
 ---
 
@@ -119,48 +116,47 @@ $$L_\lambda^{\rm CSP}(t) = \int_0^t \psi(t - \tau)\,L_\lambda^{\rm SSP}(\tau, Z(
 
 ![obs_sps-18.png](../../assets/images/obs_sps-18.png)
 *Evolution of SSP spectrum from 1 Myr to 14 Gyr.*
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (38)</h4>
+  <h4 class="backlinks-title">Linked References (37)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Age%20estimation%20in%20unresolved%20populations.html" class="backlink-item">Age estimation in unresolved populations</a></li>
-    <li class="backlink-item-wrap"><a href="./Age-metallicity%20degeneracy.html" class="backlink-item">Age-metallicity degeneracy</a></li>
-    <li class="backlink-item-wrap"><a href="./Age-metallicity%20relation%20of%20Galactic%20GCs.html" class="backlink-item">Age-metallicity relation of Galactic GCs</a></li>
-    <li class="backlink-item-wrap"><a href="./Asymptotic%20giant%20branch%20AGB.html" class="backlink-item">Asymptotic giant branch AGB</a></li>
-    <li class="backlink-item-wrap"><a href="./Binary%20stars%20in%20CMD.html" class="backlink-item">Binary stars in CMD</a></li>
-    <li class="backlink-item-wrap"><a href="./Blue%20stragglers%20in%20star%20clusters.html" class="backlink-item">Blue stragglers in star clusters</a></li>
-    <li class="backlink-item-wrap"><a href="./CMD%20constraints%20on%20disk%20vs%20halo%20populations.html" class="backlink-item">CMD constraints on disk vs halo populations</a></li>
-    <li class="backlink-item-wrap"><a href="./Calcium%20and%20CaII%20H%2BK.html" class="backlink-item">Calcium and CaII H+K</a></li>
-    <li class="backlink-item-wrap"><a href="./Calcium%20population%20vs%20T.html" class="backlink-item">Calcium population vs T</a></li>
-    <li class="backlink-item-wrap"><a href="./Dust%20attenuation%20in%20synthetic%20populations.html" class="backlink-item">Dust attenuation in synthetic populations</a></li>
-    <li class="backlink-item-wrap"><a href="./Early-type%20galaxy%20stellar%20populations.html" class="backlink-item">Early-type galaxy stellar populations</a></li>
-    <li class="backlink-item-wrap"><a href="./Extended%20main%20sequence%20turn-off%20eMSTO.html" class="backlink-item">Extended main sequence turn-off eMSTO</a></li>
-    <li class="backlink-item-wrap"><a href="./Extragalactic%20star%20clusters.html" class="backlink-item">Extragalactic star clusters</a></li>
-    <li class="backlink-item-wrap"><a href="./Globular%20clusters%20as%20SSP%20laboratories.html" class="backlink-item">Globular clusters as SSP laboratories</a></li>
-    <li class="backlink-item-wrap"><a href="./H-alpha%20SFR%20tracer.html" class="backlink-item">H-alpha SFR tracer</a></li>
-    <li class="backlink-item-wrap"><a href="./IMF%20from%20cluster%20luminosity%20functions.html" class="backlink-item">IMF from cluster luminosity functions</a></li>
-    <li class="backlink-item-wrap"><a href="./Initial%20mass%20function.html" class="backlink-item">Initial mass function</a></li>
-    <li class="backlink-item-wrap"><a href="./Initial%20vs%20present-day%20mass%20function.html" class="backlink-item">Initial vs present-day mass function</a></li>
-    <li class="backlink-item-wrap"><a href="./Interstellar%20reddening%20and%20the%20reddening%20vector.html" class="backlink-item">Interstellar reddening and the reddening vector</a></li>
-    <li class="backlink-item-wrap"><a href="./Isochrones%20and%20isochrone%20fitting.html" class="backlink-item">Isochrones and isochrone fitting</a></li>
-    <li class="backlink-item-wrap"><a href="./Lick%20indices.html" class="backlink-item">Lick indices</a></li>
-    <li class="backlink-item-wrap"><a href="./Mass-luminosity%20relation.html" class="backlink-item">Mass-luminosity relation</a></li>
-    <li class="backlink-item-wrap"><a href="./Metallicity%20and%20chemical%20evolution.html" class="backlink-item">Metallicity and chemical evolution</a></li>
-    <li class="backlink-item-wrap"><a href="./Multiple%20populations%20in%20GCs%20discovery.html" class="backlink-item">Multiple populations in GCs discovery</a></li>
+    <li class="backlink-item-wrap"><a href="Age%20estimation%20in%20unresolved%20populations.html" class="backlink-item">Age estimation in unresolved populations</a></li>
+    <li class="backlink-item-wrap"><a href="Age-metallicity%20degeneracy.html" class="backlink-item">Age-metallicity degeneracy</a></li>
+    <li class="backlink-item-wrap"><a href="Age-metallicity%20relation%20of%20Galactic%20GCs.html" class="backlink-item">Age-metallicity relation of Galactic GCs</a></li>
+    <li class="backlink-item-wrap"><a href="Asymptotic%20giant%20branch%20AGB.html" class="backlink-item">Asymptotic giant branch AGB</a></li>
+    <li class="backlink-item-wrap"><a href="Binary%20stars%20in%20CMD.html" class="backlink-item">Binary stars in CMD</a></li>
+    <li class="backlink-item-wrap"><a href="Blue%20stragglers%20in%20star%20clusters.html" class="backlink-item">Blue stragglers in star clusters</a></li>
+    <li class="backlink-item-wrap"><a href="CMD%20constraints%20on%20disk%20vs%20halo%20populations.html" class="backlink-item">CMD constraints on disk vs halo populations</a></li>
+    <li class="backlink-item-wrap"><a href="Calcium%20and%20CaII%20H%2BK.html" class="backlink-item">Calcium and CaII H+K</a></li>
+    <li class="backlink-item-wrap"><a href="Calcium%20population%20vs%20T.html" class="backlink-item">Calcium population vs T</a></li>
+    <li class="backlink-item-wrap"><a href="Dust%20attenuation%20in%20synthetic%20populations.html" class="backlink-item">Dust attenuation in synthetic populations</a></li>
+    <li class="backlink-item-wrap"><a href="Extended%20main%20sequence%20turn-off%20eMSTO.html" class="backlink-item">Extended main sequence turn-off eMSTO</a></li>
+    <li class="backlink-item-wrap"><a href="Extragalactic%20star%20clusters.html" class="backlink-item">Extragalactic star clusters</a></li>
+    <li class="backlink-item-wrap"><a href="Globular%20clusters%20as%20SSP%20laboratories.html" class="backlink-item">Globular clusters as SSP laboratories</a></li>
+    <li class="backlink-item-wrap"><a href="H-alpha%20SFR%20tracer.html" class="backlink-item">H-alpha SFR tracer</a></li>
+    <li class="backlink-item-wrap"><a href="IMF%20from%20cluster%20luminosity%20functions.html" class="backlink-item">IMF from cluster luminosity functions</a></li>
+    <li class="backlink-item-wrap"><a href="Initial%20mass%20function.html" class="backlink-item">Initial mass function</a></li>
+    <li class="backlink-item-wrap"><a href="Initial%20vs%20present-day%20mass%20function.html" class="backlink-item">Initial vs present-day mass function</a></li>
+    <li class="backlink-item-wrap"><a href="Interstellar%20reddening%20and%20the%20reddening%20vector.html" class="backlink-item">Interstellar reddening and the reddening vector</a></li>
+    <li class="backlink-item-wrap"><a href="Isochrones%20and%20isochrone%20fitting.html" class="backlink-item">Isochrones and isochrone fitting</a></li>
+    <li class="backlink-item-wrap"><a href="Lick%20indices.html" class="backlink-item">Lick indices</a></li>
+    <li class="backlink-item-wrap"><a href="Mass-luminosity%20relation.html" class="backlink-item">Mass-luminosity relation</a></li>
+    <li class="backlink-item-wrap"><a href="Metallicity%20and%20chemical%20evolution.html" class="backlink-item">Metallicity and chemical evolution</a></li>
+    <li class="backlink-item-wrap"><a href="Multiple%20populations%20in%20GCs%20discovery.html" class="backlink-item">Multiple populations in GCs discovery</a></li>
+    <li class="backlink-item-wrap"><a href="Open%20clusters%20as%20young%20SSP%20laboratories.html" class="backlink-item">Open clusters as young SSP laboratories</a></li>
+    <li class="backlink-item-wrap"><a href="Photometric%20redshifts.html" class="backlink-item">Photometric redshifts</a></li>
+    <li class="backlink-item-wrap"><a href="Resolved%20vs%20unresolved%20stellar%20populations.html" class="backlink-item">Resolved vs unresolved stellar populations</a></li>
+    <li class="backlink-item-wrap"><a href="SED%20fitting%20basics.html" class="backlink-item">SED fitting basics</a></li>
+    <li class="backlink-item-wrap"><a href="SPS%20code%20families.html" class="backlink-item">SPS code families</a></li>
+    <li class="backlink-item-wrap"><a href="Star%20cluster%20types.html" class="backlink-item">Star cluster types</a></li>
+    <li class="backlink-item-wrap"><a href="Star%20formation%20history%20of%20a%20population.html" class="backlink-item">Star formation history of a population</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20evolutionary%20phases%20on%20the%20CMD.html" class="backlink-item">Stellar evolutionary phases on the CMD</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20mass%20estimation%20in%20unresolved%20populations.html" class="backlink-item">Stellar mass estimation in unresolved populations</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20mass%20function%20xi%28M%29.html" class="backlink-item">Stellar mass function xi(M)</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20population%20synthesis.html" class="backlink-item">Stellar population synthesis</a></li>
+    <li class="backlink-item-wrap"><a href="Thermal%20continuum%20from%20stellar%20photosphere.html" class="backlink-item">Thermal continuum from stellar photosphere</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Open%20clusters%20as%20young%20SSP%20laboratories.html" class="backlink-item">Open clusters as young SSP laboratories</a></li>
-    <li class="backlink-item-wrap"><a href="./Photometric%20redshifts.html" class="backlink-item">Photometric redshifts</a></li>
-    <li class="backlink-item-wrap"><a href="./Resolved%20vs%20unresolved%20stellar%20populations.html" class="backlink-item">Resolved vs unresolved stellar populations</a></li>
-    <li class="backlink-item-wrap"><a href="./SED%20fitting%20basics.html" class="backlink-item">SED fitting basics</a></li>
-    <li class="backlink-item-wrap"><a href="./SPS%20code%20families.html" class="backlink-item">SPS code families</a></li>
-    <li class="backlink-item-wrap"><a href="./Star%20cluster%20types.html" class="backlink-item">Star cluster types</a></li>
-    <li class="backlink-item-wrap"><a href="./Star%20formation%20history%20of%20a%20population.html" class="backlink-item">Star formation history of a population</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20evolutionary%20phases%20on%20the%20CMD.html" class="backlink-item">Stellar evolutionary phases on the CMD</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20mass%20estimation%20in%20unresolved%20populations.html" class="backlink-item">Stellar mass estimation in unresolved populations</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20mass%20function%20xi%28M%29.html" class="backlink-item">Stellar mass function xi(M)</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20population%20synthesis.html" class="backlink-item">Stellar population synthesis</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Thermal%20continuum%20from%20stellar%20photosphere.html" class="backlink-item">Thermal continuum from stellar photosphere</a></li>
   </ul>
 </div>
+

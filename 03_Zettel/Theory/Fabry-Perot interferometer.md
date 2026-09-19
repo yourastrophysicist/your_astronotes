@@ -2,7 +2,6 @@
 layout: "default"
 title: "Fabry-Perot interferometer"
 ---
-{% raw %}
 # Fabry-Perot interferometer
 
 a multi-beam interferometer: light bounces *many times* between two parallel partially-reflective mirrors. an *infinite series* of beams with progressively smaller amplitudes interfere at the output. the result is a transmission function with extremely *sharp* peaks at wavelengths satisfying constructive interference on every pass.
@@ -106,8 +105,7 @@ both are amplitude-division; the difference is whether the cavity is "open" (two
 
 ## see also
 
-- [Amplitude-division interferometers](./Amplitude-division%20interferometers.html)
+- [Amplitude-division interferometers](Amplitude-division%20interferometers.html)
 - [Michelson laboratory interferometer](interf/Michelson%20laboratory%20interferometer.html)
 - [Beam splitter physics](interf/Beam%20splitter%20physics.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

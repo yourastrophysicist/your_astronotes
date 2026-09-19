@@ -2,7 +2,6 @@
 layout: "default"
 title: "General_Relativity_MOC"
 ---
-{% raw %}
 # General Relativity for Astrophysics and Cosmology, Map of Content
 
 A.Y. 2025/2026, University of Padua. Master's-level course taught in the first semester. The exam (oral, with written portion) draws from a published list of 20 questions.
@@ -349,8 +348,8 @@ every question is a calculation that lives inside one of the eight blocks. when 
 
 GR is the geometric trunk that other courses graft onto.
 
-- **[Observational_Cosmology_MOC](./Observational_Cosmology_MOC.html)** is the same Block 8 (FLRW + Friedmann), but turned outward toward observation. distance ladders, the K-correction, surface-brightness dimming, the CMB, all sit on top of FLRW. when i derive Friedmann here, i am building the foundation that course needs.
-- **[Lab_High-Energy_MOC](./Lab_High-Energy_MOC.html)** turns Schwarzschild into observables. ISCO sets the inner edge of accretion disks (and hence the $L_{\rm Edd}$-scale luminosity). the photon sphere becomes the bright ring in EHT images. gravitational redshift shows up in iron K$\alpha$ line shapes from neutron stars and BHs.
+- **[Observational_Cosmology_MOC](Observational_Cosmology_MOC.html)** is the same Block 8 (FLRW + Friedmann), but turned outward toward observation. distance ladders, the K-correction, surface-brightness dimming, the CMB, all sit on top of FLRW. when i derive Friedmann here, i am building the foundation that course needs.
+- **[Lab_High-Energy_MOC](Lab_High-Energy_MOC.html)** turns Schwarzschild into observables. ISCO sets the inner edge of accretion disks (and hence the $L_{\rm Edd}$-scale luminosity). the photon sphere becomes the bright ring in EHT images. gravitational redshift shows up in iron K$\alpha$ line shapes from neutron stars and BHs.
 - **Fundamentals of Astrophysics and Cosmology** (the parallel course): Newtonian-fluid derivation of Friedmann, and the basics of CMB physics. it is GR cosmology's "easier sister." i should read both side by side.
 
 ---
@@ -377,7 +376,7 @@ GR is the geometric trunk that other courses graft onto.
 
 > general relativity replaces Newton's "gravity is a force" with "gravity is geometry." spacetime is a Lorentzian manifold whose metric $g_{\mu\nu}$ encodes how distances are measured. coordinate axes generally tilt as i move around, captured by the Christoffel symbols $\Gamma^\alpha{}_{\mu\nu}$, the unique symbols that are both metric-compatible and torsion-free. true curvature is captured by the Riemann tensor, defined by the path-dependence of parallel transport, and physically by the relative acceleration of nearby geodesics (tidal forces). matter sources curvature through Einstein's equation $G_{\mu\nu} = 8\pi G T_{\mu\nu}$, where $G_{\mu\nu} = R_{\mu\nu} - \tfrac12 g_{\mu\nu}R$ is the unique "second-derivative of metric" combination that is automatically conserved. matter responds by following geodesics $\ddot x + \Gamma \dot x \dot x = 0$. solving Einstein's equation in special cases gives Schwarzschild (spherical vacuum, models stars and black holes), FLRW (homogeneous-isotropic, models the universe), and linearized perturbations on Minkowski (gravitational waves and the Newtonian limit). every measurable consequence of GR, perihelion precession, light deflection, gravitational redshift, expansion of the universe, gravitational waves, comes out of this single chain.
 
-see also: [Observational_Cosmology_MOC](./Observational_Cosmology_MOC.html) · [Lab_High-Energy_MOC](./Lab_High-Energy_MOC.html) · Interests_MOC
+see also: [Observational_Cosmology_MOC](Observational_Cosmology_MOC.html) · [Lab_High-Energy_MOC](Lab_High-Energy_MOC.html) · Interests_MOC
 
 ---
 
@@ -673,85 +672,3 @@ The oral examination for General Relativity draws directly from a published bank
 | **Mercury Perihelion Shift** | $\Delta\phi = \frac{6\pi GM}{c^2 a(1-e^2)}$ | Relativistic precession advance per orbital revolution |
 | **Gravitational Wave Strain** | $h_{ij}^{\rm TT} = \frac{2G}{c^4 r} \ddot{I}_{ij}^{\rm TT}(t - r/c)$ | Quadrupole radiation formula for transverse-traceless GW strain |
 | **Friedmann Acceleration Eq** | $\frac{\ddot{a}}{a} = -\frac{4\pi G}{3}(\rho + 3p) + \frac{\Lambda}{3}$ | Acceleration of scale factor governed by active gravitational mass |
-{% endraw %}
-
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (75)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./04_Atlas.html" class="backlink-item">04_Atlas</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Affine%20parameter.html" class="backlink-item">Affine parameter</a></li>
-    <li class="backlink-item-wrap"><a href="./Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Book/Baumann%20GR/Baumann%20GR.html" class="backlink-item">Baumann GR</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Bianchi%20identities.html" class="backlink-item">Bianchi identities</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Birkhoff%20theorem.html" class="backlink-item">Birkhoff theorem</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Book/Baumann%20GR/Ch%201%20-%20Gravity%20is%20Geometry.html" class="backlink-item">Ch 1 - Gravity is Geometry</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Book/Baumann%20GR/Ch%202%20-%20Some%20Differential%20Geometry.html" class="backlink-item">Ch 2 - Some Differential Geometry</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Book/Baumann%20GR/Ch%203%20-%20A%20First%20Look%20at%20Geodesics.html" class="backlink-item">Ch 3 - A First Look at Geodesics</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Book/Baumann%20GR/Ch%204%20-%20Spacetime%20Curvature.html" class="backlink-item">Ch 4 - Spacetime Curvature</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Book/Baumann%20GR/Ch%205%20-%20The%20Einstein%20Equation.html" class="backlink-item">Ch 5 - The Einstein Equation</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Book/Baumann%20GR/Ch%206%20-%20Black%20Holes.html" class="backlink-item">Ch 6 - Black Holes</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Book/Baumann%20GR/Ch%207%20-%20Cosmology.html" class="backlink-item">Ch 7 - Cosmology</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Book/Baumann%20GR/Ch%208%20-%20Gravitational%20Waves.html" class="backlink-item">Ch 8 - Gravitational Waves</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Book/Baumann%20GR/Ch%209%20-%20Inflation%20and%20Primordial%20Gravitational%20Waves.html" class="backlink-item">Ch 9 - Inflation and Primordial Gravitational Waves</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Christoffel%20symbols.html" class="backlink-item">Christoffel symbols</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Circular%20orbits%20in%20Schwarzschild.html" class="backlink-item">Circular orbits in Schwarzschild</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Continuity%20equation.html" class="backlink-item">Continuity equation</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Coordinate%20transformations%20and%20tensors.html" class="backlink-item">Coordinate transformations and tensors</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Cosmic%20eras.html" class="backlink-item">Cosmic eras</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Cosmological%20constant.html" class="backlink-item">Cosmological constant</a></li>
-    <li class="backlink-item-wrap"><a href="./Cosmology_of_the_Early_Universe_MOC.html" class="backlink-item">Cosmology_of_the_Early_Universe_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Counting%20Riemann%20components.html" class="backlink-item">Counting Riemann components</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Covariant%20derivative.html" class="backlink-item">Covariant derivative</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Eddington-Finkelstein%20and%20Kruskal.html" class="backlink-item">Eddington-Finkelstein and Kruskal</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Effective%20potential%20approach.html" class="backlink-item">Effective potential approach</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Einstein%20equations.html" class="backlink-item">Einstein equations</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Einstein%20tensor%20and%20Bianchi.html" class="backlink-item">Einstein tensor and Bianchi</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Equation%20of%20state%20and%20density%20scaling.html" class="backlink-item">Equation of state and density scaling</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/FLRW%20metric.html" class="backlink-item">FLRW metric</a></li>
-    <li class="backlink-item-wrap"><a href="./Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Friedmann%20equations.html" class="backlink-item">Friedmann equations</a></li>
-    <li class="backlink-item-wrap"><a href="./Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/GW%20energy%20and%20angular%20momentum.html" class="backlink-item">GW energy and angular momentum</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Geodesic%20deviation.html" class="backlink-item">Geodesic deviation</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Geodesic%20deviation%20under%20a%20GW.html" class="backlink-item">Geodesic deviation under a GW</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Geodesic%20equation.html" class="backlink-item">Geodesic equation</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Gravitational%20microlensing%20of%20planetary%20systems.html" class="backlink-item">Gravitational microlensing of planetary systems</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Killing%20vectors%20and%20conserved%20quantities.html" class="backlink-item">Killing vectors and conserved quantities</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Levi-Civita%20connection.html" class="backlink-item">Levi-Civita connection</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Light%20deflection.html" class="backlink-item">Light deflection</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Linearized%20Christoffel%20and%20Riemann.html" class="backlink-item">Linearized Christoffel and Riemann</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Linearized%20gauge%20transformations.html" class="backlink-item">Linearized gauge transformations</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Linearized%20metric%20perturbation.html" class="backlink-item">Linearized metric perturbation</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Locally%20inertial%20frame.html" class="backlink-item">Locally inertial frame</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Lorenz%20gauge.html" class="backlink-item">Lorenz gauge</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Manifold%20metric%20and%20signature.html" class="backlink-item">Manifold metric and signature</a></li>
-    <li class="backlink-item-wrap"><a href="./Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Matter%20radiation%20equality.html" class="backlink-item">Matter radiation equality</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Metric%20compatibility.html" class="backlink-item">Metric compatibility</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Newtonian%20limit%20of%20GR.html" class="backlink-item">Newtonian limit of GR</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Parallel%20transport.html" class="backlink-item">Parallel transport</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Perihelion%20precession.html" class="backlink-item">Perihelion precession</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Photon%20sphere.html" class="backlink-item">Photon sphere</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Photon%20trajectories%20and%20impact%20parameter.html" class="backlink-item">Photon trajectories and impact parameter</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Plus%20and%20cross%20polarizations.html" class="backlink-item">Plus and cross polarizations</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Quadrupole%20formula.html" class="backlink-item">Quadrupole formula</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Radial%20infall.html" class="backlink-item">Radial infall</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Ricci%20tensor%20and%20scalar.html" class="backlink-item">Ricci tensor and scalar</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Riemann%20tensor.html" class="backlink-item">Riemann tensor</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Riemann%20tensor%20symmetries.html" class="backlink-item">Riemann tensor symmetries</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/SVT%20decomposition.html" class="backlink-item">SVT decomposition</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Schwarzschild%20Christoffels.html" class="backlink-item">Schwarzschild Christoffels</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Schwarzschild%20effective%20potential.html" class="backlink-item">Schwarzschild effective potential</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Schwarzschild%20horizon.html" class="backlink-item">Schwarzschild horizon</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Schwarzschild%20metric.html" class="backlink-item">Schwarzschild metric</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Sectional%20and%20Gaussian%20curvature.html" class="backlink-item">Sectional and Gaussian curvature</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Spatial%20curvature%20parameter%20k.html" class="backlink-item">Spatial curvature parameter k</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Stress-energy%20tensor.html" class="backlink-item">Stress-energy tensor</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Timelike%20vs%20null%20vs%20spacelike.html" class="backlink-item">Timelike vs null vs spacelike</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Trace-reversed%20Einstein%20equations.html" class="backlink-item">Trace-reversed Einstein equations</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Trace-reversed%20perturbation.html" class="backlink-item">Trace-reversed perturbation</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Transverse%20traceless%20gauge.html" class="backlink-item">Transverse traceless gauge</a></li>
-  </ul>
-</div>

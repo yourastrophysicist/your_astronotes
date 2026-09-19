@@ -2,7 +2,6 @@
 layout: "default"
 title: "Atmospheric extinction"
 ---
-{% raw %}
 at all transparent wavelengths the atmosphere still **dims** the light in a wavelength-dependent way. the dimming follows Beer-Lambert and grows with the path length through the atmosphere. it is the thing every photometric measurement must correct for.
 
 ## the geometry: airmass
@@ -70,10 +69,9 @@ cloud, varying aerosol, or jet stream cause $k$ to vary on minute timescales. th
 
 ## see also
 
-- [Earth atmosphere for observations](./Earth%20atmosphere%20for%20observations.html)
+- [Earth atmosphere for observations](Earth%20atmosphere%20for%20observations.html)
 - [Atmospheric transparency windows](interf/Atmospheric%20transparency%20windows.html)
-- [Magnitudes and photometric systems](./Magnitudes%20and%20photometric%20systems.html)
-- [Photometric standard stars](./Photometric%20standard%20stars.html)
-- [Distance modulus](./Distance%20modulus.html)
-- [Interstellar absorption](./Interstellar%20absorption.html) — the analogous problem for ISM dust
-{% endraw %}
+- [Magnitudes and photometric systems](Magnitudes%20and%20photometric%20systems.html)
+- [Photometric standard stars](Photometric%20standard%20stars.html)
+- [Distance modulus](Distance%20modulus.html)
+- [Interstellar absorption](Interstellar%20absorption.html) — the analogous problem for ISM dust

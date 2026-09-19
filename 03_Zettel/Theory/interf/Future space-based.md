@@ -2,7 +2,6 @@
 layout: "default"
 title: "Future space-based"
 ---
-{% raw %}
 # Future space-based interferometers
 
 space mission concepts for interferometry without atmospheric limitations. baselines limited only by formation-flying capabilities. designed for direct exoplanet imaging, ultra-high-resolution AGN observations, and other extreme-resolution science.
@@ -114,20 +113,20 @@ these costs require sustained political support over decades. science cases must
 
 ## see also
 
-- [Future ground-based optical](./Future%20ground-based%20optical.html)
-- [Hypertelescope](./Hypertelescope.html)
-- [Bracewell nuller](./Bracewell%20nuller.html)
-- [Exoplanet imaging](./Exoplanet%20imaging.html)
+- [Future ground-based optical](Future%20ground-based%20optical.html)
+- [Hypertelescope](Hypertelescope.html)
+- [Bracewell nuller](Bracewell%20nuller.html)
+- [Exoplanet imaging](Exoplanet%20imaging.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../Future%20ground-based%20optical.html" class="backlink-item">Future ground-based optical</a></li>
-    <li class="backlink-item-wrap"><a href="./Future%20ground-based%20optical.html" class="backlink-item">Future ground-based optical</a></li>
     <li class="backlink-item-wrap"><a href="../Lunar%20interferometry%20concepts.html" class="backlink-item">Lunar interferometry concepts</a></li>
-    <li class="backlink-item-wrap"><a href="./Lunar%20interferometry%20concepts.html" class="backlink-item">Lunar interferometry concepts</a></li>
+    <li class="backlink-item-wrap"><a href="Future%20ground-based%20optical.html" class="backlink-item">Future ground-based optical</a></li>
+    <li class="backlink-item-wrap"><a href="Lunar%20interferometry%20concepts.html" class="backlink-item">Lunar interferometry concepts</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

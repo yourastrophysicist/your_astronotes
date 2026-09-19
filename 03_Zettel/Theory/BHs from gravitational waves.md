@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "BHs from gravitational waves"
-name: "BHs from gravitational waves"
-description: "LIGO-Virgo BH-BH mergers reveal a population of stellar-mass and intermediate-mass BHs, with some events showing features (high mass, high spin, eccentricity) consistent with dynamical formation in dense star clusters"
 ---
-{% raw %}
 since GW150914 in 2015, the **LIGO-Virgo gravitational wave network** has detected $\sim 100$ binary black hole (BBH) mergers, opening a new observational window on the BH population. some events show features (high mass, high spin, eccentric orbits) consistent with **dynamical formation in dense star clusters**, providing a multi-messenger link to globular cluster physics.
 
 ## the GW BH catalogue (GWTC-3)
@@ -107,21 +104,21 @@ it represents the new frontier of stellar populations + cluster dynamics merging
 
 ## see also
 
-- [Black holes in globular clusters](./Black%20holes%20in%20globular%20clusters.html)
-- [Hunting BHs via radial velocities](./Hunting%20BHs%20via%20radial%20velocities.html)
-- [Intermediate-mass BHs in GCs](./Intermediate-mass%20BHs%20in%20GCs.html)
-- [Millisecond pulsars in GCs](./Millisecond%20pulsars%20in%20GCs.html)
-- [X-ray sources in globular clusters](./X-ray%20sources%20in%20globular%20clusters.html)
-- [Cepheids and supernovae](./Cepheids%20and%20supernovae.html)
+- [Black holes in globular clusters](Black%20holes%20in%20globular%20clusters.html)
+- [Hunting BHs via radial velocities](Hunting%20BHs%20via%20radial%20velocities.html)
+- [Intermediate-mass BHs in GCs](Intermediate-mass%20BHs%20in%20GCs.html)
+- [Millisecond pulsars in GCs](Millisecond%20pulsars%20in%20GCs.html)
+- [X-ray sources in globular clusters](X-ray%20sources%20in%20globular%20clusters.html)
+- [Cepheids and supernovae](Cepheids%20and%20supernovae.html)
 - [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Black%20holes%20in%20globular%20clusters.html" class="backlink-item">Black holes in globular clusters</a></li>
-    <li class="backlink-item-wrap"><a href="./Hunting%20BHs%20via%20radial%20velocities.html" class="backlink-item">Hunting BHs via radial velocities</a></li>
-    <li class="backlink-item-wrap"><a href="./Intermediate-mass%20BHs%20in%20GCs.html" class="backlink-item">Intermediate-mass BHs in GCs</a></li>
+    <li class="backlink-item-wrap"><a href="Black%20holes%20in%20globular%20clusters.html" class="backlink-item">Black holes in globular clusters</a></li>
+    <li class="backlink-item-wrap"><a href="Hunting%20BHs%20via%20radial%20velocities.html" class="backlink-item">Hunting BHs via radial velocities</a></li>
+    <li class="backlink-item-wrap"><a href="Intermediate-mass%20BHs%20in%20GCs.html" class="backlink-item">Intermediate-mass BHs in GCs</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

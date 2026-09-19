@@ -1,13 +1,8 @@
 ---
 layout: "default"
 title: "Carraro_04_Massive_Stars_Feedback_and_Stellar_Winds"
-name: "Carraro 04 - Massive Stars Feedback and Stellar Winds"
-course: "Astrophysics of the Interstellar Medium"
-lecturer: "Prof. Giovanni Carraro"
-session: "04"
 tags: ""
 ---
-{% raw %}
 # Carraro 04 - Massive Stars Feedback and Stellar Winds
 
 *Course: Astrophysics of the Interstellar Medium, Master in Astrophysics and Cosmology, Università degli Studi di Padova*  
@@ -155,14 +150,12 @@ stellar wind bubbles carve out parsec-scale voids in the neutral gas and sweep u
 - [Carraro_06_Supernovae_and_Hot_Ionized_Medium](./Carraro_06_Supernovae_and_Hot_Ionized_Medium.html)
 - [Superbubbles galactic chimneys and fountains](../../../03_Zettel/Theory/Superbubbles%20galactic%20chimneys%20and%20fountains.html)
 - [Stellar evolutionary phases on the CMD](../../../03_Zettel/Theory/Stellar%20evolutionary%20phases%20on%20the%20CMD.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
+  <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html" class="backlink-item">Astrophysics_of_the_Interstellar_Medium_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Carraro_03_HII_Regions_and_Photoionized_Gas.html" class="backlink-item">Carraro_03_HII_Regions_and_Photoionized_Gas</a></li>
-    <li class="backlink-item-wrap"><a href="./Carraro_06_Supernovae_and_Hot_Ionized_Medium.html" class="backlink-item">Carraro_06_Supernovae_and_Hot_Ionized_Medium</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Line-driven%20stellar%20winds%20and%20P-Cygni%20profiles.html" class="backlink-item">Line-driven stellar winds and P-Cygni profiles</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html" class="backlink-item">Astrophysics_of_the_Interstellar_Medium_MOC</a></li>
   </ul>
 </div>
+

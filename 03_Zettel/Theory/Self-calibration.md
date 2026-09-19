@@ -2,7 +2,6 @@
 layout: "default"
 title: "Self-calibration"
 ---
-{% raw %}
 # Self-calibration
 
 iterative refinement of gain and phase solutions using the *science target itself* as a calibrator. *if* the target is bright enough on individual baselines to detect, self-cal almost always improves image quality dramatically. it is the secret sauce of high-dynamic-range radio imaging.
@@ -122,4 +121,3 @@ EHT's M87 image is the result of massive self-calibration combined with multiple
 - [CLEAN algorithm](interf/CLEAN%20algorithm.html)
 - [The phase problem in interferometry](interf/The%20phase%20problem%20in%20interferometry.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

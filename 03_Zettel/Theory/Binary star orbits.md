@@ -2,7 +2,6 @@
 layout: "default"
 title: "Binary star orbits"
 ---
-{% raw %}
 # Binary star orbits
 
 interferometric measurement of binary-star orbits at sub-mas precision. resolves the orbital motion year by year, providing dynamical masses (via Kepler's third law) at $\lesssim 1\%$ precision. *the* gold standard for stellar mass measurements.
@@ -109,4 +108,3 @@ these will yield ~10000 dynamical masses by ~2035, providing definitive empirica
 
 ![Binary_star_orbits.jpg](../../assets/images/Binary_star_orbits.jpg)
 *High-precision astrometric orbit reconstruction of close binary stars using interferometric visibility fringes and closure phase fitting.*
-{% endraw %}

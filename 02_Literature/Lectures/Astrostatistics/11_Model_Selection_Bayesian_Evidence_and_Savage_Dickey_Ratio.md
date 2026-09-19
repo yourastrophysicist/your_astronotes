@@ -2,7 +2,6 @@
 layout: "default"
 title: "11_Model_Selection_Bayesian_Evidence_and_Savage_Dickey_Ratio"
 ---
-{% raw %}
 # Model Selection, Bayesian Evidence, and the Savage-Dickey Ratio
 
 Graduate lecture notes in Astro-Statistics and Cosmology, taught by Prof. Michele Liguori at the University of Padua.
@@ -232,16 +231,13 @@ Instead, the researcher performs standard MCMC sampling of the extended model $M
 
 ![Jeffreys Scale of Evidence and Model Comparison](../../../assets/images/astrostat_model_p04.png)
 *Figure AST-09: Jeffreys Scale and Interpretation of the Bayes Factor $\ln B_{01}$. In empirical astrophysics, $\ln B > 2.5$ denotes moderate evidence, while $\ln B > 5$ indicates decisive evidence, directly applied to testing flat $\Lambda\mathrm{CDM}$ vs dynamical dark energy $w(a)$ or sterile neutrino extensions.*
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
+  <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./01_Plausible_Reasoning_Cox_Theorem_and_Bayesian_Foundations.html" class="backlink-item">01_Plausible_Reasoning_Cox_Theorem_and_Bayesian_Foundations</a></li>
-    <li class="backlink-item-wrap"><a href="./04_Frequentist_vs_Bayesian_Inference_and_Confidence_Intervals.html" class="backlink-item">04_Frequentist_vs_Bayesian_Inference_and_Confidence_Intervals</a></li>
-    <li class="backlink-item-wrap"><a href="./10_Prior_Assignment_Transformation_Invariance_and_Maximum_Entropy.html" class="backlink-item">10_Prior_Assignment_Transformation_Invariance_and_Maximum_Entropy</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Bayesian%20evidence%20and%20model%20selection.html" class="backlink-item">Bayesian evidence and model selection</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Savage-Dickey%20density%20ratio%20for%20nested%20model%20comparison.html" class="backlink-item">Savage-Dickey density ratio for nested model comparison</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
   </ul>
 </div>
+

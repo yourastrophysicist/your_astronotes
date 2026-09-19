@@ -2,7 +2,6 @@
 layout: "default"
 title: "Box-Muller transform for Gaussian random numbers"
 ---
-{% raw %}
 # Box-Muller transform for Gaussian random numbers
 
 a beautiful trick: convert two uniform random numbers into two independent standard normal random numbers using nothing but trigonometry. it sidesteps the un-invertibility of the Gaussian CDF.
@@ -99,9 +98,9 @@ mean should be $\approx 0$, std $\approx 1$.
 
 ## see also
 
-- [Inverse transform sampling](./Inverse%20transform%20sampling.html) — the general method that fails for Gaussian
-- [Rejection sampling](./Rejection%20sampling.html)
-- [Pseudo-random number generators](./Pseudo-random%20number%20generators.html)
+- [Inverse transform sampling](Inverse%20transform%20sampling.html) — the general method that fails for Gaussian
+- [Rejection sampling](Rejection%20sampling.html)
+- [Pseudo-random number generators](Pseudo-random%20number%20generators.html)
 - [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
 
 ---
@@ -122,15 +121,15 @@ mean should be $\approx 0$, std $\approx 1$.
 
 ![mapelli_fig20_p192.png](../../assets/images/mapelli_fig20_p66.png)
 *Metropolis-Hastings Markov Chain Monte Carlo (MCMC) acceptance probability ratio $\alpha = \min(1, \frac{P(x')q(x \mid x')}{P(x)q(x' \mid x)})$.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Inverse%20transform%20sampling.html" class="backlink-item">Inverse transform sampling</a></li>
+    <li class="backlink-item-wrap"><a href="Inverse%20transform%20sampling.html" class="backlink-item">Inverse transform sampling</a></li>
+    <li class="backlink-item-wrap"><a href="Pseudo-random%20number%20generators.html" class="backlink-item">Pseudo-random number generators</a></li>
+    <li class="backlink-item-wrap"><a href="Rejection%20sampling.html" class="backlink-item">Rejection sampling</a></li>
+    <li class="backlink-item-wrap"><a href="Verifying%20random%20samples.html" class="backlink-item">Verifying random samples</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Pseudo-random%20number%20generators.html" class="backlink-item">Pseudo-random number generators</a></li>
-    <li class="backlink-item-wrap"><a href="./Rejection%20sampling.html" class="backlink-item">Rejection sampling</a></li>
-    <li class="backlink-item-wrap"><a href="./Verifying%20random%20samples.html" class="backlink-item">Verifying random samples</a></li>
   </ul>
 </div>
+

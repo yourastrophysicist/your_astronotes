@@ -2,7 +2,6 @@
 layout: "default"
 title: "Filter systems and bandpasses"
 ---
-{% raw %}
 photometry is always done **through a filter**: a bandpass $T(\lambda)$ that selects which photons reach the detector. different surveys use different filter sets ("photometric systems"), and switching between them is non-trivial.
 
 ## what a filter does
@@ -87,17 +86,17 @@ three magnitude conventions:
 
 magnitudes in two filter systems do not differ by a constant offset. they differ by a **color term** that depends on the source SED:
 $$m_1 \approx m_2 + a + b(c_1 - c_2)$$
-where $(c_1 - c_2)$ is a color in either system. this is `obs6.pdf`'s key point: a 6000 K star and a 3000 K star feel a different shift between SDSS-i and Cousins-I, because they have different SED shapes through the (slightly different) i and I bandpasses. see [Photometric system conversion and color terms](./Photometric%20system%20conversion%20and%20color%20terms.html).
+where $(c_1 - c_2)$ is a color in either system. this is `obs6.pdf`'s key point: a 6000 K star and a 3000 K star feel a different shift between SDSS-i and Cousins-I, because they have different SED shapes through the (slightly different) i and I bandpasses. see [Photometric system conversion and color terms](Photometric%20system%20conversion%20and%20color%20terms.html).
 
 ## see also
 
-- [Magnitudes and photometric systems](./Magnitudes%20and%20photometric%20systems.html)
-- [Pogson magnitudes and flux relation](./Pogson%20magnitudes%20and%20flux%20relation.html)
-- [Color indices](./Color%20indices.html)
-- [Photometric system conversion and color terms](./Photometric%20system%20conversion%20and%20color%20terms.html)
+- [Magnitudes and photometric systems](Magnitudes%20and%20photometric%20systems.html)
+- [Pogson magnitudes and flux relation](Pogson%20magnitudes%20and%20flux%20relation.html)
+- [Color indices](Color%20indices.html)
+- [Photometric system conversion and color terms](Photometric%20system%20conversion%20and%20color%20terms.html)
 - [Atmospheric extinction](interf/Atmospheric%20extinction.html)
-- [Photometric standard stars](./Photometric%20standard%20stars.html)
-- [Bolometric correction and effective temperature](./Bolometric%20correction%20and%20effective%20temperature.html)
+- [Photometric standard stars](Photometric%20standard%20stars.html)
+- [Bolometric correction and effective temperature](Bolometric%20correction%20and%20effective%20temperature.html)
 
 ---
 
@@ -114,24 +113,24 @@ where $(c_1 - c_2)$ is a color in either system. this is `obs6.pdf`'s key point:
 
 ![obs_rad-064.png](../../assets/images/obs_rad-064.png)
 *Filter transmission curves and detector quantum efficiency convolution.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (14)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Atmospheric%20dispersion.html" class="backlink-item">Atmospheric dispersion</a></li>
+    <li class="backlink-item-wrap"><a href="Atmospheric%20transparency%20windows.html" class="backlink-item">Atmospheric transparency windows</a></li>
+    <li class="backlink-item-wrap"><a href="Bolometric%20correction%20and%20effective%20temperature.html" class="backlink-item">Bolometric correction and effective temperature</a></li>
+    <li class="backlink-item-wrap"><a href="Color%20indices.html" class="backlink-item">Color indices</a></li>
+    <li class="backlink-item-wrap"><a href="K-correction.html" class="backlink-item">K-correction</a></li>
+    <li class="backlink-item-wrap"><a href="Photometric%20standard%20stars.html" class="backlink-item">Photometric standard stars</a></li>
+    <li class="backlink-item-wrap"><a href="Photometric%20system%20conversion%20and%20color%20terms.html" class="backlink-item">Photometric system conversion and color terms</a></li>
+    <li class="backlink-item-wrap"><a href="Pogson%20magnitudes%20and%20flux%20relation.html" class="backlink-item">Pogson magnitudes and flux relation</a></li>
+    <li class="backlink-item-wrap"><a href="Sky%20brightness.html" class="backlink-item">Sky brightness</a></li>
+    <li class="backlink-item-wrap"><a href="Survey%20resources%20for%20Obs%20Astro.html" class="backlink-item">Survey resources for Obs Astro</a></li>
+    <li class="backlink-item-wrap"><a href="Useful%20constants%20and%20conversions.html" class="backlink-item">Useful constants and conversions</a></li>
     <li class="backlink-item-wrap"><a href="interf/Atmospheric%20dispersion.html" class="backlink-item">Atmospheric dispersion</a></li>
-    <li class="backlink-item-wrap"><a href="./Atmospheric%20dispersion.html" class="backlink-item">Atmospheric dispersion</a></li>
-    <li class="backlink-item-wrap"><a href="./Atmospheric%20transparency%20windows.html" class="backlink-item">Atmospheric transparency windows</a></li>
     <li class="backlink-item-wrap"><a href="interf/Atmospheric%20transparency%20windows.html" class="backlink-item">Atmospheric transparency windows</a></li>
-    <li class="backlink-item-wrap"><a href="./Bolometric%20correction%20and%20effective%20temperature.html" class="backlink-item">Bolometric correction and effective temperature</a></li>
-    <li class="backlink-item-wrap"><a href="./Color%20indices.html" class="backlink-item">Color indices</a></li>
-    <li class="backlink-item-wrap"><a href="./K-correction.html" class="backlink-item">K-correction</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Photometric%20standard%20stars.html" class="backlink-item">Photometric standard stars</a></li>
-    <li class="backlink-item-wrap"><a href="./Photometric%20system%20conversion%20and%20color%20terms.html" class="backlink-item">Photometric system conversion and color terms</a></li>
-    <li class="backlink-item-wrap"><a href="./Pogson%20magnitudes%20and%20flux%20relation.html" class="backlink-item">Pogson magnitudes and flux relation</a></li>
-    <li class="backlink-item-wrap"><a href="./Sky%20brightness.html" class="backlink-item">Sky brightness</a></li>
-    <li class="backlink-item-wrap"><a href="./Survey%20resources%20for%20Obs%20Astro.html" class="backlink-item">Survey resources for Obs Astro</a></li>
-    <li class="backlink-item-wrap"><a href="./Useful%20constants%20and%20conversions.html" class="backlink-item">Useful constants and conversions</a></li>
   </ul>
 </div>
+

@@ -2,7 +2,6 @@
 layout: "default"
 title: "Goodness of fit and chi-squared"
 ---
-{% raw %}
 # Goodness of fit and chi-squared
 
 after fitting a model to data, the question is *how good is the fit?* the standard answer is the chi-squared statistic and the associated reduced chi-squared.
@@ -120,21 +119,21 @@ print(f"a = {popt[0]:.3f} ± {perr[0]:.3f}")
 
 ## see also
 
-- [Linear least squares](./Linear%20least%20squares.html)
-- [Weighted least squares](./Weighted%20least%20squares.html)
+- [Linear least squares](Linear%20least%20squares.html)
+- [Weighted least squares](Weighted%20least%20squares.html)
 - [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (8)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Fitting%20practical%20recipe.html" class="backlink-item">Fitting practical recipe</a></li>
-    <li class="backlink-item-wrap"><a href="./General%20linear%20least%20squares.html" class="backlink-item">General linear least squares</a></li>
-    <li class="backlink-item-wrap"><a href="./Linear%20least%20squares.html" class="backlink-item">Linear least squares</a></li>
+    <li class="backlink-item-wrap"><a href="Fitting%20practical%20recipe.html" class="backlink-item">Fitting practical recipe</a></li>
+    <li class="backlink-item-wrap"><a href="General%20linear%20least%20squares.html" class="backlink-item">General linear least squares</a></li>
+    <li class="backlink-item-wrap"><a href="Linear%20least%20squares.html" class="backlink-item">Linear least squares</a></li>
+    <li class="backlink-item-wrap"><a href="Non-linear%20fitting%20with%20scipy.html" class="backlink-item">Non-linear fitting with scipy</a></li>
+    <li class="backlink-item-wrap"><a href="Polynomial%20fitting.html" class="backlink-item">Polynomial fitting</a></li>
+    <li class="backlink-item-wrap"><a href="Verifying%20random%20samples.html" class="backlink-item">Verifying random samples</a></li>
+    <li class="backlink-item-wrap"><a href="Weighted%20least%20squares.html" class="backlink-item">Weighted least squares</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Non-linear%20fitting%20with%20scipy.html" class="backlink-item">Non-linear fitting with scipy</a></li>
-    <li class="backlink-item-wrap"><a href="./Polynomial%20fitting.html" class="backlink-item">Polynomial fitting</a></li>
-    <li class="backlink-item-wrap"><a href="./Verifying%20random%20samples.html" class="backlink-item">Verifying random samples</a></li>
-    <li class="backlink-item-wrap"><a href="./Weighted%20least%20squares.html" class="backlink-item">Weighted least squares</a></li>
   </ul>
 </div>
+

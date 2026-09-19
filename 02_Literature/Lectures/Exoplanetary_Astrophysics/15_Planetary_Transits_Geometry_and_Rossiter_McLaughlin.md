@@ -2,7 +2,6 @@
 layout: "default"
 title: "15_Planetary_Transits_Geometry_and_Rossiter_McLaughlin"
 ---
-{% raw %}
 # Lesson 15 – Planetary Transits I: Geometry and Rossiter-McLaughlin
 
 *Exoplanetary Astrophysics, Prof. Giampaolo Piotto (Lecture 01/12/2025)*  
@@ -193,14 +192,12 @@ $$\sin I_\star = \frac{(v \sin I_\star) P_{\text{rot}}}{2\pi R_\star}$$
 
 ![High-Resolution Spectrograph RM Observations](../../../assets/images/exo_rossi_p12.png)
 *Figure EXO-07: Empirical RM anomaly measurements obtained with HARPS-N and ESPRESSO ultra-stable cross-dispersion spectrographs, measuring spin-orbit angles to sub-degree precision.*
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
+  <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./14_Stellar_Activity_and_Radial_Velocity_Jitter.html" class="backlink-item">14_Stellar_Activity_and_Radial_Velocity_Jitter</a></li>
-    <li class="backlink-item-wrap"><a href="./16_Transit_Light_Curve_Modeling_and_Limb_Darkening.html" class="backlink-item">16_Transit_Light_Curve_Modeling_and_Limb_Darkening</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Rossiter-McLaughlin%20effect%20and%20spin-orbit%20obliquity.html" class="backlink-item">Rossiter-McLaughlin effect and spin-orbit obliquity</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

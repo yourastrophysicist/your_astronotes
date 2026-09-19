@@ -2,11 +2,10 @@
 layout: "default"
 title: "Hint - TODO 1.1 Loading Data with np.loadtxt"
 ---
-{% raw %}
 # Hint - TODO 1.1 Loading Data with np.loadtxt
 
 **Target TODO**: TODO 1.1 in Module_1_Random_Sampling_and_Monte_Carlo  
-**Related Zettels**: [Numpy arrays vs Python lists](./Numpy%20arrays%20vs%20Python%20lists.html), [Pandas for tabular astrophysics data](./Pandas%20for%20tabular%20astrophysics%20data.html)
+**Related Zettels**: [Numpy arrays vs Python lists](Numpy%20arrays%20vs%20Python%20lists.html), [Pandas for tabular astrophysics data](Pandas%20for%20tabular%20astrophysics%20data.html)
 
 ---
 
@@ -21,4 +20,3 @@ When loading ASCII data files with headers or metadata:
 ```python
 M1, M2 = np.loadtxt(data_path, skiprows=3, usecols=(3, 4), unpack=True)
 ```
-{% endraw %}

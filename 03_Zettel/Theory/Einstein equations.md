@@ -2,7 +2,6 @@
 layout: "default"
 title: "Einstein equations"
 ---
-{% raw %}
 **Einstein's field equations** are the master equation of GR: they relate the curvature of spacetime to its matter content.
 
 ## the equation
@@ -62,7 +61,7 @@ adding $\Lambda g_{\mu\nu}$ to the LHS is the **only** other conserved tensor co
 
 with $\Lambda$ on the right side as a stress-energy contribution, it acts like a fluid with $\rho_\Lambda = \Lambda/(8\pi G)$, $p_\Lambda = -\rho_\Lambda$. constant density, negative pressure: drives accelerated expansion.
 
-see [Cosmological constant](./Cosmological%20constant.html).
+see [Cosmological constant](Cosmological%20constant.html).
 
 ## solving Einstein's equation
 
@@ -77,35 +76,33 @@ most modern numerical relativity numerically solves the full Einstein equations 
 
 ## see also
 
-- [Einstein tensor and Bianchi](./Einstein%20tensor%20and%20Bianchi.html)
-- [Stress-energy tensor](./Stress-energy%20tensor.html)
-- [Trace-reversed Einstein equations](./Trace-reversed%20Einstein%20equations.html)
-- [Cosmological constant](./Cosmological%20constant.html)
-- [Newtonian limit of GR](./Newtonian%20limit%20of%20GR.html)
-- [Schwarzschild metric](./Schwarzschild%20metric.html)
-- [FLRW metric](./FLRW%20metric.html)
-- [Friedmann equations](./Friedmann%20equations.html)
-- [Bianchi identities](./Bianchi%20identities.html)
-- [Ricci tensor and scalar](./Ricci%20tensor%20and%20scalar.html)
+- [Einstein tensor and Bianchi](Einstein%20tensor%20and%20Bianchi.html)
+- [Stress-energy tensor](Stress-energy%20tensor.html)
+- [Trace-reversed Einstein equations](Trace-reversed%20Einstein%20equations.html)
+- [Cosmological constant](Cosmological%20constant.html)
+- [Newtonian limit of GR](Newtonian%20limit%20of%20GR.html)
+- [Schwarzschild metric](Schwarzschild%20metric.html)
+- [FLRW metric](FLRW%20metric.html)
+- [Friedmann equations](Friedmann%20equations.html)
+- [Bianchi identities](Bianchi%20identities.html)
+- [Ricci tensor and scalar](Ricci%20tensor%20and%20scalar.html)
 - Q10 - weak-field Ricci scalar
 - Q18 - derive the acceleration equation
 - [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
 - [Ch 5 - The Einstein Equation](../../02_Literature/Book/Baumann%20GR/Ch%205%20-%20The%20Einstein%20Equation.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (11)</h4>
+  <h4 class="backlinks-title">Linked References (9)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Bianchi%20identities.html" class="backlink-item">Bianchi identities</a></li>
-    <li class="backlink-item-wrap"><a href="./Birkhoff%20theorem.html" class="backlink-item">Birkhoff theorem</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Book/Baumann%20GR/Ch%201%20-%20Gravity%20is%20Geometry.html" class="backlink-item">Ch 1 - Gravity is Geometry</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Book/Baumann%20GR/Ch%205%20-%20The%20Einstein%20Equation.html" class="backlink-item">Ch 5 - The Einstein Equation</a></li>
-    <li class="backlink-item-wrap"><a href="./Cosmological%20constant.html" class="backlink-item">Cosmological constant</a></li>
-    <li class="backlink-item-wrap"><a href="./Einstein%20tensor%20and%20Bianchi.html" class="backlink-item">Einstein tensor and Bianchi</a></li>
-    <li class="backlink-item-wrap"><a href="./GR%20Friedmann%20with%20Lambda.html" class="backlink-item">GR Friedmann with Lambda</a></li>
+    <li class="backlink-item-wrap"><a href="Bianchi%20identities.html" class="backlink-item">Bianchi identities</a></li>
+    <li class="backlink-item-wrap"><a href="Birkhoff%20theorem.html" class="backlink-item">Birkhoff theorem</a></li>
+    <li class="backlink-item-wrap"><a href="Cosmological%20constant.html" class="backlink-item">Cosmological constant</a></li>
+    <li class="backlink-item-wrap"><a href="Einstein%20tensor%20and%20Bianchi.html" class="backlink-item">Einstein tensor and Bianchi</a></li>
+    <li class="backlink-item-wrap"><a href="GR%20Friedmann%20with%20Lambda.html" class="backlink-item">GR Friedmann with Lambda</a></li>
+    <li class="backlink-item-wrap"><a href="Ricci%20tensor%20and%20scalar.html" class="backlink-item">Ricci tensor and scalar</a></li>
+    <li class="backlink-item-wrap"><a href="Stress-energy%20tensor.html" class="backlink-item">Stress-energy tensor</a></li>
+    <li class="backlink-item-wrap"><a href="Trace-reversed%20Einstein%20equations.html" class="backlink-item">Trace-reversed Einstein equations</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Ricci%20tensor%20and%20scalar.html" class="backlink-item">Ricci tensor and scalar</a></li>
-    <li class="backlink-item-wrap"><a href="./Stress-energy%20tensor.html" class="backlink-item">Stress-energy tensor</a></li>
-    <li class="backlink-item-wrap"><a href="./Trace-reversed%20Einstein%20equations.html" class="backlink-item">Trace-reversed Einstein equations</a></li>
   </ul>
 </div>
+

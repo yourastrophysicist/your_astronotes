@@ -2,7 +2,6 @@
 layout: "default"
 title: "Deconvolution algorithms compared"
 ---
-{% raw %}
 # Deconvolution algorithms compared
 
 a quick comparison of the main image-deconvolution algorithms used in interferometry, organized by source type and use case.
@@ -114,7 +113,6 @@ choose based on the science: faster methods for routine observations, slower/bet
 ## see also
 
 - [CLEAN algorithm](interf/CLEAN%20algorithm.html)
-- [Maximum entropy method](./Maximum%20entropy%20method.html)
+- [Maximum entropy method](Maximum%20entropy%20method.html)
 - [Dirty beam and dirty image](interf/Dirty%20beam%20and%20dirty%20image.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

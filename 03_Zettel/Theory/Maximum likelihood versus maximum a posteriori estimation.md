@@ -2,7 +2,6 @@
 layout: "default"
 title: "Maximum likelihood versus maximum a posteriori estimation"
 ---
-{% raw %}
 # Maximum likelihood versus maximum a posteriori estimation
 
 In inverse problems where a continuous parameter vector $\theta \in \mathbb{R}^k$ produces observable data $D$, point estimation seeks a representative single vector $\hat{\theta}$. The two central point estimators in astrophysical inference are the Maximum Likelihood Estimator (MLE) and the Maximum A Posteriori (MAP) estimator.
@@ -41,14 +40,14 @@ Under decision theory with a 0-1 loss function $L(\theta, \hat{\theta}) = -\delt
 ## See Also
 - [Astro-Statistics_and_Cosmology_MOC](../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html)
 - [02_Parameter_Estimation_Gaussian_Noise_and_Credible_Intervals](../../02_Literature/Lectures/Astrostatistics/02_Parameter_Estimation_Gaussian_Noise_and_Credible_Intervals.html)
-- [Bernstein-von Mises theorem and Bayesian asymptotics](./Bernstein-von%20Mises%20theorem%20and%20Bayesian%20asymptotics.html)
-- [Fisher information matrix and Cramer-Rao bound](./Fisher%20information%20matrix%20and%20Cramer-Rao%20bound.html)
-{% endraw %}
+- [Bernstein-von Mises theorem and Bayesian asymptotics](Bernstein-von%20Mises%20theorem%20and%20Bayesian%20asymptotics.html)
+- [Fisher information matrix and Cramer-Rao bound](Fisher%20information%20matrix%20and%20Cramer-Rao%20bound.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Cox%20theorem%20and%20probability%20as%20extended%20logic.html" class="backlink-item">Cox theorem and probability as extended logic</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Cox%20theorem%20and%20probability%20as%20extended%20logic.html" class="backlink-item">Cox theorem and probability as extended logic</a></li>
   </ul>
 </div>
+

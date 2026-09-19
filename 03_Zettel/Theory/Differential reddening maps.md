@@ -1,11 +1,8 @@
 ---
 layout: "default"
 title: "Differential reddening maps"
-name: "Differential reddening maps"
-description: "technique for mapping spatial variations in interstellar reddening across a star cluster field using cluster member ridge offsets, developed by Milone et al. 2012"
 ---
-{% raw %}
-**differential reddening (DR)** is the spatial variation in interstellar reddening $E(B-V)$ across a star cluster field, caused by patchy dust distribution along the line of sight. it artificially broadens cluster sequences (MS, RGB, HB) on the CMD and can mimic [multiple populations](./Multiple%20populations%20in%20GCs%20discovery.html) or metallicity spreads. a high-resolution DR map allows correction.
+**differential reddening (DR)** is the spatial variation in interstellar reddening $E(B-V)$ across a star cluster field, caused by patchy dust distribution along the line of sight. it artificially broadens cluster sequences (MS, RGB, HB) on the CMD and can mimic [multiple populations](Multiple%20populations%20in%20GCs%20discovery.html) or metallicity spreads. a high-resolution DR map allows correction.
 
 ## the Milone et al. 2012 method
 
@@ -21,7 +18,7 @@ for each cluster member star at position $(x, y)$, measure its perpendicular dis
 
 $$\Delta E(B-V)(x, y) = \frac{\Delta_{\rm offset}}{R_V}$$
 
-(see [Interstellar reddening and the reddening vector](./Interstellar%20reddening%20and%20the%20reddening%20vector.html) for the geometry).
+(see [Interstellar reddening and the reddening vector](Interstellar%20reddening%20and%20the%20reddening%20vector.html) for the geometry).
 
 ### step 3: interpolate spatial map
 
@@ -83,12 +80,12 @@ modern variants use Gaia-based field stars + RC stars + multiple stars per pixel
 
 ## see also
 
-- [Effects of differential reddening on CMD analysis](./Effects%20of%20differential%20reddening%20on%20CMD%20analysis.html)
-- [Interstellar reddening and the reddening vector](./Interstellar%20reddening%20and%20the%20reddening%20vector.html)
-- [Extinction law and Rv](./Extinction%20law%20and%20Rv.html)
-- [Bulge CMD complications](./Bulge%20CMD%20complications.html)
-- [Photometric chromosome maps](./Photometric%20chromosome%20maps.html)
-- [Multiple populations in GCs discovery](./Multiple%20populations%20in%20GCs%20discovery.html)
+- [Effects of differential reddening on CMD analysis](Effects%20of%20differential%20reddening%20on%20CMD%20analysis.html)
+- [Interstellar reddening and the reddening vector](Interstellar%20reddening%20and%20the%20reddening%20vector.html)
+- [Extinction law and Rv](Extinction%20law%20and%20Rv.html)
+- [Bulge CMD complications](Bulge%20CMD%20complications.html)
+- [Photometric chromosome maps](Photometric%20chromosome%20maps.html)
+- [Multiple populations in GCs discovery](Multiple%20populations%20in%20GCs%20discovery.html)
 - [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
 
 ---
@@ -185,13 +182,13 @@ The following slides from Prof. Antonino Milone's lecture series provide the dir
 
 ![Lecture10_p5-05.png](../../assets/images/Lecture10_p5-05.png)
 *Figure P10-29: Lecture10_p5-05.png — Observational data, CMD morphology, and diagnostics from Lecture 10 — Differential Reddening Correction Techniques.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Bulge%20CMD%20complications.html" class="backlink-item">Bulge CMD complications</a></li>
-    <li class="backlink-item-wrap"><a href="./Effects%20of%20differential%20reddening%20on%20CMD%20analysis.html" class="backlink-item">Effects of differential reddening on CMD analysis</a></li>
+    <li class="backlink-item-wrap"><a href="Bulge%20CMD%20complications.html" class="backlink-item">Bulge CMD complications</a></li>
+    <li class="backlink-item-wrap"><a href="Effects%20of%20differential%20reddening%20on%20CMD%20analysis.html" class="backlink-item">Effects of differential reddening on CMD analysis</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

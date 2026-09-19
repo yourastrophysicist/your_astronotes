@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Stellar population synthesis"
-name: "Stellar population synthesis"
-description: "Forward modeling of integrated galaxy spectral energy distributions by convolving star formation histories and chemical evolution with single stellar population libraries."
 ---
-{% raw %}
 **stellar population synthesis (SPS)** is the theoretical and computational forward-modeling technique used to interpret the integrated light of unresolved stellar systems. Because individual stars cannot be resolved in distant galaxies, their spectral energy distributions (SEDs) must be synthesized from fundamental stellar evolution theory: isochrone grids, stellar atmospheric libraries, and an assumed initial mass function.
 
 ---
@@ -119,17 +116,17 @@ two primary methodologies are employed to compare models to observational data:
 
 - [Observational_Astrophysics_MOC](../../04_Atlas/Observational_Astrophysics_MOC.html)
 - [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
-- [Single stellar population SSP](./Single%20stellar%20population%20SSP.html)
-- [SPS code families](./SPS%20code%20families.html)
-- [Lick indices](./Lick%20indices.html)
-- [Age-metallicity degeneracy](./Age-metallicity%20degeneracy.html)
-- [SED fitting basics](./SED%20fitting%20basics.html)
-- [Initial mass function](./Initial%20mass%20function.html)
-- [Star formation history of a population](./Star%20formation%20history%20of%20a%20population.html)
-- [Dust attenuation in synthetic populations](./Dust%20attenuation%20in%20synthetic%20populations.html)
-- [Stellar mass estimation in unresolved populations](./Stellar%20mass%20estimation%20in%20unresolved%20populations.html)
-- [Age estimation in unresolved populations](./Age%20estimation%20in%20unresolved%20populations.html)
-- [SFR tracers from population synthesis](./SFR%20tracers%20from%20population%20synthesis.html)
+- [Single stellar population SSP](Single%20stellar%20population%20SSP.html)
+- [SPS code families](SPS%20code%20families.html)
+- [Lick indices](Lick%20indices.html)
+- [Age-metallicity degeneracy](Age-metallicity%20degeneracy.html)
+- [SED fitting basics](SED%20fitting%20basics.html)
+- [Initial mass function](Initial%20mass%20function.html)
+- [Star formation history of a population](Star%20formation%20history%20of%20a%20population.html)
+- [Dust attenuation in synthetic populations](Dust%20attenuation%20in%20synthetic%20populations.html)
+- [Stellar mass estimation in unresolved populations](Stellar%20mass%20estimation%20in%20unresolved%20populations.html)
+- [Age estimation in unresolved populations](Age%20estimation%20in%20unresolved%20populations.html)
+- [SFR tracers from population synthesis](SFR%20tracers%20from%20population%20synthesis.html)
 
 ---
 
@@ -170,34 +167,32 @@ two primary methodologies are employed to compare models to observational data:
 
 ![obs_sps-12.png](../../assets/images/obs_sps-12.png)
 *Panchromatic galaxy SED: stellar continuum, dust absorption, nebular emission lines, FIR emission.*
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (24)</h4>
+  <h4 class="backlinks-title">Linked References (22)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Age%20estimation%20in%20unresolved%20populations.html" class="backlink-item">Age estimation in unresolved populations</a></li>
-    <li class="backlink-item-wrap"><a href="./Age-metallicity%20degeneracy.html" class="backlink-item">Age-metallicity degeneracy</a></li>
-    <li class="backlink-item-wrap"><a href="./Alpha-Fe%20enhancement.html" class="backlink-item">Alpha-Fe enhancement</a></li>
-    <li class="backlink-item-wrap"><a href="./Chemical%20evolution%20of%20galaxies.html" class="backlink-item">Chemical evolution of galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="./Dust%20attenuation%20and%20extinction%20curves.html" class="backlink-item">Dust attenuation and extinction curves</a></li>
-    <li class="backlink-item-wrap"><a href="./Dust%20attenuation%20in%20synthetic%20populations.html" class="backlink-item">Dust attenuation in synthetic populations</a></li>
-    <li class="backlink-item-wrap"><a href="./Galaxy%20spectroscopy%20by%20type.html" class="backlink-item">Galaxy spectroscopy by type</a></li>
-    <li class="backlink-item-wrap"><a href="./Initial%20mass%20function.html" class="backlink-item">Initial mass function</a></li>
-    <li class="backlink-item-wrap"><a href="./Lick%20indices.html" class="backlink-item">Lick indices</a></li>
-    <li class="backlink-item-wrap"><a href="./Metallicity%20and%20chemical%20evolution.html" class="backlink-item">Metallicity and chemical evolution</a></li>
+    <li class="backlink-item-wrap"><a href="Age%20estimation%20in%20unresolved%20populations.html" class="backlink-item">Age estimation in unresolved populations</a></li>
+    <li class="backlink-item-wrap"><a href="Age-metallicity%20degeneracy.html" class="backlink-item">Age-metallicity degeneracy</a></li>
+    <li class="backlink-item-wrap"><a href="Alpha-Fe%20enhancement.html" class="backlink-item">Alpha-Fe enhancement</a></li>
+    <li class="backlink-item-wrap"><a href="Chemical%20evolution%20of%20galaxies.html" class="backlink-item">Chemical evolution of galaxies</a></li>
+    <li class="backlink-item-wrap"><a href="Dust%20attenuation%20and%20extinction%20curves.html" class="backlink-item">Dust attenuation and extinction curves</a></li>
+    <li class="backlink-item-wrap"><a href="Dust%20attenuation%20in%20synthetic%20populations.html" class="backlink-item">Dust attenuation in synthetic populations</a></li>
+    <li class="backlink-item-wrap"><a href="Galaxy%20spectroscopy%20by%20type.html" class="backlink-item">Galaxy spectroscopy by type</a></li>
+    <li class="backlink-item-wrap"><a href="Initial%20mass%20function.html" class="backlink-item">Initial mass function</a></li>
+    <li class="backlink-item-wrap"><a href="Lick%20indices.html" class="backlink-item">Lick indices</a></li>
+    <li class="backlink-item-wrap"><a href="Metallicity%20and%20chemical%20evolution.html" class="backlink-item">Metallicity and chemical evolution</a></li>
+    <li class="backlink-item-wrap"><a href="Photometric%20redshifts.html" class="backlink-item">Photometric redshifts</a></li>
+    <li class="backlink-item-wrap"><a href="SED%20fitting%20basics.html" class="backlink-item">SED fitting basics</a></li>
+    <li class="backlink-item-wrap"><a href="SED%20fitting%20for%20SFH.html" class="backlink-item">SED fitting for SFH</a></li>
+    <li class="backlink-item-wrap"><a href="SFH%20from%20resolved%20CMDs.html" class="backlink-item">SFH from resolved CMDs</a></li>
+    <li class="backlink-item-wrap"><a href="SPS%20code%20families.html" class="backlink-item">SPS code families</a></li>
+    <li class="backlink-item-wrap"><a href="Single%20stellar%20population%20SSP.html" class="backlink-item">Single stellar population SSP</a></li>
+    <li class="backlink-item-wrap"><a href="Star%20formation%20history%20of%20a%20population.html" class="backlink-item">Star formation history of a population</a></li>
+    <li class="backlink-item-wrap"><a href="Star%20formation%20history%20parametrizations.html" class="backlink-item">Star formation history parametrizations</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20mass%20estimation%20in%20unresolved%20populations.html" class="backlink-item">Stellar mass estimation in unresolved populations</a></li>
+    <li class="backlink-item-wrap"><a href="Why%20hot%20massive%20stars%20dominate%20luminosity.html" class="backlink-item">Why hot massive stars dominate luminosity</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./PCA%20spectral%20classification%20of%20galaxies.html" class="backlink-item">PCA spectral classification of galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html" class="backlink-item">Pablo_03_Star_formation_in_galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="./Photometric%20redshifts.html" class="backlink-item">Photometric redshifts</a></li>
-    <li class="backlink-item-wrap"><a href="./SED%20fitting%20basics.html" class="backlink-item">SED fitting basics</a></li>
-    <li class="backlink-item-wrap"><a href="./SED%20fitting%20for%20SFH.html" class="backlink-item">SED fitting for SFH</a></li>
-    <li class="backlink-item-wrap"><a href="./SFH%20from%20resolved%20CMDs.html" class="backlink-item">SFH from resolved CMDs</a></li>
-    <li class="backlink-item-wrap"><a href="./SPS%20code%20families.html" class="backlink-item">SPS code families</a></li>
-    <li class="backlink-item-wrap"><a href="./Single%20stellar%20population%20SSP.html" class="backlink-item">Single stellar population SSP</a></li>
-    <li class="backlink-item-wrap"><a href="./Star%20formation%20history%20of%20a%20population.html" class="backlink-item">Star formation history of a population</a></li>
-    <li class="backlink-item-wrap"><a href="./Star%20formation%20history%20parametrizations.html" class="backlink-item">Star formation history parametrizations</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20mass%20estimation%20in%20unresolved%20populations.html" class="backlink-item">Stellar mass estimation in unresolved populations</a></li>
-    <li class="backlink-item-wrap"><a href="./Why%20hot%20massive%20stars%20dominate%20luminosity.html" class="backlink-item">Why hot massive stars dominate luminosity</a></li>
   </ul>
 </div>
+

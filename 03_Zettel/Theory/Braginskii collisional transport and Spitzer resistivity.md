@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Braginskii collisional transport and Spitzer resistivity"
-name: "Braginskii collisional transport and Spitzer resistivity"
-description: "two-fluid collisional transport, thermal friction, anisotropic thermal conduction, and the Spitzer electrical resistivity"
 ---
-{% raw %}
 S.I. Braginskii (1965) derived the complete closed system of two-fluid equations for electrons and ions in a magnetized collisional plasma using the Landau collision operator.
 
 ## inter-species friction and spitzer resistivity
@@ -39,15 +36,15 @@ heat conducts virtually instantaneously along magnetic flux surfaces while being
 
 - [Fluid_and_Plasma_Dynamics_MOC](../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html)
 - [Part6_Two_Fluid_Theory_Transport_and_Microinstabilities](../../02_Literature/Lectures/Fluid_and_Plasma_Dynamics/Part6_Two_Fluid_Theory_Transport_and_Microinstabilities.html)
-- [Drift-reduced Braginskii equations and vorticity derivation](./Drift-reduced%20Braginskii%20equations%20and%20vorticity%20derivation.html)
-- [Ambipolar diffusion in unmagnetized and magnetized plasmas](./Ambipolar%20diffusion%20in%20unmagnetized%20and%20magnetized%20plasmas.html)
-{% endraw %}
+- [Drift-reduced Braginskii equations and vorticity derivation](Drift-reduced%20Braginskii%20equations%20and%20vorticity%20derivation.html)
+- [Ambipolar diffusion in unmagnetized and magnetized plasmas](Ambipolar%20diffusion%20in%20unmagnetized%20and%20magnetized%20plasmas.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Ambipolar%20diffusion%20in%20unmagnetized%20and%20magnetized%20plasmas.html" class="backlink-item">Ambipolar diffusion in unmagnetized and magnetized plasmas</a></li>
-    <li class="backlink-item-wrap"><a href="./Drift-reduced%20Braginskii%20equations%20and%20vorticity%20derivation.html" class="backlink-item">Drift-reduced Braginskii equations and vorticity derivation</a></li>
+    <li class="backlink-item-wrap"><a href="Ambipolar%20diffusion%20in%20unmagnetized%20and%20magnetized%20plasmas.html" class="backlink-item">Ambipolar diffusion in unmagnetized and magnetized plasmas</a></li>
+    <li class="backlink-item-wrap"><a href="Drift-reduced%20Braginskii%20equations%20and%20vorticity%20derivation.html" class="backlink-item">Drift-reduced Braginskii equations and vorticity derivation</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
   </ul>
 </div>
+

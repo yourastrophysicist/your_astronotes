@@ -2,7 +2,6 @@
 layout: "default"
 title: "Frozen turbulence and Taylor hypothesis"
 ---
-{% raw %}
 # Frozen turbulence and Taylor hypothesis
 
 the simplifying approximation that lets us think about temporal atmospheric fluctuations as *spatial* fluctuations carried past the telescope by the wind. the basis for predictive AO and the link between coherence time and Fried parameter.
@@ -91,4 +90,3 @@ for design purposes, Taylor's hypothesis is good enough to set $\tau_0$ values; 
 - [Adaptive optics](interf/Adaptive%20optics.html)
 - [Wavefront sensors](interf/Wavefront%20sensors.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

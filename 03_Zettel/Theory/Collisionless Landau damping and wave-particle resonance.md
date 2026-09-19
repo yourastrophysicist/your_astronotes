@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Collisionless Landau damping and wave-particle resonance"
-name: "Collisionless Landau damping and wave-particle resonance"
-description: "analytic continuation around poles, wave-particle energy exchange, and collisionless damping in Vlasov-Poisson plasmas"
 ---
-{% raw %}
 Lev Landau (1946) demonstrated that electrostatic plasma waves in a collisionless plasma damp exponentially in time without any collisional dissipation.
 
 ## mathematical formulation via laplace transform
@@ -49,14 +46,14 @@ particles moving slightly slower than the wave phase velocity ($v \lesssim v_{\t
 
 - [Fluid_and_Plasma_Dynamics_MOC](../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html)
 - [Part5_Plasma_Kinetics_Gyrokinetics_and_Waves](../../02_Literature/Lectures/Fluid_and_Plasma_Dynamics/Part5_Plasma_Kinetics_Gyrokinetics_and_Waves.html)
-- [Gyrokinetic ordering and 5D phase space reduction](./Gyrokinetic%20ordering%20and%205D%20phase%20space%20reduction.html)
-- [Cold plasma dielectric tensor and Appleton-Hartree dispersion](./Cold%20plasma%20dielectric%20tensor%20and%20Appleton-Hartree%20dispersion.html)
-{% endraw %}
+- [Gyrokinetic ordering and 5D phase space reduction](Gyrokinetic%20ordering%20and%205D%20phase%20space%20reduction.html)
+- [Cold plasma dielectric tensor and Appleton-Hartree dispersion](Cold%20plasma%20dielectric%20tensor%20and%20Appleton-Hartree%20dispersion.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Gyrokinetic%20ordering%20and%205D%20phase%20space%20reduction.html" class="backlink-item">Gyrokinetic ordering and 5D phase space reduction</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Gyrokinetic%20ordering%20and%205D%20phase%20space%20reduction.html" class="backlink-item">Gyrokinetic ordering and 5D phase space reduction</a></li>
   </ul>
 </div>
+

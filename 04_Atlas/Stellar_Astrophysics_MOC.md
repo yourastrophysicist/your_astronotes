@@ -2,7 +2,6 @@
 layout: "default"
 title: "Stellar_Astrophysics_MOC"
 ---
-{% raw %}
 # Stellar Astrophysics — Map of Content
 
 A.Y. 2025/2026, second semester at U Padova. course taught by **Antonino Milone** (GALFOR group, ERC starting grant). lecture material at `~/Documents/2/Stellar Astrophysics/`. course page: <http://progetti.dfa.unipd.it/GALFOR/teaching.html>.
@@ -31,12 +30,12 @@ every one of the 19 lectures handles a piece of this chain. Milone's research on
 
 ## prerequisites + connections
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](./Fundamentals_Astrophysics_Cosmology_MOC.html) — first-semester foundation. introduced stellar structure equations + nuclear burning + early CMDs.
-- [Observational_Astrophysics_MOC](./Observational_Astrophysics_MOC.html) — methodological foundation. Covers the detector, photometry, atmospheric, and population synthesis framework for interpreting unresolved light when individual stars cannot be resolved.
-- [Astrophysics_of_Galaxies_MOC](./Astrophysics_of_Galaxies_MOC.html) — parallel course on galaxies. Block 11 (early-type galaxy stellar populations) + Block 8 (Local Group) overlap directly.
-- [Observational_Cosmology_MOC](./Observational_Cosmology_MOC.html) — cosmic SFR + reionisation overlap with the **first stars** topic.
-- [Astronomical_Spectroscopy_MOC](./Astronomical_Spectroscopy_MOC.html) — fluency in spectroscopy is assumed.
-- [Mathematical_Numerical_Methods_MOC](./Mathematical_Numerical_Methods_MOC.html) — isochrone fitting + IMF inversion are numerical problems.
+- [Fundamentals_Astrophysics_Cosmology_MOC](Fundamentals_Astrophysics_Cosmology_MOC.html) — first-semester foundation. introduced stellar structure equations + nuclear burning + early CMDs.
+- [Observational_Astrophysics_MOC](Observational_Astrophysics_MOC.html) — methodological foundation. Covers the detector, photometry, atmospheric, and population synthesis framework for interpreting unresolved light when individual stars cannot be resolved.
+- [Astrophysics_of_Galaxies_MOC](Astrophysics_of_Galaxies_MOC.html) — parallel course on galaxies. Block 11 (early-type galaxy stellar populations) + Block 8 (Local Group) overlap directly.
+- [Observational_Cosmology_MOC](Observational_Cosmology_MOC.html) — cosmic SFR + reionisation overlap with the **first stars** topic.
+- [Astronomical_Spectroscopy_MOC](Astronomical_Spectroscopy_MOC.html) — fluency in spectroscopy is assumed.
+- [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) — isochrone fitting + IMF inversion are numerical problems.
 
 ## the 19 lectures
 
@@ -272,13 +271,13 @@ a 90-second version of the entire course:
 
 ## see also
 
-- [Observational_Astrophysics_MOC](./Observational_Astrophysics_MOC.html) — observational pipeline, photometric concepts, distance ladder, and population synthesis.
+- [Observational_Astrophysics_MOC](Observational_Astrophysics_MOC.html) — observational pipeline, photometric concepts, distance ladder, and population synthesis.
 - [Stellar Astrophysics research citations index](../03_Zettel/Theory/Stellar%20Astrophysics%20research%20citations%20index.html) — master list of papers/surveys cited across 19 lectures.
-- [Astrophysics_of_Galaxies_MOC](./Astrophysics_of_Galaxies_MOC.html) — galaxy-scale stellar populations.
-- [Observational_Cosmology_MOC](./Observational_Cosmology_MOC.html) — first stars, cosmic SFR, reionisation.
-- [Astronomical_Spectroscopy_MOC](./Astronomical_Spectroscopy_MOC.html) — spectroscopic foundation.
-- [Fundamentals_Astrophysics_Cosmology_MOC](./Fundamentals_Astrophysics_Cosmology_MOC.html) — stellar structure foundation.
-- [General_Relativity_MOC](./General_Relativity_MOC.html) — neutron stars + Schwarzschild end states.
+- [Astrophysics_of_Galaxies_MOC](Astrophysics_of_Galaxies_MOC.html) — galaxy-scale stellar populations.
+- [Observational_Cosmology_MOC](Observational_Cosmology_MOC.html) — first stars, cosmic SFR, reionisation.
+- [Astronomical_Spectroscopy_MOC](Astronomical_Spectroscopy_MOC.html) — spectroscopic foundation.
+- [Fundamentals_Astrophysics_Cosmology_MOC](Fundamentals_Astrophysics_Cosmology_MOC.html) — stellar structure foundation.
+- [General_Relativity_MOC](General_Relativity_MOC.html) — neutron stars + Schwarzschild end states.
 - Exams summer 2026 master plan — global study plan.
 
 ---
@@ -1132,119 +1131,3 @@ This matrix contains the signature questions, blackboard derivations, and trap p
 | **Boltzmann Level Population** | $\frac{N_b}{N_a} = \frac{g_b}{g_a}\exp\left(-\frac{E_b - E_a}{k_B T}\right)$ | Thermal excitation ratio between atomic states $a$ and $b$ |
 | **Saha Ionization Equation** | $\frac{N_{j+1}}{N_j} = \frac{2 k_B T}{P_e}\frac{u_{j+1}(T)}{u_j(T)}\left(\frac{2\pi m_e k_B T}{h^2}\right)^{3/2}\exp\left(-\frac{\chi_j}{k_B T}\right)$ | Ionization fraction balance in stellar photosphere atmospheres |
 | **Equivalent Width** | $W_\lambda = \int \left(1 - \frac{F_\lambda}{F_{\rm cont}}\right) d\lambda$ | Spectral absorption line strength integrated over profile |
-{% endraw %}
-
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (109)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./04_Atlas.html" class="backlink-item">04_Atlas</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Age%20dating%20from%20the%20WD%20luminosity%20function.html" class="backlink-item">Age dating from the WD luminosity function</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Age%20estimation%20in%20unresolved%20populations.html" class="backlink-item">Age estimation in unresolved populations</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Age-metallicity%20degeneracy.html" class="backlink-item">Age-metallicity degeneracy</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Age-metallicity%20relation%20of%20Galactic%20GCs.html" class="backlink-item">Age-metallicity relation of Galactic GCs</a></li>
-    <li class="backlink-item-wrap"><a href="./Astrophysics_of_the_Interstellar_Medium_MOC.html" class="backlink-item">Astrophysics_of_the_Interstellar_Medium_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Asymptotic%20giant%20branch%20AGB.html" class="backlink-item">Asymptotic giant branch AGB</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Atmospheric%20parameters%20Teff%20log%20g%20feh%20vmicro.html" class="backlink-item">Atmospheric parameters Teff log g feh vmicro</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Atmospheric%20parameters%20Teff%20log%20g%20feh%20vmicro.html" class="backlink-item">Atmospheric parameters Teff log g feh vmicro</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/BHs%20from%20gravitational%20waves.html" class="backlink-item">BHs from gravitational waves</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Binary%20stars%20in%20CMD.html" class="backlink-item">Binary stars in CMD</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Black%20holes%20in%20globular%20clusters.html" class="backlink-item">Black holes in globular clusters</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Blue%20straggler%20formation%20channels.html" class="backlink-item">Blue straggler formation channels</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Blue%20stragglers%20in%20star%20clusters.html" class="backlink-item">Blue stragglers in star clusters</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Bulge%20CMD%20complications.html" class="backlink-item">Bulge CMD complications</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Bulge%20microlensing%20surveys.html" class="backlink-item">Bulge microlensing surveys</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/CMD%20constraints%20on%20disk%20vs%20halo%20populations.html" class="backlink-item">CMD constraints on disk vs halo populations</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/CN%20CH%20MgAl%20anticorrelations.html" class="backlink-item">CN CH MgAl anticorrelations</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Cataclysmic%20variables%20in%20clusters.html" class="backlink-item">Cataclysmic variables in clusters</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Chandrasekhar%20mass%20limit.html" class="backlink-item">Chandrasekhar mass limit</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Cluster%20binary%20fraction%20methods.html" class="backlink-item">Cluster binary fraction methods</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Color-magnitude%20diagrams%20of%20clusters.html" class="backlink-item">Color-magnitude diagrams of clusters</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Critical%20metallicity%20for%20fragmentation.html" class="backlink-item">Critical metallicity for fragmentation</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Differential%20reddening%20maps.html" class="backlink-item">Differential reddening maps</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Dust%20attenuation%20in%20synthetic%20populations.html" class="backlink-item">Dust attenuation in synthetic populations</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Effects%20of%20differential%20reddening%20on%20CMD%20analysis.html" class="backlink-item">Effects of differential reddening on CMD analysis</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Element%20abundance%20patterns.html" class="backlink-item">Element abundance patterns</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Extended%20main%20sequence%20turn-off%20eMSTO.html" class="backlink-item">Extended main sequence turn-off eMSTO</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Extinction%20law%20and%20Rv.html" class="backlink-item">Extinction law and Rv</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Extragalactic%20star%20clusters.html" class="backlink-item">Extragalactic star clusters</a></li>
-    <li class="backlink-item-wrap"><a href="./Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/GC%20formation%20models%20with%20MPs.html" class="backlink-item">GC formation models with MPs</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Galactic%20GC%20two-population%20age%20structure.html" class="backlink-item">Galactic GC two-population age structure</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Galactic%20halo%20and%20bulge%20formation%20timescales.html" class="backlink-item">Galactic halo and bulge formation timescales</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Globular%20clusters%20as%20SSP%20laboratories.html" class="backlink-item">Globular clusters as SSP laboratories</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/H-alpha%20SFR%20tracer.html" class="backlink-item">H-alpha SFR tracer</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Halo%20accretion%20from%20dwarf%20galaxies.html" class="backlink-item">Halo accretion from dwarf galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Helium%20flash%20and%20horizontal%20branch.html" class="backlink-item">Helium flash and horizontal branch</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Helium%20spread%20in%20GCs.html" class="backlink-item">Helium spread in GCs</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Hunting%20BHs%20via%20radial%20velocities.html" class="backlink-item">Hunting BHs via radial velocities</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/IMF%20from%20cluster%20luminosity%20functions.html" class="backlink-item">IMF from cluster luminosity functions</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/IR%20SFR%20tracer.html" class="backlink-item">IR SFR tracer</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Initial%20mass%20function.html" class="backlink-item">Initial mass function</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Initial%20vs%20present-day%20mass%20function.html" class="backlink-item">Initial vs present-day mass function</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Initial-final%20mass%20relation%20IFMR.html" class="backlink-item">Initial-final mass relation IFMR</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Intermediate-mass%20BHs%20in%20GCs.html" class="backlink-item">Intermediate-mass BHs in GCs</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Interstellar%20reddening%20and%20the%20reddening%20vector.html" class="backlink-item">Interstellar reddening and the reddening vector</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Isochrones%20and%20isochrone%20fitting.html" class="backlink-item">Isochrones and isochrone fitting</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/JWST%20and%20the%20first%20stars.html" class="backlink-item">JWST and the first stars</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Lick%20indices.html" class="backlink-item">Lick indices</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Main%20sequence%20on%20the%20CMD.html" class="backlink-item">Main sequence on the CMD</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Main%20sequence%20turn-off%20as%20age%20indicator.html" class="backlink-item">Main sequence turn-off as age indicator</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Mass%20dependence%20of%20multiple%20populations.html" class="backlink-item">Mass dependence of multiple populations</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Mass-luminosity%20relation.html" class="backlink-item">Mass-luminosity relation</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Metallicity%20and%20chemical%20evolution.html" class="backlink-item">Metallicity and chemical evolution</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Millisecond%20pulsars%20in%20GCs.html" class="backlink-item">Millisecond pulsars in GCs</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Multiple%20populations%20in%20GCs%20discovery.html" class="backlink-item">Multiple populations in GCs discovery</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Multiple%20populations%20in%20extragalactic%20GCs.html" class="backlink-item">Multiple populations in extragalactic GCs</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Na%20O%20anticorrelation.html" class="backlink-item">Na O anticorrelation</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Open%20clusters%20as%20young%20SSP%20laboratories.html" class="backlink-item">Open clusters as young SSP laboratories</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Origin%20of%20eMSTO%20age%20spread%20or%20rotation.html" class="backlink-item">Origin of eMSTO age spread or rotation</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Photometric%20chromosome%20maps.html" class="backlink-item">Photometric chromosome maps</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Photometric%20redshifts.html" class="backlink-item">Photometric redshifts</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Polluter%20scenarios%20for%20second-generation%20GC%20stars.html" class="backlink-item">Polluter scenarios for second-generation GC stars</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Pop%20III%20nucleosynthesis%20signatures.html" class="backlink-item">Pop III nucleosynthesis signatures</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Pop%20III%20remnants%20in%20UFDGs.html" class="backlink-item">Pop III remnants in UFDGs</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Population%20I%20and%20II%20stars.html" class="backlink-item">Population I and II stars</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Population%20III%20stars.html" class="backlink-item">Population III stars</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Radial%20velocity%20from%20stellar%20spectra.html" class="backlink-item">Radial velocity from stellar spectra</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Red%20giant%20branch%20RGB.html" class="backlink-item">Red giant branch RGB</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Resolved%20vs%20unresolved%20stellar%20populations.html" class="backlink-item">Resolved vs unresolved stellar populations</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/SED%20fitting%20basics.html" class="backlink-item">SED fitting basics</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/SFR%20tracers%20from%20population%20synthesis.html" class="backlink-item">SFR tracers from population synthesis</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/SPS%20code%20families.html" class="backlink-item">SPS code families</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Salpeter%20Kroupa%20Chabrier%20IMFs.html" class="backlink-item">Salpeter Kroupa Chabrier IMFs</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Search%20for%20Pop%20III%20stars%20in%20dwarf%20galaxies.html" class="backlink-item">Search for Pop III stars in dwarf galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Single%20stellar%20population%20SSP.html" class="backlink-item">Single stellar population SSP</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Spectroscopic%20determination%20of%20Teff.html" class="backlink-item">Spectroscopic determination of Teff</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Spectroscopic%20determination%20of%20log%20g.html" class="backlink-item">Spectroscopic determination of log g</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Spectroscopic%20determination%20of%20metallicity.html" class="backlink-item">Spectroscopic determination of metallicity</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Splitting%20of%20the%20upper%20MS%20in%20young%20clusters.html" class="backlink-item">Splitting of the upper MS in young clusters</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Star%20cluster%20types.html" class="backlink-item">Star cluster types</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Star%20formation%20history%20of%20a%20population.html" class="backlink-item">Star formation history of a population</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Stellar%20Astrophysics%20research%20citations%20index.html" class="backlink-item">Stellar Astrophysics research citations index</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Stellar%20evolutionary%20phases%20on%20the%20CMD.html" class="backlink-item">Stellar evolutionary phases on the CMD</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Stellar%20mass%20estimation%20in%20unresolved%20populations.html" class="backlink-item">Stellar mass estimation in unresolved populations</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Stellar%20mass%20function%20xi%28M%29.html" class="backlink-item">Stellar mass function xi(M)</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Stellar%20population%20synthesis.html" class="backlink-item">Stellar population synthesis</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Stellar%20rotation%20effects%20on%20CMD.html" class="backlink-item">Stellar rotation effects on CMD</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Stellar%20rotation%20v%20sini.html" class="backlink-item">Stellar rotation v sini</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Stellar%20spectral%20types%20OBAFGKM.html" class="backlink-item">Stellar spectral types OBAFGKM</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Subgiant%20branch%20SGB.html" class="backlink-item">Subgiant branch SGB</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/The%20Galactic%20Bulge.html" class="backlink-item">The Galactic Bulge</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Type%20I%20and%20Type%20II%20GCs.html" class="backlink-item">Type I and Type II GCs</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/UFDG%20dark%20matter%20content.html" class="backlink-item">UFDG dark matter content</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/UFDG%20search%20via%20deep%20CMD.html" class="backlink-item">UFDG search via deep CMD</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/UFDG%20star%20formation%20histories.html" class="backlink-item">UFDG star formation histories</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/UV%20SFR%20tracer.html" class="backlink-item">UV SFR tracer</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Ultra-faint%20dwarf%20galaxies%20definition.html" class="backlink-item">Ultra-faint dwarf galaxies definition</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/WDCS%20turn%20to%20blue%20and%20CIA.html" class="backlink-item">WDCS turn to blue and CIA</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/WDCS%20vs%20MSTO%20ages%20comparison.html" class="backlink-item">WDCS vs MSTO ages comparison</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/White%20dwarf%20cooling%20sequence%20on%20the%20CMD.html" class="backlink-item">White dwarf cooling sequence on the CMD</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/White%20dwarf%20cooling%20theory.html" class="backlink-item">White dwarf cooling theory</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/White%20dwarf%20mass-radius%20relation.html" class="backlink-item">White dwarf mass-radius relation</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/White%20dwarf%20overview.html" class="backlink-item">White dwarf overview</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/White%20dwarf%20types%20He%20CO%20ONeMg.html" class="backlink-item">White dwarf types He CO ONeMg</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/X-ray%20sources%20in%20globular%20clusters.html" class="backlink-item">X-ray sources in globular clusters</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Yellow%20stragglers%20and%20sub-subgiants.html" class="backlink-item">Yellow stragglers and sub-subgiants</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/eMSTO%20and%20multiple%20populations%20connection.html" class="backlink-item">eMSTO and multiple populations connection</a></li>
-  </ul>
-</div>

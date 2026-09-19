@@ -2,7 +2,6 @@
 layout: "default"
 title: "Apodization"
 ---
-{% raw %}
 # Apodization
 
 literally: "removing the foot." a technique for reshaping the *aperture function* of a telescope or interferometer to suppress the diffraction wings (sidelobes) of the resulting PSF. used in coronagraphy, high-contrast imaging, and interferometric nulling.
@@ -80,4 +79,3 @@ it's a technique that sounds esoteric but is foundational: without apodization, 
 - [Nulling interferometry](interf/Nulling%20interferometry.html)
 - [Bracewell nuller](interf/Bracewell%20nuller.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

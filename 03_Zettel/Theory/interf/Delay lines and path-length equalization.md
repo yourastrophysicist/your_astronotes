@@ -2,7 +2,6 @@
 layout: "default"
 title: "Delay lines and path-length equalization"
 ---
-{% raw %}
 # Delay lines and path-length equalization
 
 the most distinctive feature of optical interferometers. since light travels through real optical paths (not heterodyne electronics), the path lengths from each telescope to the beam combiner must be matched to within the **coherence length** of the light. movable mirrors on precision rails do this.
@@ -110,26 +109,26 @@ source: ESO image eso9811a, VLTI delay line schematic.
 
 ## see also
 
-- [Components of a modern interferometer](./Components%20of%20a%20modern%20interferometer.html)
+- [Components of a modern interferometer](Components%20of%20a%20modern%20interferometer.html)
 - [Beam combiners](../Beam%20combiners.html)
-- [Fringe tracking](./Fringe%20tracking.html)
-- [Temporal coherence](./Temporal%20coherence.html)
-- [VLTI Very Large Telescope Interferometer](./VLTI%20Very%20Large%20Telescope%20Interferometer.html)
+- [Fringe tracking](Fringe%20tracking.html)
+- [Temporal coherence](Temporal%20coherence.html)
+- [VLTI Very Large Telescope Interferometer](VLTI%20Very%20Large%20Telescope%20Interferometer.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (10)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../Beam%20combiners.html" class="backlink-item">Beam combiners</a></li>
-    <li class="backlink-item-wrap"><a href="./Components%20of%20a%20modern%20interferometer.html" class="backlink-item">Components of a modern interferometer</a></li>
     <li class="backlink-item-wrap"><a href="../Components%20of%20a%20modern%20interferometer.html" class="backlink-item">Components of a modern interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="./Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
     <li class="backlink-item-wrap"><a href="../Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="./Fringe%20tracking.html" class="backlink-item">Fringe tracking</a></li>
     <li class="backlink-item-wrap"><a href="../Fringe%20tracking.html" class="backlink-item">Fringe tracking</a></li>
-    <li class="backlink-item-wrap"><a href="./Temporal%20coherence.html" class="backlink-item">Temporal coherence</a></li>
     <li class="backlink-item-wrap"><a href="../Temporal%20coherence.html" class="backlink-item">Temporal coherence</a></li>
+    <li class="backlink-item-wrap"><a href="Components%20of%20a%20modern%20interferometer.html" class="backlink-item">Components of a modern interferometer</a></li>
+    <li class="backlink-item-wrap"><a href="Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
+    <li class="backlink-item-wrap"><a href="Fringe%20tracking.html" class="backlink-item">Fringe tracking</a></li>
+    <li class="backlink-item-wrap"><a href="Temporal%20coherence.html" class="backlink-item">Temporal coherence</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

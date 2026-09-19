@@ -2,7 +2,6 @@
 layout: "default"
 title: "Effective potential approach"
 ---
-{% raw %}
 in spacetimes with enough symmetry (like Schwarzschild), the geodesic equation reduces to a **1D problem in an effective potential**. the standard tool for solving Schwarzschild orbits.
 
 ## the procedure
@@ -55,31 +54,31 @@ $$V_{\rm eff}^{\rm null}(r) = \left(1 - \frac{2GM}{r}\right)\frac{L^2}{r^2}$$
 
 ## see also
 
-- [Geodesic equation](./Geodesic%20equation.html)
-- [Killing vectors and conserved quantities](./Killing%20vectors%20and%20conserved%20quantities.html)
-- [Schwarzschild metric](./Schwarzschild%20metric.html)
-- [Schwarzschild effective potential](./Schwarzschild%20effective%20potential.html)
-- [Circular orbits in Schwarzschild](./Circular%20orbits%20in%20Schwarzschild.html)
-- [Photon sphere](./Photon%20sphere.html)
-- [Photon trajectories and impact parameter](./Photon%20trajectories%20and%20impact%20parameter.html)
+- [Geodesic equation](Geodesic%20equation.html)
+- [Killing vectors and conserved quantities](Killing%20vectors%20and%20conserved%20quantities.html)
+- [Schwarzschild metric](Schwarzschild%20metric.html)
+- [Schwarzschild effective potential](Schwarzschild%20effective%20potential.html)
+- [Circular orbits in Schwarzschild](Circular%20orbits%20in%20Schwarzschild.html)
+- [Photon sphere](Photon%20sphere.html)
+- [Photon trajectories and impact parameter](Photon%20trajectories%20and%20impact%20parameter.html)
 - Q12 - circular orbits and orbital frequency
 - Q14 - photon trajectory and impact parameter
 - [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
 - [Ch 6 - Black Holes](../../02_Literature/Book/Baumann%20GR/Ch%206%20-%20Black%20Holes.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (10)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Affine%20parameter.html" class="backlink-item">Affine parameter</a></li>
-    <li class="backlink-item-wrap"><a href="./Circular%20orbits%20in%20Schwarzschild.html" class="backlink-item">Circular orbits in Schwarzschild</a></li>
+    <li class="backlink-item-wrap"><a href="Affine%20parameter.html" class="backlink-item">Affine parameter</a></li>
+    <li class="backlink-item-wrap"><a href="Circular%20orbits%20in%20Schwarzschild.html" class="backlink-item">Circular orbits in Schwarzschild</a></li>
+    <li class="backlink-item-wrap"><a href="Geodesic%20equation.html" class="backlink-item">Geodesic equation</a></li>
+    <li class="backlink-item-wrap"><a href="Killing%20vectors%20and%20conserved%20quantities.html" class="backlink-item">Killing vectors and conserved quantities</a></li>
+    <li class="backlink-item-wrap"><a href="Light%20deflection.html" class="backlink-item">Light deflection</a></li>
+    <li class="backlink-item-wrap"><a href="Perihelion%20precession.html" class="backlink-item">Perihelion precession</a></li>
+    <li class="backlink-item-wrap"><a href="Photon%20sphere.html" class="backlink-item">Photon sphere</a></li>
+    <li class="backlink-item-wrap"><a href="Photon%20trajectories%20and%20impact%20parameter.html" class="backlink-item">Photon trajectories and impact parameter</a></li>
+    <li class="backlink-item-wrap"><a href="Schwarzschild%20effective%20potential.html" class="backlink-item">Schwarzschild effective potential</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Geodesic%20equation.html" class="backlink-item">Geodesic equation</a></li>
-    <li class="backlink-item-wrap"><a href="./Killing%20vectors%20and%20conserved%20quantities.html" class="backlink-item">Killing vectors and conserved quantities</a></li>
-    <li class="backlink-item-wrap"><a href="./Light%20deflection.html" class="backlink-item">Light deflection</a></li>
-    <li class="backlink-item-wrap"><a href="./Perihelion%20precession.html" class="backlink-item">Perihelion precession</a></li>
-    <li class="backlink-item-wrap"><a href="./Photon%20sphere.html" class="backlink-item">Photon sphere</a></li>
-    <li class="backlink-item-wrap"><a href="./Photon%20trajectories%20and%20impact%20parameter.html" class="backlink-item">Photon trajectories and impact parameter</a></li>
-    <li class="backlink-item-wrap"><a href="./Schwarzschild%20effective%20potential.html" class="backlink-item">Schwarzschild effective potential</a></li>
   </ul>
 </div>
+

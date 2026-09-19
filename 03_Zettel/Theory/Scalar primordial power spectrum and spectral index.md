@@ -2,7 +2,6 @@
 layout: "default"
 title: "Scalar primordial power spectrum and spectral index"
 ---
-{% raw %}
 # Scalar primordial power spectrum and spectral index
 
 > *the mathematical form of primordial density fluctuations, predicting a nearly scale-invariant red tilt.*
@@ -45,22 +44,21 @@ $$n_s - 1 = -2\epsilon - 2(\epsilon - \eta) = 2\eta - 4\epsilon \approx 2\eta_V 
 
 * parent moc: [Cosmology_of_the_Early_Universe_MOC](../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html)
 * related zettels:
-  - [Slow-roll parameters epsilon and eta](./Slow-roll%20parameters%20epsilon%20and%20eta.html)
-  - [Curvature perturbation R and zeta](./Curvature%20perturbation%20R%20and%20zeta.html)
-  - [Tensor perturbations and primordial gravitational waves](./Tensor%20perturbations%20and%20primordial%20gravitational%20waves.html)
+  - [Slow-roll parameters epsilon and eta](Slow-roll%20parameters%20epsilon%20and%20eta.html)
+  - [Curvature perturbation R and zeta](Curvature%20perturbation%20R%20and%20zeta.html)
+  - [Tensor perturbations and primordial gravitational waves](Tensor%20perturbations%20and%20primordial%20gravitational%20waves.html)
   - [Part3_Quantum_Perturbations_and_Power_Spectra](../../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part3_Quantum_Perturbations_and_Power_Spectra.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (8)</h4>
+  <h4 class="backlinks-title">Linked References (7)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Curvature%20perturbation%20R%20and%20zeta.html" class="backlink-item">Curvature perturbation R and zeta</a></li>
+    <li class="backlink-item-wrap"><a href="Quantum%20fluctuations%20of%20the%20inflaton%20field.html" class="backlink-item">Quantum fluctuations of the inflaton field</a></li>
+    <li class="backlink-item-wrap"><a href="Sasaki-Mukhanov%20variable%20and%20equation.html" class="backlink-item">Sasaki-Mukhanov variable and equation</a></li>
+    <li class="backlink-item-wrap"><a href="Slow-roll%20parameters%20epsilon%20and%20eta.html" class="backlink-item">Slow-roll parameters epsilon and eta</a></li>
+    <li class="backlink-item-wrap"><a href="Starobinsky%20R-squared%20inflation.html" class="backlink-item">Starobinsky R-squared inflation</a></li>
+    <li class="backlink-item-wrap"><a href="Tensor%20perturbations%20and%20primordial%20gravitational%20waves.html" class="backlink-item">Tensor perturbations and primordial gravitational waves</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html" class="backlink-item">Cosmology_of_the_Early_Universe_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Curvature%20perturbation%20R%20and%20zeta.html" class="backlink-item">Curvature perturbation R and zeta</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part3_Quantum_Perturbations_and_Power_Spectra.html" class="backlink-item">Part3_Quantum_Perturbations_and_Power_Spectra</a></li>
-    <li class="backlink-item-wrap"><a href="./Quantum%20fluctuations%20of%20the%20inflaton%20field.html" class="backlink-item">Quantum fluctuations of the inflaton field</a></li>
-    <li class="backlink-item-wrap"><a href="./Sasaki-Mukhanov%20variable%20and%20equation.html" class="backlink-item">Sasaki-Mukhanov variable and equation</a></li>
-    <li class="backlink-item-wrap"><a href="./Slow-roll%20parameters%20epsilon%20and%20eta.html" class="backlink-item">Slow-roll parameters epsilon and eta</a></li>
-    <li class="backlink-item-wrap"><a href="./Starobinsky%20R-squared%20inflation.html" class="backlink-item">Starobinsky R-squared inflation</a></li>
-    <li class="backlink-item-wrap"><a href="./Tensor%20perturbations%20and%20primordial%20gravitational%20waves.html" class="backlink-item">Tensor perturbations and primordial gravitational waves</a></li>
   </ul>
 </div>
+

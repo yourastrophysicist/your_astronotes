@@ -2,7 +2,6 @@
 layout: "default"
 title: "11_Parallel_Computing_Architectures_and_HPC_Scaling"
 ---
-{% raw %}
 # Lesson 11 – Parallel Computing Architectures and HPC Scaling
 
 *Computational Astrophysics, Prof. Tiziano Zingales*  
@@ -147,15 +146,12 @@ The real-world scaling of a parallel code is bounded by communication overhead:
 - [10_Nested_Sampling_and_Evidence_Computation](./10_Nested_Sampling_and_Evidence_Computation.html)
 - [12_MPI_Distributed_Memory_Programming_with_Python](./12_MPI_Distributed_Memory_Programming_with_Python.html)
 - [13_CloudVeneto_HPC_Infrastructure_and_OpenStack_Deployment](./13_CloudVeneto_HPC_Infrastructure_and_OpenStack_Deployment.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
+  <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./10_Nested_Sampling_and_Evidence_Computation.html" class="backlink-item">10_Nested_Sampling_and_Evidence_Computation</a></li>
-    <li class="backlink-item-wrap"><a href="./12_MPI_Distributed_Memory_Programming_with_Python.html" class="backlink-item">12_MPI_Distributed_Memory_Programming_with_Python</a></li>
-    <li class="backlink-item-wrap"><a href="./13_CloudVeneto_HPC_Infrastructure_and_OpenStack_Deployment.html" class="backlink-item">13_CloudVeneto_HPC_Infrastructure_and_OpenStack_Deployment</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Computational/Parallel%20computing%20architectures%20and%20Amdahl%20scaling%20laws.html" class="backlink-item">Parallel computing architectures and Amdahl scaling laws</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

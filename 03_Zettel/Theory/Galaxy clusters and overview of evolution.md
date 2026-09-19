@@ -2,7 +2,6 @@
 layout: "default"
 title: "Galaxy clusters and overview of evolution"
 ---
-{% raw %}
 **galaxy clusters** are the largest gravitationally bound structures in the universe. they contain $10^{14}$–$10^{15}\, M_\odot$ in dark matter, hot gas, and (a relatively small fraction in) galaxies. they are the cosmological "lighthouses" — their abundance and evolution trace the growth of cosmic structure.
 
 beyond clusters, the universe is structured into **superclusters** (loosely bound), **filaments** (the cosmic web), and **voids** — the large-scale structure that is the modern observational frontier.
@@ -34,7 +33,7 @@ three roughly comparable mass components:
 | **hot intracluster medium (ICM)** | $\sim 13\%$ | X-ray emission, SZ effect |
 | **galaxies (stars)** | $\sim 2\%$ | optical/NIR imaging |
 
-the **galaxies are the smallest mass component**! most baryons in clusters are in the ICM — diffuse hot gas at $T \sim 10^7$–$10^8$ K, emitting X-rays via thermal Bremsstrahlung (see [Bremsstrahlung](./Bremsstrahlung.html)).
+the **galaxies are the smallest mass component**! most baryons in clusters are in the ICM — diffuse hot gas at $T \sim 10^7$–$10^8$ K, emitting X-rays via thermal Bremsstrahlung (see [Bremsstrahlung](Bremsstrahlung.html)).
 
 ---
 
@@ -73,7 +72,7 @@ cluster abundance is a **direct probe of cosmological parameters**:
 - the **redshift evolution** $dn/dM(z)$ probes the growth factor $D(z)$
 - both are sensitive to dark matter and dark energy
 
-→ see [Press-Schechter halo mass function](./Press-Schechter%20halo%20mass%20function.html) and [Growth factor D(z)](./Growth%20factor%20D%28z%29.html).
+→ see [Press-Schechter halo mass function](Press-Schechter%20halo%20mass%20function.html) and [Growth factor D(z)](Growth%20factor%20D%28z%29.html).
 
 cluster cosmology is competitive with CMB and BAO for $\sigma_8$, $\Omega_m$, and is one of the prime science drivers of upcoming surveys (eROSITA, Euclid, Rubin Observatory).
 
@@ -87,7 +86,7 @@ clusters affect the galaxies they contain:
 - **suppression of star formation**: cluster galaxies have lower SFR than field galaxies of the same mass
 - **brightest cluster galaxy (BCG)**: at the cluster center, often a giant elliptical, grown by mergers and cooling flows
 
-→ see [Galaxy morphology vs physical properties](./Galaxy%20morphology%20vs%20physical%20properties.html).
+→ see [Galaxy morphology vs physical properties](Galaxy%20morphology%20vs%20physical%20properties.html).
 
 ---
 
@@ -98,9 +97,9 @@ beyond individual clusters, the **large-scale structure** consists of:
 - **filaments** connecting them (containing most of the cosmic baryons in the **WHIM**)
 - **voids** between filaments
 
-the cosmic web is the result of gravitational growth of primordial perturbations (see [Linear evolution of perturbations in expanding universe](./Linear%20evolution%20of%20perturbations%20in%20expanding%20universe.html)). N-body simulations (Millennium, IllustrisTNG, EAGLE) reproduce the observed structure remarkably well.
+the cosmic web is the result of gravitational growth of primordial perturbations (see [Linear evolution of perturbations in expanding universe](Linear%20evolution%20of%20perturbations%20in%20expanding%20universe.html)). N-body simulations (Millennium, IllustrisTNG, EAGLE) reproduce the observed structure remarkably well.
 
-→ see [Matter power spectrum and BAO](./Matter%20power%20spectrum%20and%20BAO.html) for the statistical description.
+→ see [Matter power spectrum and BAO](Matter%20power%20spectrum%20and%20BAO.html) for the statistical description.
 
 ---
 
@@ -114,37 +113,32 @@ a brief summary of how galaxies evolve from $z \sim 10$ to today:
 4. **z = 1-2**: emergence of the **galaxy main sequence** of star formation. quiescent galaxies start appearing on the red sequence.
 5. **z = 0-1**: declining star formation. cluster galaxies are quenched. galaxies drift along the main sequence or onto the red sequence.
 
-→ see [Cosmic star formation history](./Cosmic%20star%20formation%20history.html) for the integrated SFR vs cosmic time (the Madau-Dickinson plot).
+→ see [Cosmic star formation history](Cosmic%20star%20formation%20history.html) for the integrated SFR vs cosmic time (the Madau-Dickinson plot).
 
 ---
 
 ## see also
 
 - [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Galaxies in the local universe](./Galaxies%20in%20the%20local%20universe.html)
-- [Hubble morphological sequence](./Hubble%20morphological%20sequence.html)
-- [Galaxy morphology vs physical properties](./Galaxy%20morphology%20vs%20physical%20properties.html)
-- [Spectral energy distributions](./Spectral%20energy%20distributions.html)
-- [Press-Schechter halo mass function](./Press-Schechter%20halo%20mass%20function.html)
-- [Linear evolution of perturbations in expanding universe](./Linear%20evolution%20of%20perturbations%20in%20expanding%20universe.html)
-- [Matter power spectrum and BAO](./Matter%20power%20spectrum%20and%20BAO.html)
-- [Cosmic star formation history](./Cosmic%20star%20formation%20history.html)
-- [Bremsstrahlung](./Bremsstrahlung.html) — for the ICM X-ray emission
+- [Galaxies in the local universe](Galaxies%20in%20the%20local%20universe.html)
+- [Hubble morphological sequence](Hubble%20morphological%20sequence.html)
+- [Galaxy morphology vs physical properties](Galaxy%20morphology%20vs%20physical%20properties.html)
+- [Spectral energy distributions](Spectral%20energy%20distributions.html)
+- [Press-Schechter halo mass function](Press-Schechter%20halo%20mass%20function.html)
+- [Linear evolution of perturbations in expanding universe](Linear%20evolution%20of%20perturbations%20in%20expanding%20universe.html)
+- [Matter power spectrum and BAO](Matter%20power%20spectrum%20and%20BAO.html)
+- [Cosmic star formation history](Cosmic%20star%20formation%20history.html)
+- [Bremsstrahlung](Bremsstrahlung.html) — for the ICM X-ray emission
 - [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (10)</h4>
+  <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Interstellar_Medium/Carraro_06_Supernovae_and_Hot_Ionized_Medium.html" class="backlink-item">Carraro_06_Supernovae_and_Hot_Ionized_Medium</a></li>
-    <li class="backlink-item-wrap"><a href="./Cooling%20curve.html" class="backlink-item">Cooling curve</a></li>
-    <li class="backlink-item-wrap"><a href="./Dark%20matter%20in%20elliptical%20galaxies.html" class="backlink-item">Dark matter in elliptical galaxies</a></li>
+    <li class="backlink-item-wrap"><a href="Cooling%20curve.html" class="backlink-item">Cooling curve</a></li>
+    <li class="backlink-item-wrap"><a href="Missing%20baryons.html" class="backlink-item">Missing baryons</a></li>
+    <li class="backlink-item-wrap"><a href="Protocluster%20detection%20techniques.html" class="backlink-item">Protocluster detection techniques</a></li>
+    <li class="backlink-item-wrap"><a href="Ram%20pressure%20stripping%20in%20galaxy%20clusters.html" class="backlink-item">Ram pressure stripping in galaxy clusters</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Local%20Group%20galaxies.html" class="backlink-item">Local Group galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="./MOND.html" class="backlink-item">MOND</a></li>
-    <li class="backlink-item-wrap"><a href="./Missing%20baryons.html" class="backlink-item">Missing baryons</a></li>
-    <li class="backlink-item-wrap"><a href="./Protocluster%20detection%20techniques.html" class="backlink-item">Protocluster detection techniques</a></li>
-    <li class="backlink-item-wrap"><a href="./Ram%20pressure%20stripping%20in%20galaxy%20clusters.html" class="backlink-item">Ram pressure stripping in galaxy clusters</a></li>
-    <li class="backlink-item-wrap"><a href="./Virgo%20cluster.html" class="backlink-item">Virgo cluster</a></li>
   </ul>
 </div>
+

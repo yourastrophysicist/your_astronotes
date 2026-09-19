@@ -1,11 +1,8 @@
 ---
 layout: "default"
 title: "Bulge CMD complications"
-name: "Bulge CMD complications"
-description: "field star contamination + differential reddening + crowding making bulge CMD analysis hard, with HST proper motions + cluster ridge DR maps as the main mitigations"
 ---
-{% raw %}
-reading the CMD of the [Galactic bulge](./The%20Galactic%20Bulge.html) is one of the hardest problems in resolved-stellar-population astronomy. the bulge is bright + crowded + dust-obscured + behind the disk, and every standard CMD-fitting assumption gets stressed.
+reading the CMD of the [Galactic bulge](The%20Galactic%20Bulge.html) is one of the hardest problems in resolved-stellar-population astronomy. the bulge is bright + crowded + dust-obscured + behind the disk, and every standard CMD-fitting assumption gets stressed.
 
 ## the four main complications
 
@@ -25,7 +22,7 @@ bulge sight lines have $A_V \sim 1$-$30$ mag, varying on arcminute scales due to
 
 - mimic spread in metallicity,
 - mimic spread in age (if interpreted as TO width),
-- mimic [multiple populations](./Multiple%20populations%20in%20GCs%20discovery.html).
+- mimic [multiple populations](Multiple%20populations%20in%20GCs%20discovery.html).
 
 correction strategy: use cluster member ridge or RC ridge as an empirical reddening tracer (Lagioia et al. 2014, Milone et al. 2012). the cluster ridge gives a high-resolution $\delta E(B-V)$ map across the field, which is then applied to non-cluster bulge stars.
 
@@ -80,22 +77,22 @@ the bulge is the high-metallicity stress test of CMD analysis. mastering the pro
 
 ## see also
 
-- [The Galactic Bulge](./The%20Galactic%20Bulge.html)
-- [Bulge microlensing surveys](./Bulge%20microlensing%20surveys.html)
-- [Effects of differential reddening on CMD analysis](./Effects%20of%20differential%20reddening%20on%20CMD%20analysis.html)
-- [Differential reddening maps](./Differential%20reddening%20maps.html)
-- [Interstellar reddening and the reddening vector](./Interstellar%20reddening%20and%20the%20reddening%20vector.html)
-- [Color-magnitude diagrams of clusters](./Color-magnitude%20diagrams%20of%20clusters.html)
+- [The Galactic Bulge](The%20Galactic%20Bulge.html)
+- [Bulge microlensing surveys](Bulge%20microlensing%20surveys.html)
+- [Effects of differential reddening on CMD analysis](Effects%20of%20differential%20reddening%20on%20CMD%20analysis.html)
+- [Differential reddening maps](Differential%20reddening%20maps.html)
+- [Interstellar reddening and the reddening vector](Interstellar%20reddening%20and%20the%20reddening%20vector.html)
+- [Color-magnitude diagrams of clusters](Color-magnitude%20diagrams%20of%20clusters.html)
 - [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Bulge%20microlensing%20surveys.html" class="backlink-item">Bulge microlensing surveys</a></li>
-    <li class="backlink-item-wrap"><a href="./Differential%20reddening%20maps.html" class="backlink-item">Differential reddening maps</a></li>
-    <li class="backlink-item-wrap"><a href="./Effects%20of%20differential%20reddening%20on%20CMD%20analysis.html" class="backlink-item">Effects of differential reddening on CMD analysis</a></li>
+    <li class="backlink-item-wrap"><a href="Bulge%20microlensing%20surveys.html" class="backlink-item">Bulge microlensing surveys</a></li>
+    <li class="backlink-item-wrap"><a href="Differential%20reddening%20maps.html" class="backlink-item">Differential reddening maps</a></li>
+    <li class="backlink-item-wrap"><a href="Effects%20of%20differential%20reddening%20on%20CMD%20analysis.html" class="backlink-item">Effects of differential reddening on CMD analysis</a></li>
+    <li class="backlink-item-wrap"><a href="The%20Galactic%20Bulge.html" class="backlink-item">The Galactic Bulge</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./The%20Galactic%20Bulge.html" class="backlink-item">The Galactic Bulge</a></li>
   </ul>
 </div>
+

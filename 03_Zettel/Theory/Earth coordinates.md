@@ -2,7 +2,6 @@
 layout: "default"
 title: "Earth coordinates"
 ---
-{% raw %}
 to specify a point on the Earth's surface (or, equivalently, on the celestial sphere if I treat Earth as a unit sphere), I need **two angles**.
 
 the Earth's rotation axis defines two **poles**: north (P) and south (P'). perpendicular to the axis, through the center, is the **equatorial plane**; its intersection with the surface is the **equator**.
@@ -31,7 +30,7 @@ the Earth's rotation axis defines two **poles**: north (P) and south (P'). perpe
 
 ## distance between two points on Earth
 
-the great-circle distance between points $1$ and $2$ on the Earth's surface follows directly from the **spherical cosine rule** (see [Spherical trigonometry](./Spherical%20trigonometry.html)):
+the great-circle distance between points $1$ and $2$ on the Earth's surface follows directly from the **spherical cosine rule** (see [Spherical trigonometry](Spherical%20trigonometry.html)):
 $$\cos a = \cos A \sin b \sin c + \cos b \cos c$$
 
 set up the spherical triangle with the north pole as one vertex, then:
@@ -71,10 +70,10 @@ so by measuring how high Polaris sits above the northern horizon, I directly rea
 ## see also
 
 - [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Spherical_astronomy_complete](./Spherical_astronomy_complete.html)
-- [Celestial sphere and great circles](./Celestial%20sphere%20and%20great%20circles.html)
-- [Spherical trigonometry](./Spherical%20trigonometry.html)
-- [Equatorial system](./Equatorial%20system.html)
+- [Spherical_astronomy_complete](Spherical_astronomy_complete.html)
+- [Celestial sphere and great circles](Celestial%20sphere%20and%20great%20circles.html)
+- [Spherical trigonometry](Spherical%20trigonometry.html)
+- [Equatorial system](Equatorial%20system.html)
 
 ---
 
@@ -91,19 +90,19 @@ so by measuring how high Polaris sits above the northern horizon, I directly rea
 
 ![obs_sph1-16.png](../../assets/images/obs_sph1-16.png)
 *Application of spherical cosine law to terrestrial navigation.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (9)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./AU%20calibration%20parallax%20and%20parsec.html" class="backlink-item">AU calibration parallax and parsec</a></li>
-    <li class="backlink-item-wrap"><a href="./Atmospheric%20refraction.html" class="backlink-item">Atmospheric refraction</a></li>
-    <li class="backlink-item-wrap"><a href="./Celestial%20sphere%20and%20great%20circles.html" class="backlink-item">Celestial sphere and great circles</a></li>
-    <li class="backlink-item-wrap"><a href="./Equatorial%20system.html" class="backlink-item">Equatorial system</a></li>
+    <li class="backlink-item-wrap"><a href="AU%20calibration%20parallax%20and%20parsec.html" class="backlink-item">AU calibration parallax and parsec</a></li>
+    <li class="backlink-item-wrap"><a href="Atmospheric%20refraction.html" class="backlink-item">Atmospheric refraction</a></li>
+    <li class="backlink-item-wrap"><a href="Celestial%20sphere%20and%20great%20circles.html" class="backlink-item">Celestial sphere and great circles</a></li>
+    <li class="backlink-item-wrap"><a href="Equatorial%20system.html" class="backlink-item">Equatorial system</a></li>
+    <li class="backlink-item-wrap"><a href="Spherical%20trigonometry.html" class="backlink-item">Spherical trigonometry</a></li>
+    <li class="backlink-item-wrap"><a href="Spherical_astronomy_complete.html" class="backlink-item">Spherical_astronomy_complete</a></li>
+    <li class="backlink-item-wrap"><a href="Time%20keeping%20in%20astronomy.html" class="backlink-item">Time keeping in astronomy</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Spherical%20trigonometry.html" class="backlink-item">Spherical trigonometry</a></li>
-    <li class="backlink-item-wrap"><a href="./Spherical_astronomy_complete.html" class="backlink-item">Spherical_astronomy_complete</a></li>
-    <li class="backlink-item-wrap"><a href="./Time%20keeping%20in%20astronomy.html" class="backlink-item">Time keeping in astronomy</a></li>
   </ul>
 </div>
+

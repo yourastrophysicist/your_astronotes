@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Non-parametric galaxy morphology metrics"
-name: "Non-parametric galaxy morphology metrics"
-description: "quantitative structural classification, Concentration, Asymmetry, Smoothness, Gini coefficient, and the M20 spatial second order moment"
 ---
-{% raw %}
 traditional visual morphological classification (Hubble tuning fork) is subjective and fails at high redshifts ($z > 1$), where galaxies are disturbed and clumpy. non-parametric structural metrics quantify galaxy light distributions directly from digital images without assuming an analytical profile (such as a Sérsic profile).
 
 ## the cas system (cons निर्णय / conselice 2003)
@@ -51,8 +48,7 @@ $$\text{Merger boundary}: G > -0.14 M_{20} + 0.33$$
 - [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
 - [Pablo_05_Galaxies_at_cosmological_distances](../../02_Literature/Lectures/Observational_Cosmology/Pablo_05_Galaxies_at_cosmological_distances.html)
 - [Pablo_02_Statistical_properties_of_galaxies](../../02_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html)
-- [Galaxy morphology vs physical properties](./Galaxy%20morphology%20vs%20physical%20properties.html)
-{% endraw %}
+- [Galaxy morphology vs physical properties](Galaxy%20morphology%20vs%20physical%20properties.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (1)</h4>
@@ -60,3 +56,4 @@ $$\text{Merger boundary}: G > -0.14 M_{20} + 0.33$$
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
   </ul>
 </div>
+

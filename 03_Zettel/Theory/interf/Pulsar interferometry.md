@@ -2,7 +2,6 @@
 layout: "default"
 title: "Pulsar interferometry"
 ---
-{% raw %}
 # Pulsar interferometry
 
 pulsars are *the* radio interferometric target par excellence: small ($\sim 10$ km neutron stars), bright ($T_b \sim 10^{30}$ K), and produce *precisely-timed* signals. interferometry of pulsars provides:
@@ -43,7 +42,7 @@ VLA/MERLIN imaging at cm wavelengths reveals the *internal structure* of PWNe â€
 
 ## pulsar timing arrays
 
-a *galactic-scale* interferometer made from precise pulsar timing. detects low-frequency gravitational waves at nHz frequencies. see [Pulsar timing arrays as interferometers](./Pulsar%20timing%20arrays%20as%20interferometers.html).
+a *galactic-scale* interferometer made from precise pulsar timing. detects low-frequency gravitational waves at nHz frequencies. see [Pulsar timing arrays as interferometers](Pulsar%20timing%20arrays%20as%20interferometers.html).
 
 key arrays:
 - **NANOGrav**: ~67 pulsars, 15-year dataset
@@ -107,19 +106,19 @@ these will:
 
 ## see also
 
-- [Major radio interferometers](./Major%20radio%20interferometers.html)
-- [Very Long Baseline Interferometry VLBI](./Very%20Long%20Baseline%20Interferometry%20VLBI.html)
-- [Pulsar timing arrays as interferometers](./Pulsar%20timing%20arrays%20as%20interferometers.html)
+- [Major radio interferometers](Major%20radio%20interferometers.html)
+- [Very Long Baseline Interferometry VLBI](Very%20Long%20Baseline%20Interferometry%20VLBI.html)
+- [Pulsar timing arrays as interferometers](Pulsar%20timing%20arrays%20as%20interferometers.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Components%20of%20a%20modern%20interferometer%20continued.html" class="backlink-item">Components of a modern interferometer continued</a></li>
     <li class="backlink-item-wrap"><a href="../Components%20of%20a%20modern%20interferometer%20continued.html" class="backlink-item">Components of a modern interferometer continued</a></li>
-    <li class="backlink-item-wrap"><a href="./Pulsar%20timing%20arrays%20as%20interferometers.html" class="backlink-item">Pulsar timing arrays as interferometers</a></li>
     <li class="backlink-item-wrap"><a href="../Pulsar%20timing%20arrays%20as%20interferometers.html" class="backlink-item">Pulsar timing arrays as interferometers</a></li>
+    <li class="backlink-item-wrap"><a href="Components%20of%20a%20modern%20interferometer%20continued.html" class="backlink-item">Components of a modern interferometer continued</a></li>
+    <li class="backlink-item-wrap"><a href="Pulsar%20timing%20arrays%20as%20interferometers.html" class="backlink-item">Pulsar timing arrays as interferometers</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

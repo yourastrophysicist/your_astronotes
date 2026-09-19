@@ -2,7 +2,6 @@
 layout: "default"
 title: "Celestial sphere and great circles"
 ---
-{% raw %}
 the stars look like they sit on a sphere whose center happens to be wherever I am standing.
 	I do not know their true distances from me, and for the purposes of pointing I do not care.
 		I just need **two coordinates** to identify a point on this directional sphere.
@@ -58,16 +57,16 @@ quick check: an octant of a unit sphere has all three angles equal to $90°$, so
 
 every coordinate system I will use (alt-azimuth, equatorial, ecliptic, galactic) is a parametrization of this same celestial sphere. transforming between them means rotating between two great-circle frames. that whole machinery is called **spherical trigonometry**, and it is built directly on the spherical-triangle setup above.
 
-→ next: [Spherical trigonometry](./Spherical%20trigonometry.html)
+→ next: [Spherical trigonometry](Spherical%20trigonometry.html)
 
 ---
 
 ## see also
 
 - [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Spherical_astronomy_complete](./Spherical_astronomy_complete.html) — the comprehensive narrative of the whole block
-- [Spherical trigonometry](./Spherical%20trigonometry.html)
-- [Earth coordinates](./Earth%20coordinates.html)
+- [Spherical_astronomy_complete](Spherical_astronomy_complete.html) — the comprehensive narrative of the whole block
+- [Spherical trigonometry](Spherical%20trigonometry.html)
+- [Earth coordinates](Earth%20coordinates.html)
 
 ---
 
@@ -90,15 +89,15 @@ every coordinate system I will use (alt-azimuth, equatorial, ecliptic, galactic)
 
 ![obs_sph1-12.png](../../assets/images/obs_sph1-12.png)
 *Area of spherical triangle = E * R^2.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Earth%20coordinates.html" class="backlink-item">Earth coordinates</a></li>
-    <li class="backlink-item-wrap"><a href="./Ecliptic%20system.html" class="backlink-item">Ecliptic system</a></li>
+    <li class="backlink-item-wrap"><a href="Earth%20coordinates.html" class="backlink-item">Earth coordinates</a></li>
+    <li class="backlink-item-wrap"><a href="Ecliptic%20system.html" class="backlink-item">Ecliptic system</a></li>
+    <li class="backlink-item-wrap"><a href="Spherical%20trigonometry.html" class="backlink-item">Spherical trigonometry</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Spherical%20trigonometry.html" class="backlink-item">Spherical trigonometry</a></li>
   </ul>
 </div>
+

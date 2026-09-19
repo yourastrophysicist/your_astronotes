@@ -2,7 +2,6 @@
 layout: "default"
 title: "09_Bayesian_Hierarchical_Models_for_Type_Ia_Supernovae"
 ---
-{% raw %}
 # Bayesian Hierarchical Models for Type Ia Supernovae
 
 Graduate lecture notes in Astro-Statistics and Cosmology, taught by Prof. Michele Liguori at the University of Padua.
@@ -181,14 +180,12 @@ The denominator normalization term penalizes parameter configurations that predi
 
 ![BHM Marginalization and Posterior Contours](../../../assets/images/astrostat_bhm_p03.png)
 *Figure AST-06: Posterior parameter constraints and residual Hubble diagram from the hierarchical supernova pipeline. Marginalizing over individual latent distances analytically or via Gibbs/No-U-Turn sampling prevents Malmquist bias and provides unbiased cosmological parameter recovery.*
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
+  <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./05_Monte_Carlo_Metropolis_Hastings_and_MCMC_Convergence_Diagnostics.html" class="backlink-item">05_Monte_Carlo_Metropolis_Hastings_and_MCMC_Convergence_Diagnostics</a></li>
-    <li class="backlink-item-wrap"><a href="./08_Galaxy_Clustering_Point_Processes_and_Shot_Noise.html" class="backlink-item">08_Galaxy_Clustering_Point_Processes_and_Shot_Noise</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Bayesian%20hierarchical%20modeling%20for%20Type%20Ia%20supernovae.html" class="backlink-item">Bayesian hierarchical modeling for Type Ia supernovae</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
   </ul>
 </div>
+

@@ -2,7 +2,6 @@
 layout: "default"
 title: "Connected element interferometer"
 ---
-{% raw %}
 # Connected element interferometer
 
 a radio interferometer in which all antennas share a single common local oscillator and a centralized correlator, with signals brought in by cable or fiber. examples: VLA, ALMA, MeerKAT, ATCA, GMRT. baselines limited to ~100 km by signal-transport infrastructure.
@@ -113,26 +112,26 @@ these will dwarf current CEIs in sensitivity and survey speed.
 
 ## see also
 
-- [Radio interferometer architecture](./Radio%20interferometer%20architecture.html)
-- [Very Long Baseline Interferometry VLBI](./Very%20Long%20Baseline%20Interferometry%20VLBI.html)
-- [Earth rotation synthesis in radio](./Earth%20rotation%20synthesis%20in%20radio.html)
-- [Major radio interferometers](./Major%20radio%20interferometers.html)
+- [Radio interferometer architecture](Radio%20interferometer%20architecture.html)
+- [Very Long Baseline Interferometry VLBI](Very%20Long%20Baseline%20Interferometry%20VLBI.html)
+- [Earth rotation synthesis in radio](Earth%20rotation%20synthesis%20in%20radio.html)
+- [Major radio interferometers](Major%20radio%20interferometers.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (11)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Earth%20rotation%20synthesis%20in%20radio.html" class="backlink-item">Earth rotation synthesis in radio</a></li>
     <li class="backlink-item-wrap"><a href="../Earth%20rotation%20synthesis%20in%20radio.html" class="backlink-item">Earth rotation synthesis in radio</a></li>
     <li class="backlink-item-wrap"><a href="../Major%20radio%20interferometers.html" class="backlink-item">Major radio interferometers</a></li>
-    <li class="backlink-item-wrap"><a href="./Major%20radio%20interferometers.html" class="backlink-item">Major radio interferometers</a></li>
     <li class="backlink-item-wrap"><a href="../Optimal%20array%20geometry.html" class="backlink-item">Optimal array geometry</a></li>
-    <li class="backlink-item-wrap"><a href="./Radio%20interferometer%20architecture.html" class="backlink-item">Radio interferometer architecture</a></li>
     <li class="backlink-item-wrap"><a href="../Radio%20interferometer%20architecture.html" class="backlink-item">Radio interferometer architecture</a></li>
     <li class="backlink-item-wrap"><a href="../Two-element%20correlator.html" class="backlink-item">Two-element correlator</a></li>
     <li class="backlink-item-wrap"><a href="../Very%20Long%20Baseline%20Interferometry%20VLBI.html" class="backlink-item">Very Long Baseline Interferometry VLBI</a></li>
-    <li class="backlink-item-wrap"><a href="./Very%20Long%20Baseline%20Interferometry%20VLBI.html" class="backlink-item">Very Long Baseline Interferometry VLBI</a></li>
+    <li class="backlink-item-wrap"><a href="Earth%20rotation%20synthesis%20in%20radio.html" class="backlink-item">Earth rotation synthesis in radio</a></li>
+    <li class="backlink-item-wrap"><a href="Major%20radio%20interferometers.html" class="backlink-item">Major radio interferometers</a></li>
+    <li class="backlink-item-wrap"><a href="Radio%20interferometer%20architecture.html" class="backlink-item">Radio interferometer architecture</a></li>
+    <li class="backlink-item-wrap"><a href="Very%20Long%20Baseline%20Interferometry%20VLBI.html" class="backlink-item">Very Long Baseline Interferometry VLBI</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

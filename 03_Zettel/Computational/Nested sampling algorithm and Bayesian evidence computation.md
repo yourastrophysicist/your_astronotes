@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Nested sampling algorithm and Bayesian evidence computation"
-name: "Nested sampling algorithm and Bayesian evidence computation"
-description: "Skilling 1D prior mass transformation, live points, prior shrinkage, and marginal likelihood evidence computation"
 ---
-{% raw %}
 John Skilling (2004) invented **Nested Sampling** to solve the difficult problem of computing the Bayesian evidence (marginal likelihood $\mathcal{Z}$), which standard MCMC algorithms cannot calculate efficiently.
 
 ## the bayesian evidence and model selection
@@ -53,14 +50,14 @@ implemented in state-of-the-art astrophysical packages:
 
 - [Computational_Astrophysics_MOC](../../04_Atlas/Computational_Astrophysics_MOC.html)
 - [10_Nested_Sampling_and_Evidence_Computation](../../02_Literature/Lectures/Computational_Astrophysics/10_Nested_Sampling_and_Evidence_Computation.html)
-- [Exoplanet atmospheric retrieval and TauREx framework](./Exoplanet%20atmospheric%20retrieval%20and%20TauREx%20framework.html)
-- [Affine-Invariant Ensemble MCMC with emcee](./Affine-Invariant%20Ensemble%20MCMC%20with%20emcee.html)
-{% endraw %}
+- [Exoplanet atmospheric retrieval and TauREx framework](Exoplanet%20atmospheric%20retrieval%20and%20TauREx%20framework.html)
+- [Affine-Invariant Ensemble MCMC with emcee](Affine-Invariant%20Ensemble%20MCMC%20with%20emcee.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Exoplanet%20atmospheric%20retrieval%20and%20TauREx%20framework.html" class="backlink-item">Exoplanet atmospheric retrieval and TauREx framework</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Exoplanet%20atmospheric%20retrieval%20and%20TauREx%20framework.html" class="backlink-item">Exoplanet atmospheric retrieval and TauREx framework</a></li>
   </ul>
 </div>
+

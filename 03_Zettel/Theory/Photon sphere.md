@@ -2,7 +2,6 @@
 layout: "default"
 title: "Photon sphere"
 ---
-{% raw %}
 the **photon sphere** is the radius at which photons can orbit a Schwarzschild black hole on (unstable) circular trajectories. located at $r = 3GM$, exactly $1.5\times$ the Schwarzschild radius.
 
 ## the location
@@ -57,29 +56,27 @@ so a rotating BH has an asymmetric shadow, slightly squashed. EHT data on M87 + 
 
 ## see also
 
-- [Schwarzschild metric](./Schwarzschild%20metric.html)
-- [Schwarzschild effective potential](./Schwarzschild%20effective%20potential.html)
-- [Photon trajectories and impact parameter](./Photon%20trajectories%20and%20impact%20parameter.html)
-- [Circular orbits in Schwarzschild](./Circular%20orbits%20in%20Schwarzschild.html)
-- [Effective potential approach](./Effective%20potential%20approach.html)
+- [Schwarzschild metric](Schwarzschild%20metric.html)
+- [Schwarzschild effective potential](Schwarzschild%20effective%20potential.html)
+- [Photon trajectories and impact parameter](Photon%20trajectories%20and%20impact%20parameter.html)
+- [Circular orbits in Schwarzschild](Circular%20orbits%20in%20Schwarzschild.html)
+- [Effective potential approach](Effective%20potential%20approach.html)
 - Q14 - photon trajectory and impact parameter
 - [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
 - [Ch 6 - Black Holes](../../02_Literature/Book/Baumann%20GR/Ch%206%20-%20Black%20Holes.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (11)</h4>
+  <h4 class="backlinks-title">Linked References (9)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Book/Baumann%20GR/Ch%203%20-%20A%20First%20Look%20at%20Geodesics.html" class="backlink-item">Ch 3 - A First Look at Geodesics</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Book/Baumann%20GR/Ch%206%20-%20Black%20Holes.html" class="backlink-item">Ch 6 - Black Holes</a></li>
-    <li class="backlink-item-wrap"><a href="./Circular%20orbits%20in%20Schwarzschild.html" class="backlink-item">Circular orbits in Schwarzschild</a></li>
-    <li class="backlink-item-wrap"><a href="./Effective%20potential%20approach.html" class="backlink-item">Effective potential approach</a></li>
+    <li class="backlink-item-wrap"><a href="Circular%20orbits%20in%20Schwarzschild.html" class="backlink-item">Circular orbits in Schwarzschild</a></li>
+    <li class="backlink-item-wrap"><a href="Effective%20potential%20approach.html" class="backlink-item">Effective potential approach</a></li>
+    <li class="backlink-item-wrap"><a href="Gravitational%20lensing%20-%20intro.html" class="backlink-item">Gravitational lensing - intro</a></li>
+    <li class="backlink-item-wrap"><a href="Light%20deflection.html" class="backlink-item">Light deflection</a></li>
+    <li class="backlink-item-wrap"><a href="Photon%20trajectories%20and%20impact%20parameter.html" class="backlink-item">Photon trajectories and impact parameter</a></li>
+    <li class="backlink-item-wrap"><a href="Schwarzschild%20effective%20potential.html" class="backlink-item">Schwarzschild effective potential</a></li>
+    <li class="backlink-item-wrap"><a href="Schwarzschild%20horizon.html" class="backlink-item">Schwarzschild horizon</a></li>
+    <li class="backlink-item-wrap"><a href="Schwarzschild%20metric.html" class="backlink-item">Schwarzschild metric</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Gravitational%20lensing%20-%20intro.html" class="backlink-item">Gravitational lensing - intro</a></li>
-    <li class="backlink-item-wrap"><a href="./Light%20deflection.html" class="backlink-item">Light deflection</a></li>
-    <li class="backlink-item-wrap"><a href="./Photon%20trajectories%20and%20impact%20parameter.html" class="backlink-item">Photon trajectories and impact parameter</a></li>
-    <li class="backlink-item-wrap"><a href="./Schwarzschild%20effective%20potential.html" class="backlink-item">Schwarzschild effective potential</a></li>
-    <li class="backlink-item-wrap"><a href="./Schwarzschild%20horizon.html" class="backlink-item">Schwarzschild horizon</a></li>
-    <li class="backlink-item-wrap"><a href="./Schwarzschild%20metric.html" class="backlink-item">Schwarzschild metric</a></li>
   </ul>
 </div>
+

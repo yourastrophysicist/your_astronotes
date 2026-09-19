@@ -2,7 +2,6 @@
 layout: "default"
 title: "04_Small_Planets_and_Host_Star_Correlations"
 ---
-{% raw %}
 # Lesson 04 – Small Planets and Host Star Correlations
 
 *Exoplanetary Astrophysics, Prof. Giampaolo Piotto (Lecture 20/10/2025)*  
@@ -145,14 +144,12 @@ Because true Earth-Sun analogs ($P \sim 365\text{ d}, R_p \sim 1 R_\oplus$ aroun
 - Previous Lecture: [03_Demographics_and_Survey_Completeness](./03_Demographics_and_Survey_Completeness.html)
 - Next Lecture: [05_Gravitational_Microlensing_Principles_and_Light_Curves](./05_Gravitational_Microlensing_Principles_and_Light_Curves.html)
 - Related Notes: Mass-radius diagram and interior models | Exoplanetary atmospheres and transmission spectroscopy
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
+  <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./03_Demographics_and_Survey_Completeness.html" class="backlink-item">03_Demographics_and_Survey_Completeness</a></li>
-    <li class="backlink-item-wrap"><a href="./05_Gravitational_Microlensing_Principles_and_Light_Curves.html" class="backlink-item">05_Gravitational_Microlensing_Principles_and_Light_Curves</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Small%20exoplanets%20and%20the%20Fulton%20radius%20valley.html" class="backlink-item">Small exoplanets and the Fulton radius valley</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

@@ -1,13 +1,8 @@
 ---
 layout: "default"
 title: "Carraro_02_Neutral_Hydrogen_and_21cm_Universe"
-name: "Carraro 02 - Neutral Hydrogen and the 21cm Universe"
-course: "Astrophysics of the Interstellar Medium"
-lecturer: "Prof. Giovanni Carraro"
-session: "02"
 tags: ""
 ---
-{% raw %}
 # Carraro 02 - Neutral Hydrogen and the 21cm Universe
 
 *Course: Astrophysics of the Interstellar Medium, Master in Astrophysics and Cosmology, Università degli Studi di Padova*  
@@ -214,15 +209,14 @@ prof. carraro surveyed the modern observational frontiers:
 
 ![Milky Way HI Kinematics and Spiral Arms](../../../assets/images/ism_hi_p03.png)
 *Figure ISM-02: Galactic longitude-velocity $(l, v_{\mathrm{LSR}})$ diagram and reconstructed spiral structure of the Milky Way derived from 21cm line surveys using the kinematic distance method.*
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
+  <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html" class="backlink-item">Astrophysics_of_the_Interstellar_Medium_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Carraro_01_Introduction_and_Multi-phase_ISM.html" class="backlink-item">Carraro_01_Introduction_and_Multi-phase_ISM</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Galactic%20HI%20kinematics%20and%20Milky%20Way%20spiral%20structure.html" class="backlink-item">Galactic HI kinematics and Milky Way spiral structure</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/HI%2021%20cm%20hyperfine%20transition.html" class="backlink-item">HI 21 cm hyperfine transition</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Spin%20temperature%20and%2021%20cm%20radiative%20transfer.html" class="backlink-item">Spin temperature and 21 cm radiative transfer</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html" class="backlink-item">Astrophysics_of_the_Interstellar_Medium_MOC</a></li>
   </ul>
 </div>
+

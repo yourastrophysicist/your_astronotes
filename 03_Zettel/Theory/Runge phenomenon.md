@@ -2,7 +2,6 @@
 layout: "default"
 title: "Runge phenomenon"
 ---
-{% raw %}
 # Runge phenomenon
 
 a counterintuitive failure of polynomial interpolation. as I increase the polynomial degree to better fit a smooth function on a fixed interval with equispaced nodes, the interpolant develops *violent oscillations* near the endpoints. more data makes the answer *worse*. discovered by Runge in 1901.
@@ -88,21 +87,21 @@ the Runge phenomenon is a striking example of "more is less" in numerical analys
 
 ## see also
 
-- [Lagrange polynomial interpolation](./Lagrange%20polynomial%20interpolation.html)
-- [Newton divided differences](./Newton%20divided%20differences.html)
-- [Cubic spline interpolation](./Cubic%20spline%20interpolation.html)
-- [Linear interpolation](./Linear%20interpolation.html)
+- [Lagrange polynomial interpolation](Lagrange%20polynomial%20interpolation.html)
+- [Newton divided differences](Newton%20divided%20differences.html)
+- [Cubic spline interpolation](Cubic%20spline%20interpolation.html)
+- [Linear interpolation](Linear%20interpolation.html)
 - [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (6)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Cubic%20spline%20interpolation.html" class="backlink-item">Cubic spline interpolation</a></li>
-    <li class="backlink-item-wrap"><a href="./Lagrange%20polynomial%20interpolation.html" class="backlink-item">Lagrange polynomial interpolation</a></li>
-    <li class="backlink-item-wrap"><a href="./Linear%20interpolation.html" class="backlink-item">Linear interpolation</a></li>
+    <li class="backlink-item-wrap"><a href="Cubic%20spline%20interpolation.html" class="backlink-item">Cubic spline interpolation</a></li>
+    <li class="backlink-item-wrap"><a href="Lagrange%20polynomial%20interpolation.html" class="backlink-item">Lagrange polynomial interpolation</a></li>
+    <li class="backlink-item-wrap"><a href="Linear%20interpolation.html" class="backlink-item">Linear interpolation</a></li>
+    <li class="backlink-item-wrap"><a href="Newton%20divided%20differences.html" class="backlink-item">Newton divided differences</a></li>
+    <li class="backlink-item-wrap"><a href="Polynomial%20fitting.html" class="backlink-item">Polynomial fitting</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Newton%20divided%20differences.html" class="backlink-item">Newton divided differences</a></li>
-    <li class="backlink-item-wrap"><a href="./Polynomial%20fitting.html" class="backlink-item">Polynomial fitting</a></li>
   </ul>
 </div>
+

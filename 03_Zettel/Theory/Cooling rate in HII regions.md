@@ -2,7 +2,6 @@
 layout: "default"
 title: "Cooling rate in HII regions"
 ---
-{% raw %}
 in a photoionised gas, **cooling** is dominated by **collisionally excited forbidden lines** of metals: O$^{++}$, N$^+$, S$^+$, etc. these lines carry away kinetic energy in the form of escaping photons.
 
 ## the formula
@@ -35,7 +34,7 @@ cooling rate scales as $L \propto Z$ (metal abundance) directly, since metal-lin
 - **low metallicity** ($Z \sim 0.01\,Z_\odot$): cooling weak, $T_e$ rises to $15\,000$ to $20\,000$ K (e.g. in extragalactic HII regions of dwarf galaxies, BCDs).
 - **very metal-rich** ($Z \sim 2\,Z_\odot$): cooling very efficient, $T_e \sim 5000$ to $7000$ K.
 
-so **$T_e$ is anti-correlated with metallicity**, the opposite of intuition. used as a metallicity diagnostic via direct $T_e$ measurements ([OIII forbidden lines](./OIII%20forbidden%20lines.html)).
+so **$T_e$ is anti-correlated with metallicity**, the opposite of intuition. used as a metallicity diagnostic via direct $T_e$ measurements ([OIII forbidden lines](OIII%20forbidden%20lines.html)).
 
 ## H Lyman alpha cooling
 
@@ -47,7 +46,7 @@ since $E_{ul}/k_BT_e$ is large at typical $T_e$, the Boltzmann factor is small a
 
 ## free-free cooling
 
-at $T_e \sim 10^4$ K, free-free emission is **subdominant** to forbidden lines. but at $T \gtrsim 10^7$ K (cluster ICM, SNR shocks), free-free becomes the dominant cooling mechanism. see [Bremsstrahlung](./Bremsstrahlung.html).
+at $T_e \sim 10^4$ K, free-free emission is **subdominant** to forbidden lines. but at $T \gtrsim 10^7$ K (cluster ICM, SNR shocks), free-free becomes the dominant cooling mechanism. see [Bremsstrahlung](Bremsstrahlung.html).
 
 ## the cooling timescale
 
@@ -57,24 +56,24 @@ $t_{\rm cool} = (3 n k_BT)/(2 L)$. for HII regions: $\sim 10^4$ years. compare w
 
 ## see also
 
-- [Heating rate in HII regions](./Heating%20rate%20in%20HII%20regions.html)
-- [Equilibrium temperature](./Equilibrium%20temperature.html)
-- [Cooling curve](./Cooling%20curve.html)
-- [Forbidden lines](./Forbidden%20lines.html)
-- [OIII forbidden lines](./OIII%20forbidden%20lines.html)
-- [Critical density](./Critical%20density.html)
-- [Two-level atom](./Two-level%20atom.html)
-- [Forbidden line diagnostics](./Forbidden%20line%20diagnostics.html)
-- [Metallicity and chemical evolution](./Metallicity%20and%20chemical%20evolution.html)
-{% endraw %}
+- [Heating rate in HII regions](Heating%20rate%20in%20HII%20regions.html)
+- [Equilibrium temperature](Equilibrium%20temperature.html)
+- [Cooling curve](Cooling%20curve.html)
+- [Forbidden lines](Forbidden%20lines.html)
+- [OIII forbidden lines](OIII%20forbidden%20lines.html)
+- [Critical density](Critical%20density.html)
+- [Two-level atom](Two-level%20atom.html)
+- [Forbidden line diagnostics](Forbidden%20line%20diagnostics.html)
+- [Metallicity and chemical evolution](Metallicity%20and%20chemical%20evolution.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Cooling%20curve.html" class="backlink-item">Cooling curve</a></li>
+    <li class="backlink-item-wrap"><a href="Equilibrium%20temperature.html" class="backlink-item">Equilibrium temperature</a></li>
+    <li class="backlink-item-wrap"><a href="Heating%20rate%20in%20HII%20regions.html" class="backlink-item">Heating rate in HII regions</a></li>
+    <li class="backlink-item-wrap"><a href="Spectroscopic%20Te%20diagnostics.html" class="backlink-item">Spectroscopic Te diagnostics</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Cooling%20curve.html" class="backlink-item">Cooling curve</a></li>
-    <li class="backlink-item-wrap"><a href="./Equilibrium%20temperature.html" class="backlink-item">Equilibrium temperature</a></li>
-    <li class="backlink-item-wrap"><a href="./Heating%20rate%20in%20HII%20regions.html" class="backlink-item">Heating rate in HII regions</a></li>
-    <li class="backlink-item-wrap"><a href="./Spectroscopic%20Te%20diagnostics.html" class="backlink-item">Spectroscopic Te diagnostics</a></li>
   </ul>
 </div>
+

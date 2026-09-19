@@ -2,7 +2,6 @@
 layout: "default"
 title: "Very Long Baseline Interferometry VLBI"
 ---
-{% raw %}
 # Very Long Baseline Interferometry (VLBI)
 
 radio interferometry with antennas spread across continents (or even between Earth and space). achieves the highest angular resolutions in astronomy — μarcseconds at mm wavelengths. signals are recorded at each station with atomic-clock timing and correlated post-hoc.
@@ -135,4 +134,3 @@ source: ESO image eso1907j, EHT planet-scale array illustration.
 
 ![Keck_interferometer.jpg](../../assets/images/Keck_interferometer.jpg)
 *The Keck Interferometer dual 10-meter telescope baseline configuration with underground delay line tunnels and nulling instrument.*
-{% endraw %}

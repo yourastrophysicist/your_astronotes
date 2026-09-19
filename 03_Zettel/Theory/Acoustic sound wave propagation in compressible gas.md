@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Acoustic sound wave propagation in compressible gas"
-name: "Acoustic sound wave propagation in compressible gas"
-description: "linearization of compressible Euler equations, adiabatic sound speed, and acoustic energy flux"
 ---
-{% raw %}
 acoustic waves represent longitudinal, adiabatic compressional disturbances propagating through an elastic gas via molecular collisions.
 
 ## linearization of the fluid equations
@@ -39,14 +36,14 @@ all frequencies travel at the exact same phase and group velocity, preserving so
 
 - [Fluid_and_Plasma_Dynamics_MOC](../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html)
 - [Part3_Waves_Instabilities_and_Turbulence](../../02_Literature/Lectures/Fluid_and_Plasma_Dynamics/Part3_Waves_Instabilities_and_Turbulence.html)
-- [Jeans gravitational instability and Jeans mass](./Jeans%20gravitational%20instability%20and%20Jeans%20mass.html)
-- [Shear Alfven and magnetosonic wave modes in MHD](./Shear%20Alfven%20and%20magnetosonic%20wave%20modes%20in%20MHD.html)
-{% endraw %}
+- [Jeans gravitational instability and Jeans mass](Jeans%20gravitational%20instability%20and%20Jeans%20mass.html)
+- [Shear Alfven and magnetosonic wave modes in MHD](Shear%20Alfven%20and%20magnetosonic%20wave%20modes%20in%20MHD.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Jeans%20gravitational%20instability%20and%20Jeans%20mass.html" class="backlink-item">Jeans gravitational instability and Jeans mass</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Jeans%20gravitational%20instability%20and%20Jeans%20mass.html" class="backlink-item">Jeans gravitational instability and Jeans mass</a></li>
   </ul>
 </div>
+

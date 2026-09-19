@@ -2,7 +2,6 @@
 layout: "default"
 title: "Polarization in interferometry"
 ---
-{% raw %}
 # Polarization in interferometry
 
 light is polarized; an interferometer measures it as four independent visibility products (RR, LL, RL, LR). decomposing into Stokes parameters (I, Q, U, V) gives the source's polarization. essential for studies of magnetic fields, AGN jets, masers, and Faraday rotation.
@@ -161,26 +160,26 @@ source: local study diagram generated from the standard Stokes-parameter interpr
 
 ## see also
 
-- [Calibration overview](./Calibration%20overview.html)
-- [Bandpass calibration](./Bandpass%20calibration.html)
-- [AGN and supermassive black holes](./AGN%20and%20supermassive%20black%20holes.html)
+- [Calibration overview](Calibration%20overview.html)
+- [Bandpass calibration](Bandpass%20calibration.html)
+- [AGN and supermassive black holes](AGN%20and%20supermassive%20black%20holes.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (12)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../Calibration%20overview.html" class="backlink-item">Calibration overview</a></li>
-    <li class="backlink-item-wrap"><a href="./Calibration%20overview.html" class="backlink-item">Calibration overview</a></li>
-    <li class="backlink-item-wrap"><a href="./Coherence%20function%20and%20visibility.html" class="backlink-item">Coherence function and visibility</a></li>
     <li class="backlink-item-wrap"><a href="../Coherence%20function%20and%20visibility.html" class="backlink-item">Coherence function and visibility</a></li>
-    <li class="backlink-item-wrap"><a href="./Electromagnetic%20waves%20and%20photons.html" class="backlink-item">Electromagnetic waves and photons</a></li>
-    <li class="backlink-item-wrap"><a href="./Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
     <li class="backlink-item-wrap"><a href="../Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
     <li class="backlink-item-wrap"><a href="../Fresnel-Arago%20laws.html" class="backlink-item">Fresnel-Arago laws</a></li>
-    <li class="backlink-item-wrap"><a href="./Fresnel-Arago%20laws.html" class="backlink-item">Fresnel-Arago laws</a></li>
-    <li class="backlink-item-wrap"><a href="./Radiation%20mechanisms%20in%20astronomy%20and%20interferometers.html" class="backlink-item">Radiation mechanisms in astronomy and interferometers</a></li>
     <li class="backlink-item-wrap"><a href="../Radiation%20mechanisms%20in%20astronomy%20and%20interferometers.html" class="backlink-item">Radiation mechanisms in astronomy and interferometers</a></li>
+    <li class="backlink-item-wrap"><a href="Calibration%20overview.html" class="backlink-item">Calibration overview</a></li>
+    <li class="backlink-item-wrap"><a href="Coherence%20function%20and%20visibility.html" class="backlink-item">Coherence function and visibility</a></li>
+    <li class="backlink-item-wrap"><a href="Electromagnetic%20waves%20and%20photons.html" class="backlink-item">Electromagnetic waves and photons</a></li>
+    <li class="backlink-item-wrap"><a href="Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
+    <li class="backlink-item-wrap"><a href="Fresnel-Arago%20laws.html" class="backlink-item">Fresnel-Arago laws</a></li>
+    <li class="backlink-item-wrap"><a href="Radiation%20mechanisms%20in%20astronomy%20and%20interferometers.html" class="backlink-item">Radiation mechanisms in astronomy and interferometers</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

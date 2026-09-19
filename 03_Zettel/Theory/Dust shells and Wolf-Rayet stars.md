@@ -2,7 +2,6 @@
 layout: "default"
 title: "Dust shells and Wolf-Rayet stars"
 ---
-{% raw %}
 # Dust shells and Wolf-Rayet stars
 
 late-stage massive stars (Wolf-Rayet, AGB) lose mass at high rates. the lost material forms expanding shells of gas and dust around the star. interferometric imaging directly resolves these shells, measuring their geometry, velocity, and time evolution.
@@ -124,4 +123,3 @@ modern WR star observations routinely combine both, telling a complete story of 
 - [Young stellar object disks](interf/Young%20stellar%20object%20disks.html)
 - [VLTI Very Large Telescope Interferometer](interf/VLTI%20Very%20Large%20Telescope%20Interferometer.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

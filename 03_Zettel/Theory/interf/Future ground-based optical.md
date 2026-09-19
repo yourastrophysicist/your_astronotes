@@ -2,7 +2,6 @@
 layout: "default"
 title: "Future ground-based optical"
 ---
-{% raw %}
 # Future ground-based optical interferometers
 
 planned and proposed instruments that push optical/IR interferometry to higher resolution, longer baselines, and broader science.
@@ -43,7 +42,7 @@ ongoing operations of LBT's interferometric mode:
 
 ### proposed Carlina hypertelescope
 
-Antoine Labeyrie's hypertelescope concept (see [Hypertelescope](./Hypertelescope.html)). a sparse array on a parabolic surface with cable-suspended focus. proposed since the 1990s, prototype tested at Caussols. full-scale never built.
+Antoine Labeyrie's hypertelescope concept (see [Hypertelescope](Hypertelescope.html)). a sparse array on a parabolic surface with cable-suspended focus. proposed since the 1990s, prototype tested at Caussols. full-scale never built.
 
 still pursued conceptually for sub-mas direct imaging at AU scales (resolved exo-Earths around nearby stars).
 
@@ -97,20 +96,20 @@ these motivate space-based alternatives.
 
 ## see also
 
-- [VLTI Very Large Telescope Interferometer](./VLTI%20Very%20Large%20Telescope%20Interferometer.html)
-- [CHARA array](./CHARA%20array.html)
-- [Hypertelescope](./Hypertelescope.html)
-- [Future space-based](./Future%20space-based.html)
+- [VLTI Very Large Telescope Interferometer](VLTI%20Very%20Large%20Telescope%20Interferometer.html)
+- [CHARA array](CHARA%20array.html)
+- [Hypertelescope](Hypertelescope.html)
+- [Future space-based](Future%20space-based.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../Future%20space-based.html" class="backlink-item">Future space-based</a></li>
-    <li class="backlink-item-wrap"><a href="./Future%20space-based.html" class="backlink-item">Future space-based</a></li>
-    <li class="backlink-item-wrap"><a href="./Hypertelescope.html" class="backlink-item">Hypertelescope</a></li>
     <li class="backlink-item-wrap"><a href="../Hypertelescope.html" class="backlink-item">Hypertelescope</a></li>
+    <li class="backlink-item-wrap"><a href="Future%20space-based.html" class="backlink-item">Future space-based</a></li>
+    <li class="backlink-item-wrap"><a href="Hypertelescope.html" class="backlink-item">Hypertelescope</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

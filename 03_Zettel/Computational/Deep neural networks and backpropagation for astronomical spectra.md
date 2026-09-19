@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Deep neural networks and backpropagation for astronomical spectra"
-name: "Deep neural networks and backpropagation for astronomical spectra"
-description: "multi-layer perceptrons, convolutional neural networks, backpropagation chain rule, and surrogate models for rapid spectral retrievals"
 ---
-{% raw %}
 deep neural networks act as universal function approximators capable of learning non-linear mappings between high-dimensional astronomical observations and physical parameters.
 
 ## multi-layer perceptron (mlp) architecture
@@ -42,14 +39,14 @@ computed efficiently in $\mathcal{O}(N_{\text{params}})$ operations via reverse-
 
 - [Computational_Astrophysics_MOC](../../04_Atlas/Computational_Astrophysics_MOC.html)
 - [06_Deep_Learning_Architectures_and_Optimization](../../02_Literature/Lectures/Computational_Astrophysics/06_Deep_Learning_Architectures_and_Optimization.html)
-- [Supervised regression basis models and regularization](./Supervised%20regression%20basis%20models%20and%20regularization.html)
-- [Exoplanet atmospheric retrieval and TauREx framework](./Exoplanet%20atmospheric%20retrieval%20and%20TauREx%20framework.html)
-{% endraw %}
+- [Supervised regression basis models and regularization](Supervised%20regression%20basis%20models%20and%20regularization.html)
+- [Exoplanet atmospheric retrieval and TauREx framework](Exoplanet%20atmospheric%20retrieval%20and%20TauREx%20framework.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Supervised%20regression%20basis%20models%20and%20regularization.html" class="backlink-item">Supervised regression basis models and regularization</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Supervised%20regression%20basis%20models%20and%20regularization.html" class="backlink-item">Supervised regression basis models and regularization</a></li>
   </ul>
 </div>
+

@@ -2,10 +2,9 @@
 layout: "default"
 title: "Press-Schechter formalism"
 ---
-{% raw %}
 # press-schechter formalism
 
-up: [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html) · [Spherical collapse](./Spherical%20collapse.html) · [Linear vs nonlinear regime](./Linear%20vs%20nonlinear%20regime.html)
+up: [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html) · [Spherical collapse](Spherical%20collapse.html) · [Linear vs nonlinear regime](Linear%20vs%20nonlinear%20regime.html)
 
 ## the core premise
 
@@ -42,7 +41,7 @@ ight) \,}$$
 
 - **low-mass power law**: for $M \ll M^*(z)$ where $\sigma(M) \gg \delta_c$, the exponential is $\approx 1$, yielding a steep power law $dn/dM \propto M^{-2 + (n+3)/6}$.
 - **high-mass exponential cutoff**: for $M \gg M^*(z)$ where $\sigma(M) \ll \delta_c$, the exponential suppresses the number of massive halos.
-- **connection to the galaxy luminosity function**: the exponential cutoff in the halo mass function directly seeds the bright-end exponential cutoff in the [Schechter function](./Schechter%20function.html).
+- **connection to the galaxy luminosity function**: the exponential cutoff in the halo mass function directly seeds the bright-end exponential cutoff in the [Schechter function](Schechter%20function.html).
 
 ## modern extensions
 
@@ -51,9 +50,8 @@ ight) \,}$$
 
 ## connections
 
-- linear collapse: [Spherical collapse](./Spherical%20collapse.html)
-- galaxy counterpart: [Schechter function](./Schechter%20function.html), [Integrals of the Schechter function](./Integrals%20of%20the%20Schechter%20function.html)
-{% endraw %}
+- linear collapse: [Spherical collapse](Spherical%20collapse.html)
+- galaxy counterpart: [Schechter function](Schechter%20function.html), [Integrals of the Schechter function](Integrals%20of%20the%20Schechter%20function.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (1)</h4>
@@ -61,3 +59,4 @@ ight) \,}$$
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
   </ul>
 </div>
+

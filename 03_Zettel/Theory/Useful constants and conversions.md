@@ -2,7 +2,6 @@
 layout: "default"
 title: "Useful constants and conversions"
 ---
-{% raw %}
 a reference card for the constants, conversions, and rules of thumb that come up repeatedly in observational work and on the exam.
 
 ## physical constants (CODATA 2018, rounded)
@@ -102,17 +101,17 @@ $\theta_{\rm seeing} \approx \lambda/r_0$. for $r_0 = 15$ cm at $500$ nm:
 ## see also
 
 - [Atmospheric extinction](interf/Atmospheric%20extinction.html)
-- [Magnitudes and photometric systems](./Magnitudes%20and%20photometric%20systems.html)
-- [Distance modulus](./Distance%20modulus.html)
-- [Filter systems and bandpasses](./Filter%20systems%20and%20bandpasses.html)
+- [Magnitudes and photometric systems](Magnitudes%20and%20photometric%20systems.html)
+- [Distance modulus](Distance%20modulus.html)
+- [Filter systems and bandpasses](Filter%20systems%20and%20bandpasses.html)
 - [Atmospheric seeing](interf/Atmospheric%20seeing.html)
-- [Distance ladder derivations](./Distance%20ladder%20derivations.html)
-- [Cosmic_inventory_overview](./Cosmic_inventory_overview.html)
-{% endraw %}
+- [Distance ladder derivations](Distance%20ladder%20derivations.html)
+- [Cosmic_inventory_overview](Cosmic_inventory_overview.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (1)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Python%20and%20IRAF%20tools%20for%20photometry.html" class="backlink-item">Python and IRAF tools for photometry</a></li>
+    <li class="backlink-item-wrap"><a href="Python%20and%20IRAF%20tools%20for%20photometry.html" class="backlink-item">Python and IRAF tools for photometry</a></li>
   </ul>
 </div>
+

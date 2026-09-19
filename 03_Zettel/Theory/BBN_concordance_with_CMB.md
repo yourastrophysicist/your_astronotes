@@ -2,7 +2,6 @@
 layout: "default"
 title: "BBN_concordance_with_CMB"
 ---
-{% raw %}
 **both BBN and CMB anisotropies provide independent measurements of the baryon density** $\Omega_{0b}$. these are two completely independent windows on the same physics, and they agree to remarkable precision.
 
 this concordance is one of the strongest validations of the standard hot Big Bang model we have.
@@ -69,7 +68,7 @@ this is the heart of why **BBN is one of the three observational pillars** of th
 2. the **CMB blackbody** (universe was hot)
 3. **BBN** (universe at $T \sim 1$ MeV produced the observed light element abundances)
 
-→ see [Cosmic_inventory_overview](./Cosmic_inventory_overview.html).
+→ see [Cosmic_inventory_overview](Cosmic_inventory_overview.html).
 
 if any of these three were inconsistent with each other, our cosmological model would have problems. they are all consistent.
 
@@ -82,30 +81,30 @@ the one outstanding tension is in $^7$Li. CMB-anchored $\eta$ predicts $^7$Li/H 
 - uncertainties in the cross-sections for the reactions producing/destroying $^7$Li
 - new physics (e.g. exotic dark matter relics, late-decaying particles)
 
-this remains an active area of research. but unlike the Hubble tension or the dark energy problem, the lithium problem has not yet forced any major revision of the standard cosmological model. → see [BBN_observations](./BBN_observations.html).
+this remains an active area of research. but unlike the Hubble tension or the dark energy problem, the lithium problem has not yet forced any major revision of the standard cosmological model. → see [BBN_observations](BBN_observations.html).
 
 ---
 
 ## see also
 
 - [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [BBN_overview](./BBN_overview.html)
-- [BBN_observations](./BBN_observations.html)
-- [BBN_predictions](./BBN_predictions.html)
-- [BBN_baryon_to_photon_ratio](./BBN_baryon_to_photon_ratio.html)
-- [Cosmic_inventory_baryons](./Cosmic_inventory_baryons.html)
-- [Cosmic_inventory_photons](./Cosmic_inventory_photons.html)
-- [Cosmic_inventory_overview](./Cosmic_inventory_overview.html)
-{% endraw %}
+- [BBN_overview](BBN_overview.html)
+- [BBN_observations](BBN_observations.html)
+- [BBN_predictions](BBN_predictions.html)
+- [BBN_baryon_to_photon_ratio](BBN_baryon_to_photon_ratio.html)
+- [Cosmic_inventory_baryons](Cosmic_inventory_baryons.html)
+- [Cosmic_inventory_photons](Cosmic_inventory_photons.html)
+- [Cosmic_inventory_overview](Cosmic_inventory_overview.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (6)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./BBN_observations.html" class="backlink-item">BBN_observations</a></li>
-    <li class="backlink-item-wrap"><a href="./BBN_predictions.html" class="backlink-item">BBN_predictions</a></li>
-    <li class="backlink-item-wrap"><a href="./Baryogenesis.html" class="backlink-item">Baryogenesis</a></li>
-    <li class="backlink-item-wrap"><a href="./Big%20Bang%20nucleosynthesis.html" class="backlink-item">Big Bang nucleosynthesis</a></li>
+    <li class="backlink-item-wrap"><a href="BBN_observations.html" class="backlink-item">BBN_observations</a></li>
+    <li class="backlink-item-wrap"><a href="BBN_predictions.html" class="backlink-item">BBN_predictions</a></li>
+    <li class="backlink-item-wrap"><a href="Baryogenesis.html" class="backlink-item">Baryogenesis</a></li>
+    <li class="backlink-item-wrap"><a href="Big%20Bang%20nucleosynthesis.html" class="backlink-item">Big Bang nucleosynthesis</a></li>
+    <li class="backlink-item-wrap"><a href="Missing%20baryons.html" class="backlink-item">Missing baryons</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Missing%20baryons.html" class="backlink-item">Missing baryons</a></li>
   </ul>
 </div>
+

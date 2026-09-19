@@ -2,8 +2,7 @@
 layout: "default"
 title: "Piotto 04 - CCD Photometry and Noise Characterization"
 ---
-{% raw %}
-# Piotto 04 ? CCD Photometry and Noise Characterization
+# Piotto 04 — CCD Photometry and Noise Characterization
 
 *Astrophysics Laboratory 2, Prof. Giampaolo Piotto (Lecture 22/10/2025)*  
 *Index: [Astrophysics_Laboratory_2_MOC](../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html)*
@@ -98,15 +97,14 @@ $$\text{SNR} = \frac{S_\star}{\sqrt{S_\star + N_{\text{pix}} \left( B + D \, t_{
 - [CCD Dark Current and Thermal Generation](../../../03_Zettel/Observations/CCD%20Dark%20Current%20and%20Thermal%20Generation.html)
 - [Janesick Photon Transfer Method for Gain and Readout Noise](../../../03_Zettel/Observations/Janesick%20Photon%20Transfer%20Method%20for%20Gain%20and%20Readout%20Noise.html)
 - [Aperture Photometry and Optimal Aperture Selection](../../../03_Zettel/Observations/Aperture%20Photometry%20and%20Optimal%20Aperture%20Selection.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
+  <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Observations/CCD%20Readout%20Noise%20and%20Output%20Amplifier.html" class="backlink-item">CCD Readout Noise and Output Amplifier</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Observations/Full%20Well%20Capacity%20and%20Charge%20Saturation.html" class="backlink-item">Full Well Capacity and Charge Saturation</a></li>
-    <li class="backlink-item-wrap"><a href="./Piotto%2003%20-%20Semiconductor%20Physics%20and%20CCD%20Detector%20Fundamentals.html" class="backlink-item">Piotto 03 - Semiconductor Physics and CCD Detector Fundamentals</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Observations/Quantum%20Efficiency%20in%20Astronomical%20Detectors.html" class="backlink-item">Quantum Efficiency in Astronomical Detectors</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
   </ul>
 </div>
+

@@ -2,7 +2,6 @@
 layout: "default"
 title: "Protocluster detection techniques"
 ---
-{% raw %}
 **protoclusters** are the high-redshift progenitors of today's galaxy clusters. caught in the act of assembling at $z = 2$ to $7$, they're the **birth sites** of the most massive structures in the universe. detecting them requires specialised techniques because they're rare + their members are typical galaxies (not dramatically brighter).
 
 ## what is a protocluster
@@ -78,17 +77,16 @@ JWST is currently revolutionising this field with **spectroscopically confirmed 
 
 ## see also
 
-- [Galaxy clusters and overview of evolution](./Galaxy%20clusters%20and%20overview%20of%20evolution.html)
-- [Lyman alpha SFR tracer](./Lyman%20alpha%20SFR%20tracer.html)
-- [Photometric redshifts](./Photometric%20redshifts.html)
-- [Deep-field surveys](./Deep-field%20surveys.html)
-- [Cosmic star formation history](./Cosmic%20star%20formation%20history.html)
-- [Madau plot](./Madau%20plot.html)
-- [Spherical collapse](./Spherical%20collapse.html)
-- [Press-Schechter halo mass function](./Press-Schechter%20halo%20mass%20function.html)
-- [High-z galaxies with JWST](./High-z%20galaxies%20with%20JWST.html)
+- [Galaxy clusters and overview of evolution](Galaxy%20clusters%20and%20overview%20of%20evolution.html)
+- [Lyman alpha SFR tracer](Lyman%20alpha%20SFR%20tracer.html)
+- [Photometric redshifts](Photometric%20redshifts.html)
+- [Deep-field surveys](Deep-field%20surveys.html)
+- [Cosmic star formation history](Cosmic%20star%20formation%20history.html)
+- [Madau plot](Madau%20plot.html)
+- [Spherical collapse](Spherical%20collapse.html)
+- [Press-Schechter halo mass function](Press-Schechter%20halo%20mass%20function.html)
+- [High-z galaxies with JWST](High-z%20galaxies%20with%20JWST.html)
 - [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (1)</h4>
@@ -96,3 +94,4 @@ JWST is currently revolutionising this field with **spectroscopically confirmed 
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
   </ul>
 </div>
+

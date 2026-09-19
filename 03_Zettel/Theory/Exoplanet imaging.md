@@ -2,7 +2,6 @@
 layout: "default"
 title: "Exoplanet imaging"
 ---
-{% raw %}
 # Exoplanet imaging
 
 direct interferometric / coronagraphic detection of light from exoplanets. extremely difficult because of the contrast (~$10^{-6}$ to $10^{-10}$ between planet and star) and small angular separation (~mas). a small but rapidly growing field with significant interferometric contributions.
@@ -110,4 +109,3 @@ these complement transit observations (which give bulk planet density) and radia
 - [Nulling interferometry](interf/Nulling%20interferometry.html)
 - [VLTI Very Large Telescope Interferometer](interf/VLTI%20Very%20Large%20Telescope%20Interferometer.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

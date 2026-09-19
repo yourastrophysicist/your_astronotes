@@ -2,7 +2,6 @@
 layout: "default"
 title: "Interferometry exam rules"
 ---
-{% raw %}
 # Interferometry, exam rules
 
 the **Astronomical Interferometry** exam at U Padua is **oral**, conducted by Prof. Mauro D'Onofrio, in the office of the Department of Physics and Astronomy. for me, scheduled **Wednesday 3 June 2026** in the summer session.
@@ -75,4 +74,3 @@ three minutes of structured talk demonstrates I have the complete mental map. D'
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
 - [Interferometry equation sheet](interf/Interferometry%20equation%20sheet.html)
 - Exams summer 2026 master plan
-{% endraw %}

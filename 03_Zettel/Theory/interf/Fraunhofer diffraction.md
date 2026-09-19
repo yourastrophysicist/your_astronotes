@@ -2,7 +2,6 @@
 layout: "default"
 title: "Fraunhofer diffraction"
 ---
-{% raw %}
 # Fraunhofer diffraction
 
 the **far-field** limit of diffraction: when the screen is far from the aperture, the diffraction integral becomes a **2D Fourier transform** of the aperture function. this is the magic that connects optics to Fourier analysis and underwrites every interferometric calculation.
@@ -121,27 +120,27 @@ source: local plot generated from $I(x)=[2J_1(x)/x]^2$.
 
 ## see also
 
-- [Plane waves and Huygens principle](./Plane%20waves%20and%20Huygens%20principle.html)
-- [Diffraction patterns of simple apertures](./Diffraction%20patterns%20of%20simple%20apertures.html)
-- [Point spread function](./Point%20spread%20function.html)
-- [Optical transfer function](./Optical%20transfer%20function.html)
-- [Van Cittert-Zernike theorem](./Van%20Cittert-Zernike%20theorem.html)
+- [Plane waves and Huygens principle](Plane%20waves%20and%20Huygens%20principle.html)
+- [Diffraction patterns of simple apertures](Diffraction%20patterns%20of%20simple%20apertures.html)
+- [Point spread function](Point%20spread%20function.html)
+- [Optical transfer function](Optical%20transfer%20function.html)
+- [Van Cittert-Zernike theorem](Van%20Cittert-Zernike%20theorem.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (11)</h4>
   <ul class="backlinks-list">
     <li class="backlink-item-wrap"><a href="../Abbe%20experiment%20and%20Fourier%20optics.html" class="backlink-item">Abbe experiment and Fourier optics</a></li>
-    <li class="backlink-item-wrap"><a href="./Abbe%20experiment%20and%20Fourier%20optics.html" class="backlink-item">Abbe experiment and Fourier optics</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Diffraction%20patterns%20of%20simple%20apertures.html" class="backlink-item">Diffraction patterns of simple apertures</a></li>
     <li class="backlink-item-wrap"><a href="../Diffraction%20patterns%20of%20simple%20apertures.html" class="backlink-item">Diffraction patterns of simple apertures</a></li>
-    <li class="backlink-item-wrap"><a href="./Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
     <li class="backlink-item-wrap"><a href="../Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="./Optical%20transfer%20function.html" class="backlink-item">Optical transfer function</a></li>
     <li class="backlink-item-wrap"><a href="../Plane%20waves%20and%20Huygens%20principle.html" class="backlink-item">Plane waves and Huygens principle</a></li>
-    <li class="backlink-item-wrap"><a href="./Plane%20waves%20and%20Huygens%20principle.html" class="backlink-item">Plane waves and Huygens principle</a></li>
-    <li class="backlink-item-wrap"><a href="./Point%20spread%20function.html" class="backlink-item">Point spread function</a></li>
+    <li class="backlink-item-wrap"><a href="Abbe%20experiment%20and%20Fourier%20optics.html" class="backlink-item">Abbe experiment and Fourier optics</a></li>
+    <li class="backlink-item-wrap"><a href="Diffraction%20patterns%20of%20simple%20apertures.html" class="backlink-item">Diffraction patterns of simple apertures</a></li>
+    <li class="backlink-item-wrap"><a href="Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
+    <li class="backlink-item-wrap"><a href="Optical%20transfer%20function.html" class="backlink-item">Optical transfer function</a></li>
+    <li class="backlink-item-wrap"><a href="Plane%20waves%20and%20Huygens%20principle.html" class="backlink-item">Plane waves and Huygens principle</a></li>
+    <li class="backlink-item-wrap"><a href="Point%20spread%20function.html" class="backlink-item">Point spread function</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

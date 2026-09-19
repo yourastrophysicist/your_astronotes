@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Initial mass function"
-name: "Initial mass function"
-description: "the distribution of birth masses of stars, canonical analytical parametrizations (Salpeter, Kroupa, Chabrier), and impact on mass-to-light ratios and cosmic SFR"
 ---
-{% raw %}
 the **initial mass function (IMF)**, denoted $\xi(M)$, is the empirical or theoretical probability distribution of stellar birth masses in a single coeval star-formation event. it is the single most consequential foundational prior in observational astrophysics and galaxy evolution: it dictates the ratio of luminous to dark mass, the production rate of ionizing UV photons, the core-collapse supernova rate, and the chemical enrichment yields of the universe.
 
 ## formal mathematical definition
@@ -43,7 +40,7 @@ a critical conceptual boundary in stellar populations:
 
 for a stellar system of age $t$:
 1. **nuclear death**: all stars with $M > M_{\rm TO}(t)$ have evolved off the MS into white dwarfs, neutron stars, or black holes, truncating the MS PDMF at $M_{\rm TO}$.
-2. **dynamical evaporation**: in star clusters, two-body relaxation drives energy equipartition; low-mass stars acquire high velocities and escape via tidal stripping, making the cluster PDMF flatter (bottom-light) than the birth IMF (see [Initial vs present-day mass function](./Initial%20vs%20present-day%20mass%20function.html)).
+2. **dynamical evaporation**: in star clusters, two-body relaxation drives energy equipartition; low-mass stars acquire high velocities and escape via tidal stripping, making the cluster PDMF flatter (bottom-light) than the birth IMF (see [Initial vs present-day mass function](Initial%20vs%20present-day%20mass%20function.html)).
 
 ## why the IMF choice governs observational astrophysics
 
@@ -72,14 +69,14 @@ while the IMF appears remarkably universal across the solar neighborhood, young 
 
 - [Observational_Astrophysics_MOC](../../04_Atlas/Observational_Astrophysics_MOC.html)
 - [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
-- [Stellar mass function xi(M)](./Stellar%20mass%20function%20xi%28M%29.html)
-- [Salpeter Kroupa Chabrier IMFs](./Salpeter%20Kroupa%20Chabrier%20IMFs.html)
-- [Initial vs present-day mass function](./Initial%20vs%20present-day%20mass%20function.html)
-- [Mass-luminosity relation](./Mass-luminosity%20relation.html)
-- [Stellar population synthesis](./Stellar%20population%20synthesis.html)
-- [Single stellar population SSP](./Single%20stellar%20population%20SSP.html)
-- [H-alpha SFR tracer](./H-alpha%20SFR%20tracer.html)
-- [UV SFR tracer](./UV%20SFR%20tracer.html)
+- [Stellar mass function xi(M)](Stellar%20mass%20function%20xi%28M%29.html)
+- [Salpeter Kroupa Chabrier IMFs](Salpeter%20Kroupa%20Chabrier%20IMFs.html)
+- [Initial vs present-day mass function](Initial%20vs%20present-day%20mass%20function.html)
+- [Mass-luminosity relation](Mass-luminosity%20relation.html)
+- [Stellar population synthesis](Stellar%20population%20synthesis.html)
+- [Single stellar population SSP](Single%20stellar%20population%20SSP.html)
+- [H-alpha SFR tracer](H-alpha%20SFR%20tracer.html)
+- [UV SFR tracer](UV%20SFR%20tracer.html)
 
 ---
 
@@ -108,32 +105,29 @@ while the IMF appears remarkably universal across the solar neighborhood, young 
 
 ![obs_stars-100.png](../../assets/images/obs_stars-100.png)
 *Ionizing photon production rate Q(H0) sensitivity to IMF high-mass slope.*
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (22)</h4>
+  <h4 class="backlinks-title">Linked References (19)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Chemical%20evolution%20of%20galaxies.html" class="backlink-item">Chemical evolution of galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="./Color-magnitude%20diagrams%20of%20clusters.html" class="backlink-item">Color-magnitude diagrams of clusters</a></li>
-    <li class="backlink-item-wrap"><a href="./Dark%20matter%20in%20elliptical%20galaxies.html" class="backlink-item">Dark matter in elliptical galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="./Early-type%20galaxy%20stellar%20populations.html" class="backlink-item">Early-type galaxy stellar populations</a></li>
-    <li class="backlink-item-wrap"><a href="./H-alpha%20SFR%20tracer.html" class="backlink-item">H-alpha SFR tracer</a></li>
-    <li class="backlink-item-wrap"><a href="./IR%20SFR%20tracer.html" class="backlink-item">IR SFR tracer</a></li>
-    <li class="backlink-item-wrap"><a href="./Mass-luminosity%20relation.html" class="backlink-item">Mass-luminosity relation</a></li>
+    <li class="backlink-item-wrap"><a href="Chemical%20evolution%20of%20galaxies.html" class="backlink-item">Chemical evolution of galaxies</a></li>
+    <li class="backlink-item-wrap"><a href="Color-magnitude%20diagrams%20of%20clusters.html" class="backlink-item">Color-magnitude diagrams of clusters</a></li>
+    <li class="backlink-item-wrap"><a href="H-alpha%20SFR%20tracer.html" class="backlink-item">H-alpha SFR tracer</a></li>
+    <li class="backlink-item-wrap"><a href="IR%20SFR%20tracer.html" class="backlink-item">IR SFR tracer</a></li>
+    <li class="backlink-item-wrap"><a href="Mass-luminosity%20relation.html" class="backlink-item">Mass-luminosity relation</a></li>
+    <li class="backlink-item-wrap"><a href="Planck%20law%20Wien%20Stefan-Boltzmann.html" class="backlink-item">Planck law Wien Stefan-Boltzmann</a></li>
+    <li class="backlink-item-wrap"><a href="Resolved%20vs%20unresolved%20stellar%20populations.html" class="backlink-item">Resolved vs unresolved stellar populations</a></li>
+    <li class="backlink-item-wrap"><a href="SFR%20tracers%20from%20population%20synthesis.html" class="backlink-item">SFR tracers from population synthesis</a></li>
+    <li class="backlink-item-wrap"><a href="SPS%20code%20families.html" class="backlink-item">SPS code families</a></li>
+    <li class="backlink-item-wrap"><a href="Single%20stellar%20population%20SSP.html" class="backlink-item">Single stellar population SSP</a></li>
+    <li class="backlink-item-wrap"><a href="Star%20formation%20history%20of%20a%20population.html" class="backlink-item">Star formation history of a population</a></li>
+    <li class="backlink-item-wrap"><a href="Star%20formation%20history%20parametrizations.html" class="backlink-item">Star formation history parametrizations</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20mass%20estimation%20in%20unresolved%20populations.html" class="backlink-item">Stellar mass estimation in unresolved populations</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20population%20synthesis.html" class="backlink-item">Stellar population synthesis</a></li>
+    <li class="backlink-item-wrap"><a href="Surface%20brightness%20fluctuations.html" class="backlink-item">Surface brightness fluctuations</a></li>
+    <li class="backlink-item-wrap"><a href="UV%20SFR%20tracer.html" class="backlink-item">UV SFR tracer</a></li>
+    <li class="backlink-item-wrap"><a href="Why%20hot%20massive%20stars%20dominate%20luminosity.html" class="backlink-item">Why hot massive stars dominate luminosity</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html" class="backlink-item">Pablo_03_Star_formation_in_galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="./Planck%20law%20Wien%20Stefan-Boltzmann.html" class="backlink-item">Planck law Wien Stefan-Boltzmann</a></li>
-    <li class="backlink-item-wrap"><a href="./Resolved%20vs%20unresolved%20stellar%20populations.html" class="backlink-item">Resolved vs unresolved stellar populations</a></li>
-    <li class="backlink-item-wrap"><a href="./SFR%20tracers%20from%20population%20synthesis.html" class="backlink-item">SFR tracers from population synthesis</a></li>
-    <li class="backlink-item-wrap"><a href="./SPS%20code%20families.html" class="backlink-item">SPS code families</a></li>
-    <li class="backlink-item-wrap"><a href="./Single%20stellar%20population%20SSP.html" class="backlink-item">Single stellar population SSP</a></li>
-    <li class="backlink-item-wrap"><a href="./Star%20formation%20history%20of%20a%20population.html" class="backlink-item">Star formation history of a population</a></li>
-    <li class="backlink-item-wrap"><a href="./Star%20formation%20history%20parametrizations.html" class="backlink-item">Star formation history parametrizations</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20mass%20estimation%20in%20unresolved%20populations.html" class="backlink-item">Stellar mass estimation in unresolved populations</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20population%20synthesis.html" class="backlink-item">Stellar population synthesis</a></li>
-    <li class="backlink-item-wrap"><a href="./Surface%20brightness%20fluctuations.html" class="backlink-item">Surface brightness fluctuations</a></li>
-    <li class="backlink-item-wrap"><a href="./UV%20SFR%20tracer.html" class="backlink-item">UV SFR tracer</a></li>
-    <li class="backlink-item-wrap"><a href="./Why%20hot%20massive%20stars%20dominate%20luminosity.html" class="backlink-item">Why hot massive stars dominate luminosity</a></li>
   </ul>
 </div>
+

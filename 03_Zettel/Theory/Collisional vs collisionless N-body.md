@@ -2,7 +2,6 @@
 layout: "default"
 title: "Collisional vs collisionless N-body"
 ---
-{% raw %}
 # Collisional vs collisionless N-body
 
 two physical regimes of gravitational $N$-body dynamics that demand fundamentally different numerical strategies. the distinction is not about whether the particles literally collide; it is about whether *two-body* gravitational encounters significantly perturb each particle's orbit during the simulation.
@@ -94,20 +93,20 @@ the Pythagorean three-body problem of the exam template is squarely **collisiona
 
 ## see also
 
-- [Astrophysical N-body problem formulation](./Astrophysical%20N-body%20problem%20formulation.html)
-- [Leapfrog integrator](./Leapfrog%20integrator.html)
-- [Fourth-order Hermite predictor-corrector](./Fourth-order%20Hermite%20predictor-corrector.html)
-- [Adaptive timesteps near close encounters](./Adaptive%20timesteps%20near%20close%20encounters.html)
-- [Energy conservation as a diagnostic](./Energy%20conservation%20as%20a%20diagnostic.html)
+- [Astrophysical N-body problem formulation](Astrophysical%20N-body%20problem%20formulation.html)
+- [Leapfrog integrator](Leapfrog%20integrator.html)
+- [Fourth-order Hermite predictor-corrector](Fourth-order%20Hermite%20predictor-corrector.html)
+- [Adaptive timesteps near close encounters](Adaptive%20timesteps%20near%20close%20encounters.html)
+- [Energy conservation as a diagnostic](Energy%20conservation%20as%20a%20diagnostic.html)
 - [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Adaptive%20timesteps%20near%20close%20encounters.html" class="backlink-item">Adaptive timesteps near close encounters</a></li>
-    <li class="backlink-item-wrap"><a href="./Astrophysical%20N-body%20problem%20formulation.html" class="backlink-item">Astrophysical N-body problem formulation</a></li>
+    <li class="backlink-item-wrap"><a href="Adaptive%20timesteps%20near%20close%20encounters.html" class="backlink-item">Adaptive timesteps near close encounters</a></li>
+    <li class="backlink-item-wrap"><a href="Astrophysical%20N-body%20problem%20formulation.html" class="backlink-item">Astrophysical N-body problem formulation</a></li>
+    <li class="backlink-item-wrap"><a href="N-body%20simulations.html" class="backlink-item">N-body simulations</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./N-body%20simulations.html" class="backlink-item">N-body simulations</a></li>
   </ul>
 </div>
+

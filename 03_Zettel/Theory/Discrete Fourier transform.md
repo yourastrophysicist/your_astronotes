@@ -2,7 +2,6 @@
 layout: "default"
 title: "Discrete Fourier transform"
 ---
-{% raw %}
 # Discrete Fourier transform
 
 the discrete version of the Fourier transform. given $N$ samples $x_n$ of a signal at uniform time intervals, returns $N$ complex numbers $X_k$ that encode the amplitude and phase of each frequency component.
@@ -38,7 +37,7 @@ frequencies above Nyquist *cannot be represented* — they alias down into the v
 
 direct evaluation of the formula: $O(N^2)$ — each of $N$ outputs is a sum of $N$ terms. for $N = 10^6$ that is $10^{12}$ operations, hours.
 
-the **Fast Fourier Transform (FFT)** computes the same thing in $O(N \log N)$. for $N = 10^6$: $\sim 2 \times 10^7$ operations, milliseconds. the FFT is what made signal processing practical. see [Fast Fourier transform algorithm](./Fast%20Fourier%20transform%20algorithm.html)
+the **Fast Fourier Transform (FFT)** computes the same thing in $O(N \log N)$. for $N = 10^6$: $\sim 2 \times 10^7$ operations, milliseconds. the FFT is what made signal processing practical. see [Fast Fourier transform algorithm](Fast%20Fourier%20transform%20algorithm.html)
 
 
 
@@ -104,21 +103,21 @@ so to convolve two signals, FFT both, multiply, inverse FFT. cost: $O(N \log N)$
 
 ## see also
 
-- [Fourier series math summary](./Fourier%20series%20math%20summary.html)
-- [Fast Fourier transform algorithm](./Fast%20Fourier%20transform%20algorithm.html)
-- [Physical interpretation of the FFT](./Physical%20interpretation%20of%20the%20FFT.html)
-- [Power spectrum estimation](./Power%20spectrum%20estimation.html)
+- [Fourier series math summary](Fourier%20series%20math%20summary.html)
+- [Fast Fourier transform algorithm](Fast%20Fourier%20transform%20algorithm.html)
+- [Physical interpretation of the FFT](Physical%20interpretation%20of%20the%20FFT.html)
+- [Power spectrum estimation](Power%20spectrum%20estimation.html)
 - [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (6)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./FFT%20in%20scipy%20and%20numpy.html" class="backlink-item">FFT in scipy and numpy</a></li>
-    <li class="backlink-item-wrap"><a href="./Fast%20Fourier%20transform%20algorithm.html" class="backlink-item">Fast Fourier transform algorithm</a></li>
-    <li class="backlink-item-wrap"><a href="./Fourier%20series%20math%20summary.html" class="backlink-item">Fourier series math summary</a></li>
+    <li class="backlink-item-wrap"><a href="FFT%20in%20scipy%20and%20numpy.html" class="backlink-item">FFT in scipy and numpy</a></li>
+    <li class="backlink-item-wrap"><a href="Fast%20Fourier%20transform%20algorithm.html" class="backlink-item">Fast Fourier transform algorithm</a></li>
+    <li class="backlink-item-wrap"><a href="Fourier%20series%20math%20summary.html" class="backlink-item">Fourier series math summary</a></li>
+    <li class="backlink-item-wrap"><a href="Physical%20interpretation%20of%20the%20FFT.html" class="backlink-item">Physical interpretation of the FFT</a></li>
+    <li class="backlink-item-wrap"><a href="Power%20spectrum%20estimation.html" class="backlink-item">Power spectrum estimation</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Physical%20interpretation%20of%20the%20FFT.html" class="backlink-item">Physical interpretation of the FFT</a></li>
-    <li class="backlink-item-wrap"><a href="./Power%20spectrum%20estimation.html" class="backlink-item">Power spectrum estimation</a></li>
   </ul>
 </div>
+

@@ -2,91 +2,166 @@
 layout: "default"
 title: "LOSVD"
 ---
-{% raw %}
-the **line-of-sight velocity distribution (LOSVD)** is the distribution of line-of-sight velocities of stars in a galaxy at a given spatial position. it's the key observable for **stellar dynamics**: from it, you extract velocity dispersion + rotation + higher moments + dynamical mass.
+# Line-of-Sight Velocity Distribution (LOSVD)
 
-## the LOSVD vs spectrum
+## 1. Mathematical Definition and Convolution Principle
 
-each star contributes a slightly Doppler-shifted version of its photospheric absorption-line spectrum. the **observed integrated spectrum** of a galaxy is the **convolution** of an unbroadened stellar template with the LOSVD:
-$$F_{\rm obs}(\lambda) = F_{\rm template}(\lambda) * \text{LOSVD}(v)$$
+The **Line-of-Sight Velocity Distribution (LOSVD)**, denoted $\mathcal{L}(v)$, is the normalized probability density function that a star located at a projected sky position $(x, y)$ in a galaxy possesses a line-of-sight velocity in the interval $[v, v + dv]$.
 
-(in velocity space). so by fitting the broadened observed lines vs an unbroadened template, you recover the LOSVD.
+$$\int_{-\infty}^\infty \mathcal{L}(v) \, dv = 1$$
 
-## the moments
+Each star in the galaxy emits a stellar spectrum Doppler-shifted by its individual line-of-sight velocity $v$. The observed integrated galaxy spectrum $G(\lambda)$ is the flux-weighted convolution of an unbroadened stellar template spectrum $T(\lambda)$ with the LOSVD.
 
-LOSVD usually parametrised by its first moments:
-- **$v$**: mean line-of-sight velocity (rotation + bulk motion).
-- **$\sigma$**: velocity dispersion (random motion + unresolved rotation).
-- **$h_3$**: skewness (Gauss-Hermite expansion). asymmetric tails (e.g. mergers, disks at high inclination).
-- **$h_4$**: kurtosis. peaked vs flat distribution.
+$$G(\lambda) = [T * \mathcal{L}](\lambda) = \int_{-\infty}^\infty T\left(\lambda \left[1 - \frac{v}{c}\right]\right) \mathcal{L}(v) \, dv$$
 
-the **Gauss-Hermite expansion** (van der Marel + Franx 1993):
-$$\text{LOSVD}(v) = \frac{e^{-y^2/2}}{\sigma\sqrt{2\pi}}\sum_n h_n H_n(y), \quad y = (v - v_0)/\sigma$$
+In logarithmic wavelength coordinates $x \equiv \ln \lambda$, the Doppler shift is a pure translation $\Delta x \approx v/c$, turning the integral into a standard linear convolution.
 
-with $H_n$ Hermite polynomials. $h_3, h_4$ are the **third + fourth Gauss-Hermite coefficients**.
+$$G(x) = \int_{-\infty}^\infty T(x - s) \, \mathcal{L}(c \cdot s) \, ds$$
 
-## measuring LOSVD: pPXF
+---
 
-modern technique: **penalised pixel fitting (pPXF)** (Cappellari + Emsellem 2004):
-1. fit galaxy spectrum to a linear combination of stellar templates convolved with a parameterised LOSVD.
-2. iteratively adjust LOSVD parameters ($v, \sigma, h_3, h_4$) + template weights.
-3. penalise high-order moments to avoid overfitting noisy data.
+## 2. Unbroken Mathematical Formulation - The Gauss-Hermite Series Expansion
 
-precision: $\sim 5$ to $10$ km/s for bright SDSS galaxies; better for IFU + nearby galaxies.
+Real galaxies rarely possess purely Gaussian velocity distributions due to orbital anisotropy, rotating disks, triaxiality, and central mass concentrations. To quantify subtle non-Gaussian shapes, the LOSVD is expanded as a Gauss-Hermite series (van der Marel & Franx 1993; Gerhard 1993).
 
-## the dynamical info
+$$\boxed{\mathcal{L}(v) = \frac{\gamma}{\sqrt{2\pi}\sigma} \exp\left(-\frac{y^2}{2}\right) \left[ 1 + \sum_{m=3}^M h_m H_m(y) \right]}$$
 
-once $v(x, y)$ + $\sigma(x, y)$ + $h_3, h_4$ are mapped across a galaxy:
-- **rotation curves**: $v(R)$ along a slit or radial cut.
-- **velocity-dispersion maps**: $\sigma(R)$ or 2D maps from IFU.
-- **kinematic axes**: identify the rotation axis + offset from the photometric major axis.
-- **kinematically distinct cores (KDCs)**: $v$ field changes sign; signature of past mergers.
+where the dimensionless velocity coordinate is.
 
-## the dynamical mass
+$$y \equiv \frac{v - V}{\sigma}$$
 
-from $\sigma$ + size:
-$$M_{\rm dyn} \sim \frac{R\sigma^2}{G}$$
-(virial estimate). more careful: integrate Jeans equation, requiring full LOSVD modelling.
+Here.
+- $V$ is the centroid velocity (mean line-of-sight velocity)
+- $\sigma$ is the line-of-sight velocity dispersion
+- $\gamma$ is the total line strength normalization
+- $H_m(y)$ are orthogonal Hermite polynomials
+- $h_m$ are dimensionless Gauss-Hermite moment coefficients
 
-dynamical mass = total mass within radius $R$ = stars + gas + dark matter.
+### Orthonormality Condition
+The Hermite polynomials are normalized such that they form an orthonormal set with respect to the Gaussian weight function $w(y) = \frac{1}{\sqrt{2\pi}} e^{-y^2/2}$.
 
-comparing $M_{\rm dyn}$ with $M_*$ from SED fitting: gives $M_{\rm dyn}/M_* \sim 1$ to $5$ for ellipticals (mostly stellar) up to $\sim 10$ to $100$ for dwarf spheroidals (dark-matter-dominated).
+$$\frac{1}{\sqrt{2\pi}} \int_{-\infty}^\infty e^{-y^2/2} H_m(y) H_n(y) \, dy = \delta_{mn}$$
 
-## $h_3$ as merger signature
+### Explicit Polynomial Definitions
+The lowest-order polynomials are explicitly.
 
-- **simple disk**: nearly Gaussian LOSVD ($h_3 = h_4 = 0$).
-- **triaxial elliptical**: small $h_4 \sim 0.05$.
-- **disk-merger remnant**: large $\lvert h_3\rvert$, often anti-correlated with $v$.
-- **counter-rotating cores** (KDCs): $h_3$ + $v$ change sign in the centre.
+$$H_0(y) = 1$$
 
-so LOSVD higher moments = **archaeology** of past mergers.
+$$H_1(y) = \sqrt{2} y$$
 
-## the connection to scaling relations
+$$H_2(y) = \frac{1}{\sqrt{2}} (2y^2 - 1)$$
 
-velocity dispersion $\sigma_v$ enters:
-- **Faber-Jackson**: $L \propto \sigma_v^4$ for ellipticals.
-- **Fundamental plane**: $R_e \propto \sigma_v^{1.4}\,\langle I\rangle^{-0.9}$.
-- **Tully-Fisher**: $L \propto V_{\rm rot}^4$ for spirals.
-- **$M_{BH} - \sigma$**: $M_{BH} \propto \sigma^4$ for SMBHs.
+$$H_3(y) = \frac{1}{\sqrt{6}} (2\sqrt{2} y^3 - 3\sqrt{2} y)$$
 
-all derived from accurate $\sigma$ measurements via LOSVD fitting.
+$$H_4(y) = \frac{1}{\sqrt{24}} (4y^4 - 12y^2 + 3)$$
 
-## see also
+### The Zero Conditions for $h_1$ and $h_2$
+In practical kinematic fits, the parameters $V$ and $\sigma$ are chosen precisely such that they optimize the centroid and width of the best-fitting Gaussian profile. Consequently.
 
-- [Velocity dispersion from line width](./Velocity%20dispersion%20from%20line%20width.html)
-- [Stellar kinematics measurements](./Stellar%20kinematics%20measurements.html)
-- [Stellar v sin i from line shape](./Stellar%20v%20sin%20i%20from%20line%20shape.html)
-- [Faber-Jackson relation](./Faber-Jackson%20relation.html)
-- [Fundamental plane of ellipticals](./Fundamental%20plane%20of%20ellipticals.html)
-- [Tully-Fisher relation](./Tully-Fisher%20relation.html)
-- [M sigma relation](./M%20sigma%20relation.html)
-- [MaNGA survey](./MaNGA%20survey.html)
-- [Integral-field spectroscopy IFU](./Integral-field%20spectroscopy%20IFU.html)
+$$h_1 \equiv 0, \qquad h_2 \equiv 0$$
+
+The lowest-order non-trivial shape deviations are therefore completely parameterized by the third moment $h_3$ and the fourth moment $h_4$.
+
+---
+
+## 3. Physical Meaning of the Kinematic Moments
+
+### The Skewness Moment $h_3$ (Asymmetry)
+The third coefficient $h_3$ measures the asymmetric skewness of the velocity distribution.
+- $h_3 > 0$ denotes a distribution with an extended tail toward velocities higher than $V$
+- $h_3 < 0$ denotes a distribution with an extended tail toward velocities lower than $V$
+- In rotating galaxy bulges and disks, observations consistently uncover an anti-correlation between rotation velocity and skewness ($V \cdot h_3 < 0$). This physical signature arises when an embedded, rapidly rotating cold stellar disk is superposed on a slowly rotating, pressure-supported spheroidal bulge. The peak of the distribution reflects the cold rotating disk, while the tail stretches back toward the galaxy systemic velocity.
+
+### The Kurtosis Moment $h_4$ (Peakiness and Wings)
+The fourth coefficient $h_4$ measures the symmetric tail heaviness and central peakiness (kurtosis).
+- $h_4 > 0$ (Leptokurtic) - Indicates a distribution that is more sharply peaked than a Gaussian with broader, extended power-law wings. Physically, positive $h_4$ indicates radial stellar orbit anisotropy ($\beta \equiv 1 - \sigma_\theta^2/\sigma_r^2 > 0$) or the gravitational presence of a central supermassive black hole cusp.
+- $h_4 < 0$ (Platykurtic) - Indicates a distribution that is flat-topped with steep cutoff wings. Physically, negative $h_4$ indicates tangential stellar orbit anisotropy ($\beta < 0$) or an inclined rotating disk.
+
+### The Observational Danger of Naive Gaussian Fitting
+If a galaxy profile exhibits positive kurtosis ($h_4 > 0$), fitting a single simple Gaussian forces the algorithm to compromise between the narrow central peak and the extended wings.
+1. The fitted Gaussian width overestimates the peak width but underestimates the true extent of the wings.
+2. The inferred central velocity dispersion $\sigma$ is systematically distorted.
+3. Dynamical modeling (Jeans modeling or Schwarzschild orbit superposition) requires unbiased higher moments. Neglecting $h_3$ and $h_4$ biases dynamical black hole mass determinations by up to a factor of two.
+
+---
+
+## 4. Extraction Technique - Penalized Pixel-Fitting (pPXF)
+
+Modern stellar kinematics are extracted from galaxy spectra using the **pPXF** method (Cappellari & Emsellem 2004; Cappellari 2017).
+1. A linear combination of optimal stellar population templates is constructed to eliminate template mismatch.
+2. The templates are convolved with a Gauss-Hermite parameterized LOSVD.
+3. The fit minimizes a penalized chi-squared.
+   $$\chi_{\rm pen}^2 = \chi^2 \left( 1 + \lambda^2 \sum_{m=3}^M h_m^2 \right)$$
+   where the penalty parameter $\lambda$ biases the higher moments toward zero when the observational signal-to-noise ratio is insufficient to justify non-zero skewness or kurtosis.
+
+---
+
+## 5. Blackboard Observational Blueprint
+
+When illustrating LOSVD profiles on the blackboard.
+
+```text
+       L(v)
+        |
+        |              *             === Pure Gaussian (h3=0, h4=0)
+        |             / \            ... Leptokurtic (h4 > 0). Sharp peak + broad wings
+        |            /   \           === Platykurtic (h4 < 0). Flat top + steep cutoff
+        |           /  |  \
+        |          /   |   \
+        |         /    |    \
+        +========+=====+=====+=========> v
+                 -1    0    +1
+                       y = (v - V)/sigma
+
+   Asymmetric Skewness (h3).
+        |             *
+        |            / \
+        |           /   \
+        |          /     \.......    h3 > 0 - High-velocity tail extends to the right
+        +=========+======-+======+=====> v
+                 -1       0     +1
+```
+
+### Key Blackboard Features
+- **Horizontal Axis** - Dimensionless velocity $y = (v - V)/\sigma$ centered at $0$
+- **Vertical Axis** - Probability density $\mathcal{L}(v)$
+- **Gaussian Comparison** - Draw the standard bell curve ($h_3 = 0, h_4 = 0$) as reference
+- **Kurtosis Features** - Draw $h_4 > 0$ with a sharper central peak and higher tails at $|y| > 2$; draw $h_4 < 0$ with a rounded/flattened top and rapid decay
+- **Skewness Features** - Draw $h_3 > 0$ with a steep left edge and a long right-hand trailing wing
+
+---
+
+## 6. Textbook and Course Citations
+
+- **Prof. Alessandro Pizzella Course Dispensa**
+  - File - `dispense_smbh_20_eng.pdf`
+  - Chapter 2, Section 2.3 "The Line-of-Sight Velocity Distribution", pages 17-20 (complete mathematical derivation of the Gauss-Hermite expansion, orthogonality proofs, and physical meaning of $h_3, h_4$).
+- **Student Synthesis Document**
+  - File - `SMBH_in_Galaxies.tex`
+  - Section 8 "Stellar Kinematics and LOSVD", pages 10-12 (Gauss-Hermite formulas, pPXF implementation, orbit anisotropy connection).
+- **Binney & Tremaine (2008), *Galactic Dynamics***
+  - File - `Binney, Tremaine - Galactic Dynamics 2ed.pdf`
+  - Chapter 4, Section 4.5 "Stellar Kinematics", pages 340-355 (Jeans modeling, line-of-sight velocity distributions, Gauss-Hermite moments).
+- **Primary Literature Reference**
+  - van der Marel, R. P., & Franx, M. 1993, ApJ, 407, 525.
+  - Cappellari, M., & Emsellem, E. 2004, PASP, 116, 138.
+
+---
+
+## 7. See Also
+
+- [Velocity dispersion from line width](Velocity%20dispersion%20from%20line%20width.html)
+- [Stellar dynamics SMBH masses](Stellar%20dynamics%20SMBH%20masses.html)
+- [M sigma relation](M%20sigma%20relation.html)
+- [Fundamental plane of ellipticals](Fundamental%20plane%20of%20ellipticals.html)
+- [Faber-Jackson relation](Faber-Jackson%20relation.html)
+- [MaNGA survey](MaNGA%20survey.html)
+- [Integral-field spectroscopy IFU](Integral-field%20spectroscopy%20IFU.html)
 - [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html)
 
 ---
 
-## astrophysics of galaxies figures and slides (Prof. Alessandro Pizzella)
+## 8. Astrophysics of Galaxies Figures and Slides (Prof. Alessandro Pizzella)
 
 ![cappellari2002_kinematics.png](../../assets/images/cappellari2002_kinematics.png)
 *Kinematic mapping of line-of-sight velocity distribution (LOSVD) from Cappellari et al. (2002).*
@@ -95,17 +170,18 @@ all derived from accurate $\sigma$ measurements via LOSVD fitting.
 *Gauss-Hermite kinematic moments (v, sigma, h3, h4) across elliptical galaxy centers.*
 
 ![gal_bh-01.png](../../assets/images/gal_bh-01.png)
-*Line-of-Sight Velocity Distribution (LOSVD) definition: probability density of stellar velocities along line of sight.*
-{% endraw %}
+*Line-of-Sight Velocity Distribution (LOSVD) definition - probability density of stellar velocities along line of sight.*
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
+  <h4 class="backlinks-title">Linked References (7)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Dark%20matter%20in%20elliptical%20galaxies.html" class="backlink-item">Dark matter in elliptical galaxies</a></li>
+    <li class="backlink-item-wrap"><a href="Faber-Jackson%20relation.html" class="backlink-item">Faber-Jackson relation</a></li>
+    <li class="backlink-item-wrap"><a href="Integral-field%20spectroscopy%20IFU.html" class="backlink-item">Integral-field spectroscopy IFU</a></li>
+    <li class="backlink-item-wrap"><a href="MaNGA%20survey.html" class="backlink-item">MaNGA survey</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20dynamics%20SMBH%20masses.html" class="backlink-item">Stellar dynamics SMBH masses</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20kinematics%20measurements.html" class="backlink-item">Stellar kinematics measurements</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Dark%20matter%20in%20elliptical%20galaxies.html" class="backlink-item">Dark matter in elliptical galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="./Faber-Jackson%20relation.html" class="backlink-item">Faber-Jackson relation</a></li>
-    <li class="backlink-item-wrap"><a href="./MaNGA%20survey.html" class="backlink-item">MaNGA survey</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20dynamics%20SMBH%20masses.html" class="backlink-item">Stellar dynamics SMBH masses</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20kinematics%20measurements.html" class="backlink-item">Stellar kinematics measurements</a></li>
   </ul>
 </div>
+

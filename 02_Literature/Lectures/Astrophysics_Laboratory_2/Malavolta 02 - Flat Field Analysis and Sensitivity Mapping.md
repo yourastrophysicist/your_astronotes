@@ -2,8 +2,7 @@
 layout: "default"
 title: "Malavolta 02 - Flat Field Analysis and Sensitivity Mapping"
 ---
-{% raw %}
-# Malavolta 02 ? Flat Field Analysis and Sensitivity Mapping
+# Malavolta 02 — Flat Field Analysis and Sensitivity Mapping
 
 *Astrophysics Laboratory 2, Prof. Luca Malavolta*  
 *Index: [Astrophysics_Laboratory_2_MOC](../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html)*
@@ -93,13 +92,13 @@ $$\sigma_{\text{MasterFlat}_{\text{norm}}}(x, y) \approx \frac{1.253}{\sqrt{N}} 
 - [Full Well Capacity and Charge Saturation](../../../03_Zettel/Observations/Full%20Well%20Capacity%20and%20Charge%20Saturation.html)
 - [Malavolta 03 - Science Frame Correction and Error Propagation](./Malavolta%2003%20-%20Science%20Frame%20Correction%20and%20Error%20Propagation.html)
 - [Laboratory Exercise - Flat Field Processing and PRNU Mapping](../../../03_Zettel/Activities/Laboratory%20Exercise%20-%20Flat%20Field%20Processing%20and%20PRNU%20Mapping.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Observations/Flat%20Field%20Frame%20and%20Pixel%20Response%20Non-Uniformity.html" class="backlink-item">Flat Field Frame and Pixel Response Non-Uniformity</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Activities/Laboratory%20Exercise%20-%20Flat%20Field%20Processing%20and%20PRNU%20Mapping.html" class="backlink-item">Laboratory Exercise - Flat Field Processing and PRNU Mapping</a></li>
+    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Observations/Flat%20Field%20Frame%20and%20Pixel%20Response%20Non-Uniformity.html" class="backlink-item">Flat Field Frame and Pixel Response Non-Uniformity</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
   </ul>
 </div>
+

@@ -2,7 +2,6 @@
 layout: "default"
 title: "Generalized least squares and correlated measurement errors"
 ---
-{% raw %}
 # Generalized least squares and correlated measurement errors
 
 In astrophysical data analysis, linear models frequently relate parameter vectors $\theta \in \mathbb{R}^k$ to an observed data vector $y \in \mathbb{R}^N$ through a design matrix $X \in \mathbb{R}^{N \times k}$:
@@ -52,15 +51,15 @@ $$\hat{\theta}_{\rm GLS} = (\tilde{X}^T \tilde{X})^{-1} \tilde{X}^T \tilde{y}$$
 ## See Also
 - [Astro-Statistics_and_Cosmology_MOC](../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html)
 - [03_Multivariate_Gaussians_Marginalization_Conditioning_and_Linear_Models](../../02_Literature/Lectures/Astrostatistics/03_Multivariate_Gaussians_Marginalization_Conditioning_and_Linear_Models.html)
-- [Multivariate Gaussian conditioning and marginalization](./Multivariate%20Gaussian%20conditioning%20and%20marginalization.html)
-- [Fisher information matrix and Cramer-Rao bound](./Fisher%20information%20matrix%20and%20Cramer-Rao%20bound.html)
-{% endraw %}
+- [Multivariate Gaussian conditioning and marginalization](Multivariate%20Gaussian%20conditioning%20and%20marginalization.html)
+- [Fisher information matrix and Cramer-Rao bound](Fisher%20information%20matrix%20and%20Cramer-Rao%20bound.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Bayesian%20hierarchical%20modeling%20for%20Type%20Ia%20supernovae.html" class="backlink-item">Bayesian hierarchical modeling for Type Ia supernovae</a></li>
+    <li class="backlink-item-wrap"><a href="Multivariate%20Gaussian%20conditioning%20and%20marginalization.html" class="backlink-item">Multivariate Gaussian conditioning and marginalization</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Bayesian%20hierarchical%20modeling%20for%20Type%20Ia%20supernovae.html" class="backlink-item">Bayesian hierarchical modeling for Type Ia supernovae</a></li>
-    <li class="backlink-item-wrap"><a href="./Multivariate%20Gaussian%20conditioning%20and%20marginalization.html" class="backlink-item">Multivariate Gaussian conditioning and marginalization</a></li>
   </ul>
 </div>
+

@@ -2,7 +2,6 @@
 layout: "default"
 title: "Stability and the Courant condition"
 ---
-{% raw %}
 # Stability and the Courant condition
 
 every explicit time-stepping scheme for a PDE has a maximum stable timestep $\Delta t$ that depends on the spatial resolution $\Delta x$. exceeding it makes the simulation explode exponentially. the constraint takes a different form for different equations.
@@ -81,19 +80,19 @@ before running any explicit PDE simulation:
 
 ## see also
 
-- [Initial value PDEs and FTCS](./Initial%20value%20PDEs%20and%20FTCS.html)
-- [Finite difference discretization](./Finite%20difference%20discretization.html)
-- [Boundary value PDEs and iteration](./Boundary%20value%20PDEs%20and%20iteration.html)
-- [Adaptive step size control](./Adaptive%20step%20size%20control.html)
+- [Initial value PDEs and FTCS](Initial%20value%20PDEs%20and%20FTCS.html)
+- [Finite difference discretization](Finite%20difference%20discretization.html)
+- [Boundary value PDEs and iteration](Boundary%20value%20PDEs%20and%20iteration.html)
+- [Adaptive step size control](Adaptive%20step%20size%20control.html)
 - [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Finite%20difference%20discretization.html" class="backlink-item">Finite difference discretization</a></li>
-    <li class="backlink-item-wrap"><a href="./Initial%20value%20PDEs%20and%20FTCS.html" class="backlink-item">Initial value PDEs and FTCS</a></li>
+    <li class="backlink-item-wrap"><a href="Finite%20difference%20discretization.html" class="backlink-item">Finite difference discretization</a></li>
+    <li class="backlink-item-wrap"><a href="Initial%20value%20PDEs%20and%20FTCS.html" class="backlink-item">Initial value PDEs and FTCS</a></li>
+    <li class="backlink-item-wrap"><a href="When%20to%20use%20implicit%20schemes.html" class="backlink-item">When to use implicit schemes</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./When%20to%20use%20implicit%20schemes.html" class="backlink-item">When to use implicit schemes</a></li>
   </ul>
 </div>
+

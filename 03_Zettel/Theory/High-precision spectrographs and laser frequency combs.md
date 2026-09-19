@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "High-precision spectrographs and laser frequency combs"
-name: "High-precision spectrographs and laser frequency combs"
-description: "ultra-stable echelle spectrographs, environmental stabilization, and sub-meter-per-second calibration with laser frequency combs"
 ---
-{% raw %}
 detecting Earth-mass exoplanets in the habitable zones of solar-type stars requires radial velocity precision below $10\text{ cm s}^{-1}$, corresponding to tracking sub-nanometer shifts on the detector ($\sim 1/10000$th of a CCD pixel).
 
 ## spectrograph architecture and stabilization
@@ -27,13 +24,13 @@ high-precision instruments (HARPS, HARPS-N, ESPRESSO, EXPRES) share key design p
 - [Exoplanetary_Astrophysics_MOC](../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)
 - [11_High_Precision_Spectrographs_and_Doppler_Measurement](../../02_Literature/Lectures/Exoplanetary_Astrophysics/11_High_Precision_Spectrographs_and_Doppler_Measurement.html)
 - [13_RV_Wavelength_Calibration_and_Error_Budgets](../../02_Literature/Lectures/Exoplanetary_Astrophysics/13_RV_Wavelength_Calibration_and_Error_Budgets.html)
-- [Keplerian radial velocity and Doppler semi-amplitude](./Keplerian%20radial%20velocity%20and%20Doppler%20semi-amplitude.html)
-{% endraw %}
+- [Keplerian radial velocity and Doppler semi-amplitude](Keplerian%20radial%20velocity%20and%20Doppler%20semi-amplitude.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Keplerian%20radial%20velocity%20and%20Doppler%20semi-amplitude.html" class="backlink-item">Keplerian radial velocity and Doppler semi-amplitude</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Keplerian%20radial%20velocity%20and%20Doppler%20semi-amplitude.html" class="backlink-item">Keplerian radial velocity and Doppler semi-amplitude</a></li>
   </ul>
 </div>
+

@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Transit false positive vetting and blending validation"
-name: "Transit false positive vetting and blending validation"
-description: "astrophysical false positive scenarios, blended eclipsing binaries, centroid pixel shifts, and probabilistic vetting tools"
 ---
-{% raw %}
 in wide-field photometric surveys (Kepler, K2, TESS), astrophysical false positives outnumber true planetary transits. confirming exoplanets requires systematic vetting protocols.
 
 ## astrophysical false positive topologies
@@ -35,15 +32,15 @@ a candidate is statistically validated when $\text{FPP} < 10^{-3}$ ($< 0.1\%$).
 
 - [Exoplanetary_Astrophysics_MOC](../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)
 - [17_Transit_False_Positives_and_Vetting_Protocols](../../02_Literature/Lectures/Exoplanetary_Astrophysics/17_Transit_False_Positives_and_Vetting_Protocols.html)
-- [Mandel-Agol analytical transit light curve model](./Mandel-Agol%20analytical%20transit%20light%20curve%20model.html)
-- [Space transit observatories and CHEOPS-PLATO missions](./Space%20transit%20observatories%20and%20CHEOPS-PLATO%20missions.html)
-{% endraw %}
+- [Mandel-Agol analytical transit light curve model](Mandel-Agol%20analytical%20transit%20light%20curve%20model.html)
+- [Space transit observatories and CHEOPS-PLATO missions](Space%20transit%20observatories%20and%20CHEOPS-PLATO%20missions.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Mean%20stellar%20density%20determination%20from%20transit%20observables.html" class="backlink-item">Mean stellar density determination from transit observables</a></li>
+    <li class="backlink-item-wrap"><a href="Space%20transit%20observatories%20and%20CHEOPS-PLATO%20missions.html" class="backlink-item">Space transit observatories and CHEOPS-PLATO missions</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Mean%20stellar%20density%20determination%20from%20transit%20observables.html" class="backlink-item">Mean stellar density determination from transit observables</a></li>
-    <li class="backlink-item-wrap"><a href="./Space%20transit%20observatories%20and%20CHEOPS-PLATO%20missions.html" class="backlink-item">Space transit observatories and CHEOPS-PLATO missions</a></li>
   </ul>
 </div>
+

@@ -2,11 +2,10 @@
 layout: "default"
 title: "X-ray diffraction grating"
 ---
-{% raw %}
 Contrary to visible light, in X-ray astronomy it is possible to obtain a spectrum with a detector
 	because we can **distinguish photons by energy**
 		but to have a spectrum with **high resolution**, gratings are needed
-![Screenshot 2026-04-07 at 01.59.06.png](../../assets/images/Screenshot 2026-04-07 at 01.59.06.png)
+![Screenshot 2026-04-07 at 01.59.06.png](../../assets/images/Screenshot%202026-04-07%20at%2001.59.06.png)
 
 X-ray Diffraction Gratings (XrDG) are placed at the **exit aperture** of a focusing optic,
 	that is in the focused beam
@@ -43,7 +42,7 @@ $$R = \frac{\lambda}{\Delta\lambda} = \frac{\tan\theta}{\Delta\theta} \approx \f
 
 To increase $R$ it is necessary to:
 	decrease $d$ or decrease $m$
-		or use a telescope with a **higher angular resolution**
+	\tor use a telescope with a **higher angular resolution**
 
 ---
 
@@ -72,18 +71,18 @@ This formula shows that it is possible to improve the resolving power
 ---
 
 ## Rowland circle
-![Screenshot 2026-04-07 at 01.59.39.png](../../assets/images/Screenshot 2026-04-07 at 01.59.39.png)
+![Screenshot 2026-04-07 at 01.59.39.png](../../assets/images/Screenshot%202026-04-07%20at%2001.59.39.png)
 Gratings are placed in a **converging beam** instead of a parallel beam
 	the consequence is that both the incidence and dispersion angle
 		vary across the grating
 	the way to solve the problem is by **curving the grating**,
-		or alternatively producing gratings with variable periodicity across its surface
+	\tor alternatively producing gratings with variable periodicity across its surface
 
 The best solution is the **Rowland circle**:
 	a circle of radius $R$ that lies tangent to a concave curved diffraction grating of radius $2R$
 		the groove density is constant when projected on the plane tangent to the grating
 
-![Screenshot 2026-04-07 at 01.59.39.png](../../assets/images/Screenshot 2026-04-07 at 01.59.39.png)
+![Screenshot 2026-04-07 at 01.59.39.png](../../assets/images/Screenshot%202026-04-07%20at%2001.59.39.png)
 ---
 
 ## Instruments
@@ -92,22 +91,22 @@ The best solution is the **Rowland circle**:
 	made by 192 grating facets (MEG)
 		covers $0.4$–$5~\text{keV}$ (about $31$–$2.5~\mathring{A}$)
 			with a resolution of $0.023~\mathring{A}$
-![Screenshot 2026-04-07 at 02.00.36.png](../../assets/images/Screenshot 2026-04-07 at 02.00.36.png)
+![Screenshot 2026-04-07 at 02.00.36.png](../../assets/images/Screenshot%202026-04-07%20at%2002.00.36.png)
 
 **XMM-Newton RGS** (reflection):
 	made by 182 identical gratings blazed at $15~\mathring{A}$
 		covers $5$–$35~\mathring{A}$
 			with a resolution of about $0.06~\mathring{A}$
-![Screenshot 2026-04-07 at 02.00.58.png](../../assets/images/Screenshot 2026-04-07 at 02.00.58.png)
-{% endraw %}
+![Screenshot 2026-04-07 at 02.00.58.png](../../assets/images/Screenshot%202026-04-07%20at%2002.00.58.png)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./A%20Brief%20History%20of%20X-ray%20and%20Gamma-ray%20Missions.html" class="backlink-item">A Brief History of X-ray and Gamma-ray Missions</a></li>
-    <li class="backlink-item-wrap"><a href="./Appendix%20D%20-%20Gratings%20and%20spectrographs.html" class="backlink-item">Appendix D - Gratings and spectrographs</a></li>
+    <li class="backlink-item-wrap"><a href="A%20Brief%20History%20of%20X-ray%20and%20Gamma-ray%20Missions.html" class="backlink-item">A Brief History of X-ray and Gamma-ray Missions</a></li>
+    <li class="backlink-item-wrap"><a href="Appendix%20D%20-%20Gratings%20and%20spectrographs.html" class="backlink-item">Appendix D - Gratings and spectrographs</a></li>
+    <li class="backlink-item-wrap"><a href="Point%20Spread%20Function%20%28PSF%29.html" class="backlink-item">Point Spread Function (PSF)</a></li>
+    <li class="backlink-item-wrap"><a href="Telescope%20resolving%20power.html" class="backlink-item">Telescope resolving power</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Point%20Spread%20Function%20%28PSF%29.html" class="backlink-item">Point Spread Function (PSF)</a></li>
-    <li class="backlink-item-wrap"><a href="./Telescope%20resolving%20power.html" class="backlink-item">Telescope resolving power</a></li>
   </ul>
 </div>
+

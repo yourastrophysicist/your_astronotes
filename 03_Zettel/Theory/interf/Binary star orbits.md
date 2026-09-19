@@ -2,7 +2,6 @@
 layout: "default"
 title: "Binary star orbits"
 ---
-{% raw %}
 # Binary star orbits
 
 interferometric measurement of binary-star orbits at sub-mas precision. resolves the orbital motion year by year, providing dynamical masses (via Kepler's third law) at $\lesssim 1\%$ precision. *the* gold standard for stellar mass measurements.
@@ -98,25 +97,23 @@ these will yield ~10000 dynamical masses by ~2035, providing definitive empirica
 
 ## see also
 
-- [Stellar diameters and limb darkening](./Stellar%20diameters%20and%20limb%20darkening.html)
-- [CHARA array](./CHARA%20array.html)
-- [VLTI Very Large Telescope Interferometer](./VLTI%20Very%20Large%20Telescope%20Interferometer.html)
+- [Stellar diameters and limb darkening](Stellar%20diameters%20and%20limb%20darkening.html)
+- [CHARA array](CHARA%20array.html)
+- [VLTI Very Large Telescope Interferometer](VLTI%20Very%20Large%20Telescope%20Interferometer.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (11)</h4>
+  <h4 class="backlinks-title">Linked References (9)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../02_Literature/Lectures/Exoplanetary_Astrophysics/09_Astrometric_Detection_and_Gaia_Capabilities.html" class="backlink-item">09_Astrometric_Detection_and_Gaia_Capabilities</a></li>
-    <li class="backlink-item-wrap"><a href="../../../02_Literature/Lectures/Exoplanetary_Astrophysics/10_Radial_Velocity_Foundations_and_Keplerian_Orbits.html" class="backlink-item">10_Radial_Velocity_Foundations_and_Keplerian_Orbits</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../Binary%20stars%20in%20CMD.html" class="backlink-item">Binary stars in CMD</a></li>
     <li class="backlink-item-wrap"><a href="../Blue%20straggler%20formation%20channels.html" class="backlink-item">Blue straggler formation channels</a></li>
     <li class="backlink-item-wrap"><a href="../Cataclysmic%20variables%20in%20clusters.html" class="backlink-item">Cataclysmic variables in clusters</a></li>
     <li class="backlink-item-wrap"><a href="../Cluster%20binary%20fraction%20methods.html" class="backlink-item">Cluster binary fraction methods</a></li>
-    <li class="backlink-item-wrap"><a href="./Components%20of%20a%20modern%20interferometer%20continued.html" class="backlink-item">Components of a modern interferometer continued</a></li>
     <li class="backlink-item-wrap"><a href="../Components%20of%20a%20modern%20interferometer%20continued.html" class="backlink-item">Components of a modern interferometer continued</a></li>
     <li class="backlink-item-wrap"><a href="../Hunting%20BHs%20via%20radial%20velocities.html" class="backlink-item">Hunting BHs via radial velocities</a></li>
     <li class="backlink-item-wrap"><a href="../Yellow%20stragglers%20and%20sub-subgiants.html" class="backlink-item">Yellow stragglers and sub-subgiants</a></li>
+    <li class="backlink-item-wrap"><a href="Components%20of%20a%20modern%20interferometer%20continued.html" class="backlink-item">Components of a modern interferometer continued</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

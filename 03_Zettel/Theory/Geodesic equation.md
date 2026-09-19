@@ -2,14 +2,13 @@
 layout: "default"
 title: "Geodesic equation"
 ---
-{% raw %}
 bthe **geodesic equation** describes how free particles move in a curved spacetime. it is the GR equivalent of Newton's first law: in the absence of non-gravitational forces, particles follow geodesics.
 
 ## the equation
 
 $$\boxed{\, \ddot x^\mu + \Gamma^\mu{}_{\alpha\beta}\dot x^\alpha\dot x^\beta = 0 \,}$$
 
-with dot meaning $d/d\tau$ for timelike particles ($\tau$ = proper time) or $d/d\lambda$ for null particles ($\lambda$ = affine parameter; see [Affine parameter](./Affine%20parameter.html)).
+with dot meaning $d/d\tau$ for timelike particles ($\tau$ = proper time) or $d/d\lambda$ for null particles ($\lambda$ = affine parameter; see [Affine parameter](Affine%20parameter.html)).
 
 this is a system of 4 second-order ODEs, with initial conditions $x^\mu(0)$ and $\dot x^\mu(0)$.
 
@@ -39,13 +38,13 @@ at any point, the velocity $\dot x^\mu$ is either:
 - **null**: $g_{\mu\nu}\dot x^\mu\dot x^\nu = 0$. $\lambda$ = affine parameter (no proper time). follows light cones. world lines of photons.
 - **spacelike**: $g_{\mu\nu}\dot x^\mu\dot x^\nu = +1$. $\sigma$ = proper length. spatial paths, not realisable as physical trajectories.
 
-see [Timelike vs null vs spacelike](./Timelike%20vs%20null%20vs%20spacelike.html).
+see [Timelike vs null vs spacelike](Timelike%20vs%20null%20vs%20spacelike.html).
 
 ## conserved quantities
 
 if the metric has a symmetry (a **Killing vector** $\xi$), then $\xi_\mu \dot x^\mu$ is **conserved** along the geodesic. this is the GR version of Noether's theorem and it's the practical tool for solving geodesics in symmetric spacetimes.
 
-example: in Schwarzschild, the Killing vectors $\partial_t$ and $\partial_\phi$ give conserved energy $E$ and angular momentum $L$. these reduce the 4-component geodesic to a 1D effective potential problem. see [Killing vectors and conserved quantities](./Killing%20vectors%20and%20conserved%20quantities.html) and [Effective potential approach](./Effective%20potential%20approach.html).
+example: in Schwarzschild, the Killing vectors $\partial_t$ and $\partial_\phi$ give conserved energy $E$ and angular momentum $L$. these reduce the 4-component geodesic to a 1D effective potential problem. see [Killing vectors and conserved quantities](Killing%20vectors%20and%20conserved%20quantities.html) and [Effective potential approach](Effective%20potential%20approach.html).
 
 ## examples
 
@@ -59,7 +58,7 @@ geodesics are great circles. solved via the equations $\ddot \theta - \sin\theta
 4D geodesic problem. uses energy $E$ and angular momentum $L$ as conserved quantities. reduces to a 1D radial equation with an effective potential. predicts perihelion precession, light deflection, ISCO, photon sphere. see Block 5 of [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html).
 
 ### FLRW
-photon (null) geodesics in expanding universe give cosmological redshift. timelike comoving observers stay at fixed comoving coordinates. see [FLRW metric](./FLRW%20metric.html).
+photon (null) geodesics in expanding universe give cosmological redshift. timelike comoving observers stay at fixed comoving coordinates. see [FLRW metric](FLRW%20metric.html).
 
 ## the variational principle in practice
 
@@ -70,14 +69,14 @@ reproduces the geodesic equation. this is often the fastest way to compute Chris
 
 ## see also
 
-- [Christoffel symbols](./Christoffel%20symbols.html)
-- [Levi-Civita connection](./Levi-Civita%20connection.html)
-- [Parallel transport](./Parallel%20transport.html)
-- [Affine parameter](./Affine%20parameter.html)
-- [Killing vectors and conserved quantities](./Killing%20vectors%20and%20conserved%20quantities.html)
-- [Effective potential approach](./Effective%20potential%20approach.html)
-- [Timelike vs null vs spacelike](./Timelike%20vs%20null%20vs%20spacelike.html)
-- [Geodesic deviation](./Geodesic%20deviation.html)
+- [Christoffel symbols](Christoffel%20symbols.html)
+- [Levi-Civita connection](Levi-Civita%20connection.html)
+- [Parallel transport](Parallel%20transport.html)
+- [Affine parameter](Affine%20parameter.html)
+- [Killing vectors and conserved quantities](Killing%20vectors%20and%20conserved%20quantities.html)
+- [Effective potential approach](Effective%20potential%20approach.html)
+- [Timelike vs null vs spacelike](Timelike%20vs%20null%20vs%20spacelike.html)
+- [Geodesic deviation](Geodesic%20deviation.html)
 - Q7 - geodesics on the 2-sphere
 - Q8 - null geodesic in static metric
 - [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
@@ -89,23 +88,22 @@ reproduces the geodesic equation. this is often the fastest way to compute Chris
 
 ![gr_q02_solution.png](../../assets/images/gr_q02_solution.png)
 *Question 2 Oral Exam Model Solution: Geodesic motion in 2D polar coordinates $ds^2 = dr^2 + r^2 d\phi^2$, Euler-Lagrange derivation of Christoffel symbols $\Gamma^r_{\phi\phi} = -r$ and $\Gamma^\phi_{r\phi} = 1/r$, and angular momentum conservation.*
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (13)</h4>
+  <h4 class="backlinks-title">Linked References (12)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Affine%20parameter.html" class="backlink-item">Affine parameter</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Book/Baumann%20GR/Ch%203%20-%20A%20First%20Look%20at%20Geodesics.html" class="backlink-item">Ch 3 - A First Look at Geodesics</a></li>
-    <li class="backlink-item-wrap"><a href="./Christoffel%20symbols.html" class="backlink-item">Christoffel symbols</a></li>
-    <li class="backlink-item-wrap"><a href="./Effective%20potential%20approach.html" class="backlink-item">Effective potential approach</a></li>
+    <li class="backlink-item-wrap"><a href="Affine%20parameter.html" class="backlink-item">Affine parameter</a></li>
+    <li class="backlink-item-wrap"><a href="Christoffel%20symbols.html" class="backlink-item">Christoffel symbols</a></li>
+    <li class="backlink-item-wrap"><a href="Effective%20potential%20approach.html" class="backlink-item">Effective potential approach</a></li>
+    <li class="backlink-item-wrap"><a href="Geodesic%20deviation.html" class="backlink-item">Geodesic deviation</a></li>
+    <li class="backlink-item-wrap"><a href="Killing%20vectors%20and%20conserved%20quantities.html" class="backlink-item">Killing vectors and conserved quantities</a></li>
+    <li class="backlink-item-wrap"><a href="Levi-Civita%20connection.html" class="backlink-item">Levi-Civita connection</a></li>
+    <li class="backlink-item-wrap"><a href="Locally%20inertial%20frame.html" class="backlink-item">Locally inertial frame</a></li>
+    <li class="backlink-item-wrap"><a href="Metric%20compatibility.html" class="backlink-item">Metric compatibility</a></li>
+    <li class="backlink-item-wrap"><a href="Parallel%20transport.html" class="backlink-item">Parallel transport</a></li>
+    <li class="backlink-item-wrap"><a href="Radial%20infall.html" class="backlink-item">Radial infall</a></li>
+    <li class="backlink-item-wrap"><a href="Timelike%20vs%20null%20vs%20spacelike.html" class="backlink-item">Timelike vs null vs spacelike</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Geodesic%20deviation.html" class="backlink-item">Geodesic deviation</a></li>
-    <li class="backlink-item-wrap"><a href="./Killing%20vectors%20and%20conserved%20quantities.html" class="backlink-item">Killing vectors and conserved quantities</a></li>
-    <li class="backlink-item-wrap"><a href="./Levi-Civita%20connection.html" class="backlink-item">Levi-Civita connection</a></li>
-    <li class="backlink-item-wrap"><a href="./Locally%20inertial%20frame.html" class="backlink-item">Locally inertial frame</a></li>
-    <li class="backlink-item-wrap"><a href="./Metric%20compatibility.html" class="backlink-item">Metric compatibility</a></li>
-    <li class="backlink-item-wrap"><a href="./Parallel%20transport.html" class="backlink-item">Parallel transport</a></li>
-    <li class="backlink-item-wrap"><a href="./Radial%20infall.html" class="backlink-item">Radial infall</a></li>
-    <li class="backlink-item-wrap"><a href="./Timelike%20vs%20null%20vs%20spacelike.html" class="backlink-item">Timelike vs null vs spacelike</a></li>
   </ul>
 </div>
+

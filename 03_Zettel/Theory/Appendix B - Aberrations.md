@@ -2,7 +2,6 @@
 layout: "default"
 title: "Appendix B - Aberrations"
 ---
-{% raw %}
 ## Seidel aberrations
 
 In the **paraxial approximation**, all optical systems are perfect
@@ -73,7 +72,6 @@ $$\theta_{diff} \approx 1.22 \frac{\lambda}{D}$$
 
 This is the best possible angular resolution
 	aberrations only make it worse
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (1)</h4>
@@ -81,3 +79,4 @@ This is the best possible angular resolution
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
   </ul>
 </div>
+

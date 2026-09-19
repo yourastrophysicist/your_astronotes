@@ -2,10 +2,9 @@
 layout: "default"
 title: "Differential vs cumulative number counts"
 ---
-{% raw %}
 # differential vs cumulative number counts
 
-up: [Pablo_02_Statistical_properties_of_galaxies](../../02_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html) · [Galaxy number counts N(m)](./Galaxy%20number%20counts%20N%28m%29.html)
+up: [Pablo_02_Statistical_properties_of_galaxies](../../02_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html) · [Galaxy number counts N(m)](Galaxy%20number%20counts%20N%28m%29.html)
 
 ## the two forms
 
@@ -39,24 +38,22 @@ Bethermin et al. 2010 plot $S^{2.5}\, dN/dS$ at 24 μm and 70 μm. the curve is 
 
 ## connections
 
-- previous: [Galaxy number counts N(m)](./Galaxy%20number%20counts%20N%28m%29.html)
-- multi-band view: [Galaxy counts at different wavelengths](./Galaxy%20counts%20at%20different%20wavelengths.html)
-- morphology split: [Driver 1998 counts by morphology](./Driver%201998%20counts%20by%20morphology.html)
-- the Durham compilation gives both forms tabulated: [counts.html](https://astro.dur.ac.uk/~nm/pubhtml/counts/counts.html)
+- previous: [Galaxy number counts N(m)](Galaxy%20number%20counts%20N%28m%29.html)
+- multi-band view: [Galaxy counts at different wavelengths](Galaxy%20counts%20at%20different%20wavelengths.html)
+- morphology split: [Driver 1998 counts by morphology](Driver%201998%20counts%20by%20morphology.html)
+- the Durham compilation gives both forms tabulated: counts.html
 
 ## key references
 
 - Hasinger et al. 2005 (X-ray differential vs cumulative)
 - Bethermin et al. 2010, A&A 512, A78 (Spitzer 24 / 70 μm)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
+  <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Double%20power-law%20modified%20Schechter.html" class="backlink-item">Double power-law modified Schechter</a></li>
-    <li class="backlink-item-wrap"><a href="./Galaxy%20counts%20at%20different%20wavelengths.html" class="backlink-item">Galaxy counts at different wavelengths</a></li>
-    <li class="backlink-item-wrap"><a href="./Galaxy%20number%20counts%20N%28m%29.html" class="backlink-item">Galaxy number counts N(m)</a></li>
+    <li class="backlink-item-wrap"><a href="Galaxy%20counts%20at%20different%20wavelengths.html" class="backlink-item">Galaxy counts at different wavelengths</a></li>
+    <li class="backlink-item-wrap"><a href="Galaxy%20number%20counts%20N%28m%29.html" class="backlink-item">Galaxy number counts N(m)</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html" class="backlink-item">Pablo_02_Statistical_properties_of_galaxies</a></li>
   </ul>
 </div>
+

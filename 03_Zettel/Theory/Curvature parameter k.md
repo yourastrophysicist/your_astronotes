@@ -2,7 +2,6 @@
 layout: "default"
 title: "Curvature parameter k"
 ---
-{% raw %}
 the **curvature parameter** $k$ in the Robertson-Walker metric (see 03_Zettel/Theory/Robertson-Walker metric) takes one of three values, each corresponding to a different geometry of the spatial slices $\Sigma_t$:
 
 | $k$ | geometry | name | spatial topology |
@@ -64,7 +63,7 @@ $$\boxed{\,\Omega_K = 1 - \Omega_0 = 0.001 \pm 0.002 \quad (68\%~\text{CL})\,}$$
 
 so the universe is **flat to a fraction of a percent**.
 
-this is also what generic inflation models predict, by stretching out any pre-inflation curvature to undetectable levels (see [Inflation overview](./Inflation%20overview.html)).
+this is also what generic inflation models predict, by stretching out any pre-inflation curvature to undetectable levels (see [Inflation overview](Inflation%20overview.html)).
 
 so for ΛCDM in 2025: I always work with $k = 0$ in practice. the formulas simplify:
 $$d\ell^2 = a^2(t)[dr^2 + r^2 d\Omega^2]$$
@@ -85,18 +84,18 @@ so two universes with different $\lvert k\rvert$ but the same $k/a^2$ are physic
 - [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
 - 03_Zettel/Theory/Robertson-Walker metric
 - Friedmann equations with Λ
-- [Density parameters and flatness](./Density%20parameters%20and%20flatness.html)
-- [Inflation overview](./Inflation%20overview.html)
-{% endraw %}
+- [Density parameters and flatness](Density%20parameters%20and%20flatness.html)
+- [Inflation overview](Inflation%20overview.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (6)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Density%20parameters%20and%20flatness.html" class="backlink-item">Density parameters and flatness</a></li>
+    <li class="backlink-item-wrap"><a href="Density%20parameters%20and%20flatness.html" class="backlink-item">Density parameters and flatness</a></li>
+    <li class="backlink-item-wrap"><a href="Newtonian%20Friedmann%20derivation.html" class="backlink-item">Newtonian Friedmann derivation</a></li>
+    <li class="backlink-item-wrap"><a href="Robertson-Walker%20metric.html" class="backlink-item">Robertson-Walker metric</a></li>
+    <li class="backlink-item-wrap"><a href="Spatial%20curvature%20parameter%20k.html" class="backlink-item">Spatial curvature parameter k</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Newtonian%20Friedmann%20derivation.html" class="backlink-item">Newtonian Friedmann derivation</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Robertson-Walker%20metric.html" class="backlink-item">Robertson-Walker metric</a></li>
-    <li class="backlink-item-wrap"><a href="./Spatial%20curvature%20parameter%20k.html" class="backlink-item">Spatial curvature parameter k</a></li>
   </ul>
 </div>
+

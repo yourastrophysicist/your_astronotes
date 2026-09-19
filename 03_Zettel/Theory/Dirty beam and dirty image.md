@@ -2,7 +2,6 @@
 layout: "default"
 title: "Dirty beam and dirty image"
 ---
-{% raw %}
 # Dirty beam and dirty image
 
 the raw output of an aperture-synthesis interferometer, before deconvolution. the **dirty image** is the inverse Fourier transform of the (u, v) data; the **dirty beam** is the inverse Fourier transform of the *sampling pattern*. CLEAN's job is to deconvolve the dirty image with the dirty beam.
@@ -127,7 +126,6 @@ source: first figure is a local synthetic demo; NRAO figures are from S. T. Myer
 - [The (u, v) plane](interf/The%20%28u%2C%20v%29%20plane.html)
 - [Aperture synthesis principle](interf/Aperture%20synthesis%20principle.html)
 - [CLEAN algorithm](interf/CLEAN%20algorithm.html)
-- [Maximum entropy method](./Maximum%20entropy%20method.html)
+- [Maximum entropy method](Maximum%20entropy%20method.html)
 - [Imaging artifacts](interf/Imaging%20artifacts.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

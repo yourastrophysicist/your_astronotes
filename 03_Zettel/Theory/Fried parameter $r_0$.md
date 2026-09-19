@@ -2,7 +2,6 @@
 layout: "default"
 title: "Fried parameter $r_0$"
 ---
-{% raw %}
 # Fried parameter $r_0$
 
 the *single number* that summarizes how good seeing is at an observing site. $r_0$ is the size of the patch over which the atmospheric phase is coherent within $\sim 1$ rad. defined by David Fried (1965), it is the universal yardstick of optical observing conditions.
@@ -122,4 +121,3 @@ the parameter is now everywhere in optical astronomy and adaptive-optics literat
 
 ![Fried_parameter__r_0_.jpg](../../assets/images/Fried_parameter__r_0_.jpg)
 *Atmospheric turbulence coherence length $r_0$ (Fried parameter) as a function of wavelength $\lambda^{6/5}$ and spatial phase structure function.*
-{% endraw %}

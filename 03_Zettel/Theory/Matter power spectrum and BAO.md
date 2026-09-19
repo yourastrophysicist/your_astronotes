@@ -2,7 +2,6 @@
 layout: "default"
 title: "Matter power spectrum and BAO"
 ---
-{% raw %}
 at the zeroth-order picture the universe is homogeneous,
 	but at first order it is *almost* homogeneous,
 		and the small density fluctuations are what eventually grow into galaxies and clusters.
@@ -100,11 +99,11 @@ galaxies sit on the nodes of a vast filamentary network, with voids in between. 
 ## see also
 
 - [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Cosmic_inventory_overview](./Cosmic_inventory_overview.html)
-- [Linear evolution of perturbations in expanding universe](./Linear%20evolution%20of%20perturbations%20in%20expanding%20universe.html)
-- [Growth factor D(z)](./Growth%20factor%20D%28z%29.html)
-- [Press-Schechter halo mass function](./Press-Schechter%20halo%20mass%20function.html)
-- [Baumann_reference](./Baumann_reference.html) — chapters 4 and 5 are the rigorous treatment
+- [Cosmic_inventory_overview](Cosmic_inventory_overview.html)
+- [Linear evolution of perturbations in expanding universe](Linear%20evolution%20of%20perturbations%20in%20expanding%20universe.html)
+- [Growth factor D(z)](Growth%20factor%20D%28z%29.html)
+- [Press-Schechter halo mass function](Press-Schechter%20halo%20mass%20function.html)
+- [Baumann_reference](Baumann_reference.html) — chapters 4 and 5 are the rigorous treatment
 
 ---
 
@@ -132,32 +131,32 @@ galaxies sit on the nodes of a vast filamentary network, with voids in between. 
 
 ![obscos_lec1a_p40.png](../../assets/images/obscos_lec1a_p40.png)
 *Cosmic shear and weak gravitational lensing convergence power spectrum $P_\kappa(\ell)$.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (22)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Angular%20diameter%20distance.html" class="backlink-item">Angular diameter distance</a></li>
-    <li class="backlink-item-wrap"><a href="./Brief%20thermal%20history.html" class="backlink-item">Brief thermal history</a></li>
-    <li class="backlink-item-wrap"><a href="./CMB%20power%20spectrum.html" class="backlink-item">CMB power spectrum</a></li>
-    <li class="backlink-item-wrap"><a href="./Cosmic_inventory_dark_matter.html" class="backlink-item">Cosmic_inventory_dark_matter</a></li>
-    <li class="backlink-item-wrap"><a href="./Cosmic_inventory_overview.html" class="backlink-item">Cosmic_inventory_overview</a></li>
-    <li class="backlink-item-wrap"><a href="./Cosmological%20evolution%20of%20perturbations%20in%20the%20cosmic%20fluid.html" class="backlink-item">Cosmological evolution of perturbations in the cosmic fluid</a></li>
-    <li class="backlink-item-wrap"><a href="./Cosmological%20principle.html" class="backlink-item">Cosmological principle</a></li>
+    <li class="backlink-item-wrap"><a href="Angular%20diameter%20distance.html" class="backlink-item">Angular diameter distance</a></li>
+    <li class="backlink-item-wrap"><a href="Brief%20thermal%20history.html" class="backlink-item">Brief thermal history</a></li>
+    <li class="backlink-item-wrap"><a href="CMB%20power%20spectrum.html" class="backlink-item">CMB power spectrum</a></li>
+    <li class="backlink-item-wrap"><a href="Cosmic_inventory_dark_matter.html" class="backlink-item">Cosmic_inventory_dark_matter</a></li>
+    <li class="backlink-item-wrap"><a href="Cosmic_inventory_overview.html" class="backlink-item">Cosmic_inventory_overview</a></li>
+    <li class="backlink-item-wrap"><a href="Cosmological%20evolution%20of%20perturbations%20in%20the%20cosmic%20fluid.html" class="backlink-item">Cosmological evolution of perturbations in the cosmic fluid</a></li>
+    <li class="backlink-item-wrap"><a href="Cosmological%20principle.html" class="backlink-item">Cosmological principle</a></li>
+    <li class="backlink-item-wrap"><a href="Galaxy%20clusters%20and%20overview%20of%20evolution.html" class="backlink-item">Galaxy clusters and overview of evolution</a></li>
+    <li class="backlink-item-wrap"><a href="Growth%20factor%20D%28z%29.html" class="backlink-item">Growth factor D(z)</a></li>
+    <li class="backlink-item-wrap"><a href="Hot%20vs%20cold%20dark%20matter.html" class="backlink-item">Hot vs cold dark matter</a></li>
+    <li class="backlink-item-wrap"><a href="Jeans%20analysis%20in%20expanding%20universe.html" class="backlink-item">Jeans analysis in expanding universe</a></li>
+    <li class="backlink-item-wrap"><a href="Lambda%20CDM%20current%20parameters.html" class="backlink-item">Lambda CDM current parameters</a></li>
+    <li class="backlink-item-wrap"><a href="Linear%20evolution%20of%20perturbations%20in%20expanding%20universe.html" class="backlink-item">Linear evolution of perturbations in expanding universe</a></li>
+    <li class="backlink-item-wrap"><a href="Linear%20vs%20nonlinear%20regime.html" class="backlink-item">Linear vs nonlinear regime</a></li>
+    <li class="backlink-item-wrap"><a href="Matter%20radiation%20equality.html" class="backlink-item">Matter radiation equality</a></li>
+    <li class="backlink-item-wrap"><a href="N-body%20simulations.html" class="backlink-item">N-body simulations</a></li>
+    <li class="backlink-item-wrap"><a href="Perturbations%20in%20an%20expanding%20universe.html" class="backlink-item">Perturbations in an expanding universe</a></li>
+    <li class="backlink-item-wrap"><a href="Press-Schechter%20halo%20mass%20function.html" class="backlink-item">Press-Schechter halo mass function</a></li>
+    <li class="backlink-item-wrap"><a href="Saha%20equation%20and%20recombination.html" class="backlink-item">Saha equation and recombination</a></li>
+    <li class="backlink-item-wrap"><a href="Spherical%20collapse.html" class="backlink-item">Spherical collapse</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Galaxy%20clusters%20and%20overview%20of%20evolution.html" class="backlink-item">Galaxy clusters and overview of evolution</a></li>
-    <li class="backlink-item-wrap"><a href="./Growth%20factor%20D%28z%29.html" class="backlink-item">Growth factor D(z)</a></li>
-    <li class="backlink-item-wrap"><a href="./Hot%20vs%20cold%20dark%20matter.html" class="backlink-item">Hot vs cold dark matter</a></li>
-    <li class="backlink-item-wrap"><a href="./Jeans%20analysis%20in%20expanding%20universe.html" class="backlink-item">Jeans analysis in expanding universe</a></li>
-    <li class="backlink-item-wrap"><a href="./Lambda%20CDM%20current%20parameters.html" class="backlink-item">Lambda CDM current parameters</a></li>
-    <li class="backlink-item-wrap"><a href="./Linear%20evolution%20of%20perturbations%20in%20expanding%20universe.html" class="backlink-item">Linear evolution of perturbations in expanding universe</a></li>
-    <li class="backlink-item-wrap"><a href="./Linear%20vs%20nonlinear%20regime.html" class="backlink-item">Linear vs nonlinear regime</a></li>
-    <li class="backlink-item-wrap"><a href="./Matter%20radiation%20equality.html" class="backlink-item">Matter radiation equality</a></li>
-    <li class="backlink-item-wrap"><a href="./N-body%20simulations.html" class="backlink-item">N-body simulations</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Perturbations%20in%20an%20expanding%20universe.html" class="backlink-item">Perturbations in an expanding universe</a></li>
-    <li class="backlink-item-wrap"><a href="./Press-Schechter%20halo%20mass%20function.html" class="backlink-item">Press-Schechter halo mass function</a></li>
-    <li class="backlink-item-wrap"><a href="./Saha%20equation%20and%20recombination.html" class="backlink-item">Saha equation and recombination</a></li>
-    <li class="backlink-item-wrap"><a href="./Spherical%20collapse.html" class="backlink-item">Spherical collapse</a></li>
   </ul>
 </div>
+

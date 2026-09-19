@@ -2,8 +2,7 @@
 layout: "default"
 title: "Piotto 03 - Semiconductor Physics and CCD Detector Fundamentals"
 ---
-{% raw %}
-# Piotto 03 ? Semiconductor Physics and CCD Detector Fundamentals
+# Piotto 03 — Semiconductor Physics and CCD Detector Fundamentals
 
 *Astrophysics Laboratory 2, Prof. Giampaolo Piotto (Lecture 08/10/2025)*  
 *Index: [Astrophysics_Laboratory_2_MOC](../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html)*
@@ -85,13 +84,13 @@ For a $2048 \times 2048$ pixel CCD, corner pixels undergo $\sim 4000$ transfers;
 - [CCD Dark Current and Thermal Generation](../../../03_Zettel/Observations/CCD%20Dark%20Current%20and%20Thermal%20Generation.html)
 - [Full Well Capacity and Charge Saturation](../../../03_Zettel/Observations/Full%20Well%20Capacity%20and%20Charge%20Saturation.html)
 - [Piotto 04 - CCD Photometry and Noise Characterization](./Piotto%2004%20-%20CCD%20Photometry%20and%20Noise%20Characterization.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Observations/CCD%20Dark%20Current%20and%20Thermal%20Generation.html" class="backlink-item">CCD Dark Current and Thermal Generation</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Observations/Full%20Well%20Capacity%20and%20Charge%20Saturation.html" class="backlink-item">Full Well Capacity and Charge Saturation</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
   </ul>
 </div>
+

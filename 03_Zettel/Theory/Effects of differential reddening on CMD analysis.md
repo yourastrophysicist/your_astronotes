@@ -1,11 +1,8 @@
 ---
 layout: "default"
 title: "Effects of differential reddening on CMD analysis"
-name: "Effects of differential reddening on CMD analysis"
-description: "how spatially-varying interstellar reddening artificially broadens cluster sequences on the CMD, mimicking metallicity spreads and multiple populations, and must be corrected before MP analysis"
 ---
-{% raw %}
-**differential reddening (DR)** is one of the dominant sources of systematic error in resolved cluster CMD analysis. it broadens main sequence + RGB + HB ridges and can mimic real physical phenomena (metallicity spread, [multiple populations](./Multiple%20populations%20in%20GCs%20discovery.html), [eMSTO](./Extended%20main%20sequence%20turn-off%20eMSTO.html)). diagnosing + correcting DR is critical before any chromosome-map analysis.
+**differential reddening (DR)** is one of the dominant sources of systematic error in resolved cluster CMD analysis. it broadens main sequence + RGB + HB ridges and can mimic real physical phenomena (metallicity spread, [multiple populations](Multiple%20populations%20in%20GCs%20discovery.html), [eMSTO](Extended%20main%20sequence%20turn-off%20eMSTO.html)). diagnosing + correcting DR is critical before any chromosome-map analysis.
 
 ## the basic effect
 
@@ -13,7 +10,7 @@ each star sits at a specific spatial position $(x, y)$ in the cluster field. the
 
 $$E(B-V)_i = \langle E(B-V) \rangle + \delta_i$$
 
-with $\delta_i$ ranging from $-3\sigma$ to $+3\sigma$. each star's CMD position is shifted along the [reddening vector](./Interstellar%20reddening%20and%20the%20reddening%20vector.html) by an amount proportional to $\delta_i$.
+with $\delta_i$ ranging from $-3\sigma$ to $+3\sigma$. each star's CMD position is shifted along the [reddening vector](Interstellar%20reddening%20and%20the%20reddening%20vector.html) by an amount proportional to $\delta_i$.
 
 result: the cluster MS, RGB, HB on the CMD become **broadened** vertically + horizontally along the reddening vector.
 
@@ -22,7 +19,7 @@ result: the cluster MS, RGB, HB on the CMD become **broadened** vertically + hor
 | mimicked phenomenon | DR signature | distinguishing feature |
 |---|---|---|
 | metallicity spread | broadens RGB + MS | DR shift along reddening vector, NOT iso-metallicity locus |
-| [multiple populations](./Multiple%20populations%20in%20GCs%20discovery.html) | broadens MS + RGB | DR has spatial coherence; MPs are independent of position |
+| [multiple populations](Multiple%20populations%20in%20GCs%20discovery.html) | broadens MS + RGB | DR has spatial coherence; MPs are independent of position |
 | age spread | broadens TO | DR also broadens lower MS, age spread should not |
 | binary fraction | scatters above MS | DR scatters along reddening vector, not just upward |
 
@@ -43,7 +40,7 @@ this test is the **first thing** to do before claiming any chromosome-map split 
 
 ## the impact on chromosome maps
 
-[Photometric chromosome maps](./Photometric%20chromosome%20maps.html) rely on UV photometry where dust extinction is strongest. the chromosome-map axes:
+[Photometric chromosome maps](Photometric%20chromosome%20maps.html) rely on UV photometry where dust extinction is strongest. the chromosome-map axes:
 
 - $\Delta_{F275W,F814W}$ (vertical, He-sensitive)
 - $\Delta_{C\,F275W,F336W,F438W}$ (horizontal, N-sensitive)
@@ -61,7 +58,7 @@ DR is severe in:
 - inner halo + disc fields ($\lvert b\rvert < 10^\circ$);
 - young LMC + SMC clusters near the Magellanic Stream + 30 Doradus.
 
-in these fields, even a tight CMD ridge has DR-induced scatter $\sigma \sim 0.05$-$0.15$ mag. without DR mapping (see [Differential reddening maps](./Differential%20reddening%20maps.html)), no chromosome map is publishable.
+in these fields, even a tight CMD ridge has DR-induced scatter $\sigma \sim 0.05$-$0.15$ mag. without DR mapping (see [Differential reddening maps](Differential%20reddening%20maps.html)), no chromosome map is publishable.
 
 ## correction strategies
 
@@ -92,25 +89,25 @@ failing to correct DR has produced spurious "multiple populations" or "age sprea
 
 ## see also
 
-- [Differential reddening maps](./Differential%20reddening%20maps.html)
-- [Interstellar reddening and the reddening vector](./Interstellar%20reddening%20and%20the%20reddening%20vector.html)
-- [Extinction law and Rv](./Extinction%20law%20and%20Rv.html)
-- [Bulge CMD complications](./Bulge%20CMD%20complications.html)
-- [Photometric chromosome maps](./Photometric%20chromosome%20maps.html)
-- [Multiple populations in GCs discovery](./Multiple%20populations%20in%20GCs%20discovery.html)
-- [Color-magnitude diagrams of clusters](./Color-magnitude%20diagrams%20of%20clusters.html)
+- [Differential reddening maps](Differential%20reddening%20maps.html)
+- [Interstellar reddening and the reddening vector](Interstellar%20reddening%20and%20the%20reddening%20vector.html)
+- [Extinction law and Rv](Extinction%20law%20and%20Rv.html)
+- [Bulge CMD complications](Bulge%20CMD%20complications.html)
+- [Photometric chromosome maps](Photometric%20chromosome%20maps.html)
+- [Multiple populations in GCs discovery](Multiple%20populations%20in%20GCs%20discovery.html)
+- [Color-magnitude diagrams of clusters](Color-magnitude%20diagrams%20of%20clusters.html)
 - [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (7)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Bulge%20CMD%20complications.html" class="backlink-item">Bulge CMD complications</a></li>
-    <li class="backlink-item-wrap"><a href="./Differential%20reddening%20maps.html" class="backlink-item">Differential reddening maps</a></li>
-    <li class="backlink-item-wrap"><a href="./Element%20abundance%20patterns.html" class="backlink-item">Element abundance patterns</a></li>
-    <li class="backlink-item-wrap"><a href="./Spectroscopic%20determination%20of%20Teff.html" class="backlink-item">Spectroscopic determination of Teff</a></li>
+    <li class="backlink-item-wrap"><a href="Bulge%20CMD%20complications.html" class="backlink-item">Bulge CMD complications</a></li>
+    <li class="backlink-item-wrap"><a href="Differential%20reddening%20maps.html" class="backlink-item">Differential reddening maps</a></li>
+    <li class="backlink-item-wrap"><a href="Element%20abundance%20patterns.html" class="backlink-item">Element abundance patterns</a></li>
+    <li class="backlink-item-wrap"><a href="Spectroscopic%20determination%20of%20Teff.html" class="backlink-item">Spectroscopic determination of Teff</a></li>
+    <li class="backlink-item-wrap"><a href="The%20Galactic%20Bulge.html" class="backlink-item">The Galactic Bulge</a></li>
+    <li class="backlink-item-wrap"><a href="WDCS%20vs%20MSTO%20ages%20comparison.html" class="backlink-item">WDCS vs MSTO ages comparison</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./The%20Galactic%20Bulge.html" class="backlink-item">The Galactic Bulge</a></li>
-    <li class="backlink-item-wrap"><a href="./WDCS%20vs%20MSTO%20ages%20comparison.html" class="backlink-item">WDCS vs MSTO ages comparison</a></li>
   </ul>
 </div>
+

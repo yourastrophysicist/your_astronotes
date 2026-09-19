@@ -2,7 +2,6 @@
 layout: "default"
 title: "Atmospheric turbulence overview"
 ---
-{% raw %}
 # Atmospheric turbulence overview
 
 the atmosphere is the worst enemy of optical interferometry. air with slightly different temperatures has slightly different refractive indices, so light passing through follows slightly different optical path lengths in different parcels. the resulting *random phase corruption* destroys fringes if not corrected. understanding this is the prerequisite for adaptive optics, fringe tracking, and speckle techniques.
@@ -113,4 +112,3 @@ scintillation is usually a few percent of total flux but can rise to tens of per
 - [Scintillation and twinkling](interf/Scintillation%20and%20twinkling.html)
 - [Adaptive optics](interf/Adaptive%20optics.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

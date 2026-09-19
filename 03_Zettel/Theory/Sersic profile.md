@@ -2,84 +2,126 @@
 layout: "default"
 title: "Sersic profile"
 ---
-{% raw %}
-the **Sérsic profile** is the standard parametrisation of galaxy surface-brightness profiles. specified by 3 parameters (effective radius, surface brightness at $r_e$, Sérsic index $n$). interpolates between exponential disks and de Vaucouleurs ellipticals.
+## The Sérsic Profile Formula
 
-## the formula
+The **Sérsic (1963, 1968)** profile is the universal empirical description of galaxy radial surface brightness.
 
-$$\boxed{\, \Sigma(r) = \Sigma_e\,\exp\!\left[-b_n\!\left(\!\left(\frac{r}{r_e}\right)^{1/n} - 1\right)\right] \,}$$
+$$\boxed{I(R) = I_e \exp\left\{ -b_n \left[ \left(\frac{R}{R_e}\right)^{1/n} - 1 \right] \right\} = I_e e^{b_n} \exp\left[ -b_n \left(\frac{R}{R_e}\right)^{1/n} \right]}$$
 
-with:
-- $r_e$: **effective radius** (half-light radius; encloses 50% of total flux).
-- $\Sigma_e$: surface brightness at $r_e$.
-- $n$: **Sérsic index** (shape parameter).
-- $b_n$: a constant that depends on $n$, fixed so that $r_e$ is the half-light radius. $b_n \approx 2n - 0.327$ for $n \gtrsim 1$.
+The physical parameters.
+- $R_e$ - **Effective radius** (half-light radius), enclosing $50\%$ of the total projected light.
+- $I_e$ - Surface brightness at the effective radius, $I(R_e) = I_e$.
+- $n$ - **Sérsic index** (shape parameter). High $n$ produces a steep central cusp and extended outer wings; low $n$ produces a flat core and sharp truncation.
+- $b_n$ - Dimensionless constant uniquely determined by $n$ such that $R_e$ encloses half the total luminosity.
 
-## key cases
+---
 
-### $n = 1$: exponential profile
-$$\Sigma(r) = \Sigma_0\,e^{-r/h}$$
-with scale length $h = r_e/1.678$. fits **disk galaxies** (Sa, Sb, Sc spirals).
+## Unbroken Mathematical Derivation - Total Integrated Luminosity
 
-### $n = 4$: de Vaucouleurs profile
-$$\Sigma(r) = \Sigma_e\,\exp[-7.67((r/r_e)^{1/4} - 1)]$$
-fits **elliptical galaxies** (E, S0). historically derived empirically by de Vaucouleurs 1948.
+Assuming circular symmetry on the sky plane, the total luminosity $L$ is obtained by integrating over annular rings.
 
-### intermediate $n$
-$n = 2$: bulgy galaxies, lenticulars. some early-type spirals.
-$n \sim 0.5$: very flat / disky profiles.
-$n > 4$: very concentrated, **cD galaxies**, brightest cluster galaxies (BCGs).
+$$L = \int_0^\infty 2\pi R\, I(R)\, dR = 2\pi I_e e^{b_n} \int_0^\infty R \exp\left[ -b_n \left(\frac{R}{R_e}\right)^{1/n} \right] dR$$
 
-## the meaning of $n$
+### Step-by-Step Substitution
+Define the dimensionless substitution variable $x$.
+$$x \equiv b_n \left(\frac{R}{R_e}\right)^{1/n}$$
 
-higher $n$ = more **centrally concentrated** profile + more extended outer wings:
-- $n = 1$: rapid exponential drop, no extended halo.
-- $n = 4$: smooth roll-over at small $r$, very gradual decline at large $r$.
+Invert for $R$ in terms of $x$.
+$$\left(\frac{R}{R_e}\right)^{1/n} = \frac{x}{b_n} \implies \frac{R}{R_e} = \left(\frac{x}{b_n}\right)^n \implies R(x) = R_e b_n^{-n} x^n$$
 
-## the practical fit
+Differentiate $R(x)$ with respect to $x$.
+$$dR = R_e b_n^{-n} \cdot n x^{n-1} dx$$
 
-GALFIT (Peng 2002) and other galaxy-fitting codes fit a Sérsic profile to a galaxy image. recovers $r_e, \Sigma_e, n$ for each galaxy. used in survey pipelines (HST, JWST, MaNGA).
+Now construct the differential area product $R dR$.
+$$R\, dR = \left( R_e b_n^{-n} x^n \right) \cdot \left( R_e b_n^{-n} n x^{n-1} dx \right) = R_e^2\, n\, b_n^{-2n} x^{2n - 1} dx$$
 
-bulge + disk decompositions: fit two Sérsic profiles, one with $n \sim 4$ (bulge), one with $n = 1$ (disk).
+Transform the integration limits.
+- When $R = 0 \implies x = 0$
+- When $R \to \infty \implies x \to \infty$
 
-## the integrated luminosity
+### Evaluating the Integral
+Substitute $R dR$ and the exponential into the luminosity integral.
 
-total luminosity:
-$$L = \int 2\pi r\,\Sigma(r)\,dr = 2\pi r_e^2 \Sigma_e\,\frac{2n e^{b_n}\Gamma(2n)}{b_n^{2n}}$$
+$$L = 2\pi I_e e^{b_n} \int_0^\infty \left( R_e^2\, n\, b_n^{-2n} x^{2n - 1} dx \right) e^{-x}$$
 
-closed-form in terms of incomplete Gamma functions. tabulated.
+Pull all constants outside the integral.
 
-## relation to Hubble morphology
+$$L = 2\pi n\, e^{b_n} R_e^2 I_e b_n^{-2n} \int_0^\infty x^{2n - 1} e^{-x}\, dx$$
 
-| morphology | typical $n$ | typical $r_e$ |
-|---|---|---|
-| dwarf elliptical | $1$ to $2$ | $0.5$ to $2$ kpc |
-| massive elliptical (E) | $4$ to $6$ | $5$ to $20$ kpc |
-| cD galaxy | $> 6$ | $> 50$ kpc |
-| S0 (lenticular) | $\sim 3$ | $5$ to $10$ kpc |
-| Sa (early spiral) | $\sim 2$ (bulge) + $\sim 1$ (disk) | bulge $\sim 1$ kpc, disk $\sim 5$ kpc |
-| Sc (late spiral) | $\sim 1$ (disk-dominated) | $\sim 5$ kpc |
+Recognize that the integral is exactly the definition of the Euler Gamma function $\Gamma(s) = \int_0^\infty x^{s-1} e^{-x} dx$ with $s = 2n$.
 
-so $n$ correlates with morphology: high $n$ = early-type, low $n$ = late-type.
+$$\int_0^\infty x^{2n - 1} e^{-x}\, dx = \Gamma(2n)$$
 
-## why it works
+Therefore, the exact total luminosity is.
 
-physically motivated by relaxation:
-- **disks** ($n = 1$): formed by dissipative collapse; angular-momentum-supported.
-- **ellipticals** ($n \sim 4$): formed by violent relaxation in mergers; pressure-supported.
-- **mixed**: galaxies with significant bulges + disks need 2-component fits.
+$$\boxed{L = \frac{2\pi n\, e^{b_n} R_e^2 I_e}{b_n^{2n}} \Gamma(2n)}$$
 
-Sérsic captures both ends + everything in between with a single parameter.
+---
+
+## Determination of $b_n$ from Half-Light Condition
+
+By definition of effective radius $R_e$, the luminosity enclosed within $R_e$ must equal half the total luminosity.
+
+$$L(<R_e) = \frac{1}{2} L$$
+
+Integrating from $R = 0$ to $R = R_e$ corresponds to integrating $x$ from $0$ to $b_n$.
+
+$$L(<R_e) = \frac{2\pi n\, e^{b_n} R_e^2 I_e}{b_n^{2n}} \int_0^{b_n} x^{2n - 1} e^{-x}\, dx = \frac{2\pi n\, e^{b_n} R_e^2 I_e}{b_n^{2n}} \gamma(2n, b_n)$$
+
+where $\gamma(s, x) = \int_0^x t^{s-1} e^{-t} dt$ is the lower incomplete Gamma function.
+
+Equating $L(<R_e) = \frac{1}{2} L$ yields the condition for $b_n$.
+
+$$\boxed{\gamma(2n, b_n) = \frac{1}{2} \Gamma(2n)}$$
+
+### Numerical Asymptotics (Ciotti & Bertin 1999)
+For $0.5 \le n \le 10$, $b_n$ is well approximated by.
+$$b_n \approx 2n - \frac{1}{3} + \frac{0.0079}{n}$$
+
+- **Exponential Disk ($n = 1$) -**
+  $b_1 \approx 1.6783$. Total luminosity $L = \frac{2\pi(1) e^{1.6783} R_e^2 I_e}{(1.6783)^2} \Gamma(2) = 11.95 R_e^2 I_e = 2\pi I_0 h_R^2$ with $R_e = 1.678 h_R$.
+- **de Vaucouleurs Elliptical ($n = 4$) -**
+  $b_4 \approx 7.6692$. Total luminosity $L = \frac{8\pi e^{7.6692} R_e^2 I_e}{(7.6692)^8} \Gamma(8) = 7.215 \pi R_e^2 I_e$.
+
+---
+
+## Mean Surface Brightness Within $R_e$
+
+The average surface brightness within the effective radius $\langle I \rangle_e$ is.
+
+$$\langle I \rangle_e \equiv \frac{L(<R_e)}{\pi R_e^2} = \frac{L / 2}{\pi R_e^2} = \frac{n\, e^{b_n} I_e}{b_n^{2n}} \Gamma(2n)$$
+
+For a de Vaucouleurs profile ($n=4$) - $\langle I \rangle_e \approx 3.607 I_e$, meaning $\langle\mu\rangle_e \approx \mu_e - 1.39$ mag/arcsec$^2$.
+
+---
+
+## Textbook & Course References
+
+- **Mo, van den Bosch & White (2010), *Galaxy Formation and Evolution***.
+  - File `Houjun Mo, Frank van den Bosch, Simon White - Galaxy Formation and Evolution (2010, Cambridge University Press) - libgen.li.pdf`
+  - Chapter 2, Section 2.3.2 "Surface Photometry", pp. 64-70 (eq. 2.22, de Vaucouleurs vs exponential profiles).
+- **Binney & Merrifield (1998), *Galactic Astronomy***.
+  - File `Galactic Astronomy (James Binney Michael Merrifield) (z-library.sk, 1lib.sk, z-lib.sk).pdf`
+  - Chapter 4, Section 4.3 "Photometry of Early-Type Galaxies", pp. 194-204 (Sérsic profile properties, $R^{1/4}$ fits).
+- **Peter Schneider (2015), *Extragalactic Astronomy and Cosmology***.
+  - File `Extrag_Astro_144-171.pdf`
+  - Chapter 3, Section 3.4.1 "Surface brightness profiles", pp. 144-155.
+- **Prof. Alessandro Pizzella Course Slides**.
+  - File `Lecture2_EllipticalBulges.pdf` (slides `gal_ell-01..20`).
+- **Master Derivations Guide**.
+  - Master Derivations and Mathematical Rigor
+
+---
 
 ## see also
 
-- [De Vaucouleurs and exponential profiles](./De%20Vaucouleurs%20and%20exponential%20profiles.html)
-- [Hubble morphological sequence](./Hubble%20morphological%20sequence.html)
-- [CAS galaxy classification](./CAS%20galaxy%20classification.html)
-- [Galaxy size-luminosity relation](./Galaxy%20size-luminosity%20relation.html)
-- [Petrosian radius](./Petrosian%20radius.html)
-- [Aperture photometry](./Aperture%20photometry.html)
-- [PSF photometry](./PSF%20photometry.html)
+- [De Vaucouleurs and exponential profiles](De%20Vaucouleurs%20and%20exponential%20profiles.html)
+- [Hubble morphological sequence](Hubble%20morphological%20sequence.html)
+- [CAS galaxy classification](CAS%20galaxy%20classification.html)
+- [Galaxy size-luminosity relation](Galaxy%20size-luminosity%20relation.html)
+- [Petrosian radius](Petrosian%20radius.html)
+- [Aperture photometry](Aperture%20photometry.html)
+- [PSF photometry](PSF%20photometry.html)
 - [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html)
 
 ---
@@ -87,22 +129,22 @@ Sérsic captures both ends + everything in between with a single parameter.
 ## astrophysics of galaxies figures and slides (Prof. Alessandro Pizzella)
 
 ![gal_ell-01.png](../../assets/images/gal_ell-01.png)
-*Lecture 2: Ellipticals and Bulges (Prof. Alessandro Pizzella).*
+*Lecture 2 - Ellipticals and Bulges (Prof. Alessandro Pizzella).*
 
 ![gal_ell-02.png](../../assets/images/gal_ell-02.png)
 *Jose Luis Sersic (1963, 1968) generalized radial surface brightness profile.*
 
 ![gal_ell-03.png](../../assets/images/gal_ell-03.png)
-*Formula: I(R) = I_e * exp[ -b_n * ( (R / R_e)^(1/n) - 1 ) ].*
+*Formula - I(R) = I_e * exp[ -b_n * ( (R / R_e)^(1/n) - 1 ) ].*
 
 ![gal_ell-04.png](../../assets/images/gal_ell-04.png)
 *Effective radius R_e (half-light radius) and effective intensity I_e.*
 
 ![gal_ell-05.png](../../assets/images/gal_ell-05.png)
-*The b_n constant: approximation b_n ~ 2n - 1/3 + 0.0079/n for 0.5 < n < 10.*
+*The b_n constant - approximation b_n ~ 2n - 1/3 + 0.0079/n for 0.5 < n < 10.*
 
 ![gal_ell-06.png](../../assets/images/gal_ell-06.png)
-*Sersic index n as structural parameter: n = 1 (exponential disk), n = 4 (de Vaucouleurs elliptical).*
+*Sersic index n as structural parameter - n = 1 (exponential disk), n = 4 (de Vaucouleurs elliptical).*
 
 ---
 
@@ -135,17 +177,17 @@ Sérsic captures both ends + everything in between with a single parameter.
 ![gal_ell-19.png](../../assets/images/gal_ell-19.png)
 
 ![gal_ell-20.png](../../assets/images/gal_ell-20.png)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (7)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="CAS%20galaxy%20classification.html" class="backlink-item">CAS galaxy classification</a></li>
+    <li class="backlink-item-wrap"><a href="De%20Vaucouleurs%20and%20exponential%20profiles.html" class="backlink-item">De Vaucouleurs and exponential profiles</a></li>
+    <li class="backlink-item-wrap"><a href="Galaxy%20morphology%20vs%20physical%20properties.html" class="backlink-item">Galaxy morphology vs physical properties</a></li>
+    <li class="backlink-item-wrap"><a href="Hubble%20morphological%20sequence.html" class="backlink-item">Hubble morphological sequence</a></li>
+    <li class="backlink-item-wrap"><a href="Kormendy%20relation.html" class="backlink-item">Kormendy relation</a></li>
+    <li class="backlink-item-wrap"><a href="Petrosian%20radius.html" class="backlink-item">Petrosian radius</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./CAS%20galaxy%20classification.html" class="backlink-item">CAS galaxy classification</a></li>
-    <li class="backlink-item-wrap"><a href="./Color%20gradients%20in%20ellipticals.html" class="backlink-item">Color gradients in ellipticals</a></li>
-    <li class="backlink-item-wrap"><a href="./De%20Vaucouleurs%20and%20exponential%20profiles.html" class="backlink-item">De Vaucouleurs and exponential profiles</a></li>
-    <li class="backlink-item-wrap"><a href="./Kormendy%20relation.html" class="backlink-item">Kormendy relation</a></li>
-    <li class="backlink-item-wrap"><a href="./Low%20surface%20brightness%20galaxies.html" class="backlink-item">Low surface brightness galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="./Petrosian%20radius.html" class="backlink-item">Petrosian radius</a></li>
   </ul>
 </div>
+

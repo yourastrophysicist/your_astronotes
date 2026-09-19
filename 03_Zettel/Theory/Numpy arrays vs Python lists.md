@@ -2,7 +2,6 @@
 layout: "default"
 title: "Numpy arrays vs Python lists"
 ---
-{% raw %}
 # Numpy arrays vs Python lists
 
 the *single most important* python performance concept for scientific computing. lists and arrays look interchangeable in many code snippets but their performance is wildly different — sometimes by factors of 100 to 1000.
@@ -127,23 +126,23 @@ if I find myself writing a `for` loop over data, the question is: can this be ve
 
 ## see also
 
-- [Computational complexity and speed](./Computational%20complexity%20and%20speed.html)
-- [Vectorization and python speed](./Vectorization%20and%20python%20speed.html)
-- [Python language essentials](./Python%20language%20essentials.html)
+- [Computational complexity and speed](Computational%20complexity%20and%20speed.html)
+- [Vectorization and python speed](Vectorization%20and%20python%20speed.html)
+- [Python language essentials](Python%20language%20essentials.html)
 - [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (9)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Computational%20complexity%20and%20speed.html" class="backlink-item">Computational complexity and speed</a></li>
-    <li class="backlink-item-wrap"><a href="./Hint%20-%20TODO%201.1%20Loading%20Data%20with%20np.loadtxt.html" class="backlink-item">Hint - TODO 1.1 Loading Data with np.loadtxt</a></li>
-    <li class="backlink-item-wrap"><a href="./Hint%20-%20TODO%201.2%20Computing%20Summary%20Statistics.html" class="backlink-item">Hint - TODO 1.2 Computing Summary Statistics</a></li>
+    <li class="backlink-item-wrap"><a href="Computational%20complexity%20and%20speed.html" class="backlink-item">Computational complexity and speed</a></li>
+    <li class="backlink-item-wrap"><a href="Hint%20-%20TODO%201.1%20Loading%20Data%20with%20np.loadtxt.html" class="backlink-item">Hint - TODO 1.1 Loading Data with np.loadtxt</a></li>
+    <li class="backlink-item-wrap"><a href="Hint%20-%20TODO%201.2%20Computing%20Summary%20Statistics.html" class="backlink-item">Hint - TODO 1.2 Computing Summary Statistics</a></li>
+    <li class="backlink-item-wrap"><a href="Matplotlib%20plotting%20essentials.html" class="backlink-item">Matplotlib plotting essentials</a></li>
+    <li class="backlink-item-wrap"><a href="Pandas%20for%20tabular%20astrophysics%20data.html" class="backlink-item">Pandas for tabular astrophysics data</a></li>
+    <li class="backlink-item-wrap"><a href="Python%20language%20essentials.html" class="backlink-item">Python language essentials</a></li>
+    <li class="backlink-item-wrap"><a href="Scipy%20and%20astropy%20quick%20reference.html" class="backlink-item">Scipy and astropy quick reference</a></li>
+    <li class="backlink-item-wrap"><a href="Vectorization%20and%20python%20speed.html" class="backlink-item">Vectorization and python speed</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Matplotlib%20plotting%20essentials.html" class="backlink-item">Matplotlib plotting essentials</a></li>
-    <li class="backlink-item-wrap"><a href="./Pandas%20for%20tabular%20astrophysics%20data.html" class="backlink-item">Pandas for tabular astrophysics data</a></li>
-    <li class="backlink-item-wrap"><a href="./Python%20language%20essentials.html" class="backlink-item">Python language essentials</a></li>
-    <li class="backlink-item-wrap"><a href="./Scipy%20and%20astropy%20quick%20reference.html" class="backlink-item">Scipy and astropy quick reference</a></li>
-    <li class="backlink-item-wrap"><a href="./Vectorization%20and%20python%20speed.html" class="backlink-item">Vectorization and python speed</a></li>
   </ul>
 </div>
+

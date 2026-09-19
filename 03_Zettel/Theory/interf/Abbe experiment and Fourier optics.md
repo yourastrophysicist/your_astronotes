@@ -2,7 +2,6 @@
 layout: "default"
 title: "Abbe experiment and Fourier optics"
 ---
-{% raw %}
 # Abbe experiment and Fourier optics
 
 BookAI includes the Abbe experiment because it shows, before interferometry, that images are made from spatial frequencies.
@@ -81,19 +80,19 @@ source: local study diagram generated from the Abbe/Fourier-optics interpretatio
 
 ## see also
 
-- [Fraunhofer diffraction](./Fraunhofer%20diffraction.html)
-- [Optical transfer function](./Optical%20transfer%20function.html)
-- [Point spread function](./Point%20spread%20function.html)
-- [Aperture synthesis principle](./Aperture%20synthesis%20principle.html)
-- [The (u, v) plane](./The%20%28u%2C%20v%29%20plane.html)
-{% endraw %}
+- [Fraunhofer diffraction](Fraunhofer%20diffraction.html)
+- [Optical transfer function](Optical%20transfer%20function.html)
+- [Point spread function](Point%20spread%20function.html)
+- [Aperture synthesis principle](Aperture%20synthesis%20principle.html)
+- [The (u, v) plane](The%20%28u%2C%20v%29%20plane.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="./Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
     <li class="backlink-item-wrap"><a href="../Optical%20transfer%20function.html" class="backlink-item">Optical transfer function</a></li>
+    <li class="backlink-item-wrap"><a href="Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

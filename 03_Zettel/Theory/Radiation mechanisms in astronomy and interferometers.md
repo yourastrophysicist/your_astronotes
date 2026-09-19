@@ -2,7 +2,6 @@
 layout: "default"
 title: "Radiation mechanisms in astronomy and interferometers"
 ---
-{% raw %}
 # Radiation mechanisms in astronomy and interferometers
 
 BookAI ends by connecting interferometric images back to physical emission mechanisms. an interferometer gives structure; radiation physics says what produced the structure.
@@ -117,4 +116,3 @@ source: local schematic plot generated from standard qualitative spectral scalin
 - [Young stellar object disks](interf/Young%20stellar%20object%20disks.html)
 - [AGN and supermassive black holes](interf/AGN%20and%20supermassive%20black%20holes.html)
 - [Cosmological masers](interf/Cosmological%20masers.html)
-{% endraw %}

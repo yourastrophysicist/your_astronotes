@@ -2,7 +2,6 @@
 layout: "default"
 title: "Newton-Raphson method"
 ---
-{% raw %}
 # Newton-Raphson method
 
 the standard 1D root finder when I have $f$ *and* $f'$. uses a local linearization to predict where the root is, then iterates. when it works, it is dramatically faster than bisection. when it doesn't, it can diverge.
@@ -98,22 +97,22 @@ or `scipy.optimize.brentq(f, a, b)` for the bracket-Brent hybrid.
 
 ## see also
 
-- [Bisection method](./Bisection%20method.html)
-- [Newton-Raphson for systems of equations](./Newton-Raphson%20for%20systems%20of%20equations.html)
-- [Relaxation method](./Relaxation%20method.html)
-- [Choosing a root finder](./Choosing%20a%20root%20finder.html)
+- [Bisection method](Bisection%20method.html)
+- [Newton-Raphson for systems of equations](Newton-Raphson%20for%20systems%20of%20equations.html)
+- [Relaxation method](Relaxation%20method.html)
+- [Choosing a root finder](Choosing%20a%20root%20finder.html)
 - [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (7)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Bisection%20method.html" class="backlink-item">Bisection method</a></li>
-    <li class="backlink-item-wrap"><a href="./Choosing%20a%20root%20finder.html" class="backlink-item">Choosing a root finder</a></li>
+    <li class="backlink-item-wrap"><a href="Bisection%20method.html" class="backlink-item">Bisection method</a></li>
+    <li class="backlink-item-wrap"><a href="Choosing%20a%20root%20finder.html" class="backlink-item">Choosing a root finder</a></li>
+    <li class="backlink-item-wrap"><a href="Newton-Raphson%20for%20systems%20of%20equations.html" class="backlink-item">Newton-Raphson for systems of equations</a></li>
+    <li class="backlink-item-wrap"><a href="Non-linear%20fitting%20with%20scipy.html" class="backlink-item">Non-linear fitting with scipy</a></li>
+    <li class="backlink-item-wrap"><a href="Relaxation%20method.html" class="backlink-item">Relaxation method</a></li>
+    <li class="backlink-item-wrap"><a href="Shooting%20method.html" class="backlink-item">Shooting method</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Newton-Raphson%20for%20systems%20of%20equations.html" class="backlink-item">Newton-Raphson for systems of equations</a></li>
-    <li class="backlink-item-wrap"><a href="./Non-linear%20fitting%20with%20scipy.html" class="backlink-item">Non-linear fitting with scipy</a></li>
-    <li class="backlink-item-wrap"><a href="./Relaxation%20method.html" class="backlink-item">Relaxation method</a></li>
-    <li class="backlink-item-wrap"><a href="./Shooting%20method.html" class="backlink-item">Shooting method</a></li>
   </ul>
 </div>
+

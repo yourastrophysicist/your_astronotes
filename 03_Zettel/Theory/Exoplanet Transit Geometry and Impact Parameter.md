@@ -2,7 +2,6 @@
 layout: "default"
 title: "Exoplanet Transit Geometry and Impact Parameter"
 ---
-{% raw %}
 # Exoplanet Transit Geometry and Impact Parameter
 
 The geometry of an exoplanet transit is defined by the projection of the planetary orbit onto the plane of the sky perpendicular to the line of sight.
@@ -34,18 +33,15 @@ $$b = \frac{a}{R_\star} \cos i$$
 - $b > 1 + R_p/R_\star$: no transit occurs.
 
 ## Related Notes
-- [Transit Depth and Ingress-Egress Timescales](./Transit%20Depth%20and%20Ingress-Egress%20Timescales.html)
-- [Stellar Limb Darkening Laws](./Stellar%20Limb%20Darkening%20Laws.html)
+- [Transit Depth and Ingress-Egress Timescales](Transit%20Depth%20and%20Ingress-Egress%20Timescales.html)
+- [Stellar Limb Darkening Laws](Stellar%20Limb%20Darkening%20Laws.html)
 - [Malavolta 11 - Transit Geometry and Analytical Light Curve Modeling](../../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2011%20-%20Transit%20Geometry%20and%20Analytical%20Light%20Curve%20Modeling.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
+  <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Exoplanetary_Astrophysics/15_Planetary_Transits_Geometry_and_Rossiter_McLaughlin.html" class="backlink-item">15_Planetary_Transits_Geometry_and_Rossiter_McLaughlin</a></li>
+    <li class="backlink-item-wrap"><a href="Transit%20Depth%20and%20Ingress-Egress%20Timescales.html" class="backlink-item">Transit Depth and Ingress-Egress Timescales</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2011%20-%20Transit%20Geometry%20and%20Analytical%20Light%20Curve%20Modeling.html" class="backlink-item">Malavolta 11 - Transit Geometry and Analytical Light Curve Modeling</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Astrophysics_Laboratory_2/Piotto%2001%20-%20Exoplanet%20Detection%20and%20Demographics.html" class="backlink-item">Piotto 01 - Exoplanet Detection and Demographics</a></li>
-    <li class="backlink-item-wrap"><a href="./Transit%20Depth%20and%20Ingress-Egress%20Timescales.html" class="backlink-item">Transit Depth and Ingress-Egress Timescales</a></li>
   </ul>
 </div>
+

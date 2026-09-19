@@ -2,7 +2,6 @@
 layout: "default"
 title: "ALMA exposure time calculator and sensitivity"
 ---
-{% raw %}
 # ALMA exposure time calculator and sensitivity
 
 BookAI uses the ALMA Exposure Time Calculator as a concrete example of how sensitivity estimates become observing-time estimates.
@@ -84,17 +83,17 @@ source: local plot generated from the radiometer-equation scaling.
 
 ## see also
 
-- [Radiometer equation and SEFD](./Radiometer%20equation%20and%20SEFD.html)
-- [Antenna effective area and gain](./Antenna%20effective%20area%20and%20gain.html)
-- [Radio interferometer architecture](./Radio%20interferometer%20architecture.html)
-- [Steps in radio interferometric observations](./Steps%20in%20radio%20interferometric%20observations.html)
-{% endraw %}
+- [Radiometer equation and SEFD](Radiometer%20equation%20and%20SEFD.html)
+- [Antenna effective area and gain](Antenna%20effective%20area%20and%20gain.html)
+- [Radio interferometer architecture](Radio%20interferometer%20architecture.html)
+- [Steps in radio interferometric observations](Steps%20in%20radio%20interferometric%20observations.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../Radiometer%20equation%20and%20SEFD.html" class="backlink-item">Radiometer equation and SEFD</a></li>
-    <li class="backlink-item-wrap"><a href="./Radiometer%20equation%20and%20SEFD.html" class="backlink-item">Radiometer equation and SEFD</a></li>
+    <li class="backlink-item-wrap"><a href="Radiometer%20equation%20and%20SEFD.html" class="backlink-item">Radiometer equation and SEFD</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

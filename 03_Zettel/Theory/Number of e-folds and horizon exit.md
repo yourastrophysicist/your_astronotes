@@ -2,7 +2,6 @@
 layout: "default"
 title: "Number of e-folds and horizon exit"
 ---
-{% raw %}
 # Number of e-folds and horizon exit
 
 > *counting cosmic expansion during inflation, and matching observable scales to horizon crossing.*
@@ -49,20 +48,19 @@ $$N(k_0) \approx 55 - \frac{1}{3(1+w_{\rm reh})}\ln\left(\frac{\rho_{\rm end}^{1
 
 * parent moc: [Cosmology_of_the_Early_Universe_MOC](../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html)
 * related zettels:
-  - [Single-field slow-roll inflation dynamics](./Single-field%20slow-roll%20inflation%20dynamics.html)
-  - [Slow-roll parameters epsilon and eta](./Slow-roll%20parameters%20epsilon%20and%20eta.html)
-  - [Lyth bound and field excursion](./Lyth%20bound%20and%20field%20excursion.html)
+  - [Single-field slow-roll inflation dynamics](Single-field%20slow-roll%20inflation%20dynamics.html)
+  - [Slow-roll parameters epsilon and eta](Slow-roll%20parameters%20epsilon%20and%20eta.html)
+  - [Lyth bound and field excursion](Lyth%20bound%20and%20field%20excursion.html)
   - [Part2_Inflation_Kinematics_Dynamics_and_Models](../../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part2_Inflation_Kinematics_Dynamics_and_Models.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
+  <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Flatness%20problem%20and%20dynamical%20attractor.html" class="backlink-item">Flatness problem and dynamical attractor</a></li>
+    <li class="backlink-item-wrap"><a href="Horizon%20problem%20and%20causal%20structure.html" class="backlink-item">Horizon problem and causal structure</a></li>
+    <li class="backlink-item-wrap"><a href="Single-field%20slow-roll%20inflation%20dynamics.html" class="backlink-item">Single-field slow-roll inflation dynamics</a></li>
+    <li class="backlink-item-wrap"><a href="Slow-roll%20parameters%20epsilon%20and%20eta.html" class="backlink-item">Slow-roll parameters epsilon and eta</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html" class="backlink-item">Cosmology_of_the_Early_Universe_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Flatness%20problem%20and%20dynamical%20attractor.html" class="backlink-item">Flatness problem and dynamical attractor</a></li>
-    <li class="backlink-item-wrap"><a href="./Horizon%20problem%20and%20causal%20structure.html" class="backlink-item">Horizon problem and causal structure</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part2_Inflation_Kinematics_Dynamics_and_Models.html" class="backlink-item">Part2_Inflation_Kinematics_Dynamics_and_Models</a></li>
-    <li class="backlink-item-wrap"><a href="./Single-field%20slow-roll%20inflation%20dynamics.html" class="backlink-item">Single-field slow-roll inflation dynamics</a></li>
-    <li class="backlink-item-wrap"><a href="./Slow-roll%20parameters%20epsilon%20and%20eta.html" class="backlink-item">Slow-roll parameters epsilon and eta</a></li>
   </ul>
 </div>
+

@@ -2,7 +2,6 @@
 layout: "default"
 title: "Gauge transformations and Bardeen potentials"
 ---
-{% raw %}
 # Gauge transformations and Bardeen potentials
 
 > *dismantling fictitious coordinate perturbations and constructing physical gauge-invariant gravitational potentials.*
@@ -53,18 +52,17 @@ $$\Phi = \Psi$$
 
 * parent moc: [Cosmology_of_the_Early_Universe_MOC](../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html)
 * related zettels:
-  - [Cosmological perturbation theory in General Relativity](./Cosmological%20perturbation%20theory%20in%20General%20Relativity.html)
-  - [Gauge-invariant density perturbation and relativistic Poisson equation](./Gauge-invariant%20density%20perturbation%20and%20relativistic%20Poisson%20equation.html)
-  - [Curvature perturbation R and zeta](./Curvature%20perturbation%20R%20and%20zeta.html)
+  - [Cosmological perturbation theory in General Relativity](Cosmological%20perturbation%20theory%20in%20General%20Relativity.html)
+  - [Gauge-invariant density perturbation and relativistic Poisson equation](Gauge-invariant%20density%20perturbation%20and%20relativistic%20Poisson%20equation.html)
+  - [Curvature perturbation R and zeta](Curvature%20perturbation%20R%20and%20zeta.html)
   - [Part5_GR_Cosmological_Perturbation_Theory](../../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part5_GR_Cosmological_Perturbation_Theory.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
+  <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Cosmological%20perturbation%20theory%20in%20General%20Relativity.html" class="backlink-item">Cosmological perturbation theory in General Relativity</a></li>
+    <li class="backlink-item-wrap"><a href="Cosmological%20perturbation%20theory%20in%20General%20Relativity.html" class="backlink-item">Cosmological perturbation theory in General Relativity</a></li>
+    <li class="backlink-item-wrap"><a href="Gauge-invariant%20density%20perturbation%20and%20relativistic%20Poisson%20equation.html" class="backlink-item">Gauge-invariant density perturbation and relativistic Poisson equation</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html" class="backlink-item">Cosmology_of_the_Early_Universe_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Gauge-invariant%20density%20perturbation%20and%20relativistic%20Poisson%20equation.html" class="backlink-item">Gauge-invariant density perturbation and relativistic Poisson equation</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part5_GR_Cosmological_Perturbation_Theory.html" class="backlink-item">Part5_GR_Cosmological_Perturbation_Theory</a></li>
   </ul>
 </div>
+

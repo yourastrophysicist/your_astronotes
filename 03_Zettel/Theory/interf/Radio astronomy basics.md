@@ -2,7 +2,6 @@
 layout: "default"
 title: "Radio astronomy basics"
 ---
-{% raw %}
 # Radio astronomy basics
 
 radio astronomy is *the* astronomy of long wavelengths — from cm to m, occasionally km. the techniques are very different from optical: heterodyne electronics, antenna temperatures, brightness temperatures, RFI, polarization. this zettel surveys the foundations needed before tackling radio interferometry.
@@ -144,7 +143,7 @@ so the natural chain is:
 
 $$I_\nu\rightarrow \text{beam-weighted antenna signal}\rightarrow \text{voltage}\rightarrow \text{visibility}\rightarrow \text{image}$$
 
-for the detailed pieces, see [Specific intensity and flux density](./Specific%20intensity%20and%20flux%20density.html), [Antenna effective area and gain](./Antenna%20effective%20area%20and%20gain.html), [Beam power pattern of a radio telescope](./Beam%20power%20pattern%20of%20a%20radio%20telescope.html), and [Radiometer equation and SEFD](./Radiometer%20equation%20and%20SEFD.html).
+for the detailed pieces, see [Specific intensity and flux density](Specific%20intensity%20and%20flux%20density.html), [Antenna effective area and gain](Antenna%20effective%20area%20and%20gain.html), [Beam power pattern of a radio telescope](Beam%20power%20pattern%20of%20a%20radio%20telescope.html), and [Radiometer equation and SEFD](Radiometer%20equation%20and%20SEFD.html).
 
 ## scientific figure
 
@@ -156,28 +155,28 @@ source: local study diagram generated from the standard brightness-to-flux relat
 
 ## see also
 
-- [Radio interferometer architecture](./Radio%20interferometer%20architecture.html)
-- [Two-element correlator](./Two-element%20correlator.html)
-- [Major radio interferometers](./Major%20radio%20interferometers.html)
-- [Heterodyne vs direct detection](./Heterodyne%20vs%20direct%20detection.html)
+- [Radio interferometer architecture](Radio%20interferometer%20architecture.html)
+- [Two-element correlator](Two-element%20correlator.html)
+- [Major radio interferometers](Major%20radio%20interferometers.html)
+- [Heterodyne vs direct detection](Heterodyne%20vs%20direct%20detection.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (13)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Antenna%20effective%20area%20and%20gain.html" class="backlink-item">Antenna effective area and gain</a></li>
     <li class="backlink-item-wrap"><a href="../Antenna%20effective%20area%20and%20gain.html" class="backlink-item">Antenna effective area and gain</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Heterodyne%20vs%20direct%20detection.html" class="backlink-item">Heterodyne vs direct detection</a></li>
-    <li class="backlink-item-wrap"><a href="./Radiation%20mechanisms%20in%20astronomy%20and%20interferometers.html" class="backlink-item">Radiation mechanisms in astronomy and interferometers</a></li>
     <li class="backlink-item-wrap"><a href="../Radiation%20mechanisms%20in%20astronomy%20and%20interferometers.html" class="backlink-item">Radiation mechanisms in astronomy and interferometers</a></li>
-    <li class="backlink-item-wrap"><a href="./Radio%20interferometer%20architecture.html" class="backlink-item">Radio interferometer architecture</a></li>
     <li class="backlink-item-wrap"><a href="../Radio%20interferometer%20architecture.html" class="backlink-item">Radio interferometer architecture</a></li>
-    <li class="backlink-item-wrap"><a href="./Radiometer%20equation%20and%20SEFD.html" class="backlink-item">Radiometer equation and SEFD</a></li>
     <li class="backlink-item-wrap"><a href="../Radiometer%20equation%20and%20SEFD.html" class="backlink-item">Radiometer equation and SEFD</a></li>
     <li class="backlink-item-wrap"><a href="../Specific%20intensity%20and%20flux%20density.html" class="backlink-item">Specific intensity and flux density</a></li>
-    <li class="backlink-item-wrap"><a href="./Specific%20intensity%20and%20flux%20density.html" class="backlink-item">Specific intensity and flux density</a></li>
     <li class="backlink-item-wrap"><a href="../The%20Square%20Kilometre%20Array%20SKA.html" class="backlink-item">The Square Kilometre Array SKA</a></li>
+    <li class="backlink-item-wrap"><a href="Antenna%20effective%20area%20and%20gain.html" class="backlink-item">Antenna effective area and gain</a></li>
+    <li class="backlink-item-wrap"><a href="Heterodyne%20vs%20direct%20detection.html" class="backlink-item">Heterodyne vs direct detection</a></li>
+    <li class="backlink-item-wrap"><a href="Radiation%20mechanisms%20in%20astronomy%20and%20interferometers.html" class="backlink-item">Radiation mechanisms in astronomy and interferometers</a></li>
+    <li class="backlink-item-wrap"><a href="Radio%20interferometer%20architecture.html" class="backlink-item">Radio interferometer architecture</a></li>
+    <li class="backlink-item-wrap"><a href="Radiometer%20equation%20and%20SEFD.html" class="backlink-item">Radiometer equation and SEFD</a></li>
+    <li class="backlink-item-wrap"><a href="Specific%20intensity%20and%20flux%20density.html" class="backlink-item">Specific intensity and flux density</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

@@ -2,7 +2,6 @@
 layout: "default"
 title: "18_Space_Transit_Surveys_TTVs_and_Resonances"
 ---
-{% raw %}
 # Lesson 18 – Planetary Transits IV: Space Surveys, TTVs, and Resonances
 
 *Exoplanetary Astrophysics, Prof. Giampaolo Piotto (Lecture 16/12/2025)*  
@@ -129,15 +128,13 @@ $$\text{TDV} = T_{\text{dur}}(N) - \langle T_{\text{dur}} \rangle$$
 - Previous Lecture: [17_Transit_False_Positives_and_Vetting_Protocols](./17_Transit_False_Positives_and_Vetting_Protocols.html)
 - Next Lecture: [19_CHEOPS_and_PLATO_Missions](./19_CHEOPS_and_PLATO_Missions.html)
 - Related Notes: Transit photometry and Mandel-Agol formulation | Planetary system dynamics and resonance
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
+  <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./17_Transit_False_Positives_and_Vetting_Protocols.html" class="backlink-item">17_Transit_False_Positives_and_Vetting_Protocols</a></li>
-    <li class="backlink-item-wrap"><a href="./19_CHEOPS_and_PLATO_Missions.html" class="backlink-item">19_CHEOPS_and_PLATO_Missions</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Space%20transit%20observatories%20and%20CHEOPS-PLATO%20missions.html" class="backlink-item">Space transit observatories and CHEOPS-PLATO missions</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Transit%20timing%20variations%20and%20resonant%20multi-planet%20dynamics.html" class="backlink-item">Transit timing variations and resonant multi-planet dynamics</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

@@ -2,7 +2,6 @@
 layout: "default"
 title: "Schwarzschild Christoffels"
 ---
-{% raw %}
 the **non-zero Christoffel symbols** for the Schwarzschild metric in standard coordinates $(t, r, \theta, \phi)$. essential for any computation of geodesics, Riemann, etc.
 
 ## the metric
@@ -55,24 +54,24 @@ see Q11 - selected Schwarzschild Christoffels for the standard exam-style comput
 
 ## see also
 
-- [Schwarzschild metric](./Schwarzschild%20metric.html)
-- [Christoffel symbols](./Christoffel%20symbols.html)
-- [Schwarzschild horizon](./Schwarzschild%20horizon.html)
-- [Schwarzschild effective potential](./Schwarzschild%20effective%20potential.html)
+- [Schwarzschild metric](Schwarzschild%20metric.html)
+- [Christoffel symbols](Christoffel%20symbols.html)
+- [Schwarzschild horizon](Schwarzschild%20horizon.html)
+- [Schwarzschild effective potential](Schwarzschild%20effective%20potential.html)
 - Q11 - selected Schwarzschild Christoffels
 - Q12 - circular orbits and orbital frequency
 - Q13 - radial infall and proper time
 - [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
 - [Ch 6 - Black Holes](../../02_Literature/Book/Baumann%20GR/Ch%206%20-%20Black%20Holes.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Circular%20orbits%20in%20Schwarzschild.html" class="backlink-item">Circular orbits in Schwarzschild</a></li>
-    <li class="backlink-item-wrap"><a href="./Eddington-Finkelstein%20and%20Kruskal.html" class="backlink-item">Eddington-Finkelstein and Kruskal</a></li>
+    <li class="backlink-item-wrap"><a href="Circular%20orbits%20in%20Schwarzschild.html" class="backlink-item">Circular orbits in Schwarzschild</a></li>
+    <li class="backlink-item-wrap"><a href="Eddington-Finkelstein%20and%20Kruskal.html" class="backlink-item">Eddington-Finkelstein and Kruskal</a></li>
+    <li class="backlink-item-wrap"><a href="Schwarzschild%20horizon.html" class="backlink-item">Schwarzschild horizon</a></li>
+    <li class="backlink-item-wrap"><a href="Schwarzschild%20metric.html" class="backlink-item">Schwarzschild metric</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Schwarzschild%20horizon.html" class="backlink-item">Schwarzschild horizon</a></li>
-    <li class="backlink-item-wrap"><a href="./Schwarzschild%20metric.html" class="backlink-item">Schwarzschild metric</a></li>
   </ul>
 </div>
+

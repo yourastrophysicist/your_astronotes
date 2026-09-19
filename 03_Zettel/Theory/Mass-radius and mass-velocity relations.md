@@ -2,10 +2,9 @@
 layout: "default"
 title: "Mass-radius and mass-velocity relations"
 ---
-{% raw %}
 # mass-radius and mass-velocity relations
 
-up: [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html) · Scaling relations in ellipticals · [Tully-Fisher relation](./Tully-Fisher%20relation.html)
+up: [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html) · Scaling relations in ellipticals · [Tully-Fisher relation](Tully-Fisher%20relation.html)
 
 ## early-type galaxy scaling relations
 
@@ -38,6 +37,5 @@ Late-type galaxies (spirals) are governed by angular momentum and rotational equ
 
 ## connections
 
-- kinematics: [Ionized gas kinematics](./Ionized%20gas%20kinematics.html), [Stellar kinematics measurements](./Stellar%20kinematics%20measurements.html)
-- dark matter: [Dark matter rotation curves](./Dark%20matter%20rotation%20curves.html), [Modified gravity alternatives](./Modified%20gravity%20alternatives.html)
-{% endraw %}
+- kinematics: [Ionized gas kinematics](Ionized%20gas%20kinematics.html), [Stellar kinematics measurements](Stellar%20kinematics%20measurements.html)
+- dark matter: [Dark matter rotation curves](Dark%20matter%20rotation%20curves.html), [Modified gravity alternatives](Modified%20gravity%20alternatives.html)

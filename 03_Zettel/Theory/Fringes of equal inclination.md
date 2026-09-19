@@ -2,7 +2,6 @@
 layout: "default"
 title: "Fringes of equal inclination"
 ---
-{% raw %}
 # Fringes of equal inclination
 
 a class of fringes formed when light reflects off a *thin parallel plate* (or thin film), with multiple beams interfering. the fringes are **circles**, with each circle corresponding to a particular angle of incidence on the plate. extended source needed.
@@ -88,6 +87,5 @@ this is *the* standard method for testing telescope mirrors and other optical el
 - [Optical path difference OPD](interf/Optical%20path%20difference%20OPD.html)
 - [Fringes of equal thickness](interf/Fringes%20of%20equal%20thickness.html)
 - [Newton's rings](interf/Newton%27s%20rings.html)
-- [Amplitude-division interferometers](./Amplitude-division%20interferometers.html)
+- [Amplitude-division interferometers](Amplitude-division%20interferometers.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

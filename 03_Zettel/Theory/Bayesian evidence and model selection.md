@@ -2,7 +2,6 @@
 layout: "default"
 title: "Bayesian evidence and model selection"
 ---
-{% raw %}
 # Bayesian evidence and model selection
 
 In Bayesian inference, model selection addresses which physical framework $M_i$ best describes the data $D$, operating at a higher categorical level than parameter estimation within a fixed model. The fundamental quantity governing model comparison is the **Bayesian evidence** (also called marginal likelihood).
@@ -51,15 +50,15 @@ The factor $\Omega_{\rm Occam} = \frac{\delta \theta_{\rm posterior}}{\Delta \th
 ## See Also
 - [Astro-Statistics_and_Cosmology_MOC](../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html)
 - [11_Model_Selection_Bayesian_Evidence_and_Savage_Dickey_Ratio](../../02_Literature/Lectures/Astrostatistics/11_Model_Selection_Bayesian_Evidence_and_Savage_Dickey_Ratio.html)
-- [Savage-Dickey density ratio for nested model comparison](./Savage-Dickey%20density%20ratio%20for%20nested%20model%20comparison.html)
-- [Lindley paradox in statistical hypothesis testing](./Lindley%20paradox%20in%20statistical%20hypothesis%20testing.html)
-{% endraw %}
+- [Savage-Dickey density ratio for nested model comparison](Savage-Dickey%20density%20ratio%20for%20nested%20model%20comparison.html)
+- [Lindley paradox in statistical hypothesis testing](Lindley%20paradox%20in%20statistical%20hypothesis%20testing.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Lindley%20paradox%20in%20statistical%20hypothesis%20testing.html" class="backlink-item">Lindley paradox in statistical hypothesis testing</a></li>
+    <li class="backlink-item-wrap"><a href="Savage-Dickey%20density%20ratio%20for%20nested%20model%20comparison.html" class="backlink-item">Savage-Dickey density ratio for nested model comparison</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Lindley%20paradox%20in%20statistical%20hypothesis%20testing.html" class="backlink-item">Lindley paradox in statistical hypothesis testing</a></li>
-    <li class="backlink-item-wrap"><a href="./Savage-Dickey%20density%20ratio%20for%20nested%20model%20comparison.html" class="backlink-item">Savage-Dickey density ratio for nested model comparison</a></li>
   </ul>
 </div>
+

@@ -2,12 +2,11 @@
 layout: "default"
 title: "Astronomical_Spectroscopy_MOC"
 ---
-{% raw %}
 # Astronomical Spectroscopy — Map of Content
 
 A.Y. 2025/2026, second semester at the University of Padova. **Prof. Stefano Ciroi**, with course materials based on lectures from Prof. Piero Rafanelli and Dr. Giovanni La Mura. lecture material at `~/Documents/2/spectroscopy/`: `intro_spec.pdf` (instrumentation), `notes_28Jul2021.pdf` (theory).
 
-unlike [Observational_Astrophysics_MOC](./Observational_Astrophysics_MOC.html) which treats the photon as a single number to be detected and calibrated, this course treats the photon as a **spectrum**: a wavelength-resolved fingerprint of the gas it last interacted with. every quantity in spectroscopy comes from one of two physical settings:
+unlike [Observational_Astrophysics_MOC](Observational_Astrophysics_MOC.html) which treats the photon as a single number to be detected and calibrated, this course treats the photon as a **spectrum**: a wavelength-resolved fingerprint of the gas it last interacted with. every quantity in spectroscopy comes from one of two physical settings:
 
 1. **stellar atmospheres**: thin photospheric layer, near-LTE, absorption lines on a continuum.
 2. **photoionised nebulae**: optically thin gas, far from LTE, emission lines + recombination continuum.
@@ -15,7 +14,7 @@ unlike [Observational_Astrophysics_MOC](./Observational_Astrophysics_MOC.html) w
 the conceptual chain:
 $$\text{atom physics} \to \text{level populations} \to \text{radiative transfer} \to \text{spectral lines} \to \text{spectrograph} \to \text{calibrated spectrum} \to \text{plasma diagnostics}$$
 
-every later course (Stellar Astrophysics, Galaxies, Lab High-Energy in X-ray spectroscopy mode) builds on a piece of this chain. so this MOC sits next to [Observational_Astrophysics_MOC](./Observational_Astrophysics_MOC.html) as the **other half** of the observational toolkit.
+every later course (Stellar Astrophysics, Galaxies, Lab High-Energy in X-ray spectroscopy mode) builds on a piece of this chain. so this MOC sits next to [Observational_Astrophysics_MOC](Observational_Astrophysics_MOC.html) as the **other half** of the observational toolkit.
 
 ## reference texts
 
@@ -209,11 +208,11 @@ quick-reference summary of what each line ratio tells you. this is the "exam ans
 
 ## connections to other MOCs
 
-- [Observational_Astrophysics_MOC](./Observational_Astrophysics_MOC.html) — the broadband / photometric counterpart. magnitudes count photons; spectroscopy *resolves* them.
-- [Fundamentals_Astrophysics_Cosmology_MOC](./Fundamentals_Astrophysics_Cosmology_MOC.html) — Block 2 (radiative mechanisms) and Block 5 (Saha + recombination) overlap with this course's atomic-physics blocks.
-- [Observational_Cosmology_MOC](./Observational_Cosmology_MOC.html) — Block 9 (galaxy classification, AGN, line surveys) overlaps with this course's Block 11.
-- [Lab_High-Energy_MOC](./Lab_High-Energy_MOC.html) — X-ray spectroscopy (CCD energy resolution, XRS, microcalorimeters) is a different waveband but the same concept.
-- [General_Relativity_MOC](./General_Relativity_MOC.html) — only intersects via gravitational redshift (a small but real spectroscopic effect in white dwarfs and near black holes).
+- [Observational_Astrophysics_MOC](Observational_Astrophysics_MOC.html) — the broadband / photometric counterpart. magnitudes count photons; spectroscopy *resolves* them.
+- [Fundamentals_Astrophysics_Cosmology_MOC](Fundamentals_Astrophysics_Cosmology_MOC.html) — Block 2 (radiative mechanisms) and Block 5 (Saha + recombination) overlap with this course's atomic-physics blocks.
+- [Observational_Cosmology_MOC](Observational_Cosmology_MOC.html) — Block 9 (galaxy classification, AGN, line surveys) overlaps with this course's Block 11.
+- [Lab_High-Energy_MOC](Lab_High-Energy_MOC.html) — X-ray spectroscopy (CCD energy resolution, XRS, microcalorimeters) is a different waveband but the same concept.
+- [General_Relativity_MOC](General_Relativity_MOC.html) — only intersects via gravitational redshift (a small but real spectroscopic effect in white dwarfs and near black holes).
 
 ## the exam-answer drafts I have
 
@@ -341,16 +340,3 @@ Every single spectral line population plot, observed stellar spectral comparison
 | **Curve of Growth (Damping)** | $W_\lambda \propto \sqrt{N f \gamma \lambda^4}$ | Strong pressure-broadened damping wings ($\,\tau_0 \gg 1$) |
 | **[O III] Temperature Ratio** | $\frac{I(4959 + 5007)}{I(4363)} \approx 7.9 \exp(32900/T_e)$ | Electron temperature diagnostic in nebular plasmas |
 | **[S II] Density Ratio** | $\frac{I(6716)}{I(6731)} \in [0.44, 1.50]$ | Electron density diagnostic between $10^2$ and $10^4\,{\rm cm}^{-3}$ |
-{% endraw %}
-
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./04_Atlas.html" class="backlink-item">04_Atlas</a></li>
-    <li class="backlink-item-wrap"><a href="./Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Galaxies_course_intro.html" class="backlink-item">Galaxies_course_intro</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Spectroscopy_course_intro.html" class="backlink-item">Spectroscopy_course_intro</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-  </ul>
-</div>

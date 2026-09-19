@@ -1,12 +1,8 @@
 ---
 layout: "default"
 title: "Phase closure"
-type: "zettel"
-created: "2026-08-04"
-moc: ""
 tags: ""
 ---
-{% raw %}
 > *by summing the phases around a triangle of baselines, local atmospheric errors perfectly cancel out, recovering intrinsic structural information of the source*
 
 ---
@@ -54,4 +50,3 @@ Closure phase is the saving grace of environments where the atmosphere cannot be
 
 * parent moc: [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
 * related zettels: [The phase problem in interferometry](interf/The%20phase%20problem%20in%20interferometry.html), [Closure amplitude](interf/Closure%20amplitude.html), [Self-calibration](interf/Self-calibration.html), [Bispectrum and triple correlation](interf/Bispectrum%20and%20triple%20correlation.html)
-{% endraw %}

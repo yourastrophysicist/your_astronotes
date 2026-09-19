@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Multi-phase structure of the interstellar medium"
-name: "Multi-phase structure of the interstellar medium"
-description: "the coexistence of distinct thermal and ionization gas phases in approximate pressure equilibrium in the Galactic disk"
 ---
-{% raw %}
 the interstellar medium is not a single homogeneous gas, but a multi-phase system spanning five orders of magnitude in temperature ($10 - 10^7\text{ K}$) and eight orders of magnitude in density ($10^{-4} - 10^6\text{ cm}^{-3}$).
 
 ## the six empirical phases
@@ -38,18 +35,17 @@ where magnetic pressure $P_B = B^2/8\pi$, turbulent ram pressure $P_{\text{turb}
 
 - [Astrophysics_of_the_Interstellar_Medium_MOC](../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html)
 - [Carraro_01_Introduction_and_Multi-phase_ISM](../../02_Literature/Lectures/Interstellar_Medium/Carraro_01_Introduction_and_Multi-phase_ISM.html)
-- [Interstellar medium components and gas cycle](./Interstellar%20medium%20components%20and%20gas%20cycle.html)
-- [HI 21 cm hyperfine transition](./HI%2021%20cm%20hyperfine%20transition.html)
-- [HII regions and Stromgren sphere physics](./HII%20regions%20and%20Stromgren%20sphere%20physics.html)
-- [Sedov-Taylor blast wave expansion](./Sedov-Taylor%20blast%20wave%20expansion.html)
-{% endraw %}
+- [Interstellar medium components and gas cycle](Interstellar%20medium%20components%20and%20gas%20cycle.html)
+- [HI 21 cm hyperfine transition](HI%2021%20cm%20hyperfine%20transition.html)
+- [HII regions and Stromgren sphere physics](HII%20regions%20and%20Stromgren%20sphere%20physics.html)
+- [Sedov-Taylor blast wave expansion](Sedov-Taylor%20blast%20wave%20expansion.html)
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
+  <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Catalytic%20H2%20formation%20on%20dust%20grains.html" class="backlink-item">Catalytic H2 formation on dust grains</a></li>
+    <li class="backlink-item-wrap"><a href="Jeans%20gravitational%20instability%20and%20Jeans%20mass.html" class="backlink-item">Jeans gravitational instability and Jeans mass</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html" class="backlink-item">Astrophysics_of_the_Interstellar_Medium_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Interstellar_Medium/Carraro_01_Introduction_and_Multi-phase_ISM.html" class="backlink-item">Carraro_01_Introduction_and_Multi-phase_ISM</a></li>
-    <li class="backlink-item-wrap"><a href="./Catalytic%20H2%20formation%20on%20dust%20grains.html" class="backlink-item">Catalytic H2 formation on dust grains</a></li>
-    <li class="backlink-item-wrap"><a href="./Jeans%20gravitational%20instability%20and%20Jeans%20mass.html" class="backlink-item">Jeans gravitational instability and Jeans mass</a></li>
   </ul>
 </div>
+

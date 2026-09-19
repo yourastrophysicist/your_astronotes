@@ -2,7 +2,6 @@
 layout: "default"
 title: "Interferometry course intro"
 ---
-{% raw %}
 # Interferometry, course intro
 
 A.Y. 2025/2026 at the University of Padova, **Astronomical Interferometry** taught by **Prof. Mauro D'Onofrio**. master's-level second-semester course for the Astrophysics and Cosmology programme, exam date **Wednesday 3 June 2026**. first exam in the summer block.
@@ -69,18 +68,18 @@ each step is one block of [Astronomical_Interferometry_MOC](../../../04_Atlas/As
 ## see also
 
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-- [Interferometry exam rules](./Interferometry%20exam%20rules.html)
-- [Why interferometry](./Why%20interferometry.html)
-- [Interferometry equation sheet](./Interferometry%20equation%20sheet.html)
-{% endraw %}
+- [Interferometry exam rules](Interferometry%20exam%20rules.html)
+- [Why interferometry](Why%20interferometry.html)
+- [Interferometry equation sheet](Interferometry%20equation%20sheet.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Interferometry%20equation%20sheet.html" class="backlink-item">Interferometry equation sheet</a></li>
     <li class="backlink-item-wrap"><a href="../Interferometry%20equation%20sheet.html" class="backlink-item">Interferometry equation sheet</a></li>
     <li class="backlink-item-wrap"><a href="../Interferometry%20exam%20rules.html" class="backlink-item">Interferometry exam rules</a></li>
-    <li class="backlink-item-wrap"><a href="./Interferometry%20exam%20rules.html" class="backlink-item">Interferometry exam rules</a></li>
+    <li class="backlink-item-wrap"><a href="Interferometry%20equation%20sheet.html" class="backlink-item">Interferometry equation sheet</a></li>
+    <li class="backlink-item-wrap"><a href="Interferometry%20exam%20rules.html" class="backlink-item">Interferometry exam rules</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

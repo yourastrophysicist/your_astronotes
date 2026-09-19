@@ -2,7 +2,6 @@
 layout: "default"
 title: "Bracewell nuller"
 ---
-{% raw %}
 # Bracewell nuller
 
 the original nulling-interferometry concept, proposed by Ronald Bracewell (1978). a simple two-element interferometer with a $\pi$ phase shift in one arm. on-axis sources interfere destructively; off-axis sources survive.
@@ -98,4 +97,3 @@ his calculation framework — destructive interference on-axis, transmission off
 - [Coronagraphy](interf/Coronagraphy.html)
 - [Apodization](interf/Apodization.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

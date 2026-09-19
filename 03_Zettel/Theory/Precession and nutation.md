@@ -2,7 +2,6 @@
 layout: "default"
 title: "Precession and nutation"
 ---
-{% raw %}
 Earth's rotation axis is not permanently fixed in space. because Earth is not a perfect sphere but an **oblate spheroid** (equatorial radius $R_{eq} \approx 6378$ km $>$ polar radius $R_{pol} \approx 6357$ km), the gravitational tug of the Moon and the Sun on the equatorial bulge exerts a torque that causes the rotational axis to undergo both a steady secular conical motion (**precession**) and smaller periodic wobbles (**nutation**).
 
 ![sphereastro2-08.png](../../assets/images/sphereastro2-08.png)
@@ -70,20 +69,20 @@ to resolve astronomical positions with milliarcsecond (mas) accuracy:
 ## see also
 
 - [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Equatorial system](./Equatorial%20system.html)
-- [Ecliptic system](./Ecliptic%20system.html)
+- [Equatorial system](Equatorial%20system.html)
+- [Ecliptic system](Ecliptic%20system.html)
 - [Atmospheric refraction](interf/Atmospheric%20refraction.html)
-- [Aberration of light](./Aberration%20of%20light.html)
-- [Annual stellar parallax](./Annual%20stellar%20parallax.html)
-- [Time keeping in astronomy](./Time%20keeping%20in%20astronomy.html)
-{% endraw %}
+- [Aberration of light](Aberration%20of%20light.html)
+- [Annual stellar parallax](Annual%20stellar%20parallax.html)
+- [Time keeping in astronomy](Time%20keeping%20in%20astronomy.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Aberration%20of%20light.html" class="backlink-item">Aberration of light</a></li>
-    <li class="backlink-item-wrap"><a href="./Atmospheric%20refraction.html" class="backlink-item">Atmospheric refraction</a></li>
-    <li class="backlink-item-wrap"><a href="./Ecliptic%20system.html" class="backlink-item">Ecliptic system</a></li>
+    <li class="backlink-item-wrap"><a href="Aberration%20of%20light.html" class="backlink-item">Aberration of light</a></li>
+    <li class="backlink-item-wrap"><a href="Atmospheric%20refraction.html" class="backlink-item">Atmospheric refraction</a></li>
+    <li class="backlink-item-wrap"><a href="Ecliptic%20system.html" class="backlink-item">Ecliptic system</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
   </ul>
 </div>
+

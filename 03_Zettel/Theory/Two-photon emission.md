@@ -2,7 +2,6 @@
 layout: "default"
 title: "Two-photon emission"
 ---
-{% raw %}
 **two-photon emission** is a slow, forbidden-like decay process where an excited atomic state emits **two photons** simultaneously instead of one. the dominant nebular UV continuum source between the Lyman edge and the Lyman alpha line.
 
 ## the H I $2s \to 1s$ case
@@ -56,22 +55,22 @@ so high-density nebulae have **reduced** 2-photon continuum and **enhanced** Ly$
 
 ## see also
 
-- [Recombination continuum](./Recombination%20continuum.html)
-- [Balmer continuum](./Balmer%20continuum.html)
-- [Free-free continuum](./Free-free%20continuum.html)
-- [Optically thin recombination lines](./Optically%20thin%20recombination%20lines.html)
-- [Case A vs Case B recombination](./Case%20A%20vs%20Case%20B%20recombination.html)
-- [Selection rules](./Selection%20rules.html)
-- [Forbidden lines](./Forbidden%20lines.html)
-- [H II region spectroscopy](./H%20II%20region%20spectroscopy.html)
-{% endraw %}
+- [Recombination continuum](Recombination%20continuum.html)
+- [Balmer continuum](Balmer%20continuum.html)
+- [Free-free continuum](Free-free%20continuum.html)
+- [Optically thin recombination lines](Optically%20thin%20recombination%20lines.html)
+- [Case A vs Case B recombination](Case%20A%20vs%20Case%20B%20recombination.html)
+- [Selection rules](Selection%20rules.html)
+- [Forbidden lines](Forbidden%20lines.html)
+- [H II region spectroscopy](H%20II%20region%20spectroscopy.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Balmer%20continuum.html" class="backlink-item">Balmer continuum</a></li>
+    <li class="backlink-item-wrap"><a href="Free-free%20continuum.html" class="backlink-item">Free-free continuum</a></li>
+    <li class="backlink-item-wrap"><a href="Recombination%20continuum.html" class="backlink-item">Recombination continuum</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Balmer%20continuum.html" class="backlink-item">Balmer continuum</a></li>
-    <li class="backlink-item-wrap"><a href="./Free-free%20continuum.html" class="backlink-item">Free-free continuum</a></li>
-    <li class="backlink-item-wrap"><a href="./Recombination%20continuum.html" class="backlink-item">Recombination continuum</a></li>
   </ul>
 </div>
+

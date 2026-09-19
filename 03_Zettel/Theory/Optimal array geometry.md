@@ -1,12 +1,8 @@
 ---
 layout: "default"
 title: "Optimal array geometry"
-type: "zettel"
-created: "2026-08-04"
-moc: ""
 tags: ""
 ---
-{% raw %}
 > *the physical layout of antennas dictates the sampling of the Fourier plane, balancing image fidelity, resolution, and the realities of terrain*
 
 ---
@@ -40,4 +36,3 @@ Array geometry is intimately tied to the science case. ALMA possesses configurat
 
 * parent moc: [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
 * related zettels: [The (u, v) plane](interf/The%20%28u%2C%20v%29%20plane.html), [Earth-rotation aperture synthesis](interf/Earth-rotation%20aperture%20synthesis.html), [Connected element interferometer](interf/Connected%20element%20interferometer.html), [Dirty beam and dirty image](interf/Dirty%20beam%20and%20dirty%20image.html)
-{% endraw %}

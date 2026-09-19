@@ -2,7 +2,6 @@
 layout: "default"
 title: "Solar evolution and final stages"
 ---
-{% raw %}
 a star's post-main-sequence evolution begins when its central core runs out of hydrogen fuel. the subsequent evolutionary path is determined strictly by its initial mass: low-to-intermediate mass stars ($M \lesssim 8 M_\odot$, including our Sun) end their lives peacefully as planetary nebulae leaving **white dwarfs**, while massive stars ($M \gtrsim 8 M_\odot$) end in cataclysmic core-collapse **supernovae**.
 
 ![stellar-68.png](../../assets/images/stellar-68.png)
@@ -70,10 +69,10 @@ after $\sim 50,000$ years, the nebula disperses into the interstellar medium, en
 ## see also
 
 - [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [HR diagram](./HR%20diagram.html)
-- [Stellar nucleosynthesis](./Stellar%20nucleosynthesis.html)
-- [Supernovae and compact remnants](./Supernovae%20and%20compact%20remnants.html)
-- [Cluster ages from CMD turnoff](./Cluster%20ages%20from%20CMD%20turnoff.html)
+- [HR diagram](HR%20diagram.html)
+- [Stellar nucleosynthesis](Stellar%20nucleosynthesis.html)
+- [Supernovae and compact remnants](Supernovae%20and%20compact%20remnants.html)
+- [Cluster ages from CMD turnoff](Cluster%20ages%20from%20CMD%20turnoff.html)
 
 ---
 
@@ -126,19 +125,19 @@ after $\sim 50,000$ years, the nebula disperses into the interstellar medium, en
 
 ![obs_stars-064.png](../../assets/images/obs_stars-064.png)
 *Mestel white dwarf cooling theory: thermal energy of ions radiated away, L proportional to t^(-7/2).*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (9)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Binary%20star%20evolution%20and%20mass%20transfer.html" class="backlink-item">Binary star evolution and mass transfer</a></li>
-    <li class="backlink-item-wrap"><a href="./Cluster%20ages%20from%20CMD%20turnoff.html" class="backlink-item">Cluster ages from CMD turnoff</a></li>
+    <li class="backlink-item-wrap"><a href="Binary%20star%20evolution%20and%20mass%20transfer.html" class="backlink-item">Binary star evolution and mass transfer</a></li>
+    <li class="backlink-item-wrap"><a href="Cluster%20ages%20from%20CMD%20turnoff.html" class="backlink-item">Cluster ages from CMD turnoff</a></li>
+    <li class="backlink-item-wrap"><a href="HR%20diagram.html" class="backlink-item">HR diagram</a></li>
+    <li class="backlink-item-wrap"><a href="Main%20sequence%2C%20giants%2C%20supergiants%2C%20white%20dwarfs.html" class="backlink-item">Main sequence, giants, supergiants, white dwarfs</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20evolution%20timescales.html" class="backlink-item">Stellar evolution timescales</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20nucleosynthesis.html" class="backlink-item">Stellar nucleosynthesis</a></li>
+    <li class="backlink-item-wrap"><a href="Supernovae%20and%20compact%20remnants.html" class="backlink-item">Supernovae and compact remnants</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./HR%20diagram.html" class="backlink-item">HR diagram</a></li>
-    <li class="backlink-item-wrap"><a href="./Main%20sequence%2C%20giants%2C%20supergiants%2C%20white%20dwarfs.html" class="backlink-item">Main sequence, giants, supergiants, white dwarfs</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20evolution%20timescales.html" class="backlink-item">Stellar evolution timescales</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20nucleosynthesis.html" class="backlink-item">Stellar nucleosynthesis</a></li>
-    <li class="backlink-item-wrap"><a href="./Supernovae%20and%20compact%20remnants.html" class="backlink-item">Supernovae and compact remnants</a></li>
   </ul>
 </div>
+

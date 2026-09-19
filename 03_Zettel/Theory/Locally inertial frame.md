@@ -2,7 +2,6 @@
 layout: "default"
 title: "Locally inertial frame"
 ---
-{% raw %}
 at any point $p$ on a Lorentzian manifold, you can find coordinates in which the metric is **Minkowski to leading order** + corrections at second order:
 $$g_{\mu\nu}(x) = \eta_{\mu\nu} + O((x - x_p)^2)$$
 
@@ -52,22 +51,20 @@ GR builds on the strong EP. tested to spectacular precision by Eotvos-type exper
 
 ## see also
 
-- [Manifold metric and signature](./Manifold%20metric%20and%20signature.html)
-- [Christoffel symbols](./Christoffel%20symbols.html)
-- [Geodesic deviation](./Geodesic%20deviation.html)
-- [Geodesic equation](./Geodesic%20equation.html)
-- [Newtonian limit of GR](./Newtonian%20limit%20of%20GR.html)
+- [Manifold metric and signature](Manifold%20metric%20and%20signature.html)
+- [Christoffel symbols](Christoffel%20symbols.html)
+- [Geodesic deviation](Geodesic%20deviation.html)
+- [Geodesic equation](Geodesic%20equation.html)
+- [Newtonian limit of GR](Newtonian%20limit%20of%20GR.html)
 - [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
 - [Ch 1 - Gravity is Geometry](../../02_Literature/Book/Baumann%20GR/Ch%201%20-%20Gravity%20is%20Geometry.html)
 - [Ch 2 - Some Differential Geometry](../../02_Literature/Book/Baumann%20GR/Ch%202%20-%20Some%20Differential%20Geometry.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
+  <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Book/Baumann%20GR/Ch%201%20-%20Gravity%20is%20Geometry.html" class="backlink-item">Ch 1 - Gravity is Geometry</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Book/Baumann%20GR/Ch%202%20-%20Some%20Differential%20Geometry.html" class="backlink-item">Ch 2 - Some Differential Geometry</a></li>
+    <li class="backlink-item-wrap"><a href="Manifold%20metric%20and%20signature.html" class="backlink-item">Manifold metric and signature</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Manifold%20metric%20and%20signature.html" class="backlink-item">Manifold metric and signature</a></li>
   </ul>
 </div>
+

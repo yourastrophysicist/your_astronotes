@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "M-dwarf discontinuity and convective merging instability"
-name: "M-dwarf discontinuity and convective merging instability"
-description: "The astrophysical origin of the M-dwarf main-sequence gap in star clusters, driven by Helium-3 convective instability and the transition to full convection."
 ---
-{% raw %}
 # M-Dwarf Discontinuity and Convective Merging Instability
 
 The **M-dwarf discontinuity** (also referred to as the **Jao Gap** analog in star clusters) is a sudden bend or gap observed in the stellar Main Sequence (MS) of resolved populations. 
@@ -95,9 +92,8 @@ Finding this gap in a star cluster is a major win for stellar modelers:
 ---
 
 ## See Also
-*   [Color-magnitude diagrams of clusters](./Color-magnitude%20diagrams%20of%20clusters.html)
-*   [Resolved vs unresolved stellar populations](./Resolved%20vs%20unresolved%20stellar%20populations.html)
-*   [Stellar evolution timescales](./Stellar%20evolution%20timescales.html)
-*   [Main sequence turn-off as age indicator](./Main%20sequence%20turn-off%20as%20age%20indicator.html)
-*   [Stellar structure equations](./Stellar%20structure%20equations.html)
-{% endraw %}
+*   [Color-magnitude diagrams of clusters](Color-magnitude%20diagrams%20of%20clusters.html)
+*   [Resolved vs unresolved stellar populations](Resolved%20vs%20unresolved%20stellar%20populations.html)
+*   [Stellar evolution timescales](Stellar%20evolution%20timescales.html)
+*   [Main sequence turn-off as age indicator](Main%20sequence%20turn-off%20as%20age%20indicator.html)
+*   [Stellar structure equations](Stellar%20structure%20equations.html)

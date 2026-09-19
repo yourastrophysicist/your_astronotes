@@ -2,7 +2,6 @@
 layout: "default"
 title: "Spiral arm kinematics"
 ---
-{% raw %}
 spiral arms are the most visually stunning features of disc galaxies like the Milky Way. tracing them and understanding their physical persistence requires analyzing the **kinematics of Galactic differential rotation** and the physics of **density waves**.
 
 ![milkyway-25.png](../../assets/images/milkyway-25.png)
@@ -91,19 +90,18 @@ by measuring $v_{r,\text{max}}(l)$ as a function of Galactic longitude $l$, radi
 ## see also
 
 - [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Milky Way structure](./Milky%20Way%20structure.html)
-- [Dark matter on galactic scales](./Dark%20matter%20on%20galactic%20scales.html)
-- [Interstellar medium components and gas cycle](./Interstellar%20medium%20components%20and%20gas%20cycle.html)
-{% endraw %}
+- [Milky Way structure](Milky%20Way%20structure.html)
+- [Dark matter on galactic scales](Dark%20matter%20on%20galactic%20scales.html)
+- [Interstellar medium components and gas cycle](Interstellar%20medium%20components%20and%20gas%20cycle.html)
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
+  <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Dark%20matter%20on%20galactic%20scales.html" class="backlink-item">Dark matter on galactic scales</a></li>
-    <li class="backlink-item-wrap"><a href="./Dark%20matter%20rotation%20curves.html" class="backlink-item">Dark matter rotation curves</a></li>
+    <li class="backlink-item-wrap"><a href="Dark%20matter%20on%20galactic%20scales.html" class="backlink-item">Dark matter on galactic scales</a></li>
+    <li class="backlink-item-wrap"><a href="Galactic%20coordinate%20system.html" class="backlink-item">Galactic coordinate system</a></li>
+    <li class="backlink-item-wrap"><a href="Interstellar%20medium%20components%20and%20gas%20cycle.html" class="backlink-item">Interstellar medium components and gas cycle</a></li>
+    <li class="backlink-item-wrap"><a href="Milky%20Way%20structure.html" class="backlink-item">Milky Way structure</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Galactic%20coordinate%20system.html" class="backlink-item">Galactic coordinate system</a></li>
-    <li class="backlink-item-wrap"><a href="./Interstellar%20medium%20components%20and%20gas%20cycle.html" class="backlink-item">Interstellar medium components and gas cycle</a></li>
-    <li class="backlink-item-wrap"><a href="./Milky%20Way%20structure.html" class="backlink-item">Milky Way structure</a></li>
   </ul>
 </div>
+

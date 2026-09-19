@@ -2,7 +2,6 @@
 layout: "default"
 title: "Future space-based"
 ---
-{% raw %}
 # Future space-based interferometers
 
 space mission concepts for interferometry without atmospheric limitations. baselines limited only by formation-flying capabilities. designed for direct exoplanet imaging, ultra-high-resolution AGN observations, and other extreme-resolution science.
@@ -122,4 +121,3 @@ these costs require sustained political support over decades. science cases must
 - [Bracewell nuller](interf/Bracewell%20nuller.html)
 - [Exoplanet imaging](interf/Exoplanet%20imaging.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

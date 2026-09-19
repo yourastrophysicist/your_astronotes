@@ -2,7 +2,6 @@
 layout: "default"
 title: "20_Exoplanet_Atmospheres_and_Transmission_Spectroscopy"
 ---
-{% raw %}
 # Lesson 20 – Exoplanet Atmospheres and Transmission Spectroscopy
 
 *Exoplanetary Astrophysics, Prof. Giampaolo Piotto (Lecture 23/12/2025)*  
@@ -190,14 +189,12 @@ While space-based telescopes (JWST, Hubble) measure low-to-medium resolution spe
 
 ![JWST Atmospheric Transmission Spectra and Molecular Bands](../../../assets/images/exo_spectra_p18.png)
 *Figure EXO-12: High-precision JWST NIRSpec/PRISM transmission spectra of hot Jupiters (e.g. WASP-39b) displaying prominent absorption bands of $\mathrm{H_2O}$ ($1.4, 1.8, 2.7\,\mu\mathrm{m}$), $\mathrm{CO_2}$ ($4.3\,\mu\mathrm{m}$), $\mathrm{CO}$ ($4.6\,\mu\mathrm{m}$), and photochemical $\mathrm{SO_2}$ ($4.05\,\mu\mathrm{m}$).*
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
+  <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./19_CHEOPS_and_PLATO_Missions.html" class="backlink-item">19_CHEOPS_and_PLATO_Missions</a></li>
-    <li class="backlink-item-wrap"><a href="./21_Protoplanetary_Disks_and_Planet_Formation_Mechanisms.html" class="backlink-item">21_Protoplanetary_Disks_and_Planet_Formation_Mechanisms</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Exoplanet%20atmospheric%20scale%20height%20and%20transmission%20spectroscopy.html" class="backlink-item">Exoplanet atmospheric scale height and transmission spectroscopy</a></li>
     <li class="backlink-item-wrap"><a href="../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

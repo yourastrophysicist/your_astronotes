@@ -2,7 +2,6 @@
 layout: "default"
 title: "Riemann tensor"
 ---
-{% raw %}
 the **Riemann tensor** $R^\rho{}_{\sigma\mu\nu}$ is the **true curvature of a manifold**. it answers: if I parallel-transport a vector around a tiny closed loop, does it come back unchanged? in flat space yes; in curved space no. Riemann measures the difference.
 
 ## the formula
@@ -35,7 +34,7 @@ so Riemann is the **invariant** test of curvature. a metric like $ds^2 = dr^2 + 
 
 ## with all indices down
 
-$R_{\rho\sigma\mu\nu} = g_{\rho\alpha}R^\alpha{}_{\sigma\mu\nu}$. has more symmetries (see [Riemann tensor symmetries](./Riemann%20tensor%20symmetries.html)).
+$R_{\rho\sigma\mu\nu} = g_{\rho\alpha}R^\alpha{}_{\sigma\mu\nu}$. has more symmetries (see [Riemann tensor symmetries](Riemann%20tensor%20symmetries.html)).
 
 ## the operational interpretation: tidal forces
 
@@ -63,37 +62,35 @@ non-zero Riemann from both $\dot a$ and $\ddot a$. encodes both the expansion an
 
 ## see also
 
-- [Riemann tensor symmetries](./Riemann%20tensor%20symmetries.html)
-- [Counting Riemann components](./Counting%20Riemann%20components.html)
-- [Ricci tensor and scalar](./Ricci%20tensor%20and%20scalar.html)
-- [Bianchi identities](./Bianchi%20identities.html)
-- [Geodesic deviation](./Geodesic%20deviation.html)
-- [Christoffel symbols](./Christoffel%20symbols.html)
-- [Covariant derivative](./Covariant%20derivative.html)
+- [Riemann tensor symmetries](Riemann%20tensor%20symmetries.html)
+- [Counting Riemann components](Counting%20Riemann%20components.html)
+- [Ricci tensor and scalar](Ricci%20tensor%20and%20scalar.html)
+- [Bianchi identities](Bianchi%20identities.html)
+- [Geodesic deviation](Geodesic%20deviation.html)
+- [Christoffel symbols](Christoffel%20symbols.html)
+- [Covariant derivative](Covariant%20derivative.html)
 - Q5 - Riemann for 1+1 expanding metric
 - Q6 - Riemann for conformally flat 1+1
 - Q17 - Riemann R_0x0x for a TT plane wave
 - [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
 - [Ch 4 - Spacetime Curvature](../../02_Literature/Book/Baumann%20GR/Ch%204%20-%20Spacetime%20Curvature.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (15)</h4>
+  <h4 class="backlinks-title">Linked References (13)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Bianchi%20identities.html" class="backlink-item">Bianchi identities</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Book/Baumann%20GR/Ch%201%20-%20Gravity%20is%20Geometry.html" class="backlink-item">Ch 1 - Gravity is Geometry</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Book/Baumann%20GR/Ch%204%20-%20Spacetime%20Curvature.html" class="backlink-item">Ch 4 - Spacetime Curvature</a></li>
-    <li class="backlink-item-wrap"><a href="./Christoffel%20symbols.html" class="backlink-item">Christoffel symbols</a></li>
-    <li class="backlink-item-wrap"><a href="./Coordinate%20transformations%20and%20tensors.html" class="backlink-item">Coordinate transformations and tensors</a></li>
-    <li class="backlink-item-wrap"><a href="./Counting%20Riemann%20components.html" class="backlink-item">Counting Riemann components</a></li>
-    <li class="backlink-item-wrap"><a href="./Covariant%20derivative.html" class="backlink-item">Covariant derivative</a></li>
-    <li class="backlink-item-wrap"><a href="./Einstein%20tensor%20and%20Bianchi.html" class="backlink-item">Einstein tensor and Bianchi</a></li>
+    <li class="backlink-item-wrap"><a href="Bianchi%20identities.html" class="backlink-item">Bianchi identities</a></li>
+    <li class="backlink-item-wrap"><a href="Christoffel%20symbols.html" class="backlink-item">Christoffel symbols</a></li>
+    <li class="backlink-item-wrap"><a href="Coordinate%20transformations%20and%20tensors.html" class="backlink-item">Coordinate transformations and tensors</a></li>
+    <li class="backlink-item-wrap"><a href="Counting%20Riemann%20components.html" class="backlink-item">Counting Riemann components</a></li>
+    <li class="backlink-item-wrap"><a href="Covariant%20derivative.html" class="backlink-item">Covariant derivative</a></li>
+    <li class="backlink-item-wrap"><a href="Einstein%20tensor%20and%20Bianchi.html" class="backlink-item">Einstein tensor and Bianchi</a></li>
+    <li class="backlink-item-wrap"><a href="Geodesic%20deviation%20under%20a%20GW.html" class="backlink-item">Geodesic deviation under a GW</a></li>
+    <li class="backlink-item-wrap"><a href="Geodesic%20deviation.html" class="backlink-item">Geodesic deviation</a></li>
+    <li class="backlink-item-wrap"><a href="Parallel%20transport.html" class="backlink-item">Parallel transport</a></li>
+    <li class="backlink-item-wrap"><a href="Ricci%20tensor%20and%20scalar.html" class="backlink-item">Ricci tensor and scalar</a></li>
+    <li class="backlink-item-wrap"><a href="Riemann%20tensor%20symmetries.html" class="backlink-item">Riemann tensor symmetries</a></li>
+    <li class="backlink-item-wrap"><a href="Sectional%20and%20Gaussian%20curvature.html" class="backlink-item">Sectional and Gaussian curvature</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Geodesic%20deviation.html" class="backlink-item">Geodesic deviation</a></li>
-    <li class="backlink-item-wrap"><a href="./Geodesic%20deviation%20under%20a%20GW.html" class="backlink-item">Geodesic deviation under a GW</a></li>
-    <li class="backlink-item-wrap"><a href="./Parallel%20transport.html" class="backlink-item">Parallel transport</a></li>
-    <li class="backlink-item-wrap"><a href="./Ricci%20tensor%20and%20scalar.html" class="backlink-item">Ricci tensor and scalar</a></li>
-    <li class="backlink-item-wrap"><a href="./Riemann%20tensor%20symmetries.html" class="backlink-item">Riemann tensor symmetries</a></li>
-    <li class="backlink-item-wrap"><a href="./Sectional%20and%20Gaussian%20curvature.html" class="backlink-item">Sectional and Gaussian curvature</a></li>
   </ul>
 </div>
+

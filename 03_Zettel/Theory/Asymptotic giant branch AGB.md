@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Asymptotic giant branch AGB"
-name: "Asymptotic giant branch AGB"
-description: "double-shell burning, thermal pulses, third dredge-up, dust-driven mass loss and the planetary-nebula+WD endpoint"
 ---
-{% raw %}
 once core helium is exhausted at the end of the horizontal branch phase, low- and intermediate-mass stars ($0.8 \lesssim M/M_\odot \lesssim 8$) begin a second giant ascent, the **asymptotic giant branch**. its name comes from the early observation that the AGB approaches the red giant branch *asymptotically* in the CMD from the blue side at low $L$ and runs nearly parallel at high $L$, eventually exceeding the RGB tip in luminosity.
 
 interior structure. the AGB star has, from inside out: an inert C/O core (the ashes of core He burning, electron-degenerate, $M_c \sim 0.5$ to $0.9 \, M_\odot$); a thin **He-burning shell** sitting on top of the core; an intershell region of pure He; a thin **H-burning shell** at the base of the H-rich envelope; and a deep convective envelope extended to $R \sim 100$ to $500 \, R_\odot$ along the Hayashi limit. the configuration is thus *double-shell burning*, the defining feature of AGB.
@@ -27,19 +24,19 @@ CMD signatures. AGB stars sit slightly *blueward* of the RGB at low $L$ but reac
 
 ## see also
 - [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
-- [Helium flash and horizontal branch](./Helium%20flash%20and%20horizontal%20branch.html)
-- [White dwarf cooling sequence on the CMD](./White%20dwarf%20cooling%20sequence%20on%20the%20CMD.html)
-- [Red giant branch RGB](./Red%20giant%20branch%20RGB.html)
-- [Single stellar population SSP](./Single%20stellar%20population%20SSP.html)
-- [Stellar evolutionary phases on the CMD](./Stellar%20evolutionary%20phases%20on%20the%20CMD.html)
-{% endraw %}
+- [Helium flash and horizontal branch](Helium%20flash%20and%20horizontal%20branch.html)
+- [White dwarf cooling sequence on the CMD](White%20dwarf%20cooling%20sequence%20on%20the%20CMD.html)
+- [Red giant branch RGB](Red%20giant%20branch%20RGB.html)
+- [Single stellar population SSP](Single%20stellar%20population%20SSP.html)
+- [Stellar evolutionary phases on the CMD](Stellar%20evolutionary%20phases%20on%20the%20CMD.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Helium%20flash%20and%20horizontal%20branch.html" class="backlink-item">Helium flash and horizontal branch</a></li>
-    <li class="backlink-item-wrap"><a href="./Photometric%20chromosome%20maps.html" class="backlink-item">Photometric chromosome maps</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20evolutionary%20phases%20on%20the%20CMD.html" class="backlink-item">Stellar evolutionary phases on the CMD</a></li>
+    <li class="backlink-item-wrap"><a href="Helium%20flash%20and%20horizontal%20branch.html" class="backlink-item">Helium flash and horizontal branch</a></li>
+    <li class="backlink-item-wrap"><a href="Photometric%20chromosome%20maps.html" class="backlink-item">Photometric chromosome maps</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20evolutionary%20phases%20on%20the%20CMD.html" class="backlink-item">Stellar evolutionary phases on the CMD</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

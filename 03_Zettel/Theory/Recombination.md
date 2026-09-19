@@ -2,10 +2,9 @@
 layout: "default"
 title: "Recombination"
 ---
-{% raw %}
 **cosmological recombination** at $z \sim 1100$ ($T \sim 0.26$ eV) is the moment when free electrons combined with protons to form neutral hydrogen. **the universe became transparent** + the **CMB was released**. one of the three pillars of the Hot Big Bang.
 
-(companion: [Saha equation and recombination](./Saha%20equation%20and%20recombination.html) for the detailed Saha analysis + Case B physics; [Photon decoupling and CMB](./Photon%20decoupling%20and%20CMB.html) for the CMB perspective.)
+(companion: [Saha equation and recombination](Saha%20equation%20and%20recombination.html) for the detailed Saha analysis + Case B physics; [Photon decoupling and CMB](Photon%20decoupling%20and%20CMB.html) for the CMB perspective.)
 
 ## the setup
 
@@ -66,22 +65,22 @@ so the **electron density** has a U-shape: high before recombination, low betwee
 
 ## see also
 
-- [Saha equation and recombination](./Saha%20equation%20and%20recombination.html)
-- [Decoupling](./Decoupling.html)
-- [Photon decoupling and CMB](./Photon%20decoupling%20and%20CMB.html)
+- [Saha equation and recombination](Saha%20equation%20and%20recombination.html)
+- [Decoupling](Decoupling.html)
+- [Photon decoupling and CMB](Photon%20decoupling%20and%20CMB.html)
 - CMB — discovery and blackbody spectrum
-- [CMB anisotropies](./CMB%20anisotropies.html)
-- [Reionization](./Reionization.html)
-- [Brief thermal history](./Brief%20thermal%20history.html)
-- [Transition epochs](./Transition%20epochs.html)
-- [Case A vs Case B recombination](./Case%20A%20vs%20Case%20B%20recombination.html)
+- [CMB anisotropies](CMB%20anisotropies.html)
+- [Reionization](Reionization.html)
+- [Brief thermal history](Brief%20thermal%20history.html)
+- [Transition epochs](Transition%20epochs.html)
+- [Case A vs Case B recombination](Case%20A%20vs%20Case%20B%20recombination.html)
 - [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Decoupling.html" class="backlink-item">Decoupling</a></li>
+    <li class="backlink-item-wrap"><a href="Decoupling.html" class="backlink-item">Decoupling</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
   </ul>
 </div>
+

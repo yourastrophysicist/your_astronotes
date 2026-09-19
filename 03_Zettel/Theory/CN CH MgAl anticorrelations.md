@@ -1,11 +1,8 @@
 ---
 layout: "default"
 title: "CN CH MgAl anticorrelations"
-name: "CN CH MgAl anticorrelations"
-description: "extended chemical fingerprints of multiple populations beyond Na-O, tracing CN-cycle + MgAl-cycle proton-capture nucleosynthesis at increasing temperature"
 ---
-{% raw %}
-the [Na O anticorrelation](./Na%20O%20anticorrelation.html) is the most famous, but it is one of a family of element-pair anti-correlations seen in globular cluster stars. each pair traces a different proton-capture chain operating at a characteristic temperature in the polluter. together they paint a full picture of hot H burning + let us rank GCs by how extreme their pollution was.
+the [Na O anticorrelation](Na%20O%20anticorrelation.html) is the most famous, but it is one of a family of element-pair anti-correlations seen in globular cluster stars. each pair traces a different proton-capture chain operating at a characteristic temperature in the polluter. together they paint a full picture of hot H burning + let us rank GCs by how extreme their pollution was.
 
 ## the C-N anti-correlation (CN cycle)
 
@@ -20,7 +17,7 @@ observationally:
 
 the CN-CH bimodality on the RGB was the first hint that GCs had star-to-star inhomogeneity. it was originally explained (incorrectly) by deep mixing on the giant branch. once the same bimodality was found on the unevolved Main sequence MS (cannon, croke, bell, briley in the 1990s using strömgren + narrowband photometry of 47 Tuc + M71) the primordial origin became unavoidable.
 
-UV photometry from HST F275W + F336W is essentially a high-contrast CN+NH thermometer + this is what powers [Photometric chromosome maps](./Photometric%20chromosome%20maps.html).
+UV photometry from HST F275W + F336W is essentially a high-contrast CN+NH thermometer + this is what powers [Photometric chromosome maps](Photometric%20chromosome%20maps.html).
 
 ## the Mg-Al anti-correlation (MgAl cycle)
 
@@ -48,11 +45,11 @@ ranking the anti-correlations by activation temperature gives a thermometer of t
 | Mg-Al (MgAl) | $\sim 65$-$80$ MK | massive metal-poor GCs only |
 | K-Mg + heavier | $\gtrsim 100$ MK | NGC 2419, NGC 2808 extreme |
 
-this ladder is one of the strongest constraints on [Polluter scenarios for second-generation GC stars](./Polluter%20scenarios%20for%20second-generation%20GC%20stars.html). any candidate polluter must reach temperatures $\gtrsim 70$ MK in the polluting layers to explain Mg-Al, but must also not over-produce heavier $\alpha$-elements or iron-peak species (which would show as a [Fe/H] spread, normally absent in [Type I GCs](./Type%20I%20and%20Type%20II%20GCs.html)).
+this ladder is one of the strongest constraints on [Polluter scenarios for second-generation GC stars](Polluter%20scenarios%20for%20second-generation%20GC%20stars.html). any candidate polluter must reach temperatures $\gtrsim 70$ MK in the polluting layers to explain Mg-Al, but must also not over-produce heavier $\alpha$-elements or iron-peak species (which would show as a [Fe/H] spread, normally absent in [Type I GCs](Type%20I%20and%20Type%20II%20GCs.html)).
 
 ## helium tracks alongside
 
-every proton capture chain produces $^4\text{He}$ as a side product. the same gas that is N-rich + Na-rich + Al-rich is also helium-enhanced. so the chemical anti-correlations are not independent: they are coupled by their common origin in hot H burning. this links to [Helium spread in GCs](./Helium%20spread%20in%20GCs.html) + to the vertical axis of the [chromosome map](./Photometric%20chromosome%20maps.html).
+every proton capture chain produces $^4\text{He}$ as a side product. the same gas that is N-rich + Na-rich + Al-rich is also helium-enhanced. so the chemical anti-correlations are not independent: they are coupled by their common origin in hot H burning. this links to [Helium spread in GCs](Helium%20spread%20in%20GCs.html) + to the vertical axis of the [chromosome map](Photometric%20chromosome%20maps.html).
 
 ## why it matters for chromosome maps
 
@@ -64,27 +61,27 @@ so the two axes are essentially "how N-rich" + "how He-rich". because all hot-H-
 
 ## see also
 
-- [Na O anticorrelation](./Na%20O%20anticorrelation.html)
-- [Helium spread in GCs](./Helium%20spread%20in%20GCs.html)
-- [Photometric chromosome maps](./Photometric%20chromosome%20maps.html)
-- [Multiple populations in GCs discovery](./Multiple%20populations%20in%20GCs%20discovery.html)
-- [Polluter scenarios for second-generation GC stars](./Polluter%20scenarios%20for%20second-generation%20GC%20stars.html)
-- [Type I and Type II GCs](./Type%20I%20and%20Type%20II%20GCs.html)
+- [Na O anticorrelation](Na%20O%20anticorrelation.html)
+- [Helium spread in GCs](Helium%20spread%20in%20GCs.html)
+- [Photometric chromosome maps](Photometric%20chromosome%20maps.html)
+- [Multiple populations in GCs discovery](Multiple%20populations%20in%20GCs%20discovery.html)
+- [Polluter scenarios for second-generation GC stars](Polluter%20scenarios%20for%20second-generation%20GC%20stars.html)
+- [Type I and Type II GCs](Type%20I%20and%20Type%20II%20GCs.html)
 - Hot bottom burning AGB nucleosynthesis
 - CNO cycle
-- [Stellar populations I II III](./Stellar%20populations%20I%20II%20III.html)
+- [Stellar populations I II III](Stellar%20populations%20I%20II%20III.html)
 - [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (7)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Helium%20spread%20in%20GCs.html" class="backlink-item">Helium spread in GCs</a></li>
-    <li class="backlink-item-wrap"><a href="./Multiple%20populations%20in%20GCs%20discovery.html" class="backlink-item">Multiple populations in GCs discovery</a></li>
-    <li class="backlink-item-wrap"><a href="./Na%20O%20anticorrelation.html" class="backlink-item">Na O anticorrelation</a></li>
-    <li class="backlink-item-wrap"><a href="./Photometric%20chromosome%20maps.html" class="backlink-item">Photometric chromosome maps</a></li>
-    <li class="backlink-item-wrap"><a href="./Polluter%20scenarios%20for%20second-generation%20GC%20stars.html" class="backlink-item">Polluter scenarios for second-generation GC stars</a></li>
+    <li class="backlink-item-wrap"><a href="Helium%20spread%20in%20GCs.html" class="backlink-item">Helium spread in GCs</a></li>
+    <li class="backlink-item-wrap"><a href="Multiple%20populations%20in%20GCs%20discovery.html" class="backlink-item">Multiple populations in GCs discovery</a></li>
+    <li class="backlink-item-wrap"><a href="Na%20O%20anticorrelation.html" class="backlink-item">Na O anticorrelation</a></li>
+    <li class="backlink-item-wrap"><a href="Photometric%20chromosome%20maps.html" class="backlink-item">Photometric chromosome maps</a></li>
+    <li class="backlink-item-wrap"><a href="Polluter%20scenarios%20for%20second-generation%20GC%20stars.html" class="backlink-item">Polluter scenarios for second-generation GC stars</a></li>
+    <li class="backlink-item-wrap"><a href="Type%20I%20and%20Type%20II%20GCs.html" class="backlink-item">Type I and Type II GCs</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Type%20I%20and%20Type%20II%20GCs.html" class="backlink-item">Type I and Type II GCs</a></li>
   </ul>
 </div>
+

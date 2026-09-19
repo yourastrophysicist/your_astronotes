@@ -1,13 +1,10 @@
 ---
 layout: "default"
 title: "eMSTO and multiple populations connection"
-name: "eMSTO and multiple populations connection"
-description: "argument that young eMSTO clusters and old GC multiple populations are the same phenomenon at different stages of cluster evolution"
 ---
-{% raw %}
 one of the deepest open questions of the course: are **young eMSTO clusters** ($\sim 1$-$2$ Gyr LMC + SMC clusters with broadened MS turn-offs from stellar rotation) and **old GCs with multiple populations** ($> 10$ Gyr clusters with Na-O anti-correlations + He spreads + chromosome maps) the SAME phenomenon, observed at different stages of cluster evolution? or are they fundamentally different?
 
-this question matters because the answer determines whether [MPs in old GCs](./Multiple%20populations%20in%20GCs%20discovery.html) are a primordial phenomenon set at cluster formation, or whether they emerge from continuous secular evolution of the stellar population.
+this question matters because the answer determines whether [MPs in old GCs](Multiple%20populations%20in%20GCs%20discovery.html) are a primordial phenomenon set at cluster formation, or whether they emerge from continuous secular evolution of the stellar population.
 
 ## the parallel observation
 
@@ -64,12 +61,12 @@ this hybrid picture is the current consensus, though many details remain open.
 ## why this matters for the course
 
 this is one of the **synthesis questions** of the entire course. it ties together:
-- [Extended main sequence turn-off eMSTO](./Extended%20main%20sequence%20turn-off%20eMSTO.html) (Block 12);
-- [Stellar rotation effects on CMD](./Stellar%20rotation%20effects%20on%20CMD.html) (Block 12);
-- [Multiple populations in GCs discovery](./Multiple%20populations%20in%20GCs%20discovery.html) (Block 11);
-- [Polluter scenarios for second-generation GC stars](./Polluter%20scenarios%20for%20second-generation%20GC%20stars.html) (Block 11);
-- [Helium spread in GCs](./Helium%20spread%20in%20GCs.html) (Block 11);
-- [Photometric chromosome maps](./Photometric%20chromosome%20maps.html) (Block 11).
+- [Extended main sequence turn-off eMSTO](Extended%20main%20sequence%20turn-off%20eMSTO.html) (Block 12);
+- [Stellar rotation effects on CMD](Stellar%20rotation%20effects%20on%20CMD.html) (Block 12);
+- [Multiple populations in GCs discovery](Multiple%20populations%20in%20GCs%20discovery.html) (Block 11);
+- [Polluter scenarios for second-generation GC stars](Polluter%20scenarios%20for%20second-generation%20GC%20stars.html) (Block 11);
+- [Helium spread in GCs](Helium%20spread%20in%20GCs.html) (Block 11);
+- [Photometric chromosome maps](Photometric%20chromosome%20maps.html) (Block 11).
 
 an exam answer connecting these blocks demonstrates fluency across the most modern parts of stellar populations science.
 
@@ -86,25 +83,25 @@ an exam answer connecting these blocks demonstrates fluency across the most mode
 
 ## see also
 
-- [Extended main sequence turn-off eMSTO](./Extended%20main%20sequence%20turn-off%20eMSTO.html)
-- [Origin of eMSTO age spread or rotation](./Origin%20of%20eMSTO%20age%20spread%20or%20rotation.html)
-- [Stellar rotation effects on CMD](./Stellar%20rotation%20effects%20on%20CMD.html)
-- [Splitting of the upper MS in young clusters](./Splitting%20of%20the%20upper%20MS%20in%20young%20clusters.html)
-- [Multiple populations in GCs discovery](./Multiple%20populations%20in%20GCs%20discovery.html)
-- [Photometric chromosome maps](./Photometric%20chromosome%20maps.html)
-- [Helium spread in GCs](./Helium%20spread%20in%20GCs.html)
-- [Polluter scenarios for second-generation GC stars](./Polluter%20scenarios%20for%20second-generation%20GC%20stars.html)
+- [Extended main sequence turn-off eMSTO](Extended%20main%20sequence%20turn-off%20eMSTO.html)
+- [Origin of eMSTO age spread or rotation](Origin%20of%20eMSTO%20age%20spread%20or%20rotation.html)
+- [Stellar rotation effects on CMD](Stellar%20rotation%20effects%20on%20CMD.html)
+- [Splitting of the upper MS in young clusters](Splitting%20of%20the%20upper%20MS%20in%20young%20clusters.html)
+- [Multiple populations in GCs discovery](Multiple%20populations%20in%20GCs%20discovery.html)
+- [Photometric chromosome maps](Photometric%20chromosome%20maps.html)
+- [Helium spread in GCs](Helium%20spread%20in%20GCs.html)
+- [Polluter scenarios for second-generation GC stars](Polluter%20scenarios%20for%20second-generation%20GC%20stars.html)
 - [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (6)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Extended%20main%20sequence%20turn-off%20eMSTO.html" class="backlink-item">Extended main sequence turn-off eMSTO</a></li>
-    <li class="backlink-item-wrap"><a href="./Mass%20dependence%20of%20multiple%20populations.html" class="backlink-item">Mass dependence of multiple populations</a></li>
-    <li class="backlink-item-wrap"><a href="./Origin%20of%20eMSTO%20age%20spread%20or%20rotation.html" class="backlink-item">Origin of eMSTO age spread or rotation</a></li>
-    <li class="backlink-item-wrap"><a href="./Splitting%20of%20the%20upper%20MS%20in%20young%20clusters.html" class="backlink-item">Splitting of the upper MS in young clusters</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20rotation%20effects%20on%20CMD.html" class="backlink-item">Stellar rotation effects on CMD</a></li>
+    <li class="backlink-item-wrap"><a href="Extended%20main%20sequence%20turn-off%20eMSTO.html" class="backlink-item">Extended main sequence turn-off eMSTO</a></li>
+    <li class="backlink-item-wrap"><a href="Mass%20dependence%20of%20multiple%20populations.html" class="backlink-item">Mass dependence of multiple populations</a></li>
+    <li class="backlink-item-wrap"><a href="Origin%20of%20eMSTO%20age%20spread%20or%20rotation.html" class="backlink-item">Origin of eMSTO age spread or rotation</a></li>
+    <li class="backlink-item-wrap"><a href="Splitting%20of%20the%20upper%20MS%20in%20young%20clusters.html" class="backlink-item">Splitting of the upper MS in young clusters</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20rotation%20effects%20on%20CMD.html" class="backlink-item">Stellar rotation effects on CMD</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

@@ -2,7 +2,6 @@
 layout: "default"
 title: "Cordoni et al. 2018"
 ---
-{% raw %}
 - Sources:  open cluster < ~ 2 Gyr
 - Goals: investigate the eMSTO in CMD
 - How: 
@@ -11,4 +10,3 @@ title: "Cordoni et al. 2018"
 	- derive the fiducial (binaries) of MS Stars
 	- calculate the color of residuals.
 - which became observational uncertainties.
-{% endraw %}

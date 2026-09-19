@@ -2,7 +2,6 @@
 layout: "default"
 title: "Stromgren sphere"
 ---
-{% raw %}
 an **HII region** around a single ionising source has a **sharp boundary**: inside, hydrogen is fully ionised; outside, fully neutral. the radius of the boundary, set by photon-recombination balance, is the **Strömgren radius**.
 
 ## the canonical setup
@@ -38,7 +37,7 @@ the Strömgren analysis assumes hydrogen-only. real gas has He and metals:
 - **He II** ionises at $54.4$ eV: only the very hottest stars (O3, WR) produce He$^{2+}$ regions.
 - metal ions are stratified by their ionisation potentials.
 
-so the structure has nested ionisation regions, with stratification by $U$ ([Ionisation stratification](./Ionisation%20stratification.html)).
+so the structure has nested ionisation regions, with stratification by $U$ ([Ionisation stratification](Ionisation%20stratification.html)).
 
 ## time-dependent expansion
 
@@ -51,12 +50,11 @@ after reaching $R_S$, the over-pressured ionised gas (factor $\sim 200\times$ pr
 ## see also
 
 - Strömgren sphere derivation
-- [Photoionisation balance](./Photoionisation%20balance.html)
-- [Recombination rate](./Recombination%20rate.html)
-- [Photoionization rate](./Photoionization%20rate.html)
-- [Ionisation stratification](./Ionisation%20stratification.html)
-- [H I regions](./H%20I%20regions.html)
-- [H II region spectroscopy](./H%20II%20region%20spectroscopy.html)
-- [Ionisation parameter U](./Ionisation%20parameter%20U.html)
-- [Case A vs Case B recombination](./Case%20A%20vs%20Case%20B%20recombination.html)
-{% endraw %}
+- [Photoionisation balance](Photoionisation%20balance.html)
+- [Recombination rate](Recombination%20rate.html)
+- [Photoionization rate](Photoionization%20rate.html)
+- [Ionisation stratification](Ionisation%20stratification.html)
+- [H I regions](H%20I%20regions.html)
+- [H II region spectroscopy](H%20II%20region%20spectroscopy.html)
+- [Ionisation parameter U](Ionisation%20parameter%20U.html)
+- [Case A vs Case B recombination](Case%20A%20vs%20Case%20B%20recombination.html)

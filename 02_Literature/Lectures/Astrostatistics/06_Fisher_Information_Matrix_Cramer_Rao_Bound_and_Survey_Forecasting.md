@@ -2,7 +2,6 @@
 layout: "default"
 title: "06_Fisher_Information_Matrix_Cramer_Rao_Bound_and_Survey_Forecasting"
 ---
-{% raw %}
 # Fisher Information Matrix, Cramér-Rao Bound, and Survey Forecasting
 
 Graduate lecture notes in Astro-Statistics and Cosmology, taught by Prof. Michele Liguori at the University of Padua.
@@ -212,20 +211,13 @@ A survey architecture that yields a higher Figure of Merit delivers tighter cons
 
 ![Fisher Information Matrix and Cramer-Rao Bound](../../../assets/images/astrostat_liguori_p25.png)
 *Figure AST-04: Fisher Information Matrix and Cosmological Forecasting. The Fisher information matrix $F_{ij} = -\left\langle \frac{\partial^2 \ln \mathcal{L}}{\partial \theta_i \partial \theta_j} \right\rangle$ establishes the lower bound on parameter variance via the Cramér-Rao inequality $\sigma(\theta_i) \ge \sqrt{(F^{-1})_{ii}}$. Parameter degeneracies are geometrically characterized by the orientation and semi-axes of the Fisher uncertainty ellipses in parameter sub-spaces $(\theta_i, \theta_j)$.*
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (10)</h4>
+  <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./02_Parameter_Estimation_Gaussian_Noise_and_Credible_Intervals.html" class="backlink-item">02_Parameter_Estimation_Gaussian_Noise_and_Credible_Intervals</a></li>
-    <li class="backlink-item-wrap"><a href="./03_Multivariate_Gaussians_Marginalization_Conditioning_and_Linear_Models.html" class="backlink-item">03_Multivariate_Gaussians_Marginalization_Conditioning_and_Linear_Models</a></li>
-    <li class="backlink-item-wrap"><a href="./05_Monte_Carlo_Metropolis_Hastings_and_MCMC_Convergence_Diagnostics.html" class="backlink-item">05_Monte_Carlo_Metropolis_Hastings_and_MCMC_Convergence_Diagnostics</a></li>
-    <li class="backlink-item-wrap"><a href="./07_CMB_Power_Spectrum_Likelihood_Analysis_and_Cosmic_Variance.html" class="backlink-item">07_CMB_Power_Spectrum_Likelihood_Analysis_and_Cosmic_Variance</a></li>
-    <li class="backlink-item-wrap"><a href="./08_Galaxy_Clustering_Point_Processes_and_Shot_Noise.html" class="backlink-item">08_Galaxy_Clustering_Point_Processes_and_Shot_Noise</a></li>
-    <li class="backlink-item-wrap"><a href="./09_Bayesian_Hierarchical_Models_for_Type_Ia_Supernovae.html" class="backlink-item">09_Bayesian_Hierarchical_Models_for_Type_Ia_Supernovae</a></li>
-    <li class="backlink-item-wrap"><a href="./10_Prior_Assignment_Transformation_Invariance_and_Maximum_Entropy.html" class="backlink-item">10_Prior_Assignment_Transformation_Invariance_and_Maximum_Entropy</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Fisher%20information%20matrix%20and%20Cramer-Rao%20bound.html" class="backlink-item">Fisher information matrix and Cramer-Rao bound</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Marginalized%20versus%20conditional%20parameter%20errors%20in%20Fisher%20forecasting.html" class="backlink-item">Marginalized versus conditional parameter errors in Fisher forecasting</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
   </ul>
 </div>
+

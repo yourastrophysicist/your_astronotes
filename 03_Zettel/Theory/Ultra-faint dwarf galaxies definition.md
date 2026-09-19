@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Ultra-faint dwarf galaxies definition"
-name: "Ultra-faint dwarf galaxies definition"
-description: "smallest known galaxies with M_V > -7.7, low velocity dispersion, low metallicity, discovered by SDSS, DES and Pan-STARRS"
 ---
-{% raw %}
 ultra-faint dwarf galaxies (UFDGs) are the lowest-luminosity galaxies known. they sit at the extreme end of the dwarf galaxy luminosity function and are the closest things in the local universe to the smallest dark-matter-bound systems that can host stars.
 
 **operational definition** (willman & strader 2012, simon 2019):
@@ -38,10 +35,10 @@ UFDGs look like extensions of the dwarf galaxy sequence in luminosity-size-$M/L$
 
 **why they matter**:
 
-- they probe the faint end of galaxy formation, **the regime where reionisation feedback shuts off star formation** (see [UFDG star formation histories](./UFDG%20star%20formation%20histories.html)).
+- they probe the faint end of galaxy formation, **the regime where reionisation feedback shuts off star formation** (see [UFDG star formation histories](UFDG%20star%20formation%20histories.html)).
 - they constrain the nature of dark matter: warm dark matter or fuzzy DM models predict cutoffs in the subhalo mass function that would suppress UFDGs.
-- they are the chemically simplest galaxies and preserve nucleosynthetic signatures of the very first generations (see [Pop III remnants in UFDGs](./Pop%20III%20remnants%20in%20UFDGs.html)).
-- they are the modern equivalent of the building blocks that the milky way halo was assembled from, so they connect directly to galactic archaeology of the halo (see [Halo accretion from dwarf galaxies](./Halo%20accretion%20from%20dwarf%20galaxies.html)).
+- they are the chemically simplest galaxies and preserve nucleosynthetic signatures of the very first generations (see [Pop III remnants in UFDGs](Pop%20III%20remnants%20in%20UFDGs.html)).
+- they are the modern equivalent of the building blocks that the milky way halo was assembled from, so they connect directly to galactic archaeology of the halo (see [Halo accretion from dwarf galaxies](Halo%20accretion%20from%20dwarf%20galaxies.html)).
 
 a useful pedagogical warning: the UFDG/GC boundary is fuzzy. a few systems (segue 1, willman 1, crater ii) have been debated for years. the resolution is usually deeper photometry plus more spectroscopic members, which firms up either a metallicity spread (favours UFDG) or a single isochrone (favours GC).
 
@@ -67,7 +64,7 @@ this is an exam-relevant conceptual question: **why does a narrow SGB imply a sh
 - **Ji et al. 2016** — r-process enhancement in Reticulum II.
 - **Muratore et al. 2026** — JWST + HST Boötes I photometry.
 
-see also [UFDG dark matter content](./UFDG%20dark%20matter%20content.html), [UFDG star formation histories](./UFDG%20star%20formation%20histories.html), [UFDG search via deep CMD](./UFDG%20search%20via%20deep%20CMD.html), [Pop III remnants in UFDGs](./Pop%20III%20remnants%20in%20UFDGs.html), [Halo accretion from dwarf galaxies](./Halo%20accretion%20from%20dwarf%20galaxies.html), [Stellar populations I II III](./Stellar%20populations%20I%20II%20III.html), [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
+see also [UFDG dark matter content](UFDG%20dark%20matter%20content.html), [UFDG star formation histories](UFDG%20star%20formation%20histories.html), [UFDG search via deep CMD](UFDG%20search%20via%20deep%20CMD.html), [Pop III remnants in UFDGs](Pop%20III%20remnants%20in%20UFDGs.html), [Halo accretion from dwarf galaxies](Halo%20accretion%20from%20dwarf%20galaxies.html), [Stellar populations I II III](Stellar%20populations%20I%20II%20III.html), [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
 
 ---
 
@@ -166,19 +163,19 @@ The following slides from Prof. Antonino Milone's lecture series provide the dir
 
 ![Lecture05pI_p5-05.png](../../assets/images/Lecture05pI_p5-05.png)
 *Figure P05-30: Lecture05pI_p5-05.png — Observational data, CMD morphology, and diagnostics from Lecture 05 — Ultra-Faint Dwarf Galaxies & Dark Matter.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (9)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Halo%20accretion%20from%20dwarf%20galaxies.html" class="backlink-item">Halo accretion from dwarf galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="./Pop%20III%20nucleosynthesis%20signatures.html" class="backlink-item">Pop III nucleosynthesis signatures</a></li>
-    <li class="backlink-item-wrap"><a href="./Pop%20III%20remnants%20in%20UFDGs.html" class="backlink-item">Pop III remnants in UFDGs</a></li>
-    <li class="backlink-item-wrap"><a href="./Population%20III%20stars.html" class="backlink-item">Population III stars</a></li>
-    <li class="backlink-item-wrap"><a href="./Search%20for%20Pop%20III%20stars%20in%20dwarf%20galaxies.html" class="backlink-item">Search for Pop III stars in dwarf galaxies</a></li>
+    <li class="backlink-item-wrap"><a href="Halo%20accretion%20from%20dwarf%20galaxies.html" class="backlink-item">Halo accretion from dwarf galaxies</a></li>
+    <li class="backlink-item-wrap"><a href="Pop%20III%20nucleosynthesis%20signatures.html" class="backlink-item">Pop III nucleosynthesis signatures</a></li>
+    <li class="backlink-item-wrap"><a href="Pop%20III%20remnants%20in%20UFDGs.html" class="backlink-item">Pop III remnants in UFDGs</a></li>
+    <li class="backlink-item-wrap"><a href="Population%20III%20stars.html" class="backlink-item">Population III stars</a></li>
+    <li class="backlink-item-wrap"><a href="Search%20for%20Pop%20III%20stars%20in%20dwarf%20galaxies.html" class="backlink-item">Search for Pop III stars in dwarf galaxies</a></li>
+    <li class="backlink-item-wrap"><a href="UFDG%20dark%20matter%20content.html" class="backlink-item">UFDG dark matter content</a></li>
+    <li class="backlink-item-wrap"><a href="UFDG%20search%20via%20deep%20CMD.html" class="backlink-item">UFDG search via deep CMD</a></li>
+    <li class="backlink-item-wrap"><a href="UFDG%20star%20formation%20histories.html" class="backlink-item">UFDG star formation histories</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./UFDG%20dark%20matter%20content.html" class="backlink-item">UFDG dark matter content</a></li>
-    <li class="backlink-item-wrap"><a href="./UFDG%20search%20via%20deep%20CMD.html" class="backlink-item">UFDG search via deep CMD</a></li>
-    <li class="backlink-item-wrap"><a href="./UFDG%20star%20formation%20histories.html" class="backlink-item">UFDG star formation histories</a></li>
   </ul>
 </div>
+

@@ -2,7 +2,6 @@
 layout: "default"
 title: "AGN and supermassive black holes"
 ---
-{% raw %}
 # AGN and supermassive black holes
 
 interferometric imaging of active galactic nuclei (AGN) at the highest possible angular resolution. **EHT 2019 image of M87** is the canonical example: direct observation of the photon ring around a supermassive black hole. modern interferometry probes:
@@ -108,4 +107,3 @@ planned:
 - [VLTI Very Large Telescope Interferometer](interf/VLTI%20Very%20Large%20Telescope%20Interferometer.html)
 - [Pulsar timing arrays as interferometers](interf/Pulsar%20timing%20arrays%20as%20interferometers.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

@@ -2,7 +2,6 @@
 layout: "default"
 title: "Pablo_04_Nuclear_activity_in_galaxies"
 ---
-{% raw %}
 # Pablo lecture 2 — nuclear activity in galaxies
 
 up: [Observational_Cosmology_MOC](../../../04_Atlas/Observational_Cosmology_MOC.html)
@@ -468,14 +467,13 @@ Event Horizon Telescope imaged the SMBH shadow in M87 ($\sim 6.5 \times 10^9$ M)
 - Polletta et al. 2007 (SED templates)
 - Carroll & Ostlie 2007, chapter 28
 - Sparke & Gallagher 2008, chapter 9
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
+  <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/AGN%20taxonomy%20unified%20model%20and%20feedback.html" class="backlink-item">AGN taxonomy unified model and feedback</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/BPT%20emission%20line%20diagnostic%20diagram.html" class="backlink-item">BPT emission line diagnostic diagram</a></li>
     <li class="backlink-item-wrap"><a href="../../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Pablo_05_Galaxies_at_cosmological_distances.html" class="backlink-item">Pablo_05_Galaxies_at_cosmological_distances</a></li>
   </ul>
 </div>
+

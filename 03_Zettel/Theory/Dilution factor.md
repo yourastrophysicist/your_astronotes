@@ -2,7 +2,6 @@
 layout: "default"
 title: "Dilution factor"
 ---
-{% raw %}
 in low-density gas illuminated by a distant star, the radiation field is **geometrically diluted** compared to the field at the star's surface. the **dilution factor** $W$ quantifies this and enters non-LTE calculations of nebular line emission.
 
 ## the geometry
@@ -55,14 +54,13 @@ near the inner edge of a disk around a black hole or compact object, the radiati
 ## see also
 
 - Strömgren sphere
-- [Photoionisation balance](./Photoionisation%20balance.html)
-- [Two-level atom](./Two-level%20atom.html)
-- [Statistical equilibrium equations](./Statistical%20equilibrium%20equations.html)
-- [Source function](./Source%20function.html)
-- [Local thermodynamic equilibrium LTE](./Local%20thermodynamic%20equilibrium%20LTE.html)
-- [Optically thin recombination lines](./Optically%20thin%20recombination%20lines.html)
-- [Specific intensity flux luminosity](./Specific%20intensity%20flux%20luminosity.html)
-{% endraw %}
+- [Photoionisation balance](Photoionisation%20balance.html)
+- [Two-level atom](Two-level%20atom.html)
+- [Statistical equilibrium equations](Statistical%20equilibrium%20equations.html)
+- [Source function](Source%20function.html)
+- [Local thermodynamic equilibrium LTE](Local%20thermodynamic%20equilibrium%20LTE.html)
+- [Optically thin recombination lines](Optically%20thin%20recombination%20lines.html)
+- [Specific intensity flux luminosity](Specific%20intensity%20flux%20luminosity.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (1)</h4>
@@ -70,3 +68,4 @@ near the inner edge of a disk around a black hole or compact object, the radiati
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
   </ul>
 </div>
+

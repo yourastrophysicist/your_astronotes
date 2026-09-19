@@ -2,7 +2,6 @@
 layout: "default"
 title: "08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx"
 ---
-{% raw %}
 # Lesson 08 – Exoplanet Atmospheric Retrieval Frameworks and TauREx
 
 *Computational Astrophysics, Prof. Tiziano Zingales*  
@@ -237,21 +236,12 @@ Machine learning enhances the retrieval workflow:
 
 ![Atmospheric Parameter Retrieval Corner Plot](../../../assets/images/comp_retrieval_p25.png)
 *Figure COMP-12: Retrieved posterior probability distributions for isothermal atmospheric temperature $T_{\mathrm{iso}}$ and trace gas volume mixing ratios $\log_{10}(X_{\mathrm{mol}})$.*
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (11)</h4>
+  <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./04_Exoplanet_Demographics_Orbital_Mechanics_and_Transits.html" class="backlink-item">04_Exoplanet_Demographics_Orbital_Mechanics_and_Transits</a></li>
-    <li class="backlink-item-wrap"><a href="./06_Deep_Learning_Architectures_and_Optimization.html" class="backlink-item">06_Deep_Learning_Architectures_and_Optimization</a></li>
-    <li class="backlink-item-wrap"><a href="./07_Atmospheric_Radiative_Transfer_and_Line_Profiles.html" class="backlink-item">07_Atmospheric_Radiative_Transfer_and_Line_Profiles</a></li>
-    <li class="backlink-item-wrap"><a href="./09_Bayesian_Inference_and_Parameter_Estimation.html" class="backlink-item">09_Bayesian_Inference_and_Parameter_Estimation</a></li>
-    <li class="backlink-item-wrap"><a href="./10_Nested_Sampling_and_Evidence_Computation.html" class="backlink-item">10_Nested_Sampling_and_Evidence_Computation</a></li>
-    <li class="backlink-item-wrap"><a href="./11_Parallel_Computing_Architectures_and_HPC_Scaling.html" class="backlink-item">11_Parallel_Computing_Architectures_and_HPC_Scaling</a></li>
-    <li class="backlink-item-wrap"><a href="../Exoplanetary_Astrophysics/12_AI_and_Machine_Learning_in_Exoplanet_Science.html" class="backlink-item">12_AI_and_Machine_Learning_in_Exoplanet_Science</a></li>
-    <li class="backlink-item-wrap"><a href="./12_MPI_Distributed_Memory_Programming_with_Python.html" class="backlink-item">12_MPI_Distributed_Memory_Programming_with_Python</a></li>
-    <li class="backlink-item-wrap"><a href="../Exoplanetary_Astrophysics/20_Exoplanet_Atmospheres_and_Transmission_Spectroscopy.html" class="backlink-item">20_Exoplanet_Atmospheres_and_Transmission_Spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Computational/Exoplanet%20atmospheric%20retrieval%20and%20TauREx%20framework.html" class="backlink-item">Exoplanet atmospheric retrieval and TauREx framework</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

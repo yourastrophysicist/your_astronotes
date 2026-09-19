@@ -2,7 +2,6 @@
 layout: "default"
 title: "Horizon problem and causal structure"
 ---
-{% raw %}
 # Horizon problem and causal structure
 
 > *the puzzle of why 40,000 causally disconnected patches of the early universe share the exact same temperature to one part in 100,000.*
@@ -51,18 +50,17 @@ A single microscopic patch of size $\ll H^{-1}$ prior to inflation expands to en
 
 * parent moc: [Cosmology_of_the_Early_Universe_MOC](../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html)
 * related zettels:
-  - [Flatness problem and dynamical attractor](./Flatness%20problem%20and%20dynamical%20attractor.html)
-  - [Cosmological inflation](./Cosmological%20inflation.html)
-  - [Number of e-folds and horizon exit](./Number%20of%20e-folds%20and%20horizon%20exit.html)
+  - [Flatness problem and dynamical attractor](Flatness%20problem%20and%20dynamical%20attractor.html)
+  - [Cosmological inflation](Cosmological%20inflation.html)
+  - [Number of e-folds and horizon exit](Number%20of%20e-folds%20and%20horizon%20exit.html)
   - [Part1_Standard_Big_Bang_and_Shortcomings](../../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part1_Standard_Big_Bang_and_Shortcomings.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
+  <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Cosmic%20relics%20and%20Kibble%20mechanism.html" class="backlink-item">Cosmic relics and Kibble mechanism</a></li>
+    <li class="backlink-item-wrap"><a href="Cosmic%20relics%20and%20Kibble%20mechanism.html" class="backlink-item">Cosmic relics and Kibble mechanism</a></li>
+    <li class="backlink-item-wrap"><a href="Flatness%20problem%20and%20dynamical%20attractor.html" class="backlink-item">Flatness problem and dynamical attractor</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html" class="backlink-item">Cosmology_of_the_Early_Universe_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Flatness%20problem%20and%20dynamical%20attractor.html" class="backlink-item">Flatness problem and dynamical attractor</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part1_Standard_Big_Bang_and_Shortcomings.html" class="backlink-item">Part1_Standard_Big_Bang_and_Shortcomings</a></li>
   </ul>
 </div>
+

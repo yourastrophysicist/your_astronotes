@@ -2,7 +2,6 @@
 layout: "default"
 title: "Strong vs weak lensing"
 ---
-{% raw %}
 **strong lensing** produces multiple images, arcs, or rings. **weak lensing** produces tiny ($\sim 1\%$) shape distortions of background galaxies. each gives different cosmological information.
 
 ## strong lensing
@@ -69,21 +68,20 @@ both are essential complementary probes.
 ## see also
 
 - Gravitational lensing — intro
-- [Lensing as a cosmological probe](./Lensing%20as%20a%20cosmological%20probe.html)
-- [Light deflection](./Light%20deflection.html)
-- [Cosmic_inventory_dark_matter](./Cosmic_inventory_dark_matter.html)
+- [Lensing as a cosmological probe](Lensing%20as%20a%20cosmological%20probe.html)
+- [Light deflection](Light%20deflection.html)
+- [Cosmic_inventory_dark_matter](Cosmic_inventory_dark_matter.html)
 - 03_Zettel/Theory/Cosmological distances
-- [ΛCDM current parameters](./%CE%9BCDM%20current%20parameters.html)
-- [Hubble law](./Hubble%20law.html)
+- [ΛCDM current parameters](%CE%9BCDM%20current%20parameters.html)
+- [Hubble law](Hubble%20law.html)
 - [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
+  <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Bullet%20Cluster%20and%20dark%20matter%20mapping.html" class="backlink-item">Bullet Cluster and dark matter mapping</a></li>
-    <li class="backlink-item-wrap"><a href="./Gravitational%20lensing%20-%20intro.html" class="backlink-item">Gravitational lensing - intro</a></li>
-    <li class="backlink-item-wrap"><a href="./Lensing%20as%20a%20cosmological%20probe.html" class="backlink-item">Lensing as a cosmological probe</a></li>
+    <li class="backlink-item-wrap"><a href="Gravitational%20lensing%20-%20intro.html" class="backlink-item">Gravitational lensing - intro</a></li>
+    <li class="backlink-item-wrap"><a href="Lensing%20as%20a%20cosmological%20probe.html" class="backlink-item">Lensing as a cosmological probe</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
   </ul>
 </div>
+

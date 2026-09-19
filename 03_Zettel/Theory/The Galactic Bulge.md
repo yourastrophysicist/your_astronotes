@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "The Galactic Bulge"
-name: "The Galactic Bulge"
-description: "central stellar component of the Milky Way; old (~10 Gyr), metal-rich, alpha-enhanced, with an unresolved age debate from microlensing vs HST photometry"
 ---
-{% raw %}
 the **Galactic bulge** is the central stellar component of the Milky Way, located within the inner few kiloparsecs around the Galactic centre. it is a dense, gravitationally bound stellar system dominated by old stars. the bulge is one of the three main baryonic components of the Galaxy together with the disk and the halo, and its age + metallicity tell us about the **inner Galactic formation history**.
 
 ![L19_p02_bulge_mass-02.png](../../assets/images/L19_p02_bulge_mass-02.png)
@@ -27,9 +24,9 @@ the age of the Galactic bulge directly constrains how the Milky Way formed and e
 
 - **galaxy formation history**: tells us whether the inner Galaxy formed rapidly at early times (collapse, mergers) or more gradually through secular evolution of the disk (bar formation + buckling).
 - **link to cosmology**: if the bulge is predominantly old ($\geq 10$ Gyr), it traces star formation at high redshift and provides a local benchmark for galaxy formation in the early Universe.
-- **chemical evolution**: combined with $[\alpha/{\rm Fe}]$, age constrains the timescale of chemical enrichment and the relative roles of [Type II vs Type Ia supernovae](./Cepheids%20and%20supernovae.html).
+- **chemical evolution**: combined with $[\alpha/{\rm Fe}]$, age constrains the timescale of chemical enrichment and the relative roles of [Type II vs Type Ia supernovae](Cepheids%20and%20supernovae.html).
 - **structure-evolution connection**: helps disentangle classical bulge vs bar-driven (pseudo-bulge) components.
-- **calibration of stellar populations**: a key laboratory for testing stellar evolution models at high metallicity and for interpreting [unresolved stellar populations](./Resolved%20vs%20unresolved%20stellar%20populations.html) in external galaxies.
+- **calibration of stellar populations**: a key laboratory for testing stellar evolution models at high metallicity and for interpreting [unresolved stellar populations](Resolved%20vs%20unresolved%20stellar%20populations.html) in external galaxies.
 
 ## the CMD of the bulge: observational challenges
 
@@ -43,7 +40,7 @@ the bulge sits behind the Galactic disk along our line of sight. the bulge CMD i
 
 ### 2. differential reddening
 
-photometry of bulge stars typically suffers from low-scale **differential reddening**. patchy dust in front of the bulge field artificially broadens the CMD sequences and can be confused with multiple populations or metallicity spreads. see [Effects of differential reddening on CMD analysis](./Effects%20of%20differential%20reddening%20on%20CMD%20analysis.html).
+photometry of bulge stars typically suffers from low-scale **differential reddening**. patchy dust in front of the bulge field artificially broadens the CMD sequences and can be confused with multiple populations or metallicity spreads. see [Effects of differential reddening on CMD analysis](Effects%20of%20differential%20reddening%20on%20CMD%20analysis.html).
 
 ### approaches to decontamination
 
@@ -122,20 +119,20 @@ so the unresolved question: is the bulge a single old population with a tiny you
 ## the Galactic bulge in context
 
 connections to the rest of the course:
-- the bulge GCs (NGC 6528, NGC 6553, Liller 1, Terzan 5) are the metal-rich tail of the [Age-metallicity relation of Galactic GCs](./Age-metallicity%20relation%20of%20Galactic%20GCs.html).
-- Terzan 5 is famous for hosting **two metal populations** (Ferraro et al. 2009, Massari et al. 2014: $[{\rm Fe/H}] \sim -0.2$ + $\sim +0.3$, with an outlier $\sim -0.8$). it may be a **fossil bulge fragment**, not a true GC. see [Multiple populations in GCs discovery](./Multiple%20populations%20in%20GCs%20discovery.html).
+- the bulge GCs (NGC 6528, NGC 6553, Liller 1, Terzan 5) are the metal-rich tail of the [Age-metallicity relation of Galactic GCs](Age-metallicity%20relation%20of%20Galactic%20GCs.html).
+- Terzan 5 is famous for hosting **two metal populations** (Ferraro et al. 2009, Massari et al. 2014: $[{\rm Fe/H}] \sim -0.2$ + $\sim +0.3$, with an outlier $\sim -0.8$). it may be a **fossil bulge fragment**, not a true GC. see [Multiple populations in GCs discovery](Multiple%20populations%20in%20GCs%20discovery.html).
 - the bulge bar links to dynamical bulge formation (boxy/peanut shape from bar buckling); see [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html).
 - chemical evolution models (Matteucci & Romano 1999) predict the bulge formed at the same time or even faster than the Galactic halo, consistent with its $\alpha$-enhancement.
 
 ## see also
 
-- [Bulge microlensing surveys](./Bulge%20microlensing%20surveys.html)
-- [Bulge CMD complications](./Bulge%20CMD%20complications.html)
-- [Age-metallicity relation of Galactic GCs](./Age-metallicity%20relation%20of%20Galactic%20GCs.html)
-- [Galactic GC two-population age structure](./Galactic%20GC%20two-population%20age%20structure.html)
-- [Halo accretion from dwarf galaxies](./Halo%20accretion%20from%20dwarf%20galaxies.html)
-- [Effects of differential reddening on CMD analysis](./Effects%20of%20differential%20reddening%20on%20CMD%20analysis.html)
-- [Multiple populations in GCs discovery](./Multiple%20populations%20in%20GCs%20discovery.html)
+- [Bulge microlensing surveys](Bulge%20microlensing%20surveys.html)
+- [Bulge CMD complications](Bulge%20CMD%20complications.html)
+- [Age-metallicity relation of Galactic GCs](Age-metallicity%20relation%20of%20Galactic%20GCs.html)
+- [Galactic GC two-population age structure](Galactic%20GC%20two-population%20age%20structure.html)
+- [Halo accretion from dwarf galaxies](Halo%20accretion%20from%20dwarf%20galaxies.html)
+- [Effects of differential reddening on CMD analysis](Effects%20of%20differential%20reddening%20on%20CMD%20analysis.html)
+- [Multiple populations in GCs discovery](Multiple%20populations%20in%20GCs%20discovery.html)
 - [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
 - [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html)
 
@@ -248,14 +245,14 @@ The following slides from Prof. Antonino Milone's lecture series provide the dir
 
 ![Lecture19_p5-05.png](../../assets/images/Lecture19_p5-05.png)
 *Figure P19-34: Lecture19_p5-05.png — Observational data, CMD morphology, and diagnostics from Lecture 19 — The Galactic Bulge & Milky Way Structure.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Bulge%20CMD%20complications.html" class="backlink-item">Bulge CMD complications</a></li>
-    <li class="backlink-item-wrap"><a href="./Bulge%20microlensing%20surveys.html" class="backlink-item">Bulge microlensing surveys</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20Astrophysics%20research%20citations%20index.html" class="backlink-item">Stellar Astrophysics research citations index</a></li>
+    <li class="backlink-item-wrap"><a href="Bulge%20CMD%20complications.html" class="backlink-item">Bulge CMD complications</a></li>
+    <li class="backlink-item-wrap"><a href="Bulge%20microlensing%20surveys.html" class="backlink-item">Bulge microlensing surveys</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20Astrophysics%20research%20citations%20index.html" class="backlink-item">Stellar Astrophysics research citations index</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

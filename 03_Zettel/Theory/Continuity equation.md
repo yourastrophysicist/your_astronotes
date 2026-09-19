@@ -2,7 +2,6 @@
 layout: "default"
 title: "Continuity equation"
 ---
-{% raw %}
 the **cosmological continuity equation** governs how the energy density of cosmic fluids evolves with the expansion. follows from stress-energy conservation $\nabla^\mu T_{\mu\nu} = 0$ applied to FLRW.
 
 ## the equation
@@ -38,7 +37,7 @@ three canonical cases:
 - **radiation** ($w = 1/3$): $\rho_r \propto a^{-4}$. volume + redshift of photon energies.
 - **dark energy** ($w = -1$): $\rho_\Lambda = $ const. constant energy density.
 
-see [Equation of state and density scaling](./Equation%20of%20state%20and%20density%20scaling.html).
+see [Equation of state and density scaling](Equation%20of%20state%20and%20density%20scaling.html).
 
 ## consistency with Friedmann + acceleration
 
@@ -58,19 +57,19 @@ so dark energy density doesn't dilute. as the universe expands, dark energy "fil
 each species (photons, baryons, dark matter, dark energy) **separately** satisfies continuity, as long as they don't exchange energy with each other. for matter + radiation:
 $$\rho_m \propto a^{-3}, \quad \rho_r \propto a^{-4}$$
 
-so radiation dilutes faster than matter, leading to **matter-radiation equality** at $a_{\rm eq} \sim 1/3400$. see [Matter radiation equality](./Matter%20radiation%20equality.html).
+so radiation dilutes faster than matter, leading to **matter-radiation equality** at $a_{\rm eq} \sim 1/3400$. see [Matter radiation equality](Matter%20radiation%20equality.html).
 
 species exchanges (e.g. $e^+$ annihilation transferring energy from $e^\pm$ to photons + neutrinos) need to be tracked carefully.
 
 ## see also
 
-- [Friedmann equations](./Friedmann%20equations.html)
-- [Equation of state and density scaling](./Equation%20of%20state%20and%20density%20scaling.html)
-- [Cosmic eras](./Cosmic%20eras.html)
-- [Matter radiation equality](./Matter%20radiation%20equality.html)
-- [Stress-energy tensor](./Stress-energy%20tensor.html)
-- [FLRW metric](./FLRW%20metric.html)
-- [Cosmological constant](./Cosmological%20constant.html)
+- [Friedmann equations](Friedmann%20equations.html)
+- [Equation of state and density scaling](Equation%20of%20state%20and%20density%20scaling.html)
+- [Cosmic eras](Cosmic%20eras.html)
+- [Matter radiation equality](Matter%20radiation%20equality.html)
+- [Stress-energy tensor](Stress-energy%20tensor.html)
+- [FLRW metric](FLRW%20metric.html)
+- [Cosmological constant](Cosmological%20constant.html)
 - Q18 - derive the acceleration equation
 - Q19 - radiation universe
 - Q20 - matter plus radiation universe
@@ -83,20 +82,19 @@ species exchanges (e.g. $e^+$ annihilation transferring energy from $e^\pm$ to p
 
 ![lez07_energy_momentum_tensor.png](../../assets/images/lez07_energy_momentum_tensor.png)
 *Lecture 07 Blackboard Derivation: Energy-momentum tensor $T^{\mu\nu}$ for perfect fluid $T^{\mu\nu} = (\rho + p)u^\mu u^\nu + p g^{\mu\nu}$, and local conservation $\nabla_\mu T^{\mu\nu} = 0$ yielding continuity and relativistic Euler equations.*
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (10)</h4>
+  <h4 class="backlinks-title">Linked References (9)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Book/Baumann%20GR/Ch%207%20-%20Cosmology.html" class="backlink-item">Ch 7 - Cosmology</a></li>
-    <li class="backlink-item-wrap"><a href="./Cosmic%20eras.html" class="backlink-item">Cosmic eras</a></li>
-    <li class="backlink-item-wrap"><a href="./Equation%20of%20state%20and%20density%20scaling.html" class="backlink-item">Equation of state and density scaling</a></li>
-    <li class="backlink-item-wrap"><a href="./FLRW%20metric.html" class="backlink-item">FLRW metric</a></li>
-    <li class="backlink-item-wrap"><a href="./Friedmann%20equations.html" class="backlink-item">Friedmann equations</a></li>
-    <li class="backlink-item-wrap"><a href="./GR%20Friedmann%20with%20Lambda.html" class="backlink-item">GR Friedmann with Lambda</a></li>
+    <li class="backlink-item-wrap"><a href="Cosmic%20eras.html" class="backlink-item">Cosmic eras</a></li>
+    <li class="backlink-item-wrap"><a href="Equation%20of%20state%20and%20density%20scaling.html" class="backlink-item">Equation of state and density scaling</a></li>
+    <li class="backlink-item-wrap"><a href="FLRW%20metric.html" class="backlink-item">FLRW metric</a></li>
+    <li class="backlink-item-wrap"><a href="Friedmann%20equations.html" class="backlink-item">Friedmann equations</a></li>
+    <li class="backlink-item-wrap"><a href="GR%20Friedmann%20with%20Lambda.html" class="backlink-item">GR Friedmann with Lambda</a></li>
+    <li class="backlink-item-wrap"><a href="Matter%20radiation%20equality.html" class="backlink-item">Matter radiation equality</a></li>
+    <li class="backlink-item-wrap"><a href="Matter%20vs%20radiation%20density%20scaling.html" class="backlink-item">Matter vs radiation density scaling</a></li>
+    <li class="backlink-item-wrap"><a href="Stress-energy%20tensor.html" class="backlink-item">Stress-energy tensor</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Matter%20radiation%20equality.html" class="backlink-item">Matter radiation equality</a></li>
-    <li class="backlink-item-wrap"><a href="./Matter%20vs%20radiation%20density%20scaling.html" class="backlink-item">Matter vs radiation density scaling</a></li>
-    <li class="backlink-item-wrap"><a href="./Stress-energy%20tensor.html" class="backlink-item">Stress-energy tensor</a></li>
   </ul>
 </div>
+

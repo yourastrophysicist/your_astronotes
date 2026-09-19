@@ -2,14 +2,13 @@
 layout: "default"
 title: "Spectrum reduction pipeline"
 ---
-{% raw %}
 the standard sequence of steps to turn a raw 2D spectroscopic image into a calibrated 1D spectrum. this is the practical workflow every spectroscopist must know, and a frequent oral question.
 
 ## the steps in order
 
 ### 1. bias subtraction
 
-remove the constant readout offset. take many zero-second exposures, average to make a master bias, subtract from every science frame. see [CCD calibration steps](./CCD%20calibration%20steps.html).
+remove the constant readout offset. take many zero-second exposures, average to make a master bias, subtract from every science frame. see [CCD calibration steps](CCD%20calibration%20steps.html).
 
 ### 2. dark subtraction (often skipped)
 
@@ -28,11 +27,11 @@ procedure:
 
 ### 4. cosmic-ray rejection
 
-LACOSMIC or similar, applied to each 2D frame. see [Cosmic rays and bad pixels](./Cosmic%20rays%20and%20bad%20pixels.html).
+LACOSMIC or similar, applied to each 2D frame. see [Cosmic rays and bad pixels](Cosmic%20rays%20and%20bad%20pixels.html).
 
 ### 5. wavelength calibration
 
-via comparison-lamp lines. see [Wavelength calibration](./Wavelength%20calibration.html). results in a wavelength solution $\lambda(x, y)$ (slightly different per row in longslit, per fiber in MOS, per spaxel in IFU).
+via comparison-lamp lines. see [Wavelength calibration](Wavelength%20calibration.html). results in a wavelength solution $\lambda(x, y)$ (slightly different per row in longslit, per fiber in MOS, per spaxel in IFU).
 
 ### 6. trace and extract
 
@@ -96,24 +95,24 @@ raw frame
 
 ## see also
 
-- [Spectrograph design](./Spectrograph%20design.html)
-- [Wavelength calibration](./Wavelength%20calibration.html)
+- [Spectrograph design](Spectrograph%20design.html)
+- [Wavelength calibration](Wavelength%20calibration.html)
 - [Flux calibration](interf/Flux%20calibration.html)
-- [CCD calibration steps](./CCD%20calibration%20steps.html)
-- [Cosmic rays and bad pixels](./Cosmic%20rays%20and%20bad%20pixels.html)
+- [CCD calibration steps](CCD%20calibration%20steps.html)
+- [Cosmic rays and bad pixels](Cosmic%20rays%20and%20bad%20pixels.html)
 - [Atmospheric extinction](interf/Atmospheric%20extinction.html)
-- [Sky brightness](./Sky%20brightness.html)
-- [Aperture photometry](./Aperture%20photometry.html)
-- [PSF photometry](./PSF%20photometry.html)
-{% endraw %}
+- [Sky brightness](Sky%20brightness.html)
+- [Aperture photometry](Aperture%20photometry.html)
+- [PSF photometry](PSF%20photometry.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Flux%20calibration.html" class="backlink-item">Flux calibration</a></li>
+    <li class="backlink-item-wrap"><a href="Flux%20calibration.html" class="backlink-item">Flux calibration</a></li>
+    <li class="backlink-item-wrap"><a href="Spectrograph%20design.html" class="backlink-item">Spectrograph design</a></li>
+    <li class="backlink-item-wrap"><a href="Wavelength%20calibration.html" class="backlink-item">Wavelength calibration</a></li>
     <li class="backlink-item-wrap"><a href="interf/Flux%20calibration.html" class="backlink-item">Flux calibration</a></li>
-    <li class="backlink-item-wrap"><a href="./Spectrograph%20design.html" class="backlink-item">Spectrograph design</a></li>
-    <li class="backlink-item-wrap"><a href="./Wavelength%20calibration.html" class="backlink-item">Wavelength calibration</a></li>
+    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
   </ul>
 </div>
+

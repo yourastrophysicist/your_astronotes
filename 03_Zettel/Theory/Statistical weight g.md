@@ -2,7 +2,6 @@
 layout: "default"
 title: "Statistical weight g"
 ---
-{% raw %}
 the **statistical weight** $g$ of a level is its degeneracy: the number of microscopic states with the same energy. used in Boltzmann + Saha equations to weight populations.
 
 ## per multiplet sublevel ($J$)
@@ -53,27 +52,27 @@ at low $T$, $Z \approx g_{\rm ground}$ (only ground populated). at high $T$, mor
 
 ## see also
 
-- [Atomic term symbols](./Atomic%20term%20symbols.html)
-- [Quantum numbers and atomic states](./Quantum%20numbers%20and%20atomic%20states.html)
-- [Russell-Saunders LS coupling](./Russell-Saunders%20LS%20coupling.html)
-- [Hund's rules](./Hund%27s%20rules.html)
-- [Boltzmann equation in spectroscopy](./Boltzmann%20equation%20in%20spectroscopy.html)
-- [Saha ionisation equation](./Saha%20ionisation%20equation.html)
-- [Partition function](./Partition%20function.html)
-{% endraw %}
+- [Atomic term symbols](Atomic%20term%20symbols.html)
+- [Quantum numbers and atomic states](Quantum%20numbers%20and%20atomic%20states.html)
+- [Russell-Saunders LS coupling](Russell-Saunders%20LS%20coupling.html)
+- [Hund's rules](Hund%27s%20rules.html)
+- [Boltzmann equation in spectroscopy](Boltzmann%20equation%20in%20spectroscopy.html)
+- [Saha ionisation equation](Saha%20ionisation%20equation.html)
+- [Partition function](Partition%20function.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (10)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Absorption%20coefficient%20and%20oscillator%20strength.html" class="backlink-item">Absorption coefficient and oscillator strength</a></li>
+    <li class="backlink-item-wrap"><a href="Absorption%20coefficient%20and%20oscillator%20strength.html" class="backlink-item">Absorption coefficient and oscillator strength</a></li>
+    <li class="backlink-item-wrap"><a href="Atomic%20term%20symbols.html" class="backlink-item">Atomic term symbols</a></li>
+    <li class="backlink-item-wrap"><a href="Boltzmann%20equation%20in%20spectroscopy.html" class="backlink-item">Boltzmann equation in spectroscopy</a></li>
+    <li class="backlink-item-wrap"><a href="Equivalent%20vs%20nonequivalent%20electrons.html" class="backlink-item">Equivalent vs nonequivalent electrons</a></li>
+    <li class="backlink-item-wrap"><a href="Hund%27s%20rules.html" class="backlink-item">Hund's rules</a></li>
+    <li class="backlink-item-wrap"><a href="Partition%20function.html" class="backlink-item">Partition function</a></li>
+    <li class="backlink-item-wrap"><a href="Quantum%20numbers%20and%20atomic%20states.html" class="backlink-item">Quantum numbers and atomic states</a></li>
+    <li class="backlink-item-wrap"><a href="Russell-Saunders%20LS%20coupling.html" class="backlink-item">Russell-Saunders LS coupling</a></li>
+    <li class="backlink-item-wrap"><a href="Saha%20ionisation%20equation.html" class="backlink-item">Saha ionisation equation</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Atomic%20term%20symbols.html" class="backlink-item">Atomic term symbols</a></li>
-    <li class="backlink-item-wrap"><a href="./Boltzmann%20equation%20in%20spectroscopy.html" class="backlink-item">Boltzmann equation in spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="./Equivalent%20vs%20nonequivalent%20electrons.html" class="backlink-item">Equivalent vs nonequivalent electrons</a></li>
-    <li class="backlink-item-wrap"><a href="./Hund%27s%20rules.html" class="backlink-item">Hund's rules</a></li>
-    <li class="backlink-item-wrap"><a href="./Partition%20function.html" class="backlink-item">Partition function</a></li>
-    <li class="backlink-item-wrap"><a href="./Quantum%20numbers%20and%20atomic%20states.html" class="backlink-item">Quantum numbers and atomic states</a></li>
-    <li class="backlink-item-wrap"><a href="./Russell-Saunders%20LS%20coupling.html" class="backlink-item">Russell-Saunders LS coupling</a></li>
-    <li class="backlink-item-wrap"><a href="./Saha%20ionisation%20equation.html" class="backlink-item">Saha ionisation equation</a></li>
   </ul>
 </div>
+

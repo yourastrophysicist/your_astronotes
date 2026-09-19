@@ -2,7 +2,6 @@
 layout: "default"
 title: "08_Direct_Imaging_Instrumentation_and_Astrometric_Synergies"
 ---
-{% raw %}
 # Lesson 08 – Direct Imaging II: Instrumentation and Astrometric Synergies
 
 *Exoplanetary Astrophysics, Prof. Giampaolo Piotto (Lecture 03/11/2025)*  
@@ -161,14 +160,12 @@ Contrast
 - Previous Lecture: [07_Direct_Imaging_Physics_and_High_Contrast_Techniques](./07_Direct_Imaging_Physics_and_High_Contrast_Techniques.html)
 - Next Lecture: [09_Astrometric_Detection_and_Gaia_Capabilities](./09_Astrometric_Detection_and_Gaia_Capabilities.html)
 - Related Notes: [Adaptive optics](../../../03_Zettel/Theory/interf/Adaptive%20optics.html) | Exoplanetary atmospheres and transmission spectroscopy
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
+  <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./07_Direct_Imaging_Physics_and_High_Contrast_Techniques.html" class="backlink-item">07_Direct_Imaging_Physics_and_High_Contrast_Techniques</a></li>
-    <li class="backlink-item-wrap"><a href="./09_Astrometric_Detection_and_Gaia_Capabilities.html" class="backlink-item">09_Astrometric_Detection_and_Gaia_Capabilities</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Coronagraphy%20and%20angular%20differential%20imaging.html" class="backlink-item">Coronagraphy and angular differential imaging</a></li>
     <li class="backlink-item-wrap"><a href="../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

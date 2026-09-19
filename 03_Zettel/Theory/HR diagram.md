@@ -2,7 +2,6 @@
 layout: "default"
 title: "HR diagram"
 ---
-{% raw %}
 the **Hertzsprung-Russell (HR) diagram**, discovered independently by Ejnar Hertzsprung (1911) and Henry Norris Russell (1913), is the central organizing framework of stellar astrophysics. it plots the intrinsic luminosity of stars against their surface temperature.
 
 ![stellar-08.png](../../assets/images/stellar-08.png)
@@ -91,10 +90,10 @@ $$t_{\text{MS}} \approx 10^{10} \left(\frac{M}{M_\odot}\right) \left(\frac{L}{L_
 ## see also
 
 - [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Stellar scaling relations](./Stellar%20scaling%20relations.html)
-- [Main sequence, giants, supergiants, white dwarfs](./Main%20sequence%2C%20giants%2C%20supergiants%2C%20white%20dwarfs.html)
-- [Solar evolution and final stages](./Solar%20evolution%20and%20final%20stages.html)
-- [Cluster ages from CMD turnoff](./Cluster%20ages%20from%20CMD%20turnoff.html)
+- [Stellar scaling relations](Stellar%20scaling%20relations.html)
+- [Main sequence, giants, supergiants, white dwarfs](Main%20sequence%2C%20giants%2C%20supergiants%2C%20white%20dwarfs.html)
+- [Solar evolution and final stages](Solar%20evolution%20and%20final%20stages.html)
+- [Cluster ages from CMD turnoff](Cluster%20ages%20from%20CMD%20turnoff.html)
 
 ---
 
@@ -147,43 +146,43 @@ $$t_{\text{MS}} \approx 10^{10} \left(\frac{M}{M_\odot}\right) \left(\frac{L}{L_
 
 ![obs_stars-016.png](../../assets/images/obs_stars-016.png)
 *Summary of HR diagram regions and evolutionary pathways.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (33)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Age%20dating%20from%20the%20WD%20luminosity%20function.html" class="backlink-item">Age dating from the WD luminosity function</a></li>
-    <li class="backlink-item-wrap"><a href="./Binary%20stars%20in%20CMD.html" class="backlink-item">Binary stars in CMD</a></li>
-    <li class="backlink-item-wrap"><a href="./Blackbody%20radiation%20and%20Stefan-Boltzmann.html" class="backlink-item">Blackbody radiation and Stefan-Boltzmann</a></li>
-    <li class="backlink-item-wrap"><a href="./Bolometric%20correction%20and%20effective%20temperature.html" class="backlink-item">Bolometric correction and effective temperature</a></li>
-    <li class="backlink-item-wrap"><a href="./CMD%20constraints%20on%20disk%20vs%20halo%20populations.html" class="backlink-item">CMD constraints on disk vs halo populations</a></li>
-    <li class="backlink-item-wrap"><a href="./Cluster%20ages%20from%20CMD%20turnoff.html" class="backlink-item">Cluster ages from CMD turnoff</a></li>
-    <li class="backlink-item-wrap"><a href="./Color%20indices.html" class="backlink-item">Color indices</a></li>
-    <li class="backlink-item-wrap"><a href="./Color-magnitude%20diagrams%20of%20clusters.html" class="backlink-item">Color-magnitude diagrams of clusters</a></li>
+    <li class="backlink-item-wrap"><a href="Age%20dating%20from%20the%20WD%20luminosity%20function.html" class="backlink-item">Age dating from the WD luminosity function</a></li>
+    <li class="backlink-item-wrap"><a href="Binary%20stars%20in%20CMD.html" class="backlink-item">Binary stars in CMD</a></li>
+    <li class="backlink-item-wrap"><a href="Blackbody%20radiation%20and%20Stefan-Boltzmann.html" class="backlink-item">Blackbody radiation and Stefan-Boltzmann</a></li>
+    <li class="backlink-item-wrap"><a href="Bolometric%20correction%20and%20effective%20temperature.html" class="backlink-item">Bolometric correction and effective temperature</a></li>
+    <li class="backlink-item-wrap"><a href="CMD%20constraints%20on%20disk%20vs%20halo%20populations.html" class="backlink-item">CMD constraints on disk vs halo populations</a></li>
+    <li class="backlink-item-wrap"><a href="Cluster%20ages%20from%20CMD%20turnoff.html" class="backlink-item">Cluster ages from CMD turnoff</a></li>
+    <li class="backlink-item-wrap"><a href="Color%20indices.html" class="backlink-item">Color indices</a></li>
+    <li class="backlink-item-wrap"><a href="Color-magnitude%20diagrams%20of%20clusters.html" class="backlink-item">Color-magnitude diagrams of clusters</a></li>
+    <li class="backlink-item-wrap"><a href="Globular%20clusters%20as%20SSP%20laboratories.html" class="backlink-item">Globular clusters as SSP laboratories</a></li>
+    <li class="backlink-item-wrap"><a href="Hunting%20BHs%20via%20radial%20velocities.html" class="backlink-item">Hunting BHs via radial velocities</a></li>
+    <li class="backlink-item-wrap"><a href="Interstellar%20reddening%20and%20the%20reddening%20vector.html" class="backlink-item">Interstellar reddening and the reddening vector</a></li>
+    <li class="backlink-item-wrap"><a href="Isochrones%20and%20isochrone%20fitting.html" class="backlink-item">Isochrones and isochrone fitting</a></li>
+    <li class="backlink-item-wrap"><a href="MK%20luminosity%20classes.html" class="backlink-item">MK luminosity classes</a></li>
+    <li class="backlink-item-wrap"><a href="Magnitudes%20and%20photometric%20systems.html" class="backlink-item">Magnitudes and photometric systems</a></li>
+    <li class="backlink-item-wrap"><a href="Main%20sequence%20on%20the%20CMD.html" class="backlink-item">Main sequence on the CMD</a></li>
+    <li class="backlink-item-wrap"><a href="Mass-luminosity%20relation.html" class="backlink-item">Mass-luminosity relation</a></li>
+    <li class="backlink-item-wrap"><a href="Pre-main%20sequence%20evolution%20and%20protostars.html" class="backlink-item">Pre-main sequence evolution and protostars</a></li>
+    <li class="backlink-item-wrap"><a href="Red%20giant%20branch%20RGB.html" class="backlink-item">Red giant branch RGB</a></li>
+    <li class="backlink-item-wrap"><a href="Resolved%20vs%20unresolved%20stellar%20populations.html" class="backlink-item">Resolved vs unresolved stellar populations</a></li>
+    <li class="backlink-item-wrap"><a href="Solar%20evolution%20and%20final%20stages.html" class="backlink-item">Solar evolution and final stages</a></li>
+    <li class="backlink-item-wrap"><a href="Spectroscopic%20determination%20of%20log%20g.html" class="backlink-item">Spectroscopic determination of log g</a></li>
+    <li class="backlink-item-wrap"><a href="Spectroscopic%20parallax%20and%20main-sequence%20fitting.html" class="backlink-item">Spectroscopic parallax and main-sequence fitting</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20evolutionary%20phases%20on%20the%20CMD.html" class="backlink-item">Stellar evolutionary phases on the CMD</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20scaling%20relations.html" class="backlink-item">Stellar scaling relations</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20spectra%20and%20spectral%20classification.html" class="backlink-item">Stellar spectra and spectral classification</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20spectral%20types%20OBAFGKM.html" class="backlink-item">Stellar spectral types OBAFGKM</a></li>
+    <li class="backlink-item-wrap"><a href="TRGB%20tip%20of%20the%20red%20giant%20branch.html" class="backlink-item">TRGB tip of the red giant branch</a></li>
+    <li class="backlink-item-wrap"><a href="WDCS%20vs%20MSTO%20ages%20comparison.html" class="backlink-item">WDCS vs MSTO ages comparison</a></li>
+    <li class="backlink-item-wrap"><a href="White%20dwarf%20overview.html" class="backlink-item">White dwarf overview</a></li>
+    <li class="backlink-item-wrap"><a href="White%20dwarf%20types%20He%20CO%20ONeMg.html" class="backlink-item">White dwarf types He CO ONeMg</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Globular%20clusters%20as%20SSP%20laboratories.html" class="backlink-item">Globular clusters as SSP laboratories</a></li>
-    <li class="backlink-item-wrap"><a href="./Hunting%20BHs%20via%20radial%20velocities.html" class="backlink-item">Hunting BHs via radial velocities</a></li>
-    <li class="backlink-item-wrap"><a href="./Interstellar%20reddening%20and%20the%20reddening%20vector.html" class="backlink-item">Interstellar reddening and the reddening vector</a></li>
-    <li class="backlink-item-wrap"><a href="./Isochrones%20and%20isochrone%20fitting.html" class="backlink-item">Isochrones and isochrone fitting</a></li>
-    <li class="backlink-item-wrap"><a href="./MK%20luminosity%20classes.html" class="backlink-item">MK luminosity classes</a></li>
-    <li class="backlink-item-wrap"><a href="./Magnitudes%20and%20photometric%20systems.html" class="backlink-item">Magnitudes and photometric systems</a></li>
-    <li class="backlink-item-wrap"><a href="./Main%20sequence%20on%20the%20CMD.html" class="backlink-item">Main sequence on the CMD</a></li>
-    <li class="backlink-item-wrap"><a href="./Mass-luminosity%20relation.html" class="backlink-item">Mass-luminosity relation</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Pre-main%20sequence%20evolution%20and%20protostars.html" class="backlink-item">Pre-main sequence evolution and protostars</a></li>
-    <li class="backlink-item-wrap"><a href="./Red%20giant%20branch%20RGB.html" class="backlink-item">Red giant branch RGB</a></li>
-    <li class="backlink-item-wrap"><a href="./Resolved%20vs%20unresolved%20stellar%20populations.html" class="backlink-item">Resolved vs unresolved stellar populations</a></li>
-    <li class="backlink-item-wrap"><a href="./Solar%20evolution%20and%20final%20stages.html" class="backlink-item">Solar evolution and final stages</a></li>
-    <li class="backlink-item-wrap"><a href="./Spectroscopic%20determination%20of%20log%20g.html" class="backlink-item">Spectroscopic determination of log g</a></li>
-    <li class="backlink-item-wrap"><a href="./Spectroscopic%20parallax%20and%20main-sequence%20fitting.html" class="backlink-item">Spectroscopic parallax and main-sequence fitting</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20evolutionary%20phases%20on%20the%20CMD.html" class="backlink-item">Stellar evolutionary phases on the CMD</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20scaling%20relations.html" class="backlink-item">Stellar scaling relations</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20spectra%20and%20spectral%20classification.html" class="backlink-item">Stellar spectra and spectral classification</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20spectral%20types%20OBAFGKM.html" class="backlink-item">Stellar spectral types OBAFGKM</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./TRGB%20tip%20of%20the%20red%20giant%20branch.html" class="backlink-item">TRGB tip of the red giant branch</a></li>
-    <li class="backlink-item-wrap"><a href="./WDCS%20vs%20MSTO%20ages%20comparison.html" class="backlink-item">WDCS vs MSTO ages comparison</a></li>
-    <li class="backlink-item-wrap"><a href="./White%20dwarf%20overview.html" class="backlink-item">White dwarf overview</a></li>
-    <li class="backlink-item-wrap"><a href="./White%20dwarf%20types%20He%20CO%20ONeMg.html" class="backlink-item">White dwarf types He CO ONeMg</a></li>
   </ul>
 </div>
+

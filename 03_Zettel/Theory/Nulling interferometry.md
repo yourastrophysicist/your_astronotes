@@ -2,7 +2,6 @@
 layout: "default"
 title: "Nulling interferometry"
 ---
-{% raw %}
 # Nulling interferometry
 
 a technique for *suppressing* the bright on-axis source while preserving off-axis emission. used for direct exoplanet detection, exo-zodiacal dust imaging, and high-contrast imaging around nearby stars. invented conceptually by Bracewell (1978).
@@ -101,4 +100,3 @@ nulling interferometry is poised for:
 - [Apodization](interf/Apodization.html)
 - [Hypertelescope](interf/Hypertelescope.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

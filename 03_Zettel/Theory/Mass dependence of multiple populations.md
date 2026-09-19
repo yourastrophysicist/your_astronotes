@@ -1,11 +1,8 @@
 ---
 layout: "default"
 title: "Mass dependence of multiple populations"
-name: "Mass dependence of multiple populations"
-description: "how the 2G fraction, helium spread, + chemical extension scale with cluster mass, with low-mass clusters often single-population + LMC eMSTO clusters reversing the trend"
 ---
-{% raw %}
-multiple populations are not a binary on/off feature. their amplitude scales smoothly with cluster mass: more massive GCs host larger 2G fractions, larger helium spreads, + more extreme chemical anti-correlations. low-mass clusters often show no MPs at all. this scaling is one of the strongest empirical handles on the formation mechanism + a key constraint on [Polluter scenarios for second-generation GC stars](./Polluter%20scenarios%20for%20second-generation%20GC%20stars.html).
+multiple populations are not a binary on/off feature. their amplitude scales smoothly with cluster mass: more massive GCs host larger 2G fractions, larger helium spreads, + more extreme chemical anti-correlations. low-mass clusters often show no MPs at all. this scaling is one of the strongest empirical handles on the formation mechanism + a key constraint on [Polluter scenarios for second-generation GC stars](Polluter%20scenarios%20for%20second-generation%20GC%20stars.html).
 
 ## the empirical scaling
 
@@ -34,7 +31,7 @@ bastian + lardo 2018 catalogued these "single-population" clusters + argued the 
 
 why? possible explanations:
 1. **deep potential well needed** to retain polluter ejecta against SN winds + radiation pressure. deeper wells form in more massive proto-clusters, scaling roughly with $\sigma_v^2 \propto M / r$.
-2. **runaway collisions** to form a [supermassive star](./Polluter%20scenarios%20for%20second-generation%20GC%20stars.html) require very dense initial conditions, which are realized only in massive proto-clusters
+2. **runaway collisions** to form a [supermassive star](Polluter%20scenarios%20for%20second-generation%20GC%20stars.html) require very dense initial conditions, which are realized only in massive proto-clusters
 3. **dilution gas reservoir**: more massive clusters can retain larger gas budgets for the second-generation star formation event
 
 ## the radial + dynamical signatures
@@ -48,13 +45,13 @@ dalessandro, ferraro, miocchi + others have measured this radial segregation. so
 ## the LMC age trend + reversal
 
 a beautiful complication comes from the LMC + SMC clusters. observations show:
-- **young** ($< 2$ Gyr) massive LMC clusters: NO multiple-population N-He chemistry, but **eMSTO** + split MS due to rotation (see [Extended main sequence turn-off eMSTO](./Extended%20main%20sequence%20turn-off%20eMSTO.html))
+- **young** ($< 2$ Gyr) massive LMC clusters: NO multiple-population N-He chemistry, but **eMSTO** + split MS due to rotation (see [Extended main sequence turn-off eMSTO](Extended%20main%20sequence%20turn-off%20eMSTO.html))
 - **intermediate** ($2$-$8$ Gyr) LMC clusters: weak or partial N-spread (martocchia, niederhofer, lardo + bastian)
 - **old** ($> 8$ Gyr) LMC clusters: full multiple-population signature, indistinguishable from galactic GCs
 
 this is striking. it suggests MPs may **develop** with age, or alternatively that only old clusters formed under the conditions that produce MPs. the timing is consistent with the hypothesis that MPs require the cluster to be very massive at formation + that present-day low-mass clusters were once more massive but lost mass to tides.
 
-at very young ages ($< 100$ Myr) the eMSTO LMC clusters show split MS due to rotation, not chemistry: this is the rotation regime + does not connect cleanly to the chemical MP signature seen in old GCs (see [eMSTO and multiple populations connection](./eMSTO%20and%20multiple%20populations%20connection.html)).
+at very young ages ($< 100$ Myr) the eMSTO LMC clusters show split MS due to rotation, not chemistry: this is the rotation regime + does not connect cleanly to the chemical MP signature seen in old GCs (see [eMSTO and multiple populations connection](eMSTO%20and%20multiple%20populations%20connection.html)).
 
 ## interpretation
 
@@ -67,27 +64,27 @@ all of these scale with mass. the cleanest statement: **multiple populations are
 
 ## see also
 
-- [Multiple populations in GCs discovery](./Multiple%20populations%20in%20GCs%20discovery.html)
-- [Photometric chromosome maps](./Photometric%20chromosome%20maps.html)
-- [Helium spread in GCs](./Helium%20spread%20in%20GCs.html)
-- [Polluter scenarios for second-generation GC stars](./Polluter%20scenarios%20for%20second-generation%20GC%20stars.html)
-- [GC formation models with MPs](./GC%20formation%20models%20with%20MPs.html)
-- [Type I and Type II GCs](./Type%20I%20and%20Type%20II%20GCs.html)
-- [Multiple populations in extragalactic GCs](./Multiple%20populations%20in%20extragalactic%20GCs.html)
-- [Extended main sequence turn-off eMSTO](./Extended%20main%20sequence%20turn-off%20eMSTO.html)
-- [eMSTO and multiple populations connection](./eMSTO%20and%20multiple%20populations%20connection.html)
+- [Multiple populations in GCs discovery](Multiple%20populations%20in%20GCs%20discovery.html)
+- [Photometric chromosome maps](Photometric%20chromosome%20maps.html)
+- [Helium spread in GCs](Helium%20spread%20in%20GCs.html)
+- [Polluter scenarios for second-generation GC stars](Polluter%20scenarios%20for%20second-generation%20GC%20stars.html)
+- [GC formation models with MPs](GC%20formation%20models%20with%20MPs.html)
+- [Type I and Type II GCs](Type%20I%20and%20Type%20II%20GCs.html)
+- [Multiple populations in extragalactic GCs](Multiple%20populations%20in%20extragalactic%20GCs.html)
+- [Extended main sequence turn-off eMSTO](Extended%20main%20sequence%20turn-off%20eMSTO.html)
+- [eMSTO and multiple populations connection](eMSTO%20and%20multiple%20populations%20connection.html)
 - Magellanic Clouds
-- [Stellar populations I II III](./Stellar%20populations%20I%20II%20III.html)
+- [Stellar populations I II III](Stellar%20populations%20I%20II%20III.html)
 - [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./GC%20formation%20models%20with%20MPs.html" class="backlink-item">GC formation models with MPs</a></li>
-    <li class="backlink-item-wrap"><a href="./Photometric%20chromosome%20maps.html" class="backlink-item">Photometric chromosome maps</a></li>
-    <li class="backlink-item-wrap"><a href="./Polluter%20scenarios%20for%20second-generation%20GC%20stars.html" class="backlink-item">Polluter scenarios for second-generation GC stars</a></li>
+    <li class="backlink-item-wrap"><a href="GC%20formation%20models%20with%20MPs.html" class="backlink-item">GC formation models with MPs</a></li>
+    <li class="backlink-item-wrap"><a href="Photometric%20chromosome%20maps.html" class="backlink-item">Photometric chromosome maps</a></li>
+    <li class="backlink-item-wrap"><a href="Polluter%20scenarios%20for%20second-generation%20GC%20stars.html" class="backlink-item">Polluter scenarios for second-generation GC stars</a></li>
+    <li class="backlink-item-wrap"><a href="Type%20I%20and%20Type%20II%20GCs.html" class="backlink-item">Type I and Type II GCs</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Type%20I%20and%20Type%20II%20GCs.html" class="backlink-item">Type I and Type II GCs</a></li>
   </ul>
 </div>
+

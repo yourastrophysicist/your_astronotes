@@ -2,7 +2,6 @@
 layout: "default"
 title: "Linear least squares"
 ---
-{% raw %}
 # Linear least squares
 
 the standard fitting problem. given $N$ data points $(x_i, y_i)$ and a model $y(x) = \sum_k \theta_k \phi_k(x)$ that is **linear in the parameters $\theta_k$** (note: the $\phi_k$ can be highly non-linear functions of $x$), find the $\theta_k$ that minimize the sum of squared residuals:
@@ -96,7 +95,7 @@ equivalent to scaling each row of $A$ and each $y_i$ by $1/\sigma_i$:
 
 $$A_{ik} \to A_{ik}/\sigma_i, \quad y_i \to y_i/\sigma_i$$
 
-then solve as usual. see [Weighted least squares](./Weighted%20least%20squares.html).
+then solve as usual. see [Weighted least squares](Weighted%20least%20squares.html).
 
 ## diagnostic: plot residuals
 
@@ -118,28 +117,28 @@ never trust a fit without looking at the residuals.
 
 ## see also
 
-- [Weighted least squares](./Weighted%20least%20squares.html)
-- [General linear least squares](./General%20linear%20least%20squares.html)
-- [Polynomial fitting](./Polynomial%20fitting.html)
-- [Goodness of fit and chi-squared](./Goodness%20of%20fit%20and%20chi-squared.html)
-- [QR decomposition](./QR%20decomposition.html)
+- [Weighted least squares](Weighted%20least%20squares.html)
+- [General linear least squares](General%20linear%20least%20squares.html)
+- [Polynomial fitting](Polynomial%20fitting.html)
+- [Goodness of fit and chi-squared](Goodness%20of%20fit%20and%20chi-squared.html)
+- [QR decomposition](QR%20decomposition.html)
 - [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (12)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Derivatives%20of%20noisy%20data.html" class="backlink-item">Derivatives of noisy data</a></li>
-    <li class="backlink-item-wrap"><a href="./Fitting%20practical%20recipe.html" class="backlink-item">Fitting practical recipe</a></li>
-    <li class="backlink-item-wrap"><a href="./General%20linear%20least%20squares.html" class="backlink-item">General linear least squares</a></li>
-    <li class="backlink-item-wrap"><a href="./Goodness%20of%20fit%20and%20chi-squared.html" class="backlink-item">Goodness of fit and chi-squared</a></li>
+    <li class="backlink-item-wrap"><a href="Derivatives%20of%20noisy%20data.html" class="backlink-item">Derivatives of noisy data</a></li>
+    <li class="backlink-item-wrap"><a href="Fitting%20practical%20recipe.html" class="backlink-item">Fitting practical recipe</a></li>
+    <li class="backlink-item-wrap"><a href="General%20linear%20least%20squares.html" class="backlink-item">General linear least squares</a></li>
+    <li class="backlink-item-wrap"><a href="Goodness%20of%20fit%20and%20chi-squared.html" class="backlink-item">Goodness of fit and chi-squared</a></li>
+    <li class="backlink-item-wrap"><a href="Matrix%20inverse%20via%20linear%20systems.html" class="backlink-item">Matrix inverse via linear systems</a></li>
+    <li class="backlink-item-wrap"><a href="Newton-Raphson%20for%20systems%20of%20equations.html" class="backlink-item">Newton-Raphson for systems of equations</a></li>
+    <li class="backlink-item-wrap"><a href="Non-linear%20fitting%20with%20scipy.html" class="backlink-item">Non-linear fitting with scipy</a></li>
+    <li class="backlink-item-wrap"><a href="Polynomial%20fitting.html" class="backlink-item">Polynomial fitting</a></li>
+    <li class="backlink-item-wrap"><a href="QR%20decomposition.html" class="backlink-item">QR decomposition</a></li>
+    <li class="backlink-item-wrap"><a href="Weighted%20least%20squares.html" class="backlink-item">Weighted least squares</a></li>
+    <li class="backlink-item-wrap"><a href="What%20is%20machine%20learning.html" class="backlink-item">What is machine learning</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Matrix%20inverse%20via%20linear%20systems.html" class="backlink-item">Matrix inverse via linear systems</a></li>
-    <li class="backlink-item-wrap"><a href="./Newton-Raphson%20for%20systems%20of%20equations.html" class="backlink-item">Newton-Raphson for systems of equations</a></li>
-    <li class="backlink-item-wrap"><a href="./Non-linear%20fitting%20with%20scipy.html" class="backlink-item">Non-linear fitting with scipy</a></li>
-    <li class="backlink-item-wrap"><a href="./Polynomial%20fitting.html" class="backlink-item">Polynomial fitting</a></li>
-    <li class="backlink-item-wrap"><a href="./QR%20decomposition.html" class="backlink-item">QR decomposition</a></li>
-    <li class="backlink-item-wrap"><a href="./Weighted%20least%20squares.html" class="backlink-item">Weighted least squares</a></li>
-    <li class="backlink-item-wrap"><a href="./What%20is%20machine%20learning.html" class="backlink-item">What is machine learning</a></li>
   </ul>
 </div>
+

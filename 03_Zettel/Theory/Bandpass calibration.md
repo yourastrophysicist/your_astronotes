@@ -2,7 +2,6 @@
 layout: "default"
 title: "Bandpass calibration"
 ---
-{% raw %}
 # Bandpass calibration
 
 flatten the frequency response of each antenna and the receiver chain. the first step (after flagging) in radio data reduction. essential for any spectral-line work and important for continuum.
@@ -108,4 +107,3 @@ a common cause of bad images: incorrect bandpass leaves residual spectral struct
 
 ![Bandpass_calibration.jpg](../../assets/images/Bandpass_calibration.jpg)
 *Interferometric bandpass calibration response curves across frequency channels, correcting instrumental gains and phase variations across the bandwidth.*
-{% endraw %}

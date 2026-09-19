@@ -2,7 +2,6 @@
 layout: "default"
 title: "Large-field versus small-field inflation models"
 ---
-{% raw %}
 # Large-field versus small-field inflation models
 
 > *the classification of inflationary potentials based on whether the inflaton rolls across super-Planckian or sub-Planckian field distances.*
@@ -54,18 +53,17 @@ Here $\Delta\phi \sim \mathcal{O}(\text{few } M_{\rm Pl})$, predicting $r \sim 1
 
 * parent moc: [Cosmology_of_the_Early_Universe_MOC](../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html)
 * related zettels:
-  - [Lyth bound and field excursion](./Lyth%20bound%20and%20field%20excursion.html)
-  - [Starobinsky R-squared inflation](./Starobinsky%20R-squared%20inflation.html)
-  - [Tensor-to-scalar ratio r and inflation energy scale](./Tensor-to-scalar%20ratio%20r%20and%20inflation%20energy%20scale.html)
+  - [Lyth bound and field excursion](Lyth%20bound%20and%20field%20excursion.html)
+  - [Starobinsky R-squared inflation](Starobinsky%20R-squared%20inflation.html)
+  - [Tensor-to-scalar ratio r and inflation energy scale](Tensor-to-scalar%20ratio%20r%20and%20inflation%20energy%20scale.html)
   - [Part2_Inflation_Kinematics_Dynamics_and_Models](../../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part2_Inflation_Kinematics_Dynamics_and_Models.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
+  <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Lyth%20bound%20and%20field%20excursion.html" class="backlink-item">Lyth bound and field excursion</a></li>
+    <li class="backlink-item-wrap"><a href="Starobinsky%20R-squared%20inflation.html" class="backlink-item">Starobinsky R-squared inflation</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html" class="backlink-item">Cosmology_of_the_Early_Universe_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Lyth%20bound%20and%20field%20excursion.html" class="backlink-item">Lyth bound and field excursion</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part2_Inflation_Kinematics_Dynamics_and_Models.html" class="backlink-item">Part2_Inflation_Kinematics_Dynamics_and_Models</a></li>
-    <li class="backlink-item-wrap"><a href="./Starobinsky%20R-squared%20inflation.html" class="backlink-item">Starobinsky R-squared inflation</a></li>
   </ul>
 </div>
+

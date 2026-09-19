@@ -2,7 +2,6 @@
 layout: "default"
 title: "Continuum opacity sources"
 ---
-{% raw %}
 the **continuum opacity** $\kappa_\nu^{\rm cont}$ in stellar atmospheres comes from several physical processes, each dominating at different temperatures and wavelengths. knowing which dominates is essential for understanding why stellar continua have the shapes they do.
 
 ## the major sources
@@ -21,7 +20,7 @@ photon ionises an atom: $X + h\nu \to X^+ + e^-$. requires $h\nu > \chi$, the bi
 each edge produces a **discontinuity** (jump) in the continuum. the **Balmer jump** in A and F stars is a famous diagnostic.
 
 ### free-free (bremsstrahlung)
-photon emitted (or absorbed) when free electron passes near an ion: $e^- + X^+ \to e^- + X^+ + h\nu$. continuous spectrum, $\propto e^{-h\nu/k_BT}$. dominant in **hot ionised gas**: HII regions, hot star coronae, X-ray plasmas. see [Bremsstrahlung](./Bremsstrahlung.html).
+photon emitted (or absorbed) when free electron passes near an ion: $e^- + X^+ \to e^- + X^+ + h\nu$. continuous spectrum, $\propto e^{-h\nu/k_BT}$. dominant in **hot ionised gas**: HII regions, hot star coronae, X-ray plasmas. see [Bremsstrahlung](Bremsstrahlung.html).
 
 ### electron scattering (Thomson)
 electron deflects a photon: $e^- + h\nu \to e^- + h\nu$. cross section $\sigma_T = 6.65 \times 10^{-25}$ cm$^2$, **independent of frequency**. dominant continuum opacity in **hot stars** ($T > 20\,000$ K) where most matter is ionised and there are no bound electrons left to absorb.
@@ -59,34 +58,34 @@ ratios of continuum fluxes at carefully chosen wavelengths (e.g. just blue and r
 
 ## see also
 
-- [Equation of radiative transfer](./Equation%20of%20radiative%20transfer.html)
-- [Optical depth](./Optical%20depth.html)
-- [Source function](./Source%20function.html)
-- [Stellar atmosphere structure](./Stellar%20atmosphere%20structure.html)
-- [Photoelectric absorption](./Photoelectric%20absorption.html)
-- [Bremsstrahlung](./Bremsstrahlung.html)
-- [Bolometric correction and effective temperature](./Bolometric%20correction%20and%20effective%20temperature.html)
-- [Stellar spectra and spectral classification](./Stellar%20spectra%20and%20spectral%20classification.html)
-- [Hydrogen spectral series](./Hydrogen%20spectral%20series.html)
-- [Recombination continuum](./Recombination%20continuum.html)
-- [Free-free continuum](./Free-free%20continuum.html)
-{% endraw %}
+- [Equation of radiative transfer](Equation%20of%20radiative%20transfer.html)
+- [Optical depth](Optical%20depth.html)
+- [Source function](Source%20function.html)
+- [Stellar atmosphere structure](Stellar%20atmosphere%20structure.html)
+- [Photoelectric absorption](Photoelectric%20absorption.html)
+- [Bremsstrahlung](Bremsstrahlung.html)
+- [Bolometric correction and effective temperature](Bolometric%20correction%20and%20effective%20temperature.html)
+- [Stellar spectra and spectral classification](Stellar%20spectra%20and%20spectral%20classification.html)
+- [Hydrogen spectral series](Hydrogen%20spectral%20series.html)
+- [Recombination continuum](Recombination%20continuum.html)
+- [Free-free continuum](Free-free%20continuum.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (13)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Balmer%20continuum.html" class="backlink-item">Balmer continuum</a></li>
+    <li class="backlink-item-wrap"><a href="Eddington-Barbier%20approximation.html" class="backlink-item">Eddington-Barbier approximation</a></li>
+    <li class="backlink-item-wrap"><a href="Equation%20of%20radiative%20transfer.html" class="backlink-item">Equation of radiative transfer</a></li>
+    <li class="backlink-item-wrap"><a href="Free-free%20continuum.html" class="backlink-item">Free-free continuum</a></li>
+    <li class="backlink-item-wrap"><a href="Optical%20depth.html" class="backlink-item">Optical depth</a></li>
+    <li class="backlink-item-wrap"><a href="Recombination%20continuum.html" class="backlink-item">Recombination continuum</a></li>
+    <li class="backlink-item-wrap"><a href="Source%20function.html" class="backlink-item">Source function</a></li>
+    <li class="backlink-item-wrap"><a href="Stark%20broadening.html" class="backlink-item">Stark broadening</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20atmosphere%20structure.html" class="backlink-item">Stellar atmosphere structure</a></li>
+    <li class="backlink-item-wrap"><a href="Thermal%20continuum%20from%20stellar%20photosphere.html" class="backlink-item">Thermal continuum from stellar photosphere</a></li>
+    <li class="backlink-item-wrap"><a href="WDCS%20turn%20to%20blue%20and%20CIA.html" class="backlink-item">WDCS turn to blue and CIA</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Balmer%20continuum.html" class="backlink-item">Balmer continuum</a></li>
-    <li class="backlink-item-wrap"><a href="./Eddington-Barbier%20approximation.html" class="backlink-item">Eddington-Barbier approximation</a></li>
-    <li class="backlink-item-wrap"><a href="./Equation%20of%20radiative%20transfer.html" class="backlink-item">Equation of radiative transfer</a></li>
-    <li class="backlink-item-wrap"><a href="./Free-free%20continuum.html" class="backlink-item">Free-free continuum</a></li>
-    <li class="backlink-item-wrap"><a href="./Optical%20depth.html" class="backlink-item">Optical depth</a></li>
-    <li class="backlink-item-wrap"><a href="./Recombination%20continuum.html" class="backlink-item">Recombination continuum</a></li>
-    <li class="backlink-item-wrap"><a href="./Source%20function.html" class="backlink-item">Source function</a></li>
-    <li class="backlink-item-wrap"><a href="./Stark%20broadening.html" class="backlink-item">Stark broadening</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20atmosphere%20structure.html" class="backlink-item">Stellar atmosphere structure</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Thermal%20continuum%20from%20stellar%20photosphere.html" class="backlink-item">Thermal continuum from stellar photosphere</a></li>
-    <li class="backlink-item-wrap"><a href="./WDCS%20turn%20to%20blue%20and%20CIA.html" class="backlink-item">WDCS turn to blue and CIA</a></li>
   </ul>
 </div>
+

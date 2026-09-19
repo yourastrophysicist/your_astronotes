@@ -2,7 +2,6 @@
 layout: "default"
 title: "Floating point representation and rounding errors"
 ---
-{% raw %}
 # Floating point representation and rounding errors
 
 a computer cannot store $\pi$. a computer cannot store $1/3$. a computer cannot even store $0.1$. it stores a *finite-precision approximation* of every real number, and the gap between the real number and the stored number is the source of every weird error in numerical code.
@@ -101,9 +100,9 @@ def isclose(a, b, rtol=1e-12, atol=1e-15):
 
 ## see also
 
-- [Truncation error and order of accuracy](./Truncation%20error%20and%20order%20of%20accuracy.html) — the *other* error type
-- [Roundoff vs truncation balance](./Roundoff%20vs%20truncation%20balance.html) — the U-curve, optimal step size
-- [Computational complexity and speed](./Computational%20complexity%20and%20speed.html)
+- [Truncation error and order of accuracy](Truncation%20error%20and%20order%20of%20accuracy.html) — the *other* error type
+- [Roundoff vs truncation balance](Roundoff%20vs%20truncation%20balance.html) — the U-curve, optimal step size
+- [Computational complexity and speed](Computational%20complexity%20and%20speed.html)
 - [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
 
 ---
@@ -116,14 +115,14 @@ def isclose(a, b, rtol=1e-12, atol=1e-15):
 
 ![mnm_exam_2026_09_01_p1.png](../../assets/images/mnm_exam_2026_09_01_p1.png)
 *Official Exam Paper: Machine precision $\epsilon_{\rm mach}$, roundoff vs truncation error trade-off, and optimal step size determination.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Optimal%20step%20size%20for%20derivatives.html" class="backlink-item">Optimal step size for derivatives</a></li>
+    <li class="backlink-item-wrap"><a href="Roundoff%20vs%20truncation%20balance.html" class="backlink-item">Roundoff vs truncation balance</a></li>
+    <li class="backlink-item-wrap"><a href="Truncation%20error%20and%20order%20of%20accuracy.html" class="backlink-item">Truncation error and order of accuracy</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Optimal%20step%20size%20for%20derivatives.html" class="backlink-item">Optimal step size for derivatives</a></li>
-    <li class="backlink-item-wrap"><a href="./Roundoff%20vs%20truncation%20balance.html" class="backlink-item">Roundoff vs truncation balance</a></li>
-    <li class="backlink-item-wrap"><a href="./Truncation%20error%20and%20order%20of%20accuracy.html" class="backlink-item">Truncation error and order of accuracy</a></li>
   </ul>
 </div>
+

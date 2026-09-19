@@ -2,7 +2,6 @@
 layout: "default"
 title: "Imaging artifacts"
 ---
-{% raw %}
 # Imaging artifacts
 
 the visual signatures of imperfect interferometric data, calibration, or deconvolution. recognizing artifacts is half of interpreting an interferometric image. each artifact has a distinct cause and a specific fix.
@@ -108,21 +107,21 @@ best practices:
 
 ## see also
 
-- [CLEAN algorithm](./CLEAN%20algorithm.html)
-- [Calibration overview](./Calibration%20overview.html)
-- [Dirty beam and dirty image](./Dirty%20beam%20and%20dirty%20image.html)
-- [Self-calibration](./Self-calibration.html)
+- [CLEAN algorithm](CLEAN%20algorithm.html)
+- [Calibration overview](Calibration%20overview.html)
+- [Dirty beam and dirty image](Dirty%20beam%20and%20dirty%20image.html)
+- [Self-calibration](Self-calibration.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (6)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./CLEAN%20algorithm.html" class="backlink-item">CLEAN algorithm</a></li>
     <li class="backlink-item-wrap"><a href="../CLEAN%20algorithm.html" class="backlink-item">CLEAN algorithm</a></li>
-    <li class="backlink-item-wrap"><a href="./Dirty%20beam%20and%20dirty%20image.html" class="backlink-item">Dirty beam and dirty image</a></li>
     <li class="backlink-item-wrap"><a href="../Dirty%20beam%20and%20dirty%20image.html" class="backlink-item">Dirty beam and dirty image</a></li>
     <li class="backlink-item-wrap"><a href="../Polarization%20in%20interferometry.html" class="backlink-item">Polarization in interferometry</a></li>
+    <li class="backlink-item-wrap"><a href="CLEAN%20algorithm.html" class="backlink-item">CLEAN algorithm</a></li>
+    <li class="backlink-item-wrap"><a href="Dirty%20beam%20and%20dirty%20image.html" class="backlink-item">Dirty beam and dirty image</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

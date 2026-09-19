@@ -2,7 +2,6 @@
 layout: "default"
 title: "Decision tree classifier"
 ---
-{% raw %}
 # Decision tree classifier
 
 Mapelli's notes close with a one-chapter sketch of machine learning. the gateway algorithm is the decision tree: a sequence of yes/no questions about features, ending in a class prediction at each leaf.
@@ -143,18 +142,18 @@ is enough.
 
 ## see also
 
-- [What is machine learning](./What%20is%20machine%20learning.html)
-- [Iris dataset and the ML hello world](./Iris%20dataset%20and%20the%20ML%20hello%20world.html)
-- [Interpretability vs accuracy in ML](./Interpretability%20vs%20accuracy%20in%20ML.html)
+- [What is machine learning](What%20is%20machine%20learning.html)
+- [Iris dataset and the ML hello world](Iris%20dataset%20and%20the%20ML%20hello%20world.html)
+- [Interpretability vs accuracy in ML](Interpretability%20vs%20accuracy%20in%20ML.html)
 - [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Interpretability%20vs%20accuracy%20in%20ML.html" class="backlink-item">Interpretability vs accuracy in ML</a></li>
-    <li class="backlink-item-wrap"><a href="./Iris%20dataset%20and%20the%20ML%20hello%20world.html" class="backlink-item">Iris dataset and the ML hello world</a></li>
+    <li class="backlink-item-wrap"><a href="Interpretability%20vs%20accuracy%20in%20ML.html" class="backlink-item">Interpretability vs accuracy in ML</a></li>
+    <li class="backlink-item-wrap"><a href="Iris%20dataset%20and%20the%20ML%20hello%20world.html" class="backlink-item">Iris dataset and the ML hello world</a></li>
+    <li class="backlink-item-wrap"><a href="What%20is%20machine%20learning.html" class="backlink-item">What is machine learning</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./What%20is%20machine%20learning.html" class="backlink-item">What is machine learning</a></li>
   </ul>
 </div>
+

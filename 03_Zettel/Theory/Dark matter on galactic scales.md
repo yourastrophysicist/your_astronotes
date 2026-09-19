@@ -2,7 +2,6 @@
 layout: "default"
 title: "Dark matter on galactic scales"
 ---
-{% raw %}
 one of the most consequential discoveries of 20th-century astrophysics is that the luminous matter (stars, gas, and dust) in galaxies is only a minor trace component of their total mass. the dynamics of spiral galaxies are overwhelmingly dominated by an invisible, non-baryonic component: **dark matter**.
 
 ![milkyway-34.png](../../assets/images/milkyway-34.png)
@@ -64,22 +63,19 @@ the Milky Way's visible disk is merely a tiny baryonic nugget sitting at the gra
 ## see also
 
 - [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Spiral arm kinematics](./Spiral%20arm%20kinematics.html)
-- [Milky Way structure](./Milky%20Way%20structure.html)
-- [Cosmic_inventory_dark_matter](./Cosmic_inventory_dark_matter.html)
-- [Galaxy morphology vs physical properties](./Galaxy%20morphology%20vs%20physical%20properties.html)
-- [Cosmic_inventory_overview](./Cosmic_inventory_overview.html)
-{% endraw %}
+- [Spiral arm kinematics](Spiral%20arm%20kinematics.html)
+- [Milky Way structure](Milky%20Way%20structure.html)
+- [Cosmic_inventory_dark_matter](Cosmic_inventory_dark_matter.html)
+- [Galaxy morphology vs physical properties](Galaxy%20morphology%20vs%20physical%20properties.html)
+- [Cosmic_inventory_overview](Cosmic_inventory_overview.html)
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
+  <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Bullet%20Cluster%20and%20dark%20matter%20mapping.html" class="backlink-item">Bullet Cluster and dark matter mapping</a></li>
-    <li class="backlink-item-wrap"><a href="./Coma%20cluster.html" class="backlink-item">Coma cluster</a></li>
+    <li class="backlink-item-wrap"><a href="Galactic%20coordinate%20system.html" class="backlink-item">Galactic coordinate system</a></li>
+    <li class="backlink-item-wrap"><a href="Milky%20Way%20structure.html" class="backlink-item">Milky Way structure</a></li>
+    <li class="backlink-item-wrap"><a href="Spiral%20arm%20kinematics.html" class="backlink-item">Spiral arm kinematics</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Galactic%20coordinate%20system.html" class="backlink-item">Galactic coordinate system</a></li>
-    <li class="backlink-item-wrap"><a href="./Galaxy%20morphology%20vs%20physical%20properties.html" class="backlink-item">Galaxy morphology vs physical properties</a></li>
-    <li class="backlink-item-wrap"><a href="./Milky%20Way%20structure.html" class="backlink-item">Milky Way structure</a></li>
-    <li class="backlink-item-wrap"><a href="./Spiral%20arm%20kinematics.html" class="backlink-item">Spiral arm kinematics</a></li>
   </ul>
 </div>
+

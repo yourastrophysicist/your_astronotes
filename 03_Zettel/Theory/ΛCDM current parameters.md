@@ -2,7 +2,6 @@
 layout: "default"
 title: "ΛCDM current parameters"
 ---
-{% raw %}
 # standard lcdm parameters
 
 up: [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html) · [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
@@ -38,32 +37,31 @@ This discrepancy with Planck CMB results exceeds $5\sigma$ significance, represe
 
 ## connections
 
-- thermal context: [Brief thermal history](./Brief%20thermal%20history.html), [CMB power spectrum](./CMB%20power%20spectrum.html)
-- distances: [Supernova Hubble diagram](./Supernova%20Hubble%20diagram.html), [Distance ladder derivations](./Distance%20ladder%20derivations.html)
-{% endraw %}
+- thermal context: [Brief thermal history](Brief%20thermal%20history.html), [CMB power spectrum](CMB%20power%20spectrum.html)
+- distances: [Supernova Hubble diagram](Supernova%20Hubble%20diagram.html), [Distance ladder derivations](Distance%20ladder%20derivations.html)
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (20)</h4>
+  <h4 class="backlinks-title">Linked References (19)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Big%20Bang%20nucleosynthesis.html" class="backlink-item">Big Bang nucleosynthesis</a></li>
-    <li class="backlink-item-wrap"><a href="./CMB%20anisotropies.html" class="backlink-item">CMB anisotropies</a></li>
-    <li class="backlink-item-wrap"><a href="./CMB%20power%20spectrum.html" class="backlink-item">CMB power spectrum</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Book/Baumann%20GR/Ch%207%20-%20Cosmology.html" class="backlink-item">Ch 7 - Cosmology</a></li>
-    <li class="backlink-item-wrap"><a href="./Cosmological%20inflation.html" class="backlink-item">Cosmological inflation</a></li>
-    <li class="backlink-item-wrap"><a href="./Cosmology%20calculator%20-%20how%20to%20use%20H0%20Omega_m%20Omega_Lambda%20to%20get%20dL%20dA%20t_lookback.html" class="backlink-item">Cosmology calculator - how to use H0 Omega_m Omega_Lambda to get dL dA t_lookback</a></li>
-    <li class="backlink-item-wrap"><a href="./Curvature-dynamics%20relation.html" class="backlink-item">Curvature-dynamics relation</a></li>
-    <li class="backlink-item-wrap"><a href="./Deceleration%20parameter.html" class="backlink-item">Deceleration parameter</a></li>
-    <li class="backlink-item-wrap"><a href="./Density%20parameters.html" class="backlink-item">Density parameters</a></li>
-    <li class="backlink-item-wrap"><a href="./Intergalactic%20medium.html" class="backlink-item">Intergalactic medium</a></li>
-    <li class="backlink-item-wrap"><a href="./Lensing%20as%20a%20cosmological%20probe.html" class="backlink-item">Lensing as a cosmological probe</a></li>
-    <li class="backlink-item-wrap"><a href="./Lyman-alpha%20forest.html" class="backlink-item">Lyman-alpha forest</a></li>
-    <li class="backlink-item-wrap"><a href="./MOND.html" class="backlink-item">MOND</a></li>
-    <li class="backlink-item-wrap"><a href="./Missing%20baryons.html" class="backlink-item">Missing baryons</a></li>
+    <li class="backlink-item-wrap"><a href="Big%20Bang%20nucleosynthesis.html" class="backlink-item">Big Bang nucleosynthesis</a></li>
+    <li class="backlink-item-wrap"><a href="CMB%20anisotropies.html" class="backlink-item">CMB anisotropies</a></li>
+    <li class="backlink-item-wrap"><a href="CMB%20power%20spectrum.html" class="backlink-item">CMB power spectrum</a></li>
+    <li class="backlink-item-wrap"><a href="Cosmological%20inflation.html" class="backlink-item">Cosmological inflation</a></li>
+    <li class="backlink-item-wrap"><a href="Cosmology%20calculator%20-%20how%20to%20use%20H0%20Omega_m%20Omega_Lambda%20to%20get%20dL%20dA%20t_lookback.html" class="backlink-item">Cosmology calculator - how to use H0 Omega_m Omega_Lambda to get dL dA t_lookback</a></li>
+    <li class="backlink-item-wrap"><a href="Curvature-dynamics%20relation.html" class="backlink-item">Curvature-dynamics relation</a></li>
+    <li class="backlink-item-wrap"><a href="Deceleration%20parameter.html" class="backlink-item">Deceleration parameter</a></li>
+    <li class="backlink-item-wrap"><a href="Density%20parameters.html" class="backlink-item">Density parameters</a></li>
+    <li class="backlink-item-wrap"><a href="Intergalactic%20medium.html" class="backlink-item">Intergalactic medium</a></li>
+    <li class="backlink-item-wrap"><a href="Lensing%20as%20a%20cosmological%20probe.html" class="backlink-item">Lensing as a cosmological probe</a></li>
+    <li class="backlink-item-wrap"><a href="Lyman-alpha%20forest.html" class="backlink-item">Lyman-alpha forest</a></li>
+    <li class="backlink-item-wrap"><a href="MOND.html" class="backlink-item">MOND</a></li>
+    <li class="backlink-item-wrap"><a href="Missing%20baryons.html" class="backlink-item">Missing baryons</a></li>
+    <li class="backlink-item-wrap"><a href="Polarization%20E%20and%20B%20modes.html" class="backlink-item">Polarization E and B modes</a></li>
+    <li class="backlink-item-wrap"><a href="Reionization.html" class="backlink-item">Reionization</a></li>
+    <li class="backlink-item-wrap"><a href="Strong%20vs%20weak%20lensing.html" class="backlink-item">Strong vs weak lensing</a></li>
+    <li class="backlink-item-wrap"><a href="Transition%20epochs.html" class="backlink-item">Transition epochs</a></li>
+    <li class="backlink-item-wrap"><a href="Various%20models%20of%20the%20universe.html" class="backlink-item">Various models of the universe</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Polarization%20E%20and%20B%20modes.html" class="backlink-item">Polarization E and B modes</a></li>
-    <li class="backlink-item-wrap"><a href="./Reionization.html" class="backlink-item">Reionization</a></li>
-    <li class="backlink-item-wrap"><a href="./Strong%20vs%20weak%20lensing.html" class="backlink-item">Strong vs weak lensing</a></li>
-    <li class="backlink-item-wrap"><a href="./Transition%20epochs.html" class="backlink-item">Transition epochs</a></li>
-    <li class="backlink-item-wrap"><a href="./Various%20models%20of%20the%20universe.html" class="backlink-item">Various models of the universe</a></li>
   </ul>
 </div>
+

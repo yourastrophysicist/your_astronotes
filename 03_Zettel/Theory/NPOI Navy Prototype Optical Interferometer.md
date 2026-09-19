@@ -2,7 +2,6 @@
 layout: "default"
 title: "NPOI Navy Prototype Optical Interferometer"
 ---
-{% raw %}
 # NPOI Navy Prototype Optical Interferometer
 
 a U.S. Navy / USNO interferometer at Anderson Mesa, Arizona. designed for **astrometry** (precise position measurement of bright stars) and **imaging**. operated since 1996 with multiple telescope upgrades.
@@ -61,4 +60,3 @@ these would push NPOI back toward the cutting edge of imaging.
 - [CHARA array](interf/CHARA%20array.html)
 - [Stellar diameters and limb darkening](interf/Stellar%20diameters%20and%20limb%20darkening.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

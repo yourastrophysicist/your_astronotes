@@ -1,12 +1,8 @@
 ---
 layout: "default"
 title: "Plane waves and Huygens principle"
-type: "zettel"
-created: "2026-08-04"
-moc: ""
 tags: ""
 ---
-{% raw %}
 > *every point on a wavefront acts as a secondary source, allowing us to build up complex wave propagation from simple spherical wavelets*
 
 ---
@@ -14,7 +10,7 @@ tags: ""
 ## core physical intuition
 
 When light travels through space, we can imagine the wavefront (the surface of constant phase) as a collection of tiny, secondary sources. According to Huygens' principle, each of these points emits its own spherical wavelet. The new wavefront at any later time is simply the envelope of all these overlapping secondary wavelets.
-![Animation of a 3D plane wave. Each color represents a different phase of the wave.](../../assets/images/Plane_Wave_3D_Animation_300x216_255Colors%201.gif)
+![Animation of a 3D plane wave. Each color represents a different phase of the wave.](../../assets/images/Plane_Wave_3D_Animation_300x216_255Colors%25201.gif)
 
 This simple geometric idea perfectly explains why light doesn't just travel in straight rays but bends around obstacles (diffraction). In the context of a plane wave, all the points on a flat wavefront emit wavelets that constructively interfere in the forward direction to maintain the flat shape. When a plane wave hits a telescope array, Huygens' principle guarantees that each separated aperture is sampling a localized portion of that same, continuous wavefront.
 
@@ -52,4 +48,3 @@ This principle is the bedrock of interferometry. When starlight arrives at Earth
 
 * parent moc: [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
 * related zettels: [Light waves and the EM spectrum](interf/Light%20waves%20and%20the%20EM%20spectrum.html), [Superposition and interference](interf/Superposition%20and%20interference.html), [Fraunhofer diffraction](interf/Fraunhofer%20diffraction.html)
-{% endraw %}

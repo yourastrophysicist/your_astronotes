@@ -2,7 +2,6 @@
 layout: "default"
 title: "Exposure Time Smearing in Transit Photometry"
 ---
-{% raw %}
 # Exposure Time Smearing in Transit Photometry
 
 Finite exposure integration times cause transit light curves to deform systematically, averaging flux across rapidly changing orbital phases.
@@ -23,13 +22,12 @@ Typically, $N_{\text{sub}} = 5?7$ sub-samples completely eliminates exposure sme
 ## Related Notes
 - [Transit Modeling with batman](../Computational/Transit%20Modeling%20with%20batman.html)
 - [Malavolta 11 - Transit Geometry and Analytical Light Curve Modeling](../../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2011%20-%20Transit%20Geometry%20and%20Analytical%20Light%20Curve%20Modeling.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
+  <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2011%20-%20Transit%20Geometry%20and%20Analytical%20Light%20Curve%20Modeling.html" class="backlink-item">Malavolta 11 - Transit Geometry and Analytical Light Curve Modeling</a></li>
     <li class="backlink-item-wrap"><a href="../Computational/Transit%20Modeling%20with%20batman.html" class="backlink-item">Transit Modeling with batman</a></li>
+    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
   </ul>
 </div>
+

@@ -2,7 +2,6 @@
 layout: "default"
 title: "Mosaicking"
 ---
-{% raw %}
 # Mosaicking
 
 combining multiple pointings into a single image larger than the primary beam of any single antenna. the technique that lets us map extended fields (galaxies, supernova remnants, ISM) with high-resolution interferometers whose primary beams are narrow.
@@ -116,4 +115,3 @@ modern interferometric astronomy without mosaicking would be limited to compact,
 - [Calibration overview](interf/Calibration%20overview.html)
 - [Major radio interferometers](interf/Major%20radio%20interferometers.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

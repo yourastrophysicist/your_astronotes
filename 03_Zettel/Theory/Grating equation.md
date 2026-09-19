@@ -2,7 +2,6 @@
 layout: "default"
 title: "Grating equation"
 ---
-{% raw %}
 the workhorse equation of every spectrograph. relates the diffraction angle $\theta$, the incidence angle $i$, the groove spacing $d = 1/\rho$, the wavelength $\lambda$, and the diffraction order $m$.
 
 ## the general form
@@ -49,16 +48,16 @@ at high $m$ (echelle), the FSR is small and orders pile up densely; needs a cros
 
 ## blaze
 
-the diffraction efficiency peaks where the grating's single-slit envelope is centred on the chosen order. a **blazed grating** (sawtooth groove profile) is engineered so the envelope peaks at a chosen wavelength in a chosen order, the **blaze wavelength** $\lambda_B$. see [Blazed gratings](./Blazed%20gratings.html).
+the diffraction efficiency peaks where the grating's single-slit envelope is centred on the chosen order. a **blazed grating** (sawtooth groove profile) is engineered so the envelope peaks at a chosen wavelength in a chosen order, the **blaze wavelength** $\lambda_B$. see [Blazed gratings](Blazed%20gratings.html).
 
 ## see also
 
-- [Single slit diffraction](./Single%20slit%20diffraction.html)
-- [N-slit interference and gratings](./N-slit%20interference%20and%20gratings.html)
-- [Blazed gratings](./Blazed%20gratings.html)
-- [Dispersion and spectral resolution](./Dispersion%20and%20spectral%20resolution.html)
-- [Spectrograph design](./Spectrograph%20design.html)
-- [Echelle spectroscopy](./Echelle%20spectroscopy.html)
+- [Single slit diffraction](Single%20slit%20diffraction.html)
+- [N-slit interference and gratings](N-slit%20interference%20and%20gratings.html)
+- [Blazed gratings](Blazed%20gratings.html)
+- [Dispersion and spectral resolution](Dispersion%20and%20spectral%20resolution.html)
+- [Spectrograph design](Spectrograph%20design.html)
+- [Echelle spectroscopy](Echelle%20spectroscopy.html)
 
 ---
 
@@ -70,18 +69,18 @@ the diffraction efficiency peaks where the grating's single-slit envelope is cen
 
 ![spec_optics_p08.png](../../assets/images/spec_optics_p08.png)
 *Angular dispersion $\frac{d\beta}{d\lambda} = \frac{m}{d\cos\beta}$ and linear reciprocal dispersion $P = \frac{d\lambda}{dx} = \frac{d\cos\beta}{m f_{\rm cam}}$ at the detector plane.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (8)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Blazed%20gratings.html" class="backlink-item">Blazed gratings</a></li>
+    <li class="backlink-item-wrap"><a href="Dispersion%20and%20spectral%20resolution.html" class="backlink-item">Dispersion and spectral resolution</a></li>
+    <li class="backlink-item-wrap"><a href="Echelle%20spectroscopy.html" class="backlink-item">Echelle spectroscopy</a></li>
+    <li class="backlink-item-wrap"><a href="N-slit%20interference%20and%20gratings.html" class="backlink-item">N-slit interference and gratings</a></li>
+    <li class="backlink-item-wrap"><a href="Single%20slit%20diffraction.html" class="backlink-item">Single slit diffraction</a></li>
+    <li class="backlink-item-wrap"><a href="Spectrograph%20design.html" class="backlink-item">Spectrograph design</a></li>
+    <li class="backlink-item-wrap"><a href="Spectrograph%20types.html" class="backlink-item">Spectrograph types</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Blazed%20gratings.html" class="backlink-item">Blazed gratings</a></li>
-    <li class="backlink-item-wrap"><a href="./Dispersion%20and%20spectral%20resolution.html" class="backlink-item">Dispersion and spectral resolution</a></li>
-    <li class="backlink-item-wrap"><a href="./Echelle%20spectroscopy.html" class="backlink-item">Echelle spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="./N-slit%20interference%20and%20gratings.html" class="backlink-item">N-slit interference and gratings</a></li>
-    <li class="backlink-item-wrap"><a href="./Single%20slit%20diffraction.html" class="backlink-item">Single slit diffraction</a></li>
-    <li class="backlink-item-wrap"><a href="./Spectrograph%20design.html" class="backlink-item">Spectrograph design</a></li>
-    <li class="backlink-item-wrap"><a href="./Spectrograph%20types.html" class="backlink-item">Spectrograph types</a></li>
   </ul>
 </div>
+

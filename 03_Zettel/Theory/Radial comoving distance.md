@@ -2,7 +2,6 @@
 layout: "default"
 title: "Radial comoving distance"
 ---
-{% raw %}
 the **radial comoving distance** $d_C(z)$ is the line-of-sight integral $c\int dz'/H(z')$. it's the most fundamental cosmological distance: every other distance ($d_L$, $d_A$) is built from it.
 
 ## the formula
@@ -53,27 +52,27 @@ for non-flat universes, replace $d_C$ in $d_L, d_A$ with the **transverse comovi
 ## see also
 
 - 03_Zettel/Theory/Cosmological distances
-- [Comoving vs proper coordinates](./Comoving%20vs%20proper%20coordinates.html)
-- [Angular diameter distance](./Angular%20diameter%20distance.html)
-- [Luminosity distance](./Luminosity%20distance.html)
-- [FLRW metric](./FLRW%20metric.html)
-- [Friedmann equations](./Friedmann%20equations.html)
-- [Hubble law](./Hubble%20law.html)
-- [Time-redshift relation](./Time-redshift%20relation.html)
+- [Comoving vs proper coordinates](Comoving%20vs%20proper%20coordinates.html)
+- [Angular diameter distance](Angular%20diameter%20distance.html)
+- [Luminosity distance](Luminosity%20distance.html)
+- [FLRW metric](FLRW%20metric.html)
+- [Friedmann equations](Friedmann%20equations.html)
+- [Hubble law](Hubble%20law.html)
+- [Time-redshift relation](Time-redshift%20relation.html)
 - [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (9)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Angular%20diameter%20distance.html" class="backlink-item">Angular diameter distance</a></li>
-    <li class="backlink-item-wrap"><a href="./Comoving%20vs%20proper%20coordinates.html" class="backlink-item">Comoving vs proper coordinates</a></li>
-    <li class="backlink-item-wrap"><a href="./Cosmological%20redshift.html" class="backlink-item">Cosmological redshift</a></li>
-    <li class="backlink-item-wrap"><a href="./Distance%20ladder%20derivations.html" class="backlink-item">Distance ladder derivations</a></li>
-    <li class="backlink-item-wrap"><a href="./Galaxy%20number%20counts%20N%28m%29.html" class="backlink-item">Galaxy number counts N(m)</a></li>
-    <li class="backlink-item-wrap"><a href="./Luminosity%20distance.html" class="backlink-item">Luminosity distance</a></li>
+    <li class="backlink-item-wrap"><a href="Angular%20diameter%20distance.html" class="backlink-item">Angular diameter distance</a></li>
+    <li class="backlink-item-wrap"><a href="Comoving%20vs%20proper%20coordinates.html" class="backlink-item">Comoving vs proper coordinates</a></li>
+    <li class="backlink-item-wrap"><a href="Cosmological%20redshift.html" class="backlink-item">Cosmological redshift</a></li>
+    <li class="backlink-item-wrap"><a href="Distance%20ladder%20derivations.html" class="backlink-item">Distance ladder derivations</a></li>
+    <li class="backlink-item-wrap"><a href="Galaxy%20number%20counts%20N%28m%29.html" class="backlink-item">Galaxy number counts N(m)</a></li>
+    <li class="backlink-item-wrap"><a href="Luminosity%20distance.html" class="backlink-item">Luminosity distance</a></li>
+    <li class="backlink-item-wrap"><a href="Surface%20brightness%20dimming.html" class="backlink-item">Surface brightness dimming</a></li>
+    <li class="backlink-item-wrap"><a href="Time-redshift%20relation.html" class="backlink-item">Time-redshift relation</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Surface%20brightness%20dimming.html" class="backlink-item">Surface brightness dimming</a></li>
-    <li class="backlink-item-wrap"><a href="./Time-redshift%20relation.html" class="backlink-item">Time-redshift relation</a></li>
   </ul>
 </div>
+

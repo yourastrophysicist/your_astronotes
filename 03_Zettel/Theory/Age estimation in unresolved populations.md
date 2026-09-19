@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Age estimation in unresolved populations"
-name: "Age estimation in unresolved populations"
-description: "Methodologies and physical indicators for dating unresolved stellar systems, contrasting luminosity-weighted and mass-weighted ages across cosmic time."
 ---
-{% raw %}
 in unresolved galaxies, individual stars and the main-sequence turnoff cannot be resolved. The "age" of such a system is inherently statistical: real galaxies undergo extended star formation histories $\psi(t)$, creating a composite mixture of multiple stellar generations. Inferring age requires spectroscopic features and spectral energy distributions, which are subject to the **outshining effect** and the fundamental distinction between **luminosity-weighted** and **mass-weighted** ages.
 
 ---
@@ -71,27 +68,27 @@ measuring the stellar ages of quiescent galaxies across cosmic time reveals the 
 
 - [Observational_Astrophysics_MOC](../../04_Atlas/Observational_Astrophysics_MOC.html)
 - [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
-- [Stellar population synthesis](./Stellar%20population%20synthesis.html)
-- [Single stellar population SSP](./Single%20stellar%20population%20SSP.html)
-- [Lick indices](./Lick%20indices.html)
-- [Age-metallicity degeneracy](./Age-metallicity%20degeneracy.html)
-- [Stellar mass estimation in unresolved populations](./Stellar%20mass%20estimation%20in%20unresolved%20populations.html)
-- [Star formation history of a population](./Star%20formation%20history%20of%20a%20population.html)
-- [Cluster ages from CMD turnoff](./Cluster%20ages%20from%20CMD%20turnoff.html)
-- [SED fitting basics](./SED%20fitting%20basics.html)
-- [Stellar populations I II III](./Stellar%20populations%20I%20II%20III.html)
-{% endraw %}
+- [Stellar population synthesis](Stellar%20population%20synthesis.html)
+- [Single stellar population SSP](Single%20stellar%20population%20SSP.html)
+- [Lick indices](Lick%20indices.html)
+- [Age-metallicity degeneracy](Age-metallicity%20degeneracy.html)
+- [Stellar mass estimation in unresolved populations](Stellar%20mass%20estimation%20in%20unresolved%20populations.html)
+- [Star formation history of a population](Star%20formation%20history%20of%20a%20population.html)
+- [Cluster ages from CMD turnoff](Cluster%20ages%20from%20CMD%20turnoff.html)
+- [SED fitting basics](SED%20fitting%20basics.html)
+- [Stellar populations I II III](Stellar%20populations%20I%20II%20III.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (8)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Age-metallicity%20degeneracy.html" class="backlink-item">Age-metallicity degeneracy</a></li>
-    <li class="backlink-item-wrap"><a href="./Dust%20attenuation%20in%20synthetic%20populations.html" class="backlink-item">Dust attenuation in synthetic populations</a></li>
-    <li class="backlink-item-wrap"><a href="./Lick%20indices.html" class="backlink-item">Lick indices</a></li>
-    <li class="backlink-item-wrap"><a href="./Resolved%20vs%20unresolved%20stellar%20populations.html" class="backlink-item">Resolved vs unresolved stellar populations</a></li>
-    <li class="backlink-item-wrap"><a href="./SED%20fitting%20basics.html" class="backlink-item">SED fitting basics</a></li>
-    <li class="backlink-item-wrap"><a href="./Star%20formation%20history%20of%20a%20population.html" class="backlink-item">Star formation history of a population</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20mass%20estimation%20in%20unresolved%20populations.html" class="backlink-item">Stellar mass estimation in unresolved populations</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20population%20synthesis.html" class="backlink-item">Stellar population synthesis</a></li>
+    <li class="backlink-item-wrap"><a href="Age-metallicity%20degeneracy.html" class="backlink-item">Age-metallicity degeneracy</a></li>
+    <li class="backlink-item-wrap"><a href="Dust%20attenuation%20in%20synthetic%20populations.html" class="backlink-item">Dust attenuation in synthetic populations</a></li>
+    <li class="backlink-item-wrap"><a href="Lick%20indices.html" class="backlink-item">Lick indices</a></li>
+    <li class="backlink-item-wrap"><a href="Resolved%20vs%20unresolved%20stellar%20populations.html" class="backlink-item">Resolved vs unresolved stellar populations</a></li>
+    <li class="backlink-item-wrap"><a href="SED%20fitting%20basics.html" class="backlink-item">SED fitting basics</a></li>
+    <li class="backlink-item-wrap"><a href="Star%20formation%20history%20of%20a%20population.html" class="backlink-item">Star formation history of a population</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20mass%20estimation%20in%20unresolved%20populations.html" class="backlink-item">Stellar mass estimation in unresolved populations</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20population%20synthesis.html" class="backlink-item">Stellar population synthesis</a></li>
   </ul>
 </div>
+

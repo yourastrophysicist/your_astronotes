@@ -2,7 +2,6 @@
 layout: "default"
 title: "The conda environment"
 ---
-{% raw %}
 # The conda environment
 
 conda is python's environment manager. it lets me have one isolated python installation per project, each with its own version of numpy, scipy, etc. the alternative is the chaos of "everything in the system python" — works for a week, breaks the moment two projects need different package versions.
@@ -118,16 +117,16 @@ git add environment.yml; git commit -m "add scikit-learn"
 
 ## see also
 
-- [Linux for the astrophysicist](./Linux%20for%20the%20astrophysicist.html)
-- [Python language essentials](./Python%20language%20essentials.html)
+- [Linux for the astrophysicist](Linux%20for%20the%20astrophysicist.html)
+- [Python language essentials](Python%20language%20essentials.html)
 - [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Linux%20for%20the%20astrophysicist.html" class="backlink-item">Linux for the astrophysicist</a></li>
+    <li class="backlink-item-wrap"><a href="Linux%20for%20the%20astrophysicist.html" class="backlink-item">Linux for the astrophysicist</a></li>
+    <li class="backlink-item-wrap"><a href="Python%20language%20essentials.html" class="backlink-item">Python language essentials</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Python%20language%20essentials.html" class="backlink-item">Python language essentials</a></li>
   </ul>
 </div>
+

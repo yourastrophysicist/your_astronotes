@@ -2,7 +2,6 @@
 layout: "default"
 title: "Hubble flow distances"
 ---
-{% raw %}
 at $z \gtrsim 0.01$, peculiar velocities are small compared to cosmic recession, and **Hubble's law** $v = H_0 d$ becomes the dominant relation between redshift and distance. this is the top rung of the distance ladder. answer to `obs2.pdf` part 3.
 
 ## the redshift definition
@@ -16,7 +15,7 @@ at small $z$, $v \approx cz$ (low-velocity Doppler). example: $H\alpha$ rest at 
 
 $$v = H_0\, d \quad\Rightarrow\quad d \approx \frac{cz}{H_0}$$
 
-with current values $H_0 \approx 67$ to $73$ km/s/Mpc (a $\sim 7\%$ tension; see [Cepheid period-luminosity relation](./Cepheid%20period-luminosity%20relation.html) and [Type Ia supernovae as standard candles](./Type%20Ia%20supernovae%20as%20standard%20candles.html)).
+with current values $H_0 \approx 67$ to $73$ km/s/Mpc (a $\sim 7\%$ tension; see [Cepheid period-luminosity relation](Cepheid%20period-luminosity%20relation.html) and [Type Ia supernovae as standard candles](Type%20Ia%20supernovae%20as%20standard%20candles.html)).
 
 worked example: $z = 0.10$, $H_0 = 70$ km/s/Mpc:
 $$d \approx \frac{(3 \times 10^5)(0.10)}{70} = 429\,\text{Mpc}$$
@@ -45,7 +44,7 @@ $$d_L(z) = (1+z)\,\frac{c}{H_0}\int_0^z \frac{dz'}{\sqrt{\Omega_m(1+z')^3 + \Ome
 
 so $d_L$ now depends on $\Omega_m, \Omega_\Lambda, w$, the very things we want to measure. SN Ia at $z \sim 1$ provide the cosmological constraints.
 
-K-correction also kicks in: the observed band samples a different rest-frame wavelength. see [K-correction](./K-correction.html).
+K-correction also kicks in: the observed band samples a different rest-frame wavelength. see [K-correction](K-correction.html).
 
 ## the velocity-redshift confusion
 
@@ -73,16 +72,16 @@ CMB-derived $H_0$ comes from a totally different chain: sound horizon at recombi
 
 ## see also
 
-- [Distance ladder derivations](./Distance%20ladder%20derivations.html)
-- [Hubble's law and cosmological redshift](./Hubble%27s%20law%20and%20cosmological%20redshift.html)
-- [Hubble law derivation low-z](./Hubble%20law%20derivation%20low-z.html)
-- [Hubble law exact form](./Hubble%20law%20exact%20form.html)
-- [Hubble constant and deceleration parameter](./Hubble%20constant%20and%20deceleration%20parameter.html)
-- [Cosmological redshift](./Cosmological%20redshift.html)
-- [Luminosity distance](./Luminosity%20distance.html)
-- [K-correction](./K-correction.html)
-- [Type Ia supernovae as standard candles](./Type%20Ia%20supernovae%20as%20standard%20candles.html)
-- [Cepheid period-luminosity relation](./Cepheid%20period-luminosity%20relation.html)
+- [Distance ladder derivations](Distance%20ladder%20derivations.html)
+- [Hubble's law and cosmological redshift](Hubble%27s%20law%20and%20cosmological%20redshift.html)
+- [Hubble law derivation low-z](Hubble%20law%20derivation%20low-z.html)
+- [Hubble law exact form](Hubble%20law%20exact%20form.html)
+- [Hubble constant and deceleration parameter](Hubble%20constant%20and%20deceleration%20parameter.html)
+- [Cosmological redshift](Cosmological%20redshift.html)
+- [Luminosity distance](Luminosity%20distance.html)
+- [K-correction](K-correction.html)
+- [Type Ia supernovae as standard candles](Type%20Ia%20supernovae%20as%20standard%20candles.html)
+- [Cepheid period-luminosity relation](Cepheid%20period-luminosity%20relation.html)
 
 ---
 
@@ -123,17 +122,17 @@ CMB-derived $H_0$ comes from a totally different chain: sound horizon at recombi
 
 ![obs_dist-68.png](../../assets/images/obs_dist-68.png)
 *Distance measures summary across cosmological epochs.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (7)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Cepheid%20period-luminosity%20relation.html" class="backlink-item">Cepheid period-luminosity relation</a></li>
-    <li class="backlink-item-wrap"><a href="./Hubble%20law.html" class="backlink-item">Hubble law</a></li>
+    <li class="backlink-item-wrap"><a href="Cepheid%20period-luminosity%20relation.html" class="backlink-item">Cepheid period-luminosity relation</a></li>
+    <li class="backlink-item-wrap"><a href="Hubble%20law.html" class="backlink-item">Hubble law</a></li>
+    <li class="backlink-item-wrap"><a href="Peculiar%20velocities%20of%20galaxies%20and%20structures.html" class="backlink-item">Peculiar velocities of galaxies and structures</a></li>
+    <li class="backlink-item-wrap"><a href="Supernova%20Hubble%20diagram.html" class="backlink-item">Supernova Hubble diagram</a></li>
+    <li class="backlink-item-wrap"><a href="Surface%20brightness%20dimming.html" class="backlink-item">Surface brightness dimming</a></li>
+    <li class="backlink-item-wrap"><a href="TRGB%20tip%20of%20the%20red%20giant%20branch.html" class="backlink-item">TRGB tip of the red giant branch</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Peculiar%20velocities%20of%20galaxies%20and%20structures.html" class="backlink-item">Peculiar velocities of galaxies and structures</a></li>
-    <li class="backlink-item-wrap"><a href="./Supernova%20Hubble%20diagram.html" class="backlink-item">Supernova Hubble diagram</a></li>
-    <li class="backlink-item-wrap"><a href="./Surface%20brightness%20dimming.html" class="backlink-item">Surface brightness dimming</a></li>
-    <li class="backlink-item-wrap"><a href="./TRGB%20tip%20of%20the%20red%20giant%20branch.html" class="backlink-item">TRGB tip of the red giant branch</a></li>
   </ul>
 </div>
+

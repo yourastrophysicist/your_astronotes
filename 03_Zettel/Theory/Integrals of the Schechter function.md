@@ -2,95 +2,159 @@
 layout: "default"
 title: "Integrals of the Schechter function"
 ---
-{% raw %}
 # integrals of the schechter function
 
-up: [Pablo_02_Statistical_properties_of_galaxies](../../02_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html) · [Schechter function](./Schechter%20function.html)
+Parent [Pablo_02_Statistical_properties_of_galaxies](../../02_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html) · [Schechter function](Schechter%20function.html)
 
-## why this note exists
+## Why This Note Exists
 
-every cosmologically meaningful number derived from a Schechter LF is a moment integral. they all reduce to the **incomplete gamma function**
+Every cosmologically fundamental quantity derived from a galaxy luminosity function (total galaxy count, cosmic luminosity density, ionizing photon budget) is a moment integral of the Schechter function.
 
-$$\Gamma(s, x) = \int_x^\infty t^{s-1} e^{-t}\, dt$$
+$$\Phi(L)\, dL = \frac{\Phi^*}{L^*} \left(\frac{L}{L^*}\right)^\alpha \exp\!\left(-\frac{L}{L^*}\right) dL$$
 
-so it is worth working through them once and remembering the pattern.
+All such integrals reduce analytically to the complete and incomplete **Euler Gamma functions**.
 
-## the three useful integrals
+$$\Gamma(s) = \int_0^\infty t^{s-1} e^{-t}\, dt \qquad (\text{for } s > 0)$$
 
-substitute $t = L/L^*$, $dt = dL/L^*$. then $\phi(L)\, dL = \phi^* t^\alpha e^{-t}\, dt$.
+$$\Gamma(s, x) = \int_x^\infty t^{s-1} e^{-t}\, dt \qquad (\text{upper incomplete Gamma function})$$
 
-### 1. total number density (above $L_{\min}$)
+---
 
-$$N_{TOT}(>L_{\min}) = \int_{L_{\min}}^\infty \phi(L)\, dL = \phi^* \int_{x}^\infty t^\alpha e^{-t}\, dt = \phi^* \Gamma(\alpha + 1, x)$$
+## Unbroken Mathematical Derivations
 
-with $x = L_{\min}/L^*$. for $\alpha < -1$, this *diverges* as $L_{\min} \to 0$, so the answer depends on the faint-end cutoff.
+### Substitution Setup
+We introduce the dimensionless luminosity variable.
+$$t \equiv \frac{L}{L^*} \implies L = L^* t \implies dL = L^* dt$$
 
-### 2. total luminosity density
+Substitute $L$ and $dL$ into the differential number element.
+$$\Phi(L)\, dL = \frac{\Phi^*}{L^*} t^\alpha e^{-t} (L^* dt) = \Phi^* t^\alpha e^{-t} dt$$
 
-$$\rho_L = \int_0^\infty L\, \phi(L)\, dL = \phi^* L^* \int_0^\infty t^{\alpha + 1} e^{-t}\, dt = \phi^* L^* \Gamma(\alpha + 2)$$
+---
 
-this *converges* for any $\alpha > -2$ (true for all observed LFs). this is the cleanest single number you can get from a Schechter fit.
+### Derivation 1 - Total Number Density and Divergence Mechanics
 
-for typical values $\alpha = -1.25$, $\Gamma(0.75) \approx 1.225$, so $\rho_L \approx 1.2\, \phi^* L^*$. the numerical prefactor of a Schechter function is "luminosity density $\approx \phi^* L^*$".
+The cumulative number density of galaxies brighter than a threshold luminosity $L_{\min}$ is.
+$$n(>L_{\min}) = \int_{L_{\min}}^\infty \Phi(L)\, dL = \Phi^* \int_{L_{\min}/L^*}^\infty t^\alpha e^{-t}\, dt$$
 
-### 3. number above $L^*$
+To express this in standard Gamma function form, match the power of $t$.
+$$t^\alpha = t^{(\alpha + 1) - 1} \implies s = \alpha + 1$$
 
-$$N(>L^*) = \phi^* \int_1^\infty t^\alpha e^{-t}\, dt = \phi^* \Gamma(\alpha + 1, 1)$$
+Therefore.
+$$\boxed{n(>L_{\min}) = \Phi^* \Gamma\left(\alpha + 1, \frac{L_{\min}}{L^*}\right)}$$
 
-for $\alpha = -1.25$, $\Gamma(-0.25, 1) \approx 0.197$, so $N(>L^*) \approx 0.2\, \phi^*$. about 20% of all galaxies are brighter than the knee, in this typical case.
+#### Mathematical Proof of Faint-End Divergence
+Consider the total number density over all luminosities by taking the limit $L_{\min} \to 0$.
+$$n_{\rm tot} = \lim_{L_{\min} \to 0} n(>L_{\min}) = \Phi^* \int_0^\infty t^\alpha e^{-t}\, dt = \Phi^* \Gamma(\alpha + 1)$$
 
-### 4. luminosity above $L^*$
+Near the lower limit $t \to 0$, we perform a Taylor expansion of the exponential term.
+$$e^{-t} = 1 - t + \frac{t^2}{2!} - \cdots$$
 
-$$\rho_L(>L^*) = \phi^* L^* \int_1^\infty t^{\alpha + 1} e^{-t}\, dt = \phi^* L^* \Gamma(\alpha + 2, 1)$$
+The integral near $t = 0$ behaves as.
+$$\int_\epsilon^1 t^\alpha e^{-t}\, dt \approx \int_\epsilon^1 t^\alpha (1 - t)\, dt \approx \int_\epsilon^1 t^\alpha dt$$
 
-with $\alpha = -1.25$, $\Gamma(0.75, 1) \approx 0.395$. so the bright end ($L > L^*$) contributes $\sim 0.4 / 1.225 \approx 32\%$ of the total luminosity, despite being only 20% of the galaxies. this is why the bright end matters even though there are few of them.
+Evaluating this elementary integral for $\alpha \neq -1$.
+$$\int_\epsilon^1 t^\alpha dt = \left[ \frac{t^{\alpha + 1}}{\alpha + 1} \right]_\epsilon^1 = \frac{1 - \epsilon^{\alpha + 1}}{\alpha + 1}$$
 
-## what to remember
+- **Case $\alpha > -1$ ($\alpha + 1 > 0$) -**
+  As $\epsilon \to 0$, $\epsilon^{\alpha + 1} \to 0$. The integral converges to $\frac{1}{\alpha + 1}$.
+- **Case $\alpha < -1$ ($\alpha + 1 < 0$) -**
+  Let $p = -(\alpha + 1) > 0$. Then.
+  $$\epsilon^{\alpha + 1} = \frac{1}{\epsilon^p} \xrightarrow{\epsilon \to 0} +\infty$$
+  The integral strictly **diverges to $+\infty$**.
+- **Case $\alpha = -1$ -**
+  $$\int_\epsilon^1 \frac{1}{t}\, dt = [\ln t]_\epsilon^1 = -\ln \epsilon \xrightarrow{\epsilon \to 0} +\infty$$
+  The integral **logarithmically diverges to $+\infty$**.
 
-- $\rho_L \approx \phi^* L^* \cdot \Gamma(\alpha + 2)$ is the canonical number to take away
-- the *number* integral diverges at the faint end if $\alpha < -1$; the *luminosity* integral does not, as long as $\alpha > -2$
-- the $L > L^*$ bin contains $\sim 20\%$ of galaxies and $\sim 30\%$ of the total light
+**Physical Conclusion on the Blackboard -**
+Since the observed faint-end slope in optical bands is $\alpha \approx -1.1$ to $-1.3 \le -1$, the total mathematical number of galaxies per unit volume is infinite unless cut off by physical processes (photoevaporation of gas in low-mass halos during reionization, or lower mass limit of star formation).
 
-## numerical practice
+---
 
-these are all incomplete gamma functions. in python,
+### Derivation 2 - Total Luminosity Density and Convergence Proof
 
-```python
-from scipy.special import gamma, gammaincc
-phi_star, L_star, alpha = 1.6e-2, 1.0, -1.25
-rho_L = phi_star * L_star * gamma(alpha + 2)        # convergent
-N_above_Lstar = phi_star * gamma(alpha + 1) * gammaincc(alpha + 1, 1.0)  # for alpha > -1, otherwise see scipy docs
-```
+The cosmic luminosity density $j$ is the first luminosity moment of the luminosity function.
+$$j = \int_0^\infty L\, \Phi(L)\, dL$$
 
-## connections
+Substitute $L = L^* t$ and $\Phi(L) dL = \Phi^* t^\alpha e^{-t} dt$.
+$$j = \int_0^\infty (L^* t) \left( \Phi^* t^\alpha e^{-t} dt \right) = \Phi^* L^* \int_0^\infty t^{\alpha + 1} e^{-t}\, dt$$
 
-- the LF: [Schechter function](./Schechter%20function.html), [Schechter function in magnitudes](./Schechter%20function%20in%20magnitudes.html)
-- integrating over $z$ for cosmic histories: [Cosmic star formation history](./Cosmic%20star%20formation%20history.html), [Cosmic stellar mass density growth](./Cosmic%20stellar%20mass%20density%20growth.html)
-- mass version (gives $\rho_*$): [Stellar mass function](./Stellar%20mass%20function.html)
+Match the power of $t$ to the Euler Gamma function definition.
+$$t^{\alpha + 1} = t^{(\alpha + 2) - 1} \implies s = \alpha + 2$$
 
-## key references
+Therefore.
+$$\boxed{j_{\rm tot} = \Phi^* L^* \Gamma(\alpha + 2)}$$
 
-- Schechter 1976
-- Felten 1977 (formal statistics of LFs)
+#### Mathematical Proof of Convergence
+Near $t = 0$, $e^{-t} \approx 1$, so.
+$$\int_0^1 t^{\alpha + 1} e^{-t}\, dt \approx \int_0^1 t^{\alpha + 1} dt = \left[ \frac{t^{\alpha + 2}}{\alpha + 2} \right]_0^1$$
+
+This converges if and only if.
+$$\alpha + 2 > 0 \iff \alpha > -2$$
+
+At the upper limit $t \to \infty$, the exponential cutoff $e^{-t}$ suppresses any power-law growth, ensuring convergence for all finite $\alpha$.
+
+Since all observed faint-end slopes satisfy $\alpha \approx -1.2 > -2$.
+$$\boxed{\text{Total Luminosity Density } j_{\rm tot} \text{ ALWAYS CONVERGES!}}$$
+
+#### Numerical Example (Canonical Optical Values)
+For $\alpha = -1.25$.
+$$\alpha + 2 = 0.75 \implies \Gamma(0.75) \approx 1.2254$$
+$$j_{\rm tot} = 1.2254\, \Phi^* L^*$$
+Galaxies near the knee $L \sim L^*$ dominate the cosmic luminosity budget!
+
+---
+
+### Derivation 3 - Luminosity Fraction Above $L^*$
+
+The luminosity emitted exclusively by bright galaxies ($L > L^*$, $t > 1$) is.
+$$j(>L^*) = \Phi^* L^* \int_1^\infty t^{\alpha + 1} e^{-t}\, dt = \Phi^* L^* \Gamma(\alpha + 2, 1)$$
+
+The fraction of total light emitted by galaxies with $L > L^*$ is.
+$$\frac{j(>L^*)}{j_{\rm tot}} = \frac{\Gamma(\alpha + 2, 1)}{\Gamma(\alpha + 2)}$$
+
+For $\alpha = -1.25$.
+$$\Gamma(0.75, 1) \approx 0.3953 \implies \frac{0.3953}{1.2254} \approx 0.3226 \quad (32.3\%)$$
+Thus, approximately one-third of the entire starlight in the universe is produced by galaxies brighter than $L^*$.
+
+---
+
+## Textbook & Course References
+
+- **Mo, van den Bosch & White (2010), *Galaxy Formation and Evolution***.
+  - File `Houjun Mo, Frank van den Bosch, Simon White - Galaxy Formation and Evolution (2010, Cambridge University Press) - libgen.li.pdf`
+  - Chapter 2, Section 2.4.1 "Luminosity Function", pp. 83-86 (analytic integrals, $\Gamma$ function conversions).
+- **Binney & Merrifield (1998), *Galactic Astronomy***.
+  - File `Galactic Astronomy (James Binney Michael Merrifield) (z-library.sk, 1lib.sk, z-lib.sk).pdf`
+  - Chapter 4, Section 4.5 "The Luminosity Function of Galaxies", pp. 234-236 (integral expressions and divergence criteria).
+- **Prof. Alessandro Pizzella Course Dispensa**.
+  - File `dispense_LF1_1_eng-1.pdf`
+  - Chapter 1, Section 1.2, pp. 4-5 (integrals of Schechter function, conditions of convergence).
+- **Student Synthesis Document**.
+  - File `Astrophysics_of_Galaxies.tex`
+  - Part I "The Luminosity Function", Section 1.2, pp. 4-5.
+- **Master Derivations Guide**.
+  - Master Derivations and Mathematical Rigor
+
+---
 
 ---
 
 ## astrophysics of galaxies figures and slides (Prof. Alessandro Pizzella)
 
 ![gal_lf1-11.png](../../assets/images/gal_lf1-11.png)
-*Total galaxy number density integral: n_tot = int_0^infinity Phi(L) dL = Phi* * Gamma(alpha + 1).*
+*Total galaxy number density integral - n_tot = int_0^infinity Phi(L) dL = Phi* * Gamma(alpha + 1).*
 
 ![gal_lf1-12.png](../../assets/images/gal_lf1-12.png)
-*Convergence condition for total number: alpha > -1 (diverges for alpha <= -1 at faint end).*
+*Convergence condition for total number - alpha > -1 (diverges for alpha <= -1 at faint end).*
 
 ![gal_lf1-13.png](../../assets/images/gal_lf1-13.png)
-*Total luminosity density integral: j_tot = int_0^infinity L * Phi(L) dL = Phi* * L* * Gamma(alpha + 2).*
+*Total luminosity density integral - j_tot = int_0^infinity L * Phi(L) dL = Phi* * L* * Gamma(alpha + 2).*
 
 ![gal_lf1-14.png](../../assets/images/gal_lf1-14.png)
-*Convergence condition for total luminosity: alpha > -2 (well-behaved since observed alpha ~ -1.1 to -1.3).*
+*Convergence condition for total luminosity - alpha > -2 (well-behaved since observed alpha ~ -1.1 to -1.3).*
 
 ![gal_lf1-15.png](../../assets/images/gal_lf1-15.png)
-*Fraction of total luminosity emitted by galaxies brighter than L*: Gamma(alpha + 2, 1) / Gamma(alpha + 2).*
+*Fraction of total luminosity emitted by galaxies brighter than L* - Gamma(alpha + 2, 1) / Gamma(alpha + 2).*
 
 ---
 
@@ -115,18 +179,19 @@ N_above_Lstar = phi_star * gamma(alpha + 1) * gammaincc(alpha + 1, 1.0)  # for a
 ![gal_lf1-39.png](../../assets/images/gal_lf1-39.png)
 
 ![gal_lf1-40.png](../../assets/images/gal_lf1-40.png)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (8)</h4>
+  <h4 class="backlinks-title">Linked References (9)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Cosmic%20star%20formation%20history.html" class="backlink-item">Cosmic star formation history</a></li>
+    <li class="backlink-item-wrap"><a href="Cosmic%20stellar%20mass%20density%20growth.html" class="backlink-item">Cosmic stellar mass density growth</a></li>
+    <li class="backlink-item-wrap"><a href="Double%20power-law%20modified%20Schechter.html" class="backlink-item">Double power-law modified Schechter</a></li>
+    <li class="backlink-item-wrap"><a href="Luminosity%20function%20definition.html" class="backlink-item">Luminosity function definition</a></li>
+    <li class="backlink-item-wrap"><a href="Press-Schechter%20formalism.html" class="backlink-item">Press-Schechter formalism</a></li>
+    <li class="backlink-item-wrap"><a href="Schechter%20function%20in%20magnitudes.html" class="backlink-item">Schechter function in magnitudes</a></li>
+    <li class="backlink-item-wrap"><a href="UV%20luminosity%20function.html" class="backlink-item">UV luminosity function</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Cosmic%20star%20formation%20history.html" class="backlink-item">Cosmic star formation history</a></li>
-    <li class="backlink-item-wrap"><a href="./Cosmic%20stellar%20mass%20density%20growth.html" class="backlink-item">Cosmic stellar mass density growth</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html" class="backlink-item">Pablo_02_Statistical_properties_of_galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="./Press-Schechter%20formalism.html" class="backlink-item">Press-Schechter formalism</a></li>
-    <li class="backlink-item-wrap"><a href="./Schechter%20function.html" class="backlink-item">Schechter function</a></li>
-    <li class="backlink-item-wrap"><a href="./Schechter%20function%20in%20magnitudes.html" class="backlink-item">Schechter function in magnitudes</a></li>
   </ul>
 </div>
+

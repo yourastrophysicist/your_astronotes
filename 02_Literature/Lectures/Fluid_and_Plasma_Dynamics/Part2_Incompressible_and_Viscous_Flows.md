@@ -2,7 +2,6 @@
 layout: "default"
 title: "Part2_Incompressible_and_Viscous_Flows"
 ---
-{% raw %}
 # Part 2 - Incompressible and Viscous Flows
 
 *Course: Fluid and Plasma Dynamics, Prof. Maurizio Giacomin*  
@@ -281,18 +280,16 @@ $$\delta(x) \approx 5.0 \sqrt{\frac{\nu x}{U}}$$
 
 ![Adverse Pressure Gradients and Boundary Layer Separation](../../../assets/images/fluid_boundary_p05.png)
 *Figure FPD-02: Boundary layer separation under adverse pressure gradients $\frac{dp}{dx} > 0$. At the separation point, the wall shear stress vanishes $\left.\frac{\partial u}{\partial y}\right\rvert_{y=0} = 0$, generating recirculating eddies, turbulent wake shed, and stall.*
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (8)</h4>
+  <h4 class="backlinks-title">Linked References (6)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Course_Overview_and_Syllabus.html" class="backlink-item">Course_Overview_and_Syllabus</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Giacomin_Oral_Exam_Questions_Complete_Guide.html" class="backlink-item">Giacomin_Oral_Exam_Questions_Complete_Guide</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Hagen-Poiseuille%20pipe%20flow%20and%20viscous%20dissipation.html" class="backlink-item">Hagen-Poiseuille pipe flow and viscous dissipation</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Helmholtz%20vortex%20theorems%20and%20baroclinic%20torque.html" class="backlink-item">Helmholtz vortex theorems and baroclinic torque</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Parker%20solar%20wind%20and%20transonic%20critical%20point.html" class="backlink-item">Parker solar wind and transonic critical point</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Prandtl%20boundary%20layer%20theory%20and%20Blasius%20scaling.html" class="backlink-item">Prandtl boundary layer theory and Blasius scaling</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Vorticity%20dynamics%20and%20Kelvin%20circulation%20theorem.html" class="backlink-item">Vorticity dynamics and Kelvin circulation theorem</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
   </ul>
 </div>
+

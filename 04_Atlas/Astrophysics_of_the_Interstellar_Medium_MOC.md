@@ -2,7 +2,6 @@
 layout: "default"
 title: "Astrophysics_of_the_Interstellar_Medium_MOC"
 ---
-{% raw %}
 # Astrophysics of the Interstellar Medium - Map of Content
 
 > **Master Year 2 Semester 1** | **A.Y. 2026/2027**  
@@ -132,11 +131,11 @@ frequently asked questions in Padova oral examinations for this course:
 ## see also
 
 - Master Year 2 Semester 1 Timetable
-- [Astrophysics of Galaxies MOC](./Astrophysics_of_Galaxies_MOC.html)
-- [Stellar Astrophysics MOC](./Stellar_Astrophysics_MOC.html)
-- [Astronomical Interferometry MOC](./Astronomical_Interferometry_MOC.html)
-- [Observational Cosmology MOC](./Observational_Cosmology_MOC.html)
-- [Fundamentals of Astrophysics & Cosmology MOC](./Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [Astrophysics of Galaxies MOC](Astrophysics_of_Galaxies_MOC.html)
+- [Stellar Astrophysics MOC](Stellar_Astrophysics_MOC.html)
+- [Astronomical Interferometry MOC](Astronomical_Interferometry_MOC.html)
+- [Observational Cosmology MOC](Observational_Cosmology_MOC.html)
+- [Fundamentals of Astrophysics & Cosmology MOC](Fundamentals_Astrophysics_Cosmology_MOC.html)
 
 
 ---
@@ -181,40 +180,3 @@ frequently asked questions in Padova oral examinations for this course:
 - **Sedov-Taylor Blast Wave**: $R(t) = 1.15 \left(\frac{E_{\mathrm{SN}}}{\rho_0}\right)^{1/5} t^{2/5}$
 - **Alfvén Speed**: $v_A = \frac{B}{\sqrt{4\pi \rho}} \approx 2.18 \left(\frac{B}{\mu\mathrm{G}}\right) \left(\frac{n_{\mathrm{H}}}{\mathrm{cm}^{-3}}\right)^{-1/2}\text{ km/s}$
 - **Isothermal Shock Compression**: $\frac{\rho_2}{\rho_1} = M_1^2$
-{% endraw %}
-
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (30)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./04_Atlas.html" class="backlink-item">04_Atlas</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Alfven%20and%20magnetosonic%20waves.html" class="backlink-item">Alfven and magnetosonic waves</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Cardelli-Clayton-Mathis%20CCM%20extinction%20law.html" class="backlink-item">Cardelli-Clayton-Mathis CCM extinction law</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Interstellar_Medium/Carraro_01_Introduction_and_Multi-phase_ISM.html" class="backlink-item">Carraro_01_Introduction_and_Multi-phase_ISM</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Interstellar_Medium/Carraro_02_Neutral_Hydrogen_and_21cm_Universe.html" class="backlink-item">Carraro_02_Neutral_Hydrogen_and_21cm_Universe</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Interstellar_Medium/Carraro_03_HII_Regions_and_Photoionized_Gas.html" class="backlink-item">Carraro_03_HII_Regions_and_Photoionized_Gas</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Interstellar_Medium/Carraro_04_Massive_Stars_Feedback_and_Stellar_Winds.html" class="backlink-item">Carraro_04_Massive_Stars_Feedback_and_Stellar_Winds</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Interstellar_Medium/Carraro_05_Interstellar_Dust_and_Extinction.html" class="backlink-item">Carraro_05_Interstellar_Dust_and_Extinction</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Interstellar_Medium/Carraro_06_Supernovae_and_Hot_Ionized_Medium.html" class="backlink-item">Carraro_06_Supernovae_and_Hot_Ionized_Medium</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Interstellar_Medium/Carraro_07_Interstellar_Magnetic_Fields.html" class="backlink-item">Carraro_07_Interstellar_Magnetic_Fields</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Interstellar_Medium/Carraro_08_Shocks_Turbulence_and_MHD_Waves.html" class="backlink-item">Carraro_08_Shocks_Turbulence_and_MHD_Waves</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Catalytic%20H2%20formation%20on%20dust%20grains.html" class="backlink-item">Catalytic H2 formation on dust grains</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Diffuse%20interstellar%20bands%20and%20polycyclic%20aromatic%20hydrocarbons.html" class="backlink-item">Diffuse interstellar bands and polycyclic aromatic hydrocarbons</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Faraday%20rotation%20and%20pulsar%20dispersion%20measure.html" class="backlink-item">Faraday rotation and pulsar dispersion measure</a></li>
-    <li class="backlink-item-wrap"><a href="./Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Forbidden%20line%20diagnostics%20of%20electron%20temperature%20and%20density.html" class="backlink-item">Forbidden line diagnostics of electron temperature and density</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Galactic%20HI%20kinematics%20and%20Milky%20Way%20spiral%20structure.html" class="backlink-item">Galactic HI kinematics and Milky Way spiral structure</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/HI%2021%20cm%20hyperfine%20transition.html" class="backlink-item">HI 21 cm hyperfine transition</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/HII%20regions%20and%20Stromgren%20sphere%20physics.html" class="backlink-item">HII regions and Stromgren sphere physics</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Interstellar%20magnetic%20field%20tracers.html" class="backlink-item">Interstellar magnetic field tracers</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Interstellar%20turbulence%20and%20Kolmogorov%20cascade.html" class="backlink-item">Interstellar turbulence and Kolmogorov cascade</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Line-driven%20stellar%20winds%20and%20P-Cygni%20profiles.html" class="backlink-item">Line-driven stellar winds and P-Cygni profiles</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Multi-phase%20structure%20of%20the%20interstellar%20medium.html" class="backlink-item">Multi-phase structure of the interstellar medium</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Primordial%20helium%20abundance%20from%20HII%20regions.html" class="backlink-item">Primordial helium abundance from HII regions</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Ram%20pressure%20stripping%20in%20galaxy%20clusters.html" class="backlink-item">Ram pressure stripping in galaxy clusters</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Rankine-Hugoniot%20shock%20jump%20conditions.html" class="backlink-item">Rankine-Hugoniot shock jump conditions</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Sedov-Taylor%20blast%20wave%20expansion.html" class="backlink-item">Sedov-Taylor blast wave expansion</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Spin%20temperature%20and%2021%20cm%20radiative%20transfer.html" class="backlink-item">Spin temperature and 21 cm radiative transfer</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Superbubbles%20galactic%20chimneys%20and%20fountains.html" class="backlink-item">Superbubbles galactic chimneys and fountains</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Trumpler%20discovery%20of%20interstellar%20extinction.html" class="backlink-item">Trumpler discovery of interstellar extinction</a></li>
-  </ul>
-</div>

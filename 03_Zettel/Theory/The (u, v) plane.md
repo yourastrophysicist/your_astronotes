@@ -1,12 +1,8 @@
 ---
 layout: "default"
 title: "The (u, v) plane"
-type: "zettel"
-created: "2026-08-04"
-moc: ""
 tags: ""
 ---
-{% raw %}
 > *the mathematical landscape where baselines live, representing the discrete spatial frequencies of the sky that our array manages to sample*
 
 ---
@@ -46,4 +42,3 @@ The quality of a synthesized radio or optical image is entirely dependent on (u,
 
 * parent moc: [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
 * related zettels: [Aperture synthesis principle](interf/Aperture%20synthesis%20principle.html), [Earth-rotation aperture synthesis](interf/Earth-rotation%20aperture%20synthesis.html), [Dirty beam and dirty image](interf/Dirty%20beam%20and%20dirty%20image.html), [Van Cittert-Zernike theorem](interf/Van%20Cittert-Zernike%20theorem.html)
-{% endraw %}

@@ -2,8 +2,7 @@
 layout: "default"
 title: "Lesson 01 - Linux Environment and Scientific Python Setup"
 ---
-{% raw %}
-# Lesson 01 ? Linux Environment and Scientific Python Setup
+# Lesson 01 — Linux Environment and Scientific Python Setup
 
 *Astrophysics Laboratory 2, Prof. Luca Malavolta*  
 *Index: [Astrophysics_Laboratory_2_MOC](../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html)*
@@ -27,7 +26,7 @@ Modern observational astrophysics relies heavily on Unix-like operating systems 
 - `rm -i <file>`: interactive removal to prevent accidental data loss
 
 Italian keyboard terminal shortcuts:
-- Tilde (`~`): `Alt Gr + ?` or `Alt + 126`
+- Tilde (`~`): `Alt Gr + ~` or `Alt + 126`
 - Backtick (`` ` ``): `Alt Gr + '` or `Alt + 96`
 
 ---
@@ -83,12 +82,11 @@ Pipeline code in this course follows strict modular guidelines:
 - [Lesson 00 - Course Overview and Research Methodology](./Lesson%2000%20-%20Course%20Overview%20and%20Research%20Methodology.html)
 - [Python Class Architecture for Astronomical Pipelines](../../../03_Zettel/Computational/Python%20Class%20Architecture%20for%20Astronomical%20Pipelines.html)
 - [Science Frame Calibration and Variance Propagation](../../../03_Zettel/Computational/Science%20Frame%20Calibration%20and%20Variance%20Propagation.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
+  <h4 class="backlinks-title">Linked References (1)</h4>
   <ul class="backlinks-list">
     <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Lesson%2000%20-%20Course%20Overview%20and%20Research%20Methodology.html" class="backlink-item">Lesson 00 - Course Overview and Research Methodology</a></li>
   </ul>
 </div>
+

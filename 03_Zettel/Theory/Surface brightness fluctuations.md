@@ -2,7 +2,6 @@
 layout: "default"
 title: "Surface brightness fluctuations"
 ---
-{% raw %}
 **surface brightness fluctuations (SBF)** is a Poisson-statistics distance method for unresolved elliptical galaxies. their finite stellar populations create flux variations from pixel to pixel, and the variance is distance-dependent.
 
 ## the physics
@@ -49,13 +48,13 @@ an independent rung in the distance ladder: SBF can target the same galaxies as 
 
 ## see also
 
-- [Distance ladder derivations](./Distance%20ladder%20derivations.html)
-- [Cepheid period-luminosity relation](./Cepheid%20period-luminosity%20relation.html)
-- [TRGB tip of the red giant branch](./TRGB%20tip%20of%20the%20red%20giant%20branch.html)
-- [Type Ia supernovae as standard candles](./Type%20Ia%20supernovae%20as%20standard%20candles.html)
-- [Galaxy size-luminosity relation](./Galaxy%20size-luminosity%20relation.html)
-- [Initial mass function](./Initial%20mass%20function.html)
-- [Stellar populations I II III](./Stellar%20populations%20I%20II%20III.html)
+- [Distance ladder derivations](Distance%20ladder%20derivations.html)
+- [Cepheid period-luminosity relation](Cepheid%20period-luminosity%20relation.html)
+- [TRGB tip of the red giant branch](TRGB%20tip%20of%20the%20red%20giant%20branch.html)
+- [Type Ia supernovae as standard candles](Type%20Ia%20supernovae%20as%20standard%20candles.html)
+- [Galaxy size-luminosity relation](Galaxy%20size-luminosity%20relation.html)
+- [Initial mass function](Initial%20mass%20function.html)
+- [Stellar populations I II III](Stellar%20populations%20I%20II%20III.html)
 
 ---
 
@@ -72,7 +71,6 @@ an independent rung in the distance ladder: SBF can target the same galaxies as 
 
 ![obs_dist-40.png](../../assets/images/obs_dist-40.png)
 *SBF distance range out to ~100 Mpc with HST and JWST.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (1)</h4>
@@ -80,3 +78,4 @@ an independent rung in the distance ladder: SBF can target the same galaxies as 
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

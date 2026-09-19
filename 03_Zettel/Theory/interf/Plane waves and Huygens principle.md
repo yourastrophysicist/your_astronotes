@@ -2,7 +2,6 @@
 layout: "default"
 title: "Plane waves and Huygens principle"
 ---
-{% raw %}
 # Plane waves and Huygens principle
 
 the two foundational tools of wave optics. plane waves are the simplest solutions to the wave equation; Huygens' principle is the geometric construction that lets us track waves through obstacles, slits, and apertures. together they explain everything from Young's experiment to diffraction-limited resolution.
@@ -73,29 +72,29 @@ today Huygens' principle is *the* practical tool for tracing light through compl
 
 ## see also
 
-- [Superposition and interference](./Superposition%20and%20interference.html)
-- [Fraunhofer diffraction](./Fraunhofer%20diffraction.html)
-- [Diffraction patterns of simple apertures](./Diffraction%20patterns%20of%20simple%20apertures.html)
-- [Young experiment as a stellar interferometer](./Young%20experiment%20as%20a%20stellar%20interferometer.html)
+- [Superposition and interference](Superposition%20and%20interference.html)
+- [Fraunhofer diffraction](Fraunhofer%20diffraction.html)
+- [Diffraction patterns of simple apertures](Diffraction%20patterns%20of%20simple%20apertures.html)
+- [Young experiment as a stellar interferometer](Young%20experiment%20as%20a%20stellar%20interferometer.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (14)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Coherent%20vs%20incoherent%20imaging.html" class="backlink-item">Coherent vs incoherent imaging</a></li>
     <li class="backlink-item-wrap"><a href="../Coherent%20vs%20incoherent%20imaging.html" class="backlink-item">Coherent vs incoherent imaging</a></li>
     <li class="backlink-item-wrap"><a href="../Electromagnetic%20waves%20and%20photons.html" class="backlink-item">Electromagnetic waves and photons</a></li>
-    <li class="backlink-item-wrap"><a href="./Electromagnetic%20waves%20and%20photons.html" class="backlink-item">Electromagnetic waves and photons</a></li>
-    <li class="backlink-item-wrap"><a href="./Fraunhofer%20diffraction.html" class="backlink-item">Fraunhofer diffraction</a></li>
     <li class="backlink-item-wrap"><a href="../Fraunhofer%20diffraction.html" class="backlink-item">Fraunhofer diffraction</a></li>
     <li class="backlink-item-wrap"><a href="../Light%20waves%20and%20the%20EM%20spectrum.html" class="backlink-item">Light waves and the EM spectrum</a></li>
-    <li class="backlink-item-wrap"><a href="./Light%20waves%20and%20the%20EM%20spectrum.html" class="backlink-item">Light waves and the EM spectrum</a></li>
-    <li class="backlink-item-wrap"><a href="./Superposition%20and%20interference.html" class="backlink-item">Superposition and interference</a></li>
     <li class="backlink-item-wrap"><a href="../Why%20interferometry.html" class="backlink-item">Why interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="./Why%20interferometry.html" class="backlink-item">Why interferometry</a></li>
     <li class="backlink-item-wrap"><a href="../Young%20experiment%20as%20a%20stellar%20interferometer.html" class="backlink-item">Young experiment as a stellar interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="./Young%20experiment%20as%20a%20stellar%20interferometer.html" class="backlink-item">Young experiment as a stellar interferometer</a></li>
+    <li class="backlink-item-wrap"><a href="Coherent%20vs%20incoherent%20imaging.html" class="backlink-item">Coherent vs incoherent imaging</a></li>
+    <li class="backlink-item-wrap"><a href="Electromagnetic%20waves%20and%20photons.html" class="backlink-item">Electromagnetic waves and photons</a></li>
+    <li class="backlink-item-wrap"><a href="Fraunhofer%20diffraction.html" class="backlink-item">Fraunhofer diffraction</a></li>
+    <li class="backlink-item-wrap"><a href="Light%20waves%20and%20the%20EM%20spectrum.html" class="backlink-item">Light waves and the EM spectrum</a></li>
+    <li class="backlink-item-wrap"><a href="Superposition%20and%20interference.html" class="backlink-item">Superposition and interference</a></li>
+    <li class="backlink-item-wrap"><a href="Why%20interferometry.html" class="backlink-item">Why interferometry</a></li>
+    <li class="backlink-item-wrap"><a href="Young%20experiment%20as%20a%20stellar%20interferometer.html" class="backlink-item">Young experiment as a stellar interferometer</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

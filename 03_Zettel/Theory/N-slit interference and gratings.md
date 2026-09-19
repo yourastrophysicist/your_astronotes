@@ -2,7 +2,6 @@
 layout: "default"
 title: "N-slit interference and gratings"
 ---
-{% raw %}
 when $N$ identical slits of width $b$ are placed with spacing $d$ along a line, illuminated by a plane wave of wavelength $\lambda$, the diffracted intensity is the **product of single-slit diffraction and N-slit interference**:
 $$I(\theta) = A_0^2 \frac{\sin^2\beta}{\beta^2}\cdot\frac{\sin^2 N\gamma}{\sin^2\gamma}$$
 with
@@ -10,7 +9,7 @@ $$\beta = \frac{\pi}{\lambda}b\sin\theta, \quad \gamma = \frac{\pi}{\lambda}d\si
 
 ## the two terms
 
-- **$\sin^2\beta/\beta^2$**: the **single-slit envelope**. wide, slow; sets the overall throughput shape. see [Single slit diffraction](./Single%20slit%20diffraction.html).
+- **$\sin^2\beta/\beta^2$**: the **single-slit envelope**. wide, slow; sets the overall throughput shape. see [Single slit diffraction](Single%20slit%20diffraction.html).
 - **$\sin^2 N\gamma/\sin^2\gamma$**: the **N-slit interference**. narrow, sharp peaks; sets the spectral lines.
 
 ## principal maxima: the grating equation
@@ -36,23 +35,23 @@ for a $5000$-line grating in $m = 1$, $R = 5000$. typical optical spectrographs 
 
 ## see also
 
-- [Single slit diffraction](./Single%20slit%20diffraction.html)
-- [Grating equation](./Grating%20equation.html)
-- [Blazed gratings](./Blazed%20gratings.html)
-- [Spectrograph design](./Spectrograph%20design.html)
-- [Dispersion and spectral resolution](./Dispersion%20and%20spectral%20resolution.html)
-- [Spectrograph types](./Spectrograph%20types.html)
-- [Echelle spectroscopy](./Echelle%20spectroscopy.html)
-- [Appendix D - Gratings and spectrographs](./Appendix%20D%20-%20Gratings%20and%20spectrographs.html)
-{% endraw %}
+- [Single slit diffraction](Single%20slit%20diffraction.html)
+- [Grating equation](Grating%20equation.html)
+- [Blazed gratings](Blazed%20gratings.html)
+- [Spectrograph design](Spectrograph%20design.html)
+- [Dispersion and spectral resolution](Dispersion%20and%20spectral%20resolution.html)
+- [Spectrograph types](Spectrograph%20types.html)
+- [Echelle spectroscopy](Echelle%20spectroscopy.html)
+- [Appendix D - Gratings and spectrographs](Appendix%20D%20-%20Gratings%20and%20spectrographs.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Blazed%20gratings.html" class="backlink-item">Blazed gratings</a></li>
+    <li class="backlink-item-wrap"><a href="Dispersion%20and%20spectral%20resolution.html" class="backlink-item">Dispersion and spectral resolution</a></li>
+    <li class="backlink-item-wrap"><a href="Grating%20equation.html" class="backlink-item">Grating equation</a></li>
+    <li class="backlink-item-wrap"><a href="Single%20slit%20diffraction.html" class="backlink-item">Single slit diffraction</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Blazed%20gratings.html" class="backlink-item">Blazed gratings</a></li>
-    <li class="backlink-item-wrap"><a href="./Dispersion%20and%20spectral%20resolution.html" class="backlink-item">Dispersion and spectral resolution</a></li>
-    <li class="backlink-item-wrap"><a href="./Grating%20equation.html" class="backlink-item">Grating equation</a></li>
-    <li class="backlink-item-wrap"><a href="./Single%20slit%20diffraction.html" class="backlink-item">Single slit diffraction</a></li>
   </ul>
 </div>
+

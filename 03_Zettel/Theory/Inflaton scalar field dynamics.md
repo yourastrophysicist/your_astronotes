@@ -2,7 +2,6 @@
 layout: "default"
 title: "Inflaton scalar field dynamics"
 ---
-{% raw %}
 a scalar field $\phi$ with potential $V(\phi)$ minimally coupled to gravity has stress-energy tensor of a perfect fluid, with energy density and pressure
 $$\rho_\phi = \frac{1}{2}\dot\phi^2 + V(\phi)$$
 $$p_\phi = \frac{1}{2}\dot\phi^2 - V(\phi)$$
@@ -105,20 +104,20 @@ $$\frac{\delta\rho}{\rho} \sim \frac{H^2}{\dot\phi}$$
 ## see also
 
 - [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Inflation overview](./Inflation%20overview.html)
-- [Old vs new vs chaotic inflation, slow-roll](./Old%20vs%20new%20vs%20chaotic%20inflation%2C%20slow-roll.html)
-- [Standard model problems](./Standard%20model%20problems.html)
-- [Baumann_reference](./Baumann_reference.html) — chapters 2.3, 6.2, 6.3 are the rigorous treatment
-{% endraw %}
+- [Inflation overview](Inflation%20overview.html)
+- [Old vs new vs chaotic inflation, slow-roll](Old%20vs%20new%20vs%20chaotic%20inflation%2C%20slow-roll.html)
+- [Standard model problems](Standard%20model%20problems.html)
+- [Baumann_reference](Baumann_reference.html) — chapters 2.3, 6.2, 6.3 are the rigorous treatment
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (6)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Baumann_reference.html" class="backlink-item">Baumann_reference</a></li>
-    <li class="backlink-item-wrap"><a href="./Cosmological%20inflation.html" class="backlink-item">Cosmological inflation</a></li>
+    <li class="backlink-item-wrap"><a href="Baumann_reference.html" class="backlink-item">Baumann_reference</a></li>
+    <li class="backlink-item-wrap"><a href="Cosmological%20inflation.html" class="backlink-item">Cosmological inflation</a></li>
+    <li class="backlink-item-wrap"><a href="Inflation%20overview.html" class="backlink-item">Inflation overview</a></li>
+    <li class="backlink-item-wrap"><a href="Old%20vs%20new%20vs%20chaotic%20inflation%2C%20slow-roll.html" class="backlink-item">Old vs new vs chaotic inflation, slow-roll</a></li>
+    <li class="backlink-item-wrap"><a href="Standard%20model%20problems.html" class="backlink-item">Standard model problems</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Inflation%20overview.html" class="backlink-item">Inflation overview</a></li>
-    <li class="backlink-item-wrap"><a href="./Old%20vs%20new%20vs%20chaotic%20inflation%2C%20slow-roll.html" class="backlink-item">Old vs new vs chaotic inflation, slow-roll</a></li>
-    <li class="backlink-item-wrap"><a href="./Standard%20model%20problems.html" class="backlink-item">Standard model problems</a></li>
   </ul>
 </div>
+

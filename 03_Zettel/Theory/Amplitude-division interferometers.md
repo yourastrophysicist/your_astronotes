@@ -2,7 +2,6 @@
 layout: "default"
 title: "Amplitude-division interferometers"
 ---
-{% raw %}
 # Amplitude-division interferometers
 
 a class of interferometers where a beam splitter — a partially-reflective optical element — splits an incoming beam into two beams of reduced amplitude that travel different paths and then recombine. **the dominant family** in laboratory optics, metrology, quantum optics, and gravitational-wave detection.
@@ -136,31 +135,31 @@ amplitude-division interferometry has not stopped evolving. it is one of the mos
 
 ![Amplitude-division_interferometers.png](../../assets/images/Amplitude-division_interferometers.png)
 *Optical schematic of amplitude-division stellar interferometry showing beam splitter, optical delay lines, and beam combination recombining split wavefronts.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (21)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
+    <li class="backlink-item-wrap"><a href="Beam%20splitter%20physics.html" class="backlink-item">Beam splitter physics</a></li>
+    <li class="backlink-item-wrap"><a href="Fabry-Perot%20interferometer.html" class="backlink-item">Fabry-Perot interferometer</a></li>
+    <li class="backlink-item-wrap"><a href="Fringes%20of%20equal%20inclination.html" class="backlink-item">Fringes of equal inclination</a></li>
+    <li class="backlink-item-wrap"><a href="Fringes%20of%20equal%20thickness.html" class="backlink-item">Fringes of equal thickness</a></li>
+    <li class="backlink-item-wrap"><a href="Mach-Zehnder%20interferometer.html" class="backlink-item">Mach-Zehnder interferometer</a></li>
+    <li class="backlink-item-wrap"><a href="Michelson%20laboratory%20interferometer.html" class="backlink-item">Michelson laboratory interferometer</a></li>
+    <li class="backlink-item-wrap"><a href="Newton%27s%20rings.html" class="backlink-item">Newton's rings</a></li>
+    <li class="backlink-item-wrap"><a href="Optical%20path%20difference%20OPD.html" class="backlink-item">Optical path difference OPD</a></li>
+    <li class="backlink-item-wrap"><a href="Sagnac%20interferometer.html" class="backlink-item">Sagnac interferometer</a></li>
+    <li class="backlink-item-wrap"><a href="Wavefront-division%20interferometers.html" class="backlink-item">Wavefront-division interferometers</a></li>
     <li class="backlink-item-wrap"><a href="interf/Beam%20splitter%20physics.html" class="backlink-item">Beam splitter physics</a></li>
-    <li class="backlink-item-wrap"><a href="./Beam%20splitter%20physics.html" class="backlink-item">Beam splitter physics</a></li>
-    <li class="backlink-item-wrap"><a href="./Fabry-Perot%20interferometer.html" class="backlink-item">Fabry-Perot interferometer</a></li>
     <li class="backlink-item-wrap"><a href="interf/Fabry-Perot%20interferometer.html" class="backlink-item">Fabry-Perot interferometer</a></li>
     <li class="backlink-item-wrap"><a href="interf/Fringes%20of%20equal%20inclination.html" class="backlink-item">Fringes of equal inclination</a></li>
-    <li class="backlink-item-wrap"><a href="./Fringes%20of%20equal%20inclination.html" class="backlink-item">Fringes of equal inclination</a></li>
-    <li class="backlink-item-wrap"><a href="./Fringes%20of%20equal%20thickness.html" class="backlink-item">Fringes of equal thickness</a></li>
     <li class="backlink-item-wrap"><a href="interf/Fringes%20of%20equal%20thickness.html" class="backlink-item">Fringes of equal thickness</a></li>
-    <li class="backlink-item-wrap"><a href="./Mach-Zehnder%20interferometer.html" class="backlink-item">Mach-Zehnder interferometer</a></li>
     <li class="backlink-item-wrap"><a href="interf/Mach-Zehnder%20interferometer.html" class="backlink-item">Mach-Zehnder interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="./Michelson%20laboratory%20interferometer.html" class="backlink-item">Michelson laboratory interferometer</a></li>
     <li class="backlink-item-wrap"><a href="interf/Michelson%20laboratory%20interferometer.html" class="backlink-item">Michelson laboratory interferometer</a></li>
     <li class="backlink-item-wrap"><a href="interf/Newton%27s%20rings.html" class="backlink-item">Newton's rings</a></li>
-    <li class="backlink-item-wrap"><a href="./Newton%27s%20rings.html" class="backlink-item">Newton's rings</a></li>
     <li class="backlink-item-wrap"><a href="interf/Optical%20path%20difference%20OPD.html" class="backlink-item">Optical path difference OPD</a></li>
-    <li class="backlink-item-wrap"><a href="./Optical%20path%20difference%20OPD.html" class="backlink-item">Optical path difference OPD</a></li>
     <li class="backlink-item-wrap"><a href="interf/Sagnac%20interferometer.html" class="backlink-item">Sagnac interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="./Sagnac%20interferometer.html" class="backlink-item">Sagnac interferometer</a></li>
     <li class="backlink-item-wrap"><a href="interf/Wavefront-division%20interferometers.html" class="backlink-item">Wavefront-division interferometers</a></li>
-    <li class="backlink-item-wrap"><a href="./Wavefront-division%20interferometers.html" class="backlink-item">Wavefront-division interferometers</a></li>
+    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

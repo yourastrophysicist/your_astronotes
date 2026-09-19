@@ -2,7 +2,6 @@
 layout: "default"
 title: "Stellar evolution timescales"
 ---
-{% raw %}
 stellar evolution is governed by the hierarchical interplay of three fundamentally distinct physical timescales spanning from seconds to billions of years: the **dynamical timescale**, the **thermal (Kelvin-Helmholtz) timescale**, and the **nuclear timescale**.
 
 ![stellar-32.png](../../assets/images/stellar-32.png)
@@ -69,10 +68,10 @@ because $t_{\text{nuc}}$ exceeds $t_{\text{KH}}$ by a factor of 300, and exceeds
 ## see also
 
 - [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Stellar scaling relations](./Stellar%20scaling%20relations.html)
-- [Stellar structure equations](./Stellar%20structure%20equations.html)
-- [Solar evolution and final stages](./Solar%20evolution%20and%20final%20stages.html)
-- [Pre-main sequence evolution and protostars](./Pre-main%20sequence%20evolution%20and%20protostars.html)
+- [Stellar scaling relations](Stellar%20scaling%20relations.html)
+- [Stellar structure equations](Stellar%20structure%20equations.html)
+- [Solar evolution and final stages](Solar%20evolution%20and%20final%20stages.html)
+- [Pre-main sequence evolution and protostars](Pre-main%20sequence%20evolution%20and%20protostars.html)
 
 ---
 
@@ -113,22 +112,22 @@ because $t_{\text{nuc}}$ exceeds $t_{\text{KH}}$ by a factor of 300, and exceeds
 
 ![obs_stars-048.png](../../assets/images/obs_stars-048.png)
 *Timescales summary table.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (12)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Color-magnitude%20diagrams%20of%20clusters.html" class="backlink-item">Color-magnitude diagrams of clusters</a></li>
+    <li class="backlink-item-wrap"><a href="Color-magnitude%20diagrams%20of%20clusters.html" class="backlink-item">Color-magnitude diagrams of clusters</a></li>
+    <li class="backlink-item-wrap"><a href="M-dwarf%20discontinuity%20and%20convective%20merging%20instability.html" class="backlink-item">M-dwarf discontinuity and convective merging instability</a></li>
+    <li class="backlink-item-wrap"><a href="Mass-luminosity%20relation.html" class="backlink-item">Mass-luminosity relation</a></li>
+    <li class="backlink-item-wrap"><a href="Planetary%20nebula%20spectroscopy.html" class="backlink-item">Planetary nebula spectroscopy</a></li>
+    <li class="backlink-item-wrap"><a href="Pre-main%20sequence%20evolution%20and%20protostars.html" class="backlink-item">Pre-main sequence evolution and protostars</a></li>
+    <li class="backlink-item-wrap"><a href="Radiative%20transport.html" class="backlink-item">Radiative transport</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20atmosphere%20structure.html" class="backlink-item">Stellar atmosphere structure</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20nucleosynthesis.html" class="backlink-item">Stellar nucleosynthesis</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20scaling%20relations.html" class="backlink-item">Stellar scaling relations</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20structure%20equations.html" class="backlink-item">Stellar structure equations</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./M-dwarf%20discontinuity%20and%20convective%20merging%20instability.html" class="backlink-item">M-dwarf discontinuity and convective merging instability</a></li>
-    <li class="backlink-item-wrap"><a href="./Mass-luminosity%20relation.html" class="backlink-item">Mass-luminosity relation</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Planetary%20nebula%20spectroscopy.html" class="backlink-item">Planetary nebula spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="./Pre-main%20sequence%20evolution%20and%20protostars.html" class="backlink-item">Pre-main sequence evolution and protostars</a></li>
-    <li class="backlink-item-wrap"><a href="./Radiative%20transport.html" class="backlink-item">Radiative transport</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20atmosphere%20structure.html" class="backlink-item">Stellar atmosphere structure</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20nucleosynthesis.html" class="backlink-item">Stellar nucleosynthesis</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20scaling%20relations.html" class="backlink-item">Stellar scaling relations</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20structure%20equations.html" class="backlink-item">Stellar structure equations</a></li>
   </ul>
 </div>
+

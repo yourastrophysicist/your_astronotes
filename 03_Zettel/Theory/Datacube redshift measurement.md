@@ -2,10 +2,9 @@
 layout: "default"
 title: "Datacube redshift measurement"
 ---
-{% raw %}
 # datacube redshift measurement
 
-up: [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html) · [Datacube reduction](./Datacube%20reduction.html)
+up: [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html) · [Datacube reduction](Datacube%20reduction.html)
 
 ## measurement principles
 
@@ -31,15 +30,14 @@ $$v(x, y) = c \left( \frac{z(x, y) - z_{\rm sys}}{1 + z_{\rm sys}} \right)$$
 
 ## connections
 
-- applications: [Ionized gas kinematics](./Ionized%20gas%20kinematics.html), [Stellar kinematics measurements](./Stellar%20kinematics%20measurements.html)
-- facilities: [MUSE datacubes](./MUSE%20datacubes.html)
-{% endraw %}
+- applications: [Ionized gas kinematics](Ionized%20gas%20kinematics.html), [Stellar kinematics measurements](Stellar%20kinematics%20measurements.html)
+- facilities: [MUSE datacubes](MUSE%20datacubes.html)
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
+  <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Datacube%20reduction.html" class="backlink-item">Datacube reduction</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Datacube%20reduction.html" class="backlink-item">Datacube reduction</a></li>
-    <li class="backlink-item-wrap"><a href="./Ionized%20gas%20kinematics.html" class="backlink-item">Ionized gas kinematics</a></li>
   </ul>
 </div>
+

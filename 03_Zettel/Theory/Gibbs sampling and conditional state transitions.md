@@ -2,7 +2,6 @@
 layout: "default"
 title: "Gibbs sampling and conditional state transitions"
 ---
-{% raw %}
 # Gibbs sampling and conditional state transitions
 
 Gibbs sampling (Geman & Geman 1984) is a special case of the Metropolis-Hastings algorithm where parameters are updated iteratively by sampling directly from their full univariate conditional distributions. Because proposal draws match the exact conditional posteriors, the acceptance probability is identically unity ($\alpha = 1$).
@@ -45,15 +44,15 @@ Every proposed move in Gibbs sampling is accepted without rejection.
 ## See Also
 - [Astro-Statistics_and_Cosmology_MOC](../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html)
 - [05_Monte_Carlo_Metropolis_Hastings_and_MCMC_Convergence_Diagnostics](../../02_Literature/Lectures/Astrostatistics/05_Monte_Carlo_Metropolis_Hastings_and_MCMC_Convergence_Diagnostics.html)
-- [Metropolis-Hastings algorithm and detailed balance](./Metropolis-Hastings%20algorithm%20and%20detailed%20balance.html)
-- [MCMC convergence diagnostics and Gelman-Rubin statistic](./MCMC%20convergence%20diagnostics%20and%20Gelman-Rubin%20statistic.html)
-{% endraw %}
+- [Metropolis-Hastings algorithm and detailed balance](Metropolis-Hastings%20algorithm%20and%20detailed%20balance.html)
+- [MCMC convergence diagnostics and Gelman-Rubin statistic](MCMC%20convergence%20diagnostics%20and%20Gelman-Rubin%20statistic.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="MCMC%20convergence%20diagnostics%20and%20Gelman-Rubin%20statistic.html" class="backlink-item">MCMC convergence diagnostics and Gelman-Rubin statistic</a></li>
+    <li class="backlink-item-wrap"><a href="Metropolis-Hastings%20algorithm%20and%20detailed%20balance.html" class="backlink-item">Metropolis-Hastings algorithm and detailed balance</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./MCMC%20convergence%20diagnostics%20and%20Gelman-Rubin%20statistic.html" class="backlink-item">MCMC convergence diagnostics and Gelman-Rubin statistic</a></li>
-    <li class="backlink-item-wrap"><a href="./Metropolis-Hastings%20algorithm%20and%20detailed%20balance.html" class="backlink-item">Metropolis-Hastings algorithm and detailed balance</a></li>
   </ul>
 </div>
+

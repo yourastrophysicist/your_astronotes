@@ -2,7 +2,6 @@
 layout: "default"
 title: "Ch 9 - Inflation and Primordial Gravitational Waves"
 ---
-{% raw %}
 # Baumann Ch 9 (extension), Inflation and Primordial Gravitational Waves
 
 up: [Baumann GR](./Baumann%20GR.html) · [General_Relativity_MOC](../../../04_Atlas/General_Relativity_MOC.html)
@@ -206,12 +205,11 @@ if i had to compress chapter 9 into a paragraph for the oral:
 - references: Baumann, *Cosmology* (Cambridge, 2022); Baumann, "TASI Lectures on Inflation" (arXiv:0907.5424)
 - previous: [Ch 8 - Gravitational Waves](./Ch%208%20-%20Gravitational%20Waves.html)
 - this is the natural continuation of Baumann's GR notes, beyond the printed text.
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
+  <h4 class="backlinks-title">Linked References (1)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Baumann%20GR.html" class="backlink-item">Baumann GR</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/SVT%20decomposition.html" class="backlink-item">SVT decomposition</a></li>
   </ul>
 </div>
+

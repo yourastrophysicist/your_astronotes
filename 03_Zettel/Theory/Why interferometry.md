@@ -2,7 +2,6 @@
 layout: "default"
 title: "Why interferometry"
 ---
-{% raw %}
 # Why interferometry
 
 the answer to "why should I care?" — angular resolution sets *what we can see*, and interferometry is the only path to milli-arcsecond and microarcsecond resolutions in practice.
@@ -97,4 +96,3 @@ a single telescope produces an image directly. an interferometer produces *Fouri
 - [Van Cittert-Zernike theorem](interf/Van%20Cittert-Zernike%20theorem.html)
 - [Aperture synthesis principle](interf/Aperture%20synthesis%20principle.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

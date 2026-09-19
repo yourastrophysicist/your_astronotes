@@ -2,7 +2,6 @@
 layout: "default"
 title: "Scintillation and twinkling"
 ---
-{% raw %}
 # Scintillation and twinkling
 
 the **amplitude** fluctuations of starlight caused by atmospheric turbulence — the visible "twinkling" of stars to the naked eye. distinct from phase fluctuations (which cause seeing). for interferometry, scintillation is usually a small effect compared to phase, but it sets a noise floor for high-precision photometry and contributes to fringe-tracking errors.
@@ -104,4 +103,3 @@ planets famously do not twinkle (much). the difference is primary education's in
 
 ![Scintillation_and_twinkling.jpg](../../assets/images/Scintillation_and_twinkling.jpg)
 *Atmospheric scintillation and intensity fluctuations caused by high-altitude turbulent phase screens moving across the telescope aperture.*
-{% endraw %}

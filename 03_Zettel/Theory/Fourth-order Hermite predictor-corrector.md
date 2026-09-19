@@ -2,7 +2,6 @@
 layout: "default"
 title: "Fourth-order Hermite predictor-corrector"
 ---
-{% raw %}
 # Fourth-order Hermite predictor-corrector
 
 a fourth-order ODE integrator that uses *both* the function $\mathbf{f}$ and its time derivative $\dot{\mathbf{f}}$. especially efficient for N-body problems where computing $\dot{\mathbf{f}}$ (the jerk, $\dot{\mathbf{a}}$) costs little extra after computing $\mathbf{f}$ (the acceleration). the standard integrator for **collisional** N-body simulations.
@@ -68,7 +67,7 @@ $$\Delta t_i = \eta \sqrt{\frac{\lvert \mathbf{a}_i\lvert }{\rvert\ddot{\mathbf{
 
 with $\eta \sim 0.02$ a tuning parameter. each particle has its own timestep, scaled with the local dynamical timescale. close encounters get tiny $\Delta t$; particles in the cluster halo get large $\Delta t$. typically combined with **block timesteps** (each particle's step is $2^{-k}$ for some integer $k$) to allow synchronization.
 
-this is the workhorse of collisional N-body codes: NBODY6, NBODY7, KIRA. [Adaptive step size control](./Adaptive%20step%20size%20control.html) discusses the general framework.
+this is the workhorse of collisional N-body codes: NBODY6, NBODY7, KIRA. [Adaptive step size control](Adaptive%20step%20size%20control.html) discusses the general framework.
 
 ## comparison with leapfrog
 
@@ -98,11 +97,11 @@ leapfrog wins for energy conservation over $10^9$ orbits at fixed timestep. Herm
 
 ## see also
 
-- [Leapfrog integrator](./Leapfrog%20integrator.html)
-- [Runge-Kutta 4 method](./Runge-Kutta%204%20method.html)
-- [Astrophysical N-body problem formulation](./Astrophysical%20N-body%20problem%20formulation.html)
-- [Adaptive step size control](./Adaptive%20step%20size%20control.html)
-- [Energy conservation as a diagnostic](./Energy%20conservation%20as%20a%20diagnostic.html)
+- [Leapfrog integrator](Leapfrog%20integrator.html)
+- [Runge-Kutta 4 method](Runge-Kutta%204%20method.html)
+- [Astrophysical N-body problem formulation](Astrophysical%20N-body%20problem%20formulation.html)
+- [Adaptive step size control](Adaptive%20step%20size%20control.html)
+- [Energy conservation as a diagnostic](Energy%20conservation%20as%20a%20diagnostic.html)
 - [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
 
 ---
@@ -115,17 +114,17 @@ leapfrog wins for energy conservation over $10^9$ orbits at fixed timestep. Herm
 
 ![mapelli_fig08_p88.png](../../assets/images/mapelli_fig08_p49.png)
 *Aarseth Hermite integration algorithm flow: predictor step, acceleration and jerk evaluation, and corrector step.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (7)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Adaptive%20step%20size%20control.html" class="backlink-item">Adaptive step size control</a></li>
-    <li class="backlink-item-wrap"><a href="./Adaptive%20timesteps%20near%20close%20encounters.html" class="backlink-item">Adaptive timesteps near close encounters</a></li>
-    <li class="backlink-item-wrap"><a href="./Astrophysical%20N-body%20problem%20formulation.html" class="backlink-item">Astrophysical N-body problem formulation</a></li>
-    <li class="backlink-item-wrap"><a href="./Collisional%20vs%20collisionless%20N-body.html" class="backlink-item">Collisional vs collisionless N-body</a></li>
-    <li class="backlink-item-wrap"><a href="./Leapfrog%20integrator.html" class="backlink-item">Leapfrog integrator</a></li>
+    <li class="backlink-item-wrap"><a href="Adaptive%20step%20size%20control.html" class="backlink-item">Adaptive step size control</a></li>
+    <li class="backlink-item-wrap"><a href="Adaptive%20timesteps%20near%20close%20encounters.html" class="backlink-item">Adaptive timesteps near close encounters</a></li>
+    <li class="backlink-item-wrap"><a href="Astrophysical%20N-body%20problem%20formulation.html" class="backlink-item">Astrophysical N-body problem formulation</a></li>
+    <li class="backlink-item-wrap"><a href="Collisional%20vs%20collisionless%20N-body.html" class="backlink-item">Collisional vs collisionless N-body</a></li>
+    <li class="backlink-item-wrap"><a href="Leapfrog%20integrator.html" class="backlink-item">Leapfrog integrator</a></li>
+    <li class="backlink-item-wrap"><a href="N-body%20with%20Euler%20vs%20midpoint%20vs%20leapfrog.html" class="backlink-item">N-body with Euler vs midpoint vs leapfrog</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./N-body%20with%20Euler%20vs%20midpoint%20vs%20leapfrog.html" class="backlink-item">N-body with Euler vs midpoint vs leapfrog</a></li>
   </ul>
 </div>
+

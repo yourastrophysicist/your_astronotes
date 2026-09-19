@@ -2,7 +2,6 @@
 layout: "default"
 title: "Radio interferometer architecture"
 ---
-{% raw %}
 # Radio interferometer architecture
 
 the typical signal chain of a radio interferometer, from sky to image. very different from optical: signals are voltages, can be heterodyne-mixed, recorded, and correlated electronically. this enables Earth-baseline arrays and post-correlation calibration.
@@ -141,4 +140,3 @@ source: first figure from ALMA Observatory, "How ALMA Works"; second figure is a
 - [Very Long Baseline Interferometry VLBI](interf/Very%20Long%20Baseline%20Interferometry%20VLBI.html)
 - [Earth rotation synthesis in radio](interf/Earth%20rotation%20synthesis%20in%20radio.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

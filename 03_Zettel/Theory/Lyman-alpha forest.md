@@ -2,7 +2,6 @@
 layout: "default"
 title: "Lyman-alpha forest"
 ---
-{% raw %}
 the **Lyman-α forest** is a forest of narrow Lyman-α absorption lines in the spectra of high-$z$ quasars, produced by neutral H clouds + IGM along the line of sight. one of the most powerful probes of the IGM + LSS at $z = 2$ to $5$.
 
 ## the basic picture
@@ -61,16 +60,15 @@ besides Ly-α, the IGM clouds have metal absorption lines (C IV, Mg II, O VI). t
 
 ## see also
 
-- [Reionization](./Reionization.html)
-- [Intergalactic medium](./Intergalactic%20medium.html)
-- [Damping wings](./Damping%20wings.html)
-- [Hydrogen spectral series](./Hydrogen%20spectral%20series.html)
-- [Voigt profile](./Voigt%20profile.html)
-- [Photoionisation balance](./Photoionisation%20balance.html)
-- [Cosmic_inventory_baryons](./Cosmic_inventory_baryons.html)
-- [ΛCDM current parameters](./%CE%9BCDM%20current%20parameters.html)
+- [Reionization](Reionization.html)
+- [Intergalactic medium](Intergalactic%20medium.html)
+- [Damping wings](Damping%20wings.html)
+- [Hydrogen spectral series](Hydrogen%20spectral%20series.html)
+- [Voigt profile](Voigt%20profile.html)
+- [Photoionisation balance](Photoionisation%20balance.html)
+- [Cosmic_inventory_baryons](Cosmic_inventory_baryons.html)
+- [ΛCDM current parameters](%CE%9BCDM%20current%20parameters.html)
 - [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (1)</h4>
@@ -78,3 +76,4 @@ besides Ly-α, the IGM clouds have metal absorption lines (C IV, Mg II, O VI). t
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
   </ul>
 </div>
+

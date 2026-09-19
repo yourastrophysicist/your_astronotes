@@ -2,7 +2,6 @@
 layout: "default"
 title: "Appendix A - Optical telescopes"
 ---
-{% raw %}
 ## Basic parameters
 
 A telescope is characterized by its **aperture** $D$ and **focal length** $f$
@@ -64,7 +63,6 @@ In X-ray astronomy, **lenses are impractical**
 
 This is why all X-ray telescopes use **grazing incidence mirrors** (reflectors)
 	not refracting optics
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (1)</h4>
@@ -72,3 +70,4 @@ This is why all X-ray telescopes use **grazing incidence mirrors** (reflectors)
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
   </ul>
 </div>
+

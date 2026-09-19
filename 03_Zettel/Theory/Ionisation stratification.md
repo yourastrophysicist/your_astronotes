@@ -2,7 +2,6 @@
 layout: "default"
 title: "Ionisation stratification"
 ---
-{% raw %}
 in a photoionised gas around a single source, **species at higher ionisation potential cluster closer to the source**, and **lower-ionisation species at the periphery**. the gas is layered like an onion. observable as different emission-line "shells" in resolved nebulae.
 
 ## the physical reason
@@ -45,7 +44,7 @@ unresolved nebulae produce integrated spectra reflecting the volume-weighted mix
 - starburst galaxies (low $U$, low $T_e$): low [OIII]/[OII], high [SII]/H$\alpha$.
 - AGN narrow-line regions (high $U$, hard ionising spectrum): high [OIII]/H$\beta$, He II $\lambda 4686$ visible.
 
-these differences underlie the BPT diagram for galaxy classification ([BPT diagram](./BPT%20diagram.html)).
+these differences underlie the BPT diagram for galaxy classification ([BPT diagram](BPT%20diagram.html)).
 
 ## ionisation correction factors (ICFs)
 
@@ -63,26 +62,24 @@ matter-bounded vs ionisation-bounded affects the integrated line ratios; matter-
 
 ## see also
 
-- [Ionisation parameter U](./Ionisation%20parameter%20U.html)
+- [Ionisation parameter U](Ionisation%20parameter%20U.html)
 - Strömgren sphere
-- [Photoionisation balance](./Photoionisation%20balance.html)
-- [Forbidden line diagnostics](./Forbidden%20line%20diagnostics.html)
-- [BPT diagram](./BPT%20diagram.html)
-- [H II region spectroscopy](./H%20II%20region%20spectroscopy.html)
-- [AGN spectroscopy](./AGN%20spectroscopy.html)
-- [Planetary nebula spectroscopy](./Planetary%20nebula%20spectroscopy.html)
-{% endraw %}
+- [Photoionisation balance](Photoionisation%20balance.html)
+- [Forbidden line diagnostics](Forbidden%20line%20diagnostics.html)
+- [BPT diagram](BPT%20diagram.html)
+- [H II region spectroscopy](H%20II%20region%20spectroscopy.html)
+- [AGN spectroscopy](AGN%20spectroscopy.html)
+- [Planetary nebula spectroscopy](Planetary%20nebula%20spectroscopy.html)
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (8)</h4>
+  <h4 class="backlinks-title">Linked References (6)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Ionisation%20parameter%20U.html" class="backlink-item">Ionisation parameter U</a></li>
+    <li class="backlink-item-wrap"><a href="Ionisation%20parameter%20and%20ionisation%20state.html" class="backlink-item">Ionisation parameter and ionisation state</a></li>
+    <li class="backlink-item-wrap"><a href="Molecular%20clouds.html" class="backlink-item">Molecular clouds</a></li>
+    <li class="backlink-item-wrap"><a href="Photoionisation%20balance.html" class="backlink-item">Photoionisation balance</a></li>
+    <li class="backlink-item-wrap"><a href="Stromgren%20sphere.html" class="backlink-item">Stromgren sphere</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./H%20I%20regions.html" class="backlink-item">H I regions</a></li>
-    <li class="backlink-item-wrap"><a href="./H%20II%20region%20spectroscopy.html" class="backlink-item">H II region spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="./Ionisation%20parameter%20U.html" class="backlink-item">Ionisation parameter U</a></li>
-    <li class="backlink-item-wrap"><a href="./Ionisation%20parameter%20and%20ionisation%20state.html" class="backlink-item">Ionisation parameter and ionisation state</a></li>
-    <li class="backlink-item-wrap"><a href="./Photodissociation%20regions%20PDRs.html" class="backlink-item">Photodissociation regions PDRs</a></li>
-    <li class="backlink-item-wrap"><a href="./Photoionisation%20balance.html" class="backlink-item">Photoionisation balance</a></li>
-    <li class="backlink-item-wrap"><a href="./Stromgren%20sphere.html" class="backlink-item">Stromgren sphere</a></li>
   </ul>
 </div>
+

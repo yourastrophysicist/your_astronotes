@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Exoplanet demographic distributions and survey completeness"
-name: "Exoplanet demographic distributions and survey completeness"
-description: "statistical population distributions, selection functions, 1/Vmax completeness corrections, and giant planet snow line occurrence"
 ---
-{% raw %}
 determining the true underlying occurrence rate of exoplanets requires correcting raw catalog discoveries for observational selection biases.
 
 ## observational selection functions
@@ -31,17 +28,17 @@ where $\eta(P, R_p) = \frac{1}{N_\star} \sum_{j=1}^{N_\star} p_{\text{det}}(P, R
 
 - [Exoplanetary_Astrophysics_MOC](../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)
 - [03_Demographics_and_Survey_Completeness](../../02_Literature/Lectures/Exoplanetary_Astrophysics/03_Demographics_and_Survey_Completeness.html)
-- [Small exoplanets and the Fulton radius valley](./Small%20exoplanets%20and%20the%20Fulton%20radius%20valley.html)
-- [Protoplanetary disk evolution and core accretion paradigm](./Protoplanetary%20disk%20evolution%20and%20core%20accretion%20paradigm.html)
-{% endraw %}
+- [Small exoplanets and the Fulton radius valley](Small%20exoplanets%20and%20the%20Fulton%20radius%20valley.html)
+- [Protoplanetary disk evolution and core accretion paradigm](Protoplanetary%20disk%20evolution%20and%20core%20accretion%20paradigm.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Gravitational%20microlensing%20of%20planetary%20systems.html" class="backlink-item">Gravitational microlensing of planetary systems</a></li>
+    <li class="backlink-item-wrap"><a href="Pebble%20accretion%20and%20planetary%20orbital%20migration.html" class="backlink-item">Pebble accretion and planetary orbital migration</a></li>
+    <li class="backlink-item-wrap"><a href="Protoplanetary%20disk%20evolution%20and%20core%20accretion%20paradigm.html" class="backlink-item">Protoplanetary disk evolution and core accretion paradigm</a></li>
+    <li class="backlink-item-wrap"><a href="Small%20exoplanets%20and%20the%20Fulton%20radius%20valley.html" class="backlink-item">Small exoplanets and the Fulton radius valley</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Gravitational%20microlensing%20of%20planetary%20systems.html" class="backlink-item">Gravitational microlensing of planetary systems</a></li>
-    <li class="backlink-item-wrap"><a href="./Pebble%20accretion%20and%20planetary%20orbital%20migration.html" class="backlink-item">Pebble accretion and planetary orbital migration</a></li>
-    <li class="backlink-item-wrap"><a href="./Protoplanetary%20disk%20evolution%20and%20core%20accretion%20paradigm.html" class="backlink-item">Protoplanetary disk evolution and core accretion paradigm</a></li>
-    <li class="backlink-item-wrap"><a href="./Small%20exoplanets%20and%20the%20Fulton%20radius%20valley.html" class="backlink-item">Small exoplanets and the Fulton radius valley</a></li>
   </ul>
 </div>
+

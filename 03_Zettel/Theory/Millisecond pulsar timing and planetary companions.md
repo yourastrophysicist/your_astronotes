@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Millisecond pulsar timing and planetary companions"
-name: "Millisecond pulsar timing and planetary companions"
-description: "clock stability of recycled pulsars, Roemer delay reflex timing, and the historic discovery of PSR B1257+12 planets"
 ---
-{% raw %}
 millisecond pulsars (MSPs) rotate hundreds of times per second with rotational clock stability rivaling atomic clocks ($d P / dt \sim 10^{-20}\text{ s s}^{-1}$). an orbiting planet induces reflex displacements of the pulsar around the barycenter, producing measurable periodic delays in pulse Times of Arrival (TOAs).
 
 ## the roemer delay
@@ -39,9 +36,8 @@ planets cannot survive the supernova explosion that formed the neutron star. the
 
 - [Exoplanetary_Astrophysics_MOC](../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)
 - [06_Timing_Methods_and_Pulsar_Planets](../../02_Literature/Lectures/Exoplanetary_Astrophysics/06_Timing_Methods_and_Pulsar_Planets.html)
-- [Keplerian radial velocity and Doppler semi-amplitude](./Keplerian%20radial%20velocity%20and%20Doppler%20semi-amplitude.html)
-- [Transit timing variations and resonant multi-planet dynamics](./Transit%20timing%20variations%20and%20resonant%20multi-planet%20dynamics.html)
-{% endraw %}
+- [Keplerian radial velocity and Doppler semi-amplitude](Keplerian%20radial%20velocity%20and%20Doppler%20semi-amplitude.html)
+- [Transit timing variations and resonant multi-planet dynamics](Transit%20timing%20variations%20and%20resonant%20multi-planet%20dynamics.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (1)</h4>
@@ -49,3 +45,4 @@ planets cannot survive the supernova explosion that formed the neutron star. the
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

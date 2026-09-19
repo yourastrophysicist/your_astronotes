@@ -2,7 +2,6 @@
 layout: "default"
 title: "Finite difference discretization"
 ---
-{% raw %}
 # Finite difference discretization
 
 the most direct way to turn a partial differential equation into something a computer can solve. replace the continuous derivatives with finite differences on a discrete grid, transforming the PDE into a system of algebraic equations for the values at grid points.
@@ -53,7 +52,7 @@ solve with Gauss-Seidel, conjugate gradient, multigrid, or sparse direct methods
 discretize space *and* time. with FTCS:
 $$\frac{u_{i,j}^{n+1} - u_{i,j}^n}{\Delta t} = D \cdot (\text{5-point Laplacian of } u^n)_{i,j}$$
 
-solve for $u_{i,j}^{n+1}$ explicitly. each timestep is a single matrix-vector multiplication. see [Initial value PDEs and FTCS](./Initial%20value%20PDEs%20and%20FTCS.html).
+solve for $u_{i,j}^{n+1}$ explicitly. each timestep is a single matrix-vector multiplication. see [Initial value PDEs and FTCS](Initial%20value%20PDEs%20and%20FTCS.html).
 
 ## boundary conditions in the discretization
 
@@ -89,22 +88,22 @@ these come at the cost of more complex stencil definitions (the simple "$u_{i+1}
 
 ## see also
 
-- [Forward backward and central differences](./Forward%20backward%20and%20central%20differences.html)
-- [Second derivatives](./Second%20derivatives.html)
-- [Initial value PDEs and FTCS](./Initial%20value%20PDEs%20and%20FTCS.html)
-- [Boundary value PDEs and iteration](./Boundary%20value%20PDEs%20and%20iteration.html)
-- [Stability and the Courant condition](./Stability%20and%20the%20Courant%20condition.html)
+- [Forward backward and central differences](Forward%20backward%20and%20central%20differences.html)
+- [Second derivatives](Second%20derivatives.html)
+- [Initial value PDEs and FTCS](Initial%20value%20PDEs%20and%20FTCS.html)
+- [Boundary value PDEs and iteration](Boundary%20value%20PDEs%20and%20iteration.html)
+- [Stability and the Courant condition](Stability%20and%20the%20Courant%20condition.html)
 - [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (6)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Boundary%20value%20PDEs%20and%20iteration.html" class="backlink-item">Boundary value PDEs and iteration</a></li>
-    <li class="backlink-item-wrap"><a href="./Initial%20value%20PDEs%20and%20FTCS.html" class="backlink-item">Initial value PDEs and FTCS</a></li>
+    <li class="backlink-item-wrap"><a href="Boundary%20value%20PDEs%20and%20iteration.html" class="backlink-item">Boundary value PDEs and iteration</a></li>
+    <li class="backlink-item-wrap"><a href="Initial%20value%20PDEs%20and%20FTCS.html" class="backlink-item">Initial value PDEs and FTCS</a></li>
+    <li class="backlink-item-wrap"><a href="Second%20derivatives.html" class="backlink-item">Second derivatives</a></li>
+    <li class="backlink-item-wrap"><a href="Stability%20and%20the%20Courant%20condition.html" class="backlink-item">Stability and the Courant condition</a></li>
+    <li class="backlink-item-wrap"><a href="When%20to%20use%20implicit%20schemes.html" class="backlink-item">When to use implicit schemes</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Second%20derivatives.html" class="backlink-item">Second derivatives</a></li>
-    <li class="backlink-item-wrap"><a href="./Stability%20and%20the%20Courant%20condition.html" class="backlink-item">Stability and the Courant condition</a></li>
-    <li class="backlink-item-wrap"><a href="./When%20to%20use%20implicit%20schemes.html" class="backlink-item">When to use implicit schemes</a></li>
   </ul>
 </div>
+

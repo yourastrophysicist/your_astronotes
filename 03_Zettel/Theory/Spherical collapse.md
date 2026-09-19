@@ -2,7 +2,6 @@
 layout: "default"
 title: "Spherical collapse"
 ---
-{% raw %}
 linear perturbation theory works while $\lvert \delta\rvert \ll 1$. once $\delta \gtrsim 1$, the perturbation grows nonlinearly and eventually **collapses** into a virialized halo. the simplest analytic description is the **spherical collapse model**: an idealized uniform overdense sphere embedded in an FRW background.
 
 ---
@@ -55,7 +54,7 @@ so a virialized halo is about 178 times denser than the background. hence the co
 
 ## why $\delta_c \approx 1.686$ matters
 
-the spherical collapse threshold is the input to the **Press-Schechter halo mass function** (see [Press-Schechter halo mass function](./Press-Schechter%20halo%20mass%20function.html)). the idea: given the linear matter power spectrum $P_m(k)$, smooth it on scale $R$ to get the variance $\sigma^2(R)$ of the linear $\delta$ field. the fraction of mass in collapsed halos of mass $> M(R)$ is approximately the probability that a Gaussian field exceeds $\delta_c$:
+the spherical collapse threshold is the input to the **Press-Schechter halo mass function** (see [Press-Schechter halo mass function](Press-Schechter%20halo%20mass%20function.html)). the idea: given the linear matter power spectrum $P_m(k)$, smooth it on scale $R$ to get the variance $\sigma^2(R)$ of the linear $\delta$ field. the fraction of mass in collapsed halos of mass $> M(R)$ is approximately the probability that a Gaussian field exceeds $\delta_c$:
 $$f_{\rm collapse}(>M) = \text{erfc}\left(\frac{\delta_c}{\sqrt 2 \sigma(M)}\right)$$
 
 so $\delta_c$ is the bridge between linear theory and the actual abundance of dark-matter halos.
@@ -79,27 +78,27 @@ corrections beyond spherical collapse:
 ## see also
 
 - [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Linear evolution of perturbations in expanding universe](./Linear%20evolution%20of%20perturbations%20in%20expanding%20universe.html)
-- [Growth factor D(z)](./Growth%20factor%20D%28z%29.html)
-- [Press-Schechter halo mass function](./Press-Schechter%20halo%20mass%20function.html)
-- [Jeans analysis in expanding universe](./Jeans%20analysis%20in%20expanding%20universe.html)
-- [Matter power spectrum and BAO](./Matter%20power%20spectrum%20and%20BAO.html)
-{% endraw %}
+- [Linear evolution of perturbations in expanding universe](Linear%20evolution%20of%20perturbations%20in%20expanding%20universe.html)
+- [Growth factor D(z)](Growth%20factor%20D%28z%29.html)
+- [Press-Schechter halo mass function](Press-Schechter%20halo%20mass%20function.html)
+- [Jeans analysis in expanding universe](Jeans%20analysis%20in%20expanding%20universe.html)
+- [Matter power spectrum and BAO](Matter%20power%20spectrum%20and%20BAO.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (12)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Cosmological%20evolution%20of%20perturbations%20in%20the%20cosmic%20fluid.html" class="backlink-item">Cosmological evolution of perturbations in the cosmic fluid</a></li>
+    <li class="backlink-item-wrap"><a href="Cosmological%20evolution%20of%20perturbations%20in%20the%20cosmic%20fluid.html" class="backlink-item">Cosmological evolution of perturbations in the cosmic fluid</a></li>
+    <li class="backlink-item-wrap"><a href="Growth%20factor%20D%28z%29.html" class="backlink-item">Growth factor D(z)</a></li>
+    <li class="backlink-item-wrap"><a href="Jeans%20analysis%20in%20expanding%20universe.html" class="backlink-item">Jeans analysis in expanding universe</a></li>
+    <li class="backlink-item-wrap"><a href="Linear%20evolution%20of%20perturbations%20in%20expanding%20universe.html" class="backlink-item">Linear evolution of perturbations in expanding universe</a></li>
+    <li class="backlink-item-wrap"><a href="Linear%20vs%20nonlinear%20regime.html" class="backlink-item">Linear vs nonlinear regime</a></li>
+    <li class="backlink-item-wrap"><a href="N-body%20simulations.html" class="backlink-item">N-body simulations</a></li>
+    <li class="backlink-item-wrap"><a href="Perturbations%20in%20an%20expanding%20universe.html" class="backlink-item">Perturbations in an expanding universe</a></li>
+    <li class="backlink-item-wrap"><a href="Press-Schechter%20formalism.html" class="backlink-item">Press-Schechter formalism</a></li>
+    <li class="backlink-item-wrap"><a href="Press-Schechter%20halo%20mass%20function.html" class="backlink-item">Press-Schechter halo mass function</a></li>
+    <li class="backlink-item-wrap"><a href="Protocluster%20detection%20techniques.html" class="backlink-item">Protocluster detection techniques</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Growth%20factor%20D%28z%29.html" class="backlink-item">Growth factor D(z)</a></li>
-    <li class="backlink-item-wrap"><a href="./Jeans%20analysis%20in%20expanding%20universe.html" class="backlink-item">Jeans analysis in expanding universe</a></li>
-    <li class="backlink-item-wrap"><a href="./Linear%20evolution%20of%20perturbations%20in%20expanding%20universe.html" class="backlink-item">Linear evolution of perturbations in expanding universe</a></li>
-    <li class="backlink-item-wrap"><a href="./Linear%20vs%20nonlinear%20regime.html" class="backlink-item">Linear vs nonlinear regime</a></li>
-    <li class="backlink-item-wrap"><a href="./N-body%20simulations.html" class="backlink-item">N-body simulations</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Perturbations%20in%20an%20expanding%20universe.html" class="backlink-item">Perturbations in an expanding universe</a></li>
-    <li class="backlink-item-wrap"><a href="./Press-Schechter%20formalism.html" class="backlink-item">Press-Schechter formalism</a></li>
-    <li class="backlink-item-wrap"><a href="./Press-Schechter%20halo%20mass%20function.html" class="backlink-item">Press-Schechter halo mass function</a></li>
-    <li class="backlink-item-wrap"><a href="./Protocluster%20detection%20techniques.html" class="backlink-item">Protocluster detection techniques</a></li>
   </ul>
 </div>
+

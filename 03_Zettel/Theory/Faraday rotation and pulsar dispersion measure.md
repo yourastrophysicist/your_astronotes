@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Faraday rotation and pulsar dispersion measure"
-name: "Faraday rotation and pulsar dispersion measure"
-description: "plasma birefringence, rotation measure RM, dispersion measure DM, and the derivation of mean line-of-sight field"
 ---
-{% raw %}
 Faraday rotation is the rotation of the polarization plane of linearly polarized radio waves passing through a magnetized ionized plasma.
 
 ## rotation measure (rm)
@@ -34,16 +31,15 @@ this is prof. carraro's equation (slide 14). by compiling $\text{RM}$ and $\text
 ## see also
 
 - [Astrophysics_of_the_Interstellar_Medium_MOC](../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html)
-- [Interstellar magnetic field tracers](./Interstellar%20magnetic%20field%20tracers.html)
+- [Interstellar magnetic field tracers](Interstellar%20magnetic%20field%20tracers.html)
 - [Carraro_07_Interstellar_Magnetic_Fields](../../02_Literature/Lectures/Interstellar_Medium/Carraro_07_Interstellar_Magnetic_Fields.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
+  <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Cold%20plasma%20dielectric%20tensor%20and%20Appleton-Hartree%20dispersion.html" class="backlink-item">Cold plasma dielectric tensor and Appleton-Hartree dispersion</a></li>
+    <li class="backlink-item-wrap"><a href="Interstellar%20magnetic%20field%20tracers.html" class="backlink-item">Interstellar magnetic field tracers</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html" class="backlink-item">Astrophysics_of_the_Interstellar_Medium_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Interstellar_Medium/Carraro_07_Interstellar_Magnetic_Fields.html" class="backlink-item">Carraro_07_Interstellar_Magnetic_Fields</a></li>
-    <li class="backlink-item-wrap"><a href="./Cold%20plasma%20dielectric%20tensor%20and%20Appleton-Hartree%20dispersion.html" class="backlink-item">Cold plasma dielectric tensor and Appleton-Hartree dispersion</a></li>
-    <li class="backlink-item-wrap"><a href="./Interstellar%20magnetic%20field%20tracers.html" class="backlink-item">Interstellar magnetic field tracers</a></li>
   </ul>
 </div>
+

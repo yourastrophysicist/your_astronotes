@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Distributed version control DAG and GitLab workflows"
-name: "Distributed version control DAG and GitLab workflows"
-description: "directed acyclic graph architecture, content-addressable object store, 3-way merges, and collaborative scientific workflows"
 ---
-{% raw %}
 Git tracks code history not as delta diffs, but as an immutable Directed Acyclic Graph (DAG) of project snapshots stored in a content-addressable object database.
 
 ## internal object store architecture
@@ -36,15 +33,15 @@ collaborative research packages (`daneel`) use GitLab automated pipelines (`.git
 
 - [Computational_Astrophysics_MOC](../../04_Atlas/Computational_Astrophysics_MOC.html)
 - [02_Version_Control_with_Git_and_GitLab](../../02_Literature/Lectures/Computational_Astrophysics/02_Version_Control_with_Git_and_GitLab.html)
-- [Modular Python packaging and scientific software architecture](./Modular%20Python%20packaging%20and%20scientific%20software%20architecture.html)
-- [Linux containers and Docker architecture in astrophysics](./Linux%20containers%20and%20Docker%20architecture%20in%20astrophysics.html)
-{% endraw %}
+- [Modular Python packaging and scientific software architecture](Modular%20Python%20packaging%20and%20scientific%20software%20architecture.html)
+- [Linux containers and Docker architecture in astrophysics](Linux%20containers%20and%20Docker%20architecture%20in%20astrophysics.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Linux%20containers%20and%20Docker%20architecture%20in%20astrophysics.html" class="backlink-item">Linux containers and Docker architecture in astrophysics</a></li>
+    <li class="backlink-item-wrap"><a href="Modular%20Python%20packaging%20and%20scientific%20software%20architecture.html" class="backlink-item">Modular Python packaging and scientific software architecture</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Linux%20containers%20and%20Docker%20architecture%20in%20astrophysics.html" class="backlink-item">Linux containers and Docker architecture in astrophysics</a></li>
-    <li class="backlink-item-wrap"><a href="./Modular%20Python%20packaging%20and%20scientific%20software%20architecture.html" class="backlink-item">Modular Python packaging and scientific software architecture</a></li>
   </ul>
 </div>
+

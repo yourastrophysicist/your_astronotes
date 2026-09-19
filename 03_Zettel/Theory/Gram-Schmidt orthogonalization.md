@@ -2,7 +2,6 @@
 layout: "default"
 title: "Gram-Schmidt orthogonalization"
 ---
-{% raw %}
 # Gram-Schmidt orthogonalization
 
 a constructive procedure that turns a linearly independent set of vectors $\{\mathbf{a}_0, \mathbf{a}_1, \ldots, \mathbf{a}_{N-1}\}$ into an *orthonormal* set $\{\mathbf{q}_0, \mathbf{q}_1, \ldots, \mathbf{q}_{N-1}\}$ spanning the same subspace.
@@ -78,7 +77,7 @@ stack as columns:
 
 $$A = QR$$
 
-with $Q$ orthogonal ($Q^T Q = I$) and $R$ upper triangular with diagonal $\\lvert \mathbf{u}_i\\rvert$ and off-diagonal $(\mathbf{q}_k \cdot \mathbf{a}_i)$. this is [QR decomposition](./QR%20decomposition.html) — Gram-Schmidt is *one* way to compute it.
+with $Q$ orthogonal ($Q^T Q = I$) and $R$ upper triangular with diagonal $\\lvert \mathbf{u}_i\\rvert$ and off-diagonal $(\mathbf{q}_k \cdot \mathbf{a}_i)$. this is [QR decomposition](QR%20decomposition.html) — Gram-Schmidt is *one* way to compute it.
 
 ## why it matters in physics
 
@@ -93,17 +92,17 @@ $O(N^3)$ for an $N \times N$ matrix (the dominant cost is the dot products and r
 
 ## see also
 
-- [QR decomposition](./QR%20decomposition.html)
-- [QR algorithm for eigenvalues](./QR%20algorithm%20for%20eigenvalues.html)
+- [QR decomposition](QR%20decomposition.html)
+- [QR algorithm for eigenvalues](QR%20algorithm%20for%20eigenvalues.html)
 - [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Matrix%20diagonalization%20%24A%20%3D%20VDV%5ET%24.html" class="backlink-item">Matrix diagonalization $A = VDV^T$</a></li>
+    <li class="backlink-item-wrap"><a href="QR%20algorithm%20for%20eigenvalues.html" class="backlink-item">QR algorithm for eigenvalues</a></li>
+    <li class="backlink-item-wrap"><a href="QR%20decomposition.html" class="backlink-item">QR decomposition</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Matrix%20diagonalization%20%24A%20%3D%20VDV%5ET%24.html" class="backlink-item">Matrix diagonalization $A = VDV^T$</a></li>
-    <li class="backlink-item-wrap"><a href="./QR%20algorithm%20for%20eigenvalues.html" class="backlink-item">QR algorithm for eigenvalues</a></li>
-    <li class="backlink-item-wrap"><a href="./QR%20decomposition.html" class="backlink-item">QR decomposition</a></li>
   </ul>
 </div>
+

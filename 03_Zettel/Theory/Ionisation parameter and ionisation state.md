@@ -2,7 +2,6 @@
 layout: "default"
 title: "Ionisation parameter and ionisation state"
 ---
-{% raw %}
 a quick-reference summary of how the ionisation parameter $U$ controls the typical ionisation state of a photoionised gas. central to mapping nebular line ratios to physical conditions.
 
 ## the chain $U \to$ line ratios
@@ -63,26 +62,26 @@ the BPT diagram (Baldwin, Phillips, Terlevich 1981) plots:
 
 galaxies form a "main sequence" in this diagram: star-forming galaxies on a curving locus, AGN above and to the right. the separation reflects the harder ionising spectrum of AGN (needs higher $U$ + harder photons to produce the [OIII]/H$\beta$ ratios seen in Seyfert nuclei).
 
-see [BPT diagram](./BPT%20diagram.html).
+see [BPT diagram](BPT%20diagram.html).
 
 ## see also
 
-- [Ionisation parameter U](./Ionisation%20parameter%20U.html)
-- [Photoionisation balance](./Photoionisation%20balance.html)
+- [Ionisation parameter U](Ionisation%20parameter%20U.html)
+- [Photoionisation balance](Photoionisation%20balance.html)
 - Strömgren sphere
-- [Ionisation stratification](./Ionisation%20stratification.html)
-- [BPT diagram](./BPT%20diagram.html)
-- [H II region spectroscopy](./H%20II%20region%20spectroscopy.html)
-- [AGN spectroscopy](./AGN%20spectroscopy.html)
-- [Forbidden line diagnostics](./Forbidden%20line%20diagnostics.html)
-- [Spectroscopic Te diagnostics](./Spectroscopic%20Te%20diagnostics.html)
-- [Spectroscopic ne diagnostics](./Spectroscopic%20ne%20diagnostics.html)
-{% endraw %}
+- [Ionisation stratification](Ionisation%20stratification.html)
+- [BPT diagram](BPT%20diagram.html)
+- [H II region spectroscopy](H%20II%20region%20spectroscopy.html)
+- [AGN spectroscopy](AGN%20spectroscopy.html)
+- [Forbidden line diagnostics](Forbidden%20line%20diagnostics.html)
+- [Spectroscopic Te diagnostics](Spectroscopic%20Te%20diagnostics.html)
+- [Spectroscopic ne diagnostics](Spectroscopic%20ne%20diagnostics.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="BPT%20diagram.html" class="backlink-item">BPT diagram</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./BPT%20diagram.html" class="backlink-item">BPT diagram</a></li>
   </ul>
 </div>
+

@@ -2,7 +2,6 @@
 layout: "default"
 title: "Crowding limitation"
 ---
-{% raw %}
 # Crowding limitation
 
 a fundamental limit on how *many sources* a sparse interferometer can image at once. with too many sources in the field of view, the dirty beam's sidelobes from each source pile up, contaminating every other source. there is a maximum source density that can be cleanly imaged.
@@ -45,7 +44,7 @@ so designing arrays with good (u, v) coverage is partly about *reducing crowding
 
 ## the labyrie hypertelescope solution
 
-[hypertelescope](./Hypertelescope.html) schemes (Labeyrie 1996) use **pupil densification** to create a "concentrated" version of the dirty beam — most of the energy in the central peak, with much smaller sidelobes. this reduces crowding and lets sparse arrays image more densely-populated fields.
+[hypertelescope](Hypertelescope.html) schemes (Labeyrie 1996) use **pupil densification** to create a "concentrated" version of the dirty beam — most of the energy in the central peak, with much smaller sidelobes. this reduces crowding and lets sparse arrays image more densely-populated fields.
 
 essentially: trade some signal-to-noise for a much better PSF.
 
@@ -70,19 +69,19 @@ chapter 4 of Labeyrie discusses the crowding limit for *sparse-aperture* arrays 
 
 ## see also
 
-- [Dirty beam and dirty image](./Dirty%20beam%20and%20dirty%20image.html)
-- [The (u, v) plane](./The%20%28u%2C%20v%29%20plane.html)
-- [Aperture synthesis principle](./Aperture%20synthesis%20principle.html)
-- [CLEAN algorithm](./CLEAN%20algorithm.html)
-- [Hypertelescope](./Hypertelescope.html)
+- [Dirty beam and dirty image](Dirty%20beam%20and%20dirty%20image.html)
+- [The (u, v) plane](The%20%28u%2C%20v%29%20plane.html)
+- [Aperture synthesis principle](Aperture%20synthesis%20principle.html)
+- [CLEAN algorithm](CLEAN%20algorithm.html)
+- [Hypertelescope](Hypertelescope.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../Hypertelescope.html" class="backlink-item">Hypertelescope</a></li>
-    <li class="backlink-item-wrap"><a href="./Hypertelescope.html" class="backlink-item">Hypertelescope</a></li>
+    <li class="backlink-item-wrap"><a href="Hypertelescope.html" class="backlink-item">Hypertelescope</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

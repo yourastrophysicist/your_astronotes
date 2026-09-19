@@ -2,7 +2,6 @@
 layout: "default"
 title: "Stellar structure equations"
 ---
-{% raw %}
 a spherically symmetric, non-rotating, non-magnetic star in quasi-static equilibrium is governed by **the four differential equations of stellar structure**. these equations connect mass, pressure, temperature, and luminosity as functions of radial distance $r$ from the center.
 
 ![stellar-20.png](../../assets/images/stellar-20.png)
@@ -68,21 +67,21 @@ the dominance of radiative vs convective zones depends fundamentally on stellar 
 ## see also
 
 - [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Radiative transport](./Radiative%20transport.html)
-- [Stellar scaling relations](./Stellar%20scaling%20relations.html)
-- [Stellar nucleosynthesis](./Stellar%20nucleosynthesis.html)
-- [Stellar evolution timescales](./Stellar%20evolution%20timescales.html)
-{% endraw %}
+- [Radiative transport](Radiative%20transport.html)
+- [Stellar scaling relations](Stellar%20scaling%20relations.html)
+- [Stellar nucleosynthesis](Stellar%20nucleosynthesis.html)
+- [Stellar evolution timescales](Stellar%20evolution%20timescales.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (7)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Jeans%20theory%20and%20protostellar%20formation.html" class="backlink-item">Jeans theory and protostellar formation</a></li>
+    <li class="backlink-item-wrap"><a href="M-dwarf%20discontinuity%20and%20convective%20merging%20instability.html" class="backlink-item">M-dwarf discontinuity and convective merging instability</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20atmosphere%20structure.html" class="backlink-item">Stellar atmosphere structure</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20evolution%20timescales.html" class="backlink-item">Stellar evolution timescales</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20nucleosynthesis.html" class="backlink-item">Stellar nucleosynthesis</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20scaling%20relations.html" class="backlink-item">Stellar scaling relations</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Jeans%20theory%20and%20protostellar%20formation.html" class="backlink-item">Jeans theory and protostellar formation</a></li>
-    <li class="backlink-item-wrap"><a href="./M-dwarf%20discontinuity%20and%20convective%20merging%20instability.html" class="backlink-item">M-dwarf discontinuity and convective merging instability</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20atmosphere%20structure.html" class="backlink-item">Stellar atmosphere structure</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20evolution%20timescales.html" class="backlink-item">Stellar evolution timescales</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20nucleosynthesis.html" class="backlink-item">Stellar nucleosynthesis</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20scaling%20relations.html" class="backlink-item">Stellar scaling relations</a></li>
   </ul>
 </div>
+

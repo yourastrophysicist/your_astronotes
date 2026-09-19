@@ -2,7 +2,6 @@
 layout: "default"
 title: "Flux calibration in radio"
 ---
-{% raw %}
 # Flux calibration (radio interferometry)
 
 set the *absolute* flux scale of a radio observation by tying it to a known reference. the second step (after bandpass) in radio data reduction. essential for any quantitative radio measurement.
@@ -89,4 +88,3 @@ if "calibrator" is partially resolved, naive flux transfer underestimates the co
 - [Self-calibration](interf/Self-calibration.html)
 - [Flux calibration](interf/Flux%20calibration.html) — for stellar spectra (different topic)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

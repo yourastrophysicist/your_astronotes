@@ -2,7 +2,6 @@
 layout: "default"
 title: "Young experiment as a stellar interferometer"
 ---
-{% raw %}
 # Young's experiment as a stellar interferometer
 
 the historical and conceptual bridge between optics and interferometric astronomy. Thomas Young's 1801 two-slit experiment proved light is a wave; **the same setup, applied to starlight, is the simplest possible stellar interferometer**. Hippolyte Fizeau (1868) and Albert Michelson (1920) both realized this. this is the prototype every modern instrument is descended from.
@@ -73,7 +72,7 @@ the Labeyrie textbook reproduces a photograph of Stéphan's mask covering the Ma
 
 two slits sample exactly *one* spatial frequency, $\mathbf u = \mathbf B/\lambda$. they tell you the visibility at that frequency but nothing about the others. so two-element interferometers are useful for measuring the *size* of simple sources (uniform disks, binary separations) but cannot produce images.
 
-for images, you need many baselines covering many spatial frequencies — see [Aperture synthesis principle](./Aperture%20synthesis%20principle.html) and [The (u, v) plane](./The%20%28u%2C%20v%29%20plane.html).
+for images, you need many baselines covering many spatial frequencies — see [Aperture synthesis principle](Aperture%20synthesis%20principle.html) and [The (u, v) plane](The%20%28u%2C%20v%29%20plane.html).
 
 ## scientific figure
 
@@ -85,32 +84,32 @@ source: local study diagram generated from the standard Young/Fraunhofer geometr
 
 ## see also
 
-- [Plane waves and Huygens principle](./Plane%20waves%20and%20Huygens%20principle.html)
-- [Superposition and interference](./Superposition%20and%20interference.html)
-- [Fringe visibility and contrast](./Fringe%20visibility%20and%20contrast.html)
-- [Michelson stellar interferometer](./Michelson%20stellar%20interferometer.html)
-- [Stellar diameters and limb darkening](./Stellar%20diameters%20and%20limb%20darkening.html)
+- [Plane waves and Huygens principle](Plane%20waves%20and%20Huygens%20principle.html)
+- [Superposition and interference](Superposition%20and%20interference.html)
+- [Fringe visibility and contrast](Fringe%20visibility%20and%20contrast.html)
+- [Michelson stellar interferometer](Michelson%20stellar%20interferometer.html)
+- [Stellar diameters and limb darkening](Stellar%20diameters%20and%20limb%20darkening.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (16)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
     <li class="backlink-item-wrap"><a href="../Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="./Fresnel%20biprism.html" class="backlink-item">Fresnel biprism</a></li>
     <li class="backlink-item-wrap"><a href="../Fresnel%20biprism.html" class="backlink-item">Fresnel biprism</a></li>
-    <li class="backlink-item-wrap"><a href="./Fresnel%20double%20mirror.html" class="backlink-item">Fresnel double mirror</a></li>
     <li class="backlink-item-wrap"><a href="../Fresnel%20double%20mirror.html" class="backlink-item">Fresnel double mirror</a></li>
-    <li class="backlink-item-wrap"><a href="./Lloyd%20mirror.html" class="backlink-item">Lloyd mirror</a></li>
     <li class="backlink-item-wrap"><a href="../Lloyd%20mirror.html" class="backlink-item">Lloyd mirror</a></li>
     <li class="backlink-item-wrap"><a href="../Michelson%20stellar%20interferometer.html" class="backlink-item">Michelson stellar interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="./Michelson%20stellar%20interferometer.html" class="backlink-item">Michelson stellar interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="./Plane%20waves%20and%20Huygens%20principle.html" class="backlink-item">Plane waves and Huygens principle</a></li>
-    <li class="backlink-item-wrap"><a href="./Superposition%20and%20interference.html" class="backlink-item">Superposition and interference</a></li>
     <li class="backlink-item-wrap"><a href="../Superposition%20and%20interference.html" class="backlink-item">Superposition and interference</a></li>
-    <li class="backlink-item-wrap"><a href="./Wavefront-division%20interferometers.html" class="backlink-item">Wavefront-division interferometers</a></li>
     <li class="backlink-item-wrap"><a href="../Wavefront-division%20interferometers.html" class="backlink-item">Wavefront-division interferometers</a></li>
+    <li class="backlink-item-wrap"><a href="Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
+    <li class="backlink-item-wrap"><a href="Fresnel%20biprism.html" class="backlink-item">Fresnel biprism</a></li>
+    <li class="backlink-item-wrap"><a href="Fresnel%20double%20mirror.html" class="backlink-item">Fresnel double mirror</a></li>
+    <li class="backlink-item-wrap"><a href="Lloyd%20mirror.html" class="backlink-item">Lloyd mirror</a></li>
+    <li class="backlink-item-wrap"><a href="Michelson%20stellar%20interferometer.html" class="backlink-item">Michelson stellar interferometer</a></li>
+    <li class="backlink-item-wrap"><a href="Plane%20waves%20and%20Huygens%20principle.html" class="backlink-item">Plane waves and Huygens principle</a></li>
+    <li class="backlink-item-wrap"><a href="Superposition%20and%20interference.html" class="backlink-item">Superposition and interference</a></li>
+    <li class="backlink-item-wrap"><a href="Wavefront-division%20interferometers.html" class="backlink-item">Wavefront-division interferometers</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

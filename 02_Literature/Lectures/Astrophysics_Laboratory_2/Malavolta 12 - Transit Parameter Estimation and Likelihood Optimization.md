@@ -2,8 +2,7 @@
 layout: "default"
 title: "Malavolta 12 - Transit Parameter Estimation and Likelihood Optimization"
 ---
-{% raw %}
-# Malavolta 12 ? Transit Parameter Estimation and Likelihood Optimization
+# Malavolta 12 — Transit Parameter Estimation and Likelihood Optimization
 
 *Astrophysics Laboratory 2, Prof. Luca Malavolta*  
 *Index: [Astrophysics_Laboratory_2_MOC](../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html)*
@@ -105,12 +104,12 @@ def log_likelihood(theta, time_taste, flux_taste, err_taste,
 
 ![Residuals and Goodness-of-Fit Analysis](../../../assets/images/lab2_transit_fit_p02.png)
 *Figure LAB2-09: Best-fit transit model overlay and photometric residuals. Autocorrelation and Durbin-Watson statistics are computed to confirm the absence of residual correlated systematic noise.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Likelihood%20Function%20for%20Photometric%20Time%20Series.html" class="backlink-item">Likelihood Function for Photometric Time Series</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
   </ul>
 </div>
+

@@ -2,7 +2,6 @@
 layout: "default"
 title: "Calcium and CaII H+K"
 ---
-{% raw %}
 **calcium** ($Z = 20$, $[Ar]\, 4s^2$) has a strong neutral and singly ionised spectrum. the Ca II H + K resonance lines at $\sim 3970, 3934$ Å are among the **strongest features in late-type stellar and integrated galaxy spectra**.
 
 ## the H + K lines
@@ -53,30 +52,29 @@ at moderate redshift, Ca II H + K shifts to redder optical wavelengths ($\sim 58
 
 ## see also
 
-- [Atomic term symbols](./Atomic%20term%20symbols.html)
-- [Pauli principle and electron configurations](./Pauli%20principle%20and%20electron%20configurations.html)
-- [Calcium population vs T](./Calcium%20population%20vs%20T.html)
-- [Magnesium and alkali earths](./Magnesium%20and%20alkali%20earths.html)
-- [Stellar spectra and spectral classification](./Stellar%20spectra%20and%20spectral%20classification.html)
-- [Color-magnitude diagrams of clusters](./Color-magnitude%20diagrams%20of%20clusters.html)
-- [Single stellar population SSP](./Single%20stellar%20population%20SSP.html)
-- [Why the Sequence OBAFGKM](./Why%20the%20Sequence%20OBAFGKM.html)
-- [Spectroscopic redshift from line shifts](./Spectroscopic%20redshift%20from%20line%20shifts.html)
-{% endraw %}
+- [Atomic term symbols](Atomic%20term%20symbols.html)
+- [Pauli principle and electron configurations](Pauli%20principle%20and%20electron%20configurations.html)
+- [Calcium population vs T](Calcium%20population%20vs%20T.html)
+- [Magnesium and alkali earths](Magnesium%20and%20alkali%20earths.html)
+- [Stellar spectra and spectral classification](Stellar%20spectra%20and%20spectral%20classification.html)
+- [Color-magnitude diagrams of clusters](Color-magnitude%20diagrams%20of%20clusters.html)
+- [Single stellar population SSP](Single%20stellar%20population%20SSP.html)
+- [Why the Sequence OBAFGKM](Why%20the%20Sequence%20OBAFGKM.html)
+- [Spectroscopic redshift from line shifts](Spectroscopic%20redshift%20from%20line%20shifts.html)
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (11)</h4>
+  <h4 class="backlinks-title">Linked References (10)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Exoplanetary_Astrophysics/14_Stellar_Activity_and_Radial_Velocity_Jitter.html" class="backlink-item">14_Stellar_Activity_and_Radial_Velocity_Jitter</a></li>
+    <li class="backlink-item-wrap"><a href="Calcium%20population%20vs%20T.html" class="backlink-item">Calcium population vs T</a></li>
+    <li class="backlink-item-wrap"><a href="Damping%20wings.html" class="backlink-item">Damping wings</a></li>
+    <li class="backlink-item-wrap"><a href="Galaxy%20spectroscopy%20by%20type.html" class="backlink-item">Galaxy spectroscopy by type</a></li>
+    <li class="backlink-item-wrap"><a href="History%20of%20stellar%20classification.html" class="backlink-item">History of stellar classification</a></li>
+    <li class="backlink-item-wrap"><a href="Magnesium%20and%20alkali%20earths.html" class="backlink-item">Magnesium and alkali earths</a></li>
+    <li class="backlink-item-wrap"><a href="Pauli%20principle%20and%20electron%20configurations.html" class="backlink-item">Pauli principle and electron configurations</a></li>
+    <li class="backlink-item-wrap"><a href="Spectroscopic%20redshift%20from%20line%20shifts.html" class="backlink-item">Spectroscopic redshift from line shifts</a></li>
+    <li class="backlink-item-wrap"><a href="Velocity%20dispersion%20from%20line%20width.html" class="backlink-item">Velocity dispersion from line width</a></li>
+    <li class="backlink-item-wrap"><a href="Why%20the%20Sequence%20OBAFGKM.html" class="backlink-item">Why the Sequence OBAFGKM</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Calcium%20population%20vs%20T.html" class="backlink-item">Calcium population vs T</a></li>
-    <li class="backlink-item-wrap"><a href="./Damping%20wings.html" class="backlink-item">Damping wings</a></li>
-    <li class="backlink-item-wrap"><a href="./Galaxy%20spectroscopy%20by%20type.html" class="backlink-item">Galaxy spectroscopy by type</a></li>
-    <li class="backlink-item-wrap"><a href="./History%20of%20stellar%20classification.html" class="backlink-item">History of stellar classification</a></li>
-    <li class="backlink-item-wrap"><a href="./Magnesium%20and%20alkali%20earths.html" class="backlink-item">Magnesium and alkali earths</a></li>
-    <li class="backlink-item-wrap"><a href="./Pauli%20principle%20and%20electron%20configurations.html" class="backlink-item">Pauli principle and electron configurations</a></li>
-    <li class="backlink-item-wrap"><a href="./Spectroscopic%20redshift%20from%20line%20shifts.html" class="backlink-item">Spectroscopic redshift from line shifts</a></li>
-    <li class="backlink-item-wrap"><a href="./Velocity%20dispersion%20from%20line%20width.html" class="backlink-item">Velocity dispersion from line width</a></li>
-    <li class="backlink-item-wrap"><a href="./Why%20the%20Sequence%20OBAFGKM.html" class="backlink-item">Why the Sequence OBAFGKM</a></li>
   </ul>
 </div>
+

@@ -2,7 +2,6 @@
 layout: "default"
 title: "Linearity and saturation"
 ---
-{% raw %}
 a CCD pixel responds linearly to incoming photons up to some fraction of its full well capacity, then turns over. at saturation, charge spills into adjacent pixels (blooming). photometry fails in both regimes.
 
 ## the linear regime
@@ -62,18 +61,18 @@ dynamic range = bright magnitude - faint magnitude ≈ $\sim 16$ to $20$ mag for
 
 ## see also
 
-- [CCD basics](./CCD%20basics.html)
-- [CCD calibration steps](./CCD%20calibration%20steps.html)
-- [CCD readout chain](./CCD%20readout%20chain.html)
-- [Aperture photometry](./Aperture%20photometry.html)
-- [PSF photometry](./PSF%20photometry.html)
-- [Magnitudes and photometric systems](./Magnitudes%20and%20photometric%20systems.html)
-- [The CCD equation](./The%20CCD%20equation.html)
-{% endraw %}
+- [CCD basics](CCD%20basics.html)
+- [CCD calibration steps](CCD%20calibration%20steps.html)
+- [CCD readout chain](CCD%20readout%20chain.html)
+- [Aperture photometry](Aperture%20photometry.html)
+- [PSF photometry](PSF%20photometry.html)
+- [Magnitudes and photometric systems](Magnitudes%20and%20photometric%20systems.html)
+- [The CCD equation](The%20CCD%20equation.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (1)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./CCD%20calibration%20steps.html" class="backlink-item">CCD calibration steps</a></li>
+    <li class="backlink-item-wrap"><a href="CCD%20calibration%20steps.html" class="backlink-item">CCD calibration steps</a></li>
   </ul>
 </div>
+

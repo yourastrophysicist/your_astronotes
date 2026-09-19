@@ -2,7 +2,6 @@
 layout: "default"
 title: "Cluster ages from CMD turnoff"
 ---
-{% raw %}
 star clusters (both **open clusters** like the Pleiades and **globular clusters** like M13) are ideal natural astrophysical laboratories because all member stars share three crucial properties:
 1. **same distance** $d$ from Earth (distance modulus $\mu = m - M$ is identical for all cluster members).
 2. **same age** $t$ (all stars formed essentially simultaneously in a single starburst).
@@ -40,10 +39,10 @@ globular clusters represent the oldest stellar populations in the Milky Way, set
 ## see also
 
 - [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [HR diagram](./HR%20diagram.html)
-- [Stellar scaling relations](./Stellar%20scaling%20relations.html)
-- [Solar evolution and final stages](./Solar%20evolution%20and%20final%20stages.html)
-- [Stellar populations I II III](./Stellar%20populations%20I%20II%20III.html)
+- [HR diagram](HR%20diagram.html)
+- [Stellar scaling relations](Stellar%20scaling%20relations.html)
+- [Solar evolution and final stages](Solar%20evolution%20and%20final%20stages.html)
+- [Stellar populations I II III](Stellar%20populations%20I%20II%20III.html)
 
 ---
 
@@ -72,22 +71,22 @@ globular clusters represent the oldest stellar populations in the Milky Way, set
 
 ![obs_stars-076.png](../../assets/images/obs_stars-076.png)
 *Multiple stellar populations in globular clusters (light element abundance anomalies).*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (12)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Age%20estimation%20in%20unresolved%20populations.html" class="backlink-item">Age estimation in unresolved populations</a></li>
-    <li class="backlink-item-wrap"><a href="./Age-metallicity%20degeneracy.html" class="backlink-item">Age-metallicity degeneracy</a></li>
-    <li class="backlink-item-wrap"><a href="./Color-magnitude%20diagrams%20of%20clusters.html" class="backlink-item">Color-magnitude diagrams of clusters</a></li>
+    <li class="backlink-item-wrap"><a href="Age%20estimation%20in%20unresolved%20populations.html" class="backlink-item">Age estimation in unresolved populations</a></li>
+    <li class="backlink-item-wrap"><a href="Age-metallicity%20degeneracy.html" class="backlink-item">Age-metallicity degeneracy</a></li>
+    <li class="backlink-item-wrap"><a href="Color-magnitude%20diagrams%20of%20clusters.html" class="backlink-item">Color-magnitude diagrams of clusters</a></li>
+    <li class="backlink-item-wrap"><a href="HR%20diagram.html" class="backlink-item">HR diagram</a></li>
+    <li class="backlink-item-wrap"><a href="Main%20sequence%2C%20giants%2C%20supergiants%2C%20white%20dwarfs.html" class="backlink-item">Main sequence, giants, supergiants, white dwarfs</a></li>
+    <li class="backlink-item-wrap"><a href="Metallicity%20and%20chemical%20evolution.html" class="backlink-item">Metallicity and chemical evolution</a></li>
+    <li class="backlink-item-wrap"><a href="Single%20stellar%20population%20SSP.html" class="backlink-item">Single stellar population SSP</a></li>
+    <li class="backlink-item-wrap"><a href="Solar%20evolution%20and%20final%20stages.html" class="backlink-item">Solar evolution and final stages</a></li>
+    <li class="backlink-item-wrap"><a href="Spectroscopic%20parallax%20and%20main-sequence%20fitting.html" class="backlink-item">Spectroscopic parallax and main-sequence fitting</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20populations%20I%20II%20III.html" class="backlink-item">Stellar populations I II III</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./HR%20diagram.html" class="backlink-item">HR diagram</a></li>
-    <li class="backlink-item-wrap"><a href="./Main%20sequence%2C%20giants%2C%20supergiants%2C%20white%20dwarfs.html" class="backlink-item">Main sequence, giants, supergiants, white dwarfs</a></li>
-    <li class="backlink-item-wrap"><a href="./Metallicity%20and%20chemical%20evolution.html" class="backlink-item">Metallicity and chemical evolution</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Single%20stellar%20population%20SSP.html" class="backlink-item">Single stellar population SSP</a></li>
-    <li class="backlink-item-wrap"><a href="./Solar%20evolution%20and%20final%20stages.html" class="backlink-item">Solar evolution and final stages</a></li>
-    <li class="backlink-item-wrap"><a href="./Spectroscopic%20parallax%20and%20main-sequence%20fitting.html" class="backlink-item">Spectroscopic parallax and main-sequence fitting</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20populations%20I%20II%20III.html" class="backlink-item">Stellar populations I II III</a></li>
   </ul>
 </div>
+

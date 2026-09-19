@@ -2,7 +2,6 @@
 layout: "default"
 title: "05_Monte_Carlo_Metropolis_Hastings_and_MCMC_Convergence_Diagnostics"
 ---
-{% raw %}
 # Monte Carlo, Metropolis-Hastings, and MCMC Convergence Diagnostics
 
 Graduate lecture notes in Astro-Statistics and Cosmology, taught by Prof. Michele Liguori at the University of Padua.
@@ -257,19 +256,15 @@ Convergence is considered achieved when $\hat{R} < 1.05$ (or $\hat{R} < 1.01$ fo
 
 ![MCMC Metropolis-Hastings Sampling and Convergence](../../../assets/images/astrostat_liguori_p18.png)
 *Figure AST-03: Metropolis-Hastings Markov Chain Monte Carlo (MCMC) Sampling. Depicts proposal distribution transitions $q(\theta^* \mid \theta^{(t)})$ with acceptance probability $\alpha = \min\left(1, \frac{\mathcal{L}(D \mid \theta^*) \pi(\theta^*) q(\theta^{(t)}\mid\theta^*)}{\mathcal{L}(D \mid \theta^{(t)}) \pi(\theta^{(t)}) q(\theta^* \mid \theta^{(t)})}\right)$. The chain achieves the stationary target distribution once burn-in is discarded and the Gelman-Rubin convergence criterion $\hat{R} < 1.05$ across multiple independent chains is satisfied.*
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (9)</h4>
+  <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./07_CMB_Power_Spectrum_Likelihood_Analysis_and_Cosmic_Variance.html" class="backlink-item">07_CMB_Power_Spectrum_Likelihood_Analysis_and_Cosmic_Variance</a></li>
-    <li class="backlink-item-wrap"><a href="./09_Bayesian_Hierarchical_Models_for_Type_Ia_Supernovae.html" class="backlink-item">09_Bayesian_Hierarchical_Models_for_Type_Ia_Supernovae</a></li>
-    <li class="backlink-item-wrap"><a href="./11_Model_Selection_Bayesian_Evidence_and_Savage_Dickey_Ratio.html" class="backlink-item">11_Model_Selection_Bayesian_Evidence_and_Savage_Dickey_Ratio</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
+    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Computational/Monte%20Carlo%20integration%20and%20cursed%20dimensions.html" class="backlink-item">Monte Carlo integration and cursed dimensions</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Gibbs%20sampling%20and%20conditional%20state%20transitions.html" class="backlink-item">Gibbs sampling and conditional state transitions</a></li>
-    <li class="backlink-item-wrap"><a href="./Homework_Problems_and_Solutions.html" class="backlink-item">Homework_Problems_and_Solutions</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/MCMC%20convergence%20diagnostics%20and%20Gelman-Rubin%20statistic.html" class="backlink-item">MCMC convergence diagnostics and Gelman-Rubin statistic</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Metropolis-Hastings%20algorithm%20and%20detailed%20balance.html" class="backlink-item">Metropolis-Hastings algorithm and detailed balance</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Computational/Monte%20Carlo%20integration%20and%20cursed%20dimensions.html" class="backlink-item">Monte Carlo integration and cursed dimensions</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
   </ul>
 </div>
+

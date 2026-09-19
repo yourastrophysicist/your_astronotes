@@ -2,7 +2,6 @@
 layout: "default"
 title: "Why hot massive stars dominate luminosity"
 ---
-{% raw %}
 a key qualitative result that comes up repeatedly: even though massive stars are rare in number, they dominate the **integrated luminosity** at almost every wavelength shortward of their peak. answer to obs3.pdf in spoken form.
 
 ## the Stefan-Boltzmann scaling
@@ -22,7 +21,7 @@ physically: more massive stars have hotter cores, more efficient nuclear burning
 
 ## the IMF weighting
 
-the [Initial mass function](./Initial%20mass%20function.html) $\xi(M) \propto M^{-2.35}$ (Salpeter) means most stars are low-mass. but the **bolometric light** from a stellar population is
+the [Initial mass function](Initial%20mass%20function.html) $\xi(M) \propto M^{-2.35}$ (Salpeter) means most stars are low-mass. but the **bolometric light** from a stellar population is
 $$L_{\rm tot} = \int \xi(M)\, L(M)\, dM \propto \int M^{-2.35} M^{3.5}\, dM = \int M^{1.15}\, dM$$
 which is **dominated by the high-mass end** of the integration range.
 
@@ -50,19 +49,19 @@ the SED of a galaxy at any moment is the **superposition** of contributions from
 - optical bolometric is mixed.
 - NIR ($\lambda > 1\,\mu$m) traces the integral of past star formation, i.e. the stellar mass.
 
-this is the spectral basis for population-synthesis SED fitting (see [Stellar population synthesis](./Stellar%20population%20synthesis.html) and `obs5.pdf`/`obs7.pdf`).
+this is the spectral basis for population-synthesis SED fitting (see [Stellar population synthesis](Stellar%20population%20synthesis.html) and `obs5.pdf`/`obs7.pdf`).
 
 ## see also
 
-- [Planck law Wien Stefan-Boltzmann](./Planck%20law%20Wien%20Stefan-Boltzmann.html)
-- [Stellar scaling relations](./Stellar%20scaling%20relations.html)
-- [Mass-luminosity relation](./Mass-luminosity%20relation.html)
-- [Initial mass function](./Initial%20mass%20function.html)
-- [Stellar populations I II III](./Stellar%20populations%20I%20II%20III.html)
-- [UV SFR tracer](./UV%20SFR%20tracer.html)
-- [IR SFR tracer](./IR%20SFR%20tracer.html)
-- [Stellar population synthesis](./Stellar%20population%20synthesis.html)
-- [Stellar mass estimation in unresolved populations](./Stellar%20mass%20estimation%20in%20unresolved%20populations.html)
+- [Planck law Wien Stefan-Boltzmann](Planck%20law%20Wien%20Stefan-Boltzmann.html)
+- [Stellar scaling relations](Stellar%20scaling%20relations.html)
+- [Mass-luminosity relation](Mass-luminosity%20relation.html)
+- [Initial mass function](Initial%20mass%20function.html)
+- [Stellar populations I II III](Stellar%20populations%20I%20II%20III.html)
+- [UV SFR tracer](UV%20SFR%20tracer.html)
+- [IR SFR tracer](IR%20SFR%20tracer.html)
+- [Stellar population synthesis](Stellar%20population%20synthesis.html)
+- [Stellar mass estimation in unresolved populations](Stellar%20mass%20estimation%20in%20unresolved%20populations.html)
 
 ---
 
@@ -79,13 +78,13 @@ this is the spectral basis for population-synthesis SED fitting (see [Stellar po
 
 ![obs_rad-036.png](../../assets/images/obs_rad-036.png)
 *Time evolution: rapid death of massive stars leads to drastic UV drop in stellar populations.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Mass-luminosity%20relation.html" class="backlink-item">Mass-luminosity relation</a></li>
+    <li class="backlink-item-wrap"><a href="Mass-luminosity%20relation.html" class="backlink-item">Mass-luminosity relation</a></li>
+    <li class="backlink-item-wrap"><a href="Planck%20law%20Wien%20Stefan-Boltzmann.html" class="backlink-item">Planck law Wien Stefan-Boltzmann</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Planck%20law%20Wien%20Stefan-Boltzmann.html" class="backlink-item">Planck law Wien Stefan-Boltzmann</a></li>
   </ul>
 </div>
+

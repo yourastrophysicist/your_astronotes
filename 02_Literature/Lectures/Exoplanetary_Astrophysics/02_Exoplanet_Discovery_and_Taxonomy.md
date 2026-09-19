@@ -2,7 +2,6 @@
 layout: "default"
 title: "02_Exoplanet_Discovery_and_Taxonomy"
 ---
-{% raw %}
 # Lesson 02 – Exoplanet Discovery and Taxonomy
 
 *Exoplanetary Astrophysics, Prof. Giampaolo Piotto (Lecture 07/10/2025)*  
@@ -129,13 +128,11 @@ The Substellar Boundary:
 
 ![Radial Velocity Doppler Curve and Orbital Diagnostics](../../../assets/images/exo_detection_p20.png)
 *Figure EXO-02: Radial velocity Doppler reflex curve of a star perturbed by an orbiting planet. Semi-amplitude $K = \frac{28.4\text{ m/s}}{\sqrt{1-e^2}} \left(\frac{M_p \sin i}{M_{\mathrm{Jup}}}\right) \left(\frac{M_*}{M_\odot}\right)^{-1/2} \left(\frac{a}{1\text{ AU}}\right)^{-1/2}$ measures minimum planetary mass $M_p \sin i$.*
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
+  <h4 class="backlinks-title">Linked References (1)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./01_Global_Architecture_of_the_Solar_System.html" class="backlink-item">01_Global_Architecture_of_the_Solar_System</a></li>
-    <li class="backlink-item-wrap"><a href="./03_Demographics_and_Survey_Completeness.html" class="backlink-item">03_Demographics_and_Survey_Completeness</a></li>
     <li class="backlink-item-wrap"><a href="../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

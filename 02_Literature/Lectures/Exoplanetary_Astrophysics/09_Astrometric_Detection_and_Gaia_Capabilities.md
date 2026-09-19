@@ -2,7 +2,6 @@
 layout: "default"
 title: "09_Astrometric_Detection_and_Gaia_Capabilities"
 ---
-{% raw %}
 # Lesson 09 – Astrometric Detection and Gaia Capabilities
 
 *Exoplanetary Astrophysics, Prof. Giampaolo Piotto (Lecture 04/11/2025)*  
@@ -156,14 +155,12 @@ Fitting these four constants yields the full 3D orbital geometry:
 - Previous Lecture: [08_Direct_Imaging_Instrumentation_and_Astrometric_Synergies](./08_Direct_Imaging_Instrumentation_and_Astrometric_Synergies.html)
 - Next Lecture: [10_Radial_Velocity_Foundations_and_Keplerian_Orbits](./10_Radial_Velocity_Foundations_and_Keplerian_Orbits.html)
 - Related Notes: [Binary star orbits](../../../03_Zettel/Theory/interf/Binary%20star%20orbits.html) | Exoplanet detection techniques
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
+  <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./08_Direct_Imaging_Instrumentation_and_Astrometric_Synergies.html" class="backlink-item">08_Direct_Imaging_Instrumentation_and_Astrometric_Synergies</a></li>
-    <li class="backlink-item-wrap"><a href="./10_Radial_Velocity_Foundations_and_Keplerian_Orbits.html" class="backlink-item">10_Radial_Velocity_Foundations_and_Keplerian_Orbits</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Astrometric%20exoplanet%20detection%20and%20Gaia%20astrometry.html" class="backlink-item">Astrometric exoplanet detection and Gaia astrometry</a></li>
     <li class="backlink-item-wrap"><a href="../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

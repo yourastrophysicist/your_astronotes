@@ -2,7 +2,6 @@
 layout: "default"
 title: "Isoplanatic patch"
 ---
-{% raw %}
 # Isoplanatic patch
 
 the angular region over which the atmospheric distortion is approximately the same. inside the patch, two stars see the *same* turbulent column and the AO correction (or differential image-motion subtraction) works for both. outside the patch, they see *independent* atmospheric paths, and corrections decouple.
@@ -83,4 +82,3 @@ practical: most isoplanatic-angle-degrading turbulence is at *jet-stream altitud
 - [Adaptive optics](interf/Adaptive%20optics.html)
 - [Guide stars and laser guide stars](interf/Guide%20stars%20and%20laser%20guide%20stars.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

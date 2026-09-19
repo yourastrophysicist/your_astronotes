@@ -2,7 +2,6 @@
 layout: "default"
 title: "Radiation quantities and inverse square law"
 ---
-{% raw %}
 to describe how energy flows from astrophysical sources through space to an observer's telescope, astronomy relies on four fundamental radiometric quantities: **luminosity**, **flux**, **specific intensity**, and **energy density**.
 
 ![radiative-07.png](../../assets/images/radiative-07.png)
@@ -93,17 +92,17 @@ in the hot cores of massive stars ($M \gtrsim 20 M_\odot$) and in the radiation-
 ## see also
 
 - [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Electromagnetic radiation basics](./Electromagnetic%20radiation%20basics.html)
-- [Blackbody radiation and Stefan-Boltzmann](./Blackbody%20radiation%20and%20Stefan-Boltzmann.html)
-- [Magnitudes and photometric systems](./Magnitudes%20and%20photometric%20systems.html)
-- [Parallax and standard candles](./Parallax%20and%20standard%20candles.html)
-{% endraw %}
+- [Electromagnetic radiation basics](Electromagnetic%20radiation%20basics.html)
+- [Blackbody radiation and Stefan-Boltzmann](Blackbody%20radiation%20and%20Stefan-Boltzmann.html)
+- [Magnitudes and photometric systems](Magnitudes%20and%20photometric%20systems.html)
+- [Parallax and standard candles](Parallax%20and%20standard%20candles.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Blackbody%20radiation%20and%20Stefan-Boltzmann.html" class="backlink-item">Blackbody radiation and Stefan-Boltzmann</a></li>
-    <li class="backlink-item-wrap"><a href="./Electromagnetic%20radiation%20basics.html" class="backlink-item">Electromagnetic radiation basics</a></li>
+    <li class="backlink-item-wrap"><a href="Blackbody%20radiation%20and%20Stefan-Boltzmann.html" class="backlink-item">Blackbody radiation and Stefan-Boltzmann</a></li>
+    <li class="backlink-item-wrap"><a href="Electromagnetic%20radiation%20basics.html" class="backlink-item">Electromagnetic radiation basics</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
   </ul>
 </div>
+

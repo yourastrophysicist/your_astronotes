@@ -2,7 +2,6 @@
 layout: "default"
 title: "Fresnel-Arago laws"
 ---
-{% raw %}
 # Fresnel-Arago laws
 
 three laws governing when polarized waves can or cannot produce interference fringes. **fundamental restriction** on which interferometric setups work and which don't. discovered by Fresnel and Arago around 1817-1819, they predate Maxwell but follow elegantly from the wave description of polarization.
@@ -87,20 +86,20 @@ this is a standard undergraduate physics experiment, and a clean demonstration o
 
 ## see also
 
-- [Light waves and the EM spectrum](./Light%20waves%20and%20the%20EM%20spectrum.html)
-- [Polarization in interferometry](./Polarization%20in%20interferometry.html)
-- [Optical path difference OPD](./Optical%20path%20difference%20OPD.html)
-- [Superposition and interference](./Superposition%20and%20interference.html)
+- [Light waves and the EM spectrum](Light%20waves%20and%20the%20EM%20spectrum.html)
+- [Polarization in interferometry](Polarization%20in%20interferometry.html)
+- [Optical path difference OPD](Optical%20path%20difference%20OPD.html)
+- [Superposition and interference](Superposition%20and%20interference.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../Light%20waves%20and%20the%20EM%20spectrum.html" class="backlink-item">Light waves and the EM spectrum</a></li>
-    <li class="backlink-item-wrap"><a href="./Light%20waves%20and%20the%20EM%20spectrum.html" class="backlink-item">Light waves and the EM spectrum</a></li>
-    <li class="backlink-item-wrap"><a href="./Optical%20path%20difference%20OPD.html" class="backlink-item">Optical path difference OPD</a></li>
     <li class="backlink-item-wrap"><a href="../Optical%20path%20difference%20OPD.html" class="backlink-item">Optical path difference OPD</a></li>
+    <li class="backlink-item-wrap"><a href="Light%20waves%20and%20the%20EM%20spectrum.html" class="backlink-item">Light waves and the EM spectrum</a></li>
+    <li class="backlink-item-wrap"><a href="Optical%20path%20difference%20OPD.html" class="backlink-item">Optical path difference OPD</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

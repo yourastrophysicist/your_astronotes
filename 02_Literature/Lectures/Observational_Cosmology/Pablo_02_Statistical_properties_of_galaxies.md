@@ -2,7 +2,6 @@
 layout: "default"
 title: "Pablo_02_Statistical_properties_of_galaxies"
 ---
-{% raw %}
 # statistical properties of galaxies — Pablo Pérez-González, lecture 1A
 
 *visiting professor, Observational Cosmology A.Y. 2024/2025, block: 31 March – 3 April*
@@ -166,17 +165,14 @@ next lecture (Pablo 03) is on galaxy morphology, SEDs, and how we actually measu
 - **stellar-to-halo mass ratio** — $M_*/M_h$ as a function of $M_h$, peaks at $\sim 0.03$ at $M_h \sim 10^{12}\,M_\odot$
 - **main sequence** — tight SFR-$M_*$ correlation for star-forming galaxies, $\sim 0.3$ dex scatter
 - **fundamental plane / Tully-Fisher / Schmidt-Kennicutt / Magorrian** — the four canonical scaling relations
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (38)</h4>
+  <h4 class="backlinks-title">Linked References (27)</h4>
   <ul class="backlinks-list">
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/1Vmax%20estimator.html" class="backlink-item">1Vmax estimator</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Color%20bimodality%20of%20galaxies.html" class="backlink-item">Color bimodality of galaxies</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Cosmic%20star%20formation%20history.html" class="backlink-item">Cosmic star formation history</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Cosmic%20stellar%20mass%20density%20growth.html" class="backlink-item">Cosmic stellar mass density growth</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Differential%20vs%20cumulative%20number%20counts.html" class="backlink-item">Differential vs cumulative number counts</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Double%20power-law%20modified%20Schechter.html" class="backlink-item">Double power-law modified Schechter</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Driver%201998%20counts%20by%20morphology.html" class="backlink-item">Driver 1998 counts by morphology</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Fundamental%20plane%20of%20ellipticals.html" class="backlink-item">Fundamental plane of ellipticals</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Galaxies_course_intro.html" class="backlink-item">Galaxies_course_intro</a></li>
@@ -185,29 +181,21 @@ next lecture (Pablo 03) is on galaxy morphology, SEDs, and how we actually measu
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Galaxy%20main%20sequence%20of%20star%20formation.html" class="backlink-item">Galaxy main sequence of star formation</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Galaxy%20number%20counts%20N%28m%29.html" class="backlink-item">Galaxy number counts N(m)</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Galaxy%20size-luminosity%20relation.html" class="backlink-item">Galaxy size-luminosity relation</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Green%20valley%20and%20quenching%20tracks.html" class="backlink-item">Green valley and quenching tracks</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Halo%20gravity%20suppression%20of%20galaxy%20formation.html" class="backlink-item">Halo gravity suppression of galaxy formation</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Halo%20mass%20function%20vs%20galaxy%20mass%20function.html" class="backlink-item">Halo mass function vs galaxy mass function</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Integrals%20of%20the%20Schechter%20function.html" class="backlink-item">Integrals of the Schechter function</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/LF%20by%20morphology%20and%20SED.html" class="backlink-item">LF by morphology and SED</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Luminosity%20function%20definition.html" class="backlink-item">Luminosity function definition</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Magorrian%20relation.html" class="backlink-item">Magorrian relation</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Malmquist%20bias.html" class="backlink-item">Malmquist bias</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Non-parametric%20galaxy%20morphology%20metrics.html" class="backlink-item">Non-parametric galaxy morphology metrics</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Pablo_03_Star_formation_in_galaxies.html" class="backlink-item">Pablo_03_Star_formation_in_galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="./Pablo_04_Nuclear_activity_in_galaxies.html" class="backlink-item">Pablo_04_Nuclear_activity_in_galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="./Pablo_05_Galaxies_at_cosmological_distances.html" class="backlink-item">Pablo_05_Galaxies_at_cosmological_distances</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Photo-z%20biases%20and%20catastrophic%20outliers.html" class="backlink-item">Photo-z biases and catastrophic outliers</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Red%20sequence%20and%20blue%20cloud.html" class="backlink-item">Red sequence and blue cloud</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Redshift%20distribution%20of%20flux-limited%20samples.html" class="backlink-item">Redshift distribution of flux-limited samples</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/SFR%20and%20stellar%20mass%20density%20connection.html" class="backlink-item">SFR and stellar mass density connection</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Schechter%20K-band%20luminosity%20function.html" class="backlink-item">Schechter K-band luminosity function</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Schechter%20function.html" class="backlink-item">Schechter function</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Schechter%20function%20in%20magnitudes.html" class="backlink-item">Schechter function in magnitudes</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Schmidt-Kennicutt%20law.html" class="backlink-item">Schmidt-Kennicutt law</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Stellar%20mass%20function.html" class="backlink-item">Stellar mass function</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Stellar-to-halo%20mass%20ratio.html" class="backlink-item">Stellar-to-halo mass ratio</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Tully-Fisher%20relation.html" class="backlink-item">Tully-Fisher relation</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
   </ul>
 </div>
+

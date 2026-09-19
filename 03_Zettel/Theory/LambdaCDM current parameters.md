@@ -2,7 +2,6 @@
 layout: "default"
 title: "LambdaCDM current parameters"
 ---
-{% raw %}
 # standard lcdm parameters
 
 up: [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html) · [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
@@ -38,6 +37,5 @@ This discrepancy with Planck CMB results exceeds $5\sigma$ significance, represe
 
 ## connections
 
-- thermal context: [Brief thermal history](./Brief%20thermal%20history.html), [CMB power spectrum](./CMB%20power%20spectrum.html)
-- distances: [Supernova Hubble diagram](./Supernova%20Hubble%20diagram.html), [Distance ladder derivations](./Distance%20ladder%20derivations.html)
-{% endraw %}
+- thermal context: [Brief thermal history](Brief%20thermal%20history.html), [CMB power spectrum](CMB%20power%20spectrum.html)
+- distances: [Supernova Hubble diagram](Supernova%20Hubble%20diagram.html), [Distance ladder derivations](Distance%20ladder%20derivations.html)

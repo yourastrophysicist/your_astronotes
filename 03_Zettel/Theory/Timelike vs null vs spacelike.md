@@ -2,7 +2,6 @@
 layout: "default"
 title: "Timelike vs null vs spacelike"
 ---
-{% raw %}
 three flavours of geodesic, distinguished by the sign of $g_{\mu\nu}\dot x^\mu\dot x^\nu$:
 
 ## timelike
@@ -47,7 +46,7 @@ light cones are an invariant feature of Lorentzian spacetime; they're the trace 
 
 ## conservation across the type
 
-a **timelike** geodesic's tangent stays timelike (length-preserving parallel transport, see [Metric compatibility](./Metric%20compatibility.html)). similarly null and spacelike. the type is preserved.
+a **timelike** geodesic's tangent stays timelike (length-preserving parallel transport, see [Metric compatibility](Metric%20compatibility.html)). similarly null and spacelike. the type is preserved.
 
 so a timelike particle never "becomes lightlike" mid-flight: timelike $\to$ timelike, null $\to$ null, etc.
 
@@ -61,23 +60,23 @@ events with null separation: connected by light only.
 
 ## see also
 
-- [Manifold metric and signature](./Manifold%20metric%20and%20signature.html)
-- [Geodesic equation](./Geodesic%20equation.html)
-- [Affine parameter](./Affine%20parameter.html)
-- [Cosmological redshift](./Cosmological%20redshift.html)
-- [Schwarzschild horizon](./Schwarzschild%20horizon.html)
+- [Manifold metric and signature](Manifold%20metric%20and%20signature.html)
+- [Geodesic equation](Geodesic%20equation.html)
+- [Affine parameter](Affine%20parameter.html)
+- [Cosmological redshift](Cosmological%20redshift.html)
+- [Schwarzschild horizon](Schwarzschild%20horizon.html)
 - [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
 - [Ch 1 - Gravity is Geometry](../../02_Literature/Book/Baumann%20GR/Ch%201%20-%20Gravity%20is%20Geometry.html)
 - [Ch 3 - A First Look at Geodesics](../../02_Literature/Book/Baumann%20GR/Ch%203%20-%20A%20First%20Look%20at%20Geodesics.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Affine%20parameter.html" class="backlink-item">Affine parameter</a></li>
-    <li class="backlink-item-wrap"><a href="./Eddington-Finkelstein%20and%20Kruskal.html" class="backlink-item">Eddington-Finkelstein and Kruskal</a></li>
+    <li class="backlink-item-wrap"><a href="Affine%20parameter.html" class="backlink-item">Affine parameter</a></li>
+    <li class="backlink-item-wrap"><a href="Eddington-Finkelstein%20and%20Kruskal.html" class="backlink-item">Eddington-Finkelstein and Kruskal</a></li>
+    <li class="backlink-item-wrap"><a href="Geodesic%20equation.html" class="backlink-item">Geodesic equation</a></li>
+    <li class="backlink-item-wrap"><a href="Schwarzschild%20horizon.html" class="backlink-item">Schwarzschild horizon</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Geodesic%20equation.html" class="backlink-item">Geodesic equation</a></li>
-    <li class="backlink-item-wrap"><a href="./Schwarzschild%20horizon.html" class="backlink-item">Schwarzschild horizon</a></li>
   </ul>
 </div>
+

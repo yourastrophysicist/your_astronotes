@@ -2,13 +2,12 @@
 layout: "default"
 title: "CCD readout"
 ---
-{% raw %}
 A CCD pixel is based on a **MOS capacitor** (Metal–Oxide–Semiconductor)
 	the bottom layer is p-type silicon, topped by an insulator (SiO$_2$), with a metal gate on top
 		when a positive voltage is applied to the gate, it repels the holes in the p-type silicon
 			and creates a **potential well** — the depletion region — which collects and stores electrons
 
-![Screenshot 2026-04-07 at 01.50.01.png](../../assets/images/Screenshot 2026-04-07 at 01.50.01.png)
+![Screenshot 2026-04-07 at 01.50.01.png](../../assets/images/Screenshot%202026-04-07%20at%2001.50.01.png)
 <font color="#bfbfbf">MOS capacitor structure: metal gate on top, silicon dioxide insulator in the middle, and p-type silicon at the bottom. A positive voltage on the gate creates a potential well that traps electrons produced by ionizing radiation.</font>
 
 ---
@@ -31,7 +30,7 @@ To move the charges one pixel along the column:
 Repeating this three-voltage sequence shifts the charge packet by one pixel
 	after $N$ shifts, the charge reaches the **serial register** at the edge of the CCD
 
-![Screenshot 2026-04-07 at 01.50.45.png](../../assets/images/Screenshot 2026-04-07 at 01.50.45.png)
+![Screenshot 2026-04-07 at 01.50.45.png](../../assets/images/Screenshot%202026-04-07%20at%2001.50.45.png)
 <font color="#bfbfbf">Three-phase CCD: three gates per pixel with sequentially applied voltages move the charge packet one pixel per clock cycle.</font>
 
 ---
@@ -40,7 +39,7 @@ Repeating this three-voltage sequence shifts the charge packet by one pixel
 
 After the parallel shift (column direction), the charge packet arrives at the **serial register**
 	the serial register shifts the charge in the **row direction** (perpendicular)
-		one pixel at a time until it reaches the **output node**
+	\tone pixel at a time until it reaches the **output node**
 
 At the output node:
 	the charge is collected on a small capacitor
@@ -111,16 +110,16 @@ $$E_{ph} \xrightarrow{w = 3.68~\text{eV}} N_e = E_{ph}/w \xrightarrow{Q=N_e \cdo
 The energy resolution (FWHM in eV) is:
 $$\text{FWHM} = 2.35w\sqrt{\sigma_{RON}^2 + F \cdot \frac{E_{ph}}{w}}$$
 
-where $F = 0.115$ is the Fano factor for silicon — see [CCDs for X-rays](./CCDs%20for%20X-rays.html)
-{% endraw %}
+where $F = 0.115$ is the Fano factor for silicon — see [CCDs for X-rays](CCDs%20for%20X-rays.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./CCD%20basics.html" class="backlink-item">CCD basics</a></li>
-    <li class="backlink-item-wrap"><a href="./CCD%20readout%20chain.html" class="backlink-item">CCD readout chain</a></li>
-    <li class="backlink-item-wrap"><a href="./Charge-Coupled%20Device.html" class="backlink-item">Charge-Coupled Device</a></li>
+    <li class="backlink-item-wrap"><a href="CCD%20basics.html" class="backlink-item">CCD basics</a></li>
+    <li class="backlink-item-wrap"><a href="CCD%20readout%20chain.html" class="backlink-item">CCD readout chain</a></li>
+    <li class="backlink-item-wrap"><a href="Charge-Coupled%20Device.html" class="backlink-item">Charge-Coupled Device</a></li>
+    <li class="backlink-item-wrap"><a href="The%20p-n%20junction.html" class="backlink-item">The p-n junction</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./The%20p-n%20junction.html" class="backlink-item">The p-n junction</a></li>
   </ul>
 </div>
+

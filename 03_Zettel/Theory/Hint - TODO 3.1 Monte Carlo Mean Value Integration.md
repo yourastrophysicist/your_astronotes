@@ -2,11 +2,10 @@
 layout: "default"
 title: "Hint - TODO 3.1 Monte Carlo Mean Value Integration"
 ---
-{% raw %}
 # Hint - TODO 3.1 Monte Carlo Mean Value Integration
 
 **Target TODO**: TODO 3.1 in Module_1_Random_Sampling_and_Monte_Carlo  
-**Related Zettels**: [Monte Carlo integration mean value method](./Monte%20Carlo%20integration%20mean%20value%20method.html)
+**Related Zettels**: [Monte Carlo integration mean value method](Monte%20Carlo%20integration%20mean%20value%20method.html)
 
 ---
 
@@ -21,4 +20,3 @@ The mean-value theorem for Monte Carlo integration estimates $\int_a^b f(x) dx$:
 x_rand = rng.uniform(a, b, size=int(N))
 integral_estimate = (b - a) * np.mean(f(x_rand))
 ```
-{% endraw %}

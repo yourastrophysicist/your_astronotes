@@ -2,7 +2,6 @@
 layout: "default"
 title: "Radiometer equation and SEFD"
 ---
-{% raw %}
 # Radiometer equation and SEFD
 
 BookAI uses the radiometer equation to explain the sensitivity of radio and interferometric observations. the deep idea is simple: random noise averages down as the square root of the number of independent samples.
@@ -106,4 +105,3 @@ source: local plot generated from $\sigma\propto1/\sqrt{\Delta\nu t}$.
 - [Radio astronomy basics](interf/Radio%20astronomy%20basics.html)
 - [ALMA exposure time calculator and sensitivity](interf/ALMA%20exposure%20time%20calculator%20and%20sensitivity.html)
 - [Interferometry equation sheet](interf/Interferometry%20equation%20sheet.html)
-{% endraw %}

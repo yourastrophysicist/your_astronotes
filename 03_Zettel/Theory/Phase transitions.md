@@ -2,7 +2,6 @@
 layout: "default"
 title: "Phase transitions"
 ---
-{% raw %}
 cosmic **phase transitions** mark moments when the symmetry of the early universe was **broken** as it cooled, producing the structure of fundamental forces + particles we see today. each transition leaves observational + theoretical relics.
 
 ## the major transitions
@@ -66,13 +65,12 @@ if confirmed: a **direct probe** of physics beyond the Standard Model (e.g. dark
 
 ## see also
 
-- [Brief thermal history](./Brief%20thermal%20history.html)
-- [Transition epochs](./Transition%20epochs.html)
-- [Big Bang nucleosynthesis](./Big%20Bang%20nucleosynthesis.html)
-- [Inflation overview](./Inflation%20overview.html)
-- [Cosmological inflation](./Cosmological%20inflation.html)
-- [Decoupling](./Decoupling.html)
-- [Baryogenesis](./Baryogenesis.html)
-- [Standard model problems](./Standard%20model%20problems.html)
+- [Brief thermal history](Brief%20thermal%20history.html)
+- [Transition epochs](Transition%20epochs.html)
+- [Big Bang nucleosynthesis](Big%20Bang%20nucleosynthesis.html)
+- [Inflation overview](Inflation%20overview.html)
+- [Cosmological inflation](Cosmological%20inflation.html)
+- [Decoupling](Decoupling.html)
+- [Baryogenesis](Baryogenesis.html)
+- [Standard model problems](Standard%20model%20problems.html)
 - [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
-{% endraw %}

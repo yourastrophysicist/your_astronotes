@@ -2,7 +2,6 @@
 layout: "default"
 title: "CCD basics"
 ---
-{% raw %}
 a CCD (charge-coupled device) is the workhorse imaging detector of optical astronomy. it converts photons into countable electrons in a pixel array, with high quantum efficiency, low noise, and clean linear response.
 
 ## the pixel as a MOS capacitor
@@ -49,15 +48,15 @@ every science instrument is a specific compromise: e.g. DECam uses $250\,\mu$m t
 
 ## see also
 
-- [CCD detectors and SNR](./CCD%20detectors%20and%20SNR.html)
-- [CCD readout](./CCD%20readout.html)
-- [CCD readout chain](./CCD%20readout%20chain.html)
-- [CCD noise sources](./CCD%20noise%20sources.html)
-- [The CCD equation](./The%20CCD%20equation.html)
-- [The p-n junction](./The%20p-n%20junction.html)
-- [Quantum efficiency](./Quantum%20efficiency.html)
-- [Charge-Coupled Device](./Charge-Coupled%20Device.html)
-- [Other detectors](./Other%20detectors.html)
+- [CCD detectors and SNR](CCD%20detectors%20and%20SNR.html)
+- [CCD readout](CCD%20readout.html)
+- [CCD readout chain](CCD%20readout%20chain.html)
+- [CCD noise sources](CCD%20noise%20sources.html)
+- [The CCD equation](The%20CCD%20equation.html)
+- [The p-n junction](The%20p-n%20junction.html)
+- [Quantum efficiency](Quantum%20efficiency.html)
+- [Charge-Coupled Device](Charge-Coupled%20Device.html)
+- [Other detectors](Other%20detectors.html)
 
 ---
 
@@ -80,18 +79,18 @@ every science instrument is a specific compromise: e.g. DECam uses $250\,\mu$m t
 
 ![obs_ccd-08.png](../../assets/images/obs_ccd-08.png)
 *Anti-reflective coatings on silicon surfaces.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (8)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./CCD%20calibration%20steps.html" class="backlink-item">CCD calibration steps</a></li>
-    <li class="backlink-item-wrap"><a href="./CCD%20noise%20sources.html" class="backlink-item">CCD noise sources</a></li>
-    <li class="backlink-item-wrap"><a href="./CCD%20readout%20chain.html" class="backlink-item">CCD readout chain</a></li>
-    <li class="backlink-item-wrap"><a href="./Cosmic%20rays%20and%20bad%20pixels.html" class="backlink-item">Cosmic rays and bad pixels</a></li>
-    <li class="backlink-item-wrap"><a href="./Linearity%20and%20saturation.html" class="backlink-item">Linearity and saturation</a></li>
+    <li class="backlink-item-wrap"><a href="CCD%20calibration%20steps.html" class="backlink-item">CCD calibration steps</a></li>
+    <li class="backlink-item-wrap"><a href="CCD%20noise%20sources.html" class="backlink-item">CCD noise sources</a></li>
+    <li class="backlink-item-wrap"><a href="CCD%20readout%20chain.html" class="backlink-item">CCD readout chain</a></li>
+    <li class="backlink-item-wrap"><a href="Cosmic%20rays%20and%20bad%20pixels.html" class="backlink-item">Cosmic rays and bad pixels</a></li>
+    <li class="backlink-item-wrap"><a href="Linearity%20and%20saturation.html" class="backlink-item">Linearity and saturation</a></li>
+    <li class="backlink-item-wrap"><a href="Other%20detectors.html" class="backlink-item">Other detectors</a></li>
+    <li class="backlink-item-wrap"><a href="The%20CCD%20equation.html" class="backlink-item">The CCD equation</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Other%20detectors.html" class="backlink-item">Other detectors</a></li>
-    <li class="backlink-item-wrap"><a href="./The%20CCD%20equation.html" class="backlink-item">The CCD equation</a></li>
   </ul>
 </div>
+

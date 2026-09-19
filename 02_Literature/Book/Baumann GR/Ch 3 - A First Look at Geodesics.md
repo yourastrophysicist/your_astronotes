@@ -2,7 +2,6 @@
 layout: "default"
 title: "Ch 3 - A First Look at Geodesics"
 ---
-{% raw %}
 # Baumann Ch 3, A First Look at Geodesics
 
 up: [Baumann GR](./Baumann%20GR.html) · [General_Relativity_MOC](../../../04_Atlas/General_Relativity_MOC.html)
@@ -333,18 +332,15 @@ if i had to compress chapter 3 into a paragraph for the oral:
 - Q9 - weak-field Christoffel Gamma_i_00 · Q12 - circular orbits and orbital frequency · Q13 - radial infall and proper time · Q14 - photon trajectory and impact parameter
 - previous: [Ch 2 - Some Differential Geometry](./Ch%202%20-%20Some%20Differential%20Geometry.html)
 - next: [Ch 4 - Spacetime Curvature](./Ch%204%20-%20Spacetime%20Curvature.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (8)</h4>
+  <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Affine%20parameter.html" class="backlink-item">Affine parameter</a></li>
-    <li class="backlink-item-wrap"><a href="./Baumann%20GR.html" class="backlink-item">Baumann GR</a></li>
-    <li class="backlink-item-wrap"><a href="./Ch%202%20-%20Some%20Differential%20Geometry.html" class="backlink-item">Ch 2 - Some Differential Geometry</a></li>
-    <li class="backlink-item-wrap"><a href="./Ch%204%20-%20Spacetime%20Curvature.html" class="backlink-item">Ch 4 - Spacetime Curvature</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Geodesic%20equation.html" class="backlink-item">Geodesic equation</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Killing%20vectors%20and%20conserved%20quantities.html" class="backlink-item">Killing vectors and conserved quantities</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Timelike%20vs%20null%20vs%20spacelike.html" class="backlink-item">Timelike vs null vs spacelike</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
   </ul>
 </div>
+

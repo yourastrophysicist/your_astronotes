@@ -2,14 +2,13 @@
 layout: "default"
 title: "SED fitting for SFH"
 ---
-{% raw %}
 # SED fitting for SFH
 
 up: [Pablo_03_Star_formation_in_galaxies](../../02_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html)
 
 ## the idea
 
-beyond the Local Group we cannot resolve individual stars (see [SFH from resolved CMDs](./SFH%20from%20resolved%20CMDs.html)). the only accessible observable is the integrated SED. the goal of SED fitting is:
+beyond the Local Group we cannot resolve individual stars (see [SFH from resolved CMDs](SFH%20from%20resolved%20CMDs.html)). the only accessible observable is the integrated SED. the goal of SED fitting is:
 
 **given multi-band photometry of a galaxy, recover $\psi(t)$, $Z(t)$, $A_V$, $M_*$, and $z$.**
 
@@ -24,8 +23,8 @@ $$F_\lambda^{\text{obs}}(\lambda) = \int_0^{t_0} \psi(t_0 - \tau)\, S_\lambda^{\
 inputs:
 - **SSP library**: SED of a single-age, single-metallicity population as a function of age. from Bruzual & Charlot 2003, FSPS, Maraston 2005, or Starburst99
 - **IMF**: typically Chabrier or Kroupa
-- **SFH parametrization**: delta, tau-model, delayed-tau, non-parametric (see [Star formation history parametrizations](./Star%20formation%20history%20parametrizations.html))
-- **attenuation curve**: Calzetti, Cardelli, Charlot-Fall, or free (see [Dust attenuation and extinction curves](./Dust%20attenuation%20and%20extinction%20curves.html))
+- **SFH parametrization**: delta, tau-model, delayed-tau, non-parametric (see [Star formation history parametrizations](Star%20formation%20history%20parametrizations.html))
+- **attenuation curve**: Calzetti, Cardelli, Charlot-Fall, or free (see [Dust attenuation and extinction curves](Dust%20attenuation%20and%20extinction%20curves.html))
 - **nebular emission** (continuum + lines) for young populations
 - **dust re-emission** (MIR/FIR templates) if IR data included
 - **IGM absorption** at $\lambda < 1216$ Å for $z > 2$
@@ -63,12 +62,12 @@ in order of reliability:
 
 ## connections
 
-- models used: [Stellar population synthesis](./Stellar%20population%20synthesis.html)
-- parametric forms: [Star formation history parametrizations](./Star%20formation%20history%20parametrizations.html)
-- resolved alternative: [SFH from resolved CMDs](./SFH%20from%20resolved%20CMDs.html)
-- extinction: [Dust attenuation and extinction curves](./Dust%20attenuation%20and%20extinction%20curves.html)
-- FIR input: [IR SFR tracer](./IR%20SFR%20tracer.html)
-- stellar mass: [Stellar mass function](./Stellar%20mass%20function.html)
+- models used: [Stellar population synthesis](Stellar%20population%20synthesis.html)
+- parametric forms: [Star formation history parametrizations](Star%20formation%20history%20parametrizations.html)
+- resolved alternative: [SFH from resolved CMDs](SFH%20from%20resolved%20CMDs.html)
+- extinction: [Dust attenuation and extinction curves](Dust%20attenuation%20and%20extinction%20curves.html)
+- FIR input: [IR SFR tracer](IR%20SFR%20tracer.html)
+- stellar mass: [Stellar mass function](Stellar%20mass%20function.html)
 
 ## key references
 
@@ -76,16 +75,15 @@ in order of reliability:
 - Conroy 2013 ARAA
 - Pacifici et al. 2023 ApJ (non-parametric SFH benchmarking)
 - da Cunha, Charlot, Elbaz 2008 MNRAS 388, 1595 (MAGPHYS)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
+  <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Chemical%20evolution%20of%20galaxies.html" class="backlink-item">Chemical evolution of galaxies</a></li>
+    <li class="backlink-item-wrap"><a href="Chemical%20evolution%20of%20galaxies.html" class="backlink-item">Chemical evolution of galaxies</a></li>
+    <li class="backlink-item-wrap"><a href="Post-starburst%20galaxies.html" class="backlink-item">Post-starburst galaxies</a></li>
+    <li class="backlink-item-wrap"><a href="SFH%20from%20resolved%20CMDs.html" class="backlink-item">SFH from resolved CMDs</a></li>
+    <li class="backlink-item-wrap"><a href="Star%20formation%20history%20parametrizations.html" class="backlink-item">Star formation history parametrizations</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html" class="backlink-item">Pablo_03_Star_formation_in_galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="./Post-starburst%20galaxies.html" class="backlink-item">Post-starburst galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="./SFH%20from%20resolved%20CMDs.html" class="backlink-item">SFH from resolved CMDs</a></li>
-    <li class="backlink-item-wrap"><a href="./Star%20formation%20history%20parametrizations.html" class="backlink-item">Star formation history parametrizations</a></li>
   </ul>
 </div>
+

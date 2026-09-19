@@ -2,7 +2,6 @@
 layout: "default"
 title: "Part4_Advanced_Formalisms_and_Non_Gaussianity"
 ---
-{% raw %}
 # Part 4 - Advanced Formalisms and Primordial Non-Gaussianity
 
 *Lectures 24 to 27 notes synthesis - Prof. Nicola Bartolo*  
@@ -177,18 +176,15 @@ All shapes are consistent with zero within $1\sigma$ to $1.5\sigma$. This strong
 
 ![Maldacena Consistency Relation for Local f_NL](../../../assets/images/early_inin_p10.png)
 *Figure CEU-11: Maldacena consistency theorem for single-field slow-roll inflation: $f_{\mathrm{NL}}^{\mathrm{local}} = \frac{5}{12}(1 - n_s) \approx \mathcal{O}(10^{-2})$, establishing that any observation of large local non-Gaussianity ($f_{\mathrm{NL}} \ge 1$) decisively rules out all single-field inflation models.*
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (8)</h4>
+  <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html" class="backlink-item">Cosmology_of_the_Early_Universe_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Course_Overview_and_Syllabus.html" class="backlink-item">Course_Overview_and_Syllabus</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Delta-N%20formalism.html" class="backlink-item">Delta-N formalism</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/In-In%20formalism%20for%20cosmological%20correlators.html" class="backlink-item">In-In formalism for cosmological correlators</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Maldacena%20consistency%20condition.html" class="backlink-item">Maldacena consistency condition</a></li>
-    <li class="backlink-item-wrap"><a href="./Part3_Quantum_Perturbations_and_Power_Spectra.html" class="backlink-item">Part3_Quantum_Perturbations_and_Power_Spectra</a></li>
-    <li class="backlink-item-wrap"><a href="./Part5_GR_Cosmological_Perturbation_Theory.html" class="backlink-item">Part5_GR_Cosmological_Perturbation_Theory</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Primordial%20non-Gaussianity%20and%20bispectrum%20shapes.html" class="backlink-item">Primordial non-Gaussianity and bispectrum shapes</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html" class="backlink-item">Cosmology_of_the_Early_Universe_MOC</a></li>
   </ul>
 </div>
+

@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Catalytic H2 formation on dust grains"
-name: "Catalytic H2 formation on dust grains"
-description: "surface chemical recombination of hydrogen atoms on dust grains and self-shielding against Lyman-Werner photodissociation"
 ---
-{% raw %}
 molecular hydrogen ($H_2$) is the most abundant molecule in the universe and the fundamental fuel for star formation. however, direct gas-phase radiative association:
 
 $$H + H \rightarrow H_2 + h\nu$$
@@ -32,15 +29,14 @@ interstellar FUV photons ($11.2 - 13.6\text{ eV}$) photodissociate $H_2$ via the
 ## see also
 
 - [Astrophysics_of_the_Interstellar_Medium_MOC](../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html)
-- [Multi-phase structure of the interstellar medium](./Multi-phase%20structure%20of%20the%20interstellar%20medium.html)
+- [Multi-phase structure of the interstellar medium](Multi-phase%20structure%20of%20the%20interstellar%20medium.html)
 - [Carraro_05_Interstellar_Dust_and_Extinction](../../02_Literature/Lectures/Interstellar_Medium/Carraro_05_Interstellar_Dust_and_Extinction.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
+  <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Jeans%20gravitational%20instability%20and%20Jeans%20mass.html" class="backlink-item">Jeans gravitational instability and Jeans mass</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html" class="backlink-item">Astrophysics_of_the_Interstellar_Medium_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Interstellar_Medium/Carraro_05_Interstellar_Dust_and_Extinction.html" class="backlink-item">Carraro_05_Interstellar_Dust_and_Extinction</a></li>
-    <li class="backlink-item-wrap"><a href="./Jeans%20gravitational%20instability%20and%20Jeans%20mass.html" class="backlink-item">Jeans gravitational instability and Jeans mass</a></li>
   </ul>
 </div>
+

@@ -2,7 +2,6 @@
 layout: "default"
 title: "Event Horizon Telescope EHT"
 ---
-{% raw %}
 # Event Horizon Telescope (EHT)
 
 a global mm-wave VLBI array assembled to image the event-horizon-scale shadows of supermassive black holes. **first-ever images** of M87's central black hole (April 2019) and Sgr A* (May 2022). the highest-resolution astronomical instrument ever built — $\sim 25$ μas at 230 GHz, comparable to *resolving a CD on the Moon*.
@@ -120,4 +119,3 @@ source: ESO/EHT images eso1907j and eso1907a.
 - [Galactic Center Sgr A and S-stars](interf/Galactic%20Center%20Sgr%20A%20and%20S-stars.html)
 - [Major radio interferometers](interf/Major%20radio%20interferometers.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

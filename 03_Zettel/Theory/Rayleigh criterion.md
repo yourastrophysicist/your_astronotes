@@ -2,7 +2,6 @@
 layout: "default"
 title: "Rayleigh criterion"
 ---
-{% raw %}
 The **Rayleigh criterion** defines the minimum angular separation at which two point sources can be considered **resolved** by a telescope
 	it is the standard definition of the **diffraction limit**
 
@@ -10,7 +9,7 @@ The criterion states:
 	two point sources are just resolved when the **central maximum** of one source's Airy disk
 		coincides with the **first diffraction minimum** of the other source's Airy disk
 
-![Pasted image 20260405183557.png](../../assets/images/Pasted image 20260405183557.png)
+![Pasted image 20260405183557.png](../../assets/images/Pasted%20image%2020260405183557.png)
 <font color="#bfbfbf">Left: two point sources well resolved. Centre: Rayleigh limit — the first minimum of one coincides with the maximum of the other. Right: unresolved — the two maxima blend into one.</font>
 
 ---
@@ -66,7 +65,7 @@ At the Rayleigh limit, the central maximum of one source falls exactly in the fi
 
 The Rayleigh criterion is a **convention**, not a hard physical law
 	it was chosen because it corresponds to a clearly identifiable feature (the first zero)
-		other criteria exist:
+	\tother criteria exist:
 			**Sparrow criterion**: the combined profile is flat (no saddle), more applicable when contrast is poor
 			**Houston criterion**: $\theta = \lambda/D$ (no 1.22 factor)
 
@@ -78,20 +77,20 @@ For **X-ray telescopes**:
 	the diffraction limit is completely negligible
 		at $E = 1$ keV ($\lambda = 1.24$ nm), a 1-m aperture gives $\theta_{diff} \sim 0.0003''$
 	the actual angular resolution (HPD $\sim 0.5''$ for Chandra) is entirely limited by mirror **figure errors and roughness**
-	see [Angular Resolution](./Angular%20Resolution.html) and [Point Spread Function (PSF)](./Point%20Spread%20Function%20%28PSF%29.html)
-{% endraw %}
+	see [Angular Resolution](Angular%20Resolution.html) and [Point Spread Function (PSF)](Point%20Spread%20Function%20%28PSF%29.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (9)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Adaptive%20optics%20overview.html" class="backlink-item">Adaptive optics overview</a></li>
+    <li class="backlink-item-wrap"><a href="Adaptive%20optics%20overview.html" class="backlink-item">Adaptive optics overview</a></li>
+    <li class="backlink-item-wrap"><a href="Atmospheric%20seeing.html" class="backlink-item">Atmospheric seeing</a></li>
+    <li class="backlink-item-wrap"><a href="Point%20Spread%20Function%20%28PSF%29.html" class="backlink-item">Point Spread Function (PSF)</a></li>
+    <li class="backlink-item-wrap"><a href="Point%20spread%20function.html" class="backlink-item">Point spread function</a></li>
+    <li class="backlink-item-wrap"><a href="Single%20slit%20diffraction.html" class="backlink-item">Single slit diffraction</a></li>
+    <li class="backlink-item-wrap"><a href="Telescope%20resolving%20power.html" class="backlink-item">Telescope resolving power</a></li>
     <li class="backlink-item-wrap"><a href="interf/Adaptive%20optics%20overview.html" class="backlink-item">Adaptive optics overview</a></li>
-    <li class="backlink-item-wrap"><a href="./Atmospheric%20seeing.html" class="backlink-item">Atmospheric seeing</a></li>
     <li class="backlink-item-wrap"><a href="interf/Atmospheric%20seeing.html" class="backlink-item">Atmospheric seeing</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Point%20Spread%20Function%20%28PSF%29.html" class="backlink-item">Point Spread Function (PSF)</a></li>
-    <li class="backlink-item-wrap"><a href="./Point%20spread%20function.html" class="backlink-item">Point spread function</a></li>
-    <li class="backlink-item-wrap"><a href="./Single%20slit%20diffraction.html" class="backlink-item">Single slit diffraction</a></li>
-    <li class="backlink-item-wrap"><a href="./Telescope%20resolving%20power.html" class="backlink-item">Telescope resolving power</a></li>
   </ul>
 </div>
+

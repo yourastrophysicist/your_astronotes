@@ -2,7 +2,6 @@
 layout: "default"
 title: "Two-dimensional interpolation"
 ---
-{% raw %}
 # Two-dimensional interpolation
 
 extension of 1D interpolation to functions $f(x, y)$ defined on a 2D grid, or scattered $(x_i, y_i, f_i)$. the algorithms differ depending on whether the data is on a regular grid or arbitrary points.
@@ -126,17 +125,17 @@ or set `bounds_error=True` (default in many scipy interpolators) to raise an err
 
 ## see also
 
-- [Linear interpolation](./Linear%20interpolation.html)
-- [Cubic spline interpolation](./Cubic%20spline%20interpolation.html)
-- [Lagrange polynomial interpolation](./Lagrange%20polynomial%20interpolation.html)
-- [Scipy interpolation tools](./Scipy%20interpolation%20tools.html)
+- [Linear interpolation](Linear%20interpolation.html)
+- [Cubic spline interpolation](Cubic%20spline%20interpolation.html)
+- [Lagrange polynomial interpolation](Lagrange%20polynomial%20interpolation.html)
+- [Scipy interpolation tools](Scipy%20interpolation%20tools.html)
 - [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Scipy%20interpolation%20tools.html" class="backlink-item">Scipy interpolation tools</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Scipy%20interpolation%20tools.html" class="backlink-item">Scipy interpolation tools</a></li>
   </ul>
 </div>
+

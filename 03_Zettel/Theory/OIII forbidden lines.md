@@ -2,12 +2,11 @@
 layout: "default"
 title: "OIII forbidden lines"
 ---
-{% raw %}
 $[OIII]$ forbidden lines are the **canonical $T_e$ diagnostic** in photoionised nebulae, and three of the brightest emission lines in HII regions, planetary nebulae, and AGN narrow-line regions.
 
 ## the energy levels
 
-doubly ionised oxygen O$^{2+}$ has $2p^2$ valence configuration, same as neutral C. allowed terms (see [Equivalent vs nonequivalent electrons](./Equivalent%20vs%20nonequivalent%20electrons.html)):
+doubly ionised oxygen O$^{2+}$ has $2p^2$ valence configuration, same as neutral C. allowed terms (see [Equivalent vs nonequivalent electrons](Equivalent%20vs%20nonequivalent%20electrons.html)):
 - ground $^3P_{0,1,2}$ (Hund: $J = 0$ for less-than-half).
 - $^1D_2$ at $\sim 2.5$ eV above ground.
 - $^1S_0$ at $\sim 5.4$ eV above ground.
@@ -61,38 +60,37 @@ at low metallicity, $n(O^{2+})/n_e$ small (less O total), and $T_e$ is high (les
 
 ## see also
 
-- [Forbidden lines](./Forbidden%20lines.html)
-- [Forbidden line diagnostics](./Forbidden%20line%20diagnostics.html)
-- [Critical density](./Critical%20density.html)
-- [Two-level atom](./Two-level%20atom.html)
-- [Spectroscopic Te diagnostics](./Spectroscopic%20Te%20diagnostics.html)
-- [Selection rules](./Selection%20rules.html)
-- [Atomic term symbols](./Atomic%20term%20symbols.html)
-- [Equivalent vs nonequivalent electrons](./Equivalent%20vs%20nonequivalent%20electrons.html)
-- [BPT diagram](./BPT%20diagram.html)
-- [H II region spectroscopy](./H%20II%20region%20spectroscopy.html)
-- [Planetary nebula spectroscopy](./Planetary%20nebula%20spectroscopy.html)
-{% endraw %}
+- [Forbidden lines](Forbidden%20lines.html)
+- [Forbidden line diagnostics](Forbidden%20line%20diagnostics.html)
+- [Critical density](Critical%20density.html)
+- [Two-level atom](Two-level%20atom.html)
+- [Spectroscopic Te diagnostics](Spectroscopic%20Te%20diagnostics.html)
+- [Selection rules](Selection%20rules.html)
+- [Atomic term symbols](Atomic%20term%20symbols.html)
+- [Equivalent vs nonequivalent electrons](Equivalent%20vs%20nonequivalent%20electrons.html)
+- [BPT diagram](BPT%20diagram.html)
+- [H II region spectroscopy](H%20II%20region%20spectroscopy.html)
+- [Planetary nebula spectroscopy](Planetary%20nebula%20spectroscopy.html)
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (17)</h4>
+  <h4 class="backlinks-title">Linked References (16)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="BPT%20diagram.html" class="backlink-item">BPT diagram</a></li>
+    <li class="backlink-item-wrap"><a href="Collisional%20excitation%20rate.html" class="backlink-item">Collisional excitation rate</a></li>
+    <li class="backlink-item-wrap"><a href="Cooling%20rate%20in%20HII%20regions.html" class="backlink-item">Cooling rate in HII regions</a></li>
+    <li class="backlink-item-wrap"><a href="Critical%20density.html" class="backlink-item">Critical density</a></li>
+    <li class="backlink-item-wrap"><a href="Equilibrium%20temperature.html" class="backlink-item">Equilibrium temperature</a></li>
+    <li class="backlink-item-wrap"><a href="Forbidden%20line%20diagnostics.html" class="backlink-item">Forbidden line diagnostics</a></li>
+    <li class="backlink-item-wrap"><a href="Forbidden%20lines.html" class="backlink-item">Forbidden lines</a></li>
+    <li class="backlink-item-wrap"><a href="Forbidden%20vs%20permitted%20vs%20semiforbidden%20transitions.html" class="backlink-item">Forbidden vs permitted vs semiforbidden transitions</a></li>
+    <li class="backlink-item-wrap"><a href="Galactic%20novae%20spectroscopy.html" class="backlink-item">Galactic novae spectroscopy</a></li>
+    <li class="backlink-item-wrap"><a href="Planetary%20nebula%20spectroscopy.html" class="backlink-item">Planetary nebula spectroscopy</a></li>
+    <li class="backlink-item-wrap"><a href="SII%20forbidden%20lines.html" class="backlink-item">SII forbidden lines</a></li>
+    <li class="backlink-item-wrap"><a href="Selection%20rules.html" class="backlink-item">Selection rules</a></li>
+    <li class="backlink-item-wrap"><a href="Spectroscopic%20Te%20diagnostics.html" class="backlink-item">Spectroscopic Te diagnostics</a></li>
+    <li class="backlink-item-wrap"><a href="Symbiotic%20star%20spectroscopy.html" class="backlink-item">Symbiotic star spectroscopy</a></li>
+    <li class="backlink-item-wrap"><a href="Two-level%20atom.html" class="backlink-item">Two-level atom</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./BPT%20diagram.html" class="backlink-item">BPT diagram</a></li>
-    <li class="backlink-item-wrap"><a href="./Collisional%20excitation%20rate.html" class="backlink-item">Collisional excitation rate</a></li>
-    <li class="backlink-item-wrap"><a href="./Cooling%20rate%20in%20HII%20regions.html" class="backlink-item">Cooling rate in HII regions</a></li>
-    <li class="backlink-item-wrap"><a href="./Critical%20density.html" class="backlink-item">Critical density</a></li>
-    <li class="backlink-item-wrap"><a href="./Equilibrium%20temperature.html" class="backlink-item">Equilibrium temperature</a></li>
-    <li class="backlink-item-wrap"><a href="./Forbidden%20line%20diagnostics.html" class="backlink-item">Forbidden line diagnostics</a></li>
-    <li class="backlink-item-wrap"><a href="./Forbidden%20lines.html" class="backlink-item">Forbidden lines</a></li>
-    <li class="backlink-item-wrap"><a href="./Forbidden%20vs%20permitted%20vs%20semiforbidden%20transitions.html" class="backlink-item">Forbidden vs permitted vs semiforbidden transitions</a></li>
-    <li class="backlink-item-wrap"><a href="./Galactic%20novae%20spectroscopy.html" class="backlink-item">Galactic novae spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="./H%20II%20region%20spectroscopy.html" class="backlink-item">H II region spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="./Planetary%20nebula%20spectroscopy.html" class="backlink-item">Planetary nebula spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="./SII%20forbidden%20lines.html" class="backlink-item">SII forbidden lines</a></li>
-    <li class="backlink-item-wrap"><a href="./Selection%20rules.html" class="backlink-item">Selection rules</a></li>
-    <li class="backlink-item-wrap"><a href="./Spectroscopic%20Te%20diagnostics.html" class="backlink-item">Spectroscopic Te diagnostics</a></li>
-    <li class="backlink-item-wrap"><a href="./Symbiotic%20star%20spectroscopy.html" class="backlink-item">Symbiotic star spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="./Two-level%20atom.html" class="backlink-item">Two-level atom</a></li>
   </ul>
 </div>
+

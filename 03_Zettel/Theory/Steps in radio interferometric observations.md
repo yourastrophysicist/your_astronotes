@@ -1,12 +1,8 @@
 ---
 layout: "default"
 title: "Steps in radio interferometric observations"
-type: "zettel"
-created: "2026-08-04"
-moc: ""
 tags: ""
 ---
-{% raw %}
 > A radio observation flows through a strict pipeline of planning, alternating calibrator scans, data flagging, and iterative imaging.
 
 ---
@@ -47,4 +43,3 @@ Major facilities like ALMA and the VLA process observations through this standar
 
 * parent moc: [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
 * related zettels: [Calibration overview](interf/Calibration%20overview.html), [Bandpass calibration](interf/Bandpass%20calibration.html), [Flux calibration](interf/Flux%20calibration.html), [Phase referencing](interf/Phase%20referencing.html), [Self-calibration](interf/Self-calibration.html), [CLEAN algorithm](interf/CLEAN%20algorithm.html)
-{% endraw %}

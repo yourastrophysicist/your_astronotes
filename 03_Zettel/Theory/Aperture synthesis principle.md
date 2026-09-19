@@ -2,7 +2,6 @@
 layout: "default"
 title: "Aperture synthesis principle"
 ---
-{% raw %}
 # Aperture synthesis principle
 
 the central technique of modern interferometry. **build an effective aperture as large as the longest baseline by combining many sub-apertures and Earth's rotation.** invented by Martin Ryle (Nobel 1974) for radio astronomy, now the standard practice of every interferometer.
@@ -105,4 +104,3 @@ source: local synthetic demo generated from a rotating Y-like array model.
 - [Dirty beam and dirty image](interf/Dirty%20beam%20and%20dirty%20image.html)
 - [CLEAN algorithm](interf/CLEAN%20algorithm.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

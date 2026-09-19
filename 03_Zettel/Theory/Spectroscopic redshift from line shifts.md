@@ -2,7 +2,6 @@
 layout: "default"
 title: "Spectroscopic redshift from line shifts"
 ---
-{% raw %}
 measuring **spectroscopic redshift** is the most robust way to determine a distant object's distance. the line-shift principle is conceptually simple: identify a known emission or absorption line, compare its observed wavelength to its rest wavelength, and read off $z$.
 
 ## the formula
@@ -11,7 +10,7 @@ $$\boxed{\, z = \frac{\lambda_{\rm obs} - \lambda_{\rm rest}}{\lambda_{\rm rest}
 
 equivalently $\lambda_{\rm obs} = (1 + z) \lambda_{\rm rest}$.
 
-at small $z$, $v \approx cz$ (recession velocity). at high $z$, full FLRW relations apply ([Cosmological redshift](./Cosmological%20redshift.html)).
+at small $z$, $v \approx cz$ (recession velocity). at high $z$, full FLRW relations apply ([Cosmological redshift](Cosmological%20redshift.html)).
 
 ## the procedure
 
@@ -56,7 +55,7 @@ so SDSS, DESI, etc. use $[OIII]\,\lambda 5007$ + companions for redshifts of mil
 ## limits of accuracy
 
 systematic errors that limit precision:
-- **wavelength calibration error** (see [Wavelength calibration](./Wavelength%20calibration.html)): typically $\delta\lambda \sim 0.01$ Å in modern echelle, $\sim 0.5$ Å in low-res.
+- **wavelength calibration error** (see [Wavelength calibration](Wavelength%20calibration.html)): typically $\delta\lambda \sim 0.01$ Å in modern echelle, $\sim 0.5$ Å in low-res.
 - **line peculiar velocity**: galaxies can have $v_{\rm peculiar} \sim 300$ km/s at low $z$. limits the cosmological-redshift accuracy.
 - **profile asymmetry**: many emission lines (especially Ly$\alpha$ at high $z$) are asymmetric due to outflows or absorbers, biasing the centroid.
 
@@ -64,24 +63,24 @@ precision-RV applications (exoplanet detection): $\delta v \sim 0.1$ to $1$ m/s 
 
 ## see also
 
-- [Wavelength calibration](./Wavelength%20calibration.html)
-- [Cosmological redshift](./Cosmological%20redshift.html)
-- [Hubble's law and cosmological redshift](./Hubble%27s%20law%20and%20cosmological%20redshift.html)
-- [Distance ladder derivations](./Distance%20ladder%20derivations.html)
-- [Stellar velocity from Doppler shift](./Stellar%20velocity%20from%20Doppler%20shift.html)
-- [Hydrogen spectral series](./Hydrogen%20spectral%20series.html)
-- [Calcium and CaII H+K](./Calcium%20and%20CaII%20H%2BK.html)
-- [Photometric redshifts](./Photometric%20redshifts.html) — cheaper alternative
-- [Multi-object spectroscopy MOS](./Multi-object%20spectroscopy%20MOS.html)
-{% endraw %}
+- [Wavelength calibration](Wavelength%20calibration.html)
+- [Cosmological redshift](Cosmological%20redshift.html)
+- [Hubble's law and cosmological redshift](Hubble%27s%20law%20and%20cosmological%20redshift.html)
+- [Distance ladder derivations](Distance%20ladder%20derivations.html)
+- [Stellar velocity from Doppler shift](Stellar%20velocity%20from%20Doppler%20shift.html)
+- [Hydrogen spectral series](Hydrogen%20spectral%20series.html)
+- [Calcium and CaII H+K](Calcium%20and%20CaII%20H%2BK.html)
+- [Photometric redshifts](Photometric%20redshifts.html) — cheaper alternative
+- [Multi-object spectroscopy MOS](Multi-object%20spectroscopy%20MOS.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Calcium%20and%20CaII%20H%2BK.html" class="backlink-item">Calcium and CaII H+K</a></li>
+    <li class="backlink-item-wrap"><a href="Cosmological%20redshift.html" class="backlink-item">Cosmological redshift</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20velocity%20from%20Doppler%20shift.html" class="backlink-item">Stellar velocity from Doppler shift</a></li>
+    <li class="backlink-item-wrap"><a href="Wavelength%20calibration.html" class="backlink-item">Wavelength calibration</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Calcium%20and%20CaII%20H%2BK.html" class="backlink-item">Calcium and CaII H+K</a></li>
-    <li class="backlink-item-wrap"><a href="./Cosmological%20redshift.html" class="backlink-item">Cosmological redshift</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20velocity%20from%20Doppler%20shift.html" class="backlink-item">Stellar velocity from Doppler shift</a></li>
-    <li class="backlink-item-wrap"><a href="./Wavelength%20calibration.html" class="backlink-item">Wavelength calibration</a></li>
   </ul>
 </div>
+

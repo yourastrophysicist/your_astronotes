@@ -2,14 +2,14 @@
 layout: "default"
 title: "Observational_Astrophysics_MOC"
 ---
-{% raw %}
 # Observational Astrophysics — Map of Content
 
-> **Oral Exam Confirmed**: **Tuesday 15 September 2026, 09.00 - 13.00 CEST**, Aula A, Ex Rizzato (Examiner: **Prof. Paolo Cassata**). Part of Exams autumn 2026 sprint.
+> **Exam Status** - Sat on **Tuesday 15 September 2026** (Aula A, Ex Rizzato, Examiner: **Prof Paolo Cassata**). **FAILED (retake scheduled for Winter Session, Jan / Feb 2027)**.
+> See postmortem & graph literacy protocol: Exam Postmortem and Observational Graph Fluency and Lesson Learned - Mathematical Rigor and Observational Graph Fluency.
 
 A.Y. 2025/2026, first semester at the University of Padova. Complete lecture material from `C:\Users\snupido\Documents\1_PROJECTS\1st_Semester\OBSERVATIONAL ASTROPHYSICS` (Decks 1.1 through 7, 542 lecture slides extracted to `07_Images/Observational_Astrophysics/`), plus the definitive oral exam answer drafts `obs1.pdf` through `obs7.pdf`.
 
-This course is the **observational pipeline**, end to end. Unlike [Fundamentals_Astrophysics_Cosmology_MOC](./Fundamentals_Astrophysics_Cosmology_MOC.html) which sweeps broadly across theoretical cosmology, and unlike [Astrophysics_of_Galaxies_MOC](./Astrophysics_of_Galaxies_MOC.html) which focuses on galactic structure and evolution, this course answers the fundamental experimental question:
+This course is the **observational pipeline**, end to end. Unlike [Fundamentals_Astrophysics_Cosmology_MOC](Fundamentals_Astrophysics_Cosmology_MOC.html) which sweeps broadly across theoretical cosmology, and unlike [Astrophysics_of_Galaxies_MOC](Astrophysics_of_Galaxies_MOC.html) which focuses on galactic structure and evolution, this course answers the fundamental experimental question:
 
 > *Given a real telescope, on a real night, with a real detector behind the atmosphere, how do I turn raw photons into physical quantities with rigorous error bars?*
 
@@ -769,41 +769,3 @@ FROM "03_Zettel/Theory" OR "03_Zettel/Observations"
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 SORT file.name ASC
 ```
-{% endraw %}
-
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (31)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./04_Atlas.html" class="backlink-item">04_Atlas</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Adaptive%20optics%20overview.html" class="backlink-item">Adaptive optics overview</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Adaptive%20optics%20overview.html" class="backlink-item">Adaptive optics overview</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Age%20estimation%20in%20unresolved%20populations.html" class="backlink-item">Age estimation in unresolved populations</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Age-metallicity%20degeneracy.html" class="backlink-item">Age-metallicity degeneracy</a></li>
-    <li class="backlink-item-wrap"><a href="./Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/CCD%20detectors%20and%20SNR.html" class="backlink-item">CCD detectors and SNR</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Distance%20ladder%20derivations.html" class="backlink-item">Distance ladder derivations</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Dust%20attenuation%20in%20synthetic%20populations.html" class="backlink-item">Dust attenuation in synthetic populations</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Earth%20atmosphere%20for%20observations.html" class="backlink-item">Earth atmosphere for observations</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/H-alpha%20SFR%20tracer.html" class="backlink-item">H-alpha SFR tracer</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/IR%20SFR%20tracer.html" class="backlink-item">IR SFR tracer</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Initial%20mass%20function.html" class="backlink-item">Initial mass function</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Lick%20indices.html" class="backlink-item">Lick indices</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Mass-luminosity%20relation.html" class="backlink-item">Mass-luminosity relation</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Metallicity%20and%20chemical%20evolution.html" class="backlink-item">Metallicity and chemical evolution</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Obs_astro_course_intro.html" class="backlink-item">Obs_astro_course_intro</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Photometric%20redshifts.html" class="backlink-item">Photometric redshifts</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/SED%20fitting%20basics.html" class="backlink-item">SED fitting basics</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/SFR%20tracers%20from%20population%20synthesis.html" class="backlink-item">SFR tracers from population synthesis</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/SPS%20code%20families.html" class="backlink-item">SPS code families</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Single%20stellar%20population%20SSP.html" class="backlink-item">Single stellar population SSP</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Spectroscopy_course_intro.html" class="backlink-item">Spectroscopy_course_intro</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Star%20formation%20history%20of%20a%20population.html" class="backlink-item">Star formation history of a population</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Stellar%20mass%20estimation%20in%20unresolved%20populations.html" class="backlink-item">Stellar mass estimation in unresolved populations</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Stellar%20population%20synthesis.html" class="backlink-item">Stellar population synthesis</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Survey%20resources%20for%20Obs%20Astro.html" class="backlink-item">Survey resources for Obs Astro</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Time%20keeping%20in%20astronomy.html" class="backlink-item">Time keeping in astronomy</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/UV%20SFR%20tracer.html" class="backlink-item">UV SFR tracer</a></li>
-  </ul>
-</div>

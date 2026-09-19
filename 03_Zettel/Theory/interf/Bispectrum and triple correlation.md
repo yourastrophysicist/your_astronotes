@@ -2,10 +2,9 @@
 layout: "default"
 title: "Bispectrum and triple correlation"
 ---
-{% raw %}
 # Bispectrum and triple correlation
 
-the *single-aperture* analog of [phase closure](./Phase%20closure.html). a third-order quantity that is *atmosphere-independent* and recovers the full phase structure of a source despite seeing or instrument errors.
+the *single-aperture* analog of [phase closure](Phase%20closure.html). a third-order quantity that is *atmosphere-independent* and recovers the full phase structure of a source despite seeing or instrument errors.
 
 ## definition
 
@@ -86,32 +85,32 @@ introduced by **Lohmann, Weigelt, and Wirnitzer** (1983) — the "Erlangen group
 
 ## see also
 
-- [Speckle interferometry](./Speckle%20interferometry.html)
-- [Theory of speckle interferometry](./Theory%20of%20speckle%20interferometry.html)
-- [Aperture masking](./Aperture%20masking.html)
-- [Speckle imaging algorithms](./Speckle%20imaging%20algorithms.html)
-- [Phase closure](./Phase%20closure.html)
-- [Closure amplitude](./Closure%20amplitude.html)
+- [Speckle interferometry](Speckle%20interferometry.html)
+- [Theory of speckle interferometry](Theory%20of%20speckle%20interferometry.html)
+- [Aperture masking](Aperture%20masking.html)
+- [Speckle imaging algorithms](Speckle%20imaging%20algorithms.html)
+- [Phase closure](Phase%20closure.html)
+- [Closure amplitude](Closure%20amplitude.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (15)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Aperture%20masking.html" class="backlink-item">Aperture masking</a></li>
     <li class="backlink-item-wrap"><a href="../Aperture%20masking.html" class="backlink-item">Aperture masking</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./COAST%20Cambridge%20Optical%20Aperture%20Synthesis%20Telescope.html" class="backlink-item">COAST Cambridge Optical Aperture Synthesis Telescope</a></li>
     <li class="backlink-item-wrap"><a href="../COAST%20Cambridge%20Optical%20Aperture%20Synthesis%20Telescope.html" class="backlink-item">COAST Cambridge Optical Aperture Synthesis Telescope</a></li>
     <li class="backlink-item-wrap"><a href="../Closure%20amplitude.html" class="backlink-item">Closure amplitude</a></li>
-    <li class="backlink-item-wrap"><a href="./Closure%20amplitude.html" class="backlink-item">Closure amplitude</a></li>
     <li class="backlink-item-wrap"><a href="../Phase%20closure.html" class="backlink-item">Phase closure</a></li>
-    <li class="backlink-item-wrap"><a href="./Phase%20closure.html" class="backlink-item">Phase closure</a></li>
-    <li class="backlink-item-wrap"><a href="./Speckle%20imaging%20algorithms.html" class="backlink-item">Speckle imaging algorithms</a></li>
     <li class="backlink-item-wrap"><a href="../Speckle%20imaging%20algorithms.html" class="backlink-item">Speckle imaging algorithms</a></li>
-    <li class="backlink-item-wrap"><a href="./Speckle%20interferometry.html" class="backlink-item">Speckle interferometry</a></li>
     <li class="backlink-item-wrap"><a href="../Speckle%20interferometry.html" class="backlink-item">Speckle interferometry</a></li>
     <li class="backlink-item-wrap"><a href="../Theory%20of%20speckle%20interferometry.html" class="backlink-item">Theory of speckle interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="./Theory%20of%20speckle%20interferometry.html" class="backlink-item">Theory of speckle interferometry</a></li>
+    <li class="backlink-item-wrap"><a href="Aperture%20masking.html" class="backlink-item">Aperture masking</a></li>
+    <li class="backlink-item-wrap"><a href="COAST%20Cambridge%20Optical%20Aperture%20Synthesis%20Telescope.html" class="backlink-item">COAST Cambridge Optical Aperture Synthesis Telescope</a></li>
+    <li class="backlink-item-wrap"><a href="Closure%20amplitude.html" class="backlink-item">Closure amplitude</a></li>
+    <li class="backlink-item-wrap"><a href="Phase%20closure.html" class="backlink-item">Phase closure</a></li>
+    <li class="backlink-item-wrap"><a href="Speckle%20imaging%20algorithms.html" class="backlink-item">Speckle imaging algorithms</a></li>
+    <li class="backlink-item-wrap"><a href="Speckle%20interferometry.html" class="backlink-item">Speckle interferometry</a></li>
+    <li class="backlink-item-wrap"><a href="Theory%20of%20speckle%20interferometry.html" class="backlink-item">Theory of speckle interferometry</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

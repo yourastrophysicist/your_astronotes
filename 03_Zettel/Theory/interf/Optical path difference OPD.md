@@ -2,7 +2,6 @@
 layout: "default"
 title: "Optical path difference OPD"
 ---
-{% raw %}
 # Optical path difference (OPD)
 
 the **single most important quantity** in interferometry. when two waves from a common source travel along different geometric paths and recombine, the OPD between them determines whether they interfere constructively or destructively. every interferometer is a device for *measuring* an OPD or *exploiting* a known OPD to encode information.
@@ -104,32 +103,32 @@ a Michelson laboratory interferometer with one moving mirror sweeps OPD by twice
 
 ## see also
 
-- [Light waves and the EM spectrum](./Light%20waves%20and%20the%20EM%20spectrum.html)
-- [Superposition and interference](./Superposition%20and%20interference.html)
-- [Fresnel-Arago laws](./Fresnel-Arago%20laws.html)
-- [Wavefront-division interferometers](./Wavefront-division%20interferometers.html)
+- [Light waves and the EM spectrum](Light%20waves%20and%20the%20EM%20spectrum.html)
+- [Superposition and interference](Superposition%20and%20interference.html)
+- [Fresnel-Arago laws](Fresnel-Arago%20laws.html)
+- [Wavefront-division interferometers](Wavefront-division%20interferometers.html)
 - [Amplitude-division interferometers](../Amplitude-division%20interferometers.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (16)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Fresnel%20double%20mirror.html" class="backlink-item">Fresnel double mirror</a></li>
     <li class="backlink-item-wrap"><a href="../Fresnel%20double%20mirror.html" class="backlink-item">Fresnel double mirror</a></li>
     <li class="backlink-item-wrap"><a href="../Fresnel-Arago%20laws.html" class="backlink-item">Fresnel-Arago laws</a></li>
-    <li class="backlink-item-wrap"><a href="./Fresnel-Arago%20laws.html" class="backlink-item">Fresnel-Arago laws</a></li>
-    <li class="backlink-item-wrap"><a href="./Fringes%20of%20equal%20inclination.html" class="backlink-item">Fringes of equal inclination</a></li>
     <li class="backlink-item-wrap"><a href="../Fringes%20of%20equal%20inclination.html" class="backlink-item">Fringes of equal inclination</a></li>
-    <li class="backlink-item-wrap"><a href="./Fringes%20of%20equal%20thickness.html" class="backlink-item">Fringes of equal thickness</a></li>
     <li class="backlink-item-wrap"><a href="../Fringes%20of%20equal%20thickness.html" class="backlink-item">Fringes of equal thickness</a></li>
     <li class="backlink-item-wrap"><a href="../Light%20waves%20and%20the%20EM%20spectrum.html" class="backlink-item">Light waves and the EM spectrum</a></li>
-    <li class="backlink-item-wrap"><a href="./Light%20waves%20and%20the%20EM%20spectrum.html" class="backlink-item">Light waves and the EM spectrum</a></li>
     <li class="backlink-item-wrap"><a href="../Michelson%20laboratory%20interferometer.html" class="backlink-item">Michelson laboratory interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="./Michelson%20laboratory%20interferometer.html" class="backlink-item">Michelson laboratory interferometer</a></li>
     <li class="backlink-item-wrap"><a href="../Newton%27s%20rings.html" class="backlink-item">Newton's rings</a></li>
-    <li class="backlink-item-wrap"><a href="./Newton%27s%20rings.html" class="backlink-item">Newton's rings</a></li>
     <li class="backlink-item-wrap"><a href="../Superposition%20and%20interference.html" class="backlink-item">Superposition and interference</a></li>
+    <li class="backlink-item-wrap"><a href="Fresnel%20double%20mirror.html" class="backlink-item">Fresnel double mirror</a></li>
+    <li class="backlink-item-wrap"><a href="Fresnel-Arago%20laws.html" class="backlink-item">Fresnel-Arago laws</a></li>
+    <li class="backlink-item-wrap"><a href="Fringes%20of%20equal%20inclination.html" class="backlink-item">Fringes of equal inclination</a></li>
+    <li class="backlink-item-wrap"><a href="Fringes%20of%20equal%20thickness.html" class="backlink-item">Fringes of equal thickness</a></li>
+    <li class="backlink-item-wrap"><a href="Light%20waves%20and%20the%20EM%20spectrum.html" class="backlink-item">Light waves and the EM spectrum</a></li>
+    <li class="backlink-item-wrap"><a href="Michelson%20laboratory%20interferometer.html" class="backlink-item">Michelson laboratory interferometer</a></li>
+    <li class="backlink-item-wrap"><a href="Newton%27s%20rings.html" class="backlink-item">Newton's rings</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

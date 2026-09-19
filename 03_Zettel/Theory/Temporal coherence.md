@@ -1,12 +1,8 @@
 ---
 layout: "default"
 title: "Temporal coherence"
-type: "zettel"
-created: "2026-08-04"
-moc: ""
 tags: ""
 ---
-{% raw %}
 > *the measure of a wave's predictability over time, dictated strictly by its bandwidth, determining how carefully we must match optical paths*
 
 ---
@@ -48,4 +44,3 @@ Temporal coherence drives major engineering decisions in interferometry. In opti
 
 * parent moc: [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
 * related zettels: [Spatial coherence](interf/Spatial%20coherence.html), [Coherence function and visibility](interf/Coherence%20function%20and%20visibility.html), [Wiener-Khinchin theorem](interf/Wiener-Khinchin%20theorem.html), [Delay lines and path-length equalization](interf/Delay%20lines%20and%20path-length%20equalization.html)
-{% endraw %}

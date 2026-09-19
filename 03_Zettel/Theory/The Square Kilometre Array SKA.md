@@ -1,12 +1,8 @@
 ---
 layout: "default"
 title: "The Square Kilometre Array SKA"
-type: "zettel"
-created: "2026-08-04"
-moc: ""
 tags: ""
 ---
-{% raw %}
 > The SKA is the ultimate next-generation radio observatory, combining unprecedented collecting area and computing power across two continents.
 
 ---
@@ -40,4 +36,3 @@ The sheer scale of the SKA enables revolutionary science cases. It is designed t
 
 * parent moc: [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
 * related zettels: [Major radio interferometers](interf/Major%20radio%20interferometers.html), [Event Horizon Telescope EHT](interf/Event%20Horizon%20Telescope%20EHT.html), [Pulsar timing arrays as interferometers](interf/Pulsar%20timing%20arrays%20as%20interferometers.html), [Radio astronomy basics](interf/Radio%20astronomy%20basics.html)
-{% endraw %}

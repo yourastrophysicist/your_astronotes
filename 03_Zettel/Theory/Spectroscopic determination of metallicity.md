@@ -1,23 +1,20 @@
 ---
 layout: "default"
 title: "Spectroscopic determination of metallicity"
-name: "Spectroscopic determination of metallicity"
-description: "deriving [Fe/H] from equivalent widths or spectral synthesis, with attention to LTE and microturbulence"
 ---
-{% raw %}
 # spectroscopic determination of metallicity
 
-the term "metallicity" usually means [Fe/H] (iron-to-hydrogen ratio relative to solar), but spectroscopists ultimately derive abundances of many individual elements. the basic ingredients are: equivalent widths (or full line profiles), atomic data (oscillator strengths, damping constants, excitation potentials), a model atmosphere defined by $T_{\rm eff}$ and $\log g$, and a microturbulence (see [Microturbulence](./Microturbulence.html) and [Atmospheric parameters Teff log g feh vmicro](interf/Atmospheric%20parameters%20Teff%20log%20g%20feh%20vmicro.html)).
+the term "metallicity" usually means [Fe/H] (iron-to-hydrogen ratio relative to solar), but spectroscopists ultimately derive abundances of many individual elements. the basic ingredients are: equivalent widths (or full line profiles), atomic data (oscillator strengths, damping constants, excitation potentials), a model atmosphere defined by $T_{\rm eff}$ and $\log g$, and a microturbulence (see [Microturbulence](Microturbulence.html) and [Atmospheric parameters Teff log g feh vmicro](interf/Atmospheric%20parameters%20Teff%20log%20g%20feh%20vmicro.html)).
 
 ## the general strategy
 
 at any wavelength, the line opacity of a transition $i \to j$ is
 $$\kappa_\ell \propto N_i\,f_{ij},$$
-where $f_{ij}$ is the oscillator strength. the population $N_i$ depends on the **abundance** $A$ (the total number density of the element relative to hydrogen), the [Saha ionisation equation](./Saha%20ionisation%20equation.html) balance between ionisation stages, and the Boltzmann distribution within a stage. once these are known, the line opacity gives a synthetic line profile (or [Equivalent width](./Equivalent%20width.html)) for each candidate abundance, and one picks the abundance that matches the observation.
+where $f_{ij}$ is the oscillator strength. the population $N_i$ depends on the **abundance** $A$ (the total number density of the element relative to hydrogen), the [Saha ionisation equation](Saha%20ionisation%20equation.html) balance between ionisation stages, and the Boltzmann distribution within a stage. once these are known, the line opacity gives a synthetic line profile (or [Equivalent width](Equivalent%20width.html)) for each candidate abundance, and one picks the abundance that matches the observation.
 
 ## method 1: equivalent widths
 
-for unblended lines, measure $W_\lambda$ from the spectrum. interpret it via the [Curve of growth](./Curve%20of%20growth.html) for that line, given $T_{\rm eff}$, $\log g$, $\xi_t$:
+for unblended lines, measure $W_\lambda$ from the spectrum. interpret it via the [Curve of growth](Curve%20of%20growth.html) for that line, given $T_{\rm eff}$, $\log g$, $\xi_t$:
 
 - weak lines: $W \propto A$ (linear regime, cleanest abundance probe).
 - saturated lines: $W \propto \sqrt{\log A}$ (avoid; very weak abundance dependence).
@@ -44,9 +41,9 @@ because [Fe/H] couples to both $T_{\rm eff}$ (excitation balance) and $\log g$ (
 
 1. start with a photometric guess of $T_{\rm eff}, \log g$.
 2. compute Fe I and Fe II abundances line by line.
-3. demand zero slope of [Fe I/H] vs $\chi_{\rm exc}$ (sets $T_{\rm eff}$, see [Spectroscopic determination of Teff](./Spectroscopic%20determination%20of%20Teff.html)).
+3. demand zero slope of [Fe I/H] vs $\chi_{\rm exc}$ (sets $T_{\rm eff}$, see [Spectroscopic determination of Teff](Spectroscopic%20determination%20of%20Teff.html)).
 4. demand zero slope of [Fe I/H] vs $\log W/\lambda$ (sets $\xi_t$).
-5. demand [Fe I/H] = [Fe II/H] (sets $\log g$, see [Spectroscopic determination of log g](./Spectroscopic%20determination%20of%20log%20g.html)).
+5. demand [Fe I/H] = [Fe II/H] (sets $\log g$, see [Spectroscopic determination of log g](Spectroscopic%20determination%20of%20log%20g.html)).
 6. iterate until self-consistent.
 
 ## high-precision relative abundances: solar twins and planet formation
@@ -64,31 +61,31 @@ similar high-precision differential spectroscopy is critical for:
 
 ## non-LTE and 3D corrections
 
-[Local thermodynamic equilibrium LTE](./Local%20thermodynamic%20equilibrium%20LTE.html) is an approximation. for metal-poor giants, Fe I lines suffer from over-ionisation and yield abundances $\sim 0.1\text{-}0.3$ dex too low; Fe II is more robust. 3D hydrodynamic atmospheres modify the inferred [Fe/H] of the sun by $\sim 0.05$ dex (the Asplund 2009 revision). for high-precision work these corrections are now standard.
+[Local thermodynamic equilibrium LTE](Local%20thermodynamic%20equilibrium%20LTE.html) is an approximation. for metal-poor giants, Fe I lines suffer from over-ionisation and yield abundances $\sim 0.1\text{-}0.3$ dex too low; Fe II is more robust. 3D hydrodynamic atmospheres modify the inferred [Fe/H] of the sun by $\sim 0.05$ dex (the Asplund 2009 revision). for high-precision work these corrections are now standard.
 
 ## see also
-- [Equivalent width](./Equivalent%20width.html)
-- [Curve of growth](./Curve%20of%20growth.html)
+- [Equivalent width](Equivalent%20width.html)
+- [Curve of growth](Curve%20of%20growth.html)
 - [Atmospheric parameters Teff log g feh vmicro](interf/Atmospheric%20parameters%20Teff%20log%20g%20feh%20vmicro.html)
-- [Spectroscopic determination of Teff](./Spectroscopic%20determination%20of%20Teff.html)
-- [Spectroscopic determination of log g](./Spectroscopic%20determination%20of%20log%20g.html)
-- [Microturbulence](./Microturbulence.html)
-- [Local thermodynamic equilibrium LTE](./Local%20thermodynamic%20equilibrium%20LTE.html)
-- [Saha ionisation equation](./Saha%20ionisation%20equation.html)
-- [Element abundance patterns](./Element%20abundance%20patterns.html)
+- [Spectroscopic determination of Teff](Spectroscopic%20determination%20of%20Teff.html)
+- [Spectroscopic determination of log g](Spectroscopic%20determination%20of%20log%20g.html)
+- [Microturbulence](Microturbulence.html)
+- [Local thermodynamic equilibrium LTE](Local%20thermodynamic%20equilibrium%20LTE.html)
+- [Saha ionisation equation](Saha%20ionisation%20equation.html)
+- [Element abundance patterns](Element%20abundance%20patterns.html)
 - [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (8)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Age%20dating%20from%20the%20WD%20luminosity%20function.html" class="backlink-item">Age dating from the WD luminosity function</a></li>
-    <li class="backlink-item-wrap"><a href="./Atmospheric%20parameters%20Teff%20log%20g%20feh%20vmicro.html" class="backlink-item">Atmospheric parameters Teff log g feh vmicro</a></li>
+    <li class="backlink-item-wrap"><a href="Age%20dating%20from%20the%20WD%20luminosity%20function.html" class="backlink-item">Age dating from the WD luminosity function</a></li>
+    <li class="backlink-item-wrap"><a href="Atmospheric%20parameters%20Teff%20log%20g%20feh%20vmicro.html" class="backlink-item">Atmospheric parameters Teff log g feh vmicro</a></li>
+    <li class="backlink-item-wrap"><a href="Bulge%20microlensing%20surveys.html" class="backlink-item">Bulge microlensing surveys</a></li>
+    <li class="backlink-item-wrap"><a href="Element%20abundance%20patterns.html" class="backlink-item">Element abundance patterns</a></li>
+    <li class="backlink-item-wrap"><a href="Spectroscopic%20determination%20of%20Teff.html" class="backlink-item">Spectroscopic determination of Teff</a></li>
+    <li class="backlink-item-wrap"><a href="WDCS%20vs%20MSTO%20ages%20comparison.html" class="backlink-item">WDCS vs MSTO ages comparison</a></li>
     <li class="backlink-item-wrap"><a href="interf/Atmospheric%20parameters%20Teff%20log%20g%20feh%20vmicro.html" class="backlink-item">Atmospheric parameters Teff log g feh vmicro</a></li>
-    <li class="backlink-item-wrap"><a href="./Bulge%20microlensing%20surveys.html" class="backlink-item">Bulge microlensing surveys</a></li>
-    <li class="backlink-item-wrap"><a href="./Element%20abundance%20patterns.html" class="backlink-item">Element abundance patterns</a></li>
-    <li class="backlink-item-wrap"><a href="./Spectroscopic%20determination%20of%20Teff.html" class="backlink-item">Spectroscopic determination of Teff</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./WDCS%20vs%20MSTO%20ages%20comparison.html" class="backlink-item">WDCS vs MSTO ages comparison</a></li>
   </ul>
 </div>
+

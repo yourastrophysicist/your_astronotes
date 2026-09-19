@@ -2,7 +2,6 @@
 layout: "default"
 title: "Math Numerical Methods equation sheet"
 ---
-{% raw %}
 # Math Numerical Methods equation sheet
 
 a fast-lookup reference for everything I might need on the exam. organized by problem class. each entry: formula, when to use, complexity.
@@ -148,11 +147,10 @@ def step(y, t, h, f):
 
 ## see also
 
-- [Math Numerical Methods course intro](./Math%20Numerical%20Methods%20course%20intro.html)
-- [Math Numerical Methods exam rules](./Math%20Numerical%20Methods%20exam%20rules.html)
-- [Numerical problem solving workflow](./Numerical%20problem%20solving%20workflow.html)
+- [Math Numerical Methods course intro](Math%20Numerical%20Methods%20course%20intro.html)
+- [Math Numerical Methods exam rules](Math%20Numerical%20Methods%20exam%20rules.html)
+- [Numerical problem solving workflow](Numerical%20problem%20solving%20workflow.html)
 - [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (1)</h4>
@@ -160,3 +158,4 @@ def step(y, t, h, f):
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
   </ul>
 </div>
+

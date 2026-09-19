@@ -2,7 +2,6 @@
 layout: "default"
 title: "Synchroton"
 ---
-{% raw %}
 When a particle moves inside a magnetic and electric field
 	it is exposed to the **Lorentz force**:
 $$\vec{F}_L = \frac{d\vec{p}}{dt} = q\vec{E} + \frac{q}{c}\vec{v} \wedge \vec{B}$$
@@ -12,7 +11,7 @@ The magnetic field $\vec{B}$ changes only the **direction** of the particle
 		becomes the velocity of the **circular motion** caused by the Lorentz force
 	the component parallel to $\vec{B}$ (i.e. $\vec{v}_\parallel$)
 		is a drift velocity that causes a **helical motion** around the field lines
-![Screenshot 2026-04-07 at 02.18.42.png](../../assets/images/Screenshot 2026-04-07 at 02.18.42.png)
+![Screenshot 2026-04-07 at 02.18.42.png](../../assets/images/Screenshot%202026-04-07%20at%2002.18.42.png)
 ---
 
 ## Synchrotron frequency
@@ -63,7 +62,7 @@ The shape of $F(x)$ with $x = \frac{\nu}{\nu_c}$:
 	peaks near $\nu_c$
 	drops exponentially above $\nu_c$
 
-![Screenshot 2026-04-07 at 02.19.33.png](../../assets/images/Screenshot 2026-04-07 at 02.19.33.png)
+![Screenshot 2026-04-07 at 02.19.33.png](../../assets/images/Screenshot%202026-04-07%20at%2002.19.33.png)
 ---
 
 ## Power-law spectrum (ensemble of particles)
@@ -81,16 +80,16 @@ $$\alpha = \frac{s-1}{2}$$
 The spectrum is defined within $[\nu_{min}, \nu_{max}]$:
 	when $\nu < \nu_{min}$: $f_\nu \propto \nu^{1/3}$
 	when $\nu > \nu_{max}$: $f_\nu \propto e^{-\nu/\nu_{max}}$ (drops quickly)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (6)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Free-free%20continuum.html" class="backlink-item">Free-free continuum</a></li>
+    <li class="backlink-item-wrap"><a href="Radiative%20Processes.html" class="backlink-item">Radiative Processes</a></li>
+    <li class="backlink-item-wrap"><a href="Supernova%20remnant%20spectroscopy.html" class="backlink-item">Supernova remnant spectroscopy</a></li>
+    <li class="backlink-item-wrap"><a href="Synchrotron%20continuum.html" class="backlink-item">Synchrotron continuum</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Free-free%20continuum.html" class="backlink-item">Free-free continuum</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Radiative%20Processes.html" class="backlink-item">Radiative Processes</a></li>
-    <li class="backlink-item-wrap"><a href="./Supernova%20remnant%20spectroscopy.html" class="backlink-item">Supernova remnant spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="./Synchrotron%20continuum.html" class="backlink-item">Synchrotron continuum</a></li>
   </ul>
 </div>
+

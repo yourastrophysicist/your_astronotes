@@ -2,7 +2,6 @@
 layout: "default"
 title: "Giacomin_Oral_Exam_Questions_Complete_Guide"
 ---
-{% raw %}
 # Complete Preparation Guide for Oral Exam Questions
 
 *Course: Fluid and Plasma Dynamics (Physics of Fluids and Plasmas)*  
@@ -560,20 +559,11 @@ $$\vec{\mathcal{E}} = \alpha \langle\vec{B}\rangle - \beta \nabla \times \langle
 5. Describe the astrophysical $\alpha\Omega$ dynamo:
    - $\Omega$-effect: differential rotation shears poloidal field into toroidal field.
    - $\alpha$-effect: helical turbulence twists toroidal field back into poloidal field, closing the regenerative dynamo loop in stars and galaxies.
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (10)</h4>
+  <h4 class="backlinks-title">Linked References (1)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Course_Overview_and_Syllabus.html" class="backlink-item">Course_Overview_and_Syllabus</a></li>
     <li class="backlink-item-wrap"><a href="../../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Part1_Kinetic_Foundations_and_Fluid_Equations.html" class="backlink-item">Part1_Kinetic_Foundations_and_Fluid_Equations</a></li>
-    <li class="backlink-item-wrap"><a href="./Part2_Incompressible_and_Viscous_Flows.html" class="backlink-item">Part2_Incompressible_and_Viscous_Flows</a></li>
-    <li class="backlink-item-wrap"><a href="./Part3_Waves_Instabilities_and_Turbulence.html" class="backlink-item">Part3_Waves_Instabilities_and_Turbulence</a></li>
-    <li class="backlink-item-wrap"><a href="./Part4_Single_Particle_Motion_and_Magnetic_Confinement.html" class="backlink-item">Part4_Single_Particle_Motion_and_Magnetic_Confinement</a></li>
-    <li class="backlink-item-wrap"><a href="./Part5_Plasma_Kinetics_Gyrokinetics_and_Waves.html" class="backlink-item">Part5_Plasma_Kinetics_Gyrokinetics_and_Waves</a></li>
-    <li class="backlink-item-wrap"><a href="./Part6_Two_Fluid_Theory_Transport_and_Microinstabilities.html" class="backlink-item">Part6_Two_Fluid_Theory_Transport_and_Microinstabilities</a></li>
-    <li class="backlink-item-wrap"><a href="./Part7_Magnetohydrodynamics_Equilibrium_and_Waves.html" class="backlink-item">Part7_Magnetohydrodynamics_Equilibrium_and_Waves</a></li>
-    <li class="backlink-item-wrap"><a href="./Part8_Reconnection_Relaxation_and_Dynamo_Theory.html" class="backlink-item">Part8_Reconnection_Relaxation_and_Dynamo_Theory</a></li>
   </ul>
 </div>
+

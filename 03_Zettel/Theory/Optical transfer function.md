@@ -1,12 +1,8 @@
 ---
 layout: "default"
 title: "Optical transfer function"
-type: "zettel"
-created: "2026-08-04"
-moc: ""
 tags: ""
 ---
-{% raw %}
 > *the Fourier transform of the point spread function, describing exactly how well an instrument transmits different spatial frequencies*
 
 ---
@@ -48,4 +44,3 @@ In single-dish astronomy, the OTF is a continuous, smoothly declining function o
 
 * parent moc: [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
 * related zettels: [Point spread function](interf/Point%20spread%20function.html), [Abbe experiment and Fourier optics](interf/Abbe%20experiment%20and%20Fourier%20optics.html), [Aperture synthesis principle](interf/Aperture%20synthesis%20principle.html)
-{% endraw %}

@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "BPT emission line diagnostic diagram"
-name: "BPT emission line diagnostic diagram"
-description: "emission line intensity ratios, photoionization hardness, and the separation of star-forming galaxies from Seyferts and LINERs"
 ---
-{% raw %}
 Baldwin, Phillips, & Terlevich (BPT, 1981) introduced optical emission line flux ratio diagrams to determine the primary ionizing radiation source in galaxies without relying on distance or reddening corrections.
 
 ## the canonical bpt diagnostic
@@ -40,14 +37,14 @@ galaxies separate into distinct branches:
 
 - [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
 - [Pablo_04_Nuclear_activity_in_galaxies](../../02_Literature/Lectures/Observational_Cosmology/Pablo_04_Nuclear_activity_in_galaxies.html)
-- [AGN taxonomy unified model and feedback](./AGN%20taxonomy%20unified%20model%20and%20feedback.html)
-- [Forbidden line diagnostics of electron temperature and density](./Forbidden%20line%20diagnostics%20of%20electron%20temperature%20and%20density.html)
-{% endraw %}
+- [AGN taxonomy unified model and feedback](AGN%20taxonomy%20unified%20model%20and%20feedback.html)
+- [Forbidden line diagnostics of electron temperature and density](Forbidden%20line%20diagnostics%20of%20electron%20temperature%20and%20density.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./AGN%20taxonomy%20unified%20model%20and%20feedback.html" class="backlink-item">AGN taxonomy unified model and feedback</a></li>
+    <li class="backlink-item-wrap"><a href="AGN%20taxonomy%20unified%20model%20and%20feedback.html" class="backlink-item">AGN taxonomy unified model and feedback</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
   </ul>
 </div>
+

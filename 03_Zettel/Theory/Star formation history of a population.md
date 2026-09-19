@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Star formation history of a population"
-name: "Star formation history of a population"
-description: "mathematical parametrizations of star formation rates over time, parametric vs non-parametric models, and multi-wavelength timescale diagnostics"
 ---
-{% raw %}
 the **star formation history (SFH)** of a galaxy or stellar system is the time-dependent rate of star creation:
 $$\psi(t) \equiv \frac{dM_*}{dt} \quad [M_\odot/\text{yr}]$$
 as a function of cosmic time $t$ (or lookback time). in unresolved stellar population synthesis, the integrated spectral energy distribution of a galaxy is modeled as the convolution of its SFH with a library of coeval, single-metallicity **single stellar populations (SSPs)**:
@@ -70,14 +67,14 @@ the cosmic star formation rate density peaked at $z \approx 1.9$ ("cosmic noon",
 
 - [Observational_Astrophysics_MOC](../../04_Atlas/Observational_Astrophysics_MOC.html)
 - [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
-- [Stellar population synthesis](./Stellar%20population%20synthesis.html)
-- [Single stellar population SSP](./Single%20stellar%20population%20SSP.html)
-- [SPS code families](./SPS%20code%20families.html)
-- [Initial mass function](./Initial%20mass%20function.html)
-- [SED fitting basics](./SED%20fitting%20basics.html)
-- [SFR tracers from population synthesis](./SFR%20tracers%20from%20population%20synthesis.html)
-- [Stellar mass estimation in unresolved populations](./Stellar%20mass%20estimation%20in%20unresolved%20populations.html)
-- [Age estimation in unresolved populations](./Age%20estimation%20in%20unresolved%20populations.html)
+- [Stellar population synthesis](Stellar%20population%20synthesis.html)
+- [Single stellar population SSP](Single%20stellar%20population%20SSP.html)
+- [SPS code families](SPS%20code%20families.html)
+- [Initial mass function](Initial%20mass%20function.html)
+- [SED fitting basics](SED%20fitting%20basics.html)
+- [SFR tracers from population synthesis](SFR%20tracers%20from%20population%20synthesis.html)
+- [Stellar mass estimation in unresolved populations](Stellar%20mass%20estimation%20in%20unresolved%20populations.html)
+- [Age estimation in unresolved populations](Age%20estimation%20in%20unresolved%20populations.html)
 
 ---
 
@@ -100,22 +97,22 @@ the cosmic star formation rate density peaked at $z \approx 1.9$ ("cosmic noon",
 
 ![obs_stars-106.png](../../assets/images/obs_stars-106.png)
 *Summary of stellar population synthesis foundations.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (12)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Age%20estimation%20in%20unresolved%20populations.html" class="backlink-item">Age estimation in unresolved populations</a></li>
-    <li class="backlink-item-wrap"><a href="./H-alpha%20SFR%20tracer.html" class="backlink-item">H-alpha SFR tracer</a></li>
-    <li class="backlink-item-wrap"><a href="./IR%20SFR%20tracer.html" class="backlink-item">IR SFR tracer</a></li>
+    <li class="backlink-item-wrap"><a href="Age%20estimation%20in%20unresolved%20populations.html" class="backlink-item">Age estimation in unresolved populations</a></li>
+    <li class="backlink-item-wrap"><a href="H-alpha%20SFR%20tracer.html" class="backlink-item">H-alpha SFR tracer</a></li>
+    <li class="backlink-item-wrap"><a href="IR%20SFR%20tracer.html" class="backlink-item">IR SFR tracer</a></li>
+    <li class="backlink-item-wrap"><a href="Photometric%20redshifts.html" class="backlink-item">Photometric redshifts</a></li>
+    <li class="backlink-item-wrap"><a href="SED%20fitting%20basics.html" class="backlink-item">SED fitting basics</a></li>
+    <li class="backlink-item-wrap"><a href="SFR%20tracers%20from%20population%20synthesis.html" class="backlink-item">SFR tracers from population synthesis</a></li>
+    <li class="backlink-item-wrap"><a href="SPS%20code%20families.html" class="backlink-item">SPS code families</a></li>
+    <li class="backlink-item-wrap"><a href="Single%20stellar%20population%20SSP.html" class="backlink-item">Single stellar population SSP</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20mass%20estimation%20in%20unresolved%20populations.html" class="backlink-item">Stellar mass estimation in unresolved populations</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20population%20synthesis.html" class="backlink-item">Stellar population synthesis</a></li>
+    <li class="backlink-item-wrap"><a href="UV%20SFR%20tracer.html" class="backlink-item">UV SFR tracer</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Photometric%20redshifts.html" class="backlink-item">Photometric redshifts</a></li>
-    <li class="backlink-item-wrap"><a href="./SED%20fitting%20basics.html" class="backlink-item">SED fitting basics</a></li>
-    <li class="backlink-item-wrap"><a href="./SFR%20tracers%20from%20population%20synthesis.html" class="backlink-item">SFR tracers from population synthesis</a></li>
-    <li class="backlink-item-wrap"><a href="./SPS%20code%20families.html" class="backlink-item">SPS code families</a></li>
-    <li class="backlink-item-wrap"><a href="./Single%20stellar%20population%20SSP.html" class="backlink-item">Single stellar population SSP</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20mass%20estimation%20in%20unresolved%20populations.html" class="backlink-item">Stellar mass estimation in unresolved populations</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20population%20synthesis.html" class="backlink-item">Stellar population synthesis</a></li>
-    <li class="backlink-item-wrap"><a href="./UV%20SFR%20tracer.html" class="backlink-item">UV SFR tracer</a></li>
   </ul>
 </div>
+

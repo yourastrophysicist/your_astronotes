@@ -2,7 +2,6 @@
 layout: "default"
 title: "Photoionization rate"
 ---
-{% raw %}
 in a photoionised gas, the rate at which atoms are ionised by absorbing photons is the **photoionisation rate** $\Gamma$. central to nebular and IGM physics.
 
 ## the formula
@@ -59,25 +58,25 @@ the **dimensionless ionisation parameter**. controls the ionisation state of the
 
 ## see also
 
-- [Collisional ionisation rate](./Collisional%20ionisation%20rate.html)
-- [Recombination rate](./Recombination%20rate.html)
-- [Photoionisation balance](./Photoionisation%20balance.html)
-- [Ionisation parameter U](./Ionisation%20parameter%20U.html)
+- [Collisional ionisation rate](Collisional%20ionisation%20rate.html)
+- [Recombination rate](Recombination%20rate.html)
+- [Photoionisation balance](Photoionisation%20balance.html)
+- [Ionisation parameter U](Ionisation%20parameter%20U.html)
 - Strömgren sphere
-- [Photoelectric absorption](./Photoelectric%20absorption.html)
-- [Photoionisation balance](./Photoionisation%20balance.html)
-{% endraw %}
+- [Photoelectric absorption](Photoelectric%20absorption.html)
+- [Photoionisation balance](Photoionisation%20balance.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (8)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Collisional%20ionisation%20rate.html" class="backlink-item">Collisional ionisation rate</a></li>
+    <li class="backlink-item-wrap"><a href="Heating%20rate%20in%20HII%20regions.html" class="backlink-item">Heating rate in HII regions</a></li>
+    <li class="backlink-item-wrap"><a href="Ionisation%20parameter%20U.html" class="backlink-item">Ionisation parameter U</a></li>
+    <li class="backlink-item-wrap"><a href="Photoionisation%20balance.html" class="backlink-item">Photoionisation balance</a></li>
+    <li class="backlink-item-wrap"><a href="Recombination%20rate.html" class="backlink-item">Recombination rate</a></li>
+    <li class="backlink-item-wrap"><a href="Stromgren%20sphere%20derivation.html" class="backlink-item">Stromgren sphere derivation</a></li>
+    <li class="backlink-item-wrap"><a href="Stromgren%20sphere.html" class="backlink-item">Stromgren sphere</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Collisional%20ionisation%20rate.html" class="backlink-item">Collisional ionisation rate</a></li>
-    <li class="backlink-item-wrap"><a href="./Heating%20rate%20in%20HII%20regions.html" class="backlink-item">Heating rate in HII regions</a></li>
-    <li class="backlink-item-wrap"><a href="./Ionisation%20parameter%20U.html" class="backlink-item">Ionisation parameter U</a></li>
-    <li class="backlink-item-wrap"><a href="./Photoionisation%20balance.html" class="backlink-item">Photoionisation balance</a></li>
-    <li class="backlink-item-wrap"><a href="./Recombination%20rate.html" class="backlink-item">Recombination rate</a></li>
-    <li class="backlink-item-wrap"><a href="./Stromgren%20sphere.html" class="backlink-item">Stromgren sphere</a></li>
-    <li class="backlink-item-wrap"><a href="./Stromgren%20sphere%20derivation.html" class="backlink-item">Stromgren sphere derivation</a></li>
   </ul>
 </div>
+

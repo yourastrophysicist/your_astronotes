@@ -2,7 +2,6 @@
 layout: "default"
 title: "Fresnel-Arago laws"
 ---
-{% raw %}
 # Fresnel-Arago laws
 
 three laws governing when polarized waves can or cannot produce interference fringes. **fundamental restriction** on which interferometric setups work and which don't. discovered by Fresnel and Arago around 1817-1819, they predate Maxwell but follow elegantly from the wave description of polarization.
@@ -154,4 +153,3 @@ so Fresnel-Arago, classical optics from 1819, is the classical analogue of the q
 - [Beam splitter physics](interf/Beam%20splitter%20physics.html)
 - [Coherence function and visibility](interf/Coherence%20function%20and%20visibility.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

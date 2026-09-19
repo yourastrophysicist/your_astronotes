@@ -2,7 +2,6 @@
 layout: "default"
 title: "Scintillation and twinkling"
 ---
-{% raw %}
 # Scintillation and twinkling
 
 the **amplitude** fluctuations of starlight caused by atmospheric turbulence — the visible "twinkling" of stars to the naked eye. distinct from phase fluctuations (which cause seeing). for interferometry, scintillation is usually a small effect compared to phase, but it sets a noise floor for high-precision photometry and contributes to fringe-tracking errors.
@@ -91,18 +90,18 @@ planets famously do not twinkle (much). the difference is primary education's in
 
 ## see also
 
-- [Atmospheric turbulence overview](./Atmospheric%20turbulence%20overview.html)
-- [Kolmogorov turbulence](./Kolmogorov%20turbulence.html)
-- [Fried parameter $r_0$](./Fried%20parameter%20%24r_0%24.html)
-- [Adaptive optics](./Adaptive%20optics.html)
+- [Atmospheric turbulence overview](Atmospheric%20turbulence%20overview.html)
+- [Kolmogorov turbulence](Kolmogorov%20turbulence.html)
+- [Fried parameter $r_0$](Fried%20parameter%20%24r_0%24.html)
+- [Adaptive optics](Adaptive%20optics.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../Atmospheric%20turbulence%20overview.html" class="backlink-item">Atmospheric turbulence overview</a></li>
-    <li class="backlink-item-wrap"><a href="./Atmospheric%20turbulence%20overview.html" class="backlink-item">Atmospheric turbulence overview</a></li>
+    <li class="backlink-item-wrap"><a href="Atmospheric%20turbulence%20overview.html" class="backlink-item">Atmospheric turbulence overview</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

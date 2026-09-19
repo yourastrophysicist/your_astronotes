@@ -2,7 +2,6 @@
 layout: "default"
 title: "Forward backward and central differences"
 ---
-{% raw %}
 # Forward, backward, and central differences
 
 three ways to estimate $f'(x)$ from samples of $f$. they differ in which neighbor I use, and in their order of accuracy.
@@ -93,11 +92,11 @@ $O(h^4)$. but four function evaluations and the optimal $h$ shifts to $\sim \eps
 
 ## see also
 
-- [Truncation error and order of accuracy](./Truncation%20error%20and%20order%20of%20accuracy.html)
-- [Roundoff vs truncation balance](./Roundoff%20vs%20truncation%20balance.html)
-- [Second derivatives](./Second%20derivatives.html)
-- [Partial numerical derivatives](./Partial%20numerical%20derivatives.html)
-- [Derivatives of noisy data](./Derivatives%20of%20noisy%20data.html)
+- [Truncation error and order of accuracy](Truncation%20error%20and%20order%20of%20accuracy.html)
+- [Roundoff vs truncation balance](Roundoff%20vs%20truncation%20balance.html)
+- [Second derivatives](Second%20derivatives.html)
+- [Partial numerical derivatives](Partial%20numerical%20derivatives.html)
+- [Derivatives of noisy data](Derivatives%20of%20noisy%20data.html)
 - [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
 
 ---
@@ -106,19 +105,19 @@ $O(h^4)$. but four function evaluations and the optimal $h$ shifts to $\sim \eps
 
 ![mapelli_fig21_p205.png](../../assets/images/mapelli_fig21_p67.png)
 *Finite difference stencil: forward, backward, and central difference error terms.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (9)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Derivatives%20of%20noisy%20data.html" class="backlink-item">Derivatives of noisy data</a></li>
-    <li class="backlink-item-wrap"><a href="./Finite%20difference%20discretization.html" class="backlink-item">Finite difference discretization</a></li>
-    <li class="backlink-item-wrap"><a href="./Initial%20value%20PDEs%20and%20FTCS.html" class="backlink-item">Initial value PDEs and FTCS</a></li>
+    <li class="backlink-item-wrap"><a href="Derivatives%20of%20noisy%20data.html" class="backlink-item">Derivatives of noisy data</a></li>
+    <li class="backlink-item-wrap"><a href="Finite%20difference%20discretization.html" class="backlink-item">Finite difference discretization</a></li>
+    <li class="backlink-item-wrap"><a href="Initial%20value%20PDEs%20and%20FTCS.html" class="backlink-item">Initial value PDEs and FTCS</a></li>
+    <li class="backlink-item-wrap"><a href="Optimal%20step%20size%20for%20derivatives.html" class="backlink-item">Optimal step size for derivatives</a></li>
+    <li class="backlink-item-wrap"><a href="Partial%20numerical%20derivatives.html" class="backlink-item">Partial numerical derivatives</a></li>
+    <li class="backlink-item-wrap"><a href="Roundoff%20vs%20truncation%20balance.html" class="backlink-item">Roundoff vs truncation balance</a></li>
+    <li class="backlink-item-wrap"><a href="Second%20derivatives.html" class="backlink-item">Second derivatives</a></li>
+    <li class="backlink-item-wrap"><a href="Truncation%20error%20and%20order%20of%20accuracy.html" class="backlink-item">Truncation error and order of accuracy</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Optimal%20step%20size%20for%20derivatives.html" class="backlink-item">Optimal step size for derivatives</a></li>
-    <li class="backlink-item-wrap"><a href="./Partial%20numerical%20derivatives.html" class="backlink-item">Partial numerical derivatives</a></li>
-    <li class="backlink-item-wrap"><a href="./Roundoff%20vs%20truncation%20balance.html" class="backlink-item">Roundoff vs truncation balance</a></li>
-    <li class="backlink-item-wrap"><a href="./Second%20derivatives.html" class="backlink-item">Second derivatives</a></li>
-    <li class="backlink-item-wrap"><a href="./Truncation%20error%20and%20order%20of%20accuracy.html" class="backlink-item">Truncation error and order of accuracy</a></li>
   </ul>
 </div>
+

@@ -2,7 +2,6 @@
 layout: "default"
 title: "Sorting algorithms overview"
 ---
-{% raw %}
 # Sorting algorithms overview
 
 a small but unavoidable block. sorting comes up everywhere: building histograms, finding nearest neighbors, ranking, merging catalogs, computing percentiles. and it is the canonical example for "complexity of an algorithm" — every textbook walks through the $O(N^2)$ vs $O(N \log N)$ comparison here.
@@ -128,14 +127,14 @@ arr_sorted_by_b = arr[np.argsort(b)]    # sort arr by the order of b
 
 ## see also
 
-- [Computational complexity and speed](./Computational%20complexity%20and%20speed.html)
+- [Computational complexity and speed](Computational%20complexity%20and%20speed.html)
 - [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Computational%20complexity%20and%20speed.html" class="backlink-item">Computational complexity and speed</a></li>
+    <li class="backlink-item-wrap"><a href="Computational%20complexity%20and%20speed.html" class="backlink-item">Computational complexity and speed</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
   </ul>
 </div>
+

@@ -2,7 +2,6 @@
 layout: "default"
 title: "Fisher information matrix and Cramer-Rao bound"
 ---
-{% raw %}
 # Fisher information matrix and Cramer-Rao bound
 
 The Fisher Information Matrix (FIM) quantifies the amount of information an observable random variable conveys regarding an unknown parameter vector. In cosmology, the FIM is the central mathematical engine for experimental design, forecasting error ellipses of future surveys, and establishing theoretical precision limits.
@@ -46,19 +45,19 @@ $$F_{ij} = \frac{\partial \mu^T}{\partial \theta_i} \Sigma^{-1} \frac{\partial \
 ## See Also
 - [Astro-Statistics_and_Cosmology_MOC](../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html)
 - [06_Fisher_Information_Matrix_Cramer_Rao_Bound_and_Survey_Forecasting](../../02_Literature/Lectures/Astrostatistics/06_Fisher_Information_Matrix_Cramer_Rao_Bound_and_Survey_Forecasting.html)
-- [Marginalized versus conditional parameter errors in Fisher forecasting](./Marginalized%20versus%20conditional%20parameter%20errors%20in%20Fisher%20forecasting.html)
-- [Bernstein-von Mises theorem and Bayesian asymptotics](./Bernstein-von%20Mises%20theorem%20and%20Bayesian%20asymptotics.html)
-{% endraw %}
+- [Marginalized versus conditional parameter errors in Fisher forecasting](Marginalized%20versus%20conditional%20parameter%20errors%20in%20Fisher%20forecasting.html)
+- [Bernstein-von Mises theorem and Bayesian asymptotics](Bernstein-von%20Mises%20theorem%20and%20Bayesian%20asymptotics.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (7)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Bernstein-von%20Mises%20theorem%20and%20Bayesian%20asymptotics.html" class="backlink-item">Bernstein-von Mises theorem and Bayesian asymptotics</a></li>
+    <li class="backlink-item-wrap"><a href="Exact%20CMB%20Wishart%20likelihood%20and%20Gaussian%20high-multipole%20limit.html" class="backlink-item">Exact CMB Wishart likelihood and Gaussian high-multipole limit</a></li>
+    <li class="backlink-item-wrap"><a href="Generalized%20least%20squares%20and%20correlated%20measurement%20errors.html" class="backlink-item">Generalized least squares and correlated measurement errors</a></li>
+    <li class="backlink-item-wrap"><a href="Marginalized%20versus%20conditional%20parameter%20errors%20in%20Fisher%20forecasting.html" class="backlink-item">Marginalized versus conditional parameter errors in Fisher forecasting</a></li>
+    <li class="backlink-item-wrap"><a href="Maximum%20likelihood%20versus%20maximum%20a%20posteriori%20estimation.html" class="backlink-item">Maximum likelihood versus maximum a posteriori estimation</a></li>
+    <li class="backlink-item-wrap"><a href="Transformation%20group%20invariance%20and%20Jeffreys%20prior.html" class="backlink-item">Transformation group invariance and Jeffreys prior</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Bernstein-von%20Mises%20theorem%20and%20Bayesian%20asymptotics.html" class="backlink-item">Bernstein-von Mises theorem and Bayesian asymptotics</a></li>
-    <li class="backlink-item-wrap"><a href="./Exact%20CMB%20Wishart%20likelihood%20and%20Gaussian%20high-multipole%20limit.html" class="backlink-item">Exact CMB Wishart likelihood and Gaussian high-multipole limit</a></li>
-    <li class="backlink-item-wrap"><a href="./Generalized%20least%20squares%20and%20correlated%20measurement%20errors.html" class="backlink-item">Generalized least squares and correlated measurement errors</a></li>
-    <li class="backlink-item-wrap"><a href="./Marginalized%20versus%20conditional%20parameter%20errors%20in%20Fisher%20forecasting.html" class="backlink-item">Marginalized versus conditional parameter errors in Fisher forecasting</a></li>
-    <li class="backlink-item-wrap"><a href="./Maximum%20likelihood%20versus%20maximum%20a%20posteriori%20estimation.html" class="backlink-item">Maximum likelihood versus maximum a posteriori estimation</a></li>
-    <li class="backlink-item-wrap"><a href="./Transformation%20group%20invariance%20and%20Jeffreys%20prior.html" class="backlink-item">Transformation group invariance and Jeffreys prior</a></li>
   </ul>
 </div>
+

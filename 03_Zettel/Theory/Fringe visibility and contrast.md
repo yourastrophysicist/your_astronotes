@@ -2,7 +2,6 @@
 layout: "default"
 title: "Fringe visibility and contrast"
 ---
-{% raw %}
 # Fringe visibility and contrast
 
 the central observable of every interferometer. visibility quantifies *how strong the fringes are* — the contrast between the brightest and darkest stripes. it is the sky brightness distribution's Fourier transform, and from it (with help) we reconstruct images.
@@ -112,4 +111,3 @@ all three set the practical sensitivity floor. modern instruments (GRAVITY, MATI
 - [Spatial coherence](interf/Spatial%20coherence.html)
 - [Stellar diameters and limb darkening](interf/Stellar%20diameters%20and%20limb%20darkening.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

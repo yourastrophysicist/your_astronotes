@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Parker solar wind and transonic critical point"
-name: "Parker solar wind and transonic critical point"
-description: "hydrodynamic escape of stellar coronae, the de Laval nozzle analogy, and the transonic critical radius solution"
 ---
-{% raw %}
 Eugene Parker (1958) demonstrated that a static, isothermal stellar corona leads to non-zero asymptotic pressure at infinity ($p_\infty \sim 10^{-4}\text{ dyn cm}^{-2} \gg p_{\text{ISM}} \sim 10^{-13}\text{ dyn cm}^{-2}$), proving that the solar corona cannot be in hydrostatic equilibrium and must expand continuously as a supersonic wind.
 
 ## mathematical derivation
@@ -41,9 +38,8 @@ the gravitational field acts as a convergent-divergent de Laval nozzle:
 
 - [Fluid_and_Plasma_Dynamics_MOC](../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html)
 - [Part2_Incompressible_and_Viscous_Flows](../../02_Literature/Lectures/Fluid_and_Plasma_Dynamics/Part2_Incompressible_and_Viscous_Flows.html)
-- [Line-driven stellar winds and P-Cygni profiles](./Line-driven%20stellar%20winds%20and%20P-Cygni%20profiles.html)
-- [Hagen-Poiseuille pipe flow and viscous dissipation](./Hagen-Poiseuille%20pipe%20flow%20and%20viscous%20dissipation.html)
-{% endraw %}
+- [Line-driven stellar winds and P-Cygni profiles](Line-driven%20stellar%20winds%20and%20P-Cygni%20profiles.html)
+- [Hagen-Poiseuille pipe flow and viscous dissipation](Hagen-Poiseuille%20pipe%20flow%20and%20viscous%20dissipation.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (1)</h4>
@@ -51,3 +47,4 @@ the gravitational field acts as a convergent-divergent de Laval nozzle:
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
   </ul>
 </div>
+

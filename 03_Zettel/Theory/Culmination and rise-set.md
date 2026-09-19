@@ -2,7 +2,6 @@
 layout: "default"
 title: "Culmination and rise-set"
 ---
-{% raw %}
 two extreme moments in a star's daily path:
 - **upper culmination**: the highest point, when the star crosses the meridian moving south-to-north (or just due south, depending on hemisphere). $h = 0$.
 - **lower culmination** (anti-culmination): the lowest point, $h = 12$ h. for non-circumpolar stars this is below the horizon.
@@ -109,9 +108,9 @@ $\cos h = 0$, $h = \pm 90° = \pm 6$ h. star above horizon for exactly 12 h, ris
 ## see also
 
 - [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Spherical_astronomy_complete](./Spherical_astronomy_complete.html)
-- [Equatorial system](./Equatorial%20system.html)
-- [Alt-azimuth ↔ equatorial transformations](./Alt-azimuth%20%E2%86%94%20equatorial%20transformations.html)
+- [Spherical_astronomy_complete](Spherical_astronomy_complete.html)
+- [Equatorial system](Equatorial%20system.html)
+- [Alt-azimuth ↔ equatorial transformations](Alt-azimuth%20%E2%86%94%20equatorial%20transformations.html)
 
 ---
 
@@ -140,7 +139,6 @@ $\cos h = 0$, $h = \pm 90° = \pm 6$ h. star above horizon for exactly 12 h, ris
 
 ![obs_sph1-40.png](../../assets/images/obs_sph1-40.png)
 *Duration of visibility above the mathematical horizon.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (2)</h4>
@@ -149,3 +147,4 @@ $\cos h = 0$, $h = \pm 90° = \pm 6$ h. star above horizon for exactly 12 h, ris
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

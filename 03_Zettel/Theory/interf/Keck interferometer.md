@@ -2,7 +2,6 @@
 layout: "default"
 title: "Keck interferometer"
 ---
-{% raw %}
 # Keck interferometer
 
 a (now decommissioned) interferometer that combined the two 10m Keck telescopes on Mauna Kea, Hawaii. operated 2003-2012. baselines: 85 m. K and L band imaging and nulling.
@@ -58,12 +57,11 @@ these capabilities now exist at VLTI (but with multiple smaller dishes). the dua
 
 ## see also
 
-- [Components of a modern interferometer](./Components%20of%20a%20modern%20interferometer.html)
-- [VLTI Very Large Telescope Interferometer](./VLTI%20Very%20Large%20Telescope%20Interferometer.html)
-- [Adaptive optics](./Adaptive%20optics.html)
-- [Nulling interferometry](./Nulling%20interferometry.html)
+- [Components of a modern interferometer](Components%20of%20a%20modern%20interferometer.html)
+- [VLTI Very Large Telescope Interferometer](VLTI%20Very%20Large%20Telescope%20Interferometer.html)
+- [Adaptive optics](Adaptive%20optics.html)
+- [Nulling interferometry](Nulling%20interferometry.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (1)</h4>
@@ -71,3 +69,4 @@ these capabilities now exist at VLTI (but with multiple smaller dishes). the dua
     <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

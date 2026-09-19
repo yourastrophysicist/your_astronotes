@@ -2,7 +2,6 @@
 layout: "default"
 title: "Newton's rings"
 ---
-{% raw %}
 # Newton's rings
 
 the most famous example of [Fringes of equal thickness](interf/Fringes%20of%20equal%20thickness.html): concentric circular interference fringes in the air gap between a curved lens and a flat reference. observed by Newton, predicted (correctly!) by Hooke before him, and definitively explained by Young and Fresnel in the early 1800s.
@@ -78,6 +77,5 @@ a soap bubble's iridescent colors are Newton's rings in *white light*: at each t
 - [Fringes of equal thickness](interf/Fringes%20of%20equal%20thickness.html)
 - [Fringes of equal inclination](interf/Fringes%20of%20equal%20inclination.html)
 - [Optical path difference OPD](interf/Optical%20path%20difference%20OPD.html)
-- [Amplitude-division interferometers](./Amplitude-division%20interferometers.html)
+- [Amplitude-division interferometers](Amplitude-division%20interferometers.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

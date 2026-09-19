@@ -2,7 +2,6 @@
 layout: "default"
 title: "Magnesium population vs T"
 ---
-{% raw %}
 Mg has $\chi_{\rm MgI} = 7.65$ eV (modest) and $\chi_{\rm MgII} = 15$ eV. Mg I lines (notably the b-triplet at $\sim 5170$ Å) appear in cool to intermediate stars; Mg II h+k at UV $2800$ Å in hotter ones.
 
 ## Mg I b-triplet
@@ -40,20 +39,20 @@ peak strength as Mg II in stellar populations: $T \sim 8000$ to $10\,000$ K (A0)
 
 ## see also
 
-- [Magnesium and alkali earths](./Magnesium%20and%20alkali%20earths.html)
-- [Boltzmann equation in spectroscopy](./Boltzmann%20equation%20in%20spectroscopy.html)
-- [Saha ionisation equation](./Saha%20ionisation%20equation.html)
-- [Population of excited levels](./Population%20of%20excited%20levels.html)
-- [Why the Sequence OBAFGKM](./Why%20the%20Sequence%20OBAFGKM.html)
-- [Stellar spectra and spectral classification](./Stellar%20spectra%20and%20spectral%20classification.html)
-{% endraw %}
+- [Magnesium and alkali earths](Magnesium%20and%20alkali%20earths.html)
+- [Boltzmann equation in spectroscopy](Boltzmann%20equation%20in%20spectroscopy.html)
+- [Saha ionisation equation](Saha%20ionisation%20equation.html)
+- [Population of excited levels](Population%20of%20excited%20levels.html)
+- [Why the Sequence OBAFGKM](Why%20the%20Sequence%20OBAFGKM.html)
+- [Stellar spectra and spectral classification](Stellar%20spectra%20and%20spectral%20classification.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Magnesium%20and%20alkali%20earths.html" class="backlink-item">Magnesium and alkali earths</a></li>
+    <li class="backlink-item-wrap"><a href="Population%20of%20excited%20levels.html" class="backlink-item">Population of excited levels</a></li>
+    <li class="backlink-item-wrap"><a href="Why%20the%20Sequence%20OBAFGKM.html" class="backlink-item">Why the Sequence OBAFGKM</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Magnesium%20and%20alkali%20earths.html" class="backlink-item">Magnesium and alkali earths</a></li>
-    <li class="backlink-item-wrap"><a href="./Population%20of%20excited%20levels.html" class="backlink-item">Population of excited levels</a></li>
-    <li class="backlink-item-wrap"><a href="./Why%20the%20Sequence%20OBAFGKM.html" class="backlink-item">Why the Sequence OBAFGKM</a></li>
   </ul>
 </div>
+

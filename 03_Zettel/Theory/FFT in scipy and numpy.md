@@ -2,7 +2,6 @@
 layout: "default"
 title: "FFT in scipy and numpy"
 ---
-{% raw %}
 # FFT in scipy and numpy
 
 practical conventions for using FFT in python. the math is unambiguous but the *normalization* and *frequency layout* differ between libraries and conventions; getting them right is half the work.
@@ -155,19 +154,19 @@ DCT and DST are useful for symmetric/antisymmetric data (e.g. boundary value pro
 
 ## see also
 
-- [Discrete Fourier transform](./Discrete%20Fourier%20transform.html)
-- [Fast Fourier transform algorithm](./Fast%20Fourier%20transform%20algorithm.html)
-- [Physical interpretation of the FFT](./Physical%20interpretation%20of%20the%20FFT.html)
-- [Power spectrum estimation](./Power%20spectrum%20estimation.html)
-- [Fourier series math summary](./Fourier%20series%20math%20summary.html)
+- [Discrete Fourier transform](Discrete%20Fourier%20transform.html)
+- [Fast Fourier transform algorithm](Fast%20Fourier%20transform%20algorithm.html)
+- [Physical interpretation of the FFT](Physical%20interpretation%20of%20the%20FFT.html)
+- [Power spectrum estimation](Power%20spectrum%20estimation.html)
+- [Fourier series math summary](Fourier%20series%20math%20summary.html)
 - [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Physical%20interpretation%20of%20the%20FFT.html" class="backlink-item">Physical interpretation of the FFT</a></li>
+    <li class="backlink-item-wrap"><a href="Power%20spectrum%20estimation.html" class="backlink-item">Power spectrum estimation</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Physical%20interpretation%20of%20the%20FFT.html" class="backlink-item">Physical interpretation of the FFT</a></li>
-    <li class="backlink-item-wrap"><a href="./Power%20spectrum%20estimation.html" class="backlink-item">Power spectrum estimation</a></li>
   </ul>
 </div>
+

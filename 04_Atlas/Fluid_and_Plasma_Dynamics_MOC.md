@@ -2,7 +2,6 @@
 layout: "default"
 title: "Fluid_and_Plasma_Dynamics_MOC"
 ---
-{% raw %}
 # Fluid and Plasma Dynamics — Map of Content
 
 > **Master Year 2 Semester 1** | **A.Y. 2026/2027**  
@@ -169,11 +168,11 @@ The official oral exam bank consists of 30 questions. The comprehensive, blackbo
 
 - [Course_Overview_and_Syllabus](../02_Literature/Lectures/Fluid_and_Plasma_Dynamics/Course_Overview_and_Syllabus.html)
 - Master Year 2 Semester 1 Timetable
-- [Computational_Astrophysics_MOC](./Computational_Astrophysics_MOC.html)
-- [Astrophysics_of_the_Interstellar_Medium_MOC](./Astrophysics_of_the_Interstellar_Medium_MOC.html)
-- [General_Relativity_MOC](./General_Relativity_MOC.html)
-- [Stellar_Astrophysics_MOC](./Stellar_Astrophysics_MOC.html)
-- [Cosmology_of_the_Early_Universe_MOC](./Cosmology_of_the_Early_Universe_MOC.html)
+- [Computational_Astrophysics_MOC](Computational_Astrophysics_MOC.html)
+- [Astrophysics_of_the_Interstellar_Medium_MOC](Astrophysics_of_the_Interstellar_Medium_MOC.html)
+- [General_Relativity_MOC](General_Relativity_MOC.html)
+- [Stellar_Astrophysics_MOC](Stellar_Astrophysics_MOC.html)
+- [Cosmology_of_the_Early_Universe_MOC](Cosmology_of_the_Early_Universe_MOC.html)
 
 
 ---
@@ -219,55 +218,3 @@ The official oral exam bank consists of 30 questions. The comprehensive, blackbo
 - **Grad-Shafranov Equation**: $\Delta^* \psi \equiv R \frac{\partial}{\partial R}\left(\frac{1}{R}\frac{\partial \psi}{\partial R}\right) + \frac{\partial^2 \psi}{\partial Z^2} = -\mu_0 R^2 p'(\psi) - F F'(\psi)$
 - **Landau Damping Rate**: $\gamma_L = \frac{\pi}{2} \frac{\omega_p^3}{k^2} \left.\frac{\partial f_0}{\partial v}\right\rvert_{v = \omega/k}$
 - **Sweet-Parker Inflow Rate**: $\frac{v_{\mathrm{in}}}{v_A} = S^{-1/2} = \left(\frac{\eta}{\mu_0 L v_A}\right)^{1/2}$
-{% endraw %}
-
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (45)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./04_Atlas.html" class="backlink-item">04_Atlas</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Acoustic%20sound%20wave%20propagation%20in%20compressible%20gas.html" class="backlink-item">Acoustic sound wave propagation in compressible gas</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Ambipolar%20diffusion%20in%20unmagnetized%20and%20magnetized%20plasmas.html" class="backlink-item">Ambipolar diffusion in unmagnetized and magnetized plasmas</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/BBGKY%20hierarchy%20and%20Boltzmann%20collision%20operator.html" class="backlink-item">BBGKY hierarchy and Boltzmann collision operator</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Boltzmann%20H-theorem%20and%20Maxwellian%20distribution.html" class="backlink-item">Boltzmann H-theorem and Maxwellian distribution</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Braginskii%20collisional%20transport%20and%20Spitzer%20resistivity.html" class="backlink-item">Braginskii collisional transport and Spitzer resistivity</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Chapman-Enskog%20expansion%20and%20Navier-Stokes%20derivation.html" class="backlink-item">Chapman-Enskog expansion and Navier-Stokes derivation</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Cold%20plasma%20dielectric%20tensor%20and%20Appleton-Hartree%20dispersion.html" class="backlink-item">Cold plasma dielectric tensor and Appleton-Hartree dispersion</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Collisionless%20Landau%20damping%20and%20wave-particle%20resonance.html" class="backlink-item">Collisionless Landau damping and wave-particle resonance</a></li>
-    <li class="backlink-item-wrap"><a href="./Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Fluid_and_Plasma_Dynamics/Course_Overview_and_Syllabus.html" class="backlink-item">Course_Overview_and_Syllabus</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Cowling%20anti-dynamo%20theorem%20and%20turbulent%20alpha-Omega%20dynamo.html" class="backlink-item">Cowling anti-dynamo theorem and turbulent alpha-Omega dynamo</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Cylindrical%20Z-pinch%20equilibrium%20and%20Bennett%20relation.html" class="backlink-item">Cylindrical Z-pinch equilibrium and Bennett relation</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Drift-reduced%20Braginskii%20equations%20and%20vorticity%20derivation.html" class="backlink-item">Drift-reduced Braginskii equations and vorticity derivation</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Fluid_and_Plasma_Dynamics/Giacomin_Oral_Exam_Questions_Complete_Guide.html" class="backlink-item">Giacomin_Oral_Exam_Questions_Complete_Guide</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Grad-Shafranov%20equation%20and%20axisymmetric%20tokamak%20equilibria.html" class="backlink-item">Grad-Shafranov equation and axisymmetric tokamak equilibria</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Guiding%20center%20drifts%20and%20electric%20polarization%20drift.html" class="backlink-item">Guiding center drifts and electric polarization drift</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Gyrokinetic%20ordering%20and%205D%20phase%20space%20reduction.html" class="backlink-item">Gyrokinetic ordering and 5D phase space reduction</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Hagen-Poiseuille%20pipe%20flow%20and%20viscous%20dissipation.html" class="backlink-item">Hagen-Poiseuille pipe flow and viscous dissipation</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Helmholtz%20vortex%20theorems%20and%20baroclinic%20torque.html" class="backlink-item">Helmholtz vortex theorems and baroclinic torque</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Ideal%20MHD%20equations%20and%20Alfven%20flux%20freezing%20theorem.html" class="backlink-item">Ideal MHD equations and Alfven flux freezing theorem</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Jeans%20gravitational%20instability%20and%20Jeans%20mass.html" class="backlink-item">Jeans gravitational instability and Jeans mass</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Kolmogorov%20K41%20turbulence%20cascade%20and%20five-thirds%20law.html" class="backlink-item">Kolmogorov K41 turbulence cascade and five-thirds law</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Liouville%20theorem%20and%20phase%20space%20incompressibility.html" class="backlink-item">Liouville theorem and phase space incompressibility</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Magnetic%20mirror%20effect%20and%20adiabatic%20invariants.html" class="backlink-item">Magnetic mirror effect and adiabatic invariants</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Parker%20solar%20wind%20and%20transonic%20critical%20point.html" class="backlink-item">Parker solar wind and transonic critical point</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Fluid_and_Plasma_Dynamics/Part1_Kinetic_Foundations_and_Fluid_Equations.html" class="backlink-item">Part1_Kinetic_Foundations_and_Fluid_Equations</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Fluid_and_Plasma_Dynamics/Part2_Incompressible_and_Viscous_Flows.html" class="backlink-item">Part2_Incompressible_and_Viscous_Flows</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Fluid_and_Plasma_Dynamics/Part3_Waves_Instabilities_and_Turbulence.html" class="backlink-item">Part3_Waves_Instabilities_and_Turbulence</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Fluid_and_Plasma_Dynamics/Part4_Single_Particle_Motion_and_Magnetic_Confinement.html" class="backlink-item">Part4_Single_Particle_Motion_and_Magnetic_Confinement</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Fluid_and_Plasma_Dynamics/Part5_Plasma_Kinetics_Gyrokinetics_and_Waves.html" class="backlink-item">Part5_Plasma_Kinetics_Gyrokinetics_and_Waves</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Fluid_and_Plasma_Dynamics/Part6_Two_Fluid_Theory_Transport_and_Microinstabilities.html" class="backlink-item">Part6_Two_Fluid_Theory_Transport_and_Microinstabilities</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Fluid_and_Plasma_Dynamics/Part7_Magnetohydrodynamics_Equilibrium_and_Waves.html" class="backlink-item">Part7_Magnetohydrodynamics_Equilibrium_and_Waves</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Fluid_and_Plasma_Dynamics/Part8_Reconnection_Relaxation_and_Dynamo_Theory.html" class="backlink-item">Part8_Reconnection_Relaxation_and_Dynamo_Theory</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Prandtl%20boundary%20layer%20theory%20and%20Blasius%20scaling.html" class="backlink-item">Prandtl boundary layer theory and Blasius scaling</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Rayleigh-Benard%20convection%20and%20Boussinesq%20approximation.html" class="backlink-item">Rayleigh-Benard convection and Boussinesq approximation</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Rayleigh-Taylor%20and%20Kelvin-Helmholtz%20hydrodynamic%20instabilities.html" class="backlink-item">Rayleigh-Taylor and Kelvin-Helmholtz hydrodynamic instabilities</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Resistive%20ballooning%20mode%20and%20ion%20temperature%20gradient%20instability.html" class="backlink-item">Resistive ballooning mode and ion temperature gradient instability</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Reversed%20Field%20Pinch%20physics%20and%20RFX-mod%20experiment.html" class="backlink-item">Reversed Field Pinch physics and RFX-mod experiment</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Reynolds-averaged%20Navier-Stokes%20and%20turbulent%20Reynolds%20stress.html" class="backlink-item">Reynolds-averaged Navier-Stokes and turbulent Reynolds stress</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Shear%20Alfven%20and%20magnetosonic%20wave%20modes%20in%20MHD.html" class="backlink-item">Shear Alfven and magnetosonic wave modes in MHD</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Sweet-Parker%20magnetic%20reconnection%20and%20Lundquist%20number.html" class="backlink-item">Sweet-Parker magnetic reconnection and Lundquist number</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Tokamak%20magnetic%20topology%20and%20neoclassical%20banana%20orbits.html" class="backlink-item">Tokamak magnetic topology and neoclassical banana orbits</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Vorticity%20dynamics%20and%20Kelvin%20circulation%20theorem.html" class="backlink-item">Vorticity dynamics and Kelvin circulation theorem</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Woltjer%20helicity%20conservation%20and%20Taylor%20plasma%20relaxation.html" class="backlink-item">Woltjer helicity conservation and Taylor plasma relaxation</a></li>
-  </ul>
-</div>

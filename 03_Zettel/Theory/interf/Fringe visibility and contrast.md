@@ -2,7 +2,6 @@
 layout: "default"
 title: "Fringe visibility and contrast"
 ---
-{% raw %}
 # Fringe visibility and contrast
 
 the central observable of every interferometer. visibility quantifies *how strong the fringes are* — the contrast between the brightest and darkest stripes. it is the sky brightness distribution's Fourier transform, and from it (with help) we reconstruct images.
@@ -29,7 +28,7 @@ $$\mathcal V = \lvert \mathcal V\rvert \, e^{i\phi_V}$$
 - $\lvert \mathcal V\rvert$: the contrast (the magnitude in the formula above)
 - $\phi_V$: the *phase*, which encodes where the fringe pattern is positioned
 
-an interferometer measures both, in principle. in practice, atmospheric turbulence corrupts the phase, leaving only $\lvert \mathcal V\rvert$ measurable directly. the phase must be recovered with [phase closure](./Phase%20closure.html) or similar techniques.
+an interferometer measures both, in principle. in practice, atmospheric turbulence corrupts the phase, leaving only $\lvert \mathcal V\rvert$ measurable directly. the phase must be recovered with [phase closure](Phase%20closure.html) or similar techniques.
 
 ## the link to coherence
 
@@ -104,30 +103,30 @@ all three set the practical sensitivity floor. modern instruments (GRAVITY, MATI
 
 ## see also
 
-- [Coherence function and visibility](./Coherence%20function%20and%20visibility.html)
-- [Van Cittert-Zernike theorem](./Van%20Cittert-Zernike%20theorem.html)
-- [Spatial coherence](./Spatial%20coherence.html)
-- [Stellar diameters and limb darkening](./Stellar%20diameters%20and%20limb%20darkening.html)
+- [Coherence function and visibility](Coherence%20function%20and%20visibility.html)
+- [Van Cittert-Zernike theorem](Van%20Cittert-Zernike%20theorem.html)
+- [Spatial coherence](Spatial%20coherence.html)
+- [Stellar diameters and limb darkening](Stellar%20diameters%20and%20limb%20darkening.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (15)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Coherence%20function%20and%20visibility.html" class="backlink-item">Coherence function and visibility</a></li>
     <li class="backlink-item-wrap"><a href="../Coherence%20function%20and%20visibility.html" class="backlink-item">Coherence function and visibility</a></li>
-    <li class="backlink-item-wrap"><a href="./Coherent%20vs%20incoherent%20imaging.html" class="backlink-item">Coherent vs incoherent imaging</a></li>
     <li class="backlink-item-wrap"><a href="../Coherent%20vs%20incoherent%20imaging.html" class="backlink-item">Coherent vs incoherent imaging</a></li>
     <li class="backlink-item-wrap"><a href="../Spatial%20coherence.html" class="backlink-item">Spatial coherence</a></li>
-    <li class="backlink-item-wrap"><a href="./Spatial%20coherence.html" class="backlink-item">Spatial coherence</a></li>
     <li class="backlink-item-wrap"><a href="../Stellar%20diameters%20and%20limb%20darkening.html" class="backlink-item">Stellar diameters and limb darkening</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20diameters%20and%20limb%20darkening.html" class="backlink-item">Stellar diameters and limb darkening</a></li>
-    <li class="backlink-item-wrap"><a href="./Superposition%20and%20interference.html" class="backlink-item">Superposition and interference</a></li>
     <li class="backlink-item-wrap"><a href="../Superposition%20and%20interference.html" class="backlink-item">Superposition and interference</a></li>
-    <li class="backlink-item-wrap"><a href="./Van%20Cittert-Zernike%20theorem.html" class="backlink-item">Van Cittert-Zernike theorem</a></li>
     <li class="backlink-item-wrap"><a href="../Van%20Cittert-Zernike%20theorem.html" class="backlink-item">Van Cittert-Zernike theorem</a></li>
     <li class="backlink-item-wrap"><a href="../Young%20experiment%20as%20a%20stellar%20interferometer.html" class="backlink-item">Young experiment as a stellar interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="./Young%20experiment%20as%20a%20stellar%20interferometer.html" class="backlink-item">Young experiment as a stellar interferometer</a></li>
+    <li class="backlink-item-wrap"><a href="Coherence%20function%20and%20visibility.html" class="backlink-item">Coherence function and visibility</a></li>
+    <li class="backlink-item-wrap"><a href="Coherent%20vs%20incoherent%20imaging.html" class="backlink-item">Coherent vs incoherent imaging</a></li>
+    <li class="backlink-item-wrap"><a href="Spatial%20coherence.html" class="backlink-item">Spatial coherence</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20diameters%20and%20limb%20darkening.html" class="backlink-item">Stellar diameters and limb darkening</a></li>
+    <li class="backlink-item-wrap"><a href="Superposition%20and%20interference.html" class="backlink-item">Superposition and interference</a></li>
+    <li class="backlink-item-wrap"><a href="Van%20Cittert-Zernike%20theorem.html" class="backlink-item">Van Cittert-Zernike theorem</a></li>
+    <li class="backlink-item-wrap"><a href="Young%20experiment%20as%20a%20stellar%20interferometer.html" class="backlink-item">Young experiment as a stellar interferometer</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

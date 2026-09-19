@@ -2,7 +2,6 @@
 layout: "default"
 title: "Planetary nebula spectroscopy"
 ---
-{% raw %}
 a **planetary nebula (PN)** is the ejected envelope of an intermediate-mass star ($1$ to $8\,M_\odot$) in its post-AGB phase, ionised by the very hot ($T \sim 10^5$ K) central white-dwarf precursor. PN spectra are dominated by very bright forbidden + recombination lines on a faint continuum, and are diagnostically similar to but harder than HII regions.
 
 ## the spectral signature
@@ -62,24 +61,24 @@ so PN spectra carry the chemical legacy of intermediate-mass star evolution and 
 
 ## see also
 
-- [H II region spectroscopy](./H%20II%20region%20spectroscopy.html)
-- [Forbidden lines](./Forbidden%20lines.html)
-- [OIII forbidden lines](./OIII%20forbidden%20lines.html)
+- [H II region spectroscopy](H%20II%20region%20spectroscopy.html)
+- [Forbidden lines](Forbidden%20lines.html)
+- [OIII forbidden lines](OIII%20forbidden%20lines.html)
 - Strömgren sphere
-- [Helium energy levels](./Helium%20energy%20levels.html)
-- [Stellar evolution timescales](./Stellar%20evolution%20timescales.html)
-- [Stellar populations I II III](./Stellar%20populations%20I%20II%20III.html)
-- [Recombination continuum](./Recombination%20continuum.html)
-- [Photoionisation balance](./Photoionisation%20balance.html)
-{% endraw %}
+- [Helium energy levels](Helium%20energy%20levels.html)
+- [Stellar evolution timescales](Stellar%20evolution%20timescales.html)
+- [Stellar populations I II III](Stellar%20populations%20I%20II%20III.html)
+- [Recombination continuum](Recombination%20continuum.html)
+- [Photoionisation balance](Photoionisation%20balance.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Galaxy%20spectroscopy%20by%20type.html" class="backlink-item">Galaxy spectroscopy by type</a></li>
+    <li class="backlink-item-wrap"><a href="Ionisation%20stratification.html" class="backlink-item">Ionisation stratification</a></li>
+    <li class="backlink-item-wrap"><a href="OIII%20forbidden%20lines.html" class="backlink-item">OIII forbidden lines</a></li>
+    <li class="backlink-item-wrap"><a href="Spectroscopic%20ne%20diagnostics.html" class="backlink-item">Spectroscopic ne diagnostics</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Galaxy%20spectroscopy%20by%20type.html" class="backlink-item">Galaxy spectroscopy by type</a></li>
-    <li class="backlink-item-wrap"><a href="./Ionisation%20stratification.html" class="backlink-item">Ionisation stratification</a></li>
-    <li class="backlink-item-wrap"><a href="./OIII%20forbidden%20lines.html" class="backlink-item">OIII forbidden lines</a></li>
-    <li class="backlink-item-wrap"><a href="./Spectroscopic%20ne%20diagnostics.html" class="backlink-item">Spectroscopic ne diagnostics</a></li>
   </ul>
 </div>
+

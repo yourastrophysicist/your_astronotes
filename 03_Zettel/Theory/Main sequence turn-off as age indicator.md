@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Main sequence turn-off as age indicator"
-name: "Main sequence turn-off as age indicator"
-description: "why the TO is the cleanest age clock for resolved clusters, and how isochrones encode the age dependence"
 ---
-{% raw %}
 the **main-sequence turn-off** is the bluest, brightest point on the cluster's main sequence in the CMD, the locus where stars have just exhausted central hydrogen and start the brief journey across the subgiant branch toward the giant branch. it is the single most precise *resolved* age indicator known.
 
 the underlying logic is the MS lifetime relation
@@ -26,21 +23,21 @@ practical fitting strategies fall into three families.
 
 (2) **horizontal methods** (chaboyer 1995): the colour difference $\delta(B-V)$ between the TO and the base of the RGB at fixed magnitude is age-sensitive but reddening-insensitive (since reddening shifts both TO and RGB by the same colour amount). this is the workhorse for relative ages between GCs.
 
-(3) **isochrone-fitting**: a full chi-square fit of model isochrones to the entire CMD, simultaneously solving for $(t, [\mathrm{Fe}/\mathrm{H}], (m-M)_0, E(B-V))$, with priors on $[\mathrm{Fe}/\mathrm{H}]$ from spectroscopy and on $(m-M)_0$ from gaia parallax or RR Lyrae (see [Isochrones and isochrone fitting](./Isochrones%20and%20isochrone%20fitting.html)).
+(3) **isochrone-fitting**: a full chi-square fit of model isochrones to the entire CMD, simultaneously solving for $(t, [\mathrm{Fe}/\mathrm{H}], (m-M)_0, E(B-V))$, with priors on $[\mathrm{Fe}/\mathrm{H}]$ from spectroscopy and on $(m-M)_0$ from gaia parallax or RR Lyrae (see [Isochrones and isochrone fitting](Isochrones%20and%20isochrone%20fitting.html)).
 
 precision and pitfalls. with HST or JWST photometry the TO can be located to $\sim 0.05$ mag, which translates to a relative-age precision of $\sim 5\%$ between GCs, or $\sim 0.5$ Gyr at $10$ Gyr (marin-franch et al. 2009). absolute ages are limited by *systematic* uncertainties: the assumed He abundance $Y$ (helium-rich populations have brighter, redder TOs at fixed age, mimicking older ages by $\sim 1$ Gyr per $\Delta Y = 0.04$); the CNO and alpha enhancement mixture, which affects opacities and the TO morphology; convective core overshooting, which extends MS lifetimes and lowers $M_\mathrm{TO}$ at fixed age; and the reddening law, which moves the TO colour. realistic absolute ages for GCs are accurate to $\sim 1$ Gyr, with the oldest milky way GCs (NGC 6397, M92, M30) clustering at $12.5 \pm 0.5$ Gyr.
 
-a critical degeneracy: ages and metallicities are partially anti-correlated in TO photometry, because metal-rich isochrones at younger ages have similar TO colours and magnitudes to metal-poor isochrones at older ages (the [Age-metallicity degeneracy](./Age-metallicity%20degeneracy.html)). resolved CMDs break this degeneracy via the *RGB slope* and *HB morphology*, which respond differently to age and to $[\mathrm{Fe}/\mathrm{H}]$, but only if the photometry is deep and clean.
+a critical degeneracy: ages and metallicities are partially anti-correlated in TO photometry, because metal-rich isochrones at younger ages have similar TO colours and magnitudes to metal-poor isochrones at older ages (the [Age-metallicity degeneracy](Age-metallicity%20degeneracy.html)). resolved CMDs break this degeneracy via the *RGB slope* and *HB morphology*, which respond differently to age and to $[\mathrm{Fe}/\mathrm{H}]$, but only if the photometry is deep and clean.
 
 the TO is also the foundation of the cluster age from main sequence turn-off derivation that places GC ages within a Gyr of the WMAP/Planck $\Lambda$CDM age of the universe, providing a cosmologically meaningful lower limit $t_0 > 12$ Gyr from stellar physics alone.
 
 ## see also
 - [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
-- [Main sequence on the CMD](./Main%20sequence%20on%20the%20CMD.html)
-- [Subgiant branch SGB](./Subgiant%20branch%20SGB.html)
-- [Isochrones and isochrone fitting](./Isochrones%20and%20isochrone%20fitting.html)
+- [Main sequence on the CMD](Main%20sequence%20on%20the%20CMD.html)
+- [Subgiant branch SGB](Subgiant%20branch%20SGB.html)
+- [Isochrones and isochrone fitting](Isochrones%20and%20isochrone%20fitting.html)
 - Cluster age from main sequence turn-off
-- [Age-metallicity degeneracy](./Age-metallicity%20degeneracy.html)
+- [Age-metallicity degeneracy](Age-metallicity%20degeneracy.html)
 
 ---
 
@@ -136,16 +133,16 @@ The following slides from Prof. Antonino Milone's lecture series provide the dir
 
 ![Lecture02_p5-05.png](../../assets/images/Lecture02_p5-05.png)
 *Figure P02-29: Lecture02_p5-05.png — Observational data, CMD morphology, and diagnostics from Lecture 02 — Reading the CMD II: Isochrones & Age Clocks.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (6)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Isochrones%20and%20isochrone%20fitting.html" class="backlink-item">Isochrones and isochrone fitting</a></li>
-    <li class="backlink-item-wrap"><a href="./M-dwarf%20discontinuity%20and%20convective%20merging%20instability.html" class="backlink-item">M-dwarf discontinuity and convective merging instability</a></li>
-    <li class="backlink-item-wrap"><a href="./Main%20sequence%20on%20the%20CMD.html" class="backlink-item">Main sequence on the CMD</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20evolutionary%20phases%20on%20the%20CMD.html" class="backlink-item">Stellar evolutionary phases on the CMD</a></li>
+    <li class="backlink-item-wrap"><a href="Isochrones%20and%20isochrone%20fitting.html" class="backlink-item">Isochrones and isochrone fitting</a></li>
+    <li class="backlink-item-wrap"><a href="M-dwarf%20discontinuity%20and%20convective%20merging%20instability.html" class="backlink-item">M-dwarf discontinuity and convective merging instability</a></li>
+    <li class="backlink-item-wrap"><a href="Main%20sequence%20on%20the%20CMD.html" class="backlink-item">Main sequence on the CMD</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20evolutionary%20phases%20on%20the%20CMD.html" class="backlink-item">Stellar evolutionary phases on the CMD</a></li>
+    <li class="backlink-item-wrap"><a href="Subgiant%20branch%20SGB.html" class="backlink-item">Subgiant branch SGB</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Subgiant%20branch%20SGB.html" class="backlink-item">Subgiant branch SGB</a></li>
   </ul>
 </div>
+

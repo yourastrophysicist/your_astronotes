@@ -2,7 +2,6 @@
 layout: "default"
 title: "Compton Telescope"
 ---
-{% raw %}
 In the **MeV energy range** ($\sim 1$–$30~\text{MeV}$), neither focusing X-ray telescopes nor pair-production detectors work well
 	grazing incidence becomes impossible (critical angles $< 0.01°$)
 	pair production requires $E > 2m_ec^2 \approx 1.022~\text{MeV}$ but doesn't dominate until $\sim 4$–$100~\text{MeV}$
@@ -15,7 +14,7 @@ The **Compton telescope** turns this liability into a detection mechanism
 
 ## Design
 
-![Screenshot 2026-04-07 at 01.28.14.png](../../assets/images/Screenshot 2026-04-07 at 01.28.14.png)
+![Screenshot 2026-04-07 at 01.28.14.png](../../assets/images/Screenshot%202026-04-07%20at%2001.28.14.png)
 <font color="#bfbfbf">Schematic of a Compton telescope. A gamma-ray Compton scatters in the upper (scatterer) plane and is absorbed in the lower (absorber) plane. The energy deposits and time-of-flight constrain the source direction to a cone.</font>
 
 A Compton telescope has **two planes of detectors** separated by a large distance $d$:
@@ -103,14 +102,14 @@ The Compton telescope fills the **MeV gap** between:
 	X-ray focusing telescopes (Chandra, XMM-Newton): $0.1$–$15~\text{keV}$
 	pair production telescopes (Fermi LAT): $>100~\text{MeV}$
 
-The physics is directly the [Compton scattering formula](./Compton%20scattering%20and%20pair%20production.html)
-	the [Coded Mask](./Coded%20Mask.html) can be combined with Compton telescopes to reduce background further
-{% endraw %}
+The physics is directly the [Compton scattering formula](Compton%20scattering%20and%20pair%20production.html)
+	the [Coded Mask](Coded%20Mask.html) can be combined with Compton telescopes to reduce background further
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./A%20Brief%20History%20of%20X-ray%20and%20Gamma-ray%20Missions.html" class="backlink-item">A Brief History of X-ray and Gamma-ray Missions</a></li>
+    <li class="backlink-item-wrap"><a href="A%20Brief%20History%20of%20X-ray%20and%20Gamma-ray%20Missions.html" class="backlink-item">A Brief History of X-ray and Gamma-ray Missions</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
   </ul>
 </div>
+

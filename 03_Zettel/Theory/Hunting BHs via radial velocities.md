@@ -1,11 +1,8 @@
 ---
 layout: "default"
 title: "Hunting BHs via radial velocities"
-name: "Hunting BHs via radial velocities"
-description: "single-line spectroscopic binaries with massive dark companions, NGC 3201 BH (Giesers 2018) and M22 candidate"
 ---
-{% raw %}
-a stellar-mass [black hole](./Black%20holes%20in%20globular%20clusters.html) in a binary, if it is not currently accreting, is invisible to electromagnetic surveys. the only way to find it is dynamically: look for a luminous star whose radial velocity oscillates as it orbits an unseen massive companion. these are called **single-line spectroscopic binaries** (SB1, only one star contributes spectral lines).
+a stellar-mass [black hole](Black%20holes%20in%20globular%20clusters.html) in a binary, if it is not currently accreting, is invisible to electromagnetic surveys. the only way to find it is dynamically: look for a luminous star whose radial velocity oscillates as it orbits an unseen massive companion. these are called **single-line spectroscopic binaries** (SB1, only one star contributes spectral lines).
 
 **the method**
 
@@ -20,7 +17,7 @@ $$f(M) = \frac{(M_2 \sin i)^3}{(M_1 + M_2)^2} = \frac{P\, K_1^3}{2\pi G} (1 - e^
 
 where $M_1$ is the visible star and $M_2$ the unseen companion.
 
-5. with an estimate of $M_1$ from the [CMD](./HR%20diagram.html) position and assumed inclination $i$, derive a lower limit on $M_2$. a value $M_2 \gg 1.4\,M_\odot$ rules out a WD or NS and points to a BH.
+5. with an estimate of $M_1$ from the [CMD](HR%20diagram.html) position and assumed inclination $i$, derive a lower limit on $M_2$. a value $M_2 \gg 1.4\,M_\odot$ rules out a WD or NS and points to a BH.
 
 **NGC 3201 (Giesers et al. 2018)**
 
@@ -37,30 +34,30 @@ an earlier candidate in M22 was based on radio continuum detection of two compac
 **limitations and biases**
 
 - the method is sensitive only to **edge-on** systems; at low inclination $\sin i$, the inferred $M_2 \sin i$ underestimates the true mass.
-- the method is sensitive only to systems with a luminous companion; pure BH-BH binaries need [gravitational waves](./BHs%20from%20gravitational%20waves.html) to find.
+- the method is sensitive only to systems with a luminous companion; pure BH-BH binaries need [gravitational waves](BHs%20from%20gravitational%20waves.html) to find.
 - short-period (< days) systems are easiest; year-long orbits require long observational baselines.
 - "dark" companions could in principle be very heavy white dwarfs or neutron stars near maximum mass; only a clear $> 3\,M_\odot$ minimum allows BH identification.
 
 **outlook**
 
-the next decade will multiply BH detections in clusters: ESO MUSE deep surveys, the upcoming ELT high-resolution spectrographs, Gaia astrometric binaries (already producing field BH candidates like Gaia BH1 and BH2), and combined RV+astrometry will yield population statistics. the predicted BH population per cluster is a key constraint on the [LIGO-Virgo](./BHs%20from%20gravitational%20waves.html) dynamical-merger channel.
+the next decade will multiply BH detections in clusters: ESO MUSE deep surveys, the upcoming ELT high-resolution spectrographs, Gaia astrometric binaries (already producing field BH candidates like Gaia BH1 and BH2), and combined RV+astrometry will yield population statistics. the predicted BH population per cluster is a key constraint on the [LIGO-Virgo](BHs%20from%20gravitational%20waves.html) dynamical-merger channel.
 
 ## see also
 - [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
-- [Black holes in globular clusters](./Black%20holes%20in%20globular%20clusters.html)
-- [Intermediate-mass BHs in GCs](./Intermediate-mass%20BHs%20in%20GCs.html)
-- [BHs from gravitational waves](./BHs%20from%20gravitational%20waves.html)
+- [Black holes in globular clusters](Black%20holes%20in%20globular%20clusters.html)
+- [Intermediate-mass BHs in GCs](Intermediate-mass%20BHs%20in%20GCs.html)
+- [BHs from gravitational waves](BHs%20from%20gravitational%20waves.html)
 - [Binary star orbits](interf/Binary%20star%20orbits.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (6)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./BHs%20from%20gravitational%20waves.html" class="backlink-item">BHs from gravitational waves</a></li>
-    <li class="backlink-item-wrap"><a href="./Black%20holes%20in%20globular%20clusters.html" class="backlink-item">Black holes in globular clusters</a></li>
-    <li class="backlink-item-wrap"><a href="./Cluster%20binary%20fraction%20methods.html" class="backlink-item">Cluster binary fraction methods</a></li>
-    <li class="backlink-item-wrap"><a href="./Intermediate-mass%20BHs%20in%20GCs.html" class="backlink-item">Intermediate-mass BHs in GCs</a></li>
+    <li class="backlink-item-wrap"><a href="BHs%20from%20gravitational%20waves.html" class="backlink-item">BHs from gravitational waves</a></li>
+    <li class="backlink-item-wrap"><a href="Black%20holes%20in%20globular%20clusters.html" class="backlink-item">Black holes in globular clusters</a></li>
+    <li class="backlink-item-wrap"><a href="Cluster%20binary%20fraction%20methods.html" class="backlink-item">Cluster binary fraction methods</a></li>
+    <li class="backlink-item-wrap"><a href="Intermediate-mass%20BHs%20in%20GCs.html" class="backlink-item">Intermediate-mass BHs in GCs</a></li>
+    <li class="backlink-item-wrap"><a href="X-ray%20sources%20in%20globular%20clusters.html" class="backlink-item">X-ray sources in globular clusters</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./X-ray%20sources%20in%20globular%20clusters.html" class="backlink-item">X-ray sources in globular clusters</a></li>
   </ul>
 </div>
+

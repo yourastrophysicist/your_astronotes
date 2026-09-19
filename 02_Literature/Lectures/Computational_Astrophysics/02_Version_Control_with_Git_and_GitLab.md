@@ -2,7 +2,6 @@
 layout: "default"
 title: "02_Version_Control_with_Git_and_GitLab"
 ---
-{% raw %}
 # Lesson 02 – Version Control with Git and GitLab
 
 *Computational Astrophysics, Prof. Tiziano Zingales*  
@@ -302,15 +301,12 @@ git checkout -t origin/feature/mcmc
 - [00_Course_Overview_and_Computational_Laboratories](./00_Course_Overview_and_Computational_Laboratories.html)
 - [01_Linux_Containers_and_Docker_Architecture](./01_Linux_Containers_and_Docker_Architecture.html)
 - [03_Modular_Python_Software_Architecture_and_Packaging](./03_Modular_Python_Software_Architecture_and_Packaging.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
+  <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./00_Course_Overview_and_Computational_Laboratories.html" class="backlink-item">00_Course_Overview_and_Computational_Laboratories</a></li>
-    <li class="backlink-item-wrap"><a href="./01_Linux_Containers_and_Docker_Architecture.html" class="backlink-item">01_Linux_Containers_and_Docker_Architecture</a></li>
-    <li class="backlink-item-wrap"><a href="./03_Modular_Python_Software_Architecture_and_Packaging.html" class="backlink-item">03_Modular_Python_Software_Architecture_and_Packaging</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Computational/Distributed%20version%20control%20DAG%20and%20GitLab%20workflows.html" class="backlink-item">Distributed version control DAG and GitLab workflows</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

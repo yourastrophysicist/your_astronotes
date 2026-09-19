@@ -2,7 +2,6 @@
 layout: "default"
 title: "Newtonian limit of GR"
 ---
-{% raw %}
 in the **slow-motion, weak-field** limit, GR reduces to **Newtonian gravity**. the metric becomes $g_{\mu\nu} \approx \eta_{\mu\nu}$ + small perturbation, and the geodesic equation reproduces Newton's $\ddot{\vec x} = -\nabla \Phi$.
 
 ## the limits
@@ -69,33 +68,30 @@ systematic post-Newtonian expansion handles binary inspirals to $\sim 4$PN curre
 
 ## see also
 
-- [Linearized metric perturbation](./Linearized%20metric%20perturbation.html)
-- [Trace-reversed perturbation](./Trace-reversed%20perturbation.html)
-- [Lorenz gauge](./Lorenz%20gauge.html)
-- [Linearized Christoffel and Riemann](./Linearized%20Christoffel%20and%20Riemann.html)
+- [Linearized metric perturbation](Linearized%20metric%20perturbation.html)
+- [Trace-reversed perturbation](Trace-reversed%20perturbation.html)
+- [Lorenz gauge](Lorenz%20gauge.html)
+- [Linearized Christoffel and Riemann](Linearized%20Christoffel%20and%20Riemann.html)
 - Q9 - weak-field Christoffel Gamma_i_00
 - Q10 - weak-field Ricci scalar
-- [Schwarzschild metric](./Schwarzschild%20metric.html)
-- [Perihelion precession](./Perihelion%20precession.html)
+- [Schwarzschild metric](Schwarzschild%20metric.html)
+- [Perihelion precession](Perihelion%20precession.html)
 - [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
 - [Ch 8 - Gravitational Waves](../../02_Literature/Book/Baumann%20GR/Ch%208%20-%20Gravitational%20Waves.html)
-- [Newtonian Friedmann derivation](./Newtonian%20Friedmann%20derivation.html)
-{% endraw %}
+- [Newtonian Friedmann derivation](Newtonian%20Friedmann%20derivation.html)
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (12)</h4>
+  <h4 class="backlinks-title">Linked References (9)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Book/Baumann%20GR/Ch%201%20-%20Gravity%20is%20Geometry.html" class="backlink-item">Ch 1 - Gravity is Geometry</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Book/Baumann%20GR/Ch%203%20-%20A%20First%20Look%20at%20Geodesics.html" class="backlink-item">Ch 3 - A First Look at Geodesics</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Book/Baumann%20GR/Ch%208%20-%20Gravitational%20Waves.html" class="backlink-item">Ch 8 - Gravitational Waves</a></li>
-    <li class="backlink-item-wrap"><a href="./Einstein%20equations.html" class="backlink-item">Einstein equations</a></li>
+    <li class="backlink-item-wrap"><a href="Einstein%20equations.html" class="backlink-item">Einstein equations</a></li>
+    <li class="backlink-item-wrap"><a href="Geodesic%20deviation.html" class="backlink-item">Geodesic deviation</a></li>
+    <li class="backlink-item-wrap"><a href="Linearized%20Christoffel%20and%20Riemann.html" class="backlink-item">Linearized Christoffel and Riemann</a></li>
+    <li class="backlink-item-wrap"><a href="Linearized%20metric%20perturbation.html" class="backlink-item">Linearized metric perturbation</a></li>
+    <li class="backlink-item-wrap"><a href="Locally%20inertial%20frame.html" class="backlink-item">Locally inertial frame</a></li>
+    <li class="backlink-item-wrap"><a href="Lorenz%20gauge.html" class="backlink-item">Lorenz gauge</a></li>
+    <li class="backlink-item-wrap"><a href="Stress-energy%20tensor.html" class="backlink-item">Stress-energy tensor</a></li>
+    <li class="backlink-item-wrap"><a href="Trace-reversed%20Einstein%20equations.html" class="backlink-item">Trace-reversed Einstein equations</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Geodesic%20deviation.html" class="backlink-item">Geodesic deviation</a></li>
-    <li class="backlink-item-wrap"><a href="./Linearized%20Christoffel%20and%20Riemann.html" class="backlink-item">Linearized Christoffel and Riemann</a></li>
-    <li class="backlink-item-wrap"><a href="./Linearized%20metric%20perturbation.html" class="backlink-item">Linearized metric perturbation</a></li>
-    <li class="backlink-item-wrap"><a href="./Locally%20inertial%20frame.html" class="backlink-item">Locally inertial frame</a></li>
-    <li class="backlink-item-wrap"><a href="./Lorenz%20gauge.html" class="backlink-item">Lorenz gauge</a></li>
-    <li class="backlink-item-wrap"><a href="./Stress-energy%20tensor.html" class="backlink-item">Stress-energy tensor</a></li>
-    <li class="backlink-item-wrap"><a href="./Trace-reversed%20Einstein%20equations.html" class="backlink-item">Trace-reversed Einstein equations</a></li>
   </ul>
 </div>
+

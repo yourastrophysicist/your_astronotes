@@ -2,7 +2,6 @@
 layout: "default"
 title: "Specific intensity and flux density"
 ---
-{% raw %}
 # Specific intensity and flux density
 
 BookAI starts the radio side by slowing down the language of radiation. before any antenna or correlator, I need to know what quantity the sky actually has.
@@ -88,4 +87,3 @@ source: local study diagram generated from $S_\nu=\int I_\nu P\,d\Omega$.
 - [Beam power pattern of a radio telescope](interf/Beam%20power%20pattern%20of%20a%20radio%20telescope.html)
 - [Van Cittert-Zernike theorem](interf/Van%20Cittert-Zernike%20theorem.html)
 - [Interferometry equation sheet](interf/Interferometry%20equation%20sheet.html)
-{% endraw %}

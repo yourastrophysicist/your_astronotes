@@ -2,7 +2,6 @@
 layout: "default"
 title: "Cosmological masers"
 ---
-{% raw %}
 # Cosmological masers
 
 VLBI imaging of *water masers* in nearby galaxies — narrow, very-bright emission lines from $H_2O$ molecules excited by stellar/AGN radiation. their high brightness temperature ($T_b \sim 10^{14}$ K) makes them ideal VLBI targets, and their presence in galactic disks gives us *geometric* distance measurements.
@@ -90,4 +89,3 @@ these will provide independent $H_0$ measurements at $\sim 1\%$ precision by 203
 - [Major radio interferometers](interf/Major%20radio%20interferometers.html)
 - [AGN and supermassive black holes](interf/AGN%20and%20supermassive%20black%20holes.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

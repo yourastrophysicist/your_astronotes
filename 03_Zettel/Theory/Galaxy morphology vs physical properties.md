@@ -1,192 +1,169 @@
 ---
 layout: "default"
 title: "Galaxy morphology vs physical properties"
+tags: ""
 ---
-{% raw %}
-while Edwin Hubble's classification was defined purely on photographic appearance (morphology), extensive quantitative sky surveys (notably the Sloan Digital Sky Survey, SDSS) have proven that a galaxy's morphological type correlates tightly with its underlying **fundamental physical properties**: color, stellar population age, cold gas content, star formation rate, kinematics, and internal dynamics.
+# Galaxy Morphology versus Physical Properties
 
-![galaxies-17.png](../../assets/images/galaxies-17.png)
-
----
-
-## the bimodal color distribution: Red Sequence vs Blue Cloud
-
-when hundreds of thousands of galaxies are plotted on a Color-Magnitude Diagram (e.g. optical color $u - r$ or $g - r$ versus absolute magnitude $M_r$), the galaxy population splits cleanly into two distinct bimodalities:
-
-![galaxies-18.png](../../assets/images/galaxies-18.png)
-
-1. **the Red Sequence (Sequenza Rossa)**:
-   - narrow, tightly bounded horizontal band of red galaxies ($u - r \gtrsim 2.2$).
-   - consists almost exclusively of **early-type galaxies (Ellipticals and S0s)**.
-   - **physical state**: "quenched" / passive galaxies; cold gas exhausted or expelled by feedback; negligible star formation; light dominated by old ($> 8-10$ Gyr), metal-rich K and M giants.
-   - exhibit negligible internal color gradients.
-2. **the Blue Cloud (Nube Blu)**:
-   - broad, diffuse distribution of blue galaxies ($u - r \lesssim 1.8$).
-   - consists predominantly of **late-type galaxies (Spirals and Irregulars)**.
-   - **physical state**: active star formation; rich in cold molecular and atomic gas; light dominated by young, massive, blue O and B stars.
-   - exhibit strong negative color gradients (bluer in the outer disk where star formation is active, redder in the old central bulge).
-3. **the Green Valley (Valle Verde)**:
-   - the underpopulated transition region between the Blue Cloud and Red Sequence.
-   - populated by galaxies in the process of **quenching**—shutting down star formation due to gas exhaustion, AGN feedback (supermassive black hole jets), or environmental ram-pressure stripping in clusters.
-
-![galaxies-19.png](../../assets/images/galaxies-19.png)
+Visual galaxy morphology along the Hubble sequence correlates tightly with nearly every fundamental physical, dynamical, and chemical property of galaxies. Rather than being an arbitrary visual taxonomy, the morphological stage parameter $T$ (de Vaucouleurs 1959) traces an underlying continuous physical continuum governed by the angular momentum distribution of the dark matter halo, the cold gas fraction, the star formation efficiency, and the merger history of the system.
 
 ---
 
-## dynamics: dispersion-supported vs rotation-supported systems
+## 1. The Numerical Morphological Stage Index ($T$)
 
-the internal kinematics of galaxies reflect two fundamentally different mechanisms of gravitational support:
+To enable quantitative statistical correlations, Gérard de Vaucouleurs (1959) assigned integer values to morphological stages along the revised sequence, termed the **$T$-type** -
 
-![galaxies-20.png](../../assets/images/galaxies-20.png)
-
-### 1. Elliptical Galaxies: Pressure / Dispersion Support
-in elliptical galaxies, the inward pull of gravity is balanced by the **random, chaotic motions of stars**:
-- parameterized by the central **stellar velocity dispersion** $\sigma$ (typically $\sigma \sim 100 - 350$ km/s).
-- ordered rotational velocity $V$ is small compared to random dispersion:
-  $$\boxed{\, \frac{V}{\sigma} < 1 \,}$$
-- the 3D shape of giant ellipticals is not flattened by rotation, but by anisotropic velocity dispersion tensors ($\sigma_x \neq \sigma_y \neq \sigma_z$), producing triaxial ellipsoidal figures.
-- **scaling relation: the Faber-Jackson Relation (1976)**:
-  $$\boxed{\, L \propto \sigma^4 \,}$$
-  (extended to the two-dimensional **Fundamental Plane**: $\log R_e = a \log \sigma + b \mu_e + c$, expressing the Virial Theorem for self-gravitating stellar systems).
-
-![galaxies-21.png](../../assets/images/galaxies-21.png)
-
----
-
-### 2. Spiral Galaxies: Rotational Support
-in spiral galaxies, stars and gas orbit in an organized, thin disk:
-- inward gravitational force is balanced by centrifugal acceleration from rapid **ordered rotation**:
-  $$\frac{V^2(R)}{R} = \frac{G M(R)}{R^2}$$
-- ordered rotation velocity ($V_{\text{rot}} \approx 150 - 300$ km/s) vastly exceeds the small random velocity dispersion of disk stars ($\sigma_z \sim 15 - 30$ km/s):
-  $$\boxed{\, \frac{V_{\text{rot}}}{\sigma} \gg 1 \quad (\sim 10) \,}$$
-
-![galaxies-22.png](../../assets/images/galaxies-22.png)
-
-![galaxies-23.png](../../assets/images/galaxies-23.png)
-
-![galaxies-24.png](../../assets/images/galaxies-24.png)
-
-- **scaling relation: the Tully-Fisher Relation (1977)**:
-  for spiral galaxies, total luminosity $L$ correlates tightly with maximum circular rotation speed $V_{\text{max}}$ (measured from 21 cm HI line profile width $W_{20}$):
-  $$\boxed{\, L \propto V_{\text{max}}^4 \,}$$
-  in magnitudes: $M = -10 \log_{10} V_{\text{max}} + \text{const}$. this provides a powerful secondary distance indicator out to $> 100$ Mpc.
+| Galaxy Morphology | Hubble Type | De Vaucouleurs $T$-Type |
+|---|---|---|
+| Compact Elliptical / cE | cE | $-6$ |
+| Giant Elliptical | E | $-5$ |
+| Early Lenticular | S0$^-$ | $-3$ |
+| Intermediate Lenticular | S0$^0$ | $-2$ |
+| Late Lenticular | S0$^+$ | $-1$ |
+| Early Spiral | S0/a | $0$ |
+| Spiral | Sa | $+1$ |
+| Spiral | Sab | $+2$ |
+| Spiral | Sb | $+3$ |
+| Spiral | Sbc | $+4$ |
+| Spiral | Sc | $+5$ |
+| Spiral | Scd | $+6$ |
+| Spiral | Sd | $+7$ |
+| Very Late Spiral | Sdm | $+8$ |
+| Magellanic Spiral | Sm | $+9$ |
+| Irregular | Im | $+10$ |
 
 ---
 
-## summary of physical trends along the Hubble sequence
+## 2. Systematic Scaling Trends with Morphological Stage $T$
 
-![galaxies-25.png](../../assets/images/galaxies-25.png)
+Empirical surveys (Roberts and Haynes 1994, Strateva et al. 2001, Blanton and Moustakas 2009) establish tight scaling relations between $T$-type and physical observables -
 
-moving along the sequence from **Ellipticals (E0) $\to$ Lenticulars (S0) $\to$ Early Spirals (Sa) $\to$ Late Spirals (Sc) $\to$ Irregulars (Irr)**:
-1. **Bulge-to-disk ratio ($B/T$)**: decreases monotonically from $1.0$ (pure spheroid) to $0$ (pure disk).
-2. **Cold gas fraction ($M_{\text{gas}} / M_*$)**: increases from $< 1\%$ in ellipticals to $> 50\%$ in late-type dwarfs.
-3. **Specific Star Formation Rate ($	ext{sSFR} \equiv \text{SFR}/M_*$)**: increases by over two orders of magnitude.
-4. **Mean stellar age**: decreases from $> 10$ Gyr to $< 2-3$ Gyr.
-5. **Kinematic support**: transitions from pressure support ($V/\sigma < 1$) to rotational support ($V/\sigma \gg 1$).
+### 1. Integrated Optical Colors and Mean Stellar Age
+Optical colors become monotonically bluer with increasing $T$ -
+- Early-type galaxies ($T \le -2$) exhibit red colors - $(B - V) pprox 0.90 \pm 0.05$ and $(u - r) pprox 2.5 \pm 0.15$.
+- Late-type galaxies ($T \ge 5$) exhibit blue colors - $(B - V) pprox 0.45 \pm 0.10$ and $(u - r) pprox 1.4 \pm 0.20$.
+This color shift reflects the mean age of the stellar population, which drops from $	au_{
+m age} > 10$ Gyr in ellipticals down to $	au_{
+m age} \sim 1 - 3$ Gyr in late-type spirals.
+
+### 2. Neutral Gas Mass Fraction
+The ratio of neutral hydrogen mass to optical luminosity $M_{
+m HI} / L_B$ increases by more than two orders of magnitude along the sequence -
+- Ellipticals ($T = -5$) - $M_{
+m HI} / L_B \lesssim 0.005 \, M_\odot / L_\odot$.
+- Sa spirals ($T = 1$) - $M_{
+m HI} / L_B pprox 0.10 \, M_\odot / L_\odot$.
+- Sc spirals ($T = 5$) - $M_{
+m HI} / L_B pprox 0.35 \, M_\odot / L_\odot$.
+- Sm/Im irregulars ($T = 9 - 10$) - $M_{
+m HI} / L_B pprox 1.0 - 5.0 \, M_\odot / L_\odot$.
+
+### 3. Specific Star Formation Rate (sSFR)
+The current star formation rate per unit stellar mass ($	ext{sSFR} \equiv 	ext{SFR} / M_*$) scales directly with gas fraction -
+- Ellipticals and S0s - $	ext{sSFR} < 10^{-12} 	ext{ yr}^{-1}$ (quiescent).
+- Late spirals and irregulars - $	ext{sSFR} pprox 10^{-10} - 10^{-9} 	ext{ yr}^{-1}$ (doubling stellar mass in a fraction of a Hubble time).
+
+### 4. Sersic Index ($n$) and Concentration Index ($C$)
+The light profile of a galaxy reflects its internal dynamical structure -
+- Concentration index $C \equiv r_{90} / r_{50}$ (ratio of radii enclosing 90% and 50% of Petrosian flux) drops from $C pprox 3.0 - 3.5$ for $R^{1/4}$ de Vaucouleurs ellipticals down to $C pprox 2.0 - 2.3$ for exponential disks.
+- Strateva et al. (2001) established that $C = 2.6$ provides a sharp, objective dividing boundary between bulge-dominated ($C > 2.6$) and disk-dominated ($C < 2.6$) systems.
+
+### 5. Dynamical Support Ratio ($V / \sigma$)
+The ratio of ordered circular rotation velocity $V$ to random velocity dispersion $\sigma$ parameterizes kinematic support -
+- Giant ellipticals - $V / \sigma \lesssim 0.3$ (anisotropic pressure-supported spheroids).
+- Fast-rotator low-mass ellipticals - $V / \sigma \sim 0.5 - 1.0$.
+- Spiral disks - $V / \sigma pprox 5 - 20$ (dynamically cold, rotationally supported thin disks).
 
 ---
 
-## see also
+## 3. Observational Graph Literacy and ASCII Blueprints
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Galaxies in the local universe](./Galaxies%20in%20the%20local%20universe.html)
-- [Hubble morphological sequence](./Hubble%20morphological%20sequence.html)
-- [Dark matter on galactic scales](./Dark%20matter%20on%20galactic%20scales.html)
-- [Spectral energy distributions](./Spectral%20energy%20distributions.html)
+### Diagram 1 - Physical Parameters versus De Vaucouleurs Stage T
+```text
+  (B - V) Color [mag]                   Neutral Gas Fraction M_HI / L_B [M_sun/L_sun]
+  1.0 +-----------------------+         2.0 +-----------------------+
+      | \                         |             |                        /  |
+  0.8 |  \                        |         1.0 |                       /   |
+      |   \                       |             |                      /    |
+  0.6 |    \                      |         0.5 |                     /     |
+      |     \                     |             |                    /      |
+  0.4 |      \                    |         0.1 |          .--------'       |
+      |       \__________         |             | --------'                 |
+  0.2 +-----------------------+         0.0 +-----------------------+
+      -5    0    +5   +10                       -5    0    +5   +10
+          T-Stage                                   T-Stage
+
+  Concentration Index C = r90/r50       Kinematic Ratio V / sigma
+  3.5 +-----------------------+          20 +-----------------------+
+      | \                         |             |                        /  |
+  3.0 |  \                        |          15 |                       /   |
+  2.6 |---\-------------------| Strateva    10 |                      /    |
+  2.3 |    \                      |           5 |            .-------'      |
+  2.0 |     \__________           |             |  .--------'               |
+      |                           |           0 +-----------------------+
+      +-----------------------+                 -5    0    +5   +10
+      -5    0    +5   +10                           T-Stage
+          T-Stage
+```
 
 ---
 
-## astrophysics of galaxies figures and slides (Prof. Alessandro Pizzella)
+## 4. Oral Exam Blackboard Presentation Script
 
-![strateva2001_concentration.png](../../assets/images/strateva2001_concentration.png)
-*Concentration index C = r_90 / r_50 separating early vs late types (Strateva et al. 2001).*
+When asked by Prof. Pizzella - *"How do physical properties correlate with galaxy morphology along the Hubble sequence?"*
 
-![gal_morph-08.png](../../assets/images/gal_morph-08.png)
-*Correlation between morphology and physical properties: color, gas content, star formation rate, stellar kinematics.*
+1. **Introduce the de Vaucouleurs $T$-stage index** -
+   - Write on the board - $T = -5$ (E), $0$ (S0/a), $+5$ (Sc), $+10$ (Irr).
+   - Explain - *"The visual classification translates into a continuous numerical variable that correlates systematically with baryonic mass, gas content, star formation, and kinematic support."*
 
-![gal_morph-09.png](../../assets/images/gal_morph-09.png)
-*Early-type galaxies: pressure-supported, hot stellar systems, low angular momentum.*
+2. **Sketch the 4 characteristic scaling plots** -
+   - Draw $(B-V)$ vs $T$, showing monotonic bluing from $0.9$ to $0.4$.
+   - Draw $M_{
+m HI}/L_B$ vs $T$, showing the exponential rise in cold gas fraction.
+   - Draw concentration index $C = r_{90}/r_{50}$ vs $T$, drawing the Strateva divide at $C = 2.6$.
+   - Draw $V/\sigma$ vs $T$, demonstrating the transition from pressure support ($V/\sigma < 0.5$) to rotational support ($V/\sigma \sim 15$).
 
-![gal_morph-10.png](../../assets/images/gal_morph-10.png)
-*Late-type galaxies: rotationally supported, cold stellar and gas disks, high angular momentum.*
+3. **Conclude with the physical driver** -
+   - State clearly - *"These correlations reflect the fundamental cosmic evolution of galaxies - early types assembled their stars rapidly in high-density environments at high redshift and quenched, while late types maintained cold gas accretion and steady disk star formation over the age of the Universe."*
 
 ---
 
-## lecture slides and reference figures (Prof. Alessandro Pizzella)
+## 5. Primary Course References
 
-![gal_morph-17.png](../../assets/images/gal_morph-17.png)
+- **Prof. Alessandro Pizzella's Lecture Notes** -
+  - `Astrophysics_of_Galaxies.tex` (Part I - Galaxy Morphology vs Physical Properties, pages 10-11).
+  - `Lecture1_MorphClasification.pdf` (Morphological trends and parameter correlations, pages 20-38).
+  - `gal_morph-17..30` (Roberts & Haynes diagrams and parameter distributions).
+- **Seminal Literature** -
+  - Roberts, M. S., and Haynes, M. P. (1994, ARA&A, 32, 115) - *Physical Parameters along the Hubble Sequence*.
+  - Strateva, I., et al. (2001, AJ, 122, 1861) - *Color Separation of Galaxy Types in the Sloan Digital Sky Survey*.
+  - Blanton, M. R., and Moustakas, J. (2009, ARA&A, 47, 159) - *Physical Properties and Environments of Nearby Galaxies*.
+- **Standard Textbooks** -
+  - Mo, H., van den Bosch, F., and White, S. (2010), *Galaxy Formation and Evolution*, Cambridge University Press, Chapter 2 - Observational Facts (pages 59-64).
+  - Binney, J., and Merrifield, M. (1998), *Galactic Astronomy*, Princeton University Press, Chapter 4 - Physical Characteristics along the Hubble Sequence (pages 170-180).
 
-![gal_morph-18.png](../../assets/images/gal_morph-18.png)
+---
 
-![gal_morph-19.png](../../assets/images/gal_morph-19.png)
+## 6. Related Knowledge Base Notes
 
-![gal_morph-20.png](../../assets/images/gal_morph-20.png)
-
-![gal_morph-21.png](../../assets/images/gal_morph-21.png)
-
-![gal_morph-22.png](../../assets/images/gal_morph-22.png)
-
-![gal_morph-23.png](../../assets/images/gal_morph-23.png)
-
-![gal_morph-24.png](../../assets/images/gal_morph-24.png)
-
-![gal_morph-25.png](../../assets/images/gal_morph-25.png)
-
-![gal_morph-26.png](../../assets/images/gal_morph-26.png)
-
-![gal_morph-27.png](../../assets/images/gal_morph-27.png)
-
-![gal_morph-28.png](../../assets/images/gal_morph-28.png)
-
-![gal_morph-29.png](../../assets/images/gal_morph-29.png)
-
-![gal_morph-30.png](../../assets/images/gal_morph-30.png)
-
-![gal_disk-19.png](../../assets/images/gal_disk-19.png)
-
-![gal_disk-20.png](../../assets/images/gal_disk-20.png)
-
-![gal_disk-21.png](../../assets/images/gal_disk-21.png)
-
-![gal_disk-22.png](../../assets/images/gal_disk-22.png)
-
-![gal_disk-23.png](../../assets/images/gal_disk-23.png)
-
-![gal_disk-24.png](../../assets/images/gal_disk-24.png)
-
-![gal_disk-25.png](../../assets/images/gal_disk-25.png)
-
-![gal_disk-26.png](../../assets/images/gal_disk-26.png)
-
-![gal_disk-27.png](../../assets/images/gal_disk-27.png)
-
-![gal_disk-28.png](../../assets/images/gal_disk-28.png)
-
-![gal_disk-29.png](../../assets/images/gal_disk-29.png)
-
-![gal_disk-30.png](../../assets/images/gal_disk-30.png)
-
-![gal_disk-31.png](../../assets/images/gal_disk-31.png)
-
-![gal_disk-32.png](../../assets/images/gal_disk-32.png)
-
-![gal_disk-33.png](../../assets/images/gal_disk-33.png)
-
-![gal_disk-34.png](../../assets/images/gal_disk-34.png)
-{% endraw %}
+- [Hubble morphological sequence](Hubble%20morphological%20sequence.html) - The classical Hubble tuning fork taxonomic classification.
+- [CAS galaxy classification](CAS%20galaxy%20classification.html) - Quantitative non-parametric classification (Concentration, Asymmetry, Smoothness).
+- [Color bimodality of galaxies](Color%20bimodality%20of%20galaxies.html) - The fundamental optical color-magnitude divide.
+- [Schmidt-Kennicutt law](Schmidt-Kennicutt%20law.html) - Star formation rate surface density relations.
+- [Sersic profile](Sersic%20profile.html) - The master mathematical law describing radial light concentration.
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (10)</h4>
+  <h4 class="backlinks-title">Linked References (9)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Dark%20matter%20on%20galactic%20scales.html" class="backlink-item">Dark matter on galactic scales</a></li>
+    <li class="backlink-item-wrap"><a href="Galaxies%20in%20the%20local%20universe.html" class="backlink-item">Galaxies in the local universe</a></li>
+    <li class="backlink-item-wrap"><a href="Galaxy%20clusters%20and%20overview%20of%20evolution.html" class="backlink-item">Galaxy clusters and overview of evolution</a></li>
+    <li class="backlink-item-wrap"><a href="Hubble%20morphological%20sequence.html" class="backlink-item">Hubble morphological sequence</a></li>
+    <li class="backlink-item-wrap"><a href="Non-parametric%20galaxy%20morphology%20metrics.html" class="backlink-item">Non-parametric galaxy morphology metrics</a></li>
+    <li class="backlink-item-wrap"><a href="Spectral%20energy%20distributions.html" class="backlink-item">Spectral energy distributions</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./CAS%20galaxy%20classification.html" class="backlink-item">CAS galaxy classification</a></li>
-    <li class="backlink-item-wrap"><a href="./Dark%20matter%20on%20galactic%20scales.html" class="backlink-item">Dark matter on galactic scales</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Galaxies%20in%20the%20local%20universe.html" class="backlink-item">Galaxies in the local universe</a></li>
-    <li class="backlink-item-wrap"><a href="./Galaxy%20clusters%20and%20overview%20of%20evolution.html" class="backlink-item">Galaxy clusters and overview of evolution</a></li>
-    <li class="backlink-item-wrap"><a href="./Hubble%20morphological%20sequence.html" class="backlink-item">Hubble morphological sequence</a></li>
-    <li class="backlink-item-wrap"><a href="./Non-parametric%20galaxy%20morphology%20metrics.html" class="backlink-item">Non-parametric galaxy morphology metrics</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Spectral%20energy%20distributions.html" class="backlink-item">Spectral energy distributions</a></li>
   </ul>
 </div>
+

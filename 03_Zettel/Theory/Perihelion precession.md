@@ -2,7 +2,6 @@
 layout: "default"
 title: "Perihelion precession"
 ---
-{% raw %}
 a planet orbiting a non-rotating mass in Schwarzschild traces an **almost-elliptical** orbit, but the ellipse slowly **precesses** (rotates) over many orbits. for Mercury orbiting the Sun, the GR contribution is exactly $43''$ per century, the famous historical confirmation of GR.
 
 ## the orbit equation
@@ -58,22 +57,21 @@ other tests:
 
 ## see also
 
-- [Schwarzschild metric](./Schwarzschild%20metric.html)
-- [Schwarzschild effective potential](./Schwarzschild%20effective%20potential.html)
-- [Effective potential approach](./Effective%20potential%20approach.html)
-- [Photon trajectories and impact parameter](./Photon%20trajectories%20and%20impact%20parameter.html)
-- [Light deflection](./Light%20deflection.html)
+- [Schwarzschild metric](Schwarzschild%20metric.html)
+- [Schwarzschild effective potential](Schwarzschild%20effective%20potential.html)
+- [Effective potential approach](Effective%20potential%20approach.html)
+- [Photon trajectories and impact parameter](Photon%20trajectories%20and%20impact%20parameter.html)
+- [Light deflection](Light%20deflection.html)
 - [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
 - [Ch 6 - Black Holes](../../02_Literature/Book/Baumann%20GR/Ch%206%20-%20Black%20Holes.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
+  <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Book/Baumann%20GR/Ch%203%20-%20A%20First%20Look%20at%20Geodesics.html" class="backlink-item">Ch 3 - A First Look at Geodesics</a></li>
+    <li class="backlink-item-wrap"><a href="Light%20deflection.html" class="backlink-item">Light deflection</a></li>
+    <li class="backlink-item-wrap"><a href="Newtonian%20limit%20of%20GR.html" class="backlink-item">Newtonian limit of GR</a></li>
+    <li class="backlink-item-wrap"><a href="Schwarzschild%20metric.html" class="backlink-item">Schwarzschild metric</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Light%20deflection.html" class="backlink-item">Light deflection</a></li>
-    <li class="backlink-item-wrap"><a href="./Newtonian%20limit%20of%20GR.html" class="backlink-item">Newtonian limit of GR</a></li>
-    <li class="backlink-item-wrap"><a href="./Schwarzschild%20metric.html" class="backlink-item">Schwarzschild metric</a></li>
   </ul>
 </div>
+

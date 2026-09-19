@@ -2,7 +2,6 @@
 layout: "default"
 title: "Temporal coherence"
 ---
-{% raw %}
 # Temporal coherence
 
 the *correlation between the wave at the same point but at different times*. temporal coherence is set by the *spectral bandwidth* of the source: narrower bandwidth → longer coherence time → more fringes visible at a given path difference.
@@ -104,24 +103,24 @@ a Michelson interferometer with a moving mirror sweeping through delays $\tau$. 
 
 ## see also
 
-- [Coherent vs incoherent imaging](./Coherent%20vs%20incoherent%20imaging.html)
-- [Spatial coherence](./Spatial%20coherence.html)
-- [Coherence function and visibility](./Coherence%20function%20and%20visibility.html)
-- [Delay lines and path-length equalization](./Delay%20lines%20and%20path-length%20equalization.html)
+- [Coherent vs incoherent imaging](Coherent%20vs%20incoherent%20imaging.html)
+- [Spatial coherence](Spatial%20coherence.html)
+- [Coherence function and visibility](Coherence%20function%20and%20visibility.html)
+- [Delay lines and path-length equalization](Delay%20lines%20and%20path-length%20equalization.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (9)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Coherence%20function%20and%20visibility.html" class="backlink-item">Coherence function and visibility</a></li>
     <li class="backlink-item-wrap"><a href="../Coherence%20function%20and%20visibility.html" class="backlink-item">Coherence function and visibility</a></li>
-    <li class="backlink-item-wrap"><a href="./Coherent%20vs%20incoherent%20imaging.html" class="backlink-item">Coherent vs incoherent imaging</a></li>
     <li class="backlink-item-wrap"><a href="../Coherent%20vs%20incoherent%20imaging.html" class="backlink-item">Coherent vs incoherent imaging</a></li>
     <li class="backlink-item-wrap"><a href="../Delay%20lines%20and%20path-length%20equalization.html" class="backlink-item">Delay lines and path-length equalization</a></li>
-    <li class="backlink-item-wrap"><a href="./Delay%20lines%20and%20path-length%20equalization.html" class="backlink-item">Delay lines and path-length equalization</a></li>
     <li class="backlink-item-wrap"><a href="../Spatial%20coherence.html" class="backlink-item">Spatial coherence</a></li>
-    <li class="backlink-item-wrap"><a href="./Spatial%20coherence.html" class="backlink-item">Spatial coherence</a></li>
+    <li class="backlink-item-wrap"><a href="Coherence%20function%20and%20visibility.html" class="backlink-item">Coherence function and visibility</a></li>
+    <li class="backlink-item-wrap"><a href="Coherent%20vs%20incoherent%20imaging.html" class="backlink-item">Coherent vs incoherent imaging</a></li>
+    <li class="backlink-item-wrap"><a href="Delay%20lines%20and%20path-length%20equalization.html" class="backlink-item">Delay lines and path-length equalization</a></li>
+    <li class="backlink-item-wrap"><a href="Spatial%20coherence.html" class="backlink-item">Spatial coherence</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

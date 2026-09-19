@@ -2,12 +2,11 @@
 layout: "default"
 title: "Mathematical_Numerical_Methods_MOC"
 ---
-{% raw %}
 # Mathematical and Numerical Methods for Astrophysics — Map of Content
 
 A.Y. 2025/2026 — **Prof. Michela Mapelli**, University of Padova. Master's-level first-semester course in the Astrophysics and Cosmology programme. Exam scheduled **24 June 2026** (written, four exercises in Python on a fixed time slot, scripts and plots uploaded).
 
-This is the *toolbox* course. it does not teach me astrophysics — it teaches me how to *do* astrophysics on a computer. every time I will integrate an N-body system, fit a CMB peak, draw mock binaries from a population, deconvolve a spectrum, or solve a Friedmann equation numerically, this is the course that taught me how. it underwrites the python in [Observational_Cosmology_MOC](./Observational_Cosmology_MOC.html), the simulations in [Lab_High-Energy_MOC](./Lab_High-Energy_MOC.html), and the equation-solving I do throughout [General_Relativity_MOC](./General_Relativity_MOC.html) and [Fundamentals_Astrophysics_Cosmology_MOC](./Fundamentals_Astrophysics_Cosmology_MOC.html).
+This is the *toolbox* course. it does not teach me astrophysics — it teaches me how to *do* astrophysics on a computer. every time I will integrate an N-body system, fit a CMB peak, draw mock binaries from a population, deconvolve a spectrum, or solve a Friedmann equation numerically, this is the course that taught me how. it underwrites the python in [Observational_Cosmology_MOC](Observational_Cosmology_MOC.html), the simulations in [Lab_High-Energy_MOC](Lab_High-Energy_MOC.html), and the equation-solving I do throughout [General_Relativity_MOC](General_Relativity_MOC.html) and [Fundamentals_Astrophysics_Cosmology_MOC](Fundamentals_Astrophysics_Cosmology_MOC.html).
 
 the course has two faces, married together by the title. the *mathematical* face teaches the linear algebra (eigenvalues, QR decomposition, Gram-Schmidt) and the analysis (Fourier series, finite differences, error propagation) that justify the algorithms. the *numerical* face is the algorithms themselves: Gauss elimination, Newton-Raphson, Runge-Kutta, leapfrog, Monte Carlo, FFT. for every block below I keep both faces in view: *what is the math?* and *what is the algorithm?*
 
@@ -318,10 +317,10 @@ the exam template I have on file (4 exercises) hits exactly these boxes: read-an
 
 ## related MOCs and where this work leaks into
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](./Fundamentals_Astrophysics_Cosmology_MOC.html) — every cosmology calculation that actually returns a number was done with the tools in this MOC: integrating Friedmann, computing $D_L(z)$, drawing mock CMB realizations
-- [General_Relativity_MOC](./General_Relativity_MOC.html) — geodesic integration, effective-potential plots, perihelion-precession ODE solves
-- [Observational_Cosmology_MOC](./Observational_Cosmology_MOC.html) — fitting Planck data, MCMC, FFT for the matter power spectrum
-- [Lab_High-Energy_MOC](./Lab_High-Energy_MOC.html) — every detector simulation, every spectrum extraction, every ML photon classifier
+- [Fundamentals_Astrophysics_Cosmology_MOC](Fundamentals_Astrophysics_Cosmology_MOC.html) — every cosmology calculation that actually returns a number was done with the tools in this MOC: integrating Friedmann, computing $D_L(z)$, drawing mock CMB realizations
+- [General_Relativity_MOC](General_Relativity_MOC.html) — geodesic integration, effective-potential plots, perihelion-precession ODE solves
+- [Observational_Cosmology_MOC](Observational_Cosmology_MOC.html) — fitting Planck data, MCMC, FFT for the matter power spectrum
+- [Lab_High-Energy_MOC](Lab_High-Energy_MOC.html) — every detector simulation, every spectrum extraction, every ML photon classifier
 - Moc — the master mind-map of the whole vault
 
 ---
@@ -332,36 +331,36 @@ Every single homework trajectory plot, Jacobi conservation diagnostic, exam pape
 
 | Image Asset | Diagnostic Category & Algorithmic Physics | Primary Zettel Note |
 |---|---|---|
-| `![mapelli_fig01_p6.png](../assets/images/mapelli_fig01_p6.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](./Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig02_p8.png](../assets/images/mapelli_fig02_p8.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](./Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig03_p8.png](../assets/images/mapelli_fig03_p8.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](./Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig04_p9.png](../assets/images/mapelli_fig04_p9.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](./Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig05_p10.png](../assets/images/mapelli_fig05_p10.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](./Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig06_p16.png](../assets/images/mapelli_fig06_p16.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](./Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig07_p47.png](../assets/images/mapelli_fig07_p47.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](./Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig08_p49.png](../assets/images/mapelli_fig08_p49.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](./Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig09_p52.png](../assets/images/mapelli_fig09_p52.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](./Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig10_p53.png](../assets/images/mapelli_fig10_p53.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](./Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig11_p55.png](../assets/images/mapelli_fig11_p55.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](./Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig12_p56.png](../assets/images/mapelli_fig12_p56.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](./Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig13_p57.png](../assets/images/mapelli_fig13_p57.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](./Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig14_p58.png](../assets/images/mapelli_fig14_p58.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](./Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig15_p58.png](../assets/images/mapelli_fig15_p58.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](./Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig16_p59.png](../assets/images/mapelli_fig16_p59.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](./Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig17_p61.png](../assets/images/mapelli_fig17_p61.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](./Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig18_p61.png](../assets/images/mapelli_fig18_p61.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](./Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig19_p64.png](../assets/images/mapelli_fig19_p64.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](./Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig20_p66.png](../assets/images/mapelli_fig20_p66.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](./Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig21_p67.png](../assets/images/mapelli_fig21_p67.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](./Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig22_p69.png](../assets/images/mapelli_fig22_p69.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](./Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig23_p73.png](../assets/images/mapelli_fig23_p73.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](./Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig24_p75.png](../assets/images/mapelli_fig24_p75.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](./Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig25_p77.png](../assets/images/mapelli_fig25_p77.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](./Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig26_p86.png](../assets/images/mapelli_fig26_p86.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](./Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig27_p103.png](../assets/images/mapelli_fig27_p103.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](./Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig28_p108.png](../assets/images/mapelli_fig28_p108.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](./Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig29_p110.png](../assets/images/mapelli_fig29_p110.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](./Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig30_p114.png](../assets/images/mapelli_fig30_p114.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](./Mathematical_Numerical_Methods_MOC.html) |
+| `![mapelli_fig01_p6.png](../assets/images/mapelli_fig01_p6.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
+| `![mapelli_fig02_p8.png](../assets/images/mapelli_fig02_p8.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
+| `![mapelli_fig03_p8.png](../assets/images/mapelli_fig03_p8.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
+| `![mapelli_fig04_p9.png](../assets/images/mapelli_fig04_p9.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
+| `![mapelli_fig05_p10.png](../assets/images/mapelli_fig05_p10.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
+| `![mapelli_fig06_p16.png](../assets/images/mapelli_fig06_p16.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
+| `![mapelli_fig07_p47.png](../assets/images/mapelli_fig07_p47.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
+| `![mapelli_fig08_p49.png](../assets/images/mapelli_fig08_p49.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
+| `![mapelli_fig09_p52.png](../assets/images/mapelli_fig09_p52.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
+| `![mapelli_fig10_p53.png](../assets/images/mapelli_fig10_p53.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
+| `![mapelli_fig11_p55.png](../assets/images/mapelli_fig11_p55.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
+| `![mapelli_fig12_p56.png](../assets/images/mapelli_fig12_p56.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
+| `![mapelli_fig13_p57.png](../assets/images/mapelli_fig13_p57.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
+| `![mapelli_fig14_p58.png](../assets/images/mapelli_fig14_p58.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
+| `![mapelli_fig15_p58.png](../assets/images/mapelli_fig15_p58.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
+| `![mapelli_fig16_p59.png](../assets/images/mapelli_fig16_p59.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
+| `![mapelli_fig17_p61.png](../assets/images/mapelli_fig17_p61.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
+| `![mapelli_fig18_p61.png](../assets/images/mapelli_fig18_p61.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
+| `![mapelli_fig19_p64.png](../assets/images/mapelli_fig19_p64.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
+| `![mapelli_fig20_p66.png](../assets/images/mapelli_fig20_p66.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
+| `![mapelli_fig21_p67.png](../assets/images/mapelli_fig21_p67.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
+| `![mapelli_fig22_p69.png](../assets/images/mapelli_fig22_p69.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
+| `![mapelli_fig23_p73.png](../assets/images/mapelli_fig23_p73.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
+| `![mapelli_fig24_p75.png](../assets/images/mapelli_fig24_p75.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
+| `![mapelli_fig25_p77.png](../assets/images/mapelli_fig25_p77.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
+| `![mapelli_fig26_p86.png](../assets/images/mapelli_fig26_p86.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
+| `![mapelli_fig27_p103.png](../assets/images/mapelli_fig27_p103.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
+| `![mapelli_fig28_p108.png](../assets/images/mapelli_fig28_p108.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
+| `![mapelli_fig29_p110.png](../assets/images/mapelli_fig29_p110.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
+| `![mapelli_fig30_p114.png](../assets/images/mapelli_fig30_p114.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
 | `![mnm_artemis_distances.png](../assets/images/mnm_artemis_distances.png)` | Artemis lunar mission simulation in rotating frame / Jacobi integral conservation diagnostic | [Energy conservation as a diagnostic](../03_Zettel/Theory/Energy%20conservation%20as%20a%20diagnostic.html) |
 | `![mnm_artemis_trajectory.png](../assets/images/mnm_artemis_trajectory.png)` | Artemis lunar mission simulation in rotating frame / Jacobi integral conservation diagnostic | [Energy conservation as a diagnostic](../03_Zettel/Theory/Energy%20conservation%20as%20a%20diagnostic.html) |
 | `![mnm_exam_2021_01_25_p1.png](../assets/images/mnm_exam_2021_01_25_p1.png)` | Official University of Padua Exam Paper: Numerical ODE integration, stability analysis, and floating-point precision | [Euler method](../03_Zettel/Theory/Euler%20method.html) |
@@ -456,113 +455,3 @@ This matrix details the core exam problems, algorithm implementations, and trap 
 | **Newton-Raphson Iteration** | $x_{n+1} = x_n - \frac{f(x_n)}{f'(x_n)}$ | Quadratic local convergence $|e_{n+1}| \propto |e_n|^2$ |
 | **CFL Stability Condition** | $C = \frac{u \Delta t}{\Delta x} \le C_{\rm max} = 1$ | Courant condition for explicit hyperbolic PDE stability |
 | **Metropolis Acceptance Ratio** | $\alpha = \min\left(1, \frac{P(x')}{P(x)}\frac{q(x|x')}{q(x'|x)}\right)$ | MCMC transition probability preserving detailed balance |
-{% endraw %}
-
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (103)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./04_Atlas.html" class="backlink-item">04_Atlas</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Adaptive%20step%20size%20control.html" class="backlink-item">Adaptive step size control</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Adaptive%20timesteps%20near%20close%20encounters.html" class="backlink-item">Adaptive timesteps near close encounters</a></li>
-    <li class="backlink-item-wrap"><a href="./Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Astrophysical%20N-body%20problem%20formulation.html" class="backlink-item">Astrophysical N-body problem formulation</a></li>
-    <li class="backlink-item-wrap"><a href="./Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Bisection%20method.html" class="backlink-item">Bisection method</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Boundary%20value%20PDEs%20and%20iteration.html" class="backlink-item">Boundary value PDEs and iteration</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Box-Muller%20transform%20for%20Gaussian%20random%20numbers.html" class="backlink-item">Box-Muller transform for Gaussian random numbers</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Built-in%20scipy%20integrators.html" class="backlink-item">Built-in scipy integrators</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Bulirsch-Stoer%20extrapolation.html" class="backlink-item">Bulirsch-Stoer extrapolation</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Choosing%20a%20root%20finder.html" class="backlink-item">Choosing a root finder</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Collisional%20vs%20collisionless%20N-body.html" class="backlink-item">Collisional vs collisionless N-body</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Computational%20complexity%20and%20speed.html" class="backlink-item">Computational complexity and speed</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Cubic%20spline%20interpolation.html" class="backlink-item">Cubic spline interpolation</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Decision%20tree%20classifier.html" class="backlink-item">Decision tree classifier</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Derivatives%20of%20noisy%20data.html" class="backlink-item">Derivatives of noisy data</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Discrete%20Fourier%20transform.html" class="backlink-item">Discrete Fourier transform</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Energy%20conservation%20as%20a%20diagnostic.html" class="backlink-item">Energy conservation as a diagnostic</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Euler%20method.html" class="backlink-item">Euler method</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/FFT%20in%20scipy%20and%20numpy.html" class="backlink-item">FFT in scipy and numpy</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Fast%20Fourier%20transform%20algorithm.html" class="backlink-item">Fast Fourier transform algorithm</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Finite%20difference%20discretization.html" class="backlink-item">Finite difference discretization</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Fitting%20practical%20recipe.html" class="backlink-item">Fitting practical recipe</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Floating%20point%20representation%20and%20rounding%20errors.html" class="backlink-item">Floating point representation and rounding errors</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Forward%20backward%20and%20central%20differences.html" class="backlink-item">Forward backward and central differences</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Fourier%20series%20math%20summary.html" class="backlink-item">Fourier series math summary</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Fourth-order%20Hermite%20predictor-corrector.html" class="backlink-item">Fourth-order Hermite predictor-corrector</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Gauss%20elimination.html" class="backlink-item">Gauss elimination</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Gauss-Seidel%20iteration.html" class="backlink-item">Gauss-Seidel iteration</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/General%20linear%20least%20squares.html" class="backlink-item">General linear least squares</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Goodness%20of%20fit%20and%20chi-squared.html" class="backlink-item">Goodness of fit and chi-squared</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Gram-Schmidt%20orthogonalization.html" class="backlink-item">Gram-Schmidt orthogonalization</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Importance%20sampling.html" class="backlink-item">Importance sampling</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Initial%20value%20PDEs%20and%20FTCS.html" class="backlink-item">Initial value PDEs and FTCS</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Initial%20value%20vs%20boundary%20value%20problems.html" class="backlink-item">Initial value vs boundary value problems</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Interpretability%20vs%20accuracy%20in%20ML.html" class="backlink-item">Interpretability vs accuracy in ML</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Inverse%20transform%20sampling.html" class="backlink-item">Inverse transform sampling</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Iris%20dataset%20and%20the%20ML%20hello%20world.html" class="backlink-item">Iris dataset and the ML hello world</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/LU%20decomposition.html" class="backlink-item">LU decomposition</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Lagrange%20polynomial%20interpolation.html" class="backlink-item">Lagrange polynomial interpolation</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Leapfrog%20integrator.html" class="backlink-item">Leapfrog integrator</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Linear%20interpolation.html" class="backlink-item">Linear interpolation</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Linear%20least%20squares.html" class="backlink-item">Linear least squares</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Linux%20for%20the%20astrophysicist.html" class="backlink-item">Linux for the astrophysicist</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Math%20Numerical%20Methods%20course%20intro.html" class="backlink-item">Math Numerical Methods course intro</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Math%20Numerical%20Methods%20equation%20sheet.html" class="backlink-item">Math Numerical Methods equation sheet</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Math%20Numerical%20Methods%20exam%20rules.html" class="backlink-item">Math Numerical Methods exam rules</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Matplotlib%20plotting%20essentials.html" class="backlink-item">Matplotlib plotting essentials</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Matrix%20diagonalization%20%24A%20%3D%20VDV%5ET%24.html" class="backlink-item">Matrix diagonalization $A = VDV^T$</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Matrix%20inverse%20via%20linear%20systems.html" class="backlink-item">Matrix inverse via linear systems</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Modified%20midpoint%20method.html" class="backlink-item">Modified midpoint method</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Monte%20Carlo%20integration%20mean%20value%20method.html" class="backlink-item">Monte Carlo integration mean value method</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Multidimensional%20Monte%20Carlo%20integration.html" class="backlink-item">Multidimensional Monte Carlo integration</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/N-body%20with%20Euler%20vs%20midpoint%20vs%20leapfrog.html" class="backlink-item">N-body with Euler vs midpoint vs leapfrog</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Newton%20divided%20differences.html" class="backlink-item">Newton divided differences</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Newton-Raphson%20for%20systems%20of%20equations.html" class="backlink-item">Newton-Raphson for systems of equations</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Newton-Raphson%20method.html" class="backlink-item">Newton-Raphson method</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Non-linear%20fitting%20with%20scipy.html" class="backlink-item">Non-linear fitting with scipy</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Numerical%20problem%20solving%20workflow.html" class="backlink-item">Numerical problem solving workflow</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Numpy%20arrays%20vs%20Python%20lists.html" class="backlink-item">Numpy arrays vs Python lists</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Optimal%20step%20size%20for%20derivatives.html" class="backlink-item">Optimal step size for derivatives</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Overrelaxation.html" class="backlink-item">Overrelaxation</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Pandas%20for%20tabular%20astrophysics%20data.html" class="backlink-item">Pandas for tabular astrophysics data</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Partial%20numerical%20derivatives.html" class="backlink-item">Partial numerical derivatives</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Partial%20pivoting.html" class="backlink-item">Partial pivoting</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Physical%20interpretation%20of%20the%20FFT.html" class="backlink-item">Physical interpretation of the FFT</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Polynomial%20fitting.html" class="backlink-item">Polynomial fitting</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Power%20iteration.html" class="backlink-item">Power iteration</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Power%20spectrum%20estimation.html" class="backlink-item">Power spectrum estimation</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Pros%20and%20cons%20of%20linear%20solvers.html" class="backlink-item">Pros and cons of linear solvers</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Pseudo-random%20number%20generators.html" class="backlink-item">Pseudo-random number generators</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Python%20language%20essentials.html" class="backlink-item">Python language essentials</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/QR%20algorithm%20for%20eigenvalues.html" class="backlink-item">QR algorithm for eigenvalues</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/QR%20decomposition.html" class="backlink-item">QR decomposition</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Random%20number%20seeds.html" class="backlink-item">Random number seeds</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Rejection%20sampling.html" class="backlink-item">Rejection sampling</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Relaxation%20method.html" class="backlink-item">Relaxation method</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Roundoff%20vs%20truncation%20balance.html" class="backlink-item">Roundoff vs truncation balance</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Runge%20phenomenon.html" class="backlink-item">Runge phenomenon</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Runge-Kutta%202%20midpoint%20method.html" class="backlink-item">Runge-Kutta 2 midpoint method</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Runge-Kutta%204%20method.html" class="backlink-item">Runge-Kutta 4 method</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Scipy%20and%20astropy%20quick%20reference.html" class="backlink-item">Scipy and astropy quick reference</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Scipy%20interpolation%20tools.html" class="backlink-item">Scipy interpolation tools</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Second%20derivatives.html" class="backlink-item">Second derivatives</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Shooting%20method.html" class="backlink-item">Shooting method</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Simpson%27s%20rule.html" class="backlink-item">Simpson's rule</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Sorting%20algorithms%20overview.html" class="backlink-item">Sorting algorithms overview</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Stability%20and%20the%20Courant%20condition.html" class="backlink-item">Stability and the Courant condition</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Systems%20of%20ODEs%20and%20higher-order%20ODEs.html" class="backlink-item">Systems of ODEs and higher-order ODEs</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/The%20Pythagorean%20three-body%20problem.html" class="backlink-item">The Pythagorean three-body problem</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/The%20conda%20environment.html" class="backlink-item">The conda environment</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Trapezoidal%20rule.html" class="backlink-item">Trapezoidal rule</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Trapezoidal%20rule%20error%20estimate.html" class="backlink-item">Trapezoidal rule error estimate</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Truncation%20error%20and%20order%20of%20accuracy.html" class="backlink-item">Truncation error and order of accuracy</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Two-dimensional%20interpolation.html" class="backlink-item">Two-dimensional interpolation</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Vectorization%20and%20python%20speed.html" class="backlink-item">Vectorization and python speed</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Verifying%20random%20samples.html" class="backlink-item">Verifying random samples</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Weighted%20least%20squares.html" class="backlink-item">Weighted least squares</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/What%20is%20machine%20learning.html" class="backlink-item">What is machine learning</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/When%20to%20use%20implicit%20schemes.html" class="backlink-item">When to use implicit schemes</a></li>
-  </ul>
-</div>

@@ -2,7 +2,6 @@
 layout: "default"
 title: "Speckle imaging algorithms"
 ---
-{% raw %}
 # Speckle imaging algorithms
 
 algorithms that recover *full* (amplitude + phase) image information from speckle data. unlike basic Labeyrie speckle interferometry (which gives only $\lvert \tilde O\rvert^2$), these recover an actual image, including asymmetries.
@@ -94,4 +93,3 @@ steps 4 and 7 are the computationally intense parts. modern packages handle this
 - [Bispectrum and triple correlation](interf/Bispectrum%20and%20triple%20correlation.html)
 - [Phase closure](interf/Phase%20closure.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

@@ -2,7 +2,6 @@
 layout: "default"
 title: "02_Parameter_Estimation_Gaussian_Noise_and_Credible_Intervals"
 ---
-{% raw %}
 # Parameter Estimation, Gaussian Noise, and Credible Intervals
 
 Graduate lecture notes in Astro-Statistics and Cosmology, taught by Prof. Michele Liguori at the University of Padua.
@@ -220,20 +219,13 @@ For a symmetric unimodal distribution (such as a Gaussian), the equal-tailed int
 
 ![Parameter Estimation and Credible Intervals](../../../assets/images/astrostat_liguori_p10.png)
 *Figure AST-02: Bayesian Parameter Estimation with Gaussian Measurement Noise. The posterior probability density function $P(\theta \mid D, I) \propto \mathcal{L}(D \mid \theta) \pi(\theta)$ under homoscedastic Gaussian noise $\sigma$ yields the quadratic log-likelihood $\ln \mathcal{L} = -\frac{1}{2} \sum \frac{(d_i - \mu_i(\theta))^2}{\sigma^2}$. The $68.3\%$ and $95.4\%$ Bayesian credible intervals are computed via direct integration of the posterior volume: $\int_{\Omega_C} P(\theta \mid D) d\theta = 1 - \alpha$.*
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (10)</h4>
+  <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./01_Plausible_Reasoning_Cox_Theorem_and_Bayesian_Foundations.html" class="backlink-item">01_Plausible_Reasoning_Cox_Theorem_and_Bayesian_Foundations</a></li>
-    <li class="backlink-item-wrap"><a href="./03_Multivariate_Gaussians_Marginalization_Conditioning_and_Linear_Models.html" class="backlink-item">03_Multivariate_Gaussians_Marginalization_Conditioning_and_Linear_Models</a></li>
-    <li class="backlink-item-wrap"><a href="./04_Frequentist_vs_Bayesian_Inference_and_Confidence_Intervals.html" class="backlink-item">04_Frequentist_vs_Bayesian_Inference_and_Confidence_Intervals</a></li>
-    <li class="backlink-item-wrap"><a href="./05_Monte_Carlo_Metropolis_Hastings_and_MCMC_Convergence_Diagnostics.html" class="backlink-item">05_Monte_Carlo_Metropolis_Hastings_and_MCMC_Convergence_Diagnostics</a></li>
-    <li class="backlink-item-wrap"><a href="./06_Fisher_Information_Matrix_Cramer_Rao_Bound_and_Survey_Forecasting.html" class="backlink-item">06_Fisher_Information_Matrix_Cramer_Rao_Bound_and_Survey_Forecasting</a></li>
-    <li class="backlink-item-wrap"><a href="./09_Bayesian_Hierarchical_Models_for_Type_Ia_Supernovae.html" class="backlink-item">09_Bayesian_Hierarchical_Models_for_Type_Ia_Supernovae</a></li>
-    <li class="backlink-item-wrap"><a href="./10_Prior_Assignment_Transformation_Invariance_and_Maximum_Entropy.html" class="backlink-item">10_Prior_Assignment_Transformation_Invariance_and_Maximum_Entropy</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Bernstein-von%20Mises%20theorem%20and%20Bayesian%20asymptotics.html" class="backlink-item">Bernstein-von Mises theorem and Bayesian asymptotics</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Maximum%20likelihood%20versus%20maximum%20a%20posteriori%20estimation.html" class="backlink-item">Maximum likelihood versus maximum a posteriori estimation</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
   </ul>
 </div>
+

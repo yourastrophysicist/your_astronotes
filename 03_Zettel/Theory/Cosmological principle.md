@@ -2,7 +2,6 @@
 layout: "default"
 title: "Cosmological principle"
 ---
-{% raw %}
 the **cosmological principle** is the assumption that the universe, on sufficiently large scales, is **homogeneous and isotropic**.
 
 - **homogeneous**: independent of position. every point looks the same.
@@ -25,7 +24,7 @@ the typical scales:
 
 at scales above $\sim 100$ Mpc, the galaxy distribution looks statistically homogeneous and isotropic: that is the regime in which the cosmological principle holds.
 
-below that scale the universe is *clumpy* — galaxies, clusters, walls, voids, the cosmic web (see [Matter power spectrum and BAO](./Matter%20power%20spectrum%20and%20BAO.html)).
+below that scale the universe is *clumpy* — galaxies, clusters, walls, voids, the cosmic web (see [Matter power spectrum and BAO](Matter%20power%20spectrum%20and%20BAO.html)).
 
 ---
 
@@ -71,23 +70,22 @@ so the cosmological principle reduces all of cosmology to *one ODE for one funct
 ## see also
 
 - [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Cosmic_inventory_overview](./Cosmic_inventory_overview.html)
+- [Cosmic_inventory_overview](Cosmic_inventory_overview.html)
 - 03_Zettel/Theory/Robertson-Walker metric
 - Friedmann equations with Λ
-- [Cosmic_inventory_photons](./Cosmic_inventory_photons.html) — the CMB as the realization of the comoving frame
-{% endraw %}
+- [Cosmic_inventory_photons](Cosmic_inventory_photons.html) — the CMB as the realization of the comoving frame
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (9)</h4>
+  <h4 class="backlinks-title">Linked References (8)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Book/Baumann%20GR/Ch%207%20-%20Cosmology.html" class="backlink-item">Ch 7 - Cosmology</a></li>
-    <li class="backlink-item-wrap"><a href="./FLRW%20metric.html" class="backlink-item">FLRW metric</a></li>
+    <li class="backlink-item-wrap"><a href="FLRW%20metric.html" class="backlink-item">FLRW metric</a></li>
+    <li class="backlink-item-wrap"><a href="Newtonian%20derivation%20of%20Friedmann.html" class="backlink-item">Newtonian derivation of Friedmann</a></li>
+    <li class="backlink-item-wrap"><a href="Robertson-Walker%20metric.html" class="backlink-item">Robertson-Walker metric</a></li>
+    <li class="backlink-item-wrap"><a href="Sectional%20and%20Gaussian%20curvature.html" class="backlink-item">Sectional and Gaussian curvature</a></li>
+    <li class="backlink-item-wrap"><a href="Spatial%20curvature%20parameter%20k.html" class="backlink-item">Spatial curvature parameter k</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Newtonian%20derivation%20of%20Friedmann.html" class="backlink-item">Newtonian derivation of Friedmann</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Robertson-Walker%20metric.html" class="backlink-item">Robertson-Walker metric</a></li>
-    <li class="backlink-item-wrap"><a href="./Sectional%20and%20Gaussian%20curvature.html" class="backlink-item">Sectional and Gaussian curvature</a></li>
-    <li class="backlink-item-wrap"><a href="./Spatial%20curvature%20parameter%20k.html" class="backlink-item">Spatial curvature parameter k</a></li>
   </ul>
 </div>
+

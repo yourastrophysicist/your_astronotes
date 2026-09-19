@@ -2,7 +2,6 @@
 layout: "default"
 title: "Coherence function and visibility"
 ---
-{% raw %}
 # Coherence function and visibility
 
 the formal mathematical link between *coherence* (a statistical property of the wave) and *visibility* (the observable). they are the same quantity viewed from two angles. understanding this equivalence is crucial: the rest of the formalism — Van Cittert-Zernike, fringe contrast, calibration — is just consequences.
@@ -130,4 +129,3 @@ source: local study diagram generated from the standard mutual-coherence geometr
 - [Van Cittert-Zernike theorem](interf/Van%20Cittert-Zernike%20theorem.html)
 - [Fringe visibility and contrast](interf/Fringe%20visibility%20and%20contrast.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

@@ -2,7 +2,6 @@
 layout: "default"
 title: "Horizontal alt-azimuth system"
 ---
-{% raw %}
 the most natural coordinate system for someone standing on the Earth: take the local horizontal plane as the reference plane.
 
 ---
@@ -58,16 +57,16 @@ at $\phi = 45°$ N (Padova) the picture is one thing; at $\phi = 10°$ N it's an
 - **atmospheric refraction and extinction**: the air path length depends on zenith distance $z$
 - **catching a transient or a satellite** that is moving in the sky
 
-for **catalog work** I switch to the equatorial system (see [Equatorial system](./Equatorial%20system.html)), which is observer-independent.
+for **catalog work** I switch to the equatorial system (see [Equatorial system](Equatorial%20system.html)), which is observer-independent.
 
 ---
 
 ## see also
 
 - [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Spherical_astronomy_complete](./Spherical_astronomy_complete.html)
-- [Equatorial system](./Equatorial%20system.html)
-- [Alt-azimuth ↔ equatorial transformations](./Alt-azimuth%20%E2%86%94%20equatorial%20transformations.html)
+- [Spherical_astronomy_complete](Spherical_astronomy_complete.html)
+- [Equatorial system](Equatorial%20system.html)
+- [Alt-azimuth ↔ equatorial transformations](Alt-azimuth%20%E2%86%94%20equatorial%20transformations.html)
 - Culmination and rise/set
 
 ---
@@ -85,17 +84,17 @@ for **catalog work** I switch to the equatorial system (see [Equatorial system](
 
 ![obs_sph1-32.png](../../assets/images/obs_sph1-32.png)
 *Alt-azimuth telescope mounts and field rotation.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (7)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Alt-azimuth%20equatorial%20transformations.html" class="backlink-item">Alt-azimuth equatorial transformations</a></li>
-    <li class="backlink-item-wrap"><a href="./Alt-azimuth%20%E2%86%94%20equatorial%20transformations.html" class="backlink-item">Alt-azimuth ↔ equatorial transformations</a></li>
+    <li class="backlink-item-wrap"><a href="Alt-azimuth%20equatorial%20transformations.html" class="backlink-item">Alt-azimuth equatorial transformations</a></li>
+    <li class="backlink-item-wrap"><a href="Alt-azimuth%20%E2%86%94%20equatorial%20transformations.html" class="backlink-item">Alt-azimuth ↔ equatorial transformations</a></li>
+    <li class="backlink-item-wrap"><a href="Atmospheric%20refraction.html" class="backlink-item">Atmospheric refraction</a></li>
+    <li class="backlink-item-wrap"><a href="Spherical_astronomy_complete.html" class="backlink-item">Spherical_astronomy_complete</a></li>
     <li class="backlink-item-wrap"><a href="interf/Atmospheric%20refraction.html" class="backlink-item">Atmospheric refraction</a></li>
-    <li class="backlink-item-wrap"><a href="./Atmospheric%20refraction.html" class="backlink-item">Atmospheric refraction</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Spherical_astronomy_complete.html" class="backlink-item">Spherical_astronomy_complete</a></li>
   </ul>
 </div>
+

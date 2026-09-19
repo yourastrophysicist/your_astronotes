@@ -2,7 +2,6 @@
 layout: "default"
 title: "Sky brightness"
 ---
-{% raw %}
 the night sky is **not black**. several physical sources contribute background photons that show up in every astronomical exposure. understanding sky brightness sets exposure-time calculations and decides whether faint-source science is feasible.
 
 ## the components
@@ -58,7 +57,7 @@ at Mauna Kea, Cerro Paranal, La Palma: $\mu_V \approx 21.7$ to $22.0$ mag/arcsec
 
 ## practical consequence: sky-limited regime
 
-for faint sources, photon noise from sky pixels dominates the noise budget (see [CCD detectors and SNR](./CCD%20detectors%20and%20SNR.html) and [The CCD equation](./The%20CCD%20equation.html)). the signal-to-noise ratio is then
+for faint sources, photon noise from sky pixels dominates the noise budget (see [CCD detectors and SNR](CCD%20detectors%20and%20SNR.html) and [The CCD equation](The%20CCD%20equation.html)). the signal-to-noise ratio is then
 $${\rm SNR} \approx \frac{N_*}{\sqrt{n_{\rm pix} N_{\rm sky}}}$$
 which says:
 - a darker sky (fewer $N_{\rm sky}$ photons per pixel per second) gives higher SNR at fixed $t$.
@@ -68,13 +67,13 @@ so at faint magnitudes a small telescope at a dark site can outperform a big one
 
 ## see also
 
-- [Earth atmosphere for observations](./Earth%20atmosphere%20for%20observations.html)
-- [CCD detectors and SNR](./CCD%20detectors%20and%20SNR.html)
-- [The CCD equation](./The%20CCD%20equation.html)
+- [Earth atmosphere for observations](Earth%20atmosphere%20for%20observations.html)
+- [CCD detectors and SNR](CCD%20detectors%20and%20SNR.html)
+- [The CCD equation](The%20CCD%20equation.html)
 - [Atmospheric layers](interf/Atmospheric%20layers.html)
 - [Atmospheric transparency windows](interf/Atmospheric%20transparency%20windows.html)
-- [Filter systems and bandpasses](./Filter%20systems%20and%20bandpasses.html)
-- [Ecliptic system](./Ecliptic%20system.html) — zodiacal light
+- [Filter systems and bandpasses](Filter%20systems%20and%20bandpasses.html)
+- [Ecliptic system](Ecliptic%20system.html) — zodiacal light
 
 ---
 
@@ -85,22 +84,22 @@ so at faint magnitudes a small telescope at a dark site can outperform a big one
 
 ![obs_atm-50.png](../../assets/images/obs_atm-50.png)
 *Sky background brightness in mag/arcsec^2 across UBVRIJHK passbands.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (12)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Aperture%20photometry.html" class="backlink-item">Aperture photometry</a></li>
-    <li class="backlink-item-wrap"><a href="./Atmospheric%20layers.html" class="backlink-item">Atmospheric layers</a></li>
+    <li class="backlink-item-wrap"><a href="Aperture%20photometry.html" class="backlink-item">Aperture photometry</a></li>
+    <li class="backlink-item-wrap"><a href="Atmospheric%20layers.html" class="backlink-item">Atmospheric layers</a></li>
+    <li class="backlink-item-wrap"><a href="Atmospheric%20scintillation.html" class="backlink-item">Atmospheric scintillation</a></li>
+    <li class="backlink-item-wrap"><a href="Atmospheric%20transparency%20windows.html" class="backlink-item">Atmospheric transparency windows</a></li>
+    <li class="backlink-item-wrap"><a href="CCD%20noise%20sources.html" class="backlink-item">CCD noise sources</a></li>
+    <li class="backlink-item-wrap"><a href="Earth%20atmosphere%20for%20observations.html" class="backlink-item">Earth atmosphere for observations</a></li>
+    <li class="backlink-item-wrap"><a href="Spectrum%20reduction%20pipeline.html" class="backlink-item">Spectrum reduction pipeline</a></li>
+    <li class="backlink-item-wrap"><a href="The%20CCD%20equation.html" class="backlink-item">The CCD equation</a></li>
     <li class="backlink-item-wrap"><a href="interf/Atmospheric%20layers.html" class="backlink-item">Atmospheric layers</a></li>
-    <li class="backlink-item-wrap"><a href="./Atmospheric%20scintillation.html" class="backlink-item">Atmospheric scintillation</a></li>
     <li class="backlink-item-wrap"><a href="interf/Atmospheric%20scintillation.html" class="backlink-item">Atmospheric scintillation</a></li>
-    <li class="backlink-item-wrap"><a href="./Atmospheric%20transparency%20windows.html" class="backlink-item">Atmospheric transparency windows</a></li>
     <li class="backlink-item-wrap"><a href="interf/Atmospheric%20transparency%20windows.html" class="backlink-item">Atmospheric transparency windows</a></li>
-    <li class="backlink-item-wrap"><a href="./CCD%20noise%20sources.html" class="backlink-item">CCD noise sources</a></li>
-    <li class="backlink-item-wrap"><a href="./Earth%20atmosphere%20for%20observations.html" class="backlink-item">Earth atmosphere for observations</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Spectrum%20reduction%20pipeline.html" class="backlink-item">Spectrum reduction pipeline</a></li>
-    <li class="backlink-item-wrap"><a href="./The%20CCD%20equation.html" class="backlink-item">The CCD equation</a></li>
   </ul>
 </div>
+

@@ -2,10 +2,9 @@
 layout: "default"
 title: "What is machine learning"
 ---
-{% raw %}
 # What is machine learning
 
-a one-page summary of the field that Mapelli's notes touch on briefly. ML is *fitting models to data*, but with much greater flexibility than the parametric models of [Linear least squares](./Linear%20least%20squares.html) or [Non-linear fitting with scipy](./Non-linear%20fitting%20with%20scipy.html) — and the field has developed its own vocabulary, recipes, and pitfalls.
+a one-page summary of the field that Mapelli's notes touch on briefly. ML is *fitting models to data*, but with much greater flexibility than the parametric models of [Linear least squares](Linear%20least%20squares.html) or [Non-linear fitting with scipy](Non-linear%20fitting%20with%20scipy.html) — and the field has developed its own vocabulary, recipes, and pitfalls.
 
 ## the core distinction: supervised vs unsupervised
 
@@ -125,18 +124,18 @@ ML is full of footguns. the discipline is in the *experimental protocol* (proper
 
 ## see also
 
-- [Decision tree classifier](./Decision%20tree%20classifier.html)
-- [Iris dataset and the ML hello world](./Iris%20dataset%20and%20the%20ML%20hello%20world.html)
-- [Interpretability vs accuracy in ML](./Interpretability%20vs%20accuracy%20in%20ML.html)
+- [Decision tree classifier](Decision%20tree%20classifier.html)
+- [Iris dataset and the ML hello world](Iris%20dataset%20and%20the%20ML%20hello%20world.html)
+- [Interpretability vs accuracy in ML](Interpretability%20vs%20accuracy%20in%20ML.html)
 - [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Decision%20tree%20classifier.html" class="backlink-item">Decision tree classifier</a></li>
-    <li class="backlink-item-wrap"><a href="./Interpretability%20vs%20accuracy%20in%20ML.html" class="backlink-item">Interpretability vs accuracy in ML</a></li>
-    <li class="backlink-item-wrap"><a href="./Iris%20dataset%20and%20the%20ML%20hello%20world.html" class="backlink-item">Iris dataset and the ML hello world</a></li>
+    <li class="backlink-item-wrap"><a href="Decision%20tree%20classifier.html" class="backlink-item">Decision tree classifier</a></li>
+    <li class="backlink-item-wrap"><a href="Interpretability%20vs%20accuracy%20in%20ML.html" class="backlink-item">Interpretability vs accuracy in ML</a></li>
+    <li class="backlink-item-wrap"><a href="Iris%20dataset%20and%20the%20ML%20hello%20world.html" class="backlink-item">Iris dataset and the ML hello world</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
   </ul>
 </div>
+

@@ -2,7 +2,6 @@
 layout: "default"
 title: "09_Bayesian_Inference_and_Parameter_Estimation"
 ---
-{% raw %}
 # Lesson 09 – Bayesian Inference and Parameter Estimation
 
 *Computational Astrophysics, Prof. Tiziano Zingales*  
@@ -166,15 +165,11 @@ To sample these parameter spaces:
 - [Affine-Invariant Ensemble MCMC with emcee](../../../03_Zettel/Computational/Affine-Invariant%20Ensemble%20MCMC%20with%20emcee.html)
 - [MCMC Convergence Diagnostics and Autocorrelation Analysis](../../../03_Zettel/Computational/MCMC%20Convergence%20Diagnostics%20and%20Autocorrelation%20Analysis.html)
 - [Marginalized Posterior Distributions and Corner Plots](../../../03_Zettel/Computational/Marginalized%20Posterior%20Distributions%20and%20Corner%20Plots.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
+  <h4 class="backlinks-title">Linked References (1)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./05_Machine_Learning_Foundations_and_Regression_Models.html" class="backlink-item">05_Machine_Learning_Foundations_and_Regression_Models</a></li>
-    <li class="backlink-item-wrap"><a href="./07_Atmospheric_Radiative_Transfer_and_Line_Profiles.html" class="backlink-item">07_Atmospheric_Radiative_Transfer_and_Line_Profiles</a></li>
-    <li class="backlink-item-wrap"><a href="./08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx.html" class="backlink-item">08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx</a></li>
-    <li class="backlink-item-wrap"><a href="./10_Nested_Sampling_and_Evidence_Computation.html" class="backlink-item">10_Nested_Sampling_and_Evidence_Computation</a></li>
     <li class="backlink-item-wrap"><a href="../../../04_Atlas/Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

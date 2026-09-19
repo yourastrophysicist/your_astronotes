@@ -1,12 +1,8 @@
 ---
 layout: "default"
 title: "Theory of speckle interferometry"
-type: "zettel"
-created: "2026-08-04"
-moc: ""
 tags: ""
 ---
-{% raw %}
 > Short snapshot images freeze atmospheric turbulence into speckled patterns that still encode the full diffraction-limited spatial resolution of the telescope.
 
 ---
@@ -44,4 +40,3 @@ Speckle interferometry was the very first technique to break the seeing limit an
 
 * parent moc: [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
 * related zettels: [Speckle interferometry](interf/Speckle%20interferometry.html), [Speckle imaging algorithms](interf/Speckle%20imaging%20algorithms.html), [Bispectrum and triple correlation](interf/Bispectrum%20and%20triple%20correlation.html), [Aperture masking](interf/Aperture%20masking.html)
-{% endraw %}

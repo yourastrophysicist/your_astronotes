@@ -2,7 +2,6 @@
 layout: "default"
 title: "Coordinate transformations and tensors"
 ---
-{% raw %}
 on a manifold, **coordinates are arbitrary labels**. physics has to be the same regardless of which coordinates we pick. **tensors** are the objects that transform predictably under coordinate changes. they are the right language for GR.
 
 ## the transformation rule
@@ -40,7 +39,7 @@ $$\partial'_\mu V'^\nu = \partial'_\mu\!\left(\frac{\partial x'^\nu}{\partial x^
 
 the second term spoils the transformation law. so the partial derivative of a tensor is **not** a tensor.
 
-the cure: replace $\partial$ with the **covariant derivative** $\nabla$, which adds a Christoffel-symbol correction to cancel this extra term. see [Covariant derivative](./Covariant%20derivative.html).
+the cure: replace $\partial$ with the **covariant derivative** $\nabla$, which adds a Christoffel-symbol correction to cancel this extra term. see [Covariant derivative](Covariant%20derivative.html).
 
 ## examples to know
 
@@ -54,11 +53,11 @@ the cure: replace $\partial$ with the **covariant derivative** $\nabla$, which a
 
 ## see also
 
-- [Manifold metric and signature](./Manifold%20metric%20and%20signature.html)
-- [Christoffel symbols](./Christoffel%20symbols.html)
-- [Covariant derivative](./Covariant%20derivative.html)
-- [Riemann tensor](./Riemann%20tensor.html)
-- [Stress-energy tensor](./Stress-energy%20tensor.html)
+- [Manifold metric and signature](Manifold%20metric%20and%20signature.html)
+- [Christoffel symbols](Christoffel%20symbols.html)
+- [Covariant derivative](Covariant%20derivative.html)
+- [Riemann tensor](Riemann%20tensor.html)
+- [Stress-energy tensor](Stress-energy%20tensor.html)
 - [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
 - [Ch 2 - Some Differential Geometry](../../02_Literature/Book/Baumann%20GR/Ch%202%20-%20Some%20Differential%20Geometry.html)
 
@@ -72,15 +71,14 @@ the cure: replace $\partial$ with the **covariant derivative** $\nabla$, which a
 
 ![lez10_curvilinear_coordinates.png](../../assets/images/lez10_curvilinear_coordinates.png)
 *Lecture 10 Blackboard Derivation: Curvilinear coordinates, basis vector derivatives, and Christoffel symbol definitions.*
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
+  <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Book/Baumann%20GR/Ch%202%20-%20Some%20Differential%20Geometry.html" class="backlink-item">Ch 2 - Some Differential Geometry</a></li>
-    <li class="backlink-item-wrap"><a href="./Christoffel%20symbols.html" class="backlink-item">Christoffel symbols</a></li>
-    <li class="backlink-item-wrap"><a href="./Covariant%20derivative.html" class="backlink-item">Covariant derivative</a></li>
+    <li class="backlink-item-wrap"><a href="Christoffel%20symbols.html" class="backlink-item">Christoffel symbols</a></li>
+    <li class="backlink-item-wrap"><a href="Covariant%20derivative.html" class="backlink-item">Covariant derivative</a></li>
+    <li class="backlink-item-wrap"><a href="Manifold%20metric%20and%20signature.html" class="backlink-item">Manifold metric and signature</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Manifold%20metric%20and%20signature.html" class="backlink-item">Manifold metric and signature</a></li>
   </ul>
 </div>
+

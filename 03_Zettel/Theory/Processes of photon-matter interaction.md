@@ -2,7 +2,6 @@
 layout: "default"
 title: "Processes of photon-matter interaction"
 ---
-{% raw %}
 Photons are detected by being stopped in matter and producing a signal
 	the interaction between photons and matter occurs through **three main processes**
 		each dominant in a different energy range
@@ -23,7 +22,7 @@ A photon is **completely absorbed** by a bound electron
 	the electron is ejected with kinetic energy $E_{kin} = E_{ph} - E_{bind}$
 	the cross section: $\sigma_{ph} \propto Z^{4-5} / E^3$
 
-Read more: [Photoelectric absorption](./Photoelectric%20absorption.html)
+Read more: [Photoelectric absorption](Photoelectric%20absorption.html)
 
 ### 2. Compton scattering
 Dominant at **intermediate energies** ($\sim 100~\text{keV}$–$30~\text{MeV}$, depending on $Z$)
@@ -32,7 +31,7 @@ A photon **scatters** off a (nearly free) electron
 	part of the photon energy is transferred to the electron
 	the photon continues at reduced energy and changed direction
 
-Read more: [Compton scattering and pair production](./Compton%20scattering%20and%20pair%20production.html)
+Read more: [Compton scattering and pair production](Compton%20scattering%20and%20pair%20production.html)
 
 ### 3. Pair production
 Dominant at **high energies** ($E > 1.022~\text{MeV} = 2m_ec^2$, significant above $\sim 4~\text{MeV}$)
@@ -40,7 +39,7 @@ Dominant at **high energies** ($E > 1.022~\text{MeV} = 2m_ec^2$, significant abo
 A photon **converts** into an electron-positron pair in the nuclear Coulomb field
 	the cross section grows with $\ln(E/m_ec^2)$ and with $Z^2$
 
-Read more: [Compton scattering and pair production](./Compton%20scattering%20and%20pair%20production.html)
+Read more: [Compton scattering and pair production](Compton%20scattering%20and%20pair%20production.html)
 
 ---
 
@@ -64,7 +63,7 @@ $$\lambda = \frac{1}{\mu}$$
 
 The dominant process at a given photon energy $E$ and absorber atomic number $Z$ is determined by comparing the three cross sections:
 
-![Screenshot 2026-04-07 at 01.22.49.png](../../assets/images/Screenshot 2026-04-07 at 01.22.49.png)
+![Screenshot 2026-04-07 at 01.22.49.png](../../assets/images/Screenshot%202026-04-07%20at%2001.22.49.png)
 <font color="#bfbfbf">Dominant photon-matter interaction regimes as a function of photon energy $E$ and absorber atomic number $Z$. The solid lines show where $\sigma_{ph} = \sigma_C$ (left boundary) and $\sigma_C = \sigma_{pp}$ (right boundary). Below the left line: photoelectric dominates. Between the lines: Compton dominates. Above the right line: pair production dominates.</font>
 
 Key boundaries (for the boundary $\sigma_{ph} = \sigma_C$):
@@ -88,7 +87,7 @@ Key boundaries (for the boundary $\sigma_{ph} = \sigma_C$):
 ### For column density corrections (ISM absorption):
 - The ISM between source and observer absorbs X-rays through photoelectric absorption
 - The column density $N_H$ (hydrogen atoms cm$^{-2}$) parameterizes the total absorption
-- $F_{obs}(E) = F_{int}(E) \cdot e^{-\sigma(E) N_H}$ — see [Luminosity and Flux for -Instrumentations](./Luminosity%20and%20Flux%20for%20-Instrumentations.html)
+- $F_{obs}(E) = F_{int}(E) \cdot e^{-\sigma(E) N_H}$ — see [Luminosity and Flux for -Instrumentations](Luminosity%20and%20Flux%20for%20-Instrumentations.html)
 
 ---
 
@@ -99,7 +98,6 @@ Key boundaries (for the boundary $\sigma_{ph} = \sigma_C$):
 | Photoelectric | $E \lesssim$ few $\times 100$ keV | $\propto Z^{4-5}/E^3$ | CCD, proportional counter |
 | Compton | $\sim 100$ keV–$30$ MeV | Klein-Nishina, decreases with $E$ | Scintillator, Compton telescope |
 | Pair production | $E > 1.022$ MeV (important $> 4$ MeV) | Grows as $Z^2 \ln E$ | Pair telescope (Fermi LAT) |
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (1)</h4>
@@ -107,3 +105,4 @@ Key boundaries (for the boundary $\sigma_{ph} = \sigma_C$):
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
   </ul>
 </div>
+

@@ -2,7 +2,6 @@
 layout: "default"
 title: "Part4_Single_Particle_Motion_and_Magnetic_Confinement"
 ---
-{% raw %}
 # Part 4 - Single Particle Motion and Magnetic Confinement
 
 *Course: Fluid and Plasma Dynamics, Prof. Maurizio Giacomin*  
@@ -290,16 +289,14 @@ The **bounce frequency** of trapped particles between turning points is:
 $$\omega_b \approx \frac{\sqrt{\epsilon} v_{th}}{q_s R_0}$$
 
 Collisions between trapped particles and passing particles produce radial random-walk steps of size $\Delta r_b$ (rather than $\rho_L$), giving rise to **neoclassical transport**, which significantly exceeds classical collisional transport and generates the self-sustaining **bootstrap current** essential for steady-state tokamak operation.
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
+  <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Course_Overview_and_Syllabus.html" class="backlink-item">Course_Overview_and_Syllabus</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Giacomin_Oral_Exam_Questions_Complete_Guide.html" class="backlink-item">Giacomin_Oral_Exam_Questions_Complete_Guide</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Guiding%20center%20drifts%20and%20electric%20polarization%20drift.html" class="backlink-item">Guiding center drifts and electric polarization drift</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Magnetic%20mirror%20effect%20and%20adiabatic%20invariants.html" class="backlink-item">Magnetic mirror effect and adiabatic invariants</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Tokamak%20magnetic%20topology%20and%20neoclassical%20banana%20orbits.html" class="backlink-item">Tokamak magnetic topology and neoclassical banana orbits</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
   </ul>
 </div>
+

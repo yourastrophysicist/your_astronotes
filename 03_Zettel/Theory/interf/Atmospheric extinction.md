@@ -2,7 +2,6 @@
 layout: "default"
 title: "Atmospheric extinction"
 ---
-{% raw %}
 at all transparent wavelengths the atmosphere still **dims** the light in a wavelength-dependent way. the dimming follows Beer-Lambert and grows with the path length through the atmosphere. it is the thing every photometric measurement must correct for.
 
 ## the geometry: airmass
@@ -71,7 +70,7 @@ cloud, varying aerosol, or jet stream cause $k$ to vary on minute timescales. th
 ## see also
 
 - [Earth atmosphere for observations](../Earth%20atmosphere%20for%20observations.html)
-- [Atmospheric transparency windows](./Atmospheric%20transparency%20windows.html)
+- [Atmospheric transparency windows](Atmospheric%20transparency%20windows.html)
 - [Magnitudes and photometric systems](../Magnitudes%20and%20photometric%20systems.html)
 - [Photometric standard stars](../Photometric%20standard%20stars.html)
 - [Distance modulus](../Distance%20modulus.html)
@@ -104,26 +103,26 @@ cloud, varying aerosol, or jet stream cause $k$ to vary on minute timescales. th
 
 ![obs_atm-32.png](../../../assets/images/obs_atm-32.png)
 *Second-order color extinction corrections: k_v = k_v0 + k_v1 * (B - V).*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (16)</h4>
   <ul class="backlinks-list">
     <li class="backlink-item-wrap"><a href="../Atmospheric%20layers.html" class="backlink-item">Atmospheric layers</a></li>
-    <li class="backlink-item-wrap"><a href="./Atmospheric%20layers.html" class="backlink-item">Atmospheric layers</a></li>
-    <li class="backlink-item-wrap"><a href="./Atmospheric%20refraction.html" class="backlink-item">Atmospheric refraction</a></li>
     <li class="backlink-item-wrap"><a href="../Atmospheric%20transparency%20windows.html" class="backlink-item">Atmospheric transparency windows</a></li>
-    <li class="backlink-item-wrap"><a href="./Atmospheric%20transparency%20windows.html" class="backlink-item">Atmospheric transparency windows</a></li>
     <li class="backlink-item-wrap"><a href="../Distance%20modulus.html" class="backlink-item">Distance modulus</a></li>
     <li class="backlink-item-wrap"><a href="../Earth%20atmosphere%20for%20observations.html" class="backlink-item">Earth atmosphere for observations</a></li>
     <li class="backlink-item-wrap"><a href="../Filter%20systems%20and%20bandpasses.html" class="backlink-item">Filter systems and bandpasses</a></li>
     <li class="backlink-item-wrap"><a href="../Flux%20calibration.html" class="backlink-item">Flux calibration</a></li>
-    <li class="backlink-item-wrap"><a href="./Flux%20calibration.html" class="backlink-item">Flux calibration</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../Optical%20depth.html" class="backlink-item">Optical depth</a></li>
     <li class="backlink-item-wrap"><a href="../Photometric%20standard%20stars.html" class="backlink-item">Photometric standard stars</a></li>
     <li class="backlink-item-wrap"><a href="../Pogson%20magnitudes%20and%20flux%20relation.html" class="backlink-item">Pogson magnitudes and flux relation</a></li>
     <li class="backlink-item-wrap"><a href="../Spectrum%20reduction%20pipeline.html" class="backlink-item">Spectrum reduction pipeline</a></li>
     <li class="backlink-item-wrap"><a href="../Useful%20constants%20and%20conversions.html" class="backlink-item">Useful constants and conversions</a></li>
+    <li class="backlink-item-wrap"><a href="Atmospheric%20layers.html" class="backlink-item">Atmospheric layers</a></li>
+    <li class="backlink-item-wrap"><a href="Atmospheric%20refraction.html" class="backlink-item">Atmospheric refraction</a></li>
+    <li class="backlink-item-wrap"><a href="Atmospheric%20transparency%20windows.html" class="backlink-item">Atmospheric transparency windows</a></li>
+    <li class="backlink-item-wrap"><a href="Flux%20calibration.html" class="backlink-item">Flux calibration</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

@@ -2,7 +2,6 @@
 layout: "default"
 title: "Killing vectors and conserved quantities"
 ---
-{% raw %}
 a **Killing vector** is a vector field $\xi^\mu$ that generates a **symmetry of the metric**: the metric is unchanged when you "flow along" $\xi$. for each Killing vector, there is a **conserved quantity** along every geodesic. this is the GR version of Noether's theorem.
 
 ## the Killing equation
@@ -39,7 +38,7 @@ Schwarzschild has 4 Killing vectors:
 - $\partial_t$ (time-translation symmetry): conserved **energy** $E = -\xi_t \cdot \dot x = (1 - 2GM/r)\dot t$.
 - 3 rotations of the angular coordinates: conserved **angular momentum** components. for orbits in the equatorial plane, $L = r^2\dot\phi$ (or the $z$-component).
 
-these reduce the 4-component geodesic problem to a 1D effective potential problem in $r$. see [Effective potential approach](./Effective%20potential%20approach.html).
+these reduce the 4-component geodesic problem to a 1D effective potential problem in $r$. see [Effective potential approach](Effective%20potential%20approach.html).
 
 ### FLRW
 
@@ -67,26 +66,24 @@ this is how Schwarzschild geodesics are made tractable: the spherical + time sym
 
 ## see also
 
-- [Geodesic equation](./Geodesic%20equation.html)
-- [Affine parameter](./Affine%20parameter.html)
-- [Effective potential approach](./Effective%20potential%20approach.html)
-- [Schwarzschild metric](./Schwarzschild%20metric.html)
-- [Schwarzschild effective potential](./Schwarzschild%20effective%20potential.html)
-- [FLRW metric](./FLRW%20metric.html)
-- [Cosmological redshift](./Cosmological%20redshift.html)
+- [Geodesic equation](Geodesic%20equation.html)
+- [Affine parameter](Affine%20parameter.html)
+- [Effective potential approach](Effective%20potential%20approach.html)
+- [Schwarzschild metric](Schwarzschild%20metric.html)
+- [Schwarzschild effective potential](Schwarzschild%20effective%20potential.html)
+- [FLRW metric](FLRW%20metric.html)
+- [Cosmological redshift](Cosmological%20redshift.html)
 - [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
 - [Ch 3 - A First Look at Geodesics](../../02_Literature/Book/Baumann%20GR/Ch%203%20-%20A%20First%20Look%20at%20Geodesics.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
+  <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Affine%20parameter.html" class="backlink-item">Affine parameter</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Book/Baumann%20GR/Ch%203%20-%20A%20First%20Look%20at%20Geodesics.html" class="backlink-item">Ch 3 - A First Look at Geodesics</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Book/Baumann%20GR/Ch%204%20-%20Spacetime%20Curvature.html" class="backlink-item">Ch 4 - Spacetime Curvature</a></li>
-    <li class="backlink-item-wrap"><a href="./Effective%20potential%20approach.html" class="backlink-item">Effective potential approach</a></li>
+    <li class="backlink-item-wrap"><a href="Affine%20parameter.html" class="backlink-item">Affine parameter</a></li>
+    <li class="backlink-item-wrap"><a href="Effective%20potential%20approach.html" class="backlink-item">Effective potential approach</a></li>
+    <li class="backlink-item-wrap"><a href="Geodesic%20equation.html" class="backlink-item">Geodesic equation</a></li>
+    <li class="backlink-item-wrap"><a href="Schwarzschild%20effective%20potential.html" class="backlink-item">Schwarzschild effective potential</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Geodesic%20equation.html" class="backlink-item">Geodesic equation</a></li>
-    <li class="backlink-item-wrap"><a href="./Schwarzschild%20effective%20potential.html" class="backlink-item">Schwarzschild effective potential</a></li>
   </ul>
 </div>
+

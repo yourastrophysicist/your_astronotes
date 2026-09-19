@@ -2,7 +2,6 @@
 layout: "default"
 title: "Eddington-Finkelstein and Kruskal"
 ---
-{% raw %}
 the Schwarzschild metric in standard $(t, r, \theta, \phi)$ coordinates has a coordinate singularity at $r = 2GM$. **Eddington-Finkelstein** and **Kruskal-Szekeres** coordinates remove this singularity and reveal the global structure of the Schwarzschild geometry.
 
 ## the problem
@@ -50,11 +49,11 @@ properties:
   - **II**: inside the BH (future).
   - **III**: another asymptotically-flat universe ("parallel universe").
   - **IV**: white hole (past).
-![Pasted image 20260620132508.png](../../assets/images/Pasted image 20260620132508.png)
+![Pasted image 20260620132508.png](../../assets/images/Pasted%20image%2020260620132508.png)
 regions III and IV are **mathematical artefacts** of the maximal extension; they don't exist in physical BHs (which form from gravitational collapse and never have a past horizon).
 
 ## Penrose diagrams
-![Pasted image 20260620134402.png](../../assets/images/Pasted image 20260620134402.png)
+![Pasted image 20260620134402.png](../../assets/images/Pasted%20image%2020260620134402.png)
 
 a conformal compactification of Kruskal: maps the entire (infinite) Kruskal spacetime to a finite diagram. light cones still at 45°, but null infinity is finite. used to draw global causal structure.
 
@@ -62,11 +61,11 @@ for Schwarzschild, the Penrose diagram is a square divided into four triangles (
 
 ## see also
 
-- [Schwarzschild metric](./Schwarzschild%20metric.html)
-- [Schwarzschild horizon](./Schwarzschild%20horizon.html)
-- [Schwarzschild Christoffels](./Schwarzschild%20Christoffels.html)
-- [Radial infall](./Radial%20infall.html)
-- [Timelike vs null vs spacelike](./Timelike%20vs%20null%20vs%20spacelike.html)
+- [Schwarzschild metric](Schwarzschild%20metric.html)
+- [Schwarzschild horizon](Schwarzschild%20horizon.html)
+- [Schwarzschild Christoffels](Schwarzschild%20Christoffels.html)
+- [Radial infall](Radial%20infall.html)
+- [Timelike vs null vs spacelike](Timelike%20vs%20null%20vs%20spacelike.html)
 - [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
 - [Ch 6 - Black Holes](../../02_Literature/Book/Baumann%20GR/Ch%206%20-%20Black%20Holes.html)
 
@@ -76,14 +75,13 @@ for Schwarzschild, the Penrose diagram is a square divided into four triangles (
 
 ![gr_q12_solution.png](../../assets/images/gr_q12_solution.png)
 *Question 12 Oral Exam Model Solution: Radial free fall of a massive test particle from rest at $r_0$, proper time to reach the horizon $\Delta\tau = \frac{4}{3}\sqrt{\frac{r_0^3}{2GM}}$, and coordinate time divergence $t \to \infty$ due to coordinate singularity.*
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
+  <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Book/Baumann%20GR/Ch%206%20-%20Black%20Holes.html" class="backlink-item">Ch 6 - Black Holes</a></li>
+    <li class="backlink-item-wrap"><a href="Schwarzschild%20horizon.html" class="backlink-item">Schwarzschild horizon</a></li>
+    <li class="backlink-item-wrap"><a href="Schwarzschild%20metric.html" class="backlink-item">Schwarzschild metric</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Schwarzschild%20horizon.html" class="backlink-item">Schwarzschild horizon</a></li>
-    <li class="backlink-item-wrap"><a href="./Schwarzschild%20metric.html" class="backlink-item">Schwarzschild metric</a></li>
   </ul>
 </div>
+

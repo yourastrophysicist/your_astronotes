@@ -2,7 +2,6 @@
 layout: "default"
 title: "Pre-main sequence evolution and protostars"
 ---
-{% raw %}
 after a dense protostellar core fragments out of a molecular cloud, it undergoes pre-main sequence (PMS) contraction until central temperatures and pressures reach conditions sufficient for stable hydrogen fusion.
 
 ![stellar-64.png](../../assets/images/stellar-64.png)
@@ -51,17 +50,17 @@ gravitational contraction ceases, the star achieves complete thermal and hydrost
 ## see also
 
 - [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Jeans theory and protostellar formation](./Jeans%20theory%20and%20protostellar%20formation.html)
-- [HR diagram](./HR%20diagram.html)
-- [Stellar scaling relations](./Stellar%20scaling%20relations.html)
-- [Stellar evolution timescales](./Stellar%20evolution%20timescales.html)
-{% endraw %}
+- [Jeans theory and protostellar formation](Jeans%20theory%20and%20protostellar%20formation.html)
+- [HR diagram](HR%20diagram.html)
+- [Stellar scaling relations](Stellar%20scaling%20relations.html)
+- [Stellar evolution timescales](Stellar%20evolution%20timescales.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Jeans%20theory%20and%20protostellar%20formation.html" class="backlink-item">Jeans theory and protostellar formation</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20evolution%20timescales.html" class="backlink-item">Stellar evolution timescales</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Jeans%20theory%20and%20protostellar%20formation.html" class="backlink-item">Jeans theory and protostellar formation</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20evolution%20timescales.html" class="backlink-item">Stellar evolution timescales</a></li>
   </ul>
 </div>
+

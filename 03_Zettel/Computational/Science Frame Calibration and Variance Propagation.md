@@ -2,7 +2,6 @@
 layout: "default"
 title: "Science Frame Calibration and Variance Propagation"
 ---
-{% raw %}
 # Science Frame Calibration and Variance Propagation
 
 Astronomical calibration transforms raw telescope frames into normalized, calibrated intensity arrays while propagating variance pixel-by-pixel across every reduction step.
@@ -32,16 +31,14 @@ $$\sigma_{\text{MasterFlat}_{\text{norm}}}(x, y) \approx \frac{1.253}{\sqrt{N_F}
 - [Malavolta 03 - Science Frame Correction and Error Propagation](../../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2003%20-%20Science%20Frame%20Correction%20and%20Error%20Propagation.html)
 - [Bias Frame and Electronic Offset](../Observations/Bias%20Frame%20and%20Electronic%20Offset.html)
 - [Flat Field Frame and Pixel Response Non-Uniformity](../Observations/Flat%20Field%20Frame%20and%20Pixel%20Response%20Non-Uniformity.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
+  <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Cosmic%20Ray%20Rejection%20via%20Laplacian%20Edge%20Detection.html" class="backlink-item">Cosmic Ray Rejection via Laplacian Edge Detection</a></li>
     <li class="backlink-item-wrap"><a href="../Activities/Laboratory%20Exercise%20-%20Science%20Frame%20Reduction%20and%20Error%20Tracking.html" class="backlink-item">Laboratory Exercise - Science Frame Reduction and Error Tracking</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Astrophysics_Laboratory_2/Lesson%2001%20-%20Linux%20Environment%20and%20Scientific%20Python%20Setup.html" class="backlink-item">Lesson 01 - Linux Environment and Scientific Python Setup</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2003%20-%20Science%20Frame%20Correction%20and%20Error%20Propagation.html" class="backlink-item">Malavolta 03 - Science Frame Correction and Error Propagation</a></li>
-    <li class="backlink-item-wrap"><a href="./Python%20Class%20Architecture%20for%20Astronomical%20Pipelines.html" class="backlink-item">Python Class Architecture for Astronomical Pipelines</a></li>
+    <li class="backlink-item-wrap"><a href="Cosmic%20Ray%20Rejection%20via%20Laplacian%20Edge%20Detection.html" class="backlink-item">Cosmic Ray Rejection via Laplacian Edge Detection</a></li>
+    <li class="backlink-item-wrap"><a href="Python%20Class%20Architecture%20for%20Astronomical%20Pipelines.html" class="backlink-item">Python Class Architecture for Astronomical Pipelines</a></li>
+    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
   </ul>
 </div>
+

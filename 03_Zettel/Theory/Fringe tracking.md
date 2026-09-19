@@ -2,7 +2,6 @@
 layout: "default"
 title: "Fringe tracking"
 ---
-{% raw %}
 # Fringe tracking
 
 a real-time control system that locks the interferometer onto a fringe despite atmospheric piston jitter. the technological breakthrough that lets optical interferometers integrate longer than the atmospheric coherence time, opening up faint-target science.
@@ -101,7 +100,6 @@ without fringe tracking, modern optical interferometry would be limited to a han
 
 - [Components of a modern interferometer](interf/Components%20of%20a%20modern%20interferometer.html)
 - [Delay lines and path-length equalization](interf/Delay%20lines%20and%20path-length%20equalization.html)
-- [Beam combiners](./Beam%20combiners.html)
+- [Beam combiners](Beam%20combiners.html)
 - [Adaptive optics](interf/Adaptive%20optics.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

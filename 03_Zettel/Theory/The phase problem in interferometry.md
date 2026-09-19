@@ -1,12 +1,8 @@
 ---
 layout: "default"
 title: "The phase problem in interferometry/"
-type: "zettel"
-created: "2026-08-04"
-moc: ""
 tags: ""
 ---
-{% raw %}
 > *the atmosphere scrambles the arrival times of light at each telescope, destroying the critical phase information needed to reconstruct an image*
 
 ---
@@ -42,4 +38,3 @@ This problem forces different wavelength regimes into different solutions. In ra
 
 * parent moc: [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
 * related zettels: [Phase closure](interf/Phase%20closure.html), [Self-calibration](interf/Self-calibration.html), [Atmospheric turbulence overview](interf/Atmospheric%20turbulence%20overview.html), [Fried parameter $r_0$](interf/Fried%20parameter%20%24r_0%24.html)
-{% endraw %}

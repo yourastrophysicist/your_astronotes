@@ -2,7 +2,6 @@
 layout: "default"
 title: "Leapfrog integrator"
 ---
-{% raw %}
 # Leapfrog integrator
 
 a second-order, **symplectic** integrator for Hamiltonian systems. positions and velocities are evolved on staggered (interleaved) time grids — they "leap over" each other. for Hamiltonian dynamics it is the gold standard for long-time integrations because it does not have the secular energy drift of RK methods.
@@ -102,11 +101,11 @@ this is leapfrog with the velocity eliminated (it is recoverable from difference
 
 ## see also
 
-- [Euler method](./Euler%20method.html)
-- [Runge-Kutta 4 method](./Runge-Kutta%204%20method.html)
-- [Energy conservation as a diagnostic](./Energy%20conservation%20as%20a%20diagnostic.html)
-- [Astrophysical N-body problem formulation](./Astrophysical%20N-body%20problem%20formulation.html)
-- [Fourth-order Hermite predictor-corrector](./Fourth-order%20Hermite%20predictor-corrector.html) — symplectic-ish, higher-order
+- [Euler method](Euler%20method.html)
+- [Runge-Kutta 4 method](Runge-Kutta%204%20method.html)
+- [Energy conservation as a diagnostic](Energy%20conservation%20as%20a%20diagnostic.html)
+- [Astrophysical N-body problem formulation](Astrophysical%20N-body%20problem%20formulation.html)
+- [Fourth-order Hermite predictor-corrector](Fourth-order%20Hermite%20predictor-corrector.html) — symplectic-ish, higher-order
 - [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
 
 ---
@@ -119,22 +118,22 @@ this is leapfrog with the velocity eliminated (it is recoverable from difference
 
 ![mnm_exam_2021_08_30_p1.png](../../assets/images/mnm_exam_2021_08_30_p1.png)
 *Official Exam Paper (30 Aug 2021): Symplectic integrator properties and derivation of bounded energy oscillations without secular secular drift.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (12)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Astrophysical%20N-body%20problem%20formulation.html" class="backlink-item">Astrophysical N-body problem formulation</a></li>
-    <li class="backlink-item-wrap"><a href="./Bulirsch-Stoer%20extrapolation.html" class="backlink-item">Bulirsch-Stoer extrapolation</a></li>
-    <li class="backlink-item-wrap"><a href="./Collisional%20vs%20collisionless%20N-body.html" class="backlink-item">Collisional vs collisionless N-body</a></li>
-    <li class="backlink-item-wrap"><a href="./Energy%20conservation%20as%20a%20diagnostic.html" class="backlink-item">Energy conservation as a diagnostic</a></li>
-    <li class="backlink-item-wrap"><a href="./Euler%20method.html" class="backlink-item">Euler method</a></li>
-    <li class="backlink-item-wrap"><a href="./Fourth-order%20Hermite%20predictor-corrector.html" class="backlink-item">Fourth-order Hermite predictor-corrector</a></li>
-    <li class="backlink-item-wrap"><a href="./Initial%20value%20vs%20boundary%20value%20problems.html" class="backlink-item">Initial value vs boundary value problems</a></li>
+    <li class="backlink-item-wrap"><a href="Astrophysical%20N-body%20problem%20formulation.html" class="backlink-item">Astrophysical N-body problem formulation</a></li>
+    <li class="backlink-item-wrap"><a href="Bulirsch-Stoer%20extrapolation.html" class="backlink-item">Bulirsch-Stoer extrapolation</a></li>
+    <li class="backlink-item-wrap"><a href="Collisional%20vs%20collisionless%20N-body.html" class="backlink-item">Collisional vs collisionless N-body</a></li>
+    <li class="backlink-item-wrap"><a href="Energy%20conservation%20as%20a%20diagnostic.html" class="backlink-item">Energy conservation as a diagnostic</a></li>
+    <li class="backlink-item-wrap"><a href="Euler%20method.html" class="backlink-item">Euler method</a></li>
+    <li class="backlink-item-wrap"><a href="Fourth-order%20Hermite%20predictor-corrector.html" class="backlink-item">Fourth-order Hermite predictor-corrector</a></li>
+    <li class="backlink-item-wrap"><a href="Initial%20value%20vs%20boundary%20value%20problems.html" class="backlink-item">Initial value vs boundary value problems</a></li>
+    <li class="backlink-item-wrap"><a href="N-body%20with%20Euler%20vs%20midpoint%20vs%20leapfrog.html" class="backlink-item">N-body with Euler vs midpoint vs leapfrog</a></li>
+    <li class="backlink-item-wrap"><a href="Runge-Kutta%202%20midpoint%20method.html" class="backlink-item">Runge-Kutta 2 midpoint method</a></li>
+    <li class="backlink-item-wrap"><a href="Runge-Kutta%204%20method.html" class="backlink-item">Runge-Kutta 4 method</a></li>
+    <li class="backlink-item-wrap"><a href="Systems%20of%20ODEs%20and%20higher-order%20ODEs.html" class="backlink-item">Systems of ODEs and higher-order ODEs</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./N-body%20with%20Euler%20vs%20midpoint%20vs%20leapfrog.html" class="backlink-item">N-body with Euler vs midpoint vs leapfrog</a></li>
-    <li class="backlink-item-wrap"><a href="./Runge-Kutta%202%20midpoint%20method.html" class="backlink-item">Runge-Kutta 2 midpoint method</a></li>
-    <li class="backlink-item-wrap"><a href="./Runge-Kutta%204%20method.html" class="backlink-item">Runge-Kutta 4 method</a></li>
-    <li class="backlink-item-wrap"><a href="./Systems%20of%20ODEs%20and%20higher-order%20ODEs.html" class="backlink-item">Systems of ODEs and higher-order ODEs</a></li>
   </ul>
 </div>
+

@@ -2,7 +2,6 @@
 layout: "default"
 title: "03_Demographics_and_Survey_Completeness"
 ---
-{% raw %}
 # Lesson 03 – Demographics and Survey Completeness
 
 *Exoplanetary Astrophysics, Prof. Giampaolo Piotto (Lecture 13/10/2025)*  
@@ -165,14 +164,12 @@ This sharp enhancement directly aligns with the circumstellar **snow line** in p
 
 ![The Hot Jupiter Desert and Tidal Migration Limits](../../../assets/images/exo_detection_p75.png)
 *Figure EXO-04: The Hot Jupiter sub-Jovian desert in the period-radius diagram, bounded by atmospheric hydrodynamic photo-evaporative escape and high-eccentricity tidal migration limits.*
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
+  <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./02_Exoplanet_Discovery_and_Taxonomy.html" class="backlink-item">02_Exoplanet_Discovery_and_Taxonomy</a></li>
-    <li class="backlink-item-wrap"><a href="./04_Small_Planets_and_Host_Star_Correlations.html" class="backlink-item">04_Small_Planets_and_Host_Star_Correlations</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Exoplanet%20demographic%20distributions%20and%20survey%20completeness.html" class="backlink-item">Exoplanet demographic distributions and survey completeness</a></li>
     <li class="backlink-item-wrap"><a href="../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

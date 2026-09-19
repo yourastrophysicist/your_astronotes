@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Cylindrical Z-pinch equilibrium and Bennett relation"
-name: "Cylindrical Z-pinch equilibrium and Bennett relation"
-description: "magnetostatic radial pressure balance, self-confinement by axial currents, and the exact Bennett current formula"
 ---
-{% raw %}
 a Z-pinch is a cylindrical plasma column carrying an axial current $j_z(r)$ that generates an azimuthal magnetic field $B_\theta(r)$, self-pinching and confining the plasma against its internal kinetic pressure.
 
 ## radial magnetostatic force balance
@@ -43,14 +40,14 @@ the total current $I$ required to confine a given line density $N$ at temperatur
 
 - [Fluid_and_Plasma_Dynamics_MOC](../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html)
 - [Part7_Magnetohydrodynamics_Equilibrium_and_Waves](../../02_Literature/Lectures/Fluid_and_Plasma_Dynamics/Part7_Magnetohydrodynamics_Equilibrium_and_Waves.html)
-- [Grad-Shafranov equation and axisymmetric tokamak equilibria](./Grad-Shafranov%20equation%20and%20axisymmetric%20tokamak%20equilibria.html)
-- [Ideal MHD equations and Alfven flux freezing theorem](./Ideal%20MHD%20equations%20and%20Alfven%20flux%20freezing%20theorem.html)
-{% endraw %}
+- [Grad-Shafranov equation and axisymmetric tokamak equilibria](Grad-Shafranov%20equation%20and%20axisymmetric%20tokamak%20equilibria.html)
+- [Ideal MHD equations and Alfven flux freezing theorem](Ideal%20MHD%20equations%20and%20Alfven%20flux%20freezing%20theorem.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Grad-Shafranov%20equation%20and%20axisymmetric%20tokamak%20equilibria.html" class="backlink-item">Grad-Shafranov equation and axisymmetric tokamak equilibria</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Grad-Shafranov%20equation%20and%20axisymmetric%20tokamak%20equilibria.html" class="backlink-item">Grad-Shafranov equation and axisymmetric tokamak equilibria</a></li>
   </ul>
 </div>
+

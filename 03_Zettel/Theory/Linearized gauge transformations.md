@@ -2,7 +2,6 @@
 layout: "default"
 title: "Linearized gauge transformations"
 ---
-{% raw %}
 **linearized GR has a gauge symmetry**, just like electromagnetism. an infinitesimal coordinate change $x^\mu \to x^\mu + \xi^\mu$ shifts $h_{\mu\nu}$ in a specific way that leaves all physics invariant. crucial for understanding gravitational waves.
 
 ## the transformation
@@ -36,8 +35,8 @@ so **2 physical polarisations**: $h_+$ and $h_\times$. the two "tensor" polarisa
 ## fixing gauge
 
 common gauges:
-- **Lorenz gauge**: $\partial^\mu \bar h_{\mu\nu} = 0$. uses 4 conditions, fixes some of the gauge freedom. Einstein's equation becomes $\Box \bar h_{\mu\nu} = -16\pi G T_{\mu\nu}$. see [Lorenz gauge](./Lorenz%20gauge.html).
-- **transverse-traceless (TT) gauge**: in vacuum, additional 4 conditions reduce the perturbation to its 2 physical polarisations. see [Transverse traceless gauge](./Transverse%20traceless%20gauge.html).
+- **Lorenz gauge**: $\partial^\mu \bar h_{\mu\nu} = 0$. uses 4 conditions, fixes some of the gauge freedom. Einstein's equation becomes $\Box \bar h_{\mu\nu} = -16\pi G T_{\mu\nu}$. see [Lorenz gauge](Lorenz%20gauge.html).
+- **transverse-traceless (TT) gauge**: in vacuum, additional 4 conditions reduce the perturbation to its 2 physical polarisations. see [Transverse traceless gauge](Transverse%20traceless%20gauge.html).
 
 the gauge choice is a calculational tool. all observables are invariant.
 
@@ -49,26 +48,25 @@ altogether: 10 (original) - 4 (Lorenz) - 4 (residual) = 2 physical polarisations
 
 ## see also
 
-- [Linearized metric perturbation](./Linearized%20metric%20perturbation.html)
-- [Trace-reversed perturbation](./Trace-reversed%20perturbation.html)
-- [Lorenz gauge](./Lorenz%20gauge.html)
-- [Transverse traceless gauge](./Transverse%20traceless%20gauge.html)
-- [Plus and cross polarizations](./Plus%20and%20cross%20polarizations.html)
+- [Linearized metric perturbation](Linearized%20metric%20perturbation.html)
+- [Trace-reversed perturbation](Trace-reversed%20perturbation.html)
+- [Lorenz gauge](Lorenz%20gauge.html)
+- [Transverse traceless gauge](Transverse%20traceless%20gauge.html)
+- [Plus and cross polarizations](Plus%20and%20cross%20polarizations.html)
 - Q15 - trace-reversed perturbation and Lorenz gauge
 - [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
 - [Ch 8 - Gravitational Waves](../../02_Literature/Book/Baumann%20GR/Ch%208%20-%20Gravitational%20Waves.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (8)</h4>
+  <h4 class="backlinks-title">Linked References (7)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Book/Baumann%20GR/Ch%208%20-%20Gravitational%20Waves.html" class="backlink-item">Ch 8 - Gravitational Waves</a></li>
+    <li class="backlink-item-wrap"><a href="Linearized%20Christoffel%20and%20Riemann.html" class="backlink-item">Linearized Christoffel and Riemann</a></li>
+    <li class="backlink-item-wrap"><a href="Linearized%20metric%20perturbation.html" class="backlink-item">Linearized metric perturbation</a></li>
+    <li class="backlink-item-wrap"><a href="Lorenz%20gauge.html" class="backlink-item">Lorenz gauge</a></li>
+    <li class="backlink-item-wrap"><a href="SVT%20decomposition.html" class="backlink-item">SVT decomposition</a></li>
+    <li class="backlink-item-wrap"><a href="Trace-reversed%20perturbation.html" class="backlink-item">Trace-reversed perturbation</a></li>
+    <li class="backlink-item-wrap"><a href="Transverse%20traceless%20gauge.html" class="backlink-item">Transverse traceless gauge</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Linearized%20Christoffel%20and%20Riemann.html" class="backlink-item">Linearized Christoffel and Riemann</a></li>
-    <li class="backlink-item-wrap"><a href="./Linearized%20metric%20perturbation.html" class="backlink-item">Linearized metric perturbation</a></li>
-    <li class="backlink-item-wrap"><a href="./Lorenz%20gauge.html" class="backlink-item">Lorenz gauge</a></li>
-    <li class="backlink-item-wrap"><a href="./SVT%20decomposition.html" class="backlink-item">SVT decomposition</a></li>
-    <li class="backlink-item-wrap"><a href="./Trace-reversed%20perturbation.html" class="backlink-item">Trace-reversed perturbation</a></li>
-    <li class="backlink-item-wrap"><a href="./Transverse%20traceless%20gauge.html" class="backlink-item">Transverse traceless gauge</a></li>
   </ul>
 </div>
+

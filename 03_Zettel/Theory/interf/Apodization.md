@@ -2,7 +2,6 @@
 layout: "default"
 title: "Apodization"
 ---
-{% raw %}
 # Apodization
 
 literally: "removing the foot." a technique for reshaping the *aperture function* of a telescope or interferometer to suppress the diffraction wings (sidelobes) of the resulting PSF. used in coronagraphy, high-contrast imaging, and interferometric nulling.
@@ -73,24 +72,23 @@ it's a technique that sounds esoteric but is foundational: without apodization, 
 
 ## see also
 
-- [Coronagraphy](./Coronagraphy.html)
-- [Nulling interferometry](./Nulling%20interferometry.html)
-- [Bracewell nuller](./Bracewell%20nuller.html)
+- [Coronagraphy](Coronagraphy.html)
+- [Nulling interferometry](Nulling%20interferometry.html)
+- [Bracewell nuller](Bracewell%20nuller.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (10)</h4>
+  <h4 class="backlinks-title">Linked References (9)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../02_Literature/Lectures/Exoplanetary_Astrophysics/07_Direct_Imaging_Physics_and_High_Contrast_Techniques.html" class="backlink-item">07_Direct_Imaging_Physics_and_High_Contrast_Techniques</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Bracewell%20nuller.html" class="backlink-item">Bracewell nuller</a></li>
     <li class="backlink-item-wrap"><a href="../Bracewell%20nuller.html" class="backlink-item">Bracewell nuller</a></li>
     <li class="backlink-item-wrap"><a href="../Coronagraphy.html" class="backlink-item">Coronagraphy</a></li>
-    <li class="backlink-item-wrap"><a href="./Coronagraphy.html" class="backlink-item">Coronagraphy</a></li>
-    <li class="backlink-item-wrap"><a href="./Hypertelescope.html" class="backlink-item">Hypertelescope</a></li>
     <li class="backlink-item-wrap"><a href="../Hypertelescope.html" class="backlink-item">Hypertelescope</a></li>
     <li class="backlink-item-wrap"><a href="../Nulling%20interferometry.html" class="backlink-item">Nulling interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="./Nulling%20interferometry.html" class="backlink-item">Nulling interferometry</a></li>
+    <li class="backlink-item-wrap"><a href="Bracewell%20nuller.html" class="backlink-item">Bracewell nuller</a></li>
+    <li class="backlink-item-wrap"><a href="Coronagraphy.html" class="backlink-item">Coronagraphy</a></li>
+    <li class="backlink-item-wrap"><a href="Hypertelescope.html" class="backlink-item">Hypertelescope</a></li>
+    <li class="backlink-item-wrap"><a href="Nulling%20interferometry.html" class="backlink-item">Nulling interferometry</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

@@ -2,7 +2,6 @@
 layout: "default"
 title: "Earth-rotation aperture synthesis"
 ---
-{% raw %}
 # Earth-rotation aperture synthesis
 
 the move that turned interferometry from a "few baselines" technique into a full imaging machine. as the Earth rotates, the *projection* of each fixed baseline onto the source-perpendicular plane traces an ellipse in the (u, v) plane, sampling many spatial frequencies with each pair of antennas.
@@ -125,4 +124,3 @@ source: local synthetic demo generated from rotating projected baselines.
 - [Dirty beam and dirty image](interf/Dirty%20beam%20and%20dirty%20image.html)
 - [CLEAN algorithm](interf/CLEAN%20algorithm.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

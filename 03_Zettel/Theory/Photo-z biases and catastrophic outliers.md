@@ -2,10 +2,9 @@
 layout: "default"
 title: "Photo-z biases and catastrophic outliers"
 ---
-{% raw %}
 # photo-z biases and catastrophic outliers
 
-up: [Pablo_02_Statistical_properties_of_galaxies](../../02_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html) · [Photometric redshifts](./Photometric%20redshifts.html)
+up: [Pablo_02_Statistical_properties_of_galaxies](../../02_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html) · [Photometric redshifts](Photometric%20redshifts.html)
 
 ## the failure modes
 
@@ -49,24 +48,23 @@ if 5% of your $z \sim 7$ Lyman-break candidates are actually $z \sim 0.2$ red dw
 
 ## connections
 
-- previous: [Photometric redshifts](./Photometric%20redshifts.html)
-- driving statistics: [Redshift distribution of flux-limited samples](./Redshift%20distribution%20of%20flux-limited%20samples.html), [Malmquist bias](./Malmquist%20bias.html)
-- LF estimation under photo-z uncertainty: [1Vmax estimator](./1Vmax%20estimator.html) needs $V_{\max}$ to be marginalized over $p(z)$
+- previous: [Photometric redshifts](Photometric%20redshifts.html)
+- driving statistics: [Redshift distribution of flux-limited samples](Redshift%20distribution%20of%20flux-limited%20samples.html), [Malmquist bias](Malmquist%20bias.html)
+- LF estimation under photo-z uncertainty: [1Vmax estimator](1Vmax%20estimator.html) needs $V_{\max}$ to be marginalized over $p(z)$
 
 ## key references
 
 - Oyaizu et al. 2008, ApJ 674, 768
 - Hildebrandt et al. 2010 (PHAT photo-z code comparison)
 - Salvato, Ilbert, Hoyle 2019 ARAA on photo-z
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
+  <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./1Vmax%20estimator.html" class="backlink-item">1Vmax estimator</a></li>
-    <li class="backlink-item-wrap"><a href="./Malmquist%20bias.html" class="backlink-item">Malmquist bias</a></li>
+    <li class="backlink-item-wrap"><a href="1Vmax%20estimator.html" class="backlink-item">1Vmax estimator</a></li>
+    <li class="backlink-item-wrap"><a href="Malmquist%20bias.html" class="backlink-item">Malmquist bias</a></li>
+    <li class="backlink-item-wrap"><a href="Redshift%20distribution%20of%20flux-limited%20samples.html" class="backlink-item">Redshift distribution of flux-limited samples</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html" class="backlink-item">Pablo_02_Statistical_properties_of_galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="./Redshift%20distribution%20of%20flux-limited%20samples.html" class="backlink-item">Redshift distribution of flux-limited samples</a></li>
   </ul>
 </div>
+

@@ -2,8 +2,7 @@
 layout: "default"
 title: "Piotto 01 - Exoplanet Detection and Demographics"
 ---
-{% raw %}
-# Piotto 01 ? Exoplanet Detection and Demographics
+# Piotto 01 — Exoplanet Detection and Demographics
 
 *Astrophysics Laboratory 2, Prof. Giampaolo Piotto (Lecture 30/09/2025)*  
 *Index: [Astrophysics_Laboratory_2_MOC](../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html)*
@@ -84,12 +83,11 @@ Major Space Missions:
 - [Transit Depth and Ingress-Egress Timescales](../../../03_Zettel/Theory/Transit%20Depth%20and%20Ingress-Egress%20Timescales.html)
 - [Piotto 02 - Atmospheric Characterization and Transit Spectroscopy](./Piotto%2002%20-%20Atmospheric%20Characterization%20and%20Transit%20Spectroscopy.html)
 - [Malavolta 11 - Transit Geometry and Analytical Light Curve Modeling](./Malavolta%2011%20-%20Transit%20Geometry%20and%20Analytical%20Light%20Curve%20Modeling.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
+  <h4 class="backlinks-title">Linked References (1)</h4>
   <ul class="backlinks-list">
     <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Piotto%2002%20-%20Atmospheric%20Characterization%20and%20Transit%20Spectroscopy.html" class="backlink-item">Piotto 02 - Atmospheric Characterization and Transit Spectroscopy</a></li>
   </ul>
 </div>
+

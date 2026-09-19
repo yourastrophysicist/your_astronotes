@@ -2,7 +2,6 @@
 layout: "default"
 title: "CCDs for X-rays"
 ---
-{% raw %}
 A visible light photon produces a **single electron-hole pair**
 	a large number of photons must be captured per pixel
 		requiring long exposure times (minutes or hours)
@@ -50,7 +49,7 @@ The depletion region for X-ray CCDs is on the order of $30$–$300~\mu\text{m}$
 ---
 
 ## Grades
-![Screenshot 2026-04-07 at 01.52.35.png](../../assets/images/Screenshot 2026-04-07 at 01.52.35.png)
+![Screenshot 2026-04-07 at 01.52.35.png](../../assets/images/Screenshot%202026-04-07%20at%2001.52.35.png)
 A significant fraction of X-ray photons can interact with the material
 	depositing energy in **more than one pixel**
 		due to secondary ionization
@@ -59,9 +58,9 @@ A significant fraction of X-ray photons can interact with the material
 When the event is limited to a single pixel and no charges are deposited around:
 	we have a **perfect single** situation
 		the quality of the signal is called **grade 0**
-![Screenshot 2026-04-07 at 01.52.35.png](../../assets/images/Screenshot 2026-04-07 at 01.52.35.png)
+![Screenshot 2026-04-07 at 01.52.35.png](../../assets/images/Screenshot%202026-04-07%20at%2001.52.35.png)
 Depending on the distribution of charges in the surrounding pixels,
-	other grades are defined with an increasing number corresponding to progressively worse situations:
+\tother grades are defined with an increasing number corresponding to progressively worse situations:
 		**Grade 0**: perfect single
 		**Grade 1**: S + detached corners
 		**Grade 2**: vertical single-sided split + detached corners
@@ -106,7 +105,7 @@ where
 	$d$ is the depletion region depth
 
 The transmission $T$ is characterized by **absorption edges** caused by the photoelectric effect
-![Screenshot 2026-04-07 at 01.53.12.png](../../assets/images/Screenshot 2026-04-07 at 01.53.12.png)
+![Screenshot 2026-04-07 at 01.53.12.png](../../assets/images/Screenshot%202026-04-07%20at%2001.53.12.png)
 CCDs for X-rays are however sensitive to visible photons too
 	causing noise and calibration issues
 		materials like plastic or aluminum that absorb visible light
@@ -125,7 +124,7 @@ The **energy response function** is the energy distribution of the pulses genera
 	it is not a $\delta$ function but a **Gaussian function** due to errors
 		if $\Delta E = \text{FWHM}$ of the response function, the energy resolution is:
 $$R = \frac{\Delta E}{E} = \frac{\text{FWHM}}{E_0}$$
-![Screenshot 2026-04-07 at 01.53.44.png](../../assets/images/Screenshot 2026-04-07 at 01.53.44.png)
+![Screenshot 2026-04-07 at 01.53.44.png](../../assets/images/Screenshot%202026-04-07%20at%2001.53.44.png)
 The FWHM in eV is given by:
 $$\text{FWHM} = 2.35w\sqrt{\sigma^2_{RON} + 0.115\frac{E_{ph}}{w}}$$
 
@@ -135,7 +134,7 @@ where
 	$w = 3.68~\text{eV}$ is the energy per electron-hole pair
 
 The spectral resolution is **higher at lower energies**
-![Screenshot 2026-04-07 at 01.54.35.png](../../assets/images/Screenshot 2026-04-07 at 01.54.35.png)
+![Screenshot 2026-04-07 at 01.54.35.png](../../assets/images/Screenshot%202026-04-07%20at%2001.54.35.png)
 
 ---
 
@@ -155,17 +154,17 @@ The spectral resolution is **higher at lower energies**
 
 ![xray_detector_p3_img1.png](../../assets/images/xray_detector_p3_img1.png)
 *CCD energy resolution: Fano factor $F \approx 0.115$ in silicon, theoretical FWHM $\Delta E = 2.355\sqrt{F w E_{\rm ph} + \sigma_{\rm RON}^2}$.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (7)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./CCD%20readout.html" class="backlink-item">CCD readout</a></li>
-    <li class="backlink-item-wrap"><a href="./Charge-Coupled%20Device.html" class="backlink-item">Charge-Coupled Device</a></li>
+    <li class="backlink-item-wrap"><a href="CCD%20readout.html" class="backlink-item">CCD readout</a></li>
+    <li class="backlink-item-wrap"><a href="Charge-Coupled%20Device.html" class="backlink-item">Charge-Coupled Device</a></li>
+    <li class="backlink-item-wrap"><a href="Luminosity%20and%20Flux%20for%20-Instrumentations.html" class="backlink-item">Luminosity and Flux for -Instrumentations</a></li>
+    <li class="backlink-item-wrap"><a href="Other%20detectors.html" class="backlink-item">Other detectors</a></li>
+    <li class="backlink-item-wrap"><a href="Photoelectric%20absorption.html" class="backlink-item">Photoelectric absorption</a></li>
+    <li class="backlink-item-wrap"><a href="The%20p-n%20junction.html" class="backlink-item">The p-n junction</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Luminosity%20and%20Flux%20for%20-Instrumentations.html" class="backlink-item">Luminosity and Flux for -Instrumentations</a></li>
-    <li class="backlink-item-wrap"><a href="./Other%20detectors.html" class="backlink-item">Other detectors</a></li>
-    <li class="backlink-item-wrap"><a href="./Photoelectric%20absorption.html" class="backlink-item">Photoelectric absorption</a></li>
-    <li class="backlink-item-wrap"><a href="./The%20p-n%20junction.html" class="backlink-item">The p-n junction</a></li>
   </ul>
 </div>
+

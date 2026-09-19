@@ -2,7 +2,6 @@
 layout: "default"
 title: "Future ground-based optical"
 ---
-{% raw %}
 # Future ground-based optical interferometers
 
 planned and proposed instruments that push optical/IR interferometry to higher resolution, longer baselines, and broader science.
@@ -105,4 +104,3 @@ these motivate space-based alternatives.
 - [Hypertelescope](interf/Hypertelescope.html)
 - [Future space-based](interf/Future%20space-based.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

@@ -2,7 +2,6 @@
 layout: "default"
 title: "Heterodyne vs direct detection"
 ---
-{% raw %}
 # Heterodyne vs direct detection
 
 two fundamentally different ways to combine the signals from interferometer telescopes. **heterodyne** mixes the signal with a local oscillator to bring it down to a manageable frequency where it can be recorded and correlated electronically. **direct detection** combines the actual electromagnetic waves at a beam combiner. radio uses heterodyne (mostly); optical/IR uses direct detection.
@@ -100,7 +99,7 @@ $$\nu_{\rm IF}=\lvert \nu_{\rm RF}-\nu_{\rm LO}\rvert$$
 
 this also introduces the idea of **sidebands**: both upper and lower sky frequencies can map into the same IF unless the receiver selects or calibrates them. the phase is preserved only if the LO is stable, which is why connected arrays distribute coherent references and VLBI uses hydrogen masers.
 
-see [Downconversion of signals in radio interferometers](./Downconversion%20of%20signals%20in%20radio%20interferometers.html) for the full BookAI version.
+see [Downconversion of signals in radio interferometers](Downconversion%20of%20signals%20in%20radio%20interferometers.html) for the full BookAI version.
 
 ## scientific figure
 
@@ -112,26 +111,26 @@ source: local study diagram generated from the heterodyne identity.
 
 ## see also
 
-- [Aperture synthesis principle](./Aperture%20synthesis%20principle.html)
-- [Radio astronomy basics](./Radio%20astronomy%20basics.html)
-- [Radio interferometer architecture](./Radio%20interferometer%20architecture.html)
-- [Components of a modern interferometer](./Components%20of%20a%20modern%20interferometer.html)
-- [VLTI Very Large Telescope Interferometer](./VLTI%20Very%20Large%20Telescope%20Interferometer.html)
+- [Aperture synthesis principle](Aperture%20synthesis%20principle.html)
+- [Radio astronomy basics](Radio%20astronomy%20basics.html)
+- [Radio interferometer architecture](Radio%20interferometer%20architecture.html)
+- [Components of a modern interferometer](Components%20of%20a%20modern%20interferometer.html)
+- [VLTI Very Large Telescope Interferometer](VLTI%20Very%20Large%20Telescope%20Interferometer.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (10)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../DOnofrio%20Exam%20Retake%20-%20Radio%20vs%20Optical%20Physics%20and%20Michelson%20Synthesis.html" class="backlink-item">DOnofrio Exam Retake - Radio vs Optical Physics and Michelson Synthesis</a></li>
     <li class="backlink-item-wrap"><a href="../Downconversion%20of%20signals%20in%20radio%20interferometers.html" class="backlink-item">Downconversion of signals in radio interferometers</a></li>
-    <li class="backlink-item-wrap"><a href="./Downconversion%20of%20signals%20in%20radio%20interferometers.html" class="backlink-item">Downconversion of signals in radio interferometers</a></li>
     <li class="backlink-item-wrap"><a href="../Electromagnetic%20waves%20and%20photons.html" class="backlink-item">Electromagnetic waves and photons</a></li>
     <li class="backlink-item-wrap"><a href="../Michelson%20stellar%20interferometer.html" class="backlink-item">Michelson stellar interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="./Radio%20astronomy%20basics.html" class="backlink-item">Radio astronomy basics</a></li>
     <li class="backlink-item-wrap"><a href="../Radio%20astronomy%20basics.html" class="backlink-item">Radio astronomy basics</a></li>
     <li class="backlink-item-wrap"><a href="../Radio%20telescope%20components.html" class="backlink-item">Radio telescope components</a></li>
-    <li class="backlink-item-wrap"><a href="./Two-element%20correlator.html" class="backlink-item">Two-element correlator</a></li>
+    <li class="backlink-item-wrap"><a href="Downconversion%20of%20signals%20in%20radio%20interferometers.html" class="backlink-item">Downconversion of signals in radio interferometers</a></li>
+    <li class="backlink-item-wrap"><a href="Radio%20astronomy%20basics.html" class="backlink-item">Radio astronomy basics</a></li>
+    <li class="backlink-item-wrap"><a href="Two-element%20correlator.html" class="backlink-item">Two-element correlator</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

@@ -2,7 +2,6 @@
 layout: "default"
 title: "Math Numerical Methods exam rules"
 ---
-{% raw %}
 # Math Numerical Methods, exam rules
 
 the exam is a **written python practical**. I sit at a computer in a designated room for a fixed time slot, the prompt and the data files are released through a google drive, I write four scripts plus their plots, and upload the whole thing back to the drive before the deadline. nothing is allowed to be uploaded after the deadline.
@@ -68,17 +67,17 @@ so a bad-looking but correct plot loses points; a beautiful plot from wrong code
 
 ## see also
 
-- [Math Numerical Methods course intro](./Math%20Numerical%20Methods%20course%20intro.html)
+- [Math Numerical Methods course intro](Math%20Numerical%20Methods%20course%20intro.html)
 - [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html) — full topic map
-- [Numerical problem solving workflow](./Numerical%20problem%20solving%20workflow.html) — the meta-recipe inside one exercise
-{% endraw %}
+- [Numerical problem solving workflow](Numerical%20problem%20solving%20workflow.html) — the meta-recipe inside one exercise
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Math%20Numerical%20Methods%20course%20intro.html" class="backlink-item">Math Numerical Methods course intro</a></li>
-    <li class="backlink-item-wrap"><a href="./Math%20Numerical%20Methods%20equation%20sheet.html" class="backlink-item">Math Numerical Methods equation sheet</a></li>
+    <li class="backlink-item-wrap"><a href="Math%20Numerical%20Methods%20course%20intro.html" class="backlink-item">Math Numerical Methods course intro</a></li>
+    <li class="backlink-item-wrap"><a href="Math%20Numerical%20Methods%20equation%20sheet.html" class="backlink-item">Math Numerical Methods equation sheet</a></li>
+    <li class="backlink-item-wrap"><a href="Numerical%20problem%20solving%20workflow.html" class="backlink-item">Numerical problem solving workflow</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Numerical%20problem%20solving%20workflow.html" class="backlink-item">Numerical problem solving workflow</a></li>
   </ul>
 </div>
+

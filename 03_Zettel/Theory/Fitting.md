@@ -2,7 +2,6 @@
 layout: "default"
 title: "Fitting"
 ---
-{% raw %}
 We have a set of measurements that we want to compare with an astrophysical model
 	which is a function of several variables, also called **parameters**
 		we must determine which values of the parameters **better describe the data**
@@ -61,7 +60,7 @@ with:
 	variance: $V(\chi^2) = 2\nu$
 
 When the observed $\chi^2$ lies in the range $\nu \pm \sqrt{2\nu}$,
-	our best fit belongs to the set of **good fits**
+\tour best fit belongs to the set of **good fits**
 
 ---
 
@@ -116,12 +115,12 @@ this version has a known expected mean $C_\mu$ and variance $C_\sigma^2$
 
 ![xmm_epic_p5_img1.jpeg](../../assets/images/xmm_epic_p5_img1.jpeg)
 *Cash statistic (C-stat) vs Pearson $\chi^2$ confidence contour maps in the $(N_H, \Gamma)$ parameter plane for Poisson low-count data.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Astrostatistics.html" class="backlink-item">Astrostatistics</a></li>
+    <li class="backlink-item-wrap"><a href="Astrostatistics.html" class="backlink-item">Astrostatistics</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
   </ul>
 </div>
+

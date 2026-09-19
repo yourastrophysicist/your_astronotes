@@ -2,7 +2,6 @@
 layout: "default"
 title: "History of stellar classification"
 ---
-{% raw %}
 the OBAFGKM scheme didn't appear from nothing. it evolved over $\sim 80$ years of refinement, anchored in Padre Secchi's 1860s photographic plates and culminating in the MK system of 1953. a brief history.
 
 ## Padre Angelo Secchi (1818-1878)
@@ -67,25 +66,25 @@ Cecilia Payne's insight: **stars are essentially the same composition; the diver
 
 ## see also
 
-- [Why the Sequence OBAFGKM](./Why%20the%20Sequence%20OBAFGKM.html)
-- [Stellar spectra and spectral classification](./Stellar%20spectra%20and%20spectral%20classification.html)
-- [MK luminosity classes](./MK%20luminosity%20classes.html)
-- [Boltzmann equation in spectroscopy](./Boltzmann%20equation%20in%20spectroscopy.html)
-- [Saha ionisation equation](./Saha%20ionisation%20equation.html)
-- [Population of excited levels](./Population%20of%20excited%20levels.html)
-- [Hydrogen population vs T](./Hydrogen%20population%20vs%20T.html)
-- [Helium population vs T](./Helium%20population%20vs%20T.html)
-- [Calcium and CaII H+K](./Calcium%20and%20CaII%20H%2BK.html)
-{% endraw %}
+- [Why the Sequence OBAFGKM](Why%20the%20Sequence%20OBAFGKM.html)
+- [Stellar spectra and spectral classification](Stellar%20spectra%20and%20spectral%20classification.html)
+- [MK luminosity classes](MK%20luminosity%20classes.html)
+- [Boltzmann equation in spectroscopy](Boltzmann%20equation%20in%20spectroscopy.html)
+- [Saha ionisation equation](Saha%20ionisation%20equation.html)
+- [Population of excited levels](Population%20of%20excited%20levels.html)
+- [Hydrogen population vs T](Hydrogen%20population%20vs%20T.html)
+- [Helium population vs T](Helium%20population%20vs%20T.html)
+- [Calcium and CaII H+K](Calcium%20and%20CaII%20H%2BK.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (6)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="MK%20luminosity%20classes.html" class="backlink-item">MK luminosity classes</a></li>
+    <li class="backlink-item-wrap"><a href="Population%20of%20excited%20levels.html" class="backlink-item">Population of excited levels</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20spectral%20types%20OBAFGKM.html" class="backlink-item">Stellar spectral types OBAFGKM</a></li>
+    <li class="backlink-item-wrap"><a href="Why%20the%20Sequence%20OBAFGKM.html" class="backlink-item">Why the Sequence OBAFGKM</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./MK%20luminosity%20classes.html" class="backlink-item">MK luminosity classes</a></li>
-    <li class="backlink-item-wrap"><a href="./Population%20of%20excited%20levels.html" class="backlink-item">Population of excited levels</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20spectral%20types%20OBAFGKM.html" class="backlink-item">Stellar spectral types OBAFGKM</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Why%20the%20Sequence%20OBAFGKM.html" class="backlink-item">Why the Sequence OBAFGKM</a></li>
   </ul>
 </div>
+

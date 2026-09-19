@@ -2,7 +2,6 @@
 layout: "default"
 title: "Cooling curve"
 ---
-{% raw %}
 the **cooling curve** $\Lambda(T)$ is the cooling rate per particle pair as a function of temperature. plots reveal which physical mechanisms dominate at each $T$ and which features set timescales of cosmic gas processes.
 
 ## the definition
@@ -71,23 +70,23 @@ these dominate the cold ISM and molecular cloud cooling.
 
 ## see also
 
-- [Heating rate in HII regions](./Heating%20rate%20in%20HII%20regions.html)
-- [Cooling rate in HII regions](./Cooling%20rate%20in%20HII%20regions.html)
-- [Equilibrium temperature](./Equilibrium%20temperature.html)
-- [Forbidden lines](./Forbidden%20lines.html)
-- [Bremsstrahlung](./Bremsstrahlung.html)
-- [Photodissociation regions PDRs](./Photodissociation%20regions%20PDRs.html)
-- [Metallicity and chemical evolution](./Metallicity%20and%20chemical%20evolution.html)
-- [Galaxy clusters and overview of evolution](./Galaxy%20clusters%20and%20overview%20of%20evolution.html)
-- [Compton and Inverse Compton](./Compton%20and%20Inverse%20Compton.html)
-{% endraw %}
+- [Heating rate in HII regions](Heating%20rate%20in%20HII%20regions.html)
+- [Cooling rate in HII regions](Cooling%20rate%20in%20HII%20regions.html)
+- [Equilibrium temperature](Equilibrium%20temperature.html)
+- [Forbidden lines](Forbidden%20lines.html)
+- [Bremsstrahlung](Bremsstrahlung.html)
+- [Photodissociation regions PDRs](Photodissociation%20regions%20PDRs.html)
+- [Metallicity and chemical evolution](Metallicity%20and%20chemical%20evolution.html)
+- [Galaxy clusters and overview of evolution](Galaxy%20clusters%20and%20overview%20of%20evolution.html)
+- [Compton and Inverse Compton](Compton%20and%20Inverse%20Compton.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Cooling%20rate%20in%20HII%20regions.html" class="backlink-item">Cooling rate in HII regions</a></li>
+    <li class="backlink-item-wrap"><a href="Equilibrium%20temperature.html" class="backlink-item">Equilibrium temperature</a></li>
+    <li class="backlink-item-wrap"><a href="Heating%20rate%20in%20HII%20regions.html" class="backlink-item">Heating rate in HII regions</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Cooling%20rate%20in%20HII%20regions.html" class="backlink-item">Cooling rate in HII regions</a></li>
-    <li class="backlink-item-wrap"><a href="./Equilibrium%20temperature.html" class="backlink-item">Equilibrium temperature</a></li>
-    <li class="backlink-item-wrap"><a href="./Heating%20rate%20in%20HII%20regions.html" class="backlink-item">Heating rate in HII regions</a></li>
   </ul>
 </div>
+

@@ -2,7 +2,6 @@
 layout: "default"
 title: "Imaging artifacts"
 ---
-{% raw %}
 # Imaging artifacts
 
 the visual signatures of imperfect interferometric data, calibration, or deconvolution. recognizing artifacts is half of interpreting an interferometric image. each artifact has a distinct cause and a specific fix.
@@ -116,4 +115,3 @@ best practices:
 - [Dirty beam and dirty image](interf/Dirty%20beam%20and%20dirty%20image.html)
 - [Self-calibration](interf/Self-calibration.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

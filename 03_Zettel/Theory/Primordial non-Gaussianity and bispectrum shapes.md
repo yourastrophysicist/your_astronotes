@@ -2,7 +2,6 @@
 layout: "default"
 title: "Primordial non-Gaussianity and bispectrum shapes"
 ---
-{% raw %}
 # Primordial non-Gaussianity and bispectrum shapes
 
 > *how the triangular geometry of three-point correlators reveals the microphysics and particle interactions of the primordial universe.*
@@ -49,20 +48,19 @@ $$\langle \zeta_{\vec{k}_1}\zeta_{\vec{k}_2}\zeta_{\vec{k}_3} \rangle = (2\pi)^3
 
 * parent moc: [Cosmology_of_the_Early_Universe_MOC](../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html)
 * related zettels:
-  - [Maldacena consistency condition](./Maldacena%20consistency%20condition.html)
-  - [In-In formalism for cosmological correlators](./In-In%20formalism%20for%20cosmological%20correlators.html)
-  - [Delta-N formalism](./Delta-N%20formalism.html)
+  - [Maldacena consistency condition](Maldacena%20consistency%20condition.html)
+  - [In-In formalism for cosmological correlators](In-In%20formalism%20for%20cosmological%20correlators.html)
+  - [Delta-N formalism](Delta-N%20formalism.html)
   - [Part4_Advanced_Formalisms_and_Non_Gaussianity](../../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part4_Advanced_Formalisms_and_Non_Gaussianity.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
+  <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Bunch-Davies%20vacuum%20and%20mode%20functions.html" class="backlink-item">Bunch-Davies vacuum and mode functions</a></li>
+    <li class="backlink-item-wrap"><a href="Bunch-Davies%20vacuum%20and%20mode%20functions.html" class="backlink-item">Bunch-Davies vacuum and mode functions</a></li>
+    <li class="backlink-item-wrap"><a href="Delta-N%20formalism.html" class="backlink-item">Delta-N formalism</a></li>
+    <li class="backlink-item-wrap"><a href="In-In%20formalism%20for%20cosmological%20correlators.html" class="backlink-item">In-In formalism for cosmological correlators</a></li>
+    <li class="backlink-item-wrap"><a href="Maldacena%20consistency%20condition.html" class="backlink-item">Maldacena consistency condition</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html" class="backlink-item">Cosmology_of_the_Early_Universe_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Delta-N%20formalism.html" class="backlink-item">Delta-N formalism</a></li>
-    <li class="backlink-item-wrap"><a href="./In-In%20formalism%20for%20cosmological%20correlators.html" class="backlink-item">In-In formalism for cosmological correlators</a></li>
-    <li class="backlink-item-wrap"><a href="./Maldacena%20consistency%20condition.html" class="backlink-item">Maldacena consistency condition</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part4_Advanced_Formalisms_and_Non_Gaussianity.html" class="backlink-item">Part4_Advanced_Formalisms_and_Non_Gaussianity</a></li>
   </ul>
 </div>
+

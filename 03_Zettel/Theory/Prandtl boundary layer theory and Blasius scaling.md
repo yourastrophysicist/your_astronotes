@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Prandtl boundary layer theory and Blasius scaling"
-name: "Prandtl boundary layer theory and Blasius scaling"
-description: "boundary layer thickness scaling, matched asymptotic expansions, and the Blasius self-similar solution over a flat plate"
 ---
-{% raw %}
 Ludwig Prandtl (1904) resolved d'Alembert's paradox by recognizing that at high Reynolds numbers ($\text{Re} = U L / \nu \gg 1$), viscous dissipation is confined to a thin layer of thickness $\delta \ll L$ adjacent to solid boundaries.
 
 ## dimensional scaling of the boundary layer thickness
@@ -42,15 +39,15 @@ $$C_f = \frac{\tau_w}{\frac{1}{2}\rho U_\infty^2} = \frac{0.664}{\sqrt{\text{Re}
 
 - [Fluid_and_Plasma_Dynamics_MOC](../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html)
 - [Part2_Incompressible_and_Viscous_Flows](../../02_Literature/Lectures/Fluid_and_Plasma_Dynamics/Part2_Incompressible_and_Viscous_Flows.html)
-- [Hagen-Poiseuille pipe flow and viscous dissipation](./Hagen-Poiseuille%20pipe%20flow%20and%20viscous%20dissipation.html)
-- [Vorticity dynamics and Kelvin circulation theorem](./Vorticity%20dynamics%20and%20Kelvin%20circulation%20theorem.html)
-{% endraw %}
+- [Hagen-Poiseuille pipe flow and viscous dissipation](Hagen-Poiseuille%20pipe%20flow%20and%20viscous%20dissipation.html)
+- [Vorticity dynamics and Kelvin circulation theorem](Vorticity%20dynamics%20and%20Kelvin%20circulation%20theorem.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Chapman-Enskog%20expansion%20and%20Navier-Stokes%20derivation.html" class="backlink-item">Chapman-Enskog expansion and Navier-Stokes derivation</a></li>
+    <li class="backlink-item-wrap"><a href="Chapman-Enskog%20expansion%20and%20Navier-Stokes%20derivation.html" class="backlink-item">Chapman-Enskog expansion and Navier-Stokes derivation</a></li>
+    <li class="backlink-item-wrap"><a href="Hagen-Poiseuille%20pipe%20flow%20and%20viscous%20dissipation.html" class="backlink-item">Hagen-Poiseuille pipe flow and viscous dissipation</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Hagen-Poiseuille%20pipe%20flow%20and%20viscous%20dissipation.html" class="backlink-item">Hagen-Poiseuille pipe flow and viscous dissipation</a></li>
   </ul>
 </div>
+

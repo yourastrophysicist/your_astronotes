@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Diffuse interstellar bands and polycyclic aromatic hydrocarbons"
-name: "Diffuse interstellar bands and polycyclic aromatic hydrocarbons"
-description: "optical DIB absorption, fullerenes, mid-IR UIB emission, and PAH quantum stochastic heating"
 ---
-{% raw %}
 carbonaceous compounds in the interstellar medium manifest through distinct spectroscopic signatures spanning optical absorption to mid-infrared emission.
 
 ## diffuse interstellar bands (dibs)
@@ -33,15 +30,14 @@ PAH emission serves as an extinction-free tracer of star formation in galaxies.
 ## see also
 
 - [Astrophysics_of_the_Interstellar_Medium_MOC](../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html)
-- [Cardelli-Clayton-Mathis CCM extinction law](./Cardelli-Clayton-Mathis%20CCM%20extinction%20law.html)
+- [Cardelli-Clayton-Mathis CCM extinction law](Cardelli-Clayton-Mathis%20CCM%20extinction%20law.html)
 - [Carraro_05_Interstellar_Dust_and_Extinction](../../02_Literature/Lectures/Interstellar_Medium/Carraro_05_Interstellar_Dust_and_Extinction.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
+  <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Cardelli-Clayton-Mathis%20CCM%20extinction%20law.html" class="backlink-item">Cardelli-Clayton-Mathis CCM extinction law</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html" class="backlink-item">Astrophysics_of_the_Interstellar_Medium_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Cardelli-Clayton-Mathis%20CCM%20extinction%20law.html" class="backlink-item">Cardelli-Clayton-Mathis CCM extinction law</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Interstellar_Medium/Carraro_05_Interstellar_Dust_and_Extinction.html" class="backlink-item">Carraro_05_Interstellar_Dust_and_Extinction</a></li>
   </ul>
 </div>
+

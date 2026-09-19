@@ -2,7 +2,6 @@
 layout: "default"
 title: "Kolmogorov turbulence"
 ---
-{% raw %}
 # Kolmogorov turbulence
 
 the universal model of turbulent fluid flow in the inertial range. derived by Andrey Kolmogorov in 1941 from a simple dimensional argument about how energy cascades from large to small scales. its key prediction — the **5/3 power law** of the velocity structure function — applies to atmospheric refractive-index fluctuations and underwrites every model of seeing, scintillation, and adaptive optics.
@@ -103,26 +102,26 @@ these scalings are extensively verified observationally. they tell us why IR int
 
 ## see also
 
-- [Atmospheric turbulence overview](./Atmospheric%20turbulence%20overview.html)
-- [Structure function and correlation function](./Structure%20function%20and%20correlation%20function.html)
-- [Fried parameter $r_0$](./Fried%20parameter%20%24r_0%24.html)
-- [Adaptive optics](./Adaptive%20optics.html)
+- [Atmospheric turbulence overview](Atmospheric%20turbulence%20overview.html)
+- [Structure function and correlation function](Structure%20function%20and%20correlation%20function.html)
+- [Fried parameter $r_0$](Fried%20parameter%20%24r_0%24.html)
+- [Adaptive optics](Adaptive%20optics.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (11)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../Atmospheric%20turbulence%20overview.html" class="backlink-item">Atmospheric turbulence overview</a></li>
-    <li class="backlink-item-wrap"><a href="./Atmospheric%20turbulence%20overview.html" class="backlink-item">Atmospheric turbulence overview</a></li>
     <li class="backlink-item-wrap"><a href="../Fried%20parameter%20%24r_0%24.html" class="backlink-item">Fried parameter $r_0$</a></li>
-    <li class="backlink-item-wrap"><a href="./Fried%20parameter%20%24r_0%24.html" class="backlink-item">Fried parameter $r_0$</a></li>
-    <li class="backlink-item-wrap"><a href="./Frozen%20turbulence%20and%20Taylor%20hypothesis.html" class="backlink-item">Frozen turbulence and Taylor hypothesis</a></li>
     <li class="backlink-item-wrap"><a href="../Frozen%20turbulence%20and%20Taylor%20hypothesis.html" class="backlink-item">Frozen turbulence and Taylor hypothesis</a></li>
-    <li class="backlink-item-wrap"><a href="./Scintillation%20and%20twinkling.html" class="backlink-item">Scintillation and twinkling</a></li>
     <li class="backlink-item-wrap"><a href="../Scintillation%20and%20twinkling.html" class="backlink-item">Scintillation and twinkling</a></li>
-    <li class="backlink-item-wrap"><a href="./Structure%20function%20and%20correlation%20function.html" class="backlink-item">Structure function and correlation function</a></li>
     <li class="backlink-item-wrap"><a href="../Structure%20function%20and%20correlation%20function.html" class="backlink-item">Structure function and correlation function</a></li>
+    <li class="backlink-item-wrap"><a href="Atmospheric%20turbulence%20overview.html" class="backlink-item">Atmospheric turbulence overview</a></li>
+    <li class="backlink-item-wrap"><a href="Fried%20parameter%20%24r_0%24.html" class="backlink-item">Fried parameter $r_0$</a></li>
+    <li class="backlink-item-wrap"><a href="Frozen%20turbulence%20and%20Taylor%20hypothesis.html" class="backlink-item">Frozen turbulence and Taylor hypothesis</a></li>
+    <li class="backlink-item-wrap"><a href="Scintillation%20and%20twinkling.html" class="backlink-item">Scintillation and twinkling</a></li>
+    <li class="backlink-item-wrap"><a href="Structure%20function%20and%20correlation%20function.html" class="backlink-item">Structure function and correlation function</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

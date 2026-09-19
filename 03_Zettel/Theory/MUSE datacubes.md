@@ -2,10 +2,9 @@
 layout: "default"
 title: "MUSE datacubes"
 ---
-{% raw %}
 # muse datacubes
 
-up: [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html) · [Datacube reduction](./Datacube%20reduction.html)
+up: [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html) · [Datacube reduction](Datacube%20reduction.html)
 
 ## instrument characteristics
 
@@ -38,16 +37,17 @@ A typical reduced MUSE cube contains:
 
 ## connections
 
-- pipeline: [Datacube reduction](./Datacube%20reduction.html)
-- kinematics: [Ionized gas kinematics](./Ionized%20gas%20kinematics.html), [Stellar kinematics measurements](./Stellar%20kinematics%20measurements.html)
-{% endraw %}
+- pipeline: [Datacube reduction](Datacube%20reduction.html)
+- kinematics: [Ionized gas kinematics](Ionized%20gas%20kinematics.html), [Stellar kinematics measurements](Stellar%20kinematics%20measurements.html)
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
+  <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Datacube%20redshift%20measurement.html" class="backlink-item">Datacube redshift measurement</a></li>
+    <li class="backlink-item-wrap"><a href="Datacube%20reduction.html" class="backlink-item">Datacube reduction</a></li>
+    <li class="backlink-item-wrap"><a href="Integral-field%20spectroscopy%20IFU.html" class="backlink-item">Integral-field spectroscopy IFU</a></li>
+    <li class="backlink-item-wrap"><a href="Space%20and%20ground%20facilities%20relevant%20for%20OC.html" class="backlink-item">Space and ground facilities relevant for OC</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Datacube%20redshift%20measurement.html" class="backlink-item">Datacube redshift measurement</a></li>
-    <li class="backlink-item-wrap"><a href="./Datacube%20reduction.html" class="backlink-item">Datacube reduction</a></li>
-    <li class="backlink-item-wrap"><a href="./Space%20and%20ground%20facilities%20relevant%20for%20OC.html" class="backlink-item">Space and ground facilities relevant for OC</a></li>
   </ul>
 </div>
+

@@ -2,7 +2,6 @@
 layout: "default"
 title: "Equatorial system"
 ---
-{% raw %}
 if I want a coordinate system that does *not* depend on the observer or the time, I must hook into something that is fixed relative to the stars. the Earth's rotation axis is (almost) constant, so the **celestial pole** and **celestial equator** are fixed.
 
 reference plane: the **celestial equator** (the projection of the Earth's equator onto the celestial sphere).
@@ -82,10 +81,10 @@ equivalent statement: $\alpha = \Theta - h$. so a star is at the meridian (its h
 ## see also
 
 - [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Spherical_astronomy_complete](./Spherical_astronomy_complete.html)
-- [Earth coordinates](./Earth%20coordinates.html)
-- [Sidereal vs solar time](./Sidereal%20vs%20solar%20time.html)
-- [Alt-azimuth ↔ equatorial transformations](./Alt-azimuth%20%E2%86%94%20equatorial%20transformations.html)
+- [Spherical_astronomy_complete](Spherical_astronomy_complete.html)
+- [Earth coordinates](Earth%20coordinates.html)
+- [Sidereal vs solar time](Sidereal%20vs%20solar%20time.html)
+- [Alt-azimuth ↔ equatorial transformations](Alt-azimuth%20%E2%86%94%20equatorial%20transformations.html)
 - Culmination and rise/set
 
 ---
@@ -127,26 +126,26 @@ equivalent statement: $\alpha = \Theta - h$. so a star is at the meridian (its h
 
 ![obs_sph1-28.png](../../assets/images/obs_sph1-28.png)
 *Standard epochs (B1950, J2000.0) for equatorial catalogs.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (16)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Aberration%20of%20light.html" class="backlink-item">Aberration of light</a></li>
-    <li class="backlink-item-wrap"><a href="./Alt-azimuth%20equatorial%20transformations.html" class="backlink-item">Alt-azimuth equatorial transformations</a></li>
-    <li class="backlink-item-wrap"><a href="./Alt-azimuth%20%E2%86%94%20equatorial%20transformations.html" class="backlink-item">Alt-azimuth ↔ equatorial transformations</a></li>
+    <li class="backlink-item-wrap"><a href="Aberration%20of%20light.html" class="backlink-item">Aberration of light</a></li>
+    <li class="backlink-item-wrap"><a href="Alt-azimuth%20equatorial%20transformations.html" class="backlink-item">Alt-azimuth equatorial transformations</a></li>
+    <li class="backlink-item-wrap"><a href="Alt-azimuth%20%E2%86%94%20equatorial%20transformations.html" class="backlink-item">Alt-azimuth ↔ equatorial transformations</a></li>
+    <li class="backlink-item-wrap"><a href="Culmination%20and%20rise-set.html" class="backlink-item">Culmination and rise-set</a></li>
+    <li class="backlink-item-wrap"><a href="Earth%20coordinates.html" class="backlink-item">Earth coordinates</a></li>
+    <li class="backlink-item-wrap"><a href="Ecliptic%20system.html" class="backlink-item">Ecliptic system</a></li>
+    <li class="backlink-item-wrap"><a href="Galactic%20coordinate%20system.html" class="backlink-item">Galactic coordinate system</a></li>
+    <li class="backlink-item-wrap"><a href="Horizontal%20alt-azimuth%20system.html" class="backlink-item">Horizontal alt-azimuth system</a></li>
+    <li class="backlink-item-wrap"><a href="Precession%20and%20nutation.html" class="backlink-item">Precession and nutation</a></li>
+    <li class="backlink-item-wrap"><a href="Precession%20nutation%20aberration%20parallax.html" class="backlink-item">Precession nutation aberration parallax</a></li>
+    <li class="backlink-item-wrap"><a href="Sidereal%20vs%20solar%20time.html" class="backlink-item">Sidereal vs solar time</a></li>
+    <li class="backlink-item-wrap"><a href="Spherical_astronomy_complete.html" class="backlink-item">Spherical_astronomy_complete</a></li>
+    <li class="backlink-item-wrap"><a href="Time%20keeping%20in%20astronomy.html" class="backlink-item">Time keeping in astronomy</a></li>
     <li class="backlink-item-wrap"><a href="interf/Atmospheric%20refraction.html" class="backlink-item">Atmospheric refraction</a></li>
-    <li class="backlink-item-wrap"><a href="./Culmination%20and%20rise-set.html" class="backlink-item">Culmination and rise-set</a></li>
-    <li class="backlink-item-wrap"><a href="./Earth%20coordinates.html" class="backlink-item">Earth coordinates</a></li>
-    <li class="backlink-item-wrap"><a href="./Ecliptic%20system.html" class="backlink-item">Ecliptic system</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Galactic%20coordinate%20system.html" class="backlink-item">Galactic coordinate system</a></li>
-    <li class="backlink-item-wrap"><a href="./Horizontal%20alt-azimuth%20system.html" class="backlink-item">Horizontal alt-azimuth system</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Precession%20and%20nutation.html" class="backlink-item">Precession and nutation</a></li>
-    <li class="backlink-item-wrap"><a href="./Precession%20nutation%20aberration%20parallax.html" class="backlink-item">Precession nutation aberration parallax</a></li>
-    <li class="backlink-item-wrap"><a href="./Sidereal%20vs%20solar%20time.html" class="backlink-item">Sidereal vs solar time</a></li>
-    <li class="backlink-item-wrap"><a href="./Spherical_astronomy_complete.html" class="backlink-item">Spherical_astronomy_complete</a></li>
-    <li class="backlink-item-wrap"><a href="./Time%20keeping%20in%20astronomy.html" class="backlink-item">Time keeping in astronomy</a></li>
   </ul>
 </div>
+

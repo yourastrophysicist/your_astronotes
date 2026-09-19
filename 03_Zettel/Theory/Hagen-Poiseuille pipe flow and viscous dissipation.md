@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Hagen-Poiseuille pipe flow and viscous dissipation"
-name: "Hagen-Poiseuille pipe flow and viscous dissipation"
-description: "exact laminar solution of the Navier-Stokes equations in cylindrical geometry and the R to the fourth power volumetric scaling"
 ---
-{% raw %}
 Hagen-Poiseuille flow provides one of the classical exact analytical solutions to the incompressible Navier-Stokes equations, describing steady laminar flow through a straight circular pipe driven by an axial pressure gradient.
 
 ## momentum balance in cylindrical coordinates
@@ -40,16 +37,16 @@ the volumetric throughput scales with the fourth power of the pipe radius $R^4$.
 
 - [Fluid_and_Plasma_Dynamics_MOC](../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html)
 - [Part2_Incompressible_and_Viscous_Flows](../../02_Literature/Lectures/Fluid_and_Plasma_Dynamics/Part2_Incompressible_and_Viscous_Flows.html)
-- [Chapman-Enskog expansion and Navier-Stokes derivation](./Chapman-Enskog%20expansion%20and%20Navier-Stokes%20derivation.html)
-- [Prandtl boundary layer theory and Blasius scaling](./Prandtl%20boundary%20layer%20theory%20and%20Blasius%20scaling.html)
-{% endraw %}
+- [Chapman-Enskog expansion and Navier-Stokes derivation](Chapman-Enskog%20expansion%20and%20Navier-Stokes%20derivation.html)
+- [Prandtl boundary layer theory and Blasius scaling](Prandtl%20boundary%20layer%20theory%20and%20Blasius%20scaling.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Chapman-Enskog%20expansion%20and%20Navier-Stokes%20derivation.html" class="backlink-item">Chapman-Enskog expansion and Navier-Stokes derivation</a></li>
+    <li class="backlink-item-wrap"><a href="Chapman-Enskog%20expansion%20and%20Navier-Stokes%20derivation.html" class="backlink-item">Chapman-Enskog expansion and Navier-Stokes derivation</a></li>
+    <li class="backlink-item-wrap"><a href="Parker%20solar%20wind%20and%20transonic%20critical%20point.html" class="backlink-item">Parker solar wind and transonic critical point</a></li>
+    <li class="backlink-item-wrap"><a href="Prandtl%20boundary%20layer%20theory%20and%20Blasius%20scaling.html" class="backlink-item">Prandtl boundary layer theory and Blasius scaling</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Parker%20solar%20wind%20and%20transonic%20critical%20point.html" class="backlink-item">Parker solar wind and transonic critical point</a></li>
-    <li class="backlink-item-wrap"><a href="./Prandtl%20boundary%20layer%20theory%20and%20Blasius%20scaling.html" class="backlink-item">Prandtl boundary layer theory and Blasius scaling</a></li>
   </ul>
 </div>
+

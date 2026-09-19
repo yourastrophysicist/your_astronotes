@@ -2,7 +2,6 @@
 layout: "default"
 title: "Stellar velocity from Doppler shift"
 ---
-{% raw %}
 a star's **radial velocity** $v_r$ (line-of-sight velocity) shifts every spectral line by the Doppler factor $\Delta\lambda/\lambda = v_r/c$. measuring this shift relative to laboratory wavelengths gives $v_r$, the precision of which underpins exoplanet detection, binary stars, and Galactic dynamics.
 
 ## the formula
@@ -77,24 +76,24 @@ at high $z$, the term "stellar velocity" is replaced by **redshift**. but veloci
 
 ## see also
 
-- [Spectroscopic redshift from line shifts](./Spectroscopic%20redshift%20from%20line%20shifts.html)
-- [Wavelength calibration](./Wavelength%20calibration.html)
-- [Echelle spectroscopy](./Echelle%20spectroscopy.html)
-- [Rotational broadening](./Rotational%20broadening.html)
-- [Stellar v sin i from line shape](./Stellar%20v%20sin%20i%20from%20line%20shape.html)
-- [Velocity dispersion from line width](./Velocity%20dispersion%20from%20line%20width.html)
-- [Annual stellar parallax](./Annual%20stellar%20parallax.html)
-- [Macroturbulence](./Macroturbulence.html)
-{% endraw %}
+- [Spectroscopic redshift from line shifts](Spectroscopic%20redshift%20from%20line%20shifts.html)
+- [Wavelength calibration](Wavelength%20calibration.html)
+- [Echelle spectroscopy](Echelle%20spectroscopy.html)
+- [Rotational broadening](Rotational%20broadening.html)
+- [Stellar v sin i from line shape](Stellar%20v%20sin%20i%20from%20line%20shape.html)
+- [Velocity dispersion from line width](Velocity%20dispersion%20from%20line%20width.html)
+- [Annual stellar parallax](Annual%20stellar%20parallax.html)
+- [Macroturbulence](Macroturbulence.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (6)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Rotational%20broadening.html" class="backlink-item">Rotational broadening</a></li>
+    <li class="backlink-item-wrap"><a href="Spectroscopic%20redshift%20from%20line%20shifts.html" class="backlink-item">Spectroscopic redshift from line shifts</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20v%20sin%20i%20from%20line%20shape.html" class="backlink-item">Stellar v sin i from line shape</a></li>
+    <li class="backlink-item-wrap"><a href="Velocity%20dispersion%20from%20line%20width.html" class="backlink-item">Velocity dispersion from line width</a></li>
+    <li class="backlink-item-wrap"><a href="Wavelength%20calibration.html" class="backlink-item">Wavelength calibration</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Rotational%20broadening.html" class="backlink-item">Rotational broadening</a></li>
-    <li class="backlink-item-wrap"><a href="./Spectroscopic%20redshift%20from%20line%20shifts.html" class="backlink-item">Spectroscopic redshift from line shifts</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20v%20sin%20i%20from%20line%20shape.html" class="backlink-item">Stellar v sin i from line shape</a></li>
-    <li class="backlink-item-wrap"><a href="./Velocity%20dispersion%20from%20line%20width.html" class="backlink-item">Velocity dispersion from line width</a></li>
-    <li class="backlink-item-wrap"><a href="./Wavelength%20calibration.html" class="backlink-item">Wavelength calibration</a></li>
   </ul>
 </div>
+

@@ -2,7 +2,6 @@
 layout: "default"
 title: "Speckle imaging algorithms"
 ---
-{% raw %}
 # Speckle imaging algorithms
 
 algorithms that recover *full* (amplitude + phase) image information from speckle data. unlike basic Labeyrie speckle interferometry (which gives only $\lvert \tilde O\rvert^2$), these recover an actual image, including asymmetries.
@@ -33,7 +32,7 @@ introduced by Lohmann, Weigelt, and Wirnitzer (1983). compute the **bispectrum**
 
 $$B(\mathbf u, \mathbf v) = \langle \tilde I(\mathbf u) \tilde I(\mathbf v) \tilde I^*(\mathbf u + \mathbf v) \rangle$$
 
-this is the third-order spatial spectrum. atmospheric phases cancel (just like in [closure phase](./Phase%20closure.html)), so the bispectrum is *unbiased* by atmospheric noise.
+this is the third-order spatial spectrum. atmospheric phases cancel (just like in [closure phase](Phase%20closure.html)), so the bispectrum is *unbiased* by atmospheric noise.
 
 the bispectrum encodes the source phase up to a global piston. modern algorithms (BSMEM, SQUEEZE) reconstruct images directly from bispectra.
 
@@ -85,25 +84,25 @@ steps 4 and 7 are the computationally intense parts. modern packages handle this
 
 ## see also
 
-- [Speckle interferometry](./Speckle%20interferometry.html)
-- [Theory of speckle interferometry](./Theory%20of%20speckle%20interferometry.html)
-- [Aperture masking](./Aperture%20masking.html)
-- [Bispectrum and triple correlation](./Bispectrum%20and%20triple%20correlation.html)
-- [Phase closure](./Phase%20closure.html)
+- [Speckle interferometry](Speckle%20interferometry.html)
+- [Theory of speckle interferometry](Theory%20of%20speckle%20interferometry.html)
+- [Aperture masking](Aperture%20masking.html)
+- [Bispectrum and triple correlation](Bispectrum%20and%20triple%20correlation.html)
+- [Phase closure](Phase%20closure.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (9)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Aperture%20masking.html" class="backlink-item">Aperture masking</a></li>
     <li class="backlink-item-wrap"><a href="../Aperture%20masking.html" class="backlink-item">Aperture masking</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../Bispectrum%20and%20triple%20correlation.html" class="backlink-item">Bispectrum and triple correlation</a></li>
-    <li class="backlink-item-wrap"><a href="./Bispectrum%20and%20triple%20correlation.html" class="backlink-item">Bispectrum and triple correlation</a></li>
-    <li class="backlink-item-wrap"><a href="./Speckle%20interferometry.html" class="backlink-item">Speckle interferometry</a></li>
     <li class="backlink-item-wrap"><a href="../Speckle%20interferometry.html" class="backlink-item">Speckle interferometry</a></li>
     <li class="backlink-item-wrap"><a href="../Theory%20of%20speckle%20interferometry.html" class="backlink-item">Theory of speckle interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="./Theory%20of%20speckle%20interferometry.html" class="backlink-item">Theory of speckle interferometry</a></li>
+    <li class="backlink-item-wrap"><a href="Aperture%20masking.html" class="backlink-item">Aperture masking</a></li>
+    <li class="backlink-item-wrap"><a href="Bispectrum%20and%20triple%20correlation.html" class="backlink-item">Bispectrum and triple correlation</a></li>
+    <li class="backlink-item-wrap"><a href="Speckle%20interferometry.html" class="backlink-item">Speckle interferometry</a></li>
+    <li class="backlink-item-wrap"><a href="Theory%20of%20speckle%20interferometry.html" class="backlink-item">Theory of speckle interferometry</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

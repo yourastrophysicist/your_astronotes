@@ -2,7 +2,6 @@
 layout: "default"
 title: "Scipy and astropy quick reference"
 ---
-{% raw %}
 # Scipy and astropy quick reference
 
 the two ecosystems that turn raw numpy + matplotlib into a proper astrophysics toolkit.
@@ -182,16 +181,16 @@ plt.rcParams.update({'font.size': 12, 'figure.dpi': 100})
 
 ## see also
 
-- [Numpy arrays vs Python lists](./Numpy%20arrays%20vs%20Python%20lists.html)
-- [Matplotlib plotting essentials](./Matplotlib%20plotting%20essentials.html)
-- [Pandas for tabular astrophysics data](./Pandas%20for%20tabular%20astrophysics%20data.html)
+- [Numpy arrays vs Python lists](Numpy%20arrays%20vs%20Python%20lists.html)
+- [Matplotlib plotting essentials](Matplotlib%20plotting%20essentials.html)
+- [Pandas for tabular astrophysics data](Pandas%20for%20tabular%20astrophysics%20data.html)
 - [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Pandas%20for%20tabular%20astrophysics%20data.html" class="backlink-item">Pandas for tabular astrophysics data</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Pandas%20for%20tabular%20astrophysics%20data.html" class="backlink-item">Pandas for tabular astrophysics data</a></li>
   </ul>
 </div>
+

@@ -2,7 +2,6 @@
 layout: "default"
 title: "Spatial coherence"
 ---
-{% raw %}
 # Spatial coherence
 
 the *correlation between the wave at two points in space*. spatial coherence is what makes interference fringes possible across a baseline. it is set by the angular size of the source: smaller sources are more coherent over a wider baseline. this is the physical fact behind Van Cittert-Zernike.
@@ -93,27 +92,27 @@ three:
 
 ## see also
 
-- [Coherent vs incoherent imaging](./Coherent%20vs%20incoherent%20imaging.html)
-- [Temporal coherence](./Temporal%20coherence.html)
-- [Coherence function and visibility](./Coherence%20function%20and%20visibility.html)
-- [Van Cittert-Zernike theorem](./Van%20Cittert-Zernike%20theorem.html)
-- [Fringe visibility and contrast](./Fringe%20visibility%20and%20contrast.html)
+- [Coherent vs incoherent imaging](Coherent%20vs%20incoherent%20imaging.html)
+- [Temporal coherence](Temporal%20coherence.html)
+- [Coherence function and visibility](Coherence%20function%20and%20visibility.html)
+- [Van Cittert-Zernike theorem](Van%20Cittert-Zernike%20theorem.html)
+- [Fringe visibility and contrast](Fringe%20visibility%20and%20contrast.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (11)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../Coherence%20function%20and%20visibility.html" class="backlink-item">Coherence function and visibility</a></li>
-    <li class="backlink-item-wrap"><a href="./Coherence%20function%20and%20visibility.html" class="backlink-item">Coherence function and visibility</a></li>
-    <li class="backlink-item-wrap"><a href="./Coherent%20vs%20incoherent%20imaging.html" class="backlink-item">Coherent vs incoherent imaging</a></li>
     <li class="backlink-item-wrap"><a href="../Coherent%20vs%20incoherent%20imaging.html" class="backlink-item">Coherent vs incoherent imaging</a></li>
     <li class="backlink-item-wrap"><a href="../Fringe%20visibility%20and%20contrast.html" class="backlink-item">Fringe visibility and contrast</a></li>
-    <li class="backlink-item-wrap"><a href="./Fringe%20visibility%20and%20contrast.html" class="backlink-item">Fringe visibility and contrast</a></li>
-    <li class="backlink-item-wrap"><a href="./Temporal%20coherence.html" class="backlink-item">Temporal coherence</a></li>
     <li class="backlink-item-wrap"><a href="../Temporal%20coherence.html" class="backlink-item">Temporal coherence</a></li>
-    <li class="backlink-item-wrap"><a href="./Van%20Cittert-Zernike%20theorem.html" class="backlink-item">Van Cittert-Zernike theorem</a></li>
     <li class="backlink-item-wrap"><a href="../Van%20Cittert-Zernike%20theorem.html" class="backlink-item">Van Cittert-Zernike theorem</a></li>
+    <li class="backlink-item-wrap"><a href="Coherence%20function%20and%20visibility.html" class="backlink-item">Coherence function and visibility</a></li>
+    <li class="backlink-item-wrap"><a href="Coherent%20vs%20incoherent%20imaging.html" class="backlink-item">Coherent vs incoherent imaging</a></li>
+    <li class="backlink-item-wrap"><a href="Fringe%20visibility%20and%20contrast.html" class="backlink-item">Fringe visibility and contrast</a></li>
+    <li class="backlink-item-wrap"><a href="Temporal%20coherence.html" class="backlink-item">Temporal coherence</a></li>
+    <li class="backlink-item-wrap"><a href="Van%20Cittert-Zernike%20theorem.html" class="backlink-item">Van Cittert-Zernike theorem</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

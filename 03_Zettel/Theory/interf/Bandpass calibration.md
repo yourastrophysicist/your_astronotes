@@ -2,7 +2,6 @@
 layout: "default"
 title: "Bandpass calibration"
 ---
-{% raw %}
 # Bandpass calibration
 
 flatten the frequency response of each antenna and the receiver chain. the first step (after flagging) in radio data reduction. essential for any spectral-line work and important for continuum.
@@ -96,24 +95,24 @@ a common cause of bad images: incorrect bandpass leaves residual spectral struct
 
 ## see also
 
-- [Calibration overview](./Calibration%20overview.html)
-- [Flux calibration](./Flux%20calibration.html)
-- [Phase referencing](./Phase%20referencing.html)
-- [Self-calibration](./Self-calibration.html)
+- [Calibration overview](Calibration%20overview.html)
+- [Flux calibration](Flux%20calibration.html)
+- [Phase referencing](Phase%20referencing.html)
+- [Self-calibration](Self-calibration.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (9)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../Calibration%20overview.html" class="backlink-item">Calibration overview</a></li>
-    <li class="backlink-item-wrap"><a href="./Calibration%20overview.html" class="backlink-item">Calibration overview</a></li>
     <li class="backlink-item-wrap"><a href="../Flux%20calibration%20in%20radio.html" class="backlink-item">Flux calibration in radio</a></li>
-    <li class="backlink-item-wrap"><a href="./Flux%20calibration%20in%20radio.html" class="backlink-item">Flux calibration in radio</a></li>
-    <li class="backlink-item-wrap"><a href="./Phase%20referencing.html" class="backlink-item">Phase referencing</a></li>
-    <li class="backlink-item-wrap"><a href="./Polarization%20in%20interferometry.html" class="backlink-item">Polarization in interferometry</a></li>
     <li class="backlink-item-wrap"><a href="../Steps%20in%20radio%20interferometric%20observations.html" class="backlink-item">Steps in radio interferometric observations</a></li>
-    <li class="backlink-item-wrap"><a href="./Steps%20in%20radio%20interferometric%20observations.html" class="backlink-item">Steps in radio interferometric observations</a></li>
+    <li class="backlink-item-wrap"><a href="Calibration%20overview.html" class="backlink-item">Calibration overview</a></li>
+    <li class="backlink-item-wrap"><a href="Flux%20calibration%20in%20radio.html" class="backlink-item">Flux calibration in radio</a></li>
+    <li class="backlink-item-wrap"><a href="Phase%20referencing.html" class="backlink-item">Phase referencing</a></li>
+    <li class="backlink-item-wrap"><a href="Polarization%20in%20interferometry.html" class="backlink-item">Polarization in interferometry</a></li>
+    <li class="backlink-item-wrap"><a href="Steps%20in%20radio%20interferometric%20observations.html" class="backlink-item">Steps in radio interferometric observations</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

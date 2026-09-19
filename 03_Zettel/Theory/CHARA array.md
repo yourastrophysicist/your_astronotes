@@ -2,7 +2,6 @@
 layout: "default"
 title: "CHARA array"
 ---
-{% raw %}
 # CHARA array
 
 the **Center for High Angular Resolution Astronomy** array on Mt. Wilson, California. six 1m telescopes, baselines 33m to 330m, the workhorse for stellar surface imaging at sub-mas resolution. operated by Georgia State University since 2002.
@@ -124,4 +123,3 @@ modern interferometric science papers often combine CHARA's high-resolution imag
 - [Stellar surface imaging](interf/Stellar%20surface%20imaging.html)
 - [Stellar diameters and limb darkening](interf/Stellar%20diameters%20and%20limb%20darkening.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

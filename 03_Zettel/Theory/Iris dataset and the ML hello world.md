@@ -2,7 +2,6 @@
 layout: "default"
 title: "Iris dataset and the ML hello world"
 ---
-{% raw %}
 # Iris dataset and the ML hello world
 
 the iris dataset is the canonical first ML example. it is small, clean, classifies cleanly with simple methods, and has been used to teach machine learning since Fisher introduced it in 1936.
@@ -141,18 +140,18 @@ for a one-chapter introduction in a numerical methods course, iris is exactly ri
 
 ## see also
 
-- [Decision tree classifier](./Decision%20tree%20classifier.html)
-- [What is machine learning](./What%20is%20machine%20learning.html)
-- [Interpretability vs accuracy in ML](./Interpretability%20vs%20accuracy%20in%20ML.html)
+- [Decision tree classifier](Decision%20tree%20classifier.html)
+- [What is machine learning](What%20is%20machine%20learning.html)
+- [Interpretability vs accuracy in ML](Interpretability%20vs%20accuracy%20in%20ML.html)
 - [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Decision%20tree%20classifier.html" class="backlink-item">Decision tree classifier</a></li>
-    <li class="backlink-item-wrap"><a href="./Interpretability%20vs%20accuracy%20in%20ML.html" class="backlink-item">Interpretability vs accuracy in ML</a></li>
+    <li class="backlink-item-wrap"><a href="Decision%20tree%20classifier.html" class="backlink-item">Decision tree classifier</a></li>
+    <li class="backlink-item-wrap"><a href="Interpretability%20vs%20accuracy%20in%20ML.html" class="backlink-item">Interpretability vs accuracy in ML</a></li>
+    <li class="backlink-item-wrap"><a href="What%20is%20machine%20learning.html" class="backlink-item">What is machine learning</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./What%20is%20machine%20learning.html" class="backlink-item">What is machine learning</a></li>
   </ul>
 </div>
+

@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Grad-Shafranov equation and axisymmetric tokamak equilibria"
-name: "Grad-Shafranov equation and axisymmetric tokamak equilibria"
-description: "2D axisymmetric MHD equilibrium, poloidal flux function, elliptic Delta star operator, and tokamak magnetic surfaces"
 ---
-{% raw %}
 the Grad-Shafranov equation is the fundamental 2D non-linear elliptic partial differential equation describing ideal magnetohydrostatic equilibrium ($\nabla p = \mathbf{j} \times \mathbf{B}$) in axisymmetric toroidal geometry.
 
 ## magnetic field representation
@@ -39,15 +36,15 @@ specifying the two thermodynamic profile functions $p(\psi)$ and $F(\psi)$ along
 
 - [Fluid_and_Plasma_Dynamics_MOC](../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html)
 - [Part7_Magnetohydrodynamics_Equilibrium_and_Waves](../../02_Literature/Lectures/Fluid_and_Plasma_Dynamics/Part7_Magnetohydrodynamics_Equilibrium_and_Waves.html)
-- [Tokamak magnetic topology and neoclassical banana orbits](./Tokamak%20magnetic%20topology%20and%20neoclassical%20banana%20orbits.html)
-- [Cylindrical Z-pinch equilibrium and Bennett relation](./Cylindrical%20Z-pinch%20equilibrium%20and%20Bennett%20relation.html)
-{% endraw %}
+- [Tokamak magnetic topology and neoclassical banana orbits](Tokamak%20magnetic%20topology%20and%20neoclassical%20banana%20orbits.html)
+- [Cylindrical Z-pinch equilibrium and Bennett relation](Cylindrical%20Z-pinch%20equilibrium%20and%20Bennett%20relation.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Cylindrical%20Z-pinch%20equilibrium%20and%20Bennett%20relation.html" class="backlink-item">Cylindrical Z-pinch equilibrium and Bennett relation</a></li>
+    <li class="backlink-item-wrap"><a href="Cylindrical%20Z-pinch%20equilibrium%20and%20Bennett%20relation.html" class="backlink-item">Cylindrical Z-pinch equilibrium and Bennett relation</a></li>
+    <li class="backlink-item-wrap"><a href="Tokamak%20magnetic%20topology%20and%20neoclassical%20banana%20orbits.html" class="backlink-item">Tokamak magnetic topology and neoclassical banana orbits</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Tokamak%20magnetic%20topology%20and%20neoclassical%20banana%20orbits.html" class="backlink-item">Tokamak magnetic topology and neoclassical banana orbits</a></li>
   </ul>
 </div>
+

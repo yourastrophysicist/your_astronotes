@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "AGN taxonomy unified model and feedback"
-name: "AGN taxonomy unified model and feedback"
-description: "accretion mechanics, the Antonucci-Miller unified model, SMBH-host coevolution, and quasar versus radio mode feedback"
 ---
-{% raw %}
 Active Galactic Nuclei (AGN) are powered by the accretion of matter onto supermassive black holes ($M_{\text{BH}} \sim 10^6 - 10^{10} M_\odot$) at galactic centers, converting gravitational potential energy into radiation with radiative efficiency $\eta \approx 0.06 - 0.42$ ($L_{\text{bol}} = \eta \dot{M} c^2$).
 
 ## the eddington limit and black hole growth
@@ -21,7 +18,7 @@ $$M_{\text{BH}}(t) = M_0 \exp\left( \frac{t}{\tau_{\text{Salpeter}}} \right), \q
 
 all radio-quiet AGNs share an identical physical engine, with observed observational differences arising primarily from the viewing angle $\theta$ relative to an obscuring, dusty molecular torus:
 - **Type 1 AGN (Seyfert 1, Quasars)**: viewed along pole (face-on, $\theta < \theta_{\text{torus}}$). direct line of sight to the central engine reveals both the high-velocity Broad-Line Region (BLR: FWHM $> 2000\text{ km s}^{-1}$) and the extended Narrow-Line Region (NLR: FWHM $\sim 500\text{ km s}^{-1}$).
-- **Type 2 AGN (Seyfert 2)**: viewed edge-on through the obscuring dusty torus ($	heta > \theta_{\text{torus}}$). the central continuum and BLR are obscured; only narrow forbidden lines from the extended NLR are visible in direct light (broad lines appear only in polarized scattered light).
+- **Type 2 AGN (Seyfert 2)**: viewed edge-on through the obscuring dusty torus ($\theta > \theta_{\text{torus}}$). the central continuum and BLR are obscured; only narrow forbidden lines from the extended NLR are visible in direct light (broad lines appear only in polarized scattered light).
 
 ## smbh-host coevolution and feedback
 
@@ -40,9 +37,9 @@ because the energy released by black hole growth ($E_{\text{BH}} = \eta M_{\text
 
 - [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
 - [Pablo_04_Nuclear_activity_in_galaxies](../../02_Literature/Lectures/Observational_Cosmology/Pablo_04_Nuclear_activity_in_galaxies.html)
-- [BPT emission line diagnostic diagram](./BPT%20emission%20line%20diagnostic%20diagram.html)
+- [BPT emission line diagnostic diagram](BPT%20emission%20line%20diagnostic%20diagram.html)
 - [AGN and supermassive black holes](interf/AGN%20and%20supermassive%20black%20holes.html)
-- [Stellar mass function](./Stellar%20mass%20function.html)
+- [Stellar mass function](Stellar%20mass%20function.html)
 
 ---
 
@@ -62,13 +59,13 @@ because the energy released by black hole growth ($E_{\text{BH}} = \eta M_{\text
 
 ![obscos_lec2_p50.png](../../assets/images/obscos_lec2_p50.png)
 *Soltan argument: integrated quasar light energy density accounting for the local supermassive black hole mass density $\rho_\bullet$.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./BPT%20emission%20line%20diagnostic%20diagram.html" class="backlink-item">BPT emission line diagnostic diagram</a></li>
-    <li class="backlink-item-wrap"><a href="./Cosmic%20dawn%20and%20high-redshift%20galaxies%20with%20JWST.html" class="backlink-item">Cosmic dawn and high-redshift galaxies with JWST</a></li>
+    <li class="backlink-item-wrap"><a href="BPT%20emission%20line%20diagnostic%20diagram.html" class="backlink-item">BPT emission line diagnostic diagram</a></li>
+    <li class="backlink-item-wrap"><a href="Cosmic%20dawn%20and%20high-redshift%20galaxies%20with%20JWST.html" class="backlink-item">Cosmic dawn and high-redshift galaxies with JWST</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
   </ul>
 </div>
+

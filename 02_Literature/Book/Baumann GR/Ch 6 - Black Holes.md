@@ -2,7 +2,6 @@
 layout: "default"
 title: "Ch 6 - Black Holes"
 ---
-{% raw %}
 # Baumann Ch 6, Black Holes
 
 up: [Baumann GR](./Baumann%20GR.html) · [General_Relativity_MOC](../../../04_Atlas/General_Relativity_MOC.html)
@@ -261,19 +260,14 @@ if i had to compress chapter 6 into a paragraph for the oral:
 - Hawking radiation (extension)
 - previous: [Ch 5 - The Einstein Equation](./Ch%205%20-%20The%20Einstein%20Equation.html)
 - next: [Ch 7 - Cosmology](./Ch%207%20-%20Cosmology.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (17)</h4>
+  <h4 class="backlinks-title">Linked References (14)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Baumann%20GR.html" class="backlink-item">Baumann GR</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Birkhoff%20theorem.html" class="backlink-item">Birkhoff theorem</a></li>
-    <li class="backlink-item-wrap"><a href="./Ch%205%20-%20The%20Einstein%20Equation.html" class="backlink-item">Ch 5 - The Einstein Equation</a></li>
-    <li class="backlink-item-wrap"><a href="./Ch%207%20-%20Cosmology.html" class="backlink-item">Ch 7 - Cosmology</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Circular%20orbits%20in%20Schwarzschild.html" class="backlink-item">Circular orbits in Schwarzschild</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Eddington-Finkelstein%20and%20Kruskal.html" class="backlink-item">Eddington-Finkelstein and Kruskal</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Effective%20potential%20approach.html" class="backlink-item">Effective potential approach</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Light%20deflection.html" class="backlink-item">Light deflection</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Perihelion%20precession.html" class="backlink-item">Perihelion precession</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Photon%20sphere.html" class="backlink-item">Photon sphere</a></li>
@@ -283,5 +277,7 @@ if i had to compress chapter 6 into a paragraph for the oral:
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Schwarzschild%20effective%20potential.html" class="backlink-item">Schwarzschild effective potential</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Schwarzschild%20horizon.html" class="backlink-item">Schwarzschild horizon</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Schwarzschild%20metric.html" class="backlink-item">Schwarzschild metric</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
   </ul>
 </div>
+

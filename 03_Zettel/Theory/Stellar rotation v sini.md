@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Stellar rotation v sini"
-name: "Stellar rotation v sini"
-description: "how stellar rotation broadens spectral lines and how the projected rotational velocity is measured"
 ---
-{% raw %}
 # stellar rotation v sin i
 
 if a star rotates with equatorial velocity $v$, different parts of the visible hemisphere have different line-of-sight velocity components, with the approaching limb contributing blueshifted absorption and the receding limb contributing redshifted absorption. the integrated profile is the convolution of the local profile with a **rotation kernel** spanning $\pm v\sin i$, where $i$ is the inclination of the rotation axis to the line of sight. spectroscopy gives only the projected combination $v\sin i$; the actual equatorial $v$ requires an independent inclination measurement.
@@ -43,32 +40,32 @@ the dramatic drop near spectral type F (the "Kraft break") is due to the onset o
 
 ## degeneracy with macroturbulence
 
-at moderate $v\sin i$ (5-20 km/s) the rotation kernel can be confused with **macroturbulence**, large-scale velocity fields with comparable broadening but a different functional form (radial-tangential profile). a Fourier or careful profile fit is needed to disentangle them. microturbulence (see [Microturbulence](./Microturbulence.html)) is different: it operates within the line-formation region rather than across the disk.
+at moderate $v\sin i$ (5-20 km/s) the rotation kernel can be confused with **macroturbulence**, large-scale velocity fields with comparable broadening but a different functional form (radial-tangential profile). a Fourier or careful profile fit is needed to disentangle them. microturbulence (see [Microturbulence](Microturbulence.html)) is different: it operates within the line-formation region rather than across the disk.
 
 ## why it matters
 
 - $v\sin i$ traces stellar evolution: angular momentum loss on the main sequence, conservation on the giant branch.
 - it sets a floor on RV precision and abundance precision.
 - combined with rotational period from photometry (spots), $v\sin i$ gives stellar inclination.
-- in clusters, rotation distributions trace age and binary history; in stellar populations, fast rotators may produce extended turn-offs in the [Color-magnitude diagrams of clusters](./Color-magnitude%20diagrams%20of%20clusters.html).
+- in clusters, rotation distributions trace age and binary history; in stellar populations, fast rotators may produce extended turn-offs in the [Color-magnitude diagrams of clusters](Color-magnitude%20diagrams%20of%20clusters.html).
 
 ## see also
 - [Atmospheric parameters Teff log g feh vmicro](interf/Atmospheric%20parameters%20Teff%20log%20g%20feh%20vmicro.html)
-- [Microturbulence](./Microturbulence.html)
-- [Radial velocity from stellar spectra](./Radial%20velocity%20from%20stellar%20spectra.html)
-- [Equivalent width](./Equivalent%20width.html)
-- [Stellar atmosphere structure](./Stellar%20atmosphere%20structure.html)
+- [Microturbulence](Microturbulence.html)
+- [Radial velocity from stellar spectra](Radial%20velocity%20from%20stellar%20spectra.html)
+- [Equivalent width](Equivalent%20width.html)
+- [Stellar atmosphere structure](Stellar%20atmosphere%20structure.html)
 - [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (6)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Atmospheric%20parameters%20Teff%20log%20g%20feh%20vmicro.html" class="backlink-item">Atmospheric parameters Teff log g feh vmicro</a></li>
+    <li class="backlink-item-wrap"><a href="Atmospheric%20parameters%20Teff%20log%20g%20feh%20vmicro.html" class="backlink-item">Atmospheric parameters Teff log g feh vmicro</a></li>
+    <li class="backlink-item-wrap"><a href="Radial%20velocity%20from%20stellar%20spectra.html" class="backlink-item">Radial velocity from stellar spectra</a></li>
+    <li class="backlink-item-wrap"><a href="Splitting%20of%20the%20upper%20MS%20in%20young%20clusters.html" class="backlink-item">Splitting of the upper MS in young clusters</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20rotation%20effects%20on%20CMD.html" class="backlink-item">Stellar rotation effects on CMD</a></li>
     <li class="backlink-item-wrap"><a href="interf/Atmospheric%20parameters%20Teff%20log%20g%20feh%20vmicro.html" class="backlink-item">Atmospheric parameters Teff log g feh vmicro</a></li>
-    <li class="backlink-item-wrap"><a href="./Radial%20velocity%20from%20stellar%20spectra.html" class="backlink-item">Radial velocity from stellar spectra</a></li>
-    <li class="backlink-item-wrap"><a href="./Splitting%20of%20the%20upper%20MS%20in%20young%20clusters.html" class="backlink-item">Splitting of the upper MS in young clusters</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20rotation%20effects%20on%20CMD.html" class="backlink-item">Stellar rotation effects on CMD</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

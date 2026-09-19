@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "H-alpha SFR tracer"
-name: "H-alpha SFR tracer"
-description: "Nearly instantaneous star formation rate tracer measuring Case B hydrogen recombination emission powered by Lyman-continuum photons from massive O stars."
 ---
-{% raw %}
 the **$\mathrm{H}\alpha$ recombination line** ($\lambda_{\rm rest} = 6562.8$ Å in air, $n = 3 \to 2$) is the premier nebular emission tracer of recent, unobscured-to-moderately obscured star formation. Because ionizing Lyman-continuum photons are emitted almost exclusively by the most massive, short-lived stars ($M \gtrsim 15\text{--}20\,M_\odot$), $\mathrm{H}\alpha$ probes star formation on timescales of $\tau \lesssim 10$ Myr—an order of magnitude shorter than the ultraviolet continuum.
 
 ---
@@ -71,44 +68,40 @@ because $\mathrm{H}\alpha$ shifts into the near-infrared at $z > 0.4$ (and into 
 
 - [Observational_Astrophysics_MOC](../../04_Atlas/Observational_Astrophysics_MOC.html)
 - [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
-- [SFR tracers from population synthesis](./SFR%20tracers%20from%20population%20synthesis.html)
-- [UV SFR tracer](./UV%20SFR%20tracer.html)
-- [IR SFR tracer](./IR%20SFR%20tracer.html)
-- [Dust attenuation in synthetic populations](./Dust%20attenuation%20in%20synthetic%20populations.html)
-- [Initial mass function](./Initial%20mass%20function.html)
-- [Single stellar population SSP](./Single%20stellar%20population%20SSP.html)
-- [SPS code families](./SPS%20code%20families.html)
-- [Star formation history of a population](./Star%20formation%20history%20of%20a%20population.html)
-{% endraw %}
+- [SFR tracers from population synthesis](SFR%20tracers%20from%20population%20synthesis.html)
+- [UV SFR tracer](UV%20SFR%20tracer.html)
+- [IR SFR tracer](IR%20SFR%20tracer.html)
+- [Dust attenuation in synthetic populations](Dust%20attenuation%20in%20synthetic%20populations.html)
+- [Initial mass function](Initial%20mass%20function.html)
+- [Single stellar population SSP](Single%20stellar%20population%20SSP.html)
+- [SPS code families](SPS%20code%20families.html)
+- [Star formation history of a population](Star%20formation%20history%20of%20a%20population.html)
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (26)</h4>
+  <h4 class="backlinks-title">Linked References (22)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Balmer%20decrement.html" class="backlink-item">Balmer decrement</a></li>
-    <li class="backlink-item-wrap"><a href="./Case%20A%20vs%20Case%20B%20recombination.html" class="backlink-item">Case A vs Case B recombination</a></li>
-    <li class="backlink-item-wrap"><a href="./Dust%20attenuation%20and%20extinction%20curves.html" class="backlink-item">Dust attenuation and extinction curves</a></li>
-    <li class="backlink-item-wrap"><a href="./Dust%20attenuation%20in%20synthetic%20populations.html" class="backlink-item">Dust attenuation in synthetic populations</a></li>
-    <li class="backlink-item-wrap"><a href="./Dust%20extinction%20in%20nebulae.html" class="backlink-item">Dust extinction in nebulae</a></li>
-    <li class="backlink-item-wrap"><a href="./Galaxy%20time%20scales.html" class="backlink-item">Galaxy time scales</a></li>
-    <li class="backlink-item-wrap"><a href="./H%20II%20region%20spectroscopy.html" class="backlink-item">H II region spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="./Hydrogen%20spectral%20series.html" class="backlink-item">Hydrogen spectral series</a></li>
-    <li class="backlink-item-wrap"><a href="./IR%20SFR%20tracer.html" class="backlink-item">IR SFR tracer</a></li>
-    <li class="backlink-item-wrap"><a href="./Initial%20mass%20function.html" class="backlink-item">Initial mass function</a></li>
-    <li class="backlink-item-wrap"><a href="./Lyman%20alpha%20SFR%20tracer.html" class="backlink-item">Lyman alpha SFR tracer</a></li>
-    <li class="backlink-item-wrap"><a href="./Madau%20plot.html" class="backlink-item">Madau plot</a></li>
-    <li class="backlink-item-wrap"><a href="./OII%20SFR%20tracer.html" class="backlink-item">OII SFR tracer</a></li>
+    <li class="backlink-item-wrap"><a href="Balmer%20decrement.html" class="backlink-item">Balmer decrement</a></li>
+    <li class="backlink-item-wrap"><a href="Case%20A%20vs%20Case%20B%20recombination.html" class="backlink-item">Case A vs Case B recombination</a></li>
+    <li class="backlink-item-wrap"><a href="Dust%20attenuation%20and%20extinction%20curves.html" class="backlink-item">Dust attenuation and extinction curves</a></li>
+    <li class="backlink-item-wrap"><a href="Dust%20attenuation%20in%20synthetic%20populations.html" class="backlink-item">Dust attenuation in synthetic populations</a></li>
+    <li class="backlink-item-wrap"><a href="Dust%20extinction%20in%20nebulae.html" class="backlink-item">Dust extinction in nebulae</a></li>
+    <li class="backlink-item-wrap"><a href="Galaxy%20time%20scales.html" class="backlink-item">Galaxy time scales</a></li>
+    <li class="backlink-item-wrap"><a href="Hydrogen%20spectral%20series.html" class="backlink-item">Hydrogen spectral series</a></li>
+    <li class="backlink-item-wrap"><a href="IR%20SFR%20tracer.html" class="backlink-item">IR SFR tracer</a></li>
+    <li class="backlink-item-wrap"><a href="Initial%20mass%20function.html" class="backlink-item">Initial mass function</a></li>
+    <li class="backlink-item-wrap"><a href="Lyman%20alpha%20SFR%20tracer.html" class="backlink-item">Lyman alpha SFR tracer</a></li>
+    <li class="backlink-item-wrap"><a href="OII%20SFR%20tracer.html" class="backlink-item">OII SFR tracer</a></li>
+    <li class="backlink-item-wrap"><a href="Optically%20thin%20recombination%20lines.html" class="backlink-item">Optically thin recombination lines</a></li>
+    <li class="backlink-item-wrap"><a href="Other%20SFR%20tracer%20lines.html" class="backlink-item">Other SFR tracer lines</a></li>
+    <li class="backlink-item-wrap"><a href="Recombination%20line%20emissivity.html" class="backlink-item">Recombination line emissivity</a></li>
+    <li class="backlink-item-wrap"><a href="Rydberg-Ritz%20formula.html" class="backlink-item">Rydberg-Ritz formula</a></li>
+    <li class="backlink-item-wrap"><a href="SFR%20tracer%20comparison.html" class="backlink-item">SFR tracer comparison</a></li>
+    <li class="backlink-item-wrap"><a href="SFR%20tracers%20from%20population%20synthesis.html" class="backlink-item">SFR tracers from population synthesis</a></li>
+    <li class="backlink-item-wrap"><a href="SPS%20code%20families.html" class="backlink-item">SPS code families</a></li>
+    <li class="backlink-item-wrap"><a href="Star%20formation%20history%20parametrizations.html" class="backlink-item">Star formation history parametrizations</a></li>
+    <li class="backlink-item-wrap"><a href="Star%20formation%20rate%20and%20sSFR.html" class="backlink-item">Star formation rate and sSFR</a></li>
+    <li class="backlink-item-wrap"><a href="UV%20SFR%20tracer.html" class="backlink-item">UV SFR tracer</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Optically%20thin%20recombination%20lines.html" class="backlink-item">Optically thin recombination lines</a></li>
-    <li class="backlink-item-wrap"><a href="./Other%20SFR%20tracer%20lines.html" class="backlink-item">Other SFR tracer lines</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html" class="backlink-item">Pablo_03_Star_formation_in_galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Observational_Cosmology/Pablo_04_Nuclear_activity_in_galaxies.html" class="backlink-item">Pablo_04_Nuclear_activity_in_galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="./Recombination%20line%20emissivity.html" class="backlink-item">Recombination line emissivity</a></li>
-    <li class="backlink-item-wrap"><a href="./Rydberg-Ritz%20formula.html" class="backlink-item">Rydberg-Ritz formula</a></li>
-    <li class="backlink-item-wrap"><a href="./SFR%20tracer%20comparison.html" class="backlink-item">SFR tracer comparison</a></li>
-    <li class="backlink-item-wrap"><a href="./SFR%20tracers%20from%20population%20synthesis.html" class="backlink-item">SFR tracers from population synthesis</a></li>
-    <li class="backlink-item-wrap"><a href="./SPS%20code%20families.html" class="backlink-item">SPS code families</a></li>
-    <li class="backlink-item-wrap"><a href="./Star%20formation%20history%20parametrizations.html" class="backlink-item">Star formation history parametrizations</a></li>
-    <li class="backlink-item-wrap"><a href="./Star%20formation%20rate%20and%20sSFR.html" class="backlink-item">Star formation rate and sSFR</a></li>
-    <li class="backlink-item-wrap"><a href="./UV%20SFR%20tracer.html" class="backlink-item">UV SFR tracer</a></li>
   </ul>
 </div>
+

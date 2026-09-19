@@ -2,7 +2,6 @@
 layout: "default"
 title: "Equation of state and density scaling"
 ---
-{% raw %}
 a cosmic fluid's **equation of state** $p = w\rho$ specifies the pressure relative to its energy density. combined with the continuity equation, it determines how density scales with expansion: $\rho \propto a^{-3(1+w)}$.
 
 ## the equation of state parameter
@@ -74,14 +73,14 @@ modern dark-energy models try to constrain $w(z)$ observationally (e.g. via BAO,
 
 ## see also
 
-- [Continuity equation](./Continuity%20equation.html)
-- [Friedmann equations](./Friedmann%20equations.html)
-- [Cosmic eras](./Cosmic%20eras.html)
-- [Matter radiation equality](./Matter%20radiation%20equality.html)
-- [Cosmological constant](./Cosmological%20constant.html)
-- [Stress-energy tensor](./Stress-energy%20tensor.html)
-- [FLRW metric](./FLRW%20metric.html)
-- [Cosmic_inventory_overview](./Cosmic_inventory_overview.html)
+- [Continuity equation](Continuity%20equation.html)
+- [Friedmann equations](Friedmann%20equations.html)
+- [Cosmic eras](Cosmic%20eras.html)
+- [Matter radiation equality](Matter%20radiation%20equality.html)
+- [Cosmological constant](Cosmological%20constant.html)
+- [Stress-energy tensor](Stress-energy%20tensor.html)
+- [FLRW metric](FLRW%20metric.html)
+- [Cosmic_inventory_overview](Cosmic_inventory_overview.html)
 - [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
 - [Ch 7 - Cosmology](../../02_Literature/Book/Baumann%20GR/Ch%207%20-%20Cosmology.html)
 
@@ -91,21 +90,20 @@ modern dark-energy models try to constrain $w(z)$ observationally (e.g. via BAO,
 
 ![gr_q19_solution.png](../../assets/images/gr_q19_solution.png)
 *Question 19 Oral Exam Model Solution: Spatially flat universe ($k=0$) with single fluid $p = w\rho$, scale factor expansion law $a(t) \propto t^{\frac{2}{3(1+w)}}$, matter-dominated ($a \propto t^{2/3}$), radiation-dominated ($a \propto t^{1/2}$), and de Sitter ($a \propto e^{Ht}$) regimes.*
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (11)</h4>
+  <h4 class="backlinks-title">Linked References (10)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Book/Baumann%20GR/Ch%207%20-%20Cosmology.html" class="backlink-item">Ch 7 - Cosmology</a></li>
-    <li class="backlink-item-wrap"><a href="./Continuity%20equation.html" class="backlink-item">Continuity equation</a></li>
-    <li class="backlink-item-wrap"><a href="./Cosmic%20eras.html" class="backlink-item">Cosmic eras</a></li>
-    <li class="backlink-item-wrap"><a href="./Cosmological%20constant.html" class="backlink-item">Cosmological constant</a></li>
-    <li class="backlink-item-wrap"><a href="./FLRW%20metric.html" class="backlink-item">FLRW metric</a></li>
-    <li class="backlink-item-wrap"><a href="./Friedmann%20equations.html" class="backlink-item">Friedmann equations</a></li>
-    <li class="backlink-item-wrap"><a href="./GR%20Friedmann%20with%20Lambda.html" class="backlink-item">GR Friedmann with Lambda</a></li>
+    <li class="backlink-item-wrap"><a href="Continuity%20equation.html" class="backlink-item">Continuity equation</a></li>
+    <li class="backlink-item-wrap"><a href="Cosmic%20eras.html" class="backlink-item">Cosmic eras</a></li>
+    <li class="backlink-item-wrap"><a href="Cosmological%20constant.html" class="backlink-item">Cosmological constant</a></li>
+    <li class="backlink-item-wrap"><a href="FLRW%20metric.html" class="backlink-item">FLRW metric</a></li>
+    <li class="backlink-item-wrap"><a href="Friedmann%20equations.html" class="backlink-item">Friedmann equations</a></li>
+    <li class="backlink-item-wrap"><a href="GR%20Friedmann%20with%20Lambda.html" class="backlink-item">GR Friedmann with Lambda</a></li>
+    <li class="backlink-item-wrap"><a href="Matter%20radiation%20equality.html" class="backlink-item">Matter radiation equality</a></li>
+    <li class="backlink-item-wrap"><a href="Matter%20vs%20radiation%20density%20scaling.html" class="backlink-item">Matter vs radiation density scaling</a></li>
+    <li class="backlink-item-wrap"><a href="Stress-energy%20tensor.html" class="backlink-item">Stress-energy tensor</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Matter%20radiation%20equality.html" class="backlink-item">Matter radiation equality</a></li>
-    <li class="backlink-item-wrap"><a href="./Matter%20vs%20radiation%20density%20scaling.html" class="backlink-item">Matter vs radiation density scaling</a></li>
-    <li class="backlink-item-wrap"><a href="./Stress-energy%20tensor.html" class="backlink-item">Stress-energy tensor</a></li>
   </ul>
 </div>
+

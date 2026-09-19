@@ -2,7 +2,6 @@
 layout: "default"
 title: "Forbidden vs permitted vs semiforbidden transitions"
 ---
-{% raw %}
 a tier list of atomic transitions by their Einstein $A$ coefficients (radiative decay rates), driven by which selection rules they satisfy.
 
 ## the three tiers
@@ -56,15 +55,15 @@ so the entire framework of nebular diagnostics ($T_e$, $n_e$, abundances) hinges
 
 ## see also
 
-- [Selection rules](./Selection%20rules.html)
-- [Atomic term symbols](./Atomic%20term%20symbols.html)
-- [Russell-Saunders LS coupling](./Russell-Saunders%20LS%20coupling.html)
-- [jj coupling](./jj%20coupling.html)
-- [Forbidden lines](./Forbidden%20lines.html)
-- [OIII forbidden lines](./OIII%20forbidden%20lines.html)
-- [SII forbidden lines](./SII%20forbidden%20lines.html)
-- [Forbidden line diagnostics](./Forbidden%20line%20diagnostics.html)
-- [Critical density](./Critical%20density.html)
+- [Selection rules](Selection%20rules.html)
+- [Atomic term symbols](Atomic%20term%20symbols.html)
+- [Russell-Saunders LS coupling](Russell-Saunders%20LS%20coupling.html)
+- [jj coupling](jj%20coupling.html)
+- [Forbidden lines](Forbidden%20lines.html)
+- [OIII forbidden lines](OIII%20forbidden%20lines.html)
+- [SII forbidden lines](SII%20forbidden%20lines.html)
+- [Forbidden line diagnostics](Forbidden%20line%20diagnostics.html)
+- [Critical density](Critical%20density.html)
 
 ---
 
@@ -72,17 +71,17 @@ so the entire framework of nebular diagnostics ($T_e$, $n_e$, abundances) hinges
 
 ![spec_theory_p62.png](../../assets/images/spec_theory_p62.png)
 *Transition probabilities: E1 permitted ($A_{ki} \sim 10^7-10^9\,{\rm s}^{-1}$), M1 magnetic dipole ($A_{ki} \sim 10^{-2}-10^2\,{\rm s}^{-1}$), and E2 electric quadrupole ($A_{ki} \sim 10^{-4}-10^0\,{\rm s}^{-1}$) forbidden transitions.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (7)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./AGN%20spectroscopy.html" class="backlink-item">AGN spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="./Absorption%20coefficient%20and%20oscillator%20strength.html" class="backlink-item">Absorption coefficient and oscillator strength</a></li>
+    <li class="backlink-item-wrap"><a href="AGN%20spectroscopy.html" class="backlink-item">AGN spectroscopy</a></li>
+    <li class="backlink-item-wrap"><a href="Absorption%20coefficient%20and%20oscillator%20strength.html" class="backlink-item">Absorption coefficient and oscillator strength</a></li>
+    <li class="backlink-item-wrap"><a href="Atomic%20term%20symbols.html" class="backlink-item">Atomic term symbols</a></li>
+    <li class="backlink-item-wrap"><a href="Forbidden%20lines.html" class="backlink-item">Forbidden lines</a></li>
+    <li class="backlink-item-wrap"><a href="Selection%20rules.html" class="backlink-item">Selection rules</a></li>
+    <li class="backlink-item-wrap"><a href="jj%20coupling.html" class="backlink-item">jj coupling</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Atomic%20term%20symbols.html" class="backlink-item">Atomic term symbols</a></li>
-    <li class="backlink-item-wrap"><a href="./Forbidden%20lines.html" class="backlink-item">Forbidden lines</a></li>
-    <li class="backlink-item-wrap"><a href="./Selection%20rules.html" class="backlink-item">Selection rules</a></li>
-    <li class="backlink-item-wrap"><a href="./jj%20coupling.html" class="backlink-item">jj coupling</a></li>
   </ul>
 </div>
+

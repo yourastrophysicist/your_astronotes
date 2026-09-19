@@ -2,8 +2,7 @@
 layout: "default"
 title: "Laboratory Exercise - Star Centroiding and Aperture Photometry Pipeline"
 ---
-{% raw %}
-# Laboratory Exercise ? Star Centroiding and Aperture Photometry Pipeline
+# Laboratory Exercise — Star Centroiding and Aperture Photometry Pipeline
 
 Protocol for locating stars, measuring centroids, and extracting aperture photometry across an observing time series.
 
@@ -59,13 +58,11 @@ for f_path in calibrated_science_files:
 - [Star Centroiding via Marginal Profiles and 2D Gaussian Fitting](../Computational/Star%20Centroiding%20via%20Marginal%20Profiles%20and%202D%20Gaussian%20Fitting.html)
 - [Aperture Photometry and Optimal Aperture Selection](../Observations/Aperture%20Photometry%20and%20Optimal%20Aperture%20Selection.html)
 - [Curve of Growth in Stellar Photometry](../Observations/Curve%20of%20Growth%20in%20Stellar%20Photometry.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
+  <h4 class="backlinks-title">Linked References (1)</h4>
   <ul class="backlinks-list">
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2004%20-%20Stellar%20Centroiding%20and%20Coordinate%20Tracking.html" class="backlink-item">Malavolta 04 - Stellar Centroiding and Coordinate Tracking</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2005%20-%20Local%20Background%20Subtraction%20and%20Aperture%20Photometry.html" class="backlink-item">Malavolta 05 - Local Background Subtraction and Aperture Photometry</a></li>
   </ul>
 </div>
+

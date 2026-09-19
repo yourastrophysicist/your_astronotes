@@ -2,7 +2,6 @@
 layout: "default"
 title: "Lloyd mirror"
 ---
-{% raw %}
 # Lloyd's mirror
 
 the simplest of all classical interferometers. **a single mirror** at grazing incidence, with a point source nearby. the source and its mirror image act as two coherent virtual sources, producing Young-like fringes.
@@ -78,4 +77,3 @@ Lloyd's mirror has a modern descendant: in atomic physics, a "dipole mirror" ref
 - [Fresnel biprism](interf/Fresnel%20biprism.html)
 - [Newton's rings](interf/Newton%27s%20rings.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

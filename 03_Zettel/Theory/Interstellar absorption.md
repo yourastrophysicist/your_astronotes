@@ -2,7 +2,6 @@
 layout: "default"
 title: "Interstellar absorption"
 ---
-{% raw %}
 space between the stars is not empty: it is filled with gas and **interstellar dust grains**. dust particles absorb and scatter stellar photons, causing starlight to appear dimmer (**interstellar extinction**) and redder (**interstellar reddening**). if extinction is not properly accounted for, distances calculated from standard candles will be vastly overestimated.
 
 ![radiative-57.png](../../assets/images/radiative-57.png)
@@ -111,11 +110,11 @@ because the main sequence has a distinctive non-linear curve on the $(U-B)$ vs $
 ## see also
 
 - [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Magnitudes and photometric systems](./Magnitudes%20and%20photometric%20systems.html)
-- [Electromagnetic radiation basics](./Electromagnetic%20radiation%20basics.html)
-- [Interstellar medium components and gas cycle](./Interstellar%20medium%20components%20and%20gas%20cycle.html)
-- [Milky Way structure](./Milky%20Way%20structure.html)
-- [Parallax and standard candles](./Parallax%20and%20standard%20candles.html)
+- [Magnitudes and photometric systems](Magnitudes%20and%20photometric%20systems.html)
+- [Electromagnetic radiation basics](Electromagnetic%20radiation%20basics.html)
+- [Interstellar medium components and gas cycle](Interstellar%20medium%20components%20and%20gas%20cycle.html)
+- [Milky Way structure](Milky%20Way%20structure.html)
+- [Parallax and standard candles](Parallax%20and%20standard%20candles.html)
 
 ---
 
@@ -156,25 +155,25 @@ because the main sequence has a distinctive non-linear curve on the $(U-B)$ vs $
 
 ![obs_rad-092.png](../../assets/images/obs_rad-092.png)
 *Summary of dust extinction corrections in observational astronomy.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (15)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Atmospheric%20extinction.html" class="backlink-item">Atmospheric extinction</a></li>
+    <li class="backlink-item-wrap"><a href="Atmospheric%20extinction.html" class="backlink-item">Atmospheric extinction</a></li>
+    <li class="backlink-item-wrap"><a href="Color%20indices.html" class="backlink-item">Color indices</a></li>
+    <li class="backlink-item-wrap"><a href="Distance%20modulus.html" class="backlink-item">Distance modulus</a></li>
+    <li class="backlink-item-wrap"><a href="Dust%20extinction%20in%20nebulae.html" class="backlink-item">Dust extinction in nebulae</a></li>
+    <li class="backlink-item-wrap"><a href="Extinction%20law%20and%20Rv.html" class="backlink-item">Extinction law and Rv</a></li>
+    <li class="backlink-item-wrap"><a href="Galactic%20Center.html" class="backlink-item">Galactic Center</a></li>
+    <li class="backlink-item-wrap"><a href="Interstellar%20medium%20components%20and%20gas%20cycle.html" class="backlink-item">Interstellar medium components and gas cycle</a></li>
+    <li class="backlink-item-wrap"><a href="Interstellar%20reddening%20and%20the%20reddening%20vector.html" class="backlink-item">Interstellar reddening and the reddening vector</a></li>
+    <li class="backlink-item-wrap"><a href="Magnitudes%20and%20photometric%20systems.html" class="backlink-item">Magnitudes and photometric systems</a></li>
+    <li class="backlink-item-wrap"><a href="Sodium%20population%20vs%20T.html" class="backlink-item">Sodium population vs T</a></li>
+    <li class="backlink-item-wrap"><a href="Spectral%20energy%20distributions.html" class="backlink-item">Spectral energy distributions</a></li>
     <li class="backlink-item-wrap"><a href="interf/Atmospheric%20extinction.html" class="backlink-item">Atmospheric extinction</a></li>
-    <li class="backlink-item-wrap"><a href="./Color%20indices.html" class="backlink-item">Color indices</a></li>
-    <li class="backlink-item-wrap"><a href="./Distance%20modulus.html" class="backlink-item">Distance modulus</a></li>
-    <li class="backlink-item-wrap"><a href="./Dust%20extinction%20in%20nebulae.html" class="backlink-item">Dust extinction in nebulae</a></li>
-    <li class="backlink-item-wrap"><a href="./Extinction%20law%20and%20Rv.html" class="backlink-item">Extinction law and Rv</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Galactic%20Center.html" class="backlink-item">Galactic Center</a></li>
-    <li class="backlink-item-wrap"><a href="./Interstellar%20medium%20components%20and%20gas%20cycle.html" class="backlink-item">Interstellar medium components and gas cycle</a></li>
-    <li class="backlink-item-wrap"><a href="./Interstellar%20reddening%20and%20the%20reddening%20vector.html" class="backlink-item">Interstellar reddening and the reddening vector</a></li>
-    <li class="backlink-item-wrap"><a href="./Magnitudes%20and%20photometric%20systems.html" class="backlink-item">Magnitudes and photometric systems</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Sodium%20population%20vs%20T.html" class="backlink-item">Sodium population vs T</a></li>
-    <li class="backlink-item-wrap"><a href="./Spectral%20energy%20distributions.html" class="backlink-item">Spectral energy distributions</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

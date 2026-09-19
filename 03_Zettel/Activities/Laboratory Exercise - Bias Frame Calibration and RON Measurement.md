@@ -2,8 +2,7 @@
 layout: "default"
 title: "Laboratory Exercise - Bias Frame Calibration and RON Measurement"
 ---
-{% raw %}
-# Laboratory Exercise ? Bias Frame Calibration and RON Measurement
+# Laboratory Exercise — Bias Frame Calibration and RON Measurement
 
 Practical laboratory protocol for calibrating CCD bias frames, measuring electronic readout noise, and determining detector gain.
 
@@ -65,13 +64,12 @@ print(f"Readout Noise in Physical Units: {ron_electrons:.3f} e- rms")
 - [Bias Frame and Electronic Offset](../Observations/Bias%20Frame%20and%20Electronic%20Offset.html)
 - [Janesick Photon Transfer Method for Gain and Readout Noise](../Observations/Janesick%20Photon%20Transfer%20Method%20for%20Gain%20and%20Readout%20Noise.html)
 - [Malavolta 01 - Bias Analysis and Detector Calibration](../../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2001%20-%20Bias%20Analysis%20and%20Detector%20Calibration.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
+  <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../Observations/Bias%20Frame%20and%20Electronic%20Offset.html" class="backlink-item">Bias Frame and Electronic Offset</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2001%20-%20Bias%20Analysis%20and%20Detector%20Calibration.html" class="backlink-item">Malavolta 01 - Bias Analysis and Detector Calibration</a></li>
+    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
   </ul>
 </div>
+

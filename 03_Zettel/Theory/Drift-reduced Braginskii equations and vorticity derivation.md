@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Drift-reduced Braginskii equations and vorticity derivation"
-name: "Drift-reduced Braginskii equations and vorticity derivation"
-description: "drift ordering, perpendicular velocity decomposition, and the derivation of the drift-reduced plasma vorticity equation"
 ---
-{% raw %}
 the drift-reduced Braginskii equations model low-frequency boundary plasma turbulence in tokamaks by filtering out fast compressional Alfvén waves while retaining drift-wave microinstabilities.
 
 ## drift ordering
@@ -48,15 +45,15 @@ vorticity grows when magnetic curvature drives charge separation that cannot be 
 
 - [Fluid_and_Plasma_Dynamics_MOC](../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html)
 - [Part6_Two_Fluid_Theory_Transport_and_Microinstabilities](../../02_Literature/Lectures/Fluid_and_Plasma_Dynamics/Part6_Two_Fluid_Theory_Transport_and_Microinstabilities.html)
-- [Braginskii collisional transport and Spitzer resistivity](./Braginskii%20collisional%20transport%20and%20Spitzer%20resistivity.html)
-- [Resistive ballooning mode and ion temperature gradient instability](./Resistive%20ballooning%20mode%20and%20ion%20temperature%20gradient%20instability.html)
-{% endraw %}
+- [Braginskii collisional transport and Spitzer resistivity](Braginskii%20collisional%20transport%20and%20Spitzer%20resistivity.html)
+- [Resistive ballooning mode and ion temperature gradient instability](Resistive%20ballooning%20mode%20and%20ion%20temperature%20gradient%20instability.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Braginskii%20collisional%20transport%20and%20Spitzer%20resistivity.html" class="backlink-item">Braginskii collisional transport and Spitzer resistivity</a></li>
+    <li class="backlink-item-wrap"><a href="Braginskii%20collisional%20transport%20and%20Spitzer%20resistivity.html" class="backlink-item">Braginskii collisional transport and Spitzer resistivity</a></li>
+    <li class="backlink-item-wrap"><a href="Resistive%20ballooning%20mode%20and%20ion%20temperature%20gradient%20instability.html" class="backlink-item">Resistive ballooning mode and ion temperature gradient instability</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Resistive%20ballooning%20mode%20and%20ion%20temperature%20gradient%20instability.html" class="backlink-item">Resistive ballooning mode and ion temperature gradient instability</a></li>
   </ul>
 </div>
+

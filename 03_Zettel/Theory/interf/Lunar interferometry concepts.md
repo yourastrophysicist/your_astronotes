@@ -2,7 +2,6 @@
 layout: "default"
 title: "Lunar interferometry concepts"
 ---
-{% raw %}
 # Lunar interferometry concepts
 
 the Moon's far side is a unique observing platform: shielded from Earth's RFI, no ionosphere, free-fall conditions, very stable temperature. proposed since the Apollo era for high-resolution astronomy. now becoming feasible thanks to renewed lunar programs (Artemis, lunar bases).
@@ -106,11 +105,10 @@ ground-truth measurements aided by radio sounding of subsurface structures.
 
 ## see also
 
-- [The Square Kilometre Array SKA](./The%20Square%20Kilometre%20Array%20SKA.html)
-- [ngVLA Next Generation VLA](./ngVLA%20Next%20Generation%20VLA.html)
-- [Future space-based](./Future%20space-based.html)
+- [The Square Kilometre Array SKA](The%20Square%20Kilometre%20Array%20SKA.html)
+- [ngVLA Next Generation VLA](ngVLA%20Next%20Generation%20VLA.html)
+- [Future space-based](Future%20space-based.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (1)</h4>
@@ -118,3 +116,4 @@ ground-truth measurements aided by radio sounding of subsurface structures.
     <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

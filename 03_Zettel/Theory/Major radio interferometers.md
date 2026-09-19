@@ -2,7 +2,6 @@
 layout: "default"
 title: "Major radio interferometers"
 ---
-{% raw %}
 # Major radio interferometers
 
 a survey of the world's major radio interferometers, organized by frequency band and use case. each has its own science niche, set by location, frequency coverage, and array configuration.
@@ -155,4 +154,3 @@ construction underway 2020s-2030s. designed for:
 - [Event Horizon Telescope EHT](interf/Event%20Horizon%20Telescope%20EHT.html)
 - [Earth rotation synthesis in radio](interf/Earth%20rotation%20synthesis%20in%20radio.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

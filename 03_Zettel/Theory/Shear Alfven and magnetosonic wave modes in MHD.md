@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Shear Alfven and magnetosonic wave modes in MHD"
-name: "Shear Alfven and magnetosonic wave modes in MHD"
-description: "ideal MHD wave dispersion relation, transverse incompressible Alfven wave, and fast/slow compressional magnetosonic waves"
 ---
-{% raw %}
 linearizing the ideal MHD equations about a uniform background field $\mathbf{B}_0$ reveals three distinct propagating wave modes: one incompressional shear wave and two compressional magnetosonic waves.
 
 ## the linearized mhd wave equation
@@ -36,15 +33,15 @@ orienting coordinates such that $\mathbf{B}_0 = B_0 \hat{\mathbf{z}}$ and $\math
 
 - [Fluid_and_Plasma_Dynamics_MOC](../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html)
 - [Part7_Magnetohydrodynamics_Equilibrium_and_Waves](../../02_Literature/Lectures/Fluid_and_Plasma_Dynamics/Part7_Magnetohydrodynamics_Equilibrium_and_Waves.html)
-- [Alfven and magnetosonic waves](./Alfven%20and%20magnetosonic%20waves.html)
-- [Ideal MHD equations and Alfven flux freezing theorem](./Ideal%20MHD%20equations%20and%20Alfven%20flux%20freezing%20theorem.html)
-{% endraw %}
+- [Alfven and magnetosonic waves](Alfven%20and%20magnetosonic%20waves.html)
+- [Ideal MHD equations and Alfven flux freezing theorem](Ideal%20MHD%20equations%20and%20Alfven%20flux%20freezing%20theorem.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Acoustic%20sound%20wave%20propagation%20in%20compressible%20gas.html" class="backlink-item">Acoustic sound wave propagation in compressible gas</a></li>
+    <li class="backlink-item-wrap"><a href="Acoustic%20sound%20wave%20propagation%20in%20compressible%20gas.html" class="backlink-item">Acoustic sound wave propagation in compressible gas</a></li>
+    <li class="backlink-item-wrap"><a href="Ideal%20MHD%20equations%20and%20Alfven%20flux%20freezing%20theorem.html" class="backlink-item">Ideal MHD equations and Alfven flux freezing theorem</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Ideal%20MHD%20equations%20and%20Alfven%20flux%20freezing%20theorem.html" class="backlink-item">Ideal MHD equations and Alfven flux freezing theorem</a></li>
   </ul>
 </div>
+

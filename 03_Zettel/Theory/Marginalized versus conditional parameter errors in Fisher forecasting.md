@@ -2,7 +2,6 @@
 layout: "default"
 title: "Marginalized versus conditional parameter errors in Fisher forecasting"
 ---
-{% raw %}
 # Marginalized versus conditional parameter errors in Fisher forecasting
 
 In experimental forecasting for cosmological surveys (e.g. Euclid, Roman Space Telescope, Vera C. Rubin Observatory), the Fisher Information Matrix $F$ is used to forecast parameter uncertainties before observations are taken. Crucially, a parameter's forecasted uncertainty depends fundamentally on whether other cosmological parameters are known exactly (conditional error) or marginalized over (marginalized error).
@@ -45,14 +44,14 @@ In cosmological models, severe geometric degeneracies (such as between dark ener
 ## See Also
 - [Astro-Statistics_and_Cosmology_MOC](../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html)
 - [06_Fisher_Information_Matrix_Cramer_Rao_Bound_and_Survey_Forecasting](../../02_Literature/Lectures/Astrostatistics/06_Fisher_Information_Matrix_Cramer_Rao_Bound_and_Survey_Forecasting.html)
-- [Fisher information matrix and Cramer-Rao bound](./Fisher%20information%20matrix%20and%20Cramer-Rao%20bound.html)
-- [Multivariate Gaussian conditioning and marginalization](./Multivariate%20Gaussian%20conditioning%20and%20marginalization.html)
-{% endraw %}
+- [Fisher information matrix and Cramer-Rao bound](Fisher%20information%20matrix%20and%20Cramer-Rao%20bound.html)
+- [Multivariate Gaussian conditioning and marginalization](Multivariate%20Gaussian%20conditioning%20and%20marginalization.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Fisher%20information%20matrix%20and%20Cramer-Rao%20bound.html" class="backlink-item">Fisher information matrix and Cramer-Rao bound</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Fisher%20information%20matrix%20and%20Cramer-Rao%20bound.html" class="backlink-item">Fisher information matrix and Cramer-Rao bound</a></li>
   </ul>
 </div>
+

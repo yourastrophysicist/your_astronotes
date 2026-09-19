@@ -2,7 +2,6 @@
 layout: "default"
 title: "Radio telescope components"
 ---
-{% raw %}
 # Radio telescope components
 
 a radio telescope is an astronomical instrument designed to detect and measure electromagnetic radiation at radio frequencies ($\sim 10\text{ MHz}$ to $1\text{ THz}$, wavelengths $\lambda \sim 1\text{0 m}$ to $0.3\text{ mm}$). unlike optical telescopes which focus and collect discrete photons on light-sensitive CCD detectors, a radio telescope operates in the **classical electromagnetic wave regime**: it collects incoming electric fields $\mathbf{E}(\mathbf{r}, t)$, converts them via oscillating electron charge densities into electrical AC voltages $V(t)$, and processes these signals electronically.
@@ -99,16 +98,16 @@ in an interferometer, the IF signals $V_i(t)$ and $V_j(t)$ from antenna dishes $
 - [Heterodyne vs direct detection](interf/Heterodyne%20vs%20direct%20detection.html)
 - [Two-element correlator](interf/Two-element%20correlator.html)
 - [Components of a modern interferometer](interf/Components%20of%20a%20modern%20interferometer.html)
-- [DOnofrio Exam Retake - Radio vs Optical Physics and Michelson Synthesis](./DOnofrio%20Exam%20Retake%20-%20Radio%20vs%20Optical%20Physics%20and%20Michelson%20Synthesis.html)
+- [DOnofrio Exam Retake - Radio vs Optical Physics and Michelson Synthesis](DOnofrio%20Exam%20Retake%20-%20Radio%20vs%20Optical%20Physics%20and%20Michelson%20Synthesis.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./DOnofrio%20Exam%20Retake%20-%20Radio%20vs%20Optical%20Physics%20and%20Michelson%20Synthesis.html" class="backlink-item">DOnofrio Exam Retake - Radio vs Optical Physics and Michelson Synthesis</a></li>
-    <li class="backlink-item-wrap"><a href="./Electromagnetic%20waves%20and%20photons.html" class="backlink-item">Electromagnetic waves and photons</a></li>
-    <li class="backlink-item-wrap"><a href="./Heterodyne%20vs%20direct%20detection.html" class="backlink-item">Heterodyne vs direct detection</a></li>
-    <li class="backlink-item-wrap"><a href="./Michelson%20stellar%20interferometer.html" class="backlink-item">Michelson stellar interferometer</a></li>
+    <li class="backlink-item-wrap"><a href="DOnofrio%20Exam%20Retake%20-%20Radio%20vs%20Optical%20Physics%20and%20Michelson%20Synthesis.html" class="backlink-item">DOnofrio Exam Retake - Radio vs Optical Physics and Michelson Synthesis</a></li>
+    <li class="backlink-item-wrap"><a href="Electromagnetic%20waves%20and%20photons.html" class="backlink-item">Electromagnetic waves and photons</a></li>
+    <li class="backlink-item-wrap"><a href="Heterodyne%20vs%20direct%20detection.html" class="backlink-item">Heterodyne vs direct detection</a></li>
+    <li class="backlink-item-wrap"><a href="Michelson%20stellar%20interferometer.html" class="backlink-item">Michelson stellar interferometer</a></li>
   </ul>
 </div>
+

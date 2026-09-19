@@ -2,7 +2,6 @@
 layout: "default"
 title: "Interferometry equation sheet"
 ---
-{% raw %}
 # Interferometry equation sheet
 
 a fast-lookup reference. organized by problem class. each entry: formula, what it means, when to use, units.
@@ -242,4 +241,3 @@ $$\chi(\lambda)=\chi_0+\mathrm{RM}\lambda^2$$
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
 - [Interferometry course intro](interf/Interferometry%20course%20intro.html)
 - [Interferometry exam rules](interf/Interferometry%20exam%20rules.html)
-{% endraw %}

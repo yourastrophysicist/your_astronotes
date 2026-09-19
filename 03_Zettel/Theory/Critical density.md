@@ -2,7 +2,6 @@
 layout: "default"
 title: "Critical density"
 ---
-{% raw %}
 the **critical density** $n_c$ is the electron density at which collisional de-excitation balances spontaneous radiative decay for a given upper level. above $n_c$, the line saturates; below, it tracks $n_e$ linearly.
 
 ## the definition
@@ -72,32 +71,32 @@ permitted lines have $n_c \sim 10^{13}$ cm$^{-3}$ or higher; in nebular conditio
 
 ## see also
 
-- [Two-level atom](./Two-level%20atom.html)
-- [Statistical equilibrium equations](./Statistical%20equilibrium%20equations.html)
-- [Collisional excitation rate](./Collisional%20excitation%20rate.html)
-- [Forbidden lines](./Forbidden%20lines.html)
-- [OIII forbidden lines](./OIII%20forbidden%20lines.html)
-- [SII forbidden lines](./SII%20forbidden%20lines.html)
-- [Forbidden line diagnostics](./Forbidden%20line%20diagnostics.html)
-- [Spectroscopic ne diagnostics](./Spectroscopic%20ne%20diagnostics.html)
-- [Spectroscopic Te diagnostics](./Spectroscopic%20Te%20diagnostics.html)
-{% endraw %}
+- [Two-level atom](Two-level%20atom.html)
+- [Statistical equilibrium equations](Statistical%20equilibrium%20equations.html)
+- [Collisional excitation rate](Collisional%20excitation%20rate.html)
+- [Forbidden lines](Forbidden%20lines.html)
+- [OIII forbidden lines](OIII%20forbidden%20lines.html)
+- [SII forbidden lines](SII%20forbidden%20lines.html)
+- [Forbidden line diagnostics](Forbidden%20line%20diagnostics.html)
+- [Spectroscopic ne diagnostics](Spectroscopic%20ne%20diagnostics.html)
+- [Spectroscopic Te diagnostics](Spectroscopic%20Te%20diagnostics.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (13)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Collisional%20excitation%20rate.html" class="backlink-item">Collisional excitation rate</a></li>
+    <li class="backlink-item-wrap"><a href="Cooling%20rate%20in%20HII%20regions.html" class="backlink-item">Cooling rate in HII regions</a></li>
+    <li class="backlink-item-wrap"><a href="Forbidden%20line%20diagnostics.html" class="backlink-item">Forbidden line diagnostics</a></li>
+    <li class="backlink-item-wrap"><a href="Forbidden%20lines.html" class="backlink-item">Forbidden lines</a></li>
+    <li class="backlink-item-wrap"><a href="Forbidden%20vs%20permitted%20vs%20semiforbidden%20transitions.html" class="backlink-item">Forbidden vs permitted vs semiforbidden transitions</a></li>
+    <li class="backlink-item-wrap"><a href="OIII%20forbidden%20lines.html" class="backlink-item">OIII forbidden lines</a></li>
+    <li class="backlink-item-wrap"><a href="SII%20forbidden%20lines.html" class="backlink-item">SII forbidden lines</a></li>
+    <li class="backlink-item-wrap"><a href="Selection%20rules.html" class="backlink-item">Selection rules</a></li>
+    <li class="backlink-item-wrap"><a href="Spectroscopic%20Te%20diagnostics.html" class="backlink-item">Spectroscopic Te diagnostics</a></li>
+    <li class="backlink-item-wrap"><a href="Spectroscopic%20ne%20diagnostics.html" class="backlink-item">Spectroscopic ne diagnostics</a></li>
+    <li class="backlink-item-wrap"><a href="Statistical%20equilibrium%20equations.html" class="backlink-item">Statistical equilibrium equations</a></li>
+    <li class="backlink-item-wrap"><a href="Two-level%20atom.html" class="backlink-item">Two-level atom</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Collisional%20excitation%20rate.html" class="backlink-item">Collisional excitation rate</a></li>
-    <li class="backlink-item-wrap"><a href="./Cooling%20rate%20in%20HII%20regions.html" class="backlink-item">Cooling rate in HII regions</a></li>
-    <li class="backlink-item-wrap"><a href="./Forbidden%20line%20diagnostics.html" class="backlink-item">Forbidden line diagnostics</a></li>
-    <li class="backlink-item-wrap"><a href="./Forbidden%20lines.html" class="backlink-item">Forbidden lines</a></li>
-    <li class="backlink-item-wrap"><a href="./Forbidden%20vs%20permitted%20vs%20semiforbidden%20transitions.html" class="backlink-item">Forbidden vs permitted vs semiforbidden transitions</a></li>
-    <li class="backlink-item-wrap"><a href="./OIII%20forbidden%20lines.html" class="backlink-item">OIII forbidden lines</a></li>
-    <li class="backlink-item-wrap"><a href="./SII%20forbidden%20lines.html" class="backlink-item">SII forbidden lines</a></li>
-    <li class="backlink-item-wrap"><a href="./Selection%20rules.html" class="backlink-item">Selection rules</a></li>
-    <li class="backlink-item-wrap"><a href="./Spectroscopic%20Te%20diagnostics.html" class="backlink-item">Spectroscopic Te diagnostics</a></li>
-    <li class="backlink-item-wrap"><a href="./Spectroscopic%20ne%20diagnostics.html" class="backlink-item">Spectroscopic ne diagnostics</a></li>
-    <li class="backlink-item-wrap"><a href="./Statistical%20equilibrium%20equations.html" class="backlink-item">Statistical equilibrium equations</a></li>
-    <li class="backlink-item-wrap"><a href="./Two-level%20atom.html" class="backlink-item">Two-level atom</a></li>
   </ul>
 </div>
+

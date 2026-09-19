@@ -2,7 +2,6 @@
 layout: "default"
 title: "Atmospheric scintillation"
 ---
-{% raw %}
 scintillation is the **temporal flickering** of point-source intensity caused by interference of light paths through density fluctuations in the atmosphere. it is the same physics that makes stars "twinkle" but planets do not. for high-precision time-series photometry it is a real noise floor.
 
 ## the physical picture
@@ -51,8 +50,8 @@ both come from the same atmospheric turbulence, but they live in different obser
 ## see also
 
 - [Earth atmosphere for observations](../Earth%20atmosphere%20for%20observations.html)
-- [Atmospheric seeing](./Atmospheric%20seeing.html)
-- [Adaptive optics overview](./Adaptive%20optics%20overview.html)
+- [Atmospheric seeing](Atmospheric%20seeing.html)
+- [Adaptive optics overview](Adaptive%20optics%20overview.html)
 - [CCD detectors and SNR](../CCD%20detectors%20and%20SNR.html)
 - [Sky brightness](../Sky%20brightness.html)
 
@@ -71,13 +70,13 @@ both come from the same atmospheric turbulence, but they live in different obser
 
 ![obs_atm-36.png](../../../assets/images/obs_atm-36.png)
 *Scintillation noise limit in high-precision exoplanet transit photometry.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
     <li class="backlink-item-wrap"><a href="../Atmospheric%20seeing.html" class="backlink-item">Atmospheric seeing</a></li>
-    <li class="backlink-item-wrap"><a href="./Atmospheric%20seeing.html" class="backlink-item">Atmospheric seeing</a></li>
+    <li class="backlink-item-wrap"><a href="Atmospheric%20seeing.html" class="backlink-item">Atmospheric seeing</a></li>
     <li class="backlink-item-wrap"><a href="../../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

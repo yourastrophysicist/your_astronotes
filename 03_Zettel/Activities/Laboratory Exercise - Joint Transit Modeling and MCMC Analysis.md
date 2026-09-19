@@ -2,8 +2,7 @@
 layout: "default"
 title: "Laboratory Exercise - Joint Transit Modeling and MCMC Analysis"
 ---
-{% raw %}
-# Laboratory Exercise ? Joint Transit Modeling and MCMC Analysis
+# Laboratory Exercise — Joint Transit Modeling and MCMC Analysis
 
 Protocol for executing joint Bayesian transit modeling across TASTE and TESS observations using `batman`, `ldtk`, and `emcee`.
 
@@ -80,12 +79,11 @@ samples = sampler.get_chain(discard=burn, thin=int(np.max(tau)/2), flat=True)
 - [Likelihood Function for Photometric Time Series](../Theory/Likelihood%20Function%20for%20Photometric%20Time%20Series.html)
 - [Affine-Invariant Ensemble MCMC with emcee](../Computational/Affine-Invariant%20Ensemble%20MCMC%20with%20emcee.html)
 - [MCMC Convergence Diagnostics and Autocorrelation Analysis](../Computational/MCMC%20Convergence%20Diagnostics%20and%20Autocorrelation%20Analysis.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
+  <h4 class="backlinks-title">Linked References (1)</h4>
   <ul class="backlinks-list">
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2012%20-%20Transit%20Parameter%20Estimation%20and%20Likelihood%20Optimization.html" class="backlink-item">Malavolta 12 - Transit Parameter Estimation and Likelihood Optimization</a></li>
   </ul>
 </div>
+

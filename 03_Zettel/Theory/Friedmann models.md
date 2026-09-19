@@ -2,7 +2,6 @@
 layout: "default"
 title: "Friedmann models"
 ---
-{% raw %}
 special solutions of the Friedmann equation, useful as **building blocks**: the actual universe is a piecewise combination of these regimes.
 
 starting from
@@ -28,7 +27,7 @@ $$\dot a^2 = \frac{8\pi G \rho_0}{3 a}$$
 
 → $a \propto t^{2/3}$. age of the universe: $t_0 = 2/(3 H_0)$.
 
-with the measured $H_0 = 67.4$ km/s/Mpc, EdS gives $t_0 \approx 9.6$ Gyr — *too young* compared to the observed 13.8 Gyr (see the age problem at [Cosmic_inventory_dark_energy](./Cosmic_inventory_dark_energy.html)).
+with the measured $H_0 = 67.4$ km/s/Mpc, EdS gives $t_0 \approx 9.6$ Gyr — *too young* compared to the observed 13.8 Gyr (see the age problem at [Cosmic_inventory_dark_energy](Cosmic_inventory_dark_energy.html)).
 
 ---
 
@@ -50,7 +49,7 @@ $$
 
 → $a(t) \propto e^{Ht}$, exponential expansion.
 
-the late-time attractor of any Λ-containing universe. inflation in the early universe is a near-de-Sitter phase, and dark-energy domination today is approaching one (see [Inflation overview](./Inflation%20overview.html) and [Cosmic_inventory_dark_energy](./Cosmic_inventory_dark_energy.html)).
+the late-time attractor of any Λ-containing universe. inflation in the early universe is a near-de-Sitter phase, and dark-energy domination today is approaching one (see [Inflation overview](Inflation%20overview.html) and [Cosmic_inventory_dark_energy](Cosmic_inventory_dark_energy.html)).
 
 ---
 
@@ -108,21 +107,21 @@ ironic postscript: $\Lambda$ came back in 1998 — not for static universe, but 
 
 - [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
 - Friedmann equations with Λ
-- [Density parameters and flatness](./Density%20parameters%20and%20flatness.html)
-- [Brief thermal history](./Brief%20thermal%20history.html)
-- [Cosmic_inventory_dark_energy](./Cosmic_inventory_dark_energy.html)
-{% endraw %}
+- [Density parameters and flatness](Density%20parameters%20and%20flatness.html)
+- [Brief thermal history](Brief%20thermal%20history.html)
+- [Cosmic_inventory_dark_energy](Cosmic_inventory_dark_energy.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (8)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Cosmic_inventory_dark_energy.html" class="backlink-item">Cosmic_inventory_dark_energy</a></li>
-    <li class="backlink-item-wrap"><a href="./Friedmann%20equations%20with%20Lambda.html" class="backlink-item">Friedmann equations with Lambda</a></li>
-    <li class="backlink-item-wrap"><a href="./Friedmann%20solutions.html" class="backlink-item">Friedmann solutions</a></li>
+    <li class="backlink-item-wrap"><a href="Cosmic_inventory_dark_energy.html" class="backlink-item">Cosmic_inventory_dark_energy</a></li>
+    <li class="backlink-item-wrap"><a href="Friedmann%20equations%20with%20Lambda.html" class="backlink-item">Friedmann equations with Lambda</a></li>
+    <li class="backlink-item-wrap"><a href="Friedmann%20solutions.html" class="backlink-item">Friedmann solutions</a></li>
+    <li class="backlink-item-wrap"><a href="Newtonian%20Friedmann%20derivation.html" class="backlink-item">Newtonian Friedmann derivation</a></li>
+    <li class="backlink-item-wrap"><a href="Newtonian%20derivation%20of%20Friedmann.html" class="backlink-item">Newtonian derivation of Friedmann</a></li>
+    <li class="backlink-item-wrap"><a href="Temperature-time%20relation.html" class="backlink-item">Temperature-time relation</a></li>
+    <li class="backlink-item-wrap"><a href="Various%20models%20of%20the%20universe.html" class="backlink-item">Various models of the universe</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Newtonian%20Friedmann%20derivation.html" class="backlink-item">Newtonian Friedmann derivation</a></li>
-    <li class="backlink-item-wrap"><a href="./Newtonian%20derivation%20of%20Friedmann.html" class="backlink-item">Newtonian derivation of Friedmann</a></li>
-    <li class="backlink-item-wrap"><a href="./Temperature-time%20relation.html" class="backlink-item">Temperature-time relation</a></li>
-    <li class="backlink-item-wrap"><a href="./Various%20models%20of%20the%20universe.html" class="backlink-item">Various models of the universe</a></li>
   </ul>
 </div>
+

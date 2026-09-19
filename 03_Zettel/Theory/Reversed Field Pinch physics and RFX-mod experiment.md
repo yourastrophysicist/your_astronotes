@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Reversed Field Pinch physics and RFX-mod experiment"
-name: "Reversed Field Pinch physics and RFX-mod experiment"
-description: "Bessel function model, pinch parameter, self-reversal of axial magnetic field, and the RFX-mod2 fusion facility in Padova"
 ---
-{% raw %}
 the Reversed Field Pinch (RFP) is an alternative magnetic confinement concept where the toroidal magnetic field spontaneously reverses direction near the plasma edge through turbulent dynamo relaxation.
 
 ## the bessel function model (bfm)
@@ -38,14 +35,14 @@ Consorzio RFX in Padova hosts one of the world's leading RFP experiments:
 
 - [Fluid_and_Plasma_Dynamics_MOC](../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html)
 - [Part8_Reconnection_Relaxation_and_Dynamo_Theory](../../02_Literature/Lectures/Fluid_and_Plasma_Dynamics/Part8_Reconnection_Relaxation_and_Dynamo_Theory.html)
-- [Woltjer helicity conservation and Taylor plasma relaxation](./Woltjer%20helicity%20conservation%20and%20Taylor%20plasma%20relaxation.html)
-- [Tokamak magnetic topology and neoclassical banana orbits](./Tokamak%20magnetic%20topology%20and%20neoclassical%20banana%20orbits.html)
-{% endraw %}
+- [Woltjer helicity conservation and Taylor plasma relaxation](Woltjer%20helicity%20conservation%20and%20Taylor%20plasma%20relaxation.html)
+- [Tokamak magnetic topology and neoclassical banana orbits](Tokamak%20magnetic%20topology%20and%20neoclassical%20banana%20orbits.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Woltjer%20helicity%20conservation%20and%20Taylor%20plasma%20relaxation.html" class="backlink-item">Woltjer helicity conservation and Taylor plasma relaxation</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Woltjer%20helicity%20conservation%20and%20Taylor%20plasma%20relaxation.html" class="backlink-item">Woltjer helicity conservation and Taylor plasma relaxation</a></li>
   </ul>
 </div>
+

@@ -2,7 +2,6 @@
 layout: "default"
 title: "14_Stellar_Activity_and_Radial_Velocity_Jitter"
 ---
-{% raw %}
 # Lesson 14 – Radial Velocity IV: Stellar Activity and RV Jitter
 
 *Exoplanetary Astrophysics, Prof. Giampaolo Piotto (Lecture 25/11/2025)*  
@@ -148,14 +147,12 @@ Instead of co-adding all lines into an omnibus CCF, LBL algorithms measure radia
 - Previous Lecture: [13_RV_Wavelength_Calibration_and_Error_Budgets](./13_RV_Wavelength_Calibration_and_Error_Budgets.html)
 - Next Lecture: [15_Planetary_Transits_Geometry_and_Rossiter_McLaughlin](./15_Planetary_Transits_Geometry_and_Rossiter_McLaughlin.html)
 - Related Notes: [Gaussian Process Regression in Light Curve Detrending](../../../03_Zettel/Computational/Gaussian%20Process%20Regression%20in%20Light%20Curve%20Detrending.html) | [Calcium and CaII H+K](../../../03_Zettel/Theory/Calcium%20and%20CaII%20H%2BK.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
+  <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./13_RV_Wavelength_Calibration_and_Error_Budgets.html" class="backlink-item">13_RV_Wavelength_Calibration_and_Error_Budgets</a></li>
-    <li class="backlink-item-wrap"><a href="./15_Planetary_Transits_Geometry_and_Rossiter_McLaughlin.html" class="backlink-item">15_Planetary_Transits_Geometry_and_Rossiter_McLaughlin</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Stellar%20activity%20signals%20and%20radial%20velocity%20jitter%20mitigation.html" class="backlink-item">Stellar activity signals and radial velocity jitter mitigation</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

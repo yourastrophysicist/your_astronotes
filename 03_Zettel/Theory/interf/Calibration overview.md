@@ -2,7 +2,6 @@
 layout: "default"
 title: "Calibration overview"
 ---
-{% raw %}
 # Calibration overview
 
 raw visibilities are *not* science. the path from correlator output to publishable image involves multiple calibration stages, each correcting a specific instrumental or atmospheric effect. understanding the order and purpose of each step is essential for both observers and theorists interpreting interferometric data.
@@ -136,7 +135,7 @@ where $g_i$ and $g_j$ are complex antenna gains. the standard calibrator roles a
 - **phase calibrator**: tracks time-variable phase/gain
 - **polarization calibrator**: solves leakage and angle if needed
 
-BookAI's practical point: a final image is already determined by choices made before observation, especially configuration, calibrator cadence, bandwidth, and integration time. see [Steps in radio interferometric observations](./Steps%20in%20radio%20interferometric%20observations.html).
+BookAI's practical point: a final image is already determined by choices made before observation, especially configuration, calibrator cadence, bandwidth, and integration time. see [Steps in radio interferometric observations](Steps%20in%20radio%20interferometric%20observations.html).
 
 ## scientific figure
 
@@ -148,35 +147,35 @@ source: local workflow diagram generated from the standard radio-reduction seque
 
 ## see also
 
-- [Bandpass calibration](./Bandpass%20calibration.html)
-- [Flux calibration](./Flux%20calibration.html)
-- [Phase referencing](./Phase%20referencing.html)
-- [Self-calibration](./Self-calibration.html)
-- [Polarization in interferometry](./Polarization%20in%20interferometry.html)
+- [Bandpass calibration](Bandpass%20calibration.html)
+- [Flux calibration](Flux%20calibration.html)
+- [Phase referencing](Phase%20referencing.html)
+- [Self-calibration](Self-calibration.html)
+- [Polarization in interferometry](Polarization%20in%20interferometry.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (19)</h4>
   <ul class="backlinks-list">
     <li class="backlink-item-wrap"><a href="../Aperture%20synthesis%20principle.html" class="backlink-item">Aperture synthesis principle</a></li>
-    <li class="backlink-item-wrap"><a href="./Aperture%20synthesis%20principle.html" class="backlink-item">Aperture synthesis principle</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Bandpass%20calibration.html" class="backlink-item">Bandpass calibration</a></li>
     <li class="backlink-item-wrap"><a href="../Bandpass%20calibration.html" class="backlink-item">Bandpass calibration</a></li>
-    <li class="backlink-item-wrap"><a href="./Flux%20calibration%20in%20radio.html" class="backlink-item">Flux calibration in radio</a></li>
     <li class="backlink-item-wrap"><a href="../Flux%20calibration%20in%20radio.html" class="backlink-item">Flux calibration in radio</a></li>
-    <li class="backlink-item-wrap"><a href="./Imaging%20artifacts.html" class="backlink-item">Imaging artifacts</a></li>
     <li class="backlink-item-wrap"><a href="../Imaging%20artifacts.html" class="backlink-item">Imaging artifacts</a></li>
     <li class="backlink-item-wrap"><a href="../Mosaicking.html" class="backlink-item">Mosaicking</a></li>
-    <li class="backlink-item-wrap"><a href="./Mosaicking.html" class="backlink-item">Mosaicking</a></li>
-    <li class="backlink-item-wrap"><a href="./Phase%20referencing.html" class="backlink-item">Phase referencing</a></li>
     <li class="backlink-item-wrap"><a href="../Polarization%20in%20interferometry.html" class="backlink-item">Polarization in interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="./Polarization%20in%20interferometry.html" class="backlink-item">Polarization in interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="./Self-calibration.html" class="backlink-item">Self-calibration</a></li>
     <li class="backlink-item-wrap"><a href="../Self-calibration.html" class="backlink-item">Self-calibration</a></li>
     <li class="backlink-item-wrap"><a href="../Steps%20in%20radio%20interferometric%20observations.html" class="backlink-item">Steps in radio interferometric observations</a></li>
-    <li class="backlink-item-wrap"><a href="./Steps%20in%20radio%20interferometric%20observations.html" class="backlink-item">Steps in radio interferometric observations</a></li>
-    <li class="backlink-item-wrap"><a href="./The%20phase%20problem%20in%20interferometry.html" class="backlink-item">The phase problem in interferometry</a></li>
+    <li class="backlink-item-wrap"><a href="Aperture%20synthesis%20principle.html" class="backlink-item">Aperture synthesis principle</a></li>
+    <li class="backlink-item-wrap"><a href="Bandpass%20calibration.html" class="backlink-item">Bandpass calibration</a></li>
+    <li class="backlink-item-wrap"><a href="Flux%20calibration%20in%20radio.html" class="backlink-item">Flux calibration in radio</a></li>
+    <li class="backlink-item-wrap"><a href="Imaging%20artifacts.html" class="backlink-item">Imaging artifacts</a></li>
+    <li class="backlink-item-wrap"><a href="Mosaicking.html" class="backlink-item">Mosaicking</a></li>
+    <li class="backlink-item-wrap"><a href="Phase%20referencing.html" class="backlink-item">Phase referencing</a></li>
+    <li class="backlink-item-wrap"><a href="Polarization%20in%20interferometry.html" class="backlink-item">Polarization in interferometry</a></li>
+    <li class="backlink-item-wrap"><a href="Self-calibration.html" class="backlink-item">Self-calibration</a></li>
+    <li class="backlink-item-wrap"><a href="Steps%20in%20radio%20interferometric%20observations.html" class="backlink-item">Steps in radio interferometric observations</a></li>
+    <li class="backlink-item-wrap"><a href="The%20phase%20problem%20in%20interferometry.html" class="backlink-item">The phase problem in interferometry</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

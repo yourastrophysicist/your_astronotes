@@ -2,7 +2,6 @@
 layout: "default"
 title: "05_Gravitational_Microlensing_Principles_and_Light_Curves"
 ---
-{% raw %}
 # Lesson 05 – Gravitational Microlensing: Principles and Light Curves
 
 *Exoplanetary Astrophysics, Prof. Giampaolo Piotto (Lecture 21/10/2025)*  
@@ -203,14 +202,12 @@ When an isolated planetary-mass body drifts through interstellar space without a
 - Previous Lecture: [04_Small_Planets_and_Host_Star_Correlations](./04_Small_Planets_and_Host_Star_Correlations.html)
 - Next Lecture: [06_Timing_Methods_and_Pulsar_Planets](./06_Timing_Methods_and_Pulsar_Planets.html)
 - Related Notes: Exoplanet detection techniques | Planetary system dynamics and resonance
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
+  <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./04_Small_Planets_and_Host_Star_Correlations.html" class="backlink-item">04_Small_Planets_and_Host_Star_Correlations</a></li>
-    <li class="backlink-item-wrap"><a href="./06_Timing_Methods_and_Pulsar_Planets.html" class="backlink-item">06_Timing_Methods_and_Pulsar_Planets</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Gravitational%20microlensing%20of%20planetary%20systems.html" class="backlink-item">Gravitational microlensing of planetary systems</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

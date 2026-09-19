@@ -2,7 +2,6 @@
 layout: "default"
 title: "Polarization E and B modes"
 ---
-{% raw %}
 the CMB is polarised at the $\sim 10\%$ level of temperature anisotropies. polarisation decomposes into **E-modes** (curl-free) + **B-modes** (divergence-free). each carries different physics.
 
 ## the source: Thomson scattering
@@ -60,25 +59,25 @@ current B-mode searches (BICEP/Keck) use multi-frequency observations to subtrac
 
 ## see also
 
-- [CMB anisotropies](./CMB%20anisotropies.html)
-- [CMB power spectrum](./CMB%20power%20spectrum.html)
+- [CMB anisotropies](CMB%20anisotropies.html)
+- [CMB power spectrum](CMB%20power%20spectrum.html)
 - CMB — discovery and blackbody spectrum
-- [Inflation overview](./Inflation%20overview.html)
-- [Old vs new vs chaotic inflation, slow-roll](./Old%20vs%20new%20vs%20chaotic%20inflation%2C%20slow-roll.html)
-- [Linear evolution of perturbations in expanding universe](./Linear%20evolution%20of%20perturbations%20in%20expanding%20universe.html)
-- [Reionization](./Reionization.html)
-- [ΛCDM current parameters](./%CE%9BCDM%20current%20parameters.html)
+- [Inflation overview](Inflation%20overview.html)
+- [Old vs new vs chaotic inflation, slow-roll](Old%20vs%20new%20vs%20chaotic%20inflation%2C%20slow-roll.html)
+- [Linear evolution of perturbations in expanding universe](Linear%20evolution%20of%20perturbations%20in%20expanding%20universe.html)
+- [Reionization](Reionization.html)
+- [ΛCDM current parameters](%CE%9BCDM%20current%20parameters.html)
 - [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (6)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./CMB%20-%20discovery%20and%20blackbody%20spectrum.html" class="backlink-item">CMB - discovery and blackbody spectrum</a></li>
-    <li class="backlink-item-wrap"><a href="./CMB%20anisotropies.html" class="backlink-item">CMB anisotropies</a></li>
-    <li class="backlink-item-wrap"><a href="./CMB%20power%20spectrum.html" class="backlink-item">CMB power spectrum</a></li>
-    <li class="backlink-item-wrap"><a href="./Cosmological%20inflation.html" class="backlink-item">Cosmological inflation</a></li>
+    <li class="backlink-item-wrap"><a href="CMB%20-%20discovery%20and%20blackbody%20spectrum.html" class="backlink-item">CMB - discovery and blackbody spectrum</a></li>
+    <li class="backlink-item-wrap"><a href="CMB%20anisotropies.html" class="backlink-item">CMB anisotropies</a></li>
+    <li class="backlink-item-wrap"><a href="CMB%20power%20spectrum.html" class="backlink-item">CMB power spectrum</a></li>
+    <li class="backlink-item-wrap"><a href="Cosmological%20inflation.html" class="backlink-item">Cosmological inflation</a></li>
+    <li class="backlink-item-wrap"><a href="Reionization.html" class="backlink-item">Reionization</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Reionization.html" class="backlink-item">Reionization</a></li>
   </ul>
 </div>
+

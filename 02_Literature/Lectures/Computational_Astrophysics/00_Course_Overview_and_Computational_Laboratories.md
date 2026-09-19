@@ -2,7 +2,6 @@
 layout: "default"
 title: "00_Course_Overview_and_Computational_Laboratories"
 ---
-{% raw %}
 # Lesson 00 – Course Overview and Computational Laboratories
 
 *Computational Astrophysics, Prof. Tiziano Zingales*  
@@ -121,17 +120,11 @@ $$\text{Final Grade} = \text{Score}_A + \text{Score}_B + \text{Score}_C$$
 - [01_Linux_Containers_and_Docker_Architecture](./01_Linux_Containers_and_Docker_Architecture.html)
 - [02_Version_Control_with_Git_and_GitLab](./02_Version_Control_with_Git_and_GitLab.html)
 - [03_Modular_Python_Software_Architecture_and_Packaging](./03_Modular_Python_Software_Architecture_and_Packaging.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
+  <h4 class="backlinks-title">Linked References (1)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./01_Linux_Containers_and_Docker_Architecture.html" class="backlink-item">01_Linux_Containers_and_Docker_Architecture</a></li>
-    <li class="backlink-item-wrap"><a href="./02_Version_Control_with_Git_and_GitLab.html" class="backlink-item">02_Version_Control_with_Git_and_GitLab</a></li>
-    <li class="backlink-item-wrap"><a href="./03_Modular_Python_Software_Architecture_and_Packaging.html" class="backlink-item">03_Modular_Python_Software_Architecture_and_Packaging</a></li>
-    <li class="backlink-item-wrap"><a href="./04_Exoplanet_Demographics_Orbital_Mechanics_and_Transits.html" class="backlink-item">04_Exoplanet_Demographics_Orbital_Mechanics_and_Transits</a></li>
-    <li class="backlink-item-wrap"><a href="./05_Machine_Learning_Foundations_and_Regression_Models.html" class="backlink-item">05_Machine_Learning_Foundations_and_Regression_Models</a></li>
-    <li class="backlink-item-wrap"><a href="./13_CloudVeneto_HPC_Infrastructure_and_OpenStack_Deployment.html" class="backlink-item">13_CloudVeneto_HPC_Infrastructure_and_OpenStack_Deployment</a></li>
     <li class="backlink-item-wrap"><a href="../../../04_Atlas/Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

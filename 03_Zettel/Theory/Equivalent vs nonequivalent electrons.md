@@ -2,7 +2,6 @@
 layout: "default"
 title: "Equivalent vs nonequivalent electrons"
 ---
-{% raw %}
 a subtle but important distinction in working out the allowed terms of an atomic configuration.
 
 ## definitions
@@ -25,7 +24,7 @@ after listing all and grouping into terms, the allowed terms are:
 $$np^2: \quad ^3P, ^1D, ^1S$$
 totalling $9 + 5 + 1 = 15$ states. 
 
-these are the terms of carbon ground configuration. by [Hund's rules](./Hund%27s%20rules.html), $^3P$ is the ground term.
+these are the terms of carbon ground configuration. by [Hund's rules](Hund%27s%20rules.html), $^3P$ is the ground term.
 
 ## the $np^3$ example
 
@@ -58,21 +57,21 @@ textbooks (Cowan, *Theory of Atomic Structure*; Condon-Shortley) tabulate the al
 
 ## see also
 
-- [Quantum numbers and atomic states](./Quantum%20numbers%20and%20atomic%20states.html)
-- [Atomic term symbols](./Atomic%20term%20symbols.html)
-- [Hund's rules](./Hund%27s%20rules.html)
-- [Russell-Saunders LS coupling](./Russell-Saunders%20LS%20coupling.html)
-- [Pauli principle and electron configurations](./Pauli%20principle%20and%20electron%20configurations.html)
-- [Statistical weight g](./Statistical%20weight%20g.html)
-{% endraw %}
+- [Quantum numbers and atomic states](Quantum%20numbers%20and%20atomic%20states.html)
+- [Atomic term symbols](Atomic%20term%20symbols.html)
+- [Hund's rules](Hund%27s%20rules.html)
+- [Russell-Saunders LS coupling](Russell-Saunders%20LS%20coupling.html)
+- [Pauli principle and electron configurations](Pauli%20principle%20and%20electron%20configurations.html)
+- [Statistical weight g](Statistical%20weight%20g.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Hund%27s%20rules.html" class="backlink-item">Hund's rules</a></li>
+    <li class="backlink-item-wrap"><a href="OIII%20forbidden%20lines.html" class="backlink-item">OIII forbidden lines</a></li>
+    <li class="backlink-item-wrap"><a href="SII%20forbidden%20lines.html" class="backlink-item">SII forbidden lines</a></li>
+    <li class="backlink-item-wrap"><a href="Spectroscopic%20ne%20diagnostics.html" class="backlink-item">Spectroscopic ne diagnostics</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Hund%27s%20rules.html" class="backlink-item">Hund's rules</a></li>
-    <li class="backlink-item-wrap"><a href="./OIII%20forbidden%20lines.html" class="backlink-item">OIII forbidden lines</a></li>
-    <li class="backlink-item-wrap"><a href="./SII%20forbidden%20lines.html" class="backlink-item">SII forbidden lines</a></li>
-    <li class="backlink-item-wrap"><a href="./Spectroscopic%20ne%20diagnostics.html" class="backlink-item">Spectroscopic ne diagnostics</a></li>
   </ul>
 </div>
+

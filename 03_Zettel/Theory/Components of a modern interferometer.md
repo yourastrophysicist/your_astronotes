@@ -2,7 +2,6 @@
 layout: "default"
 title: "Components of a modern interferometer"
 ---
-{% raw %}
 # Components of a modern interferometer
 
 a modern optical/IR interferometer is a complex chain of subsystems. each addresses one specific challenge. understanding the chain, end-to-end, is what makes the difference between a passive textbook reading and a working knowledge of how VLTI/CHARA actually operate.
@@ -132,9 +131,8 @@ a modern interferometer is *systems engineering on a heroic scale*. understandin
 ## see also
 
 - [Delay lines and path-length equalization](interf/Delay%20lines%20and%20path-length%20equalization.html)
-- [Beam combiners](./Beam%20combiners.html)
+- [Beam combiners](Beam%20combiners.html)
 - [Fringe tracking](interf/Fringe%20tracking.html)
 - [VLTI Very Large Telescope Interferometer](interf/VLTI%20Very%20Large%20Telescope%20Interferometer.html)
 - [CHARA array](interf/CHARA%20array.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

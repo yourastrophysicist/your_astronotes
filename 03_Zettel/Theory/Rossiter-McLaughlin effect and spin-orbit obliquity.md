@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Rossiter-McLaughlin effect and spin-orbit obliquity"
-name: "Rossiter-McLaughlin effect and spin-orbit obliquity"
-description: "photospheric velocity anomaly during transit, sky-projected spin-orbit angle lambda, and planetary migration diagnostics"
 ---
-{% raw %}
 the Rossiter-McLaughlin (RM) effect is a spectroscopic anomaly observed when a transiting exoplanet crosses the disk of a rotating host star.
 
 ## physical mechanism
@@ -41,14 +38,14 @@ Winn et al. (2010) discovered that hot Jupiters around hot stars ($T_{\text{eff}
 
 - [Exoplanetary_Astrophysics_MOC](../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)
 - [15_Planetary_Transits_Geometry_and_Rossiter_McLaughlin](../../02_Literature/Lectures/Exoplanetary_Astrophysics/15_Planetary_Transits_Geometry_and_Rossiter_McLaughlin.html)
-- [Keplerian radial velocity and Doppler semi-amplitude](./Keplerian%20radial%20velocity%20and%20Doppler%20semi-amplitude.html)
-- [Mandel-Agol analytical transit light curve model](./Mandel-Agol%20analytical%20transit%20light%20curve%20model.html)
-{% endraw %}
+- [Keplerian radial velocity and Doppler semi-amplitude](Keplerian%20radial%20velocity%20and%20Doppler%20semi-amplitude.html)
+- [Mandel-Agol analytical transit light curve model](Mandel-Agol%20analytical%20transit%20light%20curve%20model.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Keplerian%20radial%20velocity%20and%20Doppler%20semi-amplitude.html" class="backlink-item">Keplerian radial velocity and Doppler semi-amplitude</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Keplerian%20radial%20velocity%20and%20Doppler%20semi-amplitude.html" class="backlink-item">Keplerian radial velocity and Doppler semi-amplitude</a></li>
   </ul>
 </div>
+

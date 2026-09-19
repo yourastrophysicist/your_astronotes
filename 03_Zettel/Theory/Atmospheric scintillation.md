@@ -2,7 +2,6 @@
 layout: "default"
 title: "Atmospheric scintillation"
 ---
-{% raw %}
 scintillation is the **temporal flickering** of point-source intensity caused by interference of light paths through density fluctuations in the atmosphere. it is the same physics that makes stars "twinkle" but planets do not. for high-precision time-series photometry it is a real noise floor.
 
 ## the physical picture
@@ -50,9 +49,8 @@ both come from the same atmospheric turbulence, but they live in different obser
 
 ## see also
 
-- [Earth atmosphere for observations](./Earth%20atmosphere%20for%20observations.html)
+- [Earth atmosphere for observations](Earth%20atmosphere%20for%20observations.html)
 - [Atmospheric seeing](interf/Atmospheric%20seeing.html)
 - [Adaptive optics overview](interf/Adaptive%20optics%20overview.html)
-- [CCD detectors and SNR](./CCD%20detectors%20and%20SNR.html)
-- [Sky brightness](./Sky%20brightness.html)
-{% endraw %}
+- [CCD detectors and SNR](CCD%20detectors%20and%20SNR.html)
+- [Sky brightness](Sky%20brightness.html)

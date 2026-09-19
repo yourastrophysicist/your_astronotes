@@ -2,7 +2,6 @@
 layout: "default"
 title: "Beam splitter physics"
 ---
-{% raw %}
 # Beam splitter physics
 
 the **central optical element** of every amplitude-division interferometer. a partially-reflective coating at a 45° angle (or other angle) on a glass substrate. it splits an incoming beam into two beams of comparable amplitude, traveling along different paths.
@@ -110,10 +109,9 @@ modern instruments (GRAVITY, MATISSE) use silicon photonic chips with thousands 
 
 ## see also
 
-- [Amplitude-division interferometers](./Amplitude-division%20interferometers.html)
+- [Amplitude-division interferometers](Amplitude-division%20interferometers.html)
 - [Michelson laboratory interferometer](interf/Michelson%20laboratory%20interferometer.html)
 - [Mach-Zehnder interferometer](interf/Mach-Zehnder%20interferometer.html)
 - [Sagnac interferometer](interf/Sagnac%20interferometer.html)
-- [Beam combiners](./Beam%20combiners.html)
+- [Beam combiners](Beam%20combiners.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

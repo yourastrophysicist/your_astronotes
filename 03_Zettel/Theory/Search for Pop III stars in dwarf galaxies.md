@@ -1,15 +1,12 @@
 ---
 layout: "default"
 title: "Search for Pop III stars in dwarf galaxies"
-name: "Search for Pop III stars in dwarf galaxies"
-description: "surveys hunting for chemically primitive stars with Pop III nucleosynthetic fingerprints, with UFDGs and the Galactic halo as the best hunting grounds"
 ---
-{% raw %}
-since [Pop III stars](./Population%20III%20stars.html) are not directly observable today (the metal-free first generation has died out), the **search for Pop III chemical signatures** in surviving stars is the main observational frontier. ultra-faint dwarf galaxies + the Galactic outer halo are the best hunting grounds because their stars are old, chemically primitive, and were polluted by very few progenitors per cloud.
+since [Pop III stars](Population%20III%20stars.html) are not directly observable today (the metal-free first generation has died out), the **search for Pop III chemical signatures** in surviving stars is the main observational frontier. ultra-faint dwarf galaxies + the Galactic outer halo are the best hunting grounds because their stars are old, chemically primitive, and were polluted by very few progenitors per cloud.
 
 ## why dwarf galaxies are the best targets
 
-unlike the Milky Way disk + bulge, [UFDGs](./Ultra-faint%20dwarf%20galaxies%20definition.html) have:
+unlike the Milky Way disk + bulge, [UFDGs](Ultra-faint%20dwarf%20galaxies%20definition.html) have:
 
 - **brief star-formation episode** (single old burst, truncated at reionisation);
 - **shallow potential well** (only one or few SNe pollute the entire UFDG);
@@ -100,23 +97,23 @@ these surveys are slowly mapping the Pop III IMF + SN explosion physics by count
 
 ## see also
 
-- [Population III stars](./Population%20III%20stars.html)
-- [Pop III nucleosynthesis signatures](./Pop%20III%20nucleosynthesis%20signatures.html)
-- [Critical metallicity for fragmentation](./Critical%20metallicity%20for%20fragmentation.html)
-- [Pop III remnants in UFDGs](./Pop%20III%20remnants%20in%20UFDGs.html)
-- [Ultra-faint dwarf galaxies definition](./Ultra-faint%20dwarf%20galaxies%20definition.html)
-- [UFDG search via deep CMD](./UFDG%20search%20via%20deep%20CMD.html)
-- [JWST and the first stars](./JWST%20and%20the%20first%20stars.html)
+- [Population III stars](Population%20III%20stars.html)
+- [Pop III nucleosynthesis signatures](Pop%20III%20nucleosynthesis%20signatures.html)
+- [Critical metallicity for fragmentation](Critical%20metallicity%20for%20fragmentation.html)
+- [Pop III remnants in UFDGs](Pop%20III%20remnants%20in%20UFDGs.html)
+- [Ultra-faint dwarf galaxies definition](Ultra-faint%20dwarf%20galaxies%20definition.html)
+- [UFDG search via deep CMD](UFDG%20search%20via%20deep%20CMD.html)
+- [JWST and the first stars](JWST%20and%20the%20first%20stars.html)
 - [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Critical%20metallicity%20for%20fragmentation.html" class="backlink-item">Critical metallicity for fragmentation</a></li>
-    <li class="backlink-item-wrap"><a href="./JWST%20and%20the%20first%20stars.html" class="backlink-item">JWST and the first stars</a></li>
-    <li class="backlink-item-wrap"><a href="./Pop%20III%20nucleosynthesis%20signatures.html" class="backlink-item">Pop III nucleosynthesis signatures</a></li>
-    <li class="backlink-item-wrap"><a href="./Population%20III%20stars.html" class="backlink-item">Population III stars</a></li>
+    <li class="backlink-item-wrap"><a href="Critical%20metallicity%20for%20fragmentation.html" class="backlink-item">Critical metallicity for fragmentation</a></li>
+    <li class="backlink-item-wrap"><a href="JWST%20and%20the%20first%20stars.html" class="backlink-item">JWST and the first stars</a></li>
+    <li class="backlink-item-wrap"><a href="Pop%20III%20nucleosynthesis%20signatures.html" class="backlink-item">Pop III nucleosynthesis signatures</a></li>
+    <li class="backlink-item-wrap"><a href="Population%20III%20stars.html" class="backlink-item">Population III stars</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

@@ -2,7 +2,6 @@
 layout: "default"
 title: "Deformable mirrors and tip-tilt"
 ---
-{% raw %}
 # Deformable mirrors and tip-tilt
 
 the *correction* component of an AO system. once the wavefront sensor reports the residual wavefront error, an actuator-driven mirror physically reshapes itself to compensate. modern DMs have hundreds to thousands of independent actuators, each adjustable on microsecond timescales.
@@ -97,21 +96,21 @@ solutions: closed-loop calibration, redundant actuators, replaceable mirror sect
 
 ## see also
 
-- [Adaptive optics](./Adaptive%20optics.html)
-- [Wavefront sensors](./Wavefront%20sensors.html)
-- [Guide stars and laser guide stars](./Guide%20stars%20and%20laser%20guide%20stars.html)
+- [Adaptive optics](Adaptive%20optics.html)
+- [Wavefront sensors](Wavefront%20sensors.html)
+- [Guide stars and laser guide stars](Guide%20stars%20and%20laser%20guide%20stars.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (7)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Adaptive%20optics.html" class="backlink-item">Adaptive optics</a></li>
     <li class="backlink-item-wrap"><a href="../Adaptive%20optics.html" class="backlink-item">Adaptive optics</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Guide%20stars%20and%20laser%20guide%20stars.html" class="backlink-item">Guide stars and laser guide stars</a></li>
     <li class="backlink-item-wrap"><a href="../Guide%20stars%20and%20laser%20guide%20stars.html" class="backlink-item">Guide stars and laser guide stars</a></li>
     <li class="backlink-item-wrap"><a href="../Wavefront%20sensors.html" class="backlink-item">Wavefront sensors</a></li>
-    <li class="backlink-item-wrap"><a href="./Wavefront%20sensors.html" class="backlink-item">Wavefront sensors</a></li>
+    <li class="backlink-item-wrap"><a href="Adaptive%20optics.html" class="backlink-item">Adaptive optics</a></li>
+    <li class="backlink-item-wrap"><a href="Guide%20stars%20and%20laser%20guide%20stars.html" class="backlink-item">Guide stars and laser guide stars</a></li>
+    <li class="backlink-item-wrap"><a href="Wavefront%20sensors.html" class="backlink-item">Wavefront sensors</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

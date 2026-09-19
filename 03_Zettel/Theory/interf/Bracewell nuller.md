@@ -2,7 +2,6 @@
 layout: "default"
 title: "Bracewell nuller"
 ---
-{% raw %}
 # Bracewell nuller
 
 the original nulling-interferometry concept, proposed by Ronald Bracewell (1978). a simple two-element interferometer with a $\pi$ phase shift in one arm. on-axis sources interfere destructively; off-axis sources survive.
@@ -91,23 +90,23 @@ his calculation framework — destructive interference on-axis, transmission off
 
 ## see also
 
-- [Nulling interferometry](./Nulling%20interferometry.html)
-- [Coronagraphy](./Coronagraphy.html)
-- [Apodization](./Apodization.html)
+- [Nulling interferometry](Nulling%20interferometry.html)
+- [Coronagraphy](Coronagraphy.html)
+- [Apodization](Apodization.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (9)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Apodization.html" class="backlink-item">Apodization</a></li>
     <li class="backlink-item-wrap"><a href="../Apodization.html" class="backlink-item">Apodization</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../Coronagraphy.html" class="backlink-item">Coronagraphy</a></li>
-    <li class="backlink-item-wrap"><a href="./Coronagraphy.html" class="backlink-item">Coronagraphy</a></li>
     <li class="backlink-item-wrap"><a href="../Future%20space-based.html" class="backlink-item">Future space-based</a></li>
-    <li class="backlink-item-wrap"><a href="./Future%20space-based.html" class="backlink-item">Future space-based</a></li>
-    <li class="backlink-item-wrap"><a href="./Nulling%20interferometry.html" class="backlink-item">Nulling interferometry</a></li>
     <li class="backlink-item-wrap"><a href="../Nulling%20interferometry.html" class="backlink-item">Nulling interferometry</a></li>
+    <li class="backlink-item-wrap"><a href="Apodization.html" class="backlink-item">Apodization</a></li>
+    <li class="backlink-item-wrap"><a href="Coronagraphy.html" class="backlink-item">Coronagraphy</a></li>
+    <li class="backlink-item-wrap"><a href="Future%20space-based.html" class="backlink-item">Future space-based</a></li>
+    <li class="backlink-item-wrap"><a href="Nulling%20interferometry.html" class="backlink-item">Nulling interferometry</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

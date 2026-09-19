@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Linux containers and Docker architecture in astrophysics"
-name: "Linux containers and Docker architecture in astrophysics"
-description: "containerization versus virtualization, Linux kernel namespaces, cgroups, UnionFS, and reproducible astrophysical pipeline environments"
 ---
-{% raw %}
 computational astrophysics workflows require long-term reproducibility across heterogeneous computing environments (local workstations, department servers, and national HPC supercomputers).
 
 ## virtualization versus containerization
@@ -39,16 +36,16 @@ apptainer run --bind /scratch:/scratch daneel_env.sif python run_retrieval.py
 
 - [Computational_Astrophysics_MOC](../../04_Atlas/Computational_Astrophysics_MOC.html)
 - [01_Linux_Containers_and_Docker_Architecture](../../02_Literature/Lectures/Computational_Astrophysics/01_Linux_Containers_and_Docker_Architecture.html)
-- [Distributed version control DAG and GitLab workflows](./Distributed%20version%20control%20DAG%20and%20GitLab%20workflows.html)
-- [Modular Python packaging and scientific software architecture](./Modular%20Python%20packaging%20and%20scientific%20software%20architecture.html)
-- [CloudVeneto HPC OpenStack infrastructure and remote clusters](./CloudVeneto%20HPC%20OpenStack%20infrastructure%20and%20remote%20clusters.html)
-{% endraw %}
+- [Distributed version control DAG and GitLab workflows](Distributed%20version%20control%20DAG%20and%20GitLab%20workflows.html)
+- [Modular Python packaging and scientific software architecture](Modular%20Python%20packaging%20and%20scientific%20software%20architecture.html)
+- [CloudVeneto HPC OpenStack infrastructure and remote clusters](CloudVeneto%20HPC%20OpenStack%20infrastructure%20and%20remote%20clusters.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./CloudVeneto%20HPC%20OpenStack%20infrastructure%20and%20remote%20clusters.html" class="backlink-item">CloudVeneto HPC OpenStack infrastructure and remote clusters</a></li>
+    <li class="backlink-item-wrap"><a href="CloudVeneto%20HPC%20OpenStack%20infrastructure%20and%20remote%20clusters.html" class="backlink-item">CloudVeneto HPC OpenStack infrastructure and remote clusters</a></li>
+    <li class="backlink-item-wrap"><a href="Distributed%20version%20control%20DAG%20and%20GitLab%20workflows.html" class="backlink-item">Distributed version control DAG and GitLab workflows</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Distributed%20version%20control%20DAG%20and%20GitLab%20workflows.html" class="backlink-item">Distributed version control DAG and GitLab workflows</a></li>
   </ul>
 </div>
+

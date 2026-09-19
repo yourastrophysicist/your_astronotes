@@ -2,7 +2,6 @@
 layout: "default"
 title: "CMB power spectrum"
 ---
-{% raw %}
 the **CMB angular power spectrum** $C_\ell$ is the variance of CMB temperature anisotropies at multipole $\ell$ (corresponding to angular scale $\theta \sim 180°/\ell$). its **peak structure** encodes most of cosmological physics.
 
 ## the definition
@@ -75,14 +74,14 @@ so the peak positions encode the sound horizon at recombination (a known scale),
 ## see also
 
 - CMB — discovery and blackbody spectrum
-- [CMB anisotropies](./CMB%20anisotropies.html)
-- [Polarization E and B modes](./Polarization%20E%20and%20B%20modes.html)
-- [Photon decoupling and CMB](./Photon%20decoupling%20and%20CMB.html)
-- [Saha equation and recombination](./Saha%20equation%20and%20recombination.html)
-- [Linear evolution of perturbations in expanding universe](./Linear%20evolution%20of%20perturbations%20in%20expanding%20universe.html)
-- [ΛCDM current parameters](./%CE%9BCDM%20current%20parameters.html)
-- [Inflation overview](./Inflation%20overview.html)
-- [Matter power spectrum and BAO](./Matter%20power%20spectrum%20and%20BAO.html)
+- [CMB anisotropies](CMB%20anisotropies.html)
+- [Polarization E and B modes](Polarization%20E%20and%20B%20modes.html)
+- [Photon decoupling and CMB](Photon%20decoupling%20and%20CMB.html)
+- [Saha equation and recombination](Saha%20equation%20and%20recombination.html)
+- [Linear evolution of perturbations in expanding universe](Linear%20evolution%20of%20perturbations%20in%20expanding%20universe.html)
+- [ΛCDM current parameters](%CE%9BCDM%20current%20parameters.html)
+- [Inflation overview](Inflation%20overview.html)
+- [Matter power spectrum and BAO](Matter%20power%20spectrum%20and%20BAO.html)
 - [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
 
 ---
@@ -95,24 +94,24 @@ so the peak positions encode the sound horizon at recombination (a known scale),
 
 ![planck_TE_spectrum.png](../../assets/images/planck_TE_spectrum.png)
 *Planck 2018 Temperature-E-mode Polarization cross-correlation spectrum $D_\ell^{TE}$, confirming acoustic oscillations in phase with velocity perturbations at decoupling.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (14)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Angular%20diameter%20distance.html" class="backlink-item">Angular diameter distance</a></li>
-    <li class="backlink-item-wrap"><a href="./CMB%20-%20discovery%20and%20blackbody%20spectrum.html" class="backlink-item">CMB - discovery and blackbody spectrum</a></li>
-    <li class="backlink-item-wrap"><a href="./CMB%20anisotropies.html" class="backlink-item">CMB anisotropies</a></li>
-    <li class="backlink-item-wrap"><a href="./Cosmological%20evolution%20of%20perturbations%20in%20the%20cosmic%20fluid.html" class="backlink-item">Cosmological evolution of perturbations in the cosmic fluid</a></li>
-    <li class="backlink-item-wrap"><a href="./Cosmological%20inflation.html" class="backlink-item">Cosmological inflation</a></li>
-    <li class="backlink-item-wrap"><a href="./Curvature-dynamics%20relation.html" class="backlink-item">Curvature-dynamics relation</a></li>
-    <li class="backlink-item-wrap"><a href="./Lambda%20CDM%20current%20parameters.html" class="backlink-item">Lambda CDM current parameters</a></li>
-    <li class="backlink-item-wrap"><a href="./LambdaCDM%20current%20parameters.html" class="backlink-item">LambdaCDM current parameters</a></li>
-    <li class="backlink-item-wrap"><a href="./Lensing%20as%20a%20cosmological%20probe.html" class="backlink-item">Lensing as a cosmological probe</a></li>
+    <li class="backlink-item-wrap"><a href="Angular%20diameter%20distance.html" class="backlink-item">Angular diameter distance</a></li>
+    <li class="backlink-item-wrap"><a href="CMB%20-%20discovery%20and%20blackbody%20spectrum.html" class="backlink-item">CMB - discovery and blackbody spectrum</a></li>
+    <li class="backlink-item-wrap"><a href="CMB%20anisotropies.html" class="backlink-item">CMB anisotropies</a></li>
+    <li class="backlink-item-wrap"><a href="Cosmological%20evolution%20of%20perturbations%20in%20the%20cosmic%20fluid.html" class="backlink-item">Cosmological evolution of perturbations in the cosmic fluid</a></li>
+    <li class="backlink-item-wrap"><a href="Cosmological%20inflation.html" class="backlink-item">Cosmological inflation</a></li>
+    <li class="backlink-item-wrap"><a href="Curvature-dynamics%20relation.html" class="backlink-item">Curvature-dynamics relation</a></li>
+    <li class="backlink-item-wrap"><a href="Lambda%20CDM%20current%20parameters.html" class="backlink-item">Lambda CDM current parameters</a></li>
+    <li class="backlink-item-wrap"><a href="LambdaCDM%20current%20parameters.html" class="backlink-item">LambdaCDM current parameters</a></li>
+    <li class="backlink-item-wrap"><a href="Lensing%20as%20a%20cosmological%20probe.html" class="backlink-item">Lensing as a cosmological probe</a></li>
+    <li class="backlink-item-wrap"><a href="Polarization%20E%20and%20B%20modes.html" class="backlink-item">Polarization E and B modes</a></li>
+    <li class="backlink-item-wrap"><a href="SVT%20decomposition.html" class="backlink-item">SVT decomposition</a></li>
+    <li class="backlink-item-wrap"><a href="Surveys%20to%20remember.html" class="backlink-item">Surveys to remember</a></li>
+    <li class="backlink-item-wrap"><a href="%CE%9BCDM%20current%20parameters.html" class="backlink-item">ΛCDM current parameters</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Polarization%20E%20and%20B%20modes.html" class="backlink-item">Polarization E and B modes</a></li>
-    <li class="backlink-item-wrap"><a href="./SVT%20decomposition.html" class="backlink-item">SVT decomposition</a></li>
-    <li class="backlink-item-wrap"><a href="./Surveys%20to%20remember.html" class="backlink-item">Surveys to remember</a></li>
-    <li class="backlink-item-wrap"><a href="./%CE%9BCDM%20current%20parameters.html" class="backlink-item">ΛCDM current parameters</a></li>
   </ul>
 </div>
+

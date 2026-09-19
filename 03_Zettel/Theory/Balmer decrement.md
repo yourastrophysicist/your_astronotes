@@ -2,10 +2,9 @@
 layout: "default"
 title: "Balmer decrement"
 ---
-{% raw %}
 # Balmer decrement
 
-up: [Pablo_03_Star_formation_in_galaxies](../../02_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html) · [H-alpha SFR tracer](./H-alpha%20SFR%20tracer.html)
+up: [Pablo_03_Star_formation_in_galaxies](../../02_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html) · [H-alpha SFR tracer](H-alpha%20SFR%20tracer.html)
 
 ## the idea
 
@@ -37,7 +36,7 @@ for a LIRG with $A_V \sim 3$ in the diffuse ISM and possibly $A_V \sim 6$ in the
 
 ## gas vs stars
 
-the **gas** $E(B-V)_{\text{gas}}$ measured from Balmer decrement is generally *larger* than the **stellar** $E(B-V)_{\text{star}}$ measured from continuum slope, because HII regions live deeper in birth clouds (see Charlot & Fall 2000 in [Dust attenuation and extinction curves](./Dust%20attenuation%20and%20extinction%20curves.html)). typical ratio, from Calzetti 2000:
+the **gas** $E(B-V)_{\text{gas}}$ measured from Balmer decrement is generally *larger* than the **stellar** $E(B-V)_{\text{star}}$ measured from continuum slope, because HII regions live deeper in birth clouds (see Charlot & Fall 2000 in [Dust attenuation and extinction curves](Dust%20attenuation%20and%20extinction%20curves.html)). typical ratio, from Calzetti 2000:
 
 $$E(B-V)_{\text{star}} \simeq 0.44\, E(B-V)_{\text{gas}}$$
 
@@ -49,9 +48,9 @@ $$E(B-V)_{\text{star}} \simeq 0.44\, E(B-V)_{\text{gas}}$$
 
 ## connections
 
-- primary use: [H-alpha SFR tracer](./H-alpha%20SFR%20tracer.html)
-- extinction curves: [Dust attenuation and extinction curves](./Dust%20attenuation%20and%20extinction%20curves.html)
-- alternative correction: [UV slope and IRX-beta relation](./UV%20slope%20and%20IRX-beta%20relation.html)
+- primary use: [H-alpha SFR tracer](H-alpha%20SFR%20tracer.html)
+- extinction curves: [Dust attenuation and extinction curves](Dust%20attenuation%20and%20extinction%20curves.html)
+- alternative correction: [UV slope and IRX-beta relation](UV%20slope%20and%20IRX-beta%20relation.html)
 
 ## key references
 
@@ -74,25 +73,23 @@ $$E(B-V)_{\text{star}} \simeq 0.44\, E(B-V)_{\text{gas}}$$
 
 ![obs_rad-096.png](../../assets/images/obs_rad-096.png)
 *Formula: E(B - V) = [2.5 / (k(H-beta) - k(H-alpha))] * log10 [ (F_Ha / F_Hb)_obs / 2.86 ].*
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (15)</h4>
+  <h4 class="backlinks-title">Linked References (13)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="BPT%20diagram.html" class="backlink-item">BPT diagram</a></li>
+    <li class="backlink-item-wrap"><a href="Case%20A%20vs%20Case%20B%20recombination.html" class="backlink-item">Case A vs Case B recombination</a></li>
+    <li class="backlink-item-wrap"><a href="Dust%20attenuation%20and%20extinction%20curves.html" class="backlink-item">Dust attenuation and extinction curves</a></li>
+    <li class="backlink-item-wrap"><a href="Dust%20extinction%20in%20nebulae.html" class="backlink-item">Dust extinction in nebulae</a></li>
+    <li class="backlink-item-wrap"><a href="Forbidden%20line%20diagnostics.html" class="backlink-item">Forbidden line diagnostics</a></li>
+    <li class="backlink-item-wrap"><a href="Hydrogen%20spectral%20series.html" class="backlink-item">Hydrogen spectral series</a></li>
+    <li class="backlink-item-wrap"><a href="OII%20SFR%20tracer.html" class="backlink-item">OII SFR tracer</a></li>
+    <li class="backlink-item-wrap"><a href="Optically%20thin%20recombination%20lines.html" class="backlink-item">Optically thin recombination lines</a></li>
+    <li class="backlink-item-wrap"><a href="Recombination%20line%20emissivity.html" class="backlink-item">Recombination line emissivity</a></li>
+    <li class="backlink-item-wrap"><a href="Rydberg-Ritz%20formula.html" class="backlink-item">Rydberg-Ritz formula</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./BPT%20diagram.html" class="backlink-item">BPT diagram</a></li>
-    <li class="backlink-item-wrap"><a href="./Case%20A%20vs%20Case%20B%20recombination.html" class="backlink-item">Case A vs Case B recombination</a></li>
-    <li class="backlink-item-wrap"><a href="./Dust%20attenuation%20and%20extinction%20curves.html" class="backlink-item">Dust attenuation and extinction curves</a></li>
-    <li class="backlink-item-wrap"><a href="./Dust%20extinction%20in%20nebulae.html" class="backlink-item">Dust extinction in nebulae</a></li>
-    <li class="backlink-item-wrap"><a href="./Forbidden%20line%20diagnostics.html" class="backlink-item">Forbidden line diagnostics</a></li>
-    <li class="backlink-item-wrap"><a href="./H%20II%20region%20spectroscopy.html" class="backlink-item">H II region spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="./Hydrogen%20spectral%20series.html" class="backlink-item">Hydrogen spectral series</a></li>
-    <li class="backlink-item-wrap"><a href="./OII%20SFR%20tracer.html" class="backlink-item">OII SFR tracer</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Optically%20thin%20recombination%20lines.html" class="backlink-item">Optically thin recombination lines</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html" class="backlink-item">Pablo_03_Star_formation_in_galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="./Recombination%20line%20emissivity.html" class="backlink-item">Recombination line emissivity</a></li>
-    <li class="backlink-item-wrap"><a href="./Rydberg-Ritz%20formula.html" class="backlink-item">Rydberg-Ritz formula</a></li>
   </ul>
 </div>
+

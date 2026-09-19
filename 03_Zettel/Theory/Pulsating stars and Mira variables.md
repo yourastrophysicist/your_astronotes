@@ -2,7 +2,6 @@
 layout: "default"
 title: "Pulsating stars and Mira variables"
 ---
-{% raw %}
 # Pulsating stars and Mira variables
 
 interferometric imaging directly resolves the *pulsating* surface of variable stars. for Mira variables (long-period red giant pulsators) and Cepheids, interferometry gives the diameter as a function of pulsation phase, testing pulsation theory and contributing to distance scales.
@@ -95,4 +94,3 @@ a typical Mira observation: 4-8 phases × 2 wavelengths × 5 baselines = 40+ mea
 - [Dust shells and Wolf-Rayet stars](interf/Dust%20shells%20and%20Wolf-Rayet%20stars.html)
 - [CHARA array](interf/CHARA%20array.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

@@ -2,8 +2,7 @@
 layout: "default"
 title: "Malavolta 11 - Transit Geometry and Analytical Light Curve Modeling"
 ---
-{% raw %}
-# Malavolta 11 ? Transit Geometry and Analytical Light Curve Modeling
+# Malavolta 11 — Transit Geometry and Analytical Light Curve Modeling
 
 *Astrophysics Laboratory 2, Prof. Luca Malavolta*  
 *Index: [Astrophysics_Laboratory_2_MOC](../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html)*
@@ -133,21 +132,18 @@ m = batman.TransitModel(params, time_array, supersample_factor=7, exp_time=120.0
 
 ![Mandel-Agol Analytical Light Curve Computation](../../../assets/images/lab2_transit_model_p03.png)
 *Figure LAB2-07: Analytic transit flux model evaluated via the Mandel & Agol (2002) formulation utilizing complete elliptic integrals of the first, second, and third kind.*
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (11)</h4>
+  <h4 class="backlinks-title">Linked References (8)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Computational/Barycentric%20Julian%20Date%20and%20Time%20System%20Conversions.html" class="backlink-item">Barycentric Julian Date and Time System Conversions</a></li>
+    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Computational/Limb%20Darkening%20Computation%20with%20ldtk.html" class="backlink-item">Limb Darkening Computation with ldtk</a></li>
+    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Computational/Transit%20Modeling%20with%20batman.html" class="backlink-item">Transit Modeling with batman</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Exoplanet%20Transit%20Geometry%20and%20Impact%20Parameter.html" class="backlink-item">Exoplanet Transit Geometry and Impact Parameter</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Exposure%20Time%20Smearing%20in%20Transit%20Photometry.html" class="backlink-item">Exposure Time Smearing in Transit Photometry</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Computational/Limb%20Darkening%20Computation%20with%20ldtk.html" class="backlink-item">Limb Darkening Computation with ldtk</a></li>
-    <li class="backlink-item-wrap"><a href="./Malavolta%2007%20-%20Differential%20Photometry%20and%20Atmospheric%20Detrending.html" class="backlink-item">Malavolta 07 - Differential Photometry and Atmospheric Detrending</a></li>
-    <li class="backlink-item-wrap"><a href="./Malavolta%2010%20-%20Light%20Curve%20Filtering%20and%20Detrending%20Techniques.html" class="backlink-item">Malavolta 10 - Light Curve Filtering and Detrending Techniques</a></li>
-    <li class="backlink-item-wrap"><a href="./Piotto%2001%20-%20Exoplanet%20Detection%20and%20Demographics.html" class="backlink-item">Piotto 01 - Exoplanet Detection and Demographics</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Stellar%20Limb%20Darkening%20Laws.html" class="backlink-item">Stellar Limb Darkening Laws</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Transit%20Depth%20and%20Ingress-Egress%20Timescales.html" class="backlink-item">Transit Depth and Ingress-Egress Timescales</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Computational/Transit%20Modeling%20with%20batman.html" class="backlink-item">Transit Modeling with batman</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
   </ul>
 </div>
+

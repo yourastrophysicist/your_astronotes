@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Extinction law and Rv"
-name: "Extinction law and Rv"
-description: "the wavelength dependence of dust extinction parametrised by Cardelli Clayton Mathis 1989 and the role of Rv in distinguishing diffuse from dense ISM"
 ---
-{% raw %}
 the extinction law is the function $A(\lambda)/A_V$ that tells you how much dust attenuation there is at wavelength $\lambda$ relative to the $V$ band. cardelli, clayton & mathis (1989, ApJ 345, 245), usually shortened to CCM89, gave a parametrised fit covering UV through IR that depends on a single parameter, $R_V$:
 
 $$\frac{A(\lambda)}{A_V} = a(x) + \frac{b(x)}{R_V}$$
@@ -43,18 +40,18 @@ this directly shifts the slope of the Hubble diagram, illustrating why high-prec
 
 ## see also
 
-- [Interstellar reddening and the reddening vector](./Interstellar%20reddening%20and%20the%20reddening%20vector.html)
-- [Interstellar absorption](./Interstellar%20absorption.html)
-- [Color-magnitude diagrams of clusters](./Color-magnitude%20diagrams%20of%20clusters.html)
+- [Interstellar reddening and the reddening vector](Interstellar%20reddening%20and%20the%20reddening%20vector.html)
+- [Interstellar absorption](Interstellar%20absorption.html)
+- [Color-magnitude diagrams of clusters](Color-magnitude%20diagrams%20of%20clusters.html)
 - [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Differential%20reddening%20maps.html" class="backlink-item">Differential reddening maps</a></li>
-    <li class="backlink-item-wrap"><a href="./Effects%20of%20differential%20reddening%20on%20CMD%20analysis.html" class="backlink-item">Effects of differential reddening on CMD analysis</a></li>
-    <li class="backlink-item-wrap"><a href="./Interstellar%20reddening%20and%20the%20reddening%20vector.html" class="backlink-item">Interstellar reddening and the reddening vector</a></li>
+    <li class="backlink-item-wrap"><a href="Differential%20reddening%20maps.html" class="backlink-item">Differential reddening maps</a></li>
+    <li class="backlink-item-wrap"><a href="Effects%20of%20differential%20reddening%20on%20CMD%20analysis.html" class="backlink-item">Effects of differential reddening on CMD analysis</a></li>
+    <li class="backlink-item-wrap"><a href="Interstellar%20reddening%20and%20the%20reddening%20vector.html" class="backlink-item">Interstellar reddening and the reddening vector</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

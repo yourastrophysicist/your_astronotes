@@ -2,8 +2,7 @@
 layout: "default"
 title: "Laboratory Exercise - TESS Target Pixel Extraction and Filtering"
 ---
-{% raw %}
-# Laboratory Exercise ? TESS Target Pixel Extraction and Filtering
+# Laboratory Exercise — TESS Target Pixel Extraction and Filtering
 
 Protocol for querying TESS Target Pixel Files from MAST, processing light curves, and flattening stellar variability.
 
@@ -70,12 +69,11 @@ flat_err = err_clean / trend
 - [TESS Target Pixel Files and Custom Aperture Masks](../Observations/TESS%20Target%20Pixel%20Files%20and%20Custom%20Aperture%20Masks.html)
 - [TESS SAP vs PDCSAP Flux and Cotrending Basis Vectors](../Observations/TESS%20SAP%20vs%20PDCSAP%20Flux%20and%20Cotrending%20Basis%20Vectors.html)
 - [Running Median and Biweight Light Curve Filters](../Computational/Running%20Median%20and%20Biweight%20Light%20Curve%20Filters.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
+  <h4 class="backlinks-title">Linked References (1)</h4>
   <ul class="backlinks-list">
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2008%20-%20TESS%20Mission%20Architecture%20and%20Target%20Pixel%20Files.html" class="backlink-item">Malavolta 08 - TESS Mission Architecture and Target Pixel Files</a></li>
   </ul>
 </div>
+

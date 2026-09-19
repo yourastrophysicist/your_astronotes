@@ -2,7 +2,6 @@
 layout: "default"
 title: "Diffraction patterns of simple apertures"
 ---
-{% raw %}
 # Diffraction patterns of simple apertures
 
 the standard Fraunhofer-diffraction patterns. each one shows up somewhere in interferometry, either as a calibration target, a benchmark for instrument design, or as the response of the array itself.
@@ -90,7 +89,7 @@ $$I(\theta) \propto \left[\frac{2 J_1(\pi D \theta/\lambda)}{\pi D \theta/\lambd
 
 each Airy disk modulated by cosine fringes. fringe spacing: $\lambda/B$. envelope: Airy disk of single subaperture, scale $\lambda/D$. so the field of view (where fringes are visible) is set by $D$, the resolution within that field of view by $B$.
 
-this is the prototype for [Michelson stellar interferometer](./Michelson%20stellar%20interferometer.html).
+this is the prototype for [Michelson stellar interferometer](Michelson%20stellar%20interferometer.html).
 
 ## sparse aperture array
 
@@ -103,7 +102,7 @@ $$I(\mathbf u) \propto \lvert \tilde A_{\rm sub}\rvert^2 \cdot \left\lvert\sum_i
 
 the second factor is a function of the **array geometry**. its peaks are at the spatial frequencies $\mathbf u$ such that all sub-apertures interfere constructively. these peaks form the **(u, v) coverage** of the array.
 
-this is the foundation of [Aperture synthesis principle](./Aperture%20synthesis%20principle.html).
+this is the foundation of [Aperture synthesis principle](Aperture%20synthesis%20principle.html).
 
 ## what to remember
 
@@ -126,23 +125,23 @@ source: local plot generated from the Airy-pattern Bessel formula.
 
 ## see also
 
-- [Fraunhofer diffraction](./Fraunhofer%20diffraction.html)
-- [Point spread function](./Point%20spread%20function.html)
-- [Optical transfer function](./Optical%20transfer%20function.html)
-- [Aperture synthesis principle](./Aperture%20synthesis%20principle.html)
+- [Fraunhofer diffraction](Fraunhofer%20diffraction.html)
+- [Point spread function](Point%20spread%20function.html)
+- [Optical transfer function](Optical%20transfer%20function.html)
+- [Aperture synthesis principle](Aperture%20synthesis%20principle.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (8)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
     <li class="backlink-item-wrap"><a href="../Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="./Fraunhofer%20diffraction.html" class="backlink-item">Fraunhofer diffraction</a></li>
     <li class="backlink-item-wrap"><a href="../Fraunhofer%20diffraction.html" class="backlink-item">Fraunhofer diffraction</a></li>
-    <li class="backlink-item-wrap"><a href="./Plane%20waves%20and%20Huygens%20principle.html" class="backlink-item">Plane waves and Huygens principle</a></li>
-    <li class="backlink-item-wrap"><a href="./Point%20spread%20function.html" class="backlink-item">Point spread function</a></li>
     <li class="backlink-item-wrap"><a href="../Point%20spread%20function.html" class="backlink-item">Point spread function</a></li>
+    <li class="backlink-item-wrap"><a href="Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
+    <li class="backlink-item-wrap"><a href="Fraunhofer%20diffraction.html" class="backlink-item">Fraunhofer diffraction</a></li>
+    <li class="backlink-item-wrap"><a href="Plane%20waves%20and%20Huygens%20principle.html" class="backlink-item">Plane waves and Huygens principle</a></li>
+    <li class="backlink-item-wrap"><a href="Point%20spread%20function.html" class="backlink-item">Point spread function</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

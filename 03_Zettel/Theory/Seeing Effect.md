@@ -2,7 +2,6 @@
 layout: "default"
 title: "Seeing Effect"
 ---
-{% raw %}
 **Seeing** is the blurring and twinkling of astronomical images
 	caused by turbulent mixing of air cells with different temperatures and densities
 		which refract light by slightly different amounts
@@ -128,7 +127,7 @@ $$\sigma_I^2 / I^2 \propto D^{-4/3} (\cos z)^{-3} \int C_n^2(h) h^2 \, dh$$
 
 Scintillation is worse for:
 	small apertures (large apertures average it out)
-	objects near the horizon (large $z$)
+\tobjects near the horizon (large $z$)
 	shorter wavelengths
 
 ---
@@ -141,16 +140,16 @@ Scintillation is worse for:
 | Poor seeing | $\theta \approx \lambda/r_0 \gg \lambda/D$ | Approximately stable |
 | Poor transparency (clouds) | Approximately diffraction-limited | Dimmed |
 | High scintillation | Approximately $\lambda/r_0$ | Rapidly variable |
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (6)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Atmospheric%20seeing.html" class="backlink-item">Atmospheric seeing</a></li>
+    <li class="backlink-item-wrap"><a href="Atmospheric%20seeing.html" class="backlink-item">Atmospheric seeing</a></li>
+    <li class="backlink-item-wrap"><a href="Atmospheric%20transmission.html" class="backlink-item">Atmospheric transmission</a></li>
+    <li class="backlink-item-wrap"><a href="Telescope%20resolving%20power.html" class="backlink-item">Telescope resolving power</a></li>
     <li class="backlink-item-wrap"><a href="interf/Atmospheric%20seeing.html" class="backlink-item">Atmospheric seeing</a></li>
     <li class="backlink-item-wrap"><a href="interf/Atmospheric%20transmission.html" class="backlink-item">Atmospheric transmission</a></li>
-    <li class="backlink-item-wrap"><a href="./Atmospheric%20transmission.html" class="backlink-item">Atmospheric transmission</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Telescope%20resolving%20power.html" class="backlink-item">Telescope resolving power</a></li>
   </ul>
 </div>
+

@@ -2,7 +2,6 @@
 layout: "default"
 title: "Hubble constant and deceleration parameter"
 ---
-{% raw %}
 the **Hubble parameter** $H(t)$ measures the rate of expansion at any cosmic time. its value today is the **Hubble constant** $H_0$. the **deceleration parameter** $q_0$ measures how the expansion is changing with time today.
 
 ---
@@ -82,32 +81,32 @@ a cosmological constant has $w = -1$ exactly. observed $w \approx -1$ to $\sim 1
 ## see also
 
 - [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Cosmic_inventory_overview](./Cosmic_inventory_overview.html)
-- [Cosmic_inventory_dark_energy](./Cosmic_inventory_dark_energy.html)
+- [Cosmic_inventory_overview](Cosmic_inventory_overview.html)
+- [Cosmic_inventory_dark_energy](Cosmic_inventory_dark_energy.html)
 - Friedmann equations with Λ
-- [Density parameters and flatness](./Density%20parameters%20and%20flatness.html)
-- [Hubble law derivation low-z](./Hubble%20law%20derivation%20low-z.html)
-- [Hubble law exact form](./Hubble%20law%20exact%20form.html)
-{% endraw %}
+- [Density parameters and flatness](Density%20parameters%20and%20flatness.html)
+- [Hubble law derivation low-z](Hubble%20law%20derivation%20low-z.html)
+- [Hubble law exact form](Hubble%20law%20exact%20form.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (16)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Cosmic%20eras.html" class="backlink-item">Cosmic eras</a></li>
-    <li class="backlink-item-wrap"><a href="./Cosmic_inventory_dark_energy.html" class="backlink-item">Cosmic_inventory_dark_energy</a></li>
-    <li class="backlink-item-wrap"><a href="./Deceleration%20parameter.html" class="backlink-item">Deceleration parameter</a></li>
-    <li class="backlink-item-wrap"><a href="./Density%20parameters.html" class="backlink-item">Density parameters</a></li>
-    <li class="backlink-item-wrap"><a href="./Density%20parameters%20and%20flatness.html" class="backlink-item">Density parameters and flatness</a></li>
-    <li class="backlink-item-wrap"><a href="./FLRW%20metric.html" class="backlink-item">FLRW metric</a></li>
-    <li class="backlink-item-wrap"><a href="./Friedmann%20equations.html" class="backlink-item">Friedmann equations</a></li>
-    <li class="backlink-item-wrap"><a href="./Friedmann%20equations%20with%20Lambda.html" class="backlink-item">Friedmann equations with Lambda</a></li>
+    <li class="backlink-item-wrap"><a href="Cosmic%20eras.html" class="backlink-item">Cosmic eras</a></li>
+    <li class="backlink-item-wrap"><a href="Cosmic_inventory_dark_energy.html" class="backlink-item">Cosmic_inventory_dark_energy</a></li>
+    <li class="backlink-item-wrap"><a href="Deceleration%20parameter.html" class="backlink-item">Deceleration parameter</a></li>
+    <li class="backlink-item-wrap"><a href="Density%20parameters%20and%20flatness.html" class="backlink-item">Density parameters and flatness</a></li>
+    <li class="backlink-item-wrap"><a href="Density%20parameters.html" class="backlink-item">Density parameters</a></li>
+    <li class="backlink-item-wrap"><a href="FLRW%20metric.html" class="backlink-item">FLRW metric</a></li>
+    <li class="backlink-item-wrap"><a href="Friedmann%20equations%20with%20Lambda.html" class="backlink-item">Friedmann equations with Lambda</a></li>
+    <li class="backlink-item-wrap"><a href="Friedmann%20equations.html" class="backlink-item">Friedmann equations</a></li>
+    <li class="backlink-item-wrap"><a href="Growth%20factor%20D%28z%29.html" class="backlink-item">Growth factor D(z)</a></li>
+    <li class="backlink-item-wrap"><a href="Hubble%20flow%20distances.html" class="backlink-item">Hubble flow distances</a></li>
+    <li class="backlink-item-wrap"><a href="Hubble%20law%20derivation%20low-z.html" class="backlink-item">Hubble law derivation low-z</a></li>
+    <li class="backlink-item-wrap"><a href="Hubble%20law%20exact%20form.html" class="backlink-item">Hubble law exact form</a></li>
+    <li class="backlink-item-wrap"><a href="Hubble%20law.html" class="backlink-item">Hubble law</a></li>
+    <li class="backlink-item-wrap"><a href="Robertson-Walker%20metric.html" class="backlink-item">Robertson-Walker metric</a></li>
+    <li class="backlink-item-wrap"><a href="Spatial%20curvature%20parameter%20k.html" class="backlink-item">Spatial curvature parameter k</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Growth%20factor%20D%28z%29.html" class="backlink-item">Growth factor D(z)</a></li>
-    <li class="backlink-item-wrap"><a href="./Hubble%20flow%20distances.html" class="backlink-item">Hubble flow distances</a></li>
-    <li class="backlink-item-wrap"><a href="./Hubble%20law.html" class="backlink-item">Hubble law</a></li>
-    <li class="backlink-item-wrap"><a href="./Hubble%20law%20derivation%20low-z.html" class="backlink-item">Hubble law derivation low-z</a></li>
-    <li class="backlink-item-wrap"><a href="./Hubble%20law%20exact%20form.html" class="backlink-item">Hubble law exact form</a></li>
-    <li class="backlink-item-wrap"><a href="./Robertson-Walker%20metric.html" class="backlink-item">Robertson-Walker metric</a></li>
-    <li class="backlink-item-wrap"><a href="./Spatial%20curvature%20parameter%20k.html" class="backlink-item">Spatial curvature parameter k</a></li>
   </ul>
 </div>
+

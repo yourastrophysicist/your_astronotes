@@ -2,7 +2,6 @@
 layout: "default"
 title: "Coherent vs incoherent imaging"
 ---
-{% raw %}
 # Coherent vs incoherent imaging
 
 a fundamental distinction. **coherent** imaging adds wave amplitudes; **incoherent** imaging adds intensities. interferometers operate in coherent mode (between sub-apertures, of light from the same astronomical source). regular telescopes mostly operate incoherently (between independent sources within the field).
@@ -79,20 +78,20 @@ interferometers care about this because *delay lines* must equalize the path len
 
 ## see also
 
-- [Plane waves and Huygens principle](./Plane%20waves%20and%20Huygens%20principle.html)
-- [Spatial coherence](./Spatial%20coherence.html)
-- [Temporal coherence](./Temporal%20coherence.html)
-- [Fringe visibility and contrast](./Fringe%20visibility%20and%20contrast.html)
-- [Coherence function and visibility](./Coherence%20function%20and%20visibility.html)
+- [Plane waves and Huygens principle](Plane%20waves%20and%20Huygens%20principle.html)
+- [Spatial coherence](Spatial%20coherence.html)
+- [Temporal coherence](Temporal%20coherence.html)
+- [Fringe visibility and contrast](Fringe%20visibility%20and%20contrast.html)
+- [Coherence function and visibility](Coherence%20function%20and%20visibility.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Spatial%20coherence.html" class="backlink-item">Spatial coherence</a></li>
     <li class="backlink-item-wrap"><a href="../Spatial%20coherence.html" class="backlink-item">Spatial coherence</a></li>
-    <li class="backlink-item-wrap"><a href="./Temporal%20coherence.html" class="backlink-item">Temporal coherence</a></li>
+    <li class="backlink-item-wrap"><a href="Spatial%20coherence.html" class="backlink-item">Spatial coherence</a></li>
+    <li class="backlink-item-wrap"><a href="Temporal%20coherence.html" class="backlink-item">Temporal coherence</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

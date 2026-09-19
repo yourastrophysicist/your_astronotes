@@ -2,7 +2,6 @@
 layout: "default"
 title: "Astro-Statistics_and_Cosmology_MOC"
 ---
-{% raw %}
 # Astro-Statistics and Cosmology - Map of Content
 
 Graduate course in Astro-Statistics and Cosmology  
@@ -133,9 +132,9 @@ Modular atomic reference notes synthesized across the four thematic pillars:
 
 ## Cross-Course Connections and Synapses
 
-- [Early Universe Cosmology MOC](./Cosmology_of_the_Early_Universe_MOC.html) - Primordial inflationary perturbation spectrum $P_\mathcal{R}(k)$, scalar spectral index $n_s$, tensor-to-scalar ratio $r$, and primordial non-Gaussianity $f_{\text{NL}}$.
-- [Observational Cosmology MOC](./Observational_Cosmology_MOC.html) - Observational distance ladder, Cepheids, galaxy redshift catalogs, gravitational lensing, and cosmic shear bandpowers.
-- [Mathematical & Numerical Methods MOC](./Mathematical_Numerical_Methods_MOC.html) - Numerical linear algebra, Cholesky decomposition, eigenvalue problems, and optimization algorithms.
+- [Early Universe Cosmology MOC](Cosmology_of_the_Early_Universe_MOC.html) - Primordial inflationary perturbation spectrum $P_\mathcal{R}(k)$, scalar spectral index $n_s$, tensor-to-scalar ratio $r$, and primordial non-Gaussianity $f_{\text{NL}}$.
+- [Observational Cosmology MOC](Observational_Cosmology_MOC.html) - Observational distance ladder, Cepheids, galaxy redshift catalogs, gravitational lensing, and cosmic shear bandpowers.
+- [Mathematical & Numerical Methods MOC](Mathematical_Numerical_Methods_MOC.html) - Numerical linear algebra, Cholesky decomposition, eigenvalue problems, and optimization algorithms.
 - [Bayesian Inference and Bayes Theorem in Astronomy](../03_Zettel/Theory/Bayesian%20Inference%20and%20Bayes%20Theorem%20in%20Astronomy.html) - Foundational zettel on Bayesian inverse problems in astrophysical settings.
 
 
@@ -176,48 +175,3 @@ Modular atomic reference notes synthesized across the four thematic pillars:
 - **Metropolis-Hastings Acceptance**: $\alpha(\theta \to \theta^*) = \min\left(1, \frac{\mathcal{L}(D\mid\theta^*) \pi(\theta^*) q(\theta\mid\theta^*)}{\mathcal{L}(D\mid\theta) \pi(\theta) q(\theta^*\mid\theta)}\right)$
 - **Gelman-Rubin Convergence**: $\hat{R} = \sqrt{\frac{W + \frac{1}{N}(B - W)}{W}} \to 1.0$ (convergence achieved when $\hat{R} < 1.05$)
 - **Savage-Dickey Ratio**: $B_{01} = \left.\frac{P(\omega \mid D, M_1)}{\pi(\omega \mid M_1)}\right\vert_{\omega = \omega_0}$
-{% endraw %}
-
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (38)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Astrostatistics/01_Plausible_Reasoning_Cox_Theorem_and_Bayesian_Foundations.html" class="backlink-item">01_Plausible_Reasoning_Cox_Theorem_and_Bayesian_Foundations</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Astrostatistics/02_Parameter_Estimation_Gaussian_Noise_and_Credible_Intervals.html" class="backlink-item">02_Parameter_Estimation_Gaussian_Noise_and_Credible_Intervals</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Astrostatistics/03_Multivariate_Gaussians_Marginalization_Conditioning_and_Linear_Models.html" class="backlink-item">03_Multivariate_Gaussians_Marginalization_Conditioning_and_Linear_Models</a></li>
-    <li class="backlink-item-wrap"><a href="./04_Atlas.html" class="backlink-item">04_Atlas</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Astrostatistics/04_Frequentist_vs_Bayesian_Inference_and_Confidence_Intervals.html" class="backlink-item">04_Frequentist_vs_Bayesian_Inference_and_Confidence_Intervals</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Astrostatistics/05_Monte_Carlo_Metropolis_Hastings_and_MCMC_Convergence_Diagnostics.html" class="backlink-item">05_Monte_Carlo_Metropolis_Hastings_and_MCMC_Convergence_Diagnostics</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Astrostatistics/06_Fisher_Information_Matrix_Cramer_Rao_Bound_and_Survey_Forecasting.html" class="backlink-item">06_Fisher_Information_Matrix_Cramer_Rao_Bound_and_Survey_Forecasting</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Astrostatistics/07_CMB_Power_Spectrum_Likelihood_Analysis_and_Cosmic_Variance.html" class="backlink-item">07_CMB_Power_Spectrum_Likelihood_Analysis_and_Cosmic_Variance</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Astrostatistics/08_Galaxy_Clustering_Point_Processes_and_Shot_Noise.html" class="backlink-item">08_Galaxy_Clustering_Point_Processes_and_Shot_Noise</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Astrostatistics/09_Bayesian_Hierarchical_Models_for_Type_Ia_Supernovae.html" class="backlink-item">09_Bayesian_Hierarchical_Models_for_Type_Ia_Supernovae</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Astrostatistics/10_Prior_Assignment_Transformation_Invariance_and_Maximum_Entropy.html" class="backlink-item">10_Prior_Assignment_Transformation_Invariance_and_Maximum_Entropy</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Astrostatistics/11_Model_Selection_Bayesian_Evidence_and_Savage_Dickey_Ratio.html" class="backlink-item">11_Model_Selection_Bayesian_Evidence_and_Savage_Dickey_Ratio</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Bayesian%20evidence%20and%20model%20selection.html" class="backlink-item">Bayesian evidence and model selection</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Bayesian%20hierarchical%20modeling%20for%20Type%20Ia%20supernovae.html" class="backlink-item">Bayesian hierarchical modeling for Type Ia supernovae</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Bernstein-von%20Mises%20theorem%20and%20Bayesian%20asymptotics.html" class="backlink-item">Bernstein-von Mises theorem and Bayesian asymptotics</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/CMB%20angular%20power%20spectrum%20estimator%20and%20cosmic%20variance.html" class="backlink-item">CMB angular power spectrum estimator and cosmic variance</a></li>
-    <li class="backlink-item-wrap"><a href="./Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Cosmology_of_the_Early_Universe_MOC.html" class="backlink-item">Cosmology_of_the_Early_Universe_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Cox%20theorem%20and%20probability%20as%20extended%20logic.html" class="backlink-item">Cox theorem and probability as extended logic</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Exact%20CMB%20Wishart%20likelihood%20and%20Gaussian%20high-multipole%20limit.html" class="backlink-item">Exact CMB Wishart likelihood and Gaussian high-multipole limit</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Feldman-Kaiser-Peacock%20optimal%20weighting%20for%20galaxy%20surveys.html" class="backlink-item">Feldman-Kaiser-Peacock optimal weighting for galaxy surveys</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Fisher%20information%20matrix%20and%20Cramer-Rao%20bound.html" class="backlink-item">Fisher information matrix and Cramer-Rao bound</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Frequentist%20confidence%20intervals%20versus%20Bayesian%20credible%20regions.html" class="backlink-item">Frequentist confidence intervals versus Bayesian credible regions</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Galaxy%20power%20spectrum%20and%20Poisson%20shot%20noise.html" class="backlink-item">Galaxy power spectrum and Poisson shot noise</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Generalized%20least%20squares%20and%20correlated%20measurement%20errors.html" class="backlink-item">Generalized least squares and correlated measurement errors</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Gibbs%20sampling%20and%20conditional%20state%20transitions.html" class="backlink-item">Gibbs sampling and conditional state transitions</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Astrostatistics/Homework_Problems_and_Solutions.html" class="backlink-item">Homework_Problems_and_Solutions</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Lindley%20paradox%20in%20statistical%20hypothesis%20testing.html" class="backlink-item">Lindley paradox in statistical hypothesis testing</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/MCMC%20convergence%20diagnostics%20and%20Gelman-Rubin%20statistic.html" class="backlink-item">MCMC convergence diagnostics and Gelman-Rubin statistic</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Marginalized%20versus%20conditional%20parameter%20errors%20in%20Fisher%20forecasting.html" class="backlink-item">Marginalized versus conditional parameter errors in Fisher forecasting</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Maximum%20likelihood%20versus%20maximum%20a%20posteriori%20estimation.html" class="backlink-item">Maximum likelihood versus maximum a posteriori estimation</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Metropolis-Hastings%20algorithm%20and%20detailed%20balance.html" class="backlink-item">Metropolis-Hastings algorithm and detailed balance</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Computational/Monte%20Carlo%20integration%20and%20cursed%20dimensions.html" class="backlink-item">Monte Carlo integration and cursed dimensions</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Multivariate%20Gaussian%20conditioning%20and%20marginalization.html" class="backlink-item">Multivariate Gaussian conditioning and marginalization</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Principle%20of%20maximum%20entropy%20in%20prior%20assignment.html" class="backlink-item">Principle of maximum entropy in prior assignment</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Savage-Dickey%20density%20ratio%20for%20nested%20model%20comparison.html" class="backlink-item">Savage-Dickey density ratio for nested model comparison</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Spatial%20two-point%20correlation%20function%20and%20Landy-Szalay%20estimator.html" class="backlink-item">Spatial two-point correlation function and Landy-Szalay estimator</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Transformation%20group%20invariance%20and%20Jeffreys%20prior.html" class="backlink-item">Transformation group invariance and Jeffreys prior</a></li>
-  </ul>
-</div>

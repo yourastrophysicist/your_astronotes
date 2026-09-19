@@ -2,7 +2,6 @@
 layout: "default"
 title: "Atmospheric transmission"
 ---
-{% raw %}
 Astronomers studying the Universe from the surface of the Earth have to peer through the atmosphere
 	that leads to several undesirable consequences
 		which affect different observing windows in different ways
@@ -47,7 +46,7 @@ It is important not to confuse seeing and transparency:
 
 Turbulence in the atmosphere scrambles the wavefront of starlight
 	causing **image blurring** (seeing) and **brightness fluctuations** (scintillation / twinkling)
-		see [Seeing Effect](./Seeing%20Effect.html) for the full treatment including the Fried parameter and Kolmogorov turbulence
+		see [Seeing Effect](Seeing%20Effect.html) for the full treatment including the Fried parameter and Kolmogorov turbulence
 
 The seeing **degrades angular resolution** — for a large aperture telescope the seeing limit is:
 $$\theta_{seeing} \approx \frac{\lambda}{r_0} \sim 0.5'' - 2''$$
@@ -67,7 +66,7 @@ Transmission of the Earth's atmosphere as a function of wavelength. Only the opt
 
 At X-ray energies:
 	photons are absorbed by **photoelectric absorption** by atmospheric atoms (N, O, Ar)
-		the cross section $\sigma_{ph} \propto Z^{4-5}/E^3$ — see [Photoelectric absorption](./Photoelectric%20absorption.html)
+		the cross section $\sigma_{ph} \propto Z^{4-5}/E^3$ — see [Photoelectric absorption](Photoelectric%20absorption.html)
 			even at $E = 10~\text{keV}$: the optical depth $\tau_{atm} \gg 1$ — **complete opacity**
 
 The atmospheric column density:
@@ -114,4 +113,3 @@ This means: **all X-ray and gamma-ray observatories must operate from space**
 | Soft X-ray | 0.1–10 nm | 0.1–10 keV | Space |
 | Hard X-ray | 0.01–0.1 nm | 10–100 keV | Space (balloon possible) |
 | Gamma-ray | $< 0.01$ nm | $> 100$ keV | Space |
-{% endraw %}

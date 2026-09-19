@@ -2,7 +2,6 @@
 layout: "default"
 title: "Exact CMB Wishart likelihood and Gaussian high-multipole limit"
 ---
-{% raw %}
 # Exact CMB Wishart likelihood and Gaussian high-multipole limit
 
 Constructing the exact statistical likelihood function for Cosmic Microwave Background (CMB) power spectra requires accounting for the transition between the low-$\ell$ non-Gaussian regime and the high-$\ell$ Central Limit Theorem Gaussian limit.
@@ -45,14 +44,14 @@ $$-2\ln \mathcal{L}_\ell = (2\ell+1) \left[ \text{Tr}\left( \hat{\mathbf{C}}_\el
 ## See Also
 - [Astro-Statistics_and_Cosmology_MOC](../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html)
 - [07_CMB_Power_Spectrum_Likelihood_Analysis_and_Cosmic_Variance](../../02_Literature/Lectures/Astrostatistics/07_CMB_Power_Spectrum_Likelihood_Analysis_and_Cosmic_Variance.html)
-- [CMB angular power spectrum estimator and cosmic variance](./CMB%20angular%20power%20spectrum%20estimator%20and%20cosmic%20variance.html)
-- [Fisher information matrix and Cramer-Rao bound](./Fisher%20information%20matrix%20and%20Cramer-Rao%20bound.html)
-{% endraw %}
+- [CMB angular power spectrum estimator and cosmic variance](CMB%20angular%20power%20spectrum%20estimator%20and%20cosmic%20variance.html)
+- [Fisher information matrix and Cramer-Rao bound](Fisher%20information%20matrix%20and%20Cramer-Rao%20bound.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="CMB%20angular%20power%20spectrum%20estimator%20and%20cosmic%20variance.html" class="backlink-item">CMB angular power spectrum estimator and cosmic variance</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./CMB%20angular%20power%20spectrum%20estimator%20and%20cosmic%20variance.html" class="backlink-item">CMB angular power spectrum estimator and cosmic variance</a></li>
   </ul>
 </div>
+

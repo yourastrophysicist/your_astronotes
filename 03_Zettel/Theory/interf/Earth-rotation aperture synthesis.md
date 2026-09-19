@@ -2,7 +2,6 @@
 layout: "default"
 title: "Earth-rotation aperture synthesis"
 ---
-{% raw %}
 # Earth-rotation aperture synthesis
 
 the move that turned interferometry from a "few baselines" technique into a full imaging machine. as the Earth rotates, the *projection* of each fixed baseline onto the source-perpendicular plane traces an ellipse in the (u, v) plane, sampling many spatial frequencies with each pair of antennas.
@@ -119,25 +118,25 @@ source: local synthetic demo generated from rotating projected baselines.
 
 ## see also
 
-- [The (u, v) plane](./The%20%28u%2C%20v%29%20plane.html)
-- [Aperture synthesis principle](./Aperture%20synthesis%20principle.html)
-- [Optimal array geometry](./Optimal%20array%20geometry.html)
-- [Dirty beam and dirty image](./Dirty%20beam%20and%20dirty%20image.html)
-- [CLEAN algorithm](./CLEAN%20algorithm.html)
+- [The (u, v) plane](The%20%28u%2C%20v%29%20plane.html)
+- [Aperture synthesis principle](Aperture%20synthesis%20principle.html)
+- [Optimal array geometry](Optimal%20array%20geometry.html)
+- [Dirty beam and dirty image](Dirty%20beam%20and%20dirty%20image.html)
+- [CLEAN algorithm](CLEAN%20algorithm.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (9)</h4>
   <ul class="backlinks-list">
     <li class="backlink-item-wrap"><a href="../Aperture%20synthesis%20principle.html" class="backlink-item">Aperture synthesis principle</a></li>
-    <li class="backlink-item-wrap"><a href="./Aperture%20synthesis%20principle.html" class="backlink-item">Aperture synthesis principle</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Earth%20rotation%20synthesis%20in%20radio.html" class="backlink-item">Earth rotation synthesis in radio</a></li>
     <li class="backlink-item-wrap"><a href="../Earth%20rotation%20synthesis%20in%20radio.html" class="backlink-item">Earth rotation synthesis in radio</a></li>
-    <li class="backlink-item-wrap"><a href="./Optimal%20array%20geometry.html" class="backlink-item">Optimal array geometry</a></li>
     <li class="backlink-item-wrap"><a href="../Optimal%20array%20geometry.html" class="backlink-item">Optimal array geometry</a></li>
     <li class="backlink-item-wrap"><a href="../The%20%28u%2C%20v%29%20plane.html" class="backlink-item">The (u, v) plane</a></li>
-    <li class="backlink-item-wrap"><a href="./The%20%28u%2C%20v%29%20plane.html" class="backlink-item">The (u, v) plane</a></li>
+    <li class="backlink-item-wrap"><a href="Aperture%20synthesis%20principle.html" class="backlink-item">Aperture synthesis principle</a></li>
+    <li class="backlink-item-wrap"><a href="Earth%20rotation%20synthesis%20in%20radio.html" class="backlink-item">Earth rotation synthesis in radio</a></li>
+    <li class="backlink-item-wrap"><a href="Optimal%20array%20geometry.html" class="backlink-item">Optimal array geometry</a></li>
+    <li class="backlink-item-wrap"><a href="The%20%28u%2C%20v%29%20plane.html" class="backlink-item">The (u, v) plane</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

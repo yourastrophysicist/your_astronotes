@@ -2,7 +2,6 @@
 layout: "default"
 title: "MK luminosity classes"
 ---
-{% raw %}
 the MK system extends the OBAFGKM temperature sequence with **luminosity classes** (I-V) based on stellar surface gravity, which manifests in the **shape and width** of spectral lines.
 
 ## the five classes
@@ -79,30 +78,30 @@ modern stellar surveys (Gaia + spectroscopy) recover both reliably.
 
 ## see also
 
-- [Stellar spectra and spectral classification](./Stellar%20spectra%20and%20spectral%20classification.html)
-- [Why the Sequence OBAFGKM](./Why%20the%20Sequence%20OBAFGKM.html)
-- [History of stellar classification](./History%20of%20stellar%20classification.html)
-- [Collisional pressure broadening](./Collisional%20pressure%20broadening.html)
-- [Stark broadening](./Stark%20broadening.html)
-- [Voigt profile](./Voigt%20profile.html)
-- [Damping wings](./Damping%20wings.html)
-- [HR diagram](./HR%20diagram.html)
-- [Stellar populations I II III](./Stellar%20populations%20I%20II%20III.html)
-- [Spectroscopic parallax and main-sequence fitting](./Spectroscopic%20parallax%20and%20main-sequence%20fitting.html)
-- [Sodium population vs T](./Sodium%20population%20vs%20T.html)
-{% endraw %}
+- [Stellar spectra and spectral classification](Stellar%20spectra%20and%20spectral%20classification.html)
+- [Why the Sequence OBAFGKM](Why%20the%20Sequence%20OBAFGKM.html)
+- [History of stellar classification](History%20of%20stellar%20classification.html)
+- [Collisional pressure broadening](Collisional%20pressure%20broadening.html)
+- [Stark broadening](Stark%20broadening.html)
+- [Voigt profile](Voigt%20profile.html)
+- [Damping wings](Damping%20wings.html)
+- [HR diagram](HR%20diagram.html)
+- [Stellar populations I II III](Stellar%20populations%20I%20II%20III.html)
+- [Spectroscopic parallax and main-sequence fitting](Spectroscopic%20parallax%20and%20main-sequence%20fitting.html)
+- [Sodium population vs T](Sodium%20population%20vs%20T.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (9)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Collisional%20pressure%20broadening.html" class="backlink-item">Collisional pressure broadening</a></li>
+    <li class="backlink-item-wrap"><a href="Damping%20wings.html" class="backlink-item">Damping wings</a></li>
+    <li class="backlink-item-wrap"><a href="History%20of%20stellar%20classification.html" class="backlink-item">History of stellar classification</a></li>
+    <li class="backlink-item-wrap"><a href="Saha%20ionisation%20equation.html" class="backlink-item">Saha ionisation equation</a></li>
+    <li class="backlink-item-wrap"><a href="Sodium%20and%20alkalis.html" class="backlink-item">Sodium and alkalis</a></li>
+    <li class="backlink-item-wrap"><a href="Sodium%20population%20vs%20T.html" class="backlink-item">Sodium population vs T</a></li>
+    <li class="backlink-item-wrap"><a href="Stark%20broadening.html" class="backlink-item">Stark broadening</a></li>
+    <li class="backlink-item-wrap"><a href="Why%20the%20Sequence%20OBAFGKM.html" class="backlink-item">Why the Sequence OBAFGKM</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Collisional%20pressure%20broadening.html" class="backlink-item">Collisional pressure broadening</a></li>
-    <li class="backlink-item-wrap"><a href="./Damping%20wings.html" class="backlink-item">Damping wings</a></li>
-    <li class="backlink-item-wrap"><a href="./History%20of%20stellar%20classification.html" class="backlink-item">History of stellar classification</a></li>
-    <li class="backlink-item-wrap"><a href="./Saha%20ionisation%20equation.html" class="backlink-item">Saha ionisation equation</a></li>
-    <li class="backlink-item-wrap"><a href="./Sodium%20and%20alkalis.html" class="backlink-item">Sodium and alkalis</a></li>
-    <li class="backlink-item-wrap"><a href="./Sodium%20population%20vs%20T.html" class="backlink-item">Sodium population vs T</a></li>
-    <li class="backlink-item-wrap"><a href="./Stark%20broadening.html" class="backlink-item">Stark broadening</a></li>
-    <li class="backlink-item-wrap"><a href="./Why%20the%20Sequence%20OBAFGKM.html" class="backlink-item">Why the Sequence OBAFGKM</a></li>
   </ul>
 </div>
+

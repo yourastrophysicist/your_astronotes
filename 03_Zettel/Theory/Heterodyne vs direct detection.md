@@ -2,7 +2,6 @@
 layout: "default"
 title: "Heterodyne vs direct detection"
 ---
-{% raw %}
 # Heterodyne vs direct detection
 
 two fundamentally different ways to combine signals from separated telescopes in an interferometer. **heterodyne** mixes the incoming radio signal with a local oscillator (LO) to bring it down to a manageable intermediate frequency (IF) where complex voltage amplitudes and phases are recorded and correlated electronically. **direct detection** physically combines the optical light waves at a beam splitter to measure photon fringe contrast. radio uses heterodyne; optical/IR uses direct detection.
@@ -61,10 +60,9 @@ optical interferometers must therefore combine the *actual light waves* before d
 
 ## see also
 
-- [Radio telescope components](./Radio%20telescope%20components.html)
-- [DOnofrio Exam Retake - Radio vs Optical Physics and Michelson Synthesis](./DOnofrio%20Exam%20Retake%20-%20Radio%20vs%20Optical%20Physics%20and%20Michelson%20Synthesis.html)
+- [Radio telescope components](Radio%20telescope%20components.html)
+- [DOnofrio Exam Retake - Radio vs Optical Physics and Michelson Synthesis](DOnofrio%20Exam%20Retake%20-%20Radio%20vs%20Optical%20Physics%20and%20Michelson%20Synthesis.html)
 - [Electromagnetic waves and photons](interf/Electromagnetic%20waves%20and%20photons.html)
 - [Michelson stellar interferometer](interf/Michelson%20stellar%20interferometer.html)
 - [Two-element correlator](interf/Two-element%20correlator.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

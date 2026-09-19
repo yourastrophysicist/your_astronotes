@@ -2,9 +2,8 @@
 layout: "default"
 title: "Distributions"
 ---
-{% raw %}
 ## Gaussian distribution
-![Screenshot 2026-04-07 at 02.09.33.png](../../assets/images/Screenshot 2026-04-07 at 02.09.33.png)
+![Screenshot 2026-04-07 at 02.09.33.png](../../assets/images/Screenshot%202026-04-07%20at%2002.09.33.png)
 The most popular distribution is the **Gaussian** (or **Normal**) distribution
 	defined in the real numbers domain $\mathbb{R}$
 		by moments 1 and 2, while moments 3 and 4 are equal to zero:
@@ -28,7 +27,7 @@ Confidence intervals:
 ---
 
 ## Poisson distribution
-![Screenshot 2026-04-07 at 02.10.12.png](../../assets/images/Screenshot 2026-04-07 at 02.10.12.png)
+![Screenshot 2026-04-07 at 02.10.12.png](../../assets/images/Screenshot%202026-04-07%20at%2002.10.12.png)
 The **Poisson** distribution is used for **discrete measurements**
 	it describes the probability of observing $k$ counts
 		knowing the expected value $\lambda$:
@@ -89,12 +88,12 @@ the statistical noise is a **smaller fraction** of the signal for bright sources
 
 At large $\lambda$, the Poisson distribution **approaches the Gaussian**
 	so $\sigma_i^2 \approx \lambda \approx D_i$ (the measured counts)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Astrostatistics.html" class="backlink-item">Astrostatistics</a></li>
+    <li class="backlink-item-wrap"><a href="Astrostatistics.html" class="backlink-item">Astrostatistics</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
   </ul>
 </div>
+

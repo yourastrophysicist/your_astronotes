@@ -2,7 +2,6 @@
 layout: "default"
 title: "SFH from resolved CMDs"
 ---
-{% raw %}
 # SFH from resolved CMDs
 
 up: [Pablo_03_Star_formation_in_galaxies](../../02_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html)
@@ -42,13 +41,13 @@ codes: MATCH (Dolphin), StarFISH, IAC-POP.
 - **crowding**: in galaxy centres, blending wrecks photometry. periphery regions work better
 - **age-metallicity degeneracy**: reducing it requires deep photometry through the MS turnoff
 
-the technique is extremely powerful for the Local Group (LMC/SMC, M31, dSphs) but cannot be applied to the bulk of the cosmic galaxy population. for that, see [SED fitting for SFH](./SED%20fitting%20for%20SFH.html).
+the technique is extremely powerful for the Local Group (LMC/SMC, M31, dSphs) but cannot be applied to the bulk of the cosmic galaxy population. for that, see [SED fitting for SFH](SED%20fitting%20for%20SFH.html).
 
 ## connections
 
-- complementary method: [SED fitting for SFH](./SED%20fitting%20for%20SFH.html)
-- enters population synthesis: [Stellar population synthesis](./Stellar%20population%20synthesis.html)
-- parametric priors for SED fits: [Star formation history parametrizations](./Star%20formation%20history%20parametrizations.html)
+- complementary method: [SED fitting for SFH](SED%20fitting%20for%20SFH.html)
+- enters population synthesis: [Stellar population synthesis](Stellar%20population%20synthesis.html)
+- parametric priors for SED fits: [Star formation history parametrizations](Star%20formation%20history%20parametrizations.html)
 
 ## key references
 
@@ -56,15 +55,14 @@ the technique is extremely powerful for the Local Group (LMC/SMC, M31, dSphs) bu
 - Tolstoy, Hill, Tosi 2009 ARAA
 - Harris & Zaritsky 2004 AJ 127, 1531
 - Dolphin 2002 (MATCH algorithm)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
+  <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Color-magnitude%20diagrams%20of%20clusters.html" class="backlink-item">Color-magnitude diagrams of clusters</a></li>
+    <li class="backlink-item-wrap"><a href="Color-magnitude%20diagrams%20of%20clusters.html" class="backlink-item">Color-magnitude diagrams of clusters</a></li>
+    <li class="backlink-item-wrap"><a href="SED%20fitting%20for%20SFH.html" class="backlink-item">SED fitting for SFH</a></li>
+    <li class="backlink-item-wrap"><a href="Star%20formation%20history%20parametrizations.html" class="backlink-item">Star formation history parametrizations</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html" class="backlink-item">Pablo_03_Star_formation_in_galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="./SED%20fitting%20for%20SFH.html" class="backlink-item">SED fitting for SFH</a></li>
-    <li class="backlink-item-wrap"><a href="./Star%20formation%20history%20parametrizations.html" class="backlink-item">Star formation history parametrizations</a></li>
   </ul>
 </div>
+

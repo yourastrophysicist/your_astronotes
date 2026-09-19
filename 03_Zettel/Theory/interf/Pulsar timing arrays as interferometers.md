@@ -2,7 +2,6 @@
 layout: "default"
 title: "Pulsar timing arrays as interferometers"
 ---
-{% raw %}
 # Pulsar timing arrays as interferometers
 
 a *galactic-scale* interferometer made from pulsars. by precisely monitoring the arrival times of pulses from many milliseconds-stable pulsars across the Galaxy, we can detect *low-frequency gravitational waves* — including the cosmic background of supermassive-binary-black-hole mergers throughout cosmic history.
@@ -90,21 +89,21 @@ but the analogy is more deep than literal: PTAs measure GW *strain* (a tensor fi
 
 ## see also
 
-- [Very Long Baseline Interferometry VLBI](./Very%20Long%20Baseline%20Interferometry%20VLBI.html)
-- [Major radio interferometers](./Major%20radio%20interferometers.html)
-- [Pulsar interferometry](./Pulsar%20interferometry.html)
+- [Very Long Baseline Interferometry VLBI](Very%20Long%20Baseline%20Interferometry%20VLBI.html)
+- [Major radio interferometers](Major%20radio%20interferometers.html)
+- [Pulsar interferometry](Pulsar%20interferometry.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (7)</h4>
   <ul class="backlinks-list">
     <li class="backlink-item-wrap"><a href="../AGN%20and%20supermassive%20black%20holes.html" class="backlink-item">AGN and supermassive black holes</a></li>
-    <li class="backlink-item-wrap"><a href="./AGN%20and%20supermassive%20black%20holes.html" class="backlink-item">AGN and supermassive black holes</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Pulsar%20interferometry.html" class="backlink-item">Pulsar interferometry</a></li>
     <li class="backlink-item-wrap"><a href="../Pulsar%20interferometry.html" class="backlink-item">Pulsar interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="./The%20Square%20Kilometre%20Array%20SKA.html" class="backlink-item">The Square Kilometre Array SKA</a></li>
     <li class="backlink-item-wrap"><a href="../The%20Square%20Kilometre%20Array%20SKA.html" class="backlink-item">The Square Kilometre Array SKA</a></li>
+    <li class="backlink-item-wrap"><a href="AGN%20and%20supermassive%20black%20holes.html" class="backlink-item">AGN and supermassive black holes</a></li>
+    <li class="backlink-item-wrap"><a href="Pulsar%20interferometry.html" class="backlink-item">Pulsar interferometry</a></li>
+    <li class="backlink-item-wrap"><a href="The%20Square%20Kilometre%20Array%20SKA.html" class="backlink-item">The Square Kilometre Array SKA</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

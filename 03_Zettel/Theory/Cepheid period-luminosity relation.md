@@ -2,7 +2,6 @@
 layout: "default"
 title: "Cepheid period-luminosity relation"
 ---
-{% raw %}
 classical Cepheids obey a tight relation between pulsation period and absolute luminosity, the **Leavitt law**, discovered by Henrietta Swan Leavitt in 1908. it is the foundation of the extragalactic distance scale.
 
 ## the relation
@@ -64,14 +63,14 @@ JWST + TRGB cross-checks are testing the local-ladder hypothesis. early JWST res
 
 ## see also
 
-- [Variable stars as standard candles](./Variable%20stars%20as%20standard%20candles.html)
-- [Distance ladder derivations](./Distance%20ladder%20derivations.html)
-- [Type Ia supernovae as standard candles](./Type%20Ia%20supernovae%20as%20standard%20candles.html)
-- [TRGB tip of the red giant branch](./TRGB%20tip%20of%20the%20red%20giant%20branch.html)
-- [Hubble flow distances](./Hubble%20flow%20distances.html)
-- [Hubble's law and cosmological redshift](./Hubble%27s%20law%20and%20cosmological%20redshift.html)
-- [Cepheids and supernovae](./Cepheids%20and%20supernovae.html)
-- [Annual stellar parallax](./Annual%20stellar%20parallax.html)
+- [Variable stars as standard candles](Variable%20stars%20as%20standard%20candles.html)
+- [Distance ladder derivations](Distance%20ladder%20derivations.html)
+- [Type Ia supernovae as standard candles](Type%20Ia%20supernovae%20as%20standard%20candles.html)
+- [TRGB tip of the red giant branch](TRGB%20tip%20of%20the%20red%20giant%20branch.html)
+- [Hubble flow distances](Hubble%20flow%20distances.html)
+- [Hubble's law and cosmological redshift](Hubble%27s%20law%20and%20cosmological%20redshift.html)
+- [Cepheids and supernovae](Cepheids%20and%20supernovae.html)
+- [Annual stellar parallax](Annual%20stellar%20parallax.html)
 
 ---
 
@@ -94,19 +93,19 @@ JWST + TRGB cross-checks are testing the local-ladder hypothesis. early JWST res
 
 ![obs_dist-18.png](../../assets/images/obs_dist-18.png)
 *Wesenheit index W = V - R_V * (B - V): extinction-free Period-Luminosity relation.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (9)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./AU%20calibration%20parallax%20and%20parsec.html" class="backlink-item">AU calibration parallax and parsec</a></li>
-    <li class="backlink-item-wrap"><a href="./Distance%20ladder%20derivations.html" class="backlink-item">Distance ladder derivations</a></li>
-    <li class="backlink-item-wrap"><a href="./Hubble%20flow%20distances.html" class="backlink-item">Hubble flow distances</a></li>
-    <li class="backlink-item-wrap"><a href="./Hubble%20law.html" class="backlink-item">Hubble law</a></li>
+    <li class="backlink-item-wrap"><a href="AU%20calibration%20parallax%20and%20parsec.html" class="backlink-item">AU calibration parallax and parsec</a></li>
+    <li class="backlink-item-wrap"><a href="Distance%20ladder%20derivations.html" class="backlink-item">Distance ladder derivations</a></li>
+    <li class="backlink-item-wrap"><a href="Hubble%20flow%20distances.html" class="backlink-item">Hubble flow distances</a></li>
+    <li class="backlink-item-wrap"><a href="Hubble%20law.html" class="backlink-item">Hubble law</a></li>
+    <li class="backlink-item-wrap"><a href="Supernova%20Hubble%20diagram.html" class="backlink-item">Supernova Hubble diagram</a></li>
+    <li class="backlink-item-wrap"><a href="Surface%20brightness%20fluctuations.html" class="backlink-item">Surface brightness fluctuations</a></li>
+    <li class="backlink-item-wrap"><a href="TRGB%20tip%20of%20the%20red%20giant%20branch.html" class="backlink-item">TRGB tip of the red giant branch</a></li>
+    <li class="backlink-item-wrap"><a href="Variable%20stars%20as%20standard%20candles.html" class="backlink-item">Variable stars as standard candles</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Supernova%20Hubble%20diagram.html" class="backlink-item">Supernova Hubble diagram</a></li>
-    <li class="backlink-item-wrap"><a href="./Surface%20brightness%20fluctuations.html" class="backlink-item">Surface brightness fluctuations</a></li>
-    <li class="backlink-item-wrap"><a href="./TRGB%20tip%20of%20the%20red%20giant%20branch.html" class="backlink-item">TRGB tip of the red giant branch</a></li>
-    <li class="backlink-item-wrap"><a href="./Variable%20stars%20as%20standard%20candles.html" class="backlink-item">Variable stars as standard candles</a></li>
   </ul>
 </div>
+

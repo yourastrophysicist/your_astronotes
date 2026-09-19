@@ -2,7 +2,6 @@
 layout: "default"
 title: "Temperature-time relation"
 ---
-{% raw %}
 at early times the universe is **radiation-dominated**, and the Friedmann equation has a simple form. solving it gives the temperature as a function of cosmic time.
 
 ---
@@ -12,7 +11,7 @@ at early times the universe is **radiation-dominated**, and the Friedmann equati
 with the energy density of relativistic species
 $$\rho_{\rm rad} = \frac{\pi^2}{30}\, g_*(T)\, T^4$$
 
-(see [Number density and energy density at thermal equilibrium](./Number%20density%20and%20energy%20density%20at%20thermal%20equilibrium.html)), the Friedmann equation is:
+(see [Number density and energy density at thermal equilibrium](Number%20density%20and%20energy%20density%20at%20thermal%20equilibrium.html)), the Friedmann equation is:
 $$H^2 = \frac{8\pi G}{3}\rho_{\rm rad} = \frac{8\pi^3 G}{90}\, g_*(T)\, T^4$$
 
 so:
@@ -51,13 +50,13 @@ the **Hubble rate** $H \propto g_*^{1/2} T^2$ depends on $g_*$ — and so does t
 
 > **so the abundance of any thermal relic depends on $g_*$ at decoupling.**
 
-a famous BBN application: extra light degrees of freedom (a fourth neutrino species, primordial gravitational waves) would increase $g_*$ at $T \sim 1$ MeV, increase $H$, force earlier n/p freeze-out, and give a *higher* primordial $^4$He abundance. so observed $Y_p$ constrains the count of light species at the BBN epoch. → see [BBN_predictions](./BBN_predictions.html).
+a famous BBN application: extra light degrees of freedom (a fourth neutrino species, primordial gravitational waves) would increase $g_*$ at $T \sim 1$ MeV, increase $H$, force earlier n/p freeze-out, and give a *higher* primordial $^4$He abundance. so observed $Y_p$ constrains the count of light species at the BBN epoch. → see [BBN_predictions](BBN_predictions.html).
 
 ---
 
 ## $T \propto 1/a$ as a corollary
 
-combined with entropy conservation $g_{*s} T^3 a^3 = $ const (see [Conservation of entropy in a comoving volume](./Conservation%20of%20entropy%20in%20a%20comoving%20volume.html)), this gives:
+combined with entropy conservation $g_{*s} T^3 a^3 = $ const (see [Conservation of entropy in a comoving volume](Conservation%20of%20entropy%20in%20a%20comoving%20volume.html)), this gives:
 $$T \propto \frac{1}{a\, [g_{*s}]^{1/3}}$$
 
 across smooth epochs (constant $g_{*s}$), this reduces to $T \propto 1/a$. the photon temperature redshifts inversely with the scale factor — that's why the CMB is so cold today even though it was 3000 K at recombination.
@@ -77,18 +76,18 @@ extrapolating backward from $T_0 = 2.725$ K at $a = 1$ today:
 ## see also
 
 - [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Brief thermal history](./Brief%20thermal%20history.html)
-- [Number density and energy density at thermal equilibrium](./Number%20density%20and%20energy%20density%20at%20thermal%20equilibrium.html)
-- [Conservation of entropy in a comoving volume](./Conservation%20of%20entropy%20in%20a%20comoving%20volume.html)
+- [Brief thermal history](Brief%20thermal%20history.html)
+- [Number density and energy density at thermal equilibrium](Number%20density%20and%20energy%20density%20at%20thermal%20equilibrium.html)
+- [Conservation of entropy in a comoving volume](Conservation%20of%20entropy%20in%20a%20comoving%20volume.html)
 - Friedmann equations with Λ
-- [Friedmann models](./Friedmann%20models.html)
-- [BBN_predictions](./BBN_predictions.html)
-{% endraw %}
+- [Friedmann models](Friedmann%20models.html)
+- [BBN_predictions](BBN_predictions.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Number%20density%20and%20energy%20density%20at%20thermal%20equilibrium.html" class="backlink-item">Number density and energy density at thermal equilibrium</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Number%20density%20and%20energy%20density%20at%20thermal%20equilibrium.html" class="backlink-item">Number density and energy density at thermal equilibrium</a></li>
   </ul>
 </div>
+

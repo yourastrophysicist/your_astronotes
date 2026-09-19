@@ -2,7 +2,6 @@
 layout: "default"
 title: "Consistency relation of single-field slow-roll inflation"
 ---
-{% raw %}
 # Consistency relation of single-field slow-roll inflation
 
 > *the non-negotiable kinematic relation linking tensor tilt directly to the tensor-to-scalar ratio in canonical single-field models.*
@@ -50,20 +49,19 @@ $$n_T = -\frac{r}{8}$$
 
 * parent moc: [Cosmology_of_the_Early_Universe_MOC](../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html)
 * related zettels:
-  - [Tensor perturbations and primordial gravitational waves](./Tensor%20perturbations%20and%20primordial%20gravitational%20waves.html)
-  - [Tensor-to-scalar ratio r and inflation energy scale](./Tensor-to-scalar%20ratio%20r%20and%20inflation%20energy%20scale.html)
-  - [Slow-roll parameters epsilon and eta](./Slow-roll%20parameters%20epsilon%20and%20eta.html)
+  - [Tensor perturbations and primordial gravitational waves](Tensor%20perturbations%20and%20primordial%20gravitational%20waves.html)
+  - [Tensor-to-scalar ratio r and inflation energy scale](Tensor-to-scalar%20ratio%20r%20and%20inflation%20energy%20scale.html)
+  - [Slow-roll parameters epsilon and eta](Slow-roll%20parameters%20epsilon%20and%20eta.html)
   - [Part3_Quantum_Perturbations_and_Power_Spectra](../../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part3_Quantum_Perturbations_and_Power_Spectra.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
+  <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Lyth%20bound%20and%20field%20excursion.html" class="backlink-item">Lyth bound and field excursion</a></li>
+    <li class="backlink-item-wrap"><a href="Slow-roll%20parameters%20epsilon%20and%20eta.html" class="backlink-item">Slow-roll parameters epsilon and eta</a></li>
+    <li class="backlink-item-wrap"><a href="Tensor%20perturbations%20and%20primordial%20gravitational%20waves.html" class="backlink-item">Tensor perturbations and primordial gravitational waves</a></li>
+    <li class="backlink-item-wrap"><a href="Tensor-to-scalar%20ratio%20r%20and%20inflation%20energy%20scale.html" class="backlink-item">Tensor-to-scalar ratio r and inflation energy scale</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html" class="backlink-item">Cosmology_of_the_Early_Universe_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Lyth%20bound%20and%20field%20excursion.html" class="backlink-item">Lyth bound and field excursion</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part3_Quantum_Perturbations_and_Power_Spectra.html" class="backlink-item">Part3_Quantum_Perturbations_and_Power_Spectra</a></li>
-    <li class="backlink-item-wrap"><a href="./Slow-roll%20parameters%20epsilon%20and%20eta.html" class="backlink-item">Slow-roll parameters epsilon and eta</a></li>
-    <li class="backlink-item-wrap"><a href="./Tensor%20perturbations%20and%20primordial%20gravitational%20waves.html" class="backlink-item">Tensor perturbations and primordial gravitational waves</a></li>
-    <li class="backlink-item-wrap"><a href="./Tensor-to-scalar%20ratio%20r%20and%20inflation%20energy%20scale.html" class="backlink-item">Tensor-to-scalar ratio r and inflation energy scale</a></li>
   </ul>
 </div>
+

@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Kolmogorov K41 turbulence cascade and five-thirds law"
-name: "Kolmogorov K41 turbulence cascade and five-thirds law"
-description: "Richardson energy cascade, inertial subrange, local isotropy, and the exact minus five-thirds energy spectrum"
 ---
-{% raw %}
 Andrei Kolmogorov (1941) formulated the statistical theory of fully developed, homogeneous, isotropic hydrodynamic turbulence.
 
 ## the richardson-kolmogorov energy cascade
@@ -44,16 +41,16 @@ where $C_K \approx 1.5$ is the empirical Kolmogorov constant.
 
 - [Fluid_and_Plasma_Dynamics_MOC](../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html)
 - [Part3_Waves_Instabilities_and_Turbulence](../../02_Literature/Lectures/Fluid_and_Plasma_Dynamics/Part3_Waves_Instabilities_and_Turbulence.html)
-- [Reynolds-averaged Navier-Stokes and turbulent Reynolds stress](./Reynolds-averaged%20Navier-Stokes%20and%20turbulent%20Reynolds%20stress.html)
-- [Interstellar turbulence and Kolmogorov cascade](./Interstellar%20turbulence%20and%20Kolmogorov%20cascade.html)
-{% endraw %}
+- [Reynolds-averaged Navier-Stokes and turbulent Reynolds stress](Reynolds-averaged%20Navier-Stokes%20and%20turbulent%20Reynolds%20stress.html)
+- [Interstellar turbulence and Kolmogorov cascade](Interstellar%20turbulence%20and%20Kolmogorov%20cascade.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Rayleigh-Benard%20convection%20and%20Boussinesq%20approximation.html" class="backlink-item">Rayleigh-Benard convection and Boussinesq approximation</a></li>
+    <li class="backlink-item-wrap"><a href="Reynolds-averaged%20Navier-Stokes%20and%20turbulent%20Reynolds%20stress.html" class="backlink-item">Reynolds-averaged Navier-Stokes and turbulent Reynolds stress</a></li>
+    <li class="backlink-item-wrap"><a href="Vorticity%20dynamics%20and%20Kelvin%20circulation%20theorem.html" class="backlink-item">Vorticity dynamics and Kelvin circulation theorem</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Rayleigh-Benard%20convection%20and%20Boussinesq%20approximation.html" class="backlink-item">Rayleigh-Benard convection and Boussinesq approximation</a></li>
-    <li class="backlink-item-wrap"><a href="./Reynolds-averaged%20Navier-Stokes%20and%20turbulent%20Reynolds%20stress.html" class="backlink-item">Reynolds-averaged Navier-Stokes and turbulent Reynolds stress</a></li>
-    <li class="backlink-item-wrap"><a href="./Vorticity%20dynamics%20and%20Kelvin%20circulation%20theorem.html" class="backlink-item">Vorticity dynamics and Kelvin circulation theorem</a></li>
   </ul>
 </div>
+

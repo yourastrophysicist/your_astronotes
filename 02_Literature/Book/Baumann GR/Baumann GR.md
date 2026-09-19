@@ -2,7 +2,6 @@
 layout: "default"
 title: "Baumann GR"
 ---
-{% raw %}
 # Baumann GR, reading companion
 
 up: [General_Relativity_MOC](../../../04_Atlas/General_Relativity_MOC.html) · 02_Literature
@@ -163,20 +162,11 @@ after working through all 8 chapters and all 20 exam questions, i should be able
 7. **answer "why?"** at every step of any of the 20 questions
 
 the chapter notes are the scaffolding. the question walkthroughs are the practice. the actual understanding comes from doing the calculations and feeling, in my own hands, how the chain $g \to \Gamma \to R \to G$ unfolds. that is what i am working toward.
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (10)</h4>
+  <h4 class="backlinks-title">Linked References (1)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Ch%201%20-%20Gravity%20is%20Geometry.html" class="backlink-item">Ch 1 - Gravity is Geometry</a></li>
-    <li class="backlink-item-wrap"><a href="./Ch%202%20-%20Some%20Differential%20Geometry.html" class="backlink-item">Ch 2 - Some Differential Geometry</a></li>
-    <li class="backlink-item-wrap"><a href="./Ch%203%20-%20A%20First%20Look%20at%20Geodesics.html" class="backlink-item">Ch 3 - A First Look at Geodesics</a></li>
-    <li class="backlink-item-wrap"><a href="./Ch%204%20-%20Spacetime%20Curvature.html" class="backlink-item">Ch 4 - Spacetime Curvature</a></li>
-    <li class="backlink-item-wrap"><a href="./Ch%205%20-%20The%20Einstein%20Equation.html" class="backlink-item">Ch 5 - The Einstein Equation</a></li>
-    <li class="backlink-item-wrap"><a href="./Ch%206%20-%20Black%20Holes.html" class="backlink-item">Ch 6 - Black Holes</a></li>
-    <li class="backlink-item-wrap"><a href="./Ch%207%20-%20Cosmology.html" class="backlink-item">Ch 7 - Cosmology</a></li>
-    <li class="backlink-item-wrap"><a href="./Ch%208%20-%20Gravitational%20Waves.html" class="backlink-item">Ch 8 - Gravitational Waves</a></li>
-    <li class="backlink-item-wrap"><a href="./Ch%209%20-%20Inflation%20and%20Primordial%20Gravitational%20Waves.html" class="backlink-item">Ch 9 - Inflation and Primordial Gravitational Waves</a></li>
     <li class="backlink-item-wrap"><a href="../../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
   </ul>
 </div>
+

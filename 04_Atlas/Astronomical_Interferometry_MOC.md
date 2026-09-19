@@ -2,7 +2,6 @@
 layout: "default"
 title: "Astronomical_Interferometry_MOC"
 ---
-{% raw %}
 # Astronomical Interferometry — Map of Content
 
 A.Y. 2025/2026 — **Prof. Mauro D'Onofrio**, University of Padova. Master's-level second-semester course in the Astrophysics and Cosmology programme. exam scheduled **Wednesday 3 June 2026** (oral, after a written component for some sessions). this is now the first exam in the summer block.
@@ -309,11 +308,11 @@ every interferometry exam question maps to one of these boxes. recognising the b
 
 ## related MOCs and where this work leaks into
 
-- [Observational_Cosmology_MOC](./Observational_Cosmology_MOC.html) — radio surveys, ALMA continuum studies of high-$z$ galaxies
+- [Observational_Cosmology_MOC](Observational_Cosmology_MOC.html) — radio surveys, ALMA continuum studies of high-$z$ galaxies
 - 04_Atlas/Lab_High-Energy_MOC — instrumentation, calibration philosophy carries across wavelengths
-- [Mathematical_Numerical_Methods_MOC](./Mathematical_Numerical_Methods_MOC.html) — FFT and image-deconvolution algorithms
-- [Fundamentals_Astrophysics_Cosmology_MOC](./Fundamentals_Astrophysics_Cosmology_MOC.html) — angular-diameter distance, Tolman surface brightness
-- [General_Relativity_MOC](./General_Relativity_MOC.html) — EHT and S-star tests of GR
+- [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) — FFT and image-deconvolution algorithms
+- [Fundamentals_Astrophysics_Cosmology_MOC](Fundamentals_Astrophysics_Cosmology_MOC.html) — angular-diameter distance, Tolman surface brightness
+- [General_Relativity_MOC](General_Relativity_MOC.html) — EHT and S-star tests of GR
 - Moc — the master mind-map
 
 ---
@@ -343,111 +342,111 @@ Every single instrument layout, fringe diagram, UV coverage simulation, and obse
 
 | Image Asset | Diagnostic Category & Physics | Primary Zettel Note |
 |---|---|---|
-| `![AGN_and_supermassive_black_holes.jpg](../assets/images/AGN_and_supermassive_black_holes.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
+| `![AGN_and_supermassive_black_holes.jpg](../assets/images/AGN_and_supermassive_black_holes.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
 | `![Adaptive_optics.gif](../assets/images/Adaptive_optics.gif)` | Adaptive optics wavefront sensor, deformable mirror, and Strehl ratio enhancement | [Adaptive optics overview](../03_Zettel/Theory/interf/Adaptive%20optics%20overview.html) |
-| `![Amplitude-division_interferometers.png](../assets/images/Amplitude-division_interferometers.png)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Aperture_masking.jpg](../assets/images/Aperture_masking.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Apodization.png](../assets/images/Apodization.png)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Atmospheric_turbulence_overview.jpg](../assets/images/Atmospheric_turbulence_overview.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Bandpass_calibration.jpg](../assets/images/Bandpass_calibration.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Beam_combiners.jpg](../assets/images/Beam_combiners.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Beam_splitter_physics.png](../assets/images/Beam_splitter_physics.png)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Binary_star_orbits.jpg](../assets/images/Binary_star_orbits.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Bispectrum_and_triple_correlation.jpg](../assets/images/Bispectrum_and_triple_correlation.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Bracewell_nuller.svg](../assets/images/Bracewell_nuller.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![CHARA_array.jpg](../assets/images/CHARA_array.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![COAST_Cambridge_Optical_Aperture_Synthesis_Telescope.jpg](../assets/images/COAST_Cambridge_Optical_Aperture_Synthesis_Telescope.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
+| `![Amplitude-division_interferometers.png](../assets/images/Amplitude-division_interferometers.png)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Aperture_masking.jpg](../assets/images/Aperture_masking.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Apodization.png](../assets/images/Apodization.png)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Atmospheric_turbulence_overview.jpg](../assets/images/Atmospheric_turbulence_overview.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Bandpass_calibration.jpg](../assets/images/Bandpass_calibration.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Beam_combiners.jpg](../assets/images/Beam_combiners.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Beam_splitter_physics.png](../assets/images/Beam_splitter_physics.png)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Binary_star_orbits.jpg](../assets/images/Binary_star_orbits.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Bispectrum_and_triple_correlation.jpg](../assets/images/Bispectrum_and_triple_correlation.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Bracewell_nuller.svg](../assets/images/Bracewell_nuller.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![CHARA_array.jpg](../assets/images/CHARA_array.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![COAST_Cambridge_Optical_Aperture_Synthesis_Telescope.jpg](../assets/images/COAST_Cambridge_Optical_Aperture_Synthesis_Telescope.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
 | `![Closure_amplitude.jpg](../assets/images/Closure_amplitude.jpg)` | Closure phase and closure amplitude eliminating station-based atmospheric phase errors | Closure phase |
-| `![Coherent_vs_incoherent_imaging.png](../assets/images/Coherent_vs_incoherent_imaging.png)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Components_of_a_modern_interferometer.jpg](../assets/images/Components_of_a_modern_interferometer.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Connected_element_interferometer.jpg](../assets/images/Connected_element_interferometer.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Coronagraphy.jpg](../assets/images/Coronagraphy.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Cosmological_masers.jpg](../assets/images/Cosmological_masers.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Crowding_limitation.jpg](../assets/images/Crowding_limitation.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Deconvolution_algorithms_compared.jpg](../assets/images/Deconvolution_algorithms_compared.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Deformable_mirrors_and_tip-tilt.jpg](../assets/images/Deformable_mirrors_and_tip-tilt.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Dust_shells_and_Wolf-Rayet_stars.jpg](../assets/images/Dust_shells_and_Wolf-Rayet_stars.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Earth_rotation_synthesis_in_radio.svg](../assets/images/Earth_rotation_synthesis_in_radio.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Exoplanet_imaging.jpg](../assets/images/Exoplanet_imaging.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Fabry-Perot_interferometer.png](../assets/images/Fabry-Perot_interferometer.png)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Flux_calibration.jpg](../assets/images/Flux_calibration.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Fresnel_biprism.PNG](../assets/images/Fresnel_biprism.PNG)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Fresnel_double_mirror.svg](../assets/images/Fresnel_double_mirror.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Fried_parameter__r_0_.jpg](../assets/images/Fried_parameter__r_0_.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
+| `![Coherent_vs_incoherent_imaging.png](../assets/images/Coherent_vs_incoherent_imaging.png)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Components_of_a_modern_interferometer.jpg](../assets/images/Components_of_a_modern_interferometer.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Connected_element_interferometer.jpg](../assets/images/Connected_element_interferometer.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Coronagraphy.jpg](../assets/images/Coronagraphy.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Cosmological_masers.jpg](../assets/images/Cosmological_masers.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Crowding_limitation.jpg](../assets/images/Crowding_limitation.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Deconvolution_algorithms_compared.jpg](../assets/images/Deconvolution_algorithms_compared.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Deformable_mirrors_and_tip-tilt.jpg](../assets/images/Deformable_mirrors_and_tip-tilt.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Dust_shells_and_Wolf-Rayet_stars.jpg](../assets/images/Dust_shells_and_Wolf-Rayet_stars.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Earth_rotation_synthesis_in_radio.svg](../assets/images/Earth_rotation_synthesis_in_radio.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Exoplanet_imaging.jpg](../assets/images/Exoplanet_imaging.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Fabry-Perot_interferometer.png](../assets/images/Fabry-Perot_interferometer.png)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Flux_calibration.jpg](../assets/images/Flux_calibration.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Fresnel_biprism.PNG](../assets/images/Fresnel_biprism.PNG)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Fresnel_double_mirror.svg](../assets/images/Fresnel_double_mirror.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Fried_parameter__r_0_.jpg](../assets/images/Fried_parameter__r_0_.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
 | `![Fringe_tracking.jpg](../assets/images/Fringe_tracking.jpg)` | Interference fringe visibility, contrast, and phase measurement | Visibility function and fringes |
 | `![Fringe_visibility_and_contrast.png](../assets/images/Fringe_visibility_and_contrast.png)` | Interference fringe visibility, contrast, and phase measurement | Visibility function and fringes |
 | `![Fringes_of_equal_inclination.svg](../assets/images/Fringes_of_equal_inclination.svg)` | Interference fringe visibility, contrast, and phase measurement | Visibility function and fringes |
 | `![Fringes_of_equal_thickness.jpg](../assets/images/Fringes_of_equal_thickness.jpg)` | Interference fringe visibility, contrast, and phase measurement | Visibility function and fringes |
-| `![Frozen_turbulence_and_Taylor_hypothesis.gif](../assets/images/Frozen_turbulence_and_Taylor_hypothesis.gif)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Future_ground-based_optical.jpg](../assets/images/Future_ground-based_optical.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Future_space-based.jpg](../assets/images/Future_space-based.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Galactic_Center_Sgr_A_and_S-stars.jpg](../assets/images/Galactic_Center_Sgr_A_and_S-stars.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Guide_stars_and_laser_guide_stars.jpg](../assets/images/Guide_stars_and_laser_guide_stars.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Hanbury_Brown_Twiss_effect.gif](../assets/images/Hanbury_Brown_Twiss_effect.gif)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Hypertelescope.jpg](../assets/images/Hypertelescope.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Imaging_artifacts.svg](../assets/images/Imaging_artifacts.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Intensity_interferometry_concept.svg](../assets/images/Intensity_interferometry_concept.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Interferometry_course_intro.jpg](../assets/images/Interferometry_course_intro.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Interferometry_equation_sheet.svg](../assets/images/Interferometry_equation_sheet.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Interferometry_exam_rules.PNG](../assets/images/Interferometry_exam_rules.PNG)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Isoplanatic_patch.svg](../assets/images/Isoplanatic_patch.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Keck_interferometer.jpg](../assets/images/Keck_interferometer.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Keck_interferometer.png](../assets/images/Keck_interferometer.png)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Kolmogorov_turbulence.png](../assets/images/Kolmogorov_turbulence.png)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Large_Binocular_Telescope_LBT.JPG](../assets/images/Large_Binocular_Telescope_LBT.JPG)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Light_waves_and_the_EM_spectrum.svg](../assets/images/Light_waves_and_the_EM_spectrum.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Lloyd_mirror.jpg](../assets/images/Lloyd_mirror.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Lunar_interferometry_concepts.jpg](../assets/images/Lunar_interferometry_concepts.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Mach-Zehnder_interferometer.jpg](../assets/images/Mach-Zehnder_interferometer.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Major_radio_interferometers.jpg](../assets/images/Major_radio_interferometers.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Maximum_entropy_method.svg](../assets/images/Maximum_entropy_method.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Michelson_laboratory_interferometer.svg](../assets/images/Michelson_laboratory_interferometer.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Michelson_stellar_interferometer.jpg](../assets/images/Michelson_stellar_interferometer.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Mosaicking.jpg](../assets/images/Mosaicking.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![NPOI_Navy_Prototype_Optical_Interferometer.jpg](../assets/images/NPOI_Navy_Prototype_Optical_Interferometer.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Narrabri_stellar_interferometer.jpg](../assets/images/Narrabri_stellar_interferometer.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Newton_s_rings.jpeg](../assets/images/Newton_s_rings.jpeg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Nulling_interferometry.jpg](../assets/images/Nulling_interferometry.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Optical_path_difference_OPD.svg](../assets/images/Optical_path_difference_OPD.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Optical_transfer_function.svg](../assets/images/Optical_transfer_function.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Optimal_array_geometry.jpg](../assets/images/Optimal_array_geometry.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
+| `![Frozen_turbulence_and_Taylor_hypothesis.gif](../assets/images/Frozen_turbulence_and_Taylor_hypothesis.gif)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Future_ground-based_optical.jpg](../assets/images/Future_ground-based_optical.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Future_space-based.jpg](../assets/images/Future_space-based.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Galactic_Center_Sgr_A_and_S-stars.jpg](../assets/images/Galactic_Center_Sgr_A_and_S-stars.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Guide_stars_and_laser_guide_stars.jpg](../assets/images/Guide_stars_and_laser_guide_stars.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Hanbury_Brown_Twiss_effect.gif](../assets/images/Hanbury_Brown_Twiss_effect.gif)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Hypertelescope.jpg](../assets/images/Hypertelescope.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Imaging_artifacts.svg](../assets/images/Imaging_artifacts.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Intensity_interferometry_concept.svg](../assets/images/Intensity_interferometry_concept.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Interferometry_course_intro.jpg](../assets/images/Interferometry_course_intro.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Interferometry_equation_sheet.svg](../assets/images/Interferometry_equation_sheet.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Interferometry_exam_rules.PNG](../assets/images/Interferometry_exam_rules.PNG)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Isoplanatic_patch.svg](../assets/images/Isoplanatic_patch.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Keck_interferometer.jpg](../assets/images/Keck_interferometer.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Keck_interferometer.png](../assets/images/Keck_interferometer.png)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Kolmogorov_turbulence.png](../assets/images/Kolmogorov_turbulence.png)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Large_Binocular_Telescope_LBT.JPG](../assets/images/Large_Binocular_Telescope_LBT.JPG)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Light_waves_and_the_EM_spectrum.svg](../assets/images/Light_waves_and_the_EM_spectrum.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Lloyd_mirror.jpg](../assets/images/Lloyd_mirror.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Lunar_interferometry_concepts.jpg](../assets/images/Lunar_interferometry_concepts.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Mach-Zehnder_interferometer.jpg](../assets/images/Mach-Zehnder_interferometer.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Major_radio_interferometers.jpg](../assets/images/Major_radio_interferometers.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Maximum_entropy_method.svg](../assets/images/Maximum_entropy_method.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Michelson_laboratory_interferometer.svg](../assets/images/Michelson_laboratory_interferometer.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Michelson_stellar_interferometer.jpg](../assets/images/Michelson_stellar_interferometer.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Mosaicking.jpg](../assets/images/Mosaicking.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![NPOI_Navy_Prototype_Optical_Interferometer.jpg](../assets/images/NPOI_Navy_Prototype_Optical_Interferometer.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Narrabri_stellar_interferometer.jpg](../assets/images/Narrabri_stellar_interferometer.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Newton_s_rings.jpeg](../assets/images/Newton_s_rings.jpeg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Nulling_interferometry.jpg](../assets/images/Nulling_interferometry.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Optical_path_difference_OPD.svg](../assets/images/Optical_path_difference_OPD.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Optical_transfer_function.svg](../assets/images/Optical_transfer_function.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Optimal_array_geometry.jpg](../assets/images/Optimal_array_geometry.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
 | `![Phase_closure.jpg](../assets/images/Phase_closure.jpg)` | Closure phase and closure amplitude eliminating station-based atmospheric phase errors | Closure phase |
-| `![Phase_referencing.svg](../assets/images/Phase_referencing.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Photon_noise_and_statistics.jpg](../assets/images/Photon_noise_and_statistics.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Point_spread_function.svg](../assets/images/Point_spread_function.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Polarization_in_interferometry.png](../assets/images/Polarization_in_interferometry.png)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Pulsar_interferometry.jpg](../assets/images/Pulsar_interferometry.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Pulsar_timing_arrays_as_interferometers.jpg](../assets/images/Pulsar_timing_arrays_as_interferometers.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Pulsating_stars_and_Mira_variables.jpg](../assets/images/Pulsating_stars_and_Mira_variables.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Sagnac_interferometer.svg](../assets/images/Sagnac_interferometer.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Scintillation_and_twinkling.jpg](../assets/images/Scintillation_and_twinkling.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Self-calibration.png](../assets/images/Self-calibration.png)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Sensitivity_and_modern_revival.jpeg](../assets/images/Sensitivity_and_modern_revival.jpeg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Spatial_coherence.gif](../assets/images/Spatial_coherence.gif)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Speckle_imaging_algorithms.gif](../assets/images/Speckle_imaging_algorithms.gif)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Speckle_interferometry.jpg](../assets/images/Speckle_interferometry.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Stellar_diameters_and_limb_darkening.svg](../assets/images/Stellar_diameters_and_limb_darkening.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Stellar_surface_imaging.jpg](../assets/images/Stellar_surface_imaging.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Steps_in_radio_interferometric_observations.jpg](../assets/images/Steps_in_radio_interferometric_observations.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Structure_function_and_correlation_function.png](../assets/images/Structure_function_and_correlation_function.png)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Temporal_coherence.gif](../assets/images/Temporal_coherence.gif)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![The_Square_Kilometre_Array_SKA.png](../assets/images/The_Square_Kilometre_Array_SKA.png)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![The__u__v__plane.png](../assets/images/The__u__v__plane.png)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![The_phase_problem_in_interferometry.jpg](../assets/images/The_phase_problem_in_interferometry.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Theory_of_speckle_interferometry.jpg](../assets/images/Theory_of_speckle_interferometry.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Two-element_correlator.jpg](../assets/images/Two-element_correlator.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Wavefront-division_interferometers.svg](../assets/images/Wavefront-division_interferometers.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Wavefront_sensors.svg](../assets/images/Wavefront_sensors.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Why_intensity_interferometry_escapes_atmospheric_phase.png](../assets/images/Why_intensity_interferometry_escapes_atmospheric_phase.png)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Why_interferometry.svg](../assets/images/Why_interferometry.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Wiener-Khinchin_theorem.svg](../assets/images/Wiener-Khinchin_theorem.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![Young_stellar_object_disks.jpg](../assets/images/Young_stellar_object_disks.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![abbe_fourier_optics_orders.svg](../assets/images/abbe_fourier_optics_orders.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
+| `![Phase_referencing.svg](../assets/images/Phase_referencing.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Photon_noise_and_statistics.jpg](../assets/images/Photon_noise_and_statistics.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Point_spread_function.svg](../assets/images/Point_spread_function.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Polarization_in_interferometry.png](../assets/images/Polarization_in_interferometry.png)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Pulsar_interferometry.jpg](../assets/images/Pulsar_interferometry.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Pulsar_timing_arrays_as_interferometers.jpg](../assets/images/Pulsar_timing_arrays_as_interferometers.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Pulsating_stars_and_Mira_variables.jpg](../assets/images/Pulsating_stars_and_Mira_variables.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Sagnac_interferometer.svg](../assets/images/Sagnac_interferometer.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Scintillation_and_twinkling.jpg](../assets/images/Scintillation_and_twinkling.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Self-calibration.png](../assets/images/Self-calibration.png)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Sensitivity_and_modern_revival.jpeg](../assets/images/Sensitivity_and_modern_revival.jpeg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Spatial_coherence.gif](../assets/images/Spatial_coherence.gif)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Speckle_imaging_algorithms.gif](../assets/images/Speckle_imaging_algorithms.gif)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Speckle_interferometry.jpg](../assets/images/Speckle_interferometry.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Stellar_diameters_and_limb_darkening.svg](../assets/images/Stellar_diameters_and_limb_darkening.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Stellar_surface_imaging.jpg](../assets/images/Stellar_surface_imaging.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Steps_in_radio_interferometric_observations.jpg](../assets/images/Steps_in_radio_interferometric_observations.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Structure_function_and_correlation_function.png](../assets/images/Structure_function_and_correlation_function.png)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Temporal_coherence.gif](../assets/images/Temporal_coherence.gif)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![The_Square_Kilometre_Array_SKA.png](../assets/images/The_Square_Kilometre_Array_SKA.png)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![The__u__v__plane.png](../assets/images/The__u__v__plane.png)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![The_phase_problem_in_interferometry.jpg](../assets/images/The_phase_problem_in_interferometry.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Theory_of_speckle_interferometry.jpg](../assets/images/Theory_of_speckle_interferometry.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Two-element_correlator.jpg](../assets/images/Two-element_correlator.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Wavefront-division_interferometers.svg](../assets/images/Wavefront-division_interferometers.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Wavefront_sensors.svg](../assets/images/Wavefront_sensors.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Why_intensity_interferometry_escapes_atmospheric_phase.png](../assets/images/Why_intensity_interferometry_escapes_atmospheric_phase.png)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Why_interferometry.svg](../assets/images/Why_interferometry.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Wiener-Khinchin_theorem.svg](../assets/images/Wiener-Khinchin_theorem.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![Young_stellar_object_disks.jpg](../assets/images/Young_stellar_object_disks.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![abbe_fourier_optics_orders.svg](../assets/images/abbe_fourier_optics_orders.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
 | `![airy_pattern_generated.png](../assets/images/airy_pattern_generated.png)` | Airy disk diffraction pattern and spatial resolution limit $\theta \sim 1.22\lambda/D$ | Airy disk and resolution |
 | `![alma_signal_path_official.gif](../assets/images/alma_signal_path_official.gif)` | ALMA millimeter/submillimeter array configuration, baselines, and calibration | ALMA observatory and capabilities |
-| `![antenna_effective_area_gain.svg](../assets/images/antenna_effective_area_gain.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![digitization_quantization_sampling.svg](../assets/images/digitization_quantization_sampling.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![downconversion_mixer_if.svg](../assets/images/downconversion_mixer_if.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
+| `![antenna_effective_area_gain.svg](../assets/images/antenna_effective_area_gain.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![digitization_quantization_sampling.svg](../assets/images/digitization_quantization_sampling.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![downconversion_mixer_if.svg](../assets/images/downconversion_mixer_if.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
 | `![eht_m87_eso1907a.jpg](../assets/images/eht_m87_eso1907a.jpg)` | Very Long Baseline Interferometry (VLBI) and Event Horizon Telescope imaging | [Very Long Baseline Interferometry VLBI](../03_Zettel/Theory/interf/Very%20Long%20Baseline%20Interferometry%20VLBI.html) |
 | `![eht_planet_scale_array_eso1907j.jpg](../assets/images/eht_planet_scale_array_eso1907j.jpg)` | Very Long Baseline Interferometry (VLBI) and Event Horizon Telescope imaging | [Very Long Baseline Interferometry VLBI](../03_Zettel/Theory/interf/Very%20Long%20Baseline%20Interferometry%20VLBI.html) |
 | `![ivkovic_2024_fig1.png](../assets/images/ivkovic_2024_fig1.png)` | Ivkovic et al. (2024) second-order intensity correlation $g^{(2)}$ and modern intensity interferometry | [Intensity interferometry concept](../03_Zettel/Theory/interf/Intensity%20interferometry%20concept.html) |
@@ -463,20 +462,20 @@ Every single instrument layout, fringe diagram, UV coverage simulation, and obse
 | `![ivkovic_2024_fig6_rg.png](../assets/images/ivkovic_2024_fig6_rg.png)` | Ivkovic et al. (2024) second-order intensity correlation $g^{(2)}$ and modern intensity interferometry | [Intensity interferometry concept](../03_Zettel/Theory/interf/Intensity%20interferometry%20concept.html) |
 | `![ivkovic_2024_fig7.png](../assets/images/ivkovic_2024_fig7.png)` | Ivkovic et al. (2024) second-order intensity correlation $g^{(2)}$ and modern intensity interferometry | [Intensity interferometry concept](../03_Zettel/Theory/interf/Intensity%20interferometry%20concept.html) |
 | `![ivkovic_2024_fig8.png](../assets/images/ivkovic_2024_fig8.png)` | Ivkovic et al. (2024) second-order intensity correlation $g^{(2)}$ and modern intensity interferometry | [Intensity interferometry concept](../03_Zettel/Theory/interf/Intensity%20interferometry%20concept.html) |
-| `![ngVLA_Next_Generation_VLA.jpg](../assets/images/ngVLA_Next_Generation_VLA.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
+| `![ngVLA_Next_Generation_VLA.jpg](../assets/images/ngVLA_Next_Generation_VLA.jpg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
 | `![nrao_snapshot_dirty_beam.jpg](../assets/images/nrao_snapshot_dirty_beam.jpg)` | Adaptive optics wavefront sensor, deformable mirror, and Strehl ratio enhancement | [Adaptive optics overview](../03_Zettel/Theory/interf/Adaptive%20optics%20overview.html) |
 | `![nrao_snapshot_dirty_image.jpg](../assets/images/nrao_snapshot_dirty_image.jpg)` | Adaptive optics wavefront sensor, deformable mirror, and Strehl ratio enhancement | [Adaptive optics overview](../03_Zettel/Theory/interf/Adaptive%20optics%20overview.html) |
 | `![nrao_snapshot_uv_coverage.jpg](../assets/images/nrao_snapshot_uv_coverage.jpg)` | UV-plane baseline sampling, aperture synthesis, and Earth rotation synthesis | UV coverage and aperture synthesis |
-| `![polarization_stokes_ellipse.svg](../assets/images/polarization_stokes_ellipse.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![radiation_mechanisms_spectra.png](../assets/images/radiation_mechanisms_spectra.png)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![radio_interferometer_signal_chain.svg](../assets/images/radio_interferometer_signal_chain.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![radio_observing_workflow.svg](../assets/images/radio_observing_workflow.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![radiometer_noise_scaling.png](../assets/images/radiometer_noise_scaling.png)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
-| `![specific_intensity_flux_beam.svg](../assets/images/specific_intensity_flux_beam.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
+| `![polarization_stokes_ellipse.svg](../assets/images/polarization_stokes_ellipse.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![radiation_mechanisms_spectra.png](../assets/images/radiation_mechanisms_spectra.png)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![radio_interferometer_signal_chain.svg](../assets/images/radio_interferometer_signal_chain.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![radio_observing_workflow.svg](../assets/images/radio_observing_workflow.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![radiometer_noise_scaling.png](../assets/images/radiometer_noise_scaling.png)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
+| `![specific_intensity_flux_beam.svg](../assets/images/specific_intensity_flux_beam.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
 | `![uv_coverage_dirty_beam_demo.png](../assets/images/uv_coverage_dirty_beam_demo.png)` | UV-plane baseline sampling, aperture synthesis, and Earth rotation synthesis | UV coverage and aperture synthesis |
 | `![van_cittert_zernike_geometry.svg](../assets/images/van_cittert_zernike_geometry.svg)` | Van Cittert-Zernike theorem relating complex visibility to source brightness distribution | [Van Cittert-Zernike theorem](../03_Zettel/Theory/interf/Van%20Cittert-Zernike%20theorem.html) |
 | `![vlti_delay_line_eso9811a.jpg](../assets/images/vlti_delay_line_eso9811a.jpg)` | Optical delay line compensation for geometric path delay $\vec{B} \cdot \hat{s}$ | Delay lines and path compensation |
-| `![young_double_slit_interference.svg](../assets/images/young_double_slit_interference.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](./Astronomical_Interferometry_MOC.html) |
+| `![young_double_slit_interference.svg](../assets/images/young_double_slit_interference.svg)` | Interferometric observational diagnostic, instrument layout, or Fourier transform analysis | [Astronomical_Interferometry_MOC](Astronomical_Interferometry_MOC.html) |
 
 
 ---
@@ -548,252 +547,3 @@ Every single instrument layout, fringe diagram, UV coverage simulation, and obse
 | **UV Coordinate Transformation** | $\begin{pmatrix} u \\ v \\ w \end{pmatrix} = \frac{1}{\lambda} \mathbf{R}(\delta, H) \begin{pmatrix} B_x \\ B_y \\ B_z \end{pmatrix}$ | Projects ground baseline vector $(B_x, B_y, B_z)$ onto plane perpendicular to line of sight |
 | **Number of Independent Baselines** | $N_{\rm base} = \frac{N(N-1)}{2}$ | Total simultaneous interferometer baselines for $N$ antennas |
 | **Number of Independent Closure Phases** | $N_{\rm closure} = \frac{(N-1)(N-2)}{2}$ | Independent closure phase constraints available for phase reconstruction |
-{% endraw %}
-
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (242)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./04_Atlas.html" class="backlink-item">04_Atlas</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/AGN%20and%20supermassive%20black%20holes.html" class="backlink-item">AGN and supermassive black holes</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/AGN%20and%20supermassive%20black%20holes.html" class="backlink-item">AGN and supermassive black holes</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Adaptive%20optics.html" class="backlink-item">Adaptive optics</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Adaptive%20optics.html" class="backlink-item">Adaptive optics</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Amplitude-division%20interferometers.html" class="backlink-item">Amplitude-division interferometers</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Aperture%20masking.html" class="backlink-item">Aperture masking</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Aperture%20masking.html" class="backlink-item">Aperture masking</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Aperture%20synthesis%20principle.html" class="backlink-item">Aperture synthesis principle</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Aperture%20synthesis%20principle.html" class="backlink-item">Aperture synthesis principle</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Apodization.html" class="backlink-item">Apodization</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Apodization.html" class="backlink-item">Apodization</a></li>
-    <li class="backlink-item-wrap"><a href="./Astrophysics_of_the_Interstellar_Medium_MOC.html" class="backlink-item">Astrophysics_of_the_Interstellar_Medium_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Atmospheric%20turbulence%20overview.html" class="backlink-item">Atmospheric turbulence overview</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Atmospheric%20turbulence%20overview.html" class="backlink-item">Atmospheric turbulence overview</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Bandpass%20calibration.html" class="backlink-item">Bandpass calibration</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Bandpass%20calibration.html" class="backlink-item">Bandpass calibration</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Beam%20combiners.html" class="backlink-item">Beam combiners</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Beam%20splitter%20physics.html" class="backlink-item">Beam splitter physics</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Beam%20splitter%20physics.html" class="backlink-item">Beam splitter physics</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Binary%20star%20orbits.html" class="backlink-item">Binary star orbits</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Binary%20star%20orbits.html" class="backlink-item">Binary star orbits</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Bispectrum%20and%20triple%20correlation.html" class="backlink-item">Bispectrum and triple correlation</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Bispectrum%20and%20triple%20correlation.html" class="backlink-item">Bispectrum and triple correlation</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Bracewell%20nuller.html" class="backlink-item">Bracewell nuller</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Bracewell%20nuller.html" class="backlink-item">Bracewell nuller</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/CHARA%20array.html" class="backlink-item">CHARA array</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/CHARA%20array.html" class="backlink-item">CHARA array</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/CLEAN%20algorithm.html" class="backlink-item">CLEAN algorithm</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/CLEAN%20algorithm.html" class="backlink-item">CLEAN algorithm</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/COAST%20Cambridge%20Optical%20Aperture%20Synthesis%20Telescope.html" class="backlink-item">COAST Cambridge Optical Aperture Synthesis Telescope</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/COAST%20Cambridge%20Optical%20Aperture%20Synthesis%20Telescope.html" class="backlink-item">COAST Cambridge Optical Aperture Synthesis Telescope</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Calibration%20overview.html" class="backlink-item">Calibration overview</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Calibration%20overview.html" class="backlink-item">Calibration overview</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Closure%20amplitude.html" class="backlink-item">Closure amplitude</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Closure%20amplitude.html" class="backlink-item">Closure amplitude</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Coherence%20function%20and%20visibility.html" class="backlink-item">Coherence function and visibility</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Coherence%20function%20and%20visibility.html" class="backlink-item">Coherence function and visibility</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Coherent%20vs%20incoherent%20imaging.html" class="backlink-item">Coherent vs incoherent imaging</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Coherent%20vs%20incoherent%20imaging.html" class="backlink-item">Coherent vs incoherent imaging</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Components%20of%20a%20modern%20interferometer.html" class="backlink-item">Components of a modern interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Components%20of%20a%20modern%20interferometer.html" class="backlink-item">Components of a modern interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Components%20of%20a%20modern%20interferometer%20continued.html" class="backlink-item">Components of a modern interferometer continued</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Components%20of%20a%20modern%20interferometer%20continued.html" class="backlink-item">Components of a modern interferometer continued</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Connected%20element%20interferometer.html" class="backlink-item">Connected element interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Connected%20element%20interferometer.html" class="backlink-item">Connected element interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Coronagraphy.html" class="backlink-item">Coronagraphy</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Coronagraphy.html" class="backlink-item">Coronagraphy</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Cosmological%20masers.html" class="backlink-item">Cosmological masers</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Cosmological%20masers.html" class="backlink-item">Cosmological masers</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Crowding%20limitation.html" class="backlink-item">Crowding limitation</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Crowding%20limitation.html" class="backlink-item">Crowding limitation</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/DOnofrio%20Exam%20Retake%20-%20Radio%20vs%20Optical%20Physics%20and%20Michelson%20Synthesis.html" class="backlink-item">DOnofrio Exam Retake - Radio vs Optical Physics and Michelson Synthesis</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Deconvolution%20algorithms%20compared.html" class="backlink-item">Deconvolution algorithms compared</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Deconvolution%20algorithms%20compared.html" class="backlink-item">Deconvolution algorithms compared</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Deformable%20mirrors%20and%20tip-tilt.html" class="backlink-item">Deformable mirrors and tip-tilt</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Deformable%20mirrors%20and%20tip-tilt.html" class="backlink-item">Deformable mirrors and tip-tilt</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Delay%20lines%20and%20path-length%20equalization.html" class="backlink-item">Delay lines and path-length equalization</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Delay%20lines%20and%20path-length%20equalization.html" class="backlink-item">Delay lines and path-length equalization</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Diffraction%20patterns%20of%20simple%20apertures.html" class="backlink-item">Diffraction patterns of simple apertures</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Diffraction%20patterns%20of%20simple%20apertures.html" class="backlink-item">Diffraction patterns of simple apertures</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Dirty%20beam%20and%20dirty%20image.html" class="backlink-item">Dirty beam and dirty image</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Dirty%20beam%20and%20dirty%20image.html" class="backlink-item">Dirty beam and dirty image</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Dust%20shells%20and%20Wolf-Rayet%20stars.html" class="backlink-item">Dust shells and Wolf-Rayet stars</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Dust%20shells%20and%20Wolf-Rayet%20stars.html" class="backlink-item">Dust shells and Wolf-Rayet stars</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Earth%20rotation%20synthesis%20in%20radio.html" class="backlink-item">Earth rotation synthesis in radio</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Earth%20rotation%20synthesis%20in%20radio.html" class="backlink-item">Earth rotation synthesis in radio</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Earth-rotation%20aperture%20synthesis.html" class="backlink-item">Earth-rotation aperture synthesis</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Earth-rotation%20aperture%20synthesis.html" class="backlink-item">Earth-rotation aperture synthesis</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Electromagnetic%20waves%20and%20photons.html" class="backlink-item">Electromagnetic waves and photons</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Electromagnetic%20waves%20and%20photons.html" class="backlink-item">Electromagnetic waves and photons</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Event%20Horizon%20Telescope%20EHT.html" class="backlink-item">Event Horizon Telescope EHT</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Event%20Horizon%20Telescope%20EHT.html" class="backlink-item">Event Horizon Telescope EHT</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Exoplanet%20imaging.html" class="backlink-item">Exoplanet imaging</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Exoplanet%20imaging.html" class="backlink-item">Exoplanet imaging</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Fabry-Perot%20interferometer.html" class="backlink-item">Fabry-Perot interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Fabry-Perot%20interferometer.html" class="backlink-item">Fabry-Perot interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Flux%20calibration%20in%20radio.html" class="backlink-item">Flux calibration in radio</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Flux%20calibration%20in%20radio.html" class="backlink-item">Flux calibration in radio</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Fraunhofer%20diffraction.html" class="backlink-item">Fraunhofer diffraction</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Fraunhofer%20diffraction.html" class="backlink-item">Fraunhofer diffraction</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Fresnel%20biprism.html" class="backlink-item">Fresnel biprism</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Fresnel%20biprism.html" class="backlink-item">Fresnel biprism</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Fresnel%20double%20mirror.html" class="backlink-item">Fresnel double mirror</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Fresnel%20double%20mirror.html" class="backlink-item">Fresnel double mirror</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Fresnel-Arago%20laws.html" class="backlink-item">Fresnel-Arago laws</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Fresnel-Arago%20laws.html" class="backlink-item">Fresnel-Arago laws</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Fried%20parameter%20%24r_0%24.html" class="backlink-item">Fried parameter $r_0$</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Fried%20parameter%20%24r_0%24.html" class="backlink-item">Fried parameter $r_0$</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Fringe%20tracking.html" class="backlink-item">Fringe tracking</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Fringe%20tracking.html" class="backlink-item">Fringe tracking</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Fringe%20visibility%20and%20contrast.html" class="backlink-item">Fringe visibility and contrast</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Fringe%20visibility%20and%20contrast.html" class="backlink-item">Fringe visibility and contrast</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Fringes%20of%20equal%20inclination.html" class="backlink-item">Fringes of equal inclination</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Fringes%20of%20equal%20inclination.html" class="backlink-item">Fringes of equal inclination</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Fringes%20of%20equal%20thickness.html" class="backlink-item">Fringes of equal thickness</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Fringes%20of%20equal%20thickness.html" class="backlink-item">Fringes of equal thickness</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Frozen%20turbulence%20and%20Taylor%20hypothesis.html" class="backlink-item">Frozen turbulence and Taylor hypothesis</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Frozen%20turbulence%20and%20Taylor%20hypothesis.html" class="backlink-item">Frozen turbulence and Taylor hypothesis</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Future%20ground-based%20optical.html" class="backlink-item">Future ground-based optical</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Future%20ground-based%20optical.html" class="backlink-item">Future ground-based optical</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Future%20space-based.html" class="backlink-item">Future space-based</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Future%20space-based.html" class="backlink-item">Future space-based</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Galactic%20Center%20Sgr%20A%20and%20S-stars.html" class="backlink-item">Galactic Center Sgr A and S-stars</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Galactic%20Center%20Sgr%20A%20and%20S-stars.html" class="backlink-item">Galactic Center Sgr A and S-stars</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Guide%20stars%20and%20laser%20guide%20stars.html" class="backlink-item">Guide stars and laser guide stars</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Guide%20stars%20and%20laser%20guide%20stars.html" class="backlink-item">Guide stars and laser guide stars</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Hanbury%20Brown%20Twiss%20effect.html" class="backlink-item">Hanbury Brown Twiss effect</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Hanbury%20Brown%20Twiss%20effect.html" class="backlink-item">Hanbury Brown Twiss effect</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Heterodyne%20vs%20direct%20detection.html" class="backlink-item">Heterodyne vs direct detection</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Heterodyne%20vs%20direct%20detection.html" class="backlink-item">Heterodyne vs direct detection</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Hypertelescope.html" class="backlink-item">Hypertelescope</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Hypertelescope.html" class="backlink-item">Hypertelescope</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Imaging%20artifacts.html" class="backlink-item">Imaging artifacts</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Imaging%20artifacts.html" class="backlink-item">Imaging artifacts</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Intensity%20interferometry%20concept.html" class="backlink-item">Intensity interferometry concept</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Intensity%20interferometry%20concept.html" class="backlink-item">Intensity interferometry concept</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Interferometry%20course%20intro.html" class="backlink-item">Interferometry course intro</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Interferometry%20course%20intro.html" class="backlink-item">Interferometry course intro</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Interferometry%20equation%20sheet.html" class="backlink-item">Interferometry equation sheet</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Interferometry%20equation%20sheet.html" class="backlink-item">Interferometry equation sheet</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Interferometry%20exam%20rules.html" class="backlink-item">Interferometry exam rules</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Interferometry%20exam%20rules.html" class="backlink-item">Interferometry exam rules</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Isoplanatic%20patch.html" class="backlink-item">Isoplanatic patch</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Isoplanatic%20patch.html" class="backlink-item">Isoplanatic patch</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Keck%20interferometer.html" class="backlink-item">Keck interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Keck%20interferometer.html" class="backlink-item">Keck interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Kolmogorov%20turbulence.html" class="backlink-item">Kolmogorov turbulence</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Kolmogorov%20turbulence.html" class="backlink-item">Kolmogorov turbulence</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Large%20Binocular%20Telescope%20LBT.html" class="backlink-item">Large Binocular Telescope LBT</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Large%20Binocular%20Telescope%20LBT.html" class="backlink-item">Large Binocular Telescope LBT</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Light%20waves%20and%20the%20EM%20spectrum.html" class="backlink-item">Light waves and the EM spectrum</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Light%20waves%20and%20the%20EM%20spectrum.html" class="backlink-item">Light waves and the EM spectrum</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Lloyd%20mirror.html" class="backlink-item">Lloyd mirror</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Lloyd%20mirror.html" class="backlink-item">Lloyd mirror</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Lunar%20interferometry%20concepts.html" class="backlink-item">Lunar interferometry concepts</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Lunar%20interferometry%20concepts.html" class="backlink-item">Lunar interferometry concepts</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Mach-Zehnder%20interferometer.html" class="backlink-item">Mach-Zehnder interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Mach-Zehnder%20interferometer.html" class="backlink-item">Mach-Zehnder interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Major%20radio%20interferometers.html" class="backlink-item">Major radio interferometers</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Major%20radio%20interferometers.html" class="backlink-item">Major radio interferometers</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Maximum%20entropy%20method.html" class="backlink-item">Maximum entropy method</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Michelson%20laboratory%20interferometer.html" class="backlink-item">Michelson laboratory interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Michelson%20laboratory%20interferometer.html" class="backlink-item">Michelson laboratory interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Michelson%20stellar%20interferometer.html" class="backlink-item">Michelson stellar interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Michelson%20stellar%20interferometer.html" class="backlink-item">Michelson stellar interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Mosaicking.html" class="backlink-item">Mosaicking</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Mosaicking.html" class="backlink-item">Mosaicking</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/NPOI%20Navy%20Prototype%20Optical%20Interferometer.html" class="backlink-item">NPOI Navy Prototype Optical Interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/NPOI%20Navy%20Prototype%20Optical%20Interferometer.html" class="backlink-item">NPOI Navy Prototype Optical Interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Narrabri%20stellar%20interferometer.html" class="backlink-item">Narrabri stellar interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Narrabri%20stellar%20interferometer.html" class="backlink-item">Narrabri stellar interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Newton%27s%20rings.html" class="backlink-item">Newton's rings</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Newton%27s%20rings.html" class="backlink-item">Newton's rings</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Nulling%20interferometry.html" class="backlink-item">Nulling interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Nulling%20interferometry.html" class="backlink-item">Nulling interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Optical%20path%20difference%20OPD.html" class="backlink-item">Optical path difference OPD</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Optical%20path%20difference%20OPD.html" class="backlink-item">Optical path difference OPD</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Optical%20transfer%20function.html" class="backlink-item">Optical transfer function</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Optical%20transfer%20function.html" class="backlink-item">Optical transfer function</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Optimal%20array%20geometry.html" class="backlink-item">Optimal array geometry</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Optimal%20array%20geometry.html" class="backlink-item">Optimal array geometry</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Phase%20closure.html" class="backlink-item">Phase closure</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Phase%20closure.html" class="backlink-item">Phase closure</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Phase%20referencing.html" class="backlink-item">Phase referencing</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Phase%20referencing.html" class="backlink-item">Phase referencing</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Photon%20noise%20and%20statistics.html" class="backlink-item">Photon noise and statistics</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Photon%20noise%20and%20statistics.html" class="backlink-item">Photon noise and statistics</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Plane%20waves%20and%20Huygens%20principle.html" class="backlink-item">Plane waves and Huygens principle</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Plane%20waves%20and%20Huygens%20principle.html" class="backlink-item">Plane waves and Huygens principle</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Point%20spread%20function.html" class="backlink-item">Point spread function</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Point%20spread%20function.html" class="backlink-item">Point spread function</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Polarization%20in%20interferometry.html" class="backlink-item">Polarization in interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Polarization%20in%20interferometry.html" class="backlink-item">Polarization in interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Pulsar%20interferometry.html" class="backlink-item">Pulsar interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Pulsar%20interferometry.html" class="backlink-item">Pulsar interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Pulsar%20timing%20arrays%20as%20interferometers.html" class="backlink-item">Pulsar timing arrays as interferometers</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Pulsar%20timing%20arrays%20as%20interferometers.html" class="backlink-item">Pulsar timing arrays as interferometers</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Pulsating%20stars%20and%20Mira%20variables.html" class="backlink-item">Pulsating stars and Mira variables</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Pulsating%20stars%20and%20Mira%20variables.html" class="backlink-item">Pulsating stars and Mira variables</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Radio%20astronomy%20basics.html" class="backlink-item">Radio astronomy basics</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Radio%20astronomy%20basics.html" class="backlink-item">Radio astronomy basics</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Radio%20interferometer%20architecture.html" class="backlink-item">Radio interferometer architecture</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Radio%20interferometer%20architecture.html" class="backlink-item">Radio interferometer architecture</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Radio%20telescope%20components.html" class="backlink-item">Radio telescope components</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Sagnac%20interferometer.html" class="backlink-item">Sagnac interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Sagnac%20interferometer.html" class="backlink-item">Sagnac interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Scintillation%20and%20twinkling.html" class="backlink-item">Scintillation and twinkling</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Scintillation%20and%20twinkling.html" class="backlink-item">Scintillation and twinkling</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Self-calibration.html" class="backlink-item">Self-calibration</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Self-calibration.html" class="backlink-item">Self-calibration</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Sensitivity%20and%20modern%20revival.html" class="backlink-item">Sensitivity and modern revival</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Sensitivity%20and%20modern%20revival.html" class="backlink-item">Sensitivity and modern revival</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Spatial%20coherence.html" class="backlink-item">Spatial coherence</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Spatial%20coherence.html" class="backlink-item">Spatial coherence</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Speckle%20imaging%20algorithms.html" class="backlink-item">Speckle imaging algorithms</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Speckle%20imaging%20algorithms.html" class="backlink-item">Speckle imaging algorithms</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Speckle%20interferometry.html" class="backlink-item">Speckle interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Speckle%20interferometry.html" class="backlink-item">Speckle interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Stellar%20diameters%20and%20limb%20darkening.html" class="backlink-item">Stellar diameters and limb darkening</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Stellar%20diameters%20and%20limb%20darkening.html" class="backlink-item">Stellar diameters and limb darkening</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Stellar%20surface%20imaging.html" class="backlink-item">Stellar surface imaging</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Stellar%20surface%20imaging.html" class="backlink-item">Stellar surface imaging</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Steps%20in%20radio%20interferometric%20observations.html" class="backlink-item">Steps in radio interferometric observations</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Structure%20function%20and%20correlation%20function.html" class="backlink-item">Structure function and correlation function</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Structure%20function%20and%20correlation%20function.html" class="backlink-item">Structure function and correlation function</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Superposition%20and%20interference.html" class="backlink-item">Superposition and interference</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Superposition%20and%20interference.html" class="backlink-item">Superposition and interference</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Temporal%20coherence.html" class="backlink-item">Temporal coherence</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Temporal%20coherence.html" class="backlink-item">Temporal coherence</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/The%20%28u%2C%20v%29%20plane.html" class="backlink-item">The (u, v) plane</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/The%20%28u%2C%20v%29%20plane.html" class="backlink-item">The (u, v) plane</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/The%20Square%20Kilometre%20Array%20SKA.html" class="backlink-item">The Square Kilometre Array SKA</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/The%20Square%20Kilometre%20Array%20SKA.html" class="backlink-item">The Square Kilometre Array SKA</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/The%20phase%20problem%20in%20interferometry.html" class="backlink-item">The phase problem in interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/The%20phase%20problem%20in%20interferometry.html" class="backlink-item">The phase problem in interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Theory%20of%20speckle%20interferometry.html" class="backlink-item">Theory of speckle interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Theory%20of%20speckle%20interferometry.html" class="backlink-item">Theory of speckle interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Two-element%20correlator.html" class="backlink-item">Two-element correlator</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Two-element%20correlator.html" class="backlink-item">Two-element correlator</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/VLTI%20Very%20Large%20Telescope%20Interferometer.html" class="backlink-item">VLTI Very Large Telescope Interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/VLTI%20Very%20Large%20Telescope%20Interferometer.html" class="backlink-item">VLTI Very Large Telescope Interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Van%20Cittert-Zernike%20theorem.html" class="backlink-item">Van Cittert-Zernike theorem</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Van%20Cittert-Zernike%20theorem.html" class="backlink-item">Van Cittert-Zernike theorem</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Very%20Long%20Baseline%20Interferometry%20VLBI.html" class="backlink-item">Very Long Baseline Interferometry VLBI</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Very%20Long%20Baseline%20Interferometry%20VLBI.html" class="backlink-item">Very Long Baseline Interferometry VLBI</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Wavefront%20sensors.html" class="backlink-item">Wavefront sensors</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Wavefront%20sensors.html" class="backlink-item">Wavefront sensors</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Wavefront-division%20interferometers.html" class="backlink-item">Wavefront-division interferometers</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Wavefront-division%20interferometers.html" class="backlink-item">Wavefront-division interferometers</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Why%20intensity%20interferometry%20escapes%20atmospheric%20phase.html" class="backlink-item">Why intensity interferometry escapes atmospheric phase</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Why%20intensity%20interferometry%20escapes%20atmospheric%20phase.html" class="backlink-item">Why intensity interferometry escapes atmospheric phase</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Why%20interferometry.html" class="backlink-item">Why interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Why%20interferometry.html" class="backlink-item">Why interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Young%20experiment%20as%20a%20stellar%20interferometer.html" class="backlink-item">Young experiment as a stellar interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Young%20experiment%20as%20a%20stellar%20interferometer.html" class="backlink-item">Young experiment as a stellar interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/Young%20stellar%20object%20disks.html" class="backlink-item">Young stellar object disks</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Young%20stellar%20object%20disks.html" class="backlink-item">Young stellar object disks</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/interf/ngVLA%20Next%20Generation%20VLA.html" class="backlink-item">ngVLA Next Generation VLA</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/ngVLA%20Next%20Generation%20VLA.html" class="backlink-item">ngVLA Next Generation VLA</a></li>
-  </ul>
-</div>

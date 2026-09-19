@@ -2,7 +2,6 @@
 layout: "default"
 title: "Hypertelescope"
 ---
-{% raw %}
 # Hypertelescope
 
 Antoine Labeyrie's 1996 concept: take a *sparse-aperture* interferometer and make it act like a *direct imager* by densifying the pupil. a single image plane, no Fourier inversion, no deconvolution. proposed for next-generation space-based imaging.
@@ -106,4 +105,3 @@ even if hypertelescopes are never built at scale, the concept frames the discuss
 - [Crowding limitation](interf/Crowding%20limitation.html)
 - [Future ground-based optical](interf/Future%20ground-based%20optical.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

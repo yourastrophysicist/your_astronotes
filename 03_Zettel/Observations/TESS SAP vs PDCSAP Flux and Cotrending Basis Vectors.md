@@ -2,7 +2,6 @@
 layout: "default"
 title: "TESS SAP vs PDCSAP Flux and Cotrending Basis Vectors"
 ---
-{% raw %}
 # TESS SAP vs PDCSAP Flux and Cotrending Basis Vectors
 
 TESS Light Curve Files provide two distinct light curve data products:
@@ -25,14 +24,13 @@ $$\text{clean\_mask} = (\text{QUALITY} \,\&\, \text{critical\_bits}) == 0$$
 ## Related Notes
 - [Malavolta 09 - TESS Light Curve Processing and Systematic Correction](../../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2009%20-%20TESS%20Light%20Curve%20Processing%20and%20Systematic%20Correction.html)
 - [Malavolta 10 - Light Curve Filtering and Detrending Techniques](../../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2010%20-%20Light%20Curve%20Filtering%20and%20Detrending%20Techniques.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
+  <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../Activities/Laboratory%20Exercise%20-%20TESS%20Target%20Pixel%20Extraction%20and%20Filtering.html" class="backlink-item">Laboratory Exercise - TESS Target Pixel Extraction and Filtering</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2009%20-%20TESS%20Light%20Curve%20Processing%20and%20Systematic%20Correction.html" class="backlink-item">Malavolta 09 - TESS Light Curve Processing and Systematic Correction</a></li>
-    <li class="backlink-item-wrap"><a href="./TESS%20Target%20Pixel%20Files%20and%20Custom%20Aperture%20Masks.html" class="backlink-item">TESS Target Pixel Files and Custom Aperture Masks</a></li>
+    <li class="backlink-item-wrap"><a href="TESS%20Target%20Pixel%20Files%20and%20Custom%20Aperture%20Masks.html" class="backlink-item">TESS Target Pixel Files and Custom Aperture Masks</a></li>
+    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
   </ul>
 </div>
+

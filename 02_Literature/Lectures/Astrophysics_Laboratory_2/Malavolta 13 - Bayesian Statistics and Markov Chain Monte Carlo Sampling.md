@@ -2,8 +2,7 @@
 layout: "default"
 title: "Malavolta 13 - Bayesian Statistics and Markov Chain Monte Carlo Sampling"
 ---
-{% raw %}
-# Malavolta 13 ? Bayesian Statistics and Markov Chain Monte Carlo Sampling
+# Malavolta 13 — Bayesian Statistics and Markov Chain Monte Carlo Sampling
 
 *Astrophysics Laboratory 2, Prof. Luca Malavolta*  
 *Index: [Astrophysics_Laboratory_2_MOC](../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html)*
@@ -137,16 +136,15 @@ fig = corner.corner(flat_samples[:, :3], labels=labels, quantiles=[0.16, 0.5, 0.
 
 ![Confidence Intervals and Error Budget](../../../assets/images/lab2_mcmc_p08.png)
 *Figure LAB2-12: Final median parameter estimates and $68.3\%$ credible intervals with full posterior predictive transit model uncertainty envelopes overlaid on empirical TASTE ground-based observations.*
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
+  <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Bayesian%20Inference%20and%20Bayes%20Theorem%20in%20Astronomy.html" class="backlink-item">Bayesian Inference and Bayes Theorem in Astronomy</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Goodman-Weare%20Affine%20Invariant%20Ensemble%20Sampler.html" class="backlink-item">Goodman-Weare Affine Invariant Ensemble Sampler</a></li>
-    <li class="backlink-item-wrap"><a href="./Malavolta%2012%20-%20Transit%20Parameter%20Estimation%20and%20Likelihood%20Optimization.html" class="backlink-item">Malavolta 12 - Transit Parameter Estimation and Likelihood Optimization</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Metropolis-Hastings%20Algorithm.html" class="backlink-item">Metropolis-Hastings Algorithm</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Prior%20Probability%20Distributions%20in%20Exoplanet%20Fitting.html" class="backlink-item">Prior Probability Distributions in Exoplanet Fitting</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
   </ul>
 </div>
+

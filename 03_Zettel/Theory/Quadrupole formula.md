@@ -2,7 +2,6 @@
 layout: "default"
 title: "Quadrupole formula"
 ---
-{% raw %}
 the **quadrupole formula** gives the gravitational-wave amplitude radiated by a slowly-moving, weakly self-gravitating source: $h^{TT}_{ij} \sim (2G/r)\ddot Q_{ij}$. the leading-order contribution to GW emission. **monopole and dipole are forbidden** by conservation laws.
 
 ## the formula
@@ -70,27 +69,26 @@ direct detection: GW150914 (LIGO 2015), Nobel 2017.
 
 ## see also
 
-- [Linearized metric perturbation](./Linearized%20metric%20perturbation.html)
-- [Transverse traceless gauge](./Transverse%20traceless%20gauge.html)
-- [Plus and cross polarizations](./Plus%20and%20cross%20polarizations.html)
-- [Geodesic deviation under a GW](./Geodesic%20deviation%20under%20a%20GW.html)
-- [GW energy and angular momentum](./GW%20energy%20and%20angular%20momentum.html)
-- [Birkhoff theorem](./Birkhoff%20theorem.html)
+- [Linearized metric perturbation](Linearized%20metric%20perturbation.html)
+- [Transverse traceless gauge](Transverse%20traceless%20gauge.html)
+- [Plus and cross polarizations](Plus%20and%20cross%20polarizations.html)
+- [Geodesic deviation under a GW](Geodesic%20deviation%20under%20a%20GW.html)
+- [GW energy and angular momentum](GW%20energy%20and%20angular%20momentum.html)
+- [Birkhoff theorem](Birkhoff%20theorem.html)
 - [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
 - [Ch 8 - Gravitational Waves](../../02_Literature/Book/Baumann%20GR/Ch%208%20-%20Gravitational%20Waves.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (9)</h4>
+  <h4 class="backlinks-title">Linked References (8)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Birkhoff%20theorem.html" class="backlink-item">Birkhoff theorem</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Book/Baumann%20GR/Ch%208%20-%20Gravitational%20Waves.html" class="backlink-item">Ch 8 - Gravitational Waves</a></li>
-    <li class="backlink-item-wrap"><a href="./GW%20energy%20and%20angular%20momentum.html" class="backlink-item">GW energy and angular momentum</a></li>
+    <li class="backlink-item-wrap"><a href="Birkhoff%20theorem.html" class="backlink-item">Birkhoff theorem</a></li>
+    <li class="backlink-item-wrap"><a href="GW%20energy%20and%20angular%20momentum.html" class="backlink-item">GW energy and angular momentum</a></li>
+    <li class="backlink-item-wrap"><a href="Geodesic%20deviation%20under%20a%20GW.html" class="backlink-item">Geodesic deviation under a GW</a></li>
+    <li class="backlink-item-wrap"><a href="Linearized%20metric%20perturbation.html" class="backlink-item">Linearized metric perturbation</a></li>
+    <li class="backlink-item-wrap"><a href="Lorenz%20gauge.html" class="backlink-item">Lorenz gauge</a></li>
+    <li class="backlink-item-wrap"><a href="Plus%20and%20cross%20polarizations.html" class="backlink-item">Plus and cross polarizations</a></li>
+    <li class="backlink-item-wrap"><a href="Transverse%20traceless%20gauge.html" class="backlink-item">Transverse traceless gauge</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Geodesic%20deviation%20under%20a%20GW.html" class="backlink-item">Geodesic deviation under a GW</a></li>
-    <li class="backlink-item-wrap"><a href="./Linearized%20metric%20perturbation.html" class="backlink-item">Linearized metric perturbation</a></li>
-    <li class="backlink-item-wrap"><a href="./Lorenz%20gauge.html" class="backlink-item">Lorenz gauge</a></li>
-    <li class="backlink-item-wrap"><a href="./Plus%20and%20cross%20polarizations.html" class="backlink-item">Plus and cross polarizations</a></li>
-    <li class="backlink-item-wrap"><a href="./Transverse%20traceless%20gauge.html" class="backlink-item">Transverse traceless gauge</a></li>
   </ul>
 </div>
+

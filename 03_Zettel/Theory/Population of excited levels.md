@@ -2,7 +2,6 @@
 layout: "default"
 title: "Population of excited levels"
 ---
-{% raw %}
 the line strength of a spectral feature is proportional to the number of atoms in the lower level of the transition. **Boltzmann + Saha together** give that population as a function of temperature (and electron density). plotting these functions vs $T$ for each species reveals exactly which spectral lines dominate at which temperature, generating the OBAFGKM pattern.
 
 ## the framework
@@ -68,32 +67,32 @@ this is the punchline of **Cecilia Payne 1925**: stars are mostly H + He, and th
 
 ## see also
 
-- [Boltzmann equation in spectroscopy](./Boltzmann%20equation%20in%20spectroscopy.html)
-- [Saha ionisation equation](./Saha%20ionisation%20equation.html)
-- [Partition function](./Partition%20function.html)
-- [Hydrogen population vs T](./Hydrogen%20population%20vs%20T.html)
-- [Helium population vs T](./Helium%20population%20vs%20T.html)
-- [Sodium population vs T](./Sodium%20population%20vs%20T.html)
-- [Magnesium population vs T](./Magnesium%20population%20vs%20T.html)
-- [Calcium population vs T](./Calcium%20population%20vs%20T.html)
-- [Why the Sequence OBAFGKM](./Why%20the%20Sequence%20OBAFGKM.html)
-- [Stellar spectra and spectral classification](./Stellar%20spectra%20and%20spectral%20classification.html)
-- [History of stellar classification](./History%20of%20stellar%20classification.html)
-{% endraw %}
+- [Boltzmann equation in spectroscopy](Boltzmann%20equation%20in%20spectroscopy.html)
+- [Saha ionisation equation](Saha%20ionisation%20equation.html)
+- [Partition function](Partition%20function.html)
+- [Hydrogen population vs T](Hydrogen%20population%20vs%20T.html)
+- [Helium population vs T](Helium%20population%20vs%20T.html)
+- [Sodium population vs T](Sodium%20population%20vs%20T.html)
+- [Magnesium population vs T](Magnesium%20population%20vs%20T.html)
+- [Calcium population vs T](Calcium%20population%20vs%20T.html)
+- [Why the Sequence OBAFGKM](Why%20the%20Sequence%20OBAFGKM.html)
+- [Stellar spectra and spectral classification](Stellar%20spectra%20and%20spectral%20classification.html)
+- [History of stellar classification](History%20of%20stellar%20classification.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (11)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Boltzmann%20equation%20in%20spectroscopy.html" class="backlink-item">Boltzmann equation in spectroscopy</a></li>
+    <li class="backlink-item-wrap"><a href="Calcium%20population%20vs%20T.html" class="backlink-item">Calcium population vs T</a></li>
+    <li class="backlink-item-wrap"><a href="Helium%20population%20vs%20T.html" class="backlink-item">Helium population vs T</a></li>
+    <li class="backlink-item-wrap"><a href="History%20of%20stellar%20classification.html" class="backlink-item">History of stellar classification</a></li>
+    <li class="backlink-item-wrap"><a href="Hydrogen%20population%20vs%20T.html" class="backlink-item">Hydrogen population vs T</a></li>
+    <li class="backlink-item-wrap"><a href="Magnesium%20population%20vs%20T.html" class="backlink-item">Magnesium population vs T</a></li>
+    <li class="backlink-item-wrap"><a href="Partition%20function.html" class="backlink-item">Partition function</a></li>
+    <li class="backlink-item-wrap"><a href="Saha%20ionisation%20equation.html" class="backlink-item">Saha ionisation equation</a></li>
+    <li class="backlink-item-wrap"><a href="Sodium%20population%20vs%20T.html" class="backlink-item">Sodium population vs T</a></li>
+    <li class="backlink-item-wrap"><a href="Why%20the%20Sequence%20OBAFGKM.html" class="backlink-item">Why the Sequence OBAFGKM</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Boltzmann%20equation%20in%20spectroscopy.html" class="backlink-item">Boltzmann equation in spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="./Calcium%20population%20vs%20T.html" class="backlink-item">Calcium population vs T</a></li>
-    <li class="backlink-item-wrap"><a href="./Helium%20population%20vs%20T.html" class="backlink-item">Helium population vs T</a></li>
-    <li class="backlink-item-wrap"><a href="./History%20of%20stellar%20classification.html" class="backlink-item">History of stellar classification</a></li>
-    <li class="backlink-item-wrap"><a href="./Hydrogen%20population%20vs%20T.html" class="backlink-item">Hydrogen population vs T</a></li>
-    <li class="backlink-item-wrap"><a href="./Magnesium%20population%20vs%20T.html" class="backlink-item">Magnesium population vs T</a></li>
-    <li class="backlink-item-wrap"><a href="./Partition%20function.html" class="backlink-item">Partition function</a></li>
-    <li class="backlink-item-wrap"><a href="./Saha%20ionisation%20equation.html" class="backlink-item">Saha ionisation equation</a></li>
-    <li class="backlink-item-wrap"><a href="./Sodium%20population%20vs%20T.html" class="backlink-item">Sodium population vs T</a></li>
-    <li class="backlink-item-wrap"><a href="./Why%20the%20Sequence%20OBAFGKM.html" class="backlink-item">Why the Sequence OBAFGKM</a></li>
   </ul>
 </div>
+

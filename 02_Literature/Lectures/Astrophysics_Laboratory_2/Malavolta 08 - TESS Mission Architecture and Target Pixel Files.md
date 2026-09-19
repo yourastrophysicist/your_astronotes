@@ -2,8 +2,7 @@
 layout: "default"
 title: "Malavolta 08 - TESS Mission Architecture and Target Pixel Files"
 ---
-{% raw %}
-# Malavolta 08 ? TESS Mission Architecture and Target Pixel Files
+# Malavolta 08 — TESS Mission Architecture and Target Pixel Files
 
 *Astrophysics Laboratory 2, Prof. Luca Malavolta*  
 *Index: [Astrophysics_Laboratory_2_MOC](../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html)*
@@ -93,13 +92,12 @@ custom_lightcurve = np.nansum(flux[:, custom_mask], axis=1)
 - [TESS Target Pixel Files and Custom Aperture Masks](../../../03_Zettel/Observations/TESS%20Target%20Pixel%20Files%20and%20Custom%20Aperture%20Masks.html)
 - [Malavolta 09 - TESS Light Curve Processing and Systematic Correction](./Malavolta%2009%20-%20TESS%20Light%20Curve%20Processing%20and%20Systematic%20Correction.html)
 - [Laboratory Exercise - TESS Target Pixel Extraction and Filtering](../../../03_Zettel/Activities/Laboratory%20Exercise%20-%20TESS%20Target%20Pixel%20Extraction%20and%20Filtering.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
+  <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Malavolta%2009%20-%20TESS%20Light%20Curve%20Processing%20and%20Systematic%20Correction.html" class="backlink-item">Malavolta 09 - TESS Light Curve Processing and Systematic Correction</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Observations/TESS%20Target%20Pixel%20Files%20and%20Custom%20Aperture%20Masks.html" class="backlink-item">TESS Target Pixel Files and Custom Aperture Masks</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
   </ul>
 </div>
+

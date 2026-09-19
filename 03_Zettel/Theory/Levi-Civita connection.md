@@ -2,7 +2,6 @@
 layout: "default"
 title: "Levi-Civita connection"
 ---
-{% raw %}
 a **connection** on a manifold tells you how to differentiate vectors at different points (i.e., how to "transport" them). out of all possible connections, GR uses **one specific** one: the **Levi-Civita connection**, fixed by two requirements.
 
 ## the two requirements
@@ -54,25 +53,24 @@ and this is exactly **the equation that extremises the proper time** for timelik
 
 ## see also
 
-- [Christoffel symbols](./Christoffel%20symbols.html)
-- [Metric compatibility](./Metric%20compatibility.html)
-- [Covariant derivative](./Covariant%20derivative.html)
-- [Geodesic equation](./Geodesic%20equation.html)
-- [Parallel transport](./Parallel%20transport.html)
-- [Manifold metric and signature](./Manifold%20metric%20and%20signature.html)
+- [Christoffel symbols](Christoffel%20symbols.html)
+- [Metric compatibility](Metric%20compatibility.html)
+- [Covariant derivative](Covariant%20derivative.html)
+- [Geodesic equation](Geodesic%20equation.html)
+- [Parallel transport](Parallel%20transport.html)
+- [Manifold metric and signature](Manifold%20metric%20and%20signature.html)
 - [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
 - [Ch 2 - Some Differential Geometry](../../02_Literature/Book/Baumann%20GR/Ch%202%20-%20Some%20Differential%20Geometry.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
+  <h4 class="backlinks-title">Linked References (6)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Book/Baumann%20GR/Ch%204%20-%20Spacetime%20Curvature.html" class="backlink-item">Ch 4 - Spacetime Curvature</a></li>
-    <li class="backlink-item-wrap"><a href="./Christoffel%20symbols.html" class="backlink-item">Christoffel symbols</a></li>
-    <li class="backlink-item-wrap"><a href="./Covariant%20derivative.html" class="backlink-item">Covariant derivative</a></li>
+    <li class="backlink-item-wrap"><a href="Christoffel%20symbols.html" class="backlink-item">Christoffel symbols</a></li>
+    <li class="backlink-item-wrap"><a href="Covariant%20derivative.html" class="backlink-item">Covariant derivative</a></li>
+    <li class="backlink-item-wrap"><a href="Geodesic%20equation.html" class="backlink-item">Geodesic equation</a></li>
+    <li class="backlink-item-wrap"><a href="Metric%20compatibility.html" class="backlink-item">Metric compatibility</a></li>
+    <li class="backlink-item-wrap"><a href="Parallel%20transport.html" class="backlink-item">Parallel transport</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Geodesic%20equation.html" class="backlink-item">Geodesic equation</a></li>
-    <li class="backlink-item-wrap"><a href="./Metric%20compatibility.html" class="backlink-item">Metric compatibility</a></li>
-    <li class="backlink-item-wrap"><a href="./Parallel%20transport.html" class="backlink-item">Parallel transport</a></li>
   </ul>
 </div>
+

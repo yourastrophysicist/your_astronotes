@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "High-contrast direct imaging and extreme adaptive optics"
-name: "High-contrast direct imaging and extreme adaptive optics"
-description: "contrast ratio challenge, young self-luminous gas giants, hot-start versus cold-start cooling models, and extreme adaptive optics"
 ---
-{% raw %}
 direct imaging spatially resolves photons emitted or reflected by an exoplanet separate from its host star, enabling photometric, astrometric, and spectroscopic characterization of wide-orbit worlds.
 
 ## the contrast ratio challenge
@@ -30,15 +27,15 @@ atmospheric turbulence distorts incoming wavefronts over Fried parameter $r_0 \s
 
 - [Exoplanetary_Astrophysics_MOC](../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)
 - [07_Direct_Imaging_Physics_and_High_Contrast_Techniques](../../02_Literature/Lectures/Exoplanetary_Astrophysics/07_Direct_Imaging_Physics_and_High_Contrast_Techniques.html)
-- [Coronagraphy and angular differential imaging](./Coronagraphy%20and%20angular%20differential%20imaging.html)
-- [Astrometric exoplanet detection and Gaia astrometry](./Astrometric%20exoplanet%20detection%20and%20Gaia%20astrometry.html)
-{% endraw %}
+- [Coronagraphy and angular differential imaging](Coronagraphy%20and%20angular%20differential%20imaging.html)
+- [Astrometric exoplanet detection and Gaia astrometry](Astrometric%20exoplanet%20detection%20and%20Gaia%20astrometry.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Astrometric%20exoplanet%20detection%20and%20Gaia%20astrometry.html" class="backlink-item">Astrometric exoplanet detection and Gaia astrometry</a></li>
-    <li class="backlink-item-wrap"><a href="./Coronagraphy%20and%20angular%20differential%20imaging.html" class="backlink-item">Coronagraphy and angular differential imaging</a></li>
+    <li class="backlink-item-wrap"><a href="Astrometric%20exoplanet%20detection%20and%20Gaia%20astrometry.html" class="backlink-item">Astrometric exoplanet detection and Gaia astrometry</a></li>
+    <li class="backlink-item-wrap"><a href="Coronagraphy%20and%20angular%20differential%20imaging.html" class="backlink-item">Coronagraphy and angular differential imaging</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

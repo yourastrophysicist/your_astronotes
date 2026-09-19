@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Small exoplanets and the Fulton radius valley"
-name: "Small exoplanets and the Fulton radius valley"
-description: "the bimodal radius distribution of small planets, the 1.75 Earth radius valley, photoevaporation, and core-powered mass loss"
 ---
-{% raw %}
 the California-Kepler Survey (CKS, Fulton et al. 2017) revealed that close-in exoplanets ($P < 100\text{ days}$) are not uniformly distributed in size, but exhibit a sharp bimodal distribution with an empty valley at:
 
 $$R_p \approx 1.75 R_\oplus$$
@@ -36,14 +33,14 @@ both mechanisms predict a negative slope in the period-radius plane ($R_{\text{v
 
 - [Exoplanetary_Astrophysics_MOC](../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)
 - [04_Small_Planets_and_Host_Star_Correlations](../../02_Literature/Lectures/Exoplanetary_Astrophysics/04_Small_Planets_and_Host_Star_Correlations.html)
-- [Exoplanet demographic distributions and survey completeness](./Exoplanet%20demographic%20distributions%20and%20survey%20completeness.html)
-- [Exoplanet atmospheric scale height and transmission spectroscopy](./Exoplanet%20atmospheric%20scale%20height%20and%20transmission%20spectroscopy.html)
-{% endraw %}
+- [Exoplanet demographic distributions and survey completeness](Exoplanet%20demographic%20distributions%20and%20survey%20completeness.html)
+- [Exoplanet atmospheric scale height and transmission spectroscopy](Exoplanet%20atmospheric%20scale%20height%20and%20transmission%20spectroscopy.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Exoplanet%20demographic%20distributions%20and%20survey%20completeness.html" class="backlink-item">Exoplanet demographic distributions and survey completeness</a></li>
+    <li class="backlink-item-wrap"><a href="Exoplanet%20demographic%20distributions%20and%20survey%20completeness.html" class="backlink-item">Exoplanet demographic distributions and survey completeness</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

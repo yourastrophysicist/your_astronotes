@@ -2,7 +2,6 @@
 layout: "default"
 title: "Atmospheric dispersion"
 ---
-{% raw %}
 the atmospheric refractive index $n(\lambda)$ depends on wavelength: blue light is bent slightly more than red light. the consequence at $z > 0$ is that a white-light star image is **stretched into a small spectrum** along the radial direction. for high-resolution imaging or slit spectroscopy at high airmass, this has to be corrected.
 
 ## the geometry
@@ -52,8 +51,7 @@ weakly chromatic in the optical, more strongly so in the UV. water vapour adds a
 ## see also
 
 - [Atmospheric refraction](interf/Atmospheric%20refraction.html)
-- [Earth atmosphere for observations](./Earth%20atmosphere%20for%20observations.html)
+- [Earth atmosphere for observations](Earth%20atmosphere%20for%20observations.html)
 - [Adaptive optics overview](interf/Adaptive%20optics%20overview.html)
-- [Point Spread Function (PSF)](./Point%20Spread%20Function%20%28PSF%29.html)
-- [Filter systems and bandpasses](./Filter%20systems%20and%20bandpasses.html)
-{% endraw %}
+- [Point Spread Function (PSF)](Point%20Spread%20Function%20%28PSF%29.html)
+- [Filter systems and bandpasses](Filter%20systems%20and%20bandpasses.html)

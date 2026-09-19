@@ -2,7 +2,6 @@
 layout: "default"
 title: "Guide stars and laser guide stars"
 ---
-{% raw %}
 # Guide stars and laser guide stars
 
 AO needs a bright reference object to measure the wavefront in real time. natural stars are limited in number; lasers create artificial reference points. the combination of natural + laser guide stars is what extends AO to sky-coverage of ~50% (visible) to ~100% (IR).
@@ -104,4 +103,3 @@ first LGS systems: late 1980s (US Air Force, "Star Wars" laser-imaging research)
 - [Deformable mirrors and tip-tilt](interf/Deformable%20mirrors%20and%20tip-tilt.html)
 - [Isoplanatic patch](interf/Isoplanatic%20patch.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

@@ -2,7 +2,6 @@
 layout: "default"
 title: "Shooting method"
 ---
-{% raw %}
 # Shooting method
 
 a way to solve a **boundary value problem** (BVP) by turning it into a sequence of **initial value problems** (IVPs). the name comes from artillery: shoot, miss, adjust the angle, shoot again. wrap a Newton-Raphson root finder around an ODE integrator and let it converge.
@@ -92,19 +91,19 @@ solve $-\psi'' + V(x)\psi = E\psi$ on $[-L, L]$ with $\psi(\pm L) \to 0$. bounda
 
 ## see also
 
-- [Initial value vs boundary value problems](./Initial%20value%20vs%20boundary%20value%20problems.html)
-- [Newton-Raphson method](./Newton-Raphson%20method.html)
-- [Bisection method](./Bisection%20method.html)
-- [Runge-Kutta 4 method](./Runge-Kutta%204%20method.html)
+- [Initial value vs boundary value problems](Initial%20value%20vs%20boundary%20value%20problems.html)
+- [Newton-Raphson method](Newton-Raphson%20method.html)
+- [Bisection method](Bisection%20method.html)
+- [Runge-Kutta 4 method](Runge-Kutta%204%20method.html)
 - [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Built-in%20scipy%20integrators.html" class="backlink-item">Built-in scipy integrators</a></li>
-    <li class="backlink-item-wrap"><a href="./Initial%20value%20vs%20boundary%20value%20problems.html" class="backlink-item">Initial value vs boundary value problems</a></li>
+    <li class="backlink-item-wrap"><a href="Built-in%20scipy%20integrators.html" class="backlink-item">Built-in scipy integrators</a></li>
+    <li class="backlink-item-wrap"><a href="Initial%20value%20vs%20boundary%20value%20problems.html" class="backlink-item">Initial value vs boundary value problems</a></li>
+    <li class="backlink-item-wrap"><a href="Systems%20of%20ODEs%20and%20higher-order%20ODEs.html" class="backlink-item">Systems of ODEs and higher-order ODEs</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Systems%20of%20ODEs%20and%20higher-order%20ODEs.html" class="backlink-item">Systems of ODEs and higher-order ODEs</a></li>
   </ul>
 </div>
+

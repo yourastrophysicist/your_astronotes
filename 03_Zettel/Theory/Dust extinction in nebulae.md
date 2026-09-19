@@ -2,12 +2,11 @@
 layout: "default"
 title: "Dust extinction in nebulae"
 ---
-{% raw %}
 dust mixed into ionised gas absorbs and scatters emission-line photons. measuring it via line ratios lets us correct fluxes for the ISM along the line of sight. central to abundance work and SFR measurement.
 
 ## the standard method: Balmer decrement
 
-intrinsic Balmer line ratios from Case-B recombination at $T_e = 10^4$ K (see [Optically thin recombination lines](./Optically%20thin%20recombination%20lines.html)):
+intrinsic Balmer line ratios from Case-B recombination at $T_e = 10^4$ K (see [Optically thin recombination lines](Optically%20thin%20recombination%20lines.html)):
 $$F(H\alpha)/F(H\beta) = 2.86$$
 
 the observed ratio is reddened by dust:
@@ -65,23 +64,22 @@ modeled by Charlot & Fall 2000 with two attenuation components.
 
 ## see also
 
-- [Balmer decrement](./Balmer%20decrement.html)
-- [Optically thin recombination lines](./Optically%20thin%20recombination%20lines.html)
-- [Case A vs Case B recombination](./Case%20A%20vs%20Case%20B%20recombination.html)
-- [Dust attenuation and extinction curves](./Dust%20attenuation%20and%20extinction%20curves.html)
-- [Dust attenuation in synthetic populations](./Dust%20attenuation%20in%20synthetic%20populations.html)
-- [Interstellar absorption](./Interstellar%20absorption.html)
-- [Forbidden line diagnostics](./Forbidden%20line%20diagnostics.html)
-- [H II region spectroscopy](./H%20II%20region%20spectroscopy.html)
-- [H-alpha SFR tracer](./H-alpha%20SFR%20tracer.html)
-{% endraw %}
+- [Balmer decrement](Balmer%20decrement.html)
+- [Optically thin recombination lines](Optically%20thin%20recombination%20lines.html)
+- [Case A vs Case B recombination](Case%20A%20vs%20Case%20B%20recombination.html)
+- [Dust attenuation and extinction curves](Dust%20attenuation%20and%20extinction%20curves.html)
+- [Dust attenuation in synthetic populations](Dust%20attenuation%20in%20synthetic%20populations.html)
+- [Interstellar absorption](Interstellar%20absorption.html)
+- [Forbidden line diagnostics](Forbidden%20line%20diagnostics.html)
+- [H II region spectroscopy](H%20II%20region%20spectroscopy.html)
+- [H-alpha SFR tracer](H-alpha%20SFR%20tracer.html)
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
+  <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="BPT%20diagram.html" class="backlink-item">BPT diagram</a></li>
+    <li class="backlink-item-wrap"><a href="Forbidden%20line%20diagnostics.html" class="backlink-item">Forbidden line diagnostics</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./BPT%20diagram.html" class="backlink-item">BPT diagram</a></li>
-    <li class="backlink-item-wrap"><a href="./Forbidden%20line%20diagnostics.html" class="backlink-item">Forbidden line diagnostics</a></li>
-    <li class="backlink-item-wrap"><a href="./H%20II%20region%20spectroscopy.html" class="backlink-item">H II region spectroscopy</a></li>
   </ul>
 </div>
+

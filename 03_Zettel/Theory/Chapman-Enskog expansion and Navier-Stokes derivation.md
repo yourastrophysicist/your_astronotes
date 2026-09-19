@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Chapman-Enskog expansion and Navier-Stokes derivation"
-name: "Chapman-Enskog expansion and Navier-Stokes derivation"
-description: "asymptotic perturbation expansion in Knudsen number bridging kinetic theory to the Navier-Stokes viscous equations"
 ---
-{% raw %}
 the Chapman-Enskog method systematically derives the hydrodynamic equations of fluid motion from the Boltzmann equation by perturbing around local thermodynamic equilibrium in powers of the small Knudsen number $\text{Kn} = \lambda_{\text{mfp}} / L \ll 1$.
 
 ## asymptotic expansion
@@ -43,17 +40,17 @@ where kinematic viscosity $\nu = \mu / \rho \sim v_{\text{th}} \lambda_{\text{mf
 
 - [Fluid_and_Plasma_Dynamics_MOC](../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html)
 - [Part1_Kinetic_Foundations_and_Fluid_Equations](../../02_Literature/Lectures/Fluid_and_Plasma_Dynamics/Part1_Kinetic_Foundations_and_Fluid_Equations.html)
-- [Boltzmann H-theorem and Maxwellian distribution](./Boltzmann%20H-theorem%20and%20Maxwellian%20distribution.html)
-- [Hagen-Poiseuille pipe flow and viscous dissipation](./Hagen-Poiseuille%20pipe%20flow%20and%20viscous%20dissipation.html)
-- [Prandtl boundary layer theory and Blasius scaling](./Prandtl%20boundary%20layer%20theory%20and%20Blasius%20scaling.html)
-{% endraw %}
+- [Boltzmann H-theorem and Maxwellian distribution](Boltzmann%20H-theorem%20and%20Maxwellian%20distribution.html)
+- [Hagen-Poiseuille pipe flow and viscous dissipation](Hagen-Poiseuille%20pipe%20flow%20and%20viscous%20dissipation.html)
+- [Prandtl boundary layer theory and Blasius scaling](Prandtl%20boundary%20layer%20theory%20and%20Blasius%20scaling.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Boltzmann%20H-theorem%20and%20Maxwellian%20distribution.html" class="backlink-item">Boltzmann H-theorem and Maxwellian distribution</a></li>
+    <li class="backlink-item-wrap"><a href="Boltzmann%20H-theorem%20and%20Maxwellian%20distribution.html" class="backlink-item">Boltzmann H-theorem and Maxwellian distribution</a></li>
+    <li class="backlink-item-wrap"><a href="Hagen-Poiseuille%20pipe%20flow%20and%20viscous%20dissipation.html" class="backlink-item">Hagen-Poiseuille pipe flow and viscous dissipation</a></li>
+    <li class="backlink-item-wrap"><a href="Reynolds-averaged%20Navier-Stokes%20and%20turbulent%20Reynolds%20stress.html" class="backlink-item">Reynolds-averaged Navier-Stokes and turbulent Reynolds stress</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Hagen-Poiseuille%20pipe%20flow%20and%20viscous%20dissipation.html" class="backlink-item">Hagen-Poiseuille pipe flow and viscous dissipation</a></li>
-    <li class="backlink-item-wrap"><a href="./Reynolds-averaged%20Navier-Stokes%20and%20turbulent%20Reynolds%20stress.html" class="backlink-item">Reynolds-averaged Navier-Stokes and turbulent Reynolds stress</a></li>
   </ul>
 </div>
+

@@ -2,7 +2,6 @@
 layout: "default"
 title: "Survey resources for Obs Astro"
 ---
-{% raw %}
 a quick reference to the major sky surveys cited in Obs Astrophysics, what they cover, and what each is used for. essential context for any modern observational claim.
 
 ## optical, ground-based
@@ -124,24 +123,21 @@ for SFR, galaxy SEDs, distance methods, photometric redshifts, the relevant data
 
 ## see also
 
-- [Photometric standard stars](./Photometric%20standard%20stars.html)
-- [Filter systems and bandpasses](./Filter%20systems%20and%20bandpasses.html)
-- [Magnitudes and photometric systems](./Magnitudes%20and%20photometric%20systems.html)
+- [Photometric standard stars](Photometric%20standard%20stars.html)
+- [Filter systems and bandpasses](Filter%20systems%20and%20bandpasses.html)
+- [Magnitudes and photometric systems](Magnitudes%20and%20photometric%20systems.html)
 - [Atmospheric transparency windows](interf/Atmospheric%20transparency%20windows.html)
 - [Observational_Astrophysics_MOC](../../04_Atlas/Observational_Astrophysics_MOC.html)
 - [Lab_High-Energy_MOC](../../04_Atlas/Lab_High-Energy_MOC.html)
 - [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
+  <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Deep-field%20surveys.html" class="backlink-item">Deep-field surveys</a></li>
-    <li class="backlink-item-wrap"><a href="./Integral-field%20spectroscopy%20IFU.html" class="backlink-item">Integral-field spectroscopy IFU</a></li>
-    <li class="backlink-item-wrap"><a href="./Multi-object%20spectroscopy%20MOS.html" class="backlink-item">Multi-object spectroscopy MOS</a></li>
-    <li class="backlink-item-wrap"><a href="./Photometric%20standard%20stars.html" class="backlink-item">Photometric standard stars</a></li>
-    <li class="backlink-item-wrap"><a href="./Python%20and%20IRAF%20tools%20for%20photometry.html" class="backlink-item">Python and IRAF tools for photometry</a></li>
-    <li class="backlink-item-wrap"><a href="./SDSS%20overview.html" class="backlink-item">SDSS overview</a></li>
-    <li class="backlink-item-wrap"><a href="./Spectrograph%20types.html" class="backlink-item">Spectrograph types</a></li>
+    <li class="backlink-item-wrap"><a href="Multi-object%20spectroscopy%20MOS.html" class="backlink-item">Multi-object spectroscopy MOS</a></li>
+    <li class="backlink-item-wrap"><a href="Photometric%20standard%20stars.html" class="backlink-item">Photometric standard stars</a></li>
+    <li class="backlink-item-wrap"><a href="Python%20and%20IRAF%20tools%20for%20photometry.html" class="backlink-item">Python and IRAF tools for photometry</a></li>
+    <li class="backlink-item-wrap"><a href="Spectrograph%20types.html" class="backlink-item">Spectrograph types</a></li>
   </ul>
 </div>
+

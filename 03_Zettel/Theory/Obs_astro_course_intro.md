@@ -2,8 +2,7 @@
 layout: "default"
 title: "Obs_astro_course_intro"
 ---
-{% raw %}
-the first-semester Observational Astrophysics course at the University of Padova, AY 2025/2026. unlike [Fundamentals_course_intro](./Fundamentals_course_intro.html) which sweeps through cosmology in one trunk, this course is the **observational pipeline**: how a real photon, on a real night, gets turned into a number with error bars.
+the first-semester Observational Astrophysics course at the University of Padova, AY 2025/2026. unlike [Fundamentals_course_intro](Fundamentals_course_intro.html) which sweeps through cosmology in one trunk, this course is the **observational pipeline**: how a real photon, on a real night, gets turned into a number with error bars.
 
 ## the conceptual chain
 
@@ -31,11 +30,10 @@ the exam tests fluency in the chain: I should be able to take any astrophysical 
 ## see also
 
 - [Observational_Astrophysics_MOC](../../04_Atlas/Observational_Astrophysics_MOC.html)
-- [Fundamentals_course_intro](./Fundamentals_course_intro.html)
-- [Earth atmosphere for observations](./Earth%20atmosphere%20for%20observations.html)
-- [CCD detectors and SNR](./CCD%20detectors%20and%20SNR.html)
-- [Distance ladder derivations](./Distance%20ladder%20derivations.html)
-{% endraw %}
+- [Fundamentals_course_intro](Fundamentals_course_intro.html)
+- [Earth atmosphere for observations](Earth%20atmosphere%20for%20observations.html)
+- [CCD detectors and SNR](CCD%20detectors%20and%20SNR.html)
+- [Distance ladder derivations](Distance%20ladder%20derivations.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (1)</h4>
@@ -43,3 +41,4 @@ the exam tests fluency in the chain: I should be able to take any astrophysical 
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

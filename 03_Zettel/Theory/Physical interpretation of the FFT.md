@@ -2,7 +2,6 @@
 layout: "default"
 title: "Physical interpretation of the FFT"
 ---
-{% raw %}
 # Physical interpretation of the FFT
 
 what the numbers $X_k$ from the DFT/FFT *mean* in terms of frequencies, amplitudes, and phases. understanding this is what separates a working FFT script from a meaningful spectral analysis.
@@ -131,22 +130,22 @@ plt.xlabel('frequency [Hz]'); plt.ylabel('amplitude')
 
 ## see also
 
-- [Discrete Fourier transform](./Discrete%20Fourier%20transform.html)
-- [Fast Fourier transform algorithm](./Fast%20Fourier%20transform%20algorithm.html)
-- [Fourier series math summary](./Fourier%20series%20math%20summary.html)
-- [Power spectrum estimation](./Power%20spectrum%20estimation.html)
-- [FFT in scipy and numpy](./FFT%20in%20scipy%20and%20numpy.html)
+- [Discrete Fourier transform](Discrete%20Fourier%20transform.html)
+- [Fast Fourier transform algorithm](Fast%20Fourier%20transform%20algorithm.html)
+- [Fourier series math summary](Fourier%20series%20math%20summary.html)
+- [Power spectrum estimation](Power%20spectrum%20estimation.html)
+- [FFT in scipy and numpy](FFT%20in%20scipy%20and%20numpy.html)
 - [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (6)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Discrete%20Fourier%20transform.html" class="backlink-item">Discrete Fourier transform</a></li>
-    <li class="backlink-item-wrap"><a href="./FFT%20in%20scipy%20and%20numpy.html" class="backlink-item">FFT in scipy and numpy</a></li>
-    <li class="backlink-item-wrap"><a href="./Fast%20Fourier%20transform%20algorithm.html" class="backlink-item">Fast Fourier transform algorithm</a></li>
-    <li class="backlink-item-wrap"><a href="./Fourier%20series%20math%20summary.html" class="backlink-item">Fourier series math summary</a></li>
+    <li class="backlink-item-wrap"><a href="Discrete%20Fourier%20transform.html" class="backlink-item">Discrete Fourier transform</a></li>
+    <li class="backlink-item-wrap"><a href="FFT%20in%20scipy%20and%20numpy.html" class="backlink-item">FFT in scipy and numpy</a></li>
+    <li class="backlink-item-wrap"><a href="Fast%20Fourier%20transform%20algorithm.html" class="backlink-item">Fast Fourier transform algorithm</a></li>
+    <li class="backlink-item-wrap"><a href="Fourier%20series%20math%20summary.html" class="backlink-item">Fourier series math summary</a></li>
+    <li class="backlink-item-wrap"><a href="Power%20spectrum%20estimation.html" class="backlink-item">Power spectrum estimation</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Power%20spectrum%20estimation.html" class="backlink-item">Power spectrum estimation</a></li>
   </ul>
 </div>
+

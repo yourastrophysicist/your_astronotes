@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Transit timing variations and resonant multi-planet dynamics"
-name: "Transit timing variations and resonant multi-planet dynamics"
-description: "gravitational perturbations in multi-planet systems, mean motion resonances, and the TTV super-period formula"
 ---
-{% raw %}
 in a single-planet system, transits recur with strict periodicity: $t_n = t_0 + n P$. in multi-planet systems, mutual gravitational perturbations cause individual transit times to deviate from a linear ephemeris, producing **Transit Timing Variations (TTVs)**.
 
 ## mean motion resonance (mmr) amplification
@@ -40,13 +37,13 @@ TTVs provide a method to weigh exoplanets that are too small, too distant, or ar
 - [Exoplanetary_Astrophysics_MOC](../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)
 - [18_Space_Transit_Surveys_TTVs_and_Resonances](../../02_Literature/Lectures/Exoplanetary_Astrophysics/18_Space_Transit_Surveys_TTVs_and_Resonances.html)
 - [22_Case_Study_K2_19_System_and_Atmospheric_Dynamics](../../02_Literature/Lectures/Exoplanetary_Astrophysics/22_Case_Study_K2_19_System_and_Atmospheric_Dynamics.html)
-- [Mandel-Agol analytical transit light curve model](./Mandel-Agol%20analytical%20transit%20light%20curve%20model.html)
-{% endraw %}
+- [Mandel-Agol analytical transit light curve model](Mandel-Agol%20analytical%20transit%20light%20curve%20model.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Millisecond%20pulsar%20timing%20and%20planetary%20companions.html" class="backlink-item">Millisecond pulsar timing and planetary companions</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Millisecond%20pulsar%20timing%20and%20planetary%20companions.html" class="backlink-item">Millisecond pulsar timing and planetary companions</a></li>
   </ul>
 </div>
+

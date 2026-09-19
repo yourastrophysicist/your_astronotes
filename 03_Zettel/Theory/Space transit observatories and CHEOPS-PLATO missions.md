@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Space transit observatories and CHEOPS-PLATO missions"
-name: "Space transit observatories and CHEOPS-PLATO missions"
-description: "demographics of space-based transit missions, from CoRoT and Kepler to ESA CHEOPS and the PLATO multi-camera array"
 ---
-{% raw %}
 space-based transit photometry circumvents atmospheric scintillation, diurnal day-night cycles, and weather interruptions, enabling continuous micro-magnitude precision.
 
 ## space transit survey evolution
@@ -35,13 +32,13 @@ PLATO (PLAnetary Transits and Oscillations of stars) aims to detect and characte
 - [Exoplanetary_Astrophysics_MOC](../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)
 - [19_CHEOPS_and_PLATO_Missions](../../02_Literature/Lectures/Exoplanetary_Astrophysics/19_CHEOPS_and_PLATO_Missions.html)
 - [18_Space_Transit_Surveys_TTVs_and_Resonances](../../02_Literature/Lectures/Exoplanetary_Astrophysics/18_Space_Transit_Surveys_TTVs_and_Resonances.html)
-- [Transit false positive vetting and blending validation](./Transit%20false%20positive%20vetting%20and%20blending%20validation.html)
-{% endraw %}
+- [Transit false positive vetting and blending validation](Transit%20false%20positive%20vetting%20and%20blending%20validation.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Transit%20false%20positive%20vetting%20and%20blending%20validation.html" class="backlink-item">Transit false positive vetting and blending validation</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Transit%20false%20positive%20vetting%20and%20blending%20validation.html" class="backlink-item">Transit false positive vetting and blending validation</a></li>
   </ul>
 </div>
+

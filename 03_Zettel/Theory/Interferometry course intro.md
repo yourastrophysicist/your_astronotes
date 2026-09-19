@@ -2,7 +2,6 @@
 layout: "default"
 title: "Interferometry course intro"
 ---
-{% raw %}
 # Interferometry, course intro
 
 A.Y. 2025/2026 at the University of Padova, **Astronomical Interferometry** taught by **Prof. Mauro D'Onofrio**. master's-level second-semester course for the Astrophysics and Cosmology programme, exam date **Wednesday 3 June 2026**. first exam in the summer block.
@@ -75,4 +74,3 @@ each step is one block of [Astronomical_Interferometry_MOC](../../04_Atlas/Astro
 - [Interferometry exam rules](interf/Interferometry%20exam%20rules.html)
 - [Why interferometry](interf/Why%20interferometry.html)
 - [Interferometry equation sheet](interf/Interferometry%20equation%20sheet.html)
-{% endraw %}

@@ -2,7 +2,6 @@
 layout: "default"
 title: "Sagnac interferometer"
 ---
-{% raw %}
 # Sagnac interferometer
 
 a beam splitter sends light *around a closed loop* in two opposite directions (clockwise and counterclockwise). after one full circuit, both beams return to the beam splitter and interfere.
@@ -85,8 +84,7 @@ both are amplitude-division interferometers; both use beam splitters; the topolo
 
 ## see also
 
-- [Amplitude-division interferometers](./Amplitude-division%20interferometers.html)
+- [Amplitude-division interferometers](Amplitude-division%20interferometers.html)
 - [Beam splitter physics](interf/Beam%20splitter%20physics.html)
 - [Mach-Zehnder interferometer](interf/Mach-Zehnder%20interferometer.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

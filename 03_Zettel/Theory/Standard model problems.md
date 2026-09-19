@@ -2,7 +2,6 @@
 layout: "default"
 title: "Standard model problems"
 ---
-{% raw %}
 the hot Big Bang model is a fantastic match to observations. but extrapolating it backward to early times reveals deep **fine-tuning problems** that the model itself cannot explain. these are the **flatness problem**, the **horizon problem**, and the **monopole problem**. they motivate **inflation**.
 
 ---
@@ -71,7 +70,7 @@ with $N \approx 60$ e-folds of inflation:
 - the observable universe (today $\sim H_0^{-1}$ across) was at the start of inflation a single Hubble volume, all in causal contact — solving the horizon problem
 - monopole density diluted to undetectable — solving the monopole problem
 
-inflation also generates the primordial perturbations from quantum fluctuations stretched to cosmic scales. the **same fluctuations** that solve the horizon problem also seed structure formation. → see [Inflation overview](./Inflation%20overview.html).
+inflation also generates the primordial perturbations from quantum fluctuations stretched to cosmic scales. the **same fluctuations** that solve the horizon problem also seed structure formation. → see [Inflation overview](Inflation%20overview.html).
 
 ---
 
@@ -86,26 +85,26 @@ the price: a hypothetical scalar field (the **inflaton**) with a specific potent
 ## see also
 
 - [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Inflation overview](./Inflation%20overview.html)
-- [Inflaton scalar field dynamics](./Inflaton%20scalar%20field%20dynamics.html)
-- [Old vs new vs chaotic inflation, slow-roll](./Old%20vs%20new%20vs%20chaotic%20inflation%2C%20slow-roll.html)
-- [Density parameters and flatness](./Density%20parameters%20and%20flatness.html)
-- [Brief thermal history](./Brief%20thermal%20history.html)
-- [Baumann_reference](./Baumann_reference.html) — chapter 2 has the full story
-{% endraw %}
+- [Inflation overview](Inflation%20overview.html)
+- [Inflaton scalar field dynamics](Inflaton%20scalar%20field%20dynamics.html)
+- [Old vs new vs chaotic inflation, slow-roll](Old%20vs%20new%20vs%20chaotic%20inflation%2C%20slow-roll.html)
+- [Density parameters and flatness](Density%20parameters%20and%20flatness.html)
+- [Brief thermal history](Brief%20thermal%20history.html)
+- [Baumann_reference](Baumann_reference.html) — chapter 2 has the full story
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (10)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Cosmological%20inflation.html" class="backlink-item">Cosmological inflation</a></li>
-    <li class="backlink-item-wrap"><a href="./Density%20parameters%20and%20flatness.html" class="backlink-item">Density parameters and flatness</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Inflation%20overview.html" class="backlink-item">Inflation overview</a></li>
-    <li class="backlink-item-wrap"><a href="./Inflaton%20scalar%20field%20dynamics.html" class="backlink-item">Inflaton scalar field dynamics</a></li>
-    <li class="backlink-item-wrap"><a href="./Old%20vs%20new%20vs%20chaotic%20inflation%2C%20slow-roll.html" class="backlink-item">Old vs new vs chaotic inflation, slow-roll</a></li>
-    <li class="backlink-item-wrap"><a href="./Phase%20transitions.html" class="backlink-item">Phase transitions</a></li>
+    <li class="backlink-item-wrap"><a href="Cosmological%20inflation.html" class="backlink-item">Cosmological inflation</a></li>
+    <li class="backlink-item-wrap"><a href="Density%20parameters%20and%20flatness.html" class="backlink-item">Density parameters and flatness</a></li>
+    <li class="backlink-item-wrap"><a href="Inflation%20overview.html" class="backlink-item">Inflation overview</a></li>
+    <li class="backlink-item-wrap"><a href="Inflaton%20scalar%20field%20dynamics.html" class="backlink-item">Inflaton scalar field dynamics</a></li>
+    <li class="backlink-item-wrap"><a href="Old%20vs%20new%20vs%20chaotic%20inflation%2C%20slow-roll.html" class="backlink-item">Old vs new vs chaotic inflation, slow-roll</a></li>
+    <li class="backlink-item-wrap"><a href="Phase%20transitions.html" class="backlink-item">Phase transitions</a></li>
+    <li class="backlink-item-wrap"><a href="Photon%20decoupling%20and%20CMB.html" class="backlink-item">Photon decoupling and CMB</a></li>
+    <li class="backlink-item-wrap"><a href="Robertson-Walker%20metric.html" class="backlink-item">Robertson-Walker metric</a></li>
     <li class="backlink-item-wrap"><a href="interf/Phase%20transitions.html" class="backlink-item">Phase transitions</a></li>
-    <li class="backlink-item-wrap"><a href="./Photon%20decoupling%20and%20CMB.html" class="backlink-item">Photon decoupling and CMB</a></li>
-    <li class="backlink-item-wrap"><a href="./Robertson-Walker%20metric.html" class="backlink-item">Robertson-Walker metric</a></li>
+    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
   </ul>
 </div>
+

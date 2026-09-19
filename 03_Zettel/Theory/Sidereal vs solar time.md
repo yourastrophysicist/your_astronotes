@@ -2,7 +2,6 @@
 layout: "default"
 title: "Sidereal vs solar time"
 ---
-{% raw %}
 two natural ways to define a "day," and they are not the same.
 
 ---
@@ -61,8 +60,8 @@ a sidereal clock at the observatory then keeps track of $\Theta$ continuously. s
 ## see also
 
 - [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Spherical_astronomy_complete](./Spherical_astronomy_complete.html)
-- [Equatorial system](./Equatorial%20system.html)
+- [Spherical_astronomy_complete](Spherical_astronomy_complete.html)
+- [Equatorial system](Equatorial%20system.html)
 - Culmination and rise/set
 
 ---
@@ -101,14 +100,14 @@ a sidereal clock at the observatory then keeps track of $\Theta$ continuously. s
 
 ![obs_sph1-59.png](../../assets/images/obs_sph1-59.png)
 *Summary of time systems in observational astronomy.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Equatorial%20system.html" class="backlink-item">Equatorial system</a></li>
+    <li class="backlink-item-wrap"><a href="Equatorial%20system.html" class="backlink-item">Equatorial system</a></li>
+    <li class="backlink-item-wrap"><a href="Time%20keeping%20in%20astronomy.html" class="backlink-item">Time keeping in astronomy</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Time%20keeping%20in%20astronomy.html" class="backlink-item">Time keeping in astronomy</a></li>
   </ul>
 </div>
+

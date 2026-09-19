@@ -2,14 +2,13 @@
 layout: "default"
 title: "Spectroscopic parallax and main-sequence fitting"
 ---
-{% raw %}
 **spectroscopic parallax** is a misleading name (it has nothing to do with parallax geometrically). it is the technique of inferring a star's distance from its spectral type, which gives $M$, combined with its observed $m$. **main-sequence fitting** is the same idea applied to stellar clusters.
 
 ## spectroscopic parallax (single stars)
 
 procedure:
 1. take a spectrum of the star.
-2. classify it on the [Stellar spectra and spectral classification](./Stellar%20spectra%20and%20spectral%20classification.html) OBAFGKM scheme + luminosity class (I to V from line widths / strengths).
+2. classify it on the [Stellar spectra and spectral classification](Stellar%20spectra%20and%20spectral%20classification.html) OBAFGKM scheme + luminosity class (I to V from line widths / strengths).
 3. look up the absolute magnitude $M$ for that spectral type and luminosity class (e.g. from Allen's *Astrophysical Quantities*, or Pickles 1998 templates).
 4. measure the apparent magnitude $m$, correct for dust to get $m_0$.
 5. solve the distance modulus: $\mu = m_0 - M = 5\log_{10}(d_{\rm pc}) - 5$.
@@ -48,14 +47,14 @@ a generalisation: fit a theoretical **stellar isochrone** (e.g. PARSEC, BaSTI, Y
 
 ## see also
 
-- [Distance ladder derivations](./Distance%20ladder%20derivations.html)
-- [Distance modulus](./Distance%20modulus.html)
-- [Annual stellar parallax](./Annual%20stellar%20parallax.html)
-- [HR diagram](./HR%20diagram.html)
-- [Color-magnitude diagrams of clusters](./Color-magnitude%20diagrams%20of%20clusters.html)
-- [Cluster ages from CMD turnoff](./Cluster%20ages%20from%20CMD%20turnoff.html)
-- [Stellar spectra and spectral classification](./Stellar%20spectra%20and%20spectral%20classification.html)
-- [Main sequence, giants, supergiants, white dwarfs](./Main%20sequence%2C%20giants%2C%20supergiants%2C%20white%20dwarfs.html)
+- [Distance ladder derivations](Distance%20ladder%20derivations.html)
+- [Distance modulus](Distance%20modulus.html)
+- [Annual stellar parallax](Annual%20stellar%20parallax.html)
+- [HR diagram](HR%20diagram.html)
+- [Color-magnitude diagrams of clusters](Color-magnitude%20diagrams%20of%20clusters.html)
+- [Cluster ages from CMD turnoff](Cluster%20ages%20from%20CMD%20turnoff.html)
+- [Stellar spectra and spectral classification](Stellar%20spectra%20and%20spectral%20classification.html)
+- [Main sequence, giants, supergiants, white dwarfs](Main%20sequence%2C%20giants%2C%20supergiants%2C%20white%20dwarfs.html)
 
 ---
 
@@ -78,15 +77,15 @@ a generalisation: fit a theoretical **stellar isochrone** (e.g. PARSEC, BaSTI, Y
 
 ![obs_dist-30.png](../../assets/images/obs_dist-30.png)
 *Extinction and reddening vector alignment during MS fitting.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./AU%20calibration%20parallax%20and%20parsec.html" class="backlink-item">AU calibration parallax and parsec</a></li>
-    <li class="backlink-item-wrap"><a href="./Color-magnitude%20diagrams%20of%20clusters.html" class="backlink-item">Color-magnitude diagrams of clusters</a></li>
-    <li class="backlink-item-wrap"><a href="./MK%20luminosity%20classes.html" class="backlink-item">MK luminosity classes</a></li>
-    <li class="backlink-item-wrap"><a href="./Moving%20cluster%20method.html" class="backlink-item">Moving cluster method</a></li>
+    <li class="backlink-item-wrap"><a href="AU%20calibration%20parallax%20and%20parsec.html" class="backlink-item">AU calibration parallax and parsec</a></li>
+    <li class="backlink-item-wrap"><a href="Color-magnitude%20diagrams%20of%20clusters.html" class="backlink-item">Color-magnitude diagrams of clusters</a></li>
+    <li class="backlink-item-wrap"><a href="MK%20luminosity%20classes.html" class="backlink-item">MK luminosity classes</a></li>
+    <li class="backlink-item-wrap"><a href="Moving%20cluster%20method.html" class="backlink-item">Moving cluster method</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

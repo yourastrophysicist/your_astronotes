@@ -2,7 +2,6 @@
 layout: default
 title: "README"
 ---
-{% raw %}
 
 # Your AstroNotes
 
@@ -97,7 +96,7 @@ The repository follows a clean modular hierarchy:
 * **04_Atlas/**: Seventeen Maps of Content organizing curricula and reading roadmaps, along with the master [04_Atlas Hub](04_Atlas/04_Atlas.html).
 * **02_Literature/**: Lecture syntheses, course slide transcriptions, and reference literature breakdowns across all courses.
 * **03_Zettel/**: Over 1,300 atomic concept notes. Each note focuses on a discrete physical mechanism, mathematical definition, or observational effect with explicit backlinks.
-* **ssets/images/**: 2,870 astronomical diagrams, ray-tracing sketches, coordinate geometries, and observational plots.
+* **assets/images/**: 2,870 astronomical diagrams, ray-tracing sketches, coordinate geometries, and observational plots.
 
 ---
 
@@ -123,6 +122,4 @@ The notes assume standard undergraduate preparation in physics and mathematics:
 
 ## Contributing and Errata
 
-If you identify an error in a derivation or have a clarification to suggest, open an issue directly on the [GitHub repository](https://github.com/yourastrophysicist/your_astronotes/issues).
-
-{% endraw %}
+If you identify an error in a derivation or have a clarification to suggest, open an issue directly on the [GitHub repository](https://github.com/yourastrophysicist/your_astronotes/issues).

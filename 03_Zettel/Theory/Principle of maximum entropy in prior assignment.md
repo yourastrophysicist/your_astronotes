@@ -2,7 +2,6 @@
 layout: "default"
 title: "Principle of maximum entropy in prior assignment"
 ---
-{% raw %}
 # Principle of maximum entropy in prior assignment
 
 The Principle of Maximum Entropy (MaxEnt), formulated by Edwin T. Jaynes (1957), provides a mathematically constructive foundation for prior assignment when partial information is available in the form of expected values or testable constraints. It states that the probability distribution that best represents the current state of knowledge is the one with the largest information entropy.
@@ -50,14 +49,14 @@ The Gaussian distribution is the unique maximum entropy distribution for any pro
 ## See Also
 - [Astro-Statistics_and_Cosmology_MOC](../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html)
 - [10_Prior_Assignment_Transformation_Invariance_and_Maximum_Entropy](../../02_Literature/Lectures/Astrostatistics/10_Prior_Assignment_Transformation_Invariance_and_Maximum_Entropy.html)
-- [Transformation group invariance and Jeffreys prior](./Transformation%20group%20invariance%20and%20Jeffreys%20prior.html)
-- [Multivariate Gaussian conditioning and marginalization](./Multivariate%20Gaussian%20conditioning%20and%20marginalization.html)
-{% endraw %}
+- [Transformation group invariance and Jeffreys prior](Transformation%20group%20invariance%20and%20Jeffreys%20prior.html)
+- [Multivariate Gaussian conditioning and marginalization](Multivariate%20Gaussian%20conditioning%20and%20marginalization.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Transformation%20group%20invariance%20and%20Jeffreys%20prior.html" class="backlink-item">Transformation group invariance and Jeffreys prior</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Transformation%20group%20invariance%20and%20Jeffreys%20prior.html" class="backlink-item">Transformation group invariance and Jeffreys prior</a></li>
   </ul>
 </div>
+

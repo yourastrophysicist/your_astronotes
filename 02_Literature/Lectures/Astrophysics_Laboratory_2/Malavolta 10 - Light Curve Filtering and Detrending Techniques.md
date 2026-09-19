@@ -2,8 +2,7 @@
 layout: "default"
 title: "Malavolta 10 - Light Curve Filtering and Detrending Techniques"
 ---
-{% raw %}
-# Malavolta 10 ? Light Curve Filtering and Detrending Techniques
+# Malavolta 10 — Light Curve Filtering and Detrending Techniques
 
 *Astrophysics Laboratory 2, Prof. Luca Malavolta*  
 *Index: [Astrophysics_Laboratory_2_MOC](../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html)*
@@ -53,7 +52,7 @@ Fits a local low-order polynomial ($d = 2?3$) via least-squares over a sliding w
 
 ### 4. Gaussian Process (GP) Regression
 Models the light curve non-parametrically using a multivariate Gaussian prior with a covariance kernel $k(t_i, t_j)$:
-- **Mat?rn-3/2 or SHO Kernel**: models stochastic stellar granulation and instrumental drift.
+- **Matérn-3/2 or SHO Kernel**: models stochastic stellar granulation and instrumental drift.
 - **Quasi-Periodic Kernel**: captures periodic stellar rotation modulated by spot evolution:
 $$k_{\text{QP}}(\Delta t) = A \exp\left( -\frac{\Delta t^2}{2 \ell^2} - \Gamma \sin^2\left( \frac{\pi \Delta t}{P_{\text{rot}}} \right) \right)$$
 
@@ -82,16 +81,15 @@ A detrended light curve is evaluated by:
 
 ![Gaussian Process Regression Filtering](../../../assets/images/lab2_filter_p03.png)
 *Figure LAB2-04: Gaussian Process (GP) regression modeling of correlated red noise in planetary transit photometry using the Matérn-3/2 and Quasi-Periodic covariance kernels.*
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
+  <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Computational/Gaussian%20Process%20Regression%20in%20Light%20Curve%20Detrending.html" class="backlink-item">Gaussian Process Regression in Light Curve Detrending</a></li>
-    <li class="backlink-item-wrap"><a href="./Malavolta%2009%20-%20TESS%20Light%20Curve%20Processing%20and%20Systematic%20Correction.html" class="backlink-item">Malavolta 09 - TESS Light Curve Processing and Systematic Correction</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Computational/Running%20Median%20and%20Biweight%20Light%20Curve%20Filters.html" class="backlink-item">Running Median and Biweight Light Curve Filters</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Computational/Savitzky-Golay%20Filtering%20for%20Stellar%20Time%20Series.html" class="backlink-item">Savitzky-Golay Filtering for Stellar Time Series</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Observations/TESS%20SAP%20vs%20PDCSAP%20Flux%20and%20Cotrending%20Basis%20Vectors.html" class="backlink-item">TESS SAP vs PDCSAP Flux and Cotrending Basis Vectors</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
   </ul>
 </div>
+

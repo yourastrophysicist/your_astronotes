@@ -2,7 +2,6 @@
 layout: "default"
 title: "Galactic Center Sgr A and S-stars"
 ---
-{% raw %}
 # Galactic Center, Sgr A* and the S-stars
 
 the central region of the Milky Way at sub-mas resolution. the supermassive black hole **Sgr A*** (4.3 × 10⁶ M⊙) and the cluster of bright stars (S-stars) orbiting it within 1 milliparsec. studied at unprecedented detail by VLTI/GRAVITY since 2016. **Nobel Prize 2020** for these observations.
@@ -83,10 +82,10 @@ GRAVITY observations of these populations will refine our understanding of stell
 
 ## see also
 
-- [VLTI Very Large Telescope Interferometer](./VLTI%20Very%20Large%20Telescope%20Interferometer.html)
-- [Event Horizon Telescope EHT](./Event%20Horizon%20Telescope%20EHT.html)
-- [AGN and supermassive black holes](./AGN%20and%20supermassive%20black%20holes.html)
-- [Stellar diameters and limb darkening](./Stellar%20diameters%20and%20limb%20darkening.html)
+- [VLTI Very Large Telescope Interferometer](VLTI%20Very%20Large%20Telescope%20Interferometer.html)
+- [Event Horizon Telescope EHT](Event%20Horizon%20Telescope%20EHT.html)
+- [AGN and supermassive black holes](AGN%20and%20supermassive%20black%20holes.html)
+- [Stellar diameters and limb darkening](Stellar%20diameters%20and%20limb%20darkening.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
 
 ---
@@ -137,26 +136,23 @@ GRAVITY observations of these populations will refine our understanding of stell
 ![gal_bh-14.png](../../../assets/images/gal_bh-14.png)
 
 ![gal_bh-15.png](../../../assets/images/gal_bh-15.png)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (16)</h4>
+  <h4 class="backlinks-title">Linked References (13)</h4>
   <ul class="backlinks-list">
     <li class="backlink-item-wrap"><a href="../AGN%20and%20supermassive%20black%20holes.html" class="backlink-item">AGN and supermassive black holes</a></li>
-    <li class="backlink-item-wrap"><a href="./AGN%20and%20supermassive%20black%20holes.html" class="backlink-item">AGN and supermassive black holes</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Components%20of%20a%20modern%20interferometer%20continued.html" class="backlink-item">Components of a modern interferometer continued</a></li>
     <li class="backlink-item-wrap"><a href="../Components%20of%20a%20modern%20interferometer%20continued.html" class="backlink-item">Components of a modern interferometer continued</a></li>
     <li class="backlink-item-wrap"><a href="../Event%20Horizon%20Telescope%20EHT.html" class="backlink-item">Event Horizon Telescope EHT</a></li>
-    <li class="backlink-item-wrap"><a href="./Event%20Horizon%20Telescope%20EHT.html" class="backlink-item">Event Horizon Telescope EHT</a></li>
-    <li class="backlink-item-wrap"><a href="../Ionized%20gas%20SMBH%20masses.html" class="backlink-item">Ionized gas SMBH masses</a></li>
-    <li class="backlink-item-wrap"><a href="../Local%20Group%20galaxies.html" class="backlink-item">Local Group galaxies</a></li>
     <li class="backlink-item-wrap"><a href="../M%20sigma%20relation.html" class="backlink-item">M sigma relation</a></li>
     <li class="backlink-item-wrap"><a href="../Reverberation%20mapping.html" class="backlink-item">Reverberation mapping</a></li>
-    <li class="backlink-item-wrap"><a href="../Stellar%20dynamics%20SMBH%20masses.html" class="backlink-item">Stellar dynamics SMBH masses</a></li>
-    <li class="backlink-item-wrap"><a href="./VLTI%20Very%20Large%20Telescope%20Interferometer.html" class="backlink-item">VLTI Very Large Telescope Interferometer</a></li>
     <li class="backlink-item-wrap"><a href="../VLTI%20Very%20Large%20Telescope%20Interferometer.html" class="backlink-item">VLTI Very Large Telescope Interferometer</a></li>
     <li class="backlink-item-wrap"><a href="../Water%20maser%20BH%20masses.html" class="backlink-item">Water maser BH masses</a></li>
+    <li class="backlink-item-wrap"><a href="AGN%20and%20supermassive%20black%20holes.html" class="backlink-item">AGN and supermassive black holes</a></li>
+    <li class="backlink-item-wrap"><a href="Components%20of%20a%20modern%20interferometer%20continued.html" class="backlink-item">Components of a modern interferometer continued</a></li>
+    <li class="backlink-item-wrap"><a href="Event%20Horizon%20Telescope%20EHT.html" class="backlink-item">Event Horizon Telescope EHT</a></li>
+    <li class="backlink-item-wrap"><a href="VLTI%20Very%20Large%20Telescope%20Interferometer.html" class="backlink-item">VLTI Very Large Telescope Interferometer</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
   </ul>
 </div>
+

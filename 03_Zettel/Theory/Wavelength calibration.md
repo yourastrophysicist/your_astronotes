@@ -2,7 +2,6 @@
 layout: "default"
 title: "Wavelength calibration"
 ---
-{% raw %}
 to convert a spectrum's $x$ axis from "pixels" to "Å" you need a known reference: a **comparison lamp** with bright lines at well-tabulated wavelengths.
 
 ## the procedure
@@ -42,24 +41,24 @@ LFC: a femtosecond laser locked to an atomic clock provides a regular forest of 
 
 ## see also
 
-- [Spectrograph design](./Spectrograph%20design.html)
-- [Spectrum reduction pipeline](./Spectrum%20reduction%20pipeline.html)
+- [Spectrograph design](Spectrograph%20design.html)
+- [Spectrum reduction pipeline](Spectrum%20reduction%20pipeline.html)
 - [Flux calibration](interf/Flux%20calibration.html)
-- [Echelle spectroscopy](./Echelle%20spectroscopy.html)
-- [Stellar velocity from Doppler shift](./Stellar%20velocity%20from%20Doppler%20shift.html)
-- [Spectroscopic redshift from line shifts](./Spectroscopic%20redshift%20from%20line%20shifts.html)
-{% endraw %}
+- [Echelle spectroscopy](Echelle%20spectroscopy.html)
+- [Stellar velocity from Doppler shift](Stellar%20velocity%20from%20Doppler%20shift.html)
+- [Spectroscopic redshift from line shifts](Spectroscopic%20redshift%20from%20line%20shifts.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (8)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Flux%20calibration.html" class="backlink-item">Flux calibration</a></li>
+    <li class="backlink-item-wrap"><a href="Flux%20calibration.html" class="backlink-item">Flux calibration</a></li>
+    <li class="backlink-item-wrap"><a href="Multi-object%20spectroscopy%20MOS.html" class="backlink-item">Multi-object spectroscopy MOS</a></li>
+    <li class="backlink-item-wrap"><a href="Spectrograph%20design.html" class="backlink-item">Spectrograph design</a></li>
+    <li class="backlink-item-wrap"><a href="Spectroscopic%20redshift%20from%20line%20shifts.html" class="backlink-item">Spectroscopic redshift from line shifts</a></li>
+    <li class="backlink-item-wrap"><a href="Spectrum%20reduction%20pipeline.html" class="backlink-item">Spectrum reduction pipeline</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20velocity%20from%20Doppler%20shift.html" class="backlink-item">Stellar velocity from Doppler shift</a></li>
     <li class="backlink-item-wrap"><a href="interf/Flux%20calibration.html" class="backlink-item">Flux calibration</a></li>
-    <li class="backlink-item-wrap"><a href="./Multi-object%20spectroscopy%20MOS.html" class="backlink-item">Multi-object spectroscopy MOS</a></li>
-    <li class="backlink-item-wrap"><a href="./Spectrograph%20design.html" class="backlink-item">Spectrograph design</a></li>
-    <li class="backlink-item-wrap"><a href="./Spectroscopic%20redshift%20from%20line%20shifts.html" class="backlink-item">Spectroscopic redshift from line shifts</a></li>
-    <li class="backlink-item-wrap"><a href="./Spectrum%20reduction%20pipeline.html" class="backlink-item">Spectrum reduction pipeline</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20velocity%20from%20Doppler%20shift.html" class="backlink-item">Stellar velocity from Doppler shift</a></li>
+    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
   </ul>
 </div>
+

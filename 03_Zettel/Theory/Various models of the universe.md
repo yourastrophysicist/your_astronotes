@@ -2,7 +2,6 @@
 layout: "default"
 title: "Various models of the universe"
 ---
-{% raw %}
 historical + theoretical models of the universe, ranging from the static Einstein universe through the Big Bang flavours. each helps illustrate different solutions to Friedmann's equations + the role of $\Omega_m, \Omega_\Lambda, k$.
 
 ## Einstein static universe (1917)
@@ -90,17 +89,16 @@ this is the SN Ia signature that revolutionised cosmology in 1998.
 
 ## see also
 
-- [Friedmann equations](./Friedmann%20equations.html)
-- [Friedmann solutions](./Friedmann%20solutions.html)
-- [Friedmann models](./Friedmann%20models.html)
-- [ΛCDM current parameters](./%CE%9BCDM%20current%20parameters.html)
-- [Cosmological constant](./Cosmological%20constant.html)
-- [Hubble law](./Hubble%20law.html)
-- [Supernova Hubble diagram](./Supernova%20Hubble%20diagram.html)
-- [Cosmic_inventory_overview](./Cosmic_inventory_overview.html)
-- [Brief thermal history](./Brief%20thermal%20history.html)
+- [Friedmann equations](Friedmann%20equations.html)
+- [Friedmann solutions](Friedmann%20solutions.html)
+- [Friedmann models](Friedmann%20models.html)
+- [ΛCDM current parameters](%CE%9BCDM%20current%20parameters.html)
+- [Cosmological constant](Cosmological%20constant.html)
+- [Hubble law](Hubble%20law.html)
+- [Supernova Hubble diagram](Supernova%20Hubble%20diagram.html)
+- [Cosmic_inventory_overview](Cosmic_inventory_overview.html)
+- [Brief thermal history](Brief%20thermal%20history.html)
 - [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (1)</h4>
@@ -108,3 +106,4 @@ this is the SN Ia signature that revolutionised cosmology in 1998.
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
   </ul>
 </div>
+

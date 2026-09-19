@@ -2,7 +2,6 @@
 layout: "default"
 title: "Birkhoff theorem"
 ---
-{% raw %}
 **Birkhoff's theorem**: any **spherically symmetric vacuum solution** of Einstein's equations is necessarily **static** (no time dependence) and asymptotically **Schwarzschild**.
 
 ## the statement
@@ -49,22 +48,20 @@ result: the metric is exactly Schwarzschild, regardless of any time-dependent as
 
 ## see also
 
-- [Schwarzschild metric](./Schwarzschild%20metric.html)
-- [Schwarzschild horizon](./Schwarzschild%20horizon.html)
-- [Einstein equations](./Einstein%20equations.html)
-- [Quadrupole formula](./Quadrupole%20formula.html)
+- [Schwarzschild metric](Schwarzschild%20metric.html)
+- [Schwarzschild horizon](Schwarzschild%20horizon.html)
+- [Einstein equations](Einstein%20equations.html)
+- [Quadrupole formula](Quadrupole%20formula.html)
 - [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
 - [Ch 5 - The Einstein Equation](../../02_Literature/Book/Baumann%20GR/Ch%205%20-%20The%20Einstein%20Equation.html)
 - [Ch 6 - Black Holes](../../02_Literature/Book/Baumann%20GR/Ch%206%20-%20Black%20Holes.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
+  <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Book/Baumann%20GR/Ch%205%20-%20The%20Einstein%20Equation.html" class="backlink-item">Ch 5 - The Einstein Equation</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Book/Baumann%20GR/Ch%206%20-%20Black%20Holes.html" class="backlink-item">Ch 6 - Black Holes</a></li>
+    <li class="backlink-item-wrap"><a href="Quadrupole%20formula.html" class="backlink-item">Quadrupole formula</a></li>
+    <li class="backlink-item-wrap"><a href="Schwarzschild%20metric.html" class="backlink-item">Schwarzschild metric</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Quadrupole%20formula.html" class="backlink-item">Quadrupole formula</a></li>
-    <li class="backlink-item-wrap"><a href="./Schwarzschild%20metric.html" class="backlink-item">Schwarzschild metric</a></li>
   </ul>
 </div>
+

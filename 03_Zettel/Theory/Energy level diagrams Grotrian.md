@@ -2,7 +2,6 @@
 layout: "default"
 title: "Energy level diagrams Grotrian"
 ---
-{% raw %}
 a **Grötrian diagram** plots the energy levels of an atom (vertical axis: energy in eV or cm$^{-1}$) along with the allowed transitions between them (lines connecting levels). named after Walter Grotrian who developed the standard format in the 1920s.
 
 ## reading a Grötrian diagram
@@ -62,13 +61,12 @@ energy conversion: $1$ eV = $8065.54$ cm$^{-1}$, or $\lambda$(Å) $= 12398.42 / 
 
 ## see also
 
-- [Quantum numbers and atomic states](./Quantum%20numbers%20and%20atomic%20states.html)
-- [Atomic term symbols](./Atomic%20term%20symbols.html)
-- [Hund's rules](./Hund%27s%20rules.html)
-- [Selection rules](./Selection%20rules.html)
-- [Hydrogen spectral series](./Hydrogen%20spectral%20series.html)
-- [Helium energy levels](./Helium%20energy%20levels.html)
-- [Sodium and alkalis](./Sodium%20and%20alkalis.html)
-- [Forbidden lines](./Forbidden%20lines.html)
-- [Rydberg-Ritz formula](./Rydberg-Ritz%20formula.html)
-{% endraw %}
+- [Quantum numbers and atomic states](Quantum%20numbers%20and%20atomic%20states.html)
+- [Atomic term symbols](Atomic%20term%20symbols.html)
+- [Hund's rules](Hund%27s%20rules.html)
+- [Selection rules](Selection%20rules.html)
+- [Hydrogen spectral series](Hydrogen%20spectral%20series.html)
+- [Helium energy levels](Helium%20energy%20levels.html)
+- [Sodium and alkalis](Sodium%20and%20alkalis.html)
+- [Forbidden lines](Forbidden%20lines.html)
+- [Rydberg-Ritz formula](Rydberg-Ritz%20formula.html)

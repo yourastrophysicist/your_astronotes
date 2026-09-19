@@ -2,7 +2,6 @@
 layout: "default"
 title: "Recombination continuum"
 ---
-{% raw %}
 in photoionised gas, **recombination of free electrons onto ions** produces continuum photons in addition to the cascade-line photons. the continuum is what carries away the kinetic energy of the captured electron + the binding energy of the final atomic level.
 
 ## the process
@@ -58,30 +57,29 @@ both contribute simultaneously; their sum is the smooth nebular continuum.
 
 ## see also
 
-- [Free-free continuum](./Free-free%20continuum.html)
-- [Balmer continuum](./Balmer%20continuum.html)
-- [Bremsstrahlung](./Bremsstrahlung.html)
-- [Two-photon emission](./Two-photon%20emission.html)
-- [Recombination rate](./Recombination%20rate.html)
-- [Optically thin recombination lines](./Optically%20thin%20recombination%20lines.html)
-- [Hydrogen spectral series](./Hydrogen%20spectral%20series.html)
-- [Continuum opacity sources](./Continuum%20opacity%20sources.html)
-- [H II region spectroscopy](./H%20II%20region%20spectroscopy.html)
-{% endraw %}
+- [Free-free continuum](Free-free%20continuum.html)
+- [Balmer continuum](Balmer%20continuum.html)
+- [Bremsstrahlung](Bremsstrahlung.html)
+- [Two-photon emission](Two-photon%20emission.html)
+- [Recombination rate](Recombination%20rate.html)
+- [Optically thin recombination lines](Optically%20thin%20recombination%20lines.html)
+- [Hydrogen spectral series](Hydrogen%20spectral%20series.html)
+- [Continuum opacity sources](Continuum%20opacity%20sources.html)
+- [H II region spectroscopy](H%20II%20region%20spectroscopy.html)
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (11)</h4>
+  <h4 class="backlinks-title">Linked References (10)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Balmer%20continuum.html" class="backlink-item">Balmer continuum</a></li>
+    <li class="backlink-item-wrap"><a href="Continuum%20opacity%20sources.html" class="backlink-item">Continuum opacity sources</a></li>
+    <li class="backlink-item-wrap"><a href="Free-free%20continuum.html" class="backlink-item">Free-free continuum</a></li>
+    <li class="backlink-item-wrap"><a href="Galactic%20novae%20spectroscopy.html" class="backlink-item">Galactic novae spectroscopy</a></li>
+    <li class="backlink-item-wrap"><a href="Optically%20thin%20recombination%20lines.html" class="backlink-item">Optically thin recombination lines</a></li>
+    <li class="backlink-item-wrap"><a href="Planetary%20nebula%20spectroscopy.html" class="backlink-item">Planetary nebula spectroscopy</a></li>
+    <li class="backlink-item-wrap"><a href="Recombination%20line%20emissivity.html" class="backlink-item">Recombination line emissivity</a></li>
+    <li class="backlink-item-wrap"><a href="Recombination%20rate.html" class="backlink-item">Recombination rate</a></li>
+    <li class="backlink-item-wrap"><a href="Two-photon%20emission.html" class="backlink-item">Two-photon emission</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Balmer%20continuum.html" class="backlink-item">Balmer continuum</a></li>
-    <li class="backlink-item-wrap"><a href="./Continuum%20opacity%20sources.html" class="backlink-item">Continuum opacity sources</a></li>
-    <li class="backlink-item-wrap"><a href="./Free-free%20continuum.html" class="backlink-item">Free-free continuum</a></li>
-    <li class="backlink-item-wrap"><a href="./Galactic%20novae%20spectroscopy.html" class="backlink-item">Galactic novae spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="./H%20II%20region%20spectroscopy.html" class="backlink-item">H II region spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="./Optically%20thin%20recombination%20lines.html" class="backlink-item">Optically thin recombination lines</a></li>
-    <li class="backlink-item-wrap"><a href="./Planetary%20nebula%20spectroscopy.html" class="backlink-item">Planetary nebula spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="./Recombination%20line%20emissivity.html" class="backlink-item">Recombination line emissivity</a></li>
-    <li class="backlink-item-wrap"><a href="./Recombination%20rate.html" class="backlink-item">Recombination rate</a></li>
-    <li class="backlink-item-wrap"><a href="./Two-photon%20emission.html" class="backlink-item">Two-photon emission</a></li>
   </ul>
 </div>
+

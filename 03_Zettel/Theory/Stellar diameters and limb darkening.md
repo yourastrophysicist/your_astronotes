@@ -1,12 +1,8 @@
 ---
 layout: "default"
 title: "Stellar diameters and limb darkening"
-type: "zettel"
-created: "2026-08-04"
-moc: ""
 tags: ""
 ---
-{% raw %}
 > Optical interferometry directly measures the physical size of stars by analyzing how fringe contrast drops on longer baselines, revealing edge-darkening effects.
 
 ---
@@ -44,4 +40,3 @@ Measuring stellar diameters was the very first application of optical interferom
 
 * parent moc: [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
 * related zettels: [Fringe visibility and contrast](interf/Fringe%20visibility%20and%20contrast.html), [Van Cittert-Zernike theorem](interf/Van%20Cittert-Zernike%20theorem.html), [CHARA array](interf/CHARA%20array.html), [VLTI Very Large Telescope Interferometer](interf/VLTI%20Very%20Large%20Telescope%20Interferometer.html)
-{% endraw %}

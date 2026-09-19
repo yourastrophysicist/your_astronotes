@@ -2,7 +2,6 @@
 layout: "default"
 title: "Numerical problem solving workflow"
 ---
-{% raw %}
 # Numerical problem solving workflow
 
 a meta-recipe. given a numerical problem (in the exam, in research, anywhere), this is the order of operations that consistently produces a working answer.
@@ -60,18 +59,18 @@ every exam exercise is this template scaled to a different class. recognising th
 
 ## see also
 
-- [Math Numerical Methods course intro](./Math%20Numerical%20Methods%20course%20intro.html)
-- [Math Numerical Methods exam rules](./Math%20Numerical%20Methods%20exam%20rules.html)
+- [Math Numerical Methods course intro](Math%20Numerical%20Methods%20course%20intro.html)
+- [Math Numerical Methods exam rules](Math%20Numerical%20Methods%20exam%20rules.html)
 - [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html) — the full topic dependency graph
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Math%20Numerical%20Methods%20course%20intro.html" class="backlink-item">Math Numerical Methods course intro</a></li>
-    <li class="backlink-item-wrap"><a href="./Math%20Numerical%20Methods%20equation%20sheet.html" class="backlink-item">Math Numerical Methods equation sheet</a></li>
-    <li class="backlink-item-wrap"><a href="./Math%20Numerical%20Methods%20exam%20rules.html" class="backlink-item">Math Numerical Methods exam rules</a></li>
+    <li class="backlink-item-wrap"><a href="Math%20Numerical%20Methods%20course%20intro.html" class="backlink-item">Math Numerical Methods course intro</a></li>
+    <li class="backlink-item-wrap"><a href="Math%20Numerical%20Methods%20equation%20sheet.html" class="backlink-item">Math Numerical Methods equation sheet</a></li>
+    <li class="backlink-item-wrap"><a href="Math%20Numerical%20Methods%20exam%20rules.html" class="backlink-item">Math Numerical Methods exam rules</a></li>
+    <li class="backlink-item-wrap"><a href="Matplotlib%20plotting%20essentials.html" class="backlink-item">Matplotlib plotting essentials</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Matplotlib%20plotting%20essentials.html" class="backlink-item">Matplotlib plotting essentials</a></li>
   </ul>
 </div>
+

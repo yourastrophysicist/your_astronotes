@@ -2,7 +2,6 @@
 layout: "default"
 title: "OII SFR tracer"
 ---
-{% raw %}
 # [OII] SFR tracer
 
 up: [Pablo_03_Star_formation_in_galaxies](../../02_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html)
@@ -37,23 +36,21 @@ valid for solar metallicity, Salpeter IMF. the scatter is $\sim 0.3$ dex around 
 
 ## connections
 
-- recombination-line tracer: [H-alpha SFR tracer](./H-alpha%20SFR%20tracer.html)
-- other high-$z$ lines: [Lyman alpha SFR tracer](./Lyman%20alpha%20SFR%20tracer.html), [Other SFR tracer lines](./Other%20SFR%20tracer%20lines.html)
-- extinction: [Balmer decrement](./Balmer%20decrement.html), [Dust attenuation and extinction curves](./Dust%20attenuation%20and%20extinction%20curves.html)
+- recombination-line tracer: [H-alpha SFR tracer](H-alpha%20SFR%20tracer.html)
+- other high-$z$ lines: [Lyman alpha SFR tracer](Lyman%20alpha%20SFR%20tracer.html), [Other SFR tracer lines](Other%20SFR%20tracer%20lines.html)
+- extinction: [Balmer decrement](Balmer%20decrement.html), [Dust attenuation and extinction curves](Dust%20attenuation%20and%20extinction%20curves.html)
 
 ## key references
 
 - Kennicutt 1998 ARAA
 - Kewley, Geller, Jansen 2004
 - Mouhcine, Lewis, Ferguson 2005
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
+  <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Lyman%20alpha%20SFR%20tracer.html" class="backlink-item">Lyman alpha SFR tracer</a></li>
+    <li class="backlink-item-wrap"><a href="Lyman%20alpha%20SFR%20tracer.html" class="backlink-item">Lyman alpha SFR tracer</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html" class="backlink-item">Pablo_03_Star_formation_in_galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Observational_Cosmology/Pablo_04_Nuclear_activity_in_galaxies.html" class="backlink-item">Pablo_04_Nuclear_activity_in_galaxies</a></li>
   </ul>
 </div>
+

@@ -2,7 +2,6 @@
 layout: "default"
 title: "Sodium and alkalis"
 ---
-{% raw %}
 **alkali atoms** (Li, Na, K, Rb, Cs) have a single valence electron outside a closed-shell noble-gas core. their spectra look essentially **hydrogenic** with the active electron in $s, p, d$ states, but with energies modified by the screening core.
 
 ## sodium structure
@@ -53,23 +52,23 @@ in hotter stars (B, A, F), Na is mostly ionised; the Na I D lines are weak or ab
 
 ## see also
 
-- [Quantum numbers and atomic states](./Quantum%20numbers%20and%20atomic%20states.html)
-- [Atomic term symbols](./Atomic%20term%20symbols.html)
-- [Selection rules](./Selection%20rules.html)
-- [Sodium population vs T](./Sodium%20population%20vs%20T.html)
-- [Pauli principle and electron configurations](./Pauli%20principle%20and%20electron%20configurations.html)
-- [Stellar spectra and spectral classification](./Stellar%20spectra%20and%20spectral%20classification.html)
-- [MK luminosity classes](./MK%20luminosity%20classes.html)
-- [Why the Sequence OBAFGKM](./Why%20the%20Sequence%20OBAFGKM.html)
-{% endraw %}
+- [Quantum numbers and atomic states](Quantum%20numbers%20and%20atomic%20states.html)
+- [Atomic term symbols](Atomic%20term%20symbols.html)
+- [Selection rules](Selection%20rules.html)
+- [Sodium population vs T](Sodium%20population%20vs%20T.html)
+- [Pauli principle and electron configurations](Pauli%20principle%20and%20electron%20configurations.html)
+- [Stellar spectra and spectral classification](Stellar%20spectra%20and%20spectral%20classification.html)
+- [MK luminosity classes](MK%20luminosity%20classes.html)
+- [Why the Sequence OBAFGKM](Why%20the%20Sequence%20OBAFGKM.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Energy%20level%20diagrams%20Grotrian.html" class="backlink-item">Energy level diagrams Grotrian</a></li>
+    <li class="backlink-item-wrap"><a href="Magnesium%20and%20alkali%20earths.html" class="backlink-item">Magnesium and alkali earths</a></li>
+    <li class="backlink-item-wrap"><a href="Pauli%20principle%20and%20electron%20configurations.html" class="backlink-item">Pauli principle and electron configurations</a></li>
+    <li class="backlink-item-wrap"><a href="Sodium%20population%20vs%20T.html" class="backlink-item">Sodium population vs T</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Energy%20level%20diagrams%20Grotrian.html" class="backlink-item">Energy level diagrams Grotrian</a></li>
-    <li class="backlink-item-wrap"><a href="./Magnesium%20and%20alkali%20earths.html" class="backlink-item">Magnesium and alkali earths</a></li>
-    <li class="backlink-item-wrap"><a href="./Pauli%20principle%20and%20electron%20configurations.html" class="backlink-item">Pauli principle and electron configurations</a></li>
-    <li class="backlink-item-wrap"><a href="./Sodium%20population%20vs%20T.html" class="backlink-item">Sodium population vs T</a></li>
   </ul>
 </div>
+

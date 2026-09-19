@@ -2,7 +2,6 @@
 layout: "default"
 title: "Coherence function and visibility"
 ---
-{% raw %}
 # Coherence function and visibility
 
 the formal mathematical link between *coherence* (a statistical property of the wave) and *visibility* (the observable). they are the same quantity viewed from two angles. understanding this equivalence is crucial: the rest of the formalism — Van Cittert-Zernike, fringe contrast, calibration — is just consequences.
@@ -109,7 +108,7 @@ the formalism above is *scalar* — it ignores polarization. for polarized sourc
 - four Stokes parameters describe the source polarization
 - a polarized interferometer measures these four
 
-most of the course is scalar. polarization-aware interferometry shows up in [Polarization in interferometry](./Polarization%20in%20interferometry.html).
+most of the course is scalar. polarization-aware interferometry shows up in [Polarization in interferometry](Polarization%20in%20interferometry.html).
 
 ## the role of bandwidth (again)
 
@@ -125,32 +124,32 @@ source: local study diagram generated from the standard mutual-coherence geometr
 
 ## see also
 
-- [Spatial coherence](./Spatial%20coherence.html)
-- [Temporal coherence](./Temporal%20coherence.html)
-- [Van Cittert-Zernike theorem](./Van%20Cittert-Zernike%20theorem.html)
-- [Fringe visibility and contrast](./Fringe%20visibility%20and%20contrast.html)
+- [Spatial coherence](Spatial%20coherence.html)
+- [Temporal coherence](Temporal%20coherence.html)
+- [Van Cittert-Zernike theorem](Van%20Cittert-Zernike%20theorem.html)
+- [Fringe visibility and contrast](Fringe%20visibility%20and%20contrast.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (17)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Coherent%20vs%20incoherent%20imaging.html" class="backlink-item">Coherent vs incoherent imaging</a></li>
     <li class="backlink-item-wrap"><a href="../Coherent%20vs%20incoherent%20imaging.html" class="backlink-item">Coherent vs incoherent imaging</a></li>
     <li class="backlink-item-wrap"><a href="../Fresnel-Arago%20laws.html" class="backlink-item">Fresnel-Arago laws</a></li>
     <li class="backlink-item-wrap"><a href="../Fringe%20visibility%20and%20contrast.html" class="backlink-item">Fringe visibility and contrast</a></li>
-    <li class="backlink-item-wrap"><a href="./Fringe%20visibility%20and%20contrast.html" class="backlink-item">Fringe visibility and contrast</a></li>
-    <li class="backlink-item-wrap"><a href="./Photon%20noise%20and%20statistics.html" class="backlink-item">Photon noise and statistics</a></li>
     <li class="backlink-item-wrap"><a href="../Spatial%20coherence.html" class="backlink-item">Spatial coherence</a></li>
-    <li class="backlink-item-wrap"><a href="./Spatial%20coherence.html" class="backlink-item">Spatial coherence</a></li>
-    <li class="backlink-item-wrap"><a href="./Superposition%20and%20interference.html" class="backlink-item">Superposition and interference</a></li>
-    <li class="backlink-item-wrap"><a href="./Temporal%20coherence.html" class="backlink-item">Temporal coherence</a></li>
     <li class="backlink-item-wrap"><a href="../Temporal%20coherence.html" class="backlink-item">Temporal coherence</a></li>
-    <li class="backlink-item-wrap"><a href="./Two-element%20correlator.html" class="backlink-item">Two-element correlator</a></li>
-    <li class="backlink-item-wrap"><a href="./Van%20Cittert-Zernike%20theorem.html" class="backlink-item">Van Cittert-Zernike theorem</a></li>
     <li class="backlink-item-wrap"><a href="../Van%20Cittert-Zernike%20theorem.html" class="backlink-item">Van Cittert-Zernike theorem</a></li>
     <li class="backlink-item-wrap"><a href="../Wiener-Khinchin%20theorem.html" class="backlink-item">Wiener-Khinchin theorem</a></li>
-    <li class="backlink-item-wrap"><a href="./Wiener-Khinchin%20theorem.html" class="backlink-item">Wiener-Khinchin theorem</a></li>
+    <li class="backlink-item-wrap"><a href="Coherent%20vs%20incoherent%20imaging.html" class="backlink-item">Coherent vs incoherent imaging</a></li>
+    <li class="backlink-item-wrap"><a href="Fringe%20visibility%20and%20contrast.html" class="backlink-item">Fringe visibility and contrast</a></li>
+    <li class="backlink-item-wrap"><a href="Photon%20noise%20and%20statistics.html" class="backlink-item">Photon noise and statistics</a></li>
+    <li class="backlink-item-wrap"><a href="Spatial%20coherence.html" class="backlink-item">Spatial coherence</a></li>
+    <li class="backlink-item-wrap"><a href="Superposition%20and%20interference.html" class="backlink-item">Superposition and interference</a></li>
+    <li class="backlink-item-wrap"><a href="Temporal%20coherence.html" class="backlink-item">Temporal coherence</a></li>
+    <li class="backlink-item-wrap"><a href="Two-element%20correlator.html" class="backlink-item">Two-element correlator</a></li>
+    <li class="backlink-item-wrap"><a href="Van%20Cittert-Zernike%20theorem.html" class="backlink-item">Van Cittert-Zernike theorem</a></li>
+    <li class="backlink-item-wrap"><a href="Wiener-Khinchin%20theorem.html" class="backlink-item">Wiener-Khinchin theorem</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

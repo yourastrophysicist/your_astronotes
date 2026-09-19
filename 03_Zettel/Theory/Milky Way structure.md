@@ -2,7 +2,6 @@
 layout: "default"
 title: "Milky Way structure"
 ---
-{% raw %}
 our home galaxy, the **Milky Way**, is a barred spiral galaxy of Hubble morphological type **SBbc**. because our solar system is embedded directly within its dusty disk, mapping its three-dimensional structure requires panoramic multi-wavelength observations—from radio 21 cm lines that penetrate dust to infrared space surveys (2MASS, Spitzer, Gaia).
 
 ![milkyway-01.png](../../assets/images/milkyway-01.png)
@@ -76,30 +75,27 @@ the Sun is situated in the Orion-Cygnus spur (between the major Sagittarius and 
 ## see also
 
 - [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Galactic coordinate system](./Galactic%20coordinate%20system.html)
-- [Stellar populations I II III](./Stellar%20populations%20I%20II%20III.html)
-- [Interstellar medium components and gas cycle](./Interstellar%20medium%20components%20and%20gas%20cycle.html)
-- [Spiral arm kinematics](./Spiral%20arm%20kinematics.html)
-- [Dark matter on galactic scales](./Dark%20matter%20on%20galactic%20scales.html)
-- [Galactic Center](./Galactic%20Center.html)
-{% endraw %}
+- [Galactic coordinate system](Galactic%20coordinate%20system.html)
+- [Stellar populations I II III](Stellar%20populations%20I%20II%20III.html)
+- [Interstellar medium components and gas cycle](Interstellar%20medium%20components%20and%20gas%20cycle.html)
+- [Spiral arm kinematics](Spiral%20arm%20kinematics.html)
+- [Dark matter on galactic scales](Dark%20matter%20on%20galactic%20scales.html)
+- [Galactic Center](Galactic%20Center.html)
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (14)</h4>
+  <h4 class="backlinks-title">Linked References (11)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Interstellar_Medium/Carraro_02_Neutral_Hydrogen_and_21cm_Universe.html" class="backlink-item">Carraro_02_Neutral_Hydrogen_and_21cm_Universe</a></li>
-    <li class="backlink-item-wrap"><a href="./Dark%20matter%20on%20galactic%20scales.html" class="backlink-item">Dark matter on galactic scales</a></li>
+    <li class="backlink-item-wrap"><a href="Dark%20matter%20on%20galactic%20scales.html" class="backlink-item">Dark matter on galactic scales</a></li>
+    <li class="backlink-item-wrap"><a href="Galactic%20Center.html" class="backlink-item">Galactic Center</a></li>
+    <li class="backlink-item-wrap"><a href="Galactic%20HI%20kinematics%20and%20Milky%20Way%20spiral%20structure.html" class="backlink-item">Galactic HI kinematics and Milky Way spiral structure</a></li>
+    <li class="backlink-item-wrap"><a href="Galactic%20coordinate%20system.html" class="backlink-item">Galactic coordinate system</a></li>
+    <li class="backlink-item-wrap"><a href="Galaxies%20in%20the%20local%20universe.html" class="backlink-item">Galaxies in the local universe</a></li>
+    <li class="backlink-item-wrap"><a href="Interstellar%20absorption.html" class="backlink-item">Interstellar absorption</a></li>
+    <li class="backlink-item-wrap"><a href="Interstellar%20medium%20components%20and%20gas%20cycle.html" class="backlink-item">Interstellar medium components and gas cycle</a></li>
+    <li class="backlink-item-wrap"><a href="Proper%20motion%20and%20stellar%20kinematics.html" class="backlink-item">Proper motion and stellar kinematics</a></li>
+    <li class="backlink-item-wrap"><a href="Spiral%20arm%20kinematics.html" class="backlink-item">Spiral arm kinematics</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20populations%20I%20II%20III.html" class="backlink-item">Stellar populations I II III</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Galactic%20Center.html" class="backlink-item">Galactic Center</a></li>
-    <li class="backlink-item-wrap"><a href="./Galactic%20HI%20kinematics%20and%20Milky%20Way%20spiral%20structure.html" class="backlink-item">Galactic HI kinematics and Milky Way spiral structure</a></li>
-    <li class="backlink-item-wrap"><a href="./Galactic%20coordinate%20system.html" class="backlink-item">Galactic coordinate system</a></li>
-    <li class="backlink-item-wrap"><a href="./Galaxies%20in%20the%20local%20universe.html" class="backlink-item">Galaxies in the local universe</a></li>
-    <li class="backlink-item-wrap"><a href="./H%20I%20regions.html" class="backlink-item">H I regions</a></li>
-    <li class="backlink-item-wrap"><a href="./Interstellar%20absorption.html" class="backlink-item">Interstellar absorption</a></li>
-    <li class="backlink-item-wrap"><a href="./Interstellar%20medium%20components%20and%20gas%20cycle.html" class="backlink-item">Interstellar medium components and gas cycle</a></li>
-    <li class="backlink-item-wrap"><a href="./Local%20Group%20galaxies.html" class="backlink-item">Local Group galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="./Proper%20motion%20and%20stellar%20kinematics.html" class="backlink-item">Proper motion and stellar kinematics</a></li>
-    <li class="backlink-item-wrap"><a href="./Spiral%20arm%20kinematics.html" class="backlink-item">Spiral arm kinematics</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20populations%20I%20II%20III.html" class="backlink-item">Stellar populations I II III</a></li>
   </ul>
 </div>
+

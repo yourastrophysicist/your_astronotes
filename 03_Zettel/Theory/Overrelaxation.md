@@ -2,10 +2,9 @@
 layout: "default"
 title: "Overrelaxation"
 ---
-{% raw %}
 # Overrelaxation
 
-an acceleration trick for [relaxation](./Relaxation%20method.html) iterations and for [Gauss-Seidel iteration](./Gauss-Seidel%20iteration.html). instead of accepting the relaxation update $g(x_n)$ as the next iterate, **overshoot** by a factor $\omega > 1$:
+an acceleration trick for [relaxation](Relaxation%20method.html) iterations and for [Gauss-Seidel iteration](Gauss-Seidel%20iteration.html). instead of accepting the relaxation update $g(x_n)$ as the next iterate, **overshoot** by a factor $\omega > 1$:
 
 $$x_{n+1} = x_n + \omega (g(x_n) - x_n)$$
 
@@ -98,18 +97,18 @@ if the system is small, just use a direct solver (`np.linalg.solve`) and skip th
 
 ## see also
 
-- [Relaxation method](./Relaxation%20method.html)
-- [Gauss-Seidel iteration](./Gauss-Seidel%20iteration.html)
-- [Boundary value PDEs and iteration](./Boundary%20value%20PDEs%20and%20iteration.html)
-- [Pros and cons of linear solvers](./Pros%20and%20cons%20of%20linear%20solvers.html)
+- [Relaxation method](Relaxation%20method.html)
+- [Gauss-Seidel iteration](Gauss-Seidel%20iteration.html)
+- [Boundary value PDEs and iteration](Boundary%20value%20PDEs%20and%20iteration.html)
+- [Pros and cons of linear solvers](Pros%20and%20cons%20of%20linear%20solvers.html)
 - [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Boundary%20value%20PDEs%20and%20iteration.html" class="backlink-item">Boundary value PDEs and iteration</a></li>
+    <li class="backlink-item-wrap"><a href="Boundary%20value%20PDEs%20and%20iteration.html" class="backlink-item">Boundary value PDEs and iteration</a></li>
+    <li class="backlink-item-wrap"><a href="Relaxation%20method.html" class="backlink-item">Relaxation method</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Relaxation%20method.html" class="backlink-item">Relaxation method</a></li>
   </ul>
 </div>
+

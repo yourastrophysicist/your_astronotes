@@ -1,131 +1,225 @@
 ---
 layout: "default"
 title: "SDSS overview"
+tags: ""
 ---
-{% raw %}
-the **Sloan Digital Sky Survey (SDSS)** is the foundational dataset for modern galaxy science. began in 2000, ongoing through several phases (SDSS-I/II, BOSS/eBOSS, MaNGA, eROSITA partner). each phase added different data types.
+# Sloan Digital Sky Survey (SDSS) Overview
 
-## the survey
-
-started with a $2.5$ m dedicated telescope at Apache Point, NM. main products:
-- **photometric**: $\sim 1$ billion sources, all-sky-equivalent for the northern sky + parts south.
-- **spectroscopic**: $\sim 5$ million galaxies + $\sim 500\,000$ quasars + $\sim 10^6$ stars.
-- **imaging area**: $\sim 14\,000$ deg$^2$ ($\sim 1/3$ of the sky).
-- **filters**: $u, g, r, i, z$ — the "Sloan filters" now standard worldwide.
-
-## the SDSS photometric system
-
-5 broadband filters covering $300$ nm to $1\,\mu$m:
-
-| filter | central λ (nm) | width | purpose |
-|---|---|---|---|
-| $u$ | 354 | 60 | UV / near-UV |
-| $g$ | 475 | 130 | blue |
-| $r$ | 623 | 130 | red |
-| $i$ | 763 | 130 | NIR |
-| $z$ | 913 | 95 | far red |
-
-photometric magnitudes are in the **AB system**: $m_{AB} = -2.5\log_{10}(F_\nu/3631\,\text{Jy})$.
-
-## the photometric outputs
-
-per galaxy, SDSS provides:
-- **PSF magnitudes** $m^{\rm PSF}$: best for stars/point sources.
-- **model magnitudes** $m^{\rm model}$: best for galaxies (fits a galaxy model).
-- **Petrosian magnitudes** $m^{\rm petro}$: aperture-based, robust to profile shape. see [Petrosian radius](./Petrosian%20radius.html).
-- **Petrosian half-light radius** $r_{50}$ + $r_{90}$ (radii enclosing 50% and 90% of Petrosian flux).
-- **concentration index** $C = r_{90}/r_{50}$. proxy for morphology: $C \gtrsim 2.6$ = early-type, $C \lesssim 2.6$ = late-type.
-
-## the spectroscopic outputs
-
-per spectroscopic galaxy:
-- **spectrum** at $R \approx 2000$, covering $3800$ to $9200$ Å.
-- **redshift** $z$ + classification (galaxy / quasar / star).
-- **emission line fluxes**: $H\alpha, H\beta, [OIII], [NII], [SII]$, etc.
-- **stellar velocity dispersion** $\sigma_v$.
-- **stellar population parameters** from spectral fitting.
-
-modern data releases (DR17 and beyond) have $\sim 5$ million galaxy spectra. main galaxy sample limited to $r < 17.77$ ($z < 0.2$); LRGs to $z \sim 0.5$; BOSS/eBOSS quasars to $z = 2$ to $3$.
-
-## the science output
-
-among the most-cited results:
-- **galaxy bimodality**: Baldry 2004's $u-r$ histogram showing red sequence + blue cloud.
-- **mass-metallicity relation**: Tremonti 2004.
-- **stellar mass function**: Kauffmann + Bell 2003.
-- **galaxy merger statistics**: Lin 2004.
-- **photometric redshifts**: SDSS's photo-z provides redshifts for $\sim 100$ million galaxies without spectroscopy.
-- **AGN classification**: BPT diagrams from $H\alpha, H\beta, [OIII], [NII]$.
-- **BAO + LSS**: BOSS, eBOSS pin cosmological parameters.
-
-## the modern surveys building on SDSS
-
-- **MaNGA** (SDSS-IV, 2014-2020): IFU spectroscopy of $\sim 10\,000$ nearby galaxies. spatially resolved data + kinematics.
-- **APOGEE**: $\sim 10^6$ Galactic stars at NIR.
-- **eBOSS**: extended BOSS for $0.5 < z < 1.5$ + quasars.
-- **DESI** (2021-onward): $40 \times 10^6$ galaxies/quasars for cosmology. successor to SDSS.
-
-## see also
-
-- [Galaxy spectroscopy by type](./Galaxy%20spectroscopy%20by%20type.html)
-- [Petrosian radius](./Petrosian%20radius.html)
-- [Survey resources for Obs Astro](./Survey%20resources%20for%20Obs%20Astro.html)
-- [Photometric redshifts](./Photometric%20redshifts.html)
-- [Color bimodality of galaxies](./Color%20bimodality%20of%20galaxies.html)
-- [Multi-object spectroscopy MOS](./Multi-object%20spectroscopy%20MOS.html)
-- [Integral-field spectroscopy IFU](./Integral-field%20spectroscopy%20IFU.html)
-- [BPT diagram](./BPT%20diagram.html)
-- [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html)
+The Sloan Digital Sky Survey (SDSS) represents the foundational wide-field astronomical survey that established precision statistical galaxy science. Operating primarily from the dedicated 2.5-meter telescope at Apache Point Observatory (APO), New Mexico, SDSS mapped over one-third of the celestial sphere in five optical passbands ($u, g, r, i, z$) and accumulated millions of optical spectra. The resulting datasets established the benchmark empirical foundations for the local galaxy luminosity function, color bimodality, large-scale cosmological clustering, and morphological classifications.
 
 ---
 
-## astrophysics of galaxies figures and slides (Prof. Alessandro Pizzella)
+## 1. Telescope and Photometric Instrumentation
 
-![blanton2003_kcorrection.png](../../assets/images/blanton2003_kcorrection.png)
-*K-corrections as a function of redshift across SDSS ugriz passbands (Blanton et al. 2003).*
+### The Optical System
+- **Telescope Design** - Dedicated 2.5-meter f/5 modified Ritchey-Chrétien altitude-azimuth telescope with a 3-degree wide field of view.
+- **Location** - Apache Point Observatory, New Mexico (altitude 2788 m), offering excellent atmospheric transparency and median optical seeing of $\sim 1.4$ arcseconds in the $r$-band.
+- **Primary Instrument** - The SDSS imaging camera featured 30 SITe $2048 	imes 2048$ pixel charge-coupled devices (CCDs) arranged in 5 columns of 6 rows, plus 22 smaller astrometric and focus chips.
 
-![gal_lf2-09.png](../../assets/images/gal_lf2-09.png)
-*Sloan Digital Sky Survey (SDSS) 2.5m telescope at Apache Point Observatory.*
-
-![gal_lf2-10.png](../../assets/images/gal_lf2-10.png)
-*SDSS photometric system: five broad bands u, g, r, i, z covering 3000 to 10000 A.*
-
-![gal_lf2-11.png](../../assets/images/gal_lf2-11.png)
-*SDSS spectroscopic fiber plug plates (640 to 1000 fibers per plate, R ~ 2000).*
-
-![gal_lf2-12.png](../../assets/images/gal_lf2-12.png)
-*Main Galaxy Sample (MGS): target selection r_petro < 17.77 mag.*
+### Time-Delay-and-Integrate (TDI) Drift-Scan Mode
+The imaging survey operated in drift-scanning mode. Instead of tracking the sky with stationary exposures, the telescope remained fixed along a great circle while the charge on the CCDs was shifted synchronously at the sidereal rate along the columns.
+- Integration time per filter -
+  $$t_{
+m int} = rac{N_{
+m pix} \cdot 	heta_{
+m pix}}{\Omega_{
+m sidereal} \cos \delta} pprox 53.9 	ext{ seconds}$$
+  where $N_{
+m pix} = 2048$, pixel scale $	heta_{
+m pix} = 0.396$ arcsec/pixel, and $\Omega_{
+m sidereal} = 15.041$ arcsec/s.
+- Each scan produces continuous optical stripes across five filters, yielding contiguous multi-color imaging across thousands of square degrees.
 
 ---
 
-## lecture slides and reference figures (Prof. Alessandro Pizzella)
+## 2. The SDSS Five-Band Photometric System (ugriz)
 
-![gal_lf2-19.png](../../assets/images/gal_lf2-19.png)
+The SDSS filter system was designed to optimize stellar and extragalactic spectral characterization, dividing the optical spectrum from the atmospheric ultraviolet cutoff ($\sim 3000$ \AA) to the silicon CCD cutoff ($\sim 10000$ \AA) into five broad passbands.
 
-![gal_lf2-20.png](../../assets/images/gal_lf2-20.png)
+### Filter Parameters and Wavelength Coverage
+1. **$u$-band** - Effective wavelength $\lambda_{
+m eff} pprox 3551$ \AA, FWHM $\Delta \lambda pprox 570$ \AA. Positioned below the Balmer jump ($3646$ \AA) and the 4000 \AA\ break ($D_n 4000$), measuring young star formation and hot white dwarfs.
+2. **$g$-band** - Effective wavelength $\lambda_{
+m eff} pprox 4686$ \AA, FWHM $\Delta \lambda pprox 1390$ \AA. Covers blue stellar continuum, spanning the region between the 4000 \AA\ break and $	ext{H}eta$.
+3. **$r$-band** - Effective wavelength $\lambda_{
+m eff} pprox 6165$ \AA, FWHM $\Delta \lambda pprox 1370$ \AA. High throughput filter positioned in low night-sky background. Serves as the primary reference passband for SDSS galaxy targeting and Petrosian photometry.
+4. **$i$-band** - Effective wavelength $\lambda_{
+m eff} pprox 7481$ \AA, FWHM $\Delta \lambda pprox 1530$ \AA. Covers the near-infrared red giant continuum.
+5. **$z$-band** - Effective wavelength $\lambda_{
+m eff} pprox 8931$ \AA, FWHM $\Delta \lambda pprox 950$ \AA. Extends out to the atmospheric water vapor absorption and CCD sensitivity limit.
 
-![gal_lf2-21.png](../../assets/images/gal_lf2-21.png)
+### Magnitude System Definition
+SDSS calibrated photometry on the AB magnitude system (Oke and Gunn 1983), where an object with flat spectral energy distribution per unit frequency $f_
+u$ has zero color -
+$$m_{
+m AB} = -2.5 \log_{10}\left( rac{f_
+u}{3631 	ext{ Jy}} 
+ight) = -2.5 \log_{10} f_
+u - 48.60$$
+where $1 	ext{ Jy} = 10^{-23} 	ext{ erg s}^{-1} 	ext{ cm}^{-2} 	ext{ Hz}^{-1}$.
 
-![gal_lf2-22.png](../../assets/images/gal_lf2-22.png)
+---
 
-![gal_lf2-23.png](../../assets/images/gal_lf2-23.png)
+## 3. Spectroscopic Architecture and Target Selection
 
-![gal_lf2-24.png](../../assets/images/gal_lf2-24.png)
+### Fiber Spectrographs
+SDSS utilized two identical multi-fiber spectrographs fed by optical fibers plugged by hand into pre-drilled aluminum plates positioned at the focal plane.
+- **SDSS-I and SDSS-II** - 640 fibers per plate, fiber core diameter $3.0$ arcseconds ($\sim 5.5$ kpc physical aperture at median redshift $z \sim 0.1$).
+- **SDSS-III (BOSS) and SDSS-IV (eBOSS)** - 1000 fibers per plate, fiber core diameter $2.0$ arcseconds.
+- Spectral coverage - Continuous wavelength range $3800 - 9200$ \AA\ at resolving power $R \equiv \lambda / \Delta \lambda pprox 1800 - 2200$.
 
-![gal_lf2-25.png](../../assets/images/gal_lf2-25.png)
+### Algorithmic Target Selection Samples
+1. **Main Galaxy Sample (MGS)** - Strictly flux-limited galaxy sample defined by Petrosian $r$-band magnitude -
+   $$r_{
+m Petro} \le 17.77 	ext{ mag}$$
+   with mean surface brightness cut $\mu_{r, 50} \le 24.5 	ext{ mag arcsec}^{-2}$. Yielded over 700,000 galaxy spectra with median redshift $z pprox 0.104$, achieving completeness greater than 99 percent across the survey area.
+2. **Luminous Red Galaxy (LRG) Sample** - Targeted massive early-type galaxies with prominent 4000 \AA\ breaks up to $z \sim 0.5$ using color-magnitude cuts in the $(g-r)$ versus $(r-i)$ diagram to isolate the redshifted break.
+3. **Quasar Survey** - Automated color-color selection in multi-dimensional $u-g, g-r, r-i, i-z$ space to identify point sources with colors deviating from the stellar locus, producing the largest uniform quasar catalog in astronomy ($z = 0.1 - 5.5$).
 
-![gal_lf2-26.png](../../assets/images/gal_lf2-26.png)
-{% endraw %}
+---
+
+## 4. Mathematical Formulation of the K-Correction
+
+Because galaxies are observed at cosmological redshifts $z > 0$, the light detected in a fixed observer-frame passband $R$ originates from a bluer rest-frame passband $Q$. The conversion between observer-frame apparent magnitude $m_R$ and rest-frame absolute magnitude $M_Q$ is given by -
+$$m_R = M_Q + 5 \log_{10}\left( rac{d_L(z)}{10 	ext{ pc}} 
+ight) + K_{QR}(z)$$
+where $d_L(z)$ is the luminosity distance.
+
+### Step-by-Step Calculus Derivation
+1. The energy flux $F_R$ received through filter $R$ with transmission function $T_R(\lambda)$ (in photon units) is -
+   $$F_R = rac{\int f_\lambda(\lambda_{
+m obs}) T_R(\lambda_{
+m obs}) \lambda_{
+m obs} \, d\lambda_{
+m obs}}{\int T_R(\lambda_{
+m obs}) \lambda_{
+m obs} \, d\lambda_{
+m obs}}$$
+2. By cosmological redshift, observed wavelength is related to emitted rest-frame wavelength by $\lambda_{
+m obs} = \lambda_{
+m rest}(1 + z)$. The received flux density is related to the intrinsic luminosity density by -
+   $$f_\lambda(\lambda_{
+m obs}) = rac{L_\lambda(\lambda_{
+m rest})}{4\pi d_L^2 (1 + z)}$$
+3. Change variable of integration in the numerator from $\lambda_{
+m obs}$ to $\lambda_{
+m rest}$ using $d\lambda_{
+m obs} = (1 + z) \, d\lambda_{
+m rest}$ -
+   $$F_R = rac{\int rac{L_\lambda(\lambda_{
+m rest})}{4\pi d_L^2 (1 + z)} T_R(\lambda_{
+m rest}(1 + z)) \lambda_{
+m rest} (1 + z)^2 \, d\lambda_{
+m rest}}{\int T_R(\lambda) \lambda \, d\lambda}$$
+   $$F_R = rac{1}{4\pi d_L^2} (1 + z) rac{\int L_\lambda(\lambda) T_R(\lambda(1 + z)) \lambda \, d\lambda}{\int T_R(\lambda) \lambda \, d\lambda}$$
+4. Compare this to the rest-frame emission through filter $Q$ at standard distance $10 	ext{ pc}$ -
+   $$F_Q = rac{1}{4\pi (10	ext{ pc})^2} rac{\int L_\lambda(\lambda) T_Q(\lambda) \lambda \, d\lambda}{\int T_Q(\lambda) \lambda \, d\lambda}$$
+5. Applying the definition of magnitude differences $m_R - M_Q = -2.5 \log_{10}(F_R / F_Q)$ and factoring out the distance modulus $5 \log_{10}(d_L / 10	ext{ pc})$, the exact K-correction is -
+   $$K_{QR}(z) = -2.5 \log_{10}\left[ (1 + z) rac{\int L_\lambda(\lambda) T_R(\lambda(1 + z)) \lambda \, d\lambda}{\int T_R(\lambda) \lambda \, d\lambda} \cdot rac{\int T_Q(\lambda) \lambda \, d\lambda}{\int L_\lambda(\lambda) T_Q(\lambda) \lambda \, d\lambda} 
+ight]$$
+In SDSS publications, absolute magnitudes are conventionally K-corrected to rest-frame bands at $z = 0.1$ (denoted $^{0.1}r$ or $^{0.1}g$) to minimize model dependency near the median survey redshift.
+
+---
+
+## 5. Observational Graph Literacy and ASCII Blueprints
+
+### Diagram 1 - SDSS ugriz Filter Response Curves and Spectral Energy Distribution
+```text
+  Relative Transmission T(lambda)
+  1.0 +----------------------------------------------------------------+
+      |       u          g            r            i            z      |
+  0.8 |     /---\     /-----\     /-----\     /-----\     /-----\    |
+      |    /     \   /       \   /       \   /       \   /       \   |
+  0.6 |   /       \ /         \ /         \ /         \ /         \  |
+      |  /         X           X           X           X           \ |
+  0.4 | /         / \         / \         / \         / \         / |
+      |/         /   \       /   \       /   \       /   \       /  |
+  0.2 |         /     \     /     \     /     \     /     \     /   |
+      |        | 4000 A|   |       |   |       |   |       |   |    |
+  0.0 +--------+-------+---+-------+---+-------+---+-------+---+----+--+
+     3000     3550    4000 4680        6160        7480        8930
+                           Wavelength lambda [Angstroms]
+```
+
+### Diagram 2 - SDSS Main Galaxy Sample Completeness and Redshift Histogram
+```text
+  Number of Galaxies dN/dz [x 10^3]
+   30 +----------------------------------------------------------------+
+      |                           ^                                    |
+   25 |                          / \                                  |
+      |                         /   \                                 |
+   20 |                        /     \                                |
+      |                       /   |   \    Median z = 0.104            |
+   15 |                      /    |    \                               |
+      |                     /     |     \                              |
+   10 |                    /      |      \                             |
+      |                   /       |       \                            |
+    5 |                  /        |        \                           |
+      |        ........-/         |         \-..........               |
+    0 +-------+---------+---------+----------+----------+--------------+
+     0.00      0.04      0.08      0.12       0.16       0.20     0.24
+                               Redshift z
+```
+
+---
+
+## 6. Oral Exam Blackboard Presentation Script
+
+When asked by Prof. Pizzella - *"What is the SDSS, how did its photometric and spectroscopic systems operate, and how do we compute K-corrections?"*
+
+1. **State the primary survey characteristics** -
+   - Write on the board - *"2.5m telescope at Apache Point, 54-CCD drift-scan camera, 5 optical filters ($u, g, r, i, z$), dual multi-fiber spectrographs (640 then 1000 fibers)."*
+   - Explain - *"The photometric survey operated in time-delay-and-integrate mode, achieving uniform five-band optical imaging across one-third of the sky. The spectroscopic survey observed a complete flux-limited sample of over 700,000 galaxies at $r_{
+m Petro} \le 17.77$ mag."*
+
+2. **Describe the filter system and AB magnitudes** -
+   - Draw the 5 filter bands.
+   - Explain - *"The filters span 3000 to 10000 \AA\ on the AB system ($m_{
+m AB} = -2.5 \log_{10} f_
+u - 48.60$). The $u$ and $g$ bands bracket the 4000 \AA\ break, enabling robust stellar population diagnostics and photometric redshifts."*
+
+3. **Derive the K-correction on the blackboard** -
+   - Write the relation - $m_R = M_Q + 5\log_{10}(d_L/10	ext{ pc}) + K_{QR}(z)$.
+   - Derive the integral formula showing the redshifting of the galaxy SED through the filter transmission curves.
+   - State clearly - *"Because the rest-frame light is shifted into the observer band, the K-correction compensates for the change in effective bandpass width by $(1+z)$ and the shift in rest-frame spectral energy distribution."*
+
+---
+
+## 7. Primary Course References
+
+- **Prof. Alessandro Pizzella's Lecture Notes** -
+  - `Astrophysics_of_Galaxies.tex` (Part I - SDSS and Observational Foundations, page 16).
+  - `dispense_LF1_1_eng-1.pdf` (SDSS photometric system, targeting, and K-corrections, pages 8-11).
+  - `blanton2003_kcorrection.png` (K-correction transformations in SDSS passbands).
+- **Seminal Literature** -
+  - York, D. G., et al. (2000, AJ, 120, 1579) - *The Sloan Digital Sky Survey - Technical Summary*.
+  - Stoughton, C., et al. (2002, AJ, 123, 485) - *Sloan Digital Sky Survey Early Data Release*.
+  - Blanton, M. R., et al. (2003, AJ, 125, 2348) - *K-corrections and filter transformations in the Sloan Digital Sky Survey*.
+  - Strauss, M. A., et al. (2002, AJ, 124, 1810) - *Spectroscopic Target Selection in the Sloan Digital Sky Survey - The Main Galaxy Sample*.
+
+---
+
+## 8. Related Knowledge Base Notes
+
+- [Luminosity function definition](Luminosity%20function%20definition.html) - The $1/V_{
+m max}$ Schmidt estimator and Malmquist bias in SDSS.
+- [Petrosian radius](Petrosian%20radius.html) - Petrosian photometric apertures adopted for SDSS galaxy flux measurements.
+- [Color bimodality of galaxies](Color%20bimodality%20of%20galaxies.html) - Empirical discovery of the red sequence and blue cloud in SDSS.
+- [Schechter function in magnitudes](Schechter%20function%20in%20magnitudes.html) - Parametric luminosity function fits in SDSS $ugriz$ passbands.
+- [CAS galaxy classification](CAS%20galaxy%20classification.html) - Quantitative structural parameters measured for SDSS galaxies.
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
+  <h4 class="backlinks-title">Linked References (9)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Color%20bimodality%20of%20galaxies.html" class="backlink-item">Color bimodality of galaxies</a></li>
+    <li class="backlink-item-wrap"><a href="Deep-field%20surveys.html" class="backlink-item">Deep-field surveys</a></li>
+    <li class="backlink-item-wrap"><a href="Luminosity%20function%20definition.html" class="backlink-item">Luminosity function definition</a></li>
+    <li class="backlink-item-wrap"><a href="MaNGA%20survey.html" class="backlink-item">MaNGA survey</a></li>
+    <li class="backlink-item-wrap"><a href="PCA%20spectral%20classification%20of%20galaxies.html" class="backlink-item">PCA spectral classification of galaxies</a></li>
+    <li class="backlink-item-wrap"><a href="Petrosian%20radius.html" class="backlink-item">Petrosian radius</a></li>
+    <li class="backlink-item-wrap"><a href="Red%20sequence%20and%20blue%20cloud.html" class="backlink-item">Red sequence and blue cloud</a></li>
+    <li class="backlink-item-wrap"><a href="Schechter%20function%20in%20magnitudes.html" class="backlink-item">Schechter function in magnitudes</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./CAS%20galaxy%20classification.html" class="backlink-item">CAS galaxy classification</a></li>
-    <li class="backlink-item-wrap"><a href="./Deep-field%20surveys.html" class="backlink-item">Deep-field surveys</a></li>
-    <li class="backlink-item-wrap"><a href="./Eigenspectra%20and%20spectral%20types.html" class="backlink-item">Eigenspectra and spectral types</a></li>
-    <li class="backlink-item-wrap"><a href="./MaNGA%20survey.html" class="backlink-item">MaNGA survey</a></li>
-    <li class="backlink-item-wrap"><a href="./PCA%20spectral%20classification%20of%20galaxies.html" class="backlink-item">PCA spectral classification of galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="./Petrosian%20radius.html" class="backlink-item">Petrosian radius</a></li>
   </ul>
 </div>
+

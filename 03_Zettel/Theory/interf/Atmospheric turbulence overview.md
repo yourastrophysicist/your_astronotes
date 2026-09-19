@@ -2,7 +2,6 @@
 layout: "default"
 title: "Atmospheric turbulence overview"
 ---
-{% raw %}
 # Atmospheric turbulence overview
 
 the atmosphere is the worst enemy of optical interferometry. air with slightly different temperatures has slightly different refractive indices, so light passing through follows slightly different optical path lengths in different parcels. the resulting *random phase corruption* destroys fringes if not corrected. understanding this is the prerequisite for adaptive optics, fringe tracking, and speckle techniques.
@@ -45,7 +44,7 @@ with $C_n^2$ the **structure parameter**. integrated along the line of sight, th
 
 $$D_\phi(r) = 6.88 (r/r_0)^{5/3}$$
 
-with $r_0$ the Fried parameter (see [Kolmogorov turbulence](./Kolmogorov%20turbulence.html) and [Fried parameter $r_0$](./Fried%20parameter%20%24r_0%24.html)).
+with $r_0$ the Fried parameter (see [Kolmogorov turbulence](Kolmogorov%20turbulence.html) and [Fried parameter $r_0$](Fried%20parameter%20%24r_0%24.html)).
 
 this 5/3 power-law is the *defining* mathematical signature of Kolmogorov turbulence. it has been verified at every well-characterized observatory.
 
@@ -102,35 +101,35 @@ scintillation is usually a few percent of total flux but can rise to tens of per
 
 ## see also
 
-- [Kolmogorov turbulence](./Kolmogorov%20turbulence.html)
-- [Structure function and correlation function](./Structure%20function%20and%20correlation%20function.html)
-- [Fried parameter $r_0$](./Fried%20parameter%20%24r_0%24.html)
-- [Isoplanatic patch](./Isoplanatic%20patch.html)
-- [Frozen turbulence and Taylor hypothesis](./Frozen%20turbulence%20and%20Taylor%20hypothesis.html)
-- [Scintillation and twinkling](./Scintillation%20and%20twinkling.html)
-- [Adaptive optics](./Adaptive%20optics.html)
+- [Kolmogorov turbulence](Kolmogorov%20turbulence.html)
+- [Structure function and correlation function](Structure%20function%20and%20correlation%20function.html)
+- [Fried parameter $r_0$](Fried%20parameter%20%24r_0%24.html)
+- [Isoplanatic patch](Isoplanatic%20patch.html)
+- [Frozen turbulence and Taylor hypothesis](Frozen%20turbulence%20and%20Taylor%20hypothesis.html)
+- [Scintillation and twinkling](Scintillation%20and%20twinkling.html)
+- [Adaptive optics](Adaptive%20optics.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (17)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Adaptive%20optics.html" class="backlink-item">Adaptive optics</a></li>
     <li class="backlink-item-wrap"><a href="../Adaptive%20optics.html" class="backlink-item">Adaptive optics</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../DOnofrio%20Exam%20Retake%20-%20Radio%20vs%20Optical%20Physics%20and%20Michelson%20Synthesis.html" class="backlink-item">DOnofrio Exam Retake - Radio vs Optical Physics and Michelson Synthesis</a></li>
     <li class="backlink-item-wrap"><a href="../Fried%20parameter%20%24r_0%24.html" class="backlink-item">Fried parameter $r_0$</a></li>
-    <li class="backlink-item-wrap"><a href="./Fried%20parameter%20%24r_0%24.html" class="backlink-item">Fried parameter $r_0$</a></li>
-    <li class="backlink-item-wrap"><a href="./Frozen%20turbulence%20and%20Taylor%20hypothesis.html" class="backlink-item">Frozen turbulence and Taylor hypothesis</a></li>
     <li class="backlink-item-wrap"><a href="../Frozen%20turbulence%20and%20Taylor%20hypothesis.html" class="backlink-item">Frozen turbulence and Taylor hypothesis</a></li>
-    <li class="backlink-item-wrap"><a href="./Isoplanatic%20patch.html" class="backlink-item">Isoplanatic patch</a></li>
     <li class="backlink-item-wrap"><a href="../Isoplanatic%20patch.html" class="backlink-item">Isoplanatic patch</a></li>
     <li class="backlink-item-wrap"><a href="../Kolmogorov%20turbulence.html" class="backlink-item">Kolmogorov turbulence</a></li>
-    <li class="backlink-item-wrap"><a href="./Kolmogorov%20turbulence.html" class="backlink-item">Kolmogorov turbulence</a></li>
-    <li class="backlink-item-wrap"><a href="./Scintillation%20and%20twinkling.html" class="backlink-item">Scintillation and twinkling</a></li>
     <li class="backlink-item-wrap"><a href="../Scintillation%20and%20twinkling.html" class="backlink-item">Scintillation and twinkling</a></li>
-    <li class="backlink-item-wrap"><a href="./Structure%20function%20and%20correlation%20function.html" class="backlink-item">Structure function and correlation function</a></li>
     <li class="backlink-item-wrap"><a href="../Structure%20function%20and%20correlation%20function.html" class="backlink-item">Structure function and correlation function</a></li>
     <li class="backlink-item-wrap"><a href="../The%20phase%20problem%20in%20interferometry.html" class="backlink-item">The phase problem in interferometry</a></li>
+    <li class="backlink-item-wrap"><a href="Adaptive%20optics.html" class="backlink-item">Adaptive optics</a></li>
+    <li class="backlink-item-wrap"><a href="Fried%20parameter%20%24r_0%24.html" class="backlink-item">Fried parameter $r_0$</a></li>
+    <li class="backlink-item-wrap"><a href="Frozen%20turbulence%20and%20Taylor%20hypothesis.html" class="backlink-item">Frozen turbulence and Taylor hypothesis</a></li>
+    <li class="backlink-item-wrap"><a href="Isoplanatic%20patch.html" class="backlink-item">Isoplanatic patch</a></li>
+    <li class="backlink-item-wrap"><a href="Kolmogorov%20turbulence.html" class="backlink-item">Kolmogorov turbulence</a></li>
+    <li class="backlink-item-wrap"><a href="Scintillation%20and%20twinkling.html" class="backlink-item">Scintillation and twinkling</a></li>
+    <li class="backlink-item-wrap"><a href="Structure%20function%20and%20correlation%20function.html" class="backlink-item">Structure function and correlation function</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

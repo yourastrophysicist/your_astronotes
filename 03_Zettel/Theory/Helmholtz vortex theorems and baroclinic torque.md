@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Helmholtz vortex theorems and baroclinic torque"
-name: "Helmholtz vortex theorems and baroclinic torque"
-description: "kinematic laws of vortex filaments, topological persistence, and baroclinic vorticity generation in non-barotropic media"
 ---
-{% raw %}
 Hermann von Helmholtz formulated the three fundamental theorems governing vortex tubes in inviscid, barotropic fluids subjected to conservative body forces.
 
 ## the three helmholtz theorems
@@ -32,14 +29,14 @@ $$\frac{\nabla \rho \times \nabla p}{\rho^2} = -\frac{\nabla T \times \nabla p}{
 
 - [Fluid_and_Plasma_Dynamics_MOC](../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html)
 - [Part2_Incompressible_and_Viscous_Flows](../../02_Literature/Lectures/Fluid_and_Plasma_Dynamics/Part2_Incompressible_and_Viscous_Flows.html)
-- [Vorticity dynamics and Kelvin circulation theorem](./Vorticity%20dynamics%20and%20Kelvin%20circulation%20theorem.html)
-- [Sedov-Taylor blast wave expansion](./Sedov-Taylor%20blast%20wave%20expansion.html)
-{% endraw %}
+- [Vorticity dynamics and Kelvin circulation theorem](Vorticity%20dynamics%20and%20Kelvin%20circulation%20theorem.html)
+- [Sedov-Taylor blast wave expansion](Sedov-Taylor%20blast%20wave%20expansion.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Vorticity%20dynamics%20and%20Kelvin%20circulation%20theorem.html" class="backlink-item">Vorticity dynamics and Kelvin circulation theorem</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Vorticity%20dynamics%20and%20Kelvin%20circulation%20theorem.html" class="backlink-item">Vorticity dynamics and Kelvin circulation theorem</a></li>
   </ul>
 </div>
+

@@ -2,7 +2,6 @@
 layout: "default"
 title: "01_Plausible_Reasoning_Cox_Theorem_and_Bayesian_Foundations"
 ---
-{% raw %}
 # Plausible Reasoning, Cox Theorem, and Bayesian Foundations
 
 Graduate lecture notes in Astro-Statistics and Cosmology, taught by Prof. Michele Liguori at the University of Padua.
@@ -241,17 +240,12 @@ This proves that updating beliefs sequentially step by step produces the exact s
 
 ![Cox Theorem and Deductive Logic Foundations](../../../assets/images/astrostat_liguori_p02.png)
 *Figure AST-01: Foundations of Plausible Reasoning and Cox's Theorem (Prof. Michele Liguori). Cox's postulates establish that any system of plausible reasoning that satisfies transitivity, consistency, and scalar representation of belief uniquely maps onto the mathematical rules of probability theory: $P(A \cap B \mid I) = P(A \mid B, I) P(B \mid I)$ (Product Rule) and $P(A \mid I) + P(\neg A \mid I) = 1$ (Sum Rule).*
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
+  <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./02_Parameter_Estimation_Gaussian_Noise_and_Credible_Intervals.html" class="backlink-item">02_Parameter_Estimation_Gaussian_Noise_and_Credible_Intervals</a></li>
-    <li class="backlink-item-wrap"><a href="./04_Frequentist_vs_Bayesian_Inference_and_Confidence_Intervals.html" class="backlink-item">04_Frequentist_vs_Bayesian_Inference_and_Confidence_Intervals</a></li>
-    <li class="backlink-item-wrap"><a href="./10_Prior_Assignment_Transformation_Invariance_and_Maximum_Entropy.html" class="backlink-item">10_Prior_Assignment_Transformation_Invariance_and_Maximum_Entropy</a></li>
-    <li class="backlink-item-wrap"><a href="./11_Model_Selection_Bayesian_Evidence_and_Savage_Dickey_Ratio.html" class="backlink-item">11_Model_Selection_Bayesian_Evidence_and_Savage_Dickey_Ratio</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Cox%20theorem%20and%20probability%20as%20extended%20logic.html" class="backlink-item">Cox theorem and probability as extended logic</a></li>
-    <li class="backlink-item-wrap"><a href="./Homework_Problems_and_Solutions.html" class="backlink-item">Homework_Problems_and_Solutions</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
   </ul>
 </div>
+

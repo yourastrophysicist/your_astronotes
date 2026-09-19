@@ -2,7 +2,6 @@
 layout: "default"
 title: "Bayesian hierarchical modeling for Type Ia supernovae"
 ---
-{% raw %}
 # Bayesian hierarchical modeling for Type Ia supernovae
 
 Type Ia Supernovae (SNIa) serve as standardizable candles across cosmological distances. While classical approaches fit empirical light-curve relations via ad-hoc $\chi^2$ minimization, rigorous cosmology requires Bayesian Hierarchical Modeling (BHM) to self-consistently account for heteroscedastic covariances, intrinsic dispersion, and Malmquist selection truncation.
@@ -59,9 +58,8 @@ This model delivers completely debiased, robust cosmological constraints from mo
 ## See Also
 - [Astro-Statistics_and_Cosmology_MOC](../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html)
 - [09_Bayesian_Hierarchical_Models_for_Type_Ia_Supernovae](../../02_Literature/Lectures/Astrostatistics/09_Bayesian_Hierarchical_Models_for_Type_Ia_Supernovae.html)
-- [Multivariate Gaussian conditioning and marginalization](./Multivariate%20Gaussian%20conditioning%20and%20marginalization.html)
-- [Generalized least squares and correlated measurement errors](./Generalized%20least%20squares%20and%20correlated%20measurement%20errors.html)
-{% endraw %}
+- [Multivariate Gaussian conditioning and marginalization](Multivariate%20Gaussian%20conditioning%20and%20marginalization.html)
+- [Generalized least squares and correlated measurement errors](Generalized%20least%20squares%20and%20correlated%20measurement%20errors.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (1)</h4>
@@ -69,3 +67,4 @@ This model delivers completely debiased, robust cosmological constraints from mo
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
   </ul>
 </div>
+

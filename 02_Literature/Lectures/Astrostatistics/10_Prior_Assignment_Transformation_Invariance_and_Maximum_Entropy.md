@@ -2,7 +2,6 @@
 layout: "default"
 title: "10_Prior_Assignment_Transformation_Invariance_and_Maximum_Entropy"
 ---
-{% raw %}
 # Prior Assignment, Transformation Invariance, and Maximum Entropy
 
 Graduate lecture notes in Astro-Statistics and Cosmology, taught by Prof. Michele Liguori at the University of Padua.
@@ -240,17 +239,13 @@ This provides the deepest information-theoretic justification for the Gaussian d
 - [02_Parameter_Estimation_Gaussian_Noise_and_Credible_Intervals](./02_Parameter_Estimation_Gaussian_Noise_and_Credible_Intervals.html) - Impact of informative vs uninformative priors on MAP estimators
 - [06_Fisher_Information_Matrix_Cramer_Rao_Bound_and_Survey_Forecasting](./06_Fisher_Information_Matrix_Cramer_Rao_Bound_and_Survey_Forecasting.html) - The Fisher information matrix as the generator of Jeffreys priors
 - [11_Model_Selection_Bayesian_Evidence_and_Savage_Dickey_Ratio](./11_Model_Selection_Bayesian_Evidence_and_Savage_Dickey_Ratio.html) - Sensitivity of Bayesian evidence to prior volume
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
+  <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./01_Plausible_Reasoning_Cox_Theorem_and_Bayesian_Foundations.html" class="backlink-item">01_Plausible_Reasoning_Cox_Theorem_and_Bayesian_Foundations</a></li>
-    <li class="backlink-item-wrap"><a href="./06_Fisher_Information_Matrix_Cramer_Rao_Bound_and_Survey_Forecasting.html" class="backlink-item">06_Fisher_Information_Matrix_Cramer_Rao_Bound_and_Survey_Forecasting</a></li>
-    <li class="backlink-item-wrap"><a href="./11_Model_Selection_Bayesian_Evidence_and_Savage_Dickey_Ratio.html" class="backlink-item">11_Model_Selection_Bayesian_Evidence_and_Savage_Dickey_Ratio</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Homework_Problems_and_Solutions.html" class="backlink-item">Homework_Problems_and_Solutions</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Principle%20of%20maximum%20entropy%20in%20prior%20assignment.html" class="backlink-item">Principle of maximum entropy in prior assignment</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Transformation%20group%20invariance%20and%20Jeffreys%20prior.html" class="backlink-item">Transformation group invariance and Jeffreys prior</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
   </ul>
 </div>
+

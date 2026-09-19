@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Cowling anti-dynamo theorem and turbulent alpha-Omega dynamo"
-name: "Cowling anti-dynamo theorem and turbulent alpha-Omega dynamo"
-description: "proof of non-existence of axisymmetric dynamos, mean-field electrodynamics, and the alpha-Omega dynamo cycle"
 ---
-{% raw %}
 dynamo theory explains how astronomical bodies (Earth, Sun, galaxies) generate and sustain macroscopic magnetic fields against ohmic decay through the motion of conducting fluids.
 
 ## cowling's anti-dynamo theorem (1933)
@@ -32,7 +29,7 @@ decomposing velocity and magnetic fields into large-scale mean and turbulent flu
 
 $$\boldsymbol{\mathcal{E}} = \langle \mathbf{u}' \times \mathbf{b}' \rangle = \alpha \langle \mathbf{B} \rangle - \beta \nabla \times \langle \mathbf{B} \rangle$$
 
-1. **$\alpha$-effect**: cyclonic helical convection ($lpha \approx -\frac{1}{3}\tau_{\text{corr}} \langle \mathbf{u}' \cdot (\nabla \times \mathbf{u}') \rangle$) twists toroidal field lines into poloidal loops, regenerating poloidal flux.
+1. **$\alpha$-effect**: cyclonic helical convection ($\alpha \approx -\frac{1}{3}\tau_{\text{corr}} \langle \mathbf{u}' \cdot (\nabla \times \mathbf{u}') \rangle$) twists toroidal field lines into poloidal loops, regenerating poloidal flux.
 2. **$\Omega$-effect**: differential rotation ($d\Omega/dr \ne 0$) shears poloidal field lines into intense toroidal field belts.
 3. **$\beta$-effect**: turbulent eddies enhance effective magnetic diffusivity: $\eta_t = \beta \approx \frac{1}{3} u_{\text{rms}} l_{\text{corr}} \gg \eta_{\text{molecular}}$.
 
@@ -42,9 +39,8 @@ the cyclic feedback between the $\alpha$-effect and $\Omega$-effect drives the 2
 
 - [Fluid_and_Plasma_Dynamics_MOC](../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html)
 - [Part8_Reconnection_Relaxation_and_Dynamo_Theory](../../02_Literature/Lectures/Fluid_and_Plasma_Dynamics/Part8_Reconnection_Relaxation_and_Dynamo_Theory.html)
-- [Interstellar magnetic field tracers](./Interstellar%20magnetic%20field%20tracers.html)
-- [Vorticity dynamics and Kelvin circulation theorem](./Vorticity%20dynamics%20and%20Kelvin%20circulation%20theorem.html)
-{% endraw %}
+- [Interstellar magnetic field tracers](Interstellar%20magnetic%20field%20tracers.html)
+- [Vorticity dynamics and Kelvin circulation theorem](Vorticity%20dynamics%20and%20Kelvin%20circulation%20theorem.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (1)</h4>
@@ -52,3 +48,4 @@ the cyclic feedback between the $\alpha$-effect and $\Omega$-effect drives the 2
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
   </ul>
 </div>
+

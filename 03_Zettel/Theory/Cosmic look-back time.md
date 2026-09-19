@@ -2,7 +2,6 @@
 layout: "default"
 title: "Cosmic look-back time"
 ---
-{% raw %}
 the **look-back time** to a source at redshift $z$ is the difference between the age of the universe today and at the time of emission. answers: "how long ago did this light leave the source?"
 
 ## the formula
@@ -60,16 +59,15 @@ physical reason: the universe was compressed in time at early epochs. the first 
 
 ## see also
 
-- [Time-redshift relation](./Time-redshift%20relation.html)
-- [FLRW metric](./FLRW%20metric.html)
-- [Friedmann equations](./Friedmann%20equations.html)
-- [Cosmological redshift](./Cosmological%20redshift.html)
-- [Cosmic eras](./Cosmic%20eras.html)
-- [Brief thermal history](./Brief%20thermal%20history.html)
+- [Time-redshift relation](Time-redshift%20relation.html)
+- [FLRW metric](FLRW%20metric.html)
+- [Friedmann equations](Friedmann%20equations.html)
+- [Cosmological redshift](Cosmological%20redshift.html)
+- [Cosmic eras](Cosmic%20eras.html)
+- [Brief thermal history](Brief%20thermal%20history.html)
 - 03_Zettel/Theory/Cosmological distances
-- [Cosmic star formation history](./Cosmic%20star%20formation%20history.html)
+- [Cosmic star formation history](Cosmic%20star%20formation%20history.html)
 - [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (1)</h4>
@@ -77,3 +75,4 @@ physical reason: the universe was compressed in time at early epochs. the first 
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
   </ul>
 </div>
+

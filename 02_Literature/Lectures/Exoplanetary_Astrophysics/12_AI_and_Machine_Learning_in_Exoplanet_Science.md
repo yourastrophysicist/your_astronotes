@@ -2,7 +2,6 @@
 layout: "default"
 title: "12_AI_and_Machine_Learning_in_Exoplanet_Science"
 ---
-{% raw %}
 # Lesson 12 – AI and Machine Learning in Exoplanet Science
 
 *Exoplanetary Astrophysics, Prof. Tiziano Zingales (Guest Lecture 18/11/2025)*  
@@ -110,13 +109,11 @@ While neural networks provide immense acceleration, physical interpretation dema
 - Previous Lecture: [11_High_Precision_Spectrographs_and_Doppler_Measurement](./11_High_Precision_Spectrographs_and_Doppler_Measurement.html)
 - Next Lecture: [13_RV_Wavelength_Calibration_and_Error_Budgets](./13_RV_Wavelength_Calibration_and_Error_Budgets.html)
 - Related Notes: [08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx](../Computational_Astrophysics/08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx.html) | Exoplanetary atmospheres and transmission spectroscopy
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
+  <h4 class="backlinks-title">Linked References (1)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./11_High_Precision_Spectrographs_and_Doppler_Measurement.html" class="backlink-item">11_High_Precision_Spectrographs_and_Doppler_Measurement</a></li>
-    <li class="backlink-item-wrap"><a href="./13_RV_Wavelength_Calibration_and_Error_Budgets.html" class="backlink-item">13_RV_Wavelength_Calibration_and_Error_Budgets</a></li>
     <li class="backlink-item-wrap"><a href="../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

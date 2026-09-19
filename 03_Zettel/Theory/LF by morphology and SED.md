@@ -2,10 +2,9 @@
 layout: "default"
 title: "LF by morphology and SED"
 ---
-{% raw %}
 # LF by morphology and SED
 
-up: [Pablo_02_Statistical_properties_of_galaxies](../../02_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html) · [Schechter function](./Schechter%20function.html)
+up: [Pablo_02_Statistical_properties_of_galaxies](../../02_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html) · [Schechter function](Schechter%20function.html)
 
 ## the total LF hides a sum
 
@@ -33,7 +32,7 @@ Wolf 2003 used the COMBO-17 17-filter survey to assign each galaxy an SED templa
 - the **red sequence LF** at $z \sim 1$ has a brighter $L^*$ than today (massive ellipticals were brighter in the past per their stellar populations were younger)
 - the **blue cloud LF** has a roughly constant shape but the $\phi^*$ rises with $z$ (more star-forming galaxies in the past)
 
-this is the LF realization of the [Color bimodality of galaxies](./Color%20bimodality%20of%20galaxies.html) story: each subpopulation evolves independently.
+this is the LF realization of the [Color bimodality of galaxies](Color%20bimodality%20of%20galaxies.html) story: each subpopulation evolves independently.
 
 ## sersic-index split
 
@@ -51,27 +50,23 @@ the Schechter parameters $(\phi^*, L^*, \alpha)$ are not "the LF parameters of t
 
 ## connections
 
-- baseline: [Schechter function](./Schechter%20function.html)
-- driver of the morphological split: [Galaxy color, density and morphology](./Galaxy%20color%2C%20density%20and%20morphology.html)
-- counts version of the same: [Driver 1998 counts by morphology](./Driver%201998%20counts%20by%20morphology.html)
-- bright-end excess at high $z$: [Double power-law modified Schechter](./Double%20power-law%20modified%20Schechter.html)
+- baseline: [Schechter function](Schechter%20function.html)
+- driver of the morphological split: [Galaxy color, density and morphology](Galaxy%20color%2C%20density%20and%20morphology.html)
+- counts version of the same: [Driver 1998 counts by morphology](Driver%201998%20counts%20by%20morphology.html)
+- bright-end excess at high $z$: [Double power-law modified Schechter](Double%20power-law%20modified%20Schechter.html)
 
 ## key references
 
 - Driver et al. 2006, MNRAS 368, 414 (MGC LF by type)
 - Wolf et al. 2003, A&A 401, 73 (COMBO-17 LF per SED)
 - Bell et al. 2003 (red and blue SMF separation)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
+  <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Driver%201998%20counts%20by%20morphology.html" class="backlink-item">Driver 1998 counts by morphology</a></li>
-    <li class="backlink-item-wrap"><a href="./Galaxy%20color%2C%20density%20and%20morphology.html" class="backlink-item">Galaxy color, density and morphology</a></li>
-    <li class="backlink-item-wrap"><a href="./Luminosity%20function%20definition.html" class="backlink-item">Luminosity function definition</a></li>
+    <li class="backlink-item-wrap"><a href="Driver%201998%20counts%20by%20morphology.html" class="backlink-item">Driver 1998 counts by morphology</a></li>
+    <li class="backlink-item-wrap"><a href="Galaxy%20color%2C%20density%20and%20morphology.html" class="backlink-item">Galaxy color, density and morphology</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html" class="backlink-item">Pablo_02_Statistical_properties_of_galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="./Red%20sequence%20and%20blue%20cloud.html" class="backlink-item">Red sequence and blue cloud</a></li>
-    <li class="backlink-item-wrap"><a href="./Schechter%20function.html" class="backlink-item">Schechter function</a></li>
   </ul>
 </div>
+

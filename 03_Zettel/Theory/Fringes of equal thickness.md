@@ -2,7 +2,6 @@
 layout: "default"
 title: "Fringes of equal thickness"
 ---
-{% raw %}
 # Fringes of equal thickness
 
 a class of fringes formed when light reflects off a *thin film of varying thickness*. the fringes follow contours of constant thickness — at each point, the OPD between the front-surface and back-surface reflections depends only on the local thickness.
@@ -84,6 +83,5 @@ this is *the* modern method for optical-element characterization. used in:
 - [Optical path difference OPD](interf/Optical%20path%20difference%20OPD.html)
 - [Fringes of equal inclination](interf/Fringes%20of%20equal%20inclination.html)
 - [Newton's rings](interf/Newton%27s%20rings.html)
-- [Amplitude-division interferometers](./Amplitude-division%20interferometers.html)
+- [Amplitude-division interferometers](Amplitude-division%20interferometers.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

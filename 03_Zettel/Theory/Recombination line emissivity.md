@@ -2,7 +2,6 @@
 layout: "default"
 title: "Recombination line emissivity"
 ---
-{% raw %}
 a recombination line's flux per unit volume is set by the rate of recombinations into the upper level, weighted by the cascade probability that the recombining electron passes through the specific transition.
 
 ## the formula
@@ -62,21 +61,21 @@ each recombination produces **one Balmer photon** on average (about $0.45$ H$\al
 
 ## see also
 
-- [Optically thin recombination lines](./Optically%20thin%20recombination%20lines.html)
-- [Case A vs Case B recombination](./Case%20A%20vs%20Case%20B%20recombination.html)
-- [Balmer decrement](./Balmer%20decrement.html)
-- [H-alpha SFR tracer](./H-alpha%20SFR%20tracer.html)
-- [Hydrogen spectral series](./Hydrogen%20spectral%20series.html)
+- [Optically thin recombination lines](Optically%20thin%20recombination%20lines.html)
+- [Case A vs Case B recombination](Case%20A%20vs%20Case%20B%20recombination.html)
+- [Balmer decrement](Balmer%20decrement.html)
+- [H-alpha SFR tracer](H-alpha%20SFR%20tracer.html)
+- [Hydrogen spectral series](Hydrogen%20spectral%20series.html)
 - Strömgren sphere
-- [Recombination continuum](./Recombination%20continuum.html)
-- [Photoionisation balance](./Photoionisation%20balance.html)
-{% endraw %}
+- [Recombination continuum](Recombination%20continuum.html)
+- [Photoionisation balance](Photoionisation%20balance.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Case%20A%20vs%20Case%20B%20recombination.html" class="backlink-item">Case A vs Case B recombination</a></li>
+    <li class="backlink-item-wrap"><a href="Optically%20thin%20recombination%20lines.html" class="backlink-item">Optically thin recombination lines</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Case%20A%20vs%20Case%20B%20recombination.html" class="backlink-item">Case A vs Case B recombination</a></li>
-    <li class="backlink-item-wrap"><a href="./Optically%20thin%20recombination%20lines.html" class="backlink-item">Optically thin recombination lines</a></li>
   </ul>
 </div>
+

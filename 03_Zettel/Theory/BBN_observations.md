@@ -2,7 +2,6 @@
 layout: "default"
 title: "BBN_observations"
 ---
-{% raw %}
 measuring the BBN abundances observationally is harder than computing them theoretically. uncertainties in the **observed** abundances can be larger than the theoretical predictions, because what we observe today is the abundance in selected astrophysical sites, where non-primordial processes (stellar production, destruction) might have altered things.
 
 so for each light element, we have to think carefully about whether we are measuring something close to the primordial abundance or something contaminated by stellar processing.
@@ -115,26 +114,26 @@ remarkably consistent with the prediction of $\sim 25\%$.
 
 D/H gives the **cleanest** measurement of $\eta$. $^4$He confirms the n/p physics. $^3$He and $^7$Li provide cross-checks (with the lithium problem outstanding).
 
-→ the final concordance check is comparing $\eta$ from BBN with $\eta$ from CMB peaks: see [BBN_concordance_with_CMB](./BBN_concordance_with_CMB.html).
+→ the final concordance check is comparing $\eta$ from BBN with $\eta$ from CMB peaks: see [BBN_concordance_with_CMB](BBN_concordance_with_CMB.html).
 
 ---
 
 ## see also
 
 - [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [BBN_overview](./BBN_overview.html)
-- [BBN_predictions](./BBN_predictions.html)
-- [BBN_concordance_with_CMB](./BBN_concordance_with_CMB.html)
-- [Cosmic_inventory_baryons](./Cosmic_inventory_baryons.html)
-{% endraw %}
+- [BBN_overview](BBN_overview.html)
+- [BBN_predictions](BBN_predictions.html)
+- [BBN_concordance_with_CMB](BBN_concordance_with_CMB.html)
+- [Cosmic_inventory_baryons](Cosmic_inventory_baryons.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./BBN_concordance_with_CMB.html" class="backlink-item">BBN_concordance_with_CMB</a></li>
-    <li class="backlink-item-wrap"><a href="./BBN_predictions.html" class="backlink-item">BBN_predictions</a></li>
-    <li class="backlink-item-wrap"><a href="./BBN_three_steps.html" class="backlink-item">BBN_three_steps</a></li>
-    <li class="backlink-item-wrap"><a href="./Big%20Bang%20nucleosynthesis.html" class="backlink-item">Big Bang nucleosynthesis</a></li>
+    <li class="backlink-item-wrap"><a href="BBN_concordance_with_CMB.html" class="backlink-item">BBN_concordance_with_CMB</a></li>
+    <li class="backlink-item-wrap"><a href="BBN_predictions.html" class="backlink-item">BBN_predictions</a></li>
+    <li class="backlink-item-wrap"><a href="BBN_three_steps.html" class="backlink-item">BBN_three_steps</a></li>
+    <li class="backlink-item-wrap"><a href="Big%20Bang%20nucleosynthesis.html" class="backlink-item">Big Bang nucleosynthesis</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
   </ul>
 </div>
+

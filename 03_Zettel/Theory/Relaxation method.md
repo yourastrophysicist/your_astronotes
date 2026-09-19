@@ -2,7 +2,6 @@
 layout: "default"
 title: "Relaxation method"
 ---
-{% raw %}
 # Relaxation method
 
 a fixed-point root finder. recast $f(x) = 0$ as $x = g(x)$ and iterate
@@ -89,20 +88,20 @@ this damps the oscillations and converges where vanilla relaxation diverges.
 
 ## see also
 
-- [Bisection method](./Bisection%20method.html)
-- [Newton-Raphson method](./Newton-Raphson%20method.html)
-- [Gauss-Seidel iteration](./Gauss-Seidel%20iteration.html)
-- [Overrelaxation](./Overrelaxation.html)
+- [Bisection method](Bisection%20method.html)
+- [Newton-Raphson method](Newton-Raphson%20method.html)
+- [Gauss-Seidel iteration](Gauss-Seidel%20iteration.html)
+- [Overrelaxation](Overrelaxation.html)
 - [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Bisection%20method.html" class="backlink-item">Bisection method</a></li>
-    <li class="backlink-item-wrap"><a href="./Choosing%20a%20root%20finder.html" class="backlink-item">Choosing a root finder</a></li>
+    <li class="backlink-item-wrap"><a href="Bisection%20method.html" class="backlink-item">Bisection method</a></li>
+    <li class="backlink-item-wrap"><a href="Choosing%20a%20root%20finder.html" class="backlink-item">Choosing a root finder</a></li>
+    <li class="backlink-item-wrap"><a href="Newton-Raphson%20method.html" class="backlink-item">Newton-Raphson method</a></li>
+    <li class="backlink-item-wrap"><a href="Overrelaxation.html" class="backlink-item">Overrelaxation</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Newton-Raphson%20method.html" class="backlink-item">Newton-Raphson method</a></li>
-    <li class="backlink-item-wrap"><a href="./Overrelaxation.html" class="backlink-item">Overrelaxation</a></li>
   </ul>
 </div>
+

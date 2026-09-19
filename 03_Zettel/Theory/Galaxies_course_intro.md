@@ -2,7 +2,6 @@
 layout: "default"
 title: "Galaxies_course_intro"
 ---
-{% raw %}
 the **Astrophysics of Galaxies** course at U Padova, AY 2025/2026, second semester (24 Feb to 20 May). taught Cassata + Morelli + others. exam: **Monday 6 July 2026**.
 
 ## what this course is
@@ -55,7 +54,6 @@ what students should be able to defend by exam day:
 - [Astronomical_Spectroscopy_MOC](../../04_Atlas/Astronomical_Spectroscopy_MOC.html)
 - [Pablo_02_Statistical_properties_of_galaxies](../../02_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html)
 - Exams summer 2026 master plan
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (1)</h4>
@@ -63,3 +61,4 @@ what students should be able to defend by exam day:
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
   </ul>
 </div>
+

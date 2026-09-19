@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Photometric redshifts"
-name: "Photometric redshifts"
-description: "Statistical estimation of galaxy redshifts from multi-band broadband photometry by mapping redshifted spectral discontinuities."
 ---
-{% raw %}
 **photometric redshifts (photo-$z$)** are statistical estimates of galaxy redshifts derived from multi-band imaging rather than slit spectroscopy. While astronomical spectroscopy requires tens of minutes to hours per object on 8–10m telescopes, wide-field imaging surveys (such as DES, Vera C. Rubin / LSST, and *Euclid*) image hundreds of millions of galaxies simultaneously. Accurate photo-$z$ techniques are fundamental to cosmic shear weak lensing, large-scale galaxy clustering, and the determination of galaxy luminosity and stellar mass functions.
 
 ---
@@ -79,13 +76,13 @@ photo-$z$ quality is quantified by two standard metrics evaluated against spectr
 
 - [Observational_Astrophysics_MOC](../../04_Atlas/Observational_Astrophysics_MOC.html)
 - [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
-- [SED fitting basics](./SED%20fitting%20basics.html)
-- [Stellar population synthesis](./Stellar%20population%20synthesis.html)
-- [Single stellar population SSP](./Single%20stellar%20population%20SSP.html)
-- [Age-metallicity degeneracy](./Age-metallicity%20degeneracy.html)
-- [Dust attenuation in synthetic populations](./Dust%20attenuation%20in%20synthetic%20populations.html)
-- [Star formation history of a population](./Star%20formation%20history%20of%20a%20population.html)
-- [Stellar mass estimation in unresolved populations](./Stellar%20mass%20estimation%20in%20unresolved%20populations.html)
+- [SED fitting basics](SED%20fitting%20basics.html)
+- [Stellar population synthesis](Stellar%20population%20synthesis.html)
+- [Single stellar population SSP](Single%20stellar%20population%20SSP.html)
+- [Age-metallicity degeneracy](Age-metallicity%20degeneracy.html)
+- [Dust attenuation in synthetic populations](Dust%20attenuation%20in%20synthetic%20populations.html)
+- [Star formation history of a population](Star%20formation%20history%20of%20a%20population.html)
+- [Stellar mass estimation in unresolved populations](Stellar%20mass%20estimation%20in%20unresolved%20populations.html)
 
 ---
 
@@ -105,28 +102,24 @@ photo-$z$ quality is quantified by two standard metrics evaluated against spectr
 
 ![ilbert2005_photoz.png](../../assets/images/ilbert2005_photoz.png)
 *Photometric redshift precision sigma_z / (1 + z) and outlier rates using LePhare template fitting (Ilbert et al. 2005).*
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (18)</h4>
+  <h4 class="backlinks-title">Linked References (14)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Color%20indices.html" class="backlink-item">Color indices</a></li>
+    <li class="backlink-item-wrap"><a href="K-correction.html" class="backlink-item">K-correction</a></li>
+    <li class="backlink-item-wrap"><a href="Multi-object%20spectroscopy%20MOS.html" class="backlink-item">Multi-object spectroscopy MOS</a></li>
+    <li class="backlink-item-wrap"><a href="Photo-z%20biases%20and%20catastrophic%20outliers.html" class="backlink-item">Photo-z biases and catastrophic outliers</a></li>
+    <li class="backlink-item-wrap"><a href="Photometric%20system%20conversion%20and%20color%20terms.html" class="backlink-item">Photometric system conversion and color terms</a></li>
+    <li class="backlink-item-wrap"><a href="Protocluster%20detection%20techniques.html" class="backlink-item">Protocluster detection techniques</a></li>
+    <li class="backlink-item-wrap"><a href="Redshift%20distribution%20of%20flux-limited%20samples.html" class="backlink-item">Redshift distribution of flux-limited samples</a></li>
+    <li class="backlink-item-wrap"><a href="SED%20fitting%20basics.html" class="backlink-item">SED fitting basics</a></li>
+    <li class="backlink-item-wrap"><a href="Spectroscopic%20redshift%20from%20line%20shifts.html" class="backlink-item">Spectroscopic redshift from line shifts</a></li>
+    <li class="backlink-item-wrap"><a href="Surface%20brightness%20dimming.html" class="backlink-item">Surface brightness dimming</a></li>
+    <li class="backlink-item-wrap"><a href="UV%20SFR%20tracer.html" class="backlink-item">UV SFR tracer</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Color%20indices.html" class="backlink-item">Color indices</a></li>
-    <li class="backlink-item-wrap"><a href="./Deep-field%20surveys.html" class="backlink-item">Deep-field surveys</a></li>
-    <li class="backlink-item-wrap"><a href="./K-correction.html" class="backlink-item">K-correction</a></li>
-    <li class="backlink-item-wrap"><a href="./Multi-object%20spectroscopy%20MOS.html" class="backlink-item">Multi-object spectroscopy MOS</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html" class="backlink-item">Pablo_02_Statistical_properties_of_galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Observational_Cosmology/Pablo_05_Galaxies_at_cosmological_distances.html" class="backlink-item">Pablo_05_Galaxies_at_cosmological_distances</a></li>
-    <li class="backlink-item-wrap"><a href="./Photo-z%20biases%20and%20catastrophic%20outliers.html" class="backlink-item">Photo-z biases and catastrophic outliers</a></li>
-    <li class="backlink-item-wrap"><a href="./Photometric%20system%20conversion%20and%20color%20terms.html" class="backlink-item">Photometric system conversion and color terms</a></li>
-    <li class="backlink-item-wrap"><a href="./Protocluster%20detection%20techniques.html" class="backlink-item">Protocluster detection techniques</a></li>
-    <li class="backlink-item-wrap"><a href="./Redshift%20distribution%20of%20flux-limited%20samples.html" class="backlink-item">Redshift distribution of flux-limited samples</a></li>
-    <li class="backlink-item-wrap"><a href="./SDSS%20overview.html" class="backlink-item">SDSS overview</a></li>
-    <li class="backlink-item-wrap"><a href="./SED%20fitting%20basics.html" class="backlink-item">SED fitting basics</a></li>
-    <li class="backlink-item-wrap"><a href="./Spectroscopic%20redshift%20from%20line%20shifts.html" class="backlink-item">Spectroscopic redshift from line shifts</a></li>
-    <li class="backlink-item-wrap"><a href="./Surface%20brightness%20dimming.html" class="backlink-item">Surface brightness dimming</a></li>
-    <li class="backlink-item-wrap"><a href="./UV%20SFR%20tracer.html" class="backlink-item">UV SFR tracer</a></li>
   </ul>
 </div>
+

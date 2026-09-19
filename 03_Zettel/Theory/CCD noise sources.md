@@ -2,7 +2,6 @@
 layout: "default"
 title: "CCD noise sources"
 ---
-{% raw %}
 an exposure produces a count $N$ on a pixel. **four independent sources** contribute to its variance, each Poisson or Gaussian. they are independent, so variances add. understanding which dominates determines exposure planning.
 
 ## the four sources
@@ -16,7 +15,7 @@ irreducible: it is the fundamental quantum-counting noise floor. cannot be lower
 
 ### 2. sky photon noise (Poisson)
 
-the sky background ([Sky brightness](./Sky%20brightness.html)) contributes photons to every pixel:
+the sky background ([Sky brightness](Sky%20brightness.html)) contributes photons to every pixel:
 $$\sigma_{\rm sky}^2 = N_{\rm sky}\quad\text{per pixel}$$
 
 with $N_{\rm sky} = R_{\rm sky}\, t$ where $R_{\rm sky}$ is the sky count rate (e$^-$/s/pixel) for the given filter and site. Poisson, like source noise.
@@ -43,7 +42,7 @@ $$\sigma_{\rm total}^2 = N_* + n_{\rm pix}(N_{\rm sky} + N_d + \sigma_{\rm RN}^2
 where $n_{\rm pix}$ is the number of pixels in the source aperture (the source noise is already integrated over those pixels). the total noise:
 $$\sigma_{\rm total} = \sqrt{N_* + n_{\rm pix}(N_{\rm sky} + N_d + \sigma_{\rm RN}^2)}$$
 
-dividing the source signal by this gives the SNR formula (see [The CCD equation](./The%20CCD%20equation.html)).
+dividing the source signal by this gives the SNR formula (see [The CCD equation](The%20CCD%20equation.html)).
 
 ## smaller secondary contributions
 
@@ -51,7 +50,7 @@ real CCDs have additional small noise contributions, usually subdominant but wor
 - **flat-field error**: imperfect knowledge of pixel-to-pixel response. typical $\sim 0.5\%$ to $1\%$.
 - **digitisation noise**: $\sigma_{\rm dig}^2 \approx (g/\sqrt{12})^2$ from the ADC. usually $\ll \sigma_{\rm RN}$.
 - **shot noise on calibration frames**: bias and dark frames themselves have noise, propagated via subtraction. mitigated by averaging many calibration frames.
-- **CTE losses** (see [CCD readout chain](./CCD%20readout%20chain.html)).
+- **CTE losses** (see [CCD readout chain](CCD%20readout%20chain.html)).
 - **fringing** (red wavelengths): NIR thin films on the CCD interfere with sky lines. removed by sky pattern subtraction.
 - **fixed-pattern noise**: subtle row/column structure, should be calibrated by flats.
 
@@ -62,16 +61,16 @@ depending on which source dominates, SNR scales differently with $t$:
 - **sky-limited** ($N_{\rm sky}$ dominates): SNR $\propto N_*/\sqrt{N_{\rm sky}} \propto \sqrt{t}$.
 - **read-noise-limited** ($\sigma_{\rm RN}^2$ dominates): SNR $\propto N_*/\sigma_{\rm RN} \propto t$.
 
-the regime determines whether to take long single exposures or short stacked ones. see [The CCD equation](./The%20CCD%20equation.html) for the full discussion.
+the regime determines whether to take long single exposures or short stacked ones. see [The CCD equation](The%20CCD%20equation.html) for the full discussion.
 
 ## see also
 
-- [CCD detectors and SNR](./CCD%20detectors%20and%20SNR.html)
-- [The CCD equation](./The%20CCD%20equation.html)
-- [CCD basics](./CCD%20basics.html)
-- [CCD readout chain](./CCD%20readout%20chain.html)
-- [Sky brightness](./Sky%20brightness.html)
-- [Signal-Noise Ratio](./Signal-Noise%20Ratio.html)
+- [CCD detectors and SNR](CCD%20detectors%20and%20SNR.html)
+- [The CCD equation](The%20CCD%20equation.html)
+- [CCD basics](CCD%20basics.html)
+- [CCD readout chain](CCD%20readout%20chain.html)
+- [Sky brightness](Sky%20brightness.html)
+- [Signal-Noise Ratio](Signal-Noise%20Ratio.html)
 
 ---
 
@@ -100,14 +99,14 @@ the regime determines whether to take long single exposures or short stacked one
 
 ![obs_ccd-24.png](../../assets/images/obs_ccd-24.png)
 *Digitization / quantization noise: sigma_q = g / sqrt(12).*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./CCD%20basics.html" class="backlink-item">CCD basics</a></li>
-    <li class="backlink-item-wrap"><a href="./CCD%20readout%20chain.html" class="backlink-item">CCD readout chain</a></li>
+    <li class="backlink-item-wrap"><a href="CCD%20basics.html" class="backlink-item">CCD basics</a></li>
+    <li class="backlink-item-wrap"><a href="CCD%20readout%20chain.html" class="backlink-item">CCD readout chain</a></li>
+    <li class="backlink-item-wrap"><a href="The%20CCD%20equation.html" class="backlink-item">The CCD equation</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./The%20CCD%20equation.html" class="backlink-item">The CCD equation</a></li>
   </ul>
 </div>
+

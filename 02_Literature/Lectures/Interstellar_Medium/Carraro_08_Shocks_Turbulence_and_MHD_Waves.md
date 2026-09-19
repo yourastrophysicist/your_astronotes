@@ -1,13 +1,8 @@
 ---
 layout: "default"
 title: "Carraro_08_Shocks_Turbulence_and_MHD_Waves"
-name: "Carraro 08 - Shocks Turbulence and MHD Waves"
-course: "Astrophysics of the Interstellar Medium"
-lecturer: "Prof. Giovanni Carraro"
-session: "08"
 tags: ""
 ---
-{% raw %}
 # Carraro 08 - Shocks, Turbulence, and MHD Waves
 
 *Course: Astrophysics of the Interstellar Medium, Master in Astrophysics and Cosmology, Università degli Studi di Padova*  
@@ -262,16 +257,14 @@ which mathematically embodies **Alfvén's Flux Freezing Theorem**: magnetic fiel
 
 ![MHD Shock Front Discontinuities](../../../assets/images/ism_shocks_p08.png)
 *Figure ISM-13: Magnetohydrodynamic shock solutions (Fast, Intermediate, Slow, and Switch-on shocks) illustrating magnetic field compression and Alfvénic Mach number transitions.*
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
+  <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Alfven%20and%20magnetosonic%20waves.html" class="backlink-item">Alfven and magnetosonic waves</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html" class="backlink-item">Astrophysics_of_the_Interstellar_Medium_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Carraro_01_Introduction_and_Multi-phase_ISM.html" class="backlink-item">Carraro_01_Introduction_and_Multi-phase_ISM</a></li>
-    <li class="backlink-item-wrap"><a href="./Carraro_07_Interstellar_Magnetic_Fields.html" class="backlink-item">Carraro_07_Interstellar_Magnetic_Fields</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Interstellar%20turbulence%20and%20Kolmogorov%20cascade.html" class="backlink-item">Interstellar turbulence and Kolmogorov cascade</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Rankine-Hugoniot%20shock%20jump%20conditions.html" class="backlink-item">Rankine-Hugoniot shock jump conditions</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html" class="backlink-item">Astrophysics_of_the_Interstellar_Medium_MOC</a></li>
   </ul>
 </div>
+

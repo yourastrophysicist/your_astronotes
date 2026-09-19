@@ -2,7 +2,6 @@
 layout: "default"
 title: "Spectroscopic Te diagnostics"
 ---
-{% raw %}
 a **temperature diagnostic** in nebular spectroscopy is a line ratio sensitive to electron temperature $T_e$. all rely on comparing emission from levels with **different excitation energies**, where the Boltzmann factor doesn't cancel.
 
 ## the canonical diagnostics
@@ -15,7 +14,7 @@ practical: at $T_e = 8000$ K, ratio $\sim 0.005$; at $T_e = 12\,000$ K, $\sim 0.
 
 caveat: $\lambda 4363$ has high $n_c \sim 3 \times 10^7$ cm$^{-3}$. at $n_e > 10^5$, density correction needed.
 
-see [OIII forbidden lines](./OIII%20forbidden%20lines.html) for full discussion.
+see [OIII forbidden lines](OIII%20forbidden%20lines.html) for full discussion.
 
 ### $[NII]\,\lambda 5755/(\lambda 6548 + \lambda 6584)$
 
@@ -53,7 +52,7 @@ direct $T_e$ method: pioneered by Aller, Peimbert, Stasińska. used today for hu
 
 ## the metallicity connection
 
-$T_e$ is **anti-correlated with metallicity** (since metal-line cooling is the dominant cooling mechanism, see [Equilibrium temperature](./Equilibrium%20temperature.html)):
+$T_e$ is **anti-correlated with metallicity** (since metal-line cooling is the dominant cooling mechanism, see [Equilibrium temperature](Equilibrium%20temperature.html)):
 - $\log(O/H) \sim 8.0$ (1/3 solar): $T_e \sim 12\,000$ K.
 - $\log(O/H) \sim 8.7$ (solar): $T_e \sim 8500$ K.
 - $\log(O/H) \sim 7.5$ (very metal-poor): $T_e \sim 18\,000$ K.
@@ -62,29 +61,29 @@ so direct $T_e$ measurement gives metallicity. modern abundance work uses this e
 
 ## see also
 
-- [Forbidden line diagnostics](./Forbidden%20line%20diagnostics.html)
-- [OIII forbidden lines](./OIII%20forbidden%20lines.html)
-- [SII forbidden lines](./SII%20forbidden%20lines.html)
-- [Spectroscopic ne diagnostics](./Spectroscopic%20ne%20diagnostics.html)
-- [Two-level atom](./Two-level%20atom.html)
-- [Critical density](./Critical%20density.html)
-- [Cooling rate in HII regions](./Cooling%20rate%20in%20HII%20regions.html)
-- [Equilibrium temperature](./Equilibrium%20temperature.html)
-- [Metallicity and chemical evolution](./Metallicity%20and%20chemical%20evolution.html)
-{% endraw %}
+- [Forbidden line diagnostics](Forbidden%20line%20diagnostics.html)
+- [OIII forbidden lines](OIII%20forbidden%20lines.html)
+- [SII forbidden lines](SII%20forbidden%20lines.html)
+- [Spectroscopic ne diagnostics](Spectroscopic%20ne%20diagnostics.html)
+- [Two-level atom](Two-level%20atom.html)
+- [Critical density](Critical%20density.html)
+- [Cooling rate in HII regions](Cooling%20rate%20in%20HII%20regions.html)
+- [Equilibrium temperature](Equilibrium%20temperature.html)
+- [Metallicity and chemical evolution](Metallicity%20and%20chemical%20evolution.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (10)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Collisional%20excitation%20rate.html" class="backlink-item">Collisional excitation rate</a></li>
+    <li class="backlink-item-wrap"><a href="Critical%20density.html" class="backlink-item">Critical density</a></li>
+    <li class="backlink-item-wrap"><a href="Equilibrium%20temperature.html" class="backlink-item">Equilibrium temperature</a></li>
+    <li class="backlink-item-wrap"><a href="Forbidden%20line%20diagnostics.html" class="backlink-item">Forbidden line diagnostics</a></li>
+    <li class="backlink-item-wrap"><a href="Forbidden%20lines.html" class="backlink-item">Forbidden lines</a></li>
+    <li class="backlink-item-wrap"><a href="Ionisation%20parameter%20and%20ionisation%20state.html" class="backlink-item">Ionisation parameter and ionisation state</a></li>
+    <li class="backlink-item-wrap"><a href="OIII%20forbidden%20lines.html" class="backlink-item">OIII forbidden lines</a></li>
+    <li class="backlink-item-wrap"><a href="Spectroscopic%20ne%20diagnostics.html" class="backlink-item">Spectroscopic ne diagnostics</a></li>
+    <li class="backlink-item-wrap"><a href="Two-level%20atom.html" class="backlink-item">Two-level atom</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Collisional%20excitation%20rate.html" class="backlink-item">Collisional excitation rate</a></li>
-    <li class="backlink-item-wrap"><a href="./Critical%20density.html" class="backlink-item">Critical density</a></li>
-    <li class="backlink-item-wrap"><a href="./Equilibrium%20temperature.html" class="backlink-item">Equilibrium temperature</a></li>
-    <li class="backlink-item-wrap"><a href="./Forbidden%20line%20diagnostics.html" class="backlink-item">Forbidden line diagnostics</a></li>
-    <li class="backlink-item-wrap"><a href="./Forbidden%20lines.html" class="backlink-item">Forbidden lines</a></li>
-    <li class="backlink-item-wrap"><a href="./Ionisation%20parameter%20and%20ionisation%20state.html" class="backlink-item">Ionisation parameter and ionisation state</a></li>
-    <li class="backlink-item-wrap"><a href="./OIII%20forbidden%20lines.html" class="backlink-item">OIII forbidden lines</a></li>
-    <li class="backlink-item-wrap"><a href="./Spectroscopic%20ne%20diagnostics.html" class="backlink-item">Spectroscopic ne diagnostics</a></li>
-    <li class="backlink-item-wrap"><a href="./Two-level%20atom.html" class="backlink-item">Two-level atom</a></li>
   </ul>
 </div>
+

@@ -2,7 +2,6 @@
 layout: "default"
 title: "12_MPI_Distributed_Memory_Programming_with_Python"
 ---
-{% raw %}
 # Lesson 12 – MPI Distributed Memory Programming with Python
 
 *Computational Astrophysics, Prof. Tiziano Zingales*  
@@ -239,14 +238,12 @@ In 3D hydrodynamic simulations (e.g., planet-disk interaction or stellar convect
 
 ![Strong vs Weak Scaling and Amdahl's Law](../../../assets/images/comp_mpi_p15.png)
 *Figure COMP-17: Parallel scaling benchmarks on CloudVeneto HPC clusters. Shows strong scaling limits governed by Amdahl's Law $S(N) = \frac{1}{(1-p) + p/N}$ and weak scaling efficiency dictated by Gustafson's Law.*
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
+  <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./11_Parallel_Computing_Architectures_and_HPC_Scaling.html" class="backlink-item">11_Parallel_Computing_Architectures_and_HPC_Scaling</a></li>
-    <li class="backlink-item-wrap"><a href="./13_CloudVeneto_HPC_Infrastructure_and_OpenStack_Deployment.html" class="backlink-item">13_CloudVeneto_HPC_Infrastructure_and_OpenStack_Deployment</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Computational/MPI%20distributed%20memory%20programming%20with%20mpi4py.html" class="backlink-item">MPI distributed memory programming with mpi4py</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

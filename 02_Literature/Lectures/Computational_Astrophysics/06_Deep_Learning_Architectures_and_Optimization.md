@@ -2,7 +2,6 @@
 layout: "default"
 title: "06_Deep_Learning_Architectures_and_Optimization"
 ---
-{% raw %}
 # Lesson 06 – Deep Learning Architectures and Optimization
 
 *Computational Astrophysics, Prof. Tiziano Zingales*  
@@ -202,15 +201,12 @@ Prof. Zingales and I. Waldmann (2018) developed a deep convolutional GAN framewo
 
 ![Deep Neural Network Architecture and Backpropagation](../../../assets/images/comp_ml_p35.png)
 *Figure COMP-06: Multi-layer perceptron (MLP) and convolutional neural network (CNN) computational graph. Illustrates reverse-mode automatic differentiation (backpropagation) computing $\frac{\partial \mathcal{L}}{\partial W_{ij}}$ via the chain rule.*
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
+  <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./05_Machine_Learning_Foundations_and_Regression_Models.html" class="backlink-item">05_Machine_Learning_Foundations_and_Regression_Models</a></li>
-    <li class="backlink-item-wrap"><a href="./07_Atmospheric_Radiative_Transfer_and_Line_Profiles.html" class="backlink-item">07_Atmospheric_Radiative_Transfer_and_Line_Profiles</a></li>
-    <li class="backlink-item-wrap"><a href="./08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx.html" class="backlink-item">08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Computational/Deep%20neural%20networks%20and%20backpropagation%20for%20astronomical%20spectra.html" class="backlink-item">Deep neural networks and backpropagation for astronomical spectra</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

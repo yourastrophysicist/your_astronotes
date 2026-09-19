@@ -2,7 +2,6 @@
 layout: "default"
 title: "Course_Overview_and_Syllabus"
 ---
-{% raw %}
 # Cosmology of the Early Universe - Course Overview and Syllabus
 
 *Università degli Studi di Padova - Department of Physics and Astronomy "G. Galilei"*  
@@ -101,4 +100,3 @@ The examination is a comprehensive oral exam. Assessment is based on:
 * **Module 7: Exercises and Oral Exam Applications**
   - Full analytical solutions and physical discussion of the 31 problems assigned in `Homework_2025_2026.pdf`
   - Note: [Bartolo_Exam_Exercises_and_Applications_Guide](./Bartolo_Exam_Exercises_and_Applications_Guide.html)
-{% endraw %}

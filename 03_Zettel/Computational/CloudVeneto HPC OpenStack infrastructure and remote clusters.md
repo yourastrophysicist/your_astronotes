@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "CloudVeneto HPC OpenStack infrastructure and remote clusters"
-name: "CloudVeneto HPC OpenStack infrastructure and remote clusters"
-description: "OpenStack cloud infrastructure, SSH ProxyJump bastion architecture, port forwarding, and remote VS Code development"
 ---
-{% raw %}
 CloudVeneto is the regional high-performance computing infrastructure operated collaboratively by INFN Padova/Legnaro and the University of Padova (UniPD) for computationally demanding astrophysical simulations.
 
 ## openstack infrastructure architecture
@@ -54,16 +51,16 @@ interactive development on remote HPC nodes requires forwarding graphical and we
 
 - [Computational_Astrophysics_MOC](../../04_Atlas/Computational_Astrophysics_MOC.html)
 - [13_CloudVeneto_HPC_Infrastructure_and_OpenStack_Deployment](../../02_Literature/Lectures/Computational_Astrophysics/13_CloudVeneto_HPC_Infrastructure_and_OpenStack_Deployment.html)
-- [Linux containers and Docker architecture in astrophysics](./Linux%20containers%20and%20Docker%20architecture%20in%20astrophysics.html)
-- [Parallel computing architectures and Amdahl scaling laws](./Parallel%20computing%20architectures%20and%20Amdahl%20scaling%20laws.html)
-{% endraw %}
+- [Linux containers and Docker architecture in astrophysics](Linux%20containers%20and%20Docker%20architecture%20in%20astrophysics.html)
+- [Parallel computing architectures and Amdahl scaling laws](Parallel%20computing%20architectures%20and%20Amdahl%20scaling%20laws.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Linux%20containers%20and%20Docker%20architecture%20in%20astrophysics.html" class="backlink-item">Linux containers and Docker architecture in astrophysics</a></li>
+    <li class="backlink-item-wrap"><a href="MPI%20distributed%20memory%20programming%20with%20mpi4py.html" class="backlink-item">MPI distributed memory programming with mpi4py</a></li>
+    <li class="backlink-item-wrap"><a href="Parallel%20computing%20architectures%20and%20Amdahl%20scaling%20laws.html" class="backlink-item">Parallel computing architectures and Amdahl scaling laws</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Linux%20containers%20and%20Docker%20architecture%20in%20astrophysics.html" class="backlink-item">Linux containers and Docker architecture in astrophysics</a></li>
-    <li class="backlink-item-wrap"><a href="./MPI%20distributed%20memory%20programming%20with%20mpi4py.html" class="backlink-item">MPI distributed memory programming with mpi4py</a></li>
-    <li class="backlink-item-wrap"><a href="./Parallel%20computing%20architectures%20and%20Amdahl%20scaling%20laws.html" class="backlink-item">Parallel computing architectures and Amdahl scaling laws</a></li>
   </ul>
 </div>
+

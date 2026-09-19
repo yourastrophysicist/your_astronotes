@@ -2,7 +2,6 @@
 layout: "default"
 title: "PSF photometry"
 ---
-{% raw %}
 **PSF photometry** fits a model of the point-spread function to each source's pixel data, optimally weighting pixels and naturally handling source blending. essential for crowded fields where aperture photometry fails.
 
 ## the idea
@@ -61,12 +60,12 @@ with a well-constrained PSF, the SNR per source improves over aperture photometr
 
 ## see also
 
-- [Aperture photometry](./Aperture%20photometry.html)
-- [Point Spread Function (PSF)](./Point%20Spread%20Function%20%28PSF%29.html)
-- [The CCD equation](./The%20CCD%20equation.html)
-- [CCD calibration steps](./CCD%20calibration%20steps.html)
-- [Color-magnitude diagrams of clusters](./Color-magnitude%20diagrams%20of%20clusters.html)
-- [Photometric standard stars](./Photometric%20standard%20stars.html)
+- [Aperture photometry](Aperture%20photometry.html)
+- [Point Spread Function (PSF)](Point%20Spread%20Function%20%28PSF%29.html)
+- [The CCD equation](The%20CCD%20equation.html)
+- [CCD calibration steps](CCD%20calibration%20steps.html)
+- [Color-magnitude diagrams of clusters](Color-magnitude%20diagrams%20of%20clusters.html)
+- [Photometric standard stars](Photometric%20standard%20stars.html)
 
 ---
 
@@ -77,18 +76,18 @@ with a well-constrained PSF, the SNR per source improves over aperture photometr
 
 ![obs_ccd-34.png](../../assets/images/obs_ccd-34.png)
 *Mathematical PSF models (Gaussian, Moffat, empirical lookup tables).*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (8)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Aperture%20photometry.html" class="backlink-item">Aperture photometry</a></li>
-    <li class="backlink-item-wrap"><a href="./CCD%20detectors%20and%20SNR.html" class="backlink-item">CCD detectors and SNR</a></li>
-    <li class="backlink-item-wrap"><a href="./Linearity%20and%20saturation.html" class="backlink-item">Linearity and saturation</a></li>
+    <li class="backlink-item-wrap"><a href="Aperture%20photometry.html" class="backlink-item">Aperture photometry</a></li>
+    <li class="backlink-item-wrap"><a href="CCD%20detectors%20and%20SNR.html" class="backlink-item">CCD detectors and SNR</a></li>
+    <li class="backlink-item-wrap"><a href="Linearity%20and%20saturation.html" class="backlink-item">Linearity and saturation</a></li>
+    <li class="backlink-item-wrap"><a href="Python%20and%20IRAF%20tools%20for%20photometry.html" class="backlink-item">Python and IRAF tools for photometry</a></li>
+    <li class="backlink-item-wrap"><a href="Sersic%20profile.html" class="backlink-item">Sersic profile</a></li>
+    <li class="backlink-item-wrap"><a href="Spectrum%20reduction%20pipeline.html" class="backlink-item">Spectrum reduction pipeline</a></li>
+    <li class="backlink-item-wrap"><a href="The%20CCD%20equation.html" class="backlink-item">The CCD equation</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Python%20and%20IRAF%20tools%20for%20photometry.html" class="backlink-item">Python and IRAF tools for photometry</a></li>
-    <li class="backlink-item-wrap"><a href="./Sersic%20profile.html" class="backlink-item">Sersic profile</a></li>
-    <li class="backlink-item-wrap"><a href="./Spectrum%20reduction%20pipeline.html" class="backlink-item">Spectrum reduction pipeline</a></li>
-    <li class="backlink-item-wrap"><a href="./The%20CCD%20equation.html" class="backlink-item">The CCD equation</a></li>
   </ul>
 </div>
+

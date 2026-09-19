@@ -2,7 +2,6 @@
 layout: "default"
 title: "Matrix inverse via linear systems"
 ---
-{% raw %}
 # Matrix inverse via linear systems
 
 the right way to compute $A^{-1}$ when I actually need it: solve $AX = I$ column by column, never use cofactor expansion or any direct inversion formula. and most of the time, **I don't need $A^{-1}$ at all** — I need $A^{-1}\mathbf{b}$, which is just `np.linalg.solve(A, b)`.
@@ -82,12 +81,11 @@ for full-rank tall $A$ ($M > N$), $A^+ = (A^T A)^{-1} A^T$, and $A^+ \mathbf{b}$
 
 ## see also
 
-- [Gauss elimination](./Gauss%20elimination.html)
-- [LU decomposition](./LU%20decomposition.html)
-- [Pros and cons of linear solvers](./Pros%20and%20cons%20of%20linear%20solvers.html)
-- [Linear least squares](./Linear%20least%20squares.html)
+- [Gauss elimination](Gauss%20elimination.html)
+- [LU decomposition](LU%20decomposition.html)
+- [Pros and cons of linear solvers](Pros%20and%20cons%20of%20linear%20solvers.html)
+- [Linear least squares](Linear%20least%20squares.html)
 - [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (1)</h4>
@@ -95,3 +93,4 @@ for full-rank tall $A$ ($M > N$), $A^+ = (A^T A)^{-1} A^T$, and $A^+ \mathbf{b}$
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
   </ul>
 </div>
+

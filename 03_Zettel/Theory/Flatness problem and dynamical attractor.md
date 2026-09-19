@@ -2,7 +2,6 @@
 layout: "default"
 title: "Flatness problem and dynamical attractor"
 ---
-{% raw %}
 # Flatness problem and dynamical attractor
 
 > *why the universe today is spatially flat to within 0.5%, and how inflation transforms an unstable fine-tuning into a dynamical attractor.*
@@ -45,18 +44,17 @@ $$\frac{d\Omega_k}{d\ln a} = \Omega_k \Omega (1 + 3w) = \Omega_k (1 - \Omega_k)(
 
 * parent moc: [Cosmology_of_the_Early_Universe_MOC](../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html)
 * related zettels:
-  - [Horizon problem and causal structure](./Horizon%20problem%20and%20causal%20structure.html)
-  - [Single-field slow-roll inflation dynamics](./Single-field%20slow-roll%20inflation%20dynamics.html)
-  - [Number of e-folds and horizon exit](./Number%20of%20e-folds%20and%20horizon%20exit.html)
+  - [Horizon problem and causal structure](Horizon%20problem%20and%20causal%20structure.html)
+  - [Single-field slow-roll inflation dynamics](Single-field%20slow-roll%20inflation%20dynamics.html)
+  - [Number of e-folds and horizon exit](Number%20of%20e-folds%20and%20horizon%20exit.html)
   - [Part1_Standard_Big_Bang_and_Shortcomings](../../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part1_Standard_Big_Bang_and_Shortcomings.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
+  <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Cosmic%20relics%20and%20Kibble%20mechanism.html" class="backlink-item">Cosmic relics and Kibble mechanism</a></li>
+    <li class="backlink-item-wrap"><a href="Cosmic%20relics%20and%20Kibble%20mechanism.html" class="backlink-item">Cosmic relics and Kibble mechanism</a></li>
+    <li class="backlink-item-wrap"><a href="Horizon%20problem%20and%20causal%20structure.html" class="backlink-item">Horizon problem and causal structure</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html" class="backlink-item">Cosmology_of_the_Early_Universe_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Horizon%20problem%20and%20causal%20structure.html" class="backlink-item">Horizon problem and causal structure</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part1_Standard_Big_Bang_and_Shortcomings.html" class="backlink-item">Part1_Standard_Big_Bang_and_Shortcomings</a></li>
   </ul>
 </div>
+

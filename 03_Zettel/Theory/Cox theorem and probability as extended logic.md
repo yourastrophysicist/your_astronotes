@@ -2,7 +2,6 @@
 layout: "default"
 title: "Cox theorem and probability as extended logic"
 ---
-{% raw %}
 # Cox theorem and probability as extended logic
 
 Richard T. Cox (1946) established that probability theory is the unique mathematical extension of Aristotelian deductive logic to conditions of uncertainty. Rather than defining probability as the empirical frequency of events in repeated trials (which breaks down for non-repeatable systems such as our single cosmological realization), Cox formulated the problem constructively from three epistemological desiderata:
@@ -46,14 +45,14 @@ $$P(\theta \mid D, I) = \frac{P(D \mid \theta, I) P(\theta \mid I)}{P(D \mid I)}
 ## See Also
 - [Astro-Statistics_and_Cosmology_MOC](../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html)
 - [01_Plausible_Reasoning_Cox_Theorem_and_Bayesian_Foundations](../../02_Literature/Lectures/Astrostatistics/01_Plausible_Reasoning_Cox_Theorem_and_Bayesian_Foundations.html)
-- [Maximum likelihood versus maximum a posteriori estimation](./Maximum%20likelihood%20versus%20maximum%20a%20posteriori%20estimation.html)
-- [Frequentist confidence intervals versus Bayesian credible regions](./Frequentist%20confidence%20intervals%20versus%20Bayesian%20credible%20regions.html)
-{% endraw %}
+- [Maximum likelihood versus maximum a posteriori estimation](Maximum%20likelihood%20versus%20maximum%20a%20posteriori%20estimation.html)
+- [Frequentist confidence intervals versus Bayesian credible regions](Frequentist%20confidence%20intervals%20versus%20Bayesian%20credible%20regions.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Frequentist%20confidence%20intervals%20versus%20Bayesian%20credible%20regions.html" class="backlink-item">Frequentist confidence intervals versus Bayesian credible regions</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Frequentist%20confidence%20intervals%20versus%20Bayesian%20credible%20regions.html" class="backlink-item">Frequentist confidence intervals versus Bayesian credible regions</a></li>
   </ul>
 </div>
+

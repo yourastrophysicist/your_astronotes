@@ -2,7 +2,6 @@
 layout: "default"
 title: "Appendix C - Telescope configurations"
 ---
-{% raw %}
 ## Newton telescope
 
 The **Newton** telescope uses:
@@ -77,7 +76,6 @@ Examples:
 | Newton | Paraboloid | Flat (45°) | 0 | Yes |
 | Cassegrain | Paraboloid | Hyperboloid (convex) | 0 | Yes |
 | Ritchey-Chrétien | Hyperboloid | Hyperboloid (convex) | 0 | No |
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (1)</h4>
@@ -85,3 +83,4 @@ Examples:
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
   </ul>
 </div>
+

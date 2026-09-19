@@ -2,7 +2,6 @@
 layout: "default"
 title: "Runge-Kutta 4 method"
 ---
-{% raw %}
 # Runge-Kutta 4 method
 
 the workhorse general-purpose ODE integrator. four function evaluations per step, fourth-order accuracy ($O(h^4)$ global), no special structure assumed. when in doubt, RK4.
@@ -71,13 +70,13 @@ RK4 with a fixed step is easier to write from scratch (and required by some exam
 
 ## limitations of RK4
 
-- **not symplectic**: for Hamiltonian systems, RK4 has a small but non-zero energy drift. for integrations of $\sim 100$ orbital periods this is fine; for $\sim 10^9$ periods (like solar-system N-body), it is fatal. use [Leapfrog integrator](./Leapfrog%20integrator.html) or symplectic Hermite instead
+- **not symplectic**: for Hamiltonian systems, RK4 has a small but non-zero energy drift. for integrations of $\sim 100$ orbital periods this is fine; for $\sim 10^9$ periods (like solar-system N-body), it is fatal. use [Leapfrog integrator](Leapfrog%20integrator.html) or symplectic Hermite instead
 - **wasted work for stiff problems**: stability constraint forces small $h$, drowning the high-order accuracy. use implicit methods (BDF, Radau)
 - **fixed cost per step**: an adaptive scheme can use larger $h$ in smooth regions and smaller $h$ near close encounters, getting the same accuracy at lower total cost
 
 ## error estimation by step doubling
 
-even without an embedded estimator, I can estimate the local error by running RK4 once with step $h$ and once with step $h/2$ (twice). the difference is approximately $15 \times \text{error}_{h/2}$ (since error scales as $h^4$ and $(h/2)^4 = h^4/16$). this Richardson-extrapolation idea generalizes to [Bulirsch-Stoer extrapolation](./Bulirsch-Stoer%20extrapolation.html).
+even without an embedded estimator, I can estimate the local error by running RK4 once with step $h$ and once with step $h/2$ (twice). the difference is approximately $15 \times \text{error}_{h/2}$ (since error scales as $h^4$ and $(h/2)^4 = h^4/16$). this Richardson-extrapolation idea generalizes to [Bulirsch-Stoer extrapolation](Bulirsch-Stoer%20extrapolation.html).
 
 ## astrophysics use cases
 
@@ -89,11 +88,11 @@ even without an embedded estimator, I can estimate the local error by running RK
 
 ## see also
 
-- [Euler method](./Euler%20method.html)
-- [Runge-Kutta 2 midpoint method](./Runge-Kutta%202%20midpoint%20method.html)
-- [Leapfrog integrator](./Leapfrog%20integrator.html)
-- [Adaptive step size control](./Adaptive%20step%20size%20control.html)
-- [Bulirsch-Stoer extrapolation](./Bulirsch-Stoer%20extrapolation.html)
+- [Euler method](Euler%20method.html)
+- [Runge-Kutta 2 midpoint method](Runge-Kutta%202%20midpoint%20method.html)
+- [Leapfrog integrator](Leapfrog%20integrator.html)
+- [Adaptive step size control](Adaptive%20step%20size%20control.html)
+- [Bulirsch-Stoer extrapolation](Bulirsch-Stoer%20extrapolation.html)
 - [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
 
 ---
@@ -106,23 +105,23 @@ even without an embedded estimator, I can estimate the local error by running RK
 
 ![mnm_exam_2021_06_24_p1.png](../../assets/images/mnm_exam_2021_06_24_p1.png)
 *Official Exam Paper (24 June 2021): Staging equations and global truncation error scaling $\mathcal{O}(\Delta t^4)$ for gravitational orbits.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (13)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Adaptive%20step%20size%20control.html" class="backlink-item">Adaptive step size control</a></li>
-    <li class="backlink-item-wrap"><a href="./Built-in%20scipy%20integrators.html" class="backlink-item">Built-in scipy integrators</a></li>
-    <li class="backlink-item-wrap"><a href="./Bulirsch-Stoer%20extrapolation.html" class="backlink-item">Bulirsch-Stoer extrapolation</a></li>
-    <li class="backlink-item-wrap"><a href="./Energy%20conservation%20as%20a%20diagnostic.html" class="backlink-item">Energy conservation as a diagnostic</a></li>
-    <li class="backlink-item-wrap"><a href="./Euler%20method.html" class="backlink-item">Euler method</a></li>
-    <li class="backlink-item-wrap"><a href="./Fourth-order%20Hermite%20predictor-corrector.html" class="backlink-item">Fourth-order Hermite predictor-corrector</a></li>
-    <li class="backlink-item-wrap"><a href="./Initial%20value%20vs%20boundary%20value%20problems.html" class="backlink-item">Initial value vs boundary value problems</a></li>
-    <li class="backlink-item-wrap"><a href="./Leapfrog%20integrator.html" class="backlink-item">Leapfrog integrator</a></li>
+    <li class="backlink-item-wrap"><a href="Adaptive%20step%20size%20control.html" class="backlink-item">Adaptive step size control</a></li>
+    <li class="backlink-item-wrap"><a href="Built-in%20scipy%20integrators.html" class="backlink-item">Built-in scipy integrators</a></li>
+    <li class="backlink-item-wrap"><a href="Bulirsch-Stoer%20extrapolation.html" class="backlink-item">Bulirsch-Stoer extrapolation</a></li>
+    <li class="backlink-item-wrap"><a href="Energy%20conservation%20as%20a%20diagnostic.html" class="backlink-item">Energy conservation as a diagnostic</a></li>
+    <li class="backlink-item-wrap"><a href="Euler%20method.html" class="backlink-item">Euler method</a></li>
+    <li class="backlink-item-wrap"><a href="Fourth-order%20Hermite%20predictor-corrector.html" class="backlink-item">Fourth-order Hermite predictor-corrector</a></li>
+    <li class="backlink-item-wrap"><a href="Initial%20value%20vs%20boundary%20value%20problems.html" class="backlink-item">Initial value vs boundary value problems</a></li>
+    <li class="backlink-item-wrap"><a href="Leapfrog%20integrator.html" class="backlink-item">Leapfrog integrator</a></li>
+    <li class="backlink-item-wrap"><a href="Modified%20midpoint%20method.html" class="backlink-item">Modified midpoint method</a></li>
+    <li class="backlink-item-wrap"><a href="Runge-Kutta%202%20midpoint%20method.html" class="backlink-item">Runge-Kutta 2 midpoint method</a></li>
+    <li class="backlink-item-wrap"><a href="Shooting%20method.html" class="backlink-item">Shooting method</a></li>
+    <li class="backlink-item-wrap"><a href="Systems%20of%20ODEs%20and%20higher-order%20ODEs.html" class="backlink-item">Systems of ODEs and higher-order ODEs</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Modified%20midpoint%20method.html" class="backlink-item">Modified midpoint method</a></li>
-    <li class="backlink-item-wrap"><a href="./Runge-Kutta%202%20midpoint%20method.html" class="backlink-item">Runge-Kutta 2 midpoint method</a></li>
-    <li class="backlink-item-wrap"><a href="./Shooting%20method.html" class="backlink-item">Shooting method</a></li>
-    <li class="backlink-item-wrap"><a href="./Systems%20of%20ODEs%20and%20higher-order%20ODEs.html" class="backlink-item">Systems of ODEs and higher-order ODEs</a></li>
   </ul>
 </div>
+

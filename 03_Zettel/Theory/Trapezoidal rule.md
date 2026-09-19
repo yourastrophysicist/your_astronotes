@@ -2,7 +2,6 @@
 layout: "default"
 title: "Trapezoidal rule"
 ---
-{% raw %}
 # Trapezoidal rule
 
 the simplest non-trivial quadrature rule. given samples of $f$ at points $x_0 < x_1 < \cdots < x_N$ in $[a, b]$, approximate $\int_a^b f(x)\,dx$ as the sum of trapezoid areas under the piecewise-linear interpolant.
@@ -95,23 +94,23 @@ Romberg integration: combine trapezoidal estimates at different step sizes via R
 
 ## see also
 
-- [Simpson's rule](./Simpson%27s%20rule.html)
-- [Trapezoidal rule error estimate](./Trapezoidal%20rule%20error%20estimate.html)
-- [Monte Carlo integration mean value method](./Monte%20Carlo%20integration%20mean%20value%20method.html)
-- [Truncation error and order of accuracy](./Truncation%20error%20and%20order%20of%20accuracy.html)
+- [Simpson's rule](Simpson%27s%20rule.html)
+- [Trapezoidal rule error estimate](Trapezoidal%20rule%20error%20estimate.html)
+- [Monte Carlo integration mean value method](Monte%20Carlo%20integration%20mean%20value%20method.html)
+- [Truncation error and order of accuracy](Truncation%20error%20and%20order%20of%20accuracy.html)
 - [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (8)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Built-in%20scipy%20integrators.html" class="backlink-item">Built-in scipy integrators</a></li>
-    <li class="backlink-item-wrap"><a href="./Linear%20interpolation.html" class="backlink-item">Linear interpolation</a></li>
+    <li class="backlink-item-wrap"><a href="Built-in%20scipy%20integrators.html" class="backlink-item">Built-in scipy integrators</a></li>
+    <li class="backlink-item-wrap"><a href="Linear%20interpolation.html" class="backlink-item">Linear interpolation</a></li>
+    <li class="backlink-item-wrap"><a href="Monte%20Carlo%20integration%20mean%20value%20method.html" class="backlink-item">Monte Carlo integration mean value method</a></li>
+    <li class="backlink-item-wrap"><a href="Multidimensional%20Monte%20Carlo%20integration.html" class="backlink-item">Multidimensional Monte Carlo integration</a></li>
+    <li class="backlink-item-wrap"><a href="Simpson%27s%20rule.html" class="backlink-item">Simpson's rule</a></li>
+    <li class="backlink-item-wrap"><a href="Trapezoidal%20rule%20error%20estimate.html" class="backlink-item">Trapezoidal rule error estimate</a></li>
+    <li class="backlink-item-wrap"><a href="Truncation%20error%20and%20order%20of%20accuracy.html" class="backlink-item">Truncation error and order of accuracy</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Monte%20Carlo%20integration%20mean%20value%20method.html" class="backlink-item">Monte Carlo integration mean value method</a></li>
-    <li class="backlink-item-wrap"><a href="./Multidimensional%20Monte%20Carlo%20integration.html" class="backlink-item">Multidimensional Monte Carlo integration</a></li>
-    <li class="backlink-item-wrap"><a href="./Simpson%27s%20rule.html" class="backlink-item">Simpson's rule</a></li>
-    <li class="backlink-item-wrap"><a href="./Trapezoidal%20rule%20error%20estimate.html" class="backlink-item">Trapezoidal rule error estimate</a></li>
-    <li class="backlink-item-wrap"><a href="./Truncation%20error%20and%20order%20of%20accuracy.html" class="backlink-item">Truncation error and order of accuracy</a></li>
   </ul>
 </div>
+

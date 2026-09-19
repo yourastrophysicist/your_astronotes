@@ -2,7 +2,6 @@
 layout: "default"
 title: "Specific intensity and flux density"
 ---
-{% raw %}
 # Specific intensity and flux density
 
 BookAI starts the radio side by slowing down the language of radiation. before any antenna or correlator, I need to know what quantity the sky actually has.
@@ -48,7 +47,7 @@ real telescopes do not integrate over the source in an abstract way. they weight
 
 $$T_A \propto \int I(\theta,\phi)P(\theta,\phi)\,d\Omega$$
 
-where $P$ is the beam power pattern. this is why [Beam power pattern of a radio telescope](./Beam%20power%20pattern%20of%20a%20radio%20telescope.html) matters before imaging.
+where $P$ is the beam power pattern. this is why [Beam power pattern of a radio telescope](Beam%20power%20pattern%20of%20a%20radio%20telescope.html) matters before imaging.
 
 ## connection to brightness temperature
 
@@ -84,19 +83,19 @@ source: local study diagram generated from $S_\nu=\int I_\nu P\,d\Omega$.
 
 ## see also
 
-- [Radio astronomy basics](./Radio%20astronomy%20basics.html)
-- [Beam power pattern of a radio telescope](./Beam%20power%20pattern%20of%20a%20radio%20telescope.html)
-- [Van Cittert-Zernike theorem](./Van%20Cittert-Zernike%20theorem.html)
-- [Interferometry equation sheet](./Interferometry%20equation%20sheet.html)
-{% endraw %}
+- [Radio astronomy basics](Radio%20astronomy%20basics.html)
+- [Beam power pattern of a radio telescope](Beam%20power%20pattern%20of%20a%20radio%20telescope.html)
+- [Van Cittert-Zernike theorem](Van%20Cittert-Zernike%20theorem.html)
+- [Interferometry equation sheet](Interferometry%20equation%20sheet.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
     <li class="backlink-item-wrap"><a href="../Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="./Radio%20astronomy%20basics.html" class="backlink-item">Radio astronomy basics</a></li>
     <li class="backlink-item-wrap"><a href="../Radio%20astronomy%20basics.html" class="backlink-item">Radio astronomy basics</a></li>
+    <li class="backlink-item-wrap"><a href="Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
+    <li class="backlink-item-wrap"><a href="Radio%20astronomy%20basics.html" class="backlink-item">Radio astronomy basics</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

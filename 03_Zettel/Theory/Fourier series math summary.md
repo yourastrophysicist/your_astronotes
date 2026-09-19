@@ -2,7 +2,6 @@
 layout: "default"
 title: "Fourier series math summary"
 ---
-{% raw %}
 # Fourier series math summary
 
 the math foundation that the discrete Fourier transform discretizes. every periodic function is a sum of sines and cosines; every "nice enough" non-periodic function is an integral over them.
@@ -90,7 +89,7 @@ discretize $x$ at $N$ uniform points: $x_n = n\Delta t$ for $n = 0, 1, \ldots, N
 
 $$X_k = \sum_{n=0}^{N-1} x_n e^{-2\pi i k n/N}$$
 
-this is the [Discrete Fourier transform](./Discrete%20Fourier%20transform.html). the DFT inherits all the structure (linearity, Parseval, convolution) from its continuous parent.
+this is the [Discrete Fourier transform](Discrete%20Fourier%20transform.html). the DFT inherits all the structure (linearity, Parseval, convolution) from its continuous parent.
 
 ## astrophysics applications
 
@@ -102,21 +101,21 @@ this is the [Discrete Fourier transform](./Discrete%20Fourier%20transform.html).
 
 ## see also
 
-- [Discrete Fourier transform](./Discrete%20Fourier%20transform.html)
-- [Fast Fourier transform algorithm](./Fast%20Fourier%20transform%20algorithm.html)
-- [Physical interpretation of the FFT](./Physical%20interpretation%20of%20the%20FFT.html)
-- [Power spectrum estimation](./Power%20spectrum%20estimation.html)
+- [Discrete Fourier transform](Discrete%20Fourier%20transform.html)
+- [Fast Fourier transform algorithm](Fast%20Fourier%20transform%20algorithm.html)
+- [Physical interpretation of the FFT](Physical%20interpretation%20of%20the%20FFT.html)
+- [Power spectrum estimation](Power%20spectrum%20estimation.html)
 - [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (6)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Discrete%20Fourier%20transform.html" class="backlink-item">Discrete Fourier transform</a></li>
-    <li class="backlink-item-wrap"><a href="./FFT%20in%20scipy%20and%20numpy.html" class="backlink-item">FFT in scipy and numpy</a></li>
-    <li class="backlink-item-wrap"><a href="./Fast%20Fourier%20transform%20algorithm.html" class="backlink-item">Fast Fourier transform algorithm</a></li>
+    <li class="backlink-item-wrap"><a href="Discrete%20Fourier%20transform.html" class="backlink-item">Discrete Fourier transform</a></li>
+    <li class="backlink-item-wrap"><a href="FFT%20in%20scipy%20and%20numpy.html" class="backlink-item">FFT in scipy and numpy</a></li>
+    <li class="backlink-item-wrap"><a href="Fast%20Fourier%20transform%20algorithm.html" class="backlink-item">Fast Fourier transform algorithm</a></li>
+    <li class="backlink-item-wrap"><a href="Physical%20interpretation%20of%20the%20FFT.html" class="backlink-item">Physical interpretation of the FFT</a></li>
+    <li class="backlink-item-wrap"><a href="Power%20spectrum%20estimation.html" class="backlink-item">Power spectrum estimation</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Physical%20interpretation%20of%20the%20FFT.html" class="backlink-item">Physical interpretation of the FFT</a></li>
-    <li class="backlink-item-wrap"><a href="./Power%20spectrum%20estimation.html" class="backlink-item">Power spectrum estimation</a></li>
   </ul>
 </div>
+

@@ -2,7 +2,6 @@
 layout: "default"
 title: "Monte Carlo integration and cursed dimensions"
 ---
-{% raw %}
 # Monte Carlo integration and cursed dimensions
 
 Numerical integration of high-dimensional probability densities is the computational bottleneck of Bayesian inference in cosmology. Standard deterministic quadrature grids collapse due to the curse of dimensionality, making Monte Carlo methods mandatory.
@@ -48,8 +47,7 @@ Importance sampling chooses an analytical proposal $q(x)$ that closely matches t
 - [Astro-Statistics_and_Cosmology_MOC](../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html)
 - [05_Monte_Carlo_Metropolis_Hastings_and_MCMC_Convergence_Diagnostics](../../02_Literature/Lectures/Astrostatistics/05_Monte_Carlo_Metropolis_Hastings_and_MCMC_Convergence_Diagnostics.html)
 - [Metropolis-Hastings algorithm and detailed balance](../Theory/Metropolis-Hastings%20algorithm%20and%20detailed%20balance.html)
-- [Parallel computing architectures and Amdahl scaling laws](./Parallel%20computing%20architectures%20and%20Amdahl%20scaling%20laws.html)
-{% endraw %}
+- [Parallel computing architectures and Amdahl scaling laws](Parallel%20computing%20architectures%20and%20Amdahl%20scaling%20laws.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (1)</h4>
@@ -57,3 +55,4 @@ Importance sampling chooses an analytical proposal $q(x)$ that closely matches t
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
   </ul>
 </div>
+

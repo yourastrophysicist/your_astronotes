@@ -2,8 +2,7 @@
 layout: "default"
 title: "Density parameters"
 ---
-{% raw %}
-**density parameters** $\Omega_X$ are dimensionless ratios of cosmic energy densities to the **critical density**. they parameterise $\Lambda$CDM + are the natural variables in the Friedmann equation. companion: [Density parameters and flatness](./Density%20parameters%20and%20flatness.html).
+**density parameters** $\Omega_X$ are dimensionless ratios of cosmic energy densities to the **critical density**. they parameterise $\Lambda$CDM + are the natural variables in the Friedmann equation. companion: [Density parameters and flatness](Density%20parameters%20and%20flatness.html).
 
 ## the critical density
 
@@ -79,23 +78,23 @@ these are determined to $\sim 1\%$ from Planck CMB peak structure. converting to
 
 ## see also
 
-- [Density parameters and flatness](./Density%20parameters%20and%20flatness.html)
-- [Friedmann equations](./Friedmann%20equations.html)
-- [Spatial curvature parameter k](./Spatial%20curvature%20parameter%20k.html)
-- [ΛCDM current parameters](./%CE%9BCDM%20current%20parameters.html)
-- [Hubble constant and deceleration parameter](./Hubble%20constant%20and%20deceleration%20parameter.html)
-- [Cosmological constant](./Cosmological%20constant.html)
-- [Cosmic_inventory_overview](./Cosmic_inventory_overview.html)
+- [Density parameters and flatness](Density%20parameters%20and%20flatness.html)
+- [Friedmann equations](Friedmann%20equations.html)
+- [Spatial curvature parameter k](Spatial%20curvature%20parameter%20k.html)
+- [ΛCDM current parameters](%CE%9BCDM%20current%20parameters.html)
+- [Hubble constant and deceleration parameter](Hubble%20constant%20and%20deceleration%20parameter.html)
+- [Cosmological constant](Cosmological%20constant.html)
+- [Cosmic_inventory_overview](Cosmic_inventory_overview.html)
 - [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Curvature-dynamics%20relation.html" class="backlink-item">Curvature-dynamics relation</a></li>
-    <li class="backlink-item-wrap"><a href="./Deceleration%20parameter.html" class="backlink-item">Deceleration parameter</a></li>
-    <li class="backlink-item-wrap"><a href="./Matter%20vs%20radiation%20density%20scaling.html" class="backlink-item">Matter vs radiation density scaling</a></li>
-    <li class="backlink-item-wrap"><a href="./Newtonian%20derivation%20of%20Friedmann.html" class="backlink-item">Newtonian derivation of Friedmann</a></li>
+    <li class="backlink-item-wrap"><a href="Curvature-dynamics%20relation.html" class="backlink-item">Curvature-dynamics relation</a></li>
+    <li class="backlink-item-wrap"><a href="Deceleration%20parameter.html" class="backlink-item">Deceleration parameter</a></li>
+    <li class="backlink-item-wrap"><a href="Matter%20vs%20radiation%20density%20scaling.html" class="backlink-item">Matter vs radiation density scaling</a></li>
+    <li class="backlink-item-wrap"><a href="Newtonian%20derivation%20of%20Friedmann.html" class="backlink-item">Newtonian derivation of Friedmann</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
   </ul>
 </div>
+

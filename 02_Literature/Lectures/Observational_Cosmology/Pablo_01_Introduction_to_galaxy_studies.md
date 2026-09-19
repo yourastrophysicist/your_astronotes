@@ -2,7 +2,6 @@
 layout: "default"
 title: "Pablo_01_Introduction_to_galaxy_studies"
 ---
-{% raw %}
 # introduction to galaxy studies — Pablo Pérez-González, lecture 0
 
 *visiting professor, Observational Cosmology A.Y. 2024/2025, block: 31 March – 3 April*
@@ -172,12 +171,11 @@ next lecture will be where pablo gets technical — morphology, luminosity funct
 - **CMB** — penzias & wilson 1965
 - **dark matter** — zwicky 1937, rubin 1974
 - **dark energy** — perlmutter/schmidt/riess, supernova cosmology, nobel 2011
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
+  <h4 class="backlinks-title">Linked References (1)</h4>
   <ul class="backlinks-list">
     <li class="backlink-item-wrap"><a href="../../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Pablo_02_Statistical_properties_of_galaxies.html" class="backlink-item">Pablo_02_Statistical_properties_of_galaxies</a></li>
   </ul>
 </div>
+

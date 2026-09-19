@@ -2,7 +2,6 @@
 layout: "default"
 title: "Energy conservation as a diagnostic"
 ---
-{% raw %}
 # Energy conservation as a diagnostic
 
 for any Hamiltonian system (an N-body simulation, a Kepler orbit, an oscillator), the total energy $E$ is constant. an integrator that fails to conserve $E$ is producing non-physical solutions. so I track $E(t)$ as the canonical quality diagnostic for *every* dynamical simulation.
@@ -81,7 +80,7 @@ three signatures of a bad-or-too-large-timestep integration:
 
 1. **steady drift** in $\Delta E/E$ — non-symplectic integrator at moderate $h$ → use a smaller $h$ or switch to leapfrog
 2. **explosive growth** in $\Delta E/E$ — unstable, e.g. Euler at any $h$ on a Kepler orbit → switch to a higher-order method
-3. **sudden jumps** in $\Delta E/E$ at specific times — close encounter that the timestep cannot resolve → use adaptive timestepping (see [Adaptive step size control](./Adaptive%20step%20size%20control.html))
+3. **sudden jumps** in $\Delta E/E$ at specific times — close encounter that the timestep cannot resolve → use adaptive timestepping (see [Adaptive step size control](Adaptive%20step%20size%20control.html))
 
 case 3 is the most common cause of mysterious-looking energy plots in N-body work. the fix is timestep refinement, not algorithm change.
 
@@ -91,10 +90,10 @@ for a cosmological simulation in an expanding background, energy is *not* conser
 
 ## see also
 
-- [Astrophysical N-body problem formulation](./Astrophysical%20N-body%20problem%20formulation.html)
-- [Leapfrog integrator](./Leapfrog%20integrator.html)
-- [Runge-Kutta 4 method](./Runge-Kutta%204%20method.html)
-- [Adaptive step size control](./Adaptive%20step%20size%20control.html)
+- [Astrophysical N-body problem formulation](Astrophysical%20N-body%20problem%20formulation.html)
+- [Leapfrog integrator](Leapfrog%20integrator.html)
+- [Runge-Kutta 4 method](Runge-Kutta%204%20method.html)
+- [Adaptive step size control](Adaptive%20step%20size%20control.html)
 - [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
 
 ---
@@ -107,21 +106,21 @@ for a cosmological simulation in an expanding background, energy is *not* conser
 
 ![mapelli_fig05_p45.png](../../assets/images/mapelli_fig05_p10.png)
 *Energy error growth $\Delta E/E$ vs integration time for non-symplectic Euler and RK4 vs symplectic Leapfrog.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (11)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Astrophysical%20N-body%20problem%20formulation.html" class="backlink-item">Astrophysical N-body problem formulation</a></li>
-    <li class="backlink-item-wrap"><a href="./Collisional%20vs%20collisionless%20N-body.html" class="backlink-item">Collisional vs collisionless N-body</a></li>
-    <li class="backlink-item-wrap"><a href="./Euler%20method.html" class="backlink-item">Euler method</a></li>
-    <li class="backlink-item-wrap"><a href="./Fourth-order%20Hermite%20predictor-corrector.html" class="backlink-item">Fourth-order Hermite predictor-corrector</a></li>
-    <li class="backlink-item-wrap"><a href="./Hint%20-%20TODO%204.3%20Energy%20Conservation%20Diagnostic.html" class="backlink-item">Hint - TODO 4.3 Energy Conservation Diagnostic</a></li>
-    <li class="backlink-item-wrap"><a href="./Leapfrog%20integrator.html" class="backlink-item">Leapfrog integrator</a></li>
+    <li class="backlink-item-wrap"><a href="Astrophysical%20N-body%20problem%20formulation.html" class="backlink-item">Astrophysical N-body problem formulation</a></li>
+    <li class="backlink-item-wrap"><a href="Collisional%20vs%20collisionless%20N-body.html" class="backlink-item">Collisional vs collisionless N-body</a></li>
+    <li class="backlink-item-wrap"><a href="Euler%20method.html" class="backlink-item">Euler method</a></li>
+    <li class="backlink-item-wrap"><a href="Fourth-order%20Hermite%20predictor-corrector.html" class="backlink-item">Fourth-order Hermite predictor-corrector</a></li>
+    <li class="backlink-item-wrap"><a href="Hint%20-%20TODO%204.3%20Energy%20Conservation%20Diagnostic.html" class="backlink-item">Hint - TODO 4.3 Energy Conservation Diagnostic</a></li>
+    <li class="backlink-item-wrap"><a href="Leapfrog%20integrator.html" class="backlink-item">Leapfrog integrator</a></li>
+    <li class="backlink-item-wrap"><a href="N-body%20with%20Euler%20vs%20midpoint%20vs%20leapfrog.html" class="backlink-item">N-body with Euler vs midpoint vs leapfrog</a></li>
+    <li class="backlink-item-wrap"><a href="Runge-Kutta%202%20midpoint%20method.html" class="backlink-item">Runge-Kutta 2 midpoint method</a></li>
+    <li class="backlink-item-wrap"><a href="Systems%20of%20ODEs%20and%20higher-order%20ODEs.html" class="backlink-item">Systems of ODEs and higher-order ODEs</a></li>
+    <li class="backlink-item-wrap"><a href="The%20Pythagorean%20three-body%20problem.html" class="backlink-item">The Pythagorean three-body problem</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./N-body%20with%20Euler%20vs%20midpoint%20vs%20leapfrog.html" class="backlink-item">N-body with Euler vs midpoint vs leapfrog</a></li>
-    <li class="backlink-item-wrap"><a href="./Runge-Kutta%202%20midpoint%20method.html" class="backlink-item">Runge-Kutta 2 midpoint method</a></li>
-    <li class="backlink-item-wrap"><a href="./Systems%20of%20ODEs%20and%20higher-order%20ODEs.html" class="backlink-item">Systems of ODEs and higher-order ODEs</a></li>
-    <li class="backlink-item-wrap"><a href="./The%20Pythagorean%20three-body%20problem.html" class="backlink-item">The Pythagorean three-body problem</a></li>
   </ul>
 </div>
+

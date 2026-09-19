@@ -2,7 +2,6 @@
 layout: "default"
 title: "BBN_three_steps"
 ---
-{% raw %}
 primordial nucleosynthesis happens in three rough steps, each at a different temperature regime. tracking the abundances through them gives us the final BBN predictions.
 
 ---
@@ -28,7 +27,7 @@ so essentially nothing has happened yet — but the conditions are set.
 
 this is where the action happens.
 
-just before this, **neutrinos decouple** from the plasma when $\Gamma_w \sim H$ (see [Decoupling and freeze-out](./Decoupling%20and%20freeze-out.html)).
+just before this, **neutrinos decouple** from the plasma when $\Gamma_w \sim H$ (see [Decoupling and freeze-out](Decoupling%20and%20freeze-out.html)).
 
 at $T \sim m_e/3 \sim 0.5$ MeV, **electrons and positrons annihilate**, transferring their entropy to photons but not to the (already decoupled) neutrinos. this raises the photon temperature relative to the neutrino temperature by:
 $$\frac{T_\gamma}{T_\nu} = \left(\frac{11}{4}\right)^{1/3} \approx 1.4$$
@@ -36,7 +35,7 @@ $$\frac{T_\gamma}{T_\nu} = \left(\frac{11}{4}\right)^{1/3} \approx 1.4$$
 at around the same epoch ($T \sim 1$ MeV), weak interactions interconverting n and p **freeze out** — $\Gamma_w$ becomes inefficient relative to $H$ — so the n/p ratio gets frozen at approximately its equilibrium value at $T_F \sim 0.8$ MeV:
 $$\left(\frac{n}{p}\right)_{\rm freeze-out} = e^{-Q/T_F} = e^{-1.293/0.8} \approx \frac{1}{6}$$
 
-→ see [BBN_neutron_proton_ratio](./BBN_neutron_proton_ratio.html).
+→ see [BBN_neutron_proton_ratio](BBN_neutron_proton_ratio.html).
 
 ![bbn-24.png](../../assets/images/bbn-24.png)
 
@@ -104,7 +103,7 @@ via two channels:
 - for $\eta < 3 \times 10^{-10}$: $^4\text{He} + ^3\text{H} \to ^7\text{Li} + \gamma$
 - for $\eta > 3 \times 10^{-10}$: $^4\text{He} + ^3\text{He} \to ^7\text{Be} + \gamma$, then $\beta$-decay $^7\text{Be} \to ^7\text{Li}$
 
-→ see [BBN_predictions](./BBN_predictions.html).
+→ see [BBN_predictions](BBN_predictions.html).
 
 ![bbn-30.png](../../assets/images/bbn-30.png)
 
@@ -125,20 +124,20 @@ via two channels:
 ## see also
 
 - [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [BBN_overview](./BBN_overview.html)
-- [BBN_NSE_initial_conditions](./BBN_NSE_initial_conditions.html)
-- [BBN_neutron_proton_ratio](./BBN_neutron_proton_ratio.html)
-- [BBN_baryon_to_photon_ratio](./BBN_baryon_to_photon_ratio.html)
-- [BBN_predictions](./BBN_predictions.html)
-- [BBN_observations](./BBN_observations.html)
-{% endraw %}
+- [BBN_overview](BBN_overview.html)
+- [BBN_NSE_initial_conditions](BBN_NSE_initial_conditions.html)
+- [BBN_neutron_proton_ratio](BBN_neutron_proton_ratio.html)
+- [BBN_baryon_to_photon_ratio](BBN_baryon_to_photon_ratio.html)
+- [BBN_predictions](BBN_predictions.html)
+- [BBN_observations](BBN_observations.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./BBN_neutron_proton_ratio.html" class="backlink-item">BBN_neutron_proton_ratio</a></li>
-    <li class="backlink-item-wrap"><a href="./BBN_predictions.html" class="backlink-item">BBN_predictions</a></li>
-    <li class="backlink-item-wrap"><a href="./Big%20Bang%20nucleosynthesis.html" class="backlink-item">Big Bang nucleosynthesis</a></li>
+    <li class="backlink-item-wrap"><a href="BBN_neutron_proton_ratio.html" class="backlink-item">BBN_neutron_proton_ratio</a></li>
+    <li class="backlink-item-wrap"><a href="BBN_predictions.html" class="backlink-item">BBN_predictions</a></li>
+    <li class="backlink-item-wrap"><a href="Big%20Bang%20nucleosynthesis.html" class="backlink-item">Big Bang nucleosynthesis</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
   </ul>
 </div>
+

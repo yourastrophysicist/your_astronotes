@@ -1,13 +1,10 @@
 ---
 layout: "default"
 title: "Millisecond pulsars in GCs"
-name: "Millisecond pulsars in GCs"
-description: "recycled neutron stars spun up by accretion, abundant in dense globular cluster cores like Terzan 5"
 ---
-{% raw %}
-millisecond pulsars (MSPs) are old neutron stars that have been "recycled": spun up to spin periods $P \sim 1\text{--}10\,\text{ms}$ and reduced surface magnetic fields $B \sim 10^8\text{--}10^9\,\text{G}$ by sustained accretion from a binary companion. the recycling scenario, proposed by alpar et al. and radhakrishnan & srinivasan in 1982, predicts that MSPs are the descendants of [low-mass X-ray binaries](./X-ray%20sources%20in%20globular%20clusters.html) (LMXBs).
+millisecond pulsars (MSPs) are old neutron stars that have been "recycled": spun up to spin periods $P \sim 1\text{--}10\,\text{ms}$ and reduced surface magnetic fields $B \sim 10^8\text{--}10^9\,\text{G}$ by sustained accretion from a binary companion. the recycling scenario, proposed by alpar et al. and radhakrishnan & srinivasan in 1982, predicts that MSPs are the descendants of [low-mass X-ray binaries](X-ray%20sources%20in%20globular%20clusters.html) (LMXBs).
 
-[Globular Clusters](./Globular%20Clusters.html) are factories of MSPs. relative to the field, GC cores produce MSPs at $\sim 10^3\text{--}10^4$ times the rate per unit mass. as of the mid-2020s, more than 300 MSPs are known in galactic globular clusters, with **Terzan 5** holding the record at $> 40$ MSPs (more than a quarter of all GC MSPs known) and 47 Tuc hosting $> 25$. the catalogue is maintained by paulo freire and continuously updated.
+[Globular Clusters](Globular%20Clusters.html) are factories of MSPs. relative to the field, GC cores produce MSPs at $\sim 10^3\text{--}10^4$ times the rate per unit mass. as of the mid-2020s, more than 300 MSPs are known in galactic globular clusters, with **Terzan 5** holding the record at $> 40$ MSPs (more than a quarter of all GC MSPs known) and 47 Tuc hosting $> 25$. the catalogue is maintained by paulo freire and continuously updated.
 
 **why GCs are MSP-rich**
 
@@ -32,7 +29,7 @@ isolated MSPs in GCs are also common, formed by mergers, disruption of the compa
 
 MSPs in GCs are uniquely useful:
 
-- **gravitational potential probe**: line-of-sight accelerations of MSPs trace the cluster's central potential and can reveal an [intermediate-mass black hole](./Intermediate-mass%20BHs%20in%20GCs.html).
+- **gravitational potential probe**: line-of-sight accelerations of MSPs trace the cluster's central potential and can reveal an [intermediate-mass black hole](Intermediate-mass%20BHs%20in%20GCs.html).
 - **mass measurements**: relativistic effects (Shapiro delay, periastron advance) in tight MSP binaries yield NS masses, including the heaviest known MSPs ($\sim 2\,M_\odot$, e.g. PSR J0740+6620).
 - **cluster dynamics**: their proper motions test Mass segregation,
 - **gravitational tests**: MSP-WD pairs in GCs constrain alternative gravity theories.
@@ -47,22 +44,22 @@ the production of MSPs in GCs depends on dense-core dynamics, so MSP per unit ma
 
 ## see also
 - [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
-- [X-ray sources in globular clusters](./X-ray%20sources%20in%20globular%20clusters.html)
-- [Cataclysmic variables in clusters](./Cataclysmic%20variables%20in%20clusters.html)
-- [Black holes in globular clusters](./Black%20holes%20in%20globular%20clusters.html)
-- [Intermediate-mass BHs in GCs](./Intermediate-mass%20BHs%20in%20GCs.html)
-{% endraw %}
+- [X-ray sources in globular clusters](X-ray%20sources%20in%20globular%20clusters.html)
+- [Cataclysmic variables in clusters](Cataclysmic%20variables%20in%20clusters.html)
+- [Black holes in globular clusters](Black%20holes%20in%20globular%20clusters.html)
+- [Intermediate-mass BHs in GCs](Intermediate-mass%20BHs%20in%20GCs.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (8)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./BHs%20from%20gravitational%20waves.html" class="backlink-item">BHs from gravitational waves</a></li>
-    <li class="backlink-item-wrap"><a href="./Blue%20stragglers%20in%20star%20clusters.html" class="backlink-item">Blue stragglers in star clusters</a></li>
-    <li class="backlink-item-wrap"><a href="./Cataclysmic%20variables%20in%20clusters.html" class="backlink-item">Cataclysmic variables in clusters</a></li>
-    <li class="backlink-item-wrap"><a href="./Cluster%20binary%20fraction%20methods.html" class="backlink-item">Cluster binary fraction methods</a></li>
-    <li class="backlink-item-wrap"><a href="./Intermediate-mass%20BHs%20in%20GCs.html" class="backlink-item">Intermediate-mass BHs in GCs</a></li>
+    <li class="backlink-item-wrap"><a href="BHs%20from%20gravitational%20waves.html" class="backlink-item">BHs from gravitational waves</a></li>
+    <li class="backlink-item-wrap"><a href="Blue%20stragglers%20in%20star%20clusters.html" class="backlink-item">Blue stragglers in star clusters</a></li>
+    <li class="backlink-item-wrap"><a href="Cataclysmic%20variables%20in%20clusters.html" class="backlink-item">Cataclysmic variables in clusters</a></li>
+    <li class="backlink-item-wrap"><a href="Cluster%20binary%20fraction%20methods.html" class="backlink-item">Cluster binary fraction methods</a></li>
+    <li class="backlink-item-wrap"><a href="Intermediate-mass%20BHs%20in%20GCs.html" class="backlink-item">Intermediate-mass BHs in GCs</a></li>
+    <li class="backlink-item-wrap"><a href="X-ray%20sources%20in%20globular%20clusters.html" class="backlink-item">X-ray sources in globular clusters</a></li>
+    <li class="backlink-item-wrap"><a href="Yellow%20stragglers%20and%20sub-subgiants.html" class="backlink-item">Yellow stragglers and sub-subgiants</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./X-ray%20sources%20in%20globular%20clusters.html" class="backlink-item">X-ray sources in globular clusters</a></li>
-    <li class="backlink-item-wrap"><a href="./Yellow%20stragglers%20and%20sub-subgiants.html" class="backlink-item">Yellow stragglers and sub-subgiants</a></li>
   </ul>
 </div>
+

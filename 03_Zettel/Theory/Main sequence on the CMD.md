@@ -1,11 +1,8 @@
 ---
 layout: "default"
 title: "Main sequence on the CMD"
-name: "Main sequence on the CMD"
-description: "core hydrogen burning, mass-luminosity relation, lifetime scaling, and the ZAMS-to-TAMS evolution"
 ---
-{% raw %}
-the main sequence is the locus, on the [HR diagram](./HR%20diagram.html) or its observational CMD counterpart, where stars spend $\sim 90\%$ of their nuclear-burning life. the defining interior physics is *stable core hydrogen burning*: a star burns H to He in its central regions, and the gravitational pressure of the overlying envelope is balanced by the radiation+gas pressure produced by that burning, in hydrostatic and thermal equilibrium.
+the main sequence is the locus, on the [HR diagram](HR%20diagram.html) or its observational CMD counterpart, where stars spend $\sim 90\%$ of their nuclear-burning life. the defining interior physics is *stable core hydrogen burning*: a star burns H to He in its central regions, and the gravitational pressure of the overlying envelope is balanced by the radiation+gas pressure produced by that burning, in hydrostatic and thermal equilibrium.
 
 two regimes split the MS by the dominant nuclear cycle. for $M \lesssim 1.2 \, M_\odot$ (low-mass MS) hydrogen burns mainly via the **pp chain**, with weak temperature dependence ($\epsilon_\mathrm{pp} \propto T^4$ near $T \sim 10^7$ K). low-mass stars therefore have *radiative cores* and a convective envelope (the convection zone deepens at lower mass; below $\sim 0.35 \, M_\odot$ the star is fully convective). for $M \gtrsim 1.2 \, M_\odot$ (intermediate and high mass) the **CNO cycle** dominates, with $\epsilon_\mathrm{CNO} \propto T^{17}$, the steep temperature dependence forcing a *convective core* and a radiative envelope. the convective core stores fresh fuel via mixing and drives the small "hook" feature near the TO at H exhaustion.
 
@@ -27,20 +24,20 @@ the lower MS ($M \lesssim 0.5 \, M_\odot$) is the longest-lived part of any clus
 
 ## see also
 - [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
-- [HR diagram](./HR%20diagram.html)
-- [Stellar evolutionary phases on the CMD](./Stellar%20evolutionary%20phases%20on%20the%20CMD.html)
-- [Main sequence turn-off as age indicator](./Main%20sequence%20turn-off%20as%20age%20indicator.html)
-- [Color-magnitude diagrams of clusters](./Color-magnitude%20diagrams%20of%20clusters.html)
+- [HR diagram](HR%20diagram.html)
+- [Stellar evolutionary phases on the CMD](Stellar%20evolutionary%20phases%20on%20the%20CMD.html)
+- [Main sequence turn-off as age indicator](Main%20sequence%20turn-off%20as%20age%20indicator.html)
+- [Color-magnitude diagrams of clusters](Color-magnitude%20diagrams%20of%20clusters.html)
 - Distance modulus from CMD
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Main%20sequence%20turn-off%20as%20age%20indicator.html" class="backlink-item">Main sequence turn-off as age indicator</a></li>
-    <li class="backlink-item-wrap"><a href="./Mass-luminosity%20relation.html" class="backlink-item">Mass-luminosity relation</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20evolutionary%20phases%20on%20the%20CMD.html" class="backlink-item">Stellar evolutionary phases on the CMD</a></li>
+    <li class="backlink-item-wrap"><a href="Main%20sequence%20turn-off%20as%20age%20indicator.html" class="backlink-item">Main sequence turn-off as age indicator</a></li>
+    <li class="backlink-item-wrap"><a href="Mass-luminosity%20relation.html" class="backlink-item">Mass-luminosity relation</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20evolutionary%20phases%20on%20the%20CMD.html" class="backlink-item">Stellar evolutionary phases on the CMD</a></li>
+    <li class="backlink-item-wrap"><a href="Subgiant%20branch%20SGB.html" class="backlink-item">Subgiant branch SGB</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Subgiant%20branch%20SGB.html" class="backlink-item">Subgiant branch SGB</a></li>
   </ul>
 </div>
+

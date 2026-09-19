@@ -2,7 +2,6 @@
 layout: "default"
 title: "Fresnel double mirror"
 ---
-{% raw %}
 # Fresnel double mirror
 
 Augustin Fresnel's elegant 1819 demonstration of two-source interference. **two flat mirrors** meeting at a small angle $\alpha$, illuminated by a single point source. the reflections create two virtual coherent sources that produce Young-like fringes, without the need for slits.
@@ -116,4 +115,3 @@ this is exactly Stéphan's adaptation in the 1870s, and Michelson's 20-foot beam
 - [Lloyd mirror](interf/Lloyd%20mirror.html)
 - [Optical path difference OPD](interf/Optical%20path%20difference%20OPD.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

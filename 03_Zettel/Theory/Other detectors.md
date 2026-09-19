@@ -2,7 +2,6 @@
 layout: "default"
 title: "Other detectors"
 ---
-{% raw %}
 CCDs dominate optical astronomy but they are not the only detector. for different wavelengths and different applications, other detectors take over. quick survey of the alternatives.
 
 ## CMOS sensors
@@ -56,7 +55,7 @@ photon $\to$ photoelectron at the photocathode $\to$ amplified by dynode chain (
 
 ## proportional counters and CCDs in X-ray
 
-at X-ray energies ($> 0.1$ keV), each detected photon produces hundreds to thousands of electron-hole pairs proportional to its energy. CCDs (CHANDRA ACIS, XMM EPIC) provide imaging spectroscopy: simultaneous position and energy per photon. proportional counters (RXTE PCA) gave timing + spectroscopy without imaging. see [CCDs for X-rays](./CCDs%20for%20X-rays.html).
+at X-ray energies ($> 0.1$ keV), each detected photon produces hundreds to thousands of electron-hole pairs proportional to its energy. CCDs (CHANDRA ACIS, XMM EPIC) provide imaging spectroscopy: simultaneous position and energy per photon. proportional counters (RXTE PCA) gave timing + spectroscopy without imaging. see [CCDs for X-rays](CCDs%20for%20X-rays.html).
 
 ## photographic plates (historical)
 
@@ -78,17 +77,17 @@ silver-halide emulsion on glass. dominant detector $1880$ to $1980$. low QE ($\s
 
 ## see also
 
-- [CCD basics](./CCD%20basics.html)
-- [CCD detectors and SNR](./CCD%20detectors%20and%20SNR.html)
-- [CCDs for X-rays](./CCDs%20for%20X-rays.html)
-- [Charge-Coupled Device](./Charge-Coupled%20Device.html)
-- [Photoelectric absorption](./Photoelectric%20absorption.html)
+- [CCD basics](CCD%20basics.html)
+- [CCD detectors and SNR](CCD%20detectors%20and%20SNR.html)
+- [CCDs for X-rays](CCDs%20for%20X-rays.html)
+- [Charge-Coupled Device](Charge-Coupled%20Device.html)
+- [Photoelectric absorption](Photoelectric%20absorption.html)
 - [Lab_High-Energy_MOC](../../04_Atlas/Lab_High-Energy_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (1)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./CCD%20basics.html" class="backlink-item">CCD basics</a></li>
+    <li class="backlink-item-wrap"><a href="CCD%20basics.html" class="backlink-item">CCD basics</a></li>
   </ul>
 </div>
+

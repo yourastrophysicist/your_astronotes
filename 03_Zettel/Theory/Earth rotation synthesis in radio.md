@@ -2,7 +2,6 @@
 layout: "default"
 title: "Earth rotation synthesis in radio"
 ---
-{% raw %}
 # Earth rotation synthesis in radio
 
 at radio wavelengths, Earth-rotation aperture synthesis works extraordinarily well. the long coherence times, atmospheric stability, and electronic correlation all favor the technique. the standard radio observation is an 8-12 hour track with full Earth-rotation (u, v) filling.
@@ -95,4 +94,3 @@ solution: combine interferometric data with a *single-dish* total-power measurem
 - [Optimal array geometry](interf/Optimal%20array%20geometry.html)
 - [CLEAN algorithm](interf/CLEAN%20algorithm.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

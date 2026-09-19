@@ -2,7 +2,6 @@
 layout: "default"
 title: "Wavefront sensors"
 ---
-{% raw %}
 # Wavefront sensors
 
 the *measurement* component of an AO system. takes the incoming wavefront from a guide star and reports a 2D map of the wavefront error (actually the gradient or the curvature, depending on type), 1000 times per second.
@@ -115,4 +114,3 @@ the inversion is a sparse linear-system solve, doable in microseconds on modern 
 - [Deformable mirrors and tip-tilt](interf/Deformable%20mirrors%20and%20tip-tilt.html)
 - [Guide stars and laser guide stars](interf/Guide%20stars%20and%20laser%20guide%20stars.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "IR SFR tracer"
-name: "IR SFR tracer"
-description: "Dust-obscured star formation rate tracer measuring the thermal far-infrared re-radiation of starlight absorbed by interstellar dust grains."
 ---
-{% raw %}
 the **total infrared luminosity** ($L_{\rm TIR}$, integrated over $\lambda = 8\text{--}1000\,\mu\mathrm{m}$) is the primary observational diagnostic of **dust-obscured star formation**. In dusty galaxies—including luminous and ultra-luminous infrared galaxies (LIRGs and ULIRGs)—interstellar dust grains absorb up to $\ge 99\%$ of the ultraviolet and optical radiation emitted by young, massive stars and thermally re-radiate this energy at mid- and far-infrared wavelengths.
 
 ---
@@ -72,38 +69,36 @@ $$\mathrm{SFR}_{\rm tot} = \mathrm{SFR}_{\rm UV,obs} + \mathrm{SFR}_{\rm IR}$$
 
 - [Observational_Astrophysics_MOC](../../04_Atlas/Observational_Astrophysics_MOC.html)
 - [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
-- [SFR tracers from population synthesis](./SFR%20tracers%20from%20population%20synthesis.html)
-- [UV SFR tracer](./UV%20SFR%20tracer.html)
-- [H-alpha SFR tracer](./H-alpha%20SFR%20tracer.html)
-- [Dust attenuation in synthetic populations](./Dust%20attenuation%20in%20synthetic%20populations.html)
-- [SED fitting basics](./SED%20fitting%20basics.html)
-- [Initial mass function](./Initial%20mass%20function.html)
-- [Star formation history of a population](./Star%20formation%20history%20of%20a%20population.html)
-- [Stellar mass estimation in unresolved populations](./Stellar%20mass%20estimation%20in%20unresolved%20populations.html)
-{% endraw %}
+- [SFR tracers from population synthesis](SFR%20tracers%20from%20population%20synthesis.html)
+- [UV SFR tracer](UV%20SFR%20tracer.html)
+- [H-alpha SFR tracer](H-alpha%20SFR%20tracer.html)
+- [Dust attenuation in synthetic populations](Dust%20attenuation%20in%20synthetic%20populations.html)
+- [SED fitting basics](SED%20fitting%20basics.html)
+- [Initial mass function](Initial%20mass%20function.html)
+- [Star formation history of a population](Star%20formation%20history%20of%20a%20population.html)
+- [Stellar mass estimation in unresolved populations](Stellar%20mass%20estimation%20in%20unresolved%20populations.html)
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (20)</h4>
+  <h4 class="backlinks-title">Linked References (18)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Dust%20attenuation%20and%20extinction%20curves.html" class="backlink-item">Dust attenuation and extinction curves</a></li>
-    <li class="backlink-item-wrap"><a href="./Dust%20attenuation%20in%20synthetic%20populations.html" class="backlink-item">Dust attenuation in synthetic populations</a></li>
-    <li class="backlink-item-wrap"><a href="./Galaxy%20time%20scales.html" class="backlink-item">Galaxy time scales</a></li>
-    <li class="backlink-item-wrap"><a href="./H-alpha%20SFR%20tracer.html" class="backlink-item">H-alpha SFR tracer</a></li>
-    <li class="backlink-item-wrap"><a href="./K-correction%20in%20optical%20vs%20sub-mm.html" class="backlink-item">K-correction in optical vs sub-mm</a></li>
-    <li class="backlink-item-wrap"><a href="./LIRGs%20ULIRGs%20HyLIRGs.html" class="backlink-item">LIRGs ULIRGs HyLIRGs</a></li>
-    <li class="backlink-item-wrap"><a href="./Madau%20plot.html" class="backlink-item">Madau plot</a></li>
+    <li class="backlink-item-wrap"><a href="Dust%20attenuation%20and%20extinction%20curves.html" class="backlink-item">Dust attenuation and extinction curves</a></li>
+    <li class="backlink-item-wrap"><a href="Dust%20attenuation%20in%20synthetic%20populations.html" class="backlink-item">Dust attenuation in synthetic populations</a></li>
+    <li class="backlink-item-wrap"><a href="Galaxy%20time%20scales.html" class="backlink-item">Galaxy time scales</a></li>
+    <li class="backlink-item-wrap"><a href="H-alpha%20SFR%20tracer.html" class="backlink-item">H-alpha SFR tracer</a></li>
+    <li class="backlink-item-wrap"><a href="K-correction%20in%20optical%20vs%20sub-mm.html" class="backlink-item">K-correction in optical vs sub-mm</a></li>
+    <li class="backlink-item-wrap"><a href="LIRGs%20ULIRGs%20HyLIRGs.html" class="backlink-item">LIRGs ULIRGs HyLIRGs</a></li>
+    <li class="backlink-item-wrap"><a href="Other%20SFR%20tracer%20lines.html" class="backlink-item">Other SFR tracer lines</a></li>
+    <li class="backlink-item-wrap"><a href="Radio%20SFR%20tracer.html" class="backlink-item">Radio SFR tracer</a></li>
+    <li class="backlink-item-wrap"><a href="SED%20fitting%20for%20SFH.html" class="backlink-item">SED fitting for SFH</a></li>
+    <li class="backlink-item-wrap"><a href="SFR%20tracer%20comparison.html" class="backlink-item">SFR tracer comparison</a></li>
+    <li class="backlink-item-wrap"><a href="SFR%20tracers%20from%20population%20synthesis.html" class="backlink-item">SFR tracers from population synthesis</a></li>
+    <li class="backlink-item-wrap"><a href="Star%20formation%20history%20parametrizations.html" class="backlink-item">Star formation history parametrizations</a></li>
+    <li class="backlink-item-wrap"><a href="Star%20formation%20rate%20and%20sSFR.html" class="backlink-item">Star formation rate and sSFR</a></li>
+    <li class="backlink-item-wrap"><a href="UV%20SFR%20tracer.html" class="backlink-item">UV SFR tracer</a></li>
+    <li class="backlink-item-wrap"><a href="UV%20slope%20and%20IRX-beta%20relation.html" class="backlink-item">UV slope and IRX-beta relation</a></li>
+    <li class="backlink-item-wrap"><a href="Why%20hot%20massive%20stars%20dominate%20luminosity.html" class="backlink-item">Why hot massive stars dominate luminosity</a></li>
+    <li class="backlink-item-wrap"><a href="X-ray%20SFR%20tracer.html" class="backlink-item">X-ray SFR tracer</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Other%20SFR%20tracer%20lines.html" class="backlink-item">Other SFR tracer lines</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html" class="backlink-item">Pablo_03_Star_formation_in_galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="./Radio%20SFR%20tracer.html" class="backlink-item">Radio SFR tracer</a></li>
-    <li class="backlink-item-wrap"><a href="./SED%20fitting%20for%20SFH.html" class="backlink-item">SED fitting for SFH</a></li>
-    <li class="backlink-item-wrap"><a href="./SFR%20tracer%20comparison.html" class="backlink-item">SFR tracer comparison</a></li>
-    <li class="backlink-item-wrap"><a href="./SFR%20tracers%20from%20population%20synthesis.html" class="backlink-item">SFR tracers from population synthesis</a></li>
-    <li class="backlink-item-wrap"><a href="./Star%20formation%20history%20parametrizations.html" class="backlink-item">Star formation history parametrizations</a></li>
-    <li class="backlink-item-wrap"><a href="./Star%20formation%20rate%20and%20sSFR.html" class="backlink-item">Star formation rate and sSFR</a></li>
-    <li class="backlink-item-wrap"><a href="./UV%20SFR%20tracer.html" class="backlink-item">UV SFR tracer</a></li>
-    <li class="backlink-item-wrap"><a href="./UV%20slope%20and%20IRX-beta%20relation.html" class="backlink-item">UV slope and IRX-beta relation</a></li>
-    <li class="backlink-item-wrap"><a href="./Why%20hot%20massive%20stars%20dominate%20luminosity.html" class="backlink-item">Why hot massive stars dominate luminosity</a></li>
-    <li class="backlink-item-wrap"><a href="./X-ray%20SFR%20tracer.html" class="backlink-item">X-ray SFR tracer</a></li>
   </ul>
 </div>
+

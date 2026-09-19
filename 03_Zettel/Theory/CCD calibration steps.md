@@ -2,7 +2,6 @@
 layout: "default"
 title: "CCD calibration steps"
 ---
-{% raw %}
 raw CCD frames are not science-ready. five calibration steps remove instrumental signatures so the resulting image is a faithful flux map.
 
 ## the steps in order
@@ -77,13 +76,13 @@ problems show up as residual gradients, donut shapes (telescope-shadow vignettin
 
 ## see also
 
-- [CCD basics](./CCD%20basics.html)
-- [CCD readout chain](./CCD%20readout%20chain.html)
-- [CCD detectors and SNR](./CCD%20detectors%20and%20SNR.html)
-- [The CCD equation](./The%20CCD%20equation.html)
-- [Aperture photometry](./Aperture%20photometry.html)
-- [Cosmic rays and bad pixels](./Cosmic%20rays%20and%20bad%20pixels.html)
-- [Linearity and saturation](./Linearity%20and%20saturation.html)
+- [CCD basics](CCD%20basics.html)
+- [CCD readout chain](CCD%20readout%20chain.html)
+- [CCD detectors and SNR](CCD%20detectors%20and%20SNR.html)
+- [The CCD equation](The%20CCD%20equation.html)
+- [Aperture photometry](Aperture%20photometry.html)
+- [Cosmic rays and bad pixels](Cosmic%20rays%20and%20bad%20pixels.html)
+- [Linearity and saturation](Linearity%20and%20saturation.html)
 
 ---
 
@@ -94,20 +93,20 @@ problems show up as residual gradients, donut shapes (telescope-shadow vignettin
 
 ![obs_ccd-36.png](../../assets/images/obs_ccd-36.png)
 *Master bias, master dark, and dome/twilight flat-field creation.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (10)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Aperture%20photometry.html" class="backlink-item">Aperture photometry</a></li>
-    <li class="backlink-item-wrap"><a href="./CCD%20detectors%20and%20SNR.html" class="backlink-item">CCD detectors and SNR</a></li>
-    <li class="backlink-item-wrap"><a href="./Cosmic%20rays%20and%20bad%20pixels.html" class="backlink-item">Cosmic rays and bad pixels</a></li>
-    <li class="backlink-item-wrap"><a href="./Datacube%20reduction.html" class="backlink-item">Datacube reduction</a></li>
-    <li class="backlink-item-wrap"><a href="./Linearity%20and%20saturation.html" class="backlink-item">Linearity and saturation</a></li>
+    <li class="backlink-item-wrap"><a href="Aperture%20photometry.html" class="backlink-item">Aperture photometry</a></li>
+    <li class="backlink-item-wrap"><a href="CCD%20detectors%20and%20SNR.html" class="backlink-item">CCD detectors and SNR</a></li>
+    <li class="backlink-item-wrap"><a href="Cosmic%20rays%20and%20bad%20pixels.html" class="backlink-item">Cosmic rays and bad pixels</a></li>
+    <li class="backlink-item-wrap"><a href="Datacube%20reduction.html" class="backlink-item">Datacube reduction</a></li>
+    <li class="backlink-item-wrap"><a href="Linearity%20and%20saturation.html" class="backlink-item">Linearity and saturation</a></li>
+    <li class="backlink-item-wrap"><a href="PSF%20photometry.html" class="backlink-item">PSF photometry</a></li>
+    <li class="backlink-item-wrap"><a href="Photometric%20standard%20stars.html" class="backlink-item">Photometric standard stars</a></li>
+    <li class="backlink-item-wrap"><a href="Python%20and%20IRAF%20tools%20for%20photometry.html" class="backlink-item">Python and IRAF tools for photometry</a></li>
+    <li class="backlink-item-wrap"><a href="Spectrum%20reduction%20pipeline.html" class="backlink-item">Spectrum reduction pipeline</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./PSF%20photometry.html" class="backlink-item">PSF photometry</a></li>
-    <li class="backlink-item-wrap"><a href="./Photometric%20standard%20stars.html" class="backlink-item">Photometric standard stars</a></li>
-    <li class="backlink-item-wrap"><a href="./Python%20and%20IRAF%20tools%20for%20photometry.html" class="backlink-item">Python and IRAF tools for photometry</a></li>
-    <li class="backlink-item-wrap"><a href="./Spectrum%20reduction%20pipeline.html" class="backlink-item">Spectrum reduction pipeline</a></li>
   </ul>
 </div>
+

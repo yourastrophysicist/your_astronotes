@@ -2,7 +2,6 @@
 layout: "default"
 title: "Verifying random samples"
 ---
-{% raw %}
 # Verifying random samples
 
 after generating $N$ samples from a putative distribution $P(x)$, **always verify** that they actually follow $P$. the verification has saved me countless wrong-answer bugs (off-by-one in the CDF, wrong normalization, missing log scale).
@@ -124,17 +123,17 @@ if the two curves visually agree, full credit. if they disagree, even partial wo
 
 ## see also
 
-- [Inverse transform sampling](./Inverse%20transform%20sampling.html)
-- [Rejection sampling](./Rejection%20sampling.html)
-- [Box-Muller transform for Gaussian random numbers](./Box-Muller%20transform%20for%20Gaussian%20random%20numbers.html)
-- [Goodness of fit and chi-squared](./Goodness%20of%20fit%20and%20chi-squared.html)
+- [Inverse transform sampling](Inverse%20transform%20sampling.html)
+- [Rejection sampling](Rejection%20sampling.html)
+- [Box-Muller transform for Gaussian random numbers](Box-Muller%20transform%20for%20Gaussian%20random%20numbers.html)
+- [Goodness of fit and chi-squared](Goodness%20of%20fit%20and%20chi-squared.html)
 - [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Hint%20-%20TODO%202.2%20Logarithmic%20Binning%20for%20Inverse%20Sampling.html" class="backlink-item">Hint - TODO 2.2 Logarithmic Binning for Inverse Sampling</a></li>
+    <li class="backlink-item-wrap"><a href="Hint%20-%20TODO%202.2%20Logarithmic%20Binning%20for%20Inverse%20Sampling.html" class="backlink-item">Hint - TODO 2.2 Logarithmic Binning for Inverse Sampling</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
   </ul>
 </div>
+

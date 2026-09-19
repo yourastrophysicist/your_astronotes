@@ -2,7 +2,6 @@
 layout: "default"
 title: "Ch 5 - The Einstein Equation"
 ---
-{% raw %}
 # Baumann Ch 5, The Einstein Equation
 
 up: [Baumann GR](./Baumann%20GR.html) · [General_Relativity_MOC](../../../04_Atlas/General_Relativity_MOC.html)
@@ -273,23 +272,18 @@ if i had to compress chapter 5 into a paragraph for the oral:
 - Q11 - selected Schwarzschild Christoffels · Q12 - circular orbits and orbital frequency · Q13 - radial infall and proper time · Q14 - photon trajectory and impact parameter · Q18 - derive the acceleration equation · Q19 - radiation universe · Q20 - matter plus radiation universe
 - previous: [Ch 4 - Spacetime Curvature](./Ch%204%20-%20Spacetime%20Curvature.html)
 - next: [Ch 6 - Black Holes](./Ch%206%20-%20Black%20Holes.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (13)</h4>
+  <h4 class="backlinks-title">Linked References (8)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Baumann%20GR.html" class="backlink-item">Baumann GR</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Bianchi%20identities.html" class="backlink-item">Bianchi identities</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Birkhoff%20theorem.html" class="backlink-item">Birkhoff theorem</a></li>
-    <li class="backlink-item-wrap"><a href="./Ch%202%20-%20Some%20Differential%20Geometry.html" class="backlink-item">Ch 2 - Some Differential Geometry</a></li>
-    <li class="backlink-item-wrap"><a href="./Ch%203%20-%20A%20First%20Look%20at%20Geodesics.html" class="backlink-item">Ch 3 - A First Look at Geodesics</a></li>
-    <li class="backlink-item-wrap"><a href="./Ch%204%20-%20Spacetime%20Curvature.html" class="backlink-item">Ch 4 - Spacetime Curvature</a></li>
-    <li class="backlink-item-wrap"><a href="./Ch%206%20-%20Black%20Holes.html" class="backlink-item">Ch 6 - Black Holes</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Einstein%20equations.html" class="backlink-item">Einstein equations</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Einstein%20tensor%20and%20Bianchi.html" class="backlink-item">Einstein tensor and Bianchi</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Schwarzschild%20metric.html" class="backlink-item">Schwarzschild metric</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Stress-energy%20tensor.html" class="backlink-item">Stress-energy tensor</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Trace-reversed%20Einstein%20equations.html" class="backlink-item">Trace-reversed Einstein equations</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
   </ul>
 </div>
+

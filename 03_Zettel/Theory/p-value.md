@@ -2,11 +2,10 @@
 layout: "default"
 title: "p-value"
 ---
-{% raw %}
 Best-fit parameters and error bars are often insufficient to test a hypothesis
 	an additional tool is the **p-value** (probability value)
 		used to understand whether the hypotheses are correct or not
-![Screenshot 2026-04-07 at 02.14.05.png](../../assets/images/Screenshot 2026-04-07 at 02.14.05.png)
+![Screenshot 2026-04-07 at 02.14.05.png](../../assets/images/Screenshot%202026-04-07%20at%2002.14.05.png)
 ---
 
 ## Definition
@@ -79,12 +78,12 @@ $\mathbb{S}' < \mathbb{S}_c$ does **not** mean $H_0$ is true
 The null hypothesis test can **only reject** $H_0$
 	that is: $\mathbb{S}'$ is unlikely to have originated from the null distribution
 		it says nothing about whether $H_1$ is the correct model
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Astrostatistics.html" class="backlink-item">Astrostatistics</a></li>
+    <li class="backlink-item-wrap"><a href="Astrostatistics.html" class="backlink-item">Astrostatistics</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
   </ul>
 </div>
+

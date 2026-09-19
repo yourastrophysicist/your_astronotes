@@ -2,7 +2,6 @@
 layout: "default"
 title: "Abbe experiment and Fourier optics"
 ---
-{% raw %}
 # Abbe experiment and Fourier optics
 
 BookAI includes the Abbe experiment because it shows, before interferometry, that images are made from spatial frequencies.
@@ -86,4 +85,3 @@ source: local study diagram generated from the Abbe/Fourier-optics interpretatio
 - [Point spread function](interf/Point%20spread%20function.html)
 - [Aperture synthesis principle](interf/Aperture%20synthesis%20principle.html)
 - [The (u, v) plane](interf/The%20%28u%2C%20v%29%20plane.html)
-{% endraw %}

@@ -2,7 +2,6 @@
 layout: "default"
 title: "Atmospheric transparency windows"
 ---
-{% raw %}
 the atmosphere is **opaque** at most wavelengths. observing windows are the gaps between absorption features, set mainly by H$_2$O, O$_2$, CO$_2$, and O$_3$. understanding which wavelengths get through tells me whether I can do science from the ground or need a satellite.
 
 ## the windows
@@ -55,10 +54,9 @@ a transmission curve $T(\lambda)$ is the input to any exposure-time calculator. 
 
 ## see also
 
-- [Earth atmosphere for observations](./Earth%20atmosphere%20for%20observations.html)
+- [Earth atmosphere for observations](Earth%20atmosphere%20for%20observations.html)
 - [Atmospheric extinction](interf/Atmospheric%20extinction.html)
 - [Atmospheric layers](interf/Atmospheric%20layers.html)
-- [Sky brightness](./Sky%20brightness.html)
+- [Sky brightness](Sky%20brightness.html)
 - [Atmospheric transmission](interf/Atmospheric%20transmission.html) — a related deeper note
-- [Filter systems and bandpasses](./Filter%20systems%20and%20bandpasses.html)
-{% endraw %}
+- [Filter systems and bandpasses](Filter%20systems%20and%20bandpasses.html)

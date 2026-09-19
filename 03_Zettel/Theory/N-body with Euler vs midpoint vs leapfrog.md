@@ -2,7 +2,6 @@
 layout: "default"
 title: "N-body with Euler vs midpoint vs leapfrog"
 ---
-{% raw %}
 # N-body with Euler vs midpoint vs leapfrog
 
 the canonical demonstration in computational astrophysics: integrate a Kepler orbit (or a 3-body system) for many periods with three different schemes and look at the resulting trajectories and energies. shows in one picture why symplectic integrators are essential for long-time gravitational dynamics.
@@ -105,7 +104,7 @@ expected:
 
 for a *gravitational* (Hamiltonian) system, symplectic integrators are not optional — they are what makes long-time integration meaningful. for short integrations (a few orbital periods), any decent scheme works. for long integrations (cosmological simulations, planetary system stability over Gyr), only symplectic schemes are trusted.
 
-the cost of leapfrog is the same as midpoint (one acceleration per step). there is no reason *not* to use leapfrog for any second-order Hamiltonian system unless the problem requires higher order, in which case use [Fourth-order Hermite predictor-corrector](./Fourth-order%20Hermite%20predictor-corrector.html) or higher-order symplectic schemes (Forest-Ruth, Yoshida).
+the cost of leapfrog is the same as midpoint (one acceleration per step). there is no reason *not* to use leapfrog for any second-order Hamiltonian system unless the problem requires higher order, in which case use [Fourth-order Hermite predictor-corrector](Fourth-order%20Hermite%20predictor-corrector.html) or higher-order symplectic schemes (Forest-Ruth, Yoshida).
 
 ## the exam connection
 
@@ -115,20 +114,20 @@ so for the exam, the question's choice of integrator is part of the problem. fol
 
 ## see also
 
-- [Euler method](./Euler%20method.html)
-- [Runge-Kutta 2 midpoint method](./Runge-Kutta%202%20midpoint%20method.html)
-- [Leapfrog integrator](./Leapfrog%20integrator.html)
-- [Astrophysical N-body problem formulation](./Astrophysical%20N-body%20problem%20formulation.html)
-- [Energy conservation as a diagnostic](./Energy%20conservation%20as%20a%20diagnostic.html)
-- [The Pythagorean three-body problem](./The%20Pythagorean%20three-body%20problem.html)
+- [Euler method](Euler%20method.html)
+- [Runge-Kutta 2 midpoint method](Runge-Kutta%202%20midpoint%20method.html)
+- [Leapfrog integrator](Leapfrog%20integrator.html)
+- [Astrophysical N-body problem formulation](Astrophysical%20N-body%20problem%20formulation.html)
+- [Energy conservation as a diagnostic](Energy%20conservation%20as%20a%20diagnostic.html)
+- [The Pythagorean three-body problem](The%20Pythagorean%20three-body%20problem.html)
 - [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="N-body%20simulations.html" class="backlink-item">N-body simulations</a></li>
+    <li class="backlink-item-wrap"><a href="The%20Pythagorean%20three-body%20problem.html" class="backlink-item">The Pythagorean three-body problem</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./N-body%20simulations.html" class="backlink-item">N-body simulations</a></li>
-    <li class="backlink-item-wrap"><a href="./The%20Pythagorean%20three-body%20problem.html" class="backlink-item">The Pythagorean three-body problem</a></li>
   </ul>
 </div>
+

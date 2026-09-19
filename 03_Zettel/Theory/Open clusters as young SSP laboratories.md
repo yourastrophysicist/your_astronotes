@@ -1,15 +1,12 @@
 ---
 layout: "default"
 title: "Open clusters as young SSP laboratories"
-name: "Open clusters as young SSP laboratories"
-description: "low-mass disk clusters that probe young and intermediate-age stellar evolution before they dissolve"
 ---
-{% raw %}
-open clusters are the young-population complement to globulars in the SSP-laboratory pairing. where [Globular clusters as SSP laboratories](./Globular%20clusters%20as%20SSP%20laboratories.html) pin down low-mass evolution at old ages, open clusters span the age range from $\sim 1$ Myr to a few Gyr and supply the calibration for high-mass evolution, the upper main sequence, and the early post-MS phases.
+open clusters are the young-population complement to globulars in the SSP-laboratory pairing. where [Globular clusters as SSP laboratories](Globular%20clusters%20as%20SSP%20laboratories.html) pin down low-mass evolution at old ages, open clusters span the age range from $\sim 1$ Myr to a few Gyr and supply the calibration for high-mass evolution, the upper main sequence, and the early post-MS phases.
 
 their basic numbers: $N_\star \sim 10^2$ to a few $\times 10^3$ stars, half-mass radii $\sim 1$ to $5$ pc, total masses $10^2$ to $10^4 \, M_\odot$, and central densities orders of magnitude lower than GCs. they are *weakly bound*: the typical crossing time $t_\mathrm{cross} \sim r_h / \sigma_v \sim$ a few Myr, while the cluster's tidal-disruption time in the disk is $t_\mathrm{diss} \sim 10^8$ to $10^9$ yr. essentially all open clusters dissolve within $1$ Gyr, with the rare survivors (NGC 188, M67, berkeley 17) being the dynamically robust outliers used for absolute-age work on intermediate-age populations.
 
-they live in the *thin disk* of the host galaxy, follow disk kinematics ($\sigma_z \lesssim 20$ km/s), and inherit the disk metallicity at their birth radius. for milky way disk clusters this is roughly solar with a galactocentric gradient $d[\mathrm{Fe}/\mathrm{H}]/dR_g \approx -0.06$ dex/kpc. they are population I objects (see [Population I and II stars](./Population%20I%20and%20II%20stars.html)).
+they live in the *thin disk* of the host galaxy, follow disk kinematics ($\sigma_z \lesssim 20$ km/s), and inherit the disk metallicity at their birth radius. for milky way disk clusters this is roughly solar with a galactocentric gradient $d[\mathrm{Fe}/\mathrm{H}]/dR_g \approx -0.06$ dex/kpc. they are population I objects (see [Population I and II stars](Population%20I%20and%20II%20stars.html)).
 
 three canonical examples define the calibration ladder:
 
@@ -29,11 +26,11 @@ a research-grade modern application is using gaia-DR3 astrometry to identify "mo
 
 ## see also
 - [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
-- [Star cluster types](./Star%20cluster%20types.html)
-- [Globular clusters as SSP laboratories](./Globular%20clusters%20as%20SSP%20laboratories.html)
-- [Single stellar population SSP](./Single%20stellar%20population%20SSP.html)
-- [Color-magnitude diagrams of clusters](./Color-magnitude%20diagrams%20of%20clusters.html)
-- [Stellar populations I II III](./Stellar%20populations%20I%20II%20III.html)
+- [Star cluster types](Star%20cluster%20types.html)
+- [Globular clusters as SSP laboratories](Globular%20clusters%20as%20SSP%20laboratories.html)
+- [Single stellar population SSP](Single%20stellar%20population%20SSP.html)
+- [Color-magnitude diagrams of clusters](Color-magnitude%20diagrams%20of%20clusters.html)
+- [Stellar populations I II III](Stellar%20populations%20I%20II%20III.html)
 
 ---
 
@@ -117,13 +114,13 @@ The following slides from Prof. Antonino Milone's lecture series provide the dir
 
 ![LAntonino_p20_25.png](../../assets/images/LAntonino_p20_25.png)
 *Figure P20-25: LAntonino_p20_25.png — Observational data, CMD morphology, and diagnostics from Lecture 20 — Young Clusters & Pre-Main Sequence Evolution.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Population%20I%20and%20II%20stars.html" class="backlink-item">Population I and II stars</a></li>
-    <li class="backlink-item-wrap"><a href="./Star%20cluster%20types.html" class="backlink-item">Star cluster types</a></li>
+    <li class="backlink-item-wrap"><a href="Population%20I%20and%20II%20stars.html" class="backlink-item">Population I and II stars</a></li>
+    <li class="backlink-item-wrap"><a href="Star%20cluster%20types.html" class="backlink-item">Star cluster types</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

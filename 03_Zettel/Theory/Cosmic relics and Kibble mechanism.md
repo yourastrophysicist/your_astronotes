@@ -2,7 +2,6 @@
 layout: "default"
 title: "Cosmic relics and Kibble mechanism"
 ---
-{% raw %}
 # Cosmic relics and Kibble mechanism
 
 > *the overproduction of topological defects during GUT phase transitions, and their exponential dilution by inflation.*
@@ -51,16 +50,15 @@ For $N \approx 60$: $e^{-3N} \sim e^{-180} \sim 10^{-78}$, leaving $\Omega_{\rm 
 
 * parent moc: [Cosmology_of_the_Early_Universe_MOC](../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html)
 * related zettels:
-  - [Horizon problem and causal structure](./Horizon%20problem%20and%20causal%20structure.html)
-  - [Flatness problem and dynamical attractor](./Flatness%20problem%20and%20dynamical%20attractor.html)
-  - [Cosmological inflation](./Cosmological%20inflation.html)
+  - [Horizon problem and causal structure](Horizon%20problem%20and%20causal%20structure.html)
+  - [Flatness problem and dynamical attractor](Flatness%20problem%20and%20dynamical%20attractor.html)
+  - [Cosmological inflation](Cosmological%20inflation.html)
   - [Part1_Standard_Big_Bang_and_Shortcomings](../../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part1_Standard_Big_Bang_and_Shortcomings.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
+  <h4 class="backlinks-title">Linked References (1)</h4>
   <ul class="backlinks-list">
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html" class="backlink-item">Cosmology_of_the_Early_Universe_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part1_Standard_Big_Bang_and_Shortcomings.html" class="backlink-item">Part1_Standard_Big_Bang_and_Shortcomings</a></li>
   </ul>
 </div>
+

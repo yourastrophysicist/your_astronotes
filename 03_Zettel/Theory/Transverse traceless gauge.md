@@ -2,7 +2,6 @@
 layout: "default"
 title: "Transverse traceless gauge"
 ---
-{% raw %}
 the **transverse-traceless (TT) gauge** is the canonical choice for gravitational waves. after fixing Lorenz gauge + 4 residual gauge conditions, only the 2 physical polarisations remain: $h_+$ and $h_\times$.
 
 ## the conditions
@@ -36,7 +35,7 @@ so two independent functions:
 - **$h_+$ ("plus")**: stretches along $x$, squeezes along $y$.
 - **$h_\times$ ("cross")**: stretches along $x = y$, squeezes along $x = -y$. rotated $45°$ from plus.
 
-see [Plus and cross polarizations](./Plus%20and%20cross%20polarizations.html) for the test-mass picture.
+see [Plus and cross polarizations](Plus%20and%20cross%20polarizations.html) for the test-mass picture.
 
 ## reaching TT gauge
 
@@ -57,32 +56,31 @@ TT gauge works only:
 
 ## see also
 
-- [Linearized metric perturbation](./Linearized%20metric%20perturbation.html)
-- [Linearized gauge transformations](./Linearized%20gauge%20transformations.html)
-- [Lorenz gauge](./Lorenz%20gauge.html)
-- [Trace-reversed perturbation](./Trace-reversed%20perturbation.html)
-- [Plus and cross polarizations](./Plus%20and%20cross%20polarizations.html)
-- [Geodesic deviation under a GW](./Geodesic%20deviation%20under%20a%20GW.html)
-- [Quadrupole formula](./Quadrupole%20formula.html)
+- [Linearized metric perturbation](Linearized%20metric%20perturbation.html)
+- [Linearized gauge transformations](Linearized%20gauge%20transformations.html)
+- [Lorenz gauge](Lorenz%20gauge.html)
+- [Trace-reversed perturbation](Trace-reversed%20perturbation.html)
+- [Plus and cross polarizations](Plus%20and%20cross%20polarizations.html)
+- [Geodesic deviation under a GW](Geodesic%20deviation%20under%20a%20GW.html)
+- [Quadrupole formula](Quadrupole%20formula.html)
 - Q16 - Christoffels for a TT plane wave
 - Q17 - Riemann R_0x0x for a TT plane wave
 - [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
 - [Ch 8 - Gravitational Waves](../../02_Literature/Book/Baumann%20GR/Ch%208%20-%20Gravitational%20Waves.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (11)</h4>
+  <h4 class="backlinks-title">Linked References (10)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Book/Baumann%20GR/Ch%208%20-%20Gravitational%20Waves.html" class="backlink-item">Ch 8 - Gravitational Waves</a></li>
-    <li class="backlink-item-wrap"><a href="./GW%20energy%20and%20angular%20momentum.html" class="backlink-item">GW energy and angular momentum</a></li>
+    <li class="backlink-item-wrap"><a href="GW%20energy%20and%20angular%20momentum.html" class="backlink-item">GW energy and angular momentum</a></li>
+    <li class="backlink-item-wrap"><a href="Geodesic%20deviation%20under%20a%20GW.html" class="backlink-item">Geodesic deviation under a GW</a></li>
+    <li class="backlink-item-wrap"><a href="Linearized%20gauge%20transformations.html" class="backlink-item">Linearized gauge transformations</a></li>
+    <li class="backlink-item-wrap"><a href="Linearized%20metric%20perturbation.html" class="backlink-item">Linearized metric perturbation</a></li>
+    <li class="backlink-item-wrap"><a href="Lorenz%20gauge.html" class="backlink-item">Lorenz gauge</a></li>
+    <li class="backlink-item-wrap"><a href="Plus%20and%20cross%20polarizations.html" class="backlink-item">Plus and cross polarizations</a></li>
+    <li class="backlink-item-wrap"><a href="Quadrupole%20formula.html" class="backlink-item">Quadrupole formula</a></li>
+    <li class="backlink-item-wrap"><a href="SVT%20decomposition.html" class="backlink-item">SVT decomposition</a></li>
+    <li class="backlink-item-wrap"><a href="Trace-reversed%20perturbation.html" class="backlink-item">Trace-reversed perturbation</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Geodesic%20deviation%20under%20a%20GW.html" class="backlink-item">Geodesic deviation under a GW</a></li>
-    <li class="backlink-item-wrap"><a href="./Linearized%20gauge%20transformations.html" class="backlink-item">Linearized gauge transformations</a></li>
-    <li class="backlink-item-wrap"><a href="./Linearized%20metric%20perturbation.html" class="backlink-item">Linearized metric perturbation</a></li>
-    <li class="backlink-item-wrap"><a href="./Lorenz%20gauge.html" class="backlink-item">Lorenz gauge</a></li>
-    <li class="backlink-item-wrap"><a href="./Plus%20and%20cross%20polarizations.html" class="backlink-item">Plus and cross polarizations</a></li>
-    <li class="backlink-item-wrap"><a href="./Quadrupole%20formula.html" class="backlink-item">Quadrupole formula</a></li>
-    <li class="backlink-item-wrap"><a href="./SVT%20decomposition.html" class="backlink-item">SVT decomposition</a></li>
-    <li class="backlink-item-wrap"><a href="./Trace-reversed%20perturbation.html" class="backlink-item">Trace-reversed perturbation</a></li>
   </ul>
 </div>
+

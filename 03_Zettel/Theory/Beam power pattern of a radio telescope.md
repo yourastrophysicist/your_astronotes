@@ -2,7 +2,6 @@
 layout: "default"
 title: "Beam power pattern of a radio telescope"
 ---
-{% raw %}
 # Beam power pattern of a radio telescope
 
 BookAI emphasizes that a radio telescope never sees the sky neutrally. it sees the sky through its beam pattern.
@@ -91,4 +90,3 @@ source: local study diagram generated from $A_{\rm eff} = \eta A$ and $G = 4\pi 
 - [Point spread function](interf/Point%20spread%20function.html)
 - [Optical transfer function](interf/Optical%20transfer%20function.html)
 - [Dirty beam and dirty image](interf/Dirty%20beam%20and%20dirty%20image.html)
-{% endraw %}

@@ -2,7 +2,6 @@
 layout: "default"
 title: "07_Atmospheric_Radiative_Transfer_and_Line_Profiles"
 ---
-{% raw %}
 # Lesson 07 – Atmospheric Radiative Transfer and Line Profiles
 
 *Computational Astrophysics, Prof. Tiziano Zingales*  
@@ -260,15 +259,12 @@ This plane-parallel integral formulation forms the computational core of atmosph
 
 ![Layer-by-Layer Optical Depth Integration](../../../assets/images/comp_radtrans_p30.png)
 *Figure COMP-09: Numerical discretization of atmospheric column density and cross-section sums $\tau_\nu(z) = \sum_i \sigma_{i,\nu} N_i(z)$ across discrete pressure layers.*
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
+  <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./06_Deep_Learning_Architectures_and_Optimization.html" class="backlink-item">06_Deep_Learning_Architectures_and_Optimization</a></li>
-    <li class="backlink-item-wrap"><a href="./08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx.html" class="backlink-item">08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx</a></li>
-    <li class="backlink-item-wrap"><a href="./09_Bayesian_Inference_and_Parameter_Estimation.html" class="backlink-item">09_Bayesian_Inference_and_Parameter_Estimation</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Computational/Atmospheric%20radiative%20transfer%20equation%20and%20Voigt%20profile.html" class="backlink-item">Atmospheric radiative transfer equation and Voigt profile</a></li>
     <li class="backlink-item-wrap"><a href="../../../04_Atlas/Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

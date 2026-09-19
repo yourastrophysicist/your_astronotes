@@ -2,7 +2,6 @@
 layout: "default"
 title: "Point spread function"
 ---
-{% raw %}
 # Point spread function
 
 the PSF is the image a telescope (or interferometer) produces of an idealized point source. it is the **impulse response** of the optical system: every more-complex image is a *convolution* of the true brightness distribution with the PSF.
@@ -129,29 +128,29 @@ source: local plot generated from the Airy-pattern Bessel formula.
 
 ## see also
 
-- [Fraunhofer diffraction](./Fraunhofer%20diffraction.html)
-- [Diffraction patterns of simple apertures](./Diffraction%20patterns%20of%20simple%20apertures.html)
-- [Optical transfer function](./Optical%20transfer%20function.html)
-- [Adaptive optics](./Adaptive%20optics.html)
-- [CLEAN algorithm](./CLEAN%20algorithm.html)
+- [Fraunhofer diffraction](Fraunhofer%20diffraction.html)
+- [Diffraction patterns of simple apertures](Diffraction%20patterns%20of%20simple%20apertures.html)
+- [Optical transfer function](Optical%20transfer%20function.html)
+- [Adaptive optics](Adaptive%20optics.html)
+- [CLEAN algorithm](CLEAN%20algorithm.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (13)</h4>
   <ul class="backlinks-list">
     <li class="backlink-item-wrap"><a href="../Abbe%20experiment%20and%20Fourier%20optics.html" class="backlink-item">Abbe experiment and Fourier optics</a></li>
-    <li class="backlink-item-wrap"><a href="./Abbe%20experiment%20and%20Fourier%20optics.html" class="backlink-item">Abbe experiment and Fourier optics</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Beam%20power%20pattern%20of%20a%20radio%20telescope.html" class="backlink-item">Beam power pattern of a radio telescope</a></li>
     <li class="backlink-item-wrap"><a href="../Beam%20power%20pattern%20of%20a%20radio%20telescope.html" class="backlink-item">Beam power pattern of a radio telescope</a></li>
-    <li class="backlink-item-wrap"><a href="./Diffraction%20patterns%20of%20simple%20apertures.html" class="backlink-item">Diffraction patterns of simple apertures</a></li>
     <li class="backlink-item-wrap"><a href="../Diffraction%20patterns%20of%20simple%20apertures.html" class="backlink-item">Diffraction patterns of simple apertures</a></li>
-    <li class="backlink-item-wrap"><a href="./Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
     <li class="backlink-item-wrap"><a href="../Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="./Fraunhofer%20diffraction.html" class="backlink-item">Fraunhofer diffraction</a></li>
     <li class="backlink-item-wrap"><a href="../Fraunhofer%20diffraction.html" class="backlink-item">Fraunhofer diffraction</a></li>
-    <li class="backlink-item-wrap"><a href="./Optical%20transfer%20function.html" class="backlink-item">Optical transfer function</a></li>
     <li class="backlink-item-wrap"><a href="../Optical%20transfer%20function.html" class="backlink-item">Optical transfer function</a></li>
+    <li class="backlink-item-wrap"><a href="Abbe%20experiment%20and%20Fourier%20optics.html" class="backlink-item">Abbe experiment and Fourier optics</a></li>
+    <li class="backlink-item-wrap"><a href="Beam%20power%20pattern%20of%20a%20radio%20telescope.html" class="backlink-item">Beam power pattern of a radio telescope</a></li>
+    <li class="backlink-item-wrap"><a href="Diffraction%20patterns%20of%20simple%20apertures.html" class="backlink-item">Diffraction patterns of simple apertures</a></li>
+    <li class="backlink-item-wrap"><a href="Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
+    <li class="backlink-item-wrap"><a href="Fraunhofer%20diffraction.html" class="backlink-item">Fraunhofer diffraction</a></li>
+    <li class="backlink-item-wrap"><a href="Optical%20transfer%20function.html" class="backlink-item">Optical transfer function</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

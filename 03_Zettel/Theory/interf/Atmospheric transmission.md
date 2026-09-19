@@ -2,7 +2,6 @@
 layout: "default"
 title: "Atmospheric transmission"
 ---
-{% raw %}
 Astronomers studying the Universe from the surface of the Earth have to peer through the atmosphere
 	that leads to several undesirable consequences
 		which affect different observing windows in different ways
@@ -114,13 +113,13 @@ This means: **all X-ray and gamma-ray observatories must operate from space**
 | Soft X-ray | 0.1–10 nm | 0.1–10 keV | Space |
 | Hard X-ray | 0.01–0.1 nm | 10–100 keV | Space (balloon possible) |
 | Gamma-ray | $< 0.01$ nm | $> 100$ keV | Space |
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
     <li class="backlink-item-wrap"><a href="../Atmospheric%20transparency%20windows.html" class="backlink-item">Atmospheric transparency windows</a></li>
-    <li class="backlink-item-wrap"><a href="./Atmospheric%20transparency%20windows.html" class="backlink-item">Atmospheric transparency windows</a></li>
+    <li class="backlink-item-wrap"><a href="Atmospheric%20transparency%20windows.html" class="backlink-item">Atmospheric transparency windows</a></li>
     <li class="backlink-item-wrap"><a href="../../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
   </ul>
 </div>
+

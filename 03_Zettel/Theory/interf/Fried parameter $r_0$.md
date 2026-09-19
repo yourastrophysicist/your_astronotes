@@ -2,7 +2,6 @@
 layout: "default"
 title: "Fried parameter $r_0$"
 ---
-{% raw %}
 # Fried parameter $r_0$
 
 the *single number* that summarizes how good seeing is at an observing site. $r_0$ is the size of the patch over which the atmospheric phase is coherent within $\sim 1$ rad. defined by David Fried (1965), it is the universal yardstick of optical observing conditions.
@@ -108,33 +107,33 @@ the parameter is now everywhere in optical astronomy and adaptive-optics literat
 
 ## see also
 
-- [Atmospheric turbulence overview](./Atmospheric%20turbulence%20overview.html)
-- [Kolmogorov turbulence](./Kolmogorov%20turbulence.html)
-- [Structure function and correlation function](./Structure%20function%20and%20correlation%20function.html)
-- [Isoplanatic patch](./Isoplanatic%20patch.html)
-- [Frozen turbulence and Taylor hypothesis](./Frozen%20turbulence%20and%20Taylor%20hypothesis.html)
-- [Adaptive optics](./Adaptive%20optics.html)
+- [Atmospheric turbulence overview](Atmospheric%20turbulence%20overview.html)
+- [Kolmogorov turbulence](Kolmogorov%20turbulence.html)
+- [Structure function and correlation function](Structure%20function%20and%20correlation%20function.html)
+- [Isoplanatic patch](Isoplanatic%20patch.html)
+- [Frozen turbulence and Taylor hypothesis](Frozen%20turbulence%20and%20Taylor%20hypothesis.html)
+- [Adaptive optics](Adaptive%20optics.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (16)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Adaptive%20optics.html" class="backlink-item">Adaptive optics</a></li>
     <li class="backlink-item-wrap"><a href="../Adaptive%20optics.html" class="backlink-item">Adaptive optics</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Atmospheric%20turbulence%20overview.html" class="backlink-item">Atmospheric turbulence overview</a></li>
     <li class="backlink-item-wrap"><a href="../Atmospheric%20turbulence%20overview.html" class="backlink-item">Atmospheric turbulence overview</a></li>
-    <li class="backlink-item-wrap"><a href="./Frozen%20turbulence%20and%20Taylor%20hypothesis.html" class="backlink-item">Frozen turbulence and Taylor hypothesis</a></li>
     <li class="backlink-item-wrap"><a href="../Frozen%20turbulence%20and%20Taylor%20hypothesis.html" class="backlink-item">Frozen turbulence and Taylor hypothesis</a></li>
-    <li class="backlink-item-wrap"><a href="./Isoplanatic%20patch.html" class="backlink-item">Isoplanatic patch</a></li>
     <li class="backlink-item-wrap"><a href="../Isoplanatic%20patch.html" class="backlink-item">Isoplanatic patch</a></li>
     <li class="backlink-item-wrap"><a href="../Kolmogorov%20turbulence.html" class="backlink-item">Kolmogorov turbulence</a></li>
-    <li class="backlink-item-wrap"><a href="./Kolmogorov%20turbulence.html" class="backlink-item">Kolmogorov turbulence</a></li>
-    <li class="backlink-item-wrap"><a href="./Scintillation%20and%20twinkling.html" class="backlink-item">Scintillation and twinkling</a></li>
     <li class="backlink-item-wrap"><a href="../Scintillation%20and%20twinkling.html" class="backlink-item">Scintillation and twinkling</a></li>
-    <li class="backlink-item-wrap"><a href="./Structure%20function%20and%20correlation%20function.html" class="backlink-item">Structure function and correlation function</a></li>
     <li class="backlink-item-wrap"><a href="../Structure%20function%20and%20correlation%20function.html" class="backlink-item">Structure function and correlation function</a></li>
     <li class="backlink-item-wrap"><a href="../The%20phase%20problem%20in%20interferometry.html" class="backlink-item">The phase problem in interferometry</a></li>
+    <li class="backlink-item-wrap"><a href="Adaptive%20optics.html" class="backlink-item">Adaptive optics</a></li>
+    <li class="backlink-item-wrap"><a href="Atmospheric%20turbulence%20overview.html" class="backlink-item">Atmospheric turbulence overview</a></li>
+    <li class="backlink-item-wrap"><a href="Frozen%20turbulence%20and%20Taylor%20hypothesis.html" class="backlink-item">Frozen turbulence and Taylor hypothesis</a></li>
+    <li class="backlink-item-wrap"><a href="Isoplanatic%20patch.html" class="backlink-item">Isoplanatic patch</a></li>
+    <li class="backlink-item-wrap"><a href="Kolmogorov%20turbulence.html" class="backlink-item">Kolmogorov turbulence</a></li>
+    <li class="backlink-item-wrap"><a href="Scintillation%20and%20twinkling.html" class="backlink-item">Scintillation and twinkling</a></li>
+    <li class="backlink-item-wrap"><a href="Structure%20function%20and%20correlation%20function.html" class="backlink-item">Structure function and correlation function</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

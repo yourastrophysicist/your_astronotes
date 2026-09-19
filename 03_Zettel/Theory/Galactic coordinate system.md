@@ -2,7 +2,6 @@
 layout: "default"
 title: "Galactic coordinate system"
 ---
-{% raw %}
 the **Galactic coordinate system** uses the fundamental symmetry plane of our own galaxy, the Milky Way, as its primary reference circle. it is the indispensable coordinate frame for studying Galactic structure, stellar kinematics, the interstellar medium (ISM), and the distribution of dark matter in our Galaxy.
 
 ![sphereastro2-05.png](../../assets/images/sphereastro2-05.png)
@@ -61,13 +60,13 @@ where $\alpha_P = 192.86^\circ$ ($12^{\rm h}51.4^{\rm m}$), $\delta_P = +27.13^\
 ## see also
 
 - [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Milky Way structure](./Milky%20Way%20structure.html)
-- [Interstellar medium components and gas cycle](./Interstellar%20medium%20components%20and%20gas%20cycle.html)
-- [Spiral arm kinematics](./Spiral%20arm%20kinematics.html)
-- [Dark matter on galactic scales](./Dark%20matter%20on%20galactic%20scales.html)
-- [Galactic Center](./Galactic%20Center.html)
-- [Equatorial system](./Equatorial%20system.html)
-- [Ecliptic system](./Ecliptic%20system.html)
+- [Milky Way structure](Milky%20Way%20structure.html)
+- [Interstellar medium components and gas cycle](Interstellar%20medium%20components%20and%20gas%20cycle.html)
+- [Spiral arm kinematics](Spiral%20arm%20kinematics.html)
+- [Dark matter on galactic scales](Dark%20matter%20on%20galactic%20scales.html)
+- [Galactic Center](Galactic%20Center.html)
+- [Equatorial system](Equatorial%20system.html)
+- [Ecliptic system](Ecliptic%20system.html)
 
 ---
 
@@ -78,14 +77,14 @@ where $\alpha_P = 192.86^\circ$ ($12^{\rm h}51.4^{\rm m}$), $\delta_P = +27.13^\
 
 ![obs_sph2-24.png](../../assets/images/obs_sph2-24.png)
 *IAU 1958 Galactic North Pole and Galactic Center definition.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Ecliptic%20system.html" class="backlink-item">Ecliptic system</a></li>
+    <li class="backlink-item-wrap"><a href="Ecliptic%20system.html" class="backlink-item">Ecliptic system</a></li>
+    <li class="backlink-item-wrap"><a href="Milky%20Way%20structure.html" class="backlink-item">Milky Way structure</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Milky%20Way%20structure.html" class="backlink-item">Milky Way structure</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

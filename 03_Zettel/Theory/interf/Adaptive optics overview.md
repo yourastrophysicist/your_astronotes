@@ -2,8 +2,7 @@
 layout: "default"
 title: "Adaptive optics overview"
 ---
-{% raw %}
-**adaptive optics (AO)** is the technique of measuring the atmospheric wavefront distortion in real time and correcting it with a deformable mirror, *before* the science detector sees the image. it is what breaks the seeing limit ([Atmospheric seeing](./Atmospheric%20seeing.html)) and recovers (most of) the diffraction limit at large telescopes.
+**adaptive optics (AO)** is the technique of measuring the atmospheric wavefront distortion in real time and correcting it with a deformable mirror, *before* the science detector sees the image. it is what breaks the seeing limit ([Atmospheric seeing](Atmospheric%20seeing.html)) and recovers (most of) the diffraction limit at large telescopes.
 
 ## the components
 
@@ -74,7 +73,7 @@ the next generation telescopes (ELT $39$ m, GMT $25$ m, TMT $30$ m) all rely on 
 
 ## see also
 
-- [Atmospheric seeing](./Atmospheric%20seeing.html)
+- [Atmospheric seeing](Atmospheric%20seeing.html)
 - [Earth atmosphere for observations](../Earth%20atmosphere%20for%20observations.html)
 - [Telescope resolving power](../Telescope%20resolving%20power.html)
 - [Point Spread Function (PSF)](../Point%20Spread%20Function%20%28PSF%29.html)
@@ -99,22 +98,21 @@ the next generation telescopes (ELT $39$ m, GMT $25$ m, TMT $30$ m) all rely on 
 
 ![obs_atm-55.png](../../../assets/images/obs_atm-55.png)
 *Laser Guide Stars (LGS): sodium layer (90 km) vs Rayleigh beacon, cone effect, Strehl ratio.*
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (12)</h4>
+  <h4 class="backlinks-title">Linked References (11)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../02_Literature/Lectures/Exoplanetary_Astrophysics/07_Direct_Imaging_Physics_and_High_Contrast_Techniques.html" class="backlink-item">07_Direct_Imaging_Physics_and_High_Contrast_Techniques</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Atmospheric%20dispersion.html" class="backlink-item">Atmospheric dispersion</a></li>
     <li class="backlink-item-wrap"><a href="../Atmospheric%20dispersion.html" class="backlink-item">Atmospheric dispersion</a></li>
     <li class="backlink-item-wrap"><a href="../Atmospheric%20layers.html" class="backlink-item">Atmospheric layers</a></li>
-    <li class="backlink-item-wrap"><a href="./Atmospheric%20layers.html" class="backlink-item">Atmospheric layers</a></li>
     <li class="backlink-item-wrap"><a href="../Atmospheric%20scintillation.html" class="backlink-item">Atmospheric scintillation</a></li>
-    <li class="backlink-item-wrap"><a href="./Atmospheric%20scintillation.html" class="backlink-item">Atmospheric scintillation</a></li>
     <li class="backlink-item-wrap"><a href="../Atmospheric%20seeing.html" class="backlink-item">Atmospheric seeing</a></li>
-    <li class="backlink-item-wrap"><a href="./Atmospheric%20seeing.html" class="backlink-item">Atmospheric seeing</a></li>
     <li class="backlink-item-wrap"><a href="../Earth%20atmosphere%20for%20observations.html" class="backlink-item">Earth atmosphere for observations</a></li>
+    <li class="backlink-item-wrap"><a href="Atmospheric%20dispersion.html" class="backlink-item">Atmospheric dispersion</a></li>
+    <li class="backlink-item-wrap"><a href="Atmospheric%20layers.html" class="backlink-item">Atmospheric layers</a></li>
+    <li class="backlink-item-wrap"><a href="Atmospheric%20scintillation.html" class="backlink-item">Atmospheric scintillation</a></li>
+    <li class="backlink-item-wrap"><a href="Atmospheric%20seeing.html" class="backlink-item">Atmospheric seeing</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

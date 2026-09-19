@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Gravitational microlensing of planetary systems"
-name: "Gravitational microlensing of planetary systems"
-description: "gravitational deflection of light, Einstein ring, caustic crossings, binary lens equations, and cold wide-orbit planet detection"
 ---
-{% raw %}
 gravitational microlensing detects exoplanets through the relativistic bending of light from a background source star by the gravitational field of an intervening lens star hosting a planet.
 
 ## the point-mass lens and the einstein radius
@@ -36,9 +33,8 @@ the determinant of the Jacobian $\det J = 0$ defines closed curves in the source
 
 - [Exoplanetary_Astrophysics_MOC](../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)
 - [05_Gravitational_Microlensing_Principles_and_Light_Curves](../../02_Literature/Lectures/Exoplanetary_Astrophysics/05_Gravitational_Microlensing_Principles_and_Light_Curves.html)
-- [Exoplanet demographic distributions and survey completeness](./Exoplanet%20demographic%20distributions%20and%20survey%20completeness.html)
+- [Exoplanet demographic distributions and survey completeness](Exoplanet%20demographic%20distributions%20and%20survey%20completeness.html)
 - [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (1)</h4>
@@ -46,3 +42,4 @@ the determinant of the Jacobian $\det J = 0$ defines closed curves in the source
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

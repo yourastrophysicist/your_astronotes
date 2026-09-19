@@ -2,7 +2,6 @@
 layout: "default"
 title: "Galactic novae spectroscopy"
 ---
-{% raw %}
 a **classical nova** is a thermonuclear runaway on the surface of a white dwarf accreting from a companion. the resulting spectrum evolves dramatically over weeks to months, with line widths and ionisation state changing as the ejecta expand and thin.
 
 ## the event
@@ -56,22 +55,22 @@ novae are **single-degenerate analogs** of SN Ia progenitors, but at much lower 
 
 ## see also
 
-- [Emission line stars](./Emission%20line%20stars.html)
-- [Symbiotic star spectroscopy](./Symbiotic%20star%20spectroscopy.html)
-- [Supernova spectroscopy](./Supernova%20spectroscopy.html)
-- [Type Ia supernovae as standard candles](./Type%20Ia%20supernovae%20as%20standard%20candles.html)
-- [Hydrogen spectral series](./Hydrogen%20spectral%20series.html)
-- [OIII forbidden lines](./OIII%20forbidden%20lines.html)
-- [Forbidden lines](./Forbidden%20lines.html)
-- [Recombination continuum](./Recombination%20continuum.html)
-{% endraw %}
+- [Emission line stars](Emission%20line%20stars.html)
+- [Symbiotic star spectroscopy](Symbiotic%20star%20spectroscopy.html)
+- [Supernova spectroscopy](Supernova%20spectroscopy.html)
+- [Type Ia supernovae as standard candles](Type%20Ia%20supernovae%20as%20standard%20candles.html)
+- [Hydrogen spectral series](Hydrogen%20spectral%20series.html)
+- [OIII forbidden lines](OIII%20forbidden%20lines.html)
+- [Forbidden lines](Forbidden%20lines.html)
+- [Recombination continuum](Recombination%20continuum.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Emission%20line%20stars.html" class="backlink-item">Emission line stars</a></li>
+    <li class="backlink-item-wrap"><a href="Supernova%20spectroscopy.html" class="backlink-item">Supernova spectroscopy</a></li>
+    <li class="backlink-item-wrap"><a href="Symbiotic%20star%20spectroscopy.html" class="backlink-item">Symbiotic star spectroscopy</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Emission%20line%20stars.html" class="backlink-item">Emission line stars</a></li>
-    <li class="backlink-item-wrap"><a href="./Supernova%20spectroscopy.html" class="backlink-item">Supernova spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="./Symbiotic%20star%20spectroscopy.html" class="backlink-item">Symbiotic star spectroscopy</a></li>
   </ul>
 </div>
+

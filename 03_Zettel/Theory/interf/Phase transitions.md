@@ -2,7 +2,6 @@
 layout: "default"
 title: "Phase transitions"
 ---
-{% raw %}
 cosmic **phase transitions** mark moments when the symmetry of the early universe was **broken** as it cooled, producing the structure of fundamental forces + particles we see today. each transition leaves observational + theoretical relics.
 
 ## the major transitions
@@ -75,7 +74,6 @@ if confirmed: a **direct probe** of physics beyond the Standard Model (e.g. dark
 - [Baryogenesis](../Baryogenesis.html)
 - [Standard model problems](../Standard%20model%20problems.html)
 - [Observational_Cosmology_MOC](../../../04_Atlas/Observational_Cosmology_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (2)</h4>
@@ -84,3 +82,4 @@ if confirmed: a **direct probe** of physics beyond the Standard Model (e.g. dark
     <li class="backlink-item-wrap"><a href="../../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
   </ul>
 </div>
+

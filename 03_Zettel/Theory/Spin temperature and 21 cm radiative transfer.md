@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Spin temperature and 21 cm radiative transfer"
-name: "Spin temperature and 21 cm radiative transfer"
-description: "excitation balance, optical depth, and column density derivation for the 21 cm neutral hydrogen line"
 ---
-{% raw %}
 the excitation state of the two hyperfine levels of neutral hydrogen is parameterized by the **spin temperature** $T_s$:
 
 $$\frac{n_1}{n_0} = \frac{g_1}{g_0} \exp\left(-\frac{h\nu_0}{k T_s}\right) = 3 \exp\left(-\frac{0.0682\text{ K}}{T_s}\right)$$
@@ -52,16 +49,15 @@ where $T_B$ is in Kelvin and $v$ is in $\text{km s}^{-1}$. this provides a direc
 ## see also
 
 - [Astrophysics_of_the_Interstellar_Medium_MOC](../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html)
-- [HI 21 cm hyperfine transition](./HI%2021%20cm%20hyperfine%20transition.html)
-- [Galactic HI kinematics and Milky Way spiral structure](./Galactic%20HI%20kinematics%20and%20Milky%20Way%20spiral%20structure.html)
+- [HI 21 cm hyperfine transition](HI%2021%20cm%20hyperfine%20transition.html)
+- [Galactic HI kinematics and Milky Way spiral structure](Galactic%20HI%20kinematics%20and%20Milky%20Way%20spiral%20structure.html)
 - [Carraro_02_Neutral_Hydrogen_and_21cm_Universe](../../02_Literature/Lectures/Interstellar_Medium/Carraro_02_Neutral_Hydrogen_and_21cm_Universe.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
+  <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="HI%2021%20cm%20hyperfine%20transition.html" class="backlink-item">HI 21 cm hyperfine transition</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html" class="backlink-item">Astrophysics_of_the_Interstellar_Medium_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Interstellar_Medium/Carraro_02_Neutral_Hydrogen_and_21cm_Universe.html" class="backlink-item">Carraro_02_Neutral_Hydrogen_and_21cm_Universe</a></li>
-    <li class="backlink-item-wrap"><a href="./HI%2021%20cm%20hyperfine%20transition.html" class="backlink-item">HI 21 cm hyperfine transition</a></li>
   </ul>
 </div>
+

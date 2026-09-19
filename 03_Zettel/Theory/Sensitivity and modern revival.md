@@ -2,7 +2,6 @@
 layout: "default"
 title: "Sensitivity and modern revival"
 ---
-{% raw %}
 # Sensitivity and modern revival of intensity interferometry
 
 after Narrabri shut down in 1972, intensity interferometry was dormant for ~40 years. modern detectors and large arrays (originally built for gamma-ray astronomy) have brought it back, with sensitivity gains that put bright-star imaging within reach.
@@ -104,4 +103,3 @@ three lessons from the modern revival:
 - [Narrabri stellar interferometer](interf/Narrabri%20stellar%20interferometer.html)
 - [Why intensity interferometry escapes atmospheric phase](interf/Why%20intensity%20interferometry%20escapes%20atmospheric%20phase.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

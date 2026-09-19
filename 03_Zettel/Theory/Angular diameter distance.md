@@ -2,7 +2,6 @@
 layout: "default"
 title: "Angular diameter distance"
 ---
-{% raw %}
 the **angular diameter distance** $d_A$ relates the **physical size** of an object to its **observed angular size**. defined so that the small-angle relation $\theta = D/d_A$ holds.
 
 ## the formula
@@ -10,7 +9,7 @@ the **angular diameter distance** $d_A$ relates the **physical size** of an obje
 for a **flat** universe ($k = 0$):
 $$\boxed{\, d_A(z) = \frac{d_C(z)}{1 + z} \,}$$
 
-with $d_C(z)$ the comoving distance (see [Radial comoving distance](./Radial%20comoving%20distance.html)).
+with $d_C(z)$ the comoving distance (see [Radial comoving distance](Radial%20comoving%20distance.html)).
 
 at low $z$: $d_A \approx cz/H_0$, just like Newtonian distance.
 
@@ -56,26 +55,26 @@ resolved by HST and JWST routinely.
 ## see also
 
 - 03_Zettel/Theory/Cosmological distances
-- [Radial comoving distance](./Radial%20comoving%20distance.html)
-- [Luminosity distance](./Luminosity%20distance.html)
-- [Surface brightness dimming](./Surface%20brightness%20dimming.html)
-- [FLRW metric](./FLRW%20metric.html)
-- [CMB power spectrum](./CMB%20power%20spectrum.html)
-- [Matter power spectrum and BAO](./Matter%20power%20spectrum%20and%20BAO.html)
+- [Radial comoving distance](Radial%20comoving%20distance.html)
+- [Luminosity distance](Luminosity%20distance.html)
+- [Surface brightness dimming](Surface%20brightness%20dimming.html)
+- [FLRW metric](FLRW%20metric.html)
+- [CMB power spectrum](CMB%20power%20spectrum.html)
+- [Matter power spectrum and BAO](Matter%20power%20spectrum%20and%20BAO.html)
 - [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (9)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Comoving%20vs%20proper%20coordinates.html" class="backlink-item">Comoving vs proper coordinates</a></li>
-    <li class="backlink-item-wrap"><a href="./Cosmology%20calculator%20-%20how%20to%20use%20H0%20Omega_m%20Omega_Lambda%20to%20get%20dL%20dA%20t_lookback.html" class="backlink-item">Cosmology calculator - how to use H0 Omega_m Omega_Lambda to get dL dA t_lookback</a></li>
-    <li class="backlink-item-wrap"><a href="./Curvature-dynamics%20relation.html" class="backlink-item">Curvature-dynamics relation</a></li>
-    <li class="backlink-item-wrap"><a href="./Distance%20ladder%20derivations.html" class="backlink-item">Distance ladder derivations</a></li>
-    <li class="backlink-item-wrap"><a href="./K-correction%20in%20optical%20vs%20sub-mm.html" class="backlink-item">K-correction in optical vs sub-mm</a></li>
-    <li class="backlink-item-wrap"><a href="./Luminosity%20distance.html" class="backlink-item">Luminosity distance</a></li>
+    <li class="backlink-item-wrap"><a href="Comoving%20vs%20proper%20coordinates.html" class="backlink-item">Comoving vs proper coordinates</a></li>
+    <li class="backlink-item-wrap"><a href="Cosmology%20calculator%20-%20how%20to%20use%20H0%20Omega_m%20Omega_Lambda%20to%20get%20dL%20dA%20t_lookback.html" class="backlink-item">Cosmology calculator - how to use H0 Omega_m Omega_Lambda to get dL dA t_lookback</a></li>
+    <li class="backlink-item-wrap"><a href="Curvature-dynamics%20relation.html" class="backlink-item">Curvature-dynamics relation</a></li>
+    <li class="backlink-item-wrap"><a href="Distance%20ladder%20derivations.html" class="backlink-item">Distance ladder derivations</a></li>
+    <li class="backlink-item-wrap"><a href="K-correction%20in%20optical%20vs%20sub-mm.html" class="backlink-item">K-correction in optical vs sub-mm</a></li>
+    <li class="backlink-item-wrap"><a href="Luminosity%20distance.html" class="backlink-item">Luminosity distance</a></li>
+    <li class="backlink-item-wrap"><a href="Radial%20comoving%20distance.html" class="backlink-item">Radial comoving distance</a></li>
+    <li class="backlink-item-wrap"><a href="Surface%20brightness%20dimming.html" class="backlink-item">Surface brightness dimming</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Radial%20comoving%20distance.html" class="backlink-item">Radial comoving distance</a></li>
-    <li class="backlink-item-wrap"><a href="./Surface%20brightness%20dimming.html" class="backlink-item">Surface brightness dimming</a></li>
   </ul>
 </div>
+

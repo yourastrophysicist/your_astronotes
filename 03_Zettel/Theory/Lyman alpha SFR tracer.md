@@ -2,7 +2,6 @@
 layout: "default"
 title: "Lyman alpha SFR tracer"
 ---
-{% raw %}
 # Lyman alpha SFR tracer
 
 up: [Pablo_03_Star_formation_in_galaxies](../../02_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html)
@@ -47,10 +46,10 @@ which is just $L(\text{H}\alpha)$ calibration scaled by $1/8.7$. in reality, $f_
 
 ## connections
 
-- recombination physics: [H-alpha SFR tracer](./H-alpha%20SFR%20tracer.html)
-- reionization: [Reionization](./Reionization.html) (block 9 of Observational Cosmology)
-- extinction: [Dust attenuation and extinction curves](./Dust%20attenuation%20and%20extinction%20curves.html)
-- other emission lines: [Other SFR tracer lines](./Other%20SFR%20tracer%20lines.html), [OII SFR tracer](./OII%20SFR%20tracer.html)
+- recombination physics: [H-alpha SFR tracer](H-alpha%20SFR%20tracer.html)
+- reionization: [Reionization](Reionization.html) (block 9 of Observational Cosmology)
+- extinction: [Dust attenuation and extinction curves](Dust%20attenuation%20and%20extinction%20curves.html)
+- other emission lines: [Other SFR tracer lines](Other%20SFR%20tracer%20lines.html), [OII SFR tracer](OII%20SFR%20tracer.html)
 
 ## key references
 
@@ -58,14 +57,13 @@ which is just $L(\text{H}\alpha)$ calibration scaled by $1/8.7$. in reality, $f_
 - Verhamme, Schaerer, Maselli 2006, 2008 (radiative transfer)
 - Hayes 2015 (Lyα review)
 - Mason et al. 2018 (reionization use)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
+  <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./OII%20SFR%20tracer.html" class="backlink-item">OII SFR tracer</a></li>
+    <li class="backlink-item-wrap"><a href="OII%20SFR%20tracer.html" class="backlink-item">OII SFR tracer</a></li>
+    <li class="backlink-item-wrap"><a href="Protocluster%20detection%20techniques.html" class="backlink-item">Protocluster detection techniques</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html" class="backlink-item">Pablo_03_Star_formation_in_galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="./Protocluster%20detection%20techniques.html" class="backlink-item">Protocluster detection techniques</a></li>
   </ul>
 </div>
+

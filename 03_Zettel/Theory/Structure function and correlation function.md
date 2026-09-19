@@ -1,12 +1,8 @@
 ---
 layout: "default"
 title: "Structure function and correlation function"
-type: "zettel"
-created: "2026-08-04"
-moc: ""
 tags: ""
 ---
-{% raw %}
 > The structure function measures how much the phase of an incoming wavefront varies on average between two points separated by a given distance.
 
 ---
@@ -48,4 +44,3 @@ The structure function is the fundamental bridge between the fluid dynamics of a
 
 * parent moc: [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
 * related zettels: [Kolmogorov turbulence](interf/Kolmogorov%20turbulence.html), [Fried parameter $r_0$](interf/Fried%20parameter%20%24r_0%24.html), [Isoplanatic patch](interf/Isoplanatic%20patch.html), [Atmospheric turbulence overview](interf/Atmospheric%20turbulence%20overview.html)
-{% endraw %}

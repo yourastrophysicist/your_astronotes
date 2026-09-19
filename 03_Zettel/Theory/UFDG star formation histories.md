@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "UFDG star formation histories"
-name: "UFDG star formation histories"
-description: "single old burst at z greater than 6 truncated by reionisation with many UFDGs hosting purely ancient populations"
 ---
-{% raw %}
 ultra-faint dwarf galaxies are **fossils of the early universe**. their colour-magnitude diagrams show that the bulk of their stars formed in a single ancient episode and that star formation **shut down well before $z \sim 1$**, in many cases before $z \sim 6$, i.e. before the universe was a billion years old.
 
 **the canonical SFH**:
@@ -25,7 +22,7 @@ ultra-faint dwarf galaxies are **fossils of the early universe**. their colour-m
 
 - low mean $[\text{Fe/H}]$ ($\sim -2.5$) because few generations of supernovae enriched the gas before it was lost.
 - broad $[\text{Fe/H}]$ spread despite low mean (often $\sim 0.5$-$1$ dex) because each individual SN dominated local enrichment in such small systems (stochastic nucleosynthesis).
-- presence of **CEMP-no stars** (carbon-enhanced metal-poor without s-process or r-process enrichment), which are inherited from pop iii progenitors (see [Pop III remnants in UFDGs](./Pop%20III%20remnants%20in%20UFDGs.html)).
+- presence of **CEMP-no stars** (carbon-enhanced metal-poor without s-process or r-process enrichment), which are inherited from pop iii progenitors (see [Pop III remnants in UFDGs](Pop%20III%20remnants%20in%20UFDGs.html)).
 - enhanced $[\alpha/\text{Fe}]$, characteristic of pure core-collapse SN enrichment with no time for type ia.
 - in some cases (reticulum ii) a strong r-process enhancement attributed to a single early neutron-star merger.
 
@@ -39,18 +36,18 @@ ultra-faint dwarf galaxies are **fossils of the early universe**. their colour-m
 
 - UFDGs are direct probes of **reionisation feedback**. their old-only population is direct evidence that reionisation can quench dwarfs.
 - their stellar populations are the closest local analogues of the high-redshift dwarfs that JWST is now beginning to find.
-- they are the building blocks that contributed to the very oldest, most metal-poor part of the milky way halo (see [Halo accretion from dwarf galaxies](./Halo%20accretion%20from%20dwarf%20galaxies.html)).
+- they are the building blocks that contributed to the very oldest, most metal-poor part of the milky way halo (see [Halo accretion from dwarf galaxies](Halo%20accretion%20from%20dwarf%20galaxies.html)).
 
-see also [Ultra-faint dwarf galaxies definition](./Ultra-faint%20dwarf%20galaxies%20definition.html), [UFDG dark matter content](./UFDG%20dark%20matter%20content.html), [UFDG search via deep CMD](./UFDG%20search%20via%20deep%20CMD.html), [Pop III remnants in UFDGs](./Pop%20III%20remnants%20in%20UFDGs.html), [Stellar populations I II III](./Stellar%20populations%20I%20II%20III.html), [Color-magnitude diagrams of clusters](./Color-magnitude%20diagrams%20of%20clusters.html), [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
-{% endraw %}
+see also [Ultra-faint dwarf galaxies definition](Ultra-faint%20dwarf%20galaxies%20definition.html), [UFDG dark matter content](UFDG%20dark%20matter%20content.html), [UFDG search via deep CMD](UFDG%20search%20via%20deep%20CMD.html), [Pop III remnants in UFDGs](Pop%20III%20remnants%20in%20UFDGs.html), [Stellar populations I II III](Stellar%20populations%20I%20II%20III.html), [Color-magnitude diagrams of clusters](Color-magnitude%20diagrams%20of%20clusters.html), [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Pop%20III%20remnants%20in%20UFDGs.html" class="backlink-item">Pop III remnants in UFDGs</a></li>
+    <li class="backlink-item-wrap"><a href="Pop%20III%20remnants%20in%20UFDGs.html" class="backlink-item">Pop III remnants in UFDGs</a></li>
+    <li class="backlink-item-wrap"><a href="UFDG%20dark%20matter%20content.html" class="backlink-item">UFDG dark matter content</a></li>
+    <li class="backlink-item-wrap"><a href="UFDG%20search%20via%20deep%20CMD.html" class="backlink-item">UFDG search via deep CMD</a></li>
+    <li class="backlink-item-wrap"><a href="Ultra-faint%20dwarf%20galaxies%20definition.html" class="backlink-item">Ultra-faint dwarf galaxies definition</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./UFDG%20dark%20matter%20content.html" class="backlink-item">UFDG dark matter content</a></li>
-    <li class="backlink-item-wrap"><a href="./UFDG%20search%20via%20deep%20CMD.html" class="backlink-item">UFDG search via deep CMD</a></li>
-    <li class="backlink-item-wrap"><a href="./Ultra-faint%20dwarf%20galaxies%20definition.html" class="backlink-item">Ultra-faint dwarf galaxies definition</a></li>
   </ul>
 </div>
+

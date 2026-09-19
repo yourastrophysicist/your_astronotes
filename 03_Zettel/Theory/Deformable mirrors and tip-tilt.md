@@ -2,7 +2,6 @@
 layout: "default"
 title: "Deformable mirrors and tip-tilt"
 ---
-{% raw %}
 # Deformable mirrors and tip-tilt
 
 the *correction* component of an AO system. once the wavefront sensor reports the residual wavefront error, an actuator-driven mirror physically reshapes itself to compensate. modern DMs have hundreds to thousands of independent actuators, each adjustable on microsecond timescales.
@@ -104,4 +103,3 @@ solutions: closed-loop calibration, redundant actuators, replaceable mirror sect
 - [Wavefront sensors](interf/Wavefront%20sensors.html)
 - [Guide stars and laser guide stars](interf/Guide%20stars%20and%20laser%20guide%20stars.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

@@ -2,7 +2,6 @@
 layout: "default"
 title: "10_Radial_Velocity_Foundations_and_Keplerian_Orbits"
 ---
-{% raw %}
 # Lesson 10 – Radial Velocity I: Foundations and Keplerian Orbits
 
 *Exoplanetary Astrophysics, Prof. Giampaolo Piotto (Lecture 11/11/2025)*  
@@ -168,14 +167,12 @@ Modern Doppler spectroscopy does not measure radial velocity from a single absor
 - Previous Lecture: [09_Astrometric_Detection_and_Gaia_Capabilities](./09_Astrometric_Detection_and_Gaia_Capabilities.html)
 - Next Lecture: [11_High_Precision_Spectrographs_and_Doppler_Measurement](./11_High_Precision_Spectrographs_and_Doppler_Measurement.html)
 - Related Notes: Radial velocity method and Keplerian orbits | [Binary star orbits](../../../03_Zettel/Theory/interf/Binary%20star%20orbits.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
+  <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./09_Astrometric_Detection_and_Gaia_Capabilities.html" class="backlink-item">09_Astrometric_Detection_and_Gaia_Capabilities</a></li>
-    <li class="backlink-item-wrap"><a href="./11_High_Precision_Spectrographs_and_Doppler_Measurement.html" class="backlink-item">11_High_Precision_Spectrographs_and_Doppler_Measurement</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Keplerian%20radial%20velocity%20and%20Doppler%20semi-amplitude.html" class="backlink-item">Keplerian radial velocity and Doppler semi-amplitude</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

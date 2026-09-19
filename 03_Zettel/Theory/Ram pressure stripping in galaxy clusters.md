@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Ram pressure stripping in galaxy clusters"
-name: "Ram pressure stripping in galaxy clusters"
-description: "Gunn-Gott criterion, gas removal from cluster spirals, jellyfish galaxies, and morphological quenching"
 ---
-{% raw %}
 galaxies moving through the hot ($T \sim 10^7 - 10^8\text{ K}$), diffuse Intra-Cluster Medium (ICM) experience hydrodynamic drag.
 
 ## the gunn-gott criterion (1972)
@@ -33,13 +30,12 @@ $$\boxed{P_{\text{ram}} > 2\pi G \Sigma_* \Sigma_{\text{gas}}}$$
 
 - [Astrophysics_of_the_Interstellar_Medium_MOC](../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html)
 - [Carraro_06_Supernovae_and_Hot_Ionized_Medium](../../02_Literature/Lectures/Interstellar_Medium/Carraro_06_Supernovae_and_Hot_Ionized_Medium.html)
-- [Galaxy clusters and overview of evolution](./Galaxy%20clusters%20and%20overview%20of%20evolution.html)
-{% endraw %}
+- [Galaxy clusters and overview of evolution](Galaxy%20clusters%20and%20overview%20of%20evolution.html)
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
+  <h4 class="backlinks-title">Linked References (1)</h4>
   <ul class="backlinks-list">
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html" class="backlink-item">Astrophysics_of_the_Interstellar_Medium_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Interstellar_Medium/Carraro_06_Supernovae_and_Hot_Ionized_Medium.html" class="backlink-item">Carraro_06_Supernovae_and_Hot_Ionized_Medium</a></li>
   </ul>
 </div>
+

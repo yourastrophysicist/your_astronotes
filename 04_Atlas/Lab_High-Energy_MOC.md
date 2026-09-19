@@ -2,7 +2,6 @@
 layout: "default"
 title: "Lab_High-Energy_MOC"
 ---
-{% raw %}
 # High Energy Astrophysics Laboratory — Map of Content
 
 The central thread of this course is a single question:
@@ -456,25 +455,3 @@ Every single X-ray telescope diagram, detector schematic, XSPEC spectral fit, Sw
 | **Absorption Transmission** | $T(E) = e^{-N_H \sigma_{\rm ISM}(E)}$ | ISM continuum attenuation factor; $N_H$ = neutral H column density |
 | **Power-Law Photon Flux** | $F(E) = K E^{-\Gamma}$ | Continuum emission model; $\Gamma = \alpha + 1$ (photon index) |
 | **Eddington Luminosity** | $L_{\rm Edd} = \frac{4\pi G M m_p c}{\sigma_T} \approx 1.26 \times 10^{38}\left(\frac{M}{M_\odot}\right)\,{\rm erg/s}$ | Maximum radiation-balanced steady accretion luminosity |
-{% endraw %}
-
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (15)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./04_Atlas.html" class="backlink-item">04_Atlas</a></li>
-    <li class="backlink-item-wrap"><a href="./Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/CCD%20detectors%20and%20SNR.html" class="backlink-item">CCD detectors and SNR</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Cosmic_inventory_overview.html" class="backlink-item">Cosmic_inventory_overview</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Cosmic_inventory_photons.html" class="backlink-item">Cosmic_inventory_photons</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Earth%20atmosphere%20for%20observations.html" class="backlink-item">Earth atmosphere for observations</a></li>
-    <li class="backlink-item-wrap"><a href="./Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Galaxy%20clusters%20and%20overview%20of%20evolution.html" class="backlink-item">Galaxy clusters and overview of evolution</a></li>
-    <li class="backlink-item-wrap"><a href="./General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/High_Energy_Instrumentation.html" class="backlink-item">High_Energy_Instrumentation</a></li>
-    <li class="backlink-item-wrap"><a href="./Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Other%20detectors.html" class="backlink-item">Other detectors</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Observational_Cosmology/Pablo_04_Nuclear_activity_in_galaxies.html" class="backlink-item">Pablo_04_Nuclear_activity_in_galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Survey%20resources%20for%20Obs%20Astro.html" class="backlink-item">Survey resources for Obs Astro</a></li>
-  </ul>
-</div>

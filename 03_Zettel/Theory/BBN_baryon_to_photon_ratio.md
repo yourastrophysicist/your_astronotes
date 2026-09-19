@@ -2,7 +2,6 @@
 layout: "default"
 title: "BBN_baryon_to_photon_ratio"
 ---
-{% raw %}
 a critical cosmological number for nucleosynthesis: the **baryon-to-photon ratio**
 $$\eta \equiv \frac{n_N}{n_\gamma}$$
 
@@ -14,7 +13,7 @@ $$\eta \equiv \frac{n_N}{n_\gamma}$$
 
 a simple estimate gives $n_N = 1.38 \times 10^{-5}\,(\Omega_{0b} h^2)$ cm$^{-3}$ today, where $\Omega_{0b}$ is the baryon density parameter today.
 
-with the photon number density $n_\gamma = (2\zeta(3)/\pi^2) T^3 \simeq 422$ cm$^{-3}$ at $T_0 = 2.725$ K (see [Cosmic_inventory_photons](./Cosmic_inventory_photons.html)):
+with the photon number density $n_\gamma = (2\zeta(3)/\pi^2) T^3 \simeq 422$ cm$^{-3}$ at $T_0 = 2.725$ K (see [Cosmic_inventory_photons](Cosmic_inventory_photons.html)):
 $$\boxed{\,\eta = \frac{n_N}{n_\gamma} = 2.68 \times 10^{-8}\, (\Omega_{0b} h^2) \quad \text{today}\,}$$
 
 with Planck's $\Omega_b h^2 \approx 0.0224$, this gives
@@ -51,7 +50,7 @@ since BBN happens at $T \sim 0.3$–$0.1$ MeV (well after $e^\pm$ annihilation),
 
 ## why the small $\eta$ delays nucleosynthesis
 
-the NSE mass fractions (see [BBN_NSE_initial_conditions](./BBN_NSE_initial_conditions.html)) scale as
+the NSE mass fractions (see [BBN_NSE_initial_conditions](BBN_NSE_initial_conditions.html)) scale as
 $$X_A \propto \eta^{A-1}$$
 
 so for $\eta \sim 10^{-10}$:
@@ -77,7 +76,7 @@ $\eta$ controls:
 - the final abundance of each light element ($X_A \propto \eta^{A-1}$)
 - the predictions for D/H, $^3$He/H, $^4$He/H, $^7$Li/H
 
-so measuring any one of those abundances precisely fixes $\eta$ — and hence $\Omega_b h^2$. this is method 3 in [Cosmic_inventory_baryons](./Cosmic_inventory_baryons.html).
+so measuring any one of those abundances precisely fixes $\eta$ — and hence $\Omega_b h^2$. this is method 3 in [Cosmic_inventory_baryons](Cosmic_inventory_baryons.html).
 
 agreement of $\Omega_b h^2$ from BBN with $\Omega_b h^2$ from CMB peaks is one of the great validations of the standard model.
 
@@ -86,27 +85,27 @@ agreement of $\Omega_b h^2$ from BBN with $\Omega_b h^2$ from CMB peaks is one o
 ## see also
 
 - [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [BBN_overview](./BBN_overview.html)
-- [BBN_NSE_initial_conditions](./BBN_NSE_initial_conditions.html)
-- [BBN_neutron_proton_ratio](./BBN_neutron_proton_ratio.html)
-- [Cosmic_inventory_baryons](./Cosmic_inventory_baryons.html)
-- [Cosmic_inventory_photons](./Cosmic_inventory_photons.html)
-- [Conservation of entropy in a comoving volume](./Conservation%20of%20entropy%20in%20a%20comoving%20volume.html)
-{% endraw %}
+- [BBN_overview](BBN_overview.html)
+- [BBN_NSE_initial_conditions](BBN_NSE_initial_conditions.html)
+- [BBN_neutron_proton_ratio](BBN_neutron_proton_ratio.html)
+- [Cosmic_inventory_baryons](Cosmic_inventory_baryons.html)
+- [Cosmic_inventory_photons](Cosmic_inventory_photons.html)
+- [Conservation of entropy in a comoving volume](Conservation%20of%20entropy%20in%20a%20comoving%20volume.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (11)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./BBN_NSE_initial_conditions.html" class="backlink-item">BBN_NSE_initial_conditions</a></li>
-    <li class="backlink-item-wrap"><a href="./BBN_concordance_with_CMB.html" class="backlink-item">BBN_concordance_with_CMB</a></li>
-    <li class="backlink-item-wrap"><a href="./BBN_neutron_proton_ratio.html" class="backlink-item">BBN_neutron_proton_ratio</a></li>
-    <li class="backlink-item-wrap"><a href="./BBN_predictions.html" class="backlink-item">BBN_predictions</a></li>
-    <li class="backlink-item-wrap"><a href="./BBN_three_steps.html" class="backlink-item">BBN_three_steps</a></li>
-    <li class="backlink-item-wrap"><a href="./Baryogenesis.html" class="backlink-item">Baryogenesis</a></li>
-    <li class="backlink-item-wrap"><a href="./Big%20Bang%20nucleosynthesis.html" class="backlink-item">Big Bang nucleosynthesis</a></li>
-    <li class="backlink-item-wrap"><a href="./Conservation%20of%20entropy%20in%20a%20comoving%20volume.html" class="backlink-item">Conservation of entropy in a comoving volume</a></li>
-    <li class="backlink-item-wrap"><a href="./Cosmic_inventory_photons_derivation.html" class="backlink-item">Cosmic_inventory_photons_derivation</a></li>
+    <li class="backlink-item-wrap"><a href="BBN_NSE_initial_conditions.html" class="backlink-item">BBN_NSE_initial_conditions</a></li>
+    <li class="backlink-item-wrap"><a href="BBN_concordance_with_CMB.html" class="backlink-item">BBN_concordance_with_CMB</a></li>
+    <li class="backlink-item-wrap"><a href="BBN_neutron_proton_ratio.html" class="backlink-item">BBN_neutron_proton_ratio</a></li>
+    <li class="backlink-item-wrap"><a href="BBN_predictions.html" class="backlink-item">BBN_predictions</a></li>
+    <li class="backlink-item-wrap"><a href="BBN_three_steps.html" class="backlink-item">BBN_three_steps</a></li>
+    <li class="backlink-item-wrap"><a href="Baryogenesis.html" class="backlink-item">Baryogenesis</a></li>
+    <li class="backlink-item-wrap"><a href="Big%20Bang%20nucleosynthesis.html" class="backlink-item">Big Bang nucleosynthesis</a></li>
+    <li class="backlink-item-wrap"><a href="Conservation%20of%20entropy%20in%20a%20comoving%20volume.html" class="backlink-item">Conservation of entropy in a comoving volume</a></li>
+    <li class="backlink-item-wrap"><a href="Cosmic_inventory_photons_derivation.html" class="backlink-item">Cosmic_inventory_photons_derivation</a></li>
+    <li class="backlink-item-wrap"><a href="Saha%20equation%20and%20recombination.html" class="backlink-item">Saha equation and recombination</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Saha%20equation%20and%20recombination.html" class="backlink-item">Saha equation and recombination</a></li>
   </ul>
 </div>
+

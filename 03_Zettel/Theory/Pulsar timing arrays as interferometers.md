@@ -2,7 +2,6 @@
 layout: "default"
 title: "Pulsar timing arrays as interferometers"
 ---
-{% raw %}
 # Pulsar timing arrays as interferometers
 
 a *galactic-scale* interferometer made from pulsars. by precisely monitoring the arrival times of pulses from many milliseconds-stable pulsars across the Galaxy, we can detect *low-frequency gravitational waves* — including the cosmic background of supermassive-binary-black-hole mergers throughout cosmic history.
@@ -97,4 +96,3 @@ but the analogy is more deep than literal: PTAs measure GW *strain* (a tensor fi
 - [Major radio interferometers](interf/Major%20radio%20interferometers.html)
 - [Pulsar interferometry](interf/Pulsar%20interferometry.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Superbubbles galactic chimneys and fountains"
-name: "Superbubbles galactic chimneys and fountains"
-description: "collective supernova feedback, superbubble blowout into the galactic halo, chimneys, fountains, and high-velocity clouds"
 ---
-{% raw %}
 correlated supernovae in young OB associations carve out kiloparsec-scale cavities of hot coronal gas ($T \sim 10^6 - 10^7\text{ K}$) termed **superbubbles** (e.g. NGC 1929, 30 Doradus).
 
 ## blowout and galactic chimneys
@@ -27,18 +24,16 @@ the galactic fountain redistributes nucleosynthetic products across the Galactic
 ## see also
 
 - [Astrophysics_of_the_Interstellar_Medium_MOC](../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html)
-- [Sedov-Taylor blast wave expansion](./Sedov-Taylor%20blast%20wave%20expansion.html)
+- [Sedov-Taylor blast wave expansion](Sedov-Taylor%20blast%20wave%20expansion.html)
 - [Carraro_06_Supernovae_and_Hot_Ionized_Medium](../../02_Literature/Lectures/Interstellar_Medium/Carraro_06_Supernovae_and_Hot_Ionized_Medium.html)
-- [Chemical evolution of galaxies](./Chemical%20evolution%20of%20galaxies.html)
-{% endraw %}
+- [Chemical evolution of galaxies](Chemical%20evolution%20of%20galaxies.html)
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
+  <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Line-driven%20stellar%20winds%20and%20P-Cygni%20profiles.html" class="backlink-item">Line-driven stellar winds and P-Cygni profiles</a></li>
+    <li class="backlink-item-wrap"><a href="Sedov-Taylor%20blast%20wave%20expansion.html" class="backlink-item">Sedov-Taylor blast wave expansion</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html" class="backlink-item">Astrophysics_of_the_Interstellar_Medium_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Interstellar_Medium/Carraro_04_Massive_Stars_Feedback_and_Stellar_Winds.html" class="backlink-item">Carraro_04_Massive_Stars_Feedback_and_Stellar_Winds</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Interstellar_Medium/Carraro_06_Supernovae_and_Hot_Ionized_Medium.html" class="backlink-item">Carraro_06_Supernovae_and_Hot_Ionized_Medium</a></li>
-    <li class="backlink-item-wrap"><a href="./Line-driven%20stellar%20winds%20and%20P-Cygni%20profiles.html" class="backlink-item">Line-driven stellar winds and P-Cygni profiles</a></li>
-    <li class="backlink-item-wrap"><a href="./Sedov-Taylor%20blast%20wave%20expansion.html" class="backlink-item">Sedov-Taylor blast wave expansion</a></li>
   </ul>
 </div>
+

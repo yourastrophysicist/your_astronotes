@@ -2,7 +2,6 @@
 layout: "default"
 title: "Grazing incidence"
 ---
-{% raw %}
 X-rays telescopes are different from the optical ones
 	because of **the wavelength of the incident photons**
 
@@ -19,7 +18,7 @@ What happens when $a_r=90°$ ?
 	we can define the **critical angle**:
 $$\alpha_c=\text{arcsin}\frac{n_2}{n_1}$$
 
-![Screenshot 2026-04-06 at 17.43.21.png](../../assets/images/Screenshot 2026-04-06 at 17.43.21.png)
+![Screenshot 2026-04-06 at 17.43.21.png](../../assets/images/Screenshot%202026-04-06%20at%2017.43.21.png)
 <font color="#bfbfbf">(left) The effect of refraction: i and r indicate incidence and refraction, respectively. (center) The case of glass to water. (right) The case of the critical angle.</font> 
 
 Beyond the critical angle, the light ray is **reflected**.
@@ -30,7 +29,7 @@ Therefore, taking into account that X-ray Telescopes are in space and that vacuu
 The X-ray refractive index may be written in the form:
 $$n=1-\delta+i\beta$$ 
 where the real part (with $\delta \sim 10^{-5} - 10^{-4}$) accounts for the **refraction effect** 
-	and the imaginary part (with $\beta \sim 10^{-6}-10^{-5}$) is related to the X-ray [Photoelectric absorption](./Photoelectric%20absorption.html) 
+	and the imaginary part (with $\beta \sim 10^{-6}-10^{-5}$) is related to the X-ray [Photoelectric absorption](Photoelectric%20absorption.html) 
 
 The $\delta$ and $\beta$ parameters represent the optical constants of the material.
 
@@ -42,12 +41,12 @@ If you tried to build a lens,
 		that the focal point ends up tens of meters away
 			which is too far for a single spacecraft.
   Making the lens thicker to compensate does not help either,
-	  because the X-rays would simply be absorbed before passing through due to the large [absorption coefficient](./Photoelectric%20absorption.html) 
+	  because the X-rays would simply be absorbed before passing through due to the large [absorption coefficient](Photoelectric%20absorption.html) 
 		So lenses are completely ruled out.
 
   The only option is mirrors, 
 	  but even there, $\delta$ being so small means a mirror at normal incidence reflects almost nothing
-  The solution is to hit the mirror at an extremely shallow angle, known as [grazing incidence](./Grazing%20incidence.html)
+  The solution is to hit the mirror at an extremely shallow angle, known as [grazing incidence](Grazing%20incidence.html)
 	  where total external reflection becomes possible
 
 **This is why X-ray telescopes look fundamentally different from optical ones**,
@@ -79,21 +78,21 @@ Because of the small value of $\delta$, also $\theta_c$ is small so that we can 
   For a fixed incident angle,
 	  only photons below a certain cut-off energy can be reflected
 
-  It must be noticed that in addition to [Photoelectric absorption](./Photoelectric%20absorption.html)
+  It must be noticed that in addition to [Photoelectric absorption](Photoelectric%20absorption.html)
 	  the impossibility to obtain a perfectly smooth surface must be taken into account 
 		micro-roughness of the mirror surface causes scattering that increases as the incidence angle of radiation increases
 			(remind that $1~\text{nm} = 1.24~\text{keV}$)
 
   **In conclusion, only a near-total reflection is really possible**
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Effective%20Area.html" class="backlink-item">Effective Area</a></li>
+    <li class="backlink-item-wrap"><a href="Effective%20Area.html" class="backlink-item">Effective Area</a></li>
+    <li class="backlink-item-wrap"><a href="Luminosity%20and%20Flux%20for%20-Instrumentations.html" class="backlink-item">Luminosity and Flux for -Instrumentations</a></li>
+    <li class="backlink-item-wrap"><a href="Photoelectric%20absorption.html" class="backlink-item">Photoelectric absorption</a></li>
+    <li class="backlink-item-wrap"><a href="Wolter%20Telescope.html" class="backlink-item">Wolter Telescope</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Luminosity%20and%20Flux%20for%20-Instrumentations.html" class="backlink-item">Luminosity and Flux for -Instrumentations</a></li>
-    <li class="backlink-item-wrap"><a href="./Photoelectric%20absorption.html" class="backlink-item">Photoelectric absorption</a></li>
-    <li class="backlink-item-wrap"><a href="./Wolter%20Telescope.html" class="backlink-item">Wolter Telescope</a></li>
   </ul>
 </div>
+

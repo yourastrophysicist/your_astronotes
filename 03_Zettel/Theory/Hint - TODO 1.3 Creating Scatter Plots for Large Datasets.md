@@ -2,11 +2,10 @@
 layout: "default"
 title: "Hint - TODO 1.3 Creating Scatter Plots for Large Datasets"
 ---
-{% raw %}
 # Hint - TODO 1.3 Creating Scatter Plots for Large Datasets
 
 **Target TODO**: TODO 1.3 in Module_1_Random_Sampling_and_Monte_Carlo  
-**Related Zettels**: [Matplotlib plotting essentials](./Matplotlib%20plotting%20essentials.html)
+**Related Zettels**: [Matplotlib plotting essentials](Matplotlib%20plotting%20essentials.html)
 
 ---
 
@@ -19,4 +18,3 @@ For large datasets ($N = 147,114$ binaries):
 ```python
 ax1.scatter(M1, M2, s=1, alpha=0.2, color='navy')
 ```
-{% endraw %}

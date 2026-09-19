@@ -1,12 +1,8 @@
 ---
 layout: "default"
 title: "Phase referencing"
-type: "zettel"
-created: "2026-08-04"
-moc: ""
 tags: ""
 ---
-{% raw %}
 > Phase referencing removes atmospheric distortions by rapidly nodding the telescope between the science target and a nearby bright calibrator.
 
 ---
@@ -42,4 +38,3 @@ Phase referencing is the standard, unavoidable technique for all connected-eleme
 
 * parent moc: [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
 * related zettels: [The phase problem in interferometry](interf/The%20phase%20problem%20in%20interferometry.html), [Self-calibration](interf/Self-calibration.html), [Isoplanatic patch](interf/Isoplanatic%20patch.html), [Steps in radio interferometric observations](interf/Steps%20in%20radio%20interferometric%20observations.html)
-{% endraw %}

@@ -2,7 +2,6 @@
 layout: "default"
 title: "Aperture synthesis principle"
 ---
-{% raw %}
 # Aperture synthesis principle
 
 the central technique of modern interferometry. **build an effective aperture as large as the longest baseline by combining many sub-apertures and Earth's rotation.** invented by Martin Ryle (Nobel 1974) for radio astronomy, now the standard practice of every interferometer.
@@ -75,7 +74,7 @@ so the choice between single-dish and interferometer is a tradeoff between sensi
 5. **restore** with a clean beam (Gaussian fit to the dirty beam's central lobe)
 6. **report** the cleaned image plus any residuals
 
-each step has its own tradeoffs and pitfalls — see [CLEAN algorithm](./CLEAN%20algorithm.html), [Calibration overview](./Calibration%20overview.html), etc.
+each step has its own tradeoffs and pitfalls — see [CLEAN algorithm](CLEAN%20algorithm.html), [Calibration overview](Calibration%20overview.html), etc.
 
 ## why optical interferometry is harder
 
@@ -99,44 +98,44 @@ source: local synthetic demo generated from a rotating Y-like array model.
 
 ## see also
 
-- [The (u, v) plane](./The%20%28u%2C%20v%29%20plane.html)
-- [Earth-rotation aperture synthesis](./Earth-rotation%20aperture%20synthesis.html)
-- [Optimal array geometry](./Optimal%20array%20geometry.html)
-- [Dirty beam and dirty image](./Dirty%20beam%20and%20dirty%20image.html)
-- [CLEAN algorithm](./CLEAN%20algorithm.html)
+- [The (u, v) plane](The%20%28u%2C%20v%29%20plane.html)
+- [Earth-rotation aperture synthesis](Earth-rotation%20aperture%20synthesis.html)
+- [Optimal array geometry](Optimal%20array%20geometry.html)
+- [Dirty beam and dirty image](Dirty%20beam%20and%20dirty%20image.html)
+- [CLEAN algorithm](CLEAN%20algorithm.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (28)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Abbe%20experiment%20and%20Fourier%20optics.html" class="backlink-item">Abbe experiment and Fourier optics</a></li>
     <li class="backlink-item-wrap"><a href="../Abbe%20experiment%20and%20Fourier%20optics.html" class="backlink-item">Abbe experiment and Fourier optics</a></li>
-    <li class="backlink-item-wrap"><a href="./Aperture%20masking.html" class="backlink-item">Aperture masking</a></li>
     <li class="backlink-item-wrap"><a href="../Aperture%20masking.html" class="backlink-item">Aperture masking</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Crowding%20limitation.html" class="backlink-item">Crowding limitation</a></li>
     <li class="backlink-item-wrap"><a href="../Crowding%20limitation.html" class="backlink-item">Crowding limitation</a></li>
-    <li class="backlink-item-wrap"><a href="./Diffraction%20patterns%20of%20simple%20apertures.html" class="backlink-item">Diffraction patterns of simple apertures</a></li>
     <li class="backlink-item-wrap"><a href="../Diffraction%20patterns%20of%20simple%20apertures.html" class="backlink-item">Diffraction patterns of simple apertures</a></li>
-    <li class="backlink-item-wrap"><a href="./Dirty%20beam%20and%20dirty%20image.html" class="backlink-item">Dirty beam and dirty image</a></li>
     <li class="backlink-item-wrap"><a href="../Dirty%20beam%20and%20dirty%20image.html" class="backlink-item">Dirty beam and dirty image</a></li>
-    <li class="backlink-item-wrap"><a href="./Earth-rotation%20aperture%20synthesis.html" class="backlink-item">Earth-rotation aperture synthesis</a></li>
     <li class="backlink-item-wrap"><a href="../Earth-rotation%20aperture%20synthesis.html" class="backlink-item">Earth-rotation aperture synthesis</a></li>
-    <li class="backlink-item-wrap"><a href="./Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
     <li class="backlink-item-wrap"><a href="../Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="./Heterodyne%20vs%20direct%20detection.html" class="backlink-item">Heterodyne vs direct detection</a></li>
-    <li class="backlink-item-wrap"><a href="./Optical%20transfer%20function.html" class="backlink-item">Optical transfer function</a></li>
     <li class="backlink-item-wrap"><a href="../Optical%20transfer%20function.html" class="backlink-item">Optical transfer function</a></li>
-    <li class="backlink-item-wrap"><a href="./Optimal%20array%20geometry.html" class="backlink-item">Optimal array geometry</a></li>
     <li class="backlink-item-wrap"><a href="../Stellar%20surface%20imaging.html" class="backlink-item">Stellar surface imaging</a></li>
-    <li class="backlink-item-wrap"><a href="./The%20%28u%2C%20v%29%20plane.html" class="backlink-item">The (u, v) plane</a></li>
     <li class="backlink-item-wrap"><a href="../The%20%28u%2C%20v%29%20plane.html" class="backlink-item">The (u, v) plane</a></li>
-    <li class="backlink-item-wrap"><a href="./Van%20Cittert-Zernike%20theorem.html" class="backlink-item">Van Cittert-Zernike theorem</a></li>
     <li class="backlink-item-wrap"><a href="../Van%20Cittert-Zernike%20theorem.html" class="backlink-item">Van Cittert-Zernike theorem</a></li>
     <li class="backlink-item-wrap"><a href="../Why%20interferometry.html" class="backlink-item">Why interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="./Why%20interferometry.html" class="backlink-item">Why interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="./Young%20experiment%20as%20a%20stellar%20interferometer.html" class="backlink-item">Young experiment as a stellar interferometer</a></li>
     <li class="backlink-item-wrap"><a href="../Young%20experiment%20as%20a%20stellar%20interferometer.html" class="backlink-item">Young experiment as a stellar interferometer</a></li>
+    <li class="backlink-item-wrap"><a href="Abbe%20experiment%20and%20Fourier%20optics.html" class="backlink-item">Abbe experiment and Fourier optics</a></li>
+    <li class="backlink-item-wrap"><a href="Aperture%20masking.html" class="backlink-item">Aperture masking</a></li>
+    <li class="backlink-item-wrap"><a href="Crowding%20limitation.html" class="backlink-item">Crowding limitation</a></li>
+    <li class="backlink-item-wrap"><a href="Diffraction%20patterns%20of%20simple%20apertures.html" class="backlink-item">Diffraction patterns of simple apertures</a></li>
+    <li class="backlink-item-wrap"><a href="Dirty%20beam%20and%20dirty%20image.html" class="backlink-item">Dirty beam and dirty image</a></li>
+    <li class="backlink-item-wrap"><a href="Earth-rotation%20aperture%20synthesis.html" class="backlink-item">Earth-rotation aperture synthesis</a></li>
+    <li class="backlink-item-wrap"><a href="Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
+    <li class="backlink-item-wrap"><a href="Heterodyne%20vs%20direct%20detection.html" class="backlink-item">Heterodyne vs direct detection</a></li>
+    <li class="backlink-item-wrap"><a href="Optical%20transfer%20function.html" class="backlink-item">Optical transfer function</a></li>
+    <li class="backlink-item-wrap"><a href="Optimal%20array%20geometry.html" class="backlink-item">Optimal array geometry</a></li>
+    <li class="backlink-item-wrap"><a href="The%20%28u%2C%20v%29%20plane.html" class="backlink-item">The (u, v) plane</a></li>
+    <li class="backlink-item-wrap"><a href="Van%20Cittert-Zernike%20theorem.html" class="backlink-item">Van Cittert-Zernike theorem</a></li>
+    <li class="backlink-item-wrap"><a href="Why%20interferometry.html" class="backlink-item">Why interferometry</a></li>
+    <li class="backlink-item-wrap"><a href="Young%20experiment%20as%20a%20stellar%20interferometer.html" class="backlink-item">Young experiment as a stellar interferometer</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

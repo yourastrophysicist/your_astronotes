@@ -2,108 +2,166 @@
 layout: "default"
 title: "CAS galaxy classification"
 ---
-{% raw %}
-**CAS** is a quantitative galaxy morphology classification scheme based on **concentration**, **asymmetry**, **smoothness**. introduced by **Conselice 2003** (hence "Conselice CAS"). objective + reproducible alternative to visual classification.
+# CAS Galaxy Classification
 
-## the three parameters
+## 1. Quantitative Non-Parametric Morphology
 
-### concentration $C$
+Traditional visual morphological classification (such as the Hubble tuning fork) is subjective, dependent on observer experience, and increasingly unreliable at high redshifts ($z > 0.5$) where cosmological surface brightness dimming ($\propto [1+z]^4$) and morphological bandpass shifting degrade visual details.
 
-how concentrated the light is toward the centre. defined as:
-$$C = 5\log_{10}(r_{80}/r_{20})$$
-with $r_{80}, r_{20}$ = radii enclosing $80\%, 20\%$ of total flux. high $C$ = centrally concentrated (early-type), low $C$ = diffuse (late-type).
+The **CAS (Concentration, Asymmetry, Smoothness)** system (Bershady et al. 2000; Conselice 2003) provides an objective, fully automated, non-parametric classification scheme computed directly from digital astronomical images.
 
-typical:
-- early-type (E, S0): $C \sim 4$ to $5$.
-- late-type (Sb, Sc): $C \sim 2.5$ to $3$.
-- irregular: $C \sim 2$ to $2.5$.
+---
 
-### asymmetry $A$
+## 2. Unbroken Mathematical Definitions of the CAS Parameters
 
-degree of rotational symmetry. compute:
-$$A = \frac{\sum \lvert I(x, y) - I_{180}(x, y)\rvert}{2\sum \lvert I(x, y)\rvert}$$
+### Concentration Index ($C$)
+The concentration index measures the degree to which light is concentrated toward the galactic center compared to its outer envelope.
 
-with $I_{180}$ = image rotated by $180°$. high $A$ = lopsided / merging / disturbed galaxies.
+$$\boxed{C = 5 \log_{10}\left( \frac{r_{80}}{r_{20}} \right)}$$
 
-typical:
-- relaxed early-types: $A \sim 0.02$.
-- spirals: $A \sim 0.1$ to $0.2$.
-- mergers / starbursts: $A \sim 0.3$ to $0.5+$.
+where $r_{80}$ and $r_{20}$ are the curve-of-growth radii enclosing $80\%$ and $20\%$ of the total galaxy light within a standardized aperture (typically the Petrosian radius $r(\eta = 0.2)$ or $1.5 r_{\rm petro}$).
+- For an exponential disk profile ($I(r) = I_0 e^{-r/h}$), analytical integration gives.
+  $$C \approx 2.7$$
+- For a de Vaucouleurs spheroidal profile ($I(r) = I_e 10^{-3.33[(r/r_e)^{1/4}-1]}$), numerical integration yields.
+  $$C \approx 5.2$$
+- General Sersic profiles show a monotonic rise from $C \approx 2.3$ at $n=0.5$ to $C \approx 5.5$ at $n=6$.
+- Observed galaxy populations.
+  - Ellipticals and lenticulars - $C \approx 3.8 - 5.0$
+  - Early-type spirals (Sa and Sb) - $C \approx 3.0 - 3.8$
+  - Late-type spirals (Sc and Sd) - $C \approx 2.5 - 3.0$
+  - Dwarf irregulars - $C < 2.5$
 
-### smoothness (clumpiness) $S$
+### Asymmetry Index ($A$)
+The asymmetry index measures the fractional light variance when the galaxy image is rotated by $180^\circ$ about its center.
 
-degree of small-scale structure. compute residual after smoothing:
-$$S = \frac{\sum \lvert I(x, y) - I_S(x, y)\rvert}{\sum \lvert I(x, y)\rvert}$$
+$$\boxed{A = \frac{\sum_{i,j} |I(i,j) - I_{180}(i,j)|}{2 \sum_{i,j} |I(i,j)|} - B_{180}}$$
 
-with $I_S$ = smoothed (Gaussian) image. high $S$ = clumpy (star-forming, knots), low $S$ = smooth (passive).
+where.
+- $I(i,j)$ is the flux in pixel $(i,j)$ within the galaxy aperture
+- $I_{180}(i,j)$ is the flux at the corresponding pixel in the image rotated by $180^\circ$
+- The factor of $2$ in the denominator accounts for the double counting of residuals between original and rotated pixels
+- $B_{180}$ is the background noise correction evaluated in a blank sky region of equal pixel area.
+  $$B_{180} = \frac{\sum_{i,j} |B(i,j) - B_{180}(i,j)|}{2 \sum_{i,j} |I(i,j)|}$$
+  This subtraction ensures that sky background shot noise does not artificially inflate the measured asymmetry.
 
-typical:
-- early-type: $S \sim 0.02$ (very smooth).
-- spirals: $S \sim 0.05$ to $0.10$.
-- starbursts: $S \sim 0.15+$.
+#### Critical Rule for the Rotation Center
+The center of rotation $(x_0, y_0)$ is **NOT** chosen as the photometric centroid or the brightest pixel.
+Instead, it is uniquely determined by an iterative optimization algorithm that **minimizes** the value of $A$.
 
-## the CAS plane
+$$\left( \frac{\partial A}{\partial x_0} \right) = 0, \qquad \left( \frac{\partial A}{\partial y_0} \right) = 0$$
 
-plot $C$ vs $A$ vs $S$:
-- early-type galaxies cluster at high $C$, low $A$, low $S$ (smooth + concentrated + symmetric).
-- late-type spirals at moderate $C$, moderate $A$, moderate $S$.
-- mergers + starbursts at high $A$, often high $S$.
-- irregular galaxies at low $C$, moderate-to-high $A$ + $S$.
+Centering on the photometric centroid falsely inflates $A$ for lopsided or interacting galaxies, whereas center minimization guarantees a self-consistent physical measurement.
+- Observed galaxy values.
+  - Relaxed ellipticals - $A < 0.05$
+  - Normal spirals - $A \approx 0.05 - 0.20$
+  - Mergers and interacting galaxies - $A > 0.35$
 
-separation in CAS space: roughly tracks Hubble morphology. but it's **automated** and **applicable to high-$z$ galaxies** where visual classification is hard.
+### Smoothness or Clumpiness Index ($S$)
+The smoothness (or clumpiness) index measures the fraction of light located in high-frequency, clumpy sub-structures (such as star-forming knots and HII regions) relative to the diffuse background.
 
-## advantages over visual
+$$\boxed{S = \frac{\sum_{i,j} |I(i,j) - I_S(i,j)|}{\sum_{i,j} |I(i,j)|} - B_S}$$
 
-CAS is:
-- **objective**: defined entirely from pixel-level data.
-- **reproducible**: same image gives same $C, A, S$.
-- **automated**: applicable to surveys of $\sim 10^6$+ galaxies.
-- **quantitative**: enables statistics (e.g. fraction of high-$A$ galaxies vs $z$).
+where.
+- $I_S(i,j)$ is the galaxy image smoothed by a 2D Gaussian or boxcar filter with a characteristic scale length $\sigma = 0.2 \, r(\eta = 0.2)$
+- $B_S$ is the background smoothness correction measured in a blank sky patch.
+  $$B_S = \frac{\sum_{i,j} |B(i,j) - B_S(i,j)|}{\sum_{i,j} |I(i,j)|}$$
+- To prevent the steep central light profile of bulges from artificially dominating the residual, pixels within the inner radius $r < \sigma$ are masked out of the summation.
+- Observed galaxy values.
+  - Ellipticals and passive galaxies - $S \le 0.02$
+  - Normal spiral disks - $S \approx 0.05 - 0.20$
+  - Starburst galaxies - $S > 0.30$
 
-## limitations
+---
 
-- **noise dependence**: for faint galaxies, $A$ + $S$ depend on background noise.
-- **dust + AGN**: can mimic high $A$ (e.g. dusty bands).
-- **resolution dependence**: results change with PSF + pixel scale.
-- **interpretation**: $A$ + $S$ don't always map to Hubble type uniquely.
+## 3. The Morphological Parameter Space and Merger Identification
 
-## extensions
+The three parameters form an orthogonal 3D parameter volume $(C, A, S)$. Projecting into 2D diagrams separates galaxies into distinct morphological classes.
 
-modern variants add more parameters:
-- **G** (Gini): inequality of pixel brightness distribution.
-- **$M_{20}$**: second moment of brightest $20\%$ of pixels.
-- **G-$M_{20}$ plane**: better separation of mergers from regular galaxies (Lotz 2004).
+### The Concentration Versus Asymmetry Plane ($C - A$)
+- **Top-Left Region (High $C$, Low $A$)** - Occupied exclusively by early-type galaxies (ellipticals and S0).
+- **Central Region (Moderate $C$, Moderate $A$)** - Occupied by regular disk galaxies (spiral sequence Sa to Sc).
+- **Bottom-Center Region (Low $C$, Moderate $A$)** - Occupied by diffuse dwarf irregulars.
+- **Far-Right Region (High $A$)** - Major mergers and collisional galaxies.
 
-with all 5 parameters (C, A, S, G, $M_{20}$), can identify mergers efficiently.
+### The Major Merger Selection Gate
+Conselice (2003) demonstrated that dynamically coalescing major mergers are uniquely selected by the criteria.
 
-## machine learning
+$$\boxed{A > 0.35 \qquad \text{and} \qquad A > S}$$
 
-modern deep-learning approaches (CNNs trained on visually-classified samples) outperform CAS for morphological classification, but CAS remains **interpretable** + a useful starting point.
+Major mergers exhibit large structural disturbances across both diffuse envelopes and high-frequency knots. This quantitative boundary enables automated identification of galaxy mergers across deep cosmic fields (such as HST CANDELS and JWST COSMOS-Web) up to $z \sim 3$.
 
-## the science use
+---
 
-CAS-based classifications enable:
-- **morphology evolution** with $z$: when did Hubble sequence emerge.
-- **merger fraction** vs $z$: tracks galaxy assembly history.
-- **environmental dependence**: morphology-density relation.
-- **galaxy-cluster cores** dominated by ellipticals (high C, low A, low S).
+## 4. Blackboard Observational Blueprint
 
-## see also
+When sketching the CAS classification diagrams on the blackboard.
 
-- [Hubble morphological sequence](./Hubble%20morphological%20sequence.html)
-- [Galaxy morphology vs physical properties](./Galaxy%20morphology%20vs%20physical%20properties.html)
-- [Sersic profile](./Sersic%20profile.html)
-- [Petrosian radius](./Petrosian%20radius.html)
-- [Galaxy color, density and morphology](./Galaxy%20color%2C%20density%20and%20morphology.html)
-- [SDSS overview](./SDSS%20overview.html)
+```text
+       Concentration C
+         ^
+     5.0 |  [Ellipticals / S0]
+         |   High C, Low A
+     4.0 |
+         |          [Early Spirals Sa/Sb]
+     3.0 |
+         |                 [Late Spirals Sc/Sd]
+     2.0 |  [Dwarf Irr]                               [MAJOR MERGERS]
+         |                                             A > 0.35
+     1.0 +===============+===============+===============+===============+
+         0.0            0.1             0.2             0.3             0.4
+                                    Asymmetry A
+
+       Smoothness S
+         ^
+     0.4 |                    * Starbursts
+         |
+     0.2 |        * Spirals
+         |
+     0.0 | * Ellipticals                   [Mergers with A > 0.35 & A > S]
+         +===============+===============+===============+===============+
+         0.0            0.1             0.2             0.3             0.4
+                                    Asymmetry A
+```
+
+### Key Blackboard Features
+- **Top Panel ($C$ vs $A$)** - Vertical axis $C$ from $1.0$ to $5.5$; horizontal axis $A$ from $0.0$ to $0.5$. Show early-types at top-left ($C \sim 4.5, A \sim 0.03$), spirals descending diagonally, and mergers isolated on the right ($A > 0.35$).
+- **Bottom Panel ($S$ vs $A$)** - Vertical axis $S$ from $0.0$ to $0.5$; horizontal axis $A$ from $0.0$ to $0.5$. Highlight the diagonal dividing line $A = S$ and the vertical boundary $A = 0.35$.
+- **Background Correction Note** - Explicitly write $B_{180}$ and $B_S$ formulas on the blackboard, emphasizing that sky noise must be subtracted.
+- **Centering Rule** - Emphasize that $(x_0, y_0)$ minimizes $A$, which is an exam question favorite.
+
+---
+
+## 5. Textbook and Course Citations
+
+- **Prof. Alessandro Pizzella Course Dispensa**
+  - File - `Concentraz_Conselice-1.pdf`
+  - Pages 1-25 (complete mathematical definitions of $C$, $A$, and $S$, background subtraction terms, and merger diagnostics).
+- **Student Synthesis Document**
+  - File - `Astrophysics_of_Galaxies.tex`
+  - Section 6.2 "The CAS Morphology System", pages 27-30 (equations for $C$, $A$, $S$, center minimization, Petrosian radius scaling).
+- **Primary Literature References**
+  - Conselice, C. J. 2003, ApJS, 147, 1.
+  - Bershady, M. A., Jangren, A., & Conselice, C. J. 2000, AJ, 119, 2645.
+  - Lotz, J. M., Primack, J., & Madau, P. 2004, AJ, 128, 163 (Gini-M20 extension).
+
+---
+
+## 6. See Also
+
+- [Sersic profile](Sersic%20profile.html)
+- [Petrosian radius](Petrosian%20radius.html)
+- [De Vaucouleurs and exponential profiles](De%20Vaucouleurs%20and%20exponential%20profiles.html)
+- [Hubble morphological sequence](Hubble%20morphological%20sequence.html)
+- [Color bimodality of galaxies](Color%20bimodality%20of%20galaxies.html)
+- [PCA spectral classification of galaxies](PCA%20spectral%20classification%20of%20galaxies.html)
 - [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html)
 
 ---
 
-## astrophysics of galaxies figures and slides (Prof. Alessandro Pizzella)
+## 7. Astrophysics of Galaxies Figures and Slides (Prof. Alessandro Pizzella)
 
 ![conselice2003_CAS_diagram.png](../../assets/images/conselice2003_CAS_diagram.png)
-*The CAS parameter space from Conselice (2003): Asymmetry vs Concentration for galaxy types.*
+*The CAS parameter space from Conselice (2003) - Asymmetry vs Concentration for galaxy types.*
 
 ![conselice2003_A_vs_S.png](../../assets/images/conselice2003_A_vs_S.png)
 *Asymmetry vs Smoothness/Clumpiness diagram separating normal galaxies from starbursts and mergers.*
@@ -113,7 +171,7 @@ CAS-based classifications enable:
 
 ---
 
-## lecture slides and reference figures (Prof. Alessandro Pizzella)
+## 8. Lecture Slides and Reference Figures (Prof. Alessandro Pizzella)
 
 ![gal_morph-31.png](../../assets/images/gal_morph-31.png)
 
@@ -132,14 +190,19 @@ CAS-based classifications enable:
 ![gal_morph-38.png](../../assets/images/gal_morph-38.png)
 
 ![gal_morph-39.png](../../assets/images/gal_morph-39.png)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
+  <h4 class="backlinks-title">Linked References (9)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Deep-field%20surveys.html" class="backlink-item">Deep-field surveys</a></li>
+    <li class="backlink-item-wrap"><a href="Eigenspectra%20and%20spectral%20types.html" class="backlink-item">Eigenspectra and spectral types</a></li>
+    <li class="backlink-item-wrap"><a href="Galaxy%20morphology%20vs%20physical%20properties.html" class="backlink-item">Galaxy morphology vs physical properties</a></li>
+    <li class="backlink-item-wrap"><a href="Hubble%20morphological%20sequence.html" class="backlink-item">Hubble morphological sequence</a></li>
+    <li class="backlink-item-wrap"><a href="PCA%20spectral%20classification%20of%20galaxies.html" class="backlink-item">PCA spectral classification of galaxies</a></li>
+    <li class="backlink-item-wrap"><a href="Petrosian%20radius.html" class="backlink-item">Petrosian radius</a></li>
+    <li class="backlink-item-wrap"><a href="SDSS%20overview.html" class="backlink-item">SDSS overview</a></li>
+    <li class="backlink-item-wrap"><a href="Sersic%20profile.html" class="backlink-item">Sersic profile</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./De%20Vaucouleurs%20and%20exponential%20profiles.html" class="backlink-item">De Vaucouleurs and exponential profiles</a></li>
-    <li class="backlink-item-wrap"><a href="./PCA%20spectral%20classification%20of%20galaxies.html" class="backlink-item">PCA spectral classification of galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="./Sersic%20profile.html" class="backlink-item">Sersic profile</a></li>
   </ul>
 </div>
+

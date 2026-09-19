@@ -2,7 +2,6 @@
 layout: "default"
 title: "Exoplanet imaging"
 ---
-{% raw %}
 # Exoplanet imaging
 
 direct interferometric / coronagraphic detection of light from exoplanets. extremely difficult because of the contrast (~$10^{-6}$ to $10^{-10}$ between planet and star) and small angular separation (~mas). a small but rapidly growing field with significant interferometric contributions.
@@ -103,17 +102,17 @@ these complement transit observations (which give bulk planet density) and radia
 
 ## see also
 
-- [Coronagraphy](./Coronagraphy.html)
-- [Nulling interferometry](./Nulling%20interferometry.html)
-- [VLTI Very Large Telescope Interferometer](./VLTI%20Very%20Large%20Telescope%20Interferometer.html)
+- [Coronagraphy](Coronagraphy.html)
+- [Nulling interferometry](Nulling%20interferometry.html)
+- [VLTI Very Large Telescope Interferometer](VLTI%20Very%20Large%20Telescope%20Interferometer.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../Future%20space-based.html" class="backlink-item">Future space-based</a></li>
-    <li class="backlink-item-wrap"><a href="./Future%20space-based.html" class="backlink-item">Future space-based</a></li>
+    <li class="backlink-item-wrap"><a href="Future%20space-based.html" class="backlink-item">Future space-based</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

@@ -2,10 +2,9 @@
 layout: "default"
 title: "Driver 1998 counts by morphology"
 ---
-{% raw %}
 # driver 1998 counts by morphology
 
-up: [Pablo_02_Statistical_properties_of_galaxies](../../02_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html) · [Galaxy number counts N(m)](./Galaxy%20number%20counts%20N%28m%29.html)
+up: [Pablo_02_Statistical_properties_of_galaxies](../../02_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html) · [Galaxy number counts N(m)](Galaxy%20number%20counts%20N%28m%29.html)
 
 ## the experiment
 
@@ -36,25 +35,24 @@ he overplotted three cosmological models, $\Omega_M = 1, 0.3, 0.05$, on the morp
 
 ## connections
 
-- previous: [Galaxy number counts N(m)](./Galaxy%20number%20counts%20N%28m%29.html), [Galaxy counts at different wavelengths](./Galaxy%20counts%20at%20different%20wavelengths.html)
-- LF version of the same split: [LF by morphology and SED](./LF%20by%20morphology%20and%20SED.html)
-- the Durham compilation (no morphology split, but deeper): [counts.html](https://astro.dur.ac.uk/~nm/pubhtml/counts/counts.html)
+- previous: [Galaxy number counts N(m)](Galaxy%20number%20counts%20N%28m%29.html), [Galaxy counts at different wavelengths](Galaxy%20counts%20at%20different%20wavelengths.html)
+- LF version of the same split: [LF by morphology and SED](LF%20by%20morphology%20and%20SED.html)
+- the Durham compilation (no morphology split, but deeper): counts.html
 
 ## key references
 
 - Driver et al. 1998, ApJ 496, L93
 - Glazebrook et al. 1995 (early faint blue galaxy work)
 - Ellis 1997 ARAA review
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
+  <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Differential%20vs%20cumulative%20number%20counts.html" class="backlink-item">Differential vs cumulative number counts</a></li>
-    <li class="backlink-item-wrap"><a href="./Galaxy%20counts%20at%20different%20wavelengths.html" class="backlink-item">Galaxy counts at different wavelengths</a></li>
-    <li class="backlink-item-wrap"><a href="./Galaxy%20number%20counts%20N%28m%29.html" class="backlink-item">Galaxy number counts N(m)</a></li>
-    <li class="backlink-item-wrap"><a href="./LF%20by%20morphology%20and%20SED.html" class="backlink-item">LF by morphology and SED</a></li>
+    <li class="backlink-item-wrap"><a href="Differential%20vs%20cumulative%20number%20counts.html" class="backlink-item">Differential vs cumulative number counts</a></li>
+    <li class="backlink-item-wrap"><a href="Galaxy%20counts%20at%20different%20wavelengths.html" class="backlink-item">Galaxy counts at different wavelengths</a></li>
+    <li class="backlink-item-wrap"><a href="Galaxy%20number%20counts%20N%28m%29.html" class="backlink-item">Galaxy number counts N(m)</a></li>
+    <li class="backlink-item-wrap"><a href="LF%20by%20morphology%20and%20SED.html" class="backlink-item">LF by morphology and SED</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html" class="backlink-item">Pablo_02_Statistical_properties_of_galaxies</a></li>
   </ul>
 </div>
+

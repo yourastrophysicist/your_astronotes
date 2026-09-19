@@ -2,8 +2,7 @@
 layout: "default"
 title: "Friedmann solutions"
 ---
-{% raw %}
-explicit solutions to the Friedmann equation in special cases. each has a characteristic $a(t)$ + matches a specific cosmological scenario. see [Friedmann models](./Friedmann%20models.html) for additional detail.
+explicit solutions to the Friedmann equation in special cases. each has a characteristic $a(t)$ + matches a specific cosmological scenario. see [Friedmann models](Friedmann%20models.html) for additional detail.
 
 ## the master equation
 
@@ -85,23 +84,23 @@ the **transition between regimes** is what makes $\Lambda$CDM rich + observation
 
 ## see also
 
-- [Friedmann models](./Friedmann%20models.html)
-- [Friedmann equations](./Friedmann%20equations.html)
+- [Friedmann models](Friedmann%20models.html)
+- [Friedmann equations](Friedmann%20equations.html)
 - Friedmann equations with Λ
-- [Newtonian Friedmann derivation](./Newtonian%20Friedmann%20derivation.html)
-- [Cosmic eras](./Cosmic%20eras.html)
-- [Spatial curvature parameter k](./Spatial%20curvature%20parameter%20k.html)
-- [Cosmological constant](./Cosmological%20constant.html)
+- [Newtonian Friedmann derivation](Newtonian%20Friedmann%20derivation.html)
+- [Cosmic eras](Cosmic%20eras.html)
+- [Spatial curvature parameter k](Spatial%20curvature%20parameter%20k.html)
+- [Cosmological constant](Cosmological%20constant.html)
 - Q19 - radiation universe
 - Q20 - matter plus radiation universe
 - [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./GR%20Friedmann%20with%20Lambda.html" class="backlink-item">GR Friedmann with Lambda</a></li>
+    <li class="backlink-item-wrap"><a href="GR%20Friedmann%20with%20Lambda.html" class="backlink-item">GR Friedmann with Lambda</a></li>
+    <li class="backlink-item-wrap"><a href="Various%20models%20of%20the%20universe.html" class="backlink-item">Various models of the universe</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Various%20models%20of%20the%20universe.html" class="backlink-item">Various models of the universe</a></li>
   </ul>
 </div>
+

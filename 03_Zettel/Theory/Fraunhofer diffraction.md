@@ -2,7 +2,6 @@
 layout: "default"
 title: "Fraunhofer diffraction"
 ---
-{% raw %}
 # Fraunhofer diffraction
 
 the **far-field** limit of diffraction: when the screen is far from the aperture, the diffraction integral becomes a **2D Fourier transform** of the aperture function. this is the magic that connects optics to Fourier analysis and underwrites every interferometric calculation.
@@ -127,4 +126,3 @@ source: local plot generated from $I(x)=[2J_1(x)/x]^2$.
 - [Optical transfer function](interf/Optical%20transfer%20function.html)
 - [Van Cittert-Zernike theorem](interf/Van%20Cittert-Zernike%20theorem.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

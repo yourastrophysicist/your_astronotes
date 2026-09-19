@@ -2,7 +2,6 @@
 layout: "default"
 title: "Adaptive optics"
 ---
-{% raw %}
 # Adaptive optics
 
 the technique that *undoes* atmospheric distortion in real time, restoring near-diffraction-limited resolution to ground-based telescopes. measure the wavefront, deform a mirror to compensate, do it 1000 times a second. AO is the technology that made VLTI/CHARA/GRAVITY-class optical interferometry practical.
@@ -116,4 +115,3 @@ ELTs are interferometers in disguise: their adaptive secondaries make them optic
 - [Guide stars and laser guide stars](interf/Guide%20stars%20and%20laser%20guide%20stars.html)
 - [Fried parameter $r_0$](interf/Fried%20parameter%20%24r_0%24.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

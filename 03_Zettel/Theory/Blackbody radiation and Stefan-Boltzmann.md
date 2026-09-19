@@ -2,7 +2,6 @@
 layout: "default"
 title: "Blackbody radiation and Stefan-Boltzmann"
 ---
-{% raw %}
 a **blackbody** (corpo nero) is an idealized physical object that absorbs 100% of all incident electromagnetic radiation, reflecting and transmitting none. when in thermodynamic equilibrium at temperature $T$, a blackbody emits a continuous spectrum whose shape and intensity depend **solely on its temperature $T$**, completely independent of the composition or shape of the emitter.
 
 ![radiative-15.png](../../assets/images/radiative-15.png)
@@ -109,11 +108,11 @@ real stars are not perfect blackbodies because their atmospheres have wavelength
 ## see also
 
 - [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Electromagnetic radiation basics](./Electromagnetic%20radiation%20basics.html)
-- [Radiation quantities and inverse square law](./Radiation%20quantities%20and%20inverse%20square%20law.html)
-- [Stellar spectra and spectral classification](./Stellar%20spectra%20and%20spectral%20classification.html)
-- [HR diagram](./HR%20diagram.html)
-- [Cosmic_inventory_photons](./Cosmic_inventory_photons.html)
+- [Electromagnetic radiation basics](Electromagnetic%20radiation%20basics.html)
+- [Radiation quantities and inverse square law](Radiation%20quantities%20and%20inverse%20square%20law.html)
+- [Stellar spectra and spectral classification](Stellar%20spectra%20and%20spectral%20classification.html)
+- [HR diagram](HR%20diagram.html)
+- [Cosmic_inventory_photons](Cosmic_inventory_photons.html)
 
 ---
 
@@ -148,19 +147,19 @@ real stars are not perfect blackbodies because their atmospheres have wavelength
 
 ![obs_rad-026.png](../../assets/images/obs_rad-026.png)
 *Brightness temperature T_b and color temperature T_c.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (9)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Cosmic_inventory_photons_derivation.html" class="backlink-item">Cosmic_inventory_photons_derivation</a></li>
-    <li class="backlink-item-wrap"><a href="./Electromagnetic%20radiation%20basics.html" class="backlink-item">Electromagnetic radiation basics</a></li>
+    <li class="backlink-item-wrap"><a href="Cosmic_inventory_photons_derivation.html" class="backlink-item">Cosmic_inventory_photons_derivation</a></li>
+    <li class="backlink-item-wrap"><a href="Electromagnetic%20radiation%20basics.html" class="backlink-item">Electromagnetic radiation basics</a></li>
+    <li class="backlink-item-wrap"><a href="Magnitudes%20and%20photometric%20systems.html" class="backlink-item">Magnitudes and photometric systems</a></li>
+    <li class="backlink-item-wrap"><a href="Planck%20law%20Wien%20Stefan-Boltzmann.html" class="backlink-item">Planck law Wien Stefan-Boltzmann</a></li>
+    <li class="backlink-item-wrap"><a href="Radiation%20quantities%20and%20inverse%20square%20law.html" class="backlink-item">Radiation quantities and inverse square law</a></li>
+    <li class="backlink-item-wrap"><a href="Specific%20intensity%20flux%20luminosity.html" class="backlink-item">Specific intensity flux luminosity</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20spectra%20and%20spectral%20classification.html" class="backlink-item">Stellar spectra and spectral classification</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Magnitudes%20and%20photometric%20systems.html" class="backlink-item">Magnitudes and photometric systems</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Planck%20law%20Wien%20Stefan-Boltzmann.html" class="backlink-item">Planck law Wien Stefan-Boltzmann</a></li>
-    <li class="backlink-item-wrap"><a href="./Radiation%20quantities%20and%20inverse%20square%20law.html" class="backlink-item">Radiation quantities and inverse square law</a></li>
-    <li class="backlink-item-wrap"><a href="./Specific%20intensity%20flux%20luminosity.html" class="backlink-item">Specific intensity flux luminosity</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20spectra%20and%20spectral%20classification.html" class="backlink-item">Stellar spectra and spectral classification</a></li>
   </ul>
 </div>
+

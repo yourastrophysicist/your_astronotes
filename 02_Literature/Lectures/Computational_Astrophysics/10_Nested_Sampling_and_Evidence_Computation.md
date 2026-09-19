@@ -2,7 +2,6 @@
 layout: "default"
 title: "10_Nested_Sampling_and_Evidence_Computation"
 ---
-{% raw %}
 # Lesson 10 – Nested Sampling and Evidence Computation
 
 *Computational Astrophysics, Prof. Tiziano Zingales*  
@@ -200,16 +199,12 @@ Method 0: Rejection Sampling from Prior    Method 1: Ellipsoidal Decomposition (
 
 ![Multi-Modal Clustering and Evidence Convergence](../../../assets/images/comp_nestedsamp_p50.png)
 *Figure COMP-15: MultiNest ellipsoidal decomposition isolating multi-modal posterior peaks and evaluating stopping criteria based on maximum remaining evidence in active live points.*
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
+  <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx.html" class="backlink-item">08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx</a></li>
-    <li class="backlink-item-wrap"><a href="./09_Bayesian_Inference_and_Parameter_Estimation.html" class="backlink-item">09_Bayesian_Inference_and_Parameter_Estimation</a></li>
-    <li class="backlink-item-wrap"><a href="./11_Parallel_Computing_Architectures_and_HPC_Scaling.html" class="backlink-item">11_Parallel_Computing_Architectures_and_HPC_Scaling</a></li>
-    <li class="backlink-item-wrap"><a href="./12_MPI_Distributed_Memory_Programming_with_Python.html" class="backlink-item">12_MPI_Distributed_Memory_Programming_with_Python</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Computational/Nested%20sampling%20algorithm%20and%20Bayesian%20evidence%20computation.html" class="backlink-item">Nested sampling algorithm and Bayesian evidence computation</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

@@ -2,7 +2,6 @@
 layout: "default"
 title: "Compton scattering and pair production"
 ---
-{% raw %}
 ## Compton scattering
 
 X-ray photons can **scatter off atomic electrons** while they pass through matter
@@ -10,7 +9,7 @@ X-ray photons can **scatter off atomic electrons** while they pass through matte
 		this electron is in one of the outer orbits
 			and its binding energy is significantly less than the energy of the photon
 
-![Screenshot 2026-04-07 at 01.21.46.png](../../assets/images/Screenshot 2026-04-07 at 01.21.46.png)
+![Screenshot 2026-04-07 at 01.21.46.png](../../assets/images/Screenshot%202026-04-07%20at%2001.21.46.png)
 
 The energy of the scattered photon depends on the angle $\theta$ and its original energy:
 $$E'_{ph} = \frac{E_{ph}}{1 + \frac{E_{ph}}{m_e c^2}(1 - \cos\theta)}$$
@@ -59,10 +58,10 @@ Measuring the pair direction through tracking devices,
 ## Summary of dominant processes
 
 The three regions of the plot are defined by equalling the cross sections of:
-	[Photoelectric absorption](./Photoelectric%20absorption.html) and Compton scattering ($\sigma_{ph} = \sigma_C$)
+	[Photoelectric absorption](Photoelectric%20absorption.html) and Compton scattering ($\sigma_{ph} = \sigma_C$)
 	Compton scattering and pair production ($\sigma_C = \sigma_{pp}$)
 
-![Screenshot 2026-04-07 at 01.22.49.png](../../assets/images/Screenshot 2026-04-07 at 01.22.49.png)
+![Screenshot 2026-04-07 at 01.22.49.png](../../assets/images/Screenshot%202026-04-07%20at%2001.22.49.png)
 The two solid lines represent the regions of the plot where $\sigma_{ph} = \sigma_C$ and $\sigma_C = \sigma_{pp}$. The three regions define which interaction dominates as a function of photon energy and atomic number $Z$ of the absorber.
 
 ---
@@ -76,14 +75,14 @@ where
 	$n$ is the density of the material (in units of atoms $\text{cm}^{-3}$)
 	$\lambda$ is the **mean free path**,
 		that is the average distance traveled in the absorber before an interaction takes place
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Compton%20Telescope.html" class="backlink-item">Compton Telescope</a></li>
+    <li class="backlink-item-wrap"><a href="Compton%20Telescope.html" class="backlink-item">Compton Telescope</a></li>
+    <li class="backlink-item-wrap"><a href="Photoelectric%20absorption.html" class="backlink-item">Photoelectric absorption</a></li>
+    <li class="backlink-item-wrap"><a href="Processes%20of%20photon-matter%20interaction.html" class="backlink-item">Processes of photon-matter interaction</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Photoelectric%20absorption.html" class="backlink-item">Photoelectric absorption</a></li>
-    <li class="backlink-item-wrap"><a href="./Processes%20of%20photon-matter%20interaction.html" class="backlink-item">Processes of photon-matter interaction</a></li>
   </ul>
 </div>
+

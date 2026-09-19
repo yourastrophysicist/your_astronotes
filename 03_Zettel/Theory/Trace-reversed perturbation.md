@@ -2,7 +2,6 @@
 layout: "default"
 title: "Trace-reversed perturbation"
 ---
-{% raw %}
 the **trace-reversed perturbation** $\bar h_{\mu\nu}$ is a useful repackaging of $h_{\mu\nu}$ that makes the linearized Einstein equation clean. defined by:
 $$\bar h_{\mu\nu} \equiv h_{\mu\nu} - \tfrac{1}{2}\eta_{\mu\nu}h$$
 
@@ -58,26 +57,25 @@ $\bar h$ is also natural for cosmological perturbation theory on FLRW background
 
 ## see also
 
-- [Linearized metric perturbation](./Linearized%20metric%20perturbation.html)
-- [Linearized Christoffel and Riemann](./Linearized%20Christoffel%20and%20Riemann.html)
-- [Linearized gauge transformations](./Linearized%20gauge%20transformations.html)
-- [Lorenz gauge](./Lorenz%20gauge.html)
-- [Transverse traceless gauge](./Transverse%20traceless%20gauge.html)
+- [Linearized metric perturbation](Linearized%20metric%20perturbation.html)
+- [Linearized Christoffel and Riemann](Linearized%20Christoffel%20and%20Riemann.html)
+- [Linearized gauge transformations](Linearized%20gauge%20transformations.html)
+- [Lorenz gauge](Lorenz%20gauge.html)
+- [Transverse traceless gauge](Transverse%20traceless%20gauge.html)
 - Q15 - trace-reversed perturbation and Lorenz gauge
 - [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
 - [Ch 8 - Gravitational Waves](../../02_Literature/Book/Baumann%20GR/Ch%208%20-%20Gravitational%20Waves.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (8)</h4>
+  <h4 class="backlinks-title">Linked References (7)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Book/Baumann%20GR/Ch%208%20-%20Gravitational%20Waves.html" class="backlink-item">Ch 8 - Gravitational Waves</a></li>
+    <li class="backlink-item-wrap"><a href="Linearized%20Christoffel%20and%20Riemann.html" class="backlink-item">Linearized Christoffel and Riemann</a></li>
+    <li class="backlink-item-wrap"><a href="Linearized%20gauge%20transformations.html" class="backlink-item">Linearized gauge transformations</a></li>
+    <li class="backlink-item-wrap"><a href="Linearized%20metric%20perturbation.html" class="backlink-item">Linearized metric perturbation</a></li>
+    <li class="backlink-item-wrap"><a href="Lorenz%20gauge.html" class="backlink-item">Lorenz gauge</a></li>
+    <li class="backlink-item-wrap"><a href="Newtonian%20limit%20of%20GR.html" class="backlink-item">Newtonian limit of GR</a></li>
+    <li class="backlink-item-wrap"><a href="Transverse%20traceless%20gauge.html" class="backlink-item">Transverse traceless gauge</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Linearized%20Christoffel%20and%20Riemann.html" class="backlink-item">Linearized Christoffel and Riemann</a></li>
-    <li class="backlink-item-wrap"><a href="./Linearized%20gauge%20transformations.html" class="backlink-item">Linearized gauge transformations</a></li>
-    <li class="backlink-item-wrap"><a href="./Linearized%20metric%20perturbation.html" class="backlink-item">Linearized metric perturbation</a></li>
-    <li class="backlink-item-wrap"><a href="./Lorenz%20gauge.html" class="backlink-item">Lorenz gauge</a></li>
-    <li class="backlink-item-wrap"><a href="./Newtonian%20limit%20of%20GR.html" class="backlink-item">Newtonian limit of GR</a></li>
-    <li class="backlink-item-wrap"><a href="./Transverse%20traceless%20gauge.html" class="backlink-item">Transverse traceless gauge</a></li>
   </ul>
 </div>
+

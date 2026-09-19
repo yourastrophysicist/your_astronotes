@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Coronagraphy and angular differential imaging"
-name: "Coronagraphy and angular differential imaging"
-description: "Lyot and apodized pupil coronagraphs, speckle noise subtraction, and post-processing via ADI, SDI, and PCA algorithms"
 ---
-{% raw %}
 detecting faint planetary companions next to bright host stars requires combining optical coronagraphs to block on-axis starlight with post-processing differential imaging algorithms to eliminate quasi-static speckles.
 
 ## coronagraphic architectures
@@ -32,14 +29,14 @@ residual optical aberrations on the telescope mirrors create coherent interferen
 
 - [Exoplanetary_Astrophysics_MOC](../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)
 - [08_Direct_Imaging_Instrumentation_and_Astrometric_Synergies](../../02_Literature/Lectures/Exoplanetary_Astrophysics/08_Direct_Imaging_Instrumentation_and_Astrometric_Synergies.html)
-- [High-contrast direct imaging and extreme adaptive optics](./High-contrast%20direct%20imaging%20and%20extreme%20adaptive%20optics.html)
-- [Astrometric exoplanet detection and Gaia astrometry](./Astrometric%20exoplanet%20detection%20and%20Gaia%20astrometry.html)
-{% endraw %}
+- [High-contrast direct imaging and extreme adaptive optics](High-contrast%20direct%20imaging%20and%20extreme%20adaptive%20optics.html)
+- [Astrometric exoplanet detection and Gaia astrometry](Astrometric%20exoplanet%20detection%20and%20Gaia%20astrometry.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="High-contrast%20direct%20imaging%20and%20extreme%20adaptive%20optics.html" class="backlink-item">High-contrast direct imaging and extreme adaptive optics</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./High-contrast%20direct%20imaging%20and%20extreme%20adaptive%20optics.html" class="backlink-item">High-contrast direct imaging and extreme adaptive optics</a></li>
   </ul>
 </div>
+

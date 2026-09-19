@@ -2,7 +2,6 @@
 layout: "default"
 title: "Circular orbits in Schwarzschild"
 ---
-{% raw %}
 circular orbits in Schwarzschild are the GR generalisation of Kepler's circular orbits, with a characteristic deviation: **no stable circular orbit exists below $r = 6GM$**.
 
 ## the orbital frequency
@@ -52,11 +51,11 @@ between $r = 3GM$ (photon sphere) and $r = 6GM$ (ISCO), circular **unstable** or
 
 ## see also
 
-- [Schwarzschild metric](./Schwarzschild%20metric.html)
-- [Schwarzschild Christoffels](./Schwarzschild%20Christoffels.html)
-- [Schwarzschild effective potential](./Schwarzschild%20effective%20potential.html)
-- [Photon sphere](./Photon%20sphere.html)
-- [Effective potential approach](./Effective%20potential%20approach.html)
+- [Schwarzschild metric](Schwarzschild%20metric.html)
+- [Schwarzschild Christoffels](Schwarzschild%20Christoffels.html)
+- [Schwarzschild effective potential](Schwarzschild%20effective%20potential.html)
+- [Photon sphere](Photon%20sphere.html)
+- [Effective potential approach](Effective%20potential%20approach.html)
 - Q12 - circular orbits and orbital frequency
 - [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
 - [Ch 6 - Black Holes](../../02_Literature/Book/Baumann%20GR/Ch%206%20-%20Black%20Holes.html)
@@ -71,15 +70,15 @@ between $r = 3GM$ (photon sphere) and $r = 6GM$ (ISCO), circular **unstable** or
 
 ![baumann_fig06_p110.jpeg](../../assets/images/baumann_fig06_p110.jpeg)
 *Cambridge Lecture Diagram: Effective potential for massive particle orbits in Schwarzschild spacetime showing ISCO and horizon plunge.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Effective%20potential%20approach.html" class="backlink-item">Effective potential approach</a></li>
+    <li class="backlink-item-wrap"><a href="Effective%20potential%20approach.html" class="backlink-item">Effective potential approach</a></li>
+    <li class="backlink-item-wrap"><a href="Photon%20sphere.html" class="backlink-item">Photon sphere</a></li>
+    <li class="backlink-item-wrap"><a href="Schwarzschild%20effective%20potential.html" class="backlink-item">Schwarzschild effective potential</a></li>
+    <li class="backlink-item-wrap"><a href="Schwarzschild%20metric.html" class="backlink-item">Schwarzschild metric</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Photon%20sphere.html" class="backlink-item">Photon sphere</a></li>
-    <li class="backlink-item-wrap"><a href="./Schwarzschild%20effective%20potential.html" class="backlink-item">Schwarzschild effective potential</a></li>
-    <li class="backlink-item-wrap"><a href="./Schwarzschild%20metric.html" class="backlink-item">Schwarzschild metric</a></li>
   </ul>
 </div>
+

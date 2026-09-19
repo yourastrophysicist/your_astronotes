@@ -2,7 +2,6 @@
 layout: "default"
 title: "Newtonian Friedmann derivation"
 ---
-{% raw %}
 a beautifully classical (pre-GR) way to derive the Friedmann equation: just Newtonian gravity applied to a uniform expanding sphere of dust. the GR version (see Friedmann equations with Λ) gives the same answer with relativistic corrections.
 
 ---
@@ -83,24 +82,24 @@ it also gives the **physical intuition** for why the cosmological constant is so
 
 - [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
 - Friedmann equations with Λ
-- [Friedmann models](./Friedmann%20models.html)
-- [Curvature parameter k](./Curvature%20parameter%20k.html)
-- [Density parameters and flatness](./Density%20parameters%20and%20flatness.html)
-- [Baumann_reference](./Baumann_reference.html) — chapter 1.3 has the GR derivation, contrast with this
-{% endraw %}
+- [Friedmann models](Friedmann%20models.html)
+- [Curvature parameter k](Curvature%20parameter%20k.html)
+- [Density parameters and flatness](Density%20parameters%20and%20flatness.html)
+- [Baumann_reference](Baumann_reference.html) — chapter 1.3 has the GR derivation, contrast with this
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (10)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Baumann_reference.html" class="backlink-item">Baumann_reference</a></li>
-    <li class="backlink-item-wrap"><a href="./FLRW%20metric.html" class="backlink-item">FLRW metric</a></li>
-    <li class="backlink-item-wrap"><a href="./Friedmann%20equations.html" class="backlink-item">Friedmann equations</a></li>
-    <li class="backlink-item-wrap"><a href="./Friedmann%20equations%20with%20Lambda.html" class="backlink-item">Friedmann equations with Lambda</a></li>
-    <li class="backlink-item-wrap"><a href="./Friedmann%20solutions.html" class="backlink-item">Friedmann solutions</a></li>
+    <li class="backlink-item-wrap"><a href="Baumann_reference.html" class="backlink-item">Baumann_reference</a></li>
+    <li class="backlink-item-wrap"><a href="FLRW%20metric.html" class="backlink-item">FLRW metric</a></li>
+    <li class="backlink-item-wrap"><a href="Friedmann%20equations%20with%20Lambda.html" class="backlink-item">Friedmann equations with Lambda</a></li>
+    <li class="backlink-item-wrap"><a href="Friedmann%20equations.html" class="backlink-item">Friedmann equations</a></li>
+    <li class="backlink-item-wrap"><a href="Friedmann%20solutions.html" class="backlink-item">Friedmann solutions</a></li>
+    <li class="backlink-item-wrap"><a href="GR%20Friedmann%20with%20Lambda.html" class="backlink-item">GR Friedmann with Lambda</a></li>
+    <li class="backlink-item-wrap"><a href="Newtonian%20derivation%20of%20Friedmann.html" class="backlink-item">Newtonian derivation of Friedmann</a></li>
+    <li class="backlink-item-wrap"><a href="Newtonian%20limit%20of%20GR.html" class="backlink-item">Newtonian limit of GR</a></li>
+    <li class="backlink-item-wrap"><a href="Robertson-Walker%20metric.html" class="backlink-item">Robertson-Walker metric</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./GR%20Friedmann%20with%20Lambda.html" class="backlink-item">GR Friedmann with Lambda</a></li>
-    <li class="backlink-item-wrap"><a href="./Newtonian%20derivation%20of%20Friedmann.html" class="backlink-item">Newtonian derivation of Friedmann</a></li>
-    <li class="backlink-item-wrap"><a href="./Newtonian%20limit%20of%20GR.html" class="backlink-item">Newtonian limit of GR</a></li>
-    <li class="backlink-item-wrap"><a href="./Robertson-Walker%20metric.html" class="backlink-item">Robertson-Walker metric</a></li>
   </ul>
 </div>
+

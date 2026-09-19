@@ -2,7 +2,6 @@
 layout: "default"
 title: "Stellar scaling relations"
 ---
-{% raw %}
 a star is a self-gravitating sphere of hot plasma held in long-term structural equilibrium by a delicate balance between inward gravitational force and outward thermal and radiation pressure gradients.
 
 ![stellar-01.png](../../assets/images/stellar-01.png)
@@ -65,10 +64,10 @@ where the exponent $\alpha$ depends on the stellar mass range:
 ## see also
 
 - [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [HR diagram](./HR%20diagram.html)
-- [Main sequence, giants, supergiants, white dwarfs](./Main%20sequence%2C%20giants%2C%20supergiants%2C%20white%20dwarfs.html)
-- [Stellar structure equations](./Stellar%20structure%20equations.html)
-- [Stellar evolution timescales](./Stellar%20evolution%20timescales.html)
+- [HR diagram](HR%20diagram.html)
+- [Main sequence, giants, supergiants, white dwarfs](Main%20sequence%2C%20giants%2C%20supergiants%2C%20white%20dwarfs.html)
+- [Stellar structure equations](Stellar%20structure%20equations.html)
+- [Stellar evolution timescales](Stellar%20evolution%20timescales.html)
 
 ---
 
@@ -91,25 +90,25 @@ where the exponent $\alpha$ depends on the stellar mass range:
 
 ![obs_stars-030.png](../../assets/images/obs_stars-030.png)
 *Observed Mass-Luminosity relation: L proportional to M^3.5 for intermediate-mass stars.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (15)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Binary%20star%20evolution%20and%20mass%20transfer.html" class="backlink-item">Binary star evolution and mass transfer</a></li>
-    <li class="backlink-item-wrap"><a href="./Bolometric%20correction%20and%20effective%20temperature.html" class="backlink-item">Bolometric correction and effective temperature</a></li>
-    <li class="backlink-item-wrap"><a href="./Cluster%20ages%20from%20CMD%20turnoff.html" class="backlink-item">Cluster ages from CMD turnoff</a></li>
+    <li class="backlink-item-wrap"><a href="Binary%20star%20evolution%20and%20mass%20transfer.html" class="backlink-item">Binary star evolution and mass transfer</a></li>
+    <li class="backlink-item-wrap"><a href="Bolometric%20correction%20and%20effective%20temperature.html" class="backlink-item">Bolometric correction and effective temperature</a></li>
+    <li class="backlink-item-wrap"><a href="Cluster%20ages%20from%20CMD%20turnoff.html" class="backlink-item">Cluster ages from CMD turnoff</a></li>
+    <li class="backlink-item-wrap"><a href="HR%20diagram.html" class="backlink-item">HR diagram</a></li>
+    <li class="backlink-item-wrap"><a href="Main%20sequence%2C%20giants%2C%20supergiants%2C%20white%20dwarfs.html" class="backlink-item">Main sequence, giants, supergiants, white dwarfs</a></li>
+    <li class="backlink-item-wrap"><a href="Mass-luminosity%20relation.html" class="backlink-item">Mass-luminosity relation</a></li>
+    <li class="backlink-item-wrap"><a href="Planck%20law%20Wien%20Stefan-Boltzmann.html" class="backlink-item">Planck law Wien Stefan-Boltzmann</a></li>
+    <li class="backlink-item-wrap"><a href="Pre-main%20sequence%20evolution%20and%20protostars.html" class="backlink-item">Pre-main sequence evolution and protostars</a></li>
+    <li class="backlink-item-wrap"><a href="Radiative%20transport.html" class="backlink-item">Radiative transport</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20evolution%20timescales.html" class="backlink-item">Stellar evolution timescales</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20spectra%20and%20spectral%20classification.html" class="backlink-item">Stellar spectra and spectral classification</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20structure%20equations.html" class="backlink-item">Stellar structure equations</a></li>
+    <li class="backlink-item-wrap"><a href="Why%20hot%20massive%20stars%20dominate%20luminosity.html" class="backlink-item">Why hot massive stars dominate luminosity</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./HR%20diagram.html" class="backlink-item">HR diagram</a></li>
-    <li class="backlink-item-wrap"><a href="./Main%20sequence%2C%20giants%2C%20supergiants%2C%20white%20dwarfs.html" class="backlink-item">Main sequence, giants, supergiants, white dwarfs</a></li>
-    <li class="backlink-item-wrap"><a href="./Mass-luminosity%20relation.html" class="backlink-item">Mass-luminosity relation</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Planck%20law%20Wien%20Stefan-Boltzmann.html" class="backlink-item">Planck law Wien Stefan-Boltzmann</a></li>
-    <li class="backlink-item-wrap"><a href="./Pre-main%20sequence%20evolution%20and%20protostars.html" class="backlink-item">Pre-main sequence evolution and protostars</a></li>
-    <li class="backlink-item-wrap"><a href="./Radiative%20transport.html" class="backlink-item">Radiative transport</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20evolution%20timescales.html" class="backlink-item">Stellar evolution timescales</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20spectra%20and%20spectral%20classification.html" class="backlink-item">Stellar spectra and spectral classification</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20structure%20equations.html" class="backlink-item">Stellar structure equations</a></li>
-    <li class="backlink-item-wrap"><a href="./Why%20hot%20massive%20stars%20dominate%20luminosity.html" class="backlink-item">Why hot massive stars dominate luminosity</a></li>
   </ul>
 </div>
+

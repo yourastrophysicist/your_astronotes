@@ -2,66 +2,94 @@
 layout: "default"
 title: "Schechter function"
 ---
-{% raw %}
 # schechter function
 
-up: [Pablo_02_Statistical_properties_of_galaxies](../../02_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html) · [Luminosity function definition](./Luminosity%20function%20definition.html)
+Parent [Pablo_02_Statistical_properties_of_galaxies](../../02_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html) · [Luminosity function definition](Luminosity%20function%20definition.html)
 
-## the form
+## The Parametric Form
 
-Paul Schechter (1976) proposed a three-parameter parametrization of the galaxy LF that has resisted serious revision for fifty years:
+Paul Schechter (1976, ApJ 203, 297) proposed an analytic parametrization of the galaxy luminosity function.
 
-$$\boxed{\,\phi(L)\, dL = \frac{\phi^*}{L^*} \left(\frac{L}{L^*}\right)^\alpha \exp\!\left(-\frac{L}{L^*}\right) dL\,}$$
+$$\boxed{\Phi(L)\, dL = \frac{\Phi^*}{L^*} \left(\frac{L}{L^*}\right)^\alpha \exp\!\left(-\frac{L}{L^*}\right) dL}$$
 
-three parameters:
+The three parameters and their physical dimensions.
+- $\Phi^*$ - Normalization constant representing the characteristic number density of galaxies per unit volume (units - $\mathrm{Mpc}^{-3}$ or $h^3\,\mathrm{Mpc}^{-3}$).
+- $L^*$ - Characteristic luminosity (the "knee" of the distribution), dividing the faint power-law regime from the exponential cutoff.
+- $\alpha$ - Faint-end slope parameter (dimensionless). For typical optical bands in the local universe, $\alpha \approx -1.1$ to $-1.3$.
 
-- $\phi^*$: characteristic number density (units $\text{Mpc}^{-3}$), sets the overall normalization
-- $L^*$: characteristic luminosity, the "knee" where the function transitions from a power law to an exponential cutoff
-- $\alpha$: faint-end slope. for $L \ll L^*$, $\phi(L) \propto L^\alpha$. typically $-2 < \alpha < -1$.
+---
 
-## what each parameter does
+## Rigorous Derivation - Transformation to Absolute Magnitudes
 
-- **bright end** ($L \gg L^*$): the exponential $e^{-L/L^*}$ kills the count. there are no galaxies with $L \gg 5 L^*$, this is observed and physical (probably AGN feedback at high mass; see [Halo gravity suppression of galaxy formation](./Halo%20gravity%20suppression%20of%20galaxy%20formation.html)).
-- **knee** at $L \sim L^*$: this is where the typical "$L^*$ galaxy" lives. the milky way is roughly $L^*$.
-- **faint end** ($L \ll L^*$): $\phi \propto L^\alpha$ with $\alpha < 0$, so number rises toward faint $L$. $\alpha = -1$ is "flat" in $\phi(\log L)$; $\alpha = -1.3$ is a typical optical value; UV / faint dwarf measurements give $\alpha \to -2$.
+To express the Schechter function in terms of absolute magnitude $M$, we start from the astronomical definition of magnitude.
 
-## why this works
+$$M - M^* = -2.5 \log_{10}\left(\frac{L}{L^*}\right) \implies \frac{L}{L^*} = 10^{-0.4(M - M^*)}$$
 
-physically, the Schechter form is what you get when you convolve the **halo mass function** (which has a Press-Schechter exponential cutoff at high mass) with a **stellar-to-halo mass ratio** that turns over at high mass (see [Stellar-to-halo mass ratio](./Stellar-to-halo%20mass%20ratio.html)). the *exponential* cutoff in $\phi(L)$ is inherited directly from the halo mass function's exponential.
+Conserving total galaxy number per unit volume across the differential element.
 
-this also explains why the Schechter form is universal: any LF whose underlying halo population is Press-Schechter will look approximately Schechter, with the parameters depending on the band and redshift.
+$$|\Phi(M)\, dM| = |\Phi(L)\, dL| \implies \Phi(M) = \Phi(L) \left|\frac{dL}{dM}\right|$$
 
-## typical values, k-band, low z
+Step 1 - Compute the derivative of $L(M) = L^* 10^{-0.4(M - M^*)} = L^* \exp[-0.4 \ln(10)(M - M^*)]$.
 
-Smith et al. 2009 from UKIDSS / 2MASS measured the K-band LF locally:
+$$\frac{dL}{dM} = L^* \cdot (-0.4 \ln 10) \cdot 10^{-0.4(M - M^*)}$$
 
-- $M^* = -23.19$ (Vega)
-- $\alpha = -0.81$
-- $\phi^* = 0.0166\, h^3\, \text{Mpc}^{-3}$
+$$\left|\frac{dL}{dM}\right| = 0.4 \ln(10)\, L^*\, 10^{-0.4(M - M^*)}$$
 
-see [Schechter K-band luminosity function](./Schechter%20K-band%20luminosity%20function.html).
+Step 2 - Substitute $L/L^*$ and $|dL/dM|$ into the Schechter formula.
 
-## limitations
+$$\Phi(M) = \left[ \frac{\Phi^*}{L^*} \left(10^{-0.4(M - M^*)}\right)^\alpha \exp\left(-10^{-0.4(M - M^*)}\right) \right] \times \left[ 0.4 \ln(10)\, L^*\, 10^{-0.4(M - M^*)} \right]$$
 
-a single Schechter does not always fit:
+Notice that $L^*$ cancels completely.
 
-- the **faint end** in deep dwarf samples (Local Group, Virgo) often needs a steeper slope $\alpha \to -1.5$ or a separate power-law component.
-- the **bright end** at high $z$ shows a power-law tail above $L^*$ (Pérez-González et al. 2005), requiring a [Double power-law modified Schechter](./Double%20power-law%20modified%20Schechter.html) form.
-- splitting by morphology, color, or environment gives *different* Schechter parameters per population (see [LF by morphology and SED](./LF%20by%20morphology%20and%20SED.html)).
+$$\Phi(M) = 0.4 \ln(10)\, \Phi^* \left(10^{-0.4(M - M^*)}\right)^{\alpha + 1} \exp\left[-10^{-0.4(M - M^*)}\right]$$
 
-## connections
+Step 3 - Invert the exponent sign using $-(M - M^*) = M^* - M$.
 
-- the next-up working forms: [Schechter function in magnitudes](./Schechter%20function%20in%20magnitudes.html), [Integrals of the Schechter function](./Integrals%20of%20the%20Schechter%20function.html)
-- estimator: [1Vmax estimator](./1Vmax%20estimator.html)
-- canonical numbers: [Schechter K-band luminosity function](./Schechter%20K-band%20luminosity%20function.html)
-- bright-end departures: [Double power-law modified Schechter](./Double%20power-law%20modified%20Schechter.html)
-- mass version: [Stellar mass function](./Stellar%20mass%20function.html)
+$$\boxed{\Phi(M)\, dM = 0.4 \ln(10)\, \Phi^*\, 10^{0.4(\alpha+1)(M^* - M)} \exp\left[-10^{0.4(M^* - M)}\right] dM}$$
 
-## key references
+### Asymptotic Slopes on the Magnitude Blackboard
+- **Faint End ($M \gg M^*$, $L \ll L^*$) -**
+  The exponential term approaches 1 - $\exp[-10^{0.4(M^* - M)}] \to 1$.
+  Therefore.
+  $$\Phi(M) \approx 0.4 \ln(10)\, \Phi^*\, 10^{0.4(\alpha+1)(M^* - M)}$$
+  Taking $\log_{10}$ of both sides.
+  $$\log_{10}\Phi(M) = \text{const} + 0.4(\alpha+1)(M^* - M) = \text{const} - 0.4(\alpha+1) M$$
+  The logarithmic slope on a plot of $\log_{10}\Phi(M)$ versus $M$ is.
+  $$\frac{d\log_{10}\Phi(M)}{dM} = -0.4(\alpha+1)$$
+  For a typical slope $\alpha = -1.2$, the slope is $-0.4(-0.2) = +0.08$ (count increases towards fainter magnitudes).
+- **Bright End ($M \ll M^*$, $L \gg L^*$) -**
+  The double-exponential term dominates - $\exp[-10^{0.4(M^* - M)}]$ plunges sharply to zero, creating an exponential cutoff.
 
-- Schechter 1976, ApJ 203, 297 (the original)
-- Press & Schechter 1974 (the halo mass function that motivates the form)
-- Smith, Loveday, Cross 2009 (K-band LF)
+---
+
+## Physical Origin & Halo Mass Function Connection
+
+The Schechter function emerges naturally from the convolution of.
+1. The **halo mass function** $dn/dM_h$ (Press-Schechter 1974; Sheth-Tormen 2001), which exhibits a power law at low halo masses and an exponential cutoff at the high-mass end.
+   $$\frac{dn}{dM_h} \propto M_h^{-(1 + \gamma)} \exp\left[-\left(\frac{M_h}{M_*}\right)^\delta\right]$$
+2. The **stellar-to-halo mass relation** $M_*(M_h)$, which peaks at $M_h \approx 10^{12} M_\odot$ with efficiency $\sim 20\%$ and drops sharply at both lower masses (supernova feedback) and higher masses (virial shock heating and AGN radio-mode feedback).
+
+---
+
+## Textbook & Course References
+
+- **Mo, van den Bosch & White (2010), *Galaxy Formation and Evolution***.
+  - File `Houjun Mo, Frank van den Bosch, Simon White - Galaxy Formation and Evolution (2010, Cambridge University Press) - libgen.li.pdf`
+  - Chapter 2, Section 2.4.1 "Luminosity Function", pp. 83-86 (analytic form eq. 2.50, SDSS LF parameters).
+- **Binney & Merrifield (1998), *Galactic Astronomy***.
+  - File `Galactic Astronomy (James Binney Michael Merrifield) (z-library.sk, 1lib.sk, z-lib.sk).pdf`
+  - Chapter 4, Section 4.5 "The Luminosity Function of Galaxies", pp. 232-237 (Schechter fit and parameters).
+- **Prof. Alessandro Pizzella Course Dispensa**.
+  - File `dispense_LF1_1_eng-1.pdf`
+  - Chapter 1, Section 1.1-1.2, pp. 1-5 (eq. 1.4, Blanton et al. 2003 fits, $ugriz$ parameters).
+- **Student Synthesis Document**.
+  - File `Astrophysics_of_Galaxies.tex`
+  - Part I "The Luminosity Function", Section 1.2, pp. 4-5 (eqs. 1-2).
+- **Master Exam Protocols**.
+  - Full mathematical proofs - Master Derivations and Mathematical Rigor
+  - Blackboard sketch - Master Observational Graphs and Blackboard Fluency
+
+---
 
 ---
 
@@ -74,10 +102,10 @@ a single Schechter does not always fit:
 *Paul Schechter (1976) analytic parameterization of the galaxy luminosity function.*
 
 ![gal_lf1-07.png](../../assets/images/gal_lf1-07.png)
-*Standard Schechter form: Phi(L) dL = (Phi* / L*) * (L / L*)^alpha * exp(-L / L*) dL.*
+*Standard Schechter form - Phi(L) dL = (Phi* / L*) * (L / L*)^alpha * exp(-L / L*) dL.*
 
 ![gal_lf1-08.png](../../assets/images/gal_lf1-08.png)
-*Physical meaning of parameters: Phi* (normalization), L* (characteristic turnover luminosity), alpha (faint-end slope).*
+*Physical meaning of parameters - Phi* (normalization), L* (characteristic turnover luminosity), alpha (faint-end slope).*
 
 ![gal_lf1-09.png](../../assets/images/gal_lf1-09.png)
 *Faint-end power-law behavior for L << L* vs exponential cutoff for L >> L*.*
@@ -118,26 +146,25 @@ a single Schechter does not always fit:
 ![gal_lf1-29.png](../../assets/images/gal_lf1-29.png)
 
 ![gal_lf1-30.png](../../assets/images/gal_lf1-30.png)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (16)</h4>
+  <h4 class="backlinks-title">Linked References (15)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./1Vmax%20estimator.html" class="backlink-item">1Vmax estimator</a></li>
+    <li class="backlink-item-wrap"><a href="1Vmax%20estimator.html" class="backlink-item">1Vmax estimator</a></li>
+    <li class="backlink-item-wrap"><a href="Cosmic%20star%20formation%20history.html" class="backlink-item">Cosmic star formation history</a></li>
+    <li class="backlink-item-wrap"><a href="Double%20power-law%20modified%20Schechter.html" class="backlink-item">Double power-law modified Schechter</a></li>
+    <li class="backlink-item-wrap"><a href="Integrals%20of%20the%20Schechter%20function.html" class="backlink-item">Integrals of the Schechter function</a></li>
+    <li class="backlink-item-wrap"><a href="LF%20by%20morphology%20and%20SED.html" class="backlink-item">LF by morphology and SED</a></li>
+    <li class="backlink-item-wrap"><a href="Luminosity%20function%20definition.html" class="backlink-item">Luminosity function definition</a></li>
+    <li class="backlink-item-wrap"><a href="Malmquist%20bias.html" class="backlink-item">Malmquist bias</a></li>
+    <li class="backlink-item-wrap"><a href="Press-Schechter%20formalism.html" class="backlink-item">Press-Schechter formalism</a></li>
+    <li class="backlink-item-wrap"><a href="Redshift%20distribution%20of%20flux-limited%20samples.html" class="backlink-item">Redshift distribution of flux-limited samples</a></li>
+    <li class="backlink-item-wrap"><a href="Schechter%20K-band%20luminosity%20function.html" class="backlink-item">Schechter K-band luminosity function</a></li>
+    <li class="backlink-item-wrap"><a href="Schechter%20function%20in%20magnitudes.html" class="backlink-item">Schechter function in magnitudes</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20mass%20function.html" class="backlink-item">Stellar mass function</a></li>
+    <li class="backlink-item-wrap"><a href="UV%20luminosity%20function.html" class="backlink-item">UV luminosity function</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Cosmic%20star%20formation%20history.html" class="backlink-item">Cosmic star formation history</a></li>
-    <li class="backlink-item-wrap"><a href="./Double%20power-law%20modified%20Schechter.html" class="backlink-item">Double power-law modified Schechter</a></li>
-    <li class="backlink-item-wrap"><a href="./Integrals%20of%20the%20Schechter%20function.html" class="backlink-item">Integrals of the Schechter function</a></li>
-    <li class="backlink-item-wrap"><a href="./LF%20by%20morphology%20and%20SED.html" class="backlink-item">LF by morphology and SED</a></li>
-    <li class="backlink-item-wrap"><a href="./Luminosity%20function%20definition.html" class="backlink-item">Luminosity function definition</a></li>
-    <li class="backlink-item-wrap"><a href="./Malmquist%20bias.html" class="backlink-item">Malmquist bias</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html" class="backlink-item">Pablo_02_Statistical_properties_of_galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="./Press-Schechter%20formalism.html" class="backlink-item">Press-Schechter formalism</a></li>
-    <li class="backlink-item-wrap"><a href="./Redshift%20distribution%20of%20flux-limited%20samples.html" class="backlink-item">Redshift distribution of flux-limited samples</a></li>
-    <li class="backlink-item-wrap"><a href="./Schechter%20K-band%20luminosity%20function.html" class="backlink-item">Schechter K-band luminosity function</a></li>
-    <li class="backlink-item-wrap"><a href="./Schechter%20function%20in%20magnitudes.html" class="backlink-item">Schechter function in magnitudes</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20mass%20function.html" class="backlink-item">Stellar mass function</a></li>
-    <li class="backlink-item-wrap"><a href="./UV%20luminosity%20function.html" class="backlink-item">UV luminosity function</a></li>
   </ul>
 </div>
+

@@ -1,13 +1,10 @@
 ---
 layout: "default"
 title: "Element abundance patterns"
-name: "Element abundance patterns"
-description: "alpha/Fe, [C/N], and other element ratios as fingerprints of nucleosynthetic origin and stellar population history"
 ---
-{% raw %}
 # element abundance patterns
 
-individual abundances of elements heavier than hydrogen and helium ("metals") are produced by different nucleosynthetic processes: massive-star core-collapse supernovae, type Ia supernovae, AGB winds, neutron-star mergers, etc. each process has its own characteristic timescale and yield pattern. so the **ratios** of element abundances in a star are diagnostic fingerprints of its formation environment. ratios are usually denoted $[\text{X/Y}] = \log_{10}(N_X/N_Y)_* - \log_{10}(N_X/N_Y)_\odot$ (see [Spectroscopic determination of metallicity](./Spectroscopic%20determination%20of%20metallicity.html)).
+individual abundances of elements heavier than hydrogen and helium ("metals") are produced by different nucleosynthetic processes: massive-star core-collapse supernovae, type Ia supernovae, AGB winds, neutron-star mergers, etc. each process has its own characteristic timescale and yield pattern. so the **ratios** of element abundances in a star are diagnostic fingerprints of its formation environment. ratios are usually denoted $[\text{X/Y}] = \log_{10}(N_X/N_Y)_* - \log_{10}(N_X/N_Y)_\odot$ (see [Spectroscopic determination of metallicity](Spectroscopic%20determination%20of%20metallicity.html)).
 
 ## the alpha-element / Fe ratio: $[\alpha/\text{Fe}]$
 
@@ -32,7 +29,7 @@ CN-cycle hydrogen burning processes carbon into nitrogen. the [C/N] ratio is a s
 
 oxygen is an alpha element produced by core-collapse SNe. in globular clusters, however, the O-Na anticorrelation (O depleted, Na enhanced in 2G stars) is a near-universal signature of multiple populations (Gratton, Carretta, Lardo, Marino), arising from proton-capture nucleosynthesis at $T \sim 70$ MK in the polluter stars.
 
-the [Effects of differential reddening on CMD analysis](./Effects%20of%20differential%20reddening%20on%20CMD%20analysis.html) is unrelated, but the multiple populations show up clearly in optical-IR colours sensitive to OH and water bands.
+the [Effects of differential reddening on CMD analysis](Effects%20of%20differential%20reddening%20on%20CMD%20analysis.html) is unrelated, but the multiple populations show up clearly in optical-IR colours sensitive to OH and water bands.
 
 ## n-capture elements (s-process and r-process)
 
@@ -55,18 +52,18 @@ ratios like [Ba/Eu] separate s- from r-process contributions and constrain galac
 a single overall [Fe/H] gives one number per star. the pattern of multiple element ratios encodes a **multi-dimensional fingerprint** of nucleosynthetic provenance: which kinds of supernovae enriched the gas, on what timescale, with what initial mass function. this is the foundation of **galactic archaeology**: the present-day distribution of stars in chemodynamic space (positions, velocities, abundances) constrains the assembly history of the Galaxy.
 
 ## see also
-- [Spectroscopic determination of metallicity](./Spectroscopic%20determination%20of%20metallicity.html)
-- [Curve of growth](./Curve%20of%20growth.html)
-- [Equivalent width](./Equivalent%20width.html)
+- [Spectroscopic determination of metallicity](Spectroscopic%20determination%20of%20metallicity.html)
+- [Curve of growth](Curve%20of%20growth.html)
+- [Equivalent width](Equivalent%20width.html)
 - [Atmospheric parameters Teff log g feh vmicro](interf/Atmospheric%20parameters%20Teff%20log%20g%20feh%20vmicro.html)
-- [Local thermodynamic equilibrium LTE](./Local%20thermodynamic%20equilibrium%20LTE.html)
+- [Local thermodynamic equilibrium LTE](Local%20thermodynamic%20equilibrium%20LTE.html)
 - [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Spectroscopic%20determination%20of%20metallicity.html" class="backlink-item">Spectroscopic determination of metallicity</a></li>
+    <li class="backlink-item-wrap"><a href="Spectroscopic%20determination%20of%20metallicity.html" class="backlink-item">Spectroscopic determination of metallicity</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

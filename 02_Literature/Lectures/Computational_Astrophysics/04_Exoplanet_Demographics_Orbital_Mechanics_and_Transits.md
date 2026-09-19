@@ -2,7 +2,6 @@
 layout: "default"
 title: "04_Exoplanet_Demographics_Orbital_Mechanics_and_Transits"
 ---
-{% raw %}
 # Lesson 04 – Exoplanet Demographics, Orbital Mechanics, and Transits
 
 *Computational Astrophysics, Prof. Tiziano Zingales*  
@@ -249,16 +248,11 @@ Real space-based photometric light curves (from Kepler, K2, TESS) deviate from i
 
 ![Analytic Light Curve Precision Comparisons](../../../assets/images/comp_exo_p25.png)
 *Figure COMP-03: Computational speed and accuracy benchmark of Mandel & Agol analytical limb-darkened transit evaluation versus numerical 2D pixel integration.*
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
+  <h4 class="backlinks-title">Linked References (1)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./03_Modular_Python_Software_Architecture_and_Packaging.html" class="backlink-item">03_Modular_Python_Software_Architecture_and_Packaging</a></li>
-    <li class="backlink-item-wrap"><a href="./05_Machine_Learning_Foundations_and_Regression_Models.html" class="backlink-item">05_Machine_Learning_Foundations_and_Regression_Models</a></li>
-    <li class="backlink-item-wrap"><a href="./06_Deep_Learning_Architectures_and_Optimization.html" class="backlink-item">06_Deep_Learning_Architectures_and_Optimization</a></li>
-    <li class="backlink-item-wrap"><a href="./07_Atmospheric_Radiative_Transfer_and_Line_Profiles.html" class="backlink-item">07_Atmospheric_Radiative_Transfer_and_Line_Profiles</a></li>
-    <li class="backlink-item-wrap"><a href="./08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx.html" class="backlink-item">08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx</a></li>
     <li class="backlink-item-wrap"><a href="../../../04_Atlas/Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

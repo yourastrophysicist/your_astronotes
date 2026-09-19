@@ -2,7 +2,6 @@
 layout: "default"
 title: "Affine parameter"
 ---
-{% raw %}
 a geodesic is a curve $x^\mu(\lambda)$ that **parallel-transports its own tangent**. but the parameterisation $\lambda$ matters: only certain choices, called **affine parameters**, give the simple geodesic equation $\ddot x^\mu + \Gamma\dot x\dot x = 0$ without extra terms.
 
 ## the definition
@@ -49,21 +48,21 @@ practical: convert to an affine parameter when doing physics; convert back when 
 
 ## see also
 
-- [Geodesic equation](./Geodesic%20equation.html)
-- [Timelike vs null vs spacelike](./Timelike%20vs%20null%20vs%20spacelike.html)
-- [Killing vectors and conserved quantities](./Killing%20vectors%20and%20conserved%20quantities.html)
-- [Effective potential approach](./Effective%20potential%20approach.html)
+- [Geodesic equation](Geodesic%20equation.html)
+- [Timelike vs null vs spacelike](Timelike%20vs%20null%20vs%20spacelike.html)
+- [Killing vectors and conserved quantities](Killing%20vectors%20and%20conserved%20quantities.html)
+- [Effective potential approach](Effective%20potential%20approach.html)
 - Q8 - null geodesic in static metric
 - [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
 - [Ch 3 - A First Look at Geodesics](../../02_Literature/Book/Baumann%20GR/Ch%203%20-%20A%20First%20Look%20at%20Geodesics.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Geodesic%20equation.html" class="backlink-item">Geodesic equation</a></li>
+    <li class="backlink-item-wrap"><a href="Killing%20vectors%20and%20conserved%20quantities.html" class="backlink-item">Killing vectors and conserved quantities</a></li>
+    <li class="backlink-item-wrap"><a href="Timelike%20vs%20null%20vs%20spacelike.html" class="backlink-item">Timelike vs null vs spacelike</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Geodesic%20equation.html" class="backlink-item">Geodesic equation</a></li>
-    <li class="backlink-item-wrap"><a href="./Killing%20vectors%20and%20conserved%20quantities.html" class="backlink-item">Killing vectors and conserved quantities</a></li>
-    <li class="backlink-item-wrap"><a href="./Timelike%20vs%20null%20vs%20spacelike.html" class="backlink-item">Timelike vs null vs spacelike</a></li>
   </ul>
 </div>
+

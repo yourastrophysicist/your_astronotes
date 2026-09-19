@@ -2,7 +2,6 @@
 layout: "default"
 title: "Light waves and the EM spectrum"
 ---
-{% raw %}
 # Light waves and the EM spectrum
 
 the foundational opening of any interferometry course. light is a transverse electromagnetic wave with two perpendicular oscillating components — electric and magnetic field — both perpendicular to the propagation direction. visible light is one octave of a vast electromagnetic spectrum.
@@ -106,4 +105,3 @@ so this zettel is the foundation. after it, every result is one more layer of st
 - [Optical path difference OPD](interf/Optical%20path%20difference%20OPD.html)
 - [Fresnel-Arago laws](interf/Fresnel-Arago%20laws.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

@@ -2,7 +2,6 @@
 layout: "default"
 title: "Connected element interferometer"
 ---
-{% raw %}
 # Connected element interferometer
 
 a radio interferometer in which all antennas share a single common local oscillator and a centralized correlator, with signals brought in by cable or fiber. examples: VLA, ALMA, MeerKAT, ATCA, GMRT. baselines limited to ~100 km by signal-transport infrastructure.
@@ -121,4 +120,3 @@ these will dwarf current CEIs in sensitivity and survey speed.
 - [Earth rotation synthesis in radio](interf/Earth%20rotation%20synthesis%20in%20radio.html)
 - [Major radio interferometers](interf/Major%20radio%20interferometers.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

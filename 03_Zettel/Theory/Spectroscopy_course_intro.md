@@ -2,7 +2,6 @@
 layout: "default"
 title: "Spectroscopy_course_intro"
 ---
-{% raw %}
 the second-semester Astronomical Spectroscopy course at U Padova, AY 2025/2026, taught by Prof. Stefano Ciroi, with course notes building on lectures from Piero Rafanelli and Giovanni La Mura.
 
 ## the conceptual chain
@@ -43,7 +42,6 @@ oral exam questions almost always sit in one of these:
 - [Observational_Astrophysics_MOC](../../04_Atlas/Observational_Astrophysics_MOC.html)
 - [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
 - Exams summer 2026 master plan
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (1)</h4>
@@ -51,3 +49,4 @@ oral exam questions almost always sit in one of these:
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
   </ul>
 </div>
+

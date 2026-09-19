@@ -2,7 +2,6 @@
 layout: "default"
 title: "CMB anisotropies"
 ---
-{% raw %}
 the CMB is almost uniform, but has tiny ($\Delta T/T \sim 10^{-5}$) anisotropies on the sky. they are **the seeds of all structure** in the universe + the cleanest probe of cosmological parameters.
 
 ## the discovery
@@ -24,7 +23,7 @@ after dipole removal, $\Delta T/T \sim 10^{-5}$ on all scales. encoded in the **
 - **higher peaks** at $\ell \approx 540, 800, ...$: harmonics of the acoustic oscillation.
 - **damping tail** at $\ell \gtrsim 1000$: Silk damping by photon diffusion.
 
-each feature constrains specific physics. see [CMB power spectrum](./CMB%20power%20spectrum.html).
+each feature constrains specific physics. see [CMB power spectrum](CMB%20power%20spectrum.html).
 
 ## physical origin: the seeds
 
@@ -57,27 +56,27 @@ the CMB is also polarised at the $\sim 10\%$ level of temperature anisotropies. 
 - **E-modes**: from scalar perturbations + reionisation.
 - **B-modes**: from tensor perturbations (primordial GW) + lensing.
 
-see [Polarization E and B modes](./Polarization%20E%20and%20B%20modes.html).
+see [Polarization E and B modes](Polarization%20E%20and%20B%20modes.html).
 
 ## see also
 
 - CMB — discovery and blackbody spectrum
-- [CMB power spectrum](./CMB%20power%20spectrum.html)
-- [Polarization E and B modes](./Polarization%20E%20and%20B%20modes.html)
-- [Photon decoupling and CMB](./Photon%20decoupling%20and%20CMB.html)
-- [Linear evolution of perturbations in expanding universe](./Linear%20evolution%20of%20perturbations%20in%20expanding%20universe.html)
-- [Inflation overview](./Inflation%20overview.html)
-- [ΛCDM current parameters](./%CE%9BCDM%20current%20parameters.html)
+- [CMB power spectrum](CMB%20power%20spectrum.html)
+- [Polarization E and B modes](Polarization%20E%20and%20B%20modes.html)
+- [Photon decoupling and CMB](Photon%20decoupling%20and%20CMB.html)
+- [Linear evolution of perturbations in expanding universe](Linear%20evolution%20of%20perturbations%20in%20expanding%20universe.html)
+- [Inflation overview](Inflation%20overview.html)
+- [ΛCDM current parameters](%CE%9BCDM%20current%20parameters.html)
 - [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./CMB%20-%20discovery%20and%20blackbody%20spectrum.html" class="backlink-item">CMB - discovery and blackbody spectrum</a></li>
-    <li class="backlink-item-wrap"><a href="./CMB%20power%20spectrum.html" class="backlink-item">CMB power spectrum</a></li>
+    <li class="backlink-item-wrap"><a href="CMB%20-%20discovery%20and%20blackbody%20spectrum.html" class="backlink-item">CMB - discovery and blackbody spectrum</a></li>
+    <li class="backlink-item-wrap"><a href="CMB%20power%20spectrum.html" class="backlink-item">CMB power spectrum</a></li>
+    <li class="backlink-item-wrap"><a href="Polarization%20E%20and%20B%20modes.html" class="backlink-item">Polarization E and B modes</a></li>
+    <li class="backlink-item-wrap"><a href="Recombination.html" class="backlink-item">Recombination</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Polarization%20E%20and%20B%20modes.html" class="backlink-item">Polarization E and B modes</a></li>
-    <li class="backlink-item-wrap"><a href="./Recombination.html" class="backlink-item">Recombination</a></li>
   </ul>
 </div>
+

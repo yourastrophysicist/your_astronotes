@@ -2,7 +2,6 @@
 layout: "default"
 title: "Tensor perturbations and primordial gravitational waves"
 ---
-{% raw %}
 # Tensor perturbations and primordial gravitational waves
 
 > *quantum fluctuations of the spatial geometry itself, producing a stochastic background of gravitational waves.*
@@ -52,19 +51,18 @@ The tensor spectrum is strictly red-tilted ($n_T < 0$).
 
 * parent moc: [Cosmology_of_the_Early_Universe_MOC](../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html)
 * related zettels:
-  - [Tensor-to-scalar ratio r and inflation energy scale](./Tensor-to-scalar%20ratio%20r%20and%20inflation%20energy%20scale.html)
-  - [Consistency relation of single-field slow-roll inflation](./Consistency%20relation%20of%20single-field%20slow-roll%20inflation.html)
-  - [Scalar primordial power spectrum and spectral index](./Scalar%20primordial%20power%20spectrum%20and%20spectral%20index.html)
+  - [Tensor-to-scalar ratio r and inflation energy scale](Tensor-to-scalar%20ratio%20r%20and%20inflation%20energy%20scale.html)
+  - [Consistency relation of single-field slow-roll inflation](Consistency%20relation%20of%20single-field%20slow-roll%20inflation.html)
+  - [Scalar primordial power spectrum and spectral index](Scalar%20primordial%20power%20spectrum%20and%20spectral%20index.html)
   - [Part3_Quantum_Perturbations_and_Power_Spectra](../../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part3_Quantum_Perturbations_and_Power_Spectra.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
+  <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Consistency%20relation%20of%20single-field%20slow-roll%20inflation.html" class="backlink-item">Consistency relation of single-field slow-roll inflation</a></li>
+    <li class="backlink-item-wrap"><a href="Consistency%20relation%20of%20single-field%20slow-roll%20inflation.html" class="backlink-item">Consistency relation of single-field slow-roll inflation</a></li>
+    <li class="backlink-item-wrap"><a href="Scalar%20primordial%20power%20spectrum%20and%20spectral%20index.html" class="backlink-item">Scalar primordial power spectrum and spectral index</a></li>
+    <li class="backlink-item-wrap"><a href="Tensor-to-scalar%20ratio%20r%20and%20inflation%20energy%20scale.html" class="backlink-item">Tensor-to-scalar ratio r and inflation energy scale</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html" class="backlink-item">Cosmology_of_the_Early_Universe_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part3_Quantum_Perturbations_and_Power_Spectra.html" class="backlink-item">Part3_Quantum_Perturbations_and_Power_Spectra</a></li>
-    <li class="backlink-item-wrap"><a href="./Scalar%20primordial%20power%20spectrum%20and%20spectral%20index.html" class="backlink-item">Scalar primordial power spectrum and spectral index</a></li>
-    <li class="backlink-item-wrap"><a href="./Tensor-to-scalar%20ratio%20r%20and%20inflation%20energy%20scale.html" class="backlink-item">Tensor-to-scalar ratio r and inflation energy scale</a></li>
   </ul>
 </div>
+

@@ -1,13 +1,8 @@
 ---
 layout: "default"
 title: "Carraro_01_Introduction_and_Multi-phase_ISM"
-name: "Carraro 01 - Introduction and Multi-phase ISM"
-course: "Astrophysics of the Interstellar Medium"
-lecturer: "Prof. Giovanni Carraro"
-session: "01"
 tags: ""
 ---
-{% raw %}
 # Carraro 01 - Introduction and the Multi-Phase Interstellar Medium
 
 *Course: Astrophysics of the Interstellar Medium, Master in Astrophysics and Cosmology, Università degli Studi di Padova*  
@@ -130,18 +125,12 @@ prof. carraro's lectures cover the physical principles governing each regime:
 - [Carraro_06_Supernovae_and_Hot_Ionized_Medium](./Carraro_06_Supernovae_and_Hot_Ionized_Medium.html)
 - [Carraro_07_Interstellar_Magnetic_Fields](./Carraro_07_Interstellar_Magnetic_Fields.html)
 - [Carraro_08_Shocks_Turbulence_and_MHD_Waves](./Carraro_08_Shocks_Turbulence_and_MHD_Waves.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (8)</h4>
+  <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html" class="backlink-item">Astrophysics_of_the_Interstellar_Medium_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Carraro_02_Neutral_Hydrogen_and_21cm_Universe.html" class="backlink-item">Carraro_02_Neutral_Hydrogen_and_21cm_Universe</a></li>
-    <li class="backlink-item-wrap"><a href="./Carraro_03_HII_Regions_and_Photoionized_Gas.html" class="backlink-item">Carraro_03_HII_Regions_and_Photoionized_Gas</a></li>
-    <li class="backlink-item-wrap"><a href="./Carraro_05_Interstellar_Dust_and_Extinction.html" class="backlink-item">Carraro_05_Interstellar_Dust_and_Extinction</a></li>
-    <li class="backlink-item-wrap"><a href="./Carraro_06_Supernovae_and_Hot_Ionized_Medium.html" class="backlink-item">Carraro_06_Supernovae_and_Hot_Ionized_Medium</a></li>
-    <li class="backlink-item-wrap"><a href="./Carraro_07_Interstellar_Magnetic_Fields.html" class="backlink-item">Carraro_07_Interstellar_Magnetic_Fields</a></li>
-    <li class="backlink-item-wrap"><a href="./Carraro_08_Shocks_Turbulence_and_MHD_Waves.html" class="backlink-item">Carraro_08_Shocks_Turbulence_and_MHD_Waves</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Multi-phase%20structure%20of%20the%20interstellar%20medium.html" class="backlink-item">Multi-phase structure of the interstellar medium</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html" class="backlink-item">Astrophysics_of_the_Interstellar_Medium_MOC</a></li>
   </ul>
 </div>
+

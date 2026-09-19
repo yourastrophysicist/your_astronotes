@@ -2,7 +2,6 @@
 layout: "default"
 title: "Structure function and correlation function"
 ---
-{% raw %}
 # Structure function and correlation function
 
 two related statistical descriptors of a fluctuating field. **correlation function** $B(r)$ measures how similar values are at separation $r$. **structure function** $D(r)$ measures how *different* they are. for atmospheric turbulence, $D(r)$ is more useful because Kolmogorov turbulence has well-defined power-law $D(r)$ even when $B(r)$ is undefined.
@@ -81,22 +80,22 @@ so temporal fluctuations have the same 5/3 power law in $\tau$, with characteris
 
 ## see also
 
-- [Atmospheric turbulence overview](./Atmospheric%20turbulence%20overview.html)
-- [Kolmogorov turbulence](./Kolmogorov%20turbulence.html)
-- [Fried parameter $r_0$](./Fried%20parameter%20%24r_0%24.html)
-- [Frozen turbulence and Taylor hypothesis](./Frozen%20turbulence%20and%20Taylor%20hypothesis.html)
+- [Atmospheric turbulence overview](Atmospheric%20turbulence%20overview.html)
+- [Kolmogorov turbulence](Kolmogorov%20turbulence.html)
+- [Fried parameter $r_0$](Fried%20parameter%20%24r_0%24.html)
+- [Frozen turbulence and Taylor hypothesis](Frozen%20turbulence%20and%20Taylor%20hypothesis.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (7)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../Atmospheric%20turbulence%20overview.html" class="backlink-item">Atmospheric turbulence overview</a></li>
-    <li class="backlink-item-wrap"><a href="./Atmospheric%20turbulence%20overview.html" class="backlink-item">Atmospheric turbulence overview</a></li>
     <li class="backlink-item-wrap"><a href="../Fried%20parameter%20%24r_0%24.html" class="backlink-item">Fried parameter $r_0$</a></li>
-    <li class="backlink-item-wrap"><a href="./Fried%20parameter%20%24r_0%24.html" class="backlink-item">Fried parameter $r_0$</a></li>
     <li class="backlink-item-wrap"><a href="../Kolmogorov%20turbulence.html" class="backlink-item">Kolmogorov turbulence</a></li>
-    <li class="backlink-item-wrap"><a href="./Kolmogorov%20turbulence.html" class="backlink-item">Kolmogorov turbulence</a></li>
+    <li class="backlink-item-wrap"><a href="Atmospheric%20turbulence%20overview.html" class="backlink-item">Atmospheric turbulence overview</a></li>
+    <li class="backlink-item-wrap"><a href="Fried%20parameter%20%24r_0%24.html" class="backlink-item">Fried parameter $r_0$</a></li>
+    <li class="backlink-item-wrap"><a href="Kolmogorov%20turbulence.html" class="backlink-item">Kolmogorov turbulence</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

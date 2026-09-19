@@ -2,7 +2,6 @@
 layout: "default"
 title: "Pros and cons of linear solvers"
 ---
-{% raw %}
 # Pros and cons of linear solvers
 
 decision tree for solving $A\mathbf{x} = \mathbf{b}$. the choice depends on the structure of $A$, the number of right-hand sides, and what I need from the answer.
@@ -111,22 +110,22 @@ U, s, Vt = np.linalg.svd(A)
 
 ## see also
 
-- [Gauss elimination](./Gauss%20elimination.html)
-- [LU decomposition](./LU%20decomposition.html)
-- [Gauss-Seidel iteration](./Gauss-Seidel%20iteration.html)
-- [QR decomposition](./QR%20decomposition.html)
+- [Gauss elimination](Gauss%20elimination.html)
+- [LU decomposition](LU%20decomposition.html)
+- [Gauss-Seidel iteration](Gauss-Seidel%20iteration.html)
+- [QR decomposition](QR%20decomposition.html)
 - [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (7)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Gauss%20elimination.html" class="backlink-item">Gauss elimination</a></li>
-    <li class="backlink-item-wrap"><a href="./Gauss-Seidel%20iteration.html" class="backlink-item">Gauss-Seidel iteration</a></li>
-    <li class="backlink-item-wrap"><a href="./LU%20decomposition.html" class="backlink-item">LU decomposition</a></li>
+    <li class="backlink-item-wrap"><a href="Gauss%20elimination.html" class="backlink-item">Gauss elimination</a></li>
+    <li class="backlink-item-wrap"><a href="Gauss-Seidel%20iteration.html" class="backlink-item">Gauss-Seidel iteration</a></li>
+    <li class="backlink-item-wrap"><a href="LU%20decomposition.html" class="backlink-item">LU decomposition</a></li>
+    <li class="backlink-item-wrap"><a href="Matrix%20inverse%20via%20linear%20systems.html" class="backlink-item">Matrix inverse via linear systems</a></li>
+    <li class="backlink-item-wrap"><a href="Overrelaxation.html" class="backlink-item">Overrelaxation</a></li>
+    <li class="backlink-item-wrap"><a href="Partial%20pivoting.html" class="backlink-item">Partial pivoting</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Matrix%20inverse%20via%20linear%20systems.html" class="backlink-item">Matrix inverse via linear systems</a></li>
-    <li class="backlink-item-wrap"><a href="./Overrelaxation.html" class="backlink-item">Overrelaxation</a></li>
-    <li class="backlink-item-wrap"><a href="./Partial%20pivoting.html" class="backlink-item">Partial pivoting</a></li>
   </ul>
 </div>
+

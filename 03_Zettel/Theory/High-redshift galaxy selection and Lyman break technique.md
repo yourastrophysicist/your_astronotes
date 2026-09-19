@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "High-redshift galaxy selection and Lyman break technique"
-name: "High-redshift galaxy selection and Lyman break technique"
-description: "color-color dropout selection, photoelectric absorption at 912 Angstroms, and Lyman break galaxy populations"
 ---
-{% raw %}
 identifying galaxies in the early universe ($z > 3$) requires photometric techniques that target strong spectral features before committing costly spectroscopic follow-up.
 
 ## physical mechanism of the lyman break
@@ -34,15 +31,15 @@ by observing through three contiguous filters (e.g. $U_n, G, \mathcal{R}$):
 
 - [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
 - [Pablo_05_Galaxies_at_cosmological_distances](../../02_Literature/Lectures/Observational_Cosmology/Pablo_05_Galaxies_at_cosmological_distances.html)
-- [Cosmic dawn and high-redshift galaxies with JWST](./Cosmic%20dawn%20and%20high-redshift%20galaxies%20with%20JWST.html)
+- [Cosmic dawn and high-redshift galaxies with JWST](Cosmic%20dawn%20and%20high-redshift%20galaxies%20with%20JWST.html)
 - Galaxy spectral energy distribution fitting
-- [Cosmic star formation history](./Cosmic%20star%20formation%20history.html)
-{% endraw %}
+- [Cosmic star formation history](Cosmic%20star%20formation%20history.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Cosmic%20dawn%20and%20high-redshift%20galaxies%20with%20JWST.html" class="backlink-item">Cosmic dawn and high-redshift galaxies with JWST</a></li>
+    <li class="backlink-item-wrap"><a href="Cosmic%20dawn%20and%20high-redshift%20galaxies%20with%20JWST.html" class="backlink-item">Cosmic dawn and high-redshift galaxies with JWST</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
   </ul>
 </div>
+

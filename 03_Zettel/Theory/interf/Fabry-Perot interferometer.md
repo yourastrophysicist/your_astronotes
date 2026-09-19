@@ -2,7 +2,6 @@
 layout: "default"
 title: "Fabry-Perot interferometer"
 ---
-{% raw %}
 # Fabry-Perot interferometer
 
 a multi-beam interferometer: light bounces *many times* between two parallel partially-reflective mirrors. an *infinite series* of beams with progressively smaller amplitudes interfere at the output. the result is a transmission function with extremely *sharp* peaks at wavelengths satisfying constructive interference on every pass.
@@ -104,10 +103,9 @@ both are amplitude-division; the difference is whether the cavity is "open" (two
 ## see also
 
 - [Amplitude-division interferometers](../Amplitude-division%20interferometers.html)
-- [Michelson laboratory interferometer](./Michelson%20laboratory%20interferometer.html)
-- [Beam splitter physics](./Beam%20splitter%20physics.html)
+- [Michelson laboratory interferometer](Michelson%20laboratory%20interferometer.html)
+- [Beam splitter physics](Beam%20splitter%20physics.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (2)</h4>
@@ -116,3 +114,4 @@ both are amplitude-division; the difference is whether the cavity is "open" (two
     <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

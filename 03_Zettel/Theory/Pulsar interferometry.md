@@ -2,7 +2,6 @@
 layout: "default"
 title: "Pulsar interferometry"
 ---
-{% raw %}
 # Pulsar interferometry
 
 pulsars are *the* radio interferometric target par excellence: small ($\sim 10$ km neutron stars), bright ($T_b \sim 10^{30}$ K), and produce *precisely-timed* signals. interferometry of pulsars provides:
@@ -114,4 +113,3 @@ these will:
 - [Very Long Baseline Interferometry VLBI](interf/Very%20Long%20Baseline%20Interferometry%20VLBI.html)
 - [Pulsar timing arrays as interferometers](interf/Pulsar%20timing%20arrays%20as%20interferometers.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

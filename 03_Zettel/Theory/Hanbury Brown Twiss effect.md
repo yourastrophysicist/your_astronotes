@@ -2,7 +2,6 @@
 layout: "default"
 title: "Hanbury Brown Twiss effect"
 ---
-{% raw %}
 # Hanbury Brown-Twiss effect
 
 the discovery that started intensity interferometry. **photons from a thermal source are bunched in time and across space**. the bunching is detectable as a correlation in the intensity fluctuations of two separated detectors looking at the same source.
@@ -83,4 +82,3 @@ this picture connects HBT to modern quantum optics, where photon-counting statis
 - [Why intensity interferometry escapes atmospheric phase](interf/Why%20intensity%20interferometry%20escapes%20atmospheric%20phase.html)
 - [Photon noise and statistics](interf/Photon%20noise%20and%20statistics.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

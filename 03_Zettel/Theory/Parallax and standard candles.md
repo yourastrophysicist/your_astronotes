@@ -2,7 +2,6 @@
 layout: "default"
 title: "Parallax and standard candles"
 ---
-{% raw %}
 measuring astronomical distances is one of the most challenging and foundational tasks in astrophysics. because the cosmos cannot be probed with physical measuring rods, astronomers construct the **Cosmic Distance Ladder** (la scala delle distanze cosmiche): an interconnected chain of overlapping geometric, photometric, and cosmological methods where each rung calibrates the next.
 
 ![distancescale-01.png](../../assets/images/distancescale-01.png)
@@ -55,23 +54,23 @@ $$\boxed{\, \mu = m - M = 5 \log_{10} d - 5 \implies d(\text{pc}) = 10^{\frac{m 
 ## see also
 
 - [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Annual stellar parallax](./Annual%20stellar%20parallax.html)
-- [Cepheids and supernovae](./Cepheids%20and%20supernovae.html)
-- [Type Ia supernovae as standard candles](./Type%20Ia%20supernovae%20as%20standard%20candles.html)
-- [Hubble's law and cosmological redshift](./Hubble%27s%20law%20and%20cosmological%20redshift.html)
-- [Magnitudes and photometric systems](./Magnitudes%20and%20photometric%20systems.html)
-{% endraw %}
+- [Annual stellar parallax](Annual%20stellar%20parallax.html)
+- [Cepheids and supernovae](Cepheids%20and%20supernovae.html)
+- [Type Ia supernovae as standard candles](Type%20Ia%20supernovae%20as%20standard%20candles.html)
+- [Hubble's law and cosmological redshift](Hubble%27s%20law%20and%20cosmological%20redshift.html)
+- [Magnitudes and photometric systems](Magnitudes%20and%20photometric%20systems.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (8)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Annual%20stellar%20parallax.html" class="backlink-item">Annual stellar parallax</a></li>
-    <li class="backlink-item-wrap"><a href="./Cepheids%20and%20supernovae.html" class="backlink-item">Cepheids and supernovae</a></li>
+    <li class="backlink-item-wrap"><a href="Annual%20stellar%20parallax.html" class="backlink-item">Annual stellar parallax</a></li>
+    <li class="backlink-item-wrap"><a href="Cepheids%20and%20supernovae.html" class="backlink-item">Cepheids and supernovae</a></li>
+    <li class="backlink-item-wrap"><a href="Hubble%27s%20law%20and%20cosmological%20redshift.html" class="backlink-item">Hubble's law and cosmological redshift</a></li>
+    <li class="backlink-item-wrap"><a href="Interstellar%20absorption.html" class="backlink-item">Interstellar absorption</a></li>
+    <li class="backlink-item-wrap"><a href="Magnitudes%20and%20photometric%20systems.html" class="backlink-item">Magnitudes and photometric systems</a></li>
+    <li class="backlink-item-wrap"><a href="Radiation%20quantities%20and%20inverse%20square%20law.html" class="backlink-item">Radiation quantities and inverse square law</a></li>
+    <li class="backlink-item-wrap"><a href="Type%20Ia%20supernovae%20as%20standard%20candles.html" class="backlink-item">Type Ia supernovae as standard candles</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Hubble%27s%20law%20and%20cosmological%20redshift.html" class="backlink-item">Hubble's law and cosmological redshift</a></li>
-    <li class="backlink-item-wrap"><a href="./Interstellar%20absorption.html" class="backlink-item">Interstellar absorption</a></li>
-    <li class="backlink-item-wrap"><a href="./Magnitudes%20and%20photometric%20systems.html" class="backlink-item">Magnitudes and photometric systems</a></li>
-    <li class="backlink-item-wrap"><a href="./Radiation%20quantities%20and%20inverse%20square%20law.html" class="backlink-item">Radiation quantities and inverse square law</a></li>
-    <li class="backlink-item-wrap"><a href="./Type%20Ia%20supernovae%20as%20standard%20candles.html" class="backlink-item">Type Ia supernovae as standard candles</a></li>
   </ul>
 </div>
+

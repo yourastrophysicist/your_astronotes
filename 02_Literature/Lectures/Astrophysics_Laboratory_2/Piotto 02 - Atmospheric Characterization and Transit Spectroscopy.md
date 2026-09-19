@@ -2,8 +2,7 @@
 layout: "default"
 title: "Piotto 02 - Atmospheric Characterization and Transit Spectroscopy"
 ---
-{% raw %}
-# Piotto 02 ? Atmospheric Characterization and Transit Spectroscopy
+# Piotto 02 — Atmospheric Characterization and Transit Spectroscopy
 
 *Astrophysics Laboratory 2, Prof. Giampaolo Piotto (Lecture 07/10/2025)*  
 *Index: [Astrophysics_Laboratory_2_MOC](../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html)*
@@ -89,12 +88,11 @@ Atmospheric Biosignatures:
 - [Piotto 01 - Exoplanet Detection and Demographics](./Piotto%2001%20-%20Exoplanet%20Detection%20and%20Demographics.html)
 - [Stellar Limb Darkening Laws](../../../03_Zettel/Theory/Stellar%20Limb%20Darkening%20Laws.html)
 - [Transit Depth and Ingress-Egress Timescales](../../../03_Zettel/Theory/Transit%20Depth%20and%20Ingress-Egress%20Timescales.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
+  <h4 class="backlinks-title">Linked References (1)</h4>
   <ul class="backlinks-list">
     <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Piotto%2001%20-%20Exoplanet%20Detection%20and%20Demographics.html" class="backlink-item">Piotto 01 - Exoplanet Detection and Demographics</a></li>
   </ul>
 </div>
+

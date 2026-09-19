@@ -2,7 +2,6 @@
 layout: "default"
 title: "Chemical evolution of galaxies"
 ---
-{% raw %}
 # chemical evolution of galaxies
 
 up: [Pablo_03_Star_formation_in_galaxies](../../02_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html)
@@ -71,11 +70,11 @@ interpretation: feedback-driven outflow efficiency depends on $M_h$ → shallowe
 
 ## connections
 
-- stellar yields depend on: [Initial mass function](./Initial%20mass%20function.html)
-- enriches with: [Starburst galaxies](./Starburst%20galaxies.html), [LIRGs ULIRGs HyLIRGs](./LIRGs%20ULIRGs%20HyLIRGs.html)
-- measured via: Lick indices in [Stellar population synthesis](./Stellar%20population%20synthesis.html)
-- context for SED fitting: [SED fitting for SFH](./SED%20fitting%20for%20SFH.html)
-- cosmological driver: [Cosmic star formation history](./Cosmic%20star%20formation%20history.html)
+- stellar yields depend on: [Initial mass function](Initial%20mass%20function.html)
+- enriches with: [Starburst galaxies](Starburst%20galaxies.html), [LIRGs ULIRGs HyLIRGs](LIRGs%20ULIRGs%20HyLIRGs.html)
+- measured via: Lick indices in [Stellar population synthesis](Stellar%20population%20synthesis.html)
+- context for SED fitting: [SED fitting for SFH](SED%20fitting%20for%20SFH.html)
+- cosmological driver: [Cosmic star formation history](Cosmic%20star%20formation%20history.html)
 
 ## key references
 
@@ -84,15 +83,13 @@ interpretation: feedback-driven outflow efficiency depends on $M_h$ → shallowe
 - Thomas et al. 2005 (α/Fe in ellipticals)
 - Mannucci et al. 2010 (FMR)
 - Matteucci 2012 (textbook)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
+  <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Early-type%20galaxy%20stellar%20populations.html" class="backlink-item">Early-type galaxy stellar populations</a></li>
-    <li class="backlink-item-wrap"><a href="./Metallicity%20and%20chemical%20evolution.html" class="backlink-item">Metallicity and chemical evolution</a></li>
+    <li class="backlink-item-wrap"><a href="Metallicity%20and%20chemical%20evolution.html" class="backlink-item">Metallicity and chemical evolution</a></li>
+    <li class="backlink-item-wrap"><a href="Superbubbles%20galactic%20chimneys%20and%20fountains.html" class="backlink-item">Superbubbles galactic chimneys and fountains</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html" class="backlink-item">Pablo_03_Star_formation_in_galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="./Superbubbles%20galactic%20chimneys%20and%20fountains.html" class="backlink-item">Superbubbles galactic chimneys and fountains</a></li>
   </ul>
 </div>
+

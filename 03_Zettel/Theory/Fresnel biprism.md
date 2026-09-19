@@ -2,7 +2,6 @@
 layout: "default"
 title: "Fresnel biprism"
 ---
-{% raw %}
 # Fresnel biprism
 
 Fresnel's elegant single-element interferometer. a glass prism with a very small apex angle (close to 180°) refracts light from a single source into two slightly-deflected beams that *appear* to come from two distinct virtual sources. those virtual sources interfere at the screen, producing Young-like fringes.
@@ -62,4 +61,3 @@ same as Young's experiment:
 - [Lloyd mirror](interf/Lloyd%20mirror.html)
 - [Young experiment as a stellar interferometer](interf/Young%20experiment%20as%20a%20stellar%20interferometer.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

@@ -2,7 +2,6 @@
 layout: "default"
 title: "Bragg Reflection"
 ---
-{% raw %}
 At high photon energies (typically $E \gtrsim 10~\text{keV}$),
 	the critical angle for total external reflection becomes extremely small:
 		$\theta_c \propto \sqrt{\rho}/E \to < 0.1°$
@@ -53,7 +52,7 @@ where
 The correction factor $\sqrt{1 - 2\delta/\sin^2\theta}$ is significant at small $\theta$
 	it shifts the peak reflection to slightly different angles than the naive Bragg formula predicts
 
-![Pasted image 20260406205703.png](../../assets/images/Pasted image 20260406205703.png)
+![Pasted image 20260406205703.png](../../assets/images/Pasted%20image%2020260406205703.png)
 <font color="#bfbfbf">Bragg reflection geometry: parallel rays reflecting from successive layer interfaces interfere constructively when the path difference $\Delta = 2d_M\sin\theta$ equals an integer multiple of the wavelength.</font>
 
 ---
@@ -65,7 +64,7 @@ A typical hard X-ray mirror multilayer consists of **hundreds of bilayer pairs**
 	total stack thickness: $\sim 0.5$–$2~\mu$m
 
 The number of pairs $N_{pairs}$ and the layer thickness ratio (e.g. $\Gamma = d_{W}/d_M$) are free parameters
-	optimized using simulation to **maximize reflectivity** over a target energy band
+\toptimized using simulation to **maximize reflectivity** over a target energy band
 		a broader energy band requires a **depth-graded multilayer**: $d_M$ varies with depth through the stack
 <font color="#bfbfbf">Schematic of X-ray reflection by a multilayer mirror. Hundreds of alternating high-Z/low-Z layer pairs produce constructive interference, giving significant reflectivity at energies where single-layer grazing incidence would fail.</font>
 
@@ -103,12 +102,12 @@ The same physics — Bragg diffraction — is used in **X-ray crystal spectromet
 	different wavelengths are diffracted at different angles → natural spectrometer
 		used in solar X-ray spectrometers and some lab instruments
 			but not in modern large-area X-ray telescopes (replaced by gratings for spectroscopy)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./A%20Brief%20History%20of%20X-ray%20and%20Gamma-ray%20Missions.html" class="backlink-item">A Brief History of X-ray and Gamma-ray Missions</a></li>
+    <li class="backlink-item-wrap"><a href="A%20Brief%20History%20of%20X-ray%20and%20Gamma-ray%20Missions.html" class="backlink-item">A Brief History of X-ray and Gamma-ray Missions</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
   </ul>
 </div>
+

@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Liouville theorem and phase space incompressibility"
-name: "Liouville theorem and phase space incompressibility"
-description: "conservation of phase space volume and the incompressibility of the N-particle distribution function along Hamiltonian trajectories"
 ---
-{% raw %}
 the foundational starting point of kinetic theory describes an isolated ensemble of $N$ classical particles whose evolution is governed by Hamilton's canonical equations of motion.
 
 ## phase space flow and incompressibility
@@ -35,14 +32,14 @@ the convective derivative along a phase trajectory is strictly zero. the local d
 
 - [Fluid_and_Plasma_Dynamics_MOC](../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html)
 - [Part1_Kinetic_Foundations_and_Fluid_Equations](../../02_Literature/Lectures/Fluid_and_Plasma_Dynamics/Part1_Kinetic_Foundations_and_Fluid_Equations.html)
-- [BBGKY hierarchy and Boltzmann collision operator](./BBGKY%20hierarchy%20and%20Boltzmann%20collision%20operator.html)
-- [Boltzmann H-theorem and Maxwellian distribution](./Boltzmann%20H-theorem%20and%20Maxwellian%20distribution.html)
-{% endraw %}
+- [BBGKY hierarchy and Boltzmann collision operator](BBGKY%20hierarchy%20and%20Boltzmann%20collision%20operator.html)
+- [Boltzmann H-theorem and Maxwellian distribution](Boltzmann%20H-theorem%20and%20Maxwellian%20distribution.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./BBGKY%20hierarchy%20and%20Boltzmann%20collision%20operator.html" class="backlink-item">BBGKY hierarchy and Boltzmann collision operator</a></li>
+    <li class="backlink-item-wrap"><a href="BBGKY%20hierarchy%20and%20Boltzmann%20collision%20operator.html" class="backlink-item">BBGKY hierarchy and Boltzmann collision operator</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
   </ul>
 </div>
+

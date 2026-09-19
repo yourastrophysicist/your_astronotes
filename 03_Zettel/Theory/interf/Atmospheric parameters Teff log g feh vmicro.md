@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Atmospheric parameters Teff log g feh vmicro"
-name: "Atmospheric parameters Teff log g feh vmicro"
-description: "the four basic numbers that describe a stellar photosphere and define a model atmosphere"
 ---
-{% raw %}
 # atmospheric parameters: Teff, log g, [Fe/H], vmicro
 
 a stellar atmosphere is, to first approximation, a 1D plane-parallel radiative-convective slab characterised by **four numbers**: the effective temperature $T_{\rm eff}$, the surface gravity $\log g$, the metallicity (typically [Fe/H]), and the microturbulent velocity $\xi_t$. these are the "atmospheric parameters". together they define a model atmosphere and any synthetic spectrum computed from it. determining them from observations is the first step in any spectroscopic analysis.
@@ -55,7 +52,6 @@ uncertainties are larger for hot stars (where line forests are sparser), giants,
 - [Stellar spectral types OBAFGKM](../Stellar%20spectral%20types%20OBAFGKM.html)
 - [Local thermodynamic equilibrium LTE](../Local%20thermodynamic%20equilibrium%20LTE.html)
 - [Stellar_Astrophysics_MOC](../../../04_Atlas/Stellar_Astrophysics_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (9)</h4>
@@ -71,3 +67,4 @@ uncertainties are larger for hot stars (where line forests are sparser), giants,
     <li class="backlink-item-wrap"><a href="../../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

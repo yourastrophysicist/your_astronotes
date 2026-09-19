@@ -2,7 +2,6 @@
 layout: "default"
 title: "Lensing as a cosmological probe"
 ---
-{% raw %}
 gravitational lensing is a key cosmological probe of **dark matter**, **dark energy**, and **$H_0$**. independent of (and complementary to) CMB and galaxy clustering. depending on regime + observable, it constrains different physics.
 
 ## what lensing measures
@@ -62,13 +61,13 @@ major surveys: DES, KiDS, HSC. soon: Euclid, LSST, Roman.
 ## see also
 
 - Gravitational lensing — intro
-- [Strong vs weak lensing](./Strong%20vs%20weak%20lensing.html)
-- [Light deflection](./Light%20deflection.html)
-- [Cosmic_inventory_dark_matter](./Cosmic_inventory_dark_matter.html)
-- [Cosmic_inventory_dark_energy](./Cosmic_inventory_dark_energy.html)
-- [ΛCDM current parameters](./%CE%9BCDM%20current%20parameters.html)
-- [CMB power spectrum](./CMB%20power%20spectrum.html)
-- [Hubble law](./Hubble%20law.html)
+- [Strong vs weak lensing](Strong%20vs%20weak%20lensing.html)
+- [Light deflection](Light%20deflection.html)
+- [Cosmic_inventory_dark_matter](Cosmic_inventory_dark_matter.html)
+- [Cosmic_inventory_dark_energy](Cosmic_inventory_dark_energy.html)
+- [ΛCDM current parameters](%CE%9BCDM%20current%20parameters.html)
+- [CMB power spectrum](CMB%20power%20spectrum.html)
+- [Hubble law](Hubble%20law.html)
 - [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
 
 ---
@@ -90,19 +89,15 @@ major surveys: DES, KiDS, HSC. soon: Euclid, LSST, Roman.
 ![gal_dm-57.png](../../assets/images/gal_dm-57.png)
 
 ![gal_dm-58.png](../../assets/images/gal_dm-58.png)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (9)</h4>
+  <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Gravitational%20lensing%20-%20intro.html" class="backlink-item">Gravitational lensing - intro</a></li>
+    <li class="backlink-item-wrap"><a href="Light%20deflection.html" class="backlink-item">Light deflection</a></li>
+    <li class="backlink-item-wrap"><a href="Strong%20vs%20weak%20lensing.html" class="backlink-item">Strong vs weak lensing</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Bullet%20Cluster%20and%20dark%20matter%20mapping.html" class="backlink-item">Bullet Cluster and dark matter mapping</a></li>
-    <li class="backlink-item-wrap"><a href="./Dark%20matter%20in%20elliptical%20galaxies.html" class="backlink-item">Dark matter in elliptical galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="./Dark%20matter%20rotation%20curves.html" class="backlink-item">Dark matter rotation curves</a></li>
-    <li class="backlink-item-wrap"><a href="./Gravitational%20lensing%20-%20intro.html" class="backlink-item">Gravitational lensing - intro</a></li>
-    <li class="backlink-item-wrap"><a href="./Light%20deflection.html" class="backlink-item">Light deflection</a></li>
-    <li class="backlink-item-wrap"><a href="./MOND.html" class="backlink-item">MOND</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Strong%20vs%20weak%20lensing.html" class="backlink-item">Strong vs weak lensing</a></li>
   </ul>
 </div>
+

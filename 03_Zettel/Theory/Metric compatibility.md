@@ -2,7 +2,6 @@
 layout: "default"
 title: "Metric compatibility"
 ---
-{% raw %}
 the **metric compatibility** of the Levi-Civita connection means $\nabla_\rho g_{\mu\nu} = 0$. one of the two conditions defining LC. encodes the physical statement that **lengths and angles are preserved under parallel transport**.
 
 ## the equation
@@ -55,25 +54,24 @@ several powerful tools:
 
 ## see also
 
-- [Levi-Civita connection](./Levi-Civita%20connection.html)
-- [Christoffel symbols](./Christoffel%20symbols.html)
-- [Covariant derivative](./Covariant%20derivative.html)
-- [Parallel transport](./Parallel%20transport.html)
-- [Geodesic equation](./Geodesic%20equation.html)
+- [Levi-Civita connection](Levi-Civita%20connection.html)
+- [Christoffel symbols](Christoffel%20symbols.html)
+- [Covariant derivative](Covariant%20derivative.html)
+- [Parallel transport](Parallel%20transport.html)
+- [Geodesic equation](Geodesic%20equation.html)
 - Q4 - metric compatibility on the 2-sphere
 - [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
 - [Ch 2 - Some Differential Geometry](../../02_Literature/Book/Baumann%20GR/Ch%202%20-%20Some%20Differential%20Geometry.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
+  <h4 class="backlinks-title">Linked References (6)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Book/Baumann%20GR/Ch%204%20-%20Spacetime%20Curvature.html" class="backlink-item">Ch 4 - Spacetime Curvature</a></li>
-    <li class="backlink-item-wrap"><a href="./Christoffel%20symbols.html" class="backlink-item">Christoffel symbols</a></li>
-    <li class="backlink-item-wrap"><a href="./Covariant%20derivative.html" class="backlink-item">Covariant derivative</a></li>
+    <li class="backlink-item-wrap"><a href="Christoffel%20symbols.html" class="backlink-item">Christoffel symbols</a></li>
+    <li class="backlink-item-wrap"><a href="Covariant%20derivative.html" class="backlink-item">Covariant derivative</a></li>
+    <li class="backlink-item-wrap"><a href="Levi-Civita%20connection.html" class="backlink-item">Levi-Civita connection</a></li>
+    <li class="backlink-item-wrap"><a href="Parallel%20transport.html" class="backlink-item">Parallel transport</a></li>
+    <li class="backlink-item-wrap"><a href="Timelike%20vs%20null%20vs%20spacelike.html" class="backlink-item">Timelike vs null vs spacelike</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Levi-Civita%20connection.html" class="backlink-item">Levi-Civita connection</a></li>
-    <li class="backlink-item-wrap"><a href="./Parallel%20transport.html" class="backlink-item">Parallel transport</a></li>
-    <li class="backlink-item-wrap"><a href="./Timelike%20vs%20null%20vs%20spacelike.html" class="backlink-item">Timelike vs null vs spacelike</a></li>
   </ul>
 </div>
+

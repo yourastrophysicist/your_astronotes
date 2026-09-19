@@ -2,7 +2,6 @@
 layout: "default"
 title: "Why intensity interferometry escapes atmospheric phase"
 ---
-{% raw %}
 # Why intensity interferometry escapes atmospheric phase
 
 the fundamental advantage of HBT-style intensity interferometry over amplitude interferometry. the atmospheric phase corruption that plagues optical interferometry is **completely irrelevant** for intensity measurements. understanding why is the key insight.
@@ -103,24 +102,24 @@ niche secured: bright nearby stars, surface features, hot spots, cool spots.
 
 ## see also
 
-- [Intensity interferometry concept](./Intensity%20interferometry%20concept.html)
-- [Hanbury Brown Twiss effect](./Hanbury%20Brown%20Twiss%20effect.html)
-- [Narrabri stellar interferometer](./Narrabri%20stellar%20interferometer.html)
-- [Sensitivity and modern revival](./Sensitivity%20and%20modern%20revival.html)
+- [Intensity interferometry concept](Intensity%20interferometry%20concept.html)
+- [Hanbury Brown Twiss effect](Hanbury%20Brown%20Twiss%20effect.html)
+- [Narrabri stellar interferometer](Narrabri%20stellar%20interferometer.html)
+- [Sensitivity and modern revival](Sensitivity%20and%20modern%20revival.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (9)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Hanbury%20Brown%20Twiss%20effect.html" class="backlink-item">Hanbury Brown Twiss effect</a></li>
     <li class="backlink-item-wrap"><a href="../Hanbury%20Brown%20Twiss%20effect.html" class="backlink-item">Hanbury Brown Twiss effect</a></li>
-    <li class="backlink-item-wrap"><a href="./Intensity%20interferometry%20concept.html" class="backlink-item">Intensity interferometry concept</a></li>
     <li class="backlink-item-wrap"><a href="../Intensity%20interferometry%20concept.html" class="backlink-item">Intensity interferometry concept</a></li>
-    <li class="backlink-item-wrap"><a href="./Narrabri%20stellar%20interferometer.html" class="backlink-item">Narrabri stellar interferometer</a></li>
     <li class="backlink-item-wrap"><a href="../Narrabri%20stellar%20interferometer.html" class="backlink-item">Narrabri stellar interferometer</a></li>
     <li class="backlink-item-wrap"><a href="../Sensitivity%20and%20modern%20revival.html" class="backlink-item">Sensitivity and modern revival</a></li>
-    <li class="backlink-item-wrap"><a href="./Sensitivity%20and%20modern%20revival.html" class="backlink-item">Sensitivity and modern revival</a></li>
+    <li class="backlink-item-wrap"><a href="Hanbury%20Brown%20Twiss%20effect.html" class="backlink-item">Hanbury Brown Twiss effect</a></li>
+    <li class="backlink-item-wrap"><a href="Intensity%20interferometry%20concept.html" class="backlink-item">Intensity interferometry concept</a></li>
+    <li class="backlink-item-wrap"><a href="Narrabri%20stellar%20interferometer.html" class="backlink-item">Narrabri stellar interferometer</a></li>
+    <li class="backlink-item-wrap"><a href="Sensitivity%20and%20modern%20revival.html" class="backlink-item">Sensitivity and modern revival</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

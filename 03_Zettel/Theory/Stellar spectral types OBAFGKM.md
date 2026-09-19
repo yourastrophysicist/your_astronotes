@@ -1,19 +1,16 @@
 ---
 layout: "default"
 title: "Stellar spectral types OBAFGKM"
-name: "Stellar spectral types OBAFGKM"
-description: "the Harvard spectral classification, dominant features in each class, and what they tell us about Teff"
 ---
-{% raw %}
 # stellar spectral types obafgkm
 
-the OBAFGKM sequence is a one-parameter classification of stellar spectra that turned out to be ordered almost entirely by **effective temperature** (see [Spectroscopic determination of Teff](./Spectroscopic%20determination%20of%20Teff.html)). it is the cornerstone of empirical stellar astrophysics. the order is hot to cool: O is hottest ($T_{\rm eff} > 30{,}000$ K), M is coolest ($T_{\rm eff} \lesssim 3500$ K). the standard mnemonic, "Oh Be A Fine Girl/Guy Kiss Me," helps fix the order.
+the OBAFGKM sequence is a one-parameter classification of stellar spectra that turned out to be ordered almost entirely by **effective temperature** (see [Spectroscopic determination of Teff](Spectroscopic%20determination%20of%20Teff.html)). it is the cornerstone of empirical stellar astrophysics. the order is hot to cool: O is hottest ($T_{\rm eff} > 30{,}000$ K), M is coolest ($T_{\rm eff} \lesssim 3500$ K). the standard mnemonic, "Oh Be A Fine Girl/Guy Kiss Me," helps fix the order.
 
 each class is subdivided 0-9 (e.g. G2, the sun). additional letters L, T, Y extend the sequence to brown dwarfs.
 
 ## what changes with $T_{\rm eff}$
 
-the spectrum is dominated by which atoms and ions are populated and how. the [Saha ionisation equation](./Saha%20ionisation%20equation.html) and [Saha equation and recombination](./Saha%20equation%20and%20recombination.html) govern the ionisation balance, and the Boltzmann distribution governs which excitation levels of a given species are populated. as $T_{\rm eff}$ drops, light elements progressively recombine and electrons settle into lower levels.
+the spectrum is dominated by which atoms and ions are populated and how. the [Saha ionisation equation](Saha%20ionisation%20equation.html) and [Saha equation and recombination](Saha%20equation%20and%20recombination.html) govern the ionisation balance, and the Boltzmann distribution governs which excitation levels of a given species are populated. as $T_{\rm eff}$ drops, light elements progressively recombine and electrons settle into lower levels.
 
 | class | $T_{\rm eff}$ (K) | dominant lines | colour | typical examples |
 |-|-|-|-|-|
@@ -35,7 +32,7 @@ H Balmer lines do not simply track temperature. they peak around A0 because:
 - in hotter stars (B, O), most H is fully ionised, so there are no neutral atoms to absorb at all.
 - the maximum H I population in n=2 occurs at intermediate temperatures, around 9500 K.
 
-this is a textbook Saha-Boltzmann result and historically the breakthrough that allowed Cecilia Payne to interpret the OBAFGKM sequence as a temperature sequence rather than a composition sequence (see [History of stellar classification](./History%20of%20stellar%20classification.html)).
+this is a textbook Saha-Boltzmann result and historically the breakthrough that allowed Cecilia Payne to interpret the OBAFGKM sequence as a temperature sequence rather than a composition sequence (see [History of stellar classification](History%20of%20stellar%20classification.html)).
 
 ## luminosity classes
 
@@ -49,15 +46,15 @@ a second dimension, **luminosity class**, was added by Morgan & Keenan in 1943 (
 - VI subdwarfs
 - VII white dwarfs
 
-luminosity class is essentially set by [Spectroscopic determination of log g](./Spectroscopic%20determination%20of%20log%20g.html): lower log g (giants, supergiants) gives narrower lines because pressure broadening (collisional Stark) is weaker. so the sun is "G2 V" and Betelgeuse is "M2 Iab".
+luminosity class is essentially set by [Spectroscopic determination of log g](Spectroscopic%20determination%20of%20log%20g.html): lower log g (giants, supergiants) gives narrower lines because pressure broadening (collisional Stark) is weaker. so the sun is "G2 V" and Betelgeuse is "M2 Iab".
 
 ## see also
-- [Spectroscopic determination of Teff](./Spectroscopic%20determination%20of%20Teff.html)
-- [Spectroscopic determination of log g](./Spectroscopic%20determination%20of%20log%20g.html)
-- [Saha ionisation equation](./Saha%20ionisation%20equation.html)
-- [Saha equation and recombination](./Saha%20equation%20and%20recombination.html)
-- [History of stellar classification](./History%20of%20stellar%20classification.html)
-- [HR diagram](./HR%20diagram.html)
+- [Spectroscopic determination of Teff](Spectroscopic%20determination%20of%20Teff.html)
+- [Spectroscopic determination of log g](Spectroscopic%20determination%20of%20log%20g.html)
+- [Saha ionisation equation](Saha%20ionisation%20equation.html)
+- [Saha equation and recombination](Saha%20equation%20and%20recombination.html)
+- [History of stellar classification](History%20of%20stellar%20classification.html)
+- [HR diagram](HR%20diagram.html)
 - [Atmospheric parameters Teff log g feh vmicro](interf/Atmospheric%20parameters%20Teff%20log%20g%20feh%20vmicro.html)
 - [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
 
@@ -115,14 +112,14 @@ luminosity class is essentially set by [Spectroscopic determination of log g](./
 
 ![HeI_NaI_stelle.png](../../assets/images/HeI_NaI_stelle.png)
 *Spectral comparison across the Na I D region in hot vs cool stars.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
+    <li class="backlink-item-wrap"><a href="Atmospheric%20parameters%20Teff%20log%20g%20feh%20vmicro.html" class="backlink-item">Atmospheric parameters Teff log g feh vmicro</a></li>
     <li class="backlink-item-wrap"><a href="interf/Atmospheric%20parameters%20Teff%20log%20g%20feh%20vmicro.html" class="backlink-item">Atmospheric parameters Teff log g feh vmicro</a></li>
-    <li class="backlink-item-wrap"><a href="./Atmospheric%20parameters%20Teff%20log%20g%20feh%20vmicro.html" class="backlink-item">Atmospheric parameters Teff log g feh vmicro</a></li>
+    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

@@ -2,7 +2,6 @@
 layout: "default"
 title: "Compton and Inverse Compton"
 ---
-{% raw %}
 ## Thomson scattering (classical limit)
 
 In classical physics, when $h\nu \ll mc^2$ (photon energy much less than electron rest mass),
@@ -11,7 +10,7 @@ In classical physics, when $h\nu \ll mc^2$ (photon energy much less than electro
 
 ---
 ## Compton scattering
-![Screenshot 2026-04-07 at 02.20.13.png](../../assets/images/Screenshot 2026-04-07 at 02.20.13.png)
+![Screenshot 2026-04-07 at 02.20.13.png](../../assets/images/Screenshot%202026-04-07%20at%2002.20.13.png)
 When $h\nu \gtrsim mc^2$, the interaction is no longer elastic
 	there is an **exchange of energy** between photon and electron
 		described by the **Klein-Nishina differential cross section**:
@@ -143,14 +142,14 @@ For $\gamma \sim 1000$:
 	a radio photon ($\nu_0 = 10^9~\text{Hz}$) $\rightarrow$ ultraviolet photon ($\nu_0 = 10^{15}~\text{Hz}$)
 	a far-infrared photon ($\nu_0 = 3 \cdot 10^{12}~\text{Hz}$) $\rightarrow$ X-ray photon ($12.4~\text{keV}$)
 	a visible photon ($\nu_0 = 4.8 \cdot 10^{14}~\text{Hz}$) $\rightarrow$ $\gamma$-ray photon ($2~\text{MeV}$)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Cooling%20curve.html" class="backlink-item">Cooling curve</a></li>
+    <li class="backlink-item-wrap"><a href="Cooling%20curve.html" class="backlink-item">Cooling curve</a></li>
+    <li class="backlink-item-wrap"><a href="Radiative%20Processes.html" class="backlink-item">Radiative Processes</a></li>
+    <li class="backlink-item-wrap"><a href="Synchrotron%20continuum.html" class="backlink-item">Synchrotron continuum</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Radiative%20Processes.html" class="backlink-item">Radiative Processes</a></li>
-    <li class="backlink-item-wrap"><a href="./Synchrotron%20continuum.html" class="backlink-item">Synchrotron continuum</a></li>
   </ul>
 </div>
+

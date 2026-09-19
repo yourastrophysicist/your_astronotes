@@ -2,7 +2,6 @@
 layout: "default"
 title: "Galactic Center"
 ---
-{% raw %}
 at the exact dynamical center of the Milky Way, at a distance of $R_0 \approx 8.2$ kpc ($26,000$ light-years) in the constellation Sagittarius, sits **Sagittarius A*** (Sgr A*): a supermassive black hole of $4.15 \times 10^6 M_\odot$.
 
 ![milkyway-38.png](../../assets/images/milkyway-38.png)
@@ -69,20 +68,20 @@ for this landmark experimental proof, **Reinhard Genzel and Andrea Ghez were awa
 ## see also
 
 - [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Milky Way structure](./Milky%20Way%20structure.html)
-- [Supernovae and compact remnants](./Supernovae%20and%20compact%20remnants.html)
+- [Milky Way structure](Milky%20Way%20structure.html)
+- [Supernovae and compact remnants](Supernovae%20and%20compact%20remnants.html)
 - [AGN and supermassive black holes](interf/AGN%20and%20supermassive%20black%20holes.html)
-- [Interstellar absorption](./Interstellar%20absorption.html)
-{% endraw %}
+- [Interstellar absorption](Interstellar%20absorption.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (6)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./AGN%20spectroscopy.html" class="backlink-item">AGN spectroscopy</a></li>
+    <li class="backlink-item-wrap"><a href="AGN%20spectroscopy.html" class="backlink-item">AGN spectroscopy</a></li>
+    <li class="backlink-item-wrap"><a href="Galactic%20coordinate%20system.html" class="backlink-item">Galactic coordinate system</a></li>
+    <li class="backlink-item-wrap"><a href="Milky%20Way%20structure.html" class="backlink-item">Milky Way structure</a></li>
+    <li class="backlink-item-wrap"><a href="Supernovae%20and%20compact%20remnants.html" class="backlink-item">Supernovae and compact remnants</a></li>
+    <li class="backlink-item-wrap"><a href="Velocity%20dispersion%20from%20line%20width.html" class="backlink-item">Velocity dispersion from line width</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Galactic%20coordinate%20system.html" class="backlink-item">Galactic coordinate system</a></li>
-    <li class="backlink-item-wrap"><a href="./Milky%20Way%20structure.html" class="backlink-item">Milky Way structure</a></li>
-    <li class="backlink-item-wrap"><a href="./Supernovae%20and%20compact%20remnants.html" class="backlink-item">Supernovae and compact remnants</a></li>
-    <li class="backlink-item-wrap"><a href="./Velocity%20dispersion%20from%20line%20width.html" class="backlink-item">Velocity dispersion from line width</a></li>
   </ul>
 </div>
+

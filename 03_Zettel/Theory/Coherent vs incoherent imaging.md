@@ -2,7 +2,6 @@
 layout: "default"
 title: "Coherent vs incoherent imaging"
 ---
-{% raw %}
 # Coherent vs incoherent imaging
 
 a fundamental distinction. **coherent** imaging adds wave amplitudes; **incoherent** imaging adds intensities. interferometers operate in coherent mode (between sub-apertures, of light from the same astronomical source). regular telescopes mostly operate incoherently (between independent sources within the field).
@@ -88,4 +87,3 @@ interferometers care about this because *delay lines* must equalize the path len
 - [Fringe visibility and contrast](interf/Fringe%20visibility%20and%20contrast.html)
 - [Coherence function and visibility](interf/Coherence%20function%20and%20visibility.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

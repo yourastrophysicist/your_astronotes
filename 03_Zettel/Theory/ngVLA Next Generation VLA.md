@@ -2,7 +2,6 @@
 layout: "default"
 title: "ngVLA Next Generation VLA"
 ---
-{% raw %}
 # ngVLA (Next Generation VLA)
 
 NRAO's mid-frequency successor to the JVLA. ~263 antennas across the US Southwest, with VLBI links extending baselines to 9000 km. complementary to SKA at higher frequencies. planned for 2030s.
@@ -116,4 +115,3 @@ a transformative era for radio astronomy.
 - [The Square Kilometre Array SKA](interf/The%20Square%20Kilometre%20Array%20SKA.html)
 - [Very Long Baseline Interferometry VLBI](interf/Very%20Long%20Baseline%20Interferometry%20VLBI.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

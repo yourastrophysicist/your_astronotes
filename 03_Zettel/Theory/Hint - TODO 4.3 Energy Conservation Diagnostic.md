@@ -2,11 +2,10 @@
 layout: "default"
 title: "Hint - TODO 4.3 Energy Conservation Diagnostic"
 ---
-{% raw %}
 # Hint - TODO 4.3 Energy Conservation Diagnostic
 
 **Target TODO**: TODO 4.3 in Module_1_Random_Sampling_and_Monte_Carlo  
-**Related Zettels**: [Energy conservation as a diagnostic](./Energy%20conservation%20as%20a%20diagnostic.html)
+**Related Zettels**: [Energy conservation as a diagnostic](Energy%20conservation%20as%20a%20diagnostic.html)
 
 ---
 
@@ -20,4 +19,3 @@ The relative energy variation between steps is defined as:
 $$\frac{\Delta E}{E(t)} = \frac{E(t+h) - E(t)}{E(t)}$$
 
 For a non-symplectic integrator like RK2 Midpoint, $\frac{\Delta E}{E}$ oscillates with time and exhibits a slow secular energy drift.
-{% endraw %}

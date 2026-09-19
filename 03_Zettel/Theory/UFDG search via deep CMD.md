@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "UFDG search via deep CMD"
-name: "UFDG search via deep CMD"
-description: "matched-filter overdensity searches in colour-selected metal-poor stars on resolved photometric surveys to find new ultra-faint dwarfs"
 ---
-{% raw %}
 ultra-faint dwarfs are too sparse to find by eye on imaging data. they are diffuse stellar overdensities of just a few hundred to a few thousand stars spread over $\sim 10$-$30$ arcmin on the sky. detection requires statistical methods on **wide-field, deep, multi-band resolved photometry**. the canonical technique is the **matched filter**.
 
 **matched filter principle** (rockosi et al. 2002, walsh, willman & jerjen 2009, koposov et al. 2008):
@@ -41,16 +38,16 @@ ultra-faint dwarfs are too sparse to find by eye on imaging data. they are diffu
 
 the matched filter is also used in finding tidal streams (helmi streams, sgr stream) and intermediate-age dwarfs. it is one of the workhorse tools of resolved-population galactic archaeology.
 
-see also [Ultra-faint dwarf galaxies definition](./Ultra-faint%20dwarf%20galaxies%20definition.html), [UFDG dark matter content](./UFDG%20dark%20matter%20content.html), [UFDG star formation histories](./UFDG%20star%20formation%20histories.html), [Color-magnitude diagrams of clusters](./Color-magnitude%20diagrams%20of%20clusters.html), [Halo accretion from dwarf galaxies](./Halo%20accretion%20from%20dwarf%20galaxies.html), [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
-{% endraw %}
+see also [Ultra-faint dwarf galaxies definition](Ultra-faint%20dwarf%20galaxies%20definition.html), [UFDG dark matter content](UFDG%20dark%20matter%20content.html), [UFDG star formation histories](UFDG%20star%20formation%20histories.html), [Color-magnitude diagrams of clusters](Color-magnitude%20diagrams%20of%20clusters.html), [Halo accretion from dwarf galaxies](Halo%20accretion%20from%20dwarf%20galaxies.html), [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Search%20for%20Pop%20III%20stars%20in%20dwarf%20galaxies.html" class="backlink-item">Search for Pop III stars in dwarf galaxies</a></li>
+    <li class="backlink-item-wrap"><a href="Search%20for%20Pop%20III%20stars%20in%20dwarf%20galaxies.html" class="backlink-item">Search for Pop III stars in dwarf galaxies</a></li>
+    <li class="backlink-item-wrap"><a href="UFDG%20dark%20matter%20content.html" class="backlink-item">UFDG dark matter content</a></li>
+    <li class="backlink-item-wrap"><a href="UFDG%20star%20formation%20histories.html" class="backlink-item">UFDG star formation histories</a></li>
+    <li class="backlink-item-wrap"><a href="Ultra-faint%20dwarf%20galaxies%20definition.html" class="backlink-item">Ultra-faint dwarf galaxies definition</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./UFDG%20dark%20matter%20content.html" class="backlink-item">UFDG dark matter content</a></li>
-    <li class="backlink-item-wrap"><a href="./UFDG%20star%20formation%20histories.html" class="backlink-item">UFDG star formation histories</a></li>
-    <li class="backlink-item-wrap"><a href="./Ultra-faint%20dwarf%20galaxies%20definition.html" class="backlink-item">Ultra-faint dwarf galaxies definition</a></li>
   </ul>
 </div>
+

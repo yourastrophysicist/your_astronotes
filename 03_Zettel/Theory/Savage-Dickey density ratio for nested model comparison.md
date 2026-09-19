@@ -2,7 +2,6 @@
 layout: "default"
 title: "Savage-Dickey density ratio for nested model comparison"
 ---
-{% raw %}
 # Savage-Dickey density ratio for nested model comparison
 
 The Savage-Dickey Density Ratio (SDDR; Dickey 1971) is an exact mathematical shortcut that evaluates the Bayes factor between two nested models using only the parameter samples generated from a single MCMC run of the more complex model, completely bypassing high-dimensional evidence integration.
@@ -50,15 +49,15 @@ $$B_{01} = \frac{\text{Posterior density at the null value}}{\text{Prior density
 ## See Also
 - [Astro-Statistics_and_Cosmology_MOC](../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html)
 - [11_Model_Selection_Bayesian_Evidence_and_Savage_Dickey_Ratio](../../02_Literature/Lectures/Astrostatistics/11_Model_Selection_Bayesian_Evidence_and_Savage_Dickey_Ratio.html)
-- [Bayesian evidence and model selection](./Bayesian%20evidence%20and%20model%20selection.html)
-- [Lindley paradox in statistical hypothesis testing](./Lindley%20paradox%20in%20statistical%20hypothesis%20testing.html)
-{% endraw %}
+- [Bayesian evidence and model selection](Bayesian%20evidence%20and%20model%20selection.html)
+- [Lindley paradox in statistical hypothesis testing](Lindley%20paradox%20in%20statistical%20hypothesis%20testing.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Bayesian%20evidence%20and%20model%20selection.html" class="backlink-item">Bayesian evidence and model selection</a></li>
+    <li class="backlink-item-wrap"><a href="Lindley%20paradox%20in%20statistical%20hypothesis%20testing.html" class="backlink-item">Lindley paradox in statistical hypothesis testing</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Bayesian%20evidence%20and%20model%20selection.html" class="backlink-item">Bayesian evidence and model selection</a></li>
-    <li class="backlink-item-wrap"><a href="./Lindley%20paradox%20in%20statistical%20hypothesis%20testing.html" class="backlink-item">Lindley paradox in statistical hypothesis testing</a></li>
   </ul>
 </div>
+

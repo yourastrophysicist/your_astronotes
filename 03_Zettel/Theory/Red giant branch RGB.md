@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Red giant branch RGB"
-name: "Red giant branch RGB"
-description: "shell H burning above a degenerate He core, climbing the Hayashi limit to L ~ 2300 L_sun, with first dredge-up and the RGB bump"
 ---
-{% raw %}
 the **red giant branch** is the near-vertical, slightly red-leaning track that climbs from the base of the subgiant branch up to the **RGB tip** at $L \approx 2300 \, L_\odot$ and $T_\mathrm{eff} \sim 3500$ K. it is the longest, most luminous post-main-sequence phase in low-mass stellar evolution and the dominant feature of any old cluster CMD.
 
 interior physics. the star has a thin H-burning shell on top of a growing **electron-degenerate** isothermal He core. the shell is geometrically thin ($\Delta r / r \sim 10^{-3}$) and very temperature-sensitive ($\epsilon \propto T^{15}$ via the CNO cycle). the core is supported by non-relativistic electron degeneracy pressure
@@ -13,9 +10,9 @@ which decouples $P$ from $T$ in the core. as shell-H burning dumps fresh He onto
 
 the famous **core mass-luminosity relation** (paczynski 1970, refsdal & weigert 1970) for shell-H-burning red giants is
 $$ L \approx 2.4 \times 10^5 \, (M_c / M_\odot)^7 \, L_\odot $$
-roughly. the steepness in $M_c$ means that a small change in core mass produces a large change in $L$, so the star climbs the RGB fast in $L$ but slowly in $M_c$. crucially, the relation is *almost independent of the total stellar mass and metallicity*, which makes the [TRGB tip of the red giant branch](./TRGB%20tip%20of%20the%20red%20giant%20branch.html) a near-universal standard candle.
+roughly. the steepness in $M_c$ means that a small change in core mass produces a large change in $L$, so the star climbs the RGB fast in $L$ but slowly in $M_c$. crucially, the relation is *almost independent of the total stellar mass and metallicity*, which makes the [TRGB tip of the red giant branch](TRGB%20tip%20of%20the%20red%20giant%20branch.html) a near-universal standard candle.
 
-envelope structure. the envelope is *almost entirely convective* and sits along the **Hayashi limit**, the locus of fully convective, hydrostatic stars in the cool-temperature region of the [HR diagram](./HR%20diagram.html). the hayashi limit at $T_\mathrm{eff} \sim 3500$ to $4000$ K depends weakly on mass and composition. as $L$ increases, the star can only stay along this limit by expanding ($R \propto L^{1/2}$), so the RGB is *steep in luminosity at nearly fixed $T_\mathrm{eff}$*: a near-vertical track in the CMD.
+envelope structure. the envelope is *almost entirely convective* and sits along the **Hayashi limit**, the locus of fully convective, hydrostatic stars in the cool-temperature region of the [HR diagram](HR%20diagram.html). the hayashi limit at $T_\mathrm{eff} \sim 3500$ to $4000$ K depends weakly on mass and composition. as $L$ increases, the star can only stay along this limit by expanding ($R \propto L^{1/2}$), so the RGB is *steep in luminosity at nearly fixed $T_\mathrm{eff}$*: a near-vertical track in the CMD.
 
 key features along the RGB:
 
@@ -23,7 +20,7 @@ key features along the RGB:
 
 **RGB bump.** when the receding H-burning shell (which moves *outward in mass coordinate* as it consumes H) crosses the chemical discontinuity left at the maximum penetration depth of the first dredge-up, the abrupt drop in mean molecular weight at the shell's footing causes a small *temporary stalling* of the luminosity climb. stars accumulate briefly in this short-lived phase, producing an over-density on the RGB called the **bump**. its position in $V$ is age- and metallicity-sensitive ($V_\mathrm{bump}$ shifts $\sim 0.5$ mag dimmer per dex increase in $[\mathrm{Fe}/\mathrm{H}]$) and provides an independent age constraint distinct from the TO.
 
-**RGB tip and helium ignition.** at the tip, $M_c \approx 0.48 \, M_\odot$ and the central temperature reaches $T \sim 10^8$ K, at which the triple-alpha process ignites *under degeneracy*. the core flashes: see [Helium flash and horizontal branch](./Helium%20flash%20and%20horizontal%20branch.html). the tip luminosity, $L_\mathrm{tip} \approx 2300 \, L_\odot$ ($M_I \approx -4.05$ at $[\mathrm{Fe}/\mathrm{H}] \sim -1.5$) is essentially fixed by the He-ignition core mass, with a weak metallicity dependence in $I$ band (the famous TRGB standard candle of lee et al. 1993 and freedman et al.).
+**RGB tip and helium ignition.** at the tip, $M_c \approx 0.48 \, M_\odot$ and the central temperature reaches $T \sim 10^8$ K, at which the triple-alpha process ignites *under degeneracy*. the core flashes: see [Helium flash and horizontal branch](Helium%20flash%20and%20horizontal%20branch.html). the tip luminosity, $L_\mathrm{tip} \approx 2300 \, L_\odot$ ($M_I \approx -4.05$ at $[\mathrm{Fe}/\mathrm{H}] \sim -1.5$) is essentially fixed by the He-ignition core mass, with a weak metallicity dependence in $I$ band (the famous TRGB standard candle of lee et al. 1993 and freedman et al.).
 
 **RGB slope and width as $[\mathrm{Fe}/\mathrm{H}]$ indicator.** at fixed age, more metal-rich RGBs are *redder and shallower in the colour-magnitude plane* because higher line opacity and lower $T_\mathrm{eff}$ shift colours rightward more than they shift magnitudes. the RGB slope, especially in $V-I$ versus $V$, is a robust photometric metallicity indicator (sarajedini et al. 1994; carretta et al.) for clusters out to $\sim 1$ Mpc.
 
@@ -31,26 +28,26 @@ key features along the RGB:
 
 ## see also
 - [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
-- [Subgiant branch SGB](./Subgiant%20branch%20SGB.html)
-- [Helium flash and horizontal branch](./Helium%20flash%20and%20horizontal%20branch.html)
-- [TRGB tip of the red giant branch](./TRGB%20tip%20of%20the%20red%20giant%20branch.html)
-- [Stellar evolutionary phases on the CMD](./Stellar%20evolutionary%20phases%20on%20the%20CMD.html)
-- [Color-magnitude diagrams of clusters](./Color-magnitude%20diagrams%20of%20clusters.html)
-{% endraw %}
+- [Subgiant branch SGB](Subgiant%20branch%20SGB.html)
+- [Helium flash and horizontal branch](Helium%20flash%20and%20horizontal%20branch.html)
+- [TRGB tip of the red giant branch](TRGB%20tip%20of%20the%20red%20giant%20branch.html)
+- [Stellar evolutionary phases on the CMD](Stellar%20evolutionary%20phases%20on%20the%20CMD.html)
+- [Color-magnitude diagrams of clusters](Color-magnitude%20diagrams%20of%20clusters.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (11)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Asymptotic%20giant%20branch%20AGB.html" class="backlink-item">Asymptotic giant branch AGB</a></li>
-    <li class="backlink-item-wrap"><a href="./Blue%20straggler%20formation%20channels.html" class="backlink-item">Blue straggler formation channels</a></li>
-    <li class="backlink-item-wrap"><a href="./Blue%20stragglers%20in%20star%20clusters.html" class="backlink-item">Blue stragglers in star clusters</a></li>
-    <li class="backlink-item-wrap"><a href="./Cluster%20binary%20fraction%20methods.html" class="backlink-item">Cluster binary fraction methods</a></li>
-    <li class="backlink-item-wrap"><a href="./Helium%20flash%20and%20horizontal%20branch.html" class="backlink-item">Helium flash and horizontal branch</a></li>
-    <li class="backlink-item-wrap"><a href="./IMF%20from%20cluster%20luminosity%20functions.html" class="backlink-item">IMF from cluster luminosity functions</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20evolutionary%20phases%20on%20the%20CMD.html" class="backlink-item">Stellar evolutionary phases on the CMD</a></li>
+    <li class="backlink-item-wrap"><a href="Asymptotic%20giant%20branch%20AGB.html" class="backlink-item">Asymptotic giant branch AGB</a></li>
+    <li class="backlink-item-wrap"><a href="Blue%20straggler%20formation%20channels.html" class="backlink-item">Blue straggler formation channels</a></li>
+    <li class="backlink-item-wrap"><a href="Blue%20stragglers%20in%20star%20clusters.html" class="backlink-item">Blue stragglers in star clusters</a></li>
+    <li class="backlink-item-wrap"><a href="Cluster%20binary%20fraction%20methods.html" class="backlink-item">Cluster binary fraction methods</a></li>
+    <li class="backlink-item-wrap"><a href="Helium%20flash%20and%20horizontal%20branch.html" class="backlink-item">Helium flash and horizontal branch</a></li>
+    <li class="backlink-item-wrap"><a href="IMF%20from%20cluster%20luminosity%20functions.html" class="backlink-item">IMF from cluster luminosity functions</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20evolutionary%20phases%20on%20the%20CMD.html" class="backlink-item">Stellar evolutionary phases on the CMD</a></li>
+    <li class="backlink-item-wrap"><a href="Subgiant%20branch%20SGB.html" class="backlink-item">Subgiant branch SGB</a></li>
+    <li class="backlink-item-wrap"><a href="X-ray%20sources%20in%20globular%20clusters.html" class="backlink-item">X-ray sources in globular clusters</a></li>
+    <li class="backlink-item-wrap"><a href="Yellow%20stragglers%20and%20sub-subgiants.html" class="backlink-item">Yellow stragglers and sub-subgiants</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Subgiant%20branch%20SGB.html" class="backlink-item">Subgiant branch SGB</a></li>
-    <li class="backlink-item-wrap"><a href="./X-ray%20sources%20in%20globular%20clusters.html" class="backlink-item">X-ray sources in globular clusters</a></li>
-    <li class="backlink-item-wrap"><a href="./Yellow%20stragglers%20and%20sub-subgiants.html" class="backlink-item">Yellow stragglers and sub-subgiants</a></li>
   </ul>
 </div>
+

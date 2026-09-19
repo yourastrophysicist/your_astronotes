@@ -2,10 +2,9 @@
 layout: "default"
 title: "High-z galaxies with JWST"
 ---
-{% raw %}
 # high-z galaxies with jwst
 
-up: [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html) · [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html) · [Reionization](./Reionization.html)
+up: [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html) · [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html) · [Reionization](Reionization.html)
 
 ## instrument capabilities for high redshift
 
@@ -36,9 +35,9 @@ JWST has confirmed overmassive SMBHs at $z > 7 - 10$ (e.g., UHZ1 at $z = 10.1$ w
 
 ## connections
 
-- survey context: [Surveys to remember](./Surveys%20to%20remember.html)
-- epoch: [Reionization](./Reionization.html), [Population III stars](./Population%20III%20stars.html)
-- passive counterparts: [Quenching and passive galaxies at high z](./Quenching%20and%20passive%20galaxies%20at%20high%20z.html)
+- survey context: [Surveys to remember](Surveys%20to%20remember.html)
+- epoch: [Reionization](Reionization.html), [Population III stars](Population%20III%20stars.html)
+- passive counterparts: [Quenching and passive galaxies at high z](Quenching%20and%20passive%20galaxies%20at%20high%20z.html)
 
 
 ## JWST Spectroscopic and Photometric Diagnostics
@@ -51,17 +50,15 @@ JWST has confirmed overmassive SMBHs at $z > 7 - 10$ (e.g., UHZ1 at $z = 10.1$ w
 
 ![JWST Galaxy Mass-Metallicity Relation](../../assets/images/slide09_Google_Shape_126_p21.png)
 *Figure JWST-07: Mass-metallicity relation at cosmic dawn showing rapid metal enrichment and efficient star formation in the first gigayear of cosmic time.*
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
+  <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Deep-field%20surveys.html" class="backlink-item">Deep-field surveys</a></li>
-    <li class="backlink-item-wrap"><a href="./Madau%20plot.html" class="backlink-item">Madau plot</a></li>
-    <li class="backlink-item-wrap"><a href="./Protocluster%20detection%20techniques.html" class="backlink-item">Protocluster detection techniques</a></li>
-    <li class="backlink-item-wrap"><a href="./Quenching%20and%20passive%20galaxies%20at%20high%20z.html" class="backlink-item">Quenching and passive galaxies at high z</a></li>
-    <li class="backlink-item-wrap"><a href="./Space%20and%20ground%20facilities%20relevant%20for%20OC.html" class="backlink-item">Space and ground facilities relevant for OC</a></li>
-    <li class="backlink-item-wrap"><a href="./Starburst%20galaxies.html" class="backlink-item">Starburst galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="./UV%20luminosity%20function.html" class="backlink-item">UV luminosity function</a></li>
+    <li class="backlink-item-wrap"><a href="Madau%20plot.html" class="backlink-item">Madau plot</a></li>
+    <li class="backlink-item-wrap"><a href="Protocluster%20detection%20techniques.html" class="backlink-item">Protocluster detection techniques</a></li>
+    <li class="backlink-item-wrap"><a href="Quenching%20and%20passive%20galaxies%20at%20high%20z.html" class="backlink-item">Quenching and passive galaxies at high z</a></li>
+    <li class="backlink-item-wrap"><a href="Space%20and%20ground%20facilities%20relevant%20for%20OC.html" class="backlink-item">Space and ground facilities relevant for OC</a></li>
+    <li class="backlink-item-wrap"><a href="Starburst%20galaxies.html" class="backlink-item">Starburst galaxies</a></li>
   </ul>
 </div>
+

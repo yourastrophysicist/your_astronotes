@@ -2,7 +2,6 @@
 layout: "default"
 title: "Ch 7 - Cosmology"
 ---
-{% raw %}
 # Baumann Ch 7, Cosmology
 
 up: [Baumann GR](./Baumann%20GR.html) · [General_Relativity_MOC](../../../04_Atlas/General_Relativity_MOC.html)
@@ -229,23 +228,19 @@ if i had to compress chapter 7 into a paragraph for the oral:
 - [ΛCDM current parameters](../../../03_Zettel/Theory/%CE%9BCDM%20current%20parameters.html)
 - previous: [Ch 6 - Black Holes](./Ch%206%20-%20Black%20Holes.html)
 - next: [Ch 8 - Gravitational Waves](./Ch%208%20-%20Gravitational%20Waves.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (13)</h4>
+  <h4 class="backlinks-title">Linked References (9)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Baumann%20GR.html" class="backlink-item">Baumann GR</a></li>
-    <li class="backlink-item-wrap"><a href="./Ch%206%20-%20Black%20Holes.html" class="backlink-item">Ch 6 - Black Holes</a></li>
-    <li class="backlink-item-wrap"><a href="./Ch%208%20-%20Gravitational%20Waves.html" class="backlink-item">Ch 8 - Gravitational Waves</a></li>
-    <li class="backlink-item-wrap"><a href="./Ch%209%20-%20Inflation%20and%20Primordial%20Gravitational%20Waves.html" class="backlink-item">Ch 9 - Inflation and Primordial Gravitational Waves</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Continuity%20equation.html" class="backlink-item">Continuity equation</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Cosmic%20eras.html" class="backlink-item">Cosmic eras</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Cosmological%20constant.html" class="backlink-item">Cosmological constant</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Equation%20of%20state%20and%20density%20scaling.html" class="backlink-item">Equation of state and density scaling</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/FLRW%20metric.html" class="backlink-item">FLRW metric</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Friedmann%20equations.html" class="backlink-item">Friedmann equations</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Matter%20radiation%20equality.html" class="backlink-item">Matter radiation equality</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Spatial%20curvature%20parameter%20k.html" class="backlink-item">Spatial curvature parameter k</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
   </ul>
 </div>
+

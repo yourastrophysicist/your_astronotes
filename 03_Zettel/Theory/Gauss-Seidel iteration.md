@@ -2,7 +2,6 @@
 layout: "default"
 title: "Gauss-Seidel iteration"
 ---
-{% raw %}
 # Gauss-Seidel iteration
 
 an *iterative* method for solving $A\mathbf{x} = \mathbf{b}$. instead of factoring $A$ exactly (Gauss elimination, LU), Gauss-Seidel starts from a guess and refines it. cheap per iteration, $O(N^2)$ instead of $O(N^3)$, and dominates for **large sparse** systems.
@@ -74,7 +73,7 @@ if convergence is slow, try **successive over-relaxation (SOR)**: $x_i^{(k+1)} =
 
 ## astrophysics applications
 
-- **boundary-value PDEs** discretized on a grid: the resulting linear system is sparse (each grid point connects only to its neighbors) and Gauss-Seidel is the textbook method. see [Boundary value PDEs and iteration](./Boundary%20value%20PDEs%20and%20iteration.html)
+- **boundary-value PDEs** discretized on a grid: the resulting linear system is sparse (each grid point connects only to its neighbors) and Gauss-Seidel is the textbook method. see [Boundary value PDEs and iteration](Boundary%20value%20PDEs%20and%20iteration.html)
 - **iterative refinement** of any direct-solver result, to clean up roundoff
 - **multigrid methods** use Gauss-Seidel as the "smoother" between coarse-grid corrections
 
@@ -89,23 +88,23 @@ if convergence is slow, try **successive over-relaxation (SOR)**: $x_i^{(k+1)} =
 
 ## see also
 
-- [Gauss elimination](./Gauss%20elimination.html)
-- [LU decomposition](./LU%20decomposition.html)
-- [Pros and cons of linear solvers](./Pros%20and%20cons%20of%20linear%20solvers.html)
-- [Boundary value PDEs and iteration](./Boundary%20value%20PDEs%20and%20iteration.html)
+- [Gauss elimination](Gauss%20elimination.html)
+- [LU decomposition](LU%20decomposition.html)
+- [Pros and cons of linear solvers](Pros%20and%20cons%20of%20linear%20solvers.html)
+- [Boundary value PDEs and iteration](Boundary%20value%20PDEs%20and%20iteration.html)
 - [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (8)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Boundary%20value%20PDEs%20and%20iteration.html" class="backlink-item">Boundary value PDEs and iteration</a></li>
-    <li class="backlink-item-wrap"><a href="./Gauss%20elimination.html" class="backlink-item">Gauss elimination</a></li>
-    <li class="backlink-item-wrap"><a href="./LU%20decomposition.html" class="backlink-item">LU decomposition</a></li>
+    <li class="backlink-item-wrap"><a href="Boundary%20value%20PDEs%20and%20iteration.html" class="backlink-item">Boundary value PDEs and iteration</a></li>
+    <li class="backlink-item-wrap"><a href="Gauss%20elimination.html" class="backlink-item">Gauss elimination</a></li>
+    <li class="backlink-item-wrap"><a href="LU%20decomposition.html" class="backlink-item">LU decomposition</a></li>
+    <li class="backlink-item-wrap"><a href="Overrelaxation.html" class="backlink-item">Overrelaxation</a></li>
+    <li class="backlink-item-wrap"><a href="Partial%20pivoting.html" class="backlink-item">Partial pivoting</a></li>
+    <li class="backlink-item-wrap"><a href="Pros%20and%20cons%20of%20linear%20solvers.html" class="backlink-item">Pros and cons of linear solvers</a></li>
+    <li class="backlink-item-wrap"><a href="Relaxation%20method.html" class="backlink-item">Relaxation method</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Overrelaxation.html" class="backlink-item">Overrelaxation</a></li>
-    <li class="backlink-item-wrap"><a href="./Partial%20pivoting.html" class="backlink-item">Partial pivoting</a></li>
-    <li class="backlink-item-wrap"><a href="./Pros%20and%20cons%20of%20linear%20solvers.html" class="backlink-item">Pros and cons of linear solvers</a></li>
-    <li class="backlink-item-wrap"><a href="./Relaxation%20method.html" class="backlink-item">Relaxation method</a></li>
   </ul>
 </div>
+

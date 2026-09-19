@@ -2,7 +2,6 @@
 layout: "default"
 title: "Cosmic_inventory_dark_energy"
 ---
-{% raw %}
 about 68.5% of the energy budget of the universe today is something we cannot detect except through its effect on the expansion rate: it dominates today, has negative pressure, and drives the accelerated expansion. we call it **dark energy**.
 
 a *cosmological constant* $\Lambda$ is the simplest model: an energy density that does not dilute with expansion ($p = -\rho$ exactly). more generally, dark energy can have $p < -\rho/3$ and evolve in time/space.
@@ -122,27 +121,27 @@ experimentally, $w$ is being measured to $\sim 1\%$ precision by SN Ia + BAO + C
 ## see also
 
 - [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Cosmic_inventory_overview](./Cosmic_inventory_overview.html)
-- [Hubble constant and deceleration parameter](./Hubble%20constant%20and%20deceleration%20parameter.html)
+- [Cosmic_inventory_overview](Cosmic_inventory_overview.html)
+- [Hubble constant and deceleration parameter](Hubble%20constant%20and%20deceleration%20parameter.html)
 - Friedmann equations with Λ
-- [Friedmann models](./Friedmann%20models.html)
-- [Hubble law exact form](./Hubble%20law%20exact%20form.html)
-{% endraw %}
+- [Friedmann models](Friedmann%20models.html)
+- [Hubble law exact form](Hubble%20law%20exact%20form.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (12)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Cosmic_inventory_overview.html" class="backlink-item">Cosmic_inventory_overview</a></li>
-    <li class="backlink-item-wrap"><a href="./Cosmological%20constant.html" class="backlink-item">Cosmological constant</a></li>
-    <li class="backlink-item-wrap"><a href="./Friedmann%20equations%20with%20Lambda.html" class="backlink-item">Friedmann equations with Lambda</a></li>
-    <li class="backlink-item-wrap"><a href="./Friedmann%20models.html" class="backlink-item">Friedmann models</a></li>
+    <li class="backlink-item-wrap"><a href="Cosmic_inventory_overview.html" class="backlink-item">Cosmic_inventory_overview</a></li>
+    <li class="backlink-item-wrap"><a href="Cosmological%20constant.html" class="backlink-item">Cosmological constant</a></li>
+    <li class="backlink-item-wrap"><a href="Friedmann%20equations%20with%20Lambda.html" class="backlink-item">Friedmann equations with Lambda</a></li>
+    <li class="backlink-item-wrap"><a href="Friedmann%20models.html" class="backlink-item">Friedmann models</a></li>
+    <li class="backlink-item-wrap"><a href="Growth%20factor%20D%28z%29.html" class="backlink-item">Growth factor D(z)</a></li>
+    <li class="backlink-item-wrap"><a href="Hubble%20constant%20and%20deceleration%20parameter.html" class="backlink-item">Hubble constant and deceleration parameter</a></li>
+    <li class="backlink-item-wrap"><a href="Hubble%20law%20exact%20form.html" class="backlink-item">Hubble law exact form</a></li>
+    <li class="backlink-item-wrap"><a href="Lambda%20CDM%20current%20parameters.html" class="backlink-item">Lambda CDM current parameters</a></li>
+    <li class="backlink-item-wrap"><a href="Lensing%20as%20a%20cosmological%20probe.html" class="backlink-item">Lensing as a cosmological probe</a></li>
+    <li class="backlink-item-wrap"><a href="Supernova%20Hubble%20diagram.html" class="backlink-item">Supernova Hubble diagram</a></li>
+    <li class="backlink-item-wrap"><a href="Type%20Ia%20supernovae%20as%20standard%20candles.html" class="backlink-item">Type Ia supernovae as standard candles</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Growth%20factor%20D%28z%29.html" class="backlink-item">Growth factor D(z)</a></li>
-    <li class="backlink-item-wrap"><a href="./Hubble%20constant%20and%20deceleration%20parameter.html" class="backlink-item">Hubble constant and deceleration parameter</a></li>
-    <li class="backlink-item-wrap"><a href="./Hubble%20law%20exact%20form.html" class="backlink-item">Hubble law exact form</a></li>
-    <li class="backlink-item-wrap"><a href="./Lambda%20CDM%20current%20parameters.html" class="backlink-item">Lambda CDM current parameters</a></li>
-    <li class="backlink-item-wrap"><a href="./Lensing%20as%20a%20cosmological%20probe.html" class="backlink-item">Lensing as a cosmological probe</a></li>
-    <li class="backlink-item-wrap"><a href="./Supernova%20Hubble%20diagram.html" class="backlink-item">Supernova Hubble diagram</a></li>
-    <li class="backlink-item-wrap"><a href="./Type%20Ia%20supernovae%20as%20standard%20candles.html" class="backlink-item">Type Ia supernovae as standard candles</a></li>
   </ul>
 </div>
+

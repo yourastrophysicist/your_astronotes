@@ -2,7 +2,6 @@
 layout: "default"
 title: "Source function"
 ---
-{% raw %}
 the **source function** $S_\nu$ is the ratio of emission to absorption coefficient at a given frequency:
 $$\boxed{\, S_\nu \equiv j_\nu / \kappa_\nu \,}$$
 
@@ -51,31 +50,31 @@ with $\omega$ the scattering fraction (albedo).
 
 ## see also
 
-- [Equation of radiative transfer](./Equation%20of%20radiative%20transfer.html)
-- [Optical depth](./Optical%20depth.html)
-- [Local thermodynamic equilibrium LTE](./Local%20thermodynamic%20equilibrium%20LTE.html)
-- [Eddington-Barbier approximation](./Eddington-Barbier%20approximation.html)
-- [Stellar atmosphere structure](./Stellar%20atmosphere%20structure.html)
-- [Continuum opacity sources](./Continuum%20opacity%20sources.html)
-- [Boltzmann equation in spectroscopy](./Boltzmann%20equation%20in%20spectroscopy.html)
-- [Saha ionisation equation](./Saha%20ionisation%20equation.html)
-- [Statistical equilibrium equations](./Statistical%20equilibrium%20equations.html)
-- [Two-level atom](./Two-level%20atom.html)
-{% endraw %}
+- [Equation of radiative transfer](Equation%20of%20radiative%20transfer.html)
+- [Optical depth](Optical%20depth.html)
+- [Local thermodynamic equilibrium LTE](Local%20thermodynamic%20equilibrium%20LTE.html)
+- [Eddington-Barbier approximation](Eddington-Barbier%20approximation.html)
+- [Stellar atmosphere structure](Stellar%20atmosphere%20structure.html)
+- [Continuum opacity sources](Continuum%20opacity%20sources.html)
+- [Boltzmann equation in spectroscopy](Boltzmann%20equation%20in%20spectroscopy.html)
+- [Saha ionisation equation](Saha%20ionisation%20equation.html)
+- [Statistical equilibrium equations](Statistical%20equilibrium%20equations.html)
+- [Two-level atom](Two-level%20atom.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (11)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Continuum%20opacity%20sources.html" class="backlink-item">Continuum opacity sources</a></li>
+    <li class="backlink-item-wrap"><a href="Dilution%20factor.html" class="backlink-item">Dilution factor</a></li>
+    <li class="backlink-item-wrap"><a href="Eddington-Barbier%20approximation.html" class="backlink-item">Eddington-Barbier approximation</a></li>
+    <li class="backlink-item-wrap"><a href="Equation%20of%20radiative%20transfer.html" class="backlink-item">Equation of radiative transfer</a></li>
+    <li class="backlink-item-wrap"><a href="Limb%20darkening.html" class="backlink-item">Limb darkening</a></li>
+    <li class="backlink-item-wrap"><a href="Local%20thermodynamic%20equilibrium%20LTE.html" class="backlink-item">Local thermodynamic equilibrium LTE</a></li>
+    <li class="backlink-item-wrap"><a href="Optical%20depth.html" class="backlink-item">Optical depth</a></li>
+    <li class="backlink-item-wrap"><a href="Statistical%20equilibrium%20equations.html" class="backlink-item">Statistical equilibrium equations</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20atmosphere%20structure.html" class="backlink-item">Stellar atmosphere structure</a></li>
+    <li class="backlink-item-wrap"><a href="Thermal%20continuum%20from%20stellar%20photosphere.html" class="backlink-item">Thermal continuum from stellar photosphere</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Continuum%20opacity%20sources.html" class="backlink-item">Continuum opacity sources</a></li>
-    <li class="backlink-item-wrap"><a href="./Dilution%20factor.html" class="backlink-item">Dilution factor</a></li>
-    <li class="backlink-item-wrap"><a href="./Eddington-Barbier%20approximation.html" class="backlink-item">Eddington-Barbier approximation</a></li>
-    <li class="backlink-item-wrap"><a href="./Equation%20of%20radiative%20transfer.html" class="backlink-item">Equation of radiative transfer</a></li>
-    <li class="backlink-item-wrap"><a href="./Limb%20darkening.html" class="backlink-item">Limb darkening</a></li>
-    <li class="backlink-item-wrap"><a href="./Local%20thermodynamic%20equilibrium%20LTE.html" class="backlink-item">Local thermodynamic equilibrium LTE</a></li>
-    <li class="backlink-item-wrap"><a href="./Optical%20depth.html" class="backlink-item">Optical depth</a></li>
-    <li class="backlink-item-wrap"><a href="./Statistical%20equilibrium%20equations.html" class="backlink-item">Statistical equilibrium equations</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20atmosphere%20structure.html" class="backlink-item">Stellar atmosphere structure</a></li>
-    <li class="backlink-item-wrap"><a href="./Thermal%20continuum%20from%20stellar%20photosphere.html" class="backlink-item">Thermal continuum from stellar photosphere</a></li>
   </ul>
 </div>
+

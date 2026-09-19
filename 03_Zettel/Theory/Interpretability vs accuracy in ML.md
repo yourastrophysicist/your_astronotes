@@ -2,7 +2,6 @@
 layout: "default"
 title: "Interpretability vs accuracy in ML"
 ---
-{% raw %}
 # Interpretability vs accuracy in ML
 
 a recurring tension in machine learning. the most accurate models — deep neural networks, gradient-boosted ensembles — are usually *black boxes*: they make predictions but cannot tell me *why*. simpler models — decision trees, linear regression — are slightly less accurate but each prediction comes with an explanation. for science, the explanation often matters as much as the prediction.
@@ -98,18 +97,18 @@ Mapelli's notes touch on the *idea* of interpretability mainly through the decis
 
 ## see also
 
-- [Decision tree classifier](./Decision%20tree%20classifier.html)
-- [What is machine learning](./What%20is%20machine%20learning.html)
-- [Iris dataset and the ML hello world](./Iris%20dataset%20and%20the%20ML%20hello%20world.html)
+- [Decision tree classifier](Decision%20tree%20classifier.html)
+- [What is machine learning](What%20is%20machine%20learning.html)
+- [Iris dataset and the ML hello world](Iris%20dataset%20and%20the%20ML%20hello%20world.html)
 - [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Decision%20tree%20classifier.html" class="backlink-item">Decision tree classifier</a></li>
-    <li class="backlink-item-wrap"><a href="./Iris%20dataset%20and%20the%20ML%20hello%20world.html" class="backlink-item">Iris dataset and the ML hello world</a></li>
+    <li class="backlink-item-wrap"><a href="Decision%20tree%20classifier.html" class="backlink-item">Decision tree classifier</a></li>
+    <li class="backlink-item-wrap"><a href="Iris%20dataset%20and%20the%20ML%20hello%20world.html" class="backlink-item">Iris dataset and the ML hello world</a></li>
+    <li class="backlink-item-wrap"><a href="What%20is%20machine%20learning.html" class="backlink-item">What is machine learning</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./What%20is%20machine%20learning.html" class="backlink-item">What is machine learning</a></li>
   </ul>
 </div>
+

@@ -2,7 +2,6 @@
 layout: "default"
 title: "Nulling interferometry"
 ---
-{% raw %}
 # Nulling interferometry
 
 a technique for *suppressing* the bright on-axis source while preserving off-axis emission. used for direct exoplanet detection, exo-zodiacal dust imaging, and high-contrast imaging around nearby stars. invented conceptually by Bracewell (1978).
@@ -93,28 +92,28 @@ nulling interferometry is poised for:
 
 ## see also
 
-- [Bracewell nuller](./Bracewell%20nuller.html)
-- [Coronagraphy](./Coronagraphy.html)
-- [Apodization](./Apodization.html)
-- [Hypertelescope](./Hypertelescope.html)
+- [Bracewell nuller](Bracewell%20nuller.html)
+- [Coronagraphy](Coronagraphy.html)
+- [Apodization](Apodization.html)
+- [Hypertelescope](Hypertelescope.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (13)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Apodization.html" class="backlink-item">Apodization</a></li>
     <li class="backlink-item-wrap"><a href="../Apodization.html" class="backlink-item">Apodization</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Bracewell%20nuller.html" class="backlink-item">Bracewell nuller</a></li>
     <li class="backlink-item-wrap"><a href="../Bracewell%20nuller.html" class="backlink-item">Bracewell nuller</a></li>
     <li class="backlink-item-wrap"><a href="../Coronagraphy.html" class="backlink-item">Coronagraphy</a></li>
-    <li class="backlink-item-wrap"><a href="./Coronagraphy.html" class="backlink-item">Coronagraphy</a></li>
-    <li class="backlink-item-wrap"><a href="./Exoplanet%20imaging.html" class="backlink-item">Exoplanet imaging</a></li>
     <li class="backlink-item-wrap"><a href="../Exoplanet%20imaging.html" class="backlink-item">Exoplanet imaging</a></li>
-    <li class="backlink-item-wrap"><a href="./Hypertelescope.html" class="backlink-item">Hypertelescope</a></li>
     <li class="backlink-item-wrap"><a href="../Hypertelescope.html" class="backlink-item">Hypertelescope</a></li>
     <li class="backlink-item-wrap"><a href="../Keck%20interferometer.html" class="backlink-item">Keck interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="./Keck%20interferometer.html" class="backlink-item">Keck interferometer</a></li>
+    <li class="backlink-item-wrap"><a href="Apodization.html" class="backlink-item">Apodization</a></li>
+    <li class="backlink-item-wrap"><a href="Bracewell%20nuller.html" class="backlink-item">Bracewell nuller</a></li>
+    <li class="backlink-item-wrap"><a href="Coronagraphy.html" class="backlink-item">Coronagraphy</a></li>
+    <li class="backlink-item-wrap"><a href="Exoplanet%20imaging.html" class="backlink-item">Exoplanet imaging</a></li>
+    <li class="backlink-item-wrap"><a href="Hypertelescope.html" class="backlink-item">Hypertelescope</a></li>
+    <li class="backlink-item-wrap"><a href="Keck%20interferometer.html" class="backlink-item">Keck interferometer</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

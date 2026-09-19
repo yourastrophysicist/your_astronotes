@@ -2,7 +2,6 @@
 layout: "default"
 title: "Course_Overview_and_Syllabus"
 ---
-{% raw %}
 # Fluid and Plasma Dynamics - Course Overview and Syllabus
 
 *Università degli Studi di Padova - Department of Physics and Astronomy "G. Galilei"*  
@@ -94,7 +93,6 @@ The course notes in this vault are organized into eight thematic modules:
 - [Part7_Magnetohydrodynamics_Equilibrium_and_Waves](./Part7_Magnetohydrodynamics_Equilibrium_and_Waves.html) - Ideal and resistive MHD equations, Alfvén flux freezing, Z-pinch Bennett relation, Grad-Shafranov tokamak equilibrium, shear and compressional Alfvén waves.
 - [Part8_Reconnection_Relaxation_and_Dynamo_Theory](./Part8_Reconnection_Relaxation_and_Dynamo_Theory.html) - Sweet-Parker reconnection, resistive tearing modes, Woltjer theorems, Taylor relaxation, Reversed Field Pinch (RFP), Cowling anti-dynamo theorem, mean-field $\alpha\Omega$ dynamo.
 - [Giacomin_Oral_Exam_Questions_Complete_Guide](./Giacomin_Oral_Exam_Questions_Complete_Guide.html) - Blackboard derivations and answers for the 30 oral examination questions.
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (2)</h4>
@@ -103,3 +101,4 @@ The course notes in this vault are organized into eight thematic modules:
     <li class="backlink-item-wrap"><a href="../../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
   </ul>
 </div>
+

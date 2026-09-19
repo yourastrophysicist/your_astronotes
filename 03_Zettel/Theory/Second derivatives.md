@@ -2,7 +2,6 @@
 layout: "default"
 title: "Second derivatives"
 ---
-{% raw %}
 # Second derivatives
 
 the standard finite-difference formula for $f''(x)$ is the centered three-point stencil:
@@ -86,19 +85,19 @@ the famous **5-point stencil**. this discretizes the Poisson equation $\nabla^2 
 
 ## see also
 
-- [Forward backward and central differences](./Forward%20backward%20and%20central%20differences.html)
-- [Roundoff vs truncation balance](./Roundoff%20vs%20truncation%20balance.html)
-- [Optimal step size for derivatives](./Optimal%20step%20size%20for%20derivatives.html)
-- [Finite difference discretization](./Finite%20difference%20discretization.html)
+- [Forward backward and central differences](Forward%20backward%20and%20central%20differences.html)
+- [Roundoff vs truncation balance](Roundoff%20vs%20truncation%20balance.html)
+- [Optimal step size for derivatives](Optimal%20step%20size%20for%20derivatives.html)
+- [Finite difference discretization](Finite%20difference%20discretization.html)
 - [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Finite%20difference%20discretization.html" class="backlink-item">Finite difference discretization</a></li>
-    <li class="backlink-item-wrap"><a href="./Forward%20backward%20and%20central%20differences.html" class="backlink-item">Forward backward and central differences</a></li>
+    <li class="backlink-item-wrap"><a href="Finite%20difference%20discretization.html" class="backlink-item">Finite difference discretization</a></li>
+    <li class="backlink-item-wrap"><a href="Forward%20backward%20and%20central%20differences.html" class="backlink-item">Forward backward and central differences</a></li>
+    <li class="backlink-item-wrap"><a href="Partial%20numerical%20derivatives.html" class="backlink-item">Partial numerical derivatives</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Partial%20numerical%20derivatives.html" class="backlink-item">Partial numerical derivatives</a></li>
   </ul>
 </div>
+

@@ -2,7 +2,6 @@
 layout: "default"
 title: "When to use implicit schemes"
 ---
-{% raw %}
 # When to use implicit schemes
 
 implicit time-stepping schemes solve a linear (or nonlinear) system at each step, evaluating the right-hand side at the **new** time level. expensive per step, but **unconditionally stable** for linear problems. when explicit schemes need an absurdly small timestep, implicit pays off.
@@ -87,17 +86,17 @@ ask:
 
 ## see also
 
-- [Initial value PDEs and FTCS](./Initial%20value%20PDEs%20and%20FTCS.html)
-- [Stability and the Courant condition](./Stability%20and%20the%20Courant%20condition.html)
-- [Finite difference discretization](./Finite%20difference%20discretization.html)
-- [Built-in scipy integrators](./Built-in%20scipy%20integrators.html)
+- [Initial value PDEs and FTCS](Initial%20value%20PDEs%20and%20FTCS.html)
+- [Stability and the Courant condition](Stability%20and%20the%20Courant%20condition.html)
+- [Finite difference discretization](Finite%20difference%20discretization.html)
+- [Built-in scipy integrators](Built-in%20scipy%20integrators.html)
 - [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Boundary%20value%20PDEs%20and%20iteration.html" class="backlink-item">Boundary value PDEs and iteration</a></li>
+    <li class="backlink-item-wrap"><a href="Boundary%20value%20PDEs%20and%20iteration.html" class="backlink-item">Boundary value PDEs and iteration</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
   </ul>
 </div>
+

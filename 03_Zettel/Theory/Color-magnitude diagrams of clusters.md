@@ -1,12 +1,9 @@
 ---
 layout: "default"
 title: "Color-magnitude diagrams of clusters"
-name: "Color-magnitude diagrams of clusters"
-description: "the central diagnostic tool of stellar population studies, plotting magnitude vs color for resolved cluster stars to extract age, metallicity, distance, and reddening"
 ---
-{% raw %}
-![](../../assets/images/Pasted%20image%2020260914195153.png)
-a **color-magnitude diagram** (CMD) is the observational version of the [HR diagram](./HR%20diagram.html): $M_V$ (or $M_X$) vs a color (e.g. $B-V$, $g-r$, or $V-I$). for stellar **clusters** specifically, all stars share the same age, metallicity, and distance, so a cluster CMD is a powerful diagnostic of all four parameters: age, $Z$, distance modulus, and reddening. milone et al. 2025 (A&A 696, 221) provides the modern reference CMD for NGC 6397 ($\sim 13.5$ Gyr), used as the canonical example throughout the course.
+![](../../assets/images/Pasted%2520image%252020260914195153.png)
+a **color-magnitude diagram** (CMD) is the observational version of the [HR diagram](HR%20diagram.html): $M_V$ (or $M_X$) vs a color (e.g. $B-V$, $g-r$, or $V-I$). for stellar **clusters** specifically, all stars share the same age, metallicity, and distance, so a cluster CMD is a powerful diagnostic of all four parameters: age, $Z$, distance modulus, and reddening. milone et al. 2025 (A&A 696, 221) provides the modern reference CMD for NGC 6397 ($\sim 13.5$ Gyr), used as the canonical example throughout the course.
 
 ## why clusters
 
@@ -93,17 +90,17 @@ mixed-age, metal-poor populations. CMDs show extended MS + RGB + multiple turnof
 
 ## see also
 
-- [HR diagram](./HR%20diagram.html)
-- [Cluster ages from CMD turnoff](./Cluster%20ages%20from%20CMD%20turnoff.html)
-- [Stellar populations I II III](./Stellar%20populations%20I%20II%20III.html)
-- [Spectroscopic parallax and main-sequence fitting](./Spectroscopic%20parallax%20and%20main-sequence%20fitting.html)
-- [Variable stars as standard candles](./Variable%20stars%20as%20standard%20candles.html)
-- [Initial mass function](./Initial%20mass%20function.html)
-- [Stellar evolution timescales](./Stellar%20evolution%20timescales.html)
-- [Color indices](./Color%20indices.html)
-- [Distance modulus](./Distance%20modulus.html)
-- [SFH from resolved CMDs](./SFH%20from%20resolved%20CMDs.html)
-- [Isochrones and isochrone fitting](./Isochrones%20and%20isochrone%20fitting.html)
+- [HR diagram](HR%20diagram.html)
+- [Cluster ages from CMD turnoff](Cluster%20ages%20from%20CMD%20turnoff.html)
+- [Stellar populations I II III](Stellar%20populations%20I%20II%20III.html)
+- [Spectroscopic parallax and main-sequence fitting](Spectroscopic%20parallax%20and%20main-sequence%20fitting.html)
+- [Variable stars as standard candles](Variable%20stars%20as%20standard%20candles.html)
+- [Initial mass function](Initial%20mass%20function.html)
+- [Stellar evolution timescales](Stellar%20evolution%20timescales.html)
+- [Color indices](Color%20indices.html)
+- [Distance modulus](Distance%20modulus.html)
+- [SFH from resolved CMDs](SFH%20from%20resolved%20CMDs.html)
+- [Isochrones and isochrone fitting](Isochrones%20and%20isochrone%20fitting.html)
 - [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
 
 ---
@@ -210,64 +207,64 @@ The following slides from Prof. Antonino Milone's lecture series provide the dir
 
 ![LAntonino_p01_25.png](../../assets/images/LAntonino_p01_25.png)
 *Figure P01-27: LAntonino_p01_25.png — Observational data, CMD morphology, and diagnostics from Lecture 01 — Reading the CMD I: Morphology & Clusters.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (54)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Age%20dating%20from%20the%20WD%20luminosity%20function.html" class="backlink-item">Age dating from the WD luminosity function</a></li>
-    <li class="backlink-item-wrap"><a href="./Age-metallicity%20degeneracy.html" class="backlink-item">Age-metallicity degeneracy</a></li>
-    <li class="backlink-item-wrap"><a href="./Age-metallicity%20relation%20of%20Galactic%20GCs.html" class="backlink-item">Age-metallicity relation of Galactic GCs</a></li>
+    <li class="backlink-item-wrap"><a href="Age%20dating%20from%20the%20WD%20luminosity%20function.html" class="backlink-item">Age dating from the WD luminosity function</a></li>
+    <li class="backlink-item-wrap"><a href="Age-metallicity%20degeneracy.html" class="backlink-item">Age-metallicity degeneracy</a></li>
+    <li class="backlink-item-wrap"><a href="Age-metallicity%20relation%20of%20Galactic%20GCs.html" class="backlink-item">Age-metallicity relation of Galactic GCs</a></li>
+    <li class="backlink-item-wrap"><a href="Atmospheric%20parameters%20Teff%20log%20g%20feh%20vmicro.html" class="backlink-item">Atmospheric parameters Teff log g feh vmicro</a></li>
+    <li class="backlink-item-wrap"><a href="Binary%20stars%20in%20CMD.html" class="backlink-item">Binary stars in CMD</a></li>
+    <li class="backlink-item-wrap"><a href="Blue%20stragglers%20in%20star%20clusters.html" class="backlink-item">Blue stragglers in star clusters</a></li>
+    <li class="backlink-item-wrap"><a href="Bulge%20CMD%20complications.html" class="backlink-item">Bulge CMD complications</a></li>
+    <li class="backlink-item-wrap"><a href="CMD%20constraints%20on%20disk%20vs%20halo%20populations.html" class="backlink-item">CMD constraints on disk vs halo populations</a></li>
+    <li class="backlink-item-wrap"><a href="Calcium%20and%20CaII%20H%2BK.html" class="backlink-item">Calcium and CaII H+K</a></li>
+    <li class="backlink-item-wrap"><a href="Calcium%20population%20vs%20T.html" class="backlink-item">Calcium population vs T</a></li>
+    <li class="backlink-item-wrap"><a href="Cluster%20binary%20fraction%20methods.html" class="backlink-item">Cluster binary fraction methods</a></li>
+    <li class="backlink-item-wrap"><a href="Color%20indices.html" class="backlink-item">Color indices</a></li>
+    <li class="backlink-item-wrap"><a href="Effects%20of%20differential%20reddening%20on%20CMD%20analysis.html" class="backlink-item">Effects of differential reddening on CMD analysis</a></li>
+    <li class="backlink-item-wrap"><a href="Extended%20main%20sequence%20turn-off%20eMSTO.html" class="backlink-item">Extended main sequence turn-off eMSTO</a></li>
+    <li class="backlink-item-wrap"><a href="Extinction%20law%20and%20Rv.html" class="backlink-item">Extinction law and Rv</a></li>
+    <li class="backlink-item-wrap"><a href="Extragalactic%20star%20clusters.html" class="backlink-item">Extragalactic star clusters</a></li>
+    <li class="backlink-item-wrap"><a href="Galactic%20GC%20two-population%20age%20structure.html" class="backlink-item">Galactic GC two-population age structure</a></li>
+    <li class="backlink-item-wrap"><a href="Globular%20clusters%20as%20SSP%20laboratories.html" class="backlink-item">Globular clusters as SSP laboratories</a></li>
+    <li class="backlink-item-wrap"><a href="Helium%20flash%20and%20horizontal%20branch.html" class="backlink-item">Helium flash and horizontal branch</a></li>
+    <li class="backlink-item-wrap"><a href="Helium%20spread%20in%20GCs.html" class="backlink-item">Helium spread in GCs</a></li>
+    <li class="backlink-item-wrap"><a href="IMF%20from%20cluster%20luminosity%20functions.html" class="backlink-item">IMF from cluster luminosity functions</a></li>
+    <li class="backlink-item-wrap"><a href="Initial%20vs%20present-day%20mass%20function.html" class="backlink-item">Initial vs present-day mass function</a></li>
+    <li class="backlink-item-wrap"><a href="Interstellar%20reddening%20and%20the%20reddening%20vector.html" class="backlink-item">Interstellar reddening and the reddening vector</a></li>
+    <li class="backlink-item-wrap"><a href="Isochrones%20and%20isochrone%20fitting.html" class="backlink-item">Isochrones and isochrone fitting</a></li>
+    <li class="backlink-item-wrap"><a href="M-dwarf%20discontinuity%20and%20convective%20merging%20instability.html" class="backlink-item">M-dwarf discontinuity and convective merging instability</a></li>
+    <li class="backlink-item-wrap"><a href="Main%20sequence%20on%20the%20CMD.html" class="backlink-item">Main sequence on the CMD</a></li>
+    <li class="backlink-item-wrap"><a href="Moving%20cluster%20method.html" class="backlink-item">Moving cluster method</a></li>
+    <li class="backlink-item-wrap"><a href="Multiple%20populations%20in%20GCs%20discovery.html" class="backlink-item">Multiple populations in GCs discovery</a></li>
+    <li class="backlink-item-wrap"><a href="Open%20clusters%20as%20young%20SSP%20laboratories.html" class="backlink-item">Open clusters as young SSP laboratories</a></li>
+    <li class="backlink-item-wrap"><a href="PSF%20photometry.html" class="backlink-item">PSF photometry</a></li>
+    <li class="backlink-item-wrap"><a href="Photometric%20chromosome%20maps.html" class="backlink-item">Photometric chromosome maps</a></li>
+    <li class="backlink-item-wrap"><a href="Population%20I%20and%20II%20stars.html" class="backlink-item">Population I and II stars</a></li>
+    <li class="backlink-item-wrap"><a href="Red%20giant%20branch%20RGB.html" class="backlink-item">Red giant branch RGB</a></li>
+    <li class="backlink-item-wrap"><a href="Resolved%20vs%20unresolved%20stellar%20populations.html" class="backlink-item">Resolved vs unresolved stellar populations</a></li>
+    <li class="backlink-item-wrap"><a href="Single%20stellar%20population%20SSP.html" class="backlink-item">Single stellar population SSP</a></li>
+    <li class="backlink-item-wrap"><a href="Spectroscopic%20determination%20of%20Teff.html" class="backlink-item">Spectroscopic determination of Teff</a></li>
+    <li class="backlink-item-wrap"><a href="Spectroscopic%20parallax%20and%20main-sequence%20fitting.html" class="backlink-item">Spectroscopic parallax and main-sequence fitting</a></li>
+    <li class="backlink-item-wrap"><a href="Star%20cluster%20types.html" class="backlink-item">Star cluster types</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20evolutionary%20phases%20on%20the%20CMD.html" class="backlink-item">Stellar evolutionary phases on the CMD</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20rotation%20effects%20on%20CMD.html" class="backlink-item">Stellar rotation effects on CMD</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20rotation%20v%20sini.html" class="backlink-item">Stellar rotation v sini</a></li>
+    <li class="backlink-item-wrap"><a href="TRGB%20tip%20of%20the%20red%20giant%20branch.html" class="backlink-item">TRGB tip of the red giant branch</a></li>
+    <li class="backlink-item-wrap"><a href="UFDG%20search%20via%20deep%20CMD.html" class="backlink-item">UFDG search via deep CMD</a></li>
+    <li class="backlink-item-wrap"><a href="UFDG%20star%20formation%20histories.html" class="backlink-item">UFDG star formation histories</a></li>
+    <li class="backlink-item-wrap"><a href="Variable%20stars%20as%20standard%20candles.html" class="backlink-item">Variable stars as standard candles</a></li>
+    <li class="backlink-item-wrap"><a href="WDCS%20turn%20to%20blue%20and%20CIA.html" class="backlink-item">WDCS turn to blue and CIA</a></li>
+    <li class="backlink-item-wrap"><a href="WDCS%20vs%20MSTO%20ages%20comparison.html" class="backlink-item">WDCS vs MSTO ages comparison</a></li>
+    <li class="backlink-item-wrap"><a href="White%20dwarf%20cooling%20sequence%20on%20the%20CMD.html" class="backlink-item">White dwarf cooling sequence on the CMD</a></li>
+    <li class="backlink-item-wrap"><a href="White%20dwarf%20cooling%20theory.html" class="backlink-item">White dwarf cooling theory</a></li>
+    <li class="backlink-item-wrap"><a href="White%20dwarf%20overview.html" class="backlink-item">White dwarf overview</a></li>
+    <li class="backlink-item-wrap"><a href="Yellow%20stragglers%20and%20sub-subgiants.html" class="backlink-item">Yellow stragglers and sub-subgiants</a></li>
     <li class="backlink-item-wrap"><a href="interf/Atmospheric%20parameters%20Teff%20log%20g%20feh%20vmicro.html" class="backlink-item">Atmospheric parameters Teff log g feh vmicro</a></li>
-    <li class="backlink-item-wrap"><a href="./Atmospheric%20parameters%20Teff%20log%20g%20feh%20vmicro.html" class="backlink-item">Atmospheric parameters Teff log g feh vmicro</a></li>
-    <li class="backlink-item-wrap"><a href="./Binary%20stars%20in%20CMD.html" class="backlink-item">Binary stars in CMD</a></li>
-    <li class="backlink-item-wrap"><a href="./Blue%20stragglers%20in%20star%20clusters.html" class="backlink-item">Blue stragglers in star clusters</a></li>
-    <li class="backlink-item-wrap"><a href="./Bulge%20CMD%20complications.html" class="backlink-item">Bulge CMD complications</a></li>
-    <li class="backlink-item-wrap"><a href="./CMD%20constraints%20on%20disk%20vs%20halo%20populations.html" class="backlink-item">CMD constraints on disk vs halo populations</a></li>
-    <li class="backlink-item-wrap"><a href="./Calcium%20and%20CaII%20H%2BK.html" class="backlink-item">Calcium and CaII H+K</a></li>
-    <li class="backlink-item-wrap"><a href="./Calcium%20population%20vs%20T.html" class="backlink-item">Calcium population vs T</a></li>
-    <li class="backlink-item-wrap"><a href="./Cluster%20binary%20fraction%20methods.html" class="backlink-item">Cluster binary fraction methods</a></li>
-    <li class="backlink-item-wrap"><a href="./Color%20indices.html" class="backlink-item">Color indices</a></li>
-    <li class="backlink-item-wrap"><a href="./Effects%20of%20differential%20reddening%20on%20CMD%20analysis.html" class="backlink-item">Effects of differential reddening on CMD analysis</a></li>
-    <li class="backlink-item-wrap"><a href="./Extended%20main%20sequence%20turn-off%20eMSTO.html" class="backlink-item">Extended main sequence turn-off eMSTO</a></li>
-    <li class="backlink-item-wrap"><a href="./Extinction%20law%20and%20Rv.html" class="backlink-item">Extinction law and Rv</a></li>
-    <li class="backlink-item-wrap"><a href="./Extragalactic%20star%20clusters.html" class="backlink-item">Extragalactic star clusters</a></li>
-    <li class="backlink-item-wrap"><a href="./Galactic%20GC%20two-population%20age%20structure.html" class="backlink-item">Galactic GC two-population age structure</a></li>
-    <li class="backlink-item-wrap"><a href="./Globular%20clusters%20as%20SSP%20laboratories.html" class="backlink-item">Globular clusters as SSP laboratories</a></li>
-    <li class="backlink-item-wrap"><a href="./Helium%20flash%20and%20horizontal%20branch.html" class="backlink-item">Helium flash and horizontal branch</a></li>
-    <li class="backlink-item-wrap"><a href="./Helium%20spread%20in%20GCs.html" class="backlink-item">Helium spread in GCs</a></li>
-    <li class="backlink-item-wrap"><a href="./IMF%20from%20cluster%20luminosity%20functions.html" class="backlink-item">IMF from cluster luminosity functions</a></li>
-    <li class="backlink-item-wrap"><a href="./Initial%20vs%20present-day%20mass%20function.html" class="backlink-item">Initial vs present-day mass function</a></li>
-    <li class="backlink-item-wrap"><a href="./Interstellar%20reddening%20and%20the%20reddening%20vector.html" class="backlink-item">Interstellar reddening and the reddening vector</a></li>
-    <li class="backlink-item-wrap"><a href="./Isochrones%20and%20isochrone%20fitting.html" class="backlink-item">Isochrones and isochrone fitting</a></li>
-    <li class="backlink-item-wrap"><a href="./M-dwarf%20discontinuity%20and%20convective%20merging%20instability.html" class="backlink-item">M-dwarf discontinuity and convective merging instability</a></li>
-    <li class="backlink-item-wrap"><a href="./Main%20sequence%20on%20the%20CMD.html" class="backlink-item">Main sequence on the CMD</a></li>
-    <li class="backlink-item-wrap"><a href="./Moving%20cluster%20method.html" class="backlink-item">Moving cluster method</a></li>
-    <li class="backlink-item-wrap"><a href="./Multiple%20populations%20in%20GCs%20discovery.html" class="backlink-item">Multiple populations in GCs discovery</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Open%20clusters%20as%20young%20SSP%20laboratories.html" class="backlink-item">Open clusters as young SSP laboratories</a></li>
-    <li class="backlink-item-wrap"><a href="./PSF%20photometry.html" class="backlink-item">PSF photometry</a></li>
-    <li class="backlink-item-wrap"><a href="./Photometric%20chromosome%20maps.html" class="backlink-item">Photometric chromosome maps</a></li>
-    <li class="backlink-item-wrap"><a href="./Population%20I%20and%20II%20stars.html" class="backlink-item">Population I and II stars</a></li>
-    <li class="backlink-item-wrap"><a href="./Red%20giant%20branch%20RGB.html" class="backlink-item">Red giant branch RGB</a></li>
-    <li class="backlink-item-wrap"><a href="./Resolved%20vs%20unresolved%20stellar%20populations.html" class="backlink-item">Resolved vs unresolved stellar populations</a></li>
-    <li class="backlink-item-wrap"><a href="./Single%20stellar%20population%20SSP.html" class="backlink-item">Single stellar population SSP</a></li>
-    <li class="backlink-item-wrap"><a href="./Spectroscopic%20determination%20of%20Teff.html" class="backlink-item">Spectroscopic determination of Teff</a></li>
-    <li class="backlink-item-wrap"><a href="./Spectroscopic%20parallax%20and%20main-sequence%20fitting.html" class="backlink-item">Spectroscopic parallax and main-sequence fitting</a></li>
-    <li class="backlink-item-wrap"><a href="./Star%20cluster%20types.html" class="backlink-item">Star cluster types</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20evolutionary%20phases%20on%20the%20CMD.html" class="backlink-item">Stellar evolutionary phases on the CMD</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20rotation%20effects%20on%20CMD.html" class="backlink-item">Stellar rotation effects on CMD</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20rotation%20v%20sini.html" class="backlink-item">Stellar rotation v sini</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./TRGB%20tip%20of%20the%20red%20giant%20branch.html" class="backlink-item">TRGB tip of the red giant branch</a></li>
-    <li class="backlink-item-wrap"><a href="./UFDG%20search%20via%20deep%20CMD.html" class="backlink-item">UFDG search via deep CMD</a></li>
-    <li class="backlink-item-wrap"><a href="./UFDG%20star%20formation%20histories.html" class="backlink-item">UFDG star formation histories</a></li>
-    <li class="backlink-item-wrap"><a href="./Variable%20stars%20as%20standard%20candles.html" class="backlink-item">Variable stars as standard candles</a></li>
-    <li class="backlink-item-wrap"><a href="./WDCS%20turn%20to%20blue%20and%20CIA.html" class="backlink-item">WDCS turn to blue and CIA</a></li>
-    <li class="backlink-item-wrap"><a href="./WDCS%20vs%20MSTO%20ages%20comparison.html" class="backlink-item">WDCS vs MSTO ages comparison</a></li>
-    <li class="backlink-item-wrap"><a href="./White%20dwarf%20cooling%20sequence%20on%20the%20CMD.html" class="backlink-item">White dwarf cooling sequence on the CMD</a></li>
-    <li class="backlink-item-wrap"><a href="./White%20dwarf%20cooling%20theory.html" class="backlink-item">White dwarf cooling theory</a></li>
-    <li class="backlink-item-wrap"><a href="./White%20dwarf%20overview.html" class="backlink-item">White dwarf overview</a></li>
-    <li class="backlink-item-wrap"><a href="./Yellow%20stragglers%20and%20sub-subgiants.html" class="backlink-item">Yellow stragglers and sub-subgiants</a></li>
   </ul>
 </div>
+

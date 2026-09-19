@@ -2,7 +2,6 @@
 layout: "default"
 title: "Photometric system conversion and color terms"
 ---
-{% raw %}
 magnitudes in two photometric systems cannot in general be related by a single constant offset. you need a **color term** because different filter throughputs sample the SED differently, and the correction depends on the source's spectral shape (e.g. its temperature). this is the core point of `obs6.pdf`.
 
 ## the conversion formula
@@ -50,12 +49,12 @@ cross-matching catalogs from different surveys without a color-term correction b
 
 ## see also
 
-- [Filter systems and bandpasses](./Filter%20systems%20and%20bandpasses.html)
-- [Magnitudes and photometric systems](./Magnitudes%20and%20photometric%20systems.html)
-- [Color indices](./Color%20indices.html)
-- [Pogson magnitudes and flux relation](./Pogson%20magnitudes%20and%20flux%20relation.html)
-- [Photometric standard stars](./Photometric%20standard%20stars.html)
-- [Photometric redshifts](./Photometric%20redshifts.html) — extreme version of the conversion problem
+- [Filter systems and bandpasses](Filter%20systems%20and%20bandpasses.html)
+- [Magnitudes and photometric systems](Magnitudes%20and%20photometric%20systems.html)
+- [Color indices](Color%20indices.html)
+- [Pogson magnitudes and flux relation](Pogson%20magnitudes%20and%20flux%20relation.html)
+- [Photometric standard stars](Photometric%20standard%20stars.html)
+- [Photometric redshifts](Photometric%20redshifts.html) — extreme version of the conversion problem
 
 ---
 
@@ -72,12 +71,12 @@ cross-matching catalogs from different surveys without a color-term correction b
 
 ![obs_rad-072.png](../../assets/images/obs_rad-072.png)
 *Mathematical proof that system differences depend on the integral of SED slope over passbands.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Filter%20systems%20and%20bandpasses.html" class="backlink-item">Filter systems and bandpasses</a></li>
+    <li class="backlink-item-wrap"><a href="Filter%20systems%20and%20bandpasses.html" class="backlink-item">Filter systems and bandpasses</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

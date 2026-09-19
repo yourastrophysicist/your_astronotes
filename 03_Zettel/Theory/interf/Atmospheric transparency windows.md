@@ -2,7 +2,6 @@
 layout: "default"
 title: "Atmospheric transparency windows"
 ---
-{% raw %}
 the atmosphere is **opaque** at most wavelengths. observing windows are the gaps between absorption features, set mainly by H$_2$O, O$_2$, CO$_2$, and O$_3$. understanding which wavelengths get through tells me whether I can do science from the ground or need a satellite.
 
 ## the windows
@@ -56,10 +55,10 @@ a transmission curve $T(\lambda)$ is the input to any exposure-time calculator. 
 ## see also
 
 - [Earth atmosphere for observations](../Earth%20atmosphere%20for%20observations.html)
-- [Atmospheric extinction](./Atmospheric%20extinction.html)
-- [Atmospheric layers](./Atmospheric%20layers.html)
+- [Atmospheric extinction](Atmospheric%20extinction.html)
+- [Atmospheric layers](Atmospheric%20layers.html)
 - [Sky brightness](../Sky%20brightness.html)
-- [Atmospheric transmission](./Atmospheric%20transmission.html) — a related deeper note
+- [Atmospheric transmission](Atmospheric%20transmission.html) — a related deeper note
 - [Filter systems and bandpasses](../Filter%20systems%20and%20bandpasses.html)
 
 ---
@@ -101,17 +100,17 @@ a transmission curve $T(\lambda)$ is the input to any exposure-time calculator. 
 
 ![obs_atm-24.png](../../../assets/images/obs_atm-24.png)
 *Telluric standard star observation strategy.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (7)</h4>
   <ul class="backlinks-list">
     <li class="backlink-item-wrap"><a href="../Atmospheric%20extinction.html" class="backlink-item">Atmospheric extinction</a></li>
-    <li class="backlink-item-wrap"><a href="./Atmospheric%20extinction.html" class="backlink-item">Atmospheric extinction</a></li>
     <li class="backlink-item-wrap"><a href="../Atmospheric%20layers.html" class="backlink-item">Atmospheric layers</a></li>
-    <li class="backlink-item-wrap"><a href="./Atmospheric%20layers.html" class="backlink-item">Atmospheric layers</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../Sky%20brightness.html" class="backlink-item">Sky brightness</a></li>
     <li class="backlink-item-wrap"><a href="../Survey%20resources%20for%20Obs%20Astro.html" class="backlink-item">Survey resources for Obs Astro</a></li>
+    <li class="backlink-item-wrap"><a href="Atmospheric%20extinction.html" class="backlink-item">Atmospheric extinction</a></li>
+    <li class="backlink-item-wrap"><a href="Atmospheric%20layers.html" class="backlink-item">Atmospheric layers</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

@@ -2,7 +2,6 @@
 layout: "default"
 title: "Quantum efficiency"
 ---
-{% raw %}
 The **quantum efficiency** (QE) of a CCD is the fraction of incident photons that are successfully **detected and converted to a measurable charge**:
 $$QE = \frac{\text{number of detected photons}}{\text{number of incident photons}}$$
 
@@ -20,7 +19,7 @@ For silicon, $\ell_{abs}$ depends strongly on energy:
 	at $E \sim 1~\text{keV}$: $\ell_{abs} \sim 1~\mu$m — absorbed in the active region
 	at $E \sim 10~\text{keV}$: $\ell_{abs} \sim 100~\mu$m — may pass through the depletion region without being absorbed
 
-![Screenshot 2026-04-07 at 01.51.24.png](../../assets/images/Screenshot 2026-04-07 at 01.51.24.png)
+![Screenshot 2026-04-07 at 01.51.24.png](../../assets/images/Screenshot%202026-04-07%20at%2001.51.24.png)
 <font color="#bfbfbf">Absorption length in silicon as a function of X-ray photon energy. At very low energies photons are absorbed in the dead layer; at high energies they may penetrate through the active depletion region.</font>
 
 ---
@@ -65,7 +64,7 @@ This gives a peaked curve with:
 **Absorption edges**: the cross section $\sigma_{ph}(E)$ has discontinuities at atomic edge energies
 	these show up as sharp features in the QE curve (e.g. Si K-edge at $1.84~\text{keV}$, O K-edge at $0.54~\text{keV}$)
 
-![Screenshot 2026-04-07 at 01.53.12.png](../../assets/images/Screenshot 2026-04-07 at 01.53.12.png)
+![Screenshot 2026-04-07 at 01.53.12.png](../../assets/images/Screenshot%202026-04-07%20at%2001.53.12.png)
 <font color="#bfbfbf">QE curve of an X-ray CCD. The low-energy cutoff is set by absorption in the optical blocking filter; the high-energy rolloff by finite depletion depth. Absorption edges of Si and O are visible.</font>
 
 ---
@@ -123,15 +122,15 @@ Effect on X-ray QE:
 
 ![xray_detector_p5_page.png](../../assets/images/xray_detector_p5_page.png)
 *X-ray CCD Quantum Efficiency curve: low-energy cutoff governed by optical blocking filter/dead layers, high-energy cutoff governed by silicon depletion depth ($d \sim 30-300\,\mu$m).*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./CCD%20basics.html" class="backlink-item">CCD basics</a></li>
-    <li class="backlink-item-wrap"><a href="./Charge-Coupled%20Device.html" class="backlink-item">Charge-Coupled Device</a></li>
-    <li class="backlink-item-wrap"><a href="./Effective%20Area.html" class="backlink-item">Effective Area</a></li>
+    <li class="backlink-item-wrap"><a href="CCD%20basics.html" class="backlink-item">CCD basics</a></li>
+    <li class="backlink-item-wrap"><a href="Charge-Coupled%20Device.html" class="backlink-item">Charge-Coupled Device</a></li>
+    <li class="backlink-item-wrap"><a href="Effective%20Area.html" class="backlink-item">Effective Area</a></li>
+    <li class="backlink-item-wrap"><a href="Luminosity%20and%20Flux%20for%20-Instrumentations.html" class="backlink-item">Luminosity and Flux for -Instrumentations</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Luminosity%20and%20Flux%20for%20-Instrumentations.html" class="backlink-item">Luminosity and Flux for -Instrumentations</a></li>
   </ul>
 </div>
+

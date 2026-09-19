@@ -2,10 +2,9 @@
 layout: "default"
 title: "Charge-Coupled Device"
 ---
-{% raw %}
 Detection systems are based on **semiconductors** or solid state materials
 	such as Silicon (Si), Germanium (Ge), Cadmium-Telluride (CdTe), or Cadmium-Zinc-Telluride (CdZnTe)
-		once the ionizing radiation generates an electron-hole pair,
+	\tonce the ionizing radiation generates an electron-hole pair,
 			its motion within an applied electric field creates the **detector electrical signal**
 
 ---
@@ -23,7 +22,7 @@ The band gap size defines the type of material:
 	**semiconductor**: $E_{gap} \geq 1~\text{eV}$, e.g. $E_{gap}(\text{Si}) = 1.26~\text{eV}$
 	**metal**: characterized by an **overlap** between valence and conduction bands
 
-![Screenshot 2026-04-07 at 01.41.09.png](../../assets/images/Screenshot 2026-04-07 at 01.41.09.png)
+![Screenshot 2026-04-07 at 01.41.09.png](../../assets/images/Screenshot%202026-04-07%20at%2001.41.09.png)
 
 
 Without sufficient energy to cross the band gap,
@@ -35,7 +34,7 @@ semiconductors can allow conductivity through:
 			leaving a vacancy (a **hole**) in the valence band
 				and generating an **electron-hole pair**
 
-![Screenshot 2026-04-07 at 01.47.23.png](../../assets/images/Screenshot 2026-04-07 at 01.47.23.png)
+![Screenshot 2026-04-07 at 01.47.23.png](../../assets/images/Screenshot%202026-04-07%20at%2001.47.23.png)
 
 ---
 ## Doping
@@ -69,7 +68,7 @@ If we introduce an element with **3 valence electrons** (acceptor):
 
 If we introduce an element with **5 valence electrons** (donor):
 	it forms 4 normal bonds but an **extra electron** is left over
-![Screenshot 2026-04-07 at 01.48.22.png](../../assets/images/Screenshot 2026-04-07 at 01.48.22.png)
+![Screenshot 2026-04-07 at 01.48.22.png](../../assets/images/Screenshot%202026-04-07%20at%2001.48.22.png)
 Note: extra electrons or extra holes do **not** make the materials charged,
 	they are all neutral
 		what happens is only that there are more electrons than those necessary to form bonds, or more holes
@@ -78,18 +77,18 @@ Note: extra electrons or extra holes do **not** make the materials charged,
 
 ## Subtopics
 
-- [The p-n junction](./The%20p-n%20junction.html)
-- [CCD readout](./CCD%20readout.html)
-- [Quantum efficiency](./Quantum%20efficiency.html)
-- [CCDs for X-rays](./CCDs%20for%20X-rays.html)
-{% endraw %}
+- [The p-n junction](The%20p-n%20junction.html)
+- [CCD readout](CCD%20readout.html)
+- [Quantum efficiency](Quantum%20efficiency.html)
+- [CCDs for X-rays](CCDs%20for%20X-rays.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./CCD%20basics.html" class="backlink-item">CCD basics</a></li>
-    <li class="backlink-item-wrap"><a href="./CCD%20readout%20chain.html" class="backlink-item">CCD readout chain</a></li>
+    <li class="backlink-item-wrap"><a href="CCD%20basics.html" class="backlink-item">CCD basics</a></li>
+    <li class="backlink-item-wrap"><a href="CCD%20readout%20chain.html" class="backlink-item">CCD readout chain</a></li>
+    <li class="backlink-item-wrap"><a href="Other%20detectors.html" class="backlink-item">Other detectors</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Other%20detectors.html" class="backlink-item">Other detectors</a></li>
   </ul>
 </div>
+

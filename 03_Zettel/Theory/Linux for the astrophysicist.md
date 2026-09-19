@@ -2,7 +2,6 @@
 layout: "default"
 title: "Linux for the astrophysicist"
 ---
-{% raw %}
 # Linux for the astrophysicist
 
 every astrophysics computing environment runs on Linux (or macOS, which is unix-like). production telescopes, supercomputer clusters, my laptop's terminal — same shell, same command set. fluency in bash is non-negotiable for research, and it underwrites Mapelli's chapter 1 of the course notes.
@@ -115,16 +114,16 @@ the exam happens at a real computer running Linux/macOS. when I write a python s
 
 ## see also
 
-- [Python language essentials](./Python%20language%20essentials.html)
-- [The conda environment](./The%20conda%20environment.html)
+- [Python language essentials](Python%20language%20essentials.html)
+- [The conda environment](The%20conda%20environment.html)
 - [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Python%20language%20essentials.html" class="backlink-item">Python language essentials</a></li>
+    <li class="backlink-item-wrap"><a href="The%20conda%20environment.html" class="backlink-item">The conda environment</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Python%20language%20essentials.html" class="backlink-item">Python language essentials</a></li>
-    <li class="backlink-item-wrap"><a href="./The%20conda%20environment.html" class="backlink-item">The conda environment</a></li>
   </ul>
 </div>
+

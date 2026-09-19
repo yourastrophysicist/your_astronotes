@@ -2,10 +2,9 @@
 layout: "default"
 title: "UV slope and IRX-beta relation"
 ---
-{% raw %}
 # UV slope and IRX-beta relation
 
-up: [Pablo_03_Star_formation_in_galaxies](../../02_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html) · [UV SFR tracer](./UV%20SFR%20tracer.html)
+up: [Pablo_03_Star_formation_in_galaxies](../../02_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html) · [UV SFR tracer](UV%20SFR%20tracer.html)
 
 ## the UV slope
 
@@ -43,10 +42,10 @@ at $z = 4$–$10$, rest-frame UV sits in HST/JWST bands, and the β-IRX relation
 
 ## connections
 
-- definition: [UV SFR tracer](./UV%20SFR%20tracer.html)
-- dust models underlying it: [Dust attenuation and extinction curves](./Dust%20attenuation%20and%20extinction%20curves.html)
-- IR partner: [IR SFR tracer](./IR%20SFR%20tracer.html)
-- cross-checks: [SFR tracer comparison](./SFR%20tracer%20comparison.html)
+- definition: [UV SFR tracer](UV%20SFR%20tracer.html)
+- dust models underlying it: [Dust attenuation and extinction curves](Dust%20attenuation%20and%20extinction%20curves.html)
+- IR partner: [IR SFR tracer](IR%20SFR%20tracer.html)
+- cross-checks: [SFR tracer comparison](SFR%20tracer%20comparison.html)
 
 ## key references
 
@@ -54,15 +53,14 @@ at $z = 4$–$10$, rest-frame UV sits in HST/JWST bands, and the β-IRX relation
 - Kong et al. 2004
 - Reddy et al. 2018
 - Casey et al. 2014 (dust SED review)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
+  <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Balmer%20decrement.html" class="backlink-item">Balmer decrement</a></li>
-    <li class="backlink-item-wrap"><a href="./Dust%20attenuation%20and%20extinction%20curves.html" class="backlink-item">Dust attenuation and extinction curves</a></li>
+    <li class="backlink-item-wrap"><a href="Balmer%20decrement.html" class="backlink-item">Balmer decrement</a></li>
+    <li class="backlink-item-wrap"><a href="Dust%20attenuation%20and%20extinction%20curves.html" class="backlink-item">Dust attenuation and extinction curves</a></li>
+    <li class="backlink-item-wrap"><a href="SFR%20tracer%20comparison.html" class="backlink-item">SFR tracer comparison</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html" class="backlink-item">Pablo_03_Star_formation_in_galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="./SFR%20tracer%20comparison.html" class="backlink-item">SFR tracer comparison</a></li>
   </ul>
 </div>
+

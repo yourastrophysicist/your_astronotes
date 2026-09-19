@@ -2,7 +2,6 @@
 layout: "default"
 title: "Kolmogorov turbulence"
 ---
-{% raw %}
 # Kolmogorov turbulence
 
 the universal model of turbulent fluid flow in the inertial range. derived by Andrey Kolmogorov in 1941 from a simple dimensional argument about how energy cascades from large to small scales. its key prediction — the **5/3 power law** of the velocity structure function — applies to atmospheric refractive-index fluctuations and underwrites every model of seeing, scintillation, and adaptive optics.
@@ -111,4 +110,3 @@ these scalings are extensively verified observationally. they tell us why IR int
 - [Fried parameter $r_0$](interf/Fried%20parameter%20%24r_0%24.html)
 - [Adaptive optics](interf/Adaptive%20optics.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

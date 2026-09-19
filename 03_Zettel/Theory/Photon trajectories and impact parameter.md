@@ -2,7 +2,6 @@
 layout: "default"
 title: "Photon trajectories and impact parameter"
 ---
-{% raw %}
 photon (null) geodesics in Schwarzschild are characterised by a single dimensionless parameter, the **impact parameter** $b = L/E$. determines whether a photon scatters, captures, or asymptotes to the photon sphere.
 
 ## the impact parameter
@@ -59,27 +58,27 @@ so a photon orbits $\sim 2$ times before escaping. this produces the **bright ri
 
 ## see also
 
-- [Schwarzschild metric](./Schwarzschild%20metric.html)
-- [Schwarzschild effective potential](./Schwarzschild%20effective%20potential.html)
-- [Photon sphere](./Photon%20sphere.html)
-- [Light deflection](./Light%20deflection.html)
-- [Effective potential approach](./Effective%20potential%20approach.html)
+- [Schwarzschild metric](Schwarzschild%20metric.html)
+- [Schwarzschild effective potential](Schwarzschild%20effective%20potential.html)
+- [Photon sphere](Photon%20sphere.html)
+- [Light deflection](Light%20deflection.html)
+- [Effective potential approach](Effective%20potential%20approach.html)
 - Q14 - photon trajectory and impact parameter
 - [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
 - [Ch 6 - Black Holes](../../02_Literature/Book/Baumann%20GR/Ch%206%20-%20Black%20Holes.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (9)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Effective%20potential%20approach.html" class="backlink-item">Effective potential approach</a></li>
+    <li class="backlink-item-wrap"><a href="Effective%20potential%20approach.html" class="backlink-item">Effective potential approach</a></li>
+    <li class="backlink-item-wrap"><a href="Gravitational%20lensing%20-%20intro.html" class="backlink-item">Gravitational lensing - intro</a></li>
+    <li class="backlink-item-wrap"><a href="Light%20deflection.html" class="backlink-item">Light deflection</a></li>
+    <li class="backlink-item-wrap"><a href="Perihelion%20precession.html" class="backlink-item">Perihelion precession</a></li>
+    <li class="backlink-item-wrap"><a href="Photon%20sphere.html" class="backlink-item">Photon sphere</a></li>
+    <li class="backlink-item-wrap"><a href="Schwarzschild%20effective%20potential.html" class="backlink-item">Schwarzschild effective potential</a></li>
+    <li class="backlink-item-wrap"><a href="Schwarzschild%20horizon.html" class="backlink-item">Schwarzschild horizon</a></li>
+    <li class="backlink-item-wrap"><a href="Schwarzschild%20metric.html" class="backlink-item">Schwarzschild metric</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Gravitational%20lensing%20-%20intro.html" class="backlink-item">Gravitational lensing - intro</a></li>
-    <li class="backlink-item-wrap"><a href="./Light%20deflection.html" class="backlink-item">Light deflection</a></li>
-    <li class="backlink-item-wrap"><a href="./Perihelion%20precession.html" class="backlink-item">Perihelion precession</a></li>
-    <li class="backlink-item-wrap"><a href="./Photon%20sphere.html" class="backlink-item">Photon sphere</a></li>
-    <li class="backlink-item-wrap"><a href="./Schwarzschild%20effective%20potential.html" class="backlink-item">Schwarzschild effective potential</a></li>
-    <li class="backlink-item-wrap"><a href="./Schwarzschild%20horizon.html" class="backlink-item">Schwarzschild horizon</a></li>
-    <li class="backlink-item-wrap"><a href="./Schwarzschild%20metric.html" class="backlink-item">Schwarzschild metric</a></li>
   </ul>
 </div>
+

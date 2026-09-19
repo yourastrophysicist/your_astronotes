@@ -2,7 +2,6 @@
 layout: "default"
 title: "Digitization quantization and timing in radio interferometry"
 ---
-{% raw %}
 # Digitization quantization and timing in radio interferometry
 
 after downconversion, the signal becomes a manageable intermediate-frequency voltage. BookAI then follows it through digitization, quantization, clocking, and delay compensation.
@@ -75,4 +74,3 @@ source: local study diagram generated from a sampled and quantized voltage model
 - [Two-element correlator](interf/Two-element%20correlator.html)
 - [Very Long Baseline Interferometry VLBI](interf/Very%20Long%20Baseline%20Interferometry%20VLBI.html)
 - [Radio interferometer architecture](interf/Radio%20interferometer%20architecture.html)
-{% endraw %}

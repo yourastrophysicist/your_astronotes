@@ -2,7 +2,6 @@
 layout: "default"
 title: "Hanbury Brown Twiss effect"
 ---
-{% raw %}
 # Hanbury Brown-Twiss effect
 
 the discovery that started intensity interferometry. **photons from a thermal source are bunched in time and across space**. the bunching is detectable as a correlation in the intensity fluctuations of two separated detectors looking at the same source.
@@ -59,7 +58,7 @@ when HBT first published, many physicists refused to believe the result. critics
 - the result implied that intensity (not amplitude) carried interferometric information, which seemed to violate quantum-mechanical principles
 - some suggested HBT was measuring a calibration artifact
 
-the controversy was resolved by careful follow-up experiments. by the 1960s, the effect was firmly established, and HBT's group built the [Narrabri stellar interferometer](./Narrabri%20stellar%20interferometer.html) to systematically apply it.
+the controversy was resolved by careful follow-up experiments. by the 1960s, the effect was firmly established, and HBT's group built the [Narrabri stellar interferometer](Narrabri%20stellar%20interferometer.html) to systematically apply it.
 
 the controversy is *still* useful pedagogy: it shows the difference between first- and second-order coherence, and how easy it is to confuse them.
 
@@ -75,25 +74,25 @@ this picture connects HBT to modern quantum optics, where photon-counting statis
 
 ## see also
 
-- [Intensity interferometry concept](./Intensity%20interferometry%20concept.html)
-- [Narrabri stellar interferometer](./Narrabri%20stellar%20interferometer.html)
-- [Why intensity interferometry escapes atmospheric phase](./Why%20intensity%20interferometry%20escapes%20atmospheric%20phase.html)
-- [Photon noise and statistics](./Photon%20noise%20and%20statistics.html)
+- [Intensity interferometry concept](Intensity%20interferometry%20concept.html)
+- [Narrabri stellar interferometer](Narrabri%20stellar%20interferometer.html)
+- [Why intensity interferometry escapes atmospheric phase](Why%20intensity%20interferometry%20escapes%20atmospheric%20phase.html)
+- [Photon noise and statistics](Photon%20noise%20and%20statistics.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (10)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Intensity%20interferometry%20concept.html" class="backlink-item">Intensity interferometry concept</a></li>
     <li class="backlink-item-wrap"><a href="../Intensity%20interferometry%20concept.html" class="backlink-item">Intensity interferometry concept</a></li>
-    <li class="backlink-item-wrap"><a href="./Narrabri%20stellar%20interferometer.html" class="backlink-item">Narrabri stellar interferometer</a></li>
     <li class="backlink-item-wrap"><a href="../Narrabri%20stellar%20interferometer.html" class="backlink-item">Narrabri stellar interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="./Photon%20noise%20and%20statistics.html" class="backlink-item">Photon noise and statistics</a></li>
     <li class="backlink-item-wrap"><a href="../Sensitivity%20and%20modern%20revival.html" class="backlink-item">Sensitivity and modern revival</a></li>
-    <li class="backlink-item-wrap"><a href="./Sensitivity%20and%20modern%20revival.html" class="backlink-item">Sensitivity and modern revival</a></li>
-    <li class="backlink-item-wrap"><a href="./Why%20intensity%20interferometry%20escapes%20atmospheric%20phase.html" class="backlink-item">Why intensity interferometry escapes atmospheric phase</a></li>
     <li class="backlink-item-wrap"><a href="../Why%20intensity%20interferometry%20escapes%20atmospheric%20phase.html" class="backlink-item">Why intensity interferometry escapes atmospheric phase</a></li>
+    <li class="backlink-item-wrap"><a href="Intensity%20interferometry%20concept.html" class="backlink-item">Intensity interferometry concept</a></li>
+    <li class="backlink-item-wrap"><a href="Narrabri%20stellar%20interferometer.html" class="backlink-item">Narrabri stellar interferometer</a></li>
+    <li class="backlink-item-wrap"><a href="Photon%20noise%20and%20statistics.html" class="backlink-item">Photon noise and statistics</a></li>
+    <li class="backlink-item-wrap"><a href="Sensitivity%20and%20modern%20revival.html" class="backlink-item">Sensitivity and modern revival</a></li>
+    <li class="backlink-item-wrap"><a href="Why%20intensity%20interferometry%20escapes%20atmospheric%20phase.html" class="backlink-item">Why intensity interferometry escapes atmospheric phase</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

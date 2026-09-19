@@ -2,7 +2,6 @@
 layout: "default"
 title: "Bartolo_Exam_Exercises_and_Applications_Guide"
 ---
-{% raw %}
 # Bartolo Exam Exercises and Applications Guide
 
 *Complete solutions and derivations for the 31 exercises prepared by Prof. Nicola Bartolo*  
@@ -628,12 +627,11 @@ Verify that $\zeta$ is gauge-invariant, and derive the Poisson-like equation for
    Using $\rho_0' = -3\mathcal{H}(\rho_0 + p_0)$:
    $$\nabla^2\Phi = 4\pi G a^2 \left[ \delta\rho + \rho_0' v_\parallel \right] = 4\pi G a^2 \epsilon_m$$
    This is the exact relativistic, gauge-invariant Poisson equation.
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
+  <h4 class="backlinks-title">Linked References (1)</h4>
   <ul class="backlinks-list">
     <li class="backlink-item-wrap"><a href="../../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html" class="backlink-item">Cosmology_of_the_Early_Universe_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Course_Overview_and_Syllabus.html" class="backlink-item">Course_Overview_and_Syllabus</a></li>
   </ul>
 </div>
+

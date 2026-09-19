@@ -1,12 +1,8 @@
 ---
 layout: "default"
 title: "Two-element correlator"
-type: "zettel"
-created: "2026-08-04"
-moc: ""
 tags: ""
 ---
-{% raw %}
 > The correlator combines voltage signals from two antennas and averages them to measure the complex visibility of the source.
 
 ---
@@ -45,4 +41,3 @@ The correlator is the computational heart of any radio array. Modern instruments
 
 * parent moc: [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
 * related zettels: [Radio interferometer architecture](interf/Radio%20interferometer%20architecture.html), [Connected element interferometer](interf/Connected%20element%20interferometer.html), [Very Long Baseline Interferometry VLBI](interf/Very%20Long%20Baseline%20Interferometry%20VLBI.html), [Downconversion of signals in radio interferometers](interf/Downconversion%20of%20signals%20in%20radio%20interferometers.html)
-{% endraw %}

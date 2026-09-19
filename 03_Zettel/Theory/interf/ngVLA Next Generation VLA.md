@@ -2,7 +2,6 @@
 layout: "default"
 title: "ngVLA Next Generation VLA"
 ---
-{% raw %}
 # ngVLA (Next Generation VLA)
 
 NRAO's mid-frequency successor to the JVLA. ~263 antennas across the US Southwest, with VLBI links extending baselines to 9000 km. complementary to SKA at higher frequencies. planned for 2030s.
@@ -109,18 +108,18 @@ a transformative era for radio astronomy.
 
 ## see also
 
-- [Major radio interferometers](./Major%20radio%20interferometers.html)
-- [The Square Kilometre Array SKA](./The%20Square%20Kilometre%20Array%20SKA.html)
-- [Very Long Baseline Interferometry VLBI](./Very%20Long%20Baseline%20Interferometry%20VLBI.html)
+- [Major radio interferometers](Major%20radio%20interferometers.html)
+- [The Square Kilometre Array SKA](The%20Square%20Kilometre%20Array%20SKA.html)
+- [Very Long Baseline Interferometry VLBI](Very%20Long%20Baseline%20Interferometry%20VLBI.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Lunar%20interferometry%20concepts.html" class="backlink-item">Lunar interferometry concepts</a></li>
     <li class="backlink-item-wrap"><a href="../Lunar%20interferometry%20concepts.html" class="backlink-item">Lunar interferometry concepts</a></li>
-    <li class="backlink-item-wrap"><a href="./The%20Square%20Kilometre%20Array%20SKA.html" class="backlink-item">The Square Kilometre Array SKA</a></li>
+    <li class="backlink-item-wrap"><a href="Lunar%20interferometry%20concepts.html" class="backlink-item">Lunar interferometry concepts</a></li>
+    <li class="backlink-item-wrap"><a href="The%20Square%20Kilometre%20Array%20SKA.html" class="backlink-item">The Square Kilometre Array SKA</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

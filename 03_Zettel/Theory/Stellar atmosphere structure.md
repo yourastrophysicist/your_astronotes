@@ -2,7 +2,6 @@
 layout: "default"
 title: "Stellar atmosphere structure"
 ---
-{% raw %}
 the **stellar atmosphere** is the thin layer where photons are emitted. its $T(\tau)$ profile sets the spectrum. understanding the standard structure (photosphere $\to$ chromosphere $\to$ transition $\to$ corona) gives essential context for any line-formation problem.
 
 ## the layers, from deep to shallow
@@ -67,16 +66,16 @@ other stars are point sources, but Sun-as-a-star spectroscopy + interferometric 
 
 ## see also
 
-- [Equation of radiative transfer](./Equation%20of%20radiative%20transfer.html)
-- [Optical depth](./Optical%20depth.html)
-- [Source function](./Source%20function.html)
-- [Eddington-Barbier approximation](./Eddington-Barbier%20approximation.html)
-- [Local thermodynamic equilibrium LTE](./Local%20thermodynamic%20equilibrium%20LTE.html)
-- [Limb darkening](./Limb%20darkening.html)
-- [Continuum opacity sources](./Continuum%20opacity%20sources.html)
-- [Stellar structure equations](./Stellar%20structure%20equations.html)
-- [Stellar populations I II III](./Stellar%20populations%20I%20II%20III.html)
-- [Stellar evolution timescales](./Stellar%20evolution%20timescales.html)
+- [Equation of radiative transfer](Equation%20of%20radiative%20transfer.html)
+- [Optical depth](Optical%20depth.html)
+- [Source function](Source%20function.html)
+- [Eddington-Barbier approximation](Eddington-Barbier%20approximation.html)
+- [Local thermodynamic equilibrium LTE](Local%20thermodynamic%20equilibrium%20LTE.html)
+- [Limb darkening](Limb%20darkening.html)
+- [Continuum opacity sources](Continuum%20opacity%20sources.html)
+- [Stellar structure equations](Stellar%20structure%20equations.html)
+- [Stellar populations I II III](Stellar%20populations%20I%20II%20III.html)
+- [Stellar evolution timescales](Stellar%20evolution%20timescales.html)
 
 ---
 
@@ -172,29 +171,29 @@ The following slides from Prof. Antonino Milone's lecture series provide the dir
 
 ![Lecture07_p5-05.png](../../assets/images/Lecture07_p5-05.png)
 *Figure P07-29: Lecture07_p5-05.png — Observational data, CMD morphology, and diagnostics from Lecture 07 — Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (19)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
+    <li class="backlink-item-wrap"><a href="Atmospheric%20parameters%20Teff%20log%20g%20feh%20vmicro.html" class="backlink-item">Atmospheric parameters Teff log g feh vmicro</a></li>
+    <li class="backlink-item-wrap"><a href="Collisional%20pressure%20broadening.html" class="backlink-item">Collisional pressure broadening</a></li>
+    <li class="backlink-item-wrap"><a href="Continuum%20opacity%20sources.html" class="backlink-item">Continuum opacity sources</a></li>
+    <li class="backlink-item-wrap"><a href="Curve%20of%20growth%20abundance%20analysis.html" class="backlink-item">Curve of growth abundance analysis</a></li>
+    <li class="backlink-item-wrap"><a href="Eddington-Barbier%20approximation.html" class="backlink-item">Eddington-Barbier approximation</a></li>
+    <li class="backlink-item-wrap"><a href="Equation%20of%20radiative%20transfer.html" class="backlink-item">Equation of radiative transfer</a></li>
+    <li class="backlink-item-wrap"><a href="Helium%20spread%20in%20GCs.html" class="backlink-item">Helium spread in GCs</a></li>
+    <li class="backlink-item-wrap"><a href="Limb%20darkening.html" class="backlink-item">Limb darkening</a></li>
+    <li class="backlink-item-wrap"><a href="Local%20thermodynamic%20equilibrium%20LTE.html" class="backlink-item">Local thermodynamic equilibrium LTE</a></li>
+    <li class="backlink-item-wrap"><a href="Optical%20depth.html" class="backlink-item">Optical depth</a></li>
+    <li class="backlink-item-wrap"><a href="Photometric%20chromosome%20maps.html" class="backlink-item">Photometric chromosome maps</a></li>
+    <li class="backlink-item-wrap"><a href="Source%20function.html" class="backlink-item">Source function</a></li>
+    <li class="backlink-item-wrap"><a href="Spectroscopic%20determination%20of%20log%20g.html" class="backlink-item">Spectroscopic determination of log g</a></li>
+    <li class="backlink-item-wrap"><a href="Stark%20broadening.html" class="backlink-item">Stark broadening</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20rotation%20v%20sini.html" class="backlink-item">Stellar rotation v sini</a></li>
+    <li class="backlink-item-wrap"><a href="Thermal%20continuum%20from%20stellar%20photosphere.html" class="backlink-item">Thermal continuum from stellar photosphere</a></li>
     <li class="backlink-item-wrap"><a href="interf/Atmospheric%20parameters%20Teff%20log%20g%20feh%20vmicro.html" class="backlink-item">Atmospheric parameters Teff log g feh vmicro</a></li>
-    <li class="backlink-item-wrap"><a href="./Atmospheric%20parameters%20Teff%20log%20g%20feh%20vmicro.html" class="backlink-item">Atmospheric parameters Teff log g feh vmicro</a></li>
-    <li class="backlink-item-wrap"><a href="./Collisional%20pressure%20broadening.html" class="backlink-item">Collisional pressure broadening</a></li>
-    <li class="backlink-item-wrap"><a href="./Continuum%20opacity%20sources.html" class="backlink-item">Continuum opacity sources</a></li>
-    <li class="backlink-item-wrap"><a href="./Curve%20of%20growth%20abundance%20analysis.html" class="backlink-item">Curve of growth abundance analysis</a></li>
-    <li class="backlink-item-wrap"><a href="./Eddington-Barbier%20approximation.html" class="backlink-item">Eddington-Barbier approximation</a></li>
-    <li class="backlink-item-wrap"><a href="./Equation%20of%20radiative%20transfer.html" class="backlink-item">Equation of radiative transfer</a></li>
-    <li class="backlink-item-wrap"><a href="./Helium%20spread%20in%20GCs.html" class="backlink-item">Helium spread in GCs</a></li>
-    <li class="backlink-item-wrap"><a href="./Limb%20darkening.html" class="backlink-item">Limb darkening</a></li>
-    <li class="backlink-item-wrap"><a href="./Local%20thermodynamic%20equilibrium%20LTE.html" class="backlink-item">Local thermodynamic equilibrium LTE</a></li>
-    <li class="backlink-item-wrap"><a href="./Optical%20depth.html" class="backlink-item">Optical depth</a></li>
-    <li class="backlink-item-wrap"><a href="./Photometric%20chromosome%20maps.html" class="backlink-item">Photometric chromosome maps</a></li>
-    <li class="backlink-item-wrap"><a href="./Source%20function.html" class="backlink-item">Source function</a></li>
-    <li class="backlink-item-wrap"><a href="./Spectroscopic%20determination%20of%20log%20g.html" class="backlink-item">Spectroscopic determination of log g</a></li>
-    <li class="backlink-item-wrap"><a href="./Stark%20broadening.html" class="backlink-item">Stark broadening</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20rotation%20v%20sini.html" class="backlink-item">Stellar rotation v sini</a></li>
+    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Thermal%20continuum%20from%20stellar%20photosphere.html" class="backlink-item">Thermal continuum from stellar photosphere</a></li>
   </ul>
 </div>
+

@@ -2,11 +2,10 @@
 layout: "default"
 title: "Hint - TODO 4.2 RK2 Midpoint Integrator"
 ---
-{% raw %}
 # Hint - TODO 4.2 RK2 Midpoint Integrator
 
 **Target TODO**: TODO 4.2 in Module_1_Random_Sampling_and_Monte_Carlo  
-**Related Zettels**: [Runge-Kutta 2 midpoint method](./Runge-Kutta%202%20midpoint%20method.html)
+**Related Zettels**: [Runge-Kutta 2 midpoint method](Runge-Kutta%202%20midpoint%20method.html)
 
 ---
 
@@ -28,4 +27,3 @@ a_mid = compute_accelerations(r_mid, m)
 r_next = r + h * v_mid
 v_next = v + h * a_mid
 ```
-{% endraw %}

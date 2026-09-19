@@ -2,7 +2,6 @@
 layout: "default"
 title: "01_Linux_Containers_and_Docker_Architecture"
 ---
-{% raw %}
 # Lesson 01 – Linux Containers and Docker Architecture
 
 *Computational Astrophysics, Prof. Tiziano Zingales*  
@@ -287,16 +286,12 @@ To combine the container's isolated software stack with modern code editing tool
 - [02_Version_Control_with_Git_and_GitLab](./02_Version_Control_with_Git_and_GitLab.html)
 - [03_Modular_Python_Software_Architecture_and_Packaging](./03_Modular_Python_Software_Architecture_and_Packaging.html)
 - [13_CloudVeneto_HPC_Infrastructure_and_OpenStack_Deployment](./13_CloudVeneto_HPC_Infrastructure_and_OpenStack_Deployment.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
+  <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./00_Course_Overview_and_Computational_Laboratories.html" class="backlink-item">00_Course_Overview_and_Computational_Laboratories</a></li>
-    <li class="backlink-item-wrap"><a href="./02_Version_Control_with_Git_and_GitLab.html" class="backlink-item">02_Version_Control_with_Git_and_GitLab</a></li>
-    <li class="backlink-item-wrap"><a href="./03_Modular_Python_Software_Architecture_and_Packaging.html" class="backlink-item">03_Modular_Python_Software_Architecture_and_Packaging</a></li>
-    <li class="backlink-item-wrap"><a href="./13_CloudVeneto_HPC_Infrastructure_and_OpenStack_Deployment.html" class="backlink-item">13_CloudVeneto_HPC_Infrastructure_and_OpenStack_Deployment</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Computational/Linux%20containers%20and%20Docker%20architecture%20in%20astrophysics.html" class="backlink-item">Linux containers and Docker architecture in astrophysics</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

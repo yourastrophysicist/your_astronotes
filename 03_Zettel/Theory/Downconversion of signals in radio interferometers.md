@@ -2,7 +2,6 @@
 layout: "default"
 title: "Downconversion of signals in radio interferometers"
 ---
-{% raw %}
 # Downconversion of signals in radio interferometers
 
 BookAI gives downconversion its own chapter because it is the step that makes radio interferometry technically possible. the sky signal arrives at high radio frequency, but the electronics prefer a lower intermediate frequency.
@@ -80,4 +79,3 @@ source: local study diagram generated from the heterodyne identity.
 - [Radio interferometer architecture](interf/Radio%20interferometer%20architecture.html)
 - [Two-element correlator](interf/Two-element%20correlator.html)
 - [Digitization quantization and timing in radio interferometry](interf/Digitization%20quantization%20and%20timing%20in%20radio%20interferometry.html)
-{% endraw %}

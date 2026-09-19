@@ -2,7 +2,6 @@
 layout: "default"
 title: "Part5_GR_Cosmological_Perturbation_Theory"
 ---
-{% raw %}
 # Part 5 - Relativistic Cosmological Perturbation Theory
 
 *Lectures 28 to 30 notes synthesis - Prof. Nicola Bartolo*  
@@ -146,17 +145,14 @@ $\zeta$ is **strictly conserved on super-horizon scales**, regardless of how the
 * Previous module: [Part4_Advanced_Formalisms_and_Non_Gaussianity](./Part4_Advanced_Formalisms_and_Non_Gaussianity.html)
 * Next module: [Part6_Reheating_Baryogenesis_and_Dark_Matter](./Part6_Reheating_Baryogenesis_and_Dark_Matter.html)
 * Atlas: [Cosmology_of_the_Early_Universe_MOC](../../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
+  <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Cosmological%20perturbation%20theory%20in%20General%20Relativity.html" class="backlink-item">Cosmological perturbation theory in General Relativity</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html" class="backlink-item">Cosmology_of_the_Early_Universe_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Course_Overview_and_Syllabus.html" class="backlink-item">Course_Overview_and_Syllabus</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Gauge%20transformations%20and%20Bardeen%20potentials.html" class="backlink-item">Gauge transformations and Bardeen potentials</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Gauge-invariant%20density%20perturbation%20and%20relativistic%20Poisson%20equation.html" class="backlink-item">Gauge-invariant density perturbation and relativistic Poisson equation</a></li>
-    <li class="backlink-item-wrap"><a href="./Part4_Advanced_Formalisms_and_Non_Gaussianity.html" class="backlink-item">Part4_Advanced_Formalisms_and_Non_Gaussianity</a></li>
-    <li class="backlink-item-wrap"><a href="./Part6_Reheating_Baryogenesis_and_Dark_Matter.html" class="backlink-item">Part6_Reheating_Baryogenesis_and_Dark_Matter</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html" class="backlink-item">Cosmology_of_the_Early_Universe_MOC</a></li>
   </ul>
 </div>
+

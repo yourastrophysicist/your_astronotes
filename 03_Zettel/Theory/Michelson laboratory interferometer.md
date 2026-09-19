@@ -2,7 +2,6 @@
 layout: "default"
 title: "Michelson laboratory interferometer"
 ---
-{% raw %}
 # Michelson laboratory interferometer
 
 the original amplitude-division interferometer, invented by Albert Michelson in the 1880s. **a beam splitter, two mirrors, and a detector**. one of the most influential instruments in the history of physics: it disproved the luminiferous aether (Michelson-Morley 1887), defined the metre for decades, and is the architectural basis of LIGO.
@@ -109,10 +108,9 @@ both are called "Michelson interferometer" and both share the inventor, but they
 
 ## see also
 
-- [Amplitude-division interferometers](./Amplitude-division%20interferometers.html)
+- [Amplitude-division interferometers](Amplitude-division%20interferometers.html)
 - [Beam splitter physics](interf/Beam%20splitter%20physics.html)
 - [Mach-Zehnder interferometer](interf/Mach-Zehnder%20interferometer.html)
 - [Michelson stellar interferometer](interf/Michelson%20stellar%20interferometer.html)
 - [Optical path difference OPD](interf/Optical%20path%20difference%20OPD.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

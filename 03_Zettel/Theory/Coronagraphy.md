@@ -2,7 +2,6 @@
 layout: "default"
 title: "Coronagraphy"
 ---
-{% raw %}
 # Coronagraphy
 
 a complement to nulling interferometry. instead of using *destructive interference* to suppress the central source, **block** the starlight before it reaches the detector with a physical mask. invented by Bernard Lyot (1939) for solar eclipse imaging.
@@ -121,4 +120,3 @@ modern instruments (SPHERE, MagAO-X) often combine both: a coronagraph at the fo
 - [Apodization](interf/Apodization.html)
 - [Adaptive optics](interf/Adaptive%20optics.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

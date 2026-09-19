@@ -2,7 +2,6 @@
 layout: "default"
 title: "Bianchi identities"
 ---
-{% raw %}
 the **Bianchi identities** are differential constraints on the Riemann tensor that follow automatically from its definition. the **second Bianchi identity** is the source of conservation laws in GR; without it, Einstein's equation would not be consistent.
 
 ## the first Bianchi identity (algebraic, cyclic)
@@ -10,7 +9,7 @@ the **Bianchi identities** are differential constraints on the Riemann tensor th
 cyclic over the last three indices:
 $$R_{\rho\sigma\mu\nu} + R_{\rho\mu\nu\sigma} + R_{\rho\nu\sigma\mu} = 0$$
 
-equivalently $R_{\rho[\sigma\mu\nu]} = 0$. this is one of the four symmetries of Riemann (see [Riemann tensor symmetries](./Riemann%20tensor%20symmetries.html)).
+equivalently $R_{\rho[\sigma\mu\nu]} = 0$. this is one of the four symmetries of Riemann (see [Riemann tensor symmetries](Riemann%20tensor%20symmetries.html)).
 
 it's algebraic: it relates Riemann components at the same point. it's a consequence of torsion-free (i.e. $\Gamma^\rho{}_{\mu\nu} = \Gamma^\rho{}_{\nu\mu}$).
 
@@ -57,12 +56,12 @@ physically: they encode the **diffeomorphism invariance** of the theory. coordin
 
 ## see also
 
-- [Riemann tensor](./Riemann%20tensor.html)
-- [Riemann tensor symmetries](./Riemann%20tensor%20symmetries.html)
-- [Ricci tensor and scalar](./Ricci%20tensor%20and%20scalar.html)
-- [Einstein tensor and Bianchi](./Einstein%20tensor%20and%20Bianchi.html)
-- [Einstein equations](./Einstein%20equations.html)
-- [Stress-energy tensor](./Stress-energy%20tensor.html)
+- [Riemann tensor](Riemann%20tensor.html)
+- [Riemann tensor symmetries](Riemann%20tensor%20symmetries.html)
+- [Ricci tensor and scalar](Ricci%20tensor%20and%20scalar.html)
+- [Einstein tensor and Bianchi](Einstein%20tensor%20and%20Bianchi.html)
+- [Einstein equations](Einstein%20equations.html)
+- [Stress-energy tensor](Stress-energy%20tensor.html)
 - [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
 - [Ch 4 - Spacetime Curvature](../../02_Literature/Book/Baumann%20GR/Ch%204%20-%20Spacetime%20Curvature.html)
 - [Ch 5 - The Einstein Equation](../../02_Literature/Book/Baumann%20GR/Ch%205%20-%20The%20Einstein%20Equation.html)
@@ -73,17 +72,16 @@ physically: they encode the **diffeomorphism invariance** of the theory. coordin
 
 ![gr_q08_solution.png](../../assets/images/gr_q08_solution.png)
 *Question 8 Oral Exam Model Solution: Commutator of covariant derivatives $[\nabla_\mu, \nabla_\nu] W^{\mu\nu}$, Ricci identity for higher-rank tensors, and contraction leading to the divergence-free Einstein tensor $\nabla_\mu G^{\mu\nu} = 0$.*
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
+  <h4 class="backlinks-title">Linked References (6)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Book/Baumann%20GR/Ch%204%20-%20Spacetime%20Curvature.html" class="backlink-item">Ch 4 - Spacetime Curvature</a></li>
-    <li class="backlink-item-wrap"><a href="./Einstein%20equations.html" class="backlink-item">Einstein equations</a></li>
-    <li class="backlink-item-wrap"><a href="./Einstein%20tensor%20and%20Bianchi.html" class="backlink-item">Einstein tensor and Bianchi</a></li>
+    <li class="backlink-item-wrap"><a href="Einstein%20equations.html" class="backlink-item">Einstein equations</a></li>
+    <li class="backlink-item-wrap"><a href="Einstein%20tensor%20and%20Bianchi.html" class="backlink-item">Einstein tensor and Bianchi</a></li>
+    <li class="backlink-item-wrap"><a href="Ricci%20tensor%20and%20scalar.html" class="backlink-item">Ricci tensor and scalar</a></li>
+    <li class="backlink-item-wrap"><a href="Riemann%20tensor%20symmetries.html" class="backlink-item">Riemann tensor symmetries</a></li>
+    <li class="backlink-item-wrap"><a href="Riemann%20tensor.html" class="backlink-item">Riemann tensor</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Ricci%20tensor%20and%20scalar.html" class="backlink-item">Ricci tensor and scalar</a></li>
-    <li class="backlink-item-wrap"><a href="./Riemann%20tensor.html" class="backlink-item">Riemann tensor</a></li>
-    <li class="backlink-item-wrap"><a href="./Riemann%20tensor%20symmetries.html" class="backlink-item">Riemann tensor symmetries</a></li>
   </ul>
 </div>
+

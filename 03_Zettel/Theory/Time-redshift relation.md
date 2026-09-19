@@ -2,10 +2,9 @@
 layout: "default"
 title: "Time-redshift relation"
 ---
-{% raw %}
 # time-redshift relation
 
-up: [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html) · [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html) · [Cosmological redshift](./Cosmological%20redshift.html)
+up: [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html) · [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html) · [Cosmological redshift](Cosmological%20redshift.html)
 
 ## derivation from the scale factor
 
@@ -47,17 +46,17 @@ $$t_0 \approx 13.8 \text{ Gyr}$$
 
 ## connections
 
-- distances: [Radial comoving distance](./Radial%20comoving%20distance.html), [Cosmological distances](./Cosmological%20distances.html)
-- background: [Friedmann equations](./Friedmann%20equations.html), [GR Friedmann with Lambda](./GR%20Friedmann%20with%20Lambda.html)
-- application: [Cosmology calculator - how to use H0 Omega_m Omega_Lambda to get dL dA t_lookback](./Cosmology%20calculator%20-%20how%20to%20use%20H0%20Omega_m%20Omega_Lambda%20to%20get%20dL%20dA%20t_lookback.html)
-{% endraw %}
+- distances: [Radial comoving distance](Radial%20comoving%20distance.html), [Cosmological distances](Cosmological%20distances.html)
+- background: [Friedmann equations](Friedmann%20equations.html), [GR Friedmann with Lambda](GR%20Friedmann%20with%20Lambda.html)
+- application: [Cosmology calculator - how to use H0 Omega_m Omega_Lambda to get dL dA t_lookback](Cosmology%20calculator%20-%20how%20to%20use%20H0%20Omega_m%20Omega_Lambda%20to%20get%20dL%20dA%20t_lookback.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Cosmic%20look-back%20time.html" class="backlink-item">Cosmic look-back time</a></li>
-    <li class="backlink-item-wrap"><a href="./Cosmological%20redshift.html" class="backlink-item">Cosmological redshift</a></li>
+    <li class="backlink-item-wrap"><a href="Cosmic%20look-back%20time.html" class="backlink-item">Cosmic look-back time</a></li>
+    <li class="backlink-item-wrap"><a href="Cosmological%20redshift.html" class="backlink-item">Cosmological redshift</a></li>
+    <li class="backlink-item-wrap"><a href="Radial%20comoving%20distance.html" class="backlink-item">Radial comoving distance</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Radial%20comoving%20distance.html" class="backlink-item">Radial comoving distance</a></li>
   </ul>
 </div>
+

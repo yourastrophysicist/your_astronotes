@@ -2,7 +2,6 @@
 layout: "default"
 title: "Stellar nucleosynthesis"
 ---
-{% raw %}
 stars are the nuclear crucibles of the cosmos. through thermonuclear fusion in their searing cores, stars synthesize heavy elements from primordial hydrogen and helium, releasing the binding energy that powers stellar luminosity and halts gravitational collapse.
 
 ![stellar-25.png](../../assets/images/stellar-25.png)
@@ -105,7 +104,7 @@ in stars with $M \ge 8 M_\odot$, the carbon-oxygen core contracts to trigger suc
 - **Silicon burning ($T \sim 3-4 \times 10^9$ K)**: nuclear statistical equilibrium (photodisintegration rearrangement) building elements up to the iron peak (${}^{56}\text{Ni} \to {}^{56}\text{Co} \to {}^{56}\text{Fe}$).
 
 ### the iron endpoint:
-${}^{56}\text{Fe}$ has the maximum binding energy per nucleon ($pprox 8.8$ MeV/nucleon). nuclear fusion beyond iron is **endothermic** (absorbs energy rather than releasing it). when an iron core forms, the star runs out of nuclear fuel, precipitating catastrophic gravitational collapse.
+${}^{56}\text{Fe}$ has the maximum binding energy per nucleon ($\approx 8.8$ MeV/nucleon). nuclear fusion beyond iron is **endothermic** (absorbs energy rather than releasing it). when an iron core forms, the star runs out of nuclear fuel, precipitating catastrophic gravitational collapse.
 
 ![stellar-31.png](../../assets/images/stellar-31.png)
 
@@ -114,23 +113,23 @@ ${}^{56}\text{Fe}$ has the maximum binding energy per nucleon ($pprox 8.8$ MeV/
 ## see also
 
 - [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Stellar structure equations](./Stellar%20structure%20equations.html)
-- [Stellar evolution timescales](./Stellar%20evolution%20timescales.html)
-- [Solar evolution and final stages](./Solar%20evolution%20and%20final%20stages.html)
-- [Supernovae and compact remnants](./Supernovae%20and%20compact%20remnants.html)
-- [BBN_overview](./BBN_overview.html)
-{% endraw %}
+- [Stellar structure equations](Stellar%20structure%20equations.html)
+- [Stellar evolution timescales](Stellar%20evolution%20timescales.html)
+- [Solar evolution and final stages](Solar%20evolution%20and%20final%20stages.html)
+- [Supernovae and compact remnants](Supernovae%20and%20compact%20remnants.html)
+- [BBN_overview](BBN_overview.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (8)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Alpha-Fe%20enhancement.html" class="backlink-item">Alpha-Fe enhancement</a></li>
-    <li class="backlink-item-wrap"><a href="./BBN_overview.html" class="backlink-item">BBN_overview</a></li>
+    <li class="backlink-item-wrap"><a href="Alpha-Fe%20enhancement.html" class="backlink-item">Alpha-Fe enhancement</a></li>
+    <li class="backlink-item-wrap"><a href="BBN_overview.html" class="backlink-item">BBN_overview</a></li>
+    <li class="backlink-item-wrap"><a href="Radiative%20transport.html" class="backlink-item">Radiative transport</a></li>
+    <li class="backlink-item-wrap"><a href="Solar%20evolution%20and%20final%20stages.html" class="backlink-item">Solar evolution and final stages</a></li>
+    <li class="backlink-item-wrap"><a href="Spectral%20energy%20distributions.html" class="backlink-item">Spectral energy distributions</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20structure%20equations.html" class="backlink-item">Stellar structure equations</a></li>
+    <li class="backlink-item-wrap"><a href="Supernovae%20and%20compact%20remnants.html" class="backlink-item">Supernovae and compact remnants</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Radiative%20transport.html" class="backlink-item">Radiative transport</a></li>
-    <li class="backlink-item-wrap"><a href="./Solar%20evolution%20and%20final%20stages.html" class="backlink-item">Solar evolution and final stages</a></li>
-    <li class="backlink-item-wrap"><a href="./Spectral%20energy%20distributions.html" class="backlink-item">Spectral energy distributions</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20structure%20equations.html" class="backlink-item">Stellar structure equations</a></li>
-    <li class="backlink-item-wrap"><a href="./Supernovae%20and%20compact%20remnants.html" class="backlink-item">Supernovae and compact remnants</a></li>
   </ul>
 </div>
+

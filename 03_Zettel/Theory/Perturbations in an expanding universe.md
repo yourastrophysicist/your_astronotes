@@ -2,8 +2,7 @@
 layout: "default"
 title: "Perturbations in an expanding universe"
 ---
-{% raw %}
-**linear perturbation theory** in an expanding background: how small density inhomogeneities evolve under gravity in FLRW cosmology. companion: [Linear evolution of perturbations in expanding universe](./Linear%20evolution%20of%20perturbations%20in%20expanding%20universe.html) for the existing detailed treatment.
+**linear perturbation theory** in an expanding background: how small density inhomogeneities evolve under gravity in FLRW cosmology. companion: [Linear evolution of perturbations in expanding universe](Linear%20evolution%20of%20perturbations%20in%20expanding%20universe.html) for the existing detailed treatment.
 
 ## the setup
 
@@ -51,7 +50,7 @@ $$\lambda_J = c_s\sqrt{\pi/(G\bar\rho)}$$
 
 scales **smaller** than $\lambda_J$ are pressure-supported (stable). scales **larger** than $\lambda_J$ collapse gravitationally.
 
-in the expanding universe, the Jeans length is modified by Hubble drag. see [Jeans analysis in expanding universe](./Jeans%20analysis%20in%20expanding%20universe.html).
+in the expanding universe, the Jeans length is modified by Hubble drag. see [Jeans analysis in expanding universe](Jeans%20analysis%20in%20expanding%20universe.html).
 
 ## the matter era growth
 
@@ -86,7 +85,7 @@ $$D(z) \propto \Omega_m^{0.55}(z) \cdot a$$
 
 at $z = 0$, $D \approx 0.78$ (slightly less than the EdS value due to $\Lambda$ slowdown).
 
-see [Growth factor D(z)](./Growth%20factor%20D%28z%29.html).
+see [Growth factor D(z)](Growth%20factor%20D%28z%29.html).
 
 ## consequences
 
@@ -104,21 +103,21 @@ so the universe transitions from linear to non-linear over cosmic history.
 
 ## see also
 
-- [Linear evolution of perturbations in expanding universe](./Linear%20evolution%20of%20perturbations%20in%20expanding%20universe.html)
-- [Cosmological evolution of perturbations in the cosmic fluid](./Cosmological%20evolution%20of%20perturbations%20in%20the%20cosmic%20fluid.html)
-- [Jeans analysis in expanding universe](./Jeans%20analysis%20in%20expanding%20universe.html)
-- [Growth factor D(z)](./Growth%20factor%20D%28z%29.html)
-- [Linear vs nonlinear regime](./Linear%20vs%20nonlinear%20regime.html)
-- [Spherical collapse](./Spherical%20collapse.html)
-- [Matter power spectrum and BAO](./Matter%20power%20spectrum%20and%20BAO.html)
-- [Matter radiation equality](./Matter%20radiation%20equality.html)
+- [Linear evolution of perturbations in expanding universe](Linear%20evolution%20of%20perturbations%20in%20expanding%20universe.html)
+- [Cosmological evolution of perturbations in the cosmic fluid](Cosmological%20evolution%20of%20perturbations%20in%20the%20cosmic%20fluid.html)
+- [Jeans analysis in expanding universe](Jeans%20analysis%20in%20expanding%20universe.html)
+- [Growth factor D(z)](Growth%20factor%20D%28z%29.html)
+- [Linear vs nonlinear regime](Linear%20vs%20nonlinear%20regime.html)
+- [Spherical collapse](Spherical%20collapse.html)
+- [Matter power spectrum and BAO](Matter%20power%20spectrum%20and%20BAO.html)
+- [Matter radiation equality](Matter%20radiation%20equality.html)
 - [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Linear%20vs%20nonlinear%20regime.html" class="backlink-item">Linear vs nonlinear regime</a></li>
+    <li class="backlink-item-wrap"><a href="Linear%20vs%20nonlinear%20regime.html" class="backlink-item">Linear vs nonlinear regime</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
   </ul>
 </div>
+

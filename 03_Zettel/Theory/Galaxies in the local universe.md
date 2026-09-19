@@ -2,7 +2,6 @@
 layout: "default"
 title: "Galaxies in the local universe"
 ---
-{% raw %}
 outside the Milky Way lie billions of other galaxies spanning a vast diversity of shapes, masses, luminosities, and evolutionary stages. in the local universe, galaxies divide primarily into two great morphological classes: **spiral galaxies** and **elliptical galaxies**, alongside transitional **lenticular (S0) galaxies** and chaotic **irregular galaxies**.
 
 ![galaxies-01.png](../../assets/images/galaxies-01.png)
@@ -82,19 +81,17 @@ in the local volume ($z \approx 0$):
 ## see also
 
 - [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Hubble morphological sequence](./Hubble%20morphological%20sequence.html)
-- [Galaxy morphology vs physical properties](./Galaxy%20morphology%20vs%20physical%20properties.html)
-- [Galaxies across wavelengths](./Galaxies%20across%20wavelengths.html)
-- [Milky Way structure](./Milky%20Way%20structure.html)
-{% endraw %}
+- [Hubble morphological sequence](Hubble%20morphological%20sequence.html)
+- [Galaxy morphology vs physical properties](Galaxy%20morphology%20vs%20physical%20properties.html)
+- [Galaxies across wavelengths](Galaxies%20across%20wavelengths.html)
+- [Milky Way structure](Milky%20Way%20structure.html)
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
+  <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Galaxies%20across%20wavelengths.html" class="backlink-item">Galaxies across wavelengths</a></li>
+    <li class="backlink-item-wrap"><a href="Galaxy%20clusters%20and%20overview%20of%20evolution.html" class="backlink-item">Galaxy clusters and overview of evolution</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Galaxies%20across%20wavelengths.html" class="backlink-item">Galaxies across wavelengths</a></li>
-    <li class="backlink-item-wrap"><a href="./Galaxy%20clusters%20and%20overview%20of%20evolution.html" class="backlink-item">Galaxy clusters and overview of evolution</a></li>
-    <li class="backlink-item-wrap"><a href="./Galaxy%20morphology%20vs%20physical%20properties.html" class="backlink-item">Galaxy morphology vs physical properties</a></li>
-    <li class="backlink-item-wrap"><a href="./Hubble%20morphological%20sequence.html" class="backlink-item">Hubble morphological sequence</a></li>
   </ul>
 </div>
+

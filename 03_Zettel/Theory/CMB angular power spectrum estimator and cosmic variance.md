@@ -2,7 +2,6 @@
 layout: "default"
 title: "CMB angular power spectrum estimator and cosmic variance"
 ---
-{% raw %}
 # CMB angular power spectrum estimator and cosmic variance
 
 The Cosmic Microwave Background (CMB) temperature anisotropy field $\Delta T(\hat{n})$ on the celestial sphere is our primary cosmological window into the early universe. Its statistical properties are encoded in the angular power spectrum $C_\ell$, whose precision is fundamentally limited at large angular scales by cosmic variance.
@@ -57,14 +56,14 @@ where $N_\ell = w^{-1} e^{\ell(\ell+1)\theta_{\rm beam}^2 / (8\ln 2)}$ accounts 
 ## See Also
 - [Astro-Statistics_and_Cosmology_MOC](../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html)
 - [07_CMB_Power_Spectrum_Likelihood_Analysis_and_Cosmic_Variance](../../02_Literature/Lectures/Astrostatistics/07_CMB_Power_Spectrum_Likelihood_Analysis_and_Cosmic_Variance.html)
-- [Exact CMB Wishart likelihood and Gaussian high-multipole limit](./Exact%20CMB%20Wishart%20likelihood%20and%20Gaussian%20high-multipole%20limit.html)
+- [Exact CMB Wishart likelihood and Gaussian high-multipole limit](Exact%20CMB%20Wishart%20likelihood%20and%20Gaussian%20high-multipole%20limit.html)
 - [Cosmology_of_the_Early_Universe_MOC](../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Exact%20CMB%20Wishart%20likelihood%20and%20Gaussian%20high-multipole%20limit.html" class="backlink-item">Exact CMB Wishart likelihood and Gaussian high-multipole limit</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Exact%20CMB%20Wishart%20likelihood%20and%20Gaussian%20high-multipole%20limit.html" class="backlink-item">Exact CMB Wishart likelihood and Gaussian high-multipole limit</a></li>
   </ul>
 </div>
+

@@ -2,7 +2,6 @@
 layout: "default"
 title: "Spatial coherence"
 ---
-{% raw %}
 # Spatial coherence
 
 the *correlation between the wave at two points in space*. spatial coherence is what makes interference fringes possible across a baseline. it is set by the angular size of the source: smaller sources are more coherent over a wider baseline. this is the physical fact behind Van Cittert-Zernike.
@@ -102,4 +101,3 @@ three:
 - [Van Cittert-Zernike theorem](interf/Van%20Cittert-Zernike%20theorem.html)
 - [Fringe visibility and contrast](interf/Fringe%20visibility%20and%20contrast.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

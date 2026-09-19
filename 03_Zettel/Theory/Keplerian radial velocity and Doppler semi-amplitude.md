@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Keplerian radial velocity and Doppler semi-amplitude"
-name: "Keplerian radial velocity and Doppler semi-amplitude"
-description: "two-body Keplerian orbital reflex motion, line-of-sight velocity equation, and the radial velocity semi-amplitude K"
 ---
-{% raw %}
 the radial velocity (RV) method measures the periodic Doppler shift of stellar absorption lines induced by the gravitational tug of an orbiting exoplanet around the common center of mass.
 
 ## the line-of-sight velocity equation
@@ -38,19 +35,19 @@ measuring $K$ determines the minimum planetary mass $M_p \sin i$. the $\sin i$ d
 
 - [Exoplanetary_Astrophysics_MOC](../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)
 - [10_Radial_Velocity_Foundations_and_Keplerian_Orbits](../../02_Literature/Lectures/Exoplanetary_Astrophysics/10_Radial_Velocity_Foundations_and_Keplerian_Orbits.html)
-- [High-precision spectrographs and laser frequency combs](./High-precision%20spectrographs%20and%20laser%20frequency%20combs.html)
-- [Stellar activity signals and radial velocity jitter mitigation](./Stellar%20activity%20signals%20and%20radial%20velocity%20jitter%20mitigation.html)
-- [Rossiter-McLaughlin effect and spin-orbit obliquity](./Rossiter-McLaughlin%20effect%20and%20spin-orbit%20obliquity.html)
-{% endraw %}
+- [High-precision spectrographs and laser frequency combs](High-precision%20spectrographs%20and%20laser%20frequency%20combs.html)
+- [Stellar activity signals and radial velocity jitter mitigation](Stellar%20activity%20signals%20and%20radial%20velocity%20jitter%20mitigation.html)
+- [Rossiter-McLaughlin effect and spin-orbit obliquity](Rossiter-McLaughlin%20effect%20and%20spin-orbit%20obliquity.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (6)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Astrometric%20exoplanet%20detection%20and%20Gaia%20astrometry.html" class="backlink-item">Astrometric exoplanet detection and Gaia astrometry</a></li>
+    <li class="backlink-item-wrap"><a href="Astrometric%20exoplanet%20detection%20and%20Gaia%20astrometry.html" class="backlink-item">Astrometric exoplanet detection and Gaia astrometry</a></li>
+    <li class="backlink-item-wrap"><a href="High-precision%20spectrographs%20and%20laser%20frequency%20combs.html" class="backlink-item">High-precision spectrographs and laser frequency combs</a></li>
+    <li class="backlink-item-wrap"><a href="Millisecond%20pulsar%20timing%20and%20planetary%20companions.html" class="backlink-item">Millisecond pulsar timing and planetary companions</a></li>
+    <li class="backlink-item-wrap"><a href="Rossiter-McLaughlin%20effect%20and%20spin-orbit%20obliquity.html" class="backlink-item">Rossiter-McLaughlin effect and spin-orbit obliquity</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20activity%20signals%20and%20radial%20velocity%20jitter%20mitigation.html" class="backlink-item">Stellar activity signals and radial velocity jitter mitigation</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./High-precision%20spectrographs%20and%20laser%20frequency%20combs.html" class="backlink-item">High-precision spectrographs and laser frequency combs</a></li>
-    <li class="backlink-item-wrap"><a href="./Millisecond%20pulsar%20timing%20and%20planetary%20companions.html" class="backlink-item">Millisecond pulsar timing and planetary companions</a></li>
-    <li class="backlink-item-wrap"><a href="./Rossiter-McLaughlin%20effect%20and%20spin-orbit%20obliquity.html" class="backlink-item">Rossiter-McLaughlin effect and spin-orbit obliquity</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20activity%20signals%20and%20radial%20velocity%20jitter%20mitigation.html" class="backlink-item">Stellar activity signals and radial velocity jitter mitigation</a></li>
   </ul>
 </div>
+

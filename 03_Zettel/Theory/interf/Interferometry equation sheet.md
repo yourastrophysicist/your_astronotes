@@ -2,7 +2,6 @@
 layout: "default"
 title: "Interferometry equation sheet"
 ---
-{% raw %}
 # Interferometry equation sheet
 
 a fast-lookup reference. organized by problem class. each entry: formula, what it means, when to use, units.
@@ -237,23 +236,23 @@ $$\chi(\lambda)=\chi_0+\mathrm{RM}\lambda^2$$
 ## see also
 
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-- [Interferometry course intro](./Interferometry%20course%20intro.html)
-- [Interferometry exam rules](./Interferometry%20exam%20rules.html)
-{% endraw %}
+- [Interferometry course intro](Interferometry%20course%20intro.html)
+- [Interferometry exam rules](Interferometry%20exam%20rules.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (11)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
     <li class="backlink-item-wrap"><a href="../Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
     <li class="backlink-item-wrap"><a href="../Interferometry%20course%20intro.html" class="backlink-item">Interferometry course intro</a></li>
-    <li class="backlink-item-wrap"><a href="./Interferometry%20course%20intro.html" class="backlink-item">Interferometry course intro</a></li>
     <li class="backlink-item-wrap"><a href="../Interferometry%20exam%20rules.html" class="backlink-item">Interferometry exam rules</a></li>
-    <li class="backlink-item-wrap"><a href="./Interferometry%20exam%20rules.html" class="backlink-item">Interferometry exam rules</a></li>
-    <li class="backlink-item-wrap"><a href="./Radiometer%20equation%20and%20SEFD.html" class="backlink-item">Radiometer equation and SEFD</a></li>
     <li class="backlink-item-wrap"><a href="../Radiometer%20equation%20and%20SEFD.html" class="backlink-item">Radiometer equation and SEFD</a></li>
-    <li class="backlink-item-wrap"><a href="./Specific%20intensity%20and%20flux%20density.html" class="backlink-item">Specific intensity and flux density</a></li>
     <li class="backlink-item-wrap"><a href="../Specific%20intensity%20and%20flux%20density.html" class="backlink-item">Specific intensity and flux density</a></li>
+    <li class="backlink-item-wrap"><a href="Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
+    <li class="backlink-item-wrap"><a href="Interferometry%20course%20intro.html" class="backlink-item">Interferometry course intro</a></li>
+    <li class="backlink-item-wrap"><a href="Interferometry%20exam%20rules.html" class="backlink-item">Interferometry exam rules</a></li>
+    <li class="backlink-item-wrap"><a href="Radiometer%20equation%20and%20SEFD.html" class="backlink-item">Radiometer equation and SEFD</a></li>
+    <li class="backlink-item-wrap"><a href="Specific%20intensity%20and%20flux%20density.html" class="backlink-item">Specific intensity and flux density</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

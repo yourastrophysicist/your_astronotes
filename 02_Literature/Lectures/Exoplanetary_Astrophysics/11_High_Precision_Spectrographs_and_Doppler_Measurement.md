@@ -2,7 +2,6 @@
 layout: "default"
 title: "11_High_Precision_Spectrographs_and_Doppler_Measurement"
 ---
-{% raw %}
 # Lesson 11 – Radial Velocity II: High-Precision Spectrographs
 
 *Exoplanetary Astrophysics, Prof. Giampaolo Piotto (Lecture 17/11/2025)*  
@@ -123,14 +122,12 @@ ESPRESSO (Echelle SPectrograph for Rocky Exoplanets and Stable Spectroscopic Obs
 - Previous Lecture: [10_Radial_Velocity_Foundations_and_Keplerian_Orbits](./10_Radial_Velocity_Foundations_and_Keplerian_Orbits.html)
 - Next Lecture: [12_AI_and_Machine_Learning_in_Exoplanet_Science](./12_AI_and_Machine_Learning_in_Exoplanet_Science.html)
 - Related Notes: Exoplanet detection techniques | Radial velocity method and Keplerian orbits
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
+  <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./10_Radial_Velocity_Foundations_and_Keplerian_Orbits.html" class="backlink-item">10_Radial_Velocity_Foundations_and_Keplerian_Orbits</a></li>
-    <li class="backlink-item-wrap"><a href="./12_AI_and_Machine_Learning_in_Exoplanet_Science.html" class="backlink-item">12_AI_and_Machine_Learning_in_Exoplanet_Science</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/High-precision%20spectrographs%20and%20laser%20frequency%20combs.html" class="backlink-item">High-precision spectrographs and laser frequency combs</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

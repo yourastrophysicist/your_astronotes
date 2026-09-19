@@ -2,7 +2,6 @@
 layout: "default"
 title: "Beam combiners"
 ---
-{% raw %}
 # Beam combiners
 
 the optical heart of every interferometer. where light from separated apertures is brought together to interfere. each instrument's choice of beam combiner shapes its capabilities — pairwise vs all-at-once, image-plane vs pupil-plane, fiber vs free-space.
@@ -126,21 +125,21 @@ each is optimized for specific science: GRAVITY for astrometry and accretion-dis
 - [VLTI Very Large Telescope Interferometer](interf/VLTI%20Very%20Large%20Telescope%20Interferometer.html)
 - [CHARA array](interf/CHARA%20array.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (11)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
+    <li class="backlink-item-wrap"><a href="Beam%20splitter%20physics.html" class="backlink-item">Beam splitter physics</a></li>
+    <li class="backlink-item-wrap"><a href="Components%20of%20a%20modern%20interferometer.html" class="backlink-item">Components of a modern interferometer</a></li>
+    <li class="backlink-item-wrap"><a href="Delay%20lines%20and%20path-length%20equalization.html" class="backlink-item">Delay lines and path-length equalization</a></li>
+    <li class="backlink-item-wrap"><a href="Fringe%20tracking.html" class="backlink-item">Fringe tracking</a></li>
+    <li class="backlink-item-wrap"><a href="Mach-Zehnder%20interferometer.html" class="backlink-item">Mach-Zehnder interferometer</a></li>
     <li class="backlink-item-wrap"><a href="interf/Beam%20splitter%20physics.html" class="backlink-item">Beam splitter physics</a></li>
-    <li class="backlink-item-wrap"><a href="./Beam%20splitter%20physics.html" class="backlink-item">Beam splitter physics</a></li>
     <li class="backlink-item-wrap"><a href="interf/Components%20of%20a%20modern%20interferometer.html" class="backlink-item">Components of a modern interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="./Components%20of%20a%20modern%20interferometer.html" class="backlink-item">Components of a modern interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="./Delay%20lines%20and%20path-length%20equalization.html" class="backlink-item">Delay lines and path-length equalization</a></li>
     <li class="backlink-item-wrap"><a href="interf/Delay%20lines%20and%20path-length%20equalization.html" class="backlink-item">Delay lines and path-length equalization</a></li>
     <li class="backlink-item-wrap"><a href="interf/Fringe%20tracking.html" class="backlink-item">Fringe tracking</a></li>
-    <li class="backlink-item-wrap"><a href="./Fringe%20tracking.html" class="backlink-item">Fringe tracking</a></li>
-    <li class="backlink-item-wrap"><a href="./Mach-Zehnder%20interferometer.html" class="backlink-item">Mach-Zehnder interferometer</a></li>
     <li class="backlink-item-wrap"><a href="interf/Mach-Zehnder%20interferometer.html" class="backlink-item">Mach-Zehnder interferometer</a></li>
+    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

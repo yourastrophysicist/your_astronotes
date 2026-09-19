@@ -1,11 +1,8 @@
 ---
 layout: "default"
 title: "Critical metallicity for fragmentation"
-name: "Critical metallicity for fragmentation"
-description: "the threshold metallicity Z_crit ~ 10^-5 to 10^-4 Z_sun below which gas cannot cool efficiently enough to fragment into low-mass stars, marking the Pop III to Pop II transition"
 ---
-{% raw %}
-the **critical metallicity for fragmentation** $Z_{\rm crit}$ is the threshold metallicity below which a primordial gas cloud cannot cool efficiently enough to fragment into stellar-mass clumps. below $Z_{\rm crit}$, the gas collapses monolithically into very massive ($\geq 100\,M_\odot$) [Pop III stars](./Population%20III%20stars.html). above $Z_{\rm crit}$, metal-line + dust cooling enables fragmentation into the standard near-Salpeter [IMF](./Salpeter%20Kroupa%20Chabrier%20IMFs.html) of Pop II + Pop I stars.
+the **critical metallicity for fragmentation** $Z_{\rm crit}$ is the threshold metallicity below which a primordial gas cloud cannot cool efficiently enough to fragment into stellar-mass clumps. below $Z_{\rm crit}$, the gas collapses monolithically into very massive ($\geq 100\,M_\odot$) [Pop III stars](Population%20III%20stars.html). above $Z_{\rm crit}$, metal-line + dust cooling enables fragmentation into the standard near-Salpeter [IMF](Salpeter%20Kroupa%20Chabrier%20IMFs.html) of Pop II + Pop I stars.
 
 ## numerical value
 
@@ -79,22 +76,22 @@ $Z_{\rm crit}$ controls the **transition between Pop III and Pop II**. it determ
 
 ## see also
 
-- [Population III stars](./Population%20III%20stars.html)
-- [Pop III nucleosynthesis signatures](./Pop%20III%20nucleosynthesis%20signatures.html)
-- [Search for Pop III stars in dwarf galaxies](./Search%20for%20Pop%20III%20stars%20in%20dwarf%20galaxies.html)
-- [Pop III remnants in UFDGs](./Pop%20III%20remnants%20in%20UFDGs.html)
-- [Big Bang nucleosynthesis](./Big%20Bang%20nucleosynthesis.html)
-- [Salpeter Kroupa Chabrier IMFs](./Salpeter%20Kroupa%20Chabrier%20IMFs.html)
+- [Population III stars](Population%20III%20stars.html)
+- [Pop III nucleosynthesis signatures](Pop%20III%20nucleosynthesis%20signatures.html)
+- [Search for Pop III stars in dwarf galaxies](Search%20for%20Pop%20III%20stars%20in%20dwarf%20galaxies.html)
+- [Pop III remnants in UFDGs](Pop%20III%20remnants%20in%20UFDGs.html)
+- [Big Bang nucleosynthesis](Big%20Bang%20nucleosynthesis.html)
+- [Salpeter Kroupa Chabrier IMFs](Salpeter%20Kroupa%20Chabrier%20IMFs.html)
 - [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./JWST%20and%20the%20first%20stars.html" class="backlink-item">JWST and the first stars</a></li>
-    <li class="backlink-item-wrap"><a href="./Pop%20III%20nucleosynthesis%20signatures.html" class="backlink-item">Pop III nucleosynthesis signatures</a></li>
-    <li class="backlink-item-wrap"><a href="./Population%20III%20stars.html" class="backlink-item">Population III stars</a></li>
-    <li class="backlink-item-wrap"><a href="./Search%20for%20Pop%20III%20stars%20in%20dwarf%20galaxies.html" class="backlink-item">Search for Pop III stars in dwarf galaxies</a></li>
+    <li class="backlink-item-wrap"><a href="JWST%20and%20the%20first%20stars.html" class="backlink-item">JWST and the first stars</a></li>
+    <li class="backlink-item-wrap"><a href="Pop%20III%20nucleosynthesis%20signatures.html" class="backlink-item">Pop III nucleosynthesis signatures</a></li>
+    <li class="backlink-item-wrap"><a href="Population%20III%20stars.html" class="backlink-item">Population III stars</a></li>
+    <li class="backlink-item-wrap"><a href="Search%20for%20Pop%20III%20stars%20in%20dwarf%20galaxies.html" class="backlink-item">Search for Pop III stars in dwarf galaxies</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

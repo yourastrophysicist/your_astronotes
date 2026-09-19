@@ -2,7 +2,6 @@
 layout: "default"
 title: "Angular Resolution"
 ---
-{% raw %}
 In X-ray telescopes, the **angular resolution** is not defined by the diffraction limit
 	at X-ray wavelengths ($\lambda \sim 1$ nm at 1 keV), the diffraction limit for a 1-m aperture is $\sim 0.0003''$
 		this is completely negligible — 10,000 times smaller than Chandra's actual resolution
@@ -34,7 +33,7 @@ For an azimuthally symmetric mirror shell:
 
 ## Sources of image blur
 
-The blur circle radius $\sigma_{blur}$ of the [Point Spread Function (PSF)](./Point%20Spread%20Function%20%28PSF%29.html) has contributions:
+The blur circle radius $\sigma_{blur}$ of the [Point Spread Function (PSF)](Point%20Spread%20Function%20%28PSF%29.html) has contributions:
 $$\sigma_{blur}^2 = \sigma_{diff}^2 + \sigma_{geom}^2 + \sigma_{rough}^2 + \sigma_{align}^2$$
 
 ### Diffraction ($\sigma_{diff}$)
@@ -42,7 +41,7 @@ $$\sigma_{diff} \approx 1.22\lambda/D$$
 At X-ray energies: $\sigma_{diff} \sim 10^{-4}$–$10^{-3}$ arcsec — **completely negligible**
 
 ### Geometric aberrations ($\sigma_{geom}$)
-For a [Wolter I](./Wolter%20Telescope.html) telescope, the on-axis coma and field curvature
+For a [Wolter I](Wolter%20Telescope.html) telescope, the on-axis coma and field curvature
 	from the formula for the blur circle radius at off-axis angle $\theta$ and graze angle $\alpha$:
 $$\sigma_{blur} \simeq 0.2\frac{\tan^2\theta}{\tan\alpha}\left(\frac{L}{f}\right) + 4\tan\theta\tan^2\alpha$$
 
@@ -68,7 +67,7 @@ Misalignment between the paraboloid and hyperboloid segments
 A good angular resolution:
 1. Allows detection of faint sources with low background contamination
 	- background within the PSF: $N_{bg} \propto HPD^2$
-	- SNR for a point source: $SNR \propto A_{eff}/HPD$ in the background-dominated regime — see [Signal-Noise Ratio](./Signal-Noise%20Ratio.html)
+	- SNR for a point source: $SNR \propto A_{eff}/HPD$ in the background-dominated regime — see [Signal-Noise Ratio](Signal-Noise%20Ratio.html)
 
 2. Allows resolving multiple nearby sources
 	- at $HPD = 0.5''$, two sources $1''$ apart can be separated
@@ -94,14 +93,14 @@ The trade-off is clear:
 	**Chandra** optimizes angular resolution at the cost of effective area
 	**XMM-Newton** optimizes effective area (spectroscopy, timing) at the cost of angular resolution
 	neither is "better" — they are complementary
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Point%20Spread%20Function%20%28PSF%29.html" class="backlink-item">Point Spread Function (PSF)</a></li>
+    <li class="backlink-item-wrap"><a href="Rayleigh%20criterion.html" class="backlink-item">Rayleigh criterion</a></li>
+    <li class="backlink-item-wrap"><a href="Telescope%20resolving%20power.html" class="backlink-item">Telescope resolving power</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Point%20Spread%20Function%20%28PSF%29.html" class="backlink-item">Point Spread Function (PSF)</a></li>
-    <li class="backlink-item-wrap"><a href="./Rayleigh%20criterion.html" class="backlink-item">Rayleigh criterion</a></li>
-    <li class="backlink-item-wrap"><a href="./Telescope%20resolving%20power.html" class="backlink-item">Telescope resolving power</a></li>
   </ul>
 </div>
+

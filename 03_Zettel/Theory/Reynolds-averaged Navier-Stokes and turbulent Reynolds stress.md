@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Reynolds-averaged Navier-Stokes and turbulent Reynolds stress"
-name: "Reynolds-averaged Navier-Stokes and turbulent Reynolds stress"
-description: "Reynolds decomposition, unclosed turbulent momentum transport, and eddy viscosity modeling closures"
 ---
-{% raw %}
 Osborne Reynolds (1895) introduced statistical averaging to separate chaotic turbulent velocity and pressure fields into mean and fluctuating components.
 
 ## reynolds decomposition
@@ -43,14 +40,14 @@ where $\mu_t$ is the turbulent eddy viscosity (a property of the flow, not the f
 
 - [Fluid_and_Plasma_Dynamics_MOC](../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html)
 - [Part3_Waves_Instabilities_and_Turbulence](../../02_Literature/Lectures/Fluid_and_Plasma_Dynamics/Part3_Waves_Instabilities_and_Turbulence.html)
-- [Kolmogorov K41 turbulence cascade and five-thirds law](./Kolmogorov%20K41%20turbulence%20cascade%20and%20five-thirds%20law.html)
-- [Chapman-Enskog expansion and Navier-Stokes derivation](./Chapman-Enskog%20expansion%20and%20Navier-Stokes%20derivation.html)
-{% endraw %}
+- [Kolmogorov K41 turbulence cascade and five-thirds law](Kolmogorov%20K41%20turbulence%20cascade%20and%20five-thirds%20law.html)
+- [Chapman-Enskog expansion and Navier-Stokes derivation](Chapman-Enskog%20expansion%20and%20Navier-Stokes%20derivation.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Kolmogorov%20K41%20turbulence%20cascade%20and%20five-thirds%20law.html" class="backlink-item">Kolmogorov K41 turbulence cascade and five-thirds law</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Kolmogorov%20K41%20turbulence%20cascade%20and%20five-thirds%20law.html" class="backlink-item">Kolmogorov K41 turbulence cascade and five-thirds law</a></li>
   </ul>
 </div>
+

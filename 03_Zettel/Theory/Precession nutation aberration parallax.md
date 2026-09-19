@@ -2,8 +2,7 @@
 layout: "default"
 title: "Precession nutation aberration parallax"
 ---
-{% raw %}
-on top of the equatorial coordinate frame ([Equatorial system](./Equatorial%20system.html)) sit four small but unavoidable corrections. any precision astrometry, target acquisition, or ephemeris computation has to account for them. each is geometric and well-understood.
+on top of the equatorial coordinate frame ([Equatorial system](Equatorial%20system.html)) sit four small but unavoidable corrections. any precision astrometry, target acquisition, or ephemeris computation has to account for them. each is geometric and well-understood.
 
 ## precession of the equinoxes
 
@@ -36,7 +35,7 @@ apparent shift of a nearby star against distant background as Earth orbits the S
 $$p = \frac{1\,\text{AU}}{d}$$
 maximum amplitude $p \le 0.76''$ (Proxima Centauri, $1.3$ pc). decreases linearly with distance. defines the parsec: $d({\rm pc}) = 1/p({\rm arcsec})$.
 
-**consequence**: must be removed for precision astrometry of background stars; *measured* for foreground stars, where it is the only fully geometric distance method. see [Distance ladder derivations](./Distance%20ladder%20derivations.html) and [Annual stellar parallax](./Annual%20stellar%20parallax.html).
+**consequence**: must be removed for precision astrometry of background stars; *measured* for foreground stars, where it is the only fully geometric distance method. see [Distance ladder derivations](Distance%20ladder%20derivations.html) and [Annual stellar parallax](Annual%20stellar%20parallax.html).
 
 ## ordering and magnitudes
 
@@ -51,12 +50,12 @@ the order in which they are applied to a catalog position to get an apparent pos
 
 ## see also
 
-- [Equatorial system](./Equatorial%20system.html)
-- [Time keeping in astronomy](./Time%20keeping%20in%20astronomy.html)
-- [Annual stellar parallax](./Annual%20stellar%20parallax.html)
-- [Distance ladder derivations](./Distance%20ladder%20derivations.html)
+- [Equatorial system](Equatorial%20system.html)
+- [Time keeping in astronomy](Time%20keeping%20in%20astronomy.html)
+- [Annual stellar parallax](Annual%20stellar%20parallax.html)
+- [Distance ladder derivations](Distance%20ladder%20derivations.html)
 - [Atmospheric refraction](interf/Atmospheric%20refraction.html)
-- [Spherical trigonometry](./Spherical%20trigonometry.html)
+- [Spherical trigonometry](Spherical%20trigonometry.html)
 
 ---
 
@@ -85,14 +84,14 @@ the order in which they are applied to a catalog position to get an apparent pos
 
 ![obs_sph2-28.png](../../assets/images/obs_sph2-28.png)
 *Comparison of astrometric displacements: precession vs nutation vs aberration vs parallax.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./AU%20calibration%20parallax%20and%20parsec.html" class="backlink-item">AU calibration parallax and parsec</a></li>
+    <li class="backlink-item-wrap"><a href="AU%20calibration%20parallax%20and%20parsec.html" class="backlink-item">AU calibration parallax and parsec</a></li>
+    <li class="backlink-item-wrap"><a href="Time%20keeping%20in%20astronomy.html" class="backlink-item">Time keeping in astronomy</a></li>
     <li class="backlink-item-wrap"><a href="interf/Atmospheric%20refraction.html" class="backlink-item">Atmospheric refraction</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Time%20keeping%20in%20astronomy.html" class="backlink-item">Time keeping in astronomy</a></li>
   </ul>
 </div>
+

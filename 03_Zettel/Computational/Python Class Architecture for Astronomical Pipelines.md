@@ -2,7 +2,6 @@
 layout: "default"
 title: "Python Class Architecture for Astronomical Pipelines"
 ---
-{% raw %}
 # Python Class Architecture for Astronomical Pipelines
 
 Object-Oriented Programming (OOP) ensures clean separation between data ingestion, calibration, coordinate tracking, and photometric extraction.
@@ -33,17 +32,14 @@ class AstronomicalPipeline:
 
 ## Related Notes
 - [Malavolta 06 - Python Class Design for Photometry Pipelines](../../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2006%20-%20Python%20Class%20Design%20for%20Photometry%20Pipelines.html)
-- [Science Frame Calibration and Variance Propagation](./Science%20Frame%20Calibration%20and%20Variance%20Propagation.html)
-{% endraw %}
+- [Science Frame Calibration and Variance Propagation](Science%20Frame%20Calibration%20and%20Variance%20Propagation.html)
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
+  <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Computational_Astrophysics/03_Modular_Python_Software_Architecture_and_Packaging.html" class="backlink-item">03_Modular_Python_Software_Architecture_and_Packaging</a></li>
+    <li class="backlink-item-wrap"><a href="Modular%20Python%20packaging%20and%20scientific%20software%20architecture.html" class="backlink-item">Modular Python packaging and scientific software architecture</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Astrophysics_Laboratory_2/Lesson%2001%20-%20Linux%20Environment%20and%20Scientific%20Python%20Setup.html" class="backlink-item">Lesson 01 - Linux Environment and Scientific Python Setup</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2006%20-%20Python%20Class%20Design%20for%20Photometry%20Pipelines.html" class="backlink-item">Malavolta 06 - Python Class Design for Photometry Pipelines</a></li>
-    <li class="backlink-item-wrap"><a href="./Modular%20Python%20packaging%20and%20scientific%20software%20architecture.html" class="backlink-item">Modular Python packaging and scientific software architecture</a></li>
   </ul>
 </div>
+

@@ -2,7 +2,6 @@
 layout: "default"
 title: "Galaxies across wavelengths"
 ---
-{% raw %}
 to truly understand what a galaxy is made of and how it works, optical imaging alone is completely inadequate. a galaxy is a complex ecological system composed of stars of all masses and ages, diffuse hot and cold gas, magnetic fields, relativistic particles, and obscuring dust grains. 
 
 each component reveals itself in a different window of the **electromagnetic spectrum**. this is illustrated comprehensively by the multi-wavelength portrait of the **Whirlpool Galaxy (M51, NGC 5194)**.
@@ -145,19 +144,18 @@ every photon absorbed by dust in the UV/optical is precisely re-emitted in the i
 ## see also
 
 - [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Galaxies in the local universe](./Galaxies%20in%20the%20local%20universe.html)
-- [Spectral energy distributions](./Spectral%20energy%20distributions.html)
-- [Electromagnetic radiation basics](./Electromagnetic%20radiation%20basics.html)
-- [Interstellar medium components and gas cycle](./Interstellar%20medium%20components%20and%20gas%20cycle.html)
-{% endraw %}
+- [Galaxies in the local universe](Galaxies%20in%20the%20local%20universe.html)
+- [Spectral energy distributions](Spectral%20energy%20distributions.html)
+- [Electromagnetic radiation basics](Electromagnetic%20radiation%20basics.html)
+- [Interstellar medium components and gas cycle](Interstellar%20medium%20components%20and%20gas%20cycle.html)
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
+  <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Electromagnetic%20radiation%20basics.html" class="backlink-item">Electromagnetic radiation basics</a></li>
+    <li class="backlink-item-wrap"><a href="Electromagnetic%20radiation%20basics.html" class="backlink-item">Electromagnetic radiation basics</a></li>
+    <li class="backlink-item-wrap"><a href="Galaxies%20in%20the%20local%20universe.html" class="backlink-item">Galaxies in the local universe</a></li>
+    <li class="backlink-item-wrap"><a href="Spectral%20energy%20distributions.html" class="backlink-item">Spectral energy distributions</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Galaxies%20in%20the%20local%20universe.html" class="backlink-item">Galaxies in the local universe</a></li>
-    <li class="backlink-item-wrap"><a href="./Hubble%20morphological%20sequence.html" class="backlink-item">Hubble morphological sequence</a></li>
-    <li class="backlink-item-wrap"><a href="./Spectral%20energy%20distributions.html" class="backlink-item">Spectral energy distributions</a></li>
   </ul>
 </div>
+

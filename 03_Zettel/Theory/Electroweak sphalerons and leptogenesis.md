@@ -2,7 +2,6 @@
 layout: "default"
 title: "Electroweak sphalerons and leptogenesis"
 ---
-{% raw %}
 # Electroweak sphalerons and leptogenesis
 
 > *how non-perturbative electroweak gauge field configurations violate B+L and convert a primordial lepton asymmetry into the baryon asymmetry.*
@@ -48,18 +47,17 @@ where $N_f = 3$ generations and $N_H = 1$ Higgs doublet.
 
 * parent moc: [Cosmology_of_the_Early_Universe_MOC](../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html)
 * related zettels:
-  - [Sakharov conditions for baryogenesis](./Sakharov%20conditions%20for%20baryogenesis.html)
-  - [Out-of-equilibrium decay baryogenesis and Weinberg model](./Out-of-equilibrium%20decay%20baryogenesis%20and%20Weinberg%20model.html)
+  - [Sakharov conditions for baryogenesis](Sakharov%20conditions%20for%20baryogenesis.html)
+  - [Out-of-equilibrium decay baryogenesis and Weinberg model](Out-of-equilibrium%20decay%20baryogenesis%20and%20Weinberg%20model.html)
   - [Part6_Reheating_Baryogenesis_and_Dark_Matter](../../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part6_Reheating_Baryogenesis_and_Dark_Matter.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
+  <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Out-of-equilibrium%20decay%20baryogenesis%20and%20Weinberg%20model.html" class="backlink-item">Out-of-equilibrium decay baryogenesis and Weinberg model</a></li>
+    <li class="backlink-item-wrap"><a href="Preheating%20and%20parametric%20resonance.html" class="backlink-item">Preheating and parametric resonance</a></li>
+    <li class="backlink-item-wrap"><a href="Sakharov%20conditions%20for%20baryogenesis.html" class="backlink-item">Sakharov conditions for baryogenesis</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html" class="backlink-item">Cosmology_of_the_Early_Universe_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Out-of-equilibrium%20decay%20baryogenesis%20and%20Weinberg%20model.html" class="backlink-item">Out-of-equilibrium decay baryogenesis and Weinberg model</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part6_Reheating_Baryogenesis_and_Dark_Matter.html" class="backlink-item">Part6_Reheating_Baryogenesis_and_Dark_Matter</a></li>
-    <li class="backlink-item-wrap"><a href="./Preheating%20and%20parametric%20resonance.html" class="backlink-item">Preheating and parametric resonance</a></li>
-    <li class="backlink-item-wrap"><a href="./Sakharov%20conditions%20for%20baryogenesis.html" class="backlink-item">Sakharov conditions for baryogenesis</a></li>
   </ul>
 </div>
+

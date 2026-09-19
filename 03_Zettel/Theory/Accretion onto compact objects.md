@@ -2,7 +2,6 @@
 layout: "default"
 title: "Accretion onto compact objects"
 ---
-{% raw %}
 ## Overview
 
 Many high-energy astrophysical sources are powered by **accretion**
@@ -110,13 +109,13 @@ AGN emit across the entire electromagnetic spectrum
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Emmaalexander_unified_agn.png/500px-Emmaalexander_unified_agn.png)
 <font color="#bfbfbf">The unified model of AGN. The central SMBH and accretion disk are surrounded by a dusty torus. Different observational classes (Seyfert 1, Seyfert 2, blazar) correspond to the same physical object viewed at different inclination angles with respect to the torus.</font>
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Luminosity.html" class="backlink-item">Luminosity</a></li>
+    <li class="backlink-item-wrap"><a href="Radiative%20Processes.html" class="backlink-item">Radiative Processes</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Luminosity.html" class="backlink-item">Luminosity</a></li>
-    <li class="backlink-item-wrap"><a href="./Radiative%20Processes.html" class="backlink-item">Radiative Processes</a></li>
   </ul>
 </div>
+

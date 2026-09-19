@@ -2,10 +2,9 @@
 layout: "default"
 title: "BBN_NSE_initial_conditions"
 ---
-{% raw %}
 at the beginning of nucleosynthesis ($T \gg 1$ MeV), the various nuclear species are in **nuclear statistical equilibrium** (NSE) — both kinetic equilibrium (Maxwell-Boltzmann velocity distributions) and chemical equilibrium (mass-action relations among the chemical potentials).
 
-we are interested in particular in the n/p ratio, which is fixed at the beginning by its equilibrium value. the conditions for NSE will hold until the rates that maintain it become smaller than the expansion rate $H$ (see [Decoupling and freeze-out](./Decoupling%20and%20freeze-out.html)).
+we are interested in particular in the n/p ratio, which is fixed at the beginning by its equilibrium value. the conditions for NSE will hold until the rates that maintain it become smaller than the expansion rate $H$ (see [Decoupling and freeze-out](Decoupling%20and%20freeze-out.html)).
 
 ![bbn-06.png](../../assets/images/bbn-06.png)
 
@@ -83,7 +82,7 @@ with $\sum_i X_i = 1$. this is the cleanest way to compare predictions to observ
 
 ## $X_A$ in terms of $X_n$, $X_p$, and $\eta$
 
-starting from (7) and using the baryon-to-photon ratio $\eta = n_N/n_\gamma$ (see [BBN_baryon_to_photon_ratio](./BBN_baryon_to_photon_ratio.html)) plus $n_\gamma = 2\zeta(3)/\pi^2 \cdot T^3$:
+starting from (7) and using the baryon-to-photon ratio $\eta = n_N/n_\gamma$ (see [BBN_baryon_to_photon_ratio](BBN_baryon_to_photon_ratio.html)) plus $n_\gamma = 2\zeta(3)/\pi^2 \cdot T^3$:
 
 $$X_A = g_A\,[\zeta(3)^{A-1}\, 2^{(3A-5)/2}\, \pi^{(1-A)/2}]\, A^{5/2}\, (T/m_N)^{(3/2)(A-1)}\, (X_p)^Z (X_n)^{A-Z}\, e^{B_A/T}\, \eta^{A-1}$$
 
@@ -95,7 +94,7 @@ so $X_A \propto \eta^{A-1}$ — a strong dependence on the baryon-to-photon rati
 
 ## why this matters
 
-the NSE expression (7) is the **starting point** for primordial nucleosynthesis. as long as $T \gg 1$ MeV, all species sit at their NSE values and the n/p ratio tracks equilibrium. as soon as the weak rates fall behind expansion, the n/p ratio freezes — see [BBN_neutron_proton_ratio](./BBN_neutron_proton_ratio.html) — and the abundances depart from NSE.
+the NSE expression (7) is the **starting point** for primordial nucleosynthesis. as long as $T \gg 1$ MeV, all species sit at their NSE values and the n/p ratio tracks equilibrium. as soon as the weak rates fall behind expansion, the n/p ratio freezes — see [BBN_neutron_proton_ratio](BBN_neutron_proton_ratio.html) — and the abundances depart from NSE.
 
 so this section sets the *initial conditions* for the dynamical departure from equilibrium that produces the actual BBN abundances we observe.
 
@@ -104,20 +103,20 @@ so this section sets the *initial conditions* for the dynamical departure from e
 ## see also
 
 - [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [BBN_overview](./BBN_overview.html)
-- [BBN_baryon_to_photon_ratio](./BBN_baryon_to_photon_ratio.html)
-- [BBN_neutron_proton_ratio](./BBN_neutron_proton_ratio.html)
-- [Thermal equilibrium in the early universe](./Thermal%20equilibrium%20in%20the%20early%20universe.html)
-- [Decoupling and freeze-out](./Decoupling%20and%20freeze-out.html)
-{% endraw %}
+- [BBN_overview](BBN_overview.html)
+- [BBN_baryon_to_photon_ratio](BBN_baryon_to_photon_ratio.html)
+- [BBN_neutron_proton_ratio](BBN_neutron_proton_ratio.html)
+- [Thermal equilibrium in the early universe](Thermal%20equilibrium%20in%20the%20early%20universe.html)
+- [Decoupling and freeze-out](Decoupling%20and%20freeze-out.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./BBN_baryon_to_photon_ratio.html" class="backlink-item">BBN_baryon_to_photon_ratio</a></li>
-    <li class="backlink-item-wrap"><a href="./BBN_neutron_proton_ratio.html" class="backlink-item">BBN_neutron_proton_ratio</a></li>
-    <li class="backlink-item-wrap"><a href="./BBN_three_steps.html" class="backlink-item">BBN_three_steps</a></li>
-    <li class="backlink-item-wrap"><a href="./Big%20Bang%20nucleosynthesis.html" class="backlink-item">Big Bang nucleosynthesis</a></li>
+    <li class="backlink-item-wrap"><a href="BBN_baryon_to_photon_ratio.html" class="backlink-item">BBN_baryon_to_photon_ratio</a></li>
+    <li class="backlink-item-wrap"><a href="BBN_neutron_proton_ratio.html" class="backlink-item">BBN_neutron_proton_ratio</a></li>
+    <li class="backlink-item-wrap"><a href="BBN_three_steps.html" class="backlink-item">BBN_three_steps</a></li>
+    <li class="backlink-item-wrap"><a href="Big%20Bang%20nucleosynthesis.html" class="backlink-item">Big Bang nucleosynthesis</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
   </ul>
 </div>
+

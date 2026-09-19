@@ -2,7 +2,6 @@
 layout: "default"
 title: "Interferometry exam rules"
 ---
-{% raw %}
 # Interferometry, exam rules
 
 the **Astronomical Interferometry** exam at U Padua is **oral**, conducted by Prof. Mauro D'Onofrio, in the office of the Department of Physics and Astronomy. for me, scheduled **Wednesday 3 June 2026** in the summer session.
@@ -37,7 +36,7 @@ less emphasis on:
 ## what to bring
 
 - pen and paper (the office may not have a board)
-- printed [Interferometry equation sheet](./Interferometry%20equation%20sheet.html)
+- printed [Interferometry equation sheet](Interferometry%20equation%20sheet.html)
 - mental sketch of: a (u, v) plot, the dirty beam, the Airy pattern, the speckle pattern
 - two or three illustrative numbers: angular resolution of VLTI ($\sim 1$ mas), of ALMA ($\sim 30$ mas), of EHT ($\sim 20$ μas), of HST ($\sim 0.05''$)
 
@@ -68,19 +67,19 @@ three minutes of structured talk demonstrates I have the complete mental map. D'
 
 ## see also
 
-- [Interferometry course intro](./Interferometry%20course%20intro.html)
+- [Interferometry course intro](Interferometry%20course%20intro.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-- [Interferometry equation sheet](./Interferometry%20equation%20sheet.html)
+- [Interferometry equation sheet](Interferometry%20equation%20sheet.html)
 - Exams summer 2026 master plan
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../Interferometry%20course%20intro.html" class="backlink-item">Interferometry course intro</a></li>
-    <li class="backlink-item-wrap"><a href="./Interferometry%20course%20intro.html" class="backlink-item">Interferometry course intro</a></li>
-    <li class="backlink-item-wrap"><a href="./Interferometry%20equation%20sheet.html" class="backlink-item">Interferometry equation sheet</a></li>
     <li class="backlink-item-wrap"><a href="../Interferometry%20equation%20sheet.html" class="backlink-item">Interferometry equation sheet</a></li>
+    <li class="backlink-item-wrap"><a href="Interferometry%20course%20intro.html" class="backlink-item">Interferometry course intro</a></li>
+    <li class="backlink-item-wrap"><a href="Interferometry%20equation%20sheet.html" class="backlink-item">Interferometry equation sheet</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

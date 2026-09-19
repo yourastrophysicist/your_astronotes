@@ -2,7 +2,6 @@
 layout: "default"
 title: "Airmass and Atmospheric Extinction Correction"
 ---
-{% raw %}
 # Airmass and Atmospheric Extinction Correction
 
 Airmass $X$ quantifies the optical path length of starlight through the Earth's atmosphere relative to the path length at the zenith ($z = 0$).
@@ -34,16 +33,15 @@ $$k_\lambda = k'_\lambda + k''_\lambda (B - V)$$
 Stars of different colors attenuate at slightly different rates over the observing night, producing residual curvature in differential light curves that must be detrended via baseline polynomials.
 
 ## Related Notes
-- [Differential Photometry and Comparison Star Selection](./Differential%20Photometry%20and%20Comparison%20Star%20Selection.html)
+- [Differential Photometry and Comparison Star Selection](Differential%20Photometry%20and%20Comparison%20Star%20Selection.html)
 - [Malavolta 07 - Differential Photometry and Atmospheric Detrending](../../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2007%20-%20Differential%20Photometry%20and%20Atmospheric%20Detrending.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
+  <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Differential%20Photometry%20and%20Comparison%20Star%20Selection.html" class="backlink-item">Differential Photometry and Comparison Star Selection</a></li>
     <li class="backlink-item-wrap"><a href="../Activities/Laboratory%20Exercise%20-%20Ground-Based%20Differential%20Photometry%20with%20TASTE.html" class="backlink-item">Laboratory Exercise - Ground-Based Differential Photometry with TASTE</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2007%20-%20Differential%20Photometry%20and%20Atmospheric%20Detrending.html" class="backlink-item">Malavolta 07 - Differential Photometry and Atmospheric Detrending</a></li>
+    <li class="backlink-item-wrap"><a href="Differential%20Photometry%20and%20Comparison%20Star%20Selection.html" class="backlink-item">Differential Photometry and Comparison Star Selection</a></li>
+    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
   </ul>
 </div>
+

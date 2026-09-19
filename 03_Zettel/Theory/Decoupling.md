@@ -2,10 +2,9 @@
 layout: "default"
 title: "Decoupling"
 ---
-{% raw %}
 **decoupling** is the moment a particle species stops interacting with the rest of the cosmic plasma. its distribution **freezes** at that moment + free-streams thereafter. happens for different species at different epochs. for **photons**, decoupling at $z \sim 1100$ produces the CMB.
 
-(companion: [Photon decoupling and CMB](./Photon%20decoupling%20and%20CMB.html) + [Decoupling and freeze-out](./Decoupling%20and%20freeze-out.html).)
+(companion: [Photon decoupling and CMB](Photon%20decoupling%20and%20CMB.html) + [Decoupling and freeze-out](Decoupling%20and%20freeze-out.html).)
 
 ## the criterion
 
@@ -85,26 +84,26 @@ each leaves a frozen relic abundance, observable today (CMB, $C\nu B$, dark matt
 
 ## see also
 
-- [Photon decoupling and CMB](./Photon%20decoupling%20and%20CMB.html)
-- [Decoupling and freeze-out](./Decoupling%20and%20freeze-out.html)
-- [Recombination](./Recombination.html)
-- [Saha equation and recombination](./Saha%20equation%20and%20recombination.html)
-- [Brief thermal history](./Brief%20thermal%20history.html)
-- [Transition epochs](./Transition%20epochs.html)
+- [Photon decoupling and CMB](Photon%20decoupling%20and%20CMB.html)
+- [Decoupling and freeze-out](Decoupling%20and%20freeze-out.html)
+- [Recombination](Recombination.html)
+- [Saha equation and recombination](Saha%20equation%20and%20recombination.html)
+- [Brief thermal history](Brief%20thermal%20history.html)
+- [Transition epochs](Transition%20epochs.html)
 - CMB — discovery and blackbody spectrum
 - Dark matter relics — WIMP miracle
-- [Cosmic_inventory_neutrinos](./Cosmic_inventory_neutrinos.html)
+- [Cosmic_inventory_neutrinos](Cosmic_inventory_neutrinos.html)
 - Q19 - radiation universe
 - [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Big%20Bang%20nucleosynthesis.html" class="backlink-item">Big Bang nucleosynthesis</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Phase%20transitions.html" class="backlink-item">Phase transitions</a></li>
+    <li class="backlink-item-wrap"><a href="Big%20Bang%20nucleosynthesis.html" class="backlink-item">Big Bang nucleosynthesis</a></li>
+    <li class="backlink-item-wrap"><a href="Phase%20transitions.html" class="backlink-item">Phase transitions</a></li>
+    <li class="backlink-item-wrap"><a href="Recombination.html" class="backlink-item">Recombination</a></li>
     <li class="backlink-item-wrap"><a href="interf/Phase%20transitions.html" class="backlink-item">Phase transitions</a></li>
-    <li class="backlink-item-wrap"><a href="./Recombination.html" class="backlink-item">Recombination</a></li>
+    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
   </ul>
 </div>
+

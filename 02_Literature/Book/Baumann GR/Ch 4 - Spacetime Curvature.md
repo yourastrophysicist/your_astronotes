@@ -2,7 +2,6 @@
 layout: "default"
 title: "Ch 4 - Spacetime Curvature"
 ---
-{% raw %}
 # Baumann Ch 4, Spacetime Curvature
 
 up: [Baumann GR](./Baumann%20GR.html) · [General_Relativity_MOC](../../../04_Atlas/General_Relativity_MOC.html)
@@ -300,21 +299,18 @@ if i had to compress chapter 4 into a paragraph for the oral:
 - Q3 - covariant derivatives in polar · Q4 - metric compatibility on the 2-sphere · Q5 - Riemann for 1+1 expanding metric · Q6 - Riemann for conformally flat 1+1 · Q7 - geodesics on the 2-sphere · Q8 - null geodesic in static metric · Q17 - Riemann R_0x0x for a TT plane wave
 - previous: [Ch 3 - A First Look at Geodesics](./Ch%203%20-%20A%20First%20Look%20at%20Geodesics.html)
 - next: [Ch 5 - The Einstein Equation](./Ch%205%20-%20The%20Einstein%20Equation.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (11)</h4>
+  <h4 class="backlinks-title">Linked References (8)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Baumann%20GR.html" class="backlink-item">Baumann GR</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Bianchi%20identities.html" class="backlink-item">Bianchi identities</a></li>
-    <li class="backlink-item-wrap"><a href="./Ch%203%20-%20A%20First%20Look%20at%20Geodesics.html" class="backlink-item">Ch 3 - A First Look at Geodesics</a></li>
-    <li class="backlink-item-wrap"><a href="./Ch%205%20-%20The%20Einstein%20Equation.html" class="backlink-item">Ch 5 - The Einstein Equation</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Counting%20Riemann%20components.html" class="backlink-item">Counting Riemann components</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Geodesic%20deviation.html" class="backlink-item">Geodesic deviation</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Ricci%20tensor%20and%20scalar.html" class="backlink-item">Ricci tensor and scalar</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Riemann%20tensor.html" class="backlink-item">Riemann tensor</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Riemann%20tensor%20symmetries.html" class="backlink-item">Riemann tensor symmetries</a></li>
+    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Riemann%20tensor.html" class="backlink-item">Riemann tensor</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Sectional%20and%20Gaussian%20curvature.html" class="backlink-item">Sectional and Gaussian curvature</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
   </ul>
 </div>
+

@@ -2,7 +2,6 @@
 layout: "default"
 title: "03_Modular_Python_Software_Architecture_and_Packaging"
 ---
-{% raw %}
 # Lesson 03 – Modular Python Software Architecture and Packaging
 
 *Computational Astrophysics, Prof. Tiziano Zingales*  
@@ -276,16 +275,12 @@ As part of the course's Module 1 hands-on assignment, students configure their p
 - [Python Class Architecture for Astronomical Pipelines](../../../03_Zettel/Computational/Python%20Class%20Architecture%20for%20Astronomical%20Pipelines.html)
 - [Transit Modeling with batman](../../../03_Zettel/Computational/Transit%20Modeling%20with%20batman.html)
 - [Limb Darkening Computation with ldtk](../../../03_Zettel/Computational/Limb%20Darkening%20Computation%20with%20ldtk.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
+  <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./00_Course_Overview_and_Computational_Laboratories.html" class="backlink-item">00_Course_Overview_and_Computational_Laboratories</a></li>
-    <li class="backlink-item-wrap"><a href="./01_Linux_Containers_and_Docker_Architecture.html" class="backlink-item">01_Linux_Containers_and_Docker_Architecture</a></li>
-    <li class="backlink-item-wrap"><a href="./02_Version_Control_with_Git_and_GitLab.html" class="backlink-item">02_Version_Control_with_Git_and_GitLab</a></li>
-    <li class="backlink-item-wrap"><a href="./04_Exoplanet_Demographics_Orbital_Mechanics_and_Transits.html" class="backlink-item">04_Exoplanet_Demographics_Orbital_Mechanics_and_Transits</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Computational/Modular%20Python%20packaging%20and%20scientific%20software%20architecture.html" class="backlink-item">Modular Python packaging and scientific software architecture</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

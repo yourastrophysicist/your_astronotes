@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Modular Python packaging and scientific software architecture"
-name: "Modular Python packaging and scientific software architecture"
-description: "pyproject.toml PEP standards, namespace packages, editable developer installs, and object-oriented pipeline design"
 ---
-{% raw %}
 scientific Python development requires structuring scripts into modular, installable, and testable packages following modern Python Packaging Authority (PyPA) standards (PEP 517/518/621).
 
 ## standard package directory layout
@@ -66,15 +63,15 @@ favoring object-oriented encapsulation:
 
 - [Computational_Astrophysics_MOC](../../04_Atlas/Computational_Astrophysics_MOC.html)
 - [03_Modular_Python_Software_Architecture_and_Packaging](../../02_Literature/Lectures/Computational_Astrophysics/03_Modular_Python_Software_Architecture_and_Packaging.html)
-- [Python Class Architecture for Astronomical Pipelines](./Python%20Class%20Architecture%20for%20Astronomical%20Pipelines.html)
-- [Distributed version control DAG and GitLab workflows](./Distributed%20version%20control%20DAG%20and%20GitLab%20workflows.html)
-{% endraw %}
+- [Python Class Architecture for Astronomical Pipelines](Python%20Class%20Architecture%20for%20Astronomical%20Pipelines.html)
+- [Distributed version control DAG and GitLab workflows](Distributed%20version%20control%20DAG%20and%20GitLab%20workflows.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Distributed%20version%20control%20DAG%20and%20GitLab%20workflows.html" class="backlink-item">Distributed version control DAG and GitLab workflows</a></li>
+    <li class="backlink-item-wrap"><a href="Linux%20containers%20and%20Docker%20architecture%20in%20astrophysics.html" class="backlink-item">Linux containers and Docker architecture in astrophysics</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Distributed%20version%20control%20DAG%20and%20GitLab%20workflows.html" class="backlink-item">Distributed version control DAG and GitLab workflows</a></li>
-    <li class="backlink-item-wrap"><a href="./Linux%20containers%20and%20Docker%20architecture%20in%20astrophysics.html" class="backlink-item">Linux containers and Docker architecture in astrophysics</a></li>
   </ul>
 </div>
+

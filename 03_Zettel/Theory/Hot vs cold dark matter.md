@@ -2,7 +2,6 @@
 layout: "default"
 title: "Hot vs cold dark matter"
 ---
-{% raw %}
 a key classification: **was the dark matter relativistic or non-relativistic at decoupling?**
 
 - **hot dark matter (HDM)**: relativistic at decoupling. example: light neutrinos.
@@ -20,7 +19,7 @@ $$\lambda_{\rm fs} \sim \int v\, dt$$
 
 this **erases** small-scale structure. for hot dark matter (e.g. eV-scale neutrinos), the free-streaming length is huge — comparable to a galaxy supercluster. so HDM cannot produce the observed small-scale structure (galaxies on the scale of $\sim 100$ kpc).
 
-→ **HDM is ruled out** as the dominant dark matter component. light neutrinos contribute at most $\Omega_\nu h^2 \lesssim 0.001$ (see [Cosmic_inventory_neutrinos](./Cosmic_inventory_neutrinos.html)).
+→ **HDM is ruled out** as the dominant dark matter component. light neutrinos contribute at most $\Omega_\nu h^2 \lesssim 0.001$ (see [Cosmic_inventory_neutrinos](Cosmic_inventory_neutrinos.html)).
 
 ---
 
@@ -58,7 +57,7 @@ so the "way structure forms" alone tells us dark matter must be cold (or very ne
 
 ## connecting to the matter power spectrum
 
-the matter power spectrum (see [Matter power spectrum and BAO](./Matter%20power%20spectrum%20and%20BAO.html)) has a turnover at the equality scale, but **CDM continues to have power below the turnover**. HDM would have an exponential cutoff in $P_m(k)$ at the free-streaming scale.
+the matter power spectrum (see [Matter power spectrum and BAO](Matter%20power%20spectrum%20and%20BAO.html)) has a turnover at the equality scale, but **CDM continues to have power below the turnover**. HDM would have an exponential cutoff in $P_m(k)$ at the free-streaming scale.
 
 observations show power on small scales (DES cosmic shear, Ly-α forest, lensing). this is direct evidence that the dominant component must be cold.
 
@@ -91,21 +90,21 @@ we **don't know**:
 ## see also
 
 - [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Cosmic_inventory_dark_matter](./Cosmic_inventory_dark_matter.html)
-- [Cosmic_inventory_neutrinos](./Cosmic_inventory_neutrinos.html)
-- [Decoupling and freeze-out](./Decoupling%20and%20freeze-out.html)
+- [Cosmic_inventory_dark_matter](Cosmic_inventory_dark_matter.html)
+- [Cosmic_inventory_neutrinos](Cosmic_inventory_neutrinos.html)
+- [Decoupling and freeze-out](Decoupling%20and%20freeze-out.html)
 - Dark matter relics — WIMP miracle
-- [Matter power spectrum and BAO](./Matter%20power%20spectrum%20and%20BAO.html)
-{% endraw %}
+- [Matter power spectrum and BAO](Matter%20power%20spectrum%20and%20BAO.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (6)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Boltzmann%20equation%20in%20cosmology.html" class="backlink-item">Boltzmann equation in cosmology</a></li>
-    <li class="backlink-item-wrap"><a href="./Cosmic_inventory_dark_matter.html" class="backlink-item">Cosmic_inventory_dark_matter</a></li>
-    <li class="backlink-item-wrap"><a href="./Dark%20matter%20relics%20-%20WIMP%20miracle.html" class="backlink-item">Dark matter relics - WIMP miracle</a></li>
-    <li class="backlink-item-wrap"><a href="./Decoupling%20and%20freeze-out.html" class="backlink-item">Decoupling and freeze-out</a></li>
+    <li class="backlink-item-wrap"><a href="Boltzmann%20equation%20in%20cosmology.html" class="backlink-item">Boltzmann equation in cosmology</a></li>
+    <li class="backlink-item-wrap"><a href="Cosmic_inventory_dark_matter.html" class="backlink-item">Cosmic_inventory_dark_matter</a></li>
+    <li class="backlink-item-wrap"><a href="Dark%20matter%20relics%20-%20WIMP%20miracle.html" class="backlink-item">Dark matter relics - WIMP miracle</a></li>
+    <li class="backlink-item-wrap"><a href="Decoupling%20and%20freeze-out.html" class="backlink-item">Decoupling and freeze-out</a></li>
+    <li class="backlink-item-wrap"><a href="Jeans%20analysis%20in%20expanding%20universe.html" class="backlink-item">Jeans analysis in expanding universe</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Jeans%20analysis%20in%20expanding%20universe.html" class="backlink-item">Jeans analysis in expanding universe</a></li>
   </ul>
 </div>
+

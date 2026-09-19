@@ -1,9 +1,7 @@
 ---
 layout: "default"
 title: "Light deflection in Schwarzschild"
-name: "Light deflection in Schwarzschild"
 ---
-{% raw %}
 # Light deflection in Schwarzschild
 
 ---
@@ -20,7 +18,6 @@ name: "Light deflection in Schwarzschild"
 
 ![baumann_fig07_p112.png](../../assets/images/baumann_fig07_p112.png)
 *Cambridge Lecture Diagram: Light deflection by a massive body and gravitational lensing geometry.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (1)</h4>
@@ -28,3 +25,4 @@ name: "Light deflection in Schwarzschild"
     <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
   </ul>
 </div>
+

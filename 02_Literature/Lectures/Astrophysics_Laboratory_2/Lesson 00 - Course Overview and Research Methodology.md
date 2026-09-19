@@ -2,7 +2,6 @@
 layout: "default"
 title: "Lesson 00 - Course Overview and Research Methodology"
 ---
-{% raw %}
 # Lesson 00 — Course Overview and Research Methodology
 
 *Astrophysics Laboratory 2, Master Degree in Astrophysics and Cosmology, Università degli Studi di Padova*  
@@ -73,14 +72,12 @@ The examination consists of two interdependent components:
 - [Lesson 01 - Linux Environment and Scientific Python Setup](./Lesson%2001%20-%20Linux%20Environment%20and%20Scientific%20Python%20Setup.html)
 - [Astrophysics Lab 2 Report Specifications and AA Format](../../../03_Zettel/Activities/Astrophysics%20Lab%202%20Report%20Specifications%20and%20AA%20Format.html)
 - [Laboratory Report Guidelines and Scientific Writing](./Laboratory%20Report%20Guidelines%20and%20Scientific%20Writing.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
+  <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Activities/Astrophysics%20Lab%202%20Report%20Specifications%20and%20AA%20Format.html" class="backlink-item">Astrophysics Lab 2 Report Specifications and AA Format</a></li>
     <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Laboratory%20Report%20Guidelines%20and%20Scientific%20Writing.html" class="backlink-item">Laboratory Report Guidelines and Scientific Writing</a></li>
-    <li class="backlink-item-wrap"><a href="./Lesson%2001%20-%20Linux%20Environment%20and%20Scientific%20Python%20Setup.html" class="backlink-item">Lesson 01 - Linux Environment and Scientific Python Setup</a></li>
   </ul>
 </div>
+

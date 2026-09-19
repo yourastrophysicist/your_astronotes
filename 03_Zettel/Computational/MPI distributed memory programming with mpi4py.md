@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "MPI distributed memory programming with mpi4py"
-name: "MPI distributed memory programming with mpi4py"
-description: "Single Program Multiple Data paradigm, point-to-point non-blocking communications, collective reductions, and Python buffer protocol"
 ---
-{% raw %}
 the Message Passing Interface (MPI) is the universal standard for distributed-memory parallel computing in scientific simulation and high-performance computing.
 
 ## the spmd execution model
@@ -62,14 +59,14 @@ req.Wait()
 
 - [Computational_Astrophysics_MOC](../../04_Atlas/Computational_Astrophysics_MOC.html)
 - [12_MPI_Distributed_Memory_Programming_with_Python](../../02_Literature/Lectures/Computational_Astrophysics/12_MPI_Distributed_Memory_Programming_with_Python.html)
-- [Parallel computing architectures and Amdahl scaling laws](./Parallel%20computing%20architectures%20and%20Amdahl%20scaling%20laws.html)
-- [CloudVeneto HPC OpenStack infrastructure and remote clusters](./CloudVeneto%20HPC%20OpenStack%20infrastructure%20and%20remote%20clusters.html)
-{% endraw %}
+- [Parallel computing architectures and Amdahl scaling laws](Parallel%20computing%20architectures%20and%20Amdahl%20scaling%20laws.html)
+- [CloudVeneto HPC OpenStack infrastructure and remote clusters](CloudVeneto%20HPC%20OpenStack%20infrastructure%20and%20remote%20clusters.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Parallel%20computing%20architectures%20and%20Amdahl%20scaling%20laws.html" class="backlink-item">Parallel computing architectures and Amdahl scaling laws</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Parallel%20computing%20architectures%20and%20Amdahl%20scaling%20laws.html" class="backlink-item">Parallel computing architectures and Amdahl scaling laws</a></li>
   </ul>
 </div>
+

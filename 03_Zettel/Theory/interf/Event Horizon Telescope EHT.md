@@ -2,7 +2,6 @@
 layout: "default"
 title: "Event Horizon Telescope EHT"
 ---
-{% raw %}
 # Event Horizon Telescope (EHT)
 
 a global mm-wave VLBI array assembled to image the event-horizon-scale shadows of supermassive black holes. **first-ever images** of M87's central black hole (April 2019) and Sgr A* (May 2022). the highest-resolution astronomical instrument ever built — $\sim 25$ μas at 230 GHz, comparable to *resolving a CD on the Moon*.
@@ -115,28 +114,27 @@ source: ESO/EHT images eso1907j and eso1907a.
 
 ## see also
 
-- [Very Long Baseline Interferometry VLBI](./Very%20Long%20Baseline%20Interferometry%20VLBI.html)
-- [AGN and supermassive black holes](./AGN%20and%20supermassive%20black%20holes.html)
-- [Galactic Center Sgr A and S-stars](./Galactic%20Center%20Sgr%20A%20and%20S-stars.html)
-- [Major radio interferometers](./Major%20radio%20interferometers.html)
+- [Very Long Baseline Interferometry VLBI](Very%20Long%20Baseline%20Interferometry%20VLBI.html)
+- [AGN and supermassive black holes](AGN%20and%20supermassive%20black%20holes.html)
+- [Galactic Center Sgr A and S-stars](Galactic%20Center%20Sgr%20A%20and%20S-stars.html)
+- [Major radio interferometers](Major%20radio%20interferometers.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (13)</h4>
+  <h4 class="backlinks-title">Linked References (12)</h4>
   <ul class="backlinks-list">
     <li class="backlink-item-wrap"><a href="../AGN%20and%20supermassive%20black%20holes.html" class="backlink-item">AGN and supermassive black holes</a></li>
-    <li class="backlink-item-wrap"><a href="./AGN%20and%20supermassive%20black%20holes.html" class="backlink-item">AGN and supermassive black holes</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
     <li class="backlink-item-wrap"><a href="../Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="../Galactic%20Center%20Sgr%20A%20and%20S-stars.html" class="backlink-item">Galactic Center Sgr A and S-stars</a></li>
-    <li class="backlink-item-wrap"><a href="./Galactic%20Center%20Sgr%20A%20and%20S-stars.html" class="backlink-item">Galactic Center Sgr A and S-stars</a></li>
     <li class="backlink-item-wrap"><a href="../Major%20radio%20interferometers.html" class="backlink-item">Major radio interferometers</a></li>
-    <li class="backlink-item-wrap"><a href="./Major%20radio%20interferometers.html" class="backlink-item">Major radio interferometers</a></li>
     <li class="backlink-item-wrap"><a href="../Space%20and%20ground%20facilities%20relevant%20for%20OC.html" class="backlink-item">Space and ground facilities relevant for OC</a></li>
     <li class="backlink-item-wrap"><a href="../The%20Square%20Kilometre%20Array%20SKA.html" class="backlink-item">The Square Kilometre Array SKA</a></li>
     <li class="backlink-item-wrap"><a href="../Very%20Long%20Baseline%20Interferometry%20VLBI.html" class="backlink-item">Very Long Baseline Interferometry VLBI</a></li>
-    <li class="backlink-item-wrap"><a href="./Very%20Long%20Baseline%20Interferometry%20VLBI.html" class="backlink-item">Very Long Baseline Interferometry VLBI</a></li>
+    <li class="backlink-item-wrap"><a href="AGN%20and%20supermassive%20black%20holes.html" class="backlink-item">AGN and supermassive black holes</a></li>
+    <li class="backlink-item-wrap"><a href="Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
+    <li class="backlink-item-wrap"><a href="Galactic%20Center%20Sgr%20A%20and%20S-stars.html" class="backlink-item">Galactic Center Sgr A and S-stars</a></li>
+    <li class="backlink-item-wrap"><a href="Major%20radio%20interferometers.html" class="backlink-item">Major radio interferometers</a></li>
+    <li class="backlink-item-wrap"><a href="Very%20Long%20Baseline%20Interferometry%20VLBI.html" class="backlink-item">Very Long Baseline Interferometry VLBI</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Chandrasekhar mass limit"
-name: "Chandrasekhar mass limit"
-description: "the maximum mass a white dwarf can have when supported by relativistic electron degeneracy pressure"
 ---
-{% raw %}
 # chandrasekhar mass limit
 
 a white dwarf is held up by electron degeneracy pressure rather than thermal pressure. the polytropic structure depends on whether the electrons are non-relativistic or ultra-relativistic, and this difference produces a sharp upper mass: above a critical mass no equilibrium exists and the WD must collapse. this is the **Chandrasekhar limit**, $M_{\rm Ch} \approx 1.44\,M_\odot$ for typical electron-to-baryon ratio $\mu_e \simeq 2$ (a fully ionised C-O composition).
@@ -13,7 +10,7 @@ a white dwarf is held up by electron degeneracy pressure rather than thermal pre
 
 for a non-relativistic degenerate electron gas the equation of state is
 $$P = K_{\rm NR}\,\rho^{5/3},$$
-which corresponds to a polytrope of index $n = 3/2$. the resulting hydrostatic structure has a mass-radius relation $R \propto M^{-1/3}$ (more mass means smaller radius, see [White dwarf mass-radius relation](./White%20dwarf%20mass-radius%20relation.html)).
+which corresponds to a polytrope of index $n = 3/2$. the resulting hydrostatic structure has a mass-radius relation $R \propto M^{-1/3}$ (more mass means smaller radius, see [White dwarf mass-radius relation](White%20dwarf%20mass-radius%20relation.html)).
 
 as the WD becomes more massive its central density rises and the typical electron Fermi momentum $p_F \propto n_e^{1/3}$ becomes comparable to $m_e c$. the electrons go ultra-relativistic, and the equation of state softens to
 $$P = K_{\rm UR}\,\rho^{4/3},$$
@@ -37,21 +34,21 @@ the mass cutoff has fundamental implications: it sets the dividing line in stell
 historically, derived by Chandrasekhar in 1931 in his early twenties, this result reshaped stellar astrophysics by showing that quantum mechanics imposes a fundamental ceiling on compact-object masses.
 
 ## see also
-- [White dwarf overview](./White%20dwarf%20overview.html)
-- [White dwarf mass-radius relation](./White%20dwarf%20mass-radius%20relation.html)
-- [White dwarf types He CO ONeMg](./White%20dwarf%20types%20He%20CO%20ONeMg.html)
-- [Initial-final mass relation IFMR](./Initial-final%20mass%20relation%20IFMR.html)
+- [White dwarf overview](White%20dwarf%20overview.html)
+- [White dwarf mass-radius relation](White%20dwarf%20mass-radius%20relation.html)
+- [White dwarf types He CO ONeMg](White%20dwarf%20types%20He%20CO%20ONeMg.html)
+- [Initial-final mass relation IFMR](Initial-final%20mass%20relation%20IFMR.html)
 - [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (6)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Initial-final%20mass%20relation%20IFMR.html" class="backlink-item">Initial-final mass relation IFMR</a></li>
+    <li class="backlink-item-wrap"><a href="Initial-final%20mass%20relation%20IFMR.html" class="backlink-item">Initial-final mass relation IFMR</a></li>
+    <li class="backlink-item-wrap"><a href="White%20dwarf%20cooling%20sequence%20on%20the%20CMD.html" class="backlink-item">White dwarf cooling sequence on the CMD</a></li>
+    <li class="backlink-item-wrap"><a href="White%20dwarf%20mass-radius%20relation.html" class="backlink-item">White dwarf mass-radius relation</a></li>
+    <li class="backlink-item-wrap"><a href="White%20dwarf%20overview.html" class="backlink-item">White dwarf overview</a></li>
+    <li class="backlink-item-wrap"><a href="White%20dwarf%20types%20He%20CO%20ONeMg.html" class="backlink-item">White dwarf types He CO ONeMg</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./White%20dwarf%20cooling%20sequence%20on%20the%20CMD.html" class="backlink-item">White dwarf cooling sequence on the CMD</a></li>
-    <li class="backlink-item-wrap"><a href="./White%20dwarf%20mass-radius%20relation.html" class="backlink-item">White dwarf mass-radius relation</a></li>
-    <li class="backlink-item-wrap"><a href="./White%20dwarf%20overview.html" class="backlink-item">White dwarf overview</a></li>
-    <li class="backlink-item-wrap"><a href="./White%20dwarf%20types%20He%20CO%20ONeMg.html" class="backlink-item">White dwarf types He CO ONeMg</a></li>
   </ul>
 </div>
+

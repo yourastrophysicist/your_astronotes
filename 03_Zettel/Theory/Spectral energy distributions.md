@@ -2,7 +2,6 @@
 layout: "default"
 title: "Spectral energy distributions"
 ---
-{% raw %}
 in distant galaxies, telescopes cannot resolve individual stars: we only observe the integrated, composite light of billions of stars blended together. **Stellar Population Synthesis (SPS)** is the powerful theoretical and computational framework that allows astronomers to reconstruct the physical properties of distant galaxies—their **stellar mass $M_*$**, **star formation rate (SFR)**, **mean age**, **metallicity $Z$**, and **dust extinction $A_V$**—by modeling their **Spectral Energy Distributions (SEDs)**.
 
 ![galaxies-47.png](../../assets/images/galaxies-47.png)
@@ -139,19 +138,17 @@ measuring optical emission line ratios isolates the ionizing mechanism powering 
 ## see also
 
 - [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Galaxies across wavelengths](./Galaxies%20across%20wavelengths.html)
-- [Galaxy morphology vs physical properties](./Galaxy%20morphology%20vs%20physical%20properties.html)
-- [Stellar nucleosynthesis](./Stellar%20nucleosynthesis.html)
-- [Interstellar absorption](./Interstellar%20absorption.html)
-{% endraw %}
+- [Galaxies across wavelengths](Galaxies%20across%20wavelengths.html)
+- [Galaxy morphology vs physical properties](Galaxy%20morphology%20vs%20physical%20properties.html)
+- [Stellar nucleosynthesis](Stellar%20nucleosynthesis.html)
+- [Interstellar absorption](Interstellar%20absorption.html)
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
+  <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Galaxies%20across%20wavelengths.html" class="backlink-item">Galaxies across wavelengths</a></li>
+    <li class="backlink-item-wrap"><a href="Galaxy%20clusters%20and%20overview%20of%20evolution.html" class="backlink-item">Galaxy clusters and overview of evolution</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Galaxies%20across%20wavelengths.html" class="backlink-item">Galaxies across wavelengths</a></li>
-    <li class="backlink-item-wrap"><a href="./Galaxy%20clusters%20and%20overview%20of%20evolution.html" class="backlink-item">Galaxy clusters and overview of evolution</a></li>
-    <li class="backlink-item-wrap"><a href="./Galaxy%20morphology%20vs%20physical%20properties.html" class="backlink-item">Galaxy morphology vs physical properties</a></li>
-    <li class="backlink-item-wrap"><a href="./Hubble%20morphological%20sequence.html" class="backlink-item">Hubble morphological sequence</a></li>
   </ul>
 </div>
+

@@ -2,7 +2,6 @@
 layout: "default"
 title: "Young stellar object disks"
 ---
-{% raw %}
 # Young stellar object disks
 
 interferometric imaging of the *inner few AU* of disks around forming stars. directly probes:
@@ -107,20 +106,20 @@ YSO surveys often combine both: ALMA for outer-disk gas/dust, VLTI/CHARA for inn
 
 ## see also
 
-- [VLTI Very Large Telescope Interferometer](./VLTI%20Very%20Large%20Telescope%20Interferometer.html)
-- [Stellar surface imaging](./Stellar%20surface%20imaging.html)
-- [Dust shells and Wolf-Rayet stars](./Dust%20shells%20and%20Wolf-Rayet%20stars.html)
-- [Major radio interferometers](./Major%20radio%20interferometers.html)
+- [VLTI Very Large Telescope Interferometer](VLTI%20Very%20Large%20Telescope%20Interferometer.html)
+- [Stellar surface imaging](Stellar%20surface%20imaging.html)
+- [Dust shells and Wolf-Rayet stars](Dust%20shells%20and%20Wolf-Rayet%20stars.html)
+- [Major radio interferometers](Major%20radio%20interferometers.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../Dust%20shells%20and%20Wolf-Rayet%20stars.html" class="backlink-item">Dust shells and Wolf-Rayet stars</a></li>
-    <li class="backlink-item-wrap"><a href="./Dust%20shells%20and%20Wolf-Rayet%20stars.html" class="backlink-item">Dust shells and Wolf-Rayet stars</a></li>
-    <li class="backlink-item-wrap"><a href="./Radiation%20mechanisms%20in%20astronomy%20and%20interferometers.html" class="backlink-item">Radiation mechanisms in astronomy and interferometers</a></li>
     <li class="backlink-item-wrap"><a href="../Radiation%20mechanisms%20in%20astronomy%20and%20interferometers.html" class="backlink-item">Radiation mechanisms in astronomy and interferometers</a></li>
+    <li class="backlink-item-wrap"><a href="Dust%20shells%20and%20Wolf-Rayet%20stars.html" class="backlink-item">Dust shells and Wolf-Rayet stars</a></li>
+    <li class="backlink-item-wrap"><a href="Radiation%20mechanisms%20in%20astronomy%20and%20interferometers.html" class="backlink-item">Radiation mechanisms in astronomy and interferometers</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

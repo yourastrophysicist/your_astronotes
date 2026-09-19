@@ -2,7 +2,6 @@
 layout: "default"
 title: "Lindley paradox in statistical hypothesis testing"
 ---
-{% raw %}
 # Lindley paradox in statistical hypothesis testing
 
 Lindley's paradox (Lindley 1957) exposes a fundamental divergence between frequentist null-hypothesis significance testing ($p$-values) and Bayesian model comparison (posterior odds or Bayes factors) when evaluating sharp hypotheses with large sample sizes.
@@ -51,16 +50,16 @@ In cosmological tests (such as searching for non-zero spatial curvature $\Omega_
 ## See Also
 - [Astro-Statistics_and_Cosmology_MOC](../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html)
 - [04_Frequentist_vs_Bayesian_Inference_and_Confidence_Intervals](../../02_Literature/Lectures/Astrostatistics/04_Frequentist_vs_Bayesian_Inference_and_Confidence_Intervals.html)
-- [Bayesian evidence and model selection](./Bayesian%20evidence%20and%20model%20selection.html)
-- [Savage-Dickey density ratio for nested model comparison](./Savage-Dickey%20density%20ratio%20for%20nested%20model%20comparison.html)
-{% endraw %}
+- [Bayesian evidence and model selection](Bayesian%20evidence%20and%20model%20selection.html)
+- [Savage-Dickey density ratio for nested model comparison](Savage-Dickey%20density%20ratio%20for%20nested%20model%20comparison.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Bayesian%20evidence%20and%20model%20selection.html" class="backlink-item">Bayesian evidence and model selection</a></li>
+    <li class="backlink-item-wrap"><a href="Frequentist%20confidence%20intervals%20versus%20Bayesian%20credible%20regions.html" class="backlink-item">Frequentist confidence intervals versus Bayesian credible regions</a></li>
+    <li class="backlink-item-wrap"><a href="Savage-Dickey%20density%20ratio%20for%20nested%20model%20comparison.html" class="backlink-item">Savage-Dickey density ratio for nested model comparison</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Bayesian%20evidence%20and%20model%20selection.html" class="backlink-item">Bayesian evidence and model selection</a></li>
-    <li class="backlink-item-wrap"><a href="./Frequentist%20confidence%20intervals%20versus%20Bayesian%20credible%20regions.html" class="backlink-item">Frequentist confidence intervals versus Bayesian credible regions</a></li>
-    <li class="backlink-item-wrap"><a href="./Savage-Dickey%20density%20ratio%20for%20nested%20model%20comparison.html" class="backlink-item">Savage-Dickey density ratio for nested model comparison</a></li>
   </ul>
 </div>
+

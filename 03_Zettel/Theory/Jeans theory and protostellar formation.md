@@ -2,7 +2,6 @@
 layout: "default"
 title: "Jeans theory and protostellar formation"
 ---
-{% raw %}
 how do stars form from diffuse gas? star formation begins inside cold, dense **Giant Molecular Clouds (GMCs)** in the interstellar medium ($T \sim 10-20$ K, number density $n \sim 10^2 - 10^6 \text{ cm}^{-3}$, mass $M \sim 10^4 - 10^6 M_\odot$). 
 
 Sir James Jeans (1902) formulated the classical theory of **gravitational instability**: under what conditions does an infinitesimal density perturbation in a self-gravitating gas cloud grow exponentially, overcoming thermal gas pressure and causing the cloud to collapse into protostars?
@@ -188,18 +187,18 @@ on astrophysical scales ($k \ll m_R$), $G_{\text{eff}} \to G$, recovering standa
 ## see also
 
 - [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Pre-main sequence evolution and protostars](./Pre-main%20sequence%20evolution%20and%20protostars.html)
-- [Stellar structure equations](./Stellar%20structure%20equations.html)
-- [Linear evolution of perturbations in expanding universe](./Linear%20evolution%20of%20perturbations%20in%20expanding%20universe.html)
-- [Jeans analysis in expanding universe](./Jeans%20analysis%20in%20expanding%20universe.html)
-{% endraw %}
+- [Pre-main sequence evolution and protostars](Pre-main%20sequence%20evolution%20and%20protostars.html)
+- [Stellar structure equations](Stellar%20structure%20equations.html)
+- [Linear evolution of perturbations in expanding universe](Linear%20evolution%20of%20perturbations%20in%20expanding%20universe.html)
+- [Jeans analysis in expanding universe](Jeans%20analysis%20in%20expanding%20universe.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Interstellar%20medium%20components%20and%20gas%20cycle.html" class="backlink-item">Interstellar medium components and gas cycle</a></li>
+    <li class="backlink-item-wrap"><a href="Jeans%20analysis%20in%20expanding%20universe.html" class="backlink-item">Jeans analysis in expanding universe</a></li>
+    <li class="backlink-item-wrap"><a href="Pre-main%20sequence%20evolution%20and%20protostars.html" class="backlink-item">Pre-main sequence evolution and protostars</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Interstellar%20medium%20components%20and%20gas%20cycle.html" class="backlink-item">Interstellar medium components and gas cycle</a></li>
-    <li class="backlink-item-wrap"><a href="./Jeans%20analysis%20in%20expanding%20universe.html" class="backlink-item">Jeans analysis in expanding universe</a></li>
-    <li class="backlink-item-wrap"><a href="./Pre-main%20sequence%20evolution%20and%20protostars.html" class="backlink-item">Pre-main sequence evolution and protostars</a></li>
   </ul>
 </div>
+

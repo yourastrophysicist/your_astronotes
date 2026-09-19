@@ -2,7 +2,6 @@
 layout: "default"
 title: "Antenna effective area and gain"
 ---
-{% raw %}
 # Antenna effective area and gain
 
 BookAI treats a radio antenna as both a collector and a directional filter. the important quantities are effective area, directivity, gain, and beam solid angle.
@@ -85,4 +84,3 @@ source: local study diagram generated from standard antenna relations.
 - [Beam power pattern of a radio telescope](interf/Beam%20power%20pattern%20of%20a%20radio%20telescope.html)
 - [Radiometer equation and SEFD](interf/Radiometer%20equation%20and%20SEFD.html)
 - [Radio interferometer architecture](interf/Radio%20interferometer%20architecture.html)
-{% endraw %}

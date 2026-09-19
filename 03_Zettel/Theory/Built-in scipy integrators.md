@@ -2,7 +2,6 @@
 layout: "default"
 title: "Built-in scipy integrators"
 ---
-{% raw %}
 # Built-in scipy integrators
 
 `scipy.integrate` has the production-grade quadrature and ODE integration tools. for most real work, I use these instead of writing my own. the exam usually asks for "by hand" implementations, but knowing the production version lets me cross-check.
@@ -146,7 +145,7 @@ y_init = np.zeros((2, x.size))
 sol = solve_bvp(rhs, bc, x, y_init)
 ```
 
-uses collocation, an alternative to [shooting](./Shooting%20method.html). usually more robust.
+uses collocation, an alternative to [shooting](Shooting%20method.html). usually more robust.
 
 ## when to roll my own
 
@@ -159,21 +158,21 @@ for everything else, use the scipy black box. it has been tested by thousands of
 
 ## see also
 
-- [Trapezoidal rule](./Trapezoidal%20rule.html)
-- [Simpson's rule](./Simpson%27s%20rule.html)
-- [Runge-Kutta 4 method](./Runge-Kutta%204%20method.html)
-- [Adaptive step size control](./Adaptive%20step%20size%20control.html)
-- [Shooting method](./Shooting%20method.html)
+- [Trapezoidal rule](Trapezoidal%20rule.html)
+- [Simpson's rule](Simpson%27s%20rule.html)
+- [Runge-Kutta 4 method](Runge-Kutta%204%20method.html)
+- [Adaptive step size control](Adaptive%20step%20size%20control.html)
+- [Shooting method](Shooting%20method.html)
 - [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Initial%20value%20vs%20boundary%20value%20problems.html" class="backlink-item">Initial value vs boundary value problems</a></li>
+    <li class="backlink-item-wrap"><a href="Initial%20value%20vs%20boundary%20value%20problems.html" class="backlink-item">Initial value vs boundary value problems</a></li>
+    <li class="backlink-item-wrap"><a href="Systems%20of%20ODEs%20and%20higher-order%20ODEs.html" class="backlink-item">Systems of ODEs and higher-order ODEs</a></li>
+    <li class="backlink-item-wrap"><a href="Trapezoidal%20rule%20error%20estimate.html" class="backlink-item">Trapezoidal rule error estimate</a></li>
+    <li class="backlink-item-wrap"><a href="When%20to%20use%20implicit%20schemes.html" class="backlink-item">When to use implicit schemes</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Systems%20of%20ODEs%20and%20higher-order%20ODEs.html" class="backlink-item">Systems of ODEs and higher-order ODEs</a></li>
-    <li class="backlink-item-wrap"><a href="./Trapezoidal%20rule%20error%20estimate.html" class="backlink-item">Trapezoidal rule error estimate</a></li>
-    <li class="backlink-item-wrap"><a href="./When%20to%20use%20implicit%20schemes.html" class="backlink-item">When to use implicit schemes</a></li>
   </ul>
 </div>
+

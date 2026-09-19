@@ -2,7 +2,6 @@
 layout: "default"
 title: "ALMA exposure time calculator and sensitivity"
 ---
-{% raw %}
 # ALMA exposure time calculator and sensitivity
 
 BookAI uses the ALMA Exposure Time Calculator as a concrete example of how sensitivity estimates become observing-time estimates.
@@ -88,4 +87,3 @@ source: local plot generated from the radiometer-equation scaling.
 - [Antenna effective area and gain](interf/Antenna%20effective%20area%20and%20gain.html)
 - [Radio interferometer architecture](interf/Radio%20interferometer%20architecture.html)
 - [Steps in radio interferometric observations](interf/Steps%20in%20radio%20interferometric%20observations.html)
-{% endraw %}

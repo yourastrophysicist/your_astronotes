@@ -2,7 +2,6 @@
 layout: "default"
 title: "Intensity interferometry concept"
 ---
-{% raw %}
 # Intensity interferometry concept
 
 a different beast from amplitude interferometry. correlate the *intensity fluctuations* at two telescopes rather than the wave amplitudes. the resulting "intensity coherence" carries the same source-size information as amplitude visibility, but the technique is much *less* sensitive to atmospheric phase corruption.
@@ -137,4 +136,3 @@ intensity interferometers calibrate by measuring an unresolved (or known-diamete
 
 ![ivkovic_2024_fig6.png](../../assets/images/ivkovic_2024_fig6.png)
 *Ivkovic et al. (2024) Figure 6: Reconstructed stellar surface brightness profile and limb-darkening constraints from intensity interferometry.*
-{% endraw %}

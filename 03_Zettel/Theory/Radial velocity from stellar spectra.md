@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Radial velocity from stellar spectra"
-name: "Radial velocity from stellar spectra"
-description: "measuring line-of-sight velocity from Doppler shifts of stellar absorption lines, with applications from binaries to exoplanets"
 ---
-{% raw %}
 # radial velocity from stellar spectra
 
 a stellar spectrum carries a Doppler-shifted version of the rest-frame line list of the photosphere. measuring the wavelength shift gives the line-of-sight velocity (radial velocity, RV) of the star. RV is one of the cleanest spectroscopic observables and underpins binary orbits, cluster membership, exoplanet detections, galactic kinematics, and cosmological redshift.
@@ -51,16 +48,16 @@ $$v_{\rm GR} = \frac{GM}{Rc} \approx 0.6\;\text{km/s}\quad\text{for the sun}.$$
 absolute RVs (referred to a global standard) rely on accurate atomic line wavelengths and detailed corrections; precision is limited to $\sim 100$ m/s. differential RVs (within one observing campaign of one star) routinely reach 0.5-1 m/s, which is what makes exoplanet RV surveys possible.
 
 ## see also
-- [Stellar rotation v sini](./Stellar%20rotation%20v%20sini.html)
+- [Stellar rotation v sini](Stellar%20rotation%20v%20sini.html)
 - [Atmospheric parameters Teff log g feh vmicro](interf/Atmospheric%20parameters%20Teff%20log%20g%20feh%20vmicro.html)
-- [Annual stellar parallax](./Annual%20stellar%20parallax.html)
+- [Annual stellar parallax](Annual%20stellar%20parallax.html)
 - [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Stellar%20rotation%20v%20sini.html" class="backlink-item">Stellar rotation v sini</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20rotation%20v%20sini.html" class="backlink-item">Stellar rotation v sini</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

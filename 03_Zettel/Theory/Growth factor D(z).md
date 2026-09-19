@@ -2,11 +2,10 @@
 layout: "default"
 title: "Growth factor D(z)"
 ---
-{% raw %}
 the **growth factor** $D(z)$ describes how the amplitude of a linear matter perturbation grows from some reference time (usually $z = \infty$ or recombination) to redshift $z$:
 $$\delta(\vec x, z) = D(z)\, \delta(\vec x, z = z_{\rm ref})$$
 
-it satisfies the master perturbation equation (see [Linear evolution of perturbations in expanding universe](./Linear%20evolution%20of%20perturbations%20in%20expanding%20universe.html)) and depends on the cosmological parameters.
+it satisfies the master perturbation equation (see [Linear evolution of perturbations in expanding universe](Linear%20evolution%20of%20perturbations%20in%20expanding%20universe.html)) and depends on the cosmological parameters.
 
 ---
 
@@ -66,7 +65,7 @@ $$f(z) \approx \Omega_m(z)^{0.55}$$
 
 ### early dark energy and the Hubble tension
 
-if there is "early dark energy" before recombination, $H$ is higher at that epoch, affecting the sound horizon and CMB peak positions. this changes $D(z)$ and the inferred $H_0$ — proposed as a way to relieve the Hubble tension (see [Hubble constant and deceleration parameter](./Hubble%20constant%20and%20deceleration%20parameter.html)).
+if there is "early dark energy" before recombination, $H$ is higher at that epoch, affecting the sound horizon and CMB peak positions. this changes $D(z)$ and the inferred $H_0$ — proposed as a way to relieve the Hubble tension (see [Hubble constant and deceleration parameter](Hubble%20constant%20and%20deceleration%20parameter.html)).
 
 ---
 
@@ -85,12 +84,12 @@ so $D(z)$ is one of the central observables of late-time cosmology, complementar
 ## see also
 
 - [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Linear evolution of perturbations in expanding universe](./Linear%20evolution%20of%20perturbations%20in%20expanding%20universe.html)
-- [Jeans analysis in expanding universe](./Jeans%20analysis%20in%20expanding%20universe.html)
-- [Spherical collapse](./Spherical%20collapse.html)
-- [Matter power spectrum and BAO](./Matter%20power%20spectrum%20and%20BAO.html)
-- [Hubble constant and deceleration parameter](./Hubble%20constant%20and%20deceleration%20parameter.html)
-- [Cosmic_inventory_dark_energy](./Cosmic_inventory_dark_energy.html)
+- [Linear evolution of perturbations in expanding universe](Linear%20evolution%20of%20perturbations%20in%20expanding%20universe.html)
+- [Jeans analysis in expanding universe](Jeans%20analysis%20in%20expanding%20universe.html)
+- [Spherical collapse](Spherical%20collapse.html)
+- [Matter power spectrum and BAO](Matter%20power%20spectrum%20and%20BAO.html)
+- [Hubble constant and deceleration parameter](Hubble%20constant%20and%20deceleration%20parameter.html)
+- [Cosmic_inventory_dark_energy](Cosmic_inventory_dark_energy.html)
 
 ---
 
@@ -114,22 +113,22 @@ so $D(z)$ is one of the central observables of late-time cosmology, complementar
 
 ![obscos_lesson1_p45.png](../../assets/images/obscos_lesson1_p45.png)
 *Exact integral solution for linear growth factor $D(z) \propto H(z) \int_z^\infty \frac{1+z'}{H(z')^3} dz'$.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (12)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Baumann_reference.html" class="backlink-item">Baumann_reference</a></li>
-    <li class="backlink-item-wrap"><a href="./Cosmological%20evolution%20of%20perturbations%20in%20the%20cosmic%20fluid.html" class="backlink-item">Cosmological evolution of perturbations in the cosmic fluid</a></li>
+    <li class="backlink-item-wrap"><a href="Baumann_reference.html" class="backlink-item">Baumann_reference</a></li>
+    <li class="backlink-item-wrap"><a href="Cosmological%20evolution%20of%20perturbations%20in%20the%20cosmic%20fluid.html" class="backlink-item">Cosmological evolution of perturbations in the cosmic fluid</a></li>
+    <li class="backlink-item-wrap"><a href="Galaxy%20clusters%20and%20overview%20of%20evolution.html" class="backlink-item">Galaxy clusters and overview of evolution</a></li>
+    <li class="backlink-item-wrap"><a href="Jeans%20analysis%20in%20expanding%20universe.html" class="backlink-item">Jeans analysis in expanding universe</a></li>
+    <li class="backlink-item-wrap"><a href="Linear%20evolution%20of%20perturbations%20in%20expanding%20universe.html" class="backlink-item">Linear evolution of perturbations in expanding universe</a></li>
+    <li class="backlink-item-wrap"><a href="Linear%20vs%20nonlinear%20regime.html" class="backlink-item">Linear vs nonlinear regime</a></li>
+    <li class="backlink-item-wrap"><a href="Matter%20power%20spectrum%20and%20BAO.html" class="backlink-item">Matter power spectrum and BAO</a></li>
+    <li class="backlink-item-wrap"><a href="Perturbations%20in%20an%20expanding%20universe.html" class="backlink-item">Perturbations in an expanding universe</a></li>
+    <li class="backlink-item-wrap"><a href="Press-Schechter%20halo%20mass%20function.html" class="backlink-item">Press-Schechter halo mass function</a></li>
+    <li class="backlink-item-wrap"><a href="Spherical%20collapse.html" class="backlink-item">Spherical collapse</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Galaxy%20clusters%20and%20overview%20of%20evolution.html" class="backlink-item">Galaxy clusters and overview of evolution</a></li>
-    <li class="backlink-item-wrap"><a href="./Jeans%20analysis%20in%20expanding%20universe.html" class="backlink-item">Jeans analysis in expanding universe</a></li>
-    <li class="backlink-item-wrap"><a href="./Linear%20evolution%20of%20perturbations%20in%20expanding%20universe.html" class="backlink-item">Linear evolution of perturbations in expanding universe</a></li>
-    <li class="backlink-item-wrap"><a href="./Linear%20vs%20nonlinear%20regime.html" class="backlink-item">Linear vs nonlinear regime</a></li>
-    <li class="backlink-item-wrap"><a href="./Matter%20power%20spectrum%20and%20BAO.html" class="backlink-item">Matter power spectrum and BAO</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Perturbations%20in%20an%20expanding%20universe.html" class="backlink-item">Perturbations in an expanding universe</a></li>
-    <li class="backlink-item-wrap"><a href="./Press-Schechter%20halo%20mass%20function.html" class="backlink-item">Press-Schechter halo mass function</a></li>
-    <li class="backlink-item-wrap"><a href="./Spherical%20collapse.html" class="backlink-item">Spherical collapse</a></li>
   </ul>
 </div>
+

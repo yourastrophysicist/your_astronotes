@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Primordial helium abundance from HII regions"
-name: "Primordial helium abundance from HII regions"
-description: "determination of cosmological primordial helium Yp via optical He I recombination lines in low-metallicity HII regions"
 ---
-{% raw %}
 low-metallicity extragalactic H II regions (such as blue compact dwarf galaxies I Zw 18 and SBS 0335-052) provide the cleanest observational measurement of the primordial helium mass fraction $Y_p$ produced during Big Bang Nucleosynthesis (BBN).
 
 ## physical method
@@ -33,17 +30,16 @@ this empirical value is in complete concordance with standard Big Bang Nucleosyn
 ## see also
 
 - [Astrophysics_of_the_Interstellar_Medium_MOC](../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html)
-- [BBN_overview](./BBN_overview.html)
-- [HII regions and Stromgren sphere physics](./HII%20regions%20and%20Stromgren%20sphere%20physics.html)
+- [BBN_overview](BBN_overview.html)
+- [HII regions and Stromgren sphere physics](HII%20regions%20and%20Stromgren%20sphere%20physics.html)
 - [Carraro_03_HII_Regions_and_Photoionized_Gas](../../02_Literature/Lectures/Interstellar_Medium/Carraro_03_HII_Regions_and_Photoionized_Gas.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
+  <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Forbidden%20line%20diagnostics%20of%20electron%20temperature%20and%20density.html" class="backlink-item">Forbidden line diagnostics of electron temperature and density</a></li>
+    <li class="backlink-item-wrap"><a href="HII%20regions%20and%20Stromgren%20sphere%20physics.html" class="backlink-item">HII regions and Stromgren sphere physics</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html" class="backlink-item">Astrophysics_of_the_Interstellar_Medium_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Interstellar_Medium/Carraro_03_HII_Regions_and_Photoionized_Gas.html" class="backlink-item">Carraro_03_HII_Regions_and_Photoionized_Gas</a></li>
-    <li class="backlink-item-wrap"><a href="./Forbidden%20line%20diagnostics%20of%20electron%20temperature%20and%20density.html" class="backlink-item">Forbidden line diagnostics of electron temperature and density</a></li>
-    <li class="backlink-item-wrap"><a href="./HII%20regions%20and%20Stromgren%20sphere%20physics.html" class="backlink-item">HII regions and Stromgren sphere physics</a></li>
   </ul>
 </div>
+

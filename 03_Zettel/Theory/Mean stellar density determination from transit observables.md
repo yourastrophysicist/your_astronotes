@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Mean stellar density determination from transit observables"
-name: "Mean stellar density determination from transit observables"
-description: "direct inversion of mean stellar density from light curve duration, depth, and orbital period without stellar evolutionary tracks"
 ---
-{% raw %}
 Sara Seager and Gabriela Mallén-Ornelas (2003) demonstrated that a high-precision photometric transit light curve directly determines the mean density of the host star $\bar{\rho}_\star$ independently of stellar models.
 
 ## mathematical derivation
@@ -45,14 +42,14 @@ comparing $\bar{\rho}_{\star, \text{transit}}$ to the spectroscopic density $\ba
 
 - [Exoplanetary_Astrophysics_MOC](../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)
 - [16_Transit_Light_Curve_Modeling_and_Limb_Darkening](../../02_Literature/Lectures/Exoplanetary_Astrophysics/16_Transit_Light_Curve_Modeling_and_Limb_Darkening.html)
-- [Mandel-Agol analytical transit light curve model](./Mandel-Agol%20analytical%20transit%20light%20curve%20model.html)
-- [Transit false positive vetting and blending validation](./Transit%20false%20positive%20vetting%20and%20blending%20validation.html)
-{% endraw %}
+- [Mandel-Agol analytical transit light curve model](Mandel-Agol%20analytical%20transit%20light%20curve%20model.html)
+- [Transit false positive vetting and blending validation](Transit%20false%20positive%20vetting%20and%20blending%20validation.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Mandel-Agol%20analytical%20transit%20light%20curve%20model.html" class="backlink-item">Mandel-Agol analytical transit light curve model</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Mandel-Agol%20analytical%20transit%20light%20curve%20model.html" class="backlink-item">Mandel-Agol analytical transit light curve model</a></li>
   </ul>
 </div>
+

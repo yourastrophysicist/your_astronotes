@@ -2,7 +2,6 @@
 layout: "default"
 title: "Very Long Baseline Interferometry VLBI"
 ---
-{% raw %}
 # Very Long Baseline Interferometry (VLBI)
 
 radio interferometry with antennas spread across continents (or even between Earth and space). achieves the highest angular resolutions in astronomy — μarcseconds at mm wavelengths. signals are recorded at each station with atomic-clock timing and correlated post-hoc.
@@ -119,37 +118,37 @@ source: ESO image eso1907j, EHT planet-scale array illustration.
 
 ## see also
 
-- [Connected element interferometer](./Connected%20element%20interferometer.html)
-- [Major radio interferometers](./Major%20radio%20interferometers.html)
-- [Event Horizon Telescope EHT](./Event%20Horizon%20Telescope%20EHT.html)
-- [Earth rotation synthesis in radio](./Earth%20rotation%20synthesis%20in%20radio.html)
+- [Connected element interferometer](Connected%20element%20interferometer.html)
+- [Major radio interferometers](Major%20radio%20interferometers.html)
+- [Event Horizon Telescope EHT](Event%20Horizon%20Telescope%20EHT.html)
+- [Earth rotation synthesis in radio](Earth%20rotation%20synthesis%20in%20radio.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (22)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Connected%20element%20interferometer.html" class="backlink-item">Connected element interferometer</a></li>
     <li class="backlink-item-wrap"><a href="../Connected%20element%20interferometer.html" class="backlink-item">Connected element interferometer</a></li>
     <li class="backlink-item-wrap"><a href="../Cosmological%20masers.html" class="backlink-item">Cosmological masers</a></li>
-    <li class="backlink-item-wrap"><a href="./Cosmological%20masers.html" class="backlink-item">Cosmological masers</a></li>
     <li class="backlink-item-wrap"><a href="../Digitization%20quantization%20and%20timing%20in%20radio%20interferometry.html" class="backlink-item">Digitization quantization and timing in radio interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="./Digitization%20quantization%20and%20timing%20in%20radio%20interferometry.html" class="backlink-item">Digitization quantization and timing in radio interferometry</a></li>
     <li class="backlink-item-wrap"><a href="../Event%20Horizon%20Telescope%20EHT.html" class="backlink-item">Event Horizon Telescope EHT</a></li>
-    <li class="backlink-item-wrap"><a href="./Event%20Horizon%20Telescope%20EHT.html" class="backlink-item">Event Horizon Telescope EHT</a></li>
-    <li class="backlink-item-wrap"><a href="./Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
     <li class="backlink-item-wrap"><a href="../Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
     <li class="backlink-item-wrap"><a href="../Major%20radio%20interferometers.html" class="backlink-item">Major radio interferometers</a></li>
-    <li class="backlink-item-wrap"><a href="./Major%20radio%20interferometers.html" class="backlink-item">Major radio interferometers</a></li>
-    <li class="backlink-item-wrap"><a href="./Pulsar%20interferometry.html" class="backlink-item">Pulsar interferometry</a></li>
     <li class="backlink-item-wrap"><a href="../Pulsar%20interferometry.html" class="backlink-item">Pulsar interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="./Pulsar%20timing%20arrays%20as%20interferometers.html" class="backlink-item">Pulsar timing arrays as interferometers</a></li>
     <li class="backlink-item-wrap"><a href="../Pulsar%20timing%20arrays%20as%20interferometers.html" class="backlink-item">Pulsar timing arrays as interferometers</a></li>
-    <li class="backlink-item-wrap"><a href="./Radio%20interferometer%20architecture.html" class="backlink-item">Radio interferometer architecture</a></li>
     <li class="backlink-item-wrap"><a href="../Radio%20interferometer%20architecture.html" class="backlink-item">Radio interferometer architecture</a></li>
     <li class="backlink-item-wrap"><a href="../Two-element%20correlator.html" class="backlink-item">Two-element correlator</a></li>
-    <li class="backlink-item-wrap"><a href="./ngVLA%20Next%20Generation%20VLA.html" class="backlink-item">ngVLA Next Generation VLA</a></li>
+    <li class="backlink-item-wrap"><a href="Connected%20element%20interferometer.html" class="backlink-item">Connected element interferometer</a></li>
+    <li class="backlink-item-wrap"><a href="Cosmological%20masers.html" class="backlink-item">Cosmological masers</a></li>
+    <li class="backlink-item-wrap"><a href="Digitization%20quantization%20and%20timing%20in%20radio%20interferometry.html" class="backlink-item">Digitization quantization and timing in radio interferometry</a></li>
+    <li class="backlink-item-wrap"><a href="Event%20Horizon%20Telescope%20EHT.html" class="backlink-item">Event Horizon Telescope EHT</a></li>
+    <li class="backlink-item-wrap"><a href="Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
+    <li class="backlink-item-wrap"><a href="Major%20radio%20interferometers.html" class="backlink-item">Major radio interferometers</a></li>
+    <li class="backlink-item-wrap"><a href="Pulsar%20interferometry.html" class="backlink-item">Pulsar interferometry</a></li>
+    <li class="backlink-item-wrap"><a href="Pulsar%20timing%20arrays%20as%20interferometers.html" class="backlink-item">Pulsar timing arrays as interferometers</a></li>
+    <li class="backlink-item-wrap"><a href="Radio%20interferometer%20architecture.html" class="backlink-item">Radio interferometer architecture</a></li>
+    <li class="backlink-item-wrap"><a href="ngVLA%20Next%20Generation%20VLA.html" class="backlink-item">ngVLA Next Generation VLA</a></li>
     <li class="backlink-item-wrap"><a href="../ngVLA%20Next%20Generation%20VLA.html" class="backlink-item">ngVLA Next Generation VLA</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "UFDG dark matter content"
-name: "UFDG dark matter content"
-description: "high mass-to-light ratios in ultra-faint dwarfs as evidence for dark matter dominance and constraints on warm DM models"
 ---
-{% raw %}
 ultra-faint dwarf galaxies are the **most dark-matter-dominated objects known**. their mass-to-light ratios within the half-light radius reach $M/L \sim 100$-$1000$ in solar units, far exceeding what the stellar population can produce ($M/L \sim 1$-$5$ for an old stellar population). the inferred mass is overwhelmingly non-baryonic.
 
 **how the mass is measured**: UFDGs are **pressure-supported** spheroids without measurable rotation. for a system in dynamical equilibrium, the jeans equation relates the line-of-sight velocity dispersion to the enclosed mass. a useful estimator is the wolf et al. 2010 mass within the half-light radius:
@@ -35,17 +32,17 @@ so once you measure $\sigma_v \sim 3$-$8$ km/s spectroscopically and $r_{1/2} \s
 
 UFDG dark matter content is, after galactic rotation curves and CMB peaks, one of the cleanest pieces of evidence that dark matter exists, behaves cold-ish, and assembles into bound halos down to very small masses.
 
-see also [Ultra-faint dwarf galaxies definition](./Ultra-faint%20dwarf%20galaxies%20definition.html), [UFDG star formation histories](./UFDG%20star%20formation%20histories.html), [UFDG search via deep CMD](./UFDG%20search%20via%20deep%20CMD.html), [Pop III remnants in UFDGs](./Pop%20III%20remnants%20in%20UFDGs.html), [Halo accretion from dwarf galaxies](./Halo%20accretion%20from%20dwarf%20galaxies.html), [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
-{% endraw %}
+see also [Ultra-faint dwarf galaxies definition](Ultra-faint%20dwarf%20galaxies%20definition.html), [UFDG star formation histories](UFDG%20star%20formation%20histories.html), [UFDG search via deep CMD](UFDG%20search%20via%20deep%20CMD.html), [Pop III remnants in UFDGs](Pop%20III%20remnants%20in%20UFDGs.html), [Halo accretion from dwarf galaxies](Halo%20accretion%20from%20dwarf%20galaxies.html), [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (6)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Pop%20III%20nucleosynthesis%20signatures.html" class="backlink-item">Pop III nucleosynthesis signatures</a></li>
-    <li class="backlink-item-wrap"><a href="./Pop%20III%20remnants%20in%20UFDGs.html" class="backlink-item">Pop III remnants in UFDGs</a></li>
+    <li class="backlink-item-wrap"><a href="Pop%20III%20nucleosynthesis%20signatures.html" class="backlink-item">Pop III nucleosynthesis signatures</a></li>
+    <li class="backlink-item-wrap"><a href="Pop%20III%20remnants%20in%20UFDGs.html" class="backlink-item">Pop III remnants in UFDGs</a></li>
+    <li class="backlink-item-wrap"><a href="UFDG%20search%20via%20deep%20CMD.html" class="backlink-item">UFDG search via deep CMD</a></li>
+    <li class="backlink-item-wrap"><a href="UFDG%20star%20formation%20histories.html" class="backlink-item">UFDG star formation histories</a></li>
+    <li class="backlink-item-wrap"><a href="Ultra-faint%20dwarf%20galaxies%20definition.html" class="backlink-item">Ultra-faint dwarf galaxies definition</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./UFDG%20search%20via%20deep%20CMD.html" class="backlink-item">UFDG search via deep CMD</a></li>
-    <li class="backlink-item-wrap"><a href="./UFDG%20star%20formation%20histories.html" class="backlink-item">UFDG star formation histories</a></li>
-    <li class="backlink-item-wrap"><a href="./Ultra-faint%20dwarf%20galaxies%20definition.html" class="backlink-item">Ultra-faint dwarf galaxies definition</a></li>
   </ul>
 </div>
+

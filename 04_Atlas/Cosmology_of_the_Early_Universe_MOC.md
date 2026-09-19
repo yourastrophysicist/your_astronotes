@@ -2,7 +2,6 @@
 layout: "default"
 title: "Cosmology_of_the_Early_Universe_MOC"
 ---
-{% raw %}
 # Cosmology of the Early Universe — Map of Content
 
 > **Master Year 2 Semester 1** | **A.Y. 2026/2027** (Pre-class compilation from 2024–2026 materials)  
@@ -190,10 +189,10 @@ SORT file.name ASC
 
 ## Cross-Course Vault Connections
 
-* [Observational_Cosmology_MOC](./Observational_Cosmology_MOC.html) — Late-time FLRW geometry, distance ladder, CMB temperature anisotropies, and large-scale structure formation.
-* [General_Relativity_MOC](./General_Relativity_MOC.html) — Spacetime curvature, Christoffel symbols, Einstein field equations, and relativistic stress-energy conservation.
-* [Fundamentals_Astrophysics_Cosmology_MOC](./Fundamentals_Astrophysics_Cosmology_MOC.html) — Thermal history of the universe, Big Bang Nucleosynthesis, and recombination physics.
-* [Astro-Statistics_and_Cosmology_MOC](./Astro-Statistics_and_Cosmology_MOC.html) — Gaussian random fields, power spectrum estimators, MCMC analysis, and parameter likelihoods.
+* [Observational_Cosmology_MOC](Observational_Cosmology_MOC.html) — Late-time FLRW geometry, distance ladder, CMB temperature anisotropies, and large-scale structure formation.
+* [General_Relativity_MOC](General_Relativity_MOC.html) — Spacetime curvature, Christoffel symbols, Einstein field equations, and relativistic stress-energy conservation.
+* [Fundamentals_Astrophysics_Cosmology_MOC](Fundamentals_Astrophysics_Cosmology_MOC.html) — Thermal history of the universe, Big Bang Nucleosynthesis, and recombination physics.
+* [Astro-Statistics_and_Cosmology_MOC](Astro-Statistics_and_Cosmology_MOC.html) — Gaussian random fields, power spectrum estimators, MCMC analysis, and parameter likelihoods.
 * Master Year 2 Semester 1 Timetable — Weekly class schedule and semester planning dashboard.
 
 
@@ -240,54 +239,3 @@ SORT file.name ASC
 - **Spectral Tilt**: $n_s - 1 = 2\eta - 6\epsilon$
 - **Maldacena Local Non-Gaussianity**: $f_{\mathrm{NL}}^{\mathrm{local}} = \frac{5}{12}(1 - n_s)$
 - **Lyth Bound**: $\Delta \phi \gtrsim M_{\mathrm{pl}} \sqrt{\frac{r}{8}} N_{\mathrm{eff}}$
-{% endraw %}
-
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (44)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./04_Atlas.html" class="backlink-item">04_Atlas</a></li>
-    <li class="backlink-item-wrap"><a href="./Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Bartolo_Exam_Exercises_and_Applications_Guide.html" class="backlink-item">Bartolo_Exam_Exercises_and_Applications_Guide</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Bunch-Davies%20vacuum%20and%20mode%20functions.html" class="backlink-item">Bunch-Davies vacuum and mode functions</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/CMB%20angular%20power%20spectrum%20estimator%20and%20cosmic%20variance.html" class="backlink-item">CMB angular power spectrum estimator and cosmic variance</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Consistency%20relation%20of%20single-field%20slow-roll%20inflation.html" class="backlink-item">Consistency relation of single-field slow-roll inflation</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Cosmic%20relics%20and%20Kibble%20mechanism.html" class="backlink-item">Cosmic relics and Kibble mechanism</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Cosmological%20perturbation%20theory%20in%20General%20Relativity.html" class="backlink-item">Cosmological perturbation theory in General Relativity</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Course_Overview_and_Syllabus.html" class="backlink-item">Course_Overview_and_Syllabus</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Curvature%20perturbation%20R%20and%20zeta.html" class="backlink-item">Curvature perturbation R and zeta</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Dark%20matter%20thermal%20freeze-out%20and%20Lee-Weinberg%20bound.html" class="backlink-item">Dark matter thermal freeze-out and Lee-Weinberg bound</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Delta-N%20formalism.html" class="backlink-item">Delta-N formalism</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Electroweak%20sphalerons%20and%20leptogenesis.html" class="backlink-item">Electroweak sphalerons and leptogenesis</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Flatness%20problem%20and%20dynamical%20attractor.html" class="backlink-item">Flatness problem and dynamical attractor</a></li>
-    <li class="backlink-item-wrap"><a href="./Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Gauge%20transformations%20and%20Bardeen%20potentials.html" class="backlink-item">Gauge transformations and Bardeen potentials</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Gauge-invariant%20density%20perturbation%20and%20relativistic%20Poisson%20equation.html" class="backlink-item">Gauge-invariant density perturbation and relativistic Poisson equation</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Horizon%20problem%20and%20causal%20structure.html" class="backlink-item">Horizon problem and causal structure</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Hot%20versus%20cold%20dark%20matter%20in%20the%20early%20universe.html" class="backlink-item">Hot versus cold dark matter in the early universe</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/In-In%20formalism%20for%20cosmological%20correlators.html" class="backlink-item">In-In formalism for cosmological correlators</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Large-field%20versus%20small-field%20inflation%20models.html" class="backlink-item">Large-field versus small-field inflation models</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Lyth%20bound%20and%20field%20excursion.html" class="backlink-item">Lyth bound and field excursion</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Maldacena%20consistency%20condition.html" class="backlink-item">Maldacena consistency condition</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Non-thermal%20dark%20matter%20relics%20and%20axion%20misalignment.html" class="backlink-item">Non-thermal dark matter relics and axion misalignment</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Number%20of%20e-folds%20and%20horizon%20exit.html" class="backlink-item">Number of e-folds and horizon exit</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Out-of-equilibrium%20decay%20baryogenesis%20and%20Weinberg%20model.html" class="backlink-item">Out-of-equilibrium decay baryogenesis and Weinberg model</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part1_Standard_Big_Bang_and_Shortcomings.html" class="backlink-item">Part1_Standard_Big_Bang_and_Shortcomings</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part2_Inflation_Kinematics_Dynamics_and_Models.html" class="backlink-item">Part2_Inflation_Kinematics_Dynamics_and_Models</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part3_Quantum_Perturbations_and_Power_Spectra.html" class="backlink-item">Part3_Quantum_Perturbations_and_Power_Spectra</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part4_Advanced_Formalisms_and_Non_Gaussianity.html" class="backlink-item">Part4_Advanced_Formalisms_and_Non_Gaussianity</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part5_GR_Cosmological_Perturbation_Theory.html" class="backlink-item">Part5_GR_Cosmological_Perturbation_Theory</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part6_Reheating_Baryogenesis_and_Dark_Matter.html" class="backlink-item">Part6_Reheating_Baryogenesis_and_Dark_Matter</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Preheating%20and%20parametric%20resonance.html" class="backlink-item">Preheating and parametric resonance</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Primordial%20non-Gaussianity%20and%20bispectrum%20shapes.html" class="backlink-item">Primordial non-Gaussianity and bispectrum shapes</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Quantum%20fluctuations%20of%20the%20inflaton%20field.html" class="backlink-item">Quantum fluctuations of the inflaton field</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Reheating%20dynamics%20and%20thermalization.html" class="backlink-item">Reheating dynamics and thermalization</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Sakharov%20conditions%20for%20baryogenesis.html" class="backlink-item">Sakharov conditions for baryogenesis</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Sasaki-Mukhanov%20variable%20and%20equation.html" class="backlink-item">Sasaki-Mukhanov variable and equation</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Scalar%20primordial%20power%20spectrum%20and%20spectral%20index.html" class="backlink-item">Scalar primordial power spectrum and spectral index</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Single-field%20slow-roll%20inflation%20dynamics.html" class="backlink-item">Single-field slow-roll inflation dynamics</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Slow-roll%20parameters%20epsilon%20and%20eta.html" class="backlink-item">Slow-roll parameters epsilon and eta</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Starobinsky%20R-squared%20inflation.html" class="backlink-item">Starobinsky R-squared inflation</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Tensor%20perturbations%20and%20primordial%20gravitational%20waves.html" class="backlink-item">Tensor perturbations and primordial gravitational waves</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Tensor-to-scalar%20ratio%20r%20and%20inflation%20energy%20scale.html" class="backlink-item">Tensor-to-scalar ratio r and inflation energy scale</a></li>
-  </ul>
-</div>

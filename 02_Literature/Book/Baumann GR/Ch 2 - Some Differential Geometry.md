@@ -2,7 +2,6 @@
 layout: "default"
 title: "Ch 2 - Some Differential Geometry"
 ---
-{% raw %}
 # Baumann Ch 2, Some Differential Geometry
 
 up: [Baumann GR](./Baumann%20GR.html) · [General_Relativity_MOC](../../../04_Atlas/General_Relativity_MOC.html)
@@ -268,23 +267,19 @@ if i had to compress chapter 2 into a paragraph for the oral:
 - Q1 - Christoffels for diagonal 2D metric and Q2 - Christoffels for radial 2D metric (the Christoffel formula uses everything from this chapter)
 - previous: [Ch 1 - Gravity is Geometry](./Ch%201%20-%20Gravity%20is%20Geometry.html)
 - next: [Ch 3 - A First Look at Geodesics](./Ch%203%20-%20A%20First%20Look%20at%20Geodesics.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (13)</h4>
+  <h4 class="backlinks-title">Linked References (9)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Baumann%20GR.html" class="backlink-item">Baumann GR</a></li>
-    <li class="backlink-item-wrap"><a href="./Ch%201%20-%20Gravity%20is%20Geometry.html" class="backlink-item">Ch 1 - Gravity is Geometry</a></li>
-    <li class="backlink-item-wrap"><a href="./Ch%203%20-%20A%20First%20Look%20at%20Geodesics.html" class="backlink-item">Ch 3 - A First Look at Geodesics</a></li>
-    <li class="backlink-item-wrap"><a href="./Ch%204%20-%20Spacetime%20Curvature.html" class="backlink-item">Ch 4 - Spacetime Curvature</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Christoffel%20symbols.html" class="backlink-item">Christoffel symbols</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Coordinate%20transformations%20and%20tensors.html" class="backlink-item">Coordinate transformations and tensors</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Covariant%20derivative.html" class="backlink-item">Covariant derivative</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Levi-Civita%20connection.html" class="backlink-item">Levi-Civita connection</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Locally%20inertial%20frame.html" class="backlink-item">Locally inertial frame</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Manifold%20metric%20and%20signature.html" class="backlink-item">Manifold metric and signature</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Metric%20compatibility.html" class="backlink-item">Metric compatibility</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Parallel%20transport.html" class="backlink-item">Parallel transport</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
   </ul>
 </div>
+

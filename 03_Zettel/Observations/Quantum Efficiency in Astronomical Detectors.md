@@ -2,7 +2,6 @@
 layout: "default"
 title: "Quantum Efficiency in Astronomical Detectors"
 ---
-{% raw %}
 # Quantum Efficiency in Astronomical Detectors
 
 Quantum Efficiency ($QE(\lambda)$) is the fraction of incident photons at wavelength $\lambda$ converted into collected electrons stored in the potential well:
@@ -22,8 +21,7 @@ $$QE(\lambda) = \frac{N_{e^-}(\lambda)}{N_{\text{photons}}(\lambda)}$$
 
 ## Related Notes
 - [Piotto 04 - CCD Photometry and Noise Characterization](../../02_Literature/Lectures/Astrophysics_Laboratory_2/Piotto%2004%20-%20CCD%20Photometry%20and%20Noise%20Characterization.html)
-- [CCD Readout Noise and Output Amplifier](./CCD%20Readout%20Noise%20and%20Output%20Amplifier.html)
-{% endraw %}
+- [CCD Readout Noise and Output Amplifier](CCD%20Readout%20Noise%20and%20Output%20Amplifier.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (1)</h4>
@@ -31,3 +29,4 @@ $$QE(\lambda) = \frac{N_{e^-}(\lambda)}{N_{\text{photons}}(\lambda)}$$
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
   </ul>
 </div>
+

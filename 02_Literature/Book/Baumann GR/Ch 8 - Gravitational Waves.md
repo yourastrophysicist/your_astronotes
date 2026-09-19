@@ -2,7 +2,6 @@
 layout: "default"
 title: "Ch 8 - Gravitational Waves"
 ---
-{% raw %}
 # Baumann Ch 8, Gravitational Waves
 
 up: [Baumann GR](./Baumann%20GR.html) · [General_Relativity_MOC](../../../04_Atlas/General_Relativity_MOC.html)
@@ -261,18 +260,13 @@ if i had to compress chapter 8 into a paragraph for the oral:
 - Q9 - weak-field Christoffel Gamma_i_00 · Q10 - weak-field Ricci scalar · Q15 - trace-reversed perturbation and Lorenz gauge · Q16 - Christoffels for a TT plane wave · Q17 - Riemann R_0x0x for a TT plane wave
 - previous: [Ch 7 - Cosmology](./Ch%207%20-%20Cosmology.html)
 - end of book.
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (17)</h4>
+  <h4 class="backlinks-title">Linked References (14)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Baumann%20GR.html" class="backlink-item">Baumann GR</a></li>
-    <li class="backlink-item-wrap"><a href="./Ch%207%20-%20Cosmology.html" class="backlink-item">Ch 7 - Cosmology</a></li>
-    <li class="backlink-item-wrap"><a href="./Ch%209%20-%20Inflation%20and%20Primordial%20Gravitational%20Waves.html" class="backlink-item">Ch 9 - Inflation and Primordial Gravitational Waves</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/GW%20energy%20and%20angular%20momentum.html" class="backlink-item">GW energy and angular momentum</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Geodesic%20deviation.html" class="backlink-item">Geodesic deviation</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Geodesic%20deviation%20under%20a%20GW.html" class="backlink-item">Geodesic deviation under a GW</a></li>
+    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Geodesic%20deviation.html" class="backlink-item">Geodesic deviation</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Linearized%20Christoffel%20and%20Riemann.html" class="backlink-item">Linearized Christoffel and Riemann</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Linearized%20gauge%20transformations.html" class="backlink-item">Linearized gauge transformations</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Linearized%20metric%20perturbation.html" class="backlink-item">Linearized metric perturbation</a></li>
@@ -283,5 +277,7 @@ if i had to compress chapter 8 into a paragraph for the oral:
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/SVT%20decomposition.html" class="backlink-item">SVT decomposition</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Trace-reversed%20perturbation.html" class="backlink-item">Trace-reversed perturbation</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Transverse%20traceless%20gauge.html" class="backlink-item">Transverse traceless gauge</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
   </ul>
 </div>
+

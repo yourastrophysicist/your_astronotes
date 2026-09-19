@@ -2,7 +2,6 @@
 layout: "default"
 title: "Sensitivity and modern revival"
 ---
-{% raw %}
 # Sensitivity and modern revival of intensity interferometry
 
 after Narrabri shut down in 1972, intensity interferometry was dormant for ~40 years. modern detectors and large arrays (originally built for gamma-ray astronomy) have brought it back, with sensitivity gains that put bright-star imaging within reach.
@@ -97,22 +96,22 @@ three lessons from the modern revival:
 
 ## see also
 
-- [Intensity interferometry concept](./Intensity%20interferometry%20concept.html)
-- [Hanbury Brown Twiss effect](./Hanbury%20Brown%20Twiss%20effect.html)
-- [Narrabri stellar interferometer](./Narrabri%20stellar%20interferometer.html)
-- [Why intensity interferometry escapes atmospheric phase](./Why%20intensity%20interferometry%20escapes%20atmospheric%20phase.html)
+- [Intensity interferometry concept](Intensity%20interferometry%20concept.html)
+- [Hanbury Brown Twiss effect](Hanbury%20Brown%20Twiss%20effect.html)
+- [Narrabri stellar interferometer](Narrabri%20stellar%20interferometer.html)
+- [Why intensity interferometry escapes atmospheric phase](Why%20intensity%20interferometry%20escapes%20atmospheric%20phase.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (7)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Intensity%20interferometry%20concept.html" class="backlink-item">Intensity interferometry concept</a></li>
     <li class="backlink-item-wrap"><a href="../Intensity%20interferometry%20concept.html" class="backlink-item">Intensity interferometry concept</a></li>
-    <li class="backlink-item-wrap"><a href="./Narrabri%20stellar%20interferometer.html" class="backlink-item">Narrabri stellar interferometer</a></li>
     <li class="backlink-item-wrap"><a href="../Narrabri%20stellar%20interferometer.html" class="backlink-item">Narrabri stellar interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="./Why%20intensity%20interferometry%20escapes%20atmospheric%20phase.html" class="backlink-item">Why intensity interferometry escapes atmospheric phase</a></li>
     <li class="backlink-item-wrap"><a href="../Why%20intensity%20interferometry%20escapes%20atmospheric%20phase.html" class="backlink-item">Why intensity interferometry escapes atmospheric phase</a></li>
+    <li class="backlink-item-wrap"><a href="Intensity%20interferometry%20concept.html" class="backlink-item">Intensity interferometry concept</a></li>
+    <li class="backlink-item-wrap"><a href="Narrabri%20stellar%20interferometer.html" class="backlink-item">Narrabri stellar interferometer</a></li>
+    <li class="backlink-item-wrap"><a href="Why%20intensity%20interferometry%20escapes%20atmospheric%20phase.html" class="backlink-item">Why intensity interferometry escapes atmospheric phase</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

@@ -2,7 +2,6 @@
 layout: "default"
 title: "Cubic spline interpolation"
 ---
-{% raw %}
 # Cubic spline interpolation
 
 given $N + 1$ data points $(x_i, y_i)$, build a piecewise-cubic interpolant that is $C^2$-continuous (continuous value, slope, *and* curvature). the universal upgrade from linear when smoothness matters.
@@ -83,10 +82,10 @@ prefer not-a-knot unless I have a physical reason for natural (e.g. genuinely fl
 
 ## see also
 
-- [Linear interpolation](./Linear%20interpolation.html)
-- [Lagrange polynomial interpolation](./Lagrange%20polynomial%20interpolation.html)
-- [Runge phenomenon](./Runge%20phenomenon.html)
-- [Newton divided differences](./Newton%20divided%20differences.html)
+- [Linear interpolation](Linear%20interpolation.html)
+- [Lagrange polynomial interpolation](Lagrange%20polynomial%20interpolation.html)
+- [Runge phenomenon](Runge%20phenomenon.html)
+- [Newton divided differences](Newton%20divided%20differences.html)
 - [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
 
 ---
@@ -95,18 +94,18 @@ prefer not-a-knot unless I have a physical reason for natural (e.g. genuinely fl
 
 ![mapelli_fig13_p130.png](../../assets/images/mapelli_fig13_p57.png)
 *Cubic spline interpolation smoothing and continuity of second derivatives $S''(x)$.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (8)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Derivatives%20of%20noisy%20data.html" class="backlink-item">Derivatives of noisy data</a></li>
-    <li class="backlink-item-wrap"><a href="./Lagrange%20polynomial%20interpolation.html" class="backlink-item">Lagrange polynomial interpolation</a></li>
-    <li class="backlink-item-wrap"><a href="./Linear%20interpolation.html" class="backlink-item">Linear interpolation</a></li>
+    <li class="backlink-item-wrap"><a href="Derivatives%20of%20noisy%20data.html" class="backlink-item">Derivatives of noisy data</a></li>
+    <li class="backlink-item-wrap"><a href="Lagrange%20polynomial%20interpolation.html" class="backlink-item">Lagrange polynomial interpolation</a></li>
+    <li class="backlink-item-wrap"><a href="Linear%20interpolation.html" class="backlink-item">Linear interpolation</a></li>
+    <li class="backlink-item-wrap"><a href="Newton%20divided%20differences.html" class="backlink-item">Newton divided differences</a></li>
+    <li class="backlink-item-wrap"><a href="Runge%20phenomenon.html" class="backlink-item">Runge phenomenon</a></li>
+    <li class="backlink-item-wrap"><a href="Scipy%20interpolation%20tools.html" class="backlink-item">Scipy interpolation tools</a></li>
+    <li class="backlink-item-wrap"><a href="Two-dimensional%20interpolation.html" class="backlink-item">Two-dimensional interpolation</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Newton%20divided%20differences.html" class="backlink-item">Newton divided differences</a></li>
-    <li class="backlink-item-wrap"><a href="./Runge%20phenomenon.html" class="backlink-item">Runge phenomenon</a></li>
-    <li class="backlink-item-wrap"><a href="./Scipy%20interpolation%20tools.html" class="backlink-item">Scipy interpolation tools</a></li>
-    <li class="backlink-item-wrap"><a href="./Two-dimensional%20interpolation.html" class="backlink-item">Two-dimensional interpolation</a></li>
   </ul>
 </div>
+

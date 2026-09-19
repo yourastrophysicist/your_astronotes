@@ -2,98 +2,208 @@
 layout: "default"
 title: "Faber-Jackson relation"
 ---
-{% raw %}
-the **Faber-Jackson relation** (1976) is the elliptical-galaxy analog of the Tully-Fisher relation: $L \propto \sigma_v^4$. links luminosity to central velocity dispersion. used as a distance indicator + a probe of elliptical formation.
+# The Faber-Jackson Relation
 
-## the relation
+## 1. Empirical Definition and Classical Scaling
 
-$$L \propto \sigma_v^4$$
+The **Faber-Jackson relation** (Faber & Jackson 1976) is the fundamental scaling relation for early-type galaxies (ellipticals and lenticulars S0), establishing that total optical luminosity $L$ is proportional to the fourth power of the central stellar velocity dispersion $\sigma$.
 
-equivalently:
-$$\log_{10}(L) = 4\log_{10}(\sigma_v) + \text{const}$$
+$$\boxed{L \propto \sigma^\gamma \qquad \text{with } \gamma \approx 4}$$
 
-with $L$ = total luminosity, $\sigma_v$ = central stellar velocity dispersion (within $\sim 1 r_e$).
+In astronomical absolute magnitudes, Pogson's formula ($M = -2.5 \log_{10} L + C$) yields.
 
-scatter: $\sim 0.5$ mag in luminosity at fixed $\sigma_v$. moderately large.
+$$M_B = -10 \log_{10}\left( \frac{\sigma}{\mathrm{km\,s^{-1}}} \right) + \text{const}$$
 
-## the physical origin
+In the classical B-band calibration.
 
-simple virial argument:
-$$M \sim \sigma_v^2 R/G$$
+$$M_B \approx -19.55 - 10 \log_{10}\left( \frac{\sigma}{200\,\mathrm{km\,s^{-1}}} \right)$$
 
-if $L \propto M$ + $R$ scales with $L$ (like Kormendy relation $\langle\mu\rangle \propto \log R_e$), then $L \propto \sigma_v^4$ comes out approximately.
+### Observed Scatter and Distance Indicator
+The observed scatter in luminosity at fixed velocity dispersion is $\sigma_{\log L} \approx 0.4$ to $0.5$ dex ($\sim 1.0 - 1.2\,\mathrm{mag}$ in magnitude).
+When employed as a primary extragalactic distance indicator.
+1. The line-of-sight velocity dispersion $\sigma$ is measured directly from the Doppler broadening of photospheric absorption lines (e.g. Ca II H&K, Mg b, Na I D) using the pPXF technique.
+2. The intrinsic luminosity $L$ is inferred from $\sigma^4$.
+3. Comparing intrinsic luminosity to observed apparent flux yields the luminosity distance $d_L$ with an uncertainty of approximately $25\%$ per galaxy.
 
-more carefully: assume isothermal halo + constant $M/L$, derive $L \propto \sigma_v^4$ as a consequence of virial equilibrium + structural homology.
+---
 
-## the use as a distance indicator
+## 2. Unbroken Mathematical Derivation from the Virial Theorem
 
-procedure:
-1. measure $\sigma_v$ from spectroscopy (single-aperture or central IFU).
-2. compute $L$ from $\sigma_v^4$ relation.
-3. compare with apparent magnitude $m$ to get $d_L$ via the distance modulus.
+The physical origin of $L \propto \sigma^4$ is rooted in the Virial theorem governing self-gravitating, collisionless stellar spheroids.
 
-precision: $\sim 25\%$ in distance per galaxy. modest, but useful for elliptical-rich environments where Cepheids + TRGB don't work.
+### Step 1 - Virial Equilibrium and Structural Homology
+For a stationary, isolated collisionless stellar system in virial equilibrium.
 
-modern: usually superseded by the **fundamental plane** (3D relation including $R_e$ + $\langle\mu\rangle$), which has tighter scatter.
+$$2 K + W = 0$$
 
-## the connection to the fundamental plane
+where.
+- $K = \frac{1}{2} M \langle v^2 \rangle = \frac{3}{2} M \sigma_0^2$ is the total stellar kinetic energy (assuming an isotropic 1D velocity dispersion $\sigma_0$)
+- $W = -\frac{G M^2}{r_g} = -c_2 \frac{G M^2}{R_e}$ is the gravitational potential energy, where $r_g$ is the gravitational radius, $R_e$ is the effective half-light radius, and $c_2$ is a dimensionless structure constant determined by the 3D density profile $\rho(r)$
 
-Faber-Jackson is the **2D projection** of the more fundamental **fundamental plane**:
-$$R_e \propto \sigma^{1.4}\,\langle I\rangle^{-0.9}$$
+Equating $2 K = -W$.
 
-projecting onto the $L-\sigma$ plane (with $L \propto R_e^2 \langle I\rangle$) gives Faber-Jackson with some scatter. the Fundamental Plane is **tighter** because it captures the additional dimension.
+$$3 M \sigma_0^2 = c_2 \frac{G M^2}{R_e}$$
 
-see [Fundamental plane of ellipticals](./Fundamental%20plane%20of%20ellipticals.html).
+Solving for the total dynamical mass $M$.
 
-## the M-σ Connection
+$$M = \left(\frac{3}{c_2}\right) \frac{R_e \sigma_0^2}{G} \equiv c_1 \frac{R_e \sigma_0^2}{G}$$
 
-related: the **M-σ relation** $M_{BH} \propto \sigma^4$ for SMBH masses. same exponent as Faber-Jackson is suggestive:
-- elliptical bulge mass: $L \propto \sigma^4$.
-- $M_{BH} \propto M_{\rm bulge} \propto \sigma^4$.
+where $c_1 \equiv 3/c_2$ is the **virial form factor**.
+For an elliptical galaxy obeying a de Vaucouleurs $R^{1/4}$ surface brightness profile and isotropic Jeans dynamics, analytical integration gives $c_1 \approx 5.0$.
+Under the assumption of **structural homology**, all elliptical galaxies are assumed to have the same normalized density profile, orbital distribution, and spatial light distribution, meaning.
 
-so Magorrian + Faber-Jackson are mathematically consistent.
+$$c_1 = \text{constant}$$
 
-## modern values
+### Step 2 - Introducing the Mass-to-Light Ratio
+Define the total mass-to-light ratio $\Upsilon \equiv M / L$.
+Express the mass in terms of luminosity.
 
-calibrated on $\sim 2000$ ellipticals from SDSS + ATLAS3D:
-$$\log_{10}(L_K/L_{K,*}) \approx 4.0\log_{10}(\sigma/200\,\text{km/s})$$
+$$M = \Upsilon \, L$$
 
-with $L_{K,*} \sim 10^{11}\,L_\odot$ for $\sigma = 200$ km/s.
+Substitute this into the virial mass equation.
 
-## limitations
+$$\Upsilon L = \frac{c_1 R_e \sigma_0^2}{G} \implies L = \frac{c_1 R_e \sigma_0^2}{G \Upsilon}$$
 
-- **scatter** larger than Tully-Fisher (~0.5 mag vs ~0.3 mag).
-- **structural inhomogeneity**: ellipticals have varying $n_{\rm Sersic}$, $r_e/R$, etc.
-- **environmental dependence**: cluster ellipticals behave slightly different from field.
-- **age + metallicity**: stellar populations affect $L$ at fixed mass.
+### Step 3 - Eliminating the Radius via Mean Surface Brightness
+The total luminosity of a circular galaxy profile is related to the effective radius $R_e$ and the mean surface brightness $\langle I_e \rangle \equiv \langle I(<R_e) \rangle$ enclosed within $R_e$ by.
 
-## see also
+$$L = 2\pi R_e^2 \langle I_e \rangle$$
 
-- [Tully-Fisher relation](./Tully-Fisher%20relation.html)
-- [Fundamental plane of ellipticals](./Fundamental%20plane%20of%20ellipticals.html)
-- [Kormendy relation](./Kormendy%20relation.html)
-- [M sigma relation](./M%20sigma%20relation.html)
-- [Magorrian relation](./Magorrian%20relation.html)
-- [Velocity dispersion from line width](./Velocity%20dispersion%20from%20line%20width.html)
-- [LOSVD](./LOSVD.html)
+Invert this relationship to express $R_e$ as a function of luminosity and surface brightness.
+
+$$R_e^2 = \frac{L}{2\pi \langle I_e \rangle} \implies R_e = \left( \frac{L}{2\pi \langle I_e \rangle} \right)^{1/2}$$
+
+### Step 4 - Algebraic Derivation of the $\sigma^4$ Power Law
+Substitute this expression for $R_e$ back into the luminosity equation.
+
+$$L = \frac{c_1 \sigma_0^2}{G \Upsilon} \left( \frac{L}{2\pi \langle I_e \rangle} \right)^{1/2}$$
+
+Divide both sides of the equation by $L^{1/2}$.
+
+$$L^{1/2} = \frac{c_1 \sigma_0^2}{G \Upsilon \sqrt{2\pi \langle I_e \rangle}}$$
+
+Square both sides.
+
+$$\boxed{L = \left( \frac{c_1^2}{2\pi G^2} \right) \frac{\sigma_0^4}{\Upsilon^2 \langle I_e \rangle}}$$
+
+### Step 5 - The Three Homology Assumptions
+To reduce this exact virial expression to the simple Faber-Jackson law ($L \propto \sigma_0^4$), three conditions must hold simultaneously.
+1. **Constant Mass-to-Light Ratio** - $\Upsilon \equiv M/L = \text{constant}$ across all galaxies.
+2. **Constant Mean Surface Brightness** - $\langle I_e \rangle = \text{constant}$ across all galaxies.
+3. **Strict Structural Homology** - $c_1 = \text{constant}$ across all galaxies.
+
+When these three conditions are satisfied, all terms in parentheses are constants, and.
+
+$$\boxed{L \propto \sigma_0^4}$$
+
+---
+
+## 3. Why the Relation Has Scatter - The Fundamental Plane Projection
+
+In real galaxies, the three assumptions break down.
+1. **Surface Brightness is Not Constant** - Giant ellipticals are systematically less dense than intermediate ellipticals ($\langle I_e \rangle \propto R_e^{-0.83}$; the Kormendy relation).
+2. **Mass-to-Light Ratio is Not Constant** - $\Upsilon \propto M^{0.2} \propto L^{0.25}$ due to increasing dark matter fractions and higher stellar metallicities in more massive galaxies (the "tilt" of the Fundamental Plane).
+3. **Non-Homology** - The Sersic index $n$ varies continuously from $n \approx 2$ in dwarf ellipticals to $n \approx 6$ in giant cD galaxies.
+
+### The Fundamental Plane 2D Projection
+Because early-type galaxies occupy a tight two-dimensional manifold in the three-dimensional space $(\log R_e, \log \sigma_0, \log \langle I_e \rangle)$, the Faber-Jackson relation is simply the **1D edge-on projection** of the Fundamental Plane onto the $(L, \sigma)$ plane.
+The entire observed scatter of $\sim 0.5\,\mathrm{dex}$ in the Faber-Jackson relation is accounted for by the variations in mean surface brightness $\langle I_e \rangle$ across galaxies of the same velocity dispersion.
+
+### Variations in the Slope $\gamma$
+- For luminous giant ellipticals ($M_r < -21$), the slope steepens to $\gamma \approx 4.5 - 5.0$.
+- For low-luminosity spheroids and dwarf ellipticals ($M_r > -18$), the relation flattens to $\gamma \approx 2.0 - 2.5$.
+
+---
+
+## 4. Connection to Black Hole Scaling Relations
+
+The Faber-Jackson relation provides the physical bridge connecting the $M_\bullet - \sigma$ relation to the Magorrian relation ($M_\bullet - M_{\rm bulge}$).
+1. Faber-Jackson establishes $M_{\rm bulge} \propto \sigma^4$ (assuming slowly varying $M/L$).
+2. The momentum-driven feedback limit establishes $M_\bullet \propto \sigma^4$.
+3. Combining the two immediately yields the linear Magorrian co-evolution.
+   $$M_\bullet \propto M_{\rm bulge} \sim 10^{-3} M_{\rm bulge}$$
+This demonstrates that black hole growth and galaxy bulge assembly are coupled through the same gravitational and feedback physics.
+
+---
+
+## 5. Blackboard Observational Blueprint
+
+When sketching the Faber-Jackson relation on the blackboard.
+
+```text
+       log10(L / L_sun)
+         ^
+    12.0 |                                       / (Giant Ellipticals like M87)
+         |                                     /
+    11.0 |                                   /   Slope gamma ~ 4.0
+         |                                 /     (M_B ~ -10 log sigma)
+    10.0 |                               /
+         |                             /   Scatter ~ 0.5 dex
+     9.0 |                           /     (Driven by surface brightness spread)
+         |                         /
+     8.0 |                       / (Dwarf Spheroids flatten to gamma ~ 2)
+         +=========+=========+=========+=========+======-===> log10(sigma / [km/s])
+                  1.6       1.8       2.0       2.2       2.4
+                 (40)      (63)      (100)     (160)     (250 km/s)
+```
+
+### Key Blackboard Features
+- **Horizontal Axis** - Logarithmic velocity dispersion $\log_{10}(\sigma / \mathrm{km\,s^{-1}})$ from $1.5$ ($30\,\mathrm{km\,s^{-1}}$) to $2.5$ ($300\,\mathrm{km\,s^{-1}}$).
+- **Vertical Axis** - Logarithmic luminosity $\log_{10}(L / L_\odot)$ from $8.0$ to $12.0$.
+- **Slope** - Draw a straight line with slope $\gamma = 4.0$. Note the magnitude slope $-10$.
+- **Scatter Shading** - Draw a shaded envelope of width $\pm 0.5\,\mathrm{dex}$ around the line, explaining that this scatter collapses to $\sim 0.08\,\mathrm{dex}$ when surface brightness is included via the Fundamental Plane.
+- **Dwarf Regime Turnover** - Show the curve flattening toward slope $\sim 2$ below $\sigma \approx 70\,\mathrm{km\,s^{-1}}$.
+
+---
+
+## 6. Textbook and Course Citations
+
+- **Prof. Alessandro Pizzella Course Dispensa**
+  - File - `Notes_FP_2_0eng.pdf`
+  - Pages 1-13 (formal derivation from Virial theorem, structural homology factors, projection of the Fundamental Plane, and scatter analysis).
+- **Student Synthesis Document**
+  - File - `Astrophysics_of_Galaxies.tex`
+  - Section 7.1 "Scaling Relations of Elliptical Galaxies", pages 30-33.
+- **Mo, van den Bosch & White (2010), *Galaxy Formation and Evolution***
+  - File - `Houjun Mo, Frank van den Bosch, Simon White - Galaxy Formation and Evolution (2010, Cambridge University Press) - libgen.li.pdf`
+  - Chapter 2, Section 2.3.4 "Elliptical Galaxies", pages 76-83; Chapter 13, Section 13.3 "The Fundamental Plane", pages 624-628.
+- **Binney & Merrifield (1998), *Galactic Astronomy***
+  - File - `Binney J., Merrifield M. - Galactic Astronomy (1998, Princeton).pdf`
+  - Chapter 4, Section 4.3.4 "Scaling Relations", pages 204-210.
+- **Peter Schneider (2015), *Extragalactic Astronomy and Cosmology***
+  - File - `Extrag_Astro_144-171.pdf`
+  - Chapter 3, Section 3.7 "Scaling Relations for Early-Type Galaxies", pages 144-155.
+- **Primary Literature Reference**
+  - Faber, S. M., & Jackson, R. E. 1976, ApJ, 204, 668.
+
+---
+
+## 7. See Also
+
+- [Fundamental plane of ellipticals](Fundamental%20plane%20of%20ellipticals.html)
+- [Kormendy relation](Kormendy%20relation.html)
+- [Tully-Fisher relation](Tully-Fisher%20relation.html)
+- [M sigma relation](M%20sigma%20relation.html)
+- [Magorrian relation](Magorrian%20relation.html)
+- [LOSVD](LOSVD.html)
 - [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html)
 
 ---
 
-## astrophysics of galaxies figures and slides (Prof. Alessandro Pizzella)
+## 8. Astrophysics of Galaxies Figures and Slides (Prof. Alessandro Pizzella)
 
 ![gal_srs-01.png](../../assets/images/gal_srs-01.png)
-*Lecture 9: Scaling Relations in Early-Type Galaxies (Prof. Alessandro Pizzella).*
+*Lecture 9 - Scaling Relations in Early-Type Galaxies (Prof. Alessandro Pizzella).*
 
 ![gal_srs-02.png](../../assets/images/gal_srs-02.png)
-*Sandra Faber & Robert Jackson (1976): L proportional to sigma^4 for elliptical galaxies.*
+*Sandra Faber & Robert Jackson (1976) - L proportional to sigma^4 for elliptical galaxies.*
 
 ![gal_srs-03.png](../../assets/images/gal_srs-03.png)
-*Virial theorem foundation: sigma^2 ~ G M / R combined with constant M/L and constant surface brightness I_0.*
+*Virial theorem foundation - sigma^2 ~ G M / R combined with constant M/L and constant surface brightness I_0.*
 
 ---
 
-## lecture slides and reference figures (Prof. Alessandro Pizzella)
+## 9. Lecture Slides and Reference Figures (Prof. Alessandro Pizzella)
 
 ![gal_srs-04.png](../../assets/images/gal_srs-04.png)
 
@@ -118,16 +228,20 @@ with $L_{K,*} \sim 10^{11}\,L_\odot$ for $\sigma = 200$ km/s.
 ![gal_srs-14.png](../../assets/images/gal_srs-14.png)
 
 ![gal_srs-15.png](../../assets/images/gal_srs-15.png)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
+  <h4 class="backlinks-title">Linked References (10)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Alpha-Fe%20enhancement.html" class="backlink-item">Alpha-Fe enhancement</a></li>
+    <li class="backlink-item-wrap"><a href="Alpha-Fe%20enhancement.html" class="backlink-item">Alpha-Fe enhancement</a></li>
+    <li class="backlink-item-wrap"><a href="Dark%20matter%20in%20elliptical%20galaxies.html" class="backlink-item">Dark matter in elliptical galaxies</a></li>
+    <li class="backlink-item-wrap"><a href="Early-type%20galaxy%20stellar%20populations.html" class="backlink-item">Early-type galaxy stellar populations</a></li>
+    <li class="backlink-item-wrap"><a href="Kormendy%20relation.html" class="backlink-item">Kormendy relation</a></li>
+    <li class="backlink-item-wrap"><a href="LOSVD.html" class="backlink-item">LOSVD</a></li>
+    <li class="backlink-item-wrap"><a href="M%20sigma%20relation.html" class="backlink-item">M sigma relation</a></li>
+    <li class="backlink-item-wrap"><a href="MOND.html" class="backlink-item">MOND</a></li>
+    <li class="backlink-item-wrap"><a href="Magorrian%20relation.html" class="backlink-item">Magorrian relation</a></li>
+    <li class="backlink-item-wrap"><a href="Red%20sequence%20and%20blue%20cloud.html" class="backlink-item">Red sequence and blue cloud</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Kormendy%20relation.html" class="backlink-item">Kormendy relation</a></li>
-    <li class="backlink-item-wrap"><a href="./LOSVD.html" class="backlink-item">LOSVD</a></li>
-    <li class="backlink-item-wrap"><a href="./M%20sigma%20relation.html" class="backlink-item">M sigma relation</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20kinematics%20measurements.html" class="backlink-item">Stellar kinematics measurements</a></li>
   </ul>
 </div>
+

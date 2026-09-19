@@ -1,13 +1,8 @@
 ---
 layout: "default"
 title: "Carraro_05_Interstellar_Dust_and_Extinction"
-name: "Carraro 05 - Interstellar Dust and Extinction"
-course: "Astrophysics of the Interstellar Medium"
-lecturer: "Prof. Giovanni Carraro"
-session: "05"
 tags: ""
 ---
-{% raw %}
 # Carraro 05 - Interstellar Dust and Extinction
 
 *Course: Astrophysics of the Interstellar Medium, Master in Astrophysics and Cosmology, Università degli Studi di Padova*  
@@ -225,17 +220,15 @@ Carraro slide 39 highlights a fundamental morphologic trend:
 
 ![Mid-Infrared Dust Emission and Thermal Equilibrium](../../../assets/images/ism_dust_p07.png)
 *Figure ISM-07: Dust thermal emission spectrum governed by modified blackbody emission $F_\nu \propto B_\nu(T_d) \kappa_\nu$ in radiative equilibrium with the interstellar radiation field (ISRF).*
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
+  <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html" class="backlink-item">Astrophysics_of_the_Interstellar_Medium_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Cardelli-Clayton-Mathis%20CCM%20extinction%20law.html" class="backlink-item">Cardelli-Clayton-Mathis CCM extinction law</a></li>
-    <li class="backlink-item-wrap"><a href="./Carraro_01_Introduction_and_Multi-phase_ISM.html" class="backlink-item">Carraro_01_Introduction_and_Multi-phase_ISM</a></li>
-    <li class="backlink-item-wrap"><a href="./Carraro_07_Interstellar_Magnetic_Fields.html" class="backlink-item">Carraro_07_Interstellar_Magnetic_Fields</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Catalytic%20H2%20formation%20on%20dust%20grains.html" class="backlink-item">Catalytic H2 formation on dust grains</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Diffuse%20interstellar%20bands%20and%20polycyclic%20aromatic%20hydrocarbons.html" class="backlink-item">Diffuse interstellar bands and polycyclic aromatic hydrocarbons</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Trumpler%20discovery%20of%20interstellar%20extinction.html" class="backlink-item">Trumpler discovery of interstellar extinction</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html" class="backlink-item">Astrophysics_of_the_Interstellar_Medium_MOC</a></li>
   </ul>
 </div>
+

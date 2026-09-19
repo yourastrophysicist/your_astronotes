@@ -2,7 +2,6 @@
 layout: "default"
 title: "Helium energy levels"
 ---
-{% raw %}
 helium has two electrons; their spins can be antiparallel (singlet, $S = 0$, **parahelium**) or parallel (triplet, $S = 1$, **orthohelium**). these are essentially **two decoupled Grötrian diagrams** because intersystem transitions are spin-forbidden.
 
 ## the ground state
@@ -54,33 +53,33 @@ so the He I / He II ratio is a temperature thermometer for early-type stars. plu
 
 ## see also
 
-- [Quantum numbers and atomic states](./Quantum%20numbers%20and%20atomic%20states.html)
-- [Atomic term symbols](./Atomic%20term%20symbols.html)
-- [Russell-Saunders LS coupling](./Russell-Saunders%20LS%20coupling.html)
-- [Selection rules](./Selection%20rules.html)
-- [Hydrogen spectral series](./Hydrogen%20spectral%20series.html)
+- [Quantum numbers and atomic states](Quantum%20numbers%20and%20atomic%20states.html)
+- [Atomic term symbols](Atomic%20term%20symbols.html)
+- [Russell-Saunders LS coupling](Russell-Saunders%20LS%20coupling.html)
+- [Selection rules](Selection%20rules.html)
+- [Hydrogen spectral series](Hydrogen%20spectral%20series.html)
 - Energy level diagrams Grötrian
-- [Helium population vs T](./Helium%20population%20vs%20T.html)
-- [Why the Sequence OBAFGKM](./Why%20the%20Sequence%20OBAFGKM.html)
-- [Stellar spectra and spectral classification](./Stellar%20spectra%20and%20spectral%20classification.html)
-{% endraw %}
+- [Helium population vs T](Helium%20population%20vs%20T.html)
+- [Why the Sequence OBAFGKM](Why%20the%20Sequence%20OBAFGKM.html)
+- [Stellar spectra and spectral classification](Stellar%20spectra%20and%20spectral%20classification.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (14)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./AGN%20spectroscopy.html" class="backlink-item">AGN spectroscopy</a></li>
+    <li class="backlink-item-wrap"><a href="AGN%20spectroscopy.html" class="backlink-item">AGN spectroscopy</a></li>
+    <li class="backlink-item-wrap"><a href="Emission%20line%20stars.html" class="backlink-item">Emission line stars</a></li>
+    <li class="backlink-item-wrap"><a href="Energy%20level%20diagrams%20Grotrian.html" class="backlink-item">Energy level diagrams Grotrian</a></li>
+    <li class="backlink-item-wrap"><a href="Helium%20population%20vs%20T.html" class="backlink-item">Helium population vs T</a></li>
+    <li class="backlink-item-wrap"><a href="Hydrogen%20spectral%20series.html" class="backlink-item">Hydrogen spectral series</a></li>
+    <li class="backlink-item-wrap"><a href="Pauli%20principle%20and%20electron%20configurations.html" class="backlink-item">Pauli principle and electron configurations</a></li>
+    <li class="backlink-item-wrap"><a href="Planetary%20nebula%20spectroscopy.html" class="backlink-item">Planetary nebula spectroscopy</a></li>
+    <li class="backlink-item-wrap"><a href="Quantum%20numbers%20and%20atomic%20states.html" class="backlink-item">Quantum numbers and atomic states</a></li>
+    <li class="backlink-item-wrap"><a href="Russell-Saunders%20LS%20coupling.html" class="backlink-item">Russell-Saunders LS coupling</a></li>
+    <li class="backlink-item-wrap"><a href="Rydberg-Ritz%20formula.html" class="backlink-item">Rydberg-Ritz formula</a></li>
+    <li class="backlink-item-wrap"><a href="Supernova%20spectroscopy.html" class="backlink-item">Supernova spectroscopy</a></li>
+    <li class="backlink-item-wrap"><a href="Symbiotic%20star%20spectroscopy.html" class="backlink-item">Symbiotic star spectroscopy</a></li>
+    <li class="backlink-item-wrap"><a href="Why%20the%20Sequence%20OBAFGKM.html" class="backlink-item">Why the Sequence OBAFGKM</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Emission%20line%20stars.html" class="backlink-item">Emission line stars</a></li>
-    <li class="backlink-item-wrap"><a href="./Energy%20level%20diagrams%20Grotrian.html" class="backlink-item">Energy level diagrams Grotrian</a></li>
-    <li class="backlink-item-wrap"><a href="./Helium%20population%20vs%20T.html" class="backlink-item">Helium population vs T</a></li>
-    <li class="backlink-item-wrap"><a href="./Hydrogen%20spectral%20series.html" class="backlink-item">Hydrogen spectral series</a></li>
-    <li class="backlink-item-wrap"><a href="./Pauli%20principle%20and%20electron%20configurations.html" class="backlink-item">Pauli principle and electron configurations</a></li>
-    <li class="backlink-item-wrap"><a href="./Planetary%20nebula%20spectroscopy.html" class="backlink-item">Planetary nebula spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="./Quantum%20numbers%20and%20atomic%20states.html" class="backlink-item">Quantum numbers and atomic states</a></li>
-    <li class="backlink-item-wrap"><a href="./Russell-Saunders%20LS%20coupling.html" class="backlink-item">Russell-Saunders LS coupling</a></li>
-    <li class="backlink-item-wrap"><a href="./Rydberg-Ritz%20formula.html" class="backlink-item">Rydberg-Ritz formula</a></li>
-    <li class="backlink-item-wrap"><a href="./Supernova%20spectroscopy.html" class="backlink-item">Supernova spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="./Symbiotic%20star%20spectroscopy.html" class="backlink-item">Symbiotic star spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="./Why%20the%20Sequence%20OBAFGKM.html" class="backlink-item">Why the Sequence OBAFGKM</a></li>
   </ul>
 </div>
+

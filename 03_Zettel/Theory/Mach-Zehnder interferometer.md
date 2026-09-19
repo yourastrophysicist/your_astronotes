@@ -2,7 +2,6 @@
 layout: "default"
 title: "Mach-Zehnder interferometer"
 ---
-{% raw %}
 # Mach-Zehnder interferometer
 
 an amplitude-division interferometer where light is split by a first beam splitter, sent along two physically separate paths, and recombined at a *second* beam splitter. unlike Michelson, both output ports are physically separated and accessible, making it efficient (uses both outputs) and suitable for *quantum-optics* experiments where one wants to interrogate the interference without back-reflection.
@@ -105,10 +104,9 @@ both are first-class amplitude-division interferometers; the choice depends on w
 
 ## see also
 
-- [Amplitude-division interferometers](./Amplitude-division%20interferometers.html)
+- [Amplitude-division interferometers](Amplitude-division%20interferometers.html)
 - [Beam splitter physics](interf/Beam%20splitter%20physics.html)
 - [Michelson laboratory interferometer](interf/Michelson%20laboratory%20interferometer.html)
 - [Sagnac interferometer](interf/Sagnac%20interferometer.html)
-- [Beam combiners](./Beam%20combiners.html)
+- [Beam combiners](Beam%20combiners.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

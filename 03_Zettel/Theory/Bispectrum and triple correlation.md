@@ -2,7 +2,6 @@
 layout: "default"
 title: "Bispectrum and triple correlation"
 ---
-{% raw %}
 # Bispectrum and triple correlation
 
 the *single-aperture* analog of [phase closure](interf/Phase%20closure.html). a third-order quantity that is *atmosphere-independent* and recovers the full phase structure of a source despite seeing or instrument errors.
@@ -96,4 +95,3 @@ introduced by **Lohmann, Weigelt, and Wirnitzer** (1983) — the "Erlangen group
 - [Phase closure](interf/Phase%20closure.html)
 - [Closure amplitude](interf/Closure%20amplitude.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

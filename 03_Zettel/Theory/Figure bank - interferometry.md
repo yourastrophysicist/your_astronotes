@@ -2,7 +2,6 @@
 layout: "default"
 title: "Figure bank - interferometry"
 ---
-{% raw %}
 # Figure bank - interferometry
 
 this note is the visual index for the interferometry second brain. it keeps the scientific figures connected to the MOC instead of leaving them as random screenshots.
@@ -121,4 +120,3 @@ local schematic plot: synchrotron, free-free, thermal dust, and line/maser spect
 - [Interferometry equation sheet](interf/Interferometry%20equation%20sheet.html)
 - [Aperture synthesis principle](interf/Aperture%20synthesis%20principle.html)
 - [Radio interferometer architecture](interf/Radio%20interferometer%20architecture.html)
-{% endraw %}

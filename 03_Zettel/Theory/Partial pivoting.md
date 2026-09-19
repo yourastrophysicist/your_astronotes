@@ -2,10 +2,9 @@
 layout: "default"
 title: "Partial pivoting"
 ---
-{% raw %}
 # Partial pivoting
 
-the fix for the failure mode of plain [Gauss elimination](./Gauss%20elimination.html): zero or tiny pivots. partial pivoting swaps rows so that at each elimination step the **largest available pivot** is used.
+the fix for the failure mode of plain [Gauss elimination](Gauss%20elimination.html): zero or tiny pivots. partial pivoting swaps rows so that at each elimination step the **largest available pivot** is used.
 
 ## why it matters
 
@@ -73,7 +72,7 @@ partial pivoting adds $O(N^2)$ work to a $O(N^3)$ algorithm — **negligible**. 
 
 ## what about iterative methods?
 
-[Gauss-Seidel iteration](./Gauss-Seidel%20iteration.html) does not need pivoting in the same way — it iterates rather than eliminates. but Gauss-Seidel has a different requirement: the matrix must be diagonally dominant for convergence. so the algorithm and the diagnostic differ.
+[Gauss-Seidel iteration](Gauss-Seidel%20iteration.html) does not need pivoting in the same way — it iterates rather than eliminates. but Gauss-Seidel has a different requirement: the matrix must be diagonally dominant for convergence. so the algorithm and the diagnostic differ.
 
 ## scaling and equilibration
 
@@ -87,18 +86,18 @@ after elimination. the parity of the number of row swaps must be tracked.
 
 ## see also
 
-- [Gauss elimination](./Gauss%20elimination.html) — the unpivoted algorithm
-- [LU decomposition](./LU%20decomposition.html) — same elimination, cached as a factorization (with permutation matrix $P$)
-- [Gauss-Seidel iteration](./Gauss-Seidel%20iteration.html)
-- [Pros and cons of linear solvers](./Pros%20and%20cons%20of%20linear%20solvers.html)
+- [Gauss elimination](Gauss%20elimination.html) — the unpivoted algorithm
+- [LU decomposition](LU%20decomposition.html) — same elimination, cached as a factorization (with permutation matrix $P$)
+- [Gauss-Seidel iteration](Gauss-Seidel%20iteration.html)
+- [Pros and cons of linear solvers](Pros%20and%20cons%20of%20linear%20solvers.html)
 - [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Gauss%20elimination.html" class="backlink-item">Gauss elimination</a></li>
-    <li class="backlink-item-wrap"><a href="./LU%20decomposition.html" class="backlink-item">LU decomposition</a></li>
+    <li class="backlink-item-wrap"><a href="Gauss%20elimination.html" class="backlink-item">Gauss elimination</a></li>
+    <li class="backlink-item-wrap"><a href="LU%20decomposition.html" class="backlink-item">LU decomposition</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
   </ul>
 </div>
+

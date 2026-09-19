@@ -2,8 +2,7 @@
 layout: "default"
 title: "Cosmological inflation"
 ---
-{% raw %}
-**cosmological inflation** is a brief period of nearly-exponential expansion in the very early universe ($t \sim 10^{-32}$ s), driving the universe through $\sim 60$ e-folds. proposed by Guth (1981) + Linde + Steinhardt + Albrecht to solve the **horizon, flatness, and monopole problems** of the Hot Big Bang. (companion: [Inflation overview](./Inflation%20overview.html) for additional context.)
+**cosmological inflation** is a brief period of nearly-exponential expansion in the very early universe ($t \sim 10^{-32}$ s), driving the universe through $\sim 60$ e-folds. proposed by Guth (1981) + Linde + Steinhardt + Albrecht to solve the **horizon, flatness, and monopole problems** of the Hot Big Bang. (companion: [Inflation overview](Inflation%20overview.html) for additional context.)
 
 ## the problems inflation solves
 
@@ -68,27 +67,26 @@ these are some of the deepest open questions in physics.
 
 ## see also
 
-- [Inflation overview](./Inflation%20overview.html)
-- [Old vs new vs chaotic inflation, slow-roll](./Old%20vs%20new%20vs%20chaotic%20inflation%2C%20slow-roll.html)
-- [Inflaton scalar field dynamics](./Inflaton%20scalar%20field%20dynamics.html)
+- [Inflation overview](Inflation%20overview.html)
+- [Old vs new vs chaotic inflation, slow-roll](Old%20vs%20new%20vs%20chaotic%20inflation%2C%20slow-roll.html)
+- [Inflaton scalar field dynamics](Inflaton%20scalar%20field%20dynamics.html)
 - [Phase transitions](interf/Phase%20transitions.html)
-- [CMB power spectrum](./CMB%20power%20spectrum.html)
-- [Polarization E and B modes](./Polarization%20E%20and%20B%20modes.html)
-- [ΛCDM current parameters](./%CE%9BCDM%20current%20parameters.html)
-- [Standard model problems](./Standard%20model%20problems.html)
-- [Brief thermal history](./Brief%20thermal%20history.html)
+- [CMB power spectrum](CMB%20power%20spectrum.html)
+- [Polarization E and B modes](Polarization%20E%20and%20B%20modes.html)
+- [ΛCDM current parameters](%CE%9BCDM%20current%20parameters.html)
+- [Standard model problems](Standard%20model%20problems.html)
+- [Brief thermal history](Brief%20thermal%20history.html)
 - [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
+  <h4 class="backlinks-title">Linked References (6)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Cosmic%20relics%20and%20Kibble%20mechanism.html" class="backlink-item">Cosmic relics and Kibble mechanism</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html" class="backlink-item">Cosmology_of_the_Early_Universe_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Horizon%20problem%20and%20causal%20structure.html" class="backlink-item">Horizon problem and causal structure</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part1_Standard_Big_Bang_and_Shortcomings.html" class="backlink-item">Part1_Standard_Big_Bang_and_Shortcomings</a></li>
-    <li class="backlink-item-wrap"><a href="./Phase%20transitions.html" class="backlink-item">Phase transitions</a></li>
+    <li class="backlink-item-wrap"><a href="Cosmic%20relics%20and%20Kibble%20mechanism.html" class="backlink-item">Cosmic relics and Kibble mechanism</a></li>
+    <li class="backlink-item-wrap"><a href="Horizon%20problem%20and%20causal%20structure.html" class="backlink-item">Horizon problem and causal structure</a></li>
+    <li class="backlink-item-wrap"><a href="Phase%20transitions.html" class="backlink-item">Phase transitions</a></li>
     <li class="backlink-item-wrap"><a href="interf/Phase%20transitions.html" class="backlink-item">Phase transitions</a></li>
+    <li class="backlink-item-wrap"><a href="../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html" class="backlink-item">Cosmology_of_the_Early_Universe_MOC</a></li>
+    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
   </ul>
 </div>
+

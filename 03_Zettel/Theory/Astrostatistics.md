@@ -2,7 +2,6 @@
 layout: "default"
 title: "Astrostatistics"
 ---
-{% raw %}
 When we want to measure an observable quantity,
 	we need to collect a sample of data that will be characterized by **fluctuations**
 		the underlying set of values from which this quantity is sampled is called a **distribution**
@@ -19,7 +18,7 @@ This is the framework that connects raw counts to physical parameters.
 
 ## What astrostatistics covers
 
-### Distributions — [Distributions](./Distributions.html)
+### Distributions — [Distributions](Distributions.html)
 The mathematical foundations:
 	what probability distributions look like
 	their moments (mean, variance, skewness, kurtosis)
@@ -29,7 +28,7 @@ $$f(k;\lambda) = \frac{\lambda^k e^{-\lambda}}{k!} \qquad E[k] = V[k] = \lambda$
 The key fact: the **noise** on a Poisson count is $\sigma = \sqrt{\lambda}$
 	so faint sources (few photons) have large fractional uncertainty $\sigma/\lambda = 1/\sqrt{\lambda}$
 
-### Signal-to-noise ratio — [Signal-Noise Ratio](./Signal-Noise%20Ratio.html)
+### Signal-to-noise ratio — [Signal-Noise Ratio](Signal-Noise%20Ratio.html)
 How many standard deviations is the source above the background?
 	for source count rate $s$, background rate $b$, exposure time $t$:
 $$SNR = \frac{st}{\sqrt{(s+b)t}}$$
@@ -38,7 +37,7 @@ Source-dominated ($b \ll s$): $SNR \approx \sqrt{st}$
 Background-dominated ($b \gg s$): $SNR \approx s\sqrt{t/b}$
 Both scale as $\sqrt{t}$ — doubling exposure improves SNR by $\sqrt{2}$
 
-### Spectral fitting — [Fitting](./Fitting.html)
+### Spectral fitting — [Fitting](Fitting.html)
 Given observed counts $D_i$ in energy channel $i$ and a model predicting $M_i(\theta)$:
 
 **$\chi^2$ statistics** (Gaussian errors, $D_i \gtrsim 20$ counts):
@@ -54,7 +53,7 @@ $$C(I) = \int \mathcal{F}(E) \cdot R(I, E) \, dE$$
 
 where $R(I,E)$ is the redistribution matrix (RMF) and $\mathcal{F}(E)$ is the photon spectrum
 
-### Hypothesis testing — [p-value](./p-value.html)
+### Hypothesis testing — [p-value](p-value.html)
 Is this source real? Is this spectral feature significant?
 $$p(S) = \int_S^\infty f(S') \, dS'$$
 
@@ -77,10 +76,10 @@ every step requires choosing the right statistic for the photon count regime
 
 ## Subtopics
 
-- [Distributions](./Distributions.html) — Poisson, Gaussian, binomial; moments
-- [Signal-Noise Ratio](./Signal-Noise%20Ratio.html) — detection, exposure time scaling
-- [Fitting](./Fitting.html) — $\chi^2$, C-statistics, forward folding, RMF/ARF
-- [p-value](./p-value.html) — hypothesis testing, significance, null hypothesis
+- [Distributions](Distributions.html) — Poisson, Gaussian, binomial; moments
+- [Signal-Noise Ratio](Signal-Noise%20Ratio.html) — detection, exposure time scaling
+- [Fitting](Fitting.html) — $\chi^2$, C-statistics, forward folding, RMF/ARF
+- [p-value](p-value.html) — hypothesis testing, significance, null hypothesis
 
 ---
 
@@ -100,7 +99,6 @@ every step requires choosing the right statistic for the photon count regime
 
 ![j0529_quasar_p4_img1.png](../../assets/images/j0529_quasar_p4_img1.png)
 *Accretion rate $\dot{M}$ vs black hole mass $M_\bullet$ scaling relation across high-z luminous quasars, confirming Eddington accretion limit physics.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (1)</h4>
@@ -108,3 +106,4 @@ every step requires choosing the right statistic for the photon count regime
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
   </ul>
 </div>
+

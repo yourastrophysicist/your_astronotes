@@ -1,11 +1,8 @@
 ---
 layout: "default"
 title: "Multiple populations in extragalactic GCs"
-name: "Multiple populations in extragalactic GCs"
-description: "confirmation that multiple stellar populations are universal in massive old globular clusters across the Local Group, with extensions to extragalactic systems via JWST"
 ---
-{% raw %}
-a key test of [multiple populations (MPs)](./Multiple%20populations%20in%20GCs%20discovery.html) as a universal property of massive old globular clusters is whether they appear in clusters **outside the Milky Way**. they do. MPs have now been confirmed in GCs of:
+a key test of [multiple populations (MPs)](Multiple%20populations%20in%20GCs%20discovery.html) as a universal property of massive old globular clusters is whether they appear in clusters **outside the Milky Way**. they do. MPs have now been confirmed in GCs of:
 
 - LMC + SMC (Magellanic Clouds);
 - Andromeda (M31);
@@ -21,7 +18,7 @@ ancient ($> 10$ Gyr) GCs in the Magellanic Clouds (NGC 2210, NGC 1841, NGC 1466,
 - **chromosome maps** of LMC GCs (Milone et al. 2020, MNRAS 491, 515) show the same 1G + 2G separation as Galactic GCs;
 - **Type II GC examples** also exist (e.g., NGC 1851-like with iron variations).
 
-the absence of MPs in young ($< 2$ Gyr) LMC + SMC clusters is interpreted as evidence that MPs require old age + high mass. [eMSTO](./Extended%20main%20sequence%20turn-off%20eMSTO.html) in young Magellanic clusters is a different phenomenon (likely [rotation-driven](./Stellar%20rotation%20effects%20on%20CMD.html)).
+the absence of MPs in young ($< 2$ Gyr) LMC + SMC clusters is interpreted as evidence that MPs require old age + high mass. [eMSTO](Extended%20main%20sequence%20turn-off%20eMSTO.html) in young Magellanic clusters is a different phenomenon (likely [rotation-driven](Stellar%20rotation%20effects%20on%20CMD.html)).
 
 ## the Andromeda (M31) GC system
 
@@ -46,7 +43,7 @@ these clusters are **not coeval with M31 + MW GCs**; they may be older + more di
 
 ## connection to dense star cluster formation
 
-the universality of MPs in massive old GCs (across MW + M31 + LMC + Fornax + giant ellipticals) implies that the **cluster formation channel** itself produces MPs. proposed mechanisms (see [Polluter scenarios for second-generation GC stars](./Polluter%20scenarios%20for%20second-generation%20GC%20stars.html)):
+the universality of MPs in massive old GCs (across MW + M31 + LMC + Fornax + giant ellipticals) implies that the **cluster formation channel** itself produces MPs. proposed mechanisms (see [Polluter scenarios for second-generation GC stars](Polluter%20scenarios%20for%20second-generation%20GC%20stars.html)):
 
 - cluster mass above $\sim 5 \times 10^4\,M_\odot$ retains polluter ejecta against winds;
 - formation in dense gas-rich proto-galaxies enables 2G formation from 1G ejecta + retained primordial gas;
@@ -82,25 +79,25 @@ extragalactic confirmation of MPs:
 
 ## see also
 
-- [Multiple populations in GCs discovery](./Multiple%20populations%20in%20GCs%20discovery.html)
-- [Photometric chromosome maps](./Photometric%20chromosome%20maps.html)
-- [Type I and Type II GCs](./Type%20I%20and%20Type%20II%20GCs.html)
-- [Helium spread in GCs](./Helium%20spread%20in%20GCs.html)
-- [Polluter scenarios for second-generation GC stars](./Polluter%20scenarios%20for%20second-generation%20GC%20stars.html)
-- [GC formation models with MPs](./GC%20formation%20models%20with%20MPs.html)
-- [Extragalactic star clusters](./Extragalactic%20star%20clusters.html)
-- [JWST and the first stars](./JWST%20and%20the%20first%20stars.html)
+- [Multiple populations in GCs discovery](Multiple%20populations%20in%20GCs%20discovery.html)
+- [Photometric chromosome maps](Photometric%20chromosome%20maps.html)
+- [Type I and Type II GCs](Type%20I%20and%20Type%20II%20GCs.html)
+- [Helium spread in GCs](Helium%20spread%20in%20GCs.html)
+- [Polluter scenarios for second-generation GC stars](Polluter%20scenarios%20for%20second-generation%20GC%20stars.html)
+- [GC formation models with MPs](GC%20formation%20models%20with%20MPs.html)
+- [Extragalactic star clusters](Extragalactic%20star%20clusters.html)
+- [JWST and the first stars](JWST%20and%20the%20first%20stars.html)
 - [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (6)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./GC%20formation%20models%20with%20MPs.html" class="backlink-item">GC formation models with MPs</a></li>
-    <li class="backlink-item-wrap"><a href="./JWST%20and%20the%20first%20stars.html" class="backlink-item">JWST and the first stars</a></li>
-    <li class="backlink-item-wrap"><a href="./Mass%20dependence%20of%20multiple%20populations.html" class="backlink-item">Mass dependence of multiple populations</a></li>
-    <li class="backlink-item-wrap"><a href="./Photometric%20chromosome%20maps.html" class="backlink-item">Photometric chromosome maps</a></li>
+    <li class="backlink-item-wrap"><a href="GC%20formation%20models%20with%20MPs.html" class="backlink-item">GC formation models with MPs</a></li>
+    <li class="backlink-item-wrap"><a href="JWST%20and%20the%20first%20stars.html" class="backlink-item">JWST and the first stars</a></li>
+    <li class="backlink-item-wrap"><a href="Mass%20dependence%20of%20multiple%20populations.html" class="backlink-item">Mass dependence of multiple populations</a></li>
+    <li class="backlink-item-wrap"><a href="Photometric%20chromosome%20maps.html" class="backlink-item">Photometric chromosome maps</a></li>
+    <li class="backlink-item-wrap"><a href="Type%20I%20and%20Type%20II%20GCs.html" class="backlink-item">Type I and Type II GCs</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Type%20I%20and%20Type%20II%20GCs.html" class="backlink-item">Type I and Type II GCs</a></li>
   </ul>
 </div>
+

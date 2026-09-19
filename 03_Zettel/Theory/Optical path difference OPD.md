@@ -2,7 +2,6 @@
 layout: "default"
 title: "Optical path difference OPD"
 ---
-{% raw %}
 # Optical path difference (OPD)
 
 the **single most important quantity** in interferometry. when two waves from a common source travel along different geometric paths and recombine, the OPD between them determines whether they interfere constructively or destructively. every interferometer is a device for *measuring* an OPD or *exploiting* a known OPD to encode information.
@@ -111,6 +110,5 @@ a Michelson laboratory interferometer with one moving mirror sweeps OPD by twice
 - [Superposition and interference](interf/Superposition%20and%20interference.html)
 - [Fresnel-Arago laws](interf/Fresnel-Arago%20laws.html)
 - [Wavefront-division interferometers](interf/Wavefront-division%20interferometers.html)
-- [Amplitude-division interferometers](./Amplitude-division%20interferometers.html)
+- [Amplitude-division interferometers](Amplitude-division%20interferometers.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

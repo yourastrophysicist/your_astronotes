@@ -2,7 +2,6 @@
 layout: "default"
 title: "Out-of-equilibrium decay baryogenesis and Weinberg model"
 ---
-{% raw %}
 # Out-of-equilibrium decay baryogenesis and Weinberg model
 
 > *the canonical mechanism of generating baryon asymmetry through the out-of-equilibrium decay of heavy GUT gauge or Higgs bosons.*
@@ -48,18 +47,17 @@ $$K \equiv \frac{\Gamma_X}{2 H(T = M_X)}$$
 
 * parent moc: [Cosmology_of_the_Early_Universe_MOC](../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html)
 * related zettels:
-  - [Sakharov conditions for baryogenesis](./Sakharov%20conditions%20for%20baryogenesis.html)
-  - [Electroweak sphalerons and leptogenesis](./Electroweak%20sphalerons%20and%20leptogenesis.html)
+  - [Sakharov conditions for baryogenesis](Sakharov%20conditions%20for%20baryogenesis.html)
+  - [Electroweak sphalerons and leptogenesis](Electroweak%20sphalerons%20and%20leptogenesis.html)
   - [Part6_Reheating_Baryogenesis_and_Dark_Matter](../../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part6_Reheating_Baryogenesis_and_Dark_Matter.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
+  <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Electroweak%20sphalerons%20and%20leptogenesis.html" class="backlink-item">Electroweak sphalerons and leptogenesis</a></li>
+    <li class="backlink-item-wrap"><a href="Preheating%20and%20parametric%20resonance.html" class="backlink-item">Preheating and parametric resonance</a></li>
+    <li class="backlink-item-wrap"><a href="Sakharov%20conditions%20for%20baryogenesis.html" class="backlink-item">Sakharov conditions for baryogenesis</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html" class="backlink-item">Cosmology_of_the_Early_Universe_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Electroweak%20sphalerons%20and%20leptogenesis.html" class="backlink-item">Electroweak sphalerons and leptogenesis</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part6_Reheating_Baryogenesis_and_Dark_Matter.html" class="backlink-item">Part6_Reheating_Baryogenesis_and_Dark_Matter</a></li>
-    <li class="backlink-item-wrap"><a href="./Preheating%20and%20parametric%20resonance.html" class="backlink-item">Preheating and parametric resonance</a></li>
-    <li class="backlink-item-wrap"><a href="./Sakharov%20conditions%20for%20baryogenesis.html" class="backlink-item">Sakharov conditions for baryogenesis</a></li>
   </ul>
 </div>
+

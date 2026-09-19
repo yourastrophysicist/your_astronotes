@@ -2,7 +2,6 @@
 layout: "default"
 title: "Computational_Astrophysics_MOC"
 ---
-{% raw %}
 # Computational Astrophysics — Map of Content
 
 > **Master Year 2 Semester 1** | **A.Y. 2026/2027**  
@@ -98,10 +97,10 @@ $$\text{Final Grade} = \text{Score}_A + \text{Score}_B + \text{Score}_C$$
 - [CloudVeneto HPC OpenStack infrastructure and remote clusters](../03_Zettel/Computational/CloudVeneto%20HPC%20OpenStack%20infrastructure%20and%20remote%20clusters.html) — OpenStack cloud architecture, SSH ProxyJump bastions, port forwarding, and remote VS Code.
 
 ### Related Master Courses
-- [Astro-Statistics_and_Cosmology_MOC](./Astro-Statistics_and_Cosmology_MOC.html) — Bayesian foundations, Cox's theorem, Fisher matrices, and Markov Chain Monte Carlo.
-- [Astrophysics_Laboratory_2_MOC](./Astrophysics_Laboratory_2_MOC.html) — CCD detector calibration, aperture photometry, detrending, and TESS time series analysis.
-- [Exoplanetary_Astrophysics_MOC](./Exoplanetary_Astrophysics_MOC.html) — Exoplanet formation, migration, interior structures, and planetary atmospheres.
-- [Fluid_and_Plasma_Dynamics_MOC](./Fluid_and_Plasma_Dynamics_MOC.html) — Hydrodynamics, accretion disks, and astrophysical fluid instabilities.
+- [Astro-Statistics_and_Cosmology_MOC](Astro-Statistics_and_Cosmology_MOC.html) — Bayesian foundations, Cox's theorem, Fisher matrices, and Markov Chain Monte Carlo.
+- [Astrophysics_Laboratory_2_MOC](Astrophysics_Laboratory_2_MOC.html) — CCD detector calibration, aperture photometry, detrending, and TESS time series analysis.
+- [Exoplanetary_Astrophysics_MOC](Exoplanetary_Astrophysics_MOC.html) — Exoplanet formation, migration, interior structures, and planetary atmospheres.
+- [Fluid_and_Plasma_Dynamics_MOC](Fluid_and_Plasma_Dynamics_MOC.html) — Hydrodynamics, accretion disks, and astrophysical fluid instabilities.
 
 
 ---
@@ -149,39 +148,3 @@ $$\text{Final Grade} = \text{Score}_A + \text{Score}_B + \text{Score}_C$$
 - **Prior Volume Contraction**: $X_i = e^{-i / N_{\mathrm{live}}}$
 - **Amdahl's Law Speedup**: $S(N) = \frac{1}{(1-p) + p/N}$
 - **Voigt Profile**: $H(a, u) = \frac{a}{\pi} \int_{-\infty}^\infty \frac{e^{-y^2}}{(u-y)^2 + a^2} dy$
-{% endraw %}
-
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (29)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Computational_Astrophysics/00_Course_Overview_and_Computational_Laboratories.html" class="backlink-item">00_Course_Overview_and_Computational_Laboratories</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Exoplanetary_Astrophysics/00_Introduction_and_Course_Overview.html" class="backlink-item">00_Introduction_and_Course_Overview</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Computational_Astrophysics/01_Linux_Containers_and_Docker_Architecture.html" class="backlink-item">01_Linux_Containers_and_Docker_Architecture</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Computational_Astrophysics/02_Version_Control_with_Git_and_GitLab.html" class="backlink-item">02_Version_Control_with_Git_and_GitLab</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Computational_Astrophysics/03_Modular_Python_Software_Architecture_and_Packaging.html" class="backlink-item">03_Modular_Python_Software_Architecture_and_Packaging</a></li>
-    <li class="backlink-item-wrap"><a href="./04_Atlas.html" class="backlink-item">04_Atlas</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Computational_Astrophysics/04_Exoplanet_Demographics_Orbital_Mechanics_and_Transits.html" class="backlink-item">04_Exoplanet_Demographics_Orbital_Mechanics_and_Transits</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Computational_Astrophysics/05_Machine_Learning_Foundations_and_Regression_Models.html" class="backlink-item">05_Machine_Learning_Foundations_and_Regression_Models</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Computational_Astrophysics/06_Deep_Learning_Architectures_and_Optimization.html" class="backlink-item">06_Deep_Learning_Architectures_and_Optimization</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Computational_Astrophysics/07_Atmospheric_Radiative_Transfer_and_Line_Profiles.html" class="backlink-item">07_Atmospheric_Radiative_Transfer_and_Line_Profiles</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Computational_Astrophysics/08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx.html" class="backlink-item">08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Computational_Astrophysics/09_Bayesian_Inference_and_Parameter_Estimation.html" class="backlink-item">09_Bayesian_Inference_and_Parameter_Estimation</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Computational_Astrophysics/10_Nested_Sampling_and_Evidence_Computation.html" class="backlink-item">10_Nested_Sampling_and_Evidence_Computation</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Computational_Astrophysics/11_Parallel_Computing_Architectures_and_HPC_Scaling.html" class="backlink-item">11_Parallel_Computing_Architectures_and_HPC_Scaling</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Computational_Astrophysics/12_MPI_Distributed_Memory_Programming_with_Python.html" class="backlink-item">12_MPI_Distributed_Memory_Programming_with_Python</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Computational_Astrophysics/13_CloudVeneto_HPC_Infrastructure_and_OpenStack_Deployment.html" class="backlink-item">13_CloudVeneto_HPC_Infrastructure_and_OpenStack_Deployment</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Computational/Atmospheric%20radiative%20transfer%20equation%20and%20Voigt%20profile.html" class="backlink-item">Atmospheric radiative transfer equation and Voigt profile</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Computational/CloudVeneto%20HPC%20OpenStack%20infrastructure%20and%20remote%20clusters.html" class="backlink-item">CloudVeneto HPC OpenStack infrastructure and remote clusters</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Computational/Deep%20neural%20networks%20and%20backpropagation%20for%20astronomical%20spectra.html" class="backlink-item">Deep neural networks and backpropagation for astronomical spectra</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Computational/Distributed%20version%20control%20DAG%20and%20GitLab%20workflows.html" class="backlink-item">Distributed version control DAG and GitLab workflows</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Computational/Exoplanet%20atmospheric%20retrieval%20and%20TauREx%20framework.html" class="backlink-item">Exoplanet atmospheric retrieval and TauREx framework</a></li>
-    <li class="backlink-item-wrap"><a href="./Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Computational/Linux%20containers%20and%20Docker%20architecture%20in%20astrophysics.html" class="backlink-item">Linux containers and Docker architecture in astrophysics</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Computational/MPI%20distributed%20memory%20programming%20with%20mpi4py.html" class="backlink-item">MPI distributed memory programming with mpi4py</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Computational/Modular%20Python%20packaging%20and%20scientific%20software%20architecture.html" class="backlink-item">Modular Python packaging and scientific software architecture</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Computational/Nested%20sampling%20algorithm%20and%20Bayesian%20evidence%20computation.html" class="backlink-item">Nested sampling algorithm and Bayesian evidence computation</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Computational/Parallel%20computing%20architectures%20and%20Amdahl%20scaling%20laws.html" class="backlink-item">Parallel computing architectures and Amdahl scaling laws</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Computational/Supervised%20regression%20basis%20models%20and%20regularization.html" class="backlink-item">Supervised regression basis models and regularization</a></li>
-  </ul>
-</div>

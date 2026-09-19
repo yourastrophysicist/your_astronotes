@@ -2,7 +2,6 @@
 layout: "default"
 title: "Van Cittert-Zernike theorem"
 ---
-{% raw %}
 # Van Cittert-Zernike theorem
 
 the central theorem of interferometry. **the spatial coherence function (= visibility) of a wave field is the Fourier transform of the source brightness distribution.**
@@ -142,4 +141,3 @@ source: local study diagram generated from the standard narrow-field VCZ relatio
 - [The (u, v) plane](interf/The%20%28u%2C%20v%29%20plane.html)
 - [Dirty beam and dirty image](interf/Dirty%20beam%20and%20dirty%20image.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

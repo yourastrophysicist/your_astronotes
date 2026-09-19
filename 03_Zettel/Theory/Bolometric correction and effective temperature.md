@@ -2,7 +2,6 @@
 layout: "default"
 title: "Bolometric correction and effective temperature"
 ---
-{% raw %}
 a single filter only catches part of a star's light; the rest of the SED is invisible to that band. the **bolometric correction** is the offset to convert a filter magnitude to a bolometric magnitude. the **effective temperature** is the temperature of the equivalent blackbody that would produce the star's total luminosity at its actual radius.
 
 ## bolometric magnitude
@@ -54,7 +53,7 @@ practical chain:
 3. **$BC_X(T_{\rm eff})$** $\to$ $M_{\rm bol}$ $\to$ $L$.
 4. $L$ + $T_{\rm eff}$ $\to$ $R$ via Stefan-Boltzmann.
 
-this is the standard way to populate the [HR diagram](./HR%20diagram.html) with both luminosity and radius.
+this is the standard way to populate the [HR diagram](HR%20diagram.html) with both luminosity and radius.
 
 ## modern alternative: SED fitting
 
@@ -62,13 +61,13 @@ instead of using $BC$, fit a model spectrum (Kurucz, PHOENIX, BT-Settl) to multi
 
 ## see also
 
-- [Magnitudes and photometric systems](./Magnitudes%20and%20photometric%20systems.html)
-- [Stellar scaling relations](./Stellar%20scaling%20relations.html)
-- [HR diagram](./HR%20diagram.html)
-- [Stellar spectra and spectral classification](./Stellar%20spectra%20and%20spectral%20classification.html)
-- [Planck law Wien Stefan-Boltzmann](./Planck%20law%20Wien%20Stefan-Boltzmann.html)
-- [Specific intensity flux luminosity](./Specific%20intensity%20flux%20luminosity.html)
-- [Filter systems and bandpasses](./Filter%20systems%20and%20bandpasses.html)
+- [Magnitudes and photometric systems](Magnitudes%20and%20photometric%20systems.html)
+- [Stellar scaling relations](Stellar%20scaling%20relations.html)
+- [HR diagram](HR%20diagram.html)
+- [Stellar spectra and spectral classification](Stellar%20spectra%20and%20spectral%20classification.html)
+- [Planck law Wien Stefan-Boltzmann](Planck%20law%20Wien%20Stefan-Boltzmann.html)
+- [Specific intensity flux luminosity](Specific%20intensity%20flux%20luminosity.html)
+- [Filter systems and bandpasses](Filter%20systems%20and%20bandpasses.html)
 
 ---
 
@@ -85,19 +84,19 @@ instead of using $BC$, fit a model spectrum (Kurucz, PHOENIX, BT-Settl) to multi
 
 ![obs_rad-076.png](../../assets/images/obs_rad-076.png)
 *Bolometric correction as function of spectral type and effective temperature.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (9)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Color%20indices.html" class="backlink-item">Color indices</a></li>
-    <li class="backlink-item-wrap"><a href="./Continuum%20opacity%20sources.html" class="backlink-item">Continuum opacity sources</a></li>
-    <li class="backlink-item-wrap"><a href="./Eddington-Barbier%20approximation.html" class="backlink-item">Eddington-Barbier approximation</a></li>
-    <li class="backlink-item-wrap"><a href="./Filter%20systems%20and%20bandpasses.html" class="backlink-item">Filter systems and bandpasses</a></li>
-    <li class="backlink-item-wrap"><a href="./Limb%20darkening.html" class="backlink-item">Limb darkening</a></li>
+    <li class="backlink-item-wrap"><a href="Color%20indices.html" class="backlink-item">Color indices</a></li>
+    <li class="backlink-item-wrap"><a href="Continuum%20opacity%20sources.html" class="backlink-item">Continuum opacity sources</a></li>
+    <li class="backlink-item-wrap"><a href="Eddington-Barbier%20approximation.html" class="backlink-item">Eddington-Barbier approximation</a></li>
+    <li class="backlink-item-wrap"><a href="Filter%20systems%20and%20bandpasses.html" class="backlink-item">Filter systems and bandpasses</a></li>
+    <li class="backlink-item-wrap"><a href="Limb%20darkening.html" class="backlink-item">Limb darkening</a></li>
+    <li class="backlink-item-wrap"><a href="Planck%20law%20Wien%20Stefan-Boltzmann.html" class="backlink-item">Planck law Wien Stefan-Boltzmann</a></li>
+    <li class="backlink-item-wrap"><a href="Thermal%20continuum%20from%20stellar%20photosphere.html" class="backlink-item">Thermal continuum from stellar photosphere</a></li>
+    <li class="backlink-item-wrap"><a href="Why%20the%20Sequence%20OBAFGKM.html" class="backlink-item">Why the Sequence OBAFGKM</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Planck%20law%20Wien%20Stefan-Boltzmann.html" class="backlink-item">Planck law Wien Stefan-Boltzmann</a></li>
-    <li class="backlink-item-wrap"><a href="./Thermal%20continuum%20from%20stellar%20photosphere.html" class="backlink-item">Thermal continuum from stellar photosphere</a></li>
-    <li class="backlink-item-wrap"><a href="./Why%20the%20Sequence%20OBAFGKM.html" class="backlink-item">Why the Sequence OBAFGKM</a></li>
   </ul>
 </div>
+

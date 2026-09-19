@@ -2,7 +2,6 @@
 layout: "default"
 title: "Alt-azimuth equatorial transformations"
 ---
-{% raw %}
 the spherical triangle linking the zenith $Z$, the celestial pole $P$, and the body has sides $90° - \phi$ (Z to pole, equal to the latitude's complement), $90° - a$ (Z to body), and $90° - \delta$ (pole to body), with internal angles related to $A, h$.
 
 so the alt-azimuth ↔ equatorial transformation is just the master spherical-trig equations applied with specific substitutions.
@@ -13,7 +12,7 @@ so the alt-azimuth ↔ equatorial transformation is just the master spherical-tr
 
 ## alt-azimuth → equatorial
 
-substitute into the master equations (see [Spherical trigonometry](./Spherical%20trigonometry.html)):
+substitute into the master equations (see [Spherical trigonometry](Spherical%20trigonometry.html)):
 $$\psi = 90° - A, \qquad \theta = a, \qquad \chi = 90° - \phi$$
 $$\psi' = 90° - h, \qquad \theta' = \delta$$
 
@@ -58,9 +57,8 @@ given $(h, \delta, \phi)$ I get $(A, a)$.
 ## see also
 
 - [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Spherical_astronomy_complete](./Spherical_astronomy_complete.html)
-- [Spherical trigonometry](./Spherical%20trigonometry.html)
-- [Equatorial system](./Equatorial%20system.html)
-- [Horizontal alt-azimuth system](./Horizontal%20alt-azimuth%20system.html)
+- [Spherical_astronomy_complete](Spherical_astronomy_complete.html)
+- [Spherical trigonometry](Spherical%20trigonometry.html)
+- [Equatorial system](Equatorial%20system.html)
+- [Horizontal alt-azimuth system](Horizontal%20alt-azimuth%20system.html)
 - Culmination and rise/set
-{% endraw %}

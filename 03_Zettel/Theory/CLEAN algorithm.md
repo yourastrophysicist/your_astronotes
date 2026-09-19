@@ -2,7 +2,6 @@
 layout: "default"
 title: "CLEAN algorithm"
 ---
-{% raw %}
 # CLEAN algorithm
 
 the iterative point-source deconvolution that turns a dirty image into a science-ready clean image. invented by Jan Högbom (1974), CLEAN is *the* standard imaging algorithm in radio astronomy and increasingly in optical interferometry.
@@ -122,8 +121,7 @@ source: S. T. Myers, NRAO Synthesis Imaging Summer School page on snapshot imagi
 ## see also
 
 - [Dirty beam and dirty image](interf/Dirty%20beam%20and%20dirty%20image.html)
-- [Maximum entropy method](./Maximum%20entropy%20method.html)
+- [Maximum entropy method](Maximum%20entropy%20method.html)
 - [Self-calibration](interf/Self-calibration.html)
 - [Imaging artifacts](interf/Imaging%20artifacts.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

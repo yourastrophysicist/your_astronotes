@@ -2,10 +2,9 @@
 layout: "default"
 title: "Inflation overview"
 ---
-{% raw %}
 **inflation** is a hypothetical epoch of accelerated expansion ($\ddot a > 0$) in the very early universe, $t \sim 10^{-35}$ s, $T \gtrsim 10^{16}$ GeV. it was proposed in 1981 by Alan Guth and refined by Andrei Linde, Albrecht-Steinhardt, Sato, and others.
 
-inflation is designed to solve the **fine-tuning problems** of the standard hot Big Bang model: flatness, horizon, monopoles (see [Standard model problems](./Standard%20model%20problems.html)).
+inflation is designed to solve the **fine-tuning problems** of the standard hot Big Bang model: flatness, horizon, monopoles (see [Standard model problems](Standard%20model%20problems.html)).
 
 ---
 
@@ -58,7 +57,7 @@ generic predictions:
 - the primordial **scalar power spectrum** is nearly scale-invariant: $P_\zeta(k) \propto k^{n_s - 1}$ with $n_s$ slightly less than 1. measured: $n_s = 0.965 \pm 0.004$ (Planck 2018), perfectly consistent with single-field slow-roll inflation.
 - the **tensor-to-scalar ratio** $r$ is small but nonzero. measured upper bound: $r < 0.06$ (Planck + BICEP/Keck). future experiments (LiteBIRD, CMB-S4) aim for $r \sim 10^{-3}$.
 
-→ see [Inflaton scalar field dynamics](./Inflaton%20scalar%20field%20dynamics.html) and [Old vs new vs chaotic inflation, slow-roll](./Old%20vs%20new%20vs%20chaotic%20inflation%2C%20slow-roll.html) for the technical details.
+→ see [Inflaton scalar field dynamics](Inflaton%20scalar%20field%20dynamics.html) and [Old vs new vs chaotic inflation, slow-roll](Old%20vs%20new%20vs%20chaotic%20inflation%2C%20slow-roll.html) for the technical details.
 
 ---
 
@@ -76,7 +75,7 @@ so the timeline is:
 4. **matter domination** ($z < 3300$)
 5. **Λ domination** ($z < 0.7$)
 
-→ see [Brief thermal history](./Brief%20thermal%20history.html) for the full timeline.
+→ see [Brief thermal history](Brief%20thermal%20history.html) for the full timeline.
 
 ---
 
@@ -94,38 +93,38 @@ inflation is a beautiful idea that solves real problems and has made specific pr
 ## see also
 
 - [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Standard model problems](./Standard%20model%20problems.html)
-- [Inflaton scalar field dynamics](./Inflaton%20scalar%20field%20dynamics.html)
-- [Old vs new vs chaotic inflation, slow-roll](./Old%20vs%20new%20vs%20chaotic%20inflation%2C%20slow-roll.html)
-- [Brief thermal history](./Brief%20thermal%20history.html)
-- [Baryogenesis](./Baryogenesis.html)
-- [Baumann_reference](./Baumann_reference.html) — chapter 2 is the rigorous treatment
-{% endraw %}
+- [Standard model problems](Standard%20model%20problems.html)
+- [Inflaton scalar field dynamics](Inflaton%20scalar%20field%20dynamics.html)
+- [Old vs new vs chaotic inflation, slow-roll](Old%20vs%20new%20vs%20chaotic%20inflation%2C%20slow-roll.html)
+- [Brief thermal history](Brief%20thermal%20history.html)
+- [Baryogenesis](Baryogenesis.html)
+- [Baumann_reference](Baumann_reference.html) — chapter 2 is the rigorous treatment
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (22)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Baryogenesis.html" class="backlink-item">Baryogenesis</a></li>
-    <li class="backlink-item-wrap"><a href="./Baumann_reference.html" class="backlink-item">Baumann_reference</a></li>
-    <li class="backlink-item-wrap"><a href="./Brief%20thermal%20history.html" class="backlink-item">Brief thermal history</a></li>
-    <li class="backlink-item-wrap"><a href="./CMB%20anisotropies.html" class="backlink-item">CMB anisotropies</a></li>
-    <li class="backlink-item-wrap"><a href="./CMB%20power%20spectrum.html" class="backlink-item">CMB power spectrum</a></li>
-    <li class="backlink-item-wrap"><a href="./Cosmological%20evolution%20of%20perturbations%20in%20the%20cosmic%20fluid.html" class="backlink-item">Cosmological evolution of perturbations in the cosmic fluid</a></li>
-    <li class="backlink-item-wrap"><a href="./Cosmological%20inflation.html" class="backlink-item">Cosmological inflation</a></li>
-    <li class="backlink-item-wrap"><a href="./Curvature%20parameter%20k.html" class="backlink-item">Curvature parameter k</a></li>
-    <li class="backlink-item-wrap"><a href="./Curvature-dynamics%20relation.html" class="backlink-item">Curvature-dynamics relation</a></li>
-    <li class="backlink-item-wrap"><a href="./Density%20parameters%20and%20flatness.html" class="backlink-item">Density parameters and flatness</a></li>
-    <li class="backlink-item-wrap"><a href="./Friedmann%20models.html" class="backlink-item">Friedmann models</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Inflaton%20scalar%20field%20dynamics.html" class="backlink-item">Inflaton scalar field dynamics</a></li>
-    <li class="backlink-item-wrap"><a href="./Lambda%20CDM%20current%20parameters.html" class="backlink-item">Lambda CDM current parameters</a></li>
-    <li class="backlink-item-wrap"><a href="./Old%20vs%20new%20vs%20chaotic%20inflation%2C%20slow-roll.html" class="backlink-item">Old vs new vs chaotic inflation, slow-roll</a></li>
+    <li class="backlink-item-wrap"><a href="Baryogenesis.html" class="backlink-item">Baryogenesis</a></li>
+    <li class="backlink-item-wrap"><a href="Baumann_reference.html" class="backlink-item">Baumann_reference</a></li>
+    <li class="backlink-item-wrap"><a href="Brief%20thermal%20history.html" class="backlink-item">Brief thermal history</a></li>
+    <li class="backlink-item-wrap"><a href="CMB%20anisotropies.html" class="backlink-item">CMB anisotropies</a></li>
+    <li class="backlink-item-wrap"><a href="CMB%20power%20spectrum.html" class="backlink-item">CMB power spectrum</a></li>
+    <li class="backlink-item-wrap"><a href="Cosmological%20evolution%20of%20perturbations%20in%20the%20cosmic%20fluid.html" class="backlink-item">Cosmological evolution of perturbations in the cosmic fluid</a></li>
+    <li class="backlink-item-wrap"><a href="Cosmological%20inflation.html" class="backlink-item">Cosmological inflation</a></li>
+    <li class="backlink-item-wrap"><a href="Curvature%20parameter%20k.html" class="backlink-item">Curvature parameter k</a></li>
+    <li class="backlink-item-wrap"><a href="Curvature-dynamics%20relation.html" class="backlink-item">Curvature-dynamics relation</a></li>
+    <li class="backlink-item-wrap"><a href="Density%20parameters%20and%20flatness.html" class="backlink-item">Density parameters and flatness</a></li>
+    <li class="backlink-item-wrap"><a href="Friedmann%20models.html" class="backlink-item">Friedmann models</a></li>
+    <li class="backlink-item-wrap"><a href="Inflaton%20scalar%20field%20dynamics.html" class="backlink-item">Inflaton scalar field dynamics</a></li>
+    <li class="backlink-item-wrap"><a href="Lambda%20CDM%20current%20parameters.html" class="backlink-item">Lambda CDM current parameters</a></li>
+    <li class="backlink-item-wrap"><a href="Old%20vs%20new%20vs%20chaotic%20inflation%2C%20slow-roll.html" class="backlink-item">Old vs new vs chaotic inflation, slow-roll</a></li>
+    <li class="backlink-item-wrap"><a href="Phase%20transitions.html" class="backlink-item">Phase transitions</a></li>
+    <li class="backlink-item-wrap"><a href="Polarization%20E%20and%20B%20modes.html" class="backlink-item">Polarization E and B modes</a></li>
+    <li class="backlink-item-wrap"><a href="Robertson-Walker%20metric.html" class="backlink-item">Robertson-Walker metric</a></li>
+    <li class="backlink-item-wrap"><a href="SVT%20decomposition.html" class="backlink-item">SVT decomposition</a></li>
+    <li class="backlink-item-wrap"><a href="Spatial%20curvature%20parameter%20k.html" class="backlink-item">Spatial curvature parameter k</a></li>
+    <li class="backlink-item-wrap"><a href="Standard%20model%20problems.html" class="backlink-item">Standard model problems</a></li>
     <li class="backlink-item-wrap"><a href="interf/Phase%20transitions.html" class="backlink-item">Phase transitions</a></li>
-    <li class="backlink-item-wrap"><a href="./Phase%20transitions.html" class="backlink-item">Phase transitions</a></li>
-    <li class="backlink-item-wrap"><a href="./Polarization%20E%20and%20B%20modes.html" class="backlink-item">Polarization E and B modes</a></li>
-    <li class="backlink-item-wrap"><a href="./Robertson-Walker%20metric.html" class="backlink-item">Robertson-Walker metric</a></li>
-    <li class="backlink-item-wrap"><a href="./SVT%20decomposition.html" class="backlink-item">SVT decomposition</a></li>
-    <li class="backlink-item-wrap"><a href="./Spatial%20curvature%20parameter%20k.html" class="backlink-item">Spatial curvature parameter k</a></li>
-    <li class="backlink-item-wrap"><a href="./Standard%20model%20problems.html" class="backlink-item">Standard model problems</a></li>
+    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
   </ul>
 </div>
+

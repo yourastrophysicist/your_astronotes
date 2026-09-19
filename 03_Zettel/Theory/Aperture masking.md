@@ -2,7 +2,6 @@
 layout: "default"
 title: "Aperture masking"
 ---
-{% raw %}
 # Aperture masking
 
 place a mask over the primary mirror of a single telescope, leaving only a few small holes. each hole pair acts as an interferometer baseline. the resulting image is the diffraction pattern of an *interferometer* — a sparse-aperture interferometer made from a single dish.
@@ -95,4 +94,3 @@ so aperture masking is "interferometry within a single telescope" — same algor
 
 ![Aperture_masking.jpg](../../assets/images/Aperture_masking.jpg)
 *Non-redundant aperture mask (NRM) geometry placed in the pupil plane of a single telescope, converting the pupil into an interferometric array with unique baseline vectors.*
-{% endraw %}

@@ -2,12 +2,11 @@
 layout: "default"
 title: "Wavefront-division interferometers"
 ---
-{% raw %}
 # Wavefront-division interferometers
 
 a class of interferometers where the original wavefront is **spatially divided** — different *parts* of the same wavefront are sent along different optical paths, then recombined. all four classical examples — Young, Fresnel double mirror, Fresnel biprism, Lloyd mirror — produce two virtual coherent sources from a single primary source.
 
-contrast with [Amplitude-division interferometers](./Amplitude-division%20interferometers.html), where the same wavefront is *partially reflected and transmitted*, creating two beams of reduced amplitude that travel different paths.
+contrast with [Amplitude-division interferometers](Amplitude-division%20interferometers.html), where the same wavefront is *partially reflected and transmitted*, creating two beams of reduced amplitude that travel different paths.
 
 ## the four classical examples
 
@@ -95,10 +94,9 @@ amplitude division is dominant in lab metrology and quantum optics. wavefront di
 
 ## see also
 
-- [Amplitude-division interferometers](./Amplitude-division%20interferometers.html)
+- [Amplitude-division interferometers](Amplitude-division%20interferometers.html)
 - [Young experiment as a stellar interferometer](interf/Young%20experiment%20as%20a%20stellar%20interferometer.html)
 - [Fresnel double mirror](interf/Fresnel%20double%20mirror.html)
 - [Fresnel biprism](interf/Fresnel%20biprism.html)
 - [Lloyd mirror](interf/Lloyd%20mirror.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

@@ -1,12 +1,8 @@
 ---
 layout: "default"
 title: "Maximum entropy method"
-type: "zettel"
-created: "2026-08-04"
-moc: ""
 tags: ""
 ---
-{% raw %}
 > The maximum entropy method reconstructs images by finding the smoothest possible sky distribution that still perfectly matches the observed data.
 
 ---
@@ -44,17 +40,17 @@ MEM has historically been used extensively for single-dish deconvolution and for
 
 * parent moc: [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
 * related zettels: [CLEAN algorithm](interf/CLEAN%20algorithm.html), [Deconvolution algorithms compared](interf/Deconvolution%20algorithms%20compared.html), [Dirty beam and dirty image](interf/Dirty%20beam%20and%20dirty%20image.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (7)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
+    <li class="backlink-item-wrap"><a href="CLEAN%20algorithm.html" class="backlink-item">CLEAN algorithm</a></li>
+    <li class="backlink-item-wrap"><a href="Deconvolution%20algorithms%20compared.html" class="backlink-item">Deconvolution algorithms compared</a></li>
+    <li class="backlink-item-wrap"><a href="Dirty%20beam%20and%20dirty%20image.html" class="backlink-item">Dirty beam and dirty image</a></li>
     <li class="backlink-item-wrap"><a href="interf/CLEAN%20algorithm.html" class="backlink-item">CLEAN algorithm</a></li>
-    <li class="backlink-item-wrap"><a href="./CLEAN%20algorithm.html" class="backlink-item">CLEAN algorithm</a></li>
-    <li class="backlink-item-wrap"><a href="./Deconvolution%20algorithms%20compared.html" class="backlink-item">Deconvolution algorithms compared</a></li>
     <li class="backlink-item-wrap"><a href="interf/Deconvolution%20algorithms%20compared.html" class="backlink-item">Deconvolution algorithms compared</a></li>
     <li class="backlink-item-wrap"><a href="interf/Dirty%20beam%20and%20dirty%20image.html" class="backlink-item">Dirty beam and dirty image</a></li>
-    <li class="backlink-item-wrap"><a href="./Dirty%20beam%20and%20dirty%20image.html" class="backlink-item">Dirty beam and dirty image</a></li>
+    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

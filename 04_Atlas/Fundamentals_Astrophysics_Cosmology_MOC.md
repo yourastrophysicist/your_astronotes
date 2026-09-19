@@ -2,10 +2,10 @@
 layout: "default"
 title: "Fundamentals_Astrophysics_Cosmology_MOC"
 ---
-{% raw %}
 # Fundamentals of Astrophysics and Cosmology — Map of Content
 
-> **Oral Exam Confirmed**: **Friday 18 September 2026, 09.00 - 13.00 CEST**, Aula A, Ex Rizzato (Examiners: Prof. Nicola Bartolo & Prof. Giulia Rodighiero). Part of Exams autumn 2026 sprint.
+> **Exam Status** - Sat on **Friday 18 September 2026** (Aula A, Ex Rizzato, Examiners: Prof Nicola Bartolo & Prof Giulia Rodighiero). **FAILED (retake scheduled for Winter Session, Jan / Feb 2027)**.
+> See postmortem & mathematical rigor protocol: Exam Postmortem and Mathematical Rigor Protocol and Lesson Learned - Mathematical Rigor and Observational Graph Fluency.
 
 A.Y. 2025/2026 — **Prof. Nicola Bartolo** (cosmology block) and **Prof. Giulia Rodighiero** (astrophysics / observations block), with tutor Dr. Ripalta Amoruso. University of Padova.
 
@@ -14,7 +14,7 @@ This is the first-semester foundation course. It sits underneath everything else
 The central thread is a chain that I keep coming back to:
 $$\text{coordinates} \to \text{distances} \to \text{flux and magnitudes} \to \text{spectra} \to \text{HR diagram} \to \text{galaxies} \to \text{Hubble law} \to \text{Friedmann} \to \text{thermal history} \to \text{BBN, recombination, CMB} \to \text{perturbations and structures}$$
 
-Every later course (Observational Cosmology, High Energy Instrumentation, GR) is some specialized refinement of one piece of this chain. So this MOC is the **trunk**, and the other MOCs ([Observational_Cosmology_MOC](./Observational_Cosmology_MOC.html), [Lab_High-Energy_MOC](./Lab_High-Energy_MOC.html), [General_Relativity_MOC](./General_Relativity_MOC.html)) are the **branches**.
+Every later course (Observational Cosmology, High Energy Instrumentation, GR) is some specialized refinement of one piece of this chain. So this MOC is the **trunk**, and the other MOCs ([Observational_Cosmology_MOC](Observational_Cosmology_MOC.html), [Lab_High-Energy_MOC](Lab_High-Energy_MOC.html), [General_Relativity_MOC](General_Relativity_MOC.html)) are the **branches**.
 
 ---
 
@@ -285,130 +285,3 @@ FROM "03_Zettel/Theory"
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 SORT file.name ASC
 ```
-{% endraw %}
-
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (120)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./04_Atlas.html" class="backlink-item">04_Atlas</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Aberration%20of%20light.html" class="backlink-item">Aberration of light</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Alt-azimuth%20equatorial%20transformations.html" class="backlink-item">Alt-azimuth equatorial transformations</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Alt-azimuth%20%E2%86%94%20equatorial%20transformations.html" class="backlink-item">Alt-azimuth ↔ equatorial transformations</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Annual%20stellar%20parallax.html" class="backlink-item">Annual stellar parallax</a></li>
-    <li class="backlink-item-wrap"><a href="./Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Astrophysics_of_the_Interstellar_Medium_MOC.html" class="backlink-item">Astrophysics_of_the_Interstellar_Medium_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Atmospheric%20refraction.html" class="backlink-item">Atmospheric refraction</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/BBN_NSE_initial_conditions.html" class="backlink-item">BBN_NSE_initial_conditions</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/BBN_baryon_to_photon_ratio.html" class="backlink-item">BBN_baryon_to_photon_ratio</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/BBN_concordance_with_CMB.html" class="backlink-item">BBN_concordance_with_CMB</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/BBN_neutron_proton_ratio.html" class="backlink-item">BBN_neutron_proton_ratio</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/BBN_observations.html" class="backlink-item">BBN_observations</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/BBN_overview.html" class="backlink-item">BBN_overview</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/BBN_predictions.html" class="backlink-item">BBN_predictions</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/BBN_three_steps.html" class="backlink-item">BBN_three_steps</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Baryogenesis.html" class="backlink-item">Baryogenesis</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Baumann_reference.html" class="backlink-item">Baumann_reference</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Binary%20star%20evolution%20and%20mass%20transfer.html" class="backlink-item">Binary star evolution and mass transfer</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Blackbody%20radiation%20and%20Stefan-Boltzmann.html" class="backlink-item">Blackbody radiation and Stefan-Boltzmann</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Boltzmann%20equation%20in%20cosmology.html" class="backlink-item">Boltzmann equation in cosmology</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Brief%20thermal%20history.html" class="backlink-item">Brief thermal history</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/CMB%20Spectral%20Distortions%20-%20What%20They%20Are%20and%20Where%20They%20Come%20From.html" class="backlink-item">CMB Spectral Distortions - What They Are and Where They Come From</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Celestial%20sphere%20and%20great%20circles.html" class="backlink-item">Celestial sphere and great circles</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Cepheids%20and%20supernovae.html" class="backlink-item">Cepheids and supernovae</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Cluster%20ages%20from%20CMD%20turnoff.html" class="backlink-item">Cluster ages from CMD turnoff</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Conservation%20of%20entropy%20in%20a%20comoving%20volume.html" class="backlink-item">Conservation of entropy in a comoving volume</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Cosmic_inventory_baryons.html" class="backlink-item">Cosmic_inventory_baryons</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Cosmic_inventory_dark_energy.html" class="backlink-item">Cosmic_inventory_dark_energy</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Cosmic_inventory_dark_matter.html" class="backlink-item">Cosmic_inventory_dark_matter</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Cosmic_inventory_neutrinos.html" class="backlink-item">Cosmic_inventory_neutrinos</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Cosmic_inventory_overview.html" class="backlink-item">Cosmic_inventory_overview</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Cosmic_inventory_photons.html" class="backlink-item">Cosmic_inventory_photons</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Cosmic_inventory_photons_derivation.html" class="backlink-item">Cosmic_inventory_photons_derivation</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Cosmological%20distances.html" class="backlink-item">Cosmological distances</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Cosmological%20principle.html" class="backlink-item">Cosmological principle</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Cosmology%20calculator%20-%20how%20to%20use%20H0%20Omega_m%20Omega_Lambda%20to%20get%20dL%20dA%20t_lookback.html" class="backlink-item">Cosmology calculator - how to use H0 Omega_m Omega_Lambda to get dL dA t_lookback</a></li>
-    <li class="backlink-item-wrap"><a href="./Cosmology_of_the_Early_Universe_MOC.html" class="backlink-item">Cosmology_of_the_Early_Universe_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Culmination%20and%20rise-set.html" class="backlink-item">Culmination and rise-set</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Curvature%20parameter%20k.html" class="backlink-item">Curvature parameter k</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Dark%20matter%20on%20galactic%20scales.html" class="backlink-item">Dark matter on galactic scales</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Dark%20matter%20relics%20-%20WIMP%20miracle.html" class="backlink-item">Dark matter relics - WIMP miracle</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Decoupling%20and%20freeze-out.html" class="backlink-item">Decoupling and freeze-out</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Density%20parameters%20and%20flatness.html" class="backlink-item">Density parameters and flatness</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Distance%20ladder%20derivations.html" class="backlink-item">Distance ladder derivations</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Earth%20atmosphere%20for%20observations.html" class="backlink-item">Earth atmosphere for observations</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Earth%20coordinates.html" class="backlink-item">Earth coordinates</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Ecliptic%20system.html" class="backlink-item">Ecliptic system</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Electromagnetic%20radiation%20basics.html" class="backlink-item">Electromagnetic radiation basics</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Equatorial%20system.html" class="backlink-item">Equatorial system</a></li>
-    <li class="backlink-item-wrap"><a href="./Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Friedmann%20equations%20with%20Lambda.html" class="backlink-item">Friedmann equations with Lambda</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Friedmann%20models.html" class="backlink-item">Friedmann models</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Fundamentals_course_intro.html" class="backlink-item">Fundamentals_course_intro</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Galactic%20Center.html" class="backlink-item">Galactic Center</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Galactic%20coordinate%20system.html" class="backlink-item">Galactic coordinate system</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Galaxies%20across%20wavelengths.html" class="backlink-item">Galaxies across wavelengths</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Galaxies%20in%20the%20local%20universe.html" class="backlink-item">Galaxies in the local universe</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Galaxy%20clusters%20and%20overview%20of%20evolution.html" class="backlink-item">Galaxy clusters and overview of evolution</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Galaxy%20morphology%20vs%20physical%20properties.html" class="backlink-item">Galaxy morphology vs physical properties</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Growth%20factor%20D%28z%29.html" class="backlink-item">Growth factor D(z)</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/HR%20diagram.html" class="backlink-item">HR diagram</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Horizontal%20alt-azimuth%20system.html" class="backlink-item">Horizontal alt-azimuth system</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Hot%20vs%20cold%20dark%20matter.html" class="backlink-item">Hot vs cold dark matter</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Hubble%20constant%20and%20deceleration%20parameter.html" class="backlink-item">Hubble constant and deceleration parameter</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Hubble%20law%20derivation%20low-z.html" class="backlink-item">Hubble law derivation low-z</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Hubble%20law%20exact%20form.html" class="backlink-item">Hubble law exact form</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Hubble%20morphological%20sequence.html" class="backlink-item">Hubble morphological sequence</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Hubble%27s%20law%20and%20cosmological%20redshift.html" class="backlink-item">Hubble's law and cosmological redshift</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Inflation%20overview.html" class="backlink-item">Inflation overview</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Inflaton%20scalar%20field%20dynamics.html" class="backlink-item">Inflaton scalar field dynamics</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Interstellar%20absorption.html" class="backlink-item">Interstellar absorption</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Interstellar%20medium%20components%20and%20gas%20cycle.html" class="backlink-item">Interstellar medium components and gas cycle</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Jeans%20analysis%20in%20expanding%20universe.html" class="backlink-item">Jeans analysis in expanding universe</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Jeans%20theory%20and%20protostellar%20formation.html" class="backlink-item">Jeans theory and protostellar formation</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/LambdaCDM%20current%20parameters.html" class="backlink-item">LambdaCDM current parameters</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Linear%20evolution%20of%20perturbations%20in%20expanding%20universe.html" class="backlink-item">Linear evolution of perturbations in expanding universe</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Magnitudes%20and%20photometric%20systems.html" class="backlink-item">Magnitudes and photometric systems</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Main%20sequence%2C%20giants%2C%20supergiants%2C%20white%20dwarfs.html" class="backlink-item">Main sequence, giants, supergiants, white dwarfs</a></li>
-    <li class="backlink-item-wrap"><a href="./Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Matter%20power%20spectrum%20and%20BAO.html" class="backlink-item">Matter power spectrum and BAO</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Milky%20Way%20structure.html" class="backlink-item">Milky Way structure</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Newtonian%20Friedmann%20derivation.html" class="backlink-item">Newtonian Friedmann derivation</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Number%20density%20and%20energy%20density%20at%20thermal%20equilibrium.html" class="backlink-item">Number density and energy density at thermal equilibrium</a></li>
-    <li class="backlink-item-wrap"><a href="./Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Old%20vs%20new%20vs%20chaotic%20inflation%2C%20slow-roll.html" class="backlink-item">Old vs new vs chaotic inflation, slow-roll</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Parallax%20and%20standard%20candles.html" class="backlink-item">Parallax and standard candles</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Photon%20decoupling%20and%20CMB.html" class="backlink-item">Photon decoupling and CMB</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Pre-main%20sequence%20evolution%20and%20protostars.html" class="backlink-item">Pre-main sequence evolution and protostars</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Precession%20and%20nutation.html" class="backlink-item">Precession and nutation</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Press-Schechter%20halo%20mass%20function.html" class="backlink-item">Press-Schechter halo mass function</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Proper%20motion%20and%20stellar%20kinematics.html" class="backlink-item">Proper motion and stellar kinematics</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Radiation%20quantities%20and%20inverse%20square%20law.html" class="backlink-item">Radiation quantities and inverse square law</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Radiative%20transport.html" class="backlink-item">Radiative transport</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Robertson-Walker%20metric.html" class="backlink-item">Robertson-Walker metric</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Saha%20equation%20and%20recombination.html" class="backlink-item">Saha equation and recombination</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Sidereal%20vs%20solar%20time.html" class="backlink-item">Sidereal vs solar time</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Solar%20evolution%20and%20final%20stages.html" class="backlink-item">Solar evolution and final stages</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Spectral%20energy%20distributions.html" class="backlink-item">Spectral energy distributions</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Spectroscopy_course_intro.html" class="backlink-item">Spectroscopy_course_intro</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Spherical%20collapse.html" class="backlink-item">Spherical collapse</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Spherical%20trigonometry.html" class="backlink-item">Spherical trigonometry</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Spherical_astronomy_complete.html" class="backlink-item">Spherical_astronomy_complete</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Spiral%20arm%20kinematics.html" class="backlink-item">Spiral arm kinematics</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Standard%20model%20problems.html" class="backlink-item">Standard model problems</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Stellar%20evolution%20timescales.html" class="backlink-item">Stellar evolution timescales</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Stellar%20nucleosynthesis.html" class="backlink-item">Stellar nucleosynthesis</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Stellar%20populations%20I%20II%20III.html" class="backlink-item">Stellar populations I II III</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Stellar%20scaling%20relations.html" class="backlink-item">Stellar scaling relations</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Stellar%20spectra%20and%20spectral%20classification.html" class="backlink-item">Stellar spectra and spectral classification</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Stellar%20structure%20equations.html" class="backlink-item">Stellar structure equations</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Supernovae%20and%20compact%20remnants.html" class="backlink-item">Supernovae and compact remnants</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Temperature-time%20relation.html" class="backlink-item">Temperature-time relation</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Thermal%20equilibrium%20in%20the%20early%20universe.html" class="backlink-item">Thermal equilibrium in the early universe</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Time-redshift%20relation.html" class="backlink-item">Time-redshift relation</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Type%20Ia%20supernovae%20as%20standard%20candles.html" class="backlink-item">Type Ia supernovae as standard candles</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/%CE%9BCDM%20current%20parameters.html" class="backlink-item">ΛCDM current parameters</a></li>
-  </ul>
-</div>

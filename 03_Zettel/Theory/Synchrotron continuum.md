@@ -2,10 +2,9 @@
 layout: "default"
 title: "Synchrotron continuum"
 ---
-{% raw %}
 **synchrotron emission** is radiation from relativistic electrons spiralling in a magnetic field. produces a characteristic power-law continuum and is the dominant non-thermal emission mechanism in radio galaxies, AGN jets, supernova remnants, and pulsar wind nebulae.
 
-note: the existing [Synchroton](./Synchroton.html) note in the vault covers this physics in depth. this note focuses on the spectroscopic perspective.
+note: the existing [Synchroton](Synchroton.html) note in the vault covers this physics in depth. this note focuses on the spectroscopic perspective.
 
 ## the spectrum from a power-law electron distribution
 
@@ -58,24 +57,24 @@ at $\nu \sim 10$ GHz the two are comparable in star-forming galaxies; at higher 
 
 ## inverse Compton
 
-high-energy synchrotron-emitting electrons can also up-scatter low-energy photons via **inverse Compton** (see [Compton and Inverse Compton](./Compton%20and%20Inverse%20Compton.html)). produces a second peak in the SED at higher frequencies, often X-ray to TeV $\gamma$-ray. blazars famously show synchrotron + IC two-peak SEDs.
+high-energy synchrotron-emitting electrons can also up-scatter low-energy photons via **inverse Compton** (see [Compton and Inverse Compton](Compton%20and%20Inverse%20Compton.html)). produces a second peak in the SED at higher frequencies, often X-ray to TeV $\gamma$-ray. blazars famously show synchrotron + IC two-peak SEDs.
 
 ## see also
 
-- [Synchroton](./Synchroton.html) — the comprehensive existing note
-- [Free-free continuum](./Free-free%20continuum.html)
-- [Bremsstrahlung](./Bremsstrahlung.html)
-- [Compton and Inverse Compton](./Compton%20and%20Inverse%20Compton.html)
-- [Radio SFR tracer](./Radio%20SFR%20tracer.html)
-- [AGN spectroscopy](./AGN%20spectroscopy.html)
-- [Supernova remnant spectroscopy](./Supernova%20remnant%20spectroscopy.html)
-{% endraw %}
+- [Synchroton](Synchroton.html) — the comprehensive existing note
+- [Free-free continuum](Free-free%20continuum.html)
+- [Bremsstrahlung](Bremsstrahlung.html)
+- [Compton and Inverse Compton](Compton%20and%20Inverse%20Compton.html)
+- [Radio SFR tracer](Radio%20SFR%20tracer.html)
+- [AGN spectroscopy](AGN%20spectroscopy.html)
+- [Supernova remnant spectroscopy](Supernova%20remnant%20spectroscopy.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./AGN%20spectroscopy.html" class="backlink-item">AGN spectroscopy</a></li>
+    <li class="backlink-item-wrap"><a href="AGN%20spectroscopy.html" class="backlink-item">AGN spectroscopy</a></li>
+    <li class="backlink-item-wrap"><a href="Supernova%20remnant%20spectroscopy.html" class="backlink-item">Supernova remnant spectroscopy</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Supernova%20remnant%20spectroscopy.html" class="backlink-item">Supernova remnant spectroscopy</a></li>
   </ul>
 </div>
+

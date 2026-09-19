@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Gyrokinetic ordering and 5D phase space reduction"
-name: "Gyrokinetic ordering and 5D phase space reduction"
-description: "asymptotic ordering of low-frequency magnetized plasma turbulence and reduction from 6D Vlasov to 5D gyrocenter space"
 ---
-{% raw %}
 simulating core turbulence in fusion devices via the 6D Vlasov equation is computationally intractable due to the disparity between rapid ion cyclotron gyration ($\sim 10^8\text{ Hz}$) and low-frequency drift wave turbulence ($\sim 10^5\text{ Hz}$). Gyrokinetics averages over the gyrophase, reducing phase space from 6D to 5D.
 
 ## the gyrokinetic ordering
@@ -39,14 +36,14 @@ this formulation powers state-of-the-art Eulerian and Lagrangian plasma turbulen
 
 - [Fluid_and_Plasma_Dynamics_MOC](../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html)
 - [Part5_Plasma_Kinetics_Gyrokinetics_and_Waves](../../02_Literature/Lectures/Fluid_and_Plasma_Dynamics/Part5_Plasma_Kinetics_Gyrokinetics_and_Waves.html)
-- [Collisionless Landau damping and wave-particle resonance](./Collisionless%20Landau%20damping%20and%20wave-particle%20resonance.html)
-- [Resistive ballooning mode and ion temperature gradient instability](./Resistive%20ballooning%20mode%20and%20ion%20temperature%20gradient%20instability.html)
-{% endraw %}
+- [Collisionless Landau damping and wave-particle resonance](Collisionless%20Landau%20damping%20and%20wave-particle%20resonance.html)
+- [Resistive ballooning mode and ion temperature gradient instability](Resistive%20ballooning%20mode%20and%20ion%20temperature%20gradient%20instability.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Collisionless%20Landau%20damping%20and%20wave-particle%20resonance.html" class="backlink-item">Collisionless Landau damping and wave-particle resonance</a></li>
+    <li class="backlink-item-wrap"><a href="Collisionless%20Landau%20damping%20and%20wave-particle%20resonance.html" class="backlink-item">Collisionless Landau damping and wave-particle resonance</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
   </ul>
 </div>
+

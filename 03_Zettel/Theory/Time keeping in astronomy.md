@@ -2,7 +2,6 @@
 layout: "default"
 title: "Time keeping in astronomy"
 ---
-{% raw %}
 "what time is it" is a surprisingly subtle question in astronomy. there are at least five definitions in regular use, each appropriate for a different physical question. mixing them up is a classic source of errors in ephemerides and observation planning.
 
 ## the time families
@@ -26,7 +25,7 @@ UTC = UT1 + DUT1, with $$\lvert\text{DUT1}\rvert$ < 0.9$ s by definition.
 
 ### sidereal time
 
-- **GMST** (Greenwich Mean Sidereal Time): Earth's rotation angle measured against the equinox $\gamma$. one sidereal day = $23^{\rm h}56^{\rm m}4.0905^{\rm s}$, shorter than the solar day by $\sim 4$ minutes. used to compute hour angle (see [Equatorial system](./Equatorial%20system.html)).
+- **GMST** (Greenwich Mean Sidereal Time): Earth's rotation angle measured against the equinox $\gamma$. one sidereal day = $23^{\rm h}56^{\rm m}4.0905^{\rm s}$, shorter than the solar day by $\sim 4$ minutes. used to compute hour angle (see [Equatorial system](Equatorial%20system.html)).
 - **LMST** (Local Mean Sidereal Time): GMST + observer's east longitude. directly gives the hour angle of $\gamma$ at the observer.
 
 sidereal time is what you actually use to point a telescope, not UTC. observatories all run on local sidereal time alongside UTC.
@@ -48,10 +47,10 @@ a single Julian Date can be ambiguous about which time scale it is in. always sp
 
 ## see also
 
-- [Equatorial system](./Equatorial%20system.html) — sidereal time enters the hour angle
-- [Sidereal vs solar time](./Sidereal%20vs%20solar%20time.html)
-- [Precession nutation aberration parallax](./Precession%20nutation%20aberration%20parallax.html)
-- [Earth coordinates](./Earth%20coordinates.html)
+- [Equatorial system](Equatorial%20system.html) — sidereal time enters the hour angle
+- [Sidereal vs solar time](Sidereal%20vs%20solar%20time.html)
+- [Precession nutation aberration parallax](Precession%20nutation%20aberration%20parallax.html)
+- [Earth coordinates](Earth%20coordinates.html)
 - [Observational_Astrophysics_MOC](../../04_Atlas/Observational_Astrophysics_MOC.html)
 
 ---
@@ -105,13 +104,13 @@ a single Julian Date can be ambiguous about which time scale it is in. always sp
 
 ![obs_sph2-16.png](../../assets/images/obs_sph2-16.png)
 *Summary of time standards.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Precession%20and%20nutation.html" class="backlink-item">Precession and nutation</a></li>
+    <li class="backlink-item-wrap"><a href="Precession%20nutation%20aberration%20parallax.html" class="backlink-item">Precession nutation aberration parallax</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Precession%20and%20nutation.html" class="backlink-item">Precession and nutation</a></li>
-    <li class="backlink-item-wrap"><a href="./Precession%20nutation%20aberration%20parallax.html" class="backlink-item">Precession nutation aberration parallax</a></li>
   </ul>
 </div>
+

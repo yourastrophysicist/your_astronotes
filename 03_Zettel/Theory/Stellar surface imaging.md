@@ -1,12 +1,8 @@
 ---
 layout: "default"
 title: "Stellar surface imaging"
-type: "zettel"
-created: "2026-08-04"
-moc: ""
 tags: ""
 ---
-{% raw %}
 > Multi-telescope optical arrays can synthesize actual pictures of stellar surfaces, revealing starspots, convection cells, and rapid rotation.
 
 ---
@@ -38,4 +34,3 @@ Stellar surface imaging is one of the most unique and powerful capabilities of o
 
 * parent moc: [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
 * related zettels: [Stellar diameters and limb darkening](interf/Stellar%20diameters%20and%20limb%20darkening.html), [CHARA array](interf/CHARA%20array.html), [Phase closure](interf/Phase%20closure.html), [Aperture synthesis principle](interf/Aperture%20synthesis%20principle.html)
-{% endraw %}

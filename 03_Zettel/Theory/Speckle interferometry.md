@@ -2,7 +2,6 @@
 layout: "default"
 title: "Speckle interferometry"
 ---
-{% raw %}
 # Speckle interferometry
 
 the technique that pushed *single-aperture* telescopes past the seeing limit before AO was practical. take many short-exposure images that "freeze" atmospheric turbulence, compute the autocorrelation of each, average — and recover the diffraction-limited spatial-frequency information of the source.
@@ -109,4 +108,3 @@ instruments: PISCO at Mt. Wilson, the Andor speckle camera at WIYN, NESSI at Gem
 - [Bispectrum and triple correlation](interf/Bispectrum%20and%20triple%20correlation.html)
 - [Adaptive optics](interf/Adaptive%20optics.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

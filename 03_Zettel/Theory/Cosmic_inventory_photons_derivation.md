@@ -2,10 +2,9 @@
 layout: "default"
 title: "Cosmic_inventory_photons_derivation"
 ---
-{% raw %}
 # cosmic photon inventory, derived
 
-a companion to [Cosmic_inventory_photons](./Cosmic_inventory_photons.html). that note states the results; this one walks through every step, with context. the goal is to show *why* the universe contains $\sim 411$ photons in every cubic centimetre of empty space, *why* their energy density is a fixed fraction $\sim 2.47 \times 10^{-5}\, h^{-2}$ of the critical density today, and *why* this number was once everything.
+a companion to [Cosmic_inventory_photons](Cosmic_inventory_photons.html). that note states the results; this one walks through every step, with context. the goal is to show *why* the universe contains $\sim 411$ photons in every cubic centimetre of empty space, *why* their energy density is a fixed fraction $\sim 2.47 \times 10^{-5}\, h^{-2}$ of the critical density today, and *why* this number was once everything.
 
 ## the starting point, why a blackbody at all
 
@@ -49,7 +48,7 @@ $$\int_0^\infty \frac{x^2}{e^x - 1}\, dx = \sum_{n=1}^\infty \int_0^\infty x^2 e
 so
 $$n_\gamma = \frac{16\pi\zeta(3)}{c^3}\left(\frac{k_BT}{h}\right)^3 = \frac{2\zeta(3)}{\pi^2}\left(\frac{k_BT}{\hbar c}\right)^3$$
 
-(using $h = 2\pi\hbar$ to flip the $\pi$ powers around). this is exactly the boson formula in [Number density and energy density at thermal equilibrium](./Number%20density%20and%20energy%20density%20at%20thermal%20equilibrium.html) with $g = 2$.
+(using $h = 2\pi\hbar$ to flip the $\pi$ powers around). this is exactly the boson formula in [Number density and energy density at thermal equilibrium](Number%20density%20and%20energy%20density%20at%20thermal%20equilibrium.html) with $g = 2$.
 
 ### energy density
 
@@ -68,7 +67,7 @@ $$\rho_\gamma = \frac{8\pi^5}{15 c^3 h^3}(k_BT)^4 = \frac{\pi^2}{15}\, \frac{(k_
 
 the radiation flux out of a blackbody surface is $F = \sigma_{SB} T^4$, with $\sigma_{SB} = \pi^2 k_B^4/(60 \hbar^3 c^2)$. its relation to the energy density is $F = (c/4)\rho_\gamma$, giving
 $$\rho_\gamma = \frac{4\sigma_{SB}}{c}T^4 = a_{\rm rad}T^4$$
-with $a_{\rm rad} = \pi^2 k_B^4/(15\hbar^3 c^3)$, the radiation constant. exactly what I just derived. (see [Blackbody radiation and Stefan-Boltzmann](./Blackbody%20radiation%20and%20Stefan-Boltzmann.html).)
+with $a_{\rm rad} = \pi^2 k_B^4/(15\hbar^3 c^3)$, the radiation constant. exactly what I just derived. (see [Blackbody radiation and Stefan-Boltzmann](Blackbody%20radiation%20and%20Stefan-Boltzmann.html).)
 
 ---
 
@@ -106,7 +105,7 @@ $$\Omega_{0\gamma} = \frac{\rho_{0\gamma}}{\rho_{0,\rm crit}} = \frac{4.18 \time
 
 $$\boxed{\, \Omega_{0\gamma} \simeq 2.47 \times 10^{-5}\, h^{-2}\,}$$
 
-with $h = 0.674$ this gives $\Omega_{0\gamma} \simeq 5.4 \times 10^{-5}$, the $\sim 0.005\%$ slice in the [Cosmic_inventory_overview](./Cosmic_inventory_overview.html) pie chart.
+with $h = 0.674$ this gives $\Omega_{0\gamma} \simeq 5.4 \times 10^{-5}$, the $\sim 0.005\%$ slice in the [Cosmic_inventory_overview](Cosmic_inventory_overview.html) pie chart.
 
 a useful equivalent form:
 $$\Omega_{0\gamma} h^2 = 2.47 \times 10^{-5} \left(\frac{T_0}{2.725\,\text{K}}\right)^4$$
@@ -122,7 +121,7 @@ $$n_{0b} = \frac{\Omega_b\, \rho_{0,\rm crit}}{m_p} \simeq 2.5 \times 10^{-7}\, 
 so
 $$\eta \equiv \frac{n_b}{n_\gamma} \simeq 6.1 \times 10^{-10}$$
 
-this $\eta$ is one of the most important numbers in cosmology. it controls BBN (see [BBN_baryon_to_photon_ratio](./BBN_baryon_to_photon_ratio.html)) because the deuterium and helium abundances depend on it directly, and the agreement between BBN $\eta$ and CMB $\eta$ is the single best confirmation of the hot Big Bang. the smallness of $\eta$ is the *baryon asymmetry* of the universe: in the early plasma there was only a $\sim 10^{-9}$ excess of matter over antimatter; everything else annihilated.
+this $\eta$ is one of the most important numbers in cosmology. it controls BBN (see [BBN_baryon_to_photon_ratio](BBN_baryon_to_photon_ratio.html)) because the deuterium and helium abundances depend on it directly, and the agreement between BBN $\eta$ and CMB $\eta$ is the single best confirmation of the hot Big Bang. the smallness of $\eta$ is the *baryon asymmetry* of the universe: in the early plasma there was only a $\sim 10^{-9}$ excess of matter over antimatter; everything else annihilated.
 
 ---
 
@@ -137,25 +136,25 @@ count photons in every electromagnetic background and the CMB wins by orders of 
 
 the CMB beats the next-biggest by a factor $\sim 1000$ in photon count. by **energy density** the gap shrinks (because non-CMB photons each carry far more energy than a 0.6 meV CMB photon) but the CMB still dominates by an order of magnitude or so, because $T_0^4$ is huge in the relevant units.
 
-so when I said in [Cosmic_inventory_photons](./Cosmic_inventory_photons.html) that "the photons of the universe means essentially the CMB," this is what it means quantitatively. every other background is a perturbation.
+so when I said in [Cosmic_inventory_photons](Cosmic_inventory_photons.html) that "the photons of the universe means essentially the CMB," this is what it means quantitatively. every other background is a perturbation.
 
 ---
 
 ## scaling with redshift and matter-radiation equality
 
-the photon temperature redshifts as $T(a) = T_0/a$ as long as the photon number per comoving volume is conserved (which is exactly what entropy conservation buys, see [Conservation of entropy in a comoving volume](./Conservation%20of%20entropy%20in%20a%20comoving%20volume.html)). so
+the photon temperature redshifts as $T(a) = T_0/a$ as long as the photon number per comoving volume is conserved (which is exactly what entropy conservation buys, see [Conservation of entropy in a comoving volume](Conservation%20of%20entropy%20in%20a%20comoving%20volume.html)). so
 $$\rho_\gamma(a) = \frac{\pi^2}{15}\frac{(k_B T_0)^4}{(\hbar c)^3}\, a^{-4}$$
 $$\rho_m(a) = \rho_{0m}\, a^{-3}$$
 
 equality, $\rho_\gamma(a_{\rm eq}) = \rho_m(a_{\rm eq})$:
 $$1 + z_{\rm eq} = \frac{\Omega_{0m}}{\Omega_{0\gamma}}$$
 
-note this uses photons *only*, not the full radiation. if I include the three relic neutrino species (massless approximation, $T_\nu = (4/11)^{1/3} T_\gamma$, see [Cosmic_inventory_neutrinos](./Cosmic_inventory_neutrinos.html)),
+note this uses photons *only*, not the full radiation. if I include the three relic neutrino species (massless approximation, $T_\nu = (4/11)^{1/3} T_\gamma$, see [Cosmic_inventory_neutrinos](Cosmic_inventory_neutrinos.html)),
 $$\frac{\rho_\nu}{\rho_\gamma} = \frac{7}{8}\cdot 3 \cdot \left(\frac{4}{11}\right)^{4/3} \simeq 0.681$$
 so the total radiation density is $\Omega_{0r} \simeq 1.681\, \Omega_{0\gamma} \simeq 4.15 \times 10^{-5}\, h^{-2}$. with $\Omega_{0m} = 0.315$ and $h = 0.674$,
 $$1 + z_{\rm eq} \simeq \frac{\Omega_{0m} h^2}{\Omega_{0r} h^2} \simeq \frac{0.143}{4.15 \times 10^{-5}} \simeq 3440$$
 
-so $z_{\rm eq} \approx 3300$, the equality redshift quoted in the [Brief thermal history](./Brief%20thermal%20history.html). before this, the universe was radiation-dominated; after it, matter-dominated. this is the single most important consequence of the photon inventory. **the universe has a definite age at which gravitational structure could begin to grow on subhorizon scales**, and that age is set entirely by the ratio $\Omega_{0m}/\Omega_{0\gamma}$, both of which we have measured.
+so $z_{\rm eq} \approx 3300$, the equality redshift quoted in the [Brief thermal history](Brief%20thermal%20history.html). before this, the universe was radiation-dominated; after it, matter-dominated. this is the single most important consequence of the photon inventory. **the universe has a definite age at which gravitational structure could begin to grow on subhorizon scales**, and that age is set entirely by the ratio $\Omega_{0m}/\Omega_{0\gamma}$, both of which we have measured.
 
 ---
 
@@ -211,25 +210,25 @@ every line of the photon-budget result comes from two ingredients: the Planck sh
 
 ## see also
 
-- [Cosmic_inventory_photons](./Cosmic_inventory_photons.html) — the parent note with the boxed results
-- [Cosmic_inventory_overview](./Cosmic_inventory_overview.html) — the full pie chart
-- [Number density and energy density at thermal equilibrium](./Number%20density%20and%20energy%20density%20at%20thermal%20equilibrium.html) — the general $g$-counting framework
-- [Blackbody radiation and Stefan-Boltzmann](./Blackbody%20radiation%20and%20Stefan-Boltzmann.html) — surface flux version of the same integrals
-- [Conservation of entropy in a comoving volume](./Conservation%20of%20entropy%20in%20a%20comoving%20volume.html) — why $T \propto 1/a$ holds
-- [Photon decoupling and CMB](./Photon%20decoupling%20and%20CMB.html) — what fixed the spectrum where it is
+- [Cosmic_inventory_photons](Cosmic_inventory_photons.html) — the parent note with the boxed results
+- [Cosmic_inventory_overview](Cosmic_inventory_overview.html) — the full pie chart
+- [Number density and energy density at thermal equilibrium](Number%20density%20and%20energy%20density%20at%20thermal%20equilibrium.html) — the general $g$-counting framework
+- [Blackbody radiation and Stefan-Boltzmann](Blackbody%20radiation%20and%20Stefan-Boltzmann.html) — surface flux version of the same integrals
+- [Conservation of entropy in a comoving volume](Conservation%20of%20entropy%20in%20a%20comoving%20volume.html) — why $T \propto 1/a$ holds
+- [Photon decoupling and CMB](Photon%20decoupling%20and%20CMB.html) — what fixed the spectrum where it is
 - CMB Spectral Distortions — What They Are and Where They Come From — what would break it
-- [BBN_baryon_to_photon_ratio](./BBN_baryon_to_photon_ratio.html) — the $\eta$ that drops out of this calculation
-- [Brief thermal history](./Brief%20thermal%20history.html) — where $z_{\rm eq}$ sits in the timeline
+- [BBN_baryon_to_photon_ratio](BBN_baryon_to_photon_ratio.html) — the $\eta$ that drops out of this calculation
+- [Brief thermal history](Brief%20thermal%20history.html) — where $z_{\rm eq}$ sits in the timeline
 - [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./CMB%20-%20discovery%20and%20blackbody%20spectrum.html" class="backlink-item">CMB - discovery and blackbody spectrum</a></li>
-    <li class="backlink-item-wrap"><a href="./CMB%20Spectral%20Distortions%20-%20What%20They%20Are%20and%20Where%20They%20Come%20From.html" class="backlink-item">CMB Spectral Distortions - What They Are and Where They Come From</a></li>
-    <li class="backlink-item-wrap"><a href="./Cosmic_inventory_photons.html" class="backlink-item">Cosmic_inventory_photons</a></li>
-    <li class="backlink-item-wrap"><a href="./Distance%20ladder%20derivations.html" class="backlink-item">Distance ladder derivations</a></li>
-    <li class="backlink-item-wrap"><a href="./Planck%20law%20Wien%20Stefan-Boltzmann.html" class="backlink-item">Planck law Wien Stefan-Boltzmann</a></li>
+    <li class="backlink-item-wrap"><a href="CMB%20-%20discovery%20and%20blackbody%20spectrum.html" class="backlink-item">CMB - discovery and blackbody spectrum</a></li>
+    <li class="backlink-item-wrap"><a href="CMB%20Spectral%20Distortions%20-%20What%20They%20Are%20and%20Where%20They%20Come%20From.html" class="backlink-item">CMB Spectral Distortions - What They Are and Where They Come From</a></li>
+    <li class="backlink-item-wrap"><a href="Cosmic_inventory_photons.html" class="backlink-item">Cosmic_inventory_photons</a></li>
+    <li class="backlink-item-wrap"><a href="Distance%20ladder%20derivations.html" class="backlink-item">Distance ladder derivations</a></li>
+    <li class="backlink-item-wrap"><a href="Planck%20law%20Wien%20Stefan-Boltzmann.html" class="backlink-item">Planck law Wien Stefan-Boltzmann</a></li>
   </ul>
 </div>
+

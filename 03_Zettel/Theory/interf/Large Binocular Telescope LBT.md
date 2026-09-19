@@ -2,7 +2,6 @@
 layout: "default"
 title: "Large Binocular Telescope LBT"
 ---
-{% raw %}
 # Large Binocular Telescope (LBT)
 
 a unique twin-mirror telescope at Mt. Graham, Arizona. **two 8.4m primary mirrors** mounted on a single common altazimuth structure, separated by 6m center-to-center. operates as both a single-aperture imager (with the two mirrors used as one) and a Fizeau-mode interferometer with the 6m baseline.
@@ -92,12 +91,11 @@ LBT will remain an important instrument for thermal-IR astronomy and Fizeau imag
 
 ## see also
 
-- [Components of a modern interferometer](./Components%20of%20a%20modern%20interferometer.html)
-- [VLTI Very Large Telescope Interferometer](./VLTI%20Very%20Large%20Telescope%20Interferometer.html)
-- [CHARA array](./CHARA%20array.html)
-- [Adaptive optics](./Adaptive%20optics.html)
+- [Components of a modern interferometer](Components%20of%20a%20modern%20interferometer.html)
+- [VLTI Very Large Telescope Interferometer](VLTI%20Very%20Large%20Telescope%20Interferometer.html)
+- [CHARA array](CHARA%20array.html)
+- [Adaptive optics](Adaptive%20optics.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (1)</h4>
@@ -105,3 +103,4 @@ LBT will remain an important instrument for thermal-IR astronomy and Fizeau imag
     <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

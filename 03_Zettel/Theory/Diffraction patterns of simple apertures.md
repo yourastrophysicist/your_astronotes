@@ -2,7 +2,6 @@
 layout: "default"
 title: "Diffraction patterns of simple apertures"
 ---
-{% raw %}
 # Diffraction patterns of simple apertures
 
 the standard Fraunhofer-diffraction patterns. each one shows up somewhere in interferometry, either as a calibration target, a benchmark for instrument design, or as the response of the array itself.
@@ -131,4 +130,3 @@ source: local plot generated from the Airy-pattern Bessel formula.
 - [Optical transfer function](interf/Optical%20transfer%20function.html)
 - [Aperture synthesis principle](interf/Aperture%20synthesis%20principle.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

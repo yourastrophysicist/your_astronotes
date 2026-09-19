@@ -2,7 +2,6 @@
 layout: "default"
 title: "Light deflection"
 ---
-{% raw %}
 **light deflection by gravity**: a photon passing near a massive body is bent by an angle $\Delta\phi \approx 4GM/(c^2 b)$, with $b$ the impact parameter. **double the Newtonian particle-prediction**, the famous Eddington 1919 confirmation of GR.
 
 ## the formula
@@ -54,27 +53,26 @@ each is a direct application of $\Delta\phi = 4GM/(c^2 b)$, integrated over a re
 
 ## see also
 
-- [Photon trajectories and impact parameter](./Photon%20trajectories%20and%20impact%20parameter.html)
-- [Schwarzschild metric](./Schwarzschild%20metric.html)
-- [Schwarzschild effective potential](./Schwarzschild%20effective%20potential.html)
-- [Photon sphere](./Photon%20sphere.html)
-- [Perihelion precession](./Perihelion%20precession.html)
-- [Effective potential approach](./Effective%20potential%20approach.html)
-- [Lensing as a cosmological probe](./Lensing%20as%20a%20cosmological%20probe.html)
+- [Photon trajectories and impact parameter](Photon%20trajectories%20and%20impact%20parameter.html)
+- [Schwarzschild metric](Schwarzschild%20metric.html)
+- [Schwarzschild effective potential](Schwarzschild%20effective%20potential.html)
+- [Photon sphere](Photon%20sphere.html)
+- [Perihelion precession](Perihelion%20precession.html)
+- [Effective potential approach](Effective%20potential%20approach.html)
+- [Lensing as a cosmological probe](Lensing%20as%20a%20cosmological%20probe.html)
 - [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
 - [Ch 6 - Black Holes](../../02_Literature/Book/Baumann%20GR/Ch%206%20-%20Black%20Holes.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (8)</h4>
+  <h4 class="backlinks-title">Linked References (7)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Book/Baumann%20GR/Ch%203%20-%20A%20First%20Look%20at%20Geodesics.html" class="backlink-item">Ch 3 - A First Look at Geodesics</a></li>
+    <li class="backlink-item-wrap"><a href="Gravitational%20lensing%20-%20intro.html" class="backlink-item">Gravitational lensing - intro</a></li>
+    <li class="backlink-item-wrap"><a href="Lensing%20as%20a%20cosmological%20probe.html" class="backlink-item">Lensing as a cosmological probe</a></li>
+    <li class="backlink-item-wrap"><a href="Perihelion%20precession.html" class="backlink-item">Perihelion precession</a></li>
+    <li class="backlink-item-wrap"><a href="Photon%20trajectories%20and%20impact%20parameter.html" class="backlink-item">Photon trajectories and impact parameter</a></li>
+    <li class="backlink-item-wrap"><a href="Schwarzschild%20metric.html" class="backlink-item">Schwarzschild metric</a></li>
+    <li class="backlink-item-wrap"><a href="Strong%20vs%20weak%20lensing.html" class="backlink-item">Strong vs weak lensing</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Gravitational%20lensing%20-%20intro.html" class="backlink-item">Gravitational lensing - intro</a></li>
-    <li class="backlink-item-wrap"><a href="./Lensing%20as%20a%20cosmological%20probe.html" class="backlink-item">Lensing as a cosmological probe</a></li>
-    <li class="backlink-item-wrap"><a href="./Perihelion%20precession.html" class="backlink-item">Perihelion precession</a></li>
-    <li class="backlink-item-wrap"><a href="./Photon%20trajectories%20and%20impact%20parameter.html" class="backlink-item">Photon trajectories and impact parameter</a></li>
-    <li class="backlink-item-wrap"><a href="./Schwarzschild%20metric.html" class="backlink-item">Schwarzschild metric</a></li>
-    <li class="backlink-item-wrap"><a href="./Strong%20vs%20weak%20lensing.html" class="backlink-item">Strong vs weak lensing</a></li>
   </ul>
 </div>
+

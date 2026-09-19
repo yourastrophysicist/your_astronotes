@@ -2,7 +2,6 @@
 layout: "default"
 title: "Exoplanetary_Astrophysics_MOC"
 ---
-{% raw %}
 # Exoplanetary Astrophysics — Map of Content
 
 > **Master Year 2 Semester 1** | **A.Y. 2026/2027**  
@@ -131,10 +130,10 @@ $$P_{\text{TTV}} = \frac{1}{\left\lvert \frac{j}{P_2} - \frac{j - 1}{P_1} \right
 ---
 
 ## Related Vault MOCs and Curricular Modules
-- [Astrophysics Laboratory 2 MOC](./Astrophysics_Laboratory_2_MOC.html) — Observational data reduction, CCD calibrations, aperture photometry, and TASTE light curve modeling.
-- [Computational Astrophysics MOC](./Computational_Astrophysics_MOC.html) — High-performance computing, MCMC Bayesian parameter estimation, nested sampling, and radiative transfer.
-- [Fundamentals of Astrophysics & Cosmology MOC](./Fundamentals_Astrophysics_Cosmology_MOC.html) — Stellar structure, equations of state, and nuclear burning regimes.
-- [Astronomical Spectroscopy MOC](./Astronomical_Spectroscopy_MOC.html) — Line formation, stellar atmospheres, and spectral classification.
+- [Astrophysics Laboratory 2 MOC](Astrophysics_Laboratory_2_MOC.html) — Observational data reduction, CCD calibrations, aperture photometry, and TASTE light curve modeling.
+- [Computational Astrophysics MOC](Computational_Astrophysics_MOC.html) — High-performance computing, MCMC Bayesian parameter estimation, nested sampling, and radiative transfer.
+- [Fundamentals of Astrophysics & Cosmology MOC](Fundamentals_Astrophysics_Cosmology_MOC.html) — Stellar structure, equations of state, and nuclear burning regimes.
+- [Astronomical Spectroscopy MOC](Astronomical_Spectroscopy_MOC.html) — Line formation, stellar atmospheres, and spectral classification.
 
 
 ---
@@ -176,55 +175,3 @@ $$P_{\text{TTV}} = \frac{1}{\left\lvert \frac{j}{P_2} - \frac{j - 1}{P_1} \right
 - **Transmission Signal Depth**: $\Delta \delta \approx \frac{2 R_p (n H)}{R_*^2}$ with $n \sim 5$
 - **True 3D Obliquity**: $\cos \psi = \cos i_* \cos i + \sin i_* \sin i \cos \lambda$
 - **Hill Sphere Radius**: $R_H = a \left(\frac{M_p}{3 M_*}\right)^{1/3}$
-{% endraw %}
-
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (45)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Exoplanetary_Astrophysics/00_Introduction_and_Course_Overview.html" class="backlink-item">00_Introduction_and_Course_Overview</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Exoplanetary_Astrophysics/01_Global_Architecture_of_the_Solar_System.html" class="backlink-item">01_Global_Architecture_of_the_Solar_System</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Exoplanetary_Astrophysics/02_Exoplanet_Discovery_and_Taxonomy.html" class="backlink-item">02_Exoplanet_Discovery_and_Taxonomy</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Exoplanetary_Astrophysics/03_Demographics_and_Survey_Completeness.html" class="backlink-item">03_Demographics_and_Survey_Completeness</a></li>
-    <li class="backlink-item-wrap"><a href="./04_Atlas.html" class="backlink-item">04_Atlas</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Exoplanetary_Astrophysics/04_Small_Planets_and_Host_Star_Correlations.html" class="backlink-item">04_Small_Planets_and_Host_Star_Correlations</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Exoplanetary_Astrophysics/05_Gravitational_Microlensing_Principles_and_Light_Curves.html" class="backlink-item">05_Gravitational_Microlensing_Principles_and_Light_Curves</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Exoplanetary_Astrophysics/06_Timing_Methods_and_Pulsar_Planets.html" class="backlink-item">06_Timing_Methods_and_Pulsar_Planets</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Exoplanetary_Astrophysics/07_Direct_Imaging_Physics_and_High_Contrast_Techniques.html" class="backlink-item">07_Direct_Imaging_Physics_and_High_Contrast_Techniques</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Exoplanetary_Astrophysics/08_Direct_Imaging_Instrumentation_and_Astrometric_Synergies.html" class="backlink-item">08_Direct_Imaging_Instrumentation_and_Astrometric_Synergies</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Exoplanetary_Astrophysics/09_Astrometric_Detection_and_Gaia_Capabilities.html" class="backlink-item">09_Astrometric_Detection_and_Gaia_Capabilities</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Exoplanetary_Astrophysics/10_Radial_Velocity_Foundations_and_Keplerian_Orbits.html" class="backlink-item">10_Radial_Velocity_Foundations_and_Keplerian_Orbits</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Exoplanetary_Astrophysics/11_High_Precision_Spectrographs_and_Doppler_Measurement.html" class="backlink-item">11_High_Precision_Spectrographs_and_Doppler_Measurement</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Exoplanetary_Astrophysics/12_AI_and_Machine_Learning_in_Exoplanet_Science.html" class="backlink-item">12_AI_and_Machine_Learning_in_Exoplanet_Science</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Exoplanetary_Astrophysics/13_RV_Wavelength_Calibration_and_Error_Budgets.html" class="backlink-item">13_RV_Wavelength_Calibration_and_Error_Budgets</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Exoplanetary_Astrophysics/14_Stellar_Activity_and_Radial_Velocity_Jitter.html" class="backlink-item">14_Stellar_Activity_and_Radial_Velocity_Jitter</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Exoplanetary_Astrophysics/15_Planetary_Transits_Geometry_and_Rossiter_McLaughlin.html" class="backlink-item">15_Planetary_Transits_Geometry_and_Rossiter_McLaughlin</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Exoplanetary_Astrophysics/16_Transit_Light_Curve_Modeling_and_Limb_Darkening.html" class="backlink-item">16_Transit_Light_Curve_Modeling_and_Limb_Darkening</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Exoplanetary_Astrophysics/17_Transit_False_Positives_and_Vetting_Protocols.html" class="backlink-item">17_Transit_False_Positives_and_Vetting_Protocols</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Exoplanetary_Astrophysics/18_Space_Transit_Surveys_TTVs_and_Resonances.html" class="backlink-item">18_Space_Transit_Surveys_TTVs_and_Resonances</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Exoplanetary_Astrophysics/19_CHEOPS_and_PLATO_Missions.html" class="backlink-item">19_CHEOPS_and_PLATO_Missions</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Exoplanetary_Astrophysics/20_Exoplanet_Atmospheres_and_Transmission_Spectroscopy.html" class="backlink-item">20_Exoplanet_Atmospheres_and_Transmission_Spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Exoplanetary_Astrophysics/21_Protoplanetary_Disks_and_Planet_Formation_Mechanisms.html" class="backlink-item">21_Protoplanetary_Disks_and_Planet_Formation_Mechanisms</a></li>
-    <li class="backlink-item-wrap"><a href="../02_Literature/Lectures/Exoplanetary_Astrophysics/22_Case_Study_K2_19_System_and_Atmospheric_Dynamics.html" class="backlink-item">22_Case_Study_K2_19_System_and_Atmospheric_Dynamics</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Astrometric%20exoplanet%20detection%20and%20Gaia%20astrometry.html" class="backlink-item">Astrometric exoplanet detection and Gaia astrometry</a></li>
-    <li class="backlink-item-wrap"><a href="./Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Coronagraphy%20and%20angular%20differential%20imaging.html" class="backlink-item">Coronagraphy and angular differential imaging</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Exoplanet%20atmospheric%20scale%20height%20and%20transmission%20spectroscopy.html" class="backlink-item">Exoplanet atmospheric scale height and transmission spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Exoplanet%20demographic%20distributions%20and%20survey%20completeness.html" class="backlink-item">Exoplanet demographic distributions and survey completeness</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Gravitational%20microlensing%20of%20planetary%20systems.html" class="backlink-item">Gravitational microlensing of planetary systems</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/High-contrast%20direct%20imaging%20and%20extreme%20adaptive%20optics.html" class="backlink-item">High-contrast direct imaging and extreme adaptive optics</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/High-precision%20spectrographs%20and%20laser%20frequency%20combs.html" class="backlink-item">High-precision spectrographs and laser frequency combs</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Keplerian%20radial%20velocity%20and%20Doppler%20semi-amplitude.html" class="backlink-item">Keplerian radial velocity and Doppler semi-amplitude</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Mandel-Agol%20analytical%20transit%20light%20curve%20model.html" class="backlink-item">Mandel-Agol analytical transit light curve model</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Mean%20stellar%20density%20determination%20from%20transit%20observables.html" class="backlink-item">Mean stellar density determination from transit observables</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Millisecond%20pulsar%20timing%20and%20planetary%20companions.html" class="backlink-item">Millisecond pulsar timing and planetary companions</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Pebble%20accretion%20and%20planetary%20orbital%20migration.html" class="backlink-item">Pebble accretion and planetary orbital migration</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Protoplanetary%20disk%20evolution%20and%20core%20accretion%20paradigm.html" class="backlink-item">Protoplanetary disk evolution and core accretion paradigm</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Rossiter-McLaughlin%20effect%20and%20spin-orbit%20obliquity.html" class="backlink-item">Rossiter-McLaughlin effect and spin-orbit obliquity</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Small%20exoplanets%20and%20the%20Fulton%20radius%20valley.html" class="backlink-item">Small exoplanets and the Fulton radius valley</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Space%20transit%20observatories%20and%20CHEOPS-PLATO%20missions.html" class="backlink-item">Space transit observatories and CHEOPS-PLATO missions</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Stellar%20activity%20signals%20and%20radial%20velocity%20jitter%20mitigation.html" class="backlink-item">Stellar activity signals and radial velocity jitter mitigation</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Transit%20false%20positive%20vetting%20and%20blending%20validation.html" class="backlink-item">Transit false positive vetting and blending validation</a></li>
-    <li class="backlink-item-wrap"><a href="../03_Zettel/Theory/Transit%20timing%20variations%20and%20resonant%20multi-planet%20dynamics.html" class="backlink-item">Transit timing variations and resonant multi-planet dynamics</a></li>
-  </ul>
-</div>

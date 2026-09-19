@@ -2,7 +2,6 @@
 layout: "default"
 title: "Atmospheric seeing"
 ---
-{% raw %}
 seeing is the **spatial blurring** of astronomical images caused by atmospheric turbulence. it is the single biggest practical limitation on ground-based optical resolution, and the reason every big optical telescope today either uses adaptive optics or accepts a $\sim 0.5''$ FWHM.
 
 ## the physical picture
@@ -70,12 +69,11 @@ published seeing for a site is the median over many years; a given night can be 
 
 ## see also
 
-- [Earth atmosphere for observations](./Earth%20atmosphere%20for%20observations.html)
+- [Earth atmosphere for observations](Earth%20atmosphere%20for%20observations.html)
 - [Adaptive optics overview](interf/Adaptive%20optics%20overview.html)
 - [Atmospheric scintillation](interf/Atmospheric%20scintillation.html)
-- [Seeing Effect](./Seeing%20Effect.html) — additional notes
+- [Seeing Effect](Seeing%20Effect.html) — additional notes
 - [Atmospheric layers](interf/Atmospheric%20layers.html)
-- [Point Spread Function (PSF)](./Point%20Spread%20Function%20%28PSF%29.html)
-- [Telescope resolving power](./Telescope%20resolving%20power.html)
-- [Rayleigh criterion](./Rayleigh%20criterion.html)
-{% endraw %}
+- [Point Spread Function (PSF)](Point%20Spread%20Function%20%28PSF%29.html)
+- [Telescope resolving power](Telescope%20resolving%20power.html)
+- [Rayleigh criterion](Rayleigh%20criterion.html)

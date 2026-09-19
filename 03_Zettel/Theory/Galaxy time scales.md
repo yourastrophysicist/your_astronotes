@@ -2,7 +2,6 @@
 layout: "default"
 title: "Galaxy time scales"
 ---
-{% raw %}
 # galaxy time scales
 
 up: [Pablo_03_Star_formation_in_galaxies](../../02_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html)
@@ -25,7 +24,7 @@ a useful rule: a galaxy has $\sim 100$ orbits in a Hubble time.
 
 ### cooling time
 $$t_{\text{cool}} = \frac{3 n k_B T / 2}{n_e n_H \Lambda(T, Z)}$$
-sets whether hot halo gas can ever cool into a disk. comparable to or shorter than $t_H$ for $T < 10^6$ K gas in galactic halos; much longer than $t_H$ above $M_h \sim 10^{12}\,M_\odot$, which is why [Halo gravity suppression of galaxy formation](./Halo%20gravity%20suppression%20of%20galaxy%20formation.html) kicks in there.
+sets whether hot halo gas can ever cool into a disk. comparable to or shorter than $t_H$ for $T < 10^6$ K gas in galactic halos; much longer than $t_H$ above $M_h \sim 10^{12}\,M_\odot$, which is why [Halo gravity suppression of galaxy formation](Halo%20gravity%20suppression%20of%20galaxy%20formation.html) kicks in there.
 
 ### star formation time
 $$t_{SF} = \frac{M_{\text{gas}}}{\psi}$$
@@ -61,22 +60,21 @@ a single galaxy measured in Hα and UV can disagree by factors of a few if SFR h
 
 ## connections
 
-- tracers discussed individually under [UV SFR tracer](./UV%20SFR%20tracer.html), [H-alpha SFR tracer](./H-alpha%20SFR%20tracer.html), [IR SFR tracer](./IR%20SFR%20tracer.html)
-- cooling-time threshold at halo scale: [Halo gravity suppression of galaxy formation](./Halo%20gravity%20suppression%20of%20galaxy%20formation.html)
-- SFR tracer timescale differences: [SFR tracer comparison](./SFR%20tracer%20comparison.html)
+- tracers discussed individually under [UV SFR tracer](UV%20SFR%20tracer.html), [H-alpha SFR tracer](H-alpha%20SFR%20tracer.html), [IR SFR tracer](IR%20SFR%20tracer.html)
+- cooling-time threshold at halo scale: [Halo gravity suppression of galaxy formation](Halo%20gravity%20suppression%20of%20galaxy%20formation.html)
+- SFR tracer timescale differences: [SFR tracer comparison](SFR%20tracer%20comparison.html)
 
 ## key references
 
 - Binney & Tremaine 2008, chapters on dynamical friction and orbit times
 - Kennicutt & Evans 2012 ARAA
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
+  <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="SFR%20tracer%20comparison.html" class="backlink-item">SFR tracer comparison</a></li>
+    <li class="backlink-item-wrap"><a href="Starburst%20galaxies.html" class="backlink-item">Starburst galaxies</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html" class="backlink-item">Pablo_03_Star_formation_in_galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="./SFR%20tracer%20comparison.html" class="backlink-item">SFR tracer comparison</a></li>
-    <li class="backlink-item-wrap"><a href="./Starburst%20galaxies.html" class="backlink-item">Starburst galaxies</a></li>
   </ul>
 </div>
+

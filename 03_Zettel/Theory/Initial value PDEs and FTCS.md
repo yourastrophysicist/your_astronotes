@@ -2,7 +2,6 @@
 layout: "default"
 title: "Initial value PDEs and FTCS"
 ---
-{% raw %}
 # Initial value PDEs and FTCS
 
 an initial-value PDE is a partial differential equation where time is one of the variables and the solution evolves forward from an initial condition. examples: diffusion equation $\partial_t u = D \partial_x^2 u$, advection $\partial_t u + c \partial_x u = 0$, wave equation $\partial_t^2 u = c^2 \partial_x^2 u$. the simplest discretization is **forward-time, centered-space** (FTCS).
@@ -37,7 +36,7 @@ FTCS for diffusion is **conditionally stable**: stable iff
 
 $$\alpha = \frac{D \Delta t}{\Delta x^2} \leq \frac{1}{2}$$
 
-so $\Delta t \leq \Delta x^2/(2D)$. this is the diffusion CFL condition. **violating it makes the simulation blow up exponentially** — the solution oscillates with growing amplitude. see [Stability and the Courant condition](./Stability%20and%20the%20Courant%20condition.html) for a fuller discussion.
+so $\Delta t \leq \Delta x^2/(2D)$. this is the diffusion CFL condition. **violating it makes the simulation blow up exponentially** — the solution oscillates with growing amplitude. see [Stability and the Courant condition](Stability%20and%20the%20Courant%20condition.html) for a fuller discussion.
 
 for advection, FTCS is **unconditionally unstable** — even with arbitrarily small $\Delta t$ it grows. for hyperbolic problems we need upwind or Lax-Wendroff schemes instead.
 
@@ -98,20 +97,20 @@ FTCS is the conceptual key to the rest of computational PDE work:
 
 ## see also
 
-- [Finite difference discretization](./Finite%20difference%20discretization.html)
-- [Stability and the Courant condition](./Stability%20and%20the%20Courant%20condition.html)
-- [Boundary value PDEs and iteration](./Boundary%20value%20PDEs%20and%20iteration.html)
-- [Forward backward and central differences](./Forward%20backward%20and%20central%20differences.html)
+- [Finite difference discretization](Finite%20difference%20discretization.html)
+- [Stability and the Courant condition](Stability%20and%20the%20Courant%20condition.html)
+- [Boundary value PDEs and iteration](Boundary%20value%20PDEs%20and%20iteration.html)
+- [Forward backward and central differences](Forward%20backward%20and%20central%20differences.html)
 - [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Boundary%20value%20PDEs%20and%20iteration.html" class="backlink-item">Boundary value PDEs and iteration</a></li>
-    <li class="backlink-item-wrap"><a href="./Finite%20difference%20discretization.html" class="backlink-item">Finite difference discretization</a></li>
+    <li class="backlink-item-wrap"><a href="Boundary%20value%20PDEs%20and%20iteration.html" class="backlink-item">Boundary value PDEs and iteration</a></li>
+    <li class="backlink-item-wrap"><a href="Finite%20difference%20discretization.html" class="backlink-item">Finite difference discretization</a></li>
+    <li class="backlink-item-wrap"><a href="Stability%20and%20the%20Courant%20condition.html" class="backlink-item">Stability and the Courant condition</a></li>
+    <li class="backlink-item-wrap"><a href="When%20to%20use%20implicit%20schemes.html" class="backlink-item">When to use implicit schemes</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Stability%20and%20the%20Courant%20condition.html" class="backlink-item">Stability and the Courant condition</a></li>
-    <li class="backlink-item-wrap"><a href="./When%20to%20use%20implicit%20schemes.html" class="backlink-item">When to use implicit schemes</a></li>
   </ul>
 </div>
+

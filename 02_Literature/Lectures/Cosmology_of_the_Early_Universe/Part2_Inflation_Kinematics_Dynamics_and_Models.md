@@ -2,7 +2,6 @@
 layout: "default"
 title: "Part2_Inflation_Kinematics_Dynamics_and_Models"
 ---
-{% raw %}
 # Part 2 - Inflation Kinematics, Dynamics, and Models
 
 *Lectures 9 to 16 notes synthesis - Prof. Nicola Bartolo*  
@@ -177,20 +176,17 @@ terminating inflation prematurely. Preserving $\eta_V \ll 1$ requires either fin
 
 ![Phase Space Trajectories and Attractor Behavior](../../../assets/images/early_inflation_p15.png)
 *Figure CEU-03: Phase portrait $(\phi, \dot{\phi})$ demonstrating the cosmic no-hair theorem and universal slow-roll attractor behavior for chaotic and plateau inflation models.*
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (10)</h4>
+  <h4 class="backlinks-title">Linked References (7)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html" class="backlink-item">Cosmology_of_the_Early_Universe_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Course_Overview_and_Syllabus.html" class="backlink-item">Course_Overview_and_Syllabus</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Large-field%20versus%20small-field%20inflation%20models.html" class="backlink-item">Large-field versus small-field inflation models</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Lyth%20bound%20and%20field%20excursion.html" class="backlink-item">Lyth bound and field excursion</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Number%20of%20e-folds%20and%20horizon%20exit.html" class="backlink-item">Number of e-folds and horizon exit</a></li>
-    <li class="backlink-item-wrap"><a href="./Part1_Standard_Big_Bang_and_Shortcomings.html" class="backlink-item">Part1_Standard_Big_Bang_and_Shortcomings</a></li>
-    <li class="backlink-item-wrap"><a href="./Part3_Quantum_Perturbations_and_Power_Spectra.html" class="backlink-item">Part3_Quantum_Perturbations_and_Power_Spectra</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Single-field%20slow-roll%20inflation%20dynamics.html" class="backlink-item">Single-field slow-roll inflation dynamics</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Slow-roll%20parameters%20epsilon%20and%20eta.html" class="backlink-item">Slow-roll parameters epsilon and eta</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Starobinsky%20R-squared%20inflation.html" class="backlink-item">Starobinsky R-squared inflation</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html" class="backlink-item">Cosmology_of_the_Early_Universe_MOC</a></li>
   </ul>
 </div>
+

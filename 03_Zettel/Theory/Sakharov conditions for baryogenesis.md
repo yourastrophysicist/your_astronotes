@@ -2,7 +2,6 @@
 layout: "default"
 title: "Sakharov conditions for baryogenesis"
 ---
-{% raw %}
 # Sakharov conditions for baryogenesis
 
 > *the three mandatory physical requirements for dynamically generating the matter-antimatter asymmetry of the universe.*
@@ -49,19 +48,18 @@ $$\eta_B \equiv \frac{n_b - n_{\bar{b}}}{n_\gamma} = (6.12 \pm 0.04) \times 10^{
 
 * parent moc: [Cosmology_of_the_Early_Universe_MOC](../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html)
 * related zettels:
-  - [Out-of-equilibrium decay baryogenesis and Weinberg model](./Out-of-equilibrium%20decay%20baryogenesis%20and%20Weinberg%20model.html)
-  - [Electroweak sphalerons and leptogenesis](./Electroweak%20sphalerons%20and%20leptogenesis.html)
-  - [Reheating dynamics and thermalization](./Reheating%20dynamics%20and%20thermalization.html)
+  - [Out-of-equilibrium decay baryogenesis and Weinberg model](Out-of-equilibrium%20decay%20baryogenesis%20and%20Weinberg%20model.html)
+  - [Electroweak sphalerons and leptogenesis](Electroweak%20sphalerons%20and%20leptogenesis.html)
+  - [Reheating dynamics and thermalization](Reheating%20dynamics%20and%20thermalization.html)
   - [Part6_Reheating_Baryogenesis_and_Dark_Matter](../../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part6_Reheating_Baryogenesis_and_Dark_Matter.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
+  <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Electroweak%20sphalerons%20and%20leptogenesis.html" class="backlink-item">Electroweak sphalerons and leptogenesis</a></li>
+    <li class="backlink-item-wrap"><a href="Out-of-equilibrium%20decay%20baryogenesis%20and%20Weinberg%20model.html" class="backlink-item">Out-of-equilibrium decay baryogenesis and Weinberg model</a></li>
+    <li class="backlink-item-wrap"><a href="Reheating%20dynamics%20and%20thermalization.html" class="backlink-item">Reheating dynamics and thermalization</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html" class="backlink-item">Cosmology_of_the_Early_Universe_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Electroweak%20sphalerons%20and%20leptogenesis.html" class="backlink-item">Electroweak sphalerons and leptogenesis</a></li>
-    <li class="backlink-item-wrap"><a href="./Out-of-equilibrium%20decay%20baryogenesis%20and%20Weinberg%20model.html" class="backlink-item">Out-of-equilibrium decay baryogenesis and Weinberg model</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part6_Reheating_Baryogenesis_and_Dark_Matter.html" class="backlink-item">Part6_Reheating_Baryogenesis_and_Dark_Matter</a></li>
-    <li class="backlink-item-wrap"><a href="./Reheating%20dynamics%20and%20thermalization.html" class="backlink-item">Reheating dynamics and thermalization</a></li>
   </ul>
 </div>
+

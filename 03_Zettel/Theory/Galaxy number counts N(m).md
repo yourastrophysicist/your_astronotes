@@ -2,14 +2,13 @@
 layout: "default"
 title: "Galaxy number counts N(m)"
 ---
-{% raw %}
 # galaxy number counts $N(m)$
 
 up: [Pablo_02_Statistical_properties_of_galaxies](../../02_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html)
 
 ## the simplest extragalactic statistic
 
-count how many galaxies you see brighter than apparent magnitude $m$, per square degree. that gives the **cumulative count** $N(<m)$. its derivative $dN/dm$ is the **differential count** (see [Differential vs cumulative number counts](./Differential%20vs%20cumulative%20number%20counts.html)).
+count how many galaxies you see brighter than apparent magnitude $m$, per square degree. that gives the **cumulative count** $N(<m)$. its derivative $dN/dm$ is the **differential count** (see [Differential vs cumulative number counts](Differential%20vs%20cumulative%20number%20counts.html)).
 
 historically this is the very first thing Hubble did in 1934 with $\sim 44{,}000$ galaxies on photographic plates.
 
@@ -35,9 +34,9 @@ the actual counts are close to euclidean only over a limited range, then they *f
 
 three reasons for the deviation, all cosmological:
 
-1. **finite extent / volume curvature**: the universe is not Euclidean; comoving volume saturates as $z \to \infty$ in flat $\Lambda$CDM (see [Radial comoving distance](./Radial%20comoving%20distance.html) and the volume element $dV/dz$).
-2. **K-correction**: at high $z$, the rest-frame band you are observing is bluer than the filter, where galaxies are usually fainter (see [K-correction](./K-correction.html)).
-3. **evolution**: galaxies were brighter / more numerous in the past (the cosmic SFR peaks at $z \sim 2$, see [Cosmic star formation history](./Cosmic%20star%20formation%20history.html)).
+1. **finite extent / volume curvature**: the universe is not Euclidean; comoving volume saturates as $z \to \infty$ in flat $\Lambda$CDM (see [Radial comoving distance](Radial%20comoving%20distance.html) and the volume element $dV/dz$).
+2. **K-correction**: at high $z$, the rest-frame band you are observing is bluer than the filter, where galaxies are usually fainter (see [K-correction](K-correction.html)).
+3. **evolution**: galaxies were brighter / more numerous in the past (the cosmic SFR peaks at $z \sim 2$, see [Cosmic star formation history](Cosmic%20star%20formation%20history.html)).
 
 ## what pablo overplots
 
@@ -45,28 +44,25 @@ cosmological models on top of the observed counts: $\Omega_M=1$ no-$\Lambda$ EdS
 
 ## connections
 
-- next: [Differential vs cumulative number counts](./Differential%20vs%20cumulative%20number%20counts.html) (which form to plot)
-- band-dependence: [Galaxy counts at different wavelengths](./Galaxy%20counts%20at%20different%20wavelengths.html)
-- morphology split: [Driver 1998 counts by morphology](./Driver%201998%20counts%20by%20morphology.html)
-- distance background: [Radial comoving distance](./Radial%20comoving%20distance.html), [Luminosity distance](./Luminosity%20distance.html), [K-correction](./K-correction.html)
-- the deeper Durham compilation: [counts.html](https://astro.dur.ac.uk/~nm/pubhtml/counts/counts.html)
+- next: [Differential vs cumulative number counts](Differential%20vs%20cumulative%20number%20counts.html) (which form to plot)
+- band-dependence: [Galaxy counts at different wavelengths](Galaxy%20counts%20at%20different%20wavelengths.html)
+- morphology split: [Driver 1998 counts by morphology](Driver%201998%20counts%20by%20morphology.html)
+- distance background: [Radial comoving distance](Radial%20comoving%20distance.html), [Luminosity distance](Luminosity%20distance.html), [K-correction](K-correction.html)
+- the deeper Durham compilation: counts.html
 
 ## key references
 
 - Hubble 1934 (the original counts paper)
 - Driver et al. 1998, ApJ 496, L93 (HDF counts split by morphology)
 - Metcalfe et al. compilation: https://astro.dur.ac.uk/~nm/pubhtml/counts/counts.html
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
+  <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Deep-field%20surveys.html" class="backlink-item">Deep-field surveys</a></li>
-    <li class="backlink-item-wrap"><a href="./Differential%20vs%20cumulative%20number%20counts.html" class="backlink-item">Differential vs cumulative number counts</a></li>
-    <li class="backlink-item-wrap"><a href="./Driver%201998%20counts%20by%20morphology.html" class="backlink-item">Driver 1998 counts by morphology</a></li>
-    <li class="backlink-item-wrap"><a href="./Galaxy%20counts%20at%20different%20wavelengths.html" class="backlink-item">Galaxy counts at different wavelengths</a></li>
-    <li class="backlink-item-wrap"><a href="./Luminosity%20function%20definition.html" class="backlink-item">Luminosity function definition</a></li>
+    <li class="backlink-item-wrap"><a href="Differential%20vs%20cumulative%20number%20counts.html" class="backlink-item">Differential vs cumulative number counts</a></li>
+    <li class="backlink-item-wrap"><a href="Driver%201998%20counts%20by%20morphology.html" class="backlink-item">Driver 1998 counts by morphology</a></li>
+    <li class="backlink-item-wrap"><a href="Galaxy%20counts%20at%20different%20wavelengths.html" class="backlink-item">Galaxy counts at different wavelengths</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html" class="backlink-item">Pablo_02_Statistical_properties_of_galaxies</a></li>
   </ul>
 </div>
+

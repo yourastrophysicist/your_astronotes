@@ -2,7 +2,6 @@
 layout: "default"
 title: "Malmquist bias"
 ---
-{% raw %}
 # malmquist bias
 
 up: [Pablo_02_Statistical_properties_of_galaxies](../../02_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html)
@@ -32,10 +31,10 @@ at the sample boundary; it grows worse as you get closer to the limit.
 if you do not correct for Malmquist:
 
 - mean galaxy luminosity rises with $z$ → fake luminosity evolution
-- the [Schechter function](./Schechter%20function.html) $L^*$ moves to higher luminosity at high $z$ → fake $L^*$ evolution
+- the [Schechter function](Schechter%20function.html) $L^*$ moves to higher luminosity at high $z$ → fake $L^*$ evolution
 - standard candles get *brighter* at large distance → biased $H_0$ if uncorrected
 
-most modern analyses use [1Vmax estimator](./1Vmax%20estimator.html) or maximum-likelihood (Sandage-Tammann-Yahil 1979) techniques to invert the bias rather than trying to apply a correction. the principle is the same: weight each source by the inverse volume in which it could have been detected.
+most modern analyses use [1Vmax estimator](1Vmax%20estimator.html) or maximum-likelihood (Sandage-Tammann-Yahil 1979) techniques to invert the bias rather than trying to apply a correction. the principle is the same: weight each source by the inverse volume in which it could have been detected.
 
 ## a related effect: eddington bias
 
@@ -47,24 +46,23 @@ it is the cosmologists' version of survivorship bias. the sample edge selects, t
 
 ## connections
 
-- previous: [Redshift distribution of flux-limited samples](./Redshift%20distribution%20of%20flux-limited%20samples.html)
-- the LF estimator that handles it: [1Vmax estimator](./1Vmax%20estimator.html)
-- combined with photometry: [Photo-z biases and catastrophic outliers](./Photo-z%20biases%20and%20catastrophic%20outliers.html)
+- previous: [Redshift distribution of flux-limited samples](Redshift%20distribution%20of%20flux-limited%20samples.html)
+- the LF estimator that handles it: [1Vmax estimator](1Vmax%20estimator.html)
+- combined with photometry: [Photo-z biases and catastrophic outliers](Photo-z%20biases%20and%20catastrophic%20outliers.html)
 
 ## key references
 
 - Malmquist 1922 (the original)
 - Sandage, Tammann, Yahil 1979 (max-likelihood LF, deals with the bias)
 - Teerikorpi 1997 ARAA review
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
+  <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./1Vmax%20estimator.html" class="backlink-item">1Vmax estimator</a></li>
+    <li class="backlink-item-wrap"><a href="1Vmax%20estimator.html" class="backlink-item">1Vmax estimator</a></li>
+    <li class="backlink-item-wrap"><a href="Photo-z%20biases%20and%20catastrophic%20outliers.html" class="backlink-item">Photo-z biases and catastrophic outliers</a></li>
+    <li class="backlink-item-wrap"><a href="Redshift%20distribution%20of%20flux-limited%20samples.html" class="backlink-item">Redshift distribution of flux-limited samples</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html" class="backlink-item">Pablo_02_Statistical_properties_of_galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="./Photo-z%20biases%20and%20catastrophic%20outliers.html" class="backlink-item">Photo-z biases and catastrophic outliers</a></li>
-    <li class="backlink-item-wrap"><a href="./Redshift%20distribution%20of%20flux-limited%20samples.html" class="backlink-item">Redshift distribution of flux-limited samples</a></li>
   </ul>
 </div>
+

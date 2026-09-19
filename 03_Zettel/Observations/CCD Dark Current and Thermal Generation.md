@@ -2,7 +2,6 @@
 layout: "default"
 title: "CCD Dark Current and Thermal Generation"
 ---
-{% raw %}
 # CCD Dark Current and Thermal Generation
 
 Dark current is the continuous, spontaneous generation of electron-hole pairs in the silicon semiconductor depletion layer in the total absence of incident light.
@@ -27,17 +26,15 @@ Dark current follows Poisson counting statistics:
 $$\sigma_{\text{dark}} = \sqrt{D \cdot t_{\text{exp}}}$$
 
 ## Related Notes
-- [CCD Readout Noise and Output Amplifier](./CCD%20Readout%20Noise%20and%20Output%20Amplifier.html)
-- [Bias Frame and Electronic Offset](./Bias%20Frame%20and%20Electronic%20Offset.html)
+- [CCD Readout Noise and Output Amplifier](CCD%20Readout%20Noise%20and%20Output%20Amplifier.html)
+- [Bias Frame and Electronic Offset](Bias%20Frame%20and%20Electronic%20Offset.html)
 - [Piotto 03 - Semiconductor Physics and CCD Detector Fundamentals](../../02_Literature/Lectures/Astrophysics_Laboratory_2/Piotto%2003%20-%20Semiconductor%20Physics%20and%20CCD%20Detector%20Fundamentals.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
+  <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="CCD%20Readout%20Noise%20and%20Output%20Amplifier.html" class="backlink-item">CCD Readout Noise and Output Amplifier</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./CCD%20Readout%20Noise%20and%20Output%20Amplifier.html" class="backlink-item">CCD Readout Noise and Output Amplifier</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Astrophysics_Laboratory_2/Piotto%2003%20-%20Semiconductor%20Physics%20and%20CCD%20Detector%20Fundamentals.html" class="backlink-item">Piotto 03 - Semiconductor Physics and CCD Detector Fundamentals</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Astrophysics_Laboratory_2/Piotto%2004%20-%20CCD%20Photometry%20and%20Noise%20Characterization.html" class="backlink-item">Piotto 04 - CCD Photometry and Noise Characterization</a></li>
   </ul>
 </div>
+

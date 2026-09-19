@@ -2,7 +2,6 @@
 layout: "default"
 title: "Pogson magnitudes and flux relation"
 ---
-{% raw %}
 Norman Pogson's 1856 definition fixed the magnitude scale to a precise logarithmic relation between flux ratios. answer to obs4.pdf.
 
 ## Pogson's law
@@ -53,7 +52,7 @@ this is why mmag photometry is the gold standard for transit detection and aster
 
 - **apparent magnitude** $m$: what an observer measures; depends on distance.
 - **absolute magnitude** $M$: what would be measured at $d = 10$ pc; intrinsic.
-- **distance modulus** $\mu = m - M = 5\log_{10}(d/10\,\text{pc})$. see [Distance modulus](./Distance%20modulus.html).
+- **distance modulus** $\mu = m - M = 5\log_{10}(d/10\,\text{pc})$. see [Distance modulus](Distance%20modulus.html).
 
 for the Sun: $m_V \approx -26.74$ (very bright apparent), $M_V = +4.83$ (modest absolute). the $\mu = -31.57$ tells you the Sun is **very close**.
 
@@ -63,11 +62,11 @@ historical accident; people used logs and chose a coefficient that made Hipparch
 
 ## see also
 
-- [Magnitudes and photometric systems](./Magnitudes%20and%20photometric%20systems.html)
-- [Distance modulus](./Distance%20modulus.html)
-- [Specific intensity flux luminosity](./Specific%20intensity%20flux%20luminosity.html)
-- [Color indices](./Color%20indices.html)
-- [Filter systems and bandpasses](./Filter%20systems%20and%20bandpasses.html)
+- [Magnitudes and photometric systems](Magnitudes%20and%20photometric%20systems.html)
+- [Distance modulus](Distance%20modulus.html)
+- [Specific intensity flux luminosity](Specific%20intensity%20flux%20luminosity.html)
+- [Color indices](Color%20indices.html)
+- [Filter systems and bandpasses](Filter%20systems%20and%20bandpasses.html)
 - [Atmospheric extinction](interf/Atmospheric%20extinction.html)
 
 ---
@@ -97,15 +96,15 @@ historical accident; people used logs and chose a coefficient that made Hipparch
 
 ![obs_rad-052.png](../../assets/images/obs_rad-052.png)
 *Photometric error propagation using Pogson small-variation formula.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Color%20indices.html" class="backlink-item">Color indices</a></li>
-    <li class="backlink-item-wrap"><a href="./Distance%20modulus.html" class="backlink-item">Distance modulus</a></li>
-    <li class="backlink-item-wrap"><a href="./Filter%20systems%20and%20bandpasses.html" class="backlink-item">Filter systems and bandpasses</a></li>
+    <li class="backlink-item-wrap"><a href="Color%20indices.html" class="backlink-item">Color indices</a></li>
+    <li class="backlink-item-wrap"><a href="Distance%20modulus.html" class="backlink-item">Distance modulus</a></li>
+    <li class="backlink-item-wrap"><a href="Filter%20systems%20and%20bandpasses.html" class="backlink-item">Filter systems and bandpasses</a></li>
+    <li class="backlink-item-wrap"><a href="Photometric%20system%20conversion%20and%20color%20terms.html" class="backlink-item">Photometric system conversion and color terms</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Photometric%20system%20conversion%20and%20color%20terms.html" class="backlink-item">Photometric system conversion and color terms</a></li>
   </ul>
 </div>
+

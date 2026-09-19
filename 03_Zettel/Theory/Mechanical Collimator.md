@@ -2,12 +2,11 @@
 layout: "default"
 title: "Mechanical Collimator"
 ---
-{% raw %}
 A **mechanical collimator** is the simplest instrument for high-energy X-ray and gamma-ray astronomy
 	it works by **geometrically blocking** photons that arrive from outside a defined angular range
 		no focusing is possible at these energies — the collimator replaces the telescope
 
-![Screenshot 2026-04-07 at 01.26.18.png](../../assets/images/Screenshot 2026-04-07 at 01.26.18.png)
+![Screenshot 2026-04-07 at 01.26.18.png](../../assets/images/Screenshot%202026-04-07%20at%2001.26.18.png)
 <font color="#bfbfbf">Schematic of a mechanical collimator: absorbent walls around a detector restrict the field of view to a cone of half-angle $\Delta\theta$. Photons from outside this cone are stopped before reaching the detector.</font>
 
 ---
@@ -16,7 +15,7 @@ A **mechanical collimator** is the simplest instrument for high-energy X-ray and
 
 The detector is surrounded by **absorbing walls** (often made of lead, tungsten, or CsI)
 	forming a grid of parallel tubes or a honeycomb structure
-		only photons arriving within the **collimation angle** pass through to the detector
+	\tonly photons arriving within the **collimation angle** pass through to the detector
 
 The **collimation angle** (half-angle of the accepted cone):
 $$\Delta\theta \approx \frac{d}{L}$$
@@ -64,7 +63,7 @@ However:
 	cannot resolve extended sources or separate AGN from clusters
 
 The collimator was the dominant X-ray instrument in the 1970s (before focusing X-ray telescopes)
-	it was replaced by [coded aperture masks](./Coded%20Mask.html) for imaging, and by [Wolter telescopes](./Wolter%20Telescope.html) for focusing below $\sim 10$ keV
+	it was replaced by [coded aperture masks](Coded%20Mask.html) for imaging, and by [Wolter telescopes](Wolter%20Telescope.html) for focusing below $\sim 10$ keV
 
 ---
 
@@ -81,12 +80,12 @@ The collimator was the dominant X-ray instrument in the 1970s (before focusing X
 Both instruments share the same fundamental limitation:
 	**no focusing** — every detector pixel sees the full field of view simultaneously
 		therefore the background is high and cannot be suppressed as in a focusing telescope
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Coded%20Mask.html" class="backlink-item">Coded Mask</a></li>
+    <li class="backlink-item-wrap"><a href="Coded%20Mask.html" class="backlink-item">Coded Mask</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
   </ul>
 </div>
+

@@ -2,7 +2,6 @@
 layout: "default"
 title: "Comoving vs proper coordinates"
 ---
-{% raw %}
 in cosmology, two distance concepts coexist: **comoving** (fixed, "co-moving with the cosmic flow") and **proper** (instantaneous physical distance). distinguishing them is essential for any cosmological calculation.
 
 ## the definitions
@@ -54,23 +53,23 @@ at low $z$ all coincide; at high $z$ they diverge dramatically. see 03_Zettel/Th
 
 ## see also
 
-- [FLRW metric](./FLRW%20metric.html)
-- [Hubble law](./Hubble%20law.html)
+- [FLRW metric](FLRW%20metric.html)
+- [Hubble law](Hubble%20law.html)
 - 03_Zettel/Theory/Cosmological distances
-- [Radial comoving distance](./Radial%20comoving%20distance.html)
-- [Angular diameter distance](./Angular%20diameter%20distance.html)
-- [Luminosity distance](./Luminosity%20distance.html)
-- [Cosmological redshift](./Cosmological%20redshift.html)
-- [Peculiar velocities of galaxies and structures](./Peculiar%20velocities%20of%20galaxies%20and%20structures.html)
+- [Radial comoving distance](Radial%20comoving%20distance.html)
+- [Angular diameter distance](Angular%20diameter%20distance.html)
+- [Luminosity distance](Luminosity%20distance.html)
+- [Cosmological redshift](Cosmological%20redshift.html)
+- [Peculiar velocities of galaxies and structures](Peculiar%20velocities%20of%20galaxies%20and%20structures.html)
 - [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Cosmological%20redshift.html" class="backlink-item">Cosmological redshift</a></li>
+    <li class="backlink-item-wrap"><a href="Cosmological%20redshift.html" class="backlink-item">Cosmological redshift</a></li>
+    <li class="backlink-item-wrap"><a href="Peculiar%20velocities%20of%20galaxies%20and%20structures.html" class="backlink-item">Peculiar velocities of galaxies and structures</a></li>
+    <li class="backlink-item-wrap"><a href="Radial%20comoving%20distance.html" class="backlink-item">Radial comoving distance</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Peculiar%20velocities%20of%20galaxies%20and%20structures.html" class="backlink-item">Peculiar velocities of galaxies and structures</a></li>
-    <li class="backlink-item-wrap"><a href="./Radial%20comoving%20distance.html" class="backlink-item">Radial comoving distance</a></li>
   </ul>
 </div>
+

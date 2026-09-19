@@ -2,7 +2,6 @@
 layout: "default"
 title: "Crowding limitation"
 ---
-{% raw %}
 # Crowding limitation
 
 a fundamental limit on how *many sources* a sparse interferometer can image at once. with too many sources in the field of view, the dirty beam's sidelobes from each source pile up, contaminating every other source. there is a maximum source density that can be cleanly imaged.
@@ -79,4 +78,3 @@ chapter 4 of Labeyrie discusses the crowding limit for *sparse-aperture* arrays 
 - [CLEAN algorithm](interf/CLEAN%20algorithm.html)
 - [Hypertelescope](interf/Hypertelescope.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

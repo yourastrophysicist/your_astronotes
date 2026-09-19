@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Bulge microlensing surveys"
-name: "Bulge microlensing surveys"
-description: "OGLE+MOA+MACHO microlensing of bulge stars + Bensby et al. 2013/2017 spectroscopy of microlensed dwarfs giving age-metallicity at the bulge MS turn-off"
 ---
-{% raw %}
 **microlensing surveys** of the Galactic bulge have been transformative for inner-Galaxy stellar populations. when a foreground star or compact object passes in front of a faint background bulge dwarf, the bulge dwarf can brighten by several magnitudes for hours to days. this **gravitational microlensing** brief brightening makes faint MS turn-off bulge stars accessible to high-resolution spectroscopy.
 
 ## the surveys
@@ -60,7 +57,7 @@ possible reconciliation:
 - a real bimodal age distribution (Bensby 2017): metal-poor old + metal-rich extended SFH;
 - systematic differences in age scales between $\log g$-$T_{\rm eff}$ ages and CMD-fit ages.
 
-the issue remains an active research question. see [The Galactic Bulge](./The%20Galactic%20Bulge.html).
+the issue remains an active research question. see [The Galactic Bulge](The%20Galactic%20Bulge.html).
 
 ## related microlensing science
 
@@ -77,20 +74,20 @@ the issue remains an active research question. see [The Galactic Bulge](./The%20
 
 ## see also
 
-- [The Galactic Bulge](./The%20Galactic%20Bulge.html)
-- [Bulge CMD complications](./Bulge%20CMD%20complications.html)
-- [Age-metallicity relation of Galactic GCs](./Age-metallicity%20relation%20of%20Galactic%20GCs.html)
+- [The Galactic Bulge](The%20Galactic%20Bulge.html)
+- [Bulge CMD complications](Bulge%20CMD%20complications.html)
+- [Age-metallicity relation of Galactic GCs](Age-metallicity%20relation%20of%20Galactic%20GCs.html)
 - [Atmospheric parameters Teff log g feh vmicro](interf/Atmospheric%20parameters%20Teff%20log%20g%20feh%20vmicro.html)
-- [Spectroscopic determination of metallicity](./Spectroscopic%20determination%20of%20metallicity.html)
+- [Spectroscopic determination of metallicity](Spectroscopic%20determination%20of%20metallicity.html)
 - [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Bulge%20CMD%20complications.html" class="backlink-item">Bulge CMD complications</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20Astrophysics%20research%20citations%20index.html" class="backlink-item">Stellar Astrophysics research citations index</a></li>
+    <li class="backlink-item-wrap"><a href="Bulge%20CMD%20complications.html" class="backlink-item">Bulge CMD complications</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20Astrophysics%20research%20citations%20index.html" class="backlink-item">Stellar Astrophysics research citations index</a></li>
+    <li class="backlink-item-wrap"><a href="The%20Galactic%20Bulge.html" class="backlink-item">The Galactic Bulge</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./The%20Galactic%20Bulge.html" class="backlink-item">The Galactic Bulge</a></li>
   </ul>
 </div>
+

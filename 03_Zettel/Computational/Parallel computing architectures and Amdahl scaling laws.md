@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Parallel computing architectures and Amdahl scaling laws"
-name: "Parallel computing architectures and Amdahl scaling laws"
-description: "Flynn taxonomy, shared versus distributed memory, Amdahl law of strong scaling, and Gustafson law of weak scaling"
 ---
-{% raw %}
 modern astrophysical simulations (N-body dynamics, 3D MHD, atmospheric spectral grids) require high-performance parallel computing across multi-core processors and distributed supercomputers.
 
 ## flynn's computer architecture taxonomy
@@ -43,16 +40,16 @@ speedup scales linearly with processor count $N$, demonstrating that massive par
 
 - [Computational_Astrophysics_MOC](../../04_Atlas/Computational_Astrophysics_MOC.html)
 - [11_Parallel_Computing_Architectures_and_HPC_Scaling](../../02_Literature/Lectures/Computational_Astrophysics/11_Parallel_Computing_Architectures_and_HPC_Scaling.html)
-- [MPI distributed memory programming with mpi4py](./MPI%20distributed%20memory%20programming%20with%20mpi4py.html)
-- [CloudVeneto HPC OpenStack infrastructure and remote clusters](./CloudVeneto%20HPC%20OpenStack%20infrastructure%20and%20remote%20clusters.html)
-{% endraw %}
+- [MPI distributed memory programming with mpi4py](MPI%20distributed%20memory%20programming%20with%20mpi4py.html)
+- [CloudVeneto HPC OpenStack infrastructure and remote clusters](CloudVeneto%20HPC%20OpenStack%20infrastructure%20and%20remote%20clusters.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./CloudVeneto%20HPC%20OpenStack%20infrastructure%20and%20remote%20clusters.html" class="backlink-item">CloudVeneto HPC OpenStack infrastructure and remote clusters</a></li>
+    <li class="backlink-item-wrap"><a href="CloudVeneto%20HPC%20OpenStack%20infrastructure%20and%20remote%20clusters.html" class="backlink-item">CloudVeneto HPC OpenStack infrastructure and remote clusters</a></li>
+    <li class="backlink-item-wrap"><a href="MPI%20distributed%20memory%20programming%20with%20mpi4py.html" class="backlink-item">MPI distributed memory programming with mpi4py</a></li>
+    <li class="backlink-item-wrap"><a href="Monte%20Carlo%20integration%20and%20cursed%20dimensions.html" class="backlink-item">Monte Carlo integration and cursed dimensions</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./MPI%20distributed%20memory%20programming%20with%20mpi4py.html" class="backlink-item">MPI distributed memory programming with mpi4py</a></li>
-    <li class="backlink-item-wrap"><a href="./Monte%20Carlo%20integration%20and%20cursed%20dimensions.html" class="backlink-item">Monte Carlo integration and cursed dimensions</a></li>
   </ul>
 </div>
+

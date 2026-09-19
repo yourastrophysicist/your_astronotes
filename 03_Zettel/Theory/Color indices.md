@@ -2,7 +2,6 @@
 layout: "default"
 title: "Color indices"
 ---
-{% raw %}
 a **color index** (or just "color") is a magnitude difference between two filters of the same source:
 $$\text{color} \equiv m_1 - m_2 = -2.5\log_{10}(F_1/F_2)$$
 
@@ -12,7 +11,7 @@ intrinsically a one-number summary of the **shape** of the SED across two bandpa
 
 - **independent of distance**: both fluxes drop as $1/d^2$, the ratio is preserved.
 - **probe of temperature**: hotter blackbodies are bluer (less $B - V$ for example).
-- **probe of redshift**: at high $z$, spectral features shift through filters and colors change in characteristic ways. basis of [Photometric redshifts](./Photometric%20redshifts.html).
+- **probe of redshift**: at high $z$, spectral features shift through filters and colors change in characteristic ways. basis of [Photometric redshifts](Photometric%20redshifts.html).
 - **probe of dust extinction**: dust reddens, so excess $E(B-V) \equiv (B - V)_{\rm obs} - (B - V)_{\rm intrinsic} > 0$.
 - **probe of stellar population age**: a young SSP is bluer, an old one redder.
 
@@ -39,11 +38,11 @@ galaxy SDSS color $u - r$ shows a clear **bimodality** between:
 - **red sequence**: $u - r \gtrsim 2.3$, passive ellipticals.
 - **green valley**: in between, transitional galaxies.
 
-see [Color bimodality of galaxies](./Color%20bimodality%20of%20galaxies.html) and [Red sequence and blue cloud](./Red%20sequence%20and%20blue%20cloud.html) for the cosmological context.
+see [Color bimodality of galaxies](Color%20bimodality%20of%20galaxies.html) and [Red sequence and blue cloud](Red%20sequence%20and%20blue%20cloud.html) for the cosmological context.
 
 ## color-magnitude diagrams (CMDs)
 
-plotting magnitude vs color for individual stars gives the observational version of the [HR diagram](./HR%20diagram.html). for cluster stars: a single, well-defined isochrone, with a turnoff at the mass-dependent main-sequence lifetime point.
+plotting magnitude vs color for individual stars gives the observational version of the [HR diagram](HR%20diagram.html). for cluster stars: a single, well-defined isochrone, with a turnoff at the mass-dependent main-sequence lifetime point.
 
 for galaxies: a color-magnitude diagram of galaxies in a cluster shows the red sequence, used to determine the cluster redshift.
 
@@ -57,15 +56,15 @@ reddening vector on the CMD: a parallel shift along $B - V$ proportional to $E(B
 
 ## see also
 
-- [Magnitudes and photometric systems](./Magnitudes%20and%20photometric%20systems.html)
-- [Pogson magnitudes and flux relation](./Pogson%20magnitudes%20and%20flux%20relation.html)
-- [Filter systems and bandpasses](./Filter%20systems%20and%20bandpasses.html)
-- [Bolometric correction and effective temperature](./Bolometric%20correction%20and%20effective%20temperature.html)
-- [HR diagram](./HR%20diagram.html)
-- [Color bimodality of galaxies](./Color%20bimodality%20of%20galaxies.html)
-- [Color-magnitude diagrams of clusters](./Color-magnitude%20diagrams%20of%20clusters.html)
-- [Photometric redshifts](./Photometric%20redshifts.html)
-- [Interstellar absorption](./Interstellar%20absorption.html)
+- [Magnitudes and photometric systems](Magnitudes%20and%20photometric%20systems.html)
+- [Pogson magnitudes and flux relation](Pogson%20magnitudes%20and%20flux%20relation.html)
+- [Filter systems and bandpasses](Filter%20systems%20and%20bandpasses.html)
+- [Bolometric correction and effective temperature](Bolometric%20correction%20and%20effective%20temperature.html)
+- [HR diagram](HR%20diagram.html)
+- [Color bimodality of galaxies](Color%20bimodality%20of%20galaxies.html)
+- [Color-magnitude diagrams of clusters](Color-magnitude%20diagrams%20of%20clusters.html)
+- [Photometric redshifts](Photometric%20redshifts.html)
+- [Interstellar absorption](Interstellar%20absorption.html)
 
 ---
 
@@ -82,16 +81,16 @@ reddening vector on the CMD: a parallel shift along $B - V$ proportional to $E(B
 
 ![obs_rad-068.png](../../assets/images/obs_rad-068.png)
 *Color-color diagrams (e.g. U-B vs B-V) for stellar classification and reddening determination.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (6)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Color-magnitude%20diagrams%20of%20clusters.html" class="backlink-item">Color-magnitude diagrams of clusters</a></li>
-    <li class="backlink-item-wrap"><a href="./Filter%20systems%20and%20bandpasses.html" class="backlink-item">Filter systems and bandpasses</a></li>
+    <li class="backlink-item-wrap"><a href="Color-magnitude%20diagrams%20of%20clusters.html" class="backlink-item">Color-magnitude diagrams of clusters</a></li>
+    <li class="backlink-item-wrap"><a href="Filter%20systems%20and%20bandpasses.html" class="backlink-item">Filter systems and bandpasses</a></li>
+    <li class="backlink-item-wrap"><a href="Photometric%20standard%20stars.html" class="backlink-item">Photometric standard stars</a></li>
+    <li class="backlink-item-wrap"><a href="Photometric%20system%20conversion%20and%20color%20terms.html" class="backlink-item">Photometric system conversion and color terms</a></li>
+    <li class="backlink-item-wrap"><a href="Pogson%20magnitudes%20and%20flux%20relation.html" class="backlink-item">Pogson magnitudes and flux relation</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Photometric%20standard%20stars.html" class="backlink-item">Photometric standard stars</a></li>
-    <li class="backlink-item-wrap"><a href="./Photometric%20system%20conversion%20and%20color%20terms.html" class="backlink-item">Photometric system conversion and color terms</a></li>
-    <li class="backlink-item-wrap"><a href="./Pogson%20magnitudes%20and%20flux%20relation.html" class="backlink-item">Pogson magnitudes and flux relation</a></li>
   </ul>
 </div>
+

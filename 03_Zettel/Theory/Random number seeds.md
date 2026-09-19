@@ -2,7 +2,6 @@
 layout: "default"
 title: "Random number seeds"
 ---
-{% raw %}
 # Random number seeds
 
 a pseudo-random number generator (PRNG) is a deterministic recurrence. given the same starting state, it produces the same sequence. the **seed** sets that starting state. setting a seed makes my Monte Carlo experiment reproducible across runs and machines.
@@ -132,16 +131,16 @@ now the *ensemble* is reproducible, *each individual realization* is reproducibl
 
 ## see also
 
-- [Pseudo-random number generators](./Pseudo-random%20number%20generators.html)
-- [Inverse transform sampling](./Inverse%20transform%20sampling.html)
-- [Monte Carlo integration mean value method](./Monte%20Carlo%20integration%20mean%20value%20method.html)
+- [Pseudo-random number generators](Pseudo-random%20number%20generators.html)
+- [Inverse transform sampling](Inverse%20transform%20sampling.html)
+- [Monte Carlo integration mean value method](Monte%20Carlo%20integration%20mean%20value%20method.html)
 - [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Pseudo-random%20number%20generators.html" class="backlink-item">Pseudo-random number generators</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Pseudo-random%20number%20generators.html" class="backlink-item">Pseudo-random number generators</a></li>
   </ul>
 </div>
+

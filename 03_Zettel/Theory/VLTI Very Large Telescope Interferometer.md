@@ -2,7 +2,6 @@
 layout: "default"
 title: "VLTI Very Large Telescope Interferometer"
 ---
-{% raw %}
 # VLTI Very Large Telescope Interferometer
 
 ESO's optical/IR interferometer at Cerro Paranal in Chile. four 8m Unit Telescopes (UTs) and four 1.8m Auxiliary Telescopes (ATs) combined coherently, with baselines from 8m to 130m. workhorse of mid-2000s-onward optical interferometry.
@@ -128,4 +127,3 @@ source: ESO image eso9811a, VLTI delay line schematic.
 - [Fringe tracking](interf/Fringe%20tracking.html)
 - [Galactic Center Sgr A and S-stars](interf/Galactic%20Center%20Sgr%20A%20and%20S-stars.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

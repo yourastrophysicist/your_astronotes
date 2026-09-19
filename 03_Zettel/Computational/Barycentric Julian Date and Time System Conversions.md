@@ -2,7 +2,6 @@
 layout: "default"
 title: "Barycentric Julian Date and Time System Conversions"
 ---
-{% raw %}
 # Barycentric Julian Date and Time System Conversions
 
 Precise timing in exoplanet transit observations requires transforming local terrestrial timestamps into a uniform inertial timescale referenced to the Solar System Barycenter.
@@ -24,14 +23,12 @@ Computed using high-precision JPL DE430 ephemerides via `jplephem` (Eastman et a
 ## Related Notes
 - [Malavolta 03 - Science Frame Correction and Error Propagation](../../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2003%20-%20Science%20Frame%20Correction%20and%20Error%20Propagation.html)
 - [Malavolta 11 - Transit Geometry and Analytical Light Curve Modeling](../../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2011%20-%20Transit%20Geometry%20and%20Analytical%20Light%20Curve%20Modeling.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
+  <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Exoplanetary_Astrophysics/13_RV_Wavelength_Calibration_and_Error_Budgets.html" class="backlink-item">13_RV_Wavelength_Calibration_and_Error_Budgets</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../Activities/Laboratory%20Exercise%20-%20Science%20Frame%20Reduction%20and%20Error%20Tracking.html" class="backlink-item">Laboratory Exercise - Science Frame Reduction and Error Tracking</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2003%20-%20Science%20Frame%20Correction%20and%20Error%20Propagation.html" class="backlink-item">Malavolta 03 - Science Frame Correction and Error Propagation</a></li>
+    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
   </ul>
 </div>
+

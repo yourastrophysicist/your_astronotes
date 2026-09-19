@@ -2,11 +2,10 @@
 layout: "default"
 title: "Hint - TODO 2.2 Logarithmic Binning for Inverse Sampling"
 ---
-{% raw %}
 # Hint - TODO 2.2 Logarithmic Binning for Inverse Sampling
 
 **Target TODO**: TODO 2.2 in Module_1_Random_Sampling_and_Monte_Carlo  
-**Related Zettels**: [Verifying random samples](./Verifying%20random%20samples.html), [Matplotlib plotting essentials](./Matplotlib%20plotting%20essentials.html)
+**Related Zettels**: [Verifying random samples](Verifying%20random%20samples.html), [Matplotlib plotting essentials](Matplotlib%20plotting%20essentials.html)
 
 ---
 
@@ -23,4 +22,3 @@ ax.hist(s_samples, bins=bins, density=True, alpha=0.6)
 ax.set_xscale('log')
 ax.set_yscale('log')
 ```
-{% endraw %}

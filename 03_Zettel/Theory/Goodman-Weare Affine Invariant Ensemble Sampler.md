@@ -2,7 +2,6 @@
 layout: "default"
 title: "Goodman-Weare Affine Invariant Ensemble Sampler"
 ---
-{% raw %}
 # Goodman-Weare Affine Invariant Ensemble Sampler
 
 The Goodman & Weare (2010) affine-invariant ensemble sampler is an MCMC algorithm designed to sample anisotropic, highly degenerate probability distributions without requiring proposal tuning.
@@ -28,17 +27,16 @@ $$\alpha = \min\left( 1, Z^{N_{\text{dim}}-1} \frac{p(\boldsymbol{X}_k')}{p(\bol
 Because the proposal scale is automatically determined by the distance between existing walkers, the ensemble contracts and expands dynamically to match the geometry of the posterior.
 
 ## Related Notes
-- [Metropolis-Hastings Algorithm](./Metropolis-Hastings%20Algorithm.html)
+- [Metropolis-Hastings Algorithm](Metropolis-Hastings%20Algorithm.html)
 - [Affine-Invariant Ensemble MCMC with emcee](../Computational/Affine-Invariant%20Ensemble%20MCMC%20with%20emcee.html)
 - [Malavolta 13 - Bayesian Statistics and Markov Chain Monte Carlo Sampling](../../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2013%20-%20Bayesian%20Statistics%20and%20Markov%20Chain%20Monte%20Carlo%20Sampling.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
+  <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
     <li class="backlink-item-wrap"><a href="../Computational/Affine-Invariant%20Ensemble%20MCMC%20with%20emcee.html" class="backlink-item">Affine-Invariant Ensemble MCMC with emcee</a></li>
+    <li class="backlink-item-wrap"><a href="Metropolis-Hastings%20Algorithm.html" class="backlink-item">Metropolis-Hastings Algorithm</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2013%20-%20Bayesian%20Statistics%20and%20Markov%20Chain%20Monte%20Carlo%20Sampling.html" class="backlink-item">Malavolta 13 - Bayesian Statistics and Markov Chain Monte Carlo Sampling</a></li>
-    <li class="backlink-item-wrap"><a href="./Metropolis-Hastings%20Algorithm.html" class="backlink-item">Metropolis-Hastings Algorithm</a></li>
   </ul>
 </div>
+

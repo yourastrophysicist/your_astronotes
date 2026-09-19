@@ -2,7 +2,6 @@
 layout: "default"
 title: "AU calibration parallax and parsec"
 ---
-{% raw %}
 the bottom rung of the distance ladder. before any other distance method, we need to know how big $1$ AU is in km. then the same geometry that fixes the AU defines the parsec. answer to `obs1.pdf`.
 
 ## historical: AU from a Venus transit
@@ -71,14 +70,14 @@ range of geometric parallax:
 
 ## see also
 
-- [Annual stellar parallax](./Annual%20stellar%20parallax.html)
-- [Distance ladder derivations](./Distance%20ladder%20derivations.html)
-- [Distance modulus](./Distance%20modulus.html)
-- [Cepheid period-luminosity relation](./Cepheid%20period-luminosity%20relation.html)
-- [Spectroscopic parallax and main-sequence fitting](./Spectroscopic%20parallax%20and%20main-sequence%20fitting.html)
-- [Hubble law](./Hubble%20law.html)
-- [Earth coordinates](./Earth%20coordinates.html)
-- [Precession nutation aberration parallax](./Precession%20nutation%20aberration%20parallax.html)
+- [Annual stellar parallax](Annual%20stellar%20parallax.html)
+- [Distance ladder derivations](Distance%20ladder%20derivations.html)
+- [Distance modulus](Distance%20modulus.html)
+- [Cepheid period-luminosity relation](Cepheid%20period-luminosity%20relation.html)
+- [Spectroscopic parallax and main-sequence fitting](Spectroscopic%20parallax%20and%20main-sequence%20fitting.html)
+- [Hubble law](Hubble%20law.html)
+- [Earth coordinates](Earth%20coordinates.html)
+- [Precession nutation aberration parallax](Precession%20nutation%20aberration%20parallax.html)
 
 ---
 
@@ -107,7 +106,6 @@ range of geometric parallax:
 
 ![obs_dist-12.png](../../assets/images/obs_dist-12.png)
 *Obs1 exam question: Full model answer on AU calibration, parallax, and parsec definition.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (1)</h4>
@@ -115,3 +113,4 @@ range of geometric parallax:
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

@@ -2,7 +2,6 @@
 layout: "default"
 title: "Missing baryons"
 ---
-{% raw %}
 the **"missing baryons" problem**: BBN + CMB measurements predict $\Omega_b h^2 = 0.0224$, but direct observations of stars + galaxies + cluster gas + cold IGM only account for **half** of the baryons. the rest are "missing" until recent confirmations of the **WHIM**.
 
 ## the budget
@@ -46,22 +45,21 @@ modern cosmological simulations (IllustrisTNG, EAGLE, SIMBA) reproduce the WHIM 
 
 ## see also
 
-- [Intergalactic medium](./Intergalactic%20medium.html)
+- [Intergalactic medium](Intergalactic%20medium.html)
 - Lyman-α forest
-- [Cosmic_inventory_baryons](./Cosmic_inventory_baryons.html)
-- [Cosmic_inventory_overview](./Cosmic_inventory_overview.html)
-- [Reionization](./Reionization.html)
-- [ΛCDM current parameters](./%CE%9BCDM%20current%20parameters.html)
-- [BBN_concordance_with_CMB](./BBN_concordance_with_CMB.html)
-- [Galaxy clusters and overview of evolution](./Galaxy%20clusters%20and%20overview%20of%20evolution.html)
+- [Cosmic_inventory_baryons](Cosmic_inventory_baryons.html)
+- [Cosmic_inventory_overview](Cosmic_inventory_overview.html)
+- [Reionization](Reionization.html)
+- [ΛCDM current parameters](%CE%9BCDM%20current%20parameters.html)
+- [BBN_concordance_with_CMB](BBN_concordance_with_CMB.html)
+- [Galaxy clusters and overview of evolution](Galaxy%20clusters%20and%20overview%20of%20evolution.html)
 - [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
+  <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./H%20I%20regions.html" class="backlink-item">H I regions</a></li>
-    <li class="backlink-item-wrap"><a href="./Intergalactic%20medium.html" class="backlink-item">Intergalactic medium</a></li>
+    <li class="backlink-item-wrap"><a href="Intergalactic%20medium.html" class="backlink-item">Intergalactic medium</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
   </ul>
 </div>
+

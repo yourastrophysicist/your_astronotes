@@ -2,7 +2,6 @@
 layout: "default"
 title: "Cosmological evolution of perturbations in the cosmic fluid"
 ---
-{% raw %}
 in the early universe, small density perturbations evolved according to **gravitational instability** in an expanding background. their **linear growth** is the core of cosmological perturbation theory + the basis for predicting CMB anisotropies + LSS today.
 
 ## the perturbed fluid
@@ -80,21 +79,21 @@ both observed, both consistent with $\Lambda$CDM.
 
 once $\delta \gtrsim 1$, the linear theory breaks down. perturbations collapse into halos via **spherical collapse** (when $\delta_c = 1.686$ at the linear level) + go non-linear. structure formation continues hierarchically.
 
-see [Spherical collapse](./Spherical%20collapse.html) + [Press-Schechter halo mass function](./Press-Schechter%20halo%20mass%20function.html) + [N-body simulations](./N-body%20simulations.html).
+see [Spherical collapse](Spherical%20collapse.html) + [Press-Schechter halo mass function](Press-Schechter%20halo%20mass%20function.html) + [N-body simulations](N-body%20simulations.html).
 
 ## see also
 
-- [Linear evolution of perturbations in expanding universe](./Linear%20evolution%20of%20perturbations%20in%20expanding%20universe.html)
-- [Linear vs nonlinear regime](./Linear%20vs%20nonlinear%20regime.html)
-- [Jeans analysis in expanding universe](./Jeans%20analysis%20in%20expanding%20universe.html)
-- [Growth factor D(z)](./Growth%20factor%20D%28z%29.html)
-- [Spherical collapse](./Spherical%20collapse.html)
-- [Press-Schechter halo mass function](./Press-Schechter%20halo%20mass%20function.html)
-- [Matter power spectrum and BAO](./Matter%20power%20spectrum%20and%20BAO.html)
-- [CMB power spectrum](./CMB%20power%20spectrum.html)
-- [Matter radiation equality](./Matter%20radiation%20equality.html)
-- [Inflation overview](./Inflation%20overview.html)
-- [N-body simulations](./N-body%20simulations.html)
+- [Linear evolution of perturbations in expanding universe](Linear%20evolution%20of%20perturbations%20in%20expanding%20universe.html)
+- [Linear vs nonlinear regime](Linear%20vs%20nonlinear%20regime.html)
+- [Jeans analysis in expanding universe](Jeans%20analysis%20in%20expanding%20universe.html)
+- [Growth factor D(z)](Growth%20factor%20D%28z%29.html)
+- [Spherical collapse](Spherical%20collapse.html)
+- [Press-Schechter halo mass function](Press-Schechter%20halo%20mass%20function.html)
+- [Matter power spectrum and BAO](Matter%20power%20spectrum%20and%20BAO.html)
+- [CMB power spectrum](CMB%20power%20spectrum.html)
+- [Matter radiation equality](Matter%20radiation%20equality.html)
+- [Inflation overview](Inflation%20overview.html)
+- [N-body simulations](N-body%20simulations.html)
 - [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
 
 ---
@@ -115,13 +114,13 @@ see [Spherical collapse](./Spherical%20collapse.html) + [Press-Schechter halo ma
 
 ![obscos_lesson2_p55.png](../../assets/images/obscos_lesson2_p55.png)
 *Non-linear collapse: spherical top-hat model, turnaround at $\delta_{\rm lin} = 1.06$, virialization at $\Delta_{\rm vir} \approx 178$.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Linear%20vs%20nonlinear%20regime.html" class="backlink-item">Linear vs nonlinear regime</a></li>
+    <li class="backlink-item-wrap"><a href="Linear%20vs%20nonlinear%20regime.html" class="backlink-item">Linear vs nonlinear regime</a></li>
+    <li class="backlink-item-wrap"><a href="Perturbations%20in%20an%20expanding%20universe.html" class="backlink-item">Perturbations in an expanding universe</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Perturbations%20in%20an%20expanding%20universe.html" class="backlink-item">Perturbations in an expanding universe</a></li>
   </ul>
 </div>
+

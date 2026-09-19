@@ -2,7 +2,6 @@
 layout: "default"
 title: "Flux calibration"
 ---
-{% raw %}
 to convert a spectrum's $y$ axis from "counts" to "erg/s/cm$^2$/Å" you need a known reference: a **spectrophotometric standard star** whose absolute spectral flux is tabulated.
 
 ## the procedure
@@ -56,11 +55,10 @@ absolute calibration is essential for:
 
 ## see also
 
-- [Spectrograph design](./Spectrograph%20design.html)
-- [Spectrum reduction pipeline](./Spectrum%20reduction%20pipeline.html)
-- [Wavelength calibration](./Wavelength%20calibration.html)
+- [Spectrograph design](Spectrograph%20design.html)
+- [Spectrum reduction pipeline](Spectrum%20reduction%20pipeline.html)
+- [Wavelength calibration](Wavelength%20calibration.html)
 - [Atmospheric extinction](interf/Atmospheric%20extinction.html)
-- [Photometric standard stars](./Photometric%20standard%20stars.html)
-- [Magnitudes and photometric systems](./Magnitudes%20and%20photometric%20systems.html)
-- [Spectral Energy Distribution (SED)](./Spectral%20Energy%20Distribution%20%28SED%29.html)
-{% endraw %}
+- [Photometric standard stars](Photometric%20standard%20stars.html)
+- [Magnitudes and photometric systems](Magnitudes%20and%20photometric%20systems.html)
+- [Spectral Energy Distribution (SED)](Spectral%20Energy%20Distribution%20%28SED%29.html)

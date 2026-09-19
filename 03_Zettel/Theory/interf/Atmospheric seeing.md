@@ -2,7 +2,6 @@
 layout: "default"
 title: "Atmospheric seeing"
 ---
-{% raw %}
 seeing is the **spatial blurring** of astronomical images caused by atmospheric turbulence. it is the single biggest practical limitation on ground-based optical resolution, and the reason every big optical telescope today either uses adaptive optics or accepts a $\sim 0.5''$ FWHM.
 
 ## the physical picture
@@ -71,10 +70,10 @@ published seeing for a site is the median over many years; a given night can be 
 ## see also
 
 - [Earth atmosphere for observations](../Earth%20atmosphere%20for%20observations.html)
-- [Adaptive optics overview](./Adaptive%20optics%20overview.html)
-- [Atmospheric scintillation](./Atmospheric%20scintillation.html)
+- [Adaptive optics overview](Adaptive%20optics%20overview.html)
+- [Atmospheric scintillation](Atmospheric%20scintillation.html)
 - [Seeing Effect](../Seeing%20Effect.html) — additional notes
-- [Atmospheric layers](./Atmospheric%20layers.html)
+- [Atmospheric layers](Atmospheric%20layers.html)
 - [Point Spread Function (PSF)](../Point%20Spread%20Function%20%28PSF%29.html)
 - [Telescope resolving power](../Telescope%20resolving%20power.html)
 - [Rayleigh criterion](../Rayleigh%20criterion.html)
@@ -106,21 +105,21 @@ published seeing for a site is the median over many years; a given night can be 
 
 ![obs_atm-44.png](../../../assets/images/obs_atm-44.png)
 *Speckle interferometry and lucky imaging techniques.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (11)</h4>
   <ul class="backlinks-list">
     <li class="backlink-item-wrap"><a href="../Adaptive%20optics%20overview.html" class="backlink-item">Adaptive optics overview</a></li>
-    <li class="backlink-item-wrap"><a href="./Adaptive%20optics%20overview.html" class="backlink-item">Adaptive optics overview</a></li>
     <li class="backlink-item-wrap"><a href="../Atmospheric%20layers.html" class="backlink-item">Atmospheric layers</a></li>
-    <li class="backlink-item-wrap"><a href="./Atmospheric%20layers.html" class="backlink-item">Atmospheric layers</a></li>
     <li class="backlink-item-wrap"><a href="../Atmospheric%20scintillation.html" class="backlink-item">Atmospheric scintillation</a></li>
-    <li class="backlink-item-wrap"><a href="./Atmospheric%20scintillation.html" class="backlink-item">Atmospheric scintillation</a></li>
     <li class="backlink-item-wrap"><a href="../Dispersion%20and%20spectral%20resolution.html" class="backlink-item">Dispersion and spectral resolution</a></li>
     <li class="backlink-item-wrap"><a href="../Earth%20atmosphere%20for%20observations.html" class="backlink-item">Earth atmosphere for observations</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../Spectrograph%20design.html" class="backlink-item">Spectrograph design</a></li>
     <li class="backlink-item-wrap"><a href="../Useful%20constants%20and%20conversions.html" class="backlink-item">Useful constants and conversions</a></li>
+    <li class="backlink-item-wrap"><a href="Adaptive%20optics%20overview.html" class="backlink-item">Adaptive optics overview</a></li>
+    <li class="backlink-item-wrap"><a href="Atmospheric%20layers.html" class="backlink-item">Atmospheric layers</a></li>
+    <li class="backlink-item-wrap"><a href="Atmospheric%20scintillation.html" class="backlink-item">Atmospheric scintillation</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

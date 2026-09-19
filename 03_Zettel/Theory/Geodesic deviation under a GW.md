@@ -2,7 +2,6 @@
 layout: "default"
 title: "Geodesic deviation under a GW"
 ---
-{% raw %}
 a passing gravitational wave doesn't push individual test particles (they stay at constant comoving coordinates in TT gauge), but it changes the **proper distance** between them. this is what LIGO measures: the differential strain between freely-falling mirrors.
 
 ## the setup
@@ -61,27 +60,26 @@ the GW changes the **proper distance** between them via geodesic deviation, obse
 
 ## see also
 
-- [Geodesic deviation](./Geodesic%20deviation.html)
-- [Transverse traceless gauge](./Transverse%20traceless%20gauge.html)
-- [Plus and cross polarizations](./Plus%20and%20cross%20polarizations.html)
-- [Quadrupole formula](./Quadrupole%20formula.html)
-- [GW energy and angular momentum](./GW%20energy%20and%20angular%20momentum.html)
-- [Riemann tensor](./Riemann%20tensor.html)
-- [Linearized metric perturbation](./Linearized%20metric%20perturbation.html)
+- [Geodesic deviation](Geodesic%20deviation.html)
+- [Transverse traceless gauge](Transverse%20traceless%20gauge.html)
+- [Plus and cross polarizations](Plus%20and%20cross%20polarizations.html)
+- [Quadrupole formula](Quadrupole%20formula.html)
+- [GW energy and angular momentum](GW%20energy%20and%20angular%20momentum.html)
+- [Riemann tensor](Riemann%20tensor.html)
+- [Linearized metric perturbation](Linearized%20metric%20perturbation.html)
 - Q17 - Riemann R_0x0x for a TT plane wave
 - [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
 - [Ch 8 - Gravitational Waves](../../02_Literature/Book/Baumann%20GR/Ch%208%20-%20Gravitational%20Waves.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
+  <h4 class="backlinks-title">Linked References (6)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Book/Baumann%20GR/Ch%208%20-%20Gravitational%20Waves.html" class="backlink-item">Ch 8 - Gravitational Waves</a></li>
-    <li class="backlink-item-wrap"><a href="./GW%20energy%20and%20angular%20momentum.html" class="backlink-item">GW energy and angular momentum</a></li>
+    <li class="backlink-item-wrap"><a href="GW%20energy%20and%20angular%20momentum.html" class="backlink-item">GW energy and angular momentum</a></li>
+    <li class="backlink-item-wrap"><a href="Geodesic%20deviation.html" class="backlink-item">Geodesic deviation</a></li>
+    <li class="backlink-item-wrap"><a href="Plus%20and%20cross%20polarizations.html" class="backlink-item">Plus and cross polarizations</a></li>
+    <li class="backlink-item-wrap"><a href="Quadrupole%20formula.html" class="backlink-item">Quadrupole formula</a></li>
+    <li class="backlink-item-wrap"><a href="Transverse%20traceless%20gauge.html" class="backlink-item">Transverse traceless gauge</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Geodesic%20deviation.html" class="backlink-item">Geodesic deviation</a></li>
-    <li class="backlink-item-wrap"><a href="./Plus%20and%20cross%20polarizations.html" class="backlink-item">Plus and cross polarizations</a></li>
-    <li class="backlink-item-wrap"><a href="./Quadrupole%20formula.html" class="backlink-item">Quadrupole formula</a></li>
-    <li class="backlink-item-wrap"><a href="./Transverse%20traceless%20gauge.html" class="backlink-item">Transverse traceless gauge</a></li>
   </ul>
 </div>
+

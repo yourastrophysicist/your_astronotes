@@ -2,11 +2,10 @@
 layout: "default"
 title: "Hint - TODO 1.4 2D Histograms and Colorbars"
 ---
-{% raw %}
 # Hint - TODO 1.4 2D Histograms and Colorbars
 
 **Target TODO**: TODO 1.4 in Module_1_Random_Sampling_and_Monte_Carlo  
-**Related Zettels**: [Matplotlib plotting essentials](./Matplotlib%20plotting%20essentials.html)
+**Related Zettels**: [Matplotlib plotting essentials](Matplotlib%20plotting%20essentials.html)
 
 ---
 
@@ -21,4 +20,3 @@ title: "Hint - TODO 1.4 2D Histograms and Colorbars"
 h2d = ax2.hist2d(M1, M2, bins=50, cmap='viridis')
 plt.colorbar(h2d[3], ax=ax2, label='Number of Binaries')
 ```
-{% endraw %}

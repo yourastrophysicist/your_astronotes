@@ -2,7 +2,6 @@
 layout: "default"
 title: "Hubble law derivation low-z"
 ---
-{% raw %}
 at low redshift, **Hubble's law** has a beautifully simple form:
 $$v = H_0\, d, \qquad z \simeq \frac{v}{c}$$
 
@@ -55,7 +54,7 @@ $$d_L(z) = (1 + z)\int_0^z \frac{c\, dz'}{H(z')}$$
 and at small $z$:
 $$d_L(z) = \frac{c}{H_0}\left[z + \tfrac12(1 - q_0) z^2 + O(z^3)\right]$$
 
-→ see [Hubble law exact form](./Hubble%20law%20exact%20form.html).
+→ see [Hubble law exact form](Hubble%20law%20exact%20form.html).
 
 ---
 
@@ -79,19 +78,19 @@ inconsistent at $\sim 5\sigma$ with the CMB-anchored value $67.4 \pm 0.5$. this 
 
 - [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
 - 03_Zettel/Theory/Robertson-Walker metric
-- [Hubble constant and deceleration parameter](./Hubble%20constant%20and%20deceleration%20parameter.html)
-- [Hubble law exact form](./Hubble%20law%20exact%20form.html)
+- [Hubble constant and deceleration parameter](Hubble%20constant%20and%20deceleration%20parameter.html)
+- [Hubble law exact form](Hubble%20law%20exact%20form.html)
 - 03_Zettel/Theory/Cosmological distances
-- [Cepheids and supernovae](./Cepheids%20and%20supernovae.html)
-{% endraw %}
+- [Cepheids and supernovae](Cepheids%20and%20supernovae.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Baumann_reference.html" class="backlink-item">Baumann_reference</a></li>
-    <li class="backlink-item-wrap"><a href="./Hubble%20constant%20and%20deceleration%20parameter.html" class="backlink-item">Hubble constant and deceleration parameter</a></li>
-    <li class="backlink-item-wrap"><a href="./Hubble%20flow%20distances.html" class="backlink-item">Hubble flow distances</a></li>
-    <li class="backlink-item-wrap"><a href="./Hubble%20law.html" class="backlink-item">Hubble law</a></li>
-    <li class="backlink-item-wrap"><a href="./Hubble%20law%20exact%20form.html" class="backlink-item">Hubble law exact form</a></li>
+    <li class="backlink-item-wrap"><a href="Baumann_reference.html" class="backlink-item">Baumann_reference</a></li>
+    <li class="backlink-item-wrap"><a href="Hubble%20constant%20and%20deceleration%20parameter.html" class="backlink-item">Hubble constant and deceleration parameter</a></li>
+    <li class="backlink-item-wrap"><a href="Hubble%20flow%20distances.html" class="backlink-item">Hubble flow distances</a></li>
+    <li class="backlink-item-wrap"><a href="Hubble%20law%20exact%20form.html" class="backlink-item">Hubble law exact form</a></li>
+    <li class="backlink-item-wrap"><a href="Hubble%20law.html" class="backlink-item">Hubble law</a></li>
   </ul>
 </div>
+

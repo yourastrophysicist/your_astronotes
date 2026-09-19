@@ -2,10 +2,9 @@
 layout: "default"
 title: "Modified midpoint method"
 ---
-{% raw %}
 # Modified midpoint method
 
-the workhorse subroutine for [Bulirsch-Stoer extrapolation](./Bulirsch-Stoer%20extrapolation.html). integrates an ODE from $t$ to $t + H$ using $n$ substeps of the midpoint rule, with a clever final correction step. the result is an estimate that has only *even* powers of $h = H/n$ in its error expansion — exactly what Richardson extrapolation wants.
+the workhorse subroutine for [Bulirsch-Stoer extrapolation](Bulirsch-Stoer%20extrapolation.html). integrates an ODE from $t$ to $t + H$ using $n$ substeps of the midpoint rule, with a clever final correction step. the result is an estimate that has only *even* powers of $h = H/n$ in its error expansion — exactly what Richardson extrapolation wants.
 
 ## the algorithm
 
@@ -25,7 +24,7 @@ the local truncation error of the modified midpoint method is
 
 $$E(h) = \alpha h^2 + \beta h^4 + \gamma h^6 + \cdots$$
 
-(only even powers). running it at several $n$ (giving several $h$) and extrapolating in $h^2$ to $h = 0$ gives a sequence of estimates that converge geometrically. this is [Bulirsch-Stoer extrapolation](./Bulirsch-Stoer%20extrapolation.html).
+(only even powers). running it at several $n$ (giving several $h$) and extrapolating in $h^2$ to $h = 0$ gives a sequence of estimates that converge geometrically. this is [Bulirsch-Stoer extrapolation](Bulirsch-Stoer%20extrapolation.html).
 
 ## python implementation
 
@@ -52,21 +51,21 @@ $n + 1$ evaluations of $\mathbf{f}$ per macrostep of size $H$. for $n = 2, 4, 6,
 
 modified midpoint as a standalone integrator is just a second-order method with twice the cost of midpoint RK2. nobody runs it alone.
 
-its **only** purpose is as the inner-loop subroutine of [Bulirsch-Stoer extrapolation](./Bulirsch-Stoer%20extrapolation.html), which combines results from $n = 2, 4, 6, 8, \ldots$ via Richardson extrapolation to achieve very high-order accuracy.
+its **only** purpose is as the inner-loop subroutine of [Bulirsch-Stoer extrapolation](Bulirsch-Stoer%20extrapolation.html), which combines results from $n = 2, 4, 6, 8, \ldots$ via Richardson extrapolation to achieve very high-order accuracy.
 
 ## see also
 
-- [Bulirsch-Stoer extrapolation](./Bulirsch-Stoer%20extrapolation.html)
-- [Runge-Kutta 4 method](./Runge-Kutta%204%20method.html)
-- [Adaptive step size control](./Adaptive%20step%20size%20control.html)
-- [Truncation error and order of accuracy](./Truncation%20error%20and%20order%20of%20accuracy.html)
+- [Bulirsch-Stoer extrapolation](Bulirsch-Stoer%20extrapolation.html)
+- [Runge-Kutta 4 method](Runge-Kutta%204%20method.html)
+- [Adaptive step size control](Adaptive%20step%20size%20control.html)
+- [Truncation error and order of accuracy](Truncation%20error%20and%20order%20of%20accuracy.html)
 - [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Bulirsch-Stoer%20extrapolation.html" class="backlink-item">Bulirsch-Stoer extrapolation</a></li>
+    <li class="backlink-item-wrap"><a href="Bulirsch-Stoer%20extrapolation.html" class="backlink-item">Bulirsch-Stoer extrapolation</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
   </ul>
 </div>
+

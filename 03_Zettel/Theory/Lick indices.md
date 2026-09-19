@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Lick indices"
-name: "Lick indices"
-description: "Narrow-band pseudo-equivalent width system designed to isolate age, metallicity, and alpha-enhancement in unresolved stellar populations."
 ---
-{% raw %}
 the **Lick/IDS index system** (Burstein et al. 1984; Worthey et al. 1994; Worthey & Ottaviani 1997) is a standardized set of narrow-band spectral indices measuring atomic absorption lines and molecular bands in integrated stellar and galaxy spectra. By targeting features with distinct physical sensitivities, Lick indices decouple the **age-metallicity degeneracy** that plagues broadband photometry of early-type galaxies and globular clusters.
 
 ---
@@ -84,14 +81,14 @@ to compare observed galaxy spectra to Lick/IDS models, three systematic correcti
 
 - [Observational_Astrophysics_MOC](../../04_Atlas/Observational_Astrophysics_MOC.html)
 - [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
-- [Age-metallicity degeneracy](./Age-metallicity%20degeneracy.html)
-- [Stellar population synthesis](./Stellar%20population%20synthesis.html)
-- [Single stellar population SSP](./Single%20stellar%20population%20SSP.html)
-- [SPS code families](./SPS%20code%20families.html)
-- [Metallicity and chemical evolution](./Metallicity%20and%20chemical%20evolution.html)
-- [Stellar spectra and spectral classification](./Stellar%20spectra%20and%20spectral%20classification.html)
-- [SED fitting basics](./SED%20fitting%20basics.html)
-- [Age estimation in unresolved populations](./Age%20estimation%20in%20unresolved%20populations.html)
+- [Age-metallicity degeneracy](Age-metallicity%20degeneracy.html)
+- [Stellar population synthesis](Stellar%20population%20synthesis.html)
+- [Single stellar population SSP](Single%20stellar%20population%20SSP.html)
+- [SPS code families](SPS%20code%20families.html)
+- [Metallicity and chemical evolution](Metallicity%20and%20chemical%20evolution.html)
+- [Stellar spectra and spectral classification](Stellar%20spectra%20and%20spectral%20classification.html)
+- [SED fitting basics](SED%20fitting%20basics.html)
+- [Age estimation in unresolved populations](Age%20estimation%20in%20unresolved%20populations.html)
 
 ---
 
@@ -108,17 +105,16 @@ to compare observed galaxy spectra to Lick/IDS models, three systematic correcti
 
 ![obs_sps-40.png](../../assets/images/obs_sps-40.png)
 *Key Lick indices: H-beta (age sensitive), Mg_b (alpha sensitive), Fe5270 and Fe5335 (iron sensitive).*
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
+  <h4 class="backlinks-title">Linked References (6)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Age%20estimation%20in%20unresolved%20populations.html" class="backlink-item">Age estimation in unresolved populations</a></li>
-    <li class="backlink-item-wrap"><a href="./Age-metallicity%20degeneracy.html" class="backlink-item">Age-metallicity degeneracy</a></li>
-    <li class="backlink-item-wrap"><a href="./Early-type%20galaxy%20stellar%20populations.html" class="backlink-item">Early-type galaxy stellar populations</a></li>
-    <li class="backlink-item-wrap"><a href="./Metallicity%20and%20chemical%20evolution.html" class="backlink-item">Metallicity and chemical evolution</a></li>
+    <li class="backlink-item-wrap"><a href="Age%20estimation%20in%20unresolved%20populations.html" class="backlink-item">Age estimation in unresolved populations</a></li>
+    <li class="backlink-item-wrap"><a href="Age-metallicity%20degeneracy.html" class="backlink-item">Age-metallicity degeneracy</a></li>
+    <li class="backlink-item-wrap"><a href="Metallicity%20and%20chemical%20evolution.html" class="backlink-item">Metallicity and chemical evolution</a></li>
+    <li class="backlink-item-wrap"><a href="Single%20stellar%20population%20SSP.html" class="backlink-item">Single stellar population SSP</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20population%20synthesis.html" class="backlink-item">Stellar population synthesis</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Single%20stellar%20population%20SSP.html" class="backlink-item">Single stellar population SSP</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20population%20synthesis.html" class="backlink-item">Stellar population synthesis</a></li>
   </ul>
 </div>
+

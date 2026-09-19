@@ -2,7 +2,6 @@
 layout: "default"
 title: "Radio astronomy basics"
 ---
-{% raw %}
 # Radio astronomy basics
 
 radio astronomy is *the* astronomy of long wavelengths — from cm to m, occasionally km. the techniques are very different from optical: heterodyne electronics, antenna temperatures, brightness temperatures, RFI, polarization. this zettel surveys the foundations needed before tackling radio interferometry.
@@ -161,4 +160,3 @@ source: local study diagram generated from the standard brightness-to-flux relat
 - [Major radio interferometers](interf/Major%20radio%20interferometers.html)
 - [Heterodyne vs direct detection](interf/Heterodyne%20vs%20direct%20detection.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

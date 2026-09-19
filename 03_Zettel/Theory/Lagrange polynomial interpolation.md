@@ -2,7 +2,6 @@
 layout: "default"
 title: "Lagrange polynomial interpolation"
 ---
-{% raw %}
 # Lagrange polynomial interpolation
 
 given $N + 1$ data points $(x_0, y_0), \ldots, (x_N, y_N)$ with distinct $x_i$, there is a **unique** polynomial of degree at most $N$ that passes through all of them. the Lagrange formula writes that polynomial explicitly without solving any linear system.
@@ -86,26 +85,26 @@ $$N(x) = a_0 + a_1 (x - x_0) + a_2 (x - x_0)(x - x_1) + \cdots$$
 
 with coefficients $a_i$ computed from divided differences. advantage: adding a new data point requires only $O(N)$ extra work (just compute one new divided difference and append a term), rather than rebuilding the whole polynomial.
 
-see [Newton divided differences](./Newton%20divided%20differences.html).
+see [Newton divided differences](Newton%20divided%20differences.html).
 
 ## see also
 
-- [Linear interpolation](./Linear%20interpolation.html)
-- [Cubic spline interpolation](./Cubic%20spline%20interpolation.html)
-- [Runge phenomenon](./Runge%20phenomenon.html)
-- [Newton divided differences](./Newton%20divided%20differences.html)
+- [Linear interpolation](Linear%20interpolation.html)
+- [Cubic spline interpolation](Cubic%20spline%20interpolation.html)
+- [Runge phenomenon](Runge%20phenomenon.html)
+- [Newton divided differences](Newton%20divided%20differences.html)
 - [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (7)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Cubic%20spline%20interpolation.html" class="backlink-item">Cubic spline interpolation</a></li>
-    <li class="backlink-item-wrap"><a href="./Linear%20interpolation.html" class="backlink-item">Linear interpolation</a></li>
+    <li class="backlink-item-wrap"><a href="Cubic%20spline%20interpolation.html" class="backlink-item">Cubic spline interpolation</a></li>
+    <li class="backlink-item-wrap"><a href="Linear%20interpolation.html" class="backlink-item">Linear interpolation</a></li>
+    <li class="backlink-item-wrap"><a href="Newton%20divided%20differences.html" class="backlink-item">Newton divided differences</a></li>
+    <li class="backlink-item-wrap"><a href="Runge%20phenomenon.html" class="backlink-item">Runge phenomenon</a></li>
+    <li class="backlink-item-wrap"><a href="Scipy%20interpolation%20tools.html" class="backlink-item">Scipy interpolation tools</a></li>
+    <li class="backlink-item-wrap"><a href="Two-dimensional%20interpolation.html" class="backlink-item">Two-dimensional interpolation</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Newton%20divided%20differences.html" class="backlink-item">Newton divided differences</a></li>
-    <li class="backlink-item-wrap"><a href="./Runge%20phenomenon.html" class="backlink-item">Runge phenomenon</a></li>
-    <li class="backlink-item-wrap"><a href="./Scipy%20interpolation%20tools.html" class="backlink-item">Scipy interpolation tools</a></li>
-    <li class="backlink-item-wrap"><a href="./Two-dimensional%20interpolation.html" class="backlink-item">Two-dimensional interpolation</a></li>
   </ul>
 </div>
+

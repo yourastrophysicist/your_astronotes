@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Pebble accretion and planetary orbital migration"
-name: "Pebble accretion and planetary orbital migration"
-description: "rapid core growth via aerodynamic gas drag, pebble isolation mass, and Type I and Type II disk migration"
 ---
-{% raw %}
 traditional planetesimal accretion struggles to form $10 M_\oplus$ cores before gas disks dissipate ($\sim 3\text{ Myr}$). **Pebble accretion** accelerates core growth by multiple orders of magnitude.
 
 ## pebble accretion mechanics
@@ -40,14 +37,14 @@ gravitational torques exchanged between an embedded planet and the surrounding g
 
 - [Exoplanetary_Astrophysics_MOC](../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)
 - [21_Protoplanetary_Disks_and_Planet_Formation_Mechanisms](../../02_Literature/Lectures/Exoplanetary_Astrophysics/21_Protoplanetary_Disks_and_Planet_Formation_Mechanisms.html)
-- [Protoplanetary disk evolution and core accretion paradigm](./Protoplanetary%20disk%20evolution%20and%20core%20accretion%20paradigm.html)
-- [Exoplanet demographic distributions and survey completeness](./Exoplanet%20demographic%20distributions%20and%20survey%20completeness.html)
-{% endraw %}
+- [Protoplanetary disk evolution and core accretion paradigm](Protoplanetary%20disk%20evolution%20and%20core%20accretion%20paradigm.html)
+- [Exoplanet demographic distributions and survey completeness](Exoplanet%20demographic%20distributions%20and%20survey%20completeness.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Protoplanetary%20disk%20evolution%20and%20core%20accretion%20paradigm.html" class="backlink-item">Protoplanetary disk evolution and core accretion paradigm</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Protoplanetary%20disk%20evolution%20and%20core%20accretion%20paradigm.html" class="backlink-item">Protoplanetary disk evolution and core accretion paradigm</a></li>
   </ul>
 </div>
+

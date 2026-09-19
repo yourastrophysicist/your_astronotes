@@ -2,7 +2,6 @@
 layout: "default"
 title: "Pablo_03_Star_formation_in_galaxies"
 ---
-{% raw %}
 # Pablo lecture 1B — star formation in galaxies
 
 up: [Observational_Cosmology_MOC](../../../04_Atlas/Observational_Cosmology_MOC.html)
@@ -133,10 +132,9 @@ Pablo stresses that the **ingredients** of any SPS model are: metallicity $Z$, I
 - Madau & Dickinson 2014 ARAA (cosmic SFH)
 - Conroy 2013 ARAA (stellar population synthesis)
 - Calzetti 2013 (SFR measurement review)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (22)</h4>
+  <h4 class="backlinks-title">Linked References (20)</h4>
   <ul class="backlinks-list">
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Balmer%20decrement.html" class="backlink-item">Balmer decrement</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Chemical%20evolution%20of%20galaxies.html" class="backlink-item">Chemical evolution of galaxies</a></li>
@@ -146,10 +144,7 @@ Pablo stresses that the **ingredients** of any SPS model are: metallicity $Z$, I
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/LIRGs%20ULIRGs%20HyLIRGs.html" class="backlink-item">LIRGs ULIRGs HyLIRGs</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Lyman%20alpha%20SFR%20tracer.html" class="backlink-item">Lyman alpha SFR tracer</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/OII%20SFR%20tracer.html" class="backlink-item">OII SFR tracer</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Other%20SFR%20tracer%20lines.html" class="backlink-item">Other SFR tracer lines</a></li>
-    <li class="backlink-item-wrap"><a href="./Pablo_04_Nuclear_activity_in_galaxies.html" class="backlink-item">Pablo_04_Nuclear_activity_in_galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="./Pablo_05_Galaxies_at_cosmological_distances.html" class="backlink-item">Pablo_05_Galaxies_at_cosmological_distances</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Post-starburst%20galaxies.html" class="backlink-item">Post-starburst galaxies</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Radio%20SFR%20tracer.html" class="backlink-item">Radio SFR tracer</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/SED%20fitting%20for%20SFH.html" class="backlink-item">SED fitting for SFH</a></li>
@@ -160,5 +155,7 @@ Pablo stresses that the **ingredients** of any SPS model are: metallicity $Z$, I
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Starburst%20galaxies.html" class="backlink-item">Starburst galaxies</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/UV%20slope%20and%20IRX-beta%20relation.html" class="backlink-item">UV slope and IRX-beta relation</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/X-ray%20SFR%20tracer.html" class="backlink-item">X-ray SFR tracer</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
   </ul>
 </div>
+

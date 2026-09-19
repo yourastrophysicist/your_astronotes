@@ -2,7 +2,6 @@
 layout: "default"
 title: "13_RV_Wavelength_Calibration_and_Error_Budgets"
 ---
-{% raw %}
 # Lesson 13 – Radial Velocity III: Wavelength Calibration and Error Budgets
 
 *Exoplanetary Astrophysics, Prof. Giampaolo Piotto (Lecture 24/11/2025)*  
@@ -135,14 +134,12 @@ At this level of instrumentation, the fundamental barrier to detecting habitable
 - Previous Lecture: [12_AI_and_Machine_Learning_in_Exoplanet_Science](./12_AI_and_Machine_Learning_in_Exoplanet_Science.html)
 - Next Lecture: [14_Stellar_Activity_and_Radial_Velocity_Jitter](./14_Stellar_Activity_and_Radial_Velocity_Jitter.html)
 - Related Notes: [Barycentric Julian Date and Time System Conversions](../../../03_Zettel/Computational/Barycentric%20Julian%20Date%20and%20Time%20System%20Conversions.html) | Radial velocity method and Keplerian orbits
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
+  <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./12_AI_and_Machine_Learning_in_Exoplanet_Science.html" class="backlink-item">12_AI_and_Machine_Learning_in_Exoplanet_Science</a></li>
-    <li class="backlink-item-wrap"><a href="./14_Stellar_Activity_and_Radial_Velocity_Jitter.html" class="backlink-item">14_Stellar_Activity_and_Radial_Velocity_Jitter</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/High-precision%20spectrographs%20and%20laser%20frequency%20combs.html" class="backlink-item">High-precision spectrographs and laser frequency combs</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

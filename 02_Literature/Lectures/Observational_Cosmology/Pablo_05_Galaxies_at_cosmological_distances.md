@@ -2,7 +2,6 @@
 layout: "default"
 title: "Pablo_05_Galaxies_at_cosmological_distances"
 ---
-{% raw %}
 # Pablo lecture 3 — galaxies at cosmological distances
 
 up: [Observational_Cosmology_MOC](../../../04_Atlas/Observational_Cosmology_MOC.html)
@@ -317,7 +316,6 @@ the question "when did reionization complete?" remains open. see Epoch of reioni
 - Springel et al. 2005 (Millennium Simulation)
 - Bouwens et al. 2010, Labbé et al. 2010 (z~7 galaxies)
 - Dole et al. 2006, Lagache et al. 2006 (cosmic backgrounds)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (4)</h4>
@@ -328,3 +326,4 @@ the question "when did reionization complete?" remains open. see Epoch of reioni
     <li class="backlink-item-wrap"><a href="../../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
   </ul>
 </div>
+

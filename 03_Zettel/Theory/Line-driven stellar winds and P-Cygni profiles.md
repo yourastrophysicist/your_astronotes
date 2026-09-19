@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Line-driven stellar winds and P-Cygni profiles"
-name: "Line-driven stellar winds and P-Cygni profiles"
-description: "radiation pressure on resonance lines, Eddington parameter, modified escape velocity, and P-Cygni profile spectroscopy"
 ---
-{% raw %}
 massive O, B, and Wolf-Rayet stars lose up to half their initial mass via radiation-pressure-driven stellar winds.
 
 ## the eddington factor and modified escape velocity
@@ -42,14 +39,13 @@ combining both produces the diagnostic P-Cygni profile: blue absorption trough +
 
 - [Astrophysics_of_the_Interstellar_Medium_MOC](../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html)
 - [Carraro_04_Massive_Stars_Feedback_and_Stellar_Winds](../../02_Literature/Lectures/Interstellar_Medium/Carraro_04_Massive_Stars_Feedback_and_Stellar_Winds.html)
-- [Superbubbles galactic chimneys and fountains](./Superbubbles%20galactic%20chimneys%20and%20fountains.html)
-{% endraw %}
+- [Superbubbles galactic chimneys and fountains](Superbubbles%20galactic%20chimneys%20and%20fountains.html)
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
+  <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Parker%20solar%20wind%20and%20transonic%20critical%20point.html" class="backlink-item">Parker solar wind and transonic critical point</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html" class="backlink-item">Astrophysics_of_the_Interstellar_Medium_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Interstellar_Medium/Carraro_04_Massive_Stars_Feedback_and_Stellar_Winds.html" class="backlink-item">Carraro_04_Massive_Stars_Feedback_and_Stellar_Winds</a></li>
-    <li class="backlink-item-wrap"><a href="./Parker%20solar%20wind%20and%20transonic%20critical%20point.html" class="backlink-item">Parker solar wind and transonic critical point</a></li>
   </ul>
 </div>
+

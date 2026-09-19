@@ -2,7 +2,6 @@
 layout: "default"
 title: "Variable stars as standard candles"
 ---
-{% raw %}
 certain pulsating variable stars have intrinsic luminosities that are predictable from their pulsation properties (period, light-curve shape). they are the **primary standard candles** that bridge the gap from parallax-known nearby stars out to galaxies tens of Mpc away.
 
 ## the three main families
@@ -16,7 +15,7 @@ calibration (HST + Gaia + Wesenheit relations): $b \approx -2.78$, $a \approx -1
 
 range: $\sim 30$ Mpc with HST; pushes to $\sim 100$ Mpc with JWST.
 
-calibrators: Galactic Cepheids with Gaia parallaxes; SMC and LMC Cepheids with eclipsing-binary geometric distances. see [Cepheid period-luminosity relation](./Cepheid%20period-luminosity%20relation.html).
+calibrators: Galactic Cepheids with Gaia parallaxes; SMC and LMC Cepheids with eclipsing-binary geometric distances. see [Cepheid period-luminosity relation](Cepheid%20period-luminosity%20relation.html).
 
 ### RR Lyrae
 
@@ -59,13 +58,13 @@ modern best practice: cross-check Cepheid + TRGB + Mira distances to the same ga
 
 ## see also
 
-- [Cepheid period-luminosity relation](./Cepheid%20period-luminosity%20relation.html)
-- [Distance ladder derivations](./Distance%20ladder%20derivations.html)
-- [TRGB tip of the red giant branch](./TRGB%20tip%20of%20the%20red%20giant%20branch.html)
-- [Cepheids and supernovae](./Cepheids%20and%20supernovae.html)
-- [Type Ia supernovae as standard candles](./Type%20Ia%20supernovae%20as%20standard%20candles.html)
-- [Annual stellar parallax](./Annual%20stellar%20parallax.html)
-- [Color-magnitude diagrams of clusters](./Color-magnitude%20diagrams%20of%20clusters.html)
+- [Cepheid period-luminosity relation](Cepheid%20period-luminosity%20relation.html)
+- [Distance ladder derivations](Distance%20ladder%20derivations.html)
+- [TRGB tip of the red giant branch](TRGB%20tip%20of%20the%20red%20giant%20branch.html)
+- [Cepheids and supernovae](Cepheids%20and%20supernovae.html)
+- [Type Ia supernovae as standard candles](Type%20Ia%20supernovae%20as%20standard%20candles.html)
+- [Annual stellar parallax](Annual%20stellar%20parallax.html)
+- [Color-magnitude diagrams of clusters](Color-magnitude%20diagrams%20of%20clusters.html)
 
 ---
 
@@ -88,14 +87,14 @@ modern best practice: cross-check Cepheid + TRGB + Mira distances to the same ga
 
 ![obs_dist-24.png](../../assets/images/obs_dist-24.png)
 *HST Key Project on Extragalactic Distance Scale (Freedman et al. 2001).*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Cepheid%20period-luminosity%20relation.html" class="backlink-item">Cepheid period-luminosity relation</a></li>
-    <li class="backlink-item-wrap"><a href="./Color-magnitude%20diagrams%20of%20clusters.html" class="backlink-item">Color-magnitude diagrams of clusters</a></li>
+    <li class="backlink-item-wrap"><a href="Cepheid%20period-luminosity%20relation.html" class="backlink-item">Cepheid period-luminosity relation</a></li>
+    <li class="backlink-item-wrap"><a href="Color-magnitude%20diagrams%20of%20clusters.html" class="backlink-item">Color-magnitude diagrams of clusters</a></li>
+    <li class="backlink-item-wrap"><a href="TRGB%20tip%20of%20the%20red%20giant%20branch.html" class="backlink-item">TRGB tip of the red giant branch</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./TRGB%20tip%20of%20the%20red%20giant%20branch.html" class="backlink-item">TRGB tip of the red giant branch</a></li>
   </ul>
 </div>
+

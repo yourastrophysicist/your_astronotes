@@ -2,7 +2,6 @@
 layout: "default"
 title: "Rotational broadening"
 ---
-{% raw %}
 a rotating star has its near limb moving toward the observer (blueshift) and far limb moving away (redshift). disk-integrated, this distributes the line over a velocity range, broadening it without changing equivalent width.
 
 ## the line profile
@@ -55,7 +54,7 @@ rotation rate evolves with age: young stars rotate fast, then magnetic braking s
 
 ### Be stars and Wolf-Rayet stars
 
-extreme rotators near break-up. material flung off into circumstellar disks gives the characteristic emission-line spectra (see [Emission line stars](./Emission%20line%20stars.html)).
+extreme rotators near break-up. material flung off into circumstellar disks gives the characteristic emission-line spectra (see [Emission line stars](Emission%20line%20stars.html)).
 
 ### exoplanets via Rossiter-McLaughlin
 
@@ -63,26 +62,26 @@ a planet transiting in front of a rotating star occults different velocity compo
 
 ## see also
 
-- [Line profile function phi nu](./Line%20profile%20function%20phi%20nu.html)
-- [Macroturbulence](./Macroturbulence.html)
-- [Microturbulence](./Microturbulence.html)
-- [Voigt profile](./Voigt%20profile.html)
-- [Stellar v sin i from line shape](./Stellar%20v%20sin%20i%20from%20line%20shape.html)
-- [Echelle spectroscopy](./Echelle%20spectroscopy.html)
-- [Stellar velocity from Doppler shift](./Stellar%20velocity%20from%20Doppler%20shift.html)
-- [Emission line stars](./Emission%20line%20stars.html)
-{% endraw %}
+- [Line profile function phi nu](Line%20profile%20function%20phi%20nu.html)
+- [Macroturbulence](Macroturbulence.html)
+- [Microturbulence](Microturbulence.html)
+- [Voigt profile](Voigt%20profile.html)
+- [Stellar v sin i from line shape](Stellar%20v%20sin%20i%20from%20line%20shape.html)
+- [Echelle spectroscopy](Echelle%20spectroscopy.html)
+- [Stellar velocity from Doppler shift](Stellar%20velocity%20from%20Doppler%20shift.html)
+- [Emission line stars](Emission%20line%20stars.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (8)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Emission%20line%20stars.html" class="backlink-item">Emission line stars</a></li>
+    <li class="backlink-item-wrap"><a href="Line%20profile%20function%20phi%20nu.html" class="backlink-item">Line profile function phi nu</a></li>
+    <li class="backlink-item-wrap"><a href="Macroturbulence.html" class="backlink-item">Macroturbulence</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20v%20sin%20i%20from%20line%20shape.html" class="backlink-item">Stellar v sin i from line shape</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20velocity%20from%20Doppler%20shift.html" class="backlink-item">Stellar velocity from Doppler shift</a></li>
+    <li class="backlink-item-wrap"><a href="Velocity%20dispersion%20from%20line%20width.html" class="backlink-item">Velocity dispersion from line width</a></li>
+    <li class="backlink-item-wrap"><a href="Voigt%20profile.html" class="backlink-item">Voigt profile</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Emission%20line%20stars.html" class="backlink-item">Emission line stars</a></li>
-    <li class="backlink-item-wrap"><a href="./Line%20profile%20function%20phi%20nu.html" class="backlink-item">Line profile function phi nu</a></li>
-    <li class="backlink-item-wrap"><a href="./Macroturbulence.html" class="backlink-item">Macroturbulence</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20v%20sin%20i%20from%20line%20shape.html" class="backlink-item">Stellar v sin i from line shape</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20velocity%20from%20Doppler%20shift.html" class="backlink-item">Stellar velocity from Doppler shift</a></li>
-    <li class="backlink-item-wrap"><a href="./Velocity%20dispersion%20from%20line%20width.html" class="backlink-item">Velocity dispersion from line width</a></li>
-    <li class="backlink-item-wrap"><a href="./Voigt%20profile.html" class="backlink-item">Voigt profile</a></li>
   </ul>
 </div>
+

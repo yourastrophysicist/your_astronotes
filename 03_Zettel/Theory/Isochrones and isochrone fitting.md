@@ -1,11 +1,8 @@
 ---
 layout: "default"
 title: "Isochrones and isochrone fitting"
-name: "Isochrones and isochrone fitting"
-description: "theoretical loci of coeval stars at fixed age and metallicity, the modern grids (PARSEC, DSEP, BaSTI), and how they are fit to cluster CMDs"
 ---
-{% raw %}
-an **isochrone** is the locus, in either the [HR diagram](./HR%20diagram.html) or its observational CMD projection, of stars that share the same *age* and *initial chemical composition* but cover the full range of *initial masses*. it is the natural model for a coeval, chemically homogeneous stellar population and therefore the workhorse comparison object for [Color-magnitude diagrams of clusters](./Color-magnitude%20diagrams%20of%20clusters.html).
+an **isochrone** is the locus, in either the [HR diagram](HR%20diagram.html) or its observational CMD projection, of stars that share the same *age* and *initial chemical composition* but cover the full range of *initial masses*. it is the natural model for a coeval, chemically homogeneous stellar population and therefore the workhorse comparison object for [Color-magnitude diagrams of clusters](Color-magnitude%20diagrams%20of%20clusters.html).
 
 construction. starting from a grid of stellar evolution tracks $(L(t,M), T_\mathrm{eff}(t,M))$ for many initial masses $M$ at fixed initial composition $(Y, [\mathrm{Fe}/\mathrm{H}], [\alpha/\mathrm{Fe}])$, an isochrone at age $t$ is constructed by interpolating across tracks at constant $t$. the result is a curve in $(\log L, \log T_\mathrm{eff})$ parametrised by $M$, running from the un-evolved low-mass end of the MS through the TO, SGB, RGB, HB or RC, AGB, and (in some grids) the white dwarf cooling sequence. each point along the curve corresponds to a star of specific initial mass that is *currently* in the corresponding evolutionary state at age $t$.
 
@@ -23,7 +20,7 @@ what isochrone fitting actually solves. given a cluster CMD with measured magnit
 $$ \theta = (t, [\mathrm{Fe}/\mathrm{H}], (m-M)_0, E(B-V)) $$
 by minimising a likelihood that compares the data to a *shifted, reddened isochrone*:
 $$ M_V = m_V - (m-M)_0 - A_V, \quad (B-V)_0 = (B-V) - E(B-V) $$
-with $A_V \approx 3.1 \, E(B-V)$. priors come from independent constraints: $[\mathrm{Fe}/\mathrm{H}]$ from spectroscopy of cluster members; $(m-M)_0$ from gaia parallaxes for nearby clusters or RR Lyrae for GCs; $E(B-V)$ from dust maps (schlegel, schlafly, planck). degeneracies are real: the [Age-metallicity degeneracy](./Age-metallicity%20degeneracy.html) couples $t$ and $[\mathrm{Fe}/\mathrm{H}]$, and a *reddening-distance degeneracy* couples $E(B-V)$ and $(m-M)_0$ along the reddening vector in the CMD.
+with $A_V \approx 3.1 \, E(B-V)$. priors come from independent constraints: $[\mathrm{Fe}/\mathrm{H}]$ from spectroscopy of cluster members; $(m-M)_0$ from gaia parallaxes for nearby clusters or RR Lyrae for GCs; $E(B-V)$ from dust maps (schlegel, schlafly, planck). degeneracies are real: the [Age-metallicity degeneracy](Age-metallicity%20degeneracy.html) couples $t$ and $[\mathrm{Fe}/\mathrm{H}]$, and a *reddening-distance degeneracy* couples $E(B-V)$ and $(m-M)_0$ along the reddening vector in the CMD.
 
 three philosophies of fit:
 
@@ -39,19 +36,19 @@ the result of a successful isochrone fit is the *simultaneous* determination of 
 
 ## see also
 - [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
-- [Main sequence turn-off as age indicator](./Main%20sequence%20turn-off%20as%20age%20indicator.html)
+- [Main sequence turn-off as age indicator](Main%20sequence%20turn-off%20as%20age%20indicator.html)
 - Cluster age from main sequence turn-off
 - Distance modulus from CMD
-- [Age-metallicity degeneracy](./Age-metallicity%20degeneracy.html)
-- [Single stellar population SSP](./Single%20stellar%20population%20SSP.html)
-{% endraw %}
+- [Age-metallicity degeneracy](Age-metallicity%20degeneracy.html)
+- [Single stellar population SSP](Single%20stellar%20population%20SSP.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Color-magnitude%20diagrams%20of%20clusters.html" class="backlink-item">Color-magnitude diagrams of clusters</a></li>
-    <li class="backlink-item-wrap"><a href="./Main%20sequence%20turn-off%20as%20age%20indicator.html" class="backlink-item">Main sequence turn-off as age indicator</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20evolutionary%20phases%20on%20the%20CMD.html" class="backlink-item">Stellar evolutionary phases on the CMD</a></li>
+    <li class="backlink-item-wrap"><a href="Color-magnitude%20diagrams%20of%20clusters.html" class="backlink-item">Color-magnitude diagrams of clusters</a></li>
+    <li class="backlink-item-wrap"><a href="Main%20sequence%20turn-off%20as%20age%20indicator.html" class="backlink-item">Main sequence turn-off as age indicator</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20evolutionary%20phases%20on%20the%20CMD.html" class="backlink-item">Stellar evolutionary phases on the CMD</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

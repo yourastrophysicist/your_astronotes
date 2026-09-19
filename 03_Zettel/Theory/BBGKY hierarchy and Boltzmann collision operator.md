@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "BBGKY hierarchy and Boltzmann collision operator"
-name: "BBGKY hierarchy and Boltzmann collision operator"
-description: "derivation of the kinetic hierarchy and the closure via molecular chaos to obtain the Boltzmann collision integral"
 ---
-{% raw %}
 integrating the $6N$-dimensional Liouville equation over subsets of particle coordinates yields the Bogoliubov-Born-Green-Kirkwood-Yvon (BBGKY) hierarchy, connecting $s$-particle reduced distribution functions to $(s+1)$-particle distributions.
 
 ## reduced distribution functions
@@ -39,15 +36,15 @@ with relative velocity $g = \lvert \mathbf{v} - \mathbf{v}_1\rvert$, and primed 
 
 - [Fluid_and_Plasma_Dynamics_MOC](../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html)
 - [Part1_Kinetic_Foundations_and_Fluid_Equations](../../02_Literature/Lectures/Fluid_and_Plasma_Dynamics/Part1_Kinetic_Foundations_and_Fluid_Equations.html)
-- [Liouville theorem and phase space incompressibility](./Liouville%20theorem%20and%20phase%20space%20incompressibility.html)
-- [Boltzmann H-theorem and Maxwellian distribution](./Boltzmann%20H-theorem%20and%20Maxwellian%20distribution.html)
-{% endraw %}
+- [Liouville theorem and phase space incompressibility](Liouville%20theorem%20and%20phase%20space%20incompressibility.html)
+- [Boltzmann H-theorem and Maxwellian distribution](Boltzmann%20H-theorem%20and%20Maxwellian%20distribution.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Boltzmann%20H-theorem%20and%20Maxwellian%20distribution.html" class="backlink-item">Boltzmann H-theorem and Maxwellian distribution</a></li>
+    <li class="backlink-item-wrap"><a href="Boltzmann%20H-theorem%20and%20Maxwellian%20distribution.html" class="backlink-item">Boltzmann H-theorem and Maxwellian distribution</a></li>
+    <li class="backlink-item-wrap"><a href="Liouville%20theorem%20and%20phase%20space%20incompressibility.html" class="backlink-item">Liouville theorem and phase space incompressibility</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Liouville%20theorem%20and%20phase%20space%20incompressibility.html" class="backlink-item">Liouville theorem and phase space incompressibility</a></li>
   </ul>
 </div>
+

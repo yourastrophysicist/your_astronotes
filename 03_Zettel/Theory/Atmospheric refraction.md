@@ -2,7 +2,6 @@
 layout: "default"
 title: "Atmospheric refraction"
 ---
-{% raw %}
 light rays from extraterrestrial astronomical sources travel through vacuum until they encounter Earth's atmosphere. because air has a refractive index $n > 1$ that increases continuously toward the surface as gas density rises, light rays bend progressively towards the normal (the local zenith). 
 
 consequence: **all celestial objects appear higher above the horizon than their true geometric position**.
@@ -68,9 +67,8 @@ as a result, point-like stars observed at high airmass ($z > 30^\circ$) are disp
 ## see also
 
 - [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Horizontal alt-azimuth system](./Horizontal%20alt-azimuth%20system.html)
-- [Earth coordinates](./Earth%20coordinates.html)
-- [Precession and nutation](./Precession%20and%20nutation.html)
-- [Aberration of light](./Aberration%20of%20light.html)
-- [Annual stellar parallax](./Annual%20stellar%20parallax.html)
-{% endraw %}
+- [Horizontal alt-azimuth system](Horizontal%20alt-azimuth%20system.html)
+- [Earth coordinates](Earth%20coordinates.html)
+- [Precession and nutation](Precession%20and%20nutation.html)
+- [Aberration of light](Aberration%20of%20light.html)
+- [Annual stellar parallax](Annual%20stellar%20parallax.html)

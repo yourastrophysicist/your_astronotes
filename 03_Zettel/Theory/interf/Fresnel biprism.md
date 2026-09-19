@@ -2,7 +2,6 @@
 layout: "default"
 title: "Fresnel biprism"
 ---
-{% raw %}
 # Fresnel biprism
 
 Fresnel's elegant single-element interferometer. a glass prism with a very small apex angle (close to 180°) refracts light from a single source into two slightly-deflected beams that *appear* to come from two distinct virtual sources. those virtual sources interfere at the screen, producing Young-like fringes.
@@ -54,22 +53,22 @@ same as Young's experiment:
 
 ## see also
 
-- [Wavefront-division interferometers](./Wavefront-division%20interferometers.html)
-- [Fresnel double mirror](./Fresnel%20double%20mirror.html)
-- [Lloyd mirror](./Lloyd%20mirror.html)
-- [Young experiment as a stellar interferometer](./Young%20experiment%20as%20a%20stellar%20interferometer.html)
+- [Wavefront-division interferometers](Wavefront-division%20interferometers.html)
+- [Fresnel double mirror](Fresnel%20double%20mirror.html)
+- [Lloyd mirror](Lloyd%20mirror.html)
+- [Young experiment as a stellar interferometer](Young%20experiment%20as%20a%20stellar%20interferometer.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (7)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Fresnel%20double%20mirror.html" class="backlink-item">Fresnel double mirror</a></li>
     <li class="backlink-item-wrap"><a href="../Fresnel%20double%20mirror.html" class="backlink-item">Fresnel double mirror</a></li>
     <li class="backlink-item-wrap"><a href="../Lloyd%20mirror.html" class="backlink-item">Lloyd mirror</a></li>
-    <li class="backlink-item-wrap"><a href="./Lloyd%20mirror.html" class="backlink-item">Lloyd mirror</a></li>
-    <li class="backlink-item-wrap"><a href="./Wavefront-division%20interferometers.html" class="backlink-item">Wavefront-division interferometers</a></li>
     <li class="backlink-item-wrap"><a href="../Wavefront-division%20interferometers.html" class="backlink-item">Wavefront-division interferometers</a></li>
+    <li class="backlink-item-wrap"><a href="Fresnel%20double%20mirror.html" class="backlink-item">Fresnel double mirror</a></li>
+    <li class="backlink-item-wrap"><a href="Lloyd%20mirror.html" class="backlink-item">Lloyd mirror</a></li>
+    <li class="backlink-item-wrap"><a href="Wavefront-division%20interferometers.html" class="backlink-item">Wavefront-division interferometers</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

@@ -2,7 +2,6 @@
 layout: "default"
 title: "04_Frequentist_vs_Bayesian_Inference_and_Confidence_Intervals"
 ---
-{% raw %}
 # Frequentist versus Bayesian Inference and Confidence Interval Subtleties
 
 Graduate lecture notes in Astro-Statistics and Cosmology, taught by Prof. Michele Liguori at the University of Padua.
@@ -150,16 +149,13 @@ This paradox underscores that statistical significance in the frequentist sense 
 - [01_Plausible_Reasoning_Cox_Theorem_and_Bayesian_Foundations](./01_Plausible_Reasoning_Cox_Theorem_and_Bayesian_Foundations.html) - Cox theorem and probability foundations
 - [02_Parameter_Estimation_Gaussian_Noise_and_Credible_Intervals](./02_Parameter_Estimation_Gaussian_Noise_and_Credible_Intervals.html) - Credible intervals and HPD regions
 - [11_Model_Selection_Bayesian_Evidence_and_Savage_Dickey_Ratio](./11_Model_Selection_Bayesian_Evidence_and_Savage_Dickey_Ratio.html) - Bayes factors and quantitative Occam factors resolving Lindley's paradox
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
+  <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./01_Plausible_Reasoning_Cox_Theorem_and_Bayesian_Foundations.html" class="backlink-item">01_Plausible_Reasoning_Cox_Theorem_and_Bayesian_Foundations</a></li>
-    <li class="backlink-item-wrap"><a href="./02_Parameter_Estimation_Gaussian_Noise_and_Credible_Intervals.html" class="backlink-item">02_Parameter_Estimation_Gaussian_Noise_and_Credible_Intervals</a></li>
-    <li class="backlink-item-wrap"><a href="./11_Model_Selection_Bayesian_Evidence_and_Savage_Dickey_Ratio.html" class="backlink-item">11_Model_Selection_Bayesian_Evidence_and_Savage_Dickey_Ratio</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Frequentist%20confidence%20intervals%20versus%20Bayesian%20credible%20regions.html" class="backlink-item">Frequentist confidence intervals versus Bayesian credible regions</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Lindley%20paradox%20in%20statistical%20hypothesis%20testing.html" class="backlink-item">Lindley paradox in statistical hypothesis testing</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
   </ul>
 </div>
+

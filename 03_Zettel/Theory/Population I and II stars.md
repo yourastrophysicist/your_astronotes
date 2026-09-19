@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Population I and II stars"
-name: "Population I and II stars"
-description: "Baade's 1944 kinematic-chemical classification and its modern interpretation, plus the hypothetical first stars"
 ---
-{% raw %}
 ![L01_p23_stellar_pop_I_II-23.png](../../assets/images/L01_p23_stellar_pop_I_II-23.png)
 *Pop I (open clusters, disk) vs Pop II (GCs, halo) in the Milky Way, the original schematic carrying Baade's 1944 distinction into modern terms.*
 
@@ -12,9 +9,9 @@ the population concept was introduced by **walter baade in 1944** during the WWI
 
 the modern decomposition retains baade's binary but reads it as a coupled chemical-kinematic-age sequence rather than two separate populations.
 
-**population I** stars are *young* ($\lesssim$ a few Gyr), *metal-rich* ($[\mathrm{Fe}/\mathrm{H}] \gtrsim -0.5$), have *disk kinematics* (low velocity dispersion, low scale height, near-circular orbits with $v_\phi \approx 220$ km/s in the milky way), and live in the thin disk and spiral arms. they include the open clusters (see [Open clusters as young SSP laboratories](./Open%20clusters%20as%20young%20SSP%20laboratories.html)), OB associations, and the gas/dust of the ISM. classical pop I contains all the bright blue stars used to trace spiral structure: O, B, and early A on the main sequence; cepheids; supergiants. the sun, slightly old and slightly metal-rich for its kinematic location, is sometimes called "intermediate" pop I.
+**population I** stars are *young* ($\lesssim$ a few Gyr), *metal-rich* ($[\mathrm{Fe}/\mathrm{H}] \gtrsim -0.5$), have *disk kinematics* (low velocity dispersion, low scale height, near-circular orbits with $v_\phi \approx 220$ km/s in the milky way), and live in the thin disk and spiral arms. they include the open clusters (see [Open clusters as young SSP laboratories](Open%20clusters%20as%20young%20SSP%20laboratories.html)), OB associations, and the gas/dust of the ISM. classical pop I contains all the bright blue stars used to trace spiral structure: O, B, and early A on the main sequence; cepheids; supergiants. the sun, slightly old and slightly metal-rich for its kinematic location, is sometimes called "intermediate" pop I.
 
-**population II** stars are *old* ($\gtrsim 10$ Gyr), *metal-poor* ($[\mathrm{Fe}/\mathrm{H}] \lesssim -1$, with the most metal-poor halo stars at $[\mathrm{Fe}/\mathrm{H}] \lesssim -4$), have *halo kinematics* (high velocity dispersion $\sim 100$ km/s, near-isotropic, with low net rotation, on radial plunging orbits), and live in the stellar halo and bulge. they include all old [Globular Clusters](./Globular%20Clusters.html) (see [Globular clusters as SSP laboratories](./Globular%20clusters%20as%20SSP%20laboratories.html)), the field halo stars, and the bulge giants (which are old but metal-rich, blurring the simple chemical-kinematic split). pop II turn-offs sit at $M_\mathrm{TO} \sim 0.85 \, M_\odot$ and the brightest stars are red giants on the red giant branch and the horizontal branch, not blue MS stars.
+**population II** stars are *old* ($\gtrsim 10$ Gyr), *metal-poor* ($[\mathrm{Fe}/\mathrm{H}] \lesssim -1$, with the most metal-poor halo stars at $[\mathrm{Fe}/\mathrm{H}] \lesssim -4$), have *halo kinematics* (high velocity dispersion $\sim 100$ km/s, near-isotropic, with low net rotation, on radial plunging orbits), and live in the stellar halo and bulge. they include all old [Globular Clusters](Globular%20Clusters.html) (see [Globular clusters as SSP laboratories](Globular%20clusters%20as%20SSP%20laboratories.html)), the field halo stars, and the bulge giants (which are old but metal-rich, blurring the simple chemical-kinematic split). pop II turn-offs sit at $M_\mathrm{TO} \sim 0.85 \, M_\odot$ and the brightest stars are red giants on the red giant branch and the horizontal branch, not blue MS stars.
 
 a useful intermediate category, **thick-disk** or "intermediate population II", was added later: stars of moderate age ($\sim 10$ Gyr) and intermediate metallicity ($-1 \lesssim [\mathrm{Fe}/\mathrm{H}] \lesssim -0.3$) with vertical scale height $\sim 1$ kpc and lagging rotation $v_\phi \sim 180$ km/s. modern chemodynamical surveys (gaia-eso, GALAH, APOGEE) refine this further into in-situ thick disk, accreted halo (gaia-enceladus), and splash components.
 
@@ -24,19 +21,19 @@ the population scheme has aged into a *three-axis* picture: chemistry $[\mathrm{
 
 ## see also
 - [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
-- [Stellar populations I II III](./Stellar%20populations%20I%20II%20III.html)
-- [Globular clusters as SSP laboratories](./Globular%20clusters%20as%20SSP%20laboratories.html)
-- [Open clusters as young SSP laboratories](./Open%20clusters%20as%20young%20SSP%20laboratories.html)
-- [Age-metallicity degeneracy](./Age-metallicity%20degeneracy.html)
-- [Color-magnitude diagrams of clusters](./Color-magnitude%20diagrams%20of%20clusters.html)
-{% endraw %}
+- [Stellar populations I II III](Stellar%20populations%20I%20II%20III.html)
+- [Globular clusters as SSP laboratories](Globular%20clusters%20as%20SSP%20laboratories.html)
+- [Open clusters as young SSP laboratories](Open%20clusters%20as%20young%20SSP%20laboratories.html)
+- [Age-metallicity degeneracy](Age-metallicity%20degeneracy.html)
+- [Color-magnitude diagrams of clusters](Color-magnitude%20diagrams%20of%20clusters.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Globular%20clusters%20as%20SSP%20laboratories.html" class="backlink-item">Globular clusters as SSP laboratories</a></li>
-    <li class="backlink-item-wrap"><a href="./Metallicity%20and%20chemical%20evolution.html" class="backlink-item">Metallicity and chemical evolution</a></li>
-    <li class="backlink-item-wrap"><a href="./Open%20clusters%20as%20young%20SSP%20laboratories.html" class="backlink-item">Open clusters as young SSP laboratories</a></li>
+    <li class="backlink-item-wrap"><a href="Globular%20clusters%20as%20SSP%20laboratories.html" class="backlink-item">Globular clusters as SSP laboratories</a></li>
+    <li class="backlink-item-wrap"><a href="Metallicity%20and%20chemical%20evolution.html" class="backlink-item">Metallicity and chemical evolution</a></li>
+    <li class="backlink-item-wrap"><a href="Open%20clusters%20as%20young%20SSP%20laboratories.html" class="backlink-item">Open clusters as young SSP laboratories</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

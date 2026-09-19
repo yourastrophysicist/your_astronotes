@@ -2,7 +2,6 @@
 layout: "default"
 title: "Geodesic deviation"
 ---
-{% raw %}
 the **geodesic deviation equation** is the GR formulation of **tidal force**: it tells you how the separation between two nearby free-falling observers evolves due to the curvature of spacetime.
 
 ## the setup
@@ -50,28 +49,26 @@ this is **directly geodesic deviation**: the test masses are in free fall, and t
 
 ## see also
 
-- [Riemann tensor](./Riemann%20tensor.html)
-- [Geodesic equation](./Geodesic%20equation.html)
-- [Ricci tensor and scalar](./Ricci%20tensor%20and%20scalar.html)
-- [Newtonian limit of GR](./Newtonian%20limit%20of%20GR.html)
-- [Geodesic deviation under a GW](./Geodesic%20deviation%20under%20a%20GW.html)
-- [Plus and cross polarizations](./Plus%20and%20cross%20polarizations.html)
-- [Schwarzschild effective potential](./Schwarzschild%20effective%20potential.html)
+- [Riemann tensor](Riemann%20tensor.html)
+- [Geodesic equation](Geodesic%20equation.html)
+- [Ricci tensor and scalar](Ricci%20tensor%20and%20scalar.html)
+- [Newtonian limit of GR](Newtonian%20limit%20of%20GR.html)
+- [Geodesic deviation under a GW](Geodesic%20deviation%20under%20a%20GW.html)
+- [Plus and cross polarizations](Plus%20and%20cross%20polarizations.html)
+- [Schwarzschild effective potential](Schwarzschild%20effective%20potential.html)
 - Q17 - Riemann R_0x0x for a TT plane wave
 - [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
 - [Ch 4 - Spacetime Curvature](../../02_Literature/Book/Baumann%20GR/Ch%204%20-%20Spacetime%20Curvature.html)
 - [Ch 8 - Gravitational Waves](../../02_Literature/Book/Baumann%20GR/Ch%208%20-%20Gravitational%20Waves.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
+  <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Book/Baumann%20GR/Ch%201%20-%20Gravity%20is%20Geometry.html" class="backlink-item">Ch 1 - Gravity is Geometry</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Book/Baumann%20GR/Ch%204%20-%20Spacetime%20Curvature.html" class="backlink-item">Ch 4 - Spacetime Curvature</a></li>
+    <li class="backlink-item-wrap"><a href="Geodesic%20deviation%20under%20a%20GW.html" class="backlink-item">Geodesic deviation under a GW</a></li>
+    <li class="backlink-item-wrap"><a href="Geodesic%20equation.html" class="backlink-item">Geodesic equation</a></li>
+    <li class="backlink-item-wrap"><a href="Locally%20inertial%20frame.html" class="backlink-item">Locally inertial frame</a></li>
+    <li class="backlink-item-wrap"><a href="Riemann%20tensor.html" class="backlink-item">Riemann tensor</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Geodesic%20deviation%20under%20a%20GW.html" class="backlink-item">Geodesic deviation under a GW</a></li>
-    <li class="backlink-item-wrap"><a href="./Geodesic%20equation.html" class="backlink-item">Geodesic equation</a></li>
-    <li class="backlink-item-wrap"><a href="./Locally%20inertial%20frame.html" class="backlink-item">Locally inertial frame</a></li>
-    <li class="backlink-item-wrap"><a href="./Riemann%20tensor.html" class="backlink-item">Riemann tensor</a></li>
   </ul>
 </div>
+

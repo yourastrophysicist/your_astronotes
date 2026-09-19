@@ -2,8 +2,7 @@
 layout: "default"
 title: "Malavolta 09 - TESS Light Curve Processing and Systematic Correction"
 ---
-{% raw %}
-# Malavolta 09 ? TESS Light Curve Processing and Systematic Correction
+# Malavolta 09 — TESS Light Curve Processing and Systematic Correction
 
 *Astrophysics Laboratory 2, Prof. Luca Malavolta*  
 *Index: [Astrophysics_Laboratory_2_MOC](../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html)*
@@ -89,13 +88,12 @@ $$F_{\text{norm, sector}}(t) = \frac{F_{\text{PDC}}(t)}{\text{median}(F_{\text{P
 
 ![Raw vs Corrected TESS Light Curve](../../../assets/images/lab2_lightcurve_p02.png)
 *Figure LAB2-02: Systematic noise detrending of raw TESS SAP (Simple Aperture Photometry) flux compared to PDC-SAP (Pre-search Data Conditioning SAP) flux, removing instrumental spacecraft momentum dumps and Earth thermal flares.*
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
+  <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Malavolta%2008%20-%20TESS%20Mission%20Architecture%20and%20Target%20Pixel%20Files.html" class="backlink-item">Malavolta 08 - TESS Mission Architecture and Target Pixel Files</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Observations/TESS%20SAP%20vs%20PDCSAP%20Flux%20and%20Cotrending%20Basis%20Vectors.html" class="backlink-item">TESS SAP vs PDCSAP Flux and Cotrending Basis Vectors</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
   </ul>
 </div>
+

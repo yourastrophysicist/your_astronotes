@@ -2,7 +2,6 @@
 layout: "default"
 title: "AGN and supermassive black holes"
 ---
-{% raw %}
 # AGN and supermassive black holes
 
 interferometric imaging of active galactic nuclei (AGN) at the highest possible angular resolution. **EHT 2019 image of M87** is the canonical example: direct observation of the photon ring around a supermassive black hole. modern interferometry probes:
@@ -45,7 +44,7 @@ masses inferred from:
 EHT 2022 published the first image of Sgr A* itself:
 - **bright ring** of size ~50 μas (smaller than M87 because Sgr A* is closer)
 - **dark center** also from the photon sphere
-- mass $M_{\rm BH} = 4.3 \times 10^6 M_\odot$, consistent with [GRAVITY S-star](./Galactic%20Center%20Sgr%20A%20and%20S-stars.html) measurements
+- mass $M_{\rm BH} = 4.3 \times 10^6 M_\odot$, consistent with [GRAVITY S-star](Galactic%20Center%20Sgr%20A%20and%20S-stars.html) measurements
 
 both M87 and Sgr A* images confirm GR predictions for the photon ring at $\sim 1$ percent precision in linear scale.
 
@@ -103,34 +102,32 @@ planned:
 
 ## see also
 
-- [Event Horizon Telescope EHT](./Event%20Horizon%20Telescope%20EHT.html)
-- [Galactic Center Sgr A and S-stars](./Galactic%20Center%20Sgr%20A%20and%20S-stars.html)
-- [VLTI Very Large Telescope Interferometer](./VLTI%20Very%20Large%20Telescope%20Interferometer.html)
-- [Pulsar timing arrays as interferometers](./Pulsar%20timing%20arrays%20as%20interferometers.html)
+- [Event Horizon Telescope EHT](Event%20Horizon%20Telescope%20EHT.html)
+- [Galactic Center Sgr A and S-stars](Galactic%20Center%20Sgr%20A%20and%20S-stars.html)
+- [VLTI Very Large Telescope Interferometer](VLTI%20Very%20Large%20Telescope%20Interferometer.html)
+- [Pulsar timing arrays as interferometers](Pulsar%20timing%20arrays%20as%20interferometers.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (19)</h4>
+  <h4 class="backlinks-title">Linked References (17)</h4>
   <ul class="backlinks-list">
     <li class="backlink-item-wrap"><a href="../AGN%20taxonomy%20unified%20model%20and%20feedback.html" class="backlink-item">AGN taxonomy unified model and feedback</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../Black%20holes%20in%20globular%20clusters.html" class="backlink-item">Black holes in globular clusters</a></li>
     <li class="backlink-item-wrap"><a href="../Cosmological%20masers.html" class="backlink-item">Cosmological masers</a></li>
-    <li class="backlink-item-wrap"><a href="./Cosmological%20masers.html" class="backlink-item">Cosmological masers</a></li>
     <li class="backlink-item-wrap"><a href="../Event%20Horizon%20Telescope%20EHT.html" class="backlink-item">Event Horizon Telescope EHT</a></li>
-    <li class="backlink-item-wrap"><a href="./Event%20Horizon%20Telescope%20EHT.html" class="backlink-item">Event Horizon Telescope EHT</a></li>
-    <li class="backlink-item-wrap"><a href="./Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
     <li class="backlink-item-wrap"><a href="../Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
     <li class="backlink-item-wrap"><a href="../Galactic%20Center.html" class="backlink-item">Galactic Center</a></li>
-    <li class="backlink-item-wrap"><a href="../Galactic%20Center%20Sgr%20A%20and%20S-stars.html" class="backlink-item">Galactic Center Sgr A and S-stars</a></li>
-    <li class="backlink-item-wrap"><a href="./Galactic%20Center%20Sgr%20A%20and%20S-stars.html" class="backlink-item">Galactic Center Sgr A and S-stars</a></li>
     <li class="backlink-item-wrap"><a href="../Intermediate-mass%20BHs%20in%20GCs.html" class="backlink-item">Intermediate-mass BHs in GCs</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../Polarization%20in%20interferometry.html" class="backlink-item">Polarization in interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="./Polarization%20in%20interferometry.html" class="backlink-item">Polarization in interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="./Radiation%20mechanisms%20in%20astronomy%20and%20interferometers.html" class="backlink-item">Radiation mechanisms in astronomy and interferometers</a></li>
     <li class="backlink-item-wrap"><a href="../Radiation%20mechanisms%20in%20astronomy%20and%20interferometers.html" class="backlink-item">Radiation mechanisms in astronomy and interferometers</a></li>
-    <li class="backlink-item-wrap"><a href="../Virgo%20cluster.html" class="backlink-item">Virgo cluster</a></li>
+    <li class="backlink-item-wrap"><a href="Cosmological%20masers.html" class="backlink-item">Cosmological masers</a></li>
+    <li class="backlink-item-wrap"><a href="Event%20Horizon%20Telescope%20EHT.html" class="backlink-item">Event Horizon Telescope EHT</a></li>
+    <li class="backlink-item-wrap"><a href="Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
+    <li class="backlink-item-wrap"><a href="Galactic%20Center%20Sgr%20A%20and%20S-stars.html" class="backlink-item">Galactic Center Sgr A and S-stars</a></li>
+    <li class="backlink-item-wrap"><a href="Polarization%20in%20interferometry.html" class="backlink-item">Polarization in interferometry</a></li>
+    <li class="backlink-item-wrap"><a href="Radiation%20mechanisms%20in%20astronomy%20and%20interferometers.html" class="backlink-item">Radiation mechanisms in astronomy and interferometers</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
   </ul>
 </div>
+

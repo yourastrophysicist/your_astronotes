@@ -2,7 +2,6 @@
 layout: "default"
 title: "Gauge-invariant density perturbation and relativistic Poisson equation"
 ---
-{% raw %}
 # Gauge-invariant density perturbation and relativistic Poisson equation
 
 > *the comoving-orthogonal energy density perturbation and the universal relativistic Poisson equation valid on all spatial scales.*
@@ -56,17 +55,16 @@ $$\nabla^2\Phi = 4\pi G a^2 \epsilon_m$$
 
 * parent moc: [Cosmology_of_the_Early_Universe_MOC](../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html)
 * related zettels:
-  - [Gauge transformations and Bardeen potentials](./Gauge%20transformations%20and%20Bardeen%20potentials.html)
-  - [Cosmological perturbation theory in General Relativity](./Cosmological%20perturbation%20theory%20in%20General%20Relativity.html)
+  - [Gauge transformations and Bardeen potentials](Gauge%20transformations%20and%20Bardeen%20potentials.html)
+  - [Cosmological perturbation theory in General Relativity](Cosmological%20perturbation%20theory%20in%20General%20Relativity.html)
   - [Part5_GR_Cosmological_Perturbation_Theory](../../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part5_GR_Cosmological_Perturbation_Theory.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
+  <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Cosmological%20perturbation%20theory%20in%20General%20Relativity.html" class="backlink-item">Cosmological perturbation theory in General Relativity</a></li>
+    <li class="backlink-item-wrap"><a href="Cosmological%20perturbation%20theory%20in%20General%20Relativity.html" class="backlink-item">Cosmological perturbation theory in General Relativity</a></li>
+    <li class="backlink-item-wrap"><a href="Gauge%20transformations%20and%20Bardeen%20potentials.html" class="backlink-item">Gauge transformations and Bardeen potentials</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html" class="backlink-item">Cosmology_of_the_Early_Universe_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Gauge%20transformations%20and%20Bardeen%20potentials.html" class="backlink-item">Gauge transformations and Bardeen potentials</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part5_GR_Cosmological_Perturbation_Theory.html" class="backlink-item">Part5_GR_Cosmological_Perturbation_Theory</a></li>
   </ul>
 </div>
+

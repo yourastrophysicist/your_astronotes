@@ -2,7 +2,6 @@
 layout: "default"
 title: "VLTI Very Large Telescope Interferometer"
 ---
-{% raw %}
 # VLTI Very Large Telescope Interferometer
 
 ESO's optical/IR interferometer at Cerro Paranal in Chile. four 8m Unit Telescopes (UTs) and four 1.8m Auxiliary Telescopes (ATs) combined coherently, with baselines from 8m to 130m. workhorse of mid-2000s-onward optical interferometry.
@@ -122,49 +121,48 @@ source: ESO image eso9811a, VLTI delay line schematic.
 
 ## see also
 
-- [Components of a modern interferometer](./Components%20of%20a%20modern%20interferometer.html)
-- [CHARA array](./CHARA%20array.html)
-- [Adaptive optics](./Adaptive%20optics.html)
-- [Fringe tracking](./Fringe%20tracking.html)
-- [Galactic Center Sgr A and S-stars](./Galactic%20Center%20Sgr%20A%20and%20S-stars.html)
+- [Components of a modern interferometer](Components%20of%20a%20modern%20interferometer.html)
+- [CHARA array](CHARA%20array.html)
+- [Adaptive optics](Adaptive%20optics.html)
+- [Fringe tracking](Fringe%20tracking.html)
+- [Galactic Center Sgr A and S-stars](Galactic%20Center%20Sgr%20A%20and%20S-stars.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (33)</h4>
+  <h4 class="backlinks-title">Linked References (32)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./AGN%20and%20supermassive%20black%20holes.html" class="backlink-item">AGN and supermassive black holes</a></li>
     <li class="backlink-item-wrap"><a href="../AGN%20and%20supermassive%20black%20holes.html" class="backlink-item">AGN and supermassive black holes</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../Beam%20combiners.html" class="backlink-item">Beam combiners</a></li>
-    <li class="backlink-item-wrap"><a href="./Binary%20star%20orbits.html" class="backlink-item">Binary star orbits</a></li>
     <li class="backlink-item-wrap"><a href="../Binary%20star%20orbits.html" class="backlink-item">Binary star orbits</a></li>
-    <li class="backlink-item-wrap"><a href="./CHARA%20array.html" class="backlink-item">CHARA array</a></li>
     <li class="backlink-item-wrap"><a href="../CHARA%20array.html" class="backlink-item">CHARA array</a></li>
-    <li class="backlink-item-wrap"><a href="./Components%20of%20a%20modern%20interferometer.html" class="backlink-item">Components of a modern interferometer</a></li>
     <li class="backlink-item-wrap"><a href="../Components%20of%20a%20modern%20interferometer.html" class="backlink-item">Components of a modern interferometer</a></li>
     <li class="backlink-item-wrap"><a href="../Delay%20lines%20and%20path-length%20equalization.html" class="backlink-item">Delay lines and path-length equalization</a></li>
-    <li class="backlink-item-wrap"><a href="./Delay%20lines%20and%20path-length%20equalization.html" class="backlink-item">Delay lines and path-length equalization</a></li>
-    <li class="backlink-item-wrap"><a href="./Dust%20shells%20and%20Wolf-Rayet%20stars.html" class="backlink-item">Dust shells and Wolf-Rayet stars</a></li>
     <li class="backlink-item-wrap"><a href="../Dust%20shells%20and%20Wolf-Rayet%20stars.html" class="backlink-item">Dust shells and Wolf-Rayet stars</a></li>
     <li class="backlink-item-wrap"><a href="../Exoplanet%20imaging.html" class="backlink-item">Exoplanet imaging</a></li>
-    <li class="backlink-item-wrap"><a href="./Exoplanet%20imaging.html" class="backlink-item">Exoplanet imaging</a></li>
-    <li class="backlink-item-wrap"><a href="./Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
     <li class="backlink-item-wrap"><a href="../Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
     <li class="backlink-item-wrap"><a href="../Future%20ground-based%20optical.html" class="backlink-item">Future ground-based optical</a></li>
-    <li class="backlink-item-wrap"><a href="./Future%20ground-based%20optical.html" class="backlink-item">Future ground-based optical</a></li>
-    <li class="backlink-item-wrap"><a href="../Galactic%20Center%20Sgr%20A%20and%20S-stars.html" class="backlink-item">Galactic Center Sgr A and S-stars</a></li>
-    <li class="backlink-item-wrap"><a href="./Galactic%20Center%20Sgr%20A%20and%20S-stars.html" class="backlink-item">Galactic Center Sgr A and S-stars</a></li>
-    <li class="backlink-item-wrap"><a href="./Heterodyne%20vs%20direct%20detection.html" class="backlink-item">Heterodyne vs direct detection</a></li>
     <li class="backlink-item-wrap"><a href="../Keck%20interferometer.html" class="backlink-item">Keck interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="./Keck%20interferometer.html" class="backlink-item">Keck interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="./Large%20Binocular%20Telescope%20LBT.html" class="backlink-item">Large Binocular Telescope LBT</a></li>
     <li class="backlink-item-wrap"><a href="../Large%20Binocular%20Telescope%20LBT.html" class="backlink-item">Large Binocular Telescope LBT</a></li>
-    <li class="backlink-item-wrap"><a href="./Optimal%20array%20geometry.html" class="backlink-item">Optimal array geometry</a></li>
     <li class="backlink-item-wrap"><a href="../Space%20and%20ground%20facilities%20relevant%20for%20OC.html" class="backlink-item">Space and ground facilities relevant for OC</a></li>
     <li class="backlink-item-wrap"><a href="../Stellar%20diameters%20and%20limb%20darkening.html" class="backlink-item">Stellar diameters and limb darkening</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20surface%20imaging.html" class="backlink-item">Stellar surface imaging</a></li>
-    <li class="backlink-item-wrap"><a href="./Young%20stellar%20object%20disks.html" class="backlink-item">Young stellar object disks</a></li>
     <li class="backlink-item-wrap"><a href="../Young%20stellar%20object%20disks.html" class="backlink-item">Young stellar object disks</a></li>
+    <li class="backlink-item-wrap"><a href="AGN%20and%20supermassive%20black%20holes.html" class="backlink-item">AGN and supermassive black holes</a></li>
+    <li class="backlink-item-wrap"><a href="Binary%20star%20orbits.html" class="backlink-item">Binary star orbits</a></li>
+    <li class="backlink-item-wrap"><a href="CHARA%20array.html" class="backlink-item">CHARA array</a></li>
+    <li class="backlink-item-wrap"><a href="Components%20of%20a%20modern%20interferometer.html" class="backlink-item">Components of a modern interferometer</a></li>
+    <li class="backlink-item-wrap"><a href="Delay%20lines%20and%20path-length%20equalization.html" class="backlink-item">Delay lines and path-length equalization</a></li>
+    <li class="backlink-item-wrap"><a href="Dust%20shells%20and%20Wolf-Rayet%20stars.html" class="backlink-item">Dust shells and Wolf-Rayet stars</a></li>
+    <li class="backlink-item-wrap"><a href="Exoplanet%20imaging.html" class="backlink-item">Exoplanet imaging</a></li>
+    <li class="backlink-item-wrap"><a href="Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
+    <li class="backlink-item-wrap"><a href="Future%20ground-based%20optical.html" class="backlink-item">Future ground-based optical</a></li>
+    <li class="backlink-item-wrap"><a href="Galactic%20Center%20Sgr%20A%20and%20S-stars.html" class="backlink-item">Galactic Center Sgr A and S-stars</a></li>
+    <li class="backlink-item-wrap"><a href="Heterodyne%20vs%20direct%20detection.html" class="backlink-item">Heterodyne vs direct detection</a></li>
+    <li class="backlink-item-wrap"><a href="Keck%20interferometer.html" class="backlink-item">Keck interferometer</a></li>
+    <li class="backlink-item-wrap"><a href="Large%20Binocular%20Telescope%20LBT.html" class="backlink-item">Large Binocular Telescope LBT</a></li>
+    <li class="backlink-item-wrap"><a href="Optimal%20array%20geometry.html" class="backlink-item">Optimal array geometry</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20surface%20imaging.html" class="backlink-item">Stellar surface imaging</a></li>
+    <li class="backlink-item-wrap"><a href="Young%20stellar%20object%20disks.html" class="backlink-item">Young stellar object disks</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

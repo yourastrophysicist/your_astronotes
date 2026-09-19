@@ -2,7 +2,6 @@
 layout: "default"
 title: "Young stellar object disks"
 ---
-{% raw %}
 # Young stellar object disks
 
 interferometric imaging of the *inner few AU* of disks around forming stars. directly probes:
@@ -115,4 +114,3 @@ YSO surveys often combine both: ALMA for outer-disk gas/dust, VLTI/CHARA for inn
 - [Dust shells and Wolf-Rayet stars](interf/Dust%20shells%20and%20Wolf-Rayet%20stars.html)
 - [Major radio interferometers](interf/Major%20radio%20interferometers.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

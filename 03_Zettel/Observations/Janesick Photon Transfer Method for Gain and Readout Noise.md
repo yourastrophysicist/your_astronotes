@@ -2,7 +2,6 @@
 layout: "default"
 title: "Janesick Photon Transfer Method for Gain and Readout Noise"
 ---
-{% raw %}
 # Janesick Photon Transfer Method for Gain and Readout Noise
 
 The Janesick Photon Transfer Curve (PTC) technique measures the analog-to-digital converter gain $g$ ($e^-/\text{ADU}$) and electronic readout noise $\sigma_{\text{RON}}$ without requiring external laboratory calibration standards, relying entirely on the Poisson statistics of photons.
@@ -33,18 +32,16 @@ Readout noise in electrons:
 $$\sigma_{\text{RON}} [e^-] = g \cdot \sigma_{\text{RON, ADU}}$$
 
 ## Related Notes
-- [CCD Readout Noise and Output Amplifier](./CCD%20Readout%20Noise%20and%20Output%20Amplifier.html)
-- [Bias Frame and Electronic Offset](./Bias%20Frame%20and%20Electronic%20Offset.html)
+- [CCD Readout Noise and Output Amplifier](CCD%20Readout%20Noise%20and%20Output%20Amplifier.html)
+- [Bias Frame and Electronic Offset](Bias%20Frame%20and%20Electronic%20Offset.html)
 - [Malavolta 01 - Bias Analysis and Detector Calibration](../../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2001%20-%20Bias%20Analysis%20and%20Detector%20Calibration.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
+  <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./CCD%20Readout%20Noise%20and%20Output%20Amplifier.html" class="backlink-item">CCD Readout Noise and Output Amplifier</a></li>
     <li class="backlink-item-wrap"><a href="../Activities/Laboratory%20Exercise%20-%20Bias%20Frame%20Calibration%20and%20RON%20Measurement.html" class="backlink-item">Laboratory Exercise - Bias Frame Calibration and RON Measurement</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2001%20-%20Bias%20Analysis%20and%20Detector%20Calibration.html" class="backlink-item">Malavolta 01 - Bias Analysis and Detector Calibration</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Astrophysics_Laboratory_2/Piotto%2004%20-%20CCD%20Photometry%20and%20Noise%20Characterization.html" class="backlink-item">Piotto 04 - CCD Photometry and Noise Characterization</a></li>
+    <li class="backlink-item-wrap"><a href="CCD%20Readout%20Noise%20and%20Output%20Amplifier.html" class="backlink-item">CCD Readout Noise and Output Amplifier</a></li>
+    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
   </ul>
 </div>
+

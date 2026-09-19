@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Type I and Type II GCs"
-name: "Type I and Type II GCs"
-description: "Milone's classification of GCs by chromosome map morphology, with Type II showing additional iron + s-process spreads suggesting an accreted nuclear origin"
 ---
-{% raw %}
 milone et al. 2017 (HST UV Legacy Survey) found that ~17% of galactic GCs show a chromosome map structure that is qualitatively different from the rest. these clusters host not only a 1G + 2G split (the canonical multiple-population signature) but also a **second, redder + parallel chromosome map sequence** that itself contains its own 1G + 2G populations + is enhanced in iron + s-process elements. milone called these **Type II GCs**, contrasting with the canonical **Type I GCs**.
 
 ![L19_p22_Terzan5_Ferraro-22.png](../../assets/images/L19_p22_Terzan5_Ferraro-22.png)
@@ -76,32 +73,32 @@ this is one more reason the chromosome map is the centerpiece of the field: it i
 
 ## see also
 
-- [Multiple populations in GCs discovery](./Multiple%20populations%20in%20GCs%20discovery.html)
-- [Photometric chromosome maps](./Photometric%20chromosome%20maps.html)
-- [Helium spread in GCs](./Helium%20spread%20in%20GCs.html)
-- [Na O anticorrelation](./Na%20O%20anticorrelation.html)
-- [CN CH MgAl anticorrelations](./CN%20CH%20MgAl%20anticorrelations.html)
-- [Mass dependence of multiple populations](./Mass%20dependence%20of%20multiple%20populations.html)
-- [GC formation models with MPs](./GC%20formation%20models%20with%20MPs.html)
-- [Multiple populations in extragalactic GCs](./Multiple%20populations%20in%20extragalactic%20GCs.html)
-- [Polluter scenarios for second-generation GC stars](./Polluter%20scenarios%20for%20second-generation%20GC%20stars.html)
+- [Multiple populations in GCs discovery](Multiple%20populations%20in%20GCs%20discovery.html)
+- [Photometric chromosome maps](Photometric%20chromosome%20maps.html)
+- [Helium spread in GCs](Helium%20spread%20in%20GCs.html)
+- [Na O anticorrelation](Na%20O%20anticorrelation.html)
+- [CN CH MgAl anticorrelations](CN%20CH%20MgAl%20anticorrelations.html)
+- [Mass dependence of multiple populations](Mass%20dependence%20of%20multiple%20populations.html)
+- [GC formation models with MPs](GC%20formation%20models%20with%20MPs.html)
+- [Multiple populations in extragalactic GCs](Multiple%20populations%20in%20extragalactic%20GCs.html)
+- [Polluter scenarios for second-generation GC stars](Polluter%20scenarios%20for%20second-generation%20GC%20stars.html)
 - s-process nucleosynthesis
 - Galactic archaeology with Gaia
-- [Stellar populations I II III](./Stellar%20populations%20I%20II%20III.html)
+- [Stellar populations I II III](Stellar%20populations%20I%20II%20III.html)
 - [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (9)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./CN%20CH%20MgAl%20anticorrelations.html" class="backlink-item">CN CH MgAl anticorrelations</a></li>
-    <li class="backlink-item-wrap"><a href="./GC%20formation%20models%20with%20MPs.html" class="backlink-item">GC formation models with MPs</a></li>
-    <li class="backlink-item-wrap"><a href="./Helium%20spread%20in%20GCs.html" class="backlink-item">Helium spread in GCs</a></li>
-    <li class="backlink-item-wrap"><a href="./Mass%20dependence%20of%20multiple%20populations.html" class="backlink-item">Mass dependence of multiple populations</a></li>
-    <li class="backlink-item-wrap"><a href="./Multiple%20populations%20in%20GCs%20discovery.html" class="backlink-item">Multiple populations in GCs discovery</a></li>
-    <li class="backlink-item-wrap"><a href="./Multiple%20populations%20in%20extragalactic%20GCs.html" class="backlink-item">Multiple populations in extragalactic GCs</a></li>
-    <li class="backlink-item-wrap"><a href="./Photometric%20chromosome%20maps.html" class="backlink-item">Photometric chromosome maps</a></li>
-    <li class="backlink-item-wrap"><a href="./Polluter%20scenarios%20for%20second-generation%20GC%20stars.html" class="backlink-item">Polluter scenarios for second-generation GC stars</a></li>
+    <li class="backlink-item-wrap"><a href="CN%20CH%20MgAl%20anticorrelations.html" class="backlink-item">CN CH MgAl anticorrelations</a></li>
+    <li class="backlink-item-wrap"><a href="GC%20formation%20models%20with%20MPs.html" class="backlink-item">GC formation models with MPs</a></li>
+    <li class="backlink-item-wrap"><a href="Helium%20spread%20in%20GCs.html" class="backlink-item">Helium spread in GCs</a></li>
+    <li class="backlink-item-wrap"><a href="Mass%20dependence%20of%20multiple%20populations.html" class="backlink-item">Mass dependence of multiple populations</a></li>
+    <li class="backlink-item-wrap"><a href="Multiple%20populations%20in%20GCs%20discovery.html" class="backlink-item">Multiple populations in GCs discovery</a></li>
+    <li class="backlink-item-wrap"><a href="Multiple%20populations%20in%20extragalactic%20GCs.html" class="backlink-item">Multiple populations in extragalactic GCs</a></li>
+    <li class="backlink-item-wrap"><a href="Photometric%20chromosome%20maps.html" class="backlink-item">Photometric chromosome maps</a></li>
+    <li class="backlink-item-wrap"><a href="Polluter%20scenarios%20for%20second-generation%20GC%20stars.html" class="backlink-item">Polluter scenarios for second-generation GC stars</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

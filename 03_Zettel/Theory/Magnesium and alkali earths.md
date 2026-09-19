@@ -2,7 +2,6 @@
 layout: "default"
 title: "Magnesium and alkali earths"
 ---
-{% raw %}
 **alkali-earth atoms** (Be, Mg, Ca, Sr, Ba) have a closed-shell noble-gas core plus two valence $s$-electrons. their ground state is $^1S_0$ (paired spins). first excited states involve $sp$ configurations with both singlet and triplet branches.
 
 ## magnesium structure
@@ -46,23 +45,23 @@ Ca ($Z = 20$): $[Ar] 4s^2$. ground $1\,^1S_0^e$. similar structure to Mg but the
 
 ## see also
 
-- [Atomic term symbols](./Atomic%20term%20symbols.html)
-- [Pauli principle and electron configurations](./Pauli%20principle%20and%20electron%20configurations.html)
-- [Magnesium population vs T](./Magnesium%20population%20vs%20T.html)
-- [Calcium and CaII H+K](./Calcium%20and%20CaII%20H%2BK.html)
-- [Selection rules](./Selection%20rules.html)
-- [Stellar spectra and spectral classification](./Stellar%20spectra%20and%20spectral%20classification.html)
-- [Why the Sequence OBAFGKM](./Why%20the%20Sequence%20OBAFGKM.html)
-- [Sodium and alkalis](./Sodium%20and%20alkalis.html)
-{% endraw %}
+- [Atomic term symbols](Atomic%20term%20symbols.html)
+- [Pauli principle and electron configurations](Pauli%20principle%20and%20electron%20configurations.html)
+- [Magnesium population vs T](Magnesium%20population%20vs%20T.html)
+- [Calcium and CaII H+K](Calcium%20and%20CaII%20H%2BK.html)
+- [Selection rules](Selection%20rules.html)
+- [Stellar spectra and spectral classification](Stellar%20spectra%20and%20spectral%20classification.html)
+- [Why the Sequence OBAFGKM](Why%20the%20Sequence%20OBAFGKM.html)
+- [Sodium and alkalis](Sodium%20and%20alkalis.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./AGN%20spectroscopy.html" class="backlink-item">AGN spectroscopy</a></li>
+    <li class="backlink-item-wrap"><a href="AGN%20spectroscopy.html" class="backlink-item">AGN spectroscopy</a></li>
+    <li class="backlink-item-wrap"><a href="Calcium%20and%20CaII%20H%2BK.html" class="backlink-item">Calcium and CaII H+K</a></li>
+    <li class="backlink-item-wrap"><a href="Magnesium%20population%20vs%20T.html" class="backlink-item">Magnesium population vs T</a></li>
+    <li class="backlink-item-wrap"><a href="Pauli%20principle%20and%20electron%20configurations.html" class="backlink-item">Pauli principle and electron configurations</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Calcium%20and%20CaII%20H%2BK.html" class="backlink-item">Calcium and CaII H+K</a></li>
-    <li class="backlink-item-wrap"><a href="./Magnesium%20population%20vs%20T.html" class="backlink-item">Magnesium population vs T</a></li>
-    <li class="backlink-item-wrap"><a href="./Pauli%20principle%20and%20electron%20configurations.html" class="backlink-item">Pauli principle and electron configurations</a></li>
   </ul>
 </div>
+

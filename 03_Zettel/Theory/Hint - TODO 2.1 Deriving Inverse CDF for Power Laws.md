@@ -2,11 +2,10 @@
 layout: "default"
 title: "Hint - TODO 2.1 Deriving Inverse CDF for Power Laws"
 ---
-{% raw %}
 # Hint - TODO 2.1 Deriving Inverse CDF for Power Laws
 
 **Target TODO**: TODO 2.1 in Module_1_Random_Sampling_and_Monte_Carlo  
-**Related Zettels**: [Inverse transform sampling](./Inverse%20transform%20sampling.html)
+**Related Zettels**: [Inverse transform sampling](Inverse%20transform%20sampling.html)
 
 ---
 
@@ -21,4 +20,3 @@ For $P(s) = C / s$ on $[s_{\min}, s_{\max}] = [1, 1000]\text{ AU}$:
 ```python
 s = s_min * (s_max / s_min)**u
 ```
-{% endraw %}

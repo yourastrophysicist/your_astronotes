@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Sedov-Taylor blast wave expansion"
-name: "Sedov-Taylor blast wave expansion"
-description: "self-similar adiabatic supernova remnant dynamics, energy conservation, dimensional derivation, and shock deceleration"
 ---
-{% raw %}
 the Sedov-Taylor phase governs the adiabatic expansion of a supernova remnant when the swept-up interstellar mass greatly exceeds the ejected mass ($M_{\text{swept}} \gg M_{\text{ej}}$) and radiative cooling is negligible ($t_{\text{cool}} \gg t$).
 
 ## dimensional derivation
@@ -38,20 +35,19 @@ when $v_s$ drops to $\sim 200\text{ km s}^{-1}$ ($T_s \sim 10^6\text{ K}$), atom
 ## see also
 
 - [Astrophysics_of_the_Interstellar_Medium_MOC](../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html)
-- [Rankine-Hugoniot shock jump conditions](./Rankine-Hugoniot%20shock%20jump%20conditions.html)
-- [Superbubbles galactic chimneys and fountains](./Superbubbles%20galactic%20chimneys%20and%20fountains.html)
+- [Rankine-Hugoniot shock jump conditions](Rankine-Hugoniot%20shock%20jump%20conditions.html)
+- [Superbubbles galactic chimneys and fountains](Superbubbles%20galactic%20chimneys%20and%20fountains.html)
 - [Carraro_06_Supernovae_and_Hot_Ionized_Medium](../../02_Literature/Lectures/Interstellar_Medium/Carraro_06_Supernovae_and_Hot_Ionized_Medium.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
+  <h4 class="backlinks-title">Linked References (6)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Helmholtz%20vortex%20theorems%20and%20baroclinic%20torque.html" class="backlink-item">Helmholtz vortex theorems and baroclinic torque</a></li>
+    <li class="backlink-item-wrap"><a href="Multi-phase%20structure%20of%20the%20interstellar%20medium.html" class="backlink-item">Multi-phase structure of the interstellar medium</a></li>
+    <li class="backlink-item-wrap"><a href="Rankine-Hugoniot%20shock%20jump%20conditions.html" class="backlink-item">Rankine-Hugoniot shock jump conditions</a></li>
+    <li class="backlink-item-wrap"><a href="Rayleigh-Taylor%20and%20Kelvin-Helmholtz%20hydrodynamic%20instabilities.html" class="backlink-item">Rayleigh-Taylor and Kelvin-Helmholtz hydrodynamic instabilities</a></li>
+    <li class="backlink-item-wrap"><a href="Superbubbles%20galactic%20chimneys%20and%20fountains.html" class="backlink-item">Superbubbles galactic chimneys and fountains</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html" class="backlink-item">Astrophysics_of_the_Interstellar_Medium_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Interstellar_Medium/Carraro_06_Supernovae_and_Hot_Ionized_Medium.html" class="backlink-item">Carraro_06_Supernovae_and_Hot_Ionized_Medium</a></li>
-    <li class="backlink-item-wrap"><a href="./Helmholtz%20vortex%20theorems%20and%20baroclinic%20torque.html" class="backlink-item">Helmholtz vortex theorems and baroclinic torque</a></li>
-    <li class="backlink-item-wrap"><a href="./Multi-phase%20structure%20of%20the%20interstellar%20medium.html" class="backlink-item">Multi-phase structure of the interstellar medium</a></li>
-    <li class="backlink-item-wrap"><a href="./Rankine-Hugoniot%20shock%20jump%20conditions.html" class="backlink-item">Rankine-Hugoniot shock jump conditions</a></li>
-    <li class="backlink-item-wrap"><a href="./Rayleigh-Taylor%20and%20Kelvin-Helmholtz%20hydrodynamic%20instabilities.html" class="backlink-item">Rayleigh-Taylor and Kelvin-Helmholtz hydrodynamic instabilities</a></li>
-    <li class="backlink-item-wrap"><a href="./Superbubbles%20galactic%20chimneys%20and%20fountains.html" class="backlink-item">Superbubbles galactic chimneys and fountains</a></li>
   </ul>
 </div>
+

@@ -2,7 +2,6 @@
 layout: "default"
 title: "Young experiment as a stellar interferometer"
 ---
-{% raw %}
 # Young's experiment as a stellar interferometer
 
 the historical and conceptual bridge between optics and interferometric astronomy. Thomas Young's 1801 two-slit experiment proved light is a wave; **the same setup, applied to starlight, is the simplest possible stellar interferometer**. Hippolyte Fizeau (1868) and Albert Michelson (1920) both realized this. this is the prototype every modern instrument is descended from.
@@ -91,4 +90,3 @@ source: local study diagram generated from the standard Young/Fraunhofer geometr
 - [Michelson stellar interferometer](interf/Michelson%20stellar%20interferometer.html)
 - [Stellar diameters and limb darkening](interf/Stellar%20diameters%20and%20limb%20darkening.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

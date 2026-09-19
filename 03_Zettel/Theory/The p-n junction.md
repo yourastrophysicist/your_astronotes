@@ -2,7 +2,6 @@
 layout: "default"
 title: "The p-n junction"
 ---
-{% raw %}
 ## Doping
 
 Semiconductors can be improved by adding **impurities** — a method called **doping**
@@ -41,7 +40,7 @@ When diffusion and the built-in field reach equilibrium:
 		any electron appearing in this zone is immediately swept toward the n-type side
 			any hole is swept toward the p-type side
 
-![Screenshot 2026-04-07 at 01.48.55.png](../../assets/images/Screenshot 2026-04-07 at 01.48.55.png)
+![Screenshot 2026-04-07 at 01.48.55.png](../../assets/images/Screenshot%202026-04-07%20at%2001.48.55.png)
 <font color="#bfbfbf">The p-n junction in equilibrium. Diffusion of carriers creates a depletion region with a built-in electric field. The potential barrier prevents further diffusion.</font>
 
 ---
@@ -60,7 +59,7 @@ Applying an external voltage modifies the depletion region:
 		fewer carriers cross → very small leakage current (ideal: no current)
 		depletion region becomes **wider**
 
-![Screenshot 2026-04-07 at 01.49.24.png](../../assets/images/Screenshot 2026-04-07 at 01.49.24.png)
+![Screenshot 2026-04-07 at 01.49.24.png](../../assets/images/Screenshot%202026-04-07%20at%2001.49.24.png)
 <font color="#bfbfbf">Left: forward bias narrows the depletion region. Right: reverse bias widens the depletion region, which is the operating condition for detector applications.</font>
 
 ---
@@ -103,15 +102,15 @@ The depletion region is devoid of free electrons at equilibrium
 The p-n junction is the fundamental detecting unit
 	the full CCD is an array of MOS capacitors (each a reverse-biased junction)
 		fabricated in a 2D grid on a silicon wafer
-			the charge is shifted out via the 3-phase clocking described in [CCD readout](./CCD%20readout.html)
-				and the energy is recovered as in [CCDs for X-rays](./CCDs%20for%20X-rays.html)
-{% endraw %}
+			the charge is shifted out via the 3-phase clocking described in [CCD readout](CCD%20readout.html)
+				and the energy is recovered as in [CCDs for X-rays](CCDs%20for%20X-rays.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./CCD%20basics.html" class="backlink-item">CCD basics</a></li>
-    <li class="backlink-item-wrap"><a href="./Charge-Coupled%20Device.html" class="backlink-item">Charge-Coupled Device</a></li>
+    <li class="backlink-item-wrap"><a href="CCD%20basics.html" class="backlink-item">CCD basics</a></li>
+    <li class="backlink-item-wrap"><a href="Charge-Coupled%20Device.html" class="backlink-item">Charge-Coupled Device</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
   </ul>
 </div>
+

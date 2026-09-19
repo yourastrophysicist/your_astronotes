@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Jeans gravitational instability and Jeans mass"
-name: "Jeans gravitational instability and Jeans mass"
-description: "gravitational collapse threshold, Jeans swindle, and the critical mass for star-forming cloud fragmentation"
 ---
-{% raw %}
 Sir James Jeans (1902) formulated the fundamental criterion determining when self-gravity overcomes internal thermal gas pressure in an interstellar gas cloud, initiating collapse.
 
 ## derivation via perturbed fluid equations
@@ -44,15 +41,15 @@ in cold giant molecular clouds ($T \sim 10\text{ K}, n \sim 10^4\text{ cm}^{-3}$
 
 - [Fluid_and_Plasma_Dynamics_MOC](../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html)
 - [Part3_Waves_Instabilities_and_Turbulence](../../02_Literature/Lectures/Fluid_and_Plasma_Dynamics/Part3_Waves_Instabilities_and_Turbulence.html)
-- [Acoustic sound wave propagation in compressible gas](./Acoustic%20sound%20wave%20propagation%20in%20compressible%20gas.html)
-- [Multi-phase structure of the interstellar medium](./Multi-phase%20structure%20of%20the%20interstellar%20medium.html)
-- [Catalytic H2 formation on dust grains](./Catalytic%20H2%20formation%20on%20dust%20grains.html)
-{% endraw %}
+- [Acoustic sound wave propagation in compressible gas](Acoustic%20sound%20wave%20propagation%20in%20compressible%20gas.html)
+- [Multi-phase structure of the interstellar medium](Multi-phase%20structure%20of%20the%20interstellar%20medium.html)
+- [Catalytic H2 formation on dust grains](Catalytic%20H2%20formation%20on%20dust%20grains.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Acoustic%20sound%20wave%20propagation%20in%20compressible%20gas.html" class="backlink-item">Acoustic sound wave propagation in compressible gas</a></li>
+    <li class="backlink-item-wrap"><a href="Acoustic%20sound%20wave%20propagation%20in%20compressible%20gas.html" class="backlink-item">Acoustic sound wave propagation in compressible gas</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
   </ul>
 </div>
+

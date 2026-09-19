@@ -2,7 +2,6 @@
 layout: "default"
 title: "Gravitational lensing - intro"
 ---
-{% raw %}
 **gravitational lensing** is the bending of light by gravity, predicted by GR and observed routinely. it makes massive foreground objects act as **gravitational lenses** that distort and magnify background sources. central tool of modern cosmology, dark-matter mapping, and galaxy formation.
 
 ## the basic physics
@@ -41,7 +40,7 @@ modern cosmological weak lensing surveys (DES, KiDS, HSC, Euclid) measure $\kapp
 
 a special case: photon orbits around a black hole. the **photon sphere** at $r = 3GM$ produces a **bright ring** in EHT images (M87 in 2019, Sgr A$^\star$ in 2022). photons can complete one or more orbits before escaping, giving a sharp ring around the BH shadow.
 
-see [Photon sphere](./Photon%20sphere.html).
+see [Photon sphere](Photon%20sphere.html).
 
 ## historical milestones
 
@@ -56,15 +55,14 @@ see [Photon sphere](./Photon%20sphere.html).
 
 ## see also
 
-- [Strong vs weak lensing](./Strong%20vs%20weak%20lensing.html)
-- [Lensing as a cosmological probe](./Lensing%20as%20a%20cosmological%20probe.html)
-- [Light deflection](./Light%20deflection.html)
-- [Photon sphere](./Photon%20sphere.html)
-- [Schwarzschild metric](./Schwarzschild%20metric.html)
-- [Cosmic_inventory_dark_matter](./Cosmic_inventory_dark_matter.html)
-- [Photon trajectories and impact parameter](./Photon%20trajectories%20and%20impact%20parameter.html)
+- [Strong vs weak lensing](Strong%20vs%20weak%20lensing.html)
+- [Lensing as a cosmological probe](Lensing%20as%20a%20cosmological%20probe.html)
+- [Light deflection](Light%20deflection.html)
+- [Photon sphere](Photon%20sphere.html)
+- [Schwarzschild metric](Schwarzschild%20metric.html)
+- [Cosmic_inventory_dark_matter](Cosmic_inventory_dark_matter.html)
+- [Photon trajectories and impact parameter](Photon%20trajectories%20and%20impact%20parameter.html)
 - [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (1)</h4>
@@ -72,3 +70,4 @@ see [Photon sphere](./Photon%20sphere.html).
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
   </ul>
 </div>
+

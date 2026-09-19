@@ -2,14 +2,13 @@
 layout: "default"
 title: "Luminosity"
 ---
-{% raw %}
 **Luminosity** is the total power emitted by a source — it is an **intrinsic property** of the source
 	independent of the distance to the observer, the observer's direction, or the instrument used to measure it
 		it has units of $\text{erg s}^{-1}$ (cgs) or Watts (SI)
 
 The full treatment — spectral luminosity, band luminosity, bolometric luminosity, and the connection to observed flux — is in:
 
-→ [Luminosity and Flux for -Instrumentations](./Luminosity%20and%20Flux%20for%20-Instrumentations.html)
+→ [Luminosity and Flux for -Instrumentations](Luminosity%20and%20Flux%20for%20-Instrumentations.html)
 
 ---
 
@@ -39,8 +38,7 @@ $$L_{Edd} \approx 1.3 \times 10^{38} \left(\frac{M}{M_\odot}\right) \text{ erg s
 | Quasar (bolometric) | $10^{45}$–$10^{48}$ |
 | Galaxy cluster (X-ray Bremsstrahlung) | $10^{44}$–$10^{45}$ |
 
-These numbers define the Eddington ratios and accretion rates discussed in [Accretion onto compact objects](./Accretion%20onto%20compact%20objects.html)
-{% endraw %}
+These numbers define the Eddington ratios and accretion rates discussed in [Accretion onto compact objects](Accretion%20onto%20compact%20objects.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (1)</h4>
@@ -48,3 +46,4 @@ These numbers define the Eddington ratios and accretion rates discussed in [Accr
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
   </ul>
 </div>
+

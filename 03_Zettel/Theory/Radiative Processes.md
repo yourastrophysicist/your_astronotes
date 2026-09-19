@@ -2,7 +2,6 @@
 layout: "default"
 title: "Radiative Processes"
 ---
-{% raw %}
 **Radiative processes** are the physical mechanisms by which high-energy sources emit X-ray and gamma-ray radiation
 	understanding them is the bridge between what we detect (counts, spectra, light curves)
 		and what is physically happening (temperature, magnetic field, particle energies, geometry)
@@ -30,7 +29,7 @@ where $a_\perp$ and $a_\parallel$ are acceleration components perpendicular and 
 
 ## Three main mechanisms in high-energy astrophysics
 
-### 1. Thermal Bremsstrahlung → [Bremsstrahlung](./Bremsstrahlung.html)
+### 1. Thermal Bremsstrahlung → [Bremsstrahlung](Bremsstrahlung.html)
 Free electrons decelerated in the electric field of ions in a **hot plasma**
 	spectrum: flat below $h\nu \sim k_BT$, exponential cutoff above
 	dominant mechanism in: **galaxy clusters**, hot stellar coronae, supernova remnants at low energies
@@ -38,7 +37,7 @@ Free electrons decelerated in the electric field of ions in a **hot plasma**
 Key observable: the cutoff energy gives the plasma temperature directly
 $$h\nu_{cutoff} \approx k_B T_e$$
 
-### 2. Synchrotron radiation → [Synchroton](./Synchroton.html)
+### 2. Synchrotron radiation → [Synchroton](Synchroton.html)
 Relativistic electrons ($\gamma \gg 1$) spiraling in a **magnetic field** $B$
 	each electron emits a peaked spectrum at the critical frequency:
 $$\nu_c \propto \gamma^2 \frac{qB}{m_ec}$$
@@ -48,7 +47,7 @@ $$f_\nu \propto \nu^{-\alpha} \qquad \alpha = \frac{s-1}{2}$$
 
 Dominant mechanism in: **supernova remnants, pulsar wind nebulae, AGN jets, radio galaxies**
 
-### 3. Inverse Compton scattering → [Compton and Inverse Compton](./Compton%20and%20Inverse%20Compton.html)
+### 3. Inverse Compton scattering → [Compton and Inverse Compton](Compton%20and%20Inverse%20Compton.html)
 Relativistic electrons ($\gamma \gg 1$) scatter **low-energy photons** up to high energies
 	energy boost: $E_f \approx \gamma^2 E_i$
 	power: $P_{IC}/P_{syn} = U_{ph}/U_B$ (photon vs magnetic energy density)
@@ -83,11 +82,10 @@ This is not a coincidence:
 
 ## Subtopics
 
-- [Bremsstrahlung](./Bremsstrahlung.html) — thermal free-free emission, clusters, plasma temperature
-- [Synchroton](./Synchroton.html) — magnetic radiation, power-law spectra, cooling breaks
-- [Compton and Inverse Compton](./Compton%20and%20Inverse%20Compton.html) — Compton, Thomson, IC power, Comptonization, y-parameter
-- [Accretion onto compact objects](./Accretion%20onto%20compact%20objects.html) — where all this radiation comes from in compact sources
-{% endraw %}
+- [Bremsstrahlung](Bremsstrahlung.html) — thermal free-free emission, clusters, plasma temperature
+- [Synchroton](Synchroton.html) — magnetic radiation, power-law spectra, cooling breaks
+- [Compton and Inverse Compton](Compton%20and%20Inverse%20Compton.html) — Compton, Thomson, IC power, Comptonization, y-parameter
+- [Accretion onto compact objects](Accretion%20onto%20compact%20objects.html) — where all this radiation comes from in compact sources
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (1)</h4>
@@ -95,3 +93,4 @@ This is not a coincidence:
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
   </ul>
 </div>
+

@@ -2,7 +2,6 @@
 layout: "default"
 title: "Absorption coefficient and oscillator strength"
 ---
-{% raw %}
 the **absorption coefficient** $\kappa_\nu$ for a spectral line connects the observable line shape to the atomic-physics quantity called the **oscillator strength** $f$, which encodes the transition probability.
 
 ## the formula
@@ -58,25 +57,25 @@ historically: an oscillator with strength $f$ has the same time-integrated emiss
 
 ## see also
 
-- [Line profile function phi nu](./Line%20profile%20function%20phi%20nu.html)
-- [Equivalent width](./Equivalent%20width.html)
-- [Curve of growth](./Curve%20of%20growth.html)
-- [Optical depth](./Optical%20depth.html)
-- [Selection rules](./Selection%20rules.html)
-- [Forbidden vs permitted vs semiforbidden transitions](./Forbidden%20vs%20permitted%20vs%20semiforbidden%20transitions.html)
-- [Statistical weight g](./Statistical%20weight%20g.html)
-- [Equation of radiative transfer](./Equation%20of%20radiative%20transfer.html)
-- [Curve of growth abundance analysis](./Curve%20of%20growth%20abundance%20analysis.html)
-{% endraw %}
+- [Line profile function phi nu](Line%20profile%20function%20phi%20nu.html)
+- [Equivalent width](Equivalent%20width.html)
+- [Curve of growth](Curve%20of%20growth.html)
+- [Optical depth](Optical%20depth.html)
+- [Selection rules](Selection%20rules.html)
+- [Forbidden vs permitted vs semiforbidden transitions](Forbidden%20vs%20permitted%20vs%20semiforbidden%20transitions.html)
+- [Statistical weight g](Statistical%20weight%20g.html)
+- [Equation of radiative transfer](Equation%20of%20radiative%20transfer.html)
+- [Curve of growth abundance analysis](Curve%20of%20growth%20abundance%20analysis.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (6)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Curve%20of%20growth%20abundance%20analysis.html" class="backlink-item">Curve of growth abundance analysis</a></li>
+    <li class="backlink-item-wrap"><a href="Curve%20of%20growth.html" class="backlink-item">Curve of growth</a></li>
+    <li class="backlink-item-wrap"><a href="Equivalent%20width.html" class="backlink-item">Equivalent width</a></li>
+    <li class="backlink-item-wrap"><a href="Line%20profile%20function%20phi%20nu.html" class="backlink-item">Line profile function phi nu</a></li>
+    <li class="backlink-item-wrap"><a href="Natural%20broadening%20Lorentzian.html" class="backlink-item">Natural broadening Lorentzian</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Curve%20of%20growth.html" class="backlink-item">Curve of growth</a></li>
-    <li class="backlink-item-wrap"><a href="./Curve%20of%20growth%20abundance%20analysis.html" class="backlink-item">Curve of growth abundance analysis</a></li>
-    <li class="backlink-item-wrap"><a href="./Equivalent%20width.html" class="backlink-item">Equivalent width</a></li>
-    <li class="backlink-item-wrap"><a href="./Line%20profile%20function%20phi%20nu.html" class="backlink-item">Line profile function phi nu</a></li>
-    <li class="backlink-item-wrap"><a href="./Natural%20broadening%20Lorentzian.html" class="backlink-item">Natural broadening Lorentzian</a></li>
   </ul>
 </div>
+

@@ -2,7 +2,6 @@
 layout: "default"
 title: "Aperture masking"
 ---
-{% raw %}
 # Aperture masking
 
 place a mask over the primary mirror of a single telescope, leaving only a few small holes. each hole pair acts as an interferometer baseline. the resulting image is the diffraction pattern of an *interferometer* — a sparse-aperture interferometer made from a single dish.
@@ -82,25 +81,25 @@ so aperture masking is "interferometry within a single telescope" — same algor
 
 ## see also
 
-- [Speckle interferometry](./Speckle%20interferometry.html)
-- [Speckle imaging algorithms](./Speckle%20imaging%20algorithms.html)
-- [Bispectrum and triple correlation](./Bispectrum%20and%20triple%20correlation.html)
-- [Phase closure](./Phase%20closure.html)
-- [Aperture synthesis principle](./Aperture%20synthesis%20principle.html)
+- [Speckle interferometry](Speckle%20interferometry.html)
+- [Speckle imaging algorithms](Speckle%20imaging%20algorithms.html)
+- [Bispectrum and triple correlation](Bispectrum%20and%20triple%20correlation.html)
+- [Phase closure](Phase%20closure.html)
+- [Aperture synthesis principle](Aperture%20synthesis%20principle.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (9)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../Bispectrum%20and%20triple%20correlation.html" class="backlink-item">Bispectrum and triple correlation</a></li>
-    <li class="backlink-item-wrap"><a href="./Bispectrum%20and%20triple%20correlation.html" class="backlink-item">Bispectrum and triple correlation</a></li>
     <li class="backlink-item-wrap"><a href="../Speckle%20imaging%20algorithms.html" class="backlink-item">Speckle imaging algorithms</a></li>
-    <li class="backlink-item-wrap"><a href="./Speckle%20imaging%20algorithms.html" class="backlink-item">Speckle imaging algorithms</a></li>
-    <li class="backlink-item-wrap"><a href="./Speckle%20interferometry.html" class="backlink-item">Speckle interferometry</a></li>
     <li class="backlink-item-wrap"><a href="../Speckle%20interferometry.html" class="backlink-item">Speckle interferometry</a></li>
     <li class="backlink-item-wrap"><a href="../Theory%20of%20speckle%20interferometry.html" class="backlink-item">Theory of speckle interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="./Theory%20of%20speckle%20interferometry.html" class="backlink-item">Theory of speckle interferometry</a></li>
+    <li class="backlink-item-wrap"><a href="Bispectrum%20and%20triple%20correlation.html" class="backlink-item">Bispectrum and triple correlation</a></li>
+    <li class="backlink-item-wrap"><a href="Speckle%20imaging%20algorithms.html" class="backlink-item">Speckle imaging algorithms</a></li>
+    <li class="backlink-item-wrap"><a href="Speckle%20interferometry.html" class="backlink-item">Speckle interferometry</a></li>
+    <li class="backlink-item-wrap"><a href="Theory%20of%20speckle%20interferometry.html" class="backlink-item">Theory of speckle interferometry</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

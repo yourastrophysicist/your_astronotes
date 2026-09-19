@@ -2,7 +2,6 @@
 layout: "default"
 title: "GW energy and angular momentum"
 ---
-{% raw %}
 gravitational waves carry **energy + momentum + angular momentum** away from sources. quantifying this is subtle in GR (no local stress-energy tensor for gravity), but works in the wave zone via **Isaacson averaging**.
 
 ## the Isaacson stress-energy tensor
@@ -57,20 +56,20 @@ depends on $a^2$, the squared acceleration. GR analog has $\dddot Q^2$ (squared 
 
 ## see also
 
-- [Quadrupole formula](./Quadrupole%20formula.html)
-- [Plus and cross polarizations](./Plus%20and%20cross%20polarizations.html)
-- [Geodesic deviation under a GW](./Geodesic%20deviation%20under%20a%20GW.html)
-- [Transverse traceless gauge](./Transverse%20traceless%20gauge.html)
-- [Linearized metric perturbation](./Linearized%20metric%20perturbation.html)
+- [Quadrupole formula](Quadrupole%20formula.html)
+- [Plus and cross polarizations](Plus%20and%20cross%20polarizations.html)
+- [Geodesic deviation under a GW](Geodesic%20deviation%20under%20a%20GW.html)
+- [Transverse traceless gauge](Transverse%20traceless%20gauge.html)
+- [Linearized metric perturbation](Linearized%20metric%20perturbation.html)
 - [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
 - [Ch 8 - Gravitational Waves](../../02_Literature/Book/Baumann%20GR/Ch%208%20-%20Gravitational%20Waves.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Geodesic%20deviation%20under%20a%20GW.html" class="backlink-item">Geodesic deviation under a GW</a></li>
+    <li class="backlink-item-wrap"><a href="Quadrupole%20formula.html" class="backlink-item">Quadrupole formula</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Geodesic%20deviation%20under%20a%20GW.html" class="backlink-item">Geodesic deviation under a GW</a></li>
-    <li class="backlink-item-wrap"><a href="./Quadrupole%20formula.html" class="backlink-item">Quadrupole formula</a></li>
   </ul>
 </div>
+

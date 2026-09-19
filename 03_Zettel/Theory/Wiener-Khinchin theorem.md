@@ -2,7 +2,6 @@
 layout: "default"
 title: "Wiener-Khinchin theorem"
 ---
-{% raw %}
 # Wiener-Khinchin theorem
 
 BookAI includes the Wiener-Khinchin theorem because radio interferometry is built on correlation. this theorem is the time-domain cousin of the Van Cittert-Zernike theorem.
@@ -62,4 +61,3 @@ Wiener-Khinchin says the power spectrum of a stationary signal is the Fourier tr
 - [Coherence function and visibility](interf/Coherence%20function%20and%20visibility.html)
 - [Van Cittert-Zernike theorem](interf/Van%20Cittert-Zernike%20theorem.html)
 - [Radio interferometer architecture](interf/Radio%20interferometer%20architecture.html)
-{% endraw %}

@@ -2,7 +2,6 @@
 layout: "default"
 title: "06_Timing_Methods_and_Pulsar_Planets"
 ---
-{% raw %}
 # Lesson 06 – Timing Methods and Pulsar Planets
 
 *Exoplanetary Astrophysics, Prof. Giampaolo Piotto (Lecture 27/10/2025)*  
@@ -119,14 +118,12 @@ where:
 - Previous Lecture: [05_Gravitational_Microlensing_Principles_and_Light_Curves](./05_Gravitational_Microlensing_Principles_and_Light_Curves.html)
 - Next Lecture: [07_Direct_Imaging_Physics_and_High_Contrast_Techniques](./07_Direct_Imaging_Physics_and_High_Contrast_Techniques.html)
 - Related Notes: Planetary system dynamics and resonance | Exoplanet detection techniques
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
+  <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./05_Gravitational_Microlensing_Principles_and_Light_Curves.html" class="backlink-item">05_Gravitational_Microlensing_Principles_and_Light_Curves</a></li>
-    <li class="backlink-item-wrap"><a href="./07_Direct_Imaging_Physics_and_High_Contrast_Techniques.html" class="backlink-item">07_Direct_Imaging_Physics_and_High_Contrast_Techniques</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Millisecond%20pulsar%20timing%20and%20planetary%20companions.html" class="backlink-item">Millisecond pulsar timing and planetary companions</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

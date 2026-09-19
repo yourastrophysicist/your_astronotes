@@ -2,12 +2,11 @@
 layout: "default"
 title: "Atmospheric dispersion"
 ---
-{% raw %}
 the atmospheric refractive index $n(\lambda)$ depends on wavelength: blue light is bent slightly more than red light. the consequence at $z > 0$ is that a white-light star image is **stretched into a small spectrum** along the radial direction. for high-resolution imaging or slit spectroscopy at high airmass, this has to be corrected.
 
 ## the geometry
 
-refraction angle (see [Atmospheric refraction](./Atmospheric%20refraction.html)):
+refraction angle (see [Atmospheric refraction](Atmospheric%20refraction.html)):
 $$R(\lambda) \approx (n_0(\lambda) - 1)\tan z$$
 
 since $n_0(\lambda) - 1$ varies with wavelength, $R(\lambda)$ does too. the differential between two wavelengths $\lambda_1$ and $\lambda_2$:
@@ -51,9 +50,9 @@ weakly chromatic in the optical, more strongly so in the UV. water vapour adds a
 
 ## see also
 
-- [Atmospheric refraction](./Atmospheric%20refraction.html)
+- [Atmospheric refraction](Atmospheric%20refraction.html)
 - [Earth atmosphere for observations](../Earth%20atmosphere%20for%20observations.html)
-- [Adaptive optics overview](./Adaptive%20optics%20overview.html)
+- [Adaptive optics overview](Adaptive%20optics%20overview.html)
 - [Point Spread Function (PSF)](../Point%20Spread%20Function%20%28PSF%29.html)
 - [Filter systems and bandpasses](../Filter%20systems%20and%20bandpasses.html)
 
@@ -66,12 +65,12 @@ weakly chromatic in the optical, more strongly so in the UV. water vapour adds a
 
 ![obs_sph2-30.png](../../../assets/images/obs_sph2-30.png)
 *Atmospheric Dispersion Corrector (ADC) optical design with counter-rotating prisms.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Atmospheric%20refraction.html" class="backlink-item">Atmospheric refraction</a></li>
+    <li class="backlink-item-wrap"><a href="Atmospheric%20refraction.html" class="backlink-item">Atmospheric refraction</a></li>
     <li class="backlink-item-wrap"><a href="../../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

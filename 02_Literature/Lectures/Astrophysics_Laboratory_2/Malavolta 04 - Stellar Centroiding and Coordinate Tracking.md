@@ -2,8 +2,7 @@
 layout: "default"
 title: "Malavolta 04 - Stellar Centroiding and Coordinate Tracking"
 ---
-{% raw %}
-# Malavolta 04 ? Stellar Centroiding and Coordinate Tracking
+# Malavolta 04 — Stellar Centroiding and Coordinate Tracking
 
 *Astrophysics Laboratory 2, Prof. Luca Malavolta*  
 *Index: [Astrophysics_Laboratory_2_MOC](../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html)*
@@ -81,12 +80,12 @@ Tracking trajectories $(x_c(t), y_c(t))$ are preserved to evaluate whether photo
 - [Star Centroiding via Marginal Profiles and 2D Gaussian Fitting](../../../03_Zettel/Computational/Star%20Centroiding%20via%20Marginal%20Profiles%20and%202D%20Gaussian%20Fitting.html)
 - [Malavolta 05 - Local Background Subtraction and Aperture Photometry](./Malavolta%2005%20-%20Local%20Background%20Subtraction%20and%20Aperture%20Photometry.html)
 - [Laboratory Exercise - Star Centroiding and Aperture Photometry Pipeline](../../../03_Zettel/Activities/Laboratory%20Exercise%20-%20Star%20Centroiding%20and%20Aperture%20Photometry%20Pipeline.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Computational/Star%20Centroiding%20via%20Marginal%20Profiles%20and%202D%20Gaussian%20Fitting.html" class="backlink-item">Star Centroiding via Marginal Profiles and 2D Gaussian Fitting</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
   </ul>
 </div>
+

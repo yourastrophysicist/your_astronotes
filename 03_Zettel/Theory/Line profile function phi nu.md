@@ -2,7 +2,6 @@
 layout: "default"
 title: "Line profile function phi nu"
 ---
-{% raw %}
 the **line profile function** $\phi(\nu)$ is the normalised function that distributes the integrated line cross section over frequency. its shape is set by the broadening mechanisms acting on the line.
 
 ## normalisation
@@ -34,7 +33,7 @@ FWHM: exactly $\Gamma$. Lorentzian has very wide wings ($\propto 1/(\nu-\nu_0)^2
 when both Gaussian and Lorentzian mechanisms operate (the usual case in real atmospheres), the combined profile is the **Voigt profile**, the convolution of Gaussian + Lorentzian:
 $$\phi_{\rm Voigt}(\nu) = \int \phi_{\rm G}(\nu')\,\phi_{\rm L}(\nu - \nu')\,d\nu'$$
 
-at line center, the Gaussian dominates (narrow core). in the wings, the Lorentzian dominates ($1/(\nu-\nu_0)^2$ tails). see [Voigt profile](./Voigt%20profile.html).
+at line center, the Gaussian dominates (narrow core). in the wings, the Lorentzian dominates ($1/(\nu-\nu_0)^2$ tails). see [Voigt profile](Voigt%20profile.html).
 
 ## consequences for the spectrum
 
@@ -50,31 +49,31 @@ Voigt profile is parameterised by two: $u = (\nu - \nu_0)/\Delta\nu_D$ and $a = 
 
 ## see also
 
-- [Absorption coefficient and oscillator strength](./Absorption%20coefficient%20and%20oscillator%20strength.html)
-- [Equivalent width](./Equivalent%20width.html)
-- [Curve of growth](./Curve%20of%20growth.html)
-- [Voigt profile](./Voigt%20profile.html)
-- [Natural broadening Lorentzian](./Natural%20broadening%20Lorentzian.html)
-- [Thermal Doppler broadening](./Thermal%20Doppler%20broadening.html)
-- [Collisional pressure broadening](./Collisional%20pressure%20broadening.html)
-- [Microturbulence](./Microturbulence.html)
-- [Damping wings](./Damping%20wings.html)
-- [Rotational broadening](./Rotational%20broadening.html)
-{% endraw %}
+- [Absorption coefficient and oscillator strength](Absorption%20coefficient%20and%20oscillator%20strength.html)
+- [Equivalent width](Equivalent%20width.html)
+- [Curve of growth](Curve%20of%20growth.html)
+- [Voigt profile](Voigt%20profile.html)
+- [Natural broadening Lorentzian](Natural%20broadening%20Lorentzian.html)
+- [Thermal Doppler broadening](Thermal%20Doppler%20broadening.html)
+- [Collisional pressure broadening](Collisional%20pressure%20broadening.html)
+- [Microturbulence](Microturbulence.html)
+- [Damping wings](Damping%20wings.html)
+- [Rotational broadening](Rotational%20broadening.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (11)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Absorption%20coefficient%20and%20oscillator%20strength.html" class="backlink-item">Absorption coefficient and oscillator strength</a></li>
+    <li class="backlink-item-wrap"><a href="Absorption%20coefficient%20and%20oscillator%20strength.html" class="backlink-item">Absorption coefficient and oscillator strength</a></li>
+    <li class="backlink-item-wrap"><a href="Collisional%20pressure%20broadening.html" class="backlink-item">Collisional pressure broadening</a></li>
+    <li class="backlink-item-wrap"><a href="Curve%20of%20growth.html" class="backlink-item">Curve of growth</a></li>
+    <li class="backlink-item-wrap"><a href="Equivalent%20width.html" class="backlink-item">Equivalent width</a></li>
+    <li class="backlink-item-wrap"><a href="Macroturbulence.html" class="backlink-item">Macroturbulence</a></li>
+    <li class="backlink-item-wrap"><a href="Microturbulence.html" class="backlink-item">Microturbulence</a></li>
+    <li class="backlink-item-wrap"><a href="Natural%20broadening%20Lorentzian.html" class="backlink-item">Natural broadening Lorentzian</a></li>
+    <li class="backlink-item-wrap"><a href="Rotational%20broadening.html" class="backlink-item">Rotational broadening</a></li>
+    <li class="backlink-item-wrap"><a href="Thermal%20Doppler%20broadening.html" class="backlink-item">Thermal Doppler broadening</a></li>
+    <li class="backlink-item-wrap"><a href="Voigt%20profile.html" class="backlink-item">Voigt profile</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Collisional%20pressure%20broadening.html" class="backlink-item">Collisional pressure broadening</a></li>
-    <li class="backlink-item-wrap"><a href="./Curve%20of%20growth.html" class="backlink-item">Curve of growth</a></li>
-    <li class="backlink-item-wrap"><a href="./Equivalent%20width.html" class="backlink-item">Equivalent width</a></li>
-    <li class="backlink-item-wrap"><a href="./Macroturbulence.html" class="backlink-item">Macroturbulence</a></li>
-    <li class="backlink-item-wrap"><a href="./Microturbulence.html" class="backlink-item">Microturbulence</a></li>
-    <li class="backlink-item-wrap"><a href="./Natural%20broadening%20Lorentzian.html" class="backlink-item">Natural broadening Lorentzian</a></li>
-    <li class="backlink-item-wrap"><a href="./Rotational%20broadening.html" class="backlink-item">Rotational broadening</a></li>
-    <li class="backlink-item-wrap"><a href="./Thermal%20Doppler%20broadening.html" class="backlink-item">Thermal Doppler broadening</a></li>
-    <li class="backlink-item-wrap"><a href="./Voigt%20profile.html" class="backlink-item">Voigt profile</a></li>
   </ul>
 </div>
+

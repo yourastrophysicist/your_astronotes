@@ -1,11 +1,8 @@
 ---
 layout: "default"
 title: "Stellar rotation effects on CMD"
-name: "Stellar rotation effects on CMD"
-description: "how rotation modifies a star's position in the CMD via gravity darkening, rotational mixing, atmospheric oblateness, with broader effect on cluster TO morphology"
 ---
-{% raw %}
-stellar rotation is the most-overlooked physical effect in classical CMD analysis. for slow rotators ($v/v_{\rm crit} < 0.3$) it is negligible. for fast rotators ($v/v_{\rm crit} > 0.5$, common in B + early A stars), it shifts the star's position on the CMD by tenths of a magnitude in colour + magnitude. this matters for [eMSTO](./Extended%20main%20sequence%20turn-off%20eMSTO.html) interpretation + for the [split upper MS](./Splitting%20of%20the%20upper%20MS%20in%20young%20clusters.html) in young clusters.
+stellar rotation is the most-overlooked physical effect in classical CMD analysis. for slow rotators ($v/v_{\rm crit} < 0.3$) it is negligible. for fast rotators ($v/v_{\rm crit} > 0.5$, common in B + early A stars), it shifts the star's position on the CMD by tenths of a magnitude in colour + magnitude. this matters for [eMSTO](Extended%20main%20sequence%20turn-off%20eMSTO.html) interpretation + for the [split upper MS](Splitting%20of%20the%20upper%20MS%20in%20young%20clusters.html) in young clusters.
 
 ## the four physical effects
 
@@ -40,13 +37,13 @@ the equatorial bulge gives the rotating star a non-spherical photosphere. line p
 
 $$\Delta\lambda \approx \frac{\lambda v\sin i}{c}$$
 
-at $v\sin i \sim 200$ km/s, line broadening is $\sim 0.4$ Å in optical, blending nearby lines. this complicates EW measurements + abundance determinations (see [Stellar rotation v sini](./Stellar%20rotation%20v%20sini.html)).
+at $v\sin i \sim 200$ km/s, line broadening is $\sim 0.4$ Å in optical, blending nearby lines. this complicates EW measurements + abundance determinations (see [Stellar rotation v sini](Stellar%20rotation%20v%20sini.html)).
 
 ### 4. He surface enrichment from mixing
 
 prolonged rotational mixing slowly raises the surface He abundance. for $v/v_{\rm crit} = 0.5$ over $1$ Gyr, $\Delta Y$ at the surface can reach $\sim 0.02$-$0.05$. for fast rotators in young clusters, the He enhancement contributes to colour shifts (He-rich envelopes are more transparent to UV).
 
-D'Antona et al. 2015 argued this connects rotation to the [He spread](./Helium%20spread%20in%20GCs.html) in old GCs: rotation today $\to$ surface He-rich tomorrow $\to$ helium-rich main-sequence stars persistent over Gyrs.
+D'Antona et al. 2015 argued this connects rotation to the [He spread](Helium%20spread%20in%20GCs.html) in old GCs: rotation today $\to$ surface He-rich tomorrow $\to$ helium-rich main-sequence stars persistent over Gyrs.
 
 ## the observable signatures
 
@@ -87,24 +84,24 @@ these are now standard for fitting eMSTO + young cluster CMDs.
 
 ## see also
 
-- [Extended main sequence turn-off eMSTO](./Extended%20main%20sequence%20turn-off%20eMSTO.html)
-- [Origin of eMSTO age spread or rotation](./Origin%20of%20eMSTO%20age%20spread%20or%20rotation.html)
-- [Splitting of the upper MS in young clusters](./Splitting%20of%20the%20upper%20MS%20in%20young%20clusters.html)
-- [eMSTO and multiple populations connection](./eMSTO%20and%20multiple%20populations%20connection.html)
-- [Stellar rotation v sini](./Stellar%20rotation%20v%20sini.html)
-- [Helium spread in GCs](./Helium%20spread%20in%20GCs.html)
-- [Color-magnitude diagrams of clusters](./Color-magnitude%20diagrams%20of%20clusters.html)
+- [Extended main sequence turn-off eMSTO](Extended%20main%20sequence%20turn-off%20eMSTO.html)
+- [Origin of eMSTO age spread or rotation](Origin%20of%20eMSTO%20age%20spread%20or%20rotation.html)
+- [Splitting of the upper MS in young clusters](Splitting%20of%20the%20upper%20MS%20in%20young%20clusters.html)
+- [eMSTO and multiple populations connection](eMSTO%20and%20multiple%20populations%20connection.html)
+- [Stellar rotation v sini](Stellar%20rotation%20v%20sini.html)
+- [Helium spread in GCs](Helium%20spread%20in%20GCs.html)
+- [Color-magnitude diagrams of clusters](Color-magnitude%20diagrams%20of%20clusters.html)
 - [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (6)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Extended%20main%20sequence%20turn-off%20eMSTO.html" class="backlink-item">Extended main sequence turn-off eMSTO</a></li>
-    <li class="backlink-item-wrap"><a href="./Multiple%20populations%20in%20extragalactic%20GCs.html" class="backlink-item">Multiple populations in extragalactic GCs</a></li>
-    <li class="backlink-item-wrap"><a href="./Origin%20of%20eMSTO%20age%20spread%20or%20rotation.html" class="backlink-item">Origin of eMSTO age spread or rotation</a></li>
-    <li class="backlink-item-wrap"><a href="./Splitting%20of%20the%20upper%20MS%20in%20young%20clusters.html" class="backlink-item">Splitting of the upper MS in young clusters</a></li>
+    <li class="backlink-item-wrap"><a href="Extended%20main%20sequence%20turn-off%20eMSTO.html" class="backlink-item">Extended main sequence turn-off eMSTO</a></li>
+    <li class="backlink-item-wrap"><a href="Multiple%20populations%20in%20extragalactic%20GCs.html" class="backlink-item">Multiple populations in extragalactic GCs</a></li>
+    <li class="backlink-item-wrap"><a href="Origin%20of%20eMSTO%20age%20spread%20or%20rotation.html" class="backlink-item">Origin of eMSTO age spread or rotation</a></li>
+    <li class="backlink-item-wrap"><a href="Splitting%20of%20the%20upper%20MS%20in%20young%20clusters.html" class="backlink-item">Splitting of the upper MS in young clusters</a></li>
+    <li class="backlink-item-wrap"><a href="eMSTO%20and%20multiple%20populations%20connection.html" class="backlink-item">eMSTO and multiple populations connection</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./eMSTO%20and%20multiple%20populations%20connection.html" class="backlink-item">eMSTO and multiple populations connection</a></li>
   </ul>
 </div>
+

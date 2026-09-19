@@ -2,7 +2,6 @@
 layout: "default"
 title: "Homework_Problems_and_Solutions"
 ---
-{% raw %}
 # Astrostatistics Homework Problems and Complete Solutions
 
 Graduate problem set solutions in Astro-Statistics and Cosmology, taught by Prof. Michele Liguori at the University of Padua.
@@ -612,13 +611,11 @@ The MAP frequency coincides with standard least squares fitting whenever the noi
 - [03_Multivariate_Gaussians_Marginalization_Conditioning_and_Linear_Models](./03_Multivariate_Gaussians_Marginalization_Conditioning_and_Linear_Models.html) - Theory for Problems 4, 5, 6, 7, 8, and 9
 - [05_Monte_Carlo_Metropolis_Hastings_and_MCMC_Convergence_Diagnostics](./05_Monte_Carlo_Metropolis_Hastings_and_MCMC_Convergence_Diagnostics.html) - MCMC sampling implementations for Problem 7
 - [10_Prior_Assignment_Transformation_Invariance_and_Maximum_Entropy](./10_Prior_Assignment_Transformation_Invariance_and_Maximum_Entropy.html) - Regularization priors for Problem 10
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
+  <h4 class="backlinks-title">Linked References (1)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./03_Multivariate_Gaussians_Marginalization_Conditioning_and_Linear_Models.html" class="backlink-item">03_Multivariate_Gaussians_Marginalization_Conditioning_and_Linear_Models</a></li>
-    <li class="backlink-item-wrap"><a href="./05_Monte_Carlo_Metropolis_Hastings_and_MCMC_Convergence_Diagnostics.html" class="backlink-item">05_Monte_Carlo_Metropolis_Hastings_and_MCMC_Convergence_Diagnostics</a></li>
     <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
   </ul>
 </div>
+

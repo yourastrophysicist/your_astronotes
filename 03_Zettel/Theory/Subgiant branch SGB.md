@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Subgiant branch SGB"
-name: "Subgiant branch SGB"
-description: "the near-horizontal CMD locus from TO to the base of the RGB, set by shell-H ignition and the Schönberg-Chandrasekhar limit"
 ---
-{% raw %}
 the **subgiant branch** is the relatively short, near-horizontal stretch on the CMD that connects the main sequence turn-off to the base of the red giant branch. it is the bridge between core hydrogen burning and shell hydrogen burning, and its morphology is set by a single piece of stellar-structure physics: the maximum fractional mass an *isothermal helium core* can support against the weight of the overlying H-rich envelope, the **Schönberg-Chandrasekhar limit**.
 
 at the TO, central H exhaustion ($X_c \to 0$) leaves the star with an essentially pure He core that is initially isothermal (no nuclear source, so heat flux through the core implies a temperature gradient; "isothermal" here is the limiting equilibrium configuration). H burning ignites in a thin shell at the base of the H-rich envelope, just above this He core. the star is now a *shell-burning star with an inert isothermal He core*.
@@ -31,21 +28,21 @@ operationally, the SGB is "where the rules change": below it the star is a MS ob
 
 ## see also
 - [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
-- [Main sequence on the CMD](./Main%20sequence%20on%20the%20CMD.html)
-- [Main sequence turn-off as age indicator](./Main%20sequence%20turn-off%20as%20age%20indicator.html)
-- [Red giant branch RGB](./Red%20giant%20branch%20RGB.html)
-- [Stellar evolutionary phases on the CMD](./Stellar%20evolutionary%20phases%20on%20the%20CMD.html)
+- [Main sequence on the CMD](Main%20sequence%20on%20the%20CMD.html)
+- [Main sequence turn-off as age indicator](Main%20sequence%20turn-off%20as%20age%20indicator.html)
+- [Red giant branch RGB](Red%20giant%20branch%20RGB.html)
+- [Stellar evolutionary phases on the CMD](Stellar%20evolutionary%20phases%20on%20the%20CMD.html)
 - Multiple populations in globular clusters
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (6)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./IMF%20from%20cluster%20luminosity%20functions.html" class="backlink-item">IMF from cluster luminosity functions</a></li>
-    <li class="backlink-item-wrap"><a href="./Main%20sequence%20turn-off%20as%20age%20indicator.html" class="backlink-item">Main sequence turn-off as age indicator</a></li>
-    <li class="backlink-item-wrap"><a href="./Red%20giant%20branch%20RGB.html" class="backlink-item">Red giant branch RGB</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20evolutionary%20phases%20on%20the%20CMD.html" class="backlink-item">Stellar evolutionary phases on the CMD</a></li>
+    <li class="backlink-item-wrap"><a href="IMF%20from%20cluster%20luminosity%20functions.html" class="backlink-item">IMF from cluster luminosity functions</a></li>
+    <li class="backlink-item-wrap"><a href="Main%20sequence%20turn-off%20as%20age%20indicator.html" class="backlink-item">Main sequence turn-off as age indicator</a></li>
+    <li class="backlink-item-wrap"><a href="Red%20giant%20branch%20RGB.html" class="backlink-item">Red giant branch RGB</a></li>
+    <li class="backlink-item-wrap"><a href="Stellar%20evolutionary%20phases%20on%20the%20CMD.html" class="backlink-item">Stellar evolutionary phases on the CMD</a></li>
+    <li class="backlink-item-wrap"><a href="Yellow%20stragglers%20and%20sub-subgiants.html" class="backlink-item">Yellow stragglers and sub-subgiants</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Yellow%20stragglers%20and%20sub-subgiants.html" class="backlink-item">Yellow stragglers and sub-subgiants</a></li>
   </ul>
 </div>
+

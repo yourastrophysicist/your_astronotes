@@ -2,7 +2,6 @@
 layout: "default"
 title: "COAST Cambridge Optical Aperture Synthesis Telescope"
 ---
-{% raw %}
 # COAST Cambridge Optical Aperture Synthesis Telescope
 
 a small but historically pivotal interferometer at Cambridge's Mullard Radio Astronomy Observatory. **first instrument to demonstrate true optical aperture synthesis with closure phases** (1996), proving that the techniques perfected at radio wavelengths could work in the optical.
@@ -75,4 +74,3 @@ COAST shows that *demonstrating a technique* often precedes its scientific domin
 - [Phase closure](interf/Phase%20closure.html)
 - [Bispectrum and triple correlation](interf/Bispectrum%20and%20triple%20correlation.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

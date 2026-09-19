@@ -2,7 +2,6 @@
 layout: "default"
 title: "Computational complexity and speed"
 ---
-{% raw %}
 # Computational complexity and speed
 
 the second axis after accuracy. given a problem of size $N$, how does the runtime scale? this is **Big-O notation**: $O(f(N))$ means the runtime is bounded by some constant times $f(N)$ for large $N$. the constant matters in practice but the asymptotic behavior decides what is feasible.
@@ -46,7 +45,7 @@ a modern laptop does $\sim 10^9$ floating-point operations per second on numpy c
 
 **FFT**: $O(N \log N)$, the algorithm that made signal processing practical
 
-**sorting**: $O(N \log N)$, see [Sorting algorithms overview](./Sorting%20algorithms%20overview.html)
+**sorting**: $O(N \log N)$, see [Sorting algorithms overview](Sorting%20algorithms%20overview.html)
 
 ## space complexity
 
@@ -75,7 +74,7 @@ for i in range(N):
 result = x @ A @ x
 ```
 
-this is the *single most important* python performance lesson and the reason [Numpy arrays vs Python lists](./Numpy%20arrays%20vs%20Python%20lists.html) is its own zettel.
+this is the *single most important* python performance lesson and the reason [Numpy arrays vs Python lists](Numpy%20arrays%20vs%20Python%20lists.html) is its own zettel.
 
 ## profiling, when to optimize
 
@@ -94,10 +93,10 @@ before writing code, mentally compute: what is $N$, what is the algorithm comple
 
 ## see also
 
-- [Vectorization and python speed](./Vectorization%20and%20python%20speed.html)
-- [Numpy arrays vs Python lists](./Numpy%20arrays%20vs%20Python%20lists.html)
-- [Sorting algorithms overview](./Sorting%20algorithms%20overview.html)
-- [Fast Fourier transform algorithm](./Fast%20Fourier%20transform%20algorithm.html)
+- [Vectorization and python speed](Vectorization%20and%20python%20speed.html)
+- [Numpy arrays vs Python lists](Numpy%20arrays%20vs%20Python%20lists.html)
+- [Sorting algorithms overview](Sorting%20algorithms%20overview.html)
+- [Fast Fourier transform algorithm](Fast%20Fourier%20transform%20algorithm.html)
 - [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
 
 ---
@@ -114,16 +113,16 @@ before writing code, mentally compute: what is $N$, what is the algorithm comple
 
 ![mapelli_fig30_p295.png](../../assets/images/mapelli_fig30_p114.png)
 *GPU acceleration with CUDA: grid, block, and thread hierarchy for vectorized gravity loops.*
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (6)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Fast%20Fourier%20transform%20algorithm.html" class="backlink-item">Fast Fourier transform algorithm</a></li>
-    <li class="backlink-item-wrap"><a href="./Floating%20point%20representation%20and%20rounding%20errors.html" class="backlink-item">Floating point representation and rounding errors</a></li>
+    <li class="backlink-item-wrap"><a href="Fast%20Fourier%20transform%20algorithm.html" class="backlink-item">Fast Fourier transform algorithm</a></li>
+    <li class="backlink-item-wrap"><a href="Floating%20point%20representation%20and%20rounding%20errors.html" class="backlink-item">Floating point representation and rounding errors</a></li>
+    <li class="backlink-item-wrap"><a href="Numpy%20arrays%20vs%20Python%20lists.html" class="backlink-item">Numpy arrays vs Python lists</a></li>
+    <li class="backlink-item-wrap"><a href="Sorting%20algorithms%20overview.html" class="backlink-item">Sorting algorithms overview</a></li>
+    <li class="backlink-item-wrap"><a href="Vectorization%20and%20python%20speed.html" class="backlink-item">Vectorization and python speed</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Numpy%20arrays%20vs%20Python%20lists.html" class="backlink-item">Numpy arrays vs Python lists</a></li>
-    <li class="backlink-item-wrap"><a href="./Sorting%20algorithms%20overview.html" class="backlink-item">Sorting algorithms overview</a></li>
-    <li class="backlink-item-wrap"><a href="./Vectorization%20and%20python%20speed.html" class="backlink-item">Vectorization and python speed</a></li>
   </ul>
 </div>
+

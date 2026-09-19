@@ -2,7 +2,6 @@
 layout: "default"
 title: "The Square Kilometre Array SKA"
 ---
-{% raw %}
 # The Square Kilometre Array (SKA)
 
 the next-generation radio interferometer, currently under construction. when complete (~2030), it will be the most sensitive radio interferometer ever built — survey speed and sensitivity orders of magnitude better than any existing instrument.
@@ -127,19 +126,19 @@ scientifically, SKA is expected to:
 
 ## see also
 
-- [Major radio interferometers](./Major%20radio%20interferometers.html)
-- [Pulsar timing arrays as interferometers](./Pulsar%20timing%20arrays%20as%20interferometers.html)
-- [ngVLA Next Generation VLA](./ngVLA%20Next%20Generation%20VLA.html)
+- [Major radio interferometers](Major%20radio%20interferometers.html)
+- [Pulsar timing arrays as interferometers](Pulsar%20timing%20arrays%20as%20interferometers.html)
+- [ngVLA Next Generation VLA](ngVLA%20Next%20Generation%20VLA.html)
 - [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../Lunar%20interferometry%20concepts.html" class="backlink-item">Lunar interferometry concepts</a></li>
-    <li class="backlink-item-wrap"><a href="./Lunar%20interferometry%20concepts.html" class="backlink-item">Lunar interferometry concepts</a></li>
-    <li class="backlink-item-wrap"><a href="./ngVLA%20Next%20Generation%20VLA.html" class="backlink-item">ngVLA Next Generation VLA</a></li>
+    <li class="backlink-item-wrap"><a href="Lunar%20interferometry%20concepts.html" class="backlink-item">Lunar interferometry concepts</a></li>
+    <li class="backlink-item-wrap"><a href="ngVLA%20Next%20Generation%20VLA.html" class="backlink-item">ngVLA Next Generation VLA</a></li>
     <li class="backlink-item-wrap"><a href="../ngVLA%20Next%20Generation%20VLA.html" class="backlink-item">ngVLA Next Generation VLA</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
   </ul>
 </div>
+

@@ -2,7 +2,6 @@
 layout: "default"
 title: "Dispersion and spectral resolution"
 ---
-{% raw %}
 two distinct figures of merit for a spectrograph: **dispersion** (how spread out wavelengths are on the detector) and **resolution** (smallest separable $\Delta\lambda$). both follow from differentiating the grating equation. central derivation in any spectrograph oral.
 
 ## dispersion (angular and linear)
@@ -75,26 +74,26 @@ higher $R$ generally requires echelle and bigger grating (or finer ruling).
 
 ## see also
 
-- [Grating equation](./Grating%20equation.html)
-- [Spectrograph design](./Spectrograph%20design.html)
-- [Single slit diffraction](./Single%20slit%20diffraction.html)
-- [N-slit interference and gratings](./N-slit%20interference%20and%20gratings.html)
-- [Spectrograph types](./Spectrograph%20types.html)
-- [Echelle spectroscopy](./Echelle%20spectroscopy.html)
+- [Grating equation](Grating%20equation.html)
+- [Spectrograph design](Spectrograph%20design.html)
+- [Single slit diffraction](Single%20slit%20diffraction.html)
+- [N-slit interference and gratings](N-slit%20interference%20and%20gratings.html)
+- [Spectrograph types](Spectrograph%20types.html)
+- [Echelle spectroscopy](Echelle%20spectroscopy.html)
 - [Atmospheric seeing](interf/Atmospheric%20seeing.html)
-- [CCD detectors and SNR](./CCD%20detectors%20and%20SNR.html)
-{% endraw %}
+- [CCD detectors and SNR](CCD%20detectors%20and%20SNR.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (8)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Blazed%20gratings.html" class="backlink-item">Blazed gratings</a></li>
+    <li class="backlink-item-wrap"><a href="Echelle%20spectroscopy.html" class="backlink-item">Echelle spectroscopy</a></li>
+    <li class="backlink-item-wrap"><a href="Grating%20equation.html" class="backlink-item">Grating equation</a></li>
+    <li class="backlink-item-wrap"><a href="N-slit%20interference%20and%20gratings.html" class="backlink-item">N-slit interference and gratings</a></li>
+    <li class="backlink-item-wrap"><a href="Single%20slit%20diffraction.html" class="backlink-item">Single slit diffraction</a></li>
+    <li class="backlink-item-wrap"><a href="Spectrograph%20design.html" class="backlink-item">Spectrograph design</a></li>
+    <li class="backlink-item-wrap"><a href="Spectrograph%20types.html" class="backlink-item">Spectrograph types</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Blazed%20gratings.html" class="backlink-item">Blazed gratings</a></li>
-    <li class="backlink-item-wrap"><a href="./Echelle%20spectroscopy.html" class="backlink-item">Echelle spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="./Grating%20equation.html" class="backlink-item">Grating equation</a></li>
-    <li class="backlink-item-wrap"><a href="./N-slit%20interference%20and%20gratings.html" class="backlink-item">N-slit interference and gratings</a></li>
-    <li class="backlink-item-wrap"><a href="./Single%20slit%20diffraction.html" class="backlink-item">Single slit diffraction</a></li>
-    <li class="backlink-item-wrap"><a href="./Spectrograph%20design.html" class="backlink-item">Spectrograph design</a></li>
-    <li class="backlink-item-wrap"><a href="./Spectrograph%20types.html" class="backlink-item">Spectrograph types</a></li>
   </ul>
 </div>
+

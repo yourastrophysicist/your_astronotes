@@ -2,7 +2,6 @@
 layout: "default"
 title: "Aberration of light"
 ---
-{% raw %}
 the **aberration of light** is the apparent displacement of a celestial source in the direction of the instantaneous motion of the observer. discovered in 1728 by **James Bradley** while attempting to measure stellar parallax, aberration provided the very first direct observational proof of Earth's orbital revolution around the Sun and confirmed the finite speed of light $c$.
 
 ![sphereastro2-18.png](../../assets/images/sphereastro2-18.png)
@@ -73,20 +72,20 @@ students frequently confuse aberration and parallax. they must be rigorously dis
 ## see also
 
 - [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Annual stellar parallax](./Annual%20stellar%20parallax.html)
-- [Proper motion and stellar kinematics](./Proper%20motion%20and%20stellar%20kinematics.html)
-- [Precession and nutation](./Precession%20and%20nutation.html)
-- [Equatorial system](./Equatorial%20system.html)
-- [Ecliptic system](./Ecliptic%20system.html)
-{% endraw %}
+- [Annual stellar parallax](Annual%20stellar%20parallax.html)
+- [Proper motion and stellar kinematics](Proper%20motion%20and%20stellar%20kinematics.html)
+- [Precession and nutation](Precession%20and%20nutation.html)
+- [Equatorial system](Equatorial%20system.html)
+- [Ecliptic system](Ecliptic%20system.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (5)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Annual%20stellar%20parallax.html" class="backlink-item">Annual stellar parallax</a></li>
-    <li class="backlink-item-wrap"><a href="./Atmospheric%20refraction.html" class="backlink-item">Atmospheric refraction</a></li>
+    <li class="backlink-item-wrap"><a href="Annual%20stellar%20parallax.html" class="backlink-item">Annual stellar parallax</a></li>
+    <li class="backlink-item-wrap"><a href="Atmospheric%20refraction.html" class="backlink-item">Atmospheric refraction</a></li>
+    <li class="backlink-item-wrap"><a href="Precession%20and%20nutation.html" class="backlink-item">Precession and nutation</a></li>
+    <li class="backlink-item-wrap"><a href="Proper%20motion%20and%20stellar%20kinematics.html" class="backlink-item">Proper motion and stellar kinematics</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Precession%20and%20nutation.html" class="backlink-item">Precession and nutation</a></li>
-    <li class="backlink-item-wrap"><a href="./Proper%20motion%20and%20stellar%20kinematics.html" class="backlink-item">Proper motion and stellar kinematics</a></li>
   </ul>
 </div>
+

@@ -2,7 +2,6 @@
 layout: "default"
 title: "Curvature-dynamics relation"
 ---
-{% raw %}
 **spatial curvature is determined by the total energy content** of the universe. expressed cleanly in the Friedmann equation today: $kc^2 = H_0^2 a_0^2(\Omega_{\rm tot} - 1)$. flat universe iff $\sum\Omega = 1$.
 
 ## the relation
@@ -60,16 +59,15 @@ flat universe: $\ell_1 \approx 220$. open: smaller. closed: larger. Planck data 
 
 ## see also
 
-- [Spatial curvature parameter k](./Spatial%20curvature%20parameter%20k.html)
-- [Friedmann equations](./Friedmann%20equations.html)
-- [Density parameters](./Density%20parameters.html)
-- [ΛCDM current parameters](./%CE%9BCDM%20current%20parameters.html)
-- [CMB power spectrum](./CMB%20power%20spectrum.html)
-- [Angular diameter distance](./Angular%20diameter%20distance.html)
-- [Inflation overview](./Inflation%20overview.html)
-- [Cosmological constant](./Cosmological%20constant.html)
+- [Spatial curvature parameter k](Spatial%20curvature%20parameter%20k.html)
+- [Friedmann equations](Friedmann%20equations.html)
+- [Density parameters](Density%20parameters.html)
+- [ΛCDM current parameters](%CE%9BCDM%20current%20parameters.html)
+- [CMB power spectrum](CMB%20power%20spectrum.html)
+- [Angular diameter distance](Angular%20diameter%20distance.html)
+- [Inflation overview](Inflation%20overview.html)
+- [Cosmological constant](Cosmological%20constant.html)
 - [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
-{% endraw %}
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (1)</h4>
@@ -77,3 +75,4 @@ flat universe: $\ell_1 \approx 220$. open: smaller. closed: larger. Planck data 
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
   </ul>
 </div>
+

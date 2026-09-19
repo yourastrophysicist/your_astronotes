@@ -2,7 +2,6 @@
 layout: "default"
 title: "Why intensity interferometry escapes atmospheric phase"
 ---
-{% raw %}
 # Why intensity interferometry escapes atmospheric phase
 
 the fundamental advantage of HBT-style intensity interferometry over amplitude interferometry. the atmospheric phase corruption that plagues optical interferometry is **completely irrelevant** for intensity measurements. understanding why is the key insight.
@@ -111,4 +110,3 @@ niche secured: bright nearby stars, surface features, hot spots, cool spots.
 - [Narrabri stellar interferometer](interf/Narrabri%20stellar%20interferometer.html)
 - [Sensitivity and modern revival](interf/Sensitivity%20and%20modern%20revival.html)
 - [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-{% endraw %}

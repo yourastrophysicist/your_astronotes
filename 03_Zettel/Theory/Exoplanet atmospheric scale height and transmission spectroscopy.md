@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Exoplanet atmospheric scale height and transmission spectroscopy"
-name: "Exoplanet atmospheric scale height and transmission spectroscopy"
-description: "isothermal scale height, wavelength-dependent transit depth, slant optical depth, and molecular spectral retrievals"
 ---
-{% raw %}
 transmission spectroscopy probes the composition and temperature structure of an exoplanet's atmosphere during primary transit, as stellar light filters through the thin annulus of gas surrounding the planet's terminator.
 
 ## the atmospheric scale height
@@ -41,15 +38,15 @@ $$\Delta \delta(\lambda) \propto \frac{R_p T_{\text{eq}}}{\mu M_p R_\star^2}$$
 - [20_Exoplanet_Atmospheres_and_Transmission_Spectroscopy](../../02_Literature/Lectures/Exoplanetary_Astrophysics/20_Exoplanet_Atmospheres_and_Transmission_Spectroscopy.html)
 - [Atmospheric radiative transfer equation and Voigt profile](../Computational/Atmospheric%20radiative%20transfer%20equation%20and%20Voigt%20profile.html)
 - [Exoplanet atmospheric retrieval and TauREx framework](../Computational/Exoplanet%20atmospheric%20retrieval%20and%20TauREx%20framework.html)
-- [Mandel-Agol analytical transit light curve model](./Mandel-Agol%20analytical%20transit%20light%20curve%20model.html)
-{% endraw %}
+- [Mandel-Agol analytical transit light curve model](Mandel-Agol%20analytical%20transit%20light%20curve%20model.html)
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (4)</h4>
   <ul class="backlinks-list">
     <li class="backlink-item-wrap"><a href="../Computational/Atmospheric%20radiative%20transfer%20equation%20and%20Voigt%20profile.html" class="backlink-item">Atmospheric radiative transfer equation and Voigt profile</a></li>
     <li class="backlink-item-wrap"><a href="../Computational/Exoplanet%20atmospheric%20retrieval%20and%20TauREx%20framework.html" class="backlink-item">Exoplanet atmospheric retrieval and TauREx framework</a></li>
+    <li class="backlink-item-wrap"><a href="Small%20exoplanets%20and%20the%20Fulton%20radius%20valley.html" class="backlink-item">Small exoplanets and the Fulton radius valley</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Small%20exoplanets%20and%20the%20Fulton%20radius%20valley.html" class="backlink-item">Small exoplanets and the Fulton radius valley</a></li>
   </ul>
 </div>
+

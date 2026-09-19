@@ -2,7 +2,6 @@
 layout: "default"
 title: "05_Machine_Learning_Foundations_and_Regression_Models"
 ---
-{% raw %}
 # Lesson 05 – Machine Learning Foundations and Regression Models
 
 *Computational Astrophysics, Prof. Tiziano Zingales*  
@@ -257,15 +256,12 @@ Random Forests provide an explicit ranking of physical features: the importance 
 
 ![Bias-Variance Tradeoff and Cross-Validation](../../../assets/images/comp_ml_p20.png)
 *Figure COMP-05: Bias-Variance tradeoff curve and K-fold cross-validation performance as a function of model complexity and polynomial basis degrees.*
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
+  <h4 class="backlinks-title">Linked References (2)</h4>
   <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./04_Exoplanet_Demographics_Orbital_Mechanics_and_Transits.html" class="backlink-item">04_Exoplanet_Demographics_Orbital_Mechanics_and_Transits</a></li>
-    <li class="backlink-item-wrap"><a href="./06_Deep_Learning_Architectures_and_Optimization.html" class="backlink-item">06_Deep_Learning_Architectures_and_Optimization</a></li>
-    <li class="backlink-item-wrap"><a href="./09_Bayesian_Inference_and_Parameter_Estimation.html" class="backlink-item">09_Bayesian_Inference_and_Parameter_Estimation</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
     <li class="backlink-item-wrap"><a href="../../../03_Zettel/Computational/Supervised%20regression%20basis%20models%20and%20regularization.html" class="backlink-item">Supervised regression basis models and regularization</a></li>
+    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
   </ul>
 </div>
+

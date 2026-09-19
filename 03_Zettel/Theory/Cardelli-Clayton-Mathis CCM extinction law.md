@@ -1,10 +1,7 @@
 ---
 layout: "default"
 title: "Cardelli-Clayton-Mathis CCM extinction law"
-name: "Cardelli-Clayton-Mathis CCM extinction law"
-description: "the mathematical formulation and polynomial parametrization of interstellar extinction from IR to far-UV"
 ---
-{% raw %}
 Cardelli, Clayton, & Mathis (CCM 1989, *ApJ*, 345, 245) established that the total extinction law $A_\lambda / A_V$ from $0.125\text{ }\mu\text{m}$ to $3.5\text{ }\mu\text{m}$ is governed by a single parameter: $R_V \equiv A_V / E(B-V)$.
 
 $$\frac{A_\lambda}{A_V} = a(x) + \frac{b(x)}{R_V} \quad \text{with } x \equiv \frac{1}{\lambda}\ [\mu\text{m}^{-1}]$$
@@ -26,18 +23,17 @@ where the Lorentzian profiles represent the **$2175\text{ \AA}$ bump** ($x \appr
 ## see also
 
 - [Astrophysics_of_the_Interstellar_Medium_MOC](../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html)
-- [Trumpler discovery of interstellar extinction](./Trumpler%20discovery%20of%20interstellar%20extinction.html)
-- [Diffuse interstellar bands and polycyclic aromatic hydrocarbons](./Diffuse%20interstellar%20bands%20and%20polycyclic%20aromatic%20hydrocarbons.html)
-- [Interstellar reddening and the reddening vector](./Interstellar%20reddening%20and%20the%20reddening%20vector.html)
+- [Trumpler discovery of interstellar extinction](Trumpler%20discovery%20of%20interstellar%20extinction.html)
+- [Diffuse interstellar bands and polycyclic aromatic hydrocarbons](Diffuse%20interstellar%20bands%20and%20polycyclic%20aromatic%20hydrocarbons.html)
+- [Interstellar reddening and the reddening vector](Interstellar%20reddening%20and%20the%20reddening%20vector.html)
 - [Carraro_05_Interstellar_Dust_and_Extinction](../../02_Literature/Lectures/Interstellar_Medium/Carraro_05_Interstellar_Dust_and_Extinction.html)
-{% endraw %}
 
 <div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
+  <h4 class="backlinks-title">Linked References (3)</h4>
   <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="Diffuse%20interstellar%20bands%20and%20polycyclic%20aromatic%20hydrocarbons.html" class="backlink-item">Diffuse interstellar bands and polycyclic aromatic hydrocarbons</a></li>
+    <li class="backlink-item-wrap"><a href="Trumpler%20discovery%20of%20interstellar%20extinction.html" class="backlink-item">Trumpler discovery of interstellar extinction</a></li>
     <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html" class="backlink-item">Astrophysics_of_the_Interstellar_Medium_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../02_Literature/Lectures/Interstellar_Medium/Carraro_05_Interstellar_Dust_and_Extinction.html" class="backlink-item">Carraro_05_Interstellar_Dust_and_Extinction</a></li>
-    <li class="backlink-item-wrap"><a href="./Diffuse%20interstellar%20bands%20and%20polycyclic%20aromatic%20hydrocarbons.html" class="backlink-item">Diffuse interstellar bands and polycyclic aromatic hydrocarbons</a></li>
-    <li class="backlink-item-wrap"><a href="./Trumpler%20discovery%20of%20interstellar%20extinction.html" class="backlink-item">Trumpler discovery of interstellar extinction</a></li>
   </ul>
 </div>
+
