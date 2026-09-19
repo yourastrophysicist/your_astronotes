@@ -19,7 +19,7 @@ in a co-rotating frame centered on a binary system with masses $M_1$ and $M_2$, 
 ### three morphological classes of binary systems:
 1. **Detached binary**: both stars are well within their respective Roche lobes. they evolve independently as single stars (e.g. standard eclipsing binaries used for measuring stellar radii and masses).
 2. **Semidetached binary**: one star expands to fill its Roche lobe. gas from its outer atmosphere spills through the L1 point into the Roche lobe of the companion star, forming an **accretion disk**.
-   - **the Algol paradox**: in Algol ($eta$ Persei), the less massive star ($0.8 M_\odot$) is an evolved subgiant, while the more massive star ($3.7 M_\odot$) is an unevolved main sequence star! this paradox is resolved by mass transfer: the subgiant was originally the more massive star, evolved faster, filled its Roche lobe, and dumped most of its mass onto its companion.
+   - **the Algol paradox**: in Algol ($\beta$ Persei), the less massive star ($0.8 M_\odot$) is an evolved subgiant, while the more massive star ($3.7 M_\odot$) is an unevolved main sequence star! this paradox is resolved by mass transfer: the subgiant was originally the more massive star, evolved faster, filled its Roche lobe, and dumped most of its mass onto its companion.
 3. **Contact binary (W Ursae Majoris stars)**: both stars fill their Roche lobes, sharing a common gaseous envelope and having virtually identical surface temperatures.
 
 ### consequences of binary mass transfer:

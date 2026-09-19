@@ -5,9 +5,7 @@ tags: ""
 ---
 # Ionized Gas Kinematics
 
-Ionized gas kinematics provides a direct, highly sensitive probe of the gravitational potential and dynamical mass distribution in star-forming galaxies, active galactic nuclei (AGN), and cluster environments. In sharp contrast to collisionless stellar populations, the interstellar gas constitutes a dissipative fluid. Gas clouds undergo inelastic hydrodynamic collisions, radiate thermal energy efficiently via collisional excitation and fine-structure line cooling, and rapidly damp non-circular and random motions. Consequently, warm ionized gas ($T \sim 10^4$ K) settles into a geometrically thin rotating disk where circular rotation dominates over random velocity dispersion ($v_{
-m rot} \gg \sigma_{
-m gas}$). This fundamental hydrodynamic property makes ionized gas emission lines the premier observational tracer for constructing precision rotation curves, measuring dark matter halo profiles, and diagnosing non-circular phenomena such as galactic bars, spiral density waves, and superwind outflows.
+Ionized gas kinematics provides a direct, highly sensitive probe of the gravitational potential and dynamical mass distribution in star-forming galaxies, active galactic nuclei (AGN), and cluster environments. In sharp contrast to collisionless stellar populations, the interstellar gas constitutes a dissipative fluid. Gas clouds undergo inelastic hydrodynamic collisions, radiate thermal energy efficiently via collisional excitation and fine-structure line cooling, and rapidly damp non-circular and random motions. Consequently, warm ionized gas ($T \sim 10^4$ K) settles into a geometrically thin rotating disk where circular rotation dominates over random velocity dispersion ($v_{\mathrm{rot}} \gg \sigma_{\mathrm{gas}}$). This fundamental hydrodynamic property makes ionized gas emission lines the premier observational tracer for constructing precision rotation curves, measuring dark matter halo profiles, and diagnosing non-circular phenomena such as galactic bars, spiral density waves, and superwind outflows.
 
 ---
 
@@ -16,35 +14,24 @@ m gas}$). This fundamental hydrodynamic property makes ionized gas emission line
 Warm ionized gas kinematics is observed via narrow nebular emission lines produced in H II regions and diffuse ionized gas (DIG) excited by OB stellar ultraviolet flux or AGN radiation fields.
 
 ### Diagnostic Optical Emission Lines
-- **Hydrogen Balmer Series** - $	ext{H}lpha$ ($\lambda 6562.8$ \AA), $	ext{H}eta$ ($\lambda 4861.3$ \AA). $	ext{H}lpha$ is the strongest optical line in star-forming galaxies, offering high signal-to-noise ratios even in outer disk regions.
-- **Low-Ionization Forbidden Lines** - $[	ext{N II}]$ ($\lambda 6548.1, 6583.5$ \AA), $[	ext{S II}]$ ($\lambda 6716.4, 6730.8$ \AA). These lines bracket $	ext{H}lpha$ and are relatively immune to stellar absorption over-subtraction.
-- **High-Ionization Forbidden Lines** - $[	ext{O III}]$ ($\lambda 4958.9, 5007.0$ \AA). Crucial for mapping high-excitation gas in galaxy bulges, Seyfert nuclei, and high-redshift starbursts.
+- **Hydrogen Balmer Series** - $\text{H}\alpha$ ($\lambda 6562.8$ \AA), $\text{H}\beta$ ($\lambda 4861.3$ \AA). $\text{H}\alpha$ is the strongest optical line in star-forming galaxies, offering high signal-to-noise ratios even in outer disk regions.
+- **Low-Ionization Forbidden Lines** - $[\text{N II}]$ ($\lambda 6548.1, 6583.5$ \AA), $[\text{S II}]$ ($\lambda 6716.4, 6730.8$ \AA). These lines bracket $\text{H}\alpha$ and are relatively immune to stellar absorption over-subtraction.
+- **High-Ionization Forbidden Lines** - $[\text{O III}]$ ($\lambda 4958.9, 5007.0$ \AA). Crucial for mapping high-excitation gas in galaxy bulges, Seyfert nuclei, and high-redshift starbursts.
 
 ### Mathematical Spectral Modeling
 For each spatial resolution element (spaxel or long-slit position), the emission line profile is parameterized as a Gaussian superimposed on the local stellar or continuum baseline $C(\lambda)$ -
-$$I(\lambda) = C(\lambda) + \sum_{k=1}^K A_k \exp\left[ -rac{(\lambda - \lambda_{{
-m obs}, k})^2}{2 \sigma_{\lambda, k}^2} 
+$$I(\lambda) = C(\lambda) + \sum_{k=1}^K A_k \exp\left[ -\frac{(\lambda - \lambda_{\mathrm{obs}, k})^2}{2 \sigma_{\lambda, k}^2} 
 ight]$$
-From the fitted centroid $\lambda_{
-m obs}$ and observed line dispersion $\sigma_\lambda$, the kinematic observables are extracted via relativistic Doppler kinematics -
-$$v_{
-m los} = c \, rac{\lambda_{
-m obs} - \lambda_{
-m rest}}{\lambda_{
-m rest}}$$
-$$\sigma_v = c \, rac{\sqrt{\sigma_\lambda^2 - \sigma_{
-m inst}^2}}{\lambda_{
-m rest}}$$
-where $\sigma_{
-m inst}$ is the instrumental spectral resolution determined from arc-lamp calibration lines. In active nuclei or starbursts with galactic winds, multi-component Gaussian fits are required to deblend the kinematically cold disk component ($\sigma_v pprox 15 - 30	ext{ km s}^{-1}$) from a broad turbulent outflow component ($\sigma_v \gtrsim 150 - 500	ext{ km s}^{-1}$).
+From the fitted centroid $\lambda_{\mathrm{obs}}$ and observed line dispersion $\sigma_\lambda$, the kinematic observables are extracted via relativistic Doppler kinematics -
+$$v_{\mathrm{los}} = c \, \frac{\lambda_{\mathrm{obs}} - \lambda_{\mathrm{rest}}}{\lambda_{\mathrm{rest}}}$$
+$$\sigma_v = c \, \frac{\sqrt{\sigma_\lambda^2 - \sigma_{\mathrm{inst}}^2}}{\lambda_{\mathrm{rest}}}$$
+where $\sigma_{\mathrm{inst}}$ is the instrumental spectral resolution determined from arc-lamp calibration lines. In active nuclei or starbursts with galactic winds, multi-component Gaussian fits are required to deblend the kinematically cold disk component ($\sigma_v \approx 15 - 30\text{ km s}^{-1}$) from a broad turbulent outflow component ($\sigma_v \gtrsim 150 - 500\text{ km s}^{-1}$).
 
 ---
 
 ## 2. Mathematical Kinematic Modeling - The 2D Tilted Ring Method
 
-To transform observed two-dimensional line-of-sight velocity fields $v_{
-m los}(x, y)$ into physical radial circular velocity curves $v_{
-m rot}(R)$, the standard mathematical tool is the tilted-ring model (Begeman 1987).
+To transform observed two-dimensional line-of-sight velocity fields $v_{\mathrm{los}}(x, y)$ into physical radial circular velocity curves $v_{\mathrm{rot}}(R)$, the standard mathematical tool is the tilted-ring model (Begeman 1987).
 
 ### Geometric Projection Formalism
 The galaxy disk is decomposed into concentric elliptical rings of radius $R$, characterized by an inclination $i$ relative to the plane of the sky and a major-axis position angle $\phi_0$ (measured counter-clockwise from North).
@@ -52,103 +39,58 @@ Let $(x_0, y_0)$ be the kinematic center of the galaxy on the sky plane. The sky
 $$x' = -(x - x_0) \sin \phi_0 + (y - y_0) \cos \phi_0$$
 $$y' = -(x - x_0) \cos \phi_0 - (y - y_0) \sin \phi_0$$
 The galactocentric radius $R$ in the plane of the disk is given by -
-$$R = \sqrt{x'^2 + \left( rac{y'}{\cos i} 
+$$R = \sqrt{x'^2 + \left( \frac{y'}{\cos i} 
 ight)^2}$$
 The azimuthal angle $	heta$ in the disk plane (measured from the receding major axis) satisfies -
-$$\cos 	heta = rac{x'}{R} = rac{-(x - x_0) \sin \phi_0 + (y - y_0) \cos \phi_0}{R}$$
-$$\sin 	heta = rac{y'}{R \cos i} = rac{-(x - x_0) \cos \phi_0 - (y - y_0) \sin \phi_0}{R \cos i}$$
+$$\cos 	heta = \frac{x'}{R} = \frac{-(x - x_0) \sin \phi_0 + (y - y_0) \cos \phi_0}{R}$$
+$$\sin 	heta = \frac{y'}{R \cos i} = \frac{-(x - x_0) \cos \phi_0 - (y - y_0) \sin \phi_0}{R \cos i}$$
 
 ### Velocity Projection Equation
-For a purely rotating thin disk with systemic velocity $v_{
-m sys}$, circular rotation speed $v_{
-m rot}(R)$, and a possible radial expansion or inflow velocity $v_{
-m exp}(R)$, the projected line-of-sight velocity is derived from vector addition -
-$$ec{v} = v_{
-m sys} \hat{z} + \left[ v_{
-m rot}(R) \hat{	heta} + v_{
-m exp}(R) \hat{R} 
+For a purely rotating thin disk with systemic velocity $v_{\mathrm{sys}}$, circular rotation speed $v_{\mathrm{rot}}(R)$, and a possible radial expansion or inflow velocity $v_{\mathrm{exp}}(R)$, the projected line-of-sight velocity is derived from vector addition -
+$$\vec{v} = v_{\mathrm{sys}} \hat{z} + \left[ v_{\mathrm{rot}}(R) \hat{	heta} + v_{\mathrm{exp}}(R) \hat{R} 
 ight]$$
-Projecting along the observer line of sight ($\hat{n}_{
-m los} = \sin i \cos 	heta \, \hat{	heta} + \sin i \sin 	heta \, \hat{R} + \cos i \, \hat{z}$) yields -
-$$v_{
-m los}(R, 	heta) = v_{
-m sys} + v_{
-m rot}(R) \sin i \cos 	heta + v_{
-m exp}(R) \sin i \sin 	heta$$
+Projecting along the observer line of sight ($\hat{n}_{\mathrm{los}} = \sin i \cos 	heta \, \hat{	heta} + \sin i \sin 	heta \, \hat{R} + \cos i \, \hat{z}$) yields -
+$$v_{\mathrm{los}}(R, 	heta) = v_{\mathrm{sys}} + v_{\mathrm{rot}}(R) \sin i \cos 	heta + v_{\mathrm{exp}}(R) \sin i \sin 	heta$$
 
 ### Harmonic Decomposition
 In the presence of non-axisymmetric potentials (such as stellar bars or oval distortions), the velocity field is expanded into a Fourier harmonic series -
-$$v_{
-m los}(R, 	heta) = c_0(R) + \sum_{m=1}^M \left[ c_m(R) \cos(m	heta) + s_m(R) \sin(m	heta) 
+$$v_{\mathrm{los}}(R, 	heta) = c_0(R) + \sum_{m=1}^M \left[ c_m(R) \cos(m	heta) + s_m(R) \sin(m	heta) 
 ight]$$
 where -
-- $c_0(R) = v_{
-m sys}$ is the systemic velocity.
-- $c_1(R) = v_{
-m rot}(R) \sin i$ isolates the pure circular rotation.
-- $s_1(R) = v_{
-m exp}(R) \sin i$ isolates net radial flows.
+- $c_0(R) = v_{\mathrm{sys}}$ is the systemic velocity.
+- $c_1(R) = v_{\mathrm{rot}}(R) \sin i$ isolates the pure circular rotation.
+- $s_1(R) = v_{\mathrm{exp}}(R) \sin i$ isolates net radial flows.
 - Higher-order terms ($c_3, s_3$) directly quantify non-axisymmetric streaming motions induced by galactic bars and spiral density waves.
 
 ---
 
 ## 3. Asymmetric Drift in Gas Disks
 
-Because the gas has finite turbulent and thermal pressure, the observed rotation speed $v_{
-m rot}$ is slightly lower than the true circular speed $v_c(R) = \sqrt{R \, d\Phi/dR}$ dictated by gravity.
+Because the gas has finite turbulent and thermal pressure, the observed rotation speed $v_{\mathrm{rot}}$ is slightly lower than the true circular speed $v_c(R) = \sqrt{R \, d\Phi/dR}$ dictated by gravity.
 
 ### Step-by-Step Calculus Derivation
 1. Write the radial hydrodynamic Euler equation for a steady-state, axisymmetric, rotating thin gas disk in cylindrical coordinates $(R, 	heta, z)$ -
-   $$rac{v_{
-m rot}^2}{R} = rac{\partial \Phi}{\partial R} + rac{1}{
-ho_{
-m gas}} rac{\partial P_{
-m gas}}{\partial R}$$
+   $$\frac{v_{\mathrm{rot}}^2}{R} = \frac{\partial \Phi}{\partial R} + \frac{1}{
+ho_{\mathrm{gas}}} \frac{\partial P_{\mathrm{gas}}}{\partial R}$$
 2. The gravitational acceleration defines the true circular orbital velocity $v_c$ -
-   $$rac{\partial \Phi}{\partial R} = rac{v_c^2}{R}$$
-3. Substitute the equation of state for turbulent gas pressure, $P_{
-m gas} = 
-ho_{
-m gas} \sigma_{
-m gas}^2$, where $\sigma_{
-m gas}$ is the isotropic gas velocity dispersion -
-   $$rac{v_{
-m rot}^2}{R} = rac{v_c^2}{R} + rac{1}{
-ho_{
-m gas}} rac{\partial (
-ho_{
-m gas} \sigma_{
-m gas}^2)}{\partial R}$$
+   $$\frac{\partial \Phi}{\partial R} = \frac{v_c^2}{R}$$
+3. Substitute the equation of state for turbulent gas pressure, $P_{\mathrm{gas}} = 
+ho_{\mathrm{gas}} \sigma_{\mathrm{gas}}^2$, where $\sigma_{\mathrm{gas}}$ is the isotropic gas velocity dispersion -
+   $$\frac{v_{\mathrm{rot}}^2}{R} = \frac{v_c^2}{R} + \frac{1}{
+ho_{\mathrm{gas}}} \frac{\partial (
+ho_{\mathrm{gas}} \sigma_{\mathrm{gas}}^2)}{\partial R}$$
 4. Multiply the entire equation by $R$ and rearrange terms -
-   $$v_c^2 - v_{
-m rot}^2 = -rac{R}{
-ho_{
-m gas}} \left[ \sigma_{
-m gas}^2 rac{\partial 
-ho_{
-m gas}}{\partial R} + 
-ho_{
-m gas} rac{\partial \sigma_{
-m gas}^2}{\partial R} 
+   $$v_c^2 - v_{\mathrm{rot}}^2 = -\frac{R}{
+ho_{\mathrm{gas}}} \left[ \sigma_{\mathrm{gas}}^2 \frac{\partial 
+ho_{\mathrm{gas}}}{\partial R} + 
+ho_{\mathrm{gas}} \frac{\partial \sigma_{\mathrm{gas}}^2}{\partial R} 
 ight]$$
-5. Factor out $\sigma_{
-m gas}^2$ and express derivatives in logarithmic form ($d\ln x = dx/x$) -
-   $$v_c^2 - v_{
-m rot}^2 = -\sigma_{
-m gas}^2 \left[ rac{\partial \ln 
-ho_{
-m gas}}{\partial \ln R} + rac{\partial \ln \sigma_{
-m gas}^2}{\partial \ln R} 
+5. Factor out $\sigma_{\mathrm{gas}}^2$ and express derivatives in logarithmic form ($d\ln x = dx/x$) -
+   $$v_c^2 - v_{\mathrm{rot}}^2 = -\sigma_{\mathrm{gas}}^2 \left[ \frac{\partial \ln 
+ho_{\mathrm{gas}}}{\partial \ln R} + \frac{\partial \ln \sigma_{\mathrm{gas}}^2}{\partial \ln R} 
 ight]$$
 6. Quantitative significance -
-   In normal local spiral galaxies, typical values are $v_{
-m rot} \sim 200	ext{ km s}^{-1}$ and $\sigma_{
-m gas} \sim 10 - 15	ext{ km s}^{-1}$. The asymmetric drift correction is negligible ($v_c - v_{
-m rot} pprox \sigma_{
-m gas}^2 / (2 v_{
-m rot}) \lesssim 1	ext{ km s}^{-1}$). However, in dwarf galaxies and high-redshift starburst disks ($z \sim 2$) where $\sigma_{
-m gas} \sim 50 - 80	ext{ km s}^{-1}$ and $v_{
-m rot} \sim 100	ext{ km s}^{-1}$, the asymmetric drift correction reaches $20 - 40	ext{ km s}^{-1}$ and must be explicitly added to reconstruct the true dynamical mass.
+   In normal local spiral galaxies, typical values are $v_{\mathrm{rot}} \sim 200\text{ km s}^{-1}$ and $\sigma_{\mathrm{gas}} \sim 10 - 15\text{ km s}^{-1}$. The asymmetric drift correction is negligible ($v_c - v_{\mathrm{rot}} \approx \sigma_{\mathrm{gas}}^2 / (2 v_{\mathrm{rot}}) \lesssim 1\text{ km s}^{-1}$). However, in dwarf galaxies and high-redshift starburst disks ($z \sim 2$) where $\sigma_{\mathrm{gas}} \sim 50 - 80\text{ km s}^{-1}$ and $v_{\mathrm{rot}} \sim 100\text{ km s}^{-1}$, the asymmetric drift correction reaches $20 - 40\text{ km s}^{-1}$ and must be explicitly added to reconstruct the true dynamical mass.
 
 ---
 
@@ -157,22 +99,13 @@ m rot} \sim 100	ext{ km s}^{-1}$, the asymmetric drift correction reaches $20 - 
 The dominant observational bias in ionized gas kinematics is beam smearing, which occurs when the telescope spatial Point Spread Function (PSF, caused by atmospheric seeing or finite aperture size) convolves steep spatial velocity gradients.
 
 ### Mathematical Formulation of Beam Smearing
-The observed surface brightness $I_{
-m obs}$ and observed velocity field $v_{
-m obs}$ are spatial convolutions of the true disk properties with the telescope PSF $P(x, y)$ -
-$$I_{
-m obs}(x, y) = \int_{-\infty}^{+\infty} \int_{-\infty}^{+\infty} I_{
-m true}(x', y') P(x - x', y - y') \, dx' \, dy'$$
-$$v_{
-m obs}(x, y) = rac{\int \int I_{
-m true}(x', y') v_{
-m los}(x', y') P(x - x', y - y') \, dx' \, dy'}{I_{
-m obs}(x, y)}$$
+The observed surface brightness $I_{\mathrm{obs}}$ and observed velocity field $v_{\mathrm{obs}}$ are spatial convolutions of the true disk properties with the telescope PSF $P(x, y)$ -
+$$I_{\mathrm{obs}}(x, y) = \int_{-\infty}^{+\infty} \int_{-\infty}^{+\infty} I_{\mathrm{true}}(x', y') P(x - x', y - y') \, dx' \, dy'$$
+$$v_{\mathrm{obs}}(x, y) = \frac{\int \int I_{\mathrm{true}}(x', y') v_{\mathrm{los}}(x', y') P(x - x', y - y') \, dx' \, dy'}{I_{\mathrm{obs}}(x, y)}$$
 
 ### Physical Consequences
 1. **Artificial Rotation Curve Flattening** - In the central regions of galaxies, the true rotation curve rises steeply ($v \propto R$). Beam smearing blends the receding and approaching sides across the seeing disk, artificially lowering the measured slope and creating the false impression of an extended constant-density core.
-2. **Spurious Dispersion Peaks** - Because emission from different velocities is blended within a single resolution element, the observed line width $\sigma_{
-m obs}$ develops a large artificial peak at the galactic center, even if the intrinsic gas velocity dispersion is completely uniform.
+2. **Spurious Dispersion Peaks** - Because emission from different velocities is blended within a single resolution element, the observed line width $\sigma_{\mathrm{obs}}$ develops a large artificial peak at the galactic center, even if the intrinsic gas velocity dispersion is completely uniform.
 
 ---
 
@@ -239,32 +172,20 @@ In approximately 5 to 10 percent of early-type galaxies and lenticulars, ionized
 When asked by Prof. Pizzella - *"How do we measure ionized gas kinematics, derive the rotation curve, and what systematic effects must we account for?"*
 
 1. **State the hydrodynamic nature of the tracer** -
-   - Write on the board - *"Gas is dissipative ($v_{
-m rot} \gg \sigma_{
-m gas}$), whereas stars are collisionless."*
-   - Explain - *"Because gas clouds collide and radiate, they settle into thin disks with circular orbits. Measuring the Doppler shift of emission lines like $	ext{H}lpha$ and $[	ext{N II}]$ directly gives the circular velocity $v_c(R)$, tracing the total dynamical mass."*
+   - Write on the board - *"Gas is dissipative ($v_{\mathrm{rot}} \gg \sigma_{\mathrm{gas}}$), whereas stars are collisionless."*
+   - Explain - *"Because gas clouds collide and radiate, they settle into thin disks with circular orbits. Measuring the Doppler shift of emission lines like $\text{H}\alpha$ and $[\text{N II}]$ directly gives the circular velocity $v_c(R)$, tracing the total dynamical mass."*
 
 2. **Write the tilted-ring projection equation** -
    - Write on the board -
-     $$v_{
-m los}(R, 	heta) = v_{
-m sys} + v_{
-m rot}(R) \sin i \cos 	heta + v_{
-m exp}(R) \sin i \sin 	heta$$
+     $$v_{\mathrm{los}}(R, 	heta) = v_{\mathrm{sys}} + v_{\mathrm{rot}}(R) \sin i \cos 	heta + v_{\mathrm{exp}}(R) \sin i \sin 	heta$$
    - Draw the 2D spider diagram showing the characteristic orthogonal isovelocity contours along the minor axis.
 
 3. **Derive the asymmetric drift correction for gas** -
    - Write the radial momentum equation -
-     $$v_c^2 - v_{
-m rot}^2 = -\sigma_{
-m gas}^2 \left[ rac{d\ln 
-ho_{
-m gas}}{d\ln R} + rac{d\ln \sigma_{
-m gas}^2}{d\ln R} 
+     $$v_c^2 - v_{\mathrm{rot}}^2 = -\sigma_{\mathrm{gas}}^2 \left[ \frac{d\ln 
+ho_{\mathrm{gas}}}{d\ln R} + \frac{d\ln \sigma_{\mathrm{gas}}^2}{d\ln R} 
 ight]$$
-   - State clearly - *"In normal spirals, $\sigma_{
-m gas} pprox 10	ext{ km s}^{-1} \ll v_{
-m rot} pprox 200	ext{ km s}^{-1}$, so this correction is less than $1	ext{ km s}^{-1}$. But in dwarf galaxies and high-z turbulent disks, it can reach tens of $	ext{km s}^{-1}$."*
+   - State clearly - *"In normal spirals, $\sigma_{\mathrm{gas}} \approx 10\text{ km s}^{-1} \ll v_{\mathrm{rot}} \approx 200\text{ km s}^{-1}$, so this correction is less than $1\text{ km s}^{-1}$. But in dwarf galaxies and high-z turbulent disks, it can reach tens of $\text{km s}^{-1}$."*
 
 4. **Address beam smearing and observational biases** -
    - Draw the P-V diagram.

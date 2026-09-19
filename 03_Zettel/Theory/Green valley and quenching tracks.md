@@ -13,54 +13,42 @@ The Green Valley represents the sparsely populated intermediate zone in the colo
 
 Photometrically, the green valley is defined across specific optical and ultraviolet-optical color ranges -
 - Optical definition - $1.8 \le (u - r) \le 2.2$ mag in the SDSS system.
-- Ultraviolet-optical definition - $4.0 \le (	ext{NUV} - r) \le 5.0$ mag using GALEX and SDSS photometry.
-The ultraviolet $	ext{NUV} - r$ color is particularly sensitive to star formation quenching because massive A and F stars continue to produce near-UV emission for $\sim 1$ Gyr after the shortest-lived O and B stars have vanished, expanding the visual dynamic range of the transition zone.
+- Ultraviolet-optical definition - $4.0 \le (\text{NUV} - r) \le 5.0$ mag using GALEX and SDSS photometry.
+The ultraviolet $\text{NUV} - r$ color is particularly sensitive to star formation quenching because massive A and F stars continue to produce near-UV emission for $\sim 1$ Gyr after the shortest-lived O and B stars have vanished, expanding the visual dynamic range of the transition zone.
 
 ### Transit Timescale
 The small number density of galaxies in the green valley relative to the red sequence and blue cloud requires a short transit timescale -
-$$	au_{
-m transit} pprox 1.0 - 1.5 	ext{ Gyr}$$
+$$	au_{\mathrm{transit}} \approx 1.0 - 1.5 \text{ Gyr}$$
 If the transition were slow ($	au > 5$ Gyr), galaxies would accumulate in the green valley, eliminating the observed bimodal color distribution.
 
 ---
 
 ## 2. Fast Quenching Channel (Dynamical / Catastrophic Mode)
 
-The fast quenching channel operates on rapid dynamical timescales ($	au_{
-m quench} \lesssim 0.3 - 0.5$ Gyr) and is triggered by violent, gas-rich events.
+The fast quenching channel operates on rapid dynamical timescales ($	au_{\mathrm{quench}} \lesssim 0.3 - 0.5$ Gyr) and is triggered by violent, gas-rich events.
 
 ### Physical Mechanism Sequence
-1. **Gas-Rich Major Merger** - Infalling gas-rich disk galaxies collide. Gravitational torques destroy circular orbital support, funneling vast reservoirs of cold molecular gas into the central kiloparsec at rates exceeding $100 \, M_\odot 	ext{ yr}^{-1}$.
+1. **Gas-Rich Major Merger** - Infalling gas-rich disk galaxies collide. Gravitational torques destroy circular orbital support, funneling vast reservoirs of cold molecular gas into the central kiloparsec at rates exceeding $100 \, M_\odot \text{ yr}^{-1}$.
 2. **Nuclear Starburst** - The concentrated central gas undergoes an intense, compact starburst, rapidly building up a high-Sersic-index stellar bulge and elevating the galaxy concentration index ($C > 2.6$).
-3. **Quasar-Mode AGN Feedback** - Central gas accretion onto the supermassive black hole reaches near-Eddington rates ($\dot{M} \sim \dot{M}_{
-m Edd}$). Radiation pressure, thermal energy injection, and relativistic disk winds couple to the ambient gas.
-4. **Hydrodynamic Blowout** - The mechanical feedback sweeps remaining cold gas out of the host galaxy at velocities exceeding the escape speed ($v_{
-m out} > 1000	ext{ km s}^{-1}$), abruptly halting star formation.
+3. **Quasar-Mode AGN Feedback** - Central gas accretion onto the supermassive black hole reaches near-Eddington rates ($\dot{M} \sim \dot{M}_{\mathrm{Edd}}$). Radiation pressure, thermal energy injection, and relativistic disk winds couple to the ambient gas.
+4. **Hydrodynamic Blowout** - The mechanical feedback sweeps remaining cold gas out of the host galaxy at velocities exceeding the escape speed ($v_{\mathrm{out}} > 1000\text{ km s}^{-1}$), abruptly halting star formation.
 5. **Passive Aging** - Deprived of cold gas, the massive O and B stars perish within tens of millions of years. The galaxy moves almost vertically upward in the CMD across the green valley onto the red sequence with negligible change in stellar mass.
 
 ---
 
 ## 3. Slow Quenching Channel (Secular / Environmental Mode)
 
-The slow quenching channel operates on gas exhaustion timescales ($	au_{
-m quench} \sim 2 - 4$ Gyr), preserving the disc morphology of the galaxy.
+The slow quenching channel operates on gas exhaustion timescales ($	au_{\mathrm{quench}} \sim 2 - 4$ Gyr), preserving the disc morphology of the galaxy.
 
 ### Physical Mechanisms
 1. **Gas Starvation (Strangulation)** - As a galaxy falls into a massive dark matter halo or galaxy cluster, the diffuse hot circumgalactic gas reservoir is stripped by tidal forces and intracluster medium (ICM) hydrodynamic pressure. Deprived of new fuel replenishment from cosmological cold streams, the galaxy continues forming stars only until its existing cold interstellar gas is consumed via the Kennicutt-Schmidt star formation law -
-   $$	au_{
-m exhaust} = rac{M_{
-m HI} + M_{
-m H_2}}{	ext{SFR}} \sim 2 - 3 	ext{ Gyr}$$
+   $$	au_{\mathrm{exhaust}} = \frac{M_{\mathrm{HI}} + M_{
+m H_2}}{\text{SFR}} \sim 2 - 3 \text{ Gyr}$$
 2. **Ram-Pressure Stripping (Gunn and Gott 1972)** - In dense cluster environments, the hydrodynamic drag of the hot ICM removes cold gas directly from the disk when the ram pressure exceeds the galactic gravitational restoring force -
    $$
-ho_{
-m ICM} v_{
-m rel}^2 > 2\pi G \Sigma_* \Sigma_{
-m gas}$$
+ho_{\mathrm{ICM}} v_{\mathrm{rel}}^2 > 2\pi G \Sigma_* \Sigma_{\mathrm{gas}}$$
 3. **Morphological Quenching (Martig et al. 2009)** - The secular growth of a massive central stellar bulge increases the radial epicyclic frequency $\kappa(R)$. By raising the Toomre stability parameter -
-   $$Q = rac{\kappa \, \sigma_{
-m gas}}{\pi G \Sigma_{
-m gas}} > 1$$
+   $$Q = \frac{\kappa \, \sigma_{\mathrm{gas}}}{\pi G \Sigma_{\mathrm{gas}}} > 1$$
    the disk gas becomes dynamically stable against gravitational fragmentation and star formation without requiring physical gas expulsion.
 
 ---
@@ -68,17 +56,9 @@ m gas}} > 1$$
 ## 4. Halo Mass Quenching and the $10^{12} M_\odot$ Virial Threshold
 
 Cosmological hydrodynamic simulations (Dekel and Birnboim 2006) demonstrate that halo mass represents the fundamental master variable governing galaxy quenching.
-- **Low-Mass Halos ($M_{
-m halo} < 10^{12} M_\odot$)** - The gas cooling timescale is shorter than the gravitational dynamical compression timescale ($t_{
-m cool} < t_{
-m dyn}$). Gas flows down onto the galaxy in un-shocked cold filaments, maintaining continuous star formation.
-- **Massive Halos ($M_{
-m halo} \ge 10^{12} M_\odot$)** - Infalling gas undergoes a virial shock at the halo virial radius ($R_{
-m vir}$), heating the circumgalactic medium to the virial temperature -
-   $$T_{
-m vir} = rac{\mu m_p G M_{
-m halo}}{2 k_B R_{
-m vir}} \sim 10^6 - 10^7 	ext{ K}$$
+- **Low-Mass Halos ($M_{\mathrm{halo}} < 10^{12} M_\odot$)** - The gas cooling timescale is shorter than the gravitational dynamical compression timescale ($t_{\mathrm{cool}} < t_{\mathrm{dyn}}$). Gas flows down onto the galaxy in un-shocked cold filaments, maintaining continuous star formation.
+- **Massive Halos ($M_{\mathrm{halo}} \ge 10^{12} M_\odot$)** - Infalling gas undergoes a virial shock at the halo virial radius ($R_{\mathrm{vir}}$), heating the circumgalactic medium to the virial temperature -
+   $$T_{\mathrm{vir}} = \frac{\mu m_p G M_{\mathrm{halo}}}{2 k_B R_{\mathrm{vir}}} \sim 10^6 - 10^7 \text{ K}$$
    In this hot halo regime, radio-mode (maintenance-mode) AGN feedback periodically injects mechanical energy via radio plasma bubbles into the ICM, balancing radiative cooling losses and preventing gas from cooling to form new stars.
 
 ---
@@ -126,10 +106,8 @@ When asked by Prof. Pizzella - *"What is the green valley, what does its existen
      - *"Slow Quenching ($	au \sim 2 - 3$ Gyr) - Environmental gas starvation $	o$ halo stripping $	o$ cold gas exhaustion via Kennicutt-Schmidt law."*
 
 3. **Formulate the halo mass quenching threshold** -
-   - Write - $M_{
-m halo} pprox 10^{12} M_\odot$.
-   - Explain - *"At $M_{
-m halo} pprox 10^{12} M_\odot$, virial shock heating prevents cold gas streams from reaching the disk. Hot gas is kept hot by maintenance-mode radio AGN feedback, permanently shutting off star formation."*
+   - Write - $M_{\mathrm{halo}} \approx 10^{12} M_\odot$.
+   - Explain - *"At $M_{\mathrm{halo}} \approx 10^{12} M_\odot$, virial shock heating prevents cold gas streams from reaching the disk. Hot gas is kept hot by maintenance-mode radio AGN feedback, permanently shutting off star formation."*
 
 ---
 

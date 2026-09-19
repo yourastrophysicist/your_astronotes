@@ -14,10 +14,10 @@ The Hubble Morphological Sequence, first formulated by Edwin Hubble (1926, 1936 
 ### 1. Elliptical Galaxies (E0 to E7)
 Elliptical galaxies appear as smooth, featureless spheroids characterized by elliptical isophotes with no visible disks, dust lanes, or spiral structures.
 - **Mathematical Ellipticity** -
-  $$\epsilon \equiv 1 - rac{b}{a}$$
+  $$\epsilon \equiv 1 - \frac{b}{a}$$
   where $a$ is the semi-major axis and $b$ is the semi-minor axis of the projected elliptical isophote.
-- **Hubble Ellipticity Class Number** - The integer index $n$ in the designation $	ext{E}n$ is defined by -
-  $$n = 10 \, \epsilon = 10 \left( 1 - rac{b}{a} 
+- **Hubble Ellipticity Class Number** - The integer index $n$ in the designation $\text{E}n$ is defined by -
+  $$n = 10 \, \epsilon = 10 \left( 1 - \frac{b}{a} 
 ight)$$
   rounded to the nearest integer.
   - An E0 galaxy appears circular on the sky ($b/a = 1 \implies n = 0$).
@@ -37,11 +37,11 @@ The classification along the sequence from early-type spirals (Sa/SBa) to late-t
    - Sa - Dominant bulge ($B/D \sim 0.3 - 0.5$).
    - Sb - Intermediate bulge ($B/D \sim 0.1 - 0.3$).
    - Sc - Small, faint bulge ($B/D \sim 0.05 - 0.1$).
-   - Sd/Sm - Bulge is negligible or completely absent ($B/D pprox 0$).
+   - Sd/Sm - Bulge is negligible or completely absent ($B/D \approx 0$).
 2. **Pitch Angle of Spiral Arms ($\psi$)** - The angle between the tangent to a spiral arm and the local circle of constant radius -
-   - Sa - Tightly wound spiral arms ($\psi pprox 5^\circ - 10^\circ$).
-   - Sb - Moderately open arms ($\psi pprox 10^\circ - 20^\circ$).
-   - Sc/Sd - Very open, unwound spiral arms ($\psi pprox 20^\circ - 35^\circ$).
+   - Sa - Tightly wound spiral arms ($\psi \approx 5^\circ - 10^\circ$).
+   - Sb - Moderately open arms ($\psi \approx 10^\circ - 20^\circ$).
+   - Sc/Sd - Very open, unwound spiral arms ($\psi \approx 20^\circ - 35^\circ$).
 3. **Resolution of Arms into Substructure** -
    - Sa - Arms are smooth, continuous, and dominated by older disk stars.
    - Sc/Sd - Arms are highly fragmented, knotty, and resolved into bright OB stellar associations, giant H II emission nebulae, and dust filaments.
@@ -57,14 +57,12 @@ The historical terms "early-type" and "late-type" were introduced by Hubble unde
 
 | Physical Property | Early-Type (E / S0) | Intermediate (Sa / Sb) | Late-Type (Sc / Sd / Irr) |
 |---|---|---|---|
-| Dominant Kinematic Support | Velocity dispersion $\sigma$ (Pressure) | Combined $V$ and $\sigma$ | Circular rotation $V_{
-m rot}$ (Cold Disk) |
+| Dominant Kinematic Support | Velocity dispersion $\sigma$ (Pressure) | Combined $V$ and $\sigma$ | Circular rotation $V_{\mathrm{rot}}$ (Cold Disk) |
 | Kinematic Ratio $V/\sigma$ | $V/\sigma \lesssim 0.5$ | $V/\sigma \sim 2 - 5$ | $V/\sigma \sim 10 - 20$ |
-| Sersic Index $n$ | $n pprox 3 - 6$ ($R^{1/4}$ law) | Bulge $n pprox 2 - 4$, Disk $n = 1$ | Pure exponential disk $n pprox 1$ |
-| Cold Gas Fraction $M_{
-m HI}/M_*$ | Negligible ($< 0.01$) | Moderate ($0.05 - 0.20$) | High ($0.30 - 2.0$) |
-| Specific SFR ($	ext{sSFR}$) | Quiescent ($< 10^{-12} 	ext{ yr}^{-1}$) | Moderate ($\sim 10^{-10.5} 	ext{ yr}^{-1}$) | Intense ($\sim 10^{-9.5} 	ext{ yr}^{-1}$) |
-| Optical Color $(B - V)$ | Red ($B - V pprox 0.9$) | Intermediate ($B - V pprox 0.7$) | Blue ($B - V pprox 0.4$) |
+| Sersic Index $n$ | $n \approx 3 - 6$ ($R^{1/4}$ law) | Bulge $n \approx 2 - 4$, Disk $n = 1$ | Pure exponential disk $n \approx 1$ |
+| Cold Gas Fraction $M_{\mathrm{HI}}/M_*$ | Negligible ($< 0.01$) | Moderate ($0.05 - 0.20$) | High ($0.30 - 2.0$) |
+| Specific SFR ($\text{sSFR}$) | Quiescent ($< 10^{-12} \text{ yr}^{-1}$) | Moderate ($\sim 10^{-10.5} \text{ yr}^{-1}$) | Intense ($\sim 10^{-9.5} \text{ yr}^{-1}$) |
+| Optical Color $(B - V)$ | Red ($B - V \approx 0.9$) | Intermediate ($B - V \approx 0.7$) | Blue ($B - V \approx 0.4$) |
 | Mean Stellar Age | Old ($> 10$ Gyr) | Intermediate ($\sim 5 - 8$ Gyr) | Young ($\sim 1 - 3$ Gyr) |
 
 ---

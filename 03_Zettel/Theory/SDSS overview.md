@@ -19,15 +19,8 @@ The Sloan Digital Sky Survey (SDSS) represents the foundational wide-field astro
 ### Time-Delay-and-Integrate (TDI) Drift-Scan Mode
 The imaging survey operated in drift-scanning mode. Instead of tracking the sky with stationary exposures, the telescope remained fixed along a great circle while the charge on the CCDs was shifted synchronously at the sidereal rate along the columns.
 - Integration time per filter -
-  $$t_{
-m int} = rac{N_{
-m pix} \cdot 	heta_{
-m pix}}{\Omega_{
-m sidereal} \cos \delta} pprox 53.9 	ext{ seconds}$$
-  where $N_{
-m pix} = 2048$, pixel scale $	heta_{
-m pix} = 0.396$ arcsec/pixel, and $\Omega_{
-m sidereal} = 15.041$ arcsec/s.
+  $$t_{\mathrm{int}} = \frac{N_{\mathrm{pix}} \cdot 	heta_{\mathrm{pix}}}{\Omega_{\mathrm{sidereal}} \cos \delta} \approx 53.9 \text{ seconds}$$
+  where $N_{\mathrm{pix}} = 2048$, pixel scale $	heta_{\mathrm{pix}} = 0.396$ arcsec/pixel, and $\Omega_{\mathrm{sidereal}} = 15.041$ arcsec/s.
 - Each scan produces continuous optical stripes across five filters, yielding contiguous multi-color imaging across thousands of square degrees.
 
 ---
@@ -37,26 +30,20 @@ m sidereal} = 15.041$ arcsec/s.
 The SDSS filter system was designed to optimize stellar and extragalactic spectral characterization, dividing the optical spectrum from the atmospheric ultraviolet cutoff ($\sim 3000$ \AA) to the silicon CCD cutoff ($\sim 10000$ \AA) into five broad passbands.
 
 ### Filter Parameters and Wavelength Coverage
-1. **$u$-band** - Effective wavelength $\lambda_{
-m eff} pprox 3551$ \AA, FWHM $\Delta \lambda pprox 570$ \AA. Positioned below the Balmer jump ($3646$ \AA) and the 4000 \AA\ break ($D_n 4000$), measuring young star formation and hot white dwarfs.
-2. **$g$-band** - Effective wavelength $\lambda_{
-m eff} pprox 4686$ \AA, FWHM $\Delta \lambda pprox 1390$ \AA. Covers blue stellar continuum, spanning the region between the 4000 \AA\ break and $	ext{H}eta$.
-3. **$r$-band** - Effective wavelength $\lambda_{
-m eff} pprox 6165$ \AA, FWHM $\Delta \lambda pprox 1370$ \AA. High throughput filter positioned in low night-sky background. Serves as the primary reference passband for SDSS galaxy targeting and Petrosian photometry.
-4. **$i$-band** - Effective wavelength $\lambda_{
-m eff} pprox 7481$ \AA, FWHM $\Delta \lambda pprox 1530$ \AA. Covers the near-infrared red giant continuum.
-5. **$z$-band** - Effective wavelength $\lambda_{
-m eff} pprox 8931$ \AA, FWHM $\Delta \lambda pprox 950$ \AA. Extends out to the atmospheric water vapor absorption and CCD sensitivity limit.
+1. **$u$-band** - Effective wavelength $\lambda_{\mathrm{eff}} \approx 3551$ \AA, FWHM $\Delta \lambda \approx 570$ \AA. Positioned below the Balmer jump ($3646$ \AA) and the 4000 \AA\ break ($D_n 4000$), measuring young star formation and hot white dwarfs.
+2. **$g$-band** - Effective wavelength $\lambda_{\mathrm{eff}} \approx 4686$ \AA, FWHM $\Delta \lambda \approx 1390$ \AA. Covers blue stellar continuum, spanning the region between the 4000 \AA\ break and $\text{H}\beta$.
+3. **$r$-band** - Effective wavelength $\lambda_{\mathrm{eff}} \approx 6165$ \AA, FWHM $\Delta \lambda \approx 1370$ \AA. High throughput filter positioned in low night-sky background. Serves as the primary reference passband for SDSS galaxy targeting and Petrosian photometry.
+4. **$i$-band** - Effective wavelength $\lambda_{\mathrm{eff}} \approx 7481$ \AA, FWHM $\Delta \lambda \approx 1530$ \AA. Covers the near-infrared red giant continuum.
+5. **$z$-band** - Effective wavelength $\lambda_{\mathrm{eff}} \approx 8931$ \AA, FWHM $\Delta \lambda \approx 950$ \AA. Extends out to the atmospheric water vapor absorption and CCD sensitivity limit.
 
 ### Magnitude System Definition
 SDSS calibrated photometry on the AB magnitude system (Oke and Gunn 1983), where an object with flat spectral energy distribution per unit frequency $f_
 u$ has zero color -
-$$m_{
-m AB} = -2.5 \log_{10}\left( rac{f_
-u}{3631 	ext{ Jy}} 
+$$m_{\mathrm{AB}} = -2.5 \log_{10}\left( \frac{f_
+u}{3631 \text{ Jy}} 
 ight) = -2.5 \log_{10} f_
 u - 48.60$$
-where $1 	ext{ Jy} = 10^{-23} 	ext{ erg s}^{-1} 	ext{ cm}^{-2} 	ext{ Hz}^{-1}$.
+where $1 \text{ Jy} = 10^{-23} \text{ erg s}^{-1} \text{ cm}^{-2} \text{ Hz}^{-1}$.
 
 ---
 
@@ -66,13 +53,12 @@ where $1 	ext{ Jy} = 10^{-23} 	ext{ erg s}^{-1} 	ext{ cm}^{-2} 	ext{ Hz}^{-1}$.
 SDSS utilized two identical multi-fiber spectrographs fed by optical fibers plugged by hand into pre-drilled aluminum plates positioned at the focal plane.
 - **SDSS-I and SDSS-II** - 640 fibers per plate, fiber core diameter $3.0$ arcseconds ($\sim 5.5$ kpc physical aperture at median redshift $z \sim 0.1$).
 - **SDSS-III (BOSS) and SDSS-IV (eBOSS)** - 1000 fibers per plate, fiber core diameter $2.0$ arcseconds.
-- Spectral coverage - Continuous wavelength range $3800 - 9200$ \AA\ at resolving power $R \equiv \lambda / \Delta \lambda pprox 1800 - 2200$.
+- Spectral coverage - Continuous wavelength range $3800 - 9200$ \AA\ at resolving power $R \equiv \lambda / \Delta \lambda \approx 1800 - 2200$.
 
 ### Algorithmic Target Selection Samples
 1. **Main Galaxy Sample (MGS)** - Strictly flux-limited galaxy sample defined by Petrosian $r$-band magnitude -
-   $$r_{
-m Petro} \le 17.77 	ext{ mag}$$
-   with mean surface brightness cut $\mu_{r, 50} \le 24.5 	ext{ mag arcsec}^{-2}$. Yielded over 700,000 galaxy spectra with median redshift $z pprox 0.104$, achieving completeness greater than 99 percent across the survey area.
+   $$r_{\mathrm{Petro}} \le 17.77 \text{ mag}$$
+   with mean surface brightness cut $\mu_{r, 50} \le 24.5 \text{ mag arcsec}^{-2}$. Yielded over 700,000 galaxy spectra with median redshift $z \approx 0.104$, achieving completeness greater than 99 percent across the survey area.
 2. **Luminous Red Galaxy (LRG) Sample** - Targeted massive early-type galaxies with prominent 4000 \AA\ breaks up to $z \sim 0.5$ using color-magnitude cuts in the $(g-r)$ versus $(r-i)$ diagram to isolate the redshifted break.
 3. **Quasar Survey** - Automated color-color selection in multi-dimensional $u-g, g-r, r-i, i-z$ space to identify point sources with colors deviating from the stellar locus, producing the largest uniform quasar catalog in astronomy ($z = 0.1 - 5.5$).
 
@@ -81,41 +67,22 @@ m Petro} \le 17.77 	ext{ mag}$$
 ## 4. Mathematical Formulation of the K-Correction
 
 Because galaxies are observed at cosmological redshifts $z > 0$, the light detected in a fixed observer-frame passband $R$ originates from a bluer rest-frame passband $Q$. The conversion between observer-frame apparent magnitude $m_R$ and rest-frame absolute magnitude $M_Q$ is given by -
-$$m_R = M_Q + 5 \log_{10}\left( rac{d_L(z)}{10 	ext{ pc}} 
+$$m_R = M_Q + 5 \log_{10}\left( \frac{d_L(z)}{10 \text{ pc}} 
 ight) + K_{QR}(z)$$
 where $d_L(z)$ is the luminosity distance.
 
 ### Step-by-Step Calculus Derivation
 1. The energy flux $F_R$ received through filter $R$ with transmission function $T_R(\lambda)$ (in photon units) is -
-   $$F_R = rac{\int f_\lambda(\lambda_{
-m obs}) T_R(\lambda_{
-m obs}) \lambda_{
-m obs} \, d\lambda_{
-m obs}}{\int T_R(\lambda_{
-m obs}) \lambda_{
-m obs} \, d\lambda_{
-m obs}}$$
-2. By cosmological redshift, observed wavelength is related to emitted rest-frame wavelength by $\lambda_{
-m obs} = \lambda_{
-m rest}(1 + z)$. The received flux density is related to the intrinsic luminosity density by -
-   $$f_\lambda(\lambda_{
-m obs}) = rac{L_\lambda(\lambda_{
-m rest})}{4\pi d_L^2 (1 + z)}$$
-3. Change variable of integration in the numerator from $\lambda_{
-m obs}$ to $\lambda_{
-m rest}$ using $d\lambda_{
-m obs} = (1 + z) \, d\lambda_{
-m rest}$ -
-   $$F_R = rac{\int rac{L_\lambda(\lambda_{
-m rest})}{4\pi d_L^2 (1 + z)} T_R(\lambda_{
-m rest}(1 + z)) \lambda_{
-m rest} (1 + z)^2 \, d\lambda_{
-m rest}}{\int T_R(\lambda) \lambda \, d\lambda}$$
-   $$F_R = rac{1}{4\pi d_L^2} (1 + z) rac{\int L_\lambda(\lambda) T_R(\lambda(1 + z)) \lambda \, d\lambda}{\int T_R(\lambda) \lambda \, d\lambda}$$
-4. Compare this to the rest-frame emission through filter $Q$ at standard distance $10 	ext{ pc}$ -
-   $$F_Q = rac{1}{4\pi (10	ext{ pc})^2} rac{\int L_\lambda(\lambda) T_Q(\lambda) \lambda \, d\lambda}{\int T_Q(\lambda) \lambda \, d\lambda}$$
-5. Applying the definition of magnitude differences $m_R - M_Q = -2.5 \log_{10}(F_R / F_Q)$ and factoring out the distance modulus $5 \log_{10}(d_L / 10	ext{ pc})$, the exact K-correction is -
-   $$K_{QR}(z) = -2.5 \log_{10}\left[ (1 + z) rac{\int L_\lambda(\lambda) T_R(\lambda(1 + z)) \lambda \, d\lambda}{\int T_R(\lambda) \lambda \, d\lambda} \cdot rac{\int T_Q(\lambda) \lambda \, d\lambda}{\int L_\lambda(\lambda) T_Q(\lambda) \lambda \, d\lambda} 
+   $$F_R = \frac{\int f_\lambda(\lambda_{\mathrm{obs}}) T_R(\lambda_{\mathrm{obs}}) \lambda_{\mathrm{obs}} \, d\lambda_{\mathrm{obs}}}{\int T_R(\lambda_{\mathrm{obs}}) \lambda_{\mathrm{obs}} \, d\lambda_{\mathrm{obs}}}$$
+2. By cosmological redshift, observed wavelength is related to emitted rest-frame wavelength by $\lambda_{\mathrm{obs}} = \lambda_{\mathrm{rest}}(1 + z)$. The received flux density is related to the intrinsic luminosity density by -
+   $$f_\lambda(\lambda_{\mathrm{obs}}) = \frac{L_\lambda(\lambda_{\mathrm{rest}})}{4\pi d_L^2 (1 + z)}$$
+3. Change variable of integration in the numerator from $\lambda_{\mathrm{obs}}$ to $\lambda_{\mathrm{rest}}$ using $d\lambda_{\mathrm{obs}} = (1 + z) \, d\lambda_{\mathrm{rest}}$ -
+   $$F_R = \frac{\int \frac{L_\lambda(\lambda_{\mathrm{rest}})}{4\pi d_L^2 (1 + z)} T_R(\lambda_{\mathrm{rest}}(1 + z)) \lambda_{\mathrm{rest}} (1 + z)^2 \, d\lambda_{\mathrm{rest}}}{\int T_R(\lambda) \lambda \, d\lambda}$$
+   $$F_R = \frac{1}{4\pi d_L^2} (1 + z) \frac{\int L_\lambda(\lambda) T_R(\lambda(1 + z)) \lambda \, d\lambda}{\int T_R(\lambda) \lambda \, d\lambda}$$
+4. Compare this to the rest-frame emission through filter $Q$ at standard distance $10 \text{ pc}$ -
+   $$F_Q = \frac{1}{4\pi (10\text{ pc})^2} \frac{\int L_\lambda(\lambda) T_Q(\lambda) \lambda \, d\lambda}{\int T_Q(\lambda) \lambda \, d\lambda}$$
+5. Applying the definition of magnitude differences $m_R - M_Q = -2.5 \log_{10}(F_R / F_Q)$ and factoring out the distance modulus $5 \log_{10}(d_L / 10\text{ pc})$, the exact K-correction is -
+   $$K_{QR}(z) = -2.5 \log_{10}\left[ (1 + z) \frac{\int L_\lambda(\lambda) T_R(\lambda(1 + z)) \lambda \, d\lambda}{\int T_R(\lambda) \lambda \, d\lambda} \cdot \frac{\int T_Q(\lambda) \lambda \, d\lambda}{\int L_\lambda(\lambda) T_Q(\lambda) \lambda \, d\lambda} 
 ight]$$
 In SDSS publications, absolute magnitudes are conventionally K-corrected to rest-frame bands at $z = 0.1$ (denoted $^{0.1}r$ or $^{0.1}g$) to minimize model dependency near the median survey redshift.
 
@@ -169,17 +136,15 @@ When asked by Prof. Pizzella - *"What is the SDSS, how did its photometric and s
 
 1. **State the primary survey characteristics** -
    - Write on the board - *"2.5m telescope at Apache Point, 54-CCD drift-scan camera, 5 optical filters ($u, g, r, i, z$), dual multi-fiber spectrographs (640 then 1000 fibers)."*
-   - Explain - *"The photometric survey operated in time-delay-and-integrate mode, achieving uniform five-band optical imaging across one-third of the sky. The spectroscopic survey observed a complete flux-limited sample of over 700,000 galaxies at $r_{
-m Petro} \le 17.77$ mag."*
+   - Explain - *"The photometric survey operated in time-delay-and-integrate mode, achieving uniform five-band optical imaging across one-third of the sky. The spectroscopic survey observed a complete flux-limited sample of over 700,000 galaxies at $r_{\mathrm{Petro}} \le 17.77$ mag."*
 
 2. **Describe the filter system and AB magnitudes** -
    - Draw the 5 filter bands.
-   - Explain - *"The filters span 3000 to 10000 \AA\ on the AB system ($m_{
-m AB} = -2.5 \log_{10} f_
+   - Explain - *"The filters span 3000 to 10000 \AA\ on the AB system ($m_{\mathrm{AB}} = -2.5 \log_{10} f_
 u - 48.60$). The $u$ and $g$ bands bracket the 4000 \AA\ break, enabling robust stellar population diagnostics and photometric redshifts."*
 
 3. **Derive the K-correction on the blackboard** -
-   - Write the relation - $m_R = M_Q + 5\log_{10}(d_L/10	ext{ pc}) + K_{QR}(z)$.
+   - Write the relation - $m_R = M_Q + 5\log_{10}(d_L/10\text{ pc}) + K_{QR}(z)$.
    - Derive the integral formula showing the redshifting of the galaxy SED through the filter transmission curves.
    - State clearly - *"Because the rest-frame light is shifted into the observer band, the K-correction compensates for the change in effective bandpass width by $(1+z)$ and the shift in rest-frame spectral energy distribution."*
 
@@ -201,8 +166,7 @@ u - 48.60$). The $u$ and $g$ bands bracket the 4000 \AA\ break, enabling robust 
 
 ## 8. Related Knowledge Base Notes
 
-- [Luminosity function definition](Luminosity%20function%20definition.html) - The $1/V_{
-m max}$ Schmidt estimator and Malmquist bias in SDSS.
+- [Luminosity function definition](Luminosity%20function%20definition.html) - The $1/V_{\mathrm{max}}$ Schmidt estimator and Malmquist bias in SDSS.
 - [Petrosian radius](Petrosian%20radius.html) - Petrosian photometric apertures adopted for SDSS galaxy flux measurements.
 - [Color bimodality of galaxies](Color%20bimodality%20of%20galaxies.html) - Empirical discovery of the red sequence and blue cloud in SDSS.
 - [Schechter function in magnitudes](Schechter%20function%20in%20magnitudes.html) - Parametric luminosity function fits in SDSS $ugriz$ passbands.

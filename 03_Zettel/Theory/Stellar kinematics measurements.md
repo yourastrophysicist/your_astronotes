@@ -15,21 +15,21 @@ In astronomical spectroscopy, a galaxy spectrum $G(x)$ is sampled linearly in lo
 
 ### Doppler Shift on Logarithmic Coordinates
 Consider an absorption feature at rest-frame wavelength $\lambda_0$ shifted to observed wavelength $\lambda$. By the Doppler formula -
-$$\lambda = \lambda_0 \left( 1 + rac{v}{c} 
+$$\lambda = \lambda_0 \left( 1 + \frac{v}{c} 
 ight)$$
 Taking the natural logarithm of both sides -
-$$\ln \lambda = \ln \lambda_0 + \ln \left( 1 + rac{v}{c} 
+$$\ln \lambda = \ln \lambda_0 + \ln \left( 1 + \frac{v}{c} 
 ight)$$
-Using the first-order Taylor expansion for $v \ll c$ where $\ln(1 + \epsilon) pprox \epsilon$ -
-$$x \equiv \ln \lambda pprox \ln \lambda_0 + rac{v}{c} = x_0 + rac{v}{c}$$
+Using the first-order Taylor expansion for $v \ll c$ where $\ln(1 + \epsilon) \approx \epsilon$ -
+$$x \equiv \ln \lambda \approx \ln \lambda_0 + \frac{v}{c} = x_0 + \frac{v}{c}$$
 Therefore, a Doppler shift corresponds to a constant uniform translation $\Delta x = v/c$. The observed galaxy spectrum $G(x)$ is mathematically modeled as the convolution of a composite intrinsic stellar template spectrum $T(x)$ with the galaxy Line-of-Sight Velocity Distribution $\mathcal{L}(v)$, plus low-order polynomial adjustments -
 $$M(x) = \left[ \sum_{k=1}^K w_k T_k(x) 
-ight] st \mathcal{L}\left( c \, x 
+ight] \ast \mathcal{L}\left( c \, x 
 ight) \cdot \sum_{l=0}^L a_l P_l(x) + \sum_{m=0}^M b_m Q_m(x)$$
 where -
 - $T_k(x)$ are high-resolution empirical stellar library spectra (e.g. MILES, ELODIE, Indo-US) convolved to match the instrumental resolution of the spectrograph.
 - $w_k \ge 0$ are non-negative weights representing the optimal linear combination of stellar templates, eliminating the classic template mismatch problem.
-- $st$ denotes continuous one-dimensional mathematical convolution.
+- $\ast$ denotes continuous one-dimensional mathematical convolution.
 - $P_l(x)$ are multiplicative Legendre polynomials of order $L$ (typically $L \sim 3 - 6$), which adjust for interstellar dust reddening, flux calibration errors, and atmospheric transmission variations.
 - $Q_m(x)$ are additive Legendre polynomials of order $M$ (typically $M \sim 3 - 6$), which account for diffuse night-sky emission residuals, scattered light, and continuum AGN contributions.
 
@@ -40,38 +40,38 @@ where -
 While idealized stellar systems in virial equilibrium with isotropic velocity distributions produce approximately Gaussian line-of-sight velocity profiles, real galaxies exhibit substantial deviations caused by orbital anisotropy, embedded rotating stellar disks, kinematically decoupled cores, and asymmetric drift. The LOSVD $\mathcal{L}(v)$ is parameterized using a Gauss-Hermite series expansion, introduced by Gerhard (1993) and van der Marel and Franx (1993).
 
 ### Mathematical Definition
-$$\mathcal{L}(v) = rac{1}{\sqrt{2\pi}\sigma} \exp\left(-rac{y^2}{2}
+$$\mathcal{L}(v) = \frac{1}{\sqrt{2\pi}\sigma} \exp\left(-\frac{y^2}{2}
 ight) \left[ 1 + \sum_{m=3}^M h_m H_m(y) 
 ight]$$
 where the dimensionless normalized velocity coordinate $y$ is defined as -
-$$y \equiv rac{v - V}{\sigma}$$
+$$y \equiv \frac{v - V}{\sigma}$$
 Here $V$ is the mean radial line-of-sight velocity and $\sigma$ is the line-of-sight velocity dispersion.
 
 ### Explicit Hermite Polynomial Formulations
 The functions $H_m(y)$ are the standard orthogonal Hermite polynomials normalized such that -
-$$\int_{-\infty}^{+\infty} rac{1}{\sqrt{2\pi}} \exp\left(-rac{y^2}{2}
+$$\int_{-\infty}^{+\infty} \frac{1}{\sqrt{2\pi}} \exp\left(-\frac{y^2}{2}
 ight) H_m(y) H_n(y) \, dy = \delta_{mn}$$
 The explicit expressions for the lowest-order Hermite polynomials are -
 $$H_0(y) = 1$$
 $$H_1(y) = y$$
-$$H_2(y) = rac{1}{\sqrt{2}} (y^2 - 1)$$
-$$H_3(y) = rac{1}{\sqrt{6}} (2\sqrt{2}y^3 - 3\sqrt{2}y)$$
-$$H_4(y) = rac{1}{\sqrt{24}} (4y^4 - 12y^2 + 3)$$
+$$H_2(y) = \frac{1}{\sqrt{2}} (y^2 - 1)$$
+$$H_3(y) = \frac{1}{\sqrt{6}} (2\sqrt{2}y^3 - 3\sqrt{2}y)$$
+$$H_4(y) = \frac{1}{\sqrt{24}} (4y^4 - 12y^2 + 3)$$
 
 ### Step-by-Step Calculus Derivation - Orthogonality and Moments
 Let us explicitly demonstrate why the summation starts at $m = 3$, omitting $H_1(y)$ and $H_2(y)$.
 1. Consider the integral of the Gaussian weight function -
-   $$I_0 = \int_{-\infty}^{+\infty} rac{1}{\sqrt{2\pi}} e^{-y^2/2} \, dy = 1$$
+   $$I_0 = \int_{-\infty}^{+\infty} \frac{1}{\sqrt{2\pi}} e^{-y^2/2} \, dy = 1$$
 2. Evaluate the first moment of the unperturbed Gaussian -
    $$\langle y 
-angle = \int_{-\infty}^{+\infty} y rac{e^{-y^2/2}}{\sqrt{2\pi}} \, dy = 0$$
+angle = \int_{-\infty}^{+\infty} y \frac{e^{-y^2/2}}{\sqrt{2\pi}} \, dy = 0$$
    because the integrand is strictly antisymmetric with respect to $y = 0$. By setting the centroid of the Gaussian to $V$, the mean velocity of the profile is already captured. Thus, $h_1 \equiv 0$.
 3. Evaluate the second moment of the unperturbed Gaussian -
    $$\langle y^2 
-angle = \int_{-\infty}^{+\infty} y^2 rac{e^{-y^2/2}}{\sqrt{2\pi}} \, dy = \left[ -y rac{e^{-y^2/2}}{\sqrt{2\pi}} 
-ight]_{-\infty}^{+\infty} + \int_{-\infty}^{+\infty} rac{e^{-y^2/2}}{\sqrt{2\pi}} \, dy = 0 + 1 = 1$$
+angle = \int_{-\infty}^{+\infty} y^2 \frac{e^{-y^2/2}}{\sqrt{2\pi}} \, dy = \left[ -y \frac{e^{-y^2/2}}{\sqrt{2\pi}} 
+ight]_{-\infty}^{+\infty} + \int_{-\infty}^{+\infty} \frac{e^{-y^2/2}}{\sqrt{2\pi}} \, dy = 0 + 1 = 1$$
    Since $\langle y^2 
-angle = 1$, the variance is already completely specified by $\sigma^2$. Therefore, the coefficient of $H_2(y) = rac{1}{\sqrt{2}}(y^2 - 1)$ must vanish ($h_2 \equiv 0$).
+angle = 1$, the variance is already completely specified by $\sigma^2$. Therefore, the coefficient of $H_2(y) = \frac{1}{\sqrt{2}}(y^2 - 1)$ must vanish ($h_2 \equiv 0$).
 4. Physical interpretation of $h_3$ (Skewness) -
    $H_3(y)$ is an odd function ($H_3(-y) = -H_3(y)$). The coefficient $h_3$ quantifies asymmetric deviations from a Gaussian. A positive $h_3 > 0$ indicates a tail towards velocities higher than $V$, whereas $h_3 < 0$ indicates a tail towards lower velocities.
 5. Physical interpretation of $h_4$ (Kurtosis) -
@@ -87,11 +87,10 @@ When fitting observational spectra with low to moderate signal-to-noise ratio ($
 
 ### The Objective Function with Regularization
 To resolve this instability, Cappellari and Emsellem (2004) introduced a penalty term to the classic $\chi^2$ statistic -
-$$\chi_{
-m pen}^2 = \chi^2 \left( 1 + \lambda^2 \mathcal{P} 
+$$\chi_{\mathrm{pen}}^2 = \chi^2 \left( 1 + \lambda^2 \mathcal{P} 
 ight)$$
 where the standard goodness-of-fit statistic $\chi^2$ across $N$ spectral pixels is -
-$$\chi^2 = \sum_{n=1}^N \left( rac{G(x_n) - M(x_n)}{\Delta G(x_n)} 
+$$\chi^2 = \sum_{n=1}^N \left( \frac{G(x_n) - M(x_n)}{\Delta G(x_n)} 
 ight)^2$$
 and the penalty function $\mathcal{P}$ penalizes excursions of the Gauss-Hermite coefficients away from zero -
 $$\mathcal{P} = \sum_{m=3}^M h_m^2 = h_3^2 + h_4^2 + \dots + h_M^2$$
@@ -104,19 +103,12 @@ The parameter $\lambda$ is an adjustable penalty factor.
 ## 4. Observational Methodologies and Error Control
 
 ### Voronoi 2D Adaptive Spatial Binning
-In integral field spectroscopy (IFS, e.g. SAURON, ATLAS3D, CALIFA, MUSE, SAMI), the surface brightness of a galaxy drops precipitously with increasing radius. In the outer regions, individual spaxels have inadequate signal-to-noise ratios ($S/N < 5$). To extract reliable stellar kinematics, the 2D spaxels are spatially co-added using Voronoi 2D adaptive binning (Cappellari and Copin 2003) to achieve a uniform target $S/N$ (typically $S/N pprox 40$ per bin across the entire field of view).
+In integral field spectroscopy (IFS, e.g. SAURON, ATLAS3D, CALIFA, MUSE, SAMI), the surface brightness of a galaxy drops precipitously with increasing radius. In the outer regions, individual spaxels have inadequate signal-to-noise ratios ($S/N < 5$). To extract reliable stellar kinematics, the 2D spaxels are spatially co-added using Voronoi 2D adaptive binning (Cappellari and Copin 2003) to achieve a uniform target $S/N$ (typically $S/N \approx 40$ per bin across the entire field of view).
 
 ### Instrumental Resolution Correction
-The observed spectral line width $\sigma_{
-m obs}$ is a quadratic convolution of the intrinsic stellar velocity dispersion $\sigma_*$ and the spectrograph Line Spread Function (LSF) $\sigma_{
-m inst}$ -
-$$\sigma_{
-m obs}^2 pprox \sigma_*^2 + \sigma_{
-m inst}^2$$
-In pPXF, this correction is performed rigorously by convolving the high-resolution template spectra with the difference kernel $\Delta \sigma_{
-m LSF} = \sqrt{\sigma_{
-m inst}^2 - \sigma_{
-m temp}^2}$ before fitting.
+The observed spectral line width $\sigma_{\mathrm{obs}}$ is a quadratic convolution of the intrinsic stellar velocity dispersion $\sigma_*$ and the spectrograph Line Spread Function (LSF) $\sigma_{\mathrm{inst}}$ -
+$$\sigma_{\mathrm{obs}}^2 \approx \sigma_*^2 + \sigma_{\mathrm{inst}}^2$$
+In pPXF, this correction is performed rigorously by convolving the high-resolution template spectra with the difference kernel $\Delta \sigma_{\mathrm{LSF}} = \sqrt{\sigma_{\mathrm{inst}}^2 - \sigma_{\mathrm{temp}}^2}$ before fitting.
 
 ### Template Mismatch Mitigation
 If a single stellar template of incorrect spectral type or metallicity is used, differences in absorption line equivalent widths (such as the Mg b triplet or Fe lines) mimic velocity dispersion broadening or non-Gaussian wings. By solving a non-negative linear least-squares subproblem for stellar template weights $w_k \ge 0$ at every non-linear iteration step of $(V, \sigma, h_3, h_4)$, pPXF constructs an optimal composite stellar population template that simultaneously matches the true stellar mixture.
@@ -199,12 +191,12 @@ When asked by Prof. Pizzella - *"How do we extract stellar kinematics from galax
 2. **Write the pPXF model equation** -
    - Write on the board -
      $$M(x) = \left[ \sum w_k T_k(x) 
-ight] st \mathcal{L}(c x) \cdot P(x) + Q(x)$$
+ight] \ast \mathcal{L}(c x) \cdot P(x) + Q(x)$$
    - Explain - *"We use an optimal non-negative linear combination of dozens of stellar library spectra $T_k$ to avoid template mismatch, and include multiplicative polynomials $P(x)$ for dust/calibration and additive polynomials $Q(x)$ for sky residuals."*
 
 3. **Expand the LOSVD into Gauss-Hermite polynomials** -
    - Write on the board -
-     $$\mathcal{L}(v) = rac{1}{\sqrt{2\pi}\sigma} \exp\left( -rac{y^2}{2} 
+     $$\mathcal{L}(v) = \frac{1}{\sqrt{2\pi}\sigma} \exp\left( -\frac{y^2}{2} 
 ight) \left[ 1 + h_3 H_3(y) + h_4 H_4(y) 
 ight]$$
      where $y = (v - V)/\sigma$.
@@ -216,8 +208,7 @@ ight]$$
    - Explain - *"The coefficient $h_4$ measures kurtosis. A positive $h_4 > 0$ indicates a peaked profile with broad wings, typical of radial orbital anisotropy ($\sigma_r > \sigma_	heta$). A negative $h_4 < 0$ indicates a flat-topped profile, typical of tangential orbital anisotropy or an embedded cold disk seen face-on."*
 
 5. **Explain the necessity of the penalty term** -
-   - Write on the board - $\chi_{
-m pen}^2 = \chi^2 (1 + \lambda^2 \sum h_m^2)$.
+   - Write on the board - $\chi_{\mathrm{pen}}^2 = \chi^2 (1 + \lambda^2 \sum h_m^2)$.
    - Conclude - *"At low signal-to-noise ratios, unconstrained fits suffer from severe degeneracies between $\sigma$ and $h_4$. The penalty forces the solution toward a pure Gaussian unless the spectral data robustly demand non-Gaussian higher moments."*
 
 ---

@@ -14,21 +14,21 @@ Traditional galaxy spectral classification relied on visual inspection of promin
 Consider a sample of $N$ galaxy spectra, each sampled uniformly across $M$ wavelength pixels $\lambda_j$ ($j = 1, \dots, M$). Let $f_i(\lambda_j)$ be the rest-frame flux of galaxy $i$, normalized such that total flux is unity -
 $$\sum_{j=1}^M f_i(\lambda_j) = 1$$
 The mean spectrum across the entire ensemble is -
-$$ar{f}(\lambda_j) = rac{1}{N} \sum_{i=1}^N f_i(\lambda_j)$$
+$$\bar{f}(\lambda_j) = \frac{1}{N} \sum_{i=1}^N f_i(\lambda_j)$$
 
 ### The Spectral Covariance Matrix
-Subtracting the mean spectrum defines the flux perturbation matrix $\Delta f_i(\lambda_j) \equiv f_i(\lambda_j) - ar{f}(\lambda_j)$. The $M 	imes M$ spectral covariance matrix $\mathbf{C}$ is -
-$$C_{jk} = rac{1}{N} \sum_{i=1}^N \Delta f_i(\lambda_j) \Delta f_i(\lambda_k)$$
-Because $\mathbf{C}$ is real and symmetric ($C_{jk} = C_{kj}$), the Spectral Theorem guarantees that it can be diagonalized into $M$ orthogonal eigenvectors $ec{e}_k$ with non-negative eigenvalues $\lambda_k$ -
-$$\mathbf{C} ec{e}_k = \lambda_k ec{e}_k$$
-$$ec{e}_j \cdot ec{e}_k = \sum_{m=1}^M e_j(\lambda_m) e_k(\lambda_m) = \delta_{jk}$$
+Subtracting the mean spectrum defines the flux perturbation matrix $\Delta f_i(\lambda_j) \equiv f_i(\lambda_j) - \bar{f}(\lambda_j)$. The $M 	imes M$ spectral covariance matrix $\mathbf{C}$ is -
+$$C_{jk} = \frac{1}{N} \sum_{i=1}^N \Delta f_i(\lambda_j) \Delta f_i(\lambda_k)$$
+Because $\mathbf{C}$ is real and symmetric ($C_{jk} = C_{kj}$), the Spectral Theorem guarantees that it can be diagonalized into $M$ orthogonal eigenvectors $\vec{e}_k$ with non-negative eigenvalues $\lambda_k$ -
+$$\mathbf{C} \vec{e}_k = \lambda_k \vec{e}_k$$
+$$\vec{e}_j \cdot \vec{e}_k = \sum_{m=1}^M e_j(\lambda_m) e_k(\lambda_m) = \delta_{jk}$$
 The eigenvectors $e_k(\lambda)$ are the **eigenspectra**, and the eigenvalues $\lambda_k$ represent the variance accounted for by each component, arranged in descending order ($\lambda_1 \ge \lambda_2 \ge \dots \ge \lambda_M$).
 
 ### Spectral Expansion and Projection Coefficients
 Any galaxy spectrum $f_i(\lambda)$ is expanded exactly as -
-$$f_i(\lambda) = ar{f}(\lambda) + \sum_{k=1}^M a_{ik} e_k(\lambda)$$
+$$f_i(\lambda) = \bar{f}(\lambda) + \sum_{k=1}^M a_{ik} e_k(\lambda)$$
 where the projection coefficients (eigenspectrum scores) $a_{ik}$ are computed via inner product -
-$$a_{ik} = \sum_{j=1}^M \left[ f_i(\lambda_j) - ar{f}(\lambda_j) 
+$$a_{ik} = \sum_{j=1}^M \left[ f_i(\lambda_j) - \bar{f}(\lambda_j) 
 ight] e_k(\lambda_j)$$
 
 ---
@@ -42,15 +42,15 @@ In the 2dFGRS analysis of over 170,000 galaxy spectra in the rest-frame waveleng
 - **Astrophysical Meaning** - Represents the continuum color and stellar age. A positive coefficient $a_1 > 0$ indicates a red continuum with strong metal absorption lines (Ca II H and K, G-band), characteristic of old, passively evolving stellar populations. A negative $a_1 < 0$ indicates a hot blue continuum dominated by young OB stars.
 
 ### Eigenspectrum 2 ($e_2(\lambda)$, 11.6% of Variance) - Current Star Formation
-- **Mathematical Form** - Dominated by sharp, narrow nebular emission features, primarily $[	ext{O II}]\ \lambda 3727$ and the higher-order Balmer lines ($	ext{H}\delta, 	ext{H}\gamma, 	ext{H}eta$), superimposed with opposite sign on stellar absorption profiles.
+- **Mathematical Form** - Dominated by sharp, narrow nebular emission features, primarily $[\text{O II}]\ \lambda 3727$ and the higher-order Balmer lines ($\text{H}\delta, \text{H}\gamma, \text{H}\beta$), superimposed with opposite sign on stellar absorption profiles.
 - **Astrophysical Meaning** - Represents the instantaneous star formation rate. Positive $a_2 > 0$ indicates strong nebular line emission from gas ionized by massive young stars.
 
 ---
 
 ## 3. The 2dFGRS $\eta$ Parameter and Objective Spectral Types
 
-In a scatter plot of the second principal component $a_2$ versus the first principal component $a_1$, galaxies form a continuous sequence extending from passive early-type galaxies to starburst systems. Because the sequence is inclined relative to the $a_1$ axis, Madgwick et al. (2002) performed an orthogonal coordinate rotation by an angle $	heta pprox -20^\circ$ to define a single master spectral parameter $\eta$ -
-$$\eta \equiv a_1 \cos	heta + a_2 \sin	heta = a_1 \cos(-20^\circ) + a_2 \sin(-20^\circ) pprox 0.940 \, a_1 - 0.342 \, a_2$$
+In a scatter plot of the second principal component $a_2$ versus the first principal component $a_1$, galaxies form a continuous sequence extending from passive early-type galaxies to starburst systems. Because the sequence is inclined relative to the $a_1$ axis, Madgwick et al. (2002) performed an orthogonal coordinate rotation by an angle $	heta \approx -20^\circ$ to define a single master spectral parameter $\eta$ -
+$$\eta \equiv a_1 \cos	heta + a_2 \sin	heta = a_1 \cos(-20^\circ) + a_2 \sin(-20^\circ) \approx 0.940 \, a_1 - 0.342 \, a_2$$
 The orthogonal coordinate $\zeta \equiv -a_1 \sin	heta + a_2 \cos	heta$ has small intrinsic dispersion and reflects secondary effects such as dust extinction and stellar metallicity.
 
 ### The Four Objective Spectral Types
@@ -59,16 +59,15 @@ Based on the distribution of $\eta$, galaxies are classified into four discrete,
 | Spectral Class | $\eta$ Range | Dominant Morphology | Physical Characteristics |
 |---|---|---|---|
 | **Type 1** | $\eta < -1.4$ | Elliptical (E) and Lenticular (S0) | Passive, old stellar populations; zero emission lines; strong Ca II and 4000 \AA\ break. |
-| **Type 2** | $-1.4 \le \eta < 1.1$ | Early-type Spirals (Sa / Sb) | Intermediate star formation; weak $[	ext{O II}]$ and $	ext{H}lpha$ emission. |
+| **Type 2** | $-1.4 \le \eta < 1.1$ | Early-type Spirals (Sa / Sb) | Intermediate star formation; weak $[\text{O II}]$ and $\text{H}\alpha$ emission. |
 | **Type 3** | $1.1 \le \eta < 3.5$ | Late-type Spirals (Sc / Sd) | Active star formation; prominent Balmer and forbidden emission lines. |
 | **Type 4** | $\eta \ge 3.5$ | Starburst Galaxies and Irregulars | Extreme starbursting systems; high emission-line equivalent widths. |
 
 ### Correlation with the Birthrate Parameter $b$
-The $\eta$ parameter correlates directly with the stellar birthrate parameter $b$, defined as the ratio of current star formation rate to the past-average star formation rate ($b \equiv 	ext{SFR} / \langle 	ext{SFR} 
-angle_{
-m past}$) -
-$$\ln b pprox 0.74 \, \eta - 0.88$$
-- For Type 1 passive galaxies ($\eta < -1.4$), $b pprox 0$, confirming that current star formation is negligible.
+The $\eta$ parameter correlates directly with the stellar birthrate parameter $b$, defined as the ratio of current star formation rate to the past-average star formation rate ($b \equiv \text{SFR} / \langle \text{SFR} 
+angle_{\mathrm{past}}$) -
+$$\ln b \approx 0.74 \, \eta - 0.88$$
+- For Type 1 passive galaxies ($\eta < -1.4$), $b \approx 0$, confirming that current star formation is negligible.
 - For Type 4 starburst galaxies ($\eta > 3.5$), $b \gg 1$, indicating that the galaxy is producing stars at an order of magnitude above its historical average rate.
 
 ---
@@ -104,18 +103,17 @@ $$\ln b pprox 0.74 \, \eta - 0.88$$
 When asked by Prof. Pizzella - *"How do we classify galaxy spectra using Principal Component Analysis, and what is the physical meaning of the eigenspectra and the $\eta$ parameter?"*
 
 1. **State the mathematical foundation of spectral PCA** -
-   - Write on the board - $C_{jk} = rac{1}{N} \sum (f_i(\lambda_j) - ar{f})(f_i(\lambda_k) - ar{f})$.
-   - Explain - *"Diagonalizing the spectral covariance matrix yields orthonormal eigenspectra $e_k(\lambda)$. Any galaxy spectrum is expanded as $f(\lambda) = ar{f}(\lambda) + \sum a_k e_k(\lambda)$."*
+   - Write on the board - $C_{jk} = \frac{1}{N} \sum (f_i(\lambda_j) - \bar{f})(f_i(\lambda_k) - \bar{f})$.
+   - Explain - *"Diagonalizing the spectral covariance matrix yields orthonormal eigenspectra $e_k(\lambda)$. Any galaxy spectrum is expanded as $f(\lambda) = \bar{f}(\lambda) + \sum a_k e_k(\lambda)$."*
 
 2. **Describe the physical meaning of the first two components** -
-   - Explain - *"Eigenspectrum 1 accounts for ~50% of the variance and traces the 4000 \AA\ break and continuum slope, measuring mean stellar age. Eigenspectrum 2 accounts for ~12% of the variance and features emission lines ($[	ext{O II}], 	ext{H}eta$), measuring current star formation rate."*
+   - Explain - *"Eigenspectrum 1 accounts for ~50% of the variance and traces the 4000 \AA\ break and continuum slope, measuring mean stellar age. Eigenspectrum 2 accounts for ~12% of the variance and features emission lines ($[\text{O II}], \text{H}\beta$), measuring current star formation rate."*
 
 3. **Define the $\eta$ parameter on the blackboard** -
-   - Write - $\eta \equiv a_1 \cos(-20^\circ) + a_2 \sin(-20^\circ) pprox 0.94 a_1 - 0.34 a_2$.
+   - Write - $\eta \equiv a_1 \cos(-20^\circ) + a_2 \sin(-20^\circ) \approx 0.94 a_1 - 0.34 a_2$.
    - Draw the rotated $(a_1, a_2)$ diagram and indicate the 4 spectral types from Type 1 (passive, $\eta < -1.4$) to Type 4 (starburst, $\eta > 3.5$).
-   - Conclude - *"Madgwick et al. proved that $\eta$ maps linearly to $\ln b$, where $b = 	ext{SFR} / \langle 	ext{SFR} 
-angle_{
-m past}$, providing a continuous physical clock of galaxy star formation history."*
+   - Conclude - *"Madgwick et al. proved that $\eta$ maps linearly to $\ln b$, where $b = \text{SFR} / \langle \text{SFR} 
+angle_{\mathrm{past}}$, providing a continuous physical clock of galaxy star formation history."*
 
 ---
 

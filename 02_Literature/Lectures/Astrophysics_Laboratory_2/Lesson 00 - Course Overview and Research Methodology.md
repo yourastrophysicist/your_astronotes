@@ -43,7 +43,7 @@ The course is partitioned into theoretical lectures and intensive computer labor
 	- TESS Target Pixel Files (TPFs) and Light Curve Files (LCFs) via MAST
 	- Simple Aperture Photometry (SAP) vs Pre-search Data Conditioning SAP (PDCSAP)
 	- Filtering and detrending: running median, biweight, Savitzky-Golay, and transit masking
-	- Analytical transit modeling via Mandel & Agol (2002) using atman
+	- Analytical transit modeling via Mandel & Agol (2002) using \batman
 	- Synthetic stellar limb darkening calculation with ldtk and PHOENIX atmosphere models
 	- Bayesian parameter inference and Markov Chain Monte Carlo (MCMC) sampling with emcee
 	- Autocorrelation time convergence diagnostics and marginalized posterior analysis
@@ -59,7 +59,7 @@ The examination consists of two interdependent components:
 	- Strict length limits: maximum 15 pages (including references), maximum 10 figures
 	- Submission deadline: by email to both professors at least 5 days prior to the oral examination date
 	- Content: introduction, target and observation description, complete data reduction steps, light curve extraction, filtering methodology, transit modeling, MCMC results, and comparison with published literature
-	- Reference codes: every Python package utilized (stropy, atman-package, ldtk, emcee, corner, scikit-learn, jplephem) must be formally cited in the bibliography
+	- Reference codes: every Python package utilized (\astropy, \batman-package, ldtk, emcee, corner, scikit-learn, jplephem) must be formally cited in the bibliography
 
 - **Oral Examination**:
 	- A conference-style oral defense based on the submitted report

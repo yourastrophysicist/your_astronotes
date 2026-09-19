@@ -19,10 +19,10 @@ the operational definition given by prof. carraro:
 > "the ISM is a magnetized, turbulent, partially ionized, and dusty fluid."
 
 each of these four physical descriptors dictates the equations needed to model it:
-1. **magnetized**: the magnetic field ($B \sim 	ext{few } \mu	ext{G}$) provides non-thermal pressure support, directs gas flows along field lines, facilitates angular momentum transport via magnetic braking during star formation, and accelerates cosmic rays.
+1. **magnetized**: the magnetic field ($B \sim \text{few } \mu\text{G}$) provides non-thermal pressure support, directs gas flows along field lines, facilitates angular momentum transport via magnetic braking during star formation, and accelerates cosmic rays.
 2. **turbulent**: flow velocities across parsec to kiloparsec scales routinely exceed the local sound speed, yielding supersonic, highly compressible turbulence characterized by large Reynolds numbers ($Re \sim 10^5 - 10^8$).
 3. **partially ionized**: ionization fractions span eight orders of magnitude, ranging from $x_e \lesssim 10^{-7}$ in dense shielded molecular cores to $x_e \sim 1$ in HII regions and the coronal hot gas.
-4. **dusty**: refractory dust grains make up only $pprox 1\%$ of the ISM mass, yet they dominate the opacity from the far-ultraviolet to the near-infrared, govern the thermodynamic heating via photoelectric ejection of electrons, and catalyze molecular hydrogen ($H_2$) formation.
+4. **dusty**: refractory dust grains make up only $\approx 1\%$ of the ISM mass, yet they dominate the opacity from the far-ultraviolet to the near-infrared, govern the thermodynamic heating via photoelectric ejection of electrons, and catalyze molecular hydrogen ($H_2$) formation.
 
 ---
 

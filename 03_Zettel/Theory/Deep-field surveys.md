@@ -71,14 +71,14 @@ By shifting the filter combinations progressively red-ward into the near-infrare
 While the dropout technique isolates specific redshift slices, multi-band photometric redshift algorithms estimate the probability distribution function $P(z)$ for all galaxies simultaneously using broadband fluxes spanning ultraviolet to mid-infrared passbands.
 
 ### Bayesian SED Template Fitting Mathematics
-Let $F_{{\rm obs}, i}$ be the observed flux of a galaxy in filter $i \in \{1, \dots, N_{\rm bands}\}$ with photometric uncertainty $\sigma_i$.
+Let $F_{\mathrm{obs}, i}$ be the observed flux of a galaxy in filter $i \in \{1, \dots, N_{\rm bands}\}$ with photometric uncertainty $\sigma_i$.
 Synthetic spectral energy distributions $T(\lambda)$ are generated from stellar population synthesis libraries (Bruzual & Charlot 2003) for various star formation histories, ages, metallicities, and dust extinction $A_V$.
 The model flux in filter transmission profile $R_i(\lambda)$ at redshift $z$ is
-$$F_{{\rm model}, i}(z, T, A_V) = \int_0^\infty T\left(\frac{\lambda}{1+z}\right) e^{-\tau_{\rm IGM}(\lambda, z)} 10^{-0.4 A_V k(\lambda / (1+z))} R_i(\lambda) \frac{d\lambda}{hc}$$
+$$F_{\mathrm{model}, i}(z, T, A_V) = \int_0^\infty T\left(\frac{\lambda}{1+z}\right) e^{-\tau_{\rm IGM}(\lambda, z)} 10^{-0.4 A_V k(\lambda / (1+z))} R_i(\lambda) \frac{d\lambda}{hc}$$
 The best-fit redshift and template are obtained by minimizing the chi-squared statistic
-$$\chi^2(z, T, A_V, s) = \sum_{i=1}^{N_{\rm bands}} \frac{\left[ F_{{\rm obs}, i} - s F_{{\rm model}, i}(z, T, A_V) \right]^2}{\sigma_i^2}$$
+$$\chi^2(z, T, A_V, s) = \sum_{i=1}^{N_{\rm bands}} \frac{\left[ F_{\mathrm{obs}, i} - s F_{\mathrm{model}, i}(z, T, A_V) \right]^2}{\sigma_i^2}$$
 where $s$ is the analytical flux normalization factor determined by setting $\frac{\partial \chi^2}{\partial s} = 0$
-$$s = \frac{\sum_{i=1}^{N_{\rm bands}} \frac{F_{{\rm obs}, i} F_{{\rm model}, i}}{\sigma_i^2}}{\sum_{i=1}^{N_{\rm bands}} \frac{F_{{\rm model}, i}^2}{\sigma_i^2}}$$
+$$s = \frac{\sum_{i=1}^{N_{\rm bands}} \frac{F_{\mathrm{obs}, i} F_{\mathrm{model}, i}}{\sigma_i^2}}{\sum_{i=1}^{N_{\rm bands}} \frac{F_{\mathrm{model}, i}^2}{\sigma_i^2}}$$
 The posterior probability density function of redshift is
 $$P(z | F_{\rm obs}) \propto \exp\left[ -\frac{1}{2} \chi_{\rm min}^2(z) \right] p(z | m_r)$$
 where $p(z | m_r)$ is a Bayesian prior on the apparent magnitude distribution preventing unphysical high-redshift solutions for bright galaxies.

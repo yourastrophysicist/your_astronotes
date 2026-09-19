@@ -40,39 +40,32 @@ Empirical surveys (Roberts and Haynes 1994, Strateva et al. 2001, Blanton and Mo
 
 ### 1. Integrated Optical Colors and Mean Stellar Age
 Optical colors become monotonically bluer with increasing $T$ -
-- Early-type galaxies ($T \le -2$) exhibit red colors - $(B - V) pprox 0.90 \pm 0.05$ and $(u - r) pprox 2.5 \pm 0.15$.
-- Late-type galaxies ($T \ge 5$) exhibit blue colors - $(B - V) pprox 0.45 \pm 0.10$ and $(u - r) pprox 1.4 \pm 0.20$.
-This color shift reflects the mean age of the stellar population, which drops from $	au_{
-m age} > 10$ Gyr in ellipticals down to $	au_{
-m age} \sim 1 - 3$ Gyr in late-type spirals.
+- Early-type galaxies ($T \le -2$) exhibit red colors - $(B - V) \approx 0.90 \pm 0.05$ and $(u - r) \approx 2.5 \pm 0.15$.
+- Late-type galaxies ($T \ge 5$) exhibit blue colors - $(B - V) \approx 0.45 \pm 0.10$ and $(u - r) \approx 1.4 \pm 0.20$.
+This color shift reflects the mean age of the stellar population, which drops from $	au_{\mathrm{age}} > 10$ Gyr in ellipticals down to $	au_{\mathrm{age}} \sim 1 - 3$ Gyr in late-type spirals.
 
 ### 2. Neutral Gas Mass Fraction
-The ratio of neutral hydrogen mass to optical luminosity $M_{
-m HI} / L_B$ increases by more than two orders of magnitude along the sequence -
-- Ellipticals ($T = -5$) - $M_{
-m HI} / L_B \lesssim 0.005 \, M_\odot / L_\odot$.
-- Sa spirals ($T = 1$) - $M_{
-m HI} / L_B pprox 0.10 \, M_\odot / L_\odot$.
-- Sc spirals ($T = 5$) - $M_{
-m HI} / L_B pprox 0.35 \, M_\odot / L_\odot$.
-- Sm/Im irregulars ($T = 9 - 10$) - $M_{
-m HI} / L_B pprox 1.0 - 5.0 \, M_\odot / L_\odot$.
+The ratio of neutral hydrogen mass to optical luminosity $M_{\mathrm{HI}} / L_B$ increases by more than two orders of magnitude along the sequence -
+- Ellipticals ($T = -5$) - $M_{\mathrm{HI}} / L_B \lesssim 0.005 \, M_\odot / L_\odot$.
+- Sa spirals ($T = 1$) - $M_{\mathrm{HI}} / L_B \approx 0.10 \, M_\odot / L_\odot$.
+- Sc spirals ($T = 5$) - $M_{\mathrm{HI}} / L_B \approx 0.35 \, M_\odot / L_\odot$.
+- Sm/Im irregulars ($T = 9 - 10$) - $M_{\mathrm{HI}} / L_B \approx 1.0 - 5.0 \, M_\odot / L_\odot$.
 
 ### 3. Specific Star Formation Rate (sSFR)
-The current star formation rate per unit stellar mass ($	ext{sSFR} \equiv 	ext{SFR} / M_*$) scales directly with gas fraction -
-- Ellipticals and S0s - $	ext{sSFR} < 10^{-12} 	ext{ yr}^{-1}$ (quiescent).
-- Late spirals and irregulars - $	ext{sSFR} pprox 10^{-10} - 10^{-9} 	ext{ yr}^{-1}$ (doubling stellar mass in a fraction of a Hubble time).
+The current star formation rate per unit stellar mass ($\text{sSFR} \equiv \text{SFR} / M_*$) scales directly with gas fraction -
+- Ellipticals and S0s - $\text{sSFR} < 10^{-12} \text{ yr}^{-1}$ (quiescent).
+- Late spirals and irregulars - $\text{sSFR} \approx 10^{-10} - 10^{-9} \text{ yr}^{-1}$ (doubling stellar mass in a fraction of a Hubble time).
 
 ### 4. Sersic Index ($n$) and Concentration Index ($C$)
 The light profile of a galaxy reflects its internal dynamical structure -
-- Concentration index $C \equiv r_{90} / r_{50}$ (ratio of radii enclosing 90% and 50% of Petrosian flux) drops from $C pprox 3.0 - 3.5$ for $R^{1/4}$ de Vaucouleurs ellipticals down to $C pprox 2.0 - 2.3$ for exponential disks.
+- Concentration index $C \equiv r_{90} / r_{50}$ (ratio of radii enclosing 90% and 50% of Petrosian flux) drops from $C \approx 3.0 - 3.5$ for $R^{1/4}$ de Vaucouleurs ellipticals down to $C \approx 2.0 - 2.3$ for exponential disks.
 - Strateva et al. (2001) established that $C = 2.6$ provides a sharp, objective dividing boundary between bulge-dominated ($C > 2.6$) and disk-dominated ($C < 2.6$) systems.
 
 ### 5. Dynamical Support Ratio ($V / \sigma$)
 The ratio of ordered circular rotation velocity $V$ to random velocity dispersion $\sigma$ parameterizes kinematic support -
 - Giant ellipticals - $V / \sigma \lesssim 0.3$ (anisotropic pressure-supported spheroids).
 - Fast-rotator low-mass ellipticals - $V / \sigma \sim 0.5 - 1.0$.
-- Spiral disks - $V / \sigma pprox 5 - 20$ (dynamically cold, rotationally supported thin disks).
+- Spiral disks - $V / \sigma \approx 5 - 20$ (dynamically cold, rotationally supported thin disks).
 
 ---
 
@@ -118,8 +111,7 @@ When asked by Prof. Pizzella - *"How do physical properties correlate with galax
 
 2. **Sketch the 4 characteristic scaling plots** -
    - Draw $(B-V)$ vs $T$, showing monotonic bluing from $0.9$ to $0.4$.
-   - Draw $M_{
-m HI}/L_B$ vs $T$, showing the exponential rise in cold gas fraction.
+   - Draw $M_{\mathrm{HI}}/L_B$ vs $T$, showing the exponential rise in cold gas fraction.
    - Draw concentration index $C = r_{90}/r_{50}$ vs $T$, drawing the Strateva divide at $C = 2.6$.
    - Draw $V/\sigma$ vs $T$, demonstrating the transition from pressure support ($V/\sigma < 0.5$) to rotational support ($V/\sigma \sim 15$).
 
