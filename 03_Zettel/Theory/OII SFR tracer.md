@@ -4,7 +4,7 @@ title: "OII SFR tracer"
 ---
 # [OII] SFR tracer
 
-up: [Pablo_03_Star_formation_in_galaxies](../../02_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html)
+up: [[Pablo_03_Star_formation_in_galaxies]]
 
 ## the line
 
@@ -36,9 +36,9 @@ valid for solar metallicity, Salpeter IMF. the scatter is $\sim 0.3$ dex around 
 
 ## connections
 
-- recombination-line tracer: [H-alpha SFR tracer](H-alpha%20SFR%20tracer.html)
-- other high-$z$ lines: [Lyman alpha SFR tracer](Lyman%20alpha%20SFR%20tracer.html), [Other SFR tracer lines](Other%20SFR%20tracer%20lines.html)
-- extinction: [Balmer decrement](Balmer%20decrement.html), [Dust attenuation and extinction curves](Dust%20attenuation%20and%20extinction%20curves.html)
+- recombination-line tracer: [[H-alpha SFR tracer]]
+- other high-$z$ lines: [[Lyman alpha SFR tracer]], [[Other SFR tracer lines]]
+- extinction: [[Balmer decrement]], [[Dust attenuation and extinction curves]]
 
 ## key references
 
@@ -46,11 +46,11 @@ valid for solar metallicity, Salpeter IMF. the scatter is $\sim 0.3$ dex around 
 - Kewley, Geller, Jansen 2004
 - Mouhcine, Lewis, Ferguson 2005
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Lyman%20alpha%20SFR%20tracer.html" class="backlink-item">Lyman alpha SFR tracer</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Lyman alpha SFR tracer]]
+- [[Observational_Cosmology_MOC]]
+
 

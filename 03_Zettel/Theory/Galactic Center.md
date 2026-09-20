@@ -67,21 +67,21 @@ for this landmark experimental proof, **Reinhard Genzel and Andrea Ghez were awa
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Milky Way structure](Milky%20Way%20structure.html)
-- [Supernovae and compact remnants](Supernovae%20and%20compact%20remnants.html)
-- [AGN and supermassive black holes](interf/AGN%20and%20supermassive%20black%20holes.html)
-- [Interstellar absorption](Interstellar%20absorption.html)
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Milky Way structure]]
+- [[Supernovae and compact remnants]]
+- [[AGN and supermassive black holes]]
+- [[Interstellar absorption]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="AGN%20spectroscopy.html" class="backlink-item">AGN spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="Galactic%20coordinate%20system.html" class="backlink-item">Galactic coordinate system</a></li>
-    <li class="backlink-item-wrap"><a href="Milky%20Way%20structure.html" class="backlink-item">Milky Way structure</a></li>
-    <li class="backlink-item-wrap"><a href="Supernovae%20and%20compact%20remnants.html" class="backlink-item">Supernovae and compact remnants</a></li>
-    <li class="backlink-item-wrap"><a href="Velocity%20dispersion%20from%20line%20width.html" class="backlink-item">Velocity dispersion from line width</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[AGN spectroscopy]]
+- [[Galactic coordinate system]]
+- [[Milky Way structure]]
+- [[Supernovae and compact remnants]]
+- [[Velocity dispersion from line width]]
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+
 

@@ -116,11 +116,11 @@ this version has a known expected mean $C_\mu$ and variance $C_\sigma^2$
 ![xmm_epic_p5_img1.jpeg](../../assets/images/xmm_epic_p5_img1.jpeg)
 *Cash statistic (C-stat) vs Pearson $\chi^2$ confidence contour maps in the $(N_H, \Gamma)$ parameter plane for Poisson low-count data.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Astrostatistics.html" class="backlink-item">Astrostatistics</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Astrostatistics]]
+- [[Lab_High-Energy_MOC]]
+
 

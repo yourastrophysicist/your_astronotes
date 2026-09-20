@@ -5,7 +5,7 @@ title: "Part5_Plasma_Kinetics_Gyrokinetics_and_Waves"
 # Part 5 - Plasma Kinetics, Gyrokinetics, and Waves
 
 *Course: Fluid and Plasma Dynamics, Prof. Maurizio Giacomin*  
-*Index: [Fluid_and_Plasma_Dynamics_MOC](../../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html) | Exam Guide: [Giacomin_Oral_Exam_Questions_Complete_Guide](./Giacomin_Oral_Exam_Questions_Complete_Guide.html)*  
+*Index: [[Fluid_and_Plasma_Dynamics_MOC]] | Exam Guide: [[Giacomin_Oral_Exam_Questions_Complete_Guide]]*  
 *Relevant Exam Questions: 15, 16, 17*  
 
 ---
@@ -250,13 +250,13 @@ and cutoffs ($n^2 = 0$) at $\omega = \omega_R$ and $\omega = \omega_L$.
 ![Wave-Particle Energy Exchange and Distribution Flattening](../../../assets/images/fluid_landau_p04.png)
 *Figure FPD-07: Microscopic physical mechanism of Landau damping: resonant particles with velocity $v \approx v_\phi = \omega/k$ exchange net energy with the wave. Since $\left.\frac{\partial f_0}{\partial v}\right\rvert_{v_\phi} < 0$ in a Maxwellian, more particles move slightly slower than the wave and absorb energy, causing the wave amplitude to damp exponentially.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Cold%20plasma%20dielectric%20tensor%20and%20Appleton-Hartree%20dispersion.html" class="backlink-item">Cold plasma dielectric tensor and Appleton-Hartree dispersion</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Collisionless%20Landau%20damping%20and%20wave-particle%20resonance.html" class="backlink-item">Collisionless Landau damping and wave-particle resonance</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Gyrokinetic%20ordering%20and%205D%20phase%20space%20reduction.html" class="backlink-item">Gyrokinetic ordering and 5D phase space reduction</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Cold plasma dielectric tensor and Appleton-Hartree dispersion]]
+- [[Collisionless Landau damping and wave-particle resonance]]
+- [[Gyrokinetic ordering and 5D phase space reduction]]
+- [[Fluid_and_Plasma_Dynamics_MOC]]
+
 

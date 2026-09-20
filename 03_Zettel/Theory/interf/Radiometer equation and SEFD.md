@@ -101,26 +101,21 @@ source: local plot generated from $\sigma\propto1/\sqrt{\Delta\nu t}$.
 
 ## see also
 
-- [Antenna effective area and gain](Antenna%20effective%20area%20and%20gain.html)
-- [Radio astronomy basics](Radio%20astronomy%20basics.html)
-- [ALMA exposure time calculator and sensitivity](ALMA%20exposure%20time%20calculator%20and%20sensitivity.html)
-- [Interferometry equation sheet](Interferometry%20equation%20sheet.html)
+- [[Antenna effective area and gain]]
+- [[Radio astronomy basics]]
+- [[ALMA exposure time calculator and sensitivity]]
+- [[Interferometry equation sheet]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (12)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../ALMA%20exposure%20time%20calculator%20and%20sensitivity.html" class="backlink-item">ALMA exposure time calculator and sensitivity</a></li>
-    <li class="backlink-item-wrap"><a href="../Antenna%20effective%20area%20and%20gain.html" class="backlink-item">Antenna effective area and gain</a></li>
-    <li class="backlink-item-wrap"><a href="../Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="../Photon%20noise%20and%20statistics.html" class="backlink-item">Photon noise and statistics</a></li>
-    <li class="backlink-item-wrap"><a href="../Radio%20astronomy%20basics.html" class="backlink-item">Radio astronomy basics</a></li>
-    <li class="backlink-item-wrap"><a href="../Radio%20interferometer%20architecture.html" class="backlink-item">Radio interferometer architecture</a></li>
-    <li class="backlink-item-wrap"><a href="ALMA%20exposure%20time%20calculator%20and%20sensitivity.html" class="backlink-item">ALMA exposure time calculator and sensitivity</a></li>
-    <li class="backlink-item-wrap"><a href="Antenna%20effective%20area%20and%20gain.html" class="backlink-item">Antenna effective area and gain</a></li>
-    <li class="backlink-item-wrap"><a href="Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="Radio%20astronomy%20basics.html" class="backlink-item">Radio astronomy basics</a></li>
-    <li class="backlink-item-wrap"><a href="Radio%20interferometer%20architecture.html" class="backlink-item">Radio interferometer architecture</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[ALMA exposure time calculator and sensitivity]]
+- [[Antenna effective area and gain]]
+- [[Figure bank - interferometry]]
+- [[Photon noise and statistics]]
+- [[Radio astronomy basics]]
+- [[Radio interferometer architecture]]
+- [[Astronomical_Interferometry_MOC]]
+
 

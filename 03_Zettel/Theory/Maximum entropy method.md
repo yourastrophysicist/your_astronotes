@@ -38,19 +38,16 @@ MEM has historically been used extensively for single-dish deconvolution and for
 
 ## connections & zettel links
 
-* parent moc: [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-* related zettels: [CLEAN algorithm](interf/CLEAN%20algorithm.html), [Deconvolution algorithms compared](interf/Deconvolution%20algorithms%20compared.html), [Dirty beam and dirty image](interf/Dirty%20beam%20and%20dirty%20image.html)
+* parent moc: [[Astronomical_Interferometry_MOC]]
+* related zettels: [[CLEAN algorithm]], [[Deconvolution algorithms compared]], [[Dirty beam and dirty image]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="CLEAN%20algorithm.html" class="backlink-item">CLEAN algorithm</a></li>
-    <li class="backlink-item-wrap"><a href="Deconvolution%20algorithms%20compared.html" class="backlink-item">Deconvolution algorithms compared</a></li>
-    <li class="backlink-item-wrap"><a href="Dirty%20beam%20and%20dirty%20image.html" class="backlink-item">Dirty beam and dirty image</a></li>
-    <li class="backlink-item-wrap"><a href="interf/CLEAN%20algorithm.html" class="backlink-item">CLEAN algorithm</a></li>
-    <li class="backlink-item-wrap"><a href="interf/Deconvolution%20algorithms%20compared.html" class="backlink-item">Deconvolution algorithms compared</a></li>
-    <li class="backlink-item-wrap"><a href="interf/Dirty%20beam%20and%20dirty%20image.html" class="backlink-item">Dirty beam and dirty image</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[CLEAN algorithm]]
+- [[Deconvolution algorithms compared]]
+- [[Dirty beam and dirty image]]
+- [[Astronomical_Interferometry_MOC]]
+
 

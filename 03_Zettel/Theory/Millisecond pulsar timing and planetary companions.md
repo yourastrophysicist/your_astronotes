@@ -34,15 +34,15 @@ planets cannot survive the supernova explosion that formed the neutron star. the
 
 ## see also
 
-- [Exoplanetary_Astrophysics_MOC](../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)
-- [06_Timing_Methods_and_Pulsar_Planets](../../02_Literature/Lectures/Exoplanetary_Astrophysics/06_Timing_Methods_and_Pulsar_Planets.html)
-- [Keplerian radial velocity and Doppler semi-amplitude](Keplerian%20radial%20velocity%20and%20Doppler%20semi-amplitude.html)
-- [Transit timing variations and resonant multi-planet dynamics](Transit%20timing%20variations%20and%20resonant%20multi-planet%20dynamics.html)
+- [[Exoplanetary_Astrophysics_MOC]]
+- [[06_Timing_Methods_and_Pulsar_Planets]]
+- [[Keplerian radial velocity and Doppler semi-amplitude]]
+- [[Transit timing variations and resonant multi-planet dynamics]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (1)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Exoplanetary_Astrophysics_MOC]]
+
 

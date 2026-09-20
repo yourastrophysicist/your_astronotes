@@ -4,7 +4,7 @@ title: "Truncation error and order of accuracy"
 ---
 # Truncation error and order of accuracy
 
-every numerical algorithm replaces a continuous mathematical operation with a discrete approximation. the *truncation error* is what is lost in that replacement — the terms in the Taylor series that we throw away, the integral pieces that we approximate by trapezoids, the ODE step that we miss by linearizing. this is the *deterministic* error of the algorithm. the other kind, [roundoff](Floating%20point%20representation%20and%20rounding%20errors.html), is the random error from finite precision. both matter, and they fight each other.
+every numerical algorithm replaces a continuous mathematical operation with a discrete approximation. the *truncation error* is what is lost in that replacement — the terms in the Taylor series that we throw away, the integral pieces that we approximate by trapezoids, the ODE step that we miss by linearizing. this is the *deterministic* error of the algorithm. the other kind, [[Floating point representation and rounding errors|roundoff]], is the random error from finite precision. both matter, and they fight each other.
 
 ## the Taylor series anchor
 
@@ -81,27 +81,27 @@ $$h_{\rm opt} \sim \epsilon^{1/(p+1)}$$
 for forward-difference first derivative ($p = 1$): $h_{\rm opt} \sim \sqrt\epsilon \sim 10^{-8}$.
 for central difference ($p = 2$): $h_{\rm opt} \sim \epsilon^{1/3} \sim 10^{-5}$.
 
-this is why I cannot just "use very small $h$" to make finite differences accurate. see [Roundoff vs truncation balance](Roundoff%20vs%20truncation%20balance.html) for the full picture.
+this is why I cannot just "use very small $h$" to make finite differences accurate. see [[Roundoff vs truncation balance]] for the full picture.
 
 ## see also
 
-- [Floating point representation and rounding errors](Floating%20point%20representation%20and%20rounding%20errors.html)
-- [Roundoff vs truncation balance](Roundoff%20vs%20truncation%20balance.html)
-- [Forward backward and central differences](Forward%20backward%20and%20central%20differences.html)
-- [Trapezoidal rule](Trapezoidal%20rule.html)
-- [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
+- [[Floating point representation and rounding errors]]
+- [[Roundoff vs truncation balance]]
+- [[Forward backward and central differences]]
+- [[Trapezoidal rule]]
+- [[Mathematical_Numerical_Methods_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (8)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Floating%20point%20representation%20and%20rounding%20errors.html" class="backlink-item">Floating point representation and rounding errors</a></li>
-    <li class="backlink-item-wrap"><a href="Forward%20backward%20and%20central%20differences.html" class="backlink-item">Forward backward and central differences</a></li>
-    <li class="backlink-item-wrap"><a href="Modified%20midpoint%20method.html" class="backlink-item">Modified midpoint method</a></li>
-    <li class="backlink-item-wrap"><a href="Roundoff%20vs%20truncation%20balance.html" class="backlink-item">Roundoff vs truncation balance</a></li>
-    <li class="backlink-item-wrap"><a href="Simpson%27s%20rule.html" class="backlink-item">Simpson's rule</a></li>
-    <li class="backlink-item-wrap"><a href="Trapezoidal%20rule%20error%20estimate.html" class="backlink-item">Trapezoidal rule error estimate</a></li>
-    <li class="backlink-item-wrap"><a href="Trapezoidal%20rule.html" class="backlink-item">Trapezoidal rule</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Floating point representation and rounding errors]]
+- [[Forward backward and central differences]]
+- [[Modified midpoint method]]
+- [[Roundoff vs truncation balance]]
+- [[Simpson's rule]]
+- [[Trapezoidal rule error estimate]]
+- [[Trapezoidal rule]]
+- [[Mathematical_Numerical_Methods_MOC]]
+
 

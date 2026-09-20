@@ -5,7 +5,7 @@ title: "07_Direct_Imaging_Physics_and_High_Contrast_Techniques"
 # Lesson 07 – Direct Imaging I: Physics and High-Contrast Techniques
 
 *Exoplanetary Astrophysics, Prof. Giampaolo Piotto (Lecture 28/10/2025)*  
-*Index: [Exoplanetary_Astrophysics_MOC](../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)*
+*Index: [[Exoplanetary_Astrophysics_MOC]]*
 
 ---
 
@@ -145,16 +145,16 @@ Quasi-static optical aberrations in the telescope optics create a persistent pat
 ---
 
 ## Cross-Links & Vault Navigation
-- Master Map of Content: [Exoplanetary_Astrophysics_MOC](../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)
-- Previous Lecture: [06_Timing_Methods_and_Pulsar_Planets](./06_Timing_Methods_and_Pulsar_Planets.html)
-- Next Lecture: [08_Direct_Imaging_Instrumentation_and_Astrometric_Synergies](./08_Direct_Imaging_Instrumentation_and_Astrometric_Synergies.html)
-- Related Notes: [Adaptive optics overview](../../../03_Zettel/Theory/interf/Adaptive%20optics%20overview.html) | [Apodization](../../../03_Zettel/Theory/interf/Apodization.html)
+- Master Map of Content: [[Exoplanetary_Astrophysics_MOC]]
+- Previous Lecture: [[06_Timing_Methods_and_Pulsar_Planets]]
+- Next Lecture: [[08_Direct_Imaging_Instrumentation_and_Astrometric_Synergies]]
+- Related Notes: [[Adaptive optics overview]] | [[Apodization]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/High-contrast%20direct%20imaging%20and%20extreme%20adaptive%20optics.html" class="backlink-item">High-contrast direct imaging and extreme adaptive optics</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[High-contrast direct imaging and extreme adaptive optics]]
+- [[Exoplanetary_Astrophysics_MOC]]
+
 

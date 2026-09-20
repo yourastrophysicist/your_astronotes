@@ -2,7 +2,7 @@
 layout: "default"
 title: "Mass-luminosity relation"
 ---
-the **mass-luminosity relation (MLR)** is the empirical and theoretical power-law relationship connecting stellar mass $M$ to bolometric luminosity $L$ for stars on the [main sequence](Main%20sequence%20on%20the%20CMD.html). because luminosity is the rate of energy loss, the steepness of the MLR is the primary physical reason why massive stars die rapidly while low-mass stars survive for cosmic epochs.
+the **mass-luminosity relation (MLR)** is the empirical and theoretical power-law relationship connecting stellar mass $M$ to bolometric luminosity $L$ for stars on the [[Main sequence on the CMD|main sequence]]. because luminosity is the rate of energy loss, the steepness of the MLR is the primary physical reason why massive stars die rapidly while low-mass stars survive for cosmic epochs.
 
 ## piecewise empirical power laws
 
@@ -68,16 +68,16 @@ $$\tau_{\rm MS} \approx 10\,\text{Gyr}\,\left(\frac{M}{M_\odot}\right)^{-2.5}$$
 
 ## see also
 
-- [Observational_Astrophysics_MOC](../../04_Atlas/Observational_Astrophysics_MOC.html)
-- [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
-- [Stellar scaling relations](Stellar%20scaling%20relations.html)
-- [HR diagram](HR%20diagram.html)
-- [Main sequence, giants, supergiants, white dwarfs](Main%20sequence%2C%20giants%2C%20supergiants%2C%20white%20dwarfs.html)
-- [Stellar evolution timescales](Stellar%20evolution%20timescales.html)
-- [Initial mass function](Initial%20mass%20function.html)
-- [Why hot massive stars dominate luminosity](Why%20hot%20massive%20stars%20dominate%20luminosity.html)
-- [Stellar mass estimation in unresolved populations](Stellar%20mass%20estimation%20in%20unresolved%20populations.html)
-- [Single stellar population SSP](Single%20stellar%20population%20SSP.html)
+- [[Observational_Astrophysics_MOC]]
+- [[Stellar_Astrophysics_MOC]]
+- [[Stellar scaling relations]]
+- [[HR diagram]]
+- [[Main sequence, giants, supergiants, white dwarfs]]
+- [[Stellar evolution timescales]]
+- [[Initial mass function]]
+- [[Why hot massive stars dominate luminosity]]
+- [[Stellar mass estimation in unresolved populations]]
+- [[Single stellar population SSP]]
 
 ---
 
@@ -101,15 +101,15 @@ $$\tau_{\rm MS} \approx 10\,\text{Gyr}\,\left(\frac{M}{M_\odot}\right)^{-2.5}$$
 ![obs_stars-036.png](../../assets/images/obs_stars-036.png)
 *Eddington luminosity limit: L_Edd = 4 pi G M c / kappa_es = 1.3 x 10^38 (M / M_Sun) erg/s.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="IMF%20from%20cluster%20luminosity%20functions.html" class="backlink-item">IMF from cluster luminosity functions</a></li>
-    <li class="backlink-item-wrap"><a href="Initial%20mass%20function.html" class="backlink-item">Initial mass function</a></li>
-    <li class="backlink-item-wrap"><a href="Single%20stellar%20population%20SSP.html" class="backlink-item">Single stellar population SSP</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20mass%20estimation%20in%20unresolved%20populations.html" class="backlink-item">Stellar mass estimation in unresolved populations</a></li>
-    <li class="backlink-item-wrap"><a href="Why%20hot%20massive%20stars%20dominate%20luminosity.html" class="backlink-item">Why hot massive stars dominate luminosity</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[IMF from cluster luminosity functions]]
+- [[Initial mass function]]
+- [[Single stellar population SSP]]
+- [[Stellar mass estimation in unresolved populations]]
+- [[Why hot massive stars dominate luminosity]]
+- [[Observational_Astrophysics_MOC]]
+
 

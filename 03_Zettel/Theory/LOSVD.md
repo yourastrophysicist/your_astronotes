@@ -150,14 +150,14 @@ When illustrating LOSVD profiles on the blackboard.
 
 ## 7. See Also
 
-- [Velocity dispersion from line width](Velocity%20dispersion%20from%20line%20width.html)
-- [Stellar dynamics SMBH masses](Stellar%20dynamics%20SMBH%20masses.html)
-- [M sigma relation](M%20sigma%20relation.html)
-- [Fundamental plane of ellipticals](Fundamental%20plane%20of%20ellipticals.html)
-- [Faber-Jackson relation](Faber-Jackson%20relation.html)
-- [MaNGA survey](MaNGA%20survey.html)
-- [Integral-field spectroscopy IFU](Integral-field%20spectroscopy%20IFU.html)
-- [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html)
+- [[Velocity dispersion from line width]]
+- [[Stellar dynamics SMBH masses]]
+- [[M sigma relation]]
+- [[Fundamental plane of ellipticals]]
+- [[Faber-Jackson relation]]
+- [[MaNGA survey]]
+- [[Integral-field spectroscopy IFU]]
+- [[Astrophysics_of_Galaxies_MOC]]
 
 ---
 
@@ -172,16 +172,16 @@ When illustrating LOSVD profiles on the blackboard.
 ![gal_bh-01.png](../../assets/images/gal_bh-01.png)
 *Line-of-Sight Velocity Distribution (LOSVD) definition - probability density of stellar velocities along line of sight.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Dark%20matter%20in%20elliptical%20galaxies.html" class="backlink-item">Dark matter in elliptical galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="Faber-Jackson%20relation.html" class="backlink-item">Faber-Jackson relation</a></li>
-    <li class="backlink-item-wrap"><a href="Integral-field%20spectroscopy%20IFU.html" class="backlink-item">Integral-field spectroscopy IFU</a></li>
-    <li class="backlink-item-wrap"><a href="MaNGA%20survey.html" class="backlink-item">MaNGA survey</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20dynamics%20SMBH%20masses.html" class="backlink-item">Stellar dynamics SMBH masses</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20kinematics%20measurements.html" class="backlink-item">Stellar kinematics measurements</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Dark matter in elliptical galaxies]]
+- [[Faber-Jackson relation]]
+- [[Integral-field spectroscopy IFU]]
+- [[MaNGA survey]]
+- [[Stellar dynamics SMBH masses]]
+- [[Stellar kinematics measurements]]
+- [[Astrophysics_of_Galaxies_MOC]]
+
 

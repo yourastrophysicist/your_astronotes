@@ -5,7 +5,7 @@ title: "01_Plausible_Reasoning_Cox_Theorem_and_Bayesian_Foundations"
 # Plausible Reasoning, Cox Theorem, and Bayesian Foundations
 
 Graduate lecture notes in Astro-Statistics and Cosmology, taught by Prof. Michele Liguori at the University of Padua.
-Reference index [Astro-Statistics_and_Cosmology_MOC](../../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html)
+Reference index [[Astro-Statistics_and_Cosmology_MOC]]
 
 ---
 
@@ -229,11 +229,11 @@ This proves that updating beliefs sequentially step by step produces the exact s
 
 ## Conceptual Connections
 
-- [Astro-Statistics_and_Cosmology_MOC](../../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html) - Master syllabus map of content
-- [02_Parameter_Estimation_Gaussian_Noise_and_Credible_Intervals](./02_Parameter_Estimation_Gaussian_Noise_and_Credible_Intervals.html) - Likelihood derivation and credible regions
-- [04_Frequentist_vs_Bayesian_Inference_and_Confidence_Intervals](./04_Frequentist_vs_Bayesian_Inference_and_Confidence_Intervals.html) - Neyman constructions, coverage, and stopping rule paradoxes
-- [10_Prior_Assignment_Transformation_Invariance_and_Maximum_Entropy](./10_Prior_Assignment_Transformation_Invariance_and_Maximum_Entropy.html) - Formal construction of priors via transformation groups and MaxEnt
-- [11_Model_Selection_Bayesian_Evidence_and_Savage_Dickey_Ratio](./11_Model_Selection_Bayesian_Evidence_and_Savage_Dickey_Ratio.html) - Model comparison and evidence computation
+- [[Astro-Statistics_and_Cosmology_MOC]] - Master syllabus map of content
+- [[02_Parameter_Estimation_Gaussian_Noise_and_Credible_Intervals]] - Likelihood derivation and credible regions
+- [[04_Frequentist_vs_Bayesian_Inference_and_Confidence_Intervals]] - Neyman constructions, coverage, and stopping rule paradoxes
+- [[10_Prior_Assignment_Transformation_Invariance_and_Maximum_Entropy]] - Formal construction of priors via transformation groups and MaxEnt
+- [[11_Model_Selection_Bayesian_Evidence_and_Savage_Dickey_Ratio]] - Model comparison and evidence computation
 
 
 ## Lecture Visuals & Theoretical Slides
@@ -241,11 +241,11 @@ This proves that updating beliefs sequentially step by step produces the exact s
 ![Cox Theorem and Deductive Logic Foundations](../../../assets/images/astrostat_liguori_p02.png)
 *Figure AST-01: Foundations of Plausible Reasoning and Cox's Theorem (Prof. Michele Liguori). Cox's postulates establish that any system of plausible reasoning that satisfies transitivity, consistency, and scalar representation of belief uniquely maps onto the mathematical rules of probability theory: $P(A \cap B \mid I) = P(A \mid B, I) P(B \mid I)$ (Product Rule) and $P(A \mid I) + P(\neg A \mid I) = 1$ (Sum Rule).*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Cox%20theorem%20and%20probability%20as%20extended%20logic.html" class="backlink-item">Cox theorem and probability as extended logic</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Cox theorem and probability as extended logic]]
+- [[Astro-Statistics_and_Cosmology_MOC]]
+
 

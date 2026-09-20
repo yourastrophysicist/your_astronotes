@@ -2,7 +2,7 @@
 layout: "default"
 title: "Salpeter Kroupa Chabrier IMFs"
 ---
-three parametrizations of the [stellar IMF](Stellar%20mass%20function%20xi%28M%29.html) dominate the literature. they differ mainly at low mass, where the IMF flattens and turns over, while agreeing on a roughly universal slope at high mass.
+three parametrizations of the [[Stellar mass function xi(M)|stellar IMF]] dominate the literature. they differ mainly at low mass, where the IMF flattens and turns over, while agreeing on a roughly universal slope at high mass.
 
 **Salpeter (1955)**
 
@@ -57,29 +57,29 @@ with $M_c \approx 0.22\,M_\odot$ (system) or $0.08\,M_\odot$ (single stars) and 
 
 **variants and extensions**
 
-- **top-heavy IMF**: shallower high-mass slope $\Gamma < 1.35$, expected for [Pop III](Population%20III%20stars.html) and maybe for starburst galaxies and the galactic-centre arches cluster.
+- **top-heavy IMF**: shallower high-mass slope $\Gamma < 1.35$, expected for [[Population III stars|Pop III]] and maybe for starburst galaxies and the galactic-centre arches cluster.
 - **bottom-heavy IMF**: steeper low-mass slope, claimed for massive ellipticals from gravity-sensitive absorption features (van dokkum & conroy 2010), still debated.
 - **integrated galactic IMF (IGIMF)**: kroupa & weidner argue the IMF integrated over a galaxy depends on its star-formation rate.
 
 ## see also
-- [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
-- [Stellar mass function xi(M)](Stellar%20mass%20function%20xi%28M%29.html)
-- [Initial vs present-day mass function](Initial%20vs%20present-day%20mass%20function.html)
-- [IMF from cluster luminosity functions](IMF%20from%20cluster%20luminosity%20functions.html)
-- [Population III stars](Population%20III%20stars.html)
+- [[Stellar_Astrophysics_MOC]]
+- [[Stellar mass function xi(M)]]
+- [[Initial vs present-day mass function]]
+- [[IMF from cluster luminosity functions]]
+- [[Population III stars]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (9)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Binary%20stars%20in%20CMD.html" class="backlink-item">Binary stars in CMD</a></li>
-    <li class="backlink-item-wrap"><a href="Black%20holes%20in%20globular%20clusters.html" class="backlink-item">Black holes in globular clusters</a></li>
-    <li class="backlink-item-wrap"><a href="Critical%20metallicity%20for%20fragmentation.html" class="backlink-item">Critical metallicity for fragmentation</a></li>
-    <li class="backlink-item-wrap"><a href="IMF%20from%20cluster%20luminosity%20functions.html" class="backlink-item">IMF from cluster luminosity functions</a></li>
-    <li class="backlink-item-wrap"><a href="Initial%20mass%20function.html" class="backlink-item">Initial mass function</a></li>
-    <li class="backlink-item-wrap"><a href="Initial%20vs%20present-day%20mass%20function.html" class="backlink-item">Initial vs present-day mass function</a></li>
-    <li class="backlink-item-wrap"><a href="Population%20III%20stars.html" class="backlink-item">Population III stars</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20mass%20function%20xi%28M%29.html" class="backlink-item">Stellar mass function xi(M)</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Binary stars in CMD]]
+- [[Black holes in globular clusters]]
+- [[Critical metallicity for fragmentation]]
+- [[IMF from cluster luminosity functions]]
+- [[Initial mass function]]
+- [[Initial vs present-day mass function]]
+- [[Population III stars]]
+- [[Stellar mass function xi(M)]]
+- [[Stellar_Astrophysics_MOC]]
+
 

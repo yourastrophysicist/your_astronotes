@@ -78,20 +78,20 @@ so MaNGA is the **statistical workhorse** of nearby IFU astronomy.
 
 ## see also
 
-- [Integral-field spectroscopy IFU](Integral-field%20spectroscopy%20IFU.html)
-- [Stellar kinematics measurements](Stellar%20kinematics%20measurements.html)
-- [LOSVD](LOSVD.html)
-- [SDSS overview](SDSS%20overview.html)
-- [Galaxy spectroscopy by type](Galaxy%20spectroscopy%20by%20type.html)
-- [Stellar populations I II III](Stellar%20populations%20I%20II%20III.html)
-- [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html)
+- [[Integral-field spectroscopy IFU]]
+- [[Stellar kinematics measurements]]
+- [[LOSVD]]
+- [[SDSS overview]]
+- [[Galaxy spectroscopy by type]]
+- [[Stellar populations I II III]]
+- [[Astrophysics_of_Galaxies_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Integral-field%20spectroscopy%20IFU.html" class="backlink-item">Integral-field spectroscopy IFU</a></li>
-    <li class="backlink-item-wrap"><a href="LOSVD.html" class="backlink-item">LOSVD</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Integral-field spectroscopy IFU]]
+- [[LOSVD]]
+- [[Astrophysics_of_Galaxies_MOC]]
+
 

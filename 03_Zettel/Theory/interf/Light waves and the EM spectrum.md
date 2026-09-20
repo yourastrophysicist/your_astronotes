@@ -75,7 +75,7 @@ the $\mathbf{E}$ vector can be:
 - **elliptically polarized**: a general intermediate case
 - **unpolarized**: random fluctuating polarization, like sunlight
 
-polarization matters for interferometry through the Fresnel-Arago laws (see [Fresnel-Arago laws](Fresnel-Arago%20laws.html)): only parallel-polarized waves can interfere. perpendicular polarizations cannot form fringes.
+polarization matters for interferometry through the Fresnel-Arago laws (see [[Fresnel-Arago laws]]): only parallel-polarized waves can interfere. perpendicular polarizations cannot form fringes.
 
 ## the intensity
 
@@ -96,22 +96,20 @@ so this zettel is the foundation. after it, every result is one more layer of st
 
 ## see also
 
-- [Plane waves and Huygens principle](Plane%20waves%20and%20Huygens%20principle.html)
-- [Superposition and interference](Superposition%20and%20interference.html)
-- [Electromagnetic waves and photons](Electromagnetic%20waves%20and%20photons.html)
-- [Optical path difference OPD](Optical%20path%20difference%20OPD.html)
-- [Fresnel-Arago laws](Fresnel-Arago%20laws.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Plane waves and Huygens principle]]
+- [[Superposition and interference]]
+- [[Electromagnetic waves and photons]]
+- [[Optical path difference OPD]]
+- [[Fresnel-Arago laws]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Fresnel-Arago%20laws.html" class="backlink-item">Fresnel-Arago laws</a></li>
-    <li class="backlink-item-wrap"><a href="../Optical%20path%20difference%20OPD.html" class="backlink-item">Optical path difference OPD</a></li>
-    <li class="backlink-item-wrap"><a href="../Plane%20waves%20and%20Huygens%20principle.html" class="backlink-item">Plane waves and Huygens principle</a></li>
-    <li class="backlink-item-wrap"><a href="Fresnel-Arago%20laws.html" class="backlink-item">Fresnel-Arago laws</a></li>
-    <li class="backlink-item-wrap"><a href="Optical%20path%20difference%20OPD.html" class="backlink-item">Optical path difference OPD</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Fresnel-Arago laws]]
+- [[Optical path difference OPD]]
+- [[Plane waves and Huygens principle]]
+- [[Astronomical_Interferometry_MOC]]
+
 

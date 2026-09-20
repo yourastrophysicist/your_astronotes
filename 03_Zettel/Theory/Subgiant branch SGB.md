@@ -27,22 +27,22 @@ observational consequences and uses on the CMD:
 operationally, the SGB is "where the rules change": below it the star is a MS object, above it a giant. its morphology encodes the SC limit physics, the degeneracy state at TO, and the age and chemistry mix of the cluster.
 
 ## see also
-- [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
-- [Main sequence on the CMD](Main%20sequence%20on%20the%20CMD.html)
-- [Main sequence turn-off as age indicator](Main%20sequence%20turn-off%20as%20age%20indicator.html)
-- [Red giant branch RGB](Red%20giant%20branch%20RGB.html)
-- [Stellar evolutionary phases on the CMD](Stellar%20evolutionary%20phases%20on%20the%20CMD.html)
+- [[Stellar_Astrophysics_MOC]]
+- [[Main sequence on the CMD]]
+- [[Main sequence turn-off as age indicator]]
+- [[Red giant branch RGB]]
+- [[Stellar evolutionary phases on the CMD]]
 - Multiple populations in globular clusters
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="IMF%20from%20cluster%20luminosity%20functions.html" class="backlink-item">IMF from cluster luminosity functions</a></li>
-    <li class="backlink-item-wrap"><a href="Main%20sequence%20turn-off%20as%20age%20indicator.html" class="backlink-item">Main sequence turn-off as age indicator</a></li>
-    <li class="backlink-item-wrap"><a href="Red%20giant%20branch%20RGB.html" class="backlink-item">Red giant branch RGB</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20evolutionary%20phases%20on%20the%20CMD.html" class="backlink-item">Stellar evolutionary phases on the CMD</a></li>
-    <li class="backlink-item-wrap"><a href="Yellow%20stragglers%20and%20sub-subgiants.html" class="backlink-item">Yellow stragglers and sub-subgiants</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[IMF from cluster luminosity functions]]
+- [[Main sequence turn-off as age indicator]]
+- [[Red giant branch RGB]]
+- [[Stellar evolutionary phases on the CMD]]
+- [[Yellow stragglers and sub-subgiants]]
+- [[Stellar_Astrophysics_MOC]]
+
 

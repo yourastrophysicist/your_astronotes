@@ -319,12 +319,12 @@ When illustrating the luminosity function and $V_{\rm max}$ method on the blackb
 
 ## 7. See Also
 
-- [Schechter function](Schechter%20function.html)
-- [Schechter function in magnitudes](Schechter%20function%20in%20magnitudes.html)
-- [Integrals of the Schechter function](Integrals%20of%20the%20Schechter%20function.html)
-- [Petrosian radius](Petrosian%20radius.html)
-- [SDSS overview](SDSS%20overview.html)
-- [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html)
+- [[Schechter function]]
+- [[Schechter function in magnitudes]]
+- [[Integrals of the Schechter function]]
+- [[Petrosian radius]]
+- [[SDSS overview]]
+- [[Astrophysics_of_Galaxies_MOC]]
 
 ---
 
@@ -369,18 +369,18 @@ When illustrating the luminosity function and $V_{\rm max}$ method on the blackb
 
 ![gal_lf1-15.png](../../assets/images/gal_lf1-15.png)
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (9)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="1Vmax%20estimator.html" class="backlink-item">1Vmax estimator</a></li>
-    <li class="backlink-item-wrap"><a href="Double%20power-law%20modified%20Schechter.html" class="backlink-item">Double power-law modified Schechter</a></li>
-    <li class="backlink-item-wrap"><a href="Redshift%20distribution%20of%20flux-limited%20samples.html" class="backlink-item">Redshift distribution of flux-limited samples</a></li>
-    <li class="backlink-item-wrap"><a href="SDSS%20overview.html" class="backlink-item">SDSS overview</a></li>
-    <li class="backlink-item-wrap"><a href="Schechter%20function%20in%20magnitudes.html" class="backlink-item">Schechter function in magnitudes</a></li>
-    <li class="backlink-item-wrap"><a href="Schechter%20function.html" class="backlink-item">Schechter function</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20mass%20function.html" class="backlink-item">Stellar mass function</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[1Vmax estimator]]
+- [[Double power-law modified Schechter]]
+- [[Redshift distribution of flux-limited samples]]
+- [[SDSS overview]]
+- [[Schechter function in magnitudes]]
+- [[Schechter function]]
+- [[Stellar mass function]]
+- [[Astrophysics_of_Galaxies_MOC]]
+- [[Observational_Cosmology_MOC]]
+
 

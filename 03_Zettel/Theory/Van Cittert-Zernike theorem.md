@@ -134,10 +134,10 @@ source: local study diagram generated from the standard narrow-field VCZ relatio
 
 ## see also
 
-- [Spatial coherence](interf/Spatial%20coherence.html)
-- [Coherence function and visibility](interf/Coherence%20function%20and%20visibility.html)
-- [Fringe visibility and contrast](interf/Fringe%20visibility%20and%20contrast.html)
-- [Aperture synthesis principle](interf/Aperture%20synthesis%20principle.html)
-- [The (u, v) plane](interf/The%20%28u%2C%20v%29%20plane.html)
-- [Dirty beam and dirty image](interf/Dirty%20beam%20and%20dirty%20image.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Spatial coherence]]
+- [[Coherence function and visibility]]
+- [[Fringe visibility and contrast]]
+- [[Aperture synthesis principle]]
+- [[The (u, v) plane]]
+- [[Dirty beam and dirty image]]
+- [[Astronomical_Interferometry_MOC]]

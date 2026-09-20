@@ -55,27 +55,27 @@ the spin-2 character: under rotation of $\theta$ around $\hat z$, the polarisati
 
 ## see also
 
-- [Transverse traceless gauge](Transverse%20traceless%20gauge.html)
-- [Geodesic deviation under a GW](Geodesic%20deviation%20under%20a%20GW.html)
-- [Quadrupole formula](Quadrupole%20formula.html)
-- [Linearized metric perturbation](Linearized%20metric%20perturbation.html)
+- [[Transverse traceless gauge]]
+- [[Geodesic deviation under a GW]]
+- [[Quadrupole formula]]
+- [[Linearized metric perturbation]]
 - Q16 - Christoffels for a TT plane wave
 - Q17 - Riemann R_0x0x for a TT plane wave
-- [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
-- [Ch 8 - Gravitational Waves](../../02_Literature/Book/Baumann%20GR/Ch%208%20-%20Gravitational%20Waves.html)
+- [[General_Relativity_MOC]]
+- [[Ch 8 - Gravitational Waves]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (9)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="GW%20energy%20and%20angular%20momentum.html" class="backlink-item">GW energy and angular momentum</a></li>
-    <li class="backlink-item-wrap"><a href="Geodesic%20deviation%20under%20a%20GW.html" class="backlink-item">Geodesic deviation under a GW</a></li>
-    <li class="backlink-item-wrap"><a href="Geodesic%20deviation.html" class="backlink-item">Geodesic deviation</a></li>
-    <li class="backlink-item-wrap"><a href="Linearized%20gauge%20transformations.html" class="backlink-item">Linearized gauge transformations</a></li>
-    <li class="backlink-item-wrap"><a href="Linearized%20metric%20perturbation.html" class="backlink-item">Linearized metric perturbation</a></li>
-    <li class="backlink-item-wrap"><a href="Quadrupole%20formula.html" class="backlink-item">Quadrupole formula</a></li>
-    <li class="backlink-item-wrap"><a href="SVT%20decomposition.html" class="backlink-item">SVT decomposition</a></li>
-    <li class="backlink-item-wrap"><a href="Transverse%20traceless%20gauge.html" class="backlink-item">Transverse traceless gauge</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[GW energy and angular momentum]]
+- [[Geodesic deviation under a GW]]
+- [[Geodesic deviation]]
+- [[Linearized gauge transformations]]
+- [[Linearized metric perturbation]]
+- [[Quadrupole formula]]
+- [[SVT decomposition]]
+- [[Transverse traceless gauge]]
+- [[General_Relativity_MOC]]
+
 

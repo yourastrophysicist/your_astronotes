@@ -5,7 +5,7 @@ title: "09_Bayesian_Hierarchical_Models_for_Type_Ia_Supernovae"
 # Bayesian Hierarchical Models for Type Ia Supernovae
 
 Graduate lecture notes in Astro-Statistics and Cosmology, taught by Prof. Michele Liguori at the University of Padua.
-Reference index [Astro-Statistics_and_Cosmology_MOC](../../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html)
+Reference index [[Astro-Statistics_and_Cosmology_MOC]]
 
 ---
 
@@ -166,11 +166,11 @@ The denominator normalization term penalizes parameter configurations that predi
 
 ## Conceptual Connections
 
-- [Astro-Statistics_and_Cosmology_MOC](../../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html) - Master syllabus map of content
-- [02_Parameter_Estimation_Gaussian_Noise_and_Credible_Intervals](./02_Parameter_Estimation_Gaussian_Noise_and_Credible_Intervals.html) - Likelihood derivation and credible intervals
-- [03_Multivariate_Gaussians_Marginalization_Conditioning_and_Linear_Models](./03_Multivariate_Gaussians_Marginalization_Conditioning_and_Linear_Models.html) - Analytical marginalization of Gaussian block matrices
-- [05_Monte_Carlo_Metropolis_Hastings_and_MCMC_Convergence_Diagnostics](./05_Monte_Carlo_Metropolis_Hastings_and_MCMC_Convergence_Diagnostics.html) - MCMC algorithms applied to cosmological likelihoods
-- [06_Fisher_Information_Matrix_Cramer_Rao_Bound_and_Survey_Forecasting](./06_Fisher_Information_Matrix_Cramer_Rao_Bound_and_Survey_Forecasting.html) - Fisher matrix calculation for dark energy equation of state parameters
+- [[Astro-Statistics_and_Cosmology_MOC]] - Master syllabus map of content
+- [[02_Parameter_Estimation_Gaussian_Noise_and_Credible_Intervals]] - Likelihood derivation and credible intervals
+- [[03_Multivariate_Gaussians_Marginalization_Conditioning_and_Linear_Models]] - Analytical marginalization of Gaussian block matrices
+- [[05_Monte_Carlo_Metropolis_Hastings_and_MCMC_Convergence_Diagnostics]] - MCMC algorithms applied to cosmological likelihoods
+- [[06_Fisher_Information_Matrix_Cramer_Rao_Bound_and_Survey_Forecasting]] - Fisher matrix calculation for dark energy equation of state parameters
 
 
 ## Lecture Visuals & Hierarchical Bayesian Modeling
@@ -181,11 +181,11 @@ The denominator normalization term penalizes parameter configurations that predi
 ![BHM Marginalization and Posterior Contours](../../../assets/images/astrostat_bhm_p03.png)
 *Figure AST-06: Posterior parameter constraints and residual Hubble diagram from the hierarchical supernova pipeline. Marginalizing over individual latent distances analytically or via Gibbs/No-U-Turn sampling prevents Malmquist bias and provides unbiased cosmological parameter recovery.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Bayesian%20hierarchical%20modeling%20for%20Type%20Ia%20supernovae.html" class="backlink-item">Bayesian hierarchical modeling for Type Ia supernovae</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Bayesian hierarchical modeling for Type Ia supernovae]]
+- [[Astro-Statistics_and_Cosmology_MOC]]
+
 

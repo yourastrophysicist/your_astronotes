@@ -60,42 +60,42 @@ each ratio is a thermometer in the regime where both ions matter. modern stellar
 
 ## see also
 
-- [Boltzmann equation in spectroscopy](Boltzmann%20equation%20in%20spectroscopy.html)
-- [Saha ionisation equation](Saha%20ionisation%20equation.html)
-- [Population of excited levels](Population%20of%20excited%20levels.html)
-- [Hydrogen population vs T](Hydrogen%20population%20vs%20T.html)
-- [Helium population vs T](Helium%20population%20vs%20T.html)
-- [Sodium population vs T](Sodium%20population%20vs%20T.html)
-- [Magnesium population vs T](Magnesium%20population%20vs%20T.html)
-- [Calcium population vs T](Calcium%20population%20vs%20T.html)
-- [Stellar spectra and spectral classification](Stellar%20spectra%20and%20spectral%20classification.html)
-- [History of stellar classification](History%20of%20stellar%20classification.html)
-- [MK luminosity classes](MK%20luminosity%20classes.html)
-- [Helium energy levels](Helium%20energy%20levels.html)
-- [Hydrogen spectral series](Hydrogen%20spectral%20series.html)
-- [Calcium and CaII H+K](Calcium%20and%20CaII%20H%2BK.html)
-- [Bolometric correction and effective temperature](Bolometric%20correction%20and%20effective%20temperature.html)
+- [[Boltzmann equation in spectroscopy]]
+- [[Saha ionisation equation]]
+- [[Population of excited levels]]
+- [[Hydrogen population vs T]]
+- [[Helium population vs T]]
+- [[Sodium population vs T]]
+- [[Magnesium population vs T]]
+- [[Calcium population vs T]]
+- [[Stellar spectra and spectral classification]]
+- [[History of stellar classification]]
+- [[MK luminosity classes]]
+- [[Helium energy levels]]
+- [[Hydrogen spectral series]]
+- [[Calcium and CaII H+K]]
+- [[Bolometric correction and effective temperature]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (17)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Boltzmann%20equation%20in%20spectroscopy.html" class="backlink-item">Boltzmann equation in spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="Calcium%20and%20CaII%20H%2BK.html" class="backlink-item">Calcium and CaII H+K</a></li>
-    <li class="backlink-item-wrap"><a href="Calcium%20population%20vs%20T.html" class="backlink-item">Calcium population vs T</a></li>
-    <li class="backlink-item-wrap"><a href="Galaxy%20spectroscopy%20by%20type.html" class="backlink-item">Galaxy spectroscopy by type</a></li>
-    <li class="backlink-item-wrap"><a href="Helium%20energy%20levels.html" class="backlink-item">Helium energy levels</a></li>
-    <li class="backlink-item-wrap"><a href="Helium%20population%20vs%20T.html" class="backlink-item">Helium population vs T</a></li>
-    <li class="backlink-item-wrap"><a href="History%20of%20stellar%20classification.html" class="backlink-item">History of stellar classification</a></li>
-    <li class="backlink-item-wrap"><a href="Hydrogen%20population%20vs%20T.html" class="backlink-item">Hydrogen population vs T</a></li>
-    <li class="backlink-item-wrap"><a href="Hydrogen%20spectral%20series.html" class="backlink-item">Hydrogen spectral series</a></li>
-    <li class="backlink-item-wrap"><a href="MK%20luminosity%20classes.html" class="backlink-item">MK luminosity classes</a></li>
-    <li class="backlink-item-wrap"><a href="Magnesium%20and%20alkali%20earths.html" class="backlink-item">Magnesium and alkali earths</a></li>
-    <li class="backlink-item-wrap"><a href="Magnesium%20population%20vs%20T.html" class="backlink-item">Magnesium population vs T</a></li>
-    <li class="backlink-item-wrap"><a href="Population%20of%20excited%20levels.html" class="backlink-item">Population of excited levels</a></li>
-    <li class="backlink-item-wrap"><a href="Saha%20ionisation%20equation.html" class="backlink-item">Saha ionisation equation</a></li>
-    <li class="backlink-item-wrap"><a href="Sodium%20and%20alkalis.html" class="backlink-item">Sodium and alkalis</a></li>
-    <li class="backlink-item-wrap"><a href="Sodium%20population%20vs%20T.html" class="backlink-item">Sodium population vs T</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Boltzmann equation in spectroscopy]]
+- [[Calcium and CaII H+K]]
+- [[Calcium population vs T]]
+- [[Galaxy spectroscopy by type]]
+- [[Helium energy levels]]
+- [[Helium population vs T]]
+- [[History of stellar classification]]
+- [[Hydrogen population vs T]]
+- [[Hydrogen spectral series]]
+- [[MK luminosity classes]]
+- [[Magnesium and alkali earths]]
+- [[Magnesium population vs T]]
+- [[Population of excited levels]]
+- [[Saha ionisation equation]]
+- [[Sodium and alkalis]]
+- [[Sodium population vs T]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 

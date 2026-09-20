@@ -27,17 +27,17 @@ $$p(\boldsymbol{\theta} \mid \boldsymbol{D}) \propto \mathcal{L}(\boldsymbol{\th
 3. Propagates non-linear parameter degeneracies without requiring Gaussian approximations.
 
 ## Related Notes
-- [Prior Probability Distributions in Exoplanet Fitting](Prior%20Probability%20Distributions%20in%20Exoplanet%20Fitting.html)
-- [Likelihood Function for Photometric Time Series](Likelihood%20Function%20for%20Photometric%20Time%20Series.html)
-- [Malavolta 13 - Bayesian Statistics and Markov Chain Monte Carlo Sampling](../../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2013%20-%20Bayesian%20Statistics%20and%20Markov%20Chain%20Monte%20Carlo%20Sampling.html)
+- [[Prior Probability Distributions in Exoplanet Fitting]]
+- [[Likelihood Function for Photometric Time Series]]
+- [[Malavolta 13 - Bayesian Statistics and Markov Chain Monte Carlo Sampling]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Likelihood%20Function%20for%20Photometric%20Time%20Series.html" class="backlink-item">Likelihood Function for Photometric Time Series</a></li>
-    <li class="backlink-item-wrap"><a href="Prior%20Probability%20Distributions%20in%20Exoplanet%20Fitting.html" class="backlink-item">Prior Probability Distributions in Exoplanet Fitting</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Likelihood Function for Photometric Time Series]]
+- [[Prior Probability Distributions in Exoplanet Fitting]]
+- [[Astro-Statistics_and_Cosmology_MOC]]
+- [[Astrophysics_Laboratory_2_MOC]]
+
 

@@ -95,11 +95,11 @@ a common cause of bad images: incorrect bandpass leaves residual spectral struct
 
 ## see also
 
-- [Calibration overview](interf/Calibration%20overview.html)
-- [Flux calibration](interf/Flux%20calibration.html)
-- [Phase referencing](interf/Phase%20referencing.html)
-- [Self-calibration](interf/Self-calibration.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Calibration overview]]
+- [[Flux calibration]]
+- [[Phase referencing]]
+- [[Self-calibration]]
+- [[Astronomical_Interferometry_MOC]]
 
 ---
 

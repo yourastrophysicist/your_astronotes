@@ -36,16 +36,16 @@ in magnetized plasmas, cross-field diffusion is constrained by the slower electr
 
 ## see also
 
-- [Fluid_and_Plasma_Dynamics_MOC](../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html)
-- [Part6_Two_Fluid_Theory_Transport_and_Microinstabilities](../../02_Literature/Lectures/Fluid_and_Plasma_Dynamics/Part6_Two_Fluid_Theory_Transport_and_Microinstabilities.html)
-- [Braginskii collisional transport and Spitzer resistivity](Braginskii%20collisional%20transport%20and%20Spitzer%20resistivity.html)
-- [Guiding center drifts and electric polarization drift](Guiding%20center%20drifts%20and%20electric%20polarization%20drift.html)
+- [[Fluid_and_Plasma_Dynamics_MOC]]
+- [[Part6_Two_Fluid_Theory_Transport_and_Microinstabilities]]
+- [[Braginskii collisional transport and Spitzer resistivity]]
+- [[Guiding center drifts and electric polarization drift]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Braginskii%20collisional%20transport%20and%20Spitzer%20resistivity.html" class="backlink-item">Braginskii collisional transport and Spitzer resistivity</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Braginskii collisional transport and Spitzer resistivity]]
+- [[Fluid_and_Plasma_Dynamics_MOC]]
+
 

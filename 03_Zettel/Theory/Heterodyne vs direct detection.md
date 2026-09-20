@@ -60,9 +60,9 @@ optical interferometers must therefore combine the *actual light waves* before d
 
 ## see also
 
-- [Radio telescope components](Radio%20telescope%20components.html)
-- [DOnofrio Exam Retake - Radio vs Optical Physics and Michelson Synthesis](DOnofrio%20Exam%20Retake%20-%20Radio%20vs%20Optical%20Physics%20and%20Michelson%20Synthesis.html)
-- [Electromagnetic waves and photons](interf/Electromagnetic%20waves%20and%20photons.html)
-- [Michelson stellar interferometer](interf/Michelson%20stellar%20interferometer.html)
-- [Two-element correlator](interf/Two-element%20correlator.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Radio telescope components]]
+- [[DOnofrio Exam Retake - Radio vs Optical Physics and Michelson Synthesis]]
+- [[Electromagnetic waves and photons]]
+- [[Michelson stellar interferometer]]
+- [[Two-element correlator]]
+- [[Astronomical_Interferometry_MOC]]

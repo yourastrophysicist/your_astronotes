@@ -77,21 +77,21 @@ JWST is currently revolutionising this field with **spectroscopically confirmed 
 
 ## see also
 
-- [Galaxy clusters and overview of evolution](Galaxy%20clusters%20and%20overview%20of%20evolution.html)
-- [Lyman alpha SFR tracer](Lyman%20alpha%20SFR%20tracer.html)
-- [Photometric redshifts](Photometric%20redshifts.html)
-- [Deep-field surveys](Deep-field%20surveys.html)
-- [Cosmic star formation history](Cosmic%20star%20formation%20history.html)
-- [Madau plot](Madau%20plot.html)
-- [Spherical collapse](Spherical%20collapse.html)
-- [Press-Schechter halo mass function](Press-Schechter%20halo%20mass%20function.html)
-- [High-z galaxies with JWST](High-z%20galaxies%20with%20JWST.html)
-- [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
+- [[Galaxy clusters and overview of evolution]]
+- [[Lyman alpha SFR tracer]]
+- [[Photometric redshifts]]
+- [[Deep-field surveys]]
+- [[Cosmic star formation history]]
+- [[Madau plot]]
+- [[Spherical collapse]]
+- [[Press-Schechter halo mass function]]
+- [[High-z galaxies with JWST]]
+- [[Observational_Cosmology_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (1)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Observational_Cosmology_MOC]]
+
 

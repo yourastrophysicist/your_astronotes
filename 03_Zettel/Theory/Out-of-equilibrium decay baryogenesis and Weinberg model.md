@@ -45,19 +45,19 @@ $$K \equiv \frac{\Gamma_X}{2 H(T = M_X)}$$
 
 ## connections & zettel links
 
-* parent moc: [Cosmology_of_the_Early_Universe_MOC](../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html)
+* parent moc: [[Cosmology_of_the_Early_Universe_MOC]]
 * related zettels:
-  - [Sakharov conditions for baryogenesis](Sakharov%20conditions%20for%20baryogenesis.html)
-  - [Electroweak sphalerons and leptogenesis](Electroweak%20sphalerons%20and%20leptogenesis.html)
-  - [Part6_Reheating_Baryogenesis_and_Dark_Matter](../../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part6_Reheating_Baryogenesis_and_Dark_Matter.html)
+  - [[Sakharov conditions for baryogenesis]]
+  - [[Electroweak sphalerons and leptogenesis]]
+  - [[Part6_Reheating_Baryogenesis_and_Dark_Matter]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Electroweak%20sphalerons%20and%20leptogenesis.html" class="backlink-item">Electroweak sphalerons and leptogenesis</a></li>
-    <li class="backlink-item-wrap"><a href="Preheating%20and%20parametric%20resonance.html" class="backlink-item">Preheating and parametric resonance</a></li>
-    <li class="backlink-item-wrap"><a href="Sakharov%20conditions%20for%20baryogenesis.html" class="backlink-item">Sakharov conditions for baryogenesis</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html" class="backlink-item">Cosmology_of_the_Early_Universe_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Electroweak sphalerons and leptogenesis]]
+- [[Preheating and parametric resonance]]
+- [[Sakharov conditions for baryogenesis]]
+- [[Cosmology_of_the_Early_Universe_MOC]]
+
 

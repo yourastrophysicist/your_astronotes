@@ -39,19 +39,19 @@ $$\langle \zeta_{\vec{k}_1}\zeta_{\vec{k}_2}\zeta_{\vec{k}_3}(t) \rangle = -i \i
 
 ## connections & zettel links
 
-* parent moc: [Cosmology_of_the_Early_Universe_MOC](../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html)
+* parent moc: [[Cosmology_of_the_Early_Universe_MOC]]
 * related zettels:
-  - [Primordial non-Gaussianity and bispectrum shapes](Primordial%20non-Gaussianity%20and%20bispectrum%20shapes.html)
-  - [Maldacena consistency condition](Maldacena%20consistency%20condition.html)
-  - [Delta-N formalism](Delta-N%20formalism.html)
-  - [Part4_Advanced_Formalisms_and_Non_Gaussianity](../../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part4_Advanced_Formalisms_and_Non_Gaussianity.html)
+  - [[Primordial non-Gaussianity and bispectrum shapes]]
+  - [[Maldacena consistency condition]]
+  - [[Delta-N formalism]]
+  - [[Part4_Advanced_Formalisms_and_Non_Gaussianity]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Maldacena%20consistency%20condition.html" class="backlink-item">Maldacena consistency condition</a></li>
-    <li class="backlink-item-wrap"><a href="Primordial%20non-Gaussianity%20and%20bispectrum%20shapes.html" class="backlink-item">Primordial non-Gaussianity and bispectrum shapes</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html" class="backlink-item">Cosmology_of_the_Early_Universe_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Maldacena consistency condition]]
+- [[Primordial non-Gaussianity and bispectrum shapes]]
+- [[Cosmology_of_the_Early_Universe_MOC]]
+
 

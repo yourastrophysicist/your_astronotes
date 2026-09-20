@@ -29,17 +29,17 @@ when the temperature gradient length $L_{T_i}$ is shorter than the critical thre
 
 ## see also
 
-- [Fluid_and_Plasma_Dynamics_MOC](../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html)
-- [Part6_Two_Fluid_Theory_Transport_and_Microinstabilities](../../02_Literature/Lectures/Fluid_and_Plasma_Dynamics/Part6_Two_Fluid_Theory_Transport_and_Microinstabilities.html)
-- [Drift-reduced Braginskii equations and vorticity derivation](Drift-reduced%20Braginskii%20equations%20and%20vorticity%20derivation.html)
-- [Rayleigh-Taylor and Kelvin-Helmholtz hydrodynamic instabilities](Rayleigh-Taylor%20and%20Kelvin-Helmholtz%20hydrodynamic%20instabilities.html)
+- [[Fluid_and_Plasma_Dynamics_MOC]]
+- [[Part6_Two_Fluid_Theory_Transport_and_Microinstabilities]]
+- [[Drift-reduced Braginskii equations and vorticity derivation]]
+- [[Rayleigh-Taylor and Kelvin-Helmholtz hydrodynamic instabilities]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Drift-reduced%20Braginskii%20equations%20and%20vorticity%20derivation.html" class="backlink-item">Drift-reduced Braginskii equations and vorticity derivation</a></li>
-    <li class="backlink-item-wrap"><a href="Gyrokinetic%20ordering%20and%205D%20phase%20space%20reduction.html" class="backlink-item">Gyrokinetic ordering and 5D phase space reduction</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Drift-reduced Braginskii equations and vorticity derivation]]
+- [[Gyrokinetic ordering and 5D phase space reduction]]
+- [[Fluid_and_Plasma_Dynamics_MOC]]
+
 

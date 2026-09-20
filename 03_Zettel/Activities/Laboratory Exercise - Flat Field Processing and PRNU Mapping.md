@@ -51,14 +51,14 @@ print(f"Central PRNU: {prnu_percent:.2f}%")
 ```
 
 ## Related Notes
-- [Flat Field Frame and Pixel Response Non-Uniformity](../Observations/Flat%20Field%20Frame%20and%20Pixel%20Response%20Non-Uniformity.html)
-- [Malavolta 02 - Flat Field Analysis and Sensitivity Mapping](../../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2002%20-%20Flat%20Field%20Analysis%20and%20Sensitivity%20Mapping.html)
+- [[Flat Field Frame and Pixel Response Non-Uniformity]]
+- [[Malavolta 02 - Flat Field Analysis and Sensitivity Mapping]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Observations/Flat%20Field%20Frame%20and%20Pixel%20Response%20Non-Uniformity.html" class="backlink-item">Flat Field Frame and Pixel Response Non-Uniformity</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Flat Field Frame and Pixel Response Non-Uniformity]]
+- [[Astrophysics_Laboratory_2_MOC]]
+
 

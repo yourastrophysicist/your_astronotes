@@ -4,7 +4,7 @@ title: "Dark matter in dwarf galaxies"
 ---
 # Dark Matter in Dwarf Galaxies
 
-Parent [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html) · [Dark matter rotation curves](Dark%20matter%20rotation%20curves.html) · [Local Group galaxies](Local%20Group%20galaxies.html)
+Parent [[Astrophysics_of_Galaxies_MOC]] · [[Dark matter rotation curves]] · [[Local Group galaxies]]
 
 ## 1. Astrophysical Overview and Physical Significance
 
@@ -203,9 +203,9 @@ Key takeaways for the oral exam
 
 ## Connections
 
-- Dynamics - [Dark matter rotation curves](Dark%20matter%20rotation%20curves.html), [Dark matter in elliptical galaxies](Dark%20matter%20in%20elliptical%20galaxies.html)
-- Scaling relations - [Tully-Fisher relation](Tully-Fisher%20relation.html), [MOND](MOND.html)
-- Local universe - [Local Group galaxies](Local%20Group%20galaxies.html), [Low surface brightness galaxies](Low%20surface%20brightness%20galaxies.html)
+- Dynamics - [[Dark matter rotation curves]], [[Dark matter in elliptical galaxies]]
+- Scaling relations - [[Tully-Fisher relation]], [[MOND]]
+- Local universe - [[Local Group galaxies]], [[Low surface brightness galaxies]]
 
 ---
 
@@ -227,16 +227,16 @@ Key takeaways for the oral exam
 
 ![gal_dm-40.png](../../assets/images/gal_dm-40.png)
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Bullet%20Cluster%20and%20dark%20matter%20mapping.html" class="backlink-item">Bullet Cluster and dark matter mapping</a></li>
-    <li class="backlink-item-wrap"><a href="Dark%20matter%20in%20elliptical%20galaxies.html" class="backlink-item">Dark matter in elliptical galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="Dark%20matter%20rotation%20curves.html" class="backlink-item">Dark matter rotation curves</a></li>
-    <li class="backlink-item-wrap"><a href="Local%20Group%20galaxies.html" class="backlink-item">Local Group galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="Low%20surface%20brightness%20galaxies.html" class="backlink-item">Low surface brightness galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="MOND.html" class="backlink-item">MOND</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Bullet Cluster and dark matter mapping]]
+- [[Dark matter in elliptical galaxies]]
+- [[Dark matter rotation curves]]
+- [[Local Group galaxies]]
+- [[Low surface brightness galaxies]]
+- [[MOND]]
+- [[Astrophysics_of_Galaxies_MOC]]
+
 

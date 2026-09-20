@@ -108,7 +108,7 @@ the formalism above is *scalar* — it ignores polarization. for polarized sourc
 - four Stokes parameters describe the source polarization
 - a polarized interferometer measures these four
 
-most of the course is scalar. polarization-aware interferometry shows up in [Polarization in interferometry](interf/Polarization%20in%20interferometry.html).
+most of the course is scalar. polarization-aware interferometry shows up in [[Polarization in interferometry]].
 
 ## the role of bandwidth (again)
 
@@ -124,8 +124,8 @@ source: local study diagram generated from the standard mutual-coherence geometr
 
 ## see also
 
-- [Spatial coherence](interf/Spatial%20coherence.html)
-- [Temporal coherence](interf/Temporal%20coherence.html)
-- [Van Cittert-Zernike theorem](interf/Van%20Cittert-Zernike%20theorem.html)
-- [Fringe visibility and contrast](interf/Fringe%20visibility%20and%20contrast.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Spatial coherence]]
+- [[Temporal coherence]]
+- [[Van Cittert-Zernike theorem]]
+- [[Fringe visibility and contrast]]
+- [[Astronomical_Interferometry_MOC]]

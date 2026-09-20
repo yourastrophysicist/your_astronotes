@@ -36,7 +36,7 @@ so Ca II H + K are strong from M through early A, peaking around G-K. the broade
 
 ## why Ca II is so prominent in galaxy spectra
 
-galaxy integrated light is dominated by **G and K stars** (most numerous in the IMF, longest MS lifetime). these stars all have very strong Ca II H + K. so old galaxy spectra show massive H + K absorption, contributing to the **$4000$ Å break** ([Calcium and CaII H+K](Calcium%20and%20CaII%20H%2BK.html)).
+galaxy integrated light is dominated by **G and K stars** (most numerous in the IMF, longest MS lifetime). these stars all have very strong Ca II H + K. so old galaxy spectra show massive H + K absorption, contributing to the **$4000$ Å break** ([[Calcium and CaII H+K]]).
 
 so Ca II H + K are simultaneously:
 - a **stellar temperature thermometer** in F-G-K dwarfs (line shape changes).
@@ -50,22 +50,22 @@ Ca II also has a strong NIR triplet at $8498, 8542, 8662$ Å from $3\,^2D \to 4\
 
 ## see also
 
-- [Calcium and CaII H+K](Calcium%20and%20CaII%20H%2BK.html)
-- [Boltzmann equation in spectroscopy](Boltzmann%20equation%20in%20spectroscopy.html)
-- [Saha ionisation equation](Saha%20ionisation%20equation.html)
-- [Population of excited levels](Population%20of%20excited%20levels.html)
-- [Why the Sequence OBAFGKM](Why%20the%20Sequence%20OBAFGKM.html)
-- [Stellar spectra and spectral classification](Stellar%20spectra%20and%20spectral%20classification.html)
-- [Color-magnitude diagrams of clusters](Color-magnitude%20diagrams%20of%20clusters.html)
-- [Single stellar population SSP](Single%20stellar%20population%20SSP.html)
+- [[Calcium and CaII H+K]]
+- [[Boltzmann equation in spectroscopy]]
+- [[Saha ionisation equation]]
+- [[Population of excited levels]]
+- [[Why the Sequence OBAFGKM]]
+- [[Stellar spectra and spectral classification]]
+- [[Color-magnitude diagrams of clusters]]
+- [[Single stellar population SSP]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Calcium%20and%20CaII%20H%2BK.html" class="backlink-item">Calcium and CaII H+K</a></li>
-    <li class="backlink-item-wrap"><a href="Population%20of%20excited%20levels.html" class="backlink-item">Population of excited levels</a></li>
-    <li class="backlink-item-wrap"><a href="Why%20the%20Sequence%20OBAFGKM.html" class="backlink-item">Why the Sequence OBAFGKM</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Calcium and CaII H+K]]
+- [[Population of excited levels]]
+- [[Why the Sequence OBAFGKM]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 

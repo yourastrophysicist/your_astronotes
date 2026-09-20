@@ -39,20 +39,20 @@ $$\ln \mathcal{L}(\boldsymbol{\theta}) = -\frac{1}{2} \sum_{k=1}^{N_{\text{bins}
 
 ## see also
 
-- [Computational_Astrophysics_MOC](../../04_Atlas/Computational_Astrophysics_MOC.html)
-- [08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx](../../02_Literature/Lectures/Computational_Astrophysics/08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx.html)
-- [Atmospheric radiative transfer equation and Voigt profile](Atmospheric%20radiative%20transfer%20equation%20and%20Voigt%20profile.html)
-- [Nested sampling algorithm and Bayesian evidence computation](Nested%20sampling%20algorithm%20and%20Bayesian%20evidence%20computation.html)
-- [Exoplanet atmospheric scale height and transmission spectroscopy](../Theory/Exoplanet%20atmospheric%20scale%20height%20and%20transmission%20spectroscopy.html)
+- [[Computational_Astrophysics_MOC]]
+- [[08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx]]
+- [[Atmospheric radiative transfer equation and Voigt profile]]
+- [[Nested sampling algorithm and Bayesian evidence computation]]
+- [[Exoplanet atmospheric scale height and transmission spectroscopy]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Atmospheric%20radiative%20transfer%20equation%20and%20Voigt%20profile.html" class="backlink-item">Atmospheric radiative transfer equation and Voigt profile</a></li>
-    <li class="backlink-item-wrap"><a href="Deep%20neural%20networks%20and%20backpropagation%20for%20astronomical%20spectra.html" class="backlink-item">Deep neural networks and backpropagation for astronomical spectra</a></li>
-    <li class="backlink-item-wrap"><a href="Nested%20sampling%20algorithm%20and%20Bayesian%20evidence%20computation.html" class="backlink-item">Nested sampling algorithm and Bayesian evidence computation</a></li>
-    <li class="backlink-item-wrap"><a href="../Theory/Exoplanet%20atmospheric%20scale%20height%20and%20transmission%20spectroscopy.html" class="backlink-item">Exoplanet atmospheric scale height and transmission spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Atmospheric radiative transfer equation and Voigt profile]]
+- [[Deep neural networks and backpropagation for astronomical spectra]]
+- [[Nested sampling algorithm and Bayesian evidence computation]]
+- [[Exoplanet atmospheric scale height and transmission spectroscopy]]
+- [[Computational_Astrophysics_MOC]]
+
 

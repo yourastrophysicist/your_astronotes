@@ -34,57 +34,57 @@ Storing this material as an interconnected graph makes those cross-disciplinary 
 The vault is structured around seventeen primary lecture courses and laboratory modules organized across Semesters 1 to 3 in 04_Atlas/: Each MOC serves as a comprehensive syllabus and conceptual spine for a semester course:
 
 ### Semester 1 (Foundations)
-1. **[Fundamentals of Astrophysics and Cosmology](04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)** (Prof. G. Rodighiero & Prof. M. Viel)
+1. **[[Fundamentals_Astrophysics_Cosmology_MOC|Fundamentals of Astrophysics and Cosmology]]** (Prof. G. Rodighiero & Prof. M. Viel)
    Foundational coordinates, spherical trigonometry, radiative mechanisms, magnitudes, stellar evolution basics, galactic structure, Hubble law, and thermal cosmic history.
 
-2. **[Observational Astrophysics](04_Atlas/Observational_Astrophysics_MOC.html)** (Prof. E. Giro & Prof. G. Umbriaco)
+2. **[[Observational_Astrophysics_MOC|Observational Astrophysics]]** (Prof. E. Giro & Prof. G. Umbriaco)
    Atmospheric extinction and seeing, astronomical detectors (CCDs and infrared arrays), signal-to-noise calculations, photometric calibration, and error budgets.
 
-3. **[General Relativity for Astrophysics](04_Atlas/General_Relativity_MOC.html)** (Prof. S. Matarrese & Cambridge Baumann)
+3. **[[General_Relativity_MOC|General Relativity for Astrophysics]]** (Prof. S. Matarrese & Cambridge Baumann)
    Differential geometry, manifolds, Christoffel symbols, Riemann curvature, Einstein field equations, geodesic motion, Schwarzschild geometry, and gravitational waves.
 
-4. **[Mathematical and Numerical Methods](04_Atlas/Mathematical_Numerical_Methods_MOC.html)** (Prof. M. Mapelli)
+4. **[[Mathematical_Numerical_Methods_MOC|Mathematical and Numerical Methods]]** (Prof. M. Mapelli)
    Numerical linear algebra, root-finding, numerical integration, ordinary differential equation solvers (Runge-Kutta, symplectic integrators), and Monte Carlo techniques.
 
-5. **[Astrophysics Laboratory 1 (High Energy)](04_Atlas/Lab_High-Energy_MOC.html)** (Prof. L. Burderi)
+5. **[[Lab_High-Energy_MOC|Astrophysics Laboratory 1 (High Energy)]]** (Prof. L. Burderi)
    Non-thermal radiation mechanisms (synchrotron, inverse Compton, relativistic bremsstrahlung), grazing-incidence X-ray optics, scintillation crystals, and solid-state detectors.
 
 ### Semester 2 (Stars, Galaxies, and Cosmology)
-6. **[Astrophysics of Galaxies](04_Atlas/Astrophysics_of_Galaxies_MOC.html)** (Prof. A. Moretti)
+6. **[[Astrophysics_of_Galaxies_MOC|Astrophysics of Galaxies]]** (Prof. A. Moretti)
    Photometric morphology (Sérsic, de Vaucouleurs), stellar dynamics, Jeans equations, dark matter halo profiles, and galactic scaling relations.
 
-7. **[Stellar Astrophysics](04_Atlas/Stellar_Astrophysics_MOC.html)** (Prof. A. Milone)
+7. **[[Stellar_Astrophysics_MOC|Stellar Astrophysics]]** (Prof. A. Milone)
    Stellar structure equations, polytropic models, equation of state, nuclear fusion cycles, radiative atmospheres, and stellar population synthesis.
 
-8. **[Astronomical Interferometry](04_Atlas/Astronomical_Interferometry_MOC.html)** (Prof. C. Pernechele)
+8. **[[Astronomical_Interferometry_MOC|Astronomical Interferometry]]** (Prof. C. Pernechele)
    Spatial coherence theory, van Cittert-Zernike theorem, aperture synthesis, uv-plane coverage, visibility functions, dirty beams, CLEAN algorithms, ALMA, and the VLTI.
 
-9. **[Observational Cosmology](04_Atlas/Observational_Cosmology_MOC.html)** (Prof. M. Viel & Prof. P. Vielva)
+9. **[[Observational_Cosmology_MOC|Observational Cosmology]]** (Prof. M. Viel & Prof. P. Vielva)
    FLRW metric dynamics, cosmological parameters, cosmic distance ladder, big bang nucleosynthesis, recombination, and the cosmic microwave background.
 
-10. **[Astronomical Spectroscopy](04_Atlas/Astronomical_Spectroscopy_MOC.html)** (Prof. S. Ciroi)
+10. **[[Astronomical_Spectroscopy_MOC|Astronomical Spectroscopy]]** (Prof. S. Ciroi)
     Atomic structure, selection rules, line broadening mechanisms, spectrograph optics, dispersion, resolution, and Doppler kinematic measurements.
 
 ### Semester 3 (Advanced Specializations)
-11. **[Exoplanetary Astrophysics](04_Atlas/Exoplanetary_Astrophysics_MOC.html)** (Prof. G. Piotto)
+11. **[[Exoplanetary_Astrophysics_MOC|Exoplanetary Astrophysics]]** (Prof. G. Piotto)
     Radial velocity detections, transit photometry, exoplanet atmospheres, habitability zones, planetary migration, and space missions (Kepler, TESS, PLATO).
 
-12. **[Astro-Statistics and Cosmology](04_Atlas/Astro-Statistics_and_Cosmology_MOC.html)** (Prof. M. Liguori)
+12. **[[Astro-Statistics_and_Cosmology_MOC|Astro-Statistics and Cosmology]]** (Prof. M. Liguori)
     Bayesian inference, parameter estimation, Markov Chain Monte Carlo (MCMC), likelihood analysis, model selection, and cosmological parameter constraints.
 
-13. **[Astrophysics Laboratory 2](04_Atlas/Astrophysics_Laboratory_2_MOC.html)** (Prof. L. Malavolta & Prof. G. Piotto)
+13. **[[Astrophysics_Laboratory_2_MOC|Astrophysics Laboratory 2]]** (Prof. L. Malavolta & Prof. G. Piotto)
     High-resolution spectroscopic data reduction, radial velocity measurement pipelines, transit light curve modeling, and instrument characterization.
 
-14. **[Computational Astrophysics](04_Atlas/Computational_Astrophysics_MOC.html)** (Prof. T. Zingales)
+14. **[[Computational_Astrophysics_MOC|Computational Astrophysics]]** (Prof. T. Zingales)
     Numerical hydrodynamics, N-body particle algorithms, adaptive mesh refinement, parallel computing for astrophysical simulations, and radiative transfer.
 
-15. **[Cosmology of the Early Universe](04_Atlas/Cosmology_of_the_Early_Universe_MOC.html)** (Prof. N. Bartolo & Prof. S. Matarrese)
+15. **[[Cosmology_of_the_Early_Universe_MOC|Cosmology of the Early Universe]]** (Prof. N. Bartolo & Prof. S. Matarrese)
     Cosmic inflation models, generation of primordial perturbations, quantum fluctuations, reheating, baryogenesis, and non-Gaussianities.
 
-16. **[Fluid and Plasma Dynamics](04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html)** (Prof. M. Giacomin)
+16. **[[Fluid_and_Plasma_Dynamics_MOC|Fluid and Plasma Dynamics]]** (Prof. M. Giacomin)
     Navier-Stokes equations, ideal and resistive magnetohydrodynamics (MHD), plasma wave modes, shocks, magnetic reconnection, and turbulence.
 
-17. **[Astrophysics of the Interstellar Medium](04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html)** (Prof. G. Carraro)
+17. **[[Astrophysics_of_the_Interstellar_Medium_MOC|Astrophysics of the Interstellar Medium]]** (Prof. G. Carraro)
     Interstellar dust, extinction curves, photoionization physics (H II regions), molecular clouds, cooling functions, and interstellar chemistry.
 
 ---
@@ -93,7 +93,7 @@ The vault is structured around seventeen primary lecture courses and laboratory 
 
 The repository follows a clean modular hierarchy:
 
-* **04_Atlas/**: Seventeen Maps of Content organizing curricula and reading roadmaps, along with the master [04_Atlas Hub](04_Atlas/04_Atlas.html).
+* **04_Atlas/**: Seventeen Maps of Content organizing curricula and reading roadmaps, along with the master [[04_Atlas|04_Atlas Hub]].
 * **02_Literature/**: Lecture syntheses, course slide transcriptions, and reference literature breakdowns across all courses.
 * **03_Zettel/**: Over 1,300 atomic concept notes. Each note focuses on a discrete physical mechanism, mathematical definition, or observational effect with explicit backlinks.
 * **assets/images/**: 2,870 astronomical diagrams, ray-tracing sketches, coordinate geometries, and observational plots.
@@ -122,4 +122,4 @@ The notes assume standard undergraduate preparation in physics and mathematics:
 
 ## Contributing and Errata
 
-If you identify an error in a derivation or have a clarification to suggest, open an issue directly on the [GitHub repository](https://github.com/yourastrophysicist/your_astronotes/issues).
+If you identify an error in a derivation or have a clarification to suggest, open an issue directly on the [GitHub repository](https://github.com/yourastrophysicist/your_astronotes/issues).

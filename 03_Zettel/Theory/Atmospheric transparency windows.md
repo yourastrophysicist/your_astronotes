@@ -54,9 +54,9 @@ a transmission curve $T(\lambda)$ is the input to any exposure-time calculator. 
 
 ## see also
 
-- [Earth atmosphere for observations](Earth%20atmosphere%20for%20observations.html)
-- [Atmospheric extinction](interf/Atmospheric%20extinction.html)
-- [Atmospheric layers](interf/Atmospheric%20layers.html)
-- [Sky brightness](Sky%20brightness.html)
-- [Atmospheric transmission](interf/Atmospheric%20transmission.html) — a related deeper note
-- [Filter systems and bandpasses](Filter%20systems%20and%20bandpasses.html)
+- [[Earth atmosphere for observations]]
+- [[Atmospheric extinction]]
+- [[Atmospheric layers]]
+- [[Sky brightness]]
+- [[Atmospheric transmission]] — a related deeper note
+- [[Filter systems and bandpasses]]

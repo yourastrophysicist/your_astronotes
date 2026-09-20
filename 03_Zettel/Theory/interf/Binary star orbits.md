@@ -97,23 +97,22 @@ these will yield ~10000 dynamical masses by ~2035, providing definitive empirica
 
 ## see also
 
-- [Stellar diameters and limb darkening](Stellar%20diameters%20and%20limb%20darkening.html)
-- [CHARA array](CHARA%20array.html)
-- [VLTI Very Large Telescope Interferometer](VLTI%20Very%20Large%20Telescope%20Interferometer.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Stellar diameters and limb darkening]]
+- [[CHARA array]]
+- [[VLTI Very Large Telescope Interferometer]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (9)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Binary%20stars%20in%20CMD.html" class="backlink-item">Binary stars in CMD</a></li>
-    <li class="backlink-item-wrap"><a href="../Blue%20straggler%20formation%20channels.html" class="backlink-item">Blue straggler formation channels</a></li>
-    <li class="backlink-item-wrap"><a href="../Cataclysmic%20variables%20in%20clusters.html" class="backlink-item">Cataclysmic variables in clusters</a></li>
-    <li class="backlink-item-wrap"><a href="../Cluster%20binary%20fraction%20methods.html" class="backlink-item">Cluster binary fraction methods</a></li>
-    <li class="backlink-item-wrap"><a href="../Components%20of%20a%20modern%20interferometer%20continued.html" class="backlink-item">Components of a modern interferometer continued</a></li>
-    <li class="backlink-item-wrap"><a href="../Hunting%20BHs%20via%20radial%20velocities.html" class="backlink-item">Hunting BHs via radial velocities</a></li>
-    <li class="backlink-item-wrap"><a href="../Yellow%20stragglers%20and%20sub-subgiants.html" class="backlink-item">Yellow stragglers and sub-subgiants</a></li>
-    <li class="backlink-item-wrap"><a href="Components%20of%20a%20modern%20interferometer%20continued.html" class="backlink-item">Components of a modern interferometer continued</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Binary stars in CMD]]
+- [[Blue straggler formation channels]]
+- [[Cataclysmic variables in clusters]]
+- [[Cluster binary fraction methods]]
+- [[Components of a modern interferometer continued]]
+- [[Hunting BHs via radial velocities]]
+- [[Yellow stragglers and sub-subgiants]]
+- [[Astronomical_Interferometry_MOC]]
+
 

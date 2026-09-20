@@ -26,17 +26,17 @@ $$F_{\text{diff}}(t) = \frac{F_{\text{target}}(t)}{F_{\text{ens}}(t)}$$
 4. **Spatial proximity**: close enough to share identical atmospheric seeing and extinction profiles, but outside the target star aperture.
 
 ## Related Notes
-- [Airmass and Atmospheric Extinction Correction](Airmass%20and%20Atmospheric%20Extinction%20Correction.html)
-- [Malavolta 07 - Differential Photometry and Atmospheric Detrending](../../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2007%20-%20Differential%20Photometry%20and%20Atmospheric%20Detrending.html)
-- [Laboratory Exercise - Ground-Based Differential Photometry with TASTE](../Activities/Laboratory%20Exercise%20-%20Ground-Based%20Differential%20Photometry%20with%20TASTE.html)
+- [[Airmass and Atmospheric Extinction Correction]]
+- [[Malavolta 07 - Differential Photometry and Atmospheric Detrending]]
+- [[Laboratory Exercise - Ground-Based Differential Photometry with TASTE]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Activities/Laboratory%20Exercise%20-%20Ground-Based%20Differential%20Photometry%20with%20TASTE.html" class="backlink-item">Laboratory Exercise - Ground-Based Differential Photometry with TASTE</a></li>
-    <li class="backlink-item-wrap"><a href="Airmass%20and%20Atmospheric%20Extinction%20Correction.html" class="backlink-item">Airmass and Atmospheric Extinction Correction</a></li>
-    <li class="backlink-item-wrap"><a href="Aperture%20Photometry%20and%20Optimal%20Aperture%20Selection.html" class="backlink-item">Aperture Photometry and Optimal Aperture Selection</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Laboratory Exercise - Ground-Based Differential Photometry with TASTE]]
+- [[Airmass and Atmospheric Extinction Correction]]
+- [[Aperture Photometry and Optimal Aperture Selection]]
+- [[Astrophysics_Laboratory_2_MOC]]
+
 

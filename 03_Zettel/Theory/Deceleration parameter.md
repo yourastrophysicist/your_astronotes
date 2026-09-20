@@ -54,21 +54,21 @@ so the universe started accelerating $\sim 6$ Gyr ago.
 
 ## see also
 
-- [Hubble constant and deceleration parameter](Hubble%20constant%20and%20deceleration%20parameter.html)
-- [Friedmann equations](Friedmann%20equations.html)
-- [Cosmological constant](Cosmological%20constant.html)
-- [ΛCDM current parameters](%CE%9BCDM%20current%20parameters.html)
-- [Supernova Hubble diagram](Supernova%20Hubble%20diagram.html)
-- [Density parameters](Density%20parameters.html)
-- [Cosmic eras](Cosmic%20eras.html)
-- [Type Ia supernovae as standard candles](Type%20Ia%20supernovae%20as%20standard%20candles.html)
-- [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
+- [[Hubble constant and deceleration parameter]]
+- [[Friedmann equations]]
+- [[Cosmological constant]]
+- [[ΛCDM current parameters]]
+- [[Supernova Hubble diagram]]
+- [[Density parameters]]
+- [[Cosmic eras]]
+- [[Type Ia supernovae as standard candles]]
+- [[Observational_Cosmology_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[General_Relativity_MOC]]
+- [[Observational_Cosmology_MOC]]
+
 

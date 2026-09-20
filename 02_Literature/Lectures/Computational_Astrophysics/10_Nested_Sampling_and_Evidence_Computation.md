@@ -5,7 +5,7 @@ title: "10_Nested_Sampling_and_Evidence_Computation"
 # Lesson 10 – Nested Sampling and Evidence Computation
 
 *Computational Astrophysics, Prof. Tiziano Zingales*  
-*Index: [Computational_Astrophysics_MOC](../../../04_Atlas/Computational_Astrophysics_MOC.html)*
+*Index: [[Computational_Astrophysics_MOC]]*
 
 ---
 
@@ -182,11 +182,11 @@ Method 0: Rejection Sampling from Prior    Method 1: Ellipsoidal Decomposition (
 ---
 
 ## Related Notes
-- [08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx](./08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx.html)
-- [09_Bayesian_Inference_and_Parameter_Estimation](./09_Bayesian_Inference_and_Parameter_Estimation.html)
-- [11_Parallel_Computing_Architectures_and_HPC_Scaling](./11_Parallel_Computing_Architectures_and_HPC_Scaling.html)
-- [Marginalized Posterior Distributions and Corner Plots](../../../03_Zettel/Computational/Marginalized%20Posterior%20Distributions%20and%20Corner%20Plots.html)
-- [MCMC Convergence Diagnostics and Autocorrelation Analysis](../../../03_Zettel/Computational/MCMC%20Convergence%20Diagnostics%20and%20Autocorrelation%20Analysis.html)
+- [[08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx]]
+- [[09_Bayesian_Inference_and_Parameter_Estimation]]
+- [[11_Parallel_Computing_Architectures_and_HPC_Scaling]]
+- [[Marginalized Posterior Distributions and Corner Plots]]
+- [[MCMC Convergence Diagnostics and Autocorrelation Analysis]]
 
 
 ## Computational Visuals & Nested Sampling Architecture
@@ -200,11 +200,11 @@ Method 0: Rejection Sampling from Prior    Method 1: Ellipsoidal Decomposition (
 ![Multi-Modal Clustering and Evidence Convergence](../../../assets/images/comp_nestedsamp_p50.png)
 *Figure COMP-15: MultiNest ellipsoidal decomposition isolating multi-modal posterior peaks and evaluating stopping criteria based on maximum remaining evidence in active live points.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Computational/Nested%20sampling%20algorithm%20and%20Bayesian%20evidence%20computation.html" class="backlink-item">Nested sampling algorithm and Bayesian evidence computation</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Nested sampling algorithm and Bayesian evidence computation]]
+- [[Computational_Astrophysics_MOC]]
+
 

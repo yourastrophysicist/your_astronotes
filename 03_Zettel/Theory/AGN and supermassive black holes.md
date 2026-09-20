@@ -44,7 +44,7 @@ masses inferred from:
 EHT 2022 published the first image of Sgr A* itself:
 - **bright ring** of size ~50 μas (smaller than M87 because Sgr A* is closer)
 - **dark center** also from the photon sphere
-- mass $M_{\rm BH} = 4.3 \times 10^6 M_\odot$, consistent with [GRAVITY S-star](interf/Galactic%20Center%20Sgr%20A%20and%20S-stars.html) measurements
+- mass $M_{\rm BH} = 4.3 \times 10^6 M_\odot$, consistent with [[Galactic Center Sgr A and S-stars|GRAVITY S-star]] measurements
 
 both M87 and Sgr A* images confirm GR predictions for the photon ring at $\sim 1$ percent precision in linear scale.
 
@@ -102,8 +102,8 @@ planned:
 
 ## see also
 
-- [Event Horizon Telescope EHT](interf/Event%20Horizon%20Telescope%20EHT.html)
-- [Galactic Center Sgr A and S-stars](interf/Galactic%20Center%20Sgr%20A%20and%20S-stars.html)
-- [VLTI Very Large Telescope Interferometer](interf/VLTI%20Very%20Large%20Telescope%20Interferometer.html)
-- [Pulsar timing arrays as interferometers](interf/Pulsar%20timing%20arrays%20as%20interferometers.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Event Horizon Telescope EHT]]
+- [[Galactic Center Sgr A and S-stars]]
+- [[VLTI Very Large Telescope Interferometer]]
+- [[Pulsar timing arrays as interferometers]]
+- [[Astronomical_Interferometry_MOC]]

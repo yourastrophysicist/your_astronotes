@@ -5,7 +5,7 @@ title: "05_Monte_Carlo_Metropolis_Hastings_and_MCMC_Convergence_Diagnostics"
 # Monte Carlo, Metropolis-Hastings, and MCMC Convergence Diagnostics
 
 Graduate lecture notes in Astro-Statistics and Cosmology, taught by Prof. Michele Liguori at the University of Padua.
-Reference index [Astro-Statistics_and_Cosmology_MOC](../../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html)
+Reference index [[Astro-Statistics_and_Cosmology_MOC]]
 
 ---
 
@@ -244,12 +244,12 @@ Convergence is considered achieved when $\hat{R} < 1.05$ (or $\hat{R} < 1.01$ fo
 
 ## Conceptual Connections
 
-- [Astro-Statistics_and_Cosmology_MOC](../../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html) - Master syllabus map of content
-- [02_Parameter_Estimation_Gaussian_Noise_and_Credible_Intervals](./02_Parameter_Estimation_Gaussian_Noise_and_Credible_Intervals.html) - Extraction of credible intervals from MCMC chains
-- [03_Multivariate_Gaussians_Marginalization_Conditioning_and_Linear_Models](./03_Multivariate_Gaussians_Marginalization_Conditioning_and_Linear_Models.html) - Exact sampling via Cholesky decomposition
-- [06_Fisher_Information_Matrix_Cramer_Rao_Bound_and_Survey_Forecasting](./06_Fisher_Information_Matrix_Cramer_Rao_Bound_and_Survey_Forecasting.html) - Utilizing the inverse Fisher matrix to construct optimal MCMC proposal covariances
-- [09_Bayesian_Hierarchical_Models_for_Type_Ia_Supernovae](./09_Bayesian_Hierarchical_Models_for_Type_Ia_Supernovae.html) - High-dimensional sampling over latent variables
-- [Homework_Problems_and_Solutions](./Homework_Problems_and_Solutions.html) - Python implementations of Cholesky sampling, Metropolis-Hastings, and Gibbs sampling for Homework problem 7
+- [[Astro-Statistics_and_Cosmology_MOC]] - Master syllabus map of content
+- [[02_Parameter_Estimation_Gaussian_Noise_and_Credible_Intervals]] - Extraction of credible intervals from MCMC chains
+- [[03_Multivariate_Gaussians_Marginalization_Conditioning_and_Linear_Models]] - Exact sampling via Cholesky decomposition
+- [[06_Fisher_Information_Matrix_Cramer_Rao_Bound_and_Survey_Forecasting]] - Utilizing the inverse Fisher matrix to construct optimal MCMC proposal covariances
+- [[09_Bayesian_Hierarchical_Models_for_Type_Ia_Supernovae]] - High-dimensional sampling over latent variables
+- [[Homework_Problems_and_Solutions]] - Python implementations of Cholesky sampling, Metropolis-Hastings, and Gibbs sampling for Homework problem 7
 
 
 ## Lecture Visuals & MCMC Diagnostics
@@ -257,14 +257,14 @@ Convergence is considered achieved when $\hat{R} < 1.05$ (or $\hat{R} < 1.01$ fo
 ![MCMC Metropolis-Hastings Sampling and Convergence](../../../assets/images/astrostat_liguori_p18.png)
 *Figure AST-03: Metropolis-Hastings Markov Chain Monte Carlo (MCMC) Sampling. Depicts proposal distribution transitions $q(\theta^* \mid \theta^{(t)})$ with acceptance probability $\alpha = \min\left(1, \frac{\mathcal{L}(D \mid \theta^*) \pi(\theta^*) q(\theta^{(t)}\mid\theta^*)}{\mathcal{L}(D \mid \theta^{(t)}) \pi(\theta^{(t)}) q(\theta^* \mid \theta^{(t)})}\right)$. The chain achieves the stationary target distribution once burn-in is discarded and the Gelman-Rubin convergence criterion $\hat{R} < 1.05$ across multiple independent chains is satisfied.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Computational/Monte%20Carlo%20integration%20and%20cursed%20dimensions.html" class="backlink-item">Monte Carlo integration and cursed dimensions</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Gibbs%20sampling%20and%20conditional%20state%20transitions.html" class="backlink-item">Gibbs sampling and conditional state transitions</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/MCMC%20convergence%20diagnostics%20and%20Gelman-Rubin%20statistic.html" class="backlink-item">MCMC convergence diagnostics and Gelman-Rubin statistic</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Metropolis-Hastings%20algorithm%20and%20detailed%20balance.html" class="backlink-item">Metropolis-Hastings algorithm and detailed balance</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Monte Carlo integration and cursed dimensions]]
+- [[Gibbs sampling and conditional state transitions]]
+- [[MCMC convergence diagnostics and Gelman-Rubin statistic]]
+- [[Metropolis-Hastings algorithm and detailed balance]]
+- [[Astro-Statistics_and_Cosmology_MOC]]
+
 

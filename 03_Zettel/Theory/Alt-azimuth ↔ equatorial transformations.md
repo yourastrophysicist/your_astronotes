@@ -12,7 +12,7 @@ so the alt-azimuth ↔ equatorial transformation is just the master spherical-tr
 
 ## alt-azimuth → equatorial
 
-substitute into the master equations (see [Spherical trigonometry](Spherical%20trigonometry.html)):
+substitute into the master equations (see [[Spherical trigonometry]]):
 $$\psi = 90° - A, \qquad \theta = a, \qquad \chi = 90° - \phi$$
 $$\psi' = 90° - h, \qquad \theta' = \delta$$
 
@@ -56,11 +56,11 @@ given $(h, \delta, \phi)$ I get $(A, a)$.
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Spherical_astronomy_complete](Spherical_astronomy_complete.html)
-- [Spherical trigonometry](Spherical%20trigonometry.html)
-- [Equatorial system](Equatorial%20system.html)
-- [Horizontal alt-azimuth system](Horizontal%20alt-azimuth%20system.html)
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Spherical_astronomy_complete]]
+- [[Spherical trigonometry]]
+- [[Equatorial system]]
+- [[Horizontal alt-azimuth system]]
 - Culmination and rise/set
 
 ---
@@ -91,15 +91,15 @@ given $(h, \delta, \phi)$ I get $(A, a)$.
 ![obs_sph1-48.png](../../assets/images/obs_sph1-48.png)
 *Summary of alt-azimuth to equatorial transformation formulas.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Culmination%20and%20rise-set.html" class="backlink-item">Culmination and rise-set</a></li>
-    <li class="backlink-item-wrap"><a href="Equatorial%20system.html" class="backlink-item">Equatorial system</a></li>
-    <li class="backlink-item-wrap"><a href="Horizontal%20alt-azimuth%20system.html" class="backlink-item">Horizontal alt-azimuth system</a></li>
-    <li class="backlink-item-wrap"><a href="Spherical%20trigonometry.html" class="backlink-item">Spherical trigonometry</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Culmination and rise-set]]
+- [[Equatorial system]]
+- [[Horizontal alt-azimuth system]]
+- [[Spherical trigonometry]]
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Observational_Astrophysics_MOC]]
+
 

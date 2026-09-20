@@ -47,7 +47,7 @@ so designing arrays with good (u, v) coverage is partly about *reducing crowding
 
 ## the labyrie hypertelescope solution
 
-[hypertelescope](interf/Hypertelescope.html) schemes (Labeyrie 1996) use **pupil densification** to create a "concentrated" version of the dirty beam — most of the energy in the central peak, with much smaller sidelobes. this reduces crowding and lets sparse arrays image more densely-populated fields.
+[[Hypertelescope|hypertelescope]] schemes (Labeyrie 1996) use **pupil densification** to create a "concentrated" version of the dirty beam — most of the energy in the central peak, with much smaller sidelobes. this reduces crowding and lets sparse arrays image more densely-populated fields.
 
 essentially: trade some signal-to-noise for a much better PSF.
 
@@ -72,9 +72,9 @@ chapter 4 of Labeyrie discusses the crowding limit for *sparse-aperture* arrays 
 
 ## see also
 
-- [Dirty beam and dirty image](interf/Dirty%20beam%20and%20dirty%20image.html)
-- [The (u, v) plane](interf/The%20%28u%2C%20v%29%20plane.html)
-- [Aperture synthesis principle](interf/Aperture%20synthesis%20principle.html)
-- [CLEAN algorithm](interf/CLEAN%20algorithm.html)
-- [Hypertelescope](interf/Hypertelescope.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Dirty beam and dirty image]]
+- [[The (u, v) plane]]
+- [[Aperture synthesis principle]]
+- [[CLEAN algorithm]]
+- [[Hypertelescope]]
+- [[Astronomical_Interferometry_MOC]]

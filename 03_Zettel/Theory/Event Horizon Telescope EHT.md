@@ -114,8 +114,8 @@ source: ESO/EHT images eso1907j and eso1907a.
 
 ## see also
 
-- [Very Long Baseline Interferometry VLBI](interf/Very%20Long%20Baseline%20Interferometry%20VLBI.html)
-- [AGN and supermassive black holes](interf/AGN%20and%20supermassive%20black%20holes.html)
-- [Galactic Center Sgr A and S-stars](interf/Galactic%20Center%20Sgr%20A%20and%20S-stars.html)
-- [Major radio interferometers](interf/Major%20radio%20interferometers.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Very Long Baseline Interferometry VLBI]]
+- [[AGN and supermassive black holes]]
+- [[Galactic Center Sgr A and S-stars]]
+- [[Major radio interferometers]]
+- [[Astronomical_Interferometry_MOC]]

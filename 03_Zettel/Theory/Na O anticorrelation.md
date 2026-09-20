@@ -33,23 +33,23 @@ so a region hot enough to do both will simultaneously deplete O + enhance Na, pr
 - the cores of fast-rotating massive MS stars
 - the convective envelopes of supermassive stars
 
-ordinary low-mass MS stars (the GC stars themselves) do not reach these temperatures internally, so their surface composition cannot be modified in situ on the MS. the polluted material had to come from somewhere else (see [Polluter scenarios for second-generation GC stars](Polluter%20scenarios%20for%20second-generation%20GC%20stars.html)).
+ordinary low-mass MS stars (the GC stars themselves) do not reach these temperatures internally, so their surface composition cannot be modified in situ on the MS. the polluted material had to come from somewhere else (see [[Polluter scenarios for second-generation GC stars]]).
 
 ## why it is not stellar evolution
 
 a tempting interpretation in the 1970s was that Na + O variations were produced by deep mixing on the giant branch in each star individually. this is ruled out because:
 1. the anti-correlation is seen in unevolved MS + subgiant stars, where deep mixing has not yet operated (gratton et al. 2001 in NGC 6752)
 2. the abundance pattern requires temperatures higher than any low-mass star achieves internally
-3. helium variations + colour splits track Na-O even on the MS (see [Helium spread in GCs](Helium%20spread%20in%20GCs.html))
+3. helium variations + colour splits track Na-O even on the MS (see [[Helium spread in GCs]])
 
 the contamination must therefore be primordial: 2G stars were born from gas already enriched by some earlier polluter generation.
 
 ## connections to other anti-correlations
 
 Na-O is the most accessible (strong + clean lines in the optical) but it is not isolated. the same hot-H-burning origin produces:
-- C depletion + N enhancement (CN cycle, lower T) → see [CN CH MgAl anticorrelations](CN%20CH%20MgAl%20anticorrelations.html)
+- C depletion + N enhancement (CN cycle, lower T) → see [[CN CH MgAl anticorrelations]]
 - Mg depletion + Al enhancement (MgAl cycle, $T \gtrsim 70$ MK) → only in the most massive metal-poor GCs
-- He enhancement (the unique product of H burning) → see [Helium spread in GCs](Helium%20spread%20in%20GCs.html)
+- He enhancement (the unique product of H burning) → see [[Helium spread in GCs]]
 
 the joint pattern (Na up, Al up, Mg down, O down, C down, N up, He up, Fe constant) is the smoking gun for proton-capture pollution.
 
@@ -59,26 +59,26 @@ eugenio carretta + raffaele gratton + their collaborators (bragaglia, lucatello,
 
 ## see also
 
-- [Multiple populations in GCs discovery](Multiple%20populations%20in%20GCs%20discovery.html)
-- [CN CH MgAl anticorrelations](CN%20CH%20MgAl%20anticorrelations.html)
-- [Helium spread in GCs](Helium%20spread%20in%20GCs.html)
-- [Polluter scenarios for second-generation GC stars](Polluter%20scenarios%20for%20second-generation%20GC%20stars.html)
-- [Photometric chromosome maps](Photometric%20chromosome%20maps.html)
+- [[Multiple populations in GCs discovery]]
+- [[CN CH MgAl anticorrelations]]
+- [[Helium spread in GCs]]
+- [[Polluter scenarios for second-generation GC stars]]
+- [[Photometric chromosome maps]]
 - Hot bottom burning AGB nucleosynthesis
 - CNO cycle
-- [Stellar populations I II III](Stellar%20populations%20I%20II%20III.html)
-- [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
+- [[Stellar populations I II III]]
+- [[Stellar_Astrophysics_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="CN%20CH%20MgAl%20anticorrelations.html" class="backlink-item">CN CH MgAl anticorrelations</a></li>
-    <li class="backlink-item-wrap"><a href="Helium%20spread%20in%20GCs.html" class="backlink-item">Helium spread in GCs</a></li>
-    <li class="backlink-item-wrap"><a href="Multiple%20populations%20in%20GCs%20discovery.html" class="backlink-item">Multiple populations in GCs discovery</a></li>
-    <li class="backlink-item-wrap"><a href="Photometric%20chromosome%20maps.html" class="backlink-item">Photometric chromosome maps</a></li>
-    <li class="backlink-item-wrap"><a href="Polluter%20scenarios%20for%20second-generation%20GC%20stars.html" class="backlink-item">Polluter scenarios for second-generation GC stars</a></li>
-    <li class="backlink-item-wrap"><a href="Type%20I%20and%20Type%20II%20GCs.html" class="backlink-item">Type I and Type II GCs</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[CN CH MgAl anticorrelations]]
+- [[Helium spread in GCs]]
+- [[Multiple populations in GCs discovery]]
+- [[Photometric chromosome maps]]
+- [[Polluter scenarios for second-generation GC stars]]
+- [[Type I and Type II GCs]]
+- [[Stellar_Astrophysics_MOC]]
+
 

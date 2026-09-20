@@ -6,7 +6,7 @@ title: "Wavefront-division interferometers"
 
 a class of interferometers where the original wavefront is **spatially divided** — different *parts* of the same wavefront are sent along different optical paths, then recombined. all four classical examples — Young, Fresnel double mirror, Fresnel biprism, Lloyd mirror — produce two virtual coherent sources from a single primary source.
 
-contrast with [Amplitude-division interferometers](Amplitude-division%20interferometers.html), where the same wavefront is *partially reflected and transmitted*, creating two beams of reduced amplitude that travel different paths.
+contrast with [[Amplitude-division interferometers]], where the same wavefront is *partially reflected and transmitted*, creating two beams of reduced amplitude that travel different paths.
 
 ## the four classical examples
 
@@ -19,7 +19,7 @@ the original. a single source illuminates a screen with two narrow slits. each s
 
 at a detection screen far away, the two paths $r_1, r_2$ from each slit to the observation point produce an OPD $\Lambda \approx d\sin\theta \approx d\theta$. fringes spaced $\lambda L/d$ on a screen at distance $L$.
 
-see [Young experiment as a stellar interferometer](interf/Young%20experiment%20as%20a%20stellar%20interferometer.html).
+see [[Young experiment as a stellar interferometer]].
 
 ### 2. Fresnel double mirror
 
@@ -27,7 +27,7 @@ two flat mirrors meeting at a small angle $\alpha \ll 1$ (typically a few minute
 
 these virtual sources are *coherent* (because they come from the same physical source) and produce Young-like fringes on a screen.
 
-see [Fresnel double mirror](interf/Fresnel%20double%20mirror.html).
+see [[Fresnel double mirror]].
 
 ### 3. Fresnel biprism
 
@@ -35,7 +35,7 @@ a thin glass prism with two refracting surfaces meeting at an apex angle slightl
 
 simpler than the double mirror to align (no critical alignment of two separate elements). produces Young-like fringes.
 
-see [Fresnel biprism](interf/Fresnel%20biprism.html).
+see [[Fresnel biprism]].
 
 ### 4. Lloyd's mirror
 
@@ -43,7 +43,7 @@ the simplest of all. a single grazing-incidence mirror near a point source. ligh
 
 unique feature: the reflection introduces a $\pi$ phase shift (because reflection at a denser medium flips the phase). this means the *bright* and *dark* fringes are **swapped** compared to the geometric expectation. at zero OPD (the mirror's plane), there is a *dark* fringe rather than a bright one — a classic indicator of phase reflection.
 
-see [Lloyd mirror](interf/Lloyd%20mirror.html).
+see [[Lloyd mirror]].
 
 ## what they all have in common
 
@@ -94,9 +94,9 @@ amplitude division is dominant in lab metrology and quantum optics. wavefront di
 
 ## see also
 
-- [Amplitude-division interferometers](Amplitude-division%20interferometers.html)
-- [Young experiment as a stellar interferometer](interf/Young%20experiment%20as%20a%20stellar%20interferometer.html)
-- [Fresnel double mirror](interf/Fresnel%20double%20mirror.html)
-- [Fresnel biprism](interf/Fresnel%20biprism.html)
-- [Lloyd mirror](interf/Lloyd%20mirror.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Amplitude-division interferometers]]
+- [[Young experiment as a stellar interferometer]]
+- [[Fresnel double mirror]]
+- [[Fresnel biprism]]
+- [[Lloyd mirror]]
+- [[Astronomical_Interferometry_MOC]]

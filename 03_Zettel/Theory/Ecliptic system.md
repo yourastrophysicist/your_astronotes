@@ -66,12 +66,12 @@ $$\cos\beta \sin\lambda = \sin\delta \sin\varepsilon + \cos\delta \cos\varepsilo
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Equatorial system](Equatorial%20system.html)
-- [Galactic coordinate system](Galactic%20coordinate%20system.html)
-- [Spherical trigonometry](Spherical%20trigonometry.html)
-- [Precession and nutation](Precession%20and%20nutation.html)
-- [Celestial sphere and great circles](Celestial%20sphere%20and%20great%20circles.html)
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Equatorial system]]
+- [[Galactic coordinate system]]
+- [[Spherical trigonometry]]
+- [[Precession and nutation]]
+- [[Celestial sphere and great circles]]
 
 ---
 
@@ -83,15 +83,15 @@ $$\cos\beta \sin\lambda = \sin\delta \sin\varepsilon + \cos\delta \cos\varepsilo
 ![obs_sph2-22.png](../../assets/images/obs_sph2-22.png)
 *Transformation between equatorial and ecliptic systems via obliquity epsilon = 23.44 deg.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Aberration%20of%20light.html" class="backlink-item">Aberration of light</a></li>
-    <li class="backlink-item-wrap"><a href="Galactic%20coordinate%20system.html" class="backlink-item">Galactic coordinate system</a></li>
-    <li class="backlink-item-wrap"><a href="Precession%20and%20nutation.html" class="backlink-item">Precession and nutation</a></li>
-    <li class="backlink-item-wrap"><a href="Sky%20brightness.html" class="backlink-item">Sky brightness</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Aberration of light]]
+- [[Galactic coordinate system]]
+- [[Precession and nutation]]
+- [[Sky brightness]]
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Observational_Astrophysics_MOC]]
+
 

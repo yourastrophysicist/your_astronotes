@@ -4,15 +4,15 @@ title: "Space and ground facilities relevant for OC"
 ---
 # space and ground facilities relevant for oc
 
-up: [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html) · [Surveys to remember](Surveys%20to%20remember.html)
+up: [[Observational_Cosmology_MOC]] · [[Surveys to remember]]
 
 ## major ground-based optical / near-ir facilities
 
 - **ESO VLT (Very Large Telescope)**:
   - Cerro Paranal, Chile. Four 8.2m Unit Telescopes (Antu, Kueyen, Melipal, Yepun).
-  - Key instruments: [MUSE datacubes](MUSE%20datacubes.html) (panoramic IFU), X-shooter (UV to NIR echelle), HAWK-I (wide-field NIR), FORS2.
+  - Key instruments: [[MUSE datacubes]] (panoramic IFU), X-shooter (UV to NIR echelle), HAWK-I (wide-field NIR), FORS2.
   - UT4 fully equipped with the Adaptive Optics Facility (4 sodium laser guide stars).
-  - Interferometric mode: [VLTI Very Large Telescope Interferometer](interf/VLTI%20Very%20Large%20Telescope%20Interferometer.html) combining 4 UTs or 4 Auxiliary Telescopes (ATs).
+  - Interferometric mode: [[VLTI Very Large Telescope Interferometer]] combining 4 UTs or 4 Auxiliary Telescopes (ATs).
 - **W. M. Keck Observatory**:
   - Mauna Kea, Hawaii. Twin 10m segmented-mirror telescopes.
   - Key instruments: MOSFIRE (multi-object NIR spectrograph), DEIMOS (optical multi-object), LRIS, KCWI (optical IFU).
@@ -39,21 +39,21 @@ up: [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.htm
 ## space-based observatories
 
 - **HST (Hubble Space Telescope)**: 2.4m, UV-optical-NIR, standard candle calibration and deep fields.
-- **JWST (James Webb Space Telescope)**: 6.5m segmented beryllium mirror at Sun-Earth L2. Instruments: NIRCam, NIRSpec, MIRI, NIRISS. See [High-z galaxies with JWST](High-z%20galaxies%20with%20JWST.html).
+- **JWST (James Webb Space Telescope)**: 6.5m segmented beryllium mirror at Sun-Earth L2. Instruments: NIRCam, NIRSpec, MIRI, NIRISS. See [[High-z galaxies with JWST]].
 - **Planck**: 1.5m telescope at L2, all-sky CMB temperature and polarization.
 - **Euclid & Roman**: wide-field NIR cosmology missions.
 
 ## connections
 
-- survey overview: [Surveys to remember](Surveys%20to%20remember.html)
-- ifu physics: [MUSE datacubes](MUSE%20datacubes.html), [Datacube reduction](Datacube%20reduction.html)
-- radio physics: [Major radio interferometers](interf/Major%20radio%20interferometers.html), [Event Horizon Telescope EHT](interf/Event%20Horizon%20Telescope%20EHT.html)
+- survey overview: [[Surveys to remember]]
+- ifu physics: [[MUSE datacubes]], [[Datacube reduction]]
+- radio physics: [[Major radio interferometers]], [[Event Horizon Telescope EHT]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Surveys%20to%20remember.html" class="backlink-item">Surveys to remember</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Surveys to remember]]
+- [[Observational_Cosmology_MOC]]
+
 

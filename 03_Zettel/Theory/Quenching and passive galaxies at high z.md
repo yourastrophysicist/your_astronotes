@@ -4,7 +4,7 @@ title: "Quenching and passive galaxies at high z"
 ---
 # quenching and passive galaxies at high z
 
-up: [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html) · [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html) · [Green valley and quenching tracks](Green%20valley%20and%20quenching%20tracks.html)
+up: [[Observational_Cosmology_MOC]] · [[Astrophysics_of_Galaxies_MOC]] · [[Green valley and quenching tracks]]
 
 ## the definition of quenching
 
@@ -33,14 +33,14 @@ Recent JWST observations have discovered fully quenched, massive ($M_* \gtrsim 1
 
 ## connections
 
-- local bimodality: [Color bimodality of galaxies](Color%20bimodality%20of%20galaxies.html), [Red sequence and blue cloud](Red%20sequence%20and%20blue%20cloud.html)
-- early universe: [High-z galaxies with JWST](High-z%20galaxies%20with%20JWST.html)
-- spectral classification: [Eigenspectra and spectral types](Eigenspectra%20and%20spectral%20types.html)
+- local bimodality: [[Color bimodality of galaxies]], [[Red sequence and blue cloud]]
+- early universe: [[High-z galaxies with JWST]]
+- spectral classification: [[Eigenspectra and spectral types]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (1)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="High-z%20galaxies%20with%20JWST.html" class="backlink-item">High-z galaxies with JWST</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[High-z galaxies with JWST]]
+
 

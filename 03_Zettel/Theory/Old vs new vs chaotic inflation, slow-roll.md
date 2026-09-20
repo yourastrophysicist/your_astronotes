@@ -46,7 +46,7 @@ the broad framework that includes new and chaotic inflation as special cases. re
 - $\epsilon \equiv (M_{\rm Pl}^2/2)(V'/V)^2 \ll 1$
 - $\lvert \eta\rvert \equiv M_{\rm Pl}^2 \lvert V''/V\rvert \ll 1$
 
-(see [Inflaton scalar field dynamics](Inflaton%20scalar%20field%20dynamics.html).)
+(see [[Inflaton scalar field dynamics]].)
 
 these are the **slow-roll parameters**. as long as both are small, the field rolls slowly down the potential, and inflation proceeds.
 
@@ -88,22 +88,22 @@ these are all open questions. but the basic framework — slow-roll inflation by
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Inflation overview](Inflation%20overview.html)
-- [Inflaton scalar field dynamics](Inflaton%20scalar%20field%20dynamics.html)
-- [Standard model problems](Standard%20model%20problems.html)
-- [Baumann_reference](Baumann_reference.html) — chapter 2 has the modern derivation
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Inflation overview]]
+- [[Inflaton scalar field dynamics]]
+- [[Standard model problems]]
+- [[Baumann_reference]] — chapter 2 has the modern derivation
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Baumann_reference.html" class="backlink-item">Baumann_reference</a></li>
-    <li class="backlink-item-wrap"><a href="Cosmological%20inflation.html" class="backlink-item">Cosmological inflation</a></li>
-    <li class="backlink-item-wrap"><a href="Inflation%20overview.html" class="backlink-item">Inflation overview</a></li>
-    <li class="backlink-item-wrap"><a href="Inflaton%20scalar%20field%20dynamics.html" class="backlink-item">Inflaton scalar field dynamics</a></li>
-    <li class="backlink-item-wrap"><a href="Polarization%20E%20and%20B%20modes.html" class="backlink-item">Polarization E and B modes</a></li>
-    <li class="backlink-item-wrap"><a href="Standard%20model%20problems.html" class="backlink-item">Standard model problems</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Baumann_reference]]
+- [[Cosmological inflation]]
+- [[Inflation overview]]
+- [[Inflaton scalar field dynamics]]
+- [[Polarization E and B modes]]
+- [[Standard model problems]]
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+
 

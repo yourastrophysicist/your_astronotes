@@ -64,41 +64,41 @@ modern AGN classification (BPT diagram) is based entirely on forbidden-line rati
 
 ## see also
 
-- [Selection rules](Selection%20rules.html)
-- [Forbidden vs permitted vs semiforbidden transitions](Forbidden%20vs%20permitted%20vs%20semiforbidden%20transitions.html)
-- [Atomic term symbols](Atomic%20term%20symbols.html)
-- [Critical density](Critical%20density.html)
-- [Two-level atom](Two-level%20atom.html)
-- [OIII forbidden lines](OIII%20forbidden%20lines.html)
-- [SII forbidden lines](SII%20forbidden%20lines.html)
-- [Forbidden line diagnostics](Forbidden%20line%20diagnostics.html)
-- [BPT diagram](BPT%20diagram.html)
-- [Spectroscopic Te diagnostics](Spectroscopic%20Te%20diagnostics.html)
-- [Spectroscopic ne diagnostics](Spectroscopic%20ne%20diagnostics.html)
+- [[Selection rules]]
+- [[Forbidden vs permitted vs semiforbidden transitions]]
+- [[Atomic term symbols]]
+- [[Critical density]]
+- [[Two-level atom]]
+- [[OIII forbidden lines]]
+- [[SII forbidden lines]]
+- [[Forbidden line diagnostics]]
+- [[BPT diagram]]
+- [[Spectroscopic Te diagnostics]]
+- [[Spectroscopic ne diagnostics]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (20)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Atomic%20term%20symbols.html" class="backlink-item">Atomic term symbols</a></li>
-    <li class="backlink-item-wrap"><a href="BPT%20diagram.html" class="backlink-item">BPT diagram</a></li>
-    <li class="backlink-item-wrap"><a href="Collisional%20excitation%20rate.html" class="backlink-item">Collisional excitation rate</a></li>
-    <li class="backlink-item-wrap"><a href="Cooling%20curve.html" class="backlink-item">Cooling curve</a></li>
-    <li class="backlink-item-wrap"><a href="Cooling%20rate%20in%20HII%20regions.html" class="backlink-item">Cooling rate in HII regions</a></li>
-    <li class="backlink-item-wrap"><a href="Critical%20density.html" class="backlink-item">Critical density</a></li>
-    <li class="backlink-item-wrap"><a href="Energy%20level%20diagrams%20Grotrian.html" class="backlink-item">Energy level diagrams Grotrian</a></li>
-    <li class="backlink-item-wrap"><a href="Forbidden%20line%20diagnostics.html" class="backlink-item">Forbidden line diagnostics</a></li>
-    <li class="backlink-item-wrap"><a href="Forbidden%20vs%20permitted%20vs%20semiforbidden%20transitions.html" class="backlink-item">Forbidden vs permitted vs semiforbidden transitions</a></li>
-    <li class="backlink-item-wrap"><a href="Galactic%20novae%20spectroscopy.html" class="backlink-item">Galactic novae spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="OIII%20forbidden%20lines.html" class="backlink-item">OIII forbidden lines</a></li>
-    <li class="backlink-item-wrap"><a href="Planetary%20nebula%20spectroscopy.html" class="backlink-item">Planetary nebula spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="SII%20forbidden%20lines.html" class="backlink-item">SII forbidden lines</a></li>
-    <li class="backlink-item-wrap"><a href="Selection%20rules.html" class="backlink-item">Selection rules</a></li>
-    <li class="backlink-item-wrap"><a href="Statistical%20equilibrium%20equations.html" class="backlink-item">Statistical equilibrium equations</a></li>
-    <li class="backlink-item-wrap"><a href="Supernova%20remnant%20spectroscopy.html" class="backlink-item">Supernova remnant spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="Supernova%20spectroscopy.html" class="backlink-item">Supernova spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="Two-level%20atom.html" class="backlink-item">Two-level atom</a></li>
-    <li class="backlink-item-wrap"><a href="Two-photon%20emission.html" class="backlink-item">Two-photon emission</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Atomic term symbols]]
+- [[BPT diagram]]
+- [[Collisional excitation rate]]
+- [[Cooling curve]]
+- [[Cooling rate in HII regions]]
+- [[Critical density]]
+- [[Energy level diagrams Grotrian]]
+- [[Forbidden line diagnostics]]
+- [[Forbidden vs permitted vs semiforbidden transitions]]
+- [[Galactic novae spectroscopy]]
+- [[OIII forbidden lines]]
+- [[Planetary nebula spectroscopy]]
+- [[SII forbidden lines]]
+- [[Selection rules]]
+- [[Statistical equilibrium equations]]
+- [[Supernova remnant spectroscopy]]
+- [[Supernova spectroscopy]]
+- [[Two-level atom]]
+- [[Two-photon emission]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 

@@ -4,7 +4,7 @@ title: "Earth atmosphere for observations"
 ---
 the atmosphere is the **last optical element** in any ground-based light path, and an actively bad one. before the photon hits the CCD it has spent its last microsecond inside 100 km of perturbed gas that does four annoying things: it absorbs at certain wavelengths (transparency), it dims the photon at all wavelengths (extinction), it twinkles its arrival time (scintillation), and it scrambles its arrival angle (seeing). this note collects all four into one comprehensive picture, with the formulas I need on the board.
 
-source: Lecture 2 ("Earth atmosphere") of the Obs Astrophysics course at U Padua, with reference text Lena et al., *Observational Astrophysics*. companion to [Observational_Astrophysics_MOC](../../04_Atlas/Observational_Astrophysics_MOC.html) Block 2.
+source: Lecture 2 ("Earth atmosphere") of the Obs Astrophysics course at U Padua, with reference text Lena et al., *Observational Astrophysics*. companion to [[Observational_Astrophysics_MOC]] Block 2.
 
 ---
 
@@ -157,15 +157,15 @@ the spine of any oral question on the atmosphere is:
 
 ## see also
 
-- [Observational_Astrophysics_MOC](../../04_Atlas/Observational_Astrophysics_MOC.html) — Block 2 lives here
-- [Adaptive optics overview](interf/Adaptive%20optics%20overview.html)
-- [Atmospheric extinction](interf/Atmospheric%20extinction.html)
-- [Atmospheric seeing](interf/Atmospheric%20seeing.html)
-- [CCD detectors and SNR](CCD%20detectors%20and%20SNR.html) — the next stop in the photon's journey
-- [Magnitudes and photometric systems](Magnitudes%20and%20photometric%20systems.html) — what we do with the photometric standards
-- [Sky brightness](Sky%20brightness.html)
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Lab_High-Energy_MOC](../../04_Atlas/Lab_High-Energy_MOC.html) — the X-ray analogue of "the atmosphere as a barrier"
+- [[Observational_Astrophysics_MOC]] — Block 2 lives here
+- [[Adaptive optics overview]]
+- [[Atmospheric extinction]]
+- [[Atmospheric seeing]]
+- [[CCD detectors and SNR]] — the next stop in the photon's journey
+- [[Magnitudes and photometric systems]] — what we do with the photometric standards
+- [[Sky brightness]]
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Lab_High-Energy_MOC]] — the X-ray analogue of "the atmosphere as a barrier"
 
 ---
 
@@ -213,30 +213,23 @@ the spine of any oral question on the atmosphere is:
 ![obs_atm-48.png](../../assets/images/obs_atm-48.png)
 *Extinction curves at premier observatories (La Silla, Paranal, Roque de los Muchachos).*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (21)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Adaptive%20optics%20overview.html" class="backlink-item">Adaptive optics overview</a></li>
-    <li class="backlink-item-wrap"><a href="Atmospheric%20dispersion.html" class="backlink-item">Atmospheric dispersion</a></li>
-    <li class="backlink-item-wrap"><a href="Atmospheric%20extinction.html" class="backlink-item">Atmospheric extinction</a></li>
-    <li class="backlink-item-wrap"><a href="Atmospheric%20layers.html" class="backlink-item">Atmospheric layers</a></li>
-    <li class="backlink-item-wrap"><a href="Atmospheric%20scintillation.html" class="backlink-item">Atmospheric scintillation</a></li>
-    <li class="backlink-item-wrap"><a href="Atmospheric%20seeing.html" class="backlink-item">Atmospheric seeing</a></li>
-    <li class="backlink-item-wrap"><a href="Atmospheric%20transparency%20windows.html" class="backlink-item">Atmospheric transparency windows</a></li>
-    <li class="backlink-item-wrap"><a href="CCD%20detectors%20and%20SNR.html" class="backlink-item">CCD detectors and SNR</a></li>
-    <li class="backlink-item-wrap"><a href="Distance%20ladder%20derivations.html" class="backlink-item">Distance ladder derivations</a></li>
-    <li class="backlink-item-wrap"><a href="Electromagnetic%20radiation%20basics.html" class="backlink-item">Electromagnetic radiation basics</a></li>
-    <li class="backlink-item-wrap"><a href="Obs_astro_course_intro.html" class="backlink-item">Obs_astro_course_intro</a></li>
-    <li class="backlink-item-wrap"><a href="Sky%20brightness.html" class="backlink-item">Sky brightness</a></li>
-    <li class="backlink-item-wrap"><a href="interf/Adaptive%20optics%20overview.html" class="backlink-item">Adaptive optics overview</a></li>
-    <li class="backlink-item-wrap"><a href="interf/Atmospheric%20dispersion.html" class="backlink-item">Atmospheric dispersion</a></li>
-    <li class="backlink-item-wrap"><a href="interf/Atmospheric%20extinction.html" class="backlink-item">Atmospheric extinction</a></li>
-    <li class="backlink-item-wrap"><a href="interf/Atmospheric%20layers.html" class="backlink-item">Atmospheric layers</a></li>
-    <li class="backlink-item-wrap"><a href="interf/Atmospheric%20refraction.html" class="backlink-item">Atmospheric refraction</a></li>
-    <li class="backlink-item-wrap"><a href="interf/Atmospheric%20scintillation.html" class="backlink-item">Atmospheric scintillation</a></li>
-    <li class="backlink-item-wrap"><a href="interf/Atmospheric%20seeing.html" class="backlink-item">Atmospheric seeing</a></li>
-    <li class="backlink-item-wrap"><a href="interf/Atmospheric%20transparency%20windows.html" class="backlink-item">Atmospheric transparency windows</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Adaptive optics overview]]
+- [[Atmospheric dispersion]]
+- [[Atmospheric extinction]]
+- [[Atmospheric layers]]
+- [[Atmospheric scintillation]]
+- [[Atmospheric seeing]]
+- [[Atmospheric transparency windows]]
+- [[CCD detectors and SNR]]
+- [[Distance ladder derivations]]
+- [[Electromagnetic radiation basics]]
+- [[Obs_astro_course_intro]]
+- [[Sky brightness]]
+- [[Atmospheric refraction]]
+- [[Observational_Astrophysics_MOC]]
+
 

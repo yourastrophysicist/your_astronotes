@@ -184,18 +184,18 @@ When asked by Prof. Pizzella - *"Why does the Schechter function fail at the bri
 
 ## 9. Related Knowledge Base Notes
 
-- [Schechter function](Schechter%20function.html) - The canonical analytic formula for galaxy luminosity functions.
-- [Integrals of the Schechter function](Integrals%20of%20the%20Schechter%20function.html) - Analytic integrations for galaxy number density and luminosity density.
-- [Schechter function in magnitudes](Schechter%20function%20in%20magnitudes.html) - Mathematical formulation and parameter fitting in magnitude space.
-- [UV luminosity function](UV%20luminosity%20function.html) - Evolution of high-redshift star-forming galaxy populations across cosmic lookback time.
-- [Luminosity function definition](Luminosity%20function%20definition.html) - Theoretical definitions, selection effects, and the $V_{\mathrm{max}}$ estimator.
+- [[Schechter function]] - The canonical analytic formula for galaxy luminosity functions.
+- [[Integrals of the Schechter function]] - Analytic integrations for galaxy number density and luminosity density.
+- [[Schechter function in magnitudes]] - Mathematical formulation and parameter fitting in magnitude space.
+- [[UV luminosity function]] - Evolution of high-redshift star-forming galaxy populations across cosmic lookback time.
+- [[Luminosity function definition]] - Theoretical definitions, selection effects, and the $V_{\mathrm{max}}$ estimator.
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="LF%20by%20morphology%20and%20SED.html" class="backlink-item">LF by morphology and SED</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[LF by morphology and SED]]
+- [[Astrophysics_of_Galaxies_MOC]]
+- [[Observational_Cosmology_MOC]]
+
 

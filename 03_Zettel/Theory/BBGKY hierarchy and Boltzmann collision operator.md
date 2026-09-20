@@ -34,17 +34,17 @@ with relative velocity $g = \lvert \mathbf{v} - \mathbf{v}_1\rvert$, and primed 
 
 ## see also
 
-- [Fluid_and_Plasma_Dynamics_MOC](../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html)
-- [Part1_Kinetic_Foundations_and_Fluid_Equations](../../02_Literature/Lectures/Fluid_and_Plasma_Dynamics/Part1_Kinetic_Foundations_and_Fluid_Equations.html)
-- [Liouville theorem and phase space incompressibility](Liouville%20theorem%20and%20phase%20space%20incompressibility.html)
-- [Boltzmann H-theorem and Maxwellian distribution](Boltzmann%20H-theorem%20and%20Maxwellian%20distribution.html)
+- [[Fluid_and_Plasma_Dynamics_MOC]]
+- [[Part1_Kinetic_Foundations_and_Fluid_Equations]]
+- [[Liouville theorem and phase space incompressibility]]
+- [[Boltzmann H-theorem and Maxwellian distribution]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Boltzmann%20H-theorem%20and%20Maxwellian%20distribution.html" class="backlink-item">Boltzmann H-theorem and Maxwellian distribution</a></li>
-    <li class="backlink-item-wrap"><a href="Liouville%20theorem%20and%20phase%20space%20incompressibility.html" class="backlink-item">Liouville theorem and phase space incompressibility</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Boltzmann H-theorem and Maxwellian distribution]]
+- [[Liouville theorem and phase space incompressibility]]
+- [[Fluid_and_Plasma_Dynamics_MOC]]
+
 

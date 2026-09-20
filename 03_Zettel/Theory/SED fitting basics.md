@@ -82,18 +82,18 @@ the physical properties extracted from SED fitting exhibit a strict hierarchy of
 
 ## see also
 
-- [Observational_Astrophysics_MOC](../../04_Atlas/Observational_Astrophysics_MOC.html)
-- [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
-- [Stellar population synthesis](Stellar%20population%20synthesis.html)
-- [SPS code families](SPS%20code%20families.html)
-- [Single stellar population SSP](Single%20stellar%20population%20SSP.html)
-- [Star formation history of a population](Star%20formation%20history%20of%20a%20population.html)
-- [Photometric redshifts](Photometric%20redshifts.html)
-- [Age-metallicity degeneracy](Age-metallicity%20degeneracy.html)
-- [Stellar mass estimation in unresolved populations](Stellar%20mass%20estimation%20in%20unresolved%20populations.html)
-- [Age estimation in unresolved populations](Age%20estimation%20in%20unresolved%20populations.html)
-- [Dust attenuation in synthetic populations](Dust%20attenuation%20in%20synthetic%20populations.html)
-- [SFR tracers from population synthesis](SFR%20tracers%20from%20population%20synthesis.html)
+- [[Observational_Astrophysics_MOC]]
+- [[Stellar_Astrophysics_MOC]]
+- [[Stellar population synthesis]]
+- [[SPS code families]]
+- [[Single stellar population SSP]]
+- [[Star formation history of a population]]
+- [[Photometric redshifts]]
+- [[Age-metallicity degeneracy]]
+- [[Stellar mass estimation in unresolved populations]]
+- [[Age estimation in unresolved populations]]
+- [[Dust attenuation in synthetic populations]]
+- [[SFR tracers from population synthesis]]
 
 ---
 
@@ -135,22 +135,22 @@ the physical properties extracted from SED fitting exhibit a strict hierarchy of
 ![obs_sps-36.png](../../assets/images/obs_sps-36.png)
 *Summary of SED fitting parameter inference.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (13)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Age%20estimation%20in%20unresolved%20populations.html" class="backlink-item">Age estimation in unresolved populations</a></li>
-    <li class="backlink-item-wrap"><a href="Age-metallicity%20degeneracy.html" class="backlink-item">Age-metallicity degeneracy</a></li>
-    <li class="backlink-item-wrap"><a href="Dust%20attenuation%20in%20synthetic%20populations.html" class="backlink-item">Dust attenuation in synthetic populations</a></li>
-    <li class="backlink-item-wrap"><a href="IR%20SFR%20tracer.html" class="backlink-item">IR SFR tracer</a></li>
-    <li class="backlink-item-wrap"><a href="Lick%20indices.html" class="backlink-item">Lick indices</a></li>
-    <li class="backlink-item-wrap"><a href="Photometric%20redshifts.html" class="backlink-item">Photometric redshifts</a></li>
-    <li class="backlink-item-wrap"><a href="SFR%20tracers%20from%20population%20synthesis.html" class="backlink-item">SFR tracers from population synthesis</a></li>
-    <li class="backlink-item-wrap"><a href="SPS%20code%20families.html" class="backlink-item">SPS code families</a></li>
-    <li class="backlink-item-wrap"><a href="Star%20formation%20history%20of%20a%20population.html" class="backlink-item">Star formation history of a population</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20mass%20estimation%20in%20unresolved%20populations.html" class="backlink-item">Stellar mass estimation in unresolved populations</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20population%20synthesis.html" class="backlink-item">Stellar population synthesis</a></li>
-    <li class="backlink-item-wrap"><a href="UV%20SFR%20tracer.html" class="backlink-item">UV SFR tracer</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Age estimation in unresolved populations]]
+- [[Age-metallicity degeneracy]]
+- [[Dust attenuation in synthetic populations]]
+- [[IR SFR tracer]]
+- [[Lick indices]]
+- [[Photometric redshifts]]
+- [[SFR tracers from population synthesis]]
+- [[SPS code families]]
+- [[Star formation history of a population]]
+- [[Stellar mass estimation in unresolved populations]]
+- [[Stellar population synthesis]]
+- [[UV SFR tracer]]
+- [[Observational_Astrophysics_MOC]]
+
 

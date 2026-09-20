@@ -110,8 +110,8 @@ best practices:
 
 ## see also
 
-- [CLEAN algorithm](interf/CLEAN%20algorithm.html)
-- [Calibration overview](interf/Calibration%20overview.html)
-- [Dirty beam and dirty image](interf/Dirty%20beam%20and%20dirty%20image.html)
-- [Self-calibration](interf/Self-calibration.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[CLEAN algorithm]]
+- [[Calibration overview]]
+- [[Dirty beam and dirty image]]
+- [[Self-calibration]]
+- [[Astronomical_Interferometry_MOC]]

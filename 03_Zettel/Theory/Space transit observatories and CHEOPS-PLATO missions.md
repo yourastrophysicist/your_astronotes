@@ -29,16 +29,16 @@ PLATO (PLAnetary Transits and Oscillations of stars) aims to detect and characte
 
 ## see also
 
-- [Exoplanetary_Astrophysics_MOC](../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)
-- [19_CHEOPS_and_PLATO_Missions](../../02_Literature/Lectures/Exoplanetary_Astrophysics/19_CHEOPS_and_PLATO_Missions.html)
-- [18_Space_Transit_Surveys_TTVs_and_Resonances](../../02_Literature/Lectures/Exoplanetary_Astrophysics/18_Space_Transit_Surveys_TTVs_and_Resonances.html)
-- [Transit false positive vetting and blending validation](Transit%20false%20positive%20vetting%20and%20blending%20validation.html)
+- [[Exoplanetary_Astrophysics_MOC]]
+- [[19_CHEOPS_and_PLATO_Missions]]
+- [[18_Space_Transit_Surveys_TTVs_and_Resonances]]
+- [[Transit false positive vetting and blending validation]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Transit%20false%20positive%20vetting%20and%20blending%20validation.html" class="backlink-item">Transit false positive vetting and blending validation</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Transit false positive vetting and blending validation]]
+- [[Exoplanetary_Astrophysics_MOC]]
+
 

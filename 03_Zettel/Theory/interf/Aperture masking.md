@@ -81,25 +81,21 @@ so aperture masking is "interferometry within a single telescope" — same algor
 
 ## see also
 
-- [Speckle interferometry](Speckle%20interferometry.html)
-- [Speckle imaging algorithms](Speckle%20imaging%20algorithms.html)
-- [Bispectrum and triple correlation](Bispectrum%20and%20triple%20correlation.html)
-- [Phase closure](Phase%20closure.html)
-- [Aperture synthesis principle](Aperture%20synthesis%20principle.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Speckle interferometry]]
+- [[Speckle imaging algorithms]]
+- [[Bispectrum and triple correlation]]
+- [[Phase closure]]
+- [[Aperture synthesis principle]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (9)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Bispectrum%20and%20triple%20correlation.html" class="backlink-item">Bispectrum and triple correlation</a></li>
-    <li class="backlink-item-wrap"><a href="../Speckle%20imaging%20algorithms.html" class="backlink-item">Speckle imaging algorithms</a></li>
-    <li class="backlink-item-wrap"><a href="../Speckle%20interferometry.html" class="backlink-item">Speckle interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="../Theory%20of%20speckle%20interferometry.html" class="backlink-item">Theory of speckle interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="Bispectrum%20and%20triple%20correlation.html" class="backlink-item">Bispectrum and triple correlation</a></li>
-    <li class="backlink-item-wrap"><a href="Speckle%20imaging%20algorithms.html" class="backlink-item">Speckle imaging algorithms</a></li>
-    <li class="backlink-item-wrap"><a href="Speckle%20interferometry.html" class="backlink-item">Speckle interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="Theory%20of%20speckle%20interferometry.html" class="backlink-item">Theory of speckle interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Bispectrum and triple correlation]]
+- [[Speckle imaging algorithms]]
+- [[Speckle interferometry]]
+- [[Theory of speckle interferometry]]
+- [[Astronomical_Interferometry_MOC]]
+
 

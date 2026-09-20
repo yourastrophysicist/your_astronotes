@@ -54,30 +54,30 @@ backbone of Galactic Archaeology surveys: GALAH, APOGEE-2, 4MOST-HR. abundance-p
 
 ## see also
 
-- [Grating equation](Grating%20equation.html)
-- [Blazed gratings](Blazed%20gratings.html)
-- [Spectrograph design](Spectrograph%20design.html)
-- [Dispersion and spectral resolution](Dispersion%20and%20spectral%20resolution.html)
-- [Spectrograph types](Spectrograph%20types.html)
-- [Stellar v sin i from line shape](Stellar%20v%20sin%20i%20from%20line%20shape.html)
-- [Curve of growth abundance analysis](Curve%20of%20growth%20abundance%20analysis.html)
+- [[Grating equation]]
+- [[Blazed gratings]]
+- [[Spectrograph design]]
+- [[Dispersion and spectral resolution]]
+- [[Spectrograph types]]
+- [[Stellar v sin i from line shape]]
+- [[Curve of growth abundance analysis]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (13)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Blazed%20gratings.html" class="backlink-item">Blazed gratings</a></li>
-    <li class="backlink-item-wrap"><a href="Curve%20of%20growth%20abundance%20analysis.html" class="backlink-item">Curve of growth abundance analysis</a></li>
-    <li class="backlink-item-wrap"><a href="Dispersion%20and%20spectral%20resolution.html" class="backlink-item">Dispersion and spectral resolution</a></li>
-    <li class="backlink-item-wrap"><a href="Grating%20equation.html" class="backlink-item">Grating equation</a></li>
-    <li class="backlink-item-wrap"><a href="Multi-object%20spectroscopy%20MOS.html" class="backlink-item">Multi-object spectroscopy MOS</a></li>
-    <li class="backlink-item-wrap"><a href="N-slit%20interference%20and%20gratings.html" class="backlink-item">N-slit interference and gratings</a></li>
-    <li class="backlink-item-wrap"><a href="Rotational%20broadening.html" class="backlink-item">Rotational broadening</a></li>
-    <li class="backlink-item-wrap"><a href="Spectrograph%20design.html" class="backlink-item">Spectrograph design</a></li>
-    <li class="backlink-item-wrap"><a href="Spectrograph%20types.html" class="backlink-item">Spectrograph types</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20v%20sin%20i%20from%20line%20shape.html" class="backlink-item">Stellar v sin i from line shape</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20velocity%20from%20Doppler%20shift.html" class="backlink-item">Stellar velocity from Doppler shift</a></li>
-    <li class="backlink-item-wrap"><a href="Wavelength%20calibration.html" class="backlink-item">Wavelength calibration</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Blazed gratings]]
+- [[Curve of growth abundance analysis]]
+- [[Dispersion and spectral resolution]]
+- [[Grating equation]]
+- [[Multi-object spectroscopy MOS]]
+- [[N-slit interference and gratings]]
+- [[Rotational broadening]]
+- [[Spectrograph design]]
+- [[Spectrograph types]]
+- [[Stellar v sin i from line shape]]
+- [[Stellar velocity from Doppler shift]]
+- [[Wavelength calibration]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 

@@ -48,20 +48,20 @@ Therefore:
 
 ## connections & zettel links
 
-* parent moc: [Cosmology_of_the_Early_Universe_MOC](../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html)
+* parent moc: [[Cosmology_of_the_Early_Universe_MOC]]
 * related zettels:
-  - [Large-field versus small-field inflation models](Large-field%20versus%20small-field%20inflation%20models.html)
-  - [Tensor-to-scalar ratio r and inflation energy scale](Tensor-to-scalar%20ratio%20r%20and%20inflation%20energy%20scale.html)
-  - [Consistency relation of single-field slow-roll inflation](Consistency%20relation%20of%20single-field%20slow-roll%20inflation.html)
-  - [Part2_Inflation_Kinematics_Dynamics_and_Models](../../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part2_Inflation_Kinematics_Dynamics_and_Models.html)
+  - [[Large-field versus small-field inflation models]]
+  - [[Tensor-to-scalar ratio r and inflation energy scale]]
+  - [[Consistency relation of single-field slow-roll inflation]]
+  - [[Part2_Inflation_Kinematics_Dynamics_and_Models]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Large-field%20versus%20small-field%20inflation%20models.html" class="backlink-item">Large-field versus small-field inflation models</a></li>
-    <li class="backlink-item-wrap"><a href="Number%20of%20e-folds%20and%20horizon%20exit.html" class="backlink-item">Number of e-folds and horizon exit</a></li>
-    <li class="backlink-item-wrap"><a href="Tensor-to-scalar%20ratio%20r%20and%20inflation%20energy%20scale.html" class="backlink-item">Tensor-to-scalar ratio r and inflation energy scale</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html" class="backlink-item">Cosmology_of_the_Early_Universe_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Large-field versus small-field inflation models]]
+- [[Number of e-folds and horizon exit]]
+- [[Tensor-to-scalar ratio r and inflation energy scale]]
+- [[Cosmology_of_the_Early_Universe_MOC]]
+
 

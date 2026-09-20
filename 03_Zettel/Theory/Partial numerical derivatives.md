@@ -114,17 +114,17 @@ for moderate $n$, AD is usually a 10× speedup over finite differences and machi
 
 ## see also
 
-- [Forward backward and central differences](Forward%20backward%20and%20central%20differences.html)
-- [Second derivatives](Second%20derivatives.html)
-- [Newton-Raphson for systems of equations](Newton-Raphson%20for%20systems%20of%20equations.html)
-- [Roundoff vs truncation balance](Roundoff%20vs%20truncation%20balance.html)
-- [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
+- [[Forward backward and central differences]]
+- [[Second derivatives]]
+- [[Newton-Raphson for systems of equations]]
+- [[Roundoff vs truncation balance]]
+- [[Mathematical_Numerical_Methods_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Forward%20backward%20and%20central%20differences.html" class="backlink-item">Forward backward and central differences</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Forward backward and central differences]]
+- [[Mathematical_Numerical_Methods_MOC]]
+
 

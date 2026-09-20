@@ -30,18 +30,18 @@ $$\frac{I(\mu)}{I(1)} = 1 - v_1 (1 - \mu) - v_2 (1 - \sqrt{\mu})$$
 $$\frac{I(\mu)}{I(1)} = 1 - \sum_{k=1}^4 c_k (1 - \mu^{k/2})$$
 
 ## Related Notes
-- [Limb Darkening Computation with ldtk](../Computational/Limb%20Darkening%20Computation%20with%20ldtk.html)
-- [Malavolta 11 - Transit Geometry and Analytical Light Curve Modeling](../../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2011%20-%20Transit%20Geometry%20and%20Analytical%20Light%20Curve%20Modeling.html)
+- [[Limb Darkening Computation with ldtk]]
+- [[Malavolta 11 - Transit Geometry and Analytical Light Curve Modeling]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Computational/Limb%20Darkening%20Computation%20with%20ldtk.html" class="backlink-item">Limb Darkening Computation with ldtk</a></li>
-    <li class="backlink-item-wrap"><a href="../Computational/Transit%20Modeling%20with%20batman.html" class="backlink-item">Transit Modeling with batman</a></li>
-    <li class="backlink-item-wrap"><a href="Exoplanet%20Transit%20Geometry%20and%20Impact%20Parameter.html" class="backlink-item">Exoplanet Transit Geometry and Impact Parameter</a></li>
-    <li class="backlink-item-wrap"><a href="Mandel-Agol%20analytical%20transit%20light%20curve%20model.html" class="backlink-item">Mandel-Agol analytical transit light curve model</a></li>
-    <li class="backlink-item-wrap"><a href="Transit%20Depth%20and%20Ingress-Egress%20Timescales.html" class="backlink-item">Transit Depth and Ingress-Egress Timescales</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Limb Darkening Computation with ldtk]]
+- [[Transit Modeling with batman]]
+- [[Exoplanet Transit Geometry and Impact Parameter]]
+- [[Mandel-Agol analytical transit light curve model]]
+- [[Transit Depth and Ingress-Egress Timescales]]
+- [[Astrophysics_Laboratory_2_MOC]]
+
 

@@ -102,38 +102,28 @@ source: first figure is a local synthetic demo; second figure is from S. T. Myer
 
 ## see also
 
-- [Aperture synthesis principle](Aperture%20synthesis%20principle.html)
-- [Earth-rotation aperture synthesis](Earth-rotation%20aperture%20synthesis.html)
-- [Optimal array geometry](Optimal%20array%20geometry.html)
-- [Dirty beam and dirty image](Dirty%20beam%20and%20dirty%20image.html)
-- [Van Cittert-Zernike theorem](Van%20Cittert-Zernike%20theorem.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Aperture synthesis principle]]
+- [[Earth-rotation aperture synthesis]]
+- [[Optimal array geometry]]
+- [[Dirty beam and dirty image]]
+- [[Van Cittert-Zernike theorem]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (22)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Abbe%20experiment%20and%20Fourier%20optics.html" class="backlink-item">Abbe experiment and Fourier optics</a></li>
-    <li class="backlink-item-wrap"><a href="../Aperture%20synthesis%20principle.html" class="backlink-item">Aperture synthesis principle</a></li>
-    <li class="backlink-item-wrap"><a href="../Crowding%20limitation.html" class="backlink-item">Crowding limitation</a></li>
-    <li class="backlink-item-wrap"><a href="../Dirty%20beam%20and%20dirty%20image.html" class="backlink-item">Dirty beam and dirty image</a></li>
-    <li class="backlink-item-wrap"><a href="../Earth%20rotation%20synthesis%20in%20radio.html" class="backlink-item">Earth rotation synthesis in radio</a></li>
-    <li class="backlink-item-wrap"><a href="../Earth-rotation%20aperture%20synthesis.html" class="backlink-item">Earth-rotation aperture synthesis</a></li>
-    <li class="backlink-item-wrap"><a href="../Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="../Optimal%20array%20geometry.html" class="backlink-item">Optimal array geometry</a></li>
-    <li class="backlink-item-wrap"><a href="../Van%20Cittert-Zernike%20theorem.html" class="backlink-item">Van Cittert-Zernike theorem</a></li>
-    <li class="backlink-item-wrap"><a href="../Young%20experiment%20as%20a%20stellar%20interferometer.html" class="backlink-item">Young experiment as a stellar interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="Abbe%20experiment%20and%20Fourier%20optics.html" class="backlink-item">Abbe experiment and Fourier optics</a></li>
-    <li class="backlink-item-wrap"><a href="Aperture%20synthesis%20principle.html" class="backlink-item">Aperture synthesis principle</a></li>
-    <li class="backlink-item-wrap"><a href="Crowding%20limitation.html" class="backlink-item">Crowding limitation</a></li>
-    <li class="backlink-item-wrap"><a href="Dirty%20beam%20and%20dirty%20image.html" class="backlink-item">Dirty beam and dirty image</a></li>
-    <li class="backlink-item-wrap"><a href="Earth%20rotation%20synthesis%20in%20radio.html" class="backlink-item">Earth rotation synthesis in radio</a></li>
-    <li class="backlink-item-wrap"><a href="Earth-rotation%20aperture%20synthesis.html" class="backlink-item">Earth-rotation aperture synthesis</a></li>
-    <li class="backlink-item-wrap"><a href="Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="Optical%20transfer%20function.html" class="backlink-item">Optical transfer function</a></li>
-    <li class="backlink-item-wrap"><a href="Optimal%20array%20geometry.html" class="backlink-item">Optimal array geometry</a></li>
-    <li class="backlink-item-wrap"><a href="Van%20Cittert-Zernike%20theorem.html" class="backlink-item">Van Cittert-Zernike theorem</a></li>
-    <li class="backlink-item-wrap"><a href="Young%20experiment%20as%20a%20stellar%20interferometer.html" class="backlink-item">Young experiment as a stellar interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Abbe experiment and Fourier optics]]
+- [[Aperture synthesis principle]]
+- [[Crowding limitation]]
+- [[Dirty beam and dirty image]]
+- [[Earth rotation synthesis in radio]]
+- [[Earth-rotation aperture synthesis]]
+- [[Figure bank - interferometry]]
+- [[Optimal array geometry]]
+- [[Van Cittert-Zernike theorem]]
+- [[Young experiment as a stellar interferometer]]
+- [[Optical transfer function]]
+- [[Astronomical_Interferometry_MOC]]
+
 

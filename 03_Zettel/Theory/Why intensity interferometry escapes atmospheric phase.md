@@ -105,8 +105,8 @@ niche secured: bright nearby stars, surface features, hot spots, cool spots.
 
 ## see also
 
-- [Intensity interferometry concept](interf/Intensity%20interferometry%20concept.html)
-- [Hanbury Brown Twiss effect](interf/Hanbury%20Brown%20Twiss%20effect.html)
-- [Narrabri stellar interferometer](interf/Narrabri%20stellar%20interferometer.html)
-- [Sensitivity and modern revival](interf/Sensitivity%20and%20modern%20revival.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Intensity interferometry concept]]
+- [[Hanbury Brown Twiss effect]]
+- [[Narrabri stellar interferometer]]
+- [[Sensitivity and modern revival]]
+- [[Astronomical_Interferometry_MOC]]

@@ -34,16 +34,16 @@ this formulation powers state-of-the-art Eulerian and Lagrangian plasma turbulen
 
 ## see also
 
-- [Fluid_and_Plasma_Dynamics_MOC](../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html)
-- [Part5_Plasma_Kinetics_Gyrokinetics_and_Waves](../../02_Literature/Lectures/Fluid_and_Plasma_Dynamics/Part5_Plasma_Kinetics_Gyrokinetics_and_Waves.html)
-- [Collisionless Landau damping and wave-particle resonance](Collisionless%20Landau%20damping%20and%20wave-particle%20resonance.html)
-- [Resistive ballooning mode and ion temperature gradient instability](Resistive%20ballooning%20mode%20and%20ion%20temperature%20gradient%20instability.html)
+- [[Fluid_and_Plasma_Dynamics_MOC]]
+- [[Part5_Plasma_Kinetics_Gyrokinetics_and_Waves]]
+- [[Collisionless Landau damping and wave-particle resonance]]
+- [[Resistive ballooning mode and ion temperature gradient instability]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Collisionless%20Landau%20damping%20and%20wave-particle%20resonance.html" class="backlink-item">Collisionless Landau damping and wave-particle resonance</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Collisionless Landau damping and wave-particle resonance]]
+- [[Fluid_and_Plasma_Dynamics_MOC]]
+
 

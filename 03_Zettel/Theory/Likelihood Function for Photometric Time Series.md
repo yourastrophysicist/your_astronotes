@@ -21,18 +21,18 @@ $$\ln \mathcal{L}(\boldsymbol{\theta}) = -\frac{1}{2} \chi^2(\boldsymbol{\theta}
 Maximizing the log-likelihood is identical to least-squares $\chi^2$ minimization. When jitter parameters are sampled dynamically, the logarithmic penalty term prevents the sampler from arbitrarily inflating error bars.
 
 ## Related Notes
-- [Bayesian Inference and Bayes Theorem in Astronomy](Bayesian%20Inference%20and%20Bayes%20Theorem%20in%20Astronomy.html)
-- [Prior Probability Distributions in Exoplanet Fitting](Prior%20Probability%20Distributions%20in%20Exoplanet%20Fitting.html)
-- [Malavolta 12 - Transit Parameter Estimation and Likelihood Optimization](../../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2012%20-%20Transit%20Parameter%20Estimation%20and%20Likelihood%20Optimization.html)
+- [[Bayesian Inference and Bayes Theorem in Astronomy]]
+- [[Prior Probability Distributions in Exoplanet Fitting]]
+- [[Malavolta 12 - Transit Parameter Estimation and Likelihood Optimization]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Activities/Laboratory%20Exercise%20-%20Joint%20Transit%20Modeling%20and%20MCMC%20Analysis.html" class="backlink-item">Laboratory Exercise - Joint Transit Modeling and MCMC Analysis</a></li>
-    <li class="backlink-item-wrap"><a href="../Computational/Gaussian%20Process%20Regression%20in%20Light%20Curve%20Detrending.html" class="backlink-item">Gaussian Process Regression in Light Curve Detrending</a></li>
-    <li class="backlink-item-wrap"><a href="Bayesian%20Inference%20and%20Bayes%20Theorem%20in%20Astronomy.html" class="backlink-item">Bayesian Inference and Bayes Theorem in Astronomy</a></li>
-    <li class="backlink-item-wrap"><a href="Prior%20Probability%20Distributions%20in%20Exoplanet%20Fitting.html" class="backlink-item">Prior Probability Distributions in Exoplanet Fitting</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Laboratory Exercise - Joint Transit Modeling and MCMC Analysis]]
+- [[Gaussian Process Regression in Light Curve Detrending]]
+- [[Bayesian Inference and Bayes Theorem in Astronomy]]
+- [[Prior Probability Distributions in Exoplanet Fitting]]
+- [[Astrophysics_Laboratory_2_MOC]]
+
 

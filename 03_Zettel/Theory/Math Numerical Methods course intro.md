@@ -21,7 +21,7 @@ it is also the course that makes my computer feel like an instrument, not a blac
 
 ## the exam
 
-four-exercise written exam in python. I sit at a computer for ~3 hours, download a dataset and an exercise sheet, write four scripts, upload them to a google drive at the end. see [Math Numerical Methods exam rules](Math%20Numerical%20Methods%20exam%20rules.html) for the format and the rubric.
+four-exercise written exam in python. I sit at a computer for ~3 hours, download a dataset and an exercise sheet, write four scripts, upload them to a google drive at the end. see [[Math Numerical Methods exam rules]] for the format and the rubric.
 
 date for me: **24 June 2026**, exam #3 in the provided summer sequence (Fundamentals 17 Jun, GR 22 Jun, **Math+Num 24 Jun**, Obs Astro 1 Jul).
 
@@ -36,7 +36,7 @@ a numerical method usually calls another numerical method underneath. recognisin
 - **Monte Carlo integration** calls a **random number generator** and the **inverse transform**
 - a **shooting method** for a BVP calls **Newton-Raphson** wrapped around an **IVP**
 
-so the syllabus is a dependency graph. the order in [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html) follows this graph from the leaves up.
+so the syllabus is a dependency graph. the order in [[Mathematical_Numerical_Methods_MOC]] follows this graph from the leaves up.
 
 ## reference texts
 
@@ -49,17 +49,17 @@ so the syllabus is a dependency graph. the order in [Mathematical_Numerical_Meth
 
 ## see also
 
-- [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html) — the map
-- [Math Numerical Methods exam rules](Math%20Numerical%20Methods%20exam%20rules.html) — exam format
-- [Numerical problem solving workflow](Numerical%20problem%20solving%20workflow.html) — the meta-recipe
+- [[Mathematical_Numerical_Methods_MOC]] — the map
+- [[Math Numerical Methods exam rules]] — exam format
+- [[Numerical problem solving workflow]] — the meta-recipe
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Math%20Numerical%20Methods%20equation%20sheet.html" class="backlink-item">Math Numerical Methods equation sheet</a></li>
-    <li class="backlink-item-wrap"><a href="Math%20Numerical%20Methods%20exam%20rules.html" class="backlink-item">Math Numerical Methods exam rules</a></li>
-    <li class="backlink-item-wrap"><a href="Numerical%20problem%20solving%20workflow.html" class="backlink-item">Numerical problem solving workflow</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Math Numerical Methods equation sheet]]
+- [[Math Numerical Methods exam rules]]
+- [[Numerical problem solving workflow]]
+- [[Mathematical_Numerical_Methods_MOC]]
+
 

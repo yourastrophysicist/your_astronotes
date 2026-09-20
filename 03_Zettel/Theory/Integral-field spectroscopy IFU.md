@@ -4,7 +4,7 @@ title: "Integral-field spectroscopy IFU"
 ---
 # Integral-Field Spectroscopy (IFS / IFU)
 
-Parent [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html) · [Astronomical_Spectroscopy_MOC](../../04_Atlas/Astronomical_Spectroscopy_MOC.html) · [Stellar kinematics measurements](Stellar%20kinematics%20measurements.html)
+Parent [[Astrophysics_of_Galaxies_MOC]] · [[Astronomical_Spectroscopy_MOC]] · [[Stellar kinematics measurements]]
 
 ## 1. Astrophysical Significance & Physical Motivation
 
@@ -171,25 +171,25 @@ Because IFS covers both stellar absorption lines (e.g., $\mathrm{Ca}\,\mathrm{H\
 
 ## 8. See Also
 
-- [LOSVD](LOSVD.html)
-- [Stellar kinematics measurements](Stellar%20kinematics%20measurements.html)
-- [MaNGA survey](MaNGA%20survey.html)
-- [MUSE datacubes](MUSE%20datacubes.html)
-- [Spectrograph types](Spectrograph%20types.html)
-- [Velocity dispersion from line width](Velocity%20dispersion%20from%20line%20width.html)
-- [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html)
+- [[LOSVD]]
+- [[Stellar kinematics measurements]]
+- [[MaNGA survey]]
+- [[MUSE datacubes]]
+- [[Spectrograph types]]
+- [[Velocity dispersion from line width]]
+- [[Astrophysics_of_Galaxies_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (8)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="LOSVD.html" class="backlink-item">LOSVD</a></li>
-    <li class="backlink-item-wrap"><a href="MaNGA%20survey.html" class="backlink-item">MaNGA survey</a></li>
-    <li class="backlink-item-wrap"><a href="Multi-object%20spectroscopy%20MOS.html" class="backlink-item">Multi-object spectroscopy MOS</a></li>
-    <li class="backlink-item-wrap"><a href="Spectrograph%20design.html" class="backlink-item">Spectrograph design</a></li>
-    <li class="backlink-item-wrap"><a href="Spectrograph%20types.html" class="backlink-item">Spectrograph types</a></li>
-    <li class="backlink-item-wrap"><a href="Velocity%20dispersion%20from%20line%20width.html" class="backlink-item">Velocity dispersion from line width</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[LOSVD]]
+- [[MaNGA survey]]
+- [[Multi-object spectroscopy MOS]]
+- [[Spectrograph design]]
+- [[Spectrograph types]]
+- [[Velocity dispersion from line width]]
+- [[Astronomical_Spectroscopy_MOC]]
+- [[Astrophysics_of_Galaxies_MOC]]
+
 

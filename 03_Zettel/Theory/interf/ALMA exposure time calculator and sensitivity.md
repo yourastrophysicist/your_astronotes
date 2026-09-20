@@ -83,17 +83,16 @@ source: local plot generated from the radiometer-equation scaling.
 
 ## see also
 
-- [Radiometer equation and SEFD](Radiometer%20equation%20and%20SEFD.html)
-- [Antenna effective area and gain](Antenna%20effective%20area%20and%20gain.html)
-- [Radio interferometer architecture](Radio%20interferometer%20architecture.html)
-- [Steps in radio interferometric observations](Steps%20in%20radio%20interferometric%20observations.html)
+- [[Radiometer equation and SEFD]]
+- [[Antenna effective area and gain]]
+- [[Radio interferometer architecture]]
+- [[Steps in radio interferometric observations]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Radiometer%20equation%20and%20SEFD.html" class="backlink-item">Radiometer equation and SEFD</a></li>
-    <li class="backlink-item-wrap"><a href="Radiometer%20equation%20and%20SEFD.html" class="backlink-item">Radiometer equation and SEFD</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Radiometer equation and SEFD]]
+- [[Astronomical_Interferometry_MOC]]
+
 

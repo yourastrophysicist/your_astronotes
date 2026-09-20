@@ -36,5 +36,5 @@ This problem forces different wavelength regimes into different solutions. In ra
 
 ## connections & zettel links
 
-* parent moc: [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-* related zettels: [Phase closure](interf/Phase%20closure.html), [Self-calibration](interf/Self-calibration.html), [Atmospheric turbulence overview](interf/Atmospheric%20turbulence%20overview.html), [Fried parameter $r_0$](interf/Fried%20parameter%20%24r_0%24.html)
+* parent moc: [[Astronomical_Interferometry_MOC]]
+* related zettels: [[Phase closure]], [[Self-calibration]], [[Atmospheric turbulence overview]], [[Fried parameter $r_0$]]

@@ -66,7 +66,7 @@ def rejection_sample_vec(P, P_max, a, b, N_target):
 
 ## when to use rejection
 
-- **$P$ is not analytically invertible** (so [Inverse transform sampling](Inverse%20transform%20sampling.html) fails)
+- **$P$ is not analytically invertible** (so [[Inverse transform sampling]] fails)
 - **$P$ is bounded** and I have a reasonable upper bound
 - **2D or higher**: rejection extends naturally to multiple dimensions, where inverse sampling does not
 - **physical setup is naturally 2D**: like the bounding-box-under-the-curve picture
@@ -114,21 +114,21 @@ plt.plot(xx, P(xx) / Z, 'r-')      # Z = trapezoid integral of P
 
 ## see also
 
-- [Inverse transform sampling](Inverse%20transform%20sampling.html)
-- [Box-Muller transform for Gaussian random numbers](Box-Muller%20transform%20for%20Gaussian%20random%20numbers.html)
-- [Importance sampling](Importance%20sampling.html)
-- [Pseudo-random number generators](Pseudo-random%20number%20generators.html)
-- [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
+- [[Inverse transform sampling]]
+- [[Box-Muller transform for Gaussian random numbers]]
+- [[Importance sampling]]
+- [[Pseudo-random number generators]]
+- [[Mathematical_Numerical_Methods_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Box-Muller%20transform%20for%20Gaussian%20random%20numbers.html" class="backlink-item">Box-Muller transform for Gaussian random numbers</a></li>
-    <li class="backlink-item-wrap"><a href="Importance%20sampling.html" class="backlink-item">Importance sampling</a></li>
-    <li class="backlink-item-wrap"><a href="Inverse%20transform%20sampling.html" class="backlink-item">Inverse transform sampling</a></li>
-    <li class="backlink-item-wrap"><a href="Pseudo-random%20number%20generators.html" class="backlink-item">Pseudo-random number generators</a></li>
-    <li class="backlink-item-wrap"><a href="Verifying%20random%20samples.html" class="backlink-item">Verifying random samples</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Box-Muller transform for Gaussian random numbers]]
+- [[Importance sampling]]
+- [[Inverse transform sampling]]
+- [[Pseudo-random number generators]]
+- [[Verifying random samples]]
+- [[Mathematical_Numerical_Methods_MOC]]
+
 

@@ -182,13 +182,13 @@ When sketching the Schmidt-Kennicutt law on the blackboard.
 
 ## 8. See Also
 
-- [Madau plot](Madau%20plot.html)
-- [Molecular clouds](Molecular%20clouds.html)
-- [Tully-Fisher relation](Tully-Fisher%20relation.html)
-- [Dark matter rotation curves](Dark%20matter%20rotation%20curves.html)
-- [Galaxy main sequence of star formation](Galaxy%20main%20sequence%20of%20star%20formation.html)
-- [Fundamental plane of ellipticals](Fundamental%20plane%20of%20ellipticals.html)
-- [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html)
+- [[Madau plot]]
+- [[Molecular clouds]]
+- [[Tully-Fisher relation]]
+- [[Dark matter rotation curves]]
+- [[Galaxy main sequence of star formation]]
+- [[Fundamental plane of ellipticals]]
+- [[Astrophysics_of_Galaxies_MOC]]
 
 ---
 
@@ -231,22 +231,22 @@ When sketching the Schmidt-Kennicutt law on the blackboard.
 
 ![gal_ism-12.png](../../assets/images/gal_ism-12.png)
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (13)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Dark%20matter%20rotation%20curves.html" class="backlink-item">Dark matter rotation curves</a></li>
-    <li class="backlink-item-wrap"><a href="Galaxy%20main%20sequence%20of%20star%20formation.html" class="backlink-item">Galaxy main sequence of star formation</a></li>
-    <li class="backlink-item-wrap"><a href="Galaxy%20morphology%20vs%20physical%20properties.html" class="backlink-item">Galaxy morphology vs physical properties</a></li>
-    <li class="backlink-item-wrap"><a href="Green%20valley%20and%20quenching%20tracks.html" class="backlink-item">Green valley and quenching tracks</a></li>
-    <li class="backlink-item-wrap"><a href="H%20I%20regions.html" class="backlink-item">H I regions</a></li>
-    <li class="backlink-item-wrap"><a href="H%20II%20region%20spectroscopy.html" class="backlink-item">H II region spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="Low%20surface%20brightness%20galaxies.html" class="backlink-item">Low surface brightness galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="Madau%20plot.html" class="backlink-item">Madau plot</a></li>
-    <li class="backlink-item-wrap"><a href="Molecular%20clouds.html" class="backlink-item">Molecular clouds</a></li>
-    <li class="backlink-item-wrap"><a href="Photodissociation%20regions%20PDRs.html" class="backlink-item">Photodissociation regions PDRs</a></li>
-    <li class="backlink-item-wrap"><a href="UV%20luminosity%20function.html" class="backlink-item">UV luminosity function</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Dark matter rotation curves]]
+- [[Galaxy main sequence of star formation]]
+- [[Galaxy morphology vs physical properties]]
+- [[Green valley and quenching tracks]]
+- [[H I regions]]
+- [[H II region spectroscopy]]
+- [[Low surface brightness galaxies]]
+- [[Madau plot]]
+- [[Molecular clouds]]
+- [[Photodissociation regions PDRs]]
+- [[UV luminosity function]]
+- [[Astrophysics_of_Galaxies_MOC]]
+- [[Observational_Cosmology_MOC]]
+
 

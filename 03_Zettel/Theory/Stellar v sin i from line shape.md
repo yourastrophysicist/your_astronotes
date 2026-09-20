@@ -56,7 +56,7 @@ for individual stars with known $i$ (eclipsing binaries, transiting planets via 
 
 ## the macroturbulence-rotation degeneracy
 
-both rotation and **macroturbulence** ([Macroturbulence](Macroturbulence.html)) broaden lines without changing equivalent width. they have **different shapes**:
+both rotation and **macroturbulence** ([[Macroturbulence]]) broaden lines without changing equivalent width. they have **different shapes**:
 - rotation: two-horned profile with sharp edges at $\pm v\sin i$.
 - macroturbulence: smooth Gaussian-like profile.
 
@@ -75,25 +75,25 @@ extreme rotators near critical breakup. used to identify rapidly rotating binari
 
 ## see also
 
-- [Rotational broadening](Rotational%20broadening.html)
-- [Stellar velocity from Doppler shift](Stellar%20velocity%20from%20Doppler%20shift.html)
-- [Macroturbulence](Macroturbulence.html)
-- [Microturbulence](Microturbulence.html)
-- [Velocity dispersion from line width](Velocity%20dispersion%20from%20line%20width.html)
-- [Echelle spectroscopy](Echelle%20spectroscopy.html)
-- [Voigt profile](Voigt%20profile.html)
-- [Emission line stars](Emission%20line%20stars.html)
+- [[Rotational broadening]]
+- [[Stellar velocity from Doppler shift]]
+- [[Macroturbulence]]
+- [[Microturbulence]]
+- [[Velocity dispersion from line width]]
+- [[Echelle spectroscopy]]
+- [[Voigt profile]]
+- [[Emission line stars]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Echelle%20spectroscopy.html" class="backlink-item">Echelle spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="Macroturbulence.html" class="backlink-item">Macroturbulence</a></li>
-    <li class="backlink-item-wrap"><a href="Rotational%20broadening.html" class="backlink-item">Rotational broadening</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20velocity%20from%20Doppler%20shift.html" class="backlink-item">Stellar velocity from Doppler shift</a></li>
-    <li class="backlink-item-wrap"><a href="Thermal%20Doppler%20broadening.html" class="backlink-item">Thermal Doppler broadening</a></li>
-    <li class="backlink-item-wrap"><a href="Velocity%20dispersion%20from%20line%20width.html" class="backlink-item">Velocity dispersion from line width</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Echelle spectroscopy]]
+- [[Macroturbulence]]
+- [[Rotational broadening]]
+- [[Stellar velocity from Doppler shift]]
+- [[Thermal Doppler broadening]]
+- [[Velocity dispersion from line width]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 

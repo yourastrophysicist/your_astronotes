@@ -44,17 +44,17 @@ $$\hat{R} = \sqrt{\frac{\widehat{\text{Var}}(\theta\midD)}{W}} = \sqrt{\frac{N-1
 - A standard convergence threshold in modern cosmological analysis is $\hat{R} < 1.01$ (or at minimum $\hat{R} < 1.05$) across all monitored cosmological and nuisance parameters.
 
 ## See Also
-- [Astro-Statistics_and_Cosmology_MOC](../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html)
-- [05_Monte_Carlo_Metropolis_Hastings_and_MCMC_Convergence_Diagnostics](../../02_Literature/Lectures/Astrostatistics/05_Monte_Carlo_Metropolis_Hastings_and_MCMC_Convergence_Diagnostics.html)
-- [Metropolis-Hastings algorithm and detailed balance](Metropolis-Hastings%20algorithm%20and%20detailed%20balance.html)
-- [Gibbs sampling and conditional state transitions](Gibbs%20sampling%20and%20conditional%20state%20transitions.html)
+- [[Astro-Statistics_and_Cosmology_MOC]]
+- [[05_Monte_Carlo_Metropolis_Hastings_and_MCMC_Convergence_Diagnostics]]
+- [[Metropolis-Hastings algorithm and detailed balance]]
+- [[Gibbs sampling and conditional state transitions]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Gibbs%20sampling%20and%20conditional%20state%20transitions.html" class="backlink-item">Gibbs sampling and conditional state transitions</a></li>
-    <li class="backlink-item-wrap"><a href="Metropolis-Hastings%20algorithm%20and%20detailed%20balance.html" class="backlink-item">Metropolis-Hastings algorithm and detailed balance</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Gibbs sampling and conditional state transitions]]
+- [[Metropolis-Hastings algorithm and detailed balance]]
+- [[Astro-Statistics_and_Cosmology_MOC]]
+
 

@@ -159,13 +159,13 @@ $$M_\bullet = A \left[ \lambda L_\lambda(5100\text{ \AA}) \right]^{0.533} \left[
 
 ## see also
 
-- [AGN spectroscopy](AGN%20spectroscopy.html)
-- [Magorrian relation](Magorrian%20relation.html)
-- [M sigma relation](M%20sigma%20relation.html)
-- [Stellar dynamics SMBH masses](Stellar%20dynamics%20SMBH%20masses.html)
-- [Water maser BH masses](Water%20maser%20BH%20masses.html)
-- [Galactic Center Sgr A and S-stars](interf/Galactic%20Center%20Sgr%20A%20and%20S-stars.html)
-- [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html)
+- [[AGN spectroscopy]]
+- [[Magorrian relation]]
+- [[M sigma relation]]
+- [[Stellar dynamics SMBH masses]]
+- [[Water maser BH masses]]
+- [[Galactic Center Sgr A and S-stars]]
+- [[Astrophysics_of_Galaxies_MOC]]
 
 ---
 
@@ -220,14 +220,14 @@ $$M_\bullet = A \left[ \lambda L_\lambda(5100\text{ \AA}) \right]^{0.533} \left[
 
 ![gal_bh-40.png](../../assets/images/gal_bh-40.png)
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Ionized%20gas%20SMBH%20masses.html" class="backlink-item">Ionized gas SMBH masses</a></li>
-    <li class="backlink-item-wrap"><a href="M%20sigma%20relation.html" class="backlink-item">M sigma relation</a></li>
-    <li class="backlink-item-wrap"><a href="Magorrian%20relation.html" class="backlink-item">Magorrian relation</a></li>
-    <li class="backlink-item-wrap"><a href="Water%20maser%20BH%20masses.html" class="backlink-item">Water maser BH masses</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Ionized gas SMBH masses]]
+- [[M sigma relation]]
+- [[Magorrian relation]]
+- [[Water maser BH masses]]
+- [[Astrophysics_of_Galaxies_MOC]]
+
 

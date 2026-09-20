@@ -38,5 +38,5 @@ Speckle interferometry was the very first technique to break the seeing limit an
 
 ## connections & zettel links
 
-* parent moc: [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-* related zettels: [Speckle interferometry](interf/Speckle%20interferometry.html), [Speckle imaging algorithms](interf/Speckle%20imaging%20algorithms.html), [Bispectrum and triple correlation](interf/Bispectrum%20and%20triple%20correlation.html), [Aperture masking](interf/Aperture%20masking.html)
+* parent moc: [[Astronomical_Interferometry_MOC]]
+* related zettels: [[Speckle interferometry]], [[Speckle imaging algorithms]], [[Bispectrum and triple correlation]], [[Aperture masking]]

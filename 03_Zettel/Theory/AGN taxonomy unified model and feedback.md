@@ -35,11 +35,11 @@ because the energy released by black hole growth ($E_{\text{BH}} = \eta M_{\text
 
 ## see also
 
-- [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
-- [Pablo_04_Nuclear_activity_in_galaxies](../../02_Literature/Lectures/Observational_Cosmology/Pablo_04_Nuclear_activity_in_galaxies.html)
-- [BPT emission line diagnostic diagram](BPT%20emission%20line%20diagnostic%20diagram.html)
-- [AGN and supermassive black holes](interf/AGN%20and%20supermassive%20black%20holes.html)
-- [Stellar mass function](Stellar%20mass%20function.html)
+- [[Observational_Cosmology_MOC]]
+- [[Pablo_04_Nuclear_activity_in_galaxies]]
+- [[BPT emission line diagnostic diagram]]
+- [[AGN and supermassive black holes]]
+- [[Stellar mass function]]
 
 ---
 
@@ -60,12 +60,12 @@ because the energy released by black hole growth ($E_{\text{BH}} = \eta M_{\text
 ![obscos_lec2_p50.png](../../assets/images/obscos_lec2_p50.png)
 *Soltan argument: integrated quasar light energy density accounting for the local supermassive black hole mass density $\rho_\bullet$.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="BPT%20emission%20line%20diagnostic%20diagram.html" class="backlink-item">BPT emission line diagnostic diagram</a></li>
-    <li class="backlink-item-wrap"><a href="Cosmic%20dawn%20and%20high-redshift%20galaxies%20with%20JWST.html" class="backlink-item">Cosmic dawn and high-redshift galaxies with JWST</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[BPT emission line diagnostic diagram]]
+- [[Cosmic dawn and high-redshift galaxies with JWST]]
+- [[Observational_Cosmology_MOC]]
+
 

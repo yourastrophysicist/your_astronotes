@@ -65,16 +65,16 @@ the cosmic star formation rate density peaked at $z \approx 1.9$ ("cosmic noon",
 
 ## see also
 
-- [Observational_Astrophysics_MOC](../../04_Atlas/Observational_Astrophysics_MOC.html)
-- [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
-- [Stellar population synthesis](Stellar%20population%20synthesis.html)
-- [Single stellar population SSP](Single%20stellar%20population%20SSP.html)
-- [SPS code families](SPS%20code%20families.html)
-- [Initial mass function](Initial%20mass%20function.html)
-- [SED fitting basics](SED%20fitting%20basics.html)
-- [SFR tracers from population synthesis](SFR%20tracers%20from%20population%20synthesis.html)
-- [Stellar mass estimation in unresolved populations](Stellar%20mass%20estimation%20in%20unresolved%20populations.html)
-- [Age estimation in unresolved populations](Age%20estimation%20in%20unresolved%20populations.html)
+- [[Observational_Astrophysics_MOC]]
+- [[Stellar_Astrophysics_MOC]]
+- [[Stellar population synthesis]]
+- [[Single stellar population SSP]]
+- [[SPS code families]]
+- [[Initial mass function]]
+- [[SED fitting basics]]
+- [[SFR tracers from population synthesis]]
+- [[Stellar mass estimation in unresolved populations]]
+- [[Age estimation in unresolved populations]]
 
 ---
 
@@ -98,21 +98,21 @@ the cosmic star formation rate density peaked at $z \approx 1.9$ ("cosmic noon",
 ![obs_stars-106.png](../../assets/images/obs_stars-106.png)
 *Summary of stellar population synthesis foundations.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (12)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Age%20estimation%20in%20unresolved%20populations.html" class="backlink-item">Age estimation in unresolved populations</a></li>
-    <li class="backlink-item-wrap"><a href="H-alpha%20SFR%20tracer.html" class="backlink-item">H-alpha SFR tracer</a></li>
-    <li class="backlink-item-wrap"><a href="IR%20SFR%20tracer.html" class="backlink-item">IR SFR tracer</a></li>
-    <li class="backlink-item-wrap"><a href="Photometric%20redshifts.html" class="backlink-item">Photometric redshifts</a></li>
-    <li class="backlink-item-wrap"><a href="SED%20fitting%20basics.html" class="backlink-item">SED fitting basics</a></li>
-    <li class="backlink-item-wrap"><a href="SFR%20tracers%20from%20population%20synthesis.html" class="backlink-item">SFR tracers from population synthesis</a></li>
-    <li class="backlink-item-wrap"><a href="SPS%20code%20families.html" class="backlink-item">SPS code families</a></li>
-    <li class="backlink-item-wrap"><a href="Single%20stellar%20population%20SSP.html" class="backlink-item">Single stellar population SSP</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20mass%20estimation%20in%20unresolved%20populations.html" class="backlink-item">Stellar mass estimation in unresolved populations</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20population%20synthesis.html" class="backlink-item">Stellar population synthesis</a></li>
-    <li class="backlink-item-wrap"><a href="UV%20SFR%20tracer.html" class="backlink-item">UV SFR tracer</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Age estimation in unresolved populations]]
+- [[H-alpha SFR tracer]]
+- [[IR SFR tracer]]
+- [[Photometric redshifts]]
+- [[SED fitting basics]]
+- [[SFR tracers from population synthesis]]
+- [[SPS code families]]
+- [[Single stellar population SSP]]
+- [[Stellar mass estimation in unresolved populations]]
+- [[Stellar population synthesis]]
+- [[UV SFR tracer]]
+- [[Observational_Astrophysics_MOC]]
+
 

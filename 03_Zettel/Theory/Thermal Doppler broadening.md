@@ -51,7 +51,7 @@ Gaussian FWHM = $2\sqrt{\ln 2}\,\Delta\nu_D \approx 1.665\,\Delta\nu_D$.
 in real stellar atmospheres there's also small-scale turbulence (microturbulence) which adds a velocity component:
 $$\Delta\nu_D = \frac{\nu_0}{c}\sqrt{\frac{2k_BT}{m} + v_{\rm turb}^2}$$
 
-so for cool-star metal lines, $v_{\rm turb} \sim 1$ to $5$ km/s exceeds the thermal width and dominates. see [Microturbulence](Microturbulence.html).
+so for cool-star metal lines, $v_{\rm turb} \sim 1$ to $5$ km/s exceeds the thermal width and dominates. see [[Microturbulence]].
 
 ## thermometric use
 
@@ -64,26 +64,26 @@ caveat: must subtract macro/microturbulence and rotational broadening first.
 
 ## see also
 
-- [Line profile function phi nu](Line%20profile%20function%20phi%20nu.html)
-- [Natural broadening Lorentzian](Natural%20broadening%20Lorentzian.html)
-- [Microturbulence](Microturbulence.html)
-- [Macroturbulence](Macroturbulence.html)
-- [Voigt profile](Voigt%20profile.html)
-- [Curve of growth](Curve%20of%20growth.html)
-- [Equivalent width](Equivalent%20width.html)
-- [Stellar v sin i from line shape](Stellar%20v%20sin%20i%20from%20line%20shape.html)
+- [[Line profile function phi nu]]
+- [[Natural broadening Lorentzian]]
+- [[Microturbulence]]
+- [[Macroturbulence]]
+- [[Voigt profile]]
+- [[Curve of growth]]
+- [[Equivalent width]]
+- [[Stellar v sin i from line shape]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (8)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Collisional%20pressure%20broadening.html" class="backlink-item">Collisional pressure broadening</a></li>
-    <li class="backlink-item-wrap"><a href="Curve%20of%20growth.html" class="backlink-item">Curve of growth</a></li>
-    <li class="backlink-item-wrap"><a href="Line%20profile%20function%20phi%20nu.html" class="backlink-item">Line profile function phi nu</a></li>
-    <li class="backlink-item-wrap"><a href="Macroturbulence.html" class="backlink-item">Macroturbulence</a></li>
-    <li class="backlink-item-wrap"><a href="Microturbulence.html" class="backlink-item">Microturbulence</a></li>
-    <li class="backlink-item-wrap"><a href="Natural%20broadening%20Lorentzian.html" class="backlink-item">Natural broadening Lorentzian</a></li>
-    <li class="backlink-item-wrap"><a href="Voigt%20profile.html" class="backlink-item">Voigt profile</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Collisional pressure broadening]]
+- [[Curve of growth]]
+- [[Line profile function phi nu]]
+- [[Macroturbulence]]
+- [[Microturbulence]]
+- [[Natural broadening Lorentzian]]
+- [[Voigt profile]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 

@@ -25,7 +25,7 @@ main libraries:
 
 ## airmass correction
 
-extinction depends on airmass $X$ (see [Atmospheric extinction](interf/Atmospheric%20extinction.html)). standard star and target are often at different airmasses, so:
+extinction depends on airmass $X$ (see [[Atmospheric extinction]]). standard star and target are often at different airmasses, so:
 1. observe the standard at multiple airmasses to determine $k(\lambda)$ on the night.
 2. or use a tabulated mean extinction curve for the site.
 3. apply Beer-Lambert correction: $F_0(\lambda) = F_{\rm obs}(\lambda) \cdot 10^{0.4 k(\lambda) X}$.
@@ -55,10 +55,10 @@ absolute calibration is essential for:
 
 ## see also
 
-- [Spectrograph design](Spectrograph%20design.html)
-- [Spectrum reduction pipeline](Spectrum%20reduction%20pipeline.html)
-- [Wavelength calibration](Wavelength%20calibration.html)
-- [Atmospheric extinction](interf/Atmospheric%20extinction.html)
-- [Photometric standard stars](Photometric%20standard%20stars.html)
-- [Magnitudes and photometric systems](Magnitudes%20and%20photometric%20systems.html)
-- [Spectral Energy Distribution (SED)](Spectral%20Energy%20Distribution%20%28SED%29.html)
+- [[Spectrograph design]]
+- [[Spectrum reduction pipeline]]
+- [[Wavelength calibration]]
+- [[Atmospheric extinction]]
+- [[Photometric standard stars]]
+- [[Magnitudes and photometric systems]]
+- [[Spectral Energy Distribution (SED)]]

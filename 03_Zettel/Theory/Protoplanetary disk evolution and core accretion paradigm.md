@@ -27,17 +27,17 @@ Perri & Cameron (1974), Mizuno (1980), Pollack et al. (1996):
 
 ## see also
 
-- [Exoplanetary_Astrophysics_MOC](../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)
-- [21_Protoplanetary_Disks_and_Planet_Formation_Mechanisms](../../02_Literature/Lectures/Exoplanetary_Astrophysics/21_Protoplanetary_Disks_and_Planet_Formation_Mechanisms.html)
-- [Pebble accretion and planetary orbital migration](Pebble%20accretion%20and%20planetary%20orbital%20migration.html)
-- [Exoplanet demographic distributions and survey completeness](Exoplanet%20demographic%20distributions%20and%20survey%20completeness.html)
+- [[Exoplanetary_Astrophysics_MOC]]
+- [[21_Protoplanetary_Disks_and_Planet_Formation_Mechanisms]]
+- [[Pebble accretion and planetary orbital migration]]
+- [[Exoplanet demographic distributions and survey completeness]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Exoplanet%20demographic%20distributions%20and%20survey%20completeness.html" class="backlink-item">Exoplanet demographic distributions and survey completeness</a></li>
-    <li class="backlink-item-wrap"><a href="Pebble%20accretion%20and%20planetary%20orbital%20migration.html" class="backlink-item">Pebble accretion and planetary orbital migration</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Exoplanet demographic distributions and survey completeness]]
+- [[Pebble accretion and planetary orbital migration]]
+- [[Exoplanetary_Astrophysics_MOC]]
+
 

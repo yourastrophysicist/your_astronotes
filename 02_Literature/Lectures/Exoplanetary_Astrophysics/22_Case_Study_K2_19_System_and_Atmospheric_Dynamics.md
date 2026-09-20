@@ -5,7 +5,7 @@ title: "22_Case_Study_K2_19_System_and_Atmospheric_Dynamics"
 # Lesson 22 – Case Study: The Resonant K2-19 System and Dynamics
 
 *Exoplanetary Astrophysics, Seminar by A.M. Rossi (Based on Almenara et al. 2025)*  
-*Index: [Exoplanetary_Astrophysics_MOC](../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)*
+*Index: [[Exoplanetary_Astrophysics_MOC]]*
 
 ---
 
@@ -129,15 +129,15 @@ The persistence of moderate eccentricities ($e \approx 0.20$) in the resonant K2
 ---
 
 ## Cross-Links & Vault Navigation
-- Master Map of Content: [Exoplanetary_Astrophysics_MOC](../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)
-- Previous Lecture: [21_Protoplanetary_Disks_and_Planet_Formation_Mechanisms](./21_Protoplanetary_Disks_and_Planet_Formation_Mechanisms.html)
-- Related Notes: [Transit Modeling with batman](../../../03_Zettel/Computational/Transit%20Modeling%20with%20batman.html) | Joint Transit Modeling and MCMC Analysis
+- Master Map of Content: [[Exoplanetary_Astrophysics_MOC]]
+- Previous Lecture: [[21_Protoplanetary_Disks_and_Planet_Formation_Mechanisms]]
+- Related Notes: [[Transit Modeling with batman]] | Joint Transit Modeling and MCMC Analysis
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Transit%20timing%20variations%20and%20resonant%20multi-planet%20dynamics.html" class="backlink-item">Transit timing variations and resonant multi-planet dynamics</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Transit timing variations and resonant multi-planet dynamics]]
+- [[Exoplanetary_Astrophysics_MOC]]
+
 

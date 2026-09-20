@@ -61,7 +61,7 @@ as $T$ decreases past 1 MeV, $\Gamma_w/H$ falls below 1. the weak processes can 
 
 $$\left(\frac{n}{p}\right)_{\rm freeze-out} = e^{-Q/T_F} = e^{-1.293/0.8} \approx \frac{1}{6}$$
 
-this is one of the most important examples in cosmology of a process that goes out of equilibrium. it is exactly why we spend so much time on the conditions for departure from equilibrium ([Decoupling and freeze-out](Decoupling%20and%20freeze-out.html)).
+this is one of the most important examples in cosmology of a process that goes out of equilibrium. it is exactly why we spend so much time on the conditions for departure from equilibrium ([[Decoupling and freeze-out]]).
 
 ![bbn-24.png](../../assets/images/bbn-24.png)
 
@@ -106,30 +106,30 @@ increasing the **neutron half-life** $\tau_{1/2}(n)$ would decrease all weak rat
 
 increasing $g_*$ (e.g. extra neutrino species, primordial gravitational waves) would increase $H \propto g_*^{1/2} T^2$, leading to earlier freeze-out, hence more $^4$He.
 
-→ this is how BBN constrains physics beyond the standard model. see [BBN_predictions](BBN_predictions.html).
+→ this is how BBN constrains physics beyond the standard model. see [[BBN_predictions]].
 
 ---
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [BBN_overview](BBN_overview.html)
-- [BBN_NSE_initial_conditions](BBN_NSE_initial_conditions.html)
-- [BBN_baryon_to_photon_ratio](BBN_baryon_to_photon_ratio.html)
-- [BBN_three_steps](BBN_three_steps.html)
-- [BBN_predictions](BBN_predictions.html)
-- [Decoupling and freeze-out](Decoupling%20and%20freeze-out.html)
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[BBN_overview]]
+- [[BBN_NSE_initial_conditions]]
+- [[BBN_baryon_to_photon_ratio]]
+- [[BBN_three_steps]]
+- [[BBN_predictions]]
+- [[Decoupling and freeze-out]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="BBN_NSE_initial_conditions.html" class="backlink-item">BBN_NSE_initial_conditions</a></li>
-    <li class="backlink-item-wrap"><a href="BBN_baryon_to_photon_ratio.html" class="backlink-item">BBN_baryon_to_photon_ratio</a></li>
-    <li class="backlink-item-wrap"><a href="BBN_three_steps.html" class="backlink-item">BBN_three_steps</a></li>
-    <li class="backlink-item-wrap"><a href="Big%20Bang%20nucleosynthesis.html" class="backlink-item">Big Bang nucleosynthesis</a></li>
-    <li class="backlink-item-wrap"><a href="Decoupling%20and%20freeze-out.html" class="backlink-item">Decoupling and freeze-out</a></li>
-    <li class="backlink-item-wrap"><a href="Pop%20III%20remnants%20in%20UFDGs.html" class="backlink-item">Pop III remnants in UFDGs</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[BBN_NSE_initial_conditions]]
+- [[BBN_baryon_to_photon_ratio]]
+- [[BBN_three_steps]]
+- [[Big Bang nucleosynthesis]]
+- [[Decoupling and freeze-out]]
+- [[Pop III remnants in UFDGs]]
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+
 

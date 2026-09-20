@@ -26,16 +26,16 @@ activity signals can be distinguished from planetary signals because they alter 
 
 ## see also
 
-- [Exoplanetary_Astrophysics_MOC](../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)
-- [14_Stellar_Activity_and_Radial_Velocity_Jitter](../../02_Literature/Lectures/Exoplanetary_Astrophysics/14_Stellar_Activity_and_Radial_Velocity_Jitter.html)
-- [Keplerian radial velocity and Doppler semi-amplitude](Keplerian%20radial%20velocity%20and%20Doppler%20semi-amplitude.html)
-- [Gaussian Process Regression in Light Curve Detrending](../Computational/Gaussian%20Process%20Regression%20in%20Light%20Curve%20Detrending.html)
+- [[Exoplanetary_Astrophysics_MOC]]
+- [[14_Stellar_Activity_and_Radial_Velocity_Jitter]]
+- [[Keplerian radial velocity and Doppler semi-amplitude]]
+- [[Gaussian Process Regression in Light Curve Detrending]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Keplerian%20radial%20velocity%20and%20Doppler%20semi-amplitude.html" class="backlink-item">Keplerian radial velocity and Doppler semi-amplitude</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Keplerian radial velocity and Doppler semi-amplitude]]
+- [[Exoplanetary_Astrophysics_MOC]]
+
 

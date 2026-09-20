@@ -4,7 +4,7 @@ title: "Closure amplitude"
 ---
 # Closure amplitude
 
-the amplitude analog of [phase closure](interf/Phase%20closure.html). for **four** stations, a particular ratio of visibility amplitudes is **gain-independent**: it depends only on the source. closure amplitudes complement closure phases for the four-or-more-station case, providing additional gain-immune observables.
+the amplitude analog of [[Phase closure|phase closure]]. for **four** stations, a particular ratio of visibility amplitudes is **gain-independent**: it depends only on the source. closure amplitudes complement closure phases for the four-or-more-station case, providing additional gain-immune observables.
 
 ## the formula
 
@@ -87,8 +87,8 @@ these are the "robust observables" that survive arbitrary station-based calibrat
 
 ## see also
 
-- [Phase closure](interf/Phase%20closure.html)
-- [The phase problem in interferometry](interf/The%20phase%20problem%20in%20interferometry.html)
-- [Self-calibration](interf/Self-calibration.html)
-- [Bispectrum and triple correlation](interf/Bispectrum%20and%20triple%20correlation.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Phase closure]]
+- [[The phase problem in interferometry]]
+- [[Self-calibration]]
+- [[Bispectrum and triple correlation]]
+- [[Astronomical_Interferometry_MOC]]

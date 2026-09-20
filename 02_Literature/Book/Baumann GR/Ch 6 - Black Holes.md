@@ -4,7 +4,7 @@ title: "Ch 6 - Black Holes"
 ---
 # Baumann Ch 6, Black Holes
 
-up: [Baumann GR](./Baumann%20GR.html) · [General_Relativity_MOC](../../../04_Atlas/General_Relativity_MOC.html)
+up: [[Baumann GR]] · [[General_Relativity_MOC]]
 
 *the longest chapter and the most fun. what really happens at the Schwarzschild horizon, why $r = 2GM$ is not a "real" singularity, how the spacetime extends past the horizon (Eddington-Finkelstein, Kruskal), and what charged and rotating black holes look like (Reissner-Nordstrom, Kerr). this chapter does not appear directly in the 20 exam questions, but it is the place oral examiners love to dig.*
 
@@ -252,32 +252,32 @@ if i had to compress chapter 6 into a paragraph for the oral:
 
 ## connections
 
-- [General_Relativity_MOC](../../../04_Atlas/General_Relativity_MOC.html)
-- [Baumann GR](./Baumann%20GR.html)
-- [Schwarzschild metric](../../../03_Zettel/Theory/Schwarzschild%20metric.html) · [Schwarzschild horizon](../../../03_Zettel/Theory/Schwarzschild%20horizon.html) · [Eddington-Finkelstein and Kruskal](../../../03_Zettel/Theory/Eddington-Finkelstein%20and%20Kruskal.html) · [Birkhoff theorem](../../../03_Zettel/Theory/Birkhoff%20theorem.html)
+- [[General_Relativity_MOC]]
+- [[Baumann GR]]
+- [[Schwarzschild metric]] · [[Schwarzschild horizon]] · [[Eddington-Finkelstein and Kruskal]] · [[Birkhoff theorem]]
 - Q11 - selected Schwarzschild Christoffels through Q14 - photon trajectory and impact parameter (this chapter is the deep cuts on Schwarzschild)
-- [Photon sphere](../../../03_Zettel/Theory/Photon%20sphere.html) · [Radial infall](../../../03_Zettel/Theory/Radial%20infall.html)
+- [[Photon sphere]] · [[Radial infall]]
 - Hawking radiation (extension)
-- previous: [Ch 5 - The Einstein Equation](./Ch%205%20-%20The%20Einstein%20Equation.html)
-- next: [Ch 7 - Cosmology](./Ch%207%20-%20Cosmology.html)
+- previous: [[Ch 5 - The Einstein Equation]]
+- next: [[Ch 7 - Cosmology]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (14)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Birkhoff%20theorem.html" class="backlink-item">Birkhoff theorem</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Circular%20orbits%20in%20Schwarzschild.html" class="backlink-item">Circular orbits in Schwarzschild</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Eddington-Finkelstein%20and%20Kruskal.html" class="backlink-item">Eddington-Finkelstein and Kruskal</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Effective%20potential%20approach.html" class="backlink-item">Effective potential approach</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Light%20deflection.html" class="backlink-item">Light deflection</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Perihelion%20precession.html" class="backlink-item">Perihelion precession</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Photon%20sphere.html" class="backlink-item">Photon sphere</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Photon%20trajectories%20and%20impact%20parameter.html" class="backlink-item">Photon trajectories and impact parameter</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Radial%20infall.html" class="backlink-item">Radial infall</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Schwarzschild%20Christoffels.html" class="backlink-item">Schwarzschild Christoffels</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Schwarzschild%20effective%20potential.html" class="backlink-item">Schwarzschild effective potential</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Schwarzschild%20horizon.html" class="backlink-item">Schwarzschild horizon</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Schwarzschild%20metric.html" class="backlink-item">Schwarzschild metric</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Birkhoff theorem]]
+- [[Circular orbits in Schwarzschild]]
+- [[Eddington-Finkelstein and Kruskal]]
+- [[Effective potential approach]]
+- [[Light deflection]]
+- [[Perihelion precession]]
+- [[Photon sphere]]
+- [[Photon trajectories and impact parameter]]
+- [[Radial infall]]
+- [[Schwarzschild Christoffels]]
+- [[Schwarzschild effective potential]]
+- [[Schwarzschild horizon]]
+- [[Schwarzschild metric]]
+- [[General_Relativity_MOC]]
+
 

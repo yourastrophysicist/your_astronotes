@@ -2,7 +2,7 @@
 layout: "default"
 title: "The CCD equation"
 ---
-the master equation that tells me whether my observation is going to detect anything. derived from [CCD noise sources](CCD%20noise%20sources.html) by dividing source signal by total noise.
+the master equation that tells me whether my observation is going to detect anything. derived from [[CCD noise sources]] by dividing source signal by total noise.
 
 ## the equation
 
@@ -68,19 +68,19 @@ planning rule: aim for $N_{\rm sky} \gtrsim 10\sigma_{\rm RN}^2$ per pixel per e
 ## extensions
 
 - **aperture optimisation**: for a Gaussian PSF on flat sky, the aperture radius maximising SNR is $\sim 1.4\,$FWHM. larger collects more flux but more sky; smaller cuts sky but loses source.
-- **PSF photometry**: see [PSF photometry](PSF%20photometry.html). equivalent to weighting pixels by the PSF, recovers some SNR vs aperture in crowded fields.
+- **PSF photometry**: see [[PSF photometry]]. equivalent to weighting pixels by the PSF, recovers some SNR vs aperture in crowded fields.
 - **stacking**: $K$ exposures combined optimally give $\sqrt{K}$ improvement in sky/source-limited; in read-noise-limited, only linearly in $K$ if the noise per stack is dominated by readout.
 
 ## see also
 
-- [CCD detectors and SNR](CCD%20detectors%20and%20SNR.html) — the comprehensive companion
-- [CCD noise sources](CCD%20noise%20sources.html)
-- [CCD basics](CCD%20basics.html)
-- [CCD readout chain](CCD%20readout%20chain.html)
-- [Aperture photometry](Aperture%20photometry.html)
-- [PSF photometry](PSF%20photometry.html)
-- [Sky brightness](Sky%20brightness.html)
-- [Signal-Noise Ratio](Signal-Noise%20Ratio.html)
+- [[CCD detectors and SNR]] — the comprehensive companion
+- [[CCD noise sources]]
+- [[CCD basics]]
+- [[CCD readout chain]]
+- [[Aperture photometry]]
+- [[PSF photometry]]
+- [[Sky brightness]]
+- [[Signal-Noise Ratio]]
 
 ---
 
@@ -104,19 +104,19 @@ planning rule: aim for $N_{\rm sky} \gtrsim 10\sigma_{\rm RN}^2$ per pixel per e
 ![obs_ccd-30.png](../../assets/images/obs_ccd-30.png)
 *Exposure time calculation: required exposure time to reach target SNR.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (10)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Aperture%20photometry.html" class="backlink-item">Aperture photometry</a></li>
-    <li class="backlink-item-wrap"><a href="CCD%20basics.html" class="backlink-item">CCD basics</a></li>
-    <li class="backlink-item-wrap"><a href="CCD%20calibration%20steps.html" class="backlink-item">CCD calibration steps</a></li>
-    <li class="backlink-item-wrap"><a href="CCD%20noise%20sources.html" class="backlink-item">CCD noise sources</a></li>
-    <li class="backlink-item-wrap"><a href="CCD%20readout%20chain.html" class="backlink-item">CCD readout chain</a></li>
-    <li class="backlink-item-wrap"><a href="Cosmic%20rays%20and%20bad%20pixels.html" class="backlink-item">Cosmic rays and bad pixels</a></li>
-    <li class="backlink-item-wrap"><a href="Linearity%20and%20saturation.html" class="backlink-item">Linearity and saturation</a></li>
-    <li class="backlink-item-wrap"><a href="PSF%20photometry.html" class="backlink-item">PSF photometry</a></li>
-    <li class="backlink-item-wrap"><a href="Sky%20brightness.html" class="backlink-item">Sky brightness</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Aperture photometry]]
+- [[CCD basics]]
+- [[CCD calibration steps]]
+- [[CCD noise sources]]
+- [[CCD readout chain]]
+- [[Cosmic rays and bad pixels]]
+- [[Linearity and saturation]]
+- [[PSF photometry]]
+- [[Sky brightness]]
+- [[Observational_Astrophysics_MOC]]
+
 

@@ -18,7 +18,7 @@ consider a particle $\chi$ that:
 - becomes non-relativistic ($T < m_\chi$) and would Boltzmann-suppress: $n_\chi \propto e^{-m_\chi/T}$
 - annihilates with itself: $\chi\bar\chi \to X\bar X$ at rate $\Gamma = n_\chi \langle\sigma v\rangle$
 
-while $\Gamma > H$, the abundance tracks the equilibrium value. once $\Gamma \sim H$ at temperature $T_f$, **freeze-out** happens — see [Decoupling and freeze-out](Decoupling%20and%20freeze-out.html) — and the comoving number density is fixed.
+while $\Gamma > H$, the abundance tracks the equilibrium value. once $\Gamma \sim H$ at temperature $T_f$, **freeze-out** happens — see [[Decoupling and freeze-out]] — and the comoving number density is fixed.
 
 ---
 
@@ -35,7 +35,7 @@ $$n_\chi(T_f) \sim \frac{H(T_f)}{\langle\sigma v\rangle}$$
 then $n_\chi$ scales with the universe as $a^{-3}$ (just dilution — no more interactions). today:
 $$\Omega_\chi h^2 \approx \frac{3 \times 10^{-27}\,\text{cm}^3/\text{s}}{\langle\sigma v\rangle}$$
 
-(this involves carefully matching to entropy conservation; it is the result you get from solving the Boltzmann equation; see [Boltzmann equation in cosmology](Boltzmann%20equation%20in%20cosmology.html).)
+(this involves carefully matching to entropy conservation; it is the result you get from solving the Boltzmann equation; see [[Boltzmann equation in cosmology]].)
 
 ---
 
@@ -80,17 +80,17 @@ collider production (LHC): no missing-energy signature consistent with WIMP pair
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Cosmic_inventory_dark_matter](Cosmic_inventory_dark_matter.html)
-- [Decoupling and freeze-out](Decoupling%20and%20freeze-out.html)
-- [Hot vs cold dark matter](Hot%20vs%20cold%20dark%20matter.html)
-- [Boltzmann equation in cosmology](Boltzmann%20equation%20in%20cosmology.html)
-- [Baumann_reference](Baumann_reference.html) — chapter 3.3.2 has the full Boltzmann derivation
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Cosmic_inventory_dark_matter]]
+- [[Decoupling and freeze-out]]
+- [[Hot vs cold dark matter]]
+- [[Boltzmann equation in cosmology]]
+- [[Baumann_reference]] — chapter 3.3.2 has the full Boltzmann derivation
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (1)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+
 

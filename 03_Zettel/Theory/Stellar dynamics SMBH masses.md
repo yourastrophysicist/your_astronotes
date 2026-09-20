@@ -4,7 +4,7 @@ title: "Stellar dynamics SMBH masses"
 ---
 # Stellar Dynamics SMBH Masses
 
-Parent [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html) · [LOSVD](LOSVD.html) · [M sigma relation](M%20sigma%20relation.html)
+Parent [[Astrophysics_of_Galaxies_MOC]] · [[LOSVD]] · [[M sigma relation]]
 
 ## 1. Physical Principle and Gravitational Sphere of Influence
 
@@ -235,9 +235,9 @@ Key quantitative takeaways for the blackboard
 
 ## Connections
 
-- Core dynamics - [LOSVD](LOSVD.html), [Stellar kinematics measurements](Stellar%20kinematics%20measurements.html)
-- Scaling relations - [M sigma relation](M%20sigma%20relation.html), [Magorrian relation](Magorrian%20relation.html)
-- Complementary SMBH methods - [Ionized gas SMBH masses](Ionized%20gas%20SMBH%20masses.html), [Water maser BH masses](Water%20maser%20BH%20masses.html)
+- Core dynamics - [[LOSVD]], [[Stellar kinematics measurements]]
+- Scaling relations - [[M sigma relation]], [[Magorrian relation]]
+- Complementary SMBH methods - [[Ionized gas SMBH masses]], [[Water maser BH masses]]
 
 ---
 
@@ -259,18 +259,18 @@ Key quantitative takeaways for the blackboard
 
 ![gal_bh-53.png](../../assets/images/gal_bh-53.png)
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (9)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Galactic%20Center%20Sgr%20A%20and%20S-stars.html" class="backlink-item">Galactic Center Sgr A and S-stars</a></li>
-    <li class="backlink-item-wrap"><a href="Ionized%20gas%20SMBH%20masses.html" class="backlink-item">Ionized gas SMBH masses</a></li>
-    <li class="backlink-item-wrap"><a href="LOSVD.html" class="backlink-item">LOSVD</a></li>
-    <li class="backlink-item-wrap"><a href="M%20sigma%20relation.html" class="backlink-item">M sigma relation</a></li>
-    <li class="backlink-item-wrap"><a href="Magorrian%20relation.html" class="backlink-item">Magorrian relation</a></li>
-    <li class="backlink-item-wrap"><a href="Reverberation%20mapping.html" class="backlink-item">Reverberation mapping</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20kinematics%20measurements.html" class="backlink-item">Stellar kinematics measurements</a></li>
-    <li class="backlink-item-wrap"><a href="Water%20maser%20BH%20masses.html" class="backlink-item">Water maser BH masses</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Galactic Center Sgr A and S-stars]]
+- [[Ionized gas SMBH masses]]
+- [[LOSVD]]
+- [[M sigma relation]]
+- [[Magorrian relation]]
+- [[Reverberation mapping]]
+- [[Stellar kinematics measurements]]
+- [[Water maser BH masses]]
+- [[Astrophysics_of_Galaxies_MOC]]
+
 

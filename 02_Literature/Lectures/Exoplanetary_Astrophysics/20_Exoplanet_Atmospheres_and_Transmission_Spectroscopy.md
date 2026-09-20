@@ -5,7 +5,7 @@ title: "20_Exoplanet_Atmospheres_and_Transmission_Spectroscopy"
 # Lesson 20 – Exoplanet Atmospheres and Transmission Spectroscopy
 
 *Exoplanetary Astrophysics, Prof. Giampaolo Piotto (Lecture 23/12/2025)*  
-*Index: [Exoplanetary_Astrophysics_MOC](../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)*
+*Index: [[Exoplanetary_Astrophysics_MOC]]*
 
 ---
 
@@ -167,10 +167,10 @@ While space-based telescopes (JWST, Hubble) measure low-to-medium resolution spe
 ---
 
 ## Cross-Links & Vault Navigation
-- Master Map of Content: [Exoplanetary_Astrophysics_MOC](../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)
-- Previous Lecture: [19_CHEOPS_and_PLATO_Missions](./19_CHEOPS_and_PLATO_Missions.html)
-- Next Lecture: [21_Protoplanetary_Disks_and_Planet_Formation_Mechanisms](./21_Protoplanetary_Disks_and_Planet_Formation_Mechanisms.html)
-- Related Notes: Exoplanetary atmospheres and transmission spectroscopy | [08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx](../Computational_Astrophysics/08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx.html)
+- Master Map of Content: [[Exoplanetary_Astrophysics_MOC]]
+- Previous Lecture: [[19_CHEOPS_and_PLATO_Missions]]
+- Next Lecture: [[21_Protoplanetary_Disks_and_Planet_Formation_Mechanisms]]
+- Related Notes: Exoplanetary atmospheres and transmission spectroscopy | [[08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx]]
 
 
 ## Lecture Visuals & Atmospheric Characterization
@@ -190,11 +190,11 @@ While space-based telescopes (JWST, Hubble) measure low-to-medium resolution spe
 ![JWST Atmospheric Transmission Spectra and Molecular Bands](../../../assets/images/exo_spectra_p18.png)
 *Figure EXO-12: High-precision JWST NIRSpec/PRISM transmission spectra of hot Jupiters (e.g. WASP-39b) displaying prominent absorption bands of $\mathrm{H_2O}$ ($1.4, 1.8, 2.7\,\mu\mathrm{m}$), $\mathrm{CO_2}$ ($4.3\,\mu\mathrm{m}$), $\mathrm{CO}$ ($4.6\,\mu\mathrm{m}$), and photochemical $\mathrm{SO_2}$ ($4.05\,\mu\mathrm{m}$).*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Exoplanet%20atmospheric%20scale%20height%20and%20transmission%20spectroscopy.html" class="backlink-item">Exoplanet atmospheric scale height and transmission spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Exoplanet atmospheric scale height and transmission spectroscopy]]
+- [[Exoplanetary_Astrophysics_MOC]]
+
 

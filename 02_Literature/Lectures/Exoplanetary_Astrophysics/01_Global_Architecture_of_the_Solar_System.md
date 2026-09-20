@@ -5,7 +5,7 @@ title: "01_Global_Architecture_of_the_Solar_System"
 # Lesson 01 – Global Architecture of the Solar System
 
 *Exoplanetary Astrophysics, Prof. Giampaolo Piotto (Lecture 06/10/2025)*  
-*Index: [Exoplanetary_Astrophysics_MOC](../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)*
+*Index: [[Exoplanetary_Astrophysics_MOC]]*
 
 ---
 
@@ -142,15 +142,15 @@ Comparing the Solar System with exoplanet survey demographics reveals several st
 ---
 
 ## Cross-Links & Vault Navigation
-- Master Map of Content: [Exoplanetary_Astrophysics_MOC](../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)
-- Previous Lecture: [00_Introduction_and_Course_Overview](./00_Introduction_and_Course_Overview.html)
-- Next Lecture: [02_Exoplanet_Discovery_and_Taxonomy](./02_Exoplanet_Discovery_and_Taxonomy.html)
+- Master Map of Content: [[Exoplanetary_Astrophysics_MOC]]
+- Previous Lecture: [[00_Introduction_and_Course_Overview]]
+- Next Lecture: [[02_Exoplanet_Discovery_and_Taxonomy]]
 - Related Notes: Mass-radius diagram and interior models | Planetary system dynamics and resonance
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (1)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Exoplanetary_Astrophysics_MOC]]
+
 

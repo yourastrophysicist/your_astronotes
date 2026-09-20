@@ -32,19 +32,19 @@ After CDS, residual readout noise consists of:
 Typical astronomical CCD readout noise ranges from $2\, e^-$ to $8\, e^-\text{ rms}$ per pixel, completely independent of exposure duration and illumination level.
 
 ## Related Notes
-- [CCD Dark Current and Thermal Generation](CCD%20Dark%20Current%20and%20Thermal%20Generation.html)
-- [Bias Frame and Electronic Offset](Bias%20Frame%20and%20Electronic%20Offset.html)
-- [Janesick Photon Transfer Method for Gain and Readout Noise](Janesick%20Photon%20Transfer%20Method%20for%20Gain%20and%20Readout%20Noise.html)
-- [Piotto 04 - CCD Photometry and Noise Characterization](../../02_Literature/Lectures/Astrophysics_Laboratory_2/Piotto%2004%20-%20CCD%20Photometry%20and%20Noise%20Characterization.html)
+- [[CCD Dark Current and Thermal Generation]]
+- [[Bias Frame and Electronic Offset]]
+- [[Janesick Photon Transfer Method for Gain and Readout Noise]]
+- [[Piotto 04 - CCD Photometry and Noise Characterization]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Bias%20Frame%20and%20Electronic%20Offset.html" class="backlink-item">Bias Frame and Electronic Offset</a></li>
-    <li class="backlink-item-wrap"><a href="CCD%20Dark%20Current%20and%20Thermal%20Generation.html" class="backlink-item">CCD Dark Current and Thermal Generation</a></li>
-    <li class="backlink-item-wrap"><a href="Janesick%20Photon%20Transfer%20Method%20for%20Gain%20and%20Readout%20Noise.html" class="backlink-item">Janesick Photon Transfer Method for Gain and Readout Noise</a></li>
-    <li class="backlink-item-wrap"><a href="Quantum%20Efficiency%20in%20Astronomical%20Detectors.html" class="backlink-item">Quantum Efficiency in Astronomical Detectors</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Bias Frame and Electronic Offset]]
+- [[CCD Dark Current and Thermal Generation]]
+- [[Janesick Photon Transfer Method for Gain and Readout Noise]]
+- [[Quantum Efficiency in Astronomical Detectors]]
+- [[Astrophysics_Laboratory_2_MOC]]
+
 

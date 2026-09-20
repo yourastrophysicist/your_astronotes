@@ -198,12 +198,12 @@ When sketching dark matter in elliptical galaxies on the blackboard.
 
 ## 7. See Also
 
-- [Dark matter rotation curves](Dark%20matter%20rotation%20curves.html)
-- [Dark matter in dwarf galaxies](Dark%20matter%20in%20dwarf%20galaxies.html)
-- [LOSVD](LOSVD.html)
-- [Fundamental plane of ellipticals](Fundamental%20plane%20of%20ellipticals.html)
-- [Faber-Jackson relation](Faber-Jackson%20relation.html)
-- [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html)
+- [[Dark matter rotation curves]]
+- [[Dark matter in dwarf galaxies]]
+- [[LOSVD]]
+- [[Fundamental plane of ellipticals]]
+- [[Faber-Jackson relation]]
+- [[Astrophysics_of_Galaxies_MOC]]
 
 ---
 
@@ -237,13 +237,13 @@ When sketching dark matter in elliptical galaxies on the blackboard.
 
 ![gal_dm-32.png](../../assets/images/gal_dm-32.png)
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Coma%20cluster.html" class="backlink-item">Coma cluster</a></li>
-    <li class="backlink-item-wrap"><a href="Dark%20matter%20in%20dwarf%20galaxies.html" class="backlink-item">Dark matter in dwarf galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="Dark%20matter%20rotation%20curves.html" class="backlink-item">Dark matter rotation curves</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Coma cluster]]
+- [[Dark matter in dwarf galaxies]]
+- [[Dark matter rotation curves]]
+- [[Astrophysics_of_Galaxies_MOC]]
+
 

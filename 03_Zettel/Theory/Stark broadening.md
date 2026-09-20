@@ -29,7 +29,7 @@ a famous diagnostic:
 - **A0 V** ($T = 10\,000$ K, gravitating): H$\beta$ wings $\sim 15$ Å.
 - **B0 Ia supergiant** (low gravity): H$\beta$ wings $\sim 15$ Å.
 
-so at fixed $T$, dwarf H wings are wider than supergiant ones $\to$ a **gravity (pressure) discriminator**, basis of [MK luminosity classes](MK%20luminosity%20classes.html) in early-type stars.
+so at fixed $T$, dwarf H wings are wider than supergiant ones $\to$ a **gravity (pressure) discriminator**, basis of [[MK luminosity classes]] in early-type stars.
 
 ## the formal theory
 
@@ -49,22 +49,22 @@ at $T < 7000$ K, van der Waals dominates for most lines (collisions with neutral
 
 ## see also
 
-- [Collisional pressure broadening](Collisional%20pressure%20broadening.html)
-- [Natural broadening Lorentzian](Natural%20broadening%20Lorentzian.html)
-- [Voigt profile](Voigt%20profile.html)
-- [Hydrogen spectral series](Hydrogen%20spectral%20series.html)
-- [MK luminosity classes](MK%20luminosity%20classes.html)
-- [Stellar atmosphere structure](Stellar%20atmosphere%20structure.html)
-- [Continuum opacity sources](Continuum%20opacity%20sources.html)
+- [[Collisional pressure broadening]]
+- [[Natural broadening Lorentzian]]
+- [[Voigt profile]]
+- [[Hydrogen spectral series]]
+- [[MK luminosity classes]]
+- [[Stellar atmosphere structure]]
+- [[Continuum opacity sources]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Collisional%20pressure%20broadening.html" class="backlink-item">Collisional pressure broadening</a></li>
-    <li class="backlink-item-wrap"><a href="Damping%20wings.html" class="backlink-item">Damping wings</a></li>
-    <li class="backlink-item-wrap"><a href="MK%20luminosity%20classes.html" class="backlink-item">MK luminosity classes</a></li>
-    <li class="backlink-item-wrap"><a href="Voigt%20profile.html" class="backlink-item">Voigt profile</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Collisional pressure broadening]]
+- [[Damping wings]]
+- [[MK luminosity classes]]
+- [[Voigt profile]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 

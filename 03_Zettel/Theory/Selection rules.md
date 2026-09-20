@@ -66,15 +66,15 @@ if any rule is violated, identify whether it's M1 (parity preserved + $\Delta L 
 
 ## see also
 
-- [Quantum numbers and atomic states](Quantum%20numbers%20and%20atomic%20states.html)
-- [Atomic term symbols](Atomic%20term%20symbols.html)
-- [Russell-Saunders LS coupling](Russell-Saunders%20LS%20coupling.html)
-- [Forbidden vs permitted vs semiforbidden transitions](Forbidden%20vs%20permitted%20vs%20semiforbidden%20transitions.html)
-- [Forbidden lines](Forbidden%20lines.html)
-- [OIII forbidden lines](OIII%20forbidden%20lines.html)
-- [SII forbidden lines](SII%20forbidden%20lines.html)
-- [Critical density](Critical%20density.html)
-- [Forbidden line diagnostics](Forbidden%20line%20diagnostics.html)
+- [[Quantum numbers and atomic states]]
+- [[Atomic term symbols]]
+- [[Russell-Saunders LS coupling]]
+- [[Forbidden vs permitted vs semiforbidden transitions]]
+- [[Forbidden lines]]
+- [[OIII forbidden lines]]
+- [[SII forbidden lines]]
+- [[Critical density]]
+- [[Forbidden line diagnostics]]
 
 ---
 
@@ -83,26 +83,26 @@ if any rule is violated, identify whether it's M1 (parity preserved + $\Delta L 
 ![spec_theory_p45.png](../../assets/images/spec_theory_p45.png)
 *Electric dipole (E1) selection rules: $\Delta \ell = \pm 1$, $\Delta L = 0, \pm 1$ ($L=0 \not\to 0$), $\Delta J = 0, \pm 1$ ($J=0 \not\to 0$), $\Delta S = 0$, and strict parity change.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (17)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Absorption%20coefficient%20and%20oscillator%20strength.html" class="backlink-item">Absorption coefficient and oscillator strength</a></li>
-    <li class="backlink-item-wrap"><a href="Atomic%20term%20symbols.html" class="backlink-item">Atomic term symbols</a></li>
-    <li class="backlink-item-wrap"><a href="Energy%20level%20diagrams%20Grotrian.html" class="backlink-item">Energy level diagrams Grotrian</a></li>
-    <li class="backlink-item-wrap"><a href="Forbidden%20lines.html" class="backlink-item">Forbidden lines</a></li>
-    <li class="backlink-item-wrap"><a href="Forbidden%20vs%20permitted%20vs%20semiforbidden%20transitions.html" class="backlink-item">Forbidden vs permitted vs semiforbidden transitions</a></li>
-    <li class="backlink-item-wrap"><a href="Helium%20energy%20levels.html" class="backlink-item">Helium energy levels</a></li>
-    <li class="backlink-item-wrap"><a href="Hund%27s%20rules.html" class="backlink-item">Hund's rules</a></li>
-    <li class="backlink-item-wrap"><a href="Magnesium%20and%20alkali%20earths.html" class="backlink-item">Magnesium and alkali earths</a></li>
-    <li class="backlink-item-wrap"><a href="OIII%20forbidden%20lines.html" class="backlink-item">OIII forbidden lines</a></li>
-    <li class="backlink-item-wrap"><a href="Quantum%20numbers%20and%20atomic%20states.html" class="backlink-item">Quantum numbers and atomic states</a></li>
-    <li class="backlink-item-wrap"><a href="Russell-Saunders%20LS%20coupling.html" class="backlink-item">Russell-Saunders LS coupling</a></li>
-    <li class="backlink-item-wrap"><a href="Rydberg-Ritz%20formula.html" class="backlink-item">Rydberg-Ritz formula</a></li>
-    <li class="backlink-item-wrap"><a href="SII%20forbidden%20lines.html" class="backlink-item">SII forbidden lines</a></li>
-    <li class="backlink-item-wrap"><a href="Sodium%20and%20alkalis.html" class="backlink-item">Sodium and alkalis</a></li>
-    <li class="backlink-item-wrap"><a href="Two-photon%20emission.html" class="backlink-item">Two-photon emission</a></li>
-    <li class="backlink-item-wrap"><a href="jj%20coupling.html" class="backlink-item">jj coupling</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Absorption coefficient and oscillator strength]]
+- [[Atomic term symbols]]
+- [[Energy level diagrams Grotrian]]
+- [[Forbidden lines]]
+- [[Forbidden vs permitted vs semiforbidden transitions]]
+- [[Helium energy levels]]
+- [[Hund's rules]]
+- [[Magnesium and alkali earths]]
+- [[OIII forbidden lines]]
+- [[Quantum numbers and atomic states]]
+- [[Russell-Saunders LS coupling]]
+- [[Rydberg-Ritz formula]]
+- [[SII forbidden lines]]
+- [[Sodium and alkalis]]
+- [[Two-photon emission]]
+- [[jj coupling]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 

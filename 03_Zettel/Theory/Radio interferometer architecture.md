@@ -120,7 +120,7 @@ $$\tau_g=\frac{\mathbf B\cdot\mathbf s}{c}$$
 
 BookAI's version is a good reminder that radio interferometry is not just "many dishes". it is a phase-preserving electronics machine.
 
-see also [Downconversion of signals in radio interferometers](interf/Downconversion%20of%20signals%20in%20radio%20interferometers.html), [Digitization quantization and timing in radio interferometry](interf/Digitization%20quantization%20and%20timing%20in%20radio%20interferometry.html), and [Radiometer equation and SEFD](interf/Radiometer%20equation%20and%20SEFD.html).
+see also [[Downconversion of signals in radio interferometers]], [[Digitization quantization and timing in radio interferometry]], and [[Radiometer equation and SEFD]].
 
 ## scientific figures
 
@@ -134,9 +134,9 @@ source: first figure from ALMA Observatory, "How ALMA Works"; second figure is a
 
 ## see also
 
-- [Radio astronomy basics](interf/Radio%20astronomy%20basics.html)
-- [Two-element correlator](interf/Two-element%20correlator.html)
-- [Connected element interferometer](interf/Connected%20element%20interferometer.html)
-- [Very Long Baseline Interferometry VLBI](interf/Very%20Long%20Baseline%20Interferometry%20VLBI.html)
-- [Earth rotation synthesis in radio](interf/Earth%20rotation%20synthesis%20in%20radio.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Radio astronomy basics]]
+- [[Two-element correlator]]
+- [[Connected element interferometer]]
+- [[Very Long Baseline Interferometry VLBI]]
+- [[Earth rotation synthesis in radio]]
+- [[Astronomical_Interferometry_MOC]]

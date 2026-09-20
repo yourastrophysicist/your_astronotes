@@ -120,28 +120,28 @@ experimentally, $w$ is being measured to $\sim 1\%$ precision by SN Ia + BAO + C
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Cosmic_inventory_overview](Cosmic_inventory_overview.html)
-- [Hubble constant and deceleration parameter](Hubble%20constant%20and%20deceleration%20parameter.html)
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Cosmic_inventory_overview]]
+- [[Hubble constant and deceleration parameter]]
 - Friedmann equations with Λ
-- [Friedmann models](Friedmann%20models.html)
-- [Hubble law exact form](Hubble%20law%20exact%20form.html)
+- [[Friedmann models]]
+- [[Hubble law exact form]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (12)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Cosmic_inventory_overview.html" class="backlink-item">Cosmic_inventory_overview</a></li>
-    <li class="backlink-item-wrap"><a href="Cosmological%20constant.html" class="backlink-item">Cosmological constant</a></li>
-    <li class="backlink-item-wrap"><a href="Friedmann%20equations%20with%20Lambda.html" class="backlink-item">Friedmann equations with Lambda</a></li>
-    <li class="backlink-item-wrap"><a href="Friedmann%20models.html" class="backlink-item">Friedmann models</a></li>
-    <li class="backlink-item-wrap"><a href="Growth%20factor%20D%28z%29.html" class="backlink-item">Growth factor D(z)</a></li>
-    <li class="backlink-item-wrap"><a href="Hubble%20constant%20and%20deceleration%20parameter.html" class="backlink-item">Hubble constant and deceleration parameter</a></li>
-    <li class="backlink-item-wrap"><a href="Hubble%20law%20exact%20form.html" class="backlink-item">Hubble law exact form</a></li>
-    <li class="backlink-item-wrap"><a href="Lambda%20CDM%20current%20parameters.html" class="backlink-item">Lambda CDM current parameters</a></li>
-    <li class="backlink-item-wrap"><a href="Lensing%20as%20a%20cosmological%20probe.html" class="backlink-item">Lensing as a cosmological probe</a></li>
-    <li class="backlink-item-wrap"><a href="Supernova%20Hubble%20diagram.html" class="backlink-item">Supernova Hubble diagram</a></li>
-    <li class="backlink-item-wrap"><a href="Type%20Ia%20supernovae%20as%20standard%20candles.html" class="backlink-item">Type Ia supernovae as standard candles</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Cosmic_inventory_overview]]
+- [[Cosmological constant]]
+- [[Friedmann equations with Lambda]]
+- [[Friedmann models]]
+- [[Growth factor D(z)]]
+- [[Hubble constant and deceleration parameter]]
+- [[Hubble law exact form]]
+- [[Lambda CDM current parameters]]
+- [[Lensing as a cosmological probe]]
+- [[Supernova Hubble diagram]]
+- [[Type Ia supernovae as standard candles]]
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+
 

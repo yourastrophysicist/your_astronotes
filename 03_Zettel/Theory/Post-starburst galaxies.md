@@ -4,7 +4,7 @@ title: "Post-starburst galaxies"
 ---
 # post-starburst galaxies
 
-up: [Pablo_03_Star_formation_in_galaxies](../../02_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html)
+up: [[Pablo_03_Star_formation_in_galaxies]]
 
 ## the defining signature
 
@@ -30,7 +30,7 @@ the Pablo slide shows Kriek et al. 2010 SEDs of 8.77–9.20 log-age templates. k
 
 ## what they are physically
 
-the leading scenario: a gas-rich merger drives a central starburst, feedback (SNe + AGN) expels or consumes the gas, SF shuts off. the galaxy is caught in transit across the [Green valley and quenching tracks](Green%20valley%20and%20quenching%20tracks.html) on its way to the red sequence.
+the leading scenario: a gas-rich merger drives a central starburst, feedback (SNe + AGN) expels or consumes the gas, SF shuts off. the galaxy is caught in transit across the [[Green valley and quenching tracks]] on its way to the red sequence.
 
 evidence:
 - PSBs have morphologies with tidal features, shells, and compact cores (Zabludoff 1996, Pawlik 2018)
@@ -45,11 +45,11 @@ evidence:
 
 ## connections
 
-- precursor: [Starburst galaxies](Starburst%20galaxies.html)
-- transition locus: [Green valley and quenching tracks](Green%20valley%20and%20quenching%20tracks.html)
-- end state: [Red sequence and blue cloud](Red%20sequence%20and%20blue%20cloud.html)
-- quenching mechanisms: [Halo gravity suppression of galaxy formation](Halo%20gravity%20suppression%20of%20galaxy%20formation.html)
-- SED fitting for ages: [SED fitting for SFH](SED%20fitting%20for%20SFH.html)
+- precursor: [[Starburst galaxies]]
+- transition locus: [[Green valley and quenching tracks]]
+- end state: [[Red sequence and blue cloud]]
+- quenching mechanisms: [[Halo gravity suppression of galaxy formation]]
+- SED fitting for ages: [[SED fitting for SFH]]
 
 ## key references
 
@@ -59,12 +59,12 @@ evidence:
 - French 2021 (PASP review)
 - Wild et al. 2009, 2016
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Galaxy%20mergers%20and%20SF.html" class="backlink-item">Galaxy mergers and SF</a></li>
-    <li class="backlink-item-wrap"><a href="Starburst%20galaxies.html" class="backlink-item">Starburst galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Galaxy mergers and SF]]
+- [[Starburst galaxies]]
+- [[Observational_Cosmology_MOC]]
+
 

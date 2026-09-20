@@ -46,7 +46,7 @@ at $T \sim 10^5$ to $10^7$ K, hosted in **filaments connecting galaxies**, the W
 
 XMM-Newton + Chandra detected hints; **eROSITA** + future X-ray missions (Athena) will map systematically.
 
-see [Missing baryons](Missing%20baryons.html).
+see [[Missing baryons]].
 
 ## the cosmic web
 
@@ -73,23 +73,23 @@ major IGM probes:
 
 ## see also
 
-- [Reionization](Reionization.html)
+- [[Reionization]]
 - Lyman-α forest
-- [Missing baryons](Missing%20baryons.html)
-- [Cosmic_inventory_baryons](Cosmic_inventory_baryons.html)
-- [Cosmic_inventory_overview](Cosmic_inventory_overview.html)
-- [ΛCDM current parameters](%CE%9BCDM%20current%20parameters.html)
-- [H I regions](H%20I%20regions.html)
-- [Photodissociation regions PDRs](Photodissociation%20regions%20PDRs.html)
-- [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
+- [[Missing baryons]]
+- [[Cosmic_inventory_baryons]]
+- [[Cosmic_inventory_overview]]
+- [[ΛCDM current parameters]]
+- [[H I regions]]
+- [[Photodissociation regions PDRs]]
+- [[Observational_Cosmology_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Lyman-alpha%20forest.html" class="backlink-item">Lyman-alpha forest</a></li>
-    <li class="backlink-item-wrap"><a href="Missing%20baryons.html" class="backlink-item">Missing baryons</a></li>
-    <li class="backlink-item-wrap"><a href="Reionization.html" class="backlink-item">Reionization</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Lyman-alpha forest]]
+- [[Missing baryons]]
+- [[Reionization]]
+- [[Observational_Cosmology_MOC]]
+
 

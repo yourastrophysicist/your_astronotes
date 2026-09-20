@@ -4,7 +4,7 @@ title: "General linear least squares"
 ---
 # General linear least squares
 
-generalization of [simple linear LSQ](Linear%20least%20squares.html) to fitting models that are linear in the parameters but use *arbitrary* basis functions of the independent variable. the workhorse for fitting any function that can be written as a sum of known shapes.
+generalization of [[Linear least squares|simple linear LSQ]] to fitting models that are linear in the parameters but use *arbitrary* basis functions of the independent variable. the workhorse for fitting any function that can be written as a sum of known shapes.
 
 ## the model
 
@@ -29,7 +29,7 @@ models with parameters appearing nonlinearly:
 - $y = A \sin(\omega x + \phi)$: nonlinear in $\omega$ and $\phi$
 - $y = a/(1 + b x)$: nonlinear in $b$
 
-these need [nonlinear LSQ](Non-linear%20fitting%20with%20scipy.html) (Levenberg-Marquardt etc.).
+these need [[Non-linear fitting with scipy|nonlinear LSQ]] (Levenberg-Marquardt etc.).
 
 ## the design matrix
 
@@ -71,7 +71,7 @@ y_w = y / sigma
 theta = np.linalg.lstsq(A_w, y_w, rcond=None)[0]
 ```
 
-equivalent to weighted least squares with $W = \text{diag}(1/\sigma^2)$. see [Weighted least squares](Weighted%20least%20squares.html).
+equivalent to weighted least squares with $W = \text{diag}(1/\sigma^2)$. see [[Weighted least squares]].
 
 ## parameter covariance
 
@@ -124,22 +124,22 @@ for polynomial fitting on $[0, L]$, the design matrix with $\phi_k(x) = x^k$ is 
 
 ## see also
 
-- [Linear least squares](Linear%20least%20squares.html)
-- [Weighted least squares](Weighted%20least%20squares.html)
-- [Polynomial fitting](Polynomial%20fitting.html)
-- [Goodness of fit and chi-squared](Goodness%20of%20fit%20and%20chi-squared.html)
-- [Non-linear fitting with scipy](Non-linear%20fitting%20with%20scipy.html)
-- [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
+- [[Linear least squares]]
+- [[Weighted least squares]]
+- [[Polynomial fitting]]
+- [[Goodness of fit and chi-squared]]
+- [[Non-linear fitting with scipy]]
+- [[Mathematical_Numerical_Methods_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Fitting%20practical%20recipe.html" class="backlink-item">Fitting practical recipe</a></li>
-    <li class="backlink-item-wrap"><a href="Linear%20least%20squares.html" class="backlink-item">Linear least squares</a></li>
-    <li class="backlink-item-wrap"><a href="Non-linear%20fitting%20with%20scipy.html" class="backlink-item">Non-linear fitting with scipy</a></li>
-    <li class="backlink-item-wrap"><a href="Polynomial%20fitting.html" class="backlink-item">Polynomial fitting</a></li>
-    <li class="backlink-item-wrap"><a href="Weighted%20least%20squares.html" class="backlink-item">Weighted least squares</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Fitting practical recipe]]
+- [[Linear least squares]]
+- [[Non-linear fitting with scipy]]
+- [[Polynomial fitting]]
+- [[Weighted least squares]]
+- [[Mathematical_Numerical_Methods_MOC]]
+
 

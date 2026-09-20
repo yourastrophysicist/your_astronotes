@@ -37,7 +37,7 @@ example: **Dormand-Prince RK45**, used in `scipy.integrate.solve_ivp` (`method='
 
 ### 3. predictor-corrector mismatch
 
-multistep methods (e.g. Adams-Bashforth-Moulton) do a "predictor" step then a "corrector" step. their difference is the error estimate. used in [Fourth-order Hermite predictor-corrector](Fourth-order%20Hermite%20predictor-corrector.html) for collisional N-body.
+multistep methods (e.g. Adams-Bashforth-Moulton) do a "predictor" step then a "corrector" step. their difference is the error estimate. used in [[Fourth-order Hermite predictor-corrector]] for collisional N-body.
 
 ## the step size update rule
 
@@ -85,7 +85,7 @@ sol = solve_ivp(f, t_span=(0, 100), y0=[1, 0],
 - **close encounters in N-body**: the timestep needed during a close approach is $10^4 \times$ smaller than during smooth motion. fixed-step is infeasible
 - **stiff problems**: the timestep needed for stability is much smaller than for accuracy; adaptive control catches this automatically
 - **shock formation in PDEs**: gradients sharpen, $h$ must follow
-- **Bulirsch-Stoer**: built around adaptivity, see [Bulirsch-Stoer extrapolation](Bulirsch-Stoer%20extrapolation.html)
+- **Bulirsch-Stoer**: built around adaptivity, see [[Bulirsch-Stoer extrapolation]]
 
 ## the diagnostic: how to see adaptivity working
 
@@ -98,11 +98,11 @@ this is also a useful sanity check: if $h$ is constant throughout, adaptivity is
 
 ## see also
 
-- [Runge-Kutta 4 method](Runge-Kutta%204%20method.html)
-- [Bulirsch-Stoer extrapolation](Bulirsch-Stoer%20extrapolation.html)
-- [Fourth-order Hermite predictor-corrector](Fourth-order%20Hermite%20predictor-corrector.html)
-- [Astrophysical N-body problem formulation](Astrophysical%20N-body%20problem%20formulation.html)
-- [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
+- [[Runge-Kutta 4 method]]
+- [[Bulirsch-Stoer extrapolation]]
+- [[Fourth-order Hermite predictor-corrector]]
+- [[Astrophysical N-body problem formulation]]
+- [[Mathematical_Numerical_Methods_MOC]]
 
 ---
 
@@ -111,20 +111,20 @@ this is also a useful sanity check: if $h$ is constant throughout, adaptivity is
 ![mapelli_fig04_p35.png](../../assets/images/mapelli_fig04_p9.png)
 *Adaptive step size control via embedded Runge-Kutta Cash-Karp / Dormand-Prince pairs.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (11)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Adaptive%20timesteps%20near%20close%20encounters.html" class="backlink-item">Adaptive timesteps near close encounters</a></li>
-    <li class="backlink-item-wrap"><a href="Astrophysical%20N-body%20problem%20formulation.html" class="backlink-item">Astrophysical N-body problem formulation</a></li>
-    <li class="backlink-item-wrap"><a href="Built-in%20scipy%20integrators.html" class="backlink-item">Built-in scipy integrators</a></li>
-    <li class="backlink-item-wrap"><a href="Bulirsch-Stoer%20extrapolation.html" class="backlink-item">Bulirsch-Stoer extrapolation</a></li>
-    <li class="backlink-item-wrap"><a href="Energy%20conservation%20as%20a%20diagnostic.html" class="backlink-item">Energy conservation as a diagnostic</a></li>
-    <li class="backlink-item-wrap"><a href="Fourth-order%20Hermite%20predictor-corrector.html" class="backlink-item">Fourth-order Hermite predictor-corrector</a></li>
-    <li class="backlink-item-wrap"><a href="Modified%20midpoint%20method.html" class="backlink-item">Modified midpoint method</a></li>
-    <li class="backlink-item-wrap"><a href="Runge-Kutta%202%20midpoint%20method.html" class="backlink-item">Runge-Kutta 2 midpoint method</a></li>
-    <li class="backlink-item-wrap"><a href="Runge-Kutta%204%20method.html" class="backlink-item">Runge-Kutta 4 method</a></li>
-    <li class="backlink-item-wrap"><a href="Stability%20and%20the%20Courant%20condition.html" class="backlink-item">Stability and the Courant condition</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Adaptive timesteps near close encounters]]
+- [[Astrophysical N-body problem formulation]]
+- [[Built-in scipy integrators]]
+- [[Bulirsch-Stoer extrapolation]]
+- [[Energy conservation as a diagnostic]]
+- [[Fourth-order Hermite predictor-corrector]]
+- [[Modified midpoint method]]
+- [[Runge-Kutta 2 midpoint method]]
+- [[Runge-Kutta 4 method]]
+- [[Stability and the Courant condition]]
+- [[Mathematical_Numerical_Methods_MOC]]
+
 

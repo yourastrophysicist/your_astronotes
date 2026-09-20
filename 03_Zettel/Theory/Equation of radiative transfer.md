@@ -50,7 +50,7 @@ e.g. nebular emission from a thin HII region: each atom radiates and the photon 
 ### optically thick ($\tau \gg 1$)
 absorption dominates. emergent intensity is the source function at $\tau = 1$:
 $$I_\nu(0) \approx S_\nu(\tau = 1) = B_\nu(T(\tau = 1))\quad\text{(at LTE)}$$
-this is the **Eddington-Barbier approximation** (see [Eddington-Barbier approximation](Eddington-Barbier%20approximation.html)). emergent radiation samples one layer's thermal Planck spectrum: the **photosphere**, where light is "born."
+this is the **Eddington-Barbier approximation** (see [[Eddington-Barbier approximation]]). emergent radiation samples one layer's thermal Planck spectrum: the **photosphere**, where light is "born."
 
 ## why both matter
 
@@ -66,30 +66,30 @@ multiplying RTE by $1, \mu, \mu^2$ and integrating over angle gives the moment e
 
 ## see also
 
-- [Optical depth](Optical%20depth.html)
-- [Source function](Source%20function.html)
-- [Local thermodynamic equilibrium LTE](Local%20thermodynamic%20equilibrium%20LTE.html)
-- [Eddington-Barbier approximation](Eddington-Barbier%20approximation.html)
-- [Stellar atmosphere structure](Stellar%20atmosphere%20structure.html)
-- [Continuum opacity sources](Continuum%20opacity%20sources.html)
-- [Specific intensity flux luminosity](Specific%20intensity%20flux%20luminosity.html)
-- [Limb darkening](Limb%20darkening.html)
-- [Radiative transport](Radiative%20transport.html) — additional notes
-- [Boltzmann equation in cosmology](Boltzmann%20equation%20in%20cosmology.html) — analogous in cosmological / photon-fluid regime
+- [[Optical depth]]
+- [[Source function]]
+- [[Local thermodynamic equilibrium LTE]]
+- [[Eddington-Barbier approximation]]
+- [[Stellar atmosphere structure]]
+- [[Continuum opacity sources]]
+- [[Specific intensity flux luminosity]]
+- [[Limb darkening]]
+- [[Radiative transport]] — additional notes
+- [[Boltzmann equation in cosmology]] — analogous in cosmological / photon-fluid regime
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (10)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Absorption%20coefficient%20and%20oscillator%20strength.html" class="backlink-item">Absorption coefficient and oscillator strength</a></li>
-    <li class="backlink-item-wrap"><a href="Continuum%20opacity%20sources.html" class="backlink-item">Continuum opacity sources</a></li>
-    <li class="backlink-item-wrap"><a href="Eddington-Barbier%20approximation.html" class="backlink-item">Eddington-Barbier approximation</a></li>
-    <li class="backlink-item-wrap"><a href="Limb%20darkening.html" class="backlink-item">Limb darkening</a></li>
-    <li class="backlink-item-wrap"><a href="Local%20thermodynamic%20equilibrium%20LTE.html" class="backlink-item">Local thermodynamic equilibrium LTE</a></li>
-    <li class="backlink-item-wrap"><a href="Optical%20depth.html" class="backlink-item">Optical depth</a></li>
-    <li class="backlink-item-wrap"><a href="Source%20function.html" class="backlink-item">Source function</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20atmosphere%20structure.html" class="backlink-item">Stellar atmosphere structure</a></li>
-    <li class="backlink-item-wrap"><a href="Thermal%20continuum%20from%20stellar%20photosphere.html" class="backlink-item">Thermal continuum from stellar photosphere</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Absorption coefficient and oscillator strength]]
+- [[Continuum opacity sources]]
+- [[Eddington-Barbier approximation]]
+- [[Limb darkening]]
+- [[Local thermodynamic equilibrium LTE]]
+- [[Optical depth]]
+- [[Source function]]
+- [[Stellar atmosphere structure]]
+- [[Thermal continuum from stellar photosphere]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 

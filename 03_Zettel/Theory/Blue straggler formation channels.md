@@ -2,11 +2,11 @@
 layout: "default"
 title: "Blue straggler formation channels"
 ---
-[blue stragglers](Blue%20stragglers%20in%20star%20clusters.html) cannot be made by single-star evolution; they need to acquire mass after the cluster formed. three main channels are discussed, and the relative contribution depends strongly on the cluster's local stellar density.
+[[Blue stragglers in star clusters|blue stragglers]] cannot be made by single-star evolution; they need to acquire mass after the cluster formed. three main channels are discussed, and the relative contribution depends strongly on the cluster's local stellar density.
 
 **(i) stellar collisions in dense cores**
 
-in the dense cores of [Globular Clusters](Globular%20Clusters.html) the encounter rate is high enough that direct stellar collisions occur. two MS stars in a close passage can merge hydrodynamically, forming a single, more massive object. the dominant channel here is actually the dynamical interaction of binaries with single stars (binary-single, $bs$) or other binaries (binary-binary, $bb$), which often produces a collision during the chaotic resonance.
+in the dense cores of [[Globular Clusters]] the encounter rate is high enough that direct stellar collisions occur. two MS stars in a close passage can merge hydrodynamically, forming a single, more massive object. the dominant channel here is actually the dynamical interaction of binaries with single stars (binary-single, $bs$) or other binaries (binary-binary, $bb$), which often produces a collision during the chaotic resonance.
 
 the rate of collisions scales with the encounter rate parameter
 
@@ -19,12 +19,12 @@ where $\rho$ is the local stellar density and $\sigma$ is the velocity dispersio
 a primordial binary in which the more massive primary fills its Roche lobe transfers material to the secondary. depending on the evolutionary stage at the onset of mass transfer:
 
 - case A: primary still on MS,
-- case B: primary on Hertzsprung gap or [RGB](Red%20giant%20branch%20RGB.html),
+- case B: primary on Hertzsprung gap or [[Red giant branch RGB|RGB]],
 - case C: primary on AGB.
 
 the secondary, gaining mass, becomes more massive than the MSTO and is "rejuvenated" into a BSS. the primary becomes a white dwarf. the resulting BSS is therefore expected to have a WD companion (sometimes detectable in UV) and to rotate slowly, because mass transfer can spin down the accretor through magnetic braking and tidal coupling.
 
-this channel dominates in [Open clusters](Open%20clusters.html) and in the low-density haloes of [Globular Clusters](Globular%20Clusters.html) where collisions are negligible. mccrea (1964) was first to propose the channel.
+this channel dominates in [[Open clusters]] and in the low-density haloes of [[Globular Clusters]] where collisions are negligible. mccrea (1964) was first to propose the channel.
 
 **(iii) binary mergers**
 
@@ -40,20 +40,20 @@ distinguishing the channels uses:
 - presence of a WD companion (mass transfer products show UV excess),
 - binary fraction of the BSS sample.
 
-cosmologically, binary-channel BSS link to [CV progenitors](Cataclysmic%20variables%20in%20clusters.html) and to Ia supernova progenitors in old populations (whether BSS pathways feed the Ia rate is open).
+cosmologically, binary-channel BSS link to [[Cataclysmic variables in clusters|CV progenitors]] and to Ia supernova progenitors in old populations (whether BSS pathways feed the Ia rate is open).
 
 ## see also
-- [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
-- [Blue stragglers in star clusters](Blue%20stragglers%20in%20star%20clusters.html)
-- [Cluster binary fraction methods](Cluster%20binary%20fraction%20methods.html)
-- [Binary star orbits](interf/Binary%20star%20orbits.html)
+- [[Stellar_Astrophysics_MOC]]
+- [[Blue stragglers in star clusters]]
+- [[Cluster binary fraction methods]]
+- [[Binary star orbits]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Blue%20stragglers%20in%20star%20clusters.html" class="backlink-item">Blue stragglers in star clusters</a></li>
-    <li class="backlink-item-wrap"><a href="Yellow%20stragglers%20and%20sub-subgiants.html" class="backlink-item">Yellow stragglers and sub-subgiants</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Blue stragglers in star clusters]]
+- [[Yellow stragglers and sub-subgiants]]
+- [[Stellar_Astrophysics_MOC]]
+
 

@@ -73,31 +73,31 @@ BPT classifications are run on $\sim 10^6$ galaxies in SDSS spectroscopic sample
 
 ## see also
 
-- [Forbidden line diagnostics](Forbidden%20line%20diagnostics.html)
-- [OIII forbidden lines](OIII%20forbidden%20lines.html)
-- [Forbidden lines](Forbidden%20lines.html)
-- [Ionisation parameter and ionisation state](Ionisation%20parameter%20and%20ionisation%20state.html)
-- [H II region spectroscopy](H%20II%20region%20spectroscopy.html)
-- [AGN spectroscopy](AGN%20spectroscopy.html)
-- [Galaxy spectroscopy by type](Galaxy%20spectroscopy%20by%20type.html)
-- [Balmer decrement](Balmer%20decrement.html)
-- [Dust extinction in nebulae](Dust%20extinction%20in%20nebulae.html)
-- [Photoionisation balance](Photoionisation%20balance.html)
+- [[Forbidden line diagnostics]]
+- [[OIII forbidden lines]]
+- [[Forbidden lines]]
+- [[Ionisation parameter and ionisation state]]
+- [[H II region spectroscopy]]
+- [[AGN spectroscopy]]
+- [[Galaxy spectroscopy by type]]
+- [[Balmer decrement]]
+- [[Dust extinction in nebulae]]
+- [[Photoionisation balance]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (11)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="AGN%20spectroscopy.html" class="backlink-item">AGN spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="Forbidden%20line%20diagnostics.html" class="backlink-item">Forbidden line diagnostics</a></li>
-    <li class="backlink-item-wrap"><a href="Forbidden%20lines.html" class="backlink-item">Forbidden lines</a></li>
-    <li class="backlink-item-wrap"><a href="Galaxy%20spectroscopy%20by%20type.html" class="backlink-item">Galaxy spectroscopy by type</a></li>
-    <li class="backlink-item-wrap"><a href="Ionisation%20parameter%20U.html" class="backlink-item">Ionisation parameter U</a></li>
-    <li class="backlink-item-wrap"><a href="Ionisation%20parameter%20and%20ionisation%20state.html" class="backlink-item">Ionisation parameter and ionisation state</a></li>
-    <li class="backlink-item-wrap"><a href="Ionisation%20stratification.html" class="backlink-item">Ionisation stratification</a></li>
-    <li class="backlink-item-wrap"><a href="OIII%20forbidden%20lines.html" class="backlink-item">OIII forbidden lines</a></li>
-    <li class="backlink-item-wrap"><a href="SII%20forbidden%20lines.html" class="backlink-item">SII forbidden lines</a></li>
-    <li class="backlink-item-wrap"><a href="Supernova%20remnant%20spectroscopy.html" class="backlink-item">Supernova remnant spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[AGN spectroscopy]]
+- [[Forbidden line diagnostics]]
+- [[Forbidden lines]]
+- [[Galaxy spectroscopy by type]]
+- [[Ionisation parameter U]]
+- [[Ionisation parameter and ionisation state]]
+- [[Ionisation stratification]]
+- [[OIII forbidden lines]]
+- [[SII forbidden lines]]
+- [[Supernova remnant spectroscopy]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 

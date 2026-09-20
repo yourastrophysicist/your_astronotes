@@ -110,17 +110,17 @@ never differentiate noisy data directly. **smoothing is the default**. the only 
 
 ## see also
 
-- [Forward backward and central differences](Forward%20backward%20and%20central%20differences.html)
-- [Cubic spline interpolation](Cubic%20spline%20interpolation.html)
-- [Linear least squares](Linear%20least%20squares.html)
-- [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
+- [[Forward backward and central differences]]
+- [[Cubic spline interpolation]]
+- [[Linear least squares]]
+- [[Mathematical_Numerical_Methods_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Forward%20backward%20and%20central%20differences.html" class="backlink-item">Forward backward and central differences</a></li>
-    <li class="backlink-item-wrap"><a href="Optimal%20step%20size%20for%20derivatives.html" class="backlink-item">Optimal step size for derivatives</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Forward backward and central differences]]
+- [[Optimal step size for derivatives]]
+- [[Mathematical_Numerical_Methods_MOC]]
+
 

@@ -33,21 +33,21 @@ measuring $K$ determines the minimum planetary mass $M_p \sin i$. the $\sin i$ d
 
 ## see also
 
-- [Exoplanetary_Astrophysics_MOC](../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)
-- [10_Radial_Velocity_Foundations_and_Keplerian_Orbits](../../02_Literature/Lectures/Exoplanetary_Astrophysics/10_Radial_Velocity_Foundations_and_Keplerian_Orbits.html)
-- [High-precision spectrographs and laser frequency combs](High-precision%20spectrographs%20and%20laser%20frequency%20combs.html)
-- [Stellar activity signals and radial velocity jitter mitigation](Stellar%20activity%20signals%20and%20radial%20velocity%20jitter%20mitigation.html)
-- [Rossiter-McLaughlin effect and spin-orbit obliquity](Rossiter-McLaughlin%20effect%20and%20spin-orbit%20obliquity.html)
+- [[Exoplanetary_Astrophysics_MOC]]
+- [[10_Radial_Velocity_Foundations_and_Keplerian_Orbits]]
+- [[High-precision spectrographs and laser frequency combs]]
+- [[Stellar activity signals and radial velocity jitter mitigation]]
+- [[Rossiter-McLaughlin effect and spin-orbit obliquity]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Astrometric%20exoplanet%20detection%20and%20Gaia%20astrometry.html" class="backlink-item">Astrometric exoplanet detection and Gaia astrometry</a></li>
-    <li class="backlink-item-wrap"><a href="High-precision%20spectrographs%20and%20laser%20frequency%20combs.html" class="backlink-item">High-precision spectrographs and laser frequency combs</a></li>
-    <li class="backlink-item-wrap"><a href="Millisecond%20pulsar%20timing%20and%20planetary%20companions.html" class="backlink-item">Millisecond pulsar timing and planetary companions</a></li>
-    <li class="backlink-item-wrap"><a href="Rossiter-McLaughlin%20effect%20and%20spin-orbit%20obliquity.html" class="backlink-item">Rossiter-McLaughlin effect and spin-orbit obliquity</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20activity%20signals%20and%20radial%20velocity%20jitter%20mitigation.html" class="backlink-item">Stellar activity signals and radial velocity jitter mitigation</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Astrometric exoplanet detection and Gaia astrometry]]
+- [[High-precision spectrographs and laser frequency combs]]
+- [[Millisecond pulsar timing and planetary companions]]
+- [[Rossiter-McLaughlin effect and spin-orbit obliquity]]
+- [[Stellar activity signals and radial velocity jitter mitigation]]
+- [[Exoplanetary_Astrophysics_MOC]]
+
 

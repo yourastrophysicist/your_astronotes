@@ -65,16 +65,16 @@ DESI 2024-2025 BAO + SN combinations hint at $w \ne -1$, possibly evolving. an a
 
 ## see also
 
-- [Einstein equations](Einstein%20equations.html)
-- [Einstein tensor and Bianchi](Einstein%20tensor%20and%20Bianchi.html)
-- [Stress-energy tensor](Stress-energy%20tensor.html)
-- [Friedmann equations](Friedmann%20equations.html)
-- [Cosmic_inventory_dark_energy](Cosmic_inventory_dark_energy.html)
-- [Cosmic_inventory_overview](Cosmic_inventory_overview.html)
-- [Type Ia supernovae as standard candles](Type%20Ia%20supernovae%20as%20standard%20candles.html)
-- [Equation of state and density scaling](Equation%20of%20state%20and%20density%20scaling.html)
-- [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
-- [Ch 7 - Cosmology](../../02_Literature/Book/Baumann%20GR/Ch%207%20-%20Cosmology.html)
+- [[Einstein equations]]
+- [[Einstein tensor and Bianchi]]
+- [[Stress-energy tensor]]
+- [[Friedmann equations]]
+- [[Cosmic_inventory_dark_energy]]
+- [[Cosmic_inventory_overview]]
+- [[Type Ia supernovae as standard candles]]
+- [[Equation of state and density scaling]]
+- [[General_Relativity_MOC]]
+- [[Ch 7 - Cosmology]]
 
 ---
 
@@ -83,24 +83,24 @@ DESI 2024-2025 BAO + SN combinations hint at $w \ne -1$, possibly evolving. an a
 ![gr_q20_solution.png](../../assets/images/gr_q20_solution.png)
 *Question 20 Oral Exam Model Solution: Exact analytic integration of the flat $\Lambda$CDM Friedmann equation with non-relativistic matter and cosmological constant, scale factor evolution $a(t) = \left(\frac{\Omega_m}{\Omega_\Lambda}\right)^{1/3} \sinh^{2/3}\left(\frac{3}{2}\sqrt{\Omega_\Lambda} H_0 t\right)$, and age of the universe $t_0 = \frac{2}{3H_0\sqrt{\Omega_\Lambda}}\operatorname{arcsinh}\left(\sqrt{\frac{\Omega_\Lambda}{\Omega_m}}\right)$.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (15)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Continuity%20equation.html" class="backlink-item">Continuity equation</a></li>
-    <li class="backlink-item-wrap"><a href="Cosmic%20eras.html" class="backlink-item">Cosmic eras</a></li>
-    <li class="backlink-item-wrap"><a href="Curvature-dynamics%20relation.html" class="backlink-item">Curvature-dynamics relation</a></li>
-    <li class="backlink-item-wrap"><a href="Deceleration%20parameter.html" class="backlink-item">Deceleration parameter</a></li>
-    <li class="backlink-item-wrap"><a href="Density%20parameters.html" class="backlink-item">Density parameters</a></li>
-    <li class="backlink-item-wrap"><a href="Einstein%20equations.html" class="backlink-item">Einstein equations</a></li>
-    <li class="backlink-item-wrap"><a href="Equation%20of%20state%20and%20density%20scaling.html" class="backlink-item">Equation of state and density scaling</a></li>
-    <li class="backlink-item-wrap"><a href="Friedmann%20equations.html" class="backlink-item">Friedmann equations</a></li>
-    <li class="backlink-item-wrap"><a href="Friedmann%20solutions.html" class="backlink-item">Friedmann solutions</a></li>
-    <li class="backlink-item-wrap"><a href="GR%20Friedmann%20with%20Lambda.html" class="backlink-item">GR Friedmann with Lambda</a></li>
-    <li class="backlink-item-wrap"><a href="Lambda%20CDM%20current%20parameters.html" class="backlink-item">Lambda CDM current parameters</a></li>
-    <li class="backlink-item-wrap"><a href="Sectional%20and%20Gaussian%20curvature.html" class="backlink-item">Sectional and Gaussian curvature</a></li>
-    <li class="backlink-item-wrap"><a href="Stress-energy%20tensor.html" class="backlink-item">Stress-energy tensor</a></li>
-    <li class="backlink-item-wrap"><a href="Various%20models%20of%20the%20universe.html" class="backlink-item">Various models of the universe</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Continuity equation]]
+- [[Cosmic eras]]
+- [[Curvature-dynamics relation]]
+- [[Deceleration parameter]]
+- [[Density parameters]]
+- [[Einstein equations]]
+- [[Equation of state and density scaling]]
+- [[Friedmann equations]]
+- [[Friedmann solutions]]
+- [[GR Friedmann with Lambda]]
+- [[Lambda CDM current parameters]]
+- [[Sectional and Gaussian curvature]]
+- [[Stress-energy tensor]]
+- [[Various models of the universe]]
+- [[General_Relativity_MOC]]
+
 

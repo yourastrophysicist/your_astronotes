@@ -141,15 +141,13 @@ Scintillation is worse for:
 | Poor transparency (clouds) | Approximately diffraction-limited | Dimmed |
 | High scintillation | Approximately $\lambda/r_0$ | Rapidly variable |
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Atmospheric%20seeing.html" class="backlink-item">Atmospheric seeing</a></li>
-    <li class="backlink-item-wrap"><a href="Atmospheric%20transmission.html" class="backlink-item">Atmospheric transmission</a></li>
-    <li class="backlink-item-wrap"><a href="Telescope%20resolving%20power.html" class="backlink-item">Telescope resolving power</a></li>
-    <li class="backlink-item-wrap"><a href="interf/Atmospheric%20seeing.html" class="backlink-item">Atmospheric seeing</a></li>
-    <li class="backlink-item-wrap"><a href="interf/Atmospheric%20transmission.html" class="backlink-item">Atmospheric transmission</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Atmospheric seeing]]
+- [[Atmospheric transmission]]
+- [[Telescope resolving power]]
+- [[Lab_High-Energy_MOC]]
+
 

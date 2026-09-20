@@ -109,9 +109,9 @@ this is exactly Stéphan's adaptation in the 1870s, and Michelson's 20-foot beam
 
 ## see also
 
-- [Wavefront-division interferometers](interf/Wavefront-division%20interferometers.html)
-- [Young experiment as a stellar interferometer](interf/Young%20experiment%20as%20a%20stellar%20interferometer.html)
-- [Fresnel biprism](interf/Fresnel%20biprism.html)
-- [Lloyd mirror](interf/Lloyd%20mirror.html)
-- [Optical path difference OPD](interf/Optical%20path%20difference%20OPD.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Wavefront-division interferometers]]
+- [[Young experiment as a stellar interferometer]]
+- [[Fresnel biprism]]
+- [[Lloyd mirror]]
+- [[Optical path difference OPD]]
+- [[Astronomical_Interferometry_MOC]]

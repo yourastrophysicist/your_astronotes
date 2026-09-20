@@ -95,23 +95,20 @@ without fringe tracking, modern optical interferometry would be limited to a han
 
 ## see also
 
-- [Components of a modern interferometer](Components%20of%20a%20modern%20interferometer.html)
-- [Delay lines and path-length equalization](Delay%20lines%20and%20path-length%20equalization.html)
-- [Beam combiners](../Beam%20combiners.html)
-- [Adaptive optics](Adaptive%20optics.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Components of a modern interferometer]]
+- [[Delay lines and path-length equalization]]
+- [[Beam combiners]]
+- [[Adaptive optics]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (8)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Beam%20combiners.html" class="backlink-item">Beam combiners</a></li>
-    <li class="backlink-item-wrap"><a href="../Components%20of%20a%20modern%20interferometer.html" class="backlink-item">Components of a modern interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="../Delay%20lines%20and%20path-length%20equalization.html" class="backlink-item">Delay lines and path-length equalization</a></li>
-    <li class="backlink-item-wrap"><a href="../VLTI%20Very%20Large%20Telescope%20Interferometer.html" class="backlink-item">VLTI Very Large Telescope Interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="Components%20of%20a%20modern%20interferometer.html" class="backlink-item">Components of a modern interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="Delay%20lines%20and%20path-length%20equalization.html" class="backlink-item">Delay lines and path-length equalization</a></li>
-    <li class="backlink-item-wrap"><a href="VLTI%20Very%20Large%20Telescope%20Interferometer.html" class="backlink-item">VLTI Very Large Telescope Interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Beam combiners]]
+- [[Components of a modern interferometer]]
+- [[Delay lines and path-length equalization]]
+- [[VLTI Very Large Telescope Interferometer]]
+- [[Astronomical_Interferometry_MOC]]
+
 

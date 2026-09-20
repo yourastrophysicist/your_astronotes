@@ -4,7 +4,7 @@ title: "Tully-Fisher relation"
 ---
 # tully-fisher relation
 
-Parent [Pablo_02_Statistical_properties_of_galaxies](../../02_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html)
+Parent [[Pablo_02_Statistical_properties_of_galaxies]]
 
 ## The Empirical Relation
 
@@ -142,27 +142,27 @@ where $W_{20}$ is the full line width measured at $20\%$ of peak intensity, $i$ 
 ![obs_dist-42.png](../../assets/images/obs_dist-42.png)
 *Formula - L proportional to V_max^alpha (alpha ~ 3 to 4 depending on passband, steepest in NIR/FIR).*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (18)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Dark%20matter%20in%20dwarf%20galaxies.html" class="backlink-item">Dark matter in dwarf galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="Dark%20matter%20rotation%20curves.html" class="backlink-item">Dark matter rotation curves</a></li>
-    <li class="backlink-item-wrap"><a href="De%20Vaucouleurs%20and%20exponential%20profiles.html" class="backlink-item">De Vaucouleurs and exponential profiles</a></li>
-    <li class="backlink-item-wrap"><a href="Faber-Jackson%20relation.html" class="backlink-item">Faber-Jackson relation</a></li>
-    <li class="backlink-item-wrap"><a href="Galaxy%20main%20sequence%20of%20star%20formation.html" class="backlink-item">Galaxy main sequence of star formation</a></li>
-    <li class="backlink-item-wrap"><a href="Galaxy%20size-luminosity%20relation.html" class="backlink-item">Galaxy size-luminosity relation</a></li>
-    <li class="backlink-item-wrap"><a href="H%20I%20regions.html" class="backlink-item">H I regions</a></li>
-    <li class="backlink-item-wrap"><a href="Ionized%20gas%20kinematics.html" class="backlink-item">Ionized gas kinematics</a></li>
-    <li class="backlink-item-wrap"><a href="MOND.html" class="backlink-item">MOND</a></li>
-    <li class="backlink-item-wrap"><a href="Mass-radius%20and%20mass-velocity%20relations.html" class="backlink-item">Mass-radius and mass-velocity relations</a></li>
-    <li class="backlink-item-wrap"><a href="Modified%20gravity%20alternatives.html" class="backlink-item">Modified gravity alternatives</a></li>
-    <li class="backlink-item-wrap"><a href="Peculiar%20velocities%20of%20galaxies%20and%20structures.html" class="backlink-item">Peculiar velocities of galaxies and structures</a></li>
-    <li class="backlink-item-wrap"><a href="Rotation%20curves.html" class="backlink-item">Rotation curves</a></li>
-    <li class="backlink-item-wrap"><a href="Schmidt-Kennicutt%20law.html" class="backlink-item">Schmidt-Kennicutt law</a></li>
-    <li class="backlink-item-wrap"><a href="Velocity%20dispersion%20from%20line%20width.html" class="backlink-item">Velocity dispersion from line width</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Dark matter in dwarf galaxies]]
+- [[Dark matter rotation curves]]
+- [[De Vaucouleurs and exponential profiles]]
+- [[Faber-Jackson relation]]
+- [[Galaxy main sequence of star formation]]
+- [[Galaxy size-luminosity relation]]
+- [[H I regions]]
+- [[Ionized gas kinematics]]
+- [[MOND]]
+- [[Mass-radius and mass-velocity relations]]
+- [[Modified gravity alternatives]]
+- [[Peculiar velocities of galaxies and structures]]
+- [[Rotation curves]]
+- [[Schmidt-Kennicutt law]]
+- [[Velocity dispersion from line width]]
+- [[Astrophysics_of_Galaxies_MOC]]
+- [[Observational_Astrophysics_MOC]]
+- [[Observational_Cosmology_MOC]]
+
 

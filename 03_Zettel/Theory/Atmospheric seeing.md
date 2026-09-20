@@ -69,11 +69,11 @@ published seeing for a site is the median over many years; a given night can be 
 
 ## see also
 
-- [Earth atmosphere for observations](Earth%20atmosphere%20for%20observations.html)
-- [Adaptive optics overview](interf/Adaptive%20optics%20overview.html)
-- [Atmospheric scintillation](interf/Atmospheric%20scintillation.html)
-- [Seeing Effect](Seeing%20Effect.html) — additional notes
-- [Atmospheric layers](interf/Atmospheric%20layers.html)
-- [Point Spread Function (PSF)](Point%20Spread%20Function%20%28PSF%29.html)
-- [Telescope resolving power](Telescope%20resolving%20power.html)
-- [Rayleigh criterion](Rayleigh%20criterion.html)
+- [[Earth atmosphere for observations]]
+- [[Adaptive optics overview]]
+- [[Atmospheric scintillation]]
+- [[Seeing Effect]] — additional notes
+- [[Atmospheric layers]]
+- [[Point Spread Function (PSF)]]
+- [[Telescope resolving power]]
+- [[Rayleigh criterion]]

@@ -45,24 +45,24 @@ a Riemannian manifold has only Euclidean-like distances; no concept of past / fu
 
 ## see also
 
-- [Coordinate transformations and tensors](Coordinate%20transformations%20and%20tensors.html)
-- [Locally inertial frame](Locally%20inertial%20frame.html)
-- [Christoffel symbols](Christoffel%20symbols.html)
+- [[Coordinate transformations and tensors]]
+- [[Locally inertial frame]]
+- [[Christoffel symbols]]
 - 03_Zettel/Theory/Robertson-Walker metric
-- [FLRW metric](FLRW%20metric.html)
-- [Schwarzschild metric](Schwarzschild%20metric.html)
-- [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
-- [Ch 1 - Gravity is Geometry](../../02_Literature/Book/Baumann%20GR/Ch%201%20-%20Gravity%20is%20Geometry.html)
-- [Ch 2 - Some Differential Geometry](../../02_Literature/Book/Baumann%20GR/Ch%202%20-%20Some%20Differential%20Geometry.html)
+- [[FLRW metric]]
+- [[Schwarzschild metric]]
+- [[General_Relativity_MOC]]
+- [[Ch 1 - Gravity is Geometry]]
+- [[Ch 2 - Some Differential Geometry]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Coordinate%20transformations%20and%20tensors.html" class="backlink-item">Coordinate transformations and tensors</a></li>
-    <li class="backlink-item-wrap"><a href="Levi-Civita%20connection.html" class="backlink-item">Levi-Civita connection</a></li>
-    <li class="backlink-item-wrap"><a href="Locally%20inertial%20frame.html" class="backlink-item">Locally inertial frame</a></li>
-    <li class="backlink-item-wrap"><a href="Timelike%20vs%20null%20vs%20spacelike.html" class="backlink-item">Timelike vs null vs spacelike</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Coordinate transformations and tensors]]
+- [[Levi-Civita connection]]
+- [[Locally inertial frame]]
+- [[Timelike vs null vs spacelike]]
+- [[General_Relativity_MOC]]
+
 

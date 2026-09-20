@@ -8,7 +8,7 @@ an iterative method for computing all eigenvalues and eigenvectors of a symmetri
 
 ## the idea in two sentences
 
-repeatedly factor $A_k = Q_k R_k$ via [QR decomposition](QR%20decomposition.html), then form $A_{k+1} = R_k Q_k$ (the same factors swapped). for symmetric $A$, the matrices $A_k$ converge to a *diagonal* matrix whose entries are the eigenvalues. the cumulative product $V = Q_0 Q_1 Q_2 \cdots$ converges to the eigenvector matrix.
+repeatedly factor $A_k = Q_k R_k$ via [[QR decomposition]], then form $A_{k+1} = R_k Q_k$ (the same factors swapped). for symmetric $A$, the matrices $A_k$ converge to a *diagonal* matrix whose entries are the eigenvalues. the cumulative product $V = Q_0 Q_1 Q_2 \cdots$ converges to the eigenvector matrix.
 
 ## why it works
 
@@ -26,7 +26,7 @@ with $D$ diagonal, eigenvalues on the diagonal, and the columns of $V = \lim V_k
 ## the algorithm (textbook form)
 
 1. initialize $V \leftarrow I$, $A_1 \leftarrow A$
-2. factor $A_1 = Q R$ (one of the methods in [QR decomposition](QR%20decomposition.html))
+2. factor $A_1 = Q R$ (one of the methods in [[QR decomposition]])
 3. compute $A_1 \leftarrow R Q$ and $V \leftarrow V Q$
 4. compute $D = V^T A V$
 5. if $D$ is sufficiently diagonal (off-diagonal elements below tolerance $\epsilon$), output $V$ and $D$. otherwise go to step 2
@@ -62,7 +62,7 @@ with both tricks: $O(N^3)$ total. this is what `np.linalg.eigh` (for symmetric) 
 
 ## connection to power iteration
 
-[Power iteration](Power%20iteration.html) finds the *single* dominant eigenvalue and eigenvector. the QR algorithm is "power iteration on the whole eigenvector basis at once": each QR step is essentially performing one power iteration step on $N$ orthogonal subspaces simultaneously, with re-orthogonalization at every step.
+[[Power iteration]] finds the *single* dominant eigenvalue and eigenvector. the QR algorithm is "power iteration on the whole eigenvector basis at once": each QR step is essentially performing one power iteration step on $N$ orthogonal subspaces simultaneously, with re-orthogonalization at every step.
 
 ## limitations
 
@@ -91,20 +91,20 @@ eigenvalues, eigenvectors = np.linalg.eig(A)     # general A, complex eigenvalue
 
 ## see also
 
-- [QR decomposition](QR%20decomposition.html)
-- [Gram-Schmidt orthogonalization](Gram-Schmidt%20orthogonalization.html)
-- [Power iteration](Power%20iteration.html)
-- [Matrix diagonalization $A = VDV^T$](Matrix%20diagonalization%20%24A%20%3D%20VDV%5ET%24.html)
-- [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
+- [[QR decomposition]]
+- [[Gram-Schmidt orthogonalization]]
+- [[Power iteration]]
+- [[Matrix diagonalization $A = VDV^T$]]
+- [[Mathematical_Numerical_Methods_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Gram-Schmidt%20orthogonalization.html" class="backlink-item">Gram-Schmidt orthogonalization</a></li>
-    <li class="backlink-item-wrap"><a href="Matrix%20diagonalization%20%24A%20%3D%20VDV%5ET%24.html" class="backlink-item">Matrix diagonalization $A = VDV^T$</a></li>
-    <li class="backlink-item-wrap"><a href="Power%20iteration.html" class="backlink-item">Power iteration</a></li>
-    <li class="backlink-item-wrap"><a href="QR%20decomposition.html" class="backlink-item">QR decomposition</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Gram-Schmidt orthogonalization]]
+- [[Matrix diagonalization $A = VDV^T$]]
+- [[Power iteration]]
+- [[QR decomposition]]
+- [[Mathematical_Numerical_Methods_MOC]]
+
 

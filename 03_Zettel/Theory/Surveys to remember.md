@@ -4,7 +4,7 @@ title: "Surveys to remember"
 ---
 # surveys to remember
 
-up: [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html) · [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html)
+up: [[Observational_Cosmology_MOC]] · [[Astrophysics_of_Galaxies_MOC]]
 
 ## wide-field optical / spectroscopic surveys
 
@@ -51,15 +51,15 @@ up: [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.htm
 
 ## connections
 
-- instruments: [Space and ground facilities relevant for OC](Space%20and%20ground%20facilities%20relevant%20for%20OC.html)
-- science results: [Supernova Hubble diagram](Supernova%20Hubble%20diagram.html), [Color bimodality of galaxies](Color%20bimodality%20of%20galaxies.html), [CMB power spectrum](CMB%20power%20spectrum.html)
+- instruments: [[Space and ground facilities relevant for OC]]
+- science results: [[Supernova Hubble diagram]], [[Color bimodality of galaxies]], [[CMB power spectrum]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="High-z%20galaxies%20with%20JWST.html" class="backlink-item">High-z galaxies with JWST</a></li>
-    <li class="backlink-item-wrap"><a href="Space%20and%20ground%20facilities%20relevant%20for%20OC.html" class="backlink-item">Space and ground facilities relevant for OC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[High-z galaxies with JWST]]
+- [[Space and ground facilities relevant for OC]]
+- [[Observational_Cosmology_MOC]]
+
 

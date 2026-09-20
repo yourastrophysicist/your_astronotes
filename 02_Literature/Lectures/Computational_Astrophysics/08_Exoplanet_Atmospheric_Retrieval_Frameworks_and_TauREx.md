@@ -5,7 +5,7 @@ title: "08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx"
 # Lesson 08 – Exoplanet Atmospheric Retrieval Frameworks and TauREx
 
 *Computational Astrophysics, Prof. Tiziano Zingales*  
-*Index: [Computational_Astrophysics_MOC](../../../04_Atlas/Computational_Astrophysics_MOC.html)*
+*Index: [[Computational_Astrophysics_MOC]]*
 
 ---
 
@@ -219,11 +219,11 @@ Machine learning enhances the retrieval workflow:
 ---
 
 ## Related Notes
-- [04_Exoplanet_Demographics_Orbital_Mechanics_and_Transits](./04_Exoplanet_Demographics_Orbital_Mechanics_and_Transits.html)
-- [06_Deep_Learning_Architectures_and_Optimization](./06_Deep_Learning_Architectures_and_Optimization.html)
-- [07_Atmospheric_Radiative_Transfer_and_Line_Profiles](./07_Atmospheric_Radiative_Transfer_and_Line_Profiles.html)
-- [09_Bayesian_Inference_and_Parameter_Estimation](./09_Bayesian_Inference_and_Parameter_Estimation.html)
-- [10_Nested_Sampling_and_Evidence_Computation](./10_Nested_Sampling_and_Evidence_Computation.html)
+- [[04_Exoplanet_Demographics_Orbital_Mechanics_and_Transits]]
+- [[06_Deep_Learning_Architectures_and_Optimization]]
+- [[07_Atmospheric_Radiative_Transfer_and_Line_Profiles]]
+- [[09_Bayesian_Inference_and_Parameter_Estimation]]
+- [[10_Nested_Sampling_and_Evidence_Computation]]
 
 
 ## Computational Visuals & TauREx Inverse Retrieval
@@ -237,11 +237,11 @@ Machine learning enhances the retrieval workflow:
 ![Atmospheric Parameter Retrieval Corner Plot](../../../assets/images/comp_retrieval_p25.png)
 *Figure COMP-12: Retrieved posterior probability distributions for isothermal atmospheric temperature $T_{\mathrm{iso}}$ and trace gas volume mixing ratios $\log_{10}(X_{\mathrm{mol}})$.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Computational/Exoplanet%20atmospheric%20retrieval%20and%20TauREx%20framework.html" class="backlink-item">Exoplanet atmospheric retrieval and TauREx framework</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Exoplanet atmospheric retrieval and TauREx framework]]
+- [[Computational_Astrophysics_MOC]]
+
 

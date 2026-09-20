@@ -4,7 +4,7 @@ title: "Ch 2 - Some Differential Geometry"
 ---
 # Baumann Ch 2, Some Differential Geometry
 
-up: [Baumann GR](./Baumann%20GR.html) · [General_Relativity_MOC](../../../04_Atlas/General_Relativity_MOC.html)
+up: [[Baumann GR]] · [[General_Relativity_MOC]]
 
 *the math chapter. it sounds intimidating but the ideas are simple. all we are doing is figuring out how to do calculus on curved surfaces in a way that is independent of the coordinates we happen to use. once you see the pattern, the formalism becomes a friend, not a wall.*
 
@@ -203,7 +203,7 @@ $$d\tau^2 = -g_{\mu\nu} dx^\mu dx^\nu > 0$$
 
 if the curve is parametrized by $\tau$, its tangent vector is the **four-velocity** $U^\mu = dx^\mu/d\tau$, automatically normalized as $g_{\mu\nu} U^\mu U^\nu = -1$.
 
-this is the same proper time that appears in the relativistic action $S = -m\int d\tau$ in [Ch 3 - A First Look at Geodesics](./Ch%203%20-%20A%20First%20Look%20at%20Geodesics.html).
+this is the same proper time that appears in the relativistic action $S = -m\int d\tau$ in [[Ch 3 - A First Look at Geodesics]].
 
 ---
 
@@ -247,7 +247,7 @@ a final result: the **invariant volume element** for integration on a Lorentzian
 
 $$dV = \sqrt{-\det g_{\mu\nu}}\, d^4 x = \sqrt{-g}\, d^4 x$$
 
-the $\sqrt{-g}$ factor cancels the Jacobian from coordinate transformations, making integrals coordinate-independent. this is what shows up in the **Einstein-Hilbert action** $S = \int d^4x \sqrt{-g}\, R$ in [Ch 5 - The Einstein Equation](./Ch%205%20-%20The%20Einstein%20Equation.html).
+the $\sqrt{-g}$ factor cancels the Jacobian from coordinate transformations, making integrals coordinate-independent. this is what shows up in the **Einstein-Hilbert action** $S = \int d^4x \sqrt{-g}\, R$ in [[Ch 5 - The Einstein Equation]].
 
 ---
 
@@ -261,25 +261,25 @@ if i had to compress chapter 2 into a paragraph for the oral:
 
 ## connections
 
-- [General_Relativity_MOC](../../../04_Atlas/General_Relativity_MOC.html)
-- [Baumann GR](./Baumann%20GR.html)
-- [Manifold metric and signature](../../../03_Zettel/Theory/Manifold%20metric%20and%20signature.html) · [Coordinate transformations and tensors](../../../03_Zettel/Theory/Coordinate%20transformations%20and%20tensors.html) · [Locally inertial frame](../../../03_Zettel/Theory/Locally%20inertial%20frame.html)
+- [[General_Relativity_MOC]]
+- [[Baumann GR]]
+- [[Manifold metric and signature]] · [[Coordinate transformations and tensors]] · [[Locally inertial frame]]
 - Q1 - Christoffels for diagonal 2D metric and Q2 - Christoffels for radial 2D metric (the Christoffel formula uses everything from this chapter)
-- previous: [Ch 1 - Gravity is Geometry](./Ch%201%20-%20Gravity%20is%20Geometry.html)
-- next: [Ch 3 - A First Look at Geodesics](./Ch%203%20-%20A%20First%20Look%20at%20Geodesics.html)
+- previous: [[Ch 1 - Gravity is Geometry]]
+- next: [[Ch 3 - A First Look at Geodesics]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (9)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Christoffel%20symbols.html" class="backlink-item">Christoffel symbols</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Coordinate%20transformations%20and%20tensors.html" class="backlink-item">Coordinate transformations and tensors</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Covariant%20derivative.html" class="backlink-item">Covariant derivative</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Levi-Civita%20connection.html" class="backlink-item">Levi-Civita connection</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Locally%20inertial%20frame.html" class="backlink-item">Locally inertial frame</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Manifold%20metric%20and%20signature.html" class="backlink-item">Manifold metric and signature</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Metric%20compatibility.html" class="backlink-item">Metric compatibility</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Parallel%20transport.html" class="backlink-item">Parallel transport</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Christoffel symbols]]
+- [[Coordinate transformations and tensors]]
+- [[Covariant derivative]]
+- [[Levi-Civita connection]]
+- [[Locally inertial frame]]
+- [[Manifold metric and signature]]
+- [[Metric compatibility]]
+- [[Parallel transport]]
+- [[General_Relativity_MOC]]
+
 

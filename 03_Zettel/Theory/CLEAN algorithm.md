@@ -120,8 +120,8 @@ source: S. T. Myers, NRAO Synthesis Imaging Summer School page on snapshot imagi
 
 ## see also
 
-- [Dirty beam and dirty image](interf/Dirty%20beam%20and%20dirty%20image.html)
-- [Maximum entropy method](Maximum%20entropy%20method.html)
-- [Self-calibration](interf/Self-calibration.html)
-- [Imaging artifacts](interf/Imaging%20artifacts.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Dirty beam and dirty image]]
+- [[Maximum entropy method]]
+- [[Self-calibration]]
+- [[Imaging artifacts]]
+- [[Astronomical_Interferometry_MOC]]

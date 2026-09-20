@@ -79,16 +79,16 @@ so AGN are not just targets but **probes** of cosmology.
 
 ## see also
 
-- [Galaxy spectroscopy by type](Galaxy%20spectroscopy%20by%20type.html)
-- [BPT diagram](BPT%20diagram.html)
-- [Forbidden line diagnostics](Forbidden%20line%20diagnostics.html)
-- [Ionisation parameter U](Ionisation%20parameter%20U.html)
-- [Magnesium and alkali earths](Magnesium%20and%20alkali%20earths.html)
-- [Hydrogen spectral series](Hydrogen%20spectral%20series.html)
-- [Helium energy levels](Helium%20energy%20levels.html)
-- [Forbidden vs permitted vs semiforbidden transitions](Forbidden%20vs%20permitted%20vs%20semiforbidden%20transitions.html)
-- [Synchrotron continuum](Synchrotron%20continuum.html)
-- [Galactic Center](Galactic%20Center.html) — the closest SMBH
+- [[Galaxy spectroscopy by type]]
+- [[BPT diagram]]
+- [[Forbidden line diagnostics]]
+- [[Ionisation parameter U]]
+- [[Magnesium and alkali earths]]
+- [[Hydrogen spectral series]]
+- [[Helium energy levels]]
+- [[Forbidden vs permitted vs semiforbidden transitions]]
+- [[Synchrotron continuum]]
+- [[Galactic Center]] — the closest SMBH
 
 ---
 
@@ -104,19 +104,19 @@ so AGN are not just targets but **probes** of cosmology.
 
 ![gal_bh-45.png](../../assets/images/gal_bh-45.png)
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (10)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="BPT%20diagram.html" class="backlink-item">BPT diagram</a></li>
-    <li class="backlink-item-wrap"><a href="Galaxy%20spectroscopy%20by%20type.html" class="backlink-item">Galaxy spectroscopy by type</a></li>
-    <li class="backlink-item-wrap"><a href="Ionisation%20parameter%20U.html" class="backlink-item">Ionisation parameter U</a></li>
-    <li class="backlink-item-wrap"><a href="Ionisation%20parameter%20and%20ionisation%20state.html" class="backlink-item">Ionisation parameter and ionisation state</a></li>
-    <li class="backlink-item-wrap"><a href="Ionisation%20stratification.html" class="backlink-item">Ionisation stratification</a></li>
-    <li class="backlink-item-wrap"><a href="M%20sigma%20relation.html" class="backlink-item">M sigma relation</a></li>
-    <li class="backlink-item-wrap"><a href="Reverberation%20mapping.html" class="backlink-item">Reverberation mapping</a></li>
-    <li class="backlink-item-wrap"><a href="Synchrotron%20continuum.html" class="backlink-item">Synchrotron continuum</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[BPT diagram]]
+- [[Galaxy spectroscopy by type]]
+- [[Ionisation parameter U]]
+- [[Ionisation parameter and ionisation state]]
+- [[Ionisation stratification]]
+- [[M sigma relation]]
+- [[Reverberation mapping]]
+- [[Synchrotron continuum]]
+- [[Astronomical_Spectroscopy_MOC]]
+- [[Astrophysics_of_Galaxies_MOC]]
+
 

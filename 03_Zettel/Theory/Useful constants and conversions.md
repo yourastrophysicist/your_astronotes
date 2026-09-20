@@ -100,18 +100,18 @@ $\theta_{\rm seeing} \approx \lambda/r_0$. for $r_0 = 15$ cm at $500$ nm:
 
 ## see also
 
-- [Atmospheric extinction](interf/Atmospheric%20extinction.html)
-- [Magnitudes and photometric systems](Magnitudes%20and%20photometric%20systems.html)
-- [Distance modulus](Distance%20modulus.html)
-- [Filter systems and bandpasses](Filter%20systems%20and%20bandpasses.html)
-- [Atmospheric seeing](interf/Atmospheric%20seeing.html)
-- [Distance ladder derivations](Distance%20ladder%20derivations.html)
-- [Cosmic_inventory_overview](Cosmic_inventory_overview.html)
+- [[Atmospheric extinction]]
+- [[Magnitudes and photometric systems]]
+- [[Distance modulus]]
+- [[Filter systems and bandpasses]]
+- [[Atmospheric seeing]]
+- [[Distance ladder derivations]]
+- [[Cosmic_inventory_overview]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (1)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Python%20and%20IRAF%20tools%20for%20photometry.html" class="backlink-item">Python and IRAF tools for photometry</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Python and IRAF tools for photometry]]
+
 

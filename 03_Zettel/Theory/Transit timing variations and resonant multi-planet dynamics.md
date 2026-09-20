@@ -34,16 +34,16 @@ TTVs provide a method to weigh exoplanets that are too small, too distant, or ar
 
 ## see also
 
-- [Exoplanetary_Astrophysics_MOC](../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)
-- [18_Space_Transit_Surveys_TTVs_and_Resonances](../../02_Literature/Lectures/Exoplanetary_Astrophysics/18_Space_Transit_Surveys_TTVs_and_Resonances.html)
-- [22_Case_Study_K2_19_System_and_Atmospheric_Dynamics](../../02_Literature/Lectures/Exoplanetary_Astrophysics/22_Case_Study_K2_19_System_and_Atmospheric_Dynamics.html)
-- [Mandel-Agol analytical transit light curve model](Mandel-Agol%20analytical%20transit%20light%20curve%20model.html)
+- [[Exoplanetary_Astrophysics_MOC]]
+- [[18_Space_Transit_Surveys_TTVs_and_Resonances]]
+- [[22_Case_Study_K2_19_System_and_Atmospheric_Dynamics]]
+- [[Mandel-Agol analytical transit light curve model]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Millisecond%20pulsar%20timing%20and%20planetary%20companions.html" class="backlink-item">Millisecond pulsar timing and planetary companions</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Millisecond pulsar timing and planetary companions]]
+- [[Exoplanetary_Astrophysics_MOC]]
+
 

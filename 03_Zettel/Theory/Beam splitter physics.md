@@ -109,9 +109,9 @@ modern instruments (GRAVITY, MATISSE) use silicon photonic chips with thousands 
 
 ## see also
 
-- [Amplitude-division interferometers](Amplitude-division%20interferometers.html)
-- [Michelson laboratory interferometer](interf/Michelson%20laboratory%20interferometer.html)
-- [Mach-Zehnder interferometer](interf/Mach-Zehnder%20interferometer.html)
-- [Sagnac interferometer](interf/Sagnac%20interferometer.html)
-- [Beam combiners](Beam%20combiners.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Amplitude-division interferometers]]
+- [[Michelson laboratory interferometer]]
+- [[Mach-Zehnder interferometer]]
+- [[Sagnac interferometer]]
+- [[Beam combiners]]
+- [[Astronomical_Interferometry_MOC]]

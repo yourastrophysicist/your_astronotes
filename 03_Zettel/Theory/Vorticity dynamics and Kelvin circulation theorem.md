@@ -35,19 +35,19 @@ circulation is strictly conserved in time. vortex lines are frozen into the flui
 
 ## see also
 
-- [Fluid_and_Plasma_Dynamics_MOC](../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html)
-- [Part2_Incompressible_and_Viscous_Flows](../../02_Literature/Lectures/Fluid_and_Plasma_Dynamics/Part2_Incompressible_and_Viscous_Flows.html)
-- [Helmholtz vortex theorems and baroclinic torque](Helmholtz%20vortex%20theorems%20and%20baroclinic%20torque.html)
-- [Kolmogorov K41 turbulence cascade and five-thirds law](Kolmogorov%20K41%20turbulence%20cascade%20and%20five-thirds%20law.html)
+- [[Fluid_and_Plasma_Dynamics_MOC]]
+- [[Part2_Incompressible_and_Viscous_Flows]]
+- [[Helmholtz vortex theorems and baroclinic torque]]
+- [[Kolmogorov K41 turbulence cascade and five-thirds law]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Cowling%20anti-dynamo%20theorem%20and%20turbulent%20alpha-Omega%20dynamo.html" class="backlink-item">Cowling anti-dynamo theorem and turbulent alpha-Omega dynamo</a></li>
-    <li class="backlink-item-wrap"><a href="Helmholtz%20vortex%20theorems%20and%20baroclinic%20torque.html" class="backlink-item">Helmholtz vortex theorems and baroclinic torque</a></li>
-    <li class="backlink-item-wrap"><a href="Prandtl%20boundary%20layer%20theory%20and%20Blasius%20scaling.html" class="backlink-item">Prandtl boundary layer theory and Blasius scaling</a></li>
-    <li class="backlink-item-wrap"><a href="Rayleigh-Taylor%20and%20Kelvin-Helmholtz%20hydrodynamic%20instabilities.html" class="backlink-item">Rayleigh-Taylor and Kelvin-Helmholtz hydrodynamic instabilities</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Cowling anti-dynamo theorem and turbulent alpha-Omega dynamo]]
+- [[Helmholtz vortex theorems and baroclinic torque]]
+- [[Prandtl boundary layer theory and Blasius scaling]]
+- [[Rayleigh-Taylor and Kelvin-Helmholtz hydrodynamic instabilities]]
+- [[Fluid_and_Plasma_Dynamics_MOC]]
+
 

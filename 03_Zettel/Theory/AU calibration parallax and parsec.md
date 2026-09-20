@@ -70,14 +70,14 @@ range of geometric parallax:
 
 ## see also
 
-- [Annual stellar parallax](Annual%20stellar%20parallax.html)
-- [Distance ladder derivations](Distance%20ladder%20derivations.html)
-- [Distance modulus](Distance%20modulus.html)
-- [Cepheid period-luminosity relation](Cepheid%20period-luminosity%20relation.html)
-- [Spectroscopic parallax and main-sequence fitting](Spectroscopic%20parallax%20and%20main-sequence%20fitting.html)
-- [Hubble law](Hubble%20law.html)
-- [Earth coordinates](Earth%20coordinates.html)
-- [Precession nutation aberration parallax](Precession%20nutation%20aberration%20parallax.html)
+- [[Annual stellar parallax]]
+- [[Distance ladder derivations]]
+- [[Distance modulus]]
+- [[Cepheid period-luminosity relation]]
+- [[Spectroscopic parallax and main-sequence fitting]]
+- [[Hubble law]]
+- [[Earth coordinates]]
+- [[Precession nutation aberration parallax]]
 
 ---
 
@@ -107,10 +107,10 @@ range of geometric parallax:
 ![obs_dist-12.png](../../assets/images/obs_dist-12.png)
 *Obs1 exam question: Full model answer on AU calibration, parallax, and parsec definition.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (1)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Observational_Astrophysics_MOC]]
+
 

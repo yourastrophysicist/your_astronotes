@@ -106,51 +106,36 @@ ELTs are interferometers in disguise: their adaptive secondaries make them optic
 
 ## see also
 
-- [Atmospheric turbulence overview](Atmospheric%20turbulence%20overview.html)
-- [Wavefront sensors](Wavefront%20sensors.html)
-- [Deformable mirrors and tip-tilt](Deformable%20mirrors%20and%20tip-tilt.html)
-- [Guide stars and laser guide stars](Guide%20stars%20and%20laser%20guide%20stars.html)
-- [Fried parameter $r_0$](Fried%20parameter%20%24r_0%24.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Atmospheric turbulence overview]]
+- [[Wavefront sensors]]
+- [[Deformable mirrors and tip-tilt]]
+- [[Guide stars and laser guide stars]]
+- [[Fried parameter $r_0$]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (35)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Atmospheric%20turbulence%20overview.html" class="backlink-item">Atmospheric turbulence overview</a></li>
-    <li class="backlink-item-wrap"><a href="../Coronagraphy.html" class="backlink-item">Coronagraphy</a></li>
-    <li class="backlink-item-wrap"><a href="../DOnofrio%20Exam%20Retake%20-%20Radio%20vs%20Optical%20Physics%20and%20Michelson%20Synthesis.html" class="backlink-item">DOnofrio Exam Retake - Radio vs Optical Physics and Michelson Synthesis</a></li>
-    <li class="backlink-item-wrap"><a href="../Deformable%20mirrors%20and%20tip-tilt.html" class="backlink-item">Deformable mirrors and tip-tilt</a></li>
-    <li class="backlink-item-wrap"><a href="../Fried%20parameter%20%24r_0%24.html" class="backlink-item">Fried parameter $r_0$</a></li>
-    <li class="backlink-item-wrap"><a href="../Fringe%20tracking.html" class="backlink-item">Fringe tracking</a></li>
-    <li class="backlink-item-wrap"><a href="../Frozen%20turbulence%20and%20Taylor%20hypothesis.html" class="backlink-item">Frozen turbulence and Taylor hypothesis</a></li>
-    <li class="backlink-item-wrap"><a href="../Guide%20stars%20and%20laser%20guide%20stars.html" class="backlink-item">Guide stars and laser guide stars</a></li>
-    <li class="backlink-item-wrap"><a href="../Isoplanatic%20patch.html" class="backlink-item">Isoplanatic patch</a></li>
-    <li class="backlink-item-wrap"><a href="../Keck%20interferometer.html" class="backlink-item">Keck interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="../Kolmogorov%20turbulence.html" class="backlink-item">Kolmogorov turbulence</a></li>
-    <li class="backlink-item-wrap"><a href="../Large%20Binocular%20Telescope%20LBT.html" class="backlink-item">Large Binocular Telescope LBT</a></li>
-    <li class="backlink-item-wrap"><a href="../Resolved%20vs%20unresolved%20stellar%20populations.html" class="backlink-item">Resolved vs unresolved stellar populations</a></li>
-    <li class="backlink-item-wrap"><a href="../Scintillation%20and%20twinkling.html" class="backlink-item">Scintillation and twinkling</a></li>
-    <li class="backlink-item-wrap"><a href="../Speckle%20interferometry.html" class="backlink-item">Speckle interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="../VLTI%20Very%20Large%20Telescope%20Interferometer.html" class="backlink-item">VLTI Very Large Telescope Interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="../Wavefront%20sensors.html" class="backlink-item">Wavefront sensors</a></li>
-    <li class="backlink-item-wrap"><a href="Atmospheric%20turbulence%20overview.html" class="backlink-item">Atmospheric turbulence overview</a></li>
-    <li class="backlink-item-wrap"><a href="Coronagraphy.html" class="backlink-item">Coronagraphy</a></li>
-    <li class="backlink-item-wrap"><a href="Deformable%20mirrors%20and%20tip-tilt.html" class="backlink-item">Deformable mirrors and tip-tilt</a></li>
-    <li class="backlink-item-wrap"><a href="Fried%20parameter%20%24r_0%24.html" class="backlink-item">Fried parameter $r_0$</a></li>
-    <li class="backlink-item-wrap"><a href="Fringe%20tracking.html" class="backlink-item">Fringe tracking</a></li>
-    <li class="backlink-item-wrap"><a href="Frozen%20turbulence%20and%20Taylor%20hypothesis.html" class="backlink-item">Frozen turbulence and Taylor hypothesis</a></li>
-    <li class="backlink-item-wrap"><a href="Guide%20stars%20and%20laser%20guide%20stars.html" class="backlink-item">Guide stars and laser guide stars</a></li>
-    <li class="backlink-item-wrap"><a href="Isoplanatic%20patch.html" class="backlink-item">Isoplanatic patch</a></li>
-    <li class="backlink-item-wrap"><a href="Keck%20interferometer.html" class="backlink-item">Keck interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="Kolmogorov%20turbulence.html" class="backlink-item">Kolmogorov turbulence</a></li>
-    <li class="backlink-item-wrap"><a href="Large%20Binocular%20Telescope%20LBT.html" class="backlink-item">Large Binocular Telescope LBT</a></li>
-    <li class="backlink-item-wrap"><a href="Point%20spread%20function.html" class="backlink-item">Point spread function</a></li>
-    <li class="backlink-item-wrap"><a href="Scintillation%20and%20twinkling.html" class="backlink-item">Scintillation and twinkling</a></li>
-    <li class="backlink-item-wrap"><a href="Speckle%20interferometry.html" class="backlink-item">Speckle interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="The%20phase%20problem%20in%20interferometry.html" class="backlink-item">The phase problem in interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="VLTI%20Very%20Large%20Telescope%20Interferometer.html" class="backlink-item">VLTI Very Large Telescope Interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="Wavefront%20sensors.html" class="backlink-item">Wavefront sensors</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Atmospheric turbulence overview]]
+- [[Coronagraphy]]
+- [[DOnofrio Exam Retake - Radio vs Optical Physics and Michelson Synthesis]]
+- [[Deformable mirrors and tip-tilt]]
+- [[Fried parameter $r_0$]]
+- [[Fringe tracking]]
+- [[Frozen turbulence and Taylor hypothesis]]
+- [[Guide stars and laser guide stars]]
+- [[Isoplanatic patch]]
+- [[Keck interferometer]]
+- [[Kolmogorov turbulence]]
+- [[Large Binocular Telescope LBT]]
+- [[Resolved vs unresolved stellar populations]]
+- [[Scintillation and twinkling]]
+- [[Speckle interferometry]]
+- [[VLTI Very Large Telescope Interferometer]]
+- [[Wavefront sensors]]
+- [[Point spread function]]
+- [[The phase problem in interferometry]]
+- [[Astronomical_Interferometry_MOC]]
+
 

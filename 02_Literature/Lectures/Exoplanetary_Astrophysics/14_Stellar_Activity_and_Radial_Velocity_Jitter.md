@@ -5,7 +5,7 @@ title: "14_Stellar_Activity_and_Radial_Velocity_Jitter"
 # Lesson 14 – Radial Velocity IV: Stellar Activity and RV Jitter
 
 *Exoplanetary Astrophysics, Prof. Giampaolo Piotto (Lecture 25/11/2025)*  
-*Index: [Exoplanetary_Astrophysics_MOC](../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)*
+*Index: [[Exoplanetary_Astrophysics_MOC]]*
 
 ---
 
@@ -143,16 +143,16 @@ Instead of co-adding all lines into an omnibus CCF, LBL algorithms measure radia
 ---
 
 ## Cross-Links & Vault Navigation
-- Master Map of Content: [Exoplanetary_Astrophysics_MOC](../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)
-- Previous Lecture: [13_RV_Wavelength_Calibration_and_Error_Budgets](./13_RV_Wavelength_Calibration_and_Error_Budgets.html)
-- Next Lecture: [15_Planetary_Transits_Geometry_and_Rossiter_McLaughlin](./15_Planetary_Transits_Geometry_and_Rossiter_McLaughlin.html)
-- Related Notes: [Gaussian Process Regression in Light Curve Detrending](../../../03_Zettel/Computational/Gaussian%20Process%20Regression%20in%20Light%20Curve%20Detrending.html) | [Calcium and CaII H+K](../../../03_Zettel/Theory/Calcium%20and%20CaII%20H%2BK.html)
+- Master Map of Content: [[Exoplanetary_Astrophysics_MOC]]
+- Previous Lecture: [[13_RV_Wavelength_Calibration_and_Error_Budgets]]
+- Next Lecture: [[15_Planetary_Transits_Geometry_and_Rossiter_McLaughlin]]
+- Related Notes: [[Gaussian Process Regression in Light Curve Detrending]] | [[Calcium and CaII H+K]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Stellar%20activity%20signals%20and%20radial%20velocity%20jitter%20mitigation.html" class="backlink-item">Stellar activity signals and radial velocity jitter mitigation</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Stellar activity signals and radial velocity jitter mitigation]]
+- [[Exoplanetary_Astrophysics_MOC]]
+
 

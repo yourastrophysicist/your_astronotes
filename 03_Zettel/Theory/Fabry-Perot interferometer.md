@@ -105,7 +105,7 @@ both are amplitude-division; the difference is whether the cavity is "open" (two
 
 ## see also
 
-- [Amplitude-division interferometers](Amplitude-division%20interferometers.html)
-- [Michelson laboratory interferometer](interf/Michelson%20laboratory%20interferometer.html)
-- [Beam splitter physics](interf/Beam%20splitter%20physics.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Amplitude-division interferometers]]
+- [[Michelson laboratory interferometer]]
+- [[Beam splitter physics]]
+- [[Astronomical_Interferometry_MOC]]

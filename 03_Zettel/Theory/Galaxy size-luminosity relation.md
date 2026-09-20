@@ -4,7 +4,7 @@ title: "Galaxy size-luminosity relation"
 ---
 # galaxy size-luminosity relation
 
-up: [Pablo_02_Statistical_properties_of_galaxies](../../02_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html)
+up: [[Pablo_02_Statistical_properties_of_galaxies]]
 
 ## the canonical figure
 
@@ -21,8 +21,8 @@ plot effective (half-light) radius $R_e$ on the y-axis vs absolute B-band magnit
 the dwarf and giant branches do *not* connect smoothly. moving from a faint dE to a UCD, $R_e$ drops by an order of magnitude. moving from a UCD to a giant elliptical, $R_e$ rises by three orders of magnitude. so size is *not* a monotonic function of luminosity across the full population. there are at least two physical sequences:
 
 - the **dwarf sequence** (dSph + dE): pressure-supported, low-density, dark-matter-dominated, easily disturbed by feedback and tides.
-- the **giant sequence** (Es + spiral bulges): also pressure-supported but at much higher densities; sit on the [Fundamental plane of ellipticals](Fundamental%20plane%20of%20ellipticals.html).
-- the **disk sequence** (spirals): rotation-supported, follow [Tully-Fisher relation](Tully-Fisher%20relation.html) (luminosity vs $V_{\text{rot}}$, with $R$ folded in).
+- the **giant sequence** (Es + spiral bulges): also pressure-supported but at much higher densities; sit on the [[Fundamental plane of ellipticals]].
+- the **disk sequence** (spirals): rotation-supported, follow [[Tully-Fisher relation]] (luminosity vs $V_{\text{rot}}$, with $R$ folded in).
 - the **compact intruders** (cE, UCD): probably tidally stripped nuclei of larger galaxies, not a primordial sequence.
 
 ## what i remember
@@ -31,9 +31,9 @@ the size-luminosity plot is the *first* indication that "galaxy" is not one kind
 
 ## connections
 
-- next: [Fundamental plane of ellipticals](Fundamental%20plane%20of%20ellipticals.html) adds velocity dispersion, $R_e \propto \sigma^{1.4}\langle I \rangle_e^{-0.9}$
-- spirals: [Tully-Fisher relation](Tully-Fisher%20relation.html)
-- mass version: stellar mass density profile, related to [Stellar mass function](Stellar%20mass%20function.html) only via mass-to-light ratio
+- next: [[Fundamental plane of ellipticals]] adds velocity dispersion, $R_e \propto \sigma^{1.4}\langle I \rangle_e^{-0.9}$
+- spirals: [[Tully-Fisher relation]]
+- mass version: stellar mass density profile, related to [[Stellar mass function]] only via mass-to-light ratio
 
 ## key references
 
@@ -41,13 +41,13 @@ the size-luminosity plot is the *first* indication that "galaxy" is not one kind
 - Binggeli et al. 1984 (Virgo dwarfs)
 - Misgeld & Hilker 2011 (size-luminosity across all classes)
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Aperture%20photometry.html" class="backlink-item">Aperture photometry</a></li>
-    <li class="backlink-item-wrap"><a href="Sersic%20profile.html" class="backlink-item">Sersic profile</a></li>
-    <li class="backlink-item-wrap"><a href="Surface%20brightness%20fluctuations.html" class="backlink-item">Surface brightness fluctuations</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Aperture photometry]]
+- [[Sersic profile]]
+- [[Surface brightness fluctuations]]
+- [[Observational_Cosmology_MOC]]
+
 

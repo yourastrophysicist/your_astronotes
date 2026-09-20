@@ -67,34 +67,34 @@ so a single number $z$ is the **time stamp** of cosmological observations.
 
 ## see also
 
-- [Hubble's law and cosmological redshift](Hubble%27s%20law%20and%20cosmological%20redshift.html)
-- [Hubble law](Hubble%20law.html)
-- [FLRW metric](FLRW%20metric.html)
-- [Comoving vs proper coordinates](Comoving%20vs%20proper%20coordinates.html)
+- [[Hubble's law and cosmological redshift]]
+- [[Hubble law]]
+- [[FLRW metric]]
+- [[Comoving vs proper coordinates]]
 - 03_Zettel/Theory/Cosmological distances
-- [Radial comoving distance](Radial%20comoving%20distance.html)
-- [Spectroscopic redshift from line shifts](Spectroscopic%20redshift%20from%20line%20shifts.html)
-- [Time-redshift relation](Time-redshift%20relation.html)
-- [Photon decoupling and CMB](Photon%20decoupling%20and%20CMB.html)
-- [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
+- [[Radial comoving distance]]
+- [[Spectroscopic redshift from line shifts]]
+- [[Time-redshift relation]]
+- [[Photon decoupling and CMB]]
+- [[Observational_Cosmology_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (14)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Comoving%20vs%20proper%20coordinates.html" class="backlink-item">Comoving vs proper coordinates</a></li>
-    <li class="backlink-item-wrap"><a href="Cosmic%20look-back%20time.html" class="backlink-item">Cosmic look-back time</a></li>
-    <li class="backlink-item-wrap"><a href="Distance%20ladder%20derivations.html" class="backlink-item">Distance ladder derivations</a></li>
-    <li class="backlink-item-wrap"><a href="FLRW%20metric.html" class="backlink-item">FLRW metric</a></li>
-    <li class="backlink-item-wrap"><a href="Hubble%20flow%20distances.html" class="backlink-item">Hubble flow distances</a></li>
-    <li class="backlink-item-wrap"><a href="Hubble%20law.html" class="backlink-item">Hubble law</a></li>
-    <li class="backlink-item-wrap"><a href="K-correction.html" class="backlink-item">K-correction</a></li>
-    <li class="backlink-item-wrap"><a href="Killing%20vectors%20and%20conserved%20quantities.html" class="backlink-item">Killing vectors and conserved quantities</a></li>
-    <li class="backlink-item-wrap"><a href="Matter%20vs%20radiation%20density%20scaling.html" class="backlink-item">Matter vs radiation density scaling</a></li>
-    <li class="backlink-item-wrap"><a href="Peculiar%20velocities%20of%20galaxies%20and%20structures.html" class="backlink-item">Peculiar velocities of galaxies and structures</a></li>
-    <li class="backlink-item-wrap"><a href="Spectroscopic%20redshift%20from%20line%20shifts.html" class="backlink-item">Spectroscopic redshift from line shifts</a></li>
-    <li class="backlink-item-wrap"><a href="Time-redshift%20relation.html" class="backlink-item">Time-redshift relation</a></li>
-    <li class="backlink-item-wrap"><a href="Timelike%20vs%20null%20vs%20spacelike.html" class="backlink-item">Timelike vs null vs spacelike</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Comoving vs proper coordinates]]
+- [[Cosmic look-back time]]
+- [[Distance ladder derivations]]
+- [[FLRW metric]]
+- [[Hubble flow distances]]
+- [[Hubble law]]
+- [[K-correction]]
+- [[Killing vectors and conserved quantities]]
+- [[Matter vs radiation density scaling]]
+- [[Peculiar velocities of galaxies and structures]]
+- [[Spectroscopic redshift from line shifts]]
+- [[Time-redshift relation]]
+- [[Timelike vs null vs spacelike]]
+- [[Observational_Cosmology_MOC]]
+
 

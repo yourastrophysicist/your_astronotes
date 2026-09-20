@@ -131,17 +131,17 @@ df.to_parquet("processed.parquet")     # binary, much faster
 
 ## see also
 
-- [Numpy arrays vs Python lists](Numpy%20arrays%20vs%20Python%20lists.html)
-- [Scipy and astropy quick reference](Scipy%20and%20astropy%20quick%20reference.html)
-- [Matplotlib plotting essentials](Matplotlib%20plotting%20essentials.html)
-- [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
+- [[Numpy arrays vs Python lists]]
+- [[Scipy and astropy quick reference]]
+- [[Matplotlib plotting essentials]]
+- [[Mathematical_Numerical_Methods_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Hint%20-%20TODO%201.1%20Loading%20Data%20with%20np.loadtxt.html" class="backlink-item">Hint - TODO 1.1 Loading Data with np.loadtxt</a></li>
-    <li class="backlink-item-wrap"><a href="Scipy%20and%20astropy%20quick%20reference.html" class="backlink-item">Scipy and astropy quick reference</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Hint - TODO 1.1 Loading Data with np.loadtxt]]
+- [[Scipy and astropy quick reference]]
+- [[Mathematical_Numerical_Methods_MOC]]
+
 

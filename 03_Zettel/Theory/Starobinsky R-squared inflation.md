@@ -51,18 +51,18 @@ $$r = 16\epsilon_V \approx \frac{12}{N^2} \approx 0.004$$
 
 ## connections & zettel links
 
-* parent moc: [Cosmology_of_the_Early_Universe_MOC](../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html)
+* parent moc: [[Cosmology_of_the_Early_Universe_MOC]]
 * related zettels:
-  - [Large-field versus small-field inflation models](Large-field%20versus%20small-field%20inflation%20models.html)
-  - [Scalar primordial power spectrum and spectral index](Scalar%20primordial%20power%20spectrum%20and%20spectral%20index.html)
-  - [Tensor-to-scalar ratio r and inflation energy scale](Tensor-to-scalar%20ratio%20r%20and%20inflation%20energy%20scale.html)
-  - [Part2_Inflation_Kinematics_Dynamics_and_Models](../../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part2_Inflation_Kinematics_Dynamics_and_Models.html)
+  - [[Large-field versus small-field inflation models]]
+  - [[Scalar primordial power spectrum and spectral index]]
+  - [[Tensor-to-scalar ratio r and inflation energy scale]]
+  - [[Part2_Inflation_Kinematics_Dynamics_and_Models]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Large-field%20versus%20small-field%20inflation%20models.html" class="backlink-item">Large-field versus small-field inflation models</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html" class="backlink-item">Cosmology_of_the_Early_Universe_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Large-field versus small-field inflation models]]
+- [[Cosmology_of_the_Early_Universe_MOC]]
+
 

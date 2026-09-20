@@ -134,14 +134,14 @@ Kormendy & Ho (2013) demonstrated that the tight $M_\bullet - \sigma$ relation a
 
 ## see also
 
-- [Magorrian relation](Magorrian%20relation.html)
-- [Faber-Jackson relation](Faber-Jackson%20relation.html)
-- [Stellar dynamics SMBH masses](Stellar%20dynamics%20SMBH%20masses.html)
-- [Reverberation mapping](Reverberation%20mapping.html)
-- [Water maser BH masses](Water%20maser%20BH%20masses.html)
-- [AGN spectroscopy](AGN%20spectroscopy.html)
-- [Galactic Center Sgr A and S-stars](interf/Galactic%20Center%20Sgr%20A%20and%20S-stars.html)
-- [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html)
+- [[Magorrian relation]]
+- [[Faber-Jackson relation]]
+- [[Stellar dynamics SMBH masses]]
+- [[Reverberation mapping]]
+- [[Water maser BH masses]]
+- [[AGN spectroscopy]]
+- [[Galactic Center Sgr A and S-stars]]
+- [[Astrophysics_of_Galaxies_MOC]]
 
 ---
 
@@ -192,19 +192,19 @@ Kormendy & Ho (2013) demonstrated that the tight $M_\bullet - \sigma$ relation a
 
 ![gal_bh-68.png](../../assets/images/gal_bh-68.png)
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (10)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Faber-Jackson%20relation.html" class="backlink-item">Faber-Jackson relation</a></li>
-    <li class="backlink-item-wrap"><a href="Galactic%20Center%20Sgr%20A%20and%20S-stars.html" class="backlink-item">Galactic Center Sgr A and S-stars</a></li>
-    <li class="backlink-item-wrap"><a href="Ionized%20gas%20SMBH%20masses.html" class="backlink-item">Ionized gas SMBH masses</a></li>
-    <li class="backlink-item-wrap"><a href="LOSVD.html" class="backlink-item">LOSVD</a></li>
-    <li class="backlink-item-wrap"><a href="Magorrian%20relation.html" class="backlink-item">Magorrian relation</a></li>
-    <li class="backlink-item-wrap"><a href="Reverberation%20mapping.html" class="backlink-item">Reverberation mapping</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20dynamics%20SMBH%20masses.html" class="backlink-item">Stellar dynamics SMBH masses</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20kinematics%20measurements.html" class="backlink-item">Stellar kinematics measurements</a></li>
-    <li class="backlink-item-wrap"><a href="Water%20maser%20BH%20masses.html" class="backlink-item">Water maser BH masses</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Faber-Jackson relation]]
+- [[Galactic Center Sgr A and S-stars]]
+- [[Ionized gas SMBH masses]]
+- [[LOSVD]]
+- [[Magorrian relation]]
+- [[Reverberation mapping]]
+- [[Stellar dynamics SMBH masses]]
+- [[Stellar kinematics measurements]]
+- [[Water maser BH masses]]
+- [[Astrophysics_of_Galaxies_MOC]]
+
 

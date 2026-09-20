@@ -4,7 +4,7 @@ title: "Redshift distribution of flux-limited samples"
 ---
 # redshift distribution of flux-limited samples
 
-up: [Pablo_02_Statistical_properties_of_galaxies](../../02_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html)
+up: [[Pablo_02_Statistical_properties_of_galaxies]]
 
 ## the question
 
@@ -16,7 +16,7 @@ intuitively: a faint magnitude limit sees deeper. so $\langle z \rangle$ should 
 
 $$\frac{dN}{dz}(m_{\text{lim}}) = \frac{dV}{dz} \int_{L_{\min}(z, m_{\text{lim}})}^{\infty} \phi(L, z)\, dL$$
 
-where $L_{\min}(z, m_{\text{lim}})$ is the luminosity such that a galaxy at redshift $z$ has apparent magnitude exactly $m_{\text{lim}}$. that depends on the [Luminosity distance](Luminosity%20distance.html) and the [K-correction](K-correction.html):
+where $L_{\min}(z, m_{\text{lim}})$ is the luminosity such that a galaxy at redshift $z$ has apparent magnitude exactly $m_{\text{lim}}$. that depends on the [[Luminosity distance]] and the [[K-correction]]:
 
 $$m_{\text{lim}} = M + 5\log_{10}(d_L / 10\,\text{pc}) + K(z)$$
 
@@ -36,28 +36,28 @@ the peak is the place these two curves cross.
 every survey analysis that quotes $\rho_{SFR}(z)$, $\phi(M_*, z)$, or any volume-limited quantity has to **invert this convolution**. the LF is the unknown; the observable is the $(m, z)$ density of sources. you need either:
 
 - a complete spectroscopic redshift for each source (expensive, doable only for $\sim 10^5$ to $10^6$ sources), or
-- [Photometric redshifts](Photometric%20redshifts.html) (cheap, doable for $\sim 10^8$ sources but with biases).
+- [[Photometric redshifts]] (cheap, doable for $\sim 10^8$ sources but with biases).
 
-and both are subject to [Malmquist bias](Malmquist%20bias.html) at the sample edge.
+and both are subject to [[Malmquist bias]] at the sample edge.
 
 ## connections
 
-- biases: [Malmquist bias](Malmquist%20bias.html), [Photo-z biases and catastrophic outliers](Photo-z%20biases%20and%20catastrophic%20outliers.html)
-- redshift estimators: [Photometric redshifts](Photometric%20redshifts.html)
-- the LF that drives this: [Luminosity function definition](Luminosity%20function%20definition.html), [Schechter function](Schechter%20function.html)
-- how to infer LF in the presence of a flux limit: [1Vmax estimator](1Vmax%20estimator.html)
+- biases: [[Malmquist bias]], [[Photo-z biases and catastrophic outliers]]
+- redshift estimators: [[Photometric redshifts]]
+- the LF that drives this: [[Luminosity function definition]], [[Schechter function]]
+- how to infer LF in the presence of a flux limit: [[1Vmax estimator]]
 
 ## key references
 
 - Brinchmann et al. 2008
 - Pozzetti et al. 2010 (zCOSMOS $N(z)$)
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Malmquist%20bias.html" class="backlink-item">Malmquist bias</a></li>
-    <li class="backlink-item-wrap"><a href="Photo-z%20biases%20and%20catastrophic%20outliers.html" class="backlink-item">Photo-z biases and catastrophic outliers</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Malmquist bias]]
+- [[Photo-z biases and catastrophic outliers]]
+- [[Observational_Cosmology_MOC]]
+
 

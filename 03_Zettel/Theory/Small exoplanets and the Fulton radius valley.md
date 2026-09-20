@@ -31,16 +31,16 @@ both mechanisms predict a negative slope in the period-radius plane ($R_{\text{v
 
 ## see also
 
-- [Exoplanetary_Astrophysics_MOC](../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)
-- [04_Small_Planets_and_Host_Star_Correlations](../../02_Literature/Lectures/Exoplanetary_Astrophysics/04_Small_Planets_and_Host_Star_Correlations.html)
-- [Exoplanet demographic distributions and survey completeness](Exoplanet%20demographic%20distributions%20and%20survey%20completeness.html)
-- [Exoplanet atmospheric scale height and transmission spectroscopy](Exoplanet%20atmospheric%20scale%20height%20and%20transmission%20spectroscopy.html)
+- [[Exoplanetary_Astrophysics_MOC]]
+- [[04_Small_Planets_and_Host_Star_Correlations]]
+- [[Exoplanet demographic distributions and survey completeness]]
+- [[Exoplanet atmospheric scale height and transmission spectroscopy]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Exoplanet%20demographic%20distributions%20and%20survey%20completeness.html" class="backlink-item">Exoplanet demographic distributions and survey completeness</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Exoplanet demographic distributions and survey completeness]]
+- [[Exoplanetary_Astrophysics_MOC]]
+
 

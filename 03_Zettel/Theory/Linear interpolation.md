@@ -87,22 +87,22 @@ scipy: `scipy.interpolate.RegularGridInterpolator`.
 
 ## see also
 
-- [Lagrange polynomial interpolation](Lagrange%20polynomial%20interpolation.html)
-- [Cubic spline interpolation](Cubic%20spline%20interpolation.html)
-- [Runge phenomenon](Runge%20phenomenon.html)
-- [Trapezoidal rule](Trapezoidal%20rule.html)
-- [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
+- [[Lagrange polynomial interpolation]]
+- [[Cubic spline interpolation]]
+- [[Runge phenomenon]]
+- [[Trapezoidal rule]]
+- [[Mathematical_Numerical_Methods_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Cubic%20spline%20interpolation.html" class="backlink-item">Cubic spline interpolation</a></li>
-    <li class="backlink-item-wrap"><a href="Lagrange%20polynomial%20interpolation.html" class="backlink-item">Lagrange polynomial interpolation</a></li>
-    <li class="backlink-item-wrap"><a href="Newton%20divided%20differences.html" class="backlink-item">Newton divided differences</a></li>
-    <li class="backlink-item-wrap"><a href="Runge%20phenomenon.html" class="backlink-item">Runge phenomenon</a></li>
-    <li class="backlink-item-wrap"><a href="Scipy%20interpolation%20tools.html" class="backlink-item">Scipy interpolation tools</a></li>
-    <li class="backlink-item-wrap"><a href="Two-dimensional%20interpolation.html" class="backlink-item">Two-dimensional interpolation</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Cubic spline interpolation]]
+- [[Lagrange polynomial interpolation]]
+- [[Newton divided differences]]
+- [[Runge phenomenon]]
+- [[Scipy interpolation tools]]
+- [[Two-dimensional interpolation]]
+- [[Mathematical_Numerical_Methods_MOC]]
+
 

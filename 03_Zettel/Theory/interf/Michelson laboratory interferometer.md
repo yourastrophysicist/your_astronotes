@@ -79,7 +79,7 @@ a 50/50 beam splitter on the input would naively give 50/50 on the output ports.
 
 resolution: there are *two* output ports (the detector port and the back-toward-source port). when the detector sees constructive, the back port sees destructive, and vice versa. *energy is conserved across the two ports*, and one port at a time can have 100% or 0%.
 
-this is why pure Michelson is sometimes called "wasteful": half the light goes back toward the source. the [Mach-Zehnder interferometer](Mach-Zehnder%20interferometer.html) uses *both* outputs and is more efficient for some applications.
+this is why pure Michelson is sometimes called "wasteful": half the light goes back toward the source. the [[Mach-Zehnder interferometer]] uses *both* outputs and is more efficient for some applications.
 
 ## the modern variants
 
@@ -105,24 +105,21 @@ both are called "Michelson interferometer" and both share the inventor, but they
 
 ## see also
 
-- [Amplitude-division interferometers](../Amplitude-division%20interferometers.html)
-- [Beam splitter physics](Beam%20splitter%20physics.html)
-- [Mach-Zehnder interferometer](Mach-Zehnder%20interferometer.html)
-- [Michelson stellar interferometer](Michelson%20stellar%20interferometer.html)
-- [Optical path difference OPD](Optical%20path%20difference%20OPD.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Amplitude-division interferometers]]
+- [[Beam splitter physics]]
+- [[Mach-Zehnder interferometer]]
+- [[Michelson stellar interferometer]]
+- [[Optical path difference OPD]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (8)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Amplitude-division%20interferometers.html" class="backlink-item">Amplitude-division interferometers</a></li>
-    <li class="backlink-item-wrap"><a href="../Beam%20splitter%20physics.html" class="backlink-item">Beam splitter physics</a></li>
-    <li class="backlink-item-wrap"><a href="../Fabry-Perot%20interferometer.html" class="backlink-item">Fabry-Perot interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="../Mach-Zehnder%20interferometer.html" class="backlink-item">Mach-Zehnder interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="Beam%20splitter%20physics.html" class="backlink-item">Beam splitter physics</a></li>
-    <li class="backlink-item-wrap"><a href="Fabry-Perot%20interferometer.html" class="backlink-item">Fabry-Perot interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="Mach-Zehnder%20interferometer.html" class="backlink-item">Mach-Zehnder interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Amplitude-division interferometers]]
+- [[Beam splitter physics]]
+- [[Fabry-Perot interferometer]]
+- [[Mach-Zehnder interferometer]]
+- [[Astronomical_Interferometry_MOC]]
+
 

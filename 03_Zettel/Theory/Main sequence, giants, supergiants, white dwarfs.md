@@ -89,11 +89,11 @@ $$t_{\text{MS}} \approx 10^{10} \left(\frac{M}{M_\odot}\right) \left(\frac{L}{L_
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Stellar scaling relations](Stellar%20scaling%20relations.html)
-- [Main sequence, giants, supergiants, white dwarfs](Main%20sequence%2C%20giants%2C%20supergiants%2C%20white%20dwarfs.html)
-- [Solar evolution and final stages](Solar%20evolution%20and%20final%20stages.html)
-- [Cluster ages from CMD turnoff](Cluster%20ages%20from%20CMD%20turnoff.html)
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Stellar scaling relations]]
+- [[Main sequence, giants, supergiants, white dwarfs]]
+- [[Solar evolution and final stages]]
+- [[Cluster ages from CMD turnoff]]
 
 ---
 
@@ -123,16 +123,16 @@ $$t_{\text{MS}} \approx 10^{10} \left(\frac{M}{M_\odot}\right) \left(\frac{L}{L_
 ![obs_stars-024.png](../../assets/images/obs_stars-024.png)
 *Horizontal Branch (HB) and Red Clump: quiescent core helium burning.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="HR%20diagram.html" class="backlink-item">HR diagram</a></li>
-    <li class="backlink-item-wrap"><a href="Mass-luminosity%20relation.html" class="backlink-item">Mass-luminosity relation</a></li>
-    <li class="backlink-item-wrap"><a href="Spectroscopic%20parallax%20and%20main-sequence%20fitting.html" class="backlink-item">Spectroscopic parallax and main-sequence fitting</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20scaling%20relations.html" class="backlink-item">Stellar scaling relations</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20spectra%20and%20spectral%20classification.html" class="backlink-item">Stellar spectra and spectral classification</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[HR diagram]]
+- [[Mass-luminosity relation]]
+- [[Spectroscopic parallax and main-sequence fitting]]
+- [[Stellar scaling relations]]
+- [[Stellar spectra and spectral classification]]
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Observational_Astrophysics_MOC]]
+
 

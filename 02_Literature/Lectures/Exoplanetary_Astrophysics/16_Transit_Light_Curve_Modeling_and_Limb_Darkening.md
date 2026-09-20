@@ -5,7 +5,7 @@ title: "16_Transit_Light_Curve_Modeling_and_Limb_Darkening"
 # Lesson 16 – Planetary Transits II: Light Curve Modeling and Limb Darkening
 
 *Exoplanetary Astrophysics, Prof. Giampaolo Piotto (Lecture 02/12/2025)*  
-*Index: [Exoplanetary_Astrophysics_MOC](../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)*
+*Index: [[Exoplanetary_Astrophysics_MOC]]*
 
 ---
 
@@ -164,17 +164,17 @@ A detection threshold $\text{SDE} \ge 7.1$ (the canonical Kepler threshold) filt
 ---
 
 ## Cross-Links & Vault Navigation
-- Master Map of Content: [Exoplanetary_Astrophysics_MOC](../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)
-- Previous Lecture: [15_Planetary_Transits_Geometry_and_Rossiter_McLaughlin](./15_Planetary_Transits_Geometry_and_Rossiter_McLaughlin.html)
-- Next Lecture: [17_Transit_False_Positives_and_Vetting_Protocols](./17_Transit_False_Positives_and_Vetting_Protocols.html)
-- Related Notes: Transit photometry and Mandel-Agol formulation | [Transit Modeling with batman](../../../03_Zettel/Computational/Transit%20Modeling%20with%20batman.html)
+- Master Map of Content: [[Exoplanetary_Astrophysics_MOC]]
+- Previous Lecture: [[15_Planetary_Transits_Geometry_and_Rossiter_McLaughlin]]
+- Next Lecture: [[17_Transit_False_Positives_and_Vetting_Protocols]]
+- Related Notes: Transit photometry and Mandel-Agol formulation | [[Transit Modeling with batman]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Mandel-Agol%20analytical%20transit%20light%20curve%20model.html" class="backlink-item">Mandel-Agol analytical transit light curve model</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Mean%20stellar%20density%20determination%20from%20transit%20observables.html" class="backlink-item">Mean stellar density determination from transit observables</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Mandel-Agol analytical transit light curve model]]
+- [[Mean stellar density determination from transit observables]]
+- [[Exoplanetary_Astrophysics_MOC]]
+
 

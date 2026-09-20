@@ -4,11 +4,11 @@ title: "Halo gravity suppression of galaxy formation"
 ---
 # halo gravity suppression of galaxy formation
 
-up: [Pablo_02_Statistical_properties_of_galaxies](../../02_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html)
+up: [[Pablo_02_Statistical_properties_of_galaxies]]
 
 ## the question
 
-why does the [Halo mass function vs galaxy mass function](Halo%20mass%20function%20vs%20galaxy%20mass%20function.html) gap exist? why is galaxy formation efficient at $M_h \sim 10^{12}\,M_\odot$ and not at $M_h \sim 10^{10}$ or $M_h \sim 10^{14}$?
+why does the [[Halo mass function vs galaxy mass function]] gap exist? why is galaxy formation efficient at $M_h \sim 10^{12}\,M_\odot$ and not at $M_h \sim 10^{10}$ or $M_h \sim 10^{14}$?
 
 the answer is two different feedback channels operating at the two ends of the halo mass function, both regulated by the depth of the halo gravitational potential.
 
@@ -44,7 +44,7 @@ at $M_h \sim 10^{12}\,M_\odot$:
 - $T_{\text{vir}} \sim 10^6$ K, low enough that the cooling time is shorter than the Hubble time (cooling function has a minimum around $10^6$ K)
 - AGN have not yet built up enough to shut down accretion
 
-so galaxy formation is *most efficient* here. this is what the [Stellar-to-halo mass ratio](Stellar-to-halo%20mass%20ratio.html) peak shows.
+so galaxy formation is *most efficient* here. this is what the [[Stellar-to-halo mass ratio]] peak shows.
 
 ## what i remember
 
@@ -52,10 +52,10 @@ the SMF is *not* the result of differing baryon budgets, it is the result of *fe
 
 ## connections
 
-- consequence: [Stellar-to-halo mass ratio](Stellar-to-halo%20mass%20ratio.html)
-- function comparison: [Halo mass function vs galaxy mass function](Halo%20mass%20function%20vs%20galaxy%20mass%20function.html)
+- consequence: [[Stellar-to-halo mass ratio]]
+- function comparison: [[Halo mass function vs galaxy mass function]]
 - related course block 8 topic: spherical collapse, Press-Schechter
-- color side: [Green valley and quenching tracks](Green%20valley%20and%20quenching%20tracks.html), [Galaxy color, density and morphology](Galaxy%20color%2C%20density%20and%20morphology.html)
+- color side: [[Green valley and quenching tracks]], [[Galaxy color, density and morphology]]
 
 ## key references
 
@@ -64,17 +64,17 @@ the SMF is *not* the result of differing baryon budgets, it is the result of *fe
 - Croton et al. 2006, Bower et al. 2006 (radio-mode AGN feedback in SAMs)
 - Behroozi et al. 2013 (empirical SHMR)
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (8)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Galaxy%20color%2C%20density%20and%20morphology.html" class="backlink-item">Galaxy color, density and morphology</a></li>
-    <li class="backlink-item-wrap"><a href="Galaxy%20main%20sequence%20of%20star%20formation.html" class="backlink-item">Galaxy main sequence of star formation</a></li>
-    <li class="backlink-item-wrap"><a href="Galaxy%20time%20scales.html" class="backlink-item">Galaxy time scales</a></li>
-    <li class="backlink-item-wrap"><a href="H%20I%20regions.html" class="backlink-item">H I regions</a></li>
-    <li class="backlink-item-wrap"><a href="Halo%20mass%20function%20vs%20galaxy%20mass%20function.html" class="backlink-item">Halo mass function vs galaxy mass function</a></li>
-    <li class="backlink-item-wrap"><a href="Post-starburst%20galaxies.html" class="backlink-item">Post-starburst galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar-to-halo%20mass%20ratio.html" class="backlink-item">Stellar-to-halo mass ratio</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Galaxy color, density and morphology]]
+- [[Galaxy main sequence of star formation]]
+- [[Galaxy time scales]]
+- [[H I regions]]
+- [[Halo mass function vs galaxy mass function]]
+- [[Post-starburst galaxies]]
+- [[Stellar-to-halo mass ratio]]
+- [[Observational_Cosmology_MOC]]
+
 

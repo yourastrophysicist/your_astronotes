@@ -143,19 +143,19 @@ every photon absorbed by dust in the UV/optical is precisely re-emitted in the i
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Galaxies in the local universe](Galaxies%20in%20the%20local%20universe.html)
-- [Spectral energy distributions](Spectral%20energy%20distributions.html)
-- [Electromagnetic radiation basics](Electromagnetic%20radiation%20basics.html)
-- [Interstellar medium components and gas cycle](Interstellar%20medium%20components%20and%20gas%20cycle.html)
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Galaxies in the local universe]]
+- [[Spectral energy distributions]]
+- [[Electromagnetic radiation basics]]
+- [[Interstellar medium components and gas cycle]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Electromagnetic%20radiation%20basics.html" class="backlink-item">Electromagnetic radiation basics</a></li>
-    <li class="backlink-item-wrap"><a href="Galaxies%20in%20the%20local%20universe.html" class="backlink-item">Galaxies in the local universe</a></li>
-    <li class="backlink-item-wrap"><a href="Spectral%20energy%20distributions.html" class="backlink-item">Spectral energy distributions</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Electromagnetic radiation basics]]
+- [[Galaxies in the local universe]]
+- [[Spectral energy distributions]]
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+
 

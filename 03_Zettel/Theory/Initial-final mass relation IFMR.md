@@ -26,7 +26,7 @@ the relation is approximately monotonic and roughly linear over a wide range:
 - $M_{\rm ZAMS} \sim 4\,M_\odot \;\rightarrow\; M_{\rm WD} \sim 0.85\,M_\odot$
 - $M_{\rm ZAMS} \sim 7\,M_\odot \;\rightarrow\; M_{\rm WD} \sim 1.0\text{-}1.1\,M_\odot$
 
-the cutoff for forming a WD lies near $M_{\rm ZAMS} \sim 8\text{-}10\,M_\odot$. above this, carbon ignition leads either to an O-Ne-Mg WD (see [White dwarf types He CO ONeMg](White%20dwarf%20types%20He%20CO%20ONeMg.html)) or to a core-collapse supernova. below $M_{\rm ZAMS} \sim 0.5\,M_\odot$, the universe is not yet old enough for these stars to have evolved off the main sequence, so the low-mass end is constrained by binary He-WD products rather than single-star evolution.
+the cutoff for forming a WD lies near $M_{\rm ZAMS} \sim 8\text{-}10\,M_\odot$. above this, carbon ignition leads either to an O-Ne-Mg WD (see [[White dwarf types He CO ONeMg]]) or to a core-collapse supernova. below $M_{\rm ZAMS} \sim 0.5\,M_\odot$, the universe is not yet old enough for these stars to have evolved off the main sequence, so the low-mass end is constrained by binary He-WD products rather than single-star evolution.
 
 a particularly relevant fact: the **mean WD mass observed in the field is around $0.6\,M_\odot$**, dominated by progenitors near $1\,M_\odot$, since the IMF heavily weights low masses.
 
@@ -34,7 +34,7 @@ a particularly relevant fact: the **mean WD mass observed in the field is around
 
 three main observational handles:
 
-1. **WDs in open clusters** with a well-determined turnoff age. each WD's progenitor mass is the MS mass at the cluster turnoff $M_{\rm TO}(t_{\rm cluster} - t_{\rm cool, WD})$; the WD mass is obtained spectroscopically from the Stark-broadened Balmer lines (see [Spectroscopic determination of log g](Spectroscopic%20determination%20of%20log%20g.html)) plus the [White dwarf mass-radius relation](White%20dwarf%20mass-radius%20relation.html). clusters like the Hyades, Pleiades, NGC 2168, and NGC 6791 are workhorses.
+1. **WDs in open clusters** with a well-determined turnoff age. each WD's progenitor mass is the MS mass at the cluster turnoff $M_{\rm TO}(t_{\rm cluster} - t_{\rm cool, WD})$; the WD mass is obtained spectroscopically from the Stark-broadened Balmer lines (see [[Spectroscopic determination of log g]]) plus the [[White dwarf mass-radius relation]]. clusters like the Hyades, Pleiades, NGC 2168, and NGC 6791 are workhorses.
 
 2. **wide WD-MS binaries**. assume coevality, take MS-star age, get progenitor mass.
 
@@ -42,31 +42,31 @@ three main observational handles:
 
 ## why the IFMR matters
 
-- it determines the **mean WD mass** as a function of cluster age and metallicity, which feeds into chemical evolution models and into the predicted SN Ia rates (Chandrasekhar-mass progenitors require enough merging mass; see [Chandrasekhar mass limit](Chandrasekhar%20mass%20limit.html)).
+- it determines the **mean WD mass** as a function of cluster age and metallicity, which feeds into chemical evolution models and into the predicted SN Ia rates (Chandrasekhar-mass progenitors require enough merging mass; see [[Chandrasekhar mass limit]]).
 - it sets the **lifetime fraction of mass returned to the ISM**, which is dominated by AGB mass loss.
 - it is a direct test of post-MS stellar evolution and AGB mass-loss physics.
-- it is needed to convert WDCS luminosity functions into ages: cooling time $t_{\rm cool}(L,M)$ depends on WD mass, so a wrong IFMR biases [Age dating from the WD luminosity function](Age%20dating%20from%20the%20WD%20luminosity%20function.html).
+- it is needed to convert WDCS luminosity functions into ages: cooling time $t_{\rm cool}(L,M)$ depends on WD mass, so a wrong IFMR biases [[Age dating from the WD luminosity function]].
 
 current frontier: the IFMR is not perfectly monotonic. there is some evidence for a kink near $M_{\rm ZAMS} \sim 2\,M_\odot$ at solar metallicity, attributed to carbon-star formation and changes in dredge-up efficiency.
 
 ## see also
-- [White dwarf overview](White%20dwarf%20overview.html)
-- [White dwarf types He CO ONeMg](White%20dwarf%20types%20He%20CO%20ONeMg.html)
-- [White dwarf mass-radius relation](White%20dwarf%20mass-radius%20relation.html)
-- [Chandrasekhar mass limit](Chandrasekhar%20mass%20limit.html)
-- [Age dating from the WD luminosity function](Age%20dating%20from%20the%20WD%20luminosity%20function.html)
-- [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
+- [[White dwarf overview]]
+- [[White dwarf types He CO ONeMg]]
+- [[White dwarf mass-radius relation]]
+- [[Chandrasekhar mass limit]]
+- [[Age dating from the WD luminosity function]]
+- [[Stellar_Astrophysics_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Age%20dating%20from%20the%20WD%20luminosity%20function.html" class="backlink-item">Age dating from the WD luminosity function</a></li>
-    <li class="backlink-item-wrap"><a href="Chandrasekhar%20mass%20limit.html" class="backlink-item">Chandrasekhar mass limit</a></li>
-    <li class="backlink-item-wrap"><a href="WDCS%20vs%20MSTO%20ages%20comparison.html" class="backlink-item">WDCS vs MSTO ages comparison</a></li>
-    <li class="backlink-item-wrap"><a href="White%20dwarf%20cooling%20sequence%20on%20the%20CMD.html" class="backlink-item">White dwarf cooling sequence on the CMD</a></li>
-    <li class="backlink-item-wrap"><a href="White%20dwarf%20overview.html" class="backlink-item">White dwarf overview</a></li>
-    <li class="backlink-item-wrap"><a href="White%20dwarf%20types%20He%20CO%20ONeMg.html" class="backlink-item">White dwarf types He CO ONeMg</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Age dating from the WD luminosity function]]
+- [[Chandrasekhar mass limit]]
+- [[WDCS vs MSTO ages comparison]]
+- [[White dwarf cooling sequence on the CMD]]
+- [[White dwarf overview]]
+- [[White dwarf types He CO ONeMg]]
+- [[Stellar_Astrophysics_MOC]]
+
 

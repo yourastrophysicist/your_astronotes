@@ -5,7 +5,7 @@ title: "09_Bayesian_Inference_and_Parameter_Estimation"
 # Lesson 09 – Bayesian Inference and Parameter Estimation
 
 *Computational Astrophysics, Prof. Tiziano Zingales*  
-*Index: [Computational_Astrophysics_MOC](../../../04_Atlas/Computational_Astrophysics_MOC.html)*
+*Index: [[Computational_Astrophysics_MOC]]*
 
 ---
 
@@ -158,18 +158,18 @@ To sample these parameter spaces:
 ---
 
 ## Related Notes
-- [05_Machine_Learning_Foundations_and_Regression_Models](./05_Machine_Learning_Foundations_and_Regression_Models.html)
-- [07_Atmospheric_Radiative_Transfer_and_Line_Profiles](./07_Atmospheric_Radiative_Transfer_and_Line_Profiles.html)
-- [08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx](./08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx.html)
-- [10_Nested_Sampling_and_Evidence_Computation](./10_Nested_Sampling_and_Evidence_Computation.html)
-- [Affine-Invariant Ensemble MCMC with emcee](../../../03_Zettel/Computational/Affine-Invariant%20Ensemble%20MCMC%20with%20emcee.html)
-- [MCMC Convergence Diagnostics and Autocorrelation Analysis](../../../03_Zettel/Computational/MCMC%20Convergence%20Diagnostics%20and%20Autocorrelation%20Analysis.html)
-- [Marginalized Posterior Distributions and Corner Plots](../../../03_Zettel/Computational/Marginalized%20Posterior%20Distributions%20and%20Corner%20Plots.html)
+- [[05_Machine_Learning_Foundations_and_Regression_Models]]
+- [[07_Atmospheric_Radiative_Transfer_and_Line_Profiles]]
+- [[08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx]]
+- [[10_Nested_Sampling_and_Evidence_Computation]]
+- [[Affine-Invariant Ensemble MCMC with emcee]]
+- [[MCMC Convergence Diagnostics and Autocorrelation Analysis]]
+- [[Marginalized Posterior Distributions and Corner Plots]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (1)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Computational_Astrophysics_MOC]]
+
 

@@ -54,7 +54,7 @@ $$L \propto \sigma_v^4$$
 which extends to the **fundamental plane**:
 $$R_e \propto \sigma_v^{1.4}\,\langle I\rangle_e^{-0.9}$$
 
-both projections of the underlying virial relation. used as galaxy distance indicators ([Fundamental plane of ellipticals](Fundamental%20plane%20of%20ellipticals.html)).
+both projections of the underlying virial relation. used as galaxy distance indicators ([[Fundamental plane of ellipticals]]).
 
 ## $M-\sigma$ relation for SMBHs
 
@@ -73,25 +73,25 @@ modern IFU (MUSE, MaNGA) maps $\sigma_v$ across galaxies, recovering both rotati
 
 ## see also
 
-- [Stellar velocity from Doppler shift](Stellar%20velocity%20from%20Doppler%20shift.html)
-- [Stellar v sin i from line shape](Stellar%20v%20sin%20i%20from%20line%20shape.html)
-- [Rotational broadening](Rotational%20broadening.html)
-- [Macroturbulence](Macroturbulence.html)
-- [Calcium and CaII H+K](Calcium%20and%20CaII%20H%2BK.html)
-- [Fundamental plane of ellipticals](Fundamental%20plane%20of%20ellipticals.html)
-- [Tully-Fisher relation](Tully-Fisher%20relation.html)
-- [Magorrian relation](Magorrian%20relation.html)
-- [Integral-field spectroscopy IFU](Integral-field%20spectroscopy%20IFU.html)
-- [Galactic Center](Galactic%20Center.html)
+- [[Stellar velocity from Doppler shift]]
+- [[Stellar v sin i from line shape]]
+- [[Rotational broadening]]
+- [[Macroturbulence]]
+- [[Calcium and CaII H+K]]
+- [[Fundamental plane of ellipticals]]
+- [[Tully-Fisher relation]]
+- [[Magorrian relation]]
+- [[Integral-field spectroscopy IFU]]
+- [[Galactic Center]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Integral-field%20spectroscopy%20IFU.html" class="backlink-item">Integral-field spectroscopy IFU</a></li>
-    <li class="backlink-item-wrap"><a href="LOSVD.html" class="backlink-item">LOSVD</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20v%20sin%20i%20from%20line%20shape.html" class="backlink-item">Stellar v sin i from line shape</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20velocity%20from%20Doppler%20shift.html" class="backlink-item">Stellar velocity from Doppler shift</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Integral-field spectroscopy IFU]]
+- [[LOSVD]]
+- [[Stellar v sin i from line shape]]
+- [[Stellar velocity from Doppler shift]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 

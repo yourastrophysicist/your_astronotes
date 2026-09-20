@@ -77,18 +77,18 @@ Note: extra electrons or extra holes do **not** make the materials charged,
 
 ## Subtopics
 
-- [The p-n junction](The%20p-n%20junction.html)
-- [CCD readout](CCD%20readout.html)
-- [Quantum efficiency](Quantum%20efficiency.html)
-- [CCDs for X-rays](CCDs%20for%20X-rays.html)
+- [[The p-n junction]]
+- [[CCD readout]]
+- [[Quantum efficiency]]
+- [[CCDs for X-rays]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="CCD%20basics.html" class="backlink-item">CCD basics</a></li>
-    <li class="backlink-item-wrap"><a href="CCD%20readout%20chain.html" class="backlink-item">CCD readout chain</a></li>
-    <li class="backlink-item-wrap"><a href="Other%20detectors.html" class="backlink-item">Other detectors</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[CCD basics]]
+- [[CCD readout chain]]
+- [[Other detectors]]
+- [[Lab_High-Energy_MOC]]
+
 

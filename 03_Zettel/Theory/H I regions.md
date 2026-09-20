@@ -4,7 +4,7 @@ title: "H I regions"
 ---
 # H I Regions and the 21 cm Line
 
-Parent [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html) · [Dark matter rotation curves](Dark%20matter%20rotation%20curves.html) · [Tully-Fisher relation](Tully-Fisher%20relation.html)
+Parent [[Astrophysics_of_Galaxies_MOC]] · [[Dark matter rotation curves]] · [[Tully-Fisher relation]]
 
 ## 1. Physical Properties and the Two-Phase Neutral Medium
 
@@ -163,7 +163,7 @@ This creates two sharp intensity peaks at the approaching and receding edges of 
 Correcting for disk inclination $i$ gives the maximum circular rotation speed
 $$v_{\text{max}} \approx \frac{W_{50}}{2 \sin i}$$
 
-This kinematic measurement forms the primary empirical backbone of the [Tully-Fisher relation](Tully-Fisher%20relation.html).
+This kinematic measurement forms the primary empirical backbone of the [[Tully-Fisher relation]].
 
 ### H I Deficiency in Galaxy Clusters
 
@@ -242,9 +242,9 @@ Key quantitative takeaways for the blackboard
 
 ## Connections
 
-- Rotation curves - [Dark matter rotation curves](Dark%20matter%20rotation%20curves.html), [Tully-Fisher relation](Tully-Fisher%20relation.html)
-- Environmental physics - [Galaxy color, density and morphology](Galaxy%20color%2C%20density%20and%20morphology.html), [Halo gravity suppression of galaxy formation](Halo%20gravity%20suppression%20of%20galaxy%20formation.html)
-- ISM and star formation - [Molecular clouds](Molecular%20clouds.html), [Schmidt-Kennicutt law](Schmidt-Kennicutt%20law.html)
+- Rotation curves - [[Dark matter rotation curves]], [[Tully-Fisher relation]]
+- Environmental physics - [[Galaxy color, density and morphology]], [[Halo gravity suppression of galaxy formation]]
+- ISM and star formation - [[Molecular clouds]], [[Schmidt-Kennicutt law]]
 
 ---
 
@@ -260,17 +260,17 @@ Key quantitative takeaways for the blackboard
 
 ![gal_ism-23.png](../../assets/images/gal_ism-23.png)
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (8)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="H%20II%20region%20spectroscopy.html" class="backlink-item">H II region spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="Intergalactic%20medium.html" class="backlink-item">Intergalactic medium</a></li>
-    <li class="backlink-item-wrap"><a href="Molecular%20clouds.html" class="backlink-item">Molecular clouds</a></li>
-    <li class="backlink-item-wrap"><a href="Photodissociation%20regions%20PDRs.html" class="backlink-item">Photodissociation regions PDRs</a></li>
-    <li class="backlink-item-wrap"><a href="Stromgren%20sphere.html" class="backlink-item">Stromgren sphere</a></li>
-    <li class="backlink-item-wrap"><a href="Virgo%20cluster.html" class="backlink-item">Virgo cluster</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[H II region spectroscopy]]
+- [[Intergalactic medium]]
+- [[Molecular clouds]]
+- [[Photodissociation regions PDRs]]
+- [[Stromgren sphere]]
+- [[Virgo cluster]]
+- [[Astronomical_Spectroscopy_MOC]]
+- [[Astrophysics_of_Galaxies_MOC]]
+
 

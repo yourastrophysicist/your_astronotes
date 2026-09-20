@@ -52,26 +52,26 @@ H I lines become **strongest at $T \sim 10\,000$ K** (A-type stars) for a hard p
 
 ## see also
 
-- [Boltzmann equation in spectroscopy](Boltzmann%20equation%20in%20spectroscopy.html)
-- [Saha ionisation equation](Saha%20ionisation%20equation.html)
-- [Hydrogen spectral series](Hydrogen%20spectral%20series.html)
-- [Helium population vs T](Helium%20population%20vs%20T.html)
-- [Population of excited levels](Population%20of%20excited%20levels.html)
-- [Why the Sequence OBAFGKM](Why%20the%20Sequence%20OBAFGKM.html)
-- [Stellar spectra and spectral classification](Stellar%20spectra%20and%20spectral%20classification.html)
+- [[Boltzmann equation in spectroscopy]]
+- [[Saha ionisation equation]]
+- [[Hydrogen spectral series]]
+- [[Helium population vs T]]
+- [[Population of excited levels]]
+- [[Why the Sequence OBAFGKM]]
+- [[Stellar spectra and spectral classification]]
 - Energy level diagrams Grötrian
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (8)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Boltzmann%20equation%20in%20spectroscopy.html" class="backlink-item">Boltzmann equation in spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="Helium%20population%20vs%20T.html" class="backlink-item">Helium population vs T</a></li>
-    <li class="backlink-item-wrap"><a href="History%20of%20stellar%20classification.html" class="backlink-item">History of stellar classification</a></li>
-    <li class="backlink-item-wrap"><a href="Hydrogen%20spectral%20series.html" class="backlink-item">Hydrogen spectral series</a></li>
-    <li class="backlink-item-wrap"><a href="Population%20of%20excited%20levels.html" class="backlink-item">Population of excited levels</a></li>
-    <li class="backlink-item-wrap"><a href="Saha%20ionisation%20equation.html" class="backlink-item">Saha ionisation equation</a></li>
-    <li class="backlink-item-wrap"><a href="Why%20the%20Sequence%20OBAFGKM.html" class="backlink-item">Why the Sequence OBAFGKM</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Boltzmann equation in spectroscopy]]
+- [[Helium population vs T]]
+- [[History of stellar classification]]
+- [[Hydrogen spectral series]]
+- [[Population of excited levels]]
+- [[Saha ionisation equation]]
+- [[Why the Sequence OBAFGKM]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 

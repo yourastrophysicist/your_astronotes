@@ -125,17 +125,17 @@ or set `bounds_error=True` (default in many scipy interpolators) to raise an err
 
 ## see also
 
-- [Linear interpolation](Linear%20interpolation.html)
-- [Cubic spline interpolation](Cubic%20spline%20interpolation.html)
-- [Lagrange polynomial interpolation](Lagrange%20polynomial%20interpolation.html)
-- [Scipy interpolation tools](Scipy%20interpolation%20tools.html)
-- [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
+- [[Linear interpolation]]
+- [[Cubic spline interpolation]]
+- [[Lagrange polynomial interpolation]]
+- [[Scipy interpolation tools]]
+- [[Mathematical_Numerical_Methods_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Scipy%20interpolation%20tools.html" class="backlink-item">Scipy interpolation tools</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Scipy interpolation tools]]
+- [[Mathematical_Numerical_Methods_MOC]]
+
 

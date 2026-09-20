@@ -7,7 +7,7 @@ tags: ""
 
 *Course: Astrophysics of the Interstellar Medium, Master in Astrophysics and Cosmology, Università degli Studi di Padova*  
 *Lecturer: Prof. Giovanni Carraro*  
-*Index: [Astrophysics_of_the_Interstellar_Medium_MOC](../../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html)*
+*Index: [[Astrophysics_of_the_Interstellar_Medium_MOC]]*
 
 ---
 
@@ -172,12 +172,12 @@ the historical benchmark survey is the **Haslam et al. (1982) $408\text{ MHz}$ a
 
 ## see also
 
-- [Astrophysics_of_the_Interstellar_Medium_MOC](../../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html)
-- [Interstellar magnetic field tracers](../../../03_Zettel/Theory/Interstellar%20magnetic%20field%20tracers.html)
-- [Faraday rotation and pulsar dispersion measure](../../../03_Zettel/Theory/Faraday%20rotation%20and%20pulsar%20dispersion%20measure.html)
-- [Carraro_01_Introduction_and_Multi-phase_ISM](./Carraro_01_Introduction_and_Multi-phase_ISM.html)
-- [Carraro_05_Interstellar_Dust_and_Extinction](./Carraro_05_Interstellar_Dust_and_Extinction.html)
-- [Carraro_08_Shocks_Turbulence_and_MHD_Waves](./Carraro_08_Shocks_Turbulence_and_MHD_Waves.html)
+- [[Astrophysics_of_the_Interstellar_Medium_MOC]]
+- [[Interstellar magnetic field tracers]]
+- [[Faraday rotation and pulsar dispersion measure]]
+- [[Carraro_01_Introduction_and_Multi-phase_ISM]]
+- [[Carraro_05_Interstellar_Dust_and_Extinction]]
+- [[Carraro_08_Shocks_Turbulence_and_MHD_Waves]]
 
 
 ## Lecture Visuals & Magnetic Field Probes
@@ -185,13 +185,13 @@ the historical benchmark survey is the **Haslam et al. (1982) $408\text{ MHz}$ a
 ![Interstellar Magnetic Fields and Alfvén Dynamics](../../../assets/images/ism_alfven_p01.png)
 *Figure ISM-10: Interstellar Magnetic Fields and Alfvénic Perturbations. Observational tracers include starlight polarization via paramagnetic dust alignment (Davis-Greenstein mechanism), pulsar Faraday rotation measures $\mathrm{RM} \propto \int n_e B_\parallel ds$, and Zeeman splitting in molecular clouds.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Alfven%20and%20magnetosonic%20waves.html" class="backlink-item">Alfven and magnetosonic waves</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Faraday%20rotation%20and%20pulsar%20dispersion%20measure.html" class="backlink-item">Faraday rotation and pulsar dispersion measure</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Interstellar%20magnetic%20field%20tracers.html" class="backlink-item">Interstellar magnetic field tracers</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html" class="backlink-item">Astrophysics_of_the_Interstellar_Medium_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Alfven and magnetosonic waves]]
+- [[Faraday rotation and pulsar dispersion measure]]
+- [[Interstellar magnetic field tracers]]
+- [[Astrophysics_of_the_Interstellar_Medium_MOC]]
+
 

@@ -5,7 +5,7 @@ title: "Malavolta 06 - Python Class Design for Photometry Pipelines"
 # Malavolta 06 — Python Class Design for Photometry Pipelines
 
 *Astrophysics Laboratory 2, Prof. Luca Malavolta*  
-*Index: [Astrophysics_Laboratory_2_MOC](../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html)*
+*Index: [[Astrophysics_Laboratory_2_MOC]]*
 
 ---
 
@@ -120,15 +120,15 @@ with open('photometry_results.pkl', 'wb') as f:
 ---
 
 ## Related Notes
-- [Python Class Architecture for Astronomical Pipelines](../../../03_Zettel/Computational/Python%20Class%20Architecture%20for%20Astronomical%20Pipelines.html)
-- [Malavolta 05 - Local Background Subtraction and Aperture Photometry](./Malavolta%2005%20-%20Local%20Background%20Subtraction%20and%20Aperture%20Photometry.html)
-- [Malavolta 07 - Differential Photometry and Atmospheric Detrending](./Malavolta%2007%20-%20Differential%20Photometry%20and%20Atmospheric%20Detrending.html)
+- [[Python Class Architecture for Astronomical Pipelines]]
+- [[Malavolta 05 - Local Background Subtraction and Aperture Photometry]]
+- [[Malavolta 07 - Differential Photometry and Atmospheric Detrending]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Computational/Python%20Class%20Architecture%20for%20Astronomical%20Pipelines.html" class="backlink-item">Python Class Architecture for Astronomical Pipelines</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Python Class Architecture for Astronomical Pipelines]]
+- [[Astrophysics_Laboratory_2_MOC]]
+
 

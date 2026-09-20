@@ -43,22 +43,22 @@ $$V^{1/4} \approx 1.88 \times 10^{16}\text{ GeV} \left(\frac{r}{0.10}\right)^{1/
 
 ## connections & zettel links
 
-* parent moc: [Cosmology_of_the_Early_Universe_MOC](../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html)
+* parent moc: [[Cosmology_of_the_Early_Universe_MOC]]
 * related zettels:
-  - [Tensor perturbations and primordial gravitational waves](Tensor%20perturbations%20and%20primordial%20gravitational%20waves.html)
-  - [Consistency relation of single-field slow-roll inflation](Consistency%20relation%20of%20single-field%20slow-roll%20inflation.html)
-  - [Lyth bound and field excursion](Lyth%20bound%20and%20field%20excursion.html)
-  - [Part3_Quantum_Perturbations_and_Power_Spectra](../../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part3_Quantum_Perturbations_and_Power_Spectra.html)
+  - [[Tensor perturbations and primordial gravitational waves]]
+  - [[Consistency relation of single-field slow-roll inflation]]
+  - [[Lyth bound and field excursion]]
+  - [[Part3_Quantum_Perturbations_and_Power_Spectra]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Consistency%20relation%20of%20single-field%20slow-roll%20inflation.html" class="backlink-item">Consistency relation of single-field slow-roll inflation</a></li>
-    <li class="backlink-item-wrap"><a href="Large-field%20versus%20small-field%20inflation%20models.html" class="backlink-item">Large-field versus small-field inflation models</a></li>
-    <li class="backlink-item-wrap"><a href="Lyth%20bound%20and%20field%20excursion.html" class="backlink-item">Lyth bound and field excursion</a></li>
-    <li class="backlink-item-wrap"><a href="Starobinsky%20R-squared%20inflation.html" class="backlink-item">Starobinsky R-squared inflation</a></li>
-    <li class="backlink-item-wrap"><a href="Tensor%20perturbations%20and%20primordial%20gravitational%20waves.html" class="backlink-item">Tensor perturbations and primordial gravitational waves</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html" class="backlink-item">Cosmology_of_the_Early_Universe_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Consistency relation of single-field slow-roll inflation]]
+- [[Large-field versus small-field inflation models]]
+- [[Lyth bound and field excursion]]
+- [[Starobinsky R-squared inflation]]
+- [[Tensor perturbations and primordial gravitational waves]]
+- [[Cosmology_of_the_Early_Universe_MOC]]
+
 

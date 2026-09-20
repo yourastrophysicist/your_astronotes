@@ -55,22 +55,22 @@ novae are **single-degenerate analogs** of SN Ia progenitors, but at much lower 
 
 ## see also
 
-- [Emission line stars](Emission%20line%20stars.html)
-- [Symbiotic star spectroscopy](Symbiotic%20star%20spectroscopy.html)
-- [Supernova spectroscopy](Supernova%20spectroscopy.html)
-- [Type Ia supernovae as standard candles](Type%20Ia%20supernovae%20as%20standard%20candles.html)
-- [Hydrogen spectral series](Hydrogen%20spectral%20series.html)
-- [OIII forbidden lines](OIII%20forbidden%20lines.html)
-- [Forbidden lines](Forbidden%20lines.html)
-- [Recombination continuum](Recombination%20continuum.html)
+- [[Emission line stars]]
+- [[Symbiotic star spectroscopy]]
+- [[Supernova spectroscopy]]
+- [[Type Ia supernovae as standard candles]]
+- [[Hydrogen spectral series]]
+- [[OIII forbidden lines]]
+- [[Forbidden lines]]
+- [[Recombination continuum]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Emission%20line%20stars.html" class="backlink-item">Emission line stars</a></li>
-    <li class="backlink-item-wrap"><a href="Supernova%20spectroscopy.html" class="backlink-item">Supernova spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="Symbiotic%20star%20spectroscopy.html" class="backlink-item">Symbiotic star spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Emission line stars]]
+- [[Supernova spectroscopy]]
+- [[Symbiotic star spectroscopy]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 

@@ -81,15 +81,15 @@ The spectrum is defined within $[\nu_{min}, \nu_{max}]$:
 	when $\nu < \nu_{min}$: $f_\nu \propto \nu^{1/3}$
 	when $\nu > \nu_{max}$: $f_\nu \propto e^{-\nu/\nu_{max}}$ (drops quickly)
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Free-free%20continuum.html" class="backlink-item">Free-free continuum</a></li>
-    <li class="backlink-item-wrap"><a href="Radiative%20Processes.html" class="backlink-item">Radiative Processes</a></li>
-    <li class="backlink-item-wrap"><a href="Supernova%20remnant%20spectroscopy.html" class="backlink-item">Supernova remnant spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="Synchrotron%20continuum.html" class="backlink-item">Synchrotron continuum</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Free-free continuum]]
+- [[Radiative Processes]]
+- [[Supernova remnant spectroscopy]]
+- [[Synchrotron continuum]]
+- [[Astronomical_Spectroscopy_MOC]]
+- [[Lab_High-Energy_MOC]]
+
 

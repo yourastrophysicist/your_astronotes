@@ -9,7 +9,7 @@ title: "Course_Overview_and_Syllabus"
 *Lecturer: Prof. Nicola Bartolo (office 236, bartolo@pd.infn.it)*  
 *Academic Year: 2026/2027 (Pre-class compilation from 2024-2026 materials)*  
 
-Index: [Cosmology_of_the_Early_Universe_MOC](../../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html)
+Index: [[Cosmology_of_the_Early_Universe_MOC]]
 
 ---
 
@@ -54,14 +54,14 @@ The examination is a comprehensive oral exam. Assessment is based on:
   - FLRW metric, Friedmann equations, conformal time, horizons versus Hubble radius
   - The horizon problem, flatness problem, and topological defects (monopoles, domain walls, cosmic strings)
   - Kinematics of accelerated expansion and de Sitter spacetime
-  - Note: [Part1_Standard_Big_Bang_and_Shortcomings](./Part1_Standard_Big_Bang_and_Shortcomings.html)
+  - Note: [[Part1_Standard_Big_Bang_and_Shortcomings]]
 
 * **Module 2: Inflationary Dynamics and Inflaton Models** (Lectures 9 to 16)
   - Dynamics of a real scalar field in expanding spacetime, energy momentum tensor as a perfect fluid
   - Klein-Gordon equation, slow-roll approximation, potential parameters $\epsilon_V, \eta_V$, Hubble parameters $\epsilon, \eta$
   - Number of e-folds, horizon exit, large-field vs small-field models, natural inflation, Starobinsky $R^2$
   - Cosmic no-hair theorem and the $\eta$-problem
-  - Note: [Part2_Inflation_Kinematics_Dynamics_and_Models](./Part2_Inflation_Kinematics_Dynamics_and_Models.html)
+  - Note: [[Part2_Inflation_Kinematics_Dynamics_and_Models]]
 
 * **Module 3: Generation of Cosmological Perturbations** (Lectures 17 to 23)
   - Quantization of inflaton fluctuations in conformal time
@@ -70,7 +70,7 @@ The examination is a comprehensive oral exam. Assessment is based on:
   - Scalar power spectrum $\mathcal{P}_\mathcal{R}(k)$, spectral index $n_s$
   - Metric tensor perturbations (primordial gravitational waves), tensor power spectrum $\mathcal{P}_T(k)$, tensor tilt $n_T$, tensor-to-scalar ratio $r$
   - Energy scale of inflation, Lyth bound, Planck/BICEP observational constraints
-  - Note: [Part3_Quantum_Perturbations_and_Power_Spectra](./Part3_Quantum_Perturbations_and_Power_Spectra.html)
+  - Note: [[Part3_Quantum_Perturbations_and_Power_Spectra]]
 
 * **Module 4: Advanced Formalisms and Primordial Non-Gaussianity** (Lectures 24 to 27)
   - Limitations of the 2-point function, bispectrum as a diagnostic of early universe interactions
@@ -79,14 +79,14 @@ The examination is a comprehensive oral exam. Assessment is based on:
   - Parameter $f_{\rm NL}$, bispectrum shapes (local, equilateral, orthogonal)
   - Maldacena's consistency condition for single-field slow-roll
   - Models with non-canonical kinetic terms $\mathcal{L}(X, \phi)$ and sound speed $c_s$
-  - Note: [Part4_Advanced_Formalisms_and_Non_Gaussianity](./Part4_Advanced_Formalisms_and_Non_Gaussianity.html)
+  - Note: [[Part4_Advanced_Formalisms_and_Non_Gaussianity]]
 
 * **Module 5: Relativistic Cosmological Perturbation Theory** (Lectures 28 to 30)
   - Linear metric perturbations, scalar-vector-tensor (SVT) decomposition
   - Gauge transformations under coordinate shifts, Lie derivatives, gauge artifacts
   - Bardeen gravitational potentials $\Phi, \Psi$, comoving curvature perturbation $\mathcal{R}$, uniform density perturbation $\zeta$
   - Linearly perturbed Einstein equations, comoving-orthogonal gauge, gauge-invariant density perturbation $\epsilon_m$, relativistic Poisson equation
-  - Note: [Part5_GR_Cosmological_Perturbation_Theory](./Part5_GR_Cosmological_Perturbation_Theory.html)
+  - Note: [[Part5_GR_Cosmological_Perturbation_Theory]]
 
 * **Module 6: Reheating, Baryogenesis, and Dark Matter Relics** (Lectures 31 to 34)
   - Post-inflationary coherent oscillations of the inflaton, effective matter era ($w = 0$)
@@ -95,8 +95,8 @@ The examination is a comprehensive oral exam. Assessment is based on:
   - Baryon asymmetry of the universe, Sakharov conditions, Boltzmann transport equation
   - Out-of-equilibrium decay of heavy particles (Weinberg model), washout parameter $K$, electroweak sphalerons, leptogenesis
   - Dark matter production: thermal freeze-out, Hot DM (neutrinos, free streaming, structure erasure), Cold DM (WIMP miracle), non-thermal relics (axions, vacuum misalignment)
-  - Note: [Part6_Reheating_Baryogenesis_and_Dark_Matter](./Part6_Reheating_Baryogenesis_and_Dark_Matter.html)
+  - Note: [[Part6_Reheating_Baryogenesis_and_Dark_Matter]]
 
 * **Module 7: Exercises and Oral Exam Applications**
   - Full analytical solutions and physical discussion of the 31 problems assigned in `Homework_2025_2026.pdf`
-  - Note: [Bartolo_Exam_Exercises_and_Applications_Guide](./Bartolo_Exam_Exercises_and_Applications_Guide.html)
+  - Note: [[Bartolo_Exam_Exercises_and_Applications_Guide]]

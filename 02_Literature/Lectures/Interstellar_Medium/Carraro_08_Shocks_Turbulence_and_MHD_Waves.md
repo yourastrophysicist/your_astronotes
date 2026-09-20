@@ -7,7 +7,7 @@ tags: ""
 
 *Course: Astrophysics of the Interstellar Medium, Master in Astrophysics and Cosmology, Università degli Studi di Padova*  
 *Lecturer: Prof. Giovanni Carraro*  
-*Index: [Astrophysics_of_the_Interstellar_Medium_MOC](../../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html)*
+*Index: [[Astrophysics_of_the_Interstellar_Medium_MOC]]*
 
 ---
 
@@ -238,13 +238,13 @@ which mathematically embodies **Alfvén's Flux Freezing Theorem**: magnetic fiel
 
 ## see also
 
-- [Astrophysics_of_the_Interstellar_Medium_MOC](../../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html)
-- [Rankine-Hugoniot shock jump conditions](../../../03_Zettel/Theory/Rankine-Hugoniot%20shock%20jump%20conditions.html)
-- [Interstellar turbulence and Kolmogorov cascade](../../../03_Zettel/Theory/Interstellar%20turbulence%20and%20Kolmogorov%20cascade.html)
+- [[Astrophysics_of_the_Interstellar_Medium_MOC]]
+- [[Rankine-Hugoniot shock jump conditions]]
+- [[Interstellar turbulence and Kolmogorov cascade]]
 - Alfvén and magnetosonic waves
-- [Carraro_01_Introduction_and_Multi-phase_ISM](./Carraro_01_Introduction_and_Multi-phase_ISM.html)
-- [Carraro_06_Supernovae_and_Hot_Ionized_Medium](./Carraro_06_Supernovae_and_Hot_Ionized_Medium.html)
-- [Carraro_07_Interstellar_Magnetic_Fields](./Carraro_07_Interstellar_Magnetic_Fields.html)
+- [[Carraro_01_Introduction_and_Multi-phase_ISM]]
+- [[Carraro_06_Supernovae_and_Hot_Ionized_Medium]]
+- [[Carraro_07_Interstellar_Magnetic_Fields]]
 
 
 ## Lecture Visuals & Shock Hydrodynamics
@@ -258,13 +258,13 @@ which mathematically embodies **Alfvén's Flux Freezing Theorem**: magnetic fiel
 ![MHD Shock Front Discontinuities](../../../assets/images/ism_shocks_p08.png)
 *Figure ISM-13: Magnetohydrodynamic shock solutions (Fast, Intermediate, Slow, and Switch-on shocks) illustrating magnetic field compression and Alfvénic Mach number transitions.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Alfven%20and%20magnetosonic%20waves.html" class="backlink-item">Alfven and magnetosonic waves</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Interstellar%20turbulence%20and%20Kolmogorov%20cascade.html" class="backlink-item">Interstellar turbulence and Kolmogorov cascade</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Rankine-Hugoniot%20shock%20jump%20conditions.html" class="backlink-item">Rankine-Hugoniot shock jump conditions</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html" class="backlink-item">Astrophysics_of_the_Interstellar_Medium_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Alfven and magnetosonic waves]]
+- [[Interstellar turbulence and Kolmogorov cascade]]
+- [[Rankine-Hugoniot shock jump conditions]]
+- [[Astrophysics_of_the_Interstellar_Medium_MOC]]
+
 

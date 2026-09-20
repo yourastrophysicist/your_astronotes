@@ -339,25 +339,25 @@ with the master equations of spherical trigonometry I can transform between any 
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Appendix E - Astronomical coordinates](Appendix%20E%20-%20Astronomical%20coordinates.html) — short reference card, also covers vernal equinox, precession, J2000
-- [Earth coordinates](Earth%20coordinates.html)
-- [Equatorial system](Equatorial%20system.html)
-- [Horizontal alt-azimuth system](Horizontal%20alt-azimuth%20system.html)
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Appendix E - Astronomical coordinates]] — short reference card, also covers vernal equinox, precession, J2000
+- [[Earth coordinates]]
+- [[Equatorial system]]
+- [[Horizontal alt-azimuth system]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (10)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Alt-azimuth%20equatorial%20transformations.html" class="backlink-item">Alt-azimuth equatorial transformations</a></li>
-    <li class="backlink-item-wrap"><a href="Alt-azimuth%20%E2%86%94%20equatorial%20transformations.html" class="backlink-item">Alt-azimuth ↔ equatorial transformations</a></li>
-    <li class="backlink-item-wrap"><a href="Celestial%20sphere%20and%20great%20circles.html" class="backlink-item">Celestial sphere and great circles</a></li>
-    <li class="backlink-item-wrap"><a href="Culmination%20and%20rise-set.html" class="backlink-item">Culmination and rise-set</a></li>
-    <li class="backlink-item-wrap"><a href="Earth%20coordinates.html" class="backlink-item">Earth coordinates</a></li>
-    <li class="backlink-item-wrap"><a href="Equatorial%20system.html" class="backlink-item">Equatorial system</a></li>
-    <li class="backlink-item-wrap"><a href="Fundamentals_course_intro.html" class="backlink-item">Fundamentals_course_intro</a></li>
-    <li class="backlink-item-wrap"><a href="Horizontal%20alt-azimuth%20system.html" class="backlink-item">Horizontal alt-azimuth system</a></li>
-    <li class="backlink-item-wrap"><a href="Sidereal%20vs%20solar%20time.html" class="backlink-item">Sidereal vs solar time</a></li>
-    <li class="backlink-item-wrap"><a href="Spherical%20trigonometry.html" class="backlink-item">Spherical trigonometry</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Alt-azimuth equatorial transformations]]
+- [[Alt-azimuth ↔ equatorial transformations]]
+- [[Celestial sphere and great circles]]
+- [[Culmination and rise-set]]
+- [[Earth coordinates]]
+- [[Equatorial system]]
+- [[Fundamentals_course_intro]]
+- [[Horizontal alt-azimuth system]]
+- [[Sidereal vs solar time]]
+- [[Spherical trigonometry]]
+
 

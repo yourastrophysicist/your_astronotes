@@ -153,11 +153,11 @@ Because of its moderate distance, Virgo played a pivotal role in resolving the 2
 
 ## 7. Cross-References and Related Notes
 
-- [Coma cluster](Coma%20cluster.html) - Archetype of rich regular clusters and Zwicky Virial discovery
-- [Local Group galaxies](Local%20Group%20galaxies.html) - Kahn-Woltjer timing argument and local structure
-- [Galaxy color, density and morphology](Galaxy%20color%2C%20density%20and%20morphology.html) - Dressler morphology-density relation
-- [H I regions](H%20I%20regions.html) - 21 cm line emission and gas reservoirs
-- [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html) - Master Map of Content for course
+- [[Coma cluster]] - Archetype of rich regular clusters and Zwicky Virial discovery
+- [[Local Group galaxies]] - Kahn-Woltjer timing argument and local structure
+- [[Galaxy color, density and morphology]] - Dressler morphology-density relation
+- [[H I regions]] - 21 cm line emission and gas reservoirs
+- [[Astrophysics_of_Galaxies_MOC]] - Master Map of Content for course
 
 ---
 
@@ -172,12 +172,12 @@ Because of its moderate distance, Virgo played a pivotal role in resolving the 2
 ![gal_lg-25.png](../../assets/images/gal_lg-25.png)
 *Figure 3 - VLA H I contours showing truncated disks and ram-pressure stripped tails in Virgo spirals.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Coma%20cluster.html" class="backlink-item">Coma cluster</a></li>
-    <li class="backlink-item-wrap"><a href="Local%20Group%20galaxies.html" class="backlink-item">Local Group galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Coma cluster]]
+- [[Local Group galaxies]]
+- [[Astrophysics_of_Galaxies_MOC]]
+
 

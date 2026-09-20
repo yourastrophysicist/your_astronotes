@@ -48,16 +48,16 @@ implemented in state-of-the-art astrophysical packages:
 
 ## see also
 
-- [Computational_Astrophysics_MOC](../../04_Atlas/Computational_Astrophysics_MOC.html)
-- [10_Nested_Sampling_and_Evidence_Computation](../../02_Literature/Lectures/Computational_Astrophysics/10_Nested_Sampling_and_Evidence_Computation.html)
-- [Exoplanet atmospheric retrieval and TauREx framework](Exoplanet%20atmospheric%20retrieval%20and%20TauREx%20framework.html)
-- [Affine-Invariant Ensemble MCMC with emcee](Affine-Invariant%20Ensemble%20MCMC%20with%20emcee.html)
+- [[Computational_Astrophysics_MOC]]
+- [[10_Nested_Sampling_and_Evidence_Computation]]
+- [[Exoplanet atmospheric retrieval and TauREx framework]]
+- [[Affine-Invariant Ensemble MCMC with emcee]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Exoplanet%20atmospheric%20retrieval%20and%20TauREx%20framework.html" class="backlink-item">Exoplanet atmospheric retrieval and TauREx framework</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Exoplanet atmospheric retrieval and TauREx framework]]
+- [[Computational_Astrophysics_MOC]]
+
 

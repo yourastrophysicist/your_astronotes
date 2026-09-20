@@ -46,7 +46,7 @@ quantitatively, the linear law:
 $$I_\nu(\mu) = I_\nu(1)\,(1 - u + u\mu)$$
 with $u$ the limb-darkening coefficient ($\sim 0.5$ in the Sun's V-band).
 
-see [Limb darkening](Limb%20darkening.html).
+see [[Limb darkening]].
 
 ## limitations
 
@@ -58,25 +58,25 @@ modern stellar-atmosphere codes (PHOENIX, MARCS, ATLAS9) bypass Eddington-Barbie
 
 ## see also
 
-- [Equation of radiative transfer](Equation%20of%20radiative%20transfer.html)
-- [Optical depth](Optical%20depth.html)
-- [Source function](Source%20function.html)
-- [Local thermodynamic equilibrium LTE](Local%20thermodynamic%20equilibrium%20LTE.html)
-- [Limb darkening](Limb%20darkening.html)
-- [Stellar atmosphere structure](Stellar%20atmosphere%20structure.html)
-- [Continuum opacity sources](Continuum%20opacity%20sources.html)
-- [Bolometric correction and effective temperature](Bolometric%20correction%20and%20effective%20temperature.html)
+- [[Equation of radiative transfer]]
+- [[Optical depth]]
+- [[Source function]]
+- [[Local thermodynamic equilibrium LTE]]
+- [[Limb darkening]]
+- [[Stellar atmosphere structure]]
+- [[Continuum opacity sources]]
+- [[Bolometric correction and effective temperature]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Equation%20of%20radiative%20transfer.html" class="backlink-item">Equation of radiative transfer</a></li>
-    <li class="backlink-item-wrap"><a href="Limb%20darkening.html" class="backlink-item">Limb darkening</a></li>
-    <li class="backlink-item-wrap"><a href="Optical%20depth.html" class="backlink-item">Optical depth</a></li>
-    <li class="backlink-item-wrap"><a href="Source%20function.html" class="backlink-item">Source function</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20atmosphere%20structure.html" class="backlink-item">Stellar atmosphere structure</a></li>
-    <li class="backlink-item-wrap"><a href="Thermal%20continuum%20from%20stellar%20photosphere.html" class="backlink-item">Thermal continuum from stellar photosphere</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Equation of radiative transfer]]
+- [[Limb darkening]]
+- [[Optical depth]]
+- [[Source function]]
+- [[Stellar atmosphere structure]]
+- [[Thermal continuum from stellar photosphere]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 

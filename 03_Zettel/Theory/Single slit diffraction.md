@@ -24,27 +24,27 @@ narrower for wider slits, broader for narrower slits. classical Heisenberg-style
 
 every component of a spectrograph (slit, grating, camera) has a finite aperture, so each contributes a single-slit diffraction envelope to the final image. the slit at the focal plane sets the **slit-image** width on the detector; the dispersing element (grating) introduces the second envelope.
 
-in particular, the **grating envelope**: each individual groove of an N-slit grating diffracts as a single slit of width $b$, modulating the otherwise sharp grating maxima. the result is the [N-slit interference and gratings](N-slit%20interference%20and%20gratings.html) pattern: sharp principal maxima sitting *under* a single-slit envelope.
+in particular, the **grating envelope**: each individual groove of an N-slit grating diffracts as a single slit of width $b$, modulating the otherwise sharp grating maxima. the result is the [[N-slit interference and gratings]] pattern: sharp principal maxima sitting *under* a single-slit envelope.
 
 this envelope is what makes the **blazed grating** useful: by tilting the groove face you shift the single-slit envelope to peak at a chosen order/wavelength, dramatically increasing throughput there.
 
 ## see also
 
-- [N-slit interference and gratings](N-slit%20interference%20and%20gratings.html)
-- [Grating equation](Grating%20equation.html)
-- [Blazed gratings](Blazed%20gratings.html)
-- [Spectrograph design](Spectrograph%20design.html)
-- [Dispersion and spectral resolution](Dispersion%20and%20spectral%20resolution.html)
-- [Rayleigh criterion](Rayleigh%20criterion.html)
+- [[N-slit interference and gratings]]
+- [[Grating equation]]
+- [[Blazed gratings]]
+- [[Spectrograph design]]
+- [[Dispersion and spectral resolution]]
+- [[Rayleigh criterion]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Blazed%20gratings.html" class="backlink-item">Blazed gratings</a></li>
-    <li class="backlink-item-wrap"><a href="Dispersion%20and%20spectral%20resolution.html" class="backlink-item">Dispersion and spectral resolution</a></li>
-    <li class="backlink-item-wrap"><a href="Grating%20equation.html" class="backlink-item">Grating equation</a></li>
-    <li class="backlink-item-wrap"><a href="N-slit%20interference%20and%20gratings.html" class="backlink-item">N-slit interference and gratings</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Blazed gratings]]
+- [[Dispersion and spectral resolution]]
+- [[Grating equation]]
+- [[N-slit interference and gratings]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 

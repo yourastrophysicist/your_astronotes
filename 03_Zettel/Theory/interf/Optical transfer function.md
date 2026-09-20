@@ -106,28 +106,23 @@ source: local study diagram generated from the Abbe/Fourier-optics interpretatio
 
 ## see also
 
-- [Point spread function](Point%20spread%20function.html)
-- [Fraunhofer diffraction](Fraunhofer%20diffraction.html)
-- [The (u, v) plane](The%20%28u%2C%20v%29%20plane.html)
-- [Aperture synthesis principle](Aperture%20synthesis%20principle.html)
-- [CLEAN algorithm](CLEAN%20algorithm.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Point spread function]]
+- [[Fraunhofer diffraction]]
+- [[The (u, v) plane]]
+- [[Aperture synthesis principle]]
+- [[CLEAN algorithm]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (12)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Abbe%20experiment%20and%20Fourier%20optics.html" class="backlink-item">Abbe experiment and Fourier optics</a></li>
-    <li class="backlink-item-wrap"><a href="../Beam%20power%20pattern%20of%20a%20radio%20telescope.html" class="backlink-item">Beam power pattern of a radio telescope</a></li>
-    <li class="backlink-item-wrap"><a href="../Diffraction%20patterns%20of%20simple%20apertures.html" class="backlink-item">Diffraction patterns of simple apertures</a></li>
-    <li class="backlink-item-wrap"><a href="../Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="../Fraunhofer%20diffraction.html" class="backlink-item">Fraunhofer diffraction</a></li>
-    <li class="backlink-item-wrap"><a href="Abbe%20experiment%20and%20Fourier%20optics.html" class="backlink-item">Abbe experiment and Fourier optics</a></li>
-    <li class="backlink-item-wrap"><a href="Beam%20power%20pattern%20of%20a%20radio%20telescope.html" class="backlink-item">Beam power pattern of a radio telescope</a></li>
-    <li class="backlink-item-wrap"><a href="Diffraction%20patterns%20of%20simple%20apertures.html" class="backlink-item">Diffraction patterns of simple apertures</a></li>
-    <li class="backlink-item-wrap"><a href="Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="Fraunhofer%20diffraction.html" class="backlink-item">Fraunhofer diffraction</a></li>
-    <li class="backlink-item-wrap"><a href="Point%20spread%20function.html" class="backlink-item">Point spread function</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Abbe experiment and Fourier optics]]
+- [[Beam power pattern of a radio telescope]]
+- [[Diffraction patterns of simple apertures]]
+- [[Figure bank - interferometry]]
+- [[Fraunhofer diffraction]]
+- [[Point spread function]]
+- [[Astronomical_Interferometry_MOC]]
+
 

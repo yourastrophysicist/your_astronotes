@@ -72,7 +72,7 @@ the Labeyrie textbook reproduces a photograph of Stéphan's mask covering the Ma
 
 two slits sample exactly *one* spatial frequency, $\mathbf u = \mathbf B/\lambda$. they tell you the visibility at that frequency but nothing about the others. so two-element interferometers are useful for measuring the *size* of simple sources (uniform disks, binary separations) but cannot produce images.
 
-for images, you need many baselines covering many spatial frequencies — see [Aperture synthesis principle](interf/Aperture%20synthesis%20principle.html) and [The (u, v) plane](interf/The%20%28u%2C%20v%29%20plane.html).
+for images, you need many baselines covering many spatial frequencies — see [[Aperture synthesis principle]] and [[The (u, v) plane]].
 
 ## scientific figure
 
@@ -84,9 +84,9 @@ source: local study diagram generated from the standard Young/Fraunhofer geometr
 
 ## see also
 
-- [Plane waves and Huygens principle](interf/Plane%20waves%20and%20Huygens%20principle.html)
-- [Superposition and interference](interf/Superposition%20and%20interference.html)
-- [Fringe visibility and contrast](interf/Fringe%20visibility%20and%20contrast.html)
-- [Michelson stellar interferometer](interf/Michelson%20stellar%20interferometer.html)
-- [Stellar diameters and limb darkening](interf/Stellar%20diameters%20and%20limb%20darkening.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Plane waves and Huygens principle]]
+- [[Superposition and interference]]
+- [[Fringe visibility and contrast]]
+- [[Michelson stellar interferometer]]
+- [[Stellar diameters and limb darkening]]
+- [[Astronomical_Interferometry_MOC]]

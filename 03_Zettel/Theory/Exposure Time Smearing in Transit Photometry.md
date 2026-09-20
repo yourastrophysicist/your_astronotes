@@ -20,14 +20,14 @@ $$\bar{F}(t_i) \approx \sum_{k=1}^{N_{\text{sub}}} w_k \, F\left( t_i - \frac{T_
 Typically, $N_{\text{sub}} = 5?7$ sub-samples completely eliminates exposure smearing bias.
 
 ## Related Notes
-- [Transit Modeling with batman](../Computational/Transit%20Modeling%20with%20batman.html)
-- [Malavolta 11 - Transit Geometry and Analytical Light Curve Modeling](../../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2011%20-%20Transit%20Geometry%20and%20Analytical%20Light%20Curve%20Modeling.html)
+- [[Transit Modeling with batman]]
+- [[Malavolta 11 - Transit Geometry and Analytical Light Curve Modeling]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Computational/Transit%20Modeling%20with%20batman.html" class="backlink-item">Transit Modeling with batman</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Transit Modeling with batman]]
+- [[Astrophysics_Laboratory_2_MOC]]
+
 

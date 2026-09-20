@@ -6,7 +6,7 @@ title: "Part5_GR_Cosmological_Perturbation_Theory"
 
 *Lectures 28 to 30 notes synthesis - Prof. Nicola Bartolo*  
 *Cosmology of the Early Universe - Università degli Studi di Padova*  
-*Index: [Cosmology_of_the_Early_Universe_MOC](../../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html)*  
+*Index: [[Cosmology_of_the_Early_Universe_MOC]]*  
 
 ---
 
@@ -138,21 +138,21 @@ $\zeta$ is **strictly conserved on super-horizon scales**, regardless of how the
 ## Connections and vault links
 
 * Companion zettels:
-  - [Cosmological perturbation theory in General Relativity](../../../03_Zettel/Theory/Cosmological%20perturbation%20theory%20in%20General%20Relativity.html)
-  - [Gauge transformations and Bardeen potentials](../../../03_Zettel/Theory/Gauge%20transformations%20and%20Bardeen%20potentials.html)
-  - [Gauge-invariant density perturbation and relativistic Poisson equation](../../../03_Zettel/Theory/Gauge-invariant%20density%20perturbation%20and%20relativistic%20Poisson%20equation.html)
-  - [Curvature perturbation R and zeta](../../../03_Zettel/Theory/Curvature%20perturbation%20R%20and%20zeta.html)
-* Previous module: [Part4_Advanced_Formalisms_and_Non_Gaussianity](./Part4_Advanced_Formalisms_and_Non_Gaussianity.html)
-* Next module: [Part6_Reheating_Baryogenesis_and_Dark_Matter](./Part6_Reheating_Baryogenesis_and_Dark_Matter.html)
-* Atlas: [Cosmology_of_the_Early_Universe_MOC](../../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html)
+  - [[Cosmological perturbation theory in General Relativity]]
+  - [[Gauge transformations and Bardeen potentials]]
+  - [[Gauge-invariant density perturbation and relativistic Poisson equation]]
+  - [[Curvature perturbation R and zeta]]
+* Previous module: [[Part4_Advanced_Formalisms_and_Non_Gaussianity]]
+* Next module: [[Part6_Reheating_Baryogenesis_and_Dark_Matter]]
+* Atlas: [[Cosmology_of_the_Early_Universe_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Cosmological%20perturbation%20theory%20in%20General%20Relativity.html" class="backlink-item">Cosmological perturbation theory in General Relativity</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Gauge%20transformations%20and%20Bardeen%20potentials.html" class="backlink-item">Gauge transformations and Bardeen potentials</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Gauge-invariant%20density%20perturbation%20and%20relativistic%20Poisson%20equation.html" class="backlink-item">Gauge-invariant density perturbation and relativistic Poisson equation</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html" class="backlink-item">Cosmology_of_the_Early_Universe_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Cosmological perturbation theory in General Relativity]]
+- [[Gauge transformations and Bardeen potentials]]
+- [[Gauge-invariant density perturbation and relativistic Poisson equation]]
+- [[Cosmology_of_the_Early_Universe_MOC]]
+
 

@@ -9,7 +9,7 @@ title: "Course_Overview_and_Syllabus"
 *Lecturer: Prof. Maurizio Giacomin (office at DFA, maurizio.giacomin@unipd.it)*  
 *Academic Year: 2026/2027 (Pre-class master notes from 2025/2026 course compilation)*  
 
-Index: [Fluid_and_Plasma_Dynamics_MOC](../../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html)
+Index: [[Fluid_and_Plasma_Dynamics_MOC]]
 
 ---
 
@@ -65,7 +65,7 @@ The final evaluation consists of a comprehensive **oral examination**:
   2. Clear articulation of underlying physical approximations, validity limits, and characteristic dimensionless numbers (Reynolds number $Re$, magnetic Reynolds number $R_m$, Knudsen number $Kn$, plasma parameter $\Lambda$, Lundquist number $S$).
   3. Understanding of experimental and astrophysical manifestations (solar wind, tokamak core turbulence, RFX-mod reversed-field pinch, coronal heating, accretion discs).
 
-The complete preparation guide for all 30 questions is documented in [Giacomin_Oral_Exam_Questions_Complete_Guide](./Giacomin_Oral_Exam_Questions_Complete_Guide.html).
+The complete preparation guide for all 30 questions is documented in [[Giacomin_Oral_Exam_Questions_Complete_Guide]].
 
 ---
 
@@ -84,21 +84,21 @@ Consorzio RFX (located in Corso Stati Uniti 4, Padova, within the CNR research a
 ## 6. Modular Note System Map
 
 The course notes in this vault are organized into eight thematic modules:
-- [Part1_Kinetic_Foundations_and_Fluid_Equations](./Part1_Kinetic_Foundations_and_Fluid_Equations.html) - Liouville theorem, Boltzmann collision operator, moments, Chapman-Enskog closure, macroscopic momentum equation.
-- [Part2_Incompressible_and_Viscous_Flows](./Part2_Incompressible_and_Viscous_Flows.html) - Vorticity dynamics, Kelvin circulation theorem, solar corona equilibrium, Navier-Stokes viscosity, Hagen-Poiseuille pipe flow, Prandtl boundary layer.
-- [Part3_Waves_Instabilities_and_Turbulence](./Part3_Waves_Instabilities_and_Turbulence.html) - Sound waves, Jeans instability, Rayleigh-Taylor, Kelvin-Helmholtz, Rayleigh-Bénard convection, Kolmogorov K41 turbulence, Reynolds stresses.
-- [Part4_Single_Particle_Motion_and_Magnetic_Confinement](./Part4_Single_Particle_Motion_and_Magnetic_Confinement.html) - Guiding-center drifts, magnetic mirror force, first adiabatic invariant, loss cone, tokamak magnetic geometry, trapped particles, banana orbits.
-- [Part5_Plasma_Kinetics_Gyrokinetics_and_Waves](./Part5_Plasma_Kinetics_Gyrokinetics_and_Waves.html) - Gyrokinetic ordering and 5D reduction, gyro-averaging, Landau damping complex contour integration, wave propagation in cold magnetized plasmas.
-- [Part6_Two_Fluid_Theory_Transport_and_Microinstabilities](./Part6_Two_Fluid_Theory_Transport_and_Microinstabilities.html) - Braginskii equations, Spitzer resistivity, drift-reduced equations, resistive ballooning mode, slab ITG instability, ambipolar diffusion.
-- [Part7_Magnetohydrodynamics_Equilibrium_and_Waves](./Part7_Magnetohydrodynamics_Equilibrium_and_Waves.html) - Ideal and resistive MHD equations, Alfvén flux freezing, Z-pinch Bennett relation, Grad-Shafranov tokamak equilibrium, shear and compressional Alfvén waves.
-- [Part8_Reconnection_Relaxation_and_Dynamo_Theory](./Part8_Reconnection_Relaxation_and_Dynamo_Theory.html) - Sweet-Parker reconnection, resistive tearing modes, Woltjer theorems, Taylor relaxation, Reversed Field Pinch (RFP), Cowling anti-dynamo theorem, mean-field $\alpha\Omega$ dynamo.
-- [Giacomin_Oral_Exam_Questions_Complete_Guide](./Giacomin_Oral_Exam_Questions_Complete_Guide.html) - Blackboard derivations and answers for the 30 oral examination questions.
+- [[Part1_Kinetic_Foundations_and_Fluid_Equations]] - Liouville theorem, Boltzmann collision operator, moments, Chapman-Enskog closure, macroscopic momentum equation.
+- [[Part2_Incompressible_and_Viscous_Flows]] - Vorticity dynamics, Kelvin circulation theorem, solar corona equilibrium, Navier-Stokes viscosity, Hagen-Poiseuille pipe flow, Prandtl boundary layer.
+- [[Part3_Waves_Instabilities_and_Turbulence]] - Sound waves, Jeans instability, Rayleigh-Taylor, Kelvin-Helmholtz, Rayleigh-Bénard convection, Kolmogorov K41 turbulence, Reynolds stresses.
+- [[Part4_Single_Particle_Motion_and_Magnetic_Confinement]] - Guiding-center drifts, magnetic mirror force, first adiabatic invariant, loss cone, tokamak magnetic geometry, trapped particles, banana orbits.
+- [[Part5_Plasma_Kinetics_Gyrokinetics_and_Waves]] - Gyrokinetic ordering and 5D reduction, gyro-averaging, Landau damping complex contour integration, wave propagation in cold magnetized plasmas.
+- [[Part6_Two_Fluid_Theory_Transport_and_Microinstabilities]] - Braginskii equations, Spitzer resistivity, drift-reduced equations, resistive ballooning mode, slab ITG instability, ambipolar diffusion.
+- [[Part7_Magnetohydrodynamics_Equilibrium_and_Waves]] - Ideal and resistive MHD equations, Alfvén flux freezing, Z-pinch Bennett relation, Grad-Shafranov tokamak equilibrium, shear and compressional Alfvén waves.
+- [[Part8_Reconnection_Relaxation_and_Dynamo_Theory]] - Sweet-Parker reconnection, resistive tearing modes, Woltjer theorems, Taylor relaxation, Reversed Field Pinch (RFP), Cowling anti-dynamo theorem, mean-field $\alpha\Omega$ dynamo.
+- [[Giacomin_Oral_Exam_Questions_Complete_Guide]] - Blackboard derivations and answers for the 30 oral examination questions.
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html" class="backlink-item">Cosmology_of_the_Early_Universe_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Cosmology_of_the_Early_Universe_MOC]]
+- [[Fluid_and_Plasma_Dynamics_MOC]]
+
 

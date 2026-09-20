@@ -40,7 +40,7 @@ result: Case-B Balmer line ratios are well-defined and robust to recombination d
 | H$\varepsilon$/H$\beta$ | $0.158$ |
 | H8/H$\beta$ | $0.105$ |
 
-deviation from H$\alpha$/H$\beta = 2.86$ in observed spectra indicates **dust extinction** ([Balmer decrement](Balmer%20decrement.html)).
+deviation from H$\alpha$/H$\beta = 2.86$ in observed spectra indicates **dust extinction** ([[Balmer decrement]]).
 
 ## comparison
 
@@ -64,27 +64,27 @@ modern photoionisation codes (Cloudy, MAPPINGS) handle Cases A, B, C, and interm
 
 ## see also
 
-- [Optically thin recombination lines](Optically%20thin%20recombination%20lines.html)
-- [Recombination line emissivity](Recombination%20line%20emissivity.html)
-- [Balmer decrement](Balmer%20decrement.html)
-- [Hydrogen spectral series](Hydrogen%20spectral%20series.html)
-- [H-alpha SFR tracer](H-alpha%20SFR%20tracer.html)
-- [Photoionisation balance](Photoionisation%20balance.html)
+- [[Optically thin recombination lines]]
+- [[Recombination line emissivity]]
+- [[Balmer decrement]]
+- [[Hydrogen spectral series]]
+- [[H-alpha SFR tracer]]
+- [[Photoionisation balance]]
 - Strömgren sphere
-- [Photon decoupling and CMB](Photon%20decoupling%20and%20CMB.html) — analogous Case-B-like problem in the cosmological recombination
+- [[Photon decoupling and CMB]] — analogous Case-B-like problem in the cosmological recombination
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (9)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Dust%20extinction%20in%20nebulae.html" class="backlink-item">Dust extinction in nebulae</a></li>
-    <li class="backlink-item-wrap"><a href="Optically%20thin%20recombination%20lines.html" class="backlink-item">Optically thin recombination lines</a></li>
-    <li class="backlink-item-wrap"><a href="Recombination%20line%20emissivity.html" class="backlink-item">Recombination line emissivity</a></li>
-    <li class="backlink-item-wrap"><a href="Recombination%20rate.html" class="backlink-item">Recombination rate</a></li>
-    <li class="backlink-item-wrap"><a href="Recombination.html" class="backlink-item">Recombination</a></li>
-    <li class="backlink-item-wrap"><a href="Stromgren%20sphere%20derivation.html" class="backlink-item">Stromgren sphere derivation</a></li>
-    <li class="backlink-item-wrap"><a href="Stromgren%20sphere.html" class="backlink-item">Stromgren sphere</a></li>
-    <li class="backlink-item-wrap"><a href="Two-photon%20emission.html" class="backlink-item">Two-photon emission</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Dust extinction in nebulae]]
+- [[Optically thin recombination lines]]
+- [[Recombination line emissivity]]
+- [[Recombination rate]]
+- [[Recombination]]
+- [[Stromgren sphere derivation]]
+- [[Stromgren sphere]]
+- [[Two-photon emission]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 

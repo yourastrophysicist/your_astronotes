@@ -66,25 +66,25 @@ Cecilia Payne's insight: **stars are essentially the same composition; the diver
 
 ## see also
 
-- [Why the Sequence OBAFGKM](Why%20the%20Sequence%20OBAFGKM.html)
-- [Stellar spectra and spectral classification](Stellar%20spectra%20and%20spectral%20classification.html)
-- [MK luminosity classes](MK%20luminosity%20classes.html)
-- [Boltzmann equation in spectroscopy](Boltzmann%20equation%20in%20spectroscopy.html)
-- [Saha ionisation equation](Saha%20ionisation%20equation.html)
-- [Population of excited levels](Population%20of%20excited%20levels.html)
-- [Hydrogen population vs T](Hydrogen%20population%20vs%20T.html)
-- [Helium population vs T](Helium%20population%20vs%20T.html)
-- [Calcium and CaII H+K](Calcium%20and%20CaII%20H%2BK.html)
+- [[Why the Sequence OBAFGKM]]
+- [[Stellar spectra and spectral classification]]
+- [[MK luminosity classes]]
+- [[Boltzmann equation in spectroscopy]]
+- [[Saha ionisation equation]]
+- [[Population of excited levels]]
+- [[Hydrogen population vs T]]
+- [[Helium population vs T]]
+- [[Calcium and CaII H+K]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="MK%20luminosity%20classes.html" class="backlink-item">MK luminosity classes</a></li>
-    <li class="backlink-item-wrap"><a href="Population%20of%20excited%20levels.html" class="backlink-item">Population of excited levels</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20spectral%20types%20OBAFGKM.html" class="backlink-item">Stellar spectral types OBAFGKM</a></li>
-    <li class="backlink-item-wrap"><a href="Why%20the%20Sequence%20OBAFGKM.html" class="backlink-item">Why the Sequence OBAFGKM</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[MK luminosity classes]]
+- [[Population of excited levels]]
+- [[Stellar spectral types OBAFGKM]]
+- [[Why the Sequence OBAFGKM]]
+- [[Astronomical_Spectroscopy_MOC]]
+- [[Stellar_Astrophysics_MOC]]
+
 

@@ -80,17 +80,17 @@ $$\log_{10} \mathrm{SFR}_{\rm Kroupa} = \log_{10} \mathrm{SFR}_{\rm Salpeter} - 
 
 ## see also
 
-- [Observational_Astrophysics_MOC](../../04_Atlas/Observational_Astrophysics_MOC.html)
-- [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
-- [UV SFR tracer](UV%20SFR%20tracer.html)
-- [H-alpha SFR tracer](H-alpha%20SFR%20tracer.html)
-- [IR SFR tracer](IR%20SFR%20tracer.html)
-- [Initial mass function](Initial%20mass%20function.html)
-- [Star formation history of a population](Star%20formation%20history%20of%20a%20population.html)
-- [Dust attenuation in synthetic populations](Dust%20attenuation%20in%20synthetic%20populations.html)
-- [SED fitting basics](SED%20fitting%20basics.html)
-- [Stellar mass estimation in unresolved populations](Stellar%20mass%20estimation%20in%20unresolved%20populations.html)
-- [SPS code families](SPS%20code%20families.html)
+- [[Observational_Astrophysics_MOC]]
+- [[Stellar_Astrophysics_MOC]]
+- [[UV SFR tracer]]
+- [[H-alpha SFR tracer]]
+- [[IR SFR tracer]]
+- [[Initial mass function]]
+- [[Star formation history of a population]]
+- [[Dust attenuation in synthetic populations]]
+- [[SED fitting basics]]
+- [[Stellar mass estimation in unresolved populations]]
+- [[SPS code families]]
 
 ---
 
@@ -105,17 +105,17 @@ $$\log_{10} \mathrm{SFR}_{\rm Kroupa} = \log_{10} \mathrm{SFR}_{\rm Salpeter} - 
 ![obs_sps-51.png](../../assets/images/obs_sps-51.png)
 *H-alpha SFR tracer: SFR(M_Sun/yr) = 7.9 x 10^(-42) * L(H-alpha) (erg/s), tracing ~10 Myr massive O/B stars.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (8)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Dust%20attenuation%20in%20synthetic%20populations.html" class="backlink-item">Dust attenuation in synthetic populations</a></li>
-    <li class="backlink-item-wrap"><a href="H-alpha%20SFR%20tracer.html" class="backlink-item">H-alpha SFR tracer</a></li>
-    <li class="backlink-item-wrap"><a href="IR%20SFR%20tracer.html" class="backlink-item">IR SFR tracer</a></li>
-    <li class="backlink-item-wrap"><a href="SED%20fitting%20basics.html" class="backlink-item">SED fitting basics</a></li>
-    <li class="backlink-item-wrap"><a href="Star%20formation%20history%20of%20a%20population.html" class="backlink-item">Star formation history of a population</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20population%20synthesis.html" class="backlink-item">Stellar population synthesis</a></li>
-    <li class="backlink-item-wrap"><a href="UV%20SFR%20tracer.html" class="backlink-item">UV SFR tracer</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Dust attenuation in synthetic populations]]
+- [[H-alpha SFR tracer]]
+- [[IR SFR tracer]]
+- [[SED fitting basics]]
+- [[Star formation history of a population]]
+- [[Stellar population synthesis]]
+- [[UV SFR tracer]]
+- [[Observational_Astrophysics_MOC]]
+
 

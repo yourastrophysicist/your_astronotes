@@ -107,13 +107,13 @@ the parameter is now everywhere in optical astronomy and adaptive-optics literat
 
 ## see also
 
-- [Atmospheric turbulence overview](interf/Atmospheric%20turbulence%20overview.html)
-- [Kolmogorov turbulence](interf/Kolmogorov%20turbulence.html)
-- [Structure function and correlation function](interf/Structure%20function%20and%20correlation%20function.html)
-- [Isoplanatic patch](interf/Isoplanatic%20patch.html)
-- [Frozen turbulence and Taylor hypothesis](interf/Frozen%20turbulence%20and%20Taylor%20hypothesis.html)
-- [Adaptive optics](interf/Adaptive%20optics.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Atmospheric turbulence overview]]
+- [[Kolmogorov turbulence]]
+- [[Structure function and correlation function]]
+- [[Isoplanatic patch]]
+- [[Frozen turbulence and Taylor hypothesis]]
+- [[Adaptive optics]]
+- [[Astronomical_Interferometry_MOC]]
 
 ---
 

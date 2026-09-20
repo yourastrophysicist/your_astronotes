@@ -2,7 +2,7 @@
 layout: "default"
 title: "Big Bang nucleosynthesis"
 ---
-**Big Bang Nucleosynthesis (BBN)** is the production of light elements ($^4$He, D, $^3$He, $^7$Li) in the first few minutes after the Big Bang. the only place outside stellar interiors where light elements are forged. one of the three pillars of the Hot Big Bang. (companion: [BBN_overview](BBN_overview.html) + family of BBN notes for details.)
+**Big Bang Nucleosynthesis (BBN)** is the production of light elements ($^4$He, D, $^3$He, $^7$Li) in the first few minutes after the Big Bang. the only place outside stellar interiors where light elements are forged. one of the three pillars of the Hot Big Bang. (companion: [[BBN_overview]] + family of BBN notes for details.)
 
 ## the timeline
 
@@ -68,31 +68,30 @@ consistent with the standard 3 light neutrinos. rules out extra relativistic spe
 
 ## see also
 
-- [BBN_overview](BBN_overview.html)
-- [BBN_predictions](BBN_predictions.html)
-- [BBN_three_steps](BBN_three_steps.html)
-- [BBN_baryon_to_photon_ratio](BBN_baryon_to_photon_ratio.html)
-- [BBN_concordance_with_CMB](BBN_concordance_with_CMB.html)
-- [BBN_observations](BBN_observations.html)
-- [BBN_NSE_initial_conditions](BBN_NSE_initial_conditions.html)
-- [BBN_neutron_proton_ratio](BBN_neutron_proton_ratio.html)
-- [Brief thermal history](Brief%20thermal%20history.html)
-- [Transition epochs](Transition%20epochs.html)
-- [Decoupling](Decoupling.html)
-- [ΛCDM current parameters](%CE%9BCDM%20current%20parameters.html)
-- [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
+- [[BBN_overview]]
+- [[BBN_predictions]]
+- [[BBN_three_steps]]
+- [[BBN_baryon_to_photon_ratio]]
+- [[BBN_concordance_with_CMB]]
+- [[BBN_observations]]
+- [[BBN_NSE_initial_conditions]]
+- [[BBN_neutron_proton_ratio]]
+- [[Brief thermal history]]
+- [[Transition epochs]]
+- [[Decoupling]]
+- [[ΛCDM current parameters]]
+- [[Observational_Cosmology_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (8)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Critical%20metallicity%20for%20fragmentation.html" class="backlink-item">Critical metallicity for fragmentation</a></li>
-    <li class="backlink-item-wrap"><a href="Helium%20spread%20in%20GCs.html" class="backlink-item">Helium spread in GCs</a></li>
-    <li class="backlink-item-wrap"><a href="Phase%20transitions.html" class="backlink-item">Phase transitions</a></li>
-    <li class="backlink-item-wrap"><a href="Pop%20III%20nucleosynthesis%20signatures.html" class="backlink-item">Pop III nucleosynthesis signatures</a></li>
-    <li class="backlink-item-wrap"><a href="Pop%20III%20remnants%20in%20UFDGs.html" class="backlink-item">Pop III remnants in UFDGs</a></li>
-    <li class="backlink-item-wrap"><a href="Population%20III%20stars.html" class="backlink-item">Population III stars</a></li>
-    <li class="backlink-item-wrap"><a href="interf/Phase%20transitions.html" class="backlink-item">Phase transitions</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Critical metallicity for fragmentation]]
+- [[Helium spread in GCs]]
+- [[Phase transitions]]
+- [[Pop III nucleosynthesis signatures]]
+- [[Pop III remnants in UFDGs]]
+- [[Population III stars]]
+- [[Observational_Cosmology_MOC]]
+
 

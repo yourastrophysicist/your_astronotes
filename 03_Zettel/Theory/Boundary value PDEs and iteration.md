@@ -51,7 +51,7 @@ for i in range(1, N-1):
 
 converges in roughly half the iterations of Jacobi (the spectral radius of the iteration matrix is the square of Jacobi's). slightly harder to vectorize.
 
-see [Gauss-Seidel iteration](Gauss-Seidel%20iteration.html) for the linear-algebra perspective.
+see [[Gauss-Seidel iteration]] for the linear-algebra perspective.
 
 ## SOR: even faster
 
@@ -59,7 +59,7 @@ successive over-relaxation. update the new value as
 
 $$\phi_{i,j}^{(k+1)} = (1 - \omega) \phi_{i,j}^{(k)} + \omega \cdot (\text{Gauss-Seidel update})$$
 
-with $\omega \in (1, 2)$. for a 2D Laplacian on $N \times N$ grid, optimal $\omega^* = 2/(1 + \sin(\pi/N))$, accelerating convergence by a factor $N$. see [Overrelaxation](Overrelaxation.html).
+with $\omega \in (1, 2)$. for a 2D Laplacian on $N \times N$ grid, optimal $\omega^* = 2/(1 + \sin(\pi/N))$, accelerating convergence by a factor $N$. see [[Overrelaxation]].
 
 ## the Poisson equation $\nabla^2 \phi = \rho$
 
@@ -103,12 +103,12 @@ every elliptic problem in computational astrophysics reduces to this iterative-r
 
 ## see also
 
-- [Finite difference discretization](Finite%20difference%20discretization.html)
-- [Gauss-Seidel iteration](Gauss-Seidel%20iteration.html)
-- [Overrelaxation](Overrelaxation.html)
-- [Initial value PDEs and FTCS](Initial%20value%20PDEs%20and%20FTCS.html)
-- [When to use implicit schemes](When%20to%20use%20implicit%20schemes.html)
-- [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
+- [[Finite difference discretization]]
+- [[Gauss-Seidel iteration]]
+- [[Overrelaxation]]
+- [[Initial value PDEs and FTCS]]
+- [[When to use implicit schemes]]
+- [[Mathematical_Numerical_Methods_MOC]]
 
 ---
 
@@ -129,16 +129,16 @@ every elliptic problem in computational astrophysics reduces to this iterative-r
 ![mapelli_fig27_p265.png](../../assets/images/mapelli_fig27_p103.png)
 *Adaptive Mesh Refinement (AMR): hierarchical grid refinement on density gradients.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Finite%20difference%20discretization.html" class="backlink-item">Finite difference discretization</a></li>
-    <li class="backlink-item-wrap"><a href="Gauss-Seidel%20iteration.html" class="backlink-item">Gauss-Seidel iteration</a></li>
-    <li class="backlink-item-wrap"><a href="Initial%20value%20PDEs%20and%20FTCS.html" class="backlink-item">Initial value PDEs and FTCS</a></li>
-    <li class="backlink-item-wrap"><a href="Initial%20value%20vs%20boundary%20value%20problems.html" class="backlink-item">Initial value vs boundary value problems</a></li>
-    <li class="backlink-item-wrap"><a href="Overrelaxation.html" class="backlink-item">Overrelaxation</a></li>
-    <li class="backlink-item-wrap"><a href="Stability%20and%20the%20Courant%20condition.html" class="backlink-item">Stability and the Courant condition</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Finite difference discretization]]
+- [[Gauss-Seidel iteration]]
+- [[Initial value PDEs and FTCS]]
+- [[Initial value vs boundary value problems]]
+- [[Overrelaxation]]
+- [[Stability and the Courant condition]]
+- [[Mathematical_Numerical_Methods_MOC]]
+
 

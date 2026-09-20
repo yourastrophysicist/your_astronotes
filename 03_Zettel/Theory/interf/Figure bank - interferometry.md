@@ -20,25 +20,25 @@ use a figure only when it answers a physical question:
 
 ![07_Images/Interferometry/young_double_slit_interference.svg](../../../assets/images/young_double_slit_interference.svg)
 
-local study diagram: Young/fringe geometry. use with [Superposition and interference](Superposition%20and%20interference.html) and [Young experiment as a stellar interferometer](Young%20experiment%20as%20a%20stellar%20interferometer.html).
+local study diagram: Young/fringe geometry. use with [[Superposition and interference]] and [[Young experiment as a stellar interferometer]].
 
 ![07_Images/Interferometry/airy_pattern_generated.png](../../../assets/images/airy_pattern_generated.png)
 
-local study plot from $I(x)=[2J_1(x)/x]^2$. use with [Fraunhofer diffraction](Fraunhofer%20diffraction.html), [Diffraction patterns of simple apertures](Diffraction%20patterns%20of%20simple%20apertures.html), and [Point spread function](Point%20spread%20function.html).
+local study plot from $I(x)=[2J_1(x)/x]^2$. use with [[Fraunhofer diffraction]], [[Diffraction patterns of simple apertures]], and [[Point spread function]].
 
 ![07_Images/Interferometry/abbe_fourier_optics_orders.svg](../../../assets/images/abbe_fourier_optics_orders.svg)
 
-local study diagram: Abbe/Fourier-optics spatial-frequency orders. use with [Abbe experiment and Fourier optics](Abbe%20experiment%20and%20Fourier%20optics.html) and [Optical transfer function](Optical%20transfer%20function.html).
+local study diagram: Abbe/Fourier-optics spatial-frequency orders. use with [[Abbe experiment and Fourier optics]] and [[Optical transfer function]].
 
 ## visibility and aperture synthesis
 
 ![07_Images/Interferometry/van_cittert_zernike_geometry.svg](../../../assets/images/van_cittert_zernike_geometry.svg)
 
-local study diagram: two antennas measure coherence, and coherence is a Fourier component of sky brightness. use with [Van Cittert-Zernike theorem](Van%20Cittert-Zernike%20theorem.html).
+local study diagram: two antennas measure coherence, and coherence is a Fourier component of sky brightness. use with [[Van Cittert-Zernike theorem]].
 
 ![07_Images/Interferometry/uv_coverage_dirty_beam_demo.png](../../../assets/images/uv_coverage_dirty_beam_demo.png)
 
-local synthetic demo: $(u,v)$ samples and the corresponding dirty beam. use with [The (u, v) plane](The%20%28u%2C%20v%29%20plane.html), [Aperture synthesis principle](Aperture%20synthesis%20principle.html), and [Dirty beam and dirty image](Dirty%20beam%20and%20dirty%20image.html).
+local synthetic demo: $(u,v)$ samples and the corresponding dirty beam. use with [[The (u, v) plane]], [[Aperture synthesis principle]], and [[Dirty beam and dirty image]].
 
 ![07_Images/Interferometry/nrao_snapshot_uv_coverage.jpg](../../../assets/images/nrao_snapshot_uv_coverage.jpg)
 
@@ -46,65 +46,65 @@ local synthetic demo: $(u,v)$ samples and the corresponding dirty beam. use with
 
 ![07_Images/Interferometry/nrao_snapshot_dirty_image.jpg](../../../assets/images/nrao_snapshot_dirty_image.jpg)
 
-source: S. T. Myers, NRAO Synthesis Imaging Summer School, 30 s VLA A-configuration snapshot of a gravitational lens. use with [Dirty beam and dirty image](Dirty%20beam%20and%20dirty%20image.html) and [CLEAN algorithm](CLEAN%20algorithm.html).
+source: S. T. Myers, NRAO Synthesis Imaging Summer School, 30 s VLA A-configuration snapshot of a gravitational lens. use with [[Dirty beam and dirty image]] and [[CLEAN algorithm]].
 
 ## radio signal chain and sensitivity
 
 ![07_Images/Interferometry/specific_intensity_flux_beam.svg](../../../assets/images/specific_intensity_flux_beam.svg)
 
-local study diagram: $I_\nu$ to beam-weighted $S_\nu$. use with [Specific intensity and flux density](Specific%20intensity%20and%20flux%20density.html).
+local study diagram: $I_\nu$ to beam-weighted $S_\nu$. use with [[Specific intensity and flux density]].
 
 ![07_Images/Interferometry/antenna_effective_area_gain.svg](../../../assets/images/antenna_effective_area_gain.svg)
 
-local study diagram: effective collecting area, gain, and beam response. use with [Antenna effective area and gain](Antenna%20effective%20area%20and%20gain.html).
+local study diagram: effective collecting area, gain, and beam response. use with [[Antenna effective area and gain]].
 
 ![07_Images/Interferometry/radiometer_noise_scaling.png](../../../assets/images/radiometer_noise_scaling.png)
 
-local plot: $\sigma\propto1/\sqrt{\Delta\nu t}$. use with [Radiometer equation and SEFD](Radiometer%20equation%20and%20SEFD.html).
+local plot: $\sigma\propto1/\sqrt{\Delta\nu t}$. use with [[Radiometer equation and SEFD]].
 
 ![07_Images/Interferometry/alma_signal_path_official.gif](../../../assets/images/alma_signal_path_official.gif)
 
-source: ALMA Observatory, "How ALMA Works". use with [Radio interferometer architecture](Radio%20interferometer%20architecture.html).
+source: ALMA Observatory, "How ALMA Works". use with [[Radio interferometer architecture]].
 
 ![07_Images/Interferometry/radio_interferometer_signal_chain.svg](../../../assets/images/radio_interferometer_signal_chain.svg)
 
-local study diagram: sky wave to visibility to image. use with [Two-element correlator](Two-element%20correlator.html).
+local study diagram: sky wave to visibility to image. use with [[Two-element correlator]].
 
 ![07_Images/Interferometry/downconversion_mixer_if.svg](../../../assets/images/downconversion_mixer_if.svg)
 
-local study diagram: heterodyne mixing and intermediate frequency. use with [Downconversion of signals in radio interferometers](Downconversion%20of%20signals%20in%20radio%20interferometers.html).
+local study diagram: heterodyne mixing and intermediate frequency. use with [[Downconversion of signals in radio interferometers]].
 
 ![07_Images/Interferometry/digitization_quantization_sampling.svg](../../../assets/images/digitization_quantization_sampling.svg)
 
-local study diagram: sampling and quantization of the IF voltage. use with [Digitization quantization and timing in radio interferometry](Digitization%20quantization%20and%20timing%20in%20radio%20interferometry.html).
+local study diagram: sampling and quantization of the IF voltage. use with [[Digitization quantization and timing in radio interferometry]].
 
 ![07_Images/Interferometry/radio_observing_workflow.svg](../../../assets/images/radio_observing_workflow.svg)
 
-local workflow diagram: science goal to validated image. use with [Steps in radio interferometric observations](Steps%20in%20radio%20interferometric%20observations.html).
+local workflow diagram: science goal to validated image. use with [[Steps in radio interferometric observations]].
 
 ## optical instruments and VLBI science
 
 ![07_Images/Interferometry/vlti_delay_line_eso9811a.jpg](../../../assets/images/vlti_delay_line_eso9811a.jpg)
 
-source: ESO image eso9811a. use with [Delay lines and path-length equalization](Delay%20lines%20and%20path-length%20equalization.html) and [VLTI Very Large Telescope Interferometer](VLTI%20Very%20Large%20Telescope%20Interferometer.html).
+source: ESO image eso9811a. use with [[Delay lines and path-length equalization]] and [[VLTI Very Large Telescope Interferometer]].
 
 ![07_Images/Interferometry/eht_planet_scale_array_eso1907j.jpg](../../../assets/images/eht_planet_scale_array_eso1907j.jpg)
 
-source: ESO image eso1907j. use with [Very Long Baseline Interferometry VLBI](Very%20Long%20Baseline%20Interferometry%20VLBI.html) and [Event Horizon Telescope EHT](Event%20Horizon%20Telescope%20EHT.html).
+source: ESO image eso1907j. use with [[Very Long Baseline Interferometry VLBI]] and [[Event Horizon Telescope EHT]].
 
 ![07_Images/Interferometry/eht_m87_eso1907a.jpg](../../../assets/images/eht_m87_eso1907a.jpg)
 
-source: EHT Collaboration image hosted by ESO as eso1907a. use with [Event Horizon Telescope EHT](Event%20Horizon%20Telescope%20EHT.html) and [AGN and supermassive black holes](AGN%20and%20supermassive%20black%20holes.html).
+source: EHT Collaboration image hosted by ESO as eso1907a. use with [[Event Horizon Telescope EHT]] and [[AGN and supermassive black holes]].
 
 ## polarization and emission physics
 
 ![07_Images/Interferometry/polarization_stokes_ellipse.svg](../../../assets/images/polarization_stokes_ellipse.svg)
 
-local study diagram: Stokes parameters and polarization ellipse. use with [Polarization in interferometry](Polarization%20in%20interferometry.html).
+local study diagram: Stokes parameters and polarization ellipse. use with [[Polarization in interferometry]].
 
 ![07_Images/Interferometry/radiation_mechanisms_spectra.png](../../../assets/images/radiation_mechanisms_spectra.png)
 
-local schematic plot: synchrotron, free-free, thermal dust, and line/maser spectral fingerprints. use with [Radiation mechanisms in astronomy and interferometers](Radiation%20mechanisms%20in%20astronomy%20and%20interferometers.html).
+local schematic plot: synchrotron, free-free, thermal dust, and line/maser spectral fingerprints. use with [[Radiation mechanisms in astronomy and interferometers]].
 
 ## source trail
 
@@ -116,15 +116,15 @@ local schematic plot: synchrotron, free-free, thermal dust, and line/maser spect
 
 ## see also
 
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-- [Interferometry equation sheet](Interferometry%20equation%20sheet.html)
-- [Aperture synthesis principle](Aperture%20synthesis%20principle.html)
-- [Radio interferometer architecture](Radio%20interferometer%20architecture.html)
+- [[Astronomical_Interferometry_MOC]]
+- [[Interferometry equation sheet]]
+- [[Aperture synthesis principle]]
+- [[Radio interferometer architecture]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (1)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Astronomical_Interferometry_MOC]]
+
 

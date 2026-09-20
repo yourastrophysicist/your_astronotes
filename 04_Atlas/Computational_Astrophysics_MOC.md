@@ -32,26 +32,26 @@ The curriculum balances algorithmic theory with collaborative scientific softwar
 ## Complete Lecture & Laboratory Notes
 
 ### Pillar I: Scientific Software Engineering & Environment
-- [00_Course_Overview_and_Computational_Laboratories](../02_Literature/Lectures/Computational_Astrophysics/00_Course_Overview_and_Computational_Laboratories.html) — Simulations as astrophysical laboratories, course roadmap, and grading policy.
-- [01_Linux_Containers_and_Docker_Architecture](../02_Literature/Lectures/Computational_Astrophysics/01_Linux_Containers_and_Docker_Architecture.html) — Virtualization vs. containerization, Docker daemon, multi-layer Dockerfiles, bind mounts, and headless Jupyter.
-- [02_Version_Control_with_Git_and_GitLab](../02_Literature/Lectures/Computational_Astrophysics/02_Version_Control_with_Git_and_GitLab.html) — Distributed version control DAG, staging area, branching models, 3-way merges vs. rebasing, and GitLab workflows.
-- [03_Modular_Python_Software_Architecture_and_Packaging](../02_Literature/Lectures/Computational_Astrophysics/03_Modular_Python_Software_Architecture_and_Packaging.html) — Module namespaces, `pyproject.toml`, editable installs (`pip -e .`), Sphinx documentation, and testing.
+- [[00_Course_Overview_and_Computational_Laboratories]] — Simulations as astrophysical laboratories, course roadmap, and grading policy.
+- [[01_Linux_Containers_and_Docker_Architecture]] — Virtualization vs. containerization, Docker daemon, multi-layer Dockerfiles, bind mounts, and headless Jupyter.
+- [[02_Version_Control_with_Git_and_GitLab]] — Distributed version control DAG, staging area, branching models, 3-way merges vs. rebasing, and GitLab workflows.
+- [[03_Modular_Python_Software_Architecture_and_Packaging]] — Module namespaces, `pyproject.toml`, editable installs (`pip -e .`), Sphinx documentation, and testing.
 
 ### Pillar II: Exoplanet Mechanics & Transit Photometry
-- [04_Exoplanet_Demographics_Orbital_Mechanics_and_Transits](../02_Literature/Lectures/Computational_Astrophysics/04_Exoplanet_Demographics_Orbital_Mechanics_and_Transits.html) — Exoplanet detection methods, 3D Keplerian orbits, RV semi-amplitude, Mandel & Agol (2002) transit geometry, and Seager & Mallén-Ornelas stellar density inversion.
+- [[04_Exoplanet_Demographics_Orbital_Mechanics_and_Transits]] — Exoplanet detection methods, 3D Keplerian orbits, RV semi-amplitude, Mandel & Agol (2002) transit geometry, and Seager & Mallén-Ornelas stellar density inversion.
 
 ### Pillar III: Machine Learning & Deep Learning Foundations
-- [05_Machine_Learning_Foundations_and_Regression_Models](../02_Literature/Lectures/Computational_Astrophysics/05_Machine_Learning_Foundations_and_Regression_Models.html) — Supervised learning, linear basis models (polynomial, Gaussian, sigmoidal), OLS normal equations, Ridge/Lasso regularization, SGD, and Random Forests.
-- [06_Deep_Learning_Architectures_and_Optimization](../02_Literature/Lectures/Computational_Astrophysics/06_Deep_Learning_Architectures_and_Optimization.html) — Perceptrons, Multi-Layer Perceptrons, activation functions, backpropagation derivation, CNN convolution/pooling layers, and Zingales & Waldmann (2018) GAN exoplanet spectral generators.
+- [[05_Machine_Learning_Foundations_and_Regression_Models]] — Supervised learning, linear basis models (polynomial, Gaussian, sigmoidal), OLS normal equations, Ridge/Lasso regularization, SGD, and Random Forests.
+- [[06_Deep_Learning_Architectures_and_Optimization]] — Perceptrons, Multi-Layer Perceptrons, activation functions, backpropagation derivation, CNN convolution/pooling layers, and Zingales & Waldmann (2018) GAN exoplanet spectral generators.
 
 ### Pillar IV: Atmospheric Physics, Inverse Modeling, & HPC
-- [07_Atmospheric_Radiative_Transfer_and_Line_Profiles](../02_Literature/Lectures/Computational_Astrophysics/07_Atmospheric_Radiative_Transfer_and_Line_Profiles.html) — Specific intensity, blackbody laws, Rayleigh vs. Mie scattering, line broadening (Lorentz, Doppler, Voigt), Beer-Lambert extinction, and plane-parallel Schwarzschild RTE.
-- [08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx](../02_Literature/Lectures/Computational_Astrophysics/08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx.html) — Transmission and emission spectroscopy, slant optical depth, $T(P)$ profiles, and hands-on TauREx 3 configuration (`.par`).
-- [09_Bayesian_Inference_and_Parameter_Estimation](../02_Literature/Lectures/Computational_Astrophysics/09_Bayesian_Inference_and_Parameter_Estimation.html) — Frequentist vs. Bayesian paradigms, Bayes' theorem, Beta conjugate priors, posterior updating, and Bayes Factors for model comparison.
-- [10_Nested_Sampling_and_Evidence_Computation](../02_Literature/Lectures/Computational_Astrophysics/10_Nested_Sampling_and_Evidence_Computation.html) — The typical set problem, Skilling's 1D prior mass transformation, live points, prior shrinkage statistics, evidence accumulation, and MultiNest/PolyChord algorithms.
-- [11_Parallel_Computing_Architectures_and_HPC_Scaling](../02_Literature/Lectures/Computational_Astrophysics/11_Parallel_Computing_Architectures_and_HPC_Scaling.html) — Serial vs. parallel computing, Flynn's taxonomy, Shared vs. Distributed memory, Amdahl's Law (strong scaling limit), and Gustafson's Law (weak scaling).
-- [12_MPI_Distributed_Memory_Programming_with_Python](../02_Literature/Lectures/Computational_Astrophysics/12_MPI_Distributed_Memory_Programming_with_Python.html) — SPMD paradigm, `mpi4py` buffers vs. pickled objects, point-to-point non-blocking communication (`Isend`/`Irecv`), collective reductions, and domain decomposition.
-- [13_CloudVeneto_HPC_Infrastructure_and_OpenStack_Deployment](../02_Literature/Lectures/Computational_Astrophysics/13_CloudVeneto_HPC_Infrastructure_and_OpenStack_Deployment.html) — CloudVeneto OpenStack architecture, SSH ProxyJump routing, local port forwarding, and remote VS Code development.
+- [[07_Atmospheric_Radiative_Transfer_and_Line_Profiles]] — Specific intensity, blackbody laws, Rayleigh vs. Mie scattering, line broadening (Lorentz, Doppler, Voigt), Beer-Lambert extinction, and plane-parallel Schwarzschild RTE.
+- [[08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx]] — Transmission and emission spectroscopy, slant optical depth, $T(P)$ profiles, and hands-on TauREx 3 configuration (`.par`).
+- [[09_Bayesian_Inference_and_Parameter_Estimation]] — Frequentist vs. Bayesian paradigms, Bayes' theorem, Beta conjugate priors, posterior updating, and Bayes Factors for model comparison.
+- [[10_Nested_Sampling_and_Evidence_Computation]] — The typical set problem, Skilling's 1D prior mass transformation, live points, prior shrinkage statistics, evidence accumulation, and MultiNest/PolyChord algorithms.
+- [[11_Parallel_Computing_Architectures_and_HPC_Scaling]] — Serial vs. parallel computing, Flynn's taxonomy, Shared vs. Distributed memory, Amdahl's Law (strong scaling limit), and Gustafson's Law (weak scaling).
+- [[12_MPI_Distributed_Memory_Programming_with_Python]] — SPMD paradigm, `mpi4py` buffers vs. pickled objects, point-to-point non-blocking communication (`Isend`/`Irecv`), collective reductions, and domain decomposition.
+- [[13_CloudVeneto_HPC_Infrastructure_and_OpenStack_Deployment]] — CloudVeneto OpenStack architecture, SSH ProxyJump routing, local port forwarding, and remote VS Code development.
 
 ---
 
@@ -72,35 +72,35 @@ $$\text{Final Grade} = \text{Score}_A + \text{Score}_B + \text{Score}_C$$
 ## Conceptual Zettelkasten Index (`03_Zettel/Computational/`)
 
 ### Scientific Software Infrastructure
-- [Linux containers and Docker architecture in astrophysics](../03_Zettel/Computational/Linux%20containers%20and%20Docker%20architecture%20in%20astrophysics.html) — Virtualization vs containerization, namespaces, cgroups, and HPC Apptainer/Singularity.
-- [Distributed version control DAG and GitLab workflows](../03_Zettel/Computational/Distributed%20version%20control%20DAG%20and%20GitLab%20workflows.html) — Git DAG object store (blobs, trees, commits), 3-way merges vs rebasing, and CI/CD pipelines.
-- [Modular Python packaging and scientific software architecture](../03_Zettel/Computational/Modular%20Python%20packaging%20and%20scientific%20software%20architecture.html) — PEP 517/621 `pyproject.toml`, editable installs (`pip -e .`), and object-oriented design.
-- [Python Class Architecture for Astronomical Pipelines](../03_Zettel/Computational/Python%20Class%20Architecture%20for%20Astronomical%20Pipelines.html) — Clean inheritance, dataclasses, and vectorized pipeline modules.
+- [[Linux containers and Docker architecture in astrophysics]] — Virtualization vs containerization, namespaces, cgroups, and HPC Apptainer/Singularity.
+- [[Distributed version control DAG and GitLab workflows]] — Git DAG object store (blobs, trees, commits), 3-way merges vs rebasing, and CI/CD pipelines.
+- [[Modular Python packaging and scientific software architecture]] — PEP 517/621 `pyproject.toml`, editable installs (`pip -e .`), and object-oriented design.
+- [[Python Class Architecture for Astronomical Pipelines]] — Clean inheritance, dataclasses, and vectorized pipeline modules.
 
 ### Machine Learning & Surrogate Emulators
-- [Supervised regression basis models and regularization](../03_Zettel/Computational/Supervised%20regression%20basis%20models%20and%20regularization.html) — Linear basis expansion, OLS normal equations, Ridge L2 shrinkage, and Lasso L1 feature selection.
-- [Deep neural networks and backpropagation for astronomical spectra](../03_Zettel/Computational/Deep%20neural%20networks%20and%20backpropagation%20for%20astronomical%20spectra.html) — Multi-layer perceptrons, backpropagation chain rule, CNN light curve vetting, and GAN spectral emulators.
+- [[Supervised regression basis models and regularization]] — Linear basis expansion, OLS normal equations, Ridge L2 shrinkage, and Lasso L1 feature selection.
+- [[Deep neural networks and backpropagation for astronomical spectra]] — Multi-layer perceptrons, backpropagation chain rule, CNN light curve vetting, and GAN spectral emulators.
 
 ### Atmospheric Physics & Inverse Modeling
-- [Atmospheric radiative transfer equation and Voigt profile](../03_Zettel/Computational/Atmospheric%20radiative%20transfer%20equation%20and%20Voigt%20profile.html) — Specific intensity, plane-parallel Schwarzschild RTE, Doppler/Lorentz broadening, and Voigt convolution.
-- [Exoplanet atmospheric retrieval and TauREx framework](../03_Zettel/Computational/Exoplanet%20atmospheric%20retrieval%20and%20TauREx%20framework.html) — Non-linear inverse modeling, atmospheric parameterization, and Bayesian parameter sampling.
-- [Transit Modeling with batman](../03_Zettel/Computational/Transit%20Modeling%20with%20batman.html) — Mandel & Agol analytical transit light curve evaluation.
-- [Limb Darkening Computation with ldtk](../03_Zettel/Computational/Limb%20Darkening%20Computation%20with%20ldtk.html) — Stellar atmosphere models and limb darkening coefficients.
+- [[Atmospheric radiative transfer equation and Voigt profile]] — Specific intensity, plane-parallel Schwarzschild RTE, Doppler/Lorentz broadening, and Voigt convolution.
+- [[Exoplanet atmospheric retrieval and TauREx framework]] — Non-linear inverse modeling, atmospheric parameterization, and Bayesian parameter sampling.
+- [[Transit Modeling with batman]] — Mandel & Agol analytical transit light curve evaluation.
+- [[Limb Darkening Computation with ldtk]] — Stellar atmosphere models and limb darkening coefficients.
 
 ### Bayesian Inference, Sampling & HPC
-- [Nested sampling algorithm and Bayesian evidence computation](../03_Zettel/Computational/Nested%20sampling%20algorithm%20and%20Bayesian%20evidence%20computation.html) — Skilling 1D prior mass transformation, live points, prior shrinkage, MultiNest, and PolyChord.
-- [Affine-Invariant Ensemble MCMC with emcee](../03_Zettel/Computational/Affine-Invariant%20Ensemble%20MCMC%20with%20emcee.html) — Goodman & Weare stretch-move ensemble sampling.
-- [MCMC Convergence Diagnostics and Autocorrelation Analysis](../03_Zettel/Computational/MCMC%20Convergence%20Diagnostics%20and%20Autocorrelation%20Analysis.html) — Gelman-Rubin $\hat{R}$, integrated autocorrelation time $\tau$, and burn-in trimming.
-- [Marginalized Posterior Distributions and Corner Plots](../03_Zettel/Computational/Marginalized%20Posterior%20Distributions%20and%20Corner%20Plots.html) — Multidimensional posterior visualization and credible contours.
-- [Parallel computing architectures and Amdahl scaling laws](../03_Zettel/Computational/Parallel%20computing%20architectures%20and%20Amdahl%20scaling%20laws.html) — Flynn taxonomy, shared vs distributed memory, Amdahl strong scaling, and Gustafson weak scaling.
-- [MPI distributed memory programming with mpi4py](../03_Zettel/Computational/MPI%20distributed%20memory%20programming%20with%20mpi4py.html) — SPMD execution model, non-blocking `Isend`/`Irecv`, collective operations, and buffer protocols.
-- [CloudVeneto HPC OpenStack infrastructure and remote clusters](../03_Zettel/Computational/CloudVeneto%20HPC%20OpenStack%20infrastructure%20and%20remote%20clusters.html) — OpenStack cloud architecture, SSH ProxyJump bastions, port forwarding, and remote VS Code.
+- [[Nested sampling algorithm and Bayesian evidence computation]] — Skilling 1D prior mass transformation, live points, prior shrinkage, MultiNest, and PolyChord.
+- [[Affine-Invariant Ensemble MCMC with emcee]] — Goodman & Weare stretch-move ensemble sampling.
+- [[MCMC Convergence Diagnostics and Autocorrelation Analysis]] — Gelman-Rubin $\hat{R}$, integrated autocorrelation time $\tau$, and burn-in trimming.
+- [[Marginalized Posterior Distributions and Corner Plots]] — Multidimensional posterior visualization and credible contours.
+- [[Parallel computing architectures and Amdahl scaling laws]] — Flynn taxonomy, shared vs distributed memory, Amdahl strong scaling, and Gustafson weak scaling.
+- [[MPI distributed memory programming with mpi4py]] — SPMD execution model, non-blocking `Isend`/`Irecv`, collective operations, and buffer protocols.
+- [[CloudVeneto HPC OpenStack infrastructure and remote clusters]] — OpenStack cloud architecture, SSH ProxyJump bastions, port forwarding, and remote VS Code.
 
 ### Related Master Courses
-- [Astro-Statistics_and_Cosmology_MOC](Astro-Statistics_and_Cosmology_MOC.html) — Bayesian foundations, Cox's theorem, Fisher matrices, and Markov Chain Monte Carlo.
-- [Astrophysics_Laboratory_2_MOC](Astrophysics_Laboratory_2_MOC.html) — CCD detector calibration, aperture photometry, detrending, and TESS time series analysis.
-- [Exoplanetary_Astrophysics_MOC](Exoplanetary_Astrophysics_MOC.html) — Exoplanet formation, migration, interior structures, and planetary atmospheres.
-- [Fluid_and_Plasma_Dynamics_MOC](Fluid_and_Plasma_Dynamics_MOC.html) — Hydrodynamics, accretion disks, and astrophysical fluid instabilities.
+- [[Astro-Statistics_and_Cosmology_MOC]] — Bayesian foundations, Cox's theorem, Fisher matrices, and Markov Chain Monte Carlo.
+- [[Astrophysics_Laboratory_2_MOC]] — CCD detector calibration, aperture photometry, detrending, and TESS time series analysis.
+- [[Exoplanetary_Astrophysics_MOC]] — Exoplanet formation, migration, interior structures, and planetary atmospheres.
+- [[Fluid_and_Plasma_Dynamics_MOC]] — Hydrodynamics, accretion disks, and astrophysical fluid instabilities.
 
 
 ---
@@ -109,9 +109,9 @@ $$\text{Final Grade} = \text{Score}_A + \text{Score}_B + \text{Score}_C$$
 
 Canonical and modern arXiv astro-ph.IM benchmark papers underlying the simulation-code architecture above.
 
-- [Springel (2005) — The Cosmological Simulation Code GADGET-2](../02_Literature/Papers/15_Computational_Astrophysics/Springel_2005_GADGET-2_Cosmological_Simulation_Code.html) — Tree-PM gravity, SPH hydrodynamics
-- [Springel (2010) — AREPO Moving-Mesh Hydrodynamics](../02_Literature/Papers/15_Computational_Astrophysics/Springel_2010_AREPO_Moving_Mesh_Code.html) — Voronoi moving mesh, Galilean invariance
-- [Pillepich et al. (2018) — First Results from IllustrisTNG](../02_Literature/Papers/15_Computational_Astrophysics/Pillepich_2018_IllustrisTNG_Simulations.html) — kinetic-mode AGN feedback, stellar-to-halo-mass relation
+- [[Springel_2005_GADGET-2_Cosmological_Simulation_Code|Springel (2005) — The Cosmological Simulation Code GADGET-2]] — Tree-PM gravity, SPH hydrodynamics
+- [[Springel_2010_AREPO_Moving_Mesh_Code|Springel (2010) — AREPO Moving-Mesh Hydrodynamics]] — Voronoi moving mesh, Galilean invariance
+- [[Pillepich_2018_IllustrisTNG_Simulations|Pillepich et al. (2018) — First Results from IllustrisTNG]] — kinetic-mode AGN feedback, stellar-to-halo-mass relation
 
 ---
 
@@ -119,23 +119,23 @@ Canonical and modern arXiv astro-ph.IM benchmark papers underlying the simulatio
 
 | Figure ID | Visual Asset Name | Slide / Concept Title | Primary Zettel / Lecture Note Link | Key Numerical / Algorithmic Principle |
 | :--- | :--- | :--- | :--- | :--- |
-| **COMP-01** | `comp_exo_p05.png` | Kepler Solver & Anomaly Conversions | [04_Exoplanet_Demographics_Orbital_Mechanics_and_Transits](../02_Literature/Lectures/Computational_Astrophysics/04_Exoplanet_Demographics_Orbital_Mechanics_and_Transits.html) | Newton-Raphson iteration solving transcendental equation $M = E - e \sin E$ |
-| **COMP-02** | `comp_exo_p15.png` | Star-Planet Occultation Geometry | [04_Exoplanet_Demographics_Orbital_Mechanics_and_Transits](../02_Literature/Lectures/Computational_Astrophysics/04_Exoplanet_Demographics_Orbital_Mechanics_and_Transits.html) | Projected center separation $z = d/R_*$ and circular disc overlap domains |
-| **COMP-03** | `comp_exo_p25.png` | Analytical vs Numerical Transit Accuracy | [04_Exoplanet_Demographics_Orbital_Mechanics_and_Transits](../02_Literature/Lectures/Computational_Astrophysics/04_Exoplanet_Demographics_Orbital_Mechanics_and_Transits.html) | Mandel & Agol elliptic integral precision benchmarks against 2D ray tracing |
-| **COMP-04** | `comp_ml_p05.png` | Ridge ($L_2$) and Lasso ($L_1$) Regularization | [05_Machine_Learning_Foundations_and_Regression_Models](../02_Literature/Lectures/Computational_Astrophysics/05_Machine_Learning_Foundations_and_Regression_Models.html) | $L_1$ diamond contours driving feature sparsity vs $L_2$ circular weight shrinkage |
-| **COMP-05** | `comp_ml_p20.png` | Bias-Variance Tradeoff & Cross-Validation | [05_Machine_Learning_Foundations_and_Regression_Models](../02_Literature/Lectures/Computational_Astrophysics/05_Machine_Learning_Foundations_and_Regression_Models.html) | Optimal model complexity selection via K-fold cross-validation loss minima |
-| **COMP-06** | `comp_ml_p35.png` | Deep Backpropagation & CNN Architectures | [06_Deep_Learning_Architectures_and_Optimization](../02_Literature/Lectures/Computational_Astrophysics/06_Deep_Learning_Architectures_and_Optimization.html) | Reverse-mode automatic differentiation computing $\partial \mathcal{L} / \partial W_{ij}$ |
-| **COMP-07** | `comp_radtrans_p05.png` | Plane-Parallel Radiative Transfer Solver | [07_Atmospheric_Radiative_Transfer_and_Line_Profiles](../02_Literature/Lectures/Computational_Astrophysics/07_Atmospheric_Radiative_Transfer_and_Line_Profiles.html) | Formal solution $I_\nu(\tau) = I_\nu(0)e^{-\tau} + \int S_\nu e^{-(\tau-t)} dt$ |
-| **COMP-08** | `comp_radtrans_p18.png` | Voigt Spectral Line Absorption Profile | [07_Atmospheric_Radiative_Transfer_and_Line_Profiles](../02_Literature/Lectures/Computational_Astrophysics/07_Atmospheric_Radiative_Transfer_and_Line_Profiles.html) | Convolution of Gaussian thermal core with Lorentzian damping wings |
-| **COMP-09** | `comp_radtrans_p30.png` | Multi-Layer Optical Depth Discretization | [07_Atmospheric_Radiative_Transfer_and_Line_Profiles](../02_Literature/Lectures/Computational_Astrophysics/07_Atmospheric_Radiative_Transfer_and_Line_Profiles.html) | Layer-by-layer cross-section summation across vertical atmospheric columns |
-| **COMP-10** | `comp_retrieval_p05.png` | TauREx 3 Retrieval Architecture Flowchart | [08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx](../02_Literature/Lectures/Computational_Astrophysics/08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx.html) | Forward model coupling $P-T$ profiles, molecular opacities, and MCMC sampler |
-| **COMP-11** | `comp_retrieval_p15.png` | Synthetic Transmission Spectrum Modeling | [08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx](../02_Literature/Lectures/Computational_Astrophysics/08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx.html) | Molecular spectral signatures ($\mathrm{H_2O, CH_4, CO, CO_2}$) modulated by scale height |
-| **COMP-12** | `comp_retrieval_p25.png` | Atmospheric Retrieval Posterior Corner Plot | [08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx](../02_Literature/Lectures/Computational_Astrophysics/08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx.html) | Parameter correlations between temperature $T_{\mathrm{iso}}$ and gas mixing ratios |
-| **COMP-13** | `comp_nestedsamp_p10.png` | Skilling Prior Volume Mapping | [10_Nested_Sampling_and_Evidence_Computation](../02_Literature/Lectures/Computational_Astrophysics/10_Nested_Sampling_and_Evidence_Computation.html) | Transforming multi-D parameter integral to 1D scalar volume $X \in [0, 1]$ |
-| **COMP-14** | `comp_nestedsamp_p30.png` | Live Point Iso-Likelihood Contraction | [10_Nested_Sampling_and_Evidence_Computation](../02_Literature/Lectures/Computational_Astrophysics/10_Nested_Sampling_and_Evidence_Computation.html) | Stochastic volume compression $\langle \ln X_i \rangle = -i / N_{\mathrm{live}}$ |
-| **COMP-15** | `comp_nestedsamp_p50.png` | MultiNest Ellipsoidal Clustering | [10_Nested_Sampling_and_Evidence_Computation](../02_Literature/Lectures/Computational_Astrophysics/10_Nested_Sampling_and_Evidence_Computation.html) | Multi-modal decomposition isolating disjoint posterior modes efficiently |
-| **COMP-16** | `comp_mpi_p05.png` | Distributed MPI Communication Topologies | [12_MPI_Distributed_Memory_Programming_with_Python](../02_Literature/Lectures/Computational_Astrophysics/12_MPI_Distributed_Memory_Programming_with_Python.html) | Point-to-point non-blocking vs collective `Bcast` and `Reduce` in `mpi4py` |
-| **COMP-17** | `comp_mpi_p15.png` | Amdahl's Law and Parallel Scaling Limits | [12_MPI_Distributed_Memory_Programming_with_Python](../02_Literature/Lectures/Computational_Astrophysics/12_MPI_Distributed_Memory_Programming_with_Python.html) | Strong scaling speedup asymptote $S(N) \to 1/(1-p)$ on CloudVeneto clusters |
+| **COMP-01** | `comp_exo_p05.png` | Kepler Solver & Anomaly Conversions | [[04_Exoplanet_Demographics_Orbital_Mechanics_and_Transits]] | Newton-Raphson iteration solving transcendental equation $M = E - e \sin E$ |
+| **COMP-02** | `comp_exo_p15.png` | Star-Planet Occultation Geometry | [[04_Exoplanet_Demographics_Orbital_Mechanics_and_Transits]] | Projected center separation $z = d/R_*$ and circular disc overlap domains |
+| **COMP-03** | `comp_exo_p25.png` | Analytical vs Numerical Transit Accuracy | [[04_Exoplanet_Demographics_Orbital_Mechanics_and_Transits]] | Mandel & Agol elliptic integral precision benchmarks against 2D ray tracing |
+| **COMP-04** | `comp_ml_p05.png` | Ridge ($L_2$) and Lasso ($L_1$) Regularization | [[05_Machine_Learning_Foundations_and_Regression_Models]] | $L_1$ diamond contours driving feature sparsity vs $L_2$ circular weight shrinkage |
+| **COMP-05** | `comp_ml_p20.png` | Bias-Variance Tradeoff & Cross-Validation | [[05_Machine_Learning_Foundations_and_Regression_Models]] | Optimal model complexity selection via K-fold cross-validation loss minima |
+| **COMP-06** | `comp_ml_p35.png` | Deep Backpropagation & CNN Architectures | [[06_Deep_Learning_Architectures_and_Optimization]] | Reverse-mode automatic differentiation computing $\partial \mathcal{L} / \partial W_{ij}$ |
+| **COMP-07** | `comp_radtrans_p05.png` | Plane-Parallel Radiative Transfer Solver | [[07_Atmospheric_Radiative_Transfer_and_Line_Profiles]] | Formal solution $I_\nu(\tau) = I_\nu(0)e^{-\tau} + \int S_\nu e^{-(\tau-t)} dt$ |
+| **COMP-08** | `comp_radtrans_p18.png` | Voigt Spectral Line Absorption Profile | [[07_Atmospheric_Radiative_Transfer_and_Line_Profiles]] | Convolution of Gaussian thermal core with Lorentzian damping wings |
+| **COMP-09** | `comp_radtrans_p30.png` | Multi-Layer Optical Depth Discretization | [[07_Atmospheric_Radiative_Transfer_and_Line_Profiles]] | Layer-by-layer cross-section summation across vertical atmospheric columns |
+| **COMP-10** | `comp_retrieval_p05.png` | TauREx 3 Retrieval Architecture Flowchart | [[08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx]] | Forward model coupling $P-T$ profiles, molecular opacities, and MCMC sampler |
+| **COMP-11** | `comp_retrieval_p15.png` | Synthetic Transmission Spectrum Modeling | [[08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx]] | Molecular spectral signatures ($\mathrm{H_2O, CH_4, CO, CO_2}$) modulated by scale height |
+| **COMP-12** | `comp_retrieval_p25.png` | Atmospheric Retrieval Posterior Corner Plot | [[08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx]] | Parameter correlations between temperature $T_{\mathrm{iso}}$ and gas mixing ratios |
+| **COMP-13** | `comp_nestedsamp_p10.png` | Skilling Prior Volume Mapping | [[10_Nested_Sampling_and_Evidence_Computation]] | Transforming multi-D parameter integral to 1D scalar volume $X \in [0, 1]$ |
+| **COMP-14** | `comp_nestedsamp_p30.png` | Live Point Iso-Likelihood Contraction | [[10_Nested_Sampling_and_Evidence_Computation]] | Stochastic volume compression $\langle \ln X_i \rangle = -i / N_{\mathrm{live}}$ |
+| **COMP-15** | `comp_nestedsamp_p50.png` | MultiNest Ellipsoidal Clustering | [[10_Nested_Sampling_and_Evidence_Computation]] | Multi-modal decomposition isolating disjoint posterior modes efficiently |
+| **COMP-16** | `comp_mpi_p05.png` | Distributed MPI Communication Topologies | [[12_MPI_Distributed_Memory_Programming_with_Python]] | Point-to-point non-blocking vs collective `Bcast` and `Reduce` in `mpi4py` |
+| **COMP-17** | `comp_mpi_p15.png` | Amdahl's Law and Parallel Scaling Limits | [[12_MPI_Distributed_Memory_Programming_with_Python]] | Strong scaling speedup asymptote $S(N) \to 1/(1-p)$ on CloudVeneto clusters |
 
 ---
 

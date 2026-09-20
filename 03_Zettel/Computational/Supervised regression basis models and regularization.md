@@ -37,16 +37,16 @@ when basis dimensions $M$ approach or exceed sample size $N$, $\boldsymbol{\Phi}
 
 ## see also
 
-- [Computational_Astrophysics_MOC](../../04_Atlas/Computational_Astrophysics_MOC.html)
-- [05_Machine_Learning_Foundations_and_Regression_Models](../../02_Literature/Lectures/Computational_Astrophysics/05_Machine_Learning_Foundations_and_Regression_Models.html)
-- [Deep neural networks and backpropagation for astronomical spectra](Deep%20neural%20networks%20and%20backpropagation%20for%20astronomical%20spectra.html)
+- [[Computational_Astrophysics_MOC]]
+- [[05_Machine_Learning_Foundations_and_Regression_Models]]
+- [[Deep neural networks and backpropagation for astronomical spectra]]
 - Bayesian Inference and Parameter Estimation
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Deep%20neural%20networks%20and%20backpropagation%20for%20astronomical%20spectra.html" class="backlink-item">Deep neural networks and backpropagation for astronomical spectra</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Deep neural networks and backpropagation for astronomical spectra]]
+- [[Computational_Astrophysics_MOC]]
+
 

@@ -45,18 +45,18 @@ Density perturbations survive on all astrophysically relevant scales, giving ris
 
 ## connections & zettel links
 
-* parent moc: [Cosmology_of_the_Early_Universe_MOC](../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html)
+* parent moc: [[Cosmology_of_the_Early_Universe_MOC]]
 * related zettels:
-  - [Dark matter thermal freeze-out and Lee-Weinberg bound](Dark%20matter%20thermal%20freeze-out%20and%20Lee-Weinberg%20bound.html)
-  - [Non-thermal dark matter relics and axion misalignment](Non-thermal%20dark%20matter%20relics%20and%20axion%20misalignment.html)
-  - [Part6_Reheating_Baryogenesis_and_Dark_Matter](../../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part6_Reheating_Baryogenesis_and_Dark_Matter.html)
+  - [[Dark matter thermal freeze-out and Lee-Weinberg bound]]
+  - [[Non-thermal dark matter relics and axion misalignment]]
+  - [[Part6_Reheating_Baryogenesis_and_Dark_Matter]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Dark%20matter%20thermal%20freeze-out%20and%20Lee-Weinberg%20bound.html" class="backlink-item">Dark matter thermal freeze-out and Lee-Weinberg bound</a></li>
-    <li class="backlink-item-wrap"><a href="Non-thermal%20dark%20matter%20relics%20and%20axion%20misalignment.html" class="backlink-item">Non-thermal dark matter relics and axion misalignment</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html" class="backlink-item">Cosmology_of_the_Early_Universe_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Dark matter thermal freeze-out and Lee-Weinberg bound]]
+- [[Non-thermal dark matter relics and axion misalignment]]
+- [[Cosmology_of_the_Early_Universe_MOC]]
+
 

@@ -42,19 +42,19 @@ $$v_k(\tau) = \frac{\sqrt{\pi}}{2} e^{i(\nu + 1/2)\frac{\pi}{2}} \sqrt{-\tau}\, 
 
 ## connections & zettel links
 
-* parent moc: [Cosmology_of_the_Early_Universe_MOC](../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html)
+* parent moc: [[Cosmology_of_the_Early_Universe_MOC]]
 * related zettels:
-  - [Sasaki-Mukhanov variable and equation](Sasaki-Mukhanov%20variable%20and%20equation.html)
-  - [Quantum fluctuations of the inflaton field](Quantum%20fluctuations%20of%20the%20inflaton%20field.html)
-  - [Primordial non-Gaussianity and bispectrum shapes](Primordial%20non-Gaussianity%20and%20bispectrum%20shapes.html)
-  - [Part3_Quantum_Perturbations_and_Power_Spectra](../../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part3_Quantum_Perturbations_and_Power_Spectra.html)
+  - [[Sasaki-Mukhanov variable and equation]]
+  - [[Quantum fluctuations of the inflaton field]]
+  - [[Primordial non-Gaussianity and bispectrum shapes]]
+  - [[Part3_Quantum_Perturbations_and_Power_Spectra]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Quantum%20fluctuations%20of%20the%20inflaton%20field.html" class="backlink-item">Quantum fluctuations of the inflaton field</a></li>
-    <li class="backlink-item-wrap"><a href="Sasaki-Mukhanov%20variable%20and%20equation.html" class="backlink-item">Sasaki-Mukhanov variable and equation</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html" class="backlink-item">Cosmology_of_the_Early_Universe_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Quantum fluctuations of the inflaton field]]
+- [[Sasaki-Mukhanov variable and equation]]
+- [[Cosmology_of_the_Early_Universe_MOC]]
+
 

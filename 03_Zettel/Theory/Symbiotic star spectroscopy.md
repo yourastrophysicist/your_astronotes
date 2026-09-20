@@ -51,19 +51,19 @@ symbiotics offer an unusual window into:
 
 ## see also
 
-- [Emission line stars](Emission%20line%20stars.html)
-- [Galactic novae spectroscopy](Galactic%20novae%20spectroscopy.html)
-- [OIII forbidden lines](OIII%20forbidden%20lines.html)
-- [Helium energy levels](Helium%20energy%20levels.html)
-- [Type Ia supernovae as standard candles](Type%20Ia%20supernovae%20as%20standard%20candles.html)
-- [Stellar spectra and spectral classification](Stellar%20spectra%20and%20spectral%20classification.html)
+- [[Emission line stars]]
+- [[Galactic novae spectroscopy]]
+- [[OIII forbidden lines]]
+- [[Helium energy levels]]
+- [[Type Ia supernovae as standard candles]]
+- [[Stellar spectra and spectral classification]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Emission%20line%20stars.html" class="backlink-item">Emission line stars</a></li>
-    <li class="backlink-item-wrap"><a href="Galactic%20novae%20spectroscopy.html" class="backlink-item">Galactic novae spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Emission line stars]]
+- [[Galactic novae spectroscopy]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 

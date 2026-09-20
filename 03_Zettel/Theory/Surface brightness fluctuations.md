@@ -48,13 +48,13 @@ an independent rung in the distance ladder: SBF can target the same galaxies as 
 
 ## see also
 
-- [Distance ladder derivations](Distance%20ladder%20derivations.html)
-- [Cepheid period-luminosity relation](Cepheid%20period-luminosity%20relation.html)
-- [TRGB tip of the red giant branch](TRGB%20tip%20of%20the%20red%20giant%20branch.html)
-- [Type Ia supernovae as standard candles](Type%20Ia%20supernovae%20as%20standard%20candles.html)
-- [Galaxy size-luminosity relation](Galaxy%20size-luminosity%20relation.html)
-- [Initial mass function](Initial%20mass%20function.html)
-- [Stellar populations I II III](Stellar%20populations%20I%20II%20III.html)
+- [[Distance ladder derivations]]
+- [[Cepheid period-luminosity relation]]
+- [[TRGB tip of the red giant branch]]
+- [[Type Ia supernovae as standard candles]]
+- [[Galaxy size-luminosity relation]]
+- [[Initial mass function]]
+- [[Stellar populations I II III]]
 
 ---
 
@@ -72,10 +72,10 @@ an independent rung in the distance ladder: SBF can target the same galaxies as 
 ![obs_dist-40.png](../../assets/images/obs_dist-40.png)
 *SBF distance range out to ~100 Mpc with HST and JWST.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (1)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Observational_Astrophysics_MOC]]
+
 

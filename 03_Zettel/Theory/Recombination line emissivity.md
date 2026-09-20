@@ -61,21 +61,21 @@ each recombination produces **one Balmer photon** on average (about $0.45$ H$\al
 
 ## see also
 
-- [Optically thin recombination lines](Optically%20thin%20recombination%20lines.html)
-- [Case A vs Case B recombination](Case%20A%20vs%20Case%20B%20recombination.html)
-- [Balmer decrement](Balmer%20decrement.html)
-- [H-alpha SFR tracer](H-alpha%20SFR%20tracer.html)
-- [Hydrogen spectral series](Hydrogen%20spectral%20series.html)
+- [[Optically thin recombination lines]]
+- [[Case A vs Case B recombination]]
+- [[Balmer decrement]]
+- [[H-alpha SFR tracer]]
+- [[Hydrogen spectral series]]
 - Strömgren sphere
-- [Recombination continuum](Recombination%20continuum.html)
-- [Photoionisation balance](Photoionisation%20balance.html)
+- [[Recombination continuum]]
+- [[Photoionisation balance]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Case%20A%20vs%20Case%20B%20recombination.html" class="backlink-item">Case A vs Case B recombination</a></li>
-    <li class="backlink-item-wrap"><a href="Optically%20thin%20recombination%20lines.html" class="backlink-item">Optically thin recombination lines</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Case A vs Case B recombination]]
+- [[Optically thin recombination lines]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 

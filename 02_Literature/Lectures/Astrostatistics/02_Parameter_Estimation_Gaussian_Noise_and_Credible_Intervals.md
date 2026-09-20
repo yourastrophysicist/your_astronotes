@@ -5,7 +5,7 @@ title: "02_Parameter_Estimation_Gaussian_Noise_and_Credible_Intervals"
 # Parameter Estimation, Gaussian Noise, and Credible Intervals
 
 Graduate lecture notes in Astro-Statistics and Cosmology, taught by Prof. Michele Liguori at the University of Padua.
-Reference index [Astro-Statistics_and_Cosmology_MOC](../../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html)
+Reference index [[Astro-Statistics_and_Cosmology_MOC]]
 
 ---
 
@@ -208,11 +208,11 @@ For a symmetric unimodal distribution (such as a Gaussian), the equal-tailed int
 
 ## Conceptual Connections
 
-- [Astro-Statistics_and_Cosmology_MOC](../../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html) - Master syllabus map of content
-- [01_Plausible_Reasoning_Cox_Theorem_and_Bayesian_Foundations](./01_Plausible_Reasoning_Cox_Theorem_and_Bayesian_Foundations.html) - Cox theorem and product/sum rules
-- [03_Multivariate_Gaussians_Marginalization_Conditioning_and_Linear_Models](./03_Multivariate_Gaussians_Marginalization_Conditioning_and_Linear_Models.html) - Linear models, chi-squared surfaces, and error ellipses
-- [04_Frequentist_vs_Bayesian_Inference_and_Confidence_Intervals](./04_Frequentist_vs_Bayesian_Inference_and_Confidence_Intervals.html) - Exact mathematical contrast between credible intervals and confidence intervals
-- [06_Fisher_Information_Matrix_Cramer_Rao_Bound_and_Survey_Forecasting](./06_Fisher_Information_Matrix_Cramer_Rao_Bound_and_Survey_Forecasting.html) - Cramér-Rao inequality and asymptotic covariance calculation
+- [[Astro-Statistics_and_Cosmology_MOC]] - Master syllabus map of content
+- [[01_Plausible_Reasoning_Cox_Theorem_and_Bayesian_Foundations]] - Cox theorem and product/sum rules
+- [[03_Multivariate_Gaussians_Marginalization_Conditioning_and_Linear_Models]] - Linear models, chi-squared surfaces, and error ellipses
+- [[04_Frequentist_vs_Bayesian_Inference_and_Confidence_Intervals]] - Exact mathematical contrast between credible intervals and confidence intervals
+- [[06_Fisher_Information_Matrix_Cramer_Rao_Bound_and_Survey_Forecasting]] - Cramér-Rao inequality and asymptotic covariance calculation
 
 
 ## Lecture Visuals & Parameter Estimation
@@ -220,12 +220,12 @@ For a symmetric unimodal distribution (such as a Gaussian), the equal-tailed int
 ![Parameter Estimation and Credible Intervals](../../../assets/images/astrostat_liguori_p10.png)
 *Figure AST-02: Bayesian Parameter Estimation with Gaussian Measurement Noise. The posterior probability density function $P(\theta \mid D, I) \propto \mathcal{L}(D \mid \theta) \pi(\theta)$ under homoscedastic Gaussian noise $\sigma$ yields the quadratic log-likelihood $\ln \mathcal{L} = -\frac{1}{2} \sum \frac{(d_i - \mu_i(\theta))^2}{\sigma^2}$. The $68.3\%$ and $95.4\%$ Bayesian credible intervals are computed via direct integration of the posterior volume: $\int_{\Omega_C} P(\theta \mid D) d\theta = 1 - \alpha$.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Bernstein-von%20Mises%20theorem%20and%20Bayesian%20asymptotics.html" class="backlink-item">Bernstein-von Mises theorem and Bayesian asymptotics</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Maximum%20likelihood%20versus%20maximum%20a%20posteriori%20estimation.html" class="backlink-item">Maximum likelihood versus maximum a posteriori estimation</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Bernstein-von Mises theorem and Bayesian asymptotics]]
+- [[Maximum likelihood versus maximum a posteriori estimation]]
+- [[Astro-Statistics_and_Cosmology_MOC]]
+
 

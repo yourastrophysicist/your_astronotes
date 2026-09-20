@@ -6,7 +6,7 @@ title: "Lesson 00 - Course Overview and Research Methodology"
 
 *Astrophysics Laboratory 2, Master Degree in Astrophysics and Cosmology, Università degli Studi di Padova*  
 *Lecturers: Prof. Luca Malavolta (36 hours), Prof. Giampaolo Piotto (12 hours)*  
-*Index: [Astrophysics_Laboratory_2_MOC](../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html)*
+*Index: [[Astrophysics_Laboratory_2_MOC]]*
 
 ---
 
@@ -69,15 +69,15 @@ The examination consists of two interdependent components:
 ---
 
 ## Related Notes
-- [Lesson 01 - Linux Environment and Scientific Python Setup](./Lesson%2001%20-%20Linux%20Environment%20and%20Scientific%20Python%20Setup.html)
-- [Astrophysics Lab 2 Report Specifications and AA Format](../../../03_Zettel/Activities/Astrophysics%20Lab%202%20Report%20Specifications%20and%20AA%20Format.html)
-- [Laboratory Report Guidelines and Scientific Writing](./Laboratory%20Report%20Guidelines%20and%20Scientific%20Writing.html)
+- [[Lesson 01 - Linux Environment and Scientific Python Setup]]
+- [[Astrophysics Lab 2 Report Specifications and AA Format]]
+- [[Laboratory Report Guidelines and Scientific Writing]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Activities/Astrophysics%20Lab%202%20Report%20Specifications%20and%20AA%20Format.html" class="backlink-item">Astrophysics Lab 2 Report Specifications and AA Format</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Astrophysics Lab 2 Report Specifications and AA Format]]
+- [[Astrophysics_Laboratory_2_MOC]]
+
 

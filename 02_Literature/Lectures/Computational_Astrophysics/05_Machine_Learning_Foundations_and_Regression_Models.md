@@ -5,7 +5,7 @@ title: "05_Machine_Learning_Foundations_and_Regression_Models"
 # Lesson 05 – Machine Learning Foundations and Regression Models
 
 *Computational Astrophysics, Prof. Tiziano Zingales*  
-*Index: [Computational_Astrophysics_MOC](../../../04_Atlas/Computational_Astrophysics_MOC.html)*
+*Index: [[Computational_Astrophysics_MOC]]*
 
 ---
 
@@ -243,10 +243,10 @@ Random Forests provide an explicit ranking of physical features: the importance 
 ---
 
 ## Related Notes
-- [00_Course_Overview_and_Computational_Laboratories](./00_Course_Overview_and_Computational_Laboratories.html)
-- [04_Exoplanet_Demographics_Orbital_Mechanics_and_Transits](./04_Exoplanet_Demographics_Orbital_Mechanics_and_Transits.html)
-- [06_Deep_Learning_Architectures_and_Optimization](./06_Deep_Learning_Architectures_and_Optimization.html)
-- [09_Bayesian_Inference_and_Parameter_Estimation](./09_Bayesian_Inference_and_Parameter_Estimation.html)
+- [[00_Course_Overview_and_Computational_Laboratories]]
+- [[04_Exoplanet_Demographics_Orbital_Mechanics_and_Transits]]
+- [[06_Deep_Learning_Architectures_and_Optimization]]
+- [[09_Bayesian_Inference_and_Parameter_Estimation]]
 
 
 ## Computational Visuals & Machine Learning Regression
@@ -257,11 +257,11 @@ Random Forests provide an explicit ranking of physical features: the importance 
 ![Bias-Variance Tradeoff and Cross-Validation](../../../assets/images/comp_ml_p20.png)
 *Figure COMP-05: Bias-Variance tradeoff curve and K-fold cross-validation performance as a function of model complexity and polynomial basis degrees.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Computational/Supervised%20regression%20basis%20models%20and%20regularization.html" class="backlink-item">Supervised regression basis models and regularization</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Supervised regression basis models and regularization]]
+- [[Computational_Astrophysics_MOC]]
+
 

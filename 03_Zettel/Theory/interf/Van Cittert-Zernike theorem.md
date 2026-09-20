@@ -134,39 +134,29 @@ source: local study diagram generated from the standard narrow-field VCZ relatio
 
 ## see also
 
-- [Spatial coherence](Spatial%20coherence.html)
-- [Coherence function and visibility](Coherence%20function%20and%20visibility.html)
-- [Fringe visibility and contrast](Fringe%20visibility%20and%20contrast.html)
-- [Aperture synthesis principle](Aperture%20synthesis%20principle.html)
-- [The (u, v) plane](The%20%28u%2C%20v%29%20plane.html)
-- [Dirty beam and dirty image](Dirty%20beam%20and%20dirty%20image.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Spatial coherence]]
+- [[Coherence function and visibility]]
+- [[Fringe visibility and contrast]]
+- [[Aperture synthesis principle]]
+- [[The (u, v) plane]]
+- [[Dirty beam and dirty image]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (22)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Coherence%20function%20and%20visibility.html" class="backlink-item">Coherence function and visibility</a></li>
-    <li class="backlink-item-wrap"><a href="../Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="../Fraunhofer%20diffraction.html" class="backlink-item">Fraunhofer diffraction</a></li>
-    <li class="backlink-item-wrap"><a href="../Fringe%20visibility%20and%20contrast.html" class="backlink-item">Fringe visibility and contrast</a></li>
-    <li class="backlink-item-wrap"><a href="../Spatial%20coherence.html" class="backlink-item">Spatial coherence</a></li>
-    <li class="backlink-item-wrap"><a href="../Specific%20intensity%20and%20flux%20density.html" class="backlink-item">Specific intensity and flux density</a></li>
-    <li class="backlink-item-wrap"><a href="../Stellar%20diameters%20and%20limb%20darkening.html" class="backlink-item">Stellar diameters and limb darkening</a></li>
-    <li class="backlink-item-wrap"><a href="../The%20%28u%2C%20v%29%20plane.html" class="backlink-item">The (u, v) plane</a></li>
-    <li class="backlink-item-wrap"><a href="../Why%20interferometry.html" class="backlink-item">Why interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="../Wiener-Khinchin%20theorem.html" class="backlink-item">Wiener-Khinchin theorem</a></li>
-    <li class="backlink-item-wrap"><a href="Coherence%20function%20and%20visibility.html" class="backlink-item">Coherence function and visibility</a></li>
-    <li class="backlink-item-wrap"><a href="Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="Fraunhofer%20diffraction.html" class="backlink-item">Fraunhofer diffraction</a></li>
-    <li class="backlink-item-wrap"><a href="Fringe%20visibility%20and%20contrast.html" class="backlink-item">Fringe visibility and contrast</a></li>
-    <li class="backlink-item-wrap"><a href="Spatial%20coherence.html" class="backlink-item">Spatial coherence</a></li>
-    <li class="backlink-item-wrap"><a href="Specific%20intensity%20and%20flux%20density.html" class="backlink-item">Specific intensity and flux density</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20diameters%20and%20limb%20darkening.html" class="backlink-item">Stellar diameters and limb darkening</a></li>
-    <li class="backlink-item-wrap"><a href="Superposition%20and%20interference.html" class="backlink-item">Superposition and interference</a></li>
-    <li class="backlink-item-wrap"><a href="The%20%28u%2C%20v%29%20plane.html" class="backlink-item">The (u, v) plane</a></li>
-    <li class="backlink-item-wrap"><a href="Why%20interferometry.html" class="backlink-item">Why interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="Wiener-Khinchin%20theorem.html" class="backlink-item">Wiener-Khinchin theorem</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Coherence function and visibility]]
+- [[Figure bank - interferometry]]
+- [[Fraunhofer diffraction]]
+- [[Fringe visibility and contrast]]
+- [[Spatial coherence]]
+- [[Specific intensity and flux density]]
+- [[Stellar diameters and limb darkening]]
+- [[The (u, v) plane]]
+- [[Why interferometry]]
+- [[Wiener-Khinchin theorem]]
+- [[Superposition and interference]]
+- [[Astronomical_Interferometry_MOC]]
+
 

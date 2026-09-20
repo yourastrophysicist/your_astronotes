@@ -4,7 +4,7 @@ title: "Galaxy main sequence of star formation"
 ---
 # galaxy main sequence of star formation
 
-up: [Pablo_02_Statistical_properties_of_galaxies](../../02_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html)
+up: [[Pablo_02_Statistical_properties_of_galaxies]]
 
 ## the relation
 
@@ -30,7 +30,7 @@ the small scatter ($\sim 0.3$ dex) means that, at any given epoch, *most* galaxi
 
 starbursts (above the MS) are the *out-of-equilibrium* objects, mostly major mergers.
 
-quenched galaxies (below the MS) are *post-equilibrium*, having shut off star formation entirely (these are the [Red sequence and blue cloud](Red%20sequence%20and%20blue%20cloud.html) red sequence).
+quenched galaxies (below the MS) are *post-equilibrium*, having shut off star formation entirely (these are the [[Red sequence and blue cloud]] red sequence).
 
 ## three modes in the SFR-$M_*$ plane
 
@@ -51,10 +51,10 @@ the MS line on his plot is solid; the dashed and dotted lines are $4\times$ and 
 
 ## connections
 
-- driver: [Cosmic star formation history](Cosmic%20star%20formation%20history.html) (the integral over the MS gives $\rho_{SFR}$)
-- mass side: [Stellar mass function](Stellar%20mass%20function.html)
-- equilibrium picture: bathtub model, gas accretion vs feedback (see [Halo gravity suppression of galaxy formation](Halo%20gravity%20suppression%20of%20galaxy%20formation.html))
-- companion scaling relations: [Fundamental plane of ellipticals](Fundamental%20plane%20of%20ellipticals.html), [Tully-Fisher relation](Tully-Fisher%20relation.html), [Schmidt-Kennicutt law](Schmidt-Kennicutt%20law.html)
+- driver: [[Cosmic star formation history]] (the integral over the MS gives $\rho_{SFR}$)
+- mass side: [[Stellar mass function]]
+- equilibrium picture: bathtub model, gas accretion vs feedback (see [[Halo gravity suppression of galaxy formation]])
+- companion scaling relations: [[Fundamental plane of ellipticals]], [[Tully-Fisher relation]], [[Schmidt-Kennicutt law]]
 
 ## key references
 
@@ -63,17 +63,17 @@ the MS line on his plot is solid; the dashed and dotted lines are $4\times$ and 
 - Speagle et al. 2014 (compilation of MS measurements)
 - Daddi et al. 2007 (high-$z$ MS)
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (8)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Cosmic%20star%20formation%20history.html" class="backlink-item">Cosmic star formation history</a></li>
-    <li class="backlink-item-wrap"><a href="Galaxy%20mergers%20and%20SF.html" class="backlink-item">Galaxy mergers and SF</a></li>
-    <li class="backlink-item-wrap"><a href="LIRGs%20ULIRGs%20HyLIRGs.html" class="backlink-item">LIRGs ULIRGs HyLIRGs</a></li>
-    <li class="backlink-item-wrap"><a href="Peculiar%20velocities%20of%20galaxies%20and%20structures.html" class="backlink-item">Peculiar velocities of galaxies and structures</a></li>
-    <li class="backlink-item-wrap"><a href="SFR%20and%20stellar%20mass%20density%20connection.html" class="backlink-item">SFR and stellar mass density connection</a></li>
-    <li class="backlink-item-wrap"><a href="Schmidt-Kennicutt%20law.html" class="backlink-item">Schmidt-Kennicutt law</a></li>
-    <li class="backlink-item-wrap"><a href="Star%20formation%20rate%20and%20sSFR.html" class="backlink-item">Star formation rate and sSFR</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Cosmic star formation history]]
+- [[Galaxy mergers and SF]]
+- [[LIRGs ULIRGs HyLIRGs]]
+- [[Peculiar velocities of galaxies and structures]]
+- [[SFR and stellar mass density connection]]
+- [[Schmidt-Kennicutt law]]
+- [[Star formation rate and sSFR]]
+- [[Observational_Cosmology_MOC]]
+
 

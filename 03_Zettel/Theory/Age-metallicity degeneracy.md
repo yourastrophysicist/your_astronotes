@@ -77,17 +77,17 @@ to decouple age from metallicity, one must exploit spectral features that depend
 
 ## see also
 
-- [Observational_Astrophysics_MOC](../../04_Atlas/Observational_Astrophysics_MOC.html)
-- [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
-- [Lick indices](Lick%20indices.html)
-- [Stellar population synthesis](Stellar%20population%20synthesis.html)
-- [Single stellar population SSP](Single%20stellar%20population%20SSP.html)
-- [SPS code families](SPS%20code%20families.html)
-- [SED fitting basics](SED%20fitting%20basics.html)
-- [Color-magnitude diagrams of clusters](Color-magnitude%20diagrams%20of%20clusters.html)
-- [Cluster ages from CMD turnoff](Cluster%20ages%20from%20CMD%20turnoff.html)
-- [Age estimation in unresolved populations](Age%20estimation%20in%20unresolved%20populations.html)
-- [Metallicity and chemical evolution](Metallicity%20and%20chemical%20evolution.html)
+- [[Observational_Astrophysics_MOC]]
+- [[Stellar_Astrophysics_MOC]]
+- [[Lick indices]]
+- [[Stellar population synthesis]]
+- [[Single stellar population SSP]]
+- [[SPS code families]]
+- [[SED fitting basics]]
+- [[Color-magnitude diagrams of clusters]]
+- [[Cluster ages from CMD turnoff]]
+- [[Age estimation in unresolved populations]]
+- [[Metallicity and chemical evolution]]
 
 ---
 
@@ -200,23 +200,23 @@ The following slides from Prof. Antonino Milone's lecture series provide the dir
 ![Lecture03_p5-05.png](../../assets/images/Lecture03_p5-05.png)
 *Figure P03-29: Lecture03_p5-05.png — Observational data, CMD morphology, and diagnostics from Lecture 03 — Reading the CMD III: Metallicity & Horizontal Branch.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (14)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Age%20estimation%20in%20unresolved%20populations.html" class="backlink-item">Age estimation in unresolved populations</a></li>
-    <li class="backlink-item-wrap"><a href="Isochrones%20and%20isochrone%20fitting.html" class="backlink-item">Isochrones and isochrone fitting</a></li>
-    <li class="backlink-item-wrap"><a href="Lick%20indices.html" class="backlink-item">Lick indices</a></li>
-    <li class="backlink-item-wrap"><a href="Main%20sequence%20turn-off%20as%20age%20indicator.html" class="backlink-item">Main sequence turn-off as age indicator</a></li>
-    <li class="backlink-item-wrap"><a href="Metallicity%20and%20chemical%20evolution.html" class="backlink-item">Metallicity and chemical evolution</a></li>
-    <li class="backlink-item-wrap"><a href="Photometric%20redshifts.html" class="backlink-item">Photometric redshifts</a></li>
-    <li class="backlink-item-wrap"><a href="Population%20I%20and%20II%20stars.html" class="backlink-item">Population I and II stars</a></li>
-    <li class="backlink-item-wrap"><a href="Resolved%20vs%20unresolved%20stellar%20populations.html" class="backlink-item">Resolved vs unresolved stellar populations</a></li>
-    <li class="backlink-item-wrap"><a href="SED%20fitting%20basics.html" class="backlink-item">SED fitting basics</a></li>
-    <li class="backlink-item-wrap"><a href="Single%20stellar%20population%20SSP.html" class="backlink-item">Single stellar population SSP</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20population%20synthesis.html" class="backlink-item">Stellar population synthesis</a></li>
-    <li class="backlink-item-wrap"><a href="White%20dwarf%20cooling%20sequence%20on%20the%20CMD.html" class="backlink-item">White dwarf cooling sequence on the CMD</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Age estimation in unresolved populations]]
+- [[Isochrones and isochrone fitting]]
+- [[Lick indices]]
+- [[Main sequence turn-off as age indicator]]
+- [[Metallicity and chemical evolution]]
+- [[Photometric redshifts]]
+- [[Population I and II stars]]
+- [[Resolved vs unresolved stellar populations]]
+- [[SED fitting basics]]
+- [[Single stellar population SSP]]
+- [[Stellar population synthesis]]
+- [[White dwarf cooling sequence on the CMD]]
+- [[Observational_Astrophysics_MOC]]
+- [[Stellar_Astrophysics_MOC]]
+
 

@@ -60,35 +60,35 @@ JWST + future GW standard sirens will help resolve.
 
 ## see also
 
-- [Hubble's law and cosmological redshift](Hubble%27s%20law%20and%20cosmological%20redshift.html)
-- [Hubble flow distances](Hubble%20flow%20distances.html)
-- [Hubble constant and deceleration parameter](Hubble%20constant%20and%20deceleration%20parameter.html)
-- [Hubble law derivation low-z](Hubble%20law%20derivation%20low-z.html)
-- [Hubble law exact form](Hubble%20law%20exact%20form.html)
-- [Cosmological redshift](Cosmological%20redshift.html)
-- [Friedmann equations](Friedmann%20equations.html)
-- [Distance ladder derivations](Distance%20ladder%20derivations.html)
-- [Type Ia supernovae as standard candles](Type%20Ia%20supernovae%20as%20standard%20candles.html)
-- [Cepheid period-luminosity relation](Cepheid%20period-luminosity%20relation.html)
-- [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
+- [[Hubble's law and cosmological redshift]]
+- [[Hubble flow distances]]
+- [[Hubble constant and deceleration parameter]]
+- [[Hubble law derivation low-z]]
+- [[Hubble law exact form]]
+- [[Cosmological redshift]]
+- [[Friedmann equations]]
+- [[Distance ladder derivations]]
+- [[Type Ia supernovae as standard candles]]
+- [[Cepheid period-luminosity relation]]
+- [[Observational_Cosmology_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (14)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="AU%20calibration%20parallax%20and%20parsec.html" class="backlink-item">AU calibration parallax and parsec</a></li>
-    <li class="backlink-item-wrap"><a href="Comoving%20vs%20proper%20coordinates.html" class="backlink-item">Comoving vs proper coordinates</a></li>
-    <li class="backlink-item-wrap"><a href="Cosmological%20redshift.html" class="backlink-item">Cosmological redshift</a></li>
-    <li class="backlink-item-wrap"><a href="Distance%20ladder%20derivations.html" class="backlink-item">Distance ladder derivations</a></li>
-    <li class="backlink-item-wrap"><a href="Distance%20modulus.html" class="backlink-item">Distance modulus</a></li>
-    <li class="backlink-item-wrap"><a href="Lambda%20CDM%20current%20parameters.html" class="backlink-item">Lambda CDM current parameters</a></li>
-    <li class="backlink-item-wrap"><a href="Lensing%20as%20a%20cosmological%20probe.html" class="backlink-item">Lensing as a cosmological probe</a></li>
-    <li class="backlink-item-wrap"><a href="Luminosity%20distance.html" class="backlink-item">Luminosity distance</a></li>
-    <li class="backlink-item-wrap"><a href="Peculiar%20velocities%20of%20galaxies%20and%20structures.html" class="backlink-item">Peculiar velocities of galaxies and structures</a></li>
-    <li class="backlink-item-wrap"><a href="Radial%20comoving%20distance.html" class="backlink-item">Radial comoving distance</a></li>
-    <li class="backlink-item-wrap"><a href="Strong%20vs%20weak%20lensing.html" class="backlink-item">Strong vs weak lensing</a></li>
-    <li class="backlink-item-wrap"><a href="Various%20models%20of%20the%20universe.html" class="backlink-item">Various models of the universe</a></li>
-    <li class="backlink-item-wrap"><a href="Water%20maser%20BH%20masses.html" class="backlink-item">Water maser BH masses</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[AU calibration parallax and parsec]]
+- [[Comoving vs proper coordinates]]
+- [[Cosmological redshift]]
+- [[Distance ladder derivations]]
+- [[Distance modulus]]
+- [[Lambda CDM current parameters]]
+- [[Lensing as a cosmological probe]]
+- [[Luminosity distance]]
+- [[Peculiar velocities of galaxies and structures]]
+- [[Radial comoving distance]]
+- [[Strong vs weak lensing]]
+- [[Various models of the universe]]
+- [[Water maser BH masses]]
+- [[Observational_Cosmology_MOC]]
+
 

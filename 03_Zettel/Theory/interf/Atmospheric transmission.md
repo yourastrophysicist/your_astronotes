@@ -46,7 +46,7 @@ It is important not to confuse seeing and transparency:
 
 Turbulence in the atmosphere scrambles the wavefront of starlight
 	causing **image blurring** (seeing) and **brightness fluctuations** (scintillation / twinkling)
-		see [Seeing Effect](../Seeing%20Effect.html) for the full treatment including the Fried parameter and Kolmogorov turbulence
+		see [[Seeing Effect]] for the full treatment including the Fried parameter and Kolmogorov turbulence
 
 The seeing **degrades angular resolution** — for a large aperture telescope the seeing limit is:
 $$\theta_{seeing} \approx \frac{\lambda}{r_0} \sim 0.5'' - 2''$$
@@ -66,7 +66,7 @@ Transmission of the Earth's atmosphere as a function of wavelength. Only the opt
 
 At X-ray energies:
 	photons are absorbed by **photoelectric absorption** by atmospheric atoms (N, O, Ar)
-		the cross section $\sigma_{ph} \propto Z^{4-5}/E^3$ — see [Photoelectric absorption](../Photoelectric%20absorption.html)
+		the cross section $\sigma_{ph} \propto Z^{4-5}/E^3$ — see [[Photoelectric absorption]]
 			even at $E = 10~\text{keV}$: the optical depth $\tau_{atm} \gg 1$ — **complete opacity**
 
 The atmospheric column density:
@@ -114,12 +114,11 @@ This means: **all X-ray and gamma-ray observatories must operate from space**
 | Hard X-ray | 0.01–0.1 nm | 10–100 keV | Space (balloon possible) |
 | Gamma-ray | $< 0.01$ nm | $> 100$ keV | Space |
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Atmospheric%20transparency%20windows.html" class="backlink-item">Atmospheric transparency windows</a></li>
-    <li class="backlink-item-wrap"><a href="Atmospheric%20transparency%20windows.html" class="backlink-item">Atmospheric transparency windows</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Atmospheric transparency windows]]
+- [[Lab_High-Energy_MOC]]
+
 

@@ -18,7 +18,7 @@ with the dot meaning $d/d\lambda$. the Christoffel correction is the price of us
 
 intuitively: at each step along the curve, "parallel transport" the vector by adjusting it just enough to compensate for the curving of the coordinate basis. the geometric content: the vector "stays parallel to itself" in the sense determined by the connection.
 
-on a curved manifold, parallel transport is **path-dependent**: transporting a vector around a closed loop generally returns it to a **rotated** version of itself. the rotation is exactly the **Riemann tensor** (see [Riemann tensor](Riemann%20tensor.html)).
+on a curved manifold, parallel transport is **path-dependent**: transporting a vector around a closed loop generally returns it to a **rotated** version of itself. the rotation is exactly the **Riemann tensor** (see [[Riemann tensor]]).
 
 ## the canonical example: the 2-sphere
 
@@ -39,7 +39,7 @@ this is the "auto-parallel" definition of geodesic: a curve whose tangent is par
 
 ## connection to metric compatibility
 
-[Metric compatibility](Metric%20compatibility.html) $\nabla g = 0$ implies that **inner products are preserved** under parallel transport:
+[[Metric compatibility]] $\nabla g = 0$ implies that **inner products are preserved** under parallel transport:
 $$\frac{d}{d\lambda}(g_{\mu\nu}V^\mu W^\nu) = 0$$
 
 so two vectors parallel-transported along the same curve maintain their relative angle and magnitudes.
@@ -57,22 +57,22 @@ this is the operational definition of curvature: not "how the manifold looks ben
 
 ## see also
 
-- [Christoffel symbols](Christoffel%20symbols.html)
-- [Covariant derivative](Covariant%20derivative.html)
-- [Levi-Civita connection](Levi-Civita%20connection.html)
-- [Metric compatibility](Metric%20compatibility.html)
-- [Geodesic equation](Geodesic%20equation.html)
-- [Riemann tensor](Riemann%20tensor.html)
-- [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
-- [Ch 2 - Some Differential Geometry](../../02_Literature/Book/Baumann%20GR/Ch%202%20-%20Some%20Differential%20Geometry.html)
+- [[Christoffel symbols]]
+- [[Covariant derivative]]
+- [[Levi-Civita connection]]
+- [[Metric compatibility]]
+- [[Geodesic equation]]
+- [[Riemann tensor]]
+- [[General_Relativity_MOC]]
+- [[Ch 2 - Some Differential Geometry]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Geodesic%20equation.html" class="backlink-item">Geodesic equation</a></li>
-    <li class="backlink-item-wrap"><a href="Levi-Civita%20connection.html" class="backlink-item">Levi-Civita connection</a></li>
-    <li class="backlink-item-wrap"><a href="Metric%20compatibility.html" class="backlink-item">Metric compatibility</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Geodesic equation]]
+- [[Levi-Civita connection]]
+- [[Metric compatibility]]
+- [[General_Relativity_MOC]]
+
 

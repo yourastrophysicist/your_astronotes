@@ -123,14 +123,14 @@ Effect on X-ray QE:
 ![xray_detector_p5_page.png](../../assets/images/xray_detector_p5_page.png)
 *X-ray CCD Quantum Efficiency curve: low-energy cutoff governed by optical blocking filter/dead layers, high-energy cutoff governed by silicon depletion depth ($d \sim 30-300\,\mu$m).*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="CCD%20basics.html" class="backlink-item">CCD basics</a></li>
-    <li class="backlink-item-wrap"><a href="Charge-Coupled%20Device.html" class="backlink-item">Charge-Coupled Device</a></li>
-    <li class="backlink-item-wrap"><a href="Effective%20Area.html" class="backlink-item">Effective Area</a></li>
-    <li class="backlink-item-wrap"><a href="Luminosity%20and%20Flux%20for%20-Instrumentations.html" class="backlink-item">Luminosity and Flux for -Instrumentations</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[CCD basics]]
+- [[Charge-Coupled Device]]
+- [[Effective Area]]
+- [[Luminosity and Flux for -Instrumentations]]
+- [[Lab_High-Energy_MOC]]
+
 

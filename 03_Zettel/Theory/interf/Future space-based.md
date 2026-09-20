@@ -113,20 +113,18 @@ these costs require sustained political support over decades. science cases must
 
 ## see also
 
-- [Future ground-based optical](Future%20ground-based%20optical.html)
-- [Hypertelescope](Hypertelescope.html)
-- [Bracewell nuller](Bracewell%20nuller.html)
-- [Exoplanet imaging](Exoplanet%20imaging.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Future ground-based optical]]
+- [[Hypertelescope]]
+- [[Bracewell nuller]]
+- [[Exoplanet imaging]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Future%20ground-based%20optical.html" class="backlink-item">Future ground-based optical</a></li>
-    <li class="backlink-item-wrap"><a href="../Lunar%20interferometry%20concepts.html" class="backlink-item">Lunar interferometry concepts</a></li>
-    <li class="backlink-item-wrap"><a href="Future%20ground-based%20optical.html" class="backlink-item">Future ground-based optical</a></li>
-    <li class="backlink-item-wrap"><a href="Lunar%20interferometry%20concepts.html" class="backlink-item">Lunar interferometry concepts</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Future ground-based optical]]
+- [[Lunar interferometry concepts]]
+- [[Astronomical_Interferometry_MOC]]
+
 

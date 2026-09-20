@@ -4,7 +4,7 @@ title: "Narrabri stellar interferometer"
 ---
 # Narrabri stellar interferometer
 
-the first instrument built specifically for [HBT](Hanbury%20Brown%20Twiss%20effect.html) intensity interferometry on the sky. operated 1965-1972 in Australia. measured 32 stellar angular diameters with ~1% precision, the first systematic catalog of stellar diameters by interferometry.
+the first instrument built specifically for [[Hanbury Brown Twiss effect|HBT]] intensity interferometry on the sky. operated 1965-1972 in Australia. measured 32 stellar angular diameters with ~1% precision, the first systematic catalog of stellar diameters by interferometry.
 
 ## the instrument
 
@@ -88,24 +88,20 @@ VERITAS (gamma-ray Cherenkov telescopes, ~17 m equivalent buckets) demonstrated 
 
 ## see also
 
-- [Intensity interferometry concept](Intensity%20interferometry%20concept.html)
-- [Hanbury Brown Twiss effect](Hanbury%20Brown%20Twiss%20effect.html)
-- [Why intensity interferometry escapes atmospheric phase](Why%20intensity%20interferometry%20escapes%20atmospheric%20phase.html)
-- [Sensitivity and modern revival](Sensitivity%20and%20modern%20revival.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Intensity interferometry concept]]
+- [[Hanbury Brown Twiss effect]]
+- [[Why intensity interferometry escapes atmospheric phase]]
+- [[Sensitivity and modern revival]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (9)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Hanbury%20Brown%20Twiss%20effect.html" class="backlink-item">Hanbury Brown Twiss effect</a></li>
-    <li class="backlink-item-wrap"><a href="../Intensity%20interferometry%20concept.html" class="backlink-item">Intensity interferometry concept</a></li>
-    <li class="backlink-item-wrap"><a href="../Sensitivity%20and%20modern%20revival.html" class="backlink-item">Sensitivity and modern revival</a></li>
-    <li class="backlink-item-wrap"><a href="../Why%20intensity%20interferometry%20escapes%20atmospheric%20phase.html" class="backlink-item">Why intensity interferometry escapes atmospheric phase</a></li>
-    <li class="backlink-item-wrap"><a href="Hanbury%20Brown%20Twiss%20effect.html" class="backlink-item">Hanbury Brown Twiss effect</a></li>
-    <li class="backlink-item-wrap"><a href="Intensity%20interferometry%20concept.html" class="backlink-item">Intensity interferometry concept</a></li>
-    <li class="backlink-item-wrap"><a href="Sensitivity%20and%20modern%20revival.html" class="backlink-item">Sensitivity and modern revival</a></li>
-    <li class="backlink-item-wrap"><a href="Why%20intensity%20interferometry%20escapes%20atmospheric%20phase.html" class="backlink-item">Why intensity interferometry escapes atmospheric phase</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Hanbury Brown Twiss effect]]
+- [[Intensity interferometry concept]]
+- [[Sensitivity and modern revival]]
+- [[Why intensity interferometry escapes atmospheric phase]]
+- [[Astronomical_Interferometry_MOC]]
+
 

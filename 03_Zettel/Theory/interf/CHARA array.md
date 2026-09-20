@@ -115,37 +115,27 @@ modern interferometric science papers often combine CHARA's high-resolution imag
 
 ## see also
 
-- [Components of a modern interferometer](Components%20of%20a%20modern%20interferometer.html)
-- [VLTI Very Large Telescope Interferometer](VLTI%20Very%20Large%20Telescope%20Interferometer.html)
-- [Stellar surface imaging](Stellar%20surface%20imaging.html)
-- [Stellar diameters and limb darkening](Stellar%20diameters%20and%20limb%20darkening.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Components of a modern interferometer]]
+- [[VLTI Very Large Telescope Interferometer]]
+- [[Stellar surface imaging]]
+- [[Stellar diameters and limb darkening]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (22)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Beam%20combiners.html" class="backlink-item">Beam combiners</a></li>
-    <li class="backlink-item-wrap"><a href="../Binary%20star%20orbits.html" class="backlink-item">Binary star orbits</a></li>
-    <li class="backlink-item-wrap"><a href="../COAST%20Cambridge%20Optical%20Aperture%20Synthesis%20Telescope.html" class="backlink-item">COAST Cambridge Optical Aperture Synthesis Telescope</a></li>
-    <li class="backlink-item-wrap"><a href="../Components%20of%20a%20modern%20interferometer.html" class="backlink-item">Components of a modern interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="../Future%20ground-based%20optical.html" class="backlink-item">Future ground-based optical</a></li>
-    <li class="backlink-item-wrap"><a href="../Large%20Binocular%20Telescope%20LBT.html" class="backlink-item">Large Binocular Telescope LBT</a></li>
-    <li class="backlink-item-wrap"><a href="../NPOI%20Navy%20Prototype%20Optical%20Interferometer.html" class="backlink-item">NPOI Navy Prototype Optical Interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="../Pulsating%20stars%20and%20Mira%20variables.html" class="backlink-item">Pulsating stars and Mira variables</a></li>
-    <li class="backlink-item-wrap"><a href="../Stellar%20diameters%20and%20limb%20darkening.html" class="backlink-item">Stellar diameters and limb darkening</a></li>
-    <li class="backlink-item-wrap"><a href="../Stellar%20surface%20imaging.html" class="backlink-item">Stellar surface imaging</a></li>
-    <li class="backlink-item-wrap"><a href="../VLTI%20Very%20Large%20Telescope%20Interferometer.html" class="backlink-item">VLTI Very Large Telescope Interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="Binary%20star%20orbits.html" class="backlink-item">Binary star orbits</a></li>
-    <li class="backlink-item-wrap"><a href="COAST%20Cambridge%20Optical%20Aperture%20Synthesis%20Telescope.html" class="backlink-item">COAST Cambridge Optical Aperture Synthesis Telescope</a></li>
-    <li class="backlink-item-wrap"><a href="Components%20of%20a%20modern%20interferometer.html" class="backlink-item">Components of a modern interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="Future%20ground-based%20optical.html" class="backlink-item">Future ground-based optical</a></li>
-    <li class="backlink-item-wrap"><a href="Large%20Binocular%20Telescope%20LBT.html" class="backlink-item">Large Binocular Telescope LBT</a></li>
-    <li class="backlink-item-wrap"><a href="NPOI%20Navy%20Prototype%20Optical%20Interferometer.html" class="backlink-item">NPOI Navy Prototype Optical Interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="Pulsating%20stars%20and%20Mira%20variables.html" class="backlink-item">Pulsating stars and Mira variables</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20diameters%20and%20limb%20darkening.html" class="backlink-item">Stellar diameters and limb darkening</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20surface%20imaging.html" class="backlink-item">Stellar surface imaging</a></li>
-    <li class="backlink-item-wrap"><a href="VLTI%20Very%20Large%20Telescope%20Interferometer.html" class="backlink-item">VLTI Very Large Telescope Interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Beam combiners]]
+- [[Binary star orbits]]
+- [[COAST Cambridge Optical Aperture Synthesis Telescope]]
+- [[Components of a modern interferometer]]
+- [[Future ground-based optical]]
+- [[Large Binocular Telescope LBT]]
+- [[NPOI Navy Prototype Optical Interferometer]]
+- [[Pulsating stars and Mira variables]]
+- [[Stellar diameters and limb darkening]]
+- [[Stellar surface imaging]]
+- [[VLTI Very Large Telescope Interferometer]]
+- [[Astronomical_Interferometry_MOC]]
+
 

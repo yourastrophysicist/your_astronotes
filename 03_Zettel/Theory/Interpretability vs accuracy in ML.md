@@ -97,18 +97,18 @@ Mapelli's notes touch on the *idea* of interpretability mainly through the decis
 
 ## see also
 
-- [Decision tree classifier](Decision%20tree%20classifier.html)
-- [What is machine learning](What%20is%20machine%20learning.html)
-- [Iris dataset and the ML hello world](Iris%20dataset%20and%20the%20ML%20hello%20world.html)
-- [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
+- [[Decision tree classifier]]
+- [[What is machine learning]]
+- [[Iris dataset and the ML hello world]]
+- [[Mathematical_Numerical_Methods_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Decision%20tree%20classifier.html" class="backlink-item">Decision tree classifier</a></li>
-    <li class="backlink-item-wrap"><a href="Iris%20dataset%20and%20the%20ML%20hello%20world.html" class="backlink-item">Iris dataset and the ML hello world</a></li>
-    <li class="backlink-item-wrap"><a href="What%20is%20machine%20learning.html" class="backlink-item">What is machine learning</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Decision tree classifier]]
+- [[Iris dataset and the ML hello world]]
+- [[What is machine learning]]
+- [[Mathematical_Numerical_Methods_MOC]]
+
 

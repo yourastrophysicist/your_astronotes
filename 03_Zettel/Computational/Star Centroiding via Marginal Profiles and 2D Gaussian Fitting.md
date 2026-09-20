@@ -26,14 +26,14 @@ Yields:
 - Amplitude $A$ and local background $B$.
 
 ## Related Notes
-- [Malavolta 04 - Stellar Centroiding and Coordinate Tracking](../../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2004%20-%20Stellar%20Centroiding%20and%20Coordinate%20Tracking.html)
-- [Aperture Photometry and Optimal Aperture Selection](../Observations/Aperture%20Photometry%20and%20Optimal%20Aperture%20Selection.html)
+- [[Malavolta 04 - Stellar Centroiding and Coordinate Tracking]]
+- [[Aperture Photometry and Optimal Aperture Selection]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Activities/Laboratory%20Exercise%20-%20Star%20Centroiding%20and%20Aperture%20Photometry%20Pipeline.html" class="backlink-item">Laboratory Exercise - Star Centroiding and Aperture Photometry Pipeline</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Laboratory Exercise - Star Centroiding and Aperture Photometry Pipeline]]
+- [[Astrophysics_Laboratory_2_MOC]]
+
 

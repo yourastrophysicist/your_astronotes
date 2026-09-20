@@ -45,15 +45,15 @@ $$\text{Merger boundary}: G > -0.14 M_{20} + 0.33$$
 
 ## see also
 
-- [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
-- [Pablo_05_Galaxies_at_cosmological_distances](../../02_Literature/Lectures/Observational_Cosmology/Pablo_05_Galaxies_at_cosmological_distances.html)
-- [Pablo_02_Statistical_properties_of_galaxies](../../02_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html)
-- [Galaxy morphology vs physical properties](Galaxy%20morphology%20vs%20physical%20properties.html)
+- [[Observational_Cosmology_MOC]]
+- [[Pablo_05_Galaxies_at_cosmological_distances]]
+- [[Pablo_02_Statistical_properties_of_galaxies]]
+- [[Galaxy morphology vs physical properties]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (1)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Observational_Cosmology_MOC]]
+
 

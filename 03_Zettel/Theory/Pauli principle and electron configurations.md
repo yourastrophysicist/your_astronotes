@@ -60,25 +60,25 @@ isoelectronic ions have the same spectroscopic structure with rescaled energies 
 
 ## see also
 
-- [Quantum numbers and atomic states](Quantum%20numbers%20and%20atomic%20states.html)
-- [Atomic term symbols](Atomic%20term%20symbols.html)
-- [Hund's rules](Hund%27s%20rules.html)
-- [Hydrogen spectral series](Hydrogen%20spectral%20series.html)
-- [Helium energy levels](Helium%20energy%20levels.html)
-- [Sodium and alkalis](Sodium%20and%20alkalis.html)
-- [Calcium and CaII H+K](Calcium%20and%20CaII%20H%2BK.html)
-- [Magnesium and alkali earths](Magnesium%20and%20alkali%20earths.html)
+- [[Quantum numbers and atomic states]]
+- [[Atomic term symbols]]
+- [[Hund's rules]]
+- [[Hydrogen spectral series]]
+- [[Helium energy levels]]
+- [[Sodium and alkalis]]
+- [[Calcium and CaII H+K]]
+- [[Magnesium and alkali earths]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Calcium%20and%20CaII%20H%2BK.html" class="backlink-item">Calcium and CaII H+K</a></li>
-    <li class="backlink-item-wrap"><a href="Equivalent%20vs%20nonequivalent%20electrons.html" class="backlink-item">Equivalent vs nonequivalent electrons</a></li>
-    <li class="backlink-item-wrap"><a href="Hund%27s%20rules.html" class="backlink-item">Hund's rules</a></li>
-    <li class="backlink-item-wrap"><a href="Magnesium%20and%20alkali%20earths.html" class="backlink-item">Magnesium and alkali earths</a></li>
-    <li class="backlink-item-wrap"><a href="Quantum%20numbers%20and%20atomic%20states.html" class="backlink-item">Quantum numbers and atomic states</a></li>
-    <li class="backlink-item-wrap"><a href="Sodium%20and%20alkalis.html" class="backlink-item">Sodium and alkalis</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Calcium and CaII H+K]]
+- [[Equivalent vs nonequivalent electrons]]
+- [[Hund's rules]]
+- [[Magnesium and alkali earths]]
+- [[Quantum numbers and atomic states]]
+- [[Sodium and alkalis]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 

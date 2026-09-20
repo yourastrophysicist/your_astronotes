@@ -56,15 +56,15 @@ with projection vector $w = (1, \alpha, -\beta)^T$.
 This model delivers completely debiased, robust cosmological constraints from modern datasets (Pantheon+, DES-SN5YR).
 
 ## See Also
-- [Astro-Statistics_and_Cosmology_MOC](../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html)
-- [09_Bayesian_Hierarchical_Models_for_Type_Ia_Supernovae](../../02_Literature/Lectures/Astrostatistics/09_Bayesian_Hierarchical_Models_for_Type_Ia_Supernovae.html)
-- [Multivariate Gaussian conditioning and marginalization](Multivariate%20Gaussian%20conditioning%20and%20marginalization.html)
-- [Generalized least squares and correlated measurement errors](Generalized%20least%20squares%20and%20correlated%20measurement%20errors.html)
+- [[Astro-Statistics_and_Cosmology_MOC]]
+- [[09_Bayesian_Hierarchical_Models_for_Type_Ia_Supernovae]]
+- [[Multivariate Gaussian conditioning and marginalization]]
+- [[Generalized least squares and correlated measurement errors]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (1)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Astro-Statistics_and_Cosmology_MOC]]
+
 

@@ -4,7 +4,7 @@ title: "Ch 8 - Gravitational Waves"
 ---
 # Baumann Ch 8, Gravitational Waves
 
-up: [Baumann GR](./Baumann%20GR.html) · [General_Relativity_MOC](../../../04_Atlas/General_Relativity_MOC.html)
+up: [[Baumann GR]] · [[General_Relativity_MOC]]
 
 *the final chapter and the most beautiful payoff. linearized GR, gauge symmetry, the wave equation $\Box \bar h_{\mu\nu} = -16\pi G T_{\mu\nu}$, transverse-traceless gauge with two physical polarizations, the quadrupole formula for radiation, and the September 14, 2015 LIGO detection. by the end you will understand why gravitational waves exist, what they look like, how they are produced, and why detecting them was so hard.*
 
@@ -253,31 +253,31 @@ if i had to compress chapter 8 into a paragraph for the oral:
 
 ## connections
 
-- [General_Relativity_MOC](../../../04_Atlas/General_Relativity_MOC.html)
-- [Baumann GR](./Baumann%20GR.html)
-- [Linearized metric perturbation](../../../03_Zettel/Theory/Linearized%20metric%20perturbation.html) · [Linearized Christoffel and Riemann](../../../03_Zettel/Theory/Linearized%20Christoffel%20and%20Riemann.html) · [Linearized gauge transformations](../../../03_Zettel/Theory/Linearized%20gauge%20transformations.html) · [Trace-reversed perturbation](../../../03_Zettel/Theory/Trace-reversed%20perturbation.html) · [Lorenz gauge](../../../03_Zettel/Theory/Lorenz%20gauge.html) · [Newtonian limit of GR](../../../03_Zettel/Theory/Newtonian%20limit%20of%20GR.html)
-- [Transverse traceless gauge](../../../03_Zettel/Theory/Transverse%20traceless%20gauge.html) · [Plus and cross polarizations](../../../03_Zettel/Theory/Plus%20and%20cross%20polarizations.html) · [Quadrupole formula](../../../03_Zettel/Theory/Quadrupole%20formula.html) · [Geodesic deviation under a GW](../../../03_Zettel/Theory/Geodesic%20deviation%20under%20a%20GW.html)
+- [[General_Relativity_MOC]]
+- [[Baumann GR]]
+- [[Linearized metric perturbation]] · [[Linearized Christoffel and Riemann]] · [[Linearized gauge transformations]] · [[Trace-reversed perturbation]] · [[Lorenz gauge]] · [[Newtonian limit of GR]]
+- [[Transverse traceless gauge]] · [[Plus and cross polarizations]] · [[Quadrupole formula]] · [[Geodesic deviation under a GW]]
 - Q9 - weak-field Christoffel Gamma_i_00 · Q10 - weak-field Ricci scalar · Q15 - trace-reversed perturbation and Lorenz gauge · Q16 - Christoffels for a TT plane wave · Q17 - Riemann R_0x0x for a TT plane wave
-- previous: [Ch 7 - Cosmology](./Ch%207%20-%20Cosmology.html)
+- previous: [[Ch 7 - Cosmology]]
 - end of book.
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (14)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/GW%20energy%20and%20angular%20momentum.html" class="backlink-item">GW energy and angular momentum</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Geodesic%20deviation%20under%20a%20GW.html" class="backlink-item">Geodesic deviation under a GW</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Geodesic%20deviation.html" class="backlink-item">Geodesic deviation</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Linearized%20Christoffel%20and%20Riemann.html" class="backlink-item">Linearized Christoffel and Riemann</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Linearized%20gauge%20transformations.html" class="backlink-item">Linearized gauge transformations</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Linearized%20metric%20perturbation.html" class="backlink-item">Linearized metric perturbation</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Lorenz%20gauge.html" class="backlink-item">Lorenz gauge</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Newtonian%20limit%20of%20GR.html" class="backlink-item">Newtonian limit of GR</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Plus%20and%20cross%20polarizations.html" class="backlink-item">Plus and cross polarizations</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Quadrupole%20formula.html" class="backlink-item">Quadrupole formula</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/SVT%20decomposition.html" class="backlink-item">SVT decomposition</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Trace-reversed%20perturbation.html" class="backlink-item">Trace-reversed perturbation</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Transverse%20traceless%20gauge.html" class="backlink-item">Transverse traceless gauge</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[GW energy and angular momentum]]
+- [[Geodesic deviation under a GW]]
+- [[Geodesic deviation]]
+- [[Linearized Christoffel and Riemann]]
+- [[Linearized gauge transformations]]
+- [[Linearized metric perturbation]]
+- [[Lorenz gauge]]
+- [[Newtonian limit of GR]]
+- [[Plus and cross polarizations]]
+- [[Quadrupole formula]]
+- [[SVT decomposition]]
+- [[Trace-reversed perturbation]]
+- [[Transverse traceless gauge]]
+- [[General_Relativity_MOC]]
+
 

@@ -31,17 +31,17 @@ collaborative research packages (`daneel`) use GitLab automated pipelines (`.git
 
 ## see also
 
-- [Computational_Astrophysics_MOC](../../04_Atlas/Computational_Astrophysics_MOC.html)
-- [02_Version_Control_with_Git_and_GitLab](../../02_Literature/Lectures/Computational_Astrophysics/02_Version_Control_with_Git_and_GitLab.html)
-- [Modular Python packaging and scientific software architecture](Modular%20Python%20packaging%20and%20scientific%20software%20architecture.html)
-- [Linux containers and Docker architecture in astrophysics](Linux%20containers%20and%20Docker%20architecture%20in%20astrophysics.html)
+- [[Computational_Astrophysics_MOC]]
+- [[02_Version_Control_with_Git_and_GitLab]]
+- [[Modular Python packaging and scientific software architecture]]
+- [[Linux containers and Docker architecture in astrophysics]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Linux%20containers%20and%20Docker%20architecture%20in%20astrophysics.html" class="backlink-item">Linux containers and Docker architecture in astrophysics</a></li>
-    <li class="backlink-item-wrap"><a href="Modular%20Python%20packaging%20and%20scientific%20software%20architecture.html" class="backlink-item">Modular Python packaging and scientific software architecture</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Linux containers and Docker architecture in astrophysics]]
+- [[Modular Python packaging and scientific software architecture]]
+- [[Computational_Astrophysics_MOC]]
+
 

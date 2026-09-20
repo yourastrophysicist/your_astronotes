@@ -95,24 +95,20 @@ first LGS systems: late 1980s (US Air Force, "Star Wars" laser-imaging research)
 
 ## see also
 
-- [Adaptive optics](Adaptive%20optics.html)
-- [Wavefront sensors](Wavefront%20sensors.html)
-- [Deformable mirrors and tip-tilt](Deformable%20mirrors%20and%20tip-tilt.html)
-- [Isoplanatic patch](Isoplanatic%20patch.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Adaptive optics]]
+- [[Wavefront sensors]]
+- [[Deformable mirrors and tip-tilt]]
+- [[Isoplanatic patch]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (9)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Adaptive%20optics.html" class="backlink-item">Adaptive optics</a></li>
-    <li class="backlink-item-wrap"><a href="../Deformable%20mirrors%20and%20tip-tilt.html" class="backlink-item">Deformable mirrors and tip-tilt</a></li>
-    <li class="backlink-item-wrap"><a href="../Isoplanatic%20patch.html" class="backlink-item">Isoplanatic patch</a></li>
-    <li class="backlink-item-wrap"><a href="../Wavefront%20sensors.html" class="backlink-item">Wavefront sensors</a></li>
-    <li class="backlink-item-wrap"><a href="Adaptive%20optics.html" class="backlink-item">Adaptive optics</a></li>
-    <li class="backlink-item-wrap"><a href="Deformable%20mirrors%20and%20tip-tilt.html" class="backlink-item">Deformable mirrors and tip-tilt</a></li>
-    <li class="backlink-item-wrap"><a href="Isoplanatic%20patch.html" class="backlink-item">Isoplanatic patch</a></li>
-    <li class="backlink-item-wrap"><a href="Wavefront%20sensors.html" class="backlink-item">Wavefront sensors</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Adaptive optics]]
+- [[Deformable mirrors and tip-tilt]]
+- [[Isoplanatic patch]]
+- [[Wavefront sensors]]
+- [[Astronomical_Interferometry_MOC]]
+
 

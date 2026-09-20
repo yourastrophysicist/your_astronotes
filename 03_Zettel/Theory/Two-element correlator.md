@@ -39,5 +39,5 @@ The correlator is the computational heart of any radio array. Modern instruments
 
 ## connections & zettel links
 
-* parent moc: [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-* related zettels: [Radio interferometer architecture](interf/Radio%20interferometer%20architecture.html), [Connected element interferometer](interf/Connected%20element%20interferometer.html), [Very Long Baseline Interferometry VLBI](interf/Very%20Long%20Baseline%20Interferometry%20VLBI.html), [Downconversion of signals in radio interferometers](interf/Downconversion%20of%20signals%20in%20radio%20interferometers.html)
+* parent moc: [[Astronomical_Interferometry_MOC]]
+* related zettels: [[Radio interferometer architecture]], [[Connected element interferometer]], [[Very Long Baseline Interferometry VLBI]], [[Downconversion of signals in radio interferometers]]

@@ -42,18 +42,18 @@ with Floquet growth exponent $\mu_k \sim 0.1 - 0.2$.
 
 ## connections & zettel links
 
-* parent moc: [Cosmology_of_the_Early_Universe_MOC](../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html)
+* parent moc: [[Cosmology_of_the_Early_Universe_MOC]]
 * related zettels:
-  - [Reheating dynamics and thermalization](Reheating%20dynamics%20and%20thermalization.html)
-  - [Out-of-equilibrium decay baryogenesis and Weinberg model](Out-of-equilibrium%20decay%20baryogenesis%20and%20Weinberg%20model.html)
-  - [Electroweak sphalerons and leptogenesis](Electroweak%20sphalerons%20and%20leptogenesis.html)
-  - [Part6_Reheating_Baryogenesis_and_Dark_Matter](../../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part6_Reheating_Baryogenesis_and_Dark_Matter.html)
+  - [[Reheating dynamics and thermalization]]
+  - [[Out-of-equilibrium decay baryogenesis and Weinberg model]]
+  - [[Electroweak sphalerons and leptogenesis]]
+  - [[Part6_Reheating_Baryogenesis_and_Dark_Matter]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Reheating%20dynamics%20and%20thermalization.html" class="backlink-item">Reheating dynamics and thermalization</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html" class="backlink-item">Cosmology_of_the_Early_Universe_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Reheating dynamics and thermalization]]
+- [[Cosmology_of_the_Early_Universe_MOC]]
+
 

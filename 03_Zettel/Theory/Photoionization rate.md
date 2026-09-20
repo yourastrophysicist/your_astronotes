@@ -58,25 +58,25 @@ the **dimensionless ionisation parameter**. controls the ionisation state of the
 
 ## see also
 
-- [Collisional ionisation rate](Collisional%20ionisation%20rate.html)
-- [Recombination rate](Recombination%20rate.html)
-- [Photoionisation balance](Photoionisation%20balance.html)
-- [Ionisation parameter U](Ionisation%20parameter%20U.html)
+- [[Collisional ionisation rate]]
+- [[Recombination rate]]
+- [[Photoionisation balance]]
+- [[Ionisation parameter U]]
 - Strömgren sphere
-- [Photoelectric absorption](Photoelectric%20absorption.html)
-- [Photoionisation balance](Photoionisation%20balance.html)
+- [[Photoelectric absorption]]
+- [[Photoionisation balance]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (8)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Collisional%20ionisation%20rate.html" class="backlink-item">Collisional ionisation rate</a></li>
-    <li class="backlink-item-wrap"><a href="Heating%20rate%20in%20HII%20regions.html" class="backlink-item">Heating rate in HII regions</a></li>
-    <li class="backlink-item-wrap"><a href="Ionisation%20parameter%20U.html" class="backlink-item">Ionisation parameter U</a></li>
-    <li class="backlink-item-wrap"><a href="Photoionisation%20balance.html" class="backlink-item">Photoionisation balance</a></li>
-    <li class="backlink-item-wrap"><a href="Recombination%20rate.html" class="backlink-item">Recombination rate</a></li>
-    <li class="backlink-item-wrap"><a href="Stromgren%20sphere%20derivation.html" class="backlink-item">Stromgren sphere derivation</a></li>
-    <li class="backlink-item-wrap"><a href="Stromgren%20sphere.html" class="backlink-item">Stromgren sphere</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Collisional ionisation rate]]
+- [[Heating rate in HII regions]]
+- [[Ionisation parameter U]]
+- [[Photoionisation balance]]
+- [[Recombination rate]]
+- [[Stromgren sphere derivation]]
+- [[Stromgren sphere]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 

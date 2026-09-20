@@ -18,7 +18,7 @@ a typical D'Onofrio oral interferometry exam:
 
 ## scope
 
-everything in [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html) is fair game, but the exam emphasizes:
+everything in [[Astronomical_Interferometry_MOC]] is fair game, but the exam emphasizes:
 
 - **physics fundamentals**: Young's experiment, plane waves, Huygens, fringe visibility — block 1-2
 - **the central theorem**: Van Cittert-Zernike, why visibility = Fourier transform of brightness
@@ -36,7 +36,7 @@ less emphasis on:
 ## what to bring
 
 - pen and paper (the office may not have a board)
-- printed [Interferometry equation sheet](Interferometry%20equation%20sheet.html)
+- printed [[Interferometry equation sheet]]
 - mental sketch of: a (u, v) plot, the dirty beam, the Airy pattern, the speckle pattern
 - two or three illustrative numbers: angular resolution of VLTI ($\sim 1$ mas), of ALMA ($\sim 30$ mas), of EHT ($\sim 20$ μas), of HST ($\sim 0.05''$)
 
@@ -67,19 +67,17 @@ three minutes of structured talk demonstrates I have the complete mental map. D'
 
 ## see also
 
-- [Interferometry course intro](Interferometry%20course%20intro.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
-- [Interferometry equation sheet](Interferometry%20equation%20sheet.html)
+- [[Interferometry course intro]]
+- [[Astronomical_Interferometry_MOC]]
+- [[Interferometry equation sheet]]
 - Exams summer 2026 master plan
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Interferometry%20course%20intro.html" class="backlink-item">Interferometry course intro</a></li>
-    <li class="backlink-item-wrap"><a href="../Interferometry%20equation%20sheet.html" class="backlink-item">Interferometry equation sheet</a></li>
-    <li class="backlink-item-wrap"><a href="Interferometry%20course%20intro.html" class="backlink-item">Interferometry course intro</a></li>
-    <li class="backlink-item-wrap"><a href="Interferometry%20equation%20sheet.html" class="backlink-item">Interferometry equation sheet</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Interferometry course intro]]
+- [[Interferometry equation sheet]]
+- [[Astronomical_Interferometry_MOC]]
+
 

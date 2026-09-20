@@ -127,37 +127,29 @@ a modern interferometer is *systems engineering on a heroic scale*. understandin
 
 ## see also
 
-- [Delay lines and path-length equalization](Delay%20lines%20and%20path-length%20equalization.html)
-- [Beam combiners](../Beam%20combiners.html)
-- [Fringe tracking](Fringe%20tracking.html)
-- [VLTI Very Large Telescope Interferometer](VLTI%20Very%20Large%20Telescope%20Interferometer.html)
-- [CHARA array](CHARA%20array.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Delay lines and path-length equalization]]
+- [[Beam combiners]]
+- [[Fringe tracking]]
+- [[VLTI Very Large Telescope Interferometer]]
+- [[CHARA array]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (21)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Beam%20combiners.html" class="backlink-item">Beam combiners</a></li>
-    <li class="backlink-item-wrap"><a href="../CHARA%20array.html" class="backlink-item">CHARA array</a></li>
-    <li class="backlink-item-wrap"><a href="../COAST%20Cambridge%20Optical%20Aperture%20Synthesis%20Telescope.html" class="backlink-item">COAST Cambridge Optical Aperture Synthesis Telescope</a></li>
-    <li class="backlink-item-wrap"><a href="../Delay%20lines%20and%20path-length%20equalization.html" class="backlink-item">Delay lines and path-length equalization</a></li>
-    <li class="backlink-item-wrap"><a href="../Fringe%20tracking.html" class="backlink-item">Fringe tracking</a></li>
-    <li class="backlink-item-wrap"><a href="../Keck%20interferometer.html" class="backlink-item">Keck interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="../Large%20Binocular%20Telescope%20LBT.html" class="backlink-item">Large Binocular Telescope LBT</a></li>
-    <li class="backlink-item-wrap"><a href="../NPOI%20Navy%20Prototype%20Optical%20Interferometer.html" class="backlink-item">NPOI Navy Prototype Optical Interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="../Radio%20telescope%20components.html" class="backlink-item">Radio telescope components</a></li>
-    <li class="backlink-item-wrap"><a href="../VLTI%20Very%20Large%20Telescope%20Interferometer.html" class="backlink-item">VLTI Very Large Telescope Interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="CHARA%20array.html" class="backlink-item">CHARA array</a></li>
-    <li class="backlink-item-wrap"><a href="COAST%20Cambridge%20Optical%20Aperture%20Synthesis%20Telescope.html" class="backlink-item">COAST Cambridge Optical Aperture Synthesis Telescope</a></li>
-    <li class="backlink-item-wrap"><a href="Delay%20lines%20and%20path-length%20equalization.html" class="backlink-item">Delay lines and path-length equalization</a></li>
-    <li class="backlink-item-wrap"><a href="Fringe%20tracking.html" class="backlink-item">Fringe tracking</a></li>
-    <li class="backlink-item-wrap"><a href="Heterodyne%20vs%20direct%20detection.html" class="backlink-item">Heterodyne vs direct detection</a></li>
-    <li class="backlink-item-wrap"><a href="Keck%20interferometer.html" class="backlink-item">Keck interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="Large%20Binocular%20Telescope%20LBT.html" class="backlink-item">Large Binocular Telescope LBT</a></li>
-    <li class="backlink-item-wrap"><a href="Michelson%20stellar%20interferometer.html" class="backlink-item">Michelson stellar interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="NPOI%20Navy%20Prototype%20Optical%20Interferometer.html" class="backlink-item">NPOI Navy Prototype Optical Interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="VLTI%20Very%20Large%20Telescope%20Interferometer.html" class="backlink-item">VLTI Very Large Telescope Interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Beam combiners]]
+- [[CHARA array]]
+- [[COAST Cambridge Optical Aperture Synthesis Telescope]]
+- [[Delay lines and path-length equalization]]
+- [[Fringe tracking]]
+- [[Keck interferometer]]
+- [[Large Binocular Telescope LBT]]
+- [[NPOI Navy Prototype Optical Interferometer]]
+- [[Radio telescope components]]
+- [[VLTI Very Large Telescope Interferometer]]
+- [[Heterodyne vs direct detection]]
+- [[Michelson stellar interferometer]]
+- [[Astronomical_Interferometry_MOC]]
+
 

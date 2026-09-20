@@ -158,11 +158,11 @@ This structural divergence proves that giant ellipticals and dwarf spheroidals a
 
 ## 7. See Also
 
-- [Fundamental plane of ellipticals](Fundamental%20plane%20of%20ellipticals.html)
-- [Faber-Jackson relation](Faber-Jackson%20relation.html)
-- [De Vaucouleurs and exponential profiles](De%20Vaucouleurs%20and%20exponential%20profiles.html)
-- [Sersic profile](Sersic%20profile.html)
-- [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html)
+- [[Fundamental plane of ellipticals]]
+- [[Faber-Jackson relation]]
+- [[De Vaucouleurs and exponential profiles]]
+- [[Sersic profile]]
+- [[Astrophysics_of_Galaxies_MOC]]
 
 ---
 
@@ -198,11 +198,11 @@ This structural divergence proves that giant ellipticals and dwarf spheroidals a
 
 ![gal_srs-40.png](../../assets/images/gal_srs-40.png)
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Faber-Jackson%20relation.html" class="backlink-item">Faber-Jackson relation</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Faber-Jackson relation]]
+- [[Astrophysics_of_Galaxies_MOC]]
+
 

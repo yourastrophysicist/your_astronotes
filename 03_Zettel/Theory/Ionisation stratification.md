@@ -44,7 +44,7 @@ unresolved nebulae produce integrated spectra reflecting the volume-weighted mix
 - starburst galaxies (low $U$, low $T_e$): low [OIII]/[OII], high [SII]/H$\alpha$.
 - AGN narrow-line regions (high $U$, hard ionising spectrum): high [OIII]/H$\beta$, He II $\lambda 4686$ visible.
 
-these differences underlie the BPT diagram for galaxy classification ([BPT diagram](BPT%20diagram.html)).
+these differences underlie the BPT diagram for galaxy classification ([[BPT diagram]]).
 
 ## ionisation correction factors (ICFs)
 
@@ -62,24 +62,24 @@ matter-bounded vs ionisation-bounded affects the integrated line ratios; matter-
 
 ## see also
 
-- [Ionisation parameter U](Ionisation%20parameter%20U.html)
+- [[Ionisation parameter U]]
 - Strömgren sphere
-- [Photoionisation balance](Photoionisation%20balance.html)
-- [Forbidden line diagnostics](Forbidden%20line%20diagnostics.html)
-- [BPT diagram](BPT%20diagram.html)
-- [H II region spectroscopy](H%20II%20region%20spectroscopy.html)
-- [AGN spectroscopy](AGN%20spectroscopy.html)
-- [Planetary nebula spectroscopy](Planetary%20nebula%20spectroscopy.html)
+- [[Photoionisation balance]]
+- [[Forbidden line diagnostics]]
+- [[BPT diagram]]
+- [[H II region spectroscopy]]
+- [[AGN spectroscopy]]
+- [[Planetary nebula spectroscopy]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Ionisation%20parameter%20U.html" class="backlink-item">Ionisation parameter U</a></li>
-    <li class="backlink-item-wrap"><a href="Ionisation%20parameter%20and%20ionisation%20state.html" class="backlink-item">Ionisation parameter and ionisation state</a></li>
-    <li class="backlink-item-wrap"><a href="Molecular%20clouds.html" class="backlink-item">Molecular clouds</a></li>
-    <li class="backlink-item-wrap"><a href="Photoionisation%20balance.html" class="backlink-item">Photoionisation balance</a></li>
-    <li class="backlink-item-wrap"><a href="Stromgren%20sphere.html" class="backlink-item">Stromgren sphere</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Ionisation parameter U]]
+- [[Ionisation parameter and ionisation state]]
+- [[Molecular clouds]]
+- [[Photoionisation balance]]
+- [[Stromgren sphere]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 

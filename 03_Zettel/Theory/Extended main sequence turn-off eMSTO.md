@@ -2,7 +2,7 @@
 layout: "default"
 title: "Extended main sequence turn-off eMSTO"
 ---
-the **extended main sequence turn-off (eMSTO) phenomenon** is the discovery that intermediate-age ($\sim 1$-$2$ Gyr) star clusters in the LMC + SMC + MW show a broadened MS turn-off region, much wider than expected for a [simple stellar population](Single%20stellar%20population%20SSP.html) of the same age. the TO width $\Delta V \sim 0.1$-$0.3$ mag is well-resolved with HST + JWST.
+the **extended main sequence turn-off (eMSTO) phenomenon** is the discovery that intermediate-age ($\sim 1$-$2$ Gyr) star clusters in the LMC + SMC + MW show a broadened MS turn-off region, much wider than expected for a [[Single stellar population SSP|simple stellar population]] of the same age. the TO width $\Delta V \sim 0.1$-$0.3$ mag is well-resolved with HST + JWST.
 
 ![L18_p05_eMSTO_phenomenon-05.png](../../assets/images/L18_p05_eMSTO_phenomenon-05.png)
 
@@ -60,7 +60,7 @@ at younger ages, all stars are too hot/massive for rotational mixing to differen
 
 an active question: **are eMSTO clusters the present-day analogues of what old GCs looked like at $\sim 1$-$2$ Gyr after formation?**
 
-- old GCs show [Na-O anti-correlation](Multiple%20populations%20in%20GCs%20discovery.html) + helium spread + chromosome maps;
+- old GCs show [[Multiple populations in GCs discovery|Na-O anti-correlation]] + helium spread + chromosome maps;
 - young eMSTO clusters do NOT show clear chemical anomalies (yet);
 - but eMSTO + young split MS share the structural signature: **a single SSP cannot explain the CMD**.
 
@@ -89,15 +89,15 @@ eMSTO is one of the **central open problems** of the course:
 
 ## see also
 
-- [Origin of eMSTO age spread or rotation](Origin%20of%20eMSTO%20age%20spread%20or%20rotation.html)
-- [Stellar rotation effects on CMD](Stellar%20rotation%20effects%20on%20CMD.html)
-- [Splitting of the upper MS in young clusters](Splitting%20of%20the%20upper%20MS%20in%20young%20clusters.html)
-- [eMSTO and multiple populations connection](eMSTO%20and%20multiple%20populations%20connection.html)
-- [Multiple populations in GCs discovery](Multiple%20populations%20in%20GCs%20discovery.html)
-- [Helium spread in GCs](Helium%20spread%20in%20GCs.html)
-- [Single stellar population SSP](Single%20stellar%20population%20SSP.html)
-- [Color-magnitude diagrams of clusters](Color-magnitude%20diagrams%20of%20clusters.html)
-- [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
+- [[Origin of eMSTO age spread or rotation]]
+- [[Stellar rotation effects on CMD]]
+- [[Splitting of the upper MS in young clusters]]
+- [[eMSTO and multiple populations connection]]
+- [[Multiple populations in GCs discovery]]
+- [[Helium spread in GCs]]
+- [[Single stellar population SSP]]
+- [[Color-magnitude diagrams of clusters]]
+- [[Stellar_Astrophysics_MOC]]
 
 ---
 
@@ -194,17 +194,17 @@ The following slides from Prof. Antonino Milone's lecture series provide the dir
 ![Lecture18_p5-05.png](../../assets/images/Lecture18_p5-05.png)
 *Figure P18-29: Lecture18_p5-05.png — Observational data, CMD morphology, and diagnostics from Lecture 18 — The Extended Main Sequence Turnoff Phenomenon.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (8)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Effects%20of%20differential%20reddening%20on%20CMD%20analysis.html" class="backlink-item">Effects of differential reddening on CMD analysis</a></li>
-    <li class="backlink-item-wrap"><a href="Mass%20dependence%20of%20multiple%20populations.html" class="backlink-item">Mass dependence of multiple populations</a></li>
-    <li class="backlink-item-wrap"><a href="Multiple%20populations%20in%20extragalactic%20GCs.html" class="backlink-item">Multiple populations in extragalactic GCs</a></li>
-    <li class="backlink-item-wrap"><a href="Origin%20of%20eMSTO%20age%20spread%20or%20rotation.html" class="backlink-item">Origin of eMSTO age spread or rotation</a></li>
-    <li class="backlink-item-wrap"><a href="Splitting%20of%20the%20upper%20MS%20in%20young%20clusters.html" class="backlink-item">Splitting of the upper MS in young clusters</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20rotation%20effects%20on%20CMD.html" class="backlink-item">Stellar rotation effects on CMD</a></li>
-    <li class="backlink-item-wrap"><a href="eMSTO%20and%20multiple%20populations%20connection.html" class="backlink-item">eMSTO and multiple populations connection</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Effects of differential reddening on CMD analysis]]
+- [[Mass dependence of multiple populations]]
+- [[Multiple populations in extragalactic GCs]]
+- [[Origin of eMSTO age spread or rotation]]
+- [[Splitting of the upper MS in young clusters]]
+- [[Stellar rotation effects on CMD]]
+- [[eMSTO and multiple populations connection]]
+- [[Stellar_Astrophysics_MOC]]
+
 

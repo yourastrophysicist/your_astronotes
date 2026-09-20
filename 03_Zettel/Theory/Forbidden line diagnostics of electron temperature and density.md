@@ -35,17 +35,17 @@ the ratio is a sensitive barometer for $n_e \sim 10^2 - 10^4\text{ cm}^{-3}$. an
 
 ## see also
 
-- [Astrophysics_of_the_Interstellar_Medium_MOC](../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html)
-- [HII regions and Stromgren sphere physics](HII%20regions%20and%20Stromgren%20sphere%20physics.html)
-- [Primordial helium abundance from HII regions](Primordial%20helium%20abundance%20from%20HII%20regions.html)
-- [Carraro_03_HII_Regions_and_Photoionized_Gas](../../02_Literature/Lectures/Interstellar_Medium/Carraro_03_HII_Regions_and_Photoionized_Gas.html)
+- [[Astrophysics_of_the_Interstellar_Medium_MOC]]
+- [[HII regions and Stromgren sphere physics]]
+- [[Primordial helium abundance from HII regions]]
+- [[Carraro_03_HII_Regions_and_Photoionized_Gas]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="BPT%20emission%20line%20diagnostic%20diagram.html" class="backlink-item">BPT emission line diagnostic diagram</a></li>
-    <li class="backlink-item-wrap"><a href="HII%20regions%20and%20Stromgren%20sphere%20physics.html" class="backlink-item">HII regions and Stromgren sphere physics</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html" class="backlink-item">Astrophysics_of_the_Interstellar_Medium_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[BPT emission line diagnostic diagram]]
+- [[HII regions and Stromgren sphere physics]]
+- [[Astrophysics_of_the_Interstellar_Medium_MOC]]
+
 

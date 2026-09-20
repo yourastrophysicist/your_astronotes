@@ -93,7 +93,7 @@ his calculation framework — destructive interference on-axis, transmission off
 
 ## see also
 
-- [Nulling interferometry](interf/Nulling%20interferometry.html)
-- [Coronagraphy](interf/Coronagraphy.html)
-- [Apodization](interf/Apodization.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Nulling interferometry]]
+- [[Coronagraphy]]
+- [[Apodization]]
+- [[Astronomical_Interferometry_MOC]]

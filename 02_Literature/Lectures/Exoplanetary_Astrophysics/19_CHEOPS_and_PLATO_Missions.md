@@ -5,7 +5,7 @@ title: "19_CHEOPS_and_PLATO_Missions"
 # Lesson 19 – Dedicated Characterization Missions: CHEOPS and PLATO
 
 *Exoplanetary Astrophysics, Prof. Giampaolo Piotto (Lecture 22/12/2025)*  
-*Index: [Exoplanetary_Astrophysics_MOC](../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)*
+*Index: [[Exoplanetary_Astrophysics_MOC]]*
 
 ---
 
@@ -161,16 +161,16 @@ By pairing asteroseismic stellar parameters ($M_\star, R_\star, \tau_\star$) wit
 ---
 
 ## Cross-Links & Vault Navigation
-- Master Map of Content: [Exoplanetary_Astrophysics_MOC](../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)
-- Previous Lecture: [18_Space_Transit_Surveys_TTVs_and_Resonances](./18_Space_Transit_Surveys_TTVs_and_Resonances.html)
-- Next Lecture: [20_Exoplanet_Atmospheres_and_Transmission_Spectroscopy](./20_Exoplanet_Atmospheres_and_Transmission_Spectroscopy.html)
+- Master Map of Content: [[Exoplanetary_Astrophysics_MOC]]
+- Previous Lecture: [[18_Space_Transit_Surveys_TTVs_and_Resonances]]
+- Next Lecture: [[20_Exoplanet_Atmospheres_and_Transmission_Spectroscopy]]
 - Related Notes: Transit photometry and Mandel-Agol formulation | Mass-radius diagram and interior models
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Space%20transit%20observatories%20and%20CHEOPS-PLATO%20missions.html" class="backlink-item">Space transit observatories and CHEOPS-PLATO missions</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Space transit observatories and CHEOPS-PLATO missions]]
+- [[Exoplanetary_Astrophysics_MOC]]
+
 

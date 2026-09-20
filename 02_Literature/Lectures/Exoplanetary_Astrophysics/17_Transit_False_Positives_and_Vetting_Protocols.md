@@ -5,7 +5,7 @@ title: "17_Transit_False_Positives_and_Vetting_Protocols"
 # Lesson 17 – Planetary Transits III: False Positives and Vetting Protocols
 
 *Exoplanetary Astrophysics, Prof. Giampaolo Piotto (Lecture 09/12/2025)*  
-*Index: [Exoplanetary_Astrophysics_MOC](../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)*
+*Index: [[Exoplanetary_Astrophysics_MOC]]*
 
 ---
 
@@ -172,16 +172,16 @@ In systems exhibiting multiple transiting candidates with mutually consistent, c
 ---
 
 ## Cross-Links & Vault Navigation
-- Master Map of Content: [Exoplanetary_Astrophysics_MOC](../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)
-- Previous Lecture: [16_Transit_Light_Curve_Modeling_and_Limb_Darkening](./16_Transit_Light_Curve_Modeling_and_Limb_Darkening.html)
-- Next Lecture: [18_Space_Transit_Surveys_TTVs_and_Resonances](./18_Space_Transit_Surveys_TTVs_and_Resonances.html)
+- Master Map of Content: [[Exoplanetary_Astrophysics_MOC]]
+- Previous Lecture: [[16_Transit_Light_Curve_Modeling_and_Limb_Darkening]]
+- Next Lecture: [[18_Space_Transit_Surveys_TTVs_and_Resonances]]
 - Related Notes: Transit photometry and Mandel-Agol formulation | Exoplanet detection techniques
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Transit%20false%20positive%20vetting%20and%20blending%20validation.html" class="backlink-item">Transit false positive vetting and blending validation</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Transit false positive vetting and blending validation]]
+- [[Exoplanetary_Astrophysics_MOC]]
+
 

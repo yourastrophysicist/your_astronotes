@@ -34,5 +34,5 @@ Array geometry is intimately tied to the science case. ALMA possesses configurat
 
 ## connections & zettel links
 
-* parent moc: [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-* related zettels: [The (u, v) plane](interf/The%20%28u%2C%20v%29%20plane.html), [Earth-rotation aperture synthesis](interf/Earth-rotation%20aperture%20synthesis.html), [Connected element interferometer](interf/Connected%20element%20interferometer.html), [Dirty beam and dirty image](interf/Dirty%20beam%20and%20dirty%20image.html)
+* parent moc: [[Astronomical_Interferometry_MOC]]
+* related zettels: [[The (u, v) plane]], [[Earth-rotation aperture synthesis]], [[Connected element interferometer]], [[Dirty beam and dirty image]]

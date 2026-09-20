@@ -64,12 +64,12 @@ space astrometry removed the atmosphere:
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Parallax and standard candles](Parallax%20and%20standard%20candles.html)
-- [Distance ladder derivations](Distance%20ladder%20derivations.html)
-- [Cepheids and supernovae](Cepheids%20and%20supernovae.html)
-- [Proper motion and stellar kinematics](Proper%20motion%20and%20stellar%20kinematics.html)
-- [Aberration of light](Aberration%20of%20light.html)
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Parallax and standard candles]]
+- [[Distance ladder derivations]]
+- [[Cepheids and supernovae]]
+- [[Proper motion and stellar kinematics]]
+- [[Aberration of light]]
 
 ---
 
@@ -87,24 +87,24 @@ space astrometry removed the atmosphere:
 ![obs_dist-10.png](../../assets/images/obs_dist-10.png)
 *Lutz-Kelker statistical bias in parallax distance inversion d = 1/p.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (15)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="AU%20calibration%20parallax%20and%20parsec.html" class="backlink-item">AU calibration parallax and parsec</a></li>
-    <li class="backlink-item-wrap"><a href="Aberration%20of%20light.html" class="backlink-item">Aberration of light</a></li>
-    <li class="backlink-item-wrap"><a href="Atmospheric%20refraction.html" class="backlink-item">Atmospheric refraction</a></li>
-    <li class="backlink-item-wrap"><a href="Cepheid%20period-luminosity%20relation.html" class="backlink-item">Cepheid period-luminosity relation</a></li>
-    <li class="backlink-item-wrap"><a href="Moving%20cluster%20method.html" class="backlink-item">Moving cluster method</a></li>
-    <li class="backlink-item-wrap"><a href="Parallax%20and%20standard%20candles.html" class="backlink-item">Parallax and standard candles</a></li>
-    <li class="backlink-item-wrap"><a href="Precession%20and%20nutation.html" class="backlink-item">Precession and nutation</a></li>
-    <li class="backlink-item-wrap"><a href="Precession%20nutation%20aberration%20parallax.html" class="backlink-item">Precession nutation aberration parallax</a></li>
-    <li class="backlink-item-wrap"><a href="Proper%20motion%20and%20stellar%20kinematics.html" class="backlink-item">Proper motion and stellar kinematics</a></li>
-    <li class="backlink-item-wrap"><a href="Radial%20velocity%20from%20stellar%20spectra.html" class="backlink-item">Radial velocity from stellar spectra</a></li>
-    <li class="backlink-item-wrap"><a href="Spectroscopic%20parallax%20and%20main-sequence%20fitting.html" class="backlink-item">Spectroscopic parallax and main-sequence fitting</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20velocity%20from%20Doppler%20shift.html" class="backlink-item">Stellar velocity from Doppler shift</a></li>
-    <li class="backlink-item-wrap"><a href="Variable%20stars%20as%20standard%20candles.html" class="backlink-item">Variable stars as standard candles</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[AU calibration parallax and parsec]]
+- [[Aberration of light]]
+- [[Atmospheric refraction]]
+- [[Cepheid period-luminosity relation]]
+- [[Moving cluster method]]
+- [[Parallax and standard candles]]
+- [[Precession and nutation]]
+- [[Precession nutation aberration parallax]]
+- [[Proper motion and stellar kinematics]]
+- [[Radial velocity from stellar spectra]]
+- [[Spectroscopic parallax and main-sequence fitting]]
+- [[Stellar velocity from Doppler shift]]
+- [[Variable stars as standard candles]]
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Observational_Astrophysics_MOC]]
+
 

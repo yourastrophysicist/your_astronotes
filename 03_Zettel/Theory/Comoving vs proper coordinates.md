@@ -53,23 +53,23 @@ at low $z$ all coincide; at high $z$ they diverge dramatically. see 03_Zettel/Th
 
 ## see also
 
-- [FLRW metric](FLRW%20metric.html)
-- [Hubble law](Hubble%20law.html)
+- [[FLRW metric]]
+- [[Hubble law]]
 - 03_Zettel/Theory/Cosmological distances
-- [Radial comoving distance](Radial%20comoving%20distance.html)
-- [Angular diameter distance](Angular%20diameter%20distance.html)
-- [Luminosity distance](Luminosity%20distance.html)
-- [Cosmological redshift](Cosmological%20redshift.html)
-- [Peculiar velocities of galaxies and structures](Peculiar%20velocities%20of%20galaxies%20and%20structures.html)
-- [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
+- [[Radial comoving distance]]
+- [[Angular diameter distance]]
+- [[Luminosity distance]]
+- [[Cosmological redshift]]
+- [[Peculiar velocities of galaxies and structures]]
+- [[Observational_Cosmology_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Cosmological%20redshift.html" class="backlink-item">Cosmological redshift</a></li>
-    <li class="backlink-item-wrap"><a href="Peculiar%20velocities%20of%20galaxies%20and%20structures.html" class="backlink-item">Peculiar velocities of galaxies and structures</a></li>
-    <li class="backlink-item-wrap"><a href="Radial%20comoving%20distance.html" class="backlink-item">Radial comoving distance</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Cosmological redshift]]
+- [[Peculiar velocities of galaxies and structures]]
+- [[Radial comoving distance]]
+- [[Observational_Cosmology_MOC]]
+
 

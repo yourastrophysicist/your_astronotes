@@ -51,7 +51,7 @@ remarkably, weak-scale annihilation cross-sections $\langle\sigma v\rangle \sim 
 
 ## the n/p freeze-out as a textbook example
 
-in BBN (see [BBN_overview](BBN_overview.html)), the neutron-to-proton ratio is regulated by weak interactions:
+in BBN (see [[BBN_overview]]), the neutron-to-proton ratio is regulated by weak interactions:
 $$n + \nu \leftrightarrow p + e, \qquad n \to p + e + \bar\nu, \dots$$
 
 while $\Gamma_w \gg H$, $(n/p) = e^{-Q/T}$ tracks equilibrium. when $\Gamma_w \approx H$ at $T_F \sim 0.8$ MeV:
@@ -59,7 +59,7 @@ $$\left(\frac{n}{p}\right)_{\rm freeze-out} = e^{-Q/T_F} \approx \frac{1}{6}$$
 
 this frozen ratio determines the primordial $^4$He abundance (about 25%).
 
-→ see [BBN_neutron_proton_ratio](BBN_neutron_proton_ratio.html).
+→ see [[BBN_neutron_proton_ratio]].
 
 ---
 
@@ -71,33 +71,33 @@ note: photons "decouple" at recombination, but they do not "freeze out" in the W
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Thermal equilibrium in the early universe](Thermal%20equilibrium%20in%20the%20early%20universe.html)
-- [Conservation of entropy in a comoving volume](Conservation%20of%20entropy%20in%20a%20comoving%20volume.html)
-- [BBN_overview](BBN_overview.html)
-- [BBN_neutron_proton_ratio](BBN_neutron_proton_ratio.html)
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Thermal equilibrium in the early universe]]
+- [[Conservation of entropy in a comoving volume]]
+- [[BBN_overview]]
+- [[BBN_neutron_proton_ratio]]
 - Dark matter relics — WIMP miracle
-- [Hot vs cold dark matter](Hot%20vs%20cold%20dark%20matter.html)
-- [Boltzmann equation in cosmology](Boltzmann%20equation%20in%20cosmology.html)
-- [Baumann_reference](Baumann_reference.html) — chapter 3.1.2 covers decoupling and freeze-out in detail
+- [[Hot vs cold dark matter]]
+- [[Boltzmann equation in cosmology]]
+- [[Baumann_reference]] — chapter 3.1.2 covers decoupling and freeze-out in detail
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (14)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="BBN_NSE_initial_conditions.html" class="backlink-item">BBN_NSE_initial_conditions</a></li>
-    <li class="backlink-item-wrap"><a href="BBN_neutron_proton_ratio.html" class="backlink-item">BBN_neutron_proton_ratio</a></li>
-    <li class="backlink-item-wrap"><a href="BBN_three_steps.html" class="backlink-item">BBN_three_steps</a></li>
-    <li class="backlink-item-wrap"><a href="Boltzmann%20equation%20in%20cosmology.html" class="backlink-item">Boltzmann equation in cosmology</a></li>
-    <li class="backlink-item-wrap"><a href="CMB%20Spectral%20Distortions%20-%20What%20They%20Are%20and%20Where%20They%20Come%20From.html" class="backlink-item">CMB Spectral Distortions - What They Are and Where They Come From</a></li>
-    <li class="backlink-item-wrap"><a href="Conservation%20of%20entropy%20in%20a%20comoving%20volume.html" class="backlink-item">Conservation of entropy in a comoving volume</a></li>
-    <li class="backlink-item-wrap"><a href="Cosmic_inventory_neutrinos.html" class="backlink-item">Cosmic_inventory_neutrinos</a></li>
-    <li class="backlink-item-wrap"><a href="Dark%20matter%20relics%20-%20WIMP%20miracle.html" class="backlink-item">Dark matter relics - WIMP miracle</a></li>
-    <li class="backlink-item-wrap"><a href="Decoupling.html" class="backlink-item">Decoupling</a></li>
-    <li class="backlink-item-wrap"><a href="Hot%20vs%20cold%20dark%20matter.html" class="backlink-item">Hot vs cold dark matter</a></li>
-    <li class="backlink-item-wrap"><a href="Photon%20decoupling%20and%20CMB.html" class="backlink-item">Photon decoupling and CMB</a></li>
-    <li class="backlink-item-wrap"><a href="Saha%20equation%20and%20recombination.html" class="backlink-item">Saha equation and recombination</a></li>
-    <li class="backlink-item-wrap"><a href="Thermal%20equilibrium%20in%20the%20early%20universe.html" class="backlink-item">Thermal equilibrium in the early universe</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[BBN_NSE_initial_conditions]]
+- [[BBN_neutron_proton_ratio]]
+- [[BBN_three_steps]]
+- [[Boltzmann equation in cosmology]]
+- [[CMB Spectral Distortions - What They Are and Where They Come From]]
+- [[Conservation of entropy in a comoving volume]]
+- [[Cosmic_inventory_neutrinos]]
+- [[Dark matter relics - WIMP miracle]]
+- [[Decoupling]]
+- [[Hot vs cold dark matter]]
+- [[Photon decoupling and CMB]]
+- [[Saha equation and recombination]]
+- [[Thermal equilibrium in the early universe]]
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+
 

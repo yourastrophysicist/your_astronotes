@@ -56,11 +56,11 @@ at high $n_e$: $j \propto n_1 A_{21} \propto n_e$, no $e^{-E/k_BT_e}$ in the sat
 
 if I take ratios of two transitions in the same atom with **different energy gaps**, the Boltzmann factor doesn't cancel:
 $$\frac{j_1}{j_2} \propto \frac{e^{-E_1/k_BT_e}}{e^{-E_2/k_BT_e}} = e^{-(E_1 - E_2)/k_BT_e}$$
-so the ratio is highly sensitive to $T_e$. this is the **temperature diagnostic** used by $[OIII]\,\lambda 4363/(\lambda 4959+5007)$ ([OIII forbidden lines](OIII%20forbidden%20lines.html)).
+so the ratio is highly sensitive to $T_e$. this is the **temperature diagnostic** used by $[OIII]\,\lambda 4363/(\lambda 4959+5007)$ ([[OIII forbidden lines]]).
 
 ### density diagnostics
 
-if I take ratios of two transitions from **different upper levels of the same multiplet** with very similar excitation energies but different $A_{21}$ and $q_{21}$, the Boltzmann factor cancels but the $n_e/n_c$ structure differs. this gives a **density diagnostic** like $[SII]\,\lambda 6716/\lambda 6731$ ([SII forbidden lines](SII%20forbidden%20lines.html)).
+if I take ratios of two transitions from **different upper levels of the same multiplet** with very similar excitation energies but different $A_{21}$ and $q_{21}$, the Boltzmann factor cancels but the $n_e/n_c$ structure differs. this gives a **density diagnostic** like $[SII]\,\lambda 6716/\lambda 6731$ ([[SII forbidden lines]]).
 
 ## why forbidden lines are special
 
@@ -70,34 +70,34 @@ permitted lines have $n_c \sim 10^{14}$ cm$^{-3}$, so they're always in the low-
 
 ## see also
 
-- [Statistical equilibrium equations](Statistical%20equilibrium%20equations.html)
-- [Critical density](Critical%20density.html)
-- [Collisional excitation rate](Collisional%20excitation%20rate.html)
-- [Forbidden lines](Forbidden%20lines.html)
-- [OIII forbidden lines](OIII%20forbidden%20lines.html)
-- [SII forbidden lines](SII%20forbidden%20lines.html)
-- [Forbidden line diagnostics](Forbidden%20line%20diagnostics.html)
-- [Spectroscopic Te diagnostics](Spectroscopic%20Te%20diagnostics.html)
-- [Spectroscopic ne diagnostics](Spectroscopic%20ne%20diagnostics.html)
+- [[Statistical equilibrium equations]]
+- [[Critical density]]
+- [[Collisional excitation rate]]
+- [[Forbidden lines]]
+- [[OIII forbidden lines]]
+- [[SII forbidden lines]]
+- [[Forbidden line diagnostics]]
+- [[Spectroscopic Te diagnostics]]
+- [[Spectroscopic ne diagnostics]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (15)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Collisional%20excitation%20rate.html" class="backlink-item">Collisional excitation rate</a></li>
-    <li class="backlink-item-wrap"><a href="Cooling%20rate%20in%20HII%20regions.html" class="backlink-item">Cooling rate in HII regions</a></li>
-    <li class="backlink-item-wrap"><a href="Critical%20density.html" class="backlink-item">Critical density</a></li>
-    <li class="backlink-item-wrap"><a href="Dilution%20factor.html" class="backlink-item">Dilution factor</a></li>
-    <li class="backlink-item-wrap"><a href="Forbidden%20line%20diagnostics.html" class="backlink-item">Forbidden line diagnostics</a></li>
-    <li class="backlink-item-wrap"><a href="Forbidden%20lines.html" class="backlink-item">Forbidden lines</a></li>
-    <li class="backlink-item-wrap"><a href="Local%20thermodynamic%20equilibrium%20LTE.html" class="backlink-item">Local thermodynamic equilibrium LTE</a></li>
-    <li class="backlink-item-wrap"><a href="OIII%20forbidden%20lines.html" class="backlink-item">OIII forbidden lines</a></li>
-    <li class="backlink-item-wrap"><a href="Optically%20thin%20recombination%20lines.html" class="backlink-item">Optically thin recombination lines</a></li>
-    <li class="backlink-item-wrap"><a href="SII%20forbidden%20lines.html" class="backlink-item">SII forbidden lines</a></li>
-    <li class="backlink-item-wrap"><a href="Source%20function.html" class="backlink-item">Source function</a></li>
-    <li class="backlink-item-wrap"><a href="Spectroscopic%20Te%20diagnostics.html" class="backlink-item">Spectroscopic Te diagnostics</a></li>
-    <li class="backlink-item-wrap"><a href="Spectroscopic%20ne%20diagnostics.html" class="backlink-item">Spectroscopic ne diagnostics</a></li>
-    <li class="backlink-item-wrap"><a href="Statistical%20equilibrium%20equations.html" class="backlink-item">Statistical equilibrium equations</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Collisional excitation rate]]
+- [[Cooling rate in HII regions]]
+- [[Critical density]]
+- [[Dilution factor]]
+- [[Forbidden line diagnostics]]
+- [[Forbidden lines]]
+- [[Local thermodynamic equilibrium LTE]]
+- [[OIII forbidden lines]]
+- [[Optically thin recombination lines]]
+- [[SII forbidden lines]]
+- [[Source function]]
+- [[Spectroscopic Te diagnostics]]
+- [[Spectroscopic ne diagnostics]]
+- [[Statistical equilibrium equations]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 

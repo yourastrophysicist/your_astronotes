@@ -58,12 +58,12 @@ $$\boxed{\, v_t = 4.7404 \, d(\text{pc}) \, \mu(''/\text{yr}) \approx 4.74 \, \f
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Annual stellar parallax](Annual%20stellar%20parallax.html)
-- [Stellar kinematics measurements](Stellar%20kinematics%20measurements.html)
-- [Milky Way structure](Milky%20Way%20structure.html)
-- [Stellar populations I II III](Stellar%20populations%20I%20II%20III.html)
-- [Aberration of light](Aberration%20of%20light.html)
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Annual stellar parallax]]
+- [[Stellar kinematics measurements]]
+- [[Milky Way structure]]
+- [[Stellar populations I II III]]
+- [[Aberration of light]]
 
 ---
 
@@ -75,13 +75,13 @@ $$\boxed{\, v_t = 4.7404 \, d(\text{pc}) \, \mu(''/\text{yr}) \approx 4.74 \, \f
 ![obs_sph2-33.png](../../assets/images/obs_sph2-33.png)
 *Radial velocity v_r from Doppler shift and total space velocity v = sqrt(v_r^2 + v_t^2).*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Aberration%20of%20light.html" class="backlink-item">Aberration of light</a></li>
-    <li class="backlink-item-wrap"><a href="Annual%20stellar%20parallax.html" class="backlink-item">Annual stellar parallax</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Aberration of light]]
+- [[Annual stellar parallax]]
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Observational_Astrophysics_MOC]]
+
 

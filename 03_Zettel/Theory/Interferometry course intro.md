@@ -39,7 +39,7 @@ the whole course is one extended answer to "how do I get from a sky brightness t
 $$\text{plane wave} \to \text{coherence} \to \text{visibility} \to \text{Fourier component}$$
 $$\to \text{(u,v) sample} \to \text{dirty image} \to \text{deconvolved image}$$
 
-each step is one block of [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html):
+each step is one block of [[Astronomical_Interferometry_MOC]]:
 - physics fundamentals (block 1)
 - coherence (block 2)
 - aperture synthesis (block 3)
@@ -70,7 +70,7 @@ each step is one block of [Astronomical_Interferometry_MOC](../../04_Atlas/Astro
 
 ## see also
 
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-- [Interferometry exam rules](interf/Interferometry%20exam%20rules.html)
-- [Why interferometry](interf/Why%20interferometry.html)
-- [Interferometry equation sheet](interf/Interferometry%20equation%20sheet.html)
+- [[Astronomical_Interferometry_MOC]]
+- [[Interferometry exam rules]]
+- [[Why interferometry]]
+- [[Interferometry equation sheet]]

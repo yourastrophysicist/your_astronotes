@@ -222,12 +222,12 @@ Two fundamental demarcation curves divide the BPT plane
 
 ## 8. Cross-References and Related Notes
 
-- [Photodissociation regions PDRs](Photodissociation%20regions%20PDRs.html) - Neutral and molecular transition layers bordering H II regions
-- [Molecular clouds](Molecular%20clouds.html) - Dense star-forming environments and CO chemistry
-- [H I regions](H%20I%20regions.html) - 21 cm line emission of neutral atomic hydrogen
-- [Schmidt-Kennicutt law](Schmidt-Kennicutt%20law.html) - Empirical relation between gas surface density and star formation rate
-- [Ionized gas kinematics](Ionized%20gas%20kinematics.html) - Velocity fields and rotation curves from emission lines
-- [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html) - Master Map of Content for course
+- [[Photodissociation regions PDRs]] - Neutral and molecular transition layers bordering H II regions
+- [[Molecular clouds]] - Dense star-forming environments and CO chemistry
+- [[H I regions]] - 21 cm line emission of neutral atomic hydrogen
+- [[Schmidt-Kennicutt law]] - Empirical relation between gas surface density and star formation rate
+- [[Ionized gas kinematics]] - Velocity fields and rotation curves from emission lines
+- [[Astrophysics_of_Galaxies_MOC]] - Master Map of Content for course
 
 ---
 
@@ -242,29 +242,29 @@ Two fundamental demarcation curves divide the BPT plane
 ![gal_ism-30.png](../../assets/images/gal_ism-30.png)
 *Figure 3 - The BPT diagram separating star-forming galaxies, composites, Seyferts, and LINERs.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (20)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="BPT%20diagram.html" class="backlink-item">BPT diagram</a></li>
-    <li class="backlink-item-wrap"><a href="Balmer%20continuum.html" class="backlink-item">Balmer continuum</a></li>
-    <li class="backlink-item-wrap"><a href="Dust%20extinction%20in%20nebulae.html" class="backlink-item">Dust extinction in nebulae</a></li>
-    <li class="backlink-item-wrap"><a href="Emission%20line%20stars.html" class="backlink-item">Emission line stars</a></li>
-    <li class="backlink-item-wrap"><a href="Free-free%20continuum.html" class="backlink-item">Free-free continuum</a></li>
-    <li class="backlink-item-wrap"><a href="Galaxy%20spectroscopy%20by%20type.html" class="backlink-item">Galaxy spectroscopy by type</a></li>
-    <li class="backlink-item-wrap"><a href="Ionisation%20parameter%20U.html" class="backlink-item">Ionisation parameter U</a></li>
-    <li class="backlink-item-wrap"><a href="Ionisation%20parameter%20and%20ionisation%20state.html" class="backlink-item">Ionisation parameter and ionisation state</a></li>
-    <li class="backlink-item-wrap"><a href="Ionisation%20stratification.html" class="backlink-item">Ionisation stratification</a></li>
-    <li class="backlink-item-wrap"><a href="OIII%20forbidden%20lines.html" class="backlink-item">OIII forbidden lines</a></li>
-    <li class="backlink-item-wrap"><a href="Photodissociation%20regions%20PDRs.html" class="backlink-item">Photodissociation regions PDRs</a></li>
-    <li class="backlink-item-wrap"><a href="Planetary%20nebula%20spectroscopy.html" class="backlink-item">Planetary nebula spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="Recombination%20continuum.html" class="backlink-item">Recombination continuum</a></li>
-    <li class="backlink-item-wrap"><a href="Spectroscopic%20ne%20diagnostics.html" class="backlink-item">Spectroscopic ne diagnostics</a></li>
-    <li class="backlink-item-wrap"><a href="Stromgren%20sphere%20derivation.html" class="backlink-item">Stromgren sphere derivation</a></li>
-    <li class="backlink-item-wrap"><a href="Stromgren%20sphere.html" class="backlink-item">Stromgren sphere</a></li>
-    <li class="backlink-item-wrap"><a href="Supernova%20remnant%20spectroscopy.html" class="backlink-item">Supernova remnant spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="Two-photon%20emission.html" class="backlink-item">Two-photon emission</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[BPT diagram]]
+- [[Balmer continuum]]
+- [[Dust extinction in nebulae]]
+- [[Emission line stars]]
+- [[Free-free continuum]]
+- [[Galaxy spectroscopy by type]]
+- [[Ionisation parameter U]]
+- [[Ionisation parameter and ionisation state]]
+- [[Ionisation stratification]]
+- [[OIII forbidden lines]]
+- [[Photodissociation regions PDRs]]
+- [[Planetary nebula spectroscopy]]
+- [[Recombination continuum]]
+- [[Spectroscopic ne diagnostics]]
+- [[Stromgren sphere derivation]]
+- [[Stromgren sphere]]
+- [[Supernova remnant spectroscopy]]
+- [[Two-photon emission]]
+- [[Astronomical_Spectroscopy_MOC]]
+- [[Astrophysics_of_Galaxies_MOC]]
+
 

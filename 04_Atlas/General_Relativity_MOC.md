@@ -90,7 +90,7 @@ these are not equations, they are the rules and the conventions.
 
 - GR exam rules what the exam looks like, the 20-question system, what is allowed
 - GR equation sheet the official formula sheet, organized for fast lookup
-- [Baumann GR](../02_Literature/Book/Baumann%20GR/Baumann%20GR.html) reading companion to the textbook, chapter by chapter
+- [[Baumann GR]] reading companion to the textbook, chapter by chapter
 
 ---
 
@@ -100,18 +100,18 @@ before we can do anything, we have to agree on a language for "spacetime as a ge
 
 physical question this block answers: **how do i write down a spacetime so that i can do calculus on it?**
 
-- [Manifold metric and signature](../03_Zettel/Theory/Manifold%20metric%20and%20signature.html) what is a manifold, what is a metric, why "Lorentzian signature" matters
-- [Coordinate transformations and tensors](../03_Zettel/Theory/Coordinate%20transformations%20and%20tensors.html) vectors, co-vectors, tensors, why partial derivatives are not tensors
-- [Locally inertial frame](../03_Zettel/Theory/Locally%20inertial%20frame.html) the GR version of "Newton's first law works locally"
-- [Christoffel symbols](../03_Zettel/Theory/Christoffel%20symbols.html) the price of using coordinates in curved space
-- [Levi-Civita connection](../03_Zettel/Theory/Levi-Civita%20connection.html) why GR uses one specific connection and not others
-- [Covariant derivative](../03_Zettel/Theory/Covariant%20derivative.html) the differentiation that respects curvature
-- [Metric compatibility](../03_Zettel/Theory/Metric%20compatibility.html) why $\nabla g = 0$ and why this matters
-- [Parallel transport](../03_Zettel/Theory/Parallel%20transport.html) the curved-space version of "translating without rotating"
+- [[Manifold metric and signature]] what is a manifold, what is a metric, why "Lorentzian signature" matters
+- [[Coordinate transformations and tensors]] vectors, co-vectors, tensors, why partial derivatives are not tensors
+- [[Locally inertial frame]] the GR version of "Newton's first law works locally"
+- [[Christoffel symbols]] the price of using coordinates in curved space
+- [[Levi-Civita connection]] why GR uses one specific connection and not others
+- [[Covariant derivative]] the differentiation that respects curvature
+- [[Metric compatibility]] why $\nabla g = 0$ and why this matters
+- [[Parallel transport]] the curved-space version of "translating without rotating"
 
 questions in this block: Q1 - Christoffels for diagonal 2D metric, Q2 - Christoffels for radial 2D metric, Q3 - covariant derivatives in polar, Q4 - metric compatibility on the 2-sphere.
 
-reading: [Ch 1 - Gravity is Geometry](../02_Literature/Book/Baumann%20GR/Ch%201%20-%20Gravity%20is%20Geometry.html) for the motivation, [Ch 2 - Some Differential Geometry](../02_Literature/Book/Baumann%20GR/Ch%202%20-%20Some%20Differential%20Geometry.html) for the math.
+reading: [[Ch 1 - Gravity is Geometry]] for the motivation, [[Ch 2 - Some Differential Geometry]] for the math.
 
 ---
 
@@ -123,17 +123,17 @@ physical question this block answers: **how do i know if a space is curved, and 
 
 the answer is the Riemann tensor. it is built from a beautiful operational test: parallel transport a vector around a tiny closed loop. if the vector comes back to the same vector, the space is flat. if it comes back rotated, the space is curved, and Riemann measures how much. this is not a metaphor; it is the actual definition.
 
-- [Riemann tensor](../03_Zettel/Theory/Riemann%20tensor.html) the path-dependence of parallel transport, made precise
-- [Riemann tensor symmetries](../03_Zettel/Theory/Riemann%20tensor%20symmetries.html) the four symmetries (antisym pair, antisym pair, pair exchange, first Bianchi) that reduce its components
-- [Counting Riemann components](../03_Zettel/Theory/Counting%20Riemann%20components.html) $n^2(n^2-1)/12$, equals 1 in 2D, 6 in 3D, 20 in 4D
-- [Ricci tensor and scalar](../03_Zettel/Theory/Ricci%20tensor%20and%20scalar.html) the contractions, what they capture
-- [Sectional and Gaussian curvature](../03_Zettel/Theory/Sectional%20and%20Gaussian%20curvature.html) the geometric meaning of one Riemann component
-- [Bianchi identities](../03_Zettel/Theory/Bianchi%20identities.html) the differential identity that forces conservation laws
-- [Geodesic deviation](../03_Zettel/Theory/Geodesic%20deviation.html) the physical content of curvature: tidal forces
+- [[Riemann tensor]] the path-dependence of parallel transport, made precise
+- [[Riemann tensor symmetries]] the four symmetries (antisym pair, antisym pair, pair exchange, first Bianchi) that reduce its components
+- [[Counting Riemann components]] $n^2(n^2-1)/12$, equals 1 in 2D, 6 in 3D, 20 in 4D
+- [[Ricci tensor and scalar]] the contractions, what they capture
+- [[Sectional and Gaussian curvature]] the geometric meaning of one Riemann component
+- [[Bianchi identities]] the differential identity that forces conservation laws
+- [[Geodesic deviation]] the physical content of curvature: tidal forces
 
 questions in this block: Q5 - Riemann for 1+1 expanding metric, Q6 - Riemann for conformally flat 1+1.
 
-reading: [Ch 4 - Spacetime Curvature](../02_Literature/Book/Baumann%20GR/Ch%204%20-%20Spacetime%20Curvature.html).
+reading: [[Ch 4 - Spacetime Curvature]].
 
 ---
 
@@ -152,15 +152,15 @@ definition 1 connects to Lagrangian mechanics ($S = -m \int d\tau$). definition 
 
 a deep simplification: when the spacetime has symmetries (the metric does not depend on some coordinate), there are **conserved quantities** along the geodesic. this is the GR version of Noether's theorem and it lets me reduce 4D problems to 1D effective-potential problems.
 
-- [Geodesic equation](../03_Zettel/Theory/Geodesic%20equation.html) the ODE for free-falling motion
-- [Affine parameter](../03_Zettel/Theory/Affine%20parameter.html) proper time for massive, anything-linear for null
-- [Killing vectors and conserved quantities](../03_Zettel/Theory/Killing%20vectors%20and%20conserved%20quantities.html) when the metric has a symmetry, there is a conserved momentum
-- [Effective potential approach](../03_Zettel/Theory/Effective%20potential%20approach.html) reducing the 4D Schwarzschild geodesic to a 1D radial problem
-- [Timelike vs null vs spacelike](../03_Zettel/Theory/Timelike%20vs%20null%20vs%20spacelike.html) the three flavors of geodesic
+- [[Geodesic equation]] the ODE for free-falling motion
+- [[Affine parameter]] proper time for massive, anything-linear for null
+- [[Killing vectors and conserved quantities]] when the metric has a symmetry, there is a conserved momentum
+- [[Effective potential approach]] reducing the 4D Schwarzschild geodesic to a 1D radial problem
+- [[Timelike vs null vs spacelike]] the three flavors of geodesic
 
 questions in this block: Q7 - geodesics on the 2-sphere, Q8 - null geodesic in static metric.
 
-reading: [Ch 3 - A First Look at Geodesics](../02_Literature/Book/Baumann%20GR/Ch%203%20-%20A%20First%20Look%20at%20Geodesics.html) (gives a great pedagogical derivation of the geodesic equation from the relativistic action).
+reading: [[Ch 3 - A First Look at Geodesics]] (gives a great pedagogical derivation of the geodesic equation from the relativistic action).
 
 ---
 
@@ -180,13 +180,13 @@ $$G_{\mu\nu} = 8\pi G T_{\mu\nu}$$
 
 the constant $8\pi G$ is fixed by demanding the equation reduces to Newton in the appropriate limit.
 
-- [Einstein equations](../03_Zettel/Theory/Einstein%20equations.html) the master equation
-- [Einstein tensor and Bianchi](../03_Zettel/Theory/Einstein%20tensor%20and%20Bianchi.html) why it has to be $G$ and not $R$
-- [Stress-energy tensor](../03_Zettel/Theory/Stress-energy%20tensor.html) perfect fluid, dust, radiation, vacuum, scalar field
-- [Trace-reversed Einstein equations](../03_Zettel/Theory/Trace-reversed%20Einstein%20equations.html) the equivalent form $R_{\mu\nu} = 8\pi G(T_{\mu\nu} - \tfrac12 g_{\mu\nu}T)$
-- [Cosmological constant](../03_Zettel/Theory/Cosmological%20constant.html) the only other thing that can be added consistently
+- [[Einstein equations]] the master equation
+- [[Einstein tensor and Bianchi]] why it has to be $G$ and not $R$
+- [[Stress-energy tensor]] perfect fluid, dust, radiation, vacuum, scalar field
+- [[Trace-reversed Einstein equations]] the equivalent form $R_{\mu\nu} = 8\pi G(T_{\mu\nu} - \tfrac12 g_{\mu\nu}T)$
+- [[Cosmological constant]] the only other thing that can be added consistently
 
-reading: [Ch 5 - The Einstein Equation](../02_Literature/Book/Baumann%20GR/Ch%205%20-%20The%20Einstein%20Equation.html).
+reading: [[Ch 5 - The Einstein Equation]].
 
 ---
 
@@ -204,24 +204,24 @@ four physical predictions, all confirmed by experiment:
 
 a fifth prediction: there is an **event horizon** at $r = 2GM$, a one-way membrane. inside it, even light cannot escape. that is the black hole.
 
-- [Schwarzschild metric](../03_Zettel/Theory/Schwarzschild%20metric.html) the metric and its derivation
-- [Birkhoff theorem](../03_Zettel/Theory/Birkhoff%20theorem.html) spherically symmetric vacuum is automatically static
-- [Schwarzschild Christoffels](../03_Zettel/Theory/Schwarzschild%20Christoffels.html) the standard table
-- [Schwarzschild horizon](../03_Zettel/Theory/Schwarzschild%20horizon.html) the $r = 2GM$ surface, why it is a coordinate singularity not a curvature one
-- [Schwarzschild effective potential](../03_Zettel/Theory/Schwarzschild%20effective%20potential.html) the master tool for orbits
-- [Circular orbits in Schwarzschild](../03_Zettel/Theory/Circular%20orbits%20in%20Schwarzschild.html) $\Omega^2 = GM/r^3$ exactly
-- [Photon sphere](../03_Zettel/Theory/Photon%20sphere.html) $r = 3GM$, the bright ring
-- [Radial infall](../03_Zettel/Theory/Radial%20infall.html) the cycloid solution
-- [Photon trajectories and impact parameter](../03_Zettel/Theory/Photon%20trajectories%20and%20impact%20parameter.html) $b = L/E$ and $b_{\rm crit} = 3\sqrt{3}\,GM$
-- [Perihelion precession](../03_Zettel/Theory/Perihelion%20precession.html) the $43''$/century
-- [Light deflection](../03_Zettel/Theory/Light%20deflection.html) the $1.75''$
-- [Eddington-Finkelstein and Kruskal](../03_Zettel/Theory/Eddington-Finkelstein%20and%20Kruskal.html) coordinates that pass through the horizon smoothly
+- [[Schwarzschild metric]] the metric and its derivation
+- [[Birkhoff theorem]] spherically symmetric vacuum is automatically static
+- [[Schwarzschild Christoffels]] the standard table
+- [[Schwarzschild horizon]] the $r = 2GM$ surface, why it is a coordinate singularity not a curvature one
+- [[Schwarzschild effective potential]] the master tool for orbits
+- [[Circular orbits in Schwarzschild]] $\Omega^2 = GM/r^3$ exactly
+- [[Photon sphere]] $r = 3GM$, the bright ring
+- [[Radial infall]] the cycloid solution
+- [[Photon trajectories and impact parameter]] $b = L/E$ and $b_{\rm crit} = 3\sqrt{3}\,GM$
+- [[Perihelion precession]] the $43''$/century
+- [[Light deflection]] the $1.75''$
+- [[Eddington-Finkelstein and Kruskal]] coordinates that pass through the horizon smoothly
 
-beyond this course's syllabus (not examined here, but the natural rotating generalization, used heavily in [[Lab_High-Energy_MOC]]): [Kerr Metric Horizon and Ergosphere Geometry](../03_Zettel/Theory/Kerr%20Metric%20Horizon%20and%20Ergosphere%20Geometry.html) and [Innermost Stable Circular Orbit ISCO](../03_Zettel/Theory/Innermost%20Stable%20Circular%20Orbit%20ISCO.html) generalize the $r=6GM$ Schwarzschild ISCO above to a spin-dependent $r_{\rm ISCO}(a_*)$ ranging from $M$ to $9M$.
+beyond this course's syllabus (not examined here, but the natural rotating generalization, used heavily in [[Lab_High-Energy_MOC]]): [[Kerr Metric Horizon and Ergosphere Geometry]] and [[Innermost Stable Circular Orbit ISCO]] generalize the $r=6GM$ Schwarzschild ISCO above to a spin-dependent $r_{\rm ISCO}(a_*)$ ranging from $M$ to $9M$.
 
 questions in this block: Q11 - selected Schwarzschild Christoffels, Q12 - circular orbits and orbital frequency, Q13 - radial infall and proper time, Q14 - photon trajectory and impact parameter.
 
-reading: [Ch 5 - The Einstein Equation](../02_Literature/Book/Baumann%20GR/Ch%205%20-%20The%20Einstein%20Equation.html) (Schwarzschild derivation), [Ch 6 - Black Holes](../02_Literature/Book/Baumann%20GR/Ch%206%20-%20Black%20Holes.html) (deep cuts on horizons, Kruskal, Penrose diagrams).
+reading: [[Ch 5 - The Einstein Equation]] (Schwarzschild derivation), [[Ch 6 - Black Holes]] (deep cuts on horizons, Kruskal, Penrose diagrams).
 
 ---
 
@@ -237,17 +237,17 @@ write the metric as $g_{\mu\nu} = \eta_{\mu\nu} + h_{\mu\nu}$ with $\lvert h\rve
 
 linearized GR has a **gauge symmetry**, just like electromagnetism. an infinitesimal coordinate change shifts $h_{\mu\nu}$ by $h \to h + 2\partial_{(\mu}\xi_{\nu)}$. fixing this gauge (Lorenz gauge, then transverse-traceless) is what makes the wave equation clean.
 
-- [Linearized metric perturbation](../03_Zettel/Theory/Linearized%20metric%20perturbation.html) $h_{\mu\nu}$ on Minkowski
-- [Linearized Christoffel and Riemann](../03_Zettel/Theory/Linearized%20Christoffel%20and%20Riemann.html) drop $\Gamma\Gamma$ terms
-- [Linearized gauge transformations](../03_Zettel/Theory/Linearized%20gauge%20transformations.html) residual diffeomorphism freedom
-- [Trace-reversed perturbation](../03_Zettel/Theory/Trace-reversed%20perturbation.html) $\bar h_{\mu\nu} = h_{\mu\nu} - \tfrac12 \eta_{\mu\nu} h$, an involution
-- [Lorenz gauge](../03_Zettel/Theory/Lorenz%20gauge.html) $\partial^\mu \bar h_{\mu\nu} = 0$, makes Einstein's equation a wave equation
-- [Newtonian limit of GR](../03_Zettel/Theory/Newtonian%20limit%20of%20GR.html) $h_{00} = -2\Phi$ recovers Poisson's equation
-- [SVT decomposition](../03_Zettel/Theory/SVT%20decomposition.html) scalar / vector / tensor split
+- [[Linearized metric perturbation]] $h_{\mu\nu}$ on Minkowski
+- [[Linearized Christoffel and Riemann]] drop $\Gamma\Gamma$ terms
+- [[Linearized gauge transformations]] residual diffeomorphism freedom
+- [[Trace-reversed perturbation]] $\bar h_{\mu\nu} = h_{\mu\nu} - \tfrac12 \eta_{\mu\nu} h$, an involution
+- [[Lorenz gauge]] $\partial^\mu \bar h_{\mu\nu} = 0$, makes Einstein's equation a wave equation
+- [[Newtonian limit of GR]] $h_{00} = -2\Phi$ recovers Poisson's equation
+- [[SVT decomposition]] scalar / vector / tensor split
 
 questions in this block: Q9 - weak-field Christoffel Gamma_i_00, Q10 - weak-field Ricci scalar, Q15 - trace-reversed perturbation and Lorenz gauge.
 
-reading: [Ch 8 - Gravitational Waves](../02_Literature/Book/Baumann%20GR/Ch%208%20-%20Gravitational%20Waves.html) § 8.1 for the linearized formalism.
+reading: [[Ch 8 - Gravitational Waves]] § 8.1 for the linearized formalism.
 
 ---
 
@@ -259,15 +259,15 @@ physical question this block answers: **what are gravitational waves and what do
 
 after fixing all the gauge freedom (Lorenz first, then four extra TT conditions), only **two physical polarizations** survive: $h_+$ ("plus") and $h_\times$ ("cross"). they affect a ring of test masses by alternately stretching and squeezing it: the "+" pattern stretches the ring along $x$ while squeezing along $y$, then reverses; the "×" pattern is the same rotated by $45°$. LIGO detects this stretching directly through laser interferometry.
 
-- [Transverse traceless gauge](../03_Zettel/Theory/Transverse%20traceless%20gauge.html) the canonical GW gauge, four extra conditions, two polarizations
-- [Plus and cross polarizations](../03_Zettel/Theory/Plus%20and%20cross%20polarizations.html) $h_+, h_\times$, the stretching and squeezing patterns
-- [Geodesic deviation under a GW](../03_Zettel/Theory/Geodesic%20deviation%20under%20a%20GW.html) the LIGO physics, $\Delta L/L \sim h$
-- [Quadrupole formula](../03_Zettel/Theory/Quadrupole%20formula.html) $h^{TT}_{ij} = (2G/r) \ddot Q_{ij}$, why no monopole or dipole GW
-- [GW energy and angular momentum](../03_Zettel/Theory/GW%20energy%20and%20angular%20momentum.html) the Isaacson tensor
+- [[Transverse traceless gauge]] the canonical GW gauge, four extra conditions, two polarizations
+- [[Plus and cross polarizations]] $h_+, h_\times$, the stretching and squeezing patterns
+- [[Geodesic deviation under a GW]] the LIGO physics, $\Delta L/L \sim h$
+- [[Quadrupole formula]] $h^{TT}_{ij} = (2G/r) \ddot Q_{ij}$, why no monopole or dipole GW
+- [[GW energy and angular momentum]] the Isaacson tensor
 
 questions in this block: Q16 - Christoffels for a TT plane wave, Q17 - Riemann R_0x0x for a TT plane wave.
 
-reading: [Ch 8 - Gravitational Waves](../02_Literature/Book/Baumann%20GR/Ch%208%20-%20Gravitational%20Waves.html) § 8.2 to 8.4.
+reading: [[Ch 8 - Gravitational Waves]] § 8.2 to 8.4.
 
 ---
 
@@ -290,19 +290,19 @@ three eras of cosmic history:
 
 today: $\Omega_r \approx 9 \times 10^{-5}$, $\Omega_m \approx 0.32$, $\Omega_\Lambda \approx 0.68$, $\lvert\Omega_k\rvert < 0.005$. **5% baryons, 27% dark matter, 68% dark energy.** 95% of the universe is invisible.
 
-- [Cosmological principle](../03_Zettel/Theory/Cosmological%20principle.html) homogeneous + isotropic at each time
-- [FLRW metric](../03_Zettel/Theory/FLRW%20metric.html) $ds^2 = -dt^2 + a(t)^2 \gamma_{ij} dx^i dx^j$
-- [Spatial curvature parameter k](../03_Zettel/Theory/Spatial%20curvature%20parameter%20k.html) flat / closed / open
-- [Friedmann equations](../03_Zettel/Theory/Friedmann%20equations.html) the master cosmological equations
-- [Continuity equation](../03_Zettel/Theory/Continuity%20equation.html) from $\nabla^\mu T_{\mu\nu} = 0$
-- [Equation of state and density scaling](../03_Zettel/Theory/Equation%20of%20state%20and%20density%20scaling.html) $\rho \propto a^{-3(1+w)}$
-- [Cosmic eras](../03_Zettel/Theory/Cosmic%20eras.html) radiation, matter, dark energy
-- [Matter radiation equality](../03_Zettel/Theory/Matter%20radiation%20equality.html) $a_{\rm eq}$, the cosmic transition
-- [Deceleration parameter](../03_Zettel/Theory/Deceleration%20parameter.html) $q$, why it is negative today
+- [[Cosmological principle]] homogeneous + isotropic at each time
+- [[FLRW metric]] $ds^2 = -dt^2 + a(t)^2 \gamma_{ij} dx^i dx^j$
+- [[Spatial curvature parameter k]] flat / closed / open
+- [[Friedmann equations]] the master cosmological equations
+- [[Continuity equation]] from $\nabla^\mu T_{\mu\nu} = 0$
+- [[Equation of state and density scaling]] $\rho \propto a^{-3(1+w)}$
+- [[Cosmic eras]] radiation, matter, dark energy
+- [[Matter radiation equality]] $a_{\rm eq}$, the cosmic transition
+- [[Deceleration parameter]] $q$, why it is negative today
 
 questions in this block: Q18 - derive the acceleration equation, Q19 - radiation universe, Q20 - matter plus radiation universe.
 
-reading: [Ch 7 - Cosmology](../02_Literature/Book/Baumann%20GR/Ch%207%20-%20Cosmology.html).
+reading: [[Ch 7 - Cosmology]].
 
 ---
 
@@ -350,9 +350,9 @@ every question is a calculation that lives inside one of the eight blocks. when 
 
 Canonical and modern arXiv gr-qc/astro-ph.HE benchmark papers underlying the Kerr-metric and gravitational-wave physics above.
 
-- [Bardeen, Press & Teukolsky (1972) — Rotating Black Holes](../02_Literature/Papers/14_General_Relativity/Bardeen_Press_Teukolsky_1972_Rotating_Black_Holes.html) — locally nonrotating frames, the ISCO formula, accretion efficiency
-- [Abbott et al. / LIGO & Virgo (2016) — Observation of Gravitational Waves (GW150914)](../02_Literature/Papers/14_General_Relativity/Abbott_2016_LIGO_GW150914_Detection.html) — chirp-mass inspiral, merger, ringdown
-- [Event Horizon Telescope Collaboration (2022) — Testing the Black Hole Metric (Sgr A*)](../02_Literature/Papers/14_General_Relativity/EHT_Collaboration_2022_Testing_Kerr_Metric_SgrA.html) — shadow-size Kerr test across mass scales
+- [[Bardeen_Press_Teukolsky_1972_Rotating_Black_Holes|Bardeen, Press & Teukolsky (1972) — Rotating Black Holes]] — locally nonrotating frames, the ISCO formula, accretion efficiency
+- [[Abbott_2016_LIGO_GW150914_Detection|Abbott et al. / LIGO & Virgo (2016) — Observation of Gravitational Waves (GW150914)]] — chirp-mass inspiral, merger, ringdown
+- [[EHT_Collaboration_2022_Testing_Kerr_Metric_SgrA|Event Horizon Telescope Collaboration (2022) — Testing the Black Hole Metric (Sgr A*)]] — shadow-size Kerr test across mass scales
 
 ---
 
@@ -360,8 +360,8 @@ Canonical and modern arXiv gr-qc/astro-ph.HE benchmark papers underlying the Ker
 
 GR is the geometric trunk that other courses graft onto.
 
-- **[Observational_Cosmology_MOC](Observational_Cosmology_MOC.html)** is the same Block 8 (FLRW + Friedmann), but turned outward toward observation. distance ladders, the K-correction, surface-brightness dimming, the CMB, all sit on top of FLRW. when i derive Friedmann here, i am building the foundation that course needs.
-- **[Lab_High-Energy_MOC](Lab_High-Energy_MOC.html)** turns Schwarzschild into observables. ISCO sets the inner edge of accretion disks (and hence the $L_{\rm Edd}$-scale luminosity). the photon sphere becomes the bright ring in EHT images. gravitational redshift shows up in iron K$\alpha$ line shapes from neutron stars and BHs.
+- **[[Observational_Cosmology_MOC]]** is the same Block 8 (FLRW + Friedmann), but turned outward toward observation. distance ladders, the K-correction, surface-brightness dimming, the CMB, all sit on top of FLRW. when i derive Friedmann here, i am building the foundation that course needs.
+- **[[Lab_High-Energy_MOC]]** turns Schwarzschild into observables. ISCO sets the inner edge of accretion disks (and hence the $L_{\rm Edd}$-scale luminosity). the photon sphere becomes the bright ring in EHT images. gravitational redshift shows up in iron K$\alpha$ line shapes from neutron stars and BHs.
 - **Fundamentals of Astrophysics and Cosmology** (the parallel course): Newtonian-fluid derivation of Friedmann, and the basics of CMB physics. it is GR cosmology's "easier sister." i should read both side by side.
 
 ---
@@ -377,7 +377,7 @@ GR is the geometric trunk that other courses graft onto.
 
 - **Sean Carroll, *Spacetime and Geometry*** the standard rigorous treatment, source for most of the equation sheet
 - **Bernard Schutz, *A First Course in General Relativity*** more physical, intuition-first
-- **Daniel Baumann, *General Relativity*** the book the course follows. reading companion (chapter by chapter) at [Baumann GR](../02_Literature/Book/Baumann%20GR/Baumann%20GR.html)
+- **Daniel Baumann, *General Relativity*** the book the course follows. reading companion (chapter by chapter) at [[Baumann GR]]
 - 20 official questions: `Downloads/GR_Exam_2026.pdf`
 - official equation sheet: `Downloads/GR_Equations_2026.pdf`
 - long-form course walkthrough: `1st Semester/GENERAL RELATIVITY FOR ASTROPHYSICS AND COSMOLOGY/QA GR.pdf`
@@ -388,7 +388,7 @@ GR is the geometric trunk that other courses graft onto.
 
 > general relativity replaces Newton's "gravity is a force" with "gravity is geometry." spacetime is a Lorentzian manifold whose metric $g_{\mu\nu}$ encodes how distances are measured. coordinate axes generally tilt as i move around, captured by the Christoffel symbols $\Gamma^\alpha{}_{\mu\nu}$, the unique symbols that are both metric-compatible and torsion-free. true curvature is captured by the Riemann tensor, defined by the path-dependence of parallel transport, and physically by the relative acceleration of nearby geodesics (tidal forces). matter sources curvature through Einstein's equation $G_{\mu\nu} = 8\pi G T_{\mu\nu}$, where $G_{\mu\nu} = R_{\mu\nu} - \tfrac12 g_{\mu\nu}R$ is the unique "second-derivative of metric" combination that is automatically conserved. matter responds by following geodesics $\ddot x + \Gamma \dot x \dot x = 0$. solving Einstein's equation in special cases gives Schwarzschild (spherical vacuum, models stars and black holes), FLRW (homogeneous-isotropic, models the universe), and linearized perturbations on Minkowski (gravitational waves and the Newtonian limit). every measurable consequence of GR, perihelion precession, light deflection, gravitational redshift, expansion of the universe, gravitational waves, comes out of this single chain.
 
-see also: [Observational_Cosmology_MOC](Observational_Cosmology_MOC.html) · [Lab_High-Energy_MOC](Lab_High-Energy_MOC.html) · Interests_MOC
+see also: [[Observational_Cosmology_MOC]] · [[Lab_High-Energy_MOC]] · Interests_MOC
 
 ---
 
@@ -398,39 +398,39 @@ Every single oral question solution card, Cambridge lecture diagram, and blackbo
 
 | Image Asset | Diagnostic Category & Physics | Primary Zettel Note |
 |---|---|---|
-| `![baumann_fig01_p1.png](../assets/images/baumann_fig01_p1.png)` | Cambridge Part III General Relativity diagram (Prof. Daniel Baumann): Geometric spacetime curvature, null cones, or orbits | [Geodesic deviation and tidal forces](../03_Zettel/Theory/Geodesic%20deviation%20and%20tidal%20forces.html) |
-| `![baumann_fig02_p44.png](../assets/images/baumann_fig02_p44.png)` | Cambridge Part III General Relativity diagram (Prof. Daniel Baumann): Geometric spacetime curvature, null cones, or orbits | [Parallel transport and holonomy](../03_Zettel/Theory/Parallel%20transport%20and%20holonomy.html) |
-| `![baumann_fig03_p44.png](../assets/images/baumann_fig03_p44.png)` | Cambridge Part III General Relativity diagram (Prof. Daniel Baumann): Geometric spacetime curvature, null cones, or orbits | [Counting Riemann components](../03_Zettel/Theory/Counting%20Riemann%20components.html) |
-| `![baumann_fig04_p47.png](../assets/images/baumann_fig04_p47.png)` | Cambridge Part III General Relativity diagram (Prof. Daniel Baumann): Geometric spacetime curvature, null cones, or orbits | [Gravitational redshift and time dilation](../03_Zettel/Theory/Gravitational%20redshift%20and%20time%20dilation.html) |
-| `![baumann_fig05_p74.png](../assets/images/baumann_fig05_p74.png)` | Cambridge Part III General Relativity diagram (Prof. Daniel Baumann): Geometric spacetime curvature, null cones, or orbits | [Schwarzschild metric](../03_Zettel/Theory/Schwarzschild%20metric.html) |
-| `![baumann_fig06_p110.jpeg](../assets/images/baumann_fig06_p110.jpeg)` | Cambridge Part III General Relativity diagram (Prof. Daniel Baumann): Geometric spacetime curvature, null cones, or orbits | [Circular orbits in Schwarzschild](../03_Zettel/Theory/Circular%20orbits%20in%20Schwarzschild.html) |
-| `![baumann_fig07_p112.png](../assets/images/baumann_fig07_p112.png)` | Cambridge Part III General Relativity diagram (Prof. Daniel Baumann): Geometric spacetime curvature, null cones, or orbits | [Light deflection in Schwarzschild](../03_Zettel/Theory/Light%20deflection%20in%20Schwarzschild.html) |
-| `![baumann_fig08_p140.jpeg](../assets/images/baumann_fig08_p140.jpeg)` | Cambridge Part III General Relativity diagram (Prof. Daniel Baumann): Geometric spacetime curvature, null cones, or orbits | [Gravitational waves in General Relativity](../03_Zettel/Theory/Gravitational%20waves%20in%20General%20Relativity.html) |
-| `![baumann_fig09_p151.png](../assets/images/baumann_fig09_p151.png)` | Cambridge Part III General Relativity diagram (Prof. Daniel Baumann): Geometric spacetime curvature, null cones, or orbits | [Cosmological perturbation theory in General Relativity](../03_Zettel/Theory/Cosmological%20perturbation%20theory%20in%20General%20Relativity.html) |
-| `![gr_q01_solution.png](../assets/images/gr_q01_solution.png)` | Question 1 Oral Exam Model Solution Card: Blackboard mathematical derivation and key physical result | [Coordinate transformations and tensors](../03_Zettel/Theory/Coordinate%20transformations%20and%20tensors.html) |
-| `![gr_q02_solution.png](../assets/images/gr_q02_solution.png)` | Question 2 Oral Exam Model Solution Card: Blackboard mathematical derivation and key physical result | [Geodesic equation](../03_Zettel/Theory/Geodesic%20equation.html) |
-| `![gr_q03_solution.png](../assets/images/gr_q03_solution.png)` | Question 3 Oral Exam Model Solution Card: Blackboard mathematical derivation and key physical result | [Killing vectors and symmetries](../03_Zettel/Theory/Killing%20vectors%20and%20symmetries.html) |
-| `![gr_q04_solution.png](../assets/images/gr_q04_solution.png)` | Question 4 Oral Exam Model Solution Card: Blackboard mathematical derivation and key physical result | [Christoffel symbols](../03_Zettel/Theory/Christoffel%20symbols.html) |
-| `![gr_q05_solution.png](../assets/images/gr_q05_solution.png)` | Question 5 Oral Exam Model Solution Card: Blackboard mathematical derivation and key physical result | [Equivalence principle](../03_Zettel/Theory/Equivalence%20principle.html) |
-| `![gr_q06_solution.png](../assets/images/gr_q06_solution.png)` | Question 6 Oral Exam Model Solution Card: Blackboard mathematical derivation and key physical result | [Counting Riemann components](../03_Zettel/Theory/Counting%20Riemann%20components.html) |
-| `![gr_q07_solution.png](../assets/images/gr_q07_solution.png)` | Question 7 Oral Exam Model Solution Card: Blackboard mathematical derivation and key physical result | [Parallel transport and holonomy](../03_Zettel/Theory/Parallel%20transport%20and%20holonomy.html) |
-| `![gr_q08_solution.png](../assets/images/gr_q08_solution.png)` | Question 8 Oral Exam Model Solution Card: Blackboard mathematical derivation and key physical result | [Bianchi identities](../03_Zettel/Theory/Bianchi%20identities.html) |
-| `![gr_q09_solution.png](../assets/images/gr_q09_solution.png)` | Question 9 Oral Exam Model Solution Card: Blackboard mathematical derivation and key physical result | [Light deflection in Schwarzschild](../03_Zettel/Theory/Light%20deflection%20in%20Schwarzschild.html) |
-| `![gr_q10_solution.png](../assets/images/gr_q10_solution.png)` | Question 10 Oral Exam Model Solution Card: Blackboard mathematical derivation and key physical result | [Schwarzschild metric](../03_Zettel/Theory/Schwarzschild%20metric.html) |
-| `![gr_q11_solution.png](../assets/images/gr_q11_solution.png)` | Question 11 Oral Exam Model Solution Card: Blackboard mathematical derivation and key physical result | [Circular orbits in Schwarzschild](../03_Zettel/Theory/Circular%20orbits%20in%20Schwarzschild.html) |
-| `![gr_q12_solution.png](../assets/images/gr_q12_solution.png)` | Question 12 Oral Exam Model Solution Card: Blackboard mathematical derivation and key physical result | [Eddington-Finkelstein and Kruskal](../03_Zettel/Theory/Eddington-Finkelstein%20and%20Kruskal.html) |
-| `![gr_q13_solution.png](../assets/images/gr_q13_solution.png)` | Question 13 Oral Exam Model Solution Card: Blackboard mathematical derivation and key physical result | [Light deflection in Schwarzschild](../03_Zettel/Theory/Light%20deflection%20in%20Schwarzschild.html) |
-| `![gr_q14_solution.png](../assets/images/gr_q14_solution.png)` | Question 14 Oral Exam Model Solution Card: Blackboard mathematical derivation and key physical result | [Perihelion precession of Mercury](../03_Zettel/Theory/Perihelion%20precession%20of%20Mercury.html) |
-| `![gr_q15_solution.png](../assets/images/gr_q15_solution.png)` | Question 15 Oral Exam Model Solution Card: Blackboard mathematical derivation and key physical result | [Linearized gravity and gravitational waves](../03_Zettel/Theory/Linearized%20gravity%20and%20gravitational%20waves.html) |
-| `![gr_q16_solution.png](../assets/images/gr_q16_solution.png)` | Question 16 Oral Exam Model Solution Card: Blackboard mathematical derivation and key physical result | [Gravitational waves in General Relativity](../03_Zettel/Theory/Gravitational%20waves%20in%20General%20Relativity.html) |
-| `![gr_q17_solution.png](../assets/images/gr_q17_solution.png)` | Question 17 Oral Exam Model Solution Card: Blackboard mathematical derivation and key physical result | [Gravitational waves in General Relativity](../03_Zettel/Theory/Gravitational%20waves%20in%20General%20Relativity.html) |
-| `![gr_q18_solution.png](../assets/images/gr_q18_solution.png)` | Question 18 Oral Exam Model Solution Card: Blackboard mathematical derivation and key physical result | [Friedmann equations](../03_Zettel/Theory/Friedmann%20equations.html) |
-| `![gr_q19_solution.png](../assets/images/gr_q19_solution.png)` | Question 19 Oral Exam Model Solution Card: Blackboard mathematical derivation and key physical result | [Equation of state and density scaling](../03_Zettel/Theory/Equation%20of%20state%20and%20density%20scaling.html) |
-| `![gr_q20_solution.png](../assets/images/gr_q20_solution.png)` | Question 20 Oral Exam Model Solution Card: Blackboard mathematical derivation and key physical result | [Cosmological constant](../03_Zettel/Theory/Cosmological%20constant.html) |
-| `![lez04_equivalence_principle.png](../assets/images/lez04_equivalence_principle.png)` | Padova University GR Lecture Blackboard Summary Sheet: Four-velocity, equivalence principle, energy-momentum tensor, or curvilinear coordinates | [Equivalence principle](../03_Zettel/Theory/Equivalence%20principle.html) |
-| `![lez05_four_velocity_acceleration.png](../assets/images/lez05_four_velocity_acceleration.png)` | Padova University GR Lecture Blackboard Summary Sheet: Four-velocity, equivalence principle, energy-momentum tensor, or curvilinear coordinates | [Four-velocity and four-momentum](../03_Zettel/Theory/Four-velocity%20and%20four-momentum.html) |
-| `![lez07_energy_momentum_tensor.png](../assets/images/lez07_energy_momentum_tensor.png)` | Padova University GR Lecture Blackboard Summary Sheet: Four-velocity, equivalence principle, energy-momentum tensor, or curvilinear coordinates | [Continuity equation](../03_Zettel/Theory/Continuity%20equation.html) |
-| `![lez10_curvilinear_coordinates.png](../assets/images/lez10_curvilinear_coordinates.png)` | Padova University GR Lecture Blackboard Summary Sheet: Four-velocity, equivalence principle, energy-momentum tensor, or curvilinear coordinates | [Coordinate transformations and tensors](../03_Zettel/Theory/Coordinate%20transformations%20and%20tensors.html) |
+| `![baumann_fig01_p1.png](../assets/images/baumann_fig01_p1.png)` | Cambridge Part III General Relativity diagram (Prof. Daniel Baumann): Geometric spacetime curvature, null cones, or orbits | [[Geodesic deviation and tidal forces]] |
+| `![baumann_fig02_p44.png](../assets/images/baumann_fig02_p44.png)` | Cambridge Part III General Relativity diagram (Prof. Daniel Baumann): Geometric spacetime curvature, null cones, or orbits | [[Parallel transport and holonomy]] |
+| `![baumann_fig03_p44.png](../assets/images/baumann_fig03_p44.png)` | Cambridge Part III General Relativity diagram (Prof. Daniel Baumann): Geometric spacetime curvature, null cones, or orbits | [[Counting Riemann components]] |
+| `![baumann_fig04_p47.png](../assets/images/baumann_fig04_p47.png)` | Cambridge Part III General Relativity diagram (Prof. Daniel Baumann): Geometric spacetime curvature, null cones, or orbits | [[Gravitational redshift and time dilation]] |
+| `![baumann_fig05_p74.png](../assets/images/baumann_fig05_p74.png)` | Cambridge Part III General Relativity diagram (Prof. Daniel Baumann): Geometric spacetime curvature, null cones, or orbits | [[Schwarzschild metric]] |
+| `![baumann_fig06_p110.jpeg](../assets/images/baumann_fig06_p110.jpeg)` | Cambridge Part III General Relativity diagram (Prof. Daniel Baumann): Geometric spacetime curvature, null cones, or orbits | [[Circular orbits in Schwarzschild]] |
+| `![baumann_fig07_p112.png](../assets/images/baumann_fig07_p112.png)` | Cambridge Part III General Relativity diagram (Prof. Daniel Baumann): Geometric spacetime curvature, null cones, or orbits | [[Light deflection in Schwarzschild]] |
+| `![baumann_fig08_p140.jpeg](../assets/images/baumann_fig08_p140.jpeg)` | Cambridge Part III General Relativity diagram (Prof. Daniel Baumann): Geometric spacetime curvature, null cones, or orbits | [[Gravitational waves in General Relativity]] |
+| `![baumann_fig09_p151.png](../assets/images/baumann_fig09_p151.png)` | Cambridge Part III General Relativity diagram (Prof. Daniel Baumann): Geometric spacetime curvature, null cones, or orbits | [[Cosmological perturbation theory in General Relativity]] |
+| `![gr_q01_solution.png](../assets/images/gr_q01_solution.png)` | Question 1 Oral Exam Model Solution Card: Blackboard mathematical derivation and key physical result | [[Coordinate transformations and tensors]] |
+| `![gr_q02_solution.png](../assets/images/gr_q02_solution.png)` | Question 2 Oral Exam Model Solution Card: Blackboard mathematical derivation and key physical result | [[Geodesic equation]] |
+| `![gr_q03_solution.png](../assets/images/gr_q03_solution.png)` | Question 3 Oral Exam Model Solution Card: Blackboard mathematical derivation and key physical result | [[Killing vectors and symmetries]] |
+| `![gr_q04_solution.png](../assets/images/gr_q04_solution.png)` | Question 4 Oral Exam Model Solution Card: Blackboard mathematical derivation and key physical result | [[Christoffel symbols]] |
+| `![gr_q05_solution.png](../assets/images/gr_q05_solution.png)` | Question 5 Oral Exam Model Solution Card: Blackboard mathematical derivation and key physical result | [[Equivalence principle]] |
+| `![gr_q06_solution.png](../assets/images/gr_q06_solution.png)` | Question 6 Oral Exam Model Solution Card: Blackboard mathematical derivation and key physical result | [[Counting Riemann components]] |
+| `![gr_q07_solution.png](../assets/images/gr_q07_solution.png)` | Question 7 Oral Exam Model Solution Card: Blackboard mathematical derivation and key physical result | [[Parallel transport and holonomy]] |
+| `![gr_q08_solution.png](../assets/images/gr_q08_solution.png)` | Question 8 Oral Exam Model Solution Card: Blackboard mathematical derivation and key physical result | [[Bianchi identities]] |
+| `![gr_q09_solution.png](../assets/images/gr_q09_solution.png)` | Question 9 Oral Exam Model Solution Card: Blackboard mathematical derivation and key physical result | [[Light deflection in Schwarzschild]] |
+| `![gr_q10_solution.png](../assets/images/gr_q10_solution.png)` | Question 10 Oral Exam Model Solution Card: Blackboard mathematical derivation and key physical result | [[Schwarzschild metric]] |
+| `![gr_q11_solution.png](../assets/images/gr_q11_solution.png)` | Question 11 Oral Exam Model Solution Card: Blackboard mathematical derivation and key physical result | [[Circular orbits in Schwarzschild]] |
+| `![gr_q12_solution.png](../assets/images/gr_q12_solution.png)` | Question 12 Oral Exam Model Solution Card: Blackboard mathematical derivation and key physical result | [[Eddington-Finkelstein and Kruskal]] |
+| `![gr_q13_solution.png](../assets/images/gr_q13_solution.png)` | Question 13 Oral Exam Model Solution Card: Blackboard mathematical derivation and key physical result | [[Light deflection in Schwarzschild]] |
+| `![gr_q14_solution.png](../assets/images/gr_q14_solution.png)` | Question 14 Oral Exam Model Solution Card: Blackboard mathematical derivation and key physical result | [[Perihelion precession of Mercury]] |
+| `![gr_q15_solution.png](../assets/images/gr_q15_solution.png)` | Question 15 Oral Exam Model Solution Card: Blackboard mathematical derivation and key physical result | [[Linearized gravity and gravitational waves]] |
+| `![gr_q16_solution.png](../assets/images/gr_q16_solution.png)` | Question 16 Oral Exam Model Solution Card: Blackboard mathematical derivation and key physical result | [[Gravitational waves in General Relativity]] |
+| `![gr_q17_solution.png](../assets/images/gr_q17_solution.png)` | Question 17 Oral Exam Model Solution Card: Blackboard mathematical derivation and key physical result | [[Gravitational waves in General Relativity]] |
+| `![gr_q18_solution.png](../assets/images/gr_q18_solution.png)` | Question 18 Oral Exam Model Solution Card: Blackboard mathematical derivation and key physical result | [[Friedmann equations]] |
+| `![gr_q19_solution.png](../assets/images/gr_q19_solution.png)` | Question 19 Oral Exam Model Solution Card: Blackboard mathematical derivation and key physical result | [[Equation of state and density scaling]] |
+| `![gr_q20_solution.png](../assets/images/gr_q20_solution.png)` | Question 20 Oral Exam Model Solution Card: Blackboard mathematical derivation and key physical result | [[Cosmological constant]] |
+| `![lez04_equivalence_principle.png](../assets/images/lez04_equivalence_principle.png)` | Padova University GR Lecture Blackboard Summary Sheet: Four-velocity, equivalence principle, energy-momentum tensor, or curvilinear coordinates | [[Equivalence principle]] |
+| `![lez05_four_velocity_acceleration.png](../assets/images/lez05_four_velocity_acceleration.png)` | Padova University GR Lecture Blackboard Summary Sheet: Four-velocity, equivalence principle, energy-momentum tensor, or curvilinear coordinates | [[Four-velocity and four-momentum]] |
+| `![lez07_energy_momentum_tensor.png](../assets/images/lez07_energy_momentum_tensor.png)` | Padova University GR Lecture Blackboard Summary Sheet: Four-velocity, equivalence principle, energy-momentum tensor, or curvilinear coordinates | [[Continuity equation]] |
+| `![lez10_curvilinear_coordinates.png](../assets/images/lez10_curvilinear_coordinates.png)` | Padova University GR Lecture Blackboard Summary Sheet: Four-velocity, equivalence principle, energy-momentum tensor, or curvilinear coordinates | [[Coordinate transformations and tensors]] |
 
 
 ---

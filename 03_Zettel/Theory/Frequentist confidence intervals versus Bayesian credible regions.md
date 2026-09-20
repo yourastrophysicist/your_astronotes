@@ -47,17 +47,17 @@ $$L(\theta) \propto \theta^3 (1-\theta)^9$$
 - **Frequentist result**: The p-values and confidence intervals differ because the tail areas sum over different unobserved experimental outcomes, yielding different conclusions from identical observed data.
 
 ## See Also
-- [Astro-Statistics_and_Cosmology_MOC](../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html)
-- [04_Frequentist_vs_Bayesian_Inference_and_Confidence_Intervals](../../02_Literature/Lectures/Astrostatistics/04_Frequentist_vs_Bayesian_Inference_and_Confidence_Intervals.html)
-- [Cox theorem and probability as extended logic](Cox%20theorem%20and%20probability%20as%20extended%20logic.html)
-- [Lindley paradox in statistical hypothesis testing](Lindley%20paradox%20in%20statistical%20hypothesis%20testing.html)
+- [[Astro-Statistics_and_Cosmology_MOC]]
+- [[04_Frequentist_vs_Bayesian_Inference_and_Confidence_Intervals]]
+- [[Cox theorem and probability as extended logic]]
+- [[Lindley paradox in statistical hypothesis testing]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Bernstein-von%20Mises%20theorem%20and%20Bayesian%20asymptotics.html" class="backlink-item">Bernstein-von Mises theorem and Bayesian asymptotics</a></li>
-    <li class="backlink-item-wrap"><a href="Cox%20theorem%20and%20probability%20as%20extended%20logic.html" class="backlink-item">Cox theorem and probability as extended logic</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Bernstein-von Mises theorem and Bayesian asymptotics]]
+- [[Cox theorem and probability as extended logic]]
+- [[Astro-Statistics_and_Cosmology_MOC]]
+
 

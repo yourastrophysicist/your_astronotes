@@ -2,19 +2,19 @@
 layout: "default"
 title: "Yellow stragglers and sub-subgiants"
 ---
-besides [blue stragglers](Blue%20stragglers%20in%20star%20clusters.html), [cluster CMDs](Color-magnitude%20diagrams%20of%20clusters.html) reveal two further peculiar populations whose origin is also tied to [binary](interf/Binary%20star%20orbits.html) evolution: **yellow stragglers** (YSS) and **sub-subgiants** (SSG, also called **red stragglers**).
+besides [[Blue stragglers in star clusters|blue stragglers]], [[Color-magnitude diagrams of clusters|cluster CMDs]] reveal two further peculiar populations whose origin is also tied to [[Binary star orbits|binary]] evolution: **yellow stragglers** (YSS) and **sub-subgiants** (SSG, also called **red stragglers**).
 
 **yellow stragglers**
 
-YSS sit redward of the MSTO but bluer than the [RGB](Red%20giant%20branch%20RGB.html) and brighter than the [SGB](Subgiant%20branch%20SGB.html). they occupy the "Hertzsprung gap" of the cluster CMD, a region rapidly traversed by single-star evolution and therefore normally underpopulated.
+YSS sit redward of the MSTO but bluer than the [[Red giant branch RGB|RGB]] and brighter than the [[Subgiant branch SGB|SGB]]. they occupy the "Hertzsprung gap" of the cluster CMD, a region rapidly traversed by single-star evolution and therefore normally underpopulated.
 
-interpretation: YSS are evolved descendants of [blue stragglers](Blue%20stragglers%20in%20star%20clusters.html). once a BSS exhausts central H, it crosses to the giant branch like any other star but starts from a higher mass and luminosity, ending up offset from the standard cluster track. simulations of [binary mass transfer](Blue%20straggler%20formation%20channels.html) products predict a YSS phase lasting $\sim 10^7\text{--}10^8$ yr, consistent with the small numbers observed (a few per cluster).
+interpretation: YSS are evolved descendants of [[Blue stragglers in star clusters|blue stragglers]]. once a BSS exhausts central H, it crosses to the giant branch like any other star but starts from a higher mass and luminosity, ending up offset from the standard cluster track. simulations of [[Blue straggler formation channels|binary mass transfer]] products predict a YSS phase lasting $\sim 10^7\text{--}10^8$ yr, consistent with the small numbers observed (a few per cluster).
 
 YSS act as the "smoking gun" linking BSS to the rest of stellar evolution: if BSS are real higher-mass MS stars, their descendants must populate the YSS region.
 
 **sub-subgiants (red stragglers)**
 
-SSG sit **below** the [Subgiant branch SGB](Subgiant%20branch%20SGB.html) and **redward** of the MSTO. they are anomalously faint and red relative to where a normal subgiant should be. unlike YSS, their position is hard to reach by any reasonable single-star evolution, since stars do not spend significant time below the SGB after leaving the MS.
+SSG sit **below** the [[Subgiant branch SGB]] and **redward** of the MSTO. they are anomalously faint and red relative to where a normal subgiant should be. unlike YSS, their position is hard to reach by any reasonable single-star evolution, since stars do not spend significant time below the SGB after leaving the MS.
 
 four formation channels are debated:
 
@@ -23,26 +23,26 @@ four formation channels are debated:
 3. **stripped giants**: a star whose envelope is being stripped by a companion, in transit to becoming a He WD.
 4. **chromospherically active spotted binaries**: heavy starspot coverage on a tidally locked binary lowers the integrated photometric flux and shifts colour redward, mimicking SSG positions.
 
-surveys of [Open clusters](Open%20clusters.html) (e.g. M67, NGC 6791) and [Globular Clusters](Globular%20Clusters.html) (e.g. M5, 47 Tuc, $\omega$ Cen) by geller, mathieu, leiner, and collaborators have identified $\sim 50\text{--}100$ candidate SSG systems. essentially all SSGs studied spectroscopically are confirmed binaries or show H$\alpha$ activity, supporting the active-binary or mass-transfer scenarios.
+surveys of [[Open clusters]] (e.g. M67, NGC 6791) and [[Globular Clusters]] (e.g. M5, 47 Tuc, $\omega$ Cen) by geller, mathieu, leiner, and collaborators have identified $\sim 50\text{--}100$ candidate SSG systems. essentially all SSGs studied spectroscopically are confirmed binaries or show H$\alpha$ activity, supporting the active-binary or mass-transfer scenarios.
 
 **rarity and significance**
 
-both YSS and SSG are rare: typically a handful per cluster, $\lesssim 1\%$ of the BSS population. they survive only briefly because they are short-lived evolutionary phases. their numbers nevertheless calibrate binary stellar evolution codes (BSE, MESA, COMPAS) and constrain the long-term fate of [cluster binaries](Cluster%20binary%20fraction%20methods.html).
+both YSS and SSG are rare: typically a handful per cluster, $\lesssim 1\%$ of the BSS population. they survive only briefly because they are short-lived evolutionary phases. their numbers nevertheless calibrate binary stellar evolution codes (BSE, MESA, COMPAS) and constrain the long-term fate of [[Cluster binary fraction methods|cluster binaries]].
 
-YSS, SSG, [BSS](Blue%20stragglers%20in%20star%20clusters.html), [CVs](Cataclysmic%20variables%20in%20clusters.html), and [MSPs](Millisecond%20pulsars%20in%20GCs.html) together form an inter-related family: products of the same dynamically processed binary populations that make GC cores so much weirder than the field.
+YSS, SSG, [[Blue stragglers in star clusters|BSS]], [[Cataclysmic variables in clusters|CVs]], and [[Millisecond pulsars in GCs|MSPs]] together form an inter-related family: products of the same dynamically processed binary populations that make GC cores so much weirder than the field.
 
 ## see also
-- [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
-- [Blue stragglers in star clusters](Blue%20stragglers%20in%20star%20clusters.html)
-- [Blue straggler formation channels](Blue%20straggler%20formation%20channels.html)
-- [Binary star orbits](interf/Binary%20star%20orbits.html)
-- [Color-magnitude diagrams of clusters](Color-magnitude%20diagrams%20of%20clusters.html)
+- [[Stellar_Astrophysics_MOC]]
+- [[Blue stragglers in star clusters]]
+- [[Blue straggler formation channels]]
+- [[Binary star orbits]]
+- [[Color-magnitude diagrams of clusters]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Blue%20stragglers%20in%20star%20clusters.html" class="backlink-item">Blue stragglers in star clusters</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Blue stragglers in star clusters]]
+- [[Stellar_Astrophysics_MOC]]
+
 

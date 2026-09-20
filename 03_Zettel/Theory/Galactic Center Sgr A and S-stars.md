@@ -223,12 +223,12 @@ The detection definitively confirmed prograde Schwarzschild precession, ruling o
 
 ## 7. Cross-References and Related Notes
 
-- [M sigma relation](M%20sigma%20relation.html) - Co-evolution of SMBHs with host galaxy bulges
-- [Magorrian relation](Magorrian%20relation.html) - Spheroid mass to black hole mass scaling
-- [Water maser BH masses](Water%20maser%20BH%20masses.html) - Gold-standard mega-maser disk in NGC 4258
-- [Stellar dynamics SMBH masses](Stellar%20dynamics%20SMBH%20masses.html) - Jeans modeling and Schwarzschild orbit superposition
-- [Ionized gas SMBH masses](Ionized%20gas%20SMBH%20masses.html) - Thin Keplerian ionized gas disks
-- [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html) - Master Map of Content for course
+- [[M sigma relation]] - Co-evolution of SMBHs with host galaxy bulges
+- [[Magorrian relation]] - Spheroid mass to black hole mass scaling
+- [[Water maser BH masses]] - Gold-standard mega-maser disk in NGC 4258
+- [[Stellar dynamics SMBH masses]] - Jeans modeling and Schwarzschild orbit superposition
+- [[Ionized gas SMBH masses]] - Thin Keplerian ionized gas disks
+- [[Astrophysics_of_Galaxies_MOC]] - Master Map of Content for course
 
 ---
 

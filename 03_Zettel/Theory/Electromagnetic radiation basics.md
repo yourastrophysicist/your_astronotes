@@ -64,23 +64,23 @@ consequence: high-energy astrophysics (gamma-ray, X-ray, extreme UV) and mid/far
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Radiation quantities and inverse square law](Radiation%20quantities%20and%20inverse%20square%20law.html)
-- [Blackbody radiation and Stefan-Boltzmann](Blackbody%20radiation%20and%20Stefan-Boltzmann.html)
-- [Stellar spectra and spectral classification](Stellar%20spectra%20and%20spectral%20classification.html)
-- [Galaxies across wavelengths](Galaxies%20across%20wavelengths.html)
-- [Earth atmosphere for observations](Earth%20atmosphere%20for%20observations.html)
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Radiation quantities and inverse square law]]
+- [[Blackbody radiation and Stefan-Boltzmann]]
+- [[Stellar spectra and spectral classification]]
+- [[Galaxies across wavelengths]]
+- [[Earth atmosphere for observations]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Blackbody%20radiation%20and%20Stefan-Boltzmann.html" class="backlink-item">Blackbody radiation and Stefan-Boltzmann</a></li>
-    <li class="backlink-item-wrap"><a href="Galaxies%20across%20wavelengths.html" class="backlink-item">Galaxies across wavelengths</a></li>
-    <li class="backlink-item-wrap"><a href="Interstellar%20absorption.html" class="backlink-item">Interstellar absorption</a></li>
-    <li class="backlink-item-wrap"><a href="Magnitudes%20and%20photometric%20systems.html" class="backlink-item">Magnitudes and photometric systems</a></li>
-    <li class="backlink-item-wrap"><a href="Radiation%20quantities%20and%20inverse%20square%20law.html" class="backlink-item">Radiation quantities and inverse square law</a></li>
-    <li class="backlink-item-wrap"><a href="Specific%20intensity%20flux%20luminosity.html" class="backlink-item">Specific intensity flux luminosity</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Blackbody radiation and Stefan-Boltzmann]]
+- [[Galaxies across wavelengths]]
+- [[Interstellar absorption]]
+- [[Magnitudes and photometric systems]]
+- [[Radiation quantities and inverse square law]]
+- [[Specific intensity flux luminosity]]
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+
 

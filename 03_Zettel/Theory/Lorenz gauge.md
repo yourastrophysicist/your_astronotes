@@ -37,7 +37,7 @@ so to satisfy $\partial^\mu \bar h_{\mu\nu} = 0$, choose $\xi_\nu$ such that $\B
 
 after reaching Lorenz gauge, **further gauge transformations** with $\Box \xi^\mu = 0$ (i.e. wave-equation solutions) preserve Lorenz. so 4 more parameters of residual gauge.
 
-these are typically used to fix the **transverse-traceless (TT) gauge** in vacuum, leaving only 2 physical polarisations. see [Transverse traceless gauge](Transverse%20traceless%20gauge.html).
+these are typically used to fix the **transverse-traceless (TT) gauge** in vacuum, leaving only 2 physical polarisations. see [[Transverse traceless gauge]].
 
 ## the analogy with EM
 
@@ -58,27 +58,27 @@ both are wave equations sourced by their currents. both have residual gauge free
 
 ## see also
 
-- [Linearized metric perturbation](Linearized%20metric%20perturbation.html)
-- [Linearized gauge transformations](Linearized%20gauge%20transformations.html)
-- [Trace-reversed perturbation](Trace-reversed%20perturbation.html)
-- [Transverse traceless gauge](Transverse%20traceless%20gauge.html)
-- [Quadrupole formula](Quadrupole%20formula.html)
-- [Newtonian limit of GR](Newtonian%20limit%20of%20GR.html)
+- [[Linearized metric perturbation]]
+- [[Linearized gauge transformations]]
+- [[Trace-reversed perturbation]]
+- [[Transverse traceless gauge]]
+- [[Quadrupole formula]]
+- [[Newtonian limit of GR]]
 - Q15 - trace-reversed perturbation and Lorenz gauge
-- [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
-- [Ch 8 - Gravitational Waves](../../02_Literature/Book/Baumann%20GR/Ch%208%20-%20Gravitational%20Waves.html)
+- [[General_Relativity_MOC]]
+- [[Ch 8 - Gravitational Waves]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (8)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Linearized%20Christoffel%20and%20Riemann.html" class="backlink-item">Linearized Christoffel and Riemann</a></li>
-    <li class="backlink-item-wrap"><a href="Linearized%20gauge%20transformations.html" class="backlink-item">Linearized gauge transformations</a></li>
-    <li class="backlink-item-wrap"><a href="Linearized%20metric%20perturbation.html" class="backlink-item">Linearized metric perturbation</a></li>
-    <li class="backlink-item-wrap"><a href="Newtonian%20limit%20of%20GR.html" class="backlink-item">Newtonian limit of GR</a></li>
-    <li class="backlink-item-wrap"><a href="SVT%20decomposition.html" class="backlink-item">SVT decomposition</a></li>
-    <li class="backlink-item-wrap"><a href="Trace-reversed%20perturbation.html" class="backlink-item">Trace-reversed perturbation</a></li>
-    <li class="backlink-item-wrap"><a href="Transverse%20traceless%20gauge.html" class="backlink-item">Transverse traceless gauge</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Linearized Christoffel and Riemann]]
+- [[Linearized gauge transformations]]
+- [[Linearized metric perturbation]]
+- [[Newtonian limit of GR]]
+- [[SVT decomposition]]
+- [[Trace-reversed perturbation]]
+- [[Transverse traceless gauge]]
+- [[General_Relativity_MOC]]
+
 

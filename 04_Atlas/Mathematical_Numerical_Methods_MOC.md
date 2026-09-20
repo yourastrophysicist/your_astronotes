@@ -6,7 +6,7 @@ title: "Mathematical_Numerical_Methods_MOC"
 
 A.Y. 2025/2026 — **Prof. Michela Mapelli**, University of Padova. Master's-level first-semester course in the Astrophysics and Cosmology programme. Exam scheduled **24 June 2026** (written, four exercises in Python on a fixed time slot, scripts and plots uploaded).
 
-This is the *toolbox* course. it does not teach me astrophysics — it teaches me how to *do* astrophysics on a computer. every time I will integrate an N-body system, fit a CMB peak, draw mock binaries from a population, deconvolve a spectrum, or solve a Friedmann equation numerically, this is the course that taught me how. it underwrites the python in [Observational_Cosmology_MOC](Observational_Cosmology_MOC.html), the simulations in [Lab_High-Energy_MOC](Lab_High-Energy_MOC.html), and the equation-solving I do throughout [General_Relativity_MOC](General_Relativity_MOC.html) and [Fundamentals_Astrophysics_Cosmology_MOC](Fundamentals_Astrophysics_Cosmology_MOC.html).
+This is the *toolbox* course. it does not teach me astrophysics — it teaches me how to *do* astrophysics on a computer. every time I will integrate an N-body system, fit a CMB peak, draw mock binaries from a population, deconvolve a spectrum, or solve a Friedmann equation numerically, this is the course that taught me how. it underwrites the python in [[Observational_Cosmology_MOC]], the simulations in [[Lab_High-Energy_MOC]], and the equation-solving I do throughout [[General_Relativity_MOC]] and [[Fundamentals_Astrophysics_Cosmology_MOC]].
 
 the course has two faces, married together by the title. the *mathematical* face teaches the linear algebra (eigenvalues, QR decomposition, Gram-Schmidt) and the analysis (Fourier series, finite differences, error propagation) that justify the algorithms. the *numerical* face is the algorithms themselves: Gauss elimination, Newton-Raphson, Runge-Kutta, leapfrog, Monte Carlo, FFT. for every block below I keep both faces in view: *what is the math?* and *what is the algorithm?*
 
@@ -60,10 +60,10 @@ every zettel follows the same pattern: motivation, math, algorithm in pseudocode
 
 before any algorithm, just *what is this course, what is the exam, and how do I think about a numerical problem*.
 
-- [Math Numerical Methods course intro](../03_Zettel/Theory/Math%20Numerical%20Methods%20course%20intro.html) — what the course is, who teaches it, how it connects to the other MOCs
-- [Math Numerical Methods exam rules](../03_Zettel/Theory/Math%20Numerical%20Methods%20exam%20rules.html) — four-exercise written exam, Python scripts uploaded, time pressure, rubric
-- [Math Numerical Methods equation sheet](../03_Zettel/Theory/Math%20Numerical%20Methods%20equation%20sheet.html) — every formula I might want, organized for fast lookup
-- [Numerical problem solving workflow](../03_Zettel/Theory/Numerical%20problem%20solving%20workflow.html) — the meta-skill: define the math, pick the algorithm, validate with a known case, profile, productionize
+- [[Math Numerical Methods course intro]] — what the course is, who teaches it, how it connects to the other MOCs
+- [[Math Numerical Methods exam rules]] — four-exercise written exam, Python scripts uploaded, time pressure, rubric
+- [[Math Numerical Methods equation sheet]] — every formula I might want, organized for fast lookup
+- [[Numerical problem solving workflow]] — the meta-skill: define the math, pick the algorithm, validate with a known case, profile, productionize
 
 ---
 
@@ -71,13 +71,13 @@ before any algorithm, just *what is this course, what is the exam, and how do I 
 
 before any algorithm, the *infrastructure*. this is the unglamorous but critical part: a numerical method is only as useful as my ability to run it, debug it, and produce a publication-quality plot at the end. astrophysicists live in a python ecosystem (numpy + scipy + matplotlib + astropy + pandas), and Mapelli's notes spend the first three chapters teaching me to be fluent in it.
 
-- [Linux for the astrophysicist](../03_Zettel/Theory/Linux%20for%20the%20astrophysicist.html) — bash, file system, pipes, redirection, `grep`, `find`, `ssh`, the few commands I actually need
-- [Python language essentials](../03_Zettel/Theory/Python%20language%20essentials.html) — variables, types, lists vs tuples vs dicts, control flow, functions, file I/O — the fast-path version of chapter 2
-- [Numpy arrays vs Python lists](../03_Zettel/Theory/Numpy%20arrays%20vs%20Python%20lists.html) — the *single most important* python performance lesson: vectorize. the difference between `for i in range(N): a[i] = ...` and `a = np.where(...)` can be 100×
-- [Matplotlib plotting essentials](../03_Zettel/Theory/Matplotlib%20plotting%20essentials.html) — scatter, line, log axes, histogram, 2D histogram, subplots, what makes a figure good
-- [Scipy and astropy quick reference](../03_Zettel/Theory/Scipy%20and%20astropy%20quick%20reference.html) — `scipy.optimize`, `scipy.integrate`, `scipy.interpolate`, `scipy.fft`, `astropy.units`, `astropy.io.fits`
-- [Pandas for tabular astrophysics data](../03_Zettel/Theory/Pandas%20for%20tabular%20astrophysics%20data.html) — DataFrames, reading CSV/FITS, groupby, the catalog workflow
-- [The conda environment](../03_Zettel/Theory/The%20conda%20environment.html) — environments, package isolation, why I keep one per project
+- [[Linux for the astrophysicist]] — bash, file system, pipes, redirection, `grep`, `find`, `ssh`, the few commands I actually need
+- [[Python language essentials]] — variables, types, lists vs tuples vs dicts, control flow, functions, file I/O — the fast-path version of chapter 2
+- [[Numpy arrays vs Python lists]] — the *single most important* python performance lesson: vectorize. the difference between `for i in range(N): a[i] = ...` and `a = np.where(...)` can be 100×
+- [[Matplotlib plotting essentials]] — scatter, line, log axes, histogram, 2D histogram, subplots, what makes a figure good
+- [[Scipy and astropy quick reference]] — `scipy.optimize`, `scipy.integrate`, `scipy.interpolate`, `scipy.fft`, `astropy.units`, `astropy.io.fits`
+- [[Pandas for tabular astrophysics data]] — DataFrames, reading CSV/FITS, groupby, the catalog workflow
+- [[The conda environment]] — environments, package isolation, why I keep one per project
 
 ---
 
@@ -85,11 +85,11 @@ before any algorithm, the *infrastructure*. this is the unglamorous but critical
 
 every algorithm in this course has two numbers attached: how accurate is it (error scaling with step size $h$), and how fast is it (operation count scaling with problem size $N$). these are not independent — usually I trade one for the other. this block teaches me to read the tradeoff.
 
-- [Floating point representation and rounding errors](../03_Zettel/Theory/Floating%20point%20representation%20and%20rounding%20errors.html) — IEEE 754, machine epsilon $\epsilon \sim 2.2\times 10^{-16}$, why $0.1 + 0.2 \neq 0.3$, accumulated rounding $\sim \sqrt{N}\,\epsilon$
-- [Truncation error and order of accuracy](../03_Zettel/Theory/Truncation%20error%20and%20order%20of%20accuracy.html) — Taylor series, $O(h^p)$ scaling, why central differences are second-order while forward are first-order
-- [Roundoff vs truncation balance](../03_Zettel/Theory/Roundoff%20vs%20truncation%20balance.html) — the U-shaped error curve, optimal step size $h_{\rm opt} \sim \sqrt{\epsilon}$ for first-derivative finite differences
-- [Computational complexity and speed](../03_Zettel/Theory/Computational%20complexity%20and%20speed.html) — Big-O notation, $O(N^3)$ for Gauss elimination, $O(N^2)$ for matrix-vector, $O(N\log N)$ for FFT, $O(N\log N)$ for sorting
-- [Vectorization and python speed](../03_Zettel/Theory/Vectorization%20and%20python%20speed.html) — why python loops are slow, what numpy does under the hood, when to call out to scipy or compiled code
+- [[Floating point representation and rounding errors]] — IEEE 754, machine epsilon $\epsilon \sim 2.2\times 10^{-16}$, why $0.1 + 0.2 \neq 0.3$, accumulated rounding $\sim \sqrt{N}\,\epsilon$
+- [[Truncation error and order of accuracy]] — Taylor series, $O(h^p)$ scaling, why central differences are second-order while forward are first-order
+- [[Roundoff vs truncation balance]] — the U-shaped error curve, optimal step size $h_{\rm opt} \sim \sqrt{\epsilon}$ for first-derivative finite differences
+- [[Computational complexity and speed]] — Big-O notation, $O(N^3)$ for Gauss elimination, $O(N^2)$ for matrix-vector, $O(N\log N)$ for FFT, $O(N\log N)$ for sorting
+- [[Vectorization and python speed]] — why python loops are slow, what numpy does under the hood, when to call out to scipy or compiled code
 
 ---
 
@@ -99,12 +99,12 @@ the foundational problem. given a square matrix $A$ and a known vector $\mathbf{
 
 physical question this block answers: **how do I invert a matrix and solve a linear system without inverting the matrix?**
 
-- [Gauss elimination](../03_Zettel/Theory/Gauss%20elimination.html) — the classical algorithm, $O(N^3)$, the row-reduction-then-back-substitution pattern
-- [Partial pivoting](../03_Zettel/Theory/Partial%20pivoting.html) — when the algorithm fails (zero or tiny pivots) and how to fix it by row-swapping
-- [LU decomposition](../03_Zettel/Theory/LU%20decomposition.html) — $A = LU$, factor once and reuse for many right-hand sides, the forward-then-backward substitution
-- [Gauss-Seidel iteration](../03_Zettel/Theory/Gauss-Seidel%20iteration.html) — iterative method, $O(N^2)$ per step, when it converges (diagonally dominant matrices), when it beats direct methods (sparse $A$)
-- [Pros and cons of linear solvers](../03_Zettel/Theory/Pros%20and%20cons%20of%20linear%20solvers.html) — the decision tree: dense vs sparse, one RHS vs many, well-conditioned vs ill-conditioned, big vs huge
-- [Matrix inverse via linear systems](../03_Zettel/Theory/Matrix%20inverse%20via%20linear%20systems.html) — never invert a matrix directly: solve $AX = I$ column by column instead
+- [[Gauss elimination]] — the classical algorithm, $O(N^3)$, the row-reduction-then-back-substitution pattern
+- [[Partial pivoting]] — when the algorithm fails (zero or tiny pivots) and how to fix it by row-swapping
+- [[LU decomposition]] — $A = LU$, factor once and reuse for many right-hand sides, the forward-then-backward substitution
+- [[Gauss-Seidel iteration]] — iterative method, $O(N^2)$ per step, when it converges (diagonally dominant matrices), when it beats direct methods (sparse $A$)
+- [[Pros and cons of linear solvers]] — the decision tree: dense vs sparse, one RHS vs many, well-conditioned vs ill-conditioned, big vs huge
+- [[Matrix inverse via linear systems]] — never invert a matrix directly: solve $AX = I$ column by column instead
 
 ---
 
@@ -114,11 +114,11 @@ a special class of problem: find $\lambda, \mathbf{v}$ such that $A\mathbf{v} = 
 
 physical question this block answers: **how do I find the natural axes of a linear transformation, in a way that is numerically stable?**
 
-- [Gram-Schmidt orthogonalization](../03_Zettel/Theory/Gram-Schmidt%20orthogonalization.html) — turn a basis into an orthonormal basis by projection-and-subtract, with the modified version that preserves stability
-- [QR decomposition](../03_Zettel/Theory/QR%20decomposition.html) — every matrix factors as $A = QR$ with $Q$ orthogonal and $R$ upper triangular; Gram-Schmidt gives one explicit construction
-- [QR algorithm for eigenvalues](../03_Zettel/Theory/QR%20algorithm%20for%20eigenvalues.html) — iterate $A_{k+1} = R_k Q_k$ where $A_k = Q_k R_k$; converges to a diagonal matrix with eigenvalues on the diagonal
-- [Power iteration](../03_Zettel/Theory/Power%20iteration.html) — the simplest eigenvalue method, finds the dominant eigenvalue/vector by repeated matrix-vector products
-- [Matrix diagonalization $A = VDV^T$](../03_Zettel/Theory/Matrix%20diagonalization%20%24A%20%3D%20VDV%5ET%24.html) — for symmetric $A$, the eigenvector matrix is orthogonal and $V^TAV = D$; the geometric meaning of "principal axes"
+- [[Gram-Schmidt orthogonalization]] — turn a basis into an orthonormal basis by projection-and-subtract, with the modified version that preserves stability
+- [[QR decomposition]] — every matrix factors as $A = QR$ with $Q$ orthogonal and $R$ upper triangular; Gram-Schmidt gives one explicit construction
+- [[QR algorithm for eigenvalues]] — iterate $A_{k+1} = R_k Q_k$ where $A_k = Q_k R_k$; converges to a diagonal matrix with eigenvalues on the diagonal
+- [[Power iteration]] — the simplest eigenvalue method, finds the dominant eigenvalue/vector by repeated matrix-vector products
+- [[Matrix diagonalization $A = VDV^T$]] — for symmetric $A$, the eigenvector matrix is orthogonal and $V^TAV = D$; the geometric meaning of "principal axes"
 
 ---
 
@@ -128,12 +128,12 @@ next rung up: I want $f(x) = 0$ for a function $f$ I cannot solve analytically. 
 
 physical question this block answers: **given a function $f$ that I can evaluate but not invert, how do I find $x$ such that $f(x) = 0$?**
 
-- [Relaxation method](../03_Zettel/Theory/Relaxation%20method.html) — rewrite $f(x) = 0$ as $x = g(x)$ and iterate $x_{n+1} = g(x_n)$; converges if $\lvert g'(x^*)\rvert < 1$
-- [Overrelaxation](../03_Zettel/Theory/Overrelaxation.html) — accelerate relaxation by overshooting: $x_{n+1} = x_n + \omega(g(x_n) - x_n)$ with $\omega > 1$
-- [Bisection method](../03_Zettel/Theory/Bisection%20method.html) — bracket a root and halve the interval; bulletproof but slow ($O(\log_2(1/\epsilon))$ iterations to error $\epsilon$)
-- [Newton-Raphson method](../03_Zettel/Theory/Newton-Raphson%20method.html) — local linearization, $x_{n+1} = x_n - f(x_n)/f'(x_n)$; quadratic convergence when it works, divergence when it doesn't
-- [Newton-Raphson for systems of equations](../03_Zettel/Theory/Newton-Raphson%20for%20systems%20of%20equations.html) — multivariate generalization with the Jacobian, $\mathbf{x}_{n+1} = \mathbf{x}_n - J^{-1}(\mathbf{x}_n)\mathbf{f}(\mathbf{x}_n)$
-- [Choosing a root finder](../03_Zettel/Theory/Choosing%20a%20root%20finder.html) — bracket-then-Newton hybrid, when bisection wins, when Newton fails (multiple roots, flat derivative)
+- [[Relaxation method]] — rewrite $f(x) = 0$ as $x = g(x)$ and iterate $x_{n+1} = g(x_n)$; converges if $\lvert g'(x^*)\rvert < 1$
+- [[Overrelaxation]] — accelerate relaxation by overshooting: $x_{n+1} = x_n + \omega(g(x_n) - x_n)$ with $\omega > 1$
+- [[Bisection method]] — bracket a root and halve the interval; bulletproof but slow ($O(\log_2(1/\epsilon))$ iterations to error $\epsilon$)
+- [[Newton-Raphson method]] — local linearization, $x_{n+1} = x_n - f(x_n)/f'(x_n)$; quadratic convergence when it works, divergence when it doesn't
+- [[Newton-Raphson for systems of equations]] — multivariate generalization with the Jacobian, $\mathbf{x}_{n+1} = \mathbf{x}_n - J^{-1}(\mathbf{x}_n)\mathbf{f}(\mathbf{x}_n)$
+- [[Choosing a root finder]] — bracket-then-Newton hybrid, when bisection wins, when Newton fails (multiple roots, flat derivative)
 
 ---
 
@@ -143,11 +143,11 @@ derivatives are easy in calculus and surprisingly subtle on a computer. the natu
 
 physical question this block answers: **given a function $f$ that I can evaluate at points, how do I estimate $f'(x)$, and how small should $h$ be?**
 
-- [Forward backward and central differences](../03_Zettel/Theory/Forward%20backward%20and%20central%20differences.html) — the three first-derivative formulas, errors $O(h)$, $O(h)$, $O(h^2)$ from Taylor
-- [Second derivatives](../03_Zettel/Theory/Second%20derivatives.html) — $f''(x) \approx [f(x+h) - 2f(x) + f(x-h)]/h^2$, $O(h^2)$ accuracy
-- [Partial numerical derivatives](../03_Zettel/Theory/Partial%20numerical%20derivatives.html) — finite differences in each direction, building the Jacobian column by column
-- [Derivatives of noisy data](../03_Zettel/Theory/Derivatives%20of%20noisy%20data.html) — when $f$ has measurement noise, finite differences amplify the noise; the fix is smoothing or fitting first, differentiating second
-- [Optimal step size for derivatives](../03_Zettel/Theory/Optimal%20step%20size%20for%20derivatives.html) — $h_{\rm opt} \sim \sqrt{\epsilon}$ for forward differences, $h_{\rm opt} \sim \epsilon^{1/3}$ for central, where $\epsilon$ is the relative error in $f$
+- [[Forward backward and central differences]] — the three first-derivative formulas, errors $O(h)$, $O(h)$, $O(h^2)$ from Taylor
+- [[Second derivatives]] — $f''(x) \approx [f(x+h) - 2f(x) + f(x-h)]/h^2$, $O(h^2)$ accuracy
+- [[Partial numerical derivatives]] — finite differences in each direction, building the Jacobian column by column
+- [[Derivatives of noisy data]] — when $f$ has measurement noise, finite differences amplify the noise; the fix is smoothing or fitting first, differentiating second
+- [[Optimal step size for derivatives]] — $h_{\rm opt} \sim \sqrt{\epsilon}$ for forward differences, $h_{\rm opt} \sim \epsilon^{1/3}$ for central, where $\epsilon$ is the relative error in $f$
 
 ---
 
@@ -157,13 +157,13 @@ the inverse direction: given $f$, I want $\int_a^b f(x)\,dx$. integration is muc
 
 physical question this block answers: **given a function $f$, how do I compute its integral over a finite range, and how do I do this in many dimensions?**
 
-- [Trapezoidal rule](../03_Zettel/Theory/Trapezoidal%20rule.html) — straight lines between samples, $O(h^2)$ error, the simplest non-trivial quadrature
-- [Simpson's rule](../03_Zettel/Theory/Simpson%27s%20rule.html) — parabolas between triplets of samples, $O(h^4)$ error, the workhorse for smooth integrands
-- [Trapezoidal rule error estimate](../03_Zettel/Theory/Trapezoidal%20rule%20error%20estimate.html) — error is bounded by the second derivative; how to know how many points I need
-- [Monte Carlo integration mean value method](../03_Zettel/Theory/Monte%20Carlo%20integration%20mean%20value%20method.html) — integral as expectation, $\int f \approx (b-a)\langle f \rangle$, error $\sim 1/\sqrt{N}$ regardless of dimension
-- [Multidimensional Monte Carlo integration](../03_Zettel/Theory/Multidimensional%20Monte%20Carlo%20integration.html) — the dimension-curse breaker: in $d \geq 4$, MC beats grid quadrature
-- [Importance sampling](../03_Zettel/Theory/Importance%20sampling.html) — sample from $g(x)$ instead of uniform, weight by $f/g$; reduces variance dramatically when $g \approx f/\lVert f\rVert$
-- [Built-in scipy integrators](../03_Zettel/Theory/Built-in%20scipy%20integrators.html) — `scipy.integrate.quad`, `scipy.integrate.simps`, when to trust them
+- [[Trapezoidal rule]] — straight lines between samples, $O(h^2)$ error, the simplest non-trivial quadrature
+- [[Simpson's rule]] — parabolas between triplets of samples, $O(h^4)$ error, the workhorse for smooth integrands
+- [[Trapezoidal rule error estimate]] — error is bounded by the second derivative; how to know how many points I need
+- [[Monte Carlo integration mean value method]] — integral as expectation, $\int f \approx (b-a)\langle f \rangle$, error $\sim 1/\sqrt{N}$ regardless of dimension
+- [[Multidimensional Monte Carlo integration]] — the dimension-curse breaker: in $d \geq 4$, MC beats grid quadrature
+- [[Importance sampling]] — sample from $g(x)$ instead of uniform, weight by $f/g$; reduces variance dramatically when $g \approx f/\lVert f\rVert$
+- [[Built-in scipy integrators]] — `scipy.integrate.quad`, `scipy.integrate.simps`, when to trust them
 
 ---
 
@@ -173,12 +173,12 @@ every Monte Carlo method is built on a stream of pseudo-random numbers. this blo
 
 physical question this block answers: **given a uniform pseudo-random stream, how do I draw $N$ samples from an arbitrary distribution $P(x)$?**
 
-- [Pseudo-random number generators](../03_Zettel/Theory/Pseudo-random%20number%20generators.html) — linear congruential, Mersenne Twister, why "random" is deterministic, periodicity
-- [Random number seeds](../03_Zettel/Theory/Random%20number%20seeds.html) — reproducibility for science, `np.random.seed`, the conventions in publishable code
-- [Inverse transform sampling](../03_Zettel/Theory/Inverse%20transform%20sampling.html) — invert the CDF: if $u \sim U(0,1)$ then $F^{-1}(u) \sim P$; the textbook method, requires invertible CDF
-- [Box-Muller transform for Gaussian random numbers](../03_Zettel/Theory/Box-Muller%20transform%20for%20Gaussian%20random%20numbers.html) — sample two uniforms, return two normals; the polar-coordinate trick
-- [Rejection sampling](../03_Zettel/Theory/Rejection%20sampling.html) — bounding-box method, accept if uniform $y < P(x)$; works for any pdf, efficiency = ratio of areas
-- [Verifying random samples](../03_Zettel/Theory/Verifying%20random%20samples.html) — histogram against expected pdf, Kolmogorov-Smirnov test, mean and variance checks
+- [[Pseudo-random number generators]] — linear congruential, Mersenne Twister, why "random" is deterministic, periodicity
+- [[Random number seeds]] — reproducibility for science, `np.random.seed`, the conventions in publishable code
+- [[Inverse transform sampling]] — invert the CDF: if $u \sim U(0,1)$ then $F^{-1}(u) \sim P$; the textbook method, requires invertible CDF
+- [[Box-Muller transform for Gaussian random numbers]] — sample two uniforms, return two normals; the polar-coordinate trick
+- [[Rejection sampling]] — bounding-box method, accept if uniform $y < P(x)$; works for any pdf, efficiency = ratio of areas
+- [[Verifying random samples]] — histogram against expected pdf, Kolmogorov-Smirnov test, mean and variance checks
 
 ---
 
@@ -188,17 +188,17 @@ now we get to the heart of numerical astrophysics. an ODE is $\dot{\mathbf{y}} =
 
 physical question this block answers: **given a system $\dot{\mathbf{y}} = \mathbf{f}(\mathbf{y}, t)$, how do I evolve it from $t_0$ to $t_f$ accurately enough to trust the result?**
 
-- [Euler method](../03_Zettel/Theory/Euler%20method.html) — $\mathbf{y}_{n+1} = \mathbf{y}_n + h\mathbf{f}(\mathbf{y}_n, t_n)$, $O(h)$, the forward-Euler scheme — the simplest possible integrator and a teaching tool more than a production one
-- [Runge-Kutta 2 midpoint method](../03_Zettel/Theory/Runge-Kutta%202%20midpoint%20method.html) — half-step prediction then full-step correction, $O(h^2)$
-- [Runge-Kutta 4 method](../03_Zettel/Theory/Runge-Kutta%204%20method.html) — four-stage scheme, $O(h^4)$, the workhorse general-purpose integrator
-- [Systems of ODEs and higher-order ODEs](../03_Zettel/Theory/Systems%20of%20ODEs%20and%20higher-order%20ODEs.html) — turn $y'' = f(y, y', t)$ into a 2D system $(y, v)$ with $v = y'$
-- [Leapfrog integrator](../03_Zettel/Theory/Leapfrog%20integrator.html) — symplectic, drift-kick-drift, conserves energy on average for Hamiltonian systems; the integrator of choice for orbital and N-body problems
-- [Fourth-order Hermite predictor-corrector](../03_Zettel/Theory/Fourth-order%20Hermite%20predictor-corrector.html) — uses both $\mathbf{f}$ and $\dot{\mathbf{f}}$, $O(h^4)$ with two function evaluations, the standard for collisional N-body
-- [Adaptive step size control](../03_Zettel/Theory/Adaptive%20step%20size%20control.html) — error estimate from comparing two methods, adjust $h$ to keep error tolerable; why fixed-step integrators fail near close encounters
-- [Modified midpoint method](../03_Zettel/Theory/Modified%20midpoint%20method.html) — Gragg's method, the building block of Bulirsch-Stoer
-- [Bulirsch-Stoer extrapolation](../03_Zettel/Theory/Bulirsch-Stoer%20extrapolation.html) — Richardson extrapolation in step size, accuracy that grows with iteration; expensive but lethal for smooth problems
-- [Initial value vs boundary value problems](../03_Zettel/Theory/Initial%20value%20vs%20boundary%20value%20problems.html) — IVPs evolve forward, BVPs constrain at both ends, completely different algorithm families
-- [Shooting method](../03_Zettel/Theory/Shooting%20method.html) — turn a BVP into a root-finding-plus-IVP problem: shoot, miss, adjust the initial slope, shoot again
+- [[Euler method]] — $\mathbf{y}_{n+1} = \mathbf{y}_n + h\mathbf{f}(\mathbf{y}_n, t_n)$, $O(h)$, the forward-Euler scheme — the simplest possible integrator and a teaching tool more than a production one
+- [[Runge-Kutta 2 midpoint method]] — half-step prediction then full-step correction, $O(h^2)$
+- [[Runge-Kutta 4 method]] — four-stage scheme, $O(h^4)$, the workhorse general-purpose integrator
+- [[Systems of ODEs and higher-order ODEs]] — turn $y'' = f(y, y', t)$ into a 2D system $(y, v)$ with $v = y'$
+- [[Leapfrog integrator]] — symplectic, drift-kick-drift, conserves energy on average for Hamiltonian systems; the integrator of choice for orbital and N-body problems
+- [[Fourth-order Hermite predictor-corrector]] — uses both $\mathbf{f}$ and $\dot{\mathbf{f}}$, $O(h^4)$ with two function evaluations, the standard for collisional N-body
+- [[Adaptive step size control]] — error estimate from comparing two methods, adjust $h$ to keep error tolerable; why fixed-step integrators fail near close encounters
+- [[Modified midpoint method]] — Gragg's method, the building block of Bulirsch-Stoer
+- [[Bulirsch-Stoer extrapolation]] — Richardson extrapolation in step size, accuracy that grows with iteration; expensive but lethal for smooth problems
+- [[Initial value vs boundary value problems]] — IVPs evolve forward, BVPs constrain at both ends, completely different algorithm families
+- [[Shooting method]] — turn a BVP into a root-finding-plus-IVP problem: shoot, miss, adjust the initial slope, shoot again
 
 ---
 
@@ -208,12 +208,12 @@ an N-body problem is just a special ODE: $\ddot{\mathbf{r}}_i = -G\sum_{j\neq i}
 
 physical question this block answers: **given $N$ massive particles interacting gravitationally, how do I evolve them for a long time without the energy drifting?**
 
-- [Astrophysical N-body problem formulation](../03_Zettel/Theory/Astrophysical%20N-body%20problem%20formulation.html) — equations of motion, units (often $G = 1$), softening for close encounters
-- [N-body with Euler vs midpoint vs leapfrog](../03_Zettel/Theory/N-body%20with%20Euler%20vs%20midpoint%20vs%20leapfrog.html) — energy conservation comparison: Euler drifts secularly, midpoint drifts slower, leapfrog oscillates around the true energy without a drift — the foundational symplectic-integrator demonstration
-- [Energy conservation as a diagnostic](../03_Zettel/Theory/Energy%20conservation%20as%20a%20diagnostic.html) — track $\Delta E/E$ vs time; for a Hamiltonian system, the integrator's quality is read directly off this number
-- [Collisional vs collisionless N-body](../03_Zettel/Theory/Collisional%20vs%20collisionless%20N-body.html) — collisional (globular clusters, $N \lesssim 10^6$, every pair matters, Hermite); collisionless (galaxies, $N \gtrsim 10^9$, tree codes, particle-mesh)
-- [Adaptive timesteps near close encounters](../03_Zettel/Theory/Adaptive%20timesteps%20near%20close%20encounters.html) — why a binary needs a smaller step than the rest of the cluster, individual timesteps and block-step schemes
-- [The Pythagorean three-body problem](../03_Zettel/Theory/The%20Pythagorean%20three-body%20problem.html) — three masses $3, 4, 5$ at the apexes of a 3-4-5 triangle, classic test of N-body integrators, behaves chaotically with a final escape
+- [[Astrophysical N-body problem formulation]] — equations of motion, units (often $G = 1$), softening for close encounters
+- [[N-body with Euler vs midpoint vs leapfrog]] — energy conservation comparison: Euler drifts secularly, midpoint drifts slower, leapfrog oscillates around the true energy without a drift — the foundational symplectic-integrator demonstration
+- [[Energy conservation as a diagnostic]] — track $\Delta E/E$ vs time; for a Hamiltonian system, the integrator's quality is read directly off this number
+- [[Collisional vs collisionless N-body]] — collisional (globular clusters, $N \lesssim 10^6$, every pair matters, Hermite); collisionless (galaxies, $N \gtrsim 10^9$, tree codes, particle-mesh)
+- [[Adaptive timesteps near close encounters]] — why a binary needs a smaller step than the rest of the cluster, individual timesteps and block-step schemes
+- [[The Pythagorean three-body problem]] — three masses $3, 4, 5$ at the apexes of a 3-4-5 triangle, classic test of N-body integrators, behaves chaotically with a final escape
 
 ---
 
@@ -223,11 +223,11 @@ the next rung up from ODEs: now the unknown is a function of *several* variables
 
 physical question this block answers: **how do I discretize a PDE on a grid, and how do I keep the discrete solution stable?**
 
-- [Finite difference discretization](../03_Zettel/Theory/Finite%20difference%20discretization.html) — replace partial derivatives by finite differences, turn the PDE into a system of algebraic equations on grid points
-- [Boundary value PDEs and iteration](../03_Zettel/Theory/Boundary%20value%20PDEs%20and%20iteration.html) — Laplace, Poisson; relax the grid until the residual is small (Gauss-Seidel on the grid)
-- [Initial value PDEs and FTCS](../03_Zettel/Theory/Initial%20value%20PDEs%20and%20FTCS.html) — diffusion, advection; forward-time, centered-space; explicit, simple, sometimes unstable
-- [Stability and the Courant condition](../03_Zettel/Theory/Stability%20and%20the%20Courant%20condition.html) — explicit schemes have a CFL constraint $c\Delta t/\Delta x \leq 1$ (hyperbolic) or $D\Delta t/\Delta x^2 \leq 1/2$ (parabolic); violating it makes the simulation blow up
-- [When to use implicit schemes](../03_Zettel/Theory/When%20to%20use%20implicit%20schemes.html) — when the explicit time step is intolerably small; pay $O(N)$ per step (linear solver) instead of $O(1)$, but step further
+- [[Finite difference discretization]] — replace partial derivatives by finite differences, turn the PDE into a system of algebraic equations on grid points
+- [[Boundary value PDEs and iteration]] — Laplace, Poisson; relax the grid until the residual is small (Gauss-Seidel on the grid)
+- [[Initial value PDEs and FTCS]] — diffusion, advection; forward-time, centered-space; explicit, simple, sometimes unstable
+- [[Stability and the Courant condition]] — explicit schemes have a CFL constraint $c\Delta t/\Delta x \leq 1$ (hyperbolic) or $D\Delta t/\Delta x^2 \leq 1/2$ (parabolic); violating it makes the simulation blow up
+- [[When to use implicit schemes]] — when the explicit time step is intolerably small; pay $O(N)$ per step (linear solver) instead of $O(1)$, but step further
 
 ---
 
@@ -237,13 +237,13 @@ between two known points, what is the function value? this is the everyday probl
 
 physical question this block answers: **given $f$ at $N+1$ points, what is $f$ between those points, and what error am I making?**
 
-- [Linear interpolation](../03_Zettel/Theory/Linear%20interpolation.html) — straight line between two points, simple and robust, $O(h^2)$ error
-- [Lagrange polynomial interpolation](../03_Zettel/Theory/Lagrange%20polynomial%20interpolation.html) — unique degree-$N$ polynomial through $N+1$ points, the analytic form, when it works (low $N$, equispaced or Chebyshev nodes)
-- [Newton divided differences](../03_Zettel/Theory/Newton%20divided%20differences.html) — same polynomial, written so I can add a new point without redoing the whole calculation
-- [Runge phenomenon](../03_Zettel/Theory/Runge%20phenomenon.html) — high-degree polynomial interpolation oscillates wildly at the edges with equispaced nodes; why polynomial fitting beyond $N \sim 5$ is dangerous
-- [Cubic spline interpolation](../03_Zettel/Theory/Cubic%20spline%20interpolation.html) — piecewise cubic, $C^2$ continuous, the right answer for smooth tabulated data
-- [Two-dimensional interpolation](../03_Zettel/Theory/Two-dimensional%20interpolation.html) — bilinear, bicubic, structured grids vs scattered data
-- [Scipy interpolation tools](../03_Zettel/Theory/Scipy%20interpolation%20tools.html) — `scipy.interpolate.interp1d`, `interp2d`, `CubicSpline`, when to trust each one
+- [[Linear interpolation]] — straight line between two points, simple and robust, $O(h^2)$ error
+- [[Lagrange polynomial interpolation]] — unique degree-$N$ polynomial through $N+1$ points, the analytic form, when it works (low $N$, equispaced or Chebyshev nodes)
+- [[Newton divided differences]] — same polynomial, written so I can add a new point without redoing the whole calculation
+- [[Runge phenomenon]] — high-degree polynomial interpolation oscillates wildly at the edges with equispaced nodes; why polynomial fitting beyond $N \sim 5$ is dangerous
+- [[Cubic spline interpolation]] — piecewise cubic, $C^2$ continuous, the right answer for smooth tabulated data
+- [[Two-dimensional interpolation]] — bilinear, bicubic, structured grids vs scattered data
+- [[Scipy interpolation tools]] — `scipy.interpolate.interp1d`, `interp2d`, `CubicSpline`, when to trust each one
 
 ---
 
@@ -253,13 +253,13 @@ the data is noisy. the model has parameters. find the parameters that best match
 
 physical question this block answers: **given $N$ noisy measurements $y_i$ at known $x_i$, what model parameters $\theta$ minimize the disagreement?**
 
-- [Linear least squares](../03_Zettel/Theory/Linear%20least%20squares.html) — fit $y = mx + b$ by minimizing $\sum (y_i - mx_i - b)^2$; closed-form solution via normal equations
-- [Weighted least squares](../03_Zettel/Theory/Weighted%20least%20squares.html) — when data points have different errors $\sigma_i$, weight by $1/\sigma_i^2$; the only sane choice for heteroscedastic data
-- [General linear least squares](../03_Zettel/Theory/General%20linear%20least%20squares.html) — fit $y = \sum_k \theta_k\phi_k(x)$ with arbitrary basis functions $\phi_k$; reduces to a linear system
-- [Polynomial fitting](../03_Zettel/Theory/Polynomial%20fitting.html) — special case of general LSQ with $\phi_k(x) = x^k$; same Runge phenomenon caveat as interpolation
-- [Goodness of fit and chi-squared](../03_Zettel/Theory/Goodness%20of%20fit%20and%20chi-squared.html) — $\chi^2 = \sum (y_i - f_i)^2/\sigma_i^2$, expected $\chi^2/\nu \approx 1$ for good fit and right errors, why it tests the *model* and the *errors* simultaneously
-- [Non-linear fitting with scipy](../03_Zettel/Theory/Non-linear%20fitting%20with%20scipy.html) — `scipy.optimize.least_squares`, `curve_fit`; the Levenberg-Marquardt algorithm, when to provide a Jacobian
-- [Fitting practical recipe](../03_Zettel/Theory/Fitting%20practical%20recipe.html) — center and scale $x$ before fitting, check residuals, never extrapolate, plot the fit on top of the data
+- [[Linear least squares]] — fit $y = mx + b$ by minimizing $\sum (y_i - mx_i - b)^2$; closed-form solution via normal equations
+- [[Weighted least squares]] — when data points have different errors $\sigma_i$, weight by $1/\sigma_i^2$; the only sane choice for heteroscedastic data
+- [[General linear least squares]] — fit $y = \sum_k \theta_k\phi_k(x)$ with arbitrary basis functions $\phi_k$; reduces to a linear system
+- [[Polynomial fitting]] — special case of general LSQ with $\phi_k(x) = x^k$; same Runge phenomenon caveat as interpolation
+- [[Goodness of fit and chi-squared]] — $\chi^2 = \sum (y_i - f_i)^2/\sigma_i^2$, expected $\chi^2/\nu \approx 1$ for good fit and right errors, why it tests the *model* and the *errors* simultaneously
+- [[Non-linear fitting with scipy]] — `scipy.optimize.least_squares`, `curve_fit`; the Levenberg-Marquardt algorithm, when to provide a Jacobian
+- [[Fitting practical recipe]] — center and scale $x$ before fitting, check residuals, never extrapolate, plot the fit on top of the data
 
 ---
 
@@ -269,12 +269,12 @@ the most beautiful algorithm in numerical mathematics. the FFT computes a discre
 
 physical question this block answers: **given a sampled signal in time, what frequencies is it made of, and how do I compute that fast?**
 
-- [Fourier series math summary](../03_Zettel/Theory/Fourier%20series%20math%20summary.html) — the Fourier series for periodic functions, the Fourier transform for non-periodic, Parseval's theorem, the convolution theorem
-- [Discrete Fourier transform](../03_Zettel/Theory/Discrete%20Fourier%20transform.html) — sampled $N$-point version, $X_k = \sum_n x_n e^{-2\pi i kn/N}$, $O(N^2)$ direct, periodic boundary
-- [Fast Fourier transform algorithm](../03_Zettel/Theory/Fast%20Fourier%20transform%20algorithm.html) — Cooley-Tukey divide-and-conquer, $O(N\log N)$, the algorithm that runs the world
-- [Physical interpretation of the FFT](../03_Zettel/Theory/Physical%20interpretation%20of%20the%20FFT.html) — frequency bins, Nyquist frequency $f_{\rm Nyq} = 1/(2\Delta t)$, aliasing, leakage, windowing
-- [Power spectrum estimation](../03_Zettel/Theory/Power%20spectrum%20estimation.html) — squared-magnitude FFT, why one should average over many segments (Welch's method), the relation to autocorrelation
-- [FFT in scipy and numpy](../03_Zettel/Theory/FFT%20in%20scipy%20and%20numpy.html) — `numpy.fft.fft`, `scipy.fft`, real vs complex, conventions for normalization
+- [[Fourier series math summary]] — the Fourier series for periodic functions, the Fourier transform for non-periodic, Parseval's theorem, the convolution theorem
+- [[Discrete Fourier transform]] — sampled $N$-point version, $X_k = \sum_n x_n e^{-2\pi i kn/N}$, $O(N^2)$ direct, periodic boundary
+- [[Fast Fourier transform algorithm]] — Cooley-Tukey divide-and-conquer, $O(N\log N)$, the algorithm that runs the world
+- [[Physical interpretation of the FFT]] — frequency bins, Nyquist frequency $f_{\rm Nyq} = 1/(2\Delta t)$, aliasing, leakage, windowing
+- [[Power spectrum estimation]] — squared-magnitude FFT, why one should average over many segments (Welch's method), the relation to autocorrelation
+- [[FFT in scipy and numpy]] — `numpy.fft.fft`, `scipy.fft`, real vs complex, conventions for normalization
 
 ---
 
@@ -282,7 +282,7 @@ physical question this block answers: **given a sampled signal in time, what fre
 
 a small but unavoidable block. sorting is everywhere — finding nearest neighbors, building histograms, ranking, merging catalogs. and it is the canonical example for "complexity of an algorithm."
 
-- [Sorting algorithms overview](../03_Zettel/Theory/Sorting%20algorithms%20overview.html) — bubble ($O(N^2)$), selection ($O(N^2)$), quicksort ($O(N\log N)$ average), mergesort ($O(N\log N)$ guaranteed); when each one wins, why python's `sorted` uses Timsort
+- [[Sorting algorithms overview]] — bubble ($O(N^2)$), selection ($O(N^2)$), quicksort ($O(N\log N)$ average), mergesort ($O(N\log N)$ guaranteed); when each one wins, why python's `sorted` uses Timsort
 
 ---
 
@@ -290,10 +290,10 @@ a small but unavoidable block. sorting is everywhere — finding nearest neighbo
 
 a one-chapter sketch, not a full treatment. modern astrophysics is increasingly ML-driven (galaxy classification, transient detection, parameter inference), and Mapelli closes the course with a teaser of decision trees as the gateway algorithm.
 
-- [What is machine learning](../03_Zettel/Theory/What%20is%20machine%20learning.html) — supervised vs unsupervised, training vs test, overfitting and the bias-variance tradeoff
-- [Decision tree classifier](../03_Zettel/Theory/Decision%20tree%20classifier.html) — the algorithm: split features by entropy/Gini, recurse; pros (interpretable), cons (high variance)
-- [Iris dataset and the ML hello world](../03_Zettel/Theory/Iris%20dataset%20and%20the%20ML%20hello%20world.html) — three species of flower, four features; the canonical training-classification demonstration
-- [Interpretability vs accuracy in ML](../03_Zettel/Theory/Interpretability%20vs%20accuracy%20in%20ML.html) — why decision trees are interpretable and neural nets are not, why physicists care
+- [[What is machine learning]] — supervised vs unsupervised, training vs test, overfitting and the bias-variance tradeoff
+- [[Decision tree classifier]] — the algorithm: split features by entropy/Gini, recurse; pros (interpretable), cons (high variance)
+- [[Iris dataset and the ML hello world]] — three species of flower, four features; the canonical training-classification demonstration
+- [[Interpretability vs accuracy in ML]] — why decision trees are interpretable and neural nets are not, why physicists care
 
 ---
 
@@ -319,17 +319,17 @@ the exam template I have on file (4 exercises) hits exactly these boxes: read-an
 
 Canonical and modern benchmark papers underlying the numerical methods above.
 
-- [Marquardt (1963) — Levenberg-Marquardt Nonlinear Least Squares](../02_Literature/Papers/16_Mathematical_Numerical_Methods/Marquardt_1963_Levenberg_Marquardt_Algorithm.html) — adaptive Gauss-Newton/steepest-descent damping
-- [Virtanen et al. (2020) — SciPy 1.0](../02_Literature/Papers/16_Mathematical_Numerical_Methods/Virtanen_2020_SciPy_Scientific_Computing.html) — the numerical-Python foundation underlying most of this course's tooling
+- [[Marquardt_1963_Levenberg_Marquardt_Algorithm|Marquardt (1963) — Levenberg-Marquardt Nonlinear Least Squares]] — adaptive Gauss-Newton/steepest-descent damping
+- [[Virtanen_2020_SciPy_Scientific_Computing|Virtanen et al. (2020) — SciPy 1.0]] — the numerical-Python foundation underlying most of this course's tooling
 
 ---
 
 ## related MOCs and where this work leaks into
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](Fundamentals_Astrophysics_Cosmology_MOC.html) — every cosmology calculation that actually returns a number was done with the tools in this MOC: integrating Friedmann, computing $D_L(z)$, drawing mock CMB realizations
-- [General_Relativity_MOC](General_Relativity_MOC.html) — geodesic integration, effective-potential plots, perihelion-precession ODE solves
-- [Observational_Cosmology_MOC](Observational_Cosmology_MOC.html) — fitting Planck data, MCMC, FFT for the matter power spectrum
-- [Lab_High-Energy_MOC](Lab_High-Energy_MOC.html) — every detector simulation, every spectrum extraction, every ML photon classifier
+- [[Fundamentals_Astrophysics_Cosmology_MOC]] — every cosmology calculation that actually returns a number was done with the tools in this MOC: integrating Friedmann, computing $D_L(z)$, drawing mock CMB realizations
+- [[General_Relativity_MOC]] — geodesic integration, effective-potential plots, perihelion-precession ODE solves
+- [[Observational_Cosmology_MOC]] — fitting Planck data, MCMC, FFT for the matter power spectrum
+- [[Lab_High-Energy_MOC]] — every detector simulation, every spectrum extraction, every ML photon classifier
 - Moc — the master mind-map of the whole vault
 
 ---
@@ -340,49 +340,49 @@ Every single homework trajectory plot, Jacobi conservation diagnostic, exam pape
 
 | Image Asset | Diagnostic Category & Algorithmic Physics | Primary Zettel Note |
 |---|---|---|
-| `![mapelli_fig01_p6.png](../assets/images/mapelli_fig01_p6.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig02_p8.png](../assets/images/mapelli_fig02_p8.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig03_p8.png](../assets/images/mapelli_fig03_p8.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig04_p9.png](../assets/images/mapelli_fig04_p9.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig05_p10.png](../assets/images/mapelli_fig05_p10.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig06_p16.png](../assets/images/mapelli_fig06_p16.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig07_p47.png](../assets/images/mapelli_fig07_p47.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig08_p49.png](../assets/images/mapelli_fig08_p49.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig09_p52.png](../assets/images/mapelli_fig09_p52.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig10_p53.png](../assets/images/mapelli_fig10_p53.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig11_p55.png](../assets/images/mapelli_fig11_p55.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig12_p56.png](../assets/images/mapelli_fig12_p56.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig13_p57.png](../assets/images/mapelli_fig13_p57.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig14_p58.png](../assets/images/mapelli_fig14_p58.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig15_p58.png](../assets/images/mapelli_fig15_p58.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig16_p59.png](../assets/images/mapelli_fig16_p59.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig17_p61.png](../assets/images/mapelli_fig17_p61.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig18_p61.png](../assets/images/mapelli_fig18_p61.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig19_p64.png](../assets/images/mapelli_fig19_p64.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig20_p66.png](../assets/images/mapelli_fig20_p66.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig21_p67.png](../assets/images/mapelli_fig21_p67.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig22_p69.png](../assets/images/mapelli_fig22_p69.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig23_p73.png](../assets/images/mapelli_fig23_p73.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig24_p75.png](../assets/images/mapelli_fig24_p75.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig25_p77.png](../assets/images/mapelli_fig25_p77.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig26_p86.png](../assets/images/mapelli_fig26_p86.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig27_p103.png](../assets/images/mapelli_fig27_p103.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig28_p108.png](../assets/images/mapelli_fig28_p108.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig29_p110.png](../assets/images/mapelli_fig29_p110.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
-| `![mapelli_fig30_p114.png](../assets/images/mapelli_fig30_p114.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [Mathematical_Numerical_Methods_MOC](Mathematical_Numerical_Methods_MOC.html) |
-| `![mnm_artemis_distances.png](../assets/images/mnm_artemis_distances.png)` | Artemis lunar mission simulation in rotating frame / Jacobi integral conservation diagnostic | [Energy conservation as a diagnostic](../03_Zettel/Theory/Energy%20conservation%20as%20a%20diagnostic.html) |
-| `![mnm_artemis_trajectory.png](../assets/images/mnm_artemis_trajectory.png)` | Artemis lunar mission simulation in rotating frame / Jacobi integral conservation diagnostic | [Energy conservation as a diagnostic](../03_Zettel/Theory/Energy%20conservation%20as%20a%20diagnostic.html) |
-| `![mnm_exam_2021_01_25_p1.png](../assets/images/mnm_exam_2021_01_25_p1.png)` | Official University of Padua Exam Paper: Numerical ODE integration, stability analysis, and floating-point precision | [Euler method](../03_Zettel/Theory/Euler%20method.html) |
-| `![mnm_exam_2021_06_24_p1.png](../assets/images/mnm_exam_2021_06_24_p1.png)` | Official University of Padua Exam Paper: Numerical ODE integration, stability analysis, and floating-point precision | [Euler method](../03_Zettel/Theory/Euler%20method.html) |
-| `![mnm_exam_2021_08_30_p1.png](../assets/images/mnm_exam_2021_08_30_p1.png)` | Official University of Padua Exam Paper: Numerical ODE integration, stability analysis, and floating-point precision | [Euler method](../03_Zettel/Theory/Euler%20method.html) |
-| `![mnm_exam_2026_09_01_p1.png](../assets/images/mnm_exam_2026_09_01_p1.png)` | Official University of Padua Exam Paper: Numerical ODE integration, stability analysis, and floating-point precision | [Euler method](../03_Zettel/Theory/Euler%20method.html) |
-| `![mnm_jacobi_conservation.png](../assets/images/mnm_jacobi_conservation.png)` | Artemis lunar mission simulation in rotating frame / Jacobi integral conservation diagnostic | [Energy conservation as a diagnostic](../03_Zettel/Theory/Energy%20conservation%20as%20a%20diagnostic.html) |
-| `![mnm_random_walk_linear.png](../assets/images/mnm_random_walk_linear.png)` | Monte Carlo 2D random walk displacement and diffusive scaling law $\sqrt{\langle R^2 \rangle} \propto N^{1/2}$ | [Box-Muller transform for Gaussian random numbers](../03_Zettel/Theory/Box-Muller%20transform%20for%20Gaussian%20random%20numbers.html) |
-| `![mnm_random_walk_loglog.png](../assets/images/mnm_random_walk_loglog.png)` | Monte Carlo 2D random walk displacement and diffusive scaling law $\sqrt{\langle R^2 \rangle} \propto N^{1/2}$ | [Box-Muller transform for Gaussian random numbers](../03_Zettel/Theory/Box-Muller%20transform%20for%20Gaussian%20random%20numbers.html) |
-| `![mnm_solution_p1_euler_rk.png](../assets/images/mnm_solution_p1_euler_rk.png)` | Exam Model Answer: Mathematical derivation and Python implementation of Euler, RK4, Leapfrog, and Hermite schemes | [Leapfrog integrator](../03_Zettel/Theory/Leapfrog%20integrator.html) |
-| `![mnm_solution_p2_leapfrog.png](../assets/images/mnm_solution_p2_leapfrog.png)` | Exam Model Answer: Mathematical derivation and Python implementation of Euler, RK4, Leapfrog, and Hermite schemes | [Leapfrog integrator](../03_Zettel/Theory/Leapfrog%20integrator.html) |
-| `![mnm_solution_p3_hermite.png](../assets/images/mnm_solution_p3_hermite.png)` | Exam Model Answer: Mathematical derivation and Python implementation of Euler, RK4, Leapfrog, and Hermite schemes | [Leapfrog integrator](../03_Zettel/Theory/Leapfrog%20integrator.html) |
-| `![mnm_solution_p4_nbody.png](../assets/images/mnm_solution_p4_nbody.png)` | Exam Model Answer: Mathematical derivation and Python implementation of Euler, RK4, Leapfrog, and Hermite schemes | [Leapfrog integrator](../03_Zettel/Theory/Leapfrog%20integrator.html) |
+| `![mapelli_fig01_p6.png](../assets/images/mapelli_fig01_p6.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [[Mathematical_Numerical_Methods_MOC]] |
+| `![mapelli_fig02_p8.png](../assets/images/mapelli_fig02_p8.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [[Mathematical_Numerical_Methods_MOC]] |
+| `![mapelli_fig03_p8.png](../assets/images/mapelli_fig03_p8.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [[Mathematical_Numerical_Methods_MOC]] |
+| `![mapelli_fig04_p9.png](../assets/images/mapelli_fig04_p9.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [[Mathematical_Numerical_Methods_MOC]] |
+| `![mapelli_fig05_p10.png](../assets/images/mapelli_fig05_p10.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [[Mathematical_Numerical_Methods_MOC]] |
+| `![mapelli_fig06_p16.png](../assets/images/mapelli_fig06_p16.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [[Mathematical_Numerical_Methods_MOC]] |
+| `![mapelli_fig07_p47.png](../assets/images/mapelli_fig07_p47.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [[Mathematical_Numerical_Methods_MOC]] |
+| `![mapelli_fig08_p49.png](../assets/images/mapelli_fig08_p49.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [[Mathematical_Numerical_Methods_MOC]] |
+| `![mapelli_fig09_p52.png](../assets/images/mapelli_fig09_p52.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [[Mathematical_Numerical_Methods_MOC]] |
+| `![mapelli_fig10_p53.png](../assets/images/mapelli_fig10_p53.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [[Mathematical_Numerical_Methods_MOC]] |
+| `![mapelli_fig11_p55.png](../assets/images/mapelli_fig11_p55.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [[Mathematical_Numerical_Methods_MOC]] |
+| `![mapelli_fig12_p56.png](../assets/images/mapelli_fig12_p56.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [[Mathematical_Numerical_Methods_MOC]] |
+| `![mapelli_fig13_p57.png](../assets/images/mapelli_fig13_p57.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [[Mathematical_Numerical_Methods_MOC]] |
+| `![mapelli_fig14_p58.png](../assets/images/mapelli_fig14_p58.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [[Mathematical_Numerical_Methods_MOC]] |
+| `![mapelli_fig15_p58.png](../assets/images/mapelli_fig15_p58.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [[Mathematical_Numerical_Methods_MOC]] |
+| `![mapelli_fig16_p59.png](../assets/images/mapelli_fig16_p59.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [[Mathematical_Numerical_Methods_MOC]] |
+| `![mapelli_fig17_p61.png](../assets/images/mapelli_fig17_p61.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [[Mathematical_Numerical_Methods_MOC]] |
+| `![mapelli_fig18_p61.png](../assets/images/mapelli_fig18_p61.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [[Mathematical_Numerical_Methods_MOC]] |
+| `![mapelli_fig19_p64.png](../assets/images/mapelli_fig19_p64.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [[Mathematical_Numerical_Methods_MOC]] |
+| `![mapelli_fig20_p66.png](../assets/images/mapelli_fig20_p66.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [[Mathematical_Numerical_Methods_MOC]] |
+| `![mapelli_fig21_p67.png](../assets/images/mapelli_fig21_p67.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [[Mathematical_Numerical_Methods_MOC]] |
+| `![mapelli_fig22_p69.png](../assets/images/mapelli_fig22_p69.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [[Mathematical_Numerical_Methods_MOC]] |
+| `![mapelli_fig23_p73.png](../assets/images/mapelli_fig23_p73.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [[Mathematical_Numerical_Methods_MOC]] |
+| `![mapelli_fig24_p75.png](../assets/images/mapelli_fig24_p75.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [[Mathematical_Numerical_Methods_MOC]] |
+| `![mapelli_fig25_p77.png](../assets/images/mapelli_fig25_p77.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [[Mathematical_Numerical_Methods_MOC]] |
+| `![mapelli_fig26_p86.png](../assets/images/mapelli_fig26_p86.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [[Mathematical_Numerical_Methods_MOC]] |
+| `![mapelli_fig27_p103.png](../assets/images/mapelli_fig27_p103.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [[Mathematical_Numerical_Methods_MOC]] |
+| `![mapelli_fig28_p108.png](../assets/images/mapelli_fig28_p108.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [[Mathematical_Numerical_Methods_MOC]] |
+| `![mapelli_fig29_p110.png](../assets/images/mapelli_fig29_p110.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [[Mathematical_Numerical_Methods_MOC]] |
+| `![mapelli_fig30_p114.png](../assets/images/mapelli_fig30_p114.png)` | Prof. Michela Mapelli lecture diagram: Algorithm flow, spatial treecode, stability region, or HPC parallelization | [[Mathematical_Numerical_Methods_MOC]] |
+| `![mnm_artemis_distances.png](../assets/images/mnm_artemis_distances.png)` | Artemis lunar mission simulation in rotating frame / Jacobi integral conservation diagnostic | [[Energy conservation as a diagnostic]] |
+| `![mnm_artemis_trajectory.png](../assets/images/mnm_artemis_trajectory.png)` | Artemis lunar mission simulation in rotating frame / Jacobi integral conservation diagnostic | [[Energy conservation as a diagnostic]] |
+| `![mnm_exam_2021_01_25_p1.png](../assets/images/mnm_exam_2021_01_25_p1.png)` | Official University of Padua Exam Paper: Numerical ODE integration, stability analysis, and floating-point precision | [[Euler method]] |
+| `![mnm_exam_2021_06_24_p1.png](../assets/images/mnm_exam_2021_06_24_p1.png)` | Official University of Padua Exam Paper: Numerical ODE integration, stability analysis, and floating-point precision | [[Euler method]] |
+| `![mnm_exam_2021_08_30_p1.png](../assets/images/mnm_exam_2021_08_30_p1.png)` | Official University of Padua Exam Paper: Numerical ODE integration, stability analysis, and floating-point precision | [[Euler method]] |
+| `![mnm_exam_2026_09_01_p1.png](../assets/images/mnm_exam_2026_09_01_p1.png)` | Official University of Padua Exam Paper: Numerical ODE integration, stability analysis, and floating-point precision | [[Euler method]] |
+| `![mnm_jacobi_conservation.png](../assets/images/mnm_jacobi_conservation.png)` | Artemis lunar mission simulation in rotating frame / Jacobi integral conservation diagnostic | [[Energy conservation as a diagnostic]] |
+| `![mnm_random_walk_linear.png](../assets/images/mnm_random_walk_linear.png)` | Monte Carlo 2D random walk displacement and diffusive scaling law $\sqrt{\langle R^2 \rangle} \propto N^{1/2}$ | [[Box-Muller transform for Gaussian random numbers]] |
+| `![mnm_random_walk_loglog.png](../assets/images/mnm_random_walk_loglog.png)` | Monte Carlo 2D random walk displacement and diffusive scaling law $\sqrt{\langle R^2 \rangle} \propto N^{1/2}$ | [[Box-Muller transform for Gaussian random numbers]] |
+| `![mnm_solution_p1_euler_rk.png](../assets/images/mnm_solution_p1_euler_rk.png)` | Exam Model Answer: Mathematical derivation and Python implementation of Euler, RK4, Leapfrog, and Hermite schemes | [[Leapfrog integrator]] |
+| `![mnm_solution_p2_leapfrog.png](../assets/images/mnm_solution_p2_leapfrog.png)` | Exam Model Answer: Mathematical derivation and Python implementation of Euler, RK4, Leapfrog, and Hermite schemes | [[Leapfrog integrator]] |
+| `![mnm_solution_p3_hermite.png](../assets/images/mnm_solution_p3_hermite.png)` | Exam Model Answer: Mathematical derivation and Python implementation of Euler, RK4, Leapfrog, and Hermite schemes | [[Leapfrog integrator]] |
+| `![mnm_solution_p4_nbody.png](../assets/images/mnm_solution_p4_nbody.png)` | Exam Model Answer: Mathematical derivation and Python implementation of Euler, RK4, Leapfrog, and Hermite schemes | [[Leapfrog integrator]] |
 
 
 ---

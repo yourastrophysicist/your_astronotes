@@ -63,7 +63,7 @@ However:
 	cannot resolve extended sources or separate AGN from clusters
 
 The collimator was the dominant X-ray instrument in the 1970s (before focusing X-ray telescopes)
-	it was replaced by [coded aperture masks](Coded%20Mask.html) for imaging, and by [Wolter telescopes](Wolter%20Telescope.html) for focusing below $\sim 10$ keV
+	it was replaced by [[Coded Mask|coded aperture masks]] for imaging, and by [[Wolter Telescope|Wolter telescopes]] for focusing below $\sim 10$ keV
 
 ---
 
@@ -81,11 +81,11 @@ Both instruments share the same fundamental limitation:
 	**no focusing** — every detector pixel sees the full field of view simultaneously
 		therefore the background is high and cannot be suppressed as in a focusing telescope
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Coded%20Mask.html" class="backlink-item">Coded Mask</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Coded Mask]]
+- [[Lab_High-Energy_MOC]]
+
 

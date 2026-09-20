@@ -143,13 +143,13 @@ For $\gamma \sim 1000$:
 	a far-infrared photon ($\nu_0 = 3 \cdot 10^{12}~\text{Hz}$) $\rightarrow$ X-ray photon ($12.4~\text{keV}$)
 	a visible photon ($\nu_0 = 4.8 \cdot 10^{14}~\text{Hz}$) $\rightarrow$ $\gamma$-ray photon ($2~\text{MeV}$)
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Cooling%20curve.html" class="backlink-item">Cooling curve</a></li>
-    <li class="backlink-item-wrap"><a href="Radiative%20Processes.html" class="backlink-item">Radiative Processes</a></li>
-    <li class="backlink-item-wrap"><a href="Synchrotron%20continuum.html" class="backlink-item">Synchrotron continuum</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Cooling curve]]
+- [[Radiative Processes]]
+- [[Synchrotron continuum]]
+- [[Lab_High-Energy_MOC]]
+
 

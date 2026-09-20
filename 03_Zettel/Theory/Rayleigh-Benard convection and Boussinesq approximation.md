@@ -35,16 +35,16 @@ $$\text{Ra}_c = \frac{27 \pi^4}{4} \approx 657.5$$
 
 ## see also
 
-- [Fluid_and_Plasma_Dynamics_MOC](../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html)
-- [Part3_Waves_Instabilities_and_Turbulence](../../02_Literature/Lectures/Fluid_and_Plasma_Dynamics/Part3_Waves_Instabilities_and_Turbulence.html)
-- [Rayleigh-Taylor and Kelvin-Helmholtz hydrodynamic instabilities](Rayleigh-Taylor%20and%20Kelvin-Helmholtz%20hydrodynamic%20instabilities.html)
-- [Kolmogorov K41 turbulence cascade and five-thirds law](Kolmogorov%20K41%20turbulence%20cascade%20and%20five-thirds%20law.html)
+- [[Fluid_and_Plasma_Dynamics_MOC]]
+- [[Part3_Waves_Instabilities_and_Turbulence]]
+- [[Rayleigh-Taylor and Kelvin-Helmholtz hydrodynamic instabilities]]
+- [[Kolmogorov K41 turbulence cascade and five-thirds law]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Rayleigh-Taylor%20and%20Kelvin-Helmholtz%20hydrodynamic%20instabilities.html" class="backlink-item">Rayleigh-Taylor and Kelvin-Helmholtz hydrodynamic instabilities</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Rayleigh-Taylor and Kelvin-Helmholtz hydrodynamic instabilities]]
+- [[Fluid_and_Plasma_Dynamics_MOC]]
+
 

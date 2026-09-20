@@ -53,7 +53,7 @@ s = a * (b / a) ** u
 
 ### Gaussian — the trick
 
-the Gaussian CDF $\Phi(x) = \tfrac12 [1 + \text{erf}(x/\sqrt 2)]$ is not analytically invertible. workaround: use the **Box-Muller transform** instead, which gives two normals from two uniforms via polar trigonometry. see [Box-Muller transform for Gaussian random numbers](Box-Muller%20transform%20for%20Gaussian%20random%20numbers.html).
+the Gaussian CDF $\Phi(x) = \tfrac12 [1 + \text{erf}(x/\sqrt 2)]$ is not analytically invertible. workaround: use the **Box-Muller transform** instead, which gives two normals from two uniforms via polar trigonometry. see [[Box-Muller transform for Gaussian random numbers]].
 
 ## general algorithm when CDF is not analytic
 
@@ -114,23 +114,23 @@ samples = expon.rvs(scale=1/lam, size=N)
 
 ## see also
 
-- [Pseudo-random number generators](Pseudo-random%20number%20generators.html)
-- [Box-Muller transform for Gaussian random numbers](Box-Muller%20transform%20for%20Gaussian%20random%20numbers.html)
-- [Rejection sampling](Rejection%20sampling.html)
-- [Importance sampling](Importance%20sampling.html)
-- [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
+- [[Pseudo-random number generators]]
+- [[Box-Muller transform for Gaussian random numbers]]
+- [[Rejection sampling]]
+- [[Importance sampling]]
+- [[Mathematical_Numerical_Methods_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (8)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Box-Muller%20transform%20for%20Gaussian%20random%20numbers.html" class="backlink-item">Box-Muller transform for Gaussian random numbers</a></li>
-    <li class="backlink-item-wrap"><a href="Hint%20-%20TODO%202.1%20Deriving%20Inverse%20CDF%20for%20Power%20Laws.html" class="backlink-item">Hint - TODO 2.1 Deriving Inverse CDF for Power Laws</a></li>
-    <li class="backlink-item-wrap"><a href="Importance%20sampling.html" class="backlink-item">Importance sampling</a></li>
-    <li class="backlink-item-wrap"><a href="Pseudo-random%20number%20generators.html" class="backlink-item">Pseudo-random number generators</a></li>
-    <li class="backlink-item-wrap"><a href="Random%20number%20seeds.html" class="backlink-item">Random number seeds</a></li>
-    <li class="backlink-item-wrap"><a href="Rejection%20sampling.html" class="backlink-item">Rejection sampling</a></li>
-    <li class="backlink-item-wrap"><a href="Verifying%20random%20samples.html" class="backlink-item">Verifying random samples</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Box-Muller transform for Gaussian random numbers]]
+- [[Hint - TODO 2.1 Deriving Inverse CDF for Power Laws]]
+- [[Importance sampling]]
+- [[Pseudo-random number generators]]
+- [[Random number seeds]]
+- [[Rejection sampling]]
+- [[Verifying random samples]]
+- [[Mathematical_Numerical_Methods_MOC]]
+
 

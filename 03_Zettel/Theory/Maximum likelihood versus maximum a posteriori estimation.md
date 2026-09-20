@@ -38,16 +38,16 @@ Under decision theory with a 0-1 loss function $L(\theta, \hat{\theta}) = -\delt
 3. **Asymptotic convergence**: In the limit of infinite informative data ($N \to \infty$), the likelihood gradient scales as $\mathcal{O}(N)$ while the prior gradient remains $\mathcal{O}(1)$, causing $\hat{\theta}_{\rm MAP} \to \hat{\theta}_{\rm MLE}$ by the Bernstein-von Mises theorem.
 
 ## See Also
-- [Astro-Statistics_and_Cosmology_MOC](../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html)
-- [02_Parameter_Estimation_Gaussian_Noise_and_Credible_Intervals](../../02_Literature/Lectures/Astrostatistics/02_Parameter_Estimation_Gaussian_Noise_and_Credible_Intervals.html)
-- [Bernstein-von Mises theorem and Bayesian asymptotics](Bernstein-von%20Mises%20theorem%20and%20Bayesian%20asymptotics.html)
-- [Fisher information matrix and Cramer-Rao bound](Fisher%20information%20matrix%20and%20Cramer-Rao%20bound.html)
+- [[Astro-Statistics_and_Cosmology_MOC]]
+- [[02_Parameter_Estimation_Gaussian_Noise_and_Credible_Intervals]]
+- [[Bernstein-von Mises theorem and Bayesian asymptotics]]
+- [[Fisher information matrix and Cramer-Rao bound]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Cox%20theorem%20and%20probability%20as%20extended%20logic.html" class="backlink-item">Cox theorem and probability as extended logic</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Cox theorem and probability as extended logic]]
+- [[Astro-Statistics_and_Cosmology_MOC]]
+
 

@@ -44,16 +44,16 @@ particles moving slightly slower than the wave phase velocity ($v \lesssim v_{\t
 
 ## see also
 
-- [Fluid_and_Plasma_Dynamics_MOC](../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html)
-- [Part5_Plasma_Kinetics_Gyrokinetics_and_Waves](../../02_Literature/Lectures/Fluid_and_Plasma_Dynamics/Part5_Plasma_Kinetics_Gyrokinetics_and_Waves.html)
-- [Gyrokinetic ordering and 5D phase space reduction](Gyrokinetic%20ordering%20and%205D%20phase%20space%20reduction.html)
-- [Cold plasma dielectric tensor and Appleton-Hartree dispersion](Cold%20plasma%20dielectric%20tensor%20and%20Appleton-Hartree%20dispersion.html)
+- [[Fluid_and_Plasma_Dynamics_MOC]]
+- [[Part5_Plasma_Kinetics_Gyrokinetics_and_Waves]]
+- [[Gyrokinetic ordering and 5D phase space reduction]]
+- [[Cold plasma dielectric tensor and Appleton-Hartree dispersion]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Gyrokinetic%20ordering%20and%205D%20phase%20space%20reduction.html" class="backlink-item">Gyrokinetic ordering and 5D phase space reduction</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Gyrokinetic ordering and 5D phase space reduction]]
+- [[Fluid_and_Plasma_Dynamics_MOC]]
+
 

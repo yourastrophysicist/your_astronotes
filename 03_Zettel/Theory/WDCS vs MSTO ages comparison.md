@@ -4,18 +4,18 @@ title: "WDCS vs MSTO ages comparison"
 ---
 # wdcs vs msto ages comparison
 
-dating a stellar population using the white dwarf cooling sequence (WDCS) and using the main-sequence turnoff (MSTO) rests on completely different stellar physics. the WDCS reflects degenerate cooling (electron degeneracy pressure, conductive opacities, ion crystallisation; see [White dwarf cooling theory](White%20dwarf%20cooling%20theory.html)), while the MSTO reflects nuclear hydrogen burning timescales for stars of about a solar mass (see [Color-magnitude diagrams of clusters](Color-magnitude%20diagrams%20of%20clusters.html) and [HR diagram](HR%20diagram.html)). they are sensitive to different things.
+dating a stellar population using the white dwarf cooling sequence (WDCS) and using the main-sequence turnoff (MSTO) rests on completely different stellar physics. the WDCS reflects degenerate cooling (electron degeneracy pressure, conductive opacities, ion crystallisation; see [[White dwarf cooling theory]]), while the MSTO reflects nuclear hydrogen burning timescales for stars of about a solar mass (see [[Color-magnitude diagrams of clusters]] and [[HR diagram]]). they are sensitive to different things.
 
 ## the two clocks
 
 **MSTO age:**
 - the position of the turnoff in the CMD depends strongly on metallicity. ![L06_p19_isochrones_metallicity.png](../../assets/images/L06_p19_isochrones_metallicity.png) at fixed age, [Fe/H] from $-2$ to $+0.5$ shifts the turnoff colour by $\sim 1$ mag.
-- accurate ages require accurate spectroscopic [Fe/H] (see [Spectroscopic determination of metallicity](Spectroscopic%20determination%20of%20metallicity.html)) and reddening (see [Effects of differential reddening on CMD analysis](Effects%20of%20differential%20reddening%20on%20CMD%20analysis.html)).
+- accurate ages require accurate spectroscopic [Fe/H] (see [[Spectroscopic determination of metallicity]]) and reddening (see [[Effects of differential reddening on CMD analysis]]).
 - subject to systematic uncertainties from convective core overshooting, helium abundance, and isochrone calibration.
 
 **WDCS age:**
 - the position of the cooling sequence in the CMD is **almost insensitive to metallicity**. metal-poor (NGC 6397, [Fe/H] $\sim -2.1$) and metal-rich (47 Tuc, [Fe/H] $\sim -0.7$) clusters have WDCS at nearly identical absolute magnitudes and colours, despite very different MS positions.
-- depends on WD masses through the [Initial-final mass relation IFMR](Initial-final%20mass%20relation%20IFMR.html) and on atmosphere physics (especially [WDCS turn to blue and CIA](WDCS%20turn%20to%20blue%20and%20CIA.html) at the faint end).
+- depends on WD masses through the [[Initial-final mass relation IFMR]] and on atmosphere physics (especially [[WDCS turn to blue and CIA]] at the faint end).
 - requires very deep, very nearby photometry; only a handful of GCs accessible.
 
 so the two methods are nearly orthogonal in their systematics. agreement is a strong consistency test.
@@ -48,22 +48,22 @@ NGC 6791 is now seen as a striking demonstration of what binaries do to the WDCS
 the two together provide robust, cross-validated ages of the oldest stellar populations, and any disagreement is itself astrophysically informative.
 
 ## see also
-- [Age dating from the WD luminosity function](Age%20dating%20from%20the%20WD%20luminosity%20function.html)
-- [White dwarf cooling theory](White%20dwarf%20cooling%20theory.html)
-- [Initial-final mass relation IFMR](Initial-final%20mass%20relation%20IFMR.html)
-- [WDCS turn to blue and CIA](WDCS%20turn%20to%20blue%20and%20CIA.html)
-- [Color-magnitude diagrams of clusters](Color-magnitude%20diagrams%20of%20clusters.html)
-- [HR diagram](HR%20diagram.html)
-- [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
+- [[Age dating from the WD luminosity function]]
+- [[White dwarf cooling theory]]
+- [[Initial-final mass relation IFMR]]
+- [[WDCS turn to blue and CIA]]
+- [[Color-magnitude diagrams of clusters]]
+- [[HR diagram]]
+- [[Stellar_Astrophysics_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Age%20dating%20from%20the%20WD%20luminosity%20function.html" class="backlink-item">Age dating from the WD luminosity function</a></li>
-    <li class="backlink-item-wrap"><a href="White%20dwarf%20cooling%20sequence%20on%20the%20CMD.html" class="backlink-item">White dwarf cooling sequence on the CMD</a></li>
-    <li class="backlink-item-wrap"><a href="White%20dwarf%20cooling%20theory.html" class="backlink-item">White dwarf cooling theory</a></li>
-    <li class="backlink-item-wrap"><a href="White%20dwarf%20types%20He%20CO%20ONeMg.html" class="backlink-item">White dwarf types He CO ONeMg</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Age dating from the WD luminosity function]]
+- [[White dwarf cooling sequence on the CMD]]
+- [[White dwarf cooling theory]]
+- [[White dwarf types He CO ONeMg]]
+- [[Stellar_Astrophysics_MOC]]
+
 

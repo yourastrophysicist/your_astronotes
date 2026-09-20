@@ -7,7 +7,7 @@ tags: ""
 
 *Course: Astrophysics of the Interstellar Medium, Master in Astrophysics and Cosmology, Università degli Studi di Padova*  
 *Lecturer: Prof. Giovanni Carraro*  
-*Index: [Astrophysics_of_the_Interstellar_Medium_MOC](../../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html)*
+*Index: [[Astrophysics_of_the_Interstellar_Medium_MOC]]*
 
 ---
 
@@ -144,18 +144,18 @@ stellar wind bubbles carve out parsec-scale voids in the neutral gas and sweep u
 
 ## see also
 
-- [Astrophysics_of_the_Interstellar_Medium_MOC](../../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html)
-- [Line-driven stellar winds and P-Cygni profiles](../../../03_Zettel/Theory/Line-driven%20stellar%20winds%20and%20P-Cygni%20profiles.html)
-- [Carraro_03_HII_Regions_and_Photoionized_Gas](./Carraro_03_HII_Regions_and_Photoionized_Gas.html)
-- [Carraro_06_Supernovae_and_Hot_Ionized_Medium](./Carraro_06_Supernovae_and_Hot_Ionized_Medium.html)
-- [Superbubbles galactic chimneys and fountains](../../../03_Zettel/Theory/Superbubbles%20galactic%20chimneys%20and%20fountains.html)
-- [Stellar evolutionary phases on the CMD](../../../03_Zettel/Theory/Stellar%20evolutionary%20phases%20on%20the%20CMD.html)
+- [[Astrophysics_of_the_Interstellar_Medium_MOC]]
+- [[Line-driven stellar winds and P-Cygni profiles]]
+- [[Carraro_03_HII_Regions_and_Photoionized_Gas]]
+- [[Carraro_06_Supernovae_and_Hot_Ionized_Medium]]
+- [[Superbubbles galactic chimneys and fountains]]
+- [[Stellar evolutionary phases on the CMD]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Line-driven%20stellar%20winds%20and%20P-Cygni%20profiles.html" class="backlink-item">Line-driven stellar winds and P-Cygni profiles</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html" class="backlink-item">Astrophysics_of_the_Interstellar_Medium_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Line-driven stellar winds and P-Cygni profiles]]
+- [[Astrophysics_of_the_Interstellar_Medium_MOC]]
+
 

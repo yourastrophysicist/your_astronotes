@@ -66,16 +66,16 @@ COAST shows that *demonstrating a technique* often precedes its scientific domin
 
 ## see also
 
-- [Components of a modern interferometer](Components%20of%20a%20modern%20interferometer.html)
-- [CHARA array](CHARA%20array.html)
-- [Phase closure](Phase%20closure.html)
-- [Bispectrum and triple correlation](Bispectrum%20and%20triple%20correlation.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Components of a modern interferometer]]
+- [[CHARA array]]
+- [[Phase closure]]
+- [[Bispectrum and triple correlation]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (1)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Astronomical_Interferometry_MOC]]
+
 

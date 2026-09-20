@@ -69,26 +69,26 @@ $$H_0 = 72 \pm 8 \text{ km s}^{-1}\text{ Mpc}^{-1}$$
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Parallax and standard candles](Parallax%20and%20standard%20candles.html)
-- [Type Ia supernovae as standard candles](Type%20Ia%20supernovae%20as%20standard%20candles.html)
-- [Hubble's law and cosmological redshift](Hubble%27s%20law%20and%20cosmological%20redshift.html)
-- [Distance ladder derivations](Distance%20ladder%20derivations.html)
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Parallax and standard candles]]
+- [[Type Ia supernovae as standard candles]]
+- [[Hubble's law and cosmological redshift]]
+- [[Distance ladder derivations]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (11)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Annual%20stellar%20parallax.html" class="backlink-item">Annual stellar parallax</a></li>
-    <li class="backlink-item-wrap"><a href="BHs%20from%20gravitational%20waves.html" class="backlink-item">BHs from gravitational waves</a></li>
-    <li class="backlink-item-wrap"><a href="Cepheid%20period-luminosity%20relation.html" class="backlink-item">Cepheid period-luminosity relation</a></li>
-    <li class="backlink-item-wrap"><a href="Hubble%20law%20derivation%20low-z.html" class="backlink-item">Hubble law derivation low-z</a></li>
-    <li class="backlink-item-wrap"><a href="Hubble%27s%20law%20and%20cosmological%20redshift.html" class="backlink-item">Hubble's law and cosmological redshift</a></li>
-    <li class="backlink-item-wrap"><a href="Parallax%20and%20standard%20candles.html" class="backlink-item">Parallax and standard candles</a></li>
-    <li class="backlink-item-wrap"><a href="Supernova%20spectroscopy.html" class="backlink-item">Supernova spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="The%20Galactic%20Bulge.html" class="backlink-item">The Galactic Bulge</a></li>
-    <li class="backlink-item-wrap"><a href="Type%20Ia%20supernovae%20as%20standard%20candles.html" class="backlink-item">Type Ia supernovae as standard candles</a></li>
-    <li class="backlink-item-wrap"><a href="Variable%20stars%20as%20standard%20candles.html" class="backlink-item">Variable stars as standard candles</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Annual stellar parallax]]
+- [[BHs from gravitational waves]]
+- [[Cepheid period-luminosity relation]]
+- [[Hubble law derivation low-z]]
+- [[Hubble's law and cosmological redshift]]
+- [[Parallax and standard candles]]
+- [[Supernova spectroscopy]]
+- [[The Galactic Bulge]]
+- [[Type Ia supernovae as standard candles]]
+- [[Variable stars as standard candles]]
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+
 

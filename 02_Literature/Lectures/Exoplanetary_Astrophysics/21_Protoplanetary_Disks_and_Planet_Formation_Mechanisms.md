@@ -5,7 +5,7 @@ title: "21_Protoplanetary_Disks_and_Planet_Formation_Mechanisms"
 # Lesson 21 – Protoplanetary Disks and Planet Formation Mechanisms
 
 *Exoplanetary Astrophysics, Prof. Giampaolo Piotto (Lecture 12/01/2026)*  
-*Index: [Exoplanetary_Astrophysics_MOC](../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)*
+*Index: [[Exoplanetary_Astrophysics_MOC]]*
 
 ---
 
@@ -166,17 +166,17 @@ $$\tau_{II} \approx \frac{r^2}{\nu} \approx \frac{r^2}{\alpha c_s H_g} \sim 10^5
 ---
 
 ## Cross-Links & Vault Navigation
-- Master Map of Content: [Exoplanetary_Astrophysics_MOC](../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)
-- Previous Lecture: [20_Exoplanet_Atmospheres_and_Transmission_Spectroscopy](./20_Exoplanet_Atmospheres_and_Transmission_Spectroscopy.html)
-- Next Lecture: [22_Case_Study_K2_19_System_and_Atmospheric_Dynamics](./22_Case_Study_K2_19_System_and_Atmospheric_Dynamics.html)
+- Master Map of Content: [[Exoplanetary_Astrophysics_MOC]]
+- Previous Lecture: [[20_Exoplanet_Atmospheres_and_Transmission_Spectroscopy]]
+- Next Lecture: [[22_Case_Study_K2_19_System_and_Atmospheric_Dynamics]]
 - Related Notes: Planetary system dynamics and resonance | Mass-radius diagram and interior models
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Pebble%20accretion%20and%20planetary%20orbital%20migration.html" class="backlink-item">Pebble accretion and planetary orbital migration</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Protoplanetary%20disk%20evolution%20and%20core%20accretion%20paradigm.html" class="backlink-item">Protoplanetary disk evolution and core accretion paradigm</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Pebble accretion and planetary orbital migration]]
+- [[Protoplanetary disk evolution and core accretion paradigm]]
+- [[Exoplanetary_Astrophysics_MOC]]
+
 

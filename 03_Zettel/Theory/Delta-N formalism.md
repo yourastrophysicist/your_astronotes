@@ -46,20 +46,20 @@ In multi-field models (such as the curvaton), curved trajectories in field space
 
 ## connections & zettel links
 
-* parent moc: [Cosmology_of_the_Early_Universe_MOC](../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html)
+* parent moc: [[Cosmology_of_the_Early_Universe_MOC]]
 * related zettels:
-  - [Curvature perturbation R and zeta](Curvature%20perturbation%20R%20and%20zeta.html)
-  - [Primordial non-Gaussianity and bispectrum shapes](Primordial%20non-Gaussianity%20and%20bispectrum%20shapes.html)
-  - [Maldacena consistency condition](Maldacena%20consistency%20condition.html)
-  - [Part4_Advanced_Formalisms_and_Non_Gaussianity](../../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part4_Advanced_Formalisms_and_Non_Gaussianity.html)
+  - [[Curvature perturbation R and zeta]]
+  - [[Primordial non-Gaussianity and bispectrum shapes]]
+  - [[Maldacena consistency condition]]
+  - [[Part4_Advanced_Formalisms_and_Non_Gaussianity]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="In-In%20formalism%20for%20cosmological%20correlators.html" class="backlink-item">In-In formalism for cosmological correlators</a></li>
-    <li class="backlink-item-wrap"><a href="Maldacena%20consistency%20condition.html" class="backlink-item">Maldacena consistency condition</a></li>
-    <li class="backlink-item-wrap"><a href="Primordial%20non-Gaussianity%20and%20bispectrum%20shapes.html" class="backlink-item">Primordial non-Gaussianity and bispectrum shapes</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html" class="backlink-item">Cosmology_of_the_Early_Universe_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[In-In formalism for cosmological correlators]]
+- [[Maldacena consistency condition]]
+- [[Primordial non-Gaussianity and bispectrum shapes]]
+- [[Cosmology_of_the_Early_Universe_MOC]]
+
 

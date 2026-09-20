@@ -6,8 +6,8 @@ title: "Pablo_02_Statistical_properties_of_galaxies"
 
 *visiting professor, Observational Cosmology A.Y. 2024/2025, block: 31 March – 3 April*
 
-index: [Observational_Cosmology_MOC](../../../04_Atlas/Observational_Cosmology_MOC.html)
-previous: [Pablo_01_Introduction_to_galaxy_studies](./Pablo_01_Introduction_to_galaxy_studies.html)
+index: [[Observational_Cosmology_MOC]]
+previous: [[Pablo_01_Introduction_to_galaxy_studies]]
 
 ---
 
@@ -43,10 +43,10 @@ reading list pablo recommends:
 
 galaxies are not uniformly distributed in their parameters. the cleanest example is color.
 
-- [Color bimodality of galaxies](../../../03_Zettel/Theory/Color%20bimodality%20of%20galaxies.html) — Baldry et al. 2004, two peaks in $u-r$
-- [Red sequence and blue cloud](../../../03_Zettel/Theory/Red%20sequence%20and%20blue%20cloud.html) — what the two peaks physically are
-- [Green valley and quenching tracks](../../../03_Zettel/Theory/Green%20valley%20and%20quenching%20tracks.html) — Faber et al. 2007 evolutionary arrows
-- [Galaxy color, density and morphology](../../../03_Zettel/Theory/Galaxy%20color%2C%20density%20and%20morphology.html) — Hogg 2004, Blanton & Moustakas 2009
+- [[Color bimodality of galaxies]] — Baldry et al. 2004, two peaks in $u-r$
+- [[Red sequence and blue cloud]] — what the two peaks physically are
+- [[Green valley and quenching tracks]] — Faber et al. 2007 evolutionary arrows
+- [[Galaxy color, density and morphology]] — Hogg 2004, Blanton & Moustakas 2009
 
 these atomic notes give the empirical shape of the population in the color-magnitude diagram, before any model is invoked.
 
@@ -56,10 +56,10 @@ these atomic notes give the empirical shape of the population in the color-magni
 
 the simplest extragalactic statistic is "how many galaxies do i see brighter than magnitude $m$ per square degree?". Hubble himself plotted this in 1934.
 
-- [Galaxy number counts N(m)](../../../03_Zettel/Theory/Galaxy%20number%20counts%20N%28m%29.html) — definition and the Euclidean prediction $N(<m) \propto 10^{0.6 m}$
-- [Differential vs cumulative number counts](../../../03_Zettel/Theory/Differential%20vs%20cumulative%20number%20counts.html) — $dN/dm$ vs $N(<m)$, and $dN/dS$ when in flux units
-- [Galaxy counts at different wavelengths](../../../03_Zettel/Theory/Galaxy%20counts%20at%20different%20wavelengths.html) — optical, mid-IR (24 μm), far-IR (70 μm), sub-mm; the Durham compilation [counts.html](https://astro.dur.ac.uk/~nm/pubhtml/counts/counts.html)
-- [Driver 1998 counts by morphology](../../../03_Zettel/Theory/Driver%201998%20counts%20by%20morphology.html) — ellipticals, spirals, irregulars contribute differently as a function of magnitude
+- [[Galaxy number counts N(m)]] — definition and the Euclidean prediction $N(<m) \propto 10^{0.6 m}$
+- [[Differential vs cumulative number counts]] — $dN/dm$ vs $N(<m)$, and $dN/dS$ when in flux units
+- [[Galaxy counts at different wavelengths]] — optical, mid-IR (24 μm), far-IR (70 μm), sub-mm; the Durham compilation [counts.html](https://astro.dur.ac.uk/~nm/pubhtml/counts/counts.html)
+- [[Driver 1998 counts by morphology]] — ellipticals, spirals, irregulars contribute differently as a function of magnitude
 
 the deviations from the Euclidean line at faint magnitudes encode $\Omega_m$, $\Omega_\Lambda$, evolution, and the K-correction; this is the slide where pablo overplots cosmological models on the same axes.
 
@@ -69,7 +69,7 @@ the deviations from the Euclidean line at faint magnitudes encode $\Omega_m$, $\
 
 a one-line statistic that already separates whole classes:
 
-- [Galaxy size-luminosity relation](../../../03_Zettel/Theory/Galaxy%20size-luminosity%20relation.html) — $R_e$ vs $M_B$ for dE, dSph, cE, UCD, ellipticals, spirals; the dwarf and giant branches
+- [[Galaxy size-luminosity relation]] — $R_e$ vs $M_B$ for dE, dSph, cE, UCD, ellipticals, spirals; the dwarf and giant branches
 
 ---
 
@@ -77,10 +77,10 @@ a one-line statistic that already separates whole classes:
 
 if we just look at the $z$-distribution of a flux-limited sample, the universe lies to us. two kinds of lies:
 
-- [Redshift distribution of flux-limited samples](../../../03_Zettel/Theory/Redshift%20distribution%20of%20flux-limited%20samples.html) — Brinchmann 2008, the median $z$ as a function of magnitude
-- [Malmquist bias](../../../03_Zettel/Theory/Malmquist%20bias.html) — flux limit + scatter in absolute magnitude pushes the average $M$ brighter at higher $z$
-- [Photometric redshifts](../../../03_Zettel/Theory/Photometric%20redshifts.html) — Benítez 2000 likelihood $p(z \mid m_0)$, the 4000 Å break as the workhorse feature
-- [Photo-z biases and catastrophic outliers](../../../03_Zettel/Theory/Photo-z%20biases%20and%20catastrophic%20outliers.html) — Oyaizu 2008, the failure modes of template fitting
+- [[Redshift distribution of flux-limited samples]] — Brinchmann 2008, the median $z$ as a function of magnitude
+- [[Malmquist bias]] — flux limit + scatter in absolute magnitude pushes the average $M$ brighter at higher $z$
+- [[Photometric redshifts]] — Benítez 2000 likelihood $p(z \mid m_0)$, the 4000 Å break as the workhorse feature
+- [[Photo-z biases and catastrophic outliers]] — Oyaizu 2008, the failure modes of template fitting
 
 without these, every higher-order statistic ($\phi(L,z)$, $\rho_{SFR}(z)$) would be wrong.
 
@@ -90,14 +90,14 @@ without these, every higher-order statistic ($\phi(L,z)$, $\rho_{SFR}(z)$) would
 
 the master statistic. counts and color are 1-D projections; the LF is the *intrinsic* density of galaxies per unit luminosity per unit volume.
 
-- [Luminosity function definition](../../../03_Zettel/Theory/Luminosity%20function%20definition.html) — $dN = \phi(L)\, dL\, dV$, units of $\text{Mpc}^{-3}\,L^{-1}$
-- [Schechter function](../../../03_Zettel/Theory/Schechter%20function.html) — $\phi(L) = \frac{\phi^*}{L^*} (L/L^*)^\alpha e^{-L/L^*}$, the universal three-parameter fit
-- [Schechter function in magnitudes](../../../03_Zettel/Theory/Schechter%20function%20in%20magnitudes.html) — the form pablo will actually use to fit data
-- [Integrals of the Schechter function](../../../03_Zettel/Theory/Integrals%20of%20the%20Schechter%20function.html) — number, luminosity, and number above $L^*$; everything is a Gamma function
-- [1Vmax estimator](../../../03_Zettel/Theory/1Vmax%20estimator.html) — Schmidt 1968 non-parametric LF, the workhorse weighting that corrects for flux limits
-- [Schechter K-band luminosity function](../../../03_Zettel/Theory/Schechter%20K-band%20luminosity%20function.html) — Smith et al. 2009, $M^*=-23.19$, $\alpha=-0.81$, $\phi^*=0.0166\,\text{Mpc}^{-3}$
-- [Double power-law modified Schechter](../../../03_Zettel/Theory/Double%20power-law%20modified%20Schechter.html) — bright-end excess at high $z$, Pérez-González et al. 2005
-- [LF by morphology and SED](../../../03_Zettel/Theory/LF%20by%20morphology%20and%20SED.html) — Driver 2006 and Wolf 2003; ellipticals dominate $L > L^*$, late-types dominate the faint end
+- [[Luminosity function definition]] — $dN = \phi(L)\, dL\, dV$, units of $\text{Mpc}^{-3}\,L^{-1}$
+- [[Schechter function]] — $\phi(L) = \frac{\phi^*}{L^*} (L/L^*)^\alpha e^{-L/L^*}$, the universal three-parameter fit
+- [[Schechter function in magnitudes]] — the form pablo will actually use to fit data
+- [[Integrals of the Schechter function]] — number, luminosity, and number above $L^*$; everything is a Gamma function
+- [[1Vmax estimator]] — Schmidt 1968 non-parametric LF, the workhorse weighting that corrects for flux limits
+- [[Schechter K-band luminosity function]] — Smith et al. 2009, $M^*=-23.19$, $\alpha=-0.81$, $\phi^*=0.0166\,\text{Mpc}^{-3}$
+- [[Double power-law modified Schechter]] — bright-end excess at high $z$, Pérez-González et al. 2005
+- [[LF by morphology and SED]] — Driver 2006 and Wolf 2003; ellipticals dominate $L > L^*$, late-types dominate the faint end
 
 ---
 
@@ -105,10 +105,10 @@ the master statistic. counts and color are 1-D projections; the LF is the *intri
 
 stellar mass is more physical than luminosity (it does not need a K-correction the same way and it integrates the star formation history). but to get it you need an SED fit, which means assumed IMF, dust, and stellar populations.
 
-- [Stellar mass function](../../../03_Zettel/Theory/Stellar%20mass%20function.html) — Cole 2001, Bell 2003, Pérez-González 2003 / 2008
-- [Halo mass function vs galaxy mass function](../../../03_Zettel/Theory/Halo%20mass%20function%20vs%20galaxy%20mass%20function.html) — they differ in shape *and* in normalization; the famous factor-of-six gap
-- [Halo gravity suppression of galaxy formation](../../../03_Zettel/Theory/Halo%20gravity%20suppression%20of%20galaxy%20formation.html) — why low-mass halos cannot retain gas (SN feedback) and high-mass halos cannot cool (AGN feedback)
-- [Stellar-to-halo mass ratio](../../../03_Zettel/Theory/Stellar-to-halo%20mass%20ratio.html) — Behroozi et al. 2013 peak at $M_h \sim 10^{12}\,M_\odot$, the mass scale where galaxy formation is most efficient
+- [[Stellar mass function]] — Cole 2001, Bell 2003, Pérez-González 2003 / 2008
+- [[Halo mass function vs galaxy mass function]] — they differ in shape *and* in normalization; the famous factor-of-six gap
+- [[Halo gravity suppression of galaxy formation]] — why low-mass halos cannot retain gas (SN feedback) and high-mass halos cannot cool (AGN feedback)
+- [[Stellar-to-halo mass ratio]] — Behroozi et al. 2013 peak at $M_h \sim 10^{12}\,M_\odot$, the mass scale where galaxy formation is most efficient
 
 these four notes are the bridge to the second half of the course (Cassata's blocks 8–10), where Press-Schechter and N-body simulations explain the *halo* side and feedback physics explains the *galaxy* side.
 
@@ -118,9 +118,9 @@ these four notes are the bridge to the second half of the course (Cassata's bloc
 
 once you have $\phi(L,z)$ and $\phi(M_*, z)$ in slices of redshift, you integrate.
 
-- [Cosmic star formation history](../../../03_Zettel/Theory/Cosmic%20star%20formation%20history.html) — Madau-Dickinson plot, peak at $z \sim 2$ (Pérez-González 2005, Bouwens 2010)
-- [Cosmic stellar mass density growth](../../../03_Zettel/Theory/Cosmic%20stellar%20mass%20density%20growth.html) — Pérez-González 2008a, $\rho_*(z)/\rho_*(0)$
-- [SFR and stellar mass density connection](../../../03_Zettel/Theory/SFR%20and%20stellar%20mass%20density%20connection.html) — $\rho_{SFR}(z) = d\rho_*(t)/dt$ (modulo recycling and IMF assumptions)
+- [[Cosmic star formation history]] — Madau-Dickinson plot, peak at $z \sim 2$ (Pérez-González 2005, Bouwens 2010)
+- [[Cosmic stellar mass density growth]] — Pérez-González 2008a, $\rho_*(z)/\rho_*(0)$
+- [[SFR and stellar mass density connection]] — $\rho_{SFR}(z) = d\rho_*(t)/dt$ (modulo recycling and IMF assumptions)
 
 this is the punchline of every modern extragalactic survey, and it is what blocks 9 and 10 of the course will try to predict from first principles.
 
@@ -130,11 +130,11 @@ this is the punchline of every modern extragalactic survey, and it is what block
 
 the 2-D cuts through parameter space.
 
-- [Galaxy main sequence of star formation](../../../03_Zettel/Theory/Galaxy%20main%20sequence%20of%20star%20formation.html) — Rodighiero 2011, Santini 2017; SFR $\propto M_*^\alpha$ with starbursts living above
-- [Fundamental plane of ellipticals](../../../03_Zettel/Theory/Fundamental%20plane%20of%20ellipticals.html) — $R_e \propto \sigma_o^{1.4}\langle I \rangle_e^{-0.9}$
-- [Tully-Fisher relation](../../../03_Zettel/Theory/Tully-Fisher%20relation.html) — asymptotic rotation velocity vs luminosity for spirals
-- [Schmidt-Kennicutt law](../../../03_Zettel/Theory/Schmidt-Kennicutt%20law.html) — $\Sigma_{SFR} \propto \Sigma_{gas}^{1.4}$
-- [Magorrian relation](../../../03_Zettel/Theory/Magorrian%20relation.html) — $M_{BH} \sim 10^{-3}\, M_{\text{bulge}}$, the SMBH/host correlation
+- [[Galaxy main sequence of star formation]] — Rodighiero 2011, Santini 2017; SFR $\propto M_*^\alpha$ with starbursts living above
+- [[Fundamental plane of ellipticals]] — $R_e \propto \sigma_o^{1.4}\langle I \rangle_e^{-0.9}$
+- [[Tully-Fisher relation]] — asymptotic rotation velocity vs luminosity for spirals
+- [[Schmidt-Kennicutt law]] — $\Sigma_{SFR} \propto \Sigma_{gas}^{1.4}$
+- [[Magorrian relation]] — $M_{BH} \sim 10^{-3}\, M_{\text{bulge}}$, the SMBH/host correlation
 
 every one of these is a clue to the underlying physics: dynamics + virial theorem give FP and T-F; gas physics gives Schmidt-Kennicutt; coevolution gives Magorrian; the equilibrium between gas inflow and feedback gives the main sequence.
 
@@ -147,7 +147,7 @@ every one of these is a clue to the underlying physics: dynamics + virial theore
 - selection effects (Malmquist, K-correction, photo-z) are not corrections to apply at the end. they are the data-generating process. you cannot read $\phi(L,z)$ off a flux-limited catalog without modeling them first.
 - the stellar-to-halo mass ratio (Behroozi 2013) is the single most informative plot of modern galaxy evolution. it says: galaxies are inefficient, the inefficiency has a sweet spot at $\sim 10^{12}\,M_\odot$, and we need two different feedback channels (SN below, AGN above) to make it work.
 
-next lecture (Pablo 03) is on galaxy morphology, SEDs, and how we actually measure the things this lecture treats as inputs. that is where my [Observational_Cosmology_MOC](../../../04_Atlas/Observational_Cosmology_MOC.html) block 10 will keep growing.
+next lecture (Pablo 03) is on galaxy morphology, SEDs, and how we actually measure the things this lecture treats as inputs. that is where my [[Observational_Cosmology_MOC]] block 10 will keep growing.
 
 ---
 
@@ -166,36 +166,36 @@ next lecture (Pablo 03) is on galaxy morphology, SEDs, and how we actually measu
 - **main sequence** — tight SFR-$M_*$ correlation for star-forming galaxies, $\sim 0.3$ dex scatter
 - **fundamental plane / Tully-Fisher / Schmidt-Kennicutt / Magorrian** — the four canonical scaling relations
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (27)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/1Vmax%20estimator.html" class="backlink-item">1Vmax estimator</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Cosmic%20star%20formation%20history.html" class="backlink-item">Cosmic star formation history</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Cosmic%20stellar%20mass%20density%20growth.html" class="backlink-item">Cosmic stellar mass density growth</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Differential%20vs%20cumulative%20number%20counts.html" class="backlink-item">Differential vs cumulative number counts</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Driver%201998%20counts%20by%20morphology.html" class="backlink-item">Driver 1998 counts by morphology</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Fundamental%20plane%20of%20ellipticals.html" class="backlink-item">Fundamental plane of ellipticals</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Galaxies_course_intro.html" class="backlink-item">Galaxies_course_intro</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Galaxy%20color%2C%20density%20and%20morphology.html" class="backlink-item">Galaxy color, density and morphology</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Galaxy%20counts%20at%20different%20wavelengths.html" class="backlink-item">Galaxy counts at different wavelengths</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Galaxy%20main%20sequence%20of%20star%20formation.html" class="backlink-item">Galaxy main sequence of star formation</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Galaxy%20number%20counts%20N%28m%29.html" class="backlink-item">Galaxy number counts N(m)</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Galaxy%20size-luminosity%20relation.html" class="backlink-item">Galaxy size-luminosity relation</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Halo%20gravity%20suppression%20of%20galaxy%20formation.html" class="backlink-item">Halo gravity suppression of galaxy formation</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Halo%20mass%20function%20vs%20galaxy%20mass%20function.html" class="backlink-item">Halo mass function vs galaxy mass function</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Integrals%20of%20the%20Schechter%20function.html" class="backlink-item">Integrals of the Schechter function</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/LF%20by%20morphology%20and%20SED.html" class="backlink-item">LF by morphology and SED</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Malmquist%20bias.html" class="backlink-item">Malmquist bias</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Non-parametric%20galaxy%20morphology%20metrics.html" class="backlink-item">Non-parametric galaxy morphology metrics</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Photo-z%20biases%20and%20catastrophic%20outliers.html" class="backlink-item">Photo-z biases and catastrophic outliers</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Redshift%20distribution%20of%20flux-limited%20samples.html" class="backlink-item">Redshift distribution of flux-limited samples</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/SFR%20and%20stellar%20mass%20density%20connection.html" class="backlink-item">SFR and stellar mass density connection</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Schechter%20K-band%20luminosity%20function.html" class="backlink-item">Schechter K-band luminosity function</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Schechter%20function.html" class="backlink-item">Schechter function</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Stellar%20mass%20function.html" class="backlink-item">Stellar mass function</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Stellar-to-halo%20mass%20ratio.html" class="backlink-item">Stellar-to-halo mass ratio</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Tully-Fisher%20relation.html" class="backlink-item">Tully-Fisher relation</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[1Vmax estimator]]
+- [[Cosmic star formation history]]
+- [[Cosmic stellar mass density growth]]
+- [[Differential vs cumulative number counts]]
+- [[Driver 1998 counts by morphology]]
+- [[Fundamental plane of ellipticals]]
+- [[Galaxies_course_intro]]
+- [[Galaxy color, density and morphology]]
+- [[Galaxy counts at different wavelengths]]
+- [[Galaxy main sequence of star formation]]
+- [[Galaxy number counts N(m)]]
+- [[Galaxy size-luminosity relation]]
+- [[Halo gravity suppression of galaxy formation]]
+- [[Halo mass function vs galaxy mass function]]
+- [[Integrals of the Schechter function]]
+- [[LF by morphology and SED]]
+- [[Malmquist bias]]
+- [[Non-parametric galaxy morphology metrics]]
+- [[Photo-z biases and catastrophic outliers]]
+- [[Redshift distribution of flux-limited samples]]
+- [[SFR and stellar mass density connection]]
+- [[Schechter K-band luminosity function]]
+- [[Schechter function]]
+- [[Stellar mass function]]
+- [[Stellar-to-halo mass ratio]]
+- [[Tully-Fisher relation]]
+- [[Observational_Cosmology_MOC]]
+
 

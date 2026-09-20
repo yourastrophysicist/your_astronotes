@@ -41,17 +41,17 @@ ESA's Gaia space astrometry mission measures positions of $> 1.8$ billion stars 
 
 ## see also
 
-- [Exoplanetary_Astrophysics_MOC](../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)
-- [09_Astrometric_Detection_and_Gaia_Capabilities](../../02_Literature/Lectures/Exoplanetary_Astrophysics/09_Astrometric_Detection_and_Gaia_Capabilities.html)
-- [Keplerian radial velocity and Doppler semi-amplitude](Keplerian%20radial%20velocity%20and%20Doppler%20semi-amplitude.html)
-- [High-contrast direct imaging and extreme adaptive optics](High-contrast%20direct%20imaging%20and%20extreme%20adaptive%20optics.html)
+- [[Exoplanetary_Astrophysics_MOC]]
+- [[09_Astrometric_Detection_and_Gaia_Capabilities]]
+- [[Keplerian radial velocity and Doppler semi-amplitude]]
+- [[High-contrast direct imaging and extreme adaptive optics]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Coronagraphy%20and%20angular%20differential%20imaging.html" class="backlink-item">Coronagraphy and angular differential imaging</a></li>
-    <li class="backlink-item-wrap"><a href="High-contrast%20direct%20imaging%20and%20extreme%20adaptive%20optics.html" class="backlink-item">High-contrast direct imaging and extreme adaptive optics</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Coronagraphy and angular differential imaging]]
+- [[High-contrast direct imaging and extreme adaptive optics]]
+- [[Exoplanetary_Astrophysics_MOC]]
+
 

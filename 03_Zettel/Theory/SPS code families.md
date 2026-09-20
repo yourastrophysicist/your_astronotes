@@ -76,17 +76,17 @@ when identical photometric catalogs are fit with different SPS codes:
 
 ## see also
 
-- [Observational_Astrophysics_MOC](../../04_Atlas/Observational_Astrophysics_MOC.html)
-- [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
-- [Stellar population synthesis](Stellar%20population%20synthesis.html)
-- [Single stellar population SSP](Single%20stellar%20population%20SSP.html)
-- [SED fitting basics](SED%20fitting%20basics.html)
-- [Initial mass function](Initial%20mass%20function.html)
-- [Star formation history of a population](Star%20formation%20history%20of%20a%20population.html)
-- [Stellar mass estimation in unresolved populations](Stellar%20mass%20estimation%20in%20unresolved%20populations.html)
-- [Dust attenuation in synthetic populations](Dust%20attenuation%20in%20synthetic%20populations.html)
-- [H-alpha SFR tracer](H-alpha%20SFR%20tracer.html)
-- [UV SFR tracer](UV%20SFR%20tracer.html)
+- [[Observational_Astrophysics_MOC]]
+- [[Stellar_Astrophysics_MOC]]
+- [[Stellar population synthesis]]
+- [[Single stellar population SSP]]
+- [[SED fitting basics]]
+- [[Initial mass function]]
+- [[Star formation history of a population]]
+- [[Stellar mass estimation in unresolved populations]]
+- [[Dust attenuation in synthetic populations]]
+- [[H-alpha SFR tracer]]
+- [[UV SFR tracer]]
 
 ---
 
@@ -110,20 +110,20 @@ when identical photometric catalogs are fit with different SPS codes:
 ![obs_sps-24.png](../../assets/images/obs_sps-24.png)
 *Stellar rotation in models (Geneva tracks) and extended main sequence lifetimes.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (11)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Age-metallicity%20degeneracy.html" class="backlink-item">Age-metallicity degeneracy</a></li>
-    <li class="backlink-item-wrap"><a href="H-alpha%20SFR%20tracer.html" class="backlink-item">H-alpha SFR tracer</a></li>
-    <li class="backlink-item-wrap"><a href="Lick%20indices.html" class="backlink-item">Lick indices</a></li>
-    <li class="backlink-item-wrap"><a href="SED%20fitting%20basics.html" class="backlink-item">SED fitting basics</a></li>
-    <li class="backlink-item-wrap"><a href="SFR%20tracers%20from%20population%20synthesis.html" class="backlink-item">SFR tracers from population synthesis</a></li>
-    <li class="backlink-item-wrap"><a href="Single%20stellar%20population%20SSP.html" class="backlink-item">Single stellar population SSP</a></li>
-    <li class="backlink-item-wrap"><a href="Star%20formation%20history%20of%20a%20population.html" class="backlink-item">Star formation history of a population</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20mass%20estimation%20in%20unresolved%20populations.html" class="backlink-item">Stellar mass estimation in unresolved populations</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20population%20synthesis.html" class="backlink-item">Stellar population synthesis</a></li>
-    <li class="backlink-item-wrap"><a href="Thermal%20continuum%20from%20stellar%20photosphere.html" class="backlink-item">Thermal continuum from stellar photosphere</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Age-metallicity degeneracy]]
+- [[H-alpha SFR tracer]]
+- [[Lick indices]]
+- [[SED fitting basics]]
+- [[SFR tracers from population synthesis]]
+- [[Single stellar population SSP]]
+- [[Star formation history of a population]]
+- [[Stellar mass estimation in unresolved populations]]
+- [[Stellar population synthesis]]
+- [[Thermal continuum from stellar photosphere]]
+- [[Observational_Astrophysics_MOC]]
+
 

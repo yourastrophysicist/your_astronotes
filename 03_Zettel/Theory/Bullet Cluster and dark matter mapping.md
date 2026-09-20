@@ -202,12 +202,12 @@ This limit decisively rules out strongly self-interacting dark matter (SIDM) mod
 
 ## 7. Cross-References and Related Notes
 
-- [MOND](MOND.html) - Milgrom's acceleration phenomenology and deep-MOND regime
-- [Modified gravity alternatives](Modified%20gravity%20alternatives.html) - Relativistic scalar-tensor-vector gravity theories
-- [Coma cluster](Coma%20cluster.html) - Virial theorem and dark matter in relaxed galaxy clusters
-- [Dark matter rotation curves](Dark%20matter%20rotation%20curves.html) - Dark matter halos in spiral galaxies
-- [Dark matter in dwarf galaxies](Dark%20matter%20in%20dwarf%20galaxies.html) - Dwarf spheroidals as dark matter dominated systems
-- [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html) - Master Map of Content for course
+- [[MOND]] - Milgrom's acceleration phenomenology and deep-MOND regime
+- [[Modified gravity alternatives]] - Relativistic scalar-tensor-vector gravity theories
+- [[Coma cluster]] - Virial theorem and dark matter in relaxed galaxy clusters
+- [[Dark matter rotation curves]] - Dark matter halos in spiral galaxies
+- [[Dark matter in dwarf galaxies]] - Dwarf spheroidals as dark matter dominated systems
+- [[Astrophysics_of_Galaxies_MOC]] - Master Map of Content for course
 
 ---
 
@@ -222,12 +222,12 @@ This limit decisively rules out strongly self-interacting dark matter (SIDM) mod
 ![gal_dm-49.png](../../assets/images/gal_dm-49.png)
 *Figure 3 - Comparison between modified gravity predictions and observed gravitational shear.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Coma%20cluster.html" class="backlink-item">Coma cluster</a></li>
-    <li class="backlink-item-wrap"><a href="Modified%20gravity%20alternatives.html" class="backlink-item">Modified gravity alternatives</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Coma cluster]]
+- [[Modified gravity alternatives]]
+- [[Astrophysics_of_Galaxies_MOC]]
+
 

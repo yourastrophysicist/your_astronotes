@@ -5,7 +5,7 @@ title: "Malavolta 03 - Science Frame Correction and Error Propagation"
 # Malavolta 03 — Science Frame Correction and Error Propagation
 
 *Astrophysics Laboratory 2, Prof. Luca Malavolta*  
-*Index: [Astrophysics_Laboratory_2_MOC](../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html)*
+*Index: [[Astrophysics_Laboratory_2_MOC]]*
 
 ---
 
@@ -98,18 +98,18 @@ bjd_tdb = (time_utc.tdb + ltt_bary).jd
 ---
 
 ## Related Notes
-- [Science Frame Calibration and Variance Propagation](../../../03_Zettel/Computational/Science%20Frame%20Calibration%20and%20Variance%20Propagation.html)
-- [Cosmic Ray Rejection via Laplacian Edge Detection](../../../03_Zettel/Computational/Cosmic%20Ray%20Rejection%20via%20Laplacian%20Edge%20Detection.html)
-- [Barycentric Julian Date and Time System Conversions](../../../03_Zettel/Computational/Barycentric%20Julian%20Date%20and%20Time%20System%20Conversions.html)
-- [Laboratory Exercise - Science Frame Reduction and Error Tracking](../../../03_Zettel/Activities/Laboratory%20Exercise%20-%20Science%20Frame%20Reduction%20and%20Error%20Tracking.html)
+- [[Science Frame Calibration and Variance Propagation]]
+- [[Cosmic Ray Rejection via Laplacian Edge Detection]]
+- [[Barycentric Julian Date and Time System Conversions]]
+- [[Laboratory Exercise - Science Frame Reduction and Error Tracking]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Computational/Barycentric%20Julian%20Date%20and%20Time%20System%20Conversions.html" class="backlink-item">Barycentric Julian Date and Time System Conversions</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Computational/Cosmic%20Ray%20Rejection%20via%20Laplacian%20Edge%20Detection.html" class="backlink-item">Cosmic Ray Rejection via Laplacian Edge Detection</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Computational/Science%20Frame%20Calibration%20and%20Variance%20Propagation.html" class="backlink-item">Science Frame Calibration and Variance Propagation</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Barycentric Julian Date and Time System Conversions]]
+- [[Cosmic Ray Rejection via Laplacian Edge Detection]]
+- [[Science Frame Calibration and Variance Propagation]]
+- [[Astrophysics_Laboratory_2_MOC]]
+
 

@@ -5,7 +5,7 @@ title: "Malavolta 07 - Differential Photometry and Atmospheric Detrending"
 # Malavolta 07 — Differential Photometry and Atmospheric Detrending
 
 *Astrophysics Laboratory 2, Prof. Luca Malavolta*  
-*Index: [Astrophysics_Laboratory_2_MOC](../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html)*
+*Index: [[Astrophysics_Laboratory_2_MOC]]*
 
 ---
 
@@ -71,18 +71,18 @@ In practice, the polynomial coefficients $\{c_0, c_1, c_2\}$ are fitted simultan
 ---
 
 ## Related Notes
-- [Differential Photometry and Comparison Star Selection](../../../03_Zettel/Observations/Differential%20Photometry%20and%20Comparison%20Star%20Selection.html)
-- [Airmass and Atmospheric Extinction Correction](../../../03_Zettel/Observations/Airmass%20and%20Atmospheric%20Extinction%20Correction.html)
-- [Laboratory Exercise - Ground-Based Differential Photometry with TASTE](../../../03_Zettel/Activities/Laboratory%20Exercise%20-%20Ground-Based%20Differential%20Photometry%20with%20TASTE.html)
-- [Malavolta 11 - Transit Geometry and Analytical Light Curve Modeling](./Malavolta%2011%20-%20Transit%20Geometry%20and%20Analytical%20Light%20Curve%20Modeling.html)
+- [[Differential Photometry and Comparison Star Selection]]
+- [[Airmass and Atmospheric Extinction Correction]]
+- [[Laboratory Exercise - Ground-Based Differential Photometry with TASTE]]
+- [[Malavolta 11 - Transit Geometry and Analytical Light Curve Modeling]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Activities/Laboratory%20Exercise%20-%20Ground-Based%20Differential%20Photometry%20with%20TASTE.html" class="backlink-item">Laboratory Exercise - Ground-Based Differential Photometry with TASTE</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Observations/Airmass%20and%20Atmospheric%20Extinction%20Correction.html" class="backlink-item">Airmass and Atmospheric Extinction Correction</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Observations/Differential%20Photometry%20and%20Comparison%20Star%20Selection.html" class="backlink-item">Differential Photometry and Comparison Star Selection</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Laboratory Exercise - Ground-Based Differential Photometry with TASTE]]
+- [[Airmass and Atmospheric Extinction Correction]]
+- [[Differential Photometry and Comparison Star Selection]]
+- [[Astrophysics_Laboratory_2_MOC]]
+
 

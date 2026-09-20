@@ -103,11 +103,11 @@ The same physics — Bragg diffraction — is used in **X-ray crystal spectromet
 		used in solar X-ray spectrometers and some lab instruments
 			but not in modern large-area X-ray telescopes (replaced by gratings for spectroscopy)
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="A%20Brief%20History%20of%20X-ray%20and%20Gamma-ray%20Missions.html" class="backlink-item">A Brief History of X-ray and Gamma-ray Missions</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[A Brief History of X-ray and Gamma-ray Missions]]
+- [[Lab_High-Energy_MOC]]
+
 

@@ -4,7 +4,7 @@ title: "Newton divided differences"
 ---
 # Newton divided differences
 
-an algebraically equivalent rewriting of [Lagrange's polynomial](Lagrange%20polynomial%20interpolation.html) that has one practical advantage: I can add a new data point without redoing the whole calculation. instead of $O(N)$ extra work for each new point, only $O(N)$ work *total* and only $O(1)$ when adding one more point at the end.
+an algebraically equivalent rewriting of [[Lagrange polynomial interpolation|Lagrange's polynomial]] that has one practical advantage: I can add a new data point without redoing the whole calculation. instead of $O(N)$ extra work for each new point, only $O(N)$ work *total* and only $O(1)$ when adding one more point at the end.
 
 ## the form
 
@@ -85,7 +85,7 @@ same as Lagrange, since the polynomials are equal:
 
 $$f(x) - N(x) = \frac{f^{(N+1)}(\xi)}{(N+1)!} \prod_{i=0}^N (x - x_i)$$
 
-so the same caveats apply: high-degree polynomial interpolation suffers from [Runge phenomenon](Runge%20phenomenon.html) at equispaced nodes.
+so the same caveats apply: high-degree polynomial interpolation suffers from [[Runge phenomenon]] at equispaced nodes.
 
 ## when to use Newton vs Lagrange
 
@@ -102,20 +102,20 @@ so the same caveats apply: high-degree polynomial interpolation suffers from [Ru
 
 ## see also
 
-- [Lagrange polynomial interpolation](Lagrange%20polynomial%20interpolation.html)
-- [Linear interpolation](Linear%20interpolation.html)
-- [Cubic spline interpolation](Cubic%20spline%20interpolation.html)
-- [Runge phenomenon](Runge%20phenomenon.html)
-- [Bulirsch-Stoer extrapolation](Bulirsch-Stoer%20extrapolation.html)
-- [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
+- [[Lagrange polynomial interpolation]]
+- [[Linear interpolation]]
+- [[Cubic spline interpolation]]
+- [[Runge phenomenon]]
+- [[Bulirsch-Stoer extrapolation]]
+- [[Mathematical_Numerical_Methods_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Cubic%20spline%20interpolation.html" class="backlink-item">Cubic spline interpolation</a></li>
-    <li class="backlink-item-wrap"><a href="Lagrange%20polynomial%20interpolation.html" class="backlink-item">Lagrange polynomial interpolation</a></li>
-    <li class="backlink-item-wrap"><a href="Runge%20phenomenon.html" class="backlink-item">Runge phenomenon</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Cubic spline interpolation]]
+- [[Lagrange polynomial interpolation]]
+- [[Runge phenomenon]]
+- [[Mathematical_Numerical_Methods_MOC]]
+
 

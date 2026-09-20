@@ -23,7 +23,7 @@ For a circular aperture of diameter $D$ at wavelength $\lambda$, the PSF is the 
 $$\text{PSF}(\theta) = \left[\frac{2J_1(\pi D\theta/\lambda)}{\pi D\theta/\lambda}\right]^2$$
 
 Properties:
-	central disk (Airy disk) radius: $\theta_{Airy} = 1.22\lambda/D$ — see [Rayleigh criterion](Rayleigh%20criterion.html)
+	central disk (Airy disk) radius: $\theta_{Airy} = 1.22\lambda/D$ — see [[Rayleigh criterion]]
 	central disk contains $\sim 84\%$ of total energy
 	surrounded by diffraction rings with decreasing intensity
 
@@ -41,7 +41,7 @@ The angular diameter where the PSF drops to half its peak value
 
 ### HPD / HEW (Half Power Diameter / Half Energy Width)
 The angular diameter of the circle that **contains 50% of the total encircled energy**
-	preferred for X-ray telescopes — see [Angular Resolution](Angular%20Resolution.html)
+	preferred for X-ray telescopes — see [[Angular Resolution]]
 	more robust to extended wings and complex PSF shapes than FWHM
 	for Chandra: HPD $\approx 0.5''$; for XMM-Newton: HPD $\approx 14''$
 
@@ -55,7 +55,7 @@ HPD is defined by $EEF(\theta_{HPD}/2) = 0.5$
 
 ## PSF in X-ray telescopes
 
-For [Wolter I](Wolter%20Telescope.html) telescopes, the PSF is **not** set by diffraction
+For [[Wolter Telescope|Wolter I]] telescopes, the PSF is **not** set by diffraction
 	at X-ray wavelengths ($\lambda \sim 0.1$–$10$ nm), the diffraction limit is $\ll 0.01''$ for any reasonable aperture
 		the PSF is dominated entirely by **geometric and manufacturing imperfections**
 
@@ -88,7 +88,7 @@ this is why Chandra (HPD $0.5''$) is ideal for faint sources in crowded fields
 
 ## PSF in gratings and spectroscopy
 
-For [X-ray gratings](X-ray%20diffraction%20grating.html), the PSF of the telescope directly determines the **spectral resolving power**:
+For [[X-ray diffraction grating|X-ray gratings]], the PSF of the telescope directly determines the **spectral resolving power**:
 $$R = \frac{\lambda}{\Delta\lambda} = \frac{\tan\theta}{\Delta\theta}$$
 
 where $\Delta\theta$ comes from the PSF angular width
@@ -114,21 +114,18 @@ where $\Delta\theta$ comes from the PSF angular width
 ![swift_m87_p3_img1.png](../../assets/images/swift_m87_p3_img1.png)
 *M87 X-ray light curve extracted with `xrtgrblc`, showing flux stability and flare search over multiple Swift pointing snapshots.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (12)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Adaptive%20optics%20overview.html" class="backlink-item">Adaptive optics overview</a></li>
-    <li class="backlink-item-wrap"><a href="Angular%20Resolution.html" class="backlink-item">Angular Resolution</a></li>
-    <li class="backlink-item-wrap"><a href="Atmospheric%20dispersion.html" class="backlink-item">Atmospheric dispersion</a></li>
-    <li class="backlink-item-wrap"><a href="Atmospheric%20seeing.html" class="backlink-item">Atmospheric seeing</a></li>
-    <li class="backlink-item-wrap"><a href="PSF%20photometry.html" class="backlink-item">PSF photometry</a></li>
-    <li class="backlink-item-wrap"><a href="Rayleigh%20criterion.html" class="backlink-item">Rayleigh criterion</a></li>
-    <li class="backlink-item-wrap"><a href="Resolved%20vs%20unresolved%20stellar%20populations.html" class="backlink-item">Resolved vs unresolved stellar populations</a></li>
-    <li class="backlink-item-wrap"><a href="Telescope%20resolving%20power.html" class="backlink-item">Telescope resolving power</a></li>
-    <li class="backlink-item-wrap"><a href="interf/Adaptive%20optics%20overview.html" class="backlink-item">Adaptive optics overview</a></li>
-    <li class="backlink-item-wrap"><a href="interf/Atmospheric%20dispersion.html" class="backlink-item">Atmospheric dispersion</a></li>
-    <li class="backlink-item-wrap"><a href="interf/Atmospheric%20seeing.html" class="backlink-item">Atmospheric seeing</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Adaptive optics overview]]
+- [[Angular Resolution]]
+- [[Atmospheric dispersion]]
+- [[Atmospheric seeing]]
+- [[PSF photometry]]
+- [[Rayleigh criterion]]
+- [[Resolved vs unresolved stellar populations]]
+- [[Telescope resolving power]]
+- [[Lab_High-Energy_MOC]]
+
 

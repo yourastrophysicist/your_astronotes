@@ -49,27 +49,27 @@ all states with the same $n$ are degenerate (Coulomb degeneracy, removed only by
 
 - **measuring redshift**: identifying a Balmer series in a galaxy spectrum gives $z$ to many decimal places via $z = \lambda_{\rm obs}/\lambda_{\rm rest} - 1$.
 - **stellar spectral typing**: Balmer line strengths trace temperature directly via Boltzmann + Saha (peaks at A0).
-- **HII region diagnostics**: Balmer + higher series in emission, fluxes give SFR ([H-alpha SFR tracer](H-alpha%20SFR%20tracer.html)) and dust ([Balmer decrement](Balmer%20decrement.html)).
+- **HII region diagnostics**: Balmer + higher series in emission, fluxes give SFR ([[H-alpha SFR tracer]]) and dust ([[Balmer decrement]]).
 - **He II $\lambda 4686$**: hydrogenic He$^+$ Brackett line at optical, signature of very hot ionising sources (O stars, WN stars, AGN).
 - **radio recombination lines** (RRLs): high-$n$ transitions, e.g. H$110\alpha$ at $\sim 5$ GHz, used by ALMA / VLA to probe HII region kinematics.
 
 ## see also
 
-- [Hydrogen spectral series](Hydrogen%20spectral%20series.html)
+- [[Hydrogen spectral series]]
 - Energy level diagrams Grötrian
-- [Helium energy levels](Helium%20energy%20levels.html)
-- [Selection rules](Selection%20rules.html)
-- [Balmer decrement](Balmer%20decrement.html)
-- [H-alpha SFR tracer](H-alpha%20SFR%20tracer.html)
-- [Optically thin recombination lines](Optically%20thin%20recombination%20lines.html)
-- [Photon decoupling and CMB](Photon%20decoupling%20and%20CMB.html) — Lyman recombination at cosmological scale
+- [[Helium energy levels]]
+- [[Selection rules]]
+- [[Balmer decrement]]
+- [[H-alpha SFR tracer]]
+- [[Optically thin recombination lines]]
+- [[Photon decoupling and CMB]] — Lyman recombination at cosmological scale
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Energy%20level%20diagrams%20Grotrian.html" class="backlink-item">Energy level diagrams Grotrian</a></li>
-    <li class="backlink-item-wrap"><a href="Hydrogen%20spectral%20series.html" class="backlink-item">Hydrogen spectral series</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Energy level diagrams Grotrian]]
+- [[Hydrogen spectral series]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 

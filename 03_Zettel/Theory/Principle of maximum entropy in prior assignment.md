@@ -47,16 +47,16 @@ $$p^*(x) = \frac{1}{\sqrt{2\pi\sigma^2}} \exp\left[ -\frac{(x-\mu)^2}{2\sigma^2}
 The Gaussian distribution is the unique maximum entropy distribution for any process with specified mean and finite variance, explaining why observational noise in astronomy is so universally Gaussian.
 
 ## See Also
-- [Astro-Statistics_and_Cosmology_MOC](../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html)
-- [10_Prior_Assignment_Transformation_Invariance_and_Maximum_Entropy](../../02_Literature/Lectures/Astrostatistics/10_Prior_Assignment_Transformation_Invariance_and_Maximum_Entropy.html)
-- [Transformation group invariance and Jeffreys prior](Transformation%20group%20invariance%20and%20Jeffreys%20prior.html)
-- [Multivariate Gaussian conditioning and marginalization](Multivariate%20Gaussian%20conditioning%20and%20marginalization.html)
+- [[Astro-Statistics_and_Cosmology_MOC]]
+- [[10_Prior_Assignment_Transformation_Invariance_and_Maximum_Entropy]]
+- [[Transformation group invariance and Jeffreys prior]]
+- [[Multivariate Gaussian conditioning and marginalization]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Transformation%20group%20invariance%20and%20Jeffreys%20prior.html" class="backlink-item">Transformation group invariance and Jeffreys prior</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Transformation group invariance and Jeffreys prior]]
+- [[Astro-Statistics_and_Cosmology_MOC]]
+
 

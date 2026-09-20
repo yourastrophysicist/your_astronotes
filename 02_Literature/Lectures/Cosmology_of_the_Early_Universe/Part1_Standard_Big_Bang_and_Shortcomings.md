@@ -6,7 +6,7 @@ title: "Part1_Standard_Big_Bang_and_Shortcomings"
 
 *Lectures 1 to 8 notes synthesis - Prof. Nicola Bartolo*  
 *Cosmology of the Early Universe - Università degli Studi di Padova*  
-*Index: [Cosmology_of_the_Early_Universe_MOC](../../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html)*  
+*Index: [[Cosmology_of_the_Early_Universe_MOC]]*  
 
 ---
 
@@ -167,20 +167,20 @@ For $N \approx 60$, the density drops by $e^{-180} \sim 10^{-78}$, leaving less 
 ## Connections and vault links
 
 * Companion zettels:
-  - [Horizon problem and causal structure](../../../03_Zettel/Theory/Horizon%20problem%20and%20causal%20structure.html)
-  - [Flatness problem and dynamical attractor](../../../03_Zettel/Theory/Flatness%20problem%20and%20dynamical%20attractor.html)
-  - [Cosmic relics and Kibble mechanism](../../../03_Zettel/Theory/Cosmic%20relics%20and%20Kibble%20mechanism.html)
-  - [Cosmological inflation](../../../03_Zettel/Theory/Cosmological%20inflation.html)
-* Next module: [Part2_Inflation_Kinematics_Dynamics_and_Models](./Part2_Inflation_Kinematics_Dynamics_and_Models.html)
-* Atlas: [Cosmology_of_the_Early_Universe_MOC](../../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html)
+  - [[Horizon problem and causal structure]]
+  - [[Flatness problem and dynamical attractor]]
+  - [[Cosmic relics and Kibble mechanism]]
+  - [[Cosmological inflation]]
+* Next module: [[Part2_Inflation_Kinematics_Dynamics_and_Models]]
+* Atlas: [[Cosmology_of_the_Early_Universe_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Cosmic%20relics%20and%20Kibble%20mechanism.html" class="backlink-item">Cosmic relics and Kibble mechanism</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Flatness%20problem%20and%20dynamical%20attractor.html" class="backlink-item">Flatness problem and dynamical attractor</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Horizon%20problem%20and%20causal%20structure.html" class="backlink-item">Horizon problem and causal structure</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html" class="backlink-item">Cosmology_of_the_Early_Universe_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Cosmic relics and Kibble mechanism]]
+- [[Flatness problem and dynamical attractor]]
+- [[Horizon problem and causal structure]]
+- [[Cosmology_of_the_Early_Universe_MOC]]
+
 

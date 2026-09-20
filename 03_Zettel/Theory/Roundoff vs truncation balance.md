@@ -90,22 +90,22 @@ these are the conventional defaults in `scipy.optimize.approx_fprime` and `scipy
 
 ## see also
 
-- [Floating point representation and rounding errors](Floating%20point%20representation%20and%20rounding%20errors.html)
-- [Truncation error and order of accuracy](Truncation%20error%20and%20order%20of%20accuracy.html)
-- [Forward backward and central differences](Forward%20backward%20and%20central%20differences.html)
-- [Optimal step size for derivatives](Optimal%20step%20size%20for%20derivatives.html)
-- [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
+- [[Floating point representation and rounding errors]]
+- [[Truncation error and order of accuracy]]
+- [[Forward backward and central differences]]
+- [[Optimal step size for derivatives]]
+- [[Mathematical_Numerical_Methods_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Floating%20point%20representation%20and%20rounding%20errors.html" class="backlink-item">Floating point representation and rounding errors</a></li>
-    <li class="backlink-item-wrap"><a href="Forward%20backward%20and%20central%20differences.html" class="backlink-item">Forward backward and central differences</a></li>
-    <li class="backlink-item-wrap"><a href="Optimal%20step%20size%20for%20derivatives.html" class="backlink-item">Optimal step size for derivatives</a></li>
-    <li class="backlink-item-wrap"><a href="Partial%20numerical%20derivatives.html" class="backlink-item">Partial numerical derivatives</a></li>
-    <li class="backlink-item-wrap"><a href="Second%20derivatives.html" class="backlink-item">Second derivatives</a></li>
-    <li class="backlink-item-wrap"><a href="Truncation%20error%20and%20order%20of%20accuracy.html" class="backlink-item">Truncation error and order of accuracy</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Floating point representation and rounding errors]]
+- [[Forward backward and central differences]]
+- [[Optimal step size for derivatives]]
+- [[Partial numerical derivatives]]
+- [[Second derivatives]]
+- [[Truncation error and order of accuracy]]
+- [[Mathematical_Numerical_Methods_MOC]]
+
 

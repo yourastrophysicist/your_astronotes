@@ -45,7 +45,7 @@ VLA/MERLIN imaging at cm wavelengths reveals the *internal structure* of PWNe â€
 
 ## pulsar timing arrays
 
-a *galactic-scale* interferometer made from precise pulsar timing. detects low-frequency gravitational waves at nHz frequencies. see [Pulsar timing arrays as interferometers](interf/Pulsar%20timing%20arrays%20as%20interferometers.html).
+a *galactic-scale* interferometer made from precise pulsar timing. detects low-frequency gravitational waves at nHz frequencies. see [[Pulsar timing arrays as interferometers]].
 
 key arrays:
 - **NANOGrav**: ~67 pulsars, 15-year dataset
@@ -109,7 +109,7 @@ these will:
 
 ## see also
 
-- [Major radio interferometers](interf/Major%20radio%20interferometers.html)
-- [Very Long Baseline Interferometry VLBI](interf/Very%20Long%20Baseline%20Interferometry%20VLBI.html)
-- [Pulsar timing arrays as interferometers](interf/Pulsar%20timing%20arrays%20as%20interferometers.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Major radio interferometers]]
+- [[Very Long Baseline Interferometry VLBI]]
+- [[Pulsar timing arrays as interferometers]]
+- [[Astronomical_Interferometry_MOC]]

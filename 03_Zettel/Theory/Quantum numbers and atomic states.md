@@ -46,7 +46,7 @@ most astronomical spectra use LS notation; jj is reserved for the heaviest eleme
 
 in LS coupling, the state of an atom with multiple electrons is fully described by $L, S, J$. each $(L, S)$ pair is called a **term**, and is split into $J$-sublevels by spin-orbit coupling. notation:
 $$n^{(2S+1)}L_J^{p}$$
-read as "principal $n$, multiplicity $2S+1$, term letter $L$, sublevel $J$, parity $p$" (see [Atomic term symbols](Atomic%20term%20symbols.html)).
+read as "principal $n$, multiplicity $2S+1$, term letter $L$, sublevel $J$, parity $p$" (see [[Atomic term symbols]]).
 
 ## examples
 
@@ -57,15 +57,15 @@ read as "principal $n$, multiplicity $2S+1$, term letter $L$, sublevel $J$, pari
 
 ## see also
 
-- [Russell-Saunders LS coupling](Russell-Saunders%20LS%20coupling.html)
-- [jj coupling](jj%20coupling.html)
-- [Atomic term symbols](Atomic%20term%20symbols.html)
-- [Hund's rules](Hund%27s%20rules.html)
-- [Selection rules](Selection%20rules.html)
-- [Statistical weight g](Statistical%20weight%20g.html)
-- [Pauli principle and electron configurations](Pauli%20principle%20and%20electron%20configurations.html)
-- [Hydrogen spectral series](Hydrogen%20spectral%20series.html)
-- [Helium energy levels](Helium%20energy%20levels.html)
+- [[Russell-Saunders LS coupling]]
+- [[jj coupling]]
+- [[Atomic term symbols]]
+- [[Hund's rules]]
+- [[Selection rules]]
+- [[Statistical weight g]]
+- [[Pauli principle and electron configurations]]
+- [[Hydrogen spectral series]]
+- [[Helium energy levels]]
 
 ---
 
@@ -78,21 +78,21 @@ read as "principal $n$, multiplicity $2S+1$, term letter $L$, sublevel $J$, pari
 ![spec_theory_p28.png](../../assets/images/spec_theory_p28.png)
 *Grotrian energy level diagram of neutral and singly-ionized atoms, illustrating allowed electric dipole (E1) transitions.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (12)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Atomic%20term%20symbols.html" class="backlink-item">Atomic term symbols</a></li>
-    <li class="backlink-item-wrap"><a href="Energy%20level%20diagrams%20Grotrian.html" class="backlink-item">Energy level diagrams Grotrian</a></li>
-    <li class="backlink-item-wrap"><a href="Equivalent%20vs%20nonequivalent%20electrons.html" class="backlink-item">Equivalent vs nonequivalent electrons</a></li>
-    <li class="backlink-item-wrap"><a href="Helium%20energy%20levels.html" class="backlink-item">Helium energy levels</a></li>
-    <li class="backlink-item-wrap"><a href="Hund%27s%20rules.html" class="backlink-item">Hund's rules</a></li>
-    <li class="backlink-item-wrap"><a href="Pauli%20principle%20and%20electron%20configurations.html" class="backlink-item">Pauli principle and electron configurations</a></li>
-    <li class="backlink-item-wrap"><a href="Russell-Saunders%20LS%20coupling.html" class="backlink-item">Russell-Saunders LS coupling</a></li>
-    <li class="backlink-item-wrap"><a href="Selection%20rules.html" class="backlink-item">Selection rules</a></li>
-    <li class="backlink-item-wrap"><a href="Sodium%20and%20alkalis.html" class="backlink-item">Sodium and alkalis</a></li>
-    <li class="backlink-item-wrap"><a href="Statistical%20weight%20g.html" class="backlink-item">Statistical weight g</a></li>
-    <li class="backlink-item-wrap"><a href="jj%20coupling.html" class="backlink-item">jj coupling</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Atomic term symbols]]
+- [[Energy level diagrams Grotrian]]
+- [[Equivalent vs nonequivalent electrons]]
+- [[Helium energy levels]]
+- [[Hund's rules]]
+- [[Pauli principle and electron configurations]]
+- [[Russell-Saunders LS coupling]]
+- [[Selection rules]]
+- [[Sodium and alkalis]]
+- [[Statistical weight g]]
+- [[jj coupling]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 

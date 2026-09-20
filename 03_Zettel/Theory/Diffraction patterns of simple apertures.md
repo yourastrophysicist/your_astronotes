@@ -89,7 +89,7 @@ $$I(\theta) \propto \left[\frac{2 J_1(\pi D \theta/\lambda)}{\pi D \theta/\lambd
 
 each Airy disk modulated by cosine fringes. fringe spacing: $\lambda/B$. envelope: Airy disk of single subaperture, scale $\lambda/D$. so the field of view (where fringes are visible) is set by $D$, the resolution within that field of view by $B$.
 
-this is the prototype for [Michelson stellar interferometer](interf/Michelson%20stellar%20interferometer.html).
+this is the prototype for [[Michelson stellar interferometer]].
 
 ## sparse aperture array
 
@@ -102,7 +102,7 @@ $$I(\mathbf u) \propto \lvert \tilde A_{\rm sub}\rvert^2 \cdot \left\lvert\sum_i
 
 the second factor is a function of the **array geometry**. its peaks are at the spatial frequencies $\mathbf u$ such that all sub-apertures interfere constructively. these peaks form the **(u, v) coverage** of the array.
 
-this is the foundation of [Aperture synthesis principle](interf/Aperture%20synthesis%20principle.html).
+this is the foundation of [[Aperture synthesis principle]].
 
 ## what to remember
 
@@ -125,8 +125,8 @@ source: local plot generated from the Airy-pattern Bessel formula.
 
 ## see also
 
-- [Fraunhofer diffraction](interf/Fraunhofer%20diffraction.html)
-- [Point spread function](interf/Point%20spread%20function.html)
-- [Optical transfer function](interf/Optical%20transfer%20function.html)
-- [Aperture synthesis principle](interf/Aperture%20synthesis%20principle.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Fraunhofer diffraction]]
+- [[Point spread function]]
+- [[Optical transfer function]]
+- [[Aperture synthesis principle]]
+- [[Astronomical_Interferometry_MOC]]

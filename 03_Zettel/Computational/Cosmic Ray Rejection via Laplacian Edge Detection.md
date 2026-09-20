@@ -23,14 +23,14 @@ $$\mathcal{S}(x, y) = \frac{\nabla^2 I(x, y)}{\sigma_{\text{noise}}(x, y)}$$
 5. Flagged pixels are replaced by the median of surrounding clean neighbors.
 
 ## Related Notes
-- [Malavolta 03 - Science Frame Correction and Error Propagation](../../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2003%20-%20Science%20Frame%20Correction%20and%20Error%20Propagation.html)
-- [Science Frame Calibration and Variance Propagation](Science%20Frame%20Calibration%20and%20Variance%20Propagation.html)
+- [[Malavolta 03 - Science Frame Correction and Error Propagation]]
+- [[Science Frame Calibration and Variance Propagation]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Activities/Laboratory%20Exercise%20-%20Science%20Frame%20Reduction%20and%20Error%20Tracking.html" class="backlink-item">Laboratory Exercise - Science Frame Reduction and Error Tracking</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Laboratory Exercise - Science Frame Reduction and Error Tracking]]
+- [[Astrophysics_Laboratory_2_MOC]]
+
 

@@ -115,8 +115,8 @@ these will dwarf current CEIs in sensitivity and survey speed.
 
 ## see also
 
-- [Radio interferometer architecture](interf/Radio%20interferometer%20architecture.html)
-- [Very Long Baseline Interferometry VLBI](interf/Very%20Long%20Baseline%20Interferometry%20VLBI.html)
-- [Earth rotation synthesis in radio](interf/Earth%20rotation%20synthesis%20in%20radio.html)
-- [Major radio interferometers](interf/Major%20radio%20interferometers.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Radio interferometer architecture]]
+- [[Very Long Baseline Interferometry VLBI]]
+- [[Earth rotation synthesis in radio]]
+- [[Major radio interferometers]]
+- [[Astronomical_Interferometry_MOC]]

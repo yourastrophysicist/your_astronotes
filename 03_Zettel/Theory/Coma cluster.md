@@ -219,12 +219,12 @@ Because galaxy clusters are the largest gravitationally collapsed structures in 
 
 ## 7. Cross-References and Related Notes
 
-- [Virgo cluster](Virgo%20cluster.html) - Nearest irregular galaxy cluster and sub-cluster infall
-- [Bullet Cluster and dark matter mapping](Bullet%20Cluster%20and%20dark%20matter%20mapping.html) - Direct proof of dark matter from colliding clusters
-- [Dark matter in elliptical galaxies](Dark%20matter%20in%20elliptical%20galaxies.html) - X-ray hydrostatic equilibrium in individual galaxies
-- [Local Group galaxies](Local%20Group%20galaxies.html) - Local Group dynamics and Kahn-Woltjer timing argument
-- [Galaxy color, density and morphology](Galaxy%20color%2C%20density%20and%20morphology.html) - Dressler morphology-density relation in clusters
-- [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html) - Master Map of Content for course
+- [[Virgo cluster]] - Nearest irregular galaxy cluster and sub-cluster infall
+- [[Bullet Cluster and dark matter mapping]] - Direct proof of dark matter from colliding clusters
+- [[Dark matter in elliptical galaxies]] - X-ray hydrostatic equilibrium in individual galaxies
+- [[Local Group galaxies]] - Local Group dynamics and Kahn-Woltjer timing argument
+- [[Galaxy color, density and morphology]] - Dressler morphology-density relation in clusters
+- [[Astrophysics_of_Galaxies_MOC]] - Master Map of Content for course
 
 ---
 
@@ -239,13 +239,13 @@ Because galaxy clusters are the largest gravitationally collapsed structures in 
 ![gal_lg-35.png](../../assets/images/gal_lg-35.png)
 *Figure 3 - Velocity distribution of Coma galaxies and Zwicky's 1933 virial theorem mass evaluation.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Bullet%20Cluster%20and%20dark%20matter%20mapping.html" class="backlink-item">Bullet Cluster and dark matter mapping</a></li>
-    <li class="backlink-item-wrap"><a href="Local%20Group%20galaxies.html" class="backlink-item">Local Group galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="Virgo%20cluster.html" class="backlink-item">Virgo cluster</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Bullet Cluster and dark matter mapping]]
+- [[Local Group galaxies]]
+- [[Virgo cluster]]
+- [[Astrophysics_of_Galaxies_MOC]]
+
 

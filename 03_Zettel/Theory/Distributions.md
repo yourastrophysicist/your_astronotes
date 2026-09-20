@@ -89,11 +89,11 @@ the statistical noise is a **smaller fraction** of the signal for bright sources
 At large $\lambda$, the Poisson distribution **approaches the Gaussian**
 	so $\sigma_i^2 \approx \lambda \approx D_i$ (the measured counts)
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Astrostatistics.html" class="backlink-item">Astrostatistics</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Astrostatistics]]
+- [[Lab_High-Energy_MOC]]
+
 

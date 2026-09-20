@@ -65,12 +65,12 @@ if confirmed: a **direct probe** of physics beyond the Standard Model (e.g. dark
 
 ## see also
 
-- [Brief thermal history](Brief%20thermal%20history.html)
-- [Transition epochs](Transition%20epochs.html)
-- [Big Bang nucleosynthesis](Big%20Bang%20nucleosynthesis.html)
-- [Inflation overview](Inflation%20overview.html)
-- [Cosmological inflation](Cosmological%20inflation.html)
-- [Decoupling](Decoupling.html)
-- [Baryogenesis](Baryogenesis.html)
-- [Standard model problems](Standard%20model%20problems.html)
-- [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
+- [[Brief thermal history]]
+- [[Transition epochs]]
+- [[Big Bang nucleosynthesis]]
+- [[Inflation overview]]
+- [[Cosmological inflation]]
+- [[Decoupling]]
+- [[Baryogenesis]]
+- [[Standard model problems]]
+- [[Observational_Cosmology_MOC]]

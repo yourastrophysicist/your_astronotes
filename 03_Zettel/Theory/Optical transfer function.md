@@ -42,5 +42,5 @@ In single-dish astronomy, the OTF is a continuous, smoothly declining function o
 
 ## connections & zettel links
 
-* parent moc: [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-* related zettels: [Point spread function](interf/Point%20spread%20function.html), [Abbe experiment and Fourier optics](interf/Abbe%20experiment%20and%20Fourier%20optics.html), [Aperture synthesis principle](interf/Aperture%20synthesis%20principle.html)
+* parent moc: [[Astronomical_Interferometry_MOC]]
+* related zettels: [[Point spread function]], [[Abbe experiment and Fourier optics]], [[Aperture synthesis principle]]

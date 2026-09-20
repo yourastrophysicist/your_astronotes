@@ -99,8 +99,8 @@ useful for computing angular distance between two points whose angular position 
 ## why this is the only toolkit I need
 
 every later operation in spherical astronomy reduces to one of these:
-- **alt-azimuth ↔ equatorial**: a single rotation by $\chi = 90° - \phi$, see [Alt-azimuth ↔ equatorial transformations](Alt-azimuth%20%E2%86%94%20equatorial%20transformations.html)
-- **distance between two points on Earth**: spherical cosine rule, see [Earth coordinates](Earth%20coordinates.html)
+- **alt-azimuth ↔ equatorial**: a single rotation by $\chi = 90° - \phi$, see [[Alt-azimuth ↔ equatorial transformations]]
+- **distance between two points on Earth**: spherical cosine rule, see [[Earth coordinates]]
 - **rise and set conditions**: the third master equation evaluated at $a = 0$, see Culmination and rise/set
 - **culmination height**: the third master equation evaluated at $h = 0$ or $h = 12$h
 
@@ -110,11 +110,11 @@ so once I know the three master equations and the sine rule, everything else is 
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Spherical_astronomy_complete](Spherical_astronomy_complete.html) — comprehensive narrative
-- [Celestial sphere and great circles](Celestial%20sphere%20and%20great%20circles.html)
-- [Earth coordinates](Earth%20coordinates.html)
-- [Alt-azimuth ↔ equatorial transformations](Alt-azimuth%20%E2%86%94%20equatorial%20transformations.html)
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Spherical_astronomy_complete]] — comprehensive narrative
+- [[Celestial sphere and great circles]]
+- [[Earth coordinates]]
+- [[Alt-azimuth ↔ equatorial transformations]]
 
 ---
 
@@ -138,17 +138,17 @@ so once I know the three master equations and the sine rule, everything else is 
 ![obs_sph1-10.png](../../assets/images/obs_sph1-10.png)
 *Working rotation equations for transformation between spherical frames.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (8)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Alt-azimuth%20equatorial%20transformations.html" class="backlink-item">Alt-azimuth equatorial transformations</a></li>
-    <li class="backlink-item-wrap"><a href="Alt-azimuth%20%E2%86%94%20equatorial%20transformations.html" class="backlink-item">Alt-azimuth ↔ equatorial transformations</a></li>
-    <li class="backlink-item-wrap"><a href="Celestial%20sphere%20and%20great%20circles.html" class="backlink-item">Celestial sphere and great circles</a></li>
-    <li class="backlink-item-wrap"><a href="Earth%20coordinates.html" class="backlink-item">Earth coordinates</a></li>
-    <li class="backlink-item-wrap"><a href="Ecliptic%20system.html" class="backlink-item">Ecliptic system</a></li>
-    <li class="backlink-item-wrap"><a href="Precession%20nutation%20aberration%20parallax.html" class="backlink-item">Precession nutation aberration parallax</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Alt-azimuth equatorial transformations]]
+- [[Alt-azimuth ↔ equatorial transformations]]
+- [[Celestial sphere and great circles]]
+- [[Earth coordinates]]
+- [[Ecliptic system]]
+- [[Precession nutation aberration parallax]]
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Observational_Astrophysics_MOC]]
+
 

@@ -2,7 +2,7 @@
 layout: "default"
 title: "Binary stars in CMD"
 ---
-unresolved binaries are one of the most useful "contaminants" of a cluster [Color-magnitude diagrams of clusters](Color-magnitude%20diagrams%20of%20clusters.html). when two stars share a single PSF in our images, we measure the combined flux and assign it to a single point in the [HR diagram](HR%20diagram.html). the result is a systematic shift upward (brighter) and slightly redward, depending on the mass ratio $q = M_2/M_1$.
+unresolved binaries are one of the most useful "contaminants" of a cluster [[Color-magnitude diagrams of clusters]]. when two stars share a single PSF in our images, we measure the combined flux and assign it to a single point in the [[HR diagram]]. the result is a systematic shift upward (brighter) and slightly redward, depending on the mass ratio $q = M_2/M_1$.
 
 the cleanest case is the equal-mass binary, $q = 1$. two identical main-sequence stars contribute the same flux, so the total is exactly twice the single-star flux. in magnitudes,
 
@@ -16,9 +16,9 @@ if we model the magnitude offset for an unresolved pair of MS stars,
 
 $$m_{\text{tot}} = -2.5 \log_{10}\!\left(10^{-0.4 m_1} + 10^{-0.4 m_2}\right),$$
 
-we can build synthetic CMDs by sampling pairs from an assumed [Stellar mass function](Stellar%20mass%20function.html) (often the [IMF](Salpeter%20Kroupa%20Chabrier%20IMFs.html)) plus a $q$ distribution. the comparison to observations gives the [binary fraction](Cluster%20binary%20fraction%20methods.html) $f_b$.
+we can build synthetic CMDs by sampling pairs from an assumed [[Stellar mass function]] (often the [[Salpeter Kroupa Chabrier IMFs|IMF]]) plus a $q$ distribution. the comparison to observations gives the [[Cluster binary fraction methods|binary fraction]] $f_b$.
 
-the same trick works for higher multiples. triples and quadruples shift even further above the MS, but they are rare and dynamically unstable in [Globular Clusters](Globular%20Clusters.html). most "binary ridge" stars are genuine bound pairs, although a small fraction can be chance superpositions in dense cluster fields (mitigated with HST proper motions and high-resolution imaging).
+the same trick works for higher multiples. triples and quadruples shift even further above the MS, but they are rare and dynamically unstable in [[Globular Clusters]]. most "binary ridge" stars are genuine bound pairs, although a small fraction can be chance superpositions in dense cluster fields (mitigated with HST proper motions and high-resolution imaging).
 
 ## binary fraction measurements
 
@@ -31,12 +31,12 @@ the same trick works for higher multiples. triples and quadruples shift even fur
 - **Bedin et al. 2008, 2009** — high binary fraction in NGC 6791 and its impact on the WDCS.
 
 ## see also
-- [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
-- [Cluster binary fraction methods](Cluster%20binary%20fraction%20methods.html)
-- [Color-magnitude diagrams of clusters](Color-magnitude%20diagrams%20of%20clusters.html)
-- [Binary star orbits](interf/Binary%20star%20orbits.html)
-- [Single stellar population SSP](Single%20stellar%20population%20SSP.html)
-- [White dwarf cooling sequence on the CMD](White%20dwarf%20cooling%20sequence%20on%20the%20CMD.html)
+- [[Stellar_Astrophysics_MOC]]
+- [[Cluster binary fraction methods]]
+- [[Color-magnitude diagrams of clusters]]
+- [[Binary star orbits]]
+- [[Single stellar population SSP]]
+- [[White dwarf cooling sequence on the CMD]]
 
 ---
 
@@ -133,13 +133,13 @@ The following slides from Prof. Antonino Milone's lecture series provide the dir
 ![Lecture11_p5-05.png](../../assets/images/Lecture11_p5-05.png)
 *Figure P11-29: Lecture11_p5-05.png — Observational data, CMD morphology, and diagnostics from Lecture 11 — Binaries in Star Clusters.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Cluster%20binary%20fraction%20methods.html" class="backlink-item">Cluster binary fraction methods</a></li>
-    <li class="backlink-item-wrap"><a href="Initial%20vs%20present-day%20mass%20function.html" class="backlink-item">Initial vs present-day mass function</a></li>
-    <li class="backlink-item-wrap"><a href="White%20dwarf%20cooling%20sequence%20on%20the%20CMD.html" class="backlink-item">White dwarf cooling sequence on the CMD</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Cluster binary fraction methods]]
+- [[Initial vs present-day mass function]]
+- [[White dwarf cooling sequence on the CMD]]
+- [[Stellar_Astrophysics_MOC]]
+
 

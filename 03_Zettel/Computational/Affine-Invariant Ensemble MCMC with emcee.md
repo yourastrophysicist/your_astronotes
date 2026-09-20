@@ -19,21 +19,21 @@ $$\alpha = \min\left( 1, Z^{N-1} \frac{p(\boldsymbol{X}_k')}{p(\boldsymbol{X}_k)
 Because the proposal moves along vectors defined by the walker distribution itself, the sampler automatically adapts to narrow, elongated parameter correlations without requiring proposal tuning.
 
 ## Related Notes
-- [Goodman-Weare Affine Invariant Ensemble Sampler](../Theory/Goodman-Weare%20Affine%20Invariant%20Ensemble%20Sampler.html)
-- [Metropolis-Hastings Algorithm](../Theory/Metropolis-Hastings%20Algorithm.html)
-- [MCMC Convergence Diagnostics and Autocorrelation Analysis](MCMC%20Convergence%20Diagnostics%20and%20Autocorrelation%20Analysis.html)
+- [[Goodman-Weare Affine Invariant Ensemble Sampler]]
+- [[Metropolis-Hastings Algorithm]]
+- [[MCMC Convergence Diagnostics and Autocorrelation Analysis]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (8)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Activities/Laboratory%20Exercise%20-%20Joint%20Transit%20Modeling%20and%20MCMC%20Analysis.html" class="backlink-item">Laboratory Exercise - Joint Transit Modeling and MCMC Analysis</a></li>
-    <li class="backlink-item-wrap"><a href="MCMC%20Convergence%20Diagnostics%20and%20Autocorrelation%20Analysis.html" class="backlink-item">MCMC Convergence Diagnostics and Autocorrelation Analysis</a></li>
-    <li class="backlink-item-wrap"><a href="Marginalized%20Posterior%20Distributions%20and%20Corner%20Plots.html" class="backlink-item">Marginalized Posterior Distributions and Corner Plots</a></li>
-    <li class="backlink-item-wrap"><a href="Nested%20sampling%20algorithm%20and%20Bayesian%20evidence%20computation.html" class="backlink-item">Nested sampling algorithm and Bayesian evidence computation</a></li>
-    <li class="backlink-item-wrap"><a href="../Theory/Goodman-Weare%20Affine%20Invariant%20Ensemble%20Sampler.html" class="backlink-item">Goodman-Weare Affine Invariant Ensemble Sampler</a></li>
-    <li class="backlink-item-wrap"><a href="../Theory/Metropolis-Hastings%20Algorithm.html" class="backlink-item">Metropolis-Hastings Algorithm</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Laboratory Exercise - Joint Transit Modeling and MCMC Analysis]]
+- [[MCMC Convergence Diagnostics and Autocorrelation Analysis]]
+- [[Marginalized Posterior Distributions and Corner Plots]]
+- [[Nested sampling algorithm and Bayesian evidence computation]]
+- [[Goodman-Weare Affine Invariant Ensemble Sampler]]
+- [[Metropolis-Hastings Algorithm]]
+- [[Astrophysics_Laboratory_2_MOC]]
+- [[Computational_Astrophysics_MOC]]
+
 

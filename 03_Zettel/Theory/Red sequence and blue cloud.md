@@ -126,26 +126,26 @@ When asked by Prof. Pizzella - *"Describe the color bimodality of galaxies, the 
 
 ## 8. Related Knowledge Base Notes
 
-- [Color bimodality of galaxies](Color%20bimodality%20of%20galaxies.html) - Comprehensive statistical decomposition and luminosity functions of the two families.
-- [Green valley and quenching tracks](Green%20valley%20and%20quenching%20tracks.html) - Evolutionary paths and physical mechanisms driving galaxies across the valley.
-- [Galaxy color, density and morphology](Galaxy%20color%2C%20density%20and%20morphology.html) - Dressler morphology-density relation and environmental quenching in clusters.
-- [SDSS overview](SDSS%20overview.html) - Technical design and photometric filters of the Sloan Digital Sky Survey.
-- [Faber-Jackson relation](Faber-Jackson%20relation.html) - Dynamical scaling relation for red sequence early-type galaxies.
+- [[Color bimodality of galaxies]] - Comprehensive statistical decomposition and luminosity functions of the two families.
+- [[Green valley and quenching tracks]] - Evolutionary paths and physical mechanisms driving galaxies across the valley.
+- [[Galaxy color, density and morphology]] - Dressler morphology-density relation and environmental quenching in clusters.
+- [[SDSS overview]] - Technical design and photometric filters of the Sloan Digital Sky Survey.
+- [[Faber-Jackson relation]] - Dynamical scaling relation for red sequence early-type galaxies.
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (11)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Color%20bimodality%20of%20galaxies.html" class="backlink-item">Color bimodality of galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="Color%20indices.html" class="backlink-item">Color indices</a></li>
-    <li class="backlink-item-wrap"><a href="Eigenspectra%20and%20spectral%20types.html" class="backlink-item">Eigenspectra and spectral types</a></li>
-    <li class="backlink-item-wrap"><a href="Galaxy%20color%2C%20density%20and%20morphology.html" class="backlink-item">Galaxy color, density and morphology</a></li>
-    <li class="backlink-item-wrap"><a href="Galaxy%20main%20sequence%20of%20star%20formation.html" class="backlink-item">Galaxy main sequence of star formation</a></li>
-    <li class="backlink-item-wrap"><a href="Green%20valley%20and%20quenching%20tracks.html" class="backlink-item">Green valley and quenching tracks</a></li>
-    <li class="backlink-item-wrap"><a href="PCA%20spectral%20classification%20of%20galaxies.html" class="backlink-item">PCA spectral classification of galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="Post-starburst%20galaxies.html" class="backlink-item">Post-starburst galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="Quenching%20and%20passive%20galaxies%20at%20high%20z.html" class="backlink-item">Quenching and passive galaxies at high z</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Color bimodality of galaxies]]
+- [[Color indices]]
+- [[Eigenspectra and spectral types]]
+- [[Galaxy color, density and morphology]]
+- [[Galaxy main sequence of star formation]]
+- [[Green valley and quenching tracks]]
+- [[PCA spectral classification of galaxies]]
+- [[Post-starburst galaxies]]
+- [[Quenching and passive galaxies at high z]]
+- [[Astrophysics_of_Galaxies_MOC]]
+- [[Observational_Cosmology_MOC]]
+
 

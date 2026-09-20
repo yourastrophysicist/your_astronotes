@@ -93,20 +93,20 @@ the Pythagorean three-body problem of the exam template is squarely **collisiona
 
 ## see also
 
-- [Astrophysical N-body problem formulation](Astrophysical%20N-body%20problem%20formulation.html)
-- [Leapfrog integrator](Leapfrog%20integrator.html)
-- [Fourth-order Hermite predictor-corrector](Fourth-order%20Hermite%20predictor-corrector.html)
-- [Adaptive timesteps near close encounters](Adaptive%20timesteps%20near%20close%20encounters.html)
-- [Energy conservation as a diagnostic](Energy%20conservation%20as%20a%20diagnostic.html)
-- [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
+- [[Astrophysical N-body problem formulation]]
+- [[Leapfrog integrator]]
+- [[Fourth-order Hermite predictor-corrector]]
+- [[Adaptive timesteps near close encounters]]
+- [[Energy conservation as a diagnostic]]
+- [[Mathematical_Numerical_Methods_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Adaptive%20timesteps%20near%20close%20encounters.html" class="backlink-item">Adaptive timesteps near close encounters</a></li>
-    <li class="backlink-item-wrap"><a href="Astrophysical%20N-body%20problem%20formulation.html" class="backlink-item">Astrophysical N-body problem formulation</a></li>
-    <li class="backlink-item-wrap"><a href="N-body%20simulations.html" class="backlink-item">N-body simulations</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Adaptive timesteps near close encounters]]
+- [[Astrophysical N-body problem formulation]]
+- [[N-body simulations]]
+- [[Mathematical_Numerical_Methods_MOC]]
+
 

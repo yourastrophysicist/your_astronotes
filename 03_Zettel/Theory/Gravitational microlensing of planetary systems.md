@@ -31,15 +31,15 @@ the determinant of the Jacobian $\det J = 0$ defines closed curves in the source
 
 ## see also
 
-- [Exoplanetary_Astrophysics_MOC](../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)
-- [05_Gravitational_Microlensing_Principles_and_Light_Curves](../../02_Literature/Lectures/Exoplanetary_Astrophysics/05_Gravitational_Microlensing_Principles_and_Light_Curves.html)
-- [Exoplanet demographic distributions and survey completeness](Exoplanet%20demographic%20distributions%20and%20survey%20completeness.html)
-- [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
+- [[Exoplanetary_Astrophysics_MOC]]
+- [[05_Gravitational_Microlensing_Principles_and_Light_Curves]]
+- [[Exoplanet demographic distributions and survey completeness]]
+- [[General_Relativity_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (1)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Exoplanetary_Astrophysics_MOC]]
+
 

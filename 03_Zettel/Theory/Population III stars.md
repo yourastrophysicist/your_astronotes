@@ -15,7 +15,7 @@ without metals, the gas cooling channels are restricted to:
 
 these are weak compared to metal-line cooling. the consequence: gas in primordial halos cannot fragment into low-mass clouds. simulations (Bromm & Larson 2004 review, ARA&A 42, 79) predict a **top-heavy IMF** with characteristic mass $\langle M \rangle \sim 100\,M_\odot$ and stars potentially up to $1000\,M_\odot$.
 
-this is dramatically different from the [Salpeter/Chabrier IMFs](Salpeter%20Kroupa%20Chabrier%20IMFs.html) of present-day stellar populations.
+this is dramatically different from the [[Salpeter Kroupa Chabrier IMFs|Salpeter/Chabrier IMFs]] of present-day stellar populations.
 
 ## fates of Pop III stars
 
@@ -39,7 +39,7 @@ Pop III stars formed at $z \sim 15$-$30$, within $\sim 100$-$300$ Myr after the 
 - **strong UV continuum + Balmer break absence**.
 - **specific SED slopes** distinct from later galaxy populations.
 
-candidate Pop III SF regions identified at $z \sim 10$-$15$ (LAP1-B, GLASS-z12, etc.) are tantalising but not yet definitive. see [JWST and the first stars](JWST%20and%20the%20first%20stars.html).
+candidate Pop III SF regions identified at $z \sim 10$-$15$ (LAP1-B, GLASS-z12, etc.) are tantalising but not yet definitive. see [[JWST and the first stars]].
 
 ## the indirect evidence: CEMP-no + r-II stars
 
@@ -56,7 +56,7 @@ these stars are direct chemical fossils of single-progenitor Pop III enrichment 
 Pop III stars set the timing of:
 
 1. the **end of the cosmic dark ages** (their UV photons reionise H);
-2. the **transition from Pop III to Pop II** at $Z = Z_{\rm crit} \sim 10^{-5}$-$10^{-4}\,Z_\odot$ (see [Critical metallicity for fragmentation](Critical%20metallicity%20for%20fragmentation.html));
+2. the **transition from Pop III to Pop II** at $Z = Z_{\rm crit} \sim 10^{-5}$-$10^{-4}\,Z_\odot$ (see [[Critical metallicity for fragmentation]]);
 3. the **seeding of supermassive black holes** (direct-collapse Pop III stars $> 260\,M_\odot$ may form intermediate-mass BHs that later grow into SMBHs).
 
 ## surveys for extremely metal-poor stars
@@ -82,14 +82,14 @@ the hunt for Pop III fossils is carried out by several ongoing survey programs (
 
 ## see also
 
-- [Critical metallicity for fragmentation](Critical%20metallicity%20for%20fragmentation.html)
-- [Pop III nucleosynthesis signatures](Pop%20III%20nucleosynthesis%20signatures.html)
-- [Search for Pop III stars in dwarf galaxies](Search%20for%20Pop%20III%20stars%20in%20dwarf%20galaxies.html)
-- [JWST and the first stars](JWST%20and%20the%20first%20stars.html)
-- [Pop III remnants in UFDGs](Pop%20III%20remnants%20in%20UFDGs.html)
-- [Big Bang nucleosynthesis](Big%20Bang%20nucleosynthesis.html)
-- [Ultra-faint dwarf galaxies definition](Ultra-faint%20dwarf%20galaxies%20definition.html)
-- [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
+- [[Critical metallicity for fragmentation]]
+- [[Pop III nucleosynthesis signatures]]
+- [[Search for Pop III stars in dwarf galaxies]]
+- [[JWST and the first stars]]
+- [[Pop III remnants in UFDGs]]
+- [[Big Bang nucleosynthesis]]
+- [[Ultra-faint dwarf galaxies definition]]
+- [[Stellar_Astrophysics_MOC]]
 
 ---
 
@@ -186,17 +186,17 @@ The following slides from Prof. Antonino Milone's lecture series provide the dir
 ![Lecture14_p5-05.png](../../assets/images/Lecture14_p5-05.png)
 *Figure P14-29: Lecture14_p5-05.png — Observational data, CMD morphology, and diagnostics from Lecture 14 — Population III & The First Stars.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (8)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Critical%20metallicity%20for%20fragmentation.html" class="backlink-item">Critical metallicity for fragmentation</a></li>
-    <li class="backlink-item-wrap"><a href="High-z%20galaxies%20with%20JWST.html" class="backlink-item">High-z galaxies with JWST</a></li>
-    <li class="backlink-item-wrap"><a href="JWST%20and%20the%20first%20stars.html" class="backlink-item">JWST and the first stars</a></li>
-    <li class="backlink-item-wrap"><a href="Pop%20III%20nucleosynthesis%20signatures.html" class="backlink-item">Pop III nucleosynthesis signatures</a></li>
-    <li class="backlink-item-wrap"><a href="Salpeter%20Kroupa%20Chabrier%20IMFs.html" class="backlink-item">Salpeter Kroupa Chabrier IMFs</a></li>
-    <li class="backlink-item-wrap"><a href="Search%20for%20Pop%20III%20stars%20in%20dwarf%20galaxies.html" class="backlink-item">Search for Pop III stars in dwarf galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20mass%20function%20xi%28M%29.html" class="backlink-item">Stellar mass function xi(M)</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Critical metallicity for fragmentation]]
+- [[High-z galaxies with JWST]]
+- [[JWST and the first stars]]
+- [[Pop III nucleosynthesis signatures]]
+- [[Salpeter Kroupa Chabrier IMFs]]
+- [[Search for Pop III stars in dwarf galaxies]]
+- [[Stellar mass function xi(M)]]
+- [[Stellar_Astrophysics_MOC]]
+
 

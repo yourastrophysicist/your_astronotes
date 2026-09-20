@@ -4,7 +4,7 @@ title: "Datacube reduction"
 ---
 # datacube reduction
 
-up: [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html) · [MUSE datacubes](MUSE%20datacubes.html)
+up: [[Astrophysics_of_Galaxies_MOC]] · [[MUSE datacubes]]
 
 ## the 3d data structure
 
@@ -27,17 +27,17 @@ Integral Field Units (IFUs) record a three-dimensional dataset $I(x, y, \lambda)
 
 ## connections
 
-- hardware: [MUSE datacubes](MUSE%20datacubes.html)
-- analysis: [Datacube redshift measurement](Datacube%20redshift%20measurement.html), [Ionized gas kinematics](Ionized%20gas%20kinematics.html)
-- calibration context: [CCD calibration steps](CCD%20calibration%20steps.html)
+- hardware: [[MUSE datacubes]]
+- analysis: [[Datacube redshift measurement]], [[Ionized gas kinematics]]
+- calibration context: [[CCD calibration steps]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Datacube%20redshift%20measurement.html" class="backlink-item">Datacube redshift measurement</a></li>
-    <li class="backlink-item-wrap"><a href="MUSE%20datacubes.html" class="backlink-item">MUSE datacubes</a></li>
-    <li class="backlink-item-wrap"><a href="Space%20and%20ground%20facilities%20relevant%20for%20OC.html" class="backlink-item">Space and ground facilities relevant for OC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Datacube redshift measurement]]
+- [[MUSE datacubes]]
+- [[Space and ground facilities relevant for OC]]
+- [[Astrophysics_of_Galaxies_MOC]]
+
 

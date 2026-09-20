@@ -44,5 +44,5 @@ Photon noise dictates the sensitivity limits of astronomical instruments. It exp
 
 ## connections & zettel links
 
-* parent moc: [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-* related zettels: [Intensity interferometry concept](interf/Intensity%20interferometry%20concept.html), [Radiometer equation and SEFD](interf/Radiometer%20equation%20and%20SEFD.html), [CCD detectors and SNR](CCD%20detectors%20and%20SNR.html)
+* parent moc: [[Astronomical_Interferometry_MOC]]
+* related zettels: [[Intensity interferometry concept]], [[Radiometer equation and SEFD]], [[CCD detectors and SNR]]

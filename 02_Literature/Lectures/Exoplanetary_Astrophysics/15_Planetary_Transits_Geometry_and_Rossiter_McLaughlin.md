@@ -5,7 +5,7 @@ title: "15_Planetary_Transits_Geometry_and_Rossiter_McLaughlin"
 # Lesson 15 – Planetary Transits I: Geometry and Rossiter-McLaughlin
 
 *Exoplanetary Astrophysics, Prof. Giampaolo Piotto (Lecture 01/12/2025)*  
-*Index: [Exoplanetary_Astrophysics_MOC](../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)*
+*Index: [[Exoplanetary_Astrophysics_MOC]]*
 
 ---
 
@@ -176,10 +176,10 @@ $$\sin I_\star = \frac{(v \sin I_\star) P_{\text{rot}}}{2\pi R_\star}$$
 ---
 
 ## Cross-Links & Vault Navigation
-- Master Map of Content: [Exoplanetary_Astrophysics_MOC](../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)
-- Previous Lecture: [14_Stellar_Activity_and_Radial_Velocity_Jitter](./14_Stellar_Activity_and_Radial_Velocity_Jitter.html)
-- Next Lecture: [16_Transit_Light_Curve_Modeling_and_Limb_Darkening](./16_Transit_Light_Curve_Modeling_and_Limb_Darkening.html)
-- Related Notes: Transit photometry and Mandel-Agol formulation | [Exoplanet Transit Geometry and Impact Parameter](../../../03_Zettel/Theory/Exoplanet%20Transit%20Geometry%20and%20Impact%20Parameter.html)
+- Master Map of Content: [[Exoplanetary_Astrophysics_MOC]]
+- Previous Lecture: [[14_Stellar_Activity_and_Radial_Velocity_Jitter]]
+- Next Lecture: [[16_Transit_Light_Curve_Modeling_and_Limb_Darkening]]
+- Related Notes: Transit photometry and Mandel-Agol formulation | [[Exoplanet Transit Geometry and Impact Parameter]]
 
 
 ## Lecture Visuals & Rossiter-McLaughlin Effect
@@ -193,11 +193,11 @@ $$\sin I_\star = \frac{(v \sin I_\star) P_{\text{rot}}}{2\pi R_\star}$$
 ![High-Resolution Spectrograph RM Observations](../../../assets/images/exo_rossi_p12.png)
 *Figure EXO-07: Empirical RM anomaly measurements obtained with HARPS-N and ESPRESSO ultra-stable cross-dispersion spectrographs, measuring spin-orbit angles to sub-degree precision.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Rossiter-McLaughlin%20effect%20and%20spin-orbit%20obliquity.html" class="backlink-item">Rossiter-McLaughlin effect and spin-orbit obliquity</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Rossiter-McLaughlin effect and spin-orbit obliquity]]
+- [[Exoplanetary_Astrophysics_MOC]]
+
 

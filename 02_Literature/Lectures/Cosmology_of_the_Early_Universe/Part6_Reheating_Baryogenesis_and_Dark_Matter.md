@@ -6,7 +6,7 @@ title: "Part6_Reheating_Baryogenesis_and_Dark_Matter"
 
 *Lectures 31 to 34 notes synthesis - Prof. Nicola Bartolo*  
 *Cosmology of the Early Universe - Università degli Studi di Padova*  
-*Index: [Cosmology_of_the_Early_Universe_MOC](../../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html)*  
+*Index: [[Cosmology_of_the_Early_Universe_MOC]]*  
 
 ---
 
@@ -192,16 +192,16 @@ $$\Omega_a h^2 \approx 0.12 \left(\frac{f_a}{10^{12}\text{ GeV}}\right)^{1.17}$$
 ## Connections and vault links
 
 * Companion zettels:
-  - [Reheating dynamics and thermalization](../../../03_Zettel/Theory/Reheating%20dynamics%20and%20thermalization.html)
-  - [Preheating and parametric resonance](../../../03_Zettel/Theory/Preheating%20and%20parametric%20resonance.html)
-  - [Sakharov conditions for baryogenesis](../../../03_Zettel/Theory/Sakharov%20conditions%20for%20baryogenesis.html)
-  - [Out-of-equilibrium decay baryogenesis and Weinberg model](../../../03_Zettel/Theory/Out-of-equilibrium%20decay%20baryogenesis%20and%20Weinberg%20model.html)
-  - [Electroweak sphalerons and leptogenesis](../../../03_Zettel/Theory/Electroweak%20sphalerons%20and%20leptogenesis.html)
-  - [Dark matter thermal freeze-out and Lee-Weinberg bound](../../../03_Zettel/Theory/Dark%20matter%20thermal%20freeze-out%20and%20Lee-Weinberg%20bound.html)
-  - [Hot versus cold dark matter in the early universe](../../../03_Zettel/Theory/Hot%20versus%20cold%20dark%20matter%20in%20the%20early%20universe.html)
-  - [Non-thermal dark matter relics and axion misalignment](../../../03_Zettel/Theory/Non-thermal%20dark%20matter%20relics%20and%20axion%20misalignment.html)
-* Previous module: [Part5_GR_Cosmological_Perturbation_Theory](./Part5_GR_Cosmological_Perturbation_Theory.html)
-* Course MOC: [Cosmology_of_the_Early_Universe_MOC](../../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html)
+  - [[Reheating dynamics and thermalization]]
+  - [[Preheating and parametric resonance]]
+  - [[Sakharov conditions for baryogenesis]]
+  - [[Out-of-equilibrium decay baryogenesis and Weinberg model]]
+  - [[Electroweak sphalerons and leptogenesis]]
+  - [[Dark matter thermal freeze-out and Lee-Weinberg bound]]
+  - [[Hot versus cold dark matter in the early universe]]
+  - [[Non-thermal dark matter relics and axion misalignment]]
+* Previous module: [[Part5_GR_Cosmological_Perturbation_Theory]]
+* Course MOC: [[Cosmology_of_the_Early_Universe_MOC]]
 
 
 ## Theoretical Visuals & Thermal History
@@ -212,18 +212,18 @@ $$\Omega_a h^2 \approx 0.12 \left(\frac{f_a}{10^{12}\text{ GeV}}\right)^{1.17}$$
 ![Sakharov Conditions and Baryogenesis Timeline](../../../assets/images/early_baryo_p08.png)
 *Figure CEU-13: The three Sakharov conditions required for baryogenesis: (1) Baryon number $B$ violation, (2) $C$ and $CP$ symmetry violation, and (3) Departure from thermal equilibrium (first-order electroweak phase transition or out-of-equilibrium heavy Majorana neutrino decay in leptogenesis).*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (9)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Dark%20matter%20thermal%20freeze-out%20and%20Lee-Weinberg%20bound.html" class="backlink-item">Dark matter thermal freeze-out and Lee-Weinberg bound</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Electroweak%20sphalerons%20and%20leptogenesis.html" class="backlink-item">Electroweak sphalerons and leptogenesis</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Hot%20versus%20cold%20dark%20matter%20in%20the%20early%20universe.html" class="backlink-item">Hot versus cold dark matter in the early universe</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Non-thermal%20dark%20matter%20relics%20and%20axion%20misalignment.html" class="backlink-item">Non-thermal dark matter relics and axion misalignment</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Out-of-equilibrium%20decay%20baryogenesis%20and%20Weinberg%20model.html" class="backlink-item">Out-of-equilibrium decay baryogenesis and Weinberg model</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Preheating%20and%20parametric%20resonance.html" class="backlink-item">Preheating and parametric resonance</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Reheating%20dynamics%20and%20thermalization.html" class="backlink-item">Reheating dynamics and thermalization</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Sakharov%20conditions%20for%20baryogenesis.html" class="backlink-item">Sakharov conditions for baryogenesis</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html" class="backlink-item">Cosmology_of_the_Early_Universe_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Dark matter thermal freeze-out and Lee-Weinberg bound]]
+- [[Electroweak sphalerons and leptogenesis]]
+- [[Hot versus cold dark matter in the early universe]]
+- [[Non-thermal dark matter relics and axion misalignment]]
+- [[Out-of-equilibrium decay baryogenesis and Weinberg model]]
+- [[Preheating and parametric resonance]]
+- [[Reheating dynamics and thermalization]]
+- [[Sakharov conditions for baryogenesis]]
+- [[Cosmology_of_the_Early_Universe_MOC]]
+
 

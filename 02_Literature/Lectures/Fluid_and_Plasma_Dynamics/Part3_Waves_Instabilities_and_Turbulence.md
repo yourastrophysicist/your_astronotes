@@ -5,7 +5,7 @@ title: "Part3_Waves_Instabilities_and_Turbulence"
 # Part 3 - Waves, Instabilities, and Turbulence
 
 *Course: Fluid and Plasma Dynamics, Prof. Maurizio Giacomin*  
-*Index: [Fluid_and_Plasma_Dynamics_MOC](../../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html) | Exam Guide: [Giacomin_Oral_Exam_Questions_Complete_Guide](./Giacomin_Oral_Exam_Questions_Complete_Guide.html)*  
+*Index: [[Fluid_and_Plasma_Dynamics_MOC]] | Exam Guide: [[Giacomin_Oral_Exam_Questions_Complete_Guide]]*  
 *Relevant Exam Questions: 9, 10, 11*  
 
 ---
@@ -277,16 +277,16 @@ Because $\overline{v_i' v_j'}$ introduces six new unknown correlation components
 ![MHD Anisotropic Goldreich-Sridhar Cascade](../../../assets/images/fluid_turbulence_p50.png)
 *Figure FPD-05: Goldreich-Sridhar critical balance in magnetized plasma turbulence, establishing scale-dependent anisotropy $k_\parallel \propto k_\perp^{2/3}$ along background guide magnetic fields $\mathbf{B}_0$.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Acoustic%20sound%20wave%20propagation%20in%20compressible%20gas.html" class="backlink-item">Acoustic sound wave propagation in compressible gas</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Jeans%20gravitational%20instability%20and%20Jeans%20mass.html" class="backlink-item">Jeans gravitational instability and Jeans mass</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Kolmogorov%20K41%20turbulence%20cascade%20and%20five-thirds%20law.html" class="backlink-item">Kolmogorov K41 turbulence cascade and five-thirds law</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Rayleigh-Benard%20convection%20and%20Boussinesq%20approximation.html" class="backlink-item">Rayleigh-Benard convection and Boussinesq approximation</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Rayleigh-Taylor%20and%20Kelvin-Helmholtz%20hydrodynamic%20instabilities.html" class="backlink-item">Rayleigh-Taylor and Kelvin-Helmholtz hydrodynamic instabilities</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Reynolds-averaged%20Navier-Stokes%20and%20turbulent%20Reynolds%20stress.html" class="backlink-item">Reynolds-averaged Navier-Stokes and turbulent Reynolds stress</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Acoustic sound wave propagation in compressible gas]]
+- [[Jeans gravitational instability and Jeans mass]]
+- [[Kolmogorov K41 turbulence cascade and five-thirds law]]
+- [[Rayleigh-Benard convection and Boussinesq approximation]]
+- [[Rayleigh-Taylor and Kelvin-Helmholtz hydrodynamic instabilities]]
+- [[Reynolds-averaged Navier-Stokes and turbulent Reynolds stress]]
+- [[Fluid_and_Plasma_Dynamics_MOC]]
+
 

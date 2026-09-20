@@ -29,17 +29,17 @@ by observing through three contiguous filters (e.g. $U_n, G, \mathcal{R}$):
 
 ## see also
 
-- [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
-- [Pablo_05_Galaxies_at_cosmological_distances](../../02_Literature/Lectures/Observational_Cosmology/Pablo_05_Galaxies_at_cosmological_distances.html)
-- [Cosmic dawn and high-redshift galaxies with JWST](Cosmic%20dawn%20and%20high-redshift%20galaxies%20with%20JWST.html)
+- [[Observational_Cosmology_MOC]]
+- [[Pablo_05_Galaxies_at_cosmological_distances]]
+- [[Cosmic dawn and high-redshift galaxies with JWST]]
 - Galaxy spectral energy distribution fitting
-- [Cosmic star formation history](Cosmic%20star%20formation%20history.html)
+- [[Cosmic star formation history]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Cosmic%20dawn%20and%20high-redshift%20galaxies%20with%20JWST.html" class="backlink-item">Cosmic dawn and high-redshift galaxies with JWST</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Cosmic dawn and high-redshift galaxies with JWST]]
+- [[Observational_Cosmology_MOC]]
+
 

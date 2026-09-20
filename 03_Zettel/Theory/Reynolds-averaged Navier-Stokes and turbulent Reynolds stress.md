@@ -38,16 +38,16 @@ where $\mu_t$ is the turbulent eddy viscosity (a property of the flow, not the f
 
 ## see also
 
-- [Fluid_and_Plasma_Dynamics_MOC](../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html)
-- [Part3_Waves_Instabilities_and_Turbulence](../../02_Literature/Lectures/Fluid_and_Plasma_Dynamics/Part3_Waves_Instabilities_and_Turbulence.html)
-- [Kolmogorov K41 turbulence cascade and five-thirds law](Kolmogorov%20K41%20turbulence%20cascade%20and%20five-thirds%20law.html)
-- [Chapman-Enskog expansion and Navier-Stokes derivation](Chapman-Enskog%20expansion%20and%20Navier-Stokes%20derivation.html)
+- [[Fluid_and_Plasma_Dynamics_MOC]]
+- [[Part3_Waves_Instabilities_and_Turbulence]]
+- [[Kolmogorov K41 turbulence cascade and five-thirds law]]
+- [[Chapman-Enskog expansion and Navier-Stokes derivation]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Kolmogorov%20K41%20turbulence%20cascade%20and%20five-thirds%20law.html" class="backlink-item">Kolmogorov K41 turbulence cascade and five-thirds law</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Kolmogorov K41 turbulence cascade and five-thirds law]]
+- [[Fluid_and_Plasma_Dynamics_MOC]]
+
 

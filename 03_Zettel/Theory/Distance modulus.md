@@ -56,20 +56,20 @@ $$\mu = 5 \log_{10}(d_L/10\,\text{pc})$$
 with $d_L$ the **luminosity distance**. for flat $\Lambda$CDM:
 $$d_L(z) = (1+z)\,\frac{c}{H_0}\int_0^z \frac{dz'}{\sqrt{\Omega_m(1+z')^3 + \Omega_\Lambda}}$$
 
-at low $z$, $d_L \approx cz/H_0$, recovering the Hubble flow. see [Luminosity distance](Luminosity%20distance.html) and [Distance ladder derivations](Distance%20ladder%20derivations.html).
+at low $z$, $d_L \approx cz/H_0$, recovering the Hubble flow. see [[Luminosity distance]] and [[Distance ladder derivations]].
 
-at high $z$, an additional **K-correction** is needed because the observed band samples a different rest-frame wavelength than the calibrated $M$. see [K-correction](K-correction.html).
+at high $z$, an additional **K-correction** is needed because the observed band samples a different rest-frame wavelength than the calibrated $M$. see [[K-correction]].
 
 ## see also
 
-- [Pogson magnitudes and flux relation](Pogson%20magnitudes%20and%20flux%20relation.html)
-- [Magnitudes and photometric systems](Magnitudes%20and%20photometric%20systems.html)
-- [Distance ladder derivations](Distance%20ladder%20derivations.html)
-- [Luminosity distance](Luminosity%20distance.html)
-- [Atmospheric extinction](interf/Atmospheric%20extinction.html)
-- [Interstellar absorption](Interstellar%20absorption.html)
-- [K-correction](K-correction.html)
-- [Hubble law](Hubble%20law.html)
+- [[Pogson magnitudes and flux relation]]
+- [[Magnitudes and photometric systems]]
+- [[Distance ladder derivations]]
+- [[Luminosity distance]]
+- [[Atmospheric extinction]]
+- [[Interstellar absorption]]
+- [[K-correction]]
+- [[Hubble law]]
 
 ---
 
@@ -87,24 +87,23 @@ at high $z$, an additional **K-correction** is needed because the observed band 
 ![obs_rad-080.png](../../assets/images/obs_rad-080.png)
 *Obs2 exam question: How distance modulus connects apparent brightness to physical distance.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (15)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="AU%20calibration%20parallax%20and%20parsec.html" class="backlink-item">AU calibration parallax and parsec</a></li>
-    <li class="backlink-item-wrap"><a href="Atmospheric%20extinction.html" class="backlink-item">Atmospheric extinction</a></li>
-    <li class="backlink-item-wrap"><a href="Color-magnitude%20diagrams%20of%20clusters.html" class="backlink-item">Color-magnitude diagrams of clusters</a></li>
-    <li class="backlink-item-wrap"><a href="Distance%20ladder%20derivations.html" class="backlink-item">Distance ladder derivations</a></li>
-    <li class="backlink-item-wrap"><a href="Interstellar%20reddening%20and%20the%20reddening%20vector.html" class="backlink-item">Interstellar reddening and the reddening vector</a></li>
-    <li class="backlink-item-wrap"><a href="K-correction.html" class="backlink-item">K-correction</a></li>
-    <li class="backlink-item-wrap"><a href="Luminosity%20distance.html" class="backlink-item">Luminosity distance</a></li>
-    <li class="backlink-item-wrap"><a href="Moving%20cluster%20method.html" class="backlink-item">Moving cluster method</a></li>
-    <li class="backlink-item-wrap"><a href="Pogson%20magnitudes%20and%20flux%20relation.html" class="backlink-item">Pogson magnitudes and flux relation</a></li>
-    <li class="backlink-item-wrap"><a href="Specific%20intensity%20flux%20luminosity.html" class="backlink-item">Specific intensity flux luminosity</a></li>
-    <li class="backlink-item-wrap"><a href="Spectroscopic%20parallax%20and%20main-sequence%20fitting.html" class="backlink-item">Spectroscopic parallax and main-sequence fitting</a></li>
-    <li class="backlink-item-wrap"><a href="Supernova%20Hubble%20diagram.html" class="backlink-item">Supernova Hubble diagram</a></li>
-    <li class="backlink-item-wrap"><a href="Useful%20constants%20and%20conversions.html" class="backlink-item">Useful constants and conversions</a></li>
-    <li class="backlink-item-wrap"><a href="interf/Atmospheric%20extinction.html" class="backlink-item">Atmospheric extinction</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[AU calibration parallax and parsec]]
+- [[Atmospheric extinction]]
+- [[Color-magnitude diagrams of clusters]]
+- [[Distance ladder derivations]]
+- [[Interstellar reddening and the reddening vector]]
+- [[K-correction]]
+- [[Luminosity distance]]
+- [[Moving cluster method]]
+- [[Pogson magnitudes and flux relation]]
+- [[Specific intensity flux luminosity]]
+- [[Spectroscopic parallax and main-sequence fitting]]
+- [[Supernova Hubble diagram]]
+- [[Useful constants and conversions]]
+- [[Observational_Astrophysics_MOC]]
+
 

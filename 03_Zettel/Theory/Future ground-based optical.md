@@ -45,7 +45,7 @@ ongoing operations of LBT's interferometric mode:
 
 ### proposed Carlina hypertelescope
 
-Antoine Labeyrie's hypertelescope concept (see [Hypertelescope](interf/Hypertelescope.html)). a sparse array on a parabolic surface with cable-suspended focus. proposed since the 1990s, prototype tested at Caussols. full-scale never built.
+Antoine Labeyrie's hypertelescope concept (see [[Hypertelescope]]). a sparse array on a parabolic surface with cable-suspended focus. proposed since the 1990s, prototype tested at Caussols. full-scale never built.
 
 still pursued conceptually for sub-mas direct imaging at AU scales (resolved exo-Earths around nearby stars).
 
@@ -99,8 +99,8 @@ these motivate space-based alternatives.
 
 ## see also
 
-- [VLTI Very Large Telescope Interferometer](interf/VLTI%20Very%20Large%20Telescope%20Interferometer.html)
-- [CHARA array](interf/CHARA%20array.html)
-- [Hypertelescope](interf/Hypertelescope.html)
-- [Future space-based](interf/Future%20space-based.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[VLTI Very Large Telescope Interferometer]]
+- [[CHARA array]]
+- [[Hypertelescope]]
+- [[Future space-based]]
+- [[Astronomical_Interferometry_MOC]]

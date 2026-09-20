@@ -158,11 +158,11 @@ Persic, Salucci & Stel (1996) synthesized over 1000 rotation curves into the Uni
 
 ## 6. Cross-References and Related Notes
 
-- [Dark matter rotation curves](Dark%20matter%20rotation%20curves.html) - Quadrature circular velocity halo deconstruction
-- [Tully-Fisher relation](Tully-Fisher%20relation.html) - Centrifugal scaling between luminosity and flat rotation speed
-- [Stellar kinematics measurements](Stellar%20kinematics%20measurements.html) - pPXF method and LOSVD recovery
-- [Ionized gas kinematics](Ionized%20gas%20kinematics.html) - Emission-line velocity fields and beam smearing
-- [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html) - Master Map of Content for course
+- [[Dark matter rotation curves]] - Quadrature circular velocity halo deconstruction
+- [[Tully-Fisher relation]] - Centrifugal scaling between luminosity and flat rotation speed
+- [[Stellar kinematics measurements]] - pPXF method and LOSVD recovery
+- [[Ionized gas kinematics]] - Emission-line velocity fields and beam smearing
+- [[Astrophysics_of_Galaxies_MOC]] - Master Map of Content for course
 
 ---
 
@@ -177,12 +177,12 @@ Persic, Salucci & Stel (1996) synthesized over 1000 rotation curves into the Uni
 ![gal_dm-08.png](../../assets/images/gal_dm-08.png)
 *Figure 3 - Universal rotation curves across the Hubble sequence from Persic, Salucci & Stel (1996).*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Galactic%20HI%20kinematics%20and%20Milky%20Way%20spiral%20structure.html" class="backlink-item">Galactic HI kinematics and Milky Way spiral structure</a></li>
-    <li class="backlink-item-wrap"><a href="Ionized%20gas%20kinematics.html" class="backlink-item">Ionized gas kinematics</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Galactic HI kinematics and Milky Way spiral structure]]
+- [[Ionized gas kinematics]]
+- [[Astrophysics_of_Galaxies_MOC]]
+
 

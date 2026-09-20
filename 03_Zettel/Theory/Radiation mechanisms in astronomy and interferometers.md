@@ -111,8 +111,8 @@ source: local schematic plot generated from standard qualitative spectral scalin
 
 ## see also
 
-- [Radio astronomy basics](interf/Radio%20astronomy%20basics.html)
-- [Polarization in interferometry](interf/Polarization%20in%20interferometry.html)
-- [Young stellar object disks](interf/Young%20stellar%20object%20disks.html)
-- [AGN and supermassive black holes](interf/AGN%20and%20supermassive%20black%20holes.html)
-- [Cosmological masers](interf/Cosmological%20masers.html)
+- [[Radio astronomy basics]]
+- [[Polarization in interferometry]]
+- [[Young stellar object disks]]
+- [[AGN and supermassive black holes]]
+- [[Cosmological masers]]

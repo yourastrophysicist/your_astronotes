@@ -5,7 +5,7 @@ title: "02_Version_Control_with_Git_and_GitLab"
 # Lesson 02 – Version Control with Git and GitLab
 
 *Computational Astrophysics, Prof. Tiziano Zingales*  
-*Index: [Computational_Astrophysics_MOC](../../../04_Atlas/Computational_Astrophysics_MOC.html)*
+*Index: [[Computational_Astrophysics_MOC]]*
 
 ---
 
@@ -298,15 +298,15 @@ git checkout -t origin/feature/mcmc
 ---
 
 ## Related Notes
-- [00_Course_Overview_and_Computational_Laboratories](./00_Course_Overview_and_Computational_Laboratories.html)
-- [01_Linux_Containers_and_Docker_Architecture](./01_Linux_Containers_and_Docker_Architecture.html)
-- [03_Modular_Python_Software_Architecture_and_Packaging](./03_Modular_Python_Software_Architecture_and_Packaging.html)
+- [[00_Course_Overview_and_Computational_Laboratories]]
+- [[01_Linux_Containers_and_Docker_Architecture]]
+- [[03_Modular_Python_Software_Architecture_and_Packaging]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Computational/Distributed%20version%20control%20DAG%20and%20GitLab%20workflows.html" class="backlink-item">Distributed version control DAG and GitLab workflows</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Distributed version control DAG and GitLab workflows]]
+- [[Computational_Astrophysics_MOC]]
+
 

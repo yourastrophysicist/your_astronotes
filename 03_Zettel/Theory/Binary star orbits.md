@@ -97,10 +97,10 @@ these will yield ~10000 dynamical masses by ~2035, providing definitive empirica
 
 ## see also
 
-- [Stellar diameters and limb darkening](interf/Stellar%20diameters%20and%20limb%20darkening.html)
-- [CHARA array](interf/CHARA%20array.html)
-- [VLTI Very Large Telescope Interferometer](interf/VLTI%20Very%20Large%20Telescope%20Interferometer.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Stellar diameters and limb darkening]]
+- [[CHARA array]]
+- [[VLTI Very Large Telescope Interferometer]]
+- [[Astronomical_Interferometry_MOC]]
 
 ---
 

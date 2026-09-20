@@ -61,14 +61,14 @@ major surveys: DES, KiDS, HSC. soon: Euclid, LSST, Roman.
 ## see also
 
 - Gravitational lensing — intro
-- [Strong vs weak lensing](Strong%20vs%20weak%20lensing.html)
-- [Light deflection](Light%20deflection.html)
-- [Cosmic_inventory_dark_matter](Cosmic_inventory_dark_matter.html)
-- [Cosmic_inventory_dark_energy](Cosmic_inventory_dark_energy.html)
-- [ΛCDM current parameters](%CE%9BCDM%20current%20parameters.html)
-- [CMB power spectrum](CMB%20power%20spectrum.html)
-- [Hubble law](Hubble%20law.html)
-- [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
+- [[Strong vs weak lensing]]
+- [[Light deflection]]
+- [[Cosmic_inventory_dark_matter]]
+- [[Cosmic_inventory_dark_energy]]
+- [[ΛCDM current parameters]]
+- [[CMB power spectrum]]
+- [[Hubble law]]
+- [[Observational_Cosmology_MOC]]
 
 ---
 
@@ -90,14 +90,14 @@ major surveys: DES, KiDS, HSC. soon: Euclid, LSST, Roman.
 
 ![gal_dm-58.png](../../assets/images/gal_dm-58.png)
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Gravitational%20lensing%20-%20intro.html" class="backlink-item">Gravitational lensing - intro</a></li>
-    <li class="backlink-item-wrap"><a href="Light%20deflection.html" class="backlink-item">Light deflection</a></li>
-    <li class="backlink-item-wrap"><a href="Strong%20vs%20weak%20lensing.html" class="backlink-item">Strong vs weak lensing</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Gravitational lensing - intro]]
+- [[Light deflection]]
+- [[Strong vs weak lensing]]
+- [[Astrophysics_of_Galaxies_MOC]]
+- [[Observational_Cosmology_MOC]]
+
 

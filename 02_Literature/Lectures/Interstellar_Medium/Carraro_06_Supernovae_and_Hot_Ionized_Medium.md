@@ -7,7 +7,7 @@ tags: ""
 
 *Course: Astrophysics of the Interstellar Medium, Master in Astrophysics and Cosmology, Università degli Studi di Padova*  
 *Lecturer: Prof. Giovanni Carraro*  
-*Index: [Astrophysics_of_the_Interstellar_Medium_MOC](../../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html)*
+*Index: [[Astrophysics_of_the_Interstellar_Medium_MOC]]*
 
 ---
 
@@ -209,13 +209,13 @@ consequences:
 
 ## see also
 
-- [Astrophysics_of_the_Interstellar_Medium_MOC](../../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html)
-- [Sedov-Taylor blast wave expansion](../../../03_Zettel/Theory/Sedov-Taylor%20blast%20wave%20expansion.html)
-- [Superbubbles galactic chimneys and fountains](../../../03_Zettel/Theory/Superbubbles%20galactic%20chimneys%20and%20fountains.html)
-- [Ram pressure stripping in galaxy clusters](../../../03_Zettel/Theory/Ram%20pressure%20stripping%20in%20galaxy%20clusters.html)
-- [Carraro_01_Introduction_and_Multi-phase_ISM](./Carraro_01_Introduction_and_Multi-phase_ISM.html)
-- [Carraro_04_Massive_Stars_Feedback_and_Stellar_Winds](./Carraro_04_Massive_Stars_Feedback_and_Stellar_Winds.html)
-- [Galaxy clusters and overview of evolution](../../../03_Zettel/Theory/Galaxy%20clusters%20and%20overview%20of%20evolution.html)
+- [[Astrophysics_of_the_Interstellar_Medium_MOC]]
+- [[Sedov-Taylor blast wave expansion]]
+- [[Superbubbles galactic chimneys and fountains]]
+- [[Ram pressure stripping in galaxy clusters]]
+- [[Carraro_01_Introduction_and_Multi-phase_ISM]]
+- [[Carraro_04_Massive_Stars_Feedback_and_Stellar_Winds]]
+- [[Galaxy clusters and overview of evolution]]
 
 
 ## Lecture Visuals & Supernova Shock Evolution
@@ -226,13 +226,13 @@ consequences:
 ![Supernova Remnant Phase Transition Timeline](../../../assets/images/ism_him_p03.png)
 *Figure ISM-09: Four evolutionary phases of a supernova remnant: Free Expansion $\to$ Sedov-Taylor Adiabatic $\to$ Pressure-Driven Snowplow (radiative cooling) $\to$ Subsonic Dissipation into the ambient ISM.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Ram%20pressure%20stripping%20in%20galaxy%20clusters.html" class="backlink-item">Ram pressure stripping in galaxy clusters</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Sedov-Taylor%20blast%20wave%20expansion.html" class="backlink-item">Sedov-Taylor blast wave expansion</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Superbubbles%20galactic%20chimneys%20and%20fountains.html" class="backlink-item">Superbubbles galactic chimneys and fountains</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html" class="backlink-item">Astrophysics_of_the_Interstellar_Medium_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Ram pressure stripping in galaxy clusters]]
+- [[Sedov-Taylor blast wave expansion]]
+- [[Superbubbles galactic chimneys and fountains]]
+- [[Astrophysics_of_the_Interstellar_Medium_MOC]]
+
 

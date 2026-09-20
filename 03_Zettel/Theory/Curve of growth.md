@@ -59,36 +59,36 @@ this is **Russell's curve-of-growth method**, the historical basis of stellar ab
 
 ## see also
 
-- [Equivalent width](Equivalent%20width.html)
-- [Absorption coefficient and oscillator strength](Absorption%20coefficient%20and%20oscillator%20strength.html)
-- [Line profile function phi nu](Line%20profile%20function%20phi%20nu.html)
-- [Voigt profile](Voigt%20profile.html)
-- [Damping wings](Damping%20wings.html)
-- [Optical depth](Optical%20depth.html)
-- [Microturbulence](Microturbulence.html)
-- [Thermal Doppler broadening](Thermal%20Doppler%20broadening.html)
-- [Curve of growth abundance analysis](Curve%20of%20growth%20abundance%20analysis.html)
+- [[Equivalent width]]
+- [[Absorption coefficient and oscillator strength]]
+- [[Line profile function phi nu]]
+- [[Voigt profile]]
+- [[Damping wings]]
+- [[Optical depth]]
+- [[Microturbulence]]
+- [[Thermal Doppler broadening]]
+- [[Curve of growth abundance analysis]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (17)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Absorption%20coefficient%20and%20oscillator%20strength.html" class="backlink-item">Absorption coefficient and oscillator strength</a></li>
-    <li class="backlink-item-wrap"><a href="Collisional%20pressure%20broadening.html" class="backlink-item">Collisional pressure broadening</a></li>
-    <li class="backlink-item-wrap"><a href="Curve%20of%20growth%20abundance%20analysis.html" class="backlink-item">Curve of growth abundance analysis</a></li>
-    <li class="backlink-item-wrap"><a href="Damping%20wings.html" class="backlink-item">Damping wings</a></li>
-    <li class="backlink-item-wrap"><a href="Element%20abundance%20patterns.html" class="backlink-item">Element abundance patterns</a></li>
-    <li class="backlink-item-wrap"><a href="Equivalent%20width.html" class="backlink-item">Equivalent width</a></li>
-    <li class="backlink-item-wrap"><a href="Line%20profile%20function%20phi%20nu.html" class="backlink-item">Line profile function phi nu</a></li>
-    <li class="backlink-item-wrap"><a href="Macroturbulence.html" class="backlink-item">Macroturbulence</a></li>
-    <li class="backlink-item-wrap"><a href="Microturbulence.html" class="backlink-item">Microturbulence</a></li>
-    <li class="backlink-item-wrap"><a href="Natural%20broadening%20Lorentzian.html" class="backlink-item">Natural broadening Lorentzian</a></li>
-    <li class="backlink-item-wrap"><a href="Optical%20depth.html" class="backlink-item">Optical depth</a></li>
-    <li class="backlink-item-wrap"><a href="Spectroscopic%20determination%20of%20Teff.html" class="backlink-item">Spectroscopic determination of Teff</a></li>
-    <li class="backlink-item-wrap"><a href="Spectroscopic%20determination%20of%20log%20g.html" class="backlink-item">Spectroscopic determination of log g</a></li>
-    <li class="backlink-item-wrap"><a href="Spectroscopic%20determination%20of%20metallicity.html" class="backlink-item">Spectroscopic determination of metallicity</a></li>
-    <li class="backlink-item-wrap"><a href="Thermal%20Doppler%20broadening.html" class="backlink-item">Thermal Doppler broadening</a></li>
-    <li class="backlink-item-wrap"><a href="Voigt%20profile.html" class="backlink-item">Voigt profile</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Absorption coefficient and oscillator strength]]
+- [[Collisional pressure broadening]]
+- [[Curve of growth abundance analysis]]
+- [[Damping wings]]
+- [[Element abundance patterns]]
+- [[Equivalent width]]
+- [[Line profile function phi nu]]
+- [[Macroturbulence]]
+- [[Microturbulence]]
+- [[Natural broadening Lorentzian]]
+- [[Optical depth]]
+- [[Spectroscopic determination of Teff]]
+- [[Spectroscopic determination of log g]]
+- [[Spectroscopic determination of metallicity]]
+- [[Thermal Doppler broadening]]
+- [[Voigt profile]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 

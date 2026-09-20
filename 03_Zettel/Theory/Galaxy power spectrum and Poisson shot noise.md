@@ -50,17 +50,17 @@ where $b_g$ is the linear galaxy bias factor.
 2. **Survey design**: When designing redshift surveys (DESI, Euclid), observing deeper to increase number density $\bar{n}$ directly drives down shot noise until $\bar{n} P(k) \sim 1$ (the optimal FKP threshold).
 
 ## See Also
-- [Astro-Statistics_and_Cosmology_MOC](../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html)
-- [08_Galaxy_Clustering_Point_Processes_and_Shot_Noise](../../02_Literature/Lectures/Astrostatistics/08_Galaxy_Clustering_Point_Processes_and_Shot_Noise.html)
-- [Spatial two-point correlation function and Landy-Szalay estimator](Spatial%20two-point%20correlation%20function%20and%20Landy-Szalay%20estimator.html)
-- [Feldman-Kaiser-Peacock optimal weighting for galaxy surveys](Feldman-Kaiser-Peacock%20optimal%20weighting%20for%20galaxy%20surveys.html)
+- [[Astro-Statistics_and_Cosmology_MOC]]
+- [[08_Galaxy_Clustering_Point_Processes_and_Shot_Noise]]
+- [[Spatial two-point correlation function and Landy-Szalay estimator]]
+- [[Feldman-Kaiser-Peacock optimal weighting for galaxy surveys]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Feldman-Kaiser-Peacock%20optimal%20weighting%20for%20galaxy%20surveys.html" class="backlink-item">Feldman-Kaiser-Peacock optimal weighting for galaxy surveys</a></li>
-    <li class="backlink-item-wrap"><a href="Spatial%20two-point%20correlation%20function%20and%20Landy-Szalay%20estimator.html" class="backlink-item">Spatial two-point correlation function and Landy-Szalay estimator</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Feldman-Kaiser-Peacock optimal weighting for galaxy surveys]]
+- [[Spatial two-point correlation function and Landy-Szalay estimator]]
+- [[Astro-Statistics_and_Cosmology_MOC]]
+
 

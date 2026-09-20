@@ -89,26 +89,26 @@ when multiple supernovae detonate within a young OB association, their individua
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Milky Way structure](Milky%20Way%20structure.html)
-- [Stellar populations I II III](Stellar%20populations%20I%20II%20III.html)
-- [Spiral arm kinematics](Spiral%20arm%20kinematics.html)
-- [Jeans theory and protostellar formation](Jeans%20theory%20and%20protostellar%20formation.html)
-- [Interstellar absorption](Interstellar%20absorption.html)
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Milky Way structure]]
+- [[Stellar populations I II III]]
+- [[Spiral arm kinematics]]
+- [[Jeans theory and protostellar formation]]
+- [[Interstellar absorption]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (10)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Galactic%20coordinate%20system.html" class="backlink-item">Galactic coordinate system</a></li>
-    <li class="backlink-item-wrap"><a href="Galaxies%20across%20wavelengths.html" class="backlink-item">Galaxies across wavelengths</a></li>
-    <li class="backlink-item-wrap"><a href="Interstellar%20absorption.html" class="backlink-item">Interstellar absorption</a></li>
-    <li class="backlink-item-wrap"><a href="Milky%20Way%20structure.html" class="backlink-item">Milky Way structure</a></li>
-    <li class="backlink-item-wrap"><a href="Molecular%20clouds.html" class="backlink-item">Molecular clouds</a></li>
-    <li class="backlink-item-wrap"><a href="Multi-phase%20structure%20of%20the%20interstellar%20medium.html" class="backlink-item">Multi-phase structure of the interstellar medium</a></li>
-    <li class="backlink-item-wrap"><a href="Spiral%20arm%20kinematics.html" class="backlink-item">Spiral arm kinematics</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20populations%20I%20II%20III.html" class="backlink-item">Stellar populations I II III</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html" class="backlink-item">Astrophysics_of_the_Interstellar_Medium_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Galactic coordinate system]]
+- [[Galaxies across wavelengths]]
+- [[Interstellar absorption]]
+- [[Milky Way structure]]
+- [[Molecular clouds]]
+- [[Multi-phase structure of the interstellar medium]]
+- [[Spiral arm kinematics]]
+- [[Stellar populations I II III]]
+- [[Astrophysics_of_the_Interstellar_Medium_MOC]]
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+
 

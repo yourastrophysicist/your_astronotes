@@ -5,7 +5,7 @@ title: "03_Modular_Python_Software_Architecture_and_Packaging"
 # Lesson 03 – Modular Python Software Architecture and Packaging
 
 *Computational Astrophysics, Prof. Tiziano Zingales*  
-*Index: [Computational_Astrophysics_MOC](../../../04_Atlas/Computational_Astrophysics_MOC.html)*
+*Index: [[Computational_Astrophysics_MOC]]*
 
 ---
 
@@ -268,19 +268,19 @@ As part of the course's Module 1 hands-on assignment, students configure their p
 ---
 
 ## Related Notes
-- [00_Course_Overview_and_Computational_Laboratories](./00_Course_Overview_and_Computational_Laboratories.html)
-- [01_Linux_Containers_and_Docker_Architecture](./01_Linux_Containers_and_Docker_Architecture.html)
-- [02_Version_Control_with_Git_and_GitLab](./02_Version_Control_with_Git_and_GitLab.html)
-- [04_Exoplanet_Demographics_Orbital_Mechanics_and_Transits](./04_Exoplanet_Demographics_Orbital_Mechanics_and_Transits.html)
-- [Python Class Architecture for Astronomical Pipelines](../../../03_Zettel/Computational/Python%20Class%20Architecture%20for%20Astronomical%20Pipelines.html)
-- [Transit Modeling with batman](../../../03_Zettel/Computational/Transit%20Modeling%20with%20batman.html)
-- [Limb Darkening Computation with ldtk](../../../03_Zettel/Computational/Limb%20Darkening%20Computation%20with%20ldtk.html)
+- [[00_Course_Overview_and_Computational_Laboratories]]
+- [[01_Linux_Containers_and_Docker_Architecture]]
+- [[02_Version_Control_with_Git_and_GitLab]]
+- [[04_Exoplanet_Demographics_Orbital_Mechanics_and_Transits]]
+- [[Python Class Architecture for Astronomical Pipelines]]
+- [[Transit Modeling with batman]]
+- [[Limb Darkening Computation with ldtk]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Computational/Modular%20Python%20packaging%20and%20scientific%20software%20architecture.html" class="backlink-item">Modular Python packaging and scientific software architecture</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Modular Python packaging and scientific software architecture]]
+- [[Computational_Astrophysics_MOC]]
+
 

@@ -21,15 +21,15 @@ $$N_{\text{well}} \approx \frac{C_{\text{ox}} A_{\text{pix}} (V_{\text{high}} - 
 Peak stellar pixel counts must never exceed the non-linear limit (typically $\sim 40,000?45,000\text{ ADU}$ for 16-bit ADCs with full scale 65,535 ADU).
 
 ## Related Notes
-- [Piotto 03 - Semiconductor Physics and CCD Detector Fundamentals](../../02_Literature/Lectures/Astrophysics_Laboratory_2/Piotto%2003%20-%20Semiconductor%20Physics%20and%20CCD%20Detector%20Fundamentals.html)
-- [Piotto 04 - CCD Photometry and Noise Characterization](../../02_Literature/Lectures/Astrophysics_Laboratory_2/Piotto%2004%20-%20CCD%20Photometry%20and%20Noise%20Characterization.html)
-- [Flat Field Frame and Pixel Response Non-Uniformity](Flat%20Field%20Frame%20and%20Pixel%20Response%20Non-Uniformity.html)
+- [[Piotto 03 - Semiconductor Physics and CCD Detector Fundamentals]]
+- [[Piotto 04 - CCD Photometry and Noise Characterization]]
+- [[Flat Field Frame and Pixel Response Non-Uniformity]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Flat%20Field%20Frame%20and%20Pixel%20Response%20Non-Uniformity.html" class="backlink-item">Flat Field Frame and Pixel Response Non-Uniformity</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Flat Field Frame and Pixel Response Non-Uniformity]]
+- [[Astrophysics_Laboratory_2_MOC]]
+
 

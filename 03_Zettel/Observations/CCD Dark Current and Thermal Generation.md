@@ -26,15 +26,15 @@ Dark current follows Poisson counting statistics:
 $$\sigma_{\text{dark}} = \sqrt{D \cdot t_{\text{exp}}}$$
 
 ## Related Notes
-- [CCD Readout Noise and Output Amplifier](CCD%20Readout%20Noise%20and%20Output%20Amplifier.html)
-- [Bias Frame and Electronic Offset](Bias%20Frame%20and%20Electronic%20Offset.html)
-- [Piotto 03 - Semiconductor Physics and CCD Detector Fundamentals](../../02_Literature/Lectures/Astrophysics_Laboratory_2/Piotto%2003%20-%20Semiconductor%20Physics%20and%20CCD%20Detector%20Fundamentals.html)
+- [[CCD Readout Noise and Output Amplifier]]
+- [[Bias Frame and Electronic Offset]]
+- [[Piotto 03 - Semiconductor Physics and CCD Detector Fundamentals]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="CCD%20Readout%20Noise%20and%20Output%20Amplifier.html" class="backlink-item">CCD Readout Noise and Output Amplifier</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[CCD Readout Noise and Output Amplifier]]
+- [[Astrophysics_Laboratory_2_MOC]]
+
 

@@ -15,10 +15,10 @@ where $n_e$ is the free-electron number density and $\sigma_T = 6.65 \times 10^{
 
 while $X_e \sim 1$ (full ionization, $T \gg 0.3$ eV), $\Gamma_\gamma \gg H$, photons are tightly coupled.
 
-once recombination depletes $n_e$ by orders of magnitude (Saha equation, see [Saha equation and recombination](Saha%20equation%20and%20recombination.html)), $\Gamma_\gamma$ drops below $H$ — and **photons decouple**. this happens at:
+once recombination depletes $n_e$ by orders of magnitude (Saha equation, see [[Saha equation and recombination]]), $\Gamma_\gamma$ drops below $H$ — and **photons decouple**. this happens at:
 $$z_{\rm dec} \approx 1100, \qquad T_{\rm dec} \approx 0.27\,\text{eV} \approx 3000\,\text{K}$$
 
-note the temperature is well below the H binding energy of 13.6 eV. why? because there are about $10^9$ photons per baryon, and even small numbers of high-energy photons in the Wien tail can ionize hydrogen. you need $T$ low enough that the Wien-tail population is suppressed below the (small) baryon density. → see [Saha equation and recombination](Saha%20equation%20and%20recombination.html).
+note the temperature is well below the H binding energy of 13.6 eV. why? because there are about $10^9$ photons per baryon, and even small numbers of high-energy photons in the Wien tail can ionize hydrogen. you need $T$ low enough that the Wien-tail population is suppressed below the (small) baryon density. → see [[Saha equation and recombination]].
 
 ---
 
@@ -29,7 +29,7 @@ at $z \approx 1100$, photons last scattered off free electrons. since then they 
 the comoving distance to the last scattering surface (in flat ΛCDM):
 $$d_C(z = 1100) \approx 14$ Gpc
 
-the horizon at last scattering subtends about **1° on the sky** today — see [Standard model problems](Standard%20model%20problems.html).
+the horizon at last scattering subtends about **1° on the sky** today — see [[Standard model problems]].
 
 ---
 
@@ -40,7 +40,7 @@ $$T(z) = T_0 (1+z)$$
 
 with $T_0 = 2.725$ K today, this gives $T(z=1100) \approx 3000$ K — close to but slightly above the recombination temperature, consistent with the Saha analysis.
 
-the CMB is the most perfect blackbody we have measured, with no spectral distortions detected. → see [Cosmic_inventory_photons](Cosmic_inventory_photons.html).
+the CMB is the most perfect blackbody we have measured, with no spectral distortions detected. → see [[Cosmic_inventory_photons]].
 
 ---
 
@@ -52,7 +52,7 @@ the CMB is *almost* uniform but has $\Delta T/T \sim 10^{-5}$ anisotropies. thes
 - **polarization** patterns (E-modes from scalar perturbations, B-modes from tensor perturbations)
 - **secondary effects** — Sachs-Wolfe (gravitational redshifting in evolving potentials), integrated SW (along the line of sight), Sunyaev-Zel'dovich (Compton scattering off hot cluster electrons), etc.
 
-→ see [Cosmic_inventory_photons](Cosmic_inventory_photons.html) for the temperature anisotropy maps and the power spectrum.
+→ see [[Cosmic_inventory_photons]] for the temperature anisotropy maps and the power spectrum.
 
 ---
 
@@ -66,40 +66,40 @@ the CMB is our **earliest direct observation** of the universe — a snapshot of
 - the dark energy density $\Omega_\Lambda$ through the late-time integrated SW effect
 - the neutrino mass $\sum m_\nu$ through the damping tail and lensing
 
-basically: the CMB is the most information-rich cosmological observation we have. → see [Cosmic_inventory_overview](Cosmic_inventory_overview.html).
+basically: the CMB is the most information-rich cosmological observation we have. → see [[Cosmic_inventory_overview]].
 
 ---
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Saha equation and recombination](Saha%20equation%20and%20recombination.html)
-- [Cosmic_inventory_photons](Cosmic_inventory_photons.html)
-- [Cosmic_inventory_overview](Cosmic_inventory_overview.html)
-- [Brief thermal history](Brief%20thermal%20history.html)
-- [Decoupling and freeze-out](Decoupling%20and%20freeze-out.html)
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Saha equation and recombination]]
+- [[Cosmic_inventory_photons]]
+- [[Cosmic_inventory_overview]]
+- [[Brief thermal history]]
+- [[Decoupling and freeze-out]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (18)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="CMB%20-%20discovery%20and%20blackbody%20spectrum.html" class="backlink-item">CMB - discovery and blackbody spectrum</a></li>
-    <li class="backlink-item-wrap"><a href="CMB%20Spectral%20Distortions%20-%20What%20They%20Are%20and%20Where%20They%20Come%20From.html" class="backlink-item">CMB Spectral Distortions - What They Are and Where They Come From</a></li>
-    <li class="backlink-item-wrap"><a href="CMB%20anisotropies.html" class="backlink-item">CMB anisotropies</a></li>
-    <li class="backlink-item-wrap"><a href="CMB%20power%20spectrum.html" class="backlink-item">CMB power spectrum</a></li>
-    <li class="backlink-item-wrap"><a href="Case%20A%20vs%20Case%20B%20recombination.html" class="backlink-item">Case A vs Case B recombination</a></li>
-    <li class="backlink-item-wrap"><a href="Cosmic_inventory_photons.html" class="backlink-item">Cosmic_inventory_photons</a></li>
-    <li class="backlink-item-wrap"><a href="Cosmic_inventory_photons_derivation.html" class="backlink-item">Cosmic_inventory_photons_derivation</a></li>
-    <li class="backlink-item-wrap"><a href="Cosmological%20redshift.html" class="backlink-item">Cosmological redshift</a></li>
-    <li class="backlink-item-wrap"><a href="Decoupling.html" class="backlink-item">Decoupling</a></li>
-    <li class="backlink-item-wrap"><a href="Hydrogen%20spectral%20series.html" class="backlink-item">Hydrogen spectral series</a></li>
-    <li class="backlink-item-wrap"><a href="Jeans%20analysis%20in%20expanding%20universe.html" class="backlink-item">Jeans analysis in expanding universe</a></li>
-    <li class="backlink-item-wrap"><a href="Matter%20radiation%20equality.html" class="backlink-item">Matter radiation equality</a></li>
-    <li class="backlink-item-wrap"><a href="Recombination.html" class="backlink-item">Recombination</a></li>
-    <li class="backlink-item-wrap"><a href="Reionization.html" class="backlink-item">Reionization</a></li>
-    <li class="backlink-item-wrap"><a href="Rydberg-Ritz%20formula.html" class="backlink-item">Rydberg-Ritz formula</a></li>
-    <li class="backlink-item-wrap"><a href="Saha%20equation%20and%20recombination.html" class="backlink-item">Saha equation and recombination</a></li>
-    <li class="backlink-item-wrap"><a href="Transition%20epochs.html" class="backlink-item">Transition epochs</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[CMB - discovery and blackbody spectrum]]
+- [[CMB Spectral Distortions - What They Are and Where They Come From]]
+- [[CMB anisotropies]]
+- [[CMB power spectrum]]
+- [[Case A vs Case B recombination]]
+- [[Cosmic_inventory_photons]]
+- [[Cosmic_inventory_photons_derivation]]
+- [[Cosmological redshift]]
+- [[Decoupling]]
+- [[Hydrogen spectral series]]
+- [[Jeans analysis in expanding universe]]
+- [[Matter radiation equality]]
+- [[Recombination]]
+- [[Reionization]]
+- [[Rydberg-Ritz formula]]
+- [[Saha equation and recombination]]
+- [[Transition epochs]]
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+
 

@@ -32,9 +32,9 @@ $$\boxed{A_{eff}(E) = A_{geo} \times R_{mirrors}(E) \times QE(E) \times T_{filte
 where
 	$A_{geo}$: geometric collecting area of the mirror aperture
 	$R_{mirrors}(E)$: reflectivity of the grazing-incidence mirrors
-		depends on coating material and $\theta_c(E) \propto \sqrt{\rho}/E$ — see [Grazing incidence](Grazing%20incidence.html)
+		depends on coating material and $\theta_c(E) \propto \sqrt{\rho}/E$ — see [[Grazing incidence]]
 	$QE(E)$: quantum efficiency of the detector
-		limited at low $E$ by absorption in dead layers, at high $E$ by finite depletion depth — see [Quantum efficiency](Quantum%20efficiency.html)
+		limited at low $E$ by absorption in dead layers, at high $E$ by finite depletion depth — see [[Quantum efficiency]]
 	$T_{filter}(E)$: transmission of optical blocking filters
 		absorbs UV/visible photons but also removes some soft X-rays
 
@@ -42,7 +42,7 @@ where
 
 ## Wolter I telescope: analytic formula
 
-For a single [Wolter I](Wolter%20Telescope.html) shell with focal length $f$, mirror length $L$, grazing angle $\theta$, reflectivity $R(E)$:
+For a single [[Wolter Telescope|Wolter I]] shell with focal length $f$, mirror length $L$, grazing angle $\theta$, reflectivity $R(E)$:
 $$A_{eff}(E) = 8\pi f L \theta^2(E) \cdot R^2(E)$$
 
 where the factor $R^2$ accounts for **two reflections** (paraboloid + hyperboloid), each with reflectivity $R$
@@ -105,7 +105,7 @@ $$C = \int_{E_1}^{E_2} \mathcal{F}(E) \cdot A_{eff}(E) \, dE$$
 
 where $\mathcal{F}(E) = F_E/E$ is the photon spectral flux
 	to recover $F$ from $C$, the full response including the redistribution matrix $R(I,E)$ must be inverted via spectral fitting
-	see [Luminosity and Flux for -Instrumentations](Luminosity%20and%20Flux%20for%20-Instrumentations.html) for the complete chain
+	see [[Luminosity and Flux for -Instrumentations]] for the complete chain
 
 ---
 
@@ -118,10 +118,10 @@ where $\mathcal{F}(E) = F_E/E$ is the photon spectral flux
 ![xray_detector_p4_img3.png](../../assets/images/xray_detector_p4_img3.png)
 *Comparison of effective area curves across major X-ray missions: Chandra HRMA, XMM-Newton EPIC, Swift XRT, and NuSTAR.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (1)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Lab_High-Energy_MOC]]
+
 

@@ -88,23 +88,23 @@ a PRNG with period $T$ should not be used for simulations requiring more than $\
 
 ## see also
 
-- [Random number seeds](Random%20number%20seeds.html)
-- [Inverse transform sampling](Inverse%20transform%20sampling.html)
-- [Box-Muller transform for Gaussian random numbers](Box-Muller%20transform%20for%20Gaussian%20random%20numbers.html)
-- [Rejection sampling](Rejection%20sampling.html)
-- [Monte Carlo integration mean value method](Monte%20Carlo%20integration%20mean%20value%20method.html)
-- [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
+- [[Random number seeds]]
+- [[Inverse transform sampling]]
+- [[Box-Muller transform for Gaussian random numbers]]
+- [[Rejection sampling]]
+- [[Monte Carlo integration mean value method]]
+- [[Mathematical_Numerical_Methods_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Box-Muller%20transform%20for%20Gaussian%20random%20numbers.html" class="backlink-item">Box-Muller transform for Gaussian random numbers</a></li>
-    <li class="backlink-item-wrap"><a href="Inverse%20transform%20sampling.html" class="backlink-item">Inverse transform sampling</a></li>
-    <li class="backlink-item-wrap"><a href="Monte%20Carlo%20integration%20mean%20value%20method.html" class="backlink-item">Monte Carlo integration mean value method</a></li>
-    <li class="backlink-item-wrap"><a href="Multidimensional%20Monte%20Carlo%20integration.html" class="backlink-item">Multidimensional Monte Carlo integration</a></li>
-    <li class="backlink-item-wrap"><a href="Random%20number%20seeds.html" class="backlink-item">Random number seeds</a></li>
-    <li class="backlink-item-wrap"><a href="Rejection%20sampling.html" class="backlink-item">Rejection sampling</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Box-Muller transform for Gaussian random numbers]]
+- [[Inverse transform sampling]]
+- [[Monte Carlo integration mean value method]]
+- [[Multidimensional Monte Carlo integration]]
+- [[Random number seeds]]
+- [[Rejection sampling]]
+- [[Mathematical_Numerical_Methods_MOC]]
+
 

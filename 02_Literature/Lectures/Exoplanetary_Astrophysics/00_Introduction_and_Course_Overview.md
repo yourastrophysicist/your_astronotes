@@ -5,7 +5,7 @@ title: "00_Introduction_and_Course_Overview"
 # Lesson 00 – Introduction and Course Overview
 
 *Exoplanetary Astrophysics, Prof. Giampaolo Piotto (Lecture 28/09/2025)*  
-*Index: [Exoplanetary_Astrophysics_MOC](../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)*
+*Index: [[Exoplanetary_Astrophysics_MOC]]*
 
 ---
 
@@ -75,14 +75,14 @@ The examination consists of:
 ---
 
 ## Cross-Links & Vault Navigation
-- Master Map of Content: [Exoplanetary_Astrophysics_MOC](../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)
-- Next Lecture: [01_Global_Architecture_of_the_Solar_System](./01_Global_Architecture_of_the_Solar_System.html)
-- Related Courses: [Astrophysics_Laboratory_2_MOC](../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html) | [Computational_Astrophysics_MOC](../../../04_Atlas/Computational_Astrophysics_MOC.html)
+- Master Map of Content: [[Exoplanetary_Astrophysics_MOC]]
+- Next Lecture: [[01_Global_Architecture_of_the_Solar_System]]
+- Related Courses: [[Astrophysics_Laboratory_2_MOC]] | [[Computational_Astrophysics_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (1)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Exoplanetary_Astrophysics_MOC]]
+
 

@@ -125,25 +125,25 @@ When asked by Prof. Pizzella - *"What is the green valley, what does its existen
 
 ## 8. Related Knowledge Base Notes
 
-- [Red sequence and blue cloud](Red%20sequence%20and%20blue%20cloud.html) - The fundamental optical color-magnitude diagram bimodality.
-- [Color bimodality of galaxies](Color%20bimodality%20of%20galaxies.html) - Statistical decomposition of galaxy populations and luminosity functions.
-- [Galaxy color, density and morphology](Galaxy%20color%2C%20density%20and%20morphology.html) - Environmental ram-pressure stripping and cluster morphology transformations.
-- [Schmidt-Kennicutt law](Schmidt-Kennicutt%20law.html) - Star formation rate surface density relations governing gas exhaustion.
-- [Alpha-Fe enhancement](Alpha-Fe%20enhancement.html) - Chemical clock proving the short starburst and quenching timescales of massive spheroids.
+- [[Red sequence and blue cloud]] - The fundamental optical color-magnitude diagram bimodality.
+- [[Color bimodality of galaxies]] - Statistical decomposition of galaxy populations and luminosity functions.
+- [[Galaxy color, density and morphology]] - Environmental ram-pressure stripping and cluster morphology transformations.
+- [[Schmidt-Kennicutt law]] - Star formation rate surface density relations governing gas exhaustion.
+- [[Alpha-Fe enhancement]] - Chemical clock proving the short starburst and quenching timescales of massive spheroids.
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (10)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Color%20bimodality%20of%20galaxies.html" class="backlink-item">Color bimodality of galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="Galaxy%20color%2C%20density%20and%20morphology.html" class="backlink-item">Galaxy color, density and morphology</a></li>
-    <li class="backlink-item-wrap"><a href="Galaxy%20mergers%20and%20SF.html" class="backlink-item">Galaxy mergers and SF</a></li>
-    <li class="backlink-item-wrap"><a href="Halo%20gravity%20suppression%20of%20galaxy%20formation.html" class="backlink-item">Halo gravity suppression of galaxy formation</a></li>
-    <li class="backlink-item-wrap"><a href="Post-starburst%20galaxies.html" class="backlink-item">Post-starburst galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="Quenching%20and%20passive%20galaxies%20at%20high%20z.html" class="backlink-item">Quenching and passive galaxies at high z</a></li>
-    <li class="backlink-item-wrap"><a href="Red%20sequence%20and%20blue%20cloud.html" class="backlink-item">Red sequence and blue cloud</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20mass%20function.html" class="backlink-item">Stellar mass function</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Color bimodality of galaxies]]
+- [[Galaxy color, density and morphology]]
+- [[Galaxy mergers and SF]]
+- [[Halo gravity suppression of galaxy formation]]
+- [[Post-starburst galaxies]]
+- [[Quenching and passive galaxies at high z]]
+- [[Red sequence and blue cloud]]
+- [[Stellar mass function]]
+- [[Astrophysics_of_Galaxies_MOC]]
+- [[Observational_Cosmology_MOC]]
+
 

@@ -38,16 +38,16 @@ the total current $I$ required to confine a given line density $N$ at temperatur
 
 ## see also
 
-- [Fluid_and_Plasma_Dynamics_MOC](../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html)
-- [Part7_Magnetohydrodynamics_Equilibrium_and_Waves](../../02_Literature/Lectures/Fluid_and_Plasma_Dynamics/Part7_Magnetohydrodynamics_Equilibrium_and_Waves.html)
-- [Grad-Shafranov equation and axisymmetric tokamak equilibria](Grad-Shafranov%20equation%20and%20axisymmetric%20tokamak%20equilibria.html)
-- [Ideal MHD equations and Alfven flux freezing theorem](Ideal%20MHD%20equations%20and%20Alfven%20flux%20freezing%20theorem.html)
+- [[Fluid_and_Plasma_Dynamics_MOC]]
+- [[Part7_Magnetohydrodynamics_Equilibrium_and_Waves]]
+- [[Grad-Shafranov equation and axisymmetric tokamak equilibria]]
+- [[Ideal MHD equations and Alfven flux freezing theorem]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Grad-Shafranov%20equation%20and%20axisymmetric%20tokamak%20equilibria.html" class="backlink-item">Grad-Shafranov equation and axisymmetric tokamak equilibria</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Grad-Shafranov equation and axisymmetric tokamak equilibria]]
+- [[Fluid_and_Plasma_Dynamics_MOC]]
+
 

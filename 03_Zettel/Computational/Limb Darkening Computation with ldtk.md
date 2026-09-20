@@ -15,16 +15,16 @@ $$u_1 \pm \sigma_{u_1}, \quad u_2 \pm \sigma_{u_2}$$
 These values serve as informative Gaussian priors in Bayesian transit fitting.
 
 ## Related Notes
-- [Stellar Limb Darkening Laws](../Theory/Stellar%20Limb%20Darkening%20Laws.html)
-- [Malavolta 11 - Transit Geometry and Analytical Light Curve Modeling](../../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2011%20-%20Transit%20Geometry%20and%20Analytical%20Light%20Curve%20Modeling.html)
-- [Prior Probability Distributions in Exoplanet Fitting](../Theory/Prior%20Probability%20Distributions%20in%20Exoplanet%20Fitting.html)
+- [[Stellar Limb Darkening Laws]]
+- [[Malavolta 11 - Transit Geometry and Analytical Light Curve Modeling]]
+- [[Prior Probability Distributions in Exoplanet Fitting]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Theory/Stellar%20Limb%20Darkening%20Laws.html" class="backlink-item">Stellar Limb Darkening Laws</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Stellar Limb Darkening Laws]]
+- [[Astrophysics_Laboratory_2_MOC]]
+- [[Computational_Astrophysics_MOC]]
+
 

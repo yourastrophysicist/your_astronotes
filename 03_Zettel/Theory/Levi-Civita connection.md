@@ -53,24 +53,24 @@ and this is exactly **the equation that extremises the proper time** for timelik
 
 ## see also
 
-- [Christoffel symbols](Christoffel%20symbols.html)
-- [Metric compatibility](Metric%20compatibility.html)
-- [Covariant derivative](Covariant%20derivative.html)
-- [Geodesic equation](Geodesic%20equation.html)
-- [Parallel transport](Parallel%20transport.html)
-- [Manifold metric and signature](Manifold%20metric%20and%20signature.html)
-- [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
-- [Ch 2 - Some Differential Geometry](../../02_Literature/Book/Baumann%20GR/Ch%202%20-%20Some%20Differential%20Geometry.html)
+- [[Christoffel symbols]]
+- [[Metric compatibility]]
+- [[Covariant derivative]]
+- [[Geodesic equation]]
+- [[Parallel transport]]
+- [[Manifold metric and signature]]
+- [[General_Relativity_MOC]]
+- [[Ch 2 - Some Differential Geometry]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Christoffel%20symbols.html" class="backlink-item">Christoffel symbols</a></li>
-    <li class="backlink-item-wrap"><a href="Covariant%20derivative.html" class="backlink-item">Covariant derivative</a></li>
-    <li class="backlink-item-wrap"><a href="Geodesic%20equation.html" class="backlink-item">Geodesic equation</a></li>
-    <li class="backlink-item-wrap"><a href="Metric%20compatibility.html" class="backlink-item">Metric compatibility</a></li>
-    <li class="backlink-item-wrap"><a href="Parallel%20transport.html" class="backlink-item">Parallel transport</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Christoffel symbols]]
+- [[Covariant derivative]]
+- [[Geodesic equation]]
+- [[Metric compatibility]]
+- [[Parallel transport]]
+- [[General_Relativity_MOC]]
+
 

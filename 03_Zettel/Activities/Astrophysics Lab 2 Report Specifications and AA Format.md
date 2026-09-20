@@ -57,13 +57,13 @@ Summary of empirical measurements and future observational prospects.
 Complete formal citations for literature and all Python packages (`astropy`, `batman-package`, `ldtk`, `emcee`, `corner`, `jplephem`, `scipy`, `numpy`, `matplotlib`).
 
 ## Related Notes
-- [Lesson 00 - Course Overview and Research Methodology](../../02_Literature/Lectures/Astrophysics_Laboratory_2/Lesson%2000%20-%20Course%20Overview%20and%20Research%20Methodology.html)
-- [Laboratory Report Guidelines and Scientific Writing](../../02_Literature/Lectures/Astrophysics_Laboratory_2/Laboratory%20Report%20Guidelines%20and%20Scientific%20Writing.html)
+- [[Lesson 00 - Course Overview and Research Methodology]]
+- [[Laboratory Report Guidelines and Scientific Writing]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (1)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Astrophysics_Laboratory_2_MOC]]
+
 

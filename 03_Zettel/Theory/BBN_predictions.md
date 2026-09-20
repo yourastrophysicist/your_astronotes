@@ -37,7 +37,7 @@ the various cross-sections also depend on $T$, and the number densities of nucle
 $$n_A = (X_A/A)(\eta n_\gamma)$$
 so the corresponding interaction rates $\Gamma = n_A \sigma v = \Gamma(\eta, T)$.
 
-note: $\eta = (n_N/n_\gamma) = 2.68 \times 10^{-8}\, (\Omega_{0b} h^2)$, see [BBN_baryon_to_photon_ratio](BBN_baryon_to_photon_ratio.html).
+note: $\eta = (n_N/n_\gamma) = 2.68 \times 10^{-8}\, (\Omega_{0b} h^2)$, see [[BBN_baryon_to_photon_ratio]].
 
 ![bbn-33.png](../../assets/images/bbn-33.png)
 
@@ -107,25 +107,25 @@ these specific dependences are what make BBN such a powerful probe:
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [BBN_overview](BBN_overview.html)
-- [BBN_three_steps](BBN_three_steps.html)
-- [BBN_baryon_to_photon_ratio](BBN_baryon_to_photon_ratio.html)
-- [BBN_observations](BBN_observations.html)
-- [BBN_concordance_with_CMB](BBN_concordance_with_CMB.html)
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[BBN_overview]]
+- [[BBN_three_steps]]
+- [[BBN_baryon_to_photon_ratio]]
+- [[BBN_observations]]
+- [[BBN_concordance_with_CMB]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (9)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="BBN_concordance_with_CMB.html" class="backlink-item">BBN_concordance_with_CMB</a></li>
-    <li class="backlink-item-wrap"><a href="BBN_neutron_proton_ratio.html" class="backlink-item">BBN_neutron_proton_ratio</a></li>
-    <li class="backlink-item-wrap"><a href="BBN_observations.html" class="backlink-item">BBN_observations</a></li>
-    <li class="backlink-item-wrap"><a href="BBN_three_steps.html" class="backlink-item">BBN_three_steps</a></li>
-    <li class="backlink-item-wrap"><a href="Big%20Bang%20nucleosynthesis.html" class="backlink-item">Big Bang nucleosynthesis</a></li>
-    <li class="backlink-item-wrap"><a href="Boltzmann%20equation%20in%20cosmology.html" class="backlink-item">Boltzmann equation in cosmology</a></li>
-    <li class="backlink-item-wrap"><a href="Cosmic_inventory_neutrinos.html" class="backlink-item">Cosmic_inventory_neutrinos</a></li>
-    <li class="backlink-item-wrap"><a href="Temperature-time%20relation.html" class="backlink-item">Temperature-time relation</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[BBN_concordance_with_CMB]]
+- [[BBN_neutron_proton_ratio]]
+- [[BBN_observations]]
+- [[BBN_three_steps]]
+- [[Big Bang nucleosynthesis]]
+- [[Boltzmann equation in cosmology]]
+- [[Cosmic_inventory_neutrinos]]
+- [[Temperature-time relation]]
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+
 

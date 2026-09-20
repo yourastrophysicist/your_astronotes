@@ -72,23 +72,19 @@ it's a technique that sounds esoteric but is foundational: without apodization, 
 
 ## see also
 
-- [Coronagraphy](Coronagraphy.html)
-- [Nulling interferometry](Nulling%20interferometry.html)
-- [Bracewell nuller](Bracewell%20nuller.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Coronagraphy]]
+- [[Nulling interferometry]]
+- [[Bracewell nuller]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (9)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Bracewell%20nuller.html" class="backlink-item">Bracewell nuller</a></li>
-    <li class="backlink-item-wrap"><a href="../Coronagraphy.html" class="backlink-item">Coronagraphy</a></li>
-    <li class="backlink-item-wrap"><a href="../Hypertelescope.html" class="backlink-item">Hypertelescope</a></li>
-    <li class="backlink-item-wrap"><a href="../Nulling%20interferometry.html" class="backlink-item">Nulling interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="Bracewell%20nuller.html" class="backlink-item">Bracewell nuller</a></li>
-    <li class="backlink-item-wrap"><a href="Coronagraphy.html" class="backlink-item">Coronagraphy</a></li>
-    <li class="backlink-item-wrap"><a href="Hypertelescope.html" class="backlink-item">Hypertelescope</a></li>
-    <li class="backlink-item-wrap"><a href="Nulling%20interferometry.html" class="backlink-item">Nulling interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Bracewell nuller]]
+- [[Coronagraphy]]
+- [[Hypertelescope]]
+- [[Nulling interferometry]]
+- [[Astronomical_Interferometry_MOC]]
+
 

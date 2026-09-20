@@ -143,21 +143,21 @@ This marked the **first direct measurement of a star's angular diameter in human
 
 ## see also
 
-- [Radio telescope components](Radio%20telescope%20components.html)
-- [Michelson stellar interferometer](interf/Michelson%20stellar%20interferometer.html)
-- [Electromagnetic waves and photons](interf/Electromagnetic%20waves%20and%20photons.html)
-- [Heterodyne vs direct detection](interf/Heterodyne%20vs%20direct%20detection.html)
-- [Atmospheric turbulence overview](interf/Atmospheric%20turbulence%20overview.html)
-- [Adaptive optics](interf/Adaptive%20optics.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Radio telescope components]]
+- [[Michelson stellar interferometer]]
+- [[Electromagnetic waves and photons]]
+- [[Heterodyne vs direct detection]]
+- [[Atmospheric turbulence overview]]
+- [[Adaptive optics]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Electromagnetic%20waves%20and%20photons.html" class="backlink-item">Electromagnetic waves and photons</a></li>
-    <li class="backlink-item-wrap"><a href="Heterodyne%20vs%20direct%20detection.html" class="backlink-item">Heterodyne vs direct detection</a></li>
-    <li class="backlink-item-wrap"><a href="Michelson%20stellar%20interferometer.html" class="backlink-item">Michelson stellar interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="Radio%20telescope%20components.html" class="backlink-item">Radio telescope components</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Electromagnetic waves and photons]]
+- [[Heterodyne vs direct detection]]
+- [[Michelson stellar interferometer]]
+- [[Radio telescope components]]
+
 

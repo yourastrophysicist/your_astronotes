@@ -28,15 +28,15 @@ interstellar FUV photons ($11.2 - 13.6\text{ eV}$) photodissociate $H_2$ via the
 
 ## see also
 
-- [Astrophysics_of_the_Interstellar_Medium_MOC](../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html)
-- [Multi-phase structure of the interstellar medium](Multi-phase%20structure%20of%20the%20interstellar%20medium.html)
-- [Carraro_05_Interstellar_Dust_and_Extinction](../../02_Literature/Lectures/Interstellar_Medium/Carraro_05_Interstellar_Dust_and_Extinction.html)
+- [[Astrophysics_of_the_Interstellar_Medium_MOC]]
+- [[Multi-phase structure of the interstellar medium]]
+- [[Carraro_05_Interstellar_Dust_and_Extinction]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Jeans%20gravitational%20instability%20and%20Jeans%20mass.html" class="backlink-item">Jeans gravitational instability and Jeans mass</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html" class="backlink-item">Astrophysics_of_the_Interstellar_Medium_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Jeans gravitational instability and Jeans mass]]
+- [[Astrophysics_of_the_Interstellar_Medium_MOC]]
+
 

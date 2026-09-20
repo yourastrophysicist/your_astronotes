@@ -33,12 +33,12 @@ echelle gratings are blazed at very high $\theta_B$ to send light into very high
 
 ## see also
 
-- [Grating equation](Grating%20equation.html)
-- [Single slit diffraction](Single%20slit%20diffraction.html)
-- [N-slit interference and gratings](N-slit%20interference%20and%20gratings.html)
-- [Spectrograph design](Spectrograph%20design.html)
-- [Dispersion and spectral resolution](Dispersion%20and%20spectral%20resolution.html)
-- [Echelle spectroscopy](Echelle%20spectroscopy.html)
+- [[Grating equation]]
+- [[Single slit diffraction]]
+- [[N-slit interference and gratings]]
+- [[Spectrograph design]]
+- [[Dispersion and spectral resolution]]
+- [[Echelle spectroscopy]]
 
 ---
 
@@ -51,14 +51,14 @@ echelle gratings are blazed at very high $\theta_B$ to send light into very high
 ![spec_optics_p20.png](../../assets/images/spec_optics_p20.png)
 *Blaze efficiency function: modulation of multiple-slit interference pattern by single-facet Fraunhofer diffraction envelope.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Echelle%20spectroscopy.html" class="backlink-item">Echelle spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="Grating%20equation.html" class="backlink-item">Grating equation</a></li>
-    <li class="backlink-item-wrap"><a href="N-slit%20interference%20and%20gratings.html" class="backlink-item">N-slit interference and gratings</a></li>
-    <li class="backlink-item-wrap"><a href="Single%20slit%20diffraction.html" class="backlink-item">Single slit diffraction</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Echelle spectroscopy]]
+- [[Grating equation]]
+- [[N-slit interference and gratings]]
+- [[Single slit diffraction]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 

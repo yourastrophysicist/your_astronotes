@@ -45,7 +45,7 @@ in cool stars, the dominant continuum opacity. H$^-$ has a very broad bound-free
 | F-G (Sun) | line blanketing in blue, H$^-$ in red |
 | K-M | molecular bands (TiO, VO) carve out optical |
 
-modern stellar atmosphere codes (PHOENIX, MARCS, ATLAS9) include all these effects. the resulting **synthetic spectra** are tabulated in libraries (Castelli-Kurucz, BT-Settl) used by population synthesis codes ([SPS code families](SPS%20code%20families.html)).
+modern stellar atmosphere codes (PHOENIX, MARCS, ATLAS9) include all these effects. the resulting **synthetic spectra** are tabulated in libraries (Castelli-Kurucz, BT-Settl) used by population synthesis codes ([[SPS code families]]).
 
 ## bolometric flux
 
@@ -56,25 +56,25 @@ $$F_{\rm bol} = \int F_\nu d\nu = \sigma_{SB} T_{\rm eff}^4$$
 
 ## the consequence for photometry
 
-photometric magnitudes depend on the convolution of $F_\lambda$ with filter throughput. the deviations from Planck contribute to the **bolometric correction** ([Bolometric correction and effective temperature](Bolometric%20correction%20and%20effective%20temperature.html)). for the Sun, $BC_V \approx -0.07$, very small. for an O5 star, $BC_V \approx -4.1$ (most light in UV).
+photometric magnitudes depend on the convolution of $F_\lambda$ with filter throughput. the deviations from Planck contribute to the **bolometric correction** ([[Bolometric correction and effective temperature]]). for the Sun, $BC_V \approx -0.07$, very small. for an O5 star, $BC_V \approx -4.1$ (most light in UV).
 
 ## see also
 
-- [Continuum opacity sources](Continuum%20opacity%20sources.html)
-- [Equation of radiative transfer](Equation%20of%20radiative%20transfer.html)
-- [Eddington-Barbier approximation](Eddington-Barbier%20approximation.html)
-- [Source function](Source%20function.html)
-- [Stellar atmosphere structure](Stellar%20atmosphere%20structure.html)
-- [Planck law Wien Stefan-Boltzmann](Planck%20law%20Wien%20Stefan-Boltzmann.html)
-- [Bolometric correction and effective temperature](Bolometric%20correction%20and%20effective%20temperature.html)
-- [Hydrogen spectral series](Hydrogen%20spectral%20series.html)
-- [Single stellar population SSP](Single%20stellar%20population%20SSP.html)
-- [SPS code families](SPS%20code%20families.html)
+- [[Continuum opacity sources]]
+- [[Equation of radiative transfer]]
+- [[Eddington-Barbier approximation]]
+- [[Source function]]
+- [[Stellar atmosphere structure]]
+- [[Planck law Wien Stefan-Boltzmann]]
+- [[Bolometric correction and effective temperature]]
+- [[Hydrogen spectral series]]
+- [[Single stellar population SSP]]
+- [[SPS code families]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (1)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Astronomical_Spectroscopy_MOC]]
+
 

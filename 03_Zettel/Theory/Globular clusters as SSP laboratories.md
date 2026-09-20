@@ -2,7 +2,7 @@
 layout: "default"
 title: "Globular clusters as SSP laboratories"
 ---
-globular clusters became the canonical "simple stellar population" laboratory because of a coincidence of properties that rarely occur together elsewhere in nature. they are *old* (typical ages $11$ to $13$ Gyr), *populous* enough ($N_\star \sim 10^4$ to $10^6$ stars) for every short-lived evolutionary phase to be statistically populated, *tightly bound* (crossing time $\ll$ relaxation time $\ll$ age), and morphologically simple (spheroidal, low rotation, low internal extinction). each of these properties translates to an inferential advantage when reading the [Color-magnitude diagrams of clusters](Color-magnitude%20diagrams%20of%20clusters.html).
+globular clusters became the canonical "simple stellar population" laboratory because of a coincidence of properties that rarely occur together elsewhere in nature. they are *old* (typical ages $11$ to $13$ Gyr), *populous* enough ($N_\star \sim 10^4$ to $10^6$ stars) for every short-lived evolutionary phase to be statistically populated, *tightly bound* (crossing time $\ll$ relaxation time $\ll$ age), and morphologically simple (spheroidal, low rotation, low internal extinction). each of these properties translates to an inferential advantage when reading the [[Color-magnitude diagrams of clusters]].
 
 old age means the main sequence turn-off mass is low, $M_\mathrm{TO} \approx 0.85 \, M_\odot$ for a 12 Gyr population, so essentially all evolutionary stages predicted by stellar evolution theory above the TO are reached and visible in the CMD: subgiant branch, red giant branch, horizontal branch, asymptotic giant branch, and finally the white dwarf cooling sequence. nothing massive is left burning hydrogen on the upper MS; the cluster is a clean snapshot of low-mass evolution.
 
@@ -10,7 +10,7 @@ populous means short-lived phases (HB lifetime $\sim 10^8$ yr, AGB $\sim 10^6$ y
 $$ N_j = B(t) \, L_T \, t_j $$
 where $L_T$ is the integrated luminosity of the population, $t_j$ is the duration of phase $j$, and $B(t) \approx 2 \times 10^{-11} \, \mathrm{stars} \, L_\odot^{-1} \, \mathrm{yr}^{-1}$ is the specific evolutionary flux. for $L_T \sim 10^5 \, L_\odot$ and $t_\mathrm{HB} \sim 10^8$ yr, one expects $\sim 200$ HB stars, which matches what is seen.
 
-tight binding means all stars in the cluster are at the same distance to within $\lesssim 1\%$ (a few pc out of $\sim 10$ kpc), so apparent and absolute magnitudes differ by a single offset $(m-M)$ common to every star. this collapses the [HR diagram](HR%20diagram.html) vertical axis from "luminosity" to "apparent magnitude" with no per-star distance correction, which is exactly what enables isochrone fitting for distance.
+tight binding means all stars in the cluster are at the same distance to within $\lesssim 1\%$ (a few pc out of $\sim 10$ kpc), so apparent and absolute magnitudes differ by a single offset $(m-M)$ common to every star. this collapses the [[HR diagram]] vertical axis from "luminosity" to "apparent magnitude" with no per-star distance correction, which is exactly what enables isochrone fitting for distance.
 
 old age plus low metallicity also means that ~~most~~ all GC stars formed before the host galaxy was significantly enriched, so $[\mathrm{Fe}/\mathrm{H}]$ within a single cluster is uniform (with the famous exceptions $\omega$ Cen, M54, NGC 2419 that show internal Fe spread, and the now-pervasive light-element multiple populations of milone, carretta, gratton). the IMF-integrated SSP assumption therefore holds to a level adequate for testing stellar evolution.
 
@@ -21,11 +21,11 @@ beyond the milky way, GC systems are observed around essentially every galaxy wi
 cite the foundational paper: **Renzini & Buzzoni 1986**, "global properties of stellar populations and the spectral evolution of galaxies", which established the fuel-consumption framework that links resolved CMDs to integrated SSP photometry.
 
 ## see also
-- [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
-- [Single stellar population SSP](Single%20stellar%20population%20SSP.html)
-- [Star cluster types](Star%20cluster%20types.html)
-- [Population I and II stars](Population%20I%20and%20II%20stars.html)
-- [Color-magnitude diagrams of clusters](Color-magnitude%20diagrams%20of%20clusters.html)
+- [[Stellar_Astrophysics_MOC]]
+- [[Single stellar population SSP]]
+- [[Star cluster types]]
+- [[Population I and II stars]]
+- [[Color-magnitude diagrams of clusters]]
 - Multiple populations in globular clusters
 
 ---
@@ -60,14 +60,14 @@ The following slides from Prof. Antonino Milone's lecture series provide the dir
 ![LAntonino_p22_09.png](../../assets/images/LAntonino_p22_09.png)
 *Figure P22-08: LAntonino_p22_09.png — Observational data, CMD morphology, and diagnostics from Lecture 22 — Course Synthesis & Observational Frontiers.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Extragalactic%20star%20clusters.html" class="backlink-item">Extragalactic star clusters</a></li>
-    <li class="backlink-item-wrap"><a href="Open%20clusters%20as%20young%20SSP%20laboratories.html" class="backlink-item">Open clusters as young SSP laboratories</a></li>
-    <li class="backlink-item-wrap"><a href="Population%20I%20and%20II%20stars.html" class="backlink-item">Population I and II stars</a></li>
-    <li class="backlink-item-wrap"><a href="Star%20cluster%20types.html" class="backlink-item">Star cluster types</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Extragalactic star clusters]]
+- [[Open clusters as young SSP laboratories]]
+- [[Population I and II stars]]
+- [[Star cluster types]]
+- [[Stellar_Astrophysics_MOC]]
+
 

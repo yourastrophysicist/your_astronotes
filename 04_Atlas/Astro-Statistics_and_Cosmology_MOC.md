@@ -39,37 +39,37 @@ Stochastic analysis of cosmic fields. The Cosmic Microwave Background angular po
 
 ## Master Lecture Notes
 
-1. [Lecture 01: Plausible Reasoning, Cox's Theorem & Bayesian Foundations](../02_Literature/Lectures/Astrostatistics/01_Plausible_Reasoning_Cox_Theorem_and_Bayesian_Foundations.html)
+1. [[01_Plausible_Reasoning_Cox_Theorem_and_Bayesian_Foundations|Lecture 01: Plausible Reasoning, Cox's Theorem & Bayesian Foundations]]
    Deductive logic limitations, Cox postulates, derivation of product and sum rules, structure of Bayes' theorem, frequentist versus Bayesian paradigms, recursive updating.
 
-2. [Lecture 02: Parameter Estimation, Gaussian Noise & Credible Intervals](../02_Literature/Lectures/Astrostatistics/02_Parameter_Estimation_Gaussian_Noise_and_Credible_Intervals.html)
+2. [[02_Parameter_Estimation_Gaussian_Noise_and_Credible_Intervals|Lecture 02: Parameter Estimation, Gaussian Noise & Credible Intervals]]
    Generative noise models, Gaussian likelihoods, MLE and MAP estimators, Bernstein-von Mises theorem, scalar Gaussian updating, equal-tailed and Highest Posterior Density (HPD) credible intervals.
 
-3. [Lecture 03: Multivariate Gaussians, Marginalization & Linear Models](../02_Literature/Lectures/Astrostatistics/03_Multivariate_Gaussians_Marginalization_Conditioning_and_Linear_Models.html)
+3. [[03_Multivariate_Gaussians_Marginalization_Conditioning_and_Linear_Models|Lecture 03: Multivariate Gaussians, Marginalization & Linear Models]]
    Multivariate Gaussian properties, Schur complement block matrix algebra, proofs of marginalization and conditioning, generalized least squares linear models, dual characteristic functions.
 
-4. [Lecture 04: Frequentist vs Bayesian Inference & Confidence Intervals](../02_Literature/Lectures/Astrostatistics/04_Frequentist_vs_Bayesian_Inference_and_Confidence_Intervals.html)
+4. [[04_Frequentist_vs_Bayesian_Inference_and_Confidence_Intervals|Lecture 04: Frequentist vs Bayesian Inference & Confidence Intervals]]
    Sampling distributions, estimator bias and variance, Neyman confidence interval coverage, the stopping rule paradox, violation of the Likelihood Principle, physical boundary traps, Lindley's paradox.
 
-5. [Lecture 05: Monte Carlo, Metropolis-Hastings & MCMC Diagnostics](../02_Literature/Lectures/Astrostatistics/05_Monte_Carlo_Metropolis_Hastings_and_MCMC_Convergence_Diagnostics.html)
+5. [[05_Monte_Carlo_Metropolis_Hastings_and_MCMC_Convergence_Diagnostics|Lecture 05: Monte Carlo, Metropolis-Hastings & MCMC Diagnostics]]
    High-dimensional integration challenges, Monte Carlo error scaling, Markov chains, detailed balance, Metropolis-Hastings algorithm, Gibbs sampling, proposal tuning, trace plots, autocorrelation time, effective sample size, Gelman-Rubin diagnostic.
 
-6. [Lecture 06: Fisher Information Matrix, Cramer-Rao Bound & Forecasting](../02_Literature/Lectures/Astrostatistics/06_Fisher_Information_Matrix_Cramer_Rao_Bound_and_Survey_Forecasting.html)
+6. [[06_Fisher_Information_Matrix_Cramer_Rao_Bound_and_Survey_Forecasting|Lecture 06: Fisher Information Matrix, Cramer-Rao Bound & Forecasting]]
    Score function, Fisher information matrix derivation, Cramér-Rao bound, conditional versus marginalized errors, Tegmark Gaussian formula, Dark Energy Task Force Figure of Merit, multi-probe combination.
 
-7. [Lecture 07: CMB Power Spectrum Likelihood Analysis & Cosmic Variance](../02_Literature/Lectures/Astrostatistics/07_CMB_Power_Spectrum_Likelihood_Analysis_and_Cosmic_Variance.html)
+7. [[07_CMB_Power_Spectrum_Likelihood_Analysis_and_Cosmic_Variance|Lecture 07: CMB Power Spectrum Likelihood Analysis & Cosmic Variance]]
    Recombination physics, spherical harmonic decomposition, statistical isotropy, unbiased $C_\ell$ estimator, exact cosmic variance derivation, sky masking and Knox formula, exact Wishart likelihood and high-$\ell$ Gaussian limit.
 
-8. [Lecture 08: Galaxy Clustering, Point Processes & Shot Noise](../02_Literature/Lectures/Astrostatistics/08_Galaxy_Clustering_Point_Processes_and_Shot_Noise.html)
+8. [[08_Galaxy_Clustering_Point_Processes_and_Shot_Noise|Lecture 08: Galaxy Clustering, Point Processes & Shot Noise]]
    LSS point process formalism, density contrast, linear bias, two-point correlation function $\xi(r)$, Landy-Szalay estimator, 3D power spectrum $P(k)$, exact proof of $1/\bar{n}$ Poisson shot noise, optimal FKP weighting, Kaiser and Finger-of-God redshift space distortions.
 
-9. [Lecture 09: Bayesian Hierarchical Models for Type Ia Supernovae](../02_Literature/Lectures/Astrostatistics/09_Bayesian_Hierarchical_Models_for_Type_Ia_Supernovae.html)
+9. [[09_Bayesian_Hierarchical_Models_for_Type_Ia_Supernovae|Lecture 09: Bayesian Hierarchical Models for Type Ia Supernovae]]
    SNIa standardizable candles, Tripp standardization, classical chi-squared failure modes, three-level hierarchical model, Directed Acyclic Graph, analytical marginalization over latent variables, debiasing Malmquist selection effects.
 
-10. [Lecture 10: Prior Assignment, Invariance & Maximum Entropy](../02_Literature/Lectures/Astrostatistics/10_Prior_Assignment_Transformation_Invariance_and_Maximum_Entropy.html)
+10. [[10_Prior_Assignment_Transformation_Invariance_and_Maximum_Entropy|Lecture 10: Prior Assignment, Invariance & Maximum Entropy]]
     Objective versus subjective priors, failure of Laplace's indifference, translation invariance for location parameters, scale invariance for scale parameters, proof of coordinate invariance for Jeffreys prior, Principle of Maximum Entropy via Lagrange multipliers.
 
-11. [Lecture 11: Model Selection, Bayesian Evidence & Savage-Dickey Ratio](../02_Literature/Lectures/Astrostatistics/11_Model_Selection_Bayesian_Evidence_and_Savage_Dickey_Ratio.html)
+11. [[11_Model_Selection_Bayesian_Evidence_and_Savage_Dickey_Ratio|Lecture 11: Model Selection, Bayesian Evidence & Savage-Dickey Ratio]]
     Model comparison framework, Bayes factors, Jeffreys scale, Bayesian evidence as automatic Occam razor, Laplace approximation and Occam factor derivation, complete step-by-step mathematical proof of the Savage-Dickey density ratio.
 
 ---
@@ -79,41 +79,41 @@ Stochastic analysis of cosmic fields. The Cosmic Microwave Background angular po
 Modular atomic reference notes synthesized across the four thematic pillars:
 
 ### Pillar 1: Bayesian Foundations and Gaussian Inference (`03_Zettel/Theory/`)
-- [Cox theorem and probability as extended logic](../03_Zettel/Theory/Cox%20theorem%20and%20probability%20as%20extended%20logic.html) - Deductive boundaries, Cox desiderata, functional equations, and derivation of product and sum rules
-- [Maximum likelihood versus maximum a posteriori estimation](../03_Zettel/Theory/Maximum%20likelihood%20versus%20maximum%20a%20posteriori%20estimation.html) - Likelihood principle, score function, loss functions, and asymptotic optimality
-- [Bernstein-von Mises theorem and Bayesian asymptotics](../03_Zettel/Theory/Bernstein-von%20Mises%20theorem%20and%20Bayesian%20asymptotics.html) - Convergence of posterior to Gaussian, information dominance, and prior wash-out
-- [Multivariate Gaussian conditioning and marginalization](../03_Zettel/Theory/Multivariate%20Gaussian%20conditioning%20and%20marginalization.html) - Partitioned covariances, Schur complements, and block matrix algebra
-- [Generalized least squares and correlated measurement errors](../03_Zettel/Theory/Generalized%20least%20squares%20and%20correlated%20measurement%20errors.html) - Cholesky factorization, weight matrix, and Aitken BLUE theorem
-- [Frequentist confidence intervals versus Bayesian credible regions](../03_Zettel/Theory/Frequentist%20confidence%20intervals%20versus%20Bayesian%20credible%20regions.html) - Neyman coverage construction, stopping rule paradox, and HPD regions
-- [Lindley paradox in statistical hypothesis testing](../03_Zettel/Theory/Lindley%20paradox%20in%20statistical%20hypothesis%20testing.html) - Point null hypotheses, p-values versus Bayes factors with increasing sample size
+- [[Cox theorem and probability as extended logic]] - Deductive boundaries, Cox desiderata, functional equations, and derivation of product and sum rules
+- [[Maximum likelihood versus maximum a posteriori estimation]] - Likelihood principle, score function, loss functions, and asymptotic optimality
+- [[Bernstein-von Mises theorem and Bayesian asymptotics]] - Convergence of posterior to Gaussian, information dominance, and prior wash-out
+- [[Multivariate Gaussian conditioning and marginalization]] - Partitioned covariances, Schur complements, and block matrix algebra
+- [[Generalized least squares and correlated measurement errors]] - Cholesky factorization, weight matrix, and Aitken BLUE theorem
+- [[Frequentist confidence intervals versus Bayesian credible regions]] - Neyman coverage construction, stopping rule paradox, and HPD regions
+- [[Lindley paradox in statistical hypothesis testing]] - Point null hypotheses, p-values versus Bayes factors with increasing sample size
 
 ### Pillar 2: High-Dimensional Computation and Sampling (`03_Zettel/`)
-- [Monte Carlo integration and cursed dimensions](../03_Zettel/Computational/Monte%20Carlo%20integration%20and%20cursed%20dimensions.html) - Deterministic quadrature failure, $N^{-1/2}$ convergence rate, and importance sampling
-- [Metropolis-Hastings algorithm and detailed balance](../03_Zettel/Theory/Metropolis-Hastings%20algorithm%20and%20detailed%20balance.html) - Proposal distribution, acceptance probability, reversibility, and normalization cancellation
-- [Gibbs sampling and conditional state transitions](../03_Zettel/Theory/Gibbs%20sampling%20and%20conditional%20state%20transitions.html) - Exact sampling from full conditionals, zero-rejection property, and Commander CMB map-making
-- [MCMC convergence diagnostics and Gelman-Rubin statistic](../03_Zettel/Theory/MCMC%20convergence%20diagnostics%20and%20Gelman-Rubin%20statistic.html) - Integrated autocorrelation time $\tau$, effective sample size $N_{\rm eff}$, and potential scale reduction factor $\hat{R}$
+- [[Monte Carlo integration and cursed dimensions]] - Deterministic quadrature failure, $N^{-1/2}$ convergence rate, and importance sampling
+- [[Metropolis-Hastings algorithm and detailed balance]] - Proposal distribution, acceptance probability, reversibility, and normalization cancellation
+- [[Gibbs sampling and conditional state transitions]] - Exact sampling from full conditionals, zero-rejection property, and Commander CMB map-making
+- [[MCMC convergence diagnostics and Gelman-Rubin statistic]] - Integrated autocorrelation time $\tau$, effective sample size $N_{\rm eff}$, and potential scale reduction factor $\hat{R}$
 
 ### Pillar 3: Information Theory, Priors, and Model Selection (`03_Zettel/Theory/`)
-- [Fisher information matrix and Cramer-Rao bound](../03_Zettel/Theory/Fisher%20information%20matrix%20and%20Cramer-Rao%20bound.html) - Score variance, log-likelihood curvature, efficiency, and Tegmark Gaussian formula
-- [Marginalized versus conditional parameter errors in Fisher forecasting](../03_Zettel/Theory/Marginalized%20versus%20conditional%20parameter%20errors%20in%20Fisher%20forecasting.html) - Inverse Fisher sub-matrices, parameter degradation factor, and cosmological degeneracies
-- [Transformation group invariance and Jeffreys prior](../03_Zettel/Theory/Transformation%20group%20invariance%20and%20Jeffreys%20prior.html) - Location and scale invariance, Fisher matrix determinant, and coordinate invariance proof
-- [Principle of maximum entropy in prior assignment](../03_Zettel/Theory/Principle%20of%20maximum%20entropy%20in%20prior%20assignment.html) - Shannon-Jaynes information entropy, Lagrange multiplier constraint optimization, and Gaussian derivation
-- [Bayesian evidence and model selection](../03_Zettel/Theory/Bayesian%20evidence%20and%20model%20selection.html) - Marginal likelihood integral, Laplace approximation, Occam factor, and Jeffreys scale
-- [Savage-Dickey density ratio for nested model comparison](../03_Zettel/Theory/Savage-Dickey%20density%20ratio%20for%20nested%20model%20comparison.html) - Analytical Bayes factor shortcut from a single MCMC chain of the unconstrained model
+- [[Fisher information matrix and Cramer-Rao bound]] - Score variance, log-likelihood curvature, efficiency, and Tegmark Gaussian formula
+- [[Marginalized versus conditional parameter errors in Fisher forecasting]] - Inverse Fisher sub-matrices, parameter degradation factor, and cosmological degeneracies
+- [[Transformation group invariance and Jeffreys prior]] - Location and scale invariance, Fisher matrix determinant, and coordinate invariance proof
+- [[Principle of maximum entropy in prior assignment]] - Shannon-Jaynes information entropy, Lagrange multiplier constraint optimization, and Gaussian derivation
+- [[Bayesian evidence and model selection]] - Marginal likelihood integral, Laplace approximation, Occam factor, and Jeffreys scale
+- [[Savage-Dickey density ratio for nested model comparison]] - Analytical Bayes factor shortcut from a single MCMC chain of the unconstrained model
 
 ### Pillar 4: Cosmological Applications and Large-Scale Structure (`03_Zettel/Theory/`)
-- [CMB angular power spectrum estimator and cosmic variance](../03_Zettel/Theory/CMB%20angular%20power%20spectrum%20estimator%20and%20cosmic%20variance.html) - Spherical harmonic coefficients $a_{\ell m}$, statistical isotropy, $(2\ell+1)$ degrees of freedom, and cosmic variance limit
-- [Exact CMB Wishart likelihood and Gaussian high-multipole limit](../03_Zettel/Theory/Exact%20CMB%20Wishart%20likelihood%20and%20Gaussian%20high-multipole%20limit.html) - Inverted Wishart distribution at low multipoles, chi-squared transition, and multi-field polarization covariance
-- [Spatial two-point correlation function and Landy-Szalay estimator](../03_Zettel/Theory/Spatial%20two-point%20correlation%20function%20and%20Landy-Szalay%20estimator.html) - Point processes, normalized pair counts $DD, DR, RR$, and first-order variance cancellation
-- [Galaxy power spectrum and Poisson shot noise](../03_Zettel/Theory/Galaxy%20power%20spectrum%20and%20Poisson%20shot%20noise.html) - Wiener-Khinchin theorem, discrete particle sampling, and the $1/\bar{n}$ shot noise floor
-- [Feldman-Kaiser-Peacock optimal weighting for galaxy surveys](../03_Zettel/Theory/Feldman-Kaiser-Peacock%20optimal%20weighting%20for%20galaxy%20surveys.html) - Calculus of variations minimization, dense versus sparse survey limits, and BAO weighting
-- [Bayesian hierarchical modeling for Type Ia supernovae](../03_Zettel/Theory/Bayesian%20hierarchical%20modeling%20for%20Type%20Ia%20supernovae.html) - Directed Acyclic Graph, latent true distance modulus, Tripp standardization marginalization, and Malmquist bias correction
+- [[CMB angular power spectrum estimator and cosmic variance]] - Spherical harmonic coefficients $a_{\ell m}$, statistical isotropy, $(2\ell+1)$ degrees of freedom, and cosmic variance limit
+- [[Exact CMB Wishart likelihood and Gaussian high-multipole limit]] - Inverted Wishart distribution at low multipoles, chi-squared transition, and multi-field polarization covariance
+- [[Spatial two-point correlation function and Landy-Szalay estimator]] - Point processes, normalized pair counts $DD, DR, RR$, and first-order variance cancellation
+- [[Galaxy power spectrum and Poisson shot noise]] - Wiener-Khinchin theorem, discrete particle sampling, and the $1/\bar{n}$ shot noise floor
+- [[Feldman-Kaiser-Peacock optimal weighting for galaxy surveys]] - Calculus of variations minimization, dense versus sparse survey limits, and BAO weighting
+- [[Bayesian hierarchical modeling for Type Ia supernovae]] - Directed Acyclic Graph, latent true distance modulus, Tripp standardization marginalization, and Malmquist bias correction
 
 ---
 
 ## Course Exercises and Problem Sets
 
-- [Homework Problems & Solutions](../02_Literature/Lectures/Astrostatistics/Homework_Problems_and_Solutions.html)
+- [[Homework_Problems_and_Solutions|Homework Problems & Solutions]]
   Complete analytical solutions and Python algorithms for all twelve course homework problem sets
   - Problem 1 - Coin tossing simulation with uniform versus Gaussian priors, asymptotic convergence.
   - Problem 2 - Politician testimony credibility updating under lying probabilities.
@@ -134,18 +134,18 @@ Modular atomic reference notes synthesized across the four thematic pillars:
 
 Canonical and modern arXiv astro-ph.IM/stat.ME benchmark papers underlying the Bayesian inference and GP-regression methodology above.
 
-- [Trotta (2008) — Bayes in the Sky](../02_Literature/Papers/17_Astro_Statistics/Trotta_2008_Bayes_in_the_Sky.html) — Bayesian evidence, Bayes factors, the Bayesian Occam's razor
-- [Speagle (2020) — dynesty Dynamic Nested Sampling](../02_Literature/Papers/17_Astro_Statistics/Speagle_2020_dynesty_Nested_Sampling.html) — adaptive live-point allocation for evidence + posterior estimation
-- [Aigrain & Foreman-Mackey (2023) — GP Regression for Astronomical Time Series](../02_Literature/Papers/17_Astro_Statistics/Aigrain_Foreman-Mackey_2023_GP_Regression_Time_Series.html) — kernel choice, the joint-vs-sequential-fitting caution
+- [[Trotta_2008_Bayes_in_the_Sky|Trotta (2008) — Bayes in the Sky]] — Bayesian evidence, Bayes factors, the Bayesian Occam's razor
+- [[Speagle_2020_dynesty_Nested_Sampling|Speagle (2020) — dynesty Dynamic Nested Sampling]] — adaptive live-point allocation for evidence + posterior estimation
+- [[Aigrain_Foreman-Mackey_2023_GP_Regression_Time_Series|Aigrain & Foreman-Mackey (2023) — GP Regression for Astronomical Time Series]] — kernel choice, the joint-vs-sequential-fitting caution
 
 ---
 
 ## Cross-Course Connections and Synapses
 
-- [Early Universe Cosmology MOC](Cosmology_of_the_Early_Universe_MOC.html) - Primordial inflationary perturbation spectrum $P_\mathcal{R}(k)$, scalar spectral index $n_s$, tensor-to-scalar ratio $r$, and primordial non-Gaussianity $f_{\text{NL}}$.
-- [Observational Cosmology MOC](Observational_Cosmology_MOC.html) - Observational distance ladder, Cepheids, galaxy redshift catalogs, gravitational lensing, and cosmic shear bandpowers.
-- [Mathematical & Numerical Methods MOC](Mathematical_Numerical_Methods_MOC.html) - Numerical linear algebra, Cholesky decomposition, eigenvalue problems, and optimization algorithms.
-- [Bayesian Inference and Bayes Theorem in Astronomy](../03_Zettel/Theory/Bayesian%20Inference%20and%20Bayes%20Theorem%20in%20Astronomy.html) - Foundational zettel on Bayesian inverse problems in astrophysical settings.
+- [[Cosmology_of_the_Early_Universe_MOC|Early Universe Cosmology MOC]] - Primordial inflationary perturbation spectrum $P_\mathcal{R}(k)$, scalar spectral index $n_s$, tensor-to-scalar ratio $r$, and primordial non-Gaussianity $f_{\text{NL}}$.
+- [[Observational_Cosmology_MOC|Observational Cosmology MOC]] - Observational distance ladder, Cepheids, galaxy redshift catalogs, gravitational lensing, and cosmic shear bandpowers.
+- [[Mathematical_Numerical_Methods_MOC|Mathematical & Numerical Methods MOC]] - Numerical linear algebra, Cholesky decomposition, eigenvalue problems, and optimization algorithms.
+- [[Bayesian Inference and Bayes Theorem in Astronomy]] - Foundational zettel on Bayesian inverse problems in astrophysical settings.
 
 
 ---
@@ -154,15 +154,15 @@ Canonical and modern arXiv astro-ph.IM/stat.ME benchmark papers underlying the B
 
 | Figure ID | Visual Asset Name | Slide / Concept Title | Primary Zettel / Lecture Note Link | Key Physical / Statistical Principle |
 | :--- | :--- | :--- | :--- | :--- |
-| **AST-01** | `astrostat_liguori_p02.png` | Cox Theorem & Plausible Reasoning | [Lecture 01: Plausible Reasoning, Cox's Theorem & Bayesian Foundations](../02_Literature/Lectures/Astrostatistics/01_Plausible_Reasoning_Cox_Theorem_and_Bayesian_Foundations.html) | Product and sum rules uniquely derived from consistency axioms |
-| **AST-02** | `astrostat_liguori_p10.png` | Parameter Estimation & Credible Intervals | [Lecture 02: Parameter Estimation, Gaussian Noise & Credible Intervals](../02_Literature/Lectures/Astrostatistics/02_Parameter_Estimation_Gaussian_Noise_and_Credible_Intervals.html) | Quadratic log-likelihood under Gaussian noise; $68.3\%$ and $95.4\%$ volume intervals |
-| **AST-03** | `astrostat_liguori_p18.png` | Metropolis-Hastings MCMC Sampling | [Lecture 05: Monte Carlo, Metropolis-Hastings & MCMC Diagnostics](../02_Literature/Lectures/Astrostatistics/05_Monte_Carlo_Metropolis_Hastings_and_MCMC_Convergence_Diagnostics.html) | Proposal transitions, acceptance probability, and Gelman-Rubin $\hat{R} < 1.05$ |
-| **AST-04** | `astrostat_liguori_p25.png` | Fisher Matrix & Survey Forecasting | [Lecture 06: Fisher Information Matrix, Cramer-Rao Bound & Forecasting](../02_Literature/Lectures/Astrostatistics/06_Fisher_Information_Matrix_Cramer_Rao_Bound_and_Survey_Forecasting.html) | Cramér-Rao bound $\sigma(\theta_i) \ge \sqrt{(F^{-1})_{ii}}$ and degeneracy ellipses |
-| **AST-05** | `astrostat_bhm_p01.png` | BHM DAG for Type Ia Supernovae | [Lecture 09: Bayesian Hierarchical Models for Type Ia Supernovae](../02_Literature/Lectures/Astrostatistics/09_Bayesian_Hierarchical_Models_for_Type_Ia_Supernovae.html) | Decoupling cosmological parameters from latent distances and intrinsic scatter |
-| **AST-06** | `astrostat_bhm_p03.png` | Supernova Distance Marginalization | [Lecture 09: Bayesian Hierarchical Models for Type Ia Supernovae](../02_Literature/Lectures/Astrostatistics/09_Bayesian_Hierarchical_Models_for_Type_Ia_Supernovae.html) | Unbiased cosmological parameter recovery eliminating Malmquist selection bias |
-| **AST-07** | `astrostat_model_p01.png` | Bayesian Evidence & Occam Factor | [Lecture 11: Model Selection, Bayesian Evidence & Savage-Dickey Ratio](../02_Literature/Lectures/Astrostatistics/11_Model_Selection_Bayesian_Evidence_and_Savage_Dickey_Ratio.html) | Prior volume spreading penalty $\Delta\theta_{\mathrm{post}}/\Delta\theta_{\mathrm{prior}} \ll 1$ |
-| **AST-08** | `astrostat_model_p02.png` | Savage-Dickey Density Ratio | [Lecture 11: Model Selection, Bayesian Evidence & Savage-Dickey Ratio](../02_Literature/Lectures/Astrostatistics/11_Model_Selection_Bayesian_Evidence_and_Savage_Dickey_Ratio.html) | Exact Bayes factor for nested models $B_{01} = P(\omega_0|D, M_1)/\pi(\omega_0|M_1)$ |
-| **AST-09** | `astrostat_model_p04.png` | Jeffreys Scale of Model Evidence | [Lecture 11: Model Selection, Bayesian Evidence & Savage-Dickey Ratio](../02_Literature/Lectures/Astrostatistics/11_Model_Selection_Bayesian_Evidence_and_Savage_Dickey_Ratio.html) | Calibration scale for $\ln B_{01}$: decisive evidence threshold $\ln B > 5.0$ |
+| **AST-01** | `astrostat_liguori_p02.png` | Cox Theorem & Plausible Reasoning | [[01_Plausible_Reasoning_Cox_Theorem_and_Bayesian_Foundations|Lecture 01: Plausible Reasoning, Cox's Theorem & Bayesian Foundations]] | Product and sum rules uniquely derived from consistency axioms |
+| **AST-02** | `astrostat_liguori_p10.png` | Parameter Estimation & Credible Intervals | [[02_Parameter_Estimation_Gaussian_Noise_and_Credible_Intervals|Lecture 02: Parameter Estimation, Gaussian Noise & Credible Intervals]] | Quadratic log-likelihood under Gaussian noise; $68.3\%$ and $95.4\%$ volume intervals |
+| **AST-03** | `astrostat_liguori_p18.png` | Metropolis-Hastings MCMC Sampling | [[05_Monte_Carlo_Metropolis_Hastings_and_MCMC_Convergence_Diagnostics|Lecture 05: Monte Carlo, Metropolis-Hastings & MCMC Diagnostics]] | Proposal transitions, acceptance probability, and Gelman-Rubin $\hat{R} < 1.05$ |
+| **AST-04** | `astrostat_liguori_p25.png` | Fisher Matrix & Survey Forecasting | [[06_Fisher_Information_Matrix_Cramer_Rao_Bound_and_Survey_Forecasting|Lecture 06: Fisher Information Matrix, Cramer-Rao Bound & Forecasting]] | Cramér-Rao bound $\sigma(\theta_i) \ge \sqrt{(F^{-1})_{ii}}$ and degeneracy ellipses |
+| **AST-05** | `astrostat_bhm_p01.png` | BHM DAG for Type Ia Supernovae | [[09_Bayesian_Hierarchical_Models_for_Type_Ia_Supernovae|Lecture 09: Bayesian Hierarchical Models for Type Ia Supernovae]] | Decoupling cosmological parameters from latent distances and intrinsic scatter |
+| **AST-06** | `astrostat_bhm_p03.png` | Supernova Distance Marginalization | [[09_Bayesian_Hierarchical_Models_for_Type_Ia_Supernovae|Lecture 09: Bayesian Hierarchical Models for Type Ia Supernovae]] | Unbiased cosmological parameter recovery eliminating Malmquist selection bias |
+| **AST-07** | `astrostat_model_p01.png` | Bayesian Evidence & Occam Factor | [[11_Model_Selection_Bayesian_Evidence_and_Savage_Dickey_Ratio|Lecture 11: Model Selection, Bayesian Evidence & Savage-Dickey Ratio]] | Prior volume spreading penalty $\Delta\theta_{\mathrm{post}}/\Delta\theta_{\mathrm{prior}} \ll 1$ |
+| **AST-08** | `astrostat_model_p02.png` | Savage-Dickey Density Ratio | [[11_Model_Selection_Bayesian_Evidence_and_Savage_Dickey_Ratio|Lecture 11: Model Selection, Bayesian Evidence & Savage-Dickey Ratio]] | Exact Bayes factor for nested models $B_{01} = P(\omega_0|D, M_1)/\pi(\omega_0|M_1)$ |
+| **AST-09** | `astrostat_model_p04.png` | Jeffreys Scale of Model Evidence | [[11_Model_Selection_Bayesian_Evidence_and_Savage_Dickey_Ratio|Lecture 11: Model Selection, Bayesian Evidence & Savage-Dickey Ratio]] | Calibration scale for $\ln B_{01}$: decisive evidence threshold $\ln B > 5.0$ |
 
 ---
 

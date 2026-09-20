@@ -39,17 +39,17 @@ despite this tiny transition rate, neutral hydrogen columns in galaxies ($N_{\te
 
 ## see also
 
-- [Astrophysics_of_the_Interstellar_Medium_MOC](../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html)
-- [Spin temperature and 21 cm radiative transfer](Spin%20temperature%20and%2021%20cm%20radiative%20transfer.html)
-- [Galactic HI kinematics and Milky Way spiral structure](Galactic%20HI%20kinematics%20and%20Milky%20Way%20spiral%20structure.html)
-- [Carraro_02_Neutral_Hydrogen_and_21cm_Universe](../../02_Literature/Lectures/Interstellar_Medium/Carraro_02_Neutral_Hydrogen_and_21cm_Universe.html)
+- [[Astrophysics_of_the_Interstellar_Medium_MOC]]
+- [[Spin temperature and 21 cm radiative transfer]]
+- [[Galactic HI kinematics and Milky Way spiral structure]]
+- [[Carraro_02_Neutral_Hydrogen_and_21cm_Universe]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Multi-phase%20structure%20of%20the%20interstellar%20medium.html" class="backlink-item">Multi-phase structure of the interstellar medium</a></li>
-    <li class="backlink-item-wrap"><a href="Spin%20temperature%20and%2021%20cm%20radiative%20transfer.html" class="backlink-item">Spin temperature and 21 cm radiative transfer</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html" class="backlink-item">Astrophysics_of_the_Interstellar_Medium_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Multi-phase structure of the interstellar medium]]
+- [[Spin temperature and 21 cm radiative transfer]]
+- [[Astrophysics_of_the_Interstellar_Medium_MOC]]
+
 

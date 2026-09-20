@@ -115,20 +115,18 @@ modern WR star observations routinely combine both, telling a complete story of 
 
 ## see also
 
-- [Stellar surface imaging](Stellar%20surface%20imaging.html)
-- [Pulsating stars and Mira variables](Pulsating%20stars%20and%20Mira%20variables.html)
-- [Young stellar object disks](Young%20stellar%20object%20disks.html)
-- [VLTI Very Large Telescope Interferometer](VLTI%20Very%20Large%20Telescope%20Interferometer.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Stellar surface imaging]]
+- [[Pulsating stars and Mira variables]]
+- [[Young stellar object disks]]
+- [[VLTI Very Large Telescope Interferometer]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Pulsating%20stars%20and%20Mira%20variables.html" class="backlink-item">Pulsating stars and Mira variables</a></li>
-    <li class="backlink-item-wrap"><a href="../Young%20stellar%20object%20disks.html" class="backlink-item">Young stellar object disks</a></li>
-    <li class="backlink-item-wrap"><a href="Pulsating%20stars%20and%20Mira%20variables.html" class="backlink-item">Pulsating stars and Mira variables</a></li>
-    <li class="backlink-item-wrap"><a href="Young%20stellar%20object%20disks.html" class="backlink-item">Young stellar object disks</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Pulsating stars and Mira variables]]
+- [[Young stellar object disks]]
+- [[Astronomical_Interferometry_MOC]]
+
 

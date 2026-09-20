@@ -102,24 +102,20 @@ niche secured: bright nearby stars, surface features, hot spots, cool spots.
 
 ## see also
 
-- [Intensity interferometry concept](Intensity%20interferometry%20concept.html)
-- [Hanbury Brown Twiss effect](Hanbury%20Brown%20Twiss%20effect.html)
-- [Narrabri stellar interferometer](Narrabri%20stellar%20interferometer.html)
-- [Sensitivity and modern revival](Sensitivity%20and%20modern%20revival.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Intensity interferometry concept]]
+- [[Hanbury Brown Twiss effect]]
+- [[Narrabri stellar interferometer]]
+- [[Sensitivity and modern revival]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (9)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Hanbury%20Brown%20Twiss%20effect.html" class="backlink-item">Hanbury Brown Twiss effect</a></li>
-    <li class="backlink-item-wrap"><a href="../Intensity%20interferometry%20concept.html" class="backlink-item">Intensity interferometry concept</a></li>
-    <li class="backlink-item-wrap"><a href="../Narrabri%20stellar%20interferometer.html" class="backlink-item">Narrabri stellar interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="../Sensitivity%20and%20modern%20revival.html" class="backlink-item">Sensitivity and modern revival</a></li>
-    <li class="backlink-item-wrap"><a href="Hanbury%20Brown%20Twiss%20effect.html" class="backlink-item">Hanbury Brown Twiss effect</a></li>
-    <li class="backlink-item-wrap"><a href="Intensity%20interferometry%20concept.html" class="backlink-item">Intensity interferometry concept</a></li>
-    <li class="backlink-item-wrap"><a href="Narrabri%20stellar%20interferometer.html" class="backlink-item">Narrabri stellar interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="Sensitivity%20and%20modern%20revival.html" class="backlink-item">Sensitivity and modern revival</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Hanbury Brown Twiss effect]]
+- [[Intensity interferometry concept]]
+- [[Narrabri stellar interferometer]]
+- [[Sensitivity and modern revival]]
+- [[Astronomical_Interferometry_MOC]]
+
 

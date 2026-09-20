@@ -32,7 +32,7 @@ introduced by Lohmann, Weigelt, and Wirnitzer (1983). compute the **bispectrum**
 
 $$B(\mathbf u, \mathbf v) = \langle \tilde I(\mathbf u) \tilde I(\mathbf v) \tilde I^*(\mathbf u + \mathbf v) \rangle$$
 
-this is the third-order spatial spectrum. atmospheric phases cancel (just like in [closure phase](interf/Phase%20closure.html)), so the bispectrum is *unbiased* by atmospheric noise.
+this is the third-order spatial spectrum. atmospheric phases cancel (just like in [[Phase closure|closure phase]]), so the bispectrum is *unbiased* by atmospheric noise.
 
 the bispectrum encodes the source phase up to a global piston. modern algorithms (BSMEM, SQUEEZE) reconstruct images directly from bispectra.
 
@@ -87,9 +87,9 @@ steps 4 and 7 are the computationally intense parts. modern packages handle this
 
 ## see also
 
-- [Speckle interferometry](interf/Speckle%20interferometry.html)
-- [Theory of speckle interferometry](interf/Theory%20of%20speckle%20interferometry.html)
-- [Aperture masking](interf/Aperture%20masking.html)
-- [Bispectrum and triple correlation](interf/Bispectrum%20and%20triple%20correlation.html)
-- [Phase closure](interf/Phase%20closure.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Speckle interferometry]]
+- [[Theory of speckle interferometry]]
+- [[Aperture masking]]
+- [[Bispectrum and triple correlation]]
+- [[Phase closure]]
+- [[Astronomical_Interferometry_MOC]]

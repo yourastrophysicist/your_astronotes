@@ -63,26 +63,26 @@ so deep-field surveys at $H, K$ + ALMA sub-mm reach much higher $z$ than equival
 
 ## see also
 
-- [Luminosity distance](Luminosity%20distance.html)
-- [Angular diameter distance](Angular%20diameter%20distance.html)
-- [Radial comoving distance](Radial%20comoving%20distance.html)
-- [K-correction](K-correction.html)
-- [K-correction in optical vs sub-mm](K-correction%20in%20optical%20vs%20sub-mm.html)
+- [[Luminosity distance]]
+- [[Angular diameter distance]]
+- [[Radial comoving distance]]
+- [[K-correction]]
+- [[K-correction in optical vs sub-mm]]
 - 03_Zettel/Theory/Cosmological distances
-- [Hubble flow distances](Hubble%20flow%20distances.html)
-- [Photometric redshifts](Photometric%20redshifts.html)
-- [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
+- [[Hubble flow distances]]
+- [[Photometric redshifts]]
+- [[Observational_Cosmology_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Angular%20diameter%20distance.html" class="backlink-item">Angular diameter distance</a></li>
-    <li class="backlink-item-wrap"><a href="Cosmological%20distances.html" class="backlink-item">Cosmological distances</a></li>
-    <li class="backlink-item-wrap"><a href="Cosmology%20calculator%20-%20how%20to%20use%20H0%20Omega_m%20Omega_Lambda%20to%20get%20dL%20dA%20t_lookback.html" class="backlink-item">Cosmology calculator - how to use H0 Omega_m Omega_Lambda to get dL dA t_lookback</a></li>
-    <li class="backlink-item-wrap"><a href="K-correction%20in%20optical%20vs%20sub-mm.html" class="backlink-item">K-correction in optical vs sub-mm</a></li>
-    <li class="backlink-item-wrap"><a href="Luminosity%20distance.html" class="backlink-item">Luminosity distance</a></li>
-    <li class="backlink-item-wrap"><a href="Specific%20intensity%20flux%20luminosity.html" class="backlink-item">Specific intensity flux luminosity</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Angular diameter distance]]
+- [[Cosmological distances]]
+- [[Cosmology calculator - how to use H0 Omega_m Omega_Lambda to get dL dA t_lookback]]
+- [[K-correction in optical vs sub-mm]]
+- [[Luminosity distance]]
+- [[Specific intensity flux luminosity]]
+- [[Observational_Cosmology_MOC]]
+
 

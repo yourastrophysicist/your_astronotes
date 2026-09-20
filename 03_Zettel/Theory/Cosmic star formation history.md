@@ -4,7 +4,7 @@ title: "Cosmic star formation history"
 ---
 # cosmic star formation history
 
-up: [Pablo_02_Statistical_properties_of_galaxies](../../02_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html)
+up: [[Pablo_02_Statistical_properties_of_galaxies]]
 
 ## the madau-dickinson plot
 
@@ -38,7 +38,7 @@ the stellar mass density is the time integral of the SFR (modulo recycling and I
 
 $$\rho_{SFR}(z) = (1 - R)^{-1} \frac{d\rho_*(t)}{dt}$$
 
-where $R \approx 0.4$ is the mass returned to the ISM by stellar evolution. this is the consistency check: integrate the cosmic SFR and you should get the cosmic stellar mass density. see [Cosmic stellar mass density growth](Cosmic%20stellar%20mass%20density%20growth.html) and [SFR and stellar mass density connection](SFR%20and%20stellar%20mass%20density%20connection.html).
+where $R \approx 0.4$ is the mass returned to the ISM by stellar evolution. this is the consistency check: integrate the cosmic SFR and you should get the cosmic stellar mass density. see [[Cosmic stellar mass density growth]] and [[SFR and stellar mass density connection]].
 
 ## three regimes
 
@@ -52,10 +52,10 @@ the cosmic SFR history is the integral of the galaxy LF over $L$ in slices of $z
 
 ## connections
 
-- LF integral that produces it: [Schechter function](Schechter%20function.html), [Integrals of the Schechter function](Integrals%20of%20the%20Schechter%20function.html)
-- mass-side companion: [Cosmic stellar mass density growth](Cosmic%20stellar%20mass%20density%20growth.html)
-- formal identity: [SFR and stellar mass density connection](SFR%20and%20stellar%20mass%20density%20connection.html)
-- the peak's physical meaning: cosmic noon, dust-obscured SF, the main sequence ([Galaxy main sequence of star formation](Galaxy%20main%20sequence%20of%20star%20formation.html))
+- LF integral that produces it: [[Schechter function]], [[Integrals of the Schechter function]]
+- mass-side companion: [[Cosmic stellar mass density growth]]
+- formal identity: [[SFR and stellar mass density connection]]
+- the peak's physical meaning: cosmic noon, dust-obscured SF, the main sequence ([[Galaxy main sequence of star formation]])
 
 ## key references
 
@@ -64,28 +64,28 @@ the cosmic SFR history is the integral of the galaxy LF over $L$ in slices of $z
 - Bouwens et al. 2010 (UV LF at $z = 4$–$8$)
 - Lilly et al. 1996 (the original Lilly-Madau plot)
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (19)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Chemical%20evolution%20of%20galaxies.html" class="backlink-item">Chemical evolution of galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="Cosmic%20dawn%20and%20high-redshift%20galaxies%20with%20JWST.html" class="backlink-item">Cosmic dawn and high-redshift galaxies with JWST</a></li>
-    <li class="backlink-item-wrap"><a href="Cosmic%20look-back%20time.html" class="backlink-item">Cosmic look-back time</a></li>
-    <li class="backlink-item-wrap"><a href="Cosmic%20stellar%20mass%20density%20growth.html" class="backlink-item">Cosmic stellar mass density growth</a></li>
-    <li class="backlink-item-wrap"><a href="Galaxy%20clusters%20and%20overview%20of%20evolution.html" class="backlink-item">Galaxy clusters and overview of evolution</a></li>
-    <li class="backlink-item-wrap"><a href="Galaxy%20main%20sequence%20of%20star%20formation.html" class="backlink-item">Galaxy main sequence of star formation</a></li>
-    <li class="backlink-item-wrap"><a href="Galaxy%20mergers%20and%20SF.html" class="backlink-item">Galaxy mergers and SF</a></li>
-    <li class="backlink-item-wrap"><a href="Galaxy%20number%20counts%20N%28m%29.html" class="backlink-item">Galaxy number counts N(m)</a></li>
-    <li class="backlink-item-wrap"><a href="High-redshift%20galaxy%20selection%20and%20Lyman%20break%20technique.html" class="backlink-item">High-redshift galaxy selection and Lyman break technique</a></li>
-    <li class="backlink-item-wrap"><a href="K-correction%20in%20optical%20vs%20sub-mm.html" class="backlink-item">K-correction in optical vs sub-mm</a></li>
-    <li class="backlink-item-wrap"><a href="K-correction.html" class="backlink-item">K-correction</a></li>
-    <li class="backlink-item-wrap"><a href="LIRGs%20ULIRGs%20HyLIRGs.html" class="backlink-item">LIRGs ULIRGs HyLIRGs</a></li>
-    <li class="backlink-item-wrap"><a href="Madau%20plot.html" class="backlink-item">Madau plot</a></li>
-    <li class="backlink-item-wrap"><a href="Protocluster%20detection%20techniques.html" class="backlink-item">Protocluster detection techniques</a></li>
-    <li class="backlink-item-wrap"><a href="SFR%20and%20stellar%20mass%20density%20connection.html" class="backlink-item">SFR and stellar mass density connection</a></li>
-    <li class="backlink-item-wrap"><a href="Star%20formation%20rate%20and%20sSFR.html" class="backlink-item">Star formation rate and sSFR</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20mass%20function%20xi%28M%29.html" class="backlink-item">Stellar mass function xi(M)</a></li>
-    <li class="backlink-item-wrap"><a href="Supernova%20remnant%20spectroscopy.html" class="backlink-item">Supernova remnant spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Chemical evolution of galaxies]]
+- [[Cosmic dawn and high-redshift galaxies with JWST]]
+- [[Cosmic look-back time]]
+- [[Cosmic stellar mass density growth]]
+- [[Galaxy clusters and overview of evolution]]
+- [[Galaxy main sequence of star formation]]
+- [[Galaxy mergers and SF]]
+- [[Galaxy number counts N(m)]]
+- [[High-redshift galaxy selection and Lyman break technique]]
+- [[K-correction in optical vs sub-mm]]
+- [[K-correction]]
+- [[LIRGs ULIRGs HyLIRGs]]
+- [[Madau plot]]
+- [[Protocluster detection techniques]]
+- [[SFR and stellar mass density connection]]
+- [[Star formation rate and sSFR]]
+- [[Stellar mass function xi(M)]]
+- [[Supernova remnant spectroscopy]]
+- [[Observational_Cosmology_MOC]]
+
 

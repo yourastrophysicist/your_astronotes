@@ -79,11 +79,11 @@ The null hypothesis test can **only reject** $H_0$
 	that is: $\mathbb{S}'$ is unlikely to have originated from the null distribution
 		it says nothing about whether $H_1$ is the correct model
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Astrostatistics.html" class="backlink-item">Astrostatistics</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Astrostatistics]]
+- [[Lab_High-Energy_MOC]]
+
 

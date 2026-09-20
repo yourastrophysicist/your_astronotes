@@ -170,17 +170,17 @@ rbf = RBFInterpolator(points, values, kernel='thin_plate_spline')
 
 ## see also
 
-- [Linear interpolation](Linear%20interpolation.html)
-- [Cubic spline interpolation](Cubic%20spline%20interpolation.html)
-- [Lagrange polynomial interpolation](Lagrange%20polynomial%20interpolation.html)
-- [Two-dimensional interpolation](Two-dimensional%20interpolation.html)
-- [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
+- [[Linear interpolation]]
+- [[Cubic spline interpolation]]
+- [[Lagrange polynomial interpolation]]
+- [[Two-dimensional interpolation]]
+- [[Mathematical_Numerical_Methods_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Two-dimensional%20interpolation.html" class="backlink-item">Two-dimensional interpolation</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Two-dimensional interpolation]]
+- [[Mathematical_Numerical_Methods_MOC]]
+
 

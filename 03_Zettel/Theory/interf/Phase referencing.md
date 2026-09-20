@@ -79,27 +79,22 @@ these correspond to position errors of $\sim$ mas at cm, $\sim$ arcsec at mm, $\
 
 ## see also
 
-- [Calibration overview](Calibration%20overview.html)
-- [Self-calibration](Self-calibration.html)
-- [Bandpass calibration](Bandpass%20calibration.html)
-- [Flux calibration](Flux%20calibration.html)
-- [The phase problem in interferometry](The%20phase%20problem%20in%20interferometry.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Calibration overview]]
+- [[Self-calibration]]
+- [[Bandpass calibration]]
+- [[Flux calibration]]
+- [[The phase problem in interferometry]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (11)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Bandpass%20calibration.html" class="backlink-item">Bandpass calibration</a></li>
-    <li class="backlink-item-wrap"><a href="../Calibration%20overview.html" class="backlink-item">Calibration overview</a></li>
-    <li class="backlink-item-wrap"><a href="../Flux%20calibration%20in%20radio.html" class="backlink-item">Flux calibration in radio</a></li>
-    <li class="backlink-item-wrap"><a href="../Self-calibration.html" class="backlink-item">Self-calibration</a></li>
-    <li class="backlink-item-wrap"><a href="../Steps%20in%20radio%20interferometric%20observations.html" class="backlink-item">Steps in radio interferometric observations</a></li>
-    <li class="backlink-item-wrap"><a href="Bandpass%20calibration.html" class="backlink-item">Bandpass calibration</a></li>
-    <li class="backlink-item-wrap"><a href="Calibration%20overview.html" class="backlink-item">Calibration overview</a></li>
-    <li class="backlink-item-wrap"><a href="Flux%20calibration%20in%20radio.html" class="backlink-item">Flux calibration in radio</a></li>
-    <li class="backlink-item-wrap"><a href="Self-calibration.html" class="backlink-item">Self-calibration</a></li>
-    <li class="backlink-item-wrap"><a href="Steps%20in%20radio%20interferometric%20observations.html" class="backlink-item">Steps in radio interferometric observations</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Bandpass calibration]]
+- [[Calibration overview]]
+- [[Flux calibration in radio]]
+- [[Self-calibration]]
+- [[Steps in radio interferometric observations]]
+- [[Astronomical_Interferometry_MOC]]
+
 

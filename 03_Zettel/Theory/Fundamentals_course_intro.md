@@ -27,7 +27,7 @@ the course is a foundation, in two halves: a *classical* astronomy and stellar e
 - measurement of time
 - Kepler's laws, orbital elements
 
-→ see [Spherical_astronomy_complete](Spherical_astronomy_complete.html)
+→ see [[Spherical_astronomy_complete]]
 
 ### Radiative mechanisms and magnitudes
 - electromagnetic radiation, intensity and radiation density, luminosity
@@ -77,7 +77,7 @@ the course is a foundation, in two halves: a *classical* astronomy and stellar e
 - solutions for flat case and universes with non-zero spatial curvature
 - exact treatment of Hubble's law
 
-→ see [Cosmic_inventory_overview](Cosmic_inventory_overview.html)
+→ see [[Cosmic_inventory_overview]]
 
 ### Thermal history and the early universe
 - number density, energy density, pressure for thermal-equilibrium particles
@@ -92,7 +92,7 @@ the course is a foundation, in two halves: a *classical* astronomy and stellar e
 - primordial nucleosynthesis of light elements
 - hydrogen recombination: Saha equation, radiation decoupling, CMB
 
-→ see [BBN_overview](BBN_overview.html)
+→ see [[BBN_overview]]
 
 ### Dark matter: general properties
 - basic concepts of the Boltzmann equation in cosmology and "cosmic relics"
@@ -118,7 +118,7 @@ the course is a foundation, in two halves: a *classical* astronomy and stellar e
 - **Schneider**, *Extragalactic Astronomy and Cosmology*, 2nd ed. — galaxies and cosmology rigorous treatment
 - **Coles & Lucchin**, *Cosmology: The Origin and Evolution of Cosmic Structure* (Wiley, 2002)
 - **Kolb & Turner**, *The Early Universe* (Addison-Wesley, 1990)
-- **Baumann**, *Cosmology* (Part III Cambridge lecture notes) — the modern back-up text, see [Baumann_reference](Baumann_reference.html)
+- **Baumann**, *Cosmology* (Part III Cambridge lecture notes) — the modern back-up text, see [[Baumann_reference]]
 
 slides and lecture notes are posted on the e-learning platform [stem.elearning.unipd.it](https://stem.elearning.unipd.it/).
 
@@ -136,17 +136,17 @@ every later course (Observational Cosmology, High Energy Instrumentation, GR) is
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Spherical_astronomy_complete](Spherical_astronomy_complete.html)
-- [Cosmic_inventory_overview](Cosmic_inventory_overview.html)
-- [BBN_overview](BBN_overview.html)
-- [Baumann_reference](Baumann_reference.html)
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Spherical_astronomy_complete]]
+- [[Cosmic_inventory_overview]]
+- [[BBN_overview]]
+- [[Baumann_reference]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Obs_astro_course_intro.html" class="backlink-item">Obs_astro_course_intro</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Obs_astro_course_intro]]
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+
 

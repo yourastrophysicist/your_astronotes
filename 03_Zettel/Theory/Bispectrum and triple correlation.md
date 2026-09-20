@@ -4,7 +4,7 @@ title: "Bispectrum and triple correlation"
 ---
 # Bispectrum and triple correlation
 
-the *single-aperture* analog of [phase closure](interf/Phase%20closure.html). a third-order quantity that is *atmosphere-independent* and recovers the full phase structure of a source despite seeing or instrument errors.
+the *single-aperture* analog of [[Phase closure|phase closure]]. a third-order quantity that is *atmosphere-independent* and recovers the full phase structure of a source despite seeing or instrument errors.
 
 ## definition
 
@@ -88,10 +88,10 @@ introduced by **Lohmann, Weigelt, and Wirnitzer** (1983) — the "Erlangen group
 
 ## see also
 
-- [Speckle interferometry](interf/Speckle%20interferometry.html)
-- [Theory of speckle interferometry](interf/Theory%20of%20speckle%20interferometry.html)
-- [Aperture masking](interf/Aperture%20masking.html)
-- [Speckle imaging algorithms](interf/Speckle%20imaging%20algorithms.html)
-- [Phase closure](interf/Phase%20closure.html)
-- [Closure amplitude](interf/Closure%20amplitude.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Speckle interferometry]]
+- [[Theory of speckle interferometry]]
+- [[Aperture masking]]
+- [[Speckle imaging algorithms]]
+- [[Phase closure]]
+- [[Closure amplitude]]
+- [[Astronomical_Interferometry_MOC]]

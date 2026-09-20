@@ -5,7 +5,7 @@ title: "Part7_Magnetohydrodynamics_Equilibrium_and_Waves"
 # Part 7 - Magnetohydrodynamics, Equilibrium, and Waves
 
 *Course: Fluid and Plasma Dynamics, Prof. Maurizio Giacomin*  
-*Index: [Fluid_and_Plasma_Dynamics_MOC](../../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html) | Exam Guide: [Giacomin_Oral_Exam_Questions_Complete_Guide](./Giacomin_Oral_Exam_Questions_Complete_Guide.html)*  
+*Index: [[Fluid_and_Plasma_Dynamics_MOC]] | Exam Guide: [[Giacomin_Oral_Exam_Questions_Complete_Guide]]*  
 *Relevant Exam Questions: 22, 23, 24, 25*  
 
 ---
@@ -249,14 +249,14 @@ $$u_{fast, slow}^2 = \frac{1}{2} \left[ (v_A^2 + c_s^2) \pm \sqrt{(v_A^2 + c_s^2
 ![Poloidal and Toroidal Magnetic Field Geometries](../../../assets/images/fluid_gradshafranov_p03.png)
 *Figure FPD-12: Magnetic flux coordinates showing poloidal magnetic flux $\psi(R, Z)$, toroidal field function $F(\psi) = R B_\phi$, and safety factor profile $q(\psi)$ preventing kink instabilities.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Cylindrical%20Z-pinch%20equilibrium%20and%20Bennett%20relation.html" class="backlink-item">Cylindrical Z-pinch equilibrium and Bennett relation</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Grad-Shafranov%20equation%20and%20axisymmetric%20tokamak%20equilibria.html" class="backlink-item">Grad-Shafranov equation and axisymmetric tokamak equilibria</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Ideal%20MHD%20equations%20and%20Alfven%20flux%20freezing%20theorem.html" class="backlink-item">Ideal MHD equations and Alfven flux freezing theorem</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Shear%20Alfven%20and%20magnetosonic%20wave%20modes%20in%20MHD.html" class="backlink-item">Shear Alfven and magnetosonic wave modes in MHD</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Cylindrical Z-pinch equilibrium and Bennett relation]]
+- [[Grad-Shafranov equation and axisymmetric tokamak equilibria]]
+- [[Ideal MHD equations and Alfven flux freezing theorem]]
+- [[Shear Alfven and magnetosonic wave modes in MHD]]
+- [[Fluid_and_Plasma_Dynamics_MOC]]
+
 

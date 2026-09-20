@@ -48,16 +48,16 @@ $$v_{\rm GR} = \frac{GM}{Rc} \approx 0.6\;\text{km/s}\quad\text{for the sun}.$$
 absolute RVs (referred to a global standard) rely on accurate atomic line wavelengths and detailed corrections; precision is limited to $\sim 100$ m/s. differential RVs (within one observing campaign of one star) routinely reach 0.5-1 m/s, which is what makes exoplanet RV surveys possible.
 
 ## see also
-- [Stellar rotation v sini](Stellar%20rotation%20v%20sini.html)
-- [Atmospheric parameters Teff log g feh vmicro](interf/Atmospheric%20parameters%20Teff%20log%20g%20feh%20vmicro.html)
-- [Annual stellar parallax](Annual%20stellar%20parallax.html)
-- [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
+- [[Stellar rotation v sini]]
+- [[Atmospheric parameters Teff log g feh vmicro]]
+- [[Annual stellar parallax]]
+- [[Stellar_Astrophysics_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Stellar%20rotation%20v%20sini.html" class="backlink-item">Stellar rotation v sini</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Stellar rotation v sini]]
+- [[Stellar_Astrophysics_MOC]]
+
 

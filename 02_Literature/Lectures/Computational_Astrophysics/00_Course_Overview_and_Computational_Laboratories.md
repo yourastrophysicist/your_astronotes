@@ -5,7 +5,7 @@ title: "00_Course_Overview_and_Computational_Laboratories"
 # Lesson 00 – Course Overview and Computational Laboratories
 
 *Computational Astrophysics, Prof. Tiziano Zingales*  
-*Index: [Computational_Astrophysics_MOC](../../../04_Atlas/Computational_Astrophysics_MOC.html)*
+*Index: [[Computational_Astrophysics_MOC]]*
 
 ---
 
@@ -116,15 +116,15 @@ $$\text{Final Grade} = \text{Score}_A + \text{Score}_B + \text{Score}_C$$
 ---
 
 ## Related Notes
-- [Computational_Astrophysics_MOC](../../../04_Atlas/Computational_Astrophysics_MOC.html)
-- [01_Linux_Containers_and_Docker_Architecture](./01_Linux_Containers_and_Docker_Architecture.html)
-- [02_Version_Control_with_Git_and_GitLab](./02_Version_Control_with_Git_and_GitLab.html)
-- [03_Modular_Python_Software_Architecture_and_Packaging](./03_Modular_Python_Software_Architecture_and_Packaging.html)
+- [[Computational_Astrophysics_MOC]]
+- [[01_Linux_Containers_and_Docker_Architecture]]
+- [[02_Version_Control_with_Git_and_GitLab]]
+- [[03_Modular_Python_Software_Architecture_and_Packaging]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (1)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Computational_Astrophysics_MOC]]
+
 

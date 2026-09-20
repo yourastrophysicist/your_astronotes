@@ -4,7 +4,7 @@ title: "Chemical evolution of galaxies"
 ---
 # chemical evolution of galaxies
 
-up: [Pablo_03_Star_formation_in_galaxies](../../02_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html)
+up: [[Pablo_03_Star_formation_in_galaxies]]
 
 ## the question
 
@@ -70,11 +70,11 @@ interpretation: feedback-driven outflow efficiency depends on $M_h$ → shallowe
 
 ## connections
 
-- stellar yields depend on: [Initial mass function](Initial%20mass%20function.html)
-- enriches with: [Starburst galaxies](Starburst%20galaxies.html), [LIRGs ULIRGs HyLIRGs](LIRGs%20ULIRGs%20HyLIRGs.html)
-- measured via: Lick indices in [Stellar population synthesis](Stellar%20population%20synthesis.html)
-- context for SED fitting: [SED fitting for SFH](SED%20fitting%20for%20SFH.html)
-- cosmological driver: [Cosmic star formation history](Cosmic%20star%20formation%20history.html)
+- stellar yields depend on: [[Initial mass function]]
+- enriches with: [[Starburst galaxies]], [[LIRGs ULIRGs HyLIRGs]]
+- measured via: Lick indices in [[Stellar population synthesis]]
+- context for SED fitting: [[SED fitting for SFH]]
+- cosmological driver: [[Cosmic star formation history]]
 
 ## key references
 
@@ -84,12 +84,12 @@ interpretation: feedback-driven outflow efficiency depends on $M_h$ → shallowe
 - Mannucci et al. 2010 (FMR)
 - Matteucci 2012 (textbook)
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Metallicity%20and%20chemical%20evolution.html" class="backlink-item">Metallicity and chemical evolution</a></li>
-    <li class="backlink-item-wrap"><a href="Superbubbles%20galactic%20chimneys%20and%20fountains.html" class="backlink-item">Superbubbles galactic chimneys and fountains</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Metallicity and chemical evolution]]
+- [[Superbubbles galactic chimneys and fountains]]
+- [[Observational_Cosmology_MOC]]
+
 

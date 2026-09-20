@@ -43,17 +43,17 @@ because $\mathbf{v}_p \propto m/q$, the heavy ions dominate the polarization dri
 
 ## see also
 
-- [Fluid_and_Plasma_Dynamics_MOC](../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html)
-- [Part4_Single_Particle_Motion_and_Magnetic_Confinement](../../02_Literature/Lectures/Fluid_and_Plasma_Dynamics/Part4_Single_Particle_Motion_and_Magnetic_Confinement.html)
-- [Magnetic mirror effect and adiabatic invariants](Magnetic%20mirror%20effect%20and%20adiabatic%20invariants.html)
-- [Tokamak magnetic topology and neoclassical banana orbits](Tokamak%20magnetic%20topology%20and%20neoclassical%20banana%20orbits.html)
+- [[Fluid_and_Plasma_Dynamics_MOC]]
+- [[Part4_Single_Particle_Motion_and_Magnetic_Confinement]]
+- [[Magnetic mirror effect and adiabatic invariants]]
+- [[Tokamak magnetic topology and neoclassical banana orbits]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Ambipolar%20diffusion%20in%20unmagnetized%20and%20magnetized%20plasmas.html" class="backlink-item">Ambipolar diffusion in unmagnetized and magnetized plasmas</a></li>
-    <li class="backlink-item-wrap"><a href="Magnetic%20mirror%20effect%20and%20adiabatic%20invariants.html" class="backlink-item">Magnetic mirror effect and adiabatic invariants</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Ambipolar diffusion in unmagnetized and magnetized plasmas]]
+- [[Magnetic mirror effect and adiabatic invariants]]
+- [[Fluid_and_Plasma_Dynamics_MOC]]
+
 

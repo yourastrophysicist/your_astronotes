@@ -26,16 +26,16 @@ correcting for photographic extinction $A_{\text{pg}} \approx 0.7\text{ mag kpc}
 
 ## see also
 
-- [Astrophysics_of_the_Interstellar_Medium_MOC](../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html)
-- [Cardelli-Clayton-Mathis CCM extinction law](Cardelli-Clayton-Mathis%20CCM%20extinction%20law.html)
-- [Interstellar reddening and the reddening vector](Interstellar%20reddening%20and%20the%20reddening%20vector.html)
-- [Carraro_05_Interstellar_Dust_and_Extinction](../../02_Literature/Lectures/Interstellar_Medium/Carraro_05_Interstellar_Dust_and_Extinction.html)
+- [[Astrophysics_of_the_Interstellar_Medium_MOC]]
+- [[Cardelli-Clayton-Mathis CCM extinction law]]
+- [[Interstellar reddening and the reddening vector]]
+- [[Carraro_05_Interstellar_Dust_and_Extinction]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Cardelli-Clayton-Mathis%20CCM%20extinction%20law.html" class="backlink-item">Cardelli-Clayton-Mathis CCM extinction law</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html" class="backlink-item">Astrophysics_of_the_Interstellar_Medium_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Cardelli-Clayton-Mathis CCM extinction law]]
+- [[Astrophysics_of_the_Interstellar_Medium_MOC]]
+
 

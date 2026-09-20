@@ -48,17 +48,17 @@ The factor $\Omega_{\rm Occam} = \frac{\delta \theta_{\rm posterior}}{\Delta \th
 - Determining whether exoplanetary transit data requires circular versus eccentric Keplerian orbits.
 
 ## See Also
-- [Astro-Statistics_and_Cosmology_MOC](../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html)
-- [11_Model_Selection_Bayesian_Evidence_and_Savage_Dickey_Ratio](../../02_Literature/Lectures/Astrostatistics/11_Model_Selection_Bayesian_Evidence_and_Savage_Dickey_Ratio.html)
-- [Savage-Dickey density ratio for nested model comparison](Savage-Dickey%20density%20ratio%20for%20nested%20model%20comparison.html)
-- [Lindley paradox in statistical hypothesis testing](Lindley%20paradox%20in%20statistical%20hypothesis%20testing.html)
+- [[Astro-Statistics_and_Cosmology_MOC]]
+- [[11_Model_Selection_Bayesian_Evidence_and_Savage_Dickey_Ratio]]
+- [[Savage-Dickey density ratio for nested model comparison]]
+- [[Lindley paradox in statistical hypothesis testing]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Lindley%20paradox%20in%20statistical%20hypothesis%20testing.html" class="backlink-item">Lindley paradox in statistical hypothesis testing</a></li>
-    <li class="backlink-item-wrap"><a href="Savage-Dickey%20density%20ratio%20for%20nested%20model%20comparison.html" class="backlink-item">Savage-Dickey density ratio for nested model comparison</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Lindley paradox in statistical hypothesis testing]]
+- [[Savage-Dickey density ratio for nested model comparison]]
+- [[Astro-Statistics_and_Cosmology_MOC]]
+
 

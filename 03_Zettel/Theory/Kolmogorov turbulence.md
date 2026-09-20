@@ -105,8 +105,8 @@ these scalings are extensively verified observationally. they tell us why IR int
 
 ## see also
 
-- [Atmospheric turbulence overview](interf/Atmospheric%20turbulence%20overview.html)
-- [Structure function and correlation function](interf/Structure%20function%20and%20correlation%20function.html)
-- [Fried parameter $r_0$](interf/Fried%20parameter%20%24r_0%24.html)
-- [Adaptive optics](interf/Adaptive%20optics.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Atmospheric turbulence overview]]
+- [[Structure function and correlation function]]
+- [[Fried parameter $r_0$]]
+- [[Adaptive optics]]
+- [[Astronomical_Interferometry_MOC]]

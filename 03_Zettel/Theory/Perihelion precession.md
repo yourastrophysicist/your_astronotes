@@ -57,21 +57,21 @@ other tests:
 
 ## see also
 
-- [Schwarzschild metric](Schwarzschild%20metric.html)
-- [Schwarzschild effective potential](Schwarzschild%20effective%20potential.html)
-- [Effective potential approach](Effective%20potential%20approach.html)
-- [Photon trajectories and impact parameter](Photon%20trajectories%20and%20impact%20parameter.html)
-- [Light deflection](Light%20deflection.html)
-- [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
-- [Ch 6 - Black Holes](../../02_Literature/Book/Baumann%20GR/Ch%206%20-%20Black%20Holes.html)
+- [[Schwarzschild metric]]
+- [[Schwarzschild effective potential]]
+- [[Effective potential approach]]
+- [[Photon trajectories and impact parameter]]
+- [[Light deflection]]
+- [[General_Relativity_MOC]]
+- [[Ch 6 - Black Holes]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Light%20deflection.html" class="backlink-item">Light deflection</a></li>
-    <li class="backlink-item-wrap"><a href="Newtonian%20limit%20of%20GR.html" class="backlink-item">Newtonian limit of GR</a></li>
-    <li class="backlink-item-wrap"><a href="Schwarzschild%20metric.html" class="backlink-item">Schwarzschild metric</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Light deflection]]
+- [[Newtonian limit of GR]]
+- [[Schwarzschild metric]]
+- [[General_Relativity_MOC]]
+
 

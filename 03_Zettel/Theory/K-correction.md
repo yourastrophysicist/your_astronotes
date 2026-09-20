@@ -16,7 +16,7 @@ so my V-band magnitude is sampling the source's **near-UV** spectrum, not its V-
 the magnitude relation becomes
 $$\boxed{\, m = M + 5\log_{10}(d_L/10\,\text{pc}) + K(z)\,}$$
 
-where $d_L$ is the luminosity distance ([Luminosity distance](Luminosity%20distance.html)) and $K(z)$ is the K-correction in the chosen band.
+where $d_L$ is the luminosity distance ([[Luminosity distance]]) and $K(z)$ is the K-correction in the chosen band.
 
 in band $X$ at redshift $z$:
 $$K_X(z) = -2.5 \log_{10}\!\left[\frac{(1+z)\int F(\lambda) T_X(\lambda)\, d\lambda}{\int F(\lambda/(1+z)) T_X(\lambda)\, d\lambda}\right]$$
@@ -42,7 +42,7 @@ example: the Sun's SED. observed V-band at $z = 0.5$ samples rest-frame near-UV,
 at sub-mm wavelengths ($\sim 850\,\mu$m, SCUBA-2), the negative slope of the Wien tail of the warm-dust greybody means moving the source to higher $z$ samples a *brighter* part of the rest-frame SED. the K-correction can be **strongly negative**:
 $$K(z) < 0\quad\text{at sub-mm for } z \in [1, 10]$$
 
-consequence: dusty star-forming galaxies have **roughly constant flux** at $850\,\mu$m from $z \sim 1$ to $z \sim 10$. the sub-mm is the only optical-NIR-radio band where increasing $z$ does not fade the source. this is what enables ALMA/SCUBA surveys for high-$z$ dusty galaxies. see [K-correction in optical vs sub-mm](K-correction%20in%20optical%20vs%20sub-mm.html).
+consequence: dusty star-forming galaxies have **roughly constant flux** at $850\,\mu$m from $z \sim 1$ to $z \sim 10$. the sub-mm is the only optical-NIR-radio band where increasing $z$ does not fade the source. this is what enables ALMA/SCUBA surveys for high-$z$ dusty galaxies. see [[K-correction in optical vs sub-mm]].
 
 ## practical computation
 
@@ -55,14 +55,14 @@ the python package `kcorrect` (Blanton) is the standard tool for SDSS-derived K-
 
 ## see also
 
-- [Distance modulus](Distance%20modulus.html)
-- [K-correction in optical vs sub-mm](K-correction%20in%20optical%20vs%20sub-mm.html)
-- [Luminosity distance](Luminosity%20distance.html)
-- [Distance ladder derivations](Distance%20ladder%20derivations.html)
-- [Photometric redshifts](Photometric%20redshifts.html)
-- [Filter systems and bandpasses](Filter%20systems%20and%20bandpasses.html)
-- [Cosmic star formation history](Cosmic%20star%20formation%20history.html)
-- [Cosmological redshift](Cosmological%20redshift.html)
+- [[Distance modulus]]
+- [[K-correction in optical vs sub-mm]]
+- [[Luminosity distance]]
+- [[Distance ladder derivations]]
+- [[Photometric redshifts]]
+- [[Filter systems and bandpasses]]
+- [[Cosmic star formation history]]
+- [[Cosmological redshift]]
 
 ---
 
@@ -89,21 +89,21 @@ the python package `kcorrect` (Blanton) is the standard tool for SDSS-derived K-
 ![obs_rad-123.png](../../assets/images/obs_rad-123.png)
 *Sub-mm flux density remaining almost constant from z = 1 to z = 8.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (12)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="1Vmax%20estimator.html" class="backlink-item">1Vmax estimator</a></li>
-    <li class="backlink-item-wrap"><a href="Distance%20ladder%20derivations.html" class="backlink-item">Distance ladder derivations</a></li>
-    <li class="backlink-item-wrap"><a href="Distance%20modulus.html" class="backlink-item">Distance modulus</a></li>
-    <li class="backlink-item-wrap"><a href="Galaxy%20counts%20at%20different%20wavelengths.html" class="backlink-item">Galaxy counts at different wavelengths</a></li>
-    <li class="backlink-item-wrap"><a href="Galaxy%20number%20counts%20N%28m%29.html" class="backlink-item">Galaxy number counts N(m)</a></li>
-    <li class="backlink-item-wrap"><a href="Hubble%20flow%20distances.html" class="backlink-item">Hubble flow distances</a></li>
-    <li class="backlink-item-wrap"><a href="K-correction%20in%20optical%20vs%20sub-mm.html" class="backlink-item">K-correction in optical vs sub-mm</a></li>
-    <li class="backlink-item-wrap"><a href="Luminosity%20distance.html" class="backlink-item">Luminosity distance</a></li>
-    <li class="backlink-item-wrap"><a href="Redshift%20distribution%20of%20flux-limited%20samples.html" class="backlink-item">Redshift distribution of flux-limited samples</a></li>
-    <li class="backlink-item-wrap"><a href="Surface%20brightness%20dimming.html" class="backlink-item">Surface brightness dimming</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[1Vmax estimator]]
+- [[Distance ladder derivations]]
+- [[Distance modulus]]
+- [[Galaxy counts at different wavelengths]]
+- [[Galaxy number counts N(m)]]
+- [[Hubble flow distances]]
+- [[K-correction in optical vs sub-mm]]
+- [[Luminosity distance]]
+- [[Redshift distribution of flux-limited samples]]
+- [[Surface brightness dimming]]
+- [[Observational_Astrophysics_MOC]]
+- [[Observational_Cosmology_MOC]]
+
 

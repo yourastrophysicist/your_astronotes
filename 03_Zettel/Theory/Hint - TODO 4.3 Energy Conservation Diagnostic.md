@@ -5,7 +5,7 @@ title: "Hint - TODO 4.3 Energy Conservation Diagnostic"
 # Hint - TODO 4.3 Energy Conservation Diagnostic
 
 **Target TODO**: TODO 4.3 in Module_1_Random_Sampling_and_Monte_Carlo  
-**Related Zettels**: [Energy conservation as a diagnostic](Energy%20conservation%20as%20a%20diagnostic.html)
+**Related Zettels**: [[Energy conservation as a diagnostic]]
 
 ---
 

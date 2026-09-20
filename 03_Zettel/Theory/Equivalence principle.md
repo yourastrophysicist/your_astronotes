@@ -15,10 +15,10 @@ title: "Equivalence principle"
 ![lez04_equivalence_principle.png](../../assets/images/lez04_equivalence_principle.png)
 *Lecture 04 Blackboard Derivation: Einstein Equivalence Principle (EEP), local inertial frames, and the elevator thought experiment.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (1)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[General_Relativity_MOC]]
+
 

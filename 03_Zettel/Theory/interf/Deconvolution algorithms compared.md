@@ -109,16 +109,16 @@ choose based on the science: faster methods for routine observations, slower/bet
 
 ## see also
 
-- [CLEAN algorithm](CLEAN%20algorithm.html)
-- [Maximum entropy method](../Maximum%20entropy%20method.html)
-- [Dirty beam and dirty image](Dirty%20beam%20and%20dirty%20image.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[CLEAN algorithm]]
+- [[Maximum entropy method]]
+- [[Dirty beam and dirty image]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Maximum%20entropy%20method.html" class="backlink-item">Maximum entropy method</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Maximum entropy method]]
+- [[Astronomical_Interferometry_MOC]]
+
 

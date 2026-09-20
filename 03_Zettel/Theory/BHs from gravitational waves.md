@@ -104,21 +104,21 @@ it represents the new frontier of stellar populations + cluster dynamics merging
 
 ## see also
 
-- [Black holes in globular clusters](Black%20holes%20in%20globular%20clusters.html)
-- [Hunting BHs via radial velocities](Hunting%20BHs%20via%20radial%20velocities.html)
-- [Intermediate-mass BHs in GCs](Intermediate-mass%20BHs%20in%20GCs.html)
-- [Millisecond pulsars in GCs](Millisecond%20pulsars%20in%20GCs.html)
-- [X-ray sources in globular clusters](X-ray%20sources%20in%20globular%20clusters.html)
-- [Cepheids and supernovae](Cepheids%20and%20supernovae.html)
-- [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
+- [[Black holes in globular clusters]]
+- [[Hunting BHs via radial velocities]]
+- [[Intermediate-mass BHs in GCs]]
+- [[Millisecond pulsars in GCs]]
+- [[X-ray sources in globular clusters]]
+- [[Cepheids and supernovae]]
+- [[Stellar_Astrophysics_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Black%20holes%20in%20globular%20clusters.html" class="backlink-item">Black holes in globular clusters</a></li>
-    <li class="backlink-item-wrap"><a href="Hunting%20BHs%20via%20radial%20velocities.html" class="backlink-item">Hunting BHs via radial velocities</a></li>
-    <li class="backlink-item-wrap"><a href="Intermediate-mass%20BHs%20in%20GCs.html" class="backlink-item">Intermediate-mass BHs in GCs</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Black holes in globular clusters]]
+- [[Hunting BHs via radial velocities]]
+- [[Intermediate-mass BHs in GCs]]
+- [[Stellar_Astrophysics_MOC]]
+
 

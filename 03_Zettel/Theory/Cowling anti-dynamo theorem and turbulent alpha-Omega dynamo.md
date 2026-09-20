@@ -37,15 +37,15 @@ the cyclic feedback between the $\alpha$-effect and $\Omega$-effect drives the 2
 
 ## see also
 
-- [Fluid_and_Plasma_Dynamics_MOC](../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html)
-- [Part8_Reconnection_Relaxation_and_Dynamo_Theory](../../02_Literature/Lectures/Fluid_and_Plasma_Dynamics/Part8_Reconnection_Relaxation_and_Dynamo_Theory.html)
-- [Interstellar magnetic field tracers](Interstellar%20magnetic%20field%20tracers.html)
-- [Vorticity dynamics and Kelvin circulation theorem](Vorticity%20dynamics%20and%20Kelvin%20circulation%20theorem.html)
+- [[Fluid_and_Plasma_Dynamics_MOC]]
+- [[Part8_Reconnection_Relaxation_and_Dynamo_Theory]]
+- [[Interstellar magnetic field tracers]]
+- [[Vorticity dynamics and Kelvin circulation theorem]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (1)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Fluid_and_Plasma_Dynamics_MOC]]
+
 

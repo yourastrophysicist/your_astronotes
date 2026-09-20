@@ -148,13 +148,13 @@ When sketching the PCA spectral classification plane on the blackboard.
 
 ## 6. See Also
 
-- [Galaxy spectroscopy by type](Galaxy%20spectroscopy%20by%20type.html)
-- [Color bimodality of galaxies](Color%20bimodality%20of%20galaxies.html)
-- [Red sequence and blue cloud](Red%20sequence%20and%20blue%20cloud.html)
-- [CAS galaxy classification](CAS%20galaxy%20classification.html)
-- [Hubble morphological sequence](Hubble%20morphological%20sequence.html)
-- [SDSS overview](SDSS%20overview.html)
-- [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html)
+- [[Galaxy spectroscopy by type]]
+- [[Color bimodality of galaxies]]
+- [[Red sequence and blue cloud]]
+- [[CAS galaxy classification]]
+- [[Hubble morphological sequence]]
+- [[SDSS overview]]
+- [[Astrophysics_of_Galaxies_MOC]]
 
 ---
 
@@ -207,13 +207,13 @@ When sketching the PCA spectral classification plane on the blackboard.
 
 ![gal_pca-16.png](../../assets/images/gal_pca-16.png)
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="CAS%20galaxy%20classification.html" class="backlink-item">CAS galaxy classification</a></li>
-    <li class="backlink-item-wrap"><a href="Color%20bimodality%20of%20galaxies.html" class="backlink-item">Color bimodality of galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="Eigenspectra%20and%20spectral%20types.html" class="backlink-item">Eigenspectra and spectral types</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[CAS galaxy classification]]
+- [[Color bimodality of galaxies]]
+- [[Eigenspectra and spectral types]]
+- [[Astrophysics_of_Galaxies_MOC]]
+
 

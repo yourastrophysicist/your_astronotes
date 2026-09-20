@@ -29,7 +29,7 @@ each tensor index brings one Christoffel correction with appropriate sign.
 - **Leibniz**: $\nabla(A\otimes B) = (\nabla A)\otimes B + A\otimes(\nabla B)$.
 - **respects contractions**: $\nabla(\delta^\mu_\nu) = 0$.
 - **on scalars**: $\nabla_\mu \phi = \partial_\mu \phi$ (no Christoffel needed; scalars are tensors of rank 0).
-- **metric compatibility**: $\nabla_\rho g_{\mu\nu} = 0$ (see [Metric compatibility](Metric%20compatibility.html)).
+- **metric compatibility**: $\nabla_\rho g_{\mu\nu} = 0$ (see [[Metric compatibility]]).
 
 ## why we need it
 
@@ -69,26 +69,26 @@ for symbolic work, SymPy + GraviPy or Mathematica + xAct handle this automatical
 
 ## see also
 
-- [Christoffel symbols](Christoffel%20symbols.html)
-- [Levi-Civita connection](Levi-Civita%20connection.html)
-- [Metric compatibility](Metric%20compatibility.html)
-- [Riemann tensor](Riemann%20tensor.html)
-- [Coordinate transformations and tensors](Coordinate%20transformations%20and%20tensors.html)
+- [[Christoffel symbols]]
+- [[Levi-Civita connection]]
+- [[Metric compatibility]]
+- [[Riemann tensor]]
+- [[Coordinate transformations and tensors]]
 - Q3 - covariant derivatives in polar
 - Q4 - metric compatibility on the 2-sphere
-- [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
-- [Ch 2 - Some Differential Geometry](../../02_Literature/Book/Baumann%20GR/Ch%202%20-%20Some%20Differential%20Geometry.html)
+- [[General_Relativity_MOC]]
+- [[Ch 2 - Some Differential Geometry]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Christoffel%20symbols.html" class="backlink-item">Christoffel symbols</a></li>
-    <li class="backlink-item-wrap"><a href="Coordinate%20transformations%20and%20tensors.html" class="backlink-item">Coordinate transformations and tensors</a></li>
-    <li class="backlink-item-wrap"><a href="Levi-Civita%20connection.html" class="backlink-item">Levi-Civita connection</a></li>
-    <li class="backlink-item-wrap"><a href="Metric%20compatibility.html" class="backlink-item">Metric compatibility</a></li>
-    <li class="backlink-item-wrap"><a href="Parallel%20transport.html" class="backlink-item">Parallel transport</a></li>
-    <li class="backlink-item-wrap"><a href="Riemann%20tensor.html" class="backlink-item">Riemann tensor</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Christoffel symbols]]
+- [[Coordinate transformations and tensors]]
+- [[Levi-Civita connection]]
+- [[Metric compatibility]]
+- [[Parallel transport]]
+- [[Riemann tensor]]
+- [[General_Relativity_MOC]]
+
 

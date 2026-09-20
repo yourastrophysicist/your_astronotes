@@ -99,14 +99,14 @@ The best solution is the **Rowland circle**:
 			with a resolution of about $0.06~\mathring{A}$
 ![Screenshot 2026-04-07 at 02.00.58.png](../../assets/images/Screenshot%202026-04-07%20at%2002.00.58.png)
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="A%20Brief%20History%20of%20X-ray%20and%20Gamma-ray%20Missions.html" class="backlink-item">A Brief History of X-ray and Gamma-ray Missions</a></li>
-    <li class="backlink-item-wrap"><a href="Appendix%20D%20-%20Gratings%20and%20spectrographs.html" class="backlink-item">Appendix D - Gratings and spectrographs</a></li>
-    <li class="backlink-item-wrap"><a href="Point%20Spread%20Function%20%28PSF%29.html" class="backlink-item">Point Spread Function (PSF)</a></li>
-    <li class="backlink-item-wrap"><a href="Telescope%20resolving%20power.html" class="backlink-item">Telescope resolving power</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[A Brief History of X-ray and Gamma-ray Missions]]
+- [[Appendix D - Gratings and spectrographs]]
+- [[Point Spread Function (PSF)]]
+- [[Telescope resolving power]]
+- [[Lab_High-Energy_MOC]]
+
 

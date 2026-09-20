@@ -5,7 +5,7 @@ title: "18_Space_Transit_Surveys_TTVs_and_Resonances"
 # Lesson 18 – Planetary Transits IV: Space Surveys, TTVs, and Resonances
 
 *Exoplanetary Astrophysics, Prof. Giampaolo Piotto (Lecture 16/12/2025)*  
-*Index: [Exoplanetary_Astrophysics_MOC](../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)*
+*Index: [[Exoplanetary_Astrophysics_MOC]]*
 
 ---
 
@@ -124,17 +124,17 @@ $$\text{TDV} = T_{\text{dur}}(N) - \langle T_{\text{dur}} \rangle$$
 ---
 
 ## Cross-Links & Vault Navigation
-- Master Map of Content: [Exoplanetary_Astrophysics_MOC](../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)
-- Previous Lecture: [17_Transit_False_Positives_and_Vetting_Protocols](./17_Transit_False_Positives_and_Vetting_Protocols.html)
-- Next Lecture: [19_CHEOPS_and_PLATO_Missions](./19_CHEOPS_and_PLATO_Missions.html)
+- Master Map of Content: [[Exoplanetary_Astrophysics_MOC]]
+- Previous Lecture: [[17_Transit_False_Positives_and_Vetting_Protocols]]
+- Next Lecture: [[19_CHEOPS_and_PLATO_Missions]]
 - Related Notes: Transit photometry and Mandel-Agol formulation | Planetary system dynamics and resonance
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Space%20transit%20observatories%20and%20CHEOPS-PLATO%20missions.html" class="backlink-item">Space transit observatories and CHEOPS-PLATO missions</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Transit%20timing%20variations%20and%20resonant%20multi-planet%20dynamics.html" class="backlink-item">Transit timing variations and resonant multi-planet dynamics</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Space transit observatories and CHEOPS-PLATO missions]]
+- [[Transit timing variations and resonant multi-planet dynamics]]
+- [[Exoplanetary_Astrophysics_MOC]]
+
 

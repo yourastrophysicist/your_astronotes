@@ -2,7 +2,7 @@
 layout: "default"
 title: "Wolter Telescope"
 ---
-The idea of using the [Grazing incidence](Grazing%20incidence.html) reflection to focus X-rays was proposed in 1960 by **Giacconi & Rossi** *(JGR 65,773; A Telescope for Soft X-ray Astronomy)*
+The idea of using the [[Grazing incidence]] reflection to focus X-rays was proposed in 1960 by **Giacconi & Rossi** *(JGR 65,773; A Telescope for Soft X-ray Astronomy)*
 	a truncated parabolic mirror not located in the vertex of the parabola, like incase of optical telescopes, but in the arms,
 
 ![Screenshot 2026-04-06 at 21.33.22.png](../../assets/images/Screenshot%202026-04-06%20at%2021.33.22.png)
@@ -64,14 +64,14 @@ The main difference between them is given by the **ratio between the focal lengt
 ![xray_detector_p4_img1.png](../../assets/images/xray_detector_p4_img1.png)
 *Grazing incidence reflection: critical angle $\theta_c \approx \sqrt{2\delta} \approx 10^\prime \frac{\sqrt{\rho}}{E_{\rm keV}}$, high-Z gold/iridium coatings, and nested shell geometry.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Angular%20Resolution.html" class="backlink-item">Angular Resolution</a></li>
-    <li class="backlink-item-wrap"><a href="Effective%20Area.html" class="backlink-item">Effective Area</a></li>
-    <li class="backlink-item-wrap"><a href="Mechanical%20Collimator.html" class="backlink-item">Mechanical Collimator</a></li>
-    <li class="backlink-item-wrap"><a href="Point%20Spread%20Function%20%28PSF%29.html" class="backlink-item">Point Spread Function (PSF)</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Angular Resolution]]
+- [[Effective Area]]
+- [[Mechanical Collimator]]
+- [[Point Spread Function (PSF)]]
+- [[Lab_High-Energy_MOC]]
+
 

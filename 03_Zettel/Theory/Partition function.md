@@ -8,7 +8,7 @@ the **partition function** $Z(T)$ of an ion encodes the total weight of all its 
 
 $$Z(T) = \sum_k g_k\,e^{-E_k/k_BT}$$
 
-sum over all bound levels $k$ of the ion, with $g_k$ the statistical weight ([Statistical weight g](Statistical%20weight%20g.html)) and $E_k$ the energy above the ground state.
+sum over all bound levels $k$ of the ion, with $g_k$ the statistical weight ([[Statistical weight g]]) and $E_k$ the energy above the ground state.
 
 ## limits
 
@@ -40,20 +40,20 @@ quick-and-dirty: for most species below $T = 10^4$ K, $Z_i \approx g_i^{\rm grou
 
 ## see also
 
-- [Boltzmann equation in spectroscopy](Boltzmann%20equation%20in%20spectroscopy.html)
-- [Saha ionisation equation](Saha%20ionisation%20equation.html)
-- [Statistical weight g](Statistical%20weight%20g.html)
-- [Population of excited levels](Population%20of%20excited%20levels.html)
-- [Number density and energy density at thermal equilibrium](Number%20density%20and%20energy%20density%20at%20thermal%20equilibrium.html) — analogous in cosmological / photon-gas context
+- [[Boltzmann equation in spectroscopy]]
+- [[Saha ionisation equation]]
+- [[Statistical weight g]]
+- [[Population of excited levels]]
+- [[Number density and energy density at thermal equilibrium]] — analogous in cosmological / photon-gas context
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Boltzmann%20equation%20in%20spectroscopy.html" class="backlink-item">Boltzmann equation in spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="Population%20of%20excited%20levels.html" class="backlink-item">Population of excited levels</a></li>
-    <li class="backlink-item-wrap"><a href="Saha%20ionisation%20equation.html" class="backlink-item">Saha ionisation equation</a></li>
-    <li class="backlink-item-wrap"><a href="Statistical%20weight%20g.html" class="backlink-item">Statistical weight g</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Boltzmann equation in spectroscopy]]
+- [[Population of excited levels]]
+- [[Saha ionisation equation]]
+- [[Statistical weight g]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 

@@ -35,18 +35,18 @@ the volumetric throughput scales with the fourth power of the pipe radius $R^4$.
 
 ## see also
 
-- [Fluid_and_Plasma_Dynamics_MOC](../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html)
-- [Part2_Incompressible_and_Viscous_Flows](../../02_Literature/Lectures/Fluid_and_Plasma_Dynamics/Part2_Incompressible_and_Viscous_Flows.html)
-- [Chapman-Enskog expansion and Navier-Stokes derivation](Chapman-Enskog%20expansion%20and%20Navier-Stokes%20derivation.html)
-- [Prandtl boundary layer theory and Blasius scaling](Prandtl%20boundary%20layer%20theory%20and%20Blasius%20scaling.html)
+- [[Fluid_and_Plasma_Dynamics_MOC]]
+- [[Part2_Incompressible_and_Viscous_Flows]]
+- [[Chapman-Enskog expansion and Navier-Stokes derivation]]
+- [[Prandtl boundary layer theory and Blasius scaling]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Chapman-Enskog%20expansion%20and%20Navier-Stokes%20derivation.html" class="backlink-item">Chapman-Enskog expansion and Navier-Stokes derivation</a></li>
-    <li class="backlink-item-wrap"><a href="Parker%20solar%20wind%20and%20transonic%20critical%20point.html" class="backlink-item">Parker solar wind and transonic critical point</a></li>
-    <li class="backlink-item-wrap"><a href="Prandtl%20boundary%20layer%20theory%20and%20Blasius%20scaling.html" class="backlink-item">Prandtl boundary layer theory and Blasius scaling</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Chapman-Enskog expansion and Navier-Stokes derivation]]
+- [[Parker solar wind and transonic critical point]]
+- [[Prandtl boundary layer theory and Blasius scaling]]
+- [[Fluid_and_Plasma_Dynamics_MOC]]
+
 

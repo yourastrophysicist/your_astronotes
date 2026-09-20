@@ -5,7 +5,7 @@ title: "Malavolta 05 - Local Background Subtraction and Aperture Photometry"
 # Malavolta 05 — Local Background Subtraction and Aperture Photometry
 
 *Astrophysics Laboratory 2, Prof. Luca Malavolta*  
-*Index: [Astrophysics_Laboratory_2_MOC](../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html)*
+*Index: [[Astrophysics_Laboratory_2_MOC]]*
 
 ---
 
@@ -73,17 +73,17 @@ To determine the optimal aperture radius $R_{\text{ap}}$, a **Curve of Growth** 
 ---
 
 ## Related Notes
-- [Aperture Photometry and Optimal Aperture Selection](../../../03_Zettel/Observations/Aperture%20Photometry%20and%20Optimal%20Aperture%20Selection.html)
-- [Curve of Growth in Stellar Photometry](../../../03_Zettel/Observations/Curve%20of%20Growth%20in%20Stellar%20Photometry.html)
-- [Malavolta 06 - Python Class Design for Photometry Pipelines](./Malavolta%2006%20-%20Python%20Class%20Design%20for%20Photometry%20Pipelines.html)
-- [Laboratory Exercise - Star Centroiding and Aperture Photometry Pipeline](../../../03_Zettel/Activities/Laboratory%20Exercise%20-%20Star%20Centroiding%20and%20Aperture%20Photometry%20Pipeline.html)
+- [[Aperture Photometry and Optimal Aperture Selection]]
+- [[Curve of Growth in Stellar Photometry]]
+- [[Malavolta 06 - Python Class Design for Photometry Pipelines]]
+- [[Laboratory Exercise - Star Centroiding and Aperture Photometry Pipeline]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Observations/Aperture%20Photometry%20and%20Optimal%20Aperture%20Selection.html" class="backlink-item">Aperture Photometry and Optimal Aperture Selection</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Observations/Curve%20of%20Growth%20in%20Stellar%20Photometry.html" class="backlink-item">Curve of Growth in Stellar Photometry</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Aperture Photometry and Optimal Aperture Selection]]
+- [[Curve of Growth in Stellar Photometry]]
+- [[Astrophysics_Laboratory_2_MOC]]
+
 

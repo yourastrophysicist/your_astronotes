@@ -58,7 +58,7 @@ Measuring the pair direction through tracking devices,
 ## Summary of dominant processes
 
 The three regions of the plot are defined by equalling the cross sections of:
-	[Photoelectric absorption](Photoelectric%20absorption.html) and Compton scattering ($\sigma_{ph} = \sigma_C$)
+	[[Photoelectric absorption]] and Compton scattering ($\sigma_{ph} = \sigma_C$)
 	Compton scattering and pair production ($\sigma_C = \sigma_{pp}$)
 
 ![Screenshot 2026-04-07 at 01.22.49.png](../../assets/images/Screenshot%202026-04-07%20at%2001.22.49.png)
@@ -76,13 +76,13 @@ where
 	$\lambda$ is the **mean free path**,
 		that is the average distance traveled in the absorber before an interaction takes place
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Compton%20Telescope.html" class="backlink-item">Compton Telescope</a></li>
-    <li class="backlink-item-wrap"><a href="Photoelectric%20absorption.html" class="backlink-item">Photoelectric absorption</a></li>
-    <li class="backlink-item-wrap"><a href="Processes%20of%20photon-matter%20interaction.html" class="backlink-item">Processes of photon-matter interaction</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Compton Telescope]]
+- [[Photoelectric absorption]]
+- [[Processes of photon-matter interaction]]
+- [[Lab_High-Energy_MOC]]
+
 

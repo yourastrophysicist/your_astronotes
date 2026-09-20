@@ -5,7 +5,7 @@ title: "Laboratory Report Guidelines and Scientific Writing"
 # Laboratory Report Guidelines and Scientific Writing
 
 *Astrophysics Laboratory 2, Prof. Luca Malavolta & Prof. Giampaolo Piotto*  
-*Index: [Astrophysics_Laboratory_2_MOC](../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html)*
+*Index: [[Astrophysics_Laboratory_2_MOC]]*
 
 ---
 
@@ -75,14 +75,14 @@ The final deliverable for Astrophysics Laboratory 2 is an authentic scientific r
 ---
 
 ## Related Notes
-- [Lesson 00 - Course Overview and Research Methodology](./Lesson%2000%20-%20Course%20Overview%20and%20Research%20Methodology.html)
-- [Astrophysics Lab 2 Report Specifications and AA Format](../../../03_Zettel/Activities/Astrophysics%20Lab%202%20Report%20Specifications%20and%20AA%20Format.html)
+- [[Lesson 00 - Course Overview and Research Methodology]]
+- [[Astrophysics Lab 2 Report Specifications and AA Format]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Activities/Astrophysics%20Lab%202%20Report%20Specifications%20and%20AA%20Format.html" class="backlink-item">Astrophysics Lab 2 Report Specifications and AA Format</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Astrophysics Lab 2 Report Specifications and AA Format]]
+- [[Astrophysics_Laboratory_2_MOC]]
+
 

@@ -115,14 +115,14 @@ For a de Vaucouleurs profile ($n=4$) - $\langle I \rangle_e \approx 3.607 I_e$, 
 
 ## see also
 
-- [De Vaucouleurs and exponential profiles](De%20Vaucouleurs%20and%20exponential%20profiles.html)
-- [Hubble morphological sequence](Hubble%20morphological%20sequence.html)
-- [CAS galaxy classification](CAS%20galaxy%20classification.html)
-- [Galaxy size-luminosity relation](Galaxy%20size-luminosity%20relation.html)
-- [Petrosian radius](Petrosian%20radius.html)
-- [Aperture photometry](Aperture%20photometry.html)
-- [PSF photometry](PSF%20photometry.html)
-- [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html)
+- [[De Vaucouleurs and exponential profiles]]
+- [[Hubble morphological sequence]]
+- [[CAS galaxy classification]]
+- [[Galaxy size-luminosity relation]]
+- [[Petrosian radius]]
+- [[Aperture photometry]]
+- [[PSF photometry]]
+- [[Astrophysics_of_Galaxies_MOC]]
 
 ---
 
@@ -178,16 +178,16 @@ For a de Vaucouleurs profile ($n=4$) - $\langle I \rangle_e \approx 3.607 I_e$, 
 
 ![gal_ell-20.png](../../assets/images/gal_ell-20.png)
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="CAS%20galaxy%20classification.html" class="backlink-item">CAS galaxy classification</a></li>
-    <li class="backlink-item-wrap"><a href="De%20Vaucouleurs%20and%20exponential%20profiles.html" class="backlink-item">De Vaucouleurs and exponential profiles</a></li>
-    <li class="backlink-item-wrap"><a href="Galaxy%20morphology%20vs%20physical%20properties.html" class="backlink-item">Galaxy morphology vs physical properties</a></li>
-    <li class="backlink-item-wrap"><a href="Hubble%20morphological%20sequence.html" class="backlink-item">Hubble morphological sequence</a></li>
-    <li class="backlink-item-wrap"><a href="Kormendy%20relation.html" class="backlink-item">Kormendy relation</a></li>
-    <li class="backlink-item-wrap"><a href="Petrosian%20radius.html" class="backlink-item">Petrosian radius</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[CAS galaxy classification]]
+- [[De Vaucouleurs and exponential profiles]]
+- [[Galaxy morphology vs physical properties]]
+- [[Hubble morphological sequence]]
+- [[Kormendy relation]]
+- [[Petrosian radius]]
+- [[Astrophysics_of_Galaxies_MOC]]
+
 

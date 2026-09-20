@@ -19,14 +19,14 @@ All notes are linked below. The detailed derivations, equations, and figures liv
 Why X-ray astronomy must be done from space, and what "measuring" a source actually means.
 
 - Introduction of High Energy Instrumentation — course overview and motivation
-- [Atmospheric transmission](../03_Zettel/Theory/interf/Atmospheric%20transmission.html) — the four atmospheric effects; X-ray opacity; space as the only solution
-- [Seeing Effect](../03_Zettel/Theory/Seeing%20Effect.html) — Kolmogorov turbulence, Fried parameter, seeing disk, adaptive optics
-- [Luminosity and Flux for -Instrumentations](../03_Zettel/Theory/Luminosity%20and%20Flux%20for%20-Instrumentations.html) — $F = L/4\pi d_L^2$, photon flux, count rate, absorption, K-correction, ECF, hardness ratio
-- [Luminosity](../03_Zettel/Theory/Luminosity.html) — quick reference; typical values
-- [Telescope resolving power](../03_Zettel/Theory/Telescope%20resolving%20power.html) — Rayleigh criterion, plate scale, limiting factors by telescope type
-- [Rayleigh criterion](../03_Zettel/Theory/Rayleigh%20criterion.html) — Airy disk derivation, $\theta = 1.22\lambda/D$, examples
-- [Point Spread Function (PSF)](../03_Zettel/Theory/Point%20Spread%20Function%20%28PSF%29.html) — PSF definition, FWHM vs HPD, EEF, on-axis vs off-axis
-- [A Brief History of X-ray and Gamma-ray Missions](../03_Zettel/Theory/A%20Brief%20History%20of%20X-ray%20and%20Gamma-ray%20Missions.html) — from Giacconi 1962 to eROSITA 2019
+- [[Atmospheric transmission]] — the four atmospheric effects; X-ray opacity; space as the only solution
+- [[Seeing Effect]] — Kolmogorov turbulence, Fried parameter, seeing disk, adaptive optics
+- [[Luminosity and Flux for -Instrumentations]] — $F = L/4\pi d_L^2$, photon flux, count rate, absorption, K-correction, ECF, hardness ratio
+- [[Luminosity]] — quick reference; typical values
+- [[Telescope resolving power]] — Rayleigh criterion, plate scale, limiting factors by telescope type
+- [[Rayleigh criterion]] — Airy disk derivation, $\theta = 1.22\lambda/D$, examples
+- [[Point Spread Function (PSF)]] — PSF definition, FWHM vs HPD, EEF, on-axis vs off-axis
+- [[A Brief History of X-ray and Gamma-ray Missions]] — from Giacconi 1962 to eROSITA 2019
 
 ---
 
@@ -34,11 +34,11 @@ Why X-ray astronomy must be done from space, and what "measuring" a source actua
 
 How we build telescopes that reflect X-rays.
 
-- [Grazing incidence](../03_Zettel/Theory/Grazing%20incidence.html) — refractive index $n = 1-\delta+i\beta$, critical angle $\theta_c \approx \sqrt{2\delta} \propto \sqrt{\rho}/E$, high-Z coatings
-- [Bragg Reflection](../03_Zettel/Theory/Bragg%20Reflection.html) — multilayer coatings, modified Bragg equation, NuSTAR, hard X-ray focusing
-- [Wolter Telescope](../03_Zettel/Theory/Wolter%20Telescope.html) — Wolter I/II/III, Abbe sine condition, two reflections, nested shells
-- [Effective Area](../03_Zettel/Theory/Effective%20Area.html) — $A_{eff} = A_{geo} \times R_{mirrors} \times QE \times T_{filter}$, energy dependence, mission comparison
-- [Angular Resolution](../03_Zettel/Theory/Angular%20Resolution.html) — HPD definition, blur circle sources ($\sigma_{diff}^2 + \sigma_{geom}^2 + \sigma_{rough}^2 + \sigma_{align}^2$), mission comparison
+- [[Grazing incidence]] — refractive index $n = 1-\delta+i\beta$, critical angle $\theta_c \approx \sqrt{2\delta} \propto \sqrt{\rho}/E$, high-Z coatings
+- [[Bragg Reflection]] — multilayer coatings, modified Bragg equation, NuSTAR, hard X-ray focusing
+- [[Wolter Telescope]] — Wolter I/II/III, Abbe sine condition, two reflections, nested shells
+- [[Effective Area]] — $A_{eff} = A_{geo} \times R_{mirrors} \times QE \times T_{filter}$, energy dependence, mission comparison
+- [[Angular Resolution]] — HPD definition, blur circle sources ($\sigma_{diff}^2 + \sigma_{geom}^2 + \sigma_{rough}^2 + \sigma_{align}^2$), mission comparison
 
 ---
 
@@ -46,12 +46,12 @@ How we build telescopes that reflect X-rays.
 
 What to use when you cannot focus.
 
-- [Processes of photon-matter interaction](../03_Zettel/Theory/Processes%20of%20photon-matter%20interaction.html) — three processes, linear attenuation coefficient $\mu = \sigma n$, mean free path $\lambda = 1/\mu$, domain diagram
-- [Photoelectric absorption](../03_Zettel/Theory/Photoelectric%20absorption.html) — $\sigma_{ph} \propto Z^{4-5}/E^3$, absorption edges, relation to $\beta$, ISM column density
-- [Compton scattering and pair production](../03_Zettel/Theory/Compton%20scattering%20and%20pair%20production.html) — Compton formula $E'_{ph}$, Klein-Nishina, pair production threshold $1.022~\text{MeV}$, annihilation
-- [Mechanical Collimator](../03_Zettel/Theory/Mechanical%20Collimator.html) — $\Delta\theta = d/L$, on/off method, no imaging, source confusion
-- [Coded Mask](../03_Zettel/Theory/Coded%20Mask.html) — shadowgram $D = S \otimes M + B$, deconvolution, $S' = S + B \otimes G$, INTEGRAL IBIS, Swift BAT
-- [Compton Telescope](../03_Zettel/Theory/Compton%20Telescope.html) — two planes (scatterer + absorber), source cone, time-of-flight rejection, COMPTEL/CGRO
+- [[Processes of photon-matter interaction]] — three processes, linear attenuation coefficient $\mu = \sigma n$, mean free path $\lambda = 1/\mu$, domain diagram
+- [[Photoelectric absorption]] — $\sigma_{ph} \propto Z^{4-5}/E^3$, absorption edges, relation to $\beta$, ISM column density
+- [[Compton scattering and pair production]] — Compton formula $E'_{ph}$, Klein-Nishina, pair production threshold $1.022~\text{MeV}$, annihilation
+- [[Mechanical Collimator]] — $\Delta\theta = d/L$, on/off method, no imaging, source confusion
+- [[Coded Mask]] — shadowgram $D = S \otimes M + B$, deconvolution, $S' = S + B \otimes G$, INTEGRAL IBIS, Swift BAT
+- [[Compton Telescope]] — two planes (scatterer + absorber), source cone, time-of-flight rejection, COMPTEL/CGRO
 
 ---
 
@@ -59,11 +59,11 @@ What to use when you cannot focus.
 
 How X-ray photons become electrons and counts.
 
-- [Charge-Coupled Device](../03_Zettel/Theory/Charge-Coupled%20Device.html) — semiconductors, energy bands, doping, n-type and p-type silicon
-- [The p-n junction](../03_Zettel/Theory/The%20p-n%20junction.html) — diffusion, depletion region, reverse bias, buried channel
-- [CCD readout](../03_Zettel/Theory/CCD%20readout.html) — MOS capacitor, 3-phase clocking, serial register, readout noise $\sigma_{RON}$, CTE
-- [CCDs for X-rays](../03_Zettel/Theory/CCDs%20for%20X-rays.html) — $N_e = E_{ph}/w$ ($w = 3.68~\text{eV}$), photon counting mode, grades, pile-up, energy resolution
-- [Quantum efficiency](../03_Zettel/Theory/Quantum%20efficiency.html) — transmission through dead layers $T = e^{-\mu t}$, absorption in depletion $A = 1 - e^{-\mu_{Si}d}$, front vs back illumination, optical blocking filter
+- [[Charge-Coupled Device]] — semiconductors, energy bands, doping, n-type and p-type silicon
+- [[The p-n junction]] — diffusion, depletion region, reverse bias, buried channel
+- [[CCD readout]] — MOS capacitor, 3-phase clocking, serial register, readout noise $\sigma_{RON}$, CTE
+- [[CCDs for X-rays]] — $N_e = E_{ph}/w$ ($w = 3.68~\text{eV}$), photon counting mode, grades, pile-up, energy resolution
+- [[Quantum efficiency]] — transmission through dead layers $T = e^{-\mu t}$, absorption in depletion $A = 1 - e^{-\mu_{Si}d}$, front vs back illumination, optical blocking filter
 
 ---
 
@@ -71,8 +71,8 @@ How X-ray photons become electrons and counts.
 
 High-resolution spectroscopy with dispersive elements.
 
-- [X-ray diffraction grating](../03_Zettel/Theory/X-ray%20diffraction%20grating.html) — transmission: $d(\sin\theta - \sin i) = m\lambda$; reflection: $d(\cos\theta - \cos i) = m\lambda$; Rowland circle; Chandra HETGS; XMM-Newton RGS
-- [Appendix D - Gratings and spectrographs](../03_Zettel/Theory/Appendix%20D%20-%20Gratings%20and%20spectrographs.html) — grating equation geometry, blazed gratings, angular dispersion, resolving power $R = mN$
+- [[X-ray diffraction grating]] — transmission: $d(\sin\theta - \sin i) = m\lambda$; reflection: $d(\cos\theta - \cos i) = m\lambda$; Rowland circle; Chandra HETGS; XMM-Newton RGS
+- [[Appendix D - Gratings and spectrographs]] — grating equation geometry, blazed gratings, angular dispersion, resolving power $R = mN$
 
 ---
 
@@ -80,11 +80,11 @@ High-resolution spectroscopy with dispersive elements.
 
 How to go from counts to meaningful physics.
 
-- [Astrostatistics](../03_Zettel/Theory/Astrostatistics.html) — introduction, the full chain from photons to physics
-- [Distributions](../03_Zettel/Theory/Distributions.html) — probability distributions, Poisson $f(k;\lambda) = \lambda^k e^{-\lambda}/k!$, $E[k] = V[k] = \lambda$, Gaussian approximation
-- [Signal-Noise Ratio](../03_Zettel/Theory/Signal-Noise%20Ratio.html) — $SNR = st/\sqrt{(s+b)t}$, source-dominated vs background-dominated, why angular resolution matters
-- [Fitting](../03_Zettel/Theory/Fitting.html) — $\chi^2$, reduced $\chi^2$, degrees of freedom, C-statistics (Kaastra 2017), forward folding, RMF, ARF
-- [p-value](../03_Zettel/Theory/p-value.html) — definition, null hypothesis, 4-step hypothesis test, critical warning
+- [[Astrostatistics]] — introduction, the full chain from photons to physics
+- [[Distributions]] — probability distributions, Poisson $f(k;\lambda) = \lambda^k e^{-\lambda}/k!$, $E[k] = V[k] = \lambda$, Gaussian approximation
+- [[Signal-Noise Ratio]] — $SNR = st/\sqrt{(s+b)t}$, source-dominated vs background-dominated, why angular resolution matters
+- [[Fitting]] — $\chi^2$, reduced $\chi^2$, degrees of freedom, C-statistics (Kaastra 2017), forward folding, RMF, ARF
+- [[p-value]] — definition, null hypothesis, 4-step hypothesis test, critical warning
 
 ---
 
@@ -92,10 +92,10 @@ How to go from counts to meaningful physics.
 
 The physics of what produces X-ray and gamma-ray emission.
 
-- [Radiative Processes](../03_Zettel/Theory/Radiative%20Processes.html) — Larmor formula, three mechanisms overview, particle distributions
-- [Bremsstrahlung](../03_Zettel/Theory/Bremsstrahlung.html) — thermal free-free emission, flat spectrum + exponential cutoff at $h\nu \sim k_BT$, galaxy clusters, emission measure
-- [Synchroton](../03_Zettel/Theory/Synchroton.html) — relativistic electrons in $B$, $\nu_c \propto \gamma^2 qB/m_ec$, power-law spectrum $f_\nu \propto \nu^{-\alpha}$ with $\alpha = (s-1)/2$, cooling break
-- [Compton and Inverse Compton](../03_Zettel/Theory/Compton%20and%20Inverse%20Compton.html) — Thomson/Compton, Klein-Nishina, IC energy boost $E_f \approx \gamma^2 E_i$, $P_{IC}/P_{syn} = U_{ph}/U_B$, Comptonization, y-parameter
+- [[Radiative Processes]] — Larmor formula, three mechanisms overview, particle distributions
+- [[Bremsstrahlung]] — thermal free-free emission, flat spectrum + exponential cutoff at $h\nu \sim k_BT$, galaxy clusters, emission measure
+- [[Synchroton]] — relativistic electrons in $B$, $\nu_c \propto \gamma^2 qB/m_ec$, power-law spectrum $f_\nu \propto \nu^{-\alpha}$ with $\alpha = (s-1)/2$, cooling break
+- [[Compton and Inverse Compton]] — Thomson/Compton, Klein-Nishina, IC energy boost $E_f \approx \gamma^2 E_i$, $P_{IC}/P_{syn} = U_{ph}/U_B$, Comptonization, y-parameter
 
 ---
 
@@ -103,11 +103,11 @@ The physics of what produces X-ray and gamma-ray emission.
 
 The extreme sources we observe.
 
-- [Accretion onto compact objects](../03_Zettel/Theory/Accretion%20onto%20compact%20objects.html) — $L_{acc} = \eta\dot{m}c^2$, $L_{Edd} \approx 1.3\times10^{38}(M/M_\odot)$ erg/s, $T(r) \propto r^{-3/4}$, ISCO, XRBs, AGN unified model
-- [Kerr Metric Horizon and Ergosphere Geometry](../03_Zettel/Theory/Kerr%20Metric%20Horizon%20and%20Ergosphere%20Geometry.html) — horizon radii $r_\pm$, ergosphere $r_{\rm ergo}(\theta)$, ZAMO/horizon angular velocity $\Omega_H$
-- [Innermost Stable Circular Orbit ISCO](../03_Zettel/Theory/Innermost%20Stable%20Circular%20Orbit%20ISCO.html) — spin-dependent $r_{\rm ISCO}(a_*)$, accretion radiative efficiency $\eta(a_*)$ from $0.057$ to $0.42$
-- [Blandford-Znajek Mechanism](../03_Zettel/Theory/Blandford-Znajek%20Mechanism.html) — spin-powered jet extraction, $P_{BZ}=\frac{\kappa}{4\pi c}\Phi_H^2\Omega_H^2$, membrane paradigm
-- [Relativistic Iron Line Profiles](../03_Zettel/Theory/Relativistic%20Iron%20Line%20Profiles.html) — disk-line redshift factor $g(r,\phi,i)$, double-horned profile, spin diagnostics via the red wing
+- [[Accretion onto compact objects]] — $L_{acc} = \eta\dot{m}c^2$, $L_{Edd} \approx 1.3\times10^{38}(M/M_\odot)$ erg/s, $T(r) \propto r^{-3/4}$, ISCO, XRBs, AGN unified model
+- [[Kerr Metric Horizon and Ergosphere Geometry]] — horizon radii $r_\pm$, ergosphere $r_{\rm ergo}(\theta)$, ZAMO/horizon angular velocity $\Omega_H$
+- [[Innermost Stable Circular Orbit ISCO]] — spin-dependent $r_{\rm ISCO}(a_*)$, accretion radiative efficiency $\eta(a_*)$ from $0.057$ to $0.42$
+- [[Blandford-Znajek Mechanism]] — spin-powered jet extraction, $P_{BZ}=\frac{\kappa}{4\pi c}\Phi_H^2\Omega_H^2$, membrane paradigm
+- [[Relativistic Iron Line Profiles]] — disk-line redshift factor $g(r,\phi,i)$, double-horned profile, spin diagnostics via the red wing
 
 ---
 
@@ -115,19 +115,19 @@ The extreme sources we observe.
 
 Canonical and modern arXiv astro-ph.HE benchmark papers underlying the accretion, jet, and reverberation physics above.
 
-- [Shakura & Sunyaev (1973) — Black Holes in Binary Systems](../02_Literature/Papers/02_Lab_High_Energy/Shakura_Sunyaev_1973_Thin_Accretion_Disk_Theory.html) — $\alpha$-disk theory, $T(r)\propto r^{-3/4}$ derivation
-- [Blandford & Znajek (1977) — Electromagnetic Extraction from Kerr Black Holes](../02_Literature/Papers/02_Lab_High_Energy/Blandford_Znajek_1977_Electromagnetic_Extraction_Kerr_BH.html) — spin-powered jet mechanism, membrane paradigm
-- [Fabian et al. (2009) — Broad Iron Line Reverberation in 1H0707-495](../02_Literature/Papers/02_Lab_High_Energy/Fabian_2009_Broad_Iron_Line_Reverberation_1H0707-495.html) — X-ray reverberation lag, compact corona geometry
-- [Blandford, Meier & Readhead (2019) — Relativistic Jets from Active Galactic Nuclei](../02_Literature/Papers/02_Lab_High_Energy/Blandford_Meier_Readhead_2019_Relativistic_AGN_Jets.html) — unified jet-launching review, MAD state, blazar beaming
+- [[Shakura_Sunyaev_1973_Thin_Accretion_Disk_Theory|Shakura & Sunyaev (1973) — Black Holes in Binary Systems]] — $\alpha$-disk theory, $T(r)\propto r^{-3/4}$ derivation
+- [[Blandford_Znajek_1977_Electromagnetic_Extraction_Kerr_BH|Blandford & Znajek (1977) — Electromagnetic Extraction from Kerr Black Holes]] — spin-powered jet mechanism, membrane paradigm
+- [[Fabian_2009_Broad_Iron_Line_Reverberation_1H0707-495|Fabian et al. (2009) — Broad Iron Line Reverberation in 1H0707-495]] — X-ray reverberation lag, compact corona geometry
+- [[Blandford_Meier_Readhead_2019_Relativistic_AGN_Jets|Blandford, Meier & Readhead (2019) — Relativistic Jets from Active Galactic Nuclei]] — unified jet-launching review, MAD state, blazar beaming
 
 ---
 
 ## Appendices (background material)
 
-- [Appendix A - Optical telescopes](../03_Zettel/Theory/Appendix%20A%20-%20Optical%20telescopes.html) — aperture ratio, plate scale, conic sections
-- [Appendix B - Aberrations](../03_Zettel/Theory/Appendix%20B%20-%20Aberrations.html) — Seidel theory, spherical aberration, coma
-- [Appendix C - Telescope configurations](../03_Zettel/Theory/Appendix%20C%20-%20Telescope%20configurations.html) — Newton, Cassegrain, Ritchey-Chrétien
-- [Appendix E - Astronomical coordinates](../03_Zettel/Theory/Appendix%20E%20-%20Astronomical%20coordinates.html) — altazimuth, equatorial, vernal equinox, precession, J2000
+- [[Appendix A - Optical telescopes]] — aperture ratio, plate scale, conic sections
+- [[Appendix B - Aberrations]] — Seidel theory, spherical aberration, coma
+- [[Appendix C - Telescope configurations]] — Newton, Cassegrain, Ritchey-Chrétien
+- [[Appendix E - Astronomical coordinates]] — altazimuth, equatorial, vernal equinox, precession, J2000
 
 ---
 
@@ -376,32 +376,32 @@ Every single X-ray telescope diagram, detector schematic, XSPEC spectral fit, Sw
 
 | Image Asset | Diagnostic Category & Instrumental Physics | Primary Zettel Note |
 |---|---|---|
-| `![j0529_quasar_p1_page.png](../assets/images/j0529_quasar_p1_page.png)` | Quasar J0529-4351 high-energy observations: $L_{\rm bol} \sim 10^{48}$ erg/s accretion disk, SED decomposition, and Eddington limit | [Astrostatistics](../03_Zettel/Theory/Astrostatistics.html) |
-| `![j0529_quasar_p2_page.png](../assets/images/j0529_quasar_p2_page.png)` | Quasar J0529-4351 high-energy observations: $L_{\rm bol} \sim 10^{48}$ erg/s accretion disk, SED decomposition, and Eddington limit | [Astrostatistics](../03_Zettel/Theory/Astrostatistics.html) |
-| `![j0529_quasar_p3_page.png](../assets/images/j0529_quasar_p3_page.png)` | Quasar J0529-4351 high-energy observations: $L_{\rm bol} \sim 10^{48}$ erg/s accretion disk, SED decomposition, and Eddington limit | [Astrostatistics](../03_Zettel/Theory/Astrostatistics.html) |
-| `![j0529_quasar_p4_img1.png](../assets/images/j0529_quasar_p4_img1.png)` | Quasar J0529-4351 high-energy observations: $L_{\rm bol} \sim 10^{48}$ erg/s accretion disk, SED decomposition, and Eddington limit | [Astrostatistics](../03_Zettel/Theory/Astrostatistics.html) |
-| `![swift_m87_p1_page.png](../assets/images/swift_m87_p1_page.png)` | Swift XRT observation of M87: count map, PSF radial profile, light curve, or XSPEC powerlaw spectral fit | [Point Spread Function (PSF)](../03_Zettel/Theory/Point%20Spread%20Function%20%28PSF%29.html) |
-| `![swift_m87_p2_img1.jpeg](../assets/images/swift_m87_p2_img1.jpeg)` | Swift XRT observation of M87: count map, PSF radial profile, light curve, or XSPEC powerlaw spectral fit | [Point Spread Function (PSF)](../03_Zettel/Theory/Point%20Spread%20Function%20%28PSF%29.html) |
-| `![swift_m87_p2_img2.jpeg](../assets/images/swift_m87_p2_img2.jpeg)` | Swift XRT observation of M87: count map, PSF radial profile, light curve, or XSPEC powerlaw spectral fit | [Point Spread Function (PSF)](../03_Zettel/Theory/Point%20Spread%20Function%20%28PSF%29.html) |
-| `![swift_m87_p3_img1.png](../assets/images/swift_m87_p3_img1.png)` | Swift XRT observation of M87: count map, PSF radial profile, light curve, or XSPEC powerlaw spectral fit | [Point Spread Function (PSF)](../03_Zettel/Theory/Point%20Spread%20Function%20%28PSF%29.html) |
-| `![swift_m87_p3_img2.png](../assets/images/swift_m87_p3_img2.png)` | Swift XRT observation of M87: count map, PSF radial profile, light curve, or XSPEC powerlaw spectral fit | [Point Spread Function (PSF)](../03_Zettel/Theory/Point%20Spread%20Function%20%28PSF%29.html) |
-| `![swift_m87_p3_img3.png](../assets/images/swift_m87_p3_img3.png)` | Swift XRT observation of M87: count map, PSF radial profile, light curve, or XSPEC powerlaw spectral fit | [Point Spread Function (PSF)](../03_Zettel/Theory/Point%20Spread%20Function%20%28PSF%29.html) |
-| `![swift_m87_p4_img1.png](../assets/images/swift_m87_p4_img1.png)` | Swift XRT observation of M87: count map, PSF radial profile, light curve, or XSPEC powerlaw spectral fit | [Point Spread Function (PSF)](../03_Zettel/Theory/Point%20Spread%20Function%20%28PSF%29.html) |
-| `![swift_m87_p4_img2.png](../assets/images/swift_m87_p4_img2.png)` | Swift XRT observation of M87: count map, PSF radial profile, light curve, or XSPEC powerlaw spectral fit | [Point Spread Function (PSF)](../03_Zettel/Theory/Point%20Spread%20Function%20%28PSF%29.html) |
-| `![swift_m87_p5_img1.png](../assets/images/swift_m87_p5_img1.png)` | Swift XRT observation of M87: count map, PSF radial profile, light curve, or XSPEC powerlaw spectral fit | [Point Spread Function (PSF)](../03_Zettel/Theory/Point%20Spread%20Function%20%28PSF%29.html) |
-| `![xmm_epic_p2_page.png](../assets/images/xmm_epic_p2_page.png)` | XMM-Newton EPIC pn/MOS spectral fitting: ARF/RMF forward folding, Cash statistics, and Fe K$\alpha$ 6.4 keV line | [Fitting](../03_Zettel/Theory/Fitting.html) |
-| `![xmm_epic_p3_img1.png](../assets/images/xmm_epic_p3_img1.png)` | XMM-Newton EPIC pn/MOS spectral fitting: ARF/RMF forward folding, Cash statistics, and Fe K$\alpha$ 6.4 keV line | [Fitting](../03_Zettel/Theory/Fitting.html) |
-| `![xmm_epic_p4_img1.png](../assets/images/xmm_epic_p4_img1.png)` | XMM-Newton EPIC pn/MOS spectral fitting: ARF/RMF forward folding, Cash statistics, and Fe K$\alpha$ 6.4 keV line | [Fitting](../03_Zettel/Theory/Fitting.html) |
-| `![xmm_epic_p5_img1.jpeg](../assets/images/xmm_epic_p5_img1.jpeg)` | XMM-Newton EPIC pn/MOS spectral fitting: ARF/RMF forward folding, Cash statistics, and Fe K$\alpha$ 6.4 keV line | [Fitting](../03_Zettel/Theory/Fitting.html) |
-| `![xray_detector_p1_img1.png](../assets/images/xray_detector_p1_img1.png)` | X-ray CCD / Wolter Type-I optics: grazing reflection, split-event grades, pile-up, or quantum efficiency curve | [CCDs for X-rays](../03_Zettel/Theory/CCDs%20for%20X-rays.html) |
-| `![xray_detector_p2_img1.png](../assets/images/xray_detector_p2_img1.png)` | X-ray CCD / Wolter Type-I optics: grazing reflection, split-event grades, pile-up, or quantum efficiency curve | [CCDs for X-rays](../03_Zettel/Theory/CCDs%20for%20X-rays.html) |
-| `![xray_detector_p2_img2.png](../assets/images/xray_detector_p2_img2.png)` | X-ray CCD / Wolter Type-I optics: grazing reflection, split-event grades, pile-up, or quantum efficiency curve | [CCDs for X-rays](../03_Zettel/Theory/CCDs%20for%20X-rays.html) |
-| `![xray_detector_p3_img1.png](../assets/images/xray_detector_p3_img1.png)` | X-ray CCD / Wolter Type-I optics: grazing reflection, split-event grades, pile-up, or quantum efficiency curve | [CCDs for X-rays](../03_Zettel/Theory/CCDs%20for%20X-rays.html) |
-| `![xray_detector_p3_img2.png](../assets/images/xray_detector_p3_img2.png)` | X-ray CCD / Wolter Type-I optics: grazing reflection, split-event grades, pile-up, or quantum efficiency curve | [CCDs for X-rays](../03_Zettel/Theory/CCDs%20for%20X-rays.html) |
-| `![xray_detector_p4_img1.png](../assets/images/xray_detector_p4_img1.png)` | X-ray CCD / Wolter Type-I optics: grazing reflection, split-event grades, pile-up, or quantum efficiency curve | [CCDs for X-rays](../03_Zettel/Theory/CCDs%20for%20X-rays.html) |
-| `![xray_detector_p4_img2.png](../assets/images/xray_detector_p4_img2.png)` | X-ray CCD / Wolter Type-I optics: grazing reflection, split-event grades, pile-up, or quantum efficiency curve | [CCDs for X-rays](../03_Zettel/Theory/CCDs%20for%20X-rays.html) |
-| `![xray_detector_p4_img3.png](../assets/images/xray_detector_p4_img3.png)` | X-ray CCD / Wolter Type-I optics: grazing reflection, split-event grades, pile-up, or quantum efficiency curve | [CCDs for X-rays](../03_Zettel/Theory/CCDs%20for%20X-rays.html) |
-| `![xray_detector_p5_page.png](../assets/images/xray_detector_p5_page.png)` | X-ray CCD / Wolter Type-I optics: grazing reflection, split-event grades, pile-up, or quantum efficiency curve | [CCDs for X-rays](../03_Zettel/Theory/CCDs%20for%20X-rays.html) |
+| `![j0529_quasar_p1_page.png](../assets/images/j0529_quasar_p1_page.png)` | Quasar J0529-4351 high-energy observations: $L_{\rm bol} \sim 10^{48}$ erg/s accretion disk, SED decomposition, and Eddington limit | [[Astrostatistics]] |
+| `![j0529_quasar_p2_page.png](../assets/images/j0529_quasar_p2_page.png)` | Quasar J0529-4351 high-energy observations: $L_{\rm bol} \sim 10^{48}$ erg/s accretion disk, SED decomposition, and Eddington limit | [[Astrostatistics]] |
+| `![j0529_quasar_p3_page.png](../assets/images/j0529_quasar_p3_page.png)` | Quasar J0529-4351 high-energy observations: $L_{\rm bol} \sim 10^{48}$ erg/s accretion disk, SED decomposition, and Eddington limit | [[Astrostatistics]] |
+| `![j0529_quasar_p4_img1.png](../assets/images/j0529_quasar_p4_img1.png)` | Quasar J0529-4351 high-energy observations: $L_{\rm bol} \sim 10^{48}$ erg/s accretion disk, SED decomposition, and Eddington limit | [[Astrostatistics]] |
+| `![swift_m87_p1_page.png](../assets/images/swift_m87_p1_page.png)` | Swift XRT observation of M87: count map, PSF radial profile, light curve, or XSPEC powerlaw spectral fit | [[Point Spread Function (PSF)]] |
+| `![swift_m87_p2_img1.jpeg](../assets/images/swift_m87_p2_img1.jpeg)` | Swift XRT observation of M87: count map, PSF radial profile, light curve, or XSPEC powerlaw spectral fit | [[Point Spread Function (PSF)]] |
+| `![swift_m87_p2_img2.jpeg](../assets/images/swift_m87_p2_img2.jpeg)` | Swift XRT observation of M87: count map, PSF radial profile, light curve, or XSPEC powerlaw spectral fit | [[Point Spread Function (PSF)]] |
+| `![swift_m87_p3_img1.png](../assets/images/swift_m87_p3_img1.png)` | Swift XRT observation of M87: count map, PSF radial profile, light curve, or XSPEC powerlaw spectral fit | [[Point Spread Function (PSF)]] |
+| `![swift_m87_p3_img2.png](../assets/images/swift_m87_p3_img2.png)` | Swift XRT observation of M87: count map, PSF radial profile, light curve, or XSPEC powerlaw spectral fit | [[Point Spread Function (PSF)]] |
+| `![swift_m87_p3_img3.png](../assets/images/swift_m87_p3_img3.png)` | Swift XRT observation of M87: count map, PSF radial profile, light curve, or XSPEC powerlaw spectral fit | [[Point Spread Function (PSF)]] |
+| `![swift_m87_p4_img1.png](../assets/images/swift_m87_p4_img1.png)` | Swift XRT observation of M87: count map, PSF radial profile, light curve, or XSPEC powerlaw spectral fit | [[Point Spread Function (PSF)]] |
+| `![swift_m87_p4_img2.png](../assets/images/swift_m87_p4_img2.png)` | Swift XRT observation of M87: count map, PSF radial profile, light curve, or XSPEC powerlaw spectral fit | [[Point Spread Function (PSF)]] |
+| `![swift_m87_p5_img1.png](../assets/images/swift_m87_p5_img1.png)` | Swift XRT observation of M87: count map, PSF radial profile, light curve, or XSPEC powerlaw spectral fit | [[Point Spread Function (PSF)]] |
+| `![xmm_epic_p2_page.png](../assets/images/xmm_epic_p2_page.png)` | XMM-Newton EPIC pn/MOS spectral fitting: ARF/RMF forward folding, Cash statistics, and Fe K$\alpha$ 6.4 keV line | [[Fitting]] |
+| `![xmm_epic_p3_img1.png](../assets/images/xmm_epic_p3_img1.png)` | XMM-Newton EPIC pn/MOS spectral fitting: ARF/RMF forward folding, Cash statistics, and Fe K$\alpha$ 6.4 keV line | [[Fitting]] |
+| `![xmm_epic_p4_img1.png](../assets/images/xmm_epic_p4_img1.png)` | XMM-Newton EPIC pn/MOS spectral fitting: ARF/RMF forward folding, Cash statistics, and Fe K$\alpha$ 6.4 keV line | [[Fitting]] |
+| `![xmm_epic_p5_img1.jpeg](../assets/images/xmm_epic_p5_img1.jpeg)` | XMM-Newton EPIC pn/MOS spectral fitting: ARF/RMF forward folding, Cash statistics, and Fe K$\alpha$ 6.4 keV line | [[Fitting]] |
+| `![xray_detector_p1_img1.png](../assets/images/xray_detector_p1_img1.png)` | X-ray CCD / Wolter Type-I optics: grazing reflection, split-event grades, pile-up, or quantum efficiency curve | [[CCDs for X-rays]] |
+| `![xray_detector_p2_img1.png](../assets/images/xray_detector_p2_img1.png)` | X-ray CCD / Wolter Type-I optics: grazing reflection, split-event grades, pile-up, or quantum efficiency curve | [[CCDs for X-rays]] |
+| `![xray_detector_p2_img2.png](../assets/images/xray_detector_p2_img2.png)` | X-ray CCD / Wolter Type-I optics: grazing reflection, split-event grades, pile-up, or quantum efficiency curve | [[CCDs for X-rays]] |
+| `![xray_detector_p3_img1.png](../assets/images/xray_detector_p3_img1.png)` | X-ray CCD / Wolter Type-I optics: grazing reflection, split-event grades, pile-up, or quantum efficiency curve | [[CCDs for X-rays]] |
+| `![xray_detector_p3_img2.png](../assets/images/xray_detector_p3_img2.png)` | X-ray CCD / Wolter Type-I optics: grazing reflection, split-event grades, pile-up, or quantum efficiency curve | [[CCDs for X-rays]] |
+| `![xray_detector_p4_img1.png](../assets/images/xray_detector_p4_img1.png)` | X-ray CCD / Wolter Type-I optics: grazing reflection, split-event grades, pile-up, or quantum efficiency curve | [[CCDs for X-rays]] |
+| `![xray_detector_p4_img2.png](../assets/images/xray_detector_p4_img2.png)` | X-ray CCD / Wolter Type-I optics: grazing reflection, split-event grades, pile-up, or quantum efficiency curve | [[CCDs for X-rays]] |
+| `![xray_detector_p4_img3.png](../assets/images/xray_detector_p4_img3.png)` | X-ray CCD / Wolter Type-I optics: grazing reflection, split-event grades, pile-up, or quantum efficiency curve | [[CCDs for X-rays]] |
+| `![xray_detector_p5_page.png](../assets/images/xray_detector_p5_page.png)` | X-ray CCD / Wolter Type-I optics: grazing reflection, split-event grades, pile-up, or quantum efficiency curve | [[CCDs for X-rays]] |
 
 
 ---

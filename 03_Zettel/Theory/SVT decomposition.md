@@ -70,22 +70,22 @@ current bound: $r < 0.06$ from CMB B-mode searches. detecting primordial GW woul
 
 ## see also
 
-- [Linearized metric perturbation](Linearized%20metric%20perturbation.html)
-- [Linearized gauge transformations](Linearized%20gauge%20transformations.html)
-- [Lorenz gauge](Lorenz%20gauge.html)
-- [Transverse traceless gauge](Transverse%20traceless%20gauge.html)
-- [Plus and cross polarizations](Plus%20and%20cross%20polarizations.html)
-- [Inflation overview](Inflation%20overview.html)
-- [Linear evolution of perturbations in expanding universe](Linear%20evolution%20of%20perturbations%20in%20expanding%20universe.html)
-- [CMB power spectrum](CMB%20power%20spectrum.html)
-- [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
-- [Ch 8 - Gravitational Waves](../../02_Literature/Book/Baumann%20GR/Ch%208%20-%20Gravitational%20Waves.html)
-- [Ch 9 - Inflation and Primordial Gravitational Waves](../../02_Literature/Book/Baumann%20GR/Ch%209%20-%20Inflation%20and%20Primordial%20Gravitational%20Waves.html)
+- [[Linearized metric perturbation]]
+- [[Linearized gauge transformations]]
+- [[Lorenz gauge]]
+- [[Transverse traceless gauge]]
+- [[Plus and cross polarizations]]
+- [[Inflation overview]]
+- [[Linear evolution of perturbations in expanding universe]]
+- [[CMB power spectrum]]
+- [[General_Relativity_MOC]]
+- [[Ch 8 - Gravitational Waves]]
+- [[Ch 9 - Inflation and Primordial Gravitational Waves]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (1)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[General_Relativity_MOC]]
+
 

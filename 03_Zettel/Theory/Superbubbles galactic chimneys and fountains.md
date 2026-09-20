@@ -23,17 +23,17 @@ the galactic fountain redistributes nucleosynthetic products across the Galactic
 
 ## see also
 
-- [Astrophysics_of_the_Interstellar_Medium_MOC](../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html)
-- [Sedov-Taylor blast wave expansion](Sedov-Taylor%20blast%20wave%20expansion.html)
-- [Carraro_06_Supernovae_and_Hot_Ionized_Medium](../../02_Literature/Lectures/Interstellar_Medium/Carraro_06_Supernovae_and_Hot_Ionized_Medium.html)
-- [Chemical evolution of galaxies](Chemical%20evolution%20of%20galaxies.html)
+- [[Astrophysics_of_the_Interstellar_Medium_MOC]]
+- [[Sedov-Taylor blast wave expansion]]
+- [[Carraro_06_Supernovae_and_Hot_Ionized_Medium]]
+- [[Chemical evolution of galaxies]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Line-driven%20stellar%20winds%20and%20P-Cygni%20profiles.html" class="backlink-item">Line-driven stellar winds and P-Cygni profiles</a></li>
-    <li class="backlink-item-wrap"><a href="Sedov-Taylor%20blast%20wave%20expansion.html" class="backlink-item">Sedov-Taylor blast wave expansion</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html" class="backlink-item">Astrophysics_of_the_Interstellar_Medium_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Line-driven stellar winds and P-Cygni profiles]]
+- [[Sedov-Taylor blast wave expansion]]
+- [[Astrophysics_of_the_Interstellar_Medium_MOC]]
+
 

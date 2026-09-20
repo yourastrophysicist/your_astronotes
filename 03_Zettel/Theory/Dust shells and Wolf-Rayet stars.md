@@ -118,8 +118,8 @@ modern WR star observations routinely combine both, telling a complete story of 
 
 ## see also
 
-- [Stellar surface imaging](interf/Stellar%20surface%20imaging.html)
-- [Pulsating stars and Mira variables](interf/Pulsating%20stars%20and%20Mira%20variables.html)
-- [Young stellar object disks](interf/Young%20stellar%20object%20disks.html)
-- [VLTI Very Large Telescope Interferometer](interf/VLTI%20Very%20Large%20Telescope%20Interferometer.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Stellar surface imaging]]
+- [[Pulsating stars and Mira variables]]
+- [[Young stellar object disks]]
+- [[VLTI Very Large Telescope Interferometer]]
+- [[Astronomical_Interferometry_MOC]]

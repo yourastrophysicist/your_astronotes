@@ -4,7 +4,7 @@ title: "LIRGs ULIRGs HyLIRGs"
 ---
 # LIRGs, ULIRGs, HyLIRGs
 
-up: [Pablo_03_Star_formation_in_galaxies](../../02_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html)
+up: [[Pablo_03_Star_formation_in_galaxies]]
 
 ## the luminosity classification
 
@@ -16,7 +16,7 @@ defined by the total infrared luminosity $L_{\text{TIR}}$ in the $8$–$1000\,\m
 | ULIRG (ultra-LIRG) | $10^{12}$–$10^{13}\,L_\odot$ | $> 170\,M_\odot/\text{yr}$ |
 | HyLIRG (hyper-LIRG) | $> 10^{13}\,L_\odot$ | $> 1700\,M_\odot/\text{yr}$ |
 
-the SFR thresholds follow from the IR calibration $\text{SFR} \approx L_{\text{TIR}} / (10^{10}\,L_\odot) \cdot 1.7\,M_\odot/\text{yr}$ (see [IR SFR tracer](IR%20SFR%20tracer.html)).
+the SFR thresholds follow from the IR calibration $\text{SFR} \approx L_{\text{TIR}} / (10^{10}\,L_\odot) \cdot 1.7\,M_\odot/\text{yr}$ (see [[IR SFR tracer]]).
 
 ## discovery: IRAS 1983
 
@@ -50,7 +50,7 @@ $> 90\%$ of local ULIRGs are major mergers (Sanders & Mirabel 1996). the Sanders
 
 ## cosmological role
 
-at $z \sim 2$–$3$, LIRGs/ULIRGs dominate the [Cosmic star formation history](Cosmic%20star%20formation%20history.html) budget. the Madau-Dickinson peak is powered by IR-luminous objects. but:
+at $z \sim 2$–$3$, LIRGs/ULIRGs dominate the [[Cosmic star formation history]] budget. the Madau-Dickinson peak is powered by IR-luminous objects. but:
 - locally ULIRGs are rare ($< 1$% of galaxies)
 - at $z \sim 2$, they are the **main-sequence typical galaxy** at $M_* > 10^{10.5}\,M_\odot$. not exotic mergers, but normal SF at higher cosmic gas fractions
 - HyLIRGs at $z > 2$ are lensed systems or extreme sub-mm galaxies (Casey 2014)
@@ -65,11 +65,11 @@ many ULIRGs host both a starburst and an AGN (Genzel 1998, Farrah 2003). decompo
 
 ## connections
 
-- IR SFR: [IR SFR tracer](IR%20SFR%20tracer.html)
-- mergers: [Galaxy mergers and SF](Galaxy%20mergers%20and%20SF.html)
-- extreme SF physics: [Starburst galaxies](Starburst%20galaxies.html)
-- high-$z$ counterparts: main-sequence at $z > 1$, [Galaxy main sequence of star formation](Galaxy%20main%20sequence%20of%20star%20formation.html)
-- contribution to cosmic budget: [Cosmic star formation history](Cosmic%20star%20formation%20history.html)
+- IR SFR: [[IR SFR tracer]]
+- mergers: [[Galaxy mergers and SF]]
+- extreme SF physics: [[Starburst galaxies]]
+- high-$z$ counterparts: main-sequence at $z > 1$, [[Galaxy main sequence of star formation]]
+- contribution to cosmic budget: [[Cosmic star formation history]]
 
 ## key references
 
@@ -78,14 +78,14 @@ many ULIRGs host both a starburst and an AGN (Genzel 1998, Farrah 2003). decompo
 - Casey, Narayanan, Cooray 2014 PhysRep (dusty SFGs review)
 - Lonsdale, Farrah, Smith 2006
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Chemical%20evolution%20of%20galaxies.html" class="backlink-item">Chemical evolution of galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="Galaxy%20mergers%20and%20SF.html" class="backlink-item">Galaxy mergers and SF</a></li>
-    <li class="backlink-item-wrap"><a href="K-correction%20in%20optical%20vs%20sub-mm.html" class="backlink-item">K-correction in optical vs sub-mm</a></li>
-    <li class="backlink-item-wrap"><a href="Starburst%20galaxies.html" class="backlink-item">Starburst galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Chemical evolution of galaxies]]
+- [[Galaxy mergers and SF]]
+- [[K-correction in optical vs sub-mm]]
+- [[Starburst galaxies]]
+- [[Observational_Cosmology_MOC]]
+
 

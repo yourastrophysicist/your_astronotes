@@ -28,7 +28,7 @@ so $\sigma(M)$ is the rms fluctuation of $\delta$ on the mass scale $M$. for ΛC
 
 assume:
 1. $\delta$ is Gaussian with variance $\sigma^2(M)$ at any mass scale
-2. a region of mass $M$ has collapsed if its smoothed linear $\delta$ exceeds the spherical-collapse threshold $\delta_c \approx 1.686$ (see [Spherical collapse](Spherical%20collapse.html))
+2. a region of mass $M$ has collapsed if its smoothed linear $\delta$ exceeds the spherical-collapse threshold $\delta_c \approx 1.686$ (see [[Spherical collapse]])
 
 the fraction of mass in regions with $\delta > \delta_c$ is:
 $$F(>M) = \frac{1}{\sqrt{2\pi}\sigma}\int_{\delta_c}^\infty e^{-\delta^2/(2\sigma^2)}\,d\delta = \frac{1}{2}\,\text{erfc}\left(\frac{\delta_c}{\sqrt 2\sigma}\right)$$
@@ -80,26 +80,26 @@ cluster counts are a competitive cosmological probe — they directly measure $\
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Spherical collapse](Spherical%20collapse.html)
-- [Linear evolution of perturbations in expanding universe](Linear%20evolution%20of%20perturbations%20in%20expanding%20universe.html)
-- [Growth factor D(z)](Growth%20factor%20D%28z%29.html)
-- [Matter power spectrum and BAO](Matter%20power%20spectrum%20and%20BAO.html)
-- [Cosmic_inventory_dark_matter](Cosmic_inventory_dark_matter.html)
-- [Halo mass function vs galaxy mass function](Halo%20mass%20function%20vs%20galaxy%20mass%20function.html)
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Spherical collapse]]
+- [[Linear evolution of perturbations in expanding universe]]
+- [[Growth factor D(z)]]
+- [[Matter power spectrum and BAO]]
+- [[Cosmic_inventory_dark_matter]]
+- [[Halo mass function vs galaxy mass function]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (9)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Cosmological%20evolution%20of%20perturbations%20in%20the%20cosmic%20fluid.html" class="backlink-item">Cosmological evolution of perturbations in the cosmic fluid</a></li>
-    <li class="backlink-item-wrap"><a href="Galaxy%20clusters%20and%20overview%20of%20evolution.html" class="backlink-item">Galaxy clusters and overview of evolution</a></li>
-    <li class="backlink-item-wrap"><a href="Linear%20evolution%20of%20perturbations%20in%20expanding%20universe.html" class="backlink-item">Linear evolution of perturbations in expanding universe</a></li>
-    <li class="backlink-item-wrap"><a href="Linear%20vs%20nonlinear%20regime.html" class="backlink-item">Linear vs nonlinear regime</a></li>
-    <li class="backlink-item-wrap"><a href="Matter%20power%20spectrum%20and%20BAO.html" class="backlink-item">Matter power spectrum and BAO</a></li>
-    <li class="backlink-item-wrap"><a href="N-body%20simulations.html" class="backlink-item">N-body simulations</a></li>
-    <li class="backlink-item-wrap"><a href="Protocluster%20detection%20techniques.html" class="backlink-item">Protocluster detection techniques</a></li>
-    <li class="backlink-item-wrap"><a href="Spherical%20collapse.html" class="backlink-item">Spherical collapse</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Cosmological evolution of perturbations in the cosmic fluid]]
+- [[Galaxy clusters and overview of evolution]]
+- [[Linear evolution of perturbations in expanding universe]]
+- [[Linear vs nonlinear regime]]
+- [[Matter power spectrum and BAO]]
+- [[N-body simulations]]
+- [[Protocluster detection techniques]]
+- [[Spherical collapse]]
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+
 

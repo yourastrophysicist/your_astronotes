@@ -28,7 +28,7 @@ problem: GCs are crowded, IMBH influence radii are small ($< 1$" for $10^3\,M_\o
 
 ### 2. millisecond pulsar accelerations
 
-[MSPs](Millisecond%20pulsars%20in%20GCs.html) in GC cores act as precision clocks. acceleration of an MSP toward the cluster centre due to a central IMBH would produce a measurable orbital period derivative. successfully applied in Terzan 5, NGC 6440, M28 — none has yet given an unambiguous IMBH detection but constrains $M_{\rm BH} < 10^3$-$10^4\,M_\odot$.
+[[Millisecond pulsars in GCs|MSPs]] in GC cores act as precision clocks. acceleration of an MSP toward the cluster centre due to a central IMBH would produce a measurable orbital period derivative. successfully applied in Terzan 5, NGC 6440, M28 — none has yet given an unambiguous IMBH detection but constrains $M_{\rm BH} < 10^3$-$10^4\,M_\odot$.
 
 ### 3. radio + X-ray accretion signatures
 
@@ -54,7 +54,7 @@ a key result: even if many GCs have IMBHs, they likely sit at $M_{\rm BH} \sim 1
 
 ## connection to gravitational waves
 
-LIGO-Virgo BH-BH mergers (e.g., GW190521, $M = 85 + 66 \to 142\,M_\odot$) have produced **direct evidence** for IMBHs from a single merger event. the mass of GW190521's remnant ($\sim 142\,M_\odot$) sits in the lower IMBH range. some authors argue GCs are the natural production sites of such heavy BH-BH binaries (see [BHs from gravitational waves](BHs%20from%20gravitational%20waves.html)).
+LIGO-Virgo BH-BH mergers (e.g., GW190521, $M = 85 + 66 \to 142\,M_\odot$) have produced **direct evidence** for IMBHs from a single merger event. the mass of GW190521's remnant ($\sim 142\,M_\odot$) sits in the lower IMBH range. some authors argue GCs are the natural production sites of such heavy BH-BH binaries (see [[BHs from gravitational waves]]).
 
 ## why this matters
 
@@ -78,22 +78,22 @@ confirming or denying their existence is one of the open frontiers of stellar dy
 
 ## see also
 
-- [Black holes in globular clusters](Black%20holes%20in%20globular%20clusters.html)
-- [Hunting BHs via radial velocities](Hunting%20BHs%20via%20radial%20velocities.html)
-- [BHs from gravitational waves](BHs%20from%20gravitational%20waves.html)
-- [Millisecond pulsars in GCs](Millisecond%20pulsars%20in%20GCs.html)
-- [X-ray sources in globular clusters](X-ray%20sources%20in%20globular%20clusters.html)
-- [AGN and supermassive black holes](interf/AGN%20and%20supermassive%20black%20holes.html)
-- [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
+- [[Black holes in globular clusters]]
+- [[Hunting BHs via radial velocities]]
+- [[BHs from gravitational waves]]
+- [[Millisecond pulsars in GCs]]
+- [[X-ray sources in globular clusters]]
+- [[AGN and supermassive black holes]]
+- [[Stellar_Astrophysics_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="BHs%20from%20gravitational%20waves.html" class="backlink-item">BHs from gravitational waves</a></li>
-    <li class="backlink-item-wrap"><a href="Black%20holes%20in%20globular%20clusters.html" class="backlink-item">Black holes in globular clusters</a></li>
-    <li class="backlink-item-wrap"><a href="Hunting%20BHs%20via%20radial%20velocities.html" class="backlink-item">Hunting BHs via radial velocities</a></li>
-    <li class="backlink-item-wrap"><a href="Millisecond%20pulsars%20in%20GCs.html" class="backlink-item">Millisecond pulsars in GCs</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[BHs from gravitational waves]]
+- [[Black holes in globular clusters]]
+- [[Hunting BHs via radial velocities]]
+- [[Millisecond pulsars in GCs]]
+- [[Stellar_Astrophysics_MOC]]
+
 

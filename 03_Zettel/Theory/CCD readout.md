@@ -110,16 +110,16 @@ $$E_{ph} \xrightarrow{w = 3.68~\text{eV}} N_e = E_{ph}/w \xrightarrow{Q=N_e \cdo
 The energy resolution (FWHM in eV) is:
 $$\text{FWHM} = 2.35w\sqrt{\sigma_{RON}^2 + F \cdot \frac{E_{ph}}{w}}$$
 
-where $F = 0.115$ is the Fano factor for silicon — see [CCDs for X-rays](CCDs%20for%20X-rays.html)
+where $F = 0.115$ is the Fano factor for silicon — see [[CCDs for X-rays]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="CCD%20basics.html" class="backlink-item">CCD basics</a></li>
-    <li class="backlink-item-wrap"><a href="CCD%20readout%20chain.html" class="backlink-item">CCD readout chain</a></li>
-    <li class="backlink-item-wrap"><a href="Charge-Coupled%20Device.html" class="backlink-item">Charge-Coupled Device</a></li>
-    <li class="backlink-item-wrap"><a href="The%20p-n%20junction.html" class="backlink-item">The p-n junction</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[CCD basics]]
+- [[CCD readout chain]]
+- [[Charge-Coupled Device]]
+- [[The p-n junction]]
+- [[Lab_High-Energy_MOC]]
+
 

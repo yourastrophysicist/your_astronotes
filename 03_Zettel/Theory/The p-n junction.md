@@ -102,15 +102,15 @@ The depletion region is devoid of free electrons at equilibrium
 The p-n junction is the fundamental detecting unit
 	the full CCD is an array of MOS capacitors (each a reverse-biased junction)
 		fabricated in a 2D grid on a silicon wafer
-			the charge is shifted out via the 3-phase clocking described in [CCD readout](CCD%20readout.html)
-				and the energy is recovered as in [CCDs for X-rays](CCDs%20for%20X-rays.html)
+			the charge is shifted out via the 3-phase clocking described in [[CCD readout]]
+				and the energy is recovered as in [[CCDs for X-rays]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="CCD%20basics.html" class="backlink-item">CCD basics</a></li>
-    <li class="backlink-item-wrap"><a href="Charge-Coupled%20Device.html" class="backlink-item">Charge-Coupled Device</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[CCD basics]]
+- [[Charge-Coupled Device]]
+- [[Lab_High-Energy_MOC]]
+
 

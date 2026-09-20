@@ -53,7 +53,7 @@ end product: $T_{\rm eff} \pm 50$ K, $\log g \pm 0.1$, $[Fe/H] \pm 0.05$ for hig
 ## abundance patterns: $\alpha$/Fe etc.
 
 beyond Fe, key abundance ratios:
-- **$[\alpha/Fe]$** (O, Mg, Si, Ca, Ti / Fe): reflects star-formation timescale (see [Metallicity and chemical evolution](Metallicity%20and%20chemical%20evolution.html)).
+- **$[\alpha/Fe]$** (O, Mg, Si, Ca, Ti / Fe): reflects star-formation timescale (see [[Metallicity and chemical evolution]]).
 - **$[C/O]$**: from C and O lines, traces nucleosynthesis.
 - **$[Eu/Fe]$, $[Ba/Fe]$**: r-process and s-process tracers.
 - **$[Li/H]$**: stellar age and convective mixing.
@@ -66,27 +66,27 @@ modern Galactic-archaeology surveys recover abundances of $\sim 30$ elements per
 
 ## see also
 
-- [Curve of growth](Curve%20of%20growth.html)
-- [Equivalent width](Equivalent%20width.html)
-- [Absorption coefficient and oscillator strength](Absorption%20coefficient%20and%20oscillator%20strength.html)
-- [Voigt profile](Voigt%20profile.html)
-- [Microturbulence](Microturbulence.html)
-- [Boltzmann equation in spectroscopy](Boltzmann%20equation%20in%20spectroscopy.html)
-- [Saha ionisation equation](Saha%20ionisation%20equation.html)
-- [Stellar atmosphere structure](Stellar%20atmosphere%20structure.html)
-- [Metallicity and chemical evolution](Metallicity%20and%20chemical%20evolution.html)
-- [Echelle spectroscopy](Echelle%20spectroscopy.html)
+- [[Curve of growth]]
+- [[Equivalent width]]
+- [[Absorption coefficient and oscillator strength]]
+- [[Voigt profile]]
+- [[Microturbulence]]
+- [[Boltzmann equation in spectroscopy]]
+- [[Saha ionisation equation]]
+- [[Stellar atmosphere structure]]
+- [[Metallicity and chemical evolution]]
+- [[Echelle spectroscopy]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Absorption%20coefficient%20and%20oscillator%20strength.html" class="backlink-item">Absorption coefficient and oscillator strength</a></li>
-    <li class="backlink-item-wrap"><a href="Curve%20of%20growth.html" class="backlink-item">Curve of growth</a></li>
-    <li class="backlink-item-wrap"><a href="Damping%20wings.html" class="backlink-item">Damping wings</a></li>
-    <li class="backlink-item-wrap"><a href="Echelle%20spectroscopy.html" class="backlink-item">Echelle spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="Equivalent%20width.html" class="backlink-item">Equivalent width</a></li>
-    <li class="backlink-item-wrap"><a href="Microturbulence.html" class="backlink-item">Microturbulence</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Absorption coefficient and oscillator strength]]
+- [[Curve of growth]]
+- [[Damping wings]]
+- [[Echelle spectroscopy]]
+- [[Equivalent width]]
+- [[Microturbulence]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 

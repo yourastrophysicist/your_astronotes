@@ -103,18 +103,18 @@ for symmetric matrices, none of these troubles occur. **always check symmetry be
 
 ## see also
 
-- [QR algorithm for eigenvalues](QR%20algorithm%20for%20eigenvalues.html)
-- [QR decomposition](QR%20decomposition.html)
-- [Gram-Schmidt orthogonalization](Gram-Schmidt%20orthogonalization.html)
-- [Power iteration](Power%20iteration.html)
-- [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
+- [[QR algorithm for eigenvalues]]
+- [[QR decomposition]]
+- [[Gram-Schmidt orthogonalization]]
+- [[Power iteration]]
+- [[Mathematical_Numerical_Methods_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Power%20iteration.html" class="backlink-item">Power iteration</a></li>
-    <li class="backlink-item-wrap"><a href="QR%20algorithm%20for%20eigenvalues.html" class="backlink-item">QR algorithm for eigenvalues</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Power iteration]]
+- [[QR algorithm for eigenvalues]]
+- [[Mathematical_Numerical_Methods_MOC]]
+
 

@@ -122,25 +122,25 @@ When asked by Prof. Pizzella - *"Draw the Hubble tuning fork, define the quantit
 
 ## 6. Related Knowledge Base Notes
 
-- [Galaxy morphology vs physical properties](Galaxy%20morphology%20vs%20physical%20properties.html) - Systematic correlations between Hubble type and physical parameters.
-- [CAS galaxy classification](CAS%20galaxy%20classification.html) - Quantitative non-parametric morphology (Concentration, Asymmetry, Smoothness).
-- [Sersic profile](Sersic%20profile.html) - Analytic surface brightness modeling of spheroids and disks.
-- [De Vaucouleurs and exponential profiles](De%20Vaucouleurs%20and%20exponential%20profiles.html) - Classical empirical surface brightness profiles.
-- [Galaxy color, density and morphology](Galaxy%20color%2C%20density%20and%20morphology.html) - Dressler morphology-density relation in galaxy clusters.
+- [[Galaxy morphology vs physical properties]] - Systematic correlations between Hubble type and physical parameters.
+- [[CAS galaxy classification]] - Quantitative non-parametric morphology (Concentration, Asymmetry, Smoothness).
+- [[Sersic profile]] - Analytic surface brightness modeling of spheroids and disks.
+- [[De Vaucouleurs and exponential profiles]] - Classical empirical surface brightness profiles.
+- [[Galaxy color, density and morphology]] - Dressler morphology-density relation in galaxy clusters.
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (10)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="CAS%20galaxy%20classification.html" class="backlink-item">CAS galaxy classification</a></li>
-    <li class="backlink-item-wrap"><a href="De%20Vaucouleurs%20and%20exponential%20profiles.html" class="backlink-item">De Vaucouleurs and exponential profiles</a></li>
-    <li class="backlink-item-wrap"><a href="Galaxies%20in%20the%20local%20universe.html" class="backlink-item">Galaxies in the local universe</a></li>
-    <li class="backlink-item-wrap"><a href="Galaxy%20clusters%20and%20overview%20of%20evolution.html" class="backlink-item">Galaxy clusters and overview of evolution</a></li>
-    <li class="backlink-item-wrap"><a href="Galaxy%20morphology%20vs%20physical%20properties.html" class="backlink-item">Galaxy morphology vs physical properties</a></li>
-    <li class="backlink-item-wrap"><a href="Galaxy%20spectroscopy%20by%20type.html" class="backlink-item">Galaxy spectroscopy by type</a></li>
-    <li class="backlink-item-wrap"><a href="PCA%20spectral%20classification%20of%20galaxies.html" class="backlink-item">PCA spectral classification of galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="Sersic%20profile.html" class="backlink-item">Sersic profile</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[CAS galaxy classification]]
+- [[De Vaucouleurs and exponential profiles]]
+- [[Galaxies in the local universe]]
+- [[Galaxy clusters and overview of evolution]]
+- [[Galaxy morphology vs physical properties]]
+- [[Galaxy spectroscopy by type]]
+- [[PCA spectral classification of galaxies]]
+- [[Sersic profile]]
+- [[Astrophysics_of_Galaxies_MOC]]
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+
 

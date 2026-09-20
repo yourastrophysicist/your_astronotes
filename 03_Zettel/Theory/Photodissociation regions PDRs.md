@@ -195,11 +195,11 @@ $$\Gamma_{\rm tot}(A_V) = \Lambda_{\rm tot}(A_V, T_{\rm gas})$$
 
 ## 7. Cross-References and Related Notes
 
-- [Molecular clouds](Molecular%20clouds.html) - Giant Molecular Clouds, CO kinematics, and Larson scaling relations
-- [H I regions](H%20I%20regions.html) - 21 cm line emission and two-phase thermal equilibrium
-- [H II region spectroscopy](H%20II%20region%20spectroscopy.html) - Photoionized nebulae and Strömgren spheres
-- [Schmidt-Kennicutt law](Schmidt-Kennicutt%20law.html) - Empirical relation between gas surface density and star formation rate
-- [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html) - Master Map of Content for course
+- [[Molecular clouds]] - Giant Molecular Clouds, CO kinematics, and Larson scaling relations
+- [[H I regions]] - 21 cm line emission and two-phase thermal equilibrium
+- [[H II region spectroscopy]] - Photoionized nebulae and Strömgren spheres
+- [[Schmidt-Kennicutt law]] - Empirical relation between gas surface density and star formation rate
+- [[Astrophysics_of_Galaxies_MOC]] - Master Map of Content for course
 
 ---
 
@@ -214,15 +214,15 @@ $$\Gamma_{\rm tot}(A_V) = \Lambda_{\rm tot}(A_V, T_{\rm gas})$$
 ![gal_ism-26.png](../../assets/images/gal_ism-26.png)
 *Figure 3 - Heating and cooling rates as a function of depth into the cloud.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Cooling%20curve.html" class="backlink-item">Cooling curve</a></li>
-    <li class="backlink-item-wrap"><a href="H%20II%20region%20spectroscopy.html" class="backlink-item">H II region spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="Intergalactic%20medium.html" class="backlink-item">Intergalactic medium</a></li>
-    <li class="backlink-item-wrap"><a href="Molecular%20clouds.html" class="backlink-item">Molecular clouds</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Cooling curve]]
+- [[H II region spectroscopy]]
+- [[Intergalactic medium]]
+- [[Molecular clouds]]
+- [[Astronomical_Spectroscopy_MOC]]
+- [[Astrophysics_of_Galaxies_MOC]]
+
 

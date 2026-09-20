@@ -5,7 +5,7 @@ title: "Malavolta 11 - Transit Geometry and Analytical Light Curve Modeling"
 # Malavolta 11 — Transit Geometry and Analytical Light Curve Modeling
 
 *Astrophysics Laboratory 2, Prof. Luca Malavolta*  
-*Index: [Astrophysics_Laboratory_2_MOC](../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html)*
+*Index: [[Astrophysics_Laboratory_2_MOC]]*
 
 ---
 
@@ -114,12 +114,12 @@ m = batman.TransitModel(params, time_array, supersample_factor=7, exp_time=120.0
 ---
 
 ## Related Notes
-- [Exoplanet Transit Geometry and Impact Parameter](../../../03_Zettel/Theory/Exoplanet%20Transit%20Geometry%20and%20Impact%20Parameter.html)
-- [Transit Depth and Ingress-Egress Timescales](../../../03_Zettel/Theory/Transit%20Depth%20and%20Ingress-Egress%20Timescales.html)
-- [Stellar Limb Darkening Laws](../../../03_Zettel/Theory/Stellar%20Limb%20Darkening%20Laws.html)
-- [Exposure Time Smearing in Transit Photometry](../../../03_Zettel/Theory/Exposure%20Time%20Smearing%20in%20Transit%20Photometry.html)
-- [Transit Modeling with batman](../../../03_Zettel/Computational/Transit%20Modeling%20with%20batman.html)
-- [Limb Darkening Computation with ldtk](../../../03_Zettel/Computational/Limb%20Darkening%20Computation%20with%20ldtk.html)
+- [[Exoplanet Transit Geometry and Impact Parameter]]
+- [[Transit Depth and Ingress-Egress Timescales]]
+- [[Stellar Limb Darkening Laws]]
+- [[Exposure Time Smearing in Transit Photometry]]
+- [[Transit Modeling with batman]]
+- [[Limb Darkening Computation with ldtk]]
 
 
 ## Laboratory Visuals & Mandel-Agol Transit Modeling
@@ -133,17 +133,17 @@ m = batman.TransitModel(params, time_array, supersample_factor=7, exp_time=120.0
 ![Mandel-Agol Analytical Light Curve Computation](../../../assets/images/lab2_transit_model_p03.png)
 *Figure LAB2-07: Analytic transit flux model evaluated via the Mandel & Agol (2002) formulation utilizing complete elliptic integrals of the first, second, and third kind.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (8)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Computational/Barycentric%20Julian%20Date%20and%20Time%20System%20Conversions.html" class="backlink-item">Barycentric Julian Date and Time System Conversions</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Computational/Limb%20Darkening%20Computation%20with%20ldtk.html" class="backlink-item">Limb Darkening Computation with ldtk</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Computational/Transit%20Modeling%20with%20batman.html" class="backlink-item">Transit Modeling with batman</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Exoplanet%20Transit%20Geometry%20and%20Impact%20Parameter.html" class="backlink-item">Exoplanet Transit Geometry and Impact Parameter</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Exposure%20Time%20Smearing%20in%20Transit%20Photometry.html" class="backlink-item">Exposure Time Smearing in Transit Photometry</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Stellar%20Limb%20Darkening%20Laws.html" class="backlink-item">Stellar Limb Darkening Laws</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Transit%20Depth%20and%20Ingress-Egress%20Timescales.html" class="backlink-item">Transit Depth and Ingress-Egress Timescales</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Barycentric Julian Date and Time System Conversions]]
+- [[Limb Darkening Computation with ldtk]]
+- [[Transit Modeling with batman]]
+- [[Exoplanet Transit Geometry and Impact Parameter]]
+- [[Exposure Time Smearing in Transit Photometry]]
+- [[Stellar Limb Darkening Laws]]
+- [[Transit Depth and Ingress-Egress Timescales]]
+- [[Astrophysics_Laboratory_2_MOC]]
+
 

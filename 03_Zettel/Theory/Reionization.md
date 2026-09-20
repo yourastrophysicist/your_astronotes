@@ -71,15 +71,15 @@ resolving when + how reionisation proceeded is a key open question of galaxy for
 
 ## see also
 
-- [Photon decoupling and CMB](Photon%20decoupling%20and%20CMB.html)
-- [Saha equation and recombination](Saha%20equation%20and%20recombination.html)
+- [[Photon decoupling and CMB]]
+- [[Saha equation and recombination]]
 - Lyman-α forest
-- [Intergalactic medium](Intergalactic%20medium.html)
-- [ΛCDM current parameters](%CE%9BCDM%20current%20parameters.html)
-- [Polarization E and B modes](Polarization%20E%20and%20B%20modes.html)
-- [Cosmic_inventory_baryons](Cosmic_inventory_baryons.html)
-- [Brief thermal history](Brief%20thermal%20history.html)
-- [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
+- [[Intergalactic medium]]
+- [[ΛCDM current parameters]]
+- [[Polarization E and B modes]]
+- [[Cosmic_inventory_baryons]]
+- [[Brief thermal history]]
+- [[Observational_Cosmology_MOC]]
 
 ---
 
@@ -116,20 +116,20 @@ resolving when + how reionisation proceeded is a key open question of galaxy for
 ![pritchard_loeb_temperatures.png](../../assets/images/pritchard_loeb_temperatures.png)
 *Thermal decoupling: gas kinetic temperature $T_K$, CMB radiation temperature $T_\gamma$, and spin temperature $T_S$ as a function of redshift $z \in [10, 1000]$.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (11)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Brief%20thermal%20history.html" class="backlink-item">Brief thermal history</a></li>
-    <li class="backlink-item-wrap"><a href="CMB%20Spectral%20Distortions%20-%20What%20They%20Are%20and%20Where%20They%20Come%20From.html" class="backlink-item">CMB Spectral Distortions - What They Are and Where They Come From</a></li>
-    <li class="backlink-item-wrap"><a href="High-z%20galaxies%20with%20JWST.html" class="backlink-item">High-z galaxies with JWST</a></li>
-    <li class="backlink-item-wrap"><a href="Intergalactic%20medium.html" class="backlink-item">Intergalactic medium</a></li>
-    <li class="backlink-item-wrap"><a href="Lyman%20alpha%20SFR%20tracer.html" class="backlink-item">Lyman alpha SFR tracer</a></li>
-    <li class="backlink-item-wrap"><a href="Lyman-alpha%20forest.html" class="backlink-item">Lyman-alpha forest</a></li>
-    <li class="backlink-item-wrap"><a href="Missing%20baryons.html" class="backlink-item">Missing baryons</a></li>
-    <li class="backlink-item-wrap"><a href="Polarization%20E%20and%20B%20modes.html" class="backlink-item">Polarization E and B modes</a></li>
-    <li class="backlink-item-wrap"><a href="Recombination.html" class="backlink-item">Recombination</a></li>
-    <li class="backlink-item-wrap"><a href="Transition%20epochs.html" class="backlink-item">Transition epochs</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Brief thermal history]]
+- [[CMB Spectral Distortions - What They Are and Where They Come From]]
+- [[High-z galaxies with JWST]]
+- [[Intergalactic medium]]
+- [[Lyman alpha SFR tracer]]
+- [[Lyman-alpha forest]]
+- [[Missing baryons]]
+- [[Polarization E and B modes]]
+- [[Recombination]]
+- [[Transition epochs]]
+- [[Observational_Cosmology_MOC]]
+
 

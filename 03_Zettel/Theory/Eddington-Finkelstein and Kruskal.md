@@ -61,13 +61,13 @@ for Schwarzschild, the Penrose diagram is a square divided into four triangles (
 
 ## see also
 
-- [Schwarzschild metric](Schwarzschild%20metric.html)
-- [Schwarzschild horizon](Schwarzschild%20horizon.html)
-- [Schwarzschild Christoffels](Schwarzschild%20Christoffels.html)
-- [Radial infall](Radial%20infall.html)
-- [Timelike vs null vs spacelike](Timelike%20vs%20null%20vs%20spacelike.html)
-- [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
-- [Ch 6 - Black Holes](../../02_Literature/Book/Baumann%20GR/Ch%206%20-%20Black%20Holes.html)
+- [[Schwarzschild metric]]
+- [[Schwarzschild horizon]]
+- [[Schwarzschild Christoffels]]
+- [[Radial infall]]
+- [[Timelike vs null vs spacelike]]
+- [[General_Relativity_MOC]]
+- [[Ch 6 - Black Holes]]
 
 ---
 
@@ -76,12 +76,12 @@ for Schwarzschild, the Penrose diagram is a square divided into four triangles (
 ![gr_q12_solution.png](../../assets/images/gr_q12_solution.png)
 *Question 12 Oral Exam Model Solution: Radial free fall of a massive test particle from rest at $r_0$, proper time to reach the horizon $\Delta\tau = \frac{4}{3}\sqrt{\frac{r_0^3}{2GM}}$, and coordinate time divergence $t \to \infty$ due to coordinate singularity.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Schwarzschild%20horizon.html" class="backlink-item">Schwarzschild horizon</a></li>
-    <li class="backlink-item-wrap"><a href="Schwarzschild%20metric.html" class="backlink-item">Schwarzschild metric</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Schwarzschild horizon]]
+- [[Schwarzschild metric]]
+- [[General_Relativity_MOC]]
+
 

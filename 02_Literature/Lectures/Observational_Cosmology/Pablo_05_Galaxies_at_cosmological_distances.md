@@ -4,7 +4,7 @@ title: "Pablo_05_Galaxies_at_cosmological_distances"
 ---
 # Pablo lecture 3 — galaxies at cosmological distances
 
-up: [Observational_Cosmology_MOC](../../../04_Atlas/Observational_Cosmology_MOC.html)
+up: [[Observational_Cosmology_MOC]]
 date: 2026-04-15
 lecturer: Pablo Pérez-González (visiting)
 
@@ -136,7 +136,7 @@ template libraries: Chary & Elbaz 2001 (CE01), Dale & Helou 2002 (DH02), Rieke e
 
 accuracy: Ilbert et al. 2006 found $\sigma_{\text{NMAD}} = 0.035$ in COSMOS. Barro & Pérez-González 2011 showed that adding Spitzer/IRAC data reduces the outlier fraction from 5% to 3% and gives $\sigma_{\text{NMAD}} = 0.036$ — the 1.6 μm bump is the anchor at $1 < z < 3$.
 
-see [Photometric redshifts](../../../03_Zettel/Theory/Photometric%20redshifts.html).
+see [[Photometric redshifts]].
 
 ## selection biases
 
@@ -194,7 +194,7 @@ the most famous diagram in observational cosmology. $\rho_{\text{SFR}}(z)$ in $M
 
 the IR vs UV SFR density (Tresse et al. 2007): at $z \sim 0$, the UV attenuation is $A(\text{UV}) \sim 1$ mag; at $z > 1$ it rises to $\sim 2$ mag. the IR traces *more* of the total SFR than the UV at all epochs, and the discrepancy grows toward the peak.
 
-see [Cosmic star formation history](../../../03_Zettel/Theory/Cosmic%20star%20formation%20history.html), Madau-Lilly plot.
+see [[Cosmic star formation history]], Madau-Lilly plot.
 
 ### the IR luminosity density
 
@@ -288,13 +288,13 @@ the question "when did reionization complete?" remains open. see Epoch of reioni
 
 ## connections
 
-- previous lectures: [Pablo_03_Star_formation_in_galaxies](./Pablo_03_Star_formation_in_galaxies.html), [Pablo_04_Nuclear_activity_in_galaxies](./Pablo_04_Nuclear_activity_in_galaxies.html)
-- the SFR tracers used to build the Madau plot come from: [SFR tracer comparison](../../../03_Zettel/Theory/SFR%20tracer%20comparison.html)
-- galaxy populations live on: [Galaxy main sequence of star formation](../../../03_Zettel/Theory/Galaxy%20main%20sequence%20of%20star%20formation.html)
-- bimodality: [Pablo_02_Statistical_properties_of_galaxies](./Pablo_02_Statistical_properties_of_galaxies.html)
+- previous lectures: [[Pablo_03_Star_formation_in_galaxies]], [[Pablo_04_Nuclear_activity_in_galaxies]]
+- the SFR tracers used to build the Madau plot come from: [[SFR tracer comparison]]
+- galaxy populations live on: [[Galaxy main sequence of star formation]]
+- bimodality: [[Pablo_02_Statistical_properties_of_galaxies]]
 - AGN feedback and co-evolution: AGN-galaxy co-evolution
-- cosmic SFR history: [Cosmic star formation history](../../../03_Zettel/Theory/Cosmic%20star%20formation%20history.html)
-- MOC: [Observational_Cosmology_MOC](../../../04_Atlas/Observational_Cosmology_MOC.html)
+- cosmic SFR history: [[Cosmic star formation history]]
+- MOC: [[Observational_Cosmology_MOC]]
 
 ## key references
 
@@ -317,13 +317,13 @@ the question "when did reionization complete?" remains open. see Epoch of reioni
 - Bouwens et al. 2010, Labbé et al. 2010 (z~7 galaxies)
 - Dole et al. 2006, Lagache et al. 2006 (cosmic backgrounds)
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Cosmic%20dawn%20and%20high-redshift%20galaxies%20with%20JWST.html" class="backlink-item">Cosmic dawn and high-redshift galaxies with JWST</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/High-redshift%20galaxy%20selection%20and%20Lyman%20break%20technique.html" class="backlink-item">High-redshift galaxy selection and Lyman break technique</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Non-parametric%20galaxy%20morphology%20metrics.html" class="backlink-item">Non-parametric galaxy morphology metrics</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Cosmic dawn and high-redshift galaxies with JWST]]
+- [[High-redshift galaxy selection and Lyman break technique]]
+- [[Non-parametric galaxy morphology metrics]]
+- [[Observational_Cosmology_MOC]]
+
 

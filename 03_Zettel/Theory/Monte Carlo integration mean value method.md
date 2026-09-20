@@ -73,7 +73,7 @@ plt.loglog(Ns, errs[0] * (Ns[0] / np.array(Ns))**0.5, 'k--', label='1/√N')
 
 since the error is $\sim \sigma_f/\sqrt{N}$, *reducing $\sigma_f$* reduces the error without increasing $N$. four standard tricks:
 
-1. **importance sampling**: sample from a distribution $g(x)$ that mimics $f(x)$, weight by $f/g$. see [Importance sampling](Importance%20sampling.html)
+1. **importance sampling**: sample from a distribution $g(x)$ that mimics $f(x)$, weight by $f/g$. see [[Importance sampling]]
 2. **stratified sampling**: divide the domain into sub-regions, sample uniformly within each, combine. reduces variance when $f$ is smoother in pieces than overall
 3. **control variates**: compute $\int (f - g) + \int g$ where $\int g$ is known and $f - g$ has lower variance. exam-grade trick
 4. **antithetic variates**: pair $x$ with $a + b - x$, use both. exact if $f$ is linear, helpful if $f$ has odd symmetry
@@ -108,24 +108,24 @@ def mc_integrate_2d(f, x_range, y_range, N):
 
 ## see also
 
-- [Importance sampling](Importance%20sampling.html)
-- [Multidimensional Monte Carlo integration](Multidimensional%20Monte%20Carlo%20integration.html)
-- [Trapezoidal rule](Trapezoidal%20rule.html)
-- [Pseudo-random number generators](Pseudo-random%20number%20generators.html)
-- [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
+- [[Importance sampling]]
+- [[Multidimensional Monte Carlo integration]]
+- [[Trapezoidal rule]]
+- [[Pseudo-random number generators]]
+- [[Mathematical_Numerical_Methods_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (9)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Hint%20-%20TODO%203.1%20Monte%20Carlo%20Mean%20Value%20Integration.html" class="backlink-item">Hint - TODO 3.1 Monte Carlo Mean Value Integration</a></li>
-    <li class="backlink-item-wrap"><a href="Hint%20-%20TODO%203.2%20Monte%20Carlo%20Convergence%20Scaling.html" class="backlink-item">Hint - TODO 3.2 Monte Carlo Convergence Scaling</a></li>
-    <li class="backlink-item-wrap"><a href="Importance%20sampling.html" class="backlink-item">Importance sampling</a></li>
-    <li class="backlink-item-wrap"><a href="Multidimensional%20Monte%20Carlo%20integration.html" class="backlink-item">Multidimensional Monte Carlo integration</a></li>
-    <li class="backlink-item-wrap"><a href="Pseudo-random%20number%20generators.html" class="backlink-item">Pseudo-random number generators</a></li>
-    <li class="backlink-item-wrap"><a href="Random%20number%20seeds.html" class="backlink-item">Random number seeds</a></li>
-    <li class="backlink-item-wrap"><a href="Simpson%27s%20rule.html" class="backlink-item">Simpson's rule</a></li>
-    <li class="backlink-item-wrap"><a href="Trapezoidal%20rule.html" class="backlink-item">Trapezoidal rule</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Hint - TODO 3.1 Monte Carlo Mean Value Integration]]
+- [[Hint - TODO 3.2 Monte Carlo Convergence Scaling]]
+- [[Importance sampling]]
+- [[Multidimensional Monte Carlo integration]]
+- [[Pseudo-random number generators]]
+- [[Random number seeds]]
+- [[Simpson's rule]]
+- [[Trapezoidal rule]]
+- [[Mathematical_Numerical_Methods_MOC]]
+
 

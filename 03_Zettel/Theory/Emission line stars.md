@@ -57,7 +57,7 @@ massive, unstable, episodic mass loss with H, He, Fe emission. e.g. $\eta$ Carin
 B-type supergiants with forbidden line emission ($[OI], [FeII]$), suggesting low-density circumstellar disks.
 
 ### symbiotic stars
-binary systems with a cool giant + a hot accreting WD. spectra mix M-giant absorption with WD emission. see [Symbiotic star spectroscopy](Symbiotic%20star%20spectroscopy.html).
+binary systems with a cool giant + a hot accreting WD. spectra mix M-giant absorption with WD emission. see [[Symbiotic star spectroscopy]].
 
 ## the role in stellar evolution
 
@@ -71,25 +71,25 @@ each connects to the broader narrative of massive-star evolution.
 
 ## see also
 
-- [Galactic novae spectroscopy](Galactic%20novae%20spectroscopy.html)
-- [Symbiotic star spectroscopy](Symbiotic%20star%20spectroscopy.html)
-- [Supernova spectroscopy](Supernova%20spectroscopy.html)
-- [Stellar spectra and spectral classification](Stellar%20spectra%20and%20spectral%20classification.html)
-- [Helium energy levels](Helium%20energy%20levels.html)
-- [Hydrogen spectral series](Hydrogen%20spectral%20series.html)
-- [Optically thin recombination lines](Optically%20thin%20recombination%20lines.html)
-- [Rotational broadening](Rotational%20broadening.html)
-- [H II region spectroscopy](H%20II%20region%20spectroscopy.html)
+- [[Galactic novae spectroscopy]]
+- [[Symbiotic star spectroscopy]]
+- [[Supernova spectroscopy]]
+- [[Stellar spectra and spectral classification]]
+- [[Helium energy levels]]
+- [[Hydrogen spectral series]]
+- [[Optically thin recombination lines]]
+- [[Rotational broadening]]
+- [[H II region spectroscopy]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Galactic%20novae%20spectroscopy.html" class="backlink-item">Galactic novae spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="Rotational%20broadening.html" class="backlink-item">Rotational broadening</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20v%20sin%20i%20from%20line%20shape.html" class="backlink-item">Stellar v sin i from line shape</a></li>
-    <li class="backlink-item-wrap"><a href="Supernova%20spectroscopy.html" class="backlink-item">Supernova spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="Symbiotic%20star%20spectroscopy.html" class="backlink-item">Symbiotic star spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Galactic novae spectroscopy]]
+- [[Rotational broadening]]
+- [[Stellar v sin i from line shape]]
+- [[Supernova spectroscopy]]
+- [[Symbiotic star spectroscopy]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 

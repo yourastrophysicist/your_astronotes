@@ -68,30 +68,30 @@ systematic post-Newtonian expansion handles binary inspirals to $\sim 4$PN curre
 
 ## see also
 
-- [Linearized metric perturbation](Linearized%20metric%20perturbation.html)
-- [Trace-reversed perturbation](Trace-reversed%20perturbation.html)
-- [Lorenz gauge](Lorenz%20gauge.html)
-- [Linearized Christoffel and Riemann](Linearized%20Christoffel%20and%20Riemann.html)
+- [[Linearized metric perturbation]]
+- [[Trace-reversed perturbation]]
+- [[Lorenz gauge]]
+- [[Linearized Christoffel and Riemann]]
 - Q9 - weak-field Christoffel Gamma_i_00
 - Q10 - weak-field Ricci scalar
-- [Schwarzschild metric](Schwarzschild%20metric.html)
-- [Perihelion precession](Perihelion%20precession.html)
-- [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
-- [Ch 8 - Gravitational Waves](../../02_Literature/Book/Baumann%20GR/Ch%208%20-%20Gravitational%20Waves.html)
-- [Newtonian Friedmann derivation](Newtonian%20Friedmann%20derivation.html)
+- [[Schwarzschild metric]]
+- [[Perihelion precession]]
+- [[General_Relativity_MOC]]
+- [[Ch 8 - Gravitational Waves]]
+- [[Newtonian Friedmann derivation]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (9)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Einstein%20equations.html" class="backlink-item">Einstein equations</a></li>
-    <li class="backlink-item-wrap"><a href="Geodesic%20deviation.html" class="backlink-item">Geodesic deviation</a></li>
-    <li class="backlink-item-wrap"><a href="Linearized%20Christoffel%20and%20Riemann.html" class="backlink-item">Linearized Christoffel and Riemann</a></li>
-    <li class="backlink-item-wrap"><a href="Linearized%20metric%20perturbation.html" class="backlink-item">Linearized metric perturbation</a></li>
-    <li class="backlink-item-wrap"><a href="Locally%20inertial%20frame.html" class="backlink-item">Locally inertial frame</a></li>
-    <li class="backlink-item-wrap"><a href="Lorenz%20gauge.html" class="backlink-item">Lorenz gauge</a></li>
-    <li class="backlink-item-wrap"><a href="Stress-energy%20tensor.html" class="backlink-item">Stress-energy tensor</a></li>
-    <li class="backlink-item-wrap"><a href="Trace-reversed%20Einstein%20equations.html" class="backlink-item">Trace-reversed Einstein equations</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Einstein equations]]
+- [[Geodesic deviation]]
+- [[Linearized Christoffel and Riemann]]
+- [[Linearized metric perturbation]]
+- [[Locally inertial frame]]
+- [[Lorenz gauge]]
+- [[Stress-energy tensor]]
+- [[Trace-reversed Einstein equations]]
+- [[General_Relativity_MOC]]
+
 

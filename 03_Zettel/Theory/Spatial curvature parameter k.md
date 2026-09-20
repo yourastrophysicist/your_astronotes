@@ -34,7 +34,7 @@ with $R$ a curvature radius (set to $\infty$ for $k = 0$). so:
 - $K > 0$ for $k = +1$.
 - $K < 0$ for $k = -1$.
 
-$K$ is the **Gaussian curvature** of any 2D slice of constant curvature on the homogeneous spatial slice. see [Sectional and Gaussian curvature](Sectional%20and%20Gaussian%20curvature.html).
+$K$ is the **Gaussian curvature** of any 2D slice of constant curvature on the homogeneous spatial slice. see [[Sectional and Gaussian curvature]].
 
 ## the Friedmann equation
 
@@ -64,7 +64,7 @@ $$\lvert \Omega_k\rvert < 0.005\quad(95\%\,\text{CL})$$
 
 so the universe is **flat to better than 0.5%**. consistent with $k = 0$.
 
-this is consistent with **inflation**: inflation drives $\Omega_k \to 0$ exponentially, regardless of pre-inflationary curvature. so a flat universe today is a natural prediction of inflation. see [Inflation overview](Inflation%20overview.html).
+this is consistent with **inflation**: inflation drives $\Omega_k \to 0$ exponentially, regardless of pre-inflationary curvature. so a flat universe today is a natural prediction of inflation. see [[Inflation overview]].
 
 ## physical scales
 
@@ -72,28 +72,28 @@ even at $\lvert \Omega_k\rvert < 0.005$, the curvature radius $R \gtrsim 14$ Gpc
 
 ## see also
 
-- [FLRW metric](FLRW%20metric.html)
-- [Friedmann equations](Friedmann%20equations.html)
-- [Cosmological principle](Cosmological%20principle.html)
-- [Cosmic eras](Cosmic%20eras.html)
-- [Hubble constant and deceleration parameter](Hubble%20constant%20and%20deceleration%20parameter.html)
-- [Inflation overview](Inflation%20overview.html)
-- [Sectional and Gaussian curvature](Sectional%20and%20Gaussian%20curvature.html)
-- [Curvature parameter k](Curvature%20parameter%20k.html)
-- [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
-- [Ch 7 - Cosmology](../../02_Literature/Book/Baumann%20GR/Ch%207%20-%20Cosmology.html)
+- [[FLRW metric]]
+- [[Friedmann equations]]
+- [[Cosmological principle]]
+- [[Cosmic eras]]
+- [[Hubble constant and deceleration parameter]]
+- [[Inflation overview]]
+- [[Sectional and Gaussian curvature]]
+- [[Curvature parameter k]]
+- [[General_Relativity_MOC]]
+- [[Ch 7 - Cosmology]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (8)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Curvature-dynamics%20relation.html" class="backlink-item">Curvature-dynamics relation</a></li>
-    <li class="backlink-item-wrap"><a href="Density%20parameters.html" class="backlink-item">Density parameters</a></li>
-    <li class="backlink-item-wrap"><a href="FLRW%20metric.html" class="backlink-item">FLRW metric</a></li>
-    <li class="backlink-item-wrap"><a href="Friedmann%20equations.html" class="backlink-item">Friedmann equations</a></li>
-    <li class="backlink-item-wrap"><a href="Friedmann%20solutions.html" class="backlink-item">Friedmann solutions</a></li>
-    <li class="backlink-item-wrap"><a href="Newtonian%20derivation%20of%20Friedmann.html" class="backlink-item">Newtonian derivation of Friedmann</a></li>
-    <li class="backlink-item-wrap"><a href="Sectional%20and%20Gaussian%20curvature.html" class="backlink-item">Sectional and Gaussian curvature</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Curvature-dynamics relation]]
+- [[Density parameters]]
+- [[FLRW metric]]
+- [[Friedmann equations]]
+- [[Friedmann solutions]]
+- [[Newtonian derivation of Friedmann]]
+- [[Sectional and Gaussian curvature]]
+- [[General_Relativity_MOC]]
+
 

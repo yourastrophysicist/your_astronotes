@@ -10,8 +10,8 @@ with $f(p, t)$ the phase-space distribution function and $C[f]$ the **collision 
 in cosmology this is what governs:
 - dark matter freeze-out (see Dark matter relics — WIMP miracle)
 - neutrino decoupling
-- recombination (see [Saha equation and recombination](Saha%20equation%20and%20recombination.html))
-- BBN (see [BBN_overview](BBN_overview.html))
+- recombination (see [[Saha equation and recombination]])
+- BBN (see [[BBN_overview]])
 
 ---
 
@@ -67,7 +67,7 @@ $$\Omega_\chi h^2 \approx \frac{3 \times 10^{-27}\,\text{cm}^3/\text{s}}{\langle
 for primordial nucleosynthesis, we need the Boltzmann equation for *each* nuclear species, with collision terms for all the nuclear reactions among them. this gives a coupled system of ODEs:
 $$\frac{d n_A}{dt} + 3 H n_A = \sum_{\rm reactions}\dots$$
 
-solved numerically by codes like PArthENoPE, PRIMAT, AlterBBN. the abundances of D, $^3$He, $^4$He, $^7$Li versus $\eta$ all come out of these calculations. → see [BBN_predictions](BBN_predictions.html).
+solved numerically by codes like PArthENoPE, PRIMAT, AlterBBN. the abundances of D, $^3$He, $^4$He, $^7$Li versus $\eta$ all come out of these calculations. → see [[BBN_predictions]].
 
 ---
 
@@ -76,7 +76,7 @@ solved numerically by codes like PArthENoPE, PRIMAT, AlterBBN. the abundances of
 for the ionization fraction $X_e = n_e/n_b$:
 $$\frac{dX_e}{dt} = ...$$
 
-(the **Peebles equation**, simplified version of the Boltzmann equation for hydrogen.) the Saha equation is the equilibrium limit. as recombination proceeds, $X_e$ deviates from Saha and freezes out at $X_e \sim 10^{-3}$. → see [Saha equation and recombination](Saha%20equation%20and%20recombination.html).
+(the **Peebles equation**, simplified version of the Boltzmann equation for hydrogen.) the Saha equation is the equilibrium limit. as recombination proceeds, $X_e$ deviates from Saha and freezes out at $X_e \sim 10^{-3}$. → see [[Saha equation and recombination]].
 
 ---
 
@@ -93,25 +93,25 @@ so once you have the cross-sections and masses, you can in principle compute the
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Decoupling and freeze-out](Decoupling%20and%20freeze-out.html)
-- [Thermal equilibrium in the early universe](Thermal%20equilibrium%20in%20the%20early%20universe.html)
-- [Saha equation and recombination](Saha%20equation%20and%20recombination.html)
-- [BBN_overview](BBN_overview.html)
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Decoupling and freeze-out]]
+- [[Thermal equilibrium in the early universe]]
+- [[Saha equation and recombination]]
+- [[BBN_overview]]
 - Dark matter relics — WIMP miracle
-- [Hot vs cold dark matter](Hot%20vs%20cold%20dark%20matter.html)
-- [Baumann_reference](Baumann_reference.html) — chapter 3.3.1 has the rigorous derivation
+- [[Hot vs cold dark matter]]
+- [[Baumann_reference]] — chapter 3.3.1 has the rigorous derivation
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Baumann_reference.html" class="backlink-item">Baumann_reference</a></li>
-    <li class="backlink-item-wrap"><a href="Dark%20matter%20relics%20-%20WIMP%20miracle.html" class="backlink-item">Dark matter relics - WIMP miracle</a></li>
-    <li class="backlink-item-wrap"><a href="Decoupling%20and%20freeze-out.html" class="backlink-item">Decoupling and freeze-out</a></li>
-    <li class="backlink-item-wrap"><a href="Equation%20of%20radiative%20transfer.html" class="backlink-item">Equation of radiative transfer</a></li>
-    <li class="backlink-item-wrap"><a href="Saha%20equation%20and%20recombination.html" class="backlink-item">Saha equation and recombination</a></li>
-    <li class="backlink-item-wrap"><a href="Thermal%20equilibrium%20in%20the%20early%20universe.html" class="backlink-item">Thermal equilibrium in the early universe</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Baumann_reference]]
+- [[Dark matter relics - WIMP miracle]]
+- [[Decoupling and freeze-out]]
+- [[Equation of radiative transfer]]
+- [[Saha equation and recombination]]
+- [[Thermal equilibrium in the early universe]]
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+
 

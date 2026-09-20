@@ -59,12 +59,12 @@ with Weyl trace-free: $C^\mu{}_{\sigma\mu\nu} = 0$. Weyl carries the "vacuum" gr
 
 ## see also
 
-- [Riemann tensor](Riemann%20tensor.html)
-- [Riemann tensor symmetries](Riemann%20tensor%20symmetries.html)
-- [Ricci tensor and scalar](Ricci%20tensor%20and%20scalar.html)
-- [Sectional and Gaussian curvature](Sectional%20and%20Gaussian%20curvature.html)
-- [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
-- [Ch 4 - Spacetime Curvature](../../02_Literature/Book/Baumann%20GR/Ch%204%20-%20Spacetime%20Curvature.html)
+- [[Riemann tensor]]
+- [[Riemann tensor symmetries]]
+- [[Ricci tensor and scalar]]
+- [[Sectional and Gaussian curvature]]
+- [[General_Relativity_MOC]]
+- [[Ch 4 - Spacetime Curvature]]
 
 ---
 
@@ -77,14 +77,14 @@ with Weyl trace-free: $C^\mu{}_{\sigma\mu\nu} = 0$. Weyl carries the "vacuum" gr
 ![baumann_fig03_p44.png](../../assets/images/baumann_fig03_p44.png)
 *Cambridge Lecture Diagram: Parallel transport along a closed loop on a 2-sphere and the geometric deficit angle measuring integrated Gaussian curvature.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Ricci%20tensor%20and%20scalar.html" class="backlink-item">Ricci tensor and scalar</a></li>
-    <li class="backlink-item-wrap"><a href="Riemann%20tensor%20symmetries.html" class="backlink-item">Riemann tensor symmetries</a></li>
-    <li class="backlink-item-wrap"><a href="Riemann%20tensor.html" class="backlink-item">Riemann tensor</a></li>
-    <li class="backlink-item-wrap"><a href="Sectional%20and%20Gaussian%20curvature.html" class="backlink-item">Sectional and Gaussian curvature</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Ricci tensor and scalar]]
+- [[Riemann tensor symmetries]]
+- [[Riemann tensor]]
+- [[Sectional and Gaussian curvature]]
+- [[General_Relativity_MOC]]
+
 

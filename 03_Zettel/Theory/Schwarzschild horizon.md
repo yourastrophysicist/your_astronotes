@@ -56,26 +56,26 @@ for typical objects:
 
 ## see also
 
-- [Schwarzschild metric](Schwarzschild%20metric.html)
-- [Schwarzschild Christoffels](Schwarzschild%20Christoffels.html)
-- [Schwarzschild effective potential](Schwarzschild%20effective%20potential.html)
-- [Eddington-Finkelstein and Kruskal](Eddington-Finkelstein%20and%20Kruskal.html)
-- [Photon sphere](Photon%20sphere.html)
-- [Photon trajectories and impact parameter](Photon%20trajectories%20and%20impact%20parameter.html)
-- [Timelike vs null vs spacelike](Timelike%20vs%20null%20vs%20spacelike.html)
-- [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
-- [Ch 6 - Black Holes](../../02_Literature/Book/Baumann%20GR/Ch%206%20-%20Black%20Holes.html)
+- [[Schwarzschild metric]]
+- [[Schwarzschild Christoffels]]
+- [[Schwarzschild effective potential]]
+- [[Eddington-Finkelstein and Kruskal]]
+- [[Photon sphere]]
+- [[Photon trajectories and impact parameter]]
+- [[Timelike vs null vs spacelike]]
+- [[General_Relativity_MOC]]
+- [[Ch 6 - Black Holes]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Birkhoff%20theorem.html" class="backlink-item">Birkhoff theorem</a></li>
-    <li class="backlink-item-wrap"><a href="Eddington-Finkelstein%20and%20Kruskal.html" class="backlink-item">Eddington-Finkelstein and Kruskal</a></li>
-    <li class="backlink-item-wrap"><a href="Radial%20infall.html" class="backlink-item">Radial infall</a></li>
-    <li class="backlink-item-wrap"><a href="Schwarzschild%20Christoffels.html" class="backlink-item">Schwarzschild Christoffels</a></li>
-    <li class="backlink-item-wrap"><a href="Schwarzschild%20metric.html" class="backlink-item">Schwarzschild metric</a></li>
-    <li class="backlink-item-wrap"><a href="Timelike%20vs%20null%20vs%20spacelike.html" class="backlink-item">Timelike vs null vs spacelike</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Birkhoff theorem]]
+- [[Eddington-Finkelstein and Kruskal]]
+- [[Radial infall]]
+- [[Schwarzschild Christoffels]]
+- [[Schwarzschild metric]]
+- [[Timelike vs null vs spacelike]]
+- [[General_Relativity_MOC]]
+
 

@@ -49,8 +49,8 @@ both come from the same atmospheric turbulence, but they live in different obser
 
 ## see also
 
-- [Earth atmosphere for observations](Earth%20atmosphere%20for%20observations.html)
-- [Atmospheric seeing](interf/Atmospheric%20seeing.html)
-- [Adaptive optics overview](interf/Adaptive%20optics%20overview.html)
-- [CCD detectors and SNR](CCD%20detectors%20and%20SNR.html)
-- [Sky brightness](Sky%20brightness.html)
+- [[Earth atmosphere for observations]]
+- [[Atmospheric seeing]]
+- [[Adaptive optics overview]]
+- [[CCD detectors and SNR]]
+- [[Sky brightness]]

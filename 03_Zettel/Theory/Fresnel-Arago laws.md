@@ -146,10 +146,10 @@ so Fresnel-Arago, classical optics from 1819, is the classical analogue of the q
 
 ## see also
 
-- [Light waves and the EM spectrum](interf/Light%20waves%20and%20the%20EM%20spectrum.html)
-- [Polarization in interferometry](interf/Polarization%20in%20interferometry.html)
-- [Optical path difference OPD](interf/Optical%20path%20difference%20OPD.html)
-- [Superposition and interference](interf/Superposition%20and%20interference.html)
-- [Beam splitter physics](interf/Beam%20splitter%20physics.html)
-- [Coherence function and visibility](interf/Coherence%20function%20and%20visibility.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Light waves and the EM spectrum]]
+- [[Polarization in interferometry]]
+- [[Optical path difference OPD]]
+- [[Superposition and interference]]
+- [[Beam splitter physics]]
+- [[Coherence function and visibility]]
+- [[Astronomical_Interferometry_MOC]]

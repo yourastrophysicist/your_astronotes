@@ -80,26 +80,26 @@ it also gives the **physical intuition** for why the cosmological constant is so
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
 - Friedmann equations with Λ
-- [Friedmann models](Friedmann%20models.html)
-- [Curvature parameter k](Curvature%20parameter%20k.html)
-- [Density parameters and flatness](Density%20parameters%20and%20flatness.html)
-- [Baumann_reference](Baumann_reference.html) — chapter 1.3 has the GR derivation, contrast with this
+- [[Friedmann models]]
+- [[Curvature parameter k]]
+- [[Density parameters and flatness]]
+- [[Baumann_reference]] — chapter 1.3 has the GR derivation, contrast with this
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (10)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Baumann_reference.html" class="backlink-item">Baumann_reference</a></li>
-    <li class="backlink-item-wrap"><a href="FLRW%20metric.html" class="backlink-item">FLRW metric</a></li>
-    <li class="backlink-item-wrap"><a href="Friedmann%20equations%20with%20Lambda.html" class="backlink-item">Friedmann equations with Lambda</a></li>
-    <li class="backlink-item-wrap"><a href="Friedmann%20equations.html" class="backlink-item">Friedmann equations</a></li>
-    <li class="backlink-item-wrap"><a href="Friedmann%20solutions.html" class="backlink-item">Friedmann solutions</a></li>
-    <li class="backlink-item-wrap"><a href="GR%20Friedmann%20with%20Lambda.html" class="backlink-item">GR Friedmann with Lambda</a></li>
-    <li class="backlink-item-wrap"><a href="Newtonian%20derivation%20of%20Friedmann.html" class="backlink-item">Newtonian derivation of Friedmann</a></li>
-    <li class="backlink-item-wrap"><a href="Newtonian%20limit%20of%20GR.html" class="backlink-item">Newtonian limit of GR</a></li>
-    <li class="backlink-item-wrap"><a href="Robertson-Walker%20metric.html" class="backlink-item">Robertson-Walker metric</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Baumann_reference]]
+- [[FLRW metric]]
+- [[Friedmann equations with Lambda]]
+- [[Friedmann equations]]
+- [[Friedmann solutions]]
+- [[GR Friedmann with Lambda]]
+- [[Newtonian derivation of Friedmann]]
+- [[Newtonian limit of GR]]
+- [[Robertson-Walker metric]]
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+
 

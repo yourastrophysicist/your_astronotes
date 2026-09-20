@@ -6,7 +6,7 @@ title: "Part3_Quantum_Perturbations_and_Power_Spectra"
 
 *Lectures 17 to 23 notes synthesis - Prof. Nicola Bartolo*  
 *Cosmology of the Early Universe - Università degli Studi di Padova*  
-*Index: [Cosmology_of_the_Early_Universe_MOC](../../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html)*  
+*Index: [[Cosmology_of_the_Early_Universe_MOC]]*  
 
 ---
 
@@ -173,17 +173,17 @@ Future experiments (LiteBIRD, CMB-S4) aim to reach sensitivity $\sigma(r) \sim 1
 ## Connections and vault links
 
 * Companion zettels:
-  - [Quantum fluctuations of the inflaton field](../../../03_Zettel/Theory/Quantum%20fluctuations%20of%20the%20inflaton%20field.html)
-  - [Sasaki-Mukhanov variable and equation](../../../03_Zettel/Theory/Sasaki-Mukhanov%20variable%20and%20equation.html)
-  - [Bunch-Davies vacuum and mode functions](../../../03_Zettel/Theory/Bunch-Davies%20vacuum%20and%20mode%20functions.html)
-  - [Curvature perturbation R and zeta](../../../03_Zettel/Theory/Curvature%20perturbation%20R%20and%20zeta.html)
-  - [Scalar primordial power spectrum and spectral index](../../../03_Zettel/Theory/Scalar%20primordial%20power%20spectrum%20and%20spectral%20index.html)
-  - [Tensor perturbations and primordial gravitational waves](../../../03_Zettel/Theory/Tensor%20perturbations%20and%20primordial%20gravitational%20waves.html)
-  - [Tensor-to-scalar ratio r and inflation energy scale](../../../03_Zettel/Theory/Tensor-to-scalar%20ratio%20r%20and%20inflation%20energy%20scale.html)
-  - [Consistency relation of single-field slow-roll inflation](../../../03_Zettel/Theory/Consistency%20relation%20of%20single-field%20slow-roll%20inflation.html)
-* Previous module: [Part2_Inflation_Kinematics_Dynamics_and_Models](./Part2_Inflation_Kinematics_Dynamics_and_Models.html)
-* Next module: [Part4_Advanced_Formalisms_and_Non_Gaussianity](./Part4_Advanced_Formalisms_and_Non_Gaussianity.html)
-* Atlas: [Cosmology_of_the_Early_Universe_MOC](../../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html)
+  - [[Quantum fluctuations of the inflaton field]]
+  - [[Sasaki-Mukhanov variable and equation]]
+  - [[Bunch-Davies vacuum and mode functions]]
+  - [[Curvature perturbation R and zeta]]
+  - [[Scalar primordial power spectrum and spectral index]]
+  - [[Tensor perturbations and primordial gravitational waves]]
+  - [[Tensor-to-scalar ratio r and inflation energy scale]]
+  - [[Consistency relation of single-field slow-roll inflation]]
+* Previous module: [[Part2_Inflation_Kinematics_Dynamics_and_Models]]
+* Next module: [[Part4_Advanced_Formalisms_and_Non_Gaussianity]]
+* Atlas: [[Cosmology_of_the_Early_Universe_MOC]]
 
 
 ## Theoretical Visuals & Quantum Perturbations
@@ -203,18 +203,18 @@ Future experiments (LiteBIRD, CMB-S4) aim to reach sensitivity $\sigma(r) \sim 1
 ![Tensor Power Spectrum and Tensor-to-Scalar Ratio r](../../../assets/images/early_powerspectrum_p20.png)
 *Figure CEU-08: Primordial gravitational wave tensor power spectrum $\mathcal{P}_t(k) = \frac{2 H^2}{\pi^2 M_{\mathrm{pl}}^2}$ and current experimental upper limits on the tensor-to-scalar ratio $r = 16\epsilon < 0.036$ from BICEP/Keck and Planck.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (9)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Bunch-Davies%20vacuum%20and%20mode%20functions.html" class="backlink-item">Bunch-Davies vacuum and mode functions</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Consistency%20relation%20of%20single-field%20slow-roll%20inflation.html" class="backlink-item">Consistency relation of single-field slow-roll inflation</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Curvature%20perturbation%20R%20and%20zeta.html" class="backlink-item">Curvature perturbation R and zeta</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Quantum%20fluctuations%20of%20the%20inflaton%20field.html" class="backlink-item">Quantum fluctuations of the inflaton field</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Sasaki-Mukhanov%20variable%20and%20equation.html" class="backlink-item">Sasaki-Mukhanov variable and equation</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Scalar%20primordial%20power%20spectrum%20and%20spectral%20index.html" class="backlink-item">Scalar primordial power spectrum and spectral index</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Tensor%20perturbations%20and%20primordial%20gravitational%20waves.html" class="backlink-item">Tensor perturbations and primordial gravitational waves</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Tensor-to-scalar%20ratio%20r%20and%20inflation%20energy%20scale.html" class="backlink-item">Tensor-to-scalar ratio r and inflation energy scale</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html" class="backlink-item">Cosmology_of_the_Early_Universe_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Bunch-Davies vacuum and mode functions]]
+- [[Consistency relation of single-field slow-roll inflation]]
+- [[Curvature perturbation R and zeta]]
+- [[Quantum fluctuations of the inflaton field]]
+- [[Sasaki-Mukhanov variable and equation]]
+- [[Scalar primordial power spectrum and spectral index]]
+- [[Tensor perturbations and primordial gravitational waves]]
+- [[Tensor-to-scalar ratio r and inflation energy scale]]
+- [[Cosmology_of_the_Early_Universe_MOC]]
+
 

@@ -149,8 +149,8 @@ construction underway 2020s-2030s. designed for:
 
 ## see also
 
-- [Connected element interferometer](interf/Connected%20element%20interferometer.html)
-- [Very Long Baseline Interferometry VLBI](interf/Very%20Long%20Baseline%20Interferometry%20VLBI.html)
-- [Event Horizon Telescope EHT](interf/Event%20Horizon%20Telescope%20EHT.html)
-- [Earth rotation synthesis in radio](interf/Earth%20rotation%20synthesis%20in%20radio.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Connected element interferometer]]
+- [[Very Long Baseline Interferometry VLBI]]
+- [[Event Horizon Telescope EHT]]
+- [[Earth rotation synthesis in radio]]
+- [[Astronomical_Interferometry_MOC]]

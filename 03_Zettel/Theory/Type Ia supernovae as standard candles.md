@@ -62,12 +62,12 @@ this monumental discovery earned Perlmutter, Schmidt, and Riess the **2011 Nobel
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Parallax and standard candles](Parallax%20and%20standard%20candles.html)
-- [Cepheids and supernovae](Cepheids%20and%20supernovae.html)
-- [Hubble's law and cosmological redshift](Hubble%27s%20law%20and%20cosmological%20redshift.html)
-- [Cosmic_inventory_dark_energy](Cosmic_inventory_dark_energy.html)
-- [Supernovae and compact remnants](Supernovae%20and%20compact%20remnants.html)
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Parallax and standard candles]]
+- [[Cepheids and supernovae]]
+- [[Hubble's law and cosmological redshift]]
+- [[Cosmic_inventory_dark_energy]]
+- [[Supernovae and compact remnants]]
 
 ---
 
@@ -109,30 +109,30 @@ this monumental discovery earned Perlmutter, Schmidt, and Riess the **2011 Nobel
 ![obs_dist-56.png](../../assets/images/obs_dist-56.png)
 *Type Ia SNe as anchor for cosmological parameter estimation (Omega_m, Omega_Lambda, w).*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (21)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Cepheid%20period-luminosity%20relation.html" class="backlink-item">Cepheid period-luminosity relation</a></li>
-    <li class="backlink-item-wrap"><a href="Cepheids%20and%20supernovae.html" class="backlink-item">Cepheids and supernovae</a></li>
-    <li class="backlink-item-wrap"><a href="Cosmological%20constant.html" class="backlink-item">Cosmological constant</a></li>
-    <li class="backlink-item-wrap"><a href="Deceleration%20parameter.html" class="backlink-item">Deceleration parameter</a></li>
-    <li class="backlink-item-wrap"><a href="Distance%20ladder%20derivations.html" class="backlink-item">Distance ladder derivations</a></li>
-    <li class="backlink-item-wrap"><a href="Galactic%20novae%20spectroscopy.html" class="backlink-item">Galactic novae spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="Hubble%20flow%20distances.html" class="backlink-item">Hubble flow distances</a></li>
-    <li class="backlink-item-wrap"><a href="Hubble%20law.html" class="backlink-item">Hubble law</a></li>
-    <li class="backlink-item-wrap"><a href="Hubble%27s%20law%20and%20cosmological%20redshift.html" class="backlink-item">Hubble's law and cosmological redshift</a></li>
-    <li class="backlink-item-wrap"><a href="Limb%20darkening.html" class="backlink-item">Limb darkening</a></li>
-    <li class="backlink-item-wrap"><a href="Luminosity%20distance.html" class="backlink-item">Luminosity distance</a></li>
-    <li class="backlink-item-wrap"><a href="Parallax%20and%20standard%20candles.html" class="backlink-item">Parallax and standard candles</a></li>
-    <li class="backlink-item-wrap"><a href="Supernova%20Hubble%20diagram.html" class="backlink-item">Supernova Hubble diagram</a></li>
-    <li class="backlink-item-wrap"><a href="Supernova%20spectroscopy.html" class="backlink-item">Supernova spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="Supernovae%20and%20compact%20remnants.html" class="backlink-item">Supernovae and compact remnants</a></li>
-    <li class="backlink-item-wrap"><a href="Surface%20brightness%20fluctuations.html" class="backlink-item">Surface brightness fluctuations</a></li>
-    <li class="backlink-item-wrap"><a href="Symbiotic%20star%20spectroscopy.html" class="backlink-item">Symbiotic star spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="TRGB%20tip%20of%20the%20red%20giant%20branch.html" class="backlink-item">TRGB tip of the red giant branch</a></li>
-    <li class="backlink-item-wrap"><a href="Variable%20stars%20as%20standard%20candles.html" class="backlink-item">Variable stars as standard candles</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Cepheid period-luminosity relation]]
+- [[Cepheids and supernovae]]
+- [[Cosmological constant]]
+- [[Deceleration parameter]]
+- [[Distance ladder derivations]]
+- [[Galactic novae spectroscopy]]
+- [[Hubble flow distances]]
+- [[Hubble law]]
+- [[Hubble's law and cosmological redshift]]
+- [[Limb darkening]]
+- [[Luminosity distance]]
+- [[Parallax and standard candles]]
+- [[Supernova Hubble diagram]]
+- [[Supernova spectroscopy]]
+- [[Supernovae and compact remnants]]
+- [[Surface brightness fluctuations]]
+- [[Symbiotic star spectroscopy]]
+- [[TRGB tip of the red giant branch]]
+- [[Variable stars as standard candles]]
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Observational_Astrophysics_MOC]]
+
 

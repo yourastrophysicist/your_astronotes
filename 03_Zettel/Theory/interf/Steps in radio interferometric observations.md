@@ -101,24 +101,21 @@ source: local workflow diagram generated from the standard radio-reduction seque
 
 ## see also
 
-- [Calibration overview](Calibration%20overview.html)
-- [Bandpass calibration](Bandpass%20calibration.html)
-- [Flux calibration](Flux%20calibration.html)
-- [Phase referencing](Phase%20referencing.html)
-- [Self-calibration](Self-calibration.html)
-- [CLEAN algorithm](CLEAN%20algorithm.html)
+- [[Calibration overview]]
+- [[Bandpass calibration]]
+- [[Flux calibration]]
+- [[Phase referencing]]
+- [[Self-calibration]]
+- [[CLEAN algorithm]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (8)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../ALMA%20exposure%20time%20calculator%20and%20sensitivity.html" class="backlink-item">ALMA exposure time calculator and sensitivity</a></li>
-    <li class="backlink-item-wrap"><a href="../Calibration%20overview.html" class="backlink-item">Calibration overview</a></li>
-    <li class="backlink-item-wrap"><a href="../Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="../Phase%20referencing.html" class="backlink-item">Phase referencing</a></li>
-    <li class="backlink-item-wrap"><a href="ALMA%20exposure%20time%20calculator%20and%20sensitivity.html" class="backlink-item">ALMA exposure time calculator and sensitivity</a></li>
-    <li class="backlink-item-wrap"><a href="Calibration%20overview.html" class="backlink-item">Calibration overview</a></li>
-    <li class="backlink-item-wrap"><a href="Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[ALMA exposure time calculator and sensitivity]]
+- [[Calibration overview]]
+- [[Figure bank - interferometry]]
+- [[Phase referencing]]
+- [[Astronomical_Interferometry_MOC]]
+
 

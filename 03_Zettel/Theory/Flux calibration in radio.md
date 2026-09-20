@@ -6,7 +6,7 @@ title: "Flux calibration in radio"
 
 set the *absolute* flux scale of a radio observation by tying it to a known reference. the second step (after bandpass) in radio data reduction. essential for any quantitative radio measurement.
 
-(for *spectroscopic* flux calibration, see [Flux calibration](interf/Flux%20calibration.html) for stellar spectra.)
+(for *spectroscopic* flux calibration, see [[Flux calibration]] for stellar spectra.)
 
 ## the issue
 
@@ -82,9 +82,9 @@ if "calibrator" is partially resolved, naive flux transfer underestimates the co
 
 ## see also
 
-- [Calibration overview](interf/Calibration%20overview.html)
-- [Bandpass calibration](interf/Bandpass%20calibration.html)
-- [Phase referencing](interf/Phase%20referencing.html)
-- [Self-calibration](interf/Self-calibration.html)
-- [Flux calibration](interf/Flux%20calibration.html) — for stellar spectra (different topic)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Calibration overview]]
+- [[Bandpass calibration]]
+- [[Phase referencing]]
+- [[Self-calibration]]
+- [[Flux calibration]] — for stellar spectra (different topic)
+- [[Astronomical_Interferometry_MOC]]

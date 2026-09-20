@@ -67,21 +67,21 @@ in extended atmospheres (Betelgeuse, R Doradus), the plane-parallel approximatio
 
 ## see also
 
-- [Eddington-Barbier approximation](Eddington-Barbier%20approximation.html)
-- [Optical depth](Optical%20depth.html)
-- [Source function](Source%20function.html)
-- [Stellar atmosphere structure](Stellar%20atmosphere%20structure.html)
-- [Equation of radiative transfer](Equation%20of%20radiative%20transfer.html)
-- [Bolometric correction and effective temperature](Bolometric%20correction%20and%20effective%20temperature.html)
-- [Type Ia supernovae as standard candles](Type%20Ia%20supernovae%20as%20standard%20candles.html) — uses transit-like analysis
+- [[Eddington-Barbier approximation]]
+- [[Optical depth]]
+- [[Source function]]
+- [[Stellar atmosphere structure]]
+- [[Equation of radiative transfer]]
+- [[Bolometric correction and effective temperature]]
+- [[Type Ia supernovae as standard candles]] — uses transit-like analysis
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Eddington-Barbier%20approximation.html" class="backlink-item">Eddington-Barbier approximation</a></li>
-    <li class="backlink-item-wrap"><a href="Equation%20of%20radiative%20transfer.html" class="backlink-item">Equation of radiative transfer</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20atmosphere%20structure.html" class="backlink-item">Stellar atmosphere structure</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Eddington-Barbier approximation]]
+- [[Equation of radiative transfer]]
+- [[Stellar atmosphere structure]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 

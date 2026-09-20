@@ -41,7 +41,7 @@ at fixed $T$, the D-line strength differs slightly between dwarfs and giants:
 - **dwarfs** (high pressure): more pressure broadening, broader Lorentzian wings, larger equivalent width.
 - **giants** (low pressure): less pressure broadening, narrower core, smaller wings.
 
-this is a **gravity discriminator**: at fixed spectral class, the D-doublet's wings are deeper for higher-gravity (smaller-radius) stars. used in [MK luminosity classes](MK%20luminosity%20classes.html) determination, especially in K and M.
+this is a **gravity discriminator**: at fixed spectral class, the D-doublet's wings are deeper for higher-gravity (smaller-radius) stars. used in [[MK luminosity classes]] determination, especially in K and M.
 
 ## D lines in the ISM and exospheres
 
@@ -51,23 +51,23 @@ separate from stellar spectroscopy:
 
 ## see also
 
-- [Sodium and alkalis](Sodium%20and%20alkalis.html)
-- [Boltzmann equation in spectroscopy](Boltzmann%20equation%20in%20spectroscopy.html)
-- [Saha ionisation equation](Saha%20ionisation%20equation.html)
-- [Population of excited levels](Population%20of%20excited%20levels.html)
-- [MK luminosity classes](MK%20luminosity%20classes.html)
-- [Stellar spectra and spectral classification](Stellar%20spectra%20and%20spectral%20classification.html)
-- [Why the Sequence OBAFGKM](Why%20the%20Sequence%20OBAFGKM.html)
-- [Interstellar absorption](Interstellar%20absorption.html)
+- [[Sodium and alkalis]]
+- [[Boltzmann equation in spectroscopy]]
+- [[Saha ionisation equation]]
+- [[Population of excited levels]]
+- [[MK luminosity classes]]
+- [[Stellar spectra and spectral classification]]
+- [[Why the Sequence OBAFGKM]]
+- [[Interstellar absorption]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="MK%20luminosity%20classes.html" class="backlink-item">MK luminosity classes</a></li>
-    <li class="backlink-item-wrap"><a href="Population%20of%20excited%20levels.html" class="backlink-item">Population of excited levels</a></li>
-    <li class="backlink-item-wrap"><a href="Sodium%20and%20alkalis.html" class="backlink-item">Sodium and alkalis</a></li>
-    <li class="backlink-item-wrap"><a href="Why%20the%20Sequence%20OBAFGKM.html" class="backlink-item">Why the Sequence OBAFGKM</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[MK luminosity classes]]
+- [[Population of excited levels]]
+- [[Sodium and alkalis]]
+- [[Why the Sequence OBAFGKM]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 
