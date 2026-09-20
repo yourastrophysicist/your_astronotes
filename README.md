@@ -7,10 +7,11 @@ title: "README"
 
 Welcome to the public archive for the Master of Science coursework in Astrophysics and Cosmology at the University of Padua (Università degli Studi di Padova), Italy, covering Semesters 1, 2, and 3.
 
-This repository is an interconnected working second brain compiled as an open graduate curriculum reference. It contains lecture syntheses, mathematical derivations, observational instrumentation notes, laboratory reductions, and theoretical foundations.
+This repository is an interconnected working second brain compiled and navigated by one voyager only as an open graduate curriculum reference. It contains lecture syntheses, mathematical derivations, observational instrumentation notes, laboratory reductions, and theoretical foundations.
 
-The vault is designed for physics and astrophysics undergraduates, beginning graduate students, and independent researchers who want to study astrophysical material from first principles.
+The vault documents the solo journey of one voyager only through physics, mathematics, and cosmology, open for undergraduates, graduate students, and independent researchers who want to study astrophysical material from first principles.
 
+* **Compiler**: One voyager only
 * **Live Website**: [https://yourastrophysicist.github.io/your_astronotes/](https://yourastrophysicist.github.io/your_astronotes/)
 * **Instagram**: [@your.astrophysicist](https://instagram.com/your.astrophysicist)
 * **GitHub**: [yourastrophysicist/your_astronotes](https://github.com/yourastrophysicist/your_astronotes)

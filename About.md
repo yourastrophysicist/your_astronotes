@@ -7,12 +7,13 @@ title: About Your AstroNotes
 
 Welcome to the public archive of Master of Science coursework notes in Astrophysics and Cosmology from the University of Padua (Università degli Studi di Padova), Italy, spanning Semesters 1, 2, and 3.
 
-This project transforms an interconnected graduate study vault into an open-access digital garden for astrophysics students, researchers, and self-directed learners.
+This project transforms an interconnected graduate study vault into an open-access digital garden, compiled, derived, and explored by one voyager only.
 
 ---
 
 ## Author and Compiler
 
+* **Compiler**: One voyager only
 * **Institution**: Università degli Studi di Padova — Dipartimento di Fisica e Astronomia
 * **Instagram**: [@your.astrophysicist](https://instagram.com/your.astrophysicist)
 * **GitHub Profile**: [yourastrophysicist](https://github.com/yourastrophysicist)
@@ -105,7 +106,7 @@ The vault is organized following an interconnected Zettelkasten framework:
 * **04_Atlas/**: 17 comprehensive course Maps of Content and the central [[04_Atlas|04_Atlas Hub]]. Start here for curricular syllabi and course roadmaps.
 * **02_Literature/**: Detailed lecture syntheses, slide transcriptions, and reference literature breakdowns across all courses.
 * **03_Zettel/**: Over 1,300 atomic concept notes. Each note focuses on a discrete physical principle, derivation, or computational method with bilateral cross-links.
-* **ssets/images/**: 2,870 high-resolution astronomical diagrams, instrument schematics, ray tracings, and observational data plots.
+* **assets/images/**: 2,870 high-resolution astronomical diagrams, instrument schematics, ray tracings, and observational data plots.
 
 ---
 
