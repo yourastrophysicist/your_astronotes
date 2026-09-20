@@ -129,6 +129,16 @@ $$P_{\text{TTV}} = \frac{1}{\left\lvert \frac{j}{P_2} - \frac{j - 1}{P_1} \right
 
 ---
 
+## Literature & Primary Sources
+
+Canonical and modern arXiv astro-ph.EP benchmark papers underlying the atmospheric characterization, migration, and interior-structure physics above.
+
+- [Rustamkulov et al. (2023) — WASP-39b JWST NIRSpec PRISM](../02_Literature/Papers/10_Exoplanetary_Astrophysics/Rustamkulov_2023_WASP-39b_JWST_CO2_Detection.html) — first exoplanet CO$_2$ detection, photochemical SO$_2$
+- [Kley & Nelson (2012) — Planet-Disk Interaction and Orbital Evolution](../02_Literature/Papers/10_Exoplanetary_Astrophysics/Kley_Nelson_2012_Planet_Disk_Interaction_Migration.html) — Type I/II migration torque formalism
+- [Fortney, Marley & Barnes (2007) — Planetary Radii Across Five Orders of Magnitude](../02_Literature/Papers/10_Exoplanetary_Astrophysics/Fortney_Marley_Barnes_2007_Planetary_Mass_Radius_Relationships.html) — mass-radius-insolation model grid
+
+---
+
 ## Related Vault MOCs and Curricular Modules
 - [Astrophysics Laboratory 2 MOC](Astrophysics_Laboratory_2_MOC.html) — Observational data reduction, CCD calibrations, aperture photometry, and TASTE light curve modeling.
 - [Computational Astrophysics MOC](Computational_Astrophysics_MOC.html) — High-performance computing, MCMC Bayesian parameter estimation, nested sampling, and radiative transfer.

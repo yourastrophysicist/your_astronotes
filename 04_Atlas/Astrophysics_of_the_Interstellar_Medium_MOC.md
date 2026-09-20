@@ -128,6 +128,16 @@ frequently asked questions in Padova oral examinations for this course:
 
 ---
 
+## Literature & Primary Sources
+
+Canonical and modern arXiv astro-ph.GA benchmark papers underlying the turbulence, dust-emission, and star-formation physics above.
+
+- [Larson (1981) — Turbulence and Star Formation in Molecular Clouds](../02_Literature/Papers/12_Interstellar_Medium/Larson_1981_Turbulence_Star_Formation_Molecular_Clouds.html) — Larson's relations, turbulent Jeans mass
+- [Draine & Li (2007) — Infrared Emission from Interstellar Dust IV](../02_Literature/Papers/12_Interstellar_Medium/Draine_Li_2007_Infrared_Emission_Dust_PAH.html) — stochastic grain heating, the DL07 silicate-graphite-PAH model
+- [Meidt et al. (2023) — PHANGS-JWST ISM Structure on the Turbulent Jeans Scale](../02_Literature/Papers/12_Interstellar_Medium/Meidt_2023_PHANGS_JWST_ISM_Structure.html) — JWST/ALMA-resolved filament/shell network, turbulent Jeans fragmentation test
+
+---
+
 ## see also
 
 - Master Year 2 Semester 1 Timetable
