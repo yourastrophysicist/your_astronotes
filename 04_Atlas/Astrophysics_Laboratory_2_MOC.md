@@ -131,6 +131,16 @@ Statistical parameter inference, Markov Chain Monte Carlo sampling, and converge
 
 ---
 
+## Literature & Primary Sources
+
+Canonical and modern arXiv astro-ph.EP / astro-ph.IM benchmark papers underlying the transit modeling, detrending, and limb-darkening techniques above.
+
+- [Mandel & Agol (2002) — Analytic Light Curves for Planetary Transit Searches](../02_Literature/Papers/01_Astrophysics_Laboratory_2/Mandel_Agol_2002_Analytic_Transit_Light_Curves.html) — elliptic-integral transit light curve formalism
+- [Foreman-Mackey et al. (2017) — Fast and Scalable GP Modeling with celerite](../02_Literature/Papers/01_Astrophysics_Laboratory_2/Foreman-Mackey_2017_Celerite_Scalable_GP.html) — $\mathcal{O}(N)$ Gaussian Process regression for light-curve detrending
+- [Kipping (2013) — Efficient, Uninformative Sampling of Limb Darkening Coefficients](../02_Literature/Papers/01_Astrophysics_Laboratory_2/Kipping_2013_Efficient_Limb_Darkening_Sampling.html) — $(q_1,q_2)$ reparametrization for MCMC limb-darkening priors
+
+---
+
 ## Cross-Course Connections
 
 - [Exoplanetary_Astrophysics_MOC](Exoplanetary_Astrophysics_MOC.html) — planetary formation, migration, interior structure, and atmospheric dynamics

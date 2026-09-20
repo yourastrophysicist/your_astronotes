@@ -306,6 +306,16 @@ every interferometry exam question maps to one of these boxes. recognising the b
 
 ---
 
+## Literature & Primary Sources
+
+Canonical and modern arXiv astro-ph.IM benchmark papers underlying the interferometric theory and calibration techniques above.
+
+- [Monnier (2003) — Optical Interferometry in Astronomy](../02_Literature/Papers/03_Astronomical_Interferometry/Monnier_2003_Optical_Interferometry_in_Astronomy.html) — Van Cittert-Zernike theorem, closure phase/amplitude derivations
+- [GRAVITY Collaboration (2018) — Orbital Motions Near the ISCO of Sgr A*](../02_Literature/Papers/03_Astronomical_Interferometry/GRAVITY_Collaboration_2018_Orbital_Motion_ISCO_SgrA.html) — VLTI astrometric phase-referencing, strong-field orbital motion
+- [ALMA Partnership (2015) — The 2014 ALMA Long Baseline Campaign (HL Tau)](../02_Literature/Papers/03_Astronomical_Interferometry/ALMA_Partnership_2015_HL_Tau_Long_Baseline_Campaign.html) — long-baseline aperture synthesis, protoplanetary disk substructure
+
+---
+
 ## related MOCs and where this work leaks into
 
 - [Observational_Cosmology_MOC](Observational_Cosmology_MOC.html) — radio surveys, ALMA continuum studies of high-$z$ galaxies
