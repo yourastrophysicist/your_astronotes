@@ -176,6 +176,16 @@ Master problem solving compendium covering all 31 homework problems assigned by 
 
 ---
 
+## Literature & Primary Sources
+
+Canonical and modern arXiv astro-ph.CO/gr-qc benchmark papers underlying the inflationary and perturbation-theory formalism above.
+
+- [Baumann (2009) — TASI Lectures on Inflation](../02_Literature/Papers/09_Cosmology_Early_Universe/Baumann_2009_TASI_Lectures_on_Inflation.html) — slow-roll formalism, scalar/tensor power spectra, $r=16\epsilon$
+- [BICEP/Keck Collaboration (2021) — Improved Constraints on Primordial Gravitational Waves](../02_Literature/Papers/09_Cosmology_Early_Universe/BICEP_Keck_2021_Primordial_Gravitational_Waves.html) — B-mode polarization, $r_{0.05}<0.036$
+- [Mukhanov, Feldman & Brandenberger (1992) — Theory of Cosmological Perturbations](../02_Literature/Papers/09_Cosmology_Early_Universe/Mukhanov_Feldman_Brandenberger_1992_Cosmological_Perturbations.html) — gauge-invariant formalism, the Mukhanov-Sasaki equation
+
+---
+
 ## Dynamic Vault Index
 
 ```dataview

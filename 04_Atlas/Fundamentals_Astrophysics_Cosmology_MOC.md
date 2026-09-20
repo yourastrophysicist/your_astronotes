@@ -199,6 +199,17 @@ From primordial quantum fluctuations to linear perturbation growth, gravitationa
 
 ---
 
+## Literature & Primary Sources
+
+Canonical and modern arXiv astro-ph.CO benchmark papers underlying the thermal-history and distance-ladder physics above.
+
+- [Peebles (1968) — Recombination of the Primeval Plasma](../02_Literature/Papers/07_Fundamentals_Astrophysics_Cosmology/Peebles_1968_Recombination_of_the_Primeval_Plasma.html) — non-equilibrium recombination, the Peebles $C$-factor and $2s$-$1s$ bottleneck
+- [Fields, Molaro & Sarkar (2020) — BBN After Planck](../02_Literature/Papers/07_Fundamentals_Astrophysics_Cosmology/Fields_Molaro_Sarkar_2020_BBN_After_Planck.html) — parameter-free BBN test, the persistent lithium problem
+- [Planck Collaboration (2020) — Planck 2018 VI: Cosmological Parameters](../02_Literature/Papers/07_Fundamentals_Astrophysics_Cosmology/Planck_Collaboration_2020_Cosmological_Parameters.html) — base $\Lambda$CDM parameters, model-dependent $H_0$
+- [Riess et al. (2022) — SH0ES $H_0$ Measurement](../02_Literature/Papers/07_Fundamentals_Astrophysics_Cosmology/Riess_2022_SH0ES_Hubble_Constant.html) — distance-ladder $H_0$, the $5\sigma$ Hubble tension
+
+---
+
 ## Appendix — Master Figure Index (100% Slide Integration)
 
 all **433 lecture slide figures** from the 9 official course PDFs live in `07_Images/Fundamentals_Astro_Cosmology/` and are embedded across the Zettel notes:
