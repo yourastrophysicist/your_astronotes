@@ -217,6 +217,8 @@ a fifth prediction: there is an **event horizon** at $r = 2GM$, a one-way membra
 - [Light deflection](../03_Zettel/Theory/Light%20deflection.html) the $1.75''$
 - [Eddington-Finkelstein and Kruskal](../03_Zettel/Theory/Eddington-Finkelstein%20and%20Kruskal.html) coordinates that pass through the horizon smoothly
 
+beyond this course's syllabus (not examined here, but the natural rotating generalization, used heavily in [[Lab_High-Energy_MOC]]): [Kerr Metric Horizon and Ergosphere Geometry](../03_Zettel/Theory/Kerr%20Metric%20Horizon%20and%20Ergosphere%20Geometry.html) and [Innermost Stable Circular Orbit ISCO](../03_Zettel/Theory/Innermost%20Stable%20Circular%20Orbit%20ISCO.html) generalize the $r=6GM$ Schwarzschild ISCO above to a spin-dependent $r_{\rm ISCO}(a_*)$ ranging from $M$ to $9M$.
+
 questions in this block: Q11 - selected Schwarzschild Christoffels, Q12 - circular orbits and orbital frequency, Q13 - radial infall and proper time, Q14 - photon trajectory and impact parameter.
 
 reading: [Ch 5 - The Einstein Equation](../02_Literature/Book/Baumann%20GR/Ch%205%20-%20The%20Einstein%20Equation.html) (Schwarzschild derivation), [Ch 6 - Black Holes](../02_Literature/Book/Baumann%20GR/Ch%206%20-%20Black%20Holes.html) (deep cuts on horizons, Kruskal, Penrose diagrams).

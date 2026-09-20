@@ -104,6 +104,10 @@ The physics of what produces X-ray and gamma-ray emission.
 The extreme sources we observe.
 
 - [Accretion onto compact objects](../03_Zettel/Theory/Accretion%20onto%20compact%20objects.html) — $L_{acc} = \eta\dot{m}c^2$, $L_{Edd} \approx 1.3\times10^{38}(M/M_\odot)$ erg/s, $T(r) \propto r^{-3/4}$, ISCO, XRBs, AGN unified model
+- [Kerr Metric Horizon and Ergosphere Geometry](../03_Zettel/Theory/Kerr%20Metric%20Horizon%20and%20Ergosphere%20Geometry.html) — horizon radii $r_\pm$, ergosphere $r_{\rm ergo}(\theta)$, ZAMO/horizon angular velocity $\Omega_H$
+- [Innermost Stable Circular Orbit ISCO](../03_Zettel/Theory/Innermost%20Stable%20Circular%20Orbit%20ISCO.html) — spin-dependent $r_{\rm ISCO}(a_*)$, accretion radiative efficiency $\eta(a_*)$ from $0.057$ to $0.42$
+- [Blandford-Znajek Mechanism](../03_Zettel/Theory/Blandford-Znajek%20Mechanism.html) — spin-powered jet extraction, $P_{BZ}=\frac{\kappa}{4\pi c}\Phi_H^2\Omega_H^2$, membrane paradigm
+- [Relativistic Iron Line Profiles](../03_Zettel/Theory/Relativistic%20Iron%20Line%20Profiles.html) — disk-line redshift factor $g(r,\phi,i)$, double-horned profile, spin diagnostics via the red wing
 
 ---
 
