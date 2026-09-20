@@ -1,4 +1,39 @@
-﻿.sass-cache/
+# Large binaries and documents
+*.pdf
+*.mp4
+*.mkv
+*.mov
+*.zip
+*.tar*
+*.iso
+*.fits
+*.h5
+*.ajson
+*.ics
+._*
+
+# Local AI plugins cache & vector DBs
+.smart-env/
+
+# Obsidian local cache & workspace state
+.obsidian/workspace*
+.obsidian/cache*
+.obsidian/indexeddb*
+.obsidian/plugins/git-obsi-sync/data.json
+.obsidian/plugins/google-drive-sync/data.json
+.obsidian/
+.trash/
+
+# Private/personal vault directories not part of published site
+/00_Inbox/
+/01_Fleeting/
+/05_Projects/
+/06_Archives/
+/07_Images/
+/TaskNotes/
+
+# Jekyll / static site build
+.sass-cache/
 .jekyll-cache/
 .jekyll-metadata
 _site/
