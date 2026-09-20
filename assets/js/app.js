@@ -284,6 +284,106 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   });
 
+  // --- 4b. Dynamic Obsidian WikiLink [[...]] Resolver ---
+  function resolveWikiLinks() {
+    const pages = window.sitePages || (typeof sitePages !== 'undefined' && Array.isArray(sitePages) ? sitePages : []);
+    if (!pages || pages.length === 0) return;
+
+    const pageByTitle = new Map();
+    const pageByBasename = new Map();
+
+    pages.forEach(p => {
+      if (!p || !p.url) return;
+      if (p.title) {
+        pageByTitle.set(p.title.trim().toLowerCase(), p.url);
+      }
+      if (p.path) {
+        const parts = p.path.split('/');
+        const fname = parts[parts.length - 1];
+        const base = fname.replace(/\.md$/, '').trim().toLowerCase();
+        pageByBasename.set(base, p.url);
+      }
+    });
+
+    const markdownBody = document.querySelector('.markdown-body');
+    if (!markdownBody) return;
+
+    const walker = document.createTreeWalker(
+      markdownBody,
+      NodeFilter.SHOW_TEXT,
+      {
+        acceptNode: (node) => {
+          const parent = node.parentElement;
+          if (!parent) return NodeFilter.FILTER_REJECT;
+          const tag = parent.tagName.toLowerCase();
+          if (tag === 'code' || tag === 'pre' || tag === 'script' || tag === 'style' || tag === 'a') {
+            return NodeFilter.FILTER_REJECT;
+          }
+          if (node.nodeValue && node.nodeValue.includes('[[')) {
+            return NodeFilter.FILTER_ACCEPT;
+          }
+          return NodeFilter.FILTER_SKIP;
+        }
+      }
+    );
+
+    const nodesToReplace = [];
+    while (walker.nextNode()) {
+      nodesToReplace.push(walker.currentNode);
+    }
+
+    const wikiRegex = /\[\[([^\]|#]+)(?:#([^\]|]+))?(?:\|([^\]]+))?\]\]/g;
+
+    nodesToReplace.forEach(textNode => {
+      const text = textNode.nodeValue;
+      if (!text || !text.includes('[[')) return;
+      wikiRegex.lastIndex = 0;
+
+      const frag = document.createDocumentFragment();
+      let lastIdx = 0;
+      let match;
+
+      while ((match = wikiRegex.exec(text)) !== null) {
+        const fullMatch = match[0];
+        const target = match[1].trim();
+        const anchor = match[2] ? '#' + encodeURIComponent(match[2].trim()) : '';
+        const displayText = match[3] ? match[3].trim() : target;
+
+        if (match.index > lastIdx) {
+          frag.appendChild(document.createTextNode(text.substring(lastIdx, match.index)));
+        }
+
+        const key = target.toLowerCase();
+        const resolvedUrl = pageByTitle.get(key) || pageByBasename.get(key);
+
+        if (resolvedUrl) {
+          const a = document.createElement('a');
+          a.href = resolvedUrl + anchor;
+          a.className = 'internal-link';
+          a.textContent = displayText;
+          frag.appendChild(a);
+        } else {
+          const span = document.createElement('span');
+          span.className = 'internal-link-unresolved';
+          span.textContent = displayText;
+          frag.appendChild(span);
+        }
+
+        lastIdx = wikiRegex.lastIndex;
+      }
+
+      if (lastIdx < text.length) {
+        frag.appendChild(document.createTextNode(text.substring(lastIdx)));
+      }
+
+      if (textNode.parentNode) {
+        textNode.parentNode.replaceChild(frag, textNode);
+      }
+    });
+  }
+
+  resolveWikiLinks();
+
   // --- 5. Interactive Local Graph View ---
   const canvas = document.getElementById('graph-canvas');
   const tooltip = document.getElementById('graph-tooltip');
