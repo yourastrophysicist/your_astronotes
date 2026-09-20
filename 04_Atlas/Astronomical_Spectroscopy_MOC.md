@@ -206,6 +206,16 @@ quick-reference summary of what each line ratio tells you. this is the "exam ans
 - [Stellar v sin i from line shape](../03_Zettel/Theory/Stellar%20v%20sin%20i%20from%20line%20shape.html) — rotational broadening profile, $v\sin i$ from line-fit codes (rotbroad, ULySS)
 - [Curve of growth abundance analysis](../03_Zettel/Theory/Curve%20of%20growth%20abundance%20analysis.html) — log $gf$ + EW + atmospheric model $\to$ chemical abundances
 
+---
+
+## Literature & Primary Sources
+
+Canonical and modern arXiv astro-ph.SR/GA benchmark papers underlying the abundance-analysis and spectral-diagnostic techniques above.
+
+- [Asplund et al. (2009) — The Chemical Composition of the Sun](../02_Literature/Papers/04_Astronomical_Spectroscopy/Asplund_2009_Chemical_Composition_of_the_Sun.html) — 3D RHD solar abundance redetermination, solar modeling problem
+- [Nissen & Gustafsson (2018) — High-Precision Stellar Abundances](../02_Literature/Papers/04_Astronomical_Spectroscopy/Nissen_Gustafsson_2018_High_Precision_Stellar_Abundances.html) — differential line-by-line abundance methodology
+- [Maiolino et al. (2024) — JADES Infant Black Holes at 4 < z < 11](../02_Literature/Papers/04_Astronomical_Spectroscopy/Maiolino_2024_JADES_Broad_Line_AGN_High_Redshift.html) — JWST/NIRSpec broad-H$\alpha$ virial black-hole masses at high redshift
+
 ## connections to other MOCs
 
 - [Observational_Astrophysics_MOC](Observational_Astrophysics_MOC.html) — the broadband / photometric counterpart. magnitudes count photons; spectroscopy *resolves* them.

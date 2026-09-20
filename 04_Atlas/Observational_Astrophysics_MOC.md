@@ -166,6 +166,16 @@ The inverse problem: decoding unresolved galaxy light into physical parameters. 
 
 ---
 
+## Literature & Primary Sources
+
+Canonical and modern arXiv astro-ph.IM benchmark papers underlying the detector characterization, adaptive optics, and survey design covered above.
+
+- [Janesick (2001) — Scientific CCDs and the Photon Transfer Method](../02_Literature/Papers/05_Observational_Astrophysics/Janesick_2001_CCD_Photon_Transfer_Method.html) — empirical gain/read-noise/PRNU extraction from flat-field sequences
+- [Guyon (2018) — Extreme Adaptive Optics](../02_Literature/Papers/05_Observational_Astrophysics/Guyon_2018_Extreme_Adaptive_Optics.html) — Strehl ratio, wavefront-error budget, high-contrast imaging architectures
+- [Ivezić et al. (2019) — LSST: Science Drivers to Reference Design](../02_Literature/Papers/05_Observational_Astrophysics/Ivezic_2019_LSST_Science_Drivers_Reference_Design.html) — Rubin Observatory design, survey error budget, self-calibration
+
+---
+
 ## Prof. Paolo Cassata Oral Exam Defense Preparation Matrix
 
 This matrix prepares the student for the exact questions asked by Prof. Paolo Cassata, drawn directly from the verified course exam drafts (`obs1.pdf` through `obs7.pdf`).

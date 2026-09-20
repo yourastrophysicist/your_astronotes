@@ -358,6 +358,17 @@ Empirical relations revealing virial equilibrium, homology, and star formation e
 
 ---
 
+## Literature & Primary Sources
+
+Canonical and modern arXiv astro-ph.GA/HE benchmark papers underlying the dark-matter halo, luminosity-function, and SMBH-scaling-relation physics above.
+
+- [Navarro, Frenk & White (1997) — A Universal Density Profile](../02_Literature/Papers/06_Astrophysics_of_Galaxies/Navarro_Frenk_White_1997_NFW_Universal_Density_Profile.html) — NFW profile, enclosed mass, mass-concentration relation
+- [Schechter (1976) — An Analytic Expression for the Luminosity Function of Galaxies](../02_Literature/Papers/06_Astrophysics_of_Galaxies/Schechter_1976_Galaxy_Luminosity_Function.html) — Schechter function, faint-end slope, bright-end cutoff
+- [Kormendy & Ho (2013) — Coevolution of SMBHs and Host Galaxies](../02_Literature/Papers/06_Astrophysics_of_Galaxies/Kormendy_Ho_2013_SMBH_Host_Galaxy_Coevolution.html) — $M_\bullet$-$\sigma$ relation, classical bulge vs. pseudobulge
+- [Peterson (2014) — Measuring the Masses of Supermassive Black Holes](../02_Literature/Papers/06_Astrophysics_of_Galaxies/Peterson_2014_SMBH_Reverberation_Mapping.html) — reverberation mapping, virial mass estimator, radius-luminosity relation
+
+---
+
 ## Prof. Alessandro Pizzella Oral Exam Defense Preparation Matrix
 
 This defense matrix prepares the student for typical examination questions asked by **Prof. Alessandro Pizzella**, drawn from the course lectures and student LaTeX synthesis notes.
