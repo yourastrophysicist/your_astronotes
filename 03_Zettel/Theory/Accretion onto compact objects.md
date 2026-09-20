@@ -42,14 +42,20 @@ This makes accretion far more efficient than nuclear fusion ($\eta_{nuc} \approx
 There is a maximum luminosity at which accretion can occur,
 	set by the balance between **radiation pressure** (outward) and **gravity** (inward)
 
-$$L_{Edd} = \frac{4\pi G M m_p c}{\sigma_T} \approx 1.3 \times 10^{38} \left(\frac{M}{M_\odot}\right)~\text{erg s}^{-1}$$
+**Derivation.** Consider a fully ionized hydrogen plasma at radius $r$ from a compact object of mass $M$. Radiation pressure acts on the free electrons via Thomson scattering (cross-section $\sigma_T$), while gravity acts on the much heavier protons that are electrostatically bound to those electrons — so the outward radiation force on an electron-proton pair is transmitted to the proton's inertia via the Coulomb coupling. The outward radiative force per electron is
+$$F_{\rm rad} = \frac{\sigma_T\,F(r)}{c}, \qquad F(r) = \frac{L}{4\pi r^2}$$
+and the inward gravitational force on the associated proton is
+$$F_{\rm grav} = \frac{GMm_p}{r^2}$$
+Setting $F_{\rm rad}=F_{\rm grav}$ and solving for the luminosity at which the two exactly balance:
+$$\boxed{\, L_{\rm Edd} = \frac{4\pi GMm_pc}{\sigma_T} \approx 1.3\times10^{38}\left(\frac{M}{M_\odot}\right)\,{\rm erg\,s^{-1}} \,}$$
+where:
+- $m_p$ is the proton mass
+- $\sigma_T = 6.65\times10^{-25}\,{\rm cm^2}$ is the Thomson cross section
 
-where
-	$m_p$ is the proton mass
-	$\sigma_T$ is the Thomson cross section
+**Asymptotic check**: for $r\to\infty$, $F(r)\to0$ and radiation force becomes negligible relative to gravity at any finite luminosity — the Eddington limit is a statement about the luminosity-to-mass ratio, not about distance, precisely because both forces share the same $r^{-2}$ scaling and the balance condition is radius-independent.
 
-If $L > L_{Edd}$, radiation pressure halts the accretion flow
-	this sets an upper limit on the accretion rate $\dot{m}_{Edd}$
+If $L > L_{Edd}$, radiation pressure halts (or drives outflowing) the accretion flow
+	this sets an upper limit on the steady accretion rate $\dot{m}_{\rm Edd} = L_{\rm Edd}/(\eta c^2)$
 
 ---
 
@@ -65,6 +71,9 @@ $$T(r) \propto r^{-3/4}$$
 
 The innermost stable circular orbit (**ISCO**) defines the inner edge of the disk
 	for a Schwarzschild (non-spinning) black hole: $r_{ISCO} = 6 r_g = 6 \frac{GM}{c^2}$
+	for a spinning (Kerr) black hole, $r_{ISCO}$ shrinks toward $r_g$ as spin increases — see [[Innermost Stable Circular Orbit ISCO]] for the full spin-dependent derivation
+
+The radiative efficiency $\eta$ quoted above is not a free parameter: it is fixed by how much specific binding energy remains at the ISCO, $\eta = 1-E_{\rm ISCO}/mc^2$, which is why $\eta$ rises from $\approx0.057$ (Schwarzschild) to $\approx0.42$ (maximal prograde Kerr) — see [[Innermost Stable Circular Orbit ISCO]] and [[Bardeen_Press_Teukolsky_1972_Rotating_Black_Holes]].
 
 Emission peaks in:
 	**soft X-rays** for XRBs ($T \sim 10^6$–$10^7~\text{K}$)
@@ -109,6 +118,18 @@ AGN emit across the entire electromagnetic spectrum
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Emmaalexander_unified_agn.png/500px-Emmaalexander_unified_agn.png)
 <font color="#bfbfbf">The unified model of AGN. The central SMBH and accretion disk are surrounded by a dusty torus. Different observational classes (Seyfert 1, Seyfert 2, blazar) correspond to the same physical object viewed at different inclination angles with respect to the torus.</font>
+
+## Primary Literature
+
+- **Shakura & Sunyaev (1973)**, *A&A* 24, 337 — the $\alpha$-disk model deriving $T(r)\propto r^{-3/4}$ from first principles. Full synthesis: [[Shakura_Sunyaev_1973_Thin_Accretion_Disk_Theory]].
+- **Bardeen, Press & Teukolsky (1972)**, *ApJ* 178, 347 — the ISCO and accretion-efficiency formulas used above. Full synthesis: [[Bardeen_Press_Teukolsky_1972_Rotating_Black_Holes]].
+
+## see also
+
+- [[Innermost Stable Circular Orbit ISCO]]
+- [[Kerr Metric Horizon and Ergosphere Geometry]]
+- [[Blandford-Znajek Mechanism]]
+- [[Relativistic Iron Line Profiles]]
 
 <div class="backlinks-section">
   <h4 class="backlinks-title">Linked References (3)</h4>
