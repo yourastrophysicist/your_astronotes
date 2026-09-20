@@ -30,7 +30,7 @@ Inside the ionized volume, hydrogen is virtually completely ionized, so $n_e \ap
 ### Case A versus Case B Recombination
 Radiative recombination can occur directly to the ground state ($n=1$) or to any excited state ($n \ge 2$).
 1. Case A Recombination - Applicable only to optically thin clouds where all emitted photons escape. Recombinations directly to the ground state ($n=1$) emit a secondary photon with energy $h\nu \ge 13.6$ eV.
-2. Case B Recombination (On-the-spot approximation) - In real astrophysical nebulae, the optical depth at the Lyman limit is huge ($	au_0 \gg 1$). Any photon emitted by recombination directly into the ground state has $h\nu \ge 13.6$ eV and is absorbed almost immediately on the spot by a neighboring neutral hydrogen atom, causing a new ionization. Therefore, recombinations to $n=1$ produce zero net destruction of ions.
+2. Case B Recombination (On-the-spot approximation) - In real astrophysical nebulae, the optical depth at the Lyman limit is huge ($\tau_0 \gg 1$). Any photon emitted by recombination directly into the ground state has $h\nu \ge 13.6$ eV and is absorbed almost immediately on the spot by a neighboring neutral hydrogen atom, causing a new ionization. Therefore, recombinations to $n=1$ produce zero net destruction of ions.
 Only recombinations to excited states ($n \ge 2$) result in net recombination, as the subsequent cascade downward emits Balmer, Paschen, or two-photon continuum photons with $h\nu < 13.6$ eV, which escape the nebula without ionizing hydrogen.
 
 The effective Case B recombination coefficient is the sum over all states with principal quantum number $n \ge 2$
@@ -104,7 +104,7 @@ $$n_{\rm crit} \equiv \frac{\sum_{i < k} A_{ki}}{q_{ki}}$$
 ## 4. Spectroscopic Diagnostics of Physical Conditions
 
 ### Electron Temperature Diagnostic via $[\text{O III}]$
-The doubly ionized oxygen ion ($	ext{O}^{++}$) exhibits a three-level ground configuration ($2p^2$) - ground state $^3P_{0,1,2}$, intermediate metastable level $^1D_2$ (excitation energy $E_2 / k_B \approx 28900$ K), and upper metastable level $^1S_0$ (excitation energy $E_3 / k_B \approx 61900$ K).
+The doubly ionized oxygen ion ($\text{O}^{++}$) exhibits a three-level ground configuration ($2p^2$) - ground state $^3P_{0,1,2}$, intermediate metastable level $^1D_2$ (excitation energy $E_2 / k_B \approx 28900$ K), and upper metastable level $^1S_0$ (excitation energy $E_3 / k_B \approx 61900$ K).
 - Nebular lines - Transitions from $^1D_2 \to\ ^3P_2$ ($\lambda 5007$) and $^1D_2 \to\ ^3P_1$ ($\lambda 4959$).
 - Auroral line - Transition from $^1S_0 \to\ ^1D_2$ ($\lambda 4363$).
 
@@ -115,7 +115,7 @@ In the typical nebular low-density limit ($n_e < 10^4 \text{ cm}^{-3}$), the den
 A measured ratio of $\approx 100$ corresponds to $T_e \approx 10000$ K. A ratio of $\approx 30$ indicates a much hotter nebula ($T_e \approx 15000$ K, characteristic of low-metallicity gas where metal line cooling is suppressed).
 
 ### Electron Density Diagnostic via $[\text{S II}]$
-The singly ionized sulfur ion ($	ext{S}^+$) has a ground configuration ($3p^3$) with a $^4S_{3/2}$ ground state and two closely spaced excited levels $^2D_{5/2}$ ($\lambda 6716$) and $^2D_{3/2}$ ($\lambda 6731$).
+The singly ionized sulfur ion ($\text{S}^+$) has a ground configuration ($3p^3$) with a $^4S_{3/2}$ ground state and two closely spaced excited levels $^2D_{5/2}$ ($\lambda 6716$) and $^2D_{3/2}$ ($\lambda 6731$).
 Because both levels have virtually identical excitation energies ($E/k_B \approx 21400$ K), the ratio of their collisional excitation rates from the ground state depends purely on the ratio of their statistical weights ($\omega = 2J+1$)
 $$\frac{q(1 \to 2D_{5/2})}{q(1 \to 2D_{3/2})} = \frac{\omega(2D_{5/2})}{\omega(2D_{3/2})} = \frac{6}{4} = 1.5$$
 However, their spontaneous decay rates differ significantly ($A_{6716} = 2.6 \times 10^{-4} \text{ s}^{-1}$ vs $A_{6731} = 8.8 \times 10^{-4} \text{ s}^{-1}$), yielding critical densities of $1.5 \times 10^3 \text{ cm}^{-3}$ and $3.9 \times 10^3 \text{ cm}^{-3}$.

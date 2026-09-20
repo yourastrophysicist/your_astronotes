@@ -18,14 +18,14 @@ The ultraviolet $\text{NUV} - r$ color is particularly sensitive to star formati
 
 ### Transit Timescale
 The small number density of galaxies in the green valley relative to the red sequence and blue cloud requires a short transit timescale -
-$$	au_{\mathrm{transit}} \approx 1.0 - 1.5 \text{ Gyr}$$
-If the transition were slow ($	au > 5$ Gyr), galaxies would accumulate in the green valley, eliminating the observed bimodal color distribution.
+$$\tau_{\mathrm{transit}} \approx 1.0 - 1.5 \text{ Gyr}$$
+If the transition were slow ($\tau > 5$ Gyr), galaxies would accumulate in the green valley, eliminating the observed bimodal color distribution.
 
 ---
 
 ## 2. Fast Quenching Channel (Dynamical / Catastrophic Mode)
 
-The fast quenching channel operates on rapid dynamical timescales ($	au_{\mathrm{quench}} \lesssim 0.3 - 0.5$ Gyr) and is triggered by violent, gas-rich events.
+The fast quenching channel operates on rapid dynamical timescales ($\tau_{\mathrm{quench}} \lesssim 0.3 - 0.5$ Gyr) and is triggered by violent, gas-rich events.
 
 ### Physical Mechanism Sequence
 1. **Gas-Rich Major Merger** - Infalling gas-rich disk galaxies collide. Gravitational torques destroy circular orbital support, funneling vast reservoirs of cold molecular gas into the central kiloparsec at rates exceeding $100 \, M_\odot \text{ yr}^{-1}$.
@@ -38,12 +38,11 @@ The fast quenching channel operates on rapid dynamical timescales ($	au_{\mathrm
 
 ## 3. Slow Quenching Channel (Secular / Environmental Mode)
 
-The slow quenching channel operates on gas exhaustion timescales ($	au_{\mathrm{quench}} \sim 2 - 4$ Gyr), preserving the disc morphology of the galaxy.
+The slow quenching channel operates on gas exhaustion timescales ($\tau_{\mathrm{quench}} \sim 2 - 4$ Gyr), preserving the disc morphology of the galaxy.
 
 ### Physical Mechanisms
 1. **Gas Starvation (Strangulation)** - As a galaxy falls into a massive dark matter halo or galaxy cluster, the diffuse hot circumgalactic gas reservoir is stripped by tidal forces and intracluster medium (ICM) hydrodynamic pressure. Deprived of new fuel replenishment from cosmological cold streams, the galaxy continues forming stars only until its existing cold interstellar gas is consumed via the Kennicutt-Schmidt star formation law -
-   $$	au_{\mathrm{exhaust}} = \frac{M_{\mathrm{HI}} + M_{
-m H_2}}{\text{SFR}} \sim 2 - 3 \text{ Gyr}$$
+   $$\tau_{\mathrm{exhaust}} = \frac{M_{\mathrm{HI}} + M_{\rm H_2}}{\text{SFR}} \sim 2 - 3 \text{ Gyr}$$
 2. **Ram-Pressure Stripping (Gunn and Gott 1972)** - In dense cluster environments, the hydrodynamic drag of the hot ICM removes cold gas directly from the disk when the ram pressure exceeds the galactic gravitational restoring force -
    $$
 ho_{\mathrm{ICM}} v_{\mathrm{rel}}^2 > 2\pi G \Sigma_* \Sigma_{\mathrm{gas}}$$
@@ -98,12 +97,12 @@ When asked by Prof. Pizzella - *"What is the green valley, what does its existen
 
 1. **State the fundamental demographic deduction** -
    - Draw the bimodal CMD on the blackboard.
-   - Explain - *"The green valley is the underdense region between the blue cloud and red sequence. Its low space density requires a short transition timescale $	au \sim 1 - 1.5$ Gyr. Galaxies do not remain green; they rapidly transform from star-forming disks to passive spheroids."*
+   - Explain - *"The green valley is the underdense region between the blue cloud and red sequence. Its low space density requires a short transition timescale $\tau \sim 1 - 1.5$ Gyr. Galaxies do not remain green; they rapidly transform from star-forming disks to passive spheroids."*
 
 2. **Contrast the two quenching channels** -
    - Write on the board -
-     - *"Fast Quenching ($	au \lesssim 0.5$ Gyr) - Gas-rich major mergers $	o$ nuclear starburst $	o$ quasar-mode AGN feedback blowout $	o$ dead spheroid."*
-     - *"Slow Quenching ($	au \sim 2 - 3$ Gyr) - Environmental gas starvation $	o$ halo stripping $	o$ cold gas exhaustion via Kennicutt-Schmidt law."*
+     - *"Fast Quenching ($\tau \lesssim 0.5$ Gyr) - Gas-rich major mergers $\to$ nuclear starburst $\to$ quasar-mode AGN feedback blowout $\to$ dead spheroid."*
+     - *"Slow Quenching ($\tau \sim 2 - 3$ Gyr) - Environmental gas starvation $\to$ halo stripping $\to$ cold gas exhaustion via Kennicutt-Schmidt law."*
 
 3. **Formulate the halo mass quenching threshold** -
    - Write - $M_{\mathrm{halo}} \approx 10^{12} M_\odot$.

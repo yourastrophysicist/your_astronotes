@@ -12,9 +12,7 @@ In the optical color-magnitude diagram (CMD) and color-stellar mass plane, the e
 ## 1. Mathematical Decomposition of the Color-Magnitude Diagram
 
 In an optical color-magnitude diagram plotting color $C \equiv (u - r)$ versus absolute magnitude $M_r$, the total number density distribution of galaxies at fixed absolute magnitude $M_r$ is mathematically modeled as the sum of two distinct Gaussian distributions (Baldry et al. 2004) -
-$$P(C \mid M_r) = \frac{f_{\mathrm{red}}}{\sqrt{2\pi}\sigma_{\mathrm{red}}} \exp\left[ -\frac{(C - \mu_{\mathrm{red}}(M_r))^2}{2\sigma_{\mathrm{red}}^2} 
-ight] + \frac{f_{\mathrm{blue}}}{\sqrt{2\pi}\sigma_{\mathrm{blue}}} \exp\left[ -\frac{(C - \mu_{\mathrm{blue}}(M_r))^2}{2\sigma_{\mathrm{blue}}^2} 
-ight]$$
+$$P(C \mid M_r) = \frac{f_{\mathrm{red}}}{\sqrt{2\pi}\sigma_{\mathrm{red}}} \exp\left[ -\frac{(C - \mu_{\mathrm{red}}(M_r))^2}{2\sigma_{\mathrm{red}}^2} \right] + \frac{f_{\mathrm{blue}}}{\sqrt{2\pi}\sigma_{\mathrm{blue}}} \exp\left[ -\frac{(C - \mu_{\mathrm{blue}}(M_r))^2}{2\sigma_{\mathrm{blue}}^2} \right]$$
 where -
 - $f_{\mathrm{red}}(M_r)$ and $f_{\mathrm{blue}}(M_r)$ are the relative fractions of red and blue galaxies, satisfying $f_{\mathrm{red}} + f_{\mathrm{blue}} = 1$.
 - $\mu_{\mathrm{red}}(M_r)$ and $\mu_{\mathrm{blue}}(M_r)$ represent the mean color ridges as linear functions of absolute magnitude.
@@ -32,7 +30,7 @@ Galaxies with $(u - r) > 2.22$ are predominantly early-type galaxies (elliptical
 The Red Sequence forms a narrow, linear locus in the CMD extending across bright absolute magnitudes ($M_r \lesssim -20$).
 
 ### Key Characteristics
-1. **Passively Evolving Stellar Populations** - Composed of old stars ($	au_{\mathrm{age}} \gtrsim 8 - 12$ Gyr) with negligible current star formation ($\text{sSFR} \lesssim 10^{-12} \text{ yr}^{-1}$). Spectra feature strong metal absorption lines (Ca II H and K, Mg b, Fe 5270) and prominent 4000 \AA\ breaks ($D_n 4000 > 1.8$), with no detectable Balmer emission lines.
+1. **Passively Evolving Stellar Populations** - Composed of old stars ($\tau_{\mathrm{age}} \gtrsim 8 - 12$ Gyr) with negligible current star formation ($\text{sSFR} \lesssim 10^{-12} \text{ yr}^{-1}$). Spectra feature strong metal absorption lines (Ca II H and K, Mg b, Fe 5270) and prominent 4000 \AA\ breaks ($D_n 4000 > 1.8$), with no detectable Balmer emission lines.
 2. **Morphological Uniformity** - Spheroidal, bulge-dominated galaxies (E and S0) characterized by high Sersic indices ($n \gtrsim 3 - 4$) and high concentration indices ($C \equiv r_{90}/r_{50} > 2.6$).
 3. **The Color-Magnitude Slope and Mass-Metallicity Relation** - The red sequence is not horizontal; it exhibits a systematic negative slope -
    $$\frac{d(u - r)}{dM_r} \approx -0.08 \text{ mag mag}^{-1}$$
@@ -54,12 +52,9 @@ The Blue Cloud forms a broad, diffuse sequence occupying fainter and intermediat
 ## 4. The Transition Mass Scale
 
 The relative fraction of galaxies residing in the red sequence versus the blue cloud shifts dramatically across a characteristic transition stellar mass -
-$$M_{*, 
-m trans} \approx 3 	imes 10^{10} M_\odot \quad (M_r \approx -20.5 \text{ mag})$$
-- For $M_* < M_{*, 
-m trans}$, galaxies are overwhelmingly low-density, gas-rich, star-forming blue disks.
-- For $M_* > M_{*, 
-m trans}$, the population becomes overwhelmingly red, quiescent, concentrated spheroids.
+$$M_{*, \rm trans} \approx 3 \times 10^{10} M_\odot \quad (M_r \approx -20.5 \text{ mag})$$
+- For $M_* < M_{*, \rm trans}$, galaxies are overwhelmingly low-density, gas-rich, star-forming blue disks.
+- For $M_* > M_{*, \rm trans}$, the population becomes overwhelmingly red, quiescent, concentrated spheroids.
 This empirical boundary corresponds to a fundamental cosmological dark matter halo virial mass threshold $M_{\mathrm{halo}} \approx 10^{12} M_\odot$. In halos below this threshold, cold gas accretes unimpeded along cosmic filaments (cold accretion mode), feeding steady star formation. In halos exceeding $10^{12} M_\odot$, infalling gas undergoes stable shock heating to the virial temperature ($T_{\mathrm{vir}} \sim 10^6$ K), establishing a hot quasi-static halo where cooling is suppressed by radio-mode AGN feedback.
 
 ---
@@ -109,7 +104,7 @@ When asked by Prof. Pizzella - *"Describe the color bimodality of galaxies, the 
    - Note that Baldry et al. (2004) derived independent Schechter luminosity functions for both components.
 
 4. **Identify the cosmological transition mass** -
-   - Write - $M_* \sim 3 	imes 10^{10} M_\odot$ corresponding to halo mass $M_{\mathrm{halo}} \sim 10^{12} M_\odot$.
+   - Write - $M_* \sim 3 \times 10^{10} M_\odot$ corresponding to halo mass $M_{\mathrm{halo}} \sim 10^{12} M_\odot$.
    - Conclude - *"Below this halo mass, gas accretes in cold filaments, sustaining the blue cloud. Above $10^{12} M_\odot$, the gas shock-heats to virial temperatures and AGN feedback halts cooling, quenching star formation and driving galaxies onto the red sequence."*
 
 ---

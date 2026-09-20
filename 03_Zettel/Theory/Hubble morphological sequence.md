@@ -17,8 +17,7 @@ Elliptical galaxies appear as smooth, featureless spheroids characterized by ell
   $$\epsilon \equiv 1 - \frac{b}{a}$$
   where $a$ is the semi-major axis and $b$ is the semi-minor axis of the projected elliptical isophote.
 - **Hubble Ellipticity Class Number** - The integer index $n$ in the designation $\text{E}n$ is defined by -
-  $$n = 10 \, \epsilon = 10 \left( 1 - \frac{b}{a} 
-ight)$$
+  $$n = 10 \, \epsilon = 10 \left( 1 - \frac{b}{a} \right)$$
   rounded to the nearest integer.
   - An E0 galaxy appears circular on the sky ($b/a = 1 \implies n = 0$).
   - An E7 galaxy represents the maximum observed flattening ($b/a = 0.3 \implies n = 7$).

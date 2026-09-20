@@ -15,17 +15,13 @@ In astronomical spectroscopy, a galaxy spectrum $G(x)$ is sampled linearly in lo
 
 ### Doppler Shift on Logarithmic Coordinates
 Consider an absorption feature at rest-frame wavelength $\lambda_0$ shifted to observed wavelength $\lambda$. By the Doppler formula -
-$$\lambda = \lambda_0 \left( 1 + \frac{v}{c} 
-ight)$$
+$$\lambda = \lambda_0 \left( 1 + \frac{v}{c} \right)$$
 Taking the natural logarithm of both sides -
-$$\ln \lambda = \ln \lambda_0 + \ln \left( 1 + \frac{v}{c} 
-ight)$$
+$$\ln \lambda = \ln \lambda_0 + \ln \left( 1 + \frac{v}{c} \right)$$
 Using the first-order Taylor expansion for $v \ll c$ where $\ln(1 + \epsilon) \approx \epsilon$ -
 $$x \equiv \ln \lambda \approx \ln \lambda_0 + \frac{v}{c} = x_0 + \frac{v}{c}$$
 Therefore, a Doppler shift corresponds to a constant uniform translation $\Delta x = v/c$. The observed galaxy spectrum $G(x)$ is mathematically modeled as the convolution of a composite intrinsic stellar template spectrum $T(x)$ with the galaxy Line-of-Sight Velocity Distribution $\mathcal{L}(v)$, plus low-order polynomial adjustments -
-$$M(x) = \left[ \sum_{k=1}^K w_k T_k(x) 
-ight] \ast \mathcal{L}\left( c \, x 
-ight) \cdot \sum_{l=0}^L a_l P_l(x) + \sum_{m=0}^M b_m Q_m(x)$$
+$$M(x) = \left[ \sum_{k=1}^K w_k T_k(x) \right] \ast \mathcal{L}\left( c \, x \right) \cdot \sum_{l=0}^L a_l P_l(x) + \sum_{m=0}^M b_m Q_m(x)$$
 where -
 - $T_k(x)$ are high-resolution empirical stellar library spectra (e.g. MILES, ELODIE, Indo-US) convolved to match the instrumental resolution of the spectrograph.
 - $w_k \ge 0$ are non-negative weights representing the optimal linear combination of stellar templates, eliminating the classic template mismatch problem.
@@ -40,17 +36,14 @@ where -
 While idealized stellar systems in virial equilibrium with isotropic velocity distributions produce approximately Gaussian line-of-sight velocity profiles, real galaxies exhibit substantial deviations caused by orbital anisotropy, embedded rotating stellar disks, kinematically decoupled cores, and asymmetric drift. The LOSVD $\mathcal{L}(v)$ is parameterized using a Gauss-Hermite series expansion, introduced by Gerhard (1993) and van der Marel and Franx (1993).
 
 ### Mathematical Definition
-$$\mathcal{L}(v) = \frac{1}{\sqrt{2\pi}\sigma} \exp\left(-\frac{y^2}{2}
-ight) \left[ 1 + \sum_{m=3}^M h_m H_m(y) 
-ight]$$
+$$\mathcal{L}(v) = \frac{1}{\sqrt{2\pi}\sigma} \exp\left(-\frac{y^2}{2}\right) \left[ 1 + \sum_{m=3}^M h_m H_m(y) \right]$$
 where the dimensionless normalized velocity coordinate $y$ is defined as -
 $$y \equiv \frac{v - V}{\sigma}$$
 Here $V$ is the mean radial line-of-sight velocity and $\sigma$ is the line-of-sight velocity dispersion.
 
 ### Explicit Hermite Polynomial Formulations
 The functions $H_m(y)$ are the standard orthogonal Hermite polynomials normalized such that -
-$$\int_{-\infty}^{+\infty} \frac{1}{\sqrt{2\pi}} \exp\left(-\frac{y^2}{2}
-ight) H_m(y) H_n(y) \, dy = \delta_{mn}$$
+$$\int_{-\infty}^{+\infty} \frac{1}{\sqrt{2\pi}} \exp\left(-\frac{y^2}{2}\right) H_m(y) H_n(y) \, dy = \delta_{mn}$$
 The explicit expressions for the lowest-order Hermite polynomials are -
 $$H_0(y) = 1$$
 $$H_1(y) = y$$
@@ -68,16 +61,15 @@ angle = \int_{-\infty}^{+\infty} y \frac{e^{-y^2/2}}{\sqrt{2\pi}} \, dy = 0$$
    because the integrand is strictly antisymmetric with respect to $y = 0$. By setting the centroid of the Gaussian to $V$, the mean velocity of the profile is already captured. Thus, $h_1 \equiv 0$.
 3. Evaluate the second moment of the unperturbed Gaussian -
    $$\langle y^2 
-angle = \int_{-\infty}^{+\infty} y^2 \frac{e^{-y^2/2}}{\sqrt{2\pi}} \, dy = \left[ -y \frac{e^{-y^2/2}}{\sqrt{2\pi}} 
-ight]_{-\infty}^{+\infty} + \int_{-\infty}^{+\infty} \frac{e^{-y^2/2}}{\sqrt{2\pi}} \, dy = 0 + 1 = 1$$
+angle = \int_{-\infty}^{+\infty} y^2 \frac{e^{-y^2/2}}{\sqrt{2\pi}} \, dy = \left[ -y \frac{e^{-y^2/2}}{\sqrt{2\pi}} \right]_{-\infty}^{+\infty} + \int_{-\infty}^{+\infty} \frac{e^{-y^2/2}}{\sqrt{2\pi}} \, dy = 0 + 1 = 1$$
    Since $\langle y^2 
 angle = 1$, the variance is already completely specified by $\sigma^2$. Therefore, the coefficient of $H_2(y) = \frac{1}{\sqrt{2}}(y^2 - 1)$ must vanish ($h_2 \equiv 0$).
 4. Physical interpretation of $h_3$ (Skewness) -
    $H_3(y)$ is an odd function ($H_3(-y) = -H_3(y)$). The coefficient $h_3$ quantifies asymmetric deviations from a Gaussian. A positive $h_3 > 0$ indicates a tail towards velocities higher than $V$, whereas $h_3 < 0$ indicates a tail towards lower velocities.
 5. Physical interpretation of $h_4$ (Kurtosis) -
    $H_4(y)$ is an even function ($H_4(-y) = H_4(y)$). The coefficient $h_4$ quantifies symmetric deviations from a Gaussian.
-   - If $h_4 > 0$ (leptokurtic), the profile has a pointed triangular peak and broader wings than a Gaussian. In stellar dynamics, this indicates predominantly radial stellar orbits ($\sigma_r > \sigma_	heta$).
-   - If $h_4 < 0$ (platykurtic), the profile is flat-topped or boxy. In stellar dynamics, this indicates predominantly tangential or circular orbits ($\sigma_	heta > \sigma_r$).
+   - If $h_4 > 0$ (leptokurtic), the profile has a pointed triangular peak and broader wings than a Gaussian. In stellar dynamics, this indicates predominantly radial stellar orbits ($\sigma_r > \sigma_\theta$).
+   - If $h_4 < 0$ (platykurtic), the profile is flat-topped or boxy. In stellar dynamics, this indicates predominantly tangential or circular orbits ($\sigma_\theta > \sigma_r$).
 
 ---
 
@@ -87,16 +79,14 @@ When fitting observational spectra with low to moderate signal-to-noise ratio ($
 
 ### The Objective Function with Regularization
 To resolve this instability, Cappellari and Emsellem (2004) introduced a penalty term to the classic $\chi^2$ statistic -
-$$\chi_{\mathrm{pen}}^2 = \chi^2 \left( 1 + \lambda^2 \mathcal{P} 
-ight)$$
+$$\chi_{\mathrm{pen}}^2 = \chi^2 \left( 1 + \lambda^2 \mathcal{P} \right)$$
 where the standard goodness-of-fit statistic $\chi^2$ across $N$ spectral pixels is -
-$$\chi^2 = \sum_{n=1}^N \left( \frac{G(x_n) - M(x_n)}{\Delta G(x_n)} 
-ight)^2$$
+$$\chi^2 = \sum_{n=1}^N \left( \frac{G(x_n) - M(x_n)}{\Delta G(x_n)} \right)^2$$
 and the penalty function $\mathcal{P}$ penalizes excursions of the Gauss-Hermite coefficients away from zero -
 $$\mathcal{P} = \sum_{m=3}^M h_m^2 = h_3^2 + h_4^2 + \dots + h_M^2$$
 The parameter $\lambda$ is an adjustable penalty factor.
 - When the data has high signal-to-noise ratio ($S/N \gg 50$), the $\chi^2$ term dominates completely, allowing the data to freely determine non-zero values for $h_3$ and $h_4$.
-- When the signal-to-noise ratio is poor ($S/N \lesssim 15$), the penalty term pulls $h_3 	o 0$ and $h_4 	o 0$, gracefully defaulting the fitted LOSVD to a stable, well-constrained Gaussian ($V, \sigma$) without inflating the uncertainties.
+- When the signal-to-noise ratio is poor ($S/N \lesssim 15$), the penalty term pulls $h_3 \to 0$ and $h_4 \to 0$, gracefully defaulting the fitted LOSVD to a stable, well-constrained Gaussian ($V, \sigma$) without inflating the uncertainties.
 
 ---
 
@@ -190,22 +180,19 @@ When asked by Prof. Pizzella - *"How do we extract stellar kinematics from galax
 
 2. **Write the pPXF model equation** -
    - Write on the board -
-     $$M(x) = \left[ \sum w_k T_k(x) 
-ight] \ast \mathcal{L}(c x) \cdot P(x) + Q(x)$$
+     $$M(x) = \left[ \sum w_k T_k(x) \right] \ast \mathcal{L}(c x) \cdot P(x) + Q(x)$$
    - Explain - *"We use an optimal non-negative linear combination of dozens of stellar library spectra $T_k$ to avoid template mismatch, and include multiplicative polynomials $P(x)$ for dust/calibration and additive polynomials $Q(x)$ for sky residuals."*
 
 3. **Expand the LOSVD into Gauss-Hermite polynomials** -
    - Write on the board -
-     $$\mathcal{L}(v) = \frac{1}{\sqrt{2\pi}\sigma} \exp\left( -\frac{y^2}{2} 
-ight) \left[ 1 + h_3 H_3(y) + h_4 H_4(y) 
-ight]$$
+     $$\mathcal{L}(v) = \frac{1}{\sqrt{2\pi}\sigma} \exp\left( -\frac{y^2}{2} \right) \left[ 1 + h_3 H_3(y) + h_4 H_4(y) \right]$$
      where $y = (v - V)/\sigma$.
    - Explain why $h_1 = h_2 = 0$ - *"By definition, $V$ and $\sigma$ absorb the mean and the variance of the distribution, so the expansion begins strictly at $m = 3$."*
 
 4. **Interpret the physical meaning of $h_3$ and $h_4$** -
    - Draw the LOSVD sketches.
    - Explain - *"The coefficient $h_3$ measures skewness. In disk galaxies, $h_3$ is anti-correlated with mean velocity $V$ ($h_3 \cdot V < 0$) because the line of sight integrates through an exponential disk, producing a tail pointing back toward the systemic velocity."*
-   - Explain - *"The coefficient $h_4$ measures kurtosis. A positive $h_4 > 0$ indicates a peaked profile with broad wings, typical of radial orbital anisotropy ($\sigma_r > \sigma_	heta$). A negative $h_4 < 0$ indicates a flat-topped profile, typical of tangential orbital anisotropy or an embedded cold disk seen face-on."*
+   - Explain - *"The coefficient $h_4$ measures kurtosis. A positive $h_4 > 0$ indicates a peaked profile with broad wings, typical of radial orbital anisotropy ($\sigma_r > \sigma_\theta$). A negative $h_4 < 0$ indicates a flat-topped profile, typical of tangential orbital anisotropy or an embedded cold disk seen face-on."*
 
 5. **Explain the necessity of the penalty term** -
    - Write on the board - $\chi_{\mathrm{pen}}^2 = \chi^2 (1 + \lambda^2 \sum h_m^2)$.
@@ -233,8 +220,7 @@ ight]$$
 ## 8. Related Knowledge Base Notes
 
 - [LOSVD](LOSVD.html) - Mathematical definition and moments of the Line-of-Sight Velocity Distribution.
-- [Fundamental plane of ellipticals](Fundamental%20plane%20of%20ellipticals.html) - The 3D empirical scaling relation between $R_e$, $\sigma$, and $\langle I 
-angle_e$.
+- [Fundamental plane of ellipticals](Fundamental%20plane%20of%20ellipticals.html) - The 3D empirical scaling relation between $R_e$, $\sigma$, and $\langle I \rangle_e$.
 - [Stellar dynamics SMBH masses](Stellar%20dynamics%20SMBH%20masses.html) - Dynamical modeling using the Jeans equations and Schwarzschild orbit superposition.
 - [Ionized gas kinematics](Ionized%20gas%20kinematics.html) - Gas kinematics as a complementary tracer of circular velocity and potential.
 - [M sigma relation](M%20sigma%20relation.html) - The tight co-evolution relation between central SMBH mass and stellar velocity dispersion.

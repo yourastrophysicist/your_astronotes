@@ -12,9 +12,7 @@ The galaxy luminosity function (LF) $\Phi(L) \, dL$ describes the number density
 ## 1. Limitations of the Standard Schechter Function
 
 The standard Schechter function is defined as -
-$$\Phi(L) \, dL = \Phi^* \left( \frac{L}{L^*} 
-ight)^\alpha \exp\left( -\frac{L}{L^*} 
-ight) \frac{dL}{L^*}$$
+$$\Phi(L) \, dL = \Phi^* \left( \frac{L}{L^*} \right)^\alpha \exp\left( -\frac{L}{L^*} \right) \frac{dL}{L^*}$$
 At the faint end ($L \ll L^*$), it behaves as a pure power law $\Phi(L) \propto L^\alpha$. At the bright end ($L \gg L^*$), the exponential factor $\exp(-L/L^*)$ produces a rapid exponential cutoff.
 
 ### Physical Breakdown Mechanisms
@@ -29,9 +27,7 @@ At the faint end ($L \ll L^*$), it behaves as a pure power law $\Phi(L) \propto 
 The Double Power-Law luminosity function smoothly joins two power-law regimes across a characteristic transition luminosity $L^*$.
 
 ### Differential Equation in Luminosity
-$$\Phi(L) \, dL = \frac{\Phi^*}{\left( \frac{L}{L^*} 
-ight)^\alpha + \left( \frac{L}{L^*} 
-ight)^\beta} \frac{dL}{L^*}$$
+$$\Phi(L) \, dL = \frac{\Phi^*}{\left( \frac{L}{L^*} \right)^\alpha + \left( \frac{L}{L^*} \right)^\beta} \frac{dL}{L^*}$$
 where -
 - $\Phi^*$ is the characteristic number density normalization (units - $\text{Mpc}^{-3}$).
 - $L^*$ is the characteristic turnover luminosity separating the two asymptotic power-law regimes.
@@ -41,17 +37,13 @@ where -
 ### Asymptotic Limiting Behavior
 1. **Faint-End Limit ($L \ll L^*$)** -
    When $L \ll L^*$, the term $(L/L^*)^\alpha$ dominates over $(L/L^*)^\beta$ because $\alpha < \beta$ -
-   $$\Phi(L) \approx \frac{\Phi^*}{\left( \frac{L}{L^*} 
-ight)^\alpha} \frac{1}{L^*} = \frac{\Phi^*}{L^*} \left( \frac{L}{L^*} 
-ight)^{-\alpha}$$
+   $$\Phi(L) \approx \frac{\Phi^*}{\left( \frac{L}{L^*} \right)^\alpha} \frac{1}{L^*} = \frac{\Phi^*}{L^*} \left( \frac{L}{L^*} \right)^{-\alpha}$$
    Taking the logarithm -
    $$\frac{d\ln \Phi}{d\ln L} \approx -\alpha$$
    This represents a pure power-law slope with index $-\alpha$.
 2. **Bright-End Limit ($L \gg L^*$)** -
    When $L \gg L^*$, the term $(L/L^*)^\beta$ dominates completely -
-   $$\Phi(L) \approx \frac{\Phi^*}{\left( \frac{L}{L^*)^\beta} 
-ight) \frac{1}{L^*} = \frac{\Phi^*}{L^*} \left( \frac{L}{L^*} 
-ight)^{-\beta}$$
+   $$\Phi(L) \approx \frac{\Phi^*}{\left( \frac{L}{L^*)^\beta} \right) \frac{1}{L^*} = \frac{\Phi^*}{L^*} \left( \frac{L}{L^*} \right)^{-\beta}$$
    Taking the logarithm -
    $$\frac{d\ln \Phi}{d\ln L} \approx -\beta$$
    This demonstrates that the bright end follows a power law with index $-\beta$, decaying substantially more slowly than the exponential cutoff $\exp(-L/L^*)$ of the Schechter function.
@@ -64,26 +56,22 @@ To compare directly with observational photometric surveys, the DPL is transform
 
 ### Variable Transformation
 Astronomical magnitudes are related to luminosities by Pogson's formula -
-$$M - M^* = -2.5 \log_{10}\left( \frac{L}{L^*} 
-ight)$$
+$$M - M^* = -2.5 \log_{10}\left( \frac{L}{L^*} \right)$$
 Solving for the luminosity ratio -
-$$\frac{L}{L^*} = 10^{-0.4 (M - M^*)} = \exp\left[ -0.4 \ln(10) (M - M^*) 
-ight]$$
+$$\frac{L}{L^*} = 10^{-0.4 (M - M^*)} = \exp\left[ -0.4 \ln(10) (M - M^*) \right]$$
 Differentiating both sides with respect to $M$ -
 $$\frac{dL}{L^*} = -0.4 \ln(10) \, 10^{-0.4(M - M^*)} \, dM$$
 Using number conservation $|\Phi(M) \, dM| = |\Phi(L) \, dL|$ -
-$$\Phi(M) \, dM = \frac{\Phi^*}{\left[ 10^{-0.4(M - M^*)} 
-ight]^\alpha + \left[ 10^{-0.4(M - M^*)} 
-ight]^\beta} \cdot 0.4 \ln(10) \, 10^{-0.4(M - M^*)} \, dM$$
+$$\Phi(M) \, dM = \frac{\Phi^*}{\left[ 10^{-0.4(M - M^*)} \right]^\alpha + \left[ 10^{-0.4(M - M^*)} \right]^\beta} \cdot 0.4 \ln(10) \, 10^{-0.4(M - M^*)} \, dM$$
 Multiplying the numerator and denominator by $10^{0.4(M - M^*)}$ -
 $$\Phi(M) \, dM = \frac{0.4 \ln(10) \, \Phi^*}{10^{0.4(\alpha + 1)(M - M^*)} + 10^{0.4(\beta + 1)(M - M^*)}} \, dM$$
 
 ### Logarithmic Slopes in Magnitude Space
 Taking $\log_{10} \Phi(M)$ and evaluating the asymptotic derivatives -
 - At the faint end ($M \gg M^*$, intrinsically faint) -
-  $$\frac{d\log_{10} \Phi(M)}{dM} 	o -0.4 (\alpha + 1)$$
+  $$\frac{d\log_{10} \Phi(M)}{dM} \to -0.4 (\alpha + 1)$$
 - At the bright end ($M \ll M^*$, intrinsically luminous) -
-  $$\frac{d\log_{10} \Phi(M)}{dM} 	o -0.4 (\beta + 1)$$
+  $$\frac{d\log_{10} \Phi(M)}{dM} \to -0.4 (\beta + 1)$$
 In a plot of $\log_{10} \Phi(M)$ versus absolute magnitude $M$, the Double Power-Law appears as two intersecting straight lines connected by a smooth curved transition zone around $M^*$.
 
 ---
@@ -92,23 +80,18 @@ In a plot of $\log_{10} \Phi(M)$ versus absolute magnitude $M$, the Double Power
 
 ### Total Number Density Integral
 The total comoving number density of galaxies is obtained by integrating over all luminosities -
-$$n_{\mathrm{tot}} = \int_0^\infty \Phi(L) \, dL = \Phi^* \int_0^\infty \frac{1}{\left(\frac{L}{L^*}
-ight)^\alpha + \left(\frac{L}{L^*}
-ight)^\beta} \frac{dL}{L^*}$$
+$$n_{\mathrm{tot}} = \int_0^\infty \Phi(L) \, dL = \Phi^* \int_0^\infty \frac{1}{\left(\frac{L}{L^*}\right)^\alpha + \left(\frac{L}{L^*}\right)^\beta} \frac{dL}{L^*}$$
 Let $u \equiv L / L^*$, so $du = dL / L^*$ -
 $$n_{\mathrm{tot}} = \Phi^* \int_0^\infty \frac{du}{u^\alpha + u^\beta} = \Phi^* \int_0^\infty \frac{u^{-\alpha}}{1 + u^{\beta - \alpha}} \, du$$
 Let $t = u^{\beta - \alpha}$, so $u = t^{1/(\beta - \alpha)}$ and $du = \frac{1}{\beta - \alpha} t^{\frac{1}{\beta - \alpha} - 1} \, dt$ -
 $$n_{\mathrm{tot}} = \frac{\Phi^*}{\beta - \alpha} \int_0^\infty \frac{t^{\frac{1 - \alpha}{\beta - \alpha} - 1}}{1 + t} \, dt$$
 Using the standard integral definition of the Euler Beta function $\text{B}(x, y) = \int_0^\infty \frac{t^{x-1}}{1 + t} \, dt = \frac{\Gamma(x)\Gamma(y)}{\Gamma(x + y)}$ with $x + y = 1$ -
-$$n_{\mathrm{tot}} = \frac{\Phi^*}{\beta - \alpha} \Gamma\left( \frac{1 - \alpha}{\beta - \alpha} 
-ight) \Gamma\left( 1 - \frac{1 - \alpha}{\beta - \alpha} 
-ight) = \frac{\Phi^*}{\beta - \alpha} \frac{\pi}{\sin\left( \pi \frac{1 - \alpha}{\beta - \alpha} 
-ight)}$$
+$$n_{\mathrm{tot}} = \frac{\Phi^*}{\beta - \alpha} \Gamma\left( \frac{1 - \alpha}{\beta - \alpha} \right) \Gamma\left( 1 - \frac{1 - \alpha}{\beta - \alpha} \right) = \frac{\Phi^*}{\beta - \alpha} \frac{\pi}{\sin\left( \pi \frac{1 - \alpha}{\beta - \alpha} \right)}$$
 
 ### Convergence Criteria
 For the integral to converge -
-1. At the faint end ($u 	o 0$), the integrand behaves as $u^{-\alpha}$. Convergence requires $\int_0 u^{-\alpha} du < \infty \implies -\alpha + 1 > 0 \implies \alpha < 1$.
-2. At the bright end ($u 	o \infty$), the integrand behaves as $u^{-\beta}$. Convergence requires $\int^\infty u^{-\beta} du < \infty \implies -\beta + 1 < 0 \implies \beta > 1$.
+1. At the faint end ($u \to 0$), the integrand behaves as $u^{-\alpha}$. Convergence requires $\int_0 u^{-\alpha} du < \infty \implies -\alpha + 1 > 0 \implies \alpha < 1$.
+2. At the bright end ($u \to \infty$), the integrand behaves as $u^{-\beta}$. Convergence requires $\int^\infty u^{-\beta} du < \infty \implies -\beta + 1 < 0 \implies \beta > 1$.
 Therefore, mathematical convergence of total galaxy number density strictly demands $\alpha < 1 < \beta$.
 
 ---
@@ -118,16 +101,11 @@ Therefore, mathematical convergence of total galaxy number density strictly dema
 For infrared starburst galaxies observed by the IRAS satellite, Saunders et al. (1990) introduced a modified Schechter function where the exponential bright-end cutoff is replaced by a broader log-normal distribution.
 
 ### Mathematical Formulation
-$$\Phi(L) \, dL = \Phi^* \left( \frac{L}{L^*} 
-ight)^{1 - \alpha} \exp\left[ -\frac{1}{2\sigma^2} \log_{10}^2\left( 1 + \frac{L}{L^*} 
-ight) 
-ight] \frac{dL}{L^*}$$
-- For low luminosities ($L \ll L^*$), $\log_{10}(1 + L/L^*) \approx \frac{L}{L^* \ln 10} 	o 0$. The exponential factor approaches unity, recovering a pure power law $\Phi(L) \propto L^{-\alpha}$.
+$$\Phi(L) \, dL = \Phi^* \left( \frac{L}{L^*} \right)^{1 - \alpha} \exp\left[ -\frac{1}{2\sigma^2} \log_{10}^2\left( 1 + \frac{L}{L^*} \right) \right] \frac{dL}{L^*}$$
+- For low luminosities ($L \ll L^*$), $\log_{10}(1 + L/L^*) \approx \frac{L}{L^* \ln 10} \to 0$. The exponential factor approaches unity, recovering a pure power law $\Phi(L) \propto L^{-\alpha}$.
 - For high luminosities ($L \gg L^*$), $\log_{10}(1 + L/L^*) \approx \log_{10}(L/L^*)$. The distribution behaves as a Gaussian in logarithmic luminosity (a log-normal tail) -
-  $$\Phi(L) \propto \exp\left[ -\frac{1}{2\sigma^2} \log_{10}^2\left( \frac{L}{L^*} 
-ight) 
-ight]$$
-Because a log-normal function decays far more gradually than an exponential ($\exp(-\log^2 x)$ decays slower than $\exp(-x)$ as $x 	o \infty$), the Saunders function accurately reproduces the high space densities of Ultra-Luminous Infrared Galaxies (ULIRGs).
+  $$\Phi(L) \propto \exp\left[ -\frac{1}{2\sigma^2} \log_{10}^2\left( \frac{L}{L^*} \right) \right]$$
+Because a log-normal function decays far more gradually than an exponential ($\exp(-\log^2 x)$ decays slower than $\exp(-x)$ as $x \to \infty$), the Saunders function accurately reproduces the high space densities of Ultra-Luminous Infrared Galaxies (ULIRGs).
 
 ---
 
