@@ -2,9 +2,9 @@
 layout: "default"
 title: "Distance ladder derivations"
 ---
-a comprehensive companion to [Observational_Astrophysics_MOC](../../04_Atlas/Observational_Astrophysics_MOC.html) Block 5. the goal is to derive every rung of the distance ladder, from the AU outward to the Hubble flow, with the geometry shown explicitly each time. this is the master "where does this distance come from" note.
+a comprehensive companion to [[Observational_Astrophysics_MOC]] Block 5. the goal is to derive every rung of the distance ladder, from the AU outward to the Hubble flow, with the geometry shown explicitly each time. this is the master "where does this distance come from" note.
 
-source: Lecture 5 ("Distance ladder") of the Obs Astrophysics course at U Padua, plus the user's exam-answer drafts `obs1.pdf` (AU + parallax) and `obs2.pdf` (distance modulus + dust + Hubble). companion to [Cosmic_inventory_photons_derivation](Cosmic_inventory_photons_derivation.html) in style.
+source: Lecture 5 ("Distance ladder") of the Obs Astrophysics course at U Padua, plus the user's exam-answer drafts `obs1.pdf` (AU + parallax) and `obs2.pdf` (distance modulus + dust + Hubble). companion to [[Cosmic_inventory_photons_derivation]] in style.
 
 ---
 
@@ -149,8 +149,8 @@ three things break the simple $cz/H_0$ formula:
 1. **peculiar velocities**: at $z \lesssim 0.01$, peculiar motion of the host galaxy can be a $\sim 30\%$ correction. that is why low-$z$ Hubble-law distances are unreliable; you need either many galaxies (averaging out) or independent distance estimators (Tully-Fisher, SN Ia at $z \sim 0.01$ to $0.1$).
 2. **cosmological dependence**: at $z \gtrsim 0.1$, the simple $v = cz$ Doppler approximation breaks. the proper distance depends on the full FLRW solution:
 $$d_L(z) = (1+z) \frac{c}{H_0}\int_0^z \frac{dz'}{\sqrt{\Omega_m(1+z')^3 + \Omega_\Lambda}}$$
-(flat $\Lambda$CDM). this is what makes high-$z$ SN Ia so useful: their Hubble diagram constrains $\Omega_m$ and $\Omega_\Lambda$. see [Luminosity distance](Luminosity%20distance.html).
-3. **K-correction**: at high $z$ a fixed-band magnitude samples a different rest-frame wavelength than at $z = 0$. the K-correction translates between them. see [K-correction](K-correction.html) and [K-correction in optical vs sub-mm](K-correction%20in%20optical%20vs%20sub-mm.html).
+(flat $\Lambda$CDM). this is what makes high-$z$ SN Ia so useful: their Hubble diagram constrains $\Omega_m$ and $\Omega_\Lambda$. see [[Luminosity distance]].
+3. **K-correction**: at high $z$ a fixed-band magnitude samples a different rest-frame wavelength than at $z = 0$. the K-correction translates between them. see [[K-correction]] and [[K-correction in optical vs sub-mm]].
 
 ### the modern $H_0$ tension
 
@@ -214,22 +214,22 @@ start at $1$ AU calibrated by radar to nine digits, propagate to nearby stars by
 
 ## see also
 
-- [Observational_Astrophysics_MOC](../../04_Atlas/Observational_Astrophysics_MOC.html) — Block 5 lives here
-- [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html) — Block 1 (Distances in cosmology) extends this to high $z$
-- [Luminosity distance](Luminosity%20distance.html) / [Angular diameter distance](Angular%20diameter%20distance.html) / [Radial comoving distance](Radial%20comoving%20distance.html)
-- [Distance modulus](Distance%20modulus.html)
-- [Hubble law](Hubble%20law.html)
-- [Cosmological redshift](Cosmological%20redshift.html)
-- [K-correction](K-correction.html)
-- [K-correction in optical vs sub-mm](K-correction%20in%20optical%20vs%20sub-mm.html)
-- [Supernova Hubble diagram](Supernova%20Hubble%20diagram.html)
-- [Cepheid period-luminosity relation](Cepheid%20period-luminosity%20relation.html)
-- [TRGB tip of the red giant branch](TRGB%20tip%20of%20the%20red%20giant%20branch.html)
-- [Type Ia supernovae as standard candles](Type%20Ia%20supernovae%20as%20standard%20candles.html)
-- [Earth atmosphere for observations](Earth%20atmosphere%20for%20observations.html) — what limits the parallax precision
-- [CCD detectors and SNR](CCD%20detectors%20and%20SNR.html) — what enables the photometry that anchors every candle
-- [Cosmic_inventory_overview](Cosmic_inventory_overview.html) — where the cosmic distance scale connects to the budget
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [[Observational_Astrophysics_MOC]] — Block 5 lives here
+- [[Observational_Cosmology_MOC]] — Block 1 (Distances in cosmology) extends this to high $z$
+- [[Luminosity distance]] / [[Angular diameter distance]] / [[Radial comoving distance]]
+- [[Distance modulus]]
+- [[Hubble law]]
+- [[Cosmological redshift]]
+- [[K-correction]]
+- [[K-correction in optical vs sub-mm]]
+- [[Supernova Hubble diagram]]
+- [[Cepheid period-luminosity relation]]
+- [[TRGB tip of the red giant branch]]
+- [[Type Ia supernovae as standard candles]]
+- [[Earth atmosphere for observations]] — what limits the parallax precision
+- [[CCD detectors and SNR]] — what enables the photometry that anchors every candle
+- [[Cosmic_inventory_overview]] — where the cosmic distance scale connects to the budget
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
 
 ---
 
@@ -259,31 +259,31 @@ start at $1$ AU calibrated by radar to nine digits, propagate to nearby stars by
 ![obs_dist-76.png](../../assets/images/obs_dist-76.png)
 *Summary table of all distance ladder techniques and valid distance ranges.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (22)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="AU%20calibration%20parallax%20and%20parsec.html" class="backlink-item">AU calibration parallax and parsec</a></li>
-    <li class="backlink-item-wrap"><a href="Annual%20stellar%20parallax.html" class="backlink-item">Annual stellar parallax</a></li>
-    <li class="backlink-item-wrap"><a href="CCD%20detectors%20and%20SNR.html" class="backlink-item">CCD detectors and SNR</a></li>
-    <li class="backlink-item-wrap"><a href="Cepheid%20period-luminosity%20relation.html" class="backlink-item">Cepheid period-luminosity relation</a></li>
-    <li class="backlink-item-wrap"><a href="Cepheids%20and%20supernovae.html" class="backlink-item">Cepheids and supernovae</a></li>
-    <li class="backlink-item-wrap"><a href="Distance%20modulus.html" class="backlink-item">Distance modulus</a></li>
-    <li class="backlink-item-wrap"><a href="Hubble%20flow%20distances.html" class="backlink-item">Hubble flow distances</a></li>
-    <li class="backlink-item-wrap"><a href="Hubble%20law.html" class="backlink-item">Hubble law</a></li>
-    <li class="backlink-item-wrap"><a href="K-correction.html" class="backlink-item">K-correction</a></li>
-    <li class="backlink-item-wrap"><a href="LambdaCDM%20current%20parameters.html" class="backlink-item">LambdaCDM current parameters</a></li>
-    <li class="backlink-item-wrap"><a href="Moving%20cluster%20method.html" class="backlink-item">Moving cluster method</a></li>
-    <li class="backlink-item-wrap"><a href="Obs_astro_course_intro.html" class="backlink-item">Obs_astro_course_intro</a></li>
-    <li class="backlink-item-wrap"><a href="Precession%20nutation%20aberration%20parallax.html" class="backlink-item">Precession nutation aberration parallax</a></li>
-    <li class="backlink-item-wrap"><a href="Spectroscopic%20parallax%20and%20main-sequence%20fitting.html" class="backlink-item">Spectroscopic parallax and main-sequence fitting</a></li>
-    <li class="backlink-item-wrap"><a href="Spectroscopic%20redshift%20from%20line%20shifts.html" class="backlink-item">Spectroscopic redshift from line shifts</a></li>
-    <li class="backlink-item-wrap"><a href="Supernova%20Hubble%20diagram.html" class="backlink-item">Supernova Hubble diagram</a></li>
-    <li class="backlink-item-wrap"><a href="Surface%20brightness%20fluctuations.html" class="backlink-item">Surface brightness fluctuations</a></li>
-    <li class="backlink-item-wrap"><a href="TRGB%20tip%20of%20the%20red%20giant%20branch.html" class="backlink-item">TRGB tip of the red giant branch</a></li>
-    <li class="backlink-item-wrap"><a href="Useful%20constants%20and%20conversions.html" class="backlink-item">Useful constants and conversions</a></li>
-    <li class="backlink-item-wrap"><a href="Variable%20stars%20as%20standard%20candles.html" class="backlink-item">Variable stars as standard candles</a></li>
-    <li class="backlink-item-wrap"><a href="%CE%9BCDM%20current%20parameters.html" class="backlink-item">ΛCDM current parameters</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[AU calibration parallax and parsec]]
+- [[Annual stellar parallax]]
+- [[CCD detectors and SNR]]
+- [[Cepheid period-luminosity relation]]
+- [[Cepheids and supernovae]]
+- [[Distance modulus]]
+- [[Hubble flow distances]]
+- [[Hubble law]]
+- [[K-correction]]
+- [[LambdaCDM current parameters]]
+- [[Moving cluster method]]
+- [[Obs_astro_course_intro]]
+- [[Precession nutation aberration parallax]]
+- [[Spectroscopic parallax and main-sequence fitting]]
+- [[Spectroscopic redshift from line shifts]]
+- [[Supernova Hubble diagram]]
+- [[Surface brightness fluctuations]]
+- [[TRGB tip of the red giant branch]]
+- [[Useful constants and conversions]]
+- [[Variable stars as standard candles]]
+- [[ΛCDM current parameters]]
+- [[Observational_Astrophysics_MOC]]
+
 

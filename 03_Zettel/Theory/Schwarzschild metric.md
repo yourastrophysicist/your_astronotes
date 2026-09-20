@@ -51,24 +51,24 @@ for typical objects (with $r_s = 2GM$):
 
 ## see also
 
-- [Birkhoff theorem](Birkhoff%20theorem.html)
-- [Schwarzschild Christoffels](Schwarzschild%20Christoffels.html)
-- [Schwarzschild horizon](Schwarzschild%20horizon.html)
-- [Schwarzschild effective potential](Schwarzschild%20effective%20potential.html)
-- [Circular orbits in Schwarzschild](Circular%20orbits%20in%20Schwarzschild.html)
-- [Photon sphere](Photon%20sphere.html)
-- [Radial infall](Radial%20infall.html)
-- [Photon trajectories and impact parameter](Photon%20trajectories%20and%20impact%20parameter.html)
-- [Perihelion precession](Perihelion%20precession.html)
-- [Light deflection](Light%20deflection.html)
-- [Eddington-Finkelstein and Kruskal](Eddington-Finkelstein%20and%20Kruskal.html)
+- [[Birkhoff theorem]]
+- [[Schwarzschild Christoffels]]
+- [[Schwarzschild horizon]]
+- [[Schwarzschild effective potential]]
+- [[Circular orbits in Schwarzschild]]
+- [[Photon sphere]]
+- [[Radial infall]]
+- [[Photon trajectories and impact parameter]]
+- [[Perihelion precession]]
+- [[Light deflection]]
+- [[Eddington-Finkelstein and Kruskal]]
 - Q11 - selected Schwarzschild Christoffels
 - Q12 - circular orbits and orbital frequency
 - Q13 - radial infall and proper time
 - Q14 - photon trajectory and impact parameter
-- [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
-- [Ch 5 - The Einstein Equation](../../02_Literature/Book/Baumann%20GR/Ch%205%20-%20The%20Einstein%20Equation.html)
-- [Ch 6 - Black Holes](../../02_Literature/Book/Baumann%20GR/Ch%206%20-%20Black%20Holes.html)
+- [[General_Relativity_MOC]]
+- [[Ch 5 - The Einstein Equation]]
+- [[Ch 6 - Black Holes]]
 
 ---
 
@@ -81,28 +81,28 @@ for typical objects (with $r_s = 2GM$):
 ![baumann_fig05_p74.png](../../assets/images/baumann_fig05_p74.png)
 *Cambridge Lecture Diagram: Flamm paraboloid spatial embedding of the Schwarzschild geometry exterior to the event horizon.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (19)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Birkhoff%20theorem.html" class="backlink-item">Birkhoff theorem</a></li>
-    <li class="backlink-item-wrap"><a href="Circular%20orbits%20in%20Schwarzschild.html" class="backlink-item">Circular orbits in Schwarzschild</a></li>
-    <li class="backlink-item-wrap"><a href="Eddington-Finkelstein%20and%20Kruskal.html" class="backlink-item">Eddington-Finkelstein and Kruskal</a></li>
-    <li class="backlink-item-wrap"><a href="Effective%20potential%20approach.html" class="backlink-item">Effective potential approach</a></li>
-    <li class="backlink-item-wrap"><a href="Einstein%20equations.html" class="backlink-item">Einstein equations</a></li>
-    <li class="backlink-item-wrap"><a href="Gravitational%20lensing%20-%20intro.html" class="backlink-item">Gravitational lensing - intro</a></li>
-    <li class="backlink-item-wrap"><a href="Killing%20vectors%20and%20conserved%20quantities.html" class="backlink-item">Killing vectors and conserved quantities</a></li>
-    <li class="backlink-item-wrap"><a href="Light%20deflection.html" class="backlink-item">Light deflection</a></li>
-    <li class="backlink-item-wrap"><a href="Manifold%20metric%20and%20signature.html" class="backlink-item">Manifold metric and signature</a></li>
-    <li class="backlink-item-wrap"><a href="Newtonian%20limit%20of%20GR.html" class="backlink-item">Newtonian limit of GR</a></li>
-    <li class="backlink-item-wrap"><a href="Perihelion%20precession.html" class="backlink-item">Perihelion precession</a></li>
-    <li class="backlink-item-wrap"><a href="Photon%20sphere.html" class="backlink-item">Photon sphere</a></li>
-    <li class="backlink-item-wrap"><a href="Photon%20trajectories%20and%20impact%20parameter.html" class="backlink-item">Photon trajectories and impact parameter</a></li>
-    <li class="backlink-item-wrap"><a href="Radial%20infall.html" class="backlink-item">Radial infall</a></li>
-    <li class="backlink-item-wrap"><a href="Schwarzschild%20Christoffels.html" class="backlink-item">Schwarzschild Christoffels</a></li>
-    <li class="backlink-item-wrap"><a href="Schwarzschild%20effective%20potential.html" class="backlink-item">Schwarzschild effective potential</a></li>
-    <li class="backlink-item-wrap"><a href="Schwarzschild%20horizon.html" class="backlink-item">Schwarzschild horizon</a></li>
-    <li class="backlink-item-wrap"><a href="Trace-reversed%20Einstein%20equations.html" class="backlink-item">Trace-reversed Einstein equations</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Birkhoff theorem]]
+- [[Circular orbits in Schwarzschild]]
+- [[Eddington-Finkelstein and Kruskal]]
+- [[Effective potential approach]]
+- [[Einstein equations]]
+- [[Gravitational lensing - intro]]
+- [[Killing vectors and conserved quantities]]
+- [[Light deflection]]
+- [[Manifold metric and signature]]
+- [[Newtonian limit of GR]]
+- [[Perihelion precession]]
+- [[Photon sphere]]
+- [[Photon trajectories and impact parameter]]
+- [[Radial infall]]
+- [[Schwarzschild Christoffels]]
+- [[Schwarzschild effective potential]]
+- [[Schwarzschild horizon]]
+- [[Trace-reversed Einstein equations]]
+- [[General_Relativity_MOC]]
+
 

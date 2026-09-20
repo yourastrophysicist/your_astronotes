@@ -4,7 +4,7 @@ title: "Newton's rings"
 ---
 # Newton's rings
 
-the most famous example of [Fringes of equal thickness](Fringes%20of%20equal%20thickness.html): concentric circular interference fringes in the air gap between a curved lens and a flat reference. observed by Newton, predicted (correctly!) by Hooke before him, and definitively explained by Young and Fresnel in the early 1800s.
+the most famous example of [[Fringes of equal thickness]]: concentric circular interference fringes in the air gap between a curved lens and a flat reference. observed by Newton, predicted (correctly!) by Hooke before him, and definitively explained by Young and Fresnel in the early 1800s.
 
 historically: the experiment that *should have* convinced Newton of the wave nature of light (it didn't; he persisted with corpuscular theory).
 
@@ -71,22 +71,19 @@ a soap bubble's iridescent colors are Newton's rings in *white light*: at each t
 
 ## see also
 
-- [Fringes of equal thickness](Fringes%20of%20equal%20thickness.html)
-- [Fringes of equal inclination](Fringes%20of%20equal%20inclination.html)
-- [Optical path difference OPD](Optical%20path%20difference%20OPD.html)
-- [Amplitude-division interferometers](../Amplitude-division%20interferometers.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Fringes of equal thickness]]
+- [[Fringes of equal inclination]]
+- [[Optical path difference OPD]]
+- [[Amplitude-division interferometers]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Fringes%20of%20equal%20inclination.html" class="backlink-item">Fringes of equal inclination</a></li>
-    <li class="backlink-item-wrap"><a href="../Fringes%20of%20equal%20thickness.html" class="backlink-item">Fringes of equal thickness</a></li>
-    <li class="backlink-item-wrap"><a href="../Lloyd%20mirror.html" class="backlink-item">Lloyd mirror</a></li>
-    <li class="backlink-item-wrap"><a href="Fringes%20of%20equal%20inclination.html" class="backlink-item">Fringes of equal inclination</a></li>
-    <li class="backlink-item-wrap"><a href="Fringes%20of%20equal%20thickness.html" class="backlink-item">Fringes of equal thickness</a></li>
-    <li class="backlink-item-wrap"><a href="Lloyd%20mirror.html" class="backlink-item">Lloyd mirror</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Fringes of equal inclination]]
+- [[Fringes of equal thickness]]
+- [[Lloyd mirror]]
+- [[Astronomical_Interferometry_MOC]]
+
 

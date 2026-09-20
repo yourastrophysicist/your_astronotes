@@ -5,7 +5,7 @@ title: "07_Atmospheric_Radiative_Transfer_and_Line_Profiles"
 # Lesson 07 – Atmospheric Radiative Transfer and Line Profiles
 
 *Computational Astrophysics, Prof. Tiziano Zingales*  
-*Index: [Computational_Astrophysics_MOC](../../../04_Atlas/Computational_Astrophysics_MOC.html)*
+*Index: [[Computational_Astrophysics_MOC]]*
 
 ---
 
@@ -243,10 +243,10 @@ This plane-parallel integral formulation forms the computational core of atmosph
 ---
 
 ## Related Notes
-- [04_Exoplanet_Demographics_Orbital_Mechanics_and_Transits](./04_Exoplanet_Demographics_Orbital_Mechanics_and_Transits.html)
-- [06_Deep_Learning_Architectures_and_Optimization](./06_Deep_Learning_Architectures_and_Optimization.html)
-- [08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx](./08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx.html)
-- [09_Bayesian_Inference_and_Parameter_Estimation](./09_Bayesian_Inference_and_Parameter_Estimation.html)
+- [[04_Exoplanet_Demographics_Orbital_Mechanics_and_Transits]]
+- [[06_Deep_Learning_Architectures_and_Optimization]]
+- [[08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx]]
+- [[09_Bayesian_Inference_and_Parameter_Estimation]]
 
 
 ## Computational Visuals & Radiative Transfer Solvers
@@ -260,11 +260,11 @@ This plane-parallel integral formulation forms the computational core of atmosph
 ![Layer-by-Layer Optical Depth Integration](../../../assets/images/comp_radtrans_p30.png)
 *Figure COMP-09: Numerical discretization of atmospheric column density and cross-section sums $\tau_\nu(z) = \sum_i \sigma_{i,\nu} N_i(z)$ across discrete pressure layers.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Computational/Atmospheric%20radiative%20transfer%20equation%20and%20Voigt%20profile.html" class="backlink-item">Atmospheric radiative transfer equation and Voigt profile</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Atmospheric radiative transfer equation and Voigt profile]]
+- [[Computational_Astrophysics_MOC]]
+
 

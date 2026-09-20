@@ -5,7 +5,7 @@ title: "Hint - TODO 2.1 Deriving Inverse CDF for Power Laws"
 # Hint - TODO 2.1 Deriving Inverse CDF for Power Laws
 
 **Target TODO**: TODO 2.1 in Module_1_Random_Sampling_and_Monte_Carlo  
-**Related Zettels**: [Inverse transform sampling](Inverse%20transform%20sampling.html)
+**Related Zettels**: [[Inverse transform sampling]]
 
 ---
 

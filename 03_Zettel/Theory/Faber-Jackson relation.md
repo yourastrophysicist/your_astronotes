@@ -180,13 +180,13 @@ When sketching the Faber-Jackson relation on the blackboard.
 
 ## 7. See Also
 
-- [Fundamental plane of ellipticals](Fundamental%20plane%20of%20ellipticals.html)
-- [Kormendy relation](Kormendy%20relation.html)
-- [Tully-Fisher relation](Tully-Fisher%20relation.html)
-- [M sigma relation](M%20sigma%20relation.html)
-- [Magorrian relation](Magorrian%20relation.html)
-- [LOSVD](LOSVD.html)
-- [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html)
+- [[Fundamental plane of ellipticals]]
+- [[Kormendy relation]]
+- [[Tully-Fisher relation]]
+- [[M sigma relation]]
+- [[Magorrian relation]]
+- [[LOSVD]]
+- [[Astrophysics_of_Galaxies_MOC]]
 
 ---
 
@@ -229,19 +229,19 @@ When sketching the Faber-Jackson relation on the blackboard.
 
 ![gal_srs-15.png](../../assets/images/gal_srs-15.png)
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (10)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Alpha-Fe%20enhancement.html" class="backlink-item">Alpha-Fe enhancement</a></li>
-    <li class="backlink-item-wrap"><a href="Dark%20matter%20in%20elliptical%20galaxies.html" class="backlink-item">Dark matter in elliptical galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="Early-type%20galaxy%20stellar%20populations.html" class="backlink-item">Early-type galaxy stellar populations</a></li>
-    <li class="backlink-item-wrap"><a href="Kormendy%20relation.html" class="backlink-item">Kormendy relation</a></li>
-    <li class="backlink-item-wrap"><a href="LOSVD.html" class="backlink-item">LOSVD</a></li>
-    <li class="backlink-item-wrap"><a href="M%20sigma%20relation.html" class="backlink-item">M sigma relation</a></li>
-    <li class="backlink-item-wrap"><a href="MOND.html" class="backlink-item">MOND</a></li>
-    <li class="backlink-item-wrap"><a href="Magorrian%20relation.html" class="backlink-item">Magorrian relation</a></li>
-    <li class="backlink-item-wrap"><a href="Red%20sequence%20and%20blue%20cloud.html" class="backlink-item">Red sequence and blue cloud</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Alpha-Fe enhancement]]
+- [[Dark matter in elliptical galaxies]]
+- [[Early-type galaxy stellar populations]]
+- [[Kormendy relation]]
+- [[LOSVD]]
+- [[M sigma relation]]
+- [[MOND]]
+- [[Magorrian relation]]
+- [[Red sequence and blue cloud]]
+- [[Astrophysics_of_Galaxies_MOC]]
+
 

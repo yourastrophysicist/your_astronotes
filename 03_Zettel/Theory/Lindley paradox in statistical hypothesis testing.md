@@ -48,18 +48,18 @@ The source of the paradox lies in how each paradigm penalizes parameter space vo
 In cosmological tests (such as searching for non-zero spatial curvature $\Omega_k \ne 0$ or running of the spectral index $\alpha_s \ne 0$), large datasets can yield small $p$-values that actually support the simpler standard $\Lambda\text{CDM}$ model under Bayesian evidence.
 
 ## See Also
-- [Astro-Statistics_and_Cosmology_MOC](../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html)
-- [04_Frequentist_vs_Bayesian_Inference_and_Confidence_Intervals](../../02_Literature/Lectures/Astrostatistics/04_Frequentist_vs_Bayesian_Inference_and_Confidence_Intervals.html)
-- [Bayesian evidence and model selection](Bayesian%20evidence%20and%20model%20selection.html)
-- [Savage-Dickey density ratio for nested model comparison](Savage-Dickey%20density%20ratio%20for%20nested%20model%20comparison.html)
+- [[Astro-Statistics_and_Cosmology_MOC]]
+- [[04_Frequentist_vs_Bayesian_Inference_and_Confidence_Intervals]]
+- [[Bayesian evidence and model selection]]
+- [[Savage-Dickey density ratio for nested model comparison]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Bayesian%20evidence%20and%20model%20selection.html" class="backlink-item">Bayesian evidence and model selection</a></li>
-    <li class="backlink-item-wrap"><a href="Frequentist%20confidence%20intervals%20versus%20Bayesian%20credible%20regions.html" class="backlink-item">Frequentist confidence intervals versus Bayesian credible regions</a></li>
-    <li class="backlink-item-wrap"><a href="Savage-Dickey%20density%20ratio%20for%20nested%20model%20comparison.html" class="backlink-item">Savage-Dickey density ratio for nested model comparison</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Bayesian evidence and model selection]]
+- [[Frequentist confidence intervals versus Bayesian credible regions]]
+- [[Savage-Dickey density ratio for nested model comparison]]
+- [[Astro-Statistics_and_Cosmology_MOC]]
+
 

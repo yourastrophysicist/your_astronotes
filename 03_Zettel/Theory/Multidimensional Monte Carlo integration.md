@@ -4,7 +4,7 @@ title: "Multidimensional Monte Carlo integration"
 ---
 # Multidimensional Monte Carlo integration
 
-the formula for [mean-value MC](Monte%20Carlo%20integration%20mean%20value%20method.html) generalizes from 1D to any number of dimensions with no change of structure. and crucially, **the convergence rate stays $1/\sqrt{N}$ regardless of dimension**, which is what makes Monte Carlo dominate over deterministic quadrature in high dimensions.
+the formula for [[Monte Carlo integration mean value method|mean-value MC]] generalizes from 1D to any number of dimensions with no change of structure. and crucially, **the convergence rate stays $1/\sqrt{N}$ regardless of dimension**, which is what makes Monte Carlo dominate over deterministic quadrature in high dimensions.
 
 ## the formula
 
@@ -92,18 +92,18 @@ scipy has `scipy.stats.qmc` for low-discrepancy sampling.
 
 ## see also
 
-- [Monte Carlo integration mean value method](Monte%20Carlo%20integration%20mean%20value%20method.html)
-- [Importance sampling](Importance%20sampling.html)
-- [Pseudo-random number generators](Pseudo-random%20number%20generators.html)
-- [Trapezoidal rule](Trapezoidal%20rule.html)
-- [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
+- [[Monte Carlo integration mean value method]]
+- [[Importance sampling]]
+- [[Pseudo-random number generators]]
+- [[Trapezoidal rule]]
+- [[Mathematical_Numerical_Methods_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Importance%20sampling.html" class="backlink-item">Importance sampling</a></li>
-    <li class="backlink-item-wrap"><a href="Monte%20Carlo%20integration%20mean%20value%20method.html" class="backlink-item">Monte Carlo integration mean value method</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Importance sampling]]
+- [[Monte Carlo integration mean value method]]
+- [[Mathematical_Numerical_Methods_MOC]]
+
 

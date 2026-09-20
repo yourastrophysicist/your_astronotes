@@ -12,7 +12,7 @@ all conditions are at the *same* time $t_0$:
 
 $$\dot{\mathbf{y}} = \mathbf{f}(\mathbf{y}, t), \quad \mathbf{y}(t_0) = \mathbf{y}_0$$
 
-I integrate forward from $t_0$. each step uses only past information. the algorithms are Euler, RK, leapfrog — see [Runge-Kutta 4 method](Runge-Kutta%204%20method.html), [Leapfrog integrator](Leapfrog%20integrator.html), etc.
+I integrate forward from $t_0$. each step uses only past information. the algorithms are Euler, RK, leapfrog — see [[Runge-Kutta 4 method]], [[Leapfrog integrator]], etc.
 
 natural for: dynamical evolution where I know the present state and want to predict the future. orbits, stellar evolution from a starting model, nuclear burning, atmospheric chemistry.
 
@@ -38,7 +38,7 @@ three main families:
 
 ### shooting method
 
-[Shooting method](Shooting%20method.html): turn the BVP into an IVP by guessing the missing initial conditions, integrate forward, root-find on the boundary residual at the other end. wraps a 1D root finder around an IVP solver.
+[[Shooting method]]: turn the BVP into an IVP by guessing the missing initial conditions, integrate forward, root-find on the boundary residual at the other end. wraps a 1D root finder around an IVP solver.
 
 pros: uses standard IVP machinery. flexible. easy to implement.
 cons: sensitive to the initial guess; can be unstable for stiff or oscillatory problems.
@@ -91,19 +91,19 @@ ask: *where are the conditions specified?*
 
 ## see also
 
-- [Runge-Kutta 4 method](Runge-Kutta%204%20method.html)
-- [Leapfrog integrator](Leapfrog%20integrator.html)
-- [Shooting method](Shooting%20method.html)
-- [Built-in scipy integrators](Built-in%20scipy%20integrators.html)
-- [Boundary value PDEs and iteration](Boundary%20value%20PDEs%20and%20iteration.html)
-- [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
+- [[Runge-Kutta 4 method]]
+- [[Leapfrog integrator]]
+- [[Shooting method]]
+- [[Built-in scipy integrators]]
+- [[Boundary value PDEs and iteration]]
+- [[Mathematical_Numerical_Methods_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Shooting%20method.html" class="backlink-item">Shooting method</a></li>
-    <li class="backlink-item-wrap"><a href="Systems%20of%20ODEs%20and%20higher-order%20ODEs.html" class="backlink-item">Systems of ODEs and higher-order ODEs</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Shooting method]]
+- [[Systems of ODEs and higher-order ODEs]]
+- [[Mathematical_Numerical_Methods_MOC]]
+
 

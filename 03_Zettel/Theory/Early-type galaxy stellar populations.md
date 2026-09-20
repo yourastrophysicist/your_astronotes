@@ -185,12 +185,12 @@ Consequence - In massive ellipticals, stellar masses derived using a universal M
 
 ## 8. Cross-References and Related Notes
 
-- [Alpha-Fe enhancement](Alpha-Fe%20enhancement.html) - Chemical clock derivation and Type Ia vs Type II supernova yields
-- [Color gradients in ellipticals](Color%20gradients%20in%20ellipticals.html) - Detailed photometry and metallicity gradient analysis
-- [Fundamental plane of ellipticals](Fundamental%20plane%20of%20ellipticals.html) - Virial scaling and M/L tilt
-- [Faber-Jackson relation](Faber-Jackson%20relation.html) - Luminosity-velocity dispersion scaling
-- [Color bimodality of galaxies](Color%20bimodality%20of%20galaxies.html) - Red sequence and blue cloud separation
-- [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html) - Master Map of Content for course
+- [[Alpha-Fe enhancement]] - Chemical clock derivation and Type Ia vs Type II supernova yields
+- [[Color gradients in ellipticals]] - Detailed photometry and metallicity gradient analysis
+- [[Fundamental plane of ellipticals]] - Virial scaling and M/L tilt
+- [[Faber-Jackson relation]] - Luminosity-velocity dispersion scaling
+- [[Color bimodality of galaxies]] - Red sequence and blue cloud separation
+- [[Astrophysics_of_Galaxies_MOC]] - Master Map of Content for course
 
 ---
 
@@ -205,11 +205,11 @@ Consequence - In massive ellipticals, stellar masses derived using a universal M
 ![gal_sre-03.png](../../assets/images/gal_sre-03.png)
 *Figure 3 - Downsizing - age, metallicity, and [alpha/Fe] enhancement as functions of velocity dispersion sigma.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Color%20gradients%20in%20ellipticals.html" class="backlink-item">Color gradients in ellipticals</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Color gradients in ellipticals]]
+- [[Astrophysics_of_Galaxies_MOC]]
+
 

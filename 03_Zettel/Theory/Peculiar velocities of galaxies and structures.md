@@ -62,21 +62,21 @@ at fixed redshift, peculiar velocities show up as residuals in distance-redshift
 
 ## see also
 
-- [Hubble law](Hubble%20law.html)
-- [Hubble flow distances](Hubble%20flow%20distances.html)
-- [Cosmological redshift](Cosmological%20redshift.html)
-- [Comoving vs proper coordinates](Comoving%20vs%20proper%20coordinates.html)
-- [Cosmic_inventory_dark_matter](Cosmic_inventory_dark_matter.html)
-- [Tully-Fisher relation](Tully-Fisher%20relation.html)
-- [Fundamental plane of ellipticals](Fundamental%20plane%20of%20ellipticals.html)
-- [Galaxy main sequence of star formation](Galaxy%20main%20sequence%20of%20star%20formation.html)
-- [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
+- [[Hubble law]]
+- [[Hubble flow distances]]
+- [[Cosmological redshift]]
+- [[Comoving vs proper coordinates]]
+- [[Cosmic_inventory_dark_matter]]
+- [[Tully-Fisher relation]]
+- [[Fundamental plane of ellipticals]]
+- [[Galaxy main sequence of star formation]]
+- [[Observational_Cosmology_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Comoving%20vs%20proper%20coordinates.html" class="backlink-item">Comoving vs proper coordinates</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Comoving vs proper coordinates]]
+- [[Observational_Cosmology_MOC]]
+
 

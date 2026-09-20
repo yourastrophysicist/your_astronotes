@@ -60,20 +60,20 @@ at HII region temperatures, almost all atoms are in the lowest ionisation stage.
 
 ## see also
 
-- [Photoionization rate](Photoionization%20rate.html)
-- [Recombination rate](Recombination%20rate.html)
-- [Photoionisation balance](Photoionisation%20balance.html)
-- [Ionisation parameter U](Ionisation%20parameter%20U.html)
-- [Saha ionisation equation](Saha%20ionisation%20equation.html) — analogous LTE formulation
-- [Bremsstrahlung](Bremsstrahlung.html)
+- [[Photoionization rate]]
+- [[Recombination rate]]
+- [[Photoionisation balance]]
+- [[Ionisation parameter U]]
+- [[Saha ionisation equation]] — analogous LTE formulation
+- [[Bremsstrahlung]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Photoionisation%20balance.html" class="backlink-item">Photoionisation balance</a></li>
-    <li class="backlink-item-wrap"><a href="Photoionization%20rate.html" class="backlink-item">Photoionization rate</a></li>
-    <li class="backlink-item-wrap"><a href="Recombination%20rate.html" class="backlink-item">Recombination rate</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Photoionisation balance]]
+- [[Photoionization rate]]
+- [[Recombination rate]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 

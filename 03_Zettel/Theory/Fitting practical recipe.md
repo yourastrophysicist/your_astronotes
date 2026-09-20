@@ -40,8 +40,8 @@ fit in $\tilde x$, then transform back. avoids ill-conditioning. for power-law d
 
 ### 4. choose linear vs nonlinear LSQ
 
-- model linear in parameters → [Linear least squares](Linear%20least%20squares.html) (closed-form solution)
-- model nonlinear in parameters → [scipy.optimize.curve_fit](Non-linear%20fitting%20with%20scipy.html) or `least_squares`
+- model linear in parameters → [[Linear least squares]] (closed-form solution)
+- model nonlinear in parameters → [[Non-linear fitting with scipy|scipy.optimize.curve_fit]] or `least_squares`
 
 if the model can be **linearized** by a transformation (e.g. $y = A e^{-\lambda x} \to \log y = \log A - \lambda x$), do it — much faster and more stable. but check that the transformation respects the noise structure (homoscedastic on the linear scale becomes heteroscedastic on the log scale, and vice versa).
 
@@ -148,18 +148,18 @@ for name, val, err in zip(['A', 'λ', 'C'], popt, sigma_p):
 
 ## see also
 
-- [Linear least squares](Linear%20least%20squares.html)
-- [Weighted least squares](Weighted%20least%20squares.html)
-- [General linear least squares](General%20linear%20least%20squares.html)
-- [Polynomial fitting](Polynomial%20fitting.html)
-- [Non-linear fitting with scipy](Non-linear%20fitting%20with%20scipy.html)
-- [Goodness of fit and chi-squared](Goodness%20of%20fit%20and%20chi-squared.html)
-- [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
+- [[Linear least squares]]
+- [[Weighted least squares]]
+- [[General linear least squares]]
+- [[Polynomial fitting]]
+- [[Non-linear fitting with scipy]]
+- [[Goodness of fit and chi-squared]]
+- [[Mathematical_Numerical_Methods_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (1)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Mathematical_Numerical_Methods_MOC]]
+
 

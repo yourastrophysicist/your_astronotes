@@ -5,7 +5,7 @@ title: "Part1_Kinetic_Foundations_and_Fluid_Equations"
 # Part 1 - Kinetic Foundations and Fluid Equations
 
 *Course: Fluid and Plasma Dynamics, Prof. Maurizio Giacomin*  
-*Index: [Fluid_and_Plasma_Dynamics_MOC](../../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html) | Exam Guide: [Giacomin_Oral_Exam_Questions_Complete_Guide](./Giacomin_Oral_Exam_Questions_Complete_Guide.html)*  
+*Index: [[Fluid_and_Plasma_Dynamics_MOC]] | Exam Guide: [[Giacomin_Oral_Exam_Questions_Complete_Guide]]*  
 *Relevant Exam Questions: 1, 2, 3, 4, 5*  
 
 ---
@@ -324,14 +324,14 @@ $$\rho \frac{d v_i}{dt} = -\frac{\partial p}{\partial x_i} + \frac{\partial \sig
 
 For a Newtonian, isotropic fluid, $\sigma_{ij}$ is proportional to the symmetric rate-of-strain tensor, recovering the Navier-Stokes equations without reference to microscopic velocity distributions.
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/BBGKY%20hierarchy%20and%20Boltzmann%20collision%20operator.html" class="backlink-item">BBGKY hierarchy and Boltzmann collision operator</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Boltzmann%20H-theorem%20and%20Maxwellian%20distribution.html" class="backlink-item">Boltzmann H-theorem and Maxwellian distribution</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Chapman-Enskog%20expansion%20and%20Navier-Stokes%20derivation.html" class="backlink-item">Chapman-Enskog expansion and Navier-Stokes derivation</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Liouville%20theorem%20and%20phase%20space%20incompressibility.html" class="backlink-item">Liouville theorem and phase space incompressibility</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[BBGKY hierarchy and Boltzmann collision operator]]
+- [[Boltzmann H-theorem and Maxwellian distribution]]
+- [[Chapman-Enskog expansion and Navier-Stokes derivation]]
+- [[Liouville theorem and phase space incompressibility]]
+- [[Fluid_and_Plasma_Dynamics_MOC]]
+
 

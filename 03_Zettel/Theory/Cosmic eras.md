@@ -54,7 +54,7 @@ $$a(\tau) = a_{\rm eq}\!\left[\frac{2\sqrt{2}\tau/(\tau + \tau_*)}{}\right]$$
 ## transitions
 
 ### matter-radiation equality
-$\rho_m = \rho_r$ at $a_{\rm eq} = \Omega_r/\Omega_m \approx 1/3400$, redshift $z_{\rm eq} \approx 3400$. see [Matter radiation equality](Matter%20radiation%20equality.html).
+$\rho_m = \rho_r$ at $a_{\rm eq} = \Omega_r/\Omega_m \approx 1/3400$, redshift $z_{\rm eq} \approx 3400$. see [[Matter radiation equality]].
 
 ### matter-$\Lambda$ equality
 $\rho_m = \rho_\Lambda$ at $a = (\Omega_m/\Omega_\Lambda)^{1/3} \approx 0.77$, redshift $z \approx 0.3$. (or $0.5$ for the start of acceleration, where $\ddot a > 0$.)
@@ -74,34 +74,34 @@ $\rho_m = \rho_\Lambda$ at $a = (\Omega_m/\Omega_\Lambda)^{1/3} \approx 0.77$, r
 
 ## see also
 
-- [Friedmann equations](Friedmann%20equations.html)
-- [Equation of state and density scaling](Equation%20of%20state%20and%20density%20scaling.html)
-- [Continuity equation](Continuity%20equation.html)
-- [Matter radiation equality](Matter%20radiation%20equality.html)
-- [Cosmological constant](Cosmological%20constant.html)
-- [Hubble constant and deceleration parameter](Hubble%20constant%20and%20deceleration%20parameter.html)
-- [Cosmic_inventory_overview](Cosmic_inventory_overview.html)
-- [Brief thermal history](Brief%20thermal%20history.html)
+- [[Friedmann equations]]
+- [[Equation of state and density scaling]]
+- [[Continuity equation]]
+- [[Matter radiation equality]]
+- [[Cosmological constant]]
+- [[Hubble constant and deceleration parameter]]
+- [[Cosmic_inventory_overview]]
+- [[Brief thermal history]]
 - Q19 - radiation universe
 - Q20 - matter plus radiation universe
-- [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
-- [Ch 7 - Cosmology](../../02_Literature/Book/Baumann%20GR/Ch%207%20-%20Cosmology.html)
+- [[General_Relativity_MOC]]
+- [[Ch 7 - Cosmology]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (12)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Continuity%20equation.html" class="backlink-item">Continuity equation</a></li>
-    <li class="backlink-item-wrap"><a href="Cosmic%20look-back%20time.html" class="backlink-item">Cosmic look-back time</a></li>
-    <li class="backlink-item-wrap"><a href="Deceleration%20parameter.html" class="backlink-item">Deceleration parameter</a></li>
-    <li class="backlink-item-wrap"><a href="Equation%20of%20state%20and%20density%20scaling.html" class="backlink-item">Equation of state and density scaling</a></li>
-    <li class="backlink-item-wrap"><a href="FLRW%20metric.html" class="backlink-item">FLRW metric</a></li>
-    <li class="backlink-item-wrap"><a href="Friedmann%20equations.html" class="backlink-item">Friedmann equations</a></li>
-    <li class="backlink-item-wrap"><a href="Friedmann%20solutions.html" class="backlink-item">Friedmann solutions</a></li>
-    <li class="backlink-item-wrap"><a href="Matter%20radiation%20equality.html" class="backlink-item">Matter radiation equality</a></li>
-    <li class="backlink-item-wrap"><a href="Matter%20vs%20radiation%20density%20scaling.html" class="backlink-item">Matter vs radiation density scaling</a></li>
-    <li class="backlink-item-wrap"><a href="Spatial%20curvature%20parameter%20k.html" class="backlink-item">Spatial curvature parameter k</a></li>
-    <li class="backlink-item-wrap"><a href="Transition%20epochs.html" class="backlink-item">Transition epochs</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Continuity equation]]
+- [[Cosmic look-back time]]
+- [[Deceleration parameter]]
+- [[Equation of state and density scaling]]
+- [[FLRW metric]]
+- [[Friedmann equations]]
+- [[Friedmann solutions]]
+- [[Matter radiation equality]]
+- [[Matter vs radiation density scaling]]
+- [[Spatial curvature parameter k]]
+- [[Transition epochs]]
+- [[General_Relativity_MOC]]
+
 

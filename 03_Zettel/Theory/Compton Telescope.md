@@ -102,14 +102,14 @@ The Compton telescope fills the **MeV gap** between:
 	X-ray focusing telescopes (Chandra, XMM-Newton): $0.1$–$15~\text{keV}$
 	pair production telescopes (Fermi LAT): $>100~\text{MeV}$
 
-The physics is directly the [Compton scattering formula](Compton%20scattering%20and%20pair%20production.html)
-	the [Coded Mask](Coded%20Mask.html) can be combined with Compton telescopes to reduce background further
+The physics is directly the [[Compton scattering and pair production|Compton scattering formula]]
+	the [[Coded Mask]] can be combined with Compton telescopes to reduce background further
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="A%20Brief%20History%20of%20X-ray%20and%20Gamma-ray%20Missions.html" class="backlink-item">A Brief History of X-ray and Gamma-ray Missions</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[A Brief History of X-ray and Gamma-ray Missions]]
+- [[Lab_High-Energy_MOC]]
+
 

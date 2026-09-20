@@ -54,25 +54,25 @@ physically: $\nabla^\mu G_{\mu\nu} = 0$ has 4 components and matches the 4 compo
 
 ## see also
 
-- [Einstein equations](Einstein%20equations.html)
-- [Bianchi identities](Bianchi%20identities.html)
-- [Stress-energy tensor](Stress-energy%20tensor.html)
-- [Ricci tensor and scalar](Ricci%20tensor%20and%20scalar.html)
-- [Riemann tensor](Riemann%20tensor.html)
-- [Trace-reversed Einstein equations](Trace-reversed%20Einstein%20equations.html)
-- [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
-- [Ch 5 - The Einstein Equation](../../02_Literature/Book/Baumann%20GR/Ch%205%20-%20The%20Einstein%20Equation.html)
+- [[Einstein equations]]
+- [[Bianchi identities]]
+- [[Stress-energy tensor]]
+- [[Ricci tensor and scalar]]
+- [[Riemann tensor]]
+- [[Trace-reversed Einstein equations]]
+- [[General_Relativity_MOC]]
+- [[Ch 5 - The Einstein Equation]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Bianchi%20identities.html" class="backlink-item">Bianchi identities</a></li>
-    <li class="backlink-item-wrap"><a href="Cosmological%20constant.html" class="backlink-item">Cosmological constant</a></li>
-    <li class="backlink-item-wrap"><a href="Einstein%20equations.html" class="backlink-item">Einstein equations</a></li>
-    <li class="backlink-item-wrap"><a href="Ricci%20tensor%20and%20scalar.html" class="backlink-item">Ricci tensor and scalar</a></li>
-    <li class="backlink-item-wrap"><a href="Stress-energy%20tensor.html" class="backlink-item">Stress-energy tensor</a></li>
-    <li class="backlink-item-wrap"><a href="Trace-reversed%20Einstein%20equations.html" class="backlink-item">Trace-reversed Einstein equations</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Bianchi identities]]
+- [[Cosmological constant]]
+- [[Einstein equations]]
+- [[Ricci tensor and scalar]]
+- [[Stress-energy tensor]]
+- [[Trace-reversed Einstein equations]]
+- [[General_Relativity_MOC]]
+
 

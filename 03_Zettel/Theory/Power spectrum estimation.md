@@ -118,22 +118,22 @@ where $R(\tau) = \langle x(t) x(t + \tau)\rangle$ is the autocorrelation. so the
 
 ## see also
 
-- [Discrete Fourier transform](Discrete%20Fourier%20transform.html)
-- [Fast Fourier transform algorithm](Fast%20Fourier%20transform%20algorithm.html)
-- [Physical interpretation of the FFT](Physical%20interpretation%20of%20the%20FFT.html)
-- [Fourier series math summary](Fourier%20series%20math%20summary.html)
-- [FFT in scipy and numpy](FFT%20in%20scipy%20and%20numpy.html)
-- [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
+- [[Discrete Fourier transform]]
+- [[Fast Fourier transform algorithm]]
+- [[Physical interpretation of the FFT]]
+- [[Fourier series math summary]]
+- [[FFT in scipy and numpy]]
+- [[Mathematical_Numerical_Methods_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Discrete%20Fourier%20transform.html" class="backlink-item">Discrete Fourier transform</a></li>
-    <li class="backlink-item-wrap"><a href="FFT%20in%20scipy%20and%20numpy.html" class="backlink-item">FFT in scipy and numpy</a></li>
-    <li class="backlink-item-wrap"><a href="Fast%20Fourier%20transform%20algorithm.html" class="backlink-item">Fast Fourier transform algorithm</a></li>
-    <li class="backlink-item-wrap"><a href="Fourier%20series%20math%20summary.html" class="backlink-item">Fourier series math summary</a></li>
-    <li class="backlink-item-wrap"><a href="Physical%20interpretation%20of%20the%20FFT.html" class="backlink-item">Physical interpretation of the FFT</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Discrete Fourier transform]]
+- [[FFT in scipy and numpy]]
+- [[Fast Fourier transform algorithm]]
+- [[Fourier series math summary]]
+- [[Physical interpretation of the FFT]]
+- [[Mathematical_Numerical_Methods_MOC]]
+
 

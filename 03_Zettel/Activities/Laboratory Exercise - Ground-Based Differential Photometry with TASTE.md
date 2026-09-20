@@ -51,15 +51,15 @@ print(f"Out-of-transit RMS: {rms * 1e3:.2f} ppt, MAD: {mad * 1e3:.2f} ppt")
 ```
 
 ## Related Notes
-- [Differential Photometry and Comparison Star Selection](../Observations/Differential%20Photometry%20and%20Comparison%20Star%20Selection.html)
-- [Airmass and Atmospheric Extinction Correction](../Observations/Airmass%20and%20Atmospheric%20Extinction%20Correction.html)
-- [Malavolta 07 - Differential Photometry and Atmospheric Detrending](../../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2007%20-%20Differential%20Photometry%20and%20Atmospheric%20Detrending.html)
+- [[Differential Photometry and Comparison Star Selection]]
+- [[Airmass and Atmospheric Extinction Correction]]
+- [[Malavolta 07 - Differential Photometry and Atmospheric Detrending]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Observations/Differential%20Photometry%20and%20Comparison%20Star%20Selection.html" class="backlink-item">Differential Photometry and Comparison Star Selection</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Differential Photometry and Comparison Star Selection]]
+- [[Astrophysics_Laboratory_2_MOC]]
+
 

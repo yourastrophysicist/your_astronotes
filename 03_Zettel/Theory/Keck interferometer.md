@@ -60,8 +60,8 @@ these capabilities now exist at VLTI (but with multiple smaller dishes). the dua
 
 ## see also
 
-- [Components of a modern interferometer](interf/Components%20of%20a%20modern%20interferometer.html)
-- [VLTI Very Large Telescope Interferometer](interf/VLTI%20Very%20Large%20Telescope%20Interferometer.html)
-- [Adaptive optics](interf/Adaptive%20optics.html)
-- [Nulling interferometry](interf/Nulling%20interferometry.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Components of a modern interferometer]]
+- [[VLTI Very Large Telescope Interferometer]]
+- [[Adaptive optics]]
+- [[Nulling interferometry]]
+- [[Astronomical_Interferometry_MOC]]

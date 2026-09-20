@@ -70,21 +70,18 @@ source: local study diagram generated from a sampled and quantized voltage model
 
 ## see also
 
-- [Downconversion of signals in radio interferometers](Downconversion%20of%20signals%20in%20radio%20interferometers.html)
-- [Two-element correlator](Two-element%20correlator.html)
-- [Very Long Baseline Interferometry VLBI](Very%20Long%20Baseline%20Interferometry%20VLBI.html)
-- [Radio interferometer architecture](Radio%20interferometer%20architecture.html)
+- [[Downconversion of signals in radio interferometers]]
+- [[Two-element correlator]]
+- [[Very Long Baseline Interferometry VLBI]]
+- [[Radio interferometer architecture]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Downconversion%20of%20signals%20in%20radio%20interferometers.html" class="backlink-item">Downconversion of signals in radio interferometers</a></li>
-    <li class="backlink-item-wrap"><a href="../Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="../Radio%20interferometer%20architecture.html" class="backlink-item">Radio interferometer architecture</a></li>
-    <li class="backlink-item-wrap"><a href="Downconversion%20of%20signals%20in%20radio%20interferometers.html" class="backlink-item">Downconversion of signals in radio interferometers</a></li>
-    <li class="backlink-item-wrap"><a href="Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="Radio%20interferometer%20architecture.html" class="backlink-item">Radio interferometer architecture</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Downconversion of signals in radio interferometers]]
+- [[Figure bank - interferometry]]
+- [[Radio interferometer architecture]]
+- [[Astronomical_Interferometry_MOC]]
+
 

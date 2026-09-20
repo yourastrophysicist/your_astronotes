@@ -4,7 +4,7 @@ title: "CMB Spectral Distortions - What They Are and Where They Come From"
 ---
 # CMB spectral distortions, what they are and where they come from
 
-a derivation-and-context companion to [Cosmic_inventory_photons](Cosmic_inventory_photons.html) and [Photon decoupling and CMB](Photon%20decoupling%20and%20CMB.html). anchored in Baumann *Cosmology* (Cambridge Part III) chapter 3 ("Thermal History"), and in Cassata's Block 5 + Block 6 lectures from the Observational Cosmology course at U Padua AY 25/26. the goal is to walk through, in my own voice, *why* the CMB is such a perfect blackbody, *how* it could fail to be one, and *what* those failures would teach us about the universe between BBN and recombination.
+a derivation-and-context companion to [[Cosmic_inventory_photons]] and [[Photon decoupling and CMB]]. anchored in Baumann *Cosmology* (Cambridge Part III) chapter 3 ("Thermal History"), and in Cassata's Block 5 + Block 6 lectures from the Observational Cosmology course at U Padua AY 25/26. the goal is to walk through, in my own voice, *why* the CMB is such a perfect blackbody, *how* it could fail to be one, and *what* those failures would teach us about the universe between BBN and recombination.
 
 ## the question this note is trying to answer
 
@@ -13,9 +13,9 @@ $$\frac{\Delta I_\nu}{I_\nu} < 10^{-4}\quad(95\%~\text{CL})$$
 
 so what would it even mean for it to *not* be a blackbody, and why do we expect tiny departures at the $10^{-8}$ level even within plain $\Lambda$CDM?
 
-the framework Baumann lays out in §3.2 (equilibrium thermodynamics) and §3.1 (hot Big Bang, decoupling, freeze-out), combined with Cassata's treatment of [Photon decoupling and CMB](Photon%20decoupling%20and%20CMB.html) and [Brief thermal history](Brief%20thermal%20history.html), answers this in two steps:
+the framework Baumann lays out in §3.2 (equilibrium thermodynamics) and §3.1 (hot Big Bang, decoupling, freeze-out), combined with Cassata's treatment of [[Photon decoupling and CMB]] and [[Brief thermal history]], answers this in two steps:
 1. an equilibrium photon gas with both energy *and* number freely adjustable is a Planck spectrum at some $T$ (a one-parameter family).
-2. once the universe cools enough that not all relevant interactions can keep up with the expansion ($\Gamma < H$, see [Decoupling and freeze-out](Decoupling%20and%20freeze-out.html)), the photon distribution can no longer relax to Planck. any energy injected after that moment leaves a permanent fingerprint on the spectrum.
+2. once the universe cools enough that not all relevant interactions can keep up with the expansion ($\Gamma < H$, see [[Decoupling and freeze-out]]), the photon distribution can no longer relax to Planck. any energy injected after that moment leaves a permanent fingerprint on the spectrum.
 
 the *kind* of fingerprint depends on *which* interactions had already failed, which means it depends on *when* the energy was injected. that is the entire idea: spectral distortions are a redshift-resolved energy ledger of the universe.
 
@@ -25,14 +25,14 @@ the *kind* of fingerprint depends on *which* interactions had already failed, wh
 
 photons in thermal equilibrium have a phase-space distribution
 $$f(\nu) = \frac{1}{e^{h\nu/k_BT} - 1}$$
-(Baumann §3.2.1, [Number density and energy density at thermal equilibrium](Number%20density%20and%20energy%20density%20at%20thermal%20equilibrium.html), [Thermal equilibrium in the early universe](Thermal%20equilibrium%20in%20the%20early%20universe.html)).
+(Baumann §3.2.1, [[Number density and energy density at thermal equilibrium]], [[Thermal equilibrium in the early universe]]).
 
 this is a **one-parameter** distribution: knowing $T$ tells you everything. for it to be a perfect Planck, the photon gas needs to be free to adjust both its **total energy** and its **total number** in response to perturbations. two interaction families do this in the early universe:
 
 1. **Compton scattering** $\gamma + e^- \to \gamma + e^-$. redistributes energies between photons and electrons. **conserves photon number** (one in, one out). responsible for kinetic equilibrium.
 2. **double Compton** $\gamma + e^- \to \gamma + \gamma + e^-$ and **bremsstrahlung** $e^- + p \to e^- + p + \gamma$. these create or destroy photons. responsible for chemical equilibrium (matching $n_\gamma$ to $T$).
 
-as long as both families are fast compared to the Hubble rate $\Gamma > H$, any perturbation gets thermalised back to a Planck shape at a slightly readjusted temperature. this is the same $\Gamma > H$ logic Baumann uses in §3.1.2 ("decoupling and freeze-out") and that I rely on in [Photon decoupling and CMB](Photon%20decoupling%20and%20CMB.html).
+as long as both families are fast compared to the Hubble rate $\Gamma > H$, any perturbation gets thermalised back to a Planck shape at a slightly readjusted temperature. this is the same $\Gamma > H$ logic Baumann uses in §3.1.2 ("decoupling and freeze-out") and that I rely on in [[Photon decoupling and CMB]].
 
 ---
 
@@ -61,16 +61,16 @@ the existence of these three regimes is exactly what makes spectral distortions 
 in the $\mu$-era, photon number is fixed but energies still equilibrate via Compton scattering. equilibrium statistical mechanics with both an energy constraint and a particle-number constraint gives a Bose-Einstein distribution with a non-zero chemical potential (Baumann §3.2.1, eqns 3.2.4 and 3.2.6 in the Bose-Einstein case):
 $$\boxed{\, f(\nu) = \frac{1}{e^{(h\nu - \mu)/k_BT} - 1}\,}$$
 
-the chemical potential $\mu$ is the Lagrange multiplier enforcing fixed $n_\gamma$ while energy is added. this is exactly the formula I quoted in [Cosmic_inventory_photons](Cosmic_inventory_photons.html) under "spectral distortions."
+the chemical potential $\mu$ is the Lagrange multiplier enforcing fixed $n_\gamma$ while energy is added. this is exactly the formula I quoted in [[Cosmic_inventory_photons]] under "spectral distortions."
 
 ### relating $\mu$ to fractional energy injection
 
-the photon energy and number densities for a pure blackbody are (see [Cosmic_inventory_photons_derivation](Cosmic_inventory_photons_derivation.html) for the integrals):
+the photon energy and number densities for a pure blackbody are (see [[Cosmic_inventory_photons_derivation]] for the integrals):
 $$\rho_\gamma = \frac{\pi^2}{15}T^4, \qquad n_\gamma = \frac{2\zeta(3)}{\pi^2}T^3$$
 
 so the dimensionless ratio $\rho_\gamma/n_\gamma^{4/3}$ is a constant for a Planck spectrum. injecting energy without changing $n_\gamma$ raises the numerator only, and the spectrum *cannot* relax back to Planck. it relaxes to the closest BE form, which has $\mu \neq 0$.
 
-the standard linearised Sunyaev-Zeldovich (1970) result, reproduced in Kolb & Turner *The Early Universe* §3.5 (one of Baumann's recommended further-reading texts in [Baumann_reference](Baumann_reference.html)), is
+the standard linearised Sunyaev-Zeldovich (1970) result, reproduced in Kolb & Turner *The Early Universe* §3.5 (one of Baumann's recommended further-reading texts in [[Baumann_reference]]), is
 $$\frac{\mu}{k_BT} \approx 1.4 \,\frac{\Delta\rho_\gamma}{\rho_\gamma}$$
 in the small-$\mu$ regime. so a measurement of $\mu/T$ is a direct meter for fractional energy injection during the $\mu$-era.
 
@@ -78,7 +78,7 @@ in the small-$\mu$ regime. so a measurement of $\mu/T$ is a direct meter for fra
 
 even with no exotic physics, $\Lambda$CDM predicts a small but unavoidable $\mu$-distortion from two effects:
 
-1. **Silk damping**. small-scale acoustic oscillations in the photon-baryon fluid are dissipated by photon diffusion (the same physics that suppresses the high-$\ell$ tail of the CMB power spectrum, in the language of Baumann ch 5 and [Linear evolution of perturbations in expanding universe](Linear%20evolution%20of%20perturbations%20in%20expanding%20universe.html)). that dissipated energy heats the photon bath. since this happens during the $\mu$-era, it leaves a $\mu$-distortion.
+1. **Silk damping**. small-scale acoustic oscillations in the photon-baryon fluid are dissipated by photon diffusion (the same physics that suppresses the high-$\ell$ tail of the CMB power spectrum, in the language of Baumann ch 5 and [[Linear evolution of perturbations in expanding universe]]). that dissipated energy heats the photon bath. since this happens during the $\mu$-era, it leaves a $\mu$-distortion.
 2. **adiabatic cooling of baryons**. baryons (massive, non-relativistic) want to cool as $T_b \propto a^{-2}$, faster than photons ($T_\gamma \propto a^{-1}$). Compton scattering keeps them locked together and pulls energy *out* of the photon bath into the electrons. this contributes a slightly negative $\mu$.
 
 for the measured primordial power spectrum the net guaranteed signal is
@@ -111,7 +111,7 @@ the bracket is negative at low $\nu$, positive at high $\nu$, and crosses zero a
 
 same logic as $\mu$. the relation between $y$ and fractional energy injection during the $y$-era is
 $$y \approx \frac{1}{4}\frac{\Delta\rho_\gamma}{\rho_\gamma}$$
-the standard-model expectation from late-time effects (reionisation heating, the warm-hot intergalactic medium, integrated SZ from cluster electrons across the sky, see [Reionization](Reionization.html) and [Cosmic_inventory_overview](Cosmic_inventory_overview.html)) is
+the standard-model expectation from late-time effects (reionisation heating, the warm-hot intergalactic medium, integrated SZ from cluster electrons across the sky, see [[Reionization]] and [[Cosmic_inventory_overview]]) is
 $$y \sim 10^{-6}$$
 again well below the FIRAS limit $y < 1.5 \times 10^{-5}$.
 
@@ -119,7 +119,7 @@ again well below the FIRAS limit $y < 1.5 \times 10^{-5}$.
 
 ## two ways the Planck distribution can fail
 
-put the two side by side, with the rest of [Cosmic_inventory_photons](Cosmic_inventory_photons.html) in mind:
+put the two side by side, with the rest of [[Cosmic_inventory_photons]] in mind:
 
 | failure mode | where in the spectrum | physical origin | era of injection |
 |---|---|---|---|
@@ -152,9 +152,9 @@ reading top to bottom, this is the same logic Baumann uses in §3.1.2 to define 
 
 the boxed equations above show that $\mu$ and $y$ are **integrals of the energy injection history**, weighted by which era you are in. they encode information from epochs that no other observation can reach.
 
-- **$\mu$-distortion**, $5\times 10^4 \lesssim z \lesssim 2\times 10^6$. this redshift range is otherwise blind. it sits between BBN ($z \sim 10^9$, see [BBN_overview](BBN_overview.html)) and recombination ($z \sim 1100$, see [Saha equation and recombination](Saha%20equation%20and%20recombination.html)). the CMB spectrum is the *only* observational window onto it. detecting the standard-model $\mu \sim 2\times 10^{-8}$ would directly measure the **primordial power spectrum at very small scales**, $k \sim 1$ to $10^4$ Mpc$^{-1}$, which CMB anisotropies cannot reach (Planck probes $k \lesssim 0.2$ Mpc$^{-1}$) and Lyman-$\alpha$ cannot either ($k \lesssim 1$ Mpc$^{-1}$). this would close a four-decade gap in $k$.
+- **$\mu$-distortion**, $5\times 10^4 \lesssim z \lesssim 2\times 10^6$. this redshift range is otherwise blind. it sits between BBN ($z \sim 10^9$, see [[BBN_overview]]) and recombination ($z \sim 1100$, see [[Saha equation and recombination]]). the CMB spectrum is the *only* observational window onto it. detecting the standard-model $\mu \sim 2\times 10^{-8}$ would directly measure the **primordial power spectrum at very small scales**, $k \sim 1$ to $10^4$ Mpc$^{-1}$, which CMB anisotropies cannot reach (Planck probes $k \lesssim 0.2$ Mpc$^{-1}$) and Lyman-$\alpha$ cannot either ($k \lesssim 1$ Mpc$^{-1}$). this would close a four-decade gap in $k$.
 
-- **$y$-distortion**. constrains the late-time energy budget: reionisation, the WHIM "missing baryons" (see [Cosmic_inventory_overview](Cosmic_inventory_overview.html) and the [Cosmic_inventory_baryons](Cosmic_inventory_baryons.html) note), and the integrated SZ from all cluster electrons. effectively a one-number summary of the integrated thermal energy of the cosmic plasma since recombination.
+- **$y$-distortion**. constrains the late-time energy budget: reionisation, the WHIM "missing baryons" (see [[Cosmic_inventory_overview]] and the [[Cosmic_inventory_baryons]] note), and the integrated SZ from all cluster electrons. effectively a one-number summary of the integrated thermal energy of the cosmic plasma since recombination.
 
 - **anything bigger than the standard-model floor** would mean new physics: decaying or annihilating dark matter, primordial black hole evaporation, axion-like particles, enhanced small-scale primordial power. spectral distortions are one of the cleanest model-independent constraints on these scenarios.
 
@@ -162,12 +162,12 @@ the boxed equations above show that $\mu$ and $y$ are **integrals of the energy 
 
 ## how this fits the courses I am taking
 
-**Cassata's Block 5 ([Brief thermal history](Brief%20thermal%20history.html))** sets up the temperature timeline I am using here. the redshifts of recombination, equality, and BBN come from that block. **Block 6 ([Photon decoupling and CMB](Photon%20decoupling%20and%20CMB.html) and [Cosmic_inventory_photons](Cosmic_inventory_photons.html))** establishes the CMB blackbody itself: FIRAS, $T_0 = 2.725$ K, the photon density and $\Omega_{0\gamma}$.
+**Cassata's Block 5 ([[Brief thermal history]])** sets up the temperature timeline I am using here. the redshifts of recombination, equality, and BBN come from that block. **Block 6 ([[Photon decoupling and CMB]] and [[Cosmic_inventory_photons]])** establishes the CMB blackbody itself: FIRAS, $T_0 = 2.725$ K, the photon density and $\Omega_{0\gamma}$.
 
 **Baumann *Cosmology* chapter 3** is the rigorous backbone:
 - §3.1.2 (decoupling and freeze-out) gives the $\Gamma > H$ vs $\Gamma < H$ criterion that defines the two critical redshifts above.
 - §3.2.1 to §3.2.3 (equilibrium thermodynamics, Bose-Einstein, chemical potentials) gives the formula $f = 1/(e^{(h\nu-\mu)/k_BT}-1)$ that the $\mu$-distortion lives on.
-- §3.2.4 (entropy conservation in a comoving volume, see [Conservation of entropy in a comoving volume](Conservation%20of%20entropy%20in%20a%20comoving%20volume.html)) is what allows me to translate "fractional energy injection" into a measurable spectral parameter.
+- §3.2.4 (entropy conservation in a comoving volume, see [[Conservation of entropy in a comoving volume]]) is what allows me to translate "fractional energy injection" into a measurable spectral parameter.
 - §3.3.1 (Boltzmann equation in cosmology) is the framework that the Kompaneets equation is a non-relativistic, isotropic limit of.
 
 Baumann does not derive $\mu$ or $y$ explicitly (he stops at the equilibrium framework and the Boltzmann equation). for the actual derivations I supplemented with Kolb & Turner *The Early Universe* §3.5 ("departures from equilibrium") and the Chluba & Sunyaev (2012) review.
@@ -191,16 +191,16 @@ this is exactly the kind of "the universe as a precision instrument" physics tha
 
 ## see also
 
-- [Cosmic_inventory_photons](Cosmic_inventory_photons.html) — parent note with the boxed bounds
-- [Cosmic_inventory_photons_derivation](Cosmic_inventory_photons_derivation.html) — derivation of $n_\gamma$, $\rho_\gamma$, $\Omega_{0\gamma}$
-- [Photon decoupling and CMB](Photon%20decoupling%20and%20CMB.html) — how the CMB temperature today is set
-- [Thermal equilibrium in the early universe](Thermal%20equilibrium%20in%20the%20early%20universe.html) — Bose-Einstein and Fermi-Dirac framework
-- [Number density and energy density at thermal equilibrium](Number%20density%20and%20energy%20density%20at%20thermal%20equilibrium.html) — relativistic-limit formulae
-- [Conservation of entropy in a comoving volume](Conservation%20of%20entropy%20in%20a%20comoving%20volume.html) — the $T \propto 1/a$ result
-- [Brief thermal history](Brief%20thermal%20history.html) — where $z_{\rm therm}$, $z_K$, and recombination sit on the timeline
-- [Saha equation and recombination](Saha%20equation%20and%20recombination.html) — the same $\Gamma > H$ logic at a different epoch
-- [Decoupling and freeze-out](Decoupling%20and%20freeze-out.html) — the general framework
-- [BBN_overview](BBN_overview.html) — the previous "frontier" probed by similar logic
-- [Baumann_reference](Baumann_reference.html) — chapter 3 sections cited above
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
+- [[Cosmic_inventory_photons]] — parent note with the boxed bounds
+- [[Cosmic_inventory_photons_derivation]] — derivation of $n_\gamma$, $\rho_\gamma$, $\Omega_{0\gamma}$
+- [[Photon decoupling and CMB]] — how the CMB temperature today is set
+- [[Thermal equilibrium in the early universe]] — Bose-Einstein and Fermi-Dirac framework
+- [[Number density and energy density at thermal equilibrium]] — relativistic-limit formulae
+- [[Conservation of entropy in a comoving volume]] — the $T \propto 1/a$ result
+- [[Brief thermal history]] — where $z_{\rm therm}$, $z_K$, and recombination sit on the timeline
+- [[Saha equation and recombination]] — the same $\Gamma > H$ logic at a different epoch
+- [[Decoupling and freeze-out]] — the general framework
+- [[BBN_overview]] — the previous "frontier" probed by similar logic
+- [[Baumann_reference]] — chapter 3 sections cited above
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Observational_Cosmology_MOC]]

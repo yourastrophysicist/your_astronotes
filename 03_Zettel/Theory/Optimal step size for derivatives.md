@@ -80,22 +80,22 @@ for $n$-dimensional gradients, finite differences cost $\sim n$ evaluations. AD'
 if $f$ is itself noisy (Monte Carlo estimate, simulation output), the "machine epsilon" $\epsilon$ should be replaced by the *noise level* $\sigma$. then:
 
 - forward $f'$: $h_{\rm opt} \sim \sqrt{\sigma}$, error $\sim \sqrt{\sigma}$. for $\sigma = 10^{-3}$ the error is $\sim 10^{-1.5}$ — useless
-- the right approach is **smoothing first**, see [Derivatives of noisy data](Derivatives%20of%20noisy%20data.html)
+- the right approach is **smoothing first**, see [[Derivatives of noisy data]]
 
 ## see also
 
-- [Forward backward and central differences](Forward%20backward%20and%20central%20differences.html)
-- [Roundoff vs truncation balance](Roundoff%20vs%20truncation%20balance.html)
-- [Floating point representation and rounding errors](Floating%20point%20representation%20and%20rounding%20errors.html)
-- [Derivatives of noisy data](Derivatives%20of%20noisy%20data.html)
-- [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
+- [[Forward backward and central differences]]
+- [[Roundoff vs truncation balance]]
+- [[Floating point representation and rounding errors]]
+- [[Derivatives of noisy data]]
+- [[Mathematical_Numerical_Methods_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Roundoff%20vs%20truncation%20balance.html" class="backlink-item">Roundoff vs truncation balance</a></li>
-    <li class="backlink-item-wrap"><a href="Second%20derivatives.html" class="backlink-item">Second derivatives</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Roundoff vs truncation balance]]
+- [[Second derivatives]]
+- [[Mathematical_Numerical_Methods_MOC]]
+
 

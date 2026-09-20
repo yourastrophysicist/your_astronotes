@@ -145,14 +145,14 @@ When sketching the Madau plot on the blackboard.
 
 ## 7. See Also
 
-- [UV luminosity function](UV%20luminosity%20function.html)
-- [Cosmic star formation history](Cosmic%20star%20formation%20history.html)
-- [UV SFR tracer](UV%20SFR%20tracer.html)
-- [Schmidt-Kennicutt law](Schmidt-Kennicutt%20law.html)
-- [Color bimodality of galaxies](Color%20bimodality%20of%20galaxies.html)
-- [Cosmic stellar mass density growth](Cosmic%20stellar%20mass%20density%20growth.html)
-- [High-z galaxies with JWST](High-z%20galaxies%20with%20JWST.html)
-- [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html)
+- [[UV luminosity function]]
+- [[Cosmic star formation history]]
+- [[UV SFR tracer]]
+- [[Schmidt-Kennicutt law]]
+- [[Color bimodality of galaxies]]
+- [[Cosmic stellar mass density growth]]
+- [[High-z galaxies with JWST]]
+- [[Astrophysics_of_Galaxies_MOC]]
 
 ---
 
@@ -167,14 +167,14 @@ When sketching the Madau plot on the blackboard.
 ![madau2014_stellar_mass.png](../../assets/images/madau2014_stellar_mass.png)
 *Cosmic stellar mass density growth rho_*(z) obtained by integrating the Madau curve.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Deep-field%20surveys.html" class="backlink-item">Deep-field surveys</a></li>
-    <li class="backlink-item-wrap"><a href="Protocluster%20detection%20techniques.html" class="backlink-item">Protocluster detection techniques</a></li>
-    <li class="backlink-item-wrap"><a href="Schmidt-Kennicutt%20law.html" class="backlink-item">Schmidt-Kennicutt law</a></li>
-    <li class="backlink-item-wrap"><a href="UV%20luminosity%20function.html" class="backlink-item">UV luminosity function</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Deep-field surveys]]
+- [[Protocluster detection techniques]]
+- [[Schmidt-Kennicutt law]]
+- [[UV luminosity function]]
+- [[Astrophysics_of_Galaxies_MOC]]
+
 

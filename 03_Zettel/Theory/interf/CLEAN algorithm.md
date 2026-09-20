@@ -120,43 +120,32 @@ source: S. T. Myers, NRAO Synthesis Imaging Summer School page on snapshot imagi
 
 ## see also
 
-- [Dirty beam and dirty image](Dirty%20beam%20and%20dirty%20image.html)
-- [Maximum entropy method](../Maximum%20entropy%20method.html)
-- [Self-calibration](Self-calibration.html)
-- [Imaging artifacts](Imaging%20artifacts.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Dirty beam and dirty image]]
+- [[Maximum entropy method]]
+- [[Self-calibration]]
+- [[Imaging artifacts]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (28)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Aperture%20synthesis%20principle.html" class="backlink-item">Aperture synthesis principle</a></li>
-    <li class="backlink-item-wrap"><a href="../Crowding%20limitation.html" class="backlink-item">Crowding limitation</a></li>
-    <li class="backlink-item-wrap"><a href="../Deconvolution%20algorithms%20compared.html" class="backlink-item">Deconvolution algorithms compared</a></li>
-    <li class="backlink-item-wrap"><a href="../Dirty%20beam%20and%20dirty%20image.html" class="backlink-item">Dirty beam and dirty image</a></li>
-    <li class="backlink-item-wrap"><a href="../Earth%20rotation%20synthesis%20in%20radio.html" class="backlink-item">Earth rotation synthesis in radio</a></li>
-    <li class="backlink-item-wrap"><a href="../Earth-rotation%20aperture%20synthesis.html" class="backlink-item">Earth-rotation aperture synthesis</a></li>
-    <li class="backlink-item-wrap"><a href="../Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="../Imaging%20artifacts.html" class="backlink-item">Imaging artifacts</a></li>
-    <li class="backlink-item-wrap"><a href="../Maximum%20entropy%20method.html" class="backlink-item">Maximum entropy method</a></li>
-    <li class="backlink-item-wrap"><a href="../Mosaicking.html" class="backlink-item">Mosaicking</a></li>
-    <li class="backlink-item-wrap"><a href="../Self-calibration.html" class="backlink-item">Self-calibration</a></li>
-    <li class="backlink-item-wrap"><a href="../Steps%20in%20radio%20interferometric%20observations.html" class="backlink-item">Steps in radio interferometric observations</a></li>
-    <li class="backlink-item-wrap"><a href="Aperture%20synthesis%20principle.html" class="backlink-item">Aperture synthesis principle</a></li>
-    <li class="backlink-item-wrap"><a href="Crowding%20limitation.html" class="backlink-item">Crowding limitation</a></li>
-    <li class="backlink-item-wrap"><a href="Deconvolution%20algorithms%20compared.html" class="backlink-item">Deconvolution algorithms compared</a></li>
-    <li class="backlink-item-wrap"><a href="Dirty%20beam%20and%20dirty%20image.html" class="backlink-item">Dirty beam and dirty image</a></li>
-    <li class="backlink-item-wrap"><a href="Earth%20rotation%20synthesis%20in%20radio.html" class="backlink-item">Earth rotation synthesis in radio</a></li>
-    <li class="backlink-item-wrap"><a href="Earth-rotation%20aperture%20synthesis.html" class="backlink-item">Earth-rotation aperture synthesis</a></li>
-    <li class="backlink-item-wrap"><a href="Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="Imaging%20artifacts.html" class="backlink-item">Imaging artifacts</a></li>
-    <li class="backlink-item-wrap"><a href="Mosaicking.html" class="backlink-item">Mosaicking</a></li>
-    <li class="backlink-item-wrap"><a href="Optical%20transfer%20function.html" class="backlink-item">Optical transfer function</a></li>
-    <li class="backlink-item-wrap"><a href="Phase%20closure.html" class="backlink-item">Phase closure</a></li>
-    <li class="backlink-item-wrap"><a href="Point%20spread%20function.html" class="backlink-item">Point spread function</a></li>
-    <li class="backlink-item-wrap"><a href="Self-calibration.html" class="backlink-item">Self-calibration</a></li>
-    <li class="backlink-item-wrap"><a href="Steps%20in%20radio%20interferometric%20observations.html" class="backlink-item">Steps in radio interferometric observations</a></li>
-    <li class="backlink-item-wrap"><a href="Two-element%20correlator.html" class="backlink-item">Two-element correlator</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Aperture synthesis principle]]
+- [[Crowding limitation]]
+- [[Deconvolution algorithms compared]]
+- [[Dirty beam and dirty image]]
+- [[Earth rotation synthesis in radio]]
+- [[Earth-rotation aperture synthesis]]
+- [[Figure bank - interferometry]]
+- [[Imaging artifacts]]
+- [[Maximum entropy method]]
+- [[Mosaicking]]
+- [[Self-calibration]]
+- [[Steps in radio interferometric observations]]
+- [[Optical transfer function]]
+- [[Phase closure]]
+- [[Point spread function]]
+- [[Two-element correlator]]
+- [[Astronomical_Interferometry_MOC]]
+
 

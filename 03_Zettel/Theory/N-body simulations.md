@@ -2,7 +2,7 @@
 layout: "default"
 title: "N-body simulations"
 ---
-**N-body simulations** numerically follow the gravitational evolution of $\sim 10^9$ to $10^{12}$ "particles" representing dark matter (+ optionally baryons) under their mutual gravity. the standard tool for predicting the **non-linear regime** of structure formation. (companion: [Astrophysical N-body problem formulation](Astrophysical%20N-body%20problem%20formulation.html) for the algorithmic side.)
+**N-body simulations** numerically follow the gravitational evolution of $\sim 10^9$ to $10^{12}$ "particles" representing dark matter (+ optionally baryons) under their mutual gravity. the standard tool for predicting the **non-linear regime** of structure formation. (companion: [[Astrophysical N-body problem formulation]] for the algorithmic side.)
 
 ## the basic problem
 
@@ -81,16 +81,16 @@ simulations underpin:
 
 ## see also
 
-- [Astrophysical N-body problem formulation](Astrophysical%20N-body%20problem%20formulation.html)
-- [Collisional vs collisionless N-body](Collisional%20vs%20collisionless%20N-body.html)
-- [N-body with Euler vs midpoint vs leapfrog](N-body%20with%20Euler%20vs%20midpoint%20vs%20leapfrog.html)
-- [Linear vs nonlinear regime](Linear%20vs%20nonlinear%20regime.html)
-- [Spherical collapse](Spherical%20collapse.html)
-- [Press-Schechter halo mass function](Press-Schechter%20halo%20mass%20function.html)
-- [Halo mass function vs galaxy mass function](Halo%20mass%20function%20vs%20galaxy%20mass%20function.html)
-- [Matter power spectrum and BAO](Matter%20power%20spectrum%20and%20BAO.html)
-- [Cosmic_inventory_dark_matter](Cosmic_inventory_dark_matter.html)
-- [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
+- [[Astrophysical N-body problem formulation]]
+- [[Collisional vs collisionless N-body]]
+- [[N-body with Euler vs midpoint vs leapfrog]]
+- [[Linear vs nonlinear regime]]
+- [[Spherical collapse]]
+- [[Press-Schechter halo mass function]]
+- [[Halo mass function vs galaxy mass function]]
+- [[Matter power spectrum and BAO]]
+- [[Cosmic_inventory_dark_matter]]
+- [[Observational_Cosmology_MOC]]
 
 ---
 
@@ -111,12 +111,12 @@ simulations underpin:
 ![mapelli_fig10_p102.png](../../assets/images/mapelli_fig10_p53.png)
 *Direct summation vs Tree-code scaling: $\mathcal{O}(N^2)$ vs $\mathcal{O}(N\log N)$ CPU execution time.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Cosmological%20evolution%20of%20perturbations%20in%20the%20cosmic%20fluid.html" class="backlink-item">Cosmological evolution of perturbations in the cosmic fluid</a></li>
-    <li class="backlink-item-wrap"><a href="Linear%20vs%20nonlinear%20regime.html" class="backlink-item">Linear vs nonlinear regime</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Cosmological evolution of perturbations in the cosmic fluid]]
+- [[Linear vs nonlinear regime]]
+- [[Observational_Cosmology_MOC]]
+
 

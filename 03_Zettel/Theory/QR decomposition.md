@@ -8,7 +8,7 @@ every matrix $A$ (square or rectangular) factors as
 
 $$A = QR$$
 
-with $Q$ **orthogonal** ($Q^T Q = I$) and $R$ upper triangular. the columns of $Q$ are an orthonormal basis for the column space of $A$. for symmetric matrices this factorization is the foundation of the [QR algorithm for eigenvalues](QR%20algorithm%20for%20eigenvalues.html); for rectangular matrices it is the cleanest way to do least squares.
+with $Q$ **orthogonal** ($Q^T Q = I$) and $R$ upper triangular. the columns of $Q$ are an orthonormal basis for the column space of $A$. for symmetric matrices this factorization is the foundation of the [[QR algorithm for eigenvalues]]; for rectangular matrices it is the cleanest way to do least squares.
 
 ## why orthogonal matrices are special
 
@@ -16,7 +16,7 @@ an orthogonal matrix $Q$ preserves length: $\lVert Q\mathbf{x}\rVert = \lVert\ma
 
 ## construction via Gram-Schmidt
 
-[Gram-Schmidt orthogonalization](Gram-Schmidt%20orthogonalization.html) turns the columns $\mathbf{a}_0, \mathbf{a}_1, \ldots, \mathbf{a}_{N-1}$ of $A$ into an orthonormal set $\mathbf{q}_0, \mathbf{q}_1, \ldots, \mathbf{q}_{N-1}$:
+[[Gram-Schmidt orthogonalization]] turns the columns $\mathbf{a}_0, \mathbf{a}_1, \ldots, \mathbf{a}_{N-1}$ of $A$ into an orthonormal set $\mathbf{q}_0, \mathbf{q}_1, \ldots, \mathbf{q}_{N-1}$:
 
 $$\mathbf{u}_i = \mathbf{a}_i - \sum_{k=0}^{i-1} (\mathbf{q}_k \cdot \mathbf{a}_i) \mathbf{q}_k, \qquad \mathbf{q}_i = \mathbf{u}_i / \\lvert \mathbf{u}_i\\rvert$$
 
@@ -64,7 +64,7 @@ this is what `np.linalg.lstsq` does under the hood.
 
 ### 2. eigenvalue computation (the QR algorithm)
 
-iterate: $A_0 = A$, then $A_k = Q_k R_k$, $A_{k+1} = R_k Q_k$. for symmetric $A$, $A_k$ converges to a diagonal matrix whose entries are the eigenvalues, and the cumulative product of the $Q_k$ converges to the eigenvector matrix. this is [QR algorithm for eigenvalues](QR%20algorithm%20for%20eigenvalues.html).
+iterate: $A_0 = A$, then $A_k = Q_k R_k$, $A_{k+1} = R_k Q_k$. for symmetric $A$, $A_k$ converges to a diagonal matrix whose entries are the eigenvalues, and the cumulative product of the $Q_k$ converges to the eigenvector matrix. this is [[QR algorithm for eigenvalues]].
 
 ### 3. orthonormal basis for a subspace
 
@@ -82,23 +82,23 @@ QR is the matrix-level statement of Gram-Schmidt. seeing both side by side:
 
 ## see also
 
-- [Gram-Schmidt orthogonalization](Gram-Schmidt%20orthogonalization.html)
-- [QR algorithm for eigenvalues](QR%20algorithm%20for%20eigenvalues.html)
-- [Power iteration](Power%20iteration.html)
-- [Linear least squares](Linear%20least%20squares.html) — uses QR internally
-- [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
+- [[Gram-Schmidt orthogonalization]]
+- [[QR algorithm for eigenvalues]]
+- [[Power iteration]]
+- [[Linear least squares]] — uses QR internally
+- [[Mathematical_Numerical_Methods_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (8)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Gram-Schmidt%20orthogonalization.html" class="backlink-item">Gram-Schmidt orthogonalization</a></li>
-    <li class="backlink-item-wrap"><a href="LU%20decomposition.html" class="backlink-item">LU decomposition</a></li>
-    <li class="backlink-item-wrap"><a href="Linear%20least%20squares.html" class="backlink-item">Linear least squares</a></li>
-    <li class="backlink-item-wrap"><a href="Matrix%20diagonalization%20%24A%20%3D%20VDV%5ET%24.html" class="backlink-item">Matrix diagonalization $A = VDV^T$</a></li>
-    <li class="backlink-item-wrap"><a href="Power%20iteration.html" class="backlink-item">Power iteration</a></li>
-    <li class="backlink-item-wrap"><a href="Pros%20and%20cons%20of%20linear%20solvers.html" class="backlink-item">Pros and cons of linear solvers</a></li>
-    <li class="backlink-item-wrap"><a href="QR%20algorithm%20for%20eigenvalues.html" class="backlink-item">QR algorithm for eigenvalues</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Gram-Schmidt orthogonalization]]
+- [[LU decomposition]]
+- [[Linear least squares]]
+- [[Matrix diagonalization $A = VDV^T$]]
+- [[Power iteration]]
+- [[Pros and cons of linear solvers]]
+- [[QR algorithm for eigenvalues]]
+- [[Mathematical_Numerical_Methods_MOC]]
+
 

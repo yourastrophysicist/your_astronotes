@@ -32,17 +32,17 @@ the plasma undergoes selective decay, relaxing toward the minimum energy state c
 
 ## see also
 
-- [Fluid_and_Plasma_Dynamics_MOC](../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html)
-- [Part8_Reconnection_Relaxation_and_Dynamo_Theory](../../02_Literature/Lectures/Fluid_and_Plasma_Dynamics/Part8_Reconnection_Relaxation_and_Dynamo_Theory.html)
-- [Reversed Field Pinch physics and RFX-mod experiment](Reversed%20Field%20Pinch%20physics%20and%20RFX-mod%20experiment.html)
-- [Sweet-Parker magnetic reconnection and Lundquist number](Sweet-Parker%20magnetic%20reconnection%20and%20Lundquist%20number.html)
+- [[Fluid_and_Plasma_Dynamics_MOC]]
+- [[Part8_Reconnection_Relaxation_and_Dynamo_Theory]]
+- [[Reversed Field Pinch physics and RFX-mod experiment]]
+- [[Sweet-Parker magnetic reconnection and Lundquist number]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Reversed%20Field%20Pinch%20physics%20and%20RFX-mod%20experiment.html" class="backlink-item">Reversed Field Pinch physics and RFX-mod experiment</a></li>
-    <li class="backlink-item-wrap"><a href="Sweet-Parker%20magnetic%20reconnection%20and%20Lundquist%20number.html" class="backlink-item">Sweet-Parker magnetic reconnection and Lundquist number</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Reversed Field Pinch physics and RFX-mod experiment]]
+- [[Sweet-Parker magnetic reconnection and Lundquist number]]
+- [[Fluid_and_Plasma_Dynamics_MOC]]
+
 

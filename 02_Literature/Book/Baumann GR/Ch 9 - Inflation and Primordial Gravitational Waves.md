@@ -4,7 +4,7 @@ title: "Ch 9 - Inflation and Primordial Gravitational Waves"
 ---
 # Baumann Ch 9 (extension), Inflation and Primordial Gravitational Waves
 
-up: [Baumann GR](./Baumann%20GR.html) · [General_Relativity_MOC](../../../04_Atlas/General_Relativity_MOC.html)
+up: [[Baumann GR]] · [[General_Relativity_MOC]]
 
 *this chapter is not in Baumann's GR lecture notes. it is the natural next step, the bridge between Ch 7 (cosmology) and Ch 8 (gravitational waves), and the topic Baumann himself is most associated with. it answers the question that Ch 7 quietly leaves open: where did the FLRW universe come from? why does it look so smooth, so flat, so finely tuned? and what is the smoking gun that would tell us inflation actually happened?*
 
@@ -195,21 +195,21 @@ if i had to compress chapter 9 into a paragraph for the oral:
 
 ## connections
 
-- [General_Relativity_MOC](../../../04_Atlas/General_Relativity_MOC.html)
-- [Baumann GR](./Baumann%20GR.html)
+- [[General_Relativity_MOC]]
+- [[Baumann GR]]
 - Inflation MOC · Cosmological perturbation theory · FLRW · Slow-roll parameters · Scalar field stress-energy
 - Comoving Hubble radius · Horizon problem · Flatness problem · E-folds
 - Curvature perturbation · Power spectrum · Spectral tilt · Tensor-to-scalar ratio
 - CMB polarization · E-modes and B-modes · BICEP · LiteBIRD · CMB-S4
-- bridges: [Ch 7 - Cosmology](./Ch%207%20-%20Cosmology.html) (FLRW + Friedmann) and [Ch 8 - Gravitational Waves](./Ch%208%20-%20Gravitational%20Waves.html) (TT metric perturbations)
+- bridges: [[Ch 7 - Cosmology]] (FLRW + Friedmann) and [[Ch 8 - Gravitational Waves]] (TT metric perturbations)
 - references: Baumann, *Cosmology* (Cambridge, 2022); Baumann, "TASI Lectures on Inflation" (arXiv:0907.5424)
-- previous: [Ch 8 - Gravitational Waves](./Ch%208%20-%20Gravitational%20Waves.html)
+- previous: [[Ch 8 - Gravitational Waves]]
 - this is the natural continuation of Baumann's GR notes, beyond the printed text.
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (1)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/SVT%20decomposition.html" class="backlink-item">SVT decomposition</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[SVT decomposition]]
+
 

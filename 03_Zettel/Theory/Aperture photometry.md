@@ -52,7 +52,7 @@ assumption: the PSF is uniform across the image. fails for spatially varying PSF
 - **suboptimal SNR**: pixel weighting is uniform inside the aperture; PSF photometry weights pixels by the PSF and gets better SNR.
 - **sensitive to aperture choice and centring**: a few-pixel offset can change the magnitude.
 
-for crowded fields (globular clusters, nuclear regions), use [PSF photometry](PSF%20photometry.html) instead.
+for crowded fields (globular clusters, nuclear regions), use [[PSF photometry]] instead.
 
 ## standard tools
 
@@ -69,12 +69,12 @@ for galaxies and extended sources, circular apertures truncate flux. Kron radii 
 
 ## see also
 
-- [The CCD equation](The%20CCD%20equation.html)
-- [PSF photometry](PSF%20photometry.html)
-- [CCD calibration steps](CCD%20calibration%20steps.html)
-- [Sky brightness](Sky%20brightness.html)
-- [Magnitudes and photometric systems](Magnitudes%20and%20photometric%20systems.html)
-- [Galaxy size-luminosity relation](Galaxy%20size-luminosity%20relation.html)
+- [[The CCD equation]]
+- [[PSF photometry]]
+- [[CCD calibration steps]]
+- [[Sky brightness]]
+- [[Magnitudes and photometric systems]]
+- [[Galaxy size-luminosity relation]]
 
 ---
 
@@ -86,20 +86,20 @@ for galaxies and extended sources, circular apertures truncate flux. Kron radii 
 ![obs_ccd-32.png](../../assets/images/obs_ccd-32.png)
 *Background subtraction using sky annulus: N_* = C_ap - n_pix * <C_sky>.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (11)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="CCD%20calibration%20steps.html" class="backlink-item">CCD calibration steps</a></li>
-    <li class="backlink-item-wrap"><a href="CCD%20detectors%20and%20SNR.html" class="backlink-item">CCD detectors and SNR</a></li>
-    <li class="backlink-item-wrap"><a href="Cosmic%20rays%20and%20bad%20pixels.html" class="backlink-item">Cosmic rays and bad pixels</a></li>
-    <li class="backlink-item-wrap"><a href="Linearity%20and%20saturation.html" class="backlink-item">Linearity and saturation</a></li>
-    <li class="backlink-item-wrap"><a href="PSF%20photometry.html" class="backlink-item">PSF photometry</a></li>
-    <li class="backlink-item-wrap"><a href="Photometric%20standard%20stars.html" class="backlink-item">Photometric standard stars</a></li>
-    <li class="backlink-item-wrap"><a href="Python%20and%20IRAF%20tools%20for%20photometry.html" class="backlink-item">Python and IRAF tools for photometry</a></li>
-    <li class="backlink-item-wrap"><a href="Sersic%20profile.html" class="backlink-item">Sersic profile</a></li>
-    <li class="backlink-item-wrap"><a href="Spectrum%20reduction%20pipeline.html" class="backlink-item">Spectrum reduction pipeline</a></li>
-    <li class="backlink-item-wrap"><a href="The%20CCD%20equation.html" class="backlink-item">The CCD equation</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[CCD calibration steps]]
+- [[CCD detectors and SNR]]
+- [[Cosmic rays and bad pixels]]
+- [[Linearity and saturation]]
+- [[PSF photometry]]
+- [[Photometric standard stars]]
+- [[Python and IRAF tools for photometry]]
+- [[Sersic profile]]
+- [[Spectrum reduction pipeline]]
+- [[The CCD equation]]
+- [[Observational_Astrophysics_MOC]]
+
 

@@ -38,18 +38,18 @@ magnetic field lines are topologically frozen into fluid elements. fluid can flo
 
 ## see also
 
-- [Fluid_and_Plasma_Dynamics_MOC](../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html)
-- [Part7_Magnetohydrodynamics_Equilibrium_and_Waves](../../02_Literature/Lectures/Fluid_and_Plasma_Dynamics/Part7_Magnetohydrodynamics_Equilibrium_and_Waves.html)
-- [Sweet-Parker magnetic reconnection and Lundquist number](Sweet-Parker%20magnetic%20reconnection%20and%20Lundquist%20number.html)
-- [Shear Alfven and magnetosonic wave modes in MHD](Shear%20Alfven%20and%20magnetosonic%20wave%20modes%20in%20MHD.html)
+- [[Fluid_and_Plasma_Dynamics_MOC]]
+- [[Part7_Magnetohydrodynamics_Equilibrium_and_Waves]]
+- [[Sweet-Parker magnetic reconnection and Lundquist number]]
+- [[Shear Alfven and magnetosonic wave modes in MHD]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Cylindrical%20Z-pinch%20equilibrium%20and%20Bennett%20relation.html" class="backlink-item">Cylindrical Z-pinch equilibrium and Bennett relation</a></li>
-    <li class="backlink-item-wrap"><a href="Shear%20Alfven%20and%20magnetosonic%20wave%20modes%20in%20MHD.html" class="backlink-item">Shear Alfven and magnetosonic wave modes in MHD</a></li>
-    <li class="backlink-item-wrap"><a href="Sweet-Parker%20magnetic%20reconnection%20and%20Lundquist%20number.html" class="backlink-item">Sweet-Parker magnetic reconnection and Lundquist number</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Cylindrical Z-pinch equilibrium and Bennett relation]]
+- [[Shear Alfven and magnetosonic wave modes in MHD]]
+- [[Sweet-Parker magnetic reconnection and Lundquist number]]
+- [[Fluid_and_Plasma_Dynamics_MOC]]
+
 

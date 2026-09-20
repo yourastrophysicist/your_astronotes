@@ -53,15 +53,15 @@ these would push NPOI back toward the cutting edge of imaging.
 
 ## see also
 
-- [Components of a modern interferometer](Components%20of%20a%20modern%20interferometer.html)
-- [CHARA array](CHARA%20array.html)
-- [Stellar diameters and limb darkening](Stellar%20diameters%20and%20limb%20darkening.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Components of a modern interferometer]]
+- [[CHARA array]]
+- [[Stellar diameters and limb darkening]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (1)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Astronomical_Interferometry_MOC]]
+
 

@@ -110,7 +110,7 @@ the inversion is a sparse linear-system solve, doable in microseconds on modern 
 
 ## see also
 
-- [Adaptive optics](interf/Adaptive%20optics.html)
-- [Deformable mirrors and tip-tilt](interf/Deformable%20mirrors%20and%20tip-tilt.html)
-- [Guide stars and laser guide stars](interf/Guide%20stars%20and%20laser%20guide%20stars.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Adaptive optics]]
+- [[Deformable mirrors and tip-tilt]]
+- [[Guide stars and laser guide stars]]
+- [[Astronomical_Interferometry_MOC]]

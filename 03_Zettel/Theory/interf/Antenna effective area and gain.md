@@ -80,25 +80,20 @@ source: local study diagram generated from standard antenna relations.
 
 ## see also
 
-- [Radio astronomy basics](Radio%20astronomy%20basics.html)
-- [Beam power pattern of a radio telescope](Beam%20power%20pattern%20of%20a%20radio%20telescope.html)
-- [Radiometer equation and SEFD](Radiometer%20equation%20and%20SEFD.html)
-- [Radio interferometer architecture](Radio%20interferometer%20architecture.html)
+- [[Radio astronomy basics]]
+- [[Beam power pattern of a radio telescope]]
+- [[Radiometer equation and SEFD]]
+- [[Radio interferometer architecture]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (11)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../ALMA%20exposure%20time%20calculator%20and%20sensitivity.html" class="backlink-item">ALMA exposure time calculator and sensitivity</a></li>
-    <li class="backlink-item-wrap"><a href="../Beam%20power%20pattern%20of%20a%20radio%20telescope.html" class="backlink-item">Beam power pattern of a radio telescope</a></li>
-    <li class="backlink-item-wrap"><a href="../Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="../Radio%20astronomy%20basics.html" class="backlink-item">Radio astronomy basics</a></li>
-    <li class="backlink-item-wrap"><a href="../Radiometer%20equation%20and%20SEFD.html" class="backlink-item">Radiometer equation and SEFD</a></li>
-    <li class="backlink-item-wrap"><a href="ALMA%20exposure%20time%20calculator%20and%20sensitivity.html" class="backlink-item">ALMA exposure time calculator and sensitivity</a></li>
-    <li class="backlink-item-wrap"><a href="Beam%20power%20pattern%20of%20a%20radio%20telescope.html" class="backlink-item">Beam power pattern of a radio telescope</a></li>
-    <li class="backlink-item-wrap"><a href="Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="Radio%20astronomy%20basics.html" class="backlink-item">Radio astronomy basics</a></li>
-    <li class="backlink-item-wrap"><a href="Radiometer%20equation%20and%20SEFD.html" class="backlink-item">Radiometer equation and SEFD</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[ALMA exposure time calculator and sensitivity]]
+- [[Beam power pattern of a radio telescope]]
+- [[Figure bank - interferometry]]
+- [[Radio astronomy basics]]
+- [[Radiometer equation and SEFD]]
+- [[Astronomical_Interferometry_MOC]]
+
 

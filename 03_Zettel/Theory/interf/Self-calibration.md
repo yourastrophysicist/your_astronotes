@@ -113,36 +113,26 @@ EHT's M87 image is the result of massive self-calibration combined with multiple
 
 ## see also
 
-- [Calibration overview](Calibration%20overview.html)
-- [Phase referencing](Phase%20referencing.html)
-- [CLEAN algorithm](CLEAN%20algorithm.html)
-- [The phase problem in interferometry](The%20phase%20problem%20in%20interferometry.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Calibration overview]]
+- [[Phase referencing]]
+- [[CLEAN algorithm]]
+- [[The phase problem in interferometry]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (21)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Bandpass%20calibration.html" class="backlink-item">Bandpass calibration</a></li>
-    <li class="backlink-item-wrap"><a href="../CLEAN%20algorithm.html" class="backlink-item">CLEAN algorithm</a></li>
-    <li class="backlink-item-wrap"><a href="../Calibration%20overview.html" class="backlink-item">Calibration overview</a></li>
-    <li class="backlink-item-wrap"><a href="../Closure%20amplitude.html" class="backlink-item">Closure amplitude</a></li>
-    <li class="backlink-item-wrap"><a href="../Flux%20calibration%20in%20radio.html" class="backlink-item">Flux calibration in radio</a></li>
-    <li class="backlink-item-wrap"><a href="../Imaging%20artifacts.html" class="backlink-item">Imaging artifacts</a></li>
-    <li class="backlink-item-wrap"><a href="../Phase%20closure.html" class="backlink-item">Phase closure</a></li>
-    <li class="backlink-item-wrap"><a href="../Phase%20referencing.html" class="backlink-item">Phase referencing</a></li>
-    <li class="backlink-item-wrap"><a href="../Steps%20in%20radio%20interferometric%20observations.html" class="backlink-item">Steps in radio interferometric observations</a></li>
-    <li class="backlink-item-wrap"><a href="../The%20phase%20problem%20in%20interferometry.html" class="backlink-item">The phase problem in interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="Bandpass%20calibration.html" class="backlink-item">Bandpass calibration</a></li>
-    <li class="backlink-item-wrap"><a href="CLEAN%20algorithm.html" class="backlink-item">CLEAN algorithm</a></li>
-    <li class="backlink-item-wrap"><a href="Calibration%20overview.html" class="backlink-item">Calibration overview</a></li>
-    <li class="backlink-item-wrap"><a href="Closure%20amplitude.html" class="backlink-item">Closure amplitude</a></li>
-    <li class="backlink-item-wrap"><a href="Flux%20calibration%20in%20radio.html" class="backlink-item">Flux calibration in radio</a></li>
-    <li class="backlink-item-wrap"><a href="Imaging%20artifacts.html" class="backlink-item">Imaging artifacts</a></li>
-    <li class="backlink-item-wrap"><a href="Phase%20closure.html" class="backlink-item">Phase closure</a></li>
-    <li class="backlink-item-wrap"><a href="Phase%20referencing.html" class="backlink-item">Phase referencing</a></li>
-    <li class="backlink-item-wrap"><a href="Steps%20in%20radio%20interferometric%20observations.html" class="backlink-item">Steps in radio interferometric observations</a></li>
-    <li class="backlink-item-wrap"><a href="The%20phase%20problem%20in%20interferometry.html" class="backlink-item">The phase problem in interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Bandpass calibration]]
+- [[CLEAN algorithm]]
+- [[Calibration overview]]
+- [[Closure amplitude]]
+- [[Flux calibration in radio]]
+- [[Imaging artifacts]]
+- [[Phase closure]]
+- [[Phase referencing]]
+- [[Steps in radio interferometric observations]]
+- [[The phase problem in interferometry]]
+- [[Astronomical_Interferometry_MOC]]
+
 

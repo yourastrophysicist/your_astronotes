@@ -59,20 +59,20 @@ flat universe: $\ell_1 \approx 220$. open: smaller. closed: larger. Planck data 
 
 ## see also
 
-- [Spatial curvature parameter k](Spatial%20curvature%20parameter%20k.html)
-- [Friedmann equations](Friedmann%20equations.html)
-- [Density parameters](Density%20parameters.html)
-- [ΛCDM current parameters](%CE%9BCDM%20current%20parameters.html)
-- [CMB power spectrum](CMB%20power%20spectrum.html)
-- [Angular diameter distance](Angular%20diameter%20distance.html)
-- [Inflation overview](Inflation%20overview.html)
-- [Cosmological constant](Cosmological%20constant.html)
-- [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
+- [[Spatial curvature parameter k]]
+- [[Friedmann equations]]
+- [[Density parameters]]
+- [[ΛCDM current parameters]]
+- [[CMB power spectrum]]
+- [[Angular diameter distance]]
+- [[Inflation overview]]
+- [[Cosmological constant]]
+- [[Observational_Cosmology_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (1)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Observational_Cosmology_MOC]]
+
 

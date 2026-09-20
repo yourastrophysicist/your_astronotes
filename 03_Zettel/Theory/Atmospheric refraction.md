@@ -66,9 +66,9 @@ as a result, point-like stars observed at high airmass ($z > 30^\circ$) are disp
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Horizontal alt-azimuth system](Horizontal%20alt-azimuth%20system.html)
-- [Earth coordinates](Earth%20coordinates.html)
-- [Precession and nutation](Precession%20and%20nutation.html)
-- [Aberration of light](Aberration%20of%20light.html)
-- [Annual stellar parallax](Annual%20stellar%20parallax.html)
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Horizontal alt-azimuth system]]
+- [[Earth coordinates]]
+- [[Precession and nutation]]
+- [[Aberration of light]]
+- [[Annual stellar parallax]]

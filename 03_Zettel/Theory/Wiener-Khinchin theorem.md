@@ -57,7 +57,7 @@ Wiener-Khinchin says the power spectrum of a stationary signal is the Fourier tr
 
 ## see also
 
-- [Two-element correlator](interf/Two-element%20correlator.html)
-- [Coherence function and visibility](interf/Coherence%20function%20and%20visibility.html)
-- [Van Cittert-Zernike theorem](interf/Van%20Cittert-Zernike%20theorem.html)
-- [Radio interferometer architecture](interf/Radio%20interferometer%20architecture.html)
+- [[Two-element correlator]]
+- [[Coherence function and visibility]]
+- [[Van Cittert-Zernike theorem]]
+- [[Radio interferometer architecture]]

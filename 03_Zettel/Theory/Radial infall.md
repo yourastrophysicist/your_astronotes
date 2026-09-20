@@ -71,20 +71,20 @@ quantitative: for a Sun-mass BH ($GM \sim 5\,\mu$s in time units), $\tau_{\rm ho
 
 ## see also
 
-- [Schwarzschild metric](Schwarzschild%20metric.html)
-- [Schwarzschild horizon](Schwarzschild%20horizon.html)
-- [Schwarzschild effective potential](Schwarzschild%20effective%20potential.html)
-- [Geodesic equation](Geodesic%20equation.html)
+- [[Schwarzschild metric]]
+- [[Schwarzschild horizon]]
+- [[Schwarzschild effective potential]]
+- [[Geodesic equation]]
 - Q13 - radial infall and proper time
-- [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
-- [Ch 6 - Black Holes](../../02_Literature/Book/Baumann%20GR/Ch%206%20-%20Black%20Holes.html)
+- [[General_Relativity_MOC]]
+- [[Ch 6 - Black Holes]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Eddington-Finkelstein%20and%20Kruskal.html" class="backlink-item">Eddington-Finkelstein and Kruskal</a></li>
-    <li class="backlink-item-wrap"><a href="Schwarzschild%20metric.html" class="backlink-item">Schwarzschild metric</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Eddington-Finkelstein and Kruskal]]
+- [[Schwarzschild metric]]
+- [[General_Relativity_MOC]]
+
 

@@ -38,14 +38,14 @@ $$\text{Supernovae} \xrightarrow{\text{blast waves}} \text{Hot Coronal Gas (HIM)
 
 complete, detailed lecture-by-lecture syntheses from prof. carraro's course:
 
-- [Lecture 01: Introduction & Multi-Phase ISM](../02_Literature/Lectures/Interstellar_Medium/Carraro_01_Introduction_and_Multi-phase_ISM.html) - scope, definitions, lifecycle, the 6 empirical phases, scale heights, filling factors, and pressure equilibrium
-- [Lecture 02: Neutral Hydrogen & 21cm Universe](../02_Literature/Lectures/Interstellar_Medium/Carraro_02_Neutral_Hydrogen_and_21cm_Universe.html) - 21 cm hyperfine line physics, spin temperature $T_s$, optical depth and column density $N_{\text{HI}}$, Milky Way rotation curves, Oort milestone vs Balser & Burton (2025) flocculent disk, and Vera Rubin dark matter
-- [Lecture 03: HII Regions & Photoionized Gas](../02_Literature/Lectures/Interstellar_Medium/Carraro_03_HII_Regions_and_Photoionized_Gas.html) - photoionization equilibrium, Strömgren sphere derivation, Case B recombination, forbidden line spectroscopy ($p^2$ and $p^3$ configurations), $T_e$ and $n_e$ plasma diagnostics, primordial helium $Y_p$, and IR fine-structure lines
-- [Lecture 04: Massive Stars Feedback & Stellar Winds](../02_Literature/Lectures/Interstellar_Medium/Carraro_04_Massive_Stars_Feedback_and_Stellar_Winds.html) - radiation pressure on resonance lines, Eddington parameter $\Gamma$, modified escape velocity $v_{\text{esc}}$, mass-loss rates $\dot{M}$, P-Cygni spectral line profiles, and wind-blown bubbles
-- [Lecture 05: Interstellar Dust & Extinction](../02_Literature/Lectures/Interstellar_Medium/Carraro_05_Interstellar_Dust_and_Extinction.html) - Trumpler 1930 discovery, extinction laws, color excess $E(B-V)$, $R_V$, Cardelli-Clayton-Mathis (CCM 1989) polynomials, 2175 Å bump, DIBs, UIBs/PAHs, grain chemistry, catalytic $H_2$ formation, and IR SFR diagnostics
-- [Lecture 06: Supernovae & Hot Ionized Medium](../02_Literature/Lectures/Interstellar_Medium/Carraro_06_Supernovae_and_Hot_Ionized_Medium.html) - SNR blast waves (free expansion, Sedov-Taylor $R \propto t^{2/5}$, snowplow $R \propto t^{1/4}$), soft X-rays, superbubbles, galactic chimneys, fountains, HVCs, and Intra-Cluster Medium ram pressure stripping
-- [Lecture 07: Interstellar Magnetic Fields](../02_Literature/Lectures/Interstellar_Medium/Carraro_07_Interstellar_Magnetic_Fields.html) - galactic magnetic fields ($B \sim \mu\text{G}$), starlight polarization (Davis-Greenstein), polarized dust emission, Zeeman splitting ($1.4\text{ Hz}/\mu\text{G}$), Faraday rotation ($RM/DM$, $\langle B_\parallel \rangle = 1.232 RM/DM$), and synchrotron emission
-- [Lecture 08: Shocks, Turbulence & MHD Waves](../02_Literature/Lectures/Interstellar_Medium/Carraro_08_Shocks_Turbulence_and_MHD_Waves.html) - fluid conservation laws, Sod shock tube experiment, Rankine-Hugoniot jump conditions (adiabatic vs isothermal shocks), Reynolds numbers, Kármán vortex streets, Kolmogorov cascade ($k^{-5/3}$), Larson's laws, Alfvén waves ($v_A$), magnetosonic waves ($v_{\text{ms}}$), and vector identities
+- [[Carraro_01_Introduction_and_Multi-phase_ISM|Lecture 01: Introduction & Multi-Phase ISM]] - scope, definitions, lifecycle, the 6 empirical phases, scale heights, filling factors, and pressure equilibrium
+- [[Carraro_02_Neutral_Hydrogen_and_21cm_Universe|Lecture 02: Neutral Hydrogen & 21cm Universe]] - 21 cm hyperfine line physics, spin temperature $T_s$, optical depth and column density $N_{\text{HI}}$, Milky Way rotation curves, Oort milestone vs Balser & Burton (2025) flocculent disk, and Vera Rubin dark matter
+- [[Carraro_03_HII_Regions_and_Photoionized_Gas|Lecture 03: HII Regions & Photoionized Gas]] - photoionization equilibrium, Strömgren sphere derivation, Case B recombination, forbidden line spectroscopy ($p^2$ and $p^3$ configurations), $T_e$ and $n_e$ plasma diagnostics, primordial helium $Y_p$, and IR fine-structure lines
+- [[Carraro_04_Massive_Stars_Feedback_and_Stellar_Winds|Lecture 04: Massive Stars Feedback & Stellar Winds]] - radiation pressure on resonance lines, Eddington parameter $\Gamma$, modified escape velocity $v_{\text{esc}}$, mass-loss rates $\dot{M}$, P-Cygni spectral line profiles, and wind-blown bubbles
+- [[Carraro_05_Interstellar_Dust_and_Extinction|Lecture 05: Interstellar Dust & Extinction]] - Trumpler 1930 discovery, extinction laws, color excess $E(B-V)$, $R_V$, Cardelli-Clayton-Mathis (CCM 1989) polynomials, 2175 Å bump, DIBs, UIBs/PAHs, grain chemistry, catalytic $H_2$ formation, and IR SFR diagnostics
+- [[Carraro_06_Supernovae_and_Hot_Ionized_Medium|Lecture 06: Supernovae & Hot Ionized Medium]] - SNR blast waves (free expansion, Sedov-Taylor $R \propto t^{2/5}$, snowplow $R \propto t^{1/4}$), soft X-rays, superbubbles, galactic chimneys, fountains, HVCs, and Intra-Cluster Medium ram pressure stripping
+- [[Carraro_07_Interstellar_Magnetic_Fields|Lecture 07: Interstellar Magnetic Fields]] - galactic magnetic fields ($B \sim \mu\text{G}$), starlight polarization (Davis-Greenstein), polarized dust emission, Zeeman splitting ($1.4\text{ Hz}/\mu\text{G}$), Faraday rotation ($RM/DM$, $\langle B_\parallel \rangle = 1.232 RM/DM$), and synchrotron emission
+- [[Carraro_08_Shocks_Turbulence_and_MHD_Waves|Lecture 08: Shocks, Turbulence & MHD Waves]] - fluid conservation laws, Sod shock tube experiment, Rankine-Hugoniot jump conditions (adiabatic vs isothermal shocks), Reynolds numbers, Kármán vortex streets, Kolmogorov cascade ($k^{-5/3}$), Larson's laws, Alfvén waves ($v_A$), magnetosonic waves ($v_{\text{ms}}$), and vector identities
 
 ---
 
@@ -54,42 +54,42 @@ complete, detailed lecture-by-lecture syntheses from prof. carraro's course:
 modular, atomic reference notes structured by physical topic:
 
 ### 1. multi-phase ism structure & thermodynamics
-- [Multi-phase structure of the interstellar medium](../03_Zettel/Theory/Multi-phase%20structure%20of%20the%20interstellar%20medium.html) - the 6-phase table, temperatures, densities, filling factors, and pressure equilibrium
-- [Interstellar medium components and gas cycle](../03_Zettel/Theory/Interstellar%20medium%20components%20and%20gas%20cycle.html) - dynamic reservoir, galactic inflows/outflows, and the bathtub model
+- [[Multi-phase structure of the interstellar medium]] - the 6-phase table, temperatures, densities, filling factors, and pressure equilibrium
+- [[Interstellar medium components and gas cycle]] - dynamic reservoir, galactic inflows/outflows, and the bathtub model
 
 ### 2. neutral hydrogen & 21 cm physics
-- [HI 21 cm hyperfine transition](../03_Zettel/Theory/HI%2021%20cm%20hyperfine%20transition.html) - quantum origin, spin-flip Hamiltonian, selection rules, transition probability $A_{10}$, and lifetime
-- [Spin temperature and 21 cm radiative transfer](../03_Zettel/Theory/Spin%20temperature%20and%2021%20cm%20radiative%20transfer.html) - Boltzmann ratio, Wouthuysen-Field effect, absorption coefficient, and $N_{\text{HI}} = 1.823 \times 10^{18} \int T_B dv$
-- [Galactic HI kinematics and Milky Way spiral structure](../03_Zettel/Theory/Galactic%20HI%20kinematics%20and%20Milky%20Way%20spiral%20structure.html) - tangent point method, circular velocity $\Theta(R)$, warp, flaring, and grand-design vs flocculent inner disk
+- [[HI 21 cm hyperfine transition]] - quantum origin, spin-flip Hamiltonian, selection rules, transition probability $A_{10}$, and lifetime
+- [[Spin temperature and 21 cm radiative transfer]] - Boltzmann ratio, Wouthuysen-Field effect, absorption coefficient, and $N_{\text{HI}} = 1.823 \times 10^{18} \int T_B dv$
+- [[Galactic HI kinematics and Milky Way spiral structure]] - tangent point method, circular velocity $\Theta(R)$, warp, flaring, and grand-design vs flocculent inner disk
 
 ### 3. photoionized gas & plasma diagnostics
-- [HII regions and Stromgren sphere physics](../03_Zettel/Theory/HII%20regions%20and%20Stromgren%20sphere%20physics.html) - photoionization balance, Case B recombination, Strömgren radius $R_S \propto Q^{1/3} n_H^{-2/3}$, and ionization front thickness
-- [Forbidden line diagnostics of electron temperature and density](../03_Zettel/Theory/Forbidden%20line%20diagnostics%20of%20electron%20temperature%20and%20density.html) - $p^2$ configuration [O III] $T_e$ diagnostic ($e^{-32970/T_e}$), $p^3$ configuration [S II] and [O II] $n_e$ doublet ratios, and critical densities
-- [Primordial helium abundance from HII regions](../03_Zettel/Theory/Primordial%20helium%20abundance%20from%20HII%20regions.html) - optical He I recombination lines ($\lambda 4471, 5876, 6678$), linear regression $Y$ vs $O/H$, and BBN concordance
+- [[HII regions and Stromgren sphere physics]] - photoionization balance, Case B recombination, Strömgren radius $R_S \propto Q^{1/3} n_H^{-2/3}$, and ionization front thickness
+- [[Forbidden line diagnostics of electron temperature and density]] - $p^2$ configuration [O III] $T_e$ diagnostic ($e^{-32970/T_e}$), $p^3$ configuration [S II] and [O II] $n_e$ doublet ratios, and critical densities
+- [[Primordial helium abundance from HII regions]] - optical He I recombination lines ($\lambda 4471, 5876, 6678$), linear regression $Y$ vs $O/H$, and BBN concordance
 
 ### 4. stellar feedback & line-driven winds
-- [Line-driven stellar winds and P-Cygni profiles](../03_Zettel/Theory/Line-driven%20stellar%20winds%20and%20P-Cygni%20profiles.html) - radiation pressure, Eddington parameter $\Gamma$, modified escape velocity, mass-loss rate $\dot{M}$, and P-Cygni geometry
+- [[Line-driven stellar winds and P-Cygni profiles]] - radiation pressure, Eddington parameter $\Gamma$, modified escape velocity, mass-loss rate $\dot{M}$, and P-Cygni geometry
 
 ### 5. interstellar dust & chemistry
-- [Trumpler discovery of interstellar extinction](../03_Zettel/Theory/Trumpler%20discovery%20of%20interstellar%20extinction.html) - open cluster angular vs photometric distances ($d_D$ vs $d_L$), proof of absorbing dust
-- [Cardelli-Clayton-Mathis CCM extinction law](../03_Zettel/Theory/Cardelli-Clayton-Mathis%20CCM%20extinction%20law.html) - analytical polynomials across IR, optical, UV, 2175 Å bump, and $R_V$ variations
-- [Diffuse interstellar bands and polycyclic aromatic hydrocarbons](../03_Zettel/Theory/Diffuse%20interstellar%20bands%20and%20polycyclic%20aromatic%20hydrocarbons.html) - DIB absorption, buckminsterfullerene $C_{60}^+$, UIB mid-IR emission, and PAH quantum heating
-- [Catalytic H2 formation on dust grains](../03_Zettel/Theory/Catalytic%20H2%20formation%20on%20dust%20grains.html) - grain surface recombination, binding energy release, Lyman-Werner band photodissociation, and $H_2$ self-shielding
-- [Interstellar reddening and the reddening vector](../03_Zettel/Theory/Interstellar%20reddening%20and%20the%20reddening%20vector.html) - color excess $E(B-V)$, $R_V$, reddening vector on the CMD, and de-reddening corrections
+- [[Trumpler discovery of interstellar extinction]] - open cluster angular vs photometric distances ($d_D$ vs $d_L$), proof of absorbing dust
+- [[Cardelli-Clayton-Mathis CCM extinction law]] - analytical polynomials across IR, optical, UV, 2175 Å bump, and $R_V$ variations
+- [[Diffuse interstellar bands and polycyclic aromatic hydrocarbons]] - DIB absorption, buckminsterfullerene $C_{60}^+$, UIB mid-IR emission, and PAH quantum heating
+- [[Catalytic H2 formation on dust grains]] - grain surface recombination, binding energy release, Lyman-Werner band photodissociation, and $H_2$ self-shielding
+- [[Interstellar reddening and the reddening vector]] - color excess $E(B-V)$, $R_V$, reddening vector on the CMD, and de-reddening corrections
 
 ### 6. supernova remnants & the hot ionized medium
-- [Sedov-Taylor blast wave expansion](../03_Zettel/Theory/Sedov-Taylor%20blast%20wave%20expansion.html) - the 4 phases of SNR evolution, dimensional derivation of $R_s \propto t^{2/5}$ and $v_s \propto t^{-3/5}$, and snowplow phase $R_s \propto t^{1/4}$
-- [Superbubbles galactic chimneys and fountains](../03_Zettel/Theory/Superbubbles%20galactic%20chimneys%20and%20fountains.html) - collective OB feedback, superbubble blowout into the halo, chimneys, fountains, and HVC recycling
-- [Ram pressure stripping in galaxy clusters](../03_Zettel/Theory/Ram%20pressure%20stripping%20in%20galaxy%20clusters.html) - Gunn-Gott criterion $P_{\text{ram}} = \rho_{\text{ICM}} v^2 > 2\pi G \Sigma_* \Sigma_{\text{gas}}$, jellyfish galaxies, and cluster quenching
+- [[Sedov-Taylor blast wave expansion]] - the 4 phases of SNR evolution, dimensional derivation of $R_s \propto t^{2/5}$ and $v_s \propto t^{-3/5}$, and snowplow phase $R_s \propto t^{1/4}$
+- [[Superbubbles galactic chimneys and fountains]] - collective OB feedback, superbubble blowout into the halo, chimneys, fountains, and HVC recycling
+- [[Ram pressure stripping in galaxy clusters]] - Gunn-Gott criterion $P_{\text{ram}} = \rho_{\text{ICM}} v^2 > 2\pi G \Sigma_* \Sigma_{\text{gas}}$, jellyfish galaxies, and cluster quenching
 
 ### 7. interstellar magnetic fields
-- [Interstellar magnetic field tracers](../03_Zettel/Theory/Interstellar%20magnetic%20field%20tracers.html) - comparison table of starlight polarization, dust emission, Zeeman effect, Faraday rotation, and synchrotron radiation
-- [Faraday rotation and pulsar dispersion measure](../03_Zettel/Theory/Faraday%20rotation%20and%20pulsar%20dispersion%20measure.html) - plasma birefringence, rotation measure $RM$, dispersion measure $DM$, and $\langle B_\parallel \rangle = 1.232 RM/DM$
+- [[Interstellar magnetic field tracers]] - comparison table of starlight polarization, dust emission, Zeeman effect, Faraday rotation, and synchrotron radiation
+- [[Faraday rotation and pulsar dispersion measure]] - plasma birefringence, rotation measure $RM$, dispersion measure $DM$, and $\langle B_\parallel \rangle = 1.232 RM/DM$
 
 ### 8. hydrodynamics, turbulence & mhd waves
-- [Rankine-Hugoniot shock jump conditions](../03_Zettel/Theory/Rankine-Hugoniot%20shock%20jump%20conditions.html) - mass, momentum, and energy conservation, adiabatic compression limit $\rho_2/\rho_1 \le 4$, and isothermal compression $\rho_2/\rho_1 = \mathcal{M}^2$
-- [Interstellar turbulence and Kolmogorov cascade](../03_Zettel/Theory/Interstellar%20turbulence%20and%20Kolmogorov%20cascade.html) - Reynolds number in ISM, Kármán vortex streets, energy cascade $E(k) \propto k^{-5/3}$, and Larson's relations
-- [Alfven and magnetosonic waves](../03_Zettel/Theory/Alfven%20and%20magnetosonic%20waves.html) - ideal MHD flux freezing, transverse shear Alfvén mode $v_A = B/\sqrt{4\pi\rho}$, and compressional fast/slow magnetosonic modes $v_{\text{ms}} = \sqrt{c_s^2 + v_A^2}$
+- [[Rankine-Hugoniot shock jump conditions]] - mass, momentum, and energy conservation, adiabatic compression limit $\rho_2/\rho_1 \le 4$, and isothermal compression $\rho_2/\rho_1 = \mathcal{M}^2$
+- [[Interstellar turbulence and Kolmogorov cascade]] - Reynolds number in ISM, Kármán vortex streets, energy cascade $E(k) \propto k^{-5/3}$, and Larson's relations
+- [[Alfven and magnetosonic waves]] - ideal MHD flux freezing, transverse shear Alfvén mode $v_A = B/\sqrt{4\pi\rho}$, and compressional fast/slow magnetosonic modes $v_{\text{ms}} = \sqrt{c_s^2 + v_A^2}$
 
 ---
 
@@ -132,20 +132,20 @@ frequently asked questions in Padova oral examinations for this course:
 
 Canonical and modern arXiv astro-ph.GA benchmark papers underlying the turbulence, dust-emission, and star-formation physics above.
 
-- [Larson (1981) — Turbulence and Star Formation in Molecular Clouds](../02_Literature/Papers/12_Interstellar_Medium/Larson_1981_Turbulence_Star_Formation_Molecular_Clouds.html) — Larson's relations, turbulent Jeans mass
-- [Draine & Li (2007) — Infrared Emission from Interstellar Dust IV](../02_Literature/Papers/12_Interstellar_Medium/Draine_Li_2007_Infrared_Emission_Dust_PAH.html) — stochastic grain heating, the DL07 silicate-graphite-PAH model
-- [Meidt et al. (2023) — PHANGS-JWST ISM Structure on the Turbulent Jeans Scale](../02_Literature/Papers/12_Interstellar_Medium/Meidt_2023_PHANGS_JWST_ISM_Structure.html) — JWST/ALMA-resolved filament/shell network, turbulent Jeans fragmentation test
+- [[Larson_1981_Turbulence_Star_Formation_Molecular_Clouds|Larson (1981) — Turbulence and Star Formation in Molecular Clouds]] — Larson's relations, turbulent Jeans mass
+- [[Draine_Li_2007_Infrared_Emission_Dust_PAH|Draine & Li (2007) — Infrared Emission from Interstellar Dust IV]] — stochastic grain heating, the DL07 silicate-graphite-PAH model
+- [[Meidt_2023_PHANGS_JWST_ISM_Structure|Meidt et al. (2023) — PHANGS-JWST ISM Structure on the Turbulent Jeans Scale]] — JWST/ALMA-resolved filament/shell network, turbulent Jeans fragmentation test
 
 ---
 
 ## see also
 
 - Master Year 2 Semester 1 Timetable
-- [Astrophysics of Galaxies MOC](Astrophysics_of_Galaxies_MOC.html)
-- [Stellar Astrophysics MOC](Stellar_Astrophysics_MOC.html)
-- [Astronomical Interferometry MOC](Astronomical_Interferometry_MOC.html)
-- [Observational Cosmology MOC](Observational_Cosmology_MOC.html)
-- [Fundamentals of Astrophysics & Cosmology MOC](Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [[Astrophysics_of_Galaxies_MOC|Astrophysics of Galaxies MOC]]
+- [[Stellar_Astrophysics_MOC|Stellar Astrophysics MOC]]
+- [[Astronomical_Interferometry_MOC|Astronomical Interferometry MOC]]
+- [[Observational_Cosmology_MOC|Observational Cosmology MOC]]
+- [[Fundamentals_Astrophysics_Cosmology_MOC|Fundamentals of Astrophysics & Cosmology MOC]]
 
 
 ---
@@ -154,19 +154,19 @@ Canonical and modern arXiv astro-ph.GA benchmark papers underlying the turbulenc
 
 | Figure ID | Visual Asset Name | Slide / Concept Title | Primary Zettel / Lecture Note Link | Key Physical / Theoretical Principle |
 | :--- | :--- | :--- | :--- | :--- |
-| **ISM-01** | `ism_hi_p01.png` | Hyperfine 21cm Hydrogen Transition | [Lecture 02: Neutral Hydrogen & 21cm Universe](../02_Literature/Lectures/Interstellar_Medium/Carraro_02_Neutral_Hydrogen_and_21cm_Universe.html) | Spin-flip magnetic dipole transition $F=1 \to 0$ ($\nu = 1420.4\text{ MHz}, A_{10} = 2.85 \times 10^{-15}\text{ s}^{-1}$) |
-| **ISM-02** | `ism_hi_p03.png` | Milky Way HI Kinematics & Spiral Arms | [Lecture 02: Neutral Hydrogen & 21cm Universe](../02_Literature/Lectures/Interstellar_Medium/Carraro_02_Neutral_Hydrogen_and_21cm_Universe.html) | Galactic $(l, v_{\mathrm{LSR}})$ diagram and tangent point rotation curve derivation |
-| **ISM-03** | `ism_hii_p01.png` | Strömgren Ionization Sphere Equilibrium | [Lecture 03: HII Regions & Photoionized Gas](../02_Literature/Lectures/Interstellar_Medium/Carraro_03_HII_Regions_and_Photoionized_Gas.html) | Balance between ionizing UV photon production and Case B recombinations |
-| **ISM-04** | `ism_hii_p03.png` | Optical Forbidden Emission Diagnostics | [Lecture 03: HII Regions & Photoionized Gas](../02_Literature/Lectures/Interstellar_Medium/Carraro_03_HII_Regions_and_Photoionized_Gas.html) | $[O III]$ temperature thermometer and $[S II]$ electron density barometer |
-| **ISM-05** | `ism_dust_p01.png` | Interstellar Extinction Curve | [Lecture 05: Interstellar Dust & Extinction](../02_Literature/Lectures/Interstellar_Medium/Carraro_05_Interstellar_Dust_and_Extinction.html) | Total-to-selective extinction $R_V$ and the $2175\text{ \AA}$ graphite/PAH UV bump |
-| **ISM-06** | `ism_dust_p04.png` | MRN Grain Size Distribution | [Lecture 05: Interstellar Dust & Extinction](../02_Literature/Lectures/Interstellar_Medium/Carraro_05_Interstellar_Dust_and_Extinction.html) | Power-law grain spectrum $dn/da \propto a^{-3.5}$ from $0.005\,\mu\mathrm{m}$ to $0.25\,\mu\mathrm{m}$ |
-| **ISM-07** | `ism_dust_p07.png` | Mid-Infrared Thermal Dust Emission | [Lecture 05: Interstellar Dust & Extinction](../02_Literature/Lectures/Interstellar_Medium/Carraro_05_Interstellar_Dust_and_Extinction.html) | Modified blackbody emission $F_\nu \propto B_\nu(T_d)\kappa_\nu$ in radiative equilibrium |
-| **ISM-08** | `ism_him_p01.png` | Sedov-Taylor Blast Wave Expansion | [Lecture 06: Supernovae & Hot Ionized Medium](../02_Literature/Lectures/Interstellar_Medium/Carraro_06_Supernovae_and_Hot_Ionized_Medium.html) | Self-similar blast radius $R(t) \propto (E/\rho)^{1/5} t^{2/5}$ producing soft X-rays |
-| **ISM-09** | `ism_him_p03.png` | Supernova Remnant Evolutionary Phases | [Lecture 06: Supernovae & Hot Ionized Medium](../02_Literature/Lectures/Interstellar_Medium/Carraro_06_Supernovae_and_Hot_Ionized_Medium.html) | Free expansion $\to$ Sedov-Taylor adiabatic $\to$ radiative snowplow $\to$ dissipation |
-| **ISM-10** | `ism_alfven_p01.png` | Interstellar Magnetic Fields & Alfvén Waves | [Lecture 07: Interstellar Magnetic Fields](../02_Literature/Lectures/Interstellar_Medium/Carraro_07_Interstellar_Magnetic_Fields.html) | Alfvén speed $v_A = B/\sqrt{4\pi\rho}$, pulsar Faraday rotation, and Zeeman splitting |
-| **ISM-11** | `ism_shocks_p02.png` | Rankine-Hugoniot Shock Jump Conditions | [Lecture 08: Shocks, Turbulence & MHD Waves](../02_Literature/Lectures/Interstellar_Medium/Carraro_08_Shocks_Turbulence_and_MHD_Waves.html) | Maximum density compression $\rho_2/\rho_1 \le 4$ (adiabatic) vs $\rho_2/\rho_1 \sim M^2$ (isothermal) |
-| **ISM-12** | `ism_shocks_p05.png` | Supersonic Turbulence Cascade | [Lecture 08: Shocks, Turbulence & MHD Waves](../02_Literature/Lectures/Interstellar_Medium/Carraro_08_Shocks_Turbulence_and_MHD_Waves.html) | Kolmogorov velocity spectrum $E(k) \propto k^{-5/3}$ and cloud fragmentation |
-| **ISM-13** | `ism_shocks_p08.png` | MHD Shock Discontinuities | [Lecture 08: Shocks, Turbulence & MHD Waves](../02_Literature/Lectures/Interstellar_Medium/Carraro_08_Shocks_Turbulence_and_MHD_Waves.html) | Fast and slow magnetosonic shock jumps and magnetic compression ratios |
+| **ISM-01** | `ism_hi_p01.png` | Hyperfine 21cm Hydrogen Transition | [[Carraro_02_Neutral_Hydrogen_and_21cm_Universe|Lecture 02: Neutral Hydrogen & 21cm Universe]] | Spin-flip magnetic dipole transition $F=1 \to 0$ ($\nu = 1420.4\text{ MHz}, A_{10} = 2.85 \times 10^{-15}\text{ s}^{-1}$) |
+| **ISM-02** | `ism_hi_p03.png` | Milky Way HI Kinematics & Spiral Arms | [[Carraro_02_Neutral_Hydrogen_and_21cm_Universe|Lecture 02: Neutral Hydrogen & 21cm Universe]] | Galactic $(l, v_{\mathrm{LSR}})$ diagram and tangent point rotation curve derivation |
+| **ISM-03** | `ism_hii_p01.png` | Strömgren Ionization Sphere Equilibrium | [[Carraro_03_HII_Regions_and_Photoionized_Gas|Lecture 03: HII Regions & Photoionized Gas]] | Balance between ionizing UV photon production and Case B recombinations |
+| **ISM-04** | `ism_hii_p03.png` | Optical Forbidden Emission Diagnostics | [[Carraro_03_HII_Regions_and_Photoionized_Gas|Lecture 03: HII Regions & Photoionized Gas]] | $[O III]$ temperature thermometer and $[S II]$ electron density barometer |
+| **ISM-05** | `ism_dust_p01.png` | Interstellar Extinction Curve | [[Carraro_05_Interstellar_Dust_and_Extinction|Lecture 05: Interstellar Dust & Extinction]] | Total-to-selective extinction $R_V$ and the $2175\text{ \AA}$ graphite/PAH UV bump |
+| **ISM-06** | `ism_dust_p04.png` | MRN Grain Size Distribution | [[Carraro_05_Interstellar_Dust_and_Extinction|Lecture 05: Interstellar Dust & Extinction]] | Power-law grain spectrum $dn/da \propto a^{-3.5}$ from $0.005\,\mu\mathrm{m}$ to $0.25\,\mu\mathrm{m}$ |
+| **ISM-07** | `ism_dust_p07.png` | Mid-Infrared Thermal Dust Emission | [[Carraro_05_Interstellar_Dust_and_Extinction|Lecture 05: Interstellar Dust & Extinction]] | Modified blackbody emission $F_\nu \propto B_\nu(T_d)\kappa_\nu$ in radiative equilibrium |
+| **ISM-08** | `ism_him_p01.png` | Sedov-Taylor Blast Wave Expansion | [[Carraro_06_Supernovae_and_Hot_Ionized_Medium|Lecture 06: Supernovae & Hot Ionized Medium]] | Self-similar blast radius $R(t) \propto (E/\rho)^{1/5} t^{2/5}$ producing soft X-rays |
+| **ISM-09** | `ism_him_p03.png` | Supernova Remnant Evolutionary Phases | [[Carraro_06_Supernovae_and_Hot_Ionized_Medium|Lecture 06: Supernovae & Hot Ionized Medium]] | Free expansion $\to$ Sedov-Taylor adiabatic $\to$ radiative snowplow $\to$ dissipation |
+| **ISM-10** | `ism_alfven_p01.png` | Interstellar Magnetic Fields & Alfvén Waves | [[Carraro_07_Interstellar_Magnetic_Fields|Lecture 07: Interstellar Magnetic Fields]] | Alfvén speed $v_A = B/\sqrt{4\pi\rho}$, pulsar Faraday rotation, and Zeeman splitting |
+| **ISM-11** | `ism_shocks_p02.png` | Rankine-Hugoniot Shock Jump Conditions | [[Carraro_08_Shocks_Turbulence_and_MHD_Waves|Lecture 08: Shocks, Turbulence & MHD Waves]] | Maximum density compression $\rho_2/\rho_1 \le 4$ (adiabatic) vs $\rho_2/\rho_1 \sim M^2$ (isothermal) |
+| **ISM-12** | `ism_shocks_p05.png` | Supersonic Turbulence Cascade | [[Carraro_08_Shocks_Turbulence_and_MHD_Waves|Lecture 08: Shocks, Turbulence & MHD Waves]] | Kolmogorov velocity spectrum $E(k) \propto k^{-5/3}$ and cloud fragmentation |
+| **ISM-13** | `ism_shocks_p08.png` | MHD Shock Discontinuities | [[Carraro_08_Shocks_Turbulence_and_MHD_Waves|Lecture 08: Shocks, Turbulence & MHD Waves]] | Fast and slow magnetosonic shock jumps and magnetic compression ratios |
 
 ---
 

@@ -135,7 +135,7 @@ where $g_i$ and $g_j$ are complex antenna gains. the standard calibrator roles a
 - **phase calibrator**: tracks time-variable phase/gain
 - **polarization calibrator**: solves leakage and angle if needed
 
-BookAI's practical point: a final image is already determined by choices made before observation, especially configuration, calibrator cadence, bandwidth, and integration time. see [Steps in radio interferometric observations](interf/Steps%20in%20radio%20interferometric%20observations.html).
+BookAI's practical point: a final image is already determined by choices made before observation, especially configuration, calibrator cadence, bandwidth, and integration time. see [[Steps in radio interferometric observations]].
 
 ## scientific figure
 
@@ -147,9 +147,9 @@ source: local workflow diagram generated from the standard radio-reduction seque
 
 ## see also
 
-- [Bandpass calibration](interf/Bandpass%20calibration.html)
-- [Flux calibration](interf/Flux%20calibration.html)
-- [Phase referencing](interf/Phase%20referencing.html)
-- [Self-calibration](interf/Self-calibration.html)
-- [Polarization in interferometry](interf/Polarization%20in%20interferometry.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Bandpass calibration]]
+- [[Flux calibration]]
+- [[Phase referencing]]
+- [[Self-calibration]]
+- [[Polarization in interferometry]]
+- [[Astronomical_Interferometry_MOC]]

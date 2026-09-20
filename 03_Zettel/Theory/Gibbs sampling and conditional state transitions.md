@@ -42,17 +42,17 @@ Every proposed move in Gibbs sampling is accepted without rejection.
 - **Hierarchical Models**: Alternating between updating latent individual supernova distances and global cosmological parameters ($\Omega_m, w$).
 
 ## See Also
-- [Astro-Statistics_and_Cosmology_MOC](../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html)
-- [05_Monte_Carlo_Metropolis_Hastings_and_MCMC_Convergence_Diagnostics](../../02_Literature/Lectures/Astrostatistics/05_Monte_Carlo_Metropolis_Hastings_and_MCMC_Convergence_Diagnostics.html)
-- [Metropolis-Hastings algorithm and detailed balance](Metropolis-Hastings%20algorithm%20and%20detailed%20balance.html)
-- [MCMC convergence diagnostics and Gelman-Rubin statistic](MCMC%20convergence%20diagnostics%20and%20Gelman-Rubin%20statistic.html)
+- [[Astro-Statistics_and_Cosmology_MOC]]
+- [[05_Monte_Carlo_Metropolis_Hastings_and_MCMC_Convergence_Diagnostics]]
+- [[Metropolis-Hastings algorithm and detailed balance]]
+- [[MCMC convergence diagnostics and Gelman-Rubin statistic]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="MCMC%20convergence%20diagnostics%20and%20Gelman-Rubin%20statistic.html" class="backlink-item">MCMC convergence diagnostics and Gelman-Rubin statistic</a></li>
-    <li class="backlink-item-wrap"><a href="Metropolis-Hastings%20algorithm%20and%20detailed%20balance.html" class="backlink-item">Metropolis-Hastings algorithm and detailed balance</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[MCMC convergence diagnostics and Gelman-Rubin statistic]]
+- [[Metropolis-Hastings algorithm and detailed balance]]
+- [[Astro-Statistics_and_Cosmology_MOC]]
+
 

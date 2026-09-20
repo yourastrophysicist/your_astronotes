@@ -61,7 +61,7 @@ when HBT first published, many physicists refused to believe the result. critics
 - the result implied that intensity (not amplitude) carried interferometric information, which seemed to violate quantum-mechanical principles
 - some suggested HBT was measuring a calibration artifact
 
-the controversy was resolved by careful follow-up experiments. by the 1960s, the effect was firmly established, and HBT's group built the [Narrabri stellar interferometer](interf/Narrabri%20stellar%20interferometer.html) to systematically apply it.
+the controversy was resolved by careful follow-up experiments. by the 1960s, the effect was firmly established, and HBT's group built the [[Narrabri stellar interferometer]] to systematically apply it.
 
 the controversy is *still* useful pedagogy: it shows the difference between first- and second-order coherence, and how easy it is to confuse them.
 
@@ -77,8 +77,8 @@ this picture connects HBT to modern quantum optics, where photon-counting statis
 
 ## see also
 
-- [Intensity interferometry concept](interf/Intensity%20interferometry%20concept.html)
-- [Narrabri stellar interferometer](interf/Narrabri%20stellar%20interferometer.html)
-- [Why intensity interferometry escapes atmospheric phase](interf/Why%20intensity%20interferometry%20escapes%20atmospheric%20phase.html)
-- [Photon noise and statistics](interf/Photon%20noise%20and%20statistics.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Intensity interferometry concept]]
+- [[Narrabri stellar interferometer]]
+- [[Why intensity interferometry escapes atmospheric phase]]
+- [[Photon noise and statistics]]
+- [[Astronomical_Interferometry_MOC]]

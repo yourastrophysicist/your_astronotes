@@ -38,21 +38,21 @@ implemented in fast modern codes (`batman`, `juliet`, `pytransit`), computing th
 
 ## see also
 
-- [Exoplanetary_Astrophysics_MOC](../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)
-- [16_Transit_Light_Curve_Modeling_and_Limb_Darkening](../../02_Literature/Lectures/Exoplanetary_Astrophysics/16_Transit_Light_Curve_Modeling_and_Limb_Darkening.html)
-- [Transit Modeling with batman](../Computational/Transit%20Modeling%20with%20batman.html)
-- [Mean stellar density determination from transit observables](Mean%20stellar%20density%20determination%20from%20transit%20observables.html)
-- [Stellar Limb Darkening Laws](Stellar%20Limb%20Darkening%20Laws.html)
+- [[Exoplanetary_Astrophysics_MOC]]
+- [[16_Transit_Light_Curve_Modeling_and_Limb_Darkening]]
+- [[Transit Modeling with batman]]
+- [[Mean stellar density determination from transit observables]]
+- [[Stellar Limb Darkening Laws]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Exoplanet%20atmospheric%20scale%20height%20and%20transmission%20spectroscopy.html" class="backlink-item">Exoplanet atmospheric scale height and transmission spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="Mean%20stellar%20density%20determination%20from%20transit%20observables.html" class="backlink-item">Mean stellar density determination from transit observables</a></li>
-    <li class="backlink-item-wrap"><a href="Rossiter-McLaughlin%20effect%20and%20spin-orbit%20obliquity.html" class="backlink-item">Rossiter-McLaughlin effect and spin-orbit obliquity</a></li>
-    <li class="backlink-item-wrap"><a href="Transit%20false%20positive%20vetting%20and%20blending%20validation.html" class="backlink-item">Transit false positive vetting and blending validation</a></li>
-    <li class="backlink-item-wrap"><a href="Transit%20timing%20variations%20and%20resonant%20multi-planet%20dynamics.html" class="backlink-item">Transit timing variations and resonant multi-planet dynamics</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Exoplanet atmospheric scale height and transmission spectroscopy]]
+- [[Mean stellar density determination from transit observables]]
+- [[Rossiter-McLaughlin effect and spin-orbit obliquity]]
+- [[Transit false positive vetting and blending validation]]
+- [[Transit timing variations and resonant multi-planet dynamics]]
+- [[Exoplanetary_Astrophysics_MOC]]
+
 

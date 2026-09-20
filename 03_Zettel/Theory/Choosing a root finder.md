@@ -103,11 +103,11 @@ skipping this step is the cause of more wrong-answer bugs than any algorithm cho
 
 ## see also
 
-- [Bisection method](Bisection%20method.html)
-- [Newton-Raphson method](Newton-Raphson%20method.html)
-- [Newton-Raphson for systems of equations](Newton-Raphson%20for%20systems%20of%20equations.html)
-- [Relaxation method](Relaxation%20method.html)
-- [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
+- [[Bisection method]]
+- [[Newton-Raphson method]]
+- [[Newton-Raphson for systems of equations]]
+- [[Relaxation method]]
+- [[Mathematical_Numerical_Methods_MOC]]
 
 ---
 
@@ -116,13 +116,13 @@ skipping this step is the cause of more wrong-answer bugs than any algorithm cho
 ![mapelli_fig16_p155.png](../../assets/images/mapelli_fig16_p59.png)
 *Root finding failure modes: local extrema, inflection points, and cyclic trapping.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Bisection%20method.html" class="backlink-item">Bisection method</a></li>
-    <li class="backlink-item-wrap"><a href="Newton-Raphson%20for%20systems%20of%20equations.html" class="backlink-item">Newton-Raphson for systems of equations</a></li>
-    <li class="backlink-item-wrap"><a href="Newton-Raphson%20method.html" class="backlink-item">Newton-Raphson method</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Bisection method]]
+- [[Newton-Raphson for systems of equations]]
+- [[Newton-Raphson method]]
+- [[Mathematical_Numerical_Methods_MOC]]
+
 

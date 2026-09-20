@@ -2,7 +2,7 @@
 layout: "default"
 title: "Number density and energy density at thermal equilibrium"
 ---
-at temperatures where a species is in thermal equilibrium with the rest of the universe, its phase-space density follows the Bose-Einstein or Fermi-Dirac distribution (see [Thermal equilibrium in the early universe](Thermal%20equilibrium%20in%20the%20early%20universe.html)). integrating gives clean expressions for **number density**, **energy density**, and **pressure**.
+at temperatures where a species is in thermal equilibrium with the rest of the universe, its phase-space density follows the Bose-Einstein or Fermi-Dirac distribution (see [[Thermal equilibrium in the early universe]]). integrating gives clean expressions for **number density**, **energy density**, and **pressure**.
 
 ---
 
@@ -74,7 +74,7 @@ $$g_{*s}(T) = \sum_{\rm bosons} g_i \left(\frac{T_i}{T}\right)^3 + \frac{7}{8}\s
 
 note: $g_{*s}$ uses **cubes** of the temperature ratio, $g_*$ uses **fourths**. they coincide when all species share the photon temperature, but differ after neutrino decoupling.
 
-→ see [Conservation of entropy in a comoving volume](Conservation%20of%20entropy%20in%20a%20comoving%20volume.html).
+→ see [[Conservation of entropy in a comoving volume]].
 
 ---
 
@@ -94,28 +94,28 @@ $$T^2 t \approx \frac{M_{\rm Pl}}{2 \sqrt{(8\pi^3/90) g_*}}$$
 
 with $M_{\rm Pl} = (8\pi G)^{-1/2}$ the reduced Planck mass.
 
-→ see [Temperature-time relation](Temperature-time%20relation.html) for the worked-out form.
+→ see [[Temperature-time relation]] for the worked-out form.
 
 ---
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Thermal equilibrium in the early universe](Thermal%20equilibrium%20in%20the%20early%20universe.html)
-- [Conservation of entropy in a comoving volume](Conservation%20of%20entropy%20in%20a%20comoving%20volume.html)
-- [Temperature-time relation](Temperature-time%20relation.html)
-- [Brief thermal history](Brief%20thermal%20history.html)
-- [BBN_overview](BBN_overview.html)
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Thermal equilibrium in the early universe]]
+- [[Conservation of entropy in a comoving volume]]
+- [[Temperature-time relation]]
+- [[Brief thermal history]]
+- [[BBN_overview]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Boltzmann%20equation%20in%20spectroscopy.html" class="backlink-item">Boltzmann equation in spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="CMB%20Spectral%20Distortions%20-%20What%20They%20Are%20and%20Where%20They%20Come%20From.html" class="backlink-item">CMB Spectral Distortions - What They Are and Where They Come From</a></li>
-    <li class="backlink-item-wrap"><a href="Cosmic_inventory_photons_derivation.html" class="backlink-item">Cosmic_inventory_photons_derivation</a></li>
-    <li class="backlink-item-wrap"><a href="Partition%20function.html" class="backlink-item">Partition function</a></li>
-    <li class="backlink-item-wrap"><a href="Temperature-time%20relation.html" class="backlink-item">Temperature-time relation</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Boltzmann equation in spectroscopy]]
+- [[CMB Spectral Distortions - What They Are and Where They Come From]]
+- [[Cosmic_inventory_photons_derivation]]
+- [[Partition function]]
+- [[Temperature-time relation]]
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+
 

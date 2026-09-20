@@ -34,19 +34,19 @@ friction between passing and trapped particles drives the **bootstrap current** 
 
 ## see also
 
-- [Fluid_and_Plasma_Dynamics_MOC](../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html)
-- [Part4_Single_Particle_Motion_and_Magnetic_Confinement](../../02_Literature/Lectures/Fluid_and_Plasma_Dynamics/Part4_Single_Particle_Motion_and_Magnetic_Confinement.html)
-- [Magnetic mirror effect and adiabatic invariants](Magnetic%20mirror%20effect%20and%20adiabatic%20invariants.html)
-- [Grad-Shafranov equation and axisymmetric tokamak equilibria](Grad-Shafranov%20equation%20and%20axisymmetric%20tokamak%20equilibria.html)
+- [[Fluid_and_Plasma_Dynamics_MOC]]
+- [[Part4_Single_Particle_Motion_and_Magnetic_Confinement]]
+- [[Magnetic mirror effect and adiabatic invariants]]
+- [[Grad-Shafranov equation and axisymmetric tokamak equilibria]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Grad-Shafranov%20equation%20and%20axisymmetric%20tokamak%20equilibria.html" class="backlink-item">Grad-Shafranov equation and axisymmetric tokamak equilibria</a></li>
-    <li class="backlink-item-wrap"><a href="Guiding%20center%20drifts%20and%20electric%20polarization%20drift.html" class="backlink-item">Guiding center drifts and electric polarization drift</a></li>
-    <li class="backlink-item-wrap"><a href="Magnetic%20mirror%20effect%20and%20adiabatic%20invariants.html" class="backlink-item">Magnetic mirror effect and adiabatic invariants</a></li>
-    <li class="backlink-item-wrap"><a href="Reversed%20Field%20Pinch%20physics%20and%20RFX-mod%20experiment.html" class="backlink-item">Reversed Field Pinch physics and RFX-mod experiment</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Grad-Shafranov equation and axisymmetric tokamak equilibria]]
+- [[Guiding center drifts and electric polarization drift]]
+- [[Magnetic mirror effect and adiabatic invariants]]
+- [[Reversed Field Pinch physics and RFX-mod experiment]]
+- [[Fluid_and_Plasma_Dynamics_MOC]]
+
 

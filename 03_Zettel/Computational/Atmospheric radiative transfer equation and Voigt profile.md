@@ -45,17 +45,17 @@ evaluated in atmospheric codes (TauREx, petitRADTRANS) via the Faddeeva function
 
 ## see also
 
-- [Computational_Astrophysics_MOC](../../04_Atlas/Computational_Astrophysics_MOC.html)
-- [07_Atmospheric_Radiative_Transfer_and_Line_Profiles](../../02_Literature/Lectures/Computational_Astrophysics/07_Atmospheric_Radiative_Transfer_and_Line_Profiles.html)
-- [Exoplanet atmospheric retrieval and TauREx framework](Exoplanet%20atmospheric%20retrieval%20and%20TauREx%20framework.html)
-- [Exoplanet atmospheric scale height and transmission spectroscopy](../Theory/Exoplanet%20atmospheric%20scale%20height%20and%20transmission%20spectroscopy.html)
+- [[Computational_Astrophysics_MOC]]
+- [[07_Atmospheric_Radiative_Transfer_and_Line_Profiles]]
+- [[Exoplanet atmospheric retrieval and TauREx framework]]
+- [[Exoplanet atmospheric scale height and transmission spectroscopy]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Exoplanet%20atmospheric%20retrieval%20and%20TauREx%20framework.html" class="backlink-item">Exoplanet atmospheric retrieval and TauREx framework</a></li>
-    <li class="backlink-item-wrap"><a href="../Theory/Exoplanet%20atmospheric%20scale%20height%20and%20transmission%20spectroscopy.html" class="backlink-item">Exoplanet atmospheric scale height and transmission spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Exoplanet atmospheric retrieval and TauREx framework]]
+- [[Exoplanet atmospheric scale height and transmission spectroscopy]]
+- [[Computational_Astrophysics_MOC]]
+
 

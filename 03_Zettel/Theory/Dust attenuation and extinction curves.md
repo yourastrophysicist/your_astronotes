@@ -4,7 +4,7 @@ title: "Dust attenuation and extinction curves"
 ---
 # dust attenuation and extinction curves
 
-up: [Pablo_03_Star_formation_in_galaxies](../../02_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html)
+up: [[Pablo_03_Star_formation_in_galaxies]]
 
 ## extinction vs attenuation
 
@@ -53,10 +53,10 @@ a starburst / LIRG can have $A_V \sim 3$, $A_{\text{1500}} \sim 10$, almost all 
 
 ## connections
 
-- used in: [UV SFR tracer](UV%20SFR%20tracer.html), [UV slope and IRX-beta relation](UV%20slope%20and%20IRX-beta%20relation.html), [H-alpha SFR tracer](H-alpha%20SFR%20tracer.html)
-- measurement in line spectra: [Balmer decrement](Balmer%20decrement.html)
-- reprocessed output: [IR SFR tracer](IR%20SFR%20tracer.html)
-- enters all SED fitting: [Stellar population synthesis](Stellar%20population%20synthesis.html)
+- used in: [[UV SFR tracer]], [[UV slope and IRX-beta relation]], [[H-alpha SFR tracer]]
+- measurement in line spectra: [[Balmer decrement]]
+- reprocessed output: [[IR SFR tracer]]
+- enters all SED fitting: [[Stellar population synthesis]]
 
 ## key references
 
@@ -65,18 +65,18 @@ a starburst / LIRG can have $A_V \sim 3$, $A_{\text{1500}} \sim 10$, almost all 
 - Charlot & Fall 2000 ApJ 539, 718
 - Salim & Narayanan 2020 ARAA (attenuation-curve review)
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (9)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Balmer%20decrement.html" class="backlink-item">Balmer decrement</a></li>
-    <li class="backlink-item-wrap"><a href="Dust%20extinction%20in%20nebulae.html" class="backlink-item">Dust extinction in nebulae</a></li>
-    <li class="backlink-item-wrap"><a href="Lyman%20alpha%20SFR%20tracer.html" class="backlink-item">Lyman alpha SFR tracer</a></li>
-    <li class="backlink-item-wrap"><a href="OII%20SFR%20tracer.html" class="backlink-item">OII SFR tracer</a></li>
-    <li class="backlink-item-wrap"><a href="Other%20SFR%20tracer%20lines.html" class="backlink-item">Other SFR tracer lines</a></li>
-    <li class="backlink-item-wrap"><a href="SED%20fitting%20for%20SFH.html" class="backlink-item">SED fitting for SFH</a></li>
-    <li class="backlink-item-wrap"><a href="SFR%20tracer%20comparison.html" class="backlink-item">SFR tracer comparison</a></li>
-    <li class="backlink-item-wrap"><a href="UV%20slope%20and%20IRX-beta%20relation.html" class="backlink-item">UV slope and IRX-beta relation</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Balmer decrement]]
+- [[Dust extinction in nebulae]]
+- [[Lyman alpha SFR tracer]]
+- [[OII SFR tracer]]
+- [[Other SFR tracer lines]]
+- [[SED fitting for SFH]]
+- [[SFR tracer comparison]]
+- [[UV slope and IRX-beta relation]]
+- [[Observational_Cosmology_MOC]]
+
 

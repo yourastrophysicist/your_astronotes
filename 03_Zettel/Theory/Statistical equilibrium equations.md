@@ -33,7 +33,7 @@ modern codes (Cloudy, MAPPINGS, MOCASSIN) include all of these and solve the ful
 
 ## simplification: two-level atom
 
-for many practical questions (forbidden line emission, single-doublet ratios), the **two-level atom** approximation (one ground + one excited) gives a useful closed-form solution. see [Two-level atom](Two-level%20atom.html) for the full derivation.
+for many practical questions (forbidden line emission, single-doublet ratios), the **two-level atom** approximation (one ground + one excited) gives a useful closed-form solution. see [[Two-level atom]] for the full derivation.
 
 ## the LTE limit
 
@@ -65,28 +65,28 @@ this is the photoionisation equilibrium calculation (Cloudy, MAPPINGS V).
 
 ## see also
 
-- [Two-level atom](Two-level%20atom.html)
-- [Collisional excitation rate](Collisional%20excitation%20rate.html)
-- [Critical density](Critical%20density.html)
-- [Forbidden lines](Forbidden%20lines.html)
-- [Local thermodynamic equilibrium LTE](Local%20thermodynamic%20equilibrium%20LTE.html)
-- [Boltzmann equation in spectroscopy](Boltzmann%20equation%20in%20spectroscopy.html)
-- [Saha ionisation equation](Saha%20ionisation%20equation.html)
-- [Photoionisation balance](Photoionisation%20balance.html)
-- [Source function](Source%20function.html)
+- [[Two-level atom]]
+- [[Collisional excitation rate]]
+- [[Critical density]]
+- [[Forbidden lines]]
+- [[Local thermodynamic equilibrium LTE]]
+- [[Boltzmann equation in spectroscopy]]
+- [[Saha ionisation equation]]
+- [[Photoionisation balance]]
+- [[Source function]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (9)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Collisional%20excitation%20rate.html" class="backlink-item">Collisional excitation rate</a></li>
-    <li class="backlink-item-wrap"><a href="Critical%20density.html" class="backlink-item">Critical density</a></li>
-    <li class="backlink-item-wrap"><a href="Dilution%20factor.html" class="backlink-item">Dilution factor</a></li>
-    <li class="backlink-item-wrap"><a href="Forbidden%20line%20diagnostics.html" class="backlink-item">Forbidden line diagnostics</a></li>
-    <li class="backlink-item-wrap"><a href="Local%20thermodynamic%20equilibrium%20LTE.html" class="backlink-item">Local thermodynamic equilibrium LTE</a></li>
-    <li class="backlink-item-wrap"><a href="Optically%20thin%20recombination%20lines.html" class="backlink-item">Optically thin recombination lines</a></li>
-    <li class="backlink-item-wrap"><a href="Source%20function.html" class="backlink-item">Source function</a></li>
-    <li class="backlink-item-wrap"><a href="Two-level%20atom.html" class="backlink-item">Two-level atom</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Collisional excitation rate]]
+- [[Critical density]]
+- [[Dilution factor]]
+- [[Forbidden line diagnostics]]
+- [[Local thermodynamic equilibrium LTE]]
+- [[Optically thin recombination lines]]
+- [[Source function]]
+- [[Two-level atom]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 

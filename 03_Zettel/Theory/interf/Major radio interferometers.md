@@ -146,40 +146,29 @@ construction underway 2020s-2030s. designed for:
 
 ## see also
 
-- [Connected element interferometer](Connected%20element%20interferometer.html)
-- [Very Long Baseline Interferometry VLBI](Very%20Long%20Baseline%20Interferometry%20VLBI.html)
-- [Event Horizon Telescope EHT](Event%20Horizon%20Telescope%20EHT.html)
-- [Earth rotation synthesis in radio](Earth%20rotation%20synthesis%20in%20radio.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Connected element interferometer]]
+- [[Very Long Baseline Interferometry VLBI]]
+- [[Event Horizon Telescope EHT]]
+- [[Earth rotation synthesis in radio]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (25)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Connected%20element%20interferometer.html" class="backlink-item">Connected element interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="../Cosmological%20masers.html" class="backlink-item">Cosmological masers</a></li>
-    <li class="backlink-item-wrap"><a href="../Event%20Horizon%20Telescope%20EHT.html" class="backlink-item">Event Horizon Telescope EHT</a></li>
-    <li class="backlink-item-wrap"><a href="../Mosaicking.html" class="backlink-item">Mosaicking</a></li>
-    <li class="backlink-item-wrap"><a href="../Pulsar%20interferometry.html" class="backlink-item">Pulsar interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="../Pulsar%20timing%20arrays%20as%20interferometers.html" class="backlink-item">Pulsar timing arrays as interferometers</a></li>
-    <li class="backlink-item-wrap"><a href="../Radio%20astronomy%20basics.html" class="backlink-item">Radio astronomy basics</a></li>
-    <li class="backlink-item-wrap"><a href="../Space%20and%20ground%20facilities%20relevant%20for%20OC.html" class="backlink-item">Space and ground facilities relevant for OC</a></li>
-    <li class="backlink-item-wrap"><a href="../The%20Square%20Kilometre%20Array%20SKA.html" class="backlink-item">The Square Kilometre Array SKA</a></li>
-    <li class="backlink-item-wrap"><a href="../Very%20Long%20Baseline%20Interferometry%20VLBI.html" class="backlink-item">Very Long Baseline Interferometry VLBI</a></li>
-    <li class="backlink-item-wrap"><a href="../Young%20stellar%20object%20disks.html" class="backlink-item">Young stellar object disks</a></li>
-    <li class="backlink-item-wrap"><a href="Connected%20element%20interferometer.html" class="backlink-item">Connected element interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="Cosmological%20masers.html" class="backlink-item">Cosmological masers</a></li>
-    <li class="backlink-item-wrap"><a href="Event%20Horizon%20Telescope%20EHT.html" class="backlink-item">Event Horizon Telescope EHT</a></li>
-    <li class="backlink-item-wrap"><a href="Mosaicking.html" class="backlink-item">Mosaicking</a></li>
-    <li class="backlink-item-wrap"><a href="Optimal%20array%20geometry.html" class="backlink-item">Optimal array geometry</a></li>
-    <li class="backlink-item-wrap"><a href="Pulsar%20interferometry.html" class="backlink-item">Pulsar interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="Pulsar%20timing%20arrays%20as%20interferometers.html" class="backlink-item">Pulsar timing arrays as interferometers</a></li>
-    <li class="backlink-item-wrap"><a href="Radio%20astronomy%20basics.html" class="backlink-item">Radio astronomy basics</a></li>
-    <li class="backlink-item-wrap"><a href="The%20Square%20Kilometre%20Array%20SKA.html" class="backlink-item">The Square Kilometre Array SKA</a></li>
-    <li class="backlink-item-wrap"><a href="Very%20Long%20Baseline%20Interferometry%20VLBI.html" class="backlink-item">Very Long Baseline Interferometry VLBI</a></li>
-    <li class="backlink-item-wrap"><a href="Young%20stellar%20object%20disks.html" class="backlink-item">Young stellar object disks</a></li>
-    <li class="backlink-item-wrap"><a href="ngVLA%20Next%20Generation%20VLA.html" class="backlink-item">ngVLA Next Generation VLA</a></li>
-    <li class="backlink-item-wrap"><a href="../ngVLA%20Next%20Generation%20VLA.html" class="backlink-item">ngVLA Next Generation VLA</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Connected element interferometer]]
+- [[Cosmological masers]]
+- [[Event Horizon Telescope EHT]]
+- [[Mosaicking]]
+- [[Pulsar interferometry]]
+- [[Pulsar timing arrays as interferometers]]
+- [[Radio astronomy basics]]
+- [[Space and ground facilities relevant for OC]]
+- [[The Square Kilometre Array SKA]]
+- [[Very Long Baseline Interferometry VLBI]]
+- [[Young stellar object disks]]
+- [[Optimal array geometry]]
+- [[ngVLA Next Generation VLA]]
+- [[Astronomical_Interferometry_MOC]]
+
 

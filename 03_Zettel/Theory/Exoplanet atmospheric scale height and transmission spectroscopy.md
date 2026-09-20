@@ -34,19 +34,19 @@ $$\Delta \delta(\lambda) \propto \frac{R_p T_{\text{eq}}}{\mu M_p R_\star^2}$$
 
 ## see also
 
-- [Exoplanetary_Astrophysics_MOC](../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)
-- [20_Exoplanet_Atmospheres_and_Transmission_Spectroscopy](../../02_Literature/Lectures/Exoplanetary_Astrophysics/20_Exoplanet_Atmospheres_and_Transmission_Spectroscopy.html)
-- [Atmospheric radiative transfer equation and Voigt profile](../Computational/Atmospheric%20radiative%20transfer%20equation%20and%20Voigt%20profile.html)
-- [Exoplanet atmospheric retrieval and TauREx framework](../Computational/Exoplanet%20atmospheric%20retrieval%20and%20TauREx%20framework.html)
-- [Mandel-Agol analytical transit light curve model](Mandel-Agol%20analytical%20transit%20light%20curve%20model.html)
+- [[Exoplanetary_Astrophysics_MOC]]
+- [[20_Exoplanet_Atmospheres_and_Transmission_Spectroscopy]]
+- [[Atmospheric radiative transfer equation and Voigt profile]]
+- [[Exoplanet atmospheric retrieval and TauREx framework]]
+- [[Mandel-Agol analytical transit light curve model]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Computational/Atmospheric%20radiative%20transfer%20equation%20and%20Voigt%20profile.html" class="backlink-item">Atmospheric radiative transfer equation and Voigt profile</a></li>
-    <li class="backlink-item-wrap"><a href="../Computational/Exoplanet%20atmospheric%20retrieval%20and%20TauREx%20framework.html" class="backlink-item">Exoplanet atmospheric retrieval and TauREx framework</a></li>
-    <li class="backlink-item-wrap"><a href="Small%20exoplanets%20and%20the%20Fulton%20radius%20valley.html" class="backlink-item">Small exoplanets and the Fulton radius valley</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Atmospheric radiative transfer equation and Voigt profile]]
+- [[Exoplanet atmospheric retrieval and TauREx framework]]
+- [[Small exoplanets and the Fulton radius valley]]
+- [[Exoplanetary_Astrophysics_MOC]]
+
 

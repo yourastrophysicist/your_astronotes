@@ -54,16 +54,16 @@ $$\Delta C_\ell = \sqrt{\frac{2}{(2\ell + 1) f_{\rm sky}}} \left( C_\ell + N_\el
 where $N_\ell = w^{-1} e^{\ell(\ell+1)\theta_{\rm beam}^2 / (8\ln 2)}$ accounts for beam smearing and detector noise weight $w$.
 
 ## See Also
-- [Astro-Statistics_and_Cosmology_MOC](../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html)
-- [07_CMB_Power_Spectrum_Likelihood_Analysis_and_Cosmic_Variance](../../02_Literature/Lectures/Astrostatistics/07_CMB_Power_Spectrum_Likelihood_Analysis_and_Cosmic_Variance.html)
-- [Exact CMB Wishart likelihood and Gaussian high-multipole limit](Exact%20CMB%20Wishart%20likelihood%20and%20Gaussian%20high-multipole%20limit.html)
-- [Cosmology_of_the_Early_Universe_MOC](../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html)
+- [[Astro-Statistics_and_Cosmology_MOC]]
+- [[07_CMB_Power_Spectrum_Likelihood_Analysis_and_Cosmic_Variance]]
+- [[Exact CMB Wishart likelihood and Gaussian high-multipole limit]]
+- [[Cosmology_of_the_Early_Universe_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Exact%20CMB%20Wishart%20likelihood%20and%20Gaussian%20high-multipole%20limit.html" class="backlink-item">Exact CMB Wishart likelihood and Gaussian high-multipole limit</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Exact CMB Wishart likelihood and Gaussian high-multipole limit]]
+- [[Astro-Statistics_and_Cosmology_MOC]]
+
 

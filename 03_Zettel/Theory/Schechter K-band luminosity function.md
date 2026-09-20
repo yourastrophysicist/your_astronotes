@@ -4,7 +4,7 @@ title: "Schechter K-band luminosity function"
 ---
 # schechter k-band luminosity function
 
-up: [Pablo_02_Statistical_properties_of_galaxies](../../02_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html) · [Schechter function](Schechter%20function.html)
+up: [[Pablo_02_Statistical_properties_of_galaxies]] · [[Schechter function]]
 
 ## the canonical local k-band lf
 
@@ -25,7 +25,7 @@ K is $2.2$ μm, near the peak of the stellar SED for evolved populations. it is
 - relatively immune to dust attenuation (extinction $A_K \approx 0.1\, A_V$)
 - dominated by old stars, so it tracks **stellar mass** with $M_*/L_K$ varying by only a factor of $\sim 2$ across galaxy types (vs a factor of $\sim 10$ in B-band)
 
-so the K-band LF is the best optical/NIR proxy for the underlying [Stellar mass function](Stellar%20mass%20function.html).
+so the K-band LF is the best optical/NIR proxy for the underlying [[Stellar mass function]].
 
 ## what these numbers mean
 
@@ -39,10 +39,10 @@ $\alpha = -0.81$ is *flatter* than the typical optical LF ($\alpha \sim -1.2$). 
 
 ## connections
 
-- the form: [Schechter function](Schechter%20function.html), [Schechter function in magnitudes](Schechter%20function%20in%20magnitudes.html)
-- estimator that produced these: [1Vmax estimator](1Vmax%20estimator.html)
-- mass version: [Stellar mass function](Stellar%20mass%20function.html)
-- band comparison: [Galaxy counts at different wavelengths](Galaxy%20counts%20at%20different%20wavelengths.html) (K-band counts at the Durham compilation counts.html)
+- the form: [[Schechter function]], [[Schechter function in magnitudes]]
+- estimator that produced these: [[1Vmax estimator]]
+- mass version: [[Stellar mass function]]
+- band comparison: [[Galaxy counts at different wavelengths]] (K-band counts at the Durham compilation counts.html)
 
 ## key references
 
@@ -50,11 +50,11 @@ $\alpha = -0.81$ is *flatter* than the typical optical LF ($\alpha \sim -1.2$). 
 - Cole et al. 2001 (earlier 2MASS K-band LF)
 - Cirasuolo et al. 2010 (K-band LF to $z \sim 4$)
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Galaxy%20counts%20at%20different%20wavelengths.html" class="backlink-item">Galaxy counts at different wavelengths</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Galaxy counts at different wavelengths]]
+- [[Observational_Cosmology_MOC]]
+
 

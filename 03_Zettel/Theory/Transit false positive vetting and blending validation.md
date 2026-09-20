@@ -30,17 +30,17 @@ a candidate is statistically validated when $\text{FPP} < 10^{-3}$ ($< 0.1\%$).
 
 ## see also
 
-- [Exoplanetary_Astrophysics_MOC](../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)
-- [17_Transit_False_Positives_and_Vetting_Protocols](../../02_Literature/Lectures/Exoplanetary_Astrophysics/17_Transit_False_Positives_and_Vetting_Protocols.html)
-- [Mandel-Agol analytical transit light curve model](Mandel-Agol%20analytical%20transit%20light%20curve%20model.html)
-- [Space transit observatories and CHEOPS-PLATO missions](Space%20transit%20observatories%20and%20CHEOPS-PLATO%20missions.html)
+- [[Exoplanetary_Astrophysics_MOC]]
+- [[17_Transit_False_Positives_and_Vetting_Protocols]]
+- [[Mandel-Agol analytical transit light curve model]]
+- [[Space transit observatories and CHEOPS-PLATO missions]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Mean%20stellar%20density%20determination%20from%20transit%20observables.html" class="backlink-item">Mean stellar density determination from transit observables</a></li>
-    <li class="backlink-item-wrap"><a href="Space%20transit%20observatories%20and%20CHEOPS-PLATO%20missions.html" class="backlink-item">Space transit observatories and CHEOPS-PLATO missions</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Mean stellar density determination from transit observables]]
+- [[Space transit observatories and CHEOPS-PLATO missions]]
+- [[Exoplanetary_Astrophysics_MOC]]
+
 

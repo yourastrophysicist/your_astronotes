@@ -8,7 +8,7 @@ the standard sequence of steps to turn a raw 2D spectroscopic image into a calib
 
 ### 1. bias subtraction
 
-remove the constant readout offset. take many zero-second exposures, average to make a master bias, subtract from every science frame. see [CCD calibration steps](CCD%20calibration%20steps.html).
+remove the constant readout offset. take many zero-second exposures, average to make a master bias, subtract from every science frame. see [[CCD calibration steps]].
 
 ### 2. dark subtraction (often skipped)
 
@@ -27,11 +27,11 @@ procedure:
 
 ### 4. cosmic-ray rejection
 
-LACOSMIC or similar, applied to each 2D frame. see [Cosmic rays and bad pixels](Cosmic%20rays%20and%20bad%20pixels.html).
+LACOSMIC or similar, applied to each 2D frame. see [[Cosmic rays and bad pixels]].
 
 ### 5. wavelength calibration
 
-via comparison-lamp lines. see [Wavelength calibration](Wavelength%20calibration.html). results in a wavelength solution $\lambda(x, y)$ (slightly different per row in longslit, per fiber in MOS, per spaxel in IFU).
+via comparison-lamp lines. see [[Wavelength calibration]]. results in a wavelength solution $\lambda(x, y)$ (slightly different per row in longslit, per fiber in MOS, per spaxel in IFU).
 
 ### 6. trace and extract
 
@@ -50,7 +50,7 @@ at NIR or in dense sky-line regions, subtraction is delicate; tilted spectral li
 
 ### 8. flux calibration
 
-apply the sensitivity function from a spectrophotometric standard. see [Flux calibration](interf/Flux%20calibration.html).
+apply the sensitivity function from a spectrophotometric standard. see [[Flux calibration]].
 
 ### 9. heliocentric / barycentric correction
 
@@ -60,11 +60,11 @@ with $v_{\rm bary}$ up to $30$ km/s depending on time of year and target directi
 
 ### 10. telluric correction
 
-for NIR or near-IR-dependent science, divide by a telluric template (Molecfit, telfit). see [Flux calibration](interf/Flux%20calibration.html).
+for NIR or near-IR-dependent science, divide by a telluric template (Molecfit, telfit). see [[Flux calibration]].
 
 ### 11. atmospheric extinction correction
 
-apply $10^{0.4 k(\lambda) X}$ to correct back to above-atmosphere flux. see [Atmospheric extinction](interf/Atmospheric%20extinction.html).
+apply $10^{0.4 k(\lambda) X}$ to correct back to above-atmosphere flux. see [[Atmospheric extinction]].
 
 ### 12. continuum normalisation (optional)
 
@@ -95,24 +95,23 @@ raw frame
 
 ## see also
 
-- [Spectrograph design](Spectrograph%20design.html)
-- [Wavelength calibration](Wavelength%20calibration.html)
-- [Flux calibration](interf/Flux%20calibration.html)
-- [CCD calibration steps](CCD%20calibration%20steps.html)
-- [Cosmic rays and bad pixels](Cosmic%20rays%20and%20bad%20pixels.html)
-- [Atmospheric extinction](interf/Atmospheric%20extinction.html)
-- [Sky brightness](Sky%20brightness.html)
-- [Aperture photometry](Aperture%20photometry.html)
-- [PSF photometry](PSF%20photometry.html)
+- [[Spectrograph design]]
+- [[Wavelength calibration]]
+- [[Flux calibration]]
+- [[CCD calibration steps]]
+- [[Cosmic rays and bad pixels]]
+- [[Atmospheric extinction]]
+- [[Sky brightness]]
+- [[Aperture photometry]]
+- [[PSF photometry]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Flux%20calibration.html" class="backlink-item">Flux calibration</a></li>
-    <li class="backlink-item-wrap"><a href="Spectrograph%20design.html" class="backlink-item">Spectrograph design</a></li>
-    <li class="backlink-item-wrap"><a href="Wavelength%20calibration.html" class="backlink-item">Wavelength calibration</a></li>
-    <li class="backlink-item-wrap"><a href="interf/Flux%20calibration.html" class="backlink-item">Flux calibration</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Flux calibration]]
+- [[Spectrograph design]]
+- [[Wavelength calibration]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 

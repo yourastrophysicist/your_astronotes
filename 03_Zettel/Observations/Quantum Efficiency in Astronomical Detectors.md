@@ -20,13 +20,13 @@ $$QE(\lambda) = \frac{N_{e^-}(\lambda)}{N_{\text{photons}}(\lambda)}$$
 - **Deep-Depletion CCDs**: high-resistivity silicon ($d \sim 50?100\, \mu\text{m}$) maximizing near-infrared $QE$ while suppressing interference fringing.
 
 ## Related Notes
-- [Piotto 04 - CCD Photometry and Noise Characterization](../../02_Literature/Lectures/Astrophysics_Laboratory_2/Piotto%2004%20-%20CCD%20Photometry%20and%20Noise%20Characterization.html)
-- [CCD Readout Noise and Output Amplifier](CCD%20Readout%20Noise%20and%20Output%20Amplifier.html)
+- [[Piotto 04 - CCD Photometry and Noise Characterization]]
+- [[CCD Readout Noise and Output Amplifier]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (1)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Astrophysics_Laboratory_2_MOC]]
+
 

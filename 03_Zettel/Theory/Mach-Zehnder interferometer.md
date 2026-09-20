@@ -104,9 +104,9 @@ both are first-class amplitude-division interferometers; the choice depends on w
 
 ## see also
 
-- [Amplitude-division interferometers](Amplitude-division%20interferometers.html)
-- [Beam splitter physics](interf/Beam%20splitter%20physics.html)
-- [Michelson laboratory interferometer](interf/Michelson%20laboratory%20interferometer.html)
-- [Sagnac interferometer](interf/Sagnac%20interferometer.html)
-- [Beam combiners](Beam%20combiners.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Amplitude-division interferometers]]
+- [[Beam splitter physics]]
+- [[Michelson laboratory interferometer]]
+- [[Sagnac interferometer]]
+- [[Beam combiners]]
+- [[Astronomical_Interferometry_MOC]]

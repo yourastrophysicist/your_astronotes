@@ -87,21 +87,21 @@ the Runge phenomenon is a striking example of "more is less" in numerical analys
 
 ## see also
 
-- [Lagrange polynomial interpolation](Lagrange%20polynomial%20interpolation.html)
-- [Newton divided differences](Newton%20divided%20differences.html)
-- [Cubic spline interpolation](Cubic%20spline%20interpolation.html)
-- [Linear interpolation](Linear%20interpolation.html)
-- [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
+- [[Lagrange polynomial interpolation]]
+- [[Newton divided differences]]
+- [[Cubic spline interpolation]]
+- [[Linear interpolation]]
+- [[Mathematical_Numerical_Methods_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Cubic%20spline%20interpolation.html" class="backlink-item">Cubic spline interpolation</a></li>
-    <li class="backlink-item-wrap"><a href="Lagrange%20polynomial%20interpolation.html" class="backlink-item">Lagrange polynomial interpolation</a></li>
-    <li class="backlink-item-wrap"><a href="Linear%20interpolation.html" class="backlink-item">Linear interpolation</a></li>
-    <li class="backlink-item-wrap"><a href="Newton%20divided%20differences.html" class="backlink-item">Newton divided differences</a></li>
-    <li class="backlink-item-wrap"><a href="Polynomial%20fitting.html" class="backlink-item">Polynomial fitting</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Cubic spline interpolation]]
+- [[Lagrange polynomial interpolation]]
+- [[Linear interpolation]]
+- [[Newton divided differences]]
+- [[Polynomial fitting]]
+- [[Mathematical_Numerical_Methods_MOC]]
+
 

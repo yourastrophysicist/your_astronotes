@@ -34,17 +34,17 @@ heat conducts virtually instantaneously along magnetic flux surfaces while being
 
 ## see also
 
-- [Fluid_and_Plasma_Dynamics_MOC](../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html)
-- [Part6_Two_Fluid_Theory_Transport_and_Microinstabilities](../../02_Literature/Lectures/Fluid_and_Plasma_Dynamics/Part6_Two_Fluid_Theory_Transport_and_Microinstabilities.html)
-- [Drift-reduced Braginskii equations and vorticity derivation](Drift-reduced%20Braginskii%20equations%20and%20vorticity%20derivation.html)
-- [Ambipolar diffusion in unmagnetized and magnetized plasmas](Ambipolar%20diffusion%20in%20unmagnetized%20and%20magnetized%20plasmas.html)
+- [[Fluid_and_Plasma_Dynamics_MOC]]
+- [[Part6_Two_Fluid_Theory_Transport_and_Microinstabilities]]
+- [[Drift-reduced Braginskii equations and vorticity derivation]]
+- [[Ambipolar diffusion in unmagnetized and magnetized plasmas]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Ambipolar%20diffusion%20in%20unmagnetized%20and%20magnetized%20plasmas.html" class="backlink-item">Ambipolar diffusion in unmagnetized and magnetized plasmas</a></li>
-    <li class="backlink-item-wrap"><a href="Drift-reduced%20Braginskii%20equations%20and%20vorticity%20derivation.html" class="backlink-item">Drift-reduced Braginskii equations and vorticity derivation</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Ambipolar diffusion in unmagnetized and magnetized plasmas]]
+- [[Drift-reduced Braginskii equations and vorticity derivation]]
+- [[Fluid_and_Plasma_Dynamics_MOC]]
+
 

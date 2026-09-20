@@ -5,7 +5,7 @@ title: "13_CloudVeneto_HPC_Infrastructure_and_OpenStack_Deployment"
 # Lesson 13 – CloudVeneto HPC Infrastructure and OpenStack Deployment
 
 *Computational Astrophysics, Prof. Tiziano Zingales*  
-*Index: [Computational_Astrophysics_MOC](../../../04_Atlas/Computational_Astrophysics_MOC.html)*
+*Index: [[Computational_Astrophysics_MOC]]*
 
 ---
 
@@ -177,16 +177,16 @@ CloudVeneto resources in the `PhysicsOfData-students` project are shared across 
 ---
 
 ## Related Notes
-- [00_Course_Overview_and_Computational_Laboratories](./00_Course_Overview_and_Computational_Laboratories.html)
-- [01_Linux_Containers_and_Docker_Architecture](./01_Linux_Containers_and_Docker_Architecture.html)
-- [11_Parallel_Computing_Architectures_and_HPC_Scaling](./11_Parallel_Computing_Architectures_and_HPC_Scaling.html)
-- [12_MPI_Distributed_Memory_Programming_with_Python](./12_MPI_Distributed_Memory_Programming_with_Python.html)
+- [[00_Course_Overview_and_Computational_Laboratories]]
+- [[01_Linux_Containers_and_Docker_Architecture]]
+- [[11_Parallel_Computing_Architectures_and_HPC_Scaling]]
+- [[12_MPI_Distributed_Memory_Programming_with_Python]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Computational/CloudVeneto%20HPC%20OpenStack%20infrastructure%20and%20remote%20clusters.html" class="backlink-item">CloudVeneto HPC OpenStack infrastructure and remote clusters</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[CloudVeneto HPC OpenStack infrastructure and remote clusters]]
+- [[Computational_Astrophysics_MOC]]
+
 

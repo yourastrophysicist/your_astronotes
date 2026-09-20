@@ -92,8 +92,8 @@ Finding this gap in a star cluster is a major win for stellar modelers:
 ---
 
 ## See Also
-*   [Color-magnitude diagrams of clusters](Color-magnitude%20diagrams%20of%20clusters.html)
-*   [Resolved vs unresolved stellar populations](Resolved%20vs%20unresolved%20stellar%20populations.html)
-*   [Stellar evolution timescales](Stellar%20evolution%20timescales.html)
-*   [Main sequence turn-off as age indicator](Main%20sequence%20turn-off%20as%20age%20indicator.html)
-*   [Stellar structure equations](Stellar%20structure%20equations.html)
+*   [[Color-magnitude diagrams of clusters]]
+*   [[Resolved vs unresolved stellar populations]]
+*   [[Stellar evolution timescales]]
+*   [[Main sequence turn-off as age indicator]]
+*   [[Stellar structure equations]]

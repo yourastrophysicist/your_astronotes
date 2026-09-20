@@ -117,16 +117,16 @@ git add environment.yml; git commit -m "add scikit-learn"
 
 ## see also
 
-- [Linux for the astrophysicist](Linux%20for%20the%20astrophysicist.html)
-- [Python language essentials](Python%20language%20essentials.html)
-- [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
+- [[Linux for the astrophysicist]]
+- [[Python language essentials]]
+- [[Mathematical_Numerical_Methods_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Linux%20for%20the%20astrophysicist.html" class="backlink-item">Linux for the astrophysicist</a></li>
-    <li class="backlink-item-wrap"><a href="Python%20language%20essentials.html" class="backlink-item">Python language essentials</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Linux for the astrophysicist]]
+- [[Python language essentials]]
+- [[Mathematical_Numerical_Methods_MOC]]
+
 

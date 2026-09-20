@@ -51,20 +51,20 @@ GR builds on the strong EP. tested to spectacular precision by Eotvos-type exper
 
 ## see also
 
-- [Manifold metric and signature](Manifold%20metric%20and%20signature.html)
-- [Christoffel symbols](Christoffel%20symbols.html)
-- [Geodesic deviation](Geodesic%20deviation.html)
-- [Geodesic equation](Geodesic%20equation.html)
-- [Newtonian limit of GR](Newtonian%20limit%20of%20GR.html)
-- [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
-- [Ch 1 - Gravity is Geometry](../../02_Literature/Book/Baumann%20GR/Ch%201%20-%20Gravity%20is%20Geometry.html)
-- [Ch 2 - Some Differential Geometry](../../02_Literature/Book/Baumann%20GR/Ch%202%20-%20Some%20Differential%20Geometry.html)
+- [[Manifold metric and signature]]
+- [[Christoffel symbols]]
+- [[Geodesic deviation]]
+- [[Geodesic equation]]
+- [[Newtonian limit of GR]]
+- [[General_Relativity_MOC]]
+- [[Ch 1 - Gravity is Geometry]]
+- [[Ch 2 - Some Differential Geometry]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Manifold%20metric%20and%20signature.html" class="backlink-item">Manifold metric and signature</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Manifold metric and signature]]
+- [[General_Relativity_MOC]]
+
 

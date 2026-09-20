@@ -32,5 +32,5 @@ Stellar surface imaging is one of the most unique and powerful capabilities of o
 
 ## connections & zettel links
 
-* parent moc: [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-* related zettels: [Stellar diameters and limb darkening](interf/Stellar%20diameters%20and%20limb%20darkening.html), [CHARA array](interf/CHARA%20array.html), [Phase closure](interf/Phase%20closure.html), [Aperture synthesis principle](interf/Aperture%20synthesis%20principle.html)
+* parent moc: [[Astronomical_Interferometry_MOC]]
+* related zettels: [[Stellar diameters and limb darkening]], [[CHARA array]], [[Phase closure]], [[Aperture synthesis principle]]

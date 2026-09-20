@@ -13,7 +13,7 @@ units: erg s$^{-1}$ cm$^{-2}$ sr$^{-1}$ Hz$^{-1}$.
 
 the most fundamental: it specifies the radiation field at a point in a direction at a frequency. crucially, **$I_\nu$ is conserved along a ray** in vacuum:
 $$\frac{dI_\nu}{ds} = 0\quad\text{in free space}$$
-this is why surface brightness of a resolved object is *independent of distance* in Euclidean space (in cosmology, redshift breaks this: $I_\nu^{\rm obs} = I_\nu^{\rm rest}/(1+z)^4$, see [Surface brightness dimming](Surface%20brightness%20dimming.html)).
+this is why surface brightness of a resolved object is *independent of distance* in Euclidean space (in cosmology, redshift breaks this: $I_\nu^{\rm obs} = I_\nu^{\rm rest}/(1+z)^4$, see [[Surface brightness dimming]]).
 
 ## flux $F_\nu$ and bolometric flux $F$
 
@@ -46,7 +46,7 @@ energy per unit volume per unit frequency:
 $$u_\nu = \frac{4\pi}{c} \langle I_\nu\rangle$$
 relevant for thermodynamic problems (CMB, stellar interiors). the bolometric:
 $$u = \int u_\nu\, d\nu$$
-for a blackbody, $u = aT^4$ with $a = 4\sigma_{SB}/c$. see [Blackbody radiation and Stefan-Boltzmann](Blackbody%20radiation%20and%20Stefan-Boltzmann.html).
+for a blackbody, $u = aT^4$ with $a = 4\sigma_{SB}/c$. see [[Blackbody radiation and Stefan-Boltzmann]].
 
 ## a worked relation
 
@@ -68,13 +68,13 @@ $$F = \frac{L}{4\pi d^2} = \left(\frac{R}{d}\right)^2 \sigma_{SB} T^4$$
 
 ## see also
 
-- [Blackbody radiation and Stefan-Boltzmann](Blackbody%20radiation%20and%20Stefan-Boltzmann.html)
-- [Magnitudes and photometric systems](Magnitudes%20and%20photometric%20systems.html)
-- [Distance modulus](Distance%20modulus.html)
-- [Luminosity distance](Luminosity%20distance.html) — the cosmological generalisation
-- [Surface brightness dimming](Surface%20brightness%20dimming.html)
-- [Electromagnetic radiation basics](Electromagnetic%20radiation%20basics.html)
-- [Luminosity and Flux for -Instrumentations](Luminosity%20and%20Flux%20for%20-Instrumentations.html)
+- [[Blackbody radiation and Stefan-Boltzmann]]
+- [[Magnitudes and photometric systems]]
+- [[Distance modulus]]
+- [[Luminosity distance]] — the cosmological generalisation
+- [[Surface brightness dimming]]
+- [[Electromagnetic radiation basics]]
+- [[Luminosity and Flux for -Instrumentations]]
 
 ---
 
@@ -128,15 +128,15 @@ $$F = \frac{L}{4\pi d^2} = \left(\frac{R}{d}\right)^2 \sigma_{SB} T^4$$
 ![obs_rad-016.png](../../assets/images/obs_rad-016.png)
 *Optically thin (tau << 1) vs optically thick (tau >> 1) limits.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Bolometric%20correction%20and%20effective%20temperature.html" class="backlink-item">Bolometric correction and effective temperature</a></li>
-    <li class="backlink-item-wrap"><a href="Dilution%20factor.html" class="backlink-item">Dilution factor</a></li>
-    <li class="backlink-item-wrap"><a href="Equation%20of%20radiative%20transfer.html" class="backlink-item">Equation of radiative transfer</a></li>
-    <li class="backlink-item-wrap"><a href="Planck%20law%20Wien%20Stefan-Boltzmann.html" class="backlink-item">Planck law Wien Stefan-Boltzmann</a></li>
-    <li class="backlink-item-wrap"><a href="Pogson%20magnitudes%20and%20flux%20relation.html" class="backlink-item">Pogson magnitudes and flux relation</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Bolometric correction and effective temperature]]
+- [[Dilution factor]]
+- [[Equation of radiative transfer]]
+- [[Planck law Wien Stefan-Boltzmann]]
+- [[Pogson magnitudes and flux relation]]
+- [[Observational_Astrophysics_MOC]]
+
 

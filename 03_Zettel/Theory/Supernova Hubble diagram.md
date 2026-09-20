@@ -55,15 +55,15 @@ at high $z$ ($z \gtrsim 1$): SN Ia were **brighter** than expected for a constan
 
 ## see also
 
-- [Type Ia supernovae as standard candles](Type%20Ia%20supernovae%20as%20standard%20candles.html)
-- [Luminosity distance](Luminosity%20distance.html)
-- [Distance modulus](Distance%20modulus.html)
-- [Hubble flow distances](Hubble%20flow%20distances.html)
-- [Distance ladder derivations](Distance%20ladder%20derivations.html)
-- [Cepheid period-luminosity relation](Cepheid%20period-luminosity%20relation.html)
-- [TRGB tip of the red giant branch](TRGB%20tip%20of%20the%20red%20giant%20branch.html)
-- [Cosmic_inventory_dark_energy](Cosmic_inventory_dark_energy.html)
-- [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
+- [[Type Ia supernovae as standard candles]]
+- [[Luminosity distance]]
+- [[Distance modulus]]
+- [[Hubble flow distances]]
+- [[Distance ladder derivations]]
+- [[Cepheid period-luminosity relation]]
+- [[TRGB tip of the red giant branch]]
+- [[Cosmic_inventory_dark_energy]]
+- [[Observational_Cosmology_MOC]]
 
 ---
 
@@ -80,17 +80,17 @@ at high $z$ ($z \gtrsim 1$): SN Ia were **brighter** than expected for a constan
 ![suzuki_hubble_fig6.png](../../assets/images/suzuki_hubble_fig6.png)
 *Confidence contours in the $(\Omega_m, \Omega_\Lambda)$ plane combining SNe Ia, CMB, and BAO, establishing the concordance $\Lambda$CDM universe ($\,\Omega_m \approx 0.3, \Omega_\Lambda \approx 0.7$).*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (8)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Deceleration%20parameter.html" class="backlink-item">Deceleration parameter</a></li>
-    <li class="backlink-item-wrap"><a href="Distance%20ladder%20derivations.html" class="backlink-item">Distance ladder derivations</a></li>
-    <li class="backlink-item-wrap"><a href="LambdaCDM%20current%20parameters.html" class="backlink-item">LambdaCDM current parameters</a></li>
-    <li class="backlink-item-wrap"><a href="Luminosity%20distance.html" class="backlink-item">Luminosity distance</a></li>
-    <li class="backlink-item-wrap"><a href="Surveys%20to%20remember.html" class="backlink-item">Surveys to remember</a></li>
-    <li class="backlink-item-wrap"><a href="Various%20models%20of%20the%20universe.html" class="backlink-item">Various models of the universe</a></li>
-    <li class="backlink-item-wrap"><a href="%CE%9BCDM%20current%20parameters.html" class="backlink-item">ΛCDM current parameters</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Deceleration parameter]]
+- [[Distance ladder derivations]]
+- [[LambdaCDM current parameters]]
+- [[Luminosity distance]]
+- [[Surveys to remember]]
+- [[Various models of the universe]]
+- [[ΛCDM current parameters]]
+- [[Observational_Cosmology_MOC]]
+
 

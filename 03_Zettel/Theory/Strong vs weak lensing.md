@@ -68,20 +68,20 @@ both are essential complementary probes.
 ## see also
 
 - Gravitational lensing — intro
-- [Lensing as a cosmological probe](Lensing%20as%20a%20cosmological%20probe.html)
-- [Light deflection](Light%20deflection.html)
-- [Cosmic_inventory_dark_matter](Cosmic_inventory_dark_matter.html)
+- [[Lensing as a cosmological probe]]
+- [[Light deflection]]
+- [[Cosmic_inventory_dark_matter]]
 - 03_Zettel/Theory/Cosmological distances
-- [ΛCDM current parameters](%CE%9BCDM%20current%20parameters.html)
-- [Hubble law](Hubble%20law.html)
-- [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
+- [[ΛCDM current parameters]]
+- [[Hubble law]]
+- [[Observational_Cosmology_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Gravitational%20lensing%20-%20intro.html" class="backlink-item">Gravitational lensing - intro</a></li>
-    <li class="backlink-item-wrap"><a href="Lensing%20as%20a%20cosmological%20probe.html" class="backlink-item">Lensing as a cosmological probe</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Gravitational lensing - intro]]
+- [[Lensing as a cosmological probe]]
+- [[Observational_Cosmology_MOC]]
+
 

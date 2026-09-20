@@ -18,7 +18,7 @@ the workhorse for $n_e \sim 10^2$ to $10^4$ cm$^{-3}$. doublet of S$^+$ from $^2
 | $10^4$ | $\sim 0.55$ |
 | $10^5$ | $\sim 0.45$ |
 
-see [SII forbidden lines](SII%20forbidden%20lines.html).
+see [[SII forbidden lines]].
 
 ### $[OII]\,\lambda 3729/\lambda 3726$
 
@@ -58,27 +58,27 @@ precision: limited by line-flux measurement and instrumental resolution. typical
 
 ## see also
 
-- [Forbidden line diagnostics](Forbidden%20line%20diagnostics.html)
-- [Spectroscopic Te diagnostics](Spectroscopic%20Te%20diagnostics.html)
-- [SII forbidden lines](SII%20forbidden%20lines.html)
-- [Critical density](Critical%20density.html)
-- [Two-level atom](Two-level%20atom.html)
-- [Equivalent vs nonequivalent electrons](Equivalent%20vs%20nonequivalent%20electrons.html)
-- [Ionisation parameter U](Ionisation%20parameter%20U.html)
-- [H II region spectroscopy](H%20II%20region%20spectroscopy.html)
-- [Planetary nebula spectroscopy](Planetary%20nebula%20spectroscopy.html)
+- [[Forbidden line diagnostics]]
+- [[Spectroscopic Te diagnostics]]
+- [[SII forbidden lines]]
+- [[Critical density]]
+- [[Two-level atom]]
+- [[Equivalent vs nonequivalent electrons]]
+- [[Ionisation parameter U]]
+- [[H II region spectroscopy]]
+- [[Planetary nebula spectroscopy]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (8)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Critical%20density.html" class="backlink-item">Critical density</a></li>
-    <li class="backlink-item-wrap"><a href="Forbidden%20line%20diagnostics.html" class="backlink-item">Forbidden line diagnostics</a></li>
-    <li class="backlink-item-wrap"><a href="Forbidden%20lines.html" class="backlink-item">Forbidden lines</a></li>
-    <li class="backlink-item-wrap"><a href="Ionisation%20parameter%20and%20ionisation%20state.html" class="backlink-item">Ionisation parameter and ionisation state</a></li>
-    <li class="backlink-item-wrap"><a href="SII%20forbidden%20lines.html" class="backlink-item">SII forbidden lines</a></li>
-    <li class="backlink-item-wrap"><a href="Spectroscopic%20Te%20diagnostics.html" class="backlink-item">Spectroscopic Te diagnostics</a></li>
-    <li class="backlink-item-wrap"><a href="Two-level%20atom.html" class="backlink-item">Two-level atom</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Critical density]]
+- [[Forbidden line diagnostics]]
+- [[Forbidden lines]]
+- [[Ionisation parameter and ionisation state]]
+- [[SII forbidden lines]]
+- [[Spectroscopic Te diagnostics]]
+- [[Two-level atom]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 

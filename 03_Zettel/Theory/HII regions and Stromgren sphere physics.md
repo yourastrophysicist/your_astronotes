@@ -37,18 +37,18 @@ the ionization boundary is a sharp geometric sphere.
 
 ## see also
 
-- [Astrophysics_of_the_Interstellar_Medium_MOC](../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html)
-- [Forbidden line diagnostics of electron temperature and density](Forbidden%20line%20diagnostics%20of%20electron%20temperature%20and%20density.html)
-- [Primordial helium abundance from HII regions](Primordial%20helium%20abundance%20from%20HII%20regions.html)
-- [Carraro_03_HII_Regions_and_Photoionized_Gas](../../02_Literature/Lectures/Interstellar_Medium/Carraro_03_HII_Regions_and_Photoionized_Gas.html)
+- [[Astrophysics_of_the_Interstellar_Medium_MOC]]
+- [[Forbidden line diagnostics of electron temperature and density]]
+- [[Primordial helium abundance from HII regions]]
+- [[Carraro_03_HII_Regions_and_Photoionized_Gas]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Forbidden%20line%20diagnostics%20of%20electron%20temperature%20and%20density.html" class="backlink-item">Forbidden line diagnostics of electron temperature and density</a></li>
-    <li class="backlink-item-wrap"><a href="Multi-phase%20structure%20of%20the%20interstellar%20medium.html" class="backlink-item">Multi-phase structure of the interstellar medium</a></li>
-    <li class="backlink-item-wrap"><a href="Primordial%20helium%20abundance%20from%20HII%20regions.html" class="backlink-item">Primordial helium abundance from HII regions</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html" class="backlink-item">Astrophysics_of_the_Interstellar_Medium_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Forbidden line diagnostics of electron temperature and density]]
+- [[Multi-phase structure of the interstellar medium]]
+- [[Primordial helium abundance from HII regions]]
+- [[Astrophysics_of_the_Interstellar_Medium_MOC]]
+
 

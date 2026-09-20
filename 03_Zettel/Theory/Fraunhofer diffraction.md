@@ -120,9 +120,9 @@ source: local plot generated from $I(x)=[2J_1(x)/x]^2$.
 
 ## see also
 
-- [Plane waves and Huygens principle](interf/Plane%20waves%20and%20Huygens%20principle.html)
-- [Diffraction patterns of simple apertures](interf/Diffraction%20patterns%20of%20simple%20apertures.html)
-- [Point spread function](interf/Point%20spread%20function.html)
-- [Optical transfer function](interf/Optical%20transfer%20function.html)
-- [Van Cittert-Zernike theorem](interf/Van%20Cittert-Zernike%20theorem.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Plane waves and Huygens principle]]
+- [[Diffraction patterns of simple apertures]]
+- [[Point spread function]]
+- [[Optical transfer function]]
+- [[Van Cittert-Zernike theorem]]
+- [[Astronomical_Interferometry_MOC]]

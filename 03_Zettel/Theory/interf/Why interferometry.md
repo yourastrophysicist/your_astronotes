@@ -89,17 +89,16 @@ a single telescope produces an image directly. an interferometer produces *Fouri
 
 ## see also
 
-- [Plane waves and Huygens principle](Plane%20waves%20and%20Huygens%20principle.html)
-- [Van Cittert-Zernike theorem](Van%20Cittert-Zernike%20theorem.html)
-- [Aperture synthesis principle](Aperture%20synthesis%20principle.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Plane waves and Huygens principle]]
+- [[Van Cittert-Zernike theorem]]
+- [[Aperture synthesis principle]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Interferometry%20course%20intro.html" class="backlink-item">Interferometry course intro</a></li>
-    <li class="backlink-item-wrap"><a href="Interferometry%20course%20intro.html" class="backlink-item">Interferometry course intro</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Interferometry course intro]]
+- [[Astronomical_Interferometry_MOC]]
+
 

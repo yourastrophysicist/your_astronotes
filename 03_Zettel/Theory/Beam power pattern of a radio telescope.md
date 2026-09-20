@@ -68,7 +68,7 @@ sidelobes are dangerous because they can look like real structure after imaging.
 
 ## relation to dirty beam
 
-single-dish beam pattern is the PSF of one aperture. in interferometry, incomplete UV coverage produces a synthesized PSF: the [dirty beam](interf/Dirty%20beam%20and%20dirty%20image.html).
+single-dish beam pattern is the PSF of one aperture. in interferometry, incomplete UV coverage produces a synthesized PSF: the [[Dirty beam and dirty image|dirty beam]].
 
 both are versions of the same idea: aperture sampling controls image response.
 
@@ -86,7 +86,7 @@ source: local study diagram generated from $A_{\rm eff} = \eta A$ and $G = 4\pi 
 
 ## see also
 
-- [Antenna effective area and gain](interf/Antenna%20effective%20area%20and%20gain.html)
-- [Point spread function](interf/Point%20spread%20function.html)
-- [Optical transfer function](interf/Optical%20transfer%20function.html)
-- [Dirty beam and dirty image](interf/Dirty%20beam%20and%20dirty%20image.html)
+- [[Antenna effective area and gain]]
+- [[Point spread function]]
+- [[Optical transfer function]]
+- [[Dirty beam and dirty image]]

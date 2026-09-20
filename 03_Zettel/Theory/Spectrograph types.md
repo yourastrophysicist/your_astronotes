@@ -67,25 +67,25 @@ each modern observatory has multiple instruments to cover different regimes. a t
 
 ## see also
 
-- [Spectrograph design](Spectrograph%20design.html)
-- [Echelle spectroscopy](Echelle%20spectroscopy.html)
-- [Multi-object spectroscopy MOS](Multi-object%20spectroscopy%20MOS.html)
-- [Integral-field spectroscopy IFU](Integral-field%20spectroscopy%20IFU.html)
-- [Grating equation](Grating%20equation.html)
-- [Dispersion and spectral resolution](Dispersion%20and%20spectral%20resolution.html)
-- [Survey resources for Obs Astro](Survey%20resources%20for%20Obs%20Astro.html)
+- [[Spectrograph design]]
+- [[Echelle spectroscopy]]
+- [[Multi-object spectroscopy MOS]]
+- [[Integral-field spectroscopy IFU]]
+- [[Grating equation]]
+- [[Dispersion and spectral resolution]]
+- [[Survey resources for Obs Astro]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (8)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Dispersion%20and%20spectral%20resolution.html" class="backlink-item">Dispersion and spectral resolution</a></li>
-    <li class="backlink-item-wrap"><a href="Echelle%20spectroscopy.html" class="backlink-item">Echelle spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="Integral-field%20spectroscopy%20IFU.html" class="backlink-item">Integral-field spectroscopy IFU</a></li>
-    <li class="backlink-item-wrap"><a href="Multi-object%20spectroscopy%20MOS.html" class="backlink-item">Multi-object spectroscopy MOS</a></li>
-    <li class="backlink-item-wrap"><a href="N-slit%20interference%20and%20gratings.html" class="backlink-item">N-slit interference and gratings</a></li>
-    <li class="backlink-item-wrap"><a href="Spectrograph%20design.html" class="backlink-item">Spectrograph design</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Dispersion and spectral resolution]]
+- [[Echelle spectroscopy]]
+- [[Integral-field spectroscopy IFU]]
+- [[Multi-object spectroscopy MOS]]
+- [[N-slit interference and gratings]]
+- [[Spectrograph design]]
+- [[Astronomical_Spectroscopy_MOC]]
+- [[Astrophysics_of_Galaxies_MOC]]
+
 

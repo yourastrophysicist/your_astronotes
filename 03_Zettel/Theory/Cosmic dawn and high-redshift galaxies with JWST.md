@@ -34,11 +34,11 @@ JWST discovered a pervasive population of extremely compact, highly reddened obj
 
 ## see also
 
-- [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
-- [Pablo_05_Galaxies_at_cosmological_distances](../../02_Literature/Lectures/Observational_Cosmology/Pablo_05_Galaxies_at_cosmological_distances.html)
-- [High-redshift galaxy selection and Lyman break technique](High-redshift%20galaxy%20selection%20and%20Lyman%20break%20technique.html)
-- [AGN taxonomy unified model and feedback](AGN%20taxonomy%20unified%20model%20and%20feedback.html)
-- [Cosmic star formation history](Cosmic%20star%20formation%20history.html)
+- [[Observational_Cosmology_MOC]]
+- [[Pablo_05_Galaxies_at_cosmological_distances]]
+- [[High-redshift galaxy selection and Lyman break technique]]
+- [[AGN taxonomy unified model and feedback]]
+- [[Cosmic star formation history]]
 
 ---
 
@@ -90,11 +90,11 @@ JWST discovered a pervasive population of extremely compact, highly reddened obj
 ![JWST NIRSpec Spectroscopic Confirmation](../../assets/images/slide05_Google_Shape_97_p17.png)
 *Figure JWST-04: NIRSpec micro-shutter array spectroscopic confirmation revealing the sharp Ly$\alpha$ damping wing and rest-frame optical emission lines.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="High-redshift%20galaxy%20selection%20and%20Lyman%20break%20technique.html" class="backlink-item">High-redshift galaxy selection and Lyman break technique</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[High-redshift galaxy selection and Lyman break technique]]
+- [[Observational_Cosmology_MOC]]
+
 

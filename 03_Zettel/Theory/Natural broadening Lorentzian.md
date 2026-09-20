@@ -42,31 +42,31 @@ natural broadening: $\sim 10^{-4}$ Å. so **Doppler broadening dominates** by a 
 
 ## natural + collisional = total Lorentzian
 
-natural broadening always coexists with **collisional (pressure) broadening** ([Collisional pressure broadening](Collisional%20pressure%20broadening.html)), which is also Lorentzian. the total damping constant is:
+natural broadening always coexists with **collisional (pressure) broadening** ([[Collisional pressure broadening]]), which is also Lorentzian. the total damping constant is:
 $$\Gamma_{\rm total} = \gamma_{\rm nat} + \gamma_{\rm coll}$$
 
 at stellar densities, $\gamma_{\rm coll}$ usually exceeds $\gamma_{\rm nat}$ except for weak lines and tenuous regions. so observationally, "Lorentzian wings" usually mean collisional broadening + (small) natural contribution.
 
 ## see also
 
-- [Line profile function phi nu](Line%20profile%20function%20phi%20nu.html)
-- [Voigt profile](Voigt%20profile.html)
-- [Thermal Doppler broadening](Thermal%20Doppler%20broadening.html)
-- [Collisional pressure broadening](Collisional%20pressure%20broadening.html)
-- [Damping wings](Damping%20wings.html)
-- [Curve of growth](Curve%20of%20growth.html)
-- [Absorption coefficient and oscillator strength](Absorption%20coefficient%20and%20oscillator%20strength.html)
+- [[Line profile function phi nu]]
+- [[Voigt profile]]
+- [[Thermal Doppler broadening]]
+- [[Collisional pressure broadening]]
+- [[Damping wings]]
+- [[Curve of growth]]
+- [[Absorption coefficient and oscillator strength]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Collisional%20pressure%20broadening.html" class="backlink-item">Collisional pressure broadening</a></li>
-    <li class="backlink-item-wrap"><a href="Damping%20wings.html" class="backlink-item">Damping wings</a></li>
-    <li class="backlink-item-wrap"><a href="Line%20profile%20function%20phi%20nu.html" class="backlink-item">Line profile function phi nu</a></li>
-    <li class="backlink-item-wrap"><a href="Stark%20broadening.html" class="backlink-item">Stark broadening</a></li>
-    <li class="backlink-item-wrap"><a href="Thermal%20Doppler%20broadening.html" class="backlink-item">Thermal Doppler broadening</a></li>
-    <li class="backlink-item-wrap"><a href="Voigt%20profile.html" class="backlink-item">Voigt profile</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Collisional pressure broadening]]
+- [[Damping wings]]
+- [[Line profile function phi nu]]
+- [[Stark broadening]]
+- [[Thermal Doppler broadening]]
+- [[Voigt profile]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 

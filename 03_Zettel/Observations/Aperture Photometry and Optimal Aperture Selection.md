@@ -30,17 +30,17 @@ $$\sigma_{F_\star}^2 = \sum_{i \in \text{ap}} \sigma_I^2(x_i, y_i) + N_{\text{ap
 	- Balances profile flux capture with noise minimization.
 
 ## Related Notes
-- [Curve of Growth in Stellar Photometry](Curve%20of%20Growth%20in%20Stellar%20Photometry.html)
-- [Malavolta 05 - Local Background Subtraction and Aperture Photometry](../../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2005%20-%20Local%20Background%20Subtraction%20and%20Aperture%20Photometry.html)
-- [Differential Photometry and Comparison Star Selection](Differential%20Photometry%20and%20Comparison%20Star%20Selection.html)
+- [[Curve of Growth in Stellar Photometry]]
+- [[Malavolta 05 - Local Background Subtraction and Aperture Photometry]]
+- [[Differential Photometry and Comparison Star Selection]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Activities/Laboratory%20Exercise%20-%20Star%20Centroiding%20and%20Aperture%20Photometry%20Pipeline.html" class="backlink-item">Laboratory Exercise - Star Centroiding and Aperture Photometry Pipeline</a></li>
-    <li class="backlink-item-wrap"><a href="../Computational/Star%20Centroiding%20via%20Marginal%20Profiles%20and%202D%20Gaussian%20Fitting.html" class="backlink-item">Star Centroiding via Marginal Profiles and 2D Gaussian Fitting</a></li>
-    <li class="backlink-item-wrap"><a href="Curve%20of%20Growth%20in%20Stellar%20Photometry.html" class="backlink-item">Curve of Growth in Stellar Photometry</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Laboratory Exercise - Star Centroiding and Aperture Photometry Pipeline]]
+- [[Star Centroiding via Marginal Profiles and 2D Gaussian Fitting]]
+- [[Curve of Growth in Stellar Photometry]]
+- [[Astrophysics_Laboratory_2_MOC]]
+
 

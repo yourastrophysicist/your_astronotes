@@ -31,15 +31,15 @@ phase speeds:
 
 ## see also
 
-- [Astrophysics_of_the_Interstellar_Medium_MOC](../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html)
-- [Carraro_08_Shocks_Turbulence_and_MHD_Waves](../../02_Literature/Lectures/Interstellar_Medium/Carraro_08_Shocks_Turbulence_and_MHD_Waves.html)
-- [Carraro_07_Interstellar_Magnetic_Fields](../../02_Literature/Lectures/Interstellar_Medium/Carraro_07_Interstellar_Magnetic_Fields.html)
+- [[Astrophysics_of_the_Interstellar_Medium_MOC]]
+- [[Carraro_08_Shocks_Turbulence_and_MHD_Waves]]
+- [[Carraro_07_Interstellar_Magnetic_Fields]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Shear%20Alfven%20and%20magnetosonic%20wave%20modes%20in%20MHD.html" class="backlink-item">Shear Alfven and magnetosonic wave modes in MHD</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html" class="backlink-item">Astrophysics_of_the_Interstellar_Medium_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Shear Alfven and magnetosonic wave modes in MHD]]
+- [[Astrophysics_of_the_Interstellar_Medium_MOC]]
+
 

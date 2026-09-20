@@ -5,7 +5,7 @@ title: "10_Prior_Assignment_Transformation_Invariance_and_Maximum_Entropy"
 # Prior Assignment, Transformation Invariance, and Maximum Entropy
 
 Graduate lecture notes in Astro-Statistics and Cosmology, taught by Prof. Michele Liguori at the University of Padua.
-Reference index [Astro-Statistics_and_Cosmology_MOC](../../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html)
+Reference index [[Astro-Statistics_and_Cosmology_MOC]]
 
 ---
 
@@ -220,7 +220,7 @@ $$Z = \int_{\Omega} \exp\left( -\sum_{k=1}^M \lambda_k f_k(x) \right) \, dx$$
 ### Fundamental MaxEnt Distributions in Physics
 
 1. Bounded Domain without Constraints - if the parameter is bounded $x \in [a, b]$ with no moment constraints, MaxEnt yields the Uniform distribution $p(x) = \frac{1}{b - a}$.
-2. Non-negative Domain with Known Mean - if $x \in [0, \infty)$ and only the average value $\langle x \rangle = \mu$ is known, MaxEnt yields the Exponential distribution
+2. Non-negative Domain with Known Mean - if $x \in [[Astro-Statistics_and_Cosmology_MOC|0, \infty)$ and only the average value $\langle x \rangle = \mu$ is known, MaxEnt yields the Exponential distribution
 
 $$p(x) = \frac{1}{\mu} \exp\left( -\frac{x}{\mu} \right)$$
 
@@ -234,18 +234,18 @@ This provides the deepest information-theoretic justification for the Gaussian d
 
 ## Conceptual Connections
 
-- [Astro-Statistics_and_Cosmology_MOC](../../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html) - Master syllabus map of content
-- [01_Plausible_Reasoning_Cox_Theorem_and_Bayesian_Foundations](./01_Plausible_Reasoning_Cox_Theorem_and_Bayesian_Foundations.html) - Cox theorem and probability foundations
-- [02_Parameter_Estimation_Gaussian_Noise_and_Credible_Intervals](./02_Parameter_Estimation_Gaussian_Noise_and_Credible_Intervals.html) - Impact of informative vs uninformative priors on MAP estimators
-- [06_Fisher_Information_Matrix_Cramer_Rao_Bound_and_Survey_Forecasting](./06_Fisher_Information_Matrix_Cramer_Rao_Bound_and_Survey_Forecasting.html) - The Fisher information matrix as the generator of Jeffreys priors
-- [11_Model_Selection_Bayesian_Evidence_and_Savage_Dickey_Ratio](./11_Model_Selection_Bayesian_Evidence_and_Savage_Dickey_Ratio.html) - Sensitivity of Bayesian evidence to prior volume
+- [Astro-Statistics_and_Cosmology_MOC]] - Master syllabus map of content
+- [[01_Plausible_Reasoning_Cox_Theorem_and_Bayesian_Foundations]] - Cox theorem and probability foundations
+- [[02_Parameter_Estimation_Gaussian_Noise_and_Credible_Intervals]] - Impact of informative vs uninformative priors on MAP estimators
+- [[06_Fisher_Information_Matrix_Cramer_Rao_Bound_and_Survey_Forecasting]] - The Fisher information matrix as the generator of Jeffreys priors
+- [[11_Model_Selection_Bayesian_Evidence_and_Savage_Dickey_Ratio]] - Sensitivity of Bayesian evidence to prior volume
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Principle%20of%20maximum%20entropy%20in%20prior%20assignment.html" class="backlink-item">Principle of maximum entropy in prior assignment</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Transformation%20group%20invariance%20and%20Jeffreys%20prior.html" class="backlink-item">Transformation group invariance and Jeffreys prior</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Principle of maximum entropy in prior assignment]]
+- [[Transformation group invariance and Jeffreys prior]]
+- [[Astro-Statistics_and_Cosmology_MOC]]
+
 

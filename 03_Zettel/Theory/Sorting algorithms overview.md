@@ -127,14 +127,14 @@ arr_sorted_by_b = arr[np.argsort(b)]    # sort arr by the order of b
 
 ## see also
 
-- [Computational complexity and speed](Computational%20complexity%20and%20speed.html)
-- [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
+- [[Computational complexity and speed]]
+- [[Mathematical_Numerical_Methods_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Computational%20complexity%20and%20speed.html" class="backlink-item">Computational complexity and speed</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Computational complexity and speed]]
+- [[Mathematical_Numerical_Methods_MOC]]
+
 

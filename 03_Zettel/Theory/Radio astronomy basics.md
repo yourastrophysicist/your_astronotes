@@ -143,7 +143,7 @@ so the natural chain is:
 
 $$I_\nu\rightarrow \text{beam-weighted antenna signal}\rightarrow \text{voltage}\rightarrow \text{visibility}\rightarrow \text{image}$$
 
-for the detailed pieces, see [Specific intensity and flux density](interf/Specific%20intensity%20and%20flux%20density.html), [Antenna effective area and gain](interf/Antenna%20effective%20area%20and%20gain.html), [Beam power pattern of a radio telescope](interf/Beam%20power%20pattern%20of%20a%20radio%20telescope.html), and [Radiometer equation and SEFD](interf/Radiometer%20equation%20and%20SEFD.html).
+for the detailed pieces, see [[Specific intensity and flux density]], [[Antenna effective area and gain]], [[Beam power pattern of a radio telescope]], and [[Radiometer equation and SEFD]].
 
 ## scientific figure
 
@@ -155,8 +155,8 @@ source: local study diagram generated from the standard brightness-to-flux relat
 
 ## see also
 
-- [Radio interferometer architecture](interf/Radio%20interferometer%20architecture.html)
-- [Two-element correlator](interf/Two-element%20correlator.html)
-- [Major radio interferometers](interf/Major%20radio%20interferometers.html)
-- [Heterodyne vs direct detection](interf/Heterodyne%20vs%20direct%20detection.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Radio interferometer architecture]]
+- [[Two-element correlator]]
+- [[Major radio interferometers]]
+- [[Heterodyne vs direct detection]]
+- [[Astronomical_Interferometry_MOC]]

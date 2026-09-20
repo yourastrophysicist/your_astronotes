@@ -28,16 +28,16 @@ in supersonic molecular cloud collisions ($\mathcal{M}_1 \sim 10 - 20$), isother
 
 ## see also
 
-- [Astrophysics_of_the_Interstellar_Medium_MOC](../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html)
-- [Sedov-Taylor blast wave expansion](Sedov-Taylor%20blast%20wave%20expansion.html)
-- [Carraro_08_Shocks_Turbulence_and_MHD_Waves](../../02_Literature/Lectures/Interstellar_Medium/Carraro_08_Shocks_Turbulence_and_MHD_Waves.html)
+- [[Astrophysics_of_the_Interstellar_Medium_MOC]]
+- [[Sedov-Taylor blast wave expansion]]
+- [[Carraro_08_Shocks_Turbulence_and_MHD_Waves]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Interstellar%20turbulence%20and%20Kolmogorov%20cascade.html" class="backlink-item">Interstellar turbulence and Kolmogorov cascade</a></li>
-    <li class="backlink-item-wrap"><a href="Sedov-Taylor%20blast%20wave%20expansion.html" class="backlink-item">Sedov-Taylor blast wave expansion</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html" class="backlink-item">Astrophysics_of_the_Interstellar_Medium_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Interstellar turbulence and Kolmogorov cascade]]
+- [[Sedov-Taylor blast wave expansion]]
+- [[Astrophysics_of_the_Interstellar_Medium_MOC]]
+
 

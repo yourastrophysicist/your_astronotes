@@ -149,13 +149,13 @@ When sketching the Magorrian relation during the oral examination.
 
 ## 6. See Also
 
-- [M sigma relation](M%20sigma%20relation.html)
-- [Reverberation mapping](Reverberation%20mapping.html)
-- [Water maser BH masses](Water%20maser%20BH%20masses.html)
-- [Stellar dynamics SMBH masses](Stellar%20dynamics%20SMBH%20masses.html)
-- [Fundamental plane of ellipticals](Fundamental%20plane%20of%20ellipticals.html)
-- [Faber-Jackson relation](Faber-Jackson%20relation.html)
-- [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html)
+- [[M sigma relation]]
+- [[Reverberation mapping]]
+- [[Water maser BH masses]]
+- [[Stellar dynamics SMBH masses]]
+- [[Fundamental plane of ellipticals]]
+- [[Faber-Jackson relation]]
+- [[Astrophysics_of_Galaxies_MOC]]
 
 ---
 
@@ -186,19 +186,19 @@ When sketching the Magorrian relation during the oral examination.
 
 ![gal_bh-74.png](../../assets/images/gal_bh-74.png)
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (10)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Faber-Jackson%20relation.html" class="backlink-item">Faber-Jackson relation</a></li>
-    <li class="backlink-item-wrap"><a href="Galactic%20Center%20Sgr%20A%20and%20S-stars.html" class="backlink-item">Galactic Center Sgr A and S-stars</a></li>
-    <li class="backlink-item-wrap"><a href="Ionized%20gas%20SMBH%20masses.html" class="backlink-item">Ionized gas SMBH masses</a></li>
-    <li class="backlink-item-wrap"><a href="M%20sigma%20relation.html" class="backlink-item">M sigma relation</a></li>
-    <li class="backlink-item-wrap"><a href="Reverberation%20mapping.html" class="backlink-item">Reverberation mapping</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20dynamics%20SMBH%20masses.html" class="backlink-item">Stellar dynamics SMBH masses</a></li>
-    <li class="backlink-item-wrap"><a href="Velocity%20dispersion%20from%20line%20width.html" class="backlink-item">Velocity dispersion from line width</a></li>
-    <li class="backlink-item-wrap"><a href="Water%20maser%20BH%20masses.html" class="backlink-item">Water maser BH masses</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Faber-Jackson relation]]
+- [[Galactic Center Sgr A and S-stars]]
+- [[Ionized gas SMBH masses]]
+- [[M sigma relation]]
+- [[Reverberation mapping]]
+- [[Stellar dynamics SMBH masses]]
+- [[Velocity dispersion from line width]]
+- [[Water maser BH masses]]
+- [[Astrophysics_of_Galaxies_MOC]]
+- [[Observational_Cosmology_MOC]]
+
 

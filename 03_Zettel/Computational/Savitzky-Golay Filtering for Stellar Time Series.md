@@ -27,14 +27,14 @@ smooth_flux = savgol_filter(out_of_transit_flux, window_length=101, polyorder=2)
 ```
 
 ## Related Notes
-- [Malavolta 10 - Light Curve Filtering and Detrending Techniques](../../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2010%20-%20Light%20Curve%20Filtering%20and%20Detrending%20Techniques.html)
-- [Running Median and Biweight Light Curve Filters](Running%20Median%20and%20Biweight%20Light%20Curve%20Filters.html)
+- [[Malavolta 10 - Light Curve Filtering and Detrending Techniques]]
+- [[Running Median and Biweight Light Curve Filters]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Running%20Median%20and%20Biweight%20Light%20Curve%20Filters.html" class="backlink-item">Running Median and Biweight Light Curve Filters</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Running Median and Biweight Light Curve Filters]]
+- [[Astrophysics_Laboratory_2_MOC]]
+
 

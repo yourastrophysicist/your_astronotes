@@ -4,7 +4,7 @@ title: "Newton-Raphson for systems of equations"
 ---
 # Newton-Raphson for systems of equations
 
-the multivariate generalization of [Newton-Raphson method](Newton-Raphson%20method.html). given a vector function $\mathbf{f}: \mathbb{R}^n \to \mathbb{R}^n$, find $\mathbf{x}^*$ such that $\mathbf{f}(\mathbf{x}^*) = \mathbf{0}$.
+the multivariate generalization of [[Newton-Raphson method]]. given a vector function $\mathbf{f}: \mathbb{R}^n \to \mathbb{R}^n$, find $\mathbf{x}^*$ such that $\mathbf{f}(\mathbf{x}^*) = \mathbf{0}$.
 
 ## the algorithm
 
@@ -79,20 +79,20 @@ when $\mathbf{f}$ comes from discretizing a PDE, the Jacobian inherits structure
 
 ## see also
 
-- [Newton-Raphson method](Newton-Raphson%20method.html) — 1D version
-- [Bisection method](Bisection%20method.html) — slower but bulletproof alternative
-- [Choosing a root finder](Choosing%20a%20root%20finder.html)
-- [Linear least squares](Linear%20least%20squares.html) — minimization is equivalent to root-finding on the gradient
-- [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
+- [[Newton-Raphson method]] — 1D version
+- [[Bisection method]] — slower but bulletproof alternative
+- [[Choosing a root finder]]
+- [[Linear least squares]] — minimization is equivalent to root-finding on the gradient
+- [[Mathematical_Numerical_Methods_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Bisection%20method.html" class="backlink-item">Bisection method</a></li>
-    <li class="backlink-item-wrap"><a href="Choosing%20a%20root%20finder.html" class="backlink-item">Choosing a root finder</a></li>
-    <li class="backlink-item-wrap"><a href="Newton-Raphson%20method.html" class="backlink-item">Newton-Raphson method</a></li>
-    <li class="backlink-item-wrap"><a href="Partial%20numerical%20derivatives.html" class="backlink-item">Partial numerical derivatives</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Bisection method]]
+- [[Choosing a root finder]]
+- [[Newton-Raphson method]]
+- [[Partial numerical derivatives]]
+- [[Mathematical_Numerical_Methods_MOC]]
+
 

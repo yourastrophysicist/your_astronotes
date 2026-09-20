@@ -80,8 +80,8 @@ source: local study diagram generated from the Abbe/Fourier-optics interpretatio
 
 ## see also
 
-- [Fraunhofer diffraction](interf/Fraunhofer%20diffraction.html)
-- [Optical transfer function](interf/Optical%20transfer%20function.html)
-- [Point spread function](interf/Point%20spread%20function.html)
-- [Aperture synthesis principle](interf/Aperture%20synthesis%20principle.html)
-- [The (u, v) plane](interf/The%20%28u%2C%20v%29%20plane.html)
+- [[Fraunhofer diffraction]]
+- [[Optical transfer function]]
+- [[Point spread function]]
+- [[Aperture synthesis principle]]
+- [[The (u, v) plane]]

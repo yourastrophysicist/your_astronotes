@@ -66,14 +66,14 @@ flat_err = err_clean / trend
 ```
 
 ## Related Notes
-- [TESS Target Pixel Files and Custom Aperture Masks](../Observations/TESS%20Target%20Pixel%20Files%20and%20Custom%20Aperture%20Masks.html)
-- [TESS SAP vs PDCSAP Flux and Cotrending Basis Vectors](../Observations/TESS%20SAP%20vs%20PDCSAP%20Flux%20and%20Cotrending%20Basis%20Vectors.html)
-- [Running Median and Biweight Light Curve Filters](../Computational/Running%20Median%20and%20Biweight%20Light%20Curve%20Filters.html)
+- [[TESS Target Pixel Files and Custom Aperture Masks]]
+- [[TESS SAP vs PDCSAP Flux and Cotrending Basis Vectors]]
+- [[Running Median and Biweight Light Curve Filters]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (1)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Astrophysics_Laboratory_2_MOC]]
+
 

@@ -91,11 +91,11 @@ planets famously do not twinkle (much). the difference is primary education's in
 
 ## see also
 
-- [Atmospheric turbulence overview](interf/Atmospheric%20turbulence%20overview.html)
-- [Kolmogorov turbulence](interf/Kolmogorov%20turbulence.html)
-- [Fried parameter $r_0$](interf/Fried%20parameter%20%24r_0%24.html)
-- [Adaptive optics](interf/Adaptive%20optics.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Atmospheric turbulence overview]]
+- [[Kolmogorov turbulence]]
+- [[Fried parameter $r_0$]]
+- [[Adaptive optics]]
+- [[Astronomical_Interferometry_MOC]]
 
 ---
 

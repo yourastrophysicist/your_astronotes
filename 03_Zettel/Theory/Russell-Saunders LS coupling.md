@@ -45,40 +45,40 @@ among all terms allowed by an electron configuration, the lowest-energy one (the
 
 so for $C$ ($2p^2$): possible terms $^3P, ^1D, ^1S$. highest $S = 1$ $\to$ $^3P$. shell less than half $\to$ $J = 0$. ground state $^3P_0$.
 
-see [Hund's rules](Hund%27s%20rules.html) for the full statement.
+see [[Hund's rules]] for the full statement.
 
 ## when LS coupling breaks down
 
 for heavy atoms ($Z \gtrsim 80$), spin-orbit becomes comparable to or larger than spin-spin and orbit-orbit. in this case, individual $\vec j_i$ couple first:
 $$\vec j_i = \vec\ell_i + \vec s_i$$
-then $\vec J = \sum_i \vec j_i$. this is **jj coupling** ([jj coupling](jj%20coupling.html)).
+then $\vec J = \sum_i \vec j_i$. this is **jj coupling** ([[jj coupling]]).
 
 intermediate-coupling cases are common in mid-$Z$ elements (Fe-peak elements in stars), where neither LS nor jj is strictly valid; the state is a quantum-mechanical mixture.
 
 ## see also
 
-- [Quantum numbers and atomic states](Quantum%20numbers%20and%20atomic%20states.html)
-- [jj coupling](jj%20coupling.html)
-- [Atomic term symbols](Atomic%20term%20symbols.html)
-- [Hund's rules](Hund%27s%20rules.html)
-- [Selection rules](Selection%20rules.html)
-- [Statistical weight g](Statistical%20weight%20g.html)
-- [Hydrogen spectral series](Hydrogen%20spectral%20series.html)
-- [Helium energy levels](Helium%20energy%20levels.html)
+- [[Quantum numbers and atomic states]]
+- [[jj coupling]]
+- [[Atomic term symbols]]
+- [[Hund's rules]]
+- [[Selection rules]]
+- [[Statistical weight g]]
+- [[Hydrogen spectral series]]
+- [[Helium energy levels]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (10)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Atomic%20term%20symbols.html" class="backlink-item">Atomic term symbols</a></li>
-    <li class="backlink-item-wrap"><a href="Equivalent%20vs%20nonequivalent%20electrons.html" class="backlink-item">Equivalent vs nonequivalent electrons</a></li>
-    <li class="backlink-item-wrap"><a href="Forbidden%20vs%20permitted%20vs%20semiforbidden%20transitions.html" class="backlink-item">Forbidden vs permitted vs semiforbidden transitions</a></li>
-    <li class="backlink-item-wrap"><a href="Helium%20energy%20levels.html" class="backlink-item">Helium energy levels</a></li>
-    <li class="backlink-item-wrap"><a href="Hund%27s%20rules.html" class="backlink-item">Hund's rules</a></li>
-    <li class="backlink-item-wrap"><a href="Quantum%20numbers%20and%20atomic%20states.html" class="backlink-item">Quantum numbers and atomic states</a></li>
-    <li class="backlink-item-wrap"><a href="Selection%20rules.html" class="backlink-item">Selection rules</a></li>
-    <li class="backlink-item-wrap"><a href="Statistical%20weight%20g.html" class="backlink-item">Statistical weight g</a></li>
-    <li class="backlink-item-wrap"><a href="jj%20coupling.html" class="backlink-item">jj coupling</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Atomic term symbols]]
+- [[Equivalent vs nonequivalent electrons]]
+- [[Forbidden vs permitted vs semiforbidden transitions]]
+- [[Helium energy levels]]
+- [[Hund's rules]]
+- [[Quantum numbers and atomic states]]
+- [[Selection rules]]
+- [[Statistical weight g]]
+- [[jj coupling]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 

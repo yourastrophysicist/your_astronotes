@@ -43,5 +43,5 @@ In standard astronomy, the PSF dictates the angular resolution limit of the tele
 
 ## connections & zettel links
 
-* parent moc: [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-* related zettels: [Diffraction patterns of simple apertures](interf/Diffraction%20patterns%20of%20simple%20apertures.html), [Dirty beam and dirty image](interf/Dirty%20beam%20and%20dirty%20image.html), [Rayleigh criterion](Rayleigh%20criterion.html)
+* parent moc: [[Astronomical_Interferometry_MOC]]
+* related zettels: [[Diffraction patterns of simple apertures]], [[Dirty beam and dirty image]], [[Rayleigh criterion]]

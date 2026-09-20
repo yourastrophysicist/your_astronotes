@@ -4,7 +4,7 @@ title: "Integrals of the Schechter function"
 ---
 # integrals of the schechter function
 
-Parent [Pablo_02_Statistical_properties_of_galaxies](../../02_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html) · [Schechter function](Schechter%20function.html)
+Parent [[Pablo_02_Statistical_properties_of_galaxies]] · [[Schechter function]]
 
 ## Why This Note Exists
 
@@ -180,18 +180,18 @@ Thus, approximately one-third of the entire starlight in the universe is produce
 
 ![gal_lf1-40.png](../../assets/images/gal_lf1-40.png)
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (9)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Cosmic%20star%20formation%20history.html" class="backlink-item">Cosmic star formation history</a></li>
-    <li class="backlink-item-wrap"><a href="Cosmic%20stellar%20mass%20density%20growth.html" class="backlink-item">Cosmic stellar mass density growth</a></li>
-    <li class="backlink-item-wrap"><a href="Double%20power-law%20modified%20Schechter.html" class="backlink-item">Double power-law modified Schechter</a></li>
-    <li class="backlink-item-wrap"><a href="Luminosity%20function%20definition.html" class="backlink-item">Luminosity function definition</a></li>
-    <li class="backlink-item-wrap"><a href="Press-Schechter%20formalism.html" class="backlink-item">Press-Schechter formalism</a></li>
-    <li class="backlink-item-wrap"><a href="Schechter%20function%20in%20magnitudes.html" class="backlink-item">Schechter function in magnitudes</a></li>
-    <li class="backlink-item-wrap"><a href="UV%20luminosity%20function.html" class="backlink-item">UV luminosity function</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Cosmic star formation history]]
+- [[Cosmic stellar mass density growth]]
+- [[Double power-law modified Schechter]]
+- [[Luminosity function definition]]
+- [[Press-Schechter formalism]]
+- [[Schechter function in magnitudes]]
+- [[UV luminosity function]]
+- [[Astrophysics_of_Galaxies_MOC]]
+- [[Observational_Cosmology_MOC]]
+
 

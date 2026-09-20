@@ -153,11 +153,11 @@ The observed intermediate slope ($\nabla_{[Z/H]} \approx -0.3$) is the natural s
 
 ## 6. Cross-References and Related Notes
 
-- [Early-type galaxy stellar populations](Early-type%20galaxy%20stellar%20populations.html) - Lick indices, downsizing, and IMF
-- [Alpha-Fe enhancement](Alpha-Fe%20enhancement.html) - Chemical evolution and supernova yields
-- [Fundamental plane of ellipticals](Fundamental%20plane%20of%20ellipticals.html) - Virial scaling and M/L tilt
-- [De Vaucouleurs and exponential profiles](De%20Vaucouleurs%20and%20exponential%20profiles.html) - Spheroid surface brightness profiles
-- [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html) - Master Map of Content for course
+- [[Early-type galaxy stellar populations]] - Lick indices, downsizing, and IMF
+- [[Alpha-Fe enhancement]] - Chemical evolution and supernova yields
+- [[Fundamental plane of ellipticals]] - Virial scaling and M/L tilt
+- [[De Vaucouleurs and exponential profiles]] - Spheroid surface brightness profiles
+- [[Astrophysics_of_Galaxies_MOC]] - Master Map of Content for course
 
 ---
 
@@ -172,12 +172,12 @@ The observed intermediate slope ($\nabla_{[Z/H]} \approx -0.3$) is the natural s
 ![gal_sre-48.png](../../assets/images/gal_sre-48.png)
 *Figure 3 - Simulation of gradient flattening during major and minor merger encounters.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Alpha-Fe%20enhancement.html" class="backlink-item">Alpha-Fe enhancement</a></li>
-    <li class="backlink-item-wrap"><a href="Early-type%20galaxy%20stellar%20populations.html" class="backlink-item">Early-type galaxy stellar populations</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Alpha-Fe enhancement]]
+- [[Early-type galaxy stellar populations]]
+- [[Astrophysics_of_Galaxies_MOC]]
+
 

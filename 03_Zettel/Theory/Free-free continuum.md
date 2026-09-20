@@ -4,7 +4,7 @@ title: "Free-free continuum"
 ---
 **free-free emission** (also called thermal bremsstrahlung) is photon emission when a free electron is deflected by the Coulomb field of an ion. distinct from recombination because the electron remains free before and after.
 
-note: the existing vault note [Bremsstrahlung](Bremsstrahlung.html) covers the X-ray / hot-plasma case in more depth. this note focuses on the nebular / radio role.
+note: the existing vault note [[Bremsstrahlung]] covers the X-ray / hot-plasma case in more depth. this note focuses on the nebular / radio role.
 
 ## the process
 
@@ -43,10 +43,10 @@ the radio continuum of star-forming galaxies has two components:
 - **synchrotron** (non-thermal, $S \propto \nu^{-0.7}$).
 - **free-free** (thermal, $S \propto \nu^{-0.1}$).
 
-at high frequencies ($\sim 30$ GHz), free-free dominates. used as a dust-insensitive SFR tracer ([Radio SFR tracer](Radio%20SFR%20tracer.html)).
+at high frequencies ($\sim 30$ GHz), free-free dominates. used as a dust-insensitive SFR tracer ([[Radio SFR tracer]]).
 
 ### hot plasma in clusters
-intracluster medium at $T \sim 10^7$ K. cutoff at $\sim 1$ keV. **dominant X-ray emission mechanism** of clusters; allows X-ray surveys to count hot baryons. see [Bremsstrahlung](Bremsstrahlung.html) for the X-ray emphasis.
+intracluster medium at $T \sim 10^7$ K. cutoff at $\sim 1$ keV. **dominant X-ray emission mechanism** of clusters; allows X-ray surveys to count hot baryons. see [[Bremsstrahlung]] for the X-ray emphasis.
 
 ### supernova remnants and corona
 similar physics, $T \sim 10^7$ K plasma.
@@ -66,25 +66,25 @@ inverse process: free-free can also absorb photons. relevant at low frequencies 
 
 ## see also
 
-- [Bremsstrahlung](Bremsstrahlung.html) — X-ray emphasis
-- [Recombination continuum](Recombination%20continuum.html)
-- [Balmer continuum](Balmer%20continuum.html)
-- [Two-photon emission](Two-photon%20emission.html)
-- [Synchroton](Synchroton.html)
-- [Continuum opacity sources](Continuum%20opacity%20sources.html)
-- [H II region spectroscopy](H%20II%20region%20spectroscopy.html)
-- [Radio SFR tracer](Radio%20SFR%20tracer.html)
-- [X-ray SFR tracer](X-ray%20SFR%20tracer.html)
+- [[Bremsstrahlung]] — X-ray emphasis
+- [[Recombination continuum]]
+- [[Balmer continuum]]
+- [[Two-photon emission]]
+- [[Synchroton]]
+- [[Continuum opacity sources]]
+- [[H II region spectroscopy]]
+- [[Radio SFR tracer]]
+- [[X-ray SFR tracer]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Balmer%20continuum.html" class="backlink-item">Balmer continuum</a></li>
-    <li class="backlink-item-wrap"><a href="Continuum%20opacity%20sources.html" class="backlink-item">Continuum opacity sources</a></li>
-    <li class="backlink-item-wrap"><a href="Recombination%20continuum.html" class="backlink-item">Recombination continuum</a></li>
-    <li class="backlink-item-wrap"><a href="Synchrotron%20continuum.html" class="backlink-item">Synchrotron continuum</a></li>
-    <li class="backlink-item-wrap"><a href="Two-photon%20emission.html" class="backlink-item">Two-photon emission</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Balmer continuum]]
+- [[Continuum opacity sources]]
+- [[Recombination continuum]]
+- [[Synchrotron continuum]]
+- [[Two-photon emission]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 

@@ -2,7 +2,7 @@
 layout: "default"
 title: "Pop III nucleosynthesis signatures"
 ---
-since [Pop III stars](Population%20III%20stars.html) cannot be observed directly today, their nucleosynthesis is studied via the **abundance patterns** they imprinted on the next-generation gas. these patterns persist in the most metal-poor stars in the Galactic halo + ultra-faint dwarf galaxies, providing chemical fossils of single Pop III progenitors.
+since [[Population III stars|Pop III stars]] cannot be observed directly today, their nucleosynthesis is studied via the **abundance patterns** they imprinted on the next-generation gas. these patterns persist in the most metal-poor stars in the Galactic halo + ultra-faint dwarf galaxies, providing chemical fossils of single Pop III progenitors.
 
 ## the canonical Pop III progenitor types
 
@@ -80,23 +80,23 @@ these signatures provide the **only observational handle on the Pop III IMF** un
 
 ## see also
 
-- [Population III stars](Population%20III%20stars.html)
-- [Critical metallicity for fragmentation](Critical%20metallicity%20for%20fragmentation.html)
-- [Search for Pop III stars in dwarf galaxies](Search%20for%20Pop%20III%20stars%20in%20dwarf%20galaxies.html)
-- [Pop III remnants in UFDGs](Pop%20III%20remnants%20in%20UFDGs.html)
-- [Ultra-faint dwarf galaxies definition](Ultra-faint%20dwarf%20galaxies%20definition.html)
-- [UFDG dark matter content](UFDG%20dark%20matter%20content.html)
-- [Big Bang nucleosynthesis](Big%20Bang%20nucleosynthesis.html)
-- [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
+- [[Population III stars]]
+- [[Critical metallicity for fragmentation]]
+- [[Search for Pop III stars in dwarf galaxies]]
+- [[Pop III remnants in UFDGs]]
+- [[Ultra-faint dwarf galaxies definition]]
+- [[UFDG dark matter content]]
+- [[Big Bang nucleosynthesis]]
+- [[Stellar_Astrophysics_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Critical%20metallicity%20for%20fragmentation.html" class="backlink-item">Critical metallicity for fragmentation</a></li>
-    <li class="backlink-item-wrap"><a href="JWST%20and%20the%20first%20stars.html" class="backlink-item">JWST and the first stars</a></li>
-    <li class="backlink-item-wrap"><a href="Population%20III%20stars.html" class="backlink-item">Population III stars</a></li>
-    <li class="backlink-item-wrap"><a href="Search%20for%20Pop%20III%20stars%20in%20dwarf%20galaxies.html" class="backlink-item">Search for Pop III stars in dwarf galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Critical metallicity for fragmentation]]
+- [[JWST and the first stars]]
+- [[Population III stars]]
+- [[Search for Pop III stars in dwarf galaxies]]
+- [[Stellar_Astrophysics_MOC]]
+
 

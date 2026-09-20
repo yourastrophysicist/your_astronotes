@@ -88,33 +88,25 @@ a single star observation: 30-60 minutes.
 
 ## see also
 
-- [Fringe visibility and contrast](Fringe%20visibility%20and%20contrast.html)
-- [Van Cittert-Zernike theorem](Van%20Cittert-Zernike%20theorem.html)
-- [CHARA array](CHARA%20array.html)
-- [Stellar surface imaging](Stellar%20surface%20imaging.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Fringe visibility and contrast]]
+- [[Van Cittert-Zernike theorem]]
+- [[CHARA array]]
+- [[Stellar surface imaging]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (18)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Binary%20star%20orbits.html" class="backlink-item">Binary star orbits</a></li>
-    <li class="backlink-item-wrap"><a href="../CHARA%20array.html" class="backlink-item">CHARA array</a></li>
-    <li class="backlink-item-wrap"><a href="../Fringe%20visibility%20and%20contrast.html" class="backlink-item">Fringe visibility and contrast</a></li>
-    <li class="backlink-item-wrap"><a href="../Michelson%20stellar%20interferometer.html" class="backlink-item">Michelson stellar interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="../NPOI%20Navy%20Prototype%20Optical%20Interferometer.html" class="backlink-item">NPOI Navy Prototype Optical Interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="../Pulsating%20stars%20and%20Mira%20variables.html" class="backlink-item">Pulsating stars and Mira variables</a></li>
-    <li class="backlink-item-wrap"><a href="../Stellar%20surface%20imaging.html" class="backlink-item">Stellar surface imaging</a></li>
-    <li class="backlink-item-wrap"><a href="../Young%20experiment%20as%20a%20stellar%20interferometer.html" class="backlink-item">Young experiment as a stellar interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="Binary%20star%20orbits.html" class="backlink-item">Binary star orbits</a></li>
-    <li class="backlink-item-wrap"><a href="CHARA%20array.html" class="backlink-item">CHARA array</a></li>
-    <li class="backlink-item-wrap"><a href="Fringe%20visibility%20and%20contrast.html" class="backlink-item">Fringe visibility and contrast</a></li>
-    <li class="backlink-item-wrap"><a href="Galactic%20Center%20Sgr%20A%20and%20S-stars.html" class="backlink-item">Galactic Center Sgr A and S-stars</a></li>
-    <li class="backlink-item-wrap"><a href="Michelson%20stellar%20interferometer.html" class="backlink-item">Michelson stellar interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="NPOI%20Navy%20Prototype%20Optical%20Interferometer.html" class="backlink-item">NPOI Navy Prototype Optical Interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="Pulsating%20stars%20and%20Mira%20variables.html" class="backlink-item">Pulsating stars and Mira variables</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20surface%20imaging.html" class="backlink-item">Stellar surface imaging</a></li>
-    <li class="backlink-item-wrap"><a href="Young%20experiment%20as%20a%20stellar%20interferometer.html" class="backlink-item">Young experiment as a stellar interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Binary star orbits]]
+- [[CHARA array]]
+- [[Fringe visibility and contrast]]
+- [[Michelson stellar interferometer]]
+- [[NPOI Navy Prototype Optical Interferometer]]
+- [[Pulsating stars and Mira variables]]
+- [[Stellar surface imaging]]
+- [[Young experiment as a stellar interferometer]]
+- [[Galactic Center Sgr A and S-stars]]
+- [[Astronomical_Interferometry_MOC]]
+
 

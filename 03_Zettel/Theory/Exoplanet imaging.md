@@ -105,7 +105,7 @@ these complement transit observations (which give bulk planet density) and radia
 
 ## see also
 
-- [Coronagraphy](interf/Coronagraphy.html)
-- [Nulling interferometry](interf/Nulling%20interferometry.html)
-- [VLTI Very Large Telescope Interferometer](interf/VLTI%20Very%20Large%20Telescope%20Interferometer.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Coronagraphy]]
+- [[Nulling interferometry]]
+- [[VLTI Very Large Telescope Interferometer]]
+- [[Astronomical_Interferometry_MOC]]

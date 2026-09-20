@@ -85,25 +85,21 @@ solution: combine interferometric data with a *single-dish* total-power measurem
 
 ## see also
 
-- [The (u, v) plane](The%20%28u%2C%20v%29%20plane.html)
-- [Earth-rotation aperture synthesis](Earth-rotation%20aperture%20synthesis.html)
-- [Connected element interferometer](Connected%20element%20interferometer.html)
-- [Optimal array geometry](Optimal%20array%20geometry.html)
-- [CLEAN algorithm](CLEAN%20algorithm.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[The (u, v) plane]]
+- [[Earth-rotation aperture synthesis]]
+- [[Connected element interferometer]]
+- [[Optimal array geometry]]
+- [[CLEAN algorithm]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (9)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Connected%20element%20interferometer.html" class="backlink-item">Connected element interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="../Major%20radio%20interferometers.html" class="backlink-item">Major radio interferometers</a></li>
-    <li class="backlink-item-wrap"><a href="../Radio%20interferometer%20architecture.html" class="backlink-item">Radio interferometer architecture</a></li>
-    <li class="backlink-item-wrap"><a href="../Very%20Long%20Baseline%20Interferometry%20VLBI.html" class="backlink-item">Very Long Baseline Interferometry VLBI</a></li>
-    <li class="backlink-item-wrap"><a href="Connected%20element%20interferometer.html" class="backlink-item">Connected element interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="Major%20radio%20interferometers.html" class="backlink-item">Major radio interferometers</a></li>
-    <li class="backlink-item-wrap"><a href="Radio%20interferometer%20architecture.html" class="backlink-item">Radio interferometer architecture</a></li>
-    <li class="backlink-item-wrap"><a href="Very%20Long%20Baseline%20Interferometry%20VLBI.html" class="backlink-item">Very Long Baseline Interferometry VLBI</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Connected element interferometer]]
+- [[Major radio interferometers]]
+- [[Radio interferometer architecture]]
+- [[Very Long Baseline Interferometry VLBI]]
+- [[Astronomical_Interferometry_MOC]]
+
 

@@ -62,13 +62,4 @@ The Kerr geometry is probed directly by: (1) the Event Horizon Telescope's resol
 - **Foundational Astrophysical Treatment**: Bardeen, Press & Teukolsky (1972), *ApJ* 178, 347 — the locally-nonrotating-frame and ISCO formalism built directly on this geometry. Full synthesis: [[Bardeen_Press_Teukolsky_1972_Rotating_Black_Holes]].
 - **Recent arXiv Benchmark**: Event Horizon Telescope Collaboration (2022), *arXiv:2205.04465* — direct observational test of this metric via the Sgr A* shadow. Full synthesis: [[EHT_Collaboration_2022_Testing_Kerr_Metric_SgrA]].
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked Concepts</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap">[[General_Relativity_MOC]]</li>
-    <li class="backlink-item-wrap">[[Lab_High-Energy_MOC]]</li>
-    <li class="backlink-item-wrap">[[Innermost Stable Circular Orbit ISCO]]</li>
-    <li class="backlink-item-wrap">[[Blandford-Znajek Mechanism]]</li>
-    <li class="backlink-item-wrap">[[Accretion onto compact objects]]</li>
-  </ul>
-</div>
+

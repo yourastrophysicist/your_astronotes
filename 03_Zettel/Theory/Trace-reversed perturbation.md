@@ -57,25 +57,25 @@ $\bar h$ is also natural for cosmological perturbation theory on FLRW background
 
 ## see also
 
-- [Linearized metric perturbation](Linearized%20metric%20perturbation.html)
-- [Linearized Christoffel and Riemann](Linearized%20Christoffel%20and%20Riemann.html)
-- [Linearized gauge transformations](Linearized%20gauge%20transformations.html)
-- [Lorenz gauge](Lorenz%20gauge.html)
-- [Transverse traceless gauge](Transverse%20traceless%20gauge.html)
+- [[Linearized metric perturbation]]
+- [[Linearized Christoffel and Riemann]]
+- [[Linearized gauge transformations]]
+- [[Lorenz gauge]]
+- [[Transverse traceless gauge]]
 - Q15 - trace-reversed perturbation and Lorenz gauge
-- [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
-- [Ch 8 - Gravitational Waves](../../02_Literature/Book/Baumann%20GR/Ch%208%20-%20Gravitational%20Waves.html)
+- [[General_Relativity_MOC]]
+- [[Ch 8 - Gravitational Waves]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Linearized%20Christoffel%20and%20Riemann.html" class="backlink-item">Linearized Christoffel and Riemann</a></li>
-    <li class="backlink-item-wrap"><a href="Linearized%20gauge%20transformations.html" class="backlink-item">Linearized gauge transformations</a></li>
-    <li class="backlink-item-wrap"><a href="Linearized%20metric%20perturbation.html" class="backlink-item">Linearized metric perturbation</a></li>
-    <li class="backlink-item-wrap"><a href="Lorenz%20gauge.html" class="backlink-item">Lorenz gauge</a></li>
-    <li class="backlink-item-wrap"><a href="Newtonian%20limit%20of%20GR.html" class="backlink-item">Newtonian limit of GR</a></li>
-    <li class="backlink-item-wrap"><a href="Transverse%20traceless%20gauge.html" class="backlink-item">Transverse traceless gauge</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Linearized Christoffel and Riemann]]
+- [[Linearized gauge transformations]]
+- [[Linearized metric perturbation]]
+- [[Lorenz gauge]]
+- [[Newtonian limit of GR]]
+- [[Transverse traceless gauge]]
+- [[General_Relativity_MOC]]
+
 

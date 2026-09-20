@@ -5,7 +5,7 @@ title: "11_Parallel_Computing_Architectures_and_HPC_Scaling"
 # Lesson 11 – Parallel Computing Architectures and HPC Scaling
 
 *Computational Astrophysics, Prof. Tiziano Zingales*  
-*Index: [Computational_Astrophysics_MOC](../../../04_Atlas/Computational_Astrophysics_MOC.html)*
+*Index: [[Computational_Astrophysics_MOC]]*
 
 ---
 
@@ -142,16 +142,16 @@ The real-world scaling of a parallel code is bounded by communication overhead:
 ---
 
 ## Related Notes
-- [08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx](./08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx.html)
-- [10_Nested_Sampling_and_Evidence_Computation](./10_Nested_Sampling_and_Evidence_Computation.html)
-- [12_MPI_Distributed_Memory_Programming_with_Python](./12_MPI_Distributed_Memory_Programming_with_Python.html)
-- [13_CloudVeneto_HPC_Infrastructure_and_OpenStack_Deployment](./13_CloudVeneto_HPC_Infrastructure_and_OpenStack_Deployment.html)
+- [[08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx]]
+- [[10_Nested_Sampling_and_Evidence_Computation]]
+- [[12_MPI_Distributed_Memory_Programming_with_Python]]
+- [[13_CloudVeneto_HPC_Infrastructure_and_OpenStack_Deployment]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Computational/Parallel%20computing%20architectures%20and%20Amdahl%20scaling%20laws.html" class="backlink-item">Parallel computing architectures and Amdahl scaling laws</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Parallel computing architectures and Amdahl scaling laws]]
+- [[Computational_Astrophysics_MOC]]
+
 

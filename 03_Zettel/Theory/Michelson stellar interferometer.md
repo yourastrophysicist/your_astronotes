@@ -91,9 +91,9 @@ Modern optical interferometers overcome these limits by adding:
 
 ## see also
 
-- [DOnofrio Exam Retake - Radio vs Optical Physics and Michelson Synthesis](DOnofrio%20Exam%20Retake%20-%20Radio%20vs%20Optical%20Physics%20and%20Michelson%20Synthesis.html)
-- [Young experiment as a stellar interferometer](interf/Young%20experiment%20as%20a%20stellar%20interferometer.html)
-- [Radio telescope components](Radio%20telescope%20components.html)
-- [Heterodyne vs direct detection](interf/Heterodyne%20vs%20direct%20detection.html)
-- [Stellar diameters and limb darkening](interf/Stellar%20diameters%20and%20limb%20darkening.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[DOnofrio Exam Retake - Radio vs Optical Physics and Michelson Synthesis]]
+- [[Young experiment as a stellar interferometer]]
+- [[Radio telescope components]]
+- [[Heterodyne vs direct detection]]
+- [[Stellar diameters and limb darkening]]
+- [[Astronomical_Interferometry_MOC]]

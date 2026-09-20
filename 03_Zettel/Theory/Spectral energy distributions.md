@@ -137,18 +137,18 @@ measuring optical emission line ratios isolates the ionizing mechanism powering 
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Galaxies across wavelengths](Galaxies%20across%20wavelengths.html)
-- [Galaxy morphology vs physical properties](Galaxy%20morphology%20vs%20physical%20properties.html)
-- [Stellar nucleosynthesis](Stellar%20nucleosynthesis.html)
-- [Interstellar absorption](Interstellar%20absorption.html)
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Galaxies across wavelengths]]
+- [[Galaxy morphology vs physical properties]]
+- [[Stellar nucleosynthesis]]
+- [[Interstellar absorption]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Galaxies%20across%20wavelengths.html" class="backlink-item">Galaxies across wavelengths</a></li>
-    <li class="backlink-item-wrap"><a href="Galaxy%20clusters%20and%20overview%20of%20evolution.html" class="backlink-item">Galaxy clusters and overview of evolution</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Galaxies across wavelengths]]
+- [[Galaxy clusters and overview of evolution]]
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+
 

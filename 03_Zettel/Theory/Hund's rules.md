@@ -61,25 +61,25 @@ physical origins:
 
 ## see also
 
-- [Russell-Saunders LS coupling](Russell-Saunders%20LS%20coupling.html)
-- [Atomic term symbols](Atomic%20term%20symbols.html)
-- [Quantum numbers and atomic states](Quantum%20numbers%20and%20atomic%20states.html)
-- [Equivalent vs nonequivalent electrons](Equivalent%20vs%20nonequivalent%20electrons.html)
-- [Selection rules](Selection%20rules.html)
-- [Statistical weight g](Statistical%20weight%20g.html)
-- [Pauli principle and electron configurations](Pauli%20principle%20and%20electron%20configurations.html)
+- [[Russell-Saunders LS coupling]]
+- [[Atomic term symbols]]
+- [[Quantum numbers and atomic states]]
+- [[Equivalent vs nonequivalent electrons]]
+- [[Selection rules]]
+- [[Statistical weight g]]
+- [[Pauli principle and electron configurations]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (8)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Atomic%20term%20symbols.html" class="backlink-item">Atomic term symbols</a></li>
-    <li class="backlink-item-wrap"><a href="Energy%20level%20diagrams%20Grotrian.html" class="backlink-item">Energy level diagrams Grotrian</a></li>
-    <li class="backlink-item-wrap"><a href="Equivalent%20vs%20nonequivalent%20electrons.html" class="backlink-item">Equivalent vs nonequivalent electrons</a></li>
-    <li class="backlink-item-wrap"><a href="Pauli%20principle%20and%20electron%20configurations.html" class="backlink-item">Pauli principle and electron configurations</a></li>
-    <li class="backlink-item-wrap"><a href="Quantum%20numbers%20and%20atomic%20states.html" class="backlink-item">Quantum numbers and atomic states</a></li>
-    <li class="backlink-item-wrap"><a href="Russell-Saunders%20LS%20coupling.html" class="backlink-item">Russell-Saunders LS coupling</a></li>
-    <li class="backlink-item-wrap"><a href="Statistical%20weight%20g.html" class="backlink-item">Statistical weight g</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Atomic term symbols]]
+- [[Energy level diagrams Grotrian]]
+- [[Equivalent vs nonequivalent electrons]]
+- [[Pauli principle and electron configurations]]
+- [[Quantum numbers and atomic states]]
+- [[Russell-Saunders LS coupling]]
+- [[Statistical weight g]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 

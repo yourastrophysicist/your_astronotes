@@ -138,24 +138,24 @@ When asked by Prof. Pizzella - *"How do physical properties correlate with galax
 
 ## 6. Related Knowledge Base Notes
 
-- [Hubble morphological sequence](Hubble%20morphological%20sequence.html) - The classical Hubble tuning fork taxonomic classification.
-- [CAS galaxy classification](CAS%20galaxy%20classification.html) - Quantitative non-parametric classification (Concentration, Asymmetry, Smoothness).
-- [Color bimodality of galaxies](Color%20bimodality%20of%20galaxies.html) - The fundamental optical color-magnitude divide.
-- [Schmidt-Kennicutt law](Schmidt-Kennicutt%20law.html) - Star formation rate surface density relations.
-- [Sersic profile](Sersic%20profile.html) - The master mathematical law describing radial light concentration.
+- [[Hubble morphological sequence]] - The classical Hubble tuning fork taxonomic classification.
+- [[CAS galaxy classification]] - Quantitative non-parametric classification (Concentration, Asymmetry, Smoothness).
+- [[Color bimodality of galaxies]] - The fundamental optical color-magnitude divide.
+- [[Schmidt-Kennicutt law]] - Star formation rate surface density relations.
+- [[Sersic profile]] - The master mathematical law describing radial light concentration.
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (9)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Dark%20matter%20on%20galactic%20scales.html" class="backlink-item">Dark matter on galactic scales</a></li>
-    <li class="backlink-item-wrap"><a href="Galaxies%20in%20the%20local%20universe.html" class="backlink-item">Galaxies in the local universe</a></li>
-    <li class="backlink-item-wrap"><a href="Galaxy%20clusters%20and%20overview%20of%20evolution.html" class="backlink-item">Galaxy clusters and overview of evolution</a></li>
-    <li class="backlink-item-wrap"><a href="Hubble%20morphological%20sequence.html" class="backlink-item">Hubble morphological sequence</a></li>
-    <li class="backlink-item-wrap"><a href="Non-parametric%20galaxy%20morphology%20metrics.html" class="backlink-item">Non-parametric galaxy morphology metrics</a></li>
-    <li class="backlink-item-wrap"><a href="Spectral%20energy%20distributions.html" class="backlink-item">Spectral energy distributions</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Dark matter on galactic scales]]
+- [[Galaxies in the local universe]]
+- [[Galaxy clusters and overview of evolution]]
+- [[Hubble morphological sequence]]
+- [[Non-parametric galaxy morphology metrics]]
+- [[Spectral energy distributions]]
+- [[Astrophysics_of_Galaxies_MOC]]
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Observational_Cosmology_MOC]]
+
 

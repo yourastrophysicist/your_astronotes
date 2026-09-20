@@ -57,22 +57,22 @@ for the universe, the **spatial 3-curvature** is parameterised by $k = -1, 0, +1
 
 ## see also
 
-- [Riemann tensor](Riemann%20tensor.html)
-- [Counting Riemann components](Counting%20Riemann%20components.html)
-- [Ricci tensor and scalar](Ricci%20tensor%20and%20scalar.html)
-- [Cosmological constant](Cosmological%20constant.html)
-- [Spatial curvature parameter k](Spatial%20curvature%20parameter%20k.html)
-- [Cosmological principle](Cosmological%20principle.html)
-- [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
-- [Ch 4 - Spacetime Curvature](../../02_Literature/Book/Baumann%20GR/Ch%204%20-%20Spacetime%20Curvature.html)
+- [[Riemann tensor]]
+- [[Counting Riemann components]]
+- [[Ricci tensor and scalar]]
+- [[Cosmological constant]]
+- [[Spatial curvature parameter k]]
+- [[Cosmological principle]]
+- [[General_Relativity_MOC]]
+- [[Ch 4 - Spacetime Curvature]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Counting%20Riemann%20components.html" class="backlink-item">Counting Riemann components</a></li>
-    <li class="backlink-item-wrap"><a href="Ricci%20tensor%20and%20scalar.html" class="backlink-item">Ricci tensor and scalar</a></li>
-    <li class="backlink-item-wrap"><a href="Spatial%20curvature%20parameter%20k.html" class="backlink-item">Spatial curvature parameter k</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Counting Riemann components]]
+- [[Ricci tensor and scalar]]
+- [[Spatial curvature parameter k]]
+- [[General_Relativity_MOC]]
+
 

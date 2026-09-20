@@ -68,23 +68,23 @@ at $z = 5$: $K \approx -5.7$ mag. so a sub-mm source at $z = 5$ is **brighter** 
 
 ## see also
 
-- [K-correction](K-correction.html)
-- [Luminosity distance](Luminosity%20distance.html)
-- [Angular diameter distance](Angular%20diameter%20distance.html)
-- [Surface brightness dimming](Surface%20brightness%20dimming.html)
-- [IR SFR tracer](IR%20SFR%20tracer.html)
-- [Cosmic star formation history](Cosmic%20star%20formation%20history.html)
-- [LIRGs ULIRGs HyLIRGs](LIRGs%20ULIRGs%20HyLIRGs.html)
-- [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
+- [[K-correction]]
+- [[Luminosity distance]]
+- [[Angular diameter distance]]
+- [[Surface brightness dimming]]
+- [[IR SFR tracer]]
+- [[Cosmic star formation history]]
+- [[LIRGs ULIRGs HyLIRGs]]
+- [[Observational_Cosmology_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Distance%20ladder%20derivations.html" class="backlink-item">Distance ladder derivations</a></li>
-    <li class="backlink-item-wrap"><a href="Galaxy%20counts%20at%20different%20wavelengths.html" class="backlink-item">Galaxy counts at different wavelengths</a></li>
-    <li class="backlink-item-wrap"><a href="K-correction.html" class="backlink-item">K-correction</a></li>
-    <li class="backlink-item-wrap"><a href="Surface%20brightness%20dimming.html" class="backlink-item">Surface brightness dimming</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Distance ladder derivations]]
+- [[Galaxy counts at different wavelengths]]
+- [[K-correction]]
+- [[Surface brightness dimming]]
+- [[Observational_Cosmology_MOC]]
+
 

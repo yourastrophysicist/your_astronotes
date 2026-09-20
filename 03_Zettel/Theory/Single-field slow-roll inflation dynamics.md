@@ -50,20 +50,20 @@ $$\dot{\phi} \approx -\frac{V'(\phi)}{3H} \approx -\frac{M_{\rm Pl} V'}{\sqrt{3V
 
 ## connections & zettel links
 
-* parent moc: [Cosmology_of_the_Early_Universe_MOC](../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html)
+* parent moc: [[Cosmology_of_the_Early_Universe_MOC]]
 * related zettels:
-  - [Slow-roll parameters epsilon and eta](Slow-roll%20parameters%20epsilon%20and%20eta.html)
-  - [Number of e-folds and horizon exit](Number%20of%20e-folds%20and%20horizon%20exit.html)
-  - [Quantum fluctuations of the inflaton field](Quantum%20fluctuations%20of%20the%20inflaton%20field.html)
-  - [Part2_Inflation_Kinematics_Dynamics_and_Models](../../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part2_Inflation_Kinematics_Dynamics_and_Models.html)
+  - [[Slow-roll parameters epsilon and eta]]
+  - [[Number of e-folds and horizon exit]]
+  - [[Quantum fluctuations of the inflaton field]]
+  - [[Part2_Inflation_Kinematics_Dynamics_and_Models]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Flatness%20problem%20and%20dynamical%20attractor.html" class="backlink-item">Flatness problem and dynamical attractor</a></li>
-    <li class="backlink-item-wrap"><a href="Number%20of%20e-folds%20and%20horizon%20exit.html" class="backlink-item">Number of e-folds and horizon exit</a></li>
-    <li class="backlink-item-wrap"><a href="Slow-roll%20parameters%20epsilon%20and%20eta.html" class="backlink-item">Slow-roll parameters epsilon and eta</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html" class="backlink-item">Cosmology_of_the_Early_Universe_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Flatness problem and dynamical attractor]]
+- [[Number of e-folds and horizon exit]]
+- [[Slow-roll parameters epsilon and eta]]
+- [[Cosmology_of_the_Early_Universe_MOC]]
+
 

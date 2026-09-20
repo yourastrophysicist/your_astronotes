@@ -61,15 +61,15 @@ print(f"Readout Noise in Physical Units: {ron_electrons:.3f} e- rms")
 ```
 
 ## Related Notes
-- [Bias Frame and Electronic Offset](../Observations/Bias%20Frame%20and%20Electronic%20Offset.html)
-- [Janesick Photon Transfer Method for Gain and Readout Noise](../Observations/Janesick%20Photon%20Transfer%20Method%20for%20Gain%20and%20Readout%20Noise.html)
-- [Malavolta 01 - Bias Analysis and Detector Calibration](../../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2001%20-%20Bias%20Analysis%20and%20Detector%20Calibration.html)
+- [[Bias Frame and Electronic Offset]]
+- [[Janesick Photon Transfer Method for Gain and Readout Noise]]
+- [[Malavolta 01 - Bias Analysis and Detector Calibration]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Observations/Bias%20Frame%20and%20Electronic%20Offset.html" class="backlink-item">Bias Frame and Electronic Offset</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Bias Frame and Electronic Offset]]
+- [[Astrophysics_Laboratory_2_MOC]]
+
 

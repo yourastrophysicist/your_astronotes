@@ -5,7 +5,7 @@ title: "Lesson 01 - Linux Environment and Scientific Python Setup"
 # Lesson 01 — Linux Environment and Scientific Python Setup
 
 *Astrophysics Laboratory 2, Prof. Luca Malavolta*  
-*Index: [Astrophysics_Laboratory_2_MOC](../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html)*
+*Index: [[Astrophysics_Laboratory_2_MOC]]*
 
 ---
 
@@ -79,14 +79,14 @@ Pipeline code in this course follows strict modular guidelines:
 ---
 
 ## Related Notes
-- [Lesson 00 - Course Overview and Research Methodology](./Lesson%2000%20-%20Course%20Overview%20and%20Research%20Methodology.html)
-- [Python Class Architecture for Astronomical Pipelines](../../../03_Zettel/Computational/Python%20Class%20Architecture%20for%20Astronomical%20Pipelines.html)
-- [Science Frame Calibration and Variance Propagation](../../../03_Zettel/Computational/Science%20Frame%20Calibration%20and%20Variance%20Propagation.html)
+- [[Lesson 00 - Course Overview and Research Methodology]]
+- [[Python Class Architecture for Astronomical Pipelines]]
+- [[Science Frame Calibration and Variance Propagation]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (1)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Astrophysics_Laboratory_2_MOC]]
+
 

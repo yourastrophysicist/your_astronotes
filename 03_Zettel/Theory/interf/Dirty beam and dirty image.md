@@ -123,40 +123,30 @@ source: first figure is a local synthetic demo; NRAO figures are from S. T. Myer
 
 ## see also
 
-- [The (u, v) plane](The%20%28u%2C%20v%29%20plane.html)
-- [Aperture synthesis principle](Aperture%20synthesis%20principle.html)
-- [CLEAN algorithm](CLEAN%20algorithm.html)
-- [Maximum entropy method](../Maximum%20entropy%20method.html)
-- [Imaging artifacts](Imaging%20artifacts.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[The (u, v) plane]]
+- [[Aperture synthesis principle]]
+- [[CLEAN algorithm]]
+- [[Maximum entropy method]]
+- [[Imaging artifacts]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (24)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Aperture%20synthesis%20principle.html" class="backlink-item">Aperture synthesis principle</a></li>
-    <li class="backlink-item-wrap"><a href="../Beam%20power%20pattern%20of%20a%20radio%20telescope.html" class="backlink-item">Beam power pattern of a radio telescope</a></li>
-    <li class="backlink-item-wrap"><a href="../CLEAN%20algorithm.html" class="backlink-item">CLEAN algorithm</a></li>
-    <li class="backlink-item-wrap"><a href="../Crowding%20limitation.html" class="backlink-item">Crowding limitation</a></li>
-    <li class="backlink-item-wrap"><a href="../Deconvolution%20algorithms%20compared.html" class="backlink-item">Deconvolution algorithms compared</a></li>
-    <li class="backlink-item-wrap"><a href="../Earth-rotation%20aperture%20synthesis.html" class="backlink-item">Earth-rotation aperture synthesis</a></li>
-    <li class="backlink-item-wrap"><a href="../Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="../Imaging%20artifacts.html" class="backlink-item">Imaging artifacts</a></li>
-    <li class="backlink-item-wrap"><a href="../Maximum%20entropy%20method.html" class="backlink-item">Maximum entropy method</a></li>
-    <li class="backlink-item-wrap"><a href="../Optimal%20array%20geometry.html" class="backlink-item">Optimal array geometry</a></li>
-    <li class="backlink-item-wrap"><a href="../Point%20spread%20function.html" class="backlink-item">Point spread function</a></li>
-    <li class="backlink-item-wrap"><a href="../The%20%28u%2C%20v%29%20plane.html" class="backlink-item">The (u, v) plane</a></li>
-    <li class="backlink-item-wrap"><a href="../Van%20Cittert-Zernike%20theorem.html" class="backlink-item">Van Cittert-Zernike theorem</a></li>
-    <li class="backlink-item-wrap"><a href="Aperture%20synthesis%20principle.html" class="backlink-item">Aperture synthesis principle</a></li>
-    <li class="backlink-item-wrap"><a href="Beam%20power%20pattern%20of%20a%20radio%20telescope.html" class="backlink-item">Beam power pattern of a radio telescope</a></li>
-    <li class="backlink-item-wrap"><a href="CLEAN%20algorithm.html" class="backlink-item">CLEAN algorithm</a></li>
-    <li class="backlink-item-wrap"><a href="Crowding%20limitation.html" class="backlink-item">Crowding limitation</a></li>
-    <li class="backlink-item-wrap"><a href="Deconvolution%20algorithms%20compared.html" class="backlink-item">Deconvolution algorithms compared</a></li>
-    <li class="backlink-item-wrap"><a href="Earth-rotation%20aperture%20synthesis.html" class="backlink-item">Earth-rotation aperture synthesis</a></li>
-    <li class="backlink-item-wrap"><a href="Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="Imaging%20artifacts.html" class="backlink-item">Imaging artifacts</a></li>
-    <li class="backlink-item-wrap"><a href="The%20%28u%2C%20v%29%20plane.html" class="backlink-item">The (u, v) plane</a></li>
-    <li class="backlink-item-wrap"><a href="Van%20Cittert-Zernike%20theorem.html" class="backlink-item">Van Cittert-Zernike theorem</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Aperture synthesis principle]]
+- [[Beam power pattern of a radio telescope]]
+- [[CLEAN algorithm]]
+- [[Crowding limitation]]
+- [[Deconvolution algorithms compared]]
+- [[Earth-rotation aperture synthesis]]
+- [[Figure bank - interferometry]]
+- [[Imaging artifacts]]
+- [[Maximum entropy method]]
+- [[Optimal array geometry]]
+- [[Point spread function]]
+- [[The (u, v) plane]]
+- [[Van Cittert-Zernike theorem]]
+- [[Astronomical_Interferometry_MOC]]
+
 

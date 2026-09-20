@@ -7,7 +7,7 @@ photometric standard stars are sources with **precisely calibrated magnitudes** 
 ## the role of standards
 
 every science image needs two corrections:
-1. **atmospheric extinction**: $k(\lambda) X$ subtracted (see [Atmospheric extinction](interf/Atmospheric%20extinction.html)).
+1. **atmospheric extinction**: $k(\lambda) X$ subtracted (see [[Atmospheric extinction]]).
 2. **instrumental zeropoint**: the offset $Z$ in $m = -2.5\log_{10}(F_{\rm src}) + Z$.
 
 both come from observations of standard stars during the night.
@@ -68,26 +68,24 @@ on non-photometric nights (varying clouds), use **differential** photometry: sci
 
 ## see also
 
-- [Atmospheric extinction](interf/Atmospheric%20extinction.html)
-- [Magnitudes and photometric systems](Magnitudes%20and%20photometric%20systems.html)
-- [Filter systems and bandpasses](Filter%20systems%20and%20bandpasses.html)
-- [Color indices](Color%20indices.html)
-- [Aperture photometry](Aperture%20photometry.html)
-- [CCD calibration steps](CCD%20calibration%20steps.html)
-- [Survey resources for Obs Astro](Survey%20resources%20for%20Obs%20Astro.html)
+- [[Atmospheric extinction]]
+- [[Magnitudes and photometric systems]]
+- [[Filter systems and bandpasses]]
+- [[Color indices]]
+- [[Aperture photometry]]
+- [[CCD calibration steps]]
+- [[Survey resources for Obs Astro]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (9)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Atmospheric%20extinction.html" class="backlink-item">Atmospheric extinction</a></li>
-    <li class="backlink-item-wrap"><a href="Filter%20systems%20and%20bandpasses.html" class="backlink-item">Filter systems and bandpasses</a></li>
-    <li class="backlink-item-wrap"><a href="Flux%20calibration.html" class="backlink-item">Flux calibration</a></li>
-    <li class="backlink-item-wrap"><a href="PSF%20photometry.html" class="backlink-item">PSF photometry</a></li>
-    <li class="backlink-item-wrap"><a href="Photometric%20system%20conversion%20and%20color%20terms.html" class="backlink-item">Photometric system conversion and color terms</a></li>
-    <li class="backlink-item-wrap"><a href="Python%20and%20IRAF%20tools%20for%20photometry.html" class="backlink-item">Python and IRAF tools for photometry</a></li>
-    <li class="backlink-item-wrap"><a href="Survey%20resources%20for%20Obs%20Astro.html" class="backlink-item">Survey resources for Obs Astro</a></li>
-    <li class="backlink-item-wrap"><a href="interf/Atmospheric%20extinction.html" class="backlink-item">Atmospheric extinction</a></li>
-    <li class="backlink-item-wrap"><a href="interf/Flux%20calibration.html" class="backlink-item">Flux calibration</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Atmospheric extinction]]
+- [[Filter systems and bandpasses]]
+- [[Flux calibration]]
+- [[PSF photometry]]
+- [[Photometric system conversion and color terms]]
+- [[Python and IRAF tools for photometry]]
+- [[Survey resources for Obs Astro]]
+
 

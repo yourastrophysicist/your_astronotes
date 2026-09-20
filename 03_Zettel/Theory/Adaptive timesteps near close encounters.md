@@ -82,19 +82,19 @@ a real Pythagorean 3-body integrator (Burrau 1913, Szebehely & Peters 1967) uses
 
 ## see also
 
-- [Adaptive step size control](Adaptive%20step%20size%20control.html)
-- [Astrophysical N-body problem formulation](Astrophysical%20N-body%20problem%20formulation.html)
-- [Fourth-order Hermite predictor-corrector](Fourth-order%20Hermite%20predictor-corrector.html)
-- [Collisional vs collisionless N-body](Collisional%20vs%20collisionless%20N-body.html)
-- [The Pythagorean three-body problem](The%20Pythagorean%20three-body%20problem.html)
-- [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
+- [[Adaptive step size control]]
+- [[Astrophysical N-body problem formulation]]
+- [[Fourth-order Hermite predictor-corrector]]
+- [[Collisional vs collisionless N-body]]
+- [[The Pythagorean three-body problem]]
+- [[Mathematical_Numerical_Methods_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Collisional%20vs%20collisionless%20N-body.html" class="backlink-item">Collisional vs collisionless N-body</a></li>
-    <li class="backlink-item-wrap"><a href="The%20Pythagorean%20three-body%20problem.html" class="backlink-item">The Pythagorean three-body problem</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Collisional vs collisionless N-body]]
+- [[The Pythagorean three-body problem]]
+- [[Mathematical_Numerical_Methods_MOC]]
+
 

@@ -45,18 +45,18 @@ High-dimensional Bayesian posteriors can thus be mapped without evaluating the i
 - If proposal variance is too large, proposed points land in low-probability tails, $\alpha \to 0$, and the chain freezes in place.
 
 ## See Also
-- [Astro-Statistics_and_Cosmology_MOC](../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html)
-- [05_Monte_Carlo_Metropolis_Hastings_and_MCMC_Convergence_Diagnostics](../../02_Literature/Lectures/Astrostatistics/05_Monte_Carlo_Metropolis_Hastings_and_MCMC_Convergence_Diagnostics.html)
-- [Gibbs sampling and conditional state transitions](Gibbs%20sampling%20and%20conditional%20state%20transitions.html)
-- [MCMC convergence diagnostics and Gelman-Rubin statistic](MCMC%20convergence%20diagnostics%20and%20Gelman-Rubin%20statistic.html)
+- [[Astro-Statistics_and_Cosmology_MOC]]
+- [[05_Monte_Carlo_Metropolis_Hastings_and_MCMC_Convergence_Diagnostics]]
+- [[Gibbs sampling and conditional state transitions]]
+- [[MCMC convergence diagnostics and Gelman-Rubin statistic]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Computational/Monte%20Carlo%20integration%20and%20cursed%20dimensions.html" class="backlink-item">Monte Carlo integration and cursed dimensions</a></li>
-    <li class="backlink-item-wrap"><a href="Gibbs%20sampling%20and%20conditional%20state%20transitions.html" class="backlink-item">Gibbs sampling and conditional state transitions</a></li>
-    <li class="backlink-item-wrap"><a href="MCMC%20convergence%20diagnostics%20and%20Gelman-Rubin%20statistic.html" class="backlink-item">MCMC convergence diagnostics and Gelman-Rubin statistic</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Monte Carlo integration and cursed dimensions]]
+- [[Gibbs sampling and conditional state transitions]]
+- [[MCMC convergence diagnostics and Gelman-Rubin statistic]]
+- [[Astro-Statistics_and_Cosmology_MOC]]
+
 

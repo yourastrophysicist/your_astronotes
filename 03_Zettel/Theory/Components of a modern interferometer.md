@@ -130,9 +130,9 @@ a modern interferometer is *systems engineering on a heroic scale*. understandin
 
 ## see also
 
-- [Delay lines and path-length equalization](interf/Delay%20lines%20and%20path-length%20equalization.html)
-- [Beam combiners](Beam%20combiners.html)
-- [Fringe tracking](interf/Fringe%20tracking.html)
-- [VLTI Very Large Telescope Interferometer](interf/VLTI%20Very%20Large%20Telescope%20Interferometer.html)
-- [CHARA array](interf/CHARA%20array.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Delay lines and path-length equalization]]
+- [[Beam combiners]]
+- [[Fringe tracking]]
+- [[VLTI Very Large Telescope Interferometer]]
+- [[CHARA array]]
+- [[Astronomical_Interferometry_MOC]]

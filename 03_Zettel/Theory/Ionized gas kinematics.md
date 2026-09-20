@@ -204,23 +204,23 @@ ho_{\mathrm{gas}}}{d\ln R} + \frac{d\ln \sigma_{\mathrm{gas}}^2}{d\ln R} \right]
 
 ## 9. Related Knowledge Base Notes
 
-- [Rotation curves](Rotation%20curves.html) - Empirical rotation curves and dark matter halo mass decomposition.
-- [Stellar kinematics measurements.md](Stellar%20kinematics%20measurements.html) - Comparison between collisionless stellar kinematics and dissipative gas kinematics.
-- [Dark matter rotation curves](Dark%20matter%20rotation%20curves.html) - Flat rotation curves and Navarro-Frenk-White vs Burkert halo profiles.
-- [Tully-Fisher relation](Tully-Fisher%20relation.html) - The global scaling relation between disk circular velocity and absolute luminosity.
-- [Ionized gas SMBH masses](Ionized%20gas%20SMBH%20masses.html) - Measuring central black hole masses from keplerian thin gas disks.
+- [[Rotation curves]] - Empirical rotation curves and dark matter halo mass decomposition.
+- [[Stellar kinematics measurements|Stellar kinematics measurements.md]] - Comparison between collisionless stellar kinematics and dissipative gas kinematics.
+- [[Dark matter rotation curves]] - Flat rotation curves and Navarro-Frenk-White vs Burkert halo profiles.
+- [[Tully-Fisher relation]] - The global scaling relation between disk circular velocity and absolute luminosity.
+- [[Ionized gas SMBH masses]] - Measuring central black hole masses from keplerian thin gas disks.
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (8)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Datacube%20redshift%20measurement.html" class="backlink-item">Datacube redshift measurement</a></li>
-    <li class="backlink-item-wrap"><a href="Datacube%20reduction.html" class="backlink-item">Datacube reduction</a></li>
-    <li class="backlink-item-wrap"><a href="H%20II%20region%20spectroscopy.html" class="backlink-item">H II region spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="MUSE%20datacubes.html" class="backlink-item">MUSE datacubes</a></li>
-    <li class="backlink-item-wrap"><a href="Mass-radius%20and%20mass-velocity%20relations.html" class="backlink-item">Mass-radius and mass-velocity relations</a></li>
-    <li class="backlink-item-wrap"><a href="Rotation%20curves.html" class="backlink-item">Rotation curves</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20kinematics%20measurements.html" class="backlink-item">Stellar kinematics measurements</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Datacube redshift measurement]]
+- [[Datacube reduction]]
+- [[H II region spectroscopy]]
+- [[MUSE datacubes]]
+- [[Mass-radius and mass-velocity relations]]
+- [[Rotation curves]]
+- [[Stellar kinematics measurements]]
+- [[Astrophysics_of_Galaxies_MOC]]
+
 

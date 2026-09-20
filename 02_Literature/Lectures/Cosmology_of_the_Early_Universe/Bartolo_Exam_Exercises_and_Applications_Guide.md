@@ -7,7 +7,7 @@ title: "Bartolo_Exam_Exercises_and_Applications_Guide"
 *Complete solutions and derivations for the 31 exercises prepared by Prof. Nicola Bartolo*  
 *Course: Cosmology of the Early Universe - Università degli Studi di Padova*  
 *Source: `Homework_2025_2026.pdf` (Updated 22/12/2025)*  
-*Index: [Cosmology_of_the_Early_Universe_MOC](../../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html)*  
+*Index: [[Cosmology_of_the_Early_Universe_MOC]]*  
 
 ---
 
@@ -628,10 +628,10 @@ Verify that $\zeta$ is gauge-invariant, and derive the Poisson-like equation for
    $$\nabla^2\Phi = 4\pi G a^2 \left[ \delta\rho + \rho_0' v_\parallel \right] = 4\pi G a^2 \epsilon_m$$
    This is the exact relativistic, gauge-invariant Poisson equation.
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (1)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html" class="backlink-item">Cosmology_of_the_Early_Universe_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Cosmology_of_the_Early_Universe_MOC]]
+
 

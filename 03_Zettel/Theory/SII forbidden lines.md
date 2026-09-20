@@ -6,7 +6,7 @@ $[SII]$ forbidden lines are the **workhorse density diagnostic** in photoionised
 
 ## the doublet
 
-singly ionised sulphur S$^+$ has $3p^3$ valence configuration. terms (see [Equivalent vs nonequivalent electrons](Equivalent%20vs%20nonequivalent%20electrons.html)):
+singly ionised sulphur S$^+$ has $3p^3$ valence configuration. terms (see [[Equivalent vs nonequivalent electrons]]):
 - ground $^4S_{3/2}$.
 - $^2D_{5/2}$ and $^2D_{3/2}$, fine-structure split.
 - $^2P_{1/2, 3/2}$.
@@ -70,30 +70,30 @@ so $[SII]$ is the most-used because the wavelengths are accessible and the lines
 
 ## see also
 
-- [Forbidden lines](Forbidden%20lines.html)
-- [Critical density](Critical%20density.html)
-- [Two-level atom](Two-level%20atom.html)
-- [OIII forbidden lines](OIII%20forbidden%20lines.html)
-- [Forbidden line diagnostics](Forbidden%20line%20diagnostics.html)
-- [Spectroscopic ne diagnostics](Spectroscopic%20ne%20diagnostics.html)
-- [Equivalent vs nonequivalent electrons](Equivalent%20vs%20nonequivalent%20electrons.html)
-- [Selection rules](Selection%20rules.html)
-- [BPT diagram](BPT%20diagram.html)
+- [[Forbidden lines]]
+- [[Critical density]]
+- [[Two-level atom]]
+- [[OIII forbidden lines]]
+- [[Forbidden line diagnostics]]
+- [[Spectroscopic ne diagnostics]]
+- [[Equivalent vs nonequivalent electrons]]
+- [[Selection rules]]
+- [[BPT diagram]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (11)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Collisional%20excitation%20rate.html" class="backlink-item">Collisional excitation rate</a></li>
-    <li class="backlink-item-wrap"><a href="Critical%20density.html" class="backlink-item">Critical density</a></li>
-    <li class="backlink-item-wrap"><a href="Forbidden%20line%20diagnostics.html" class="backlink-item">Forbidden line diagnostics</a></li>
-    <li class="backlink-item-wrap"><a href="Forbidden%20lines.html" class="backlink-item">Forbidden lines</a></li>
-    <li class="backlink-item-wrap"><a href="Forbidden%20vs%20permitted%20vs%20semiforbidden%20transitions.html" class="backlink-item">Forbidden vs permitted vs semiforbidden transitions</a></li>
-    <li class="backlink-item-wrap"><a href="Selection%20rules.html" class="backlink-item">Selection rules</a></li>
-    <li class="backlink-item-wrap"><a href="Spectroscopic%20Te%20diagnostics.html" class="backlink-item">Spectroscopic Te diagnostics</a></li>
-    <li class="backlink-item-wrap"><a href="Spectroscopic%20ne%20diagnostics.html" class="backlink-item">Spectroscopic ne diagnostics</a></li>
-    <li class="backlink-item-wrap"><a href="Supernova%20remnant%20spectroscopy.html" class="backlink-item">Supernova remnant spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="Two-level%20atom.html" class="backlink-item">Two-level atom</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Collisional excitation rate]]
+- [[Critical density]]
+- [[Forbidden line diagnostics]]
+- [[Forbidden lines]]
+- [[Forbidden vs permitted vs semiforbidden transitions]]
+- [[Selection rules]]
+- [[Spectroscopic Te diagnostics]]
+- [[Spectroscopic ne diagnostics]]
+- [[Supernova remnant spectroscopy]]
+- [[Two-level atom]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 

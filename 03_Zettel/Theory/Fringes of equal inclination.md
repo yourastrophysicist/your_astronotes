@@ -47,7 +47,7 @@ a typical setup: a diffuse source (e.g. a frosted bulb), illuminating a tilted g
 
 ### 2. parallel-faced plate
 
-if the two surfaces are not parallel, the OPD varies across the plate, producing different fringes — that's [Fringes of equal thickness](interf/Fringes%20of%20equal%20thickness.html) instead.
+if the two surfaces are not parallel, the OPD varies across the plate, producing different fringes — that's [[Fringes of equal thickness]] instead.
 
 ### 3. moderate coherence
 
@@ -57,8 +57,8 @@ the source needs enough temporal coherence ($\ell_c > \Lambda$) to see fringes. 
 
 these are *temporal-coherence-limited* fringes from a partial-reflection / partial-transmission system. close cousin:
 
-- [Fringes of equal thickness](interf/Fringes%20of%20equal%20thickness.html): same physics, but with a *non-parallel* plate (wedge). fringes follow contours of equal thickness rather than equal inclination.
-- [Newton's rings](interf/Newton%27s%20rings.html): a special case of equal-thickness, with circular contours from a curved surface.
+- [[Fringes of equal thickness]]: same physics, but with a *non-parallel* plate (wedge). fringes follow contours of equal thickness rather than equal inclination.
+- [[Newton's rings]]: a special case of equal-thickness, with circular contours from a curved surface.
 
 both equal-inclination and equal-thickness fringes are products of *thin-film interference*, the same physics that produces the rainbow colors of soap bubbles and oil films.
 
@@ -84,8 +84,8 @@ this is *the* standard method for testing telescope mirrors and other optical el
 
 ## see also
 
-- [Optical path difference OPD](interf/Optical%20path%20difference%20OPD.html)
-- [Fringes of equal thickness](interf/Fringes%20of%20equal%20thickness.html)
-- [Newton's rings](interf/Newton%27s%20rings.html)
-- [Amplitude-division interferometers](Amplitude-division%20interferometers.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Optical path difference OPD]]
+- [[Fringes of equal thickness]]
+- [[Newton's rings]]
+- [[Amplitude-division interferometers]]
+- [[Astronomical_Interferometry_MOC]]

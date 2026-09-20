@@ -33,21 +33,21 @@ Note: in the original syllabus topic 7 ("Primordial Universe, Big Bang, phase tr
 
 This is the mathematical spine that everything later hangs off of. Before any real object enters the course, we set the stage: a metric, a scale factor, a redshift, a handful of density parameters.
 
-- [Cosmological principle](../03_Zettel/Theory/Cosmological%20principle.html) — homogeneous + isotropic at a given cosmic time; "fundamental observer"
-- [Hubble law](../03_Zettel/Theory/Hubble%20law.html) — $\vec{v} = H_0 \vec{d}$, recession proportional to distance, scale factor $R(t)$
-- [Robertson-Walker metric](../03_Zettel/Theory/Robertson-Walker%20metric.html) — $ds^2 = dt^2 - \frac{a^2(t)}{c^2}\left[\frac{dr^2}{1-kr^2} + r^2(d\vartheta^2 + \sin^2\vartheta\, d\varphi^2)\right]$, $a(t) \equiv R(t)/R_0$
-- [Curvature parameter k](../03_Zettel/Theory/Curvature%20parameter%20k.html) — $k=0$ flat, $k=+1$ closed spherical, $k=-1$ open hyperbolic
-- [Comoving vs proper coordinates](../03_Zettel/Theory/Comoving%20vs%20proper%20coordinates.html) — $d = a(t) \cdot r$, $H_0 = \dot{a}/a|_{t_0} \simeq 70$ km/s/Mpc
-- [Cosmological redshift](../03_Zettel/Theory/Cosmological%20redshift.html) — $(1+z) = a(t_e)^{-1} = \nu_e/\nu_0$; redshift is the ratio of scale factors between emission and reception
-- [Newtonian derivation of Friedmann](../03_Zettel/Theory/Newtonian%20derivation%20of%20Friedmann.html) — shell argument, $\ddot{a} = -\frac{4\pi}{3}G\rho_0 a^{-2}$, energy-conservation integral gives $\dot{a}^2 = \frac{8\pi G\rho_0}{3}a^{-1} - kc^2$
-- [Friedmann solutions](../03_Zettel/Theory/Friedmann%20solutions.html) — Milne vacuum ($R\propto t$), Einstein–de Sitter ($a\propto t^{2/3}$), open, closed
-- [GR Friedmann with Λ](../03_Zettel/Theory/GR%20Friedmann%20with%20Lambda.html) — Einstein field eqs. $R_{ik} - \tfrac{1}{2}g_{ik}R - g_{ik}\Lambda = \frac{8\pi G}{c^4}T_{ik}$; $T_{ik}$ perfect fluid; $\Lambda$ as vacuum energy $\rho_V$
-- [Density parameters](../03_Zettel/Theory/Density%20parameters.html) — $\Omega_m, \Omega_\Lambda, \Omega_\gamma, \Omega_k$; critical density $\rho_c = 3H_0^2/8\pi G$
-- [Matter vs radiation density scaling](../03_Zettel/Theory/Matter%20vs%20radiation%20density%20scaling.html) — $\rho_m \propto a^{-3}$, $\rho_\gamma \propto a^{-4}$, equivalence at $z \sim 3330$, $t \sim 53{,}000$ yr
-- [Curvature-dynamics relation](../03_Zettel/Theory/Curvature-dynamics%20relation.html) — $c^2 k = H_0^2[\Omega_m + \Omega_\Lambda - 1]$, flat iff $\sum\Omega = 1$
-- [Deceleration parameter](../03_Zettel/Theory/Deceleration%20parameter.html) — $q_0 \equiv -\ddot{a}a/\dot{a}^2|_{t_0} = \Omega_m/2 - \Omega_\Lambda$
-- [Time-redshift relation](../03_Zettel/Theory/Time-redshift%20relation.html) — $dt = -\frac{dz}{H_0(1+z)}[(1+z)^2(\Omega_m z + 1) - z\Omega_\Lambda(2+z)]^{-1/2}$
-- [Cosmic look-back time](../03_Zettel/Theory/Cosmic%20look-back%20time.html) — integral out to $z$; extrapolation to $z\to\infty$ gives $t_0 \approx 13.7$ Gyr
+- [[Cosmological principle]] — homogeneous + isotropic at a given cosmic time; "fundamental observer"
+- [[Hubble law]] — $\vec{v} = H_0 \vec{d}$, recession proportional to distance, scale factor $R(t)$
+- [[Robertson-Walker metric]] — $ds^2 = dt^2 - \frac{a^2(t)}{c^2}\left[\frac{dr^2}{1-kr^2} + r^2(d\vartheta^2 + \sin^2\vartheta\, d\varphi^2)\right]$, $a(t) \equiv R(t)/R_0$
+- [[Curvature parameter k]] — $k=0$ flat, $k=+1$ closed spherical, $k=-1$ open hyperbolic
+- [[Comoving vs proper coordinates]] — $d = a(t) \cdot r$, $H_0 = \dot{a}/a|_{t_0} \simeq 70$ km/s/Mpc
+- [[Cosmological redshift]] — $(1+z) = a(t_e)^{-1} = \nu_e/\nu_0$; redshift is the ratio of scale factors between emission and reception
+- [[Newtonian derivation of Friedmann]] — shell argument, $\ddot{a} = -\frac{4\pi}{3}G\rho_0 a^{-2}$, energy-conservation integral gives $\dot{a}^2 = \frac{8\pi G\rho_0}{3}a^{-1} - kc^2$
+- [[Friedmann solutions]] — Milne vacuum ($R\propto t$), Einstein–de Sitter ($a\propto t^{2/3}$), open, closed
+- [[GR Friedmann with Lambda|GR Friedmann with Λ]] — Einstein field eqs. $R_{ik} - \tfrac{1}{2}g_{ik}R - g_{ik}\Lambda = \frac{8\pi G}{c^4}T_{ik}$; $T_{ik}$ perfect fluid; $\Lambda$ as vacuum energy $\rho_V$
+- [[Density parameters]] — $\Omega_m, \Omega_\Lambda, \Omega_\gamma, \Omega_k$; critical density $\rho_c = 3H_0^2/8\pi G$
+- [[Matter vs radiation density scaling]] — $\rho_m \propto a^{-3}$, $\rho_\gamma \propto a^{-4}$, equivalence at $z \sim 3330$, $t \sim 53{,}000$ yr
+- [[Curvature-dynamics relation]] — $c^2 k = H_0^2[\Omega_m + \Omega_\Lambda - 1]$, flat iff $\sum\Omega = 1$
+- [[Deceleration parameter]] — $q_0 \equiv -\ddot{a}a/\dot{a}^2|_{t_0} = \Omega_m/2 - \Omega_\Lambda$
+- [[Time-redshift relation]] — $dt = -\frac{dz}{H_0(1+z)}[(1+z)^2(\Omega_m z + 1) - z\Omega_\Lambda(2+z)]^{-1/2}$
+- [[Cosmic look-back time]] — integral out to $z$; extrapolation to $z\to\infty$ gives $t_0 \approx 13.7$ Gyr
 
 ---
 
@@ -55,13 +55,13 @@ This is the mathematical spine that everything later hangs off of. Before any re
 
 Four distances, all equal at low $z$, all different at high $z$. This is where observational cosmology stops being linear algebra and becomes the art of comparing apples to apples across billions of years.
 
-- [Radial comoving distance](../03_Zettel/Theory/Radial%20comoving%20distance.html) — $d_M = r(z) = \frac{c}{H_0}\int_0^z [\Omega_m(1+z')^3 + \Omega_\Lambda]^{-1/2}\, dz'$ (flat)
-- [Angular diameter distance](../03_Zettel/Theory/Angular%20diameter%20distance.html) — $d_A = D/d\vartheta = d_M/(1+z)$; non-monotonic, turns over around $z \sim 1.5$
-- [Luminosity distance](../03_Zettel/Theory/Luminosity%20distance.html) — $d_L = r(1+z) = d_M(1+z) = d_A(1+z)^2$; two $(1+z)$ factors from photon-energy loss and photon-arrival-rate dilation
-- [Surface brightness dimming](../03_Zettel/Theory/Surface%20brightness%20dimming.html) — $\sigma \propto d_A^2/d_L^2 \propto (1+z)^{-4}$, the brutal penalty on high-$z$ imaging
-- [K-correction](../03_Zettel/Theory/K-correction.html) — the translation between what the source emits at $\nu_e = \nu_0(1+z)$ and what our filter sees at $\nu_0$; magnitudes become $m = M + 5\log d_{L,\text{Mpc}} + 25 + K(z)$
-- [K-correction in optical vs sub-mm](../03_Zettel/Theory/K-correction%20in%20optical%20vs%20sub-mm.html) — in the optical $K(z) > 0$, galaxies look fainter; in sub-mm $K(z) < 0$ because we climb the dust bump, so 850 μm sources stay roughly constant flux from $z\sim1$ to $z\sim10$ (the sub-mm is a window onto the high-$z$ universe)
-- [Supernova Hubble diagram](../03_Zettel/Theory/Supernova%20Hubble%20diagram.html) — Perlmutter, Riess, Schmidt; SN Ia Type Ia standard candles at $z \sim 0.5$–$1$ are fainter than an empty or matter-only universe predicts → need $\Lambda$; best fit $\Omega_M \approx 0.27$, $\Omega_\Lambda \approx 0.73$
+- [[Radial comoving distance]] — $d_M = r(z) = \frac{c}{H_0}\int_0^z [\Omega_m(1+z')^3 + \Omega_\Lambda]^{-1/2}\, dz'$ (flat)
+- [[Angular diameter distance]] — $d_A = D/d\vartheta = d_M/(1+z)$; non-monotonic, turns over around $z \sim 1.5$
+- [[Luminosity distance]] — $d_L = r(1+z) = d_M(1+z) = d_A(1+z)^2$; two $(1+z)$ factors from photon-energy loss and photon-arrival-rate dilation
+- [[Surface brightness dimming]] — $\sigma \propto d_A^2/d_L^2 \propto (1+z)^{-4}$, the brutal penalty on high-$z$ imaging
+- [[K-correction]] — the translation between what the source emits at $\nu_e = \nu_0(1+z)$ and what our filter sees at $\nu_0$; magnitudes become $m = M + 5\log d_{L,\text{Mpc}} + 25 + K(z)$
+- [[K-correction in optical vs sub-mm]] — in the optical $K(z) > 0$, galaxies look fainter; in sub-mm $K(z) < 0$ because we climb the dust bump, so 850 μm sources stay roughly constant flux from $z\sim1$ to $z\sim10$ (the sub-mm is a window onto the high-$z$ universe)
+- [[Supernova Hubble diagram]] — Perlmutter, Riess, Schmidt; SN Ia Type Ia standard candles at $z \sim 0.5$–$1$ are fainter than an empty or matter-only universe predicts → need $\Lambda$; best fit $\Omega_M \approx 0.27$, $\Omega_\Lambda \approx 0.73$
 
 ---
 
@@ -75,9 +75,9 @@ Three regimes in $a(t)$:
 - **Matter-dominated** from recombination until $z \sim 0.7$: $a(t) \propto t^{2/3}$
 - **Λ-dominated** from $z \sim 0.7$ onward: $a(t) \propto \exp(\sqrt{\Lambda/3}\, t)$
 
-- [ΛCDM current parameters](../03_Zettel/Theory/%CE%9BCDM%20current%20parameters.html)
-- [Transition epochs](../03_Zettel/Theory/Transition%20epochs.html) — matter–radiation equivalence, recombination, onset of Λ
-- [Various models of the universe](../03_Zettel/Theory/Various%20models%20of%20the%20universe.html) — EdS vs open vs standard — they coincide at small $t$, diverge massively at large $t$
+- [[ΛCDM current parameters]]
+- [[Transition epochs]] — matter–radiation equivalence, recombination, onset of Λ
+- [[Various models of the universe]] — EdS vs open vs standard — they coincide at small $t$, diverge massively at large $t$
 
 ---
 
@@ -85,63 +85,63 @@ Three regimes in $a(t)$:
 
 Once the FLRW backdrop is built, we perturb it.
 
-- [Gravitational lensing - intro](../03_Zettel/Theory/Gravitational%20lensing%20-%20intro.html) *(Dr. A. Enia, 7–8 April)*
-- [Strong vs weak lensing](../03_Zettel/Theory/Strong%20vs%20weak%20lensing.html)
-- [Lensing as a cosmological probe](../03_Zettel/Theory/Lensing%20as%20a%20cosmological%20probe.html) — mass mapping, Einstein radius, time delays
+- [[Gravitational lensing - intro]] *(Dr. A. Enia, 7–8 April)*
+- [[Strong vs weak lensing]]
+- [[Lensing as a cosmological probe]] — mass mapping, Einstein radius, time delays
 
 ---
 
 ## Block 4 — Perturbations and peculiar motions *(Cassata, later)*
 
-- [Cosmological evolution of perturbations in the cosmic fluid](../03_Zettel/Theory/Cosmological%20evolution%20of%20perturbations%20in%20the%20cosmic%20fluid.html)
-- [Perturbations in an expanding universe](../03_Zettel/Theory/Perturbations%20in%20an%20expanding%20universe.html)
-- [Peculiar velocities of galaxies and structures](../03_Zettel/Theory/Peculiar%20velocities%20of%20galaxies%20and%20structures.html)
-- [Jeans analysis in expanding universe](../03_Zettel/Theory/Jeans%20analysis%20in%20expanding%20universe.html)
-- [Growth factor D(z)](../03_Zettel/Theory/Growth%20factor%20D%28z%29.html)
+- [[Cosmological evolution of perturbations in the cosmic fluid]]
+- [[Perturbations in an expanding universe]]
+- [[Peculiar velocities of galaxies and structures]]
+- [[Jeans analysis in expanding universe]]
+- [[Growth factor D(z)]]
 
 ---
 
 ## Block 5 — Thermal history of the universe *(Cassata)*
 
-- [Brief thermal history](../03_Zettel/Theory/Brief%20thermal%20history.html) — from Planck era to recombination
-- [Recombination](../03_Zettel/Theory/Recombination.html) — $z \sim 1100$, drop in free-electron fraction
-- [Decoupling](../03_Zettel/Theory/Decoupling.html) — photon mean free path → $\infty$, last scattering surface
+- [[Brief thermal history]] — from Planck era to recombination
+- [[Recombination]] — $z \sim 1100$, drop in free-electron fraction
+- [[Decoupling]] — photon mean free path → $\infty$, last scattering surface
 
 ---
 
 ## Block 6 — The Cosmic Microwave Background *(Cassata)*
 
-- [CMB - discovery and blackbody spectrum](../03_Zettel/Theory/CMB%20-%20discovery%20and%20blackbody%20spectrum.html) — Penzias & Wilson 1965, $T_0 = 2.725$ K
-- [CMB anisotropies](../03_Zettel/Theory/CMB%20anisotropies.html) — dipole, acoustic peaks, $\Delta T/T \sim 10^{-5}$
-- [CMB power spectrum](../03_Zettel/Theory/CMB%20power%20spectrum.html) — COBE, WMAP, Planck; peaks constrain $\Omega_b h^2$, $\Omega_m h^2$, curvature
-- [Polarization E and B modes](../03_Zettel/Theory/Polarization%20E%20and%20B%20modes.html)
+- [[CMB - discovery and blackbody spectrum]] — Penzias & Wilson 1965, $T_0 = 2.725$ K
+- [[CMB anisotropies]] — dipole, acoustic peaks, $\Delta T/T \sim 10^{-5}$
+- [[CMB power spectrum]] — COBE, WMAP, Planck; peaks constrain $\Omega_b h^2$, $\Omega_m h^2$, curvature
+- [[Polarization E and B modes]]
 
 ---
 
 ## Block 7 — Primordial universe  *(Cassata — replaced in this AY by detection techniques for protoclusters)*
 
-- [Big Bang nucleosynthesis](../03_Zettel/Theory/Big%20Bang%20nucleosynthesis.html)
-- [Phase transitions](../03_Zettel/Theory/interf/Phase%20transitions.html)
-- [Cosmological inflation](../03_Zettel/Theory/Cosmological%20inflation.html) — Guth, Linde; solves flatness, horizon, monopole problems
-- [Protocluster detection techniques](../03_Zettel/Theory/Protocluster%20detection%20techniques.html) — overdensities of Lyα emitters, narrow-band imaging, IR-selected structures, spectroscopic confirmation, the JWST era
+- [[Big Bang nucleosynthesis]]
+- [[Phase transitions]]
+- [[Cosmological inflation]] — Guth, Linde; solves flatness, horizon, monopole problems
+- [[Protocluster detection techniques]] — overdensities of Lyα emitters, narrow-band imaging, IR-selected structures, spectroscopic confirmation, the JWST era
 
 ---
 
 ## Block 8 — Origin and evolution of cosmological structure *(Cassata)*
 
-- [Linear vs nonlinear regime](../03_Zettel/Theory/Linear%20vs%20nonlinear%20regime.html)
-- [Spherical collapse](../03_Zettel/Theory/Spherical%20collapse.html) — $\delta_c \simeq 1.686$
-- [Press-Schechter formalism](../03_Zettel/Theory/Press-Schechter%20formalism.html) — halo mass function
-- [N-body simulations](../03_Zettel/Theory/N-body%20simulations.html) — Millennium, IllustrisTNG
+- [[Linear vs nonlinear regime]]
+- [[Spherical collapse]] — $\delta_c \simeq 1.686$
+- [[Press-Schechter formalism]] — halo mass function
+- [[N-body simulations]] — Millennium, IllustrisTNG
 
 ---
 
 ## Block 9 — The post-recombination universe, diffuse baryons, IGM *(Cassata)*
 
-- [Reionization](../03_Zettel/Theory/Reionization.html) — $z \sim 6$–$10$, ionizing photons from first galaxies/quasars
-- [Intergalactic medium](../03_Zettel/Theory/Intergalactic%20medium.html)
-- [Lyman-α forest](../03_Zettel/Theory/Lyman-alpha%20forest.html) — neutral hydrogen along quasar sight lines
-- [Missing baryons](../03_Zettel/Theory/Missing%20baryons.html) — WHIM, warm-hot intergalactic medium
+- [[Reionization]] — $z \sim 6$–$10$, ionizing photons from first galaxies/quasars
+- [[Intergalactic medium]]
+- [[Lyman-alpha forest|Lyman-α forest]] — neutral hydrogen along quasar sight lines
+- [[Missing baryons]] — WHIM, warm-hot intergalactic medium
 
 ---
 
@@ -152,116 +152,116 @@ This block is where observational cosmology touches down into actual galaxies an
 Pablo's lecture series (31 March – 3 April):
 
 ### Lecture 0 — historical introduction
-- [Pablo_01_Introduction_to_galaxy_studies](../02_Literature/Lectures/Observational_Cosmology/Pablo_01_Introduction_to_galaxy_studies.html) — historical arc from Al-Sufi's "small cloud" to JWST
+- [[Pablo_01_Introduction_to_galaxy_studies]] — historical arc from Al-Sufi's "small cloud" to JWST
 
 ### Lecture 1A — statistical properties of galaxies (lecture overview)
-- [Pablo_02_Statistical_properties_of_galaxies](../02_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html) — the master overview of this block
+- [[Pablo_02_Statistical_properties_of_galaxies]] — the master overview of this block
 
 #### Distributions of galaxy parameters
-- [Color bimodality of galaxies](../03_Zettel/Theory/Color%20bimodality%20of%20galaxies.html) — Baldry 2004 two peaks in $u-r$
-- [Red sequence and blue cloud](../03_Zettel/Theory/Red%20sequence%20and%20blue%20cloud.html) — passive vs star-forming populations
-- [Green valley and quenching tracks](../03_Zettel/Theory/Green%20valley%20and%20quenching%20tracks.html) — Faber 2007 evolutionary arrows
-- [Galaxy color, density and morphology](../03_Zettel/Theory/Galaxy%20color%2C%20density%20and%20morphology.html) — Hogg 2004, Blanton & Moustakas 2009
+- [[Color bimodality of galaxies]] — Baldry 2004 two peaks in $u-r$
+- [[Red sequence and blue cloud]] — passive vs star-forming populations
+- [[Green valley and quenching tracks]] — Faber 2007 evolutionary arrows
+- [[Galaxy color, density and morphology]] — Hogg 2004, Blanton & Moustakas 2009
 
 #### Counts
-- [Galaxy number counts N(m)](../03_Zettel/Theory/Galaxy%20number%20counts%20N%28m%29.html) — the Euclidean prediction $N(<m) \propto 10^{0.6 m}$
-- [Differential vs cumulative number counts](../03_Zettel/Theory/Differential%20vs%20cumulative%20number%20counts.html) — $dN/dm$ vs $N(<m)$, $dN/dS$
-- [Galaxy counts at different wavelengths](../03_Zettel/Theory/Galaxy%20counts%20at%20different%20wavelengths.html) — Durham compilation, optical to sub-mm
-- [Driver 1998 counts by morphology](../03_Zettel/Theory/Driver%201998%20counts%20by%20morphology.html) — faint blue galaxy excess
+- [[Galaxy number counts N(m)]] — the Euclidean prediction $N(<m) \propto 10^{0.6 m}$
+- [[Differential vs cumulative number counts]] — $dN/dm$ vs $N(<m)$, $dN/dS$
+- [[Galaxy counts at different wavelengths]] — Durham compilation, optical to sub-mm
+- [[Driver 1998 counts by morphology]] — faint blue galaxy excess
 
 #### Sizes and biases
-- [Galaxy size-luminosity relation](../03_Zettel/Theory/Galaxy%20size-luminosity%20relation.html) — $R_e$ vs $M_B$ across galaxy classes
-- [Redshift distribution of flux-limited samples](../03_Zettel/Theory/Redshift%20distribution%20of%20flux-limited%20samples.html) — Brinchmann 2008
-- [Malmquist bias](../03_Zettel/Theory/Malmquist%20bias.html) — flux-limited samples preferentially select luminous sources
-- [Photometric redshifts](../03_Zettel/Theory/Photometric%20redshifts.html) — Benítez 2000 likelihood, 4000 Å break
-- [Photo-z biases and catastrophic outliers](../03_Zettel/Theory/Photo-z%20biases%20and%20catastrophic%20outliers.html) — Oyaizu 2008, failure modes
+- [[Galaxy size-luminosity relation]] — $R_e$ vs $M_B$ across galaxy classes
+- [[Redshift distribution of flux-limited samples]] — Brinchmann 2008
+- [[Malmquist bias]] — flux-limited samples preferentially select luminous sources
+- [[Photometric redshifts]] — Benítez 2000 likelihood, 4000 Å break
+- [[Photo-z biases and catastrophic outliers]] — Oyaizu 2008, failure modes
 
 #### Luminosity function
-- [Luminosity function definition](../03_Zettel/Theory/Luminosity%20function%20definition.html) — $dN = \phi(L)\, dL\, dV$
-- [Schechter function](../03_Zettel/Theory/Schechter%20function.html) — $\phi(L) = (\phi^*/L^*)(L/L^*)^\alpha e^{-L/L^*}$
-- [Schechter function in magnitudes](../03_Zettel/Theory/Schechter%20function%20in%20magnitudes.html) — the form fit to data
-- [Integrals of the Schechter function](../03_Zettel/Theory/Integrals%20of%20the%20Schechter%20function.html) — number, luminosity, $N(>L^*)$ as Gamma functions
-- [1Vmax estimator](../03_Zettel/Theory/1Vmax%20estimator.html) — Schmidt 1968 non-parametric LF
-- [Schechter K-band luminosity function](../03_Zettel/Theory/Schechter%20K-band%20luminosity%20function.html) — Smith 2009: $M^*=-23.19$, $\alpha=-0.81$, $\phi^*=0.0166$
-- [Double power-law modified Schechter](../03_Zettel/Theory/Double%20power-law%20modified%20Schechter.html) — Pérez-González 2005 bright-end excess at high $z$
-- [LF by morphology and SED](../03_Zettel/Theory/LF%20by%20morphology%20and%20SED.html) — Driver 2006, Wolf 2003
+- [[Luminosity function definition]] — $dN = \phi(L)\, dL\, dV$
+- [[Schechter function]] — $\phi(L) = (\phi^*/L^*)(L/L^*)^\alpha e^{-L/L^*}$
+- [[Schechter function in magnitudes]] — the form fit to data
+- [[Integrals of the Schechter function]] — number, luminosity, $N(>L^*)$ as Gamma functions
+- [[1Vmax estimator]] — Schmidt 1968 non-parametric LF
+- [[Schechter K-band luminosity function]] — Smith 2009: $M^*=-23.19$, $\alpha=-0.81$, $\phi^*=0.0166$
+- [[Double power-law modified Schechter]] — Pérez-González 2005 bright-end excess at high $z$
+- [[LF by morphology and SED]] — Driver 2006, Wolf 2003
 
 #### Mass functions and the halo connection
-- [Stellar mass function](../03_Zettel/Theory/Stellar%20mass%20function.html) — Cole 2001, Bell 2003, Pérez-González 2008
-- [Halo mass function vs galaxy mass function](../03_Zettel/Theory/Halo%20mass%20function%20vs%20galaxy%20mass%20function.html) — the factor-of-six gap
-- [Halo gravity suppression of galaxy formation](../03_Zettel/Theory/Halo%20gravity%20suppression%20of%20galaxy%20formation.html) — SN feedback at low mass, AGN feedback at high mass
-- [Stellar-to-halo mass ratio](../03_Zettel/Theory/Stellar-to-halo%20mass%20ratio.html) — Behroozi 2013 peak at $M_h \sim 10^{12}\,M_\odot$
+- [[Stellar mass function]] — Cole 2001, Bell 2003, Pérez-González 2008
+- [[Halo mass function vs galaxy mass function]] — the factor-of-six gap
+- [[Halo gravity suppression of galaxy formation]] — SN feedback at low mass, AGN feedback at high mass
+- [[Stellar-to-halo mass ratio]] — Behroozi 2013 peak at $M_h \sim 10^{12}\,M_\odot$
 
 #### Cosmic histories (integrals over $z$)
-- [Cosmic star formation history](../03_Zettel/Theory/Cosmic%20star%20formation%20history.html) — Madau-Dickinson plot, peak at $z \sim 2$
-- [Cosmic stellar mass density growth](../03_Zettel/Theory/Cosmic%20stellar%20mass%20density%20growth.html) — Pérez-González 2008a buildup
-- [SFR and stellar mass density connection](../03_Zettel/Theory/SFR%20and%20stellar%20mass%20density%20connection.html) — $\rho_{SFR} = d\rho_*/dt$
+- [[Cosmic star formation history]] — Madau-Dickinson plot, peak at $z \sim 2$
+- [[Cosmic stellar mass density growth]] — Pérez-González 2008a buildup
+- [[SFR and stellar mass density connection]] — $\rho_{SFR} = d\rho_*/dt$
 
 #### Scaling relations
-- [Galaxy main sequence of star formation](../03_Zettel/Theory/Galaxy%20main%20sequence%20of%20star%20formation.html) — Rodighiero 2011, Santini 2017
-- [Fundamental plane of ellipticals](../03_Zettel/Theory/Fundamental%20plane%20of%20ellipticals.html) — $R_e \propto \sigma^{1.4} \langle I \rangle_e^{-0.9}$
-- [Tully-Fisher relation](../03_Zettel/Theory/Tully-Fisher%20relation.html) — $L \propto V_{\text{flat}}^4$
-- [Schmidt-Kennicutt law](../03_Zettel/Theory/Schmidt-Kennicutt%20law.html) — $\Sigma_{SFR} \propto \Sigma_{\text{gas}}^{1.4}$
-- [Magorrian relation](../03_Zettel/Theory/Magorrian%20relation.html) — $M_{BH} \approx 10^{-3}\, M_{\text{bulge}}$
+- [[Galaxy main sequence of star formation]] — Rodighiero 2011, Santini 2017
+- [[Fundamental plane of ellipticals]] — $R_e \propto \sigma^{1.4} \langle I \rangle_e^{-0.9}$
+- [[Tully-Fisher relation]] — $L \propto V_{\text{flat}}^4$
+- [[Schmidt-Kennicutt law]] — $\Sigma_{SFR} \propto \Sigma_{\text{gas}}^{1.4}$
+- [[Magorrian relation]] — $M_{BH} \approx 10^{-3}\, M_{\text{bulge}}$
 
 ### Lecture 1B — star formation in galaxies
-- [Pablo_03_Star_formation_in_galaxies](../02_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html) — the master overview of this block
+- [[Pablo_03_Star_formation_in_galaxies]] — the master overview of this block
 
 #### Definitions and time scales
-- [Star formation rate and sSFR](../03_Zettel/Theory/Star%20formation%20rate%20and%20sSFR.html) — $\psi = dM_*/dt$, sSFR as doubling-time inverse
-- [Star formation history parametrizations](../03_Zettel/Theory/Star%20formation%20history%20parametrizations.html) — SSP, CON, τ, delayed, non-parametric
-- [Galaxy time scales](../03_Zettel/Theory/Galaxy%20time%20scales.html) — Hubble, dynamical $\sqrt{3\pi/16 G\rho}$, cooling, SF, enrichment, merger
-- [Initial mass function](../03_Zettel/Theory/Initial%20mass%20function.html) — Salpeter 1955 ($\alpha = 2.35$), Kroupa 2001, Chabrier 2003
+- [[Star formation rate and sSFR]] — $\psi = dM_*/dt$, sSFR as doubling-time inverse
+- [[Star formation history parametrizations]] — SSP, CON, τ, delayed, non-parametric
+- [[Galaxy time scales]] — Hubble, dynamical $\sqrt{3\pi/16 G\rho}$, cooling, SF, enrichment, merger
+- [[Initial mass function]] — Salpeter 1955 ($\alpha = 2.35$), Kroupa 2001, Chabrier 2003
 
 #### SFR tracers across the spectrum
-- [UV SFR tracer](../03_Zettel/Theory/UV%20SFR%20tracer.html) — Kennicutt 1998, $1.4 \times 10^{-28} L_\nu$
-- [UV slope and IRX-beta relation](../03_Zettel/Theory/UV%20slope%20and%20IRX-beta%20relation.html) — Meurer 1999, dust correction without IR
-- [Dust attenuation and extinction curves](../03_Zettel/Theory/Dust%20attenuation%20and%20extinction%20curves.html) — Calzetti 2000, Cardelli 1989, Charlot & Fall 2000
-- [H-alpha SFR tracer](../03_Zettel/Theory/H-alpha%20SFR%20tracer.html) — $7.9 \times 10^{-42} L(\text{H}\alpha)$, 10 Myr timescale
-- [Balmer decrement](../03_Zettel/Theory/Balmer%20decrement.html) — $F(\text{H}\alpha)/F(\text{H}\beta) = 2.86$ for case B
-- [Lyman alpha SFR tracer](../03_Zettel/Theory/Lyman%20alpha%20SFR%20tracer.html) — resonance scattering, Verhamme 2008
-- [OII SFR tracer](../03_Zettel/Theory/OII%20SFR%20tracer.html) — forbidden, metallicity-dependent, redshift-desert tool
-- [Other SFR tracer lines](../03_Zettel/Theory/Other%20SFR%20tracer%20lines.html) — Pα, [CII] 158 μm, PAHs, radio recombination
-- [X-ray SFR tracer](../03_Zettel/Theory/X-ray%20SFR%20tracer.html) — HMXBs + diffuse, Ranalli 2003, metallicity dependence
-- [IR SFR tracer](../03_Zettel/Theory/IR%20SFR%20tracer.html) — $4.5 \times 10^{-44} L_{\text{TIR}}$, Pérez-González 2006
-- [Radio SFR tracer](../03_Zettel/Theory/Radio%20SFR%20tracer.html) — FIR-radio correlation $q \simeq 2.3$, Murphy 2011
-- [SFR tracer comparison](../03_Zettel/Theory/SFR%20tracer%20comparison.html) — Cardiel 2003, tracer disagreements as diagnostics
+- [[UV SFR tracer]] — Kennicutt 1998, $1.4 \times 10^{-28} L_\nu$
+- [[UV slope and IRX-beta relation]] — Meurer 1999, dust correction without IR
+- [[Dust attenuation and extinction curves]] — Calzetti 2000, Cardelli 1989, Charlot & Fall 2000
+- [[H-alpha SFR tracer]] — $7.9 \times 10^{-42} L(\text{H}\alpha)$, 10 Myr timescale
+- [[Balmer decrement]] — $F(\text{H}\alpha)/F(\text{H}\beta) = 2.86$ for case B
+- [[Lyman alpha SFR tracer]] — resonance scattering, Verhamme 2008
+- [[OII SFR tracer]] — forbidden, metallicity-dependent, redshift-desert tool
+- [[Other SFR tracer lines]] — Pα, [CII] 158 μm, PAHs, radio recombination
+- [[X-ray SFR tracer]] — HMXBs + diffuse, Ranalli 2003, metallicity dependence
+- [[IR SFR tracer]] — $4.5 \times 10^{-44} L_{\text{TIR}}$, Pérez-González 2006
+- [[Radio SFR tracer]] — FIR-radio correlation $q \simeq 2.3$, Murphy 2011
+- [[SFR tracer comparison]] — Cardiel 2003, tracer disagreements as diagnostics
 
 #### SFH reconstruction and SPS
-- [SFH from resolved CMDs](../03_Zettel/Theory/SFH%20from%20resolved%20CMDs.html) — Local Group, Ferguson 2002, Tolstoy 2009, Harris & Zaritsky 2004
-- [SED fitting for SFH](../03_Zettel/Theory/SED%20fitting%20for%20SFH.html) — Papovich 2001, Pérez-González 2008, modern codes
-- [Stellar population synthesis](../03_Zettel/Theory/Stellar%20population%20synthesis.html) — BC03, Maraston 2005, FSPS, Starburst99, Lick indices
+- [[SFH from resolved CMDs]] — Local Group, Ferguson 2002, Tolstoy 2009, Harris & Zaritsky 2004
+- [[SED fitting for SFH]] — Papovich 2001, Pérez-González 2008, modern codes
+- [[Stellar population synthesis]] — BC03, Maraston 2005, FSPS, Starburst99, Lick indices
 
 #### Galaxy classes
-- [Starburst galaxies](../03_Zettel/Theory/Starburst%20galaxies.html) — M82, Wolf-Rayet, BCDs, SSCs, superwinds
-- [Post-starburst galaxies](../03_Zettel/Theory/Post-starburst%20galaxies.html) — E+A, Balmer absorption, Kriek 2010
-- [LIRGs ULIRGs HyLIRGs](../03_Zettel/Theory/LIRGs%20ULIRGs%20HyLIRGs.html) — IRAS 1983, Sanders & Mirabel 1996, Arp 220
-- [Galaxy mergers and SF](../03_Zettel/Theory/Galaxy%20mergers%20and%20SF.html) — $f_m \propto (1+z)^{2-3}$, merger-ULIRG-elliptical sequence
+- [[Starburst galaxies]] — M82, Wolf-Rayet, BCDs, SSCs, superwinds
+- [[Post-starburst galaxies]] — E+A, Balmer absorption, Kriek 2010
+- [[LIRGs ULIRGs HyLIRGs]] — IRAS 1983, Sanders & Mirabel 1996, Arp 220
+- [[Galaxy mergers and SF]] — $f_m \propto (1+z)^{2-3}$, merger-ULIRG-elliptical sequence
 
 #### Chemical evolution
-- [Chemical evolution of galaxies](../03_Zettel/Theory/Chemical%20evolution%20of%20galaxies.html) — Tinsley 1979, α/Fe clock, mass-metallicity, yields
+- [[Chemical evolution of galaxies]] — Tinsley 1979, α/Fe clock, mass-metallicity, yields
 
 ### Lecture 1C — nuclear activity and supermassive black holes in galaxies
-- [Pablo_04_Nuclear_activity_in_galaxies](../02_Literature/Lectures/Observational_Cosmology/Pablo_04_Nuclear_activity_in_galaxies.html) — the master overview of accretion physics, AGN demographics, and feedback
+- [[Pablo_04_Nuclear_activity_in_galaxies]] — the master overview of accretion physics, AGN demographics, and feedback
 
 #### Accretion engines and unified model
-- [AGN taxonomy unified model and feedback](../03_Zettel/Theory/AGN%20taxonomy%20unified%20model%20and%20feedback.html) — Eddington limit, Antonucci-Miller unified model, Magorrian / M-sigma relations, and quasar vs radio mode feedback
-- [AGN and supermassive black holes](../03_Zettel/Theory/interf/AGN%20and%20supermassive%20black%20holes.html) — EHT event-horizon shadows (M87*, Sgr A*), relativistic jets, and GRAVITY BLR kinematics
+- [[AGN taxonomy unified model and feedback]] — Eddington limit, Antonucci-Miller unified model, Magorrian / M-sigma relations, and quasar vs radio mode feedback
+- [[AGN and supermassive black holes]] — EHT event-horizon shadows (M87*, Sgr A*), relativistic jets, and GRAVITY BLR kinematics
 
 #### Spectroscopic classification
-- [BPT emission line diagnostic diagram](../03_Zettel/Theory/BPT%20emission%20line%20diagnostic%20diagram.html) — [O III]/Hβ vs [N II]/Hα line ratios, Kewley vs Kauffmann starburst boundaries, Seyferts, and LINERs
+- [[BPT emission line diagnostic diagram]] — [O III]/Hβ vs [N II]/Hα line ratios, Kewley vs Kauffmann starburst boundaries, Seyferts, and LINERs
 
 ### Lecture 1D — galaxies at cosmological distances and cosmic dawn
-- [Pablo_05_Galaxies_at_cosmological_distances](../02_Literature/Lectures/Observational_Cosmology/Pablo_05_Galaxies_at_cosmological_distances.html) — the master overview of high-z galaxy selection, JWST discoveries, and structural evolution
+- [[Pablo_05_Galaxies_at_cosmological_distances]] — the master overview of high-z galaxy selection, JWST discoveries, and structural evolution
 
 #### High-redshift selection and cosmic dawn
-- [High-redshift galaxy selection and Lyman break technique](../03_Zettel/Theory/High-redshift%20galaxy%20selection%20and%20Lyman%20break%20technique.html) — 912 Å photoelectric dropouts (U, B, V dropouts), LAEs, and sub-mm galaxies
-- [Cosmic dawn and high-redshift galaxies with JWST](../03_Zettel/Theory/Cosmic%20dawn%20and%20high-redshift%20galaxies%20with%20JWST.html) — JADES-GS-z14-0 ($z=14.32$), $z > 10$ overabundance puzzle, and Little Red Dots (LRDs)
+- [[High-redshift galaxy selection and Lyman break technique]] — 912 Å photoelectric dropouts (U, B, V dropouts), LAEs, and sub-mm galaxies
+- [[Cosmic dawn and high-redshift galaxies with JWST]] — JADES-GS-z14-0 ($z=14.32$), $z > 10$ overabundance puzzle, and Little Red Dots (LRDs)
 
 #### Morphology and SED analysis
-- [Non-parametric galaxy morphology metrics](../03_Zettel/Theory/Non-parametric%20galaxy%20morphology%20metrics.html) — CAS system ($C, A, S$), Gini coefficient ($G$), and $M_{20}$ merger diagnostics
-- [Galaxy SED fitting](../03_Zettel/Theory/Galaxy%20SED%20fitting.html) — multi-wavelength photometric redshifts, stellar mass estimation, and star formation history inversion
-- [Galaxy morphology vs physical properties](../03_Zettel/Theory/Galaxy%20morphology%20vs%20physical%20properties.html) — Hubble sequence physical drivers, visual classification, and environmental morphology-density relation
+- [[Non-parametric galaxy morphology metrics]] — CAS system ($C, A, S$), Gini coefficient ($G$), and $M_{20}$ merger diagnostics
+- [[Galaxy SED fitting]] — multi-wavelength photometric redshifts, stellar mass estimation, and star formation history inversion
+- [[Galaxy morphology vs physical properties]] — Hubble sequence physical drivers, visual classification, and environmental morphology-density relation
 
 ---
 
@@ -269,17 +269,17 @@ Pablo's lecture series (31 March – 3 April):
 
 Canonical and modern arXiv astro-ph.CO benchmark papers underlying the BAO and weak-lensing techniques above.
 
-- [Eisenstein et al. (2005) — BAO Detection in SDSS LRGs](../02_Literature/Papers/08_Observational_Cosmology/Eisenstein_2005_BAO_Detection_SDSS_LRGs.html) — first BAO detection, the sound horizon as a standard ruler
-- [DESI Collaboration (2024) — DESI 2024 VI: BAO Cosmological Constraints](../02_Literature/Papers/08_Observational_Cosmology/DESI_2024_BAO_Cosmological_Constraints.html) — multi-redshift BAO, hint of dynamical dark energy ($w_0,w_a$)
-- [Bartelmann & Schneider (2001) — Weak Gravitational Lensing](../02_Literature/Papers/08_Observational_Cosmology/Bartelmann_Schneider_2001_Weak_Gravitational_Lensing.html) — convergence/shear formalism, cosmic shear power spectrum
+- [[Eisenstein_2005_BAO_Detection_SDSS_LRGs|Eisenstein et al. (2005) — BAO Detection in SDSS LRGs]] — first BAO detection, the sound horizon as a standard ruler
+- [[DESI_2024_BAO_Cosmological_Constraints|DESI Collaboration (2024) — DESI 2024 VI: BAO Cosmological Constraints]] — multi-redshift BAO, hint of dynamical dark energy ($w_0,w_a$)
+- [[Bartelmann_Schneider_2001_Weak_Gravitational_Lensing|Bartelmann & Schneider (2001) — Weak Gravitational Lensing]] — convergence/shear formalism, cosmic shear power spectrum
 
 ---
 
 ## Appendices and tools
 
-- [Cosmology calculator — how to use H0 Ω_m Ω_Λ to get d_L, d_A, t_lookback](../03_Zettel/Theory/Cosmology%20calculator%20-%20how%20to%20use%20H0%20Omega_m%20Omega_Lambda%20to%20get%20dL%20dA%20t_lookback.html)
-- [Surveys to remember](../03_Zettel/Theory/Surveys%20to%20remember.html) — 2dFGRS, SDSS, DEEP-2, BOSS, WiggleZ, WFMOS, 4MOST
-- [Space and ground facilities relevant for OC](../03_Zettel/Theory/Space%20and%20ground%20facilities%20relevant%20for%20OC.html) — HST, Chandra, XMM, Spitzer, Herschel, JWST, Keck, VLT, Subaru, LBT, GTC, ALMA; upcoming ELT, SKA
+- [[Cosmology calculator - how to use H0 Omega_m Omega_Lambda to get dL dA t_lookback|Cosmology calculator — how to use H0 Ω_m Ω_Λ to get d_L, d_A, t_lookback]]
+- [[Surveys to remember]] — 2dFGRS, SDSS, DEEP-2, BOSS, WiggleZ, WFMOS, 4MOST
+- [[Space and ground facilities relevant for OC]] — HST, Chandra, XMM, Spitzer, Herschel, JWST, Keck, VLT, Subaru, LBT, GTC, ALMA; upcoming ELT, SKA
 
 ---
 
@@ -302,55 +302,55 @@ Every single publication figure, Planck CMB spectrum, 21cm cosmology plot, quasa
 
 | Image Asset | Diagnostic Category & Cosmological Physics | Primary Zettel Note |
 |---|---|---|
-| `![barkana_loeb_cosmic_evolution.png](../assets/images/barkana_loeb_cosmic_evolution.png)` | Barkana & Loeb reionization timeline, dark matter halo mass threshold, and density fluctuations | [Cosmic dawn and high-redshift galaxies with JWST](../03_Zettel/Theory/Cosmic%20dawn%20and%20high-redshift%20galaxies%20with%20JWST.html) |
-| `![barkana_loeb_halo_mass.png](../assets/images/barkana_loeb_halo_mass.png)` | Barkana & Loeb reionization timeline, dark matter halo mass threshold, and density fluctuations | [Cosmic dawn and high-redshift galaxies with JWST](../03_Zettel/Theory/Cosmic%20dawn%20and%20high-redshift%20galaxies%20with%20JWST.html) |
-| `![barkana_loeb_mass_fluctuations.png](../assets/images/barkana_loeb_mass_fluctuations.png)` | Barkana & Loeb reionization timeline, dark matter halo mass threshold, and density fluctuations | [Cosmic dawn and high-redshift galaxies with JWST](../03_Zettel/Theory/Cosmic%20dawn%20and%20high-redshift%20galaxies%20with%20JWST.html) |
-| `![barkana_loeb_reionization.png](../assets/images/barkana_loeb_reionization.png)` | Barkana & Loeb reionization timeline, dark matter halo mass threshold, and density fluctuations | [Cosmic dawn and high-redshift galaxies with JWST](../03_Zettel/Theory/Cosmic%20dawn%20and%20high-redshift%20galaxies%20with%20JWST.html) |
-| `![becker_GP_spectra.png](../assets/images/becker_GP_spectra.png)` | SDSS $z \sim 6$ quasar absorption spectra, Gunn-Peterson trough, and effective optical depth $\tau_{\rm eff}$ | [Reionization](../03_Zettel/Theory/Reionization.html) |
-| `![becker_GP_trough.png](../assets/images/becker_GP_trough.png)` | SDSS $z \sim 6$ quasar absorption spectra, Gunn-Peterson trough, and effective optical depth $\tau_{\rm eff}$ | [Reionization](../03_Zettel/Theory/Reionization.html) |
-| `![fan_optical_depth.png](../assets/images/fan_optical_depth.png)` | SDSS $z \sim 6$ quasar absorption spectra, Gunn-Peterson trough, and effective optical depth $\tau_{\rm eff}$ | [Reionization](../03_Zettel/Theory/Reionization.html) |
-| `![fan_quasar_spectra.png](../assets/images/fan_quasar_spectra.png)` | SDSS $z \sim 6$ quasar absorption spectra, Gunn-Peterson trough, and effective optical depth $\tau_{\rm eff}$ | [Reionization](../03_Zettel/Theory/Reionization.html) |
-| `![linder_growth_history.png](../assets/images/linder_growth_history.png)` | Linder growth factor $D(z)$ and growth rate parameter $f(z) = \Omega_m(z)^\gamma$ | [Growth factor D(z)](../03_Zettel/Theory/Growth%20factor%20D%28z%29.html) |
-| `![obscos_lec0_p01.png](../assets/images/obscos_lec0_p01.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [Brief thermal history](../03_Zettel/Theory/Brief%20thermal%20history.html) |
-| `![obscos_lec0_p05.png](../assets/images/obscos_lec0_p05.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [Brief thermal history](../03_Zettel/Theory/Brief%20thermal%20history.html) |
-| `![obscos_lec0_p10.png](../assets/images/obscos_lec0_p10.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [Brief thermal history](../03_Zettel/Theory/Brief%20thermal%20history.html) |
-| `![obscos_lec0_p15.png](../assets/images/obscos_lec0_p15.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [Brief thermal history](../03_Zettel/Theory/Brief%20thermal%20history.html) |
-| `![obscos_lec1a_p02.png](../assets/images/obscos_lec1a_p02.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [Matter power spectrum and BAO](../03_Zettel/Theory/Matter%20power%20spectrum%20and%20BAO.html) |
-| `![obscos_lec1a_p10.png](../assets/images/obscos_lec1a_p10.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [Matter power spectrum and BAO](../03_Zettel/Theory/Matter%20power%20spectrum%20and%20BAO.html) |
-| `![obscos_lec1a_p20.png](../assets/images/obscos_lec1a_p20.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [Matter power spectrum and BAO](../03_Zettel/Theory/Matter%20power%20spectrum%20and%20BAO.html) |
-| `![obscos_lec1a_p30.png](../assets/images/obscos_lec1a_p30.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [Matter power spectrum and BAO](../03_Zettel/Theory/Matter%20power%20spectrum%20and%20BAO.html) |
-| `![obscos_lec1a_p40.png](../assets/images/obscos_lec1a_p40.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [Matter power spectrum and BAO](../03_Zettel/Theory/Matter%20power%20spectrum%20and%20BAO.html) |
-| `![obscos_lec1b_p05.png](../assets/images/obscos_lec1b_p05.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [Observational_Cosmology_MOC](Observational_Cosmology_MOC.html) |
-| `![obscos_lec1b_p15.png](../assets/images/obscos_lec1b_p15.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [Observational_Cosmology_MOC](Observational_Cosmology_MOC.html) |
-| `![obscos_lec1b_p25.png](../assets/images/obscos_lec1b_p25.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [Observational_Cosmology_MOC](Observational_Cosmology_MOC.html) |
-| `![obscos_lec1b_p45.png](../assets/images/obscos_lec1b_p45.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [Observational_Cosmology_MOC](Observational_Cosmology_MOC.html) |
-| `![obscos_lec1b_p60.png](../assets/images/obscos_lec1b_p60.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [Observational_Cosmology_MOC](Observational_Cosmology_MOC.html) |
-| `![obscos_lec2_p05.png](../assets/images/obscos_lec2_p05.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [AGN taxonomy unified model and feedback](../03_Zettel/Theory/AGN%20taxonomy%20unified%20model%20and%20feedback.html) |
-| `![obscos_lec2_p18.png](../assets/images/obscos_lec2_p18.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [AGN taxonomy unified model and feedback](../03_Zettel/Theory/AGN%20taxonomy%20unified%20model%20and%20feedback.html) |
-| `![obscos_lec2_p32.png](../assets/images/obscos_lec2_p32.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [AGN taxonomy unified model and feedback](../03_Zettel/Theory/AGN%20taxonomy%20unified%20model%20and%20feedback.html) |
-| `![obscos_lec2_p50.png](../assets/images/obscos_lec2_p50.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [AGN taxonomy unified model and feedback](../03_Zettel/Theory/AGN%20taxonomy%20unified%20model%20and%20feedback.html) |
-| `![obscos_lec3_p08.png](../assets/images/obscos_lec3_p08.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [Cosmic dawn and high-redshift galaxies with JWST](../03_Zettel/Theory/Cosmic%20dawn%20and%20high-redshift%20galaxies%20with%20JWST.html) |
-| `![obscos_lec3_p22.png](../assets/images/obscos_lec3_p22.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [Cosmic dawn and high-redshift galaxies with JWST](../03_Zettel/Theory/Cosmic%20dawn%20and%20high-redshift%20galaxies%20with%20JWST.html) |
-| `![obscos_lec3_p40.png](../assets/images/obscos_lec3_p40.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [Cosmic dawn and high-redshift galaxies with JWST](../03_Zettel/Theory/Cosmic%20dawn%20and%20high-redshift%20galaxies%20with%20JWST.html) |
-| `![obscos_lec3_p65.png](../assets/images/obscos_lec3_p65.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [Cosmic dawn and high-redshift galaxies with JWST](../03_Zettel/Theory/Cosmic%20dawn%20and%20high-redshift%20galaxies%20with%20JWST.html) |
-| `![obscos_lec3_p85.png](../assets/images/obscos_lec3_p85.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [Cosmic dawn and high-redshift galaxies with JWST](../03_Zettel/Theory/Cosmic%20dawn%20and%20high-redshift%20galaxies%20with%20JWST.html) |
-| `![obscos_lesson1_p05.png](../assets/images/obscos_lesson1_p05.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [Growth factor D(z)](../03_Zettel/Theory/Growth%20factor%20D%28z%29.html) |
-| `![obscos_lesson1_p15.png](../assets/images/obscos_lesson1_p15.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [Growth factor D(z)](../03_Zettel/Theory/Growth%20factor%20D%28z%29.html) |
-| `![obscos_lesson1_p30.png](../assets/images/obscos_lesson1_p30.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [Growth factor D(z)](../03_Zettel/Theory/Growth%20factor%20D%28z%29.html) |
-| `![obscos_lesson1_p45.png](../assets/images/obscos_lesson1_p45.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [Growth factor D(z)](../03_Zettel/Theory/Growth%20factor%20D%28z%29.html) |
-| `![obscos_lesson2_p10.png](../assets/images/obscos_lesson2_p10.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [Cosmological evolution of perturbations in the cosmic fluid](../03_Zettel/Theory/Cosmological%20evolution%20of%20perturbations%20in%20the%20cosmic%20fluid.html) |
-| `![obscos_lesson2_p25.png](../assets/images/obscos_lesson2_p25.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [Cosmological evolution of perturbations in the cosmic fluid](../03_Zettel/Theory/Cosmological%20evolution%20of%20perturbations%20in%20the%20cosmic%20fluid.html) |
-| `![obscos_lesson2_p40.png](../assets/images/obscos_lesson2_p40.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [Cosmological evolution of perturbations in the cosmic fluid](../03_Zettel/Theory/Cosmological%20evolution%20of%20perturbations%20in%20the%20cosmic%20fluid.html) |
-| `![obscos_lesson2_p55.png](../assets/images/obscos_lesson2_p55.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [Cosmological evolution of perturbations in the cosmic fluid](../03_Zettel/Theory/Cosmological%20evolution%20of%20perturbations%20in%20the%20cosmic%20fluid.html) |
-| `![planck_TE_spectrum.png](../assets/images/planck_TE_spectrum.png)` | Planck 2018 CMB temperature (TT) or polarization (TE) angular power spectrum | [CMB power spectrum](../03_Zettel/Theory/CMB%20power%20spectrum.html) |
-| `![planck_TT_spectrum.png](../assets/images/planck_TT_spectrum.png)` | Planck 2018 CMB temperature (TT) or polarization (TE) angular power spectrum | [CMB power spectrum](../03_Zettel/Theory/CMB%20power%20spectrum.html) |
-| `![pritchard_loeb_21cm_fig1.png](../assets/images/pritchard_loeb_21cm_fig1.png)` | Pritchard & Loeb 21cm hydrogen line brightness temperature $\delta T_b$, spin temperature $T_S$, and cosmic phases | [Reionization](../03_Zettel/Theory/Reionization.html) |
-| `![pritchard_loeb_21cm_phases.png](../assets/images/pritchard_loeb_21cm_phases.png)` | Pritchard & Loeb 21cm hydrogen line brightness temperature $\delta T_b$, spin temperature $T_S$, and cosmic phases | [Reionization](../03_Zettel/Theory/Reionization.html) |
-| `![pritchard_loeb_temperatures.png](../assets/images/pritchard_loeb_temperatures.png)` | Observational cosmology figure, CMB power spectrum, or survey diagnostic | [Observational_Cosmology_MOC](Observational_Cosmology_MOC.html) |
-| `![suzuki_hubble_fig4.png](../assets/images/suzuki_hubble_fig4.png)` | Supernova Cosmology Project Union2.1 SNe Ia Hubble diagram and $(\Omega_m, \Omega_\Lambda)$ confidence contours | [Supernova Hubble diagram](../03_Zettel/Theory/Supernova%20Hubble%20diagram.html) |
-| `![suzuki_hubble_fig5.png](../assets/images/suzuki_hubble_fig5.png)` | Supernova Cosmology Project Union2.1 SNe Ia Hubble diagram and $(\Omega_m, \Omega_\Lambda)$ confidence contours | [Supernova Hubble diagram](../03_Zettel/Theory/Supernova%20Hubble%20diagram.html) |
-| `![suzuki_hubble_fig6.png](../assets/images/suzuki_hubble_fig6.png)` | Supernova Cosmology Project Union2.1 SNe Ia Hubble diagram and $(\Omega_m, \Omega_\Lambda)$ confidence contours | [Supernova Hubble diagram](../03_Zettel/Theory/Supernova%20Hubble%20diagram.html) |
-| `![tegmark_power_spectrum.png](../assets/images/tegmark_power_spectrum.png)` | Tegmark et al. SDSS 3D matter power spectrum $P(k)$ turnover at horizon entry | [Matter power spectrum and BAO](../03_Zettel/Theory/Matter%20power%20spectrum%20and%20BAO.html) |
+| `![barkana_loeb_cosmic_evolution.png](../assets/images/barkana_loeb_cosmic_evolution.png)` | Barkana & Loeb reionization timeline, dark matter halo mass threshold, and density fluctuations | [[Cosmic dawn and high-redshift galaxies with JWST]] |
+| `![barkana_loeb_halo_mass.png](../assets/images/barkana_loeb_halo_mass.png)` | Barkana & Loeb reionization timeline, dark matter halo mass threshold, and density fluctuations | [[Cosmic dawn and high-redshift galaxies with JWST]] |
+| `![barkana_loeb_mass_fluctuations.png](../assets/images/barkana_loeb_mass_fluctuations.png)` | Barkana & Loeb reionization timeline, dark matter halo mass threshold, and density fluctuations | [[Cosmic dawn and high-redshift galaxies with JWST]] |
+| `![barkana_loeb_reionization.png](../assets/images/barkana_loeb_reionization.png)` | Barkana & Loeb reionization timeline, dark matter halo mass threshold, and density fluctuations | [[Cosmic dawn and high-redshift galaxies with JWST]] |
+| `![becker_GP_spectra.png](../assets/images/becker_GP_spectra.png)` | SDSS $z \sim 6$ quasar absorption spectra, Gunn-Peterson trough, and effective optical depth $\tau_{\rm eff}$ | [[Reionization]] |
+| `![becker_GP_trough.png](../assets/images/becker_GP_trough.png)` | SDSS $z \sim 6$ quasar absorption spectra, Gunn-Peterson trough, and effective optical depth $\tau_{\rm eff}$ | [[Reionization]] |
+| `![fan_optical_depth.png](../assets/images/fan_optical_depth.png)` | SDSS $z \sim 6$ quasar absorption spectra, Gunn-Peterson trough, and effective optical depth $\tau_{\rm eff}$ | [[Reionization]] |
+| `![fan_quasar_spectra.png](../assets/images/fan_quasar_spectra.png)` | SDSS $z \sim 6$ quasar absorption spectra, Gunn-Peterson trough, and effective optical depth $\tau_{\rm eff}$ | [[Reionization]] |
+| `![linder_growth_history.png](../assets/images/linder_growth_history.png)` | Linder growth factor $D(z)$ and growth rate parameter $f(z) = \Omega_m(z)^\gamma$ | [[Growth factor D(z)]] |
+| `![obscos_lec0_p01.png](../assets/images/obscos_lec0_p01.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [[Brief thermal history]] |
+| `![obscos_lec0_p05.png](../assets/images/obscos_lec0_p05.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [[Brief thermal history]] |
+| `![obscos_lec0_p10.png](../assets/images/obscos_lec0_p10.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [[Brief thermal history]] |
+| `![obscos_lec0_p15.png](../assets/images/obscos_lec0_p15.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [[Brief thermal history]] |
+| `![obscos_lec1a_p02.png](../assets/images/obscos_lec1a_p02.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [[Matter power spectrum and BAO]] |
+| `![obscos_lec1a_p10.png](../assets/images/obscos_lec1a_p10.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [[Matter power spectrum and BAO]] |
+| `![obscos_lec1a_p20.png](../assets/images/obscos_lec1a_p20.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [[Matter power spectrum and BAO]] |
+| `![obscos_lec1a_p30.png](../assets/images/obscos_lec1a_p30.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [[Matter power spectrum and BAO]] |
+| `![obscos_lec1a_p40.png](../assets/images/obscos_lec1a_p40.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [[Matter power spectrum and BAO]] |
+| `![obscos_lec1b_p05.png](../assets/images/obscos_lec1b_p05.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [[Observational_Cosmology_MOC]] |
+| `![obscos_lec1b_p15.png](../assets/images/obscos_lec1b_p15.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [[Observational_Cosmology_MOC]] |
+| `![obscos_lec1b_p25.png](../assets/images/obscos_lec1b_p25.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [[Observational_Cosmology_MOC]] |
+| `![obscos_lec1b_p45.png](../assets/images/obscos_lec1b_p45.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [[Observational_Cosmology_MOC]] |
+| `![obscos_lec1b_p60.png](../assets/images/obscos_lec1b_p60.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [[Observational_Cosmology_MOC]] |
+| `![obscos_lec2_p05.png](../assets/images/obscos_lec2_p05.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [[AGN taxonomy unified model and feedback]] |
+| `![obscos_lec2_p18.png](../assets/images/obscos_lec2_p18.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [[AGN taxonomy unified model and feedback]] |
+| `![obscos_lec2_p32.png](../assets/images/obscos_lec2_p32.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [[AGN taxonomy unified model and feedback]] |
+| `![obscos_lec2_p50.png](../assets/images/obscos_lec2_p50.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [[AGN taxonomy unified model and feedback]] |
+| `![obscos_lec3_p08.png](../assets/images/obscos_lec3_p08.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [[Cosmic dawn and high-redshift galaxies with JWST]] |
+| `![obscos_lec3_p22.png](../assets/images/obscos_lec3_p22.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [[Cosmic dawn and high-redshift galaxies with JWST]] |
+| `![obscos_lec3_p40.png](../assets/images/obscos_lec3_p40.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [[Cosmic dawn and high-redshift galaxies with JWST]] |
+| `![obscos_lec3_p65.png](../assets/images/obscos_lec3_p65.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [[Cosmic dawn and high-redshift galaxies with JWST]] |
+| `![obscos_lec3_p85.png](../assets/images/obscos_lec3_p85.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [[Cosmic dawn and high-redshift galaxies with JWST]] |
+| `![obscos_lesson1_p05.png](../assets/images/obscos_lesson1_p05.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [[Growth factor D(z)]] |
+| `![obscos_lesson1_p15.png](../assets/images/obscos_lesson1_p15.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [[Growth factor D(z)]] |
+| `![obscos_lesson1_p30.png](../assets/images/obscos_lesson1_p30.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [[Growth factor D(z)]] |
+| `![obscos_lesson1_p45.png](../assets/images/obscos_lesson1_p45.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [[Growth factor D(z)]] |
+| `![obscos_lesson2_p10.png](../assets/images/obscos_lesson2_p10.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [[Cosmological evolution of perturbations in the cosmic fluid]] |
+| `![obscos_lesson2_p25.png](../assets/images/obscos_lesson2_p25.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [[Cosmological evolution of perturbations in the cosmic fluid]] |
+| `![obscos_lesson2_p40.png](../assets/images/obscos_lesson2_p40.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [[Cosmological evolution of perturbations in the cosmic fluid]] |
+| `![obscos_lesson2_p55.png](../assets/images/obscos_lesson2_p55.png)` | Padova Observational Cosmology lecture slide: High-z dropouts, BAO standard ruler, or perturbation equations | [[Cosmological evolution of perturbations in the cosmic fluid]] |
+| `![planck_TE_spectrum.png](../assets/images/planck_TE_spectrum.png)` | Planck 2018 CMB temperature (TT) or polarization (TE) angular power spectrum | [[CMB power spectrum]] |
+| `![planck_TT_spectrum.png](../assets/images/planck_TT_spectrum.png)` | Planck 2018 CMB temperature (TT) or polarization (TE) angular power spectrum | [[CMB power spectrum]] |
+| `![pritchard_loeb_21cm_fig1.png](../assets/images/pritchard_loeb_21cm_fig1.png)` | Pritchard & Loeb 21cm hydrogen line brightness temperature $\delta T_b$, spin temperature $T_S$, and cosmic phases | [[Reionization]] |
+| `![pritchard_loeb_21cm_phases.png](../assets/images/pritchard_loeb_21cm_phases.png)` | Pritchard & Loeb 21cm hydrogen line brightness temperature $\delta T_b$, spin temperature $T_S$, and cosmic phases | [[Reionization]] |
+| `![pritchard_loeb_temperatures.png](../assets/images/pritchard_loeb_temperatures.png)` | Observational cosmology figure, CMB power spectrum, or survey diagnostic | [[Observational_Cosmology_MOC]] |
+| `![suzuki_hubble_fig4.png](../assets/images/suzuki_hubble_fig4.png)` | Supernova Cosmology Project Union2.1 SNe Ia Hubble diagram and $(\Omega_m, \Omega_\Lambda)$ confidence contours | [[Supernova Hubble diagram]] |
+| `![suzuki_hubble_fig5.png](../assets/images/suzuki_hubble_fig5.png)` | Supernova Cosmology Project Union2.1 SNe Ia Hubble diagram and $(\Omega_m, \Omega_\Lambda)$ confidence contours | [[Supernova Hubble diagram]] |
+| `![suzuki_hubble_fig6.png](../assets/images/suzuki_hubble_fig6.png)` | Supernova Cosmology Project Union2.1 SNe Ia Hubble diagram and $(\Omega_m, \Omega_\Lambda)$ confidence contours | [[Supernova Hubble diagram]] |
+| `![tegmark_power_spectrum.png](../assets/images/tegmark_power_spectrum.png)` | Tegmark et al. SDSS 3D matter power spectrum $P(k)$ turnover at horizon entry | [[Matter power spectrum and BAO]] |
 
 
 ---

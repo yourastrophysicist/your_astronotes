@@ -147,15 +147,15 @@ def step(y, t, h, f):
 
 ## see also
 
-- [Math Numerical Methods course intro](Math%20Numerical%20Methods%20course%20intro.html)
-- [Math Numerical Methods exam rules](Math%20Numerical%20Methods%20exam%20rules.html)
-- [Numerical problem solving workflow](Numerical%20problem%20solving%20workflow.html)
-- [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
+- [[Math Numerical Methods course intro]]
+- [[Math Numerical Methods exam rules]]
+- [[Numerical problem solving workflow]]
+- [[Mathematical_Numerical_Methods_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (1)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Mathematical_Numerical_Methods_MOC]]
+
 

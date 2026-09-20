@@ -31,7 +31,7 @@ so the CMB is **the oldest electromagnetic signal** we can detect. its features 
 
 ## the photon density
 
-derived in [Cosmic_inventory_photons_derivation](Cosmic_inventory_photons_derivation.html):
+derived in [[Cosmic_inventory_photons_derivation]]:
 - $n_\gamma = (2\zeta(3)/\pi^2)(k_BT/\hbar c)^3 \approx 411$ cm$^{-3}$ today.
 - $\rho_\gamma = (\pi^2/15)(k_BT)^4/(\hbar c)^3 \approx 4.18 \times 10^{-13}$ erg/cm$^3$.
 - $\Omega_{0\gamma} \approx 2.47 \times 10^{-5}\,h^{-2}$.
@@ -58,21 +58,21 @@ current limits (FIRAS): $\mu/T < 9\times 10^{-5}$, $y < 1.5\times 10^{-5}$. futu
 
 ## see also
 
-- [Cosmic_inventory_photons](Cosmic_inventory_photons.html)
-- [Cosmic_inventory_photons_derivation](Cosmic_inventory_photons_derivation.html)
-- [Photon decoupling and CMB](Photon%20decoupling%20and%20CMB.html)
-- [Saha equation and recombination](Saha%20equation%20and%20recombination.html)
-- [CMB anisotropies](CMB%20anisotropies.html)
-- [CMB power spectrum](CMB%20power%20spectrum.html)
-- [Polarization E and B modes](Polarization%20E%20and%20B%20modes.html)
+- [[Cosmic_inventory_photons]]
+- [[Cosmic_inventory_photons_derivation]]
+- [[Photon decoupling and CMB]]
+- [[Saha equation and recombination]]
+- [[CMB anisotropies]]
+- [[CMB power spectrum]]
+- [[Polarization E and B modes]]
 - CMB Spectral Distortions — What They Are and Where They Come From
-- [Brief thermal history](Brief%20thermal%20history.html)
-- [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
+- [[Brief thermal history]]
+- [[Observational_Cosmology_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (1)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Observational_Cosmology_MOC]]
+
 

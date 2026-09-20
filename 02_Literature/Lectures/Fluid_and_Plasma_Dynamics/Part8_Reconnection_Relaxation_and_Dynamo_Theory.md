@@ -5,7 +5,7 @@ title: "Part8_Reconnection_Relaxation_and_Dynamo_Theory"
 # Part 8 - Reconnection, Relaxation, and Dynamo Theory
 
 *Course: Fluid and Plasma Dynamics, Prof. Maurizio Giacomin*  
-*Index: [Fluid_and_Plasma_Dynamics_MOC](../../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html) | Exam Guide: [Giacomin_Oral_Exam_Questions_Complete_Guide](./Giacomin_Oral_Exam_Questions_Complete_Guide.html)*  
+*Index: [[Fluid_and_Plasma_Dynamics_MOC]] | Exam Guide: [[Giacomin_Oral_Exam_Questions_Complete_Guide]]*  
 *Relevant Exam Questions: 26, 27, 28, 29, 30*  
 
 ---
@@ -300,14 +300,14 @@ This closed feedback loop self-consistently overcomes Ohmic decay, driving oscil
 ![Sweet-Parker vs Fast Petschek Reconnection Models](../../../assets/images/fluid_tearing_p04.png)
 *Figure FPD-14: Magnetic reconnection geometries: Sweet-Parker sheet reconnection scaling with Lundquist number as $\frac{v_{\mathrm{rec}}}{v_A} \sim S^{-1/2} \ll 1$ versus fast Petschek reconnection with open standing slow-mode shock outflow vents $\frac{v_{\mathrm{rec}}}{v_A} \sim \frac{\pi}{8 \ln S} \approx 0.01 - 0.1$.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Cowling%20anti-dynamo%20theorem%20and%20turbulent%20alpha-Omega%20dynamo.html" class="backlink-item">Cowling anti-dynamo theorem and turbulent alpha-Omega dynamo</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Reversed%20Field%20Pinch%20physics%20and%20RFX-mod%20experiment.html" class="backlink-item">Reversed Field Pinch physics and RFX-mod experiment</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Sweet-Parker%20magnetic%20reconnection%20and%20Lundquist%20number.html" class="backlink-item">Sweet-Parker magnetic reconnection and Lundquist number</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Woltjer%20helicity%20conservation%20and%20Taylor%20plasma%20relaxation.html" class="backlink-item">Woltjer helicity conservation and Taylor plasma relaxation</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Cowling anti-dynamo theorem and turbulent alpha-Omega dynamo]]
+- [[Reversed Field Pinch physics and RFX-mod experiment]]
+- [[Sweet-Parker magnetic reconnection and Lundquist number]]
+- [[Woltjer helicity conservation and Taylor plasma relaxation]]
+- [[Fluid_and_Plasma_Dynamics_MOC]]
+
 

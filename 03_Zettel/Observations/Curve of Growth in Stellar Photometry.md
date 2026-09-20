@@ -21,15 +21,15 @@ $$\Delta m_{\text{ap}} = -2.5 \log_{10}\left( \frac{F(r_{\text{large}})}{F(r_{\t
 Subtracting $\Delta m_{\text{ap}}$ brings small-aperture magnitudes onto the absolute total photometric scale.
 
 ## Related Notes
-- [Aperture Photometry and Optimal Aperture Selection](Aperture%20Photometry%20and%20Optimal%20Aperture%20Selection.html)
-- [Malavolta 05 - Local Background Subtraction and Aperture Photometry](../../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2005%20-%20Local%20Background%20Subtraction%20and%20Aperture%20Photometry.html)
+- [[Aperture Photometry and Optimal Aperture Selection]]
+- [[Malavolta 05 - Local Background Subtraction and Aperture Photometry]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Activities/Laboratory%20Exercise%20-%20Star%20Centroiding%20and%20Aperture%20Photometry%20Pipeline.html" class="backlink-item">Laboratory Exercise - Star Centroiding and Aperture Photometry Pipeline</a></li>
-    <li class="backlink-item-wrap"><a href="Aperture%20Photometry%20and%20Optimal%20Aperture%20Selection.html" class="backlink-item">Aperture Photometry and Optimal Aperture Selection</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Laboratory Exercise - Star Centroiding and Aperture Photometry Pipeline]]
+- [[Aperture Photometry and Optimal Aperture Selection]]
+- [[Astrophysics_Laboratory_2_MOC]]
+
 

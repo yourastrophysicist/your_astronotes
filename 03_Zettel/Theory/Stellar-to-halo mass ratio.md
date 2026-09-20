@@ -4,7 +4,7 @@ title: "Stellar-to-halo mass ratio"
 ---
 # stellar-to-halo mass ratio
 
-up: [Pablo_02_Statistical_properties_of_galaxies](../../02_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html)
+up: [[Pablo_02_Statistical_properties_of_galaxies]]
 
 ## the most informative single plot in galaxy evolution
 
@@ -26,7 +26,7 @@ at low mass:
 
 - $M_h = 10^{10}\,M_\odot$ → $M_*/M_h \sim 10^{-3}$, so $M_* \sim 10^7\,M_\odot$
 - only $\sim 1\%$ of the cosmic baryon budget makes it into stars
-- this is **SN feedback** (see [Halo gravity suppression of galaxy formation](Halo%20gravity%20suppression%20of%20galaxy%20formation.html))
+- this is **SN feedback** (see [[Halo gravity suppression of galaxy formation]])
 
 at high mass:
 
@@ -43,7 +43,7 @@ what *does* evolve: the halo mass function shifts to lower masses at high $z$ (f
 ## what abundance matching assumes
 
 - monotonic relation between $M_h$ and $M_*$ at fixed $z$ (no scatter, or controlled scatter)
-- both functions are correctly measured (the SMF, see [Stellar mass function](Stellar%20mass%20function.html), and the HMF from N-body or Press-Schechter)
+- both functions are correctly measured (the SMF, see [[Stellar mass function]], and the HMF from N-body or Press-Schechter)
 - no environmental dependence beyond what is captured by halo mass
 
 modern variants relax these (HOD models, conditional luminosity functions, splashback masses), but the SHMR is the simplest and most informative starting point.
@@ -54,10 +54,10 @@ every galaxy formation model lives or dies on this plot. you have one curve, one
 
 ## connections
 
-- function pair: [Halo mass function vs galaxy mass function](Halo%20mass%20function%20vs%20galaxy%20mass%20function.html)
-- mechanism: [Halo gravity suppression of galaxy formation](Halo%20gravity%20suppression%20of%20galaxy%20formation.html)
-- LF/SMF: [Stellar mass function](Stellar%20mass%20function.html)
-- big-picture: [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html) block 10
+- function pair: [[Halo mass function vs galaxy mass function]]
+- mechanism: [[Halo gravity suppression of galaxy formation]]
+- LF/SMF: [[Stellar mass function]]
+- big-picture: [[Observational_Cosmology_MOC]] block 10
 
 ## key references
 
@@ -65,13 +65,13 @@ every galaxy formation model lives or dies on this plot. you have one curve, one
 - Moster et al. 2013 (independent abundance matching)
 - Wechsler & Tinker 2018, ARAA 56, 435 (galaxy-halo connection review)
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Halo%20gravity%20suppression%20of%20galaxy%20formation.html" class="backlink-item">Halo gravity suppression of galaxy formation</a></li>
-    <li class="backlink-item-wrap"><a href="Halo%20mass%20function%20vs%20galaxy%20mass%20function.html" class="backlink-item">Halo mass function vs galaxy mass function</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20mass%20function.html" class="backlink-item">Stellar mass function</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Halo gravity suppression of galaxy formation]]
+- [[Halo mass function vs galaxy mass function]]
+- [[Stellar mass function]]
+- [[Observational_Cosmology_MOC]]
+
 

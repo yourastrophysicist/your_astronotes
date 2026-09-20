@@ -7,7 +7,7 @@ tags: ""
 
 *Course: Astrophysics of the Interstellar Medium, Master in Astrophysics and Cosmology, Università degli Studi di Padova*  
 *Lecturer: Prof. Giovanni Carraro*  
-*Index: [Astrophysics_of_the_Interstellar_Medium_MOC](../../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html)*
+*Index: [[Astrophysics_of_the_Interstellar_Medium_MOC]]*
 
 ---
 
@@ -260,13 +260,13 @@ these IR lines:
 
 ## see also
 
-- [Astrophysics_of_the_Interstellar_Medium_MOC](../../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html)
+- [[Astrophysics_of_the_Interstellar_Medium_MOC]]
 - HII regions and Strömgren sphere physics
-- [Forbidden line diagnostics of electron temperature and density](../../../03_Zettel/Theory/Forbidden%20line%20diagnostics%20of%20electron%20temperature%20and%20density.html)
-- [Primordial helium abundance from HII regions](../../../03_Zettel/Theory/Primordial%20helium%20abundance%20from%20HII%20regions.html)
-- [Carraro_01_Introduction_and_Multi-phase_ISM](./Carraro_01_Introduction_and_Multi-phase_ISM.html)
-- [Carraro_04_Massive_Stars_Feedback_and_Stellar_Winds](./Carraro_04_Massive_Stars_Feedback_and_Stellar_Winds.html)
-- [BBN_overview](../../../03_Zettel/Theory/BBN_overview.html)
+- [[Forbidden line diagnostics of electron temperature and density]]
+- [[Primordial helium abundance from HII regions]]
+- [[Carraro_01_Introduction_and_Multi-phase_ISM]]
+- [[Carraro_04_Massive_Stars_Feedback_and_Stellar_Winds]]
+- [[BBN_overview]]
 
 
 ## Lecture Visuals & Strömgren Physics
@@ -277,13 +277,13 @@ these IR lines:
 ![Optical Emission Diagnostics and Forbidden Lines](../../../assets/images/ism_hii_p03.png)
 *Figure ISM-04: Diagnostic optical emission line spectra of photoionized HII gas showing collisionally excited forbidden lines $[O III]\,\lambda\lambda 4959, 5007$, $[N II]\,\lambda\lambda 6548, 6584$, and $[S II]\,\lambda\lambda 6716, 6731$ used to measure electron temperature $T_e$ and density $n_e$.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Forbidden%20line%20diagnostics%20of%20electron%20temperature%20and%20density.html" class="backlink-item">Forbidden line diagnostics of electron temperature and density</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/HII%20regions%20and%20Stromgren%20sphere%20physics.html" class="backlink-item">HII regions and Stromgren sphere physics</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Primordial%20helium%20abundance%20from%20HII%20regions.html" class="backlink-item">Primordial helium abundance from HII regions</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html" class="backlink-item">Astrophysics_of_the_Interstellar_Medium_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Forbidden line diagnostics of electron temperature and density]]
+- [[HII regions and Stromgren sphere physics]]
+- [[Primordial helium abundance from HII regions]]
+- [[Astrophysics_of_the_Interstellar_Medium_MOC]]
+
 

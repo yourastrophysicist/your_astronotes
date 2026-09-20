@@ -26,17 +26,17 @@ $$\hat{R} = \sqrt{\frac{\text{Var}^+(\theta)}{W}} < 1.05$$
 Values close to 1.0 indicate proper mixing across the parameter space.
 
 ## Related Notes
-- [Affine-Invariant Ensemble MCMC with emcee](Affine-Invariant%20Ensemble%20MCMC%20with%20emcee.html)
-- [Marginalized Posterior Distributions and Corner Plots](Marginalized%20Posterior%20Distributions%20and%20Corner%20Plots.html)
+- [[Affine-Invariant Ensemble MCMC with emcee]]
+- [[Marginalized Posterior Distributions and Corner Plots]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Activities/Laboratory%20Exercise%20-%20Joint%20Transit%20Modeling%20and%20MCMC%20Analysis.html" class="backlink-item">Laboratory Exercise - Joint Transit Modeling and MCMC Analysis</a></li>
-    <li class="backlink-item-wrap"><a href="Affine-Invariant%20Ensemble%20MCMC%20with%20emcee.html" class="backlink-item">Affine-Invariant Ensemble MCMC with emcee</a></li>
-    <li class="backlink-item-wrap"><a href="Marginalized%20Posterior%20Distributions%20and%20Corner%20Plots.html" class="backlink-item">Marginalized Posterior Distributions and Corner Plots</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Laboratory Exercise - Joint Transit Modeling and MCMC Analysis]]
+- [[Affine-Invariant Ensemble MCMC with emcee]]
+- [[Marginalized Posterior Distributions and Corner Plots]]
+- [[Astrophysics_Laboratory_2_MOC]]
+- [[Computational_Astrophysics_MOC]]
+
 

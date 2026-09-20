@@ -61,33 +61,33 @@ a key fact: matter dominated **before** recombination ($z_{\rm eq} \approx 3400 
 
 ## see also
 
-- [Cosmic eras](Cosmic%20eras.html)
-- [Equation of state and density scaling](Equation%20of%20state%20and%20density%20scaling.html)
-- [Continuity equation](Continuity%20equation.html)
-- [Friedmann equations](Friedmann%20equations.html)
-- [FLRW metric](FLRW%20metric.html)
-- [Cosmic_inventory_overview](Cosmic_inventory_overview.html)
-- [Brief thermal history](Brief%20thermal%20history.html)
-- [Saha equation and recombination](Saha%20equation%20and%20recombination.html)
-- [Photon decoupling and CMB](Photon%20decoupling%20and%20CMB.html)
-- [Matter power spectrum and BAO](Matter%20power%20spectrum%20and%20BAO.html)
+- [[Cosmic eras]]
+- [[Equation of state and density scaling]]
+- [[Continuity equation]]
+- [[Friedmann equations]]
+- [[FLRW metric]]
+- [[Cosmic_inventory_overview]]
+- [[Brief thermal history]]
+- [[Saha equation and recombination]]
+- [[Photon decoupling and CMB]]
+- [[Matter power spectrum and BAO]]
 - Q20 - matter plus radiation universe
-- [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
-- [Ch 7 - Cosmology](../../02_Literature/Book/Baumann%20GR/Ch%207%20-%20Cosmology.html)
+- [[General_Relativity_MOC]]
+- [[Ch 7 - Cosmology]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (10)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Continuity%20equation.html" class="backlink-item">Continuity equation</a></li>
-    <li class="backlink-item-wrap"><a href="Cosmic%20eras.html" class="backlink-item">Cosmic eras</a></li>
-    <li class="backlink-item-wrap"><a href="Cosmological%20evolution%20of%20perturbations%20in%20the%20cosmic%20fluid.html" class="backlink-item">Cosmological evolution of perturbations in the cosmic fluid</a></li>
-    <li class="backlink-item-wrap"><a href="Equation%20of%20state%20and%20density%20scaling.html" class="backlink-item">Equation of state and density scaling</a></li>
-    <li class="backlink-item-wrap"><a href="FLRW%20metric.html" class="backlink-item">FLRW metric</a></li>
-    <li class="backlink-item-wrap"><a href="Friedmann%20equations.html" class="backlink-item">Friedmann equations</a></li>
-    <li class="backlink-item-wrap"><a href="Matter%20vs%20radiation%20density%20scaling.html" class="backlink-item">Matter vs radiation density scaling</a></li>
-    <li class="backlink-item-wrap"><a href="Perturbations%20in%20an%20expanding%20universe.html" class="backlink-item">Perturbations in an expanding universe</a></li>
-    <li class="backlink-item-wrap"><a href="Transition%20epochs.html" class="backlink-item">Transition epochs</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Continuity equation]]
+- [[Cosmic eras]]
+- [[Cosmological evolution of perturbations in the cosmic fluid]]
+- [[Equation of state and density scaling]]
+- [[FLRW metric]]
+- [[Friedmann equations]]
+- [[Matter vs radiation density scaling]]
+- [[Perturbations in an expanding universe]]
+- [[Transition epochs]]
+- [[General_Relativity_MOC]]
+
 

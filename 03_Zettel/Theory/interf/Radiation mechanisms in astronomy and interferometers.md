@@ -111,19 +111,18 @@ source: local schematic plot generated from standard qualitative spectral scalin
 
 ## see also
 
-- [Radio astronomy basics](Radio%20astronomy%20basics.html)
-- [Polarization in interferometry](Polarization%20in%20interferometry.html)
-- [Young stellar object disks](Young%20stellar%20object%20disks.html)
-- [AGN and supermassive black holes](AGN%20and%20supermassive%20black%20holes.html)
-- [Cosmological masers](Cosmological%20masers.html)
+- [[Radio astronomy basics]]
+- [[Polarization in interferometry]]
+- [[Young stellar object disks]]
+- [[AGN and supermassive black holes]]
+- [[Cosmological masers]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="../Polarization%20in%20interferometry.html" class="backlink-item">Polarization in interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Figure bank - interferometry]]
+- [[Polarization in interferometry]]
+- [[Astronomical_Interferometry_MOC]]
+
 

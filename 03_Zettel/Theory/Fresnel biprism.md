@@ -56,8 +56,8 @@ same as Young's experiment:
 
 ## see also
 
-- [Wavefront-division interferometers](interf/Wavefront-division%20interferometers.html)
-- [Fresnel double mirror](interf/Fresnel%20double%20mirror.html)
-- [Lloyd mirror](interf/Lloyd%20mirror.html)
-- [Young experiment as a stellar interferometer](interf/Young%20experiment%20as%20a%20stellar%20interferometer.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Wavefront-division interferometers]]
+- [[Fresnel double mirror]]
+- [[Lloyd mirror]]
+- [[Young experiment as a stellar interferometer]]
+- [[Astronomical_Interferometry_MOC]]

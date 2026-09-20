@@ -4,7 +4,7 @@ title: "Molecular clouds"
 ---
 # Molecular Clouds
 
-Parent [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html) · [Schmidt-Kennicutt law](Schmidt-Kennicutt%20law.html) · [H I regions](H%20I%20regions.html)
+Parent [[Astrophysics_of_Galaxies_MOC]] · [[Schmidt-Kennicutt law]] · [[H I regions]]
 
 ## 1. Physical Properties of Giant Molecular Clouds (GMCs)
 
@@ -202,9 +202,9 @@ Key quantitative takeaways for the blackboard
 
 ## Connections
 
-- Star formation physics - [Schmidt-Kennicutt law](Schmidt-Kennicutt%20law.html), Star formation efficiency and timescales
-- ISM phases - [H I regions](H%20I%20regions.html), [Interstellar medium components and gas cycle](Interstellar%20medium%20components%20and%20gas%20cycle.html)
-- Photodissociation - [Photodissociation regions PDRs](Photodissociation%20regions%20PDRs.html), [Ionisation stratification](Ionisation%20stratification.html)
+- Star formation physics - [[Schmidt-Kennicutt law]], Star formation efficiency and timescales
+- ISM phases - [[H I regions]], [[Interstellar medium components and gas cycle]]
+- Photodissociation - [[Photodissociation regions PDRs]], [[Ionisation stratification]]
 
 ---
 
@@ -222,14 +222,14 @@ Key quantitative takeaways for the blackboard
 
 ![gal_ism-18.png](../../assets/images/gal_ism-18.png)
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="H%20I%20regions.html" class="backlink-item">H I regions</a></li>
-    <li class="backlink-item-wrap"><a href="H%20II%20region%20spectroscopy.html" class="backlink-item">H II region spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="Photodissociation%20regions%20PDRs.html" class="backlink-item">Photodissociation regions PDRs</a></li>
-    <li class="backlink-item-wrap"><a href="Schmidt-Kennicutt%20law.html" class="backlink-item">Schmidt-Kennicutt law</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[H I regions]]
+- [[H II region spectroscopy]]
+- [[Photodissociation regions PDRs]]
+- [[Schmidt-Kennicutt law]]
+- [[Astrophysics_of_Galaxies_MOC]]
+
 

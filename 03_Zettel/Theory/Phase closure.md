@@ -48,5 +48,5 @@ Closure phase is the saving grace of environments where the atmosphere cannot be
 
 ## connections & zettel links
 
-* parent moc: [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-* related zettels: [The phase problem in interferometry](interf/The%20phase%20problem%20in%20interferometry.html), [Closure amplitude](interf/Closure%20amplitude.html), [Self-calibration](interf/Self-calibration.html), [Bispectrum and triple correlation](interf/Bispectrum%20and%20triple%20correlation.html)
+* parent moc: [[Astronomical_Interferometry_MOC]]
+* related zettels: [[The phase problem in interferometry]], [[Closure amplitude]], [[Self-calibration]], [[Bispectrum and triple correlation]]

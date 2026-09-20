@@ -23,20 +23,20 @@ two sub-phases:
 CMD signatures. AGB stars sit slightly *blueward* of the RGB at low $L$ but reach $L$ above the RGB tip. they are sparsely populated in low-mass clusters because the TP-AGB lifetime is short ($\sim 10^6$ yr); old MW GCs typically show a handful of AGB stars. the **AGB clump** or "AGB bump" is the analogue of the RGB bump for AGB stars. dusty AGBs are bright in mid-IR and provide the dominant *near-IR luminosity* of intermediate-age (1-2 Gyr) populations, complicating SSP models.
 
 ## see also
-- [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
-- [Helium flash and horizontal branch](Helium%20flash%20and%20horizontal%20branch.html)
-- [White dwarf cooling sequence on the CMD](White%20dwarf%20cooling%20sequence%20on%20the%20CMD.html)
-- [Red giant branch RGB](Red%20giant%20branch%20RGB.html)
-- [Single stellar population SSP](Single%20stellar%20population%20SSP.html)
-- [Stellar evolutionary phases on the CMD](Stellar%20evolutionary%20phases%20on%20the%20CMD.html)
+- [[Stellar_Astrophysics_MOC]]
+- [[Helium flash and horizontal branch]]
+- [[White dwarf cooling sequence on the CMD]]
+- [[Red giant branch RGB]]
+- [[Single stellar population SSP]]
+- [[Stellar evolutionary phases on the CMD]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Helium%20flash%20and%20horizontal%20branch.html" class="backlink-item">Helium flash and horizontal branch</a></li>
-    <li class="backlink-item-wrap"><a href="Photometric%20chromosome%20maps.html" class="backlink-item">Photometric chromosome maps</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20evolutionary%20phases%20on%20the%20CMD.html" class="backlink-item">Stellar evolutionary phases on the CMD</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Helium flash and horizontal branch]]
+- [[Photometric chromosome maps]]
+- [[Stellar evolutionary phases on the CMD]]
+- [[Stellar_Astrophysics_MOC]]
+
 

@@ -25,15 +25,15 @@ A corner plot (Foreman-Mackey 2016) displays:
 - Off-diagonal: 2D joint contour projections displaying parameter degeneracies (e.g., the classic banana-shaped correlation between scaled semi-major axis $a/R_\star$ and inclination $i$).
 
 ## Related Notes
-- [Affine-Invariant Ensemble MCMC with emcee](Affine-Invariant%20Ensemble%20MCMC%20with%20emcee.html)
-- [MCMC Convergence Diagnostics and Autocorrelation Analysis](MCMC%20Convergence%20Diagnostics%20and%20Autocorrelation%20Analysis.html)
+- [[Affine-Invariant Ensemble MCMC with emcee]]
+- [[MCMC Convergence Diagnostics and Autocorrelation Analysis]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="MCMC%20Convergence%20Diagnostics%20and%20Autocorrelation%20Analysis.html" class="backlink-item">MCMC Convergence Diagnostics and Autocorrelation Analysis</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[MCMC Convergence Diagnostics and Autocorrelation Analysis]]
+- [[Astrophysics_Laboratory_2_MOC]]
+- [[Computational_Astrophysics_MOC]]
+
 

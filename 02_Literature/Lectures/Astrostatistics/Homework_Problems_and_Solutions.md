@@ -5,7 +5,7 @@ title: "Homework_Problems_and_Solutions"
 # Astrostatistics Homework Problems and Complete Solutions
 
 Graduate problem set solutions in Astro-Statistics and Cosmology, taught by Prof. Michele Liguori at the University of Padua.
-Reference index [Astro-Statistics_and_Cosmology_MOC](../../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html)
+Reference index [[Astro-Statistics_and_Cosmology_MOC]]
 
 ---
 
@@ -606,16 +606,16 @@ The MAP frequency coincides with standard least squares fitting whenever the noi
 
 ## Conceptual Connections
 
-- [Astro-Statistics_and_Cosmology_MOC](../../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html) - Master syllabus map of content
-- [01_Plausible_Reasoning_Cox_Theorem_and_Bayesian_Foundations](./01_Plausible_Reasoning_Cox_Theorem_and_Bayesian_Foundations.html) - Foundational rules for Problems 1, 2, and 3
-- [03_Multivariate_Gaussians_Marginalization_Conditioning_and_Linear_Models](./03_Multivariate_Gaussians_Marginalization_Conditioning_and_Linear_Models.html) - Theory for Problems 4, 5, 6, 7, 8, and 9
-- [05_Monte_Carlo_Metropolis_Hastings_and_MCMC_Convergence_Diagnostics](./05_Monte_Carlo_Metropolis_Hastings_and_MCMC_Convergence_Diagnostics.html) - MCMC sampling implementations for Problem 7
-- [10_Prior_Assignment_Transformation_Invariance_and_Maximum_Entropy](./10_Prior_Assignment_Transformation_Invariance_and_Maximum_Entropy.html) - Regularization priors for Problem 10
+- [[Astro-Statistics_and_Cosmology_MOC]] - Master syllabus map of content
+- [[01_Plausible_Reasoning_Cox_Theorem_and_Bayesian_Foundations]] - Foundational rules for Problems 1, 2, and 3
+- [[03_Multivariate_Gaussians_Marginalization_Conditioning_and_Linear_Models]] - Theory for Problems 4, 5, 6, 7, 8, and 9
+- [[05_Monte_Carlo_Metropolis_Hastings_and_MCMC_Convergence_Diagnostics]] - MCMC sampling implementations for Problem 7
+- [[10_Prior_Assignment_Transformation_Invariance_and_Maximum_Entropy]] - Regularization priors for Problem 10
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (1)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Astro-Statistics_and_Cosmology_MOC]]
+
 

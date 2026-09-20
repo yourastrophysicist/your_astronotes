@@ -114,16 +114,16 @@ the exam happens at a real computer running Linux/macOS. when I write a python s
 
 ## see also
 
-- [Python language essentials](Python%20language%20essentials.html)
-- [The conda environment](The%20conda%20environment.html)
-- [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
+- [[Python language essentials]]
+- [[The conda environment]]
+- [[Mathematical_Numerical_Methods_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Python%20language%20essentials.html" class="backlink-item">Python language essentials</a></li>
-    <li class="backlink-item-wrap"><a href="The%20conda%20environment.html" class="backlink-item">The conda environment</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Python language essentials]]
+- [[The conda environment]]
+- [[Mathematical_Numerical_Methods_MOC]]
+
 

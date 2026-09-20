@@ -5,7 +5,7 @@ title: "Malavolta 12 - Transit Parameter Estimation and Likelihood Optimization"
 # Malavolta 12 — Transit Parameter Estimation and Likelihood Optimization
 
 *Astrophysics Laboratory 2, Prof. Luca Malavolta*  
-*Index: [Astrophysics_Laboratory_2_MOC](../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html)*
+*Index: [[Astrophysics_Laboratory_2_MOC]]*
 
 ---
 
@@ -91,10 +91,10 @@ def log_likelihood(theta, time_taste, flux_taste, err_taste,
 ---
 
 ## Related Notes
-- [Likelihood Function for Photometric Time Series](../../../03_Zettel/Theory/Likelihood%20Function%20for%20Photometric%20Time%20Series.html)
-- [Prior Probability Distributions in Exoplanet Fitting](../../../03_Zettel/Theory/Prior%20Probability%20Distributions%20in%20Exoplanet%20Fitting.html)
-- [Malavolta 13 - Bayesian Statistics and Markov Chain Monte Carlo Sampling](./Malavolta%2013%20-%20Bayesian%20Statistics%20and%20Markov%20Chain%20Monte%20Carlo%20Sampling.html)
-- [Laboratory Exercise - Joint Transit Modeling and MCMC Analysis](../../../03_Zettel/Activities/Laboratory%20Exercise%20-%20Joint%20Transit%20Modeling%20and%20MCMC%20Analysis.html)
+- [[Likelihood Function for Photometric Time Series]]
+- [[Prior Probability Distributions in Exoplanet Fitting]]
+- [[Malavolta 13 - Bayesian Statistics and Markov Chain Monte Carlo Sampling]]
+- [[Laboratory Exercise - Joint Transit Modeling and MCMC Analysis]]
 
 
 ## Laboratory Visuals & Optimization Landscapes
@@ -105,11 +105,11 @@ def log_likelihood(theta, time_taste, flux_taste, err_taste,
 ![Residuals and Goodness-of-Fit Analysis](../../../assets/images/lab2_transit_fit_p02.png)
 *Figure LAB2-09: Best-fit transit model overlay and photometric residuals. Autocorrelation and Durbin-Watson statistics are computed to confirm the absence of residual correlated systematic noise.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Likelihood%20Function%20for%20Photometric%20Time%20Series.html" class="backlink-item">Likelihood Function for Photometric Time Series</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Likelihood Function for Photometric Time Series]]
+- [[Astrophysics_Laboratory_2_MOC]]
+
 

@@ -187,19 +187,19 @@ prints Tim Peters' aphorisms: *Beautiful is better than ugly. Explicit is better
 
 ## see also
 
-- [Numpy arrays vs Python lists](Numpy%20arrays%20vs%20Python%20lists.html) — the essential next step
-- [Matplotlib plotting essentials](Matplotlib%20plotting%20essentials.html)
-- [The conda environment](The%20conda%20environment.html)
-- [Linux for the astrophysicist](Linux%20for%20the%20astrophysicist.html)
-- [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
+- [[Numpy arrays vs Python lists]] — the essential next step
+- [[Matplotlib plotting essentials]]
+- [[The conda environment]]
+- [[Linux for the astrophysicist]]
+- [[Mathematical_Numerical_Methods_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Linux%20for%20the%20astrophysicist.html" class="backlink-item">Linux for the astrophysicist</a></li>
-    <li class="backlink-item-wrap"><a href="Numpy%20arrays%20vs%20Python%20lists.html" class="backlink-item">Numpy arrays vs Python lists</a></li>
-    <li class="backlink-item-wrap"><a href="The%20conda%20environment.html" class="backlink-item">The conda environment</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Linux for the astrophysicist]]
+- [[Numpy arrays vs Python lists]]
+- [[The conda environment]]
+- [[Mathematical_Numerical_Methods_MOC]]
+
 

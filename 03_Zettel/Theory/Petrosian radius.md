@@ -209,12 +209,12 @@ When illustrating the Petrosian radius on the blackboard.
 
 ## 8. See Also
 
-- [Sersic profile](Sersic%20profile.html)
-- [De Vaucouleurs and exponential profiles](De%20Vaucouleurs%20and%20exponential%20profiles.html)
-- [CAS galaxy classification](CAS%20galaxy%20classification.html)
-- [Color bimodality of galaxies](Color%20bimodality%20of%20galaxies.html)
-- [SDSS overview](SDSS%20overview.html)
-- [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html)
+- [[Sersic profile]]
+- [[De Vaucouleurs and exponential profiles]]
+- [[CAS galaxy classification]]
+- [[Color bimodality of galaxies]]
+- [[SDSS overview]]
+- [[Astrophysics_of_Galaxies_MOC]]
 
 ---
 
@@ -248,17 +248,17 @@ When illustrating the Petrosian radius on the blackboard.
 
 ![gal_lf2-18.png](../../assets/images/gal_lf2-18.png)
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (8)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="CAS%20galaxy%20classification.html" class="backlink-item">CAS galaxy classification</a></li>
-    <li class="backlink-item-wrap"><a href="De%20Vaucouleurs%20and%20exponential%20profiles.html" class="backlink-item">De Vaucouleurs and exponential profiles</a></li>
-    <li class="backlink-item-wrap"><a href="Low%20surface%20brightness%20galaxies.html" class="backlink-item">Low surface brightness galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="Luminosity%20function%20definition.html" class="backlink-item">Luminosity function definition</a></li>
-    <li class="backlink-item-wrap"><a href="SDSS%20overview.html" class="backlink-item">SDSS overview</a></li>
-    <li class="backlink-item-wrap"><a href="Schechter%20function%20in%20magnitudes.html" class="backlink-item">Schechter function in magnitudes</a></li>
-    <li class="backlink-item-wrap"><a href="Sersic%20profile.html" class="backlink-item">Sersic profile</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[CAS galaxy classification]]
+- [[De Vaucouleurs and exponential profiles]]
+- [[Low surface brightness galaxies]]
+- [[Luminosity function definition]]
+- [[SDSS overview]]
+- [[Schechter function in magnitudes]]
+- [[Sersic profile]]
+- [[Astrophysics_of_Galaxies_MOC]]
+
 

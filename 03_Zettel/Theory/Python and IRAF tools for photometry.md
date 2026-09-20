@@ -97,9 +97,9 @@ practical full pipelines (DRAGONS, STScI's calibration pipelines) wrap many such
 
 ## see also
 
-- [CCD calibration steps](CCD%20calibration%20steps.html)
-- [Aperture photometry](Aperture%20photometry.html)
-- [PSF photometry](PSF%20photometry.html)
-- [Photometric standard stars](Photometric%20standard%20stars.html)
-- [Survey resources for Obs Astro](Survey%20resources%20for%20Obs%20Astro.html)
-- [Useful constants and conversions](Useful%20constants%20and%20conversions.html)
+- [[CCD calibration steps]]
+- [[Aperture photometry]]
+- [[PSF photometry]]
+- [[Photometric standard stars]]
+- [[Survey resources for Obs Astro]]
+- [[Useful constants and conversions]]

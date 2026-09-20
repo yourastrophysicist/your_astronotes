@@ -99,7 +99,7 @@ solutions: closed-loop calibration, redundant actuators, replaceable mirror sect
 
 ## see also
 
-- [Adaptive optics](interf/Adaptive%20optics.html)
-- [Wavefront sensors](interf/Wavefront%20sensors.html)
-- [Guide stars and laser guide stars](interf/Guide%20stars%20and%20laser%20guide%20stars.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Adaptive optics]]
+- [[Wavefront sensors]]
+- [[Guide stars and laser guide stars]]
+- [[Astronomical_Interferometry_MOC]]

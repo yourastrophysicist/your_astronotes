@@ -181,16 +181,16 @@ plt.rcParams.update({'font.size': 12, 'figure.dpi': 100})
 
 ## see also
 
-- [Numpy arrays vs Python lists](Numpy%20arrays%20vs%20Python%20lists.html)
-- [Matplotlib plotting essentials](Matplotlib%20plotting%20essentials.html)
-- [Pandas for tabular astrophysics data](Pandas%20for%20tabular%20astrophysics%20data.html)
-- [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
+- [[Numpy arrays vs Python lists]]
+- [[Matplotlib plotting essentials]]
+- [[Pandas for tabular astrophysics data]]
+- [[Mathematical_Numerical_Methods_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Pandas%20for%20tabular%20astrophysics%20data.html" class="backlink-item">Pandas for tabular astrophysics data</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Pandas for tabular astrophysics data]]
+- [[Mathematical_Numerical_Methods_MOC]]
+
 

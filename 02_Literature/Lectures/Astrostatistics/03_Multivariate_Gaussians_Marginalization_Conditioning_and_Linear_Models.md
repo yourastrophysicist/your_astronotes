@@ -5,7 +5,7 @@ title: "03_Multivariate_Gaussians_Marginalization_Conditioning_and_Linear_Models
 # Multivariate Gaussians, Marginalization, Conditioning, and Linear Models
 
 Graduate lecture notes in Astro-Statistics and Cosmology, taught by Prof. Michele Liguori at the University of Padua.
-Reference index [Astro-Statistics_and_Cosmology_MOC](../../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html)
+Reference index [[Astro-Statistics_and_Cosmology_MOC]]
 
 ---
 
@@ -245,18 +245,18 @@ is itself an unnormalized multivariate Gaussian distribution in Fourier space, c
 
 ## Conceptual Connections
 
-- [Astro-Statistics_and_Cosmology_MOC](../../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html) - Master syllabus map of content
-- [02_Parameter_Estimation_Gaussian_Noise_and_Credible_Intervals](./02_Parameter_Estimation_Gaussian_Noise_and_Credible_Intervals.html) - General likelihood and Bayesian error estimation
-- [06_Fisher_Information_Matrix_Cramer_Rao_Bound_and_Survey_Forecasting](./06_Fisher_Information_Matrix_Cramer_Rao_Bound_and_Survey_Forecasting.html) - Curvature of Gaussian likelihoods and forecasting
-- [07_CMB_Power_Spectrum_Likelihood_Analysis_and_Cosmic_Variance](./07_CMB_Power_Spectrum_Likelihood_Analysis_and_Cosmic_Variance.html) - Application of Gaussian random fields to CMB temperature maps
-- [Homework_Problems_and_Solutions](./Homework_Problems_and_Solutions.html) - Numerical and analytical solutions for Homework problems 4, 5, 6, 7, 8, and 9
+- [[Astro-Statistics_and_Cosmology_MOC]] - Master syllabus map of content
+- [[02_Parameter_Estimation_Gaussian_Noise_and_Credible_Intervals]] - General likelihood and Bayesian error estimation
+- [[06_Fisher_Information_Matrix_Cramer_Rao_Bound_and_Survey_Forecasting]] - Curvature of Gaussian likelihoods and forecasting
+- [[07_CMB_Power_Spectrum_Likelihood_Analysis_and_Cosmic_Variance]] - Application of Gaussian random fields to CMB temperature maps
+- [[Homework_Problems_and_Solutions]] - Numerical and analytical solutions for Homework problems 4, 5, 6, 7, 8, and 9
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Generalized%20least%20squares%20and%20correlated%20measurement%20errors.html" class="backlink-item">Generalized least squares and correlated measurement errors</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Multivariate%20Gaussian%20conditioning%20and%20marginalization.html" class="backlink-item">Multivariate Gaussian conditioning and marginalization</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Generalized least squares and correlated measurement errors]]
+- [[Multivariate Gaussian conditioning and marginalization]]
+- [[Astro-Statistics_and_Cosmology_MOC]]
+
 

@@ -4,7 +4,7 @@ title: "X-ray SFR tracer"
 ---
 # X-ray SFR tracer
 
-up: [Pablo_03_Star_formation_in_galaxies](../../02_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html)
+up: [[Pablo_03_Star_formation_in_galaxies]]
 
 ## where the X-rays come from
 
@@ -41,10 +41,10 @@ the relation between $L_X$ and SFR evolves: $L_X / \text{SFR} \propto (1+z)^\bet
 
 ## connections
 
-- dual-band check: [IR SFR tracer](IR%20SFR%20tracer.html)
+- dual-band check: [[IR SFR tracer]]
 - AGN identification: X-ray colour, SED fitting
-- other extinction-free tracer: [Radio SFR tracer](Radio%20SFR%20tracer.html)
-- comparison: [SFR tracer comparison](SFR%20tracer%20comparison.html)
+- other extinction-free tracer: [[Radio SFR tracer]]
+- comparison: [[SFR tracer comparison]]
 
 ## key references
 
@@ -52,13 +52,13 @@ the relation between $L_X$ and SFR evolves: $L_X / \text{SFR} \propto (1+z)^\bet
 - Mineo, Gilfanov, Sunyaev 2012, 2014 (Chandra HMXB calibration)
 - Lehmer et al. 2016 ApJ 825, 7 (metallicity dependence)
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Free-free%20continuum.html" class="backlink-item">Free-free continuum</a></li>
-    <li class="backlink-item-wrap"><a href="Radio%20SFR%20tracer.html" class="backlink-item">Radio SFR tracer</a></li>
-    <li class="backlink-item-wrap"><a href="SFR%20tracer%20comparison.html" class="backlink-item">SFR tracer comparison</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Free-free continuum]]
+- [[Radio SFR tracer]]
+- [[SFR tracer comparison]]
+- [[Observational_Cosmology_MOC]]
+
 

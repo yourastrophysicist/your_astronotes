@@ -4,7 +4,7 @@ title: "MOND"
 ---
 # Modified Newtonian Dynamics (MOND)
 
-Parent [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html) · [Dark matter rotation curves](Dark%20matter%20rotation%20curves.html) · [Tully-Fisher relation](Tully-Fisher%20relation.html)
+Parent [[Astrophysics_of_Galaxies_MOC]] · [[Dark matter rotation curves]] · [[Tully-Fisher relation]]
 
 ## 1. Physical Motivation and Fundamental Acceleration Scale
 
@@ -196,9 +196,9 @@ Key takeaways for the blackboard
 
 ## Connections
 
-- Rotation curves - [Dark matter rotation curves](Dark%20matter%20rotation%20curves.html), [Dark matter in dwarf galaxies](Dark%20matter%20in%20dwarf%20galaxies.html)
-- Scaling laws - [Tully-Fisher relation](Tully-Fisher%20relation.html), [Faber-Jackson relation](Faber-Jackson%20relation.html)
-- Cosmological context - [Cosmic_inventory_dark_matter](Cosmic_inventory_dark_matter.html), [ΛCDM current parameters](%CE%9BCDM%20current%20parameters.html)
+- Rotation curves - [[Dark matter rotation curves]], [[Dark matter in dwarf galaxies]]
+- Scaling laws - [[Tully-Fisher relation]], [[Faber-Jackson relation]]
+- Cosmological context - [[Cosmic_inventory_dark_matter]], [[ΛCDM current parameters]]
 
 ---
 
@@ -247,13 +247,13 @@ Key takeaways for the blackboard
 
 ![gal_dm-70.png](../../assets/images/gal_dm-70.png)
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Bullet%20Cluster%20and%20dark%20matter%20mapping.html" class="backlink-item">Bullet Cluster and dark matter mapping</a></li>
-    <li class="backlink-item-wrap"><a href="Dark%20matter%20in%20dwarf%20galaxies.html" class="backlink-item">Dark matter in dwarf galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="Dark%20matter%20rotation%20curves.html" class="backlink-item">Dark matter rotation curves</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Bullet Cluster and dark matter mapping]]
+- [[Dark matter in dwarf galaxies]]
+- [[Dark matter rotation curves]]
+- [[Astrophysics_of_Galaxies_MOC]]
+
 

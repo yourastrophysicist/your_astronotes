@@ -174,11 +174,11 @@ Conclusion - To derive robust cosmological luminosity functions and volume densi
 
 ## 7. Cross-References and Related Notes
 
-- [UV luminosity function](UV%20luminosity%20function.html) - Redshift evolution of UV Schechter parameters and reionization
-- [Madau plot](Madau%20plot.html) - Cosmic star formation rate density accumulation
-- [CAS galaxy classification](CAS%20galaxy%20classification.html) - Quantitative morphology in deep fields
-- [SDSS overview](SDSS%20overview.html) - Wide-field ground-based spectroscopic survey
-- [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html) - Master Map of Content for course
+- [[UV luminosity function]] - Redshift evolution of UV Schechter parameters and reionization
+- [[Madau plot]] - Cosmic star formation rate density accumulation
+- [[CAS galaxy classification]] - Quantitative morphology in deep fields
+- [[SDSS overview]] - Wide-field ground-based spectroscopic survey
+- [[Astrophysics_of_Galaxies_MOC]] - Master Map of Content for course
 
 ---
 
@@ -193,12 +193,12 @@ Conclusion - To derive robust cosmological luminosity functions and volume densi
 ![madau2014_survey_sizes.png](../../assets/images/madau2014_survey_sizes.png)
 *Figure 3 - Comparison of cosmic volumes and areas probed by pencil-beam vs wide-angle deep surveys.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Protocluster%20detection%20techniques.html" class="backlink-item">Protocluster detection techniques</a></li>
-    <li class="backlink-item-wrap"><a href="UV%20luminosity%20function.html" class="backlink-item">UV luminosity function</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Protocluster detection techniques]]
+- [[UV luminosity function]]
+- [[Astrophysics_of_Galaxies_MOC]]
+
 

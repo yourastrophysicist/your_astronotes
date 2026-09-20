@@ -20,7 +20,7 @@ these are *orders of magnitude* better than optical astrometry (Gaia: ~10 μas f
 
 ### 1. dynamical masses
 
-precise binary-star astrometry → orbital parameters → dynamical masses. precision $\sim 1\%$ for many systems (see [Binary star orbits](Binary%20star%20orbits.html)).
+precise binary-star astrometry → orbital parameters → dynamical masses. precision $\sim 1\%$ for many systems (see [[Binary star orbits]]).
 
 ### 2. cosmological distance ladder
 
@@ -63,8 +63,8 @@ proposed (or canceled) space-based microarcsecond astrometric missions. SIM was 
 
 ## see also
 
-- [Binary star orbits](Binary%20star%20orbits.html)
-- [Pulsar interferometry](Pulsar%20interferometry.html)
-- [Cosmological masers](Cosmological%20masers.html)
-- [Galactic Center Sgr A and S-stars](Galactic%20Center%20Sgr%20A%20and%20S-stars.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Binary star orbits]]
+- [[Pulsar interferometry]]
+- [[Cosmological masers]]
+- [[Galactic Center Sgr A and S-stars]]
+- [[Astronomical_Interferometry_MOC]]

@@ -112,24 +112,20 @@ modern instruments (SPHERE, MagAO-X) often combine both: a coronagraph at the fo
 
 ## see also
 
-- [Nulling interferometry](Nulling%20interferometry.html)
-- [Bracewell nuller](Bracewell%20nuller.html)
-- [Apodization](Apodization.html)
-- [Adaptive optics](Adaptive%20optics.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Nulling interferometry]]
+- [[Bracewell nuller]]
+- [[Apodization]]
+- [[Adaptive optics]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (9)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Apodization.html" class="backlink-item">Apodization</a></li>
-    <li class="backlink-item-wrap"><a href="../Bracewell%20nuller.html" class="backlink-item">Bracewell nuller</a></li>
-    <li class="backlink-item-wrap"><a href="../Exoplanet%20imaging.html" class="backlink-item">Exoplanet imaging</a></li>
-    <li class="backlink-item-wrap"><a href="../Nulling%20interferometry.html" class="backlink-item">Nulling interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="Apodization.html" class="backlink-item">Apodization</a></li>
-    <li class="backlink-item-wrap"><a href="Bracewell%20nuller.html" class="backlink-item">Bracewell nuller</a></li>
-    <li class="backlink-item-wrap"><a href="Exoplanet%20imaging.html" class="backlink-item">Exoplanet imaging</a></li>
-    <li class="backlink-item-wrap"><a href="Nulling%20interferometry.html" class="backlink-item">Nulling interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Apodization]]
+- [[Bracewell nuller]]
+- [[Exoplanet imaging]]
+- [[Nulling interferometry]]
+- [[Astronomical_Interferometry_MOC]]
+
 

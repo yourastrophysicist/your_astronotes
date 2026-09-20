@@ -12,7 +12,7 @@ the total-to-selective extinction ratio is
 
 $$R_V = \frac{A_V}{E(B-V)}$$
 
-and on a colour-magnitude diagram (see [Color-magnitude diagrams of clusters](Color-magnitude%20diagrams%20of%20clusters.html)), this ratio is the slope of the **reddening vector**. if you plot $V$ vs $(B-V)$, an unreddened star at intrinsic position $(V_0, (B-V)_0)$ shifts to
+and on a colour-magnitude diagram (see [[Color-magnitude diagrams of clusters]]), this ratio is the slope of the **reddening vector**. if you plot $V$ vs $(B-V)$, an unreddened star at intrinsic position $(V_0, (B-V)_0)$ shifts to
 
 $$V = V_0 + A_V, \quad (B-V) = (B-V)_0 + E(B-V)$$
 
@@ -26,9 +26,9 @@ a few subtleties:
 - the reddening vector direction depends on the photometric system. in $(V, B-V)$ the slope is $R_V \approx 3.1$, but in $(V, V-I)$ the slope changes because $A_V/E(V-I) \approx 2.45$ for the same dust law.
 - reddening is not the same as extinction alone. extinction is the total flux loss; reddening is the differential effect across wavelengths. you can have heavy extinction with little reddening if the dust law is grey, but in the standard ISM both go together.
 
-reddening is a key systematic in distance and age determinations. the [Distance modulus](Distance%20modulus.html) becomes the apparent distance modulus $(m-M)_V = (m-M)_0 + A_V$, and getting $A_V$ wrong propagates directly into the inferred distance and any age inferred from main-sequence-turnoff fitting (see [Single stellar population SSP](Single%20stellar%20population%20SSP.html)). for galactic globular clusters in the bulge, where reddening can be $E(B-V) \gtrsim 1$ and highly variable, this is one of the dominant error sources.
+reddening is a key systematic in distance and age determinations. the [[Distance modulus]] becomes the apparent distance modulus $(m-M)_V = (m-M)_0 + A_V$, and getting $A_V$ wrong propagates directly into the inferred distance and any age inferred from main-sequence-turnoff fitting (see [[Single stellar population SSP]]). for galactic globular clusters in the bulge, where reddening can be $E(B-V) \gtrsim 1$ and highly variable, this is one of the dominant error sources.
 
-see also [Interstellar absorption](Interstellar%20absorption.html), [Extinction law and Rv](Extinction%20law%20and%20Rv.html), [HR diagram](HR%20diagram.html), [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
+see also [[Interstellar absorption]], [[Extinction law and Rv]], [[HR diagram]], [[Stellar_Astrophysics_MOC]]
 
 ---
 
@@ -134,17 +134,17 @@ The following slides from Prof. Antonino Milone's lecture series provide the dir
 ![Lecture04pI_p5-05.png](../../assets/images/Lecture04pI_p5-05.png)
 *Figure P04-32: Lecture04pI_p5-05.png — Observational data, CMD morphology, and diagnostics from Lecture 04 — Interstellar Reddening & Galactic Assembly.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (8)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Bulge%20CMD%20complications.html" class="backlink-item">Bulge CMD complications</a></li>
-    <li class="backlink-item-wrap"><a href="Cardelli-Clayton-Mathis%20CCM%20extinction%20law.html" class="backlink-item">Cardelli-Clayton-Mathis CCM extinction law</a></li>
-    <li class="backlink-item-wrap"><a href="Differential%20reddening%20maps.html" class="backlink-item">Differential reddening maps</a></li>
-    <li class="backlink-item-wrap"><a href="Effects%20of%20differential%20reddening%20on%20CMD%20analysis.html" class="backlink-item">Effects of differential reddening on CMD analysis</a></li>
-    <li class="backlink-item-wrap"><a href="Extinction%20law%20and%20Rv.html" class="backlink-item">Extinction law and Rv</a></li>
-    <li class="backlink-item-wrap"><a href="Trumpler%20discovery%20of%20interstellar%20extinction.html" class="backlink-item">Trumpler discovery of interstellar extinction</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html" class="backlink-item">Astrophysics_of_the_Interstellar_Medium_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Bulge CMD complications]]
+- [[Cardelli-Clayton-Mathis CCM extinction law]]
+- [[Differential reddening maps]]
+- [[Effects of differential reddening on CMD analysis]]
+- [[Extinction law and Rv]]
+- [[Trumpler discovery of interstellar extinction]]
+- [[Astrophysics_of_the_Interstellar_Medium_MOC]]
+- [[Stellar_Astrophysics_MOC]]
+
 

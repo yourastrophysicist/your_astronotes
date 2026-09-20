@@ -31,17 +31,17 @@ orienting coordinates such that $\mathbf{B}_0 = B_0 \hat{\mathbf{z}}$ and $\math
 
 ## see also
 
-- [Fluid_and_Plasma_Dynamics_MOC](../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html)
-- [Part7_Magnetohydrodynamics_Equilibrium_and_Waves](../../02_Literature/Lectures/Fluid_and_Plasma_Dynamics/Part7_Magnetohydrodynamics_Equilibrium_and_Waves.html)
-- [Alfven and magnetosonic waves](Alfven%20and%20magnetosonic%20waves.html)
-- [Ideal MHD equations and Alfven flux freezing theorem](Ideal%20MHD%20equations%20and%20Alfven%20flux%20freezing%20theorem.html)
+- [[Fluid_and_Plasma_Dynamics_MOC]]
+- [[Part7_Magnetohydrodynamics_Equilibrium_and_Waves]]
+- [[Alfven and magnetosonic waves]]
+- [[Ideal MHD equations and Alfven flux freezing theorem]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Acoustic%20sound%20wave%20propagation%20in%20compressible%20gas.html" class="backlink-item">Acoustic sound wave propagation in compressible gas</a></li>
-    <li class="backlink-item-wrap"><a href="Ideal%20MHD%20equations%20and%20Alfven%20flux%20freezing%20theorem.html" class="backlink-item">Ideal MHD equations and Alfven flux freezing theorem</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Acoustic sound wave propagation in compressible gas]]
+- [[Ideal MHD equations and Alfven flux freezing theorem]]
+- [[Fluid_and_Plasma_Dynamics_MOC]]
+
 

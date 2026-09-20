@@ -120,7 +120,7 @@ $$\tau_g=\frac{\mathbf B\cdot\mathbf s}{c}$$
 
 BookAI's version is a good reminder that radio interferometry is not just "many dishes". it is a phase-preserving electronics machine.
 
-see also [Downconversion of signals in radio interferometers](Downconversion%20of%20signals%20in%20radio%20interferometers.html), [Digitization quantization and timing in radio interferometry](Digitization%20quantization%20and%20timing%20in%20radio%20interferometry.html), and [Radiometer equation and SEFD](Radiometer%20equation%20and%20SEFD.html).
+see also [[Downconversion of signals in radio interferometers]], [[Digitization quantization and timing in radio interferometry]], and [[Radiometer equation and SEFD]].
 
 ## scientific figures
 
@@ -134,36 +134,27 @@ source: first figure from ALMA Observatory, "How ALMA Works"; second figure is a
 
 ## see also
 
-- [Radio astronomy basics](Radio%20astronomy%20basics.html)
-- [Two-element correlator](Two-element%20correlator.html)
-- [Connected element interferometer](Connected%20element%20interferometer.html)
-- [Very Long Baseline Interferometry VLBI](Very%20Long%20Baseline%20Interferometry%20VLBI.html)
-- [Earth rotation synthesis in radio](Earth%20rotation%20synthesis%20in%20radio.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Radio astronomy basics]]
+- [[Two-element correlator]]
+- [[Connected element interferometer]]
+- [[Very Long Baseline Interferometry VLBI]]
+- [[Earth rotation synthesis in radio]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (20)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../ALMA%20exposure%20time%20calculator%20and%20sensitivity.html" class="backlink-item">ALMA exposure time calculator and sensitivity</a></li>
-    <li class="backlink-item-wrap"><a href="../Antenna%20effective%20area%20and%20gain.html" class="backlink-item">Antenna effective area and gain</a></li>
-    <li class="backlink-item-wrap"><a href="../Connected%20element%20interferometer.html" class="backlink-item">Connected element interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="../Digitization%20quantization%20and%20timing%20in%20radio%20interferometry.html" class="backlink-item">Digitization quantization and timing in radio interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="../Downconversion%20of%20signals%20in%20radio%20interferometers.html" class="backlink-item">Downconversion of signals in radio interferometers</a></li>
-    <li class="backlink-item-wrap"><a href="../Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="../Radio%20astronomy%20basics.html" class="backlink-item">Radio astronomy basics</a></li>
-    <li class="backlink-item-wrap"><a href="../Two-element%20correlator.html" class="backlink-item">Two-element correlator</a></li>
-    <li class="backlink-item-wrap"><a href="../Wiener-Khinchin%20theorem.html" class="backlink-item">Wiener-Khinchin theorem</a></li>
-    <li class="backlink-item-wrap"><a href="ALMA%20exposure%20time%20calculator%20and%20sensitivity.html" class="backlink-item">ALMA exposure time calculator and sensitivity</a></li>
-    <li class="backlink-item-wrap"><a href="Antenna%20effective%20area%20and%20gain.html" class="backlink-item">Antenna effective area and gain</a></li>
-    <li class="backlink-item-wrap"><a href="Connected%20element%20interferometer.html" class="backlink-item">Connected element interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="Digitization%20quantization%20and%20timing%20in%20radio%20interferometry.html" class="backlink-item">Digitization quantization and timing in radio interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="Downconversion%20of%20signals%20in%20radio%20interferometers.html" class="backlink-item">Downconversion of signals in radio interferometers</a></li>
-    <li class="backlink-item-wrap"><a href="Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="Heterodyne%20vs%20direct%20detection.html" class="backlink-item">Heterodyne vs direct detection</a></li>
-    <li class="backlink-item-wrap"><a href="Radio%20astronomy%20basics.html" class="backlink-item">Radio astronomy basics</a></li>
-    <li class="backlink-item-wrap"><a href="Two-element%20correlator.html" class="backlink-item">Two-element correlator</a></li>
-    <li class="backlink-item-wrap"><a href="Wiener-Khinchin%20theorem.html" class="backlink-item">Wiener-Khinchin theorem</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[ALMA exposure time calculator and sensitivity]]
+- [[Antenna effective area and gain]]
+- [[Connected element interferometer]]
+- [[Digitization quantization and timing in radio interferometry]]
+- [[Downconversion of signals in radio interferometers]]
+- [[Figure bank - interferometry]]
+- [[Radio astronomy basics]]
+- [[Two-element correlator]]
+- [[Wiener-Khinchin theorem]]
+- [[Heterodyne vs direct detection]]
+- [[Astronomical_Interferometry_MOC]]
+
 

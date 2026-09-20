@@ -148,13 +148,13 @@ When sketching the CAS classification diagrams on the blackboard.
 
 ## 6. See Also
 
-- [Sersic profile](Sersic%20profile.html)
-- [Petrosian radius](Petrosian%20radius.html)
-- [De Vaucouleurs and exponential profiles](De%20Vaucouleurs%20and%20exponential%20profiles.html)
-- [Hubble morphological sequence](Hubble%20morphological%20sequence.html)
-- [Color bimodality of galaxies](Color%20bimodality%20of%20galaxies.html)
-- [PCA spectral classification of galaxies](PCA%20spectral%20classification%20of%20galaxies.html)
-- [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html)
+- [[Sersic profile]]
+- [[Petrosian radius]]
+- [[De Vaucouleurs and exponential profiles]]
+- [[Hubble morphological sequence]]
+- [[Color bimodality of galaxies]]
+- [[PCA spectral classification of galaxies]]
+- [[Astrophysics_of_Galaxies_MOC]]
 
 ---
 
@@ -191,18 +191,18 @@ When sketching the CAS classification diagrams on the blackboard.
 
 ![gal_morph-39.png](../../assets/images/gal_morph-39.png)
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (9)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Deep-field%20surveys.html" class="backlink-item">Deep-field surveys</a></li>
-    <li class="backlink-item-wrap"><a href="Eigenspectra%20and%20spectral%20types.html" class="backlink-item">Eigenspectra and spectral types</a></li>
-    <li class="backlink-item-wrap"><a href="Galaxy%20morphology%20vs%20physical%20properties.html" class="backlink-item">Galaxy morphology vs physical properties</a></li>
-    <li class="backlink-item-wrap"><a href="Hubble%20morphological%20sequence.html" class="backlink-item">Hubble morphological sequence</a></li>
-    <li class="backlink-item-wrap"><a href="PCA%20spectral%20classification%20of%20galaxies.html" class="backlink-item">PCA spectral classification of galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="Petrosian%20radius.html" class="backlink-item">Petrosian radius</a></li>
-    <li class="backlink-item-wrap"><a href="SDSS%20overview.html" class="backlink-item">SDSS overview</a></li>
-    <li class="backlink-item-wrap"><a href="Sersic%20profile.html" class="backlink-item">Sersic profile</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Deep-field surveys]]
+- [[Eigenspectra and spectral types]]
+- [[Galaxy morphology vs physical properties]]
+- [[Hubble morphological sequence]]
+- [[PCA spectral classification of galaxies]]
+- [[Petrosian radius]]
+- [[SDSS overview]]
+- [[Sersic profile]]
+- [[Astrophysics_of_Galaxies_MOC]]
+
 

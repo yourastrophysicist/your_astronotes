@@ -55,25 +55,25 @@ modern photoionisation + radiation-hydrodynamics codes (Cloudy + Yt, MAPPINGS V)
 
 ## see also
 
-- [Heating rate in HII regions](Heating%20rate%20in%20HII%20regions.html)
-- [Cooling rate in HII regions](Cooling%20rate%20in%20HII%20regions.html)
-- [Cooling curve](Cooling%20curve.html)
-- [OIII forbidden lines](OIII%20forbidden%20lines.html)
-- [Forbidden line diagnostics](Forbidden%20line%20diagnostics.html)
-- [Metallicity and chemical evolution](Metallicity%20and%20chemical%20evolution.html)
-- [Spectroscopic Te diagnostics](Spectroscopic%20Te%20diagnostics.html)
-- [Photoionisation balance](Photoionisation%20balance.html)
-- [Ionisation parameter U](Ionisation%20parameter%20U.html)
+- [[Heating rate in HII regions]]
+- [[Cooling rate in HII regions]]
+- [[Cooling curve]]
+- [[OIII forbidden lines]]
+- [[Forbidden line diagnostics]]
+- [[Metallicity and chemical evolution]]
+- [[Spectroscopic Te diagnostics]]
+- [[Photoionisation balance]]
+- [[Ionisation parameter U]]
 - Strömgren sphere
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Cooling%20curve.html" class="backlink-item">Cooling curve</a></li>
-    <li class="backlink-item-wrap"><a href="Cooling%20rate%20in%20HII%20regions.html" class="backlink-item">Cooling rate in HII regions</a></li>
-    <li class="backlink-item-wrap"><a href="Heating%20rate%20in%20HII%20regions.html" class="backlink-item">Heating rate in HII regions</a></li>
-    <li class="backlink-item-wrap"><a href="Spectroscopic%20Te%20diagnostics.html" class="backlink-item">Spectroscopic Te diagnostics</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Cooling curve]]
+- [[Cooling rate in HII regions]]
+- [[Heating rate in HII regions]]
+- [[Spectroscopic Te diagnostics]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 

@@ -108,7 +108,7 @@ ground-truth measurements aided by radio sounding of subsurface structures.
 
 ## see also
 
-- [The Square Kilometre Array SKA](interf/The%20Square%20Kilometre%20Array%20SKA.html)
-- [ngVLA Next Generation VLA](interf/ngVLA%20Next%20Generation%20VLA.html)
-- [Future space-based](interf/Future%20space-based.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[The Square Kilometre Array SKA]]
+- [[ngVLA Next Generation VLA]]
+- [[Future space-based]]
+- [[Astronomical_Interferometry_MOC]]

@@ -4,11 +4,11 @@ title: "Galaxy mergers and SF"
 ---
 # galaxy mergers and star formation
 
-up: [Pablo_03_Star_formation_in_galaxies](../../02_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html)
+up: [[Pablo_03_Star_formation_in_galaxies]]
 
 ## mergers drive extreme SF
 
-tidal torques in a close encounter channel gas to the center, compressing it and triggering a nuclear starburst (Mihos & Hernquist 1996). this is the standard picture behind [LIRGs ULIRGs HyLIRGs](LIRGs%20ULIRGs%20HyLIRGs.html): almost all local ULIRGs are major mergers.
+tidal torques in a close encounter channel gas to the center, compressing it and triggering a nuclear starburst (Mihos & Hernquist 1996). this is the standard picture behind [[LIRGs ULIRGs HyLIRGs]]: almost all local ULIRGs are major mergers.
 
 the SF enhancement is dramatic:
 - pre-merger spirals: $\psi \sim 1$–$10\,M_\odot/\text{yr}$
@@ -27,7 +27,7 @@ results (Conselice 2003, van Dokkum 2005, Le Fèvre 2000, Lotz 2008, López-Sanj
 
 $$f_{\text{merger}}(z) \propto (1+z)^m,\quad m \simeq 2\text{–}3$$
 
-so at $z = 1$, roughly $10\%$ of galaxies are in mergers; at $z = 2$, $\sim 20$–$30\%$. this is a major driver of the [Cosmic star formation history](Cosmic%20star%20formation%20history.html) rise.
+so at $z = 1$, roughly $10\%$ of galaxies are in mergers; at $z = 2$, $\sim 20$–$30\%$. this is a major driver of the [[Cosmic star formation history]] rise.
 
 ## the Pablo figure
 
@@ -43,7 +43,7 @@ a gas-rich major merger, via hydrodynamic simulations:
 2. **apocenter**: galaxies separated again, SF returns to near-normal
 3. **second passage / coalescence** ($t \sim 0.5$–$1$ Gyr): nuclei merge, violent relaxation, gas piled in inner kpc → **ULIRG phase** SFR $> 100 \, M_\odot/\text{yr}$
 4. **AGN ignition**: buried AGN accretes, eventually blows out gas
-5. **quench**: gas expelled or consumed, SF turns off, [Post-starburst galaxies](Post-starburst%20galaxies.html) signature
+5. **quench**: gas expelled or consumed, SF turns off, [[Post-starburst galaxies]] signature
 6. **relaxation**: red-sequence elliptical remains
 
 this is the classical "major-merger-into-elliptical" paradigm (Toomre & Toomre 1972, Hopkins 2008).
@@ -58,12 +58,12 @@ mergers are **not** the source of main-sequence SF at $z = 1$–$2$. Rodighiero 
 
 ## connections
 
-- extreme IR end: [LIRGs ULIRGs HyLIRGs](LIRGs%20ULIRGs%20HyLIRGs.html)
-- triggered SF: [Starburst galaxies](Starburst%20galaxies.html)
-- quenching endpoint: [Post-starburst galaxies](Post-starburst%20galaxies.html)
-- environmental context: [Galaxy color, density and morphology](Galaxy%20color%2C%20density%20and%20morphology.html)
-- main-sequence context: [Galaxy main sequence of star formation](Galaxy%20main%20sequence%20of%20star%20formation.html)
-- merger-driven dry growth: [Green valley and quenching tracks](Green%20valley%20and%20quenching%20tracks.html)
+- extreme IR end: [[LIRGs ULIRGs HyLIRGs]]
+- triggered SF: [[Starburst galaxies]]
+- quenching endpoint: [[Post-starburst galaxies]]
+- environmental context: [[Galaxy color, density and morphology]]
+- main-sequence context: [[Galaxy main sequence of star formation]]
+- merger-driven dry growth: [[Green valley and quenching tracks]]
 
 ## key references
 
@@ -76,12 +76,12 @@ mergers are **not** the source of main-sequence SF at $z = 1$–$2$. Rodighiero 
 - van Dokkum et al. 1999, 2010
 - Hopkins et al. 2008 (merger-driven model)
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Galaxy%20color%2C%20density%20and%20morphology.html" class="backlink-item">Galaxy color, density and morphology</a></li>
-    <li class="backlink-item-wrap"><a href="LIRGs%20ULIRGs%20HyLIRGs.html" class="backlink-item">LIRGs ULIRGs HyLIRGs</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Galaxy color, density and morphology]]
+- [[LIRGs ULIRGs HyLIRGs]]
+- [[Observational_Cosmology_MOC]]
+
 

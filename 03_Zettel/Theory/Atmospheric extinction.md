@@ -69,9 +69,9 @@ cloud, varying aerosol, or jet stream cause $k$ to vary on minute timescales. th
 
 ## see also
 
-- [Earth atmosphere for observations](Earth%20atmosphere%20for%20observations.html)
-- [Atmospheric transparency windows](interf/Atmospheric%20transparency%20windows.html)
-- [Magnitudes and photometric systems](Magnitudes%20and%20photometric%20systems.html)
-- [Photometric standard stars](Photometric%20standard%20stars.html)
-- [Distance modulus](Distance%20modulus.html)
-- [Interstellar absorption](Interstellar%20absorption.html) — the analogous problem for ISM dust
+- [[Earth atmosphere for observations]]
+- [[Atmospheric transparency windows]]
+- [[Magnitudes and photometric systems]]
+- [[Photometric standard stars]]
+- [[Distance modulus]]
+- [[Interstellar absorption]] — the analogous problem for ISM dust

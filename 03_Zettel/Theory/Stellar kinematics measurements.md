@@ -219,25 +219,25 @@ When asked by Prof. Pizzella - *"How do we extract stellar kinematics from galax
 
 ## 8. Related Knowledge Base Notes
 
-- [LOSVD](LOSVD.html) - Mathematical definition and moments of the Line-of-Sight Velocity Distribution.
-- [Fundamental plane of ellipticals](Fundamental%20plane%20of%20ellipticals.html) - The 3D empirical scaling relation between $R_e$, $\sigma$, and $\langle I \rangle_e$.
-- [Stellar dynamics SMBH masses](Stellar%20dynamics%20SMBH%20masses.html) - Dynamical modeling using the Jeans equations and Schwarzschild orbit superposition.
-- [Ionized gas kinematics](Ionized%20gas%20kinematics.html) - Gas kinematics as a complementary tracer of circular velocity and potential.
-- [M sigma relation](M%20sigma%20relation.html) - The tight co-evolution relation between central SMBH mass and stellar velocity dispersion.
+- [[LOSVD]] - Mathematical definition and moments of the Line-of-Sight Velocity Distribution.
+- [[Fundamental plane of ellipticals]] - The 3D empirical scaling relation between $R_e$, $\sigma$, and $\langle I \rangle_e$.
+- [[Stellar dynamics SMBH masses]] - Dynamical modeling using the Jeans equations and Schwarzschild orbit superposition.
+- [[Ionized gas kinematics]] - Gas kinematics as a complementary tracer of circular velocity and potential.
+- [[M sigma relation]] - The tight co-evolution relation between central SMBH mass and stellar velocity dispersion.
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (10)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Datacube%20redshift%20measurement.html" class="backlink-item">Datacube redshift measurement</a></li>
-    <li class="backlink-item-wrap"><a href="Integral-field%20spectroscopy%20IFU.html" class="backlink-item">Integral-field spectroscopy IFU</a></li>
-    <li class="backlink-item-wrap"><a href="Ionized%20gas%20kinematics.html" class="backlink-item">Ionized gas kinematics</a></li>
-    <li class="backlink-item-wrap"><a href="MUSE%20datacubes.html" class="backlink-item">MUSE datacubes</a></li>
-    <li class="backlink-item-wrap"><a href="MaNGA%20survey.html" class="backlink-item">MaNGA survey</a></li>
-    <li class="backlink-item-wrap"><a href="Mass-radius%20and%20mass-velocity%20relations.html" class="backlink-item">Mass-radius and mass-velocity relations</a></li>
-    <li class="backlink-item-wrap"><a href="Proper%20motion%20and%20stellar%20kinematics.html" class="backlink-item">Proper motion and stellar kinematics</a></li>
-    <li class="backlink-item-wrap"><a href="Rotation%20curves.html" class="backlink-item">Rotation curves</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20dynamics%20SMBH%20masses.html" class="backlink-item">Stellar dynamics SMBH masses</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Datacube redshift measurement]]
+- [[Integral-field spectroscopy IFU]]
+- [[Ionized gas kinematics]]
+- [[MUSE datacubes]]
+- [[MaNGA survey]]
+- [[Mass-radius and mass-velocity relations]]
+- [[Proper motion and stellar kinematics]]
+- [[Rotation curves]]
+- [[Stellar dynamics SMBH masses]]
+- [[Astrophysics_of_Galaxies_MOC]]
+
 

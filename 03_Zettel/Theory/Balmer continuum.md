@@ -46,29 +46,29 @@ quantitatively, the jump in stars is **negative** (continuum is smaller at $\lam
 
 the near-UV continuum of an HII region sits on top of multiple contributions:
 1. **Balmer continuum** (recombination to $n = 2$).
-2. **2-photon continuum** (Two-photon emission from $2s \to 1s$, see [Two-photon emission](Two-photon%20emission.html)).
-3. **Free-free** ([Bremsstrahlung](Bremsstrahlung.html)) at the same wavelengths.
+2. **2-photon continuum** (Two-photon emission from $2s \to 1s$, see [[Two-photon emission]]).
+3. **Free-free** ([[Bremsstrahlung]]) at the same wavelengths.
 
 their sum is the **observed UV continuum** of the nebula. each has a different shape, so the SED encodes information about the gas conditions.
 
 ## see also
 
-- [Recombination continuum](Recombination%20continuum.html)
-- [Two-photon emission](Two-photon%20emission.html)
-- [Bremsstrahlung](Bremsstrahlung.html)
-- [Free-free continuum](Free-free%20continuum.html)
-- [Hydrogen spectral series](Hydrogen%20spectral%20series.html)
-- [Optically thin recombination lines](Optically%20thin%20recombination%20lines.html)
-- [Continuum opacity sources](Continuum%20opacity%20sources.html)
-- [H II region spectroscopy](H%20II%20region%20spectroscopy.html)
+- [[Recombination continuum]]
+- [[Two-photon emission]]
+- [[Bremsstrahlung]]
+- [[Free-free continuum]]
+- [[Hydrogen spectral series]]
+- [[Optically thin recombination lines]]
+- [[Continuum opacity sources]]
+- [[H II region spectroscopy]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Free-free%20continuum.html" class="backlink-item">Free-free continuum</a></li>
-    <li class="backlink-item-wrap"><a href="Recombination%20continuum.html" class="backlink-item">Recombination continuum</a></li>
-    <li class="backlink-item-wrap"><a href="Two-photon%20emission.html" class="backlink-item">Two-photon emission</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Free-free continuum]]
+- [[Recombination continuum]]
+- [[Two-photon emission]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 

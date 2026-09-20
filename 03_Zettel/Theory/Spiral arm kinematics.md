@@ -89,19 +89,19 @@ by measuring $v_{r,\text{max}}(l)$ as a function of Galactic longitude $l$, radi
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Milky Way structure](Milky%20Way%20structure.html)
-- [Dark matter on galactic scales](Dark%20matter%20on%20galactic%20scales.html)
-- [Interstellar medium components and gas cycle](Interstellar%20medium%20components%20and%20gas%20cycle.html)
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Milky Way structure]]
+- [[Dark matter on galactic scales]]
+- [[Interstellar medium components and gas cycle]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Dark%20matter%20on%20galactic%20scales.html" class="backlink-item">Dark matter on galactic scales</a></li>
-    <li class="backlink-item-wrap"><a href="Galactic%20coordinate%20system.html" class="backlink-item">Galactic coordinate system</a></li>
-    <li class="backlink-item-wrap"><a href="Interstellar%20medium%20components%20and%20gas%20cycle.html" class="backlink-item">Interstellar medium components and gas cycle</a></li>
-    <li class="backlink-item-wrap"><a href="Milky%20Way%20structure.html" class="backlink-item">Milky Way structure</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Dark matter on galactic scales]]
+- [[Galactic coordinate system]]
+- [[Interstellar medium components and gas cycle]]
+- [[Milky Way structure]]
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+
 

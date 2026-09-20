@@ -4,7 +4,7 @@ title: "Ionized gas SMBH masses"
 ---
 # Ionized Gas SMBH Masses
 
-Parent [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html) · [Stellar dynamics SMBH masses](Stellar%20dynamics%20SMBH%20masses.html) · [Water maser BH masses](Water%20maser%20BH%20masses.html)
+Parent [[Astrophysics_of_Galaxies_MOC]] · [[Stellar dynamics SMBH masses]] · [[Water maser BH masses]]
 
 ## 1. Physical Principle and Nuclear Gas Disks
 
@@ -178,9 +178,9 @@ Key quantitative takeaways for the blackboard
 
 ## Connections
 
-- Alternative dynamical methods - [Stellar dynamics SMBH masses](Stellar%20dynamics%20SMBH%20masses.html), [Water maser BH masses](Water%20maser%20BH%20masses.html)
-- Scaling relations - [M sigma relation](M%20sigma%20relation.html), [Magorrian relation](Magorrian%20relation.html)
-- Nuclear phenomena - Active galactic nuclei, [Reverberation mapping](Reverberation%20mapping.html)
+- Alternative dynamical methods - [[Stellar dynamics SMBH masses]], [[Water maser BH masses]]
+- Scaling relations - [[M sigma relation]], [[Magorrian relation]]
+- Nuclear phenomena - Active galactic nuclei, [[Reverberation mapping]]
 
 ---
 
@@ -241,13 +241,13 @@ Key quantitative takeaways for the blackboard
 
 ![eht2019_M87_image_17.png](../../assets/images/eht2019_M87_image_17.png)
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Galactic%20Center%20Sgr%20A%20and%20S-stars.html" class="backlink-item">Galactic Center Sgr A and S-stars</a></li>
-    <li class="backlink-item-wrap"><a href="Ionized%20gas%20kinematics.html" class="backlink-item">Ionized gas kinematics</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20dynamics%20SMBH%20masses.html" class="backlink-item">Stellar dynamics SMBH masses</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Galactic Center Sgr A and S-stars]]
+- [[Ionized gas kinematics]]
+- [[Stellar dynamics SMBH masses]]
+- [[Astrophysics_of_Galaxies_MOC]]
+
 

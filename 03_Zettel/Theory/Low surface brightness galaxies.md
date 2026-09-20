@@ -233,17 +233,17 @@ When asked by Prof. Pizzella - *"What are Low Surface Brightness galaxies, why w
 
 ## 9. Related Knowledge Base Notes
 
-- [De Vaucouleurs and exponential profiles](De%20Vaucouleurs%20and%20exponential%20profiles.html) - Classical empirical surface brightness profiles of galactic disks.
-- [Petrosian radius](Petrosian%20radius.html) - Distance- and surface-brightness-independent photometric aperture definitions.
-- [Dark matter rotation curves](Dark%20matter%20rotation%20curves.html) - Flat rotation curves and dark matter halo mass modeling.
-- [Schmidt-Kennicutt law](Schmidt-Kennicutt%20law.html) - Star formation rate surface density relations and critical density thresholds.
-- [Dark matter in dwarf galaxies](Dark%20matter%20in%20dwarf%20galaxies.html) - Testing core versus cusp dark matter profiles in dwarf systems.
+- [[De Vaucouleurs and exponential profiles]] - Classical empirical surface brightness profiles of galactic disks.
+- [[Petrosian radius]] - Distance- and surface-brightness-independent photometric aperture definitions.
+- [[Dark matter rotation curves]] - Flat rotation curves and dark matter halo mass modeling.
+- [[Schmidt-Kennicutt law]] - Star formation rate surface density relations and critical density thresholds.
+- [[Dark matter in dwarf galaxies]] - Testing core versus cusp dark matter profiles in dwarf systems.
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Dark%20matter%20in%20dwarf%20galaxies.html" class="backlink-item">Dark matter in dwarf galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Dark matter in dwarf galaxies]]
+- [[Astrophysics_of_Galaxies_MOC]]
+
 

@@ -82,30 +82,30 @@ far larger than the observable universe. so even if the universe is technically 
 
 ## why is the universe so flat?
 
-a deep question. if $\Omega_K(t)$ were anything but tiny in the early universe, it would have grown enormously by today (the **flatness problem**). starting with $\Omega_K \sim 10^{-3}$ today, you can extrapolate back and find the universe at the Planck epoch must have had $\lvert \Omega_K\rvert$ tuned to $\sim 10^{-60}$. this is a fine-tuning that **inflation** is designed to solve (see [Inflation overview](Inflation%20overview.html) and [Standard model problems](Standard%20model%20problems.html)).
+a deep question. if $\Omega_K(t)$ were anything but tiny in the early universe, it would have grown enormously by today (the **flatness problem**). starting with $\Omega_K \sim 10^{-3}$ today, you can extrapolate back and find the universe at the Planck epoch must have had $\lvert \Omega_K\rvert$ tuned to $\sim 10^{-60}$. this is a fine-tuning that **inflation** is designed to solve (see [[Inflation overview]] and [[Standard model problems]]).
 
 ---
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
 - Friedmann equations with Λ
-- [Curvature parameter k](Curvature%20parameter%20k.html)
-- [Hubble constant and deceleration parameter](Hubble%20constant%20and%20deceleration%20parameter.html)
-- [Inflation overview](Inflation%20overview.html)
-- [Standard model problems](Standard%20model%20problems.html)
+- [[Curvature parameter k]]
+- [[Hubble constant and deceleration parameter]]
+- [[Inflation overview]]
+- [[Standard model problems]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (8)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Curvature%20parameter%20k.html" class="backlink-item">Curvature parameter k</a></li>
-    <li class="backlink-item-wrap"><a href="Density%20parameters.html" class="backlink-item">Density parameters</a></li>
-    <li class="backlink-item-wrap"><a href="Friedmann%20equations%20with%20Lambda.html" class="backlink-item">Friedmann equations with Lambda</a></li>
-    <li class="backlink-item-wrap"><a href="Friedmann%20models.html" class="backlink-item">Friedmann models</a></li>
-    <li class="backlink-item-wrap"><a href="Hubble%20constant%20and%20deceleration%20parameter.html" class="backlink-item">Hubble constant and deceleration parameter</a></li>
-    <li class="backlink-item-wrap"><a href="Newtonian%20Friedmann%20derivation.html" class="backlink-item">Newtonian Friedmann derivation</a></li>
-    <li class="backlink-item-wrap"><a href="Standard%20model%20problems.html" class="backlink-item">Standard model problems</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Curvature parameter k]]
+- [[Density parameters]]
+- [[Friedmann equations with Lambda]]
+- [[Friedmann models]]
+- [[Hubble constant and deceleration parameter]]
+- [[Newtonian Friedmann derivation]]
+- [[Standard model problems]]
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+
 

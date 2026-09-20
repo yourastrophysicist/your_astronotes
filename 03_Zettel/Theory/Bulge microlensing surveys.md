@@ -57,7 +57,7 @@ possible reconciliation:
 - a real bimodal age distribution (Bensby 2017): metal-poor old + metal-rich extended SFH;
 - systematic differences in age scales between $\log g$-$T_{\rm eff}$ ages and CMD-fit ages.
 
-the issue remains an active research question. see [The Galactic Bulge](The%20Galactic%20Bulge.html).
+the issue remains an active research question. see [[The Galactic Bulge]].
 
 ## related microlensing science
 
@@ -74,20 +74,20 @@ the issue remains an active research question. see [The Galactic Bulge](The%20Ga
 
 ## see also
 
-- [The Galactic Bulge](The%20Galactic%20Bulge.html)
-- [Bulge CMD complications](Bulge%20CMD%20complications.html)
-- [Age-metallicity relation of Galactic GCs](Age-metallicity%20relation%20of%20Galactic%20GCs.html)
-- [Atmospheric parameters Teff log g feh vmicro](interf/Atmospheric%20parameters%20Teff%20log%20g%20feh%20vmicro.html)
-- [Spectroscopic determination of metallicity](Spectroscopic%20determination%20of%20metallicity.html)
-- [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
+- [[The Galactic Bulge]]
+- [[Bulge CMD complications]]
+- [[Age-metallicity relation of Galactic GCs]]
+- [[Atmospheric parameters Teff log g feh vmicro]]
+- [[Spectroscopic determination of metallicity]]
+- [[Stellar_Astrophysics_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Bulge%20CMD%20complications.html" class="backlink-item">Bulge CMD complications</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20Astrophysics%20research%20citations%20index.html" class="backlink-item">Stellar Astrophysics research citations index</a></li>
-    <li class="backlink-item-wrap"><a href="The%20Galactic%20Bulge.html" class="backlink-item">The Galactic Bulge</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Bulge CMD complications]]
+- [[Stellar Astrophysics research citations index]]
+- [[The Galactic Bulge]]
+- [[Stellar_Astrophysics_MOC]]
+
 

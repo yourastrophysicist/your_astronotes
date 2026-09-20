@@ -66,18 +66,18 @@ the dominance of radiative vs convective zones depends fundamentally on stellar 
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Radiative transport](Radiative%20transport.html)
-- [Stellar scaling relations](Stellar%20scaling%20relations.html)
-- [Stellar nucleosynthesis](Stellar%20nucleosynthesis.html)
-- [Stellar evolution timescales](Stellar%20evolution%20timescales.html)
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Radiative transport]]
+- [[Stellar scaling relations]]
+- [[Stellar nucleosynthesis]]
+- [[Stellar evolution timescales]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Equation%20of%20radiative%20transfer.html" class="backlink-item">Equation of radiative transfer</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20structure%20equations.html" class="backlink-item">Stellar structure equations</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Equation of radiative transfer]]
+- [[Stellar structure equations]]
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+
 

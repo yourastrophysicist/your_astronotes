@@ -59,7 +59,7 @@ connected arrays distribute a coherent LO or clock reference. VLBI stations use 
 
 ## relation to optical direct detection
 
-radio can downconvert and record voltages. optical interferometry usually cannot; optical/IR systems must physically combine beams before detection. this is the core difference in [Heterodyne vs direct detection](Heterodyne%20vs%20direct%20detection.html).
+radio can downconvert and record voltages. optical interferometry usually cannot; optical/IR systems must physically combine beams before detection. this is the core difference in [[Heterodyne vs direct detection]].
 
 ## exam sentence
 
@@ -75,23 +75,20 @@ source: local study diagram generated from the heterodyne identity.
 
 ## see also
 
-- [Heterodyne vs direct detection](Heterodyne%20vs%20direct%20detection.html)
-- [Radio interferometer architecture](Radio%20interferometer%20architecture.html)
-- [Two-element correlator](Two-element%20correlator.html)
-- [Digitization quantization and timing in radio interferometry](Digitization%20quantization%20and%20timing%20in%20radio%20interferometry.html)
+- [[Heterodyne vs direct detection]]
+- [[Radio interferometer architecture]]
+- [[Two-element correlator]]
+- [[Digitization quantization and timing in radio interferometry]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (9)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Digitization%20quantization%20and%20timing%20in%20radio%20interferometry.html" class="backlink-item">Digitization quantization and timing in radio interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="../Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="../Radio%20interferometer%20architecture.html" class="backlink-item">Radio interferometer architecture</a></li>
-    <li class="backlink-item-wrap"><a href="../Two-element%20correlator.html" class="backlink-item">Two-element correlator</a></li>
-    <li class="backlink-item-wrap"><a href="Digitization%20quantization%20and%20timing%20in%20radio%20interferometry.html" class="backlink-item">Digitization quantization and timing in radio interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="Heterodyne%20vs%20direct%20detection.html" class="backlink-item">Heterodyne vs direct detection</a></li>
-    <li class="backlink-item-wrap"><a href="Radio%20interferometer%20architecture.html" class="backlink-item">Radio interferometer architecture</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Digitization quantization and timing in radio interferometry]]
+- [[Figure bank - interferometry]]
+- [[Radio interferometer architecture]]
+- [[Two-element correlator]]
+- [[Heterodyne vs direct detection]]
+- [[Astronomical_Interferometry_MOC]]
+
 

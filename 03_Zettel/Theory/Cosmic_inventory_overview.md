@@ -21,7 +21,7 @@ modern cosmology surveys reach about a Gpc; this is the redshift cone we live in
 since the 1960s the *standard hot Big Bang model* has rested on three observational pillars:
 
 1. **the Hubble diagram** — the universe is expanding (and right now accelerating)
-2. **Big-Bang nucleosynthesis** — the relative abundances of light elements forged in the first three minutes (see [BBN_overview](BBN_overview.html))
+2. **Big-Bang nucleosynthesis** — the relative abundances of light elements forged in the first three minutes (see [[BBN_overview]])
 3. **the cosmic microwave background** — a near-perfect blackbody at $T_0 = 2.725$ K filling the sky
 
 what the late 20th century added on top of this is the **Standard Model of Cosmology** — ΛCDM. it adds:
@@ -62,7 +62,7 @@ every band of the electromagnetic spectrum contributes a *background* of photons
 ![intro-08.png](../../assets/images/intro-08.png)
 
 - **CGB** = cosmic gamma-ray background
-- **CXB** = cosmic X-ray background (see [Lab_High-Energy_MOC](../../04_Atlas/Lab_High-Energy_MOC.html))
+- **CXB** = cosmic X-ray background (see [[Lab_High-Energy_MOC]])
 - **CUVOB** = cosmic UV/optical background (stars and AGN)
 - **CIB** = cosmic infrared background (dust-reprocessed star formation)
 - **CMB** = cosmic microwave background (the dominant one, by far)
@@ -135,7 +135,7 @@ how do we *weigh* the baryons in the universe? four independent ways:
 
 1. **observe baryons in stars and galaxies** via optical and X-ray emission
 2. **quasar absorption spectra** — light absorbed by intervening hydrogen along the line of sight
-3. **primordial nucleosynthesis** — the abundances of light nuclei depend strongly on the baryon density (see [BBN_overview](BBN_overview.html))
+3. **primordial nucleosynthesis** — the abundances of light nuclei depend strongly on the baryon density (see [[BBN_overview]])
 4. **CMB anisotropies** — the height of the acoustic peaks depends on $\Omega_b h^2$
 
 methods 3 and 4 are in *excellent* agreement. methods 1 used to give a smaller number, leading to the **missing baryon problem** — about half the baryons were unaccounted for. recent work has shown most of the missing ones live in the **WHIM**, the warm-hot intergalactic medium in filaments connecting galaxies, too cold to emit X-rays brightly.
@@ -414,14 +414,14 @@ what we don't know:
 
 ## subtopics
 
-- [Cosmic_inventory_photons](Cosmic_inventory_photons.html)
-- [Cosmic_inventory_baryons](Cosmic_inventory_baryons.html)
-- [Cosmic_inventory_dark_matter](Cosmic_inventory_dark_matter.html)
-- [Cosmic_inventory_neutrinos](Cosmic_inventory_neutrinos.html)
-- [Cosmic_inventory_dark_energy](Cosmic_inventory_dark_energy.html)
-- [Brief thermal history](Brief%20thermal%20history.html)
-- [BBN_overview](BBN_overview.html)
-- [Matter power spectrum and BAO](Matter%20power%20spectrum%20and%20BAO.html)
+- [[Cosmic_inventory_photons]]
+- [[Cosmic_inventory_baryons]]
+- [[Cosmic_inventory_dark_matter]]
+- [[Cosmic_inventory_neutrinos]]
+- [[Cosmic_inventory_dark_energy]]
+- [[Brief thermal history]]
+- [[BBN_overview]]
+- [[Matter power spectrum and BAO]]
 
 ---
 
@@ -431,44 +431,44 @@ what we don't know:
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html) — the natural follow-on
-- [Baumann_reference](Baumann_reference.html) — chapter 3 (Thermal History) is the rigorous treatment
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Observational_Cosmology_MOC]] — the natural follow-on
+- [[Baumann_reference]] — chapter 3 (Thermal History) is the rigorous treatment
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (31)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="BBN_concordance_with_CMB.html" class="backlink-item">BBN_concordance_with_CMB</a></li>
-    <li class="backlink-item-wrap"><a href="BBN_overview.html" class="backlink-item">BBN_overview</a></li>
-    <li class="backlink-item-wrap"><a href="Baumann_reference.html" class="backlink-item">Baumann_reference</a></li>
-    <li class="backlink-item-wrap"><a href="Brief%20thermal%20history.html" class="backlink-item">Brief thermal history</a></li>
-    <li class="backlink-item-wrap"><a href="CMB%20Spectral%20Distortions%20-%20What%20They%20Are%20and%20Where%20They%20Come%20From.html" class="backlink-item">CMB Spectral Distortions - What They Are and Where They Come From</a></li>
-    <li class="backlink-item-wrap"><a href="Cosmic%20eras.html" class="backlink-item">Cosmic eras</a></li>
-    <li class="backlink-item-wrap"><a href="Cosmic_inventory_baryons.html" class="backlink-item">Cosmic_inventory_baryons</a></li>
-    <li class="backlink-item-wrap"><a href="Cosmic_inventory_dark_energy.html" class="backlink-item">Cosmic_inventory_dark_energy</a></li>
-    <li class="backlink-item-wrap"><a href="Cosmic_inventory_dark_matter.html" class="backlink-item">Cosmic_inventory_dark_matter</a></li>
-    <li class="backlink-item-wrap"><a href="Cosmic_inventory_neutrinos.html" class="backlink-item">Cosmic_inventory_neutrinos</a></li>
-    <li class="backlink-item-wrap"><a href="Cosmic_inventory_photons.html" class="backlink-item">Cosmic_inventory_photons</a></li>
-    <li class="backlink-item-wrap"><a href="Cosmic_inventory_photons_derivation.html" class="backlink-item">Cosmic_inventory_photons_derivation</a></li>
-    <li class="backlink-item-wrap"><a href="Cosmological%20constant.html" class="backlink-item">Cosmological constant</a></li>
-    <li class="backlink-item-wrap"><a href="Cosmological%20principle.html" class="backlink-item">Cosmological principle</a></li>
-    <li class="backlink-item-wrap"><a href="Dark%20matter%20on%20galactic%20scales.html" class="backlink-item">Dark matter on galactic scales</a></li>
-    <li class="backlink-item-wrap"><a href="Density%20parameters.html" class="backlink-item">Density parameters</a></li>
-    <li class="backlink-item-wrap"><a href="Distance%20ladder%20derivations.html" class="backlink-item">Distance ladder derivations</a></li>
-    <li class="backlink-item-wrap"><a href="Equation%20of%20state%20and%20density%20scaling.html" class="backlink-item">Equation of state and density scaling</a></li>
-    <li class="backlink-item-wrap"><a href="Fundamentals_course_intro.html" class="backlink-item">Fundamentals_course_intro</a></li>
-    <li class="backlink-item-wrap"><a href="Hubble%20constant%20and%20deceleration%20parameter.html" class="backlink-item">Hubble constant and deceleration parameter</a></li>
-    <li class="backlink-item-wrap"><a href="Hubble%27s%20law%20and%20cosmological%20redshift.html" class="backlink-item">Hubble's law and cosmological redshift</a></li>
-    <li class="backlink-item-wrap"><a href="Intergalactic%20medium.html" class="backlink-item">Intergalactic medium</a></li>
-    <li class="backlink-item-wrap"><a href="Lambda%20CDM%20current%20parameters.html" class="backlink-item">Lambda CDM current parameters</a></li>
-    <li class="backlink-item-wrap"><a href="Matter%20power%20spectrum%20and%20BAO.html" class="backlink-item">Matter power spectrum and BAO</a></li>
-    <li class="backlink-item-wrap"><a href="Matter%20radiation%20equality.html" class="backlink-item">Matter radiation equality</a></li>
-    <li class="backlink-item-wrap"><a href="Missing%20baryons.html" class="backlink-item">Missing baryons</a></li>
-    <li class="backlink-item-wrap"><a href="Photon%20decoupling%20and%20CMB.html" class="backlink-item">Photon decoupling and CMB</a></li>
-    <li class="backlink-item-wrap"><a href="Transition%20epochs.html" class="backlink-item">Transition epochs</a></li>
-    <li class="backlink-item-wrap"><a href="Useful%20constants%20and%20conversions.html" class="backlink-item">Useful constants and conversions</a></li>
-    <li class="backlink-item-wrap"><a href="Various%20models%20of%20the%20universe.html" class="backlink-item">Various models of the universe</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[BBN_concordance_with_CMB]]
+- [[BBN_overview]]
+- [[Baumann_reference]]
+- [[Brief thermal history]]
+- [[CMB Spectral Distortions - What They Are and Where They Come From]]
+- [[Cosmic eras]]
+- [[Cosmic_inventory_baryons]]
+- [[Cosmic_inventory_dark_energy]]
+- [[Cosmic_inventory_dark_matter]]
+- [[Cosmic_inventory_neutrinos]]
+- [[Cosmic_inventory_photons]]
+- [[Cosmic_inventory_photons_derivation]]
+- [[Cosmological constant]]
+- [[Cosmological principle]]
+- [[Dark matter on galactic scales]]
+- [[Density parameters]]
+- [[Distance ladder derivations]]
+- [[Equation of state and density scaling]]
+- [[Fundamentals_course_intro]]
+- [[Hubble constant and deceleration parameter]]
+- [[Hubble's law and cosmological redshift]]
+- [[Intergalactic medium]]
+- [[Lambda CDM current parameters]]
+- [[Matter power spectrum and BAO]]
+- [[Matter radiation equality]]
+- [[Missing baryons]]
+- [[Photon decoupling and CMB]]
+- [[Transition epochs]]
+- [[Useful constants and conversions]]
+- [[Various models of the universe]]
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+
 

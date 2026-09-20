@@ -32,17 +32,17 @@ so once you measure $\sigma_v \sim 3$-$8$ km/s spectroscopically and $r_{1/2} \s
 
 UFDG dark matter content is, after galactic rotation curves and CMB peaks, one of the cleanest pieces of evidence that dark matter exists, behaves cold-ish, and assembles into bound halos down to very small masses.
 
-see also [Ultra-faint dwarf galaxies definition](Ultra-faint%20dwarf%20galaxies%20definition.html), [UFDG star formation histories](UFDG%20star%20formation%20histories.html), [UFDG search via deep CMD](UFDG%20search%20via%20deep%20CMD.html), [Pop III remnants in UFDGs](Pop%20III%20remnants%20in%20UFDGs.html), [Halo accretion from dwarf galaxies](Halo%20accretion%20from%20dwarf%20galaxies.html), [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
+see also [[Ultra-faint dwarf galaxies definition]], [[UFDG star formation histories]], [[UFDG search via deep CMD]], [[Pop III remnants in UFDGs]], [[Halo accretion from dwarf galaxies]], [[Stellar_Astrophysics_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Pop%20III%20nucleosynthesis%20signatures.html" class="backlink-item">Pop III nucleosynthesis signatures</a></li>
-    <li class="backlink-item-wrap"><a href="Pop%20III%20remnants%20in%20UFDGs.html" class="backlink-item">Pop III remnants in UFDGs</a></li>
-    <li class="backlink-item-wrap"><a href="UFDG%20search%20via%20deep%20CMD.html" class="backlink-item">UFDG search via deep CMD</a></li>
-    <li class="backlink-item-wrap"><a href="UFDG%20star%20formation%20histories.html" class="backlink-item">UFDG star formation histories</a></li>
-    <li class="backlink-item-wrap"><a href="Ultra-faint%20dwarf%20galaxies%20definition.html" class="backlink-item">Ultra-faint dwarf galaxies definition</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Pop III nucleosynthesis signatures]]
+- [[Pop III remnants in UFDGs]]
+- [[UFDG search via deep CMD]]
+- [[UFDG star formation histories]]
+- [[Ultra-faint dwarf galaxies definition]]
+- [[Stellar_Astrophysics_MOC]]
+
 

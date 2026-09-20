@@ -5,7 +5,7 @@ title: "Malavolta 13 - Bayesian Statistics and Markov Chain Monte Carlo Sampling
 # Malavolta 13 — Bayesian Statistics and Markov Chain Monte Carlo Sampling
 
 *Astrophysics Laboratory 2, Prof. Luca Malavolta*  
-*Index: [Astrophysics_Laboratory_2_MOC](../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html)*
+*Index: [[Astrophysics_Laboratory_2_MOC]]*
 
 ---
 
@@ -118,12 +118,12 @@ fig = corner.corner(flat_samples[:, :3], labels=labels, quantiles=[0.16, 0.5, 0.
 ---
 
 ## Related Notes
-- [Bayesian Inference and Bayes Theorem in Astronomy](../../../03_Zettel/Theory/Bayesian%20Inference%20and%20Bayes%20Theorem%20in%20Astronomy.html)
-- [Metropolis-Hastings Algorithm](../../../03_Zettel/Theory/Metropolis-Hastings%20Algorithm.html)
-- [Goodman-Weare Affine Invariant Ensemble Sampler](../../../03_Zettel/Theory/Goodman-Weare%20Affine%20Invariant%20Ensemble%20Sampler.html)
-- [Affine-Invariant Ensemble MCMC with emcee](../../../03_Zettel/Computational/Affine-Invariant%20Ensemble%20MCMC%20with%20emcee.html)
-- [MCMC Convergence Diagnostics and Autocorrelation Analysis](../../../03_Zettel/Computational/MCMC%20Convergence%20Diagnostics%20and%20Autocorrelation%20Analysis.html)
-- [Marginalized Posterior Distributions and Corner Plots](../../../03_Zettel/Computational/Marginalized%20Posterior%20Distributions%20and%20Corner%20Plots.html)
+- [[Bayesian Inference and Bayes Theorem in Astronomy]]
+- [[Metropolis-Hastings Algorithm]]
+- [[Goodman-Weare Affine Invariant Ensemble Sampler]]
+- [[Affine-Invariant Ensemble MCMC with emcee]]
+- [[MCMC Convergence Diagnostics and Autocorrelation Analysis]]
+- [[Marginalized Posterior Distributions and Corner Plots]]
 
 
 ## Laboratory Visuals & MCMC Posterior Exploration
@@ -137,14 +137,14 @@ fig = corner.corner(flat_samples[:, :3], labels=labels, quantiles=[0.16, 0.5, 0.
 ![Confidence Intervals and Error Budget](../../../assets/images/lab2_mcmc_p08.png)
 *Figure LAB2-12: Final median parameter estimates and $68.3\%$ credible intervals with full posterior predictive transit model uncertainty envelopes overlaid on empirical TASTE ground-based observations.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Bayesian%20Inference%20and%20Bayes%20Theorem%20in%20Astronomy.html" class="backlink-item">Bayesian Inference and Bayes Theorem in Astronomy</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Goodman-Weare%20Affine%20Invariant%20Ensemble%20Sampler.html" class="backlink-item">Goodman-Weare Affine Invariant Ensemble Sampler</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Metropolis-Hastings%20Algorithm.html" class="backlink-item">Metropolis-Hastings Algorithm</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Prior%20Probability%20Distributions%20in%20Exoplanet%20Fitting.html" class="backlink-item">Prior Probability Distributions in Exoplanet Fitting</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Bayesian Inference and Bayes Theorem in Astronomy]]
+- [[Goodman-Weare Affine Invariant Ensemble Sampler]]
+- [[Metropolis-Hastings Algorithm]]
+- [[Prior Probability Distributions in Exoplanet Fitting]]
+- [[Astrophysics_Laboratory_2_MOC]]
+
 

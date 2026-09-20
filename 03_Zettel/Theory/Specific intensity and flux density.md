@@ -47,7 +47,7 @@ real telescopes do not integrate over the source in an abstract way. they weight
 
 $$T_A \propto \int I(\theta,\phi)P(\theta,\phi)\,d\Omega$$
 
-where $P$ is the beam power pattern. this is why [Beam power pattern of a radio telescope](interf/Beam%20power%20pattern%20of%20a%20radio%20telescope.html) matters before imaging.
+where $P$ is the beam power pattern. this is why [[Beam power pattern of a radio telescope]] matters before imaging.
 
 ## connection to brightness temperature
 
@@ -83,7 +83,7 @@ source: local study diagram generated from $S_\nu=\int I_\nu P\,d\Omega$.
 
 ## see also
 
-- [Radio astronomy basics](interf/Radio%20astronomy%20basics.html)
-- [Beam power pattern of a radio telescope](interf/Beam%20power%20pattern%20of%20a%20radio%20telescope.html)
-- [Van Cittert-Zernike theorem](interf/Van%20Cittert-Zernike%20theorem.html)
-- [Interferometry equation sheet](interf/Interferometry%20equation%20sheet.html)
+- [[Radio astronomy basics]]
+- [[Beam power pattern of a radio telescope]]
+- [[Van Cittert-Zernike theorem]]
+- [[Interferometry equation sheet]]

@@ -80,18 +80,18 @@ in the local volume ($z \approx 0$):
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Hubble morphological sequence](Hubble%20morphological%20sequence.html)
-- [Galaxy morphology vs physical properties](Galaxy%20morphology%20vs%20physical%20properties.html)
-- [Galaxies across wavelengths](Galaxies%20across%20wavelengths.html)
-- [Milky Way structure](Milky%20Way%20structure.html)
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Hubble morphological sequence]]
+- [[Galaxy morphology vs physical properties]]
+- [[Galaxies across wavelengths]]
+- [[Milky Way structure]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Galaxies%20across%20wavelengths.html" class="backlink-item">Galaxies across wavelengths</a></li>
-    <li class="backlink-item-wrap"><a href="Galaxy%20clusters%20and%20overview%20of%20evolution.html" class="backlink-item">Galaxy clusters and overview of evolution</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Galaxies across wavelengths]]
+- [[Galaxy clusters and overview of evolution]]
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+
 

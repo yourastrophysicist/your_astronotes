@@ -28,17 +28,17 @@ Applied to:
 - Stellar density $\rho_\star$ determined from high-resolution spectroscopy, constraining $a/R_\star$ via Kepler's third law.
 
 ## Related Notes
-- [Bayesian Inference and Bayes Theorem in Astronomy](Bayesian%20Inference%20and%20Bayes%20Theorem%20in%20Astronomy.html)
-- [Likelihood Function for Photometric Time Series](Likelihood%20Function%20for%20Photometric%20Time%20Series.html)
-- [Malavolta 13 - Bayesian Statistics and Markov Chain Monte Carlo Sampling](../../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2013%20-%20Bayesian%20Statistics%20and%20Markov%20Chain%20Monte%20Carlo%20Sampling.html)
+- [[Bayesian Inference and Bayes Theorem in Astronomy]]
+- [[Likelihood Function for Photometric Time Series]]
+- [[Malavolta 13 - Bayesian Statistics and Markov Chain Monte Carlo Sampling]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Computational/Limb%20Darkening%20Computation%20with%20ldtk.html" class="backlink-item">Limb Darkening Computation with ldtk</a></li>
-    <li class="backlink-item-wrap"><a href="Bayesian%20Inference%20and%20Bayes%20Theorem%20in%20Astronomy.html" class="backlink-item">Bayesian Inference and Bayes Theorem in Astronomy</a></li>
-    <li class="backlink-item-wrap"><a href="Likelihood%20Function%20for%20Photometric%20Time%20Series.html" class="backlink-item">Likelihood Function for Photometric Time Series</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Limb Darkening Computation with ldtk]]
+- [[Bayesian Inference and Bayes Theorem in Astronomy]]
+- [[Likelihood Function for Photometric Time Series]]
+- [[Astrophysics_Laboratory_2_MOC]]
+
 

@@ -61,43 +61,43 @@ Balmer line strength peaks at A0, exactly the spectral type Cecilia Payne identi
 
 ## see also
 
-- [Rydberg-Ritz formula](Rydberg-Ritz%20formula.html)
+- [[Rydberg-Ritz formula]]
 - Energy level diagrams Grötrian
-- [Atomic term symbols](Atomic%20term%20symbols.html)
-- [Hydrogen population vs T](Hydrogen%20population%20vs%20T.html)
-- [Helium energy levels](Helium%20energy%20levels.html)
-- [Why the Sequence OBAFGKM](Why%20the%20Sequence%20OBAFGKM.html)
-- [Balmer decrement](Balmer%20decrement.html)
-- [H-alpha SFR tracer](H-alpha%20SFR%20tracer.html)
-- [Photon decoupling and CMB](Photon%20decoupling%20and%20CMB.html)
+- [[Atomic term symbols]]
+- [[Hydrogen population vs T]]
+- [[Helium energy levels]]
+- [[Why the Sequence OBAFGKM]]
+- [[Balmer decrement]]
+- [[H-alpha SFR tracer]]
+- [[Photon decoupling and CMB]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (24)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="AGN%20spectroscopy.html" class="backlink-item">AGN spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="Balmer%20continuum.html" class="backlink-item">Balmer continuum</a></li>
-    <li class="backlink-item-wrap"><a href="Case%20A%20vs%20Case%20B%20recombination.html" class="backlink-item">Case A vs Case B recombination</a></li>
-    <li class="backlink-item-wrap"><a href="Continuum%20opacity%20sources.html" class="backlink-item">Continuum opacity sources</a></li>
-    <li class="backlink-item-wrap"><a href="Damping%20wings.html" class="backlink-item">Damping wings</a></li>
-    <li class="backlink-item-wrap"><a href="Emission%20line%20stars.html" class="backlink-item">Emission line stars</a></li>
-    <li class="backlink-item-wrap"><a href="Energy%20level%20diagrams%20Grotrian.html" class="backlink-item">Energy level diagrams Grotrian</a></li>
-    <li class="backlink-item-wrap"><a href="Galactic%20novae%20spectroscopy.html" class="backlink-item">Galactic novae spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="Helium%20energy%20levels.html" class="backlink-item">Helium energy levels</a></li>
-    <li class="backlink-item-wrap"><a href="Hydrogen%20population%20vs%20T.html" class="backlink-item">Hydrogen population vs T</a></li>
-    <li class="backlink-item-wrap"><a href="Lyman-alpha%20forest.html" class="backlink-item">Lyman-alpha forest</a></li>
-    <li class="backlink-item-wrap"><a href="Optically%20thin%20recombination%20lines.html" class="backlink-item">Optically thin recombination lines</a></li>
-    <li class="backlink-item-wrap"><a href="Pauli%20principle%20and%20electron%20configurations.html" class="backlink-item">Pauli principle and electron configurations</a></li>
-    <li class="backlink-item-wrap"><a href="Quantum%20numbers%20and%20atomic%20states.html" class="backlink-item">Quantum numbers and atomic states</a></li>
-    <li class="backlink-item-wrap"><a href="Recombination%20continuum.html" class="backlink-item">Recombination continuum</a></li>
-    <li class="backlink-item-wrap"><a href="Recombination%20line%20emissivity.html" class="backlink-item">Recombination line emissivity</a></li>
-    <li class="backlink-item-wrap"><a href="Russell-Saunders%20LS%20coupling.html" class="backlink-item">Russell-Saunders LS coupling</a></li>
-    <li class="backlink-item-wrap"><a href="Rydberg-Ritz%20formula.html" class="backlink-item">Rydberg-Ritz formula</a></li>
-    <li class="backlink-item-wrap"><a href="Spectroscopic%20redshift%20from%20line%20shifts.html" class="backlink-item">Spectroscopic redshift from line shifts</a></li>
-    <li class="backlink-item-wrap"><a href="Stark%20broadening.html" class="backlink-item">Stark broadening</a></li>
-    <li class="backlink-item-wrap"><a href="Supernova%20spectroscopy.html" class="backlink-item">Supernova spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="Thermal%20continuum%20from%20stellar%20photosphere.html" class="backlink-item">Thermal continuum from stellar photosphere</a></li>
-    <li class="backlink-item-wrap"><a href="Why%20the%20Sequence%20OBAFGKM.html" class="backlink-item">Why the Sequence OBAFGKM</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[AGN spectroscopy]]
+- [[Balmer continuum]]
+- [[Case A vs Case B recombination]]
+- [[Continuum opacity sources]]
+- [[Damping wings]]
+- [[Emission line stars]]
+- [[Energy level diagrams Grotrian]]
+- [[Galactic novae spectroscopy]]
+- [[Helium energy levels]]
+- [[Hydrogen population vs T]]
+- [[Lyman-alpha forest]]
+- [[Optically thin recombination lines]]
+- [[Pauli principle and electron configurations]]
+- [[Quantum numbers and atomic states]]
+- [[Recombination continuum]]
+- [[Recombination line emissivity]]
+- [[Russell-Saunders LS coupling]]
+- [[Rydberg-Ritz formula]]
+- [[Spectroscopic redshift from line shifts]]
+- [[Stark broadening]]
+- [[Supernova spectroscopy]]
+- [[Thermal continuum from stellar photosphere]]
+- [[Why the Sequence OBAFGKM]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 

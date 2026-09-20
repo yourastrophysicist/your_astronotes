@@ -70,7 +70,7 @@ source: local study diagram generated from a sampled and quantized voltage model
 
 ## see also
 
-- [Downconversion of signals in radio interferometers](interf/Downconversion%20of%20signals%20in%20radio%20interferometers.html)
-- [Two-element correlator](interf/Two-element%20correlator.html)
-- [Very Long Baseline Interferometry VLBI](interf/Very%20Long%20Baseline%20Interferometry%20VLBI.html)
-- [Radio interferometer architecture](interf/Radio%20interferometer%20architecture.html)
+- [[Downconversion of signals in radio interferometers]]
+- [[Two-element correlator]]
+- [[Very Long Baseline Interferometry VLBI]]
+- [[Radio interferometer architecture]]

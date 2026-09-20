@@ -21,7 +21,7 @@ at step $k$ (for $k = 1, 2, \ldots, N-1$), use row $k$ to eliminate $A_{ik}$ for
 
 $$\text{for } i = k+1, \ldots, N: \quad m = A_{ik}/A_{kk}, \quad \text{row}_i \leftarrow \text{row}_i - m \cdot \text{row}_k$$
 
-after $N-1$ such steps the matrix is upper triangular. the entry $A_{kk}$ at step $k$ is the **pivot**. if it is zero, the algorithm fails — fix this with [Partial pivoting](Partial%20pivoting.html).
+after $N-1$ such steps the matrix is upper triangular. the entry $A_{kk}$ at step $k$ is the **pivot**. if it is zero, the algorithm fails — fix this with [[Partial pivoting]].
 
 ## the algorithm (back substitution)
 
@@ -69,7 +69,7 @@ memory: $O(N^2)$ for the matrix.
 
 ## when does it fail
 
-- **zero pivot**: $A_{kk} = 0$ at step $k$. the formula divides by zero. fix: [Partial pivoting](Partial%20pivoting.html) swaps row $k$ with the row below that has the largest absolute value in column $k$
+- **zero pivot**: $A_{kk} = 0$ at step $k$. the formula divides by zero. fix: [[Partial pivoting]] swaps row $k$ with the row below that has the largest absolute value in column $k$
 - **tiny pivot**: $A_{kk}$ is small but nonzero. the formula divides by a small number, amplifying any roundoff in $A_{kk}$. partial pivoting also fixes this
 - **ill-conditioned $A$**: even with pivoting, if $A$ is "nearly singular" (condition number $\gg 1$) the answer is sensitive to roundoff. this is a property of the problem, not the algorithm
 
@@ -87,25 +87,25 @@ $$\det A = \prod_{k=1}^N A_{kk}$$
 
 ## what to do with multiple right-hand sides
 
-if I need to solve $A\mathbf{x}_i = \mathbf{b}_i$ for many $\mathbf{b}_i$, **do not redo the elimination each time**. factor $A = LU$ once (also $O(N^3)$) and reuse: each new RHS costs only $O(N^2)$. see [LU decomposition](LU%20decomposition.html).
+if I need to solve $A\mathbf{x}_i = \mathbf{b}_i$ for many $\mathbf{b}_i$, **do not redo the elimination each time**. factor $A = LU$ once (also $O(N^3)$) and reuse: each new RHS costs only $O(N^2)$. see [[LU decomposition]].
 
 ## see also
 
-- [Partial pivoting](Partial%20pivoting.html) — the fix for zero/tiny pivots
-- [LU decomposition](LU%20decomposition.html) — factor once, reuse for many RHS
-- [Gauss-Seidel iteration](Gauss-Seidel%20iteration.html) — iterative alternative
-- [Pros and cons of linear solvers](Pros%20and%20cons%20of%20linear%20solvers.html)
-- [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
+- [[Partial pivoting]] — the fix for zero/tiny pivots
+- [[LU decomposition]] — factor once, reuse for many RHS
+- [[Gauss-Seidel iteration]] — iterative alternative
+- [[Pros and cons of linear solvers]]
+- [[Mathematical_Numerical_Methods_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Gauss-Seidel%20iteration.html" class="backlink-item">Gauss-Seidel iteration</a></li>
-    <li class="backlink-item-wrap"><a href="LU%20decomposition.html" class="backlink-item">LU decomposition</a></li>
-    <li class="backlink-item-wrap"><a href="Matrix%20inverse%20via%20linear%20systems.html" class="backlink-item">Matrix inverse via linear systems</a></li>
-    <li class="backlink-item-wrap"><a href="Partial%20pivoting.html" class="backlink-item">Partial pivoting</a></li>
-    <li class="backlink-item-wrap"><a href="Pros%20and%20cons%20of%20linear%20solvers.html" class="backlink-item">Pros and cons of linear solvers</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Gauss-Seidel iteration]]
+- [[LU decomposition]]
+- [[Matrix inverse via linear systems]]
+- [[Partial pivoting]]
+- [[Pros and cons of linear solvers]]
+- [[Mathematical_Numerical_Methods_MOC]]
+
 

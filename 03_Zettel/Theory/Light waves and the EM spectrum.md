@@ -78,7 +78,7 @@ the $\mathbf{E}$ vector can be:
 - **elliptically polarized**: a general intermediate case
 - **unpolarized**: random fluctuating polarization, like sunlight
 
-polarization matters for interferometry through the Fresnel-Arago laws (see [Fresnel-Arago laws](interf/Fresnel-Arago%20laws.html)): only parallel-polarized waves can interfere. perpendicular polarizations cannot form fringes.
+polarization matters for interferometry through the Fresnel-Arago laws (see [[Fresnel-Arago laws]]): only parallel-polarized waves can interfere. perpendicular polarizations cannot form fringes.
 
 ## the intensity
 
@@ -99,9 +99,9 @@ so this zettel is the foundation. after it, every result is one more layer of st
 
 ## see also
 
-- [Plane waves and Huygens principle](interf/Plane%20waves%20and%20Huygens%20principle.html)
-- [Superposition and interference](interf/Superposition%20and%20interference.html)
-- [Electromagnetic waves and photons](interf/Electromagnetic%20waves%20and%20photons.html)
-- [Optical path difference OPD](interf/Optical%20path%20difference%20OPD.html)
-- [Fresnel-Arago laws](interf/Fresnel-Arago%20laws.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Plane waves and Huygens principle]]
+- [[Superposition and interference]]
+- [[Electromagnetic waves and photons]]
+- [[Optical path difference OPD]]
+- [[Fresnel-Arago laws]]
+- [[Astronomical_Interferometry_MOC]]

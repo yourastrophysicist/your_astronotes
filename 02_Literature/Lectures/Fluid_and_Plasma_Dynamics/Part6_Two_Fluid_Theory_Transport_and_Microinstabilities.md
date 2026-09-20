@@ -5,7 +5,7 @@ title: "Part6_Two_Fluid_Theory_Transport_and_Microinstabilities"
 # Part 6 - Two-Fluid Theory, Transport, and Microinstabilities
 
 *Course: Fluid and Plasma Dynamics, Prof. Maurizio Giacomin*  
-*Index: [Fluid_and_Plasma_Dynamics_MOC](../../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html) | Exam Guide: [Giacomin_Oral_Exam_Questions_Complete_Guide](./Giacomin_Oral_Exam_Questions_Complete_Guide.html)*  
+*Index: [[Fluid_and_Plasma_Dynamics_MOC]] | Exam Guide: [[Giacomin_Oral_Exam_Questions_Complete_Guide]]*  
 *Relevant Exam Questions: 18, 19, 20, 21*  
 
 ---
@@ -244,14 +244,14 @@ recovering the classical $1/B^2$ confinement scaling.
 ![Anisotropic Particle Diffusion and Confinement](../../../assets/images/fluid_braginskii_p08.png)
 *Figure FPD-10: Cross-field classical diffusion $D_\perp \propto \frac{\rho_L^2}{\tau}$ versus Bohm / anomalous turbulent transport in astrophysical accretion disks and magnetic confinement devices.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Ambipolar%20diffusion%20in%20unmagnetized%20and%20magnetized%20plasmas.html" class="backlink-item">Ambipolar diffusion in unmagnetized and magnetized plasmas</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Braginskii%20collisional%20transport%20and%20Spitzer%20resistivity.html" class="backlink-item">Braginskii collisional transport and Spitzer resistivity</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Drift-reduced%20Braginskii%20equations%20and%20vorticity%20derivation.html" class="backlink-item">Drift-reduced Braginskii equations and vorticity derivation</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Resistive%20ballooning%20mode%20and%20ion%20temperature%20gradient%20instability.html" class="backlink-item">Resistive ballooning mode and ion temperature gradient instability</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Ambipolar diffusion in unmagnetized and magnetized plasmas]]
+- [[Braginskii collisional transport and Spitzer resistivity]]
+- [[Drift-reduced Braginskii equations and vorticity derivation]]
+- [[Resistive ballooning mode and ion temperature gradient instability]]
+- [[Fluid_and_Plasma_Dynamics_MOC]]
+
 

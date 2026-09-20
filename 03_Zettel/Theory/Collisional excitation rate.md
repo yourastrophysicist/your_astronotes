@@ -43,7 +43,7 @@ $$j \propto n_e\,e^{-E_{ul}/k_BT_e}$$
 ### high density ($n_e \gg n_c$)
 collisional de-excitation wins. $j \propto A_{ul}$, **independent of $n_e$**. line saturates.
 
-the **critical density** $n_c = A_{ul}/q_{ul}$ marks the transition. see [Critical density](Critical%20density.html).
+the **critical density** $n_c = A_{ul}/q_{ul}$ marks the transition. see [[Critical density]].
 
 ## the temperature diagnostics
 
@@ -53,27 +53,27 @@ $$\frac{F(\lambda_1)}{F(\lambda_2)} = \frac{A_1 \nu_1}{A_2 \nu_2} = \text{const}
 ratios of lines from **different upper levels** of the same ion depend on the ratio of Boltzmann factors $\to$ direct $T_e$:
 $$\frac{F(\lambda_1)}{F(\lambda_2)} \propto e^{-(E_1 - E_2)/k_BT_e}$$
 
-example: $[OIII]\,\lambda 4363/(\lambda 4959 + \lambda 5007)$ is highly $T_e$-sensitive because $\lambda 4363$ comes from a much higher level. see [OIII forbidden lines](OIII%20forbidden%20lines.html).
+example: $[OIII]\,\lambda 4363/(\lambda 4959 + \lambda 5007)$ is highly $T_e$-sensitive because $\lambda 4363$ comes from a much higher level. see [[OIII forbidden lines]].
 
 ## see also
 
-- [Statistical equilibrium equations](Statistical%20equilibrium%20equations.html)
-- [Two-level atom](Two-level%20atom.html)
-- [Critical density](Critical%20density.html)
-- [Forbidden lines](Forbidden%20lines.html)
-- [OIII forbidden lines](OIII%20forbidden%20lines.html)
-- [SII forbidden lines](SII%20forbidden%20lines.html)
-- [Forbidden line diagnostics](Forbidden%20line%20diagnostics.html)
-- [Boltzmann equation in spectroscopy](Boltzmann%20equation%20in%20spectroscopy.html)
-- [Spectroscopic Te diagnostics](Spectroscopic%20Te%20diagnostics.html)
+- [[Statistical equilibrium equations]]
+- [[Two-level atom]]
+- [[Critical density]]
+- [[Forbidden lines]]
+- [[OIII forbidden lines]]
+- [[SII forbidden lines]]
+- [[Forbidden line diagnostics]]
+- [[Boltzmann equation in spectroscopy]]
+- [[Spectroscopic Te diagnostics]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Critical%20density.html" class="backlink-item">Critical density</a></li>
-    <li class="backlink-item-wrap"><a href="Statistical%20equilibrium%20equations.html" class="backlink-item">Statistical equilibrium equations</a></li>
-    <li class="backlink-item-wrap"><a href="Two-level%20atom.html" class="backlink-item">Two-level atom</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Critical density]]
+- [[Statistical equilibrium equations]]
+- [[Two-level atom]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 

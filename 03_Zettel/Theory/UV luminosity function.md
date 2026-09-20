@@ -197,12 +197,12 @@ This proves that star-forming dwarf galaxies alone produced sufficient Lyman con
 
 ## 8. Cross-References and Related Notes
 
-- [Schechter function](Schechter%20function.html) - Standard differential luminosity function formulation
-- [Integrals of the Schechter function](Integrals%20of%20the%20Schechter%20function.html) - Complete Gamma function derivations
-- [Madau plot](Madau%20plot.html) - Cosmic star formation history $\rho_{\rm SFR}(z)$
-- [Deep-field surveys](Deep-field%20surveys.html) - HUDF, GOODS, and Lyman-break galaxy selection
-- [Schmidt-Kennicutt law](Schmidt-Kennicutt%20law.html) - Local star formation relation
-- [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html) - Master Map of Content for course
+- [[Schechter function]] - Standard differential luminosity function formulation
+- [[Integrals of the Schechter function]] - Complete Gamma function derivations
+- [[Madau plot]] - Cosmic star formation history $\rho_{\rm SFR}(z)$
+- [[Deep-field surveys]] - HUDF, GOODS, and Lyman-break galaxy selection
+- [[Schmidt-Kennicutt law]] - Local star formation relation
+- [[Astrophysics_of_Galaxies_MOC]] - Master Map of Content for course
 
 ---
 
@@ -217,13 +217,13 @@ This proves that star-forming dwarf galaxies alone produced sufficient Lyman con
 ![madau2014_SED_templates.png](../../assets/images/madau2014_SED_templates.png)
 *Figure 3 - Synthetic star-forming galaxy SED templates demonstrating the Lyman break at 912 A and Lyman-alpha drop.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Deep-field%20surveys.html" class="backlink-item">Deep-field surveys</a></li>
-    <li class="backlink-item-wrap"><a href="Double%20power-law%20modified%20Schechter.html" class="backlink-item">Double power-law modified Schechter</a></li>
-    <li class="backlink-item-wrap"><a href="Madau%20plot.html" class="backlink-item">Madau plot</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Deep-field surveys]]
+- [[Double power-law modified Schechter]]
+- [[Madau plot]]
+- [[Astrophysics_of_Galaxies_MOC]]
+
 

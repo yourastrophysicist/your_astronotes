@@ -57,11 +57,11 @@ $$\boxed{\, \textbf{Pop III} \; (Z = 0) \;\to\; \textbf{Pop II} \; (Z < 0.002) \
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Milky Way structure](Milky%20Way%20structure.html)
-- [Interstellar medium components and gas cycle](Interstellar%20medium%20components%20and%20gas%20cycle.html)
-- [Cluster ages from CMD turnoff](Cluster%20ages%20from%20CMD%20turnoff.html)
-- [BBN_overview](BBN_overview.html)
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Milky Way structure]]
+- [[Interstellar medium components and gas cycle]]
+- [[Cluster ages from CMD turnoff]]
+- [[BBN_overview]]
 
 ---
 
@@ -115,43 +115,43 @@ $$\boxed{\, \textbf{Pop III} \; (Z = 0) \;\to\; \textbf{Pop II} \; (Z < 0.002) \
 ![obs_stars-092.png](../../assets/images/obs_stars-092.png)
 *Summary of stellar population characteristics.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (34)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Age%20estimation%20in%20unresolved%20populations.html" class="backlink-item">Age estimation in unresolved populations</a></li>
-    <li class="backlink-item-wrap"><a href="CMD%20constraints%20on%20disk%20vs%20halo%20populations.html" class="backlink-item">CMD constraints on disk vs halo populations</a></li>
-    <li class="backlink-item-wrap"><a href="CN%20CH%20MgAl%20anticorrelations.html" class="backlink-item">CN CH MgAl anticorrelations</a></li>
-    <li class="backlink-item-wrap"><a href="Cluster%20ages%20from%20CMD%20turnoff.html" class="backlink-item">Cluster ages from CMD turnoff</a></li>
-    <li class="backlink-item-wrap"><a href="Color-magnitude%20diagrams%20of%20clusters.html" class="backlink-item">Color-magnitude diagrams of clusters</a></li>
-    <li class="backlink-item-wrap"><a href="GC%20formation%20models%20with%20MPs.html" class="backlink-item">GC formation models with MPs</a></li>
-    <li class="backlink-item-wrap"><a href="Galactic%20halo%20and%20bulge%20formation%20timescales.html" class="backlink-item">Galactic halo and bulge formation timescales</a></li>
-    <li class="backlink-item-wrap"><a href="Halo%20accretion%20from%20dwarf%20galaxies.html" class="backlink-item">Halo accretion from dwarf galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="IMF%20from%20cluster%20luminosity%20functions.html" class="backlink-item">IMF from cluster luminosity functions</a></li>
-    <li class="backlink-item-wrap"><a href="Interstellar%20medium%20components%20and%20gas%20cycle.html" class="backlink-item">Interstellar medium components and gas cycle</a></li>
-    <li class="backlink-item-wrap"><a href="MK%20luminosity%20classes.html" class="backlink-item">MK luminosity classes</a></li>
-    <li class="backlink-item-wrap"><a href="MaNGA%20survey.html" class="backlink-item">MaNGA survey</a></li>
-    <li class="backlink-item-wrap"><a href="Mass%20dependence%20of%20multiple%20populations.html" class="backlink-item">Mass dependence of multiple populations</a></li>
-    <li class="backlink-item-wrap"><a href="Metallicity%20and%20chemical%20evolution.html" class="backlink-item">Metallicity and chemical evolution</a></li>
-    <li class="backlink-item-wrap"><a href="Milky%20Way%20structure.html" class="backlink-item">Milky Way structure</a></li>
-    <li class="backlink-item-wrap"><a href="Multiple%20populations%20in%20GCs%20discovery.html" class="backlink-item">Multiple populations in GCs discovery</a></li>
-    <li class="backlink-item-wrap"><a href="Na%20O%20anticorrelation.html" class="backlink-item">Na O anticorrelation</a></li>
-    <li class="backlink-item-wrap"><a href="Open%20clusters%20as%20young%20SSP%20laboratories.html" class="backlink-item">Open clusters as young SSP laboratories</a></li>
-    <li class="backlink-item-wrap"><a href="Planetary%20nebula%20spectroscopy.html" class="backlink-item">Planetary nebula spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="Polluter%20scenarios%20for%20second-generation%20GC%20stars.html" class="backlink-item">Polluter scenarios for second-generation GC stars</a></li>
-    <li class="backlink-item-wrap"><a href="Pop%20III%20remnants%20in%20UFDGs.html" class="backlink-item">Pop III remnants in UFDGs</a></li>
-    <li class="backlink-item-wrap"><a href="Population%20I%20and%20II%20stars.html" class="backlink-item">Population I and II stars</a></li>
-    <li class="backlink-item-wrap"><a href="Proper%20motion%20and%20stellar%20kinematics.html" class="backlink-item">Proper motion and stellar kinematics</a></li>
-    <li class="backlink-item-wrap"><a href="Single%20stellar%20population%20SSP.html" class="backlink-item">Single stellar population SSP</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20atmosphere%20structure.html" class="backlink-item">Stellar atmosphere structure</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20mass%20function%20xi%28M%29.html" class="backlink-item">Stellar mass function xi(M)</a></li>
-    <li class="backlink-item-wrap"><a href="Supernova%20spectroscopy.html" class="backlink-item">Supernova spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="Surface%20brightness%20fluctuations.html" class="backlink-item">Surface brightness fluctuations</a></li>
-    <li class="backlink-item-wrap"><a href="Type%20I%20and%20Type%20II%20GCs.html" class="backlink-item">Type I and Type II GCs</a></li>
-    <li class="backlink-item-wrap"><a href="UFDG%20star%20formation%20histories.html" class="backlink-item">UFDG star formation histories</a></li>
-    <li class="backlink-item-wrap"><a href="Ultra-faint%20dwarf%20galaxies%20definition.html" class="backlink-item">Ultra-faint dwarf galaxies definition</a></li>
-    <li class="backlink-item-wrap"><a href="Why%20hot%20massive%20stars%20dominate%20luminosity.html" class="backlink-item">Why hot massive stars dominate luminosity</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Age estimation in unresolved populations]]
+- [[CMD constraints on disk vs halo populations]]
+- [[CN CH MgAl anticorrelations]]
+- [[Cluster ages from CMD turnoff]]
+- [[Color-magnitude diagrams of clusters]]
+- [[GC formation models with MPs]]
+- [[Galactic halo and bulge formation timescales]]
+- [[Halo accretion from dwarf galaxies]]
+- [[IMF from cluster luminosity functions]]
+- [[Interstellar medium components and gas cycle]]
+- [[MK luminosity classes]]
+- [[MaNGA survey]]
+- [[Mass dependence of multiple populations]]
+- [[Metallicity and chemical evolution]]
+- [[Milky Way structure]]
+- [[Multiple populations in GCs discovery]]
+- [[Na O anticorrelation]]
+- [[Open clusters as young SSP laboratories]]
+- [[Planetary nebula spectroscopy]]
+- [[Polluter scenarios for second-generation GC stars]]
+- [[Pop III remnants in UFDGs]]
+- [[Population I and II stars]]
+- [[Proper motion and stellar kinematics]]
+- [[Single stellar population SSP]]
+- [[Stellar atmosphere structure]]
+- [[Stellar mass function xi(M)]]
+- [[Supernova spectroscopy]]
+- [[Surface brightness fluctuations]]
+- [[Type I and Type II GCs]]
+- [[UFDG star formation histories]]
+- [[Ultra-faint dwarf galaxies definition]]
+- [[Why hot massive stars dominate luminosity]]
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Observational_Astrophysics_MOC]]
+
 

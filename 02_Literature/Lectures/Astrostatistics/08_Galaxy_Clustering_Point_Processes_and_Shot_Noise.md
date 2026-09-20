@@ -5,7 +5,7 @@ title: "08_Galaxy_Clustering_Point_Processes_and_Shot_Noise"
 # Galaxy Clustering, Point Processes, and Shot Noise
 
 Graduate lecture notes in Astro-Statistics and Cosmology, taught by Prof. Michele Liguori at the University of Padua.
-Reference index [Astro-Statistics_and_Cosmology_MOC](../../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html)
+Reference index [[Astro-Statistics_and_Cosmology_MOC]]
 
 ---
 
@@ -186,18 +186,18 @@ Modeling both linear Kaiser amplification and non-linear Finger-of-God damping i
 
 ## Conceptual Connections
 
-- [Astro-Statistics_and_Cosmology_MOC](../../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html) - Master syllabus map of content
-- [06_Fisher_Information_Matrix_Cramer_Rao_Bound_and_Survey_Forecasting](./06_Fisher_Information_Matrix_Cramer_Rao_Bound_and_Survey_Forecasting.html) - Fisher matrix forecasting for galaxy clustering surveys
-- [07_CMB_Power_Spectrum_Likelihood_Analysis_and_Cosmic_Variance](./07_CMB_Power_Spectrum_Likelihood_Analysis_and_Cosmic_Variance.html) - Comparison between 2D CMB angular power spectra and 3D galaxy power spectra
-- [09_Bayesian_Hierarchical_Models_for_Type_Ia_Supernovae](./09_Bayesian_Hierarchical_Models_for_Type_Ia_Supernovae.html) - Point source distance measurements in inhomogeneous universes
+- [[Astro-Statistics_and_Cosmology_MOC]] - Master syllabus map of content
+- [[06_Fisher_Information_Matrix_Cramer_Rao_Bound_and_Survey_Forecasting]] - Fisher matrix forecasting for galaxy clustering surveys
+- [[07_CMB_Power_Spectrum_Likelihood_Analysis_and_Cosmic_Variance]] - Comparison between 2D CMB angular power spectra and 3D galaxy power spectra
+- [[09_Bayesian_Hierarchical_Models_for_Type_Ia_Supernovae]] - Point source distance measurements in inhomogeneous universes
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Feldman-Kaiser-Peacock%20optimal%20weighting%20for%20galaxy%20surveys.html" class="backlink-item">Feldman-Kaiser-Peacock optimal weighting for galaxy surveys</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Galaxy%20power%20spectrum%20and%20Poisson%20shot%20noise.html" class="backlink-item">Galaxy power spectrum and Poisson shot noise</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Spatial%20two-point%20correlation%20function%20and%20Landy-Szalay%20estimator.html" class="backlink-item">Spatial two-point correlation function and Landy-Szalay estimator</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Feldman-Kaiser-Peacock optimal weighting for galaxy surveys]]
+- [[Galaxy power spectrum and Poisson shot noise]]
+- [[Spatial two-point correlation function and Landy-Szalay estimator]]
+- [[Astro-Statistics_and_Cosmology_MOC]]
+
 

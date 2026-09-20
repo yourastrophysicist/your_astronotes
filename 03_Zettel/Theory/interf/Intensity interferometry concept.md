@@ -101,26 +101,21 @@ intensity interferometers calibrate by measuring an unresolved (or known-diamete
 
 ## see also
 
-- [Hanbury Brown Twiss effect](Hanbury%20Brown%20Twiss%20effect.html)
-- [Narrabri stellar interferometer](Narrabri%20stellar%20interferometer.html)
-- [Why intensity interferometry escapes atmospheric phase](Why%20intensity%20interferometry%20escapes%20atmospheric%20phase.html)
-- [Sensitivity and modern revival](Sensitivity%20and%20modern%20revival.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Hanbury Brown Twiss effect]]
+- [[Narrabri stellar interferometer]]
+- [[Why intensity interferometry escapes atmospheric phase]]
+- [[Sensitivity and modern revival]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (11)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Hanbury%20Brown%20Twiss%20effect.html" class="backlink-item">Hanbury Brown Twiss effect</a></li>
-    <li class="backlink-item-wrap"><a href="../Narrabri%20stellar%20interferometer.html" class="backlink-item">Narrabri stellar interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="../Photon%20noise%20and%20statistics.html" class="backlink-item">Photon noise and statistics</a></li>
-    <li class="backlink-item-wrap"><a href="../Sensitivity%20and%20modern%20revival.html" class="backlink-item">Sensitivity and modern revival</a></li>
-    <li class="backlink-item-wrap"><a href="../Why%20intensity%20interferometry%20escapes%20atmospheric%20phase.html" class="backlink-item">Why intensity interferometry escapes atmospheric phase</a></li>
-    <li class="backlink-item-wrap"><a href="Hanbury%20Brown%20Twiss%20effect.html" class="backlink-item">Hanbury Brown Twiss effect</a></li>
-    <li class="backlink-item-wrap"><a href="Narrabri%20stellar%20interferometer.html" class="backlink-item">Narrabri stellar interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="Photon%20noise%20and%20statistics.html" class="backlink-item">Photon noise and statistics</a></li>
-    <li class="backlink-item-wrap"><a href="Sensitivity%20and%20modern%20revival.html" class="backlink-item">Sensitivity and modern revival</a></li>
-    <li class="backlink-item-wrap"><a href="Why%20intensity%20interferometry%20escapes%20atmospheric%20phase.html" class="backlink-item">Why intensity interferometry escapes atmospheric phase</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Hanbury Brown Twiss effect]]
+- [[Narrabri stellar interferometer]]
+- [[Photon noise and statistics]]
+- [[Sensitivity and modern revival]]
+- [[Why intensity interferometry escapes atmospheric phase]]
+- [[Astronomical_Interferometry_MOC]]
+
 

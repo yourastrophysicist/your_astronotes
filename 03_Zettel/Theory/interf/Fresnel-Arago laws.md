@@ -86,20 +86,18 @@ this is a standard undergraduate physics experiment, and a clean demonstration o
 
 ## see also
 
-- [Light waves and the EM spectrum](Light%20waves%20and%20the%20EM%20spectrum.html)
-- [Polarization in interferometry](Polarization%20in%20interferometry.html)
-- [Optical path difference OPD](Optical%20path%20difference%20OPD.html)
-- [Superposition and interference](Superposition%20and%20interference.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Light waves and the EM spectrum]]
+- [[Polarization in interferometry]]
+- [[Optical path difference OPD]]
+- [[Superposition and interference]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Light%20waves%20and%20the%20EM%20spectrum.html" class="backlink-item">Light waves and the EM spectrum</a></li>
-    <li class="backlink-item-wrap"><a href="../Optical%20path%20difference%20OPD.html" class="backlink-item">Optical path difference OPD</a></li>
-    <li class="backlink-item-wrap"><a href="Light%20waves%20and%20the%20EM%20spectrum.html" class="backlink-item">Light waves and the EM spectrum</a></li>
-    <li class="backlink-item-wrap"><a href="Optical%20path%20difference%20OPD.html" class="backlink-item">Optical path difference OPD</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Light waves and the EM spectrum]]
+- [[Optical path difference OPD]]
+- [[Astronomical_Interferometry_MOC]]
+
 

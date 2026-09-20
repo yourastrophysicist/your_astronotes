@@ -37,7 +37,7 @@ This verticalization is what makes the two axes closely orthogonal in practice: 
 
 ## what the map shows
 
-for a typical [Type I GC](Type%20I%20and%20Type%20II%20GCs.html):
+for a typical [[Type I and Type II GCs|Type I GC]]:
 - a **1G clump** at $\Delta_C \approx 0$, near the bottom of the He axis: primordial composition
 - a **2G stream** extending to higher $\Delta_C$ + higher $\Delta_{F275W,F814W}$: enhanced N + He
 - the 2G is often itself substructured, with discrete sub-populations 2Ga, 2Gb (sometimes more)
@@ -48,13 +48,13 @@ from Milone et al. 2015 (ApJ 808, 51), the chemical definition:
 - **1G stars** display chemical abundances comparable to those of **field stars** with the same metallicity: normal Na, O, C, N, Mg, He.
 - **2G stars** display anomalous abundances: enhanced Na, N, He; depleted O, C, Mg. these are the products of hot proton-capture nucleosynthesis in a previous polluter generation.
 
-the 2G fraction $N_{2G}/N_\text{tot}$ is read directly off the map. it averages ~65% across the survey + correlates strongly with cluster mass (see [Mass dependence of multiple populations](Mass%20dependence%20of%20multiple%20populations.html)).
+the 2G fraction $N_{2G}/N_\text{tot}$ is read directly off the map. it averages ~65% across the survey + correlates strongly with cluster mass (see [[Mass dependence of multiple populations]]).
 
 ## why two axes + not one
 
 historically Na-O was the diagnostic, but it requires expensive high-resolution spectroscopy on bright giants. the chromosome map's power is that it works **photometrically**, on every star down to several mag below the MS turn-off, in clusters out to ~50 kpc, including some in M31 + the Magellanic Clouds.
 
-the orthogonality of the axes matters. ΔF275W,F814W tracks He primarily because of the long baseline + the structural effect of He on stellar atmospheres ([Stellar atmosphere structure](Stellar%20atmosphere%20structure.html)). ΔC isolates nitrogen via molecular absorption. a star can be N-rich without being He-rich (modest 2G) or both (extreme 2G), + the map separates these cases. this lets milone's group identify substructure within the 2G + define discrete populations 2Ga, 2Gb, 2Gc.
+the orthogonality of the axes matters. ΔF275W,F814W tracks He primarily because of the long baseline + the structural effect of He on stellar atmospheres ([[Stellar atmosphere structure]]). ΔC isolates nitrogen via molecular absorption. a star can be N-rich without being He-rich (modest 2G) or both (extreme 2G), + the map separates these cases. this lets milone's group identify substructure within the 2G + define discrete populations 2Ga, 2Gb, 2Gc.
 
 ## the HST UV Legacy Survey of GCs
 
@@ -73,14 +73,14 @@ for a given cluster, the chromosome map is the basis for:
 - spectroscopic follow-up: select 1G + 2G targets cleanly for FLAMES / MUSE / MIKE confirmation
 - constraining polluter models: discrete vs continuous distribution, He spread, N spread
 - studying spatial + kinematic differences between populations using gaia or HST proper motions
-- finding [Type II GCs](Type%20I%20and%20Type%20II%20GCs.html) (NGC 1851, M22, M2, NGC 6934, $\omega$ Cen)
+- finding [[Type I and Type II GCs|Type II GCs]] (NGC 1851, M22, M2, NGC 6934, $\omega$ Cen)
 
 ## extensions
 
 milone et al. 2018 + marino et al. 2019 extended the chromosome map to:
 - include F410M (replacing F438W where available) for sharper N sensitivity
 - add JWST NIRCam filters for clusters with high reddening (e.g. terzan 5, liller 1, bulge GCs)
-- map populations on the [Asymptotic giant branch AGB](Asymptotic%20giant%20branch%20AGB.html) + HB, where He effects are amplified
+- map populations on the [[Asymptotic giant branch AGB]] + HB, where He effects are amplified
 
 the chromosome map is also being applied to extragalactic GCs (LMC, SMC, M31) via HST + JWST, confirming MPs are universal in old massive clusters across galaxies.
 
@@ -98,18 +98,18 @@ before the chromosome map, multiple populations were a complicated patchwork of 
 
 ## see also
 
-- [Multiple populations in GCs discovery](Multiple%20populations%20in%20GCs%20discovery.html)
-- [Na O anticorrelation](Na%20O%20anticorrelation.html)
-- [CN CH MgAl anticorrelations](CN%20CH%20MgAl%20anticorrelations.html)
-- [Helium spread in GCs](Helium%20spread%20in%20GCs.html)
-- [Type I and Type II GCs](Type%20I%20and%20Type%20II%20GCs.html)
-- [Mass dependence of multiple populations](Mass%20dependence%20of%20multiple%20populations.html)
-- [Polluter scenarios for second-generation GC stars](Polluter%20scenarios%20for%20second-generation%20GC%20stars.html)
-- [GC formation models with MPs](GC%20formation%20models%20with%20MPs.html)
-- [Multiple populations in extragalactic GCs](Multiple%20populations%20in%20extragalactic%20GCs.html)
-- [Color-magnitude diagrams of clusters](Color-magnitude%20diagrams%20of%20clusters.html)
-- [Stellar atmosphere structure](Stellar%20atmosphere%20structure.html)
-- [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
+- [[Multiple populations in GCs discovery]]
+- [[Na O anticorrelation]]
+- [[CN CH MgAl anticorrelations]]
+- [[Helium spread in GCs]]
+- [[Type I and Type II GCs]]
+- [[Mass dependence of multiple populations]]
+- [[Polluter scenarios for second-generation GC stars]]
+- [[GC formation models with MPs]]
+- [[Multiple populations in extragalactic GCs]]
+- [[Color-magnitude diagrams of clusters]]
+- [[Stellar atmosphere structure]]
+- [[Stellar_Astrophysics_MOC]]
 
 ---
 
@@ -206,23 +206,23 @@ The following slides from Prof. Antonino Milone's lecture series provide the dir
 ![Lecture17_p5-05.png](../../assets/images/Lecture17_p5-05.png)
 *Figure P17-29: Lecture17_p5-05.png — Observational data, CMD morphology, and diagnostics from Lecture 17 — Multiple Stellar Populations II: Chromosome Maps.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (14)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="CN%20CH%20MgAl%20anticorrelations.html" class="backlink-item">CN CH MgAl anticorrelations</a></li>
-    <li class="backlink-item-wrap"><a href="Differential%20reddening%20maps.html" class="backlink-item">Differential reddening maps</a></li>
-    <li class="backlink-item-wrap"><a href="Effects%20of%20differential%20reddening%20on%20CMD%20analysis.html" class="backlink-item">Effects of differential reddening on CMD analysis</a></li>
-    <li class="backlink-item-wrap"><a href="GC%20formation%20models%20with%20MPs.html" class="backlink-item">GC formation models with MPs</a></li>
-    <li class="backlink-item-wrap"><a href="Helium%20spread%20in%20GCs.html" class="backlink-item">Helium spread in GCs</a></li>
-    <li class="backlink-item-wrap"><a href="Mass%20dependence%20of%20multiple%20populations.html" class="backlink-item">Mass dependence of multiple populations</a></li>
-    <li class="backlink-item-wrap"><a href="Multiple%20populations%20in%20GCs%20discovery.html" class="backlink-item">Multiple populations in GCs discovery</a></li>
-    <li class="backlink-item-wrap"><a href="Multiple%20populations%20in%20extragalactic%20GCs.html" class="backlink-item">Multiple populations in extragalactic GCs</a></li>
-    <li class="backlink-item-wrap"><a href="Na%20O%20anticorrelation.html" class="backlink-item">Na O anticorrelation</a></li>
-    <li class="backlink-item-wrap"><a href="Polluter%20scenarios%20for%20second-generation%20GC%20stars.html" class="backlink-item">Polluter scenarios for second-generation GC stars</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20Astrophysics%20research%20citations%20index.html" class="backlink-item">Stellar Astrophysics research citations index</a></li>
-    <li class="backlink-item-wrap"><a href="Type%20I%20and%20Type%20II%20GCs.html" class="backlink-item">Type I and Type II GCs</a></li>
-    <li class="backlink-item-wrap"><a href="eMSTO%20and%20multiple%20populations%20connection.html" class="backlink-item">eMSTO and multiple populations connection</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[CN CH MgAl anticorrelations]]
+- [[Differential reddening maps]]
+- [[Effects of differential reddening on CMD analysis]]
+- [[GC formation models with MPs]]
+- [[Helium spread in GCs]]
+- [[Mass dependence of multiple populations]]
+- [[Multiple populations in GCs discovery]]
+- [[Multiple populations in extragalactic GCs]]
+- [[Na O anticorrelation]]
+- [[Polluter scenarios for second-generation GC stars]]
+- [[Stellar Astrophysics research citations index]]
+- [[Type I and Type II GCs]]
+- [[eMSTO and multiple populations connection]]
+- [[Stellar_Astrophysics_MOC]]
+
 

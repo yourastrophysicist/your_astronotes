@@ -4,7 +4,7 @@ title: "Cosmic stellar mass density growth"
 ---
 # cosmic stellar mass density growth
 
-up: [Pablo_02_Statistical_properties_of_galaxies](../../02_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html)
+up: [[Pablo_02_Statistical_properties_of_galaxies]]
 
 ## the definition
 
@@ -12,7 +12,7 @@ the cosmic stellar mass density is
 
 $$\rho_*(z) = \int_0^\infty M_*\, \phi(M_*, z)\, dM_*$$
 
-units of $M_\odot\, \text{Mpc}^{-3}$. it is the first moment of the stellar mass function (see [Stellar mass function](Stellar%20mass%20function.html) and [Integrals of the Schechter function](Integrals%20of%20the%20Schechter%20function.html)).
+units of $M_\odot\, \text{Mpc}^{-3}$. it is the first moment of the stellar mass function (see [[Stellar mass function]] and [[Integrals of the Schechter function]]).
 
 ## perez-gonzalez 2008a result
 
@@ -32,7 +32,7 @@ $$\rho_*(t) = (1 - R) \int_0^t \rho_{SFR}(t')\, dt'$$
 
 where $R \approx 0.4$ is the **return fraction** (mass given back to the ISM by stellar winds and SNe over a Hubble time, IMF-dependent).
 
-this is [SFR and stellar mass density connection](SFR%20and%20stellar%20mass%20density%20connection.html): the cosmic SFR is the time derivative of the stellar mass density, modulo recycling.
+this is [[SFR and stellar mass density connection]]: the cosmic SFR is the time derivative of the stellar mass density, modulo recycling.
 
 historically, integrating the Madau-Dickinson SFR overshot the measured stellar mass density by a factor of $\sim 1.5$. the "stellar-mass-budget" tension drove a decade of work on IMF, dust corrections, and stellar evolution. recent updates (Davidzon 2017, Madau-Dickinson 2014) bring the two within $\sim 30\%$ at all $z$.
 
@@ -48,10 +48,10 @@ both $\rho_*$ (via $M_*/L$) and $\rho_{SFR}$ (via SFR/$L_{UV}$ or SFR/$L_{IR}$) 
 
 ## connections
 
-- companion plot: [Cosmic star formation history](Cosmic%20star%20formation%20history.html)
-- bridge equation: [SFR and stellar mass density connection](SFR%20and%20stellar%20mass%20density%20connection.html)
-- mass function: [Stellar mass function](Stellar%20mass%20function.html)
-- mass integrals: [Integrals of the Schechter function](Integrals%20of%20the%20Schechter%20function.html)
+- companion plot: [[Cosmic star formation history]]
+- bridge equation: [[SFR and stellar mass density connection]]
+- mass function: [[Stellar mass function]]
+- mass integrals: [[Integrals of the Schechter function]]
 
 ## key references
 
@@ -59,14 +59,14 @@ both $\rho_*$ (via $M_*/L$) and $\rho_{SFR}$ (via SFR/$L_{UV}$ or SFR/$L_{IR}$) 
 - Madau & Dickinson 2014, ARAA 52, 415
 - Davidzon et al. 2017 (COSMOS SMF and $\rho_*$ to $z \sim 5$)
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Cosmic%20star%20formation%20history.html" class="backlink-item">Cosmic star formation history</a></li>
-    <li class="backlink-item-wrap"><a href="Madau%20plot.html" class="backlink-item">Madau plot</a></li>
-    <li class="backlink-item-wrap"><a href="SFR%20and%20stellar%20mass%20density%20connection.html" class="backlink-item">SFR and stellar mass density connection</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20mass%20function.html" class="backlink-item">Stellar mass function</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Cosmic star formation history]]
+- [[Madau plot]]
+- [[SFR and stellar mass density connection]]
+- [[Stellar mass function]]
+- [[Observational_Cosmology_MOC]]
+
 

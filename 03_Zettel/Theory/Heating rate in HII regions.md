@@ -48,7 +48,7 @@ beyond hydrogen photoionisation:
 
 ## balance with cooling
 
-heating is balanced by **cooling** ([Cooling rate in HII regions](Cooling%20rate%20in%20HII%20regions.html)) at the equilibrium $T_e$:
+heating is balanced by **cooling** ([[Cooling rate in HII regions]]) at the equilibrium $T_e$:
 $$G(T_e) = L(T_e)$$
 
 solving gives the local $T_e$. for typical HII regions, $T_e \approx 7000$ to $14\,000$ K.
@@ -61,22 +61,22 @@ heating rate per atom $\propto U$. so high-$U$ regions are "hotter" in the sense
 
 ## see also
 
-- [Cooling rate in HII regions](Cooling%20rate%20in%20HII%20regions.html)
-- [Equilibrium temperature](Equilibrium%20temperature.html)
-- [Cooling curve](Cooling%20curve.html)
-- [Photoionization rate](Photoionization%20rate.html)
-- [Photoionisation balance](Photoionisation%20balance.html)
-- [Ionisation parameter U](Ionisation%20parameter%20U.html)
+- [[Cooling rate in HII regions]]
+- [[Equilibrium temperature]]
+- [[Cooling curve]]
+- [[Photoionization rate]]
+- [[Photoionisation balance]]
+- [[Ionisation parameter U]]
 - Strömgren sphere
-- [Forbidden line diagnostics](Forbidden%20line%20diagnostics.html)
+- [[Forbidden line diagnostics]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Cooling%20curve.html" class="backlink-item">Cooling curve</a></li>
-    <li class="backlink-item-wrap"><a href="Cooling%20rate%20in%20HII%20regions.html" class="backlink-item">Cooling rate in HII regions</a></li>
-    <li class="backlink-item-wrap"><a href="Equilibrium%20temperature.html" class="backlink-item">Equilibrium temperature</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Cooling curve]]
+- [[Cooling rate in HII regions]]
+- [[Equilibrium temperature]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 

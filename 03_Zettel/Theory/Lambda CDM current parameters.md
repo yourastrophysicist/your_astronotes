@@ -75,14 +75,14 @@ each extension tests different physical models against the data.
 
 ## see also
 
-- [Friedmann equations](Friedmann%20equations.html)
-- [FLRW metric](FLRW%20metric.html)
-- [Cosmological constant](Cosmological%20constant.html)
-- [Cosmic_inventory_overview](Cosmic_inventory_overview.html)
-- [Cosmic_inventory_dark_matter](Cosmic_inventory_dark_matter.html)
-- [Cosmic_inventory_dark_energy](Cosmic_inventory_dark_energy.html)
-- [CMB power spectrum](CMB%20power%20spectrum.html)
-- [Matter power spectrum and BAO](Matter%20power%20spectrum%20and%20BAO.html)
-- [Hubble law](Hubble%20law.html)
-- [Inflation overview](Inflation%20overview.html)
-- [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
+- [[Friedmann equations]]
+- [[FLRW metric]]
+- [[Cosmological constant]]
+- [[Cosmic_inventory_overview]]
+- [[Cosmic_inventory_dark_matter]]
+- [[Cosmic_inventory_dark_energy]]
+- [[CMB power spectrum]]
+- [[Matter power spectrum and BAO]]
+- [[Hubble law]]
+- [[Inflation overview]]
+- [[Observational_Cosmology_MOC]]

@@ -57,7 +57,7 @@ for symmetric sources (binary stars with equal magnitudes, uniform disks):
 
 for asymmetric sources, $\lvert \tilde O\rvert$ alone is *not enough* — phase information is needed for full reconstruction. speckle interferometry recovers the *symmetric part* of the source.
 
-for more complete recovery, use [Knox-Thompson](Speckle%20imaging%20algorithms.html) or [triple-correlation](Bispectrum%20and%20triple%20correlation.html) methods, which preserve some phase information.
+for more complete recovery, use [[Speckle imaging algorithms|Knox-Thompson]] or [[Bispectrum and triple correlation|triple-correlation]] methods, which preserve some phase information.
 
 ## the practical procedure
 
@@ -99,26 +99,22 @@ instruments: PISCO at Mt. Wilson, the Andor speckle camera at WIYN, NESSI at Gem
 
 ## see also
 
-- [Theory of speckle interferometry](Theory%20of%20speckle%20interferometry.html)
-- [Aperture masking](Aperture%20masking.html)
-- [Speckle imaging algorithms](Speckle%20imaging%20algorithms.html)
-- [Bispectrum and triple correlation](Bispectrum%20and%20triple%20correlation.html)
-- [Adaptive optics](Adaptive%20optics.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Theory of speckle interferometry]]
+- [[Aperture masking]]
+- [[Speckle imaging algorithms]]
+- [[Bispectrum and triple correlation]]
+- [[Adaptive optics]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (10)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Aperture%20masking.html" class="backlink-item">Aperture masking</a></li>
-    <li class="backlink-item-wrap"><a href="../Bispectrum%20and%20triple%20correlation.html" class="backlink-item">Bispectrum and triple correlation</a></li>
-    <li class="backlink-item-wrap"><a href="../Speckle%20imaging%20algorithms.html" class="backlink-item">Speckle imaging algorithms</a></li>
-    <li class="backlink-item-wrap"><a href="../Theory%20of%20speckle%20interferometry.html" class="backlink-item">Theory of speckle interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="Aperture%20masking.html" class="backlink-item">Aperture masking</a></li>
-    <li class="backlink-item-wrap"><a href="Bispectrum%20and%20triple%20correlation.html" class="backlink-item">Bispectrum and triple correlation</a></li>
-    <li class="backlink-item-wrap"><a href="Speckle%20imaging%20algorithms.html" class="backlink-item">Speckle imaging algorithms</a></li>
-    <li class="backlink-item-wrap"><a href="Superposition%20and%20interference.html" class="backlink-item">Superposition and interference</a></li>
-    <li class="backlink-item-wrap"><a href="Theory%20of%20speckle%20interferometry.html" class="backlink-item">Theory of speckle interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Aperture masking]]
+- [[Bispectrum and triple correlation]]
+- [[Speckle imaging algorithms]]
+- [[Theory of speckle interferometry]]
+- [[Superposition and interference]]
+- [[Astronomical_Interferometry_MOC]]
+
 

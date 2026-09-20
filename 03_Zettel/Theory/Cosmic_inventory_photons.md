@@ -7,7 +7,7 @@ photons in the universe come in many bands, each carrying its own cosmic backgro
 ![intro-08.png](../../assets/images/intro-08.png)
 
 - **CGB**: cosmic gamma-ray background
-- **CXB**: cosmic X-ray background (see [Lab_High-Energy_MOC](../../04_Atlas/Lab_High-Energy_MOC.html))
+- **CXB**: cosmic X-ray background (see [[Lab_High-Energy_MOC]])
 - **CUVOB**: cosmic UV/optical background (stars and AGN)
 - **CIB**: cosmic infrared background (dust-reprocessed star formation)
 - **CMB**: cosmic microwave background — **dominates by number** ($\sim 99\%$ of all photons)
@@ -90,30 +90,30 @@ these tiny anisotropies are the seeds of every galaxy and cluster I will ever ob
 
 ## see also
 
-- [Cosmic_inventory_photons_derivation](Cosmic_inventory_photons_derivation.html)
+- [[Cosmic_inventory_photons_derivation]]
 - CMB Spectral Distortions — What They Are and Where They Come From
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Cosmic_inventory_overview](Cosmic_inventory_overview.html)
-- [Brief thermal history](Brief%20thermal%20history.html)
-- [Photon decoupling and CMB](Photon%20decoupling%20and%20CMB.html)
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Cosmic_inventory_overview]]
+- [[Brief thermal history]]
+- [[Photon decoupling and CMB]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (14)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="BBN_baryon_to_photon_ratio.html" class="backlink-item">BBN_baryon_to_photon_ratio</a></li>
-    <li class="backlink-item-wrap"><a href="BBN_concordance_with_CMB.html" class="backlink-item">BBN_concordance_with_CMB</a></li>
-    <li class="backlink-item-wrap"><a href="BBN_overview.html" class="backlink-item">BBN_overview</a></li>
-    <li class="backlink-item-wrap"><a href="Blackbody%20radiation%20and%20Stefan-Boltzmann.html" class="backlink-item">Blackbody radiation and Stefan-Boltzmann</a></li>
-    <li class="backlink-item-wrap"><a href="Brief%20thermal%20history.html" class="backlink-item">Brief thermal history</a></li>
-    <li class="backlink-item-wrap"><a href="CMB%20-%20discovery%20and%20blackbody%20spectrum.html" class="backlink-item">CMB - discovery and blackbody spectrum</a></li>
-    <li class="backlink-item-wrap"><a href="CMB%20Spectral%20Distortions%20-%20What%20They%20Are%20and%20Where%20They%20Come%20From.html" class="backlink-item">CMB Spectral Distortions - What They Are and Where They Come From</a></li>
-    <li class="backlink-item-wrap"><a href="Cosmic_inventory_baryons.html" class="backlink-item">Cosmic_inventory_baryons</a></li>
-    <li class="backlink-item-wrap"><a href="Cosmic_inventory_overview.html" class="backlink-item">Cosmic_inventory_overview</a></li>
-    <li class="backlink-item-wrap"><a href="Cosmic_inventory_photons_derivation.html" class="backlink-item">Cosmic_inventory_photons_derivation</a></li>
-    <li class="backlink-item-wrap"><a href="Cosmological%20principle.html" class="backlink-item">Cosmological principle</a></li>
-    <li class="backlink-item-wrap"><a href="Photon%20decoupling%20and%20CMB.html" class="backlink-item">Photon decoupling and CMB</a></li>
-    <li class="backlink-item-wrap"><a href="Saha%20equation%20and%20recombination.html" class="backlink-item">Saha equation and recombination</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[BBN_baryon_to_photon_ratio]]
+- [[BBN_concordance_with_CMB]]
+- [[BBN_overview]]
+- [[Blackbody radiation and Stefan-Boltzmann]]
+- [[Brief thermal history]]
+- [[CMB - discovery and blackbody spectrum]]
+- [[CMB Spectral Distortions - What They Are and Where They Come From]]
+- [[Cosmic_inventory_baryons]]
+- [[Cosmic_inventory_overview]]
+- [[Cosmic_inventory_photons_derivation]]
+- [[Cosmological principle]]
+- [[Photon decoupling and CMB]]
+- [[Saha equation and recombination]]
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+
 

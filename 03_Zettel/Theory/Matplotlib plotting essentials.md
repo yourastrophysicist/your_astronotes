@@ -219,21 +219,21 @@ plt.savefig("ex4_nbody.pdf")
 
 ## see also
 
-- [Numpy arrays vs Python lists](Numpy%20arrays%20vs%20Python%20lists.html)
-- [Numerical problem solving workflow](Numerical%20problem%20solving%20workflow.html)
-- [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
+- [[Numpy arrays vs Python lists]]
+- [[Numerical problem solving workflow]]
+- [[Mathematical_Numerical_Methods_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (8)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Hint%20-%20TODO%201.3%20Creating%20Scatter%20Plots%20for%20Large%20Datasets.html" class="backlink-item">Hint - TODO 1.3 Creating Scatter Plots for Large Datasets</a></li>
-    <li class="backlink-item-wrap"><a href="Hint%20-%20TODO%201.4%202D%20Histograms%20and%20Colorbars.html" class="backlink-item">Hint - TODO 1.4 2D Histograms and Colorbars</a></li>
-    <li class="backlink-item-wrap"><a href="Hint%20-%20TODO%202.2%20Logarithmic%20Binning%20for%20Inverse%20Sampling.html" class="backlink-item">Hint - TODO 2.2 Logarithmic Binning for Inverse Sampling</a></li>
-    <li class="backlink-item-wrap"><a href="Hint%20-%20TODO%203.2%20Monte%20Carlo%20Convergence%20Scaling.html" class="backlink-item">Hint - TODO 3.2 Monte Carlo Convergence Scaling</a></li>
-    <li class="backlink-item-wrap"><a href="Pandas%20for%20tabular%20astrophysics%20data.html" class="backlink-item">Pandas for tabular astrophysics data</a></li>
-    <li class="backlink-item-wrap"><a href="Python%20language%20essentials.html" class="backlink-item">Python language essentials</a></li>
-    <li class="backlink-item-wrap"><a href="Scipy%20and%20astropy%20quick%20reference.html" class="backlink-item">Scipy and astropy quick reference</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Hint - TODO 1.3 Creating Scatter Plots for Large Datasets]]
+- [[Hint - TODO 1.4 2D Histograms and Colorbars]]
+- [[Hint - TODO 2.2 Logarithmic Binning for Inverse Sampling]]
+- [[Hint - TODO 3.2 Monte Carlo Convergence Scaling]]
+- [[Pandas for tabular astrophysics data]]
+- [[Python language essentials]]
+- [[Scipy and astropy quick reference]]
+- [[Mathematical_Numerical_Methods_MOC]]
+
 

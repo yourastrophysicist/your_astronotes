@@ -53,20 +53,20 @@ $$\mathcal{P}_{\delta\phi}(k) \equiv \frac{k^3}{2\pi^2}\lvert \delta\phi_k\rvert
 
 ## connections & zettel links
 
-* parent moc: [Cosmology_of_the_Early_Universe_MOC](../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html)
+* parent moc: [[Cosmology_of_the_Early_Universe_MOC]]
 * related zettels:
-  - [Sasaki-Mukhanov variable and equation](Sasaki-Mukhanov%20variable%20and%20equation.html)
-  - [Bunch-Davies vacuum and mode functions](Bunch-Davies%20vacuum%20and%20mode%20functions.html)
-  - [Scalar primordial power spectrum and spectral index](Scalar%20primordial%20power%20spectrum%20and%20spectral%20index.html)
-  - [Part3_Quantum_Perturbations_and_Power_Spectra](../../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part3_Quantum_Perturbations_and_Power_Spectra.html)
+  - [[Sasaki-Mukhanov variable and equation]]
+  - [[Bunch-Davies vacuum and mode functions]]
+  - [[Scalar primordial power spectrum and spectral index]]
+  - [[Part3_Quantum_Perturbations_and_Power_Spectra]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Bunch-Davies%20vacuum%20and%20mode%20functions.html" class="backlink-item">Bunch-Davies vacuum and mode functions</a></li>
-    <li class="backlink-item-wrap"><a href="Sasaki-Mukhanov%20variable%20and%20equation.html" class="backlink-item">Sasaki-Mukhanov variable and equation</a></li>
-    <li class="backlink-item-wrap"><a href="Single-field%20slow-roll%20inflation%20dynamics.html" class="backlink-item">Single-field slow-roll inflation dynamics</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html" class="backlink-item">Cosmology_of_the_Early_Universe_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Bunch-Davies vacuum and mode functions]]
+- [[Sasaki-Mukhanov variable and equation]]
+- [[Single-field slow-roll inflation dynamics]]
+- [[Cosmology_of_the_Early_Universe_MOC]]
+
 

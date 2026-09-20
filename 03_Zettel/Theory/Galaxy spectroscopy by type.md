@@ -81,29 +81,29 @@ a 2D diagnostic plot ($[OIII]/H\beta$ vs $[NII]/H\alpha$) separates:
 - **AGN / Seyfert** (above the locus).
 - **LINERs** (intermediate).
 
-see [BPT diagram](BPT%20diagram.html) for the full discussion.
+see [[BPT diagram]] for the full discussion.
 
 ## see also
 
-- [H II region spectroscopy](H%20II%20region%20spectroscopy.html)
-- [Planetary nebula spectroscopy](Planetary%20nebula%20spectroscopy.html)
-- [AGN spectroscopy](AGN%20spectroscopy.html)
-- [BPT diagram](BPT%20diagram.html)
-- [Calcium and CaII H+K](Calcium%20and%20CaII%20H%2BK.html)
-- [Stellar population synthesis](Stellar%20population%20synthesis.html)
-- [Why the Sequence OBAFGKM](Why%20the%20Sequence%20OBAFGKM.html)
-- [Hubble morphological sequence](Hubble%20morphological%20sequence.html)
-- [Color bimodality of galaxies](Color%20bimodality%20of%20galaxies.html)
-- [Galaxy color, density and morphology](Galaxy%20color%2C%20density%20and%20morphology.html)
+- [[H II region spectroscopy]]
+- [[Planetary nebula spectroscopy]]
+- [[AGN spectroscopy]]
+- [[BPT diagram]]
+- [[Calcium and CaII H+K]]
+- [[Stellar population synthesis]]
+- [[Why the Sequence OBAFGKM]]
+- [[Hubble morphological sequence]]
+- [[Color bimodality of galaxies]]
+- [[Galaxy color, density and morphology]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="AGN%20spectroscopy.html" class="backlink-item">AGN spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="BPT%20diagram.html" class="backlink-item">BPT diagram</a></li>
-    <li class="backlink-item-wrap"><a href="MaNGA%20survey.html" class="backlink-item">MaNGA survey</a></li>
-    <li class="backlink-item-wrap"><a href="PCA%20spectral%20classification%20of%20galaxies.html" class="backlink-item">PCA spectral classification of galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[AGN spectroscopy]]
+- [[BPT diagram]]
+- [[MaNGA survey]]
+- [[PCA spectral classification of galaxies]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 

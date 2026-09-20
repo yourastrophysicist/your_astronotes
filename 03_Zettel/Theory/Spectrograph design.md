@@ -62,17 +62,17 @@ so $\eta_{\rm tot} \approx 0.2$ to $0.3$ at peak. spectrographs are inefficient 
 
 ## see also
 
-- [Grating equation](Grating%20equation.html)
-- [Dispersion and spectral resolution](Dispersion%20and%20spectral%20resolution.html)
-- [Spectrograph types](Spectrograph%20types.html)
-- [Echelle spectroscopy](Echelle%20spectroscopy.html)
-- [Multi-object spectroscopy MOS](Multi-object%20spectroscopy%20MOS.html)
-- [Integral-field spectroscopy IFU](Integral-field%20spectroscopy%20IFU.html)
-- [Wavelength calibration](Wavelength%20calibration.html)
-- [Flux calibration](interf/Flux%20calibration.html)
-- [Spectrum reduction pipeline](Spectrum%20reduction%20pipeline.html)
-- [Atmospheric seeing](interf/Atmospheric%20seeing.html) — what sets the slit width
-- [CCD detectors and SNR](CCD%20detectors%20and%20SNR.html)
+- [[Grating equation]]
+- [[Dispersion and spectral resolution]]
+- [[Spectrograph types]]
+- [[Echelle spectroscopy]]
+- [[Multi-object spectroscopy MOS]]
+- [[Integral-field spectroscopy IFU]]
+- [[Wavelength calibration]]
+- [[Flux calibration]]
+- [[Spectrum reduction pipeline]]
+- [[Atmospheric seeing]] — what sets the slit width
+- [[CCD detectors and SNR]]
 
 ---
 
@@ -85,23 +85,22 @@ so $\eta_{\rm tot} \approx 0.2$ to $0.3$ at peak. spectrographs are inefficient 
 ![spec_optics_p32.png](../../assets/images/spec_optics_p32.png)
 *Echelle spectrograph architecture: high-blaze coarse grating ($R2/R4$) operated in high orders ($m \sim 30-100$) cross-dispersed with a prism or grism.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (14)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Blazed%20gratings.html" class="backlink-item">Blazed gratings</a></li>
-    <li class="backlink-item-wrap"><a href="Dispersion%20and%20spectral%20resolution.html" class="backlink-item">Dispersion and spectral resolution</a></li>
-    <li class="backlink-item-wrap"><a href="Echelle%20spectroscopy.html" class="backlink-item">Echelle spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="Flux%20calibration.html" class="backlink-item">Flux calibration</a></li>
-    <li class="backlink-item-wrap"><a href="Grating%20equation.html" class="backlink-item">Grating equation</a></li>
-    <li class="backlink-item-wrap"><a href="Multi-object%20spectroscopy%20MOS.html" class="backlink-item">Multi-object spectroscopy MOS</a></li>
-    <li class="backlink-item-wrap"><a href="N-slit%20interference%20and%20gratings.html" class="backlink-item">N-slit interference and gratings</a></li>
-    <li class="backlink-item-wrap"><a href="Single%20slit%20diffraction.html" class="backlink-item">Single slit diffraction</a></li>
-    <li class="backlink-item-wrap"><a href="Spectrograph%20types.html" class="backlink-item">Spectrograph types</a></li>
-    <li class="backlink-item-wrap"><a href="Spectrum%20reduction%20pipeline.html" class="backlink-item">Spectrum reduction pipeline</a></li>
-    <li class="backlink-item-wrap"><a href="Wavelength%20calibration.html" class="backlink-item">Wavelength calibration</a></li>
-    <li class="backlink-item-wrap"><a href="interf/Flux%20calibration.html" class="backlink-item">Flux calibration</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Blazed gratings]]
+- [[Dispersion and spectral resolution]]
+- [[Echelle spectroscopy]]
+- [[Flux calibration]]
+- [[Grating equation]]
+- [[Multi-object spectroscopy MOS]]
+- [[N-slit interference and gratings]]
+- [[Single slit diffraction]]
+- [[Spectrograph types]]
+- [[Spectrum reduction pipeline]]
+- [[Wavelength calibration]]
+- [[Astronomical_Spectroscopy_MOC]]
+- [[Astrophysics_of_Galaxies_MOC]]
+
 

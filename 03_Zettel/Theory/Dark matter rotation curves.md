@@ -188,12 +188,12 @@ When sketching rotation curve decomposition on the blackboard.
 
 ## 6. See Also
 
-- [Tully-Fisher relation](Tully-Fisher%20relation.html)
-- [Schmidt-Kennicutt law](Schmidt-Kennicutt%20law.html)
-- [Dark matter in elliptical galaxies](Dark%20matter%20in%20elliptical%20galaxies.html)
-- [Dark matter in dwarf galaxies](Dark%20matter%20in%20dwarf%20galaxies.html)
-- [MOND](MOND.html)
-- [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html)
+- [[Tully-Fisher relation]]
+- [[Schmidt-Kennicutt law]]
+- [[Dark matter in elliptical galaxies]]
+- [[Dark matter in dwarf galaxies]]
+- [[MOND]]
+- [[Astrophysics_of_Galaxies_MOC]]
 
 ---
 
@@ -251,22 +251,22 @@ When sketching rotation curve decomposition on the blackboard.
 
 ![gal_dm-22.png](../../assets/images/gal_dm-22.png)
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (13)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Bullet%20Cluster%20and%20dark%20matter%20mapping.html" class="backlink-item">Bullet Cluster and dark matter mapping</a></li>
-    <li class="backlink-item-wrap"><a href="Dark%20matter%20in%20dwarf%20galaxies.html" class="backlink-item">Dark matter in dwarf galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="Dark%20matter%20in%20elliptical%20galaxies.html" class="backlink-item">Dark matter in elliptical galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="H%20I%20regions.html" class="backlink-item">H I regions</a></li>
-    <li class="backlink-item-wrap"><a href="Ionized%20gas%20kinematics.html" class="backlink-item">Ionized gas kinematics</a></li>
-    <li class="backlink-item-wrap"><a href="Local%20Group%20galaxies.html" class="backlink-item">Local Group galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="Low%20surface%20brightness%20galaxies.html" class="backlink-item">Low surface brightness galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="MOND.html" class="backlink-item">MOND</a></li>
-    <li class="backlink-item-wrap"><a href="Mass-radius%20and%20mass-velocity%20relations.html" class="backlink-item">Mass-radius and mass-velocity relations</a></li>
-    <li class="backlink-item-wrap"><a href="Modified%20gravity%20alternatives.html" class="backlink-item">Modified gravity alternatives</a></li>
-    <li class="backlink-item-wrap"><a href="Rotation%20curves.html" class="backlink-item">Rotation curves</a></li>
-    <li class="backlink-item-wrap"><a href="Schmidt-Kennicutt%20law.html" class="backlink-item">Schmidt-Kennicutt law</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Bullet Cluster and dark matter mapping]]
+- [[Dark matter in dwarf galaxies]]
+- [[Dark matter in elliptical galaxies]]
+- [[H I regions]]
+- [[Ionized gas kinematics]]
+- [[Local Group galaxies]]
+- [[Low surface brightness galaxies]]
+- [[MOND]]
+- [[Mass-radius and mass-velocity relations]]
+- [[Modified gravity alternatives]]
+- [[Rotation curves]]
+- [[Schmidt-Kennicutt law]]
+- [[Astrophysics_of_Galaxies_MOC]]
+
 

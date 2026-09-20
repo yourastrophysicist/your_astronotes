@@ -5,7 +5,7 @@ title: "12_MPI_Distributed_Memory_Programming_with_Python"
 # Lesson 12 – MPI Distributed Memory Programming with Python
 
 *Computational Astrophysics, Prof. Tiziano Zingales*  
-*Index: [Computational_Astrophysics_MOC](../../../04_Atlas/Computational_Astrophysics_MOC.html)*
+*Index: [[Computational_Astrophysics_MOC]]*
 
 ---
 
@@ -225,10 +225,10 @@ In 3D hydrodynamic simulations (e.g., planet-disk interaction or stellar convect
 ---
 
 ## Related Notes
-- [11_Parallel_Computing_Architectures_and_HPC_Scaling](./11_Parallel_Computing_Architectures_and_HPC_Scaling.html)
-- [08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx](./08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx.html)
-- [10_Nested_Sampling_and_Evidence_Computation](./10_Nested_Sampling_and_Evidence_Computation.html)
-- [13_CloudVeneto_HPC_Infrastructure_and_OpenStack_Deployment](./13_CloudVeneto_HPC_Infrastructure_and_OpenStack_Deployment.html)
+- [[11_Parallel_Computing_Architectures_and_HPC_Scaling]]
+- [[08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx]]
+- [[10_Nested_Sampling_and_Evidence_Computation]]
+- [[13_CloudVeneto_HPC_Infrastructure_and_OpenStack_Deployment]]
 
 
 ## Computational Visuals & MPI Parallel Scaling
@@ -239,11 +239,11 @@ In 3D hydrodynamic simulations (e.g., planet-disk interaction or stellar convect
 ![Strong vs Weak Scaling and Amdahl's Law](../../../assets/images/comp_mpi_p15.png)
 *Figure COMP-17: Parallel scaling benchmarks on CloudVeneto HPC clusters. Shows strong scaling limits governed by Amdahl's Law $S(N) = \frac{1}{(1-p) + p/N}$ and weak scaling efficiency dictated by Gustafson's Law.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Computational/MPI%20distributed%20memory%20programming%20with%20mpi4py.html" class="backlink-item">MPI distributed memory programming with mpi4py</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[MPI distributed memory programming with mpi4py]]
+- [[Computational_Astrophysics_MOC]]
+
 

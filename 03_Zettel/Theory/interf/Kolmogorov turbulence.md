@@ -102,26 +102,21 @@ these scalings are extensively verified observationally. they tell us why IR int
 
 ## see also
 
-- [Atmospheric turbulence overview](Atmospheric%20turbulence%20overview.html)
-- [Structure function and correlation function](Structure%20function%20and%20correlation%20function.html)
-- [Fried parameter $r_0$](Fried%20parameter%20%24r_0%24.html)
-- [Adaptive optics](Adaptive%20optics.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Atmospheric turbulence overview]]
+- [[Structure function and correlation function]]
+- [[Fried parameter $r_0$]]
+- [[Adaptive optics]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (11)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Atmospheric%20turbulence%20overview.html" class="backlink-item">Atmospheric turbulence overview</a></li>
-    <li class="backlink-item-wrap"><a href="../Fried%20parameter%20%24r_0%24.html" class="backlink-item">Fried parameter $r_0$</a></li>
-    <li class="backlink-item-wrap"><a href="../Frozen%20turbulence%20and%20Taylor%20hypothesis.html" class="backlink-item">Frozen turbulence and Taylor hypothesis</a></li>
-    <li class="backlink-item-wrap"><a href="../Scintillation%20and%20twinkling.html" class="backlink-item">Scintillation and twinkling</a></li>
-    <li class="backlink-item-wrap"><a href="../Structure%20function%20and%20correlation%20function.html" class="backlink-item">Structure function and correlation function</a></li>
-    <li class="backlink-item-wrap"><a href="Atmospheric%20turbulence%20overview.html" class="backlink-item">Atmospheric turbulence overview</a></li>
-    <li class="backlink-item-wrap"><a href="Fried%20parameter%20%24r_0%24.html" class="backlink-item">Fried parameter $r_0$</a></li>
-    <li class="backlink-item-wrap"><a href="Frozen%20turbulence%20and%20Taylor%20hypothesis.html" class="backlink-item">Frozen turbulence and Taylor hypothesis</a></li>
-    <li class="backlink-item-wrap"><a href="Scintillation%20and%20twinkling.html" class="backlink-item">Scintillation and twinkling</a></li>
-    <li class="backlink-item-wrap"><a href="Structure%20function%20and%20correlation%20function.html" class="backlink-item">Structure function and correlation function</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Atmospheric turbulence overview]]
+- [[Fried parameter $r_0$]]
+- [[Frozen turbulence and Taylor hypothesis]]
+- [[Scintillation and twinkling]]
+- [[Structure function and correlation function]]
+- [[Astronomical_Interferometry_MOC]]
+
 

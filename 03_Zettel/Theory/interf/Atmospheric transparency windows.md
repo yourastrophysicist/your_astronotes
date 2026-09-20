@@ -54,12 +54,12 @@ a transmission curve $T(\lambda)$ is the input to any exposure-time calculator. 
 
 ## see also
 
-- [Earth atmosphere for observations](../Earth%20atmosphere%20for%20observations.html)
-- [Atmospheric extinction](Atmospheric%20extinction.html)
-- [Atmospheric layers](Atmospheric%20layers.html)
-- [Sky brightness](../Sky%20brightness.html)
-- [Atmospheric transmission](Atmospheric%20transmission.html) — a related deeper note
-- [Filter systems and bandpasses](../Filter%20systems%20and%20bandpasses.html)
+- [[Earth atmosphere for observations]]
+- [[Atmospheric extinction]]
+- [[Atmospheric layers]]
+- [[Sky brightness]]
+- [[Atmospheric transmission]] — a related deeper note
+- [[Filter systems and bandpasses]]
 
 ---
 
@@ -101,16 +101,14 @@ a transmission curve $T(\lambda)$ is the input to any exposure-time calculator. 
 ![obs_atm-24.png](../../../assets/images/obs_atm-24.png)
 *Telluric standard star observation strategy.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Atmospheric%20extinction.html" class="backlink-item">Atmospheric extinction</a></li>
-    <li class="backlink-item-wrap"><a href="../Atmospheric%20layers.html" class="backlink-item">Atmospheric layers</a></li>
-    <li class="backlink-item-wrap"><a href="../Sky%20brightness.html" class="backlink-item">Sky brightness</a></li>
-    <li class="backlink-item-wrap"><a href="../Survey%20resources%20for%20Obs%20Astro.html" class="backlink-item">Survey resources for Obs Astro</a></li>
-    <li class="backlink-item-wrap"><a href="Atmospheric%20extinction.html" class="backlink-item">Atmospheric extinction</a></li>
-    <li class="backlink-item-wrap"><a href="Atmospheric%20layers.html" class="backlink-item">Atmospheric layers</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Atmospheric extinction]]
+- [[Atmospheric layers]]
+- [[Sky brightness]]
+- [[Survey resources for Obs Astro]]
+- [[Observational_Astrophysics_MOC]]
+
 

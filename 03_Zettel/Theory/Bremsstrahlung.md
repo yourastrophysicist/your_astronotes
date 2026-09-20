@@ -58,22 +58,22 @@ Bremsstrahlung can be detected in visible, near-infrared, and ultraviolet
 	and in X-rays we can detect **free-free emission from a plasma**
 		for example in **clusters of galaxies**
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (13)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Balmer%20continuum.html" class="backlink-item">Balmer continuum</a></li>
-    <li class="backlink-item-wrap"><a href="Collisional%20ionisation%20rate.html" class="backlink-item">Collisional ionisation rate</a></li>
-    <li class="backlink-item-wrap"><a href="Continuum%20opacity%20sources.html" class="backlink-item">Continuum opacity sources</a></li>
-    <li class="backlink-item-wrap"><a href="Cooling%20curve.html" class="backlink-item">Cooling curve</a></li>
-    <li class="backlink-item-wrap"><a href="Cooling%20rate%20in%20HII%20regions.html" class="backlink-item">Cooling rate in HII regions</a></li>
-    <li class="backlink-item-wrap"><a href="Free-free%20continuum.html" class="backlink-item">Free-free continuum</a></li>
-    <li class="backlink-item-wrap"><a href="Galaxy%20clusters%20and%20overview%20of%20evolution.html" class="backlink-item">Galaxy clusters and overview of evolution</a></li>
-    <li class="backlink-item-wrap"><a href="Radiative%20Processes.html" class="backlink-item">Radiative Processes</a></li>
-    <li class="backlink-item-wrap"><a href="Recombination%20continuum.html" class="backlink-item">Recombination continuum</a></li>
-    <li class="backlink-item-wrap"><a href="Supernova%20remnant%20spectroscopy.html" class="backlink-item">Supernova remnant spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="Synchrotron%20continuum.html" class="backlink-item">Synchrotron continuum</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Balmer continuum]]
+- [[Collisional ionisation rate]]
+- [[Continuum opacity sources]]
+- [[Cooling curve]]
+- [[Cooling rate in HII regions]]
+- [[Free-free continuum]]
+- [[Galaxy clusters and overview of evolution]]
+- [[Radiative Processes]]
+- [[Recombination continuum]]
+- [[Supernova remnant spectroscopy]]
+- [[Synchrotron continuum]]
+- [[Astronomical_Spectroscopy_MOC]]
+- [[Lab_High-Energy_MOC]]
+
 

@@ -121,9 +121,9 @@ source: ESO image eso9811a, VLTI delay line schematic.
 
 ## see also
 
-- [Components of a modern interferometer](interf/Components%20of%20a%20modern%20interferometer.html)
-- [CHARA array](interf/CHARA%20array.html)
-- [Adaptive optics](interf/Adaptive%20optics.html)
-- [Fringe tracking](interf/Fringe%20tracking.html)
-- [Galactic Center Sgr A and S-stars](interf/Galactic%20Center%20Sgr%20A%20and%20S-stars.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Components of a modern interferometer]]
+- [[CHARA array]]
+- [[Adaptive optics]]
+- [[Fringe tracking]]
+- [[Galactic Center Sgr A and S-stars]]
+- [[Astronomical_Interferometry_MOC]]

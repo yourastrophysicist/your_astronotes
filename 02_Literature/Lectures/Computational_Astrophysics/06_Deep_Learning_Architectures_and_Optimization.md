@@ -5,7 +5,7 @@ title: "06_Deep_Learning_Architectures_and_Optimization"
 # Lesson 06 – Deep Learning Architectures and Optimization
 
 *Computational Astrophysics, Prof. Tiziano Zingales*  
-*Index: [Computational_Astrophysics_MOC](../../../04_Atlas/Computational_Astrophysics_MOC.html)*
+*Index: [[Computational_Astrophysics_MOC]]*
 
 ---
 
@@ -191,10 +191,10 @@ Prof. Zingales and I. Waldmann (2018) developed a deep convolutional GAN framewo
 ---
 
 ## Related Notes
-- [04_Exoplanet_Demographics_Orbital_Mechanics_and_Transits](./04_Exoplanet_Demographics_Orbital_Mechanics_and_Transits.html)
-- [05_Machine_Learning_Foundations_and_Regression_Models](./05_Machine_Learning_Foundations_and_Regression_Models.html)
-- [07_Atmospheric_Radiative_Transfer_and_Line_Profiles](./07_Atmospheric_Radiative_Transfer_and_Line_Profiles.html)
-- [08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx](./08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx.html)
+- [[04_Exoplanet_Demographics_Orbital_Mechanics_and_Transits]]
+- [[05_Machine_Learning_Foundations_and_Regression_Models]]
+- [[07_Atmospheric_Radiative_Transfer_and_Line_Profiles]]
+- [[08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx]]
 
 
 ## Computational Visuals & Deep Neural Networks
@@ -202,11 +202,11 @@ Prof. Zingales and I. Waldmann (2018) developed a deep convolutional GAN framewo
 ![Deep Neural Network Architecture and Backpropagation](../../../assets/images/comp_ml_p35.png)
 *Figure COMP-06: Multi-layer perceptron (MLP) and convolutional neural network (CNN) computational graph. Illustrates reverse-mode automatic differentiation (backpropagation) computing $\frac{\partial \mathcal{L}}{\partial W_{ij}}$ via the chain rule.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Computational/Deep%20neural%20networks%20and%20backpropagation%20for%20astronomical%20spectra.html" class="backlink-item">Deep neural networks and backpropagation for astronomical spectra</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Deep neural networks and backpropagation for astronomical spectra]]
+- [[Computational_Astrophysics_MOC]]
+
 

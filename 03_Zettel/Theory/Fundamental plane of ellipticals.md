@@ -4,7 +4,7 @@ title: "Fundamental plane of ellipticals"
 ---
 # fundamental plane of ellipticals
 
-Parent [Pablo_02_Statistical_properties_of_galaxies](../../02_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html)
+Parent [[Pablo_02_Statistical_properties_of_galaxies]]
 
 ## The Observed Relation
 
@@ -208,27 +208,27 @@ This method was used to detect peculiar velocity flows across the local universe
 
 ![gal_srs-30.png](../../assets/images/gal_srs-30.png)
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (18)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Alpha-Fe%20enhancement.html" class="backlink-item">Alpha-Fe enhancement</a></li>
-    <li class="backlink-item-wrap"><a href="Color%20gradients%20in%20ellipticals.html" class="backlink-item">Color gradients in ellipticals</a></li>
-    <li class="backlink-item-wrap"><a href="Dark%20matter%20in%20elliptical%20galaxies.html" class="backlink-item">Dark matter in elliptical galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="De%20Vaucouleurs%20and%20exponential%20profiles.html" class="backlink-item">De Vaucouleurs and exponential profiles</a></li>
-    <li class="backlink-item-wrap"><a href="Early-type%20galaxy%20stellar%20populations.html" class="backlink-item">Early-type galaxy stellar populations</a></li>
-    <li class="backlink-item-wrap"><a href="Faber-Jackson%20relation.html" class="backlink-item">Faber-Jackson relation</a></li>
-    <li class="backlink-item-wrap"><a href="Galaxy%20main%20sequence%20of%20star%20formation.html" class="backlink-item">Galaxy main sequence of star formation</a></li>
-    <li class="backlink-item-wrap"><a href="Galaxy%20size-luminosity%20relation.html" class="backlink-item">Galaxy size-luminosity relation</a></li>
-    <li class="backlink-item-wrap"><a href="Kormendy%20relation.html" class="backlink-item">Kormendy relation</a></li>
-    <li class="backlink-item-wrap"><a href="LOSVD.html" class="backlink-item">LOSVD</a></li>
-    <li class="backlink-item-wrap"><a href="Magorrian%20relation.html" class="backlink-item">Magorrian relation</a></li>
-    <li class="backlink-item-wrap"><a href="Peculiar%20velocities%20of%20galaxies%20and%20structures.html" class="backlink-item">Peculiar velocities of galaxies and structures</a></li>
-    <li class="backlink-item-wrap"><a href="Schmidt-Kennicutt%20law.html" class="backlink-item">Schmidt-Kennicutt law</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20kinematics%20measurements.html" class="backlink-item">Stellar kinematics measurements</a></li>
-    <li class="backlink-item-wrap"><a href="Velocity%20dispersion%20from%20line%20width.html" class="backlink-item">Velocity dispersion from line width</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Alpha-Fe enhancement]]
+- [[Color gradients in ellipticals]]
+- [[Dark matter in elliptical galaxies]]
+- [[De Vaucouleurs and exponential profiles]]
+- [[Early-type galaxy stellar populations]]
+- [[Faber-Jackson relation]]
+- [[Galaxy main sequence of star formation]]
+- [[Galaxy size-luminosity relation]]
+- [[Kormendy relation]]
+- [[LOSVD]]
+- [[Magorrian relation]]
+- [[Peculiar velocities of galaxies and structures]]
+- [[Schmidt-Kennicutt law]]
+- [[Stellar kinematics measurements]]
+- [[Velocity dispersion from line width]]
+- [[Astrophysics_of_Galaxies_MOC]]
+- [[Observational_Astrophysics_MOC]]
+- [[Observational_Cosmology_MOC]]
+
 

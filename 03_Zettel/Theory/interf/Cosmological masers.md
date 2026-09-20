@@ -82,19 +82,17 @@ these will provide independent $H_0$ measurements at $\sim 1\%$ precision by 203
 
 ## see also
 
-- [Very Long Baseline Interferometry VLBI](Very%20Long%20Baseline%20Interferometry%20VLBI.html)
-- [Major radio interferometers](Major%20radio%20interferometers.html)
-- [AGN and supermassive black holes](AGN%20and%20supermassive%20black%20holes.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Very Long Baseline Interferometry VLBI]]
+- [[Major radio interferometers]]
+- [[AGN and supermassive black holes]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Components%20of%20a%20modern%20interferometer%20continued.html" class="backlink-item">Components of a modern interferometer continued</a></li>
-    <li class="backlink-item-wrap"><a href="../Radiation%20mechanisms%20in%20astronomy%20and%20interferometers.html" class="backlink-item">Radiation mechanisms in astronomy and interferometers</a></li>
-    <li class="backlink-item-wrap"><a href="Components%20of%20a%20modern%20interferometer%20continued.html" class="backlink-item">Components of a modern interferometer continued</a></li>
-    <li class="backlink-item-wrap"><a href="Radiation%20mechanisms%20in%20astronomy%20and%20interferometers.html" class="backlink-item">Radiation mechanisms in astronomy and interferometers</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Components of a modern interferometer continued]]
+- [[Radiation mechanisms in astronomy and interferometers]]
+- [[Astronomical_Interferometry_MOC]]
+
 

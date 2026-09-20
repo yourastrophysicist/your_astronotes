@@ -33,16 +33,16 @@ Consorzio RFX in Padova hosts one of the world's leading RFP experiments:
 
 ## see also
 
-- [Fluid_and_Plasma_Dynamics_MOC](../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html)
-- [Part8_Reconnection_Relaxation_and_Dynamo_Theory](../../02_Literature/Lectures/Fluid_and_Plasma_Dynamics/Part8_Reconnection_Relaxation_and_Dynamo_Theory.html)
-- [Woltjer helicity conservation and Taylor plasma relaxation](Woltjer%20helicity%20conservation%20and%20Taylor%20plasma%20relaxation.html)
-- [Tokamak magnetic topology and neoclassical banana orbits](Tokamak%20magnetic%20topology%20and%20neoclassical%20banana%20orbits.html)
+- [[Fluid_and_Plasma_Dynamics_MOC]]
+- [[Part8_Reconnection_Relaxation_and_Dynamo_Theory]]
+- [[Woltjer helicity conservation and Taylor plasma relaxation]]
+- [[Tokamak magnetic topology and neoclassical banana orbits]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Woltjer%20helicity%20conservation%20and%20Taylor%20plasma%20relaxation.html" class="backlink-item">Woltjer helicity conservation and Taylor plasma relaxation</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Woltjer helicity conservation and Taylor plasma relaxation]]
+- [[Fluid_and_Plasma_Dynamics_MOC]]
+
 

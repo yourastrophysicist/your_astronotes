@@ -25,17 +25,17 @@ atmospheric turbulence distorts incoming wavefronts over Fried parameter $r_0 \s
 
 ## see also
 
-- [Exoplanetary_Astrophysics_MOC](../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)
-- [07_Direct_Imaging_Physics_and_High_Contrast_Techniques](../../02_Literature/Lectures/Exoplanetary_Astrophysics/07_Direct_Imaging_Physics_and_High_Contrast_Techniques.html)
-- [Coronagraphy and angular differential imaging](Coronagraphy%20and%20angular%20differential%20imaging.html)
-- [Astrometric exoplanet detection and Gaia astrometry](Astrometric%20exoplanet%20detection%20and%20Gaia%20astrometry.html)
+- [[Exoplanetary_Astrophysics_MOC]]
+- [[07_Direct_Imaging_Physics_and_High_Contrast_Techniques]]
+- [[Coronagraphy and angular differential imaging]]
+- [[Astrometric exoplanet detection and Gaia astrometry]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Astrometric%20exoplanet%20detection%20and%20Gaia%20astrometry.html" class="backlink-item">Astrometric exoplanet detection and Gaia astrometry</a></li>
-    <li class="backlink-item-wrap"><a href="Coronagraphy%20and%20angular%20differential%20imaging.html" class="backlink-item">Coronagraphy and angular differential imaging</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Astrometric exoplanet detection and Gaia astrometry]]
+- [[Coronagraphy and angular differential imaging]]
+- [[Exoplanetary_Astrophysics_MOC]]
+
 

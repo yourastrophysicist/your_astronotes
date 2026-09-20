@@ -130,17 +130,17 @@ When asked by Prof. Pizzella - *"How do we classify galaxy spectra using Princip
 
 ## 7. Related Knowledge Base Notes
 
-- [PCA spectral classification of galaxies](PCA%20spectral%20classification%20of%20galaxies.html) - Mathematical formalism of covariance diagonalization and eigenspectra.
-- [Color bimodality of galaxies](Color%20bimodality%20of%20galaxies.html) - Relationship between spectral types and the optical color bimodality.
-- [Red sequence and blue cloud](Red%20sequence%20and%20blue%20cloud.html) - Correspondence between Type 1 spectra and the red sequence.
-- [CAS galaxy classification](CAS%20galaxy%20classification.html) - Quantitative morphological classification complementary to PCA spectral types.
-- [Galaxy color, density and morphology](Galaxy%20color%2C%20density%20and%20morphology.html) - Environmental variation of spectral types in clusters.
+- [[PCA spectral classification of galaxies]] - Mathematical formalism of covariance diagonalization and eigenspectra.
+- [[Color bimodality of galaxies]] - Relationship between spectral types and the optical color bimodality.
+- [[Red sequence and blue cloud]] - Correspondence between Type 1 spectra and the red sequence.
+- [[CAS galaxy classification]] - Quantitative morphological classification complementary to PCA spectral types.
+- [[Galaxy color, density and morphology]] - Environmental variation of spectral types in clusters.
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Quenching%20and%20passive%20galaxies%20at%20high%20z.html" class="backlink-item">Quenching and passive galaxies at high z</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Quenching and passive galaxies at high z]]
+- [[Astrophysics_of_Galaxies_MOC]]
+
 

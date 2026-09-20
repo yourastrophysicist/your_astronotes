@@ -4,7 +4,7 @@ title: "Radio SFR tracer"
 ---
 # radio SFR tracer
 
-up: [Pablo_03_Star_formation_in_galaxies](../../02_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html)
+up: [[Pablo_03_Star_formation_in_galaxies]]
 
 ## the two radio components
 
@@ -46,9 +46,9 @@ for Kroupa IMF. very similar coefficient at 33 GHz, where thermal dominates.
 
 ## connections
 
-- the partner: [IR SFR tracer](IR%20SFR%20tracer.html)
-- extinction-free alternative: [X-ray SFR tracer](X-ray%20SFR%20tracer.html)
-- comparison: [SFR tracer comparison](SFR%20tracer%20comparison.html)
+- the partner: [[IR SFR tracer]]
+- extinction-free alternative: [[X-ray SFR tracer]]
+- comparison: [[SFR tracer comparison]]
 - AGN: separate radio-loudness class
 
 ## key references
@@ -58,15 +58,15 @@ for Kroupa IMF. very similar coefficient at 33 GHz, where thermal dominates.
 - Murphy et al. 2011 ApJ 737, 67 (calibration)
 - Delhaize et al. 2017 (evolution)
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Free-free%20continuum.html" class="backlink-item">Free-free continuum</a></li>
-    <li class="backlink-item-wrap"><a href="Other%20SFR%20tracer%20lines.html" class="backlink-item">Other SFR tracer lines</a></li>
-    <li class="backlink-item-wrap"><a href="SFR%20tracer%20comparison.html" class="backlink-item">SFR tracer comparison</a></li>
-    <li class="backlink-item-wrap"><a href="Synchrotron%20continuum.html" class="backlink-item">Synchrotron continuum</a></li>
-    <li class="backlink-item-wrap"><a href="X-ray%20SFR%20tracer.html" class="backlink-item">X-ray SFR tracer</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Free-free continuum]]
+- [[Other SFR tracer lines]]
+- [[SFR tracer comparison]]
+- [[Synchrotron continuum]]
+- [[X-ray SFR tracer]]
+- [[Observational_Cosmology_MOC]]
+
 

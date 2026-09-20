@@ -71,21 +71,21 @@ students frequently confuse aberration and parallax. they must be rigorously dis
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Annual stellar parallax](Annual%20stellar%20parallax.html)
-- [Proper motion and stellar kinematics](Proper%20motion%20and%20stellar%20kinematics.html)
-- [Precession and nutation](Precession%20and%20nutation.html)
-- [Equatorial system](Equatorial%20system.html)
-- [Ecliptic system](Ecliptic%20system.html)
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Annual stellar parallax]]
+- [[Proper motion and stellar kinematics]]
+- [[Precession and nutation]]
+- [[Equatorial system]]
+- [[Ecliptic system]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Annual%20stellar%20parallax.html" class="backlink-item">Annual stellar parallax</a></li>
-    <li class="backlink-item-wrap"><a href="Atmospheric%20refraction.html" class="backlink-item">Atmospheric refraction</a></li>
-    <li class="backlink-item-wrap"><a href="Precession%20and%20nutation.html" class="backlink-item">Precession and nutation</a></li>
-    <li class="backlink-item-wrap"><a href="Proper%20motion%20and%20stellar%20kinematics.html" class="backlink-item">Proper motion and stellar kinematics</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Annual stellar parallax]]
+- [[Atmospheric refraction]]
+- [[Precession and nutation]]
+- [[Proper motion and stellar kinematics]]
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+
 

@@ -47,7 +47,7 @@ substituting $n_\gamma = (2\zeta(3)/\pi^2) T^3$:
 
 $$\frac{X_e^2}{1 - X_e} = \frac{\sqrt\pi}{4\sqrt 2 \zeta(3)}\, \eta^{-1}\, \left(\frac{m_e}{T}\right)^{3/2} e^{-B_H/T}$$
 
-with $\eta \sim 6 \times 10^{-10}$ extremely small. the entropy factor delays recombination just like in BBN — see [BBN_baryon_to_photon_ratio](BBN_baryon_to_photon_ratio.html).
+with $\eta \sim 6 \times 10^{-10}$ extremely small. the entropy factor delays recombination just like in BBN — see [[BBN_baryon_to_photon_ratio]].
 
 ---
 
@@ -87,8 +87,8 @@ the same reasoning explains why nuclei in BBN form at $T \sim 0.1$ MeV rather th
 ## why this matters
 
 three crucial consequences:
-1. **the CMB blackbody** we observe today is a snapshot of recombination — see [Cosmic_inventory_photons](Cosmic_inventory_photons.html)
-2. **CMB anisotropies** at $\Delta T/T \sim 10^{-5}$ encode the matter perturbations at $z = 1100$, with all the BAO physics imprinted on them — see [Matter power spectrum and BAO](Matter%20power%20spectrum%20and%20BAO.html)
+1. **the CMB blackbody** we observe today is a snapshot of recombination — see [[Cosmic_inventory_photons]]
+2. **CMB anisotropies** at $\Delta T/T \sim 10^{-5}$ encode the matter perturbations at $z = 1100$, with all the BAO physics imprinted on them — see [[Matter power spectrum and BAO]]
 3. **after decoupling**, dark matter perturbations grow freely (no photon pressure) and bring forth the cosmic web
 
 the Saha equation fixes the *epoch* of recombination, the *temperature* of the CMB blackbody we observe today, and the *peak position* of the CMB power spectrum.
@@ -97,37 +97,37 @@ the Saha equation fixes the *epoch* of recombination, the *temperature* of the C
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [BBN_overview](BBN_overview.html) — same entropy logic, different epoch
-- [Photon decoupling and CMB](Photon%20decoupling%20and%20CMB.html)
-- [Cosmic_inventory_photons](Cosmic_inventory_photons.html)
-- [Brief thermal history](Brief%20thermal%20history.html)
-- [Decoupling and freeze-out](Decoupling%20and%20freeze-out.html)
-- [Boltzmann equation in cosmology](Boltzmann%20equation%20in%20cosmology.html)
-- [Baumann_reference](Baumann_reference.html) — chapter 3.3.3 has the rigorous derivation including freeze-out
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[BBN_overview]] — same entropy logic, different epoch
+- [[Photon decoupling and CMB]]
+- [[Cosmic_inventory_photons]]
+- [[Brief thermal history]]
+- [[Decoupling and freeze-out]]
+- [[Boltzmann equation in cosmology]]
+- [[Baumann_reference]] — chapter 3.3.3 has the rigorous derivation including freeze-out
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (19)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="BBN_overview.html" class="backlink-item">BBN_overview</a></li>
-    <li class="backlink-item-wrap"><a href="Baumann_reference.html" class="backlink-item">Baumann_reference</a></li>
-    <li class="backlink-item-wrap"><a href="Boltzmann%20equation%20in%20cosmology.html" class="backlink-item">Boltzmann equation in cosmology</a></li>
-    <li class="backlink-item-wrap"><a href="Brief%20thermal%20history.html" class="backlink-item">Brief thermal history</a></li>
-    <li class="backlink-item-wrap"><a href="CMB%20-%20discovery%20and%20blackbody%20spectrum.html" class="backlink-item">CMB - discovery and blackbody spectrum</a></li>
-    <li class="backlink-item-wrap"><a href="CMB%20Spectral%20Distortions%20-%20What%20They%20Are%20and%20Where%20They%20Come%20From.html" class="backlink-item">CMB Spectral Distortions - What They Are and Where They Come From</a></li>
-    <li class="backlink-item-wrap"><a href="CMB%20power%20spectrum.html" class="backlink-item">CMB power spectrum</a></li>
-    <li class="backlink-item-wrap"><a href="Decoupling.html" class="backlink-item">Decoupling</a></li>
-    <li class="backlink-item-wrap"><a href="Matter%20radiation%20equality.html" class="backlink-item">Matter radiation equality</a></li>
-    <li class="backlink-item-wrap"><a href="Photon%20decoupling%20and%20CMB.html" class="backlink-item">Photon decoupling and CMB</a></li>
-    <li class="backlink-item-wrap"><a href="Recombination.html" class="backlink-item">Recombination</a></li>
-    <li class="backlink-item-wrap"><a href="Reionization.html" class="backlink-item">Reionization</a></li>
-    <li class="backlink-item-wrap"><a href="Saha%20ionisation%20equation.html" class="backlink-item">Saha ionisation equation</a></li>
-    <li class="backlink-item-wrap"><a href="Spectroscopic%20determination%20of%20log%20g.html" class="backlink-item">Spectroscopic determination of log g</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20spectral%20types%20OBAFGKM.html" class="backlink-item">Stellar spectral types OBAFGKM</a></li>
-    <li class="backlink-item-wrap"><a href="Transition%20epochs.html" class="backlink-item">Transition epochs</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[BBN_overview]]
+- [[Baumann_reference]]
+- [[Boltzmann equation in cosmology]]
+- [[Brief thermal history]]
+- [[CMB - discovery and blackbody spectrum]]
+- [[CMB Spectral Distortions - What They Are and Where They Come From]]
+- [[CMB power spectrum]]
+- [[Decoupling]]
+- [[Matter radiation equality]]
+- [[Photon decoupling and CMB]]
+- [[Recombination]]
+- [[Reionization]]
+- [[Saha ionisation equation]]
+- [[Spectroscopic determination of log g]]
+- [[Stellar spectral types OBAFGKM]]
+- [[Transition epochs]]
+- [[Astronomical_Spectroscopy_MOC]]
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Stellar_Astrophysics_MOC]]
+
 

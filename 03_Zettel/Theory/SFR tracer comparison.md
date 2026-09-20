@@ -4,7 +4,7 @@ title: "SFR tracer comparison"
 ---
 # SFR tracer comparison
 
-up: [Pablo_03_Star_formation_in_galaxies](../../02_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html)
+up: [[Pablo_03_Star_formation_in_galaxies]]
 
 ## the question
 
@@ -58,10 +58,10 @@ if no IR, use UV + IRX-β. if no β, use Balmer-decrement-corrected Hα. in all 
 
 ## connections
 
-- individual tracers: [UV SFR tracer](UV%20SFR%20tracer.html), [H-alpha SFR tracer](H-alpha%20SFR%20tracer.html), [IR SFR tracer](IR%20SFR%20tracer.html), [Radio SFR tracer](Radio%20SFR%20tracer.html), [X-ray SFR tracer](X-ray%20SFR%20tracer.html)
-- IRX-β cross-check: [UV slope and IRX-beta relation](UV%20slope%20and%20IRX-beta%20relation.html)
-- extinction: [Dust attenuation and extinction curves](Dust%20attenuation%20and%20extinction%20curves.html)
-- timescale issues: [Galaxy time scales](Galaxy%20time%20scales.html)
+- individual tracers: [[UV SFR tracer]], [[H-alpha SFR tracer]], [[IR SFR tracer]], [[Radio SFR tracer]], [[X-ray SFR tracer]]
+- IRX-β cross-check: [[UV slope and IRX-beta relation]]
+- extinction: [[Dust attenuation and extinction curves]]
+- timescale issues: [[Galaxy time scales]]
 
 ## key references
 
@@ -70,16 +70,16 @@ if no IR, use UV + IRX-β. if no β, use Balmer-decrement-corrected Hα. in all 
 - Pérez-González et al. 2006
 - Salim et al. 2007 ApJS 173, 267
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Galaxy%20time%20scales.html" class="backlink-item">Galaxy time scales</a></li>
-    <li class="backlink-item-wrap"><a href="Other%20SFR%20tracer%20lines.html" class="backlink-item">Other SFR tracer lines</a></li>
-    <li class="backlink-item-wrap"><a href="Radio%20SFR%20tracer.html" class="backlink-item">Radio SFR tracer</a></li>
-    <li class="backlink-item-wrap"><a href="Starburst%20galaxies.html" class="backlink-item">Starburst galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="UV%20slope%20and%20IRX-beta%20relation.html" class="backlink-item">UV slope and IRX-beta relation</a></li>
-    <li class="backlink-item-wrap"><a href="X-ray%20SFR%20tracer.html" class="backlink-item">X-ray SFR tracer</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Galaxy time scales]]
+- [[Other SFR tracer lines]]
+- [[Radio SFR tracer]]
+- [[Starburst galaxies]]
+- [[UV slope and IRX-beta relation]]
+- [[X-ray SFR tracer]]
+- [[Observational_Cosmology_MOC]]
+
 

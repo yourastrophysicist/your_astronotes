@@ -31,15 +31,15 @@ class AstronomicalPipeline:
 ```
 
 ## Related Notes
-- [Malavolta 06 - Python Class Design for Photometry Pipelines](../../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2006%20-%20Python%20Class%20Design%20for%20Photometry%20Pipelines.html)
-- [Science Frame Calibration and Variance Propagation](Science%20Frame%20Calibration%20and%20Variance%20Propagation.html)
+- [[Malavolta 06 - Python Class Design for Photometry Pipelines]]
+- [[Science Frame Calibration and Variance Propagation]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Modular%20Python%20packaging%20and%20scientific%20software%20architecture.html" class="backlink-item">Modular Python packaging and scientific software architecture</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Modular Python packaging and scientific software architecture]]
+- [[Astrophysics_Laboratory_2_MOC]]
+- [[Computational_Astrophysics_MOC]]
+
 

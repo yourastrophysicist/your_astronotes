@@ -60,7 +60,7 @@ for symmetric sources (binary stars with equal magnitudes, uniform disks):
 
 for asymmetric sources, $\lvert \tilde O\rvert$ alone is *not enough* — phase information is needed for full reconstruction. speckle interferometry recovers the *symmetric part* of the source.
 
-for more complete recovery, use [Knox-Thompson](interf/Speckle%20imaging%20algorithms.html) or [triple-correlation](interf/Bispectrum%20and%20triple%20correlation.html) methods, which preserve some phase information.
+for more complete recovery, use [[Speckle imaging algorithms|Knox-Thompson]] or [[Bispectrum and triple correlation|triple-correlation]] methods, which preserve some phase information.
 
 ## the practical procedure
 
@@ -102,9 +102,9 @@ instruments: PISCO at Mt. Wilson, the Andor speckle camera at WIYN, NESSI at Gem
 
 ## see also
 
-- [Theory of speckle interferometry](interf/Theory%20of%20speckle%20interferometry.html)
-- [Aperture masking](interf/Aperture%20masking.html)
-- [Speckle imaging algorithms](interf/Speckle%20imaging%20algorithms.html)
-- [Bispectrum and triple correlation](interf/Bispectrum%20and%20triple%20correlation.html)
-- [Adaptive optics](interf/Adaptive%20optics.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Theory of speckle interferometry]]
+- [[Aperture masking]]
+- [[Speckle imaging algorithms]]
+- [[Bispectrum and triple correlation]]
+- [[Adaptive optics]]
+- [[Astronomical_Interferometry_MOC]]

@@ -32,7 +32,7 @@ so:
 
 ### atmosphere of a star
 
-depth into the photosphere is parameterised by $\tau$. observers see the layer at $\tau = 1$ ([Eddington-Barbier approximation](Eddington-Barbier%20approximation.html)). the surface ($\tau = 0$) is conventionally the top of the atmosphere where light escapes to vacuum.
+depth into the photosphere is parameterised by $\tau$. observers see the layer at $\tau = 1$ ([[Eddington-Barbier approximation]]). the surface ($\tau = 0$) is conventionally the top of the atmosphere where light escapes to vacuum.
 
 the **photospheric temperature** $T_{\rm eff}$ is defined as $T(\tau = 2/3)$ (a Rosseland-mean-weighted definition). the photosphere thus has a $T$-vs-$\tau$ profile.
 
@@ -49,7 +49,7 @@ curve of growth tracks how $W$ (equivalent width) grows with column density $N$:
 - saturation ($\tau_0 \sim 1$): $W \propto \sqrt{\ln N}$.
 - damping wing regime ($\tau_0 \gg 1$): $W \propto \sqrt{N}$.
 
-see [Curve of growth](Curve%20of%20growth.html).
+see [[Curve of growth]].
 
 ## $\tau$ and column density
 
@@ -71,31 +71,31 @@ so the spectrum is the integrated effect of all these contributions, each with i
 
 ## see also
 
-- [Equation of radiative transfer](Equation%20of%20radiative%20transfer.html)
-- [Source function](Source%20function.html)
-- [Eddington-Barbier approximation](Eddington-Barbier%20approximation.html)
-- [Continuum opacity sources](Continuum%20opacity%20sources.html)
-- [Curve of growth](Curve%20of%20growth.html)
-- [Equivalent width](Equivalent%20width.html)
-- [Stellar atmosphere structure](Stellar%20atmosphere%20structure.html)
-- [Photoelectric absorption](Photoelectric%20absorption.html)
-- [Atmospheric extinction](interf/Atmospheric%20extinction.html) — extinction along atmospheric path
+- [[Equation of radiative transfer]]
+- [[Source function]]
+- [[Eddington-Barbier approximation]]
+- [[Continuum opacity sources]]
+- [[Curve of growth]]
+- [[Equivalent width]]
+- [[Stellar atmosphere structure]]
+- [[Photoelectric absorption]]
+- [[Atmospheric extinction]] — extinction along atmospheric path
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (12)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Absorption%20coefficient%20and%20oscillator%20strength.html" class="backlink-item">Absorption coefficient and oscillator strength</a></li>
-    <li class="backlink-item-wrap"><a href="Continuum%20opacity%20sources.html" class="backlink-item">Continuum opacity sources</a></li>
-    <li class="backlink-item-wrap"><a href="Curve%20of%20growth.html" class="backlink-item">Curve of growth</a></li>
-    <li class="backlink-item-wrap"><a href="Damping%20wings.html" class="backlink-item">Damping wings</a></li>
-    <li class="backlink-item-wrap"><a href="Eddington-Barbier%20approximation.html" class="backlink-item">Eddington-Barbier approximation</a></li>
-    <li class="backlink-item-wrap"><a href="Equation%20of%20radiative%20transfer.html" class="backlink-item">Equation of radiative transfer</a></li>
-    <li class="backlink-item-wrap"><a href="Equivalent%20width.html" class="backlink-item">Equivalent width</a></li>
-    <li class="backlink-item-wrap"><a href="Limb%20darkening.html" class="backlink-item">Limb darkening</a></li>
-    <li class="backlink-item-wrap"><a href="Local%20thermodynamic%20equilibrium%20LTE.html" class="backlink-item">Local thermodynamic equilibrium LTE</a></li>
-    <li class="backlink-item-wrap"><a href="Source%20function.html" class="backlink-item">Source function</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20atmosphere%20structure.html" class="backlink-item">Stellar atmosphere structure</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Absorption coefficient and oscillator strength]]
+- [[Continuum opacity sources]]
+- [[Curve of growth]]
+- [[Damping wings]]
+- [[Eddington-Barbier approximation]]
+- [[Equation of radiative transfer]]
+- [[Equivalent width]]
+- [[Limb darkening]]
+- [[Local thermodynamic equilibrium LTE]]
+- [[Source function]]
+- [[Stellar atmosphere structure]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 

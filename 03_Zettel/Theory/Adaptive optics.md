@@ -109,9 +109,9 @@ ELTs are interferometers in disguise: their adaptive secondaries make them optic
 
 ## see also
 
-- [Atmospheric turbulence overview](interf/Atmospheric%20turbulence%20overview.html)
-- [Wavefront sensors](interf/Wavefront%20sensors.html)
-- [Deformable mirrors and tip-tilt](interf/Deformable%20mirrors%20and%20tip-tilt.html)
-- [Guide stars and laser guide stars](interf/Guide%20stars%20and%20laser%20guide%20stars.html)
-- [Fried parameter $r_0$](interf/Fried%20parameter%20%24r_0%24.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Atmospheric turbulence overview]]
+- [[Wavefront sensors]]
+- [[Deformable mirrors and tip-tilt]]
+- [[Guide stars and laser guide stars]]
+- [[Fried parameter $r_0$]]
+- [[Astronomical_Interferometry_MOC]]

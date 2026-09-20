@@ -55,7 +55,7 @@ $$\dot\rho + 3H(\rho + p/c^2) = 0$$
 
 ## the Newtonian comparison
 
-the Newtonian derivation ([Newtonian Friedmann derivation](Newtonian%20Friedmann%20derivation.html)) gives the same Friedmann equation, but without:
+the Newtonian derivation ([[Newtonian Friedmann derivation]]) gives the same Friedmann equation, but without:
 - the $3p$ pressure term (radiation decelerates more than matter alone would).
 - the $\Lambda$ term (must be added by hand, no clear interpretation).
 - the relativistic generalisation.
@@ -65,22 +65,22 @@ so GR is **necessary** for cosmology that includes radiation + dark energy + lig
 ## see also
 
 - Friedmann equations with Λ
-- [Friedmann equations](Friedmann%20equations.html)
-- [Newtonian Friedmann derivation](Newtonian%20Friedmann%20derivation.html)
-- [Friedmann solutions](Friedmann%20solutions.html)
-- [Cosmological constant](Cosmological%20constant.html)
-- [Stress-energy tensor](Stress-energy%20tensor.html)
-- [Continuity equation](Continuity%20equation.html)
-- [Equation of state and density scaling](Equation%20of%20state%20and%20density%20scaling.html)
-- [Einstein equations](Einstein%20equations.html)
+- [[Friedmann equations]]
+- [[Newtonian Friedmann derivation]]
+- [[Friedmann solutions]]
+- [[Cosmological constant]]
+- [[Stress-energy tensor]]
+- [[Continuity equation]]
+- [[Equation of state and density scaling]]
+- [[Einstein equations]]
 - Q18 - derive the acceleration equation
-- [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
+- [[Observational_Cosmology_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Time-redshift%20relation.html" class="backlink-item">Time-redshift relation</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Time-redshift relation]]
+- [[Observational_Cosmology_MOC]]
+
 

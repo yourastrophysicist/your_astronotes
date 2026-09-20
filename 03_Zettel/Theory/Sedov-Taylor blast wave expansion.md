@@ -34,20 +34,20 @@ when $v_s$ drops to $\sim 200\text{ km s}^{-1}$ ($T_s \sim 10^6\text{ K}$), atom
 
 ## see also
 
-- [Astrophysics_of_the_Interstellar_Medium_MOC](../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html)
-- [Rankine-Hugoniot shock jump conditions](Rankine-Hugoniot%20shock%20jump%20conditions.html)
-- [Superbubbles galactic chimneys and fountains](Superbubbles%20galactic%20chimneys%20and%20fountains.html)
-- [Carraro_06_Supernovae_and_Hot_Ionized_Medium](../../02_Literature/Lectures/Interstellar_Medium/Carraro_06_Supernovae_and_Hot_Ionized_Medium.html)
+- [[Astrophysics_of_the_Interstellar_Medium_MOC]]
+- [[Rankine-Hugoniot shock jump conditions]]
+- [[Superbubbles galactic chimneys and fountains]]
+- [[Carraro_06_Supernovae_and_Hot_Ionized_Medium]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Helmholtz%20vortex%20theorems%20and%20baroclinic%20torque.html" class="backlink-item">Helmholtz vortex theorems and baroclinic torque</a></li>
-    <li class="backlink-item-wrap"><a href="Multi-phase%20structure%20of%20the%20interstellar%20medium.html" class="backlink-item">Multi-phase structure of the interstellar medium</a></li>
-    <li class="backlink-item-wrap"><a href="Rankine-Hugoniot%20shock%20jump%20conditions.html" class="backlink-item">Rankine-Hugoniot shock jump conditions</a></li>
-    <li class="backlink-item-wrap"><a href="Rayleigh-Taylor%20and%20Kelvin-Helmholtz%20hydrodynamic%20instabilities.html" class="backlink-item">Rayleigh-Taylor and Kelvin-Helmholtz hydrodynamic instabilities</a></li>
-    <li class="backlink-item-wrap"><a href="Superbubbles%20galactic%20chimneys%20and%20fountains.html" class="backlink-item">Superbubbles galactic chimneys and fountains</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html" class="backlink-item">Astrophysics_of_the_Interstellar_Medium_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Helmholtz vortex theorems and baroclinic torque]]
+- [[Multi-phase structure of the interstellar medium]]
+- [[Rankine-Hugoniot shock jump conditions]]
+- [[Rayleigh-Taylor and Kelvin-Helmholtz hydrodynamic instabilities]]
+- [[Superbubbles galactic chimneys and fountains]]
+- [[Astrophysics_of_the_Interstellar_Medium_MOC]]
+
 

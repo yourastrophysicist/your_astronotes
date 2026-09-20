@@ -5,7 +5,7 @@ title: "Hint - TODO 2.2 Logarithmic Binning for Inverse Sampling"
 # Hint - TODO 2.2 Logarithmic Binning for Inverse Sampling
 
 **Target TODO**: TODO 2.2 in Module_1_Random_Sampling_and_Monte_Carlo  
-**Related Zettels**: [Verifying random samples](Verifying%20random%20samples.html), [Matplotlib plotting essentials](Matplotlib%20plotting%20essentials.html)
+**Related Zettels**: [[Verifying random samples]], [[Matplotlib plotting essentials]]
 
 ---
 

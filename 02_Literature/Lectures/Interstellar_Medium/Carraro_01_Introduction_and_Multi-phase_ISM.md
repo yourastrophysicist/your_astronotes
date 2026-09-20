@@ -7,7 +7,7 @@ tags: ""
 
 *Course: Astrophysics of the Interstellar Medium, Master in Astrophysics and Cosmology, Università degli Studi di Padova*  
 *Lecturer: Prof. Giovanni Carraro*  
-*Index: [Astrophysics_of_the_Interstellar_Medium_MOC](../../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html)*
+*Index: [[Astrophysics_of_the_Interstellar_Medium_MOC]]*
 
 ---
 
@@ -116,21 +116,21 @@ prof. carraro's lectures cover the physical principles governing each regime:
 
 ## see also
 
-- [Astrophysics_of_the_Interstellar_Medium_MOC](../../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html)
-- [Multi-phase structure of the interstellar medium](../../../03_Zettel/Theory/Multi-phase%20structure%20of%20the%20interstellar%20medium.html)
-- [Interstellar medium components and gas cycle](../../../03_Zettel/Theory/Interstellar%20medium%20components%20and%20gas%20cycle.html)
-- [Carraro_02_Neutral_Hydrogen_and_21cm_Universe](./Carraro_02_Neutral_Hydrogen_and_21cm_Universe.html)
-- [Carraro_03_HII_Regions_and_Photoionized_Gas](./Carraro_03_HII_Regions_and_Photoionized_Gas.html)
-- [Carraro_05_Interstellar_Dust_and_Extinction](./Carraro_05_Interstellar_Dust_and_Extinction.html)
-- [Carraro_06_Supernovae_and_Hot_Ionized_Medium](./Carraro_06_Supernovae_and_Hot_Ionized_Medium.html)
-- [Carraro_07_Interstellar_Magnetic_Fields](./Carraro_07_Interstellar_Magnetic_Fields.html)
-- [Carraro_08_Shocks_Turbulence_and_MHD_Waves](./Carraro_08_Shocks_Turbulence_and_MHD_Waves.html)
+- [[Astrophysics_of_the_Interstellar_Medium_MOC]]
+- [[Multi-phase structure of the interstellar medium]]
+- [[Interstellar medium components and gas cycle]]
+- [[Carraro_02_Neutral_Hydrogen_and_21cm_Universe]]
+- [[Carraro_03_HII_Regions_and_Photoionized_Gas]]
+- [[Carraro_05_Interstellar_Dust_and_Extinction]]
+- [[Carraro_06_Supernovae_and_Hot_Ionized_Medium]]
+- [[Carraro_07_Interstellar_Magnetic_Fields]]
+- [[Carraro_08_Shocks_Turbulence_and_MHD_Waves]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Multi-phase%20structure%20of%20the%20interstellar%20medium.html" class="backlink-item">Multi-phase structure of the interstellar medium</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html" class="backlink-item">Astrophysics_of_the_Interstellar_Medium_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Multi-phase structure of the interstellar medium]]
+- [[Astrophysics_of_the_Interstellar_Medium_MOC]]
+
 

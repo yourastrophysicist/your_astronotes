@@ -145,13 +145,13 @@ When sketching the color bimodality diagram on the blackboard.
 
 ## 7. See Also
 
-- [Red sequence and blue cloud](Red%20sequence%20and%20blue%20cloud.html)
-- [Green valley and quenching tracks](Green%20valley%20and%20quenching%20tracks.html)
-- [PCA spectral classification of galaxies](PCA%20spectral%20classification%20of%20galaxies.html)
-- [Stellar mass function](Stellar%20mass%20function.html)
-- [Galaxy color, density and morphology](Galaxy%20color%2C%20density%20and%20morphology.html)
-- [SDSS overview](SDSS%20overview.html)
-- [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html)
+- [[Red sequence and blue cloud]]
+- [[Green valley and quenching tracks]]
+- [[PCA spectral classification of galaxies]]
+- [[Stellar mass function]]
+- [[Galaxy color, density and morphology]]
+- [[SDSS overview]]
+- [[Astrophysics_of_Galaxies_MOC]]
 
 ---
 
@@ -193,29 +193,29 @@ When sketching the color bimodality diagram on the blackboard.
 
 ![gal_lf3-22.png](../../assets/images/gal_lf3-22.png)
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (20)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Alpha-Fe%20enhancement.html" class="backlink-item">Alpha-Fe enhancement</a></li>
-    <li class="backlink-item-wrap"><a href="CAS%20galaxy%20classification.html" class="backlink-item">CAS galaxy classification</a></li>
-    <li class="backlink-item-wrap"><a href="Color%20indices.html" class="backlink-item">Color indices</a></li>
-    <li class="backlink-item-wrap"><a href="Early-type%20galaxy%20stellar%20populations.html" class="backlink-item">Early-type galaxy stellar populations</a></li>
-    <li class="backlink-item-wrap"><a href="Eigenspectra%20and%20spectral%20types.html" class="backlink-item">Eigenspectra and spectral types</a></li>
-    <li class="backlink-item-wrap"><a href="Galaxy%20color%2C%20density%20and%20morphology.html" class="backlink-item">Galaxy color, density and morphology</a></li>
-    <li class="backlink-item-wrap"><a href="Galaxy%20morphology%20vs%20physical%20properties.html" class="backlink-item">Galaxy morphology vs physical properties</a></li>
-    <li class="backlink-item-wrap"><a href="Galaxy%20spectroscopy%20by%20type.html" class="backlink-item">Galaxy spectroscopy by type</a></li>
-    <li class="backlink-item-wrap"><a href="Green%20valley%20and%20quenching%20tracks.html" class="backlink-item">Green valley and quenching tracks</a></li>
-    <li class="backlink-item-wrap"><a href="LF%20by%20morphology%20and%20SED.html" class="backlink-item">LF by morphology and SED</a></li>
-    <li class="backlink-item-wrap"><a href="Madau%20plot.html" class="backlink-item">Madau plot</a></li>
-    <li class="backlink-item-wrap"><a href="PCA%20spectral%20classification%20of%20galaxies.html" class="backlink-item">PCA spectral classification of galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="Petrosian%20radius.html" class="backlink-item">Petrosian radius</a></li>
-    <li class="backlink-item-wrap"><a href="Quenching%20and%20passive%20galaxies%20at%20high%20z.html" class="backlink-item">Quenching and passive galaxies at high z</a></li>
-    <li class="backlink-item-wrap"><a href="Red%20sequence%20and%20blue%20cloud.html" class="backlink-item">Red sequence and blue cloud</a></li>
-    <li class="backlink-item-wrap"><a href="SDSS%20overview.html" class="backlink-item">SDSS overview</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20mass%20function.html" class="backlink-item">Stellar mass function</a></li>
-    <li class="backlink-item-wrap"><a href="Surveys%20to%20remember.html" class="backlink-item">Surveys to remember</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Alpha-Fe enhancement]]
+- [[CAS galaxy classification]]
+- [[Color indices]]
+- [[Early-type galaxy stellar populations]]
+- [[Eigenspectra and spectral types]]
+- [[Galaxy color, density and morphology]]
+- [[Galaxy morphology vs physical properties]]
+- [[Galaxy spectroscopy by type]]
+- [[Green valley and quenching tracks]]
+- [[LF by morphology and SED]]
+- [[Madau plot]]
+- [[PCA spectral classification of galaxies]]
+- [[Petrosian radius]]
+- [[Quenching and passive galaxies at high z]]
+- [[Red sequence and blue cloud]]
+- [[SDSS overview]]
+- [[Stellar mass function]]
+- [[Surveys to remember]]
+- [[Astrophysics_of_Galaxies_MOC]]
+- [[Observational_Cosmology_MOC]]
+
 

@@ -5,7 +5,7 @@ title: "11_Model_Selection_Bayesian_Evidence_and_Savage_Dickey_Ratio"
 # Model Selection, Bayesian Evidence, and the Savage-Dickey Ratio
 
 Graduate lecture notes in Astro-Statistics and Cosmology, taught by Prof. Michele Liguori at the University of Padua.
-Reference index [Astro-Statistics_and_Cosmology_MOC](../../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html)
+Reference index [[Astro-Statistics_and_Cosmology_MOC]]
 
 ---
 
@@ -214,11 +214,11 @@ Instead, the researcher performs standard MCMC sampling of the extended model $M
 
 ## Conceptual Connections
 
-- [Astro-Statistics_and_Cosmology_MOC](../../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html) - Master syllabus map of content
-- [01_Plausible_Reasoning_Cox_Theorem_and_Bayesian_Foundations](./01_Plausible_Reasoning_Cox_Theorem_and_Bayesian_Foundations.html) - Bayesian evidence definition and normalization
-- [04_Frequentist_vs_Bayesian_Inference_and_Confidence_Intervals](./04_Frequentist_vs_Bayesian_Inference_and_Confidence_Intervals.html) - Lindley's paradox and the distinction between $p$-values and Bayes factors
-- [05_Monte_Carlo_Metropolis_Hastings_and_MCMC_Convergence_Diagnostics](./05_Monte_Carlo_Metropolis_Hastings_and_MCMC_Convergence_Diagnostics.html) - Generating the posterior density $p(\omega \mid \boldsymbol{d}, M_1)$ from MCMC chains
-- [10_Prior_Assignment_Transformation_Invariance_and_Maximum_Entropy](./10_Prior_Assignment_Transformation_Invariance_and_Maximum_Entropy.html) - Sensitivity of Bayes factors and Occam factors to prior volume specification
+- [[Astro-Statistics_and_Cosmology_MOC]] - Master syllabus map of content
+- [[01_Plausible_Reasoning_Cox_Theorem_and_Bayesian_Foundations]] - Bayesian evidence definition and normalization
+- [[04_Frequentist_vs_Bayesian_Inference_and_Confidence_Intervals]] - Lindley's paradox and the distinction between $p$-values and Bayes factors
+- [[05_Monte_Carlo_Metropolis_Hastings_and_MCMC_Convergence_Diagnostics]] - Generating the posterior density $p(\omega \mid \boldsymbol{d}, M_1)$ from MCMC chains
+- [[10_Prior_Assignment_Transformation_Invariance_and_Maximum_Entropy]] - Sensitivity of Bayes factors and Occam factors to prior volume specification
 
 
 ## Lecture Visuals & Bayesian Model Selection
@@ -232,12 +232,12 @@ Instead, the researcher performs standard MCMC sampling of the extended model $M
 ![Jeffreys Scale of Evidence and Model Comparison](../../../assets/images/astrostat_model_p04.png)
 *Figure AST-09: Jeffreys Scale and Interpretation of the Bayes Factor $\ln B_{01}$. In empirical astrophysics, $\ln B > 2.5$ denotes moderate evidence, while $\ln B > 5$ indicates decisive evidence, directly applied to testing flat $\Lambda\mathrm{CDM}$ vs dynamical dark energy $w(a)$ or sterile neutrino extensions.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Bayesian%20evidence%20and%20model%20selection.html" class="backlink-item">Bayesian evidence and model selection</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Savage-Dickey%20density%20ratio%20for%20nested%20model%20comparison.html" class="backlink-item">Savage-Dickey density ratio for nested model comparison</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Bayesian evidence and model selection]]
+- [[Savage-Dickey density ratio for nested model comparison]]
+- [[Astro-Statistics_and_Cosmology_MOC]]
+
 

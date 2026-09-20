@@ -4,7 +4,7 @@ title: "Star formation rate and sSFR"
 ---
 # star formation rate and sSFR
 
-up: [Pablo_03_Star_formation_in_galaxies](../../02_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html)
+up: [[Pablo_03_Star_formation_in_galaxies]]
 
 ## the definitions
 
@@ -30,22 +30,22 @@ these three examples span almost 4 orders of magnitude in sSFR, and correspond c
 
 ## why sSFR matters more than SFR
 
-absolute SFR scales with galaxy size. sSFR removes that trivial dependence and asks *how star-forming for its mass* a galaxy is. this is why the [Galaxy main sequence of star formation](Galaxy%20main%20sequence%20of%20star%20formation.html) is typically plotted as $\psi$ vs $M_*$ in log-log: on that plane the main sequence is a line with slope $\sim 0.7$–$1$, and its vertical offset directly measures sSFR.
+absolute SFR scales with galaxy size. sSFR removes that trivial dependence and asks *how star-forming for its mass* a galaxy is. this is why the [[Galaxy main sequence of star formation]] is typically plotted as $\psi$ vs $M_*$ in log-log: on that plane the main sequence is a line with slope $\sim 0.7$–$1$, and its vertical offset directly measures sSFR.
 
 ## the characteristic sSFR evolves with redshift
 
 at $z = 0$: star-forming galaxies sit near sSFR $\sim 10^{-10}\,\text{yr}^{-1}$.
 at $z = 2$: the typical main-sequence galaxy at $M_* = 10^{10}\,M_\odot$ has sSFR $\sim 10^{-9}\,\text{yr}^{-1}$, a factor $\sim 20$ higher.
 
-this is the same phenomenon as the [Cosmic star formation history](Cosmic%20star%20formation%20history.html) peak at $z \sim 2$: the universe was churning out stars more efficiently, *per unit existing stellar mass*, in its youth.
+this is the same phenomenon as the [[Cosmic star formation history]] peak at $z \sim 2$: the universe was churning out stars more efficiently, *per unit existing stellar mass*, in its youth.
 
 ## connections
 
-- main sequence: [Galaxy main sequence of star formation](Galaxy%20main%20sequence%20of%20star%20formation.html)
-- integrated over volume: [Cosmic star formation history](Cosmic%20star%20formation%20history.html)
-- over time to build mass: [SFR and stellar mass density connection](SFR%20and%20stellar%20mass%20density%20connection.html)
-- tracers: [UV SFR tracer](UV%20SFR%20tracer.html), [H-alpha SFR tracer](H-alpha%20SFR%20tracer.html), [IR SFR tracer](IR%20SFR%20tracer.html)
-- parametrizations of $\psi(t)$: [Star formation history parametrizations](Star%20formation%20history%20parametrizations.html)
+- main sequence: [[Galaxy main sequence of star formation]]
+- integrated over volume: [[Cosmic star formation history]]
+- over time to build mass: [[SFR and stellar mass density connection]]
+- tracers: [[UV SFR tracer]], [[H-alpha SFR tracer]], [[IR SFR tracer]]
+- parametrizations of $\psi(t)$: [[Star formation history parametrizations]]
 
 ## key references
 
@@ -53,11 +53,11 @@ this is the same phenomenon as the [Cosmic star formation history](Cosmic%20star
 - Kennicutt & Evans 2012 ARAA
 - Madau & Dickinson 2014 ARAA
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Starburst%20galaxies.html" class="backlink-item">Starburst galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Starburst galaxies]]
+- [[Observational_Cosmology_MOC]]
+
 

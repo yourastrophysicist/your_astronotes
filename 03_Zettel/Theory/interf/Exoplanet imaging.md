@@ -102,17 +102,16 @@ these complement transit observations (which give bulk planet density) and radia
 
 ## see also
 
-- [Coronagraphy](Coronagraphy.html)
-- [Nulling interferometry](Nulling%20interferometry.html)
-- [VLTI Very Large Telescope Interferometer](VLTI%20Very%20Large%20Telescope%20Interferometer.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Coronagraphy]]
+- [[Nulling interferometry]]
+- [[VLTI Very Large Telescope Interferometer]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Future%20space-based.html" class="backlink-item">Future space-based</a></li>
-    <li class="backlink-item-wrap"><a href="Future%20space-based.html" class="backlink-item">Future space-based</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Future space-based]]
+- [[Astronomical_Interferometry_MOC]]
+
 

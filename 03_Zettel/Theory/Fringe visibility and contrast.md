@@ -31,7 +31,7 @@ $$\mathcal V = \lvert \mathcal V\rvert \, e^{i\phi_V}$$
 - $\lvert \mathcal V\rvert$: the contrast (the magnitude in the formula above)
 - $\phi_V$: the *phase*, which encodes where the fringe pattern is positioned
 
-an interferometer measures both, in principle. in practice, atmospheric turbulence corrupts the phase, leaving only $\lvert \mathcal V\rvert$ measurable directly. the phase must be recovered with [phase closure](interf/Phase%20closure.html) or similar techniques.
+an interferometer measures both, in principle. in practice, atmospheric turbulence corrupts the phase, leaving only $\lvert \mathcal V\rvert$ measurable directly. the phase must be recovered with [[Phase closure|phase closure]] or similar techniques.
 
 ## the link to coherence
 
@@ -106,8 +106,8 @@ all three set the practical sensitivity floor. modern instruments (GRAVITY, MATI
 
 ## see also
 
-- [Coherence function and visibility](interf/Coherence%20function%20and%20visibility.html)
-- [Van Cittert-Zernike theorem](interf/Van%20Cittert-Zernike%20theorem.html)
-- [Spatial coherence](interf/Spatial%20coherence.html)
-- [Stellar diameters and limb darkening](interf/Stellar%20diameters%20and%20limb%20darkening.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Coherence function and visibility]]
+- [[Van Cittert-Zernike theorem]]
+- [[Spatial coherence]]
+- [[Stellar diameters and limb darkening]]
+- [[Astronomical_Interferometry_MOC]]

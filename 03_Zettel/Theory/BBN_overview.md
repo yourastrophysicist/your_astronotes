@@ -16,7 +16,7 @@ what comes out of BBN, three minutes later:
 - a **relevant** amount of $^2$H (deuterium, 1p+1n) and $^3$He (2p+1n)
 - a **small** amount of $^7$Li (3p+4n)
 
-essentially nothing heavier. the absence of tightly-bound isotopes at mass numbers $A=5$ and $A=8$, plus the steeply suppressed reaction rates at $T \sim 0.1$ MeV, prevents significant synthesis beyond $^4$He. heavier elements are forged later, in stars (see [Stellar nucleosynthesis](Stellar%20nucleosynthesis.html)).
+essentially nothing heavier. the absence of tightly-bound isotopes at mass numbers $A=5$ and $A=8$, plus the steeply suppressed reaction rates at $T \sim 0.1$ MeV, prevents significant synthesis beyond $^4$He. heavier elements are forged later, in stars (see [[Stellar nucleosynthesis]]).
 
 ![bbn-01.png](../../assets/images/bbn-01.png)
 
@@ -110,7 +110,7 @@ with $\sum_i X_i = 1$.
 a critical cosmological number for BBN:
 $$\eta = \frac{n_N}{n_\gamma}$$
 
-a simple estimate gives $n_N = 1.38 \times 10^{-5}\, (\Omega_{0b} h^2)$ cm$^{-3}$ today. with the photon number density $n_\gamma = (2\zeta(3)/\pi^2) T^3 \simeq 422$ cm$^{-3}$ (see [Cosmic_inventory_photons](Cosmic_inventory_photons.html)):
+a simple estimate gives $n_N = 1.38 \times 10^{-5}\, (\Omega_{0b} h^2)$ cm$^{-3}$ today. with the photon number density $n_\gamma = (2\zeta(3)/\pi^2) T^3 \simeq 422$ cm$^{-3}$ (see [[Cosmic_inventory_photons]]):
 $$\boxed{\,\eta = \frac{n_N}{n_\gamma} = 2.68 \times 10^{-8} (\Omega_{0b} h^2) \quad \text{today}\,}$$
 
 with Planck's $\Omega_b h^2 \approx 0.0224$ this gives $\eta \sim 6 \times 10^{-10}$. *one nucleon per about a billion photons.* the universe is photon-dominated by number.
@@ -495,40 +495,40 @@ this is why BBN is one of the three observational pillars of the standard hot Bi
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Cosmic_inventory_overview](Cosmic_inventory_overview.html)
-- [Cosmic_inventory_baryons](Cosmic_inventory_baryons.html)
-- [Brief thermal history](Brief%20thermal%20history.html)
-- [Saha equation and recombination](Saha%20equation%20and%20recombination.html) — same entropy logic, different epoch
-- [Stellar nucleosynthesis](Stellar%20nucleosynthesis.html) — what happens *after* BBN, in stars
-- [Baumann_reference](Baumann_reference.html) — chapter 3.3.4 is the Boltzmann-equation derivation
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Cosmic_inventory_overview]]
+- [[Cosmic_inventory_baryons]]
+- [[Brief thermal history]]
+- [[Saha equation and recombination]] — same entropy logic, different epoch
+- [[Stellar nucleosynthesis]] — what happens *after* BBN, in stars
+- [[Baumann_reference]] — chapter 3.3.4 is the Boltzmann-equation derivation
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (23)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="BBN_NSE_initial_conditions.html" class="backlink-item">BBN_NSE_initial_conditions</a></li>
-    <li class="backlink-item-wrap"><a href="BBN_baryon_to_photon_ratio.html" class="backlink-item">BBN_baryon_to_photon_ratio</a></li>
-    <li class="backlink-item-wrap"><a href="BBN_concordance_with_CMB.html" class="backlink-item">BBN_concordance_with_CMB</a></li>
-    <li class="backlink-item-wrap"><a href="BBN_neutron_proton_ratio.html" class="backlink-item">BBN_neutron_proton_ratio</a></li>
-    <li class="backlink-item-wrap"><a href="BBN_observations.html" class="backlink-item">BBN_observations</a></li>
-    <li class="backlink-item-wrap"><a href="BBN_predictions.html" class="backlink-item">BBN_predictions</a></li>
-    <li class="backlink-item-wrap"><a href="BBN_three_steps.html" class="backlink-item">BBN_three_steps</a></li>
-    <li class="backlink-item-wrap"><a href="Baumann_reference.html" class="backlink-item">Baumann_reference</a></li>
-    <li class="backlink-item-wrap"><a href="Big%20Bang%20nucleosynthesis.html" class="backlink-item">Big Bang nucleosynthesis</a></li>
-    <li class="backlink-item-wrap"><a href="Boltzmann%20equation%20in%20cosmology.html" class="backlink-item">Boltzmann equation in cosmology</a></li>
-    <li class="backlink-item-wrap"><a href="Brief%20thermal%20history.html" class="backlink-item">Brief thermal history</a></li>
-    <li class="backlink-item-wrap"><a href="CMB%20Spectral%20Distortions%20-%20What%20They%20Are%20and%20Where%20They%20Come%20From.html" class="backlink-item">CMB Spectral Distortions - What They Are and Where They Come From</a></li>
-    <li class="backlink-item-wrap"><a href="Cosmic_inventory_baryons.html" class="backlink-item">Cosmic_inventory_baryons</a></li>
-    <li class="backlink-item-wrap"><a href="Cosmic_inventory_overview.html" class="backlink-item">Cosmic_inventory_overview</a></li>
-    <li class="backlink-item-wrap"><a href="Decoupling%20and%20freeze-out.html" class="backlink-item">Decoupling and freeze-out</a></li>
-    <li class="backlink-item-wrap"><a href="Fundamentals_course_intro.html" class="backlink-item">Fundamentals_course_intro</a></li>
-    <li class="backlink-item-wrap"><a href="Number%20density%20and%20energy%20density%20at%20thermal%20equilibrium.html" class="backlink-item">Number density and energy density at thermal equilibrium</a></li>
-    <li class="backlink-item-wrap"><a href="Primordial%20helium%20abundance%20from%20HII%20regions.html" class="backlink-item">Primordial helium abundance from HII regions</a></li>
-    <li class="backlink-item-wrap"><a href="Saha%20equation%20and%20recombination.html" class="backlink-item">Saha equation and recombination</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20nucleosynthesis.html" class="backlink-item">Stellar nucleosynthesis</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20populations%20I%20II%20III.html" class="backlink-item">Stellar populations I II III</a></li>
-    <li class="backlink-item-wrap"><a href="Transition%20epochs.html" class="backlink-item">Transition epochs</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[BBN_NSE_initial_conditions]]
+- [[BBN_baryon_to_photon_ratio]]
+- [[BBN_concordance_with_CMB]]
+- [[BBN_neutron_proton_ratio]]
+- [[BBN_observations]]
+- [[BBN_predictions]]
+- [[BBN_three_steps]]
+- [[Baumann_reference]]
+- [[Big Bang nucleosynthesis]]
+- [[Boltzmann equation in cosmology]]
+- [[Brief thermal history]]
+- [[CMB Spectral Distortions - What They Are and Where They Come From]]
+- [[Cosmic_inventory_baryons]]
+- [[Cosmic_inventory_overview]]
+- [[Decoupling and freeze-out]]
+- [[Fundamentals_course_intro]]
+- [[Number density and energy density at thermal equilibrium]]
+- [[Primordial helium abundance from HII regions]]
+- [[Saha equation and recombination]]
+- [[Stellar nucleosynthesis]]
+- [[Stellar populations I II III]]
+- [[Transition epochs]]
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+
 

@@ -20,15 +20,15 @@ $$k_{\text{QP}}(\Delta t) = A \exp\left( -\frac{\Delta t^2}{2 \ell^2} - \Gamma \
 Simultaneously fitting the GP covariance kernel alongside the physical transit model avoids biasing planetary transit parameters.
 
 ## Related Notes
-- [Malavolta 10 - Light Curve Filtering and Detrending Techniques](../../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2010%20-%20Light%20Curve%20Filtering%20and%20Detrending%20Techniques.html)
-- [Likelihood Function for Photometric Time Series](../Theory/Likelihood%20Function%20for%20Photometric%20Time%20Series.html)
+- [[Malavolta 10 - Light Curve Filtering and Detrending Techniques]]
+- [[Likelihood Function for Photometric Time Series]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Theory/Multivariate%20Gaussian%20conditioning%20and%20marginalization.html" class="backlink-item">Multivariate Gaussian conditioning and marginalization</a></li>
-    <li class="backlink-item-wrap"><a href="../Theory/Stellar%20activity%20signals%20and%20radial%20velocity%20jitter%20mitigation.html" class="backlink-item">Stellar activity signals and radial velocity jitter mitigation</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Multivariate Gaussian conditioning and marginalization]]
+- [[Stellar activity signals and radial velocity jitter mitigation]]
+- [[Astrophysics_Laboratory_2_MOC]]
+
 

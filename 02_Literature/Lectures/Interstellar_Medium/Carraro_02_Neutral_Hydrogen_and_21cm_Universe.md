@@ -7,7 +7,7 @@ tags: ""
 
 *Course: Astrophysics of the Interstellar Medium, Master in Astrophysics and Cosmology, Università degli Studi di Padova*  
 *Lecturer: Prof. Giovanni Carraro*  
-*Index: [Astrophysics_of_the_Interstellar_Medium_MOC](../../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html)*
+*Index: [[Astrophysics_of_the_Interstellar_Medium_MOC]]*
 
 ---
 
@@ -192,14 +192,14 @@ prof. carraro surveyed the modern observational frontiers:
 
 ## see also
 
-- [Astrophysics_of_the_Interstellar_Medium_MOC](../../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html)
-- [HI 21 cm hyperfine transition](../../../03_Zettel/Theory/HI%2021%20cm%20hyperfine%20transition.html)
-- [Spin temperature and 21 cm radiative transfer](../../../03_Zettel/Theory/Spin%20temperature%20and%2021%20cm%20radiative%20transfer.html)
-- [Galactic HI kinematics and Milky Way spiral structure](../../../03_Zettel/Theory/Galactic%20HI%20kinematics%20and%20Milky%20Way%20spiral%20structure.html)
-- [Carraro_01_Introduction_and_Multi-phase_ISM](./Carraro_01_Introduction_and_Multi-phase_ISM.html)
-- [Carraro_03_HII_Regions_and_Photoionized_Gas](./Carraro_03_HII_Regions_and_Photoionized_Gas.html)
-- [Rotation curves](../../../03_Zettel/Theory/Rotation%20curves.html)
-- [Milky Way structure](../../../03_Zettel/Theory/Milky%20Way%20structure.html)
+- [[Astrophysics_of_the_Interstellar_Medium_MOC]]
+- [[HI 21 cm hyperfine transition]]
+- [[Spin temperature and 21 cm radiative transfer]]
+- [[Galactic HI kinematics and Milky Way spiral structure]]
+- [[Carraro_01_Introduction_and_Multi-phase_ISM]]
+- [[Carraro_03_HII_Regions_and_Photoionized_Gas]]
+- [[Rotation curves]]
+- [[Milky Way structure]]
 
 
 ## Lecture Visuals & 21cm Physics
@@ -210,13 +210,13 @@ prof. carraro surveyed the modern observational frontiers:
 ![Milky Way HI Kinematics and Spiral Arms](../../../assets/images/ism_hi_p03.png)
 *Figure ISM-02: Galactic longitude-velocity $(l, v_{\mathrm{LSR}})$ diagram and reconstructed spiral structure of the Milky Way derived from 21cm line surveys using the kinematic distance method.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Galactic%20HI%20kinematics%20and%20Milky%20Way%20spiral%20structure.html" class="backlink-item">Galactic HI kinematics and Milky Way spiral structure</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/HI%2021%20cm%20hyperfine%20transition.html" class="backlink-item">HI 21 cm hyperfine transition</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Spin%20temperature%20and%2021%20cm%20radiative%20transfer.html" class="backlink-item">Spin temperature and 21 cm radiative transfer</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html" class="backlink-item">Astrophysics_of_the_Interstellar_Medium_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Galactic HI kinematics and Milky Way spiral structure]]
+- [[HI 21 cm hyperfine transition]]
+- [[Spin temperature and 21 cm radiative transfer]]
+- [[Astrophysics_of_the_Interstellar_Medium_MOC]]
+
 

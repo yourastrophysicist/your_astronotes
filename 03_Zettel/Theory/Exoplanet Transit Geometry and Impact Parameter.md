@@ -33,15 +33,15 @@ $$b = \frac{a}{R_\star} \cos i$$
 - $b > 1 + R_p/R_\star$: no transit occurs.
 
 ## Related Notes
-- [Transit Depth and Ingress-Egress Timescales](Transit%20Depth%20and%20Ingress-Egress%20Timescales.html)
-- [Stellar Limb Darkening Laws](Stellar%20Limb%20Darkening%20Laws.html)
-- [Malavolta 11 - Transit Geometry and Analytical Light Curve Modeling](../../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2011%20-%20Transit%20Geometry%20and%20Analytical%20Light%20Curve%20Modeling.html)
+- [[Transit Depth and Ingress-Egress Timescales]]
+- [[Stellar Limb Darkening Laws]]
+- [[Malavolta 11 - Transit Geometry and Analytical Light Curve Modeling]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Transit%20Depth%20and%20Ingress-Egress%20Timescales.html" class="backlink-item">Transit Depth and Ingress-Egress Timescales</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Transit Depth and Ingress-Egress Timescales]]
+- [[Astrophysics_Laboratory_2_MOC]]
+
 

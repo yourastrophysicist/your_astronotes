@@ -48,22 +48,22 @@ $$\epsilon \approx \epsilon_V, \quad \eta \approx \eta_V - \epsilon_V$$
 
 ## connections & zettel links
 
-* parent moc: [Cosmology_of_the_Early_Universe_MOC](../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html)
+* parent moc: [[Cosmology_of_the_Early_Universe_MOC]]
 * related zettels:
-  - [Single-field slow-roll inflation dynamics](Single-field%20slow-roll%20inflation%20dynamics.html)
-  - [Number of e-folds and horizon exit](Number%20of%20e-folds%20and%20horizon%20exit.html)
-  - [Scalar primordial power spectrum and spectral index](Scalar%20primordial%20power%20spectrum%20and%20spectral%20index.html)
-  - [Consistency relation of single-field slow-roll inflation](Consistency%20relation%20of%20single-field%20slow-roll%20inflation.html)
-  - [Part2_Inflation_Kinematics_Dynamics_and_Models](../../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part2_Inflation_Kinematics_Dynamics_and_Models.html)
+  - [[Single-field slow-roll inflation dynamics]]
+  - [[Number of e-folds and horizon exit]]
+  - [[Scalar primordial power spectrum and spectral index]]
+  - [[Consistency relation of single-field slow-roll inflation]]
+  - [[Part2_Inflation_Kinematics_Dynamics_and_Models]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Consistency%20relation%20of%20single-field%20slow-roll%20inflation.html" class="backlink-item">Consistency relation of single-field slow-roll inflation</a></li>
-    <li class="backlink-item-wrap"><a href="Number%20of%20e-folds%20and%20horizon%20exit.html" class="backlink-item">Number of e-folds and horizon exit</a></li>
-    <li class="backlink-item-wrap"><a href="Scalar%20primordial%20power%20spectrum%20and%20spectral%20index.html" class="backlink-item">Scalar primordial power spectrum and spectral index</a></li>
-    <li class="backlink-item-wrap"><a href="Single-field%20slow-roll%20inflation%20dynamics.html" class="backlink-item">Single-field slow-roll inflation dynamics</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html" class="backlink-item">Cosmology_of_the_Early_Universe_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Consistency relation of single-field slow-roll inflation]]
+- [[Number of e-folds and horizon exit]]
+- [[Scalar primordial power spectrum and spectral index]]
+- [[Single-field slow-roll inflation dynamics]]
+- [[Cosmology_of_the_Early_Universe_MOC]]
+
 

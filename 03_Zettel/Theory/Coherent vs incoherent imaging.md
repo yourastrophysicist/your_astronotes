@@ -81,9 +81,9 @@ interferometers care about this because *delay lines* must equalize the path len
 
 ## see also
 
-- [Plane waves and Huygens principle](interf/Plane%20waves%20and%20Huygens%20principle.html)
-- [Spatial coherence](interf/Spatial%20coherence.html)
-- [Temporal coherence](interf/Temporal%20coherence.html)
-- [Fringe visibility and contrast](interf/Fringe%20visibility%20and%20contrast.html)
-- [Coherence function and visibility](interf/Coherence%20function%20and%20visibility.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Plane waves and Huygens principle]]
+- [[Spatial coherence]]
+- [[Temporal coherence]]
+- [[Fringe visibility and contrast]]
+- [[Coherence function and visibility]]
+- [[Astronomical_Interferometry_MOC]]

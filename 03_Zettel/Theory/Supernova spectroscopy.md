@@ -11,7 +11,7 @@ title: "Supernova spectroscopy"
 - **strong Si II $\lambda 6355$ Å** absorption near max light. signature of partial nuclear burning to intermediate-mass elements.
 - **broad lines** $\sim 10^4$ km/s.
 - progenitor: thermonuclear explosion of a $\sim 1.4\,M_\odot$ C/O white dwarf.
-- standard candle for cosmology ([Type Ia supernovae as standard candles](Type%20Ia%20supernovae%20as%20standard%20candles.html)).
+- standard candle for cosmology ([[Type Ia supernovae as standard candles]]).
 
 ### Type Ib
 - **no hydrogen**, **with helium** (He I $\lambda 5876, 6678, 7065$).
@@ -66,23 +66,23 @@ energy from gamma-rays + positrons heats the ejecta, driving the late-time emiss
 
 ## see also
 
-- [Type Ia supernovae as standard candles](Type%20Ia%20supernovae%20as%20standard%20candles.html)
-- [Cepheids and supernovae](Cepheids%20and%20supernovae.html)
-- [Emission line stars](Emission%20line%20stars.html)
-- [Forbidden lines](Forbidden%20lines.html)
-- [Hydrogen spectral series](Hydrogen%20spectral%20series.html)
-- [Helium energy levels](Helium%20energy%20levels.html)
-- [Galactic novae spectroscopy](Galactic%20novae%20spectroscopy.html)
-- [Supernova remnant spectroscopy](Supernova%20remnant%20spectroscopy.html)
-- [Stellar populations I II III](Stellar%20populations%20I%20II%20III.html)
+- [[Type Ia supernovae as standard candles]]
+- [[Cepheids and supernovae]]
+- [[Emission line stars]]
+- [[Forbidden lines]]
+- [[Hydrogen spectral series]]
+- [[Helium energy levels]]
+- [[Galactic novae spectroscopy]]
+- [[Supernova remnant spectroscopy]]
+- [[Stellar populations I II III]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Emission%20line%20stars.html" class="backlink-item">Emission line stars</a></li>
-    <li class="backlink-item-wrap"><a href="Galactic%20novae%20spectroscopy.html" class="backlink-item">Galactic novae spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="Supernova%20remnant%20spectroscopy.html" class="backlink-item">Supernova remnant spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Emission line stars]]
+- [[Galactic novae spectroscopy]]
+- [[Supernova remnant spectroscopy]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 

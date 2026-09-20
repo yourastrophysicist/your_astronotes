@@ -50,7 +50,7 @@ the two factors of $(1+z)$ in $d_L = d_A(1+z)^2$ have specific physical origins:
 so the total **flux dilution** has *four* factors of $(1+z)$ (since flux $\propto 1/d_L^2$), which manifests as the famous **surface-brightness dimming**:
 $$\sigma \propto \frac{d_A^2}{d_L^2} \propto (1+z)^{-4}$$
 
-a brutal penalty on high-$z$ imaging. (see [Surface brightness dimming](Surface%20brightness%20dimming.html) in the Observational Cosmology MOC.)
+a brutal penalty on high-$z$ imaging. (see [[Surface brightness dimming]] in the Observational Cosmology MOC.)
 
 ---
 
@@ -78,19 +78,19 @@ at high $z$ they diverge. for a SN Ia at $z = 1$ in ΛCDM: $d_C \approx 3.4$ Gpc
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Hubble law exact form](Hubble%20law%20exact%20form.html)
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Hubble law exact form]]
 - 03_Zettel/Theory/Robertson-Walker metric
 - Friedmann equations with Λ
-- [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html) — block 1 has the same content with extra observational detail
+- [[Observational_Cosmology_MOC]] — block 1 has the same content with extra observational detail
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Cosmology%20calculator%20-%20how%20to%20use%20H0%20Omega_m%20Omega_Lambda%20to%20get%20dL%20dA%20t_lookback.html" class="backlink-item">Cosmology calculator - how to use H0 Omega_m Omega_Lambda to get dL dA t_lookback</a></li>
-    <li class="backlink-item-wrap"><a href="Hubble%27s%20law%20and%20cosmological%20redshift.html" class="backlink-item">Hubble's law and cosmological redshift</a></li>
-    <li class="backlink-item-wrap"><a href="Time-redshift%20relation.html" class="backlink-item">Time-redshift relation</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Cosmology calculator - how to use H0 Omega_m Omega_Lambda to get dL dA t_lookback]]
+- [[Hubble's law and cosmological redshift]]
+- [[Time-redshift relation]]
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+
 

@@ -75,7 +75,7 @@ it's a technique that sounds esoteric but is foundational: without apodization, 
 
 ## see also
 
-- [Coronagraphy](interf/Coronagraphy.html)
-- [Nulling interferometry](interf/Nulling%20interferometry.html)
-- [Bracewell nuller](interf/Bracewell%20nuller.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Coronagraphy]]
+- [[Nulling interferometry]]
+- [[Bracewell nuller]]
+- [[Astronomical_Interferometry_MOC]]

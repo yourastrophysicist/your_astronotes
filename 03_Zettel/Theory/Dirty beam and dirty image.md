@@ -123,9 +123,9 @@ source: first figure is a local synthetic demo; NRAO figures are from S. T. Myer
 
 ## see also
 
-- [The (u, v) plane](interf/The%20%28u%2C%20v%29%20plane.html)
-- [Aperture synthesis principle](interf/Aperture%20synthesis%20principle.html)
-- [CLEAN algorithm](interf/CLEAN%20algorithm.html)
-- [Maximum entropy method](Maximum%20entropy%20method.html)
-- [Imaging artifacts](interf/Imaging%20artifacts.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[The (u, v) plane]]
+- [[Aperture synthesis principle]]
+- [[CLEAN algorithm]]
+- [[Maximum entropy method]]
+- [[Imaging artifacts]]
+- [[Astronomical_Interferometry_MOC]]

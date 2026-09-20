@@ -114,26 +114,26 @@ remarkably consistent with the prediction of $\sim 25\%$.
 
 D/H gives the **cleanest** measurement of $\eta$. $^4$He confirms the n/p physics. $^3$He and $^7$Li provide cross-checks (with the lithium problem outstanding).
 
-→ the final concordance check is comparing $\eta$ from BBN with $\eta$ from CMB peaks: see [BBN_concordance_with_CMB](BBN_concordance_with_CMB.html).
+→ the final concordance check is comparing $\eta$ from BBN with $\eta$ from CMB peaks: see [[BBN_concordance_with_CMB]].
 
 ---
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [BBN_overview](BBN_overview.html)
-- [BBN_predictions](BBN_predictions.html)
-- [BBN_concordance_with_CMB](BBN_concordance_with_CMB.html)
-- [Cosmic_inventory_baryons](Cosmic_inventory_baryons.html)
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[BBN_overview]]
+- [[BBN_predictions]]
+- [[BBN_concordance_with_CMB]]
+- [[Cosmic_inventory_baryons]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="BBN_concordance_with_CMB.html" class="backlink-item">BBN_concordance_with_CMB</a></li>
-    <li class="backlink-item-wrap"><a href="BBN_predictions.html" class="backlink-item">BBN_predictions</a></li>
-    <li class="backlink-item-wrap"><a href="BBN_three_steps.html" class="backlink-item">BBN_three_steps</a></li>
-    <li class="backlink-item-wrap"><a href="Big%20Bang%20nucleosynthesis.html" class="backlink-item">Big Bang nucleosynthesis</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[BBN_concordance_with_CMB]]
+- [[BBN_predictions]]
+- [[BBN_three_steps]]
+- [[Big Bang nucleosynthesis]]
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+
 

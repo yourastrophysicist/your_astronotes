@@ -60,20 +60,20 @@ besides Ly-α, the IGM clouds have metal absorption lines (C IV, Mg II, O VI). t
 
 ## see also
 
-- [Reionization](Reionization.html)
-- [Intergalactic medium](Intergalactic%20medium.html)
-- [Damping wings](Damping%20wings.html)
-- [Hydrogen spectral series](Hydrogen%20spectral%20series.html)
-- [Voigt profile](Voigt%20profile.html)
-- [Photoionisation balance](Photoionisation%20balance.html)
-- [Cosmic_inventory_baryons](Cosmic_inventory_baryons.html)
-- [ΛCDM current parameters](%CE%9BCDM%20current%20parameters.html)
-- [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
+- [[Reionization]]
+- [[Intergalactic medium]]
+- [[Damping wings]]
+- [[Hydrogen spectral series]]
+- [[Voigt profile]]
+- [[Photoionisation balance]]
+- [[Cosmic_inventory_baryons]]
+- [[ΛCDM current parameters]]
+- [[Observational_Cosmology_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (1)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Observational_Cosmology_MOC]]
+
 

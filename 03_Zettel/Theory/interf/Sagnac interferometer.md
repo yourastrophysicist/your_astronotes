@@ -81,20 +81,18 @@ both are amplitude-division interferometers; both use beam splitters; the topolo
 
 ## see also
 
-- [Amplitude-division interferometers](../Amplitude-division%20interferometers.html)
-- [Beam splitter physics](Beam%20splitter%20physics.html)
-- [Mach-Zehnder interferometer](Mach-Zehnder%20interferometer.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Amplitude-division interferometers]]
+- [[Beam splitter physics]]
+- [[Mach-Zehnder interferometer]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Amplitude-division%20interferometers.html" class="backlink-item">Amplitude-division interferometers</a></li>
-    <li class="backlink-item-wrap"><a href="../Beam%20splitter%20physics.html" class="backlink-item">Beam splitter physics</a></li>
-    <li class="backlink-item-wrap"><a href="../Mach-Zehnder%20interferometer.html" class="backlink-item">Mach-Zehnder interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="Beam%20splitter%20physics.html" class="backlink-item">Beam splitter physics</a></li>
-    <li class="backlink-item-wrap"><a href="Mach-Zehnder%20interferometer.html" class="backlink-item">Mach-Zehnder interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Amplitude-division interferometers]]
+- [[Beam splitter physics]]
+- [[Mach-Zehnder interferometer]]
+- [[Astronomical_Interferometry_MOC]]
+
 

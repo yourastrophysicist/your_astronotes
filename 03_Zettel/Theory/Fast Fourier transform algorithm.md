@@ -4,7 +4,7 @@ title: "Fast Fourier transform algorithm"
 ---
 # Fast Fourier transform algorithm
 
-the algorithm that computes the [Discrete Fourier transform](Discrete%20Fourier%20transform.html) in $O(N \log N)$ instead of the naive $O(N^2)$. one of the most consequential algorithms ever invented, transforming entire fields of science and engineering.
+the algorithm that computes the [[Discrete Fourier transform]] in $O(N \log N)$ instead of the naive $O(N^2)$. one of the most consequential algorithms ever invented, transforming entire fields of science and engineering.
 
 ## the idea: divide and conquer
 
@@ -89,12 +89,12 @@ before Cooley-Tukey (1965), Fourier analysis was practically restricted to $N \l
 
 ## see also
 
-- [Discrete Fourier transform](Discrete%20Fourier%20transform.html)
-- [Fourier series math summary](Fourier%20series%20math%20summary.html)
-- [Physical interpretation of the FFT](Physical%20interpretation%20of%20the%20FFT.html)
-- [Computational complexity and speed](Computational%20complexity%20and%20speed.html)
-- [Power spectrum estimation](Power%20spectrum%20estimation.html)
-- [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
+- [[Discrete Fourier transform]]
+- [[Fourier series math summary]]
+- [[Physical interpretation of the FFT]]
+- [[Computational complexity and speed]]
+- [[Power spectrum estimation]]
+- [[Mathematical_Numerical_Methods_MOC]]
 
 ---
 
@@ -103,16 +103,16 @@ before Cooley-Tukey (1965), Fourier analysis was practically restricted to $N \l
 ![mapelli_fig11_p115.png](../../assets/images/mapelli_fig11_p55.png)
 *Fast Fourier Transform (FFT) grid density assignment and Green function kernel in k-space.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Computational%20complexity%20and%20speed.html" class="backlink-item">Computational complexity and speed</a></li>
-    <li class="backlink-item-wrap"><a href="Discrete%20Fourier%20transform.html" class="backlink-item">Discrete Fourier transform</a></li>
-    <li class="backlink-item-wrap"><a href="FFT%20in%20scipy%20and%20numpy.html" class="backlink-item">FFT in scipy and numpy</a></li>
-    <li class="backlink-item-wrap"><a href="Fourier%20series%20math%20summary.html" class="backlink-item">Fourier series math summary</a></li>
-    <li class="backlink-item-wrap"><a href="Physical%20interpretation%20of%20the%20FFT.html" class="backlink-item">Physical interpretation of the FFT</a></li>
-    <li class="backlink-item-wrap"><a href="Power%20spectrum%20estimation.html" class="backlink-item">Power spectrum estimation</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Computational complexity and speed]]
+- [[Discrete Fourier transform]]
+- [[FFT in scipy and numpy]]
+- [[Fourier series math summary]]
+- [[Physical interpretation of the FFT]]
+- [[Power spectrum estimation]]
+- [[Mathematical_Numerical_Methods_MOC]]
+
 

@@ -66,14 +66,14 @@ bjd_tdb = (t_utc.tdb + ltt).jd
 ```
 
 ## Related Notes
-- [Science Frame Calibration and Variance Propagation](../Computational/Science%20Frame%20Calibration%20and%20Variance%20Propagation.html)
-- [Cosmic Ray Rejection via Laplacian Edge Detection](../Computational/Cosmic%20Ray%20Rejection%20via%20Laplacian%20Edge%20Detection.html)
-- [Barycentric Julian Date and Time System Conversions](../Computational/Barycentric%20Julian%20Date%20and%20Time%20System%20Conversions.html)
+- [[Science Frame Calibration and Variance Propagation]]
+- [[Cosmic Ray Rejection via Laplacian Edge Detection]]
+- [[Barycentric Julian Date and Time System Conversions]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (1)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Astrophysics_Laboratory_2_MOC]]
+
 

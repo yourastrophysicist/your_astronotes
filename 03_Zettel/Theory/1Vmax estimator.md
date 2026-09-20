@@ -4,11 +4,11 @@ title: "1Vmax estimator"
 ---
 # 1/Vmax estimator
 
-up: [Pablo_02_Statistical_properties_of_galaxies](../../02_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html) · [Luminosity function definition](Luminosity%20function%20definition.html)
+up: [[Pablo_02_Statistical_properties_of_galaxies]] · [[Luminosity function definition]]
 
 ## the problem
 
-a flux-limited sample (apparent magnitude $m < m_{\text{lim}}$) does not see all galaxies in your survey volume. faint galaxies are only visible nearby; bright galaxies are visible far. so a naive histogram of absolute magnitudes is biased toward bright objects (this is [Malmquist bias](Malmquist%20bias.html)).
+a flux-limited sample (apparent magnitude $m < m_{\text{lim}}$) does not see all galaxies in your survey volume. faint galaxies are only visible nearby; bright galaxies are visible far. so a naive histogram of absolute magnitudes is biased toward bright objects (this is [[Malmquist bias]]).
 
 we want $\phi(L)$, the *intrinsic* density of galaxies per unit luminosity per unit volume. how do we estimate it?
 
@@ -30,12 +30,12 @@ the expected number of galaxies of luminosity $L$ in your sample is $\phi(L)\, d
 
 $$V_{\max}(L) = \Omega_{\text{survey}} \int_{z_{\min}}^{z_{\max}(L)} \frac{dV}{dz\, d\Omega}\, dz$$
 
-where $z_{\max}(L)$ solves $L = 4 \pi d_L(z_{\max})^2 \cdot S_{\text{lim}} \cdot 10^{0.4\, K(z_{\max})}$. so $V_{\max}$ folds in cosmology, [K-correction](K-correction.html), and the survey footprint.
+where $z_{\max}(L)$ solves $L = 4 \pi d_L(z_{\max})^2 \cdot S_{\text{lim}} \cdot 10^{0.4\, K(z_{\max})}$. so $V_{\max}$ folds in cosmology, [[K-correction]], and the survey footprint.
 
 ## variants and limitations
 
 - **bivariate $V_{\max}$**: when you have two flux limits (e.g. K-band and 24 μm) you intersect the two volumes.
-- **photo-z $V_{\max}$**: marginalize over $p(z)$ rather than using a point estimate, otherwise outliers (see [Photo-z biases and catastrophic outliers](Photo-z%20biases%20and%20catastrophic%20outliers.html)) bias the LF.
+- **photo-z $V_{\max}$**: marginalize over $p(z)$ rather than using a point estimate, otherwise outliers (see [[Photo-z biases and catastrophic outliers]]) bias the LF.
 - **Sandage-Tammann-Yahil 1979 max-likelihood**: an alternative that does not bin in $L$ and is less sensitive to large-scale structure (which can bias 1/Vmax in pencil-beam surveys).
 - **STY likelihood for the Schechter parameters**: fit $\phi^*$, $L^*$, $\alpha$ directly without binning.
 
@@ -45,10 +45,10 @@ it is the simplest unbiased LF estimator. it costs essentially nothing per galax
 
 ## connections
 
-- bias it corrects: [Malmquist bias](Malmquist%20bias.html)
-- the LF it estimates: [Schechter function](Schechter%20function.html)
-- when photo-z complicate it: [Photo-z biases and catastrophic outliers](Photo-z%20biases%20and%20catastrophic%20outliers.html)
-- mass version: [Stellar mass function](Stellar%20mass%20function.html)
+- bias it corrects: [[Malmquist bias]]
+- the LF it estimates: [[Schechter function]]
+- when photo-z complicate it: [[Photo-z biases and catastrophic outliers]]
+- mass version: [[Stellar mass function]]
 
 ## key references
 
@@ -56,14 +56,14 @@ it is the simplest unbiased LF estimator. it costs essentially nothing per galax
 - Felten 1976
 - Sandage, Tammann, Yahil 1979 (max-likelihood alternative)
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Malmquist%20bias.html" class="backlink-item">Malmquist bias</a></li>
-    <li class="backlink-item-wrap"><a href="Photo-z%20biases%20and%20catastrophic%20outliers.html" class="backlink-item">Photo-z biases and catastrophic outliers</a></li>
-    <li class="backlink-item-wrap"><a href="Redshift%20distribution%20of%20flux-limited%20samples.html" class="backlink-item">Redshift distribution of flux-limited samples</a></li>
-    <li class="backlink-item-wrap"><a href="Schechter%20K-band%20luminosity%20function.html" class="backlink-item">Schechter K-band luminosity function</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Malmquist bias]]
+- [[Photo-z biases and catastrophic outliers]]
+- [[Redshift distribution of flux-limited samples]]
+- [[Schechter K-band luminosity function]]
+- [[Observational_Cosmology_MOC]]
+
 

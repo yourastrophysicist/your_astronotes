@@ -10,8 +10,8 @@ how do we *weigh* the baryons in the universe? four independent methods, with va
 
 1. **observe baryons in stars and galaxies** via optical and X-ray emission. counts the photons; depends on understanding stellar populations, dust, ICM gas, etc.
 2. **quasar absorption spectra**: light from distant quasars is absorbed by intervening hydrogen along the line of sight. the column density of neutral hydrogen depends on the baryon density.
-3. **primordial nucleosynthesis**: the abundances of light nuclei depend strongly on the baryon-to-photon ratio $\eta$ (see [BBN_overview](BBN_overview.html)).
-4. **CMB anisotropies**: the height of the acoustic peaks depends on $\Omega_b h^2$ (see [Cosmic_inventory_photons](Cosmic_inventory_photons.html)).
+3. **primordial nucleosynthesis**: the abundances of light nuclei depend strongly on the baryon-to-photon ratio $\eta$ (see [[BBN_overview]]).
+4. **CMB anisotropies**: the height of the acoustic peaks depends on $\Omega_b h^2$ (see [[Cosmic_inventory_photons]]).
 
 methods 3 and 4 are in **excellent agreement** with each other. method 1 historically gave a smaller number, leading to the **missing baryon problem** — about half the baryons were unaccounted for. recent work has located most of them in the **WHIM** (warm-hot intergalactic medium) in filaments connecting galaxies, too cold to emit X-rays brightly.
 
@@ -59,28 +59,28 @@ recent observations have located most of them in **diffuse gas in filaments** co
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Cosmic_inventory_overview](Cosmic_inventory_overview.html)
-- [BBN_overview](BBN_overview.html)
-- [Cosmic_inventory_photons](Cosmic_inventory_photons.html)
-- [Cosmic_inventory_dark_matter](Cosmic_inventory_dark_matter.html)
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Cosmic_inventory_overview]]
+- [[BBN_overview]]
+- [[Cosmic_inventory_photons]]
+- [[Cosmic_inventory_dark_matter]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (13)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="BBN_baryon_to_photon_ratio.html" class="backlink-item">BBN_baryon_to_photon_ratio</a></li>
-    <li class="backlink-item-wrap"><a href="BBN_concordance_with_CMB.html" class="backlink-item">BBN_concordance_with_CMB</a></li>
-    <li class="backlink-item-wrap"><a href="BBN_observations.html" class="backlink-item">BBN_observations</a></li>
-    <li class="backlink-item-wrap"><a href="BBN_overview.html" class="backlink-item">BBN_overview</a></li>
-    <li class="backlink-item-wrap"><a href="Baryogenesis.html" class="backlink-item">Baryogenesis</a></li>
-    <li class="backlink-item-wrap"><a href="CMB%20Spectral%20Distortions%20-%20What%20They%20Are%20and%20Where%20They%20Come%20From.html" class="backlink-item">CMB Spectral Distortions - What They Are and Where They Come From</a></li>
-    <li class="backlink-item-wrap"><a href="Cosmic_inventory_dark_matter.html" class="backlink-item">Cosmic_inventory_dark_matter</a></li>
-    <li class="backlink-item-wrap"><a href="Cosmic_inventory_overview.html" class="backlink-item">Cosmic_inventory_overview</a></li>
-    <li class="backlink-item-wrap"><a href="Intergalactic%20medium.html" class="backlink-item">Intergalactic medium</a></li>
-    <li class="backlink-item-wrap"><a href="Lyman-alpha%20forest.html" class="backlink-item">Lyman-alpha forest</a></li>
-    <li class="backlink-item-wrap"><a href="Missing%20baryons.html" class="backlink-item">Missing baryons</a></li>
-    <li class="backlink-item-wrap"><a href="Reionization.html" class="backlink-item">Reionization</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[BBN_baryon_to_photon_ratio]]
+- [[BBN_concordance_with_CMB]]
+- [[BBN_observations]]
+- [[BBN_overview]]
+- [[Baryogenesis]]
+- [[CMB Spectral Distortions - What They Are and Where They Come From]]
+- [[Cosmic_inventory_dark_matter]]
+- [[Cosmic_inventory_overview]]
+- [[Intergalactic medium]]
+- [[Lyman-alpha forest]]
+- [[Missing baryons]]
+- [[Reionization]]
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+
 

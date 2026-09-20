@@ -68,21 +68,21 @@ to resolve astronomical positions with milliarcsecond (mas) accuracy:
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Equatorial system](Equatorial%20system.html)
-- [Ecliptic system](Ecliptic%20system.html)
-- [Atmospheric refraction](interf/Atmospheric%20refraction.html)
-- [Aberration of light](Aberration%20of%20light.html)
-- [Annual stellar parallax](Annual%20stellar%20parallax.html)
-- [Time keeping in astronomy](Time%20keeping%20in%20astronomy.html)
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Equatorial system]]
+- [[Ecliptic system]]
+- [[Atmospheric refraction]]
+- [[Aberration of light]]
+- [[Annual stellar parallax]]
+- [[Time keeping in astronomy]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Aberration%20of%20light.html" class="backlink-item">Aberration of light</a></li>
-    <li class="backlink-item-wrap"><a href="Atmospheric%20refraction.html" class="backlink-item">Atmospheric refraction</a></li>
-    <li class="backlink-item-wrap"><a href="Ecliptic%20system.html" class="backlink-item">Ecliptic system</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Aberration of light]]
+- [[Atmospheric refraction]]
+- [[Ecliptic system]]
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+
 

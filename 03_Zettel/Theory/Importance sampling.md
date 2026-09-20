@@ -70,20 +70,20 @@ if a few samples dominate the weights, $N_{\rm eff} \ll N$ and the estimator has
 
 ## see also
 
-- [Monte Carlo integration mean value method](Monte%20Carlo%20integration%20mean%20value%20method.html)
-- [Inverse transform sampling](Inverse%20transform%20sampling.html)
-- [Rejection sampling](Rejection%20sampling.html)
-- [Multidimensional Monte Carlo integration](Multidimensional%20Monte%20Carlo%20integration.html)
-- [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
+- [[Monte Carlo integration mean value method]]
+- [[Inverse transform sampling]]
+- [[Rejection sampling]]
+- [[Multidimensional Monte Carlo integration]]
+- [[Mathematical_Numerical_Methods_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Inverse%20transform%20sampling.html" class="backlink-item">Inverse transform sampling</a></li>
-    <li class="backlink-item-wrap"><a href="Monte%20Carlo%20integration%20mean%20value%20method.html" class="backlink-item">Monte Carlo integration mean value method</a></li>
-    <li class="backlink-item-wrap"><a href="Multidimensional%20Monte%20Carlo%20integration.html" class="backlink-item">Multidimensional Monte Carlo integration</a></li>
-    <li class="backlink-item-wrap"><a href="Rejection%20sampling.html" class="backlink-item">Rejection sampling</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Inverse transform sampling]]
+- [[Monte Carlo integration mean value method]]
+- [[Multidimensional Monte Carlo integration]]
+- [[Rejection sampling]]
+- [[Mathematical_Numerical_Methods_MOC]]
+
 

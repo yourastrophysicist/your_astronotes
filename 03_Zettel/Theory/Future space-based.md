@@ -116,8 +116,8 @@ these costs require sustained political support over decades. science cases must
 
 ## see also
 
-- [Future ground-based optical](interf/Future%20ground-based%20optical.html)
-- [Hypertelescope](interf/Hypertelescope.html)
-- [Bracewell nuller](interf/Bracewell%20nuller.html)
-- [Exoplanet imaging](interf/Exoplanet%20imaging.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Future ground-based optical]]
+- [[Hypertelescope]]
+- [[Bracewell nuller]]
+- [[Exoplanet imaging]]
+- [[Astronomical_Interferometry_MOC]]

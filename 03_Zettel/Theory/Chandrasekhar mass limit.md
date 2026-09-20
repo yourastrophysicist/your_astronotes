@@ -20,7 +20,7 @@ where $\varepsilon(p)$ is the electron energy-momentum relation.
 
 For $p_F \ll m_e c$, $v(p) \approx p/m_e$ (non-relativistic), and the integral evaluates to
 $$P = K_{\rm NR}\,\rho^{5/3}, \qquad K_{\rm NR} = \frac{h^2}{20 m_e m_H^{5/3}}\left(\frac{3}{\pi}\right)^{2/3}\frac{1}{\mu_e^{5/3}}$$
-This is a polytrope of index $n=3/2$ (see [[Stellar structure equations]] for the general Lane-Emden formalism), with mass-radius relation $R\propto M^{-1/3}$ (see [White dwarf mass-radius relation](White%20dwarf%20mass-radius%20relation.html)): more massive white dwarfs are *smaller*, the opposite of ordinary main-sequence stars, because degeneracy pressure — set by the exclusion principle rather than thermal motion — increases with compression regardless of temperature.
+This is a polytrope of index $n=3/2$ (see [[Stellar structure equations]] for the general Lane-Emden formalism), with mass-radius relation $R\propto M^{-1/3}$ (see [[White dwarf mass-radius relation]]): more massive white dwarfs are *smaller*, the opposite of ordinary main-sequence stars, because degeneracy pressure — set by the exclusion principle rather than thermal motion — increases with compression regardless of temperature.
 
 ### 3. ultra-relativistic limit: $n=3$ polytrope
 
@@ -57,21 +57,21 @@ historically, derived by Chandrasekhar in 1931 in his early twenties, this resul
 - **Chandrasekhar, S. (1935)**, *MNRAS* 95, 207 — the complete relativistic treatment across the full mass-radius relation, not only the $n=3$ limiting case.
 
 ## see also
-- [White dwarf overview](White%20dwarf%20overview.html)
-- [White dwarf mass-radius relation](White%20dwarf%20mass-radius%20relation.html)
-- [White dwarf types He CO ONeMg](White%20dwarf%20types%20He%20CO%20ONeMg.html)
-- [Initial-final mass relation IFMR](Initial-final%20mass%20relation%20IFMR.html)
-- [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
+- [[White dwarf overview]]
+- [[White dwarf mass-radius relation]]
+- [[White dwarf types He CO ONeMg]]
+- [[Initial-final mass relation IFMR]]
+- [[Stellar_Astrophysics_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Initial-final%20mass%20relation%20IFMR.html" class="backlink-item">Initial-final mass relation IFMR</a></li>
-    <li class="backlink-item-wrap"><a href="White%20dwarf%20cooling%20sequence%20on%20the%20CMD.html" class="backlink-item">White dwarf cooling sequence on the CMD</a></li>
-    <li class="backlink-item-wrap"><a href="White%20dwarf%20mass-radius%20relation.html" class="backlink-item">White dwarf mass-radius relation</a></li>
-    <li class="backlink-item-wrap"><a href="White%20dwarf%20overview.html" class="backlink-item">White dwarf overview</a></li>
-    <li class="backlink-item-wrap"><a href="White%20dwarf%20types%20He%20CO%20ONeMg.html" class="backlink-item">White dwarf types He CO ONeMg</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Initial-final mass relation IFMR]]
+- [[White dwarf cooling sequence on the CMD]]
+- [[White dwarf mass-radius relation]]
+- [[White dwarf overview]]
+- [[White dwarf types He CO ONeMg]]
+- [[Stellar_Astrophysics_MOC]]
+
 

@@ -107,23 +107,19 @@ the inversion is a sparse linear-system solve, doable in microseconds on modern 
 
 ## see also
 
-- [Adaptive optics](Adaptive%20optics.html)
-- [Deformable mirrors and tip-tilt](Deformable%20mirrors%20and%20tip-tilt.html)
-- [Guide stars and laser guide stars](Guide%20stars%20and%20laser%20guide%20stars.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Adaptive optics]]
+- [[Deformable mirrors and tip-tilt]]
+- [[Guide stars and laser guide stars]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (9)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Adaptive%20optics.html" class="backlink-item">Adaptive optics</a></li>
-    <li class="backlink-item-wrap"><a href="../Deformable%20mirrors%20and%20tip-tilt.html" class="backlink-item">Deformable mirrors and tip-tilt</a></li>
-    <li class="backlink-item-wrap"><a href="../Frozen%20turbulence%20and%20Taylor%20hypothesis.html" class="backlink-item">Frozen turbulence and Taylor hypothesis</a></li>
-    <li class="backlink-item-wrap"><a href="../Guide%20stars%20and%20laser%20guide%20stars.html" class="backlink-item">Guide stars and laser guide stars</a></li>
-    <li class="backlink-item-wrap"><a href="Adaptive%20optics.html" class="backlink-item">Adaptive optics</a></li>
-    <li class="backlink-item-wrap"><a href="Deformable%20mirrors%20and%20tip-tilt.html" class="backlink-item">Deformable mirrors and tip-tilt</a></li>
-    <li class="backlink-item-wrap"><a href="Frozen%20turbulence%20and%20Taylor%20hypothesis.html" class="backlink-item">Frozen turbulence and Taylor hypothesis</a></li>
-    <li class="backlink-item-wrap"><a href="Guide%20stars%20and%20laser%20guide%20stars.html" class="backlink-item">Guide stars and laser guide stars</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Adaptive optics]]
+- [[Deformable mirrors and tip-tilt]]
+- [[Frozen turbulence and Taylor hypothesis]]
+- [[Guide stars and laser guide stars]]
+- [[Astronomical_Interferometry_MOC]]
+
 

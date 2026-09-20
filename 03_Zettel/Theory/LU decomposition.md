@@ -12,7 +12,7 @@ with $L$ having unit diagonal ($L_{ii} = 1$) and $U$ having the pivots on its di
 
 ## why bother
 
-[Gauss elimination](Gauss%20elimination.html) solves $A\mathbf{x} = \mathbf{b}$ in $O(N^3)$. but if I have *many* right-hand sides $\mathbf{b}_1, \mathbf{b}_2, \ldots, \mathbf{b}_M$ with the same $A$, redoing the elimination $M$ times is wasteful: the elimination work is identical each time, only the RHS changes.
+[[Gauss elimination]] solves $A\mathbf{x} = \mathbf{b}$ in $O(N^3)$. but if I have *many* right-hand sides $\mathbf{b}_1, \mathbf{b}_2, \ldots, \mathbf{b}_M$ with the same $A$, redoing the elimination $M$ times is wasteful: the elimination work is identical each time, only the RHS changes.
 
 LU caches the elimination work as $L$ and $U$. then for each RHS:
 
@@ -72,7 +72,7 @@ x2 = lu_solve((lu, piv), b2)
 
 - **LDL$^T$ decomposition**: for symmetric $A$, $A = LDL^T$ with $D$ diagonal. half the storage, half the work
 - **Cholesky decomposition**: for symmetric positive-definite $A$, $A = LL^T$. half the work again, and numerically the most stable factorization. the workhorse for covariance matrices in statistics
-- **QR decomposition**: $A = QR$ with $Q$ orthogonal, $R$ upper triangular — see [QR decomposition](QR%20decomposition.html). better for least-squares problems
+- **QR decomposition**: $A = QR$ with $Q$ orthogonal, $R$ upper triangular — see [[QR decomposition]]. better for least-squares problems
 - **SVD**: $A = U\Sigma V^T$, the most general factorization, expensive but works for rectangular and rank-deficient matrices
 
 ## when LU is the right tool
@@ -89,22 +89,22 @@ x2 = lu_solve((lu, piv), b2)
 
 ## see also
 
-- [Gauss elimination](Gauss%20elimination.html) — what LU caches
-- [Partial pivoting](Partial%20pivoting.html) — the $P$ in $PA = LU$
-- [QR decomposition](QR%20decomposition.html) — different factorization, different problem
-- [Gauss-Seidel iteration](Gauss-Seidel%20iteration.html)
-- [Pros and cons of linear solvers](Pros%20and%20cons%20of%20linear%20solvers.html)
-- [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
+- [[Gauss elimination]] — what LU caches
+- [[Partial pivoting]] — the $P$ in $PA = LU$
+- [[QR decomposition]] — different factorization, different problem
+- [[Gauss-Seidel iteration]]
+- [[Pros and cons of linear solvers]]
+- [[Mathematical_Numerical_Methods_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Gauss%20elimination.html" class="backlink-item">Gauss elimination</a></li>
-    <li class="backlink-item-wrap"><a href="Gauss-Seidel%20iteration.html" class="backlink-item">Gauss-Seidel iteration</a></li>
-    <li class="backlink-item-wrap"><a href="Matrix%20inverse%20via%20linear%20systems.html" class="backlink-item">Matrix inverse via linear systems</a></li>
-    <li class="backlink-item-wrap"><a href="Partial%20pivoting.html" class="backlink-item">Partial pivoting</a></li>
-    <li class="backlink-item-wrap"><a href="Pros%20and%20cons%20of%20linear%20solvers.html" class="backlink-item">Pros and cons of linear solvers</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Gauss elimination]]
+- [[Gauss-Seidel iteration]]
+- [[Matrix inverse via linear systems]]
+- [[Partial pivoting]]
+- [[Pros and cons of linear solvers]]
+- [[Mathematical_Numerical_Methods_MOC]]
+
 

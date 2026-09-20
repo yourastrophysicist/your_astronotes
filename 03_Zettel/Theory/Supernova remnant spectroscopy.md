@@ -67,23 +67,23 @@ the Crab is **the** prototype pulsar wind nebula, key calibrator for high-energy
 
 ## see also
 
-- [Supernova spectroscopy](Supernova%20spectroscopy.html)
-- [H II region spectroscopy](H%20II%20region%20spectroscopy.html)
-- [Forbidden lines](Forbidden%20lines.html)
-- [SII forbidden lines](SII%20forbidden%20lines.html)
-- [BPT diagram](BPT%20diagram.html)
-- [Synchrotron continuum](Synchrotron%20continuum.html)
-- [Synchroton](Synchroton.html)
-- [Bremsstrahlung](Bremsstrahlung.html)
-- [Photoionisation balance](Photoionisation%20balance.html)
-- [Cosmic star formation history](Cosmic%20star%20formation%20history.html)
+- [[Supernova spectroscopy]]
+- [[H II region spectroscopy]]
+- [[Forbidden lines]]
+- [[SII forbidden lines]]
+- [[BPT diagram]]
+- [[Synchrotron continuum]]
+- [[Synchroton]]
+- [[Bremsstrahlung]]
+- [[Photoionisation balance]]
+- [[Cosmic star formation history]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Supernova%20spectroscopy.html" class="backlink-item">Supernova spectroscopy</a></li>
-    <li class="backlink-item-wrap"><a href="Synchrotron%20continuum.html" class="backlink-item">Synchrotron continuum</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Supernova spectroscopy]]
+- [[Synchrotron continuum]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 

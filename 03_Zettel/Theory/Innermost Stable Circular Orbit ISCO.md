@@ -53,13 +53,4 @@ The ISCO radius is not directly imaged but is inferred from: (1) the inner trunc
 - **Seminal Classical Reference**: Bardeen, Press & Teukolsky (1972), *ApJ* 178, 347 — the original derivation of this formula. Full synthesis: [[Bardeen_Press_Teukolsky_1972_Rotating_Black_Holes]].
 - **Recent arXiv Benchmark**: GRAVITY Collaboration (2018), *arXiv:1810.12641* — direct astrometric detection of orbital motion consistent with this ISCO structure around Sgr A*. Full synthesis: [[GRAVITY_Collaboration_2018_Orbital_Motion_ISCO_SgrA]].
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked Concepts</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap">[[General_Relativity_MOC]]</li>
-    <li class="backlink-item-wrap">[[Lab_High-Energy_MOC]]</li>
-    <li class="backlink-item-wrap">[[Kerr Metric Horizon and Ergosphere Geometry]]</li>
-    <li class="backlink-item-wrap">[[Accretion onto compact objects]]</li>
-    <li class="backlink-item-wrap">[[Relativistic Iron Line Profiles]]</li>
-  </ul>
-</div>
+

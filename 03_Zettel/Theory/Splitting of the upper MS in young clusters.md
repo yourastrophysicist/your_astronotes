@@ -2,7 +2,7 @@
 layout: "default"
 title: "Splitting of the upper MS in young clusters"
 ---
-in young ($\sim 50$-$300$ Myr) LMC clusters, deep HST photometry has revealed that the **upper main sequence is bifurcated** into a blue + a red branch separated by $\sim 0.05$-$0.10$ mag in colour. discovered by Milone et al. 2015, 2018 in NGC 1755, NGC 1850, NGC 1856 + others. this is one of the cleanest pieces of evidence that [stellar rotation](Stellar%20rotation%20effects%20on%20CMD.html) dominates the [eMSTO](Extended%20main%20sequence%20turn-off%20eMSTO.html) phenomenon.
+in young ($\sim 50$-$300$ Myr) LMC clusters, deep HST photometry has revealed that the **upper main sequence is bifurcated** into a blue + a red branch separated by $\sim 0.05$-$0.10$ mag in colour. discovered by Milone et al. 2015, 2018 in NGC 1755, NGC 1850, NGC 1856 + others. this is one of the cleanest pieces of evidence that [[Stellar rotation effects on CMD|stellar rotation]] dominates the [[Extended main sequence turn-off eMSTO|eMSTO]] phenomenon.
 
 ## the observation
 
@@ -44,7 +44,7 @@ it is plausible that NO single mechanism dominates: the bimodal distribution may
 ## why this is important
 
 the split upper MS is THE cleanest observational signature that rotation matters for cluster CMD morphology. it:
-- decisively rules out a pure age-spread interpretation of the [eMSTO](Extended%20main%20sequence%20turn-off%20eMSTO.html);
+- decisively rules out a pure age-spread interpretation of the [[Extended main sequence turn-off eMSTO|eMSTO]];
 - provides a direct empirical handle on the rotation distribution at cluster formation;
 - connects to the He-variation argument for old GC chromosome maps (D'Antona et al. 2015).
 
@@ -52,7 +52,7 @@ the split upper MS is THE cleanest observational signature that rotation matters
 
 old GCs ($> 5$ Gyr) do NOT show split upper MS: stars on the MS today are $M < 0.85\,M_\odot$ which have been magnetically braked + slow-rotating. but the He variations + chemical anomalies in old GCs may be the **fossil residue** of an earlier rotation-driven phase: when the GC was 100 Myr old, it likely had a split upper MS too; the rotation has since been braked away, but the He enrichment + chemical variations persist.
 
-if true, eMSTO clusters today + old GC chromosome maps are the same phenomenon at different epochs. this is the essence of the [eMSTO and multiple populations connection](eMSTO%20and%20multiple%20populations%20connection.html).
+if true, eMSTO clusters today + old GC chromosome maps are the same phenomenon at different epochs. this is the essence of the [[eMSTO and multiple populations connection]].
 
 ## reference papers
 
@@ -66,23 +66,23 @@ if true, eMSTO clusters today + old GC chromosome maps are the same phenomenon a
 
 ## see also
 
-- [Extended main sequence turn-off eMSTO](Extended%20main%20sequence%20turn-off%20eMSTO.html)
-- [Origin of eMSTO age spread or rotation](Origin%20of%20eMSTO%20age%20spread%20or%20rotation.html)
-- [Stellar rotation effects on CMD](Stellar%20rotation%20effects%20on%20CMD.html)
-- [eMSTO and multiple populations connection](eMSTO%20and%20multiple%20populations%20connection.html)
-- [Stellar rotation v sini](Stellar%20rotation%20v%20sini.html)
-- [Multiple populations in GCs discovery](Multiple%20populations%20in%20GCs%20discovery.html)
-- [Helium spread in GCs](Helium%20spread%20in%20GCs.html)
-- [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
+- [[Extended main sequence turn-off eMSTO]]
+- [[Origin of eMSTO age spread or rotation]]
+- [[Stellar rotation effects on CMD]]
+- [[eMSTO and multiple populations connection]]
+- [[Stellar rotation v sini]]
+- [[Multiple populations in GCs discovery]]
+- [[Helium spread in GCs]]
+- [[Stellar_Astrophysics_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Extended%20main%20sequence%20turn-off%20eMSTO.html" class="backlink-item">Extended main sequence turn-off eMSTO</a></li>
-    <li class="backlink-item-wrap"><a href="Origin%20of%20eMSTO%20age%20spread%20or%20rotation.html" class="backlink-item">Origin of eMSTO age spread or rotation</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20rotation%20effects%20on%20CMD.html" class="backlink-item">Stellar rotation effects on CMD</a></li>
-    <li class="backlink-item-wrap"><a href="eMSTO%20and%20multiple%20populations%20connection.html" class="backlink-item">eMSTO and multiple populations connection</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Extended main sequence turn-off eMSTO]]
+- [[Origin of eMSTO age spread or rotation]]
+- [[Stellar rotation effects on CMD]]
+- [[eMSTO and multiple populations connection]]
+- [[Stellar_Astrophysics_MOC]]
+
 

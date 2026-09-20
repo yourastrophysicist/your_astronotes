@@ -118,9 +118,9 @@ source: local synthetic demo generated from rotating projected baselines.
 
 ## see also
 
-- [The (u, v) plane](interf/The%20%28u%2C%20v%29%20plane.html)
-- [Aperture synthesis principle](interf/Aperture%20synthesis%20principle.html)
-- [Optimal array geometry](interf/Optimal%20array%20geometry.html)
-- [Dirty beam and dirty image](interf/Dirty%20beam%20and%20dirty%20image.html)
-- [CLEAN algorithm](interf/CLEAN%20algorithm.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[The (u, v) plane]]
+- [[Aperture synthesis principle]]
+- [[Optimal array geometry]]
+- [[Dirty beam and dirty image]]
+- [[CLEAN algorithm]]
+- [[Astronomical_Interferometry_MOC]]

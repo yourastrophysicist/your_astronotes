@@ -61,23 +61,23 @@ so when an undergraduate first encounters $z = 0.5$ they often want to compute "
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Hubble law derivation low-z](Hubble%20law%20derivation%20low-z.html)
-- [Hubble constant and deceleration parameter](Hubble%20constant%20and%20deceleration%20parameter.html)
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Hubble law derivation low-z]]
+- [[Hubble constant and deceleration parameter]]
 - 03_Zettel/Theory/Cosmological distances
-- [Cosmic_inventory_dark_energy](Cosmic_inventory_dark_energy.html)
+- [[Cosmic_inventory_dark_energy]]
 - Friedmann equations with Λ
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Cosmic_inventory_dark_energy.html" class="backlink-item">Cosmic_inventory_dark_energy</a></li>
-    <li class="backlink-item-wrap"><a href="Cosmological%20distances.html" class="backlink-item">Cosmological distances</a></li>
-    <li class="backlink-item-wrap"><a href="Hubble%20constant%20and%20deceleration%20parameter.html" class="backlink-item">Hubble constant and deceleration parameter</a></li>
-    <li class="backlink-item-wrap"><a href="Hubble%20flow%20distances.html" class="backlink-item">Hubble flow distances</a></li>
-    <li class="backlink-item-wrap"><a href="Hubble%20law%20derivation%20low-z.html" class="backlink-item">Hubble law derivation low-z</a></li>
-    <li class="backlink-item-wrap"><a href="Hubble%20law.html" class="backlink-item">Hubble law</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Cosmic_inventory_dark_energy]]
+- [[Cosmological distances]]
+- [[Hubble constant and deceleration parameter]]
+- [[Hubble flow distances]]
+- [[Hubble law derivation low-z]]
+- [[Hubble law]]
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+
 

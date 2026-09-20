@@ -45,13 +45,4 @@ Relativistically broadened iron lines are observed in Seyfert galaxies (e.g. MCG
 - **Seminal Classical Reference**: Fabian et al. (1989), *MNRAS* 238, 729 — the original relativistic disk-line profile formalism.
 - **Recent arXiv Benchmark**: Fabian et al. (2009), *Nature* 459, 540 — X-ray reverberation confirmation of compact, relativistic reflection geometry in 1H0707-495. Full synthesis: [[Fabian_2009_Broad_Iron_Line_Reverberation_1H0707-495]].
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked Concepts</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap">[[Lab_High-Energy_MOC]]</li>
-    <li class="backlink-item-wrap">[[General_Relativity_MOC]]</li>
-    <li class="backlink-item-wrap">[[Innermost Stable Circular Orbit ISCO]]</li>
-    <li class="backlink-item-wrap">[[Kerr Metric Horizon and Ergosphere Geometry]]</li>
-    <li class="backlink-item-wrap">[[AGN spectroscopy]]</li>
-  </ul>
-</div>
+

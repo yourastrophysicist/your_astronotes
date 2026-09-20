@@ -41,11 +41,11 @@ with Gaia, distance to a cluster is now obtained by **inverting parallaxes** of 
 
 ## see also
 
-- [Distance ladder derivations](Distance%20ladder%20derivations.html)
-- [Annual stellar parallax](Annual%20stellar%20parallax.html)
-- [Spectroscopic parallax and main-sequence fitting](Spectroscopic%20parallax%20and%20main-sequence%20fitting.html)
-- [Color-magnitude diagrams of clusters](Color-magnitude%20diagrams%20of%20clusters.html)
-- [Distance modulus](Distance%20modulus.html)
+- [[Distance ladder derivations]]
+- [[Annual stellar parallax]]
+- [[Spectroscopic parallax and main-sequence fitting]]
+- [[Color-magnitude diagrams of clusters]]
+- [[Distance modulus]]
 
 ---
 
@@ -63,10 +63,10 @@ with Gaia, distance to a cluster is now obtained by **inverting parallaxes** of 
 ![obs_dist-34.png](../../assets/images/obs_dist-34.png)
 *Distance formula: d = v_r * tan theta / (4.74 * mu).*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (1)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Observational_Astrophysics_MOC]]
+
 

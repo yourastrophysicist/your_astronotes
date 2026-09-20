@@ -2,7 +2,7 @@
 layout: "default"
 title: "Origin of eMSTO age spread or rotation"
 ---
-since the discovery of the [Extended main sequence turn-off eMSTO](Extended%20main%20sequence%20turn-off%20eMSTO.html) in $1$-$2$ Gyr LMC clusters (Mackey & Broby Nielsen 2007), there has been a sustained debate over what physical mechanism produces the broadened TO. two competing hypotheses dominate the literature.
+since the discovery of the [[Extended main sequence turn-off eMSTO]] in $1$-$2$ Gyr LMC clusters (Mackey & Broby Nielsen 2007), there has been a sustained debate over what physical mechanism produces the broadened TO. two competing hypotheses dominate the literature.
 
 ## hypothesis 1: prolonged star formation (age spread)
 
@@ -93,22 +93,22 @@ if true, this unifies the eMSTO + chromosome map phenomena into a single evoluti
 
 ## see also
 
-- [Extended main sequence turn-off eMSTO](Extended%20main%20sequence%20turn-off%20eMSTO.html)
-- [Stellar rotation effects on CMD](Stellar%20rotation%20effects%20on%20CMD.html)
-- [Splitting of the upper MS in young clusters](Splitting%20of%20the%20upper%20MS%20in%20young%20clusters.html)
-- [eMSTO and multiple populations connection](eMSTO%20and%20multiple%20populations%20connection.html)
-- [Multiple populations in GCs discovery](Multiple%20populations%20in%20GCs%20discovery.html)
-- [Helium spread in GCs](Helium%20spread%20in%20GCs.html)
-- [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
+- [[Extended main sequence turn-off eMSTO]]
+- [[Stellar rotation effects on CMD]]
+- [[Splitting of the upper MS in young clusters]]
+- [[eMSTO and multiple populations connection]]
+- [[Multiple populations in GCs discovery]]
+- [[Helium spread in GCs]]
+- [[Stellar_Astrophysics_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Extended%20main%20sequence%20turn-off%20eMSTO.html" class="backlink-item">Extended main sequence turn-off eMSTO</a></li>
-    <li class="backlink-item-wrap"><a href="Splitting%20of%20the%20upper%20MS%20in%20young%20clusters.html" class="backlink-item">Splitting of the upper MS in young clusters</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20rotation%20effects%20on%20CMD.html" class="backlink-item">Stellar rotation effects on CMD</a></li>
-    <li class="backlink-item-wrap"><a href="eMSTO%20and%20multiple%20populations%20connection.html" class="backlink-item">eMSTO and multiple populations connection</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Extended main sequence turn-off eMSTO]]
+- [[Splitting of the upper MS in young clusters]]
+- [[Stellar rotation effects on CMD]]
+- [[eMSTO and multiple populations connection]]
+- [[Stellar_Astrophysics_MOC]]
+
 

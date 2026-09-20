@@ -2,7 +2,7 @@
 layout: "default"
 title: "Cosmic_inventory_dark_matter"
 ---
-"matter" in cosmology means non-relativistic, pressureless stuff. the four baryon methods (see [Cosmic_inventory_baryons](Cosmic_inventory_baryons.html)) depend on photon-matter interaction; there are *other* methods that bypass photons entirely and exploit gravity:
+"matter" in cosmology means non-relativistic, pressureless stuff. the four baryon methods (see [[Cosmic_inventory_baryons]]) depend on photon-matter interaction; there are *other* methods that bypass photons entirely and exploit gravity:
 
 > *typically one exploits the gravitational effects that matter determines, e.g. the gravitational field produced by a given system from which one infers the mass of the system.*
 
@@ -70,7 +70,7 @@ galactic rotation curves only give a *galaxy-scale* measurement. the more compel
 2. **cosmic velocity fields** — peculiar motions trace the underlying gravitational potential
 3. **measurements that depend on $\Omega_b/\Omega_m$**, like:
    - X-ray and Sunyaev-Zel'dovich measurements of cluster gas
-   - **baryon acoustic oscillations** in the matter power spectrum (see [Matter power spectrum and BAO](Matter%20power%20spectrum%20and%20BAO.html))
+   - **baryon acoustic oscillations** in the matter power spectrum (see [[Matter power spectrum and BAO]])
 4. **CMB temperature anisotropies and polarization** — the peak heights fix $\Omega_m h^2$
 
 ### CMB anisotropies fix the total matter
@@ -103,7 +103,7 @@ zoom out on $P_m(k)$:
 
 the **turnover** at $k \sim 0.02\,h\,\text{Mpc}^{-1}$ corresponds to the **horizon size at matter-radiation equality** — directly sensitive to $\Omega_m h^2$. modes that entered the horizon during radiation domination did not grow (Meszaros effect); modes that entered later did. so the position of the turnover fixes the matter density.
 
-→ see [Matter power spectrum and BAO](Matter%20power%20spectrum%20and%20BAO.html) for the full physics.
+→ see [[Matter power spectrum and BAO]] for the full physics.
 
 ---
 
@@ -115,7 +115,7 @@ unknown. candidates include:
 - **sterile neutrinos** at keV scale
 - **primordial black holes**
 
-distinguishing **hot vs cold dark matter** by structure formation: see [Hot vs cold dark matter](Hot%20vs%20cold%20dark%20matter.html). observations strongly favor cold dark matter (CDM), the C in ΛCDM.
+distinguishing **hot vs cold dark matter** by structure formation: see [[Hot vs cold dark matter]]. observations strongly favor cold dark matter (CDM), the C in ΛCDM.
 
 ---
 
@@ -125,30 +125,30 @@ distinguishing **hot vs cold dark matter** by structure formation: see [Hot vs c
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Cosmic_inventory_overview](Cosmic_inventory_overview.html)
-- [Cosmic_inventory_baryons](Cosmic_inventory_baryons.html)
-- [Matter power spectrum and BAO](Matter%20power%20spectrum%20and%20BAO.html)
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Cosmic_inventory_overview]]
+- [[Cosmic_inventory_baryons]]
+- [[Matter power spectrum and BAO]]
 - Dark matter relics — WIMP miracle
-- [Hot vs cold dark matter](Hot%20vs%20cold%20dark%20matter.html)
+- [[Hot vs cold dark matter]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (14)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Cosmic_inventory_baryons.html" class="backlink-item">Cosmic_inventory_baryons</a></li>
-    <li class="backlink-item-wrap"><a href="Cosmic_inventory_overview.html" class="backlink-item">Cosmic_inventory_overview</a></li>
-    <li class="backlink-item-wrap"><a href="Dark%20matter%20on%20galactic%20scales.html" class="backlink-item">Dark matter on galactic scales</a></li>
-    <li class="backlink-item-wrap"><a href="Dark%20matter%20relics%20-%20WIMP%20miracle.html" class="backlink-item">Dark matter relics - WIMP miracle</a></li>
-    <li class="backlink-item-wrap"><a href="Gravitational%20lensing%20-%20intro.html" class="backlink-item">Gravitational lensing - intro</a></li>
-    <li class="backlink-item-wrap"><a href="Hot%20vs%20cold%20dark%20matter.html" class="backlink-item">Hot vs cold dark matter</a></li>
-    <li class="backlink-item-wrap"><a href="Lambda%20CDM%20current%20parameters.html" class="backlink-item">Lambda CDM current parameters</a></li>
-    <li class="backlink-item-wrap"><a href="Lensing%20as%20a%20cosmological%20probe.html" class="backlink-item">Lensing as a cosmological probe</a></li>
-    <li class="backlink-item-wrap"><a href="MOND.html" class="backlink-item">MOND</a></li>
-    <li class="backlink-item-wrap"><a href="N-body%20simulations.html" class="backlink-item">N-body simulations</a></li>
-    <li class="backlink-item-wrap"><a href="Peculiar%20velocities%20of%20galaxies%20and%20structures.html" class="backlink-item">Peculiar velocities of galaxies and structures</a></li>
-    <li class="backlink-item-wrap"><a href="Press-Schechter%20halo%20mass%20function.html" class="backlink-item">Press-Schechter halo mass function</a></li>
-    <li class="backlink-item-wrap"><a href="Strong%20vs%20weak%20lensing.html" class="backlink-item">Strong vs weak lensing</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Cosmic_inventory_baryons]]
+- [[Cosmic_inventory_overview]]
+- [[Dark matter on galactic scales]]
+- [[Dark matter relics - WIMP miracle]]
+- [[Gravitational lensing - intro]]
+- [[Hot vs cold dark matter]]
+- [[Lambda CDM current parameters]]
+- [[Lensing as a cosmological probe]]
+- [[MOND]]
+- [[N-body simulations]]
+- [[Peculiar velocities of galaxies and structures]]
+- [[Press-Schechter halo mass function]]
+- [[Strong vs weak lensing]]
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+
 

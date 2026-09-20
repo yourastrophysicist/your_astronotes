@@ -38,17 +38,17 @@ $$\alpha_{\text{loss}} = \arcsin\left( \frac{1}{\sqrt{R_m}} \right)$$
 
 ## see also
 
-- [Fluid_and_Plasma_Dynamics_MOC](../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html)
-- [Part4_Single_Particle_Motion_and_Magnetic_Confinement](../../02_Literature/Lectures/Fluid_and_Plasma_Dynamics/Part4_Single_Particle_Motion_and_Magnetic_Confinement.html)
-- [Guiding center drifts and electric polarization drift](Guiding%20center%20drifts%20and%20electric%20polarization%20drift.html)
-- [Tokamak magnetic topology and neoclassical banana orbits](Tokamak%20magnetic%20topology%20and%20neoclassical%20banana%20orbits.html)
+- [[Fluid_and_Plasma_Dynamics_MOC]]
+- [[Part4_Single_Particle_Motion_and_Magnetic_Confinement]]
+- [[Guiding center drifts and electric polarization drift]]
+- [[Tokamak magnetic topology and neoclassical banana orbits]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Guiding%20center%20drifts%20and%20electric%20polarization%20drift.html" class="backlink-item">Guiding center drifts and electric polarization drift</a></li>
-    <li class="backlink-item-wrap"><a href="Tokamak%20magnetic%20topology%20and%20neoclassical%20banana%20orbits.html" class="backlink-item">Tokamak magnetic topology and neoclassical banana orbits</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Guiding center drifts and electric polarization drift]]
+- [[Tokamak magnetic topology and neoclassical banana orbits]]
+- [[Fluid_and_Plasma_Dynamics_MOC]]
+
 

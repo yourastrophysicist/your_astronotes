@@ -4,7 +4,7 @@ title: "Ch 1 - Gravity is Geometry"
 ---
 # Baumann Ch 1, Gravity is Geometry
 
-up: [Baumann GR](./Baumann%20GR.html) · [General_Relativity_MOC](../../../04_Atlas/General_Relativity_MOC.html)
+up: [[Baumann GR]] · [[General_Relativity_MOC]]
 
 *pages 4 to 11. the chapter that motivates the entire theory. why Newton fails, why the equivalence principle is the right starting point, what its observational consequences are, and how it forces us, step by step, into the conclusion that spacetime must be curved. by the end of this chapter we will have written down the weak-field metric $g_{00} = -(1 + 2\Phi/c^2)$ from physical reasoning alone.*
 
@@ -44,7 +44,7 @@ two problems with Poisson:
 1. **instantaneous propagation**: a change in $\rho$ at $\vec x'$ changes $\Phi$ at $\vec x$ at the same instant $t$. that violates special relativity (no signal faster than $c$). if the Sun moved, Earth would feel the change instantly across $8$ light-minutes of vacuum.
 2. **not Lorentz covariant**: Poisson's equation is not a tensor equation. it changes form when i switch to a moving inertial frame, because Lorentz transformations mix space and time, but Poisson treats them asymmetrically. it picks out the rest frame of the source implicitly. this is unacceptable in a relativistic theory.
 
-a similar problem exists in **Coulomb's law** of electrostatics, $\nabla^2 \phi = -\rho_e/\epsilon_0$. there the resolution is **Maxwell's equations**, $\partial_\nu F^{\mu\nu} = J^\mu$, written tensorially with the field strength $F_{\mu\nu} = \partial_\mu A_\nu - \partial_\nu A_\mu$. these are Lorentz-covariant, the field propagates at $c$, and the static limit recovers Coulomb. our challenge in GR is to find the analog of Maxwell's equations for gravity. that analog is the [Einstein equations](../../../03_Zettel/Theory/Einstein%20equations.html).
+a similar problem exists in **Coulomb's law** of electrostatics, $\nabla^2 \phi = -\rho_e/\epsilon_0$. there the resolution is **Maxwell's equations**, $\partial_\nu F^{\mu\nu} = J^\mu$, written tensorially with the field strength $F_{\mu\nu} = \partial_\mu A_\nu - \partial_\nu A_\mu$. these are Lorentz-covariant, the field propagates at $c$, and the static limit recovers Coulomb. our challenge in GR is to find the analog of Maxwell's equations for gravity. that analog is the [[Einstein equations]].
 
 ### crack 2, Mercury's perihelion
 
@@ -94,7 +94,7 @@ extending WEP to **all experiments** (not just dropping particles, but also ligh
 
 equivalently: a **freely-falling observer** is locally indistinguishable from an inertial observer in flat space. Einstein called this realization, that "a person in free fall does not feel their own weight," his **happiest thought**. it transforms gravity from a mysterious universal force into a property of the choice of reference frame.
 
-this is what becomes [Locally inertial frame](../../../03_Zettel/Theory/Locally%20inertial%20frame.html) in GR's mathematical language: at every point you can choose coordinates where $\Gamma^\alpha{}_{\mu\nu} = 0$ (no gravitational acceleration locally) and $g_{\mu\nu} = \eta_{\mu\nu}$. the gravitational field has been transformed away in a small patch.
+this is what becomes [[Locally inertial frame]] in GR's mathematical language: at every point you can choose coordinates where $\Gamma^\alpha{}_{\mu\nu} = 0$ (no gravitational acceleration locally) and $g_{\mu\nu} = \eta_{\mu\nu}$. the gravitational field has been transformed away in a small patch.
 
 ### tidal forces, the limit of EEP
 
@@ -102,7 +102,7 @@ the equivalence principle holds **only in small regions**. take a box freely fal
 
 these are **tidal forces**. they are the **real, irreducible content** of gravity, the part that cannot be removed by going to a freely-falling frame. they are what tells us we are in a true gravitational field, not just a uniformly accelerating rocket.
 
-> the slogan: **gravity = uniform acceleration + tidal effects**. EEP eats the uniform piece. what is left, the tidal piece, is curvature. it is what the [Riemann tensor](../../../03_Zettel/Theory/Riemann%20tensor.html) measures, and it is why we need to extend special relativity to curved spacetime.
+> the slogan: **gravity = uniform acceleration + tidal effects**. EEP eats the uniform piece. what is left, the tidal piece, is curvature. it is what the [[Riemann tensor]] measures, and it is why we need to extend special relativity to curved spacetime.
 
 ---
 
@@ -197,7 +197,7 @@ which **exactly** recovers the gravitational time dilation formula from $1.3$, b
 | Poisson's eq | $\nabla^2 \Phi = 4\pi G \rho$ | Newton's field equation, fails at SR |
 | weak EP | $m_I = m_G$ | universality of free fall, confirmed to $10^{-13}$ |
 | Einstein EP | physics in a local frame = SR | gravity = geometry |
-| tidal force | non-uniform $\nabla \Phi$ | the real content of gravity, [Geodesic deviation](../../../03_Zettel/Theory/Geodesic%20deviation.html) |
+| tidal force | non-uniform $\nabla \Phi$ | the real content of gravity, [[Geodesic deviation]] |
 | GR redshift | $\Delta\lambda/\lambda_0 = \Delta\Phi/c^2$ | Pound-Rebka 1959 |
 | GR time dilation | $T_B/T_A = 1 + (\Phi_B - \Phi_A)/c^2$ | atomic clocks, GPS ($+38\mu s$/day) |
 | light deflection | $4GM/(bc^2) \approx 1.75''$ at the Sun | Eddington 1919 |
@@ -217,9 +217,9 @@ if i had to compress chapter 1 into a paragraph for the oral:
 ## how this connects to the rest of the course
 
 - the **weak-field metric** $g_{00} = -(1 + 2\Phi/c^2)$ from 1.4 is exactly the metric used in Q9 - weak-field Christoffel Gamma_i_00 and Q10 - weak-field Ricci scalar. plugging it into Einstein's equations gives back Poisson, closing the consistency loop with Newton.
-- the **EEP** is the conceptual basis for [Locally inertial frame](../../../03_Zettel/Theory/Locally%20inertial%20frame.html) coordinates, which is what makes [Christoffel symbols](../../../03_Zettel/Theory/Christoffel%20symbols.html) make sense as objects that vanish at a point.
-- **tidal forces** are what [Riemann tensor](../../../03_Zettel/Theory/Riemann%20tensor.html) measures (Ch 4). the impossibility of removing tidal forces via coordinates is the same as saying Riemann is gauge-invariant under coordinate transformations.
-- **gravitational redshift and time dilation** show up again in [Schwarzschild metric](../../../03_Zettel/Theory/Schwarzschild%20metric.html) (the $\sqrt{f(r)}$ factor in Ch 6) and in the [Cosmological redshift](../../../03_Zettel/Theory/Cosmological%20redshift.html) (Ch 7).
+- the **EEP** is the conceptual basis for [[Locally inertial frame]] coordinates, which is what makes [[Christoffel symbols]] make sense as objects that vanish at a point.
+- **tidal forces** are what [[Riemann tensor]] measures (Ch 4). the impossibility of removing tidal forces via coordinates is the same as saying Riemann is gauge-invariant under coordinate transformations.
+- **gravitational redshift and time dilation** show up again in [[Schwarzschild metric]] (the $\sqrt{f(r)}$ factor in Ch 6) and in the [[Cosmological redshift]] (Ch 7).
 - the **factor of 2** in light deflection re-appears in Ch 3 (Q14 - photon trajectory and impact parameter) when we redo the calculation properly with null geodesics in Schwarzschild.
 - **Mercury's $43''$** is computed from first principles in Ch 3 as a perturbation of Schwarzschild orbits.
 
@@ -227,24 +227,24 @@ if i had to compress chapter 1 into a paragraph for the oral:
 
 ## connections
 
-- [General_Relativity_MOC](../../../04_Atlas/General_Relativity_MOC.html) (parent map)
-- [Baumann GR](./Baumann%20GR.html) (the master companion note for this book)
-- [Newtonian limit of GR](../../../03_Zettel/Theory/Newtonian%20limit%20of%20GR.html)
-- [Locally inertial frame](../../../03_Zettel/Theory/Locally%20inertial%20frame.html)
-- [Equivalence principle](../../../03_Zettel/Theory/Equivalence%20principle.html)
-- [Geodesic deviation](../../../03_Zettel/Theory/Geodesic%20deviation.html) · Tidal forces
+- [[General_Relativity_MOC]] (parent map)
+- [[Baumann GR]] (the master companion note for this book)
+- [[Newtonian limit of GR]]
+- [[Locally inertial frame]]
+- [[Equivalence principle]]
+- [[Geodesic deviation]] · Tidal forces
 - Q9 - weak-field Christoffel Gamma_i_00 (where this metric becomes a calculation)
 - Q10 - weak-field Ricci scalar (recovery of Poisson's equation)
 - Q14 - photon trajectory and impact parameter (where light deflection is redone with full GR)
-- next: [Ch 2 - Some Differential Geometry](./Ch%202%20-%20Some%20Differential%20Geometry.html)
+- next: [[Ch 2 - Some Differential Geometry]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Locally%20inertial%20frame.html" class="backlink-item">Locally inertial frame</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Manifold%20metric%20and%20signature.html" class="backlink-item">Manifold metric and signature</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Timelike%20vs%20null%20vs%20spacelike.html" class="backlink-item">Timelike vs null vs spacelike</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Locally inertial frame]]
+- [[Manifold metric and signature]]
+- [[Timelike vs null vs spacelike]]
+- [[General_Relativity_MOC]]
+
 

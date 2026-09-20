@@ -166,7 +166,7 @@ CGRO carried four instruments covering an enormous energy range
 	from $20~\text{keV}$ all the way to $30~\text{GeV}$:
 		**BATSE**: eight scintillation detectors monitoring the full sky for bursts
 		**OSSE**: oriented scintillation spectrometer
-		**COMPTEL**: Compton telescope for $1$–$30~\text{MeV}$ (see [Compton Telescope](Compton%20Telescope.html))
+		**COMPTEL**: Compton telescope for $1$–$30~\text{MeV}$ (see [[Compton Telescope]])
 		**EGRET**: high-energy gamma-ray telescope, $20~\text{MeV}$–$30~\text{GeV}$
 
 ![](https://upload.wikimedia.org/wikipedia/commons/d/d9/CGRO_s37-96-010.jpg)
@@ -253,7 +253,7 @@ Launched on **December 10, 1999**, by ESA on an Ariane 5 rocket,
 XMM-Newton's three mirror assemblies, each with 58 nested Wolter shells,
 	collect more X-ray photons than any telescope before or since
 		enabling:
-			high-resolution **grating spectroscopy** via the Reflection Grating Spectrometer (RGS) (see [X-ray diffraction grating](X-ray%20diffraction%20grating.html))
+			high-resolution **grating spectroscopy** via the Reflection Grating Spectrometer (RGS) (see [[X-ray diffraction grating]])
 			simultaneous **optical/UV monitoring** with the Optical Monitor
 			deep surveys revealing the population of AGN across cosmic time
 
@@ -269,7 +269,7 @@ The GRB afterglow era opened by BeppoSAX demanded a faster, more autonomous spac
 
 NASA's **Swift** mission, launched on **November 20, 2004**,
 	was designed as the ultimate GRB hunter:
-		**BAT** (Burst Alert Telescope): coded mask covering $15$–$200~\text{keV}$, field of view $\sim 1.4~\text{sr}$ (see [Coded Mask](Coded%20Mask.html))
+		**BAT** (Burst Alert Telescope): coded mask covering $15$–$200~\text{keV}$, field of view $\sim 1.4~\text{sr}$ (see [[Coded Mask]])
 		**XRT** (X-Ray Telescope): focusing Wolter optics, $0.3$–$10~\text{keV}$
 		**UVOT** (UV/Optical Telescope): simultaneous multiwavelength coverage
 
@@ -299,7 +299,7 @@ Filling the gap between hard X-rays and MeV gamma-rays,
 
 INTEGRAL covers $15~\text{keV}$–$10~\text{MeV}$
 	with its main instrument IBIS/ISGRI using a **coded mask** over a CdTe detector
-		(see [Coded Mask](Coded%20Mask.html))
+		(see [[Coded Mask]])
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/INTEGRAL_spacecraft_model.png/500px-INTEGRAL_spacecraft_model.png)
 <font color="#bfbfbf">Artist's impression of the INTEGRAL spacecraft. INTEGRAL's highly eccentric orbit (perigee $\sim 9000~\text{km}$, apogee $\sim 153,000~\text{km}$, period $\sim 3~\text{days}$) keeps it above the radiation belts for most of its orbit, enabling long, uninterrupted observations.</font>
@@ -356,7 +356,7 @@ On **June 13, 2012**, NASA launched **NuSTAR** (Nuclear Spectroscopic Telescope 
 	the first focusing telescope sensitive above $10~\text{keV}$, covering $3$–$79~\text{keV}$
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/NuSTAR_spacecraft_model.png/500px-NuSTAR_spacecraft_model.png)
-<font color="#bfbfbf">The NuSTAR spacecraft in its deployed configuration. A $10~\text{m}$ deployable mast separates the optics (multilayer-coated Wolter mirrors, see [Bragg Reflection](Bragg%20Reflection.html)) from the focal plane detectors. This long focal length is necessary to focus hard X-rays at grazing incidence angles small enough to reflect photons above 10 keV.</font>
+<font color="#bfbfbf">The NuSTAR spacecraft in its deployed configuration. A $10~\text{m}$ deployable mast separates the optics (multilayer-coated Wolter mirrors, see [[Bragg Reflection]]) from the focal plane detectors. This long focal length is necessary to focus hard X-rays at grazing incidence angles small enough to reflect photons above 10 keV.</font>
 
 NuSTAR uses **multilayer mirror coatings** (alternating layers of Pt/C and W/Si)
 	to extend grazing incidence reflection up to $79~\text{keV}$
@@ -437,10 +437,10 @@ Each generation of instruments has revealed phenomena invisible to the previous 
 ![swift_m87_p5_img1.png](../../assets/images/swift_m87_p5_img1.png)
 *Aperture pile-up check: comparing central core flux with annular extraction excluding the central 3 pixels to verify negligible pile-up (< 0.5 counts/s).*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (1)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Lab_High-Energy_MOC]]
+
 

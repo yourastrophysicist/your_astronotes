@@ -106,27 +106,23 @@ modern instruments (GRAVITY, MATISSE) use silicon photonic chips with thousands 
 
 ## see also
 
-- [Amplitude-division interferometers](../Amplitude-division%20interferometers.html)
-- [Michelson laboratory interferometer](Michelson%20laboratory%20interferometer.html)
-- [Mach-Zehnder interferometer](Mach-Zehnder%20interferometer.html)
-- [Sagnac interferometer](Sagnac%20interferometer.html)
-- [Beam combiners](../Beam%20combiners.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Amplitude-division interferometers]]
+- [[Michelson laboratory interferometer]]
+- [[Mach-Zehnder interferometer]]
+- [[Sagnac interferometer]]
+- [[Beam combiners]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (11)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Amplitude-division%20interferometers.html" class="backlink-item">Amplitude-division interferometers</a></li>
-    <li class="backlink-item-wrap"><a href="../Fabry-Perot%20interferometer.html" class="backlink-item">Fabry-Perot interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="../Fresnel-Arago%20laws.html" class="backlink-item">Fresnel-Arago laws</a></li>
-    <li class="backlink-item-wrap"><a href="../Mach-Zehnder%20interferometer.html" class="backlink-item">Mach-Zehnder interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="../Michelson%20laboratory%20interferometer.html" class="backlink-item">Michelson laboratory interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="../Sagnac%20interferometer.html" class="backlink-item">Sagnac interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="Fabry-Perot%20interferometer.html" class="backlink-item">Fabry-Perot interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="Mach-Zehnder%20interferometer.html" class="backlink-item">Mach-Zehnder interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="Michelson%20laboratory%20interferometer.html" class="backlink-item">Michelson laboratory interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="Sagnac%20interferometer.html" class="backlink-item">Sagnac interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Amplitude-division interferometers]]
+- [[Fabry-Perot interferometer]]
+- [[Fresnel-Arago laws]]
+- [[Mach-Zehnder interferometer]]
+- [[Michelson laboratory interferometer]]
+- [[Sagnac interferometer]]
+- [[Astronomical_Interferometry_MOC]]
+
 

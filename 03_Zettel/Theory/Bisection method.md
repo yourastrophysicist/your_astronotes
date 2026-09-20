@@ -80,11 +80,11 @@ root = brentq(f, a, b)
 
 ## see also
 
-- [Newton-Raphson method](Newton-Raphson%20method.html)
-- [Relaxation method](Relaxation%20method.html)
-- [Newton-Raphson for systems of equations](Newton-Raphson%20for%20systems%20of%20equations.html)
-- [Choosing a root finder](Choosing%20a%20root%20finder.html)
-- [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
+- [[Newton-Raphson method]]
+- [[Relaxation method]]
+- [[Newton-Raphson for systems of equations]]
+- [[Choosing a root finder]]
+- [[Mathematical_Numerical_Methods_MOC]]
 
 ---
 
@@ -93,15 +93,15 @@ root = brentq(f, a, b)
 ![mapelli_fig14_p138.png](../../assets/images/mapelli_fig14_p58.png)
 *Bisection method bracket shrinking vs Newton-Raphson tangent line convergence.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Choosing%20a%20root%20finder.html" class="backlink-item">Choosing a root finder</a></li>
-    <li class="backlink-item-wrap"><a href="Newton-Raphson%20for%20systems%20of%20equations.html" class="backlink-item">Newton-Raphson for systems of equations</a></li>
-    <li class="backlink-item-wrap"><a href="Newton-Raphson%20method.html" class="backlink-item">Newton-Raphson method</a></li>
-    <li class="backlink-item-wrap"><a href="Relaxation%20method.html" class="backlink-item">Relaxation method</a></li>
-    <li class="backlink-item-wrap"><a href="Shooting%20method.html" class="backlink-item">Shooting method</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Choosing a root finder]]
+- [[Newton-Raphson for systems of equations]]
+- [[Newton-Raphson method]]
+- [[Relaxation method]]
+- [[Shooting method]]
+- [[Mathematical_Numerical_Methods_MOC]]
+
 

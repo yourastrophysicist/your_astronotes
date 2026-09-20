@@ -84,7 +84,7 @@ both are amplitude-division interferometers; both use beam splitters; the topolo
 
 ## see also
 
-- [Amplitude-division interferometers](Amplitude-division%20interferometers.html)
-- [Beam splitter physics](interf/Beam%20splitter%20physics.html)
-- [Mach-Zehnder interferometer](interf/Mach-Zehnder%20interferometer.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Amplitude-division interferometers]]
+- [[Beam splitter physics]]
+- [[Mach-Zehnder interferometer]]
+- [[Astronomical_Interferometry_MOC]]

@@ -58,36 +58,36 @@ DLA systems in QSO sight lines have $N \sim 10^{20}$ to $10^{22}$ cm$^{-2}$ of H
 
 ## see also
 
-- [Line profile function phi nu](Line%20profile%20function%20phi%20nu.html)
-- [Natural broadening Lorentzian](Natural%20broadening%20Lorentzian.html)
-- [Thermal Doppler broadening](Thermal%20Doppler%20broadening.html)
-- [Collisional pressure broadening](Collisional%20pressure%20broadening.html)
-- [Stark broadening](Stark%20broadening.html)
-- [Microturbulence](Microturbulence.html)
-- [Rotational broadening](Rotational%20broadening.html)
-- [Damping wings](Damping%20wings.html)
-- [Curve of growth](Curve%20of%20growth.html)
-- [Equivalent width](Equivalent%20width.html)
+- [[Line profile function phi nu]]
+- [[Natural broadening Lorentzian]]
+- [[Thermal Doppler broadening]]
+- [[Collisional pressure broadening]]
+- [[Stark broadening]]
+- [[Microturbulence]]
+- [[Rotational broadening]]
+- [[Damping wings]]
+- [[Curve of growth]]
+- [[Equivalent width]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (16)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Collisional%20pressure%20broadening.html" class="backlink-item">Collisional pressure broadening</a></li>
-    <li class="backlink-item-wrap"><a href="Curve%20of%20growth%20abundance%20analysis.html" class="backlink-item">Curve of growth abundance analysis</a></li>
-    <li class="backlink-item-wrap"><a href="Curve%20of%20growth.html" class="backlink-item">Curve of growth</a></li>
-    <li class="backlink-item-wrap"><a href="Damping%20wings.html" class="backlink-item">Damping wings</a></li>
-    <li class="backlink-item-wrap"><a href="Equivalent%20width.html" class="backlink-item">Equivalent width</a></li>
-    <li class="backlink-item-wrap"><a href="Line%20profile%20function%20phi%20nu.html" class="backlink-item">Line profile function phi nu</a></li>
-    <li class="backlink-item-wrap"><a href="Lyman-alpha%20forest.html" class="backlink-item">Lyman-alpha forest</a></li>
-    <li class="backlink-item-wrap"><a href="MK%20luminosity%20classes.html" class="backlink-item">MK luminosity classes</a></li>
-    <li class="backlink-item-wrap"><a href="Macroturbulence.html" class="backlink-item">Macroturbulence</a></li>
-    <li class="backlink-item-wrap"><a href="Microturbulence.html" class="backlink-item">Microturbulence</a></li>
-    <li class="backlink-item-wrap"><a href="Natural%20broadening%20Lorentzian.html" class="backlink-item">Natural broadening Lorentzian</a></li>
-    <li class="backlink-item-wrap"><a href="Rotational%20broadening.html" class="backlink-item">Rotational broadening</a></li>
-    <li class="backlink-item-wrap"><a href="Stark%20broadening.html" class="backlink-item">Stark broadening</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20v%20sin%20i%20from%20line%20shape.html" class="backlink-item">Stellar v sin i from line shape</a></li>
-    <li class="backlink-item-wrap"><a href="Thermal%20Doppler%20broadening.html" class="backlink-item">Thermal Doppler broadening</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Collisional pressure broadening]]
+- [[Curve of growth abundance analysis]]
+- [[Curve of growth]]
+- [[Damping wings]]
+- [[Equivalent width]]
+- [[Line profile function phi nu]]
+- [[Lyman-alpha forest]]
+- [[MK luminosity classes]]
+- [[Macroturbulence]]
+- [[Microturbulence]]
+- [[Natural broadening Lorentzian]]
+- [[Rotational broadening]]
+- [[Stark broadening]]
+- [[Stellar v sin i from line shape]]
+- [[Thermal Doppler broadening]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 

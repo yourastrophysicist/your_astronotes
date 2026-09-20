@@ -59,20 +59,20 @@ physical reason: the universe was compressed in time at early epochs. the first 
 
 ## see also
 
-- [Time-redshift relation](Time-redshift%20relation.html)
-- [FLRW metric](FLRW%20metric.html)
-- [Friedmann equations](Friedmann%20equations.html)
-- [Cosmological redshift](Cosmological%20redshift.html)
-- [Cosmic eras](Cosmic%20eras.html)
-- [Brief thermal history](Brief%20thermal%20history.html)
+- [[Time-redshift relation]]
+- [[FLRW metric]]
+- [[Friedmann equations]]
+- [[Cosmological redshift]]
+- [[Cosmic eras]]
+- [[Brief thermal history]]
 - 03_Zettel/Theory/Cosmological distances
-- [Cosmic star formation history](Cosmic%20star%20formation%20history.html)
-- [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
+- [[Cosmic star formation history]]
+- [[Observational_Cosmology_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (1)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Observational_Cosmology_MOC]]
+
 

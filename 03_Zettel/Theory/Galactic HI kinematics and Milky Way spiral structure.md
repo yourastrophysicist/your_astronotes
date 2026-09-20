@@ -28,17 +28,17 @@ measuring $v_{\text{term}}(l)$ yields the circular velocity $\Theta(R)$ without 
 
 ## see also
 
-- [Astrophysics_of_the_Interstellar_Medium_MOC](../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html)
-- [Carraro_02_Neutral_Hydrogen_and_21cm_Universe](../../02_Literature/Lectures/Interstellar_Medium/Carraro_02_Neutral_Hydrogen_and_21cm_Universe.html)
-- [Rotation curves](Rotation%20curves.html)
-- [Milky Way structure](Milky%20Way%20structure.html)
+- [[Astrophysics_of_the_Interstellar_Medium_MOC]]
+- [[Carraro_02_Neutral_Hydrogen_and_21cm_Universe]]
+- [[Rotation curves]]
+- [[Milky Way structure]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="HI%2021%20cm%20hyperfine%20transition.html" class="backlink-item">HI 21 cm hyperfine transition</a></li>
-    <li class="backlink-item-wrap"><a href="Spin%20temperature%20and%2021%20cm%20radiative%20transfer.html" class="backlink-item">Spin temperature and 21 cm radiative transfer</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html" class="backlink-item">Astrophysics_of_the_Interstellar_Medium_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[HI 21 cm hyperfine transition]]
+- [[Spin temperature and 21 cm radiative transfer]]
+- [[Astrophysics_of_the_Interstellar_Medium_MOC]]
+
 

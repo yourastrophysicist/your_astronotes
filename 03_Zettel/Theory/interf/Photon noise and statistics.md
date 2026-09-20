@@ -97,20 +97,18 @@ for radio: (1) plus reducing $T_{\rm sys}$ via cryogenics.
 
 ## see also
 
-- [Electromagnetic waves and photons](Electromagnetic%20waves%20and%20photons.html)
-- [Coherence function and visibility](Coherence%20function%20and%20visibility.html)
-- [Intensity interferometry concept](Intensity%20interferometry%20concept.html)
-- [Hanbury Brown Twiss effect](Hanbury%20Brown%20Twiss%20effect.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Electromagnetic waves and photons]]
+- [[Coherence function and visibility]]
+- [[Intensity interferometry concept]]
+- [[Hanbury Brown Twiss effect]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Electromagnetic%20waves%20and%20photons.html" class="backlink-item">Electromagnetic waves and photons</a></li>
-    <li class="backlink-item-wrap"><a href="../Hanbury%20Brown%20Twiss%20effect.html" class="backlink-item">Hanbury Brown Twiss effect</a></li>
-    <li class="backlink-item-wrap"><a href="Electromagnetic%20waves%20and%20photons.html" class="backlink-item">Electromagnetic waves and photons</a></li>
-    <li class="backlink-item-wrap"><a href="Hanbury%20Brown%20Twiss%20effect.html" class="backlink-item">Hanbury Brown Twiss effect</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Electromagnetic waves and photons]]
+- [[Hanbury Brown Twiss effect]]
+- [[Astronomical_Interferometry_MOC]]
+
 

@@ -97,24 +97,20 @@ even if hypertelescopes are never built at scale, the concept frames the discuss
 
 ## see also
 
-- [Nulling interferometry](Nulling%20interferometry.html)
-- [Apodization](Apodization.html)
-- [Crowding limitation](Crowding%20limitation.html)
-- [Future ground-based optical](Future%20ground-based%20optical.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Nulling interferometry]]
+- [[Apodization]]
+- [[Crowding limitation]]
+- [[Future ground-based optical]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (9)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Crowding%20limitation.html" class="backlink-item">Crowding limitation</a></li>
-    <li class="backlink-item-wrap"><a href="../Future%20ground-based%20optical.html" class="backlink-item">Future ground-based optical</a></li>
-    <li class="backlink-item-wrap"><a href="../Future%20space-based.html" class="backlink-item">Future space-based</a></li>
-    <li class="backlink-item-wrap"><a href="../Nulling%20interferometry.html" class="backlink-item">Nulling interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="Crowding%20limitation.html" class="backlink-item">Crowding limitation</a></li>
-    <li class="backlink-item-wrap"><a href="Future%20ground-based%20optical.html" class="backlink-item">Future ground-based optical</a></li>
-    <li class="backlink-item-wrap"><a href="Future%20space-based.html" class="backlink-item">Future space-based</a></li>
-    <li class="backlink-item-wrap"><a href="Nulling%20interferometry.html" class="backlink-item">Nulling interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Crowding limitation]]
+- [[Future ground-based optical]]
+- [[Future space-based]]
+- [[Nulling interferometry]]
+- [[Astronomical_Interferometry_MOC]]
+
 

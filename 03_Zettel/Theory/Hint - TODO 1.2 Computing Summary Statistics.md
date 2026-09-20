@@ -5,7 +5,7 @@ title: "Hint - TODO 1.2 Computing Summary Statistics"
 # Hint - TODO 1.2 Computing Summary Statistics
 
 **Target TODO**: TODO 1.2 in Module_1_Random_Sampling_and_Monte_Carlo  
-**Related Zettels**: [Numpy arrays vs Python lists](Numpy%20arrays%20vs%20Python%20lists.html)
+**Related Zettels**: [[Numpy arrays vs Python lists]]
 
 ---
 

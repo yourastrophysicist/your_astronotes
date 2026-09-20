@@ -72,15 +72,15 @@ $$\mathbf{q}_{n+1} = \mathbf{q}_n + h\nabla T(\mathbf{p}_{n+1})$$
 
 note the order: $\mathbf{p}$ first (using current $\mathbf{q}$), then $\mathbf{q}$ (using *new* $\mathbf{p}$). this is symplectic — it conserves a slightly modified Hamiltonian and so the energy oscillates around the true value rather than drifting. for the harmonic oscillator, energy stays bounded.
 
-semi-implicit Euler is the simplest symplectic integrator, and the conceptual ancestor of [Leapfrog integrator](Leapfrog%20integrator.html).
+semi-implicit Euler is the simplest symplectic integrator, and the conceptual ancestor of [[Leapfrog integrator]].
 
 ## see also
 
-- [Runge-Kutta 2 midpoint method](Runge-Kutta%202%20midpoint%20method.html) — $O(h^2)$ at twice the cost
-- [Runge-Kutta 4 method](Runge-Kutta%204%20method.html) — $O(h^4)$ at four times the cost, the workhorse
-- [Leapfrog integrator](Leapfrog%20integrator.html) — second-order, symplectic, no energy drift
-- [Energy conservation as a diagnostic](Energy%20conservation%20as%20a%20diagnostic.html)
-- [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
+- [[Runge-Kutta 2 midpoint method]] — $O(h^2)$ at twice the cost
+- [[Runge-Kutta 4 method]] — $O(h^4)$ at four times the cost, the workhorse
+- [[Leapfrog integrator]] — second-order, symplectic, no energy drift
+- [[Energy conservation as a diagnostic]]
+- [[Mathematical_Numerical_Methods_MOC]]
 
 ---
 
@@ -97,15 +97,15 @@ semi-implicit Euler is the simplest symplectic integrator, and the conceptual an
 ![mapelli_fig03_p28.png](../../assets/images/mapelli_fig03_p8.png)
 *Numerical stability regions for explicit vs implicit ODE integrators.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Leapfrog%20integrator.html" class="backlink-item">Leapfrog integrator</a></li>
-    <li class="backlink-item-wrap"><a href="N-body%20with%20Euler%20vs%20midpoint%20vs%20leapfrog.html" class="backlink-item">N-body with Euler vs midpoint vs leapfrog</a></li>
-    <li class="backlink-item-wrap"><a href="Runge-Kutta%202%20midpoint%20method.html" class="backlink-item">Runge-Kutta 2 midpoint method</a></li>
-    <li class="backlink-item-wrap"><a href="Runge-Kutta%204%20method.html" class="backlink-item">Runge-Kutta 4 method</a></li>
-    <li class="backlink-item-wrap"><a href="Systems%20of%20ODEs%20and%20higher-order%20ODEs.html" class="backlink-item">Systems of ODEs and higher-order ODEs</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Leapfrog integrator]]
+- [[N-body with Euler vs midpoint vs leapfrog]]
+- [[Runge-Kutta 2 midpoint method]]
+- [[Runge-Kutta 4 method]]
+- [[Systems of ODEs and higher-order ODEs]]
+- [[Mathematical_Numerical_Methods_MOC]]
+
 

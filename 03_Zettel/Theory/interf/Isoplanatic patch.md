@@ -74,24 +74,21 @@ practical: most isoplanatic-angle-degrading turbulence is at *jet-stream altitud
 
 ## see also
 
-- [Atmospheric turbulence overview](Atmospheric%20turbulence%20overview.html)
-- [Fried parameter $r_0$](Fried%20parameter%20%24r_0%24.html)
-- [Adaptive optics](Adaptive%20optics.html)
-- [Guide stars and laser guide stars](Guide%20stars%20and%20laser%20guide%20stars.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Atmospheric turbulence overview]]
+- [[Fried parameter $r_0$]]
+- [[Adaptive optics]]
+- [[Guide stars and laser guide stars]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (9)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Atmospheric%20turbulence%20overview.html" class="backlink-item">Atmospheric turbulence overview</a></li>
-    <li class="backlink-item-wrap"><a href="../Fried%20parameter%20%24r_0%24.html" class="backlink-item">Fried parameter $r_0$</a></li>
-    <li class="backlink-item-wrap"><a href="../Guide%20stars%20and%20laser%20guide%20stars.html" class="backlink-item">Guide stars and laser guide stars</a></li>
-    <li class="backlink-item-wrap"><a href="../Phase%20referencing.html" class="backlink-item">Phase referencing</a></li>
-    <li class="backlink-item-wrap"><a href="../Structure%20function%20and%20correlation%20function.html" class="backlink-item">Structure function and correlation function</a></li>
-    <li class="backlink-item-wrap"><a href="Atmospheric%20turbulence%20overview.html" class="backlink-item">Atmospheric turbulence overview</a></li>
-    <li class="backlink-item-wrap"><a href="Fried%20parameter%20%24r_0%24.html" class="backlink-item">Fried parameter $r_0$</a></li>
-    <li class="backlink-item-wrap"><a href="Guide%20stars%20and%20laser%20guide%20stars.html" class="backlink-item">Guide stars and laser guide stars</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Atmospheric turbulence overview]]
+- [[Fried parameter $r_0$]]
+- [[Guide stars and laser guide stars]]
+- [[Phase referencing]]
+- [[Structure function and correlation function]]
+- [[Astronomical_Interferometry_MOC]]
+
 

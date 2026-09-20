@@ -216,11 +216,11 @@ This requires that $96\%$ of the total mass of the Local Group consists of non-l
 
 ## 7. Cross-References and Related Notes
 
-- [Coma cluster](Coma%20cluster.html) - Virial theorem and dark matter in galaxy clusters
-- [Virgo cluster](Virgo%20cluster.html) - Nearest rich galaxy cluster and sub-cluster infall
-- [Dark matter in dwarf galaxies](Dark%20matter%20in%20dwarf%20galaxies.html) - Local Group dwarf spheroidal dark matter domination
-- [Dark matter rotation curves](Dark%20matter%20rotation%20curves.html) - Disk galaxy flat rotation curves
-- [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html) - Master Map of Content for course
+- [[Coma cluster]] - Virial theorem and dark matter in galaxy clusters
+- [[Virgo cluster]] - Nearest rich galaxy cluster and sub-cluster infall
+- [[Dark matter in dwarf galaxies]] - Local Group dwarf spheroidal dark matter domination
+- [[Dark matter rotation curves]] - Disk galaxy flat rotation curves
+- [[Astrophysics_of_Galaxies_MOC]] - Master Map of Content for course
 
 ---
 
@@ -235,13 +235,13 @@ This requires that $96\%$ of the total mass of the Local Group consists of non-l
 ![gal_lg-12.png](../../assets/images/gal_lg-12.png)
 *Figure 3 - The Kahn-Woltjer timing argument cycloid trajectory.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Coma%20cluster.html" class="backlink-item">Coma cluster</a></li>
-    <li class="backlink-item-wrap"><a href="Dark%20matter%20in%20dwarf%20galaxies.html" class="backlink-item">Dark matter in dwarf galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="Virgo%20cluster.html" class="backlink-item">Virgo cluster</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Coma cluster]]
+- [[Dark matter in dwarf galaxies]]
+- [[Virgo cluster]]
+- [[Astrophysics_of_Galaxies_MOC]]
+
 

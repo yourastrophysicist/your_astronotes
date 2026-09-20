@@ -5,7 +5,7 @@ title: "06_Fisher_Information_Matrix_Cramer_Rao_Bound_and_Survey_Forecasting"
 # Fisher Information Matrix, Cramér-Rao Bound, and Survey Forecasting
 
 Graduate lecture notes in Astro-Statistics and Cosmology, taught by Prof. Michele Liguori at the University of Padua.
-Reference index [Astro-Statistics_and_Cosmology_MOC](../../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html)
+Reference index [[Astro-Statistics_and_Cosmology_MOC]]
 
 ---
 
@@ -199,12 +199,12 @@ A survey architecture that yields a higher Figure of Merit delivers tighter cons
 
 ## Conceptual Connections
 
-- [Astro-Statistics_and_Cosmology_MOC](../../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html) - Master syllabus map of content
-- [02_Parameter_Estimation_Gaussian_Noise_and_Credible_Intervals](./02_Parameter_Estimation_Gaussian_Noise_and_Credible_Intervals.html) - Maximum likelihood estimators achieving the Cramér-Rao bound
-- [03_Multivariate_Gaussians_Marginalization_Conditioning_and_Linear_Models](./03_Multivariate_Gaussians_Marginalization_Conditioning_and_Linear_Models.html) - Linear model covariance matching the inverse Fisher matrix
-- [07_CMB_Power_Spectrum_Likelihood_Analysis_and_Cosmic_Variance](./07_CMB_Power_Spectrum_Likelihood_Analysis_and_Cosmic_Variance.html) - Fisher matrix derivation for CMB angular power spectra and cosmic variance limits
-- [08_Galaxy_Clustering_Point_Processes_and_Shot_Noise](./08_Galaxy_Clustering_Point_Processes_and_Shot_Noise.html) - Fisher forecasts for galaxy redshift surveys using the FKP estimator
-- [10_Prior_Assignment_Transformation_Invariance_and_Maximum_Entropy](./10_Prior_Assignment_Transformation_Invariance_and_Maximum_Entropy.html) - Construction of Jeffreys uninformative prior via the square root of the Fisher matrix determinant
+- [[Astro-Statistics_and_Cosmology_MOC]] - Master syllabus map of content
+- [[02_Parameter_Estimation_Gaussian_Noise_and_Credible_Intervals]] - Maximum likelihood estimators achieving the Cramér-Rao bound
+- [[03_Multivariate_Gaussians_Marginalization_Conditioning_and_Linear_Models]] - Linear model covariance matching the inverse Fisher matrix
+- [[07_CMB_Power_Spectrum_Likelihood_Analysis_and_Cosmic_Variance]] - Fisher matrix derivation for CMB angular power spectra and cosmic variance limits
+- [[08_Galaxy_Clustering_Point_Processes_and_Shot_Noise]] - Fisher forecasts for galaxy redshift surveys using the FKP estimator
+- [[10_Prior_Assignment_Transformation_Invariance_and_Maximum_Entropy]] - Construction of Jeffreys uninformative prior via the square root of the Fisher matrix determinant
 
 
 ## Lecture Visuals & Fisher Information
@@ -212,12 +212,12 @@ A survey architecture that yields a higher Figure of Merit delivers tighter cons
 ![Fisher Information Matrix and Cramer-Rao Bound](../../../assets/images/astrostat_liguori_p25.png)
 *Figure AST-04: Fisher Information Matrix and Cosmological Forecasting. The Fisher information matrix $F_{ij} = -\left\langle \frac{\partial^2 \ln \mathcal{L}}{\partial \theta_i \partial \theta_j} \right\rangle$ establishes the lower bound on parameter variance via the Cramér-Rao inequality $\sigma(\theta_i) \ge \sqrt{(F^{-1})_{ii}}$. Parameter degeneracies are geometrically characterized by the orientation and semi-axes of the Fisher uncertainty ellipses in parameter sub-spaces $(\theta_i, \theta_j)$.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Fisher%20information%20matrix%20and%20Cramer-Rao%20bound.html" class="backlink-item">Fisher information matrix and Cramer-Rao bound</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Marginalized%20versus%20conditional%20parameter%20errors%20in%20Fisher%20forecasting.html" class="backlink-item">Marginalized versus conditional parameter errors in Fisher forecasting</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Fisher information matrix and Cramer-Rao bound]]
+- [[Marginalized versus conditional parameter errors in Fisher forecasting]]
+- [[Astro-Statistics_and_Cosmology_MOC]]
+
 

@@ -54,18 +54,18 @@ near the inner edge of a disk around a black hole or compact object, the radiati
 ## see also
 
 - Strömgren sphere
-- [Photoionisation balance](Photoionisation%20balance.html)
-- [Two-level atom](Two-level%20atom.html)
-- [Statistical equilibrium equations](Statistical%20equilibrium%20equations.html)
-- [Source function](Source%20function.html)
-- [Local thermodynamic equilibrium LTE](Local%20thermodynamic%20equilibrium%20LTE.html)
-- [Optically thin recombination lines](Optically%20thin%20recombination%20lines.html)
-- [Specific intensity flux luminosity](Specific%20intensity%20flux%20luminosity.html)
+- [[Photoionisation balance]]
+- [[Two-level atom]]
+- [[Statistical equilibrium equations]]
+- [[Source function]]
+- [[Local thermodynamic equilibrium LTE]]
+- [[Optically thin recombination lines]]
+- [[Specific intensity flux luminosity]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (1)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Astronomical_Spectroscopy_MOC]]
+
 

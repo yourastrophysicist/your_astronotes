@@ -108,15 +108,15 @@ modern interferometric astronomy without mosaicking would be limited to compact,
 
 ## see also
 
-- [CLEAN algorithm](CLEAN%20algorithm.html)
-- [Calibration overview](Calibration%20overview.html)
-- [Major radio interferometers](Major%20radio%20interferometers.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[CLEAN algorithm]]
+- [[Calibration overview]]
+- [[Major radio interferometers]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (1)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Astronomical_Interferometry_MOC]]
+
 

@@ -38,7 +38,7 @@ $$R_{00} \approx 8\pi G(\rho c^2 - \tfrac{1}{2}(-1)(-\rho c^2)) = 4\pi G \rho c^
 then $R_{00} \to -2\nabla^2 \Phi$ in the Newtonian limit, giving:
 $$\nabla^2 \Phi = 4\pi G \rho$$
 
-**Poisson's equation** of Newtonian gravity. see [Newtonian limit of GR](Newtonian%20limit%20of%20GR.html) and Q10 - weak-field Ricci scalar.
+**Poisson's equation** of Newtonian gravity. see [[Newtonian limit of GR]] and Q10 - weak-field Ricci scalar.
 
 ### radiation
 for radiation, $T = -\rho + 3p = 0$. so the trace-reversed form gives $R_{\mu\nu} = 8\pi G T_{\mu\nu}$, no trace term needed. simpler.
@@ -54,21 +54,21 @@ both are equivalent. choice is a matter of computational convenience.
 
 ## see also
 
-- [Einstein equations](Einstein%20equations.html)
-- [Einstein tensor and Bianchi](Einstein%20tensor%20and%20Bianchi.html)
-- [Stress-energy tensor](Stress-energy%20tensor.html)
-- [Newtonian limit of GR](Newtonian%20limit%20of%20GR.html)
+- [[Einstein equations]]
+- [[Einstein tensor and Bianchi]]
+- [[Stress-energy tensor]]
+- [[Newtonian limit of GR]]
 - Q10 - weak-field Ricci scalar
-- [Schwarzschild metric](Schwarzschild%20metric.html)
-- [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
-- [Ch 5 - The Einstein Equation](../../02_Literature/Book/Baumann%20GR/Ch%205%20-%20The%20Einstein%20Equation.html)
+- [[Schwarzschild metric]]
+- [[General_Relativity_MOC]]
+- [[Ch 5 - The Einstein Equation]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Einstein%20equations.html" class="backlink-item">Einstein equations</a></li>
-    <li class="backlink-item-wrap"><a href="Einstein%20tensor%20and%20Bianchi.html" class="backlink-item">Einstein tensor and Bianchi</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Einstein equations]]
+- [[Einstein tensor and Bianchi]]
+- [[General_Relativity_MOC]]
+
 

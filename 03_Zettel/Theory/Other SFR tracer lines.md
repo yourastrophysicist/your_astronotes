@@ -4,7 +4,7 @@ title: "Other SFR tracer lines"
 ---
 # other SFR tracer lines
 
-up: [Pablo_03_Star_formation_in_galaxies](../../02_Literature/Lectures/Observational_Cosmology/Pablo_03_Star_formation_in_galaxies.html)
+up: [[Pablo_03_Star_formation_in_galaxies]]
 
 some emission lines play niche but important roles as SFR tracers when optical/UV recombination lines are unavailable or extinguished.
 
@@ -24,7 +24,7 @@ the $\lambda = 158\,\mu$m fine-structure line of C⁺ is the dominant coolant of
 
 - calibration: $L([\text{CII}])/L_{\text{FIR}} \sim 10^{-3}$ in normal SFGs, *drops* in ULIRGs ("[CII] deficit")
 - observable with ALMA from $z \sim 2$ to $z > 7$: the line redshifts into submm/mm where the sky is transparent
-- now the primary SFR tracer in the $z > 5$ universe via ALMA, in tandem with [UV SFR tracer](UV%20SFR%20tracer.html)
+- now the primary SFR tracer in the $z > 5$ universe via ALMA, in tandem with [[UV SFR tracer]]
 
 ## [OIII] 88 μm, [NII] 122 μm, [SIII] 33 μm
 
@@ -44,9 +44,9 @@ Hnα at $\nu \sim $ GHz. extinction-free, but very weak. niche use in dusty Gala
 
 ## connections
 
-- main tracers: [H-alpha SFR tracer](H-alpha%20SFR%20tracer.html), [UV SFR tracer](UV%20SFR%20tracer.html), [IR SFR tracer](IR%20SFR%20tracer.html), [Radio SFR tracer](Radio%20SFR%20tracer.html)
-- extinction context: [Dust attenuation and extinction curves](Dust%20attenuation%20and%20extinction%20curves.html)
-- comparison: [SFR tracer comparison](SFR%20tracer%20comparison.html)
+- main tracers: [[H-alpha SFR tracer]], [[UV SFR tracer]], [[IR SFR tracer]], [[Radio SFR tracer]]
+- extinction context: [[Dust attenuation and extinction curves]]
+- comparison: [[SFR tracer comparison]]
 
 ## key references
 
@@ -55,12 +55,12 @@ Hnα at $\nu \sim $ GHz. extinction-free, but very weak. niche use in dusty Gala
 - Diaz-Santos et al. 2013 ([CII] deficit in ULIRGs)
 - Peeters et al. 2004 (PAH as SFR)
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Lyman%20alpha%20SFR%20tracer.html" class="backlink-item">Lyman alpha SFR tracer</a></li>
-    <li class="backlink-item-wrap"><a href="OII%20SFR%20tracer.html" class="backlink-item">OII SFR tracer</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Lyman alpha SFR tracer]]
+- [[OII SFR tracer]]
+- [[Observational_Cosmology_MOC]]
+
 

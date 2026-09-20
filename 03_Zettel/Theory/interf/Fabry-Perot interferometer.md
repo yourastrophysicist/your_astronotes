@@ -102,16 +102,16 @@ both are amplitude-division; the difference is whether the cavity is "open" (two
 
 ## see also
 
-- [Amplitude-division interferometers](../Amplitude-division%20interferometers.html)
-- [Michelson laboratory interferometer](Michelson%20laboratory%20interferometer.html)
-- [Beam splitter physics](Beam%20splitter%20physics.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Amplitude-division interferometers]]
+- [[Michelson laboratory interferometer]]
+- [[Beam splitter physics]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Amplitude-division%20interferometers.html" class="backlink-item">Amplitude-division interferometers</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Amplitude-division interferometers]]
+- [[Astronomical_Interferometry_MOC]]
+
 

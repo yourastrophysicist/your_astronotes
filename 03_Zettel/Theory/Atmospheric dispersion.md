@@ -6,7 +6,7 @@ the atmospheric refractive index $n(\lambda)$ depends on wavelength: blue light 
 
 ## the geometry
 
-refraction angle (see [Atmospheric refraction](interf/Atmospheric%20refraction.html)):
+refraction angle (see [[Atmospheric refraction]]):
 $$R(\lambda) \approx (n_0(\lambda) - 1)\tan z$$
 
 since $n_0(\lambda) - 1$ varies with wavelength, $R(\lambda)$ does too. the differential between two wavelengths $\lambda_1$ and $\lambda_2$:
@@ -50,8 +50,8 @@ weakly chromatic in the optical, more strongly so in the UV. water vapour adds a
 
 ## see also
 
-- [Atmospheric refraction](interf/Atmospheric%20refraction.html)
-- [Earth atmosphere for observations](Earth%20atmosphere%20for%20observations.html)
-- [Adaptive optics overview](interf/Adaptive%20optics%20overview.html)
-- [Point Spread Function (PSF)](Point%20Spread%20Function%20%28PSF%29.html)
-- [Filter systems and bandpasses](Filter%20systems%20and%20bandpasses.html)
+- [[Atmospheric refraction]]
+- [[Earth atmosphere for observations]]
+- [[Adaptive optics overview]]
+- [[Point Spread Function (PSF)]]
+- [[Filter systems and bandpasses]]

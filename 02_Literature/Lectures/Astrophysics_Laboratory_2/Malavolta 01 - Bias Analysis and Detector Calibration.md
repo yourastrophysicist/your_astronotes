@@ -5,7 +5,7 @@ title: "Malavolta 01 - Bias Analysis and Detector Calibration"
 # Malavolta 01 — Bias Analysis and Detector Calibration
 
 *Astrophysics Laboratory 2, Prof. Luca Malavolta*  
-*Index: [Astrophysics_Laboratory_2_MOC](../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html)*
+*Index: [[Astrophysics_Laboratory_2_MOC]]*
 
 ---
 
@@ -109,18 +109,18 @@ Detects ADC baseline drift, reset ramps, and horizontal/vertical fixed pattern n
 ---
 
 ## Related Notes
-- [Bias Frame and Electronic Offset](../../../03_Zettel/Observations/Bias%20Frame%20and%20Electronic%20Offset.html)
-- [CCD Readout Noise and Output Amplifier](../../../03_Zettel/Observations/CCD%20Readout%20Noise%20and%20Output%20Amplifier.html)
-- [Janesick Photon Transfer Method for Gain and Readout Noise](../../../03_Zettel/Observations/Janesick%20Photon%20Transfer%20Method%20for%20Gain%20and%20Readout%20Noise.html)
-- [Laboratory Exercise - Bias Frame Calibration and RON Measurement](../../../03_Zettel/Activities/Laboratory%20Exercise%20-%20Bias%20Frame%20Calibration%20and%20RON%20Measurement.html)
+- [[Bias Frame and Electronic Offset]]
+- [[CCD Readout Noise and Output Amplifier]]
+- [[Janesick Photon Transfer Method for Gain and Readout Noise]]
+- [[Laboratory Exercise - Bias Frame Calibration and RON Measurement]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Activities/Laboratory%20Exercise%20-%20Bias%20Frame%20Calibration%20and%20RON%20Measurement.html" class="backlink-item">Laboratory Exercise - Bias Frame Calibration and RON Measurement</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Observations/Bias%20Frame%20and%20Electronic%20Offset.html" class="backlink-item">Bias Frame and Electronic Offset</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Observations/Janesick%20Photon%20Transfer%20Method%20for%20Gain%20and%20Readout%20Noise.html" class="backlink-item">Janesick Photon Transfer Method for Gain and Readout Noise</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Laboratory Exercise - Bias Frame Calibration and RON Measurement]]
+- [[Bias Frame and Electronic Offset]]
+- [[Janesick Photon Transfer Method for Gain and Readout Noise]]
+- [[Astrophysics_Laboratory_2_MOC]]
+
 

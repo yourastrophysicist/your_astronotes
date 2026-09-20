@@ -85,26 +85,26 @@ $$N(x) = a_0 + a_1 (x - x_0) + a_2 (x - x_0)(x - x_1) + \cdots$$
 
 with coefficients $a_i$ computed from divided differences. advantage: adding a new data point requires only $O(N)$ extra work (just compute one new divided difference and append a term), rather than rebuilding the whole polynomial.
 
-see [Newton divided differences](Newton%20divided%20differences.html).
+see [[Newton divided differences]].
 
 ## see also
 
-- [Linear interpolation](Linear%20interpolation.html)
-- [Cubic spline interpolation](Cubic%20spline%20interpolation.html)
-- [Runge phenomenon](Runge%20phenomenon.html)
-- [Newton divided differences](Newton%20divided%20differences.html)
-- [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
+- [[Linear interpolation]]
+- [[Cubic spline interpolation]]
+- [[Runge phenomenon]]
+- [[Newton divided differences]]
+- [[Mathematical_Numerical_Methods_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Cubic%20spline%20interpolation.html" class="backlink-item">Cubic spline interpolation</a></li>
-    <li class="backlink-item-wrap"><a href="Linear%20interpolation.html" class="backlink-item">Linear interpolation</a></li>
-    <li class="backlink-item-wrap"><a href="Newton%20divided%20differences.html" class="backlink-item">Newton divided differences</a></li>
-    <li class="backlink-item-wrap"><a href="Runge%20phenomenon.html" class="backlink-item">Runge phenomenon</a></li>
-    <li class="backlink-item-wrap"><a href="Scipy%20interpolation%20tools.html" class="backlink-item">Scipy interpolation tools</a></li>
-    <li class="backlink-item-wrap"><a href="Two-dimensional%20interpolation.html" class="backlink-item">Two-dimensional interpolation</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Cubic spline interpolation]]
+- [[Linear interpolation]]
+- [[Newton divided differences]]
+- [[Runge phenomenon]]
+- [[Scipy interpolation tools]]
+- [[Two-dimensional interpolation]]
+- [[Mathematical_Numerical_Methods_MOC]]
+
 

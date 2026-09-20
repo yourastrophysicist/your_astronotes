@@ -95,8 +95,8 @@ nulling interferometry is poised for:
 
 ## see also
 
-- [Bracewell nuller](interf/Bracewell%20nuller.html)
-- [Coronagraphy](interf/Coronagraphy.html)
-- [Apodization](interf/Apodization.html)
-- [Hypertelescope](interf/Hypertelescope.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Bracewell nuller]]
+- [[Coronagraphy]]
+- [[Apodization]]
+- [[Hypertelescope]]
+- [[Astronomical_Interferometry_MOC]]

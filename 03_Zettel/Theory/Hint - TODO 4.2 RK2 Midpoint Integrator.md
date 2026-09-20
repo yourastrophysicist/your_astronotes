@@ -5,7 +5,7 @@ title: "Hint - TODO 4.2 RK2 Midpoint Integrator"
 # Hint - TODO 4.2 RK2 Midpoint Integrator
 
 **Target TODO**: TODO 4.2 in Module_1_Random_Sampling_and_Monte_Carlo  
-**Related Zettels**: [Runge-Kutta 2 midpoint method](Runge-Kutta%202%20midpoint%20method.html)
+**Related Zettels**: [[Runge-Kutta 2 midpoint method]]
 
 ---
 

@@ -4,7 +4,7 @@ title: "Schechter function"
 ---
 # schechter function
 
-Parent [Pablo_02_Statistical_properties_of_galaxies](../../02_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html) · [Luminosity function definition](Luminosity%20function%20definition.html)
+Parent [[Pablo_02_Statistical_properties_of_galaxies]] · [[Luminosity function definition]]
 
 ## The Parametric Form
 
@@ -147,24 +147,24 @@ The Schechter function emerges naturally from the convolution of.
 
 ![gal_lf1-30.png](../../assets/images/gal_lf1-30.png)
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (15)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="1Vmax%20estimator.html" class="backlink-item">1Vmax estimator</a></li>
-    <li class="backlink-item-wrap"><a href="Cosmic%20star%20formation%20history.html" class="backlink-item">Cosmic star formation history</a></li>
-    <li class="backlink-item-wrap"><a href="Double%20power-law%20modified%20Schechter.html" class="backlink-item">Double power-law modified Schechter</a></li>
-    <li class="backlink-item-wrap"><a href="Integrals%20of%20the%20Schechter%20function.html" class="backlink-item">Integrals of the Schechter function</a></li>
-    <li class="backlink-item-wrap"><a href="LF%20by%20morphology%20and%20SED.html" class="backlink-item">LF by morphology and SED</a></li>
-    <li class="backlink-item-wrap"><a href="Luminosity%20function%20definition.html" class="backlink-item">Luminosity function definition</a></li>
-    <li class="backlink-item-wrap"><a href="Malmquist%20bias.html" class="backlink-item">Malmquist bias</a></li>
-    <li class="backlink-item-wrap"><a href="Press-Schechter%20formalism.html" class="backlink-item">Press-Schechter formalism</a></li>
-    <li class="backlink-item-wrap"><a href="Redshift%20distribution%20of%20flux-limited%20samples.html" class="backlink-item">Redshift distribution of flux-limited samples</a></li>
-    <li class="backlink-item-wrap"><a href="Schechter%20K-band%20luminosity%20function.html" class="backlink-item">Schechter K-band luminosity function</a></li>
-    <li class="backlink-item-wrap"><a href="Schechter%20function%20in%20magnitudes.html" class="backlink-item">Schechter function in magnitudes</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20mass%20function.html" class="backlink-item">Stellar mass function</a></li>
-    <li class="backlink-item-wrap"><a href="UV%20luminosity%20function.html" class="backlink-item">UV luminosity function</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[1Vmax estimator]]
+- [[Cosmic star formation history]]
+- [[Double power-law modified Schechter]]
+- [[Integrals of the Schechter function]]
+- [[LF by morphology and SED]]
+- [[Luminosity function definition]]
+- [[Malmquist bias]]
+- [[Press-Schechter formalism]]
+- [[Redshift distribution of flux-limited samples]]
+- [[Schechter K-band luminosity function]]
+- [[Schechter function in magnitudes]]
+- [[Stellar mass function]]
+- [[UV luminosity function]]
+- [[Astrophysics_of_Galaxies_MOC]]
+- [[Observational_Cosmology_MOC]]
+
 

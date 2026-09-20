@@ -5,7 +5,7 @@ title: "07_CMB_Power_Spectrum_Likelihood_Analysis_and_Cosmic_Variance"
 # CMB Power Spectrum, Likelihood Analysis, and Cosmic Variance
 
 Graduate lecture notes in Astro-Statistics and Cosmology, taught by Prof. Michele Liguori at the University of Padua.
-Reference index [Astro-Statistics_and_Cosmology_MOC](../../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html)
+Reference index [[Astro-Statistics_and_Cosmology_MOC]]
 
 ---
 
@@ -195,18 +195,18 @@ In modern cosmological analysis pipelines (such as Planck 2018 or ACT/SPT), comp
 
 ## Conceptual Connections
 
-- [Astro-Statistics_and_Cosmology_MOC](../../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html) - Master syllabus map of content
-- [03_Multivariate_Gaussians_Marginalization_Conditioning_and_Linear_Models](./03_Multivariate_Gaussians_Marginalization_Conditioning_and_Linear_Models.html) - Properties of Gaussian random fields and Schur complement partitioning
-- [05_Monte_Carlo_Metropolis_Hastings_and_MCMC_Convergence_Diagnostics](./05_Monte_Carlo_Metropolis_Hastings_and_MCMC_Convergence_Diagnostics.html) - MCMC sampling of CMB Boltzmann codes (CAMB/CLASS)
-- [06_Fisher_Information_Matrix_Cramer_Rao_Bound_and_Survey_Forecasting](./06_Fisher_Information_Matrix_Cramer_Rao_Bound_and_Survey_Forecasting.html) - Fisher matrix forecasting for CMB missions using the Tegmark formula
-- [08_Galaxy_Clustering_Point_Processes_and_Shot_Noise](./08_Galaxy_Clustering_Point_Processes_and_Shot_Noise.html) - Analogous 3D power spectrum estimation for galaxy surveys
+- [[Astro-Statistics_and_Cosmology_MOC]] - Master syllabus map of content
+- [[03_Multivariate_Gaussians_Marginalization_Conditioning_and_Linear_Models]] - Properties of Gaussian random fields and Schur complement partitioning
+- [[05_Monte_Carlo_Metropolis_Hastings_and_MCMC_Convergence_Diagnostics]] - MCMC sampling of CMB Boltzmann codes (CAMB/CLASS)
+- [[06_Fisher_Information_Matrix_Cramer_Rao_Bound_and_Survey_Forecasting]] - Fisher matrix forecasting for CMB missions using the Tegmark formula
+- [[08_Galaxy_Clustering_Point_Processes_and_Shot_Noise]] - Analogous 3D power spectrum estimation for galaxy surveys
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/CMB%20angular%20power%20spectrum%20estimator%20and%20cosmic%20variance.html" class="backlink-item">CMB angular power spectrum estimator and cosmic variance</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Exact%20CMB%20Wishart%20likelihood%20and%20Gaussian%20high-multipole%20limit.html" class="backlink-item">Exact CMB Wishart likelihood and Gaussian high-multipole limit</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[CMB angular power spectrum estimator and cosmic variance]]
+- [[Exact CMB Wishart likelihood and Gaussian high-multipole limit]]
+- [[Astro-Statistics_and_Cosmology_MOC]]
+
 

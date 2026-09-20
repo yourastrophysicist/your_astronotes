@@ -31,7 +31,7 @@ $$V_i(t) \propto E(\mathbf r_i, t)$$
 so the time-averaged product is the field correlation:
 $$\langle V_1 V_2 \rangle \propto \langle E^*(\mathbf r_1, t) E(\mathbf r_2, t) \rangle = \Gamma_{12}$$
 
-which is the **mutual coherence function** of [that zettel](Coherence%20function%20and%20visibility.html) — equivalently, the visibility.
+which is the **mutual coherence function** of [[Coherence function and visibility|that zettel]] — equivalently, the visibility.
 
 so the correlator literally computes the visibility.
 
@@ -125,30 +125,24 @@ source: local study diagram generated from the standard radio interferometer sig
 
 ## see also
 
-- [Radio interferometer architecture](Radio%20interferometer%20architecture.html)
-- [Heterodyne vs direct detection](Heterodyne%20vs%20direct%20detection.html)
-- [Coherence function and visibility](Coherence%20function%20and%20visibility.html)
-- [CLEAN algorithm](CLEAN%20algorithm.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Radio interferometer architecture]]
+- [[Heterodyne vs direct detection]]
+- [[Coherence function and visibility]]
+- [[CLEAN algorithm]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (15)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Digitization%20quantization%20and%20timing%20in%20radio%20interferometry.html" class="backlink-item">Digitization quantization and timing in radio interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="../Downconversion%20of%20signals%20in%20radio%20interferometers.html" class="backlink-item">Downconversion of signals in radio interferometers</a></li>
-    <li class="backlink-item-wrap"><a href="../Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="../Heterodyne%20vs%20direct%20detection.html" class="backlink-item">Heterodyne vs direct detection</a></li>
-    <li class="backlink-item-wrap"><a href="../Radio%20astronomy%20basics.html" class="backlink-item">Radio astronomy basics</a></li>
-    <li class="backlink-item-wrap"><a href="../Radio%20interferometer%20architecture.html" class="backlink-item">Radio interferometer architecture</a></li>
-    <li class="backlink-item-wrap"><a href="../Radio%20telescope%20components.html" class="backlink-item">Radio telescope components</a></li>
-    <li class="backlink-item-wrap"><a href="../Wiener-Khinchin%20theorem.html" class="backlink-item">Wiener-Khinchin theorem</a></li>
-    <li class="backlink-item-wrap"><a href="Digitization%20quantization%20and%20timing%20in%20radio%20interferometry.html" class="backlink-item">Digitization quantization and timing in radio interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="Downconversion%20of%20signals%20in%20radio%20interferometers.html" class="backlink-item">Downconversion of signals in radio interferometers</a></li>
-    <li class="backlink-item-wrap"><a href="Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="Radio%20astronomy%20basics.html" class="backlink-item">Radio astronomy basics</a></li>
-    <li class="backlink-item-wrap"><a href="Radio%20interferometer%20architecture.html" class="backlink-item">Radio interferometer architecture</a></li>
-    <li class="backlink-item-wrap"><a href="Wiener-Khinchin%20theorem.html" class="backlink-item">Wiener-Khinchin theorem</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Digitization quantization and timing in radio interferometry]]
+- [[Downconversion of signals in radio interferometers]]
+- [[Figure bank - interferometry]]
+- [[Heterodyne vs direct detection]]
+- [[Radio astronomy basics]]
+- [[Radio interferometer architecture]]
+- [[Radio telescope components]]
+- [[Wiener-Khinchin theorem]]
+- [[Astronomical_Interferometry_MOC]]
+
 

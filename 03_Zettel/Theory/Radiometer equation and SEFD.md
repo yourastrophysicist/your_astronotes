@@ -101,7 +101,7 @@ source: local plot generated from $\sigma\propto1/\sqrt{\Delta\nu t}$.
 
 ## see also
 
-- [Antenna effective area and gain](interf/Antenna%20effective%20area%20and%20gain.html)
-- [Radio astronomy basics](interf/Radio%20astronomy%20basics.html)
-- [ALMA exposure time calculator and sensitivity](interf/ALMA%20exposure%20time%20calculator%20and%20sensitivity.html)
-- [Interferometry equation sheet](interf/Interferometry%20equation%20sheet.html)
+- [[Antenna effective area and gain]]
+- [[Radio astronomy basics]]
+- [[ALMA exposure time calculator and sensitivity]]
+- [[Interferometry equation sheet]]

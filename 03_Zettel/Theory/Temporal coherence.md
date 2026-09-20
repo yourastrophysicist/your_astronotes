@@ -42,5 +42,5 @@ Temporal coherence drives major engineering decisions in interferometry. In opti
 
 ## connections & zettel links
 
-* parent moc: [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-* related zettels: [Spatial coherence](interf/Spatial%20coherence.html), [Coherence function and visibility](interf/Coherence%20function%20and%20visibility.html), [Wiener-Khinchin theorem](interf/Wiener-Khinchin%20theorem.html), [Delay lines and path-length equalization](interf/Delay%20lines%20and%20path-length%20equalization.html)
+* parent moc: [[Astronomical_Interferometry_MOC]]
+* related zettels: [[Spatial coherence]], [[Coherence function and visibility]], [[Wiener-Khinchin theorem]], [[Delay lines and path-length equalization]]

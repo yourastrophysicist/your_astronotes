@@ -74,15 +74,15 @@ photo-$z$ quality is quantified by two standard metrics evaluated against spectr
 
 ## see also
 
-- [Observational_Astrophysics_MOC](../../04_Atlas/Observational_Astrophysics_MOC.html)
-- [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
-- [SED fitting basics](SED%20fitting%20basics.html)
-- [Stellar population synthesis](Stellar%20population%20synthesis.html)
-- [Single stellar population SSP](Single%20stellar%20population%20SSP.html)
-- [Age-metallicity degeneracy](Age-metallicity%20degeneracy.html)
-- [Dust attenuation in synthetic populations](Dust%20attenuation%20in%20synthetic%20populations.html)
-- [Star formation history of a population](Star%20formation%20history%20of%20a%20population.html)
-- [Stellar mass estimation in unresolved populations](Stellar%20mass%20estimation%20in%20unresolved%20populations.html)
+- [[Observational_Astrophysics_MOC]]
+- [[Stellar_Astrophysics_MOC]]
+- [[SED fitting basics]]
+- [[Stellar population synthesis]]
+- [[Single stellar population SSP]]
+- [[Age-metallicity degeneracy]]
+- [[Dust attenuation in synthetic populations]]
+- [[Star formation history of a population]]
+- [[Stellar mass estimation in unresolved populations]]
 
 ---
 
@@ -103,23 +103,23 @@ photo-$z$ quality is quantified by two standard metrics evaluated against spectr
 ![ilbert2005_photoz.png](../../assets/images/ilbert2005_photoz.png)
 *Photometric redshift precision sigma_z / (1 + z) and outlier rates using LePhare template fitting (Ilbert et al. 2005).*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (14)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Color%20indices.html" class="backlink-item">Color indices</a></li>
-    <li class="backlink-item-wrap"><a href="K-correction.html" class="backlink-item">K-correction</a></li>
-    <li class="backlink-item-wrap"><a href="Multi-object%20spectroscopy%20MOS.html" class="backlink-item">Multi-object spectroscopy MOS</a></li>
-    <li class="backlink-item-wrap"><a href="Photo-z%20biases%20and%20catastrophic%20outliers.html" class="backlink-item">Photo-z biases and catastrophic outliers</a></li>
-    <li class="backlink-item-wrap"><a href="Photometric%20system%20conversion%20and%20color%20terms.html" class="backlink-item">Photometric system conversion and color terms</a></li>
-    <li class="backlink-item-wrap"><a href="Protocluster%20detection%20techniques.html" class="backlink-item">Protocluster detection techniques</a></li>
-    <li class="backlink-item-wrap"><a href="Redshift%20distribution%20of%20flux-limited%20samples.html" class="backlink-item">Redshift distribution of flux-limited samples</a></li>
-    <li class="backlink-item-wrap"><a href="SED%20fitting%20basics.html" class="backlink-item">SED fitting basics</a></li>
-    <li class="backlink-item-wrap"><a href="Spectroscopic%20redshift%20from%20line%20shifts.html" class="backlink-item">Spectroscopic redshift from line shifts</a></li>
-    <li class="backlink-item-wrap"><a href="Surface%20brightness%20dimming.html" class="backlink-item">Surface brightness dimming</a></li>
-    <li class="backlink-item-wrap"><a href="UV%20SFR%20tracer.html" class="backlink-item">UV SFR tracer</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Color indices]]
+- [[K-correction]]
+- [[Multi-object spectroscopy MOS]]
+- [[Photo-z biases and catastrophic outliers]]
+- [[Photometric system conversion and color terms]]
+- [[Protocluster detection techniques]]
+- [[Redshift distribution of flux-limited samples]]
+- [[SED fitting basics]]
+- [[Spectroscopic redshift from line shifts]]
+- [[Surface brightness dimming]]
+- [[UV SFR tracer]]
+- [[Astrophysics_of_Galaxies_MOC]]
+- [[Observational_Astrophysics_MOC]]
+- [[Observational_Cosmology_MOC]]
+
 

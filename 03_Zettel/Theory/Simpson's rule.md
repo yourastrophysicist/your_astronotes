@@ -97,19 +97,19 @@ for any 1D integral of a smooth function, Simpson is the right default. for 2D a
 
 ## see also
 
-- [Trapezoidal rule](Trapezoidal%20rule.html)
-- [Trapezoidal rule error estimate](Trapezoidal%20rule%20error%20estimate.html)
-- [Monte Carlo integration mean value method](Monte%20Carlo%20integration%20mean%20value%20method.html)
-- [Truncation error and order of accuracy](Truncation%20error%20and%20order%20of%20accuracy.html)
-- [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
+- [[Trapezoidal rule]]
+- [[Trapezoidal rule error estimate]]
+- [[Monte Carlo integration mean value method]]
+- [[Truncation error and order of accuracy]]
+- [[Mathematical_Numerical_Methods_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Built-in%20scipy%20integrators.html" class="backlink-item">Built-in scipy integrators</a></li>
-    <li class="backlink-item-wrap"><a href="Trapezoidal%20rule%20error%20estimate.html" class="backlink-item">Trapezoidal rule error estimate</a></li>
-    <li class="backlink-item-wrap"><a href="Trapezoidal%20rule.html" class="backlink-item">Trapezoidal rule</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Built-in scipy integrators]]
+- [[Trapezoidal rule error estimate]]
+- [[Trapezoidal rule]]
+- [[Mathematical_Numerical_Methods_MOC]]
+
 

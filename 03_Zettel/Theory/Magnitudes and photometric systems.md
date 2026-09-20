@@ -165,12 +165,12 @@ because distance cancels out in the ratio $F_B / F_V = (L_B / 4\pi d^2) / (L_V /
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Electromagnetic radiation basics](Electromagnetic%20radiation%20basics.html)
-- [Blackbody radiation and Stefan-Boltzmann](Blackbody%20radiation%20and%20Stefan-Boltzmann.html)
-- [Interstellar absorption](Interstellar%20absorption.html)
-- [HR diagram](HR%20diagram.html)
-- [Parallax and standard candles](Parallax%20and%20standard%20candles.html)
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Electromagnetic radiation basics]]
+- [[Blackbody radiation and Stefan-Boltzmann]]
+- [[Interstellar absorption]]
+- [[HR diagram]]
+- [[Parallax and standard candles]]
 
 ---
 
@@ -200,32 +200,30 @@ because distance cancels out in the ratio $F_B / F_V = (L_B / 4\pi d^2) / (L_V /
 ![obs_rad-060.png](../../assets/images/obs_rad-060.png)
 *Photometric catalogs and standardized star standards (Landolt, Stetson).*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (23)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Aperture%20photometry.html" class="backlink-item">Aperture photometry</a></li>
-    <li class="backlink-item-wrap"><a href="Atmospheric%20extinction.html" class="backlink-item">Atmospheric extinction</a></li>
-    <li class="backlink-item-wrap"><a href="Bolometric%20correction%20and%20effective%20temperature.html" class="backlink-item">Bolometric correction and effective temperature</a></li>
-    <li class="backlink-item-wrap"><a href="CCD%20detectors%20and%20SNR.html" class="backlink-item">CCD detectors and SNR</a></li>
-    <li class="backlink-item-wrap"><a href="Color%20indices.html" class="backlink-item">Color indices</a></li>
-    <li class="backlink-item-wrap"><a href="Distance%20modulus.html" class="backlink-item">Distance modulus</a></li>
-    <li class="backlink-item-wrap"><a href="Earth%20atmosphere%20for%20observations.html" class="backlink-item">Earth atmosphere for observations</a></li>
-    <li class="backlink-item-wrap"><a href="Filter%20systems%20and%20bandpasses.html" class="backlink-item">Filter systems and bandpasses</a></li>
-    <li class="backlink-item-wrap"><a href="Flux%20calibration.html" class="backlink-item">Flux calibration</a></li>
-    <li class="backlink-item-wrap"><a href="Interstellar%20absorption.html" class="backlink-item">Interstellar absorption</a></li>
-    <li class="backlink-item-wrap"><a href="Linearity%20and%20saturation.html" class="backlink-item">Linearity and saturation</a></li>
-    <li class="backlink-item-wrap"><a href="Parallax%20and%20standard%20candles.html" class="backlink-item">Parallax and standard candles</a></li>
-    <li class="backlink-item-wrap"><a href="Photometric%20standard%20stars.html" class="backlink-item">Photometric standard stars</a></li>
-    <li class="backlink-item-wrap"><a href="Photometric%20system%20conversion%20and%20color%20terms.html" class="backlink-item">Photometric system conversion and color terms</a></li>
-    <li class="backlink-item-wrap"><a href="Pogson%20magnitudes%20and%20flux%20relation.html" class="backlink-item">Pogson magnitudes and flux relation</a></li>
-    <li class="backlink-item-wrap"><a href="Radiation%20quantities%20and%20inverse%20square%20law.html" class="backlink-item">Radiation quantities and inverse square law</a></li>
-    <li class="backlink-item-wrap"><a href="Specific%20intensity%20flux%20luminosity.html" class="backlink-item">Specific intensity flux luminosity</a></li>
-    <li class="backlink-item-wrap"><a href="Survey%20resources%20for%20Obs%20Astro.html" class="backlink-item">Survey resources for Obs Astro</a></li>
-    <li class="backlink-item-wrap"><a href="Useful%20constants%20and%20conversions.html" class="backlink-item">Useful constants and conversions</a></li>
-    <li class="backlink-item-wrap"><a href="interf/Atmospheric%20extinction.html" class="backlink-item">Atmospheric extinction</a></li>
-    <li class="backlink-item-wrap"><a href="interf/Flux%20calibration.html" class="backlink-item">Flux calibration</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Aperture photometry]]
+- [[Atmospheric extinction]]
+- [[Bolometric correction and effective temperature]]
+- [[CCD detectors and SNR]]
+- [[Color indices]]
+- [[Distance modulus]]
+- [[Earth atmosphere for observations]]
+- [[Filter systems and bandpasses]]
+- [[Flux calibration]]
+- [[Interstellar absorption]]
+- [[Linearity and saturation]]
+- [[Parallax and standard candles]]
+- [[Photometric standard stars]]
+- [[Photometric system conversion and color terms]]
+- [[Pogson magnitudes and flux relation]]
+- [[Radiation quantities and inverse square law]]
+- [[Specific intensity flux luminosity]]
+- [[Survey resources for Obs Astro]]
+- [[Useful constants and conversions]]
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Observational_Astrophysics_MOC]]
+
 

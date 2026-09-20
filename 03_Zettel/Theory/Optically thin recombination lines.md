@@ -30,7 +30,7 @@ $$j(H\alpha) = n_e n_p\,\alpha^{\rm eff}_{H\alpha}\,h\nu_{H\alpha}$$
 so for an HII region with $n_e \sim n_p \sim 100$ cm$^{-3}$:
 $j(H\alpha) \sim 10^4 \cdot 1.17 \times 10^{-13} \cdot 3 \times 10^{-12}$ erg/cm$^3$/s $\sim 3.5 \times 10^{-21}$ erg/cm$^3$/s.
 
-integrated over the volume of a Strömgren sphere, this gives a typical HII region $H\alpha$ luminosity, used as an SFR tracer ([H-alpha SFR tracer](H-alpha%20SFR%20tracer.html)).
+integrated over the volume of a Strömgren sphere, this gives a typical HII region $H\alpha$ luminosity, used as an SFR tracer ([[H-alpha SFR tracer]]).
 
 ## case A vs case B
 
@@ -53,33 +53,33 @@ these are essentially **temperature-independent** (only $T_e^{-0.07}$ scaling), 
 deviations from these ratios are interpreted as **dust extinction**: the Balmer decrement gives $A_V$ via
 $$E(B - V) \approx 2.0\,\log_{10}\left[\frac{F(H\alpha)/F(H\beta)|_{\rm obs}}{2.86}\right]$$
 
-see [Balmer decrement](Balmer%20decrement.html).
+see [[Balmer decrement]].
 
 ## see also
 
-- [Case A vs Case B recombination](Case%20A%20vs%20Case%20B%20recombination.html)
-- [Recombination line emissivity](Recombination%20line%20emissivity.html)
-- [H-alpha SFR tracer](H-alpha%20SFR%20tracer.html)
-- [Balmer decrement](Balmer%20decrement.html)
-- [Recombination continuum](Recombination%20continuum.html)
-- [Hydrogen spectral series](Hydrogen%20spectral%20series.html)
-- [Two-level atom](Two-level%20atom.html)
-- [Statistical equilibrium equations](Statistical%20equilibrium%20equations.html)
+- [[Case A vs Case B recombination]]
+- [[Recombination line emissivity]]
+- [[H-alpha SFR tracer]]
+- [[Balmer decrement]]
+- [[Recombination continuum]]
+- [[Hydrogen spectral series]]
+- [[Two-level atom]]
+- [[Statistical equilibrium equations]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (11)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Balmer%20continuum.html" class="backlink-item">Balmer continuum</a></li>
-    <li class="backlink-item-wrap"><a href="Case%20A%20vs%20Case%20B%20recombination.html" class="backlink-item">Case A vs Case B recombination</a></li>
-    <li class="backlink-item-wrap"><a href="Dilution%20factor.html" class="backlink-item">Dilution factor</a></li>
-    <li class="backlink-item-wrap"><a href="Dust%20extinction%20in%20nebulae.html" class="backlink-item">Dust extinction in nebulae</a></li>
-    <li class="backlink-item-wrap"><a href="Emission%20line%20stars.html" class="backlink-item">Emission line stars</a></li>
-    <li class="backlink-item-wrap"><a href="Recombination%20continuum.html" class="backlink-item">Recombination continuum</a></li>
-    <li class="backlink-item-wrap"><a href="Recombination%20line%20emissivity.html" class="backlink-item">Recombination line emissivity</a></li>
-    <li class="backlink-item-wrap"><a href="Recombination%20rate.html" class="backlink-item">Recombination rate</a></li>
-    <li class="backlink-item-wrap"><a href="Rydberg-Ritz%20formula.html" class="backlink-item">Rydberg-Ritz formula</a></li>
-    <li class="backlink-item-wrap"><a href="Two-photon%20emission.html" class="backlink-item">Two-photon emission</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Balmer continuum]]
+- [[Case A vs Case B recombination]]
+- [[Dilution factor]]
+- [[Dust extinction in nebulae]]
+- [[Emission line stars]]
+- [[Recombination continuum]]
+- [[Recombination line emissivity]]
+- [[Recombination rate]]
+- [[Rydberg-Ritz formula]]
+- [[Two-photon emission]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 

@@ -6,7 +6,7 @@ title: "Part2_Inflation_Kinematics_Dynamics_and_Models"
 
 *Lectures 9 to 16 notes synthesis - Prof. Nicola Bartolo*  
 *Cosmology of the Early Universe - Università degli Studi di Padova*  
-*Index: [Cosmology_of_the_Early_Universe_MOC](../../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html)*  
+*Index: [[Cosmology_of_the_Early_Universe_MOC]]*  
 
 ---
 
@@ -155,15 +155,15 @@ terminating inflation prematurely. Preserving $\eta_V \ll 1$ requires either fin
 ## Connections and vault links
 
 * Companion zettels:
-  - [Single-field slow-roll inflation dynamics](../../../03_Zettel/Theory/Single-field%20slow-roll%20inflation%20dynamics.html)
-  - [Slow-roll parameters epsilon and eta](../../../03_Zettel/Theory/Slow-roll%20parameters%20epsilon%20and%20eta.html)
-  - [Number of e-folds and horizon exit](../../../03_Zettel/Theory/Number%20of%20e-folds%20and%20horizon%20exit.html)
-  - [Large-field versus small-field inflation models](../../../03_Zettel/Theory/Large-field%20versus%20small-field%20inflation%20models.html)
-  - [Lyth bound and field excursion](../../../03_Zettel/Theory/Lyth%20bound%20and%20field%20excursion.html)
-  - [Starobinsky R-squared inflation](../../../03_Zettel/Theory/Starobinsky%20R-squared%20inflation.html)
-* Previous module: [Part1_Standard_Big_Bang_and_Shortcomings](./Part1_Standard_Big_Bang_and_Shortcomings.html)
-* Next module: [Part3_Quantum_Perturbations_and_Power_Spectra](./Part3_Quantum_Perturbations_and_Power_Spectra.html)
-* Atlas: [Cosmology_of_the_Early_Universe_MOC](../../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html)
+  - [[Single-field slow-roll inflation dynamics]]
+  - [[Slow-roll parameters epsilon and eta]]
+  - [[Number of e-folds and horizon exit]]
+  - [[Large-field versus small-field inflation models]]
+  - [[Lyth bound and field excursion]]
+  - [[Starobinsky R-squared inflation]]
+* Previous module: [[Part1_Standard_Big_Bang_and_Shortcomings]]
+* Next module: [[Part3_Quantum_Perturbations_and_Power_Spectra]]
+* Atlas: [[Cosmology_of_the_Early_Universe_MOC]]
 
 
 ## Theoretical Visuals & Inflaton Dynamics
@@ -177,16 +177,16 @@ terminating inflation prematurely. Preserving $\eta_V \ll 1$ requires either fin
 ![Phase Space Trajectories and Attractor Behavior](../../../assets/images/early_inflation_p15.png)
 *Figure CEU-03: Phase portrait $(\phi, \dot{\phi})$ demonstrating the cosmic no-hair theorem and universal slow-roll attractor behavior for chaotic and plateau inflation models.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Large-field%20versus%20small-field%20inflation%20models.html" class="backlink-item">Large-field versus small-field inflation models</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Lyth%20bound%20and%20field%20excursion.html" class="backlink-item">Lyth bound and field excursion</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Number%20of%20e-folds%20and%20horizon%20exit.html" class="backlink-item">Number of e-folds and horizon exit</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Single-field%20slow-roll%20inflation%20dynamics.html" class="backlink-item">Single-field slow-roll inflation dynamics</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Slow-roll%20parameters%20epsilon%20and%20eta.html" class="backlink-item">Slow-roll parameters epsilon and eta</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Starobinsky%20R-squared%20inflation.html" class="backlink-item">Starobinsky R-squared inflation</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html" class="backlink-item">Cosmology_of_the_Early_Universe_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Large-field versus small-field inflation models]]
+- [[Lyth bound and field excursion]]
+- [[Number of e-folds and horizon exit]]
+- [[Single-field slow-roll inflation dynamics]]
+- [[Slow-roll parameters epsilon and eta]]
+- [[Starobinsky R-squared inflation]]
+- [[Cosmology_of_the_Early_Universe_MOC]]
+
 

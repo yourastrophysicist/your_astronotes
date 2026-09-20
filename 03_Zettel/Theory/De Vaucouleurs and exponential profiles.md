@@ -265,12 +265,12 @@ When sketching de Vaucouleurs and exponential profiles on the blackboard.
 
 ## 8. See Also
 
-- [Sersic profile](Sersic%20profile.html)
-- [Petrosian radius](Petrosian%20radius.html)
-- [Hubble morphological sequence](Hubble%20morphological%20sequence.html)
-- [Fundamental plane of ellipticals](Fundamental%20plane%20of%20ellipticals.html)
-- [Tully-Fisher relation](Tully-Fisher%20relation.html)
-- [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html)
+- [[Sersic profile]]
+- [[Petrosian radius]]
+- [[Hubble morphological sequence]]
+- [[Fundamental plane of ellipticals]]
+- [[Tully-Fisher relation]]
+- [[Astrophysics_of_Galaxies_MOC]]
 
 ---
 
@@ -304,17 +304,17 @@ When sketching de Vaucouleurs and exponential profiles on the blackboard.
 
 ![gal_disk-13.png](../../assets/images/gal_disk-13.png)
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (8)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="CAS%20galaxy%20classification.html" class="backlink-item">CAS galaxy classification</a></li>
-    <li class="backlink-item-wrap"><a href="Color%20gradients%20in%20ellipticals.html" class="backlink-item">Color gradients in ellipticals</a></li>
-    <li class="backlink-item-wrap"><a href="Hubble%20morphological%20sequence.html" class="backlink-item">Hubble morphological sequence</a></li>
-    <li class="backlink-item-wrap"><a href="Kormendy%20relation.html" class="backlink-item">Kormendy relation</a></li>
-    <li class="backlink-item-wrap"><a href="Low%20surface%20brightness%20galaxies.html" class="backlink-item">Low surface brightness galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="Petrosian%20radius.html" class="backlink-item">Petrosian radius</a></li>
-    <li class="backlink-item-wrap"><a href="Sersic%20profile.html" class="backlink-item">Sersic profile</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[CAS galaxy classification]]
+- [[Color gradients in ellipticals]]
+- [[Hubble morphological sequence]]
+- [[Kormendy relation]]
+- [[Low surface brightness galaxies]]
+- [[Petrosian radius]]
+- [[Sersic profile]]
+- [[Astrophysics_of_Galaxies_MOC]]
+
 

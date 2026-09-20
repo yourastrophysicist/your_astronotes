@@ -42,42 +42,42 @@ example: $2p^1 \to L = 1$, parity $(-1)^1 = -1$ $\to$ odd. $2s^1 \to$ even. $2p^
 
 ## why parity matters
 
-the **electric dipole selection rule** requires $\Delta p = \text{change}$, i.e. odd $\to$ even or vice versa. if both states have the same parity, the transition is **parity-forbidden** at electric dipole. it can still proceed at magnetic dipole or electric quadrupole, $\sim 10^5$ to $10^8$ times weaker. these are the **forbidden lines** of nebular spectroscopy ([Forbidden lines](Forbidden%20lines.html)).
+the **electric dipole selection rule** requires $\Delta p = \text{change}$, i.e. odd $\to$ even or vice versa. if both states have the same parity, the transition is **parity-forbidden** at electric dipole. it can still proceed at magnetic dipole or electric quadrupole, $\sim 10^5$ to $10^8$ times weaker. these are the **forbidden lines** of nebular spectroscopy ([[Forbidden lines]]).
 
 the famous $[OIII]\,\lambda 4959, 5007$ Å lines arise from a parity-forbidden transition $^3P^e \to {^1\!}D^e$, both even, so E1 is forbidden but M1 is allowed.
 
 ## see also
 
-- [Quantum numbers and atomic states](Quantum%20numbers%20and%20atomic%20states.html)
-- [Russell-Saunders LS coupling](Russell-Saunders%20LS%20coupling.html)
-- [Hund's rules](Hund%27s%20rules.html)
-- [Selection rules](Selection%20rules.html)
-- [Statistical weight g](Statistical%20weight%20g.html)
-- [Forbidden vs permitted vs semiforbidden transitions](Forbidden%20vs%20permitted%20vs%20semiforbidden%20transitions.html)
-- [Forbidden lines](Forbidden%20lines.html)
+- [[Quantum numbers and atomic states]]
+- [[Russell-Saunders LS coupling]]
+- [[Hund's rules]]
+- [[Selection rules]]
+- [[Statistical weight g]]
+- [[Forbidden vs permitted vs semiforbidden transitions]]
+- [[Forbidden lines]]
 - Energy level diagrams Grötrian
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (18)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Calcium%20and%20CaII%20H%2BK.html" class="backlink-item">Calcium and CaII H+K</a></li>
-    <li class="backlink-item-wrap"><a href="Energy%20level%20diagrams%20Grotrian.html" class="backlink-item">Energy level diagrams Grotrian</a></li>
-    <li class="backlink-item-wrap"><a href="Equivalent%20vs%20nonequivalent%20electrons.html" class="backlink-item">Equivalent vs nonequivalent electrons</a></li>
-    <li class="backlink-item-wrap"><a href="Forbidden%20lines.html" class="backlink-item">Forbidden lines</a></li>
-    <li class="backlink-item-wrap"><a href="Forbidden%20vs%20permitted%20vs%20semiforbidden%20transitions.html" class="backlink-item">Forbidden vs permitted vs semiforbidden transitions</a></li>
-    <li class="backlink-item-wrap"><a href="Helium%20energy%20levels.html" class="backlink-item">Helium energy levels</a></li>
-    <li class="backlink-item-wrap"><a href="Hund%27s%20rules.html" class="backlink-item">Hund's rules</a></li>
-    <li class="backlink-item-wrap"><a href="Hydrogen%20spectral%20series.html" class="backlink-item">Hydrogen spectral series</a></li>
-    <li class="backlink-item-wrap"><a href="Magnesium%20and%20alkali%20earths.html" class="backlink-item">Magnesium and alkali earths</a></li>
-    <li class="backlink-item-wrap"><a href="OIII%20forbidden%20lines.html" class="backlink-item">OIII forbidden lines</a></li>
-    <li class="backlink-item-wrap"><a href="Pauli%20principle%20and%20electron%20configurations.html" class="backlink-item">Pauli principle and electron configurations</a></li>
-    <li class="backlink-item-wrap"><a href="Quantum%20numbers%20and%20atomic%20states.html" class="backlink-item">Quantum numbers and atomic states</a></li>
-    <li class="backlink-item-wrap"><a href="Russell-Saunders%20LS%20coupling.html" class="backlink-item">Russell-Saunders LS coupling</a></li>
-    <li class="backlink-item-wrap"><a href="Selection%20rules.html" class="backlink-item">Selection rules</a></li>
-    <li class="backlink-item-wrap"><a href="Sodium%20and%20alkalis.html" class="backlink-item">Sodium and alkalis</a></li>
-    <li class="backlink-item-wrap"><a href="Statistical%20weight%20g.html" class="backlink-item">Statistical weight g</a></li>
-    <li class="backlink-item-wrap"><a href="jj%20coupling.html" class="backlink-item">jj coupling</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Calcium and CaII H+K]]
+- [[Energy level diagrams Grotrian]]
+- [[Equivalent vs nonequivalent electrons]]
+- [[Forbidden lines]]
+- [[Forbidden vs permitted vs semiforbidden transitions]]
+- [[Helium energy levels]]
+- [[Hund's rules]]
+- [[Hydrogen spectral series]]
+- [[Magnesium and alkali earths]]
+- [[OIII forbidden lines]]
+- [[Pauli principle and electron configurations]]
+- [[Quantum numbers and atomic states]]
+- [[Russell-Saunders LS coupling]]
+- [[Selection rules]]
+- [[Sodium and alkalis]]
+- [[Statistical weight g]]
+- [[jj coupling]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 

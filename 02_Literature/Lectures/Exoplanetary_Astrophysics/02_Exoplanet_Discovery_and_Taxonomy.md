@@ -5,7 +5,7 @@ title: "02_Exoplanet_Discovery_and_Taxonomy"
 # Lesson 02 – Exoplanet Discovery and Taxonomy
 
 *Exoplanetary Astrophysics, Prof. Giampaolo Piotto (Lecture 07/10/2025)*  
-*Index: [Exoplanetary_Astrophysics_MOC](../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)*
+*Index: [[Exoplanetary_Astrophysics_MOC]]*
 
 ---
 
@@ -115,9 +115,9 @@ The Substellar Boundary:
 ---
 
 ## Cross-Links & Vault Navigation
-- Master Map of Content: [Exoplanetary_Astrophysics_MOC](../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)
-- Previous Lecture: [01_Global_Architecture_of_the_Solar_System](./01_Global_Architecture_of_the_Solar_System.html)
-- Next Lecture: [03_Demographics_and_Survey_Completeness](./03_Demographics_and_Survey_Completeness.html)
+- Master Map of Content: [[Exoplanetary_Astrophysics_MOC]]
+- Previous Lecture: [[01_Global_Architecture_of_the_Solar_System]]
+- Next Lecture: [[03_Demographics_and_Survey_Completeness]]
 - Related Notes: Exoplanet detection techniques | Mass-radius diagram and interior models
 
 
@@ -129,10 +129,10 @@ The Substellar Boundary:
 ![Radial Velocity Doppler Curve and Orbital Diagnostics](../../../assets/images/exo_detection_p20.png)
 *Figure EXO-02: Radial velocity Doppler reflex curve of a star perturbed by an orbiting planet. Semi-amplitude $K = \frac{28.4\text{ m/s}}{\sqrt{1-e^2}} \left(\frac{M_p \sin i}{M_{\mathrm{Jup}}}\right) \left(\frac{M_*}{M_\odot}\right)^{-1/2} \left(\frac{a}{1\text{ AU}}\right)^{-1/2}$ measures minimum planetary mass $M_p \sin i$.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (1)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Exoplanetary_Astrophysics_MOC]]
+
 

@@ -27,7 +27,7 @@ $n(\lambda)$ depends weakly on wavelength, so $R(\lambda)$ does too. at $z > 0$ 
 $$\Delta R(B \to R) \sim 1''\quad\text{at } z = 30°$$
 $$\Delta R(B \to R) \sim 3''\quad\text{at } z = 60°$$
 
-for high-resolution imaging or spectroscopy at $z > 30°$, an **atmospheric dispersion corrector** (ADC, a counter-rotating prism pair) is mandatory. see [Atmospheric dispersion](Atmospheric%20dispersion.html).
+for high-resolution imaging or spectroscopy at $z > 30°$, an **atmospheric dispersion corrector** (ADC, a counter-rotating prism pair) is mandatory. see [[Atmospheric dispersion]].
 
 ## environmental dependence
 
@@ -44,12 +44,12 @@ so on a hot day or at high altitude the refraction is smaller. at Mauna Kea ($P 
 
 ## see also
 
-- [Earth atmosphere for observations](../Earth%20atmosphere%20for%20observations.html)
-- [Atmospheric dispersion](Atmospheric%20dispersion.html)
-- [Atmospheric extinction](Atmospheric%20extinction.html)
-- [Equatorial system](../Equatorial%20system.html)
-- [Horizontal alt-azimuth system](../Horizontal%20alt-azimuth%20system.html)
-- [Precession nutation aberration parallax](../Precession%20nutation%20aberration%20parallax.html)
+- [[Earth atmosphere for observations]]
+- [[Atmospheric dispersion]]
+- [[Atmospheric extinction]]
+- [[Equatorial system]]
+- [[Horizontal alt-azimuth system]]
+- [[Precession nutation aberration parallax]]
 
 ---
 
@@ -58,15 +58,14 @@ so on a hot day or at high altitude the refraction is smaller. at Mauna Kea ($P 
 ![obs_sph2-31.png](../../../assets/images/obs_sph2-31.png)
 *Atmospheric refraction: Snell law in plane-parallel atmosphere, R = 60 arcsec tan z.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Atmospheric%20dispersion.html" class="backlink-item">Atmospheric dispersion</a></li>
-    <li class="backlink-item-wrap"><a href="../Precession%20and%20nutation.html" class="backlink-item">Precession and nutation</a></li>
-    <li class="backlink-item-wrap"><a href="../Precession%20nutation%20aberration%20parallax.html" class="backlink-item">Precession nutation aberration parallax</a></li>
-    <li class="backlink-item-wrap"><a href="Atmospheric%20dispersion.html" class="backlink-item">Atmospheric dispersion</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Atmospheric dispersion]]
+- [[Precession and nutation]]
+- [[Precession nutation aberration parallax]]
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Observational_Astrophysics_MOC]]
+
 

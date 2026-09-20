@@ -94,14 +94,14 @@ $$F_{min} = \frac{s_{min}}{A_{eff} \cdot ECF}$$
 This determines the **sensitivity limit** of a mission — the faintest sources it can detect
 	for XMM-Newton in a 100 ks observation: $F_{min} \approx 10^{-15}~\text{erg s}^{-1}~\text{cm}^{-2}$ (0.5–2 keV)
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Angular%20Resolution.html" class="backlink-item">Angular Resolution</a></li>
-    <li class="backlink-item-wrap"><a href="Astrostatistics.html" class="backlink-item">Astrostatistics</a></li>
-    <li class="backlink-item-wrap"><a href="CCD%20noise%20sources.html" class="backlink-item">CCD noise sources</a></li>
-    <li class="backlink-item-wrap"><a href="The%20CCD%20equation.html" class="backlink-item">The CCD equation</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Angular Resolution]]
+- [[Astrostatistics]]
+- [[CCD noise sources]]
+- [[The CCD equation]]
+- [[Lab_High-Energy_MOC]]
+
 

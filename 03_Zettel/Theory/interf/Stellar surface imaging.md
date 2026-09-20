@@ -107,25 +107,21 @@ before interferometric imaging, stellar surfaces were inferred indirectly (from 
 
 ## see also
 
-- [Stellar diameters and limb darkening](Stellar%20diameters%20and%20limb%20darkening.html)
-- [CHARA array](CHARA%20array.html)
-- [VLTI Very Large Telescope Interferometer](VLTI%20Very%20Large%20Telescope%20Interferometer.html)
-- [Phase closure](Phase%20closure.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Stellar diameters and limb darkening]]
+- [[CHARA array]]
+- [[VLTI Very Large Telescope Interferometer]]
+- [[Phase closure]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (10)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../CHARA%20array.html" class="backlink-item">CHARA array</a></li>
-    <li class="backlink-item-wrap"><a href="../Dust%20shells%20and%20Wolf-Rayet%20stars.html" class="backlink-item">Dust shells and Wolf-Rayet stars</a></li>
-    <li class="backlink-item-wrap"><a href="../Pulsating%20stars%20and%20Mira%20variables.html" class="backlink-item">Pulsating stars and Mira variables</a></li>
-    <li class="backlink-item-wrap"><a href="../Young%20stellar%20object%20disks.html" class="backlink-item">Young stellar object disks</a></li>
-    <li class="backlink-item-wrap"><a href="CHARA%20array.html" class="backlink-item">CHARA array</a></li>
-    <li class="backlink-item-wrap"><a href="Dust%20shells%20and%20Wolf-Rayet%20stars.html" class="backlink-item">Dust shells and Wolf-Rayet stars</a></li>
-    <li class="backlink-item-wrap"><a href="Pulsating%20stars%20and%20Mira%20variables.html" class="backlink-item">Pulsating stars and Mira variables</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20diameters%20and%20limb%20darkening.html" class="backlink-item">Stellar diameters and limb darkening</a></li>
-    <li class="backlink-item-wrap"><a href="Young%20stellar%20object%20disks.html" class="backlink-item">Young stellar object disks</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[CHARA array]]
+- [[Dust shells and Wolf-Rayet stars]]
+- [[Pulsating stars and Mira variables]]
+- [[Young stellar object disks]]
+- [[Stellar diameters and limb darkening]]
+- [[Astronomical_Interferometry_MOC]]
+
 

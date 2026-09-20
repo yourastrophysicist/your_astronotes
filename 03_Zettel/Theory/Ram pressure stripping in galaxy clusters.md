@@ -28,14 +28,14 @@ $$\boxed{P_{\text{ram}} > 2\pi G \Sigma_* \Sigma_{\text{gas}}}$$
 
 ## see also
 
-- [Astrophysics_of_the_Interstellar_Medium_MOC](../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html)
-- [Carraro_06_Supernovae_and_Hot_Ionized_Medium](../../02_Literature/Lectures/Interstellar_Medium/Carraro_06_Supernovae_and_Hot_Ionized_Medium.html)
-- [Galaxy clusters and overview of evolution](Galaxy%20clusters%20and%20overview%20of%20evolution.html)
+- [[Astrophysics_of_the_Interstellar_Medium_MOC]]
+- [[Carraro_06_Supernovae_and_Hot_Ionized_Medium]]
+- [[Galaxy clusters and overview of evolution]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (1)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html" class="backlink-item">Astrophysics_of_the_Interstellar_Medium_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Astrophysics_of_the_Interstellar_Medium_MOC]]
+
 

@@ -48,9 +48,9 @@ practical pre-2020 list: Mauna Kea ($4200$ m), Cerro Paranal ($2600$ m), Cerro P
 
 ## see also
 
-- [Earth atmosphere for observations](Earth%20atmosphere%20for%20observations.html)
-- [Atmospheric transparency windows](interf/Atmospheric%20transparency%20windows.html)
-- [Atmospheric extinction](interf/Atmospheric%20extinction.html)
-- [Atmospheric seeing](interf/Atmospheric%20seeing.html)
-- [Sky brightness](Sky%20brightness.html)
-- [Adaptive optics overview](interf/Adaptive%20optics%20overview.html)
+- [[Earth atmosphere for observations]]
+- [[Atmospheric transparency windows]]
+- [[Atmospheric extinction]]
+- [[Atmospheric seeing]]
+- [[Sky brightness]]
+- [[Adaptive optics overview]]

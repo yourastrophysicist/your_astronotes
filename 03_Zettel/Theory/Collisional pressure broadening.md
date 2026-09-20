@@ -23,7 +23,7 @@ quantitatively, for an atom interacting with neutral perturbers via van der Waal
 $$\gamma_{\rm vdW} = C_6^{2/5} v^{3/5} n$$
 with $C_6$ the van der Waals coefficient and $v$ the relative speed.
 
-for ionic perturbers (Stark broadening of H), see [Stark broadening](Stark%20broadening.html).
+for ionic perturbers (Stark broadening of H), see [[Stark broadening]].
 
 ## astronomical examples
 
@@ -38,7 +38,7 @@ for the same $T_{\rm eff}$, a **dwarf** has higher gas pressure (and density) th
 | H Balmer | very strong Stark wings | narrow, deep |
 | Ca II H + K | extensive wings | sharp |
 
-this is the **physical basis of luminosity classes** ([MK luminosity classes](MK%20luminosity%20classes.html)). at fixed $T$, dwarfs have stronger pressure-broadened wings; giants have narrower lines.
+this is the **physical basis of luminosity classes** ([[MK luminosity classes]]). at fixed $T$, dwarfs have stronger pressure-broadened wings; giants have narrower lines.
 
 ### Balmer lines in OB stars
 
@@ -67,26 +67,26 @@ defined as $a = \Gamma/(4\pi\Delta\nu_D)$, the ratio of total Lorentzian (natura
 
 ## see also
 
-- [Natural broadening Lorentzian](Natural%20broadening%20Lorentzian.html)
-- [Stark broadening](Stark%20broadening.html)
-- [Line profile function phi nu](Line%20profile%20function%20phi%20nu.html)
-- [Voigt profile](Voigt%20profile.html)
-- [Damping wings](Damping%20wings.html)
-- [Thermal Doppler broadening](Thermal%20Doppler%20broadening.html)
-- [Curve of growth](Curve%20of%20growth.html)
-- [MK luminosity classes](MK%20luminosity%20classes.html)
-- [Stellar atmosphere structure](Stellar%20atmosphere%20structure.html)
+- [[Natural broadening Lorentzian]]
+- [[Stark broadening]]
+- [[Line profile function phi nu]]
+- [[Voigt profile]]
+- [[Damping wings]]
+- [[Thermal Doppler broadening]]
+- [[Curve of growth]]
+- [[MK luminosity classes]]
+- [[Stellar atmosphere structure]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Damping%20wings.html" class="backlink-item">Damping wings</a></li>
-    <li class="backlink-item-wrap"><a href="Line%20profile%20function%20phi%20nu.html" class="backlink-item">Line profile function phi nu</a></li>
-    <li class="backlink-item-wrap"><a href="MK%20luminosity%20classes.html" class="backlink-item">MK luminosity classes</a></li>
-    <li class="backlink-item-wrap"><a href="Natural%20broadening%20Lorentzian.html" class="backlink-item">Natural broadening Lorentzian</a></li>
-    <li class="backlink-item-wrap"><a href="Stark%20broadening.html" class="backlink-item">Stark broadening</a></li>
-    <li class="backlink-item-wrap"><a href="Voigt%20profile.html" class="backlink-item">Voigt profile</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Damping wings]]
+- [[Line profile function phi nu]]
+- [[MK luminosity classes]]
+- [[Natural broadening Lorentzian]]
+- [[Stark broadening]]
+- [[Voigt profile]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 

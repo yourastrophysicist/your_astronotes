@@ -36,7 +36,7 @@ $$V = \frac{I_{\max} - I_{\min}}{I_{\max} + I_{\min}} = \frac{2 A_1 A_2}{A_1^2 +
 if $A_1 = A_2$: $V = 1$. perfect fringes.
 if $A_1 \neq A_2$: $V < 1$. weaker fringes.
 
-for an extended source, the visibility is also reduced by an additional factor — see [Van Cittert-Zernike theorem](Van%20Cittert-Zernike%20theorem.html).
+for an extended source, the visibility is also reduced by an additional factor — see [[Van Cittert-Zernike theorem]].
 
 ## Young's two-slit experiment
 
@@ -68,7 +68,7 @@ this is exactly Michelson's method for measuring stellar diameters in 1920.
 
 interference requires the phase difference between the two paths to be **stable** over the integration time. if some external effect (atmospheric turbulence, mirror vibrations, thermal expansion of an arm) randomizes $\Delta\phi$ on timescales shorter than the integration, the cosine term averages to zero and fringes vanish.
 
-this is why optical interferometry is hard: atmospheric phase fluctuations are $\gg 2\pi$ on $\sim$ ms timescales. either fringes are tracked actively, or the integration is short enough to freeze the atmosphere ([speckle interferometry](Speckle%20interferometry.html)).
+this is why optical interferometry is hard: atmospheric phase fluctuations are $\gg 2\pi$ on $\sim$ ms timescales. either fringes are tracked actively, or the integration is short enough to freeze the atmosphere ([[Speckle interferometry|speckle interferometry]]).
 
 radio interferometry has it easier because the wavelengths are longer and the atmosphere is "smoother" (in units of $\lambda$).
 
@@ -88,30 +88,24 @@ source: local study diagram generated from the standard Young/Fraunhofer geometr
 
 ## see also
 
-- [Plane waves and Huygens principle](Plane%20waves%20and%20Huygens%20principle.html)
-- [Young experiment as a stellar interferometer](Young%20experiment%20as%20a%20stellar%20interferometer.html)
-- [Fringe visibility and contrast](Fringe%20visibility%20and%20contrast.html)
-- [Coherence function and visibility](Coherence%20function%20and%20visibility.html)
-- [Van Cittert-Zernike theorem](Van%20Cittert-Zernike%20theorem.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Plane waves and Huygens principle]]
+- [[Young experiment as a stellar interferometer]]
+- [[Fringe visibility and contrast]]
+- [[Coherence function and visibility]]
+- [[Van Cittert-Zernike theorem]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (14)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="../Fresnel-Arago%20laws.html" class="backlink-item">Fresnel-Arago laws</a></li>
-    <li class="backlink-item-wrap"><a href="../Light%20waves%20and%20the%20EM%20spectrum.html" class="backlink-item">Light waves and the EM spectrum</a></li>
-    <li class="backlink-item-wrap"><a href="../Optical%20path%20difference%20OPD.html" class="backlink-item">Optical path difference OPD</a></li>
-    <li class="backlink-item-wrap"><a href="../Plane%20waves%20and%20Huygens%20principle.html" class="backlink-item">Plane waves and Huygens principle</a></li>
-    <li class="backlink-item-wrap"><a href="../Young%20experiment%20as%20a%20stellar%20interferometer.html" class="backlink-item">Young experiment as a stellar interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="Electromagnetic%20waves%20and%20photons.html" class="backlink-item">Electromagnetic waves and photons</a></li>
-    <li class="backlink-item-wrap"><a href="Figure%20bank%20-%20interferometry.html" class="backlink-item">Figure bank - interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="Fresnel-Arago%20laws.html" class="backlink-item">Fresnel-Arago laws</a></li>
-    <li class="backlink-item-wrap"><a href="Light%20waves%20and%20the%20EM%20spectrum.html" class="backlink-item">Light waves and the EM spectrum</a></li>
-    <li class="backlink-item-wrap"><a href="Optical%20path%20difference%20OPD.html" class="backlink-item">Optical path difference OPD</a></li>
-    <li class="backlink-item-wrap"><a href="Plane%20waves%20and%20Huygens%20principle.html" class="backlink-item">Plane waves and Huygens principle</a></li>
-    <li class="backlink-item-wrap"><a href="Young%20experiment%20as%20a%20stellar%20interferometer.html" class="backlink-item">Young experiment as a stellar interferometer</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Figure bank - interferometry]]
+- [[Fresnel-Arago laws]]
+- [[Light waves and the EM spectrum]]
+- [[Optical path difference OPD]]
+- [[Plane waves and Huygens principle]]
+- [[Young experiment as a stellar interferometer]]
+- [[Electromagnetic waves and photons]]
+- [[Astronomical_Interferometry_MOC]]
+
 

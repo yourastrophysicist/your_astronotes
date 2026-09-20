@@ -6,7 +6,7 @@ title: "Giacomin_Oral_Exam_Questions_Complete_Guide"
 
 *Course: Fluid and Plasma Dynamics (Physics of Fluids and Plasmas)*  
 *Lecturer: Prof. Maurizio Giacomin - Università degli Studi di Padova*  
-*Index: [Fluid_and_Plasma_Dynamics_MOC](../../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html)*  
+*Index: [[Fluid_and_Plasma_Dynamics_MOC]]*  
 
 > [!important] Examination Rules
 > The oral examination consists of **three questions** chosen from the 30 questions below:
@@ -18,7 +18,7 @@ title: "Giacomin_Oral_Exam_Questions_Complete_Guide"
 
 ## Question 1: Liouville's Theorem and Connection to Boltzmann's Equation
 
-*Module reference: [Part1_Kinetic_Foundations_and_Fluid_Equations](./Part1_Kinetic_Foundations_and_Fluid_Equations.html#1. Liouville's Theorem and the Boltzmann Transport Equation)*
+*Module reference: [[Part1_Kinetic_Foundations_and_Fluid_Equations#1. Liouville's Theorem and the Boltzmann Transport Equation]]*
 
 ### Blackboard Delivery Strategy
 1. Define the $6N$-dimensional phase space $\Gamma = (\vec{q}_1, \dots, \vec{q}_N, \vec{p}_1, \dots, \vec{p}_N)$ and the ensemble distribution density $\rho_{ens}(\vec{q}, \vec{p}, t)$.
@@ -38,7 +38,7 @@ $$\frac{\partial f}{\partial t} + \vec{u} \cdot \nabla_{\vec{x}} f + \frac{\vec{
 
 ## Question 2: Collision Operator for Binary Collisions Between Neutral Particles
 
-*Module reference: [Part1_Kinetic_Foundations_and_Fluid_Equations](./Part1_Kinetic_Foundations_and_Fluid_Equations.html#2. The Boltzmann Collision Operator for Binary Collisions)*
+*Module reference: [[Part1_Kinetic_Foundations_and_Fluid_Equations#2. The Boltzmann Collision Operator for Binary Collisions]]*
 
 ### Blackboard Delivery Strategy
 1. State the three Boltzmann hypotheses:
@@ -58,7 +58,7 @@ $$C(f) = \int d^3u_1 \int d\Omega \, \sigma(g, \Omega) \lvert \vec{u} - \vec{u}_
 
 ## Question 3: Density and Momentum Fluid Equations from the Collisional Boltzmann Equation
 
-*Module reference: [Part1_Kinetic_Foundations_and_Fluid_Equations](./Part1_Kinetic_Foundations_and_Fluid_Equations.html#3. Moment Derivations of the Hydrodynamic Equations)*
+*Module reference: [[Part1_Kinetic_Foundations_and_Fluid_Equations#3. Moment Derivations of the Hydrodynamic Equations]]*
 
 ### Blackboard Delivery Strategy
 1. Define the velocity moment operator for property $\chi(\vec{u})$:
@@ -83,7 +83,7 @@ $$\int d^3u \, \chi \left[ \frac{\partial f}{\partial t} + u_j \frac{\partial f}
 
 ## Question 4: Closure Issue of Hydrodynamic Equations: Zero- and First-Order Approximations
 
-*Module reference: [Part1_Kinetic_Foundations_and_Fluid_Equations](./Part1_Kinetic_Foundations_and_Fluid_Equations.html#4. The Closure Problem and Chapman-Enskog Approximations)*
+*Module reference: [[Part1_Kinetic_Foundations_and_Fluid_Equations#4. The Closure Problem and Chapman-Enskog Approximations]]*
 
 ### Blackboard Delivery Strategy
 1. State the closure dilemma: each $n$-th moment equation contains the $(n+1)$-th moment (continuity needs $\vec{v}$; momentum needs $P_{ij}$; energy needs heat flux $\vec{q}$). The hierarchy is open.
@@ -104,7 +104,7 @@ $$\sigma_{ij} = \mu \left( \frac{\partial v_i}{\partial x_j} + \frac{\partial v_
 
 ## Question 5: Momentum Hydrodynamics Equation from a Macroscopic Approach
 
-*Module reference: [Part1_Kinetic_Foundations_and_Fluid_Equations](./Part1_Kinetic_Foundations_and_Fluid_Equations.html#5. Macroscopic Continuum Approach to the Momentum Equation)*
+*Module reference: [[Part1_Kinetic_Foundations_and_Fluid_Equations#5. Macroscopic Continuum Approach to the Momentum Equation]]*
 
 ### Blackboard Delivery Strategy
 1. Select an arbitrary fixed control volume $V$ bounded by surface $S$ with normal $\hat{n}$.
@@ -121,7 +121,7 @@ $$\frac{\partial (\rho v_i)}{\partial t} + \frac{\partial (\rho v_i v_j)}{\parti
 
 ## Question 6: Kelvin's Circulation Theorem and Relation with the Vorticity Equation
 
-*Module reference: [Part2_Incompressible_and_Viscous_Flows](./Part2_Incompressible_and_Viscous_Flows.html#1. Vorticity Dynamics and Kelvin's Circulation Theorem)*
+*Module reference: [[Part2_Incompressible_and_Viscous_Flows#1. Vorticity Dynamics and Kelvin's Circulation Theorem]]*
 
 ### Blackboard Delivery Strategy
 1. Define circulation $\Gamma(t) = \oint_{C(t)} \vec{v} \cdot d\vec{\ell} = \int_{S(t)} \vec{\omega} \cdot d\vec{S}$, where $\vec{\omega} = \nabla \times \vec{v}$.
@@ -139,7 +139,7 @@ $$\frac{d}{dt}\left( \frac{\vec{\omega}}{\rho} \right) = \left( \frac{\vec{\omeg
 
 ## Question 7: Hydrostatic Dynamics of the Solar Corona with an Example
 
-*Module reference: [Part2_Incompressible_and_Viscous_Flows](./Part2_Incompressible_and_Viscous_Flows.html#2. Hydrostatic Dynamics of the Solar Corona and the Parker Wind)*
+*Module reference: [[Part2_Incompressible_and_Viscous_Flows#2. Hydrostatic Dynamics of the Solar Corona and the Parker Wind]]*
 
 ### Blackboard Delivery Strategy
 1. Write the radial hydrostatic equation in spherical symmetry: $\frac{dp}{dr} = -\rho \frac{G M_\odot}{r^2}$.
@@ -156,7 +156,7 @@ $$\left( v - \frac{c_s^2}{v} \right)\frac{dv}{dr} = \frac{2 c_s^2}{r}\left( 1 - 
 
 ## Question 8: Viscosity in Navier-Stokes and Flow Through a Circular Pipe
 
-*Module reference: [Part2_Incompressible_and_Viscous_Flows](./Part2_Incompressible_and_Viscous_Flows.html#3. Viscous Flows: The Navier-Stokes Equation and Hagen-Poiseuille Flow)*
+*Module reference: [[Part2_Incompressible_and_Viscous_Flows#3. Viscous Flows: The Navier-Stokes Equation and Hagen-Poiseuille Flow]]*
 
 ### Blackboard Delivery Strategy
 1. Show how viscous stress divergence $\nabla \cdot \mathbf{\sigma} = \mu \nabla^2 \vec{v}$ enters for incompressible flow ($\nabla \cdot \vec{v} = 0$), yielding:
@@ -174,7 +174,7 @@ $$\frac{1}{r}\frac{d}{dr}\left( r \frac{dv_z}{dr} \right) = \frac{1}{\mu}\frac{d
 
 ## Question 9: Sound Waves and the Jeans Instability
 
-*Module reference: [Part3_Waves_Instabilities_and_Turbulence](./Part3_Waves_Instabilities_and_Turbulence.html#1. Sound Waves and the Jeans Gravitational Instability)*
+*Module reference: [[Part3_Waves_Instabilities_and_Turbulence#1. Sound Waves and the Jeans Gravitational Instability]]*
 
 ### Blackboard Delivery Strategy
 1. Linearize continuity and Euler equations for isentropic perturbations ($p_1 = c_s^2 \rho_1$):
@@ -195,7 +195,7 @@ $$\omega^2 = c_s^2 k^2 - 4\pi G \rho_0$$
 
 ## Question 10: Qualitative Discussion of Rayleigh Convection
 
-*Module reference: [Part3_Waves_Instabilities_and_Turbulence](./Part3_Waves_Instabilities_and_Turbulence.html#2. Hydrodynamic Instabilities)*
+*Module reference: [[Part3_Waves_Instabilities_and_Turbulence#2. Hydrodynamic Instabilities]]*
 
 ### Blackboard Delivery Strategy
 1. Describe the physical system: horizontal fluid layer of depth $d$ heated from below ($\Delta T = T_{bottom} - T_{top} > 0$) in gravity $\vec{g} = -g \hat{z}$.
@@ -214,7 +214,7 @@ $$Ra = \frac{g \alpha \Delta T d^3}{\nu \chi}$$
 
 ## Question 11: Kolmogorov's Theory of Turbulence and Reynolds Averaging
 
-*Module reference: [Part3_Waves_Instabilities_and_Turbulence](./Part3_Waves_Instabilities_and_Turbulence.html#3. Kolmogorov's Theory of Developed Turbulence)*
+*Module reference: [[Part3_Waves_Instabilities_and_Turbulence#3. Kolmogorov's Theory of Developed Turbulence]]*
 
 ### Blackboard Delivery Strategy
 1. Present the Richardson cascade: energy injected at scale $L$, transferred inviscidly down through eddies, dissipated by viscosity at scale $\eta$.
@@ -230,7 +230,7 @@ $$\tau_{ij}^{turb} = -\rho \overline{v_i' v_j'}$$
 
 ## Question 12: $E \times B$, $\nabla B$, and Curvature Drift Velocities
 
-*Module reference: [Part4_Single_Particle_Motion_and_Magnetic_Confinement](./Part4_Single_Particle_Motion_and_Magnetic_Confinement.html#1. Charged Particle Dynamics in Magnetic Fields and Guiding-Center Drifts)*
+*Module reference: [[Part4_Single_Particle_Motion_and_Magnetic_Confinement#1. Charged Particle Dynamics in Magnetic Fields and Guiding-Center Drifts]]*
 
 ### Blackboard Delivery Strategy
 1. Write the general guiding-center drift formula from $\vec{F} + q(\vec{v}_D \times \vec{B}) = 0$:
@@ -250,7 +250,7 @@ $$\vec{v}_{mag} = \frac{m}{q B^3} \left( v_\parallel^2 + \frac{1}{2} v_\perp^2 \
 
 ## Question 13: The Magnetic Mirror and Particle Reflection Condition
 
-*Module reference: [Part4_Single_Particle_Motion_and_Magnetic_Confinement](./Part4_Single_Particle_Motion_and_Magnetic_Confinement.html#2. The Magnetic Mirror and Reflection Condition)*
+*Module reference: [[Part4_Single_Particle_Motion_and_Magnetic_Confinement#2. The Magnetic Mirror and Reflection Condition]]*
 
 ### Blackboard Delivery Strategy
 1. From $\nabla \cdot \vec{B} = 0$, derive $B_r \approx -\frac{r}{2}\frac{\partial B_z}{\partial z}$.
@@ -268,7 +268,7 @@ $$\sin^2\alpha_0 \ge \frac{B_{min}}{B_{max}} \equiv \frac{1}{R_m}$$
 
 ## Question 14: Trapped Particles in Tokamaks and Trapping Condition
 
-*Module reference: [Part4_Single_Particle_Motion_and_Magnetic_Confinement](./Part4_Single_Particle_Motion_and_Magnetic_Confinement.html#3. Trapped Particles in Tokamaks and Neoclassical Dynamics)*
+*Module reference: [[Part4_Single_Particle_Motion_and_Magnetic_Confinement#3. Trapped Particles in Tokamaks and Neoclassical Dynamics]]*
 
 ### Blackboard Delivery Strategy
 1. Write the tokamak toroidal magnetic field profile $B_\phi(R) = B_0 R_0 / R$.
@@ -285,7 +285,7 @@ $$\sin^2\alpha_0 \ge \frac{1-\epsilon}{1+\epsilon} \approx 1 - 2\epsilon \implie
 
 ## Question 15: Gyrokinetics Theory Assumptions, Gyrocenter Motion, and Gyro-Average
 
-*Module reference: [Part5_Plasma_Kinetics_Gyrokinetics_and_Waves](./Part5_Plasma_Kinetics_Gyrokinetics_and_Waves.html#1. Gyrokinetic Theory: Foundations, Ordering, and 5D Reduction)*
+*Module reference: [[Part5_Plasma_Kinetics_Gyrokinetics_and_Waves#1. Gyrokinetic Theory: Foundations, Ordering, and 5D Reduction]]*
 
 ### Blackboard Delivery Strategy
 1. Motivation: 6D Vlasov is too expensive because $\Omega_{ci} \sim 10^8\text{ rad/s}$ requires $\Delta t < 1/\Omega_{ci}$. Gyrokinetics averages over fast gyration to reduce the system to 5D.
@@ -303,7 +303,7 @@ $$\sin^2\alpha_0 \ge \frac{1-\epsilon}{1+\epsilon} \approx 1 - 2\epsilon \implie
 
 ## Question 16: Landau Damping
 
-*Module reference: [Part5_Plasma_Kinetics_Gyrokinetics_and_Waves](./Part5_Plasma_Kinetics_Gyrokinetics_and_Waves.html#2. Landau Damping)*
+*Module reference: [[Part5_Plasma_Kinetics_Gyrokinetics_and_Waves#2. Landau Damping]]*
 
 ### Blackboard Delivery Strategy
 1. Linearize 1D Vlasov-Poisson for electrons: $\partial_t f_1 + v \partial_x f_1 - \frac{e E_1}{m} f_0'(v) = 0$, $\partial_x E_1 = -\frac{e}{\epsilon_0}\int f_1 dv$.
@@ -319,7 +319,7 @@ $$D_r \approx 1 - \frac{\omega_p^2}{\omega_r^2} - 3\frac{k^2 v_{th}^2 \omega_p^2
 
 ## Question 17: Dispersion Relation for Electromagnetic Waves in Magnetized Cold Plasmas
 
-*Module reference: [Part5_Plasma_Kinetics_Gyrokinetics_and_Waves](./Part5_Plasma_Kinetics_Gyrokinetics_and_Waves.html#3. Waves in Magnetized Cold Plasmas)*
+*Module reference: [[Part5_Plasma_Kinetics_Gyrokinetics_and_Waves#3. Waves in Magnetized Cold Plasmas]]*
 
 ### Blackboard Delivery Strategy
 1. Set up cold plasma equations: $m_s \dot{\vec{v}}_{1s} = q_s(\vec{E}_1 + \vec{v}_{1s} \times \vec{B}_0)$, with $\vec{B}_0 = B_0 \hat{z}$.
@@ -338,7 +338,7 @@ $$\mathbf{K} = \begin{pmatrix} S & -i D & 0 \\ i D & S & 0 \\ 0 & 0 & P \end{pma
 
 ## Question 18: Qualitative Discussion of the Braginskii Model
 
-*Module reference: [Part6_Two_Fluid_Theory_Transport_and_Microinstabilities](./Part6_Two_Fluid_Theory_Transport_and_Microinstabilities.html#1. The Braginskii Two-Fluid Transport Model)*
+*Module reference: [[Part6_Two_Fluid_Theory_Transport_and_Microinstabilities#1. The Braginskii Two-Fluid Transport Model]]*
 
 ### Blackboard Delivery Strategy
 1. Present the model context: collisional closure to the two-fluid Fokker-Planck system with Landau collision operator.
@@ -354,7 +354,7 @@ $$m_s n \frac{d\vec{v}_s}{dt} = q_s n (\vec{E} + \vec{v}_s \times \vec{B}) - \na
 
 ## Question 19: Drift-Reduced Braginskii Model, Vorticity Equation, and Generalized Ohm's Law
 
-*Module reference: [Part6_Two_Fluid_Theory_Transport_and_Microinstabilities](./Part6_Two_Fluid_Theory_Transport_and_Microinstabilities.html#2. The Drift-Reduced Braginskii Model)*
+*Module reference: [[Part6_Two_Fluid_Theory_Transport_and_Microinstabilities#2. The Drift-Reduced Braginskii Model]]*
 
 ### Blackboard Delivery Strategy
 1. State drift-reduced ordering: $\omega / \Omega_{ci} \ll 1, k_\parallel \ll k_\perp$. Perpendicular velocity given by $E \times B$, diamagnetic, and polarization drifts.
@@ -373,7 +373,7 @@ $$\eta_\parallel j_\parallel = -\nabla_\parallel \phi - \frac{\partial A_\parall
 
 ## Question 20: Resistive Ballooning Mode (RBM) and Dispersion Relation
 
-*Module reference: [Part6_Two_Fluid_Theory_Transport_and_Microinstabilities](./Part6_Two_Fluid_Theory_Transport_and_Microinstabilities.html#3. The Resistive Ballooning Mode (RBM))*
+*Module reference: [[Part6_Two_Fluid_Theory_Transport_and_Microinstabilities#3. The Resistive Ballooning Mode (RBM)]]*
 
 ### Blackboard Delivery Strategy
 1. Physical concept: bad curvature on outboard side ($\vec{\kappa} \parallel \nabla p$) drives Rayleigh-Taylor-like instability, localized where resistivity prevents electrons from shorting out charge separation.
@@ -391,7 +391,7 @@ $$\gamma^2 + \frac{k_\parallel^2 B_0^2}{\eta_\parallel \rho_0 k_\perp^2}\gamma =
 
 ## Question 21: Ambipolarity Condition in Weakly Ionized Plasmas and Strong Magnetic Fields
 
-*Module reference: [Part6_Two_Fluid_Theory_Transport_and_Microinstabilities](./Part6_Two_Fluid_Theory_Transport_and_Microinstabilities.html#4. Ambipolar Diffusion in Weakly Ionized Plasmas)*
+*Module reference: [[Part6_Two_Fluid_Theory_Transport_and_Microinstabilities#4. Ambipolar Diffusion in Weakly Ionized Plasmas]]*
 
 ### Blackboard Delivery Strategy
 1. Write force balance with neutral collisions: $\vec{\Gamma}_s = \pm n \mu_s \vec{E} - D_s \nabla n$, with $\mu_s = \frac{e}{m_s \nu_{sn}}, D_s = \frac{k_B T_s}{m_s \nu_{sn}}$.
@@ -407,7 +407,7 @@ $$\gamma^2 + \frac{k_\parallel^2 B_0^2}{\eta_\parallel \rho_0 k_\perp^2}\gamma =
 
 ## Question 22: Fundamental Equations of Magnetohydrodynamics (MHD)
 
-*Module reference: [Part7_Magnetohydrodynamics_Equilibrium_and_Waves](./Part7_Magnetohydrodynamics_Equilibrium_and_Waves.html#1. Fundamental Equations of Magnetohydrodynamics (MHD))*
+*Module reference: [[Part7_Magnetohydrodynamics_Equilibrium_and_Waves#1. Fundamental Equations of Magnetohydrodynamics (MHD)]]*
 
 ### Blackboard Delivery Strategy
 1. State the three pillars of MHD: quasi-neutrality ($n_e \approx Z n_i$), non-relativistic flows ($v \ll c$, no displacement current $\nabla \times \vec{B} = \mu_0 \vec{j}$), single-fluid variables ($\rho \approx m_i n, \vec{v} \approx \vec{v}_i, \vec{j} = e n (\vec{v}_i - \vec{v}_e)$).
@@ -423,7 +423,7 @@ $$\gamma^2 + \frac{k_\parallel^2 B_0^2}{\eta_\parallel \rho_0 k_\perp^2}\gamma =
 
 ## Question 23: The Z-Pinch Equilibrium, Bennett Relation, and Stability
 
-*Module reference: [Part7_Magnetohydrodynamics_Equilibrium_and_Waves](./Part7_Magnetohydrodynamics_Equilibrium_and_Waves.html#2. Magnetohydrostatic Equilibrium: The Z-Pinch and Bennett Relation)*
+*Module reference: [[Part7_Magnetohydrodynamics_Equilibrium_and_Waves#2. Magnetohydrostatic Equilibrium: The Z-Pinch and Bennett Relation]]*
 
 ### Blackboard Delivery Strategy
 1. Configuration: cylindrical column with axial current $\vec{j} = j_z(r)\hat{z}$ and azimuthal field $\vec{B} = B_\theta(r)\hat{\theta}$.
@@ -441,7 +441,7 @@ $$I^2 = \frac{8\pi}{\mu_0} N k_B (T_e + T_i)$$
 
 ## Question 24: Derivation of the Grad-Shafranov Equation for Tokamak Equilibrium
 
-*Module reference: [Part7_Magnetohydrodynamics_Equilibrium_and_Waves](./Part7_Magnetohydrodynamics_Equilibrium_and_Waves.html#3. Tokamak Toroidal Equilibrium: The Grad-Shafranov Equation)*
+*Module reference: [[Part7_Magnetohydrodynamics_Equilibrium_and_Waves#3. Tokamak Toroidal Equilibrium: The Grad-Shafranov Equation]]*
 
 ### Blackboard Delivery Strategy
 1. Assume axisymmetry ($\partial_\phi = 0$) in $(R, \phi, Z)$.
@@ -459,7 +459,7 @@ $$\Delta^* \psi = -\mu_0 R^2 p'(\psi) - F F'(\psi)$$
 
 ## Question 25: Dispersion Relation of Alfvén Waves in Plasmas
 
-*Module reference: [Part7_Magnetohydrodynamics_Equilibrium_and_Waves](./Part7_Magnetohydrodynamics_Equilibrium_and_Waves.html#4. Magnetohydrodynamic Waves: Alfvén and Magnetosonic Modes)*
+*Module reference: [[Part7_Magnetohydrodynamics_Equilibrium_and_Waves#4. Magnetohydrodynamic Waves: Alfvén and Magnetosonic Modes]]*
 
 ### Blackboard Delivery Strategy
 1. Linearize ideal incompressible MHD about uniform $\vec{B}_0 = B_0 \hat{z}$:
@@ -476,7 +476,7 @@ where $v_A = \frac{B_0}{\sqrt{\mu_0 \rho_0}}$ is the **Alfvén speed**.
 
 ## Question 26: Parker Magnetic Reconnection (Sweet-Parker Model)
 
-*Module reference: [Part8_Reconnection_Relaxation_and_Dynamo_Theory](./Part8_Reconnection_Relaxation_and_Dynamo_Theory.html#1. Magnetic Reconnection: The Sweet-Parker Model)*
+*Module reference: [[Part8_Reconnection_Relaxation_and_Dynamo_Theory#1. Magnetic Reconnection: The Sweet-Parker Model]]*
 
 ### Blackboard Delivery Strategy
 1. Sketch the 2D reconnection geometry: current sheet of length $2L$ and thickness $2\delta$ with inflow $v_{in}$ and outflow $v_{out}$.
@@ -493,7 +493,7 @@ where $S = \frac{\mu_0 L v_A}{\eta}$ is the Lundquist number.
 
 ## Question 27: Woltjer's Theorems and Consequences
 
-*Module reference: [Part8_Reconnection_Relaxation_and_Dynamo_Theory](./Part8_Reconnection_Relaxation_and_Dynamo_Theory.html#2. Woltjer's Theorems and Magnetic Helicity)*
+*Module reference: [[Part8_Reconnection_Relaxation_and_Dynamo_Theory#2. Woltjer's Theorems and Magnetic Helicity]]*
 
 ### Blackboard Delivery Strategy
 1. Define magnetic helicity $K = \int_V \vec{A} \cdot \vec{B} \, d^3x$ for a volume bounded by a magnetic flux surface ($\vec{B} \cdot \hat{n} = 0$). Prove gauge invariance under $\vec{A} \to \vec{A} + \nabla\chi$.
@@ -510,7 +510,7 @@ where $S = \frac{\mu_0 L v_A}{\eta}$ is the Lundquist number.
 
 ## Question 28: Taylor's Plasma Relaxation and Field Reversal in a Screw Pinch
 
-*Module reference: [Part8_Reconnection_Relaxation_and_Dynamo_Theory](./Part8_Reconnection_Relaxation_and_Dynamo_Theory.html#3. Taylor Plasma Relaxation and the Reversed Field Pinch (RFP))*
+*Module reference: [[Part8_Reconnection_Relaxation_and_Dynamo_Theory#3. Taylor Plasma Relaxation and the Reversed Field Pinch (RFP)]]*
 
 ### Blackboard Delivery Strategy
 1. Present Taylor's selective decay hypothesis: in a turbulent plasma with small resistivity, energy dissipates much faster than global helicity ($dW/dt \propto k^2 \eta \gg dK/dt \propto k \eta$). The plasma minimizes $W$ at fixed global $K$.
@@ -526,7 +526,7 @@ This is the **Bessel Function Model (BFM)**.
 
 ## Question 29: Cowling's Anti-Dynamo Theorem and Consequences
 
-*Module reference: [Part8_Reconnection_Relaxation_and_Dynamo_Theory](./Part8_Reconnection_Relaxation_and_Dynamo_Theory.html#4. Dynamo Theory and Magnetic Field Generation)*
+*Module reference: [[Part8_Reconnection_Relaxation_and_Dynamo_Theory#4. Dynamo Theory and Magnetic Field Generation]]*
 
 ### Blackboard Delivery Strategy
 1. State the theorem: a steady-state, axisymmetric magnetic field cannot be maintained by a steady, axisymmetric velocity field in a medium of finite conductivity.
@@ -544,7 +544,7 @@ This is the **Bessel Function Model (BFM)**.
 
 ## Question 30: Mean Field Magnetohydrodynamics and the Turbulent Dynamo
 
-*Module reference: [Part8_Reconnection_Relaxation_and_Dynamo_Theory](./Part8_Reconnection_Relaxation_and_Dynamo_Theory.html#4. Dynamo Theory and Magnetic Field Generation)*
+*Module reference: [[Part8_Reconnection_Relaxation_and_Dynamo_Theory#4. Dynamo Theory and Magnetic Field Generation]]*
 
 ### Blackboard Delivery Strategy
 1. Introduce Reynolds decomposition for velocity and magnetic fields: $\vec{v} = \langle\vec{v}\rangle + \vec{v}', \vec{B} = \langle\vec{B}\rangle + \vec{B}'$.
@@ -560,10 +560,10 @@ $$\vec{\mathcal{E}} = \alpha \langle\vec{B}\rangle - \beta \nabla \times \langle
    - $\Omega$-effect: differential rotation shears poloidal field into toroidal field.
    - $\alpha$-effect: helical turbulence twists toroidal field back into poloidal field, closing the regenerative dynamo loop in stars and galaxies.
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (1)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Fluid_and_Plasma_Dynamics_MOC]]
+
 

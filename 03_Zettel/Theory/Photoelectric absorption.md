@@ -4,7 +4,7 @@ title: "Photoelectric absorption"
 ---
 # X-ray Photoelectric Absorption
 
-In the complex [refractive index](Grazing%20incidence.html) of a material:
+In the complex [[Grazing incidence|refractive index]] of a material:
 $$n = 1 - \delta + i\beta$$
 the imaginary part $\beta$ is directly related to **photoelectric absorption**.  
 It describes how X-ray photons are attenuated as they travel through matter.
@@ -67,7 +67,7 @@ $$\mu = n_{atoms} \cdot \sigma_{ph}$$
 Because photoelectric absorption is dominant at low X-ray energies:
 - Mirror coatings (e.g. Au, Ir, Pt) are chosen for **low $\beta$** to minimize absorption and maximize reflectivity
 - The **critical angle** $\theta_c \approx \sqrt{2\delta}$ sets the grazing incidence limit, but $\beta$ determines how much intensity is lost even below $\theta_c$
-- Detectors like [CCDs](CCDs%20for%20X-rays.html) exploit photoelectric absorption: the incoming photon liberates a charge cloud proportional to $E_{ph}$
+- Detectors like [[CCDs for X-rays|CCDs]] exploit photoelectric absorption: the incoming photon liberates a charge cloud proportional to $E_{ph}$
 
 ---
 
@@ -80,22 +80,21 @@ Because photoelectric absorption is dominant at low X-ray energies:
 | Signature       | Absorption edges at shell binding energies |
 | Role in $n$     | Encoded in imaginary part $\beta$          |
 
-> **Exam tip:** photoelectric absorption is the *dominant* photon-matter interaction at X-ray energies below ~100 keV, above which Compton scattering takes over. See [Compton scattering and pair production](Compton%20scattering%20and%20pair%20production.html).
+> **Exam tip:** photoelectric absorption is the *dominant* photon-matter interaction at X-ray energies below ~100 keV, above which Compton scattering takes over. See [[Compton scattering and pair production]].
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (11)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Atmospheric%20transmission.html" class="backlink-item">Atmospheric transmission</a></li>
-    <li class="backlink-item-wrap"><a href="Compton%20scattering%20and%20pair%20production.html" class="backlink-item">Compton scattering and pair production</a></li>
-    <li class="backlink-item-wrap"><a href="Continuum%20opacity%20sources.html" class="backlink-item">Continuum opacity sources</a></li>
-    <li class="backlink-item-wrap"><a href="Grazing%20incidence.html" class="backlink-item">Grazing incidence</a></li>
-    <li class="backlink-item-wrap"><a href="Luminosity%20and%20Flux%20for%20-Instrumentations.html" class="backlink-item">Luminosity and Flux for -Instrumentations</a></li>
-    <li class="backlink-item-wrap"><a href="Optical%20depth.html" class="backlink-item">Optical depth</a></li>
-    <li class="backlink-item-wrap"><a href="Other%20detectors.html" class="backlink-item">Other detectors</a></li>
-    <li class="backlink-item-wrap"><a href="Photoionization%20rate.html" class="backlink-item">Photoionization rate</a></li>
-    <li class="backlink-item-wrap"><a href="Processes%20of%20photon-matter%20interaction.html" class="backlink-item">Processes of photon-matter interaction</a></li>
-    <li class="backlink-item-wrap"><a href="interf/Atmospheric%20transmission.html" class="backlink-item">Atmospheric transmission</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Atmospheric transmission]]
+- [[Compton scattering and pair production]]
+- [[Continuum opacity sources]]
+- [[Grazing incidence]]
+- [[Luminosity and Flux for -Instrumentations]]
+- [[Optical depth]]
+- [[Other detectors]]
+- [[Photoionization rate]]
+- [[Processes of photon-matter interaction]]
+- [[Lab_High-Energy_MOC]]
+
 

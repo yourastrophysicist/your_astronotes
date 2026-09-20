@@ -9,7 +9,7 @@ the second-semester Astronomical Spectroscopy course at U Padova, AY 2025/2026, 
 every lecture is one stage in this chain:
 $$\text{atomic physics} \to \text{level populations (Boltzmann + Saha)} \to \text{radiative transfer} \to \text{absorption / emission lines} \to \text{spectrograph} \to \text{calibrated spectrum} \to \text{plasma diagnostics}$$
 
-it is the *complement* to [Observational_Astrophysics_MOC](../../04_Atlas/Observational_Astrophysics_MOC.html): where Obs Astro turns photons into magnitudes (one number per source), Spectroscopy resolves photons by wavelength (a vector per source) and asks what the gas was that emitted them.
+it is the *complement* to [[Observational_Astrophysics_MOC]]: where Obs Astro turns photons into magnitudes (one number per source), Spectroscopy resolves photons by wavelength (a vector per source) and asks what the gas was that emitted them.
 
 ## the two physical settings
 
@@ -38,15 +38,15 @@ oral exam questions almost always sit in one of these:
 
 ## see also
 
-- [Astronomical_Spectroscopy_MOC](../../04_Atlas/Astronomical_Spectroscopy_MOC.html)
-- [Observational_Astrophysics_MOC](../../04_Atlas/Observational_Astrophysics_MOC.html)
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
+- [[Astronomical_Spectroscopy_MOC]]
+- [[Observational_Astrophysics_MOC]]
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
 - Exams summer 2026 master plan
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (1)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Astronomical_Spectroscopy_MOC]]
+
 

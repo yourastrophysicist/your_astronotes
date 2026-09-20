@@ -5,7 +5,7 @@ title: "12_AI_and_Machine_Learning_in_Exoplanet_Science"
 # Lesson 12 – AI and Machine Learning in Exoplanet Science
 
 *Exoplanetary Astrophysics, Prof. Tiziano Zingales (Guest Lecture 18/11/2025)*  
-*Index: [Exoplanetary_Astrophysics_MOC](../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)*
+*Index: [[Exoplanetary_Astrophysics_MOC]]*
 
 ---
 
@@ -105,15 +105,15 @@ While neural networks provide immense acceleration, physical interpretation dema
 ---
 
 ## Cross-Links & Vault Navigation
-- Master Map of Content: [Exoplanetary_Astrophysics_MOC](../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)
-- Previous Lecture: [11_High_Precision_Spectrographs_and_Doppler_Measurement](./11_High_Precision_Spectrographs_and_Doppler_Measurement.html)
-- Next Lecture: [13_RV_Wavelength_Calibration_and_Error_Budgets](./13_RV_Wavelength_Calibration_and_Error_Budgets.html)
-- Related Notes: [08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx](../Computational_Astrophysics/08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx.html) | Exoplanetary atmospheres and transmission spectroscopy
+- Master Map of Content: [[Exoplanetary_Astrophysics_MOC]]
+- Previous Lecture: [[11_High_Precision_Spectrographs_and_Doppler_Measurement]]
+- Next Lecture: [[13_RV_Wavelength_Calibration_and_Error_Budgets]]
+- Related Notes: [[08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx]] | Exoplanetary atmospheres and transmission spectroscopy
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (1)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Exoplanetary_Astrophysics_MOC]]
+
 

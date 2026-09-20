@@ -28,13 +28,13 @@ each bright fringe corresponds to a specific thickness $d_m = m\lambda/(2 n_f)$.
 
 simple cases:
 - **wedge** (thickness varies linearly): fringes are *straight, parallel lines*
-- **circular gap** (e.g. between a flat and a curved lens): fringes are *circles* — these are [Newton's rings](Newton%27s%20rings.html)
+- **circular gap** (e.g. between a flat and a curved lens): fringes are *circles* — these are [[Newton's rings]]
 - **soap bubble**: thickness varies in complex curves; fringes follow contour curves
 - **oil film on water**: thickness depends on local film age; the iridescent colors are equal-thickness fringes in white light
 
 ## the relation to other fringes
 
-distinction from [Fringes of equal inclination](Fringes%20of%20equal%20inclination.html):
+distinction from [[Fringes of equal inclination]]:
 - equal-thickness: thickness varies, angle is fixed → contours follow thickness
 - equal-inclination: thickness fixed, angle varies → rings follow angle
 
@@ -77,20 +77,18 @@ this is *the* modern method for optical-element characterization. used in:
 
 ## see also
 
-- [Optical path difference OPD](Optical%20path%20difference%20OPD.html)
-- [Fringes of equal inclination](Fringes%20of%20equal%20inclination.html)
-- [Newton's rings](Newton%27s%20rings.html)
-- [Amplitude-division interferometers](../Amplitude-division%20interferometers.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Optical path difference OPD]]
+- [[Fringes of equal inclination]]
+- [[Newton's rings]]
+- [[Amplitude-division interferometers]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Fringes%20of%20equal%20inclination.html" class="backlink-item">Fringes of equal inclination</a></li>
-    <li class="backlink-item-wrap"><a href="../Newton%27s%20rings.html" class="backlink-item">Newton's rings</a></li>
-    <li class="backlink-item-wrap"><a href="Fringes%20of%20equal%20inclination.html" class="backlink-item">Fringes of equal inclination</a></li>
-    <li class="backlink-item-wrap"><a href="Newton%27s%20rings.html" class="backlink-item">Newton's rings</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Fringes of equal inclination]]
+- [[Newton's rings]]
+- [[Astronomical_Interferometry_MOC]]
+
 

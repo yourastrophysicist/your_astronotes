@@ -32,15 +32,15 @@ in cold molecular clouds, turbulence is supersonic ($\mathcal{M} \sim 5 - 20$), 
 
 ## see also
 
-- [Astrophysics_of_the_Interstellar_Medium_MOC](../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html)
-- [Rankine-Hugoniot shock jump conditions](Rankine-Hugoniot%20shock%20jump%20conditions.html)
-- [Carraro_08_Shocks_Turbulence_and_MHD_Waves](../../02_Literature/Lectures/Interstellar_Medium/Carraro_08_Shocks_Turbulence_and_MHD_Waves.html)
+- [[Astrophysics_of_the_Interstellar_Medium_MOC]]
+- [[Rankine-Hugoniot shock jump conditions]]
+- [[Carraro_08_Shocks_Turbulence_and_MHD_Waves]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Kolmogorov%20K41%20turbulence%20cascade%20and%20five-thirds%20law.html" class="backlink-item">Kolmogorov K41 turbulence cascade and five-thirds law</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html" class="backlink-item">Astrophysics_of_the_Interstellar_Medium_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Kolmogorov K41 turbulence cascade and five-thirds law]]
+- [[Astrophysics_of_the_Interstellar_Medium_MOC]]
+
 

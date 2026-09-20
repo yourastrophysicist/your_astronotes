@@ -4,7 +4,7 @@ title: "Galaxy color, density and morphology"
 ---
 # Galaxy Color, Density and Morphology
 
-Parent [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html) · [Color bimodality of galaxies](Color%20bimodality%20of%20galaxies.html) · [Pablo_02_Statistical_properties_of_galaxies](../../02_Literature/Lectures/Observational_Cosmology/Pablo_02_Statistical_properties_of_galaxies.html)
+Parent [[Astrophysics_of_Galaxies_MOC]] · [[Color bimodality of galaxies]] · [[Pablo_02_Statistical_properties_of_galaxies]]
 
 ## 1. The Three Correlated Axes of Galaxy Populations
 
@@ -213,9 +213,9 @@ Key quantitative takeaways for the blackboard
 
 ## Connections
 
-- Statistical properties - [Color bimodality of galaxies](Color%20bimodality%20of%20galaxies.html), [Red sequence and blue cloud](Red%20sequence%20and%20blue%20cloud.html)
-- Transformation mechanisms - [Galaxy mergers and SF](Galaxy%20mergers%20and%20SF.html), [Green valley and quenching tracks](Green%20valley%20and%20quenching%20tracks.html)
-- Environmental scaling - [Halo gravity suppression of galaxy formation](Halo%20gravity%20suppression%20of%20galaxy%20formation.html), [LF by morphology and SED](LF%20by%20morphology%20and%20SED.html)
+- Statistical properties - [[Color bimodality of galaxies]], [[Red sequence and blue cloud]]
+- Transformation mechanisms - [[Galaxy mergers and SF]], [[Green valley and quenching tracks]]
+- Environmental scaling - [[Halo gravity suppression of galaxy formation]], [[LF by morphology and SED]]
 
 ---
 
@@ -255,24 +255,24 @@ Key quantitative takeaways for the blackboard
 
 ![dressler1997_cluster_images.png](../../assets/images/dressler1997_cluster_images.png)
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (15)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Alpha-Fe%20enhancement.html" class="backlink-item">Alpha-Fe enhancement</a></li>
-    <li class="backlink-item-wrap"><a href="Color%20bimodality%20of%20galaxies.html" class="backlink-item">Color bimodality of galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="Coma%20cluster.html" class="backlink-item">Coma cluster</a></li>
-    <li class="backlink-item-wrap"><a href="Eigenspectra%20and%20spectral%20types.html" class="backlink-item">Eigenspectra and spectral types</a></li>
-    <li class="backlink-item-wrap"><a href="Galaxy%20mergers%20and%20SF.html" class="backlink-item">Galaxy mergers and SF</a></li>
-    <li class="backlink-item-wrap"><a href="Galaxy%20spectroscopy%20by%20type.html" class="backlink-item">Galaxy spectroscopy by type</a></li>
-    <li class="backlink-item-wrap"><a href="Green%20valley%20and%20quenching%20tracks.html" class="backlink-item">Green valley and quenching tracks</a></li>
-    <li class="backlink-item-wrap"><a href="H%20I%20regions.html" class="backlink-item">H I regions</a></li>
-    <li class="backlink-item-wrap"><a href="Halo%20gravity%20suppression%20of%20galaxy%20formation.html" class="backlink-item">Halo gravity suppression of galaxy formation</a></li>
-    <li class="backlink-item-wrap"><a href="Hubble%20morphological%20sequence.html" class="backlink-item">Hubble morphological sequence</a></li>
-    <li class="backlink-item-wrap"><a href="LF%20by%20morphology%20and%20SED.html" class="backlink-item">LF by morphology and SED</a></li>
-    <li class="backlink-item-wrap"><a href="Red%20sequence%20and%20blue%20cloud.html" class="backlink-item">Red sequence and blue cloud</a></li>
-    <li class="backlink-item-wrap"><a href="Virgo%20cluster.html" class="backlink-item">Virgo cluster</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Alpha-Fe enhancement]]
+- [[Color bimodality of galaxies]]
+- [[Coma cluster]]
+- [[Eigenspectra and spectral types]]
+- [[Galaxy mergers and SF]]
+- [[Galaxy spectroscopy by type]]
+- [[Green valley and quenching tracks]]
+- [[H I regions]]
+- [[Halo gravity suppression of galaxy formation]]
+- [[Hubble morphological sequence]]
+- [[LF by morphology and SED]]
+- [[Red sequence and blue cloud]]
+- [[Virgo cluster]]
+- [[Astrophysics_of_Galaxies_MOC]]
+- [[Observational_Cosmology_MOC]]
+
 

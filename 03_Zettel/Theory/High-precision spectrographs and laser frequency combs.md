@@ -21,16 +21,16 @@ high-precision instruments (HARPS, HARPS-N, ESPRESSO, EXPRES) share key design p
 
 ## see also
 
-- [Exoplanetary_Astrophysics_MOC](../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)
-- [11_High_Precision_Spectrographs_and_Doppler_Measurement](../../02_Literature/Lectures/Exoplanetary_Astrophysics/11_High_Precision_Spectrographs_and_Doppler_Measurement.html)
-- [13_RV_Wavelength_Calibration_and_Error_Budgets](../../02_Literature/Lectures/Exoplanetary_Astrophysics/13_RV_Wavelength_Calibration_and_Error_Budgets.html)
-- [Keplerian radial velocity and Doppler semi-amplitude](Keplerian%20radial%20velocity%20and%20Doppler%20semi-amplitude.html)
+- [[Exoplanetary_Astrophysics_MOC]]
+- [[11_High_Precision_Spectrographs_and_Doppler_Measurement]]
+- [[13_RV_Wavelength_Calibration_and_Error_Budgets]]
+- [[Keplerian radial velocity and Doppler semi-amplitude]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Keplerian%20radial%20velocity%20and%20Doppler%20semi-amplitude.html" class="backlink-item">Keplerian radial velocity and Doppler semi-amplitude</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Keplerian radial velocity and Doppler semi-amplitude]]
+- [[Exoplanetary_Astrophysics_MOC]]
+
 

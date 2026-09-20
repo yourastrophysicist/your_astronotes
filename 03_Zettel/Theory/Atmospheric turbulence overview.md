@@ -47,7 +47,7 @@ with $C_n^2$ the **structure parameter**. integrated along the line of sight, th
 
 $$D_\phi(r) = 6.88 (r/r_0)^{5/3}$$
 
-with $r_0$ the Fried parameter (see [Kolmogorov turbulence](interf/Kolmogorov%20turbulence.html) and [Fried parameter $r_0$](interf/Fried%20parameter%20%24r_0%24.html)).
+with $r_0$ the Fried parameter (see [[Kolmogorov turbulence]] and [[Fried parameter $r_0$]]).
 
 this 5/3 power-law is the *defining* mathematical signature of Kolmogorov turbulence. it has been verified at every well-characterized observatory.
 
@@ -104,11 +104,11 @@ scintillation is usually a few percent of total flux but can rise to tens of per
 
 ## see also
 
-- [Kolmogorov turbulence](interf/Kolmogorov%20turbulence.html)
-- [Structure function and correlation function](interf/Structure%20function%20and%20correlation%20function.html)
-- [Fried parameter $r_0$](interf/Fried%20parameter%20%24r_0%24.html)
-- [Isoplanatic patch](interf/Isoplanatic%20patch.html)
-- [Frozen turbulence and Taylor hypothesis](interf/Frozen%20turbulence%20and%20Taylor%20hypothesis.html)
-- [Scintillation and twinkling](interf/Scintillation%20and%20twinkling.html)
-- [Adaptive optics](interf/Adaptive%20optics.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Kolmogorov turbulence]]
+- [[Structure function and correlation function]]
+- [[Fried parameter $r_0$]]
+- [[Isoplanatic patch]]
+- [[Frozen turbulence and Taylor hypothesis]]
+- [[Scintillation and twinkling]]
+- [[Adaptive optics]]
+- [[Astronomical_Interferometry_MOC]]

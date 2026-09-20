@@ -77,8 +77,8 @@ practical: most isoplanatic-angle-degrading turbulence is at *jet-stream altitud
 
 ## see also
 
-- [Atmospheric turbulence overview](interf/Atmospheric%20turbulence%20overview.html)
-- [Fried parameter $r_0$](interf/Fried%20parameter%20%24r_0%24.html)
-- [Adaptive optics](interf/Adaptive%20optics.html)
-- [Guide stars and laser guide stars](interf/Guide%20stars%20and%20laser%20guide%20stars.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Atmospheric turbulence overview]]
+- [[Fried parameter $r_0$]]
+- [[Adaptive optics]]
+- [[Guide stars and laser guide stars]]
+- [[Astronomical_Interferometry_MOC]]

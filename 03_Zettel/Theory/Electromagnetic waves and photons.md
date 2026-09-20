@@ -68,9 +68,9 @@ $$\bar{n}_{\text{photon}} = \frac{1}{e^{h\nu / k_B T} - 1}$$
 
 ## see also
 
-- [Radio telescope components](Radio%20telescope%20components.html)
-- [DOnofrio Exam Retake - Radio vs Optical Physics and Michelson Synthesis](DOnofrio%20Exam%20Retake%20-%20Radio%20vs%20Optical%20Physics%20and%20Michelson%20Synthesis.html)
-- [Heterodyne vs direct detection](interf/Heterodyne%20vs%20direct%20detection.html)
-- [Photon noise and statistics](interf/Photon%20noise%20and%20statistics.html)
-- [Plane waves and Huygens principle](interf/Plane%20waves%20and%20Huygens%20principle.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Radio telescope components]]
+- [[DOnofrio Exam Retake - Radio vs Optical Physics and Michelson Synthesis]]
+- [[Heterodyne vs direct detection]]
+- [[Photon noise and statistics]]
+- [[Plane waves and Huygens principle]]
+- [[Astronomical_Interferometry_MOC]]

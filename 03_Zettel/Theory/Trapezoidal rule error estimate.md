@@ -93,18 +93,18 @@ so for periodic integrands, plain trapezoidal *beats Simpson's rule* at large $N
 
 ## see also
 
-- [Trapezoidal rule](Trapezoidal%20rule.html)
-- [Simpson's rule](Simpson%27s%20rule.html)
-- [Truncation error and order of accuracy](Truncation%20error%20and%20order%20of%20accuracy.html)
-- [Built-in scipy integrators](Built-in%20scipy%20integrators.html)
-- [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
+- [[Trapezoidal rule]]
+- [[Simpson's rule]]
+- [[Truncation error and order of accuracy]]
+- [[Built-in scipy integrators]]
+- [[Mathematical_Numerical_Methods_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Simpson%27s%20rule.html" class="backlink-item">Simpson's rule</a></li>
-    <li class="backlink-item-wrap"><a href="Trapezoidal%20rule.html" class="backlink-item">Trapezoidal rule</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Simpson's rule]]
+- [[Trapezoidal rule]]
+- [[Mathematical_Numerical_Methods_MOC]]
+
 

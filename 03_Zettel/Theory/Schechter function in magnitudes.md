@@ -192,12 +192,12 @@ When sketching the Schechter function in magnitudes on the blackboard.
 
 ## 7. See Also
 
-- [Schechter function](Schechter%20function.html)
-- [Integrals of the Schechter function](Integrals%20of%20the%20Schechter%20function.html)
-- [Luminosity function definition](Luminosity%20function%20definition.html)
-- [Petrosian radius](Petrosian%20radius.html)
-- [SDSS overview](SDSS%20overview.html)
-- [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html)
+- [[Schechter function]]
+- [[Integrals of the Schechter function]]
+- [[Luminosity function definition]]
+- [[Petrosian radius]]
+- [[SDSS overview]]
+- [[Astrophysics_of_Galaxies_MOC]]
 
 ---
 
@@ -238,15 +238,15 @@ When sketching the Schechter function in magnitudes on the blackboard.
 
 ![gal_lf2-12.png](../../assets/images/gal_lf2-12.png)
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Double%20power-law%20modified%20Schechter.html" class="backlink-item">Double power-law modified Schechter</a></li>
-    <li class="backlink-item-wrap"><a href="Luminosity%20function%20definition.html" class="backlink-item">Luminosity function definition</a></li>
-    <li class="backlink-item-wrap"><a href="SDSS%20overview.html" class="backlink-item">SDSS overview</a></li>
-    <li class="backlink-item-wrap"><a href="Schechter%20K-band%20luminosity%20function.html" class="backlink-item">Schechter K-band luminosity function</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Double power-law modified Schechter]]
+- [[Luminosity function definition]]
+- [[SDSS overview]]
+- [[Schechter K-band luminosity function]]
+- [[Astrophysics_of_Galaxies_MOC]]
+- [[Observational_Cosmology_MOC]]
+
 

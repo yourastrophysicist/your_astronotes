@@ -48,12 +48,12 @@ practical pre-2020 list: Mauna Kea ($4200$ m), Cerro Paranal ($2600$ m), Cerro P
 
 ## see also
 
-- [Earth atmosphere for observations](../Earth%20atmosphere%20for%20observations.html)
-- [Atmospheric transparency windows](Atmospheric%20transparency%20windows.html)
-- [Atmospheric extinction](Atmospheric%20extinction.html)
-- [Atmospheric seeing](Atmospheric%20seeing.html)
-- [Sky brightness](../Sky%20brightness.html)
-- [Adaptive optics overview](Adaptive%20optics%20overview.html)
+- [[Earth atmosphere for observations]]
+- [[Atmospheric transparency windows]]
+- [[Atmospheric extinction]]
+- [[Atmospheric seeing]]
+- [[Sky brightness]]
+- [[Adaptive optics overview]]
 
 ---
 
@@ -65,15 +65,13 @@ practical pre-2020 list: Mauna Kea ($4200$ m), Cerro Paranal ($2600$ m), Cerro P
 ![obs_atm-12.png](../../../assets/images/obs_atm-12.png)
 *Temperature inversion layers and turbulence generation at boundary interfaces.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Atmospheric%20seeing.html" class="backlink-item">Atmospheric seeing</a></li>
-    <li class="backlink-item-wrap"><a href="../Atmospheric%20transparency%20windows.html" class="backlink-item">Atmospheric transparency windows</a></li>
-    <li class="backlink-item-wrap"><a href="../Sky%20brightness.html" class="backlink-item">Sky brightness</a></li>
-    <li class="backlink-item-wrap"><a href="Atmospheric%20seeing.html" class="backlink-item">Atmospheric seeing</a></li>
-    <li class="backlink-item-wrap"><a href="Atmospheric%20transparency%20windows.html" class="backlink-item">Atmospheric transparency windows</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Atmospheric seeing]]
+- [[Atmospheric transparency windows]]
+- [[Sky brightness]]
+- [[Observational_Astrophysics_MOC]]
+
 

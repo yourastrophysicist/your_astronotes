@@ -82,7 +82,7 @@ a 50/50 beam splitter on the input would naively give 50/50 on the output ports.
 
 resolution: there are *two* output ports (the detector port and the back-toward-source port). when the detector sees constructive, the back port sees destructive, and vice versa. *energy is conserved across the two ports*, and one port at a time can have 100% or 0%.
 
-this is why pure Michelson is sometimes called "wasteful": half the light goes back toward the source. the [Mach-Zehnder interferometer](interf/Mach-Zehnder%20interferometer.html) uses *both* outputs and is more efficient for some applications.
+this is why pure Michelson is sometimes called "wasteful": half the light goes back toward the source. the [[Mach-Zehnder interferometer]] uses *both* outputs and is more efficient for some applications.
 
 ## the modern variants
 
@@ -108,9 +108,9 @@ both are called "Michelson interferometer" and both share the inventor, but they
 
 ## see also
 
-- [Amplitude-division interferometers](Amplitude-division%20interferometers.html)
-- [Beam splitter physics](interf/Beam%20splitter%20physics.html)
-- [Mach-Zehnder interferometer](interf/Mach-Zehnder%20interferometer.html)
-- [Michelson stellar interferometer](interf/Michelson%20stellar%20interferometer.html)
-- [Optical path difference OPD](interf/Optical%20path%20difference%20OPD.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Amplitude-division interferometers]]
+- [[Beam splitter physics]]
+- [[Mach-Zehnder interferometer]]
+- [[Michelson stellar interferometer]]
+- [[Optical path difference OPD]]
+- [[Astronomical_Interferometry_MOC]]

@@ -86,18 +86,17 @@ a typical Mira observation: 4-8 phases × 2 wavelengths × 5 baselines = 40+ mea
 
 ## see also
 
-- [Stellar diameters and limb darkening](Stellar%20diameters%20and%20limb%20darkening.html)
-- [Stellar surface imaging](Stellar%20surface%20imaging.html)
-- [Dust shells and Wolf-Rayet stars](Dust%20shells%20and%20Wolf-Rayet%20stars.html)
-- [CHARA array](CHARA%20array.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Stellar diameters and limb darkening]]
+- [[Stellar surface imaging]]
+- [[Dust shells and Wolf-Rayet stars]]
+- [[CHARA array]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Dust%20shells%20and%20Wolf-Rayet%20stars.html" class="backlink-item">Dust shells and Wolf-Rayet stars</a></li>
-    <li class="backlink-item-wrap"><a href="Dust%20shells%20and%20Wolf-Rayet%20stars.html" class="backlink-item">Dust shells and Wolf-Rayet stars</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Dust shells and Wolf-Rayet stars]]
+- [[Astronomical_Interferometry_MOC]]
+
 

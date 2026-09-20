@@ -54,7 +54,7 @@ plugging FLRW + a perfect fluid into Einstein's equation gives the **Friedmann e
 $$H^2 = \frac{8\pi G}{3}\rho - \frac{k}{a^2}$$
 $$\frac{\ddot a}{a} = -\frac{4\pi G}{3}(\rho + 3p)$$
 
-these govern the cosmic evolution. see [Friedmann equations](Friedmann%20equations.html).
+these govern the cosmic evolution. see [[Friedmann equations]].
 
 ## redshift physics
 
@@ -72,48 +72,48 @@ depending on which fluid dominates the energy density:
 2. **matter era**: $\rho \propto a^{-3}$, $a \propto t^{2/3}$. $z = 0.5$ to $3400$.
 3. **dark energy era**: $\rho \approx $ const, $a \propto e^{Ht}$. $z < 0.5$, including today.
 
-see [Cosmic eras](Cosmic%20eras.html).
+see [[Cosmic eras]].
 
 ## see also
 
-- [Cosmological principle](Cosmological%20principle.html)
-- [Spatial curvature parameter k](Spatial%20curvature%20parameter%20k.html)
-- [Friedmann equations](Friedmann%20equations.html)
-- [Continuity equation](Continuity%20equation.html)
-- [Equation of state and density scaling](Equation%20of%20state%20and%20density%20scaling.html)
-- [Cosmic eras](Cosmic%20eras.html)
-- [Matter radiation equality](Matter%20radiation%20equality.html)
-- [Hubble constant and deceleration parameter](Hubble%20constant%20and%20deceleration%20parameter.html)
-- [Newtonian Friedmann derivation](Newtonian%20Friedmann%20derivation.html)
+- [[Cosmological principle]]
+- [[Spatial curvature parameter k]]
+- [[Friedmann equations]]
+- [[Continuity equation]]
+- [[Equation of state and density scaling]]
+- [[Cosmic eras]]
+- [[Matter radiation equality]]
+- [[Hubble constant and deceleration parameter]]
+- [[Newtonian Friedmann derivation]]
 - 03_Zettel/Theory/Robertson-Walker metric
-- [Cosmological redshift](Cosmological%20redshift.html)
+- [[Cosmological redshift]]
 - Q18 - derive the acceleration equation
 - Q19 - radiation universe
 - Q20 - matter plus radiation universe
-- [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
-- [Ch 7 - Cosmology](../../02_Literature/Book/Baumann%20GR/Ch%207%20-%20Cosmology.html)
+- [[General_Relativity_MOC]]
+- [[Ch 7 - Cosmology]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (18)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Angular%20diameter%20distance.html" class="backlink-item">Angular diameter distance</a></li>
-    <li class="backlink-item-wrap"><a href="Christoffel%20symbols.html" class="backlink-item">Christoffel symbols</a></li>
-    <li class="backlink-item-wrap"><a href="Comoving%20vs%20proper%20coordinates.html" class="backlink-item">Comoving vs proper coordinates</a></li>
-    <li class="backlink-item-wrap"><a href="Continuity%20equation.html" class="backlink-item">Continuity equation</a></li>
-    <li class="backlink-item-wrap"><a href="Cosmic%20look-back%20time.html" class="backlink-item">Cosmic look-back time</a></li>
-    <li class="backlink-item-wrap"><a href="Cosmological%20redshift.html" class="backlink-item">Cosmological redshift</a></li>
-    <li class="backlink-item-wrap"><a href="Einstein%20equations.html" class="backlink-item">Einstein equations</a></li>
-    <li class="backlink-item-wrap"><a href="Equation%20of%20state%20and%20density%20scaling.html" class="backlink-item">Equation of state and density scaling</a></li>
-    <li class="backlink-item-wrap"><a href="Friedmann%20equations.html" class="backlink-item">Friedmann equations</a></li>
-    <li class="backlink-item-wrap"><a href="Geodesic%20equation.html" class="backlink-item">Geodesic equation</a></li>
-    <li class="backlink-item-wrap"><a href="Killing%20vectors%20and%20conserved%20quantities.html" class="backlink-item">Killing vectors and conserved quantities</a></li>
-    <li class="backlink-item-wrap"><a href="Lambda%20CDM%20current%20parameters.html" class="backlink-item">Lambda CDM current parameters</a></li>
-    <li class="backlink-item-wrap"><a href="Manifold%20metric%20and%20signature.html" class="backlink-item">Manifold metric and signature</a></li>
-    <li class="backlink-item-wrap"><a href="Matter%20radiation%20equality.html" class="backlink-item">Matter radiation equality</a></li>
-    <li class="backlink-item-wrap"><a href="Radial%20comoving%20distance.html" class="backlink-item">Radial comoving distance</a></li>
-    <li class="backlink-item-wrap"><a href="Spatial%20curvature%20parameter%20k.html" class="backlink-item">Spatial curvature parameter k</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Cosmology_of_the_Early_Universe_MOC.html" class="backlink-item">Cosmology_of_the_Early_Universe_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Angular diameter distance]]
+- [[Christoffel symbols]]
+- [[Comoving vs proper coordinates]]
+- [[Continuity equation]]
+- [[Cosmic look-back time]]
+- [[Cosmological redshift]]
+- [[Einstein equations]]
+- [[Equation of state and density scaling]]
+- [[Friedmann equations]]
+- [[Geodesic equation]]
+- [[Killing vectors and conserved quantities]]
+- [[Lambda CDM current parameters]]
+- [[Manifold metric and signature]]
+- [[Matter radiation equality]]
+- [[Radial comoving distance]]
+- [[Spatial curvature parameter k]]
+- [[Cosmology_of_the_Early_Universe_MOC]]
+- [[General_Relativity_MOC]]
+
 

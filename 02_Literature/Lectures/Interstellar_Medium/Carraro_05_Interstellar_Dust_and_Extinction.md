@@ -7,7 +7,7 @@ tags: ""
 
 *Course: Astrophysics of the Interstellar Medium, Master in Astrophysics and Cosmology, Università degli Studi di Padova*  
 *Lecturer: Prof. Giovanni Carraro*  
-*Index: [Astrophysics_of_the_Interstellar_Medium_MOC](../../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html)*
+*Index: [[Astrophysics_of_the_Interstellar_Medium_MOC]]*
 
 ---
 
@@ -200,14 +200,14 @@ Carraro slide 39 highlights a fundamental morphologic trend:
 
 ## see also
 
-- [Astrophysics_of_the_Interstellar_Medium_MOC](../../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html)
-- [Trumpler discovery of interstellar extinction](../../../03_Zettel/Theory/Trumpler%20discovery%20of%20interstellar%20extinction.html)
-- [Cardelli-Clayton-Mathis CCM extinction law](../../../03_Zettel/Theory/Cardelli-Clayton-Mathis%20CCM%20extinction%20law.html)
-- [Diffuse interstellar bands and polycyclic aromatic hydrocarbons](../../../03_Zettel/Theory/Diffuse%20interstellar%20bands%20and%20polycyclic%20aromatic%20hydrocarbons.html)
-- [Catalytic H2 formation on dust grains](../../../03_Zettel/Theory/Catalytic%20H2%20formation%20on%20dust%20grains.html)
-- [Interstellar reddening and the reddening vector](../../../03_Zettel/Theory/Interstellar%20reddening%20and%20the%20reddening%20vector.html)
-- [Carraro_01_Introduction_and_Multi-phase_ISM](./Carraro_01_Introduction_and_Multi-phase_ISM.html)
-- [Carraro_03_HII_Regions_and_Photoionized_Gas](./Carraro_03_HII_Regions_and_Photoionized_Gas.html)
+- [[Astrophysics_of_the_Interstellar_Medium_MOC]]
+- [[Trumpler discovery of interstellar extinction]]
+- [[Cardelli-Clayton-Mathis CCM extinction law]]
+- [[Diffuse interstellar bands and polycyclic aromatic hydrocarbons]]
+- [[Catalytic H2 formation on dust grains]]
+- [[Interstellar reddening and the reddening vector]]
+- [[Carraro_01_Introduction_and_Multi-phase_ISM]]
+- [[Carraro_03_HII_Regions_and_Photoionized_Gas]]
 
 
 ## Lecture Visuals & Dust Extinction Laws
@@ -221,14 +221,14 @@ Carraro slide 39 highlights a fundamental morphologic trend:
 ![Mid-Infrared Dust Emission and Thermal Equilibrium](../../../assets/images/ism_dust_p07.png)
 *Figure ISM-07: Dust thermal emission spectrum governed by modified blackbody emission $F_\nu \propto B_\nu(T_d) \kappa_\nu$ in radiative equilibrium with the interstellar radiation field (ISRF).*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Cardelli-Clayton-Mathis%20CCM%20extinction%20law.html" class="backlink-item">Cardelli-Clayton-Mathis CCM extinction law</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Catalytic%20H2%20formation%20on%20dust%20grains.html" class="backlink-item">Catalytic H2 formation on dust grains</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Diffuse%20interstellar%20bands%20and%20polycyclic%20aromatic%20hydrocarbons.html" class="backlink-item">Diffuse interstellar bands and polycyclic aromatic hydrocarbons</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Trumpler%20discovery%20of%20interstellar%20extinction.html" class="backlink-item">Trumpler discovery of interstellar extinction</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html" class="backlink-item">Astrophysics_of_the_Interstellar_Medium_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Cardelli-Clayton-Mathis CCM extinction law]]
+- [[Catalytic H2 formation on dust grains]]
+- [[Diffuse interstellar bands and polycyclic aromatic hydrocarbons]]
+- [[Trumpler discovery of interstellar extinction]]
+- [[Astrophysics_of_the_Interstellar_Medium_MOC]]
+
 

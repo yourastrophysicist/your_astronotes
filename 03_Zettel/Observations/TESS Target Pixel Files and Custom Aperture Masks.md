@@ -27,14 +27,14 @@ custom_mask = median_frame > threshold
 - Custom masks prevent flux contamination from nearby background stars within the large $21\text{ arcsec/pixel}$ TESS plate scale.
 
 ## Related Notes
-- [Malavolta 08 - TESS Mission Architecture and Target Pixel Files](../../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2008%20-%20TESS%20Mission%20Architecture%20and%20Target%20Pixel%20Files.html)
-- [TESS SAP vs PDCSAP Flux and Cotrending Basis Vectors](TESS%20SAP%20vs%20PDCSAP%20Flux%20and%20Cotrending%20Basis%20Vectors.html)
+- [[Malavolta 08 - TESS Mission Architecture and Target Pixel Files]]
+- [[TESS SAP vs PDCSAP Flux and Cotrending Basis Vectors]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Activities/Laboratory%20Exercise%20-%20TESS%20Target%20Pixel%20Extraction%20and%20Filtering.html" class="backlink-item">Laboratory Exercise - TESS Target Pixel Extraction and Filtering</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Laboratory Exercise - TESS Target Pixel Extraction and Filtering]]
+- [[Astrophysics_Laboratory_2_MOC]]
+
 

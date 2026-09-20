@@ -94,8 +94,8 @@ LBT will remain an important instrument for thermal-IR astronomy and Fizeau imag
 
 ## see also
 
-- [Components of a modern interferometer](interf/Components%20of%20a%20modern%20interferometer.html)
-- [VLTI Very Large Telescope Interferometer](interf/VLTI%20Very%20Large%20Telescope%20Interferometer.html)
-- [CHARA array](interf/CHARA%20array.html)
-- [Adaptive optics](interf/Adaptive%20optics.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Components of a modern interferometer]]
+- [[VLTI Very Large Telescope Interferometer]]
+- [[CHARA array]]
+- [[Adaptive optics]]
+- [[Astronomical_Interferometry_MOC]]

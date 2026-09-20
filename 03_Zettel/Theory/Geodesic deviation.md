@@ -49,26 +49,26 @@ this is **directly geodesic deviation**: the test masses are in free fall, and t
 
 ## see also
 
-- [Riemann tensor](Riemann%20tensor.html)
-- [Geodesic equation](Geodesic%20equation.html)
-- [Ricci tensor and scalar](Ricci%20tensor%20and%20scalar.html)
-- [Newtonian limit of GR](Newtonian%20limit%20of%20GR.html)
-- [Geodesic deviation under a GW](Geodesic%20deviation%20under%20a%20GW.html)
-- [Plus and cross polarizations](Plus%20and%20cross%20polarizations.html)
-- [Schwarzschild effective potential](Schwarzschild%20effective%20potential.html)
+- [[Riemann tensor]]
+- [[Geodesic equation]]
+- [[Ricci tensor and scalar]]
+- [[Newtonian limit of GR]]
+- [[Geodesic deviation under a GW]]
+- [[Plus and cross polarizations]]
+- [[Schwarzschild effective potential]]
 - Q17 - Riemann R_0x0x for a TT plane wave
-- [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
-- [Ch 4 - Spacetime Curvature](../../02_Literature/Book/Baumann%20GR/Ch%204%20-%20Spacetime%20Curvature.html)
-- [Ch 8 - Gravitational Waves](../../02_Literature/Book/Baumann%20GR/Ch%208%20-%20Gravitational%20Waves.html)
+- [[General_Relativity_MOC]]
+- [[Ch 4 - Spacetime Curvature]]
+- [[Ch 8 - Gravitational Waves]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Geodesic%20deviation%20under%20a%20GW.html" class="backlink-item">Geodesic deviation under a GW</a></li>
-    <li class="backlink-item-wrap"><a href="Geodesic%20equation.html" class="backlink-item">Geodesic equation</a></li>
-    <li class="backlink-item-wrap"><a href="Locally%20inertial%20frame.html" class="backlink-item">Locally inertial frame</a></li>
-    <li class="backlink-item-wrap"><a href="Riemann%20tensor.html" class="backlink-item">Riemann tensor</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Geodesic deviation under a GW]]
+- [[Geodesic equation]]
+- [[Locally inertial frame]]
+- [[Riemann tensor]]
+- [[General_Relativity_MOC]]
+
 

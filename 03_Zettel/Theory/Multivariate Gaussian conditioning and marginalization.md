@@ -49,19 +49,19 @@ Conditioning suppresses uncertainty: $\Sigma_{1\mid2} \le \Sigma_{11}$, with equ
 - **Gaussian Process regression**: Conditioning a non-parametric function distribution on observational flux measurements.
 
 ## See Also
-- [Astro-Statistics_and_Cosmology_MOC](../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html)
-- [03_Multivariate_Gaussians_Marginalization_Conditioning_and_Linear_Models](../../02_Literature/Lectures/Astrostatistics/03_Multivariate_Gaussians_Marginalization_Conditioning_and_Linear_Models.html)
-- [Generalized least squares and correlated measurement errors](Generalized%20least%20squares%20and%20correlated%20measurement%20errors.html)
-- [Gaussian Process Regression in Light Curve Detrending](../Computational/Gaussian%20Process%20Regression%20in%20Light%20Curve%20Detrending.html)
+- [[Astro-Statistics_and_Cosmology_MOC]]
+- [[03_Multivariate_Gaussians_Marginalization_Conditioning_and_Linear_Models]]
+- [[Generalized least squares and correlated measurement errors]]
+- [[Gaussian Process Regression in Light Curve Detrending]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Bayesian%20hierarchical%20modeling%20for%20Type%20Ia%20supernovae.html" class="backlink-item">Bayesian hierarchical modeling for Type Ia supernovae</a></li>
-    <li class="backlink-item-wrap"><a href="Generalized%20least%20squares%20and%20correlated%20measurement%20errors.html" class="backlink-item">Generalized least squares and correlated measurement errors</a></li>
-    <li class="backlink-item-wrap"><a href="Marginalized%20versus%20conditional%20parameter%20errors%20in%20Fisher%20forecasting.html" class="backlink-item">Marginalized versus conditional parameter errors in Fisher forecasting</a></li>
-    <li class="backlink-item-wrap"><a href="Principle%20of%20maximum%20entropy%20in%20prior%20assignment.html" class="backlink-item">Principle of maximum entropy in prior assignment</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Bayesian hierarchical modeling for Type Ia supernovae]]
+- [[Generalized least squares and correlated measurement errors]]
+- [[Marginalized versus conditional parameter errors in Fisher forecasting]]
+- [[Principle of maximum entropy in prior assignment]]
+- [[Astro-Statistics_and_Cosmology_MOC]]
+
 

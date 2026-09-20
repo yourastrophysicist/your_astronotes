@@ -2,7 +2,7 @@
 layout: "default"
 title: "Stellar Astrophysics research citations index"
 ---
-a master index of every research paper, survey, and project cited across Milone's 19 lectures. organised by **block + topic** to support exam recall ("which paper showed X?"). use as a lookup index alongside the [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html).
+a master index of every research paper, survey, and project cited across Milone's 19 lectures. organised by **block + topic** to support exam recall ("which paper showed X?"). use as a lookup index alongside the [[Stellar_Astrophysics_MOC]].
 
 ---
 
@@ -239,17 +239,17 @@ these are the papers students should know cold for the exam:
 
 ## see also
 
-- [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
-- [Photometric chromosome maps](Photometric%20chromosome%20maps.html)
-- [The Galactic Bulge](The%20Galactic%20Bulge.html)
-- [Bulge microlensing surveys](Bulge%20microlensing%20surveys.html)
-- [Multiple populations in GCs discovery](Multiple%20populations%20in%20GCs%20discovery.html)
-- [Age-metallicity relation of Galactic GCs](Age-metallicity%20relation%20of%20Galactic%20GCs.html)
+- [[Stellar_Astrophysics_MOC]]
+- [[Photometric chromosome maps]]
+- [[The Galactic Bulge]]
+- [[Bulge microlensing surveys]]
+- [[Multiple populations in GCs discovery]]
+- [[Age-metallicity relation of Galactic GCs]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (1)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Stellar_Astrophysics_MOC.html" class="backlink-item">Stellar_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Stellar_Astrophysics_MOC]]
+
 

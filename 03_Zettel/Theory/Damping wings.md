@@ -27,7 +27,7 @@ so $W \propto \sqrt{N}$, the slope $1/2$ of the curve-of-growth damping regime.
 
 ### stellar Balmer lines
 
-at $T \gtrsim 9000$ K (A0 stars), Stark broadening of H Balmer lines is very strong. the Balmer line profile has a Doppler core saturated to zero flux + extensive Stark damping wings extending tens of Å. the wing extent is a sensitive **gravity diagnostic** ([MK luminosity classes](MK%20luminosity%20classes.html)).
+at $T \gtrsim 9000$ K (A0 stars), Stark broadening of H Balmer lines is very strong. the Balmer line profile has a Doppler core saturated to zero flux + extensive Stark damping wings extending tens of Å. the wing extent is a sensitive **gravity diagnostic** ([[MK luminosity classes]]).
 
 ### Ca II H + K
 
@@ -51,29 +51,29 @@ modern abundance pipelines (turbospectrum, MOOG) include damping wings in the li
 
 ## see also
 
-- [Voigt profile](Voigt%20profile.html)
-- [Curve of growth](Curve%20of%20growth.html)
-- [Equivalent width](Equivalent%20width.html)
-- [Stark broadening](Stark%20broadening.html)
-- [Collisional pressure broadening](Collisional%20pressure%20broadening.html)
-- [Natural broadening Lorentzian](Natural%20broadening%20Lorentzian.html)
-- [Optical depth](Optical%20depth.html)
-- [Hydrogen spectral series](Hydrogen%20spectral%20series.html)
-- [Calcium and CaII H+K](Calcium%20and%20CaII%20H%2BK.html)
-- [Curve of growth abundance analysis](Curve%20of%20growth%20abundance%20analysis.html)
+- [[Voigt profile]]
+- [[Curve of growth]]
+- [[Equivalent width]]
+- [[Stark broadening]]
+- [[Collisional pressure broadening]]
+- [[Natural broadening Lorentzian]]
+- [[Optical depth]]
+- [[Hydrogen spectral series]]
+- [[Calcium and CaII H+K]]
+- [[Curve of growth abundance analysis]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (9)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Collisional%20pressure%20broadening.html" class="backlink-item">Collisional pressure broadening</a></li>
-    <li class="backlink-item-wrap"><a href="Curve%20of%20growth.html" class="backlink-item">Curve of growth</a></li>
-    <li class="backlink-item-wrap"><a href="Equivalent%20width.html" class="backlink-item">Equivalent width</a></li>
-    <li class="backlink-item-wrap"><a href="Line%20profile%20function%20phi%20nu.html" class="backlink-item">Line profile function phi nu</a></li>
-    <li class="backlink-item-wrap"><a href="Lyman-alpha%20forest.html" class="backlink-item">Lyman-alpha forest</a></li>
-    <li class="backlink-item-wrap"><a href="MK%20luminosity%20classes.html" class="backlink-item">MK luminosity classes</a></li>
-    <li class="backlink-item-wrap"><a href="Natural%20broadening%20Lorentzian.html" class="backlink-item">Natural broadening Lorentzian</a></li>
-    <li class="backlink-item-wrap"><a href="Voigt%20profile.html" class="backlink-item">Voigt profile</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Collisional pressure broadening]]
+- [[Curve of growth]]
+- [[Equivalent width]]
+- [[Line profile function phi nu]]
+- [[Lyman-alpha forest]]
+- [[MK luminosity classes]]
+- [[Natural broadening Lorentzian]]
+- [[Voigt profile]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 

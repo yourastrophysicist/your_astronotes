@@ -41,17 +41,17 @@ $$w_{\rm FKP}(r) \approx 1$$
 At high redshifts where galaxies are sparse, shot noise dominates over cosmic variance. Every detected galaxy carries independent information and receives equal weight.
 
 ## See Also
-- [Astro-Statistics_and_Cosmology_MOC](../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html)
-- [08_Galaxy_Clustering_Point_Processes_and_Shot_Noise](../../02_Literature/Lectures/Astrostatistics/08_Galaxy_Clustering_Point_Processes_and_Shot_Noise.html)
-- [Galaxy power spectrum and Poisson shot noise](Galaxy%20power%20spectrum%20and%20Poisson%20shot%20noise.html)
-- [Spatial two-point correlation function and Landy-Szalay estimator](Spatial%20two-point%20correlation%20function%20and%20Landy-Szalay%20estimator.html)
+- [[Astro-Statistics_and_Cosmology_MOC]]
+- [[08_Galaxy_Clustering_Point_Processes_and_Shot_Noise]]
+- [[Galaxy power spectrum and Poisson shot noise]]
+- [[Spatial two-point correlation function and Landy-Szalay estimator]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Galaxy%20power%20spectrum%20and%20Poisson%20shot%20noise.html" class="backlink-item">Galaxy power spectrum and Poisson shot noise</a></li>
-    <li class="backlink-item-wrap"><a href="Spatial%20two-point%20correlation%20function%20and%20Landy-Szalay%20estimator.html" class="backlink-item">Spatial two-point correlation function and Landy-Szalay estimator</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Galaxy power spectrum and Poisson shot noise]]
+- [[Spatial two-point correlation function and Landy-Szalay estimator]]
+- [[Astro-Statistics_and_Cosmology_MOC]]
+
 

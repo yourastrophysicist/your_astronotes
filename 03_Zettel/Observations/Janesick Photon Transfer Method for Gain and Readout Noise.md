@@ -32,16 +32,16 @@ Readout noise in electrons:
 $$\sigma_{\text{RON}} [e^-] = g \cdot \sigma_{\text{RON, ADU}}$$
 
 ## Related Notes
-- [CCD Readout Noise and Output Amplifier](CCD%20Readout%20Noise%20and%20Output%20Amplifier.html)
-- [Bias Frame and Electronic Offset](Bias%20Frame%20and%20Electronic%20Offset.html)
-- [Malavolta 01 - Bias Analysis and Detector Calibration](../../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2001%20-%20Bias%20Analysis%20and%20Detector%20Calibration.html)
+- [[CCD Readout Noise and Output Amplifier]]
+- [[Bias Frame and Electronic Offset]]
+- [[Malavolta 01 - Bias Analysis and Detector Calibration]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Activities/Laboratory%20Exercise%20-%20Bias%20Frame%20Calibration%20and%20RON%20Measurement.html" class="backlink-item">Laboratory Exercise - Bias Frame Calibration and RON Measurement</a></li>
-    <li class="backlink-item-wrap"><a href="CCD%20Readout%20Noise%20and%20Output%20Amplifier.html" class="backlink-item">CCD Readout Noise and Output Amplifier</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Laboratory Exercise - Bias Frame Calibration and RON Measurement]]
+- [[CCD Readout Noise and Output Amplifier]]
+- [[Astrophysics_Laboratory_2_MOC]]
+
 

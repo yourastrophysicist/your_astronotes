@@ -73,10 +73,10 @@ $$\theta_{diff} \approx 1.22 \frac{\lambda}{D}$$
 This is the best possible angular resolution
 	aberrations only make it worse
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (1)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Lab_High-Energy_MOC]]
+
 

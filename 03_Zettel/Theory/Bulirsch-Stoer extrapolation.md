@@ -4,7 +4,7 @@ title: "Bulirsch-Stoer extrapolation"
 ---
 # Bulirsch-Stoer extrapolation
 
-a high-accuracy ODE integrator that uses [Modified midpoint method](Modified%20midpoint%20method.html) at multiple step sizes, then Richardson-extrapolates to $h = 0$. for *very smooth* integrands and high precision targets, it can outperform RK4 by orders of magnitude — ten or more digits of accuracy with a few dozen function evaluations.
+a high-accuracy ODE integrator that uses [[Modified midpoint method]] at multiple step sizes, then Richardson-extrapolates to $h = 0$. for *very smooth* integrands and high precision targets, it can outperform RK4 by orders of magnitude — ten or more digits of accuracy with a few dozen function evaluations.
 
 ## the idea
 
@@ -90,20 +90,20 @@ example: the Voyager spacecraft trajectory was integrated for the original missi
 
 ## see also
 
-- [Modified midpoint method](Modified%20midpoint%20method.html)
-- [Runge-Kutta 4 method](Runge-Kutta%204%20method.html)
-- [Leapfrog integrator](Leapfrog%20integrator.html)
-- [Adaptive step size control](Adaptive%20step%20size%20control.html)
-- [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
+- [[Modified midpoint method]]
+- [[Runge-Kutta 4 method]]
+- [[Leapfrog integrator]]
+- [[Adaptive step size control]]
+- [[Mathematical_Numerical_Methods_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Adaptive%20step%20size%20control.html" class="backlink-item">Adaptive step size control</a></li>
-    <li class="backlink-item-wrap"><a href="Modified%20midpoint%20method.html" class="backlink-item">Modified midpoint method</a></li>
-    <li class="backlink-item-wrap"><a href="Newton%20divided%20differences.html" class="backlink-item">Newton divided differences</a></li>
-    <li class="backlink-item-wrap"><a href="Runge-Kutta%204%20method.html" class="backlink-item">Runge-Kutta 4 method</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Adaptive step size control]]
+- [[Modified midpoint method]]
+- [[Newton divided differences]]
+- [[Runge-Kutta 4 method]]
+- [[Mathematical_Numerical_Methods_MOC]]
+
 

@@ -159,24 +159,24 @@ When asked by Prof. Pizzella - *"What is the SDSS, how did its photometric and s
 
 ## 8. Related Knowledge Base Notes
 
-- [Luminosity function definition](Luminosity%20function%20definition.html) - The $1/V_{\mathrm{max}}$ Schmidt estimator and Malmquist bias in SDSS.
-- [Petrosian radius](Petrosian%20radius.html) - Petrosian photometric apertures adopted for SDSS galaxy flux measurements.
-- [Color bimodality of galaxies](Color%20bimodality%20of%20galaxies.html) - Empirical discovery of the red sequence and blue cloud in SDSS.
-- [Schechter function in magnitudes](Schechter%20function%20in%20magnitudes.html) - Parametric luminosity function fits in SDSS $ugriz$ passbands.
-- [CAS galaxy classification](CAS%20galaxy%20classification.html) - Quantitative structural parameters measured for SDSS galaxies.
+- [[Luminosity function definition]] - The $1/V_{\mathrm{max}}$ Schmidt estimator and Malmquist bias in SDSS.
+- [[Petrosian radius]] - Petrosian photometric apertures adopted for SDSS galaxy flux measurements.
+- [[Color bimodality of galaxies]] - Empirical discovery of the red sequence and blue cloud in SDSS.
+- [[Schechter function in magnitudes]] - Parametric luminosity function fits in SDSS $ugriz$ passbands.
+- [[CAS galaxy classification]] - Quantitative structural parameters measured for SDSS galaxies.
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (9)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Color%20bimodality%20of%20galaxies.html" class="backlink-item">Color bimodality of galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="Deep-field%20surveys.html" class="backlink-item">Deep-field surveys</a></li>
-    <li class="backlink-item-wrap"><a href="Luminosity%20function%20definition.html" class="backlink-item">Luminosity function definition</a></li>
-    <li class="backlink-item-wrap"><a href="MaNGA%20survey.html" class="backlink-item">MaNGA survey</a></li>
-    <li class="backlink-item-wrap"><a href="PCA%20spectral%20classification%20of%20galaxies.html" class="backlink-item">PCA spectral classification of galaxies</a></li>
-    <li class="backlink-item-wrap"><a href="Petrosian%20radius.html" class="backlink-item">Petrosian radius</a></li>
-    <li class="backlink-item-wrap"><a href="Red%20sequence%20and%20blue%20cloud.html" class="backlink-item">Red sequence and blue cloud</a></li>
-    <li class="backlink-item-wrap"><a href="Schechter%20function%20in%20magnitudes.html" class="backlink-item">Schechter function in magnitudes</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Color bimodality of galaxies]]
+- [[Deep-field surveys]]
+- [[Luminosity function definition]]
+- [[MaNGA survey]]
+- [[PCA spectral classification of galaxies]]
+- [[Petrosian radius]]
+- [[Red sequence and blue cloud]]
+- [[Schechter function in magnitudes]]
+- [[Astrophysics_of_Galaxies_MOC]]
+
 

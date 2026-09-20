@@ -53,26 +53,26 @@ each is a direct application of $\Delta\phi = 4GM/(c^2 b)$, integrated over a re
 
 ## see also
 
-- [Photon trajectories and impact parameter](Photon%20trajectories%20and%20impact%20parameter.html)
-- [Schwarzschild metric](Schwarzschild%20metric.html)
-- [Schwarzschild effective potential](Schwarzschild%20effective%20potential.html)
-- [Photon sphere](Photon%20sphere.html)
-- [Perihelion precession](Perihelion%20precession.html)
-- [Effective potential approach](Effective%20potential%20approach.html)
-- [Lensing as a cosmological probe](Lensing%20as%20a%20cosmological%20probe.html)
-- [General_Relativity_MOC](../../04_Atlas/General_Relativity_MOC.html)
-- [Ch 6 - Black Holes](../../02_Literature/Book/Baumann%20GR/Ch%206%20-%20Black%20Holes.html)
+- [[Photon trajectories and impact parameter]]
+- [[Schwarzschild metric]]
+- [[Schwarzschild effective potential]]
+- [[Photon sphere]]
+- [[Perihelion precession]]
+- [[Effective potential approach]]
+- [[Lensing as a cosmological probe]]
+- [[General_Relativity_MOC]]
+- [[Ch 6 - Black Holes]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Gravitational%20lensing%20-%20intro.html" class="backlink-item">Gravitational lensing - intro</a></li>
-    <li class="backlink-item-wrap"><a href="Lensing%20as%20a%20cosmological%20probe.html" class="backlink-item">Lensing as a cosmological probe</a></li>
-    <li class="backlink-item-wrap"><a href="Perihelion%20precession.html" class="backlink-item">Perihelion precession</a></li>
-    <li class="backlink-item-wrap"><a href="Photon%20trajectories%20and%20impact%20parameter.html" class="backlink-item">Photon trajectories and impact parameter</a></li>
-    <li class="backlink-item-wrap"><a href="Schwarzschild%20metric.html" class="backlink-item">Schwarzschild metric</a></li>
-    <li class="backlink-item-wrap"><a href="Strong%20vs%20weak%20lensing.html" class="backlink-item">Strong vs weak lensing</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Gravitational lensing - intro]]
+- [[Lensing as a cosmological probe]]
+- [[Perihelion precession]]
+- [[Photon trajectories and impact parameter]]
+- [[Schwarzschild metric]]
+- [[Strong vs weak lensing]]
+- [[General_Relativity_MOC]]
+
 

@@ -2,7 +2,7 @@
 layout: "default"
 title: "Newtonian derivation of Friedmann"
 ---
-a **Newtonian-only argument** that gives the same Friedmann equation as full GR. uses a uniform self-gravitating sphere + energy conservation. the standard pedagogical introduction. companion: [Newtonian Friedmann derivation](Newtonian%20Friedmann%20derivation.html) for the explicit physics.
+a **Newtonian-only argument** that gives the same Friedmann equation as full GR. uses a uniform self-gravitating sphere + energy conservation. the standard pedagogical introduction. companion: [[Newtonian Friedmann derivation]] for the explicit physics.
 
 ## the setup
 
@@ -58,20 +58,20 @@ historically: Friedmann (1922) derived these equations from GR. McCrea + Milne (
 
 ## see also
 
-- [Newtonian Friedmann derivation](Newtonian%20Friedmann%20derivation.html)
-- [Friedmann equations](Friedmann%20equations.html)
+- [[Newtonian Friedmann derivation]]
+- [[Friedmann equations]]
 - Friedmann equations with Λ
-- [Friedmann models](Friedmann%20models.html)
-- [Spatial curvature parameter k](Spatial%20curvature%20parameter%20k.html)
-- [Cosmological principle](Cosmological%20principle.html)
-- [Density parameters](Density%20parameters.html)
+- [[Friedmann models]]
+- [[Spatial curvature parameter k]]
+- [[Cosmological principle]]
+- [[Density parameters]]
 - Q18 - derive the acceleration equation
-- [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
+- [[Observational_Cosmology_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (1)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Observational_Cosmology_MOC]]
+
 

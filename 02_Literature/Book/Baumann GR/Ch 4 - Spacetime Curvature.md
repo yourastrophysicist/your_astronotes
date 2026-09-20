@@ -4,7 +4,7 @@ title: "Ch 4 - Spacetime Curvature"
 ---
 # Baumann Ch 4, Spacetime Curvature
 
-up: [Baumann GR](./Baumann%20GR.html) · [General_Relativity_MOC](../../../04_Atlas/General_Relativity_MOC.html)
+up: [[Baumann GR]] · [[General_Relativity_MOC]]
 
 *the chapter where curvature finally becomes a precise physical concept. covariant derivative, parallel transport, Killing vectors, the Riemann tensor as the path-dependence of parallel transport, and geodesic deviation as the physical meaning of curvature, the relative acceleration of nearby free particles.*
 
@@ -64,7 +64,7 @@ so **the connection $\Gamma$ in GR is the gauge potential of "local Lorentz symm
 
 ### the Levi-Civita connection, why GR uses one specific $\Gamma$
 
-so far, the connection $\Gamma$ is not unique. there are many possible $\Gamma$'s on a given manifold. GR picks a specific one, the [Levi-Civita connection](../../../03_Zettel/Theory/Levi-Civita%20connection.html), by demanding two extra properties:
+so far, the connection $\Gamma$ is not unique. there are many possible $\Gamma$'s on a given manifold. GR picks a specific one, the [[Levi-Civita connection]], by demanding two extra properties:
 
 1. **torsion-free**: $\Gamma^\alpha{}_{\mu\nu} = \Gamma^\alpha{}_{\nu\mu}$
 2. **metric-compatible**: $\nabla_\lambda g_{\mu\nu} = 0$
@@ -210,7 +210,7 @@ with all indices down ($R_{\mu\nu\rho\sigma} = g_{\mu\lambda}R^\lambda{}_{\nu\rh
 
 these symmetries reduce the components dramatically. starting from $4^4 = 256$ in 4D, we get only **20 independent components**. in 3D, **6**. in 2D, **only 1**.
 
-> the count $20$ is the same number as the $20$ leftover physical $\partial^2 g$ components in a local inertial frame from [Ch 2 - Some Differential Geometry](./Ch%202%20-%20Some%20Differential%20Geometry.html) § 2.5. that is **not** a coincidence: it is the deep statement of "curvature equals second derivatives of the metric, modulo coordinate gauge."
+> the count $20$ is the same number as the $20$ leftover physical $\partial^2 g$ components in a local inertial frame from [[Ch 2 - Some Differential Geometry]] § 2.5. that is **not** a coincidence: it is the deep statement of "curvature equals second derivatives of the metric, modulo coordinate gauge."
 
 ### Bianchi differential identity
 
@@ -218,7 +218,7 @@ a fifth identity, this one differential:
 
 $$\boxed{\,\nabla_\lambda R_{\mu\nu\rho\sigma} + \nabla_\mu R_{\nu\lambda\rho\sigma} + \nabla_\nu R_{\lambda\mu\rho\sigma} = 0\,}$$
 
-the GR analog of $\partial_\lambda F_{\mu\nu} + \partial_\mu F_{\nu\lambda} + \partial_\nu F_{\lambda\mu} = 0$ in EM. this is what forces the conservation of the Einstein tensor, $\nabla^\mu G_{\mu\nu} = 0$, which we will need in [Ch 5 - The Einstein Equation](./Ch%205%20-%20The%20Einstein%20Equation.html).
+the GR analog of $\partial_\lambda F_{\mu\nu} + \partial_\mu F_{\nu\lambda} + \partial_\nu F_{\lambda\mu} = 0$ in EM. this is what forces the conservation of the Einstein tensor, $\nabla^\mu G_{\mu\nu} = 0$, which we will need in [[Ch 5 - The Einstein Equation]].
 
 ### Ricci tensor and scalar
 
@@ -291,26 +291,26 @@ if i had to compress chapter 4 into a paragraph for the oral:
 
 ## connections
 
-- [General_Relativity_MOC](../../../04_Atlas/General_Relativity_MOC.html)
-- [Baumann GR](./Baumann%20GR.html)
-- [Christoffel symbols](../../../03_Zettel/Theory/Christoffel%20symbols.html) · [Levi-Civita connection](../../../03_Zettel/Theory/Levi-Civita%20connection.html) · [Covariant derivative](../../../03_Zettel/Theory/Covariant%20derivative.html) · [Metric compatibility](../../../03_Zettel/Theory/Metric%20compatibility.html) · [Parallel transport](../../../03_Zettel/Theory/Parallel%20transport.html)
-- [Riemann tensor](../../../03_Zettel/Theory/Riemann%20tensor.html) · [Riemann tensor symmetries](../../../03_Zettel/Theory/Riemann%20tensor%20symmetries.html) · [Counting Riemann components](../../../03_Zettel/Theory/Counting%20Riemann%20components.html) · [Ricci tensor and scalar](../../../03_Zettel/Theory/Ricci%20tensor%20and%20scalar.html) · [Bianchi identities](../../../03_Zettel/Theory/Bianchi%20identities.html) · [Geodesic deviation](../../../03_Zettel/Theory/Geodesic%20deviation.html)
-- [Killing vectors and conserved quantities](../../../03_Zettel/Theory/Killing%20vectors%20and%20conserved%20quantities.html)
+- [[General_Relativity_MOC]]
+- [[Baumann GR]]
+- [[Christoffel symbols]] · [[Levi-Civita connection]] · [[Covariant derivative]] · [[Metric compatibility]] · [[Parallel transport]]
+- [[Riemann tensor]] · [[Riemann tensor symmetries]] · [[Counting Riemann components]] · [[Ricci tensor and scalar]] · [[Bianchi identities]] · [[Geodesic deviation]]
+- [[Killing vectors and conserved quantities]]
 - Q3 - covariant derivatives in polar · Q4 - metric compatibility on the 2-sphere · Q5 - Riemann for 1+1 expanding metric · Q6 - Riemann for conformally flat 1+1 · Q7 - geodesics on the 2-sphere · Q8 - null geodesic in static metric · Q17 - Riemann R_0x0x for a TT plane wave
-- previous: [Ch 3 - A First Look at Geodesics](./Ch%203%20-%20A%20First%20Look%20at%20Geodesics.html)
-- next: [Ch 5 - The Einstein Equation](./Ch%205%20-%20The%20Einstein%20Equation.html)
+- previous: [[Ch 3 - A First Look at Geodesics]]
+- next: [[Ch 5 - The Einstein Equation]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (8)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Bianchi%20identities.html" class="backlink-item">Bianchi identities</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Counting%20Riemann%20components.html" class="backlink-item">Counting Riemann components</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Geodesic%20deviation.html" class="backlink-item">Geodesic deviation</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Ricci%20tensor%20and%20scalar.html" class="backlink-item">Ricci tensor and scalar</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Riemann%20tensor%20symmetries.html" class="backlink-item">Riemann tensor symmetries</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Riemann%20tensor.html" class="backlink-item">Riemann tensor</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Sectional%20and%20Gaussian%20curvature.html" class="backlink-item">Sectional and Gaussian curvature</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Bianchi identities]]
+- [[Counting Riemann components]]
+- [[Geodesic deviation]]
+- [[Ricci tensor and scalar]]
+- [[Riemann tensor symmetries]]
+- [[Riemann tensor]]
+- [[Sectional and Gaussian curvature]]
+- [[General_Relativity_MOC]]
+
 

@@ -112,24 +112,24 @@ ${}^{56}\text{Fe}$ has the maximum binding energy per nucleon ($\approx 8.8$ MeV
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Stellar structure equations](Stellar%20structure%20equations.html)
-- [Stellar evolution timescales](Stellar%20evolution%20timescales.html)
-- [Solar evolution and final stages](Solar%20evolution%20and%20final%20stages.html)
-- [Supernovae and compact remnants](Supernovae%20and%20compact%20remnants.html)
-- [BBN_overview](BBN_overview.html)
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Stellar structure equations]]
+- [[Stellar evolution timescales]]
+- [[Solar evolution and final stages]]
+- [[Supernovae and compact remnants]]
+- [[BBN_overview]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (8)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Alpha-Fe%20enhancement.html" class="backlink-item">Alpha-Fe enhancement</a></li>
-    <li class="backlink-item-wrap"><a href="BBN_overview.html" class="backlink-item">BBN_overview</a></li>
-    <li class="backlink-item-wrap"><a href="Radiative%20transport.html" class="backlink-item">Radiative transport</a></li>
-    <li class="backlink-item-wrap"><a href="Solar%20evolution%20and%20final%20stages.html" class="backlink-item">Solar evolution and final stages</a></li>
-    <li class="backlink-item-wrap"><a href="Spectral%20energy%20distributions.html" class="backlink-item">Spectral energy distributions</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20structure%20equations.html" class="backlink-item">Stellar structure equations</a></li>
-    <li class="backlink-item-wrap"><a href="Supernovae%20and%20compact%20remnants.html" class="backlink-item">Supernovae and compact remnants</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Alpha-Fe enhancement]]
+- [[BBN_overview]]
+- [[Radiative transport]]
+- [[Solar evolution and final stages]]
+- [[Spectral energy distributions]]
+- [[Stellar structure equations]]
+- [[Supernovae and compact remnants]]
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+
 

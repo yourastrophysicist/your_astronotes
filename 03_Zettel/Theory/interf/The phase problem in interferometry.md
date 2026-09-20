@@ -62,7 +62,7 @@ each atmospheric phase $\phi_{\rm atm,i}$ appears with opposite signs in two ter
 
 result: $\Phi_{ijk}$ depends only on the *true* visibility phases and is preserved through atmospheric noise. this is the **key technique for optical aperture-synthesis imaging**.
 
-closure phase is not a complete substitute for individual phases (3 baselines give 1 closure relation, but I have 3 phases to recover), but combined with closure amplitudes and assumptions about source shape, it lets us reconstruct images. see [Phase closure](Phase%20closure.html).
+closure phase is not a complete substitute for individual phases (3 baselines give 1 closure relation, but I have 3 phases to recover), but combined with closure amplitudes and assumptions about source shape, it lets us reconstruct images. see [[Phase closure]].
 
 ### 3. self-calibration
 
@@ -115,25 +115,21 @@ both are spectacular demonstrations of how to get around the phase problem.
 
 ## see also
 
-- [Phase closure](Phase%20closure.html)
-- [Closure amplitude](Closure%20amplitude.html)
-- [Self-calibration](Self-calibration.html)
-- [Adaptive optics](Adaptive%20optics.html)
-- [Calibration overview](Calibration%20overview.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Phase closure]]
+- [[Closure amplitude]]
+- [[Self-calibration]]
+- [[Adaptive optics]]
+- [[Calibration overview]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (9)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Closure%20amplitude.html" class="backlink-item">Closure amplitude</a></li>
-    <li class="backlink-item-wrap"><a href="../Phase%20closure.html" class="backlink-item">Phase closure</a></li>
-    <li class="backlink-item-wrap"><a href="../Phase%20referencing.html" class="backlink-item">Phase referencing</a></li>
-    <li class="backlink-item-wrap"><a href="../Self-calibration.html" class="backlink-item">Self-calibration</a></li>
-    <li class="backlink-item-wrap"><a href="Closure%20amplitude.html" class="backlink-item">Closure amplitude</a></li>
-    <li class="backlink-item-wrap"><a href="Phase%20closure.html" class="backlink-item">Phase closure</a></li>
-    <li class="backlink-item-wrap"><a href="Phase%20referencing.html" class="backlink-item">Phase referencing</a></li>
-    <li class="backlink-item-wrap"><a href="Self-calibration.html" class="backlink-item">Self-calibration</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Closure amplitude]]
+- [[Phase closure]]
+- [[Phase referencing]]
+- [[Self-calibration]]
+- [[Astronomical_Interferometry_MOC]]
+
 

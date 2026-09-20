@@ -100,8 +100,8 @@ even if hypertelescopes are never built at scale, the concept frames the discuss
 
 ## see also
 
-- [Nulling interferometry](interf/Nulling%20interferometry.html)
-- [Apodization](interf/Apodization.html)
-- [Crowding limitation](interf/Crowding%20limitation.html)
-- [Future ground-based optical](interf/Future%20ground-based%20optical.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Nulling interferometry]]
+- [[Apodization]]
+- [[Crowding limitation]]
+- [[Future ground-based optical]]
+- [[Astronomical_Interferometry_MOC]]

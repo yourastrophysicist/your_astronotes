@@ -155,16 +155,16 @@ The spectral resolution is **higher at lower energies**
 ![xray_detector_p3_img1.png](../../assets/images/xray_detector_p3_img1.png)
 *CCD energy resolution: Fano factor $F \approx 0.115$ in silicon, theoretical FWHM $\Delta E = 2.355\sqrt{F w E_{\rm ph} + \sigma_{\rm RON}^2}$.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="CCD%20readout.html" class="backlink-item">CCD readout</a></li>
-    <li class="backlink-item-wrap"><a href="Charge-Coupled%20Device.html" class="backlink-item">Charge-Coupled Device</a></li>
-    <li class="backlink-item-wrap"><a href="Luminosity%20and%20Flux%20for%20-Instrumentations.html" class="backlink-item">Luminosity and Flux for -Instrumentations</a></li>
-    <li class="backlink-item-wrap"><a href="Other%20detectors.html" class="backlink-item">Other detectors</a></li>
-    <li class="backlink-item-wrap"><a href="Photoelectric%20absorption.html" class="backlink-item">Photoelectric absorption</a></li>
-    <li class="backlink-item-wrap"><a href="The%20p-n%20junction.html" class="backlink-item">The p-n junction</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[CCD readout]]
+- [[Charge-Coupled Device]]
+- [[Luminosity and Flux for -Instrumentations]]
+- [[Other detectors]]
+- [[Photoelectric absorption]]
+- [[The p-n junction]]
+- [[Lab_High-Energy_MOC]]
+
 

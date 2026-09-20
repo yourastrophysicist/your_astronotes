@@ -31,7 +31,7 @@ the exam template I have:
 
 ## what to bring (mentally) to the exam
 
-- the **problem-class taxonomy** in [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html) — recognise which of the seven boxes the exercise lives in, on the first read
+- the **problem-class taxonomy** in [[Mathematical_Numerical_Methods_MOC]] — recognise which of the seven boxes the exercise lives in, on the first read
 - the **code snippet patterns** I have memorized for each box (loadtxt + plot, inverse sampling one-liner, MC integral one-liner, midpoint + plot energy)
 - a clear sense of **what to plot**: every numerical result needs a verification plot. histogram with overplotted analytic. integral vs N. orbits in xy plus $\Delta E/E$ vs t
 
@@ -67,17 +67,17 @@ so a bad-looking but correct plot loses points; a beautiful plot from wrong code
 
 ## see also
 
-- [Math Numerical Methods course intro](Math%20Numerical%20Methods%20course%20intro.html)
-- [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html) — full topic map
-- [Numerical problem solving workflow](Numerical%20problem%20solving%20workflow.html) — the meta-recipe inside one exercise
+- [[Math Numerical Methods course intro]]
+- [[Mathematical_Numerical_Methods_MOC]] — full topic map
+- [[Numerical problem solving workflow]] — the meta-recipe inside one exercise
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Math%20Numerical%20Methods%20course%20intro.html" class="backlink-item">Math Numerical Methods course intro</a></li>
-    <li class="backlink-item-wrap"><a href="Math%20Numerical%20Methods%20equation%20sheet.html" class="backlink-item">Math Numerical Methods equation sheet</a></li>
-    <li class="backlink-item-wrap"><a href="Numerical%20problem%20solving%20workflow.html" class="backlink-item">Numerical problem solving workflow</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Math Numerical Methods course intro]]
+- [[Math Numerical Methods equation sheet]]
+- [[Numerical problem solving workflow]]
+- [[Mathematical_Numerical_Methods_MOC]]
+
 

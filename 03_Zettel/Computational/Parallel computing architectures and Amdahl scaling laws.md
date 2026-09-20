@@ -38,18 +38,18 @@ speedup scales linearly with processor count $N$, demonstrating that massive par
 
 ## see also
 
-- [Computational_Astrophysics_MOC](../../04_Atlas/Computational_Astrophysics_MOC.html)
-- [11_Parallel_Computing_Architectures_and_HPC_Scaling](../../02_Literature/Lectures/Computational_Astrophysics/11_Parallel_Computing_Architectures_and_HPC_Scaling.html)
-- [MPI distributed memory programming with mpi4py](MPI%20distributed%20memory%20programming%20with%20mpi4py.html)
-- [CloudVeneto HPC OpenStack infrastructure and remote clusters](CloudVeneto%20HPC%20OpenStack%20infrastructure%20and%20remote%20clusters.html)
+- [[Computational_Astrophysics_MOC]]
+- [[11_Parallel_Computing_Architectures_and_HPC_Scaling]]
+- [[MPI distributed memory programming with mpi4py]]
+- [[CloudVeneto HPC OpenStack infrastructure and remote clusters]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="CloudVeneto%20HPC%20OpenStack%20infrastructure%20and%20remote%20clusters.html" class="backlink-item">CloudVeneto HPC OpenStack infrastructure and remote clusters</a></li>
-    <li class="backlink-item-wrap"><a href="MPI%20distributed%20memory%20programming%20with%20mpi4py.html" class="backlink-item">MPI distributed memory programming with mpi4py</a></li>
-    <li class="backlink-item-wrap"><a href="Monte%20Carlo%20integration%20and%20cursed%20dimensions.html" class="backlink-item">Monte Carlo integration and cursed dimensions</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[CloudVeneto HPC OpenStack infrastructure and remote clusters]]
+- [[MPI distributed memory programming with mpi4py]]
+- [[Monte Carlo integration and cursed dimensions]]
+- [[Computational_Astrophysics_MOC]]
+
 

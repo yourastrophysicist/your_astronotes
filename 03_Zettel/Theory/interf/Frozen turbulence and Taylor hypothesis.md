@@ -81,22 +81,20 @@ for design purposes, Taylor's hypothesis is good enough to set $\tau_0$ values; 
 
 ## see also
 
-- [Atmospheric turbulence overview](Atmospheric%20turbulence%20overview.html)
-- [Kolmogorov turbulence](Kolmogorov%20turbulence.html)
-- [Fried parameter $r_0$](Fried%20parameter%20%24r_0%24.html)
-- [Adaptive optics](Adaptive%20optics.html)
-- [Wavefront sensors](Wavefront%20sensors.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Atmospheric turbulence overview]]
+- [[Kolmogorov turbulence]]
+- [[Fried parameter $r_0$]]
+- [[Adaptive optics]]
+- [[Wavefront sensors]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Atmospheric%20turbulence%20overview.html" class="backlink-item">Atmospheric turbulence overview</a></li>
-    <li class="backlink-item-wrap"><a href="../Fried%20parameter%20%24r_0%24.html" class="backlink-item">Fried parameter $r_0$</a></li>
-    <li class="backlink-item-wrap"><a href="Atmospheric%20turbulence%20overview.html" class="backlink-item">Atmospheric turbulence overview</a></li>
-    <li class="backlink-item-wrap"><a href="Fried%20parameter%20%24r_0%24.html" class="backlink-item">Fried parameter $r_0$</a></li>
-    <li class="backlink-item-wrap"><a href="Structure%20function%20and%20correlation%20function.html" class="backlink-item">Structure function and correlation function</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Atmospheric turbulence overview]]
+- [[Fried parameter $r_0$]]
+- [[Structure function and correlation function]]
+- [[Astronomical_Interferometry_MOC]]
+
 

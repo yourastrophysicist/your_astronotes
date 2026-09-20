@@ -82,11 +82,11 @@ $$H = \text{LST} - \alpha$$
 it measures how far past the meridian the object has traveled
 	$H = 0$: object is on the meridian (transiting, highest in the sky)
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Spherical_astronomy_complete.html" class="backlink-item">Spherical_astronomy_complete</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Spherical_astronomy_complete]]
+- [[Lab_High-Energy_MOC]]
+
 

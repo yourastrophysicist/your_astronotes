@@ -109,9 +109,9 @@ source: ESO image eso9811a, VLTI delay line schematic.
 
 ## see also
 
-- [Components of a modern interferometer](interf/Components%20of%20a%20modern%20interferometer.html)
-- [Beam combiners](Beam%20combiners.html)
-- [Fringe tracking](interf/Fringe%20tracking.html)
-- [Temporal coherence](interf/Temporal%20coherence.html)
-- [VLTI Very Large Telescope Interferometer](interf/VLTI%20Very%20Large%20Telescope%20Interferometer.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Components of a modern interferometer]]
+- [[Beam combiners]]
+- [[Fringe tracking]]
+- [[Temporal coherence]]
+- [[VLTI Very Large Telescope Interferometer]]
+- [[Astronomical_Interferometry_MOC]]

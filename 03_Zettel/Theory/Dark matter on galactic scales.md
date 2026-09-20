@@ -62,20 +62,20 @@ the Milky Way's visible disk is merely a tiny baryonic nugget sitting at the gra
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Spiral arm kinematics](Spiral%20arm%20kinematics.html)
-- [Milky Way structure](Milky%20Way%20structure.html)
-- [Cosmic_inventory_dark_matter](Cosmic_inventory_dark_matter.html)
-- [Galaxy morphology vs physical properties](Galaxy%20morphology%20vs%20physical%20properties.html)
-- [Cosmic_inventory_overview](Cosmic_inventory_overview.html)
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Spiral arm kinematics]]
+- [[Milky Way structure]]
+- [[Cosmic_inventory_dark_matter]]
+- [[Galaxy morphology vs physical properties]]
+- [[Cosmic_inventory_overview]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Galactic%20coordinate%20system.html" class="backlink-item">Galactic coordinate system</a></li>
-    <li class="backlink-item-wrap"><a href="Milky%20Way%20structure.html" class="backlink-item">Milky Way structure</a></li>
-    <li class="backlink-item-wrap"><a href="Spiral%20arm%20kinematics.html" class="backlink-item">Spiral arm kinematics</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Galactic coordinate system]]
+- [[Milky Way structure]]
+- [[Spiral arm kinematics]]
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+
 

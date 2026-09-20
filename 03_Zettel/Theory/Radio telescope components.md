@@ -94,20 +94,20 @@ in an interferometer, the IF signals $V_i(t)$ and $V_j(t)$ from antenna dishes $
 
 ## see also
 
-- [Electromagnetic waves and photons](interf/Electromagnetic%20waves%20and%20photons.html)
-- [Heterodyne vs direct detection](interf/Heterodyne%20vs%20direct%20detection.html)
-- [Two-element correlator](interf/Two-element%20correlator.html)
-- [Components of a modern interferometer](interf/Components%20of%20a%20modern%20interferometer.html)
-- [DOnofrio Exam Retake - Radio vs Optical Physics and Michelson Synthesis](DOnofrio%20Exam%20Retake%20-%20Radio%20vs%20Optical%20Physics%20and%20Michelson%20Synthesis.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Electromagnetic waves and photons]]
+- [[Heterodyne vs direct detection]]
+- [[Two-element correlator]]
+- [[Components of a modern interferometer]]
+- [[DOnofrio Exam Retake - Radio vs Optical Physics and Michelson Synthesis]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="DOnofrio%20Exam%20Retake%20-%20Radio%20vs%20Optical%20Physics%20and%20Michelson%20Synthesis.html" class="backlink-item">DOnofrio Exam Retake - Radio vs Optical Physics and Michelson Synthesis</a></li>
-    <li class="backlink-item-wrap"><a href="Electromagnetic%20waves%20and%20photons.html" class="backlink-item">Electromagnetic waves and photons</a></li>
-    <li class="backlink-item-wrap"><a href="Heterodyne%20vs%20direct%20detection.html" class="backlink-item">Heterodyne vs direct detection</a></li>
-    <li class="backlink-item-wrap"><a href="Michelson%20stellar%20interferometer.html" class="backlink-item">Michelson stellar interferometer</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[DOnofrio Exam Retake - Radio vs Optical Physics and Michelson Synthesis]]
+- [[Electromagnetic waves and photons]]
+- [[Heterodyne vs direct detection]]
+- [[Michelson stellar interferometer]]
+
 

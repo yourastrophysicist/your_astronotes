@@ -69,7 +69,7 @@ this is the basis of the **Rayleigh quotient iteration**: at each step, set $\si
 
 ### subspace iteration
 
-run power iteration on $K > 1$ orthogonal vectors simultaneously, with re-orthogonalization (via Gram-Schmidt or QR) between steps. converges to the $K$ dominant eigenvectors at once. this is essentially the [QR algorithm for eigenvalues](QR%20algorithm%20for%20eigenvalues.html) in disguise.
+run power iteration on $K > 1$ orthogonal vectors simultaneously, with re-orthogonalization (via Gram-Schmidt or QR) between steps. converges to the $K$ dominant eigenvectors at once. this is essentially the [[QR algorithm for eigenvalues]] in disguise.
 
 ## limitations
 
@@ -102,18 +102,18 @@ vals, vecs = eigs(A_sparse, k=5, which='LM')        # largest magnitude
 
 ## see also
 
-- [QR algorithm for eigenvalues](QR%20algorithm%20for%20eigenvalues.html)
-- [QR decomposition](QR%20decomposition.html)
-- [Matrix diagonalization $A = VDV^T$](Matrix%20diagonalization%20%24A%20%3D%20VDV%5ET%24.html)
-- [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
+- [[QR algorithm for eigenvalues]]
+- [[QR decomposition]]
+- [[Matrix diagonalization $A = VDV^T$]]
+- [[Mathematical_Numerical_Methods_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Matrix%20diagonalization%20%24A%20%3D%20VDV%5ET%24.html" class="backlink-item">Matrix diagonalization $A = VDV^T$</a></li>
-    <li class="backlink-item-wrap"><a href="QR%20algorithm%20for%20eigenvalues.html" class="backlink-item">QR algorithm for eigenvalues</a></li>
-    <li class="backlink-item-wrap"><a href="QR%20decomposition.html" class="backlink-item">QR decomposition</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Matrix diagonalization $A = VDV^T$]]
+- [[QR algorithm for eigenvalues]]
+- [[QR decomposition]]
+- [[Mathematical_Numerical_Methods_MOC]]
+
 

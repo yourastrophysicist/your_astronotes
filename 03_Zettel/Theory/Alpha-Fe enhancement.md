@@ -4,7 +4,7 @@ title: "Alpha-Fe enhancement"
 ---
 # Alpha-Fe Enhancement
 
-Parent [Astrophysics_of_Galaxies_MOC](../../04_Atlas/Astrophysics_of_Galaxies_MOC.html) · [Stellar nucleosynthesis](Stellar%20nucleosynthesis.html) · Early-type galaxies
+Parent [[Astrophysics_of_Galaxies_MOC]] · [[Stellar nucleosynthesis]] · Early-type galaxies
 
 ## 1. Physical Definition and Chemical Notation
 
@@ -202,9 +202,9 @@ Key quantitative takeaways for the blackboard
 
 ## Connections
 
-- Stellar populations - [Color gradients in ellipticals](Color%20gradients%20in%20ellipticals.html), [Stellar population synthesis](Stellar%20population%20synthesis.html)
-- Scaling laws - [Faber-Jackson relation](Faber-Jackson%20relation.html), [Fundamental plane of ellipticals](Fundamental%20plane%20of%20ellipticals.html)
-- Quenching - [Color bimodality of galaxies](Color%20bimodality%20of%20galaxies.html), [Galaxy color, density and morphology](Galaxy%20color%2C%20density%20and%20morphology.html)
+- Stellar populations - [[Color gradients in ellipticals]], [[Stellar population synthesis]]
+- Scaling laws - [[Faber-Jackson relation]], [[Fundamental plane of ellipticals]]
+- Quenching - [[Color bimodality of galaxies]], [[Galaxy color, density and morphology]]
 
 ---
 
@@ -258,13 +258,13 @@ Key quantitative takeaways for the blackboard
 
 ![gal_sre-36.png](../../assets/images/gal_sre-36.png)
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Color%20gradients%20in%20ellipticals.html" class="backlink-item">Color gradients in ellipticals</a></li>
-    <li class="backlink-item-wrap"><a href="Early-type%20galaxy%20stellar%20populations.html" class="backlink-item">Early-type galaxy stellar populations</a></li>
-    <li class="backlink-item-wrap"><a href="Green%20valley%20and%20quenching%20tracks.html" class="backlink-item">Green valley and quenching tracks</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_Galaxies_MOC.html" class="backlink-item">Astrophysics_of_Galaxies_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Color gradients in ellipticals]]
+- [[Early-type galaxy stellar populations]]
+- [[Green valley and quenching tracks]]
+- [[Astrophysics_of_Galaxies_MOC]]
+
 

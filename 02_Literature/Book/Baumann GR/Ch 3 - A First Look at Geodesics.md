@@ -4,7 +4,7 @@ title: "Ch 3 - A First Look at Geodesics"
 ---
 # Baumann Ch 3, A First Look at Geodesics
 
-up: [Baumann GR](./Baumann%20GR.html) · [General_Relativity_MOC](../../../04_Atlas/General_Relativity_MOC.html)
+up: [[Baumann GR]] · [[General_Relativity_MOC]]
 
 *the chapter where the abstract math finally produces real physics. starting from the simplest possible action for a point particle, $S = -m \int d\tau$, we derive the geodesic equation and use it to predict Mercury's $43''$ perihelion precession and Eddington's $1.75''$ light deflection. these are the two predictions that made GR famous.*
 
@@ -89,7 +89,7 @@ $$S = -m \int d\lambda\, \sqrt{-g_{\mu\nu} \dot x^\mu \dot x^\nu}$$
 
 $$\boxed{\,\frac{d^2 x^\mu}{d\tau^2} + \Gamma^\mu{}_{\alpha\beta}\, \frac{dx^\alpha}{d\tau}\frac{dx^\beta}{d\tau} = 0\,}$$
 
-with the [Christoffel symbols](../../../03_Zettel/Theory/Christoffel%20symbols.html) popping out exactly as
+with the [[Christoffel symbols]] popping out exactly as
 
 $$\Gamma^\mu{}_{\alpha\beta} = \tfrac12 g^{\mu\lambda}(\partial_\alpha g_{\beta\lambda} + \partial_\beta g_{\alpha\lambda} - \partial_\lambda g_{\alpha\beta})$$
 
@@ -161,7 +161,7 @@ this calculation is exactly what Q9 - weak-field Christoffel Gamma_i_00 asks for
 
 ### the metric
 
-assuming Birkhoff (proven in [Ch 5 - The Einstein Equation](./Ch%205%20-%20The%20Einstein%20Equation.html)), the spacetime around any spherically symmetric mass $M$ is
+assuming Birkhoff (proven in [[Ch 5 - The Einstein Equation]]), the spacetime around any spherically symmetric mass $M$ is
 
 $$ds^2 = -\left(1 - \frac{2GM}{r}\right)dt^2 + \left(1 - \frac{2GM}{r}\right)^{-1}dr^2 + r^2(d\theta^2 + \sin^2\theta\,d\phi^2)$$
 
@@ -325,22 +325,22 @@ if i had to compress chapter 3 into a paragraph for the oral:
 
 ## connections
 
-- [General_Relativity_MOC](../../../04_Atlas/General_Relativity_MOC.html)
-- [Baumann GR](./Baumann%20GR.html)
-- [Geodesic equation](../../../03_Zettel/Theory/Geodesic%20equation.html) · [Schwarzschild metric](../../../03_Zettel/Theory/Schwarzschild%20metric.html) · [Schwarzschild effective potential](../../../03_Zettel/Theory/Schwarzschild%20effective%20potential.html) · [Killing vectors and conserved quantities](../../../03_Zettel/Theory/Killing%20vectors%20and%20conserved%20quantities.html) · [Newtonian limit of GR](../../../03_Zettel/Theory/Newtonian%20limit%20of%20GR.html)
-- [Photon sphere](../../../03_Zettel/Theory/Photon%20sphere.html) · [Perihelion precession](../../../03_Zettel/Theory/Perihelion%20precession.html) · [Light deflection](../../../03_Zettel/Theory/Light%20deflection.html)
+- [[General_Relativity_MOC]]
+- [[Baumann GR]]
+- [[Geodesic equation]] · [[Schwarzschild metric]] · [[Schwarzschild effective potential]] · [[Killing vectors and conserved quantities]] · [[Newtonian limit of GR]]
+- [[Photon sphere]] · [[Perihelion precession]] · [[Light deflection]]
 - Q9 - weak-field Christoffel Gamma_i_00 · Q12 - circular orbits and orbital frequency · Q13 - radial infall and proper time · Q14 - photon trajectory and impact parameter
-- previous: [Ch 2 - Some Differential Geometry](./Ch%202%20-%20Some%20Differential%20Geometry.html)
-- next: [Ch 4 - Spacetime Curvature](./Ch%204%20-%20Spacetime%20Curvature.html)
+- previous: [[Ch 2 - Some Differential Geometry]]
+- next: [[Ch 4 - Spacetime Curvature]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Affine%20parameter.html" class="backlink-item">Affine parameter</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Geodesic%20equation.html" class="backlink-item">Geodesic equation</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Killing%20vectors%20and%20conserved%20quantities.html" class="backlink-item">Killing vectors and conserved quantities</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Timelike%20vs%20null%20vs%20spacelike.html" class="backlink-item">Timelike vs null vs spacelike</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Affine parameter]]
+- [[Geodesic equation]]
+- [[Killing vectors and conserved quantities]]
+- [[Timelike vs null vs spacelike]]
+- [[General_Relativity_MOC]]
+
 

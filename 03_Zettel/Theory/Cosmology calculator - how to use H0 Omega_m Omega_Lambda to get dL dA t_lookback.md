@@ -4,7 +4,7 @@ title: "Cosmology calculator - how to use H0 Omega_m Omega_Lambda to get dL dA t
 ---
 # cosmology calculator recipes
 
-up: [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html) · [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html) · [Cosmological distances](Cosmological%20distances.html)
+up: [[Observational_Cosmology_MOC]] · [[Fundamentals_Astrophysics_Cosmology_MOC]] · [[Cosmological distances]]
 
 ## master cosmological integrals
 
@@ -48,14 +48,14 @@ $$dV_C = D_H \frac{d_M^2(z)}{E(z)} d\Omega \, dz$$
 
 ## connections
 
-- distance proofs: [Luminosity distance](Luminosity%20distance.html), [Angular diameter distance](Angular%20diameter%20distance.html), [Surface brightness dimming](Surface%20brightness%20dimming.html)
-- parameters: [ΛCDM current parameters](%CE%9BCDM%20current%20parameters.html)
+- distance proofs: [[Luminosity distance]], [[Angular diameter distance]], [[Surface brightness dimming]]
+- parameters: [[ΛCDM current parameters]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Time-redshift%20relation.html" class="backlink-item">Time-redshift relation</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Time-redshift relation]]
+- [[Observational_Cosmology_MOC]]
+
 

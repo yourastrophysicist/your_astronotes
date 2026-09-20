@@ -43,17 +43,17 @@ in solar flares, $S \sim 10^{12} - 10^{14}$, predicting a minuscule reconnection
 
 ## see also
 
-- [Fluid_and_Plasma_Dynamics_MOC](../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html)
-- [Part8_Reconnection_Relaxation_and_Dynamo_Theory](../../02_Literature/Lectures/Fluid_and_Plasma_Dynamics/Part8_Reconnection_Relaxation_and_Dynamo_Theory.html)
-- [Ideal MHD equations and Alfven flux freezing theorem](Ideal%20MHD%20equations%20and%20Alfven%20flux%20freezing%20theorem.html)
-- [Woltjer helicity conservation and Taylor plasma relaxation](Woltjer%20helicity%20conservation%20and%20Taylor%20plasma%20relaxation.html)
+- [[Fluid_and_Plasma_Dynamics_MOC]]
+- [[Part8_Reconnection_Relaxation_and_Dynamo_Theory]]
+- [[Ideal MHD equations and Alfven flux freezing theorem]]
+- [[Woltjer helicity conservation and Taylor plasma relaxation]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Ideal%20MHD%20equations%20and%20Alfven%20flux%20freezing%20theorem.html" class="backlink-item">Ideal MHD equations and Alfven flux freezing theorem</a></li>
-    <li class="backlink-item-wrap"><a href="Woltjer%20helicity%20conservation%20and%20Taylor%20plasma%20relaxation.html" class="backlink-item">Woltjer helicity conservation and Taylor plasma relaxation</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fluid_and_Plasma_Dynamics_MOC.html" class="backlink-item">Fluid_and_Plasma_Dynamics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Ideal MHD equations and Alfven flux freezing theorem]]
+- [[Woltjer helicity conservation and Taylor plasma relaxation]]
+- [[Fluid_and_Plasma_Dynamics_MOC]]
+
 

@@ -89,21 +89,21 @@ this is the SN Ia signature that revolutionised cosmology in 1998.
 
 ## see also
 
-- [Friedmann equations](Friedmann%20equations.html)
-- [Friedmann solutions](Friedmann%20solutions.html)
-- [Friedmann models](Friedmann%20models.html)
-- [ΛCDM current parameters](%CE%9BCDM%20current%20parameters.html)
-- [Cosmological constant](Cosmological%20constant.html)
-- [Hubble law](Hubble%20law.html)
-- [Supernova Hubble diagram](Supernova%20Hubble%20diagram.html)
-- [Cosmic_inventory_overview](Cosmic_inventory_overview.html)
-- [Brief thermal history](Brief%20thermal%20history.html)
-- [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
+- [[Friedmann equations]]
+- [[Friedmann solutions]]
+- [[Friedmann models]]
+- [[ΛCDM current parameters]]
+- [[Cosmological constant]]
+- [[Hubble law]]
+- [[Supernova Hubble diagram]]
+- [[Cosmic_inventory_overview]]
+- [[Brief thermal history]]
+- [[Observational_Cosmology_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (1)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Observational_Cosmology_MOC]]
+
 

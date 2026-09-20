@@ -238,6 +238,6 @@ $$\chi(\lambda)=\chi_0+\mathrm{RM}\lambda^2$$
 
 ## see also
 
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-- [Interferometry course intro](interf/Interferometry%20course%20intro.html)
-- [Interferometry exam rules](interf/Interferometry%20exam%20rules.html)
+- [[Astronomical_Interferometry_MOC]]
+- [[Interferometry course intro]]
+- [[Interferometry exam rules]]

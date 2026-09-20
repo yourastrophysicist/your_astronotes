@@ -80,22 +80,21 @@ for interferometry, the practical lesson: **never measure which path the light t
 
 ## see also
 
-- [Plane waves and Huygens principle](Plane%20waves%20and%20Huygens%20principle.html)
-- [Superposition and interference](Superposition%20and%20interference.html)
-- [Photon noise and statistics](Photon%20noise%20and%20statistics.html)
-- [Polarization in interferometry](Polarization%20in%20interferometry.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Plane waves and Huygens principle]]
+- [[Superposition and interference]]
+- [[Photon noise and statistics]]
+- [[Polarization in interferometry]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../DOnofrio%20Exam%20Retake%20-%20Radio%20vs%20Optical%20Physics%20and%20Michelson%20Synthesis.html" class="backlink-item">DOnofrio Exam Retake - Radio vs Optical Physics and Michelson Synthesis</a></li>
-    <li class="backlink-item-wrap"><a href="../Heterodyne%20vs%20direct%20detection.html" class="backlink-item">Heterodyne vs direct detection</a></li>
-    <li class="backlink-item-wrap"><a href="../Light%20waves%20and%20the%20EM%20spectrum.html" class="backlink-item">Light waves and the EM spectrum</a></li>
-    <li class="backlink-item-wrap"><a href="../Radio%20telescope%20components.html" class="backlink-item">Radio telescope components</a></li>
-    <li class="backlink-item-wrap"><a href="Light%20waves%20and%20the%20EM%20spectrum.html" class="backlink-item">Light waves and the EM spectrum</a></li>
-    <li class="backlink-item-wrap"><a href="Photon%20noise%20and%20statistics.html" class="backlink-item">Photon noise and statistics</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[DOnofrio Exam Retake - Radio vs Optical Physics and Michelson Synthesis]]
+- [[Heterodyne vs direct detection]]
+- [[Light waves and the EM spectrum]]
+- [[Radio telescope components]]
+- [[Photon noise and statistics]]
+- [[Astronomical_Interferometry_MOC]]
+
 

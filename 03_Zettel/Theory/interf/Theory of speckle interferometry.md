@@ -4,7 +4,7 @@ title: "Theory of speckle interferometry"
 ---
 # Theory of speckle interferometry
 
-the formal derivation that justifies [Labeyrie's](Speckle%20interferometry.html) technique. shows that the *power spectrum* of speckle frames recovers the *power spectrum* of the source at all spatial frequencies up to the diffraction limit, despite the seeing.
+the formal derivation that justifies [[Speckle interferometry|Labeyrie's]] technique. shows that the *power spectrum* of speckle frames recovers the *power spectrum* of the source at all spatial frequencies up to the diffraction limit, despite the seeing.
 
 ## the model
 
@@ -95,26 +95,23 @@ ambiguities multiply. speckle interferometry alone gives a *family* of consisten
 
 speckle interferometry recovers spatial frequencies up to $u_{\max} = D/\lambda$ — the *full diffraction limit* of the telescope. this is the *same* as a perfectly diffraction-limited telescope or AO with Strehl 1.
 
-so for *symmetric* sources, speckle interferometry achieves diffraction-limited resolution. for asymmetric sources, modifications ([triple correlation](Bispectrum%20and%20triple%20correlation.html), Knox-Thompson) are needed.
+so for *symmetric* sources, speckle interferometry achieves diffraction-limited resolution. for asymmetric sources, modifications ([[Bispectrum and triple correlation|triple correlation]], Knox-Thompson) are needed.
 
 ## see also
 
-- [Speckle interferometry](Speckle%20interferometry.html)
-- [Aperture masking](Aperture%20masking.html)
-- [Speckle imaging algorithms](Speckle%20imaging%20algorithms.html)
-- [Bispectrum and triple correlation](Bispectrum%20and%20triple%20correlation.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Speckle interferometry]]
+- [[Aperture masking]]
+- [[Speckle imaging algorithms]]
+- [[Bispectrum and triple correlation]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Bispectrum%20and%20triple%20correlation.html" class="backlink-item">Bispectrum and triple correlation</a></li>
-    <li class="backlink-item-wrap"><a href="../Speckle%20imaging%20algorithms.html" class="backlink-item">Speckle imaging algorithms</a></li>
-    <li class="backlink-item-wrap"><a href="../Speckle%20interferometry.html" class="backlink-item">Speckle interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="Bispectrum%20and%20triple%20correlation.html" class="backlink-item">Bispectrum and triple correlation</a></li>
-    <li class="backlink-item-wrap"><a href="Speckle%20imaging%20algorithms.html" class="backlink-item">Speckle imaging algorithms</a></li>
-    <li class="backlink-item-wrap"><a href="Speckle%20interferometry.html" class="backlink-item">Speckle interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Bispectrum and triple correlation]]
+- [[Speckle imaging algorithms]]
+- [[Speckle interferometry]]
+- [[Astronomical_Interferometry_MOC]]
+
 

@@ -4,7 +4,7 @@ title: "Ch 5 - The Einstein Equation"
 ---
 # Baumann Ch 5, The Einstein Equation
 
-up: [Baumann GR](./Baumann%20GR.html) · [General_Relativity_MOC](../../../04_Atlas/General_Relativity_MOC.html)
+up: [[Baumann GR]] · [[General_Relativity_MOC]]
 
 *the chapter where the second half of the GR slogan, "matter tells spacetime how to curve", finally becomes a precise equation. we derive Einstein's equation $G_{\mu\nu} = 8\pi G T_{\mu\nu}$ in two ways: by physical reasoning (guess and fix) and from a variational principle (Einstein-Hilbert action). then we solve it in vacuum to get Schwarzschild, de Sitter, and anti-de Sitter.*
 
@@ -47,7 +47,7 @@ problem: stress-energy has to be conserved, $\nabla^\mu T_{\mu\nu} = 0$ (this is
 
 $$\nabla^\mu R_{\mu\nu} = \tfrac12 \nabla_\nu R \neq 0$$
 
-(this comes from the contracted Bianchi identity, see [Ch 4 - Spacetime Curvature](./Ch%204%20-%20Spacetime%20Curvature.html)). so the first guess is inconsistent: the left side has a divergence, the right side doesn't.
+(this comes from the contracted Bianchi identity, see [[Ch 4 - Spacetime Curvature]]). so the first guess is inconsistent: the left side has a divergence, the right side doesn't.
 
 ### the second guess, the Einstein tensor
 
@@ -265,25 +265,25 @@ if i had to compress chapter 5 into a paragraph for the oral:
 
 ## connections
 
-- [General_Relativity_MOC](../../../04_Atlas/General_Relativity_MOC.html)
-- [Baumann GR](./Baumann%20GR.html)
-- [Einstein equations](../../../03_Zettel/Theory/Einstein%20equations.html) · [Einstein tensor and Bianchi](../../../03_Zettel/Theory/Einstein%20tensor%20and%20Bianchi.html) · [Stress-energy tensor](../../../03_Zettel/Theory/Stress-energy%20tensor.html) · [Cosmological constant](../../../03_Zettel/Theory/Cosmological%20constant.html) · [Trace-reversed Einstein equations](../../../03_Zettel/Theory/Trace-reversed%20Einstein%20equations.html)
-- [Schwarzschild metric](../../../03_Zettel/Theory/Schwarzschild%20metric.html) · [Birkhoff theorem](../../../03_Zettel/Theory/Birkhoff%20theorem.html)
+- [[General_Relativity_MOC]]
+- [[Baumann GR]]
+- [[Einstein equations]] · [[Einstein tensor and Bianchi]] · [[Stress-energy tensor]] · [[Cosmological constant]] · [[Trace-reversed Einstein equations]]
+- [[Schwarzschild metric]] · [[Birkhoff theorem]]
 - Q11 - selected Schwarzschild Christoffels · Q12 - circular orbits and orbital frequency · Q13 - radial infall and proper time · Q14 - photon trajectory and impact parameter · Q18 - derive the acceleration equation · Q19 - radiation universe · Q20 - matter plus radiation universe
-- previous: [Ch 4 - Spacetime Curvature](./Ch%204%20-%20Spacetime%20Curvature.html)
-- next: [Ch 6 - Black Holes](./Ch%206%20-%20Black%20Holes.html)
+- previous: [[Ch 4 - Spacetime Curvature]]
+- next: [[Ch 6 - Black Holes]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (8)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Bianchi%20identities.html" class="backlink-item">Bianchi identities</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Birkhoff%20theorem.html" class="backlink-item">Birkhoff theorem</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Einstein%20equations.html" class="backlink-item">Einstein equations</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Einstein%20tensor%20and%20Bianchi.html" class="backlink-item">Einstein tensor and Bianchi</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Schwarzschild%20metric.html" class="backlink-item">Schwarzschild metric</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Stress-energy%20tensor.html" class="backlink-item">Stress-energy tensor</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Trace-reversed%20Einstein%20equations.html" class="backlink-item">Trace-reversed Einstein equations</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Bianchi identities]]
+- [[Birkhoff theorem]]
+- [[Einstein equations]]
+- [[Einstein tensor and Bianchi]]
+- [[Schwarzschild metric]]
+- [[Stress-energy tensor]]
+- [[Trace-reversed Einstein equations]]
+- [[General_Relativity_MOC]]
+
 

@@ -49,17 +49,17 @@ $$\text{Var}\left(\hat{\xi}_{\rm PH}\right) \approx \frac{1 + \xi(r)}{RR(r)} + \
 The $-2DR$ cross-term cancels first-order density estimation fluctuations $\mathcal{O}(1/\sqrt{N_D})$, leaving only second-order residual variance. The Landy-Szalay estimator is the uncontested standard across all modern cosmological galaxy surveys (SDSS, BOSS, DESI).
 
 ## See Also
-- [Astro-Statistics_and_Cosmology_MOC](../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html)
-- [08_Galaxy_Clustering_Point_Processes_and_Shot_Noise](../../02_Literature/Lectures/Astrostatistics/08_Galaxy_Clustering_Point_Processes_and_Shot_Noise.html)
-- [Galaxy power spectrum and Poisson shot noise](Galaxy%20power%20spectrum%20and%20Poisson%20shot%20noise.html)
-- [Feldman-Kaiser-Peacock optimal weighting for galaxy surveys](Feldman-Kaiser-Peacock%20optimal%20weighting%20for%20galaxy%20surveys.html)
+- [[Astro-Statistics_and_Cosmology_MOC]]
+- [[08_Galaxy_Clustering_Point_Processes_and_Shot_Noise]]
+- [[Galaxy power spectrum and Poisson shot noise]]
+- [[Feldman-Kaiser-Peacock optimal weighting for galaxy surveys]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Feldman-Kaiser-Peacock%20optimal%20weighting%20for%20galaxy%20surveys.html" class="backlink-item">Feldman-Kaiser-Peacock optimal weighting for galaxy surveys</a></li>
-    <li class="backlink-item-wrap"><a href="Galaxy%20power%20spectrum%20and%20Poisson%20shot%20noise.html" class="backlink-item">Galaxy power spectrum and Poisson shot noise</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Feldman-Kaiser-Peacock optimal weighting for galaxy surveys]]
+- [[Galaxy power spectrum and Poisson shot noise]]
+- [[Astro-Statistics_and_Cosmology_MOC]]
+
 

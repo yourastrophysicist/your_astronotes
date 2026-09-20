@@ -55,13 +55,4 @@ The Blandford-Znajek mechanism is now the leading explanation for the most power
 - **Recent arXiv Benchmark**: Blandford, Meier & Readhead (2019), *arXiv:1812.06025* — modern synthesis connecting this mechanism to the full AGN jet population. Full synthesis: [[Blandford_Meier_Readhead_2019_Relativistic_AGN_Jets]].
 - **Simulation Validation**: Porth et al. (2019), *arXiv:1904.04923* — GRMHD code comparison validating the simulation tools used to test this mechanism's MAD-state predictions. Full synthesis: [[Porth_2019_EHT_GRMHD_Code_Comparison]].
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked Concepts</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap">[[Lab_High-Energy_MOC]]</li>
-    <li class="backlink-item-wrap">[[Fluid_and_Plasma_Dynamics_MOC]]</li>
-    <li class="backlink-item-wrap">[[Kerr Metric Horizon and Ergosphere Geometry]]</li>
-    <li class="backlink-item-wrap">[[Accretion onto compact objects]]</li>
-    <li class="backlink-item-wrap">[[Synchrotron continuum]]</li>
-  </ul>
-</div>
+

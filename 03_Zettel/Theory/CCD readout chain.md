@@ -53,12 +53,12 @@ each shift is not perfect: some electrons are lost or smeared. CTE is the per-pi
 
 ## see also
 
-- [CCD basics](CCD%20basics.html)
-- [CCD readout](CCD%20readout.html)
-- [CCD detectors and SNR](CCD%20detectors%20and%20SNR.html)
-- [CCD noise sources](CCD%20noise%20sources.html)
-- [The CCD equation](The%20CCD%20equation.html)
-- [Charge-Coupled Device](Charge-Coupled%20Device.html)
+- [[CCD basics]]
+- [[CCD readout]]
+- [[CCD detectors and SNR]]
+- [[CCD noise sources]]
+- [[The CCD equation]]
+- [[Charge-Coupled Device]]
 
 ---
 
@@ -88,16 +88,16 @@ each shift is not perfect: some electrons are lost or smeared. CTE is the per-pi
 ![obs_ccd-16.png](../../assets/images/obs_ccd-16.png)
 *Readout speed vs readout noise trade-off (slow scan for science vs fast scan for acquisition).*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (7)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="CCD%20basics.html" class="backlink-item">CCD basics</a></li>
-    <li class="backlink-item-wrap"><a href="CCD%20calibration%20steps.html" class="backlink-item">CCD calibration steps</a></li>
-    <li class="backlink-item-wrap"><a href="CCD%20noise%20sources.html" class="backlink-item">CCD noise sources</a></li>
-    <li class="backlink-item-wrap"><a href="Cosmic%20rays%20and%20bad%20pixels.html" class="backlink-item">Cosmic rays and bad pixels</a></li>
-    <li class="backlink-item-wrap"><a href="Linearity%20and%20saturation.html" class="backlink-item">Linearity and saturation</a></li>
-    <li class="backlink-item-wrap"><a href="The%20CCD%20equation.html" class="backlink-item">The CCD equation</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[CCD basics]]
+- [[CCD calibration steps]]
+- [[CCD noise sources]]
+- [[Cosmic rays and bad pixels]]
+- [[Linearity and saturation]]
+- [[The CCD equation]]
+- [[Observational_Astrophysics_MOC]]
+
 

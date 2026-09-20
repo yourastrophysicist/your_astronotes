@@ -22,7 +22,7 @@ equivalent definition in frequency: $W_\nu = \int (1 - F_\nu/F_c) d\nu$, units o
 
 ## the curve of growth
 
-$W$ vs column density $N$ is the **curve of growth** (see [Curve of growth](Curve%20of%20growth.html)). three regimes:
+$W$ vs column density $N$ is the **curve of growth** (see [[Curve of growth]]). three regimes:
 
 1. **linear** ($\tau_0 \ll 1$): $W \propto N$. line grows as you add absorbers; depth increases linearly. easy abundance work.
 2. **saturation** ($\tau_0 \sim 1$): $W \propto \sqrt{\ln N}$. line core saturates near zero flux; further $N$ deepens the wings only slowly.
@@ -60,13 +60,13 @@ for an emission line, $F_\lambda > F_c$, so the integrand is negative. by conven
 
 ## see also
 
-- [Line profile function phi nu](Line%20profile%20function%20phi%20nu.html)
-- [Absorption coefficient and oscillator strength](Absorption%20coefficient%20and%20oscillator%20strength.html)
-- [Curve of growth](Curve%20of%20growth.html)
-- [Optical depth](Optical%20depth.html)
-- [Voigt profile](Voigt%20profile.html)
-- [Damping wings](Damping%20wings.html)
-- [Curve of growth abundance analysis](Curve%20of%20growth%20abundance%20analysis.html)
+- [[Line profile function phi nu]]
+- [[Absorption coefficient and oscillator strength]]
+- [[Curve of growth]]
+- [[Optical depth]]
+- [[Voigt profile]]
+- [[Damping wings]]
+- [[Curve of growth abundance analysis]]
 
 ---
 
@@ -170,25 +170,25 @@ The following slides from Prof. Antonino Milone's lecture series provide the dir
 ![spec_theory_p85.png](../../assets/images/spec_theory_p85.png)
 *The Curve of Growth: linear regime ($W_\lambda \propto N f$), flat saturated Doppler core regime ($W_\lambda \propto \sqrt{\ln(N f)}$), and square-root damping wings regime ($W_\lambda \propto \sqrt{N f \gamma}$).*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (16)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Absorption%20coefficient%20and%20oscillator%20strength.html" class="backlink-item">Absorption coefficient and oscillator strength</a></li>
-    <li class="backlink-item-wrap"><a href="Curve%20of%20growth%20abundance%20analysis.html" class="backlink-item">Curve of growth abundance analysis</a></li>
-    <li class="backlink-item-wrap"><a href="Curve%20of%20growth.html" class="backlink-item">Curve of growth</a></li>
-    <li class="backlink-item-wrap"><a href="Damping%20wings.html" class="backlink-item">Damping wings</a></li>
-    <li class="backlink-item-wrap"><a href="Element%20abundance%20patterns.html" class="backlink-item">Element abundance patterns</a></li>
-    <li class="backlink-item-wrap"><a href="Line%20profile%20function%20phi%20nu.html" class="backlink-item">Line profile function phi nu</a></li>
-    <li class="backlink-item-wrap"><a href="Macroturbulence.html" class="backlink-item">Macroturbulence</a></li>
-    <li class="backlink-item-wrap"><a href="Microturbulence.html" class="backlink-item">Microturbulence</a></li>
-    <li class="backlink-item-wrap"><a href="Optical%20depth.html" class="backlink-item">Optical depth</a></li>
-    <li class="backlink-item-wrap"><a href="Spectroscopic%20determination%20of%20Teff.html" class="backlink-item">Spectroscopic determination of Teff</a></li>
-    <li class="backlink-item-wrap"><a href="Spectroscopic%20determination%20of%20log%20g.html" class="backlink-item">Spectroscopic determination of log g</a></li>
-    <li class="backlink-item-wrap"><a href="Spectroscopic%20determination%20of%20metallicity.html" class="backlink-item">Spectroscopic determination of metallicity</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20rotation%20v%20sini.html" class="backlink-item">Stellar rotation v sini</a></li>
-    <li class="backlink-item-wrap"><a href="Thermal%20Doppler%20broadening.html" class="backlink-item">Thermal Doppler broadening</a></li>
-    <li class="backlink-item-wrap"><a href="Voigt%20profile.html" class="backlink-item">Voigt profile</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Absorption coefficient and oscillator strength]]
+- [[Curve of growth abundance analysis]]
+- [[Curve of growth]]
+- [[Damping wings]]
+- [[Element abundance patterns]]
+- [[Line profile function phi nu]]
+- [[Macroturbulence]]
+- [[Microturbulence]]
+- [[Optical depth]]
+- [[Spectroscopic determination of Teff]]
+- [[Spectroscopic determination of log g]]
+- [[Spectroscopic determination of metallicity]]
+- [[Stellar rotation v sini]]
+- [[Thermal Doppler broadening]]
+- [[Voigt profile]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 

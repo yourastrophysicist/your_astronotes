@@ -5,7 +5,7 @@ title: "04_Exoplanet_Demographics_Orbital_Mechanics_and_Transits"
 # Lesson 04 – Exoplanet Demographics, Orbital Mechanics, and Transits
 
 *Computational Astrophysics, Prof. Tiziano Zingales*  
-*Index: [Computational_Astrophysics_MOC](../../../04_Atlas/Computational_Astrophysics_MOC.html)*
+*Index: [[Computational_Astrophysics_MOC]]*
 
 ---
 
@@ -230,12 +230,12 @@ Real space-based photometric light curves (from Kepler, K2, TESS) deviate from i
 ---
 
 ## Related Notes
-- [00_Course_Overview_and_Computational_Laboratories](./00_Course_Overview_and_Computational_Laboratories.html)
-- [03_Modular_Python_Software_Architecture_and_Packaging](./03_Modular_Python_Software_Architecture_and_Packaging.html)
-- [05_Machine_Learning_Foundations_and_Regression_Models](./05_Machine_Learning_Foundations_and_Regression_Models.html)
-- [08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx](./08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx.html)
-- [Transit Modeling with batman](../../../03_Zettel/Computational/Transit%20Modeling%20with%20batman.html)
-- [Limb Darkening Computation with ldtk](../../../03_Zettel/Computational/Limb%20Darkening%20Computation%20with%20ldtk.html)
+- [[00_Course_Overview_and_Computational_Laboratories]]
+- [[03_Modular_Python_Software_Architecture_and_Packaging]]
+- [[05_Machine_Learning_Foundations_and_Regression_Models]]
+- [[08_Exoplanet_Atmospheric_Retrieval_Frameworks_and_TauREx]]
+- [[Transit Modeling with batman]]
+- [[Limb Darkening Computation with ldtk]]
 
 
 ## Computational Visuals & Keplerian Solvers
@@ -249,10 +249,10 @@ Real space-based photometric light curves (from Kepler, K2, TESS) deviate from i
 ![Analytic Light Curve Precision Comparisons](../../../assets/images/comp_exo_p25.png)
 *Figure COMP-03: Computational speed and accuracy benchmark of Mandel & Agol analytical limb-darkened transit evaluation versus numerical 2D pixel integration.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (1)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Computational_Astrophysics_MOC]]
+
 

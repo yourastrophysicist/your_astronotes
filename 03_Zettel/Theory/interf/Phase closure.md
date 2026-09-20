@@ -49,7 +49,7 @@ $$\mathcal B_{ijk} = \mathcal V_{ij} \cdot \mathcal V_{jk} \cdot \mathcal V_{ki}
 
 it is the product of the three complex visibilities around a triangle. the **closure phase is the phase of the bispectrum**: $\Phi_{ijk} = \arg \mathcal B_{ijk}$.
 
-the bispectrum's amplitude (as opposed to phase) does *not* close — it depends on station gain amplitudes. for amplitude closure, we need [Closure amplitude](Closure%20amplitude.html) (with 4 stations).
+the bispectrum's amplitude (as opposed to phase) does *not* close — it depends on station gain amplitudes. for amplitude closure, we need [[Closure amplitude]] (with 4 stations).
 
 ## counting closure relations
 
@@ -103,33 +103,25 @@ introduced by **Roger Jennison** (1958) in radio astronomy. didn't enter the opt
 
 ## see also
 
-- [The phase problem in interferometry](The%20phase%20problem%20in%20interferometry.html)
-- [Closure amplitude](Closure%20amplitude.html)
-- [Bispectrum and triple correlation](Bispectrum%20and%20triple%20correlation.html)
-- [Self-calibration](Self-calibration.html)
-- [CLEAN algorithm](CLEAN%20algorithm.html)
-- [Astronomical_Interferometry_MOC](../../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[The phase problem in interferometry]]
+- [[Closure amplitude]]
+- [[Bispectrum and triple correlation]]
+- [[Self-calibration]]
+- [[CLEAN algorithm]]
+- [[Astronomical_Interferometry_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (17)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../Aperture%20masking.html" class="backlink-item">Aperture masking</a></li>
-    <li class="backlink-item-wrap"><a href="../Bispectrum%20and%20triple%20correlation.html" class="backlink-item">Bispectrum and triple correlation</a></li>
-    <li class="backlink-item-wrap"><a href="../COAST%20Cambridge%20Optical%20Aperture%20Synthesis%20Telescope.html" class="backlink-item">COAST Cambridge Optical Aperture Synthesis Telescope</a></li>
-    <li class="backlink-item-wrap"><a href="../Closure%20amplitude.html" class="backlink-item">Closure amplitude</a></li>
-    <li class="backlink-item-wrap"><a href="../Fringe%20visibility%20and%20contrast.html" class="backlink-item">Fringe visibility and contrast</a></li>
-    <li class="backlink-item-wrap"><a href="../Speckle%20imaging%20algorithms.html" class="backlink-item">Speckle imaging algorithms</a></li>
-    <li class="backlink-item-wrap"><a href="../Stellar%20surface%20imaging.html" class="backlink-item">Stellar surface imaging</a></li>
-    <li class="backlink-item-wrap"><a href="../The%20phase%20problem%20in%20interferometry.html" class="backlink-item">The phase problem in interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="Aperture%20masking.html" class="backlink-item">Aperture masking</a></li>
-    <li class="backlink-item-wrap"><a href="Bispectrum%20and%20triple%20correlation.html" class="backlink-item">Bispectrum and triple correlation</a></li>
-    <li class="backlink-item-wrap"><a href="COAST%20Cambridge%20Optical%20Aperture%20Synthesis%20Telescope.html" class="backlink-item">COAST Cambridge Optical Aperture Synthesis Telescope</a></li>
-    <li class="backlink-item-wrap"><a href="Closure%20amplitude.html" class="backlink-item">Closure amplitude</a></li>
-    <li class="backlink-item-wrap"><a href="Fringe%20visibility%20and%20contrast.html" class="backlink-item">Fringe visibility and contrast</a></li>
-    <li class="backlink-item-wrap"><a href="Speckle%20imaging%20algorithms.html" class="backlink-item">Speckle imaging algorithms</a></li>
-    <li class="backlink-item-wrap"><a href="Stellar%20surface%20imaging.html" class="backlink-item">Stellar surface imaging</a></li>
-    <li class="backlink-item-wrap"><a href="The%20phase%20problem%20in%20interferometry.html" class="backlink-item">The phase problem in interferometry</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/Astronomical_Interferometry_MOC.html" class="backlink-item">Astronomical_Interferometry_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Aperture masking]]
+- [[Bispectrum and triple correlation]]
+- [[COAST Cambridge Optical Aperture Synthesis Telescope]]
+- [[Closure amplitude]]
+- [[Fringe visibility and contrast]]
+- [[Speckle imaging algorithms]]
+- [[Stellar surface imaging]]
+- [[The phase problem in interferometry]]
+- [[Astronomical_Interferometry_MOC]]
+
 

@@ -72,7 +72,7 @@ $$\Omega_i \equiv \frac{\rho_i}{\rho_{\rm crit}}, \qquad \rho_{\rm crit} = \frac
 
 with Planck 2018: $\Omega_m \approx 0.315$, $\Omega_\Lambda \approx 0.685$, $\Omega_K \approx 0.001 \pm 0.002$, $\Omega_\gamma \approx 5 \times 10^{-5}$.
 
-→ see [Density parameters and flatness](Density%20parameters%20and%20flatness.html) for the full treatment.
+→ see [[Density parameters and flatness]] for the full treatment.
 
 ---
 
@@ -90,19 +90,19 @@ at $z \to 0$: $H \to H_0$. at $z \to \infty$: $H \to H_0 \sqrt{\Omega_m}(1+z)^{3
 
 ## see also
 
-- [Fundamentals_Astrophysics_Cosmology_MOC](../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html)
-- [Newtonian Friedmann derivation](Newtonian%20Friedmann%20derivation.html) — the classical version, parallel to this
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Newtonian Friedmann derivation]] — the classical version, parallel to this
 - 03_Zettel/Theory/Robertson-Walker metric
-- [Friedmann models](Friedmann%20models.html)
-- [Density parameters and flatness](Density%20parameters%20and%20flatness.html)
-- [Hubble constant and deceleration parameter](Hubble%20constant%20and%20deceleration%20parameter.html)
-- [Cosmic_inventory_dark_energy](Cosmic_inventory_dark_energy.html)
-- [Baumann_reference](Baumann_reference.html) — chapter 1.3 has the full GR derivation
+- [[Friedmann models]]
+- [[Density parameters and flatness]]
+- [[Hubble constant and deceleration parameter]]
+- [[Cosmic_inventory_dark_energy]]
+- [[Baumann_reference]] — chapter 1.3 has the full GR derivation
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (1)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+
 

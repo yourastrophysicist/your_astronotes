@@ -111,7 +111,7 @@ a transformative era for radio astronomy.
 
 ## see also
 
-- [Major radio interferometers](interf/Major%20radio%20interferometers.html)
-- [The Square Kilometre Array SKA](interf/The%20Square%20Kilometre%20Array%20SKA.html)
-- [Very Long Baseline Interferometry VLBI](interf/Very%20Long%20Baseline%20Interferometry%20VLBI.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Major radio interferometers]]
+- [[The Square Kilometre Array SKA]]
+- [[Very Long Baseline Interferometry VLBI]]
+- [[Astronomical_Interferometry_MOC]]

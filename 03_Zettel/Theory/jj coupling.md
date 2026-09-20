@@ -12,7 +12,7 @@ $$\vec j_i = \vec\ell_i + \vec s_i, \quad j_i = \ell_i \pm 1/2$$
 then sum the individual $\vec j_i$ to get the total:
 $$\vec J = \sum_i \vec j_i$$
 
-contrast with [Russell-Saunders LS coupling](Russell-Saunders%20LS%20coupling.html) where you first sum all $\ell$s, then all $s$s, then couple.
+contrast with [[Russell-Saunders LS coupling]] where you first sum all $\ell$s, then all $s$s, then couple.
 
 ## why it differs
 
@@ -41,19 +41,19 @@ most stellar spectroscopy is in the LS regime. but a few important cases:
 
 ## see also
 
-- [Russell-Saunders LS coupling](Russell-Saunders%20LS%20coupling.html)
-- [Quantum numbers and atomic states](Quantum%20numbers%20and%20atomic%20states.html)
-- [Atomic term symbols](Atomic%20term%20symbols.html)
-- [Selection rules](Selection%20rules.html)
-- [Forbidden vs permitted vs semiforbidden transitions](Forbidden%20vs%20permitted%20vs%20semiforbidden%20transitions.html)
+- [[Russell-Saunders LS coupling]]
+- [[Quantum numbers and atomic states]]
+- [[Atomic term symbols]]
+- [[Selection rules]]
+- [[Forbidden vs permitted vs semiforbidden transitions]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Forbidden%20vs%20permitted%20vs%20semiforbidden%20transitions.html" class="backlink-item">Forbidden vs permitted vs semiforbidden transitions</a></li>
-    <li class="backlink-item-wrap"><a href="Quantum%20numbers%20and%20atomic%20states.html" class="backlink-item">Quantum numbers and atomic states</a></li>
-    <li class="backlink-item-wrap"><a href="Russell-Saunders%20LS%20coupling.html" class="backlink-item">Russell-Saunders LS coupling</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Forbidden vs permitted vs semiforbidden transitions]]
+- [[Quantum numbers and atomic states]]
+- [[Russell-Saunders LS coupling]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 

@@ -106,9 +106,9 @@ a Michelson laboratory interferometer with one moving mirror sweeps OPD by twice
 
 ## see also
 
-- [Light waves and the EM spectrum](interf/Light%20waves%20and%20the%20EM%20spectrum.html)
-- [Superposition and interference](interf/Superposition%20and%20interference.html)
-- [Fresnel-Arago laws](interf/Fresnel-Arago%20laws.html)
-- [Wavefront-division interferometers](interf/Wavefront-division%20interferometers.html)
-- [Amplitude-division interferometers](Amplitude-division%20interferometers.html)
-- [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
+- [[Light waves and the EM spectrum]]
+- [[Superposition and interference]]
+- [[Fresnel-Arago laws]]
+- [[Wavefront-division interferometers]]
+- [[Amplitude-division interferometers]]
+- [[Astronomical_Interferometry_MOC]]

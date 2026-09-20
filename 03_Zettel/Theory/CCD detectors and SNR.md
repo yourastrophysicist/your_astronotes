@@ -4,7 +4,7 @@ title: "CCD detectors and SNR"
 ---
 the CCD is the workhorse detector of optical astronomy from the late 1970s onward. it converts photons into countable electrons with high quantum efficiency, low noise, and a clean linear response, then reads them out as a digital image. this note collects everything from the silicon physics through the master equation that tells me whether my observation is going to detect anything.
 
-source: Lecture 4 ("CCD and SNR") of the Obs Astrophysics course at U Padua, with reference text Howell, *Handbook of CCD Astronomy*. companion to [Observational_Astrophysics_MOC](../../04_Atlas/Observational_Astrophysics_MOC.html) Block 4.
+source: Lecture 4 ("CCD and SNR") of the Obs Astrophysics course at U Padua, with reference text Howell, *Handbook of CCD Astronomy*. companion to [[Observational_Astrophysics_MOC]] Block 4.
 
 ---
 
@@ -157,7 +157,7 @@ practical exposure planning: keep peak source flux at $\sim 50\%$ of full well t
 - **photon-counting detectors**: EMCCD (electron multiplication on-chip), MCP (microchannel plate), MKID (microwave kinetic inductance). useful when read noise dominates and you have very few photons per pixel per second.
 - **HgCdTe (Hawaii arrays), InSb**: NIR detectors where silicon is transparent. JWST NIRCam, HST WFC3-IR, ground-based NIR cameras.
 - **photographic plates**: historical only. nonlinear, low QE ($\sim 1\%$), but they covered huge areas before CCDs got big.
-- **bolometers** (sub-mm), **photomultipliers** (UV, photon counting), **proportional counters** (X-ray): different physical detectors for different bands. see [Lab_High-Energy_MOC](../../04_Atlas/Lab_High-Energy_MOC.html) for X-ray equivalents.
+- **bolometers** (sub-mm), **photomultipliers** (UV, photon counting), **proportional counters** (X-ray): different physical detectors for different bands. see [[Lab_High-Energy_MOC]] for X-ray equivalents.
 
 ---
 
@@ -173,14 +173,14 @@ the spine of any oral question on CCDs is:
 
 ## see also
 
-- [Observational_Astrophysics_MOC](../../04_Atlas/Observational_Astrophysics_MOC.html) — Block 4 lives here
-- [Earth atmosphere for observations](Earth%20atmosphere%20for%20observations.html) — what the photons go through *before* the CCD
-- [Aperture photometry](Aperture%20photometry.html)
-- [PSF photometry](PSF%20photometry.html)
-- [CCD calibration steps](CCD%20calibration%20steps.html)
-- [Magnitudes and photometric systems](Magnitudes%20and%20photometric%20systems.html) — converts CCD counts into a magnitude
-- [Distance ladder derivations](Distance%20ladder%20derivations.html) — what the magnitudes are for
-- [Lab_High-Energy_MOC](../../04_Atlas/Lab_High-Energy_MOC.html) — X-ray detectors (CCDs, microcalorimeters), the same SNR logic with different noise sources
+- [[Observational_Astrophysics_MOC]] — Block 4 lives here
+- [[Earth atmosphere for observations]] — what the photons go through *before* the CCD
+- [[Aperture photometry]]
+- [[PSF photometry]]
+- [[CCD calibration steps]]
+- [[Magnitudes and photometric systems]] — converts CCD counts into a magnitude
+- [[Distance ladder derivations]] — what the magnitudes are for
+- [[Lab_High-Energy_MOC]] — X-ray detectors (CCDs, microcalorimeters), the same SNR logic with different noise sources
 
 ---
 
@@ -228,25 +228,24 @@ the spine of any oral question on CCDs is:
 ![obs_ccd-36.png](../../assets/images/obs_ccd-36.png)
 *Fringing in thin CCDs at red wavelengths and defringing reduction techniques.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (16)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Atmospheric%20scintillation.html" class="backlink-item">Atmospheric scintillation</a></li>
-    <li class="backlink-item-wrap"><a href="CCD%20basics.html" class="backlink-item">CCD basics</a></li>
-    <li class="backlink-item-wrap"><a href="CCD%20calibration%20steps.html" class="backlink-item">CCD calibration steps</a></li>
-    <li class="backlink-item-wrap"><a href="CCD%20noise%20sources.html" class="backlink-item">CCD noise sources</a></li>
-    <li class="backlink-item-wrap"><a href="CCD%20readout%20chain.html" class="backlink-item">CCD readout chain</a></li>
-    <li class="backlink-item-wrap"><a href="Dispersion%20and%20spectral%20resolution.html" class="backlink-item">Dispersion and spectral resolution</a></li>
-    <li class="backlink-item-wrap"><a href="Distance%20ladder%20derivations.html" class="backlink-item">Distance ladder derivations</a></li>
-    <li class="backlink-item-wrap"><a href="Earth%20atmosphere%20for%20observations.html" class="backlink-item">Earth atmosphere for observations</a></li>
-    <li class="backlink-item-wrap"><a href="Obs_astro_course_intro.html" class="backlink-item">Obs_astro_course_intro</a></li>
-    <li class="backlink-item-wrap"><a href="Other%20detectors.html" class="backlink-item">Other detectors</a></li>
-    <li class="backlink-item-wrap"><a href="Photon%20noise%20and%20statistics.html" class="backlink-item">Photon noise and statistics</a></li>
-    <li class="backlink-item-wrap"><a href="Sky%20brightness.html" class="backlink-item">Sky brightness</a></li>
-    <li class="backlink-item-wrap"><a href="Spectrograph%20design.html" class="backlink-item">Spectrograph design</a></li>
-    <li class="backlink-item-wrap"><a href="The%20CCD%20equation.html" class="backlink-item">The CCD equation</a></li>
-    <li class="backlink-item-wrap"><a href="interf/Atmospheric%20scintillation.html" class="backlink-item">Atmospheric scintillation</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Atmospheric scintillation]]
+- [[CCD basics]]
+- [[CCD calibration steps]]
+- [[CCD noise sources]]
+- [[CCD readout chain]]
+- [[Dispersion and spectral resolution]]
+- [[Distance ladder derivations]]
+- [[Earth atmosphere for observations]]
+- [[Obs_astro_course_intro]]
+- [[Other detectors]]
+- [[Photon noise and statistics]]
+- [[Sky brightness]]
+- [[Spectrograph design]]
+- [[The CCD equation]]
+- [[Observational_Astrophysics_MOC]]
+
 

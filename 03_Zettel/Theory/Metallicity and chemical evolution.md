@@ -74,16 +74,16 @@ unaccounted metallicity shifts standard candle zero-points:
 
 ## see also
 
-- [Observational_Astrophysics_MOC](../../04_Atlas/Observational_Astrophysics_MOC.html)
-- [Stellar_Astrophysics_MOC](../../04_Atlas/Stellar_Astrophysics_MOC.html)
-- [Stellar populations I II III](Stellar%20populations%20I%20II%20III.html)
-- [Population I and II stars](Population%20I%20and%20II%20stars.html)
-- [Cluster ages from CMD turnoff](Cluster%20ages%20from%20CMD%20turnoff.html)
-- [Age-metallicity degeneracy](Age-metallicity%20degeneracy.html)
-- [Chemical evolution of galaxies](Chemical%20evolution%20of%20galaxies.html)
-- [Lick indices](Lick%20indices.html)
-- [Single stellar population SSP](Single%20stellar%20population%20SSP.html)
-- [Stellar population synthesis](Stellar%20population%20synthesis.html)
+- [[Observational_Astrophysics_MOC]]
+- [[Stellar_Astrophysics_MOC]]
+- [[Stellar populations I II III]]
+- [[Population I and II stars]]
+- [[Cluster ages from CMD turnoff]]
+- [[Age-metallicity degeneracy]]
+- [[Chemical evolution of galaxies]]
+- [[Lick indices]]
+- [[Single stellar population SSP]]
+- [[Stellar population synthesis]]
 
 ---
 
@@ -149,17 +149,17 @@ unaccounted metallicity shifts standard candle zero-points:
 ![obs_rad-116.png](../../assets/images/obs_rad-116.png)
 *Summary of chemical evolution diagnostics.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (8)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Age-metallicity%20degeneracy.html" class="backlink-item">Age-metallicity degeneracy</a></li>
-    <li class="backlink-item-wrap"><a href="Cooling%20curve.html" class="backlink-item">Cooling curve</a></li>
-    <li class="backlink-item-wrap"><a href="Cooling%20rate%20in%20HII%20regions.html" class="backlink-item">Cooling rate in HII regions</a></li>
-    <li class="backlink-item-wrap"><a href="Curve%20of%20growth%20abundance%20analysis.html" class="backlink-item">Curve of growth abundance analysis</a></li>
-    <li class="backlink-item-wrap"><a href="Equilibrium%20temperature.html" class="backlink-item">Equilibrium temperature</a></li>
-    <li class="backlink-item-wrap"><a href="Lick%20indices.html" class="backlink-item">Lick indices</a></li>
-    <li class="backlink-item-wrap"><a href="Spectroscopic%20Te%20diagnostics.html" class="backlink-item">Spectroscopic Te diagnostics</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Age-metallicity degeneracy]]
+- [[Cooling curve]]
+- [[Cooling rate in HII regions]]
+- [[Curve of growth abundance analysis]]
+- [[Equilibrium temperature]]
+- [[Lick indices]]
+- [[Spectroscopic Te diagnostics]]
+- [[Observational_Astrophysics_MOC]]
+
 

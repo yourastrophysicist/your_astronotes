@@ -81,16 +81,16 @@ for full-rank tall $A$ ($M > N$), $A^+ = (A^T A)^{-1} A^T$, and $A^+ \mathbf{b}$
 
 ## see also
 
-- [Gauss elimination](Gauss%20elimination.html)
-- [LU decomposition](LU%20decomposition.html)
-- [Pros and cons of linear solvers](Pros%20and%20cons%20of%20linear%20solvers.html)
-- [Linear least squares](Linear%20least%20squares.html)
-- [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
+- [[Gauss elimination]]
+- [[LU decomposition]]
+- [[Pros and cons of linear solvers]]
+- [[Linear least squares]]
+- [[Mathematical_Numerical_Methods_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (1)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Mathematical_Numerical_Methods_MOC]]
+
 

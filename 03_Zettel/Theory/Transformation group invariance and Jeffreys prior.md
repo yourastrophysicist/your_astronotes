@@ -51,16 +51,16 @@ $$p_\Phi(\phi) = p_\Theta(\theta) \lvert \det J\rvert = \sqrt{\det F(\theta)} \l
 Jeffreys' prior is uniquely invariant under smooth, non-singular reparametrizations of the parameter space.
 
 ## See Also
-- [Astro-Statistics_and_Cosmology_MOC](../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html)
-- [10_Prior_Assignment_Transformation_Invariance_and_Maximum_Entropy](../../02_Literature/Lectures/Astrostatistics/10_Prior_Assignment_Transformation_Invariance_and_Maximum_Entropy.html)
-- [Fisher information matrix and Cramer-Rao bound](Fisher%20information%20matrix%20and%20Cramer-Rao%20bound.html)
-- [Principle of maximum entropy in prior assignment](Principle%20of%20maximum%20entropy%20in%20prior%20assignment.html)
+- [[Astro-Statistics_and_Cosmology_MOC]]
+- [[10_Prior_Assignment_Transformation_Invariance_and_Maximum_Entropy]]
+- [[Fisher information matrix and Cramer-Rao bound]]
+- [[Principle of maximum entropy in prior assignment]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Principle%20of%20maximum%20entropy%20in%20prior%20assignment.html" class="backlink-item">Principle of maximum entropy in prior assignment</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astro-Statistics_and_Cosmology_MOC.html" class="backlink-item">Astro-Statistics_and_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Principle of maximum entropy in prior assignment]]
+- [[Astro-Statistics_and_Cosmology_MOC]]
+
 

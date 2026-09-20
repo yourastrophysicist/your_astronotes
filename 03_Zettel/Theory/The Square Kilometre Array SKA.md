@@ -34,5 +34,5 @@ The sheer scale of the SKA enables revolutionary science cases. It is designed t
 
 ## connections & zettel links
 
-* parent moc: [Astronomical_Interferometry_MOC](../../04_Atlas/Astronomical_Interferometry_MOC.html)
-* related zettels: [Major radio interferometers](interf/Major%20radio%20interferometers.html), [Event Horizon Telescope EHT](interf/Event%20Horizon%20Telescope%20EHT.html), [Pulsar timing arrays as interferometers](interf/Pulsar%20timing%20arrays%20as%20interferometers.html), [Radio astronomy basics](interf/Radio%20astronomy%20basics.html)
+* parent moc: [[Astronomical_Interferometry_MOC]]
+* related zettels: [[Major radio interferometers]], [[Event Horizon Telescope EHT]], [[Pulsar timing arrays as interferometers]], [[Radio astronomy basics]]

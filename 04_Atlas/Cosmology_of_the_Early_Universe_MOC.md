@@ -10,7 +10,7 @@ title: "Cosmology_of_the_Early_Universe_MOC"
 > • Wednesday 10:30 – 12:30 (**Aula LUF2 [Aule di Via Luzzatti]**)  
 > • Friday 10:30 – 12:30 (**Aula P1C [Edificio Ricci Curbastro]**)  
 > **Timetable Dashboard**: Master Year 2 Semester 1 Timetable  
-> **Literature Compendium**: [Course_Overview_and_Syllabus](../02_Literature/Lectures/Fluid_and_Plasma_Dynamics/Course_Overview_and_Syllabus.html) | [Bartolo_Exam_Exercises_and_Applications_Guide](../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Bartolo_Exam_Exercises_and_Applications_Guide.html)
+> **Literature Compendium**: [[Course_Overview_and_Syllabus]] | [[Bartolo_Exam_Exercises_and_Applications_Guide]]
 
 ---
 
@@ -33,16 +33,16 @@ $$\text{de Sitter acceleration} \to \text{inflaton slow roll} \to \text{quantum 
 
 Before perturbing the universe, we establish the classical FLRW backdrop and trace the physical breakdowns that force an inflationary epoch.
 
-* Lecture Synthesis: [Part1_Standard_Big_Bang_and_Shortcomings](../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part1_Standard_Big_Bang_and_Shortcomings.html)
+* Lecture Synthesis: [[Part1_Standard_Big_Bang_and_Shortcomings]]
 * Relevant Course PDFs: `Blocco_1.pdf`, `Notes_on_Early_Universe-34 (1).pdf` (pp. 11–38)
 
 Key Zettels & Derivations:
-* [FLRW metric](../03_Zettel/Theory/FLRW%20metric.html) — Homogeneous, isotropic line element in cosmic time $t$ and conformal time $\tau$.
-* [Friedmann equations](../03_Zettel/Theory/Friedmann%20equations.html) — Background dynamics, continuity equation, energy density scaling $\rho(a) \propto a^{-3(1+w)}$.
-* [Horizon problem and causal structure](../03_Zettel/Theory/Horizon%20problem%20and%20causal%20structure.html) — Particle horizon vs event horizon vs Hubble radius; physical horizon at recombination subtends $\theta_H \approx 1^\circ$ on the CMB sky ($\sim 40{,}000$ causally disconnected domains).
-* [Flatness problem and dynamical attractor](../03_Zettel/Theory/Flatness%20problem%20and%20dynamical%20attractor.html) — Curvature evolution equation $\frac{d\Omega_k}{d\ln a} = \Omega_k\Omega(1+3w)$; unstable repeller in standard cosmology ($\lvert 1-\Omega_{\rm Pl}\rvert < 10^{-60}$) vs stable dynamical attractor during inflation ($\lvert\Omega_k\rvert \propto e^{-2N}$).
-* [Cosmic relics and Kibble mechanism](../03_Zettel/Theory/Cosmic%20relics%20and%20Kibble%20mechanism.html) — Spontaneous symmetry breaking at $T_{\rm GUT} \sim 10^{16}\text{ GeV}$; topological defect formation; magnetic monopole overclosure catastrophe ($\Omega_{\rm mono} \sim 10^{14}$) and its exponential dilution ($e^{-3N} \sim 10^{-78}$).
-* [Cosmological inflation](../03_Zettel/Theory/Cosmological%20inflation.html) — The kinematics of accelerated expansion ($\ddot{a} > 0 \iff w < -1/3$); shrinking comoving Hubble radius $\frac{d}{dt}(aH)^{-1} < 0$.
+* [[FLRW metric]] — Homogeneous, isotropic line element in cosmic time $t$ and conformal time $\tau$.
+* [[Friedmann equations]] — Background dynamics, continuity equation, energy density scaling $\rho(a) \propto a^{-3(1+w)}$.
+* [[Horizon problem and causal structure]] — Particle horizon vs event horizon vs Hubble radius; physical horizon at recombination subtends $\theta_H \approx 1^\circ$ on the CMB sky ($\sim 40{,}000$ causally disconnected domains).
+* [[Flatness problem and dynamical attractor]] — Curvature evolution equation $\frac{d\Omega_k}{d\ln a} = \Omega_k\Omega(1+3w)$; unstable repeller in standard cosmology ($\lvert 1-\Omega_{\rm Pl}\rvert < 10^{-60}$) vs stable dynamical attractor during inflation ($\lvert\Omega_k\rvert \propto e^{-2N}$).
+* [[Cosmic relics and Kibble mechanism]] — Spontaneous symmetry breaking at $T_{\rm GUT} \sim 10^{16}\text{ GeV}$; topological defect formation; magnetic monopole overclosure catastrophe ($\Omega_{\rm mono} \sim 10^{14}$) and its exponential dilution ($e^{-3N} \sim 10^{-78}$).
+* [[Cosmological inflation]] — The kinematics of accelerated expansion ($\ddot{a} > 0 \iff w < -1/3$); shrinking comoving Hubble radius $\frac{d}{dt}(aH)^{-1} < 0$.
 
 ---
 
@@ -50,16 +50,16 @@ Key Zettels & Derivations:
 
 Accelerated expansion modeled dynamically through a self-interacting real scalar field coupled minimally to gravity.
 
-* Lecture Synthesis: [Part2_Inflation_Kinematics_Dynamics_and_Models](../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part2_Inflation_Kinematics_Dynamics_and_Models.html)
+* Lecture Synthesis: [[Part2_Inflation_Kinematics_Dynamics_and_Models]]
 * Relevant Course PDFs: `Blocco2_24_25_new.pdf`, `Blocco8_updated_latest (1) (1).pdf`, `Notes_on_Early_Universe-34 (1).pdf` (pp. 39–50, 71–84)
 
 Key Zettels & Derivations:
-* [Single-field slow-roll inflation dynamics](../03_Zettel/Theory/Single-field%20slow-roll%20inflation%20dynamics.html) — Inflaton action, stress-energy tensor as a perfect fluid, Klein-Gordon equation $\ddot{\phi} + 3H\dot{\phi} + V' = 0$, Hubble friction, slow-roll conditions.
-* [Slow-roll parameters epsilon and eta](../03_Zettel/Theory/Slow-roll%20parameters%20epsilon%20and%20eta.html) — Hubble parameters $\epsilon = -\dot{H}/H^2$, $\eta = -\ddot{\phi}/(H\dot{\phi})$; potential parameters $\epsilon_V = \frac{M_{\rm Pl}^2}{2}(V'/V)^2$, $\eta_V = M_{\rm Pl}^2(V''/V)$; lowest-order relations $\eta \approx \eta_V - \epsilon_V$, $\dot{\epsilon}/H = 2\epsilon(\epsilon - \eta)$.
-* [Number of e-folds and horizon exit](../03_Zettel/Theory/Number%20of%20e-folds%20and%20horizon%20exit.html) — $N(\phi) \approx \frac{1}{M_{\rm Pl}^2}\int_{\phi_{\rm end}}^\phi \frac{V}{V'} d\phi'$; requirement of $N \approx 50 - 60$ e-folds for CMB modes.
-* [Large-field versus small-field inflation models](../03_Zettel/Theory/Large-field%20versus%20small-field%20inflation%20models.html) — Monomial chaotic inflation ($m^2\phi^2, \lambda\phi^4$) vs hilltop symmetry-breaking models.
-* [Lyth bound and field excursion](../03_Zettel/Theory/Lyth%20bound%20and%20field%20excursion.html) — Relation $\frac{\Delta\phi}{M_{\rm Pl}} \approx \mathcal{O}(1)\sqrt{r/0.01}$; threshold between super-Planckian and sub-Planckian field excursions.
-* [Starobinsky R-squared inflation](../03_Zettel/Theory/Starobinsky%20R-squared%20inflation.html) — Modified gravity action $R + R^2/(6M^2)$, conformal frame transformation, asymptotically flat Einstein-frame potential $V_0(1 - e^{-\sqrt{2/3}\phi/M_{\rm Pl}})^2$, predictions $n_s \approx 1 - 2/N$, $r \approx 12/N^2 \approx 0.003$.
+* [[Single-field slow-roll inflation dynamics]] — Inflaton action, stress-energy tensor as a perfect fluid, Klein-Gordon equation $\ddot{\phi} + 3H\dot{\phi} + V' = 0$, Hubble friction, slow-roll conditions.
+* [[Slow-roll parameters epsilon and eta]] — Hubble parameters $\epsilon = -\dot{H}/H^2$, $\eta = -\ddot{\phi}/(H\dot{\phi})$; potential parameters $\epsilon_V = \frac{M_{\rm Pl}^2}{2}(V'/V)^2$, $\eta_V = M_{\rm Pl}^2(V''/V)$; lowest-order relations $\eta \approx \eta_V - \epsilon_V$, $\dot{\epsilon}/H = 2\epsilon(\epsilon - \eta)$.
+* [[Number of e-folds and horizon exit]] — $N(\phi) \approx \frac{1}{M_{\rm Pl}^2}\int_{\phi_{\rm end}}^\phi \frac{V}{V'} d\phi'$; requirement of $N \approx 50 - 60$ e-folds for CMB modes.
+* [[Large-field versus small-field inflation models]] — Monomial chaotic inflation ($m^2\phi^2, \lambda\phi^4$) vs hilltop symmetry-breaking models.
+* [[Lyth bound and field excursion]] — Relation $\frac{\Delta\phi}{M_{\rm Pl}} \approx \mathcal{O}(1)\sqrt{r/0.01}$; threshold between super-Planckian and sub-Planckian field excursions.
+* [[Starobinsky R-squared inflation]] — Modified gravity action $R + R^2/(6M^2)$, conformal frame transformation, asymptotically flat Einstein-frame potential $V_0(1 - e^{-\sqrt{2/3}\phi/M_{\rm Pl}})^2$, predictions $n_s \approx 1 - 2/N$, $r \approx 12/N^2 \approx 0.003$.
 * Cosmic no-hair theorem (Wald 1983) and the $\eta$-problem in supergravity/EFT.
 
 ---
@@ -68,15 +68,15 @@ Key Zettels & Derivations:
 
 The microphysical mechanism: how microscopic quantum vacuum zero-point fluctuations of the inflaton field freeze out as macroscopic classical density seeds.
 
-* Lecture Synthesis: [Part3_Quantum_Perturbations_and_Power_Spectra](../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part3_Quantum_Perturbations_and_Power_Spectra.html)
+* Lecture Synthesis: [[Part3_Quantum_Perturbations_and_Power_Spectra]]
 * Relevant Course PDFs: `Blocco3_updated_last (1) 2.pdf`, `Blocco4_updated_last (1) (1).pdf`, `Blocco5_updated_last (1) (1).pdf`, `Notes_on_Early_Universe-34 (1).pdf` (pp. 51–65)
 
 Key Zettels & Derivations:
-* [Quantum fluctuations of the inflaton field](../03_Zettel/Theory/Quantum%20fluctuations%20of%20the%20inflaton%20field.html) — Canonical quantization in conformal time, sub-horizon quantum harmonic oscillators vs super-horizon freeze-out.
-* [Sasaki-Mukhanov variable and equation](../03_Zettel/Theory/Sasaki-Mukhanov%20variable%20and%20equation.html) — Canonical variable $v = z \mathcal{R} = a[\delta\phi + \frac{\dot{\phi}}{H}\psi]$, master equation $v_k'' + (k^2 - z''/z)v_k = 0$, de Sitter behavior $z''/z \approx 2/\tau^2$.
-* [Bunch-Davies vacuum and mode functions](../03_Zettel/Theory/Bunch-Davies%20vacuum%20and%20mode%20functions.html) — Asymptotic past ultraviolet boundary condition $\lim_{\tau\to-\infty} v_k = \frac{1}{\sqrt{2k}}e^{-ik\tau}$, exact Hankel function solutions $u_k(\tau) = \frac{e^{-ik\tau}}{\sqrt{2k}}(1 - \frac{i}{k\tau})$.
-* [Curvature perturbation R and zeta](../03_Zettel/Theory/Curvature%20perturbation%20R%20and%20zeta.html) — Comoving curvature perturbation $\mathcal{R}$ and uniform-density curvature perturbation $\zeta$; proof of super-horizon conservation ($d\zeta/dt = 0$ for $k \ll aH$ for adiabatic modes).
-* [Scalar primordial power spectrum and spectral index](../03_Zettel/Theory/Scalar%20primordial%20power%20spectrum%20and%20spectral%20index.html) — Dimensionless power spectrum $\mathcal{P}_\mathcal{R}(k) = \frac{1}{24\pi^2 M_{\rm Pl}^4}\frac{V}{\epsilon_V}\big\vert_{k=aH}$; scalar tilt $n_s - 1 \equiv \frac{d\ln\mathcal{P}_\mathcal{R}}{d\ln k} = 2\eta_V - 6\epsilon_V$; Planck 2018 value $n_s = 0.9649 \pm 0.0042$.
+* [[Quantum fluctuations of the inflaton field]] — Canonical quantization in conformal time, sub-horizon quantum harmonic oscillators vs super-horizon freeze-out.
+* [[Sasaki-Mukhanov variable and equation]] — Canonical variable $v = z \mathcal{R} = a[\delta\phi + \frac{\dot{\phi}}{H}\psi]$, master equation $v_k'' + (k^2 - z''/z)v_k = 0$, de Sitter behavior $z''/z \approx 2/\tau^2$.
+* [[Bunch-Davies vacuum and mode functions]] — Asymptotic past ultraviolet boundary condition $\lim_{\tau\to-\infty} v_k = \frac{1}{\sqrt{2k}}e^{-ik\tau}$, exact Hankel function solutions $u_k(\tau) = \frac{e^{-ik\tau}}{\sqrt{2k}}(1 - \frac{i}{k\tau})$.
+* [[Curvature perturbation R and zeta]] — Comoving curvature perturbation $\mathcal{R}$ and uniform-density curvature perturbation $\zeta$; proof of super-horizon conservation ($d\zeta/dt = 0$ for $k \ll aH$ for adiabatic modes).
+* [[Scalar primordial power spectrum and spectral index]] — Dimensionless power spectrum $\mathcal{P}_\mathcal{R}(k) = \frac{1}{24\pi^2 M_{\rm Pl}^4}\frac{V}{\epsilon_V}\big\vert_{k=aH}$; scalar tilt $n_s - 1 \equiv \frac{d\ln\mathcal{P}_\mathcal{R}}{d\ln k} = 2\eta_V - 6\epsilon_V$; Planck 2018 value $n_s = 0.9649 \pm 0.0042$.
 
 ---
 
@@ -84,13 +84,13 @@ Key Zettels & Derivations:
 
 Quantum fluctuations of the spacetime geometry: transverse-traceless metric tensor perturbations and the observational search for primordial B-modes.
 
-* Lecture Synthesis: [Part3_Quantum_Perturbations_and_Power_Spectra](../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part3_Quantum_Perturbations_and_Power_Spectra.html)
+* Lecture Synthesis: [[Part3_Quantum_Perturbations_and_Power_Spectra]]
 * Relevant Course PDFs: `Blocco3_updated_latest_GWs (1) (1).pdf`, `Lecture_XXIII_2023-2024 copy.pdf`, `2112.07961_Tristram_II (1).pdf`, `2208.00188 (1).pdf`
 
 Key Zettels & Derivations:
-* [Tensor perturbations and primordial gravitational waves](../03_Zettel/Theory/Tensor%20perturbations%20and%20primordial%20gravitational%20waves.html) — Metric perturbation $g_{ij} = a^2(\delta_{ij} + h_{ij})$, 2 polarization states ($+, \times$), wave equation $h_k'' + 2\frac{a'}{a}h_k' + k^2 h_k = 0$, tensor power spectrum $\mathcal{P}_T(k) = \frac{2}{\pi^2}\frac{H^2}{M_{\rm Pl}^2}\big\vert_{k=aH} = \frac{2}{3\pi^2}\frac{V}{M_{\rm Pl}^4}\big\vert_{k=aH}$.
-* [Tensor-to-scalar ratio r and inflation energy scale](../03_Zettel/Theory/Tensor-to-scalar%20ratio%20r%20and%20inflation%20energy%20scale.html) — Ratio $r \equiv \mathcal{P}_T/\mathcal{P}_\mathcal{R} = 16\epsilon$; direct determination of the inflation energy scale $V^{1/4} \simeq 1.88 \times 10^{16}\text{ GeV}(r/0.10)^{1/4} \simeq 0.6 \times 10^{16}\text{ GeV}(r/10^{-3})^{1/4}$.
-* [Consistency relation of single-field slow-roll inflation](../03_Zettel/Theory/Consistency%20relation%20of%20single-field%20slow-roll%20inflation.html) — Tensor tilt $n_T = -2\epsilon = -r/8$; testable consistency relation $r = -8 n_T$.
+* [[Tensor perturbations and primordial gravitational waves]] — Metric perturbation $g_{ij} = a^2(\delta_{ij} + h_{ij})$, 2 polarization states ($+, \times$), wave equation $h_k'' + 2\frac{a'}{a}h_k' + k^2 h_k = 0$, tensor power spectrum $\mathcal{P}_T(k) = \frac{2}{\pi^2}\frac{H^2}{M_{\rm Pl}^2}\big\vert_{k=aH} = \frac{2}{3\pi^2}\frac{V}{M_{\rm Pl}^4}\big\vert_{k=aH}$.
+* [[Tensor-to-scalar ratio r and inflation energy scale]] — Ratio $r \equiv \mathcal{P}_T/\mathcal{P}_\mathcal{R} = 16\epsilon$; direct determination of the inflation energy scale $V^{1/4} \simeq 1.88 \times 10^{16}\text{ GeV}(r/0.10)^{1/4} \simeq 0.6 \times 10^{16}\text{ GeV}(r/10^{-3})^{1/4}$.
+* [[Consistency relation of single-field slow-roll inflation]] — Tensor tilt $n_T = -2\epsilon = -r/8$; testable consistency relation $r = -8 n_T$.
 * Observational constraints: Planck 2018 + BICEP/Keck (Tristram et al. 2021) bound $r < 0.032$; future targets (LiteBIRD, CMB-S4) reaching $\sigma(r) \sim 10^{-3}$.
 
 ---
@@ -99,16 +99,16 @@ Key Zettels & Derivations:
 
 Probing physics beyond the two-point function: bispectrum shapes, non-linear parameters, and quantum field theory in curved spacetime.
 
-* Lecture Synthesis: [Part4_Advanced_Formalisms_and_Non_Gaussianity](../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part4_Advanced_Formalisms_and_Non_Gaussianity.html)
+* Lecture Synthesis: [[Part4_Advanced_Formalisms_and_Non_Gaussianity]]
 * Relevant Course PDFs: `Introduction_in_in_24.pdf`, `Appunti_formalismo_In-In.pdf`, `638979 2.pdf` (Chen 2010), `0506236 (1) 2.pdf` (Weinberg 2005)
 
 Key Zettels & Derivations:
-* [In-In formalism for cosmological correlators](../03_Zettel/Theory/In-In%20formalism%20for%20cosmological%20correlators.html) — Schwinger-Keldysh closed time contour; equal-time vacuum expectation values $\langle \Omega \vert \mathcal{O}(t) \vert \Omega \rangle$; Weinberg master commutator formula; interaction Hamiltonian $H_I(t)$.
-* [Primordial non-Gaussianity and bispectrum shapes](../03_Zettel/Theory/Primordial%20non-Gaussianity%20and%20bispectrum%20shapes.html) — 3-point correlation function in Fourier space:
+* [[In-In formalism for cosmological correlators]] — Schwinger-Keldysh closed time contour; equal-time vacuum expectation values $\langle \Omega \vert \mathcal{O}(t) \vert \Omega \rangle$; Weinberg master commutator formula; interaction Hamiltonian $H_I(t)$.
+* [[Primordial non-Gaussianity and bispectrum shapes]] — 3-point correlation function in Fourier space:
   $$\langle\zeta_{\mathbf{k}_1}\zeta_{\mathbf{k}_2}\zeta_{\mathbf{k}_3}\rangle = (2\pi)^3 \delta^{(3)}(\mathbf{k}_1 + \mathbf{k}_2 + \mathbf{k}_3) B_\zeta(k_1, k_2, k_3)$$
   Non-linearity parameter $f_{\rm NL}$; local shape (squeezed $k_1 \ll k_2 \approx k_3$, multi-field/curvaton), equilateral shape ($k_1 \approx k_2 \approx k_3$, non-canonical kinetic terms $c_s \ll 1$), folded/orthogonal shapes (non-Bunch-Davies vacua).
-* [Maldacena consistency condition](../03_Zettel/Theory/Maldacena%20consistency%20condition.html) — Single-field theorem in the squeezed limit: $\lim_{k_1\to 0} \frac{B_\zeta}{P_\zeta(k_1)P_\zeta(k_2)} = -(n_s - 1) \implies f_{\rm NL}^{\rm local} = \frac{5}{12}(1 - n_s) \approx 0.015$; any detection of $\lvert f_{\rm NL}^{\rm local}\rvert \gtrsim 1$ rigorously falsifies all single-field slow-roll models.
-* [Delta-N formalism](../03_Zettel/Theory/Delta-N%20formalism.html) — Separate universe approximation on super-horizon scales ($k \ll aH$); non-linear curvature perturbation $\zeta \approx \delta N = \sum N_{,I}\delta\phi^I + \frac{1}{2}\sum N_{,IJ}\delta\phi^I\delta\phi^J$; computation of $f_{\rm NL}^{\rm local} = \frac{5}{6}\frac{\sum N_{,I}N_{,J}N_{,IJ}}{(\sum N_{,K}^2)^2}$.
+* [[Maldacena consistency condition]] — Single-field theorem in the squeezed limit: $\lim_{k_1\to 0} \frac{B_\zeta}{P_\zeta(k_1)P_\zeta(k_2)} = -(n_s - 1) \implies f_{\rm NL}^{\rm local} = \frac{5}{12}(1 - n_s) \approx 0.015$; any detection of $\lvert f_{\rm NL}^{\rm local}\rvert \gtrsim 1$ rigorously falsifies all single-field slow-roll models.
+* [[Delta-N formalism]] — Separate universe approximation on super-horizon scales ($k \ll aH$); non-linear curvature perturbation $\zeta \approx \delta N = \sum N_{,I}\delta\phi^I + \frac{1}{2}\sum N_{,IJ}\delta\phi^I\delta\phi^J$; computation of $f_{\rm NL}^{\rm local} = \frac{5}{6}\frac{\sum N_{,I}N_{,J}N_{,IJ}}{(\sum N_{,K}^2)^2}$.
 * Theories with non-canonical kinetic terms $\mathcal{L}(X, \phi)$: sound speed $c_s^2 = \mathcal{L}_{,X}/(\mathcal{L}_{,X} + 2X\mathcal{L}_{,XX})$ and generation of equilateral non-Gaussianity $f_{\rm NL}^{\rm equil} \sim -1/c_s^2$.
 
 ---
@@ -117,13 +117,13 @@ Key Zettels & Derivations:
 
 Rigorous General Relativity perturbation theory: eliminating coordinate artifacts and linearizing Einstein's field equations.
 
-* Lecture Synthesis: [Part5_GR_Cosmological_Perturbation_Theory](../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part5_GR_Cosmological_Perturbation_Theory.html)
+* Lecture Synthesis: [[Part5_GR_Cosmological_Perturbation_Theory]]
 * Relevant Course PDFs: `Notes_on_Early_Universe-34 (1).pdf` (Ch. 5), `PhysRevD.22.1882.pdf_Bardeen_paper (1).pdf`
 
 Key Zettels & Derivations:
-* [Cosmological perturbation theory in General Relativity](../03_Zettel/Theory/Cosmological%20perturbation%20theory%20in%20General%20Relativity.html) — Linearly perturbed line element, 10 degrees of freedom, SVT decomposition into 4 scalars ($\psi, \phi, w, \chi$), 4 vectors ($w_i^\perp, v_i$), and 2 tensors ($h_{ij}$).
-* [Gauge transformations and Bardeen potentials](../03_Zettel/Theory/Gauge%20transformations%20and%20Bardeen%20potentials.html) — Coordinate transformations $x^\mu \to x^\mu + \xi^\mu$, Lie derivatives, transformation laws for metric potentials; construction of gauge-invariant Bardeen potentials $\Phi$ and $\Psi$; conformal Newtonian (longitudinal) gauge.
-* [Gauge-invariant density perturbation and relativistic Poisson equation](../03_Zettel/Theory/Gauge-invariant%20density%20perturbation%20and%20relativistic%20Poisson%20equation.html) — 4-velocity normalization $u^\mu u_\mu = -1 \implies v^0 = -\psi$; gauge-invariant comoving-orthogonal energy density perturbation $\epsilon_m = \delta\rho + \rho_0'(v_\parallel + w_\parallel)$; relativistic Poisson equation $\nabla^2\Phi = 4\pi G a^2 \epsilon_m$.
+* [[Cosmological perturbation theory in General Relativity]] — Linearly perturbed line element, 10 degrees of freedom, SVT decomposition into 4 scalars ($\psi, \phi, w, \chi$), 4 vectors ($w_i^\perp, v_i$), and 2 tensors ($h_{ij}$).
+* [[Gauge transformations and Bardeen potentials]] — Coordinate transformations $x^\mu \to x^\mu + \xi^\mu$, Lie derivatives, transformation laws for metric potentials; construction of gauge-invariant Bardeen potentials $\Phi$ and $\Psi$; conformal Newtonian (longitudinal) gauge.
+* [[Gauge-invariant density perturbation and relativistic Poisson equation]] — 4-velocity normalization $u^\mu u_\mu = -1 \implies v^0 = -\psi$; gauge-invariant comoving-orthogonal energy density perturbation $\epsilon_m = \delta\rho + \rho_0'(v_\parallel + w_\parallel)$; relativistic Poisson equation $\nabla^2\Phi = 4\pi G a^2 \epsilon_m$.
 
 ---
 
@@ -131,12 +131,12 @@ Key Zettels & Derivations:
 
 Bridging the cold, empty inflationary state to the thermal bath of the Hot Big Bang.
 
-* Lecture Synthesis: [Part6_Reheating_Baryogenesis_and_Dark_Matter](../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part6_Reheating_Baryogenesis_and_Dark_Matter.html)
+* Lecture Synthesis: [[Part6_Reheating_Baryogenesis_and_Dark_Matter]]
 * Relevant Course PDFs: `Notes_on_Early_Universe-34 (1).pdf` (pp. 85–88)
 
 Key Zettels & Derivations:
-* [Reheating dynamics and thermalization](../03_Zettel/Theory/Reheating%20dynamics%20and%20thermalization.html) — Breakdown of slow roll ($\epsilon \approx 1$); coherent inflaton oscillations in $V(\phi) \approx \frac{1}{2}m^2\phi^2$; effective matter era ($w = 0, a \propto t^{2/3}$); perturbative decay with width $\Gamma_\phi$; thermalization temperature $T_{\rm reh} \approx 0.55 g_*^{-1/4}\sqrt{\Gamma_\phi M_{\rm Pl}}$.
-* [Preheating and parametric resonance](../03_Zettel/Theory/Preheating%20and%20parametric%20resonance.html) — Inflaton coupling $\frac{1}{2}g^2\phi^2\chi^2$; mode equation mapped to the Mathieu equation $X_k'' + [A_k - 2q\cos(2\tau)]X_k = 0$; broad parametric resonance ($q \gg 1$); explosive, non-thermal particle creation.
+* [[Reheating dynamics and thermalization]] — Breakdown of slow roll ($\epsilon \approx 1$); coherent inflaton oscillations in $V(\phi) \approx \frac{1}{2}m^2\phi^2$; effective matter era ($w = 0, a \propto t^{2/3}$); perturbative decay with width $\Gamma_\phi$; thermalization temperature $T_{\rm reh} \approx 0.55 g_*^{-1/4}\sqrt{\Gamma_\phi M_{\rm Pl}}$.
+* [[Preheating and parametric resonance]] — Inflaton coupling $\frac{1}{2}g^2\phi^2\chi^2$; mode equation mapped to the Mathieu equation $X_k'' + [A_k - 2q\cos(2\tau)]X_k = 0$; broad parametric resonance ($q \gg 1$); explosive, non-thermal particle creation.
 
 ---
 
@@ -144,16 +144,16 @@ Key Zettels & Derivations:
 
 Origin of matter and dark matter in the primordial plasma.
 
-* Lecture Synthesis: [Part6_Reheating_Baryogenesis_and_Dark_Matter](../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part6_Reheating_Baryogenesis_and_Dark_Matter.html)
+* Lecture Synthesis: [[Part6_Reheating_Baryogenesis_and_Dark_Matter]]
 * Relevant Course PDFs: `Review_Baryogenesis (1) (1).pdf` (Trodden 2004), `DM_production (1).pdf`, `Notes_on_Early_Universe-34 (1).pdf` (pp. 89–122)
 
 Key Zettels & Derivations:
-* [Sakharov conditions for baryogenesis](../03_Zettel/Theory/Sakharov%20conditions%20for%20baryogenesis.html) — Baryon asymmetry $\eta_B \approx 6.1 \times 10^{-10}$; failure of thermal equilibrium ("annihilation catastrophe", $\eta_B \sim 10^{-18}$); Sakharov's three conditions: $B$ violation, $C$ and $CP$ violation, departure from thermal equilibrium.
-* [Out-of-equilibrium decay baryogenesis and Weinberg model](../03_Zettel/Theory/Out-of-equilibrium%20decay%20baryogenesis%20and%20Weinberg%20model.html) — Heavy GUT boson $X$ decay channels; net asymmetry $\Delta B = (r - \bar{r})(B_1 - B_2)$; Boltzmann evolution; decay parameter $K \equiv \frac{\Gamma_X}{2 H(T=M_X)}$; weak washout ($K \ll 1, T_D \sim K^{1/2}M_X$) vs strong washout ($K \gg 1$).
-* [Electroweak sphalerons and leptogenesis](../03_Zettel/Theory/Electroweak%20sphalerons%20and%20leptogenesis.html) — Chiral anomaly and non-conservation of $B+L$; sphaleron transitions at $T > 100\text{ GeV}$; $(B-L)$ conservation; thermal leptogenesis via right-handed Majorana neutrino decay ($N_1 \to \ell H$), converted to baryon asymmetry $B = \frac{28}{79}(B-L)$.
-* [Dark matter thermal freeze-out and Lee-Weinberg bound](../03_Zettel/Theory/Dark%20matter%20thermal%20freeze-out%20and%20Lee-Weinberg%20bound.html) — Boltzmann equation $\frac{dn}{dt} + 3Hn = -\langle\sigma v\rangle(n^2 - n_{\rm eq}^2)$; chemical decoupling at $\Gamma_{\rm ann} \sim H$; relic density scaling $\Omega_\chi h^2 \approx \frac{3 \times 10^{-27}\text{ cm}^3/\text{s}}{\langle\sigma v\rangle}$; WIMP miracle; Lee-Weinberg bound $m_\chi \gtrsim 2 - 5\text{ GeV}$.
-* [Hot versus cold dark matter in the early universe](../03_Zettel/Theory/Hot%20versus%20cold%20dark%20matter%20in%20the%20early%20universe.html) — Relativistic freeze-out ($T_{\rm fo} \gg m$); neutrino relic density $\Omega_\nu h^2 = \sum m_\nu / 93.14\text{ eV}$; free-streaming scale $\lambda_{\rm fs} \sim 40\text{ Mpc}(30\text{ eV}/m_\nu)$; erasure of small-scale perturbations and top-down structure formation (ruled out by observations).
-* [Non-thermal dark matter relics and axion misalignment](../03_Zettel/Theory/Non-thermal%20dark%20matter%20relics%20and%20axion%20misalignment.html) — QCD axion from Peccei-Quinn mechanism; temperature-dependent mass $m_a(T)$; coherent oscillations starting at $3H(T) \approx m_a(T)$; zero-momentum cold Bose-Einstein condensate with $\Omega_a h^2 \approx 0.12 (10\mu\text{eV}/m_a)^{1.17}\theta_i^2$.
+* [[Sakharov conditions for baryogenesis]] — Baryon asymmetry $\eta_B \approx 6.1 \times 10^{-10}$; failure of thermal equilibrium ("annihilation catastrophe", $\eta_B \sim 10^{-18}$); Sakharov's three conditions: $B$ violation, $C$ and $CP$ violation, departure from thermal equilibrium.
+* [[Out-of-equilibrium decay baryogenesis and Weinberg model]] — Heavy GUT boson $X$ decay channels; net asymmetry $\Delta B = (r - \bar{r})(B_1 - B_2)$; Boltzmann evolution; decay parameter $K \equiv \frac{\Gamma_X}{2 H(T=M_X)}$; weak washout ($K \ll 1, T_D \sim K^{1/2}M_X$) vs strong washout ($K \gg 1$).
+* [[Electroweak sphalerons and leptogenesis]] — Chiral anomaly and non-conservation of $B+L$; sphaleron transitions at $T > 100\text{ GeV}$; $(B-L)$ conservation; thermal leptogenesis via right-handed Majorana neutrino decay ($N_1 \to \ell H$), converted to baryon asymmetry $B = \frac{28}{79}(B-L)$.
+* [[Dark matter thermal freeze-out and Lee-Weinberg bound]] — Boltzmann equation $\frac{dn}{dt} + 3Hn = -\langle\sigma v\rangle(n^2 - n_{\rm eq}^2)$; chemical decoupling at $\Gamma_{\rm ann} \sim H$; relic density scaling $\Omega_\chi h^2 \approx \frac{3 \times 10^{-27}\text{ cm}^3/\text{s}}{\langle\sigma v\rangle}$; WIMP miracle; Lee-Weinberg bound $m_\chi \gtrsim 2 - 5\text{ GeV}$.
+* [[Hot versus cold dark matter in the early universe]] — Relativistic freeze-out ($T_{\rm fo} \gg m$); neutrino relic density $\Omega_\nu h^2 = \sum m_\nu / 93.14\text{ eV}$; free-streaming scale $\lambda_{\rm fs} \sim 40\text{ Mpc}(30\text{ eV}/m_\nu)$; erasure of small-scale perturbations and top-down structure formation (ruled out by observations).
+* [[Non-thermal dark matter relics and axion misalignment]] — QCD axion from Peccei-Quinn mechanism; temperature-dependent mass $m_a(T)$; coherent oscillations starting at $3H(T) \approx m_a(T)$; zero-momentum cold Bose-Einstein condensate with $\Omega_a h^2 \approx 0.12 (10\mu\text{eV}/m_a)^{1.17}\theta_i^2$.
 
 ---
 
@@ -161,7 +161,7 @@ Key Zettels & Derivations:
 
 Master problem solving compendium covering all 31 homework problems assigned by Prof. Nicola Bartolo in `Homework_2025_2026.pdf`.
 
-* Comprehensive Problem Guide: [Bartolo_Exam_Exercises_and_Applications_Guide](../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Bartolo_Exam_Exercises_and_Applications_Guide.html)
+* Comprehensive Problem Guide: [[Bartolo_Exam_Exercises_and_Applications_Guide]]
 
 ### Topic mapping for exam review:
 1. **Background & Horizon kinematics**: Exercises 1, 2, 3, 4, 8
@@ -180,9 +180,9 @@ Master problem solving compendium covering all 31 homework problems assigned by 
 
 Canonical and modern arXiv astro-ph.CO/gr-qc benchmark papers underlying the inflationary and perturbation-theory formalism above.
 
-- [Baumann (2009) — TASI Lectures on Inflation](../02_Literature/Papers/09_Cosmology_Early_Universe/Baumann_2009_TASI_Lectures_on_Inflation.html) — slow-roll formalism, scalar/tensor power spectra, $r=16\epsilon$
-- [BICEP/Keck Collaboration (2021) — Improved Constraints on Primordial Gravitational Waves](../02_Literature/Papers/09_Cosmology_Early_Universe/BICEP_Keck_2021_Primordial_Gravitational_Waves.html) — B-mode polarization, $r_{0.05}<0.036$
-- [Mukhanov, Feldman & Brandenberger (1992) — Theory of Cosmological Perturbations](../02_Literature/Papers/09_Cosmology_Early_Universe/Mukhanov_Feldman_Brandenberger_1992_Cosmological_Perturbations.html) — gauge-invariant formalism, the Mukhanov-Sasaki equation
+- [[Baumann_2009_TASI_Lectures_on_Inflation|Baumann (2009) — TASI Lectures on Inflation]] — slow-roll formalism, scalar/tensor power spectra, $r=16\epsilon$
+- [[BICEP_Keck_2021_Primordial_Gravitational_Waves|BICEP/Keck Collaboration (2021) — Improved Constraints on Primordial Gravitational Waves]] — B-mode polarization, $r_{0.05}<0.036$
+- [[Mukhanov_Feldman_Brandenberger_1992_Cosmological_Perturbations|Mukhanov, Feldman & Brandenberger (1992) — Theory of Cosmological Perturbations]] — gauge-invariant formalism, the Mukhanov-Sasaki equation
 
 ---
 
@@ -199,10 +199,10 @@ SORT file.name ASC
 
 ## Cross-Course Vault Connections
 
-* [Observational_Cosmology_MOC](Observational_Cosmology_MOC.html) — Late-time FLRW geometry, distance ladder, CMB temperature anisotropies, and large-scale structure formation.
-* [General_Relativity_MOC](General_Relativity_MOC.html) — Spacetime curvature, Christoffel symbols, Einstein field equations, and relativistic stress-energy conservation.
-* [Fundamentals_Astrophysics_Cosmology_MOC](Fundamentals_Astrophysics_Cosmology_MOC.html) — Thermal history of the universe, Big Bang Nucleosynthesis, and recombination physics.
-* [Astro-Statistics_and_Cosmology_MOC](Astro-Statistics_and_Cosmology_MOC.html) — Gaussian random fields, power spectrum estimators, MCMC analysis, and parameter likelihoods.
+* [[Observational_Cosmology_MOC]] — Late-time FLRW geometry, distance ladder, CMB temperature anisotropies, and large-scale structure formation.
+* [[General_Relativity_MOC]] — Spacetime curvature, Christoffel symbols, Einstein field equations, and relativistic stress-energy conservation.
+* [[Fundamentals_Astrophysics_Cosmology_MOC]] — Thermal history of the universe, Big Bang Nucleosynthesis, and recombination physics.
+* [[Astro-Statistics_and_Cosmology_MOC]] — Gaussian random fields, power spectrum estimators, MCMC analysis, and parameter likelihoods.
 * Master Year 2 Semester 1 Timetable — Weekly class schedule and semester planning dashboard.
 
 
@@ -212,19 +212,19 @@ SORT file.name ASC
 
 | Figure ID | Visual Asset Name | Slide / Concept Title | Primary Zettel / Lecture Note Link | Key Theoretical / Cosmological Principle |
 | :--- | :--- | :--- | :--- | :--- |
-| **CEU-01** | `early_inflation_p02.png` | Slow-Roll Inflaton Potential $V(\phi)$ | [Part2_Inflation_Kinematics_Dynamics_and_Models](../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part2_Inflation_Kinematics_Dynamics_and_Models.html) | Slow-roll conditions $\epsilon \ll 1, \eta \ll 1$ and graceful exit dynamics |
-| **CEU-02** | `early_inflation_p08.png` | Comoving Horizon Evolution | [Part2_Inflation_Kinematics_Dynamics_and_Models](../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part2_Inflation_Kinematics_Dynamics_and_Models.html) | Shrinking comoving Hubble horizon $(aH)^{-1}$ solving the horizon and flatness problems |
-| **CEU-03** | `early_inflation_p15.png` | Phase Portrait & Slow-Roll Attractor | [Part2_Inflation_Kinematics_Dynamics_and_Models](../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part2_Inflation_Kinematics_Dynamics_and_Models.html) | Universal cosmic no-hair attractor in $(\phi, \dot{\phi})$ phase space |
-| **CEU-04** | `early_perturbations_p05.png` | Mukhanov-Sasaki Quantum Mode Evolution | [Part3_Quantum_Perturbations_and_Power_Spectra](../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part3_Quantum_Perturbations_and_Power_Spectra.html) | Mode oscillation in sub-horizon regime and freezing out on super-Hubble scales |
-| **CEU-05** | `early_perturbations_p15.png` | Curvature Perturbation $\mathcal{R}_k$ Conservation | [Part3_Quantum_Perturbations_and_Power_Spectra](../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part3_Quantum_Perturbations_and_Power_Spectra.html) | Gauge-invariant super-horizon conservation of $\mathcal{R}_k$ for adiabatic modes |
-| **CEU-06** | `early_perturbations_p25.png` | Bunch-Davies Vacuum Boundary State | [Part3_Quantum_Perturbations_and_Power_Spectra](../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part3_Quantum_Perturbations_and_Power_Spectra.html) | Asymptotic Minkowski vacuum condition $v_k(\tau) \to e^{-ik\tau}/\sqrt{2k}$ as $\tau \to -\infty$ |
-| **CEU-07** | `early_powerspectrum_p05.png` | Primordial Power Spectrum Tilt $n_s$ | [Part3_Quantum_Perturbations_and_Power_Spectra](../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part3_Quantum_Perturbations_and_Power_Spectra.html) | Red scalar spectral index $n_s - 1 = 2\eta - 6\epsilon \approx -0.035$ matching Planck |
-| **CEU-08** | `early_powerspectrum_p20.png` | Primordial Tensor Spectrum & Ratio $r$ | [Part3_Quantum_Perturbations_and_Power_Spectra](../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part3_Quantum_Perturbations_and_Power_Spectra.html) | Primordial gravitational waves $\mathcal{P}_t(k) = \frac{2 H^2}{\pi^2 M_{\mathrm{pl}}^2}$ and bound $r < 0.036$ |
-| **CEU-09** | `early_inin_p01.png` | In-In Closed Time Path Contour | [Part4_Advanced_Formalisms_and_Non_Gaussianity](../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part4_Advanced_Formalisms_and_Non_Gaussianity.html) | Schwinger-Keldysh path contour computing expectation values at fixed time $t$ |
-| **CEU-10** | `early_inin_p05.png` | Primordial Bispectrum Triangular Shapes | [Part4_Advanced_Formalisms_and_Non_Gaussianity](../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part4_Advanced_Formalisms_and_Non_Gaussianity.html) | Local ($k_1 \ll k_2 \approx k_3$), Equilateral ($k_1 \approx k_2 \approx k_3$), and Folded triangles |
-| **CEU-11** | `early_inin_p10.png` | Maldacena Consistency Relation | [Part4_Advanced_Formalisms_and_Non_Gaussianity](../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part4_Advanced_Formalisms_and_Non_Gaussianity.html) | Single-field local non-Gaussianity theorem: $f_{\mathrm{NL}}^{\mathrm{local}} = \frac{5}{12}(1 - n_s)$ |
-| **CEU-12** | `early_baryo_p02.png` | Preheating via Parametric Resonance | [Part6_Reheating_Baryogenesis_and_Dark_Matter](../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part6_Reheating_Baryogenesis_and_Dark_Matter.html) | Inflaton oscillation driving explosive particle creation via Mathieu equation |
-| **CEU-13** | `early_baryo_p08.png` | Sakharov Conditions & Baryogenesis | [Part6_Reheating_Baryogenesis_and_Dark_Matter](../02_Literature/Lectures/Cosmology_of_the_Early_Universe/Part6_Reheating_Baryogenesis_and_Dark_Matter.html) | B-violation, C/CP violation, and out-of-equilibrium decay generating baryon asymmetry |
+| **CEU-01** | `early_inflation_p02.png` | Slow-Roll Inflaton Potential $V(\phi)$ | [[Part2_Inflation_Kinematics_Dynamics_and_Models]] | Slow-roll conditions $\epsilon \ll 1, \eta \ll 1$ and graceful exit dynamics |
+| **CEU-02** | `early_inflation_p08.png` | Comoving Horizon Evolution | [[Part2_Inflation_Kinematics_Dynamics_and_Models]] | Shrinking comoving Hubble horizon $(aH)^{-1}$ solving the horizon and flatness problems |
+| **CEU-03** | `early_inflation_p15.png` | Phase Portrait & Slow-Roll Attractor | [[Part2_Inflation_Kinematics_Dynamics_and_Models]] | Universal cosmic no-hair attractor in $(\phi, \dot{\phi})$ phase space |
+| **CEU-04** | `early_perturbations_p05.png` | Mukhanov-Sasaki Quantum Mode Evolution | [[Part3_Quantum_Perturbations_and_Power_Spectra]] | Mode oscillation in sub-horizon regime and freezing out on super-Hubble scales |
+| **CEU-05** | `early_perturbations_p15.png` | Curvature Perturbation $\mathcal{R}_k$ Conservation | [[Part3_Quantum_Perturbations_and_Power_Spectra]] | Gauge-invariant super-horizon conservation of $\mathcal{R}_k$ for adiabatic modes |
+| **CEU-06** | `early_perturbations_p25.png` | Bunch-Davies Vacuum Boundary State | [[Part3_Quantum_Perturbations_and_Power_Spectra]] | Asymptotic Minkowski vacuum condition $v_k(\tau) \to e^{-ik\tau}/\sqrt{2k}$ as $\tau \to -\infty$ |
+| **CEU-07** | `early_powerspectrum_p05.png` | Primordial Power Spectrum Tilt $n_s$ | [[Part3_Quantum_Perturbations_and_Power_Spectra]] | Red scalar spectral index $n_s - 1 = 2\eta - 6\epsilon \approx -0.035$ matching Planck |
+| **CEU-08** | `early_powerspectrum_p20.png` | Primordial Tensor Spectrum & Ratio $r$ | [[Part3_Quantum_Perturbations_and_Power_Spectra]] | Primordial gravitational waves $\mathcal{P}_t(k) = \frac{2 H^2}{\pi^2 M_{\mathrm{pl}}^2}$ and bound $r < 0.036$ |
+| **CEU-09** | `early_inin_p01.png` | In-In Closed Time Path Contour | [[Part4_Advanced_Formalisms_and_Non_Gaussianity]] | Schwinger-Keldysh path contour computing expectation values at fixed time $t$ |
+| **CEU-10** | `early_inin_p05.png` | Primordial Bispectrum Triangular Shapes | [[Part4_Advanced_Formalisms_and_Non_Gaussianity]] | Local ($k_1 \ll k_2 \approx k_3$), Equilateral ($k_1 \approx k_2 \approx k_3$), and Folded triangles |
+| **CEU-11** | `early_inin_p10.png` | Maldacena Consistency Relation | [[Part4_Advanced_Formalisms_and_Non_Gaussianity]] | Single-field local non-Gaussianity theorem: $f_{\mathrm{NL}}^{\mathrm{local}} = \frac{5}{12}(1 - n_s)$ |
+| **CEU-12** | `early_baryo_p02.png` | Preheating via Parametric Resonance | [[Part6_Reheating_Baryogenesis_and_Dark_Matter]] | Inflaton oscillation driving explosive particle creation via Mathieu equation |
+| **CEU-13** | `early_baryo_p08.png` | Sakharov Conditions & Baryogenesis | [[Part6_Reheating_Baryogenesis_and_Dark_Matter]] | B-violation, C/CP violation, and out-of-equilibrium decay generating baryon asymmetry |
 
 ---
 

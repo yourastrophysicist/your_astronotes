@@ -53,7 +53,7 @@ The **bolometric luminosity** is the total power across all frequencies:
 $$L_{bol} = \int_0^{\infty} L_\nu \, d\nu = \int_0^{\infty} L_E \, dE$$
 
 in practice, no single instrument covers the full spectrum
-	so $L_{bol}$ requires combining multiple observations across the [Spectral Energy Distribution (SED)](Spectral%20Energy%20Distribution%20%28SED%29.html)
+	so $L_{bol}$ requires combining multiple observations across the [[Spectral Energy Distribution (SED)]]
 	\tor applying a **bolometric correction** $k_{bol}$:
 $$L_{bol} = k_{bol} \times L_{band}$$
 
@@ -128,7 +128,7 @@ $$F = \int_0^\infty F_\nu \, d\nu$$
 ## Photon flux and photon intensity
 
 In high-energy astronomy, detectors count **individual photons**
-	this is the regime of [CCDs for X-rays](CCDs%20for%20X-rays.html) and proportional counters
+	this is the regime of [[CCDs for X-rays]] and proportional counters
 		so it is more natural to work with photon quantities rather than energy quantities
 
 ### Photon flux
@@ -174,8 +174,8 @@ $$A_{eff}(E) = A_{geo} \times R_{mirrors}(E) \times QE(E) \times T_{filter}(E)$$
 
 with
 	$A_{geo}$: geometric collecting area of the mirror aperture
-	$R_{mirrors}(E)$: reflectivity of the grazing incidence mirrors at energy $E$ (see [Grazing incidence](Grazing%20incidence.html))
-	$QE(E)$: quantum efficiency of the detector (see [Quantum efficiency](Quantum%20efficiency.html))
+	$R_{mirrors}(E)$: reflectivity of the grazing incidence mirrors at energy $E$ (see [[Grazing incidence]])
+	$QE(E)$: quantum efficiency of the detector (see [[Quantum efficiency]])
 	$T_{filter}(E)$: transmission of optical blocking filters
 
 **Inverting to get flux from counts** requires knowing $\mathcal{F}(E)$:
@@ -202,7 +202,7 @@ The **observed (absorbed) flux** is related to the **intrinsic flux** by:
 $$F_{obs}(E) = F_{int}(E) \times e^{-\sigma(E) \cdot N_H}$$
 
 where
-	$\sigma(E)$ is the **photoelectric absorption cross-section** per hydrogen atom (see [Photoelectric absorption](Photoelectric%20absorption.html))
+	$\sigma(E)$ is the **photoelectric absorption cross-section** per hydrogen atom (see [[Photoelectric absorption]])
 		$\sigma(E) \propto E^{-3}$ at energies above absorption edges
 	$N_H$ is the **hydrogen column density** in cm$^{-2}$
 		the integrated number of hydrogen atoms along the line of sight
@@ -314,14 +314,14 @@ every step introduces uncertainty
 	spectral fitting in X-ray astronomy is the art of inverting this chain
 		with as few assumptions as possible
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Effective%20Area.html" class="backlink-item">Effective Area</a></li>
-    <li class="backlink-item-wrap"><a href="Luminosity.html" class="backlink-item">Luminosity</a></li>
-    <li class="backlink-item-wrap"><a href="Processes%20of%20photon-matter%20interaction.html" class="backlink-item">Processes of photon-matter interaction</a></li>
-    <li class="backlink-item-wrap"><a href="Specific%20intensity%20flux%20luminosity.html" class="backlink-item">Specific intensity flux luminosity</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Effective Area]]
+- [[Luminosity]]
+- [[Processes of photon-matter interaction]]
+- [[Specific intensity flux luminosity]]
+- [[Lab_High-Energy_MOC]]
+
 

@@ -40,16 +40,16 @@ comparing $\bar{\rho}_{\star, \text{transit}}$ to the spectroscopic density $\ba
 
 ## see also
 
-- [Exoplanetary_Astrophysics_MOC](../../04_Atlas/Exoplanetary_Astrophysics_MOC.html)
-- [16_Transit_Light_Curve_Modeling_and_Limb_Darkening](../../02_Literature/Lectures/Exoplanetary_Astrophysics/16_Transit_Light_Curve_Modeling_and_Limb_Darkening.html)
-- [Mandel-Agol analytical transit light curve model](Mandel-Agol%20analytical%20transit%20light%20curve%20model.html)
-- [Transit false positive vetting and blending validation](Transit%20false%20positive%20vetting%20and%20blending%20validation.html)
+- [[Exoplanetary_Astrophysics_MOC]]
+- [[16_Transit_Light_Curve_Modeling_and_Limb_Darkening]]
+- [[Mandel-Agol analytical transit light curve model]]
+- [[Transit false positive vetting and blending validation]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Mandel-Agol%20analytical%20transit%20light%20curve%20model.html" class="backlink-item">Mandel-Agol analytical transit light curve model</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Exoplanetary_Astrophysics_MOC.html" class="backlink-item">Exoplanetary_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Mandel-Agol analytical transit light curve model]]
+- [[Exoplanetary_Astrophysics_MOC]]
+
 

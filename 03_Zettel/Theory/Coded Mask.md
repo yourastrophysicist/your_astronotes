@@ -15,7 +15,7 @@ By using an aperture (**mask**) it is possible to select the incoming light rays
 A **coded mask** is like a chessboard
 	where some parts absorb radiation
 		and some others let the radiation reach the detector
-	it is less sensitive than a [Mechanical Collimator](Mechanical%20Collimator.html)
+	it is less sensitive than a [[Mechanical Collimator]]
 		but it allows to generate images
 			reducing the problem of **source confusion**
 ![Screenshot 2026-04-07 at 01.27.29.png](../../assets/images/Screenshot%202026-04-07%20at%2001.27.29.png)
@@ -53,13 +53,13 @@ $$S' = D \otimes G = S \otimes M \otimes G + B \otimes G = S \otimes \delta + B 
 
 where $B \otimes G$ is the background to be subtracted
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="A%20Brief%20History%20of%20X-ray%20and%20Gamma-ray%20Missions.html" class="backlink-item">A Brief History of X-ray and Gamma-ray Missions</a></li>
-    <li class="backlink-item-wrap"><a href="Compton%20Telescope.html" class="backlink-item">Compton Telescope</a></li>
-    <li class="backlink-item-wrap"><a href="Mechanical%20Collimator.html" class="backlink-item">Mechanical Collimator</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Lab_High-Energy_MOC.html" class="backlink-item">Lab_High-Energy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[A Brief History of X-ray and Gamma-ray Missions]]
+- [[Compton Telescope]]
+- [[Mechanical Collimator]]
+- [[Lab_High-Energy_MOC]]
+
 

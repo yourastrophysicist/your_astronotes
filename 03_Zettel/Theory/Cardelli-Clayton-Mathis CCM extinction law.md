@@ -22,18 +22,18 @@ where the Lorentzian profiles represent the **$2175\text{ \AA}$ bump** ($x \appr
 
 ## see also
 
-- [Astrophysics_of_the_Interstellar_Medium_MOC](../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html)
-- [Trumpler discovery of interstellar extinction](Trumpler%20discovery%20of%20interstellar%20extinction.html)
-- [Diffuse interstellar bands and polycyclic aromatic hydrocarbons](Diffuse%20interstellar%20bands%20and%20polycyclic%20aromatic%20hydrocarbons.html)
-- [Interstellar reddening and the reddening vector](Interstellar%20reddening%20and%20the%20reddening%20vector.html)
-- [Carraro_05_Interstellar_Dust_and_Extinction](../../02_Literature/Lectures/Interstellar_Medium/Carraro_05_Interstellar_Dust_and_Extinction.html)
+- [[Astrophysics_of_the_Interstellar_Medium_MOC]]
+- [[Trumpler discovery of interstellar extinction]]
+- [[Diffuse interstellar bands and polycyclic aromatic hydrocarbons]]
+- [[Interstellar reddening and the reddening vector]]
+- [[Carraro_05_Interstellar_Dust_and_Extinction]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Diffuse%20interstellar%20bands%20and%20polycyclic%20aromatic%20hydrocarbons.html" class="backlink-item">Diffuse interstellar bands and polycyclic aromatic hydrocarbons</a></li>
-    <li class="backlink-item-wrap"><a href="Trumpler%20discovery%20of%20interstellar%20extinction.html" class="backlink-item">Trumpler discovery of interstellar extinction</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.html" class="backlink-item">Astrophysics_of_the_Interstellar_Medium_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Diffuse interstellar bands and polycyclic aromatic hydrocarbons]]
+- [[Trumpler discovery of interstellar extinction]]
+- [[Astrophysics_of_the_Interstellar_Medium_MOC]]
+
 

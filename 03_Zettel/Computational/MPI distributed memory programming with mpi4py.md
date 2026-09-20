@@ -57,16 +57,16 @@ req.Wait()
 
 ## see also
 
-- [Computational_Astrophysics_MOC](../../04_Atlas/Computational_Astrophysics_MOC.html)
-- [12_MPI_Distributed_Memory_Programming_with_Python](../../02_Literature/Lectures/Computational_Astrophysics/12_MPI_Distributed_Memory_Programming_with_Python.html)
-- [Parallel computing architectures and Amdahl scaling laws](Parallel%20computing%20architectures%20and%20Amdahl%20scaling%20laws.html)
-- [CloudVeneto HPC OpenStack infrastructure and remote clusters](CloudVeneto%20HPC%20OpenStack%20infrastructure%20and%20remote%20clusters.html)
+- [[Computational_Astrophysics_MOC]]
+- [[12_MPI_Distributed_Memory_Programming_with_Python]]
+- [[Parallel computing architectures and Amdahl scaling laws]]
+- [[CloudVeneto HPC OpenStack infrastructure and remote clusters]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Parallel%20computing%20architectures%20and%20Amdahl%20scaling%20laws.html" class="backlink-item">Parallel computing architectures and Amdahl scaling laws</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Computational_Astrophysics_MOC.html" class="backlink-item">Computational_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Parallel computing architectures and Amdahl scaling laws]]
+- [[Computational_Astrophysics_MOC]]
+
 

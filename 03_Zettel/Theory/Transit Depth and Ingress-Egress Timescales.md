@@ -31,15 +31,15 @@ $$T_{12} \approx \frac{P}{\pi} \frac{R_\star}{a} \frac{2 r_p}{\sqrt{1 - b^2}}$$
 - High-precision measurement of $T_{12}$ directly constrains the impact parameter $b$ and planetary radius $r_p$.
 
 ## Related Notes
-- [Exoplanet Transit Geometry and Impact Parameter](Exoplanet%20Transit%20Geometry%20and%20Impact%20Parameter.html)
-- [Stellar Limb Darkening Laws](Stellar%20Limb%20Darkening%20Laws.html)
-- [Malavolta 11 - Transit Geometry and Analytical Light Curve Modeling](../../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2011%20-%20Transit%20Geometry%20and%20Analytical%20Light%20Curve%20Modeling.html)
+- [[Exoplanet Transit Geometry and Impact Parameter]]
+- [[Stellar Limb Darkening Laws]]
+- [[Malavolta 11 - Transit Geometry and Analytical Light Curve Modeling]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (2)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Exoplanet%20Transit%20Geometry%20and%20Impact%20Parameter.html" class="backlink-item">Exoplanet Transit Geometry and Impact Parameter</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astrophysics_Laboratory_2_MOC.html" class="backlink-item">Astrophysics_Laboratory_2_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Exoplanet Transit Geometry and Impact Parameter]]
+- [[Astrophysics_Laboratory_2_MOC]]
+
 

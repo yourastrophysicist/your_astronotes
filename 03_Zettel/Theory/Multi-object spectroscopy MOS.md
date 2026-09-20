@@ -63,22 +63,22 @@ velocity dispersions, mass measurements, star-formation classification.
 
 ## see also
 
-- [Spectrograph types](Spectrograph%20types.html)
-- [Spectrograph design](Spectrograph%20design.html)
-- [Echelle spectroscopy](Echelle%20spectroscopy.html)
-- [Integral-field spectroscopy IFU](Integral-field%20spectroscopy%20IFU.html)
-- [Wavelength calibration](Wavelength%20calibration.html)
-- [Flux calibration](interf/Flux%20calibration.html)
-- [Survey resources for Obs Astro](Survey%20resources%20for%20Obs%20Astro.html)
-- [Photometric redshifts](Photometric%20redshifts.html) — what MOS surveys spectroscopically confirm
+- [[Spectrograph types]]
+- [[Spectrograph design]]
+- [[Echelle spectroscopy]]
+- [[Integral-field spectroscopy IFU]]
+- [[Wavelength calibration]]
+- [[Flux calibration]]
+- [[Survey resources for Obs Astro]]
+- [[Photometric redshifts]] — what MOS surveys spectroscopically confirm
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Spectrograph%20design.html" class="backlink-item">Spectrograph design</a></li>
-    <li class="backlink-item-wrap"><a href="Spectrograph%20types.html" class="backlink-item">Spectrograph types</a></li>
-    <li class="backlink-item-wrap"><a href="Spectroscopic%20redshift%20from%20line%20shifts.html" class="backlink-item">Spectroscopic redshift from line shifts</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Astronomical_Spectroscopy_MOC.html" class="backlink-item">Astronomical_Spectroscopy_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Spectrograph design]]
+- [[Spectrograph types]]
+- [[Spectroscopic redshift from line shifts]]
+- [[Astronomical_Spectroscopy_MOC]]
+
 

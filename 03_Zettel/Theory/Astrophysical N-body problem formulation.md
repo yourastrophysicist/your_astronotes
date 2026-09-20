@@ -27,7 +27,7 @@ the N-body system has several Noether-related conservation laws that I exploit a
 - **linear momentum** $\mathbf{P} = \sum m_i \mathbf{v}_i$ (translation symmetry)
 - **angular momentum** $\mathbf{L} = \sum m_i \mathbf{r}_i \times \mathbf{v}_i$ (rotation symmetry)
 
-for an isolated system, $E$, $\mathbf{P}$, $\mathbf{L}$ are constant. the integrator's quality is measured by how well it preserves them. see [Energy conservation as a diagnostic](Energy%20conservation%20as%20a%20diagnostic.html).
+for an isolated system, $E$, $\mathbf{P}$, $\mathbf{L}$ are constant. the integrator's quality is measured by how well it preserves them. see [[Energy conservation as a diagnostic]].
 
 ## the force computation
 
@@ -73,7 +73,7 @@ $$\mathbf{a}_i = -G \sum_{j \neq i} m_j \frac{\mathbf{r}_i - \mathbf{r}_j}{(\lve
 
 $\epsilon$ is the "minimum resolved scale" of the simulation. for a galaxy with $N = 10^9$ tracers covering 100 kpc, $\epsilon \sim 100$ pc. softening prevents close-encounter blowups but smears out real two-body relaxation; it is a deliberate physics choice, not a numerical hack.
 
-for **collisional** systems (globular clusters, planetary systems) $\epsilon = 0$ — close encounters *are* the physics. the integrator must handle them with adaptive timesteps. see [Collisional vs collisionless N-body](Collisional%20vs%20collisionless%20N-body.html).
+for **collisional** systems (globular clusters, planetary systems) $\epsilon = 0$ — close encounters *are* the physics. the integrator must handle them with adaptive timesteps. see [[Collisional vs collisionless N-body]].
 
 ## units
 
@@ -97,12 +97,12 @@ the energy diagnostic: total energy should stay constant within the integrator's
 
 ## see also
 
-- [Energy conservation as a diagnostic](Energy%20conservation%20as%20a%20diagnostic.html)
-- [Collisional vs collisionless N-body](Collisional%20vs%20collisionless%20N-body.html)
-- [Leapfrog integrator](Leapfrog%20integrator.html)
-- [Fourth-order Hermite predictor-corrector](Fourth-order%20Hermite%20predictor-corrector.html)
-- [Adaptive step size control](Adaptive%20step%20size%20control.html)
-- [Mathematical_Numerical_Methods_MOC](../../04_Atlas/Mathematical_Numerical_Methods_MOC.html)
+- [[Energy conservation as a diagnostic]]
+- [[Collisional vs collisionless N-body]]
+- [[Leapfrog integrator]]
+- [[Fourth-order Hermite predictor-corrector]]
+- [[Adaptive step size control]]
+- [[Mathematical_Numerical_Methods_MOC]]
 
 ---
 
@@ -135,22 +135,22 @@ the energy diagnostic: total energy should stay constant within the integrator's
 ![mapelli_fig26_p255.png](../../assets/images/mapelli_fig26_p86.png)
 *SPH density summation over neighboring particles: $\rho_i = \sum_j m_j W(\vec{r}_i - \vec{r}_j, h)$.*
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (13)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="Adaptive%20step%20size%20control.html" class="backlink-item">Adaptive step size control</a></li>
-    <li class="backlink-item-wrap"><a href="Adaptive%20timesteps%20near%20close%20encounters.html" class="backlink-item">Adaptive timesteps near close encounters</a></li>
-    <li class="backlink-item-wrap"><a href="Collisional%20vs%20collisionless%20N-body.html" class="backlink-item">Collisional vs collisionless N-body</a></li>
-    <li class="backlink-item-wrap"><a href="Energy%20conservation%20as%20a%20diagnostic.html" class="backlink-item">Energy conservation as a diagnostic</a></li>
-    <li class="backlink-item-wrap"><a href="Fourth-order%20Hermite%20predictor-corrector.html" class="backlink-item">Fourth-order Hermite predictor-corrector</a></li>
-    <li class="backlink-item-wrap"><a href="Hint%20-%20TODO%204.1%20Vectorized%20N-Body%20Acceleration.html" class="backlink-item">Hint - TODO 4.1 Vectorized N-Body Acceleration</a></li>
-    <li class="backlink-item-wrap"><a href="Leapfrog%20integrator.html" class="backlink-item">Leapfrog integrator</a></li>
-    <li class="backlink-item-wrap"><a href="N-body%20simulations.html" class="backlink-item">N-body simulations</a></li>
-    <li class="backlink-item-wrap"><a href="N-body%20with%20Euler%20vs%20midpoint%20vs%20leapfrog.html" class="backlink-item">N-body with Euler vs midpoint vs leapfrog</a></li>
-    <li class="backlink-item-wrap"><a href="Runge-Kutta%202%20midpoint%20method.html" class="backlink-item">Runge-Kutta 2 midpoint method</a></li>
-    <li class="backlink-item-wrap"><a href="Systems%20of%20ODEs%20and%20higher-order%20ODEs.html" class="backlink-item">Systems of ODEs and higher-order ODEs</a></li>
-    <li class="backlink-item-wrap"><a href="The%20Pythagorean%20three-body%20problem.html" class="backlink-item">The Pythagorean three-body problem</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Mathematical_Numerical_Methods_MOC.html" class="backlink-item">Mathematical_Numerical_Methods_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Adaptive step size control]]
+- [[Adaptive timesteps near close encounters]]
+- [[Collisional vs collisionless N-body]]
+- [[Energy conservation as a diagnostic]]
+- [[Fourth-order Hermite predictor-corrector]]
+- [[Hint - TODO 4.1 Vectorized N-Body Acceleration]]
+- [[Leapfrog integrator]]
+- [[N-body simulations]]
+- [[N-body with Euler vs midpoint vs leapfrog]]
+- [[Runge-Kutta 2 midpoint method]]
+- [[Systems of ODEs and higher-order ODEs]]
+- [[The Pythagorean three-body problem]]
+- [[Mathematical_Numerical_Methods_MOC]]
+
 

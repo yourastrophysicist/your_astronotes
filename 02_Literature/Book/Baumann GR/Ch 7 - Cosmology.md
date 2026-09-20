@@ -4,7 +4,7 @@ title: "Ch 7 - Cosmology"
 ---
 # Baumann Ch 7, Cosmology
 
-up: [Baumann GR](./Baumann%20GR.html) · [General_Relativity_MOC](../../../04_Atlas/General_Relativity_MOC.html)
+up: [[Baumann GR]] · [[General_Relativity_MOC]]
 
 *the chapter where Einstein's equations meet the universe. starting from the cosmological principle (homogeneity + isotropy), we derive the FLRW metric, plug it into Einstein's equation, and read off the Friedmann equations that govern cosmic evolution. then we compare to observation: what is the universe actually made of?*
 
@@ -220,27 +220,27 @@ if i had to compress chapter 7 into a paragraph for the oral:
 
 ## connections
 
-- [General_Relativity_MOC](../../../04_Atlas/General_Relativity_MOC.html)
-- [Baumann GR](./Baumann%20GR.html)
-- [FLRW metric](../../../03_Zettel/Theory/FLRW%20metric.html) · [Cosmological principle](../../../03_Zettel/Theory/Cosmological%20principle.html) · [Friedmann equations](../../../03_Zettel/Theory/Friedmann%20equations.html) · [Continuity equation](../../../03_Zettel/Theory/Continuity%20equation.html) · [Equation of state and density scaling](../../../03_Zettel/Theory/Equation%20of%20state%20and%20density%20scaling.html) · [Cosmic eras](../../../03_Zettel/Theory/Cosmic%20eras.html) · [Matter radiation equality](../../../03_Zettel/Theory/Matter%20radiation%20equality.html) · [Cosmological constant](../../../03_Zettel/Theory/Cosmological%20constant.html)
+- [[General_Relativity_MOC]]
+- [[Baumann GR]]
+- [[FLRW metric]] · [[Cosmological principle]] · [[Friedmann equations]] · [[Continuity equation]] · [[Equation of state and density scaling]] · [[Cosmic eras]] · [[Matter radiation equality]] · [[Cosmological constant]]
 - Q18 - derive the acceleration equation · Q19 - radiation universe · Q20 - matter plus radiation universe
-- [Observational_Cosmology_MOC](../../../04_Atlas/Observational_Cosmology_MOC.html) (the observational counterpart)
-- [ΛCDM current parameters](../../../03_Zettel/Theory/%CE%9BCDM%20current%20parameters.html)
-- previous: [Ch 6 - Black Holes](./Ch%206%20-%20Black%20Holes.html)
-- next: [Ch 8 - Gravitational Waves](./Ch%208%20-%20Gravitational%20Waves.html)
+- [[Observational_Cosmology_MOC]] (the observational counterpart)
+- [[ΛCDM current parameters]]
+- previous: [[Ch 6 - Black Holes]]
+- next: [[Ch 8 - Gravitational Waves]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (9)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Continuity%20equation.html" class="backlink-item">Continuity equation</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Cosmic%20eras.html" class="backlink-item">Cosmic eras</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Cosmological%20constant.html" class="backlink-item">Cosmological constant</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Equation%20of%20state%20and%20density%20scaling.html" class="backlink-item">Equation of state and density scaling</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/FLRW%20metric.html" class="backlink-item">FLRW metric</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Friedmann%20equations.html" class="backlink-item">Friedmann equations</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Matter%20radiation%20equality.html" class="backlink-item">Matter radiation equality</a></li>
-    <li class="backlink-item-wrap"><a href="../../../03_Zettel/Theory/Spatial%20curvature%20parameter%20k.html" class="backlink-item">Spatial curvature parameter k</a></li>
-    <li class="backlink-item-wrap"><a href="../../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Continuity equation]]
+- [[Cosmic eras]]
+- [[Cosmological constant]]
+- [[Equation of state and density scaling]]
+- [[FLRW metric]]
+- [[Friedmann equations]]
+- [[Matter radiation equality]]
+- [[Spatial curvature parameter k]]
+- [[General_Relativity_MOC]]
+
 

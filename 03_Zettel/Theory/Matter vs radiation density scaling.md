@@ -59,21 +59,21 @@ so the **equality scale** $k_{\rm eq}$ marks the transition in the matter power 
 
 ## see also
 
-- [Equation of state and density scaling](Equation%20of%20state%20and%20density%20scaling.html)
-- [Continuity equation](Continuity%20equation.html)
-- [Friedmann equations](Friedmann%20equations.html)
-- [Cosmic eras](Cosmic%20eras.html)
-- [Matter radiation equality](Matter%20radiation%20equality.html)
-- [Density parameters](Density%20parameters.html)
-- [Cosmological redshift](Cosmological%20redshift.html)
-- [Conservation of entropy in a comoving volume](Conservation%20of%20entropy%20in%20a%20comoving%20volume.html)
-- [Linear evolution of perturbations in expanding universe](Linear%20evolution%20of%20perturbations%20in%20expanding%20universe.html)
-- [Observational_Cosmology_MOC](../../04_Atlas/Observational_Cosmology_MOC.html)
+- [[Equation of state and density scaling]]
+- [[Continuity equation]]
+- [[Friedmann equations]]
+- [[Cosmic eras]]
+- [[Matter radiation equality]]
+- [[Density parameters]]
+- [[Cosmological redshift]]
+- [[Conservation of entropy in a comoving volume]]
+- [[Linear evolution of perturbations in expanding universe]]
+- [[Observational_Cosmology_MOC]]
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (1)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Cosmology_MOC.html" class="backlink-item">Observational_Cosmology_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Observational_Cosmology_MOC]]
+
 
