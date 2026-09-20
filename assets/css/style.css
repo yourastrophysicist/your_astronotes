@@ -665,3 +665,18 @@ main {
     width: calc(100% + 24px);
   }
 }
+
+/* Internal WikiLinks */
+.internal-link {
+  color: var(--primary-color);
+  text-decoration: none;
+}
+
+.internal-link:hover {
+  text-decoration: underline;
+}
+
+.internal-link-unresolved {
+  color: var(--text-muted);
+  opacity: 0.85;
+}
