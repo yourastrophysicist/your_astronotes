@@ -12,8 +12,7 @@ Low Surface Brightness (LSB) galaxies are defined photometrically as galaxies wh
 ## 1. Freeman's Law and Disney's Selection Effect
 
 In 1970, Kenneth Freeman analyzed optical surface photometry for 36 spiral and lenticular galaxies, discovering that 28 of them exhibited an apparently universal exponential central surface brightness -
-$$\mu_{0, B} = 21.65 \pm 0.30 \text{ mag arcsec}^{-2} \quad \left( I_0 \approx 140 \, L_{\odot, B} \text{ pc}^{-2} 
-ight)$$
+$$\mu_{0, B} = 21.65 \pm 0.30 \text{ mag arcsec}^{-2} \quad \left( I_0 \approx 140 \, L_{\odot, B} \text{ pc}^{-2} \right)$$
 This empirical constancy became known as Freeman's Law. In 1976, Michael Disney demonstrated that Freeman's Law is not a fundamental property of galaxy formation, but rather a profound observational selection effect imposed by the brightness of the night sky ($\mu_{\mathrm{sky}} \approx 22.5 \text{ mag arcsec}^{-2}$ in B).
 
 ---
@@ -24,20 +23,16 @@ Let us derive Disney's visibility curve analytically from first principles.
 
 ### Step 1 - The Exponential Disk Surface Brightness Profile
 Consider an exponential galactic disk whose surface brightness profile $I(R)$ in physical intensity units ($L_\odot \text{ pc}^{-2}$) is given by -
-$$I(R) = I_0 \exp\left( -\frac{R}{h} 
-ight)$$
+$$I(R) = I_0 \exp\left( -\frac{R}{h} \right)$$
 where $I_0$ is the central surface brightness and $h$ is the radial exponential scale length. In astronomical magnitudes ($\text{mag arcsec}^{-2}$), this profile is expressed as -
-$$\mu(R) = \mu_0 + 1.0857 \left( \frac{R}{h} 
-ight)$$
+$$\mu(R) = \mu_0 + 1.0857 \left( \frac{R}{h} \right)$$
 where $\mu_0 = -2.5 \log_{10}(I_0) + \text{constant}$, and $1.0857 = 2.5 / \ln(10)$.
 
 ### Step 2 - Total Galaxy Luminosity
 The total luminosity $L$ of an axisymmetric thin exponential disk is obtained by integrating over all radii -
 $$L = \int_0^\infty I(R) \cdot 2\pi R \, dR = 2\pi I_0 \int_0^\infty R e^{-R/h} \, dR$$
 Using integration by parts ($\int u \, dv = uv - \int v \, du$ with $u = R$ and $dv = e^{-R/h} dR$) -
-$$\int_0^\infty R e^{-R/h} \, dR = \left[ -h R e^{-R/h} 
-ight]_0^\infty + h \int_0^\infty e^{-R/h} \, dR = 0 + h \left[ -h e^{-R/h} 
-ight]_0^\infty = h^2$$
+$$\int_0^\infty R e^{-R/h} \, dR = \left[ -h R e^{-R/h} \right]_0^\infty + h \int_0^\infty e^{-R/h} \, dR = 0 + h \left[ -h e^{-R/h} \right]_0^\infty = h^2$$
 Therefore, the total luminosity is strictly -
 $$L = 2\pi I_0 h^2$$
 Solving for the scale length $h$ as a function of total luminosity $L$ and central intensity $I_0$ -
@@ -45,42 +40,27 @@ $$h = \sqrt{\frac{L}{2\pi I_0}}$$
 
 ### Step 3 - Limiting Observable Radius
 On a photographic plate or CCD exposure with night-sky background, a galaxy can be detected only out to a limiting isophotal threshold surface brightness $I_{\mathrm{lim}}$ (corresponding to magnitude $\mu_{\mathrm{lim}}$). The limiting observable radius $R_{\mathrm{lim}}$ satisfies -
-$$I(R_{\mathrm{lim}}) = I_0 \exp\left( -\frac{R_{\mathrm{lim}}}{h} 
-ight) = I_{\mathrm{lim}}$$
+$$I(R_{\mathrm{lim}}) = I_0 \exp\left( -\frac{R_{\mathrm{lim}}}{h} \right) = I_{\mathrm{lim}}$$
 Taking the natural logarithm of both sides -
-$$-\frac{R_{\mathrm{lim}}}{h} = \ln\left( \frac{I_{\mathrm{lim}}}{I_0} 
-ight) = -\ln\left( \frac{I_0}{I_{\mathrm{lim}}} 
-ight)$$
-$$R_{\mathrm{lim}} = h \ln\left( \frac{I_0}{I_{\mathrm{lim}}} 
-ight)$$
+$$-\frac{R_{\mathrm{lim}}}{h} = \ln\left( \frac{I_{\mathrm{lim}}}{I_0} \right) = -\ln\left( \frac{I_0}{I_{\mathrm{lim}}} \right)$$
+$$R_{\mathrm{lim}} = h \ln\left( \frac{I_0}{I_{\mathrm{lim}}} \right)$$
 Substitute our previous expression for $h = \sqrt{L / (2\pi I_0)}$ -
 $$R_{\mathrm{lim}}(I_0) = \sqrt{\frac{L}{2\pi}} \frac{\ln(I_0 / I_{\mathrm{lim}})}{\sqrt{I_0}}$$
 
 ### Step 4 - Maximizing Observable Angular Size with Respect to Central Intensity
 To determine which central surface brightness $I_0$ produces the maximum detectable radius $R_{\mathrm{lim}}$ for a galaxy of fixed total luminosity $L$, we differentiate $R_{\mathrm{lim}}$ with respect to $I_0$ and set the derivative to zero -
-$$\frac{d R_{\mathrm{lim}}}{d I_0} = \sqrt{\frac{L}{2\pi}} \cdot \frac{d}{d I_0} \left[ I_0^{-1/2} \ln\left( \frac{I_0}{I_{\mathrm{lim}}} 
-ight) 
-ight] = 0$$
+$$\frac{d R_{\mathrm{lim}}}{d I_0} = \sqrt{\frac{L}{2\pi}} \cdot \frac{d}{d I_0} \left[ I_0^{-1/2} \ln\left( \frac{I_0}{I_{\mathrm{lim}}} \right) \right] = 0$$
 Applying the product rule of differentiation -
-$$\frac{d R_{\mathrm{lim}}}{d I_0} = \sqrt{\frac{L}{2\pi}} \left[ -\frac{1}{2} I_0^{-3/2} \ln\left( \frac{I_0}{I_{\mathrm{lim}}} 
-ight) + I_0^{-1/2} \cdot \frac{1}{I_0 / I_{\mathrm{lim}}} \cdot \frac{1}{I_{\mathrm{lim}}} 
-ight] = 0$$
-$$\sqrt{\frac{L}{2\pi}} \left[ -\frac{1}{2} I_0^{-3/2} \ln\left( \frac{I_0}{I_{\mathrm{lim}}} 
-ight) + I_0^{-3/2} 
-ight] = 0$$
+$$\frac{d R_{\mathrm{lim}}}{d I_0} = \sqrt{\frac{L}{2\pi}} \left[ -\frac{1}{2} I_0^{-3/2} \ln\left( \frac{I_0}{I_{\mathrm{lim}}} \right) + I_0^{-1/2} \cdot \frac{1}{I_0 / I_{\mathrm{lim}}} \cdot \frac{1}{I_{\mathrm{lim}}} \right] = 0$$
+$$\sqrt{\frac{L}{2\pi}} \left[ -\frac{1}{2} I_0^{-3/2} \ln\left( \frac{I_0}{I_{\mathrm{lim}}} \right) + I_0^{-3/2} \right] = 0$$
 Factor out $I_0^{-3/2}$ -
-$$I_0^{-3/2} \left[ 1 - \frac{1}{2} \ln\left( \frac{I_0}{I_{\mathrm{lim}}} 
-ight) 
-ight] = 0$$
+$$I_0^{-3/2} \left[ 1 - \frac{1}{2} \ln\left( \frac{I_0}{I_{\mathrm{lim}}} \right) \right] = 0$$
 Setting the bracketed expression to zero -
-$$1 - \frac{1}{2} \ln\left( \frac{I_0}{I_{\mathrm{lim}}} 
-ight) = 0 \implies \ln\left( \frac{I_0}{I_{\mathrm{lim}}} 
-ight) = 2 \implies \frac{I_0}{I_{\mathrm{lim}}} = e^2 \approx 7.389$$
+$$1 - \frac{1}{2} \ln\left( \frac{I_0}{I_{\mathrm{lim}}} \right) = 0 \implies \ln\left( \frac{I_0}{I_{\mathrm{lim}}} \right) = 2 \implies \frac{I_0}{I_{\mathrm{lim}}} = e^2 \approx 7.389$$
 
 ### Step 5 - Converting to Magnitude Coordinates
 Convert this intensity ratio into surface brightness magnitudes -
-$$\mu_0 - \mu_{\mathrm{lim}} = -2.5 \log_{10}\left( \frac{I_0}{I_{\mathrm{lim}}} 
-ight) = -2.5 \log_{10}(e^2) = -5 \log_{10}(e)$$
+$$\mu_0 - \mu_{\mathrm{lim}} = -2.5 \log_{10}\left( \frac{I_0}{I_{\mathrm{lim}}} \right) = -2.5 \log_{10}(e^2) = -5 \log_{10}(e)$$
 Since $\log_{10}(e) \approx 0.43429$ -
 $$\mu_0 - \mu_{\mathrm{lim}} = -5 (0.43429) \approx -2.17 \text{ mag arcsec}^{-2}$$
 $$\mu_{0, {
@@ -93,7 +73,7 @@ This matches Freeman's observed value ($\mu_0 = 21.65 \pm 0.30$) with remarkable
 ### Physical Conclusion
 Galaxies with central surface brightness $\mu_0 \approx 21.65$ maximize their apparent isophotal diameter on the sky.
 - If $\mu_0 \ll 21.65$ (High Surface Brightness), $I_0$ is extremely large, which forces the physical scale length $h = \sqrt{L / 2\pi I_0}$ to be tiny. The galaxy appears compact and stellar, and was systematically discarded as a foreground star.
-- If $\mu_0 \gg 21.65$ (Low Surface Brightness), $I_0$ approaches $I_{\mathrm{lim}}$, causing $\ln(I_0 / I_{\mathrm{lim}}) 	o 0$. The galaxy surface brightness drowns entirely within the Poisson noise of the night-sky background, making it invisible on photographic plates.
+- If $\mu_0 \gg 21.65$ (Low Surface Brightness), $I_0$ approaches $I_{\mathrm{lim}}$, causing $\ln(I_0 / I_{\mathrm{lim}}) \to 0$. The galaxy surface brightness drowns entirely within the Poisson noise of the night-sky background, making it invisible on photographic plates.
 
 ---
 
@@ -103,7 +83,7 @@ Modern wide-field digital imaging surveys (SDSS, Dragonfly Telephoto Array, Dark
 
 1. **Dwarf Spheroidals and Dwarf Irregulars (dSph, dIrr)** - Low stellar mass ($M_* \sim 10^5 - 10^7 M_\odot$) systems with $\mu_{0, V} \sim 23 - 26 \text{ mag arcsec}^{-2}$. They are dynamically cold and dominated by dark matter at all radii.
 2. **Classical LSB Spiral Disks** - Disk galaxies with normal total luminosities and rotation velocities ($v_{\mathrm{rot}} \sim 100 - 200\text{ km s}^{-1}$), but with extended exponential scale lengths ($h \sim 5 - 15\text{ kpc}$) and central surface brightnesses $\mu_{0, B} \sim 23 - 25\text{ mag arcsec}^{-2}$ (e.g. UGC 128, F568-3).
-3. **Giant LSB Galaxies (e.g. Malin 1)** - The extreme class of disk galaxies. Malin 1 possesses an enormous gas disk with scale length $h \approx 55\text{ kpc}$ (5 times larger than the Milky Way!), a circular rotation velocity of $v_c \approx 300\text{ km s}^{-1}$, and neutral gas mass $M_{\mathrm{HI}} \approx 5 	imes 10^{10} M_\odot$, yet its central disk surface brightness is $\mu_{0, V} \approx 25.5\text{ mag arcsec}^{-2}$.
+3. **Giant LSB Galaxies (e.g. Malin 1)** - The extreme class of disk galaxies. Malin 1 possesses an enormous gas disk with scale length $h \approx 55\text{ kpc}$ (5 times larger than the Milky Way!), a circular rotation velocity of $v_c \approx 300\text{ km s}^{-1}$, and neutral gas mass $M_{\mathrm{HI}} \approx 5 \times 10^{10} M_\odot$, yet its central disk surface brightness is $\mu_{0, V} \approx 25.5\text{ mag arcsec}^{-2}$.
 4. **Ultra-Diffuse Galaxies (UDGs)** - Discovered predominantly in dense cluster environments (such as Coma and Virgo). UDGs possess effective radii comparable to the Milky Way ($R_e \sim 1.5 - 5\text{ kpc}$) but stellar masses and luminosities comparable to dwarf galaxies ($L_V \sim 10^7 - 10^8 L_\odot$), yielding central surface brightnesses $\mu_{0, g} \sim 24 - 27\text{ mag arcsec}^{-2}$ (e.g. Dragonfly 44).
 
 ---
@@ -131,13 +111,10 @@ Therefore, LSB rotation curves measure the dark matter halo potential directly w
 
 ### Observational Impact on Cosmology
 High-resolution $\text{H}\alpha$ and H I rotation curves of LSB galaxies (de Blok, McGaugh, Pizzella) systematically reveal inner circular velocity curves that rise linearly with radius -
-$$v_{\mathrm{circ}}(R) \propto R \quad (\text{as } R 	o 0)$$
+$$v_{\mathrm{circ}}(R) \propto R \quad (\text{as } R \to 0)$$
 Since $M(<R) \propto R \, v_{\mathrm{circ}}^2 \propto R^3$, the enclosed density is -
-$$
-ho(R) \propto \frac{M(<R)}{R^3} \propto R^0 = \text{constant}$$
-This constant-density core ($
-ho \propto R^0$, described by Burkert or pseudo-isothermal profiles) directly conflicts with the steep inner density cusp ($
-ho \propto R^{-1}$) predicted by cosmological N-body simulations of Cold Dark Matter (the NFW profile), formulating the foundational observational basis of the Core-Cusp Problem.
+$$\rho(R) \propto \frac{M(<R)}{R^3} \propto R^0 = \text{constant}$$
+This constant-density core ($\rho \propto R^0$, described by Burkert or pseudo-isothermal profiles) directly conflicts with the steep inner density cusp ($\rho \propto R^{-1}$) predicted by cosmological N-body simulations of Cold Dark Matter (the NFW profile), formulating the foundational observational basis of the Core-Cusp Problem.
 
 ---
 
@@ -222,8 +199,7 @@ When asked by Prof. Pizzella - *"What are Low Surface Brightness galaxies, why w
    - Write the limiting radius equation -
      $$R_{\mathrm{lim}} = h \ln(I_0 / I_{\mathrm{lim}}) = \sqrt{\frac{L}{2\pi}} \frac{\ln(I_0 / I_{\mathrm{lim}})}{\sqrt{I_0}}$$
    - Differentiate with respect to $I_0$ -
-     $$\frac{d R_{\mathrm{lim}}}{d I_0} = 0 \implies \ln\left( \frac{I_0}{I_{\mathrm{lim}}} 
-ight) = 2 \implies \frac{I_0}{I_{\mathrm{lim}}} = e^2$$
+     $$\frac{d R_{\mathrm{lim}}}{d I_0} = 0 \implies \ln\left( \frac{I_0}{I_{\mathrm{lim}}} \right) = 2 \implies \frac{I_0}{I_{\mathrm{lim}}} = e^2$$
    - Convert to magnitudes - $\mu_0 = \mu_{\mathrm{lim}} - 5\log_{10}(e) \approx \mu_{\mathrm{lim}} - 2.17$.
    - Conclude - *"For photographic plates with $\mu_{\mathrm{lim}} \approx 24.0$, the maximum observable diameter occurs exactly at $\mu_0 = 21.83 \text{ mag arcsec}^{-2}$. Brighter galaxies look like stars, and fainter galaxies drown in sky noise."*
 
@@ -233,8 +209,7 @@ ight) = 2 \implies \frac{I_0}{I_{\mathrm{lim}}} = e^2$$
 
 4. **Highlight the cosmological importance for dark matter** -
    - Draw the rotation curve decomposition.
-   - Conclude - *"In HSB galaxies, stars dominate the center, leading to the disk-halo degeneracy. In LSB galaxies, stars are dynamically negligible everywhere. The rotation curve directly traces the dark matter halo. High-resolution rotation curves show a linear inner rise $v \propto R$, proving that dark matter halos have constant-density cores ($
-ho \propto R^0$), challenging the NFW cuspy halo prediction of CDM."*
+   - Conclude - *"In HSB galaxies, stars dominate the center, leading to the disk-halo degeneracy. In LSB galaxies, stars are dynamically negligible everywhere. The rotation curve directly traces the dark matter halo. High-resolution rotation curves show a linear inner rise $v \propto R$, proving that dark matter halos have constant-density cores ($\rho \propto R^0$), challenging the NFW cuspy halo prediction of CDM."*
 
 ---
 

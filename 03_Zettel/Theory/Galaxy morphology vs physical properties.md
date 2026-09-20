@@ -42,7 +42,7 @@ Empirical surveys (Roberts and Haynes 1994, Strateva et al. 2001, Blanton and Mo
 Optical colors become monotonically bluer with increasing $T$ -
 - Early-type galaxies ($T \le -2$) exhibit red colors - $(B - V) \approx 0.90 \pm 0.05$ and $(u - r) \approx 2.5 \pm 0.15$.
 - Late-type galaxies ($T \ge 5$) exhibit blue colors - $(B - V) \approx 0.45 \pm 0.10$ and $(u - r) \approx 1.4 \pm 0.20$.
-This color shift reflects the mean age of the stellar population, which drops from $	au_{\mathrm{age}} > 10$ Gyr in ellipticals down to $	au_{\mathrm{age}} \sim 1 - 3$ Gyr in late-type spirals.
+This color shift reflects the mean age of the stellar population, which drops from $\tau_{\mathrm{age}} > 10$ Gyr in ellipticals down to $\tau_{\mathrm{age}} \sim 1 - 3$ Gyr in late-type spirals.
 
 ### 2. Neutral Gas Mass Fraction
 The ratio of neutral hydrogen mass to optical luminosity $M_{\mathrm{HI}} / L_B$ increases by more than two orders of magnitude along the sequence -

@@ -20,8 +20,7 @@ Warm ionized gas kinematics is observed via narrow nebular emission lines produc
 
 ### Mathematical Spectral Modeling
 For each spatial resolution element (spaxel or long-slit position), the emission line profile is parameterized as a Gaussian superimposed on the local stellar or continuum baseline $C(\lambda)$ -
-$$I(\lambda) = C(\lambda) + \sum_{k=1}^K A_k \exp\left[ -\frac{(\lambda - \lambda_{\mathrm{obs}, k})^2}{2 \sigma_{\lambda, k}^2} 
-ight]$$
+$$I(\lambda) = C(\lambda) + \sum_{k=1}^K A_k \exp\left[ -\frac{(\lambda - \lambda_{\mathrm{obs}, k})^2}{2 \sigma_{\lambda, k}^2} \right]$$
 From the fitted centroid $\lambda_{\mathrm{obs}}$ and observed line dispersion $\sigma_\lambda$, the kinematic observables are extracted via relativistic Doppler kinematics -
 $$v_{\mathrm{los}} = c \, \frac{\lambda_{\mathrm{obs}} - \lambda_{\mathrm{rest}}}{\lambda_{\mathrm{rest}}}$$
 $$\sigma_v = c \, \frac{\sqrt{\sigma_\lambda^2 - \sigma_{\mathrm{inst}}^2}}{\lambda_{\mathrm{rest}}}$$
@@ -35,27 +34,24 @@ To transform observed two-dimensional line-of-sight velocity fields $v_{\mathrm{
 
 ### Geometric Projection Formalism
 The galaxy disk is decomposed into concentric elliptical rings of radius $R$, characterized by an inclination $i$ relative to the plane of the sky and a major-axis position angle $\phi_0$ (measured counter-clockwise from North).
-Let $(x_0, y_0)$ be the kinematic center of the galaxy on the sky plane. The sky coordinates $(x, y)$ are related to the intrinsic disk plane coordinates $(R, 	heta)$ by orthogonal rotation and deprojection -
+Let $(x_0, y_0)$ be the kinematic center of the galaxy on the sky plane. The sky coordinates $(x, y)$ are related to the intrinsic disk plane coordinates $(R, \theta)$ by orthogonal rotation and deprojection -
 $$x' = -(x - x_0) \sin \phi_0 + (y - y_0) \cos \phi_0$$
 $$y' = -(x - x_0) \cos \phi_0 - (y - y_0) \sin \phi_0$$
 The galactocentric radius $R$ in the plane of the disk is given by -
-$$R = \sqrt{x'^2 + \left( \frac{y'}{\cos i} 
-ight)^2}$$
-The azimuthal angle $	heta$ in the disk plane (measured from the receding major axis) satisfies -
-$$\cos 	heta = \frac{x'}{R} = \frac{-(x - x_0) \sin \phi_0 + (y - y_0) \cos \phi_0}{R}$$
-$$\sin 	heta = \frac{y'}{R \cos i} = \frac{-(x - x_0) \cos \phi_0 - (y - y_0) \sin \phi_0}{R \cos i}$$
+$$R = \sqrt{x'^2 + \left( \frac{y'}{\cos i} \right)^2}$$
+The azimuthal angle $\theta$ in the disk plane (measured from the receding major axis) satisfies -
+$$\cos \theta = \frac{x'}{R} = \frac{-(x - x_0) \sin \phi_0 + (y - y_0) \cos \phi_0}{R}$$
+$$\sin \theta = \frac{y'}{R \cos i} = \frac{-(x - x_0) \cos \phi_0 - (y - y_0) \sin \phi_0}{R \cos i}$$
 
 ### Velocity Projection Equation
 For a purely rotating thin disk with systemic velocity $v_{\mathrm{sys}}$, circular rotation speed $v_{\mathrm{rot}}(R)$, and a possible radial expansion or inflow velocity $v_{\mathrm{exp}}(R)$, the projected line-of-sight velocity is derived from vector addition -
-$$\vec{v} = v_{\mathrm{sys}} \hat{z} + \left[ v_{\mathrm{rot}}(R) \hat{	heta} + v_{\mathrm{exp}}(R) \hat{R} 
-ight]$$
-Projecting along the observer line of sight ($\hat{n}_{\mathrm{los}} = \sin i \cos 	heta \, \hat{	heta} + \sin i \sin 	heta \, \hat{R} + \cos i \, \hat{z}$) yields -
-$$v_{\mathrm{los}}(R, 	heta) = v_{\mathrm{sys}} + v_{\mathrm{rot}}(R) \sin i \cos 	heta + v_{\mathrm{exp}}(R) \sin i \sin 	heta$$
+$$\vec{v} = v_{\mathrm{sys}} \hat{z} + \left[ v_{\mathrm{rot}}(R) \hat{\theta} + v_{\mathrm{exp}}(R) \hat{R} \right]$$
+Projecting along the observer line of sight ($\hat{n}_{\mathrm{los}} = \sin i \cos \theta \, \hat{\theta} + \sin i \sin \theta \, \hat{R} + \cos i \, \hat{z}$) yields -
+$$v_{\mathrm{los}}(R, \theta) = v_{\mathrm{sys}} + v_{\mathrm{rot}}(R) \sin i \cos \theta + v_{\mathrm{exp}}(R) \sin i \sin \theta$$
 
 ### Harmonic Decomposition
 In the presence of non-axisymmetric potentials (such as stellar bars or oval distortions), the velocity field is expanded into a Fourier harmonic series -
-$$v_{\mathrm{los}}(R, 	heta) = c_0(R) + \sum_{m=1}^M \left[ c_m(R) \cos(m	heta) + s_m(R) \sin(m	heta) 
-ight]$$
+$$v_{\mathrm{los}}(R, \theta) = c_0(R) + \sum_{m=1}^M \left[ c_m(R) \cos(m\theta) + s_m(R) \sin(m\theta) \right]$$
 where -
 - $c_0(R) = v_{\mathrm{sys}}$ is the systemic velocity.
 - $c_1(R) = v_{\mathrm{rot}}(R) \sin i$ isolates the pure circular rotation.
@@ -69,7 +65,7 @@ where -
 Because the gas has finite turbulent and thermal pressure, the observed rotation speed $v_{\mathrm{rot}}$ is slightly lower than the true circular speed $v_c(R) = \sqrt{R \, d\Phi/dR}$ dictated by gravity.
 
 ### Step-by-Step Calculus Derivation
-1. Write the radial hydrodynamic Euler equation for a steady-state, axisymmetric, rotating thin gas disk in cylindrical coordinates $(R, 	heta, z)$ -
+1. Write the radial hydrodynamic Euler equation for a steady-state, axisymmetric, rotating thin gas disk in cylindrical coordinates $(R, \theta, z)$ -
    $$\frac{v_{\mathrm{rot}}^2}{R} = \frac{\partial \Phi}{\partial R} + \frac{1}{
 ho_{\mathrm{gas}}} \frac{\partial P_{\mathrm{gas}}}{\partial R}$$
 2. The gravitational acceleration defines the true circular orbital velocity $v_c$ -
@@ -83,12 +79,10 @@ ho_{\mathrm{gas}} \sigma_{\mathrm{gas}}^2)}{\partial R}$$
    $$v_c^2 - v_{\mathrm{rot}}^2 = -\frac{R}{
 ho_{\mathrm{gas}}} \left[ \sigma_{\mathrm{gas}}^2 \frac{\partial 
 ho_{\mathrm{gas}}}{\partial R} + 
-ho_{\mathrm{gas}} \frac{\partial \sigma_{\mathrm{gas}}^2}{\partial R} 
-ight]$$
+ho_{\mathrm{gas}} \frac{\partial \sigma_{\mathrm{gas}}^2}{\partial R} \right]$$
 5. Factor out $\sigma_{\mathrm{gas}}^2$ and express derivatives in logarithmic form ($d\ln x = dx/x$) -
    $$v_c^2 - v_{\mathrm{rot}}^2 = -\sigma_{\mathrm{gas}}^2 \left[ \frac{\partial \ln 
-ho_{\mathrm{gas}}}{\partial \ln R} + \frac{\partial \ln \sigma_{\mathrm{gas}}^2}{\partial \ln R} 
-ight]$$
+ho_{\mathrm{gas}}}{\partial \ln R} + \frac{\partial \ln \sigma_{\mathrm{gas}}^2}{\partial \ln R} \right]$$
 6. Quantitative significance -
    In normal local spiral galaxies, typical values are $v_{\mathrm{rot}} \sim 200\text{ km s}^{-1}$ and $\sigma_{\mathrm{gas}} \sim 10 - 15\text{ km s}^{-1}$. The asymmetric drift correction is negligible ($v_c - v_{\mathrm{rot}} \approx \sigma_{\mathrm{gas}}^2 / (2 v_{\mathrm{rot}}) \lesssim 1\text{ km s}^{-1}$). However, in dwarf galaxies and high-redshift starburst disks ($z \sim 2$) where $\sigma_{\mathrm{gas}} \sim 50 - 80\text{ km s}^{-1}$ and $v_{\mathrm{rot}} \sim 100\text{ km s}^{-1}$, the asymmetric drift correction reaches $20 - 40\text{ km s}^{-1}$ and must be explicitly added to reconstruct the true dynamical mass.
 
@@ -177,14 +171,13 @@ When asked by Prof. Pizzella - *"How do we measure ionized gas kinematics, deriv
 
 2. **Write the tilted-ring projection equation** -
    - Write on the board -
-     $$v_{\mathrm{los}}(R, 	heta) = v_{\mathrm{sys}} + v_{\mathrm{rot}}(R) \sin i \cos 	heta + v_{\mathrm{exp}}(R) \sin i \sin 	heta$$
+     $$v_{\mathrm{los}}(R, \theta) = v_{\mathrm{sys}} + v_{\mathrm{rot}}(R) \sin i \cos \theta + v_{\mathrm{exp}}(R) \sin i \sin \theta$$
    - Draw the 2D spider diagram showing the characteristic orthogonal isovelocity contours along the minor axis.
 
 3. **Derive the asymmetric drift correction for gas** -
    - Write the radial momentum equation -
      $$v_c^2 - v_{\mathrm{rot}}^2 = -\sigma_{\mathrm{gas}}^2 \left[ \frac{d\ln 
-ho_{\mathrm{gas}}}{d\ln R} + \frac{d\ln \sigma_{\mathrm{gas}}^2}{d\ln R} 
-ight]$$
+ho_{\mathrm{gas}}}{d\ln R} + \frac{d\ln \sigma_{\mathrm{gas}}^2}{d\ln R} \right]$$
    - State clearly - *"In normal spirals, $\sigma_{\mathrm{gas}} \approx 10\text{ km s}^{-1} \ll v_{\mathrm{rot}} \approx 200\text{ km s}^{-1}$, so this correction is less than $1\text{ km s}^{-1}$. But in dwarf galaxies and high-z turbulent disks, it can reach tens of $\text{km s}^{-1}$."*
 
 4. **Address beam smearing and observational biases** -

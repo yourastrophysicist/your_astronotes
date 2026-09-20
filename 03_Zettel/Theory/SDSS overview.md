@@ -14,13 +14,13 @@ The Sloan Digital Sky Survey (SDSS) represents the foundational wide-field astro
 ### The Optical System
 - **Telescope Design** - Dedicated 2.5-meter f/5 modified Ritchey-Chrétien altitude-azimuth telescope with a 3-degree wide field of view.
 - **Location** - Apache Point Observatory, New Mexico (altitude 2788 m), offering excellent atmospheric transparency and median optical seeing of $\sim 1.4$ arcseconds in the $r$-band.
-- **Primary Instrument** - The SDSS imaging camera featured 30 SITe $2048 	imes 2048$ pixel charge-coupled devices (CCDs) arranged in 5 columns of 6 rows, plus 22 smaller astrometric and focus chips.
+- **Primary Instrument** - The SDSS imaging camera featured 30 SITe $2048 \times 2048$ pixel charge-coupled devices (CCDs) arranged in 5 columns of 6 rows, plus 22 smaller astrometric and focus chips.
 
 ### Time-Delay-and-Integrate (TDI) Drift-Scan Mode
 The imaging survey operated in drift-scanning mode. Instead of tracking the sky with stationary exposures, the telescope remained fixed along a great circle while the charge on the CCDs was shifted synchronously at the sidereal rate along the columns.
 - Integration time per filter -
-  $$t_{\mathrm{int}} = \frac{N_{\mathrm{pix}} \cdot 	heta_{\mathrm{pix}}}{\Omega_{\mathrm{sidereal}} \cos \delta} \approx 53.9 \text{ seconds}$$
-  where $N_{\mathrm{pix}} = 2048$, pixel scale $	heta_{\mathrm{pix}} = 0.396$ arcsec/pixel, and $\Omega_{\mathrm{sidereal}} = 15.041$ arcsec/s.
+  $$t_{\mathrm{int}} = \frac{N_{\mathrm{pix}} \cdot \theta_{\mathrm{pix}}}{\Omega_{\mathrm{sidereal}} \cos \delta} \approx 53.9 \text{ seconds}$$
+  where $N_{\mathrm{pix}} = 2048$, pixel scale $\theta_{\mathrm{pix}} = 0.396$ arcsec/pixel, and $\Omega_{\mathrm{sidereal}} = 15.041$ arcsec/s.
 - Each scan produces continuous optical stripes across five filters, yielding contiguous multi-color imaging across thousands of square degrees.
 
 ---
@@ -37,12 +37,8 @@ The SDSS filter system was designed to optimize stellar and extragalactic spectr
 5. **$z$-band** - Effective wavelength $\lambda_{\mathrm{eff}} \approx 8931$ \AA, FWHM $\Delta \lambda \approx 950$ \AA. Extends out to the atmospheric water vapor absorption and CCD sensitivity limit.
 
 ### Magnitude System Definition
-SDSS calibrated photometry on the AB magnitude system (Oke and Gunn 1983), where an object with flat spectral energy distribution per unit frequency $f_
-u$ has zero color -
-$$m_{\mathrm{AB}} = -2.5 \log_{10}\left( \frac{f_
-u}{3631 \text{ Jy}} 
-ight) = -2.5 \log_{10} f_
-u - 48.60$$
+SDSS calibrated photometry on the AB magnitude system (Oke and Gunn 1983), where an object with flat spectral energy distribution per unit frequency $f_\nu$ has zero color -
+$$m_{\mathrm{AB}} = -2.5 \log_{10}\left( \frac{f_\nu}{3631 \text{ Jy}} \right) = -2.5 \log_{10} f_\nu - 48.60$$
 where $1 \text{ Jy} = 10^{-23} \text{ erg s}^{-1} \text{ cm}^{-2} \text{ Hz}^{-1}$.
 
 ---
@@ -67,8 +63,7 @@ SDSS utilized two identical multi-fiber spectrographs fed by optical fibers plug
 ## 4. Mathematical Formulation of the K-Correction
 
 Because galaxies are observed at cosmological redshifts $z > 0$, the light detected in a fixed observer-frame passband $R$ originates from a bluer rest-frame passband $Q$. The conversion between observer-frame apparent magnitude $m_R$ and rest-frame absolute magnitude $M_Q$ is given by -
-$$m_R = M_Q + 5 \log_{10}\left( \frac{d_L(z)}{10 \text{ pc}} 
-ight) + K_{QR}(z)$$
+$$m_R = M_Q + 5 \log_{10}\left( \frac{d_L(z)}{10 \text{ pc}} \right) + K_{QR}(z)$$
 where $d_L(z)$ is the luminosity distance.
 
 ### Step-by-Step Calculus Derivation
@@ -82,8 +77,7 @@ where $d_L(z)$ is the luminosity distance.
 4. Compare this to the rest-frame emission through filter $Q$ at standard distance $10 \text{ pc}$ -
    $$F_Q = \frac{1}{4\pi (10\text{ pc})^2} \frac{\int L_\lambda(\lambda) T_Q(\lambda) \lambda \, d\lambda}{\int T_Q(\lambda) \lambda \, d\lambda}$$
 5. Applying the definition of magnitude differences $m_R - M_Q = -2.5 \log_{10}(F_R / F_Q)$ and factoring out the distance modulus $5 \log_{10}(d_L / 10\text{ pc})$, the exact K-correction is -
-   $$K_{QR}(z) = -2.5 \log_{10}\left[ (1 + z) \frac{\int L_\lambda(\lambda) T_R(\lambda(1 + z)) \lambda \, d\lambda}{\int T_R(\lambda) \lambda \, d\lambda} \cdot \frac{\int T_Q(\lambda) \lambda \, d\lambda}{\int L_\lambda(\lambda) T_Q(\lambda) \lambda \, d\lambda} 
-ight]$$
+   $$K_{QR}(z) = -2.5 \log_{10}\left[ (1 + z) \frac{\int L_\lambda(\lambda) T_R(\lambda(1 + z)) \lambda \, d\lambda}{\int T_R(\lambda) \lambda \, d\lambda} \cdot \frac{\int T_Q(\lambda) \lambda \, d\lambda}{\int L_\lambda(\lambda) T_Q(\lambda) \lambda \, d\lambda} \right]$$
 In SDSS publications, absolute magnitudes are conventionally K-corrected to rest-frame bands at $z = 0.1$ (denoted $^{0.1}r$ or $^{0.1}g$) to minimize model dependency near the median survey redshift.
 
 ---
@@ -140,8 +134,7 @@ When asked by Prof. Pizzella - *"What is the SDSS, how did its photometric and s
 
 2. **Describe the filter system and AB magnitudes** -
    - Draw the 5 filter bands.
-   - Explain - *"The filters span 3000 to 10000 \AA\ on the AB system ($m_{\mathrm{AB}} = -2.5 \log_{10} f_
-u - 48.60$). The $u$ and $g$ bands bracket the 4000 \AA\ break, enabling robust stellar population diagnostics and photometric redshifts."*
+   - Explain - *"The filters span 3000 to 10000 \AA\ on the AB system ($m_{\mathrm{AB}} = -2.5 \log_{10} f_\nu - 48.60$). The $u$ and $g$ bands bracket the 4000 \AA\ break, enabling robust stellar population diagnostics and photometric redshifts."*
 
 3. **Derive the K-correction on the blackboard** -
    - Write the relation - $m_R = M_Q + 5\log_{10}(d_L/10\text{ pc}) + K_{QR}(z)$.

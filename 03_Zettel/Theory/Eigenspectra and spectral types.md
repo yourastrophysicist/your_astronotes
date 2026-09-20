@@ -17,7 +17,7 @@ The mean spectrum across the entire ensemble is -
 $$\bar{f}(\lambda_j) = \frac{1}{N} \sum_{i=1}^N f_i(\lambda_j)$$
 
 ### The Spectral Covariance Matrix
-Subtracting the mean spectrum defines the flux perturbation matrix $\Delta f_i(\lambda_j) \equiv f_i(\lambda_j) - \bar{f}(\lambda_j)$. The $M 	imes M$ spectral covariance matrix $\mathbf{C}$ is -
+Subtracting the mean spectrum defines the flux perturbation matrix $\Delta f_i(\lambda_j) \equiv f_i(\lambda_j) - \bar{f}(\lambda_j)$. The $M \times M$ spectral covariance matrix $\mathbf{C}$ is -
 $$C_{jk} = \frac{1}{N} \sum_{i=1}^N \Delta f_i(\lambda_j) \Delta f_i(\lambda_k)$$
 Because $\mathbf{C}$ is real and symmetric ($C_{jk} = C_{kj}$), the Spectral Theorem guarantees that it can be diagonalized into $M$ orthogonal eigenvectors $\vec{e}_k$ with non-negative eigenvalues $\lambda_k$ -
 $$\mathbf{C} \vec{e}_k = \lambda_k \vec{e}_k$$
@@ -28,8 +28,7 @@ The eigenvectors $e_k(\lambda)$ are the **eigenspectra**, and the eigenvalues $\
 Any galaxy spectrum $f_i(\lambda)$ is expanded exactly as -
 $$f_i(\lambda) = \bar{f}(\lambda) + \sum_{k=1}^M a_{ik} e_k(\lambda)$$
 where the projection coefficients (eigenspectrum scores) $a_{ik}$ are computed via inner product -
-$$a_{ik} = \sum_{j=1}^M \left[ f_i(\lambda_j) - \bar{f}(\lambda_j) 
-ight] e_k(\lambda_j)$$
+$$a_{ik} = \sum_{j=1}^M \left[ f_i(\lambda_j) - \bar{f}(\lambda_j) \right] e_k(\lambda_j)$$
 
 ---
 
@@ -49,9 +48,9 @@ In the 2dFGRS analysis of over 170,000 galaxy spectra in the rest-frame waveleng
 
 ## 3. The 2dFGRS $\eta$ Parameter and Objective Spectral Types
 
-In a scatter plot of the second principal component $a_2$ versus the first principal component $a_1$, galaxies form a continuous sequence extending from passive early-type galaxies to starburst systems. Because the sequence is inclined relative to the $a_1$ axis, Madgwick et al. (2002) performed an orthogonal coordinate rotation by an angle $	heta \approx -20^\circ$ to define a single master spectral parameter $\eta$ -
-$$\eta \equiv a_1 \cos	heta + a_2 \sin	heta = a_1 \cos(-20^\circ) + a_2 \sin(-20^\circ) \approx 0.940 \, a_1 - 0.342 \, a_2$$
-The orthogonal coordinate $\zeta \equiv -a_1 \sin	heta + a_2 \cos	heta$ has small intrinsic dispersion and reflects secondary effects such as dust extinction and stellar metallicity.
+In a scatter plot of the second principal component $a_2$ versus the first principal component $a_1$, galaxies form a continuous sequence extending from passive early-type galaxies to starburst systems. Because the sequence is inclined relative to the $a_1$ axis, Madgwick et al. (2002) performed an orthogonal coordinate rotation by an angle $\theta \approx -20^\circ$ to define a single master spectral parameter $\eta$ -
+$$\eta \equiv a_1 \cos\theta + a_2 \sin\theta = a_1 \cos(-20^\circ) + a_2 \sin(-20^\circ) \approx 0.940 \, a_1 - 0.342 \, a_2$$
+The orthogonal coordinate $\zeta \equiv -a_1 \sin\theta + a_2 \cos\theta$ has small intrinsic dispersion and reflects secondary effects such as dust extinction and stellar metallicity.
 
 ### The Four Objective Spectral Types
 Based on the distribution of $\eta$, galaxies are classified into four discrete, physically motivated spectral types -
@@ -64,8 +63,7 @@ Based on the distribution of $\eta$, galaxies are classified into four discrete,
 | **Type 4** | $\eta \ge 3.5$ | Starburst Galaxies and Irregulars | Extreme starbursting systems; high emission-line equivalent widths. |
 
 ### Correlation with the Birthrate Parameter $b$
-The $\eta$ parameter correlates directly with the stellar birthrate parameter $b$, defined as the ratio of current star formation rate to the past-average star formation rate ($b \equiv \text{SFR} / \langle \text{SFR} 
-angle_{\mathrm{past}}$) -
+The $\eta$ parameter correlates directly with the stellar birthrate parameter $b$, defined as the ratio of current star formation rate to the past-average star formation rate ($b \equiv \text{SFR} / \langle \text{SFR} \rangle_{\mathrm{past}}$) -
 $$\ln b \approx 0.74 \, \eta - 0.88$$
 - For Type 1 passive galaxies ($\eta < -1.4$), $b \approx 0$, confirming that current star formation is negligible.
 - For Type 4 starburst galaxies ($\eta > 3.5$), $b \gg 1$, indicating that the galaxy is producing stars at an order of magnitude above its historical average rate.
@@ -112,8 +110,7 @@ When asked by Prof. Pizzella - *"How do we classify galaxy spectra using Princip
 3. **Define the $\eta$ parameter on the blackboard** -
    - Write - $\eta \equiv a_1 \cos(-20^\circ) + a_2 \sin(-20^\circ) \approx 0.94 a_1 - 0.34 a_2$.
    - Draw the rotated $(a_1, a_2)$ diagram and indicate the 4 spectral types from Type 1 (passive, $\eta < -1.4$) to Type 4 (starburst, $\eta > 3.5$).
-   - Conclude - *"Madgwick et al. proved that $\eta$ maps linearly to $\ln b$, where $b = \text{SFR} / \langle \text{SFR} 
-angle_{\mathrm{past}}$, providing a continuous physical clock of galaxy star formation history."*
+   - Conclude - *"Madgwick et al. proved that $\eta$ maps linearly to $\ln b$, where $b = \text{SFR} / \langle \text{SFR} \rangle_{\mathrm{past}}$, providing a continuous physical clock of galaxy star formation history."*
 
 ---
 
