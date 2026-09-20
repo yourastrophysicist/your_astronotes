@@ -315,6 +315,15 @@ the exam template I have on file (4 exercises) hits exactly these boxes: read-an
 
 ---
 
+## Literature & Primary Sources
+
+Canonical and modern benchmark papers underlying the numerical methods above.
+
+- [Marquardt (1963) — Levenberg-Marquardt Nonlinear Least Squares](../02_Literature/Papers/16_Mathematical_Numerical_Methods/Marquardt_1963_Levenberg_Marquardt_Algorithm.html) — adaptive Gauss-Newton/steepest-descent damping
+- [Virtanen et al. (2020) — SciPy 1.0](../02_Literature/Papers/16_Mathematical_Numerical_Methods/Virtanen_2020_SciPy_Scientific_Computing.html) — the numerical-Python foundation underlying most of this course's tooling
+
+---
+
 ## related MOCs and where this work leaks into
 
 - [Fundamentals_Astrophysics_Cosmology_MOC](Fundamentals_Astrophysics_Cosmology_MOC.html) — every cosmology calculation that actually returns a number was done with the tools in this MOC: integrating Friedmann, computing $D_L(z)$, drawing mock CMB realizations
