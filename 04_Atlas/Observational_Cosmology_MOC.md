@@ -265,6 +265,16 @@ Pablo's lecture series (31 March – 3 April):
 
 ---
 
+## Literature & Primary Sources
+
+Canonical and modern arXiv astro-ph.CO benchmark papers underlying the BAO and weak-lensing techniques above.
+
+- [Eisenstein et al. (2005) — BAO Detection in SDSS LRGs](../02_Literature/Papers/08_Observational_Cosmology/Eisenstein_2005_BAO_Detection_SDSS_LRGs.html) — first BAO detection, the sound horizon as a standard ruler
+- [DESI Collaboration (2024) — DESI 2024 VI: BAO Cosmological Constraints](../02_Literature/Papers/08_Observational_Cosmology/DESI_2024_BAO_Cosmological_Constraints.html) — multi-redshift BAO, hint of dynamical dark energy ($w_0,w_a$)
+- [Bartelmann & Schneider (2001) — Weak Gravitational Lensing](../02_Literature/Papers/08_Observational_Cosmology/Bartelmann_Schneider_2001_Weak_Gravitational_Lensing.html) — convergence/shear formalism, cosmic shear power spectrum
+
+---
+
 ## Appendices and tools
 
 - [Cosmology calculator — how to use H0 Ω_m Ω_Λ to get d_L, d_A, t_lookback](../03_Zettel/Theory/Cosmology%20calculator%20-%20how%20to%20use%20H0%20Omega_m%20Omega_Lambda%20to%20get%20dL%20dA%20t_lookback.html)
