@@ -40,6 +40,18 @@ quantitative models (Brandt & Huang 2015, ApJ 807, 24) reproduce the observed TO
 
 key observation supporting rotation: in NGC 1755, NGC 1850, the upper MS is **bifurcated** into a blue + red sequence (Milone et al. 2018, MNRAS 477, 2640). the blue sequence is identified with slow rotators or merger products, the red sequence with fast rotators ($v_{\rm rot} \sim 200$-$300$ km/s). spectroscopic confirmation: Marino et al. 2018, AJ 156, 116 directly measured $v\sin i$ for stars on the two sequences in NGC 1866.
 
+### the von Zeipel theorem and gravity darkening
+
+A rotating star is not spherical: centrifugal support flattens it into an oblate spheroid, with the equatorial radius $R_{\rm eq}$ exceeding the polar radius $R_{\rm pol}$. **Von Zeipel's theorem** (1924) states that for a star in uniform (rigid-body) rotation and radiative equilibrium, the emergent radiative flux at any point on the surface is proportional to the local effective gravity:
+$$\boxed{\, F(\theta) \propto g_{\rm eff}(\theta), \qquad T_{\rm eff}(\theta) \propto g_{\rm eff}(\theta)^{1/4} \,}$$
+where $\theta$ is the colatitude and the second relation follows from $F=\sigma_{\rm SB}T_{\rm eff}^4$. The local effective gravity is the vector sum of the true gravitational acceleration and the centrifugal acceleration:
+$$g_{\rm eff}(\theta) = \left|-\frac{GM}{r^2}\hat{r} + \Omega^2 r\sin^2\theta\,\hat{r}_\perp\right|$$
+where $\Omega$ is the (uniform) angular rotation rate and $r=r(\theta)$ traces the equipotential (Roche) surface. Since the centrifugal term partially cancels gravity at the equator ($\theta=\pi/2$) and vanishes at the poles ($\theta=0$), $g_{\rm eff}$ — and hence $T_{\rm eff}$ — is *lower at the equator than at the pole*:
+$$T_{\rm eff}(\mathrm{equator}) < T_{\rm eff}(\mathrm{pole})$$
+**Asymptotic checks**: for $\Omega\to0$ (non-rotating star), $g_{\rm eff}\to GM/R^2$ uniformly, $T_{\rm eff}$ is constant over the surface, and no gravity darkening occurs; as $\Omega\to\Omega_{\rm crit}$ (critical/breakup rotation, where centrifugal acceleration equals gravity at the equator), $g_{\rm eff}(\mathrm{equator})\to0$ and $T_{\rm eff}(\mathrm{equator})\to0$ in the idealized von Zeipel limit — in practice this strict limit is modified by baroclinic effects (differential rather than rigid rotation) in real, evolved rotating stars.
+
+The observationally projected color and magnitude of a rotating star therefore depend on **inclination**: a star viewed pole-on shows predominantly its (hotter, bluer, brighter per unit area) polar $T_{\rm eff}$, while the same star viewed equator-on shows predominantly its cooler, redder, fainter equatorial $T_{\rm eff}$ — combined with the rotationally-mixed core-hydrogen lifetime extension described above, this inclination-dependent flux redistribution is what broadens a single-age, single-rotation-rate population into the observed range of eMSTO colors and magnitudes at fixed age.
+
 ## age constraint: why only 1-2 Gyr clusters?
 
 at younger ages, all stars are too hot/massive for rotational mixing to differentiate the TO meaningfully. at older ages, most stars are below the rotation-mass threshold ($M < 1.4 M_\odot$ have convective envelopes that brake rotation magnetically). so the eMSTO appears in the narrow age window where MS stars retain significant rotation but are old enough that the broadening is observable.

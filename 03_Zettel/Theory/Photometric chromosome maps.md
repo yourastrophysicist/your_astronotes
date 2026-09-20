@@ -23,6 +23,18 @@ this is a "magic triplet" pseudo-color centered on the OH (F275W), NH (F336W), +
 
 each star is plotted in $(\Delta_C, \Delta_{F275W,F814W})$ + the cluster's populations appear as compact knots or elongated streams.
 
+### formal definition of the pseudo-color axes
+
+Both chromosome-map axes are constructed as **verticalized, dereddened residuals** relative to a fiducial line fitted to the bulk of the cluster's red giant branch (or main sequence), rather than as the raw photometric colors themselves. Formally, for a star with observed color-color triplet $(m_{275}, m_{336}, m_{438})$ (shorthand for $m_{\mathrm{F275W}}$, etc.):
+$$\boxed{\, C_{\mathrm{F275W,F336W,F438W}} \equiv (m_{275}-m_{336}) - (m_{336}-m_{438}) \,}$$
+is the raw "magic-triplet" pseudo-color, and
+$$\boxed{\, \Delta_{C} \equiv \frac{C - C_{\mathrm{fid}}(m_{814})}{W_C}, \qquad \Delta_{\mathrm{F275W,F814W}} \equiv \frac{(m_{275}-m_{814}) - \mathrm{Col}_{\mathrm{fid}}(m_{814})}{W_{\mathrm{F275,F814}}} \,}$$
+where:
+- $C_{\mathrm{fid}}(m_{814})$ and $\mathrm{Col}_{\mathrm{fid}}(m_{814})$ are fiducial lines defined by the run of $C$ and $(m_{275}-m_{814})$ against $m_{814}$ for a reference (typically the bluest, most O-rich, He-normal) subset of cluster stars
+- $W_C$ and $W_{\mathrm{F275,F814}}$ are magnitude-dependent normalization widths, chosen so that both axes span a comparable dynamic range (of order unity) at every point along the fiducial sequence, correcting for the magnitude-dependent photometric error and intrinsic color width
+
+This verticalization is what makes the two axes closely orthogonal in practice: $\Delta_C$ isolates the nitrogen-driven molecular-band residual at fixed luminosity, while $\Delta_{\mathrm{F275W,F814W}}$ isolates the helium/temperature-driven residual at fixed luminosity, with the shared magnitude dependence along the giant branch divided out by construction rather than left to correlate the two axes.
+
 ## what the map shows
 
 for a typical [Type I GC](Type%20I%20and%20Type%20II%20GCs.html):
@@ -76,8 +88,9 @@ the chromosome map is also being applied to extragalactic GCs (LMC, SMC, M31) vi
 
 - **Milone et al. 2015, ApJ 808, 51** — first chromosome maps (NGC 2808).
 - **Milone et al. 2015, MNRAS 455, 3009** — refined chromosome map construction.
-- **Milone et al. 2017, MNRAS 464, 3636** — HST UV Legacy Survey: chromosome maps for $\sim 57$ GCs, Type I/II classification.
+- **Milone et al. 2017, MNRAS 464, 3636**, [arXiv:1610.00451](https://arxiv.org/abs/1610.00451) — HST UV Legacy Survey IX: "The Atlas of Multiple Stellar Populations," chromosome maps for $57$ GCs, Type I/II classification.
 - **Marino, Milone et al. 2019** — chemical patterns on chromosome maps: spectroscopic validation of photometric populations.
+- **Bastian & Lardo 2018, ARA&A 56, 83**, [arXiv:1712.01286](https://arxiv.org/abs/1712.01286) — "Multiple Populations in Globular Clusters": comprehensive review of the observational landscape (chromosome maps, Na-O and He anticorrelations) and the competing polluter/enrichment scenarios, including the unresolved "mass budget problem" (no proposed 1G polluter population is massive enough to have produced the observed 2G fraction under a standard IMF).
 
 ## why it is the centerpiece of modern GC astrophysics
 

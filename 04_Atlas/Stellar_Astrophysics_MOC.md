@@ -243,7 +243,7 @@ these are the things I should master cold for the exam.
 1. **mass-luminosity scaling on the MS**: $L \propto M^4$ (low-mass), $L \propto M^3$ (high-mass). MS lifetime $\tau \propto M^{-2.5}$.
 2. **MSTO age**: relate $M_{\rm TO}$ to age via $\tau \approx 10\,(M/M_\odot)^{-2.5}$ Gyr.
 3. **distance modulus** $m - M = 5\log_{10}(d/10\,{\rm pc}) + A_V$. with reddening.
-4. **Chandrasekhar mass** $M_{\rm Ch} \approx 1.46 (\mu_e/2)^{-2} M_\odot$ from polytropic balance.
+4. **Chandrasekhar mass** $M_{\rm Ch} \approx 1.46 (\mu_e/2)^{-2} M_\odot$ from polytropic balance — full derivation from Fermi-Dirac degenerate electron pressure through the $n=3$ Lane-Emden limit in [Chandrasekhar mass limit](../03_Zettel/Theory/Chandrasekhar%20mass%20limit.html).
 5. **Mestel WD cooling** $\tau \propto L^{-5/7}$, with assumptions.
 6. **isochrone equation** in CMD: locus of $(M_V, B-V)$ for fixed $t, [Fe/H], M$ varied.
 7. **reddening vector slope** in CMD: $A_V/E(B-V) = R_V$.
@@ -251,7 +251,7 @@ these are the things I should master cold for the exam.
 9. **Mass-radius relation** for non-relativistic + relativistic WDs.
 10. **Saha equation** + ionisation fraction in stellar atmospheres.
 11. **equivalent width** integral + curve of growth regimes (linear, saturated, damped).
-12. **chromosome map construction**: pseudo-colour definitions $\Delta_{F275W,F814W}$ + $\Delta_{C\,F275W,F336W,F438W}$.
+12. **chromosome map construction**: pseudo-colour definitions $\Delta_{F275W,F814W}$ + $\Delta_{C\,F275W,F336W,F438W}$ — formal verticalized-residual construction in [Photometric chromosome maps](../03_Zettel/Theory/Photometric%20chromosome%20maps.html).
 
 ### conceptual essays
 1. why is a CMD better than an HRD for **observers**? (filters not bolometric).
@@ -262,6 +262,20 @@ these are the things I should master cold for the exam.
 6. why are **UFDGs** unique probes of dark matter + Pop III?
 7. what causes the **eMSTO** in young clusters (rotation vs age spread debate)?
 8. how does the **age-metallicity relation of GCs** trace **two channels of Galactic assembly** (in situ + accretion)?
+
+## Literature & Primary Sources
+
+Canonical and modern arXiv astro-ph.SR benchmark papers underlying the stellar-structure formalism, isochrone modeling, and multiple-populations diagnostics above.
+
+- **Asplund et al. (2009)**, *ARA&A* 47, 481, [arXiv:0909.0948](https://arxiv.org/abs/0909.0948) — solar chemical composition from 3D RHD atmospheres; see also the updated Asplund, Amarsi & Grevesse (2021), *A&A* 653, A141, [arXiv:2105.01661](https://arxiv.org/abs/2105.01661). Full synthesis: [Asplund et al. (2009) — Chemical Composition of the Sun](../02_Literature/Papers/04_Astronomical_Spectroscopy/Asplund_2009_Chemical_Composition_of_the_Sun.html).
+- **Bressan et al. (2012)**, *MNRAS* 427, 127, [arXiv:1208.4498](https://arxiv.org/abs/1208.4498) — PARSEC: the Padova-Trieste stellar evolution code underlying the isochrone grids used throughout this course's CMD/eMSTO modeling.
+- **Milone et al. (2017)**, *MNRAS* 464, 3636, [arXiv:1610.00451](https://arxiv.org/abs/1610.00451) — HST UV Legacy Survey IX, "The Atlas of Multiple Stellar Populations": chromosome maps for 57 Galactic GCs. See [Photometric chromosome maps](../03_Zettel/Theory/Photometric%20chromosome%20maps.html).
+- **Bastian & Lardo (2018)**, *ARA&A* 56, 83, [arXiv:1712.01286](https://arxiv.org/abs/1712.01286) — comprehensive review of multiple-populations observations and the still-unresolved polluter/mass-budget problem.
+- **Gaia Collaboration / Vallenari et al. (2023)**, *A&A* 674, A1, [arXiv:2208.00211](https://arxiv.org/abs/2208.00211) — Gaia DR3: resolved cluster kinematics, proper-motion-cleaned CMDs, and white-dwarf cooling-track astrometry used across Blocks 5, 9, and 11.
+
+*Provenance note*: two arXiv IDs in this list were corrected during verification — Bastian & Lardo (2018) is arXiv:1712.01286 (not 1712.05621), and Bressan et al. (2012) is arXiv:1208.4498 (not 1208.3598).
+
+---
 
 ## the panic page (for exam morning)
 
