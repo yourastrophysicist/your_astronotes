@@ -130,6 +130,16 @@ Modular atomic reference notes synthesized across the four thematic pillars:
 
 ---
 
+## Literature & Primary Sources
+
+Canonical and modern arXiv astro-ph.IM/stat.ME benchmark papers underlying the Bayesian inference and GP-regression methodology above.
+
+- [Trotta (2008) — Bayes in the Sky](../02_Literature/Papers/17_Astro_Statistics/Trotta_2008_Bayes_in_the_Sky.html) — Bayesian evidence, Bayes factors, the Bayesian Occam's razor
+- [Speagle (2020) — dynesty Dynamic Nested Sampling](../02_Literature/Papers/17_Astro_Statistics/Speagle_2020_dynesty_Nested_Sampling.html) — adaptive live-point allocation for evidence + posterior estimation
+- [Aigrain & Foreman-Mackey (2023) — GP Regression for Astronomical Time Series](../02_Literature/Papers/17_Astro_Statistics/Aigrain_Foreman-Mackey_2023_GP_Regression_Time_Series.html) — kernel choice, the joint-vs-sequential-fitting caution
+
+---
+
 ## Cross-Course Connections and Synapses
 
 - [Early Universe Cosmology MOC](Cosmology_of_the_Early_Universe_MOC.html) - Primordial inflationary perturbation spectrum $P_\mathcal{R}(k)$, scalar spectral index $n_s$, tensor-to-scalar ratio $r$, and primordial non-Gaussianity $f_{\text{NL}}$.

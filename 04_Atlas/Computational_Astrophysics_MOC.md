@@ -105,6 +105,16 @@ $$\text{Final Grade} = \text{Score}_A + \text{Score}_B + \text{Score}_C$$
 
 ---
 
+## Literature & Primary Sources
+
+Canonical and modern arXiv astro-ph.IM benchmark papers underlying the simulation-code architecture above.
+
+- [Springel (2005) — The Cosmological Simulation Code GADGET-2](../02_Literature/Papers/15_Computational_Astrophysics/Springel_2005_GADGET-2_Cosmological_Simulation_Code.html) — Tree-PM gravity, SPH hydrodynamics
+- [Springel (2010) — AREPO Moving-Mesh Hydrodynamics](../02_Literature/Papers/15_Computational_Astrophysics/Springel_2010_AREPO_Moving_Mesh_Code.html) — Voronoi moving mesh, Galilean invariance
+- [Pillepich et al. (2018) — First Results from IllustrisTNG](../02_Literature/Papers/15_Computational_Astrophysics/Pillepich_2018_IllustrisTNG_Simulations.html) — kinetic-mode AGN feedback, stellar-to-halo-mass relation
+
+---
+
 ## Master Figure Index (Computational Astrophysics)
 
 | Figure ID | Visual Asset Name | Slide / Concept Title | Primary Zettel / Lecture Note Link | Key Numerical / Algorithmic Principle |

@@ -164,6 +164,16 @@ The official oral exam bank consists of 30 questions. The comprehensive, blackbo
 
 ---
 
+## Literature & Primary Sources
+
+Canonical and modern arXiv astro-ph.HE/SR benchmark papers underlying the accretion-disk and jet-launching physics above.
+
+- [Balbus & Hawley (1991) — A Powerful Local Shear Instability](../02_Literature/Papers/13_Fluid_Plasma_Dynamics/Balbus_Hawley_1991_Magnetorotational_Instability.html) — the MRI dispersion relation and instability criterion
+- [Blandford & Payne (1982) — Hydromagnetic Flows from Accretion Discs](../02_Literature/Papers/13_Fluid_Plasma_Dynamics/Blandford_Payne_1982_Jet_Launching_Disk_Wind.html) — magneto-centrifugal disk-wind jet launching, the 30° criterion
+- [Porth et al. (2019) — Event Horizon GRMHD Code Comparison](../02_Literature/Papers/13_Fluid_Plasma_Dynamics/Porth_2019_EHT_GRMHD_Code_Comparison.html) — nine-code GRMHD validation ahead of the EHT M87* image
+
+---
+
 ## Inter-Vault Connections
 
 - [Course_Overview_and_Syllabus](../02_Literature/Lectures/Fluid_and_Plasma_Dynamics/Course_Overview_and_Syllabus.html)
