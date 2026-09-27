@@ -2,6 +2,7 @@
 layout: "default"
 title: "Proper motion and stellar kinematics"
 ---
+{% raw %}
 in addition to the periodic reflex motions of parallax and aberration caused by Earth's orbit, stars have intrinsic physical motion through three-dimensional space relative to the solar system: their **space velocity** $\vec{v}$.
 
 the projection of this 3D space velocity onto the plane of the sky is observed as an angular drift called **proper motion** (moto proprio).
@@ -74,14 +75,14 @@ $$\boxed{\, v_t = 4.7404 \, d(\text{pc}) \, \mu(''/\text{yr}) \approx 4.74 \, \f
 
 ![obs_sph2-33.png](../../assets/images/obs_sph2-33.png)
 *Radial velocity v_r from Doppler shift and total space velocity v = sqrt(v_r^2 + v_t^2).*
+{% endraw %}
 
-
-
-## Linked References
-
-- [[Aberration of light]]
-- [[Annual stellar parallax]]
-- [[Fundamentals_Astrophysics_Cosmology_MOC]]
-- [[Observational_Astrophysics_MOC]]
-
-
+<div class="backlinks-section">
+  <h4 class="backlinks-title">Linked References (4)</h4>
+  <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="./Aberration%20of%20light.html" class="backlink-item">Aberration of light</a></li>
+    <li class="backlink-item-wrap"><a href="./Annual%20stellar%20parallax.html" class="backlink-item">Annual stellar parallax</a></li>
+    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
+    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
+  </ul>
+</div>

@@ -1,0 +1,1152 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Astrophysics_Laboratory_2_MOC | Your AstroNotes</title>
+  <style id="wiki-theme">
+/* Wikipedia / MediaWiki Vector Skin Theme for Your AstroNotes */
+
+:root {
+  --bg-color: #f6f6f6;
+  --content-bg: #ffffff;
+  --text-color: #202122;
+  --text-muted: #54595d;
+  --heading-color: #000000;
+  
+  --primary-color: #3366cc;
+  --primary-hover: #2a4b8d;
+  --link-visited: #795cb2;
+  
+  --border-color: #a2a9b1;
+  --border-subtle: #eaecf0;
+  --sidebar-bg: #f8f9fa;
+  --sidebar-hover: #eaecf0;
+  --sidebar-active: #eaf3ff;
+  
+  --toc-bg: #f8f9fa;
+  --toc-border: #a2a9b1;
+  --toc-active: #3366cc;
+  
+  --code-bg: #f8f9fa;
+  --code-border: #eaecf0;
+  --code-text: #202122;
+
+  --badge-bg: #f8f9fa;
+  --badge-border: #a2a9b1;
+  
+  --header-height: 54px;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg-color: #101418;
+    --content-bg: #1a1f24;
+    --text-color: #eaecf0;
+    --text-muted: #9aa0a7;
+    --heading-color: #ffffff;
+    
+    --primary-color: #6daafb;
+    --primary-hover: #9ec2ff;
+    --link-visited: #c5a9fc;
+    
+    --border-color: #54595d;
+    --border-subtle: #2d333b;
+    --sidebar-bg: #14181c;
+    --sidebar-hover: #22272e;
+    --sidebar-active: #1f3044;
+    
+    --toc-bg: #14181c;
+    --toc-border: #54595d;
+    --toc-active: #6daafb;
+    
+    --code-bg: #22272e;
+    --code-border: #373e47;
+    --code-text: #eaecf0;
+
+    --badge-bg: #14181c;
+    --badge-border: #54595d;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  line-height: 1.6;
+  font-size: 15px;
+}
+
+a {
+  color: var(--primary-color);
+  text-decoration: none;
+}
+
+a:visited {
+  color: var(--link-visited);
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Header */
+header {
+  height: var(--header-height);
+  background-color: var(--content-bg);
+  border-bottom: 1px solid var(--border-color);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 24px;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
+}
+
+.header-brand {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  min-width: 0;
+  overflow: hidden;
+}
+
+.logo {
+  font-family: 'Linux Libertine', 'Georgia', 'Times New Roman', serif;
+  font-size: 1.35rem;
+  font-weight: normal;
+  color: var(--heading-color);
+  letter-spacing: -0.01em;
+  text-decoration: none;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.logo:hover {
+  text-decoration: none;
+  color: var(--primary-color);
+}
+
+.header-subtitle {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  font-style: italic;
+  font-family: 'Linux Libertine', 'Georgia', serif;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.header-nav {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-size: 0.9rem;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+
+.header-tab {
+  padding: 6px 10px;
+  color: var(--text-color);
+  border-radius: 2px;
+  font-size: 0.85rem;
+  font-weight: 500;
+  border: 1px solid transparent;
+  white-space: nowrap;
+}
+
+.header-tab:hover {
+  background-color: var(--sidebar-hover);
+  text-decoration: none;
+}
+
+.header-tab.active {
+  background-color: var(--content-bg);
+  border-color: var(--border-color);
+  border-bottom-color: var(--content-bg);
+  color: var(--heading-color);
+}
+
+/* Main Layout Grid */
+.container {
+  display: flex;
+  min-height: calc(100vh - var(--header-height));
+  max-width: 1680px;
+  margin: 0 auto;
+}
+
+/* Sidebar Left (Navigation Tree) */
+.sidebar-left {
+  width: 290px;
+  background-color: var(--sidebar-bg);
+  border-right: 1px solid var(--border-color);
+  padding: 16px;
+  position: sticky;
+  top: var(--header-height);
+  height: calc(100vh - var(--header-height));
+  overflow-y: auto;
+  flex-shrink: 0;
+}
+
+.sidebar-heading {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-weight: bold;
+  color: var(--text-muted);
+  margin-top: 16px;
+  margin-bottom: 8px;
+  padding-bottom: 4px;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.search-box {
+  width: 100%;
+  padding: 6px 10px;
+  border: 1px solid var(--border-color);
+  border-radius: 2px;
+  background-color: var(--content-bg);
+  color: var(--text-color);
+  font-size: 0.85rem;
+  margin-bottom: 12px;
+  outline: none;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.search-box:focus {
+  border-color: var(--primary-color);
+  box-shadow: inset 0 0 0 1px var(--primary-color);
+}
+
+.tree-list {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+  font-size: 0.88rem;
+}
+
+.tree-item {
+  margin: 2px 0;
+}
+
+.tree-folder {
+  font-weight: 600;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  user-select: none;
+  padding: 3px 6px;
+  border-radius: 2px;
+  color: var(--text-color);
+}
+
+.tree-folder:hover {
+  background-color: var(--sidebar-hover);
+}
+
+.tree-folder-contents {
+  list-style: none;
+  padding-left: 14px;
+  margin: 0;
+  border-left: 1px dashed var(--border-subtle);
+}
+
+.tree-folder-contents.is-collapsed {
+  display: none;
+}
+
+.tree-folder-contents.is-expanded {
+  display: block;
+}
+
+.tree-file-link {
+  display: block;
+  padding: 3px 6px;
+  color: var(--primary-color);
+  border-radius: 2px;
+  line-height: 1.4;
+}
+
+.tree-file-link:hover {
+  background-color: var(--sidebar-hover);
+  text-decoration: underline;
+}
+
+.tree-file-link.active {
+  font-weight: 700;
+  color: var(--heading-color);
+  background-color: var(--sidebar-active);
+  border-left: 3px solid var(--primary-color);
+}
+
+.is-hidden {
+  display: none !important;
+}
+
+/* Main Article Content */
+main {
+  flex: 1 1 0%;
+  min-width: 0;
+  padding: 28px 48px 60px 48px;
+  background-color: var(--content-bg);
+  overflow-x: hidden;
+  max-width: 1040px;
+}
+
+.article-header {
+  margin-bottom: 24px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.article-title {
+  font-family: 'Linux Libertine', 'Georgia', 'Times New Roman', serif;
+  font-size: 2rem;
+  font-weight: normal;
+  margin: 0 0 4px 0;
+  color: var(--heading-color);
+  line-height: 1.25;
+}
+
+.article-tagline {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  font-style: italic;
+  font-family: 'Linux Libertine', 'Georgia', serif;
+}
+
+/* Typography & Headings */
+.markdown-body {
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+}
+
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6,
+[id] {
+  scroll-margin-top: calc(var(--header-height) + 16px);
+}
+
+.markdown-body h1,
+.markdown-body h2 {
+  font-family: 'Linux Libertine', 'Georgia', 'Times New Roman', serif;
+  font-weight: normal;
+  color: var(--heading-color);
+  border-bottom: 1px solid var(--border-color);
+  padding-bottom: 4px;
+  margin-top: 1.8em;
+  margin-bottom: 0.5em;
+}
+
+.markdown-body h1 {
+  font-size: 1.65rem;
+}
+
+.markdown-body h2 {
+  font-size: 1.4rem;
+}
+
+.markdown-body h3 {
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: var(--heading-color);
+  margin-top: 1.4em;
+  margin-bottom: 0.4em;
+}
+
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6 {
+  font-size: 1rem;
+  font-weight: bold;
+  color: var(--heading-color);
+  margin-top: 1.2em;
+  margin-bottom: 0.3em;
+}
+
+.markdown-body p {
+  margin: 0.7em 0 0.9em 0;
+}
+
+.markdown-body ul,
+.markdown-body ol {
+  padding-left: 24px;
+  margin: 0.6em 0 0.9em 0;
+}
+
+.markdown-body li {
+  margin: 0.3em 0;
+}
+
+.markdown-body hr {
+  height: 1px;
+  background-color: var(--border-color);
+  border: none;
+  margin: 2em 0;
+}
+
+.markdown-body blockquote {
+  margin: 1em 0;
+  padding: 12px 18px;
+  background-color: var(--toc-bg);
+  border-left: 4px solid var(--primary-color);
+  border-top: 1px solid var(--border-subtle);
+  border-right: 1px solid var(--border-subtle);
+  border-bottom: 1px solid var(--border-subtle);
+  color: var(--text-muted);
+  border-radius: 2px;
+}
+
+.markdown-body code {
+  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  font-size: 0.88em;
+  background-color: var(--code-bg);
+  border: 1px solid var(--code-border);
+  padding: 2px 5px;
+  border-radius: 2px;
+  color: var(--code-text);
+}
+
+.markdown-body pre {
+  background-color: var(--code-bg);
+  border: 1px solid var(--code-border);
+  padding: 14px;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  max-width: 100%;
+  border-radius: 2px;
+  font-size: 0.88rem;
+  line-height: 1.45;
+}
+
+.markdown-body pre code {
+  background: transparent;
+  border: none;
+  padding: 0;
+  white-space: pre;
+  word-break: normal;
+  word-wrap: normal;
+}
+
+/* Figures and Images */
+.markdown-body img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1.5em auto;
+  border-radius: 2px;
+  border: 1px solid var(--border-subtle);
+  background-color: #ffffff;
+  box-sizing: border-box;
+}
+
+/* Wikipedia Table Style & Responsive Mobile Container */
+.table-responsive {
+  width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  margin: 1.2em 0;
+  border: 1px solid var(--border-color);
+  border-radius: 2px;
+  background-color: var(--toc-bg);
+}
+
+.markdown-body table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0;
+  font-size: 0.9rem;
+  background-color: transparent;
+  border: none;
+}
+
+.markdown-body > table {
+  display: block;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  border: 1px solid var(--border-color);
+  margin: 1.2em 0;
+}
+
+.markdown-body th,
+.markdown-body td {
+  border: 1px solid var(--border-color);
+  padding: 8px 12px;
+  text-align: left;
+  min-width: 120px;
+  white-space: normal;
+  word-break: normal;
+  line-height: 1.45;
+}
+
+.markdown-body th {
+  background-color: var(--sidebar-hover);
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.markdown-body tr:nth-child(even) {
+  background-color: var(--content-bg);
+}
+
+.markdown-body td:first-child,
+.markdown-body th:first-child {
+  min-width: 90px;
+}
+
+/* Sidebar Right (Table of Contents Box) */
+.sidebar-right {
+  width: 280px;
+  background-color: var(--sidebar-bg);
+  border-left: 1px solid var(--border-color);
+  padding: 20px 16px;
+  position: sticky;
+  top: var(--header-height);
+  height: calc(100vh - var(--header-height));
+  overflow-y: auto;
+  flex-shrink: 0;
+}
+
+.toc-card {
+  background-color: var(--toc-bg);
+  border: 1px solid var(--toc-border);
+  padding: 12px 14px;
+  border-radius: 2px;
+}
+
+.toc-title {
+  font-family: 'Linux Libertine', 'Georgia', serif;
+  font-weight: bold;
+  margin: 0 0 8px 0;
+  font-size: 0.95rem;
+  color: var(--heading-color);
+  text-align: center;
+  border-bottom: 1px solid var(--border-subtle);
+  padding-bottom: 4px;
+}
+
+.toc-link {
+  display: block;
+  font-size: 0.85rem;
+  color: var(--primary-color);
+  margin: 5px 0;
+  line-height: 1.35;
+}
+
+.toc-link[data-level="1"] { padding-left: 0px; font-weight: 500; }
+.toc-link[data-level="2"] { padding-left: 10px; }
+.toc-link[data-level="3"] { padding-left: 20px; font-size: 0.8rem; }
+.toc-link[data-level="4"] { padding-left: 30px; font-size: 0.8rem; }
+
+.toc-link:hover {
+  text-decoration: underline;
+}
+
+.toc-link.active {
+  font-weight: bold;
+  color: var(--heading-color);
+}
+
+/* KaTeX Math Adjustments */
+.katex-display {
+  margin: 1em 0 !important;
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding: 6px 0;
+}
+
+/* Feedback footer */
+.feedback-section {
+  margin-top: 48px;
+  padding-top: 16px;
+  border-top: 1px solid var(--border-color);
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  text-align: center;
+}
+
+/* Responsive */
+@media (max-width: 1080px) {
+  .sidebar-right {
+    display: none;
+  }
+  main {
+    max-width: 100%;
+    padding: 24px 32px;
+  }
+}
+
+@media (max-width: 960px) {
+  .header-subtitle {
+    display: none;
+  }
+}
+
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+  }
+  .sidebar-left {
+    width: 100%;
+    position: static;
+    height: auto;
+    max-height: 240px;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    border-right: none;
+    border-bottom: 1px solid var(--border-color);
+    padding: 12px 16px;
+  }
+  main {
+    padding: 20px 16px 40px 16px;
+    max-width: 100%;
+  }
+  header {
+    padding: 0 16px;
+  }
+  .header-subtitle {
+    display: none;
+  }
+  .table-responsive {
+    margin: 1em -16px;
+    width: calc(100% + 32px);
+    border-left: none;
+    border-right: none;
+    border-radius: 0;
+  }
+  .markdown-body table {
+    min-width: 520px;
+    font-size: 0.85rem;
+  }
+  .markdown-body th,
+  .markdown-body td {
+    padding: 7px 10px;
+  }
+}
+
+@media (max-width: 480px) {
+  header {
+    height: auto;
+    min-height: var(--header-height);
+    padding: 8px 12px;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .header-brand {
+    width: 100%;
+    justify-content: space-between;
+  }
+  .header-nav {
+    width: 100%;
+    justify-content: flex-start;
+    gap: 6px;
+    border-top: 1px solid var(--border-subtle);
+    padding-top: 4px;
+  }
+  .logo {
+    font-size: 1.15rem;
+  }
+  .header-tab {
+    padding: 3px 6px;
+    font-size: 0.78rem;
+  }
+  main {
+    padding: 16px 12px 36px 12px;
+  }
+  .table-responsive {
+    margin: 1em -12px;
+    width: calc(100% + 24px);
+  }
+}
+
+  </style>
+  <link rel="stylesheet" id="theme-stylesheet" href="/your_astronotes/assets/css/style.css?v=12" onerror="if(!this.dataset.retried){this.dataset.retried=1;this.href=(location.pathname.startsWith('/your_astronotes')?'/your_astronotes':'')+'/assets/css/style.css'}">
+  <script src="/your_astronotes/assets/js/site-data.js?v=12" onerror="if(!this.dataset.retried){this.dataset.retried=1;var s=document.createElement('script');s.src=(location.pathname.startsWith('/your_astronotes')?'/your_astronotes':'')+'/assets/js/site-data.js';document.head.appendChild(s);}"></script>
+  <script src="/your_astronotes/assets/js/app.js?v=12" onerror="if(!this.dataset.retried){this.dataset.retried=1;var s=document.createElement('script');s.src=(location.pathname.startsWith('/your_astronotes')?'/your_astronotes':'')+'/assets/js/app.js';document.head.appendChild(s);}"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+  <script>
+    function countSingleDollars(str) {
+      var s = str.replace(/\$\$/g, '');
+      var count = 0;
+      for (var i = 0; i < s.length; i++) {
+        if (s[i] === '$' && (i === 0 || s[i-1] !== '\\')) count++;
+      }
+      return count;
+    }
+
+    function sanitizeMathInDOM(root) {
+      if (!root) root = document.querySelector('.markdown-body') || document.body;
+      var selector = 'p, li, td, th, h1, h2, h3, h4, h5, h6, dd, dt, blockquote';
+      var nodes = root.querySelectorAll(selector);
+      nodes.forEach(function(el) {
+        if (el.querySelector('p, li, td, th, dd, dt, blockquote')) return;
+        var html = el.innerHTML;
+        if (html.indexOf('$') === -1) return;
+        if (html.indexOf('<em') === -1 && html.indexOf('<i') === -1) return;
+
+        var repaired = html.replace(/<(em|i)[^>]*>([\s\S]*?)<\/\1>/gi, function(emMatch, tag, innerText, offset, fullStr) {
+          if (/[\{\}\\\^\_\=\<\>]/.test(innerText)) return '_' + innerText + '_';
+          var charBefore = offset > 0 ? fullStr.charAt(offset - 1) : '';
+          var charAfter = (offset + emMatch.length < fullStr.length) ? fullStr.charAt(offset + emMatch.length) : '';
+          if (charBefore && !/\s/.test(charBefore) && /[\w\}\$\\]/.test(charBefore)) {
+            return '_' + innerText + '_';
+          }
+          if (charAfter && !/\s/.test(charAfter) && /[\{\$\\]/.test(charAfter)) {
+            return '_' + innerText + '_';
+          }
+          var dollarsBefore = countSingleDollars(fullStr.substring(0, offset));
+          if (dollarsBefore % 2 !== 0) {
+            return '_' + innerText + '_';
+          }
+          return emMatch;
+        });
+
+        if (repaired !== html) {
+          el.innerHTML = repaired;
+        }
+      });
+    }
+
+    function renderMathWithSanitizer() {
+      if (typeof renderMathInElement !== 'function') return;
+      try {
+        sanitizeMathInDOM();
+      } catch (err) {
+        console.warn('Math sanitization notice:', err);
+      }
+      renderMathInElement(document.body, {
+        delimiters: [
+          {left: '$$', right: '$$', display: true},
+          {left: '$', right: '$', display: false},
+          {left: '\\[', right: '\\]', display: true},
+          {left: '\\(', right: '\\)', display: false}
+        ],
+        throwOnError: false,
+        strict: false
+      });
+    }
+
+    window.addEventListener('DOMContentLoaded', function() {
+      if (typeof renderMathInElement === 'function') {
+        renderMathWithSanitizer();
+      } else {
+        var interval = setInterval(function() {
+          if (typeof renderMathInElement === 'function') {
+            clearInterval(interval);
+            renderMathWithSanitizer();
+          }
+        }, 50);
+        setTimeout(function() { clearInterval(interval); }, 5000);
+      }
+    });
+  </script>
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js" onload="renderMathWithSanitizer()"></script>
+</head>
+<body>
+
+  <header>
+    <div class="header-brand">
+      <a href="/your_astronotes/" class="logo">Your AstroNotes</a>
+      <span class="header-subtitle">from your BRAT astrophysicist for your astronotes</span>
+    </div>
+    <nav class="header-nav">
+      <a href="/your_astronotes/About.html" class="header-tab">About</a>
+      <a href="https://instagram.com/your.astrophysicist" target="_blank" rel="noopener noreferrer" class="header-tab">Instagram</a>
+      <a href="https://github.com/yourastrophysicist/your_astronotes" target="_blank" rel="noopener noreferrer" class="header-tab">GitHub</a>
+    </nav>
+  </header>
+
+  <div class="container">
+    <aside class="sidebar-left">
+      <div class="sidebar-heading">Search Vault</div>
+      <input type="text" id="tree-search" class="search-box" placeholder="Search pages, maps, notes...">
+      <div class="sidebar-heading">Navigation</div>
+      <div id="file-tree"><div style="font-size: 0.82rem; color: var(--text-muted); padding: 8px 4px;">Loading curriculum tree...</div></div>
+    </aside>
+
+    <main>
+      
+      <div class="article-header">
+        <h1 class="article-title">Astrophysics_Laboratory_2_MOC</h1>
+        <div class="article-tagline">from your BRAT astrophysicist for your astronotes</div>
+      </div>
+      
+      <div class="markdown-body">
+        <h1 id="astrophysics-laboratory-2--map-of-content">Astrophysics Laboratory 2 — Map of Content</h1>
+
+<blockquote>
+  <p><strong>Master Year 2 Semester 1</strong> | <strong>Università degli Studi di Padova</strong>
+<strong>Lecturers</strong>: Prof. Luca Malavolta (36h) &amp; Prof. Giampaolo Piotto (12h)
+<strong>Primary Laboratories</strong>: LabP104 (Edificio Ricci Curbastro) and Aula A (Ex Rizzato)
+<strong>Target Project</strong>: End-to-end exoplanet transit characterization combining TASTE ground-based differential photometry and space-based TESS observations
+<strong>Exam Status</strong>: <strong>Mandatory Winter Session Examination (Jan / Feb 2027)</strong>: Final scientific paper (A&amp;A template) + Oral Defense of data reduction choices, error propagation, and Bayesian MCMC modeling.</p>
+</blockquote>
+
+<hr />
+
+<p>The core thread of this laboratory course is empirical measurement and inference:
+\(\text{exoplanetary transit} \to \text{photons} \to \text{atmosphere / optics} \to \text{CCD detector} \to \text{ADU counts} \to \text{calibration pipeline} \to \text{differential light curve} \to \text{Bayesian MCMC inference} \to \text{planetary parameters}\)</p>
+
+<p>All lecture notes, observational concepts, data reduction scripts, and theoretical derivations are indexed below.</p>
+
+<hr />
+
+<h2 id="block-1--research-protocol-unix-workflow-and-scientific-standards">Block 1 — Research Protocol, Unix Workflow, and Scientific Standards</h2>
+
+<p>Foundations of scientific data handling, environment configuration, and A&amp;A publication guidelines.</p>
+
+<ul>
+  <li><a href="../02_Literature/Lectures/Astrophysics_Laboratory_2/Lesson%2000%20-%20Course%20Overview%20and%20Research%20Methodology.html">Lesson 00 - Course Overview and Research Methodology</a> — course architecture, timeline, oral examination format, and reproducible research standards</li>
+  <li><a href="../02_Literature/Lectures/Astrophysics_Laboratory_2/Lesson%2001%20-%20Linux%20Environment%20and%20Scientific%20Python%20Setup.html">Lesson 01 - Linux Environment and Scientific Python Setup</a> — Unix terminal, bash scripting, conda environment configuration, and Python scientific stack</li>
+  <li><a href="../03_Zettel/Activities/Astrophysics%20Lab%202%20Report%20Specifications%20and%20AA%20Format.html">Astrophysics Lab 2 Report Specifications and AA Format</a> — Astronomy &amp; Astrophysics manuscript guidelines, error budget documentation, code citation, and presentation standards</li>
+  <li><a href="../02_Literature/Lectures/Astrophysics_Laboratory_2/Laboratory%20Report%20Guidelines%20and%20Scientific%20Writing.html">Laboratory Report Guidelines and Scientific Writing</a> — structuring the final report, required figures, parameter tables, and discussion of systematics</li>
+</ul>
+
+<hr />
+
+<h2 id="block-2--detector-physics-and-ccd-operation">Block 2 — Detector Physics and CCD Operation</h2>
+
+<p>Physical processes governing charge generation, transfer, readout, and noise in astronomical detectors.</p>
+
+<ul>
+  <li><a href="../02_Literature/Lectures/Astrophysics_Laboratory_2/Piotto%2003%20-%20Semiconductor%20Physics%20and%20CCD%20Detector%20Fundamentals.html">Piotto 03 - Semiconductor Physics and CCD Detector Fundamentals</a> — silicon band structure, photoelectric absorption, MOS capacitors, 3-phase charge transfer, and CTE</li>
+  <li><a href="../02_Literature/Lectures/Astrophysics_Laboratory_2/Piotto%2004%20-%20CCD%20Photometry%20and%20Noise%20Characterization.html">Piotto 04 - CCD Photometry and Noise Characterization</a> — quantum efficiency, cooling mechanisms, ADC gain conversion, and the complete CCD equation</li>
+  <li><a href="../03_Zettel/Observations/CCD%20Readout%20Noise%20and%20Output%20Amplifier.html">CCD Readout Noise and Output Amplifier</a> — output FET electronics, correlated double sampling, reset noise, and $1/f$ noise</li>
+  <li><a href="../03_Zettel/Observations/CCD%20Dark%20Current%20and%20Thermal%20Generation.html">CCD Dark Current and Thermal Generation</a> — thermal charge generation, Arrhenius relation, and cryo/Peltier cooling</li>
+  <li><a href="../03_Zettel/Observations/Bias%20Frame%20and%20Electronic%20Offset.html">Bias Frame and Electronic Offset</a> — zero-exposure signal, baseline ADC offset, and fixed-pattern electronic structure</li>
+  <li><a href="../03_Zettel/Observations/Flat%20Field%20Frame%20and%20Pixel%20Response%20Non-Uniformity.html">Flat Field Frame and Pixel Response Non-Uniformity</a> — pixel sensitivity variations, dust rings, and optical vignetting</li>
+  <li><a href="../03_Zettel/Observations/Janesick%20Photon%20Transfer%20Method%20for%20Gain%20and%20Readout%20Noise.html">Janesick Photon Transfer Method for Gain and Readout Noise</a> — empirical gain ($e^-/\text{ADU}$) and read noise determination via variance-mean regression</li>
+  <li><a href="../03_Zettel/Observations/Full%20Well%20Capacity%20and%20Charge%20Saturation.html">Full Well Capacity and Charge Saturation</a> — potential well depth, blooming, and detector non-linearity regimes</li>
+  <li><a href="../03_Zettel/Observations/Quantum%20Efficiency%20in%20Astronomical%20Detectors.html">Quantum Efficiency in Astronomical Detectors</a> — front vs back-illuminated chips, anti-reflective coatings, and NIR fringing</li>
+</ul>
+
+<hr />
+
+<h2 id="block-3--ground-based-ccd-reduction-and-calibration-pipeline">Block 3 — Ground-Based CCD Reduction and Calibration Pipeline</h2>
+
+<p>Deterministic calibration steps converting raw ADU frames into calibrated photon counts with propagated error arrays.</p>
+
+<ul>
+  <li><a href="../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2001%20-%20Bias%20Analysis%20and%20Detector%20Calibration.html">Malavolta 01 - Bias Analysis and Detector Calibration</a> — FITS header structure, bias frame stacking, read noise evaluation, and spatial gradient analysis</li>
+  <li><a href="../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2002%20-%20Flat%20Field%20Analysis%20and%20Sensitivity%20Mapping.html">Malavolta 02 - Flat Field Analysis and Sensitivity Mapping</a> — master flat construction, normalization algorithms, shutter shading, and dome vs twilight flats</li>
+  <li><a href="../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2003%20-%20Science%20Frame%20Correction%20and%20Error%20Propagation.html">Malavolta 03 - Science Frame Correction and Error Propagation</a> — algebraic reduction equation, pixel-by-pixel variance tracking, bad pixel masks, and cosmic ray rejection</li>
+  <li><a href="../03_Zettel/Computational/Science%20Frame%20Calibration%20and%20Variance%20Propagation.html">Science Frame Calibration and Variance Propagation</a> — full error propagation formula tracking photon noise, RON, and master frame uncertainties</li>
+  <li><a href="../03_Zettel/Computational/Cosmic%20Ray%20Rejection%20via%20Laplacian%20Edge%20Detection.html">Cosmic Ray Rejection via Laplacian Edge Detection</a> — L.A. Cosmic and Astro-SCRAPPY algorithm for discriminating point sources from high-energy hits</li>
+  <li><a href="../03_Zettel/Computational/Barycentric%20Julian%20Date%20and%20Time%20System%20Conversions.html">Barycentric Julian Date and Time System Conversions</a> — UTC to $BJD_{\text{TDB}}$ time conversions via <code class="language-plaintext highlighter-rouge">jplephem</code> to eliminate Earth orbit light travel delay</li>
+  <li><a href="../03_Zettel/Activities/Laboratory%20Exercise%20-%20Bias%20Frame%20Calibration%20and%20RON%20Measurement.html">Laboratory Exercise - Bias Frame Calibration and RON Measurement</a> — processing the 30-frame bias test dataset to extract master bias and noise statistics</li>
+  <li><a href="../03_Zettel/Activities/Laboratory%20Exercise%20-%20Flat%20Field%20Processing%20and%20PRNU%20Mapping.html">Laboratory Exercise - Flat Field Processing and PRNU Mapping</a> — building master flat, evaluating vignetting profiles, and mapping pixel non-uniformity</li>
+  <li><a href="../03_Zettel/Activities/Laboratory%20Exercise%20-%20Science%20Frame%20Reduction%20and%20Error%20Tracking.html">Laboratory Exercise - Science Frame Reduction and Error Tracking</a> — executing the complete calibration sequence on raw scientific frames</li>
+</ul>
+
+<hr />
+
+<h2 id="block-4--aperture-psf-and-differential-photometry-pipelines">Block 4 — Aperture, PSF, and Differential Photometry Pipelines</h2>
+
+<p>Extracting stellar fluxes from calibrated science frames and correcting for atmospheric transmission variations.</p>
+
+<ul>
+  <li><a href="../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2004%20-%20Stellar%20Centroiding%20and%20Coordinate%20Tracking.html">Malavolta 04 - Stellar Centroiding and Coordinate Tracking</a> — star identification via SIMBAD, 1D/2D Gaussian fitting, center-of-mass moments, and drift tracking</li>
+  <li><a href="../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2005%20-%20Local%20Background%20Subtraction%20and%20Aperture%20Photometry.html">Malavolta 05 - Local Background Subtraction and Aperture Photometry</a> — circular apertures, sky annuli, sigma-clipped background estimation, and growth curves</li>
+  <li><a href="../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2006%20-%20Python%20Class%20Design%20for%20Photometry%20Pipelines.html">Malavolta 06 - Python Class Design for Photometry Pipelines</a> — object-oriented software engineering for modular, maintainable data reduction pipelines</li>
+  <li><a href="../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2007%20-%20Differential%20Photometry%20and%20Atmospheric%20Detrending.html">Malavolta 07 - Differential Photometry and Atmospheric Detrending</a> — atmospheric extinction, comparison star selection, artificial ensemble stars, and light curves</li>
+  <li><a href="../03_Zettel/Computational/Star%20Centroiding%20via%20Marginal%20Profiles%20and%202D%20Gaussian%20Fitting.html">Star Centroiding via Marginal Profiles and 2D Gaussian Fitting</a> — mathematical centroiding algorithms and sub-pixel coordinate tracking</li>
+  <li><a href="../03_Zettel/Observations/Aperture%20Photometry%20and%20Optimal%20Aperture%20Selection.html">Aperture Photometry and Optimal Aperture Selection</a> — aperture summation, local sky background subtraction, and SNR optimization</li>
+  <li><a href="../03_Zettel/Observations/Curve%20of%20Growth%20in%20Stellar%20Photometry.html">Curve of Growth in Stellar Photometry</a> — flux vs aperture radius curves to determine total stellar flux and aperture corrections</li>
+  <li><a href="../03_Zettel/Observations/Differential%20Photometry%20and%20Comparison%20Star%20Selection.html">Differential Photometry and Comparison Star Selection</a> — ensemble weighting algorithms to eliminate atmospheric transparency variations</li>
+  <li><a href="../03_Zettel/Observations/Airmass%20and%20Atmospheric%20Extinction%20Correction.html">Airmass and Atmospheric Extinction Correction</a> — Bouguer law, plane-parallel atmospheric extinction, and second-order color terms</li>
+  <li><a href="../03_Zettel/Computational/Python%20Class%20Architecture%20for%20Astronomical%20Pipelines.html">Python Class Architecture for Astronomical Pipelines</a> — design patterns for encapsulating data arrays, error maps, and photometric methods</li>
+  <li><a href="../03_Zettel/Activities/Laboratory%20Exercise%20-%20Star%20Centroiding%20and%20Aperture%20Photometry%20Pipeline.html">Laboratory Exercise - Star Centroiding and Aperture Photometry Pipeline</a> — measuring stellar centroids and extracting aperture fluxes across observing runs</li>
+  <li><a href="../03_Zettel/Activities/Laboratory%20Exercise%20-%20Ground-Based%20Differential%20Photometry%20with%20TASTE.html">Laboratory Exercise - Ground-Based Differential Photometry with TASTE</a> — constructing differential transit light curves for TASTE observational datasets</li>
+</ul>
+
+<hr />
+
+<h2 id="block-5--space-based-photometry-and-time-series-detrending">Block 5 — Space-Based Photometry and Time-Series Detrending</h2>
+
+<p>High-precision space photometry from TESS, target pixel files, and systematic detrending algorithms.</p>
+
+<ul>
+  <li><a href="../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2008%20-%20TESS%20Mission%20Architecture%20and%20Target%20Pixel%20Files.html">Malavolta 08 - TESS Mission Architecture and Target Pixel Files</a> — TESS orbital characteristics, cameras, sectors, MAST queries, and Target Pixel Files (TPF)</li>
+  <li><a href="../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2009%20-%20TESS%20Light%20Curve%20Processing%20and%20Systematic%20Correction.html">Malavolta 09 - TESS Light Curve Processing and Systematic Correction</a> — SAP vs PDCSAP flux, Cotrending Basis Vectors (CBVs), and quality flag filtering</li>
+  <li><a href="../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2010%20-%20Light%20Curve%20Filtering%20and%20Detrending%20Techniques.html">Malavolta 10 - Light Curve Filtering and Detrending Techniques</a> — stellar activity, cadence-based vs time-window filters, biweight, and transit masking</li>
+  <li><a href="../03_Zettel/Observations/TESS%20Target%20Pixel%20Files%20and%20Custom%20Aperture%20Masks.html">TESS Target Pixel Files and Custom Aperture Masks</a> — pixel data structures, World Coordinate System (WCS) overlay, and custom mask definitions</li>
+  <li><a href="../03_Zettel/Observations/TESS%20SAP%20vs%20PDCSAP%20Flux%20and%20Cotrending%20Basis%20Vectors.html">TESS SAP vs PDCSAP Flux and Cotrending Basis Vectors</a> — simple aperture extraction vs systematic trend removal using basis vectors</li>
+  <li><a href="../03_Zettel/Computational/Running%20Median%20and%20Biweight%20Light%20Curve%20Filters.html">Running Median and Biweight Light Curve Filters</a> — robust location estimators for time series flattening without edge degradation</li>
+  <li><a href="../03_Zettel/Computational/Savitzky-Golay%20Filtering%20for%20Stellar%20Time%20Series.html">Savitzky-Golay Filtering for Stellar Time Series</a> — local polynomial least-squares filtering and optimal window selection</li>
+  <li><a href="../03_Zettel/Computational/Gaussian%20Process%20Regression%20in%20Light%20Curve%20Detrending.html">Gaussian Process Regression in Light Curve Detrending</a> — non-parametric covariance modeling (Matérn, Quasi-Periodic, SHO kernels) for stellar activity</li>
+  <li><a href="../03_Zettel/Activities/Laboratory%20Exercise%20-%20TESS%20Target%20Pixel%20Extraction%20and%20Filtering.html">Laboratory Exercise - TESS Target Pixel Extraction and Filtering</a> — processing TESS TPFs, extracting light curves, and flattening out-of-transit trends</li>
+</ul>
+
+<hr />
+
+<h2 id="block-6--exoplanet-demographics-transit-geometry-and-physical-modeling">Block 6 — Exoplanet Demographics, Transit Geometry, and Physical Modeling</h2>
+
+<p>Physical mechanisms of planetary transits, limb darkening, and analytical light curve computation.</p>
+
+<ul>
+  <li><a href="../02_Literature/Lectures/Astrophysics_Laboratory_2/Piotto%2001%20-%20Exoplanet%20Detection%20and%20Demographics.html">Piotto 01 - Exoplanet Detection and Demographics</a> — detection methodologies, transit geometry, radial velocity complementarity, and planetary populations</li>
+  <li><a href="../02_Literature/Lectures/Astrophysics_Laboratory_2/Piotto%2002%20-%20Atmospheric%20Characterization%20and%20Transit%20Spectroscopy.html">Piotto 02 - Atmospheric Characterization and Transit Spectroscopy</a> — transmission spectroscopy, occultations, phase curves, and Rossiter-McLaughlin effect</li>
+  <li><a href="../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2011%20-%20Transit%20Geometry%20and%20Analytical%20Light%20Curve%20Modeling.html">Malavolta 11 - Transit Geometry and Analytical Light Curve Modeling</a> — transit parameters ($R_p/R_\star, a/R_\star, i, T_0, P$), Mandel &amp; Agol analytical models, and exposure smearing</li>
+  <li><a href="../03_Zettel/Theory/Exoplanet%20Transit%20Geometry%20and%20Impact%20Parameter.html">Exoplanet Transit Geometry and Impact Parameter</a> — geometric derivation of impact parameter $b$, inclination $i$, and orbit orientation</li>
+  <li><a href="../03_Zettel/Theory/Transit%20Depth%20and%20Ingress-Egress%20Timescales.html">Transit Depth and Ingress-Egress Timescales</a> — total transit duration $T_{14}$, ingress/egress duration $T_{12}$, and relation to physical parameters</li>
+  <li><a href="../03_Zettel/Theory/Stellar%20Limb%20Darkening%20Laws.html">Stellar Limb Darkening Laws</a> — linear, quadratic, square-root, and 4-parameter non-linear stellar intensity profiles</li>
+  <li><a href="../03_Zettel/Theory/Exposure%20Time%20Smearing%20in%20Transit%20Photometry.html">Exposure Time Smearing in Transit Photometry</a> — finite integration time effects, profile deformation, and Kipping numerical supersampling</li>
+  <li><a href="../03_Zettel/Computational/Transit%20Modeling%20with%20batman.html">Transit Modeling with batman</a> — Python implementation of the Mandel &amp; Agol model, parameter structures, and fast light curve generation</li>
+  <li><a href="../03_Zettel/Computational/Limb%20Darkening%20Computation%20with%20ldtk.html">Limb Darkening Computation with ldtk</a> — synthetic limb darkening calculation via PHOENIX stellar atmosphere grids and filter transmission profiles</li>
+</ul>
+
+<hr />
+
+<h2 id="block-7--bayesian-parameter-estimation-likelihood-functions-and-mcmc">Block 7 — Bayesian Parameter Estimation, Likelihood Functions, and MCMC</h2>
+
+<p>Statistical parameter inference, Markov Chain Monte Carlo sampling, and convergence diagnostics.</p>
+
+<ul>
+  <li><a href="../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2012%20-%20Transit%20Parameter%20Estimation%20and%20Likelihood%20Optimization.html">Malavolta 12 - Transit Parameter Estimation and Likelihood Optimization</a> — joint likelihood formulation, initial guess optimization, and error scaling</li>
+  <li><a href="../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2013%20-%20Bayesian%20Statistics%20and%20Markov%20Chain%20Monte%20Carlo%20Sampling.html">Malavolta 13 - Bayesian Statistics and Markov Chain Monte Carlo Sampling</a> — Bayes theorem, prior distributions, emcee affine-invariant sampling, and corner plots</li>
+  <li><a href="../03_Zettel/Theory/Bayesian%20Inference%20and%20Bayes%20Theorem%20in%20Astronomy.html">Bayesian Inference and Bayes Theorem in Astronomy</a> — posterior probability distribution, prior distributions, likelihood function, and Bayesian evidence</li>
+  <li><a href="../03_Zettel/Theory/Prior%20Probability%20Distributions%20in%20Exoplanet%20Fitting.html">Prior Probability Distributions in Exoplanet Fitting</a> — uninformative uniform, log-uniform (Jeffreys), and Gaussian informative priors</li>
+  <li><a href="../03_Zettel/Theory/Likelihood%20Function%20for%20Photometric%20Time%20Series.html">Likelihood Function for Photometric Time Series</a> — Gaussian likelihood, $\chi^2$ equivalence, and photometric jitter variance terms</li>
+  <li><a href="../03_Zettel/Theory/Metropolis-Hastings%20Algorithm.html">Metropolis-Hastings Algorithm</a> — proposal distributions, detailed balance, acceptance probability, and Markov chain progression</li>
+  <li><a href="../03_Zettel/Theory/Goodman-Weare%20Affine%20Invariant%20Ensemble%20Sampler.html">Goodman-Weare Affine Invariant Ensemble Sampler</a> — ensemble walker dynamics, stretch moves, affine invariance, and computational scaling</li>
+  <li><a href="../03_Zettel/Computational/Affine-Invariant%20Ensemble%20MCMC%20with%20emcee.html">Affine-Invariant Ensemble MCMC with emcee</a> — setting up walkers, log-probability definitions, and sampling execution</li>
+  <li><a href="../03_Zettel/Computational/MCMC%20Convergence%20Diagnostics%20and%20Autocorrelation%20Analysis.html">MCMC Convergence Diagnostics and Autocorrelation Analysis</a> — integrated autocorrelation time $\tau$, burn-in rejection, and Gelman-Rubin $\hat{R}$</li>
+  <li><a href="../03_Zettel/Computational/Marginalized%20Posterior%20Distributions%20and%20Corner%20Plots.html">Marginalized Posterior Distributions and Corner Plots</a> — 1D/2D posterior projections, credible intervals ($16\%, 50\%, 84\%$), and parameter degeneracies</li>
+  <li><a href="../03_Zettel/Activities/Laboratory%20Exercise%20-%20Joint%20Transit%20Modeling%20and%20MCMC%20Analysis.html">Laboratory Exercise - Joint Transit Modeling and MCMC Analysis</a> — simultaneous Bayesian fitting of TASTE ground-based and TESS space-based light curves</li>
+</ul>
+
+<hr />
+
+<h2 id="cross-course-connections">Cross-Course Connections</h2>
+
+<ul>
+  <li><a href="Exoplanetary_Astrophysics_MOC.html">Exoplanetary_Astrophysics_MOC</a> — planetary formation, migration, interior structure, and atmospheric dynamics</li>
+  <li><a href="Observational_Astrophysics_MOC.html">Observational_Astrophysics_MOC</a> — ground-based telescope instrumentation, atmospheric seeing, and optical systems</li>
+  <li><a href="Lab_High-Energy_MOC.html">Lab_High-Energy_MOC</a> — X-ray detectors, photon counting, Poisson statistics, and forward folding</li>
+  <li><a href="Astronomical_Spectroscopy_MOC.html">Astronomical_Spectroscopy_MOC</a> — stellar atmospheric parameters ($T_{\text{eff}}, \log g, [\text{Fe}/\text{H}]$) used to constrain limb darkening</li>
+  <li><a href="Mathematical_Numerical_Methods_MOC.html">Mathematical_Numerical_Methods_MOC</a> — $\chi^2$ minimization, Levenberg-Marquardt, spline interpolation, and Monte Carlo integration</li>
+</ul>
+
+<hr />
+
+<h2 id="master-figure-index-astrophysics-laboratory-2">Master Figure Index (Astrophysics Laboratory 2)</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Figure ID</th>
+      <th style="text-align: left">Visual Asset Name</th>
+      <th style="text-align: left">Slide / Concept Title</th>
+      <th style="text-align: left">Primary Zettel / Lecture Note Link</th>
+      <th style="text-align: left">Key Physical / Instrumental Principle</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left"><strong>LAB2-01</strong></td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">lab2_lightcurve_p01.png</code></td>
+      <td style="text-align: left">TESS Target Pixel File &amp; Aperture Mask</td>
+      <td style="text-align: left"><a href="../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2009%20-%20TESS%20Light%20Curve%20Processing%20and%20Systematic%20Correction.html">Malavolta 09 - TESS Light Curve Processing and Systematic Correction</a></td>
+      <td style="text-align: left">Pixel flux extraction, background subtraction, and crowding metric in 21” pixels</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><strong>LAB2-02</strong></td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">lab2_lightcurve_p02.png</code></td>
+      <td style="text-align: left">Raw SAP vs Detrended PDC-SAP Flux</td>
+      <td style="text-align: left"><a href="../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2009%20-%20TESS%20Light%20Curve%20Processing%20and%20Systematic%20Correction.html">Malavolta 09 - TESS Light Curve Processing and Systematic Correction</a></td>
+      <td style="text-align: left">Spacecraft systematic correction, momentum dumps, and thermal flare mitigation</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><strong>LAB2-03</strong></td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">lab2_filter_p01.png</code></td>
+      <td style="text-align: left">Spline Filtering &amp; Stellar Detrending</td>
+      <td style="text-align: left"><a href="../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2010%20-%20Light%20Curve%20Filtering%20and%20Detrending%20Techniques.html">Malavolta 10 - Light Curve Filtering and Detrending Techniques</a></td>
+      <td style="text-align: left">Low-frequency stellar variability removal via sigma-clipped iterative splines</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><strong>LAB2-04</strong></td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">lab2_filter_p03.png</code></td>
+      <td style="text-align: left">Gaussian Process Regression Filtering</td>
+      <td style="text-align: left"><a href="../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2010%20-%20Light%20Curve%20Filtering%20and%20Detrending%20Techniques.html">Malavolta 10 - Light Curve Filtering and Detrending Techniques</a></td>
+      <td style="text-align: left">Modeling correlated red noise using Matérn-3/2 and Quasi-Periodic kernels</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><strong>LAB2-05</strong></td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">lab2_transit_model_p01.png</code></td>
+      <td style="text-align: left">Transit Geometry &amp; Contact Points</td>
+      <td style="text-align: left"><a href="../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2011%20-%20Transit%20Geometry%20and%20Analytical%20Light%20Curve%20Modeling.html">Malavolta 11 - Transit Geometry and Analytical Light Curve Modeling</a></td>
+      <td style="text-align: left">Orbital inclination $i$, impact parameter $b$, and contact durations $T_{14}, T_{23}$</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><strong>LAB2-06</strong></td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">lab2_transit_model_p02.png</code></td>
+      <td style="text-align: left">Quadratic Stellar Limb Darkening</td>
+      <td style="text-align: left"><a href="../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2011%20-%20Transit%20Geometry%20and%20Analytical%20Light%20Curve%20Modeling.html">Malavolta 11 - Transit Geometry and Analytical Light Curve Modeling</a></td>
+      <td style="text-align: left">Center-to-limb intensity profile $I(\mu)/I(0) = 1 - u_1(1-\mu) - u_2(1-\mu)^2$</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><strong>LAB2-07</strong></td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">lab2_transit_model_p03.png</code></td>
+      <td style="text-align: left">Mandel &amp; Agol Analytical Evaluation</td>
+      <td style="text-align: left"><a href="../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2011%20-%20Transit%20Geometry%20and%20Analytical%20Light%20Curve%20Modeling.html">Malavolta 11 - Transit Geometry and Analytical Light Curve Modeling</a></td>
+      <td style="text-align: left">Exact flux occlusion via complete elliptic integrals of 1st, 2nd, and 3rd kind</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><strong>LAB2-08</strong></td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">lab2_transit_fit_p01.png</code></td>
+      <td style="text-align: left">Transit Optimization Landscape</td>
+      <td style="text-align: left"><a href="../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2012%20-%20Transit%20Parameter%20Estimation%20and%20Likelihood%20Optimization.html">Malavolta 12 - Transit Parameter Estimation and Likelihood Optimization</a></td>
+      <td style="text-align: left">Least-squares / Levenberg-Marquardt convergence on $\chi^2(R_p/R_<em>, a/R_</em>)$</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><strong>LAB2-09</strong></td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">lab2_transit_fit_p02.png</code></td>
+      <td style="text-align: left">Photometric Residuals &amp; Red Noise</td>
+      <td style="text-align: left"><a href="../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2012%20-%20Transit%20Parameter%20Estimation%20and%20Likelihood%20Optimization.html">Malavolta 12 - Transit Parameter Estimation and Likelihood Optimization</a></td>
+      <td style="text-align: left">Autocorrelation function and Durbin-Watson statistic verifying white noise</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><strong>LAB2-10</strong></td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">lab2_mcmc_p02.png</code></td>
+      <td style="text-align: left">MCMC Walker Trace Evolution</td>
+      <td style="text-align: left"><a href="../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2013%20-%20Bayesian%20Statistics%20and%20Markov%20Chain%20Monte%20Carlo%20Sampling.html">Malavolta 13 - Bayesian Statistics and Markov Chain Monte Carlo Sampling</a></td>
+      <td style="text-align: left">Affine-invariant ensemble sampler chain mixing and burn-in diagnosis</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><strong>LAB2-11</strong></td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">lab2_mcmc_p05.png</code></td>
+      <td style="text-align: left">Marginalized Posterior Corner Plot</td>
+      <td style="text-align: left"><a href="../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2013%20-%20Bayesian%20Statistics%20and%20Markov%20Chain%20Monte%20Carlo%20Sampling.html">Malavolta 13 - Bayesian Statistics and Markov Chain Monte Carlo Sampling</a></td>
+      <td style="text-align: left">1D/2D parameter covariances; characteristic degeneracy between $b$ and $a/R_*$</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><strong>LAB2-12</strong></td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">lab2_mcmc_p08.png</code></td>
+      <td style="text-align: left">Posterior Predictive Transit Fit</td>
+      <td style="text-align: left"><a href="../02_Literature/Lectures/Astrophysics_Laboratory_2/Malavolta%2013%20-%20Bayesian%20Statistics%20and%20Markov%20Chain%20Monte%20Carlo%20Sampling.html">Malavolta 13 - Bayesian Statistics and Markov Chain Monte Carlo Sampling</a></td>
+      <td style="text-align: left">68% and 95% model confidence envelopes overlaid on ground-based TASTE data</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h2 id="professors-luca-malavolta--giampaolo-piotto-oral-exam-defense-preparation-matrix">Professors Luca Malavolta &amp; Giampaolo Piotto Oral Exam Defense Preparation Matrix</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Exam Question</th>
+      <th style="text-align: left">Governing Equation(s)</th>
+      <th style="text-align: left">Blackboard Derivation Flow &amp; Strategy</th>
+      <th style="text-align: left">Professor Trap Points &amp; Pitfalls</th>
+      <th> </th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left"><strong>1. Contact Times, Transit Geometry, and Stellar Density Inversion</strong></td>
+      <td style="text-align: left">$b = \frac{a \cos i}{R_<em>} \frac{1-e^2}{1+e\sin\omega}$<br />$\rho_</em> = \frac{3\pi}{G P^2} \left(\frac{a}{R_*}\right)^3$</td>
+      <td style="text-align: left">1. Draw the projected star-planet disk geometry at 1st ($t_1$), 2nd ($t_2$), 3rd ($t_3$), and 4th ($t_4$) contact.<br />2. Derive total duration $T_{14} = \frac{P}{\pi} \arcsin\left[\frac{R_<em>}{a} \frac{\sqrt{(1+k)^2 - b^2}}{\sin i}\right]$ where $k = R_p/R_</em>$.<br />3. Derive flat bottom duration $T_{23} = \frac{P}{\pi} \arcsin\left[\frac{R_<em>}{a} \frac{\sqrt{(1-k)^2 - b^2}}{\sin i}\right]$.<br />4. Substitute Kepler’s third law $a^3 = \frac{G M_</em> P^2}{4\pi^2}$ into $(a/R_<em>)^3$ to prove that transit light curves directly measure mean stellar density $\rho_</em>$ independently of stellar models.</td>
+      <td style="text-align: left"><strong>Trap</strong>: Assuming circular orbits without caveat ($e \ne 0$ dramatically alters contact durations); claiming transit depth is exactly $(R_p/R_*)^2$ without correcting for limb darkening.</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><strong>2. Mandel &amp; Agol Analytic Formulation and Elliptic Integrals</strong></td>
+      <td style="text-align: left">$F(z, p) = 1 - \frac{1}{4\Omega} \int \int I(r) dA$<br />$I(\mu) = 1 - u_1(1-\mu) - u_2(1-\mu)^2$</td>
+      <td style="text-align: left">1. Define projected normalized separation $z = d/R_<em>$ and radius ratio $p = R_p/R_</em>$.<br />2. Divide parameter space into 3 regimes: out of transit ($z &gt; 1+p$), partial occultation ($</td>
+      <td style="text-align: left">1-p</td>
+      <td>&lt; z \le 1+p$), and complete immersion ($z \le 1-p$).<br />3. For uniform disk ($u_1 = u_2 = 0$), derive area of intersection using geometric circular segment formulas.<br />4. Introduce quadratic limb darkening and show how green’s theorem converts surface integral into line integrals evaluated with complete elliptic integrals $\mathcal{K}(k), \mathcal{E}(k), \Pi(n, k)$.<br />5. Explain exposure time smearing and the necessity of supersampling numerical integration.</td>
+      <td><strong>Trap</strong>: Failing to account for exposure time smearing in long-cadence observations (e.g. 30-minute Kepler / TESS FFIs), which artificially suppresses transit depth and smears ingress/egress slopes.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><strong>3. Correlated Red Noise and Gaussian Process Modeling</strong></td>
+      <td style="text-align: left">$K_{ij} = k(t_i, t_j) + \sigma_i^2 \delta_{ij}$<br />$\ln \mathcal{L} = -\frac{1}{2}\mathbf{r}^T K^{-1} \mathbf{r} - \frac{1}{2}\ln|K| - \frac{N}{2}\ln(2\pi)$</td>
+      <td style="text-align: left">1. Define white noise ($\sigma^2 \delta_{ij}$) vs correlated red noise (time-dependent covariance matrix $K_{ij}$).<br />2. Formulate the Matérn-3/2 kernel $k(\tau) = \sigma^2 (1 + \frac{\sqrt{3}\tau}{\rho})\exp(-\frac{\sqrt{3}\tau}{\rho})$ and Quasi-Periodic kernel.<br />3. Write the GP marginal log-likelihood and explain the inversion cost $\mathcal{O}(N^3)$ and $\mathcal{O}(N)$ acceleration via <code class="language-plaintext highlighter-rouge">celerite</code>.<br />4. Demonstrate how GP hyperparameters $(\sigma, \rho, P_{\mathrm{rot}})$ are simultaneously sampled with physical transit parameters to avoid absorbing the transit signal.</td>
+      <td style="text-align: left"><strong>Trap</strong>: Allowing GP flexibility to overfit and swallow the transit signal; selecting inappropriate prior bounds on the GP correlation length $\rho$.</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><strong>4. Affine-Invariant MCMC Sampling and Parameter Degeneracies</strong></td>
+      <td style="text-align: left">$\theta_j(t+1) = \theta_k(t) + Z [\theta_j(t) - \theta_k(t)]$<br />$g(z) \propto \frac{1}{\sqrt{z}}, z \in [1/a, a]$</td>
+      <td style="text-align: left">1. Explain why standard Metropolis-Hastings fails in high-dimensional anisotropic parameter spaces.<br />2. Derive the affine-invariance property: invariance under linear transformations $\theta’ = A \theta$, enabling efficient sampling of degenerate parameter valleys.<br />3. Detail the ensemble stretch move implemented in <code class="language-plaintext highlighter-rouge">emcee</code>.<br />4. Discuss the physical degeneracy between impact parameter $b$ and scaled semi-major axis $a/R_*$ (or inclination $i$).<br />5. State convergence criteria: integrated autocorrelation time $\tau_f$ and requirement $N_{\mathrm{steps}} &gt; 50 \tau_f$.</td>
+      <td style="text-align: left"><strong>Trap</strong>: Stopping MCMC before chains have mixed ($N_{\mathrm{steps}} &lt; 10 \tau$); failing to discard the burn-in phase; treating correlated posterior samples as independent points.</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h2 id="essential-formulas-quick-sheet-astrophysics-lab-2">Essential Formulas Quick Sheet (Astrophysics Lab 2)</h2>
+
+<ul>
+  <li><strong>Impact Parameter</strong>: $b = \frac{a \cos i}{R_*} \left(\frac{1-e^2}{1+e\sin\omega}\right)$</li>
+  <li><strong>Transit Depth (approximate)</strong>: $\Delta F \approx \left(\frac{R_p}{R_*}\right)^2$</li>
+  <li><strong>Total Duration</strong>: $T_{14} \approx \frac{P}{\pi} \frac{R_<em>}{a} \sqrt{(1 + R_p/R_</em>)^2 - b^2} \frac{1}{\sin i}$</li>
+  <li><strong>Stellar Density</strong>: $\rho_* = \frac{3\pi}{G P^2} \left(\frac{a}{R_*}\right)^3$</li>
+  <li><strong>Quadratic Limb Darkening</strong>: $\frac{I(\mu)}{I(1)} = 1 - u_1(1-\mu) - u_2(1-\mu)^2$ with $\mu = \cos\theta$</li>
+  <li><strong>Autocorrelation Time Convergence</strong>: $N_{\mathrm{samples}} \ge 50 \tau_{\mathrm{int}}$</li>
+</ul>
+
+      </div>
+
+      <div class="feedback-section">
+        <p>Follow along on Instagram <a href="https://instagram.com/your.astrophysicist" target="_blank" style="color: var(--primary-color); font-weight: 600;">@your.astrophysicist</a> &middot; <a href="https://github.com/yourastrophysicist/your_astronotes/issues/new?title=Feedback+on+Astrophysics_Laboratory_2_MOC&body=Source+file:+04_Atlas%2FAstrophysics_Laboratory_2_MOC.md" target="_blank" style="color: var(--primary-color); font-weight: 600; display: inline-flex; align-items: center; gap: 6px;">
+          <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor" style="display:inline-block; vertical-align:middle;"><path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"></path></svg>
+          Report an issue
+        </a></p>
+      </div>
+    </main>
+
+    <aside class="sidebar-right">
+      <div class="graph-card" style="margin-bottom: 18px;">
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 6px;">
+          <h3 class="toc-title" style="margin: 0;">Interactive Graph</h3>
+          <div class="graph-controls" style="display: flex; gap: 4px;">
+            <button id="graph-zoom-in" type="button" title="Zoom In" style="background: var(--toc-bg, #f8f9fa); border: 1px solid var(--toc-border, #a2a9b1); border-radius: 2px; width: 22px; height: 20px; font-size: 12px; cursor: pointer; display: flex; align-items: center; justify-content: center; padding: 0; color: var(--text-color, #202122);">+</button>
+            <button id="graph-zoom-out" type="button" title="Zoom Out" style="background: var(--toc-bg, #f8f9fa); border: 1px solid var(--toc-border, #a2a9b1); border-radius: 2px; width: 22px; height: 20px; font-size: 12px; cursor: pointer; display: flex; align-items: center; justify-content: center; padding: 0; color: var(--text-color, #202122);">&minus;</button>
+            <button id="graph-reset" type="button" title="Reset View" style="background: var(--toc-bg, #f8f9fa); border: 1px solid var(--toc-border, #a2a9b1); border-radius: 2px; width: 22px; height: 20px; font-size: 11px; cursor: pointer; display: flex; align-items: center; justify-content: center; padding: 0; color: var(--text-color, #202122);">&#8634;</button>
+          </div>
+        </div>
+        <div id="graph-container" style="width: 100%; height: 230px; position: relative; background: var(--toc-bg); border: 1px solid var(--toc-border); border-radius: 2px; overflow: hidden;">
+          <canvas id="graph-canvas" width="246" height="228" style="display: block; width: 100%; height: 100%; cursor: grab;"></canvas>
+          <div id="graph-tooltip" style="display: none; position: absolute; background: #202122; color: #fff; padding: 4px 8px; border-radius: 3px; font-size: 0.75rem; pointer-events: none; z-index: 10; white-space: nowrap; max-width: 200px; overflow: hidden; text-overflow: ellipsis; box-shadow: 0 2px 6px rgba(0,0,0,0.25);"></div>
+        </div>
+        <div style="font-size: 0.72rem; color: var(--text-muted); margin-top: 5px; text-align: center; display: flex; justify-content: space-around;">
+          <span>Scroll to Zoom</span>
+          <span>&middot;</span>
+          <span>Drag to Pan</span>
+          <span>&middot;</span>
+          <span>Click Node</span>
+        </div>
+      </div>
+      <div class="toc-card">
+        <h3 class="toc-title">Contents</h3>
+        <div id="toc-content"></div>
+      </div>
+    </aside>
+  </div>
+
+</body>
+</html>
+
