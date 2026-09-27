@@ -2,6 +2,7 @@
 layout: "default"
 title: "Supernovae and compact remnants"
 ---
+{% raw %}
 when a star exhausts all viable thermonuclear fuel, gravity prevails uncontested. depending on the progenitor's zero-age main-sequence mass and core composition, the star undergoes catastrophic explosive death, leaving behind one of three types of **compact remnants**: a **white dwarf**, a **neutron star**, or a **black hole**.
 
 ![stellar-81.png](../../assets/images/stellar-81.png)
@@ -79,16 +80,16 @@ astronomers classify supernovae observationally based on spectral features near 
 - [[Stellar nucleosynthesis]]
 - [[Type Ia supernovae as standard candles]]
 - [[Galactic Center]]
+{% endraw %}
 
-
-
-## Linked References
-
-- [[Binary star evolution and mass transfer]]
-- [[Galactic Center]]
-- [[Solar evolution and final stages]]
-- [[Stellar nucleosynthesis]]
-- [[Type Ia supernovae as standard candles]]
-- [[Fundamentals_Astrophysics_Cosmology_MOC]]
-
-
+<div class="backlinks-section">
+  <h4 class="backlinks-title">Linked References (6)</h4>
+  <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="./Binary%20star%20evolution%20and%20mass%20transfer.html" class="backlink-item">Binary star evolution and mass transfer</a></li>
+    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
+    <li class="backlink-item-wrap"><a href="./Galactic%20Center.html" class="backlink-item">Galactic Center</a></li>
+    <li class="backlink-item-wrap"><a href="./Solar%20evolution%20and%20final%20stages.html" class="backlink-item">Solar evolution and final stages</a></li>
+    <li class="backlink-item-wrap"><a href="./Stellar%20nucleosynthesis.html" class="backlink-item">Stellar nucleosynthesis</a></li>
+    <li class="backlink-item-wrap"><a href="./Type%20Ia%20supernovae%20as%20standard%20candles.html" class="backlink-item">Type Ia supernovae as standard candles</a></li>
+  </ul>
+</div>
