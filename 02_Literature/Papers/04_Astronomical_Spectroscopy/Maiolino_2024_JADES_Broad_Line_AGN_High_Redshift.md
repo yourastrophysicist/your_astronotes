@@ -55,6 +55,6 @@ several JADES sources show $M_\bullet/M_\star$ ratios $1$–$2$ orders of magnit
 ---
 
 ## Vault Cross-References
-- Core Theory: [[SMBH Reverberation Mapping]], [[AGN and supermassive black holes]]
+- Core Theory: [[Reverberation mapping|SMBH Reverberation Mapping]], [[AGN and supermassive black holes]]
 - Related: [[Stellar population synthesis]], [[Age dating from the WD luminosity function]]
 - Map of Content: [[Astronomical_Spectroscopy_MOC]], [[Astrophysics_of_Galaxies_MOC]], [[Observational_Cosmology_MOC]]

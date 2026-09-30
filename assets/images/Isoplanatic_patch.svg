@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46+devel"
+   width="256"
+   height="220"
+   version="1.0"
+   sodipodi:docname="Atmos_struct_imaging.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <sodipodi:namedview
+     inkscape:window-height="744"
+     inkscape:window-width="1272"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false"
+     inkscape:zoom="2.0184684"
+     inkscape:cx="82.341713"
+     inkscape:cy="117.00637"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata24">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs22">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3020"
+       is_visible="true" />
+    <inkscape:perspective
+       id="perspective26"
+       inkscape:persp3d-origin="128 : 73.333333 : 1"
+       inkscape:vp_z="256 : 110 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 110 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <path
+     sodipodi:nodetypes="cssssssssssssssssssssssssssssssss"
+     style="color:#000000;fill:none;stroke:#c0c0c0;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     d="m 0.84574357,134.26278 c 3.15197303,-0.43996 6.22382843,-5.18061 9.17751343,-6.17946 2.953685,-0.99886 5.7892,1.65721 8.468493,0.45609 2.679293,-1.20113 5.202363,-2.74989 7.531159,-3.79666 2.328795,-1.04677 4.463316,-3.52613 6.365509,-4.06192 1.251496,-0.35251 2.404814,0.37662 3.698732,1.17737 1.293919,0.80079 2.728439,-0.2542 4.542339,1.12297 1.8139,1.37718 4.007179,6.43481 6.818618,7.81146 2.811438,1.37665 6.241036,-0.70976 10.527571,0.0895 0.950141,0.17715 1.918479,3.06965 2.981646,2.54747 1.063168,-0.52218 2.221164,-0.92232 3.550622,-1.74373 1.329458,-0.82142 2.830378,-3.02339 4.579392,-3.74392 1.749014,-0.72053 3.746122,-0.0225 6.067957,-0.24205 6.551823,-0.61947 11.079661,-1.72452 14.705261,-0.95101 3.6256,0.77351 6.348962,3.15394 9.291832,4.33582 2.942872,1.18189 6.105262,-0.30712 10.608892,0.29852 4.50364,0.60565 10.34854,2.92583 18.65644,1.97062 2.60967,-0.30005 5.37765,-0.20848 8.27634,-1.13303 2.89868,-0.92455 5.92806,-5.91286 9.06053,-6.83025 3.13247,-0.91739 6.36802,-1.68085 9.67904,-1.95942 3.31102,-0.27857 6.69751,2.27019 10.13186,3.26209 2.33836,0.67537 5.09376,-0.7206 8.02425,-0.21661 2.93049,0.50399 6.03607,2.96131 9.07481,3.28703 3.03873,0.32572 6.0106,-1.65664 8.67368,-1.51608 2.66308,0.14056 5.01735,0.29882 6.82088,0.24732 0,0 1.07781,3.66025 2.80846,3.67505 1.73064,0.0149 4.11412,0.0548 6.72545,0.0316 2.61133,-0.0231 5.45051,-0.16069 8.09258,-0.2747 2.64206,-0.11402 5.087,-0.46393 6.90983,-0.72174 2.49967,-0.35353 5.7866,-4.1652 9.31094,-5.01971 3.52434,-0.8545 7.28608,-0.40299 10.73537,-1.36556 3.44928,-0.96258 6.58611,-0.008 8.86062,-0.68532 2.27451,-0.67773 3.68669,-1.45621 3.68669,-1.45621"
+     id="use2682" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#use2682"
+     id="use3800"
+     transform="translate(0,14)"
+     width="256"
+     height="220"
+     style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke:#c0c0c0;stroke-opacity:1" />
+  <use
+     height="220"
+     width="256"
+     transform="translate(0,26)"
+     id="use3802"
+     xlink:href="#use2682"
+     y="0"
+     x="0"
+     style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke:#c0c0c0;stroke-opacity:1" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#use2682"
+     id="use3804"
+     transform="translate(0,38)"
+     width="256"
+     height="220"
+     style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke:#c0c0c0;stroke-opacity:1" />
+  <use
+     height="220"
+     width="256"
+     transform="translate(0,50)"
+     id="use3806"
+     xlink:href="#use2682"
+     y="0"
+     x="0"
+     style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke:#c0c0c0;stroke-opacity:1" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#use2682"
+     id="use3808"
+     transform="translate(0,62)"
+     width="256"
+     height="220"
+     style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke:#c0c0c0;stroke-opacity:1" />
+  <use
+     height="220"
+     width="256"
+     transform="translate(0,74)"
+     id="use3810"
+     xlink:href="#use2682"
+     y="0"
+     x="0"
+     style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke:#c0c0c0;stroke-opacity:1" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#use2682"
+     id="use3812"
+     transform="translate(0,88)"
+     width="256"
+     height="220"
+     style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke:#c0c0c0;stroke-opacity:1" />
+  <use
+     height="220"
+     width="256"
+     transform="translate(0,38)"
+     id="use3814"
+     xlink:href="#path2656"
+     y="0"
+     x="0"
+     style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke:#c0c0c0;stroke-opacity:1" />
+  <text
+     id="text2640"
+     y="16.435169"
+     x="13.767822"
+     style="font-size:15px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+     xml:space="preserve"><tspan
+       y="16.435169"
+       x="13.767822"
+       id="tspan2642"
+       sodipodi:role="line">Plane waves from distant point source</tspan></text>
+  <path
+     style="color:#000000;fill:#c0ffff;fill-opacity:1;stroke:#c0c0c0;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     d="m 33.063697,56.926752 c 11.0142,0.618815 26.635382,7.588209 39.936305,6.130573 13.300923,-1.457636 18.321642,-1.90335 25.573248,-2.802548 7.25161,-0.899198 15.14049,-3.857193 22.7707,-3.152866 7.63021,0.704327 16.60119,0.881623 22.7707,2.101911 6.16951,1.220288 11.9832,4.377312 18.21656,5.605095 6.23336,1.227783 16.0372,4.33819 23.12102,4.55414 7.08382,0.21595 15.98239,-0.656548 23.47134,-3.152866 7.48895,-2.496318 10.5111,-3.712849 15.76433,-5.254777 5.25323,-1.541928 12.66586,-5.486959 19.26752,-4.904459 l 11.91082,1.050956 0,72.165609 c 0,0 -10.61698,-1.39117 -18.21656,-0.35032 -7.59958,1.04085 -20.62536,8.23006 -31.52866,9.4586 -10.9033,1.22854 -16.96723,3.316 -24.87261,2.80254 -7.90538,-0.51346 -18.0468,-4.19323 -26.97452,-6.65605 -8.92772,-2.46282 -15.31083,-4.92705 -20.31847,-5.60509 -5.00764,-0.67804 -8.432,-0.45184 -12.61147,0 -4.17947,0.45184 -19.30423,1.87288 -25.923566,2.80255 -6.619335,0.92967 -12.05883,3.39434 -18.21656,3.15286 -6.15773,-0.24148 -11.94201,0.13516 -17.866242,-0.70064 -5.924232,-0.8358 -14.042798,-4.89737 -21.369427,-5.25477 -7.326629,-0.3574 -8.68182,-0.68929 -14.363057,-0.70064 -5.681237,-0.0113 -23.471338,1.05096 -23.471338,1.05096 l 0,-72.416967 c 11.08777,-0.66872 21.915736,-0.542616 32.929937,0.0762 z"
+     id="path3018"
+     inkscape:path-effect=""
+     sodipodi:nodetypes="czzzzzzzzzcczzzzzzzzzzzccz" />
+  <text
+     id="text2644"
+     y="94.053642"
+     x="127.73267"
+     style="font-size:15px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+     xml:space="preserve"><tspan
+       y="94.053642"
+       x="127.73267"
+       id="tspan2646"
+       sodipodi:role="line">Turbulent layer</tspan><tspan
+       dy="-2.9725509"
+       id="tspan2648"
+       y="112.80364"
+       x="127.73267"
+       sodipodi:role="line">in atmosphere</tspan></text>
+  <path
+     id="path2656"
+     d="m 0.49542513,26.288773 255.14394487,0"
+     style="color:#000000;fill:none;stroke:#c0c0c0;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  <use
+     height="220"
+     width="256"
+     transform="translate(0,12)"
+     id="use2658"
+     xlink:href="#path2656"
+     y="0"
+     x="0"
+     style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke:#c0c0c0;stroke-opacity:1" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#path2656"
+     id="use2664"
+     transform="translate(0,24)"
+     width="256"
+     height="220"
+     style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke:#c0c0c0;stroke-opacity:1" />
+  <rect
+     style="fill:#ffffff;fill-opacity:0.75294119;fill-rule:evenodd;stroke:none"
+     id="rect3798"
+     width="73.322922"
+     height="35.175186"
+     x="96.607903"
+     y="158.07185" />
+  <text
+     id="text2650"
+     y="172.38028"
+     x="133.48177"
+     style="font-size:15px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+     xml:space="preserve"><tspan
+       y="172.38028"
+       x="133.48177"
+       id="tspan2652"
+       sodipodi:role="line">Perturbed</tspan><tspan
+       dy="-1.9817005"
+       id="tspan2654"
+       y="191.13028"
+       x="133.48177"
+       sodipodi:role="line">wavefronts</tspan></text>
+</svg>

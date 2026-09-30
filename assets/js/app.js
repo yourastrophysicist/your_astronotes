@@ -1,12 +1,27 @@
 document.addEventListener('DOMContentLoaded', () => {
+  // --- 0. Mobile "Browse notes" toggle ---
+  const sidebarToggle = document.querySelector('.sidebar-toggle');
+  if (sidebarToggle) {
+    sidebarToggle.addEventListener('click', () => {
+      const open = sidebarToggle.getAttribute('aria-expanded') !== 'true';
+      sidebarToggle.setAttribute('aria-expanded', String(open));
+      document.body.classList.toggle('sidebar-open', open);
+    });
+  }
+
   // --- 1. Dynamic File Tree Explorer ---
   const treeContainer = document.getElementById('file-tree');
   const searchInput = document.getElementById('tree-search');
 
   const pagesList = window.sitePages || (typeof sitePages !== 'undefined' && Array.isArray(sitePages) ? sitePages : []);
 
+  // Folder names with spaces or non-ASCII characters are percent-encoded in URLs
+  function decodePath(p) {
+    try { return decodeURIComponent(p); } catch (err) { return p; }
+  }
+
   if (treeContainer && pagesList.length > 0) {
-    const currentUrl = window.location.pathname;
+    const currentUrl = decodePath(window.location.pathname);
 
     function buildTree(pages) {
       const root = { folders: {}, files: [] };
@@ -56,15 +71,24 @@ document.addEventListener('DOMContentLoaded', () => {
 
         const folderDiv = document.createElement('div');
         folderDiv.className = 'tree-folder';
+        folderDiv.setAttribute('role', 'button');
+        folderDiv.setAttribute('tabindex', '0');
         folderDiv.appendChild(createFolderIcon());
         folderDiv.appendChild(document.createTextNode(' ' + folderName));
 
         const subContainer = document.createElement('ul');
         subContainer.className = 'tree-folder-contents is-collapsed'; // Collapsed by default
 
-        folderDiv.addEventListener('click', () => {
+        const toggleFolder = () => {
           subContainer.classList.toggle('is-collapsed');
           subContainer.classList.toggle('is-expanded');
+        };
+        folderDiv.addEventListener('click', toggleFolder);
+        folderDiv.addEventListener('keydown', (e) => {
+          if (e.key === 'Enter' || e.key === ' ') {
+            e.preventDefault();
+            toggleFolder();
+          }
         });
 
         li.appendChild(folderDiv);
@@ -98,17 +122,11 @@ document.addEventListener('DOMContentLoaded', () => {
         a.textContent = page.title;
 
         // Active link highlight
-        const normalizedCurrent = currentUrl.replace(/\/index\.html$/, '').replace(/\/$/, '');
-        const normalizedPage = page.url.replace(/\/index\.html$/, '').replace(/\/$/, '');
+        const normalizedCurrent = currentUrl.replace(/\/index\.html$/, '').replace(/(\.html)?\/?$/, '');
+        const normalizedPage = decodePath(page.url).replace(/\/index\.html$/, '').replace(/(\.html)?\/?$/, '');
         if (normalizedCurrent === normalizedPage) {
           a.classList.add('active');
-          // Bubble expand parents
-          let parent = li.parentElement;
-          while (parent && parent.classList.contains('tree-folder-contents')) {
-            parent.classList.remove('is-collapsed');
-            parent.classList.add('is-expanded');
-            parent = parent.parentElement ? parent.parentElement.parentElement : null;
-          }
+          a.setAttribute('aria-current', 'page');
         }
 
         li.appendChild(a);
@@ -121,6 +139,23 @@ document.addEventListener('DOMContentLoaded', () => {
     const treeData = buildTree(pagesList);
     treeContainer.innerHTML = '';
     renderTree(treeData, treeContainer);
+
+    // Expand every folder above the current page and bring it into view
+    const activeLink = treeContainer.querySelector('.tree-file-link.active');
+    if (activeLink) {
+      let folder = activeLink.closest('.tree-folder-contents');
+      while (folder) {
+        folder.classList.remove('is-collapsed');
+        folder.classList.add('is-expanded');
+        folder = folder.parentElement ? folder.parentElement.closest('.tree-folder-contents') : null;
+      }
+      // Scroll only the sidebar, never the page
+      const sidebar = treeContainer.closest('.sidebar-left');
+      if (sidebar) {
+        const offset = activeLink.getBoundingClientRect().top - sidebar.getBoundingClientRect().top;
+        sidebar.scrollTop += offset - sidebar.clientHeight / 2;
+      }
+    }
 
     // Search Filtering
     if (searchInput) {
@@ -332,7 +367,15 @@ document.addEventListener('DOMContentLoaded', () => {
       nodesToReplace.push(walker.currentNode);
     }
 
-    const wikiRegex = /\[\[([^\]|#]+)(?:#([^\]|]+))?(?:\|([^\]]+))?\]\]/g;
+    const wikiRegex = /\[\[([^\]|#]*)(?:#([^\]|]+))?(?:\|([^\]]+))?\]\]/g;
+
+    // Matches the heading ids kramdown generates
+    function slugifyHeading(h) {
+      return h.toLowerCase()
+        .replace(/[^\p{L}\p{N}\s_-]/gu, '')
+        .trim()
+        .replace(/\s+/g, '-');
+    }
 
     nodesToReplace.forEach(textNode => {
       const text = textNode.nodeValue;
@@ -344,27 +387,33 @@ document.addEventListener('DOMContentLoaded', () => {
       let match;
 
       while ((match = wikiRegex.exec(text)) !== null) {
-        const fullMatch = match[0];
-        const target = match[1].trim();
-        const anchor = match[2] ? '#' + encodeURIComponent(match[2].trim()) : '';
-        const displayText = match[3] ? match[3].trim() : target;
+        // "\|" is how Obsidian escapes the alias pipe inside tables
+        const target = match[1].replace(/\\$/, '').trim();
+        const heading = match[2] ? match[2].replace(/\\$/, '').trim() : '';
+        const anchor = heading ? '#' + slugifyHeading(heading) : '';
+        const noteName = target.split('/').pop().replace(/\.md$/i, '');
+        const displayText = match[3] ? match[3].trim() : (heading && !target ? heading : noteName);
 
         if (match.index > lastIdx) {
           frag.appendChild(document.createTextNode(text.substring(lastIdx, match.index)));
         }
 
-        const key = target.toLowerCase();
-        const resolvedUrl = pageByTitle.get(key) || pageByBasename.get(key);
+        // [[folder/Note]] and [[Note.md]] resolve by file name, as in Obsidian
+        const key = target.split('/').pop().replace(/\.md$/i, '').trim().toLowerCase();
+        const resolvedUrl = target
+          ? pageByTitle.get(target.toLowerCase()) || pageByBasename.get(key) || pageByTitle.get(key)
+          : '';
 
-        if (resolvedUrl) {
+        if (resolvedUrl || (!target && anchor)) {
           const a = document.createElement('a');
-          a.href = resolvedUrl + anchor;
+          a.href = (resolvedUrl || '') + anchor;
           a.className = 'internal-link';
           a.textContent = displayText;
           frag.appendChild(a);
         } else {
           const span = document.createElement('span');
           span.className = 'internal-link-unresolved';
+          span.title = 'This note is not published';
           span.textContent = displayText;
           frag.appendChild(span);
         }
@@ -404,6 +453,18 @@ document.addEventListener('DOMContentLoaded', () => {
     canvas.style.height = height + 'px';
     ctx.scale(dpr, dpr);
 
+    // Canvas cannot read CSS variables, so resolve the theme once
+    const css = getComputedStyle(document.documentElement);
+    const cssVar = (name, fallback) => (css.getPropertyValue(name) || '').trim() || fallback;
+    const theme = {
+      accent: cssVar('--primary-color', '#3366cc'),
+      accentStrong: cssVar('--primary-hover', '#2a4b8d'),
+      text: cssVar('--text-color', '#202122'),
+      muted: cssVar('--text-muted', '#54595d'),
+      border: cssVar('--border-color', '#a2a9b1'),
+      surface: cssVar('--content-bg', '#ffffff')
+    };
+
     // Build local graph nodes from current page and outgoing links
     const currentPath = window.location.pathname;
     const currentH1 = document.querySelector('h1');
@@ -426,7 +487,7 @@ document.addEventListener('DOMContentLoaded', () => {
       radius: 6.5,
       isCenter: true,
       degree: 0,
-      color: '#3366cc'
+      color: theme.accent
     };
     nodes.push(centerNode);
     nodeByUrl.set(currentPath, centerNode);
@@ -457,7 +518,7 @@ document.addEventListener('DOMContentLoaded', () => {
           radius: 4.5,
           isCenter: false,
           degree: 1,
-          color: '#54595d'
+          color: theme.muted
         };
         nodes.push(node);
         nodeByUrl.set(normPath, node);
@@ -489,7 +550,7 @@ document.addEventListener('DOMContentLoaded', () => {
             radius: 4,
             isCenter: false,
             degree: 1,
-            color: '#72777d'
+            color: theme.muted
           };
           nodes.push(node);
           nodeByUrl.set(normUrl, node);
@@ -569,12 +630,14 @@ document.addEventListener('DOMContentLoaded', () => {
 
         if (isHoverEdge) {
           ctx.lineWidth = 2 * transform.k;
-          ctx.strokeStyle = '#3366cc';
+          ctx.strokeStyle = theme.accent;
         } else {
           ctx.lineWidth = 1 * transform.k;
-          ctx.strokeStyle = hoveredNode ? 'rgba(200, 204, 209, 0.3)' : '#c8ccd1';
+          ctx.strokeStyle = theme.border;
+          ctx.globalAlpha = hoveredNode ? 0.3 : 0.7;
         }
         ctx.stroke();
+        ctx.globalAlpha = 1;
       });
 
       // 2. Draw Nodes
@@ -589,31 +652,33 @@ document.addEventListener('DOMContentLoaded', () => {
         ctx.arc(p.x, p.y, r, 0, Math.PI * 2);
 
         if (dimmed) {
-          ctx.fillStyle = 'rgba(162, 169, 177, 0.25)';
+          ctx.fillStyle = theme.border;
+          ctx.globalAlpha = 0.25;
           ctx.fill();
+          ctx.globalAlpha = 1;
         } else if (isHover) {
-          ctx.fillStyle = '#2a4b8d';
+          ctx.fillStyle = theme.accentStrong;
           ctx.fill();
           ctx.lineWidth = 2 * transform.k;
-          ctx.strokeStyle = '#3366cc';
+          ctx.strokeStyle = theme.accent;
           ctx.stroke();
         } else if (n.isCenter) {
-          ctx.fillStyle = '#3366cc';
+          ctx.fillStyle = theme.accent;
           ctx.fill();
           ctx.lineWidth = 1.5 * transform.k;
-          ctx.strokeStyle = '#202122';
+          ctx.strokeStyle = theme.text;
           ctx.stroke();
         } else if (isNeighbor) {
-          ctx.fillStyle = '#202122';
+          ctx.fillStyle = theme.text;
           ctx.fill();
           ctx.lineWidth = 1.5 * transform.k;
-          ctx.strokeStyle = '#3366cc';
+          ctx.strokeStyle = theme.accent;
           ctx.stroke();
         } else {
           ctx.fillStyle = n.color;
           ctx.fill();
           ctx.lineWidth = 1 * transform.k;
-          ctx.strokeStyle = '#a2a9b1';
+          ctx.strokeStyle = theme.border;
           ctx.stroke();
         }
 
@@ -627,10 +692,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
           // Label pill background
           const textWidth = ctx.measureText(label).width;
-          ctx.fillStyle = isHover ? 'rgba(32, 33, 34, 0.85)' : 'rgba(255, 255, 255, 0.88)';
+          ctx.fillStyle = isHover ? theme.text : theme.surface;
+          ctx.globalAlpha = 0.88;
           ctx.fillRect(p.x - textWidth / 2 - 3, textY - 1, textWidth + 6, 13 * transform.k);
 
-          ctx.fillStyle = isHover ? '#ffffff' : (n.isCenter ? '#3366cc' : '#202122');
+          ctx.globalAlpha = 1;
+          ctx.fillStyle = isHover ? theme.surface : (n.isCenter ? theme.accent : theme.text);
           ctx.fillText(label, p.x, textY);
         }
       });

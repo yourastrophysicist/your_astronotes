@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }} | {{ site.title }}</title>
+  <meta name="description" content="{{ page.description | default: site.description | escape }}">
   <style id="wiki-theme">
 /* Wikipedia / MediaWiki Vector Skin Theme for Your AstroNotes */
 
@@ -674,9 +675,9 @@ main {
 }
 
   </style>
-  <link rel="stylesheet" id="theme-stylesheet" href="{{ '/assets/css/style.css?v=12' | relative_url }}" onerror="if(!this.dataset.retried){this.dataset.retried=1;this.href=(location.pathname.startsWith('/your_astronotes')?'/your_astronotes':'')+'/assets/css/style.css'}">
-  <script src="{{ '/assets/js/site-data.js?v=12' | relative_url }}" onerror="if(!this.dataset.retried){this.dataset.retried=1;var s=document.createElement('script');s.src=(location.pathname.startsWith('/your_astronotes')?'/your_astronotes':'')+'/assets/js/site-data.js';document.head.appendChild(s);}"></script>
-  <script src="{{ '/assets/js/app.js?v=12' | relative_url }}" onerror="if(!this.dataset.retried){this.dataset.retried=1;var s=document.createElement('script');s.src=(location.pathname.startsWith('/your_astronotes')?'/your_astronotes':'')+'/assets/js/app.js';document.head.appendChild(s);}"></script>
+  <link rel="stylesheet" id="theme-stylesheet" href="{{ '/assets/css/style.css?v=13' | relative_url }}" onerror="if(!this.dataset.retried){this.dataset.retried=1;this.href=(location.pathname.startsWith('/your_astronotes')?'/your_astronotes':'')+'/assets/css/style.css'}">
+  <script src="{{ '/assets/js/site-data.js?v=13' | relative_url }}" onerror="if(!this.dataset.retried){this.dataset.retried=1;var s=document.createElement('script');s.src=(location.pathname.startsWith('/your_astronotes')?'/your_astronotes':'')+'/assets/js/site-data.js';document.head.appendChild(s);}"></script>
+  <script src="{{ '/assets/js/app.js?v=13' | relative_url }}" onerror="if(!this.dataset.retried){this.dataset.retried=1;var s=document.createElement('script');s.src=(location.pathname.startsWith('/your_astronotes')?'/your_astronotes':'')+'/assets/js/app.js';document.head.appendChild(s);}"></script>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
   <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
   <script>
@@ -759,6 +760,7 @@ main {
 </head>
 <body>
 
+  <a class="skip-link" href="#main-content">Skip to content</a>
   <header>
     <div class="header-brand">
       <a href="{{ '/' | relative_url }}" class="logo">{{ site.title }}</a>
@@ -772,14 +774,17 @@ main {
   </header>
 
   <div class="container">
-    <aside class="sidebar-left">
+    <aside class="sidebar-left" aria-label="Notes navigation">
+      <button type="button" class="sidebar-toggle" aria-expanded="false" aria-controls="sidebar-body">Browse notes</button>
+      <div id="sidebar-body" class="sidebar-body">
       <div class="sidebar-heading">Search Vault</div>
-      <input type="text" id="tree-search" class="search-box" placeholder="Search pages, maps, notes...">
+      <input type="search" id="tree-search" class="search-box" placeholder="Search pages, maps, notes..." aria-label="Search notes">
       <div class="sidebar-heading">Navigation</div>
       <div id="file-tree"><div style="font-size: 0.82rem; color: var(--text-muted); padding: 8px 4px;">Loading curriculum tree...</div></div>
+      </div>
     </aside>
 
-    <main>
+    <main id="main-content" tabindex="-1">
       {% unless page.url == '/' or page.path == 'index.md' or page.title == 'index' %}
       <div class="article-header">
         <h1 class="article-title">{{ page.title }}</h1>

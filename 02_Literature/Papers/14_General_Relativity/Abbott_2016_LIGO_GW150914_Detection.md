@@ -52,6 +52,6 @@ peaking at a gravitational-wave luminosity $L_{\rm GW}\sim200\,M_\odot c^2/{\rm 
 ---
 
 ## Vault Cross-References
-- Core Theory: [[Gravitational Wave Quadrupole Formula]], [[Gravitational waves in General Relativity]], [[Quadrupole formula]]
+- Core Theory: [[Quadrupole formula|Gravitational Wave Quadrupole Formula]], [[Gravitational waves in General Relativity]], [[Quadrupole formula]]
 - Related: [[Bardeen_Press_Teukolsky_1972_Rotating_Black_Holes]]
 - Map of Content: [[General_Relativity_MOC]]

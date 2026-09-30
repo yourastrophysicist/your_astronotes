@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="317.33" height="353.33" font-family="Liberation Sans,Arial,Nimbus Sans L,Helvetica,sans-serif" font-size="17.333">
+  <defs>
+    <radialGradient id="a" cx="206.67" cy="241.96" r="149" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e3e3e3"/>
+      <stop offset="1" stop-color="#9c9c9c"/>
+    </radialGradient>
+    <marker id="b" markerHeight="1" markerWidth="1" orient="auto-start-reverse" overflow="visible" preserveAspectRatio="xMidYMid" viewBox="0 0 1 1">
+      <path fill="none" stroke="context-stroke" d="m-2.75 3 3-3-3-3"/>
+    </marker>
+  </defs>
+  <circle cx="159.61" cy="195.69" r="149" fill="url(#a)"/>
+  <g fill="none" stroke="#000" stroke-width="2">
+    <path stroke-dasharray="4, 2" d="M45.49 100c.95172 44.291 239.7 43.286 229.41.39216M20 144.71c8.4735 64.666 271.56 73.348 280.39-.39216"/>
+    <path d="m101.96 127.07-16.272 61.069M159.22 131.3l1.1829 64.941M218.05 127.95l16.191 61.662M159.61 23.137l1.1765 41.961"/>
+    <path marker-end="url(#b)" d="M197.25 66.275c-1.7896-7.8158-23.769-10.332-36.078-10.588-22.51-.4017-39.344 3.8852-40 8.6275 1.9941 9.0399 23.28 9.9961 37.255 12.157"/>
+  </g>
+  <text x="98.823532" y="121.17648">A</text>
+  <text x="154.90196" y="125.4902">A&apos;</text>
+  <text x="211.76471" y="121.56863">A&quot;</text>
+  <text x="78.823532" y="205.4902">B</text>
+  <text x="154.90196" y="215.29413">B&apos;</text>
+  <text x="230.58824" y="206.27451">B&quot;</text>
+  <text x="152.94119" y="16.862745">N</text>
+</svg>
