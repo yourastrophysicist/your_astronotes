@@ -5,7 +5,7 @@ title: About Your AstroNotes
 
 # About Your AstroNotes
 
-Welcome to the public archive of Master of Science coursework notes in Astrophysics and Cosmology from the University of Padua (Università degli Studi di Padova), Italy, spanning Semesters 1, 2, and 3.
+Welcome to the public archive of Master of Science coursework notes in Astrophysics and Cosmology from the University of Padua (Università degli Studi di Padova), Italy, spanning Semesters 1 and 2.
 
 This project transforms an interconnected graduate study vault into an open-access digital garden, compiled, derived, and explored by one voyager only.
 
@@ -22,9 +22,9 @@ This project transforms an interconnected graduate study vault into an open-acce
 
 ---
 
-## Academic Scope (Semesters 1 – 3)
+## Academic Scope (Semesters 1 – 2)
 
-The vault covers seventeen primary lecture courses and laboratory modules:
+The vault covers ten primary lecture courses and laboratory modules:
 
 ### Semester 1: Foundations
 1. **[[Fundamentals_Astrophysics_Cosmology_MOC|Fundamentals of Astrophysics and Cosmology]]**
@@ -68,34 +68,6 @@ The vault covers seventeen primary lecture courses and laboratory modules:
     Prof. S. Ciroi  
     Quantum atomic transitions, selection rules, thermal and pressure broadening, optical grating physics, spectrograph designs, slit geometry, and radial velocity measurements.
 
-### Semester 3: Advanced Specializations
-11. **[[Exoplanetary_Astrophysics_MOC|Exoplanetary Astrophysics]]**
-    Prof. G. Piotto  
-    Radial velocity detections, transit photometry, exoplanet atmospheres, habitability zones, planetary formation, and space-based missions (Kepler, TESS, PLATO).
-
-12. **[[Astro-Statistics_and_Cosmology_MOC|Astro-Statistics and Cosmology]]**
-    Prof. M. Liguori  
-    Bayesian inference, parameter estimation, Markov Chain Monte Carlo (MCMC), likelihood analysis, model selection, and cosmic microwave background power spectrum analysis.
-
-13. **[[Astrophysics_Laboratory_2_MOC|Astrophysics Laboratory 2]]**
-    Prof. L. Malavolta & Prof. G. Piotto  
-    High-precision spectroscopic reduction, radial velocity measurement pipelines, exoplanet transit fitting, and instrumentation calibration.
-
-14. **[[Computational_Astrophysics_MOC|Computational Astrophysics]]**
-    Prof. T. Zingales  
-    Numerical hydrodynamics, N-body algorithms, mesh refinement, parallel computing for astrophysical simulations, and radiative transfer modeling.
-
-15. **[[Cosmology_of_the_Early_Universe_MOC|Cosmology of the Early Universe]]**
-    Prof. N. Bartolo & Prof. S. Matarrese  
-    Cosmic inflation models, primordial perturbation generation, quantum fluctuations, baryogenesis, and non-Gaussianities.
-
-16. **[[Fluid_and_Plasma_Dynamics_MOC|Fluid and Plasma Dynamics]]**
-    Prof. M. Giacomin  
-    Navier-Stokes equations, ideal and resistive magnetohydrodynamics (MHD), plasma waves, shocks, magnetic reconnection, and astrophysical turbulence.
-
-17. **[[Astrophysics_of_the_Interstellar_Medium_MOC|Astrophysics of the Interstellar Medium]]**
-    Prof. G. Carraro  
-    Interstellar dust, extinction laws, photoionization regions (H II regions), molecular clouds, cooling mechanisms, and star formation triggers.
 
 ---
 
@@ -103,7 +75,7 @@ The vault covers seventeen primary lecture courses and laboratory modules:
 
 The vault is organized following an interconnected Zettelkasten framework:
 
-* **04_Atlas/**: 17 comprehensive course Maps of Content and the central [[04_Atlas|04_Atlas Hub]]. Start here for curricular syllabi and course roadmaps.
+* **04_Atlas/**: 10 comprehensive course Maps of Content and the central [[04_Atlas|04_Atlas Hub]]. Start here for curricular syllabi and course roadmaps.
 * **02_Literature/**: Detailed lecture syntheses, slide transcriptions, and reference literature breakdowns across all courses.
 * **03_Zettel/**: Over 1,300 atomic concept notes. Each note focuses on a discrete physical principle, derivation, or computational method with bilateral cross-links.
 * **assets/images/**: 2,870 high-resolution astronomical diagrams, instrument schematics, ray tracings, and observational data plots.

@@ -1,4 +1,4 @@
-# Large binaries and documents
+﻿# Large binaries and documents
 *.pdf
 *.mp4
 *.mkv
@@ -31,6 +31,37 @@
 /06_Archives/
 /07_Images/
 /TaskNotes/
+
+# Semester 3 - kept in the vault, not published
+/02_Literature/Lectures/Exoplanetary_Astrophysics/
+/02_Literature/Lectures/Astrostatistics/
+/02_Literature/Lectures/Astrophysics_Laboratory_2/
+/02_Literature/Lectures/Computational_Astrophysics/
+/02_Literature/Lectures/Cosmology_of_the_Early_Universe/
+/02_Literature/Lectures/Interstellar_Medium/
+/02_Literature/Lectures/Fluid_and_Plasma_Dynamics/
+/02_Literature/Papers/01_Astrophysics_Laboratory_2/
+/02_Literature/Papers/09_Cosmology_Early_Universe/
+/02_Literature/Papers/10_Exoplanetary_Astrophysics/
+/02_Literature/Papers/12_Interstellar_Medium/
+/02_Literature/Papers/13_Fluid_Plasma_Dynamics/
+/02_Literature/Papers/15_Computational_Astrophysics/
+/02_Literature/Papers/17_Astro_Statistics/
+/04_Atlas/Exoplanetary_Astrophysics_MOC.md
+/04_Atlas/Astro-Statistics_and_Cosmology_MOC.md
+/04_Atlas/Astrophysics_Laboratory_2_MOC.md
+/04_Atlas/Computational_Astrophysics_MOC.md
+/04_Atlas/Cosmology_of_the_Early_Universe_MOC.md
+/04_Atlas/Astrophysics_of_the_Interstellar_Medium_MOC.md
+/04_Atlas/Fluid_and_Plasma_Dynamics_MOC.md
+
+# Obsidian plugin state
+.makemd/
+.space/
+
+# Personal task tooling at vault root
+/TASKS.md
+/archive_tasks.*
 
 # Jekyll / static site build
 .sass-cache/
