@@ -5,7 +5,7 @@ title: "README"
 
 # Your AstroNotes
 
-Welcome to the public archive for the Master of Science coursework in Astrophysics and Cosmology at the University of Padua (Università degli Studi di Padova), Italy, covering Semesters 1, 2, and 3.
+Welcome to the public archive for the Master of Science coursework in Astrophysics and Cosmology at the University of Padua (Università degli Studi di Padova), Italy, covering Semesters 1 and 2.
 
 This repository is an interconnected working second brain compiled and navigated by one voyager only as an open graduate curriculum reference. It contains lecture syntheses, mathematical derivations, observational instrumentation notes, laboratory reductions, and theoretical foundations.
 
@@ -30,9 +30,9 @@ Storing this material as an interconnected graph makes those cross-disciplinary 
 
 ---
 
-## Academic Scope (Semesters 1 – 3)
+## Academic Scope (Semesters 1 – 2)
 
-The vault is structured around seventeen primary lecture courses and laboratory modules organized across Semesters 1 to 3 in 04_Atlas/: Each MOC serves as a comprehensive syllabus and conceptual spine for a semester course:
+The vault is structured around ten primary lecture courses and laboratory modules organized across Semesters 1 and 2 in 04_Atlas/: Each MOC serves as a comprehensive syllabus and conceptual spine for a semester course:
 
 ### Semester 1 (Foundations)
 1. **[[Fundamentals_Astrophysics_Cosmology_MOC|Fundamentals of Astrophysics and Cosmology]]** (Prof. G. Rodighiero & Prof. M. Viel)
@@ -66,27 +66,6 @@ The vault is structured around seventeen primary lecture courses and laboratory 
 10. **[[Astronomical_Spectroscopy_MOC|Astronomical Spectroscopy]]** (Prof. S. Ciroi)
     Atomic structure, selection rules, line broadening mechanisms, spectrograph optics, dispersion, resolution, and Doppler kinematic measurements.
 
-### Semester 3 (Advanced Specializations)
-11. **[[Exoplanetary_Astrophysics_MOC|Exoplanetary Astrophysics]]** (Prof. G. Piotto)
-    Radial velocity detections, transit photometry, exoplanet atmospheres, habitability zones, planetary migration, and space missions (Kepler, TESS, PLATO).
-
-12. **[[Astro-Statistics_and_Cosmology_MOC|Astro-Statistics and Cosmology]]** (Prof. M. Liguori)
-    Bayesian inference, parameter estimation, Markov Chain Monte Carlo (MCMC), likelihood analysis, model selection, and cosmological parameter constraints.
-
-13. **[[Astrophysics_Laboratory_2_MOC|Astrophysics Laboratory 2]]** (Prof. L. Malavolta & Prof. G. Piotto)
-    High-resolution spectroscopic data reduction, radial velocity measurement pipelines, transit light curve modeling, and instrument characterization.
-
-14. **[[Computational_Astrophysics_MOC|Computational Astrophysics]]** (Prof. T. Zingales)
-    Numerical hydrodynamics, N-body particle algorithms, adaptive mesh refinement, parallel computing for astrophysical simulations, and radiative transfer.
-
-15. **[[Cosmology_of_the_Early_Universe_MOC|Cosmology of the Early Universe]]** (Prof. N. Bartolo & Prof. S. Matarrese)
-    Cosmic inflation models, generation of primordial perturbations, quantum fluctuations, reheating, baryogenesis, and non-Gaussianities.
-
-16. **[[Fluid_and_Plasma_Dynamics_MOC|Fluid and Plasma Dynamics]]** (Prof. M. Giacomin)
-    Navier-Stokes equations, ideal and resistive magnetohydrodynamics (MHD), plasma wave modes, shocks, magnetic reconnection, and turbulence.
-
-17. **[[Astrophysics_of_the_Interstellar_Medium_MOC|Astrophysics of the Interstellar Medium]]** (Prof. G. Carraro)
-    Interstellar dust, extinction curves, photoionization physics (H II regions), molecular clouds, cooling functions, and interstellar chemistry.
 
 ---
 
@@ -94,7 +73,7 @@ The vault is structured around seventeen primary lecture courses and laboratory 
 
 The repository follows a clean modular hierarchy:
 
-* **04_Atlas/**: Seventeen Maps of Content organizing curricula and reading roadmaps, along with the master [[04_Atlas|04_Atlas Hub]].
+* **04_Atlas/**: Ten Maps of Content organizing curricula and reading roadmaps, along with the master [[04_Atlas|04_Atlas Hub]].
 * **02_Literature/**: Lecture syntheses, course slide transcriptions, and reference literature breakdowns across all courses.
 * **03_Zettel/**: Over 1,300 atomic concept notes. Each note focuses on a discrete physical mechanism, mathematical definition, or observational effect with explicit backlinks.
 * **assets/images/**: 2,870 astronomical diagrams, ray-tracing sketches, coordinate geometries, and observational plots.
