@@ -58,6 +58,6 @@ $$M_\bullet \approx f\,\frac{R_{\mathrm{BLR}}(L)\,\mathrm{FWHM}^2}{G}, \qquad R_
 ---
 
 ## Vault Cross-References
-- Core Theory: [[SMBH Reverberation Mapping]], [[Kormendy_Ho_2013_SMBH_Host_Galaxy_Coevolution]]
+- Core Theory: [[Reverberation mapping|SMBH Reverberation Mapping]], [[Kormendy_Ho_2013_SMBH_Host_Galaxy_Coevolution]]
 - Related: [[Relativistic Iron Line Profiles]], [[AGN and supermassive black holes]]
 - Map of Content: [[Astrophysics_of_Galaxies_MOC]], [[Lab_High-Energy_MOC]]

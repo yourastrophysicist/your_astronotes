@@ -678,5 +678,96 @@ main {
 
 .internal-link-unresolved {
   color: var(--text-muted);
-  opacity: 0.85;
+  border-bottom: 1px dotted var(--border-color);
+  cursor: help;
+}
+
+/* Accessibility */
+.skip-link {
+  position: absolute;
+  left: 8px;
+  top: -48px;
+  z-index: 2000;
+  padding: 8px 12px;
+  background-color: var(--content-bg);
+  border: 1px solid var(--primary-color);
+  border-radius: 2px;
+}
+
+.skip-link:focus {
+  top: 8px;
+}
+
+main:focus {
+  outline: none;
+}
+
+a:focus-visible,
+button:focus-visible,
+.tree-folder:focus-visible,
+.search-box:focus-visible {
+  outline: 2px solid var(--primary-color);
+  outline-offset: 2px;
+}
+
+/* Mobile navigation drawer: the tree stays out of the way until asked for */
+.sidebar-toggle {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  .sidebar-left {
+    max-height: none;
+    padding: 8px 16px;
+  }
+
+  .sidebar-toggle {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding: 8px 10px;
+    font: inherit;
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--text-color);
+    background-color: var(--content-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 2px;
+    cursor: pointer;
+  }
+
+  .sidebar-toggle::after {
+    content: "\25BE";
+    color: var(--text-muted);
+  }
+
+  .sidebar-toggle[aria-expanded="true"]::after {
+    content: "\25B4";
+  }
+
+  .sidebar-body {
+    display: none;
+    max-height: 60vh;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    padding-top: 4px;
+  }
+
+  .sidebar-open .sidebar-body {
+    display: block;
+  }
+
+  /* Larger tap targets */
+  .tree-folder,
+  .tree-file-link {
+    padding: 7px 8px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    transition: none !important;
+    scroll-behavior: auto !important;
+  }
 }
