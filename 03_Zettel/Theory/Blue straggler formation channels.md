@@ -2,7 +2,7 @@
 layout: "default"
 title: "Blue straggler formation channels"
 ---
-[[Blue stragglers in star clusters|blue stragglers]] cannot be made by single-star evolution; they need to acquire mass after the cluster formed. three main channels are discussed, and the relative contribution depends strongly on the cluster's local stellar density.
+[[Blue stragglers in star clusters\|blue stragglers]] cannot be made by single-star evolution; they need to acquire mass after the cluster formed. three main channels are discussed, and the relative contribution depends strongly on the cluster's local stellar density.
 
 **(i) stellar collisions in dense cores**
 
@@ -19,7 +19,7 @@ where $\rho$ is the local stellar density and $\sigma$ is the velocity dispersio
 a primordial binary in which the more massive primary fills its Roche lobe transfers material to the secondary. depending on the evolutionary stage at the onset of mass transfer:
 
 - case A: primary still on MS,
-- case B: primary on Hertzsprung gap or [[Red giant branch RGB|RGB]],
+- case B: primary on Hertzsprung gap or [[Red giant branch RGB\|RGB]],
 - case C: primary on AGB.
 
 the secondary, gaining mass, becomes more massive than the MSTO and is "rejuvenated" into a BSS. the primary becomes a white dwarf. the resulting BSS is therefore expected to have a WD companion (sometimes detectable in UV) and to rotate slowly, because mass transfer can spin down the accretor through magnetic braking and tidal coupling.
@@ -40,7 +40,7 @@ distinguishing the channels uses:
 - presence of a WD companion (mass transfer products show UV excess),
 - binary fraction of the BSS sample.
 
-cosmologically, binary-channel BSS link to [[Cataclysmic variables in clusters|CV progenitors]] and to Ia supernova progenitors in old populations (whether BSS pathways feed the Ia rate is open).
+cosmologically, binary-channel BSS link to [[Cataclysmic variables in clusters\|CV progenitors]] and to Ia supernova progenitors in old populations (whether BSS pathways feed the Ia rate is open).
 
 ## see also
 - [[Stellar_Astrophysics_MOC]]

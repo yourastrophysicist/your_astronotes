@@ -4,7 +4,7 @@ title: "Overrelaxation"
 ---
 # Overrelaxation
 
-an acceleration trick for [[Relaxation method|relaxation]] iterations and for [[Gauss-Seidel iteration]]. instead of accepting the relaxation update $g(x_n)$ as the next iterate, **overshoot** by a factor $\omega > 1$:
+an acceleration trick for [[Relaxation method\|relaxation]] iterations and for [[Gauss-Seidel iteration]]. instead of accepting the relaxation update $g(x_n)$ as the next iterate, **overshoot** by a factor $\omega > 1$:
 
 $$x_{n+1} = x_n + \omega (g(x_n) - x_n)$$
 

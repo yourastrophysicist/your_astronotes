@@ -52,7 +52,7 @@ where:
 ## Critical Findings & Scientific Impact
 1. Provided the first physically motivated, energetically self-consistent mechanism for extracting black-hole rotational energy without violating causality or the second law of black hole thermodynamics (horizon area cannot decrease).
 2. Forms the theoretical basis of the spin-powered jet paradigm now supported by EHT polarimetric imaging of M87*, which favors MAD-state, BZ-powered jet launching.
-3. Open problem: the original force-free, low-spin perturbative solution does not capture the full non-linear MHD dynamics of jet collimation and mass-loading — addressed by modern GRMHD simulations (e.g. [[Porth et al. (2019) — GRMHD Code Comparison]]) and by the complementary [[Blandford-Payne Jet Launching|Blandford & Payne (1982) disk-wind mechanism]] for matter-loaded outflows.
+3. Open problem: the original force-free, low-spin perturbative solution does not capture the full non-linear MHD dynamics of jet collimation and mass-loading — addressed by modern GRMHD simulations (e.g. [[Porth et al. (2019) — GRMHD Code Comparison]]) and by the complementary [[Blandford-Payne Jet Launching\|Blandford & Payne (1982) disk-wind mechanism]] for matter-loaded outflows.
 
 ---
 

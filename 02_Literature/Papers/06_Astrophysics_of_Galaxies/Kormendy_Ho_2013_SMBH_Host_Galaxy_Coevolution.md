@@ -53,6 +53,6 @@ where $D$ is the galaxy's distance — this resolution criterion is central to t
 ---
 
 ## Vault Cross-References
-- Core Theory: [[Reverberation mapping|SMBH Reverberation Mapping]], [[Jeans Equations and Virial Theorem]], [[AGN and supermassive black holes]]
+- Core Theory: [[Reverberation mapping\|SMBH Reverberation Mapping]], [[Jeans Equations and Virial Theorem]], [[AGN and supermassive black holes]]
 - Related: [[Faber-Jackson relation]], [[Fundamental plane of ellipticals]]
 - Map of Content: [[Astrophysics_of_Galaxies_MOC]], [[Lab_High-Energy_MOC]]

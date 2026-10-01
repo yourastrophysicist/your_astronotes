@@ -35,35 +35,35 @@ Storing this material as an interconnected graph makes those cross-disciplinary 
 The vault is structured around ten primary lecture courses and laboratory modules organized across Semesters 1 and 2 in 04_Atlas/: Each MOC serves as a comprehensive syllabus and conceptual spine for a semester course:
 
 ### Semester 1 (Foundations)
-1. **[[Fundamentals_Astrophysics_Cosmology_MOC|Fundamentals of Astrophysics and Cosmology]]** (Prof. G. Rodighiero & Prof. M. Viel)
+1. **[[Fundamentals_Astrophysics_Cosmology_MOC\|Fundamentals of Astrophysics and Cosmology]]** (Prof. G. Rodighiero & Prof. M. Viel)
    Foundational coordinates, spherical trigonometry, radiative mechanisms, magnitudes, stellar evolution basics, galactic structure, Hubble law, and thermal cosmic history.
 
-2. **[[Observational_Astrophysics_MOC|Observational Astrophysics]]** (Prof. E. Giro & Prof. G. Umbriaco)
+2. **[[Observational_Astrophysics_MOC\|Observational Astrophysics]]** (Prof. E. Giro & Prof. G. Umbriaco)
    Atmospheric extinction and seeing, astronomical detectors (CCDs and infrared arrays), signal-to-noise calculations, photometric calibration, and error budgets.
 
-3. **[[General_Relativity_MOC|General Relativity for Astrophysics]]** (Prof. S. Matarrese & Cambridge Baumann)
+3. **[[General_Relativity_MOC\|General Relativity for Astrophysics]]** (Prof. S. Matarrese & Cambridge Baumann)
    Differential geometry, manifolds, Christoffel symbols, Riemann curvature, Einstein field equations, geodesic motion, Schwarzschild geometry, and gravitational waves.
 
-4. **[[Mathematical_Numerical_Methods_MOC|Mathematical and Numerical Methods]]** (Prof. M. Mapelli)
+4. **[[Mathematical_Numerical_Methods_MOC\|Mathematical and Numerical Methods]]** (Prof. M. Mapelli)
    Numerical linear algebra, root-finding, numerical integration, ordinary differential equation solvers (Runge-Kutta, symplectic integrators), and Monte Carlo techniques.
 
-5. **[[Lab_High-Energy_MOC|Astrophysics Laboratory 1 (High Energy)]]** (Prof. L. Burderi)
+5. **[[Lab_High-Energy_MOC\|Astrophysics Laboratory 1 (High Energy)]]** (Prof. L. Burderi)
    Non-thermal radiation mechanisms (synchrotron, inverse Compton, relativistic bremsstrahlung), grazing-incidence X-ray optics, scintillation crystals, and solid-state detectors.
 
 ### Semester 2 (Stars, Galaxies, and Cosmology)
-6. **[[Astrophysics_of_Galaxies_MOC|Astrophysics of Galaxies]]** (Prof. A. Moretti)
+6. **[[Astrophysics_of_Galaxies_MOC\|Astrophysics of Galaxies]]** (Prof. A. Moretti)
    Photometric morphology (Sérsic, de Vaucouleurs), stellar dynamics, Jeans equations, dark matter halo profiles, and galactic scaling relations.
 
-7. **[[Stellar_Astrophysics_MOC|Stellar Astrophysics]]** (Prof. A. Milone)
+7. **[[Stellar_Astrophysics_MOC\|Stellar Astrophysics]]** (Prof. A. Milone)
    Stellar structure equations, polytropic models, equation of state, nuclear fusion cycles, radiative atmospheres, and stellar population synthesis.
 
-8. **[[Astronomical_Interferometry_MOC|Astronomical Interferometry]]** (Prof. C. Pernechele)
+8. **[[Astronomical_Interferometry_MOC\|Astronomical Interferometry]]** (Prof. C. Pernechele)
    Spatial coherence theory, van Cittert-Zernike theorem, aperture synthesis, uv-plane coverage, visibility functions, dirty beams, CLEAN algorithms, ALMA, and the VLTI.
 
-9. **[[Observational_Cosmology_MOC|Observational Cosmology]]** (Prof. M. Viel & Prof. P. Vielva)
+9. **[[Observational_Cosmology_MOC\|Observational Cosmology]]** (Prof. M. Viel & Prof. P. Vielva)
    FLRW metric dynamics, cosmological parameters, cosmic distance ladder, big bang nucleosynthesis, recombination, and the cosmic microwave background.
 
-10. **[[Astronomical_Spectroscopy_MOC|Astronomical Spectroscopy]]** (Prof. S. Ciroi)
+10. **[[Astronomical_Spectroscopy_MOC\|Astronomical Spectroscopy]]** (Prof. S. Ciroi)
     Atomic structure, selection rules, line broadening mechanisms, spectrograph optics, dispersion, resolution, and Doppler kinematic measurements.
 
 
@@ -73,7 +73,7 @@ The vault is structured around ten primary lecture courses and laboratory module
 
 The repository follows a clean modular hierarchy:
 
-* **04_Atlas/**: Ten Maps of Content organizing curricula and reading roadmaps, along with the master [[04_Atlas|04_Atlas Hub]].
+* **04_Atlas/**: Ten Maps of Content organizing curricula and reading roadmaps, along with the master [[04_Atlas\|04_Atlas Hub]].
 * **02_Literature/**: Lecture syntheses, course slide transcriptions, and reference literature breakdowns across all courses.
 * **03_Zettel/**: Over 1,300 atomic concept notes. Each note focuses on a discrete physical mechanism, mathematical definition, or observational effect with explicit backlinks.
 * **assets/images/**: 2,870 astronomical diagrams, ray-tracing sketches, coordinate geometries, and observational plots.

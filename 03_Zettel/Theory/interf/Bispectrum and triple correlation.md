@@ -4,7 +4,7 @@ title: "Bispectrum and triple correlation"
 ---
 # Bispectrum and triple correlation
 
-the *single-aperture* analog of [[Phase closure|phase closure]]. a third-order quantity that is *atmosphere-independent* and recovers the full phase structure of a source despite seeing or instrument errors.
+the *single-aperture* analog of [[Phase closure\|phase closure]]. a third-order quantity that is *atmosphere-independent* and recovers the full phase structure of a source despite seeing or instrument errors.
 
 ## definition
 

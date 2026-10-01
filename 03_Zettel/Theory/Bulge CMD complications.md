@@ -2,7 +2,7 @@
 layout: "default"
 title: "Bulge CMD complications"
 ---
-reading the CMD of the [[The Galactic Bulge|Galactic bulge]] is one of the hardest problems in resolved-stellar-population astronomy. the bulge is bright + crowded + dust-obscured + behind the disk, and every standard CMD-fitting assumption gets stressed.
+reading the CMD of the [[The Galactic Bulge\|Galactic bulge]] is one of the hardest problems in resolved-stellar-population astronomy. the bulge is bright + crowded + dust-obscured + behind the disk, and every standard CMD-fitting assumption gets stressed.
 
 ## the four main complications
 
@@ -22,7 +22,7 @@ bulge sight lines have $A_V \sim 1$-$30$ mag, varying on arcminute scales due to
 
 - mimic spread in metallicity,
 - mimic spread in age (if interpreted as TO width),
-- mimic [[Multiple populations in GCs discovery|multiple populations]].
+- mimic [[Multiple populations in GCs discovery\|multiple populations]].
 
 correction strategy: use cluster member ridge or RC ridge as an empirical reddening tracer (Lagioia et al. 2014, Milone et al. 2012). the cluster ridge gives a high-resolution $\delta E(B-V)$ map across the field, which is then applied to non-cluster bulge stars.
 

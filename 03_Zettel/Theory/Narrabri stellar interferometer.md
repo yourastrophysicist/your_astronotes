@@ -4,7 +4,7 @@ title: "Narrabri stellar interferometer"
 ---
 # Narrabri stellar interferometer
 
-the first instrument built specifically for [[Hanbury Brown Twiss effect|HBT]] intensity interferometry on the sky. operated 1965-1972 in Australia. measured 32 stellar angular diameters with ~1% precision, the first systematic catalog of stellar diameters by interferometry.
+the first instrument built specifically for [[Hanbury Brown Twiss effect\|HBT]] intensity interferometry on the sky. operated 1965-1972 in Australia. measured 32 stellar angular diameters with ~1% precision, the first systematic catalog of stellar diameters by interferometry.
 
 ## the instrument
 

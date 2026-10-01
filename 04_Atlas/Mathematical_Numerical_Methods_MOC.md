@@ -319,8 +319,8 @@ the exam template I have on file (4 exercises) hits exactly these boxes: read-an
 
 Canonical and modern benchmark papers underlying the numerical methods above.
 
-- [[Marquardt_1963_Levenberg_Marquardt_Algorithm|Marquardt (1963) — Levenberg-Marquardt Nonlinear Least Squares]] — adaptive Gauss-Newton/steepest-descent damping
-- [[Virtanen_2020_SciPy_Scientific_Computing|Virtanen et al. (2020) — SciPy 1.0]] — the numerical-Python foundation underlying most of this course's tooling
+- [[Marquardt_1963_Levenberg_Marquardt_Algorithm\|Marquardt (1963) — Levenberg-Marquardt Nonlinear Least Squares]] — adaptive Gauss-Newton/steepest-descent damping
+- [[Virtanen_2020_SciPy_Scientific_Computing\|Virtanen et al. (2020) — SciPy 1.0]] — the numerical-Python foundation underlying most of this course's tooling
 
 ---
 

@@ -31,7 +31,7 @@ $$V_i(t) \propto E(\mathbf r_i, t)$$
 so the time-averaged product is the field correlation:
 $$\langle V_1 V_2 \rangle \propto \langle E^*(\mathbf r_1, t) E(\mathbf r_2, t) \rangle = \Gamma_{12}$$
 
-which is the **mutual coherence function** of [[Coherence function and visibility|that zettel]] — equivalently, the visibility.
+which is the **mutual coherence function** of [[Coherence function and visibility\|that zettel]] — equivalently, the visibility.
 
 so the correlator literally computes the visibility.
 

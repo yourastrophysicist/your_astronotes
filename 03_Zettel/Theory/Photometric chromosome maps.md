@@ -37,7 +37,7 @@ This verticalization is what makes the two axes closely orthogonal in practice: 
 
 ## what the map shows
 
-for a typical [[Type I and Type II GCs|Type I GC]]:
+for a typical [[Type I and Type II GCs\|Type I GC]]:
 - a **1G clump** at $\Delta_C \approx 0$, near the bottom of the He axis: primordial composition
 - a **2G stream** extending to higher $\Delta_C$ + higher $\Delta_{F275W,F814W}$: enhanced N + He
 - the 2G is often itself substructured, with discrete sub-populations 2Ga, 2Gb (sometimes more)
@@ -73,7 +73,7 @@ for a given cluster, the chromosome map is the basis for:
 - spectroscopic follow-up: select 1G + 2G targets cleanly for FLAMES / MUSE / MIKE confirmation
 - constraining polluter models: discrete vs continuous distribution, He spread, N spread
 - studying spatial + kinematic differences between populations using gaia or HST proper motions
-- finding [[Type I and Type II GCs|Type II GCs]] (NGC 1851, M22, M2, NGC 6934, $\omega$ Cen)
+- finding [[Type I and Type II GCs\|Type II GCs]] (NGC 1851, M22, M2, NGC 6934, $\omega$ Cen)
 
 ## extensions
 

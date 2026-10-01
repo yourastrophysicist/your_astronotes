@@ -57,7 +57,7 @@ for symmetric sources (binary stars with equal magnitudes, uniform disks):
 
 for asymmetric sources, $\lvert \tilde O\rvert$ alone is *not enough* — phase information is needed for full reconstruction. speckle interferometry recovers the *symmetric part* of the source.
 
-for more complete recovery, use [[Speckle imaging algorithms|Knox-Thompson]] or [[Bispectrum and triple correlation|triple-correlation]] methods, which preserve some phase information.
+for more complete recovery, use [[Speckle imaging algorithms\|Knox-Thompson]] or [[Bispectrum and triple correlation\|triple-correlation]] methods, which preserve some phase information.
 
 ## the practical procedure
 

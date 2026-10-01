@@ -350,9 +350,9 @@ every question is a calculation that lives inside one of the eight blocks. when 
 
 Canonical and modern arXiv gr-qc/astro-ph.HE benchmark papers underlying the Kerr-metric and gravitational-wave physics above.
 
-- [[Bardeen_Press_Teukolsky_1972_Rotating_Black_Holes|Bardeen, Press & Teukolsky (1972) — Rotating Black Holes]] — locally nonrotating frames, the ISCO formula, accretion efficiency
-- [[Abbott_2016_LIGO_GW150914_Detection|Abbott et al. / LIGO & Virgo (2016) — Observation of Gravitational Waves (GW150914)]] — chirp-mass inspiral, merger, ringdown
-- [[EHT_Collaboration_2022_Testing_Kerr_Metric_SgrA|Event Horizon Telescope Collaboration (2022) — Testing the Black Hole Metric (Sgr A*)]] — shadow-size Kerr test across mass scales
+- [[Bardeen_Press_Teukolsky_1972_Rotating_Black_Holes\|Bardeen, Press & Teukolsky (1972) — Rotating Black Holes]] — locally nonrotating frames, the ISCO formula, accretion efficiency
+- [[Abbott_2016_LIGO_GW150914_Detection\|Abbott et al. / LIGO & Virgo (2016) — Observation of Gravitational Waves (GW150914)]] — chirp-mass inspiral, merger, ringdown
+- [[EHT_Collaboration_2022_Testing_Kerr_Metric_SgrA\|Event Horizon Telescope Collaboration (2022) — Testing the Black Hole Metric (Sgr A*)]] — shadow-size Kerr test across mass scales
 
 ---
 

@@ -48,7 +48,7 @@ This connects the physical pixel size on the detector to the angular resolution 
 
 ### Optical telescopes (ground-based)
 Diffraction limit $\ll$ seeing limit
-	the resolution is set entirely by **atmospheric [[Seeing Effect|seeing]]**:
+	the resolution is set entirely by **atmospheric [[Seeing Effect\|seeing]]**:
 $$\theta_{seeing} \approx \frac{\lambda}{r_0} \sim 0.5''$$
 
 With **adaptive optics (AO)**:

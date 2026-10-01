@@ -2,19 +2,19 @@
 layout: "default"
 title: "Initial vs present-day mass function"
 ---
-what we observe today in a star cluster is not the [[Salpeter Kroupa Chabrier IMFs|IMF]] but the **present-day mass function** (PDMF). two physical processes connect the two, and both leave clear fingerprints in the observed [[Color-magnitude diagrams of clusters|CMD]] and [[IMF from cluster luminosity functions|luminosity function]].
+what we observe today in a star cluster is not the [[Salpeter Kroupa Chabrier IMFs\|IMF]] but the **present-day mass function** (PDMF). two physical processes connect the two, and both leave clear fingerprints in the observed [[Color-magnitude diagrams of clusters\|CMD]] and [[IMF from cluster luminosity functions\|luminosity function]].
 
 **process 1: stellar evolution**
 
-stars more massive than the MSTO mass $M_{\text{TO}}(t)$ have completed core hydrogen burning and left the MS. for an old [[Globular Clusters|globular cluster]] of age $t \approx 12\,\text{Gyr}$, $M_{\text{TO}} \approx 0.8\,M_\odot$. so the PDMF on the MS is truncated:
+stars more massive than the MSTO mass $M_{\text{TO}}(t)$ have completed core hydrogen burning and left the MS. for an old [[Globular Clusters\|globular cluster]] of age $t \approx 12\,\text{Gyr}$, $M_{\text{TO}} \approx 0.8\,M_\odot$. so the PDMF on the MS is truncated:
 
 $$\xi_{\text{PDMF, MS}}(M) = \xi_{\text{IMF}}(M) \quad \text{for}\,\, M < M_{\text{TO}}(t),$$
 
-with all higher-mass stars now WDs (for $M_{\text{ZAMS}} \lesssim 8\,M_\odot$), NSs (for $M_{\text{ZAMS}} \sim 8\text{--}25\,M_\odot$), or [[Black holes in globular clusters|BHs]] (for $M_{\text{ZAMS}} \gtrsim 25\,M_\odot$). the dark remnant population is dynamically present but mostly invisible. recovering the IMF therefore requires knowing the initial-final mass relation for compact remnants.
+with all higher-mass stars now WDs (for $M_{\text{ZAMS}} \lesssim 8\,M_\odot$), NSs (for $M_{\text{ZAMS}} \sim 8\text{--}25\,M_\odot$), or [[Black holes in globular clusters\|BHs]] (for $M_{\text{ZAMS}} \gtrsim 25\,M_\odot$). the dark remnant population is dynamically present but mostly invisible. recovering the IMF therefore requires knowing the initial-final mass relation for compact remnants.
 
 **process 2: dynamical evaporation**
 
-a [[Globular Clusters|GC]] is a self-gravitating system slowly losing stars through:
+a [[Globular Clusters\|GC]] is a self-gravitating system slowly losing stars through:
 
 - two-body relaxation pushing stars onto unbound orbits,
 - the galactic tidal field stripping stars from the outskirts,
@@ -37,8 +37,8 @@ the flatter the PDMF at low mass, the more dynamically evolved the cluster. de m
 
 **other modifications**
 
-- **mass loss and mass transfer in binaries**: a [[Binary stars in CMD|binary]] processed through CE may lose substantial mass, shifting the system's mass relative to its initial value.
-- **stellar mergers** in dense cores produce [[Blue stragglers in star clusters|BSS]] that sit above the MSTO, an "above-PDMF" tail.
+- **mass loss and mass transfer in binaries**: a [[Binary stars in CMD\|binary]] processed through CE may lose substantial mass, shifting the system's mass relative to its initial value.
+- **stellar mergers** in dense cores produce [[Blue stragglers in star clusters\|BSS]] that sit above the MSTO, an "above-PDMF" tail.
 - **escapers**: stars that have already left the cluster do not contribute to the PDMF but were part of the IMF.
 
 **implication**

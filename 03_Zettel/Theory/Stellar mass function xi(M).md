@@ -2,7 +2,7 @@
 layout: "default"
 title: "Stellar mass function xi(M)"
 ---
-the **stellar mass function** $\xi(M)$ is the number of stars per unit mass interval. it is the single most important statistic linking star formation to galaxy and [[Globular Clusters|cluster]] evolution, because almost every observable (luminosity, colour, chemical yield, supernova rate, [[Black holes in globular clusters|black hole]] population) depends on how many stars formed at each mass.
+the **stellar mass function** $\xi(M)$ is the number of stars per unit mass interval. it is the single most important statistic linking star formation to galaxy and [[Globular Clusters\|cluster]] evolution, because almost every observable (luminosity, colour, chemical yield, supernova rate, [[Black holes in globular clusters\|black hole]] population) depends on how many stars formed at each mass.
 
 (note: this zettel covers the stellar IMF $\xi(M)$. for the integrated galaxy stellar-mass distribution $\phi(M_*)$, see [[Stellar mass function]] (Schechter form for galaxies); the two are distinct objects with similar names.)
 
@@ -20,7 +20,7 @@ the two are related by
 
 $$\xi_L(\log M) = M\, \ln(10)\, \xi(M).$$
 
-a single power-law $\xi(M) \propto M^{-\alpha}$ becomes $\xi_L(\log M) \propto M^{-(\alpha - 1)} = M^{-\Gamma}$, where $\Gamma = \alpha - 1$ is the slope in the log form (the [[Salpeter Kroupa Chabrier IMFs|salpeter slope]] is $\Gamma_{\text{Sal}} = 1.35$ in this convention).
+a single power-law $\xi(M) \propto M^{-\alpha}$ becomes $\xi_L(\log M) \propto M^{-(\alpha - 1)} = M^{-\Gamma}$, where $\Gamma = \alpha - 1$ is the slope in the log form (the [[Salpeter Kroupa Chabrier IMFs\|salpeter slope]] is $\Gamma_{\text{Sal}} = 1.35$ in this convention).
 
 **IMF vs PDMF**
 
@@ -38,20 +38,20 @@ so observed cluster PDMFs cannot be naively interpreted as IMFs. recovering the 
 - determines the **total number of supernovae and remnants** per unit star formation,
 - sets the **mass-to-light ratio** $M/L$ used to convert observed luminosities to stellar masses for galaxies,
 - controls **chemical yields** (massive stars produce $\alpha$-elements; intermediate-mass stars produce s-process and CN),
-- controls the [[Cosmic star formation history|cosmic SFH]] inversion from luminosity functions.
+- controls the [[Cosmic star formation history\|cosmic SFH]] inversion from luminosity functions.
 
 **universality (or not)**
 
-the IMF appears roughly universal across galactic environments at $\gtrsim 0.5\,M_\odot$, well described by [[Salpeter Kroupa Chabrier IMFs|Salpeter, Kroupa, or Chabrier]] forms. variations are debated for:
+the IMF appears roughly universal across galactic environments at $\gtrsim 0.5\,M_\odot$, well described by [[Salpeter Kroupa Chabrier IMFs\|Salpeter, Kroupa, or Chabrier]] forms. variations are debated for:
 
 - **segmented open-cluster IMF (Cordoni et al. 2023)**: analyzed Gaia DR3 data for 78 open clusters, observing a "segmented" IMF that differs slightly from standard universal profiles. they found:
   * $\frac{dN}{dM} \propto M^{-2.5}$ for masses larger than 1 $M_\odot$.
   * $\frac{dN}{dM} \propto M^{-1.5}$ for masses smaller than 1 $M_\odot$.
-- ultra-faint and dwarf galaxies (possibly bottom-light at lower [[Stellar populations I II III|metallicity]]),
-- very early universe ([[Population III stars|Pop III]] expected top-heavy due to absence of metal cooling),
+- ultra-faint and dwarf galaxies (possibly bottom-light at lower [[Stellar populations I II III\|metallicity]]),
+- very early universe ([[Population III stars\|Pop III]] expected top-heavy due to absence of metal cooling),
 - starburst galaxies (some claims of top-heavy IMF, controversial).
 
-precision tests use [[IMF from cluster luminosity functions|cluster LFs]], integrated galaxy spectra, and direct counts in nearby resolved populations.
+precision tests use [[IMF from cluster luminosity functions\|cluster LFs]], integrated galaxy spectra, and direct counts in nearby resolved populations.
 
 ## reference papers
 

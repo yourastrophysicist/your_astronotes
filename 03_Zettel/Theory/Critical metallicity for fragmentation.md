@@ -2,7 +2,7 @@
 layout: "default"
 title: "Critical metallicity for fragmentation"
 ---
-the **critical metallicity for fragmentation** $Z_{\rm crit}$ is the threshold metallicity below which a primordial gas cloud cannot cool efficiently enough to fragment into stellar-mass clumps. below $Z_{\rm crit}$, the gas collapses monolithically into very massive ($\geq 100\,M_\odot$) [[Population III stars|Pop III stars]]. above $Z_{\rm crit}$, metal-line + dust cooling enables fragmentation into the standard near-Salpeter [[Salpeter Kroupa Chabrier IMFs|IMF]] of Pop II + Pop I stars.
+the **critical metallicity for fragmentation** $Z_{\rm crit}$ is the threshold metallicity below which a primordial gas cloud cannot cool efficiently enough to fragment into stellar-mass clumps. below $Z_{\rm crit}$, the gas collapses monolithically into very massive ($\geq 100\,M_\odot$) [[Population III stars\|Pop III stars]]. above $Z_{\rm crit}$, metal-line + dust cooling enables fragmentation into the standard near-Salpeter [[Salpeter Kroupa Chabrier IMFs\|IMF]] of Pop II + Pop I stars.
 
 ## numerical value
 

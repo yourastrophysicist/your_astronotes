@@ -2,7 +2,7 @@
 layout: "default"
 title: "Pop III nucleosynthesis signatures"
 ---
-since [[Population III stars|Pop III stars]] cannot be observed directly today, their nucleosynthesis is studied via the **abundance patterns** they imprinted on the next-generation gas. these patterns persist in the most metal-poor stars in the Galactic halo + ultra-faint dwarf galaxies, providing chemical fossils of single Pop III progenitors.
+since [[Population III stars\|Pop III stars]] cannot be observed directly today, their nucleosynthesis is studied via the **abundance patterns** they imprinted on the next-generation gas. these patterns persist in the most metal-poor stars in the Galactic halo + ultra-faint dwarf galaxies, providing chemical fossils of single Pop III progenitors.
 
 ## the canonical Pop III progenitor types
 

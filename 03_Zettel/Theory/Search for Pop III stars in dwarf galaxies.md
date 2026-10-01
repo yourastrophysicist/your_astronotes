@@ -2,11 +2,11 @@
 layout: "default"
 title: "Search for Pop III stars in dwarf galaxies"
 ---
-since [[Population III stars|Pop III stars]] are not directly observable today (the metal-free first generation has died out), the **search for Pop III chemical signatures** in surviving stars is the main observational frontier. ultra-faint dwarf galaxies + the Galactic outer halo are the best hunting grounds because their stars are old, chemically primitive, and were polluted by very few progenitors per cloud.
+since [[Population III stars\|Pop III stars]] are not directly observable today (the metal-free first generation has died out), the **search for Pop III chemical signatures** in surviving stars is the main observational frontier. ultra-faint dwarf galaxies + the Galactic outer halo are the best hunting grounds because their stars are old, chemically primitive, and were polluted by very few progenitors per cloud.
 
 ## why dwarf galaxies are the best targets
 
-unlike the Milky Way disk + bulge, [[Ultra-faint dwarf galaxies definition|UFDGs]] have:
+unlike the Milky Way disk + bulge, [[Ultra-faint dwarf galaxies definition\|UFDGs]] have:
 
 - **brief star-formation episode** (single old burst, truncated at reionisation);
 - **shallow potential well** (only one or few SNe pollute the entire UFDG);

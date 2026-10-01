@@ -51,5 +51,5 @@ across the full field of view and over the survey's 10-year time baseline, drivi
 
 ## Vault Cross-References
 - Core Theory: [[Signal-Noise Ratio]], [[CCD detectors and SNR]], [[Atmospheric seeing]]
-- Related: [[Extinction and Bouguer Law|Airmass and Atmospheric Extinction Correction]]
+- Related: [[Extinction and Bouguer Law\|Airmass and Atmospheric Extinction Correction]]
 - Map of Content: [[Observational_Astrophysics_MOC]], [[Observational_Cosmology_MOC]]

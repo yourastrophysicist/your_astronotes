@@ -45,11 +45,11 @@ ranking the anti-correlations by activation temperature gives a thermometer of t
 | Mg-Al (MgAl) | $\sim 65$-$80$ MK | massive metal-poor GCs only |
 | K-Mg + heavier | $\gtrsim 100$ MK | NGC 2419, NGC 2808 extreme |
 
-this ladder is one of the strongest constraints on [[Polluter scenarios for second-generation GC stars]]. any candidate polluter must reach temperatures $\gtrsim 70$ MK in the polluting layers to explain Mg-Al, but must also not over-produce heavier $\alpha$-elements or iron-peak species (which would show as a [Fe/H] spread, normally absent in [[Type I and Type II GCs|Type I GCs]]).
+this ladder is one of the strongest constraints on [[Polluter scenarios for second-generation GC stars]]. any candidate polluter must reach temperatures $\gtrsim 70$ MK in the polluting layers to explain Mg-Al, but must also not over-produce heavier $\alpha$-elements or iron-peak species (which would show as a [Fe/H] spread, normally absent in [[Type I and Type II GCs\|Type I GCs]]).
 
 ## helium tracks alongside
 
-every proton capture chain produces $^4\text{He}$ as a side product. the same gas that is N-rich + Na-rich + Al-rich is also helium-enhanced. so the chemical anti-correlations are not independent: they are coupled by their common origin in hot H burning. this links to [[Helium spread in GCs]] + to the vertical axis of the [[Photometric chromosome maps|chromosome map]].
+every proton capture chain produces $^4\text{He}$ as a side product. the same gas that is N-rich + Na-rich + Al-rich is also helium-enhanced. so the chemical anti-correlations are not independent: they are coupled by their common origin in hot H burning. this links to [[Helium spread in GCs]] + to the vertical axis of the [[Photometric chromosome maps\|chromosome map]].
 
 ## why it matters for chromosome maps
 

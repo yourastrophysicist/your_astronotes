@@ -2,7 +2,7 @@
 layout: "default"
 title: "White dwarf cooling sequence on the CMD"
 ---
-the **white dwarf cooling sequence (WDCS)** is the locus of [[White dwarf overview|white dwarfs]] on a [[Color-magnitude diagrams of clusters|color-magnitude diagram]]. it appears below the main sequence at faint magnitudes, extending $\sim 5$-$8$ mag from $M_V \sim 10$ (newly formed hot WDs) to $M_V \sim 16$-$18$ (oldest cooled WDs). because WDs evolve by simple **passive cooling**, the WDCS provides an **independent age clock** that complements the main sequence turn-off.
+the **white dwarf cooling sequence (WDCS)** is the locus of [[White dwarf overview\|white dwarfs]] on a [[Color-magnitude diagrams of clusters\|color-magnitude diagram]]. it appears below the main sequence at faint magnitudes, extending $\sim 5$-$8$ mag from $M_V \sim 10$ (newly formed hot WDs) to $M_V \sim 16$-$18$ (oldest cooled WDs). because WDs evolve by simple **passive cooling**, the WDCS provides an **independent age clock** that complements the main sequence turn-off.
 
 ![L06_p05_stellar_evolution_CMD-05.png](../../assets/images/L06_p05_stellar_evolution_CMD-05.png)
 

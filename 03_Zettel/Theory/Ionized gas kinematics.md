@@ -205,7 +205,7 @@ ho_{\mathrm{gas}}}{d\ln R} + \frac{d\ln \sigma_{\mathrm{gas}}^2}{d\ln R} \right]
 ## 9. Related Knowledge Base Notes
 
 - [[Rotation curves]] - Empirical rotation curves and dark matter halo mass decomposition.
-- [[Stellar kinematics measurements|Stellar kinematics measurements.md]] - Comparison between collisionless stellar kinematics and dissipative gas kinematics.
+- [[Stellar kinematics measurements\|Stellar kinematics measurements.md]] - Comparison between collisionless stellar kinematics and dissipative gas kinematics.
 - [[Dark matter rotation curves]] - Flat rotation curves and Navarro-Frenk-White vs Burkert halo profiles.
 - [[Tully-Fisher relation]] - The global scaling relation between disk circular velocity and absolute luminosity.
 - [[Ionized gas SMBH masses]] - Measuring central black hole masses from keplerian thin gas disks.

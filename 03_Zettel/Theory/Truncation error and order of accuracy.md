@@ -4,7 +4,7 @@ title: "Truncation error and order of accuracy"
 ---
 # Truncation error and order of accuracy
 
-every numerical algorithm replaces a continuous mathematical operation with a discrete approximation. the *truncation error* is what is lost in that replacement — the terms in the Taylor series that we throw away, the integral pieces that we approximate by trapezoids, the ODE step that we miss by linearizing. this is the *deterministic* error of the algorithm. the other kind, [[Floating point representation and rounding errors|roundoff]], is the random error from finite precision. both matter, and they fight each other.
+every numerical algorithm replaces a continuous mathematical operation with a discrete approximation. the *truncation error* is what is lost in that replacement — the terms in the Taylor series that we throw away, the integral pieces that we approximate by trapezoids, the ODE step that we miss by linearizing. this is the *deterministic* error of the algorithm. the other kind, [[Floating point representation and rounding errors\|roundoff]], is the random error from finite precision. both matter, and they fight each other.
 
 ## the Taylor series anchor
 

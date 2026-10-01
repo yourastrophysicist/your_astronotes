@@ -145,7 +145,7 @@ y_init = np.zeros((2, x.size))
 sol = solve_bvp(rhs, bc, x, y_init)
 ```
 
-uses collocation, an alternative to [[Shooting method|shooting]]. usually more robust.
+uses collocation, an alternative to [[Shooting method\|shooting]]. usually more robust.
 
 ## when to roll my own
 

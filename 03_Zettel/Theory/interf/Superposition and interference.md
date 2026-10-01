@@ -68,7 +68,7 @@ this is exactly Michelson's method for measuring stellar diameters in 1920.
 
 interference requires the phase difference between the two paths to be **stable** over the integration time. if some external effect (atmospheric turbulence, mirror vibrations, thermal expansion of an arm) randomizes $\Delta\phi$ on timescales shorter than the integration, the cosine term averages to zero and fringes vanish.
 
-this is why optical interferometry is hard: atmospheric phase fluctuations are $\gg 2\pi$ on $\sim$ ms timescales. either fringes are tracked actively, or the integration is short enough to freeze the atmosphere ([[Speckle interferometry|speckle interferometry]]).
+this is why optical interferometry is hard: atmospheric phase fluctuations are $\gg 2\pi$ on $\sim$ ms timescales. either fringes are tracked actively, or the integration is short enough to freeze the atmosphere ([[Speckle interferometry\|speckle interferometry]]).
 
 radio interferometry has it easier because the wavelengths are longer and the atmosphere is "smoother" (in units of $\lambda$).
 

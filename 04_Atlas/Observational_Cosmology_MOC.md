@@ -41,7 +41,7 @@ This is the mathematical spine that everything later hangs off of. Before any re
 - [[Cosmological redshift]] — $(1+z) = a(t_e)^{-1} = \nu_e/\nu_0$; redshift is the ratio of scale factors between emission and reception
 - [[Newtonian derivation of Friedmann]] — shell argument, $\ddot{a} = -\frac{4\pi}{3}G\rho_0 a^{-2}$, energy-conservation integral gives $\dot{a}^2 = \frac{8\pi G\rho_0}{3}a^{-1} - kc^2$
 - [[Friedmann solutions]] — Milne vacuum ($R\propto t$), Einstein–de Sitter ($a\propto t^{2/3}$), open, closed
-- [[GR Friedmann with Lambda|GR Friedmann with Λ]] — Einstein field eqs. $R_{ik} - \tfrac{1}{2}g_{ik}R - g_{ik}\Lambda = \frac{8\pi G}{c^4}T_{ik}$; $T_{ik}$ perfect fluid; $\Lambda$ as vacuum energy $\rho_V$
+- [[GR Friedmann with Lambda\|GR Friedmann with Λ]] — Einstein field eqs. $R_{ik} - \tfrac{1}{2}g_{ik}R - g_{ik}\Lambda = \frac{8\pi G}{c^4}T_{ik}$; $T_{ik}$ perfect fluid; $\Lambda$ as vacuum energy $\rho_V$
 - [[Density parameters]] — $\Omega_m, \Omega_\Lambda, \Omega_\gamma, \Omega_k$; critical density $\rho_c = 3H_0^2/8\pi G$
 - [[Matter vs radiation density scaling]] — $\rho_m \propto a^{-3}$, $\rho_\gamma \propto a^{-4}$, equivalence at $z \sim 3330$, $t \sim 53{,}000$ yr
 - [[Curvature-dynamics relation]] — $c^2 k = H_0^2[\Omega_m + \Omega_\Lambda - 1]$, flat iff $\sum\Omega = 1$
@@ -140,7 +140,7 @@ Once the FLRW backdrop is built, we perturb it.
 
 - [[Reionization]] — $z \sim 6$–$10$, ionizing photons from first galaxies/quasars
 - [[Intergalactic medium]]
-- [[Lyman-alpha forest|Lyman-α forest]] — neutral hydrogen along quasar sight lines
+- [[Lyman-alpha forest\|Lyman-α forest]] — neutral hydrogen along quasar sight lines
 - [[Missing baryons]] — WHIM, warm-hot intergalactic medium
 
 ---
@@ -269,15 +269,15 @@ Pablo's lecture series (31 March – 3 April):
 
 Canonical and modern arXiv astro-ph.CO benchmark papers underlying the BAO and weak-lensing techniques above.
 
-- [[Eisenstein_2005_BAO_Detection_SDSS_LRGs|Eisenstein et al. (2005) — BAO Detection in SDSS LRGs]] — first BAO detection, the sound horizon as a standard ruler
-- [[DESI_2024_BAO_Cosmological_Constraints|DESI Collaboration (2024) — DESI 2024 VI: BAO Cosmological Constraints]] — multi-redshift BAO, hint of dynamical dark energy ($w_0,w_a$)
-- [[Bartelmann_Schneider_2001_Weak_Gravitational_Lensing|Bartelmann & Schneider (2001) — Weak Gravitational Lensing]] — convergence/shear formalism, cosmic shear power spectrum
+- [[Eisenstein_2005_BAO_Detection_SDSS_LRGs\|Eisenstein et al. (2005) — BAO Detection in SDSS LRGs]] — first BAO detection, the sound horizon as a standard ruler
+- [[DESI_2024_BAO_Cosmological_Constraints\|DESI Collaboration (2024) — DESI 2024 VI: BAO Cosmological Constraints]] — multi-redshift BAO, hint of dynamical dark energy ($w_0,w_a$)
+- [[Bartelmann_Schneider_2001_Weak_Gravitational_Lensing\|Bartelmann & Schneider (2001) — Weak Gravitational Lensing]] — convergence/shear formalism, cosmic shear power spectrum
 
 ---
 
 ## Appendices and tools
 
-- [[Cosmology calculator - how to use H0 Omega_m Omega_Lambda to get dL dA t_lookback|Cosmology calculator — how to use H0 Ω_m Ω_Λ to get d_L, d_A, t_lookback]]
+- [[Cosmology calculator - how to use H0 Omega_m Omega_Lambda to get dL dA t_lookback\|Cosmology calculator — how to use H0 Ω_m Ω_Λ to get d_L, d_A, t_lookback]]
 - [[Surveys to remember]] — 2dFGRS, SDSS, DEEP-2, BOSS, WiggleZ, WFMOS, 4MOST
 - [[Space and ground facilities relevant for OC]] — HST, Chandra, XMM, Spitzer, Herschel, JWST, Keck, VLT, Subaru, LBT, GTC, ALMA; upcoming ELT, SKA
 

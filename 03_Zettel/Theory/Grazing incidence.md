@@ -41,12 +41,12 @@ If you tried to build a lens,
 		that the focal point ends up tens of meters away
 			which is too far for a single spacecraft.
   Making the lens thicker to compensate does not help either,
-	  because the X-rays would simply be absorbed before passing through due to the large [[Photoelectric absorption|absorption coefficient]] 
+	  because the X-rays would simply be absorbed before passing through due to the large [[Photoelectric absorption\|absorption coefficient]] 
 		So lenses are completely ruled out.
 
   The only option is mirrors, 
 	  but even there, $\delta$ being so small means a mirror at normal incidence reflects almost nothing
-  The solution is to hit the mirror at an extremely shallow angle, known as [[Grazing incidence|grazing incidence]]
+  The solution is to hit the mirror at an extremely shallow angle, known as [[Grazing incidence\|grazing incidence]]
 	  where total external reflection becomes possible
 
 **This is why X-ray telescopes look fundamentally different from optical ones**,

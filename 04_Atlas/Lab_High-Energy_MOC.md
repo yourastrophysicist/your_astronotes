@@ -115,10 +115,10 @@ The extreme sources we observe.
 
 Canonical and modern arXiv astro-ph.HE benchmark papers underlying the accretion, jet, and reverberation physics above.
 
-- [[Shakura_Sunyaev_1973_Thin_Accretion_Disk_Theory|Shakura & Sunyaev (1973) — Black Holes in Binary Systems]] — $\alpha$-disk theory, $T(r)\propto r^{-3/4}$ derivation
-- [[Blandford_Znajek_1977_Electromagnetic_Extraction_Kerr_BH|Blandford & Znajek (1977) — Electromagnetic Extraction from Kerr Black Holes]] — spin-powered jet mechanism, membrane paradigm
-- [[Fabian_2009_Broad_Iron_Line_Reverberation_1H0707-495|Fabian et al. (2009) — Broad Iron Line Reverberation in 1H0707-495]] — X-ray reverberation lag, compact corona geometry
-- [[Blandford_Meier_Readhead_2019_Relativistic_AGN_Jets|Blandford, Meier & Readhead (2019) — Relativistic Jets from Active Galactic Nuclei]] — unified jet-launching review, MAD state, blazar beaming
+- [[Shakura_Sunyaev_1973_Thin_Accretion_Disk_Theory\|Shakura & Sunyaev (1973) — Black Holes in Binary Systems]] — $\alpha$-disk theory, $T(r)\propto r^{-3/4}$ derivation
+- [[Blandford_Znajek_1977_Electromagnetic_Extraction_Kerr_BH\|Blandford & Znajek (1977) — Electromagnetic Extraction from Kerr Black Holes]] — spin-powered jet mechanism, membrane paradigm
+- [[Fabian_2009_Broad_Iron_Line_Reverberation_1H0707-495\|Fabian et al. (2009) — Broad Iron Line Reverberation in 1H0707-495]] — X-ray reverberation lag, compact corona geometry
+- [[Blandford_Meier_Readhead_2019_Relativistic_AGN_Jets\|Blandford, Meier & Readhead (2019) — Relativistic Jets from Active Galactic Nuclei]] — unified jet-launching review, MAD state, blazar beaming
 
 ---
 

@@ -49,7 +49,7 @@ Before any astrophysics, just *how do we point at the sky*. this block is geomet
 - [[Equatorial system]] — celestial equator and pole, vernal equinox $\gamma$, right ascension $\alpha$, declination $\delta$, hour angle $h$, sidereal time $\Theta = h + \alpha$, independent of observer location, catalogable standard epochs (J2000.0) (`sphereastro-24` to `29`).
 - [[Sidereal vs solar time]] — sidereal day ($23^{\rm h}56^{\rm m}04^{\rm s}$) vs solar day ($24^{\rm h}00^{\rm m}00^{\rm s}$), Earth's orbital revolution causes sidereal time to gain $\sim 3^{\rm m}56^{\rm s}$ per day (`sphereastro-28`).
 - [[Alt-azimuth ↔ equatorial transformations]] — direct and inverse conversion formulas: $\sin h \cos\delta = \sin A \cos a$, $\cos h \cos\delta = \cos A \cos a \sin\phi + \sin a \cos\phi$, $\sin\delta = -\cos A \cos a \cos\phi + \sin a \sin\phi$ (`sphereastro-30` to `32`).
-- [[Culmination and rise-set|Culmination and rise/set]] — upper culmination $a_{\text{max}}$, lower culmination $a_{\text{min}}$, rise/set condition $\cos h_{s,t} = -\tan\delta\tan\phi$, circumpolar condition $\delta + \phi > 90^\circ$, never visible condition $\delta < \phi - 90^\circ$.
+- [[Culmination and rise-set\|Culmination and rise/set]] — upper culmination $a_{\text{max}}$, lower culmination $a_{\text{min}}$, rise/set condition $\cos h_{s,t} = -\tan\delta\tan\phi$, circumpolar condition $\delta + \phi > 90^\circ$, never visible condition $\delta < \phi - 90^\circ$.
 
 ### Part 2: Ecliptic, Galactic frames, and astrometric corrections (Slides `sphereastro2-01` to `27`)
 - [[Ecliptic system]] — Earth's orbital plane, obliquity $\varepsilon \approx 23^\circ 27'$, ecliptic longitude $\lambda$, ecliptic latitude $\beta$, equinoxes, solstices, annual solar motion, zodiacal light (`sphereastro2-02` to `04`).
@@ -147,7 +147,7 @@ The homogeneous, isotropic universe, cosmic inventory, and the geometry and dyna
 - [[Hubble constant and deceleration parameter]] — current expansion rate $H_0$, deceleration parameter $q_0 \equiv -\frac{\ddot{a} a}{\dot{a}^2} = \frac{1}{2}\Omega_m - \Omega_\Lambda$, negative $q_0$ confirms accelerating expansion.
 - [[Cosmological distances]] — comoving distance $\chi(z) = \int_0^z \frac{c \, dz'}{H(z')}$, proper distance, angular diameter distance $d_A = \frac{S_k(\chi)}{1+z}$, luminosity distance $d_L = (1+z) S_k(\chi) = (1+z)^2 d_A$ (Etherington reciprocity relation).
 - [[Newtonian Friedmann derivation]] — expanding spherical mass shell argument, total energy conservation, kinetic energy vs gravitational potential energy, deriving $\dot{a}^2 = \frac{8\pi G\rho_0}{3} a^{-1} - k c^2$.
-- [[Friedmann equations with Lambda|Friedmann equations with Λ]] — full relativistic Einstein field equations with cosmological constant $G_{\mu\nu} + \Lambda g_{\mu\nu} = \frac{8\pi G}{c^4} T_{\mu\nu}$ applied to perfect fluid $T^\mu_\nu = \text{diag}(\rho c^2, -P, -P, -P)$:
+- [[Friedmann equations with Lambda\|Friedmann equations with Λ]] — full relativistic Einstein field equations with cosmological constant $G_{\mu\nu} + \Lambda g_{\mu\nu} = \frac{8\pi G}{c^4} T_{\mu\nu}$ applied to perfect fluid $T^\mu_\nu = \text{diag}(\rho c^2, -P, -P, -P)$:
   $$\boxed{\, H^2 = \left(\frac{\dot{a}}{a}\right)^2 = \frac{8\pi G}{3}\rho - \frac{k c^2}{a^2} + \frac{\Lambda c^2}{3} \,}$$
   $$\boxed{\, \frac{\ddot{a}}{a} = -\frac{4\pi G}{3}\left(\rho + \frac{3P}{c^2}\right) + \frac{\Lambda c^2}{3} \,}$$
 - [[Friedmann models]] — fluid continuity equation $\dot\rho + 3H(\rho + P/c^2) = 0$, scaling laws: radiation $\rho_r \propto a^{-4}$, matter $\rho_m \propto a^{-3}$, vacuum energy $\rho_\Lambda = \text{const}$, analytic solutions (Einstein-de Sitter, radiation-dominated, de Sitter exponential expansion).
@@ -183,7 +183,7 @@ Thermodynamics of expanding plasma, decoupling, Big Bang Nucleosynthesis, and re
 - [[Photon decoupling and CMB]] — Thomson scattering optical depth $\tau(t) = \int \sigma_T n_e c \, dt$, scattering rate drops below expansion rate $\Gamma_T \approx H$ at $z_{\text{dec}} \approx 1100$, last scattering surface (LSS), photons free-stream across expanding universe, cooled by redshift to $T_0 = T_{\text{dec}} / (1 + z) = 3000\text{ K} / 1100 = 2.725$ K today.
 - [[Boltzmann equation in cosmology]] — classical and relativistic Boltzmann equation $L[f] = C[f]$, Liouville operator in FRW spacetime, collision terms, applications to particle freeze-out, relic abundance calculations, and recombination.
 - [[Hot vs cold dark matter]] — relativistic at freeze-out (Hot Dark Matter, HDM: neutrinos, free-streaming damping wiping out small-scale structures, top-down scenario ruled out by observations) vs non-relativistic at freeze-out (Cold Dark Matter, CDM: WIMPs, axions, hierarchical bottom-up structure formation).
-- [[Dark matter relics - WIMP miracle|Dark matter relics — WIMP miracle]] — thermal freeze-out calculation for weakly interacting massive particles, relic density $\Omega_\chi h^2 \approx \frac{3 \times 10^{-27} \text{ cm}^3\text{ s}^{-1}}{\langle\sigma v\rangle}$, typical electroweak cross section naturally yields $\Omega_{\text{dm}} h^2 \sim 0.12$.
+- [[Dark matter relics - WIMP miracle\|Dark matter relics — WIMP miracle]] — thermal freeze-out calculation for weakly interacting massive particles, relic density $\Omega_\chi h^2 \approx \frac{3 \times 10^{-27} \text{ cm}^3\text{ s}^{-1}}{\langle\sigma v\rangle}$, typical electroweak cross section naturally yields $\Omega_{\text{dm}} h^2 \sim 0.12$.
 
 ---
 
@@ -203,10 +203,10 @@ From primordial quantum fluctuations to linear perturbation growth, gravitationa
 
 Canonical and modern arXiv astro-ph.CO benchmark papers underlying the thermal-history and distance-ladder physics above.
 
-- [[Peebles_1968_Recombination_of_the_Primeval_Plasma|Peebles (1968) — Recombination of the Primeval Plasma]] — non-equilibrium recombination, the Peebles $C$-factor and $2s$-$1s$ bottleneck
-- [[Fields_Molaro_Sarkar_2020_BBN_After_Planck|Fields, Molaro & Sarkar (2020) — BBN After Planck]] — parameter-free BBN test, the persistent lithium problem
-- [[Planck_Collaboration_2020_Cosmological_Parameters|Planck Collaboration (2020) — Planck 2018 VI: Cosmological Parameters]] — base $\Lambda$CDM parameters, model-dependent $H_0$
-- [[Riess_2022_SH0ES_Hubble_Constant|Riess et al. (2022) — SH0ES $H_0$ Measurement]] — distance-ladder $H_0$, the $5\sigma$ Hubble tension
+- [[Peebles_1968_Recombination_of_the_Primeval_Plasma\|Peebles (1968) — Recombination of the Primeval Plasma]] — non-equilibrium recombination, the Peebles $C$-factor and $2s$-$1s$ bottleneck
+- [[Fields_Molaro_Sarkar_2020_BBN_After_Planck\|Fields, Molaro & Sarkar (2020) — BBN After Planck]] — parameter-free BBN test, the persistent lithium problem
+- [[Planck_Collaboration_2020_Cosmological_Parameters\|Planck Collaboration (2020) — Planck 2018 VI: Cosmological Parameters]] — base $\Lambda$CDM parameters, model-dependent $H_0$
+- [[Riess_2022_SH0ES_Hubble_Constant\|Riess et al. (2022) — SH0ES $H_0$ Measurement]] — distance-ladder $H_0$, the $5\sigma$ Hubble tension
 
 ---
 

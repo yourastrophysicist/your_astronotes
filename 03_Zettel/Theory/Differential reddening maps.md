@@ -2,7 +2,7 @@
 layout: "default"
 title: "Differential reddening maps"
 ---
-**differential reddening (DR)** is the spatial variation in interstellar reddening $E(B-V)$ across a star cluster field, caused by patchy dust distribution along the line of sight. it artificially broadens cluster sequences (MS, RGB, HB) on the CMD and can mimic [[Multiple populations in GCs discovery|multiple populations]] or metallicity spreads. a high-resolution DR map allows correction.
+**differential reddening (DR)** is the spatial variation in interstellar reddening $E(B-V)$ across a star cluster field, caused by patchy dust distribution along the line of sight. it artificially broadens cluster sequences (MS, RGB, HB) on the CMD and can mimic [[Multiple populations in GCs discovery\|multiple populations]] or metallicity spreads. a high-resolution DR map allows correction.
 
 ## the Milone et al. 2012 method
 

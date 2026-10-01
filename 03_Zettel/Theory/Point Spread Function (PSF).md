@@ -55,7 +55,7 @@ HPD is defined by $EEF(\theta_{HPD}/2) = 0.5$
 
 ## PSF in X-ray telescopes
 
-For [[Wolter Telescope|Wolter I]] telescopes, the PSF is **not** set by diffraction
+For [[Wolter Telescope\|Wolter I]] telescopes, the PSF is **not** set by diffraction
 	at X-ray wavelengths ($\lambda \sim 0.1$–$10$ nm), the diffraction limit is $\ll 0.01''$ for any reasonable aperture
 		the PSF is dominated entirely by **geometric and manufacturing imperfections**
 
@@ -88,7 +88,7 @@ this is why Chandra (HPD $0.5''$) is ideal for faint sources in crowded fields
 
 ## PSF in gratings and spectroscopy
 
-For [[X-ray diffraction grating|X-ray gratings]], the PSF of the telescope directly determines the **spectral resolving power**:
+For [[X-ray diffraction grating\|X-ray gratings]], the PSF of the telescope directly determines the **spectral resolving power**:
 $$R = \frac{\lambda}{\Delta\lambda} = \frac{\tan\theta}{\Delta\theta}$$
 
 where $\Delta\theta$ comes from the PSF angular width

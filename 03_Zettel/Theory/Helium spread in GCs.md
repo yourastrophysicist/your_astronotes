@@ -10,7 +10,7 @@ helium lines (He I $\lambda 5876, 4471, 10830$) are excitable only in stars with
 - hot horizontal branch stars (where measured He shows complex behaviour from gravitational settling + radiative levitation, not the photospheric birth value)
 - blue hook stars in extreme HBs
 
-so the inference for cool stars is **structural**: how does adding helium change the star's interior + therefore its position in the [[Color-magnitude diagrams of clusters|CMD]]?
+so the inference for cool stars is **structural**: how does adding helium change the star's interior + therefore its position in the [[Color-magnitude diagrams of clusters\|CMD]]?
 
 ## structural effects of enhanced Y
 
@@ -50,7 +50,7 @@ in [[Photometric chromosome maps]] the $\Delta_{F275W, F814W}$ axis is essential
 
 ## why He enhancement is unavoidable
 
-any nuclear polluter that produces Na-O, CN, or MgAl signatures must by stoichiometry also produce $^4\text{He}$. the question is not whether 2G is He-rich but how rich. the observed magnitude of $\Delta Y \sim 0.10$-$0.15$ is one of the tightest constraints on [[Polluter scenarios for second-generation GC stars|polluter scenarios]]:
+any nuclear polluter that produces Na-O, CN, or MgAl signatures must by stoichiometry also produce $^4\text{He}$. the question is not whether 2G is He-rich but how rich. the observed magnitude of $\Delta Y \sim 0.10$-$0.15$ is one of the tightest constraints on [[Polluter scenarios for second-generation GC stars\|polluter scenarios]]:
 - AGB hot bottom burning naturally produces $Y \sim 0.36$-$0.38$ in ejecta, marginally enough
 - fast-rotating massive stars can reach $Y \sim 0.40$ but with chemistry mismatches
 - supermassive stars ($> 10^4\, M_\odot$) reach $Y \sim 0.4$-$0.5$ trivially

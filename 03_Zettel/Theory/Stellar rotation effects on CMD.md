@@ -2,7 +2,7 @@
 layout: "default"
 title: "Stellar rotation effects on CMD"
 ---
-stellar rotation is the most-overlooked physical effect in classical CMD analysis. for slow rotators ($v/v_{\rm crit} < 0.3$) it is negligible. for fast rotators ($v/v_{\rm crit} > 0.5$, common in B + early A stars), it shifts the star's position on the CMD by tenths of a magnitude in colour + magnitude. this matters for [[Extended main sequence turn-off eMSTO|eMSTO]] interpretation + for the [[Splitting of the upper MS in young clusters|split upper MS]] in young clusters.
+stellar rotation is the most-overlooked physical effect in classical CMD analysis. for slow rotators ($v/v_{\rm crit} < 0.3$) it is negligible. for fast rotators ($v/v_{\rm crit} > 0.5$, common in B + early A stars), it shifts the star's position on the CMD by tenths of a magnitude in colour + magnitude. this matters for [[Extended main sequence turn-off eMSTO\|eMSTO]] interpretation + for the [[Splitting of the upper MS in young clusters\|split upper MS]] in young clusters.
 
 ## the four physical effects
 
@@ -43,7 +43,7 @@ at $v\sin i \sim 200$ km/s, line broadening is $\sim 0.4$ Å in optical, blendin
 
 prolonged rotational mixing slowly raises the surface He abundance. for $v/v_{\rm crit} = 0.5$ over $1$ Gyr, $\Delta Y$ at the surface can reach $\sim 0.02$-$0.05$. for fast rotators in young clusters, the He enhancement contributes to colour shifts (He-rich envelopes are more transparent to UV).
 
-D'Antona et al. 2015 argued this connects rotation to the [[Helium spread in GCs|He spread]] in old GCs: rotation today $\to$ surface He-rich tomorrow $\to$ helium-rich main-sequence stars persistent over Gyrs.
+D'Antona et al. 2015 argued this connects rotation to the [[Helium spread in GCs\|He spread]] in old GCs: rotation today $\to$ surface He-rich tomorrow $\to$ helium-rich main-sequence stars persistent over Gyrs.
 
 ## the observable signatures
 

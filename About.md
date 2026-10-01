@@ -27,44 +27,44 @@ This project transforms an interconnected graduate study vault into an open-acce
 The vault covers ten primary lecture courses and laboratory modules:
 
 ### Semester 1: Foundations
-1. **[[Fundamentals_Astrophysics_Cosmology_MOC|Fundamentals of Astrophysics and Cosmology]]**
+1. **[[Fundamentals_Astrophysics_Cosmology_MOC\|Fundamentals of Astrophysics and Cosmology]]**
    Prof. G. Rodighiero & Prof. M. Viel  
    Spherical astronomy, coordinate transformations, radiation mechanisms, stellar magnitudes, galactic components, Hubble expansion, and thermal history.
 
-2. **[[Observational_Astrophysics_MOC|Observational Astrophysics]]**
+2. **[[Observational_Astrophysics_MOC\|Observational Astrophysics]]**
    Prof. E. Giro & Prof. G. Umbriaco  
    Atmospheric extinction and seeing, optical and infrared detector architectures, CCD quantum efficiency, noise budgets, signal-to-noise calculations, and photometric systems.
 
-3. **[[General_Relativity_MOC|General Relativity for Astrophysics]]**
+3. **[[General_Relativity_MOC\|General Relativity for Astrophysics]]**
    Prof. S. Matarrese & Cambridge Baumann  
    Differential geometry, curved manifolds, Christoffel symbols, Riemann curvature tensor, Einstein field equations, Schwarzschild metric, geodesics, and gravitational radiation.
 
-4. **[[Mathematical_Numerical_Methods_MOC|Mathematical and Numerical Methods]]**
+4. **[[Mathematical_Numerical_Methods_MOC\|Mathematical and Numerical Methods]]**
    Prof. M. Mapelli  
    Matrix decomposition, root-finding, numerical quadrature, ordinary differential equation solvers (Runge-Kutta, symplectic integrators), and Monte Carlo techniques.
 
-5. **[[Lab_High-Energy_MOC|Astrophysics Laboratory 1 (High Energy)]]**
+5. **[[Lab_High-Energy_MOC\|Astrophysics Laboratory 1 (High Energy)]]**
    Prof. L. Burderi  
    Non-thermal radiation processes (synchrotron, inverse Compton, relativistic bremsstrahlung), grazing-incidence X-ray optics, scintillation crystals, solid-state detectors, and space observatory data reduction.
 
 ### Semester 2: Stars, Galaxies, and Cosmology
-6. **[[Astrophysics_of_Galaxies_MOC|Astrophysics of Galaxies]]**
+6. **[[Astrophysics_of_Galaxies_MOC\|Astrophysics of Galaxies]]**
    Prof. A. Moretti  
    Surface photometry (Sérsic, de Vaucouleurs), stellar dynamics, collisionless Boltzmann equation, Jeans equations, dark matter haloes, and scaling relations.
 
-7. **[[Stellar_Astrophysics_MOC|Stellar Astrophysics]]**
+7. **[[Stellar_Astrophysics_MOC\|Stellar Astrophysics]]**
    Prof. A. Milone  
    Stellar structure differential equations, equation of state, nuclear fusion cycles (pp chains, CNO, triple-alpha), radiative atmospheres, opacity, and stellar population synthesis.
 
-8. **[[Astronomical_Interferometry_MOC|Astronomical Interferometry]]**
+8. **[[Astronomical_Interferometry_MOC\|Astronomical Interferometry]]**
    Prof. C. Pernechele  
    Spatial coherence theory, van Cittert-Zernike theorem, Fourier synthesis imaging, aperture synthesis, visibility functions, dirty beams, CLEAN algorithms, ALMA, and the VLTI.
 
-9. **[[Observational_Cosmology_MOC|Observational Cosmology]]**
+9. **[[Observational_Cosmology_MOC\|Observational Cosmology]]**
    Prof. M. Viel & Prof. P. Vielva  
    FLRW metric dynamics, Friedmann acceleration equations, cosmological distance ladder, cosmic microwave background physics, big bang nucleosynthesis, and dark energy phenomenology.
 
-10. **[[Astronomical_Spectroscopy_MOC|Astronomical Spectroscopy]]**
+10. **[[Astronomical_Spectroscopy_MOC\|Astronomical Spectroscopy]]**
     Prof. S. Ciroi  
     Quantum atomic transitions, selection rules, thermal and pressure broadening, optical grating physics, spectrograph designs, slit geometry, and radial velocity measurements.
 
@@ -75,7 +75,7 @@ The vault covers ten primary lecture courses and laboratory modules:
 
 The vault is organized following an interconnected Zettelkasten framework:
 
-* **04_Atlas/**: 10 comprehensive course Maps of Content and the central [[04_Atlas|04_Atlas Hub]]. Start here for curricular syllabi and course roadmaps.
+* **04_Atlas/**: 10 comprehensive course Maps of Content and the central [[04_Atlas\|04_Atlas Hub]]. Start here for curricular syllabi and course roadmaps.
 * **02_Literature/**: Detailed lecture syntheses, slide transcriptions, and reference literature breakdowns across all courses.
 * **03_Zettel/**: Over 1,300 atomic concept notes. Each note focuses on a discrete physical principle, derivation, or computational method with bilateral cross-links.
 * **assets/images/**: 2,870 high-resolution astronomical diagrams, instrument schematics, ray tracings, and observational data plots.
