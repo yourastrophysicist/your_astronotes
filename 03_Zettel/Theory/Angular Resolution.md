@@ -41,7 +41,7 @@ $$\sigma_{diff} \approx 1.22\lambda/D$$
 At X-ray energies: $\sigma_{diff} \sim 10^{-4}$–$10^{-3}$ arcsec — **completely negligible**
 
 ### Geometric aberrations ($\sigma_{geom}$)
-For a [[Wolter Telescope|Wolter I]] telescope, the on-axis coma and field curvature
+For a [[Wolter Telescope\|Wolter I]] telescope, the on-axis coma and field curvature
 	from the formula for the blur circle radius at off-axis angle $\theta$ and graze angle $\alpha$:
 $$\sigma_{blur} \simeq 0.2\frac{\tan^2\theta}{\tan\alpha}\left(\frac{L}{f}\right) + 4\tan\theta\tan^2\alpha$$
 

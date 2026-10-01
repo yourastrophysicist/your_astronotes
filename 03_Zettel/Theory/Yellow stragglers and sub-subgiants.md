@@ -2,13 +2,13 @@
 layout: "default"
 title: "Yellow stragglers and sub-subgiants"
 ---
-besides [[Blue stragglers in star clusters|blue stragglers]], [[Color-magnitude diagrams of clusters|cluster CMDs]] reveal two further peculiar populations whose origin is also tied to [[Binary star orbits|binary]] evolution: **yellow stragglers** (YSS) and **sub-subgiants** (SSG, also called **red stragglers**).
+besides [[Blue stragglers in star clusters\|blue stragglers]], [[Color-magnitude diagrams of clusters\|cluster CMDs]] reveal two further peculiar populations whose origin is also tied to [[Binary star orbits\|binary]] evolution: **yellow stragglers** (YSS) and **sub-subgiants** (SSG, also called **red stragglers**).
 
 **yellow stragglers**
 
-YSS sit redward of the MSTO but bluer than the [[Red giant branch RGB|RGB]] and brighter than the [[Subgiant branch SGB|SGB]]. they occupy the "Hertzsprung gap" of the cluster CMD, a region rapidly traversed by single-star evolution and therefore normally underpopulated.
+YSS sit redward of the MSTO but bluer than the [[Red giant branch RGB\|RGB]] and brighter than the [[Subgiant branch SGB\|SGB]]. they occupy the "Hertzsprung gap" of the cluster CMD, a region rapidly traversed by single-star evolution and therefore normally underpopulated.
 
-interpretation: YSS are evolved descendants of [[Blue stragglers in star clusters|blue stragglers]]. once a BSS exhausts central H, it crosses to the giant branch like any other star but starts from a higher mass and luminosity, ending up offset from the standard cluster track. simulations of [[Blue straggler formation channels|binary mass transfer]] products predict a YSS phase lasting $\sim 10^7\text{--}10^8$ yr, consistent with the small numbers observed (a few per cluster).
+interpretation: YSS are evolved descendants of [[Blue stragglers in star clusters\|blue stragglers]]. once a BSS exhausts central H, it crosses to the giant branch like any other star but starts from a higher mass and luminosity, ending up offset from the standard cluster track. simulations of [[Blue straggler formation channels\|binary mass transfer]] products predict a YSS phase lasting $\sim 10^7\text{--}10^8$ yr, consistent with the small numbers observed (a few per cluster).
 
 YSS act as the "smoking gun" linking BSS to the rest of stellar evolution: if BSS are real higher-mass MS stars, their descendants must populate the YSS region.
 
@@ -27,9 +27,9 @@ surveys of [[Open clusters]] (e.g. M67, NGC 6791) and [[Globular Clusters]] (e.g
 
 **rarity and significance**
 
-both YSS and SSG are rare: typically a handful per cluster, $\lesssim 1\%$ of the BSS population. they survive only briefly because they are short-lived evolutionary phases. their numbers nevertheless calibrate binary stellar evolution codes (BSE, MESA, COMPAS) and constrain the long-term fate of [[Cluster binary fraction methods|cluster binaries]].
+both YSS and SSG are rare: typically a handful per cluster, $\lesssim 1\%$ of the BSS population. they survive only briefly because they are short-lived evolutionary phases. their numbers nevertheless calibrate binary stellar evolution codes (BSE, MESA, COMPAS) and constrain the long-term fate of [[Cluster binary fraction methods\|cluster binaries]].
 
-YSS, SSG, [[Blue stragglers in star clusters|BSS]], [[Cataclysmic variables in clusters|CVs]], and [[Millisecond pulsars in GCs|MSPs]] together form an inter-related family: products of the same dynamically processed binary populations that make GC cores so much weirder than the field.
+YSS, SSG, [[Blue stragglers in star clusters\|BSS]], [[Cataclysmic variables in clusters\|CVs]], and [[Millisecond pulsars in GCs\|MSPs]] together form an inter-related family: products of the same dynamically processed binary populations that make GC cores so much weirder than the field.
 
 ## see also
 - [[Stellar_Astrophysics_MOC]]

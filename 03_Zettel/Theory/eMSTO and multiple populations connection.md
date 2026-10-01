@@ -4,7 +4,7 @@ title: "eMSTO and multiple populations connection"
 ---
 one of the deepest open questions of the course: are **young eMSTO clusters** ($\sim 1$-$2$ Gyr LMC + SMC clusters with broadened MS turn-offs from stellar rotation) and **old GCs with multiple populations** ($> 10$ Gyr clusters with Na-O anti-correlations + He spreads + chromosome maps) the SAME phenomenon, observed at different stages of cluster evolution? or are they fundamentally different?
 
-this question matters because the answer determines whether [[Multiple populations in GCs discovery|MPs in old GCs]] are a primordial phenomenon set at cluster formation, or whether they emerge from continuous secular evolution of the stellar population.
+this question matters because the answer determines whether [[Multiple populations in GCs discovery\|MPs in old GCs]] are a primordial phenomenon set at cluster formation, or whether they emerge from continuous secular evolution of the stellar population.
 
 ## the parallel observation
 

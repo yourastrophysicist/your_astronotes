@@ -2,14 +2,14 @@
 layout: "default"
 title: "Cluster binary fraction methods"
 ---
-how do we actually measure the [[Binary stars in CMD|binary fraction]] $f_b$ of a star cluster? two complementary families of methods exist, photometric and spectroscopic, and they probe different parts of the binary period and mass-ratio distribution.
+how do we actually measure the [[Binary stars in CMD\|binary fraction]] $f_b$ of a star cluster? two complementary families of methods exist, photometric and spectroscopic, and they probe different parts of the binary period and mass-ratio distribution.
 
 **photometric: the double main sequence**
 
 if the cluster CMD is deep and clean enough, unresolved binaries form a strip parallel to and brighter than the Main sequence, reaching $\Delta m \approx 0.75$ mag at $q = 1$. the recipe is:
 
 1. construct a fiducial single-star MS ridge line from the data,
-2. simulate a synthetic population of singles + binaries with a chosen [[Stellar mass function|IMF]] and a mass-ratio distribution $f(q)$,
+2. simulate a synthetic population of singles + binaries with a chosen [[Stellar mass function\|IMF]] and a mass-ratio distribution $f(q)$,
 3. add realistic photometric errors and Differential reddening,
 4. compare star counts in the binary strip vs the single-star ridge.
 
@@ -25,7 +25,7 @@ multi-epoch spectra of cluster members reveal binaries through periodic shifts i
 - compute the RV for each star at each epoch,
 - flag stars with RV variations exceeding $n \sigma$ (typically $3 \sigma$) above measurement scatter as binary candidates.
 
-this picks up close binaries with periods up to a few years. the approach is well suited to [[Open clusters]] and to the brighter [[Red giant branch RGB]] of [[Globular Clusters]] (e.g. MUSE surveys of $\omega$ Cen, NGC 3201, NGC 6397). it is the only way to access the orbital period and to confirm [[Hunting BHs via radial velocities|dark-companion binaries]].
+this picks up close binaries with periods up to a few years. the approach is well suited to [[Open clusters]] and to the brighter [[Red giant branch RGB]] of [[Globular Clusters]] (e.g. MUSE surveys of $\omega$ Cen, NGC 3201, NGC 6397). it is the only way to access the orbital period and to confirm [[Hunting BHs via radial velocities\|dark-companion binaries]].
 
 caveats: short-period binaries dominate the detection; long-period (months to years) systems require long baselines; binaries at apastron or with low inclination produce small RV signals.
 
@@ -35,7 +35,7 @@ caveats: short-period binaries dominate the detection; long-period (months to ye
 - [[Open clusters]]: $f_b \sim 30\text{--}50\%$, similar to the field MS.
 - young clusters and PMS regions: $f_b$ can exceed 50% because binaries have not yet been processed dynamically.
 
-the binary fraction is not a single number. it depends on cluster age, density, and the specific period range probed. it controls the rates of [[Blue stragglers in star clusters|blue straggler]] formation, [[Cataclysmic variables in clusters|CV]] production, and [[Millisecond pulsars in GCs|MSP]] recycling, so getting it right matters for the whole exotic-object zoo of GCs.
+the binary fraction is not a single number. it depends on cluster age, density, and the specific period range probed. it controls the rates of [[Blue stragglers in star clusters\|blue straggler]] formation, [[Cataclysmic variables in clusters\|CV]] production, and [[Millisecond pulsars in GCs\|MSP]] recycling, so getting it right matters for the whole exotic-object zoo of GCs.
 
 ## see also
 - [[Stellar_Astrophysics_MOC]]

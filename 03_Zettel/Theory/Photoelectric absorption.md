@@ -4,7 +4,7 @@ title: "Photoelectric absorption"
 ---
 # X-ray Photoelectric Absorption
 
-In the complex [[Grazing incidence|refractive index]] of a material:
+In the complex [[Grazing incidence\|refractive index]] of a material:
 $$n = 1 - \delta + i\beta$$
 the imaginary part $\beta$ is directly related to **photoelectric absorption**.  
 It describes how X-ray photons are attenuated as they travel through matter.
@@ -67,7 +67,7 @@ $$\mu = n_{atoms} \cdot \sigma_{ph}$$
 Because photoelectric absorption is dominant at low X-ray energies:
 - Mirror coatings (e.g. Au, Ir, Pt) are chosen for **low $\beta$** to minimize absorption and maximize reflectivity
 - The **critical angle** $\theta_c \approx \sqrt{2\delta}$ sets the grazing incidence limit, but $\beta$ determines how much intensity is lost even below $\theta_c$
-- Detectors like [[CCDs for X-rays|CCDs]] exploit photoelectric absorption: the incoming photon liberates a charge cloud proportional to $E_{ph}$
+- Detectors like [[CCDs for X-rays\|CCDs]] exploit photoelectric absorption: the incoming photon liberates a charge cloud proportional to $E_{ph}$
 
 ---
 

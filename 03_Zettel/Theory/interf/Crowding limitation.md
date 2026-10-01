@@ -44,7 +44,7 @@ so designing arrays with good (u, v) coverage is partly about *reducing crowding
 
 ## the labyrie hypertelescope solution
 
-[[Hypertelescope|hypertelescope]] schemes (Labeyrie 1996) use **pupil densification** to create a "concentrated" version of the dirty beam — most of the energy in the central peak, with much smaller sidelobes. this reduces crowding and lets sparse arrays image more densely-populated fields.
+[[Hypertelescope\|hypertelescope]] schemes (Labeyrie 1996) use **pupil densification** to create a "concentrated" version of the dirty beam — most of the energy in the central peak, with much smaller sidelobes. this reduces crowding and lets sparse arrays image more densely-populated fields.
 
 essentially: trade some signal-to-noise for a much better PSF.
 

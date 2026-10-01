@@ -4,7 +4,7 @@ title: "Closure amplitude"
 ---
 # Closure amplitude
 
-the amplitude analog of [[Phase closure|phase closure]]. for **four** stations, a particular ratio of visibility amplitudes is **gain-independent**: it depends only on the source. closure amplitudes complement closure phases for the four-or-more-station case, providing additional gain-immune observables.
+the amplitude analog of [[Phase closure\|phase closure]]. for **four** stations, a particular ratio of visibility amplitudes is **gain-independent**: it depends only on the source. closure amplitudes complement closure phases for the four-or-more-station case, providing additional gain-immune observables.
 
 ## the formula
 

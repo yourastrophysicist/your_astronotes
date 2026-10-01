@@ -2,15 +2,15 @@
 layout: "default"
 title: "IMF from cluster luminosity functions"
 ---
-how do we measure the [[Stellar mass function xi(M)|stellar mass function]] in a real cluster? we never observe stellar mass directly: we observe brightness. the conversion proceeds in three steps:
+how do we measure the [[Stellar mass function xi(M)\|stellar mass function]] in a real cluster? we never observe stellar mass directly: we observe brightness. the conversion proceeds in three steps:
 
 1. measure the **luminosity function** (LF), $\Phi(M_V) = dN/dM_V$, by counting stars in magnitude bins,
-2. apply a theoretical or empirical **mass-luminosity relation** $M = M(L)$ from Stellar evolution tracks for the cluster's age and [[Stellar populations I II III|metallicity]],
+2. apply a theoretical or empirical **mass-luminosity relation** $M = M(L)$ from Stellar evolution tracks for the cluster's age and [[Stellar populations I II III\|metallicity]],
 3. use the chain rule:
 
 $$\xi(M) = \frac{dN}{dM} = \Phi(M_V) \, \left\lvert \frac{dM_V}{dM} \right\rvert.$$
 
-the jacobian $\lvert dM_V/dM\rvert$ is the local slope of the [[Mass-luminosity relation|M-L relation]] on the MS.
+the jacobian $\lvert dM_V/dM\rvert$ is the local slope of the [[Mass-luminosity relation\|M-L relation]] on the MS.
 
 **why this is hard at low mass**
 
@@ -20,7 +20,7 @@ the M-L relation flattens as $M \to 0.1\,M_\odot$: a small change in mass produc
 - many low-mass stars accumulate near a "bunching" magnitude,
 - the LF develops a peak at $M_V \approx 11\text{--}12$ in V-band that is **not** a peak in the mass function.
 
-a careful analyst must therefore not confuse the LF peak (artefact of the M-L jacobian) with a peak of the true [[Stellar mass function xi(M)|mass function]]. converting through the jacobian removes the artefact and reveals the underlying $\xi(M)$.
+a careful analyst must therefore not confuse the LF peak (artefact of the M-L jacobian) with a peak of the true [[Stellar mass function xi(M)\|mass function]]. converting through the jacobian removes the artefact and reveals the underlying $\xi(M)$.
 
 the situation reverses at very low mass ($M \lesssim 0.1\,M_\odot$): hydrogen-burning stars merge into the substellar regime, the M-L relation steepens dramatically, and a single-band LF becomes degenerate. multi-band photometry helps break the degeneracy.
 
@@ -28,22 +28,22 @@ the situation reverses at very low mass ($M \lesssim 0.1\,M_\odot$): hydrogen-bu
 
 - pre-HST: ground-based photometry barely reached $0.3\,M_\odot$ in nearby GCs,
 - HST/ACS and WFC3: deep photometry of nearby GCs (NGC 6397, NGC 6752, M4) reaches $\sim 0.1\,M_\odot$, the H-burning limit,
-- [[JWST and the first stars|JWST]] NIRCam: extends to $\sim 0.05\,M_\odot$ and into the substellar/brown-dwarf regime in nearby clusters and the Magellanic clouds.
+- [[JWST and the first stars\|JWST]] NIRCam: extends to $\sim 0.05\,M_\odot$ and into the substellar/brown-dwarf regime in nearby clusters and the Magellanic clouds.
 
 **field-vs-cluster comparison**
 
-in young open clusters (e.g. orion, NGC 6611), the LF is close to the [[Initial vs present-day mass function|IMF]] because relaxation has not yet altered the population. in old [[Globular Clusters|GCs]], the observed LF is strongly modified by mass segregation and evaporation, so the inferred IMF requires forward modelling.
+in young open clusters (e.g. orion, NGC 6611), the LF is close to the [[Initial vs present-day mass function\|IMF]] because relaxation has not yet altered the population. in old [[Globular Clusters\|GCs]], the observed LF is strongly modified by mass segregation and evaporation, so the inferred IMF requires forward modelling.
 
-a useful complement is to fit the cluster LF jointly with [[Color-magnitude diagrams of clusters|CMD]] features (turnoff, [[Red giant branch RGB|RGB]] tip, [[Subgiant branch SGB|SGB]] luminosity) which constrain age and metallicity simultaneously, fixing $M_V(M)$ self-consistently.
+a useful complement is to fit the cluster LF jointly with [[Color-magnitude diagrams of clusters\|CMD]] features (turnoff, [[Red giant branch RGB\|RGB]] tip, [[Subgiant branch SGB\|SGB]] luminosity) which constrain age and metallicity simultaneously, fixing $M_V(M)$ self-consistently.
 
 **uncertainties**
 
 - M-L relation uncertainties (especially at low mass; differences between models reach $\sim 0.05\,M_\odot$),
-- [[Cluster binary fraction methods|unresolved binaries]] inflate the LF at $\sim 0.75$ mag above the single-star ridge and bias the inferred $\xi(M)$,
+- [[Cluster binary fraction methods\|unresolved binaries]] inflate the LF at $\sim 0.75$ mag above the single-star ridge and bias the inferred $\xi(M)$,
 - Differential reddening smears the LF,
 - crowding-induced incompleteness at the faint end (corrected with artificial-star tests).
 
-modern best results give cluster IMFs consistent with [[Salpeter Kroupa Chabrier IMFs|chabrier]] above $0.1\,M_\odot$, with hints of cluster-to-cluster variations at the $\sim 10\text{--}20\%$ level on the low-mass slope.
+modern best results give cluster IMFs consistent with [[Salpeter Kroupa Chabrier IMFs\|chabrier]] above $0.1\,M_\odot$, with hints of cluster-to-cluster variations at the $\sim 10\text{--}20\%$ level on the low-mass slope.
 
 ## see also
 - [[Stellar_Astrophysics_MOC]]

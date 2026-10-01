@@ -31,7 +31,7 @@ bastian + lardo 2018 catalogued these "single-population" clusters + argued the 
 
 why? possible explanations:
 1. **deep potential well needed** to retain polluter ejecta against SN winds + radiation pressure. deeper wells form in more massive proto-clusters, scaling roughly with $\sigma_v^2 \propto M / r$.
-2. **runaway collisions** to form a [[Polluter scenarios for second-generation GC stars|supermassive star]] require very dense initial conditions, which are realized only in massive proto-clusters
+2. **runaway collisions** to form a [[Polluter scenarios for second-generation GC stars\|supermassive star]] require very dense initial conditions, which are realized only in massive proto-clusters
 3. **dilution gas reservoir**: more massive clusters can retain larger gas budgets for the second-generation star formation event
 
 ## the radial + dynamical signatures

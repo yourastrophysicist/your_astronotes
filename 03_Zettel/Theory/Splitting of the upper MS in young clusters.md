@@ -2,7 +2,7 @@
 layout: "default"
 title: "Splitting of the upper MS in young clusters"
 ---
-in young ($\sim 50$-$300$ Myr) LMC clusters, deep HST photometry has revealed that the **upper main sequence is bifurcated** into a blue + a red branch separated by $\sim 0.05$-$0.10$ mag in colour. discovered by Milone et al. 2015, 2018 in NGC 1755, NGC 1850, NGC 1856 + others. this is one of the cleanest pieces of evidence that [[Stellar rotation effects on CMD|stellar rotation]] dominates the [[Extended main sequence turn-off eMSTO|eMSTO]] phenomenon.
+in young ($\sim 50$-$300$ Myr) LMC clusters, deep HST photometry has revealed that the **upper main sequence is bifurcated** into a blue + a red branch separated by $\sim 0.05$-$0.10$ mag in colour. discovered by Milone et al. 2015, 2018 in NGC 1755, NGC 1850, NGC 1856 + others. this is one of the cleanest pieces of evidence that [[Stellar rotation effects on CMD\|stellar rotation]] dominates the [[Extended main sequence turn-off eMSTO\|eMSTO]] phenomenon.
 
 ## the observation
 
@@ -44,7 +44,7 @@ it is plausible that NO single mechanism dominates: the bimodal distribution may
 ## why this is important
 
 the split upper MS is THE cleanest observational signature that rotation matters for cluster CMD morphology. it:
-- decisively rules out a pure age-spread interpretation of the [[Extended main sequence turn-off eMSTO|eMSTO]];
+- decisively rules out a pure age-spread interpretation of the [[Extended main sequence turn-off eMSTO\|eMSTO]];
 - provides a direct empirical handle on the rotation distribution at cluster formation;
 - connects to the He-variation argument for old GC chromosome maps (D'Antona et al. 2015).
 

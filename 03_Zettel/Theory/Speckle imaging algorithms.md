@@ -32,7 +32,7 @@ introduced by Lohmann, Weigelt, and Wirnitzer (1983). compute the **bispectrum**
 
 $$B(\mathbf u, \mathbf v) = \langle \tilde I(\mathbf u) \tilde I(\mathbf v) \tilde I^*(\mathbf u + \mathbf v) \rangle$$
 
-this is the third-order spatial spectrum. atmospheric phases cancel (just like in [[Phase closure|closure phase]]), so the bispectrum is *unbiased* by atmospheric noise.
+this is the third-order spatial spectrum. atmospheric phases cancel (just like in [[Phase closure\|closure phase]]), so the bispectrum is *unbiased* by atmospheric noise.
 
 the bispectrum encodes the source phase up to a global piston. modern algorithms (BSMEM, SQUEEZE) reconstruct images directly from bispectra.
 

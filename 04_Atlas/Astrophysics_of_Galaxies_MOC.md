@@ -362,10 +362,10 @@ Empirical relations revealing virial equilibrium, homology, and star formation e
 
 Canonical and modern arXiv astro-ph.GA/HE benchmark papers underlying the dark-matter halo, luminosity-function, and SMBH-scaling-relation physics above.
 
-- [[Navarro_Frenk_White_1997_NFW_Universal_Density_Profile|Navarro, Frenk & White (1997) — A Universal Density Profile]] — NFW profile, enclosed mass, mass-concentration relation
-- [[Schechter_1976_Galaxy_Luminosity_Function|Schechter (1976) — An Analytic Expression for the Luminosity Function of Galaxies]] — Schechter function, faint-end slope, bright-end cutoff
-- [[Kormendy_Ho_2013_SMBH_Host_Galaxy_Coevolution|Kormendy & Ho (2013) — Coevolution of SMBHs and Host Galaxies]] — $M_\bullet$-$\sigma$ relation, classical bulge vs. pseudobulge
-- [[Peterson_2014_SMBH_Reverberation_Mapping|Peterson (2014) — Measuring the Masses of Supermassive Black Holes]] — reverberation mapping, virial mass estimator, radius-luminosity relation
+- [[Navarro_Frenk_White_1997_NFW_Universal_Density_Profile\|Navarro, Frenk & White (1997) — A Universal Density Profile]] — NFW profile, enclosed mass, mass-concentration relation
+- [[Schechter_1976_Galaxy_Luminosity_Function\|Schechter (1976) — An Analytic Expression for the Luminosity Function of Galaxies]] — Schechter function, faint-end slope, bright-end cutoff
+- [[Kormendy_Ho_2013_SMBH_Host_Galaxy_Coevolution\|Kormendy & Ho (2013) — Coevolution of SMBHs and Host Galaxies]] — $M_\bullet$-$\sigma$ relation, classical bulge vs. pseudobulge
+- [[Peterson_2014_SMBH_Reverberation_Mapping\|Peterson (2014) — Measuring the Masses of Supermassive Black Holes]] — reverberation mapping, virial mass estimator, radius-luminosity relation
 
 ---
 

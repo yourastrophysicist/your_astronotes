@@ -24,9 +24,9 @@ the age of the Galactic bulge directly constrains how the Milky Way formed and e
 
 - **galaxy formation history**: tells us whether the inner Galaxy formed rapidly at early times (collapse, mergers) or more gradually through secular evolution of the disk (bar formation + buckling).
 - **link to cosmology**: if the bulge is predominantly old ($\geq 10$ Gyr), it traces star formation at high redshift and provides a local benchmark for galaxy formation in the early Universe.
-- **chemical evolution**: combined with $[\alpha/{\rm Fe}]$, age constrains the timescale of chemical enrichment and the relative roles of [[Cepheids and supernovae|Type II vs Type Ia supernovae]].
+- **chemical evolution**: combined with $[\alpha/{\rm Fe}]$, age constrains the timescale of chemical enrichment and the relative roles of [[Cepheids and supernovae\|Type II vs Type Ia supernovae]].
 - **structure-evolution connection**: helps disentangle classical bulge vs bar-driven (pseudo-bulge) components.
-- **calibration of stellar populations**: a key laboratory for testing stellar evolution models at high metallicity and for interpreting [[Resolved vs unresolved stellar populations|unresolved stellar populations]] in external galaxies.
+- **calibration of stellar populations**: a key laboratory for testing stellar evolution models at high metallicity and for interpreting [[Resolved vs unresolved stellar populations\|unresolved stellar populations]] in external galaxies.
 
 ## the CMD of the bulge: observational challenges
 

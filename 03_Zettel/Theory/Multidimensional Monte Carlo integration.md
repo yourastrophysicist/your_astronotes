@@ -4,7 +4,7 @@ title: "Multidimensional Monte Carlo integration"
 ---
 # Multidimensional Monte Carlo integration
 
-the formula for [[Monte Carlo integration mean value method|mean-value MC]] generalizes from 1D to any number of dimensions with no change of structure. and crucially, **the convergence rate stays $1/\sqrt{N}$ regardless of dimension**, which is what makes Monte Carlo dominate over deterministic quadrature in high dimensions.
+the formula for [[Monte Carlo integration mean value method\|mean-value MC]] generalizes from 1D to any number of dimensions with no change of structure. and crucially, **the convergence rate stays $1/\sqrt{N}$ regardless of dimension**, which is what makes Monte Carlo dominate over deterministic quadrature in high dimensions.
 
 ## the formula
 

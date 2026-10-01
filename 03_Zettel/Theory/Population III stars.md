@@ -15,7 +15,7 @@ without metals, the gas cooling channels are restricted to:
 
 these are weak compared to metal-line cooling. the consequence: gas in primordial halos cannot fragment into low-mass clouds. simulations (Bromm & Larson 2004 review, ARA&A 42, 79) predict a **top-heavy IMF** with characteristic mass $\langle M \rangle \sim 100\,M_\odot$ and stars potentially up to $1000\,M_\odot$.
 
-this is dramatically different from the [[Salpeter Kroupa Chabrier IMFs|Salpeter/Chabrier IMFs]] of present-day stellar populations.
+this is dramatically different from the [[Salpeter Kroupa Chabrier IMFs\|Salpeter/Chabrier IMFs]] of present-day stellar populations.
 
 ## fates of Pop III stars
 

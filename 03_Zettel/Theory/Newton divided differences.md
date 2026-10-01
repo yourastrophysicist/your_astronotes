@@ -4,7 +4,7 @@ title: "Newton divided differences"
 ---
 # Newton divided differences
 
-an algebraically equivalent rewriting of [[Lagrange polynomial interpolation|Lagrange's polynomial]] that has one practical advantage: I can add a new data point without redoing the whole calculation. instead of $O(N)$ extra work for each new point, only $O(N)$ work *total* and only $O(1)$ when adding one more point at the end.
+an algebraically equivalent rewriting of [[Lagrange polynomial interpolation\|Lagrange's polynomial]] that has one practical advantage: I can add a new data point without redoing the whole calculation. instead of $O(N)$ extra work for each new point, only $O(N)$ work *total* and only $O(1)$ when adding one more point at the end.
 
 ## the form
 

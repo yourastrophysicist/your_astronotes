@@ -58,7 +58,7 @@ where $m_p$ is the proton mass and $\sigma_T$ the Thomson cross-section.
 ---
 
 ## Critical Findings & Scientific Impact
-1. Established the $\alpha$-viscosity prescription still used (with the physical origin of $\alpha$ now attributed to MHD turbulence via the [[Magnetorotational Instability MRI Derivation|magnetorotational instability]], Balbus & Hawley 1991) as the standard closure for accretion-disk angular momentum transport.
+1. Established the $\alpha$-viscosity prescription still used (with the physical origin of $\alpha$ now attributed to MHD turbulence via the [[Magnetorotational Instability MRI Derivation\|magnetorotational instability]], Balbus & Hawley 1991) as the standard closure for accretion-disk angular momentum transport.
 2. Predicted the observationally confirmed multi-temperature blackbody continuum of black-hole and neutron-star X-ray binaries in their soft/thermal-dominant spectral states.
 3. Open problem (acknowledged decades later): the thin-disk model breaks down at high $\dot M/\dot M_{\mathrm{Edd}}$ (slim/ADAF disks) and does not include radial energy advection — addressed by Abramowicz et al. (1988, slim disks) and Narayan & Yi (1994, ADAFs).
 

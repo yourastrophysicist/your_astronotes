@@ -2,7 +2,7 @@
 layout: "default"
 title: "JWST and the first stars"
 ---
-since its 2022 first light, the **James Webb Space Telescope (JWST)** has opened the high-redshift frontier for [[Population III stars|Pop III star]] research. for the first time, the era when the very first stars formed ($z \sim 10$-$20$, $\sim 200$-$500$ Myr after the Big Bang) is directly observationally accessible.
+since its 2022 first light, the **James Webb Space Telescope (JWST)** has opened the high-redshift frontier for [[Population III stars\|Pop III star]] research. for the first time, the era when the very first stars formed ($z \sim 10$-$20$, $\sim 200$-$500$ Myr after the Big Bang) is directly observationally accessible.
 
 ## what JWST adds
 
@@ -44,7 +44,7 @@ JWST has also enabled:
 - **Sparkler galaxy** (Mowla et al. 2022; Adamo + Padova group ongoing) — a lensed $z \sim 1.4$ galaxy in the SMACS 0723 field with star-cluster-like sources around it; possibly first-detected protoglobular clusters formed at $z \sim 9$.
 - **first galaxies = first proto-GC sites**: present-day GCs may form in just-starting galaxies at $z \sim 8$-$15$, providing the link between high-z observations + local GC science.
 
-these observations are the **direct interface** between [[Multiple populations in GCs discovery|multiple-population]] science (Milone's specialty) and high-redshift galaxy formation: present-day GCs may be the fossils of the first JWST-observable starbursts.
+these observations are the **direct interface** between [[Multiple populations in GCs discovery\|multiple-population]] science (Milone's specialty) and high-redshift galaxy formation: present-day GCs may be the fossils of the first JWST-observable starbursts.
 
 ## remaining challenges
 
@@ -58,7 +58,7 @@ upcoming surveys (JWST cycle 4-6 + ELT first light) should resolve these issues.
 
 JWST is closing a $50$-year gap between theoretical Pop III predictions and direct observation. for the Stellar Astrophysics course, this represents:
 
-- the convergence of [[Population III stars|Pop III theory]] + [[Pop III nucleosynthesis signatures|stellar archaeology in UFDGs]] + JWST direct detection;
+- the convergence of [[Population III stars\|Pop III theory]] + [[Pop III nucleosynthesis signatures\|stellar archaeology in UFDGs]] + JWST direct detection;
 - the link between resolved-stellar-population science (the bulk of the course) + high-redshift galaxy formation;
 - the realisation that present-day GCs (Milone's research) may be the surviving fossils of the first galaxies JWST is now imaging.
 

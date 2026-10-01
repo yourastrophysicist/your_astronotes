@@ -31,7 +31,7 @@ $$\mathcal V = \lvert \mathcal V\rvert \, e^{i\phi_V}$$
 - $\lvert \mathcal V\rvert$: the contrast (the magnitude in the formula above)
 - $\phi_V$: the *phase*, which encodes where the fringe pattern is positioned
 
-an interferometer measures both, in principle. in practice, atmospheric turbulence corrupts the phase, leaving only $\lvert \mathcal V\rvert$ measurable directly. the phase must be recovered with [[Phase closure|phase closure]] or similar techniques.
+an interferometer measures both, in principle. in practice, atmospheric turbulence corrupts the phase, leaving only $\lvert \mathcal V\rvert$ measurable directly. the phase must be recovered with [[Phase closure\|phase closure]] or similar techniques.
 
 ## the link to coherence
 

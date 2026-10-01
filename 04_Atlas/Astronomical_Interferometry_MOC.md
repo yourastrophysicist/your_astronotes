@@ -310,9 +310,9 @@ every interferometry exam question maps to one of these boxes. recognising the b
 
 Canonical and modern arXiv astro-ph.IM benchmark papers underlying the interferometric theory and calibration techniques above.
 
-- [[Monnier_2003_Optical_Interferometry_in_Astronomy|Monnier (2003) — Optical Interferometry in Astronomy]] — Van Cittert-Zernike theorem, closure phase/amplitude derivations
-- [[GRAVITY_Collaboration_2018_Orbital_Motion_ISCO_SgrA|GRAVITY Collaboration (2018) — Orbital Motions Near the ISCO of Sgr A*]] — VLTI astrometric phase-referencing, strong-field orbital motion
-- [[ALMA_Partnership_2015_HL_Tau_Long_Baseline_Campaign|ALMA Partnership (2015) — The 2014 ALMA Long Baseline Campaign (HL Tau)]] — long-baseline aperture synthesis, protoplanetary disk substructure
+- [[Monnier_2003_Optical_Interferometry_in_Astronomy\|Monnier (2003) — Optical Interferometry in Astronomy]] — Van Cittert-Zernike theorem, closure phase/amplitude derivations
+- [[GRAVITY_Collaboration_2018_Orbital_Motion_ISCO_SgrA\|GRAVITY Collaboration (2018) — Orbital Motions Near the ISCO of Sgr A*]] — VLTI astrometric phase-referencing, strong-field orbital motion
+- [[ALMA_Partnership_2015_HL_Tau_Long_Baseline_Campaign\|ALMA Partnership (2015) — The 2014 ALMA Long Baseline Campaign (HL Tau)]] — long-baseline aperture synthesis, protoplanetary disk substructure
 
 ---
 

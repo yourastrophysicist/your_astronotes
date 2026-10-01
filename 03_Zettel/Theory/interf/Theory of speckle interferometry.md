@@ -4,7 +4,7 @@ title: "Theory of speckle interferometry"
 ---
 # Theory of speckle interferometry
 
-the formal derivation that justifies [[Speckle interferometry|Labeyrie's]] technique. shows that the *power spectrum* of speckle frames recovers the *power spectrum* of the source at all spatial frequencies up to the diffraction limit, despite the seeing.
+the formal derivation that justifies [[Speckle interferometry\|Labeyrie's]] technique. shows that the *power spectrum* of speckle frames recovers the *power spectrum* of the source at all spatial frequencies up to the diffraction limit, despite the seeing.
 
 ## the model
 
@@ -95,7 +95,7 @@ ambiguities multiply. speckle interferometry alone gives a *family* of consisten
 
 speckle interferometry recovers spatial frequencies up to $u_{\max} = D/\lambda$ — the *full diffraction limit* of the telescope. this is the *same* as a perfectly diffraction-limited telescope or AO with Strehl 1.
 
-so for *symmetric* sources, speckle interferometry achieves diffraction-limited resolution. for asymmetric sources, modifications ([[Bispectrum and triple correlation|triple correlation]], Knox-Thompson) are needed.
+so for *symmetric* sources, speckle interferometry achieves diffraction-limited resolution. for asymmetric sources, modifications ([[Bispectrum and triple correlation\|triple correlation]], Knox-Thompson) are needed.
 
 ## see also
 

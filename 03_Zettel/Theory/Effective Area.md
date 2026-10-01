@@ -42,7 +42,7 @@ where
 
 ## Wolter I telescope: analytic formula
 
-For a single [[Wolter Telescope|Wolter I]] shell with focal length $f$, mirror length $L$, grazing angle $\theta$, reflectivity $R(E)$:
+For a single [[Wolter Telescope\|Wolter I]] shell with focal length $f$, mirror length $L$, grazing angle $\theta$, reflectivity $R(E)$:
 $$A_{eff}(E) = 8\pi f L \theta^2(E) \cdot R^2(E)$$
 
 where the factor $R^2$ accounts for **two reflections** (paraboloid + hyperboloid), each with reflectivity $R$

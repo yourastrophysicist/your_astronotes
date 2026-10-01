@@ -28,7 +28,7 @@ problem: GCs are crowded, IMBH influence radii are small ($< 1$" for $10^3\,M_\o
 
 ### 2. millisecond pulsar accelerations
 
-[[Millisecond pulsars in GCs|MSPs]] in GC cores act as precision clocks. acceleration of an MSP toward the cluster centre due to a central IMBH would produce a measurable orbital period derivative. successfully applied in Terzan 5, NGC 6440, M28 — none has yet given an unambiguous IMBH detection but constrains $M_{\rm BH} < 10^3$-$10^4\,M_\odot$.
+[[Millisecond pulsars in GCs\|MSPs]] in GC cores act as precision clocks. acceleration of an MSP toward the cluster centre due to a central IMBH would produce a measurable orbital period derivative. successfully applied in Terzan 5, NGC 6440, M28 — none has yet given an unambiguous IMBH detection but constrains $M_{\rm BH} < 10^3$-$10^4\,M_\odot$.
 
 ### 3. radio + X-ray accretion signatures
 

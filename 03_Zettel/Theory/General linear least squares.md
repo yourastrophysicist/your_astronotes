@@ -4,7 +4,7 @@ title: "General linear least squares"
 ---
 # General linear least squares
 
-generalization of [[Linear least squares|simple linear LSQ]] to fitting models that are linear in the parameters but use *arbitrary* basis functions of the independent variable. the workhorse for fitting any function that can be written as a sum of known shapes.
+generalization of [[Linear least squares\|simple linear LSQ]] to fitting models that are linear in the parameters but use *arbitrary* basis functions of the independent variable. the workhorse for fitting any function that can be written as a sum of known shapes.
 
 ## the model
 
@@ -29,7 +29,7 @@ models with parameters appearing nonlinearly:
 - $y = A \sin(\omega x + \phi)$: nonlinear in $\omega$ and $\phi$
 - $y = a/(1 + b x)$: nonlinear in $b$
 
-these need [[Non-linear fitting with scipy|nonlinear LSQ]] (Levenberg-Marquardt etc.).
+these need [[Non-linear fitting with scipy\|nonlinear LSQ]] (Levenberg-Marquardt etc.).
 
 ## the design matrix
 

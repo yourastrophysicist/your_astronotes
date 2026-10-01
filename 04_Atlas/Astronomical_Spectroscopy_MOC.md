@@ -212,9 +212,9 @@ quick-reference summary of what each line ratio tells you. this is the "exam ans
 
 Canonical and modern arXiv astro-ph.SR/GA benchmark papers underlying the abundance-analysis and spectral-diagnostic techniques above.
 
-- [[Asplund_2009_Chemical_Composition_of_the_Sun|Asplund et al. (2009) — The Chemical Composition of the Sun]] — 3D RHD solar abundance redetermination, solar modeling problem
-- [[Nissen_Gustafsson_2018_High_Precision_Stellar_Abundances|Nissen & Gustafsson (2018) — High-Precision Stellar Abundances]] — differential line-by-line abundance methodology
-- [[Maiolino_2024_JADES_Broad_Line_AGN_High_Redshift|Maiolino et al. (2024) — JADES Infant Black Holes at 4 < z < 11]] — JWST/NIRSpec broad-H$\alpha$ virial black-hole masses at high redshift
+- [[Asplund_2009_Chemical_Composition_of_the_Sun\|Asplund et al. (2009) — The Chemical Composition of the Sun]] — 3D RHD solar abundance redetermination, solar modeling problem
+- [[Nissen_Gustafsson_2018_High_Precision_Stellar_Abundances\|Nissen & Gustafsson (2018) — High-Precision Stellar Abundances]] — differential line-by-line abundance methodology
+- [[Maiolino_2024_JADES_Broad_Line_AGN_High_Redshift\|Maiolino et al. (2024) — JADES Infant Black Holes at 4 < z < 11]] — JWST/NIRSpec broad-H$\alpha$ virial black-hole masses at high redshift
 
 ## connections to other MOCs
 

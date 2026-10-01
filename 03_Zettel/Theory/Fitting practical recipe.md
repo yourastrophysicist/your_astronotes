@@ -41,7 +41,7 @@ fit in $\tilde x$, then transform back. avoids ill-conditioning. for power-law d
 ### 4. choose linear vs nonlinear LSQ
 
 - model linear in parameters → [[Linear least squares]] (closed-form solution)
-- model nonlinear in parameters → [[Non-linear fitting with scipy|scipy.optimize.curve_fit]] or `least_squares`
+- model nonlinear in parameters → [[Non-linear fitting with scipy\|scipy.optimize.curve_fit]] or `least_squares`
 
 if the model can be **linearized** by a transformation (e.g. $y = A e^{-\lambda x} \to \log y = \log A - \lambda x$), do it — much faster and more stable. but check that the transformation respects the noise structure (homoscedastic on the linear scale becomes heteroscedastic on the log scale, and vice versa).
 

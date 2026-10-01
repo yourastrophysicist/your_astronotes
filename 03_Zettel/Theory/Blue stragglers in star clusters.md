@@ -2,7 +2,7 @@
 layout: "default"
 title: "Blue stragglers in star clusters"
 ---
-a [[Single stellar population SSP|coeval cluster]] should display, on its [[Color-magnitude diagrams of clusters|CMD]], a sharp Main sequence turnoff MSTO corresponding to the most massive star still on the Main sequence at the cluster age. yet in essentially every old cluster studied, a population of stars sits brighter and bluer than the MSTO, on the upward extrapolation of the MS. these are the **blue stragglers** (BSS).
+a [[Single stellar population SSP\|coeval cluster]] should display, on its [[Color-magnitude diagrams of clusters\|CMD]], a sharp Main sequence turnoff MSTO corresponding to the most massive star still on the Main sequence at the cluster age. yet in essentially every old cluster studied, a population of stars sits brighter and bluer than the MSTO, on the upward extrapolation of the MS. these are the **blue stragglers** (BSS).
 
 allan sandage first identified them in 1953 in the globular cluster M3. he noted that the cluster CMD showed a handful of stars "straggling" above the turnoff, occupying positions that for a single-star population should require ages much younger than the cluster itself. for [[Globular Clusters]] with ages $\gtrsim 10\,\text{Gyr}$ and $M_{\text{TO}} \approx 0.8\,M_\odot$, the BSS appear to have masses $1.0\text{--}1.6\,M_\odot$, roughly twice the turnoff.
 
@@ -17,13 +17,13 @@ three observational properties define the population:
 this bimodal distribution is interpreted as a Dynamical clock: the cluster's relaxation has segregated heavier BSS to the centre, with the dip filled in over time. the position of the dip in units of $r_h$ traces the cluster's dynamical age.
 
 BSS are therefore unique probes:
-- they trace [[Cluster binary fraction methods|the binary population]] (since most BSS form via binaries),
+- they trace [[Cluster binary fraction methods\|the binary population]] (since most BSS form via binaries),
 - they trace dynamical evolution of the cluster,
-- they constrain the present-day [[Stellar mass function|mass function]] above the MSTO.
+- they constrain the present-day [[Stellar mass function\|mass function]] above the MSTO.
 
-the formation channels (collisional vs binary mass transfer vs binary merger) are detailed in [[Blue straggler formation channels]]. observationally, BSS in low-density [[Open clusters]] favour binary channels, while dense [[Globular Clusters|GC]] cores show evidence of both, with collisional products distinguished by faster rotation and lower carbon/oxygen surface abundances (as found by ferraro et al. 2006 in 47 Tuc).
+the formation channels (collisional vs binary mass transfer vs binary merger) are detailed in [[Blue straggler formation channels]]. observationally, BSS in low-density [[Open clusters]] favour binary channels, while dense [[Globular Clusters\|GC]] cores show evidence of both, with collisional products distinguished by faster rotation and lower carbon/oxygen surface abundances (as found by ferraro et al. 2006 in 47 Tuc).
 
-BSS connect to other exotic populations: their evolved descendants populate the [[Yellow stragglers and sub-subgiants|yellow straggler]] strip on the [[Red giant branch RGB|subgiant/RGB]], and their progenitor binaries are the same systems that produce [[Cataclysmic variables in clusters|CVs]] and [[Millisecond pulsars in GCs|MSPs]] in cluster cores.
+BSS connect to other exotic populations: their evolved descendants populate the [[Yellow stragglers and sub-subgiants\|yellow straggler]] strip on the [[Red giant branch RGB\|subgiant/RGB]], and their progenitor binaries are the same systems that produce [[Cataclysmic variables in clusters\|CVs]] and [[Millisecond pulsars in GCs\|MSPs]] in cluster cores.
 
 historical note: sandage's 1953 paper was for years just an oddity; the BSS phenomenon was only taken seriously after subsequent CMDs of many GCs all showed the same feature. it is now one of the cleanest diagnostics of cluster dynamics we have.
 

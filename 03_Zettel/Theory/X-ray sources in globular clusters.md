@@ -6,9 +6,9 @@ X-ray observations of [[Globular Clusters]] reveal a zoo of compact-object binar
 
 **bright X-ray sources: LMXBs**
 
-the brightest X-ray sources are accreting neutron stars in LMXBs with $L_X \sim 10^{36}\text{--}10^{38}\,\text{erg/s}$. the donor is typically an evolved star (often a [[Red giant branch RGB|RGB]] subgiant) overflowing its Roche lobe. only $\sim 15$ persistent and transient bright LMXBs are known in galactic GCs, but per unit stellar mass this is $\sim 100\times$ the rate in the field disc. the boost is the same dynamical processing argument: NS-MS exchanges in dense cores produce LMXBs.
+the brightest X-ray sources are accreting neutron stars in LMXBs with $L_X \sim 10^{36}\text{--}10^{38}\,\text{erg/s}$. the donor is typically an evolved star (often a [[Red giant branch RGB\|RGB]] subgiant) overflowing its Roche lobe. only $\sim 15$ persistent and transient bright LMXBs are known in galactic GCs, but per unit stellar mass this is $\sim 100\times$ the rate in the field disc. the boost is the same dynamical processing argument: NS-MS exchanges in dense cores produce LMXBs.
 
-these bright LMXBs are the progenitors of [[Millisecond pulsars in GCs|MSPs]]: when the donor exhausts its envelope, the NS is left as a recycled MSP.
+these bright LMXBs are the progenitors of [[Millisecond pulsars in GCs\|MSPs]]: when the donor exhausts its envelope, the NS is left as a recycled MSP.
 
 **quiescent LMXBs (qLMXBs)**
 
@@ -16,7 +16,7 @@ once accretion drops, the NS LMXB enters a low state: $L_X \sim 10^{32}\text{--}
 
 **cataclysmic variables**
 
-[[Cataclysmic variables in clusters|CVs]] (WD accreting from a low-mass companion) populate the soft X-ray sources at $L_X \sim 10^{30}\text{--}10^{33}\,\text{erg/s}$. the boundary layer between the disc and the WD radiates in soft X-rays, so CVs appear as relatively soft point sources.
+[[Cataclysmic variables in clusters\|CVs]] (WD accreting from a low-mass companion) populate the soft X-ray sources at $L_X \sim 10^{30}\text{--}10^{33}\,\text{erg/s}$. the boundary layer between the disc and the WD radiates in soft X-rays, so CVs appear as relatively soft point sources.
 
 **active binaries (ABs)**
 
@@ -35,7 +35,7 @@ the total number of X-ray sources per unit cluster mass correlates with the enco
 
 **identifications and follow-up**
 
-X-ray positions need optical/UV/H$\alpha$ counterparts to classify each source. HST photometry, MUSE IFU spectroscopy, and Gaia astrometry have enabled detailed classification across galactic GCs. some X-ray sources turn out to be [[Hunting BHs via radial velocities|stellar-mass black hole]] candidates if their companion is detected via radial velocities.
+X-ray positions need optical/UV/H$\alpha$ counterparts to classify each source. HST photometry, MUSE IFU spectroscopy, and Gaia astrometry have enabled detailed classification across galactic GCs. some X-ray sources turn out to be [[Hunting BHs via radial velocities\|stellar-mass black hole]] candidates if their companion is detected via radial velocities.
 
 ## see also
 - [[Stellar_Astrophysics_MOC]]

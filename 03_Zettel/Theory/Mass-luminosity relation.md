@@ -2,7 +2,7 @@
 layout: "default"
 title: "Mass-luminosity relation"
 ---
-the **mass-luminosity relation (MLR)** is the empirical and theoretical power-law relationship connecting stellar mass $M$ to bolometric luminosity $L$ for stars on the [[Main sequence on the CMD|main sequence]]. because luminosity is the rate of energy loss, the steepness of the MLR is the primary physical reason why massive stars die rapidly while low-mass stars survive for cosmic epochs.
+the **mass-luminosity relation (MLR)** is the empirical and theoretical power-law relationship connecting stellar mass $M$ to bolometric luminosity $L$ for stars on the [[Main sequence on the CMD\|main sequence]]. because luminosity is the rate of energy loss, the steepness of the MLR is the primary physical reason why massive stars die rapidly while low-mass stars survive for cosmic epochs.
 
 ## piecewise empirical power laws
 

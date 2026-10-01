@@ -2,13 +2,13 @@
 layout: "default"
 title: "GC formation models with MPs"
 ---
-if multiple populations are universal in old massive GCs + scale cleanly with cluster mass, then forming a GC is the same question as forming MPs. the formation model must explain (i) the observed chemical anti-correlations, (ii) the helium spread, (iii) the 2G fraction + its mass scaling, (iv) the spatial + kinematic differences between populations, + (v) the existence of [[Type I and Type II GCs|Type II GCs]] with iron + s-process spreads. several competing scenarios exist; none is fully satisfactory.
+if multiple populations are universal in old massive GCs + scale cleanly with cluster mass, then forming a GC is the same question as forming MPs. the formation model must explain (i) the observed chemical anti-correlations, (ii) the helium spread, (iii) the 2G fraction + its mass scaling, (iv) the spatial + kinematic differences between populations, + (v) the existence of [[Type I and Type II GCs\|Type II GCs]] with iron + s-process spreads. several competing scenarios exist; none is fully satisfactory.
 
 ## scenario 1: two-stage star formation in a single proto-cluster
 
 the most-developed framework, articulated by d'antona, ventura, d'ercole + collaborators, with variants:
 
-1. **stage 1**: a massive gas cloud collapses + forms the 1G in a single burst. mass $\sim 10^6\, M_\odot$ initially. [[Stellar populations I II III|Pop II]] composition ($\alpha$-enhanced halo chemistry).
+1. **stage 1**: a massive gas cloud collapses + forms the 1G in a single burst. mass $\sim 10^6\, M_\odot$ initially. [[Stellar populations I II III\|Pop II]] composition ($\alpha$-enhanced halo chemistry).
 2. **clearing phase**: SNe from the most massive 1G stars expel residual gas + clear the cluster on $\sim 10$-$30$ Myr.
 3. **polluter phase**: AGB + super-AGB stars of the 1G ($M \sim 4$-$8\, M_\odot$) reach the AGB at $30$-$100$ Myr after birth. they shed slow winds enriched in CNO + NeNa + (sometimes) MgAl products, with He enhancement. these winds collect in the cluster core because the potential well retains them after SN feedback has subsided.
 4. **stage 2**: the polluter wind gas, possibly diluted with inflowing pristine material, undergoes a second star formation event in the cluster core, producing the 2G.
@@ -38,7 +38,7 @@ bekki + collaborators, also explored by mclaughlin + van der marel. the proto-cl
 
 ## scenario 5: accreted dwarf nuclei (Type II GCs)
 
-for [[Type I and Type II GCs|Type II GCs]] specifically, the formation channel is **stripping of dwarf galaxy nuclei**. $\omega$ Cen + M54 are the prototypes. the dwarf hosts multiple chemical generations including SN Ia + AGB s-process enrichment, which are normally absent in pure-cluster scenarios. the dwarf's outer stars are stripped during infall + only the dense nucleus survives as the present GC.
+for [[Type I and Type II GCs\|Type II GCs]] specifically, the formation channel is **stripping of dwarf galaxy nuclei**. $\omega$ Cen + M54 are the prototypes. the dwarf hosts multiple chemical generations including SN Ia + AGB s-process enrichment, which are normally absent in pure-cluster scenarios. the dwarf's outer stars are stripped during infall + only the dense nucleus survives as the present GC.
 
 this scenario applies to ~17% of galactic GCs + dovetails with gaia-era classifications of GCs by accretion origin (gaia-enceladus, sagittarius, sequoia, kraken / heracles).
 

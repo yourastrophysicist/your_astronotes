@@ -18,7 +18,7 @@ what *does* depend on envelope mass is the position in *temperature*. the HB is 
 
 Milone's lectures (specifically following Milone et al. 2014, MNRAS 439, 1588) divide horizontal branch parameters into:
 1. **global parameters**: vary from cluster to cluster. the leading global second parameter is **age** (older GCs have bluer HBs at fixed $[{\rm Fe/H}]$), as shown by Dotter et al. (2010). cluster **mass** also acts as a global parameter affecting the blue extension of the HB (Recio-Blanco et al. 2006).
-2. **non-global (internal) parameters**: vary star-to-star within a single cluster. the primary internal parameter is **helium abundance $Y$**, which is closely linked to the presence of [[Multiple populations in GCs discovery|multiple populations]] (helium-enriched 2G stars have higher $T_{\rm eff}$ and populate the bluer parts of the HB).
+2. **non-global (internal) parameters**: vary star-to-star within a single cluster. the primary internal parameter is **helium abundance $Y$**, which is closely linked to the presence of [[Multiple populations in GCs discovery\|multiple populations]] (helium-enriched 2G stars have higher $T_{\rm eff}$ and populate the bluer parts of the HB).
 
 to quantify HB morphology, Milone et al. (2014) introduced two pseudo-color metrics:
 - **$L_1$ (Color distance)**: the color distance from the RGB to the reddest part of the HB.

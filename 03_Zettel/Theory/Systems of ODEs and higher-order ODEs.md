@@ -90,13 +90,13 @@ if the system comes from a Hamiltonian $H(\mathbf{q}, \mathbf{p})$, the equation
 
 $$\dot{\mathbf{q}} = \partial H/\partial \mathbf{p}, \quad \dot{\mathbf{p}} = -\partial H/\partial \mathbf{q}$$
 
-these have **symplectic** structure that should be preserved by the integrator. use [[Leapfrog integrator|leapfrog]] or symplectic RK schemes, not generic RK4. see also [[Energy conservation as a diagnostic]].
+these have **symplectic** structure that should be preserved by the integrator. use [[Leapfrog integrator\|leapfrog]] or symplectic RK schemes, not generic RK4. see also [[Energy conservation as a diagnostic]].
 
 ## boundary conditions
 
 a system of $k$ first-order ODEs needs $k$ initial conditions to specify a unique solution (initial value problem) — typically values of all components at $t_0$.
 
-if instead the conditions are split: some at $t_0$, some at $t_f$ → boundary value problem (BVP). use [[Shooting method|shooting]] or `scipy.integrate.solve_bvp`.
+if instead the conditions are split: some at $t_0$, some at $t_f$ → boundary value problem (BVP). use [[Shooting method\|shooting]] or `scipy.integrate.solve_bvp`.
 
 ## the python convention
 

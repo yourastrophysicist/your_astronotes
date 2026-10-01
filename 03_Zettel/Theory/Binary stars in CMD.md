@@ -16,7 +16,7 @@ if we model the magnitude offset for an unresolved pair of MS stars,
 
 $$m_{\text{tot}} = -2.5 \log_{10}\!\left(10^{-0.4 m_1} + 10^{-0.4 m_2}\right),$$
 
-we can build synthetic CMDs by sampling pairs from an assumed [[Stellar mass function]] (often the [[Salpeter Kroupa Chabrier IMFs|IMF]]) plus a $q$ distribution. the comparison to observations gives the [[Cluster binary fraction methods|binary fraction]] $f_b$.
+we can build synthetic CMDs by sampling pairs from an assumed [[Stellar mass function]] (often the [[Salpeter Kroupa Chabrier IMFs\|IMF]]) plus a $q$ distribution. the comparison to observations gives the [[Cluster binary fraction methods\|binary fraction]] $f_b$.
 
 the same trick works for higher multiples. triples and quadruples shift even further above the MS, but they are rare and dynamically unstable in [[Globular Clusters]]. most "binary ridge" stars are genuine bound pairs, although a small fraction can be chance superpositions in dense cluster fields (mitigated with HST proper motions and high-resolution imaging).
 

@@ -2,7 +2,7 @@
 layout: "default"
 title: "Effects of differential reddening on CMD analysis"
 ---
-**differential reddening (DR)** is one of the dominant sources of systematic error in resolved cluster CMD analysis. it broadens main sequence + RGB + HB ridges and can mimic real physical phenomena (metallicity spread, [[Multiple populations in GCs discovery|multiple populations]], [[Extended main sequence turn-off eMSTO|eMSTO]]). diagnosing + correcting DR is critical before any chromosome-map analysis.
+**differential reddening (DR)** is one of the dominant sources of systematic error in resolved cluster CMD analysis. it broadens main sequence + RGB + HB ridges and can mimic real physical phenomena (metallicity spread, [[Multiple populations in GCs discovery\|multiple populations]], [[Extended main sequence turn-off eMSTO\|eMSTO]]). diagnosing + correcting DR is critical before any chromosome-map analysis.
 
 ## the basic effect
 
@@ -10,7 +10,7 @@ each star sits at a specific spatial position $(x, y)$ in the cluster field. the
 
 $$E(B-V)_i = \langle E(B-V) \rangle + \delta_i$$
 
-with $\delta_i$ ranging from $-3\sigma$ to $+3\sigma$. each star's CMD position is shifted along the [[Interstellar reddening and the reddening vector|reddening vector]] by an amount proportional to $\delta_i$.
+with $\delta_i$ ranging from $-3\sigma$ to $+3\sigma$. each star's CMD position is shifted along the [[Interstellar reddening and the reddening vector\|reddening vector]] by an amount proportional to $\delta_i$.
 
 result: the cluster MS, RGB, HB on the CMD become **broadened** vertically + horizontally along the reddening vector.
 
@@ -19,7 +19,7 @@ result: the cluster MS, RGB, HB on the CMD become **broadened** vertically + hor
 | mimicked phenomenon | DR signature | distinguishing feature |
 |---|---|---|
 | metallicity spread | broadens RGB + MS | DR shift along reddening vector, NOT iso-metallicity locus |
-| [[Multiple populations in GCs discovery|multiple populations]] | broadens MS + RGB | DR has spatial coherence; MPs are independent of position |
+| [[Multiple populations in GCs discovery\|multiple populations]] | broadens MS + RGB | DR has spatial coherence; MPs are independent of position |
 | age spread | broadens TO | DR also broadens lower MS, age spread should not |
 | binary fraction | scatters above MS | DR scatters along reddening vector, not just upward |
 

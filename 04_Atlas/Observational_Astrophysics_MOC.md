@@ -170,9 +170,9 @@ The inverse problem: decoding unresolved galaxy light into physical parameters. 
 
 Canonical and modern arXiv astro-ph.IM benchmark papers underlying the detector characterization, adaptive optics, and survey design covered above.
 
-- [[Janesick_2001_CCD_Photon_Transfer_Method|Janesick (2001) — Scientific CCDs and the Photon Transfer Method]] — empirical gain/read-noise/PRNU extraction from flat-field sequences
-- [[Guyon_2018_Extreme_Adaptive_Optics|Guyon (2018) — Extreme Adaptive Optics]] — Strehl ratio, wavefront-error budget, high-contrast imaging architectures
-- [[Ivezic_2019_LSST_Science_Drivers_Reference_Design|Ivezić et al. (2019) — LSST: Science Drivers to Reference Design]] — Rubin Observatory design, survey error budget, self-calibration
+- [[Janesick_2001_CCD_Photon_Transfer_Method\|Janesick (2001) — Scientific CCDs and the Photon Transfer Method]] — empirical gain/read-noise/PRNU extraction from flat-field sequences
+- [[Guyon_2018_Extreme_Adaptive_Optics\|Guyon (2018) — Extreme Adaptive Optics]] — Strehl ratio, wavefront-error budget, high-contrast imaging architectures
+- [[Ivezic_2019_LSST_Science_Drivers_Reference_Design\|Ivezić et al. (2019) — LSST: Science Drivers to Reference Design]] — Rubin Observatory design, survey error budget, self-calibration
 
 ---
 

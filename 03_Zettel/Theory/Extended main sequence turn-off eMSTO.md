@@ -2,7 +2,7 @@
 layout: "default"
 title: "Extended main sequence turn-off eMSTO"
 ---
-the **extended main sequence turn-off (eMSTO) phenomenon** is the discovery that intermediate-age ($\sim 1$-$2$ Gyr) star clusters in the LMC + SMC + MW show a broadened MS turn-off region, much wider than expected for a [[Single stellar population SSP|simple stellar population]] of the same age. the TO width $\Delta V \sim 0.1$-$0.3$ mag is well-resolved with HST + JWST.
+the **extended main sequence turn-off (eMSTO) phenomenon** is the discovery that intermediate-age ($\sim 1$-$2$ Gyr) star clusters in the LMC + SMC + MW show a broadened MS turn-off region, much wider than expected for a [[Single stellar population SSP\|simple stellar population]] of the same age. the TO width $\Delta V \sim 0.1$-$0.3$ mag is well-resolved with HST + JWST.
 
 ![L18_p05_eMSTO_phenomenon-05.png](../../assets/images/L18_p05_eMSTO_phenomenon-05.png)
 
@@ -60,7 +60,7 @@ at younger ages, all stars are too hot/massive for rotational mixing to differen
 
 an active question: **are eMSTO clusters the present-day analogues of what old GCs looked like at $\sim 1$-$2$ Gyr after formation?**
 
-- old GCs show [[Multiple populations in GCs discovery|Na-O anti-correlation]] + helium spread + chromosome maps;
+- old GCs show [[Multiple populations in GCs discovery\|Na-O anti-correlation]] + helium spread + chromosome maps;
 - young eMSTO clusters do NOT show clear chemical anomalies (yet);
 - but eMSTO + young split MS share the structural signature: **a single SSP cannot explain the CMD**.
 

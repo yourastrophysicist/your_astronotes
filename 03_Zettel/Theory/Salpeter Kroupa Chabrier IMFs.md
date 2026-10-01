@@ -2,7 +2,7 @@
 layout: "default"
 title: "Salpeter Kroupa Chabrier IMFs"
 ---
-three parametrizations of the [[Stellar mass function xi(M)|stellar IMF]] dominate the literature. they differ mainly at low mass, where the IMF flattens and turns over, while agreeing on a roughly universal slope at high mass.
+three parametrizations of the [[Stellar mass function xi(M)\|stellar IMF]] dominate the literature. they differ mainly at low mass, where the IMF flattens and turns over, while agreeing on a roughly universal slope at high mass.
 
 **Salpeter (1955)**
 
@@ -57,7 +57,7 @@ with $M_c \approx 0.22\,M_\odot$ (system) or $0.08\,M_\odot$ (single stars) and 
 
 **variants and extensions**
 
-- **top-heavy IMF**: shallower high-mass slope $\Gamma < 1.35$, expected for [[Population III stars|Pop III]] and maybe for starburst galaxies and the galactic-centre arches cluster.
+- **top-heavy IMF**: shallower high-mass slope $\Gamma < 1.35$, expected for [[Population III stars\|Pop III]] and maybe for starburst galaxies and the galactic-centre arches cluster.
 - **bottom-heavy IMF**: steeper low-mass slope, claimed for massive ellipticals from gravity-sensitive absorption features (van dokkum & conroy 2010), still debated.
 - **integrated galactic IMF (IGIMF)**: kroupa & weidner argue the IMF integrated over a galaxy depends on its star-formation rate.
 

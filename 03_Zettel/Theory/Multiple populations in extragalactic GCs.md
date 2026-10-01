@@ -2,7 +2,7 @@
 layout: "default"
 title: "Multiple populations in extragalactic GCs"
 ---
-a key test of [[Multiple populations in GCs discovery|multiple populations (MPs)]] as a universal property of massive old globular clusters is whether they appear in clusters **outside the Milky Way**. they do. MPs have now been confirmed in GCs of:
+a key test of [[Multiple populations in GCs discovery\|multiple populations (MPs)]] as a universal property of massive old globular clusters is whether they appear in clusters **outside the Milky Way**. they do. MPs have now been confirmed in GCs of:
 
 - LMC + SMC (Magellanic Clouds);
 - Andromeda (M31);
@@ -18,7 +18,7 @@ ancient ($> 10$ Gyr) GCs in the Magellanic Clouds (NGC 2210, NGC 1841, NGC 1466,
 - **chromosome maps** of LMC GCs (Milone et al. 2020, MNRAS 491, 515) show the same 1G + 2G separation as Galactic GCs;
 - **Type II GC examples** also exist (e.g., NGC 1851-like with iron variations).
 
-the absence of MPs in young ($< 2$ Gyr) LMC + SMC clusters is interpreted as evidence that MPs require old age + high mass. [[Extended main sequence turn-off eMSTO|eMSTO]] in young Magellanic clusters is a different phenomenon (likely [[Stellar rotation effects on CMD|rotation-driven]]).
+the absence of MPs in young ($< 2$ Gyr) LMC + SMC clusters is interpreted as evidence that MPs require old age + high mass. [[Extended main sequence turn-off eMSTO\|eMSTO]] in young Magellanic clusters is a different phenomenon (likely [[Stellar rotation effects on CMD\|rotation-driven]]).
 
 ## the Andromeda (M31) GC system
 

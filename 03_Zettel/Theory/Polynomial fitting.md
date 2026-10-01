@@ -4,7 +4,7 @@ title: "Polynomial fitting"
 ---
 # Polynomial fitting
 
-a special case of [[General linear least squares|general linear LSQ]] with $\phi_k(x) = x^k$. fit a polynomial of degree $M$ through $N$ data points, $N > M$, in the least-squares sense.
+a special case of [[General linear least squares\|general linear LSQ]] with $\phi_k(x) = x^k$. fit a polynomial of degree $M$ through $N$ data points, $N > M$, in the least-squares sense.
 
 ## the model
 
