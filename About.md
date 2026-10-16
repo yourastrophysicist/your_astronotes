@@ -18,7 +18,7 @@ This project transforms an interconnected graduate study vault into an open-acce
 * **Instagram**: [@your.astrophysicist](https://instagram.com/your.astrophysicist)
 * **GitHub Profile**: [yourastrophysicist](https://github.com/yourastrophysicist)
 * **Website Repository**: [your_astronotes](https://github.com/yourastrophysicist/your_astronotes)
-* **Published Garden**: [yourastrophysicist.github.io/your_astronotes](https://yourastrophysicist.github.io/your_astronotes/)
+* **Published Garden**: [yourastro.space/notes](https://www.yourastro.space/notes/)
 
 ---
 

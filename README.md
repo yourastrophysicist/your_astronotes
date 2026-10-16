@@ -9,7 +9,7 @@ These are my notes from the first year of the Master's in Astrophysics and Cosmo
 
 Everything here was put together by one voyager only. There are lecture write-ups, derivations worked out step by step, notes on instruments and detectors, and a lot of small notes on single ideas that link to each other.
 
-* Website, [yourastrophysicist.github.io/your_astronotes](https://yourastrophysicist.github.io/your_astronotes/)
+* Website, [yourastro.space/notes](https://www.yourastro.space/notes/)
 * Instagram, [@your.astrophysicist](https://instagram.com/your.astrophysicist)
 
 ---

@@ -930,7 +930,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const articleImages = document.querySelectorAll('.markdown-body img, .article-content img');
   const siteBase = (typeof sitePages !== 'undefined' && sitePages.length > 0 && sitePages[0].url) 
     ? sitePages[0].url.split('/').slice(0, 2).join('/') 
-    : '/your_astronotes';
+    : '/notes';
 
   articleImages.forEach(img => {
     // 1. Error fallback handler to auto-resolve broken relative paths

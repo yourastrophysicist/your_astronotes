@@ -3,6 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script>if(location.hostname==="yourastrophysicist.github.io"){location.replace("https://www.yourastro.space/notes"+location.pathname.replace(/^\/your_astronotes/,"")+location.search+location.hash);}</script>
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
   <title>{{ page.title }} | {{ site.title }}</title>
   <meta name="description" content="{{ page.description | default: site.description | escape }}">
   <style id="wiki-theme">
@@ -675,9 +677,9 @@ main {
 }
 
   </style>
-  <link rel="stylesheet" id="theme-stylesheet" href="{{ '/assets/css/style.css?v=13' | relative_url }}" onerror="if(!this.dataset.retried){this.dataset.retried=1;this.href=(location.pathname.startsWith('/your_astronotes')?'/your_astronotes':'')+'/assets/css/style.css'}">
-  <script src="{{ '/assets/js/site-data.js?v=13' | relative_url }}" onerror="if(!this.dataset.retried){this.dataset.retried=1;var s=document.createElement('script');s.src=(location.pathname.startsWith('/your_astronotes')?'/your_astronotes':'')+'/assets/js/site-data.js';document.head.appendChild(s);}"></script>
-  <script src="{{ '/assets/js/app.js?v=13' | relative_url }}" onerror="if(!this.dataset.retried){this.dataset.retried=1;var s=document.createElement('script');s.src=(location.pathname.startsWith('/your_astronotes')?'/your_astronotes':'')+'/assets/js/app.js';document.head.appendChild(s);}"></script>
+  <link rel="stylesheet" id="theme-stylesheet" href="{{ '/assets/css/style.css?v=13' | relative_url }}" onerror="if(!this.dataset.retried){this.dataset.retried=1;this.href='{{ site.baseurl }}'+'/assets/css/style.css'}">
+  <script src="{{ '/assets/js/site-data.js?v=13' | relative_url }}" onerror="if(!this.dataset.retried){this.dataset.retried=1;var s=document.createElement('script');s.src='{{ site.baseurl }}'+'/assets/js/site-data.js';document.head.appendChild(s);}"></script>
+  <script src="{{ '/assets/js/app.js?v=13' | relative_url }}" onerror="if(!this.dataset.retried){this.dataset.retried=1;var s=document.createElement('script');s.src='{{ site.baseurl }}'+'/assets/js/app.js';document.head.appendChild(s);}"></script>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
   <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
   <script>
