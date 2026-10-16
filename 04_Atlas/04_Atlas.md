@@ -40,9 +40,6 @@ Welcome to the central cartography of the astrophysics second brain. This direct
 | **Astro-Statistics and Cosmology** | Prof. M. Liguori | **[[Astro-Statistics_and_Cosmology_MOC]]** | 02_Literature/Lectures/Astrostatistics/ |
 | **Astrophysics Laboratory 2** | Prof. L. Malavolta & Prof. G. Piotto | **[[Astrophysics_Laboratory_2_MOC]]** | 02_Literature/Lectures/Astrophysics_Laboratory_2/ |
 | **Computational Astrophysics** | Prof. T. Zingales | **[[Computational_Astrophysics_MOC]]** | 02_Literature/Lectures/Computational_Astrophysics/ |
-| **Cosmology of the Early Universe** | Prof. N. Bartolo & Prof. S. Matarrese | **[[Cosmology_of_the_Early_Universe_MOC]]** | 02_Literature/Lectures/Cosmology_of_the_Early_Universe/ |
-| **Astrophysics of the Interstellar Medium** | Prof. G. Carraro | **[[Astrophysics_of_the_Interstellar_Medium_MOC]]** | 02_Literature/Lectures/Interstellar_Medium/ |
-| **Fluid and Plasma Dynamics** | Prof. M. Giacomin | **[[Fluid_and_Plasma_Dynamics_MOC]]** | 02_Literature/Lectures/Fluid_and_Plasma_Dynamics/ |
 
 ---
 

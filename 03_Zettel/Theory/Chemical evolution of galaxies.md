@@ -89,7 +89,7 @@ interpretation: feedback-driven outflow efficiency depends on $M_h$ → shallowe
 ## Linked References
 
 - [[Metallicity and chemical evolution]]
-- [[Superbubbles galactic chimneys and fountains]]
+- Superbubbles galactic chimneys and fountains
 - [[Observational_Cosmology_MOC]]
 
 

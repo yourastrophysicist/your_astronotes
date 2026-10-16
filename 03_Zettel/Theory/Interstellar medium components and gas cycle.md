@@ -105,7 +105,7 @@ when multiple supernovae detonate within a young OB association, their individua
 - [[Interstellar absorption]]
 - [[Milky Way structure]]
 - [[Molecular clouds]]
-- [[Multi-phase structure of the interstellar medium]]
+- Multi-phase structure of the interstellar medium
 - [[Spiral arm kinematics]]
 - [[Stellar populations I II III]]
 - [[Astrophysics_of_the_Interstellar_Medium_MOC]]

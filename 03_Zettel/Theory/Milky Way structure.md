@@ -88,7 +88,7 @@ the Sun is situated in the Orion-Cygnus spur (between the major Sagittarius and 
 
 - [[Dark matter on galactic scales]]
 - [[Galactic Center]]
-- [[Galactic HI kinematics and Milky Way spiral structure]]
+- Galactic HI kinematics and Milky Way spiral structure
 - [[Galactic coordinate system]]
 - [[Galaxies in the local universe]]
 - [[Interstellar absorption]]

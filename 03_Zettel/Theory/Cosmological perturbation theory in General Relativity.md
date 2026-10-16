@@ -46,8 +46,8 @@ $$\delta G^\mu_\nu = 8\pi G\, \delta T^\mu_\nu$$
 
 * parent moc: [[Cosmology_of_the_Early_Universe_MOC]]
 * related zettels:
-  - [[Gauge transformations and Bardeen potentials]]
-  - [[Gauge-invariant density perturbation and relativistic Poisson equation]]
+  - Gauge transformations and Bardeen potentials
+  - Gauge-invariant density perturbation and relativistic Poisson equation
   - [[Part5_GR_Cosmological_Perturbation_Theory]]
 
 ---
@@ -61,9 +61,9 @@ $$\delta G^\mu_\nu = 8\pi G\, \delta T^\mu_\nu$$
 
 ## Linked References
 
-- [[Curvature perturbation R and zeta]]
-- [[Gauge transformations and Bardeen potentials]]
-- [[Gauge-invariant density perturbation and relativistic Poisson equation]]
+- Curvature perturbation R and zeta
+- Gauge transformations and Bardeen potentials
+- Gauge-invariant density perturbation and relativistic Poisson equation
 - [[Cosmology_of_the_Early_Universe_MOC]]
 - [[General_Relativity_MOC]]
 

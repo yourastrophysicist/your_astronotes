@@ -82,8 +82,8 @@ these are some of the deepest open questions in physics.
 
 ## Linked References
 
-- [[Cosmic relics and Kibble mechanism]]
-- [[Horizon problem and causal structure]]
+- Cosmic relics and Kibble mechanism
+- Horizon problem and causal structure
 - [[Phase transitions]]
 - [[Cosmology_of_the_Early_Universe_MOC]]
 - [[Observational_Cosmology_MOC]]

@@ -138,7 +138,7 @@ a brief summary of how galaxies evolve from $z \sim 10$ to today:
 - [[Cooling curve]]
 - [[Missing baryons]]
 - [[Protocluster detection techniques]]
-- [[Ram pressure stripping in galaxy clusters]]
+- Ram pressure stripping in galaxy clusters
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]
 
 

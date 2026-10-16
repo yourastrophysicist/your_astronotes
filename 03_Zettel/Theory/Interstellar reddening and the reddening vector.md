@@ -139,11 +139,11 @@ The following slides from Prof. Antonino Milone's lecture series provide the dir
 ## Linked References
 
 - [[Bulge CMD complications]]
-- [[Cardelli-Clayton-Mathis CCM extinction law]]
+- Cardelli-Clayton-Mathis CCM extinction law
 - [[Differential reddening maps]]
 - [[Effects of differential reddening on CMD analysis]]
 - [[Extinction law and Rv]]
-- [[Trumpler discovery of interstellar extinction]]
+- Trumpler discovery of interstellar extinction
 - [[Astrophysics_of_the_Interstellar_Medium_MOC]]
 - [[Stellar_Astrophysics_MOC]]
 

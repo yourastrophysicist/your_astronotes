@@ -181,7 +181,7 @@ Persic, Salucci & Stel (1996) synthesized over 1000 rotation curves into the Uni
 
 ## Linked References
 
-- [[Galactic HI kinematics and Milky Way spiral structure]]
+- Galactic HI kinematics and Milky Way spiral structure
 - [[Ionized gas kinematics]]
 - [[Astrophysics_of_Galaxies_MOC]]
 

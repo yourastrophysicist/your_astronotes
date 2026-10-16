@@ -38,7 +38,7 @@ galaxies separate into distinct branches:
 - [[Observational_Cosmology_MOC]]
 - [[Pablo_04_Nuclear_activity_in_galaxies]]
 - [[AGN taxonomy unified model and feedback]]
-- [[Forbidden line diagnostics of electron temperature and density]]
+- Forbidden line diagnostics of electron temperature and density
 
 
 

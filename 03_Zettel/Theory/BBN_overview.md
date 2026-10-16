@@ -524,7 +524,7 @@ this is why BBN is one of the three observational pillars of the standard hot Bi
 - [[Decoupling and freeze-out]]
 - [[Fundamentals_course_intro]]
 - [[Number density and energy density at thermal equilibrium]]
-- [[Primordial helium abundance from HII regions]]
+- Primordial helium abundance from HII regions
 - [[Saha equation and recombination]]
 - [[Stellar nucleosynthesis]]
 - [[Stellar populations I II III]]
