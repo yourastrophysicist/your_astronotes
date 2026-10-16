@@ -5,101 +5,80 @@ title: "README"
 
 # Your AstroNotes
 
-Welcome to the public archive for the Master of Science coursework in Astrophysics and Cosmology at the University of Padua (Università degli Studi di Padova), Italy, covering Semesters 1 and 2.
+These are my notes from the first year of the Master's in Astrophysics and Cosmology at the University of Padua, Semesters 1 and 2. I wrote them for myself while studying for the exams, and I keep them public because a set of notes that only I can read is not much use to anyone else.
 
-This repository is an interconnected working second brain compiled and navigated by one voyager only as an open graduate curriculum reference. It contains lecture syntheses, mathematical derivations, observational instrumentation notes, laboratory reductions, and theoretical foundations.
+Everything here was put together by one voyager only. There are lecture write-ups, derivations worked out step by step, notes on instruments and detectors, and a lot of small notes on single ideas that link to each other.
 
-The vault documents the solo journey of one voyager only through physics, mathematics, and cosmology, open for undergraduates, graduate students, and independent researchers who want to study astrophysical material from first principles.
-
-* **Compiler**: One voyager only
-* **Live Website**: [https://yourastrophysicist.github.io/your_astronotes/](https://yourastrophysicist.github.io/your_astronotes/)
-* **Instagram**: [@your.astrophysicist](https://instagram.com/your.astrophysicist)
-* **GitHub**: [yourastrophysicist/your_astronotes](https://github.com/yourastrophysicist/your_astronotes)
+* Website, [yourastrophysicist.github.io/your_astronotes](https://yourastrophysicist.github.io/your_astronotes/)
+* Instagram, [@your.astrophysicist](https://instagram.com/your.astrophysicist)
 
 ---
 
-## Why This Vault Exists
+## Why I keep them linked
 
-Graduate physics is dense and non-linear. Lecture slides and textbook chapters often isolate topics that are deeply interconnected:
-* Spherical trigonometry in positional astronomy directly informs pointing coordinates, atmospheric airmass calculations, and telescope pointing models.
-* Radiative transfer through stellar atmospheres supplies boundary conditions for the differential equations of internal stellar structure.
-* Differential geometry in general relativity directly derives the Friedmann acceleration equations that govern cosmological expansion.
-* Fourier optics in classical physics explains how radio and optical interferometers synthesize high-resolution images from distributed aperture arrays.
+The courses are taught one at a time, but the physics does not stay in its box. The spherical trigonometry from the first weeks comes back every time a telescope has to point somewhere. The radiative transfer in a stellar atmosphere is what sets the boundary of the stellar structure equations. The geometry from general relativity is where the Friedmann equations come from. The Fourier optics from an old physics course is the whole reason an interferometer can make an image.
 
-Storing this material as an interconnected graph makes those cross-disciplinary connections explicit. You can trace any physical result back to its mathematical foundations and forward to its observational consequences.
+So instead of one long document per course, every idea gets its own note and links to the ones it needs. From any result you can go back to the maths behind it, or forward to what you would actually measure.
 
 ---
 
-## Academic Scope (Semesters 1 – 2)
+## The courses
 
-The vault is structured around ten primary lecture courses and laboratory modules organized across Semesters 1 and 2 in 04_Atlas/: Each MOC serves as a comprehensive syllabus and conceptual spine for a semester course:
+There are ten courses, each with its own map in `04_Atlas/`. A map is the best place to start, because it follows the order the course was taught.
 
-### Semester 1 (Foundations)
-1. **[[Fundamentals_Astrophysics_Cosmology_MOC\|Fundamentals of Astrophysics and Cosmology]]** (Prof. G. Rodighiero & Prof. M. Viel)
-   Foundational coordinates, spherical trigonometry, radiative mechanisms, magnitudes, stellar evolution basics, galactic structure, Hubble law, and thermal cosmic history.
+### Semester 1
 
-2. **[[Observational_Astrophysics_MOC\|Observational Astrophysics]]** (Prof. E. Giro & Prof. G. Umbriaco)
-   Atmospheric extinction and seeing, astronomical detectors (CCDs and infrared arrays), signal-to-noise calculations, photometric calibration, and error budgets.
+1. **[[Fundamentals_Astrophysics_Cosmology_MOC\|Fundamentals of Astrophysics and Cosmology]]**, Prof. G. Rodighiero and Prof. M. Viel
+   Coordinates and spherical trigonometry, radiation, magnitudes, the basics of stellar evolution, the structure of the Galaxy, the Hubble law and the thermal history of the universe.
 
-3. **[[General_Relativity_MOC\|General Relativity for Astrophysics]]** (Prof. S. Matarrese & Cambridge Baumann)
-   Differential geometry, manifolds, Christoffel symbols, Riemann curvature, Einstein field equations, geodesic motion, Schwarzschild geometry, and gravitational waves.
+2. **[[Observational_Astrophysics_MOC\|Observational Astrophysics]]**, Prof. E. Giro and Prof. G. Umbriaco
+   What the atmosphere does to light, CCDs and infrared arrays, signal to noise, photometric calibration and how to build an error budget.
 
-4. **[[Mathematical_Numerical_Methods_MOC\|Mathematical and Numerical Methods]]** (Prof. M. Mapelli)
-   Numerical linear algebra, root-finding, numerical integration, ordinary differential equation solvers (Runge-Kutta, symplectic integrators), and Monte Carlo techniques.
+3. **[[General_Relativity_MOC\|General Relativity for Astrophysics]]**, Prof. S. Matarrese, with Baumann's Cambridge notes
+   Manifolds, Christoffel symbols, the Riemann tensor, the Einstein equations, geodesics, the Schwarzschild solution and gravitational waves.
 
-5. **[[Lab_High-Energy_MOC\|Astrophysics Laboratory 1 (High Energy)]]** (Prof. L. Burderi)
-   Non-thermal radiation mechanisms (synchrotron, inverse Compton, relativistic bremsstrahlung), grazing-incidence X-ray optics, scintillation crystals, and solid-state detectors.
+4. **[[Mathematical_Numerical_Methods_MOC\|Mathematical and Numerical Methods]]**, Prof. M. Mapelli
+   Linear algebra on a computer, root finding, numerical integration, Runge-Kutta and symplectic integrators, and Monte Carlo methods.
 
-### Semester 2 (Stars, Galaxies, and Cosmology)
-6. **[[Astrophysics_of_Galaxies_MOC\|Astrophysics of Galaxies]]** (Prof. A. Moretti)
-   Photometric morphology (Sérsic, de Vaucouleurs), stellar dynamics, Jeans equations, dark matter halo profiles, and galactic scaling relations.
+5. **[[Lab_High-Energy_MOC\|Astrophysics Laboratory 1 (High Energy)]]**, Prof. L. Burderi
+   Synchrotron, inverse Compton and bremsstrahlung, grazing incidence X-ray optics, scintillators and solid state detectors.
 
-7. **[[Stellar_Astrophysics_MOC\|Stellar Astrophysics]]** (Prof. A. Milone)
-   Stellar structure equations, polytropic models, equation of state, nuclear fusion cycles, radiative atmospheres, and stellar population synthesis.
+### Semester 2
 
-8. **[[Astronomical_Interferometry_MOC\|Astronomical Interferometry]]** (Prof. C. Pernechele)
-   Spatial coherence theory, van Cittert-Zernike theorem, aperture synthesis, uv-plane coverage, visibility functions, dirty beams, CLEAN algorithms, ALMA, and the VLTI.
+6. **[[Astrophysics_of_Galaxies_MOC\|Astrophysics of Galaxies]]**, Prof. A. Moretti
+   Galaxy profiles (Sérsic, de Vaucouleurs), stellar dynamics and the Jeans equations, dark matter halos and the scaling relations.
 
-9. **[[Observational_Cosmology_MOC\|Observational Cosmology]]** (Prof. M. Viel & Prof. P. Vielva)
-   FLRW metric dynamics, cosmological parameters, cosmic distance ladder, big bang nucleosynthesis, recombination, and the cosmic microwave background.
+7. **[[Stellar_Astrophysics_MOC\|Stellar Astrophysics]]**, Prof. A. Milone
+   The stellar structure equations, polytropes, the equation of state, nuclear burning, stellar atmospheres and stellar populations.
 
-10. **[[Astronomical_Spectroscopy_MOC\|Astronomical Spectroscopy]]** (Prof. S. Ciroi)
-    Atomic structure, selection rules, line broadening mechanisms, spectrograph optics, dispersion, resolution, and Doppler kinematic measurements.
+8. **[[Astronomical_Interferometry_MOC\|Astronomical Interferometry]]**, Prof. C. Pernechele
+   Spatial coherence and the van Cittert-Zernike theorem, aperture synthesis and the uv plane, visibilities, the dirty beam and CLEAN, ALMA and the VLTI.
 
+9. **[[Observational_Cosmology_MOC\|Observational Cosmology]]**, Prof. M. Viel and Prof. P. Vielva
+   The FLRW metric, the cosmological parameters, the distance ladder, big bang nucleosynthesis, recombination and the cosmic microwave background.
 
----
-
-## Directory Architecture
-
-The repository follows a clean modular hierarchy:
-
-* **04_Atlas/**: Ten Maps of Content organizing curricula and reading roadmaps, along with the master [[04_Atlas\|04_Atlas Hub]].
-* **02_Literature/**: Lecture syntheses, course slide transcriptions, and reference literature breakdowns across all courses.
-* **03_Zettel/**: Over 1,300 atomic concept notes. Each note focuses on a discrete physical mechanism, mathematical definition, or observational effect with explicit backlinks.
-* **assets/images/**: 2,870 astronomical diagrams, ray-tracing sketches, coordinate geometries, and observational plots.
+10. **[[Astronomical_Spectroscopy_MOC\|Astronomical Spectroscopy]]**, Prof. S. Ciroi
+    Atomic structure and selection rules, line broadening, how a spectrograph works, dispersion and resolution, and measuring velocities from Doppler shifts.
 
 ---
 
-## How to Study with This Vault
+## What is in the folders
 
-1. **Start with a Course MOC**: Open an MOC in 04_Atlas/ to see the complete narrative arc of a course rather than reading disconnected concepts.
-2. **Work through the Mathematics**: Notes contain step-by-step derivations. Calculate the metric contractions, verify dimensional homogeneity, and evaluate physical limits.
-3. **Follow the Cross-Links**: Concepts link bidirectionally. If a derivation references a theorem or detector parameter, click the linked note to inspect its definition.
-
----
-
-## Assumed Background
-
-The notes assume standard undergraduate preparation in physics and mathematics:
-* Multivariable calculus, vector calculus, and ordinary differential equations.
-* Linear algebra (matrix decomposition, eigenvalues, spectral theorems).
-* Classical mechanics (Lagrangian and Hamiltonian dynamics).
-* Classical electrodynamics (Maxwell equations, electromagnetic radiation).
-* Thermodynamics and statistical mechanics.
-* Introductory quantum mechanics.
+* `04_Atlas/` has the ten course maps and the [[04_Atlas\|main hub]] that links them.
+* `02_Literature/` has the lecture write-ups and my notes on the papers each course used.
+* `03_Zettel/` has 1,128 short notes, one idea each, linked both ways.
+* `assets/images/` has the figures, about 2,800 of them, from slides, papers and my own sketches.
 
 ---
 
-## Contributing and Errata
+## How I would use them
 
-If you identify an error in a derivation or have a clarification to suggest, open an issue directly on the [GitHub repository](https://github.com/yourastrophysicist/your_astronotes/issues).
+Open a course map first and read it in order, so the notes come with their context. When a note has a derivation, do it yourself on paper before reading mine, check the units and look at what happens in the limits. When a note mentions something you do not remember, click it, that is what the links are for.
+
+The notes assume the usual bachelor background, so calculus and differential equations, linear algebra, classical mechanics, electromagnetism, thermodynamics and statistical mechanics, and some quantum mechanics.
+
+---
+
+## Mistakes
+
+I am sure there are some. If you find one, or a step that does not follow, please open an [issue](https://github.com/yourastrophysicist/your_astronotes/issues) and tell me.
