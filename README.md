@@ -7,7 +7,7 @@ title: "README"
 
 These are my notes from the first year of the Master's in Astrophysics and Cosmology at the University of Padua, Semesters 1 and 2. I wrote them for myself while studying for the exams, and I keep them public because a set of notes that only I can read is not much use to anyone else.
 
-Everything here was put together by one voyager only. There are lecture write-ups, derivations worked out step by step, notes on instruments and detectors, and a lot of small notes on single ideas that link to each other.
+Everything here was put together by one voyager only. There are lecture write-ups, notes on instruments and detectors, a lot of small notes on single ideas that link to each other, and a full set of cosmology derivations worked out step by step, one equation per file.
 
 * Website, [yourastro.space/notes](https://www.yourastro.space/notes/)
 * Instagram, [@your.astrophysicist](https://instagram.com/your.astrophysicist)
@@ -66,14 +66,15 @@ There are ten courses, each with its own map in `04_Atlas/`. A map is the best p
 
 * `04_Atlas/` has the ten course maps and the [[04_Atlas\|main hub]] that links them.
 * `02_Literature/` has the lecture write-ups and my notes on the papers each course used.
-* `03_Zettel/` has 1,128 short notes, one idea each, linked both ways.
-* `assets/images/` has the figures, about 2,800 of them, from slides, papers and my own sketches.
+* `03_Zettel/` has 1,130 short notes, one idea each, linked both ways.
+* `03_Zettel/Derivations/` has the 25 derivations of Fundamentals of Astrophysics and Cosmology, from the Robertson-Walker metric to the Press-Schechter mass function, with an [[Fundamentals Derivations\|index]] that puts them in the order you would build them on a board.
+* `assets/images/` has the figures, about 2,840 of them, from slides, papers and my own sketches.
 
 ---
 
 ## How I would use them
 
-Open a course map first and read it in order, so the notes come with their context. When a note has a derivation, do it yourself on paper before reading mine, check the units and look at what happens in the limits. When a note mentions something you do not remember, click it, that is what the links are for.
+Open a course map first and read it in order, so the notes come with their context. When a note has a derivation, do it yourself on paper before reading mine, check the units and look at what happens in the limits. The files in the derivations folder are made for exactly that, each one ends with a few questions and a short summary to redo from memory. When a note mentions something you do not remember, click it, that is what the links are for.
 
 The notes assume the usual bachelor background, so calculus and differential equations, linear algebra, classical mechanics, electromagnetism, thermodynamics and statistical mechanics, and some quantum mechanics.
 

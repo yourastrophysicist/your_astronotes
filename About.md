@@ -5,91 +5,52 @@ title: About Your AstroNotes
 
 # About Your AstroNotes
 
-Welcome to the public archive of Master of Science coursework notes in Astrophysics and Cosmology from the University of Padua (Università degli Studi di Padova), Italy, spanning Semesters 1 and 2.
+Your AstroNotes is the public half of the notes I keep for the Master's in Astrophysics and Cosmology at the University of Padua (Università degli Studi di Padova, Dipartimento di Fisica e Astronomia). It covers the first year, Semesters 1 and 2.
 
-This project transforms an interconnected graduate study vault into an open-access digital garden, compiled, derived, and explored by one voyager only.
+I write everything in Obsidian first, while I study, and publish the first-year part here. It was compiled, derived and explored by one voyager only.
 
 ---
 
-## Author and Compiler
+## Where to find me
 
-* **Compiler**: One voyager only
-* **Institution**: Università degli Studi di Padova — Dipartimento di Fisica e Astronomia
+* **Website**: [yourastro.space](https://www.yourastro.space/), and these notes at [yourastro.space/notes](https://www.yourastro.space/notes/)
 * **Instagram**: [@your.astrophysicist](https://instagram.com/your.astrophysicist)
-* **GitHub Profile**: [yourastrophysicist](https://github.com/yourastrophysicist)
-* **Website Repository**: [your_astronotes](https://github.com/yourastrophysicist/your_astronotes)
-* **Published Garden**: [yourastro.space/notes](https://www.yourastro.space/notes/)
+* **GitHub**: [yourastrophysicist](https://github.com/yourastrophysicist), with the source of this site in [your_astronotes](https://github.com/yourastrophysicist/your_astronotes)
 
 ---
 
-## Academic Scope (Semesters 1 – 2)
+## What is here
 
-The vault covers ten primary lecture courses and laboratory modules:
+Ten courses, each with its own map in `04_Atlas/`. The [[04_Atlas\|main hub]] links all of them, and the [[README]] says in a few lines what each course is about.
 
-### Semester 1: Foundations
-1. **[[Fundamentals_Astrophysics_Cosmology_MOC\|Fundamentals of Astrophysics and Cosmology]]**
-   Prof. G. Rodighiero & Prof. M. Viel  
-   Spherical astronomy, coordinate transformations, radiation mechanisms, stellar magnitudes, galactic components, Hubble expansion, and thermal history.
+### Semester 1
 
-2. **[[Observational_Astrophysics_MOC\|Observational Astrophysics]]**
-   Prof. E. Giro & Prof. G. Umbriaco  
-   Atmospheric extinction and seeing, optical and infrared detector architectures, CCD quantum efficiency, noise budgets, signal-to-noise calculations, and photometric systems.
+1. [[Fundamentals_Astrophysics_Cosmology_MOC\|Fundamentals of Astrophysics and Cosmology]], Prof. G. Rodighiero and Prof. M. Viel
+2. [[Observational_Astrophysics_MOC\|Observational Astrophysics]], Prof. E. Giro and Prof. G. Umbriaco
+3. [[General_Relativity_MOC\|General Relativity for Astrophysics]], Prof. S. Matarrese
+4. [[Mathematical_Numerical_Methods_MOC\|Mathematical and Numerical Methods]], Prof. M. Mapelli
+5. [[Lab_High-Energy_MOC\|Astrophysics Laboratory 1 (High Energy)]], Prof. L. Burderi
 
-3. **[[General_Relativity_MOC\|General Relativity for Astrophysics]]**
-   Prof. S. Matarrese & Cambridge Baumann  
-   Differential geometry, curved manifolds, Christoffel symbols, Riemann curvature tensor, Einstein field equations, Schwarzschild metric, geodesics, and gravitational radiation.
+### Semester 2
 
-4. **[[Mathematical_Numerical_Methods_MOC\|Mathematical and Numerical Methods]]**
-   Prof. M. Mapelli  
-   Matrix decomposition, root-finding, numerical quadrature, ordinary differential equation solvers (Runge-Kutta, symplectic integrators), and Monte Carlo techniques.
+6. [[Astrophysics_of_Galaxies_MOC\|Astrophysics of Galaxies]], Prof. A. Moretti
+7. [[Stellar_Astrophysics_MOC\|Stellar Astrophysics]], Prof. A. Milone
+8. [[Astronomical_Interferometry_MOC\|Astronomical Interferometry]], Prof. C. Pernechele
+9. [[Observational_Cosmology_MOC\|Observational Cosmology]], Prof. M. Viel and Prof. P. Vielva
+10. [[Astronomical_Spectroscopy_MOC\|Astronomical Spectroscopy]], Prof. S. Ciroi
 
-5. **[[Lab_High-Energy_MOC\|Astrophysics Laboratory 1 (High Energy)]]**
-   Prof. L. Burderi  
-   Non-thermal radiation processes (synchrotron, inverse Compton, relativistic bremsstrahlung), grazing-incidence X-ray optics, scintillation crystals, solid-state detectors, and space observatory data reduction.
-
-### Semester 2: Stars, Galaxies, and Cosmology
-6. **[[Astrophysics_of_Galaxies_MOC\|Astrophysics of Galaxies]]**
-   Prof. A. Moretti  
-   Surface photometry (Sérsic, de Vaucouleurs), stellar dynamics, collisionless Boltzmann equation, Jeans equations, dark matter haloes, and scaling relations.
-
-7. **[[Stellar_Astrophysics_MOC\|Stellar Astrophysics]]**
-   Prof. A. Milone  
-   Stellar structure differential equations, equation of state, nuclear fusion cycles (pp chains, CNO, triple-alpha), radiative atmospheres, opacity, and stellar population synthesis.
-
-8. **[[Astronomical_Interferometry_MOC\|Astronomical Interferometry]]**
-   Prof. C. Pernechele  
-   Spatial coherence theory, van Cittert-Zernike theorem, Fourier synthesis imaging, aperture synthesis, visibility functions, dirty beams, CLEAN algorithms, ALMA, and the VLTI.
-
-9. **[[Observational_Cosmology_MOC\|Observational Cosmology]]**
-   Prof. M. Viel & Prof. P. Vielva  
-   FLRW metric dynamics, Friedmann acceleration equations, cosmological distance ladder, cosmic microwave background physics, big bang nucleosynthesis, and dark energy phenomenology.
-
-10. **[[Astronomical_Spectroscopy_MOC\|Astronomical Spectroscopy]]**
-    Prof. S. Ciroi  
-    Quantum atomic transitions, selection rules, thermal and pressure broadening, optical grating physics, spectrograph designs, slit geometry, and radial velocity measurements.
-
+Besides the maps there are the lecture write-ups and paper notes in `02_Literature/`, about 1,130 short notes in `03_Zettel/`, one idea each, and the 25 cosmology derivations in [[Fundamentals Derivations]], written out so that no step is skipped.
 
 ---
 
-## Directory Architecture
+## How the site works
 
-The vault is organized following an interconnected Zettelkasten framework:
-
-* **04_Atlas/**: 10 comprehensive course Maps of Content and the central [[04_Atlas\|04_Atlas Hub]]. Start here for curricular syllabi and course roadmaps.
-* **02_Literature/**: Detailed lecture syntheses, slide transcriptions, and reference literature breakdowns across all courses.
-* **03_Zettel/**: Over 1,300 atomic concept notes. Each note focuses on a discrete physical principle, derivation, or computational method with bilateral cross-links.
-* **assets/images/**: 2,870 high-resolution astronomical diagrams, instrument schematics, ray tracings, and observational data plots.
+* The look follows the old MediaWiki Vector skin, because it is easy to read for a long time.
+* The maths is written in LaTeX and rendered in the browser with KaTeX.
+* The links between notes work like in Obsidian, and the graph view shows how the notes connect across courses.
 
 ---
 
-## Typography and Rendering
+## Mistakes
 
-* **Theme**: Styled after the classic MediaWiki / Wikipedia Vector skin for clear, legible reading.
-* **Mathematics**: All mathematical formulations are authored in standard LaTeX and rendered client-side using KaTeX.
-* **Graph View**: An interactive force-directed canvas maps the cross-disciplinary connections between atomic notes.
-
----
-
-## Contributing and Feedback
-
-If you encounter a typographical error or algebraic inconsistency in any derivation, please open an issue directly on the [GitHub repository issues page](https://github.com/yourastrophysicist/your_astronotes/issues).
+If you find a typo, a sign that went wrong or a step that does not follow, please open an [issue](https://github.com/yourastrophysicist/your_astronotes/issues) and tell me.
