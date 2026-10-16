@@ -15,6 +15,12 @@ Every later course (Observational Cosmology, High Energy Instrumentation, GR) is
 
 ---
 
+## Derivations, step by step
+
+The 25 derivations of the course, from the Robertson-Walker metric to the Press-Schechter mass function, are written out one per file in [[Fundamentals Derivations]]. Each one lists its symbols and assumptions, names the operation in every step, and ends with checks and a short board summary.
+
+---
+
 ## Reference texts and course materials
 
 - **Karttunen, Oja, Poutanen, Donner**, *Fundamental Astronomy* — the spherical astronomy, radiative processes, and stellar evolution backbone (Chapters 2, 4, 5, 9, 11, 12, 15).
