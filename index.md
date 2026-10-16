@@ -26,9 +26,9 @@ title: "Master's Curriculum in Astrophysics & Cosmology"
       <ul style="list-style-type: square; padding-left: 18px; margin: 0; line-height: 1.8;">
         <li><a href="./04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html"><strong>Fundamentals of Astrophysics & Cosmology</strong></a><br><small style="color: var(--text-muted, #54595d);">Prof. Nicola Bartolo & Prof. Giulia Rodighiero</small></li>
         <li><a href="./04_Atlas/Observational_Astrophysics_MOC.html"><strong>Observational Astrophysics</strong></a><br><small style="color: var(--text-muted, #54595d);">Prof. Paolo Cassata</small></li>
-        <li><a href="./04_Atlas/General_Relativity_MOC.html"><strong>General Relativity for Astrophysics</strong></a><br><small style="color: var(--text-muted, #54595d);">Baumann's Cambridge notes</small></li>
+        <li><a href="./04_Atlas/General_Relativity_MOC.html"><strong>General Relativity for Astrophysics and Cosmology</strong></a><br><small style="color: var(--text-muted, #54595d);">Prof. Francesco D'Eramo</small></li>
         <li><a href="./04_Atlas/Mathematical_Numerical_Methods_MOC.html"><strong>Mathematical and Numerical Methods</strong></a><br><small style="color: var(--text-muted, #54595d);">Prof. Michela Mapelli</small></li>
-        <li><a href="./04_Atlas/Lab_High-Energy_MOC.html"><strong>Astrophysics Laboratory 1 (High Energy)</strong></a></li>
+        <li><a href="./04_Atlas/Lab_High-Energy_MOC.html"><strong>Astrophysics Laboratory 1 (High Energy)</strong></a><br><small style="color: var(--text-muted, #54595d);">Prof. Stefano Ciroi</small></li>
       </ul>
     </div>
   </div>

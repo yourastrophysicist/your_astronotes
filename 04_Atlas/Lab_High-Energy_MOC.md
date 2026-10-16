@@ -4,6 +4,8 @@ title: "Lab_High-Energy_MOC"
 ---
 # High Energy Astrophysics Laboratory — Map of Content
 
+A.Y. 2025/2026, **Prof. Stefano Ciroi**, University of Padova.
+
 The central thread of this course is a single question:
 	**how do we detect, measure, and interpret radiation from the most violent objects in the universe?**
 

@@ -34,13 +34,13 @@ There are ten courses, each with its own map in `04_Atlas/`. A map is the best p
 2. **[[Observational_Astrophysics_MOC\|Observational Astrophysics]]**, Prof. Paolo Cassata
    What the atmosphere does to light, CCDs and infrared arrays, signal to noise, photometric calibration and how to build an error budget.
 
-3. **[[General_Relativity_MOC\|General Relativity for Astrophysics]]**, with Baumann's Cambridge notes
+3. **[[General_Relativity_MOC\|General Relativity for Astrophysics and Cosmology]]**, Prof. Francesco D'Eramo, with Baumann's Cambridge notes
    Manifolds, Christoffel symbols, the Riemann tensor, the Einstein equations, geodesics, the Schwarzschild solution and gravitational waves.
 
 4. **[[Mathematical_Numerical_Methods_MOC\|Mathematical and Numerical Methods]]**, Prof. Michela Mapelli
    Linear algebra on a computer, root finding, numerical integration, Runge-Kutta and symplectic integrators, and Monte Carlo methods.
 
-5. **[[Lab_High-Energy_MOC\|Astrophysics Laboratory 1 (High Energy)]]**
+5. **[[Lab_High-Energy_MOC\|Astrophysics Laboratory 1 (High Energy)]]**, Prof. Stefano Ciroi
    Synchrotron, inverse Compton and bremsstrahlung, grazing incidence X-ray optics, scintillators and solid state detectors.
 
 ### Semester 2

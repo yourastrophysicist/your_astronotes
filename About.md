@@ -27,9 +27,9 @@ Ten courses, each with its own map in `04_Atlas/`. The [[04_Atlas\|main hub]] li
 
 1. [[Fundamentals_Astrophysics_Cosmology_MOC\|Fundamentals of Astrophysics and Cosmology]], Prof. Nicola Bartolo and Prof. Giulia Rodighiero
 2. [[Observational_Astrophysics_MOC\|Observational Astrophysics]], Prof. Paolo Cassata
-3. [[General_Relativity_MOC\|General Relativity for Astrophysics]], with Baumann's Cambridge notes
+3. [[General_Relativity_MOC\|General Relativity for Astrophysics and Cosmology]], Prof. Francesco D'Eramo
 4. [[Mathematical_Numerical_Methods_MOC\|Mathematical and Numerical Methods]], Prof. Michela Mapelli
-5. [[Lab_High-Energy_MOC\|Astrophysics Laboratory 1 (High Energy)]]
+5. [[Lab_High-Energy_MOC\|Astrophysics Laboratory 1 (High Energy)]], Prof. Stefano Ciroi
 
 ### Semester 2
 

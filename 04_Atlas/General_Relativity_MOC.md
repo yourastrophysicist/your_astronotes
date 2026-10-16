@@ -4,7 +4,7 @@ title: "General_Relativity_MOC"
 ---
 # General Relativity for Astrophysics and Cosmology, Map of Content
 
-A.Y. 2025/2026, University of Padua. Master's-level course taught in the first semester. The exam (oral, with written portion) draws from a published list of 20 questions.
+A.Y. 2025/2026, **Prof. Francesco D'Eramo** (SCQ0093378), University of Padua. Master's-level course taught in the first semester. The exam (oral, with written portion) draws from a published list of 20 questions.
 
 ---
 

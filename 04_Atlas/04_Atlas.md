@@ -14,9 +14,9 @@ Welcome to the central cartography of the astrophysics second brain. This direct
 |---|---|---|---|
 | **Fundamentals of Astrophysics & Cosmology** | Prof. Nicola Bartolo & Prof. Giulia Rodighiero | **[[Fundamentals_Astrophysics_Cosmology_MOC]]** | 02_Literature/Lectures/ |
 | **Observational Astrophysics** | Prof. Paolo Cassata | **[[Observational_Astrophysics_MOC]]** | 02_Literature/Lectures/Cassata/ |
-| **General Relativity for Astrophysics** | Baumann's Cambridge notes | **[[General_Relativity_MOC]]** | 02_Literature/Baumann/ |
+| **General Relativity for Astrophysics and Cosmology** | Prof. Francesco D'Eramo | **[[General_Relativity_MOC]]** | 02_Literature/Baumann/ |
 | **Mathematical and Numerical Methods** | Prof. Michela Mapelli | **[[Mathematical_Numerical_Methods_MOC]]** | 02_Literature/Lectures/ |
-| **Astrophysics Laboratory 1 (High Energy)** | | **[[Lab_High-Energy_MOC]]** | 02_Literature/Lectures/ |
+| **Astrophysics Laboratory 1 (High Energy)** | Prof. Stefano Ciroi | **[[Lab_High-Energy_MOC]]** | 02_Literature/Lectures/ |
 
 ---
 
