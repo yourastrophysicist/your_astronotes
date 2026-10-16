@@ -4,9 +4,6 @@ title: "Astrophysics_of_Galaxies_MOC"
 ---
 # Astrophysics of Galaxies  -  Map of Content
 
-> **Oral Exam Scheduled** - **Deferred to Winter Session (January / February 2027)**, Aula A, Ex Rizzato (Examiner - **Prof. Alessandro Pizzella**). Part of Exams autumn 2026 sprint.
-> See master exam protocols - Master Derivations and Mathematical Rigor, Master Observational Graphs and Blackboard Fluency, and Lesson Learned - Mathematical Rigor and Observational Graph Fluency.
-
 A.Y. 2025/2026, second semester at the University of Padova. Complete lecture material from `C -\Users\snupido\Documents\1_PROJECTS\2nd_Semester\Astrophysics of Galaxies` (13 core lecture decks with 585 slides, plus 65 publication figures from `figures/` and `smbh_figures/` extracted to `07_Images/Astrophysics_of_Galaxies/`), complemented by the student's master LaTeX synthesis documents `Astrophysics_of_Galaxies.tex` and `SMBH_in_Galaxies.tex`.
 
 This course extends [[Observational_Cosmology_MOC]] and [[Fundamentals_Astrophysics_Cosmology_MOC]] into the full physical anatomy of **galaxies** - how they are measured, morphologically classified, spectrally dissected, kinematically modeled, and used to constrain dark matter and black hole co-evolution.

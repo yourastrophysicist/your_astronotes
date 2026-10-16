@@ -4,9 +4,6 @@ title: "Fundamentals_Astrophysics_Cosmology_MOC"
 ---
 # Fundamentals of Astrophysics and Cosmology — Map of Content
 
-> **Exam Status** - Sat on **Friday 18 September 2026** (Aula A, Ex Rizzato, Examiners: Prof Nicola Bartolo & Prof Giulia Rodighiero). **FAILED (retake scheduled for Winter Session, Jan / Feb 2027)**.
-> See postmortem & mathematical rigor protocol: Exam Postmortem and Mathematical Rigor Protocol and Lesson Learned - Mathematical Rigor and Observational Graph Fluency.
-
 A.Y. 2025/2026 — **Prof. Nicola Bartolo** (cosmology block) and **Prof. Giulia Rodighiero** (astrophysics / observations block), with tutor Dr. Ripalta Amoruso. University of Padova.
 
 This is the first-semester foundation course. It sits underneath everything else: it teaches the *language* in which the rest of my degree is written. spherical astronomy gives me the coordinates to point at the sky. radiative mechanisms give me the photons. stellar evolution and the Milky Way give me the actors. external galaxies and the distance scale give me the stage. and then cosmology comes in and asks the dangerous question, *what is the stage made of, and why is it expanding?*

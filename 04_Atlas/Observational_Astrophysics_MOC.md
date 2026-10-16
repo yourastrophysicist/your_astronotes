@@ -4,9 +4,6 @@ title: "Observational_Astrophysics_MOC"
 ---
 # Observational Astrophysics — Map of Content
 
-> **Exam Status** - Sat on **Tuesday 15 September 2026** (Aula A, Ex Rizzato, Examiner: **Prof Paolo Cassata**). **FAILED (retake scheduled for Winter Session, Jan / Feb 2027)**.
-> See postmortem & graph literacy protocol: Exam Postmortem and Observational Graph Fluency and Lesson Learned - Mathematical Rigor and Observational Graph Fluency.
-
 A.Y. 2025/2026, first semester at the University of Padova. Complete lecture material from `C:\Users\snupido\Documents\1_PROJECTS\1st_Semester\OBSERVATIONAL ASTROPHYSICS` (Decks 1.1 through 7, 542 lecture slides extracted to `07_Images/Observational_Astrophysics/`), plus the definitive oral exam answer drafts `obs1.pdf` through `obs7.pdf`.
 
 This course is the **observational pipeline**, end to end. Unlike [[Fundamentals_Astrophysics_Cosmology_MOC]] which sweeps broadly across theoretical cosmology, and unlike [[Astrophysics_of_Galaxies_MOC]] which focuses on galactic structure and evolution, this course answers the fundamental experimental question:

@@ -4,8 +4,6 @@ title: "Observational_Cosmology_MOC"
 ---
 # Observational Cosmology — Map of Content
 
-> **Oral Exam Status**: **Deferred to Winter Session (January / February 2027)** (Examiner: Prof. Giulia Rodighiero, approved combination 1-2-5). Formerly scheduled for 25 September 2026. Tracked in Exams autumn 2026 sprint.
-
 A.Y. 2024/2025 — **Prof. Giulia Rodighiero** and **Prof. Paolo Cassata**, with visiting professor **Pablo Pérez-González** and a special lecture on lensing by **Dr. Andrea Enia**.
 
 The central thread of this course is a different question from the high-energy lab — instead of *how do we detect the most violent objects*, here it is:
