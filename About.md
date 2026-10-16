@@ -25,19 +25,19 @@ Ten courses, each with its own map in `04_Atlas/`. The [[04_Atlas\|main hub]] li
 
 ### Semester 1
 
-1. [[Fundamentals_Astrophysics_Cosmology_MOC\|Fundamentals of Astrophysics and Cosmology]], Prof. G. Rodighiero and Prof. M. Viel
-2. [[Observational_Astrophysics_MOC\|Observational Astrophysics]], Prof. E. Giro and Prof. G. Umbriaco
-3. [[General_Relativity_MOC\|General Relativity for Astrophysics]], Prof. S. Matarrese
-4. [[Mathematical_Numerical_Methods_MOC\|Mathematical and Numerical Methods]], Prof. M. Mapelli
-5. [[Lab_High-Energy_MOC\|Astrophysics Laboratory 1 (High Energy)]], Prof. L. Burderi
+1. [[Fundamentals_Astrophysics_Cosmology_MOC\|Fundamentals of Astrophysics and Cosmology]], Prof. Nicola Bartolo and Prof. Giulia Rodighiero
+2. [[Observational_Astrophysics_MOC\|Observational Astrophysics]], Prof. Paolo Cassata
+3. [[General_Relativity_MOC\|General Relativity for Astrophysics]], with Baumann's Cambridge notes
+4. [[Mathematical_Numerical_Methods_MOC\|Mathematical and Numerical Methods]], Prof. Michela Mapelli
+5. [[Lab_High-Energy_MOC\|Astrophysics Laboratory 1 (High Energy)]]
 
 ### Semester 2
 
-6. [[Astrophysics_of_Galaxies_MOC\|Astrophysics of Galaxies]], Prof. A. Moretti
-7. [[Stellar_Astrophysics_MOC\|Stellar Astrophysics]], Prof. A. Milone
-8. [[Astronomical_Interferometry_MOC\|Astronomical Interferometry]], Prof. C. Pernechele
-9. [[Observational_Cosmology_MOC\|Observational Cosmology]], Prof. M. Viel and Prof. P. Vielva
-10. [[Astronomical_Spectroscopy_MOC\|Astronomical Spectroscopy]], Prof. S. Ciroi
+6. [[Astrophysics_of_Galaxies_MOC\|Astrophysics of Galaxies]], Prof. Alessandro Pizzella
+7. [[Stellar_Astrophysics_MOC\|Stellar Astrophysics]], Prof. Antonino Milone
+8. [[Astronomical_Interferometry_MOC\|Astronomical Interferometry]], Prof. Mauro D'Onofrio
+9. [[Observational_Cosmology_MOC\|Observational Cosmology]], Prof. Giulia Rodighiero and Prof. Paolo Cassata
+10. [[Astronomical_Spectroscopy_MOC\|Astronomical Spectroscopy]], Prof. Stefano Ciroi
 
 Besides the maps there are the lecture write-ups and paper notes in `02_Literature/`, about 1,130 short notes in `03_Zettel/`, one idea each, and the 25 cosmology derivations in [[Fundamentals Derivations]], written out so that no step is skipped.
 

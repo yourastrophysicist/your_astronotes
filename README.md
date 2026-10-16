@@ -28,36 +28,36 @@ There are ten courses, each with its own map in `04_Atlas/`. A map is the best p
 
 ### Semester 1
 
-1. **[[Fundamentals_Astrophysics_Cosmology_MOC\|Fundamentals of Astrophysics and Cosmology]]**, Prof. G. Rodighiero and Prof. M. Viel
+1. **[[Fundamentals_Astrophysics_Cosmology_MOC\|Fundamentals of Astrophysics and Cosmology]]**, Prof. Nicola Bartolo and Prof. Giulia Rodighiero
    Coordinates and spherical trigonometry, radiation, magnitudes, the basics of stellar evolution, the structure of the Galaxy, the Hubble law and the thermal history of the universe.
 
-2. **[[Observational_Astrophysics_MOC\|Observational Astrophysics]]**, Prof. E. Giro and Prof. G. Umbriaco
+2. **[[Observational_Astrophysics_MOC\|Observational Astrophysics]]**, Prof. Paolo Cassata
    What the atmosphere does to light, CCDs and infrared arrays, signal to noise, photometric calibration and how to build an error budget.
 
-3. **[[General_Relativity_MOC\|General Relativity for Astrophysics]]**, Prof. S. Matarrese, with Baumann's Cambridge notes
+3. **[[General_Relativity_MOC\|General Relativity for Astrophysics]]**, with Baumann's Cambridge notes
    Manifolds, Christoffel symbols, the Riemann tensor, the Einstein equations, geodesics, the Schwarzschild solution and gravitational waves.
 
-4. **[[Mathematical_Numerical_Methods_MOC\|Mathematical and Numerical Methods]]**, Prof. M. Mapelli
+4. **[[Mathematical_Numerical_Methods_MOC\|Mathematical and Numerical Methods]]**, Prof. Michela Mapelli
    Linear algebra on a computer, root finding, numerical integration, Runge-Kutta and symplectic integrators, and Monte Carlo methods.
 
-5. **[[Lab_High-Energy_MOC\|Astrophysics Laboratory 1 (High Energy)]]**, Prof. L. Burderi
+5. **[[Lab_High-Energy_MOC\|Astrophysics Laboratory 1 (High Energy)]]**
    Synchrotron, inverse Compton and bremsstrahlung, grazing incidence X-ray optics, scintillators and solid state detectors.
 
 ### Semester 2
 
-6. **[[Astrophysics_of_Galaxies_MOC\|Astrophysics of Galaxies]]**, Prof. A. Moretti
+6. **[[Astrophysics_of_Galaxies_MOC\|Astrophysics of Galaxies]]**, Prof. Alessandro Pizzella
    Galaxy profiles (Sérsic, de Vaucouleurs), stellar dynamics and the Jeans equations, dark matter halos and the scaling relations.
 
-7. **[[Stellar_Astrophysics_MOC\|Stellar Astrophysics]]**, Prof. A. Milone
+7. **[[Stellar_Astrophysics_MOC\|Stellar Astrophysics]]**, Prof. Antonino Milone
    The stellar structure equations, polytropes, the equation of state, nuclear burning, stellar atmospheres and stellar populations.
 
-8. **[[Astronomical_Interferometry_MOC\|Astronomical Interferometry]]**, Prof. C. Pernechele
+8. **[[Astronomical_Interferometry_MOC\|Astronomical Interferometry]]**, Prof. Mauro D'Onofrio
    Spatial coherence and the van Cittert-Zernike theorem, aperture synthesis and the uv plane, visibilities, the dirty beam and CLEAN, ALMA and the VLTI.
 
-9. **[[Observational_Cosmology_MOC\|Observational Cosmology]]**, Prof. M. Viel and Prof. P. Vielva
+9. **[[Observational_Cosmology_MOC\|Observational Cosmology]]**, Prof. Giulia Rodighiero and Prof. Paolo Cassata
    The FLRW metric, the cosmological parameters, the distance ladder, big bang nucleosynthesis, recombination and the cosmic microwave background.
 
-10. **[[Astronomical_Spectroscopy_MOC\|Astronomical Spectroscopy]]**, Prof. S. Ciroi
+10. **[[Astronomical_Spectroscopy_MOC\|Astronomical Spectroscopy]]**, Prof. Stefano Ciroi
     Atomic structure and selection rules, line broadening, how a spectrograph works, dispersion and resolution, and measuring velocities from Doppler shifts.
 
 ---

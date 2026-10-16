@@ -24,11 +24,11 @@ title: "Master's Curriculum in Astrophysics & Cosmology"
     </div>
     <div style="padding: 14px 16px;">
       <ul style="list-style-type: square; padding-left: 18px; margin: 0; line-height: 1.8;">
-        <li><a href="./04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html"><strong>Fundamentals of Astrophysics & Cosmology</strong></a><br><small style="color: var(--text-muted, #54595d);">Prof. G. Rodighiero & Prof. M. Viel</small></li>
-        <li><a href="./04_Atlas/Observational_Astrophysics_MOC.html"><strong>Observational Astrophysics</strong></a><br><small style="color: var(--text-muted, #54595d);">Prof. E. Giro & Prof. G. Umbriaco</small></li>
-        <li><a href="./04_Atlas/General_Relativity_MOC.html"><strong>General Relativity for Astrophysics</strong></a><br><small style="color: var(--text-muted, #54595d);">Prof. S. Matarrese & Cambridge Baumann</small></li>
-        <li><a href="./04_Atlas/Mathematical_Numerical_Methods_MOC.html"><strong>Mathematical and Numerical Methods</strong></a><br><small style="color: var(--text-muted, #54595d);">Prof. M. Mapelli</small></li>
-        <li><a href="./04_Atlas/Lab_High-Energy_MOC.html"><strong>Astrophysics Laboratory 1 (High Energy)</strong></a><br><small style="color: var(--text-muted, #54595d);">Prof. L. Burderi</small></li>
+        <li><a href="./04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html"><strong>Fundamentals of Astrophysics & Cosmology</strong></a><br><small style="color: var(--text-muted, #54595d);">Prof. Nicola Bartolo & Prof. Giulia Rodighiero</small></li>
+        <li><a href="./04_Atlas/Observational_Astrophysics_MOC.html"><strong>Observational Astrophysics</strong></a><br><small style="color: var(--text-muted, #54595d);">Prof. Paolo Cassata</small></li>
+        <li><a href="./04_Atlas/General_Relativity_MOC.html"><strong>General Relativity for Astrophysics</strong></a><br><small style="color: var(--text-muted, #54595d);">Baumann's Cambridge notes</small></li>
+        <li><a href="./04_Atlas/Mathematical_Numerical_Methods_MOC.html"><strong>Mathematical and Numerical Methods</strong></a><br><small style="color: var(--text-muted, #54595d);">Prof. Michela Mapelli</small></li>
+        <li><a href="./04_Atlas/Lab_High-Energy_MOC.html"><strong>Astrophysics Laboratory 1 (High Energy)</strong></a></li>
       </ul>
     </div>
   </div>
@@ -40,11 +40,11 @@ title: "Master's Curriculum in Astrophysics & Cosmology"
     </div>
     <div style="padding: 14px 16px;">
       <ul style="list-style-type: square; padding-left: 18px; margin: 0; line-height: 1.8;">
-        <li><a href="./04_Atlas/Astrophysics_of_Galaxies_MOC.html"><strong>Astrophysics of Galaxies</strong></a><br><small style="color: var(--text-muted, #54595d);">Prof. A. Moretti</small></li>
-        <li><a href="./04_Atlas/Stellar_Astrophysics_MOC.html"><strong>Stellar Astrophysics</strong></a><br><small style="color: var(--text-muted, #54595d);">Prof. A. Milone</small></li>
-        <li><a href="./04_Atlas/Astronomical_Interferometry_MOC.html"><strong>Astronomical Interferometry</strong></a><br><small style="color: var(--text-muted, #54595d);">Prof. C. Pernechele</small></li>
-        <li><a href="./04_Atlas/Observational_Cosmology_MOC.html"><strong>Observational Cosmology</strong></a><br><small style="color: var(--text-muted, #54595d);">Prof. M. Viel & Prof. P. Vielva</small></li>
-        <li><a href="./04_Atlas/Astronomical_Spectroscopy_MOC.html"><strong>Astronomical Spectroscopy</strong></a><br><small style="color: var(--text-muted, #54595d);">Prof. S. Ciroi</small></li>
+        <li><a href="./04_Atlas/Astrophysics_of_Galaxies_MOC.html"><strong>Astrophysics of Galaxies</strong></a><br><small style="color: var(--text-muted, #54595d);">Prof. Alessandro Pizzella</small></li>
+        <li><a href="./04_Atlas/Stellar_Astrophysics_MOC.html"><strong>Stellar Astrophysics</strong></a><br><small style="color: var(--text-muted, #54595d);">Prof. Antonino Milone</small></li>
+        <li><a href="./04_Atlas/Astronomical_Interferometry_MOC.html"><strong>Astronomical Interferometry</strong></a><br><small style="color: var(--text-muted, #54595d);">Prof. Mauro D'Onofrio</small></li>
+        <li><a href="./04_Atlas/Observational_Cosmology_MOC.html"><strong>Observational Cosmology</strong></a><br><small style="color: var(--text-muted, #54595d);">Prof. Giulia Rodighiero & Prof. Paolo Cassata</small></li>
+        <li><a href="./04_Atlas/Astronomical_Spectroscopy_MOC.html"><strong>Astronomical Spectroscopy</strong></a><br><small style="color: var(--text-muted, #54595d);">Prof. Stefano Ciroi</small></li>
       </ul>
     </div>
   </div>

@@ -12,11 +12,11 @@ Welcome to the central cartography of the astrophysics second brain. This direct
 
 | Course | Lecturers | Map of Content | Lecture Notes Directory |
 |---|---|---|---|
-| **Fundamentals of Astrophysics & Cosmology** | Prof. G. Rodighiero & Prof. M. Viel | **[[Fundamentals_Astrophysics_Cosmology_MOC]]** | 02_Literature/Lectures/ |
-| **Observational Astrophysics** | Prof. E. Giro & Prof. G. Umbriaco | **[[Observational_Astrophysics_MOC]]** | 02_Literature/Lectures/Cassata/ |
-| **General Relativity for Astrophysics** | Prof. S. Matarrese & Cambridge Baumann | **[[General_Relativity_MOC]]** | 02_Literature/Baumann/ |
-| **Mathematical and Numerical Methods** | Prof. M. Mapelli | **[[Mathematical_Numerical_Methods_MOC]]** | 02_Literature/Lectures/ |
-| **Astrophysics Laboratory 1 (High Energy)** | Prof. L. Burderi | **[[Lab_High-Energy_MOC]]** | 02_Literature/Lectures/ |
+| **Fundamentals of Astrophysics & Cosmology** | Prof. Nicola Bartolo & Prof. Giulia Rodighiero | **[[Fundamentals_Astrophysics_Cosmology_MOC]]** | 02_Literature/Lectures/ |
+| **Observational Astrophysics** | Prof. Paolo Cassata | **[[Observational_Astrophysics_MOC]]** | 02_Literature/Lectures/Cassata/ |
+| **General Relativity for Astrophysics** | Baumann's Cambridge notes | **[[General_Relativity_MOC]]** | 02_Literature/Baumann/ |
+| **Mathematical and Numerical Methods** | Prof. Michela Mapelli | **[[Mathematical_Numerical_Methods_MOC]]** | 02_Literature/Lectures/ |
+| **Astrophysics Laboratory 1 (High Energy)** | | **[[Lab_High-Energy_MOC]]** | 02_Literature/Lectures/ |
 
 ---
 
@@ -24,11 +24,11 @@ Welcome to the central cartography of the astrophysics second brain. This direct
 
 | Course | Lecturers | Map of Content | Lecture Notes Directory |
 |---|---|---|---|
-| **Astrophysics of Galaxies** | Prof. A. Moretti | **[[Astrophysics_of_Galaxies_MOC]]** | 02_Literature/Lectures/ |
-| **Stellar Astrophysics** | Prof. A. Milone | **[[Stellar_Astrophysics_MOC]]** | 02_Literature/Lectures/ |
-| **Astronomical Interferometry** | Prof. C. Pernechele | **[[Astronomical_Interferometry_MOC]]** | 02_Literature/Lectures/ |
-| **Observational Cosmology** | Prof. M. Viel & Prof. P. Vielva | **[[Observational_Cosmology_MOC]]** | 02_Literature/Lectures/ |
-| **Astronomical Spectroscopy** | Prof. S. Ciroi | **[[Astronomical_Spectroscopy_MOC]]** | 02_Literature/Lectures/ |
+| **Astrophysics of Galaxies** | Prof. Alessandro Pizzella | **[[Astrophysics_of_Galaxies_MOC]]** | 02_Literature/Lectures/ |
+| **Stellar Astrophysics** | Prof. Antonino Milone | **[[Stellar_Astrophysics_MOC]]** | 02_Literature/Lectures/ |
+| **Astronomical Interferometry** | Prof. Mauro D'Onofrio | **[[Astronomical_Interferometry_MOC]]** | 02_Literature/Lectures/ |
+| **Observational Cosmology** | Prof. Giulia Rodighiero & Prof. Paolo Cassata | **[[Observational_Cosmology_MOC]]** | 02_Literature/Lectures/ |
+| **Astronomical Spectroscopy** | Prof. Stefano Ciroi | **[[Astronomical_Spectroscopy_MOC]]** | 02_Literature/Lectures/ |
 
 ---
 
