@@ -353,7 +353,7 @@ Every single publication figure, Planck CMB spectrum, 21cm cosmology plot, quasa
 
 ---
 
-## Professors Matteo Viel & Patricio Vielva Oral Exam Defense Preparation Matrix
+## Prof. Giulia Rodighiero & Prof. Paolo Cassata Oral Exam Defense Preparation Matrix
 
 ### Question 1: Physics of CMB Acoustic Peaks and Parameter Sensitivities
 - **Blackboard Prompt**: *Derive the sound horizon $r_s$ at recombination. How do the positions and relative heights of the acoustic peaks in the Planck $D_\ell^{TT}$ spectrum constrain $\Omega_b h^2$, $\Omega_c h^2$, and spatial curvature $\Omega_k$?*
