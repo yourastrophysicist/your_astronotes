@@ -55,6 +55,14 @@ a rough fraction of the total recombination energy goes into continuum vs lines;
 
 both contribute simultaneously; their sum is the smooth nebular continuum.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Carrier generation and recombination**. "In solid-state physics of semiconductors, carrier generation and carrier recombination are processes by which mobile charge carriers (electrons and electron holes) are created and eliminated. Carrier generation and recombination processes are fundamental to the operation of many optoelectronic semiconductor devices, such as photodiodes, light-emitting diodes and laser diodes." ([Wikipedia](https://en.wikipedia.org/wiki/Carrier_generation_and_recombination))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Free-free continuum]]

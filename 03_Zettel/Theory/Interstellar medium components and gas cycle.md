@@ -87,6 +87,17 @@ when multiple supernovae detonate within a young OB association, their individua
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Interstellar medium|500](https://commons.wikimedia.org/wiki/Special:FilePath/WHAM_survey.png?width=600)
+*Lead figure of the Wikipedia article Interstellar medium* ([Commons file page](https://commons.wikimedia.org/wiki/File:WHAM_survey.png), Haffner, L. M.; Reynolds, R. J.; Tufte, S. L.; Madsen, G. J.; Jaehnig, K. P.; Percival, J. W. (December 2003). "The Wisc, Attribution, as used on the Wikipedia article [Interstellar medium](https://en.wikipedia.org/wiki/Interstellar_medium))
+
+- **Interstellar medium**. "The interstellar medium (ISM) is the matter and radiation that exists in the space between the star systems in a galaxy. This matter includes gas in ionic, atomic, and molecular form, as well as dust and cosmic rays. It fills interstellar space and blends smoothly into the surrounding intergalactic medium." ([Wikipedia](https://en.wikipedia.org/wiki/Interstellar_medium))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

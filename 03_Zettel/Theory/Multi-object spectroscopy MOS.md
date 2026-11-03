@@ -61,6 +61,17 @@ velocity dispersions, mass measurements, star-formation classification.
 - **target density**: fiber MOS has minimum fiber separation, so very dense fields (cluster centres) saturate. multi-pass observing with different mask configurations.
 - **calibration overhead**: a typical MOS night spends substantial time on flat fields and arc lamps because of the per-fiber variations.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Optical spectrometer|500](https://commons.wikimedia.org/wiki/Special:FilePath/Spectrometer.svg?width=600)
+*Created with Inkscape* ([Commons file page](https://commons.wikimedia.org/wiki/File:Spectrometer.svg), Jooja, CC BY-SA 4.0, as used on the Wikipedia article [Optical spectrometer](https://en.wikipedia.org/wiki/Optical_spectrometer))
+
+- **Optical spectrometer**. "An optical spectrometer (spectrophotometer, spectrograph or spectroscope) is an instrument used to measure properties of light over a specific portion of the electromagnetic spectrum, typically used in spectroscopic analysis to identify materials. The variable measured is most often the irradiance of the light but could also, for instance, be the polarization state." ([Wikipedia](https://en.wikipedia.org/wiki/Optical_spectrometer))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Spectrograph types]]

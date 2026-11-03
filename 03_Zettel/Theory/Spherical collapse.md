@@ -75,6 +75,15 @@ corrections beyond spherical collapse:
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Spherical collapse model**. "The spherical collapse model describes the evolution of nearly homogeneous matter in the early Universe into collapsed virialized structures - dark matter halos. This model assumes that halos are spherical and dominated by gravity which leads to an analytical solution for several of the halos' properties such as density and radius over time." ([Wikipedia](https://en.wikipedia.org/wiki/Spherical_collapse_model))
+- **The Excursion Set Theory of Halo Mass Functions, Halo Clustering, and Halo Growth**. "I review the excursion set theory (EST) of dark matter halo formation and clustering. I recount the Press-Schechter argument for the mass function of bound objects and review the derivation of the Press-Schechter mass function in EST. The EST formalism is powerful and can be applied to numerous problems. I review the EST of halo bias and the properties of void regions." ([arXiv:astro-ph/0611454](https://arxiv.org/abs/astro-ph/0611454))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

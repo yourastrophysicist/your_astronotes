@@ -95,6 +95,17 @@ plt.loglog(Ns, errs, 'o-')
 
 for any 1D integral of a smooth function, Simpson is the right default. for 2D and higher, switch to Monte Carlo. for sharp features, switch to adaptive quadrature (`scipy.integrate.quad`).
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Simpson's rule|500](https://commons.wikimedia.org/wiki/Special:FilePath/Simpsons_method_illustration.svg?width=600)
+*Simpson's method illustration* ([Commons file page](https://commons.wikimedia.org/wiki/File:Simpsons_method_illustration.svg), Popletibus This W3C-unspecified vector image was created with Inkscape ., CC BY-SA 4.0, as used on the Wikipedia article [Simpson's rule](https://en.wikipedia.org/wiki/Simpson%27s_rule))
+
+- **Simpson's rule**. "In numerical integration, Simpson's rules are several approximations for definite integrals, named after Thomas Simpson (1710–1761)." ([Wikipedia](https://en.wikipedia.org/wiki/Simpson%27s_rule))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Trapezoidal rule]]

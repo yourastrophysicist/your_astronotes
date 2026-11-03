@@ -63,6 +63,14 @@ but **we do not know** which mechanism. determining this is one of the major goa
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Baryogenesis**. "In physical cosmology, baryogenesis (also known as baryosynthesis) is the physical process that is hypothesized to have taken place during the early universe to produce baryonic asymmetry, the observation that only matter (baryons) and not antimatter (antibaryons) is detected in the universe (other than in cosmic ray collisions)." ([Wikipedia](https://en.wikipedia.org/wiki/Baryogenesis))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

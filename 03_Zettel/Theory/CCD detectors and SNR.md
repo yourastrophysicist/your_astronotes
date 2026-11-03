@@ -171,6 +171,17 @@ the spine of any oral question on CCDs is:
 5. **calibration sequence**: bias, dark, flat, defects/CRs.
 6. **a worked numerical example** if asked: pick reasonable numbers, identify which regime, compute SNR.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Signal-to-noise ratio|500](https://commons.wikimedia.org/wiki/Special:FilePath/Sini_13_4_2012.png?width=600)
+*Lead figure of the Wikipedia article Signal-to-noise ratio* ([Commons file page](https://commons.wikimedia.org/wiki/File:Sini_13_4_2012.png), Heikkihyvinkaa, CC BY-SA 3.0, as used on the Wikipedia article [Signal-to-noise ratio](https://en.wikipedia.org/wiki/Signal-to-noise_ratio))
+
+- **Signal-to-noise ratio**. "Signal-to-noise ratio (SNR or S/N) is a measure used in science and engineering that compares the level of a desired signal to the level of background noise. SNR is defined as the ratio of signal power to noise power, often expressed in decibels. A ratio higher than 1:1 (greater than 0 dB) indicates more signal than noise." ([Wikipedia](https://en.wikipedia.org/wiki/Signal-to-noise_ratio))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Observational_Astrophysics_MOC]] — Block 4 lives here

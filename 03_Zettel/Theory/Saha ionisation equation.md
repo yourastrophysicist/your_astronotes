@@ -54,6 +54,14 @@ practical consequence: at a fixed $T$, **lower $n_e$ shifts the equilibrium towa
 
 at recombination of the early universe ($z \sim 1100$, $T \sim 3000$ K), the same equation applies but now in the cosmic-background-photon environment. see [[Saha equation and recombination]] for the cosmological version, which uses $\eta = n_b/n_\gamma \sim 10^{-9}$ and gives a recombination temperature much lower than $\chi_H$, exactly because of the photon-to-baryon ratio. there the equation says when matter and radiation decouple.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Saha ionization equation**. "In physics, the Saha ionization equation is an expression that relates the ionization state of a gas in thermal equilibrium to the temperature and pressure. The equation is a result of combining ideas of quantum mechanics and statistical mechanics and is used to explain the spectral classification of stars. The expression was developed by physicist Meghnad Saha in 1920." ([Wikipedia](https://en.wikipedia.org/wiki/Saha_ionization_equation))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Boltzmann equation in spectroscopy]]

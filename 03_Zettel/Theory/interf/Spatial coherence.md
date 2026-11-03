@@ -90,6 +90,14 @@ three:
 2. **why visibility falls with baseline**: the source has finite angular size, $\lvert \gamma\rvert$ tracks the FT
 3. **why we measure visibility at multiple baselines**: each baseline samples one Fourier component; many baselines reconstruct the source
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Coherence (physics)**. "In physics, coherence expresses the potential for two waves to interfere. Two monochromatic beams from a single source always interfere. Even for wave sources that are not strictly monochromatic, they may still be partly coherent." ([Wikipedia](https://en.wikipedia.org/wiki/Coherence_%28physics%29))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Coherent vs incoherent imaging]]

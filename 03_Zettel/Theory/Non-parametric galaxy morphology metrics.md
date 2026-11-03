@@ -43,6 +43,18 @@ in the $G - M_{20}$ diagnostic plane, mergers separate clearly from normal Hubbl
 
 $$\text{Merger boundary}: G > -0.14 M_{20} + 0.33$$
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Galaxy morphological classification|500](https://commons.wikimedia.org/wiki/Special:FilePath/Hubble_Tuning_Fork_diagram.svg?width=600)
+*Lead figure of the Wikipedia article Galaxy morphological classification* ([Commons file page](https://commons.wikimedia.org/wiki/File:Hubble_Tuning_Fork_diagram.svg), Cosmogoblin, CC0, as used on the Wikipedia article [Galaxy morphological classification](https://en.wikipedia.org/wiki/Galaxy_morphological_classification))
+
+- **Galaxy morphological classification**. "Galaxy morphological classification is a system used by astronomers to divide galaxies into groups based on their visual appearance, shape, structure, and distribution of light. There are several schemes in use by which galaxies can be classified according to their morphologies, the most famous being the Hubble sequence, devised by Edwin Hubble and later expanded by Gérard de Vaucouleurs and Allan Sandage." ([Wikipedia](https://en.wikipedia.org/wiki/Galaxy_morphological_classification))
+- **The Evolution of Galaxy Structure over Cosmic Time**. "I present a comprehensive review of the evolution of galaxy structure in the universe from the first galaxies we can currently observe at z~6 down to galaxies we see in the local universe. I further address how these changes reveal galaxy formation processes that galaxy structural analyses can provide." ([arXiv:1403.2783](https://arxiv.org/abs/1403.2783))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Observational_Cosmology_MOC]]

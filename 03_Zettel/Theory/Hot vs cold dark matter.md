@@ -87,6 +87,15 @@ we **don't know**:
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Hot dark matter**. "Hot dark matter (HDM) is a theoretical form of dark matter which consists of particles that travel with ultrarelativistic velocities." ([Wikipedia](https://en.wikipedia.org/wiki/Hot_dark_matter))
+- **Particle Dark Matter: Evidence, Candidates and Constraints**. "In this review article, we discuss the current status of particle dark matter, including experimental evidence and theoretical motivations. We discuss a wide array of candidates for particle dark matter, but focus on neutralinos in models of supersymmetry and Kaluza-Klein dark matter in models of universal extra dimensions." ([arXiv:hep-ph/0404175](https://arxiv.org/abs/hep-ph/0404175))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

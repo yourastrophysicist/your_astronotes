@@ -65,6 +65,18 @@ foreground mass is **diffuse**. deflection $\Delta\theta$ is small compared to t
 
 both are essential complementary probes.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Weak gravitational lensing|500](https://commons.wikimedia.org/wiki/Special:FilePath/A_Horseshoe_Einstein_Ring_from_Hubble.JPG?width=600)
+*Lead figure of the Wikipedia article Weak gravitational lensing* ([Commons file page](https://commons.wikimedia.org/wiki/File:A_Horseshoe_Einstein_Ring_from_Hubble.JPG), Lensshoe_hubble.jpg: ESA/Hubble & NASA derivative work: Bulwersator (talk), Public domain, as used on the Wikipedia article [Weak gravitational lensing](https://en.wikipedia.org/wiki/Weak_gravitational_lensing))
+
+- **Weak gravitational lensing**. "In astronomy, weak gravitational lensing is a technique to map the mass distribution of astronomical objects. As predicted by general relativity, the presence of any mass bends the path of light passing near it, producing gravitational lensing. This effect rarely produces the giant arcs and multiple images associated with strong gravitational lensing." ([Wikipedia](https://en.wikipedia.org/wiki/Weak_gravitational_lensing))
+- **Weak Gravitational Lensing**. "We review theory and applications of weak gravitational lensing. After summarising Friedmann-Lemaitre cosmological models, we present the formalism of gravitational lensing and light propagation in arbitrary space-times. We discuss how weak-lensing effects can be measured." ([arXiv:astro-ph/9912508](https://arxiv.org/abs/astro-ph/9912508))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - Gravitational lensing — intro

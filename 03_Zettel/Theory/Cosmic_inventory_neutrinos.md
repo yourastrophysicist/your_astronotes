@@ -71,6 +71,14 @@ upcoming experiments (CMB-S4, Euclid, DESI, LiteBIRD) aim to push the bound on $
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Cosmic neutrino background**. "The cosmic neutrino background is a proposed background particle radiation composed of neutrinos. They are sometimes known as relic neutrinos or sometimes abbreviated CNB or CνB, where the symbol ν is the Greek letter nu, standard particle physics symbol for a neutrino." ([Wikipedia](https://en.wikipedia.org/wiki/Cosmic_neutrino_background))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

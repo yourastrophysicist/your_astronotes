@@ -78,6 +78,14 @@ $$D_\phi(\tau) = D_\phi^{\rm spatial}(v_{\rm wind} \tau)$$
 
 so temporal fluctuations have the same 5/3 power law in $\tau$, with characteristic timescale $\tau_0 = r_0/v_{\rm wind}$. this is the **Greenwood time** for AO.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Structure function**. "The structure function, like the fragmentation function, is a probability density function in physics. It is somewhat analogous to the structure factor in solid-state physics, and the form factor (quantum field theory)." ([Wikipedia](https://en.wikipedia.org/wiki/Structure_function))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Atmospheric turbulence overview]]

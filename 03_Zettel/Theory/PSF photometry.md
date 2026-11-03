@@ -58,6 +58,17 @@ with a well-constrained PSF, the SNR per source improves over aperture photometr
 - **DOLPHOT** for HST + JWST imaging.
 - **SExtractor + PSFEx** combo for survey pipelines.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Photometry (astronomy)|500](https://commons.wikimedia.org/wiki/Special:FilePath/Kepler_Mission_Space_Photometer_smaller.jpg?width=600)
+*Illustration of Kepler Spacecraft with labels* ([Commons file page](https://commons.wikimedia.org/wiki/File:Kepler_Mission_Space_Photometer_smaller.jpg), NASA, Public domain, as used on the Wikipedia article [Photometry (astronomy)](https://en.wikipedia.org/wiki/Photometry_%28astronomy%29))
+
+- **Photometry (astronomy)**. "In astronomy, photometry, from Greek photo- ("light") and -metry ("measure"), is a technique used in astronomy that is concerned with measuring the flux or intensity of light radiated by astronomical objects." ([Wikipedia](https://en.wikipedia.org/wiki/Photometry_%28astronomy%29))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Aperture photometry]]

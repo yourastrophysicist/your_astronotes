@@ -78,6 +78,17 @@ reading cue: effective area controls sensitivity, while gain/directivity control
 
 source: local study diagram generated from standard antenna relations.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Gain (antenna)|500](https://commons.wikimedia.org/wiki/Special:FilePath/Antenna_directive_gain_diagram.svg?width=600)
+*Lead figure of the Wikipedia article Gain (antenna)* ([Commons file page](https://commons.wikimedia.org/wiki/File:Antenna_directive_gain_diagram.svg), Chetvorno, CC0, as used on the Wikipedia article [Gain (antenna)](https://en.wikipedia.org/wiki/Gain_%28antenna%29))
+
+- **Gain (antenna)**. "In electromagnetics, an antenna's gain is a key performance parameter which combines the antenna's directivity and radiation efficiency. The term power gain has been deprecated by IEEE. In a transmitting antenna, the gain describes how well the antenna converts input power into radio waves headed in a specified direction." ([Wikipedia](https://en.wikipedia.org/wiki/Gain_%28antenna%29))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Radio astronomy basics]]

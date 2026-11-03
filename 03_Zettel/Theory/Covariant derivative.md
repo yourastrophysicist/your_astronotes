@@ -67,6 +67,15 @@ for any expression involving $\nabla$:
 
 for symbolic work, SymPy + GraviPy or Mathematica + xAct handle this automatically.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Covariant derivative**. "In mathematics, the covariant derivative is a way of specifying a derivative along tangent vectors of a manifold. Alternatively, the covariant derivative is a way of introducing and working with a connection on a manifold by means of a differential operator, to be contrasted with the approach given by a principal connection on the frame bundle – see affine connection." ([Wikipedia](https://en.wikipedia.org/wiki/Covariant_derivative))
+- **Lecture Notes on General Relativity**. "These notes represent approximately one semester's worth of lectures on introductory general relativity for beginning graduate students in physics. Topics include manifolds, Riemannian geometry, Einstein's equations, and three applications: gravitational radiation, black holes, and cosmology." ([arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Christoffel symbols]]

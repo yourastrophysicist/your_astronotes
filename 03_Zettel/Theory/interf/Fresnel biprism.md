@@ -51,6 +51,14 @@ same as Young's experiment:
 - broadband source: fringes within the central few orders, washing out at large $\lvert m\rvert$
 - extended source: visibility decreases as the source angular size grows
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Ridged mirror**. "In atomic physics, a ridged mirror (or ridged atomic mirror, or Fresnel diffraction mirror) is a kind of atomic mirror, designed for the specular reflection of neutral particles (atoms) coming at a grazing incidence angle. In order to reduce the mean attraction of particles to the surface and increase the reflectivity, this surface has narrow ridges." ([Wikipedia](https://en.wikipedia.org/wiki/Ridged_mirror))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Wavefront-division interferometers]]

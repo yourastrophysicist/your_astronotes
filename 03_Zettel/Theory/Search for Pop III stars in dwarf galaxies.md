@@ -95,6 +95,18 @@ these surveys are slowly mapping the Pop III IMF + SN explosion physics by count
 - **Ji et al. 2016, Nature 531, 610** — Reticulum II r-II.
 - **Hansen et al. 2018** — R-Process Alliance.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Stellar population|500](https://commons.wikimedia.org/wiki/Special:FilePath/Artist%27s_impression_of_the_Milky_Way_%28updated_-_annotated%29.jpg?width=600)
+*Lead figure of the Wikipedia article Stellar population* ([Commons file page](https://commons.wikimedia.org/wiki/File:Artist%27s_impression_of_the_Milky_Way_%28updated_-_annotated%29.jpg), NASA/JPL-Caltech/ESO/R. Hurt, Public domain, as used on the Wikipedia article [Stellar population](https://en.wikipedia.org/wiki/Stellar_population))
+
+- **Stellar population**. "In 1944, Walter Baade categorized groups of stars within the Milky Way into stellar populations. In the abstract of the article by Baade, he recognizes that Jan Oort originally conceived this type of classification in 1926. Baade observed that bluer stars were strongly associated with the spiral arms, and yellow stars dominated near the central galactic bulge and within globular star clusters." ([Wikipedia](https://en.wikipedia.org/wiki/Stellar_population))
+- **The First Galaxies**. "We review our current understanding of how the first galaxies formed at the end of the cosmic dark ages, a few 100 million years after the Big Bang. Modern large telescopes discovered galaxies at redshifts greater than seven, whereas theoretical studies have just reached the degree of sophistication necessary to make meaningful predictions." ([arXiv:1102.4638](https://arxiv.org/abs/1102.4638))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Population III stars]]

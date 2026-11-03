@@ -51,6 +51,18 @@ $$\boxed{\, \mu = m - M = 5 \log_{10} d - 5 \implies d(\text{pc}) = 10^{\frac{m 
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Cosmic distance ladder|500](https://commons.wikimedia.org/wiki/Special:FilePath/Extragalactic_Distance_Ladder_en.svg?width=600)
+*Lead figure of the Wikipedia article Cosmic distance ladder* ([Commons file page](https://commons.wikimedia.org/wiki/File:Extragalactic_Distance_Ladder_en.svg), WilliamKF, TilmannR, CC BY-SA 3.0, as used on the Wikipedia article [Cosmic distance ladder](https://en.wikipedia.org/wiki/Cosmic_distance_ladder))
+
+- **Cosmic distance ladder**. "The cosmic distance ladder (also known as the extragalactic distance scale) is the succession of methods by which astronomers determine the distances to celestial objects. A direct distance measurement of an astronomical object is possible only for those objects that are "close enough" (within about a thousand parsecs or 3×1016 km) to Earth." ([Wikipedia](https://en.wikipedia.org/wiki/Cosmic_distance_ladder))
+- **The Hubble Constant**. "Considerable progress has been made in determining the Hubble constant over the past two decades." ([arXiv:1004.1856](https://arxiv.org/abs/1004.1856))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

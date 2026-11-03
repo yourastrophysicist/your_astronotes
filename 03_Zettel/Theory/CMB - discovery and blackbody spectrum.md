@@ -56,6 +56,18 @@ the CMB is **almost** but not exactly a perfect blackbody. predicted small disto
 
 current limits (FIRAS): $\mu/T < 9\times 10^{-5}$, $y < 1.5\times 10^{-5}$. future spectrometer (PIXIE, Voyage 2050) can reach the standard-model prediction. see CMB Spectral Distortions — What They Are and Where They Come From.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Cosmic microwave background|500](https://commons.wikimedia.org/wiki/Special:FilePath/Cosmic_Microwave_Background_%28CMB%29.jpeg?width=600)
+*This map of the Cosmic Microwave Background radiation, imprinted on the sky when the universe was 370,000 years old, shows tiny temperature fluctuations that correspond to regions of slightly different densities* ([Commons file page](https://commons.wikimedia.org/wiki/File:Cosmic_Microwave_Background_%28CMB%29.jpeg), ESA and the Planck Collaboration, CC BY 4.0, as used on the Wikipedia article [Cosmic microwave background](https://en.wikipedia.org/wiki/Cosmic_microwave_background))
+
+- **Cosmic microwave background**. "The cosmic microwave background (CMB, CMBR), or relic radiation, is microwave radiation that fills all space in the observable universe. With a standard optical telescope, the background space between stars and galaxies is almost completely dark. However, a sufficiently sensitive radio telescope detects a faint background glow that is almost uniform and is not associated with any star, galaxy, or other object." ([Wikipedia](https://en.wikipedia.org/wiki/Cosmic_microwave_background))
+- **Cosmic Microwave Background Anisotropies**. "Cosmic microwave background (CMB) temperature anisotropies have and will continue to revolutionize our understanding of cosmology." ([arXiv:astro-ph/0110414](https://arxiv.org/abs/astro-ph/0110414))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Cosmic_inventory_photons]]

@@ -249,6 +249,15 @@ Key takeaways for the blackboard
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Modified Newtonian dynamics**. "Modified Newtonian dynamics (MOND) is a theory that proposes a modification of Newton's laws to account for observed properties of galaxies. Modifying Newton's law of gravity results in modified gravity, while modifying Newton's second law results in modified inertia. The latter has received little attention compared to the modified gravity version." ([Wikipedia](https://en.wikipedia.org/wiki/Modified_Newtonian_dynamics))
+- **Modified Newtonian Dynamics (MOND): Observational Phenomenology and Relativistic Extensions**. "A wealth of astronomical data indicate the presence of mass discrepancies in the Universe. The motions observed in a variety of classes of extragalactic systems exceed what can be explained by the mass visible in stars and gas." ([arXiv:1112.3960](https://arxiv.org/abs/1112.3960))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Bullet Cluster and dark matter mapping]]

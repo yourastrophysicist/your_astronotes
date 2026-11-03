@@ -74,6 +74,17 @@ at high $z$, the term "stellar velocity" is replaced by **redshift**. but veloci
 - **stellar oscillations**: pressure modes give p-mode oscillations at $\sim 1$ m/s on minute timescales. averaged over hours, reduce to $\sim 0.3$ m/s.
 - **instrument stability**: requires temperature and pressure control to ppm level.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Radial velocity|500](https://commons.wikimedia.org/wiki/Special:FilePath/Radialgeschwindigkeit.gif?width=600)
+*Lead figure of the Wikipedia article Radial velocity* ([Commons file page](https://commons.wikimedia.org/wiki/File:Radialgeschwindigkeit.gif), Averse, Public domain, as used on the Wikipedia article [Radial velocity](https://en.wikipedia.org/wiki/Radial_velocity))
+
+- **Radial velocity**. "The radial velocity or line-of-sight velocity of a target with respect to an observer is the rate of change of the vector displacement between the two points. It is formulated as the vector projection of the target-observer relative velocity onto the relative direction or line-of-sight (LOS) connecting the two points. The radial speed or range rate is the temporal rate of the distance or range between the two points." ([Wikipedia](https://en.wikipedia.org/wiki/Radial_velocity))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Spectroscopic redshift from line shifts]]

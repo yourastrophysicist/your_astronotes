@@ -60,6 +60,18 @@ the Milky Way's visible disk is merely a tiny baryonic nugget sitting at the gra
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Galaxy rotation curve|500](https://commons.wikimedia.org/wiki/Special:FilePath/Rotation_Curve_UGC11455.svg?width=600)
+*Rotation curve of UGC11455 extended by weak lensing using the matching KiDS mass bin* ([Commons file page](https://commons.wikimedia.org/wiki/File:Rotation_Curve_UGC11455.svg), ScienceDawns, CC BY-SA 4.0, as used on the Wikipedia article [Galaxy rotation curve](https://en.wikipedia.org/wiki/Galaxy_rotation_curve))
+
+- **Galaxy rotation curve**. "The rotation curve of a disc galaxy (also called a velocity curve) is a plot of the orbital speeds of visible stars or gas in that galaxy versus their radial distance from that galaxy's centre. It is typically rendered graphically as a plot, and the data observed from each side of a spiral galaxy are generally asymmetric, so that data from each side are averaged to create the curve." ([Wikipedia](https://en.wikipedia.org/wiki/Galaxy_rotation_curve))
+- **Rotation Curves of Spiral Galaxies**. "Rotation curves of spiral galaxies are the major tool for determining the distribution of mass in spiral galaxies. They provide fundamental information for understanding the dynamics, evolution and formation of spiral galaxies. We describe various methods to derive rotation curves, and review the results obtained." ([arXiv:astro-ph/0010594](https://arxiv.org/abs/astro-ph/0010594))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

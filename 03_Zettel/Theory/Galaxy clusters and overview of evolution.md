@@ -117,6 +117,17 @@ a brief summary of how galaxies evolve from $z \sim 10$ to today:
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Galaxy cluster|500](https://commons.wikimedia.org/wiki/Special:FilePath/BoRG-58.jpg?width=600)
+*Lead figure of the Wikipedia article Galaxy cluster* ([Commons file page](https://commons.wikimedia.org/wiki/File:BoRG-58.jpg), NASA, ESA, M. Trenti (University of Cambridge, UK and University of Colorado, Boulder, USA), L. Bradley (STScI), and the, CC BY 3.0, as used on the Wikipedia article [Galaxy cluster](https://en.wikipedia.org/wiki/Galaxy_cluster))
+
+- **Galaxy cluster**. "A galaxy cluster, or a cluster of galaxies, is a structure that consists of anywhere from hundreds to thousands of galaxies that are bound together by gravity, with typical masses ranging from 1014 to 1015 solar masses (M☉). Clusters consist of galaxies, heated gas, and dark matter. They are the biggest known gravitationally bound structures in the universe." ([Wikipedia](https://en.wikipedia.org/wiki/Galaxy_cluster))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

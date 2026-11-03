@@ -189,6 +189,14 @@ this is exactly the kind of "the universe as a precision instrument" physics tha
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Cosmic microwave background spectral distortions**. "CMB spectral distortions are tiny departures of the average cosmic microwave background (CMB) frequency spectrum from the predictions given by a perfect black body. They can be produced by a number of standard and non-standard processes occurring at the early stages of cosmic history, and therefore allow us to probe the standard picture of cosmology." ([Wikipedia](https://en.wikipedia.org/wiki/Cosmic_microwave_background_spectral_distortions))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Cosmic_inventory_photons]] — parent note with the boxed bounds

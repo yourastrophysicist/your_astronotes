@@ -71,6 +71,14 @@ $$\log(M_{BH}/M_\odot) \approx 4.4\log(\sigma/200\,\text{km/s}) + 8.5$$
 
 modern IFU (MUSE, MaNGA) maps $\sigma_v$ across galaxies, recovering both rotation and dispersion components for full kinematic models.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Velocity dispersion**. "In astronomy, the velocity dispersion (σ) is the statistical dispersion of velocities about the mean velocity for a group of astronomical objects, such as an open cluster, globular cluster, galaxy, galaxy cluster, or supercluster." ([Wikipedia](https://en.wikipedia.org/wiki/Velocity_dispersion))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Stellar velocity from Doppler shift]]

@@ -70,6 +70,17 @@ apodization was first used in optical microscopy (Sparrow 1916, Toraldo di Franc
 
 it's a technique that sounds esoteric but is foundational: without apodization, modern direct exoplanet imaging would be impossible.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Apodization|500](https://commons.wikimedia.org/wiki/Special:FilePath/Diffraction_disc_calculated.png?width=600)
+*Diffraction limited intensity distribution in the far field behind a circular aperture* ([Commons file page](https://commons.wikimedia.org/wiki/File:Diffraction_disc_calculated.png), No machine-readable author provided. KaiMartin assumed (based on copyright claims)., CC BY-SA 3.0, as used on the Wikipedia article [Apodization](https://en.wikipedia.org/wiki/Apodization))
+
+- **Apodization**. "In signal processing, apodization (from Greek "removing the foot") is the modification of the shape of a mathematical function. The function may represent an electrical signal, an optical transmission, or a mechanical structure. In optics, it is primarily used to remove Airy disks caused by diffraction around an intensity peak, improving the focus." ([Wikipedia](https://en.wikipedia.org/wiki/Apodization))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Coronagraphy]]

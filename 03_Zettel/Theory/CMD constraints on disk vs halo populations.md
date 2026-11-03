@@ -29,6 +29,14 @@ see also [[Color-magnitude diagrams of clusters]], [[Single stellar population S
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Galactic halo**. "A galactic halo is an extended, roughly spherical component of a galaxy which extends beyond the main, visible component." ([Wikipedia](https://en.wikipedia.org/wiki/Galactic_halo))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Age-metallicity relation of Galactic GCs]]

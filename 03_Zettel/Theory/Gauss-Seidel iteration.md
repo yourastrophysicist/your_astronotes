@@ -86,6 +86,14 @@ if convergence is slow, try **successive over-relaxation (SOR)**: $x_i^{(k+1)} =
 | Gauss-Seidel | $O(\text{nnz} \cdot k)$ where $k = $ iterations | sparse $A$, large $N$ |
 | Conjugate Gradient | $O(\text{nnz} \cdot \sqrt{\kappa})$ | sparse SPD $A$, even faster |
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Gauss–Seidel method**. "In numerical linear algebra, the Gauss–Seidel method, also known as the Liebmann method or the method of successive displacement, is an iterative method used to solve a system of linear equations. It is named after the German mathematicians Carl Friedrich Gauss and Philipp Ludwig von Seidel." ([Wikipedia](https://en.wikipedia.org/wiki/Gauss%E2%80%93Seidel_method))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Gauss elimination]]

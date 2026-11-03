@@ -51,6 +51,18 @@ ratios like [Ba/Eu] separate s- from r-process contributions and constrain galac
 
 a single overall [Fe/H] gives one number per star. the pattern of multiple element ratios encodes a **multi-dimensional fingerprint** of nucleosynthetic provenance: which kinds of supernovae enriched the gas, on what timescale, with what initial mass function. this is the foundation of **galactic archaeology**: the present-day distribution of stars in chemodynamic space (positions, velocities, abundances) constrains the assembly history of the Galaxy.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Abundance of the chemical elements|500](https://commons.wikimedia.org/wiki/Special:FilePath/Isotopic_Abundance_bubble_chart.png?width=600)
+*Lead figure of the Wikipedia article Abundance of the chemical elements* ([Commons file page](https://commons.wikimedia.org/wiki/File:Isotopic_Abundance_bubble_chart.png), Urayness, CC BY 4.0, as used on the Wikipedia article [Abundance of the chemical elements](https://en.wikipedia.org/wiki/Abundance_of_the_chemical_elements))
+
+- **Abundance of the chemical elements**. "The abundance of the chemical elements is a measure of the occurrences of the chemical elements relative to all other elements in a given environment. Abundance is measured in one of three ways: by mass fraction (in commercial contexts often called weight fraction), by mole fraction (fraction of atoms by numerical count, or sometimes fraction of molecules in gases), or by volume fraction." ([Wikipedia](https://en.wikipedia.org/wiki/Abundance_of_the_chemical_elements))
+- **The chemical composition of the Sun**. "The solar chemical composition is an important ingredient in our understanding of the formation, structure and evolution of both the Sun and our solar system. Furthermore, it is an essential reference standard against which the elemental contents of other astronomical objects are compared." ([arXiv:0909.0948](https://arxiv.org/abs/0909.0948))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 - [[Spectroscopic determination of metallicity]]
 - [[Curve of growth]]

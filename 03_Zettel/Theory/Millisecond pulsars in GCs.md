@@ -42,6 +42,17 @@ the cumulative $\gamma$-ray emission from MSP populations in GCs is a non-neglig
 
 the production of MSPs in GCs depends on dense-core dynamics, so MSP per unit mass is not a universal number. core-collapsed clusters and very dense GCs produce many; less dense ones produce few. the high MSP yield is the cleanest signature that GC cores process binaries at extreme rates.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Millisecond pulsar|500](https://commons.wikimedia.org/wiki/Special:FilePath/Millisecond_Pulsar.jpg?width=600)
+*Lead figure of the Wikipedia article Millisecond pulsar* ([Commons file page](https://commons.wikimedia.org/wiki/File:Millisecond_Pulsar.jpg), B. Saxton, NRAO/AUI/NSF, CC BY 4.0, as used on the Wikipedia article [Millisecond pulsar](https://en.wikipedia.org/wiki/Millisecond_pulsar))
+
+- **Millisecond pulsar**. "A millisecond pulsar (MSP) is a pulsar with a rotational period less than about 10 milliseconds. Millisecond pulsars have been detected in radio, X-ray, and gamma ray portions of the electromagnetic spectrum." ([Wikipedia](https://en.wikipedia.org/wiki/Millisecond_pulsar))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 - [[Stellar_Astrophysics_MOC]]
 - [[X-ray sources in globular clusters]]

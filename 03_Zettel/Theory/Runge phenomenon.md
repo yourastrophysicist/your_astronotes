@@ -85,6 +85,17 @@ if any of these, switch to splines.
 
 the Runge phenomenon is a striking example of "more is less" in numerical analysis. it teaches a lesson: *the choice of method must respect the geometry of the problem*. uniform sampling looks fair and democratic but it is the wrong choice for global polynomial interpolation. clustering at the boundaries — the Chebyshev distribution — looks suspicious but is mathematically optimal.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Runge's phenomenon|500](https://commons.wikimedia.org/wiki/Special:FilePath/Runge_phenomenon.svg?width=600)
+*Lead figure of the Wikipedia article Runge's phenomenon* ([Commons file page](https://commons.wikimedia.org/wiki/File:Runge_phenomenon.svg), Nicoguaro, CC BY 4.0, as used on the Wikipedia article [Runge's phenomenon](https://en.wikipedia.org/wiki/Runge%27s_phenomenon))
+
+- **Runge's phenomenon**. "In the mathematical field of numerical analysis, Runge's phenomenon (German: [ˈʁʊŋə]) is a problem of oscillation at the edges of an interval that occurs when using polynomial interpolation with polynomials of high degree over a set of equispaced interpolation points. It was discovered by Carl Runge when exploring the behavior of errors when using polynomial interpolation to approximate certain functions." ([Wikipedia](https://en.wikipedia.org/wiki/Runge%27s_phenomenon))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Lagrange polynomial interpolation]]

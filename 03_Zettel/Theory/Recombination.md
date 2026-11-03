@@ -63,6 +63,15 @@ after recombination at $z = 1100$, the universe stays largely **neutral** until 
 
 so the **electron density** has a U-shape: high before recombination, low between $z = 1100$ + $\sim 10$, then high again after reionisation.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Recombination (cosmology)**. "In cosmology, recombination refers to the epoch during which charged electrons and protons first became bound to form electrically neutral hydrogen atoms. Recombination occurred about 378000 years after the Big Bang (at a redshift of z = 1100)." ([Wikipedia](https://en.wikipedia.org/wiki/Recombination_%28cosmology%29))
+- **Cosmic Microwave Background Anisotropies**. "Cosmic microwave background (CMB) temperature anisotropies have and will continue to revolutionize our understanding of cosmology." ([arXiv:astro-ph/0110414](https://arxiv.org/abs/astro-ph/0110414))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Saha equation and recombination]]

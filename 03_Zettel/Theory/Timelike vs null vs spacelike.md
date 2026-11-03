@@ -58,6 +58,15 @@ events with timelike separation: causally connected (one can affect the other).
 events with spacelike separation: causally disconnected (no signal can pass).
 events with null separation: connected by light only.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Spacetime**. "In physics, spacetime, or the space-time continuum, is a mathematical model that fuses the three dimensions of space and the one dimension of time into a single four-dimensional continuum. Spacetime diagrams are useful in visualizing and understanding relativistic effects, such as how different observers perceive where and when events occur." ([Wikipedia](https://en.wikipedia.org/wiki/Spacetime))
+- **Lecture Notes on General Relativity**. "These notes represent approximately one semester's worth of lectures on introductory general relativity for beginning graduate students in physics. Topics include manifolds, Riemannian geometry, Einstein's equations, and three applications: gravitational radiation, black holes, and cosmology." ([arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Manifold metric and signature]]

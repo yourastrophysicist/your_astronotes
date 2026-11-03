@@ -144,6 +144,17 @@ where $W_{20}$ is the full line width measured at $20\%$ of peak intensity, $i$ 
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Tully–Fisher relation|500](https://commons.wikimedia.org/wiki/Special:FilePath/Intrinsic_luminosity_vs_velocity_dispersion.svg?width=600)
+*Intrinsic Luminosity versus Velocity Dispersion calibrated to the Virgo Cluster from the Local Group(s). Data compiled from the 1977 Tully Fisher Paper* ([Commons file page](https://commons.wikimedia.org/wiki/File:Intrinsic_luminosity_vs_velocity_dispersion.svg), Nancy sackman, CC BY-SA 4.0, as used on the Wikipedia article [Tully–Fisher relation](https://en.wikipedia.org/wiki/Tully%E2%80%93Fisher_relation))
+
+- **Tully–Fisher relation**. "In astronomy, the Tully–Fisher relation (TFR) is an empirical relationship between the mass or intrinsic luminosity of a spiral galaxy and its asymptotic rotation velocity or emission line width. The line width of the 21cm hydrogen line is used to calculate the velocity dispersion of the galaxy's spiral arms. In general, the more luminous a spiral galaxy is, the faster the rotation of its disk." ([Wikipedia](https://en.wikipedia.org/wiki/Tully%E2%80%93Fisher_relation))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Dark matter in dwarf galaxies]]

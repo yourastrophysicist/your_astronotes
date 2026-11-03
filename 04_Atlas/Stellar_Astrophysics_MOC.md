@@ -1016,6 +1016,112 @@ Every single figure, CMD diagram, and lecture slide extracted from Prof. Antonin
 
 ---
 
+<!-- moc-sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+Every zettel in this map ends with a short sourced section: a definition quoted from Wikipedia (96 zettels) or from the abstract of an arXiv review (49 zettels), and, where a free figure exists, the credited lead figure of the Wikipedia article (Wikimedia Commons) or a figure from an openly licensed arXiv paper. The lecture-slide figures above are unchanged.
+
+| Zettel | Wikipedia | arXiv review | Figure |
+|---|---|---|---|
+| [[Age dating from the WD luminosity function]] | [White dwarf](https://en.wikipedia.org/wiki/White_dwarf) | [arXiv:1007.2659](https://arxiv.org/abs/1007.2659) | Commons |
+| [[Age-metallicity degeneracy]] | [Metallicity](https://en.wikipedia.org/wiki/Metallicity) | [arXiv:2106.13145](https://arxiv.org/abs/2106.13145) | Commons |
+| [[Age-metallicity relation of Galactic GCs]] | [Globular cluster](https://en.wikipedia.org/wiki/Globular_cluster) | [arXiv:1712.01286](https://arxiv.org/abs/1712.01286) | Commons |
+| [[Asymptotic giant branch AGB]] | [Asymptotic giant branch](https://en.wikipedia.org/wiki/Asymptotic_giant_branch) |  | Commons |
+| [[Atmospheric parameters Teff log g feh vmicro]] | [Stellar atmosphere](https://en.wikipedia.org/wiki/Stellar_atmosphere) |  | Commons |
+| [[BHs from gravitational waves]] | [Gravitational-wave observatory](https://en.wikipedia.org/wiki/Gravitational-wave_observatory) |  | Commons |
+| [[Binary stars in CMD]] | [Binary star](https://en.wikipedia.org/wiki/Binary_star) |  | Commons |
+| [[Black holes in globular clusters]] | [Globular cluster](https://en.wikipedia.org/wiki/Globular_cluster) | [arXiv:1712.01286](https://arxiv.org/abs/1712.01286) | Commons |
+| [[Blue straggler formation channels]] | [Blue straggler](https://en.wikipedia.org/wiki/Blue_straggler) |  | Commons |
+| [[Blue stragglers in star clusters]] | [Blue straggler](https://en.wikipedia.org/wiki/Blue_straggler) |  | Commons |
+| [[Bulge CMD complications]] | [Galactic bulge](https://en.wikipedia.org/wiki/Galactic_bulge) | [arXiv:1602.07702](https://arxiv.org/abs/1602.07702) | Commons |
+| [[Bulge microlensing surveys]] | [Gravitational microlensing](https://en.wikipedia.org/wiki/Gravitational_microlensing) | [arXiv:1207.3720](https://arxiv.org/abs/1207.3720) | Commons |
+| [[Cataclysmic variables in clusters]] | [Cataclysmic variable star](https://en.wikipedia.org/wiki/Cataclysmic_variable_star) |  | Commons |
+| [[Chandrasekhar mass limit]] | [Chandrasekhar limit](https://en.wikipedia.org/wiki/Chandrasekhar_limit) |  |  |
+| [[Cluster binary fraction methods]] | [Binary star](https://en.wikipedia.org/wiki/Binary_star) |  | Commons |
+| [[CMD constraints on disk vs halo populations]] | [Galactic halo](https://en.wikipedia.org/wiki/Galactic_halo) |  |  |
+| [[CN CH MgAl anticorrelations]] | [Globular cluster](https://en.wikipedia.org/wiki/Globular_cluster) | [arXiv:1201.6526](https://arxiv.org/abs/1201.6526) | Commons |
+| [[Color-magnitude diagrams of clusters]] | [Hertzsprung–Russell diagram](https://en.wikipedia.org/wiki/Hertzsprung%E2%80%93Russell_diagram) |  | Commons |
+| [[Continuum opacity sources]] | [Opacity](https://en.wikipedia.org/wiki/Opacity) |  | Commons |
+| [[Critical metallicity for fragmentation]] | [Stellar population](https://en.wikipedia.org/wiki/Stellar_population) | [arXiv:1301.7095](https://arxiv.org/abs/1301.7095) | Commons |
+| [[Differential reddening maps]] | [Extinction (astronomy)](https://en.wikipedia.org/wiki/Extinction_%28astronomy%29) |  | Commons |
+| [[Effects of differential reddening on CMD analysis]] | [Extinction (astronomy)](https://en.wikipedia.org/wiki/Extinction_%28astronomy%29) |  | Commons |
+| [[Element abundance patterns]] | [Abundance of the chemical elements](https://en.wikipedia.org/wiki/Abundance_of_the_chemical_elements) | [arXiv:0909.0948](https://arxiv.org/abs/0909.0948) | Commons |
+| [[eMSTO and multiple populations connection]] | [Star cluster](https://en.wikipedia.org/wiki/Star_cluster) | [arXiv:1201.6526](https://arxiv.org/abs/1201.6526) | Commons |
+| [[Extended main sequence turn-off eMSTO]] | [Star cluster](https://en.wikipedia.org/wiki/Star_cluster) |  | Commons |
+| [[Extinction law and Rv]] | [Extinction (astronomy)](https://en.wikipedia.org/wiki/Extinction_%28astronomy%29) |  | Commons |
+| [[Extragalactic star clusters]] | [Super star cluster](https://en.wikipedia.org/wiki/Super_star_cluster) |  | Commons |
+| [[Galactic GC two-population age structure]] | [Globular cluster](https://en.wikipedia.org/wiki/Globular_cluster) | [arXiv:1712.01286](https://arxiv.org/abs/1712.01286) | Commons |
+| [[Galactic halo and bulge formation timescales]] | [Galaxy formation and evolution](https://en.wikipedia.org/wiki/Galaxy_formation_and_evolution) | [arXiv:1804.03097](https://arxiv.org/abs/1804.03097) |  |
+| [[GC formation models with MPs]] | [Globular cluster](https://en.wikipedia.org/wiki/Globular_cluster) | [arXiv:1712.01286](https://arxiv.org/abs/1712.01286) | Commons |
+| [[Globular clusters as SSP laboratories]] | [Globular cluster](https://en.wikipedia.org/wiki/Globular_cluster) | [arXiv:1712.01286](https://arxiv.org/abs/1712.01286) | Commons |
+| [[Halo accretion from dwarf galaxies]] | [Dwarf galaxy](https://en.wikipedia.org/wiki/Dwarf_galaxy) | [arXiv:1901.05465](https://arxiv.org/abs/1901.05465) | Commons |
+| [[Helium flash and horizontal branch]] | [Helium flash](https://en.wikipedia.org/wiki/Helium_flash) |  | Commons |
+| [[Helium spread in GCs]] | [Globular cluster](https://en.wikipedia.org/wiki/Globular_cluster) | [arXiv:1201.6526](https://arxiv.org/abs/1201.6526) | Commons |
+| [[History of stellar classification]] | [Stellar classification](https://en.wikipedia.org/wiki/Stellar_classification) |  | Commons |
+| [[HR diagram]] | [Hertzsprung–Russell diagram](https://en.wikipedia.org/wiki/Hertzsprung%E2%80%93Russell_diagram) |  | Commons |
+| [[Hunting BHs via radial velocities]] | [Radial velocity](https://en.wikipedia.org/wiki/Radial_velocity) |  | Commons |
+| [[IMF from cluster luminosity functions]] | [Initial mass function](https://en.wikipedia.org/wiki/Initial_mass_function) | [arXiv:1001.2965](https://arxiv.org/abs/1001.2965) | Commons |
+| [[Initial vs present-day mass function]] | [Initial mass function](https://en.wikipedia.org/wiki/Initial_mass_function) | [arXiv:1001.2965](https://arxiv.org/abs/1001.2965) | Commons |
+| [[Initial-final mass relation IFMR]] | [White dwarf](https://en.wikipedia.org/wiki/White_dwarf) | [arXiv:1007.2659](https://arxiv.org/abs/1007.2659) | Commons |
+| [[Intermediate-mass BHs in GCs]] | [Intermediate-mass black hole](https://en.wikipedia.org/wiki/Intermediate-mass_black_hole) |  | Commons |
+| [[Interstellar absorption]] | [Extinction (astronomy)](https://en.wikipedia.org/wiki/Extinction_%28astronomy%29) |  | Commons |
+| [[Interstellar reddening and the reddening vector]] | [Extinction (astronomy)](https://en.wikipedia.org/wiki/Extinction_%28astronomy%29) |  | Commons |
+| [[Isochrones and isochrone fitting]] | [Isochron](https://en.wikipedia.org/wiki/Isochron) |  |  |
+| [[JWST and the first stars]] | [Stellar population](https://en.wikipedia.org/wiki/Stellar_population) | [arXiv:1102.4638](https://arxiv.org/abs/1102.4638) | Commons |
+| [[Main sequence on the CMD]] | [Main sequence](https://en.wikipedia.org/wiki/Main_sequence) |  | Commons |
+| [[Main sequence turn-off as age indicator]] | [Main sequence turnoff](https://en.wikipedia.org/wiki/Main_sequence_turnoff) |  | Commons |
+| [[Mass dependence of multiple populations]] | [Globular cluster](https://en.wikipedia.org/wiki/Globular_cluster) | [arXiv:1201.6526](https://arxiv.org/abs/1201.6526) | Commons |
+| [[Millisecond pulsars in GCs]] | [Millisecond pulsar](https://en.wikipedia.org/wiki/Millisecond_pulsar) |  | Commons |
+| [[Multiple populations in extragalactic GCs]] | [Globular cluster](https://en.wikipedia.org/wiki/Globular_cluster) | [arXiv:1201.6526](https://arxiv.org/abs/1201.6526) | Commons |
+| [[Multiple populations in GCs discovery]] | [Globular cluster](https://en.wikipedia.org/wiki/Globular_cluster) | [arXiv:1201.6526](https://arxiv.org/abs/1201.6526) | Commons |
+| [[Na O anticorrelation]] | [Globular cluster](https://en.wikipedia.org/wiki/Globular_cluster) | [arXiv:1201.6526](https://arxiv.org/abs/1201.6526) | Commons |
+| [[Open clusters as young SSP laboratories]] | [Open cluster](https://en.wikipedia.org/wiki/Open_cluster) |  |  |
+| [[Origin of eMSTO age spread or rotation]] | [Star cluster](https://en.wikipedia.org/wiki/Star_cluster) |  | Commons |
+| [[Photometric chromosome maps]] | [Globular cluster](https://en.wikipedia.org/wiki/Globular_cluster) | [arXiv:1201.6526](https://arxiv.org/abs/1201.6526) | Commons |
+| [[Polluter scenarios for second-generation GC stars]] | [Globular cluster](https://en.wikipedia.org/wiki/Globular_cluster) | [arXiv:1201.6526](https://arxiv.org/abs/1201.6526) | Commons |
+| [[Pop III nucleosynthesis signatures]] | [Stellar population](https://en.wikipedia.org/wiki/Stellar_population) | [arXiv:1102.4638](https://arxiv.org/abs/1102.4638) | Commons |
+| [[Pop III remnants in UFDGs]] | [Dwarf galaxy](https://en.wikipedia.org/wiki/Dwarf_galaxy) | [arXiv:1102.4638](https://arxiv.org/abs/1102.4638) | Commons |
+| [[Population I and II stars]] | [Stellar population](https://en.wikipedia.org/wiki/Stellar_population) | [arXiv:1301.7095](https://arxiv.org/abs/1301.7095) | Commons |
+| [[Population III stars]] | [Stellar population](https://en.wikipedia.org/wiki/Stellar_population) | [arXiv:1102.4638](https://arxiv.org/abs/1102.4638) | Commons |
+| [[Radial velocity from stellar spectra]] | [Radial velocity](https://en.wikipedia.org/wiki/Radial_velocity) |  | Commons |
+| [[Red giant branch RGB]] | [Red-giant branch](https://en.wikipedia.org/wiki/Red-giant_branch) |  | Commons |
+| [[Reddening correction methods]] | [Extinction (astronomy)](https://en.wikipedia.org/wiki/Extinction_%28astronomy%29) |  | Commons |
+| [[Resolved vs unresolved stellar populations]] | [Stellar population](https://en.wikipedia.org/wiki/Stellar_population) | [arXiv:1301.7095](https://arxiv.org/abs/1301.7095) | Commons |
+| [[Saha equation and recombination]] | [Saha ionization equation](https://en.wikipedia.org/wiki/Saha_ionization_equation) |  |  |
+| [[Saha ionisation equation]] | [Saha ionization equation](https://en.wikipedia.org/wiki/Saha_ionization_equation) |  |  |
+| [[Salpeter Kroupa Chabrier IMFs]] | [Initial mass function](https://en.wikipedia.org/wiki/Initial_mass_function) | [arXiv:1001.2965](https://arxiv.org/abs/1001.2965) | Commons |
+| [[Search for Pop III stars in dwarf galaxies]] | [Stellar population](https://en.wikipedia.org/wiki/Stellar_population) | [arXiv:1102.4638](https://arxiv.org/abs/1102.4638) | Commons |
+| [[Single stellar population SSP]] | [Stellar population](https://en.wikipedia.org/wiki/Stellar_population) | [arXiv:1301.7095](https://arxiv.org/abs/1301.7095) | Commons |
+| [[Spectroscopic determination of log g]] | [Surface gravity](https://en.wikipedia.org/wiki/Surface_gravity) |  |  |
+| [[Spectroscopic determination of metallicity]] | [Metallicity](https://en.wikipedia.org/wiki/Metallicity) | [arXiv:2106.13145](https://arxiv.org/abs/2106.13145) | Commons |
+| [[Spectroscopic determination of Teff]] | [Effective temperature](https://en.wikipedia.org/wiki/Effective_temperature) |  |  |
+| [[Splitting of the upper MS in young clusters]] | [Star cluster](https://en.wikipedia.org/wiki/Star_cluster) |  | Commons |
+| [[Star cluster types]] | [Star cluster](https://en.wikipedia.org/wiki/Star_cluster) |  | Commons |
+| [[Stellar atmosphere structure]] | [Stellar atmosphere](https://en.wikipedia.org/wiki/Stellar_atmosphere) |  | Commons |
+| [[Stellar evolutionary phases on the CMD]] | [Stellar evolution](https://en.wikipedia.org/wiki/Stellar_evolution) |  | Commons |
+| [[Stellar mass function xi(M)]] | [Initial mass function](https://en.wikipedia.org/wiki/Initial_mass_function) | [arXiv:1001.2965](https://arxiv.org/abs/1001.2965) | Commons |
+| [[Stellar rotation effects on CMD]] | [Stellar rotation](https://en.wikipedia.org/wiki/Stellar_rotation) |  | Commons |
+| [[Stellar rotation v sini]] | [Stellar rotation](https://en.wikipedia.org/wiki/Stellar_rotation) |  | Commons |
+| [[Stellar spectral types OBAFGKM]] | [Stellar classification](https://en.wikipedia.org/wiki/Stellar_classification) |  | Commons |
+| [[Subgiant branch SGB]] | [Subgiant](https://en.wikipedia.org/wiki/Subgiant) |  | Commons |
+| [[The Galactic Bulge]] | [Galactic bulge](https://en.wikipedia.org/wiki/Galactic_bulge) | [arXiv:1602.07702](https://arxiv.org/abs/1602.07702) | Commons |
+| [[Type I and Type II GCs]] | [Globular cluster](https://en.wikipedia.org/wiki/Globular_cluster) | [arXiv:1201.6526](https://arxiv.org/abs/1201.6526) | Commons |
+| [[UFDG dark matter content]] | [Dwarf galaxy](https://en.wikipedia.org/wiki/Dwarf_galaxy) | [arXiv:1901.05465](https://arxiv.org/abs/1901.05465) | Commons |
+| [[UFDG search via deep CMD]] | [Dwarf galaxy](https://en.wikipedia.org/wiki/Dwarf_galaxy) | [arXiv:1901.05465](https://arxiv.org/abs/1901.05465) | Commons |
+| [[UFDG star formation histories]] | [Dwarf galaxy](https://en.wikipedia.org/wiki/Dwarf_galaxy) | [arXiv:1901.05465](https://arxiv.org/abs/1901.05465) | Commons |
+| [[Ultra-faint dwarf galaxies definition]] | [Dwarf galaxy](https://en.wikipedia.org/wiki/Dwarf_galaxy) | [arXiv:1901.05465](https://arxiv.org/abs/1901.05465) | Commons |
+| [[WDCS turn to blue and CIA]] | [White dwarf](https://en.wikipedia.org/wiki/White_dwarf) | [arXiv:1007.2659](https://arxiv.org/abs/1007.2659) | Commons |
+| [[WDCS vs MSTO ages comparison]] | [White dwarf](https://en.wikipedia.org/wiki/White_dwarf) | [arXiv:1007.2659](https://arxiv.org/abs/1007.2659) | Commons |
+| [[White dwarf cooling sequence on the CMD]] | [White dwarf](https://en.wikipedia.org/wiki/White_dwarf) | [arXiv:1007.2659](https://arxiv.org/abs/1007.2659) | Commons |
+| [[White dwarf cooling theory]] | [White dwarf](https://en.wikipedia.org/wiki/White_dwarf) | [arXiv:1007.2659](https://arxiv.org/abs/1007.2659) | Commons |
+| [[White dwarf mass-radius relation]] | [White dwarf](https://en.wikipedia.org/wiki/White_dwarf) | [arXiv:1007.2659](https://arxiv.org/abs/1007.2659) | Commons |
+| [[White dwarf overview]] | [White dwarf](https://en.wikipedia.org/wiki/White_dwarf) | [arXiv:1007.2659](https://arxiv.org/abs/1007.2659) | Commons |
+| [[White dwarf types He CO ONeMg]] | [White dwarf](https://en.wikipedia.org/wiki/White_dwarf) | [arXiv:1007.2659](https://arxiv.org/abs/1007.2659) | Commons |
+| [[X-ray sources in globular clusters]] | [Low-mass X-ray binary](https://en.wikipedia.org/wiki/Low-mass_X-ray_binary) |  | Commons |
+| [[Yellow stragglers and sub-subgiants]] | [Subgiant](https://en.wikipedia.org/wiki/Subgiant) |  | Commons |
+
+<!-- /moc-sources:wiki-arxiv -->
+
 ## Prof. Antonino Milone Oral Exam Defense Preparation Matrix
 
 This matrix contains the signature questions, blackboard derivations, and trap points commonly probed by Prof. Antonino Milone during the oral exam:

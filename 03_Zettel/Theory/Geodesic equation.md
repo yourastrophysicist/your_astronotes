@@ -67,6 +67,18 @@ $$\frac{d}{d\tau}\!\left(\frac{\partial L}{\partial \dot x^\mu}\right) - \frac{\
 
 reproduces the geodesic equation. this is often the fastest way to compute Christoffels in practice: write $L$, do EL, read off $\Gamma$ from coefficient of $\dot x \dot x$.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Geodesic|500](https://commons.wikimedia.org/wiki/Special:FilePath/Klein_quartic_with_closed_geodesics.svg?width=600)
+*Lead figure of the Wikipedia article Geodesic* ([Commons file page](https://commons.wikimedia.org/wiki/File:Klein_quartic_with_closed_geodesics.svg), WatchduckYou can name the author as "T. Piesk", "Tilman Piesk" or "Watchduck"., CC BY-SA 4.0, as used on the Wikipedia article [Geodesic](https://en.wikipedia.org/wiki/Geodesic))
+
+- **Geodesic**. "In geometry, a geodesic () is a curve representing in some sense the locally shortest path (arc) between two points in a surface, or more generally in a Riemannian manifold. The term also has meaning in any differentiable manifold with a connection. It is a generalization of the notion of a "straight line"." ([Wikipedia](https://en.wikipedia.org/wiki/Geodesic))
+- **Lecture Notes on General Relativity**. "These notes represent approximately one semester's worth of lectures on introductory general relativity for beginning graduate students in physics. Topics include manifolds, Riemannian geometry, Einstein's equations, and three applications: gravitational radiation, black holes, and cosmology." ([arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Christoffel symbols]]

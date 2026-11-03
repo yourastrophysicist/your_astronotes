@@ -91,6 +91,14 @@ the result tells me which function consumes 80% of the time. **only optimize tha
 
 before writing code, mentally compute: what is $N$, what is the algorithm complexity, what is the constant factor (~$10^9$ FLOPS), what is the resulting wall-clock time. if it is more than a few hours, redesign — pick a faster algorithm, exploit sparsity, parallelize, or reduce $N$ (cosmologically: use a sample of the catalog).
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Computational complexity**. "In computer science, the computational complexity or simply complexity of an algorithm is the amount of resources required to run it. Particular focus is given to computation time (generally measured by the number of needed elementary operations) and memory storage requirements. The complexity of a problem is the complexity of the best algorithms that allow solving the problem." ([Wikipedia](https://en.wikipedia.org/wiki/Computational_complexity))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Vectorization and python speed]]

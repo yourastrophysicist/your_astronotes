@@ -56,6 +56,14 @@ $n_e < 1$ cm$^{-3}$. forbidden-line ratios approach the statistical-weight ratio
 
 precision: limited by line-flux measurement and instrumental resolution. typical $\pm 0.3$ dex in $n_e$.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Plasma diagnostics**. "Plasma diagnostics are a pool of methods, instruments, and experimental techniques used to measure properties of a plasma, such as plasma components' density, distribution function over energy (temperature), their spatial profiles and dynamics, which enable to derive plasma parameters." ([Wikipedia](https://en.wikipedia.org/wiki/Plasma_diagnostics))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Forbidden line diagnostics]]

@@ -337,6 +337,17 @@ with the master equations of spherical trigonometry I can transform between any 
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Spherical astronomy|500](https://commons.wikimedia.org/wiki/Special:FilePath/Positional_astronomy.svg?width=600)
+*Metapost-generated vector version of Positional astronomy.png* ([Commons file page](https://commons.wikimedia.org/wiki/File:Positional_astronomy.svg), Wmheric, CC BY-SA 3.0, as used on the Wikipedia article [Spherical astronomy](https://en.wikipedia.org/wiki/Spherical_astronomy))
+
+- **Spherical astronomy**. "Spherical astronomy, or positional astronomy, is a branch of observational astronomy used to locate astronomical objects on the celestial sphere, as seen at a particular date, time, and location on Earth. It relies on the mathematical methods of spherical trigonometry and the measurements of astrometry. This is the oldest branch of astronomy and dates back to antiquity." ([Wikipedia](https://en.wikipedia.org/wiki/Spherical_astronomy))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

@@ -112,6 +112,14 @@ this is now as fast as the vectorized version, but uses $O(1)$ extra memory beca
 - **time-series analysis**: filtering, FFT, smoothing — all naturally vectorized
 - **grid-based PDE updates**: stencil operations in numpy are clean and fast
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Array programming**. "In computer science, array programming refers to solutions that allow the application of operations to an entire set of values at once. Such solutions are commonly used in scientific and engineering settings." ([Wikipedia](https://en.wikipedia.org/wiki/Array_programming))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Numpy arrays vs Python lists]]

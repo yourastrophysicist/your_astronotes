@@ -55,6 +55,17 @@ read as "principal $n$, multiplicity $2S+1$, term letter $L$, sublevel $J$, pari
 - **He ground**: $1s^2$, $L = 0$, $S = 0$, $J = 0$ $\to$ $1\,^1S_0^e$.
 - **C ground**: $2p^2$, $^3P_0$ via Hund's rules.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Quantum number|500](https://commons.wikimedia.org/wiki/Special:FilePath/Atomic_orbitals_n123_m-eigenstates.png?width=600)
+*Lead figure of the Wikipedia article Quantum number* ([Commons file page](https://commons.wikimedia.org/wiki/File:Atomic_orbitals_n123_m-eigenstates.png), Geek3, CC BY-SA 4.0, as used on the Wikipedia article [Quantum number](https://en.wikipedia.org/wiki/Quantum_number))
+
+- **Quantum number**. "In quantum physics and chemistry, quantum numbers are quantities that characterize the possible states of the system. To fully specify the state of the electron in a hydrogen atom, four quantum numbers are needed. The traditional set of quantum numbers includes the principal, azimuthal, magnetic, and spin quantum numbers." ([Wikipedia](https://en.wikipedia.org/wiki/Quantum_number))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Russell-Saunders LS coupling]]

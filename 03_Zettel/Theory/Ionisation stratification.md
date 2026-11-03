@@ -60,6 +60,17 @@ uses the ionisation potentials of observed and unobserved species to estimate th
 
 matter-bounded vs ionisation-bounded affects the integrated line ratios; matter-bounded shows excess [OII] and [SII] relative to [OIII] for the same $U$.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Strömgren sphere|500](https://commons.wikimedia.org/wiki/Special:FilePath/Rosette_nebula_Lanoue.png?width=600)
+*Lead figure of the Wikipedia article Strömgren sphere* ([Commons file page](https://commons.wikimedia.org/wiki/File:Rosette_nebula_Lanoue.png), John Lanoue, Public domain, as used on the Wikipedia article [Strömgren sphere](https://en.wikipedia.org/wiki/Str%C3%B6mgren_sphere))
+
+- **Strömgren sphere**. "The Strömgren sphere is an idealized model of ionized hydrogen shells around young OB stars or quasars. Though ideally symmetrical, common examples demonstrate asymmetry as a result of environmental factors like gas inhomogeneity, bow shocks, anisotropic stellar emission, or relativistic effects. The Strömgren sphere is named after Bengt Strömgren, who first described it in 1937." ([Wikipedia](https://en.wikipedia.org/wiki/Str%C3%B6mgren_sphere))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Ionisation parameter U]]

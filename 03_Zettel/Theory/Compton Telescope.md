@@ -107,6 +107,17 @@ The physics is directly the [[Compton scattering and pair production\|Compton sc
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Compton telescope|500](https://commons.wikimedia.org/wiki/Special:FilePath/Compton_camera_Principle.svg?width=600)
+*Lead figure of the Wikipedia article Compton telescope* ([Commons file page](https://commons.wikimedia.org/wiki/File:Compton_camera_Principle.svg), Napy1kenobi, CC BY-SA 4.0, as used on the Wikipedia article [Compton telescope](https://en.wikipedia.org/wiki/Compton_telescope))
+
+- **Compton telescope**. "A Compton telescope (also known as a Compton camera or Compton imager) is a gamma-ray detector which utilizes Compton scattering to determine the origin of the observed gamma rays. Compton cameras are usually applied to detect gamma rays in the energy range where Compton scattering is the dominating interaction process, from a few hundred keV to several MeV." ([Wikipedia](https://en.wikipedia.org/wiki/Compton_telescope))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[A Brief History of X-ray and Gamma-ray Missions]]

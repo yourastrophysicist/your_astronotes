@@ -54,6 +54,14 @@ with $E(B - V)$ from spectral fitting, Balmer decrement, or dust maps (Schlegel-
 
 reddening vector on the CMD: a parallel shift along $B - V$ proportional to $E(B - V)$, with a slope $A_V/E(B-V) = R_V \approx 3.1$ for diffuse Galactic ISM.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Color index**. "In astronomy, the color index is a simple numerical expression that determines the color of an object, which in the case of a star gives its temperature. The lower the color index, the more blue (or hotter) the object is. Conversely, the higher the color index, the more red (or cooler) the object is." ([Wikipedia](https://en.wikipedia.org/wiki/Color_index))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Magnitudes and photometric systems]]

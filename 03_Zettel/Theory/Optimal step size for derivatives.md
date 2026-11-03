@@ -82,6 +82,17 @@ if $f$ is itself noisy (Monte Carlo estimate, simulation output), the "machine e
 - forward $f'$: $h_{\rm opt} \sim \sqrt{\sigma}$, error $\sim \sqrt{\sigma}$. for $\sigma = 10^{-3}$ the error is $\sim 10^{-1.5}$ — useless
 - the right approach is **smoothing first**, see [[Derivatives of noisy data]]
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Numerical differentiation|500](https://commons.wikimedia.org/wiki/Special:FilePath/Derivative.svg?width=600)
+*A visual representation of the concept of derivative, using a tangent on a two-dimensional graph* ([Commons file page](https://commons.wikimedia.org/wiki/File:Derivative.svg), Olivier Cleynen, CC0, as used on the Wikipedia article [Numerical differentiation](https://en.wikipedia.org/wiki/Numerical_differentiation))
+
+- **Numerical differentiation**. "In numerical analysis, numerical differentiation algorithms estimate the derivative of a mathematical function or subroutine using values of the function. Unlike analytical differentiation, which provides exact expressions for derivatives, numerical differentiation relies on the function's values at a set of discrete points to estimate the derivative's value at those points or at intermediate points." ([Wikipedia](https://en.wikipedia.org/wiki/Numerical_differentiation))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Forward backward and central differences]]

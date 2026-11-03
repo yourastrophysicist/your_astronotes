@@ -158,6 +158,17 @@ reading cue: Stokes parameters are not four random letters. they are a compact b
 
 source: local study diagram generated from the standard Stokes-parameter interpretation.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Polarization (waves)|500](https://commons.wikimedia.org/wiki/Special:FilePath/Polarizacio.jpg?width=600)
+*Lead figure of the Wikipedia article Polarization (waves)* ([Commons file page](https://commons.wikimedia.org/wiki/File:Polarizacio.jpg), Zátonyi Sándor, (ifj.) Fizped, CC BY-SA 3.0, as used on the Wikipedia article [Polarization (waves)](https://en.wikipedia.org/wiki/Polarization_%28waves%29))
+
+- **Polarization (waves)**. "Polarization, or polarisation, is a property of transverse waves which specifies the geometrical orientation of the oscillations. In a transverse wave, the direction of the oscillation is perpendicular to the direction of motion of the wave. One example of a polarized transverse wave is vibrations traveling along a taut string, for example, in a musical instrument like a guitar string." ([Wikipedia](https://en.wikipedia.org/wiki/Polarization_%28waves%29))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Calibration overview]]

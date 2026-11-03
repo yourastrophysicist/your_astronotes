@@ -51,6 +51,17 @@ the near-UV continuum of an HII region sits on top of multiple contributions:
 
 their sum is the **observed UV continuum** of the nebula. each has a different shape, so the SED encodes information about the gas conditions.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Balmer jump|500](https://commons.wikimedia.org/wiki/Special:FilePath/NASA-Icarus-BlueSuperGiantSpectrum-Hubble-20180402.png?width=600)
+*Lead figure of the Wikipedia article Balmer jump* ([Commons file page](https://commons.wikimedia.org/wiki/File:NASA-Icarus-BlueSuperGiantSpectrum-Hubble-20180402.png), NASA, ESA, and A. Feild (STScI), Public domain, as used on the Wikipedia article [Balmer jump](https://en.wikipedia.org/wiki/Balmer_jump))
+
+- **Balmer jump**. "The Balmer jump, Balmer discontinuity, or Balmer break is the difference of intensity of the stellar spectrum on either side of the limit of the Balmer series of hydrogen, at approximately 364.5 nm. It is caused by electrons being completely ionized directly from the second energy level of a hydrogen atom (bound-free absorption)." ([Wikipedia](https://en.wikipedia.org/wiki/Balmer_jump))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Recombination continuum]]

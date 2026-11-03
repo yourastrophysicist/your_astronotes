@@ -51,6 +51,18 @@ $$\ddot x^\nu + \Gamma^\nu{}_{\alpha\beta}\dot x^\alpha\dot x^\beta = 0$$
 
 and this is exactly **the equation that extremises the proper time** for timelike geodesics, **the equation that extremises the action $S = -m\int d\tau$**, the equation of motion of free test particles. the Levi-Civita connection makes "geodesic = autoparallel = extremal proper-time path" all one and the same.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Levi-Civita connection|500](https://commons.wikimedia.org/wiki/Special:FilePath/Parallel_transport_sphere.svg?width=600)
+*An affine connection on the sphere rolls the affine tangent plane from one point to another. As it does so, the point of contact traces out a curve in the plane: the development* ([Commons file page](https://commons.wikimedia.org/wiki/File:Parallel_transport_sphere.svg), Silly rabbit at English Wikipedia, CC BY-SA 3.0, as used on the Wikipedia article [Levi-Civita connection](https://en.wikipedia.org/wiki/Levi-Civita_connection))
+
+- **Levi-Civita connection**. "In Riemannian or pseudo-Riemannian geometry (in particular the Lorentzian geometry of general relativity), the Levi-Civita connection is the unique affine connection on the tangent bundle of a manifold that preserves the (pseudo-)Riemannian metric and is torsion-free. The fundamental theorem of Riemannian geometry states that there is a unique connection that satisfies these properties." ([Wikipedia](https://en.wikipedia.org/wiki/Levi-Civita_connection))
+- **Lecture Notes on General Relativity**. "These notes represent approximately one semester's worth of lectures on introductory general relativity for beginning graduate students in physics. Topics include manifolds, Riemannian geometry, Einstein's equations, and three applications: gravitational radiation, black holes, and cosmology." ([arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Christoffel symbols]]

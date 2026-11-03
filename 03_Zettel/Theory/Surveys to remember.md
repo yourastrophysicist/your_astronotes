@@ -56,6 +56,17 @@ up: [[Observational_Cosmology_MOC]] · [[Astrophysics_of_Galaxies_MOC]]
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Astronomical survey|500](https://commons.wikimedia.org/wiki/Special:FilePath/GOODS-South_field.jpg?width=600)
+*Lead figure of the Wikipedia article Astronomical survey* ([Commons file page](https://commons.wikimedia.org/wiki/File:GOODS-South_field.jpg), ESO/M. Hayes, CC BY 4.0, as used on the Wikipedia article [Astronomical survey](https://en.wikipedia.org/wiki/Astronomical_survey))
+
+- **Astronomical survey**. "An astronomical survey is a general map or image of a region of the sky (or of the whole sky) that lacks a specific observational target. Alternatively, an astronomical survey may comprise a set of images, spectra, or other observations of objects that share a common type or feature." ([Wikipedia](https://en.wikipedia.org/wiki/Astronomical_survey))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[High-z galaxies with JWST]]

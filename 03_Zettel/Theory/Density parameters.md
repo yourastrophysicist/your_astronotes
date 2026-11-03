@@ -76,6 +76,14 @@ CMB data measures $\Omega h^2$ directly (via the physical density), then $\Omega
 
 these are determined to $\sim 1\%$ from Planck CMB peak structure. converting to $\Omega$ requires $H_0$, the most uncertain step (Hubble tension at $\sim 7\%$).
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Friedmann equations**. "The Friedmann equations, also known as the Friedmann–Lemaître (FL) equations, are a set of equations in physical cosmology that govern cosmic expansion in homogeneous and isotropic models of the universe within the context of general relativity." ([Wikipedia](https://en.wikipedia.org/wiki/Friedmann_equations))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Density parameters and flatness]]

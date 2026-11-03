@@ -79,6 +79,17 @@ Examples:
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Cassegrain reflector|500](https://commons.wikimedia.org/wiki/Special:FilePath/Cassegrain.en.png?width=600)
+*Cassegrain telescope* ([Commons file page](https://commons.wikimedia.org/wiki/File:Cassegrain.en.png), Szőcs Tamás Tamasflex, CC BY-SA 3.0, as used on the Wikipedia article [Cassegrain reflector](https://en.wikipedia.org/wiki/Cassegrain_reflector))
+
+- **Cassegrain reflector**. "A Cassegrain reflector is a combination of a primary concave mirror and a secondary convex mirror, often used in optical telescopes and radio antennas, the main characteristic being that the optical path folds back onto itself, relative to the optical system's primary mirror entrance aperture." ([Wikipedia](https://en.wikipedia.org/wiki/Cassegrain_reflector))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Lab_High-Energy_MOC]]

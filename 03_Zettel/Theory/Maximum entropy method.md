@@ -43,6 +43,14 @@ MEM has historically been used extensively for single-dish deconvolution and for
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Principle of maximum entropy**. "The principle of maximum entropy states that, among all probability distributions consistent with a given set of constraints (such as normalization or specified expectation values), the distribution that maximizes Shannon entropy should be selected. This yields the least committal distribution compatible with the known constraints, introducing no structure beyond what is logically implied by the available information." ([Wikipedia](https://en.wikipedia.org/wiki/Principle_of_maximum_entropy))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[CLEAN algorithm]]

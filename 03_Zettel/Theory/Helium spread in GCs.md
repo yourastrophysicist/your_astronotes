@@ -64,6 +64,18 @@ the helium constraint, combined with the mass budget, is the single hardest test
 - NGC 6441 + NGC 6388: metal-rich but with extended blue HBs implying $\Delta Y \sim 0.05$-$0.07$ despite high [Fe/H]
 - 47 Tuc: modest $\Delta Y \sim 0.03$, consistent with mild Na-O extension
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Globular cluster|500](https://commons.wikimedia.org/wiki/Special:FilePath/Globular_Cluster_M2.jpg?width=600)
+*Lead figure of the Wikipedia article Globular cluster* ([Commons file page](https://commons.wikimedia.org/wiki/File:Globular_Cluster_M2.jpg), NASA Hubble, CC BY 2.0, as used on the Wikipedia article [Globular cluster](https://en.wikipedia.org/wiki/Globular_cluster))
+
+- **Globular cluster**. "A globular cluster is a spheroidal conglomeration of stars that is bound together by gravity, with a higher concentration of stars towards its center. It can contain anywhere from tens of thousands to many millions of member stars, all orbiting in a stable, compact formation. This contrasts with open clusters, where the stars are only loosely bound and more easily disrupted." ([Wikipedia](https://en.wikipedia.org/wiki/Globular_cluster))
+- **Multiple populations in globular clusters. Lessons learned from the Milky Way globular clusters**. "Recent progress in studies of globular clusters has shown that they are not simple stellar populations, being rather made of multiple generations. Evidence stems both from photometry and spectroscopy. A new paradigm is then arising for the formation of massive star clusters, which includes several episodes of star formation." ([arXiv:1201.6526](https://arxiv.org/abs/1201.6526))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Na O anticorrelation]]

@@ -75,6 +75,18 @@ the bulge is the high-metallicity stress test of CMD analysis. mastering the pro
 - **Renzini et al. 2018, ApJ 863, 16**: five-band HST photometry + reddening-free pseudo-colour diagrams.
 - **Milone et al. 2012**: differential-reddening map technique applied to GCs.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Galactic bulge|500](https://commons.wikimedia.org/wiki/Special:FilePath/Artist%27s_impression_of_the_central_bulge_of_the_Milky_Way.jpg?width=600)
+*Lead figure of the Wikipedia article Galactic bulge* ([Commons file page](https://commons.wikimedia.org/wiki/File:Artist%27s_impression_of_the_central_bulge_of_the_Milky_Way.jpg), ESO/NASA/JPL-Caltech/M. Kornmesser/R. Hurt, CC BY 4.0, as used on the Wikipedia article [Galactic bulge](https://en.wikipedia.org/wiki/Galactic_bulge))
+
+- **Galactic bulge**. "In astronomy, a galactic bulge (or simply bulge) is a tightly packed group of stars within a larger star formation. The term almost exclusively refers to the group of stars found near the center of most spiral galaxies." ([Wikipedia](https://en.wikipedia.org/wiki/Galactic_bulge))
+- **The Galaxy in Context: Structural, Kinematic and Integrated Properties**. "Our Galaxy, the Milky Way, is a benchmark for understanding disk galaxies. It is the only galaxy whose formation history can be studied using the full distribution of stars from white dwarfs to supergiants. The oldest components provide us with unique insight into how galaxies form and evolve over billions of years." ([arXiv:1602.07702](https://arxiv.org/abs/1602.07702))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[The Galactic Bulge]]

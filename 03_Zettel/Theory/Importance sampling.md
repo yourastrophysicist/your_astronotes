@@ -68,6 +68,14 @@ $$N_{\rm eff} = \frac{(\sum w_i)^2}{\sum w_i^2}$$
 
 if a few samples dominate the weights, $N_{\rm eff} \ll N$ and the estimator has effectively used few samples. always check $N_{\rm eff}/N$; if it is < 0.1, the choice of $g$ is bad.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Importance sampling**. "Importance sampling is a Monte Carlo method for evaluating properties of a particular distribution, while only having samples generated from a different distribution than the distribution of interest. Its introduction in statistics is generally attributed to a paper by Teun Kloek and Herman K. van Dijk in 1978, but its precursors can be found in statistical physics as early as 1949." ([Wikipedia](https://en.wikipedia.org/wiki/Importance_sampling))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Monte Carlo integration mean value method]]

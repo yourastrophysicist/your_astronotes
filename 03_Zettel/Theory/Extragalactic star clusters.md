@@ -16,6 +16,17 @@ the milky way's $\sim 150$ globulars and $\sim 10^3$ catalogued open clusters ar
 
 the take-home: the milky way's GCs are old, accreted, and chemically simple; M31 and M87 reveal the *system-level* properties (specific frequency $S_N$, colour bimodality); and JWST is starting to deliver *temporal* constraints on when and how GCs formed in the first place.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Super star cluster|500](https://commons.wikimedia.org/wiki/Special:FilePath/Grand_star-forming_region_R136_in_NGC_2070_%28captured_by_the_Hubble_Space_Telescope%29.jpg?width=600)
+*A Hubble Space Telescope image of the R136 super star cluster, near the center of the 30 Doradus Nebula, also known as the Tarantula Nebula or NGC 2070. (Converted to JPG from the source TIFF file)* ([Commons file page](https://commons.wikimedia.org/wiki/File:Grand_star-forming_region_R136_in_NGC_2070_%28captured_by_the_Hubble_Space_Telescope%29.jpg), NASA, ESA, F. Paresce (INAF-IASF, Bologna, Italy), R. O'Connell (University of Virginia, Charlottesville), and the Wide , Public domain, as used on the Wikipedia article [Super star cluster](https://en.wikipedia.org/wiki/Super_star_cluster))
+
+- **Super star cluster**. "A super star cluster (SSC) is a very massive young open cluster that is thought to be the precursor of a globular cluster. These clusters called "super" because they are relatively more luminous and contain more mass than other young star clusters. The SSC, however, does not have to physically be larger than other clusters of lower mass and luminosity." ([Wikipedia](https://en.wikipedia.org/wiki/Super_star_cluster))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 - [[Stellar_Astrophysics_MOC]]
 - [[Globular clusters as SSP laboratories]]

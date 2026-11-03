@@ -80,6 +80,17 @@ the exam template's Pythagorean 3-body integration uses *fixed* $h = 10^{-5}$. t
 
 a real Pythagorean 3-body integrator (Burrau 1913, Szebehely & Peters 1967) uses regularization or adaptive timesteps. the modern standard for this exact problem is the **Brutus** code (Boekholt & Portegies Zwart 2015), which integrates with arbitrary precision arithmetic to track the chaotic divergence to >100 significant figures.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Adaptive step size|500](https://commons.wikimedia.org/wiki/Special:FilePath/Periodic_3-body_RKF_Integration.gif?width=600)
+*3-body numerical simulation showcasing the benefit of using a Runge-Kutta integrator that can estimate error* ([Commons file page](https://commons.wikimedia.org/wiki/File:Periodic_3-body_RKF_Integration.gif), Mgolden96, CC BY-SA 4.0, as used on the Wikipedia article [Adaptive step size](https://en.wikipedia.org/wiki/Adaptive_step_size))
+
+- **Adaptive step size**. "In mathematics and numerical analysis, an adaptive step size is used in some methods for the numerical solution of ordinary differential equations (including the special case of numerical integration) in order to control the errors of the method and to ensure stability properties such as A-stability. Using an adaptive stepsize is of particular importance when there is a large variation in the size of the derivative." ([Wikipedia](https://en.wikipedia.org/wiki/Adaptive_step_size))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Adaptive step size control]]

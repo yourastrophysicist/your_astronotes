@@ -104,6 +104,14 @@ reading cue: the OTF tells me which spatial frequencies survive the optical syst
 
 source: local study diagram generated from the Abbe/Fourier-optics interpretation of image formation.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Optical transfer function**. "The optical transfer function (OTF) of an optical system such as a camera, microscope, human eye, or projector is a scale-dependent description of their imaging contrast." ([Wikipedia](https://en.wikipedia.org/wiki/Optical_transfer_function))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Point spread function]]

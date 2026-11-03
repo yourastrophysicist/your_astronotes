@@ -105,6 +105,14 @@ The same physics — Bragg diffraction — is used in **X-ray crystal spectromet
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Bragg's law**. "In many areas of science, Bragg's law – also known as Wulff–Bragg's condition or Laue–Bragg interference – is a special case of Laue diffraction that gives the angles for coherent scattering of waves from a large crystal lattice. It describes how the superposition of wave fronts scattered by lattice planes leads to a strict relation between the wavelength and scattering angle." ([Wikipedia](https://en.wikipedia.org/wiki/Bragg%27s_law))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[A Brief History of X-ray and Gamma-ray Missions]]

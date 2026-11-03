@@ -65,6 +65,15 @@ the MS line on his plot is solid; the dashed and dotted lines are $4\times$ and 
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Star formation**. "Star formation is the process by which dense regions within molecular clouds in interstellar space—sometimes referred to as "stellar nurseries" or "star-forming regions"—collapse and form stars." ([Wikipedia](https://en.wikipedia.org/wiki/Star_formation))
+- **Star Formation in the Milky Way and Nearby Galaxies**. "We review progress over the past decade in observations of large-scale star formation, with a focus on the interface between extragalactic and Galactic studies. Methods of measuring gas contents and star formation rates are discussed, and updated prescriptions for calculating star formation rates are provided." ([arXiv:1204.3552](https://arxiv.org/abs/1204.3552))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Cosmic star formation history]]

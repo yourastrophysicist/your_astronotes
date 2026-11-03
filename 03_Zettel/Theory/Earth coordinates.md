@@ -67,6 +67,17 @@ so by measuring how high Polaris sits above the northern horizon, I directly rea
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Geographic coordinate system|500](https://commons.wikimedia.org/wiki/Special:FilePath/FedStats_Lat_long.svg?width=600)
+*A simple figure explaining latitude and longitude* ([Commons file page](https://commons.wikimedia.org/wiki/File:FedStats_Lat_long.svg), Unknown authorUnknown author, Public domain, as used on the Wikipedia article [Geographic coordinate system](https://en.wikipedia.org/wiki/Geographic_coordinate_system))
+
+- **Geographic coordinate system**. "A geographic coordinate system (GCS) is a spherical or geodetic coordinate system for measuring and communicating positions directly on Earth as latitude and longitude. It is the simplest, oldest, and most widely used type of the various spatial reference systems that are in use, and forms the basis for most others." ([Wikipedia](https://en.wikipedia.org/wiki/Geographic_coordinate_system))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

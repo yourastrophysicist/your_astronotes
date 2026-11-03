@@ -86,6 +86,14 @@ these come at the cost of more complex stencil definitions (the simple "$u_{i+1}
 - **cosmological N-body**: density field discretized for FFT-based force computation
 - **ice giant atmosphere modeling**: energy and momentum equations on a stretched grid
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Finite difference method**. "In numerical analysis, finite-difference methods (FDM) are a class of numerical techniques for solving differential equations by approximating derivatives with finite differences." ([Wikipedia](https://en.wikipedia.org/wiki/Finite_difference_method))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Forward backward and central differences]]

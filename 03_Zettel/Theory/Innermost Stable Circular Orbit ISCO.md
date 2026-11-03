@@ -53,4 +53,11 @@ The ISCO radius is not directly imaged but is inferred from: (1) the inner trunc
 - **Seminal Classical Reference**: Bardeen, Press & Teukolsky (1972), *ApJ* 178, 347 — the original derivation of this formula. Full synthesis: [[Bardeen_Press_Teukolsky_1972_Rotating_Black_Holes]].
 - **Recent arXiv Benchmark**: GRAVITY Collaboration (2018), *arXiv:1810.12641* — direct astrometric detection of orbital motion consistent with this ISCO structure around Sgr A*. Full synthesis: [[GRAVITY_Collaboration_2018_Orbital_Motion_ISCO_SgrA]].
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
 
+- **Innermost stable circular orbit**. "The innermost stable circular orbit (often called the ISCO) is the smallest marginally stable circular orbit in which a test particle can stably orbit a massive object in general relativity. The location of the ISCO, the ISCO-radius ( r i s c o $r_{\mathrm {isco} }$ ), depends on the mass and angular momentum (spin) of the central object." ([Wikipedia](https://en.wikipedia.org/wiki/Innermost_stable_circular_orbit))
+- **Lecture Notes on General Relativity**. "These notes represent approximately one semester's worth of lectures on introductory general relativity for beginning graduate students in physics. Topics include manifolds, Riemannian geometry, Einstein's equations, and three applications: gravitational radiation, black holes, and cosmology." ([arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->

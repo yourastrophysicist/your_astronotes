@@ -163,6 +163,14 @@ because distance cancels out in the ratio $F_B / F_V = (L_B / 4\pi d^2) / (L_V /
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Photometric system**. "In astronomy, a photometric system is a set of well-defined passbands (or optical filters), with a known sensitivity to incident radiation. The sensitivity usually depends on the optical system, detectors and filters used. For each photometric system a set of primary standard stars is provided." ([Wikipedia](https://en.wikipedia.org/wiki/Photometric_system))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

@@ -53,6 +53,17 @@ some novae recur on $\sim 1$ to $100$ year timescales (**recurrent novae**, e.g.
 
 novae are **single-degenerate analogs** of SN Ia progenitors, but at much lower mass per event. studying the WD mass distribution from novae helps constrain whether some fraction reach Chandrasekhar mass and explode.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Nova|500](https://commons.wikimedia.org/wiki/Special:FilePath/Artist%E2%80%99s_Illustration_of_Extragalactic_Recurrent_Nova_%28noirlab2509a%29.jpg?width=600)
+*Lead figure of the Wikipedia article Nova* ([Commons file page](https://commons.wikimedia.org/wiki/File:Artist%E2%80%99s_Illustration_of_Extragalactic_Recurrent_Nova_%28noirlab2509a%29.jpg), International Gemini Observatory/NOIRLab/NSF/AURA/M. Garlick, M. Zamani, CC BY 4.0, as used on the Wikipedia article [Nova](https://en.wikipedia.org/wiki/Nova))
+
+- **Nova**. "A nova is a transient astronomical event that causes the sudden appearance of a bright, apparently "new" star (hence the name "nova", Latin for "new"; the shortened form of "stella nova", Latin for "new star") that slowly fades over weeks or months." ([Wikipedia](https://en.wikipedia.org/wiki/Nova))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Emission line stars]]

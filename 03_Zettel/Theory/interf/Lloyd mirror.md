@@ -66,6 +66,14 @@ Lloyd's mirror has a modern descendant: in atomic physics, a "dipole mirror" ref
 | ease of setup | easy | harder (alignment) |
 | demonstration of phase shift | no | yes |
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Lloyd's mirror**. "Lloyd's mirror is an optics experiment that was first described in 1834 by Humphrey Lloyd in the Transactions of the Royal Irish Academy. Its original goal was to provide further evidence for the wave nature of light, beyond those provided by Thomas Young and Augustin-Jean Fresnel." ([Wikipedia](https://en.wikipedia.org/wiki/Lloyd%27s_mirror))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Wavefront-division interferometers]]

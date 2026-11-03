@@ -51,6 +51,17 @@ the CMB has $W = 1$ everywhere (filling all space). so its photoexcitation rate 
 
 near the inner edge of a disk around a black hole or compact object, the radiation is intense ($W \to 0.5$). photoionisation and photoexcitation rates approach LTE values; **both** processes are relevant.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Inverse-square law|500](https://commons.wikimedia.org/wiki/Special:FilePath/Inverse_square_law.svg?width=600)
+*My second attempt at illustrating the Inverse Square Law. S represents an ideal source of electromagnetic radiation and A represents an arbitrary segment of the surface of a sphere of radius r* ([Commons file page](https://commons.wikimedia.org/wiki/File:Inverse_square_law.svg), Borb (talk · contribs), CC BY-SA 3.0, as used on the Wikipedia article [Inverse-square law](https://en.wikipedia.org/wiki/Inverse-square_law))
+
+- **Inverse-square law**. "In physical science, an inverse-square law is any scientific law stating that the observed "intensity" of a specified physical quantity (being nothing more than the value of the physical quantity) is inversely proportional to the square of the distance from the source of that physical quantity." ([Wikipedia](https://en.wikipedia.org/wiki/Inverse-square_law))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - Strömgren sphere

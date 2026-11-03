@@ -43,6 +43,15 @@ modern surveys: COS-Halos, Q-PACT, MUSEQuBES use QSO sight lines to probe the CG
 ### simulations match
 modern cosmological simulations (IllustrisTNG, EAGLE, SIMBA) reproduce the WHIM + CGM budget when including realistic feedback + chemical enrichment. consistent with current observations.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Missing baryon problem**. "In cosmology, the missing baryon problem is an observed discrepancy between the amount of baryonic matter detected from shortly after the Big Bang and from more recent epochs." ([Wikipedia](https://en.wikipedia.org/wiki/Missing_baryon_problem))
+- **The Physics of the Intergalactic Medium**. "Intergalactic space is filled with a pervasive medium of ionized gas, the Intergalactic Medium (IGM). A residual neutral fraction is detected in the spectra of Quasi-Stellar Objects at both low and high redshifts, revealing a highly fluctuating medium with temperatures characteristic of photoionized gas." ([arXiv:0711.3358](https://arxiv.org/abs/0711.3358))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Intergalactic medium]]

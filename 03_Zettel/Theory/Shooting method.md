@@ -89,6 +89,14 @@ this is the **Henyey method** for stellar structure, although in practice it is 
 
 solve $-\psi'' + V(x)\psi = E\psi$ on $[-L, L]$ with $\psi(\pm L) \to 0$. boundary value plus eigenvalue. shoot from $-L$ with a guess for $E$; the wavefunction is not normalizable except at the right $E$, where $\psi(+L) = 0$. find $E$ by bisection on $\psi(+L; E)$.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Shooting method**. "In numerical analysis, the shooting method is a method for solving a boundary value problem by reducing it to an initial value problem. It involves finding solutions to the initial value problem for different initial conditions until one finds the solution that also satisfies the boundary conditions of the boundary value problem." ([Wikipedia](https://en.wikipedia.org/wiki/Shooting_method))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Initial value vs boundary value problems]]

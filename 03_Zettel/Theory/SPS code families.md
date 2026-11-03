@@ -74,6 +74,18 @@ when identical photometric catalogs are fit with different SPS codes:
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Stellar population|500](https://commons.wikimedia.org/wiki/Special:FilePath/Artist%27s_impression_of_the_Milky_Way_%28updated_-_annotated%29.jpg?width=600)
+*Lead figure of the Wikipedia article Stellar population* ([Commons file page](https://commons.wikimedia.org/wiki/File:Artist%27s_impression_of_the_Milky_Way_%28updated_-_annotated%29.jpg), NASA/JPL-Caltech/ESO/R. Hurt, Public domain, as used on the Wikipedia article [Stellar population](https://en.wikipedia.org/wiki/Stellar_population))
+
+- **Stellar population**. "In 1944, Walter Baade categorized groups of stars within the Milky Way into stellar populations. In the abstract of the article by Baade, he recognizes that Jan Oort originally conceived this type of classification in 1926. Baade observed that bluer stars were strongly associated with the spiral arms, and yellow stars dominated near the central galactic bulge and within globular star clusters." ([Wikipedia](https://en.wikipedia.org/wiki/Stellar_population))
+- **Modeling the Panchromatic Spectral Energy Distributions of Galaxies**. "The spectral energy distributions (SEDs) of galaxies are shaped by nearly every physical property of the system, including the star formation history, metal content, abundance pattern, dust mass, grain size distribution, star-dust geometry, and interstellar radiation field. The principal goal of stellar population synthesis (SPS) is to extract these variables from observed SEDs." ([arXiv:1301.7095](https://arxiv.org/abs/1301.7095))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Observational_Astrophysics_MOC]]

@@ -86,6 +86,15 @@ intensity interferometry remained dormant in optical astronomy until the 2010s r
 
 VERITAS (gamma-ray Cherenkov telescopes, ~17 m equivalent buckets) demonstrated intensity interferometry on bright stars in 2018-2020, confirming sensitivity limits and establishing the technique for the future CTA array. CTA (50+ telescopes spread over $\sim 1$ km) will be the largest intensity interferometer ever built, capable of stellar surface imaging on hundreds of bright stars.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Narrabri Stellar Intensity Interferometer**. "The Narrabri Stellar Intensity Interferometer (NSII) was the first astronomical instrument to measure the diameters of a large number of stars at visible wavelengths. It was designed by (amongst others) Robert Hanbury Brown, who received the Hughes Medal in 1971 for this work. It was built by University of Sydney School of Physics and was located near the town of Narrabri in north-central New South Wales, Australia." ([Wikipedia](https://en.wikipedia.org/wiki/Narrabri_Stellar_Intensity_Interferometer))
+- **Optical Intensity Interferometry with the Cherenkov Telescope Array**. "With its unprecedented light-collecting area for night-sky observations, the Cherenkov Telescope Array (CTA) holds great potential for also optical stellar astronomy, in particular as a multi-element intensity interferometer for realizing imaging with sub-milliarcsecond angular resolution." ([arXiv:1204.3624](https://arxiv.org/abs/1204.3624))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Intensity interferometry concept]]

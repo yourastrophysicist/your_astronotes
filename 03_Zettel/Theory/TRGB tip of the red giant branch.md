@@ -45,6 +45,18 @@ intermediate between the Cepheid-anchored ($73.0$) and Planck-anchored ($67.4$) 
 
 JWST is now resolving TRGB stars in galaxies hosting SN Ia, providing the cleanest Cepheid-independent local ladder.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Tip of the red-giant branch|500](https://commons.wikimedia.org/wiki/Special:FilePath/Evolutionary_track_1m.svg?width=600)
+*The evolutionary track of a solar mass, solar metallicity, star from main sequence to post-AGB* ([Commons file page](https://commons.wikimedia.org/wiki/File:Evolutionary_track_1m.svg), Lithopsian, CC BY-SA 4.0, as used on the Wikipedia article [Tip of the red-giant branch](https://en.wikipedia.org/wiki/Tip_of_the_red-giant_branch))
+
+- **Tip of the red-giant branch**. "Tip of the red-giant branch (TRGB) is a primary distance indicator used in astronomy. It uses the luminosity of the brightest red-giant-branch stars in a galaxy as a standard candle to gauge the distance to that galaxy. It has been used in conjunction with observations from the Hubble Space Telescope to determine the relative motions of the Local Cluster of galaxies within the Local Supercluster." ([Wikipedia](https://en.wikipedia.org/wiki/Tip_of_the_red-giant_branch))
+- **The Hubble Constant**. "Considerable progress has been made in determining the Hubble constant over the past two decades." ([arXiv:1004.1856](https://arxiv.org/abs/1004.1856))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Cepheid period-luminosity relation]]

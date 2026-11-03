@@ -435,6 +435,87 @@ Every single oral question solution card, Cambridge lecture diagram, and blackbo
 
 ---
 
+<!-- moc-sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+Every zettel in this map ends with a short sourced section: a definition quoted from Wikipedia (71 zettels) or from the abstract of an arXiv review (58 zettels), and, where a free figure exists, the credited lead figure of the Wikipedia article (Wikimedia Commons) or a figure from an openly licensed arXiv paper. The lecture-slide figures above are unchanged.
+
+| Zettel | Wikipedia | arXiv review | Figure |
+|---|---|---|---|
+| [[Affine parameter]] | [Affine connection](https://en.wikipedia.org/wiki/Affine_connection) | [arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019) | Commons |
+| [[Bianchi identities]] | [Curvature form](https://en.wikipedia.org/wiki/Curvature_form) |  |  |
+| [[Birkhoff theorem]] | [Birkhoff's theorem (relativity)](https://en.wikipedia.org/wiki/Birkhoff%27s_theorem_%28relativity%29) | [arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019) |  |
+| [[Christoffel symbols]] | [Christoffel symbols](https://en.wikipedia.org/wiki/Christoffel_symbols) | [arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019) |  |
+| [[Circular orbits in Schwarzschild]] | [Schwarzschild geodesics](https://en.wikipedia.org/wiki/Schwarzschild_geodesics) | [arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019) |  |
+| [[Continuity equation]] | [Continuity equation](https://en.wikipedia.org/wiki/Continuity_equation) |  |  |
+| [[Coordinate transformations and tensors]] | [Tensor](https://en.wikipedia.org/wiki/Tensor) | [arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019) | Commons |
+| [[Cosmic eras]] | [Chronology of the universe](https://en.wikipedia.org/wiki/Chronology_of_the_universe) |  |  |
+| [[Cosmological constant]] | [Cosmological constant](https://en.wikipedia.org/wiki/Cosmological_constant) | [arXiv:1201.2434](https://arxiv.org/abs/1201.2434) | Commons |
+| [[Cosmological perturbation theory in General Relativity]] | [Cosmological perturbation theory](https://en.wikipedia.org/wiki/Cosmological_perturbation_theory) | [arXiv:0809.4944](https://arxiv.org/abs/0809.4944) |  |
+| [[Cosmological principle]] | [Cosmological principle](https://en.wikipedia.org/wiki/Cosmological_principle) |  |  |
+| [[Counting Riemann components]] | [Riemann curvature tensor](https://en.wikipedia.org/wiki/Riemann_curvature_tensor) | [arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019) |  |
+| [[Covariant derivative]] | [Covariant derivative](https://en.wikipedia.org/wiki/Covariant_derivative) | [arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019) |  |
+| [[Deceleration parameter]] | [Deceleration parameter](https://en.wikipedia.org/wiki/Deceleration_parameter) |  |  |
+| [[Eddington-Finkelstein and Kruskal]] | [Kruskal–Szekeres coordinates](https://en.wikipedia.org/wiki/Kruskal%E2%80%93Szekeres_coordinates) | [arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019) | Commons |
+| [[Effective potential approach]] | [Schwarzschild geodesics](https://en.wikipedia.org/wiki/Schwarzschild_geodesics) | [arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019) |  |
+| [[Einstein equations]] | [Einstein field equations](https://en.wikipedia.org/wiki/Einstein_field_equations) | [arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019) |  |
+| [[Einstein tensor and Bianchi]] | [Einstein tensor](https://en.wikipedia.org/wiki/Einstein_tensor) | [arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019) |  |
+| [[Equation of state and density scaling]] | [Equation of state (cosmology)](https://en.wikipedia.org/wiki/Equation_of_state_%28cosmology%29) |  |  |
+| [[Equivalence principle]] | [Equivalence principle](https://en.wikipedia.org/wiki/Equivalence_principle) | [arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019) | Commons |
+| [[FLRW metric]] | [Friedmann–Lemaître–Robertson–Walker metric](https://en.wikipedia.org/wiki/Friedmann%E2%80%93Lema%C3%AEtre%E2%80%93Robertson%E2%80%93Walker_metric) |  |  |
+| [[Four-velocity and four-momentum]] | [Four-velocity](https://en.wikipedia.org/wiki/Four-velocity) | [arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019) |  |
+| [[Friedmann equations]] | [Friedmann equations](https://en.wikipedia.org/wiki/Friedmann_equations) |  |  |
+| [[Geodesic deviation and tidal forces]] | [Tidal force](https://en.wikipedia.org/wiki/Tidal_force) | [arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019) | Commons |
+| [[Geodesic deviation under a GW]] | [Gravitational wave](https://en.wikipedia.org/wiki/Gravitational_wave) | [arXiv:gr-qc/0501041](https://arxiv.org/abs/gr-qc/0501041) |  |
+| [[Geodesic deviation]] | [Geodesic deviation](https://en.wikipedia.org/wiki/Geodesic_deviation) | [arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019) |  |
+| [[Geodesic equation]] | [Geodesic](https://en.wikipedia.org/wiki/Geodesic) | [arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019) | Commons |
+| [[Gravitational redshift and time dilation]] | [Gravitational redshift](https://en.wikipedia.org/wiki/Gravitational_redshift) | [arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019) |  |
+| [[Gravitational waves in General Relativity]] | [Gravitational wave](https://en.wikipedia.org/wiki/Gravitational_wave) | [arXiv:gr-qc/0501041](https://arxiv.org/abs/gr-qc/0501041) |  |
+| [[GW energy and angular momentum]] | [Gravitational wave](https://en.wikipedia.org/wiki/Gravitational_wave) | [arXiv:gr-qc/0501041](https://arxiv.org/abs/gr-qc/0501041) |  |
+| [[Innermost Stable Circular Orbit ISCO]] | [Innermost stable circular orbit](https://en.wikipedia.org/wiki/Innermost_stable_circular_orbit) | [arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019) |  |
+| [[Kerr Metric Horizon and Ergosphere Geometry]] | [Kerr metric](https://en.wikipedia.org/wiki/Kerr_metric) | [arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019) | Commons |
+| [[Killing vectors and conserved quantities]] | [Killing vector field](https://en.wikipedia.org/wiki/Killing_vector_field) | [arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019) |  |
+| [[Killing vectors and symmetries]] | [Killing vector field](https://en.wikipedia.org/wiki/Killing_vector_field) | [arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019) |  |
+| [[Levi-Civita connection]] | [Levi-Civita connection](https://en.wikipedia.org/wiki/Levi-Civita_connection) | [arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019) | Commons |
+| [[Light deflection in Schwarzschild]] | [Schwarzschild geodesics](https://en.wikipedia.org/wiki/Schwarzschild_geodesics) | [arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019) |  |
+| [[Light deflection]] | [Gravitational lens](https://en.wikipedia.org/wiki/Gravitational_lens) | [arXiv:1003.5567](https://arxiv.org/abs/1003.5567) | Commons |
+| [[Linearized Christoffel and Riemann]] | [Linearized gravity](https://en.wikipedia.org/wiki/Linearized_gravity) | [arXiv:gr-qc/0501041](https://arxiv.org/abs/gr-qc/0501041) |  |
+| [[Linearized gauge transformations]] | [Linearized gravity](https://en.wikipedia.org/wiki/Linearized_gravity) | [arXiv:gr-qc/0501041](https://arxiv.org/abs/gr-qc/0501041) |  |
+| [[Linearized gravity and gravitational waves]] | [Linearized gravity](https://en.wikipedia.org/wiki/Linearized_gravity) | [arXiv:gr-qc/0501041](https://arxiv.org/abs/gr-qc/0501041) |  |
+| [[Linearized metric perturbation]] | [Linearized gravity](https://en.wikipedia.org/wiki/Linearized_gravity) | [arXiv:gr-qc/0501041](https://arxiv.org/abs/gr-qc/0501041) |  |
+| [[Locally inertial frame]] | [Local reference frame](https://en.wikipedia.org/wiki/Local_reference_frame) | [arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019) |  |
+| [[Lorenz gauge]] | [Lorenz gauge condition](https://en.wikipedia.org/wiki/Lorenz_gauge_condition) | [arXiv:gr-qc/0501041](https://arxiv.org/abs/gr-qc/0501041) |  |
+| [[Manifold metric and signature]] | [Metric signature](https://en.wikipedia.org/wiki/Metric_signature) | [arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019) |  |
+| [[Matter radiation equality]] | [Scale factor (cosmology)](https://en.wikipedia.org/wiki/Scale_factor_%28cosmology%29) |  |  |
+| [[Metric compatibility]] | [Metric connection](https://en.wikipedia.org/wiki/Metric_connection) |  |  |
+| [[Newtonian limit of GR]] | [Gravitoelectromagnetism](https://en.wikipedia.org/wiki/Gravitoelectromagnetism) | [arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019) | Commons |
+| [[Parallel transport and holonomy]] | [Holonomy](https://en.wikipedia.org/wiki/Holonomy) |  | Commons |
+| [[Parallel transport]] | [Parallel transport](https://en.wikipedia.org/wiki/Parallel_transport) | [arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019) | Commons |
+| [[Perihelion precession of Mercury]] | [Tests of general relativity](https://en.wikipedia.org/wiki/Tests_of_general_relativity) | [arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019) |  |
+| [[Perihelion precession]] | [Apsidal precession](https://en.wikipedia.org/wiki/Apsidal_precession) | [arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019) | Commons |
+| [[Photon sphere]] | [Photon sphere](https://en.wikipedia.org/wiki/Photon_sphere) | [arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019) | Commons |
+| [[Photon trajectories and impact parameter]] | [Schwarzschild geodesics](https://en.wikipedia.org/wiki/Schwarzschild_geodesics) | [arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019) |  |
+| [[Plus and cross polarizations]] | [Gravitational wave](https://en.wikipedia.org/wiki/Gravitational_wave) | [arXiv:gr-qc/0501041](https://arxiv.org/abs/gr-qc/0501041) |  |
+| [[Quadrupole formula]] | [Quadrupole formula](https://en.wikipedia.org/wiki/Quadrupole_formula) | [arXiv:gr-qc/0501041](https://arxiv.org/abs/gr-qc/0501041) |  |
+| [[Radial infall]] | [Schwarzschild geodesics](https://en.wikipedia.org/wiki/Schwarzschild_geodesics) | [arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019) |  |
+| [[Ricci tensor and scalar]] | [Ricci curvature](https://en.wikipedia.org/wiki/Ricci_curvature) | [arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019) |  |
+| [[Riemann tensor symmetries]] | [Riemann curvature tensor](https://en.wikipedia.org/wiki/Riemann_curvature_tensor) | [arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019) |  |
+| [[Riemann tensor]] | [Riemann curvature tensor](https://en.wikipedia.org/wiki/Riemann_curvature_tensor) | [arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019) |  |
+| [[Schwarzschild Christoffels]] | [Schwarzschild metric](https://en.wikipedia.org/wiki/Schwarzschild_metric) | [arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019) |  |
+| [[Schwarzschild effective potential]] | [Schwarzschild geodesics](https://en.wikipedia.org/wiki/Schwarzschild_geodesics) | [arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019) |  |
+| [[Schwarzschild horizon]] | [Event horizon](https://en.wikipedia.org/wiki/Event_horizon) | [arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019) | Commons |
+| [[Schwarzschild metric]] | [Schwarzschild metric](https://en.wikipedia.org/wiki/Schwarzschild_metric) | [arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019) |  |
+| [[Sectional and Gaussian curvature]] | [Sectional curvature](https://en.wikipedia.org/wiki/Sectional_curvature) |  |  |
+| [[Spatial curvature parameter k]] | [Shape of the universe](https://en.wikipedia.org/wiki/Shape_of_the_universe) |  |  |
+| [[Stress-energy tensor]] | [Stress–energy tensor](https://en.wikipedia.org/wiki/Stress%E2%80%93energy_tensor) | [arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019) | Commons |
+| [[SVT decomposition]] | [Cosmological perturbation theory](https://en.wikipedia.org/wiki/Cosmological_perturbation_theory) | [arXiv:0809.4944](https://arxiv.org/abs/0809.4944) |  |
+| [[Timelike vs null vs spacelike]] | [Spacetime](https://en.wikipedia.org/wiki/Spacetime) | [arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019) |  |
+| [[Trace-reversed Einstein equations]] | [Einstein field equations](https://en.wikipedia.org/wiki/Einstein_field_equations) | [arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019) |  |
+| [[Trace-reversed perturbation]] | [Linearized gravity](https://en.wikipedia.org/wiki/Linearized_gravity) | [arXiv:gr-qc/0501041](https://arxiv.org/abs/gr-qc/0501041) |  |
+| [[Transverse traceless gauge]] | [Linearized gravity](https://en.wikipedia.org/wiki/Linearized_gravity) | [arXiv:gr-qc/0501041](https://arxiv.org/abs/gr-qc/0501041) |  |
+
+<!-- /moc-sources:wiki-arxiv -->
+
 ## Professors Nicola Bartolo & Marco Peloso Oral Exam Defense Preparation Matrix
 
 The oral examination for General Relativity draws directly from a published bank of 20 core mathematical problems. The following defense matrix details the exact question, starting formula, rigorous blackboard derivation steps, and key trap points for all 20 questions:

@@ -101,6 +101,14 @@ three issues:
 
 all three set the practical sensitivity floor. modern instruments (GRAVITY, MATISSE) achieve $V$ measurements to $\sim 1$% at H/K-band on bright sources.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Interferometric visibility**. "The interferometric visibility (also known as interference visibility and fringe visibility, or just visibility when in context) is a measure of the contrast of interference in any system subject to wave superposition. Examples include as optics, quantum mechanics, water waves, sound waves, or electrical signals." ([Wikipedia](https://en.wikipedia.org/wiki/Interferometric_visibility))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Coherence function and visibility]]

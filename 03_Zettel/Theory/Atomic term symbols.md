@@ -46,6 +46,14 @@ the **electric dipole selection rule** requires $\Delta p = \text{change}$, i.e.
 
 the famous $[OIII]\,\lambda 4959, 5007$ Å lines arise from a parity-forbidden transition $^3P^e \to {^1\!}D^e$, both even, so E1 is forbidden but M1 is allowed.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Term symbol**. "In atomic physics, a term symbol is an abbreviated description of the spin, orbital and total angular momentum quantum numbers of the electrons in a multi-electron atom. So while the word symbol suggests otherwise, it represents an actual value of a physical quantity." ([Wikipedia](https://en.wikipedia.org/wiki/Term_symbol))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Quantum numbers and atomic states]]

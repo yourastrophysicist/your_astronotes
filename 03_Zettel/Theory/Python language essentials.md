@@ -185,6 +185,14 @@ import this
 
 prints Tim Peters' aphorisms: *Beautiful is better than ugly. Explicit is better than implicit. Simple is better than complex.* the cultural backbone of pythonic code.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Python (programming language)**. "Python is a high-level, general-purpose programming language that emphasizes code readability, simplicity, and ease-of-writing with the use of significant indentation, an extensive ("batteries-included") standard library, and garbage collection. Python supports multiple programming paradigms but with an emphasis on object-oriented programming and dynamic typing." ([Wikipedia](https://en.wikipedia.org/wiki/Python_%28programming_language%29))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Numpy arrays vs Python lists]] — the essential next step

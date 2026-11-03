@@ -22,6 +22,17 @@ operational uses on the CMD: **MS fitting** uses the position of an empirical or
 
 the lower MS ($M \lesssim 0.5 \, M_\odot$) is the longest-lived part of any cluster: even the oldest GCs still have full M-dwarf populations, which makes the lower MS an evolution-free reference for distance and reddening work.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Main sequence|500](https://commons.wikimedia.org/wiki/Special:FilePath/HRDiagram.png?width=600)
+*Lead figure of the Wikipedia article Main sequence* ([Commons file page](https://commons.wikimedia.org/wiki/File:HRDiagram.png), Richard Powell, CC BY-SA 2.5, as used on the Wikipedia article [Main sequence](https://en.wikipedia.org/wiki/Main_sequence))
+
+- **Main sequence**. "In astronomy, the main sequence is a classification of stars which appear on plots of stellar color versus brightness as a continuous and distinctive band. Stars spend the majority of their lives on the main sequence, during which core hydrogen burning is dominant. These main-sequence stars, or sometimes interchangeably dwarf stars, are the most numerous true stars in the universe and include the Sun." ([Wikipedia](https://en.wikipedia.org/wiki/Main_sequence))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 - [[Stellar_Astrophysics_MOC]]
 - [[HR diagram]]

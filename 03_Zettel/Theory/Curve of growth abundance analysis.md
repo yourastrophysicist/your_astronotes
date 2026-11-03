@@ -64,6 +64,17 @@ each requires careful line selection + spectral synthesis to extract.
 
 modern Galactic-archaeology surveys recover abundances of $\sim 30$ elements per star for $> 10^6$ stars (APOGEE, GALAH). enables stellar population dating, identifying stars from disrupted streams, and tracing the chemical evolution of the Milky Way.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Curve of growth|500](https://commons.wikimedia.org/wiki/Special:FilePath/Curve_of_growth.svg?width=600)
+*Lead figure of the Wikipedia article Curve of growth* ([Commons file page](https://commons.wikimedia.org/wiki/File:Curve_of_growth.svg), Vallastro, CC BY-SA 4.0, as used on the Wikipedia article [Curve of growth](https://en.wikipedia.org/wiki/Curve_of_growth))
+
+- **Curve of growth**. "In astronomy, the curve of growth describes the equivalent width of a spectral line as a function of the column density of the material from which the spectral line is observed." ([Wikipedia](https://en.wikipedia.org/wiki/Curve_of_growth))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Curve of growth]]

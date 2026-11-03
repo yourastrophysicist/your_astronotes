@@ -65,6 +65,17 @@ every star's spectrum is essentially **one number's worth of variation**, namely
 
 this is the punchline of **Cecilia Payne 1925**: stars are mostly H + He, and the diversity of stellar spectra reflects only $T$ variation, not chemistry. it took decades for the community to fully accept this.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Boltzmann distribution|500](https://commons.wikimedia.org/wiki/Special:FilePath/Boltzmann_distribution_graph.svg?width=600)
+*occupation probability following a Boltzmann distribution depeding on the energy difference and temperature* ([Commons file page](https://commons.wikimedia.org/wiki/File:Boltzmann_distribution_graph.svg), sonium, CC BY-SA 4.0, as used on the Wikipedia article [Boltzmann distribution](https://en.wikipedia.org/wiki/Boltzmann_distribution))
+
+- **Boltzmann distribution**. "In statistical mechanics and mathematics, a Boltzmann distribution (also called Gibbs distribution) is a probability distribution or probability measure that gives the probability that a system will be in a certain state as a function of that state's energy and the temperature of the system." ([Wikipedia](https://en.wikipedia.org/wiki/Boltzmann_distribution))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Boltzmann equation in spectroscopy]]

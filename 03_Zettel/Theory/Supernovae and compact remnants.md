@@ -73,6 +73,17 @@ astronomers classify supernovae observationally based on spectral features near 
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Supernova|500](https://commons.wikimedia.org/wiki/Special:FilePath/SN1994D.jpg?width=600)
+*Hubble Space Telescope-Image of Supernova 1994D (SN1994D) in galaxy NGC 4526 (SN 1994D is the bright spot on the lower left)* ([Commons file page](https://commons.wikimedia.org/wiki/File:SN1994D.jpg), NASA/ESA, The Hubble Key Project Team and The High-Z Supernova Search Team, Public domain, as used on the Wikipedia article [Supernova](https://en.wikipedia.org/wiki/Supernova))
+
+- **Supernova**. "A supernova (pl.: supernovae) is a powerful and luminous explosion of a star. A supernova occurs during the last evolutionary stages of a massive star, or when a white dwarf is triggered into runaway nuclear fusion. The original object, called the progenitor, either collapses to a neutron star or black hole, or is completely destroyed to form a diffuse nebula." ([Wikipedia](https://en.wikipedia.org/wiki/Supernova))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

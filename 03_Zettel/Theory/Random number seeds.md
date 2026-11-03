@@ -129,6 +129,14 @@ for seed in seeds:
 
 now the *ensemble* is reproducible, *each individual realization* is reproducible, and they are statistically independent.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Random seed**. "A random seed (or seed state, or just seed) is a number (or vector) used to initialize a pseudorandom number generator. A pseudorandom number generator's number sequence is completely determined by the seed: thus, if a pseudorandom number generator is later reinitialized with the same seed, it will produce the same sequence of numbers." ([Wikipedia](https://en.wikipedia.org/wiki/Random_seed))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Pseudo-random number generators]]

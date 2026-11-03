@@ -174,6 +174,18 @@ When illustrating LOSVD profiles on the blackboard.
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Stellar kinematics|500](https://commons.wikimedia.org/wiki/Special:FilePath/Barnard2005.gif?width=600)
+*Lead figure of the Wikipedia article Stellar kinematics* ([Commons file page](https://commons.wikimedia.org/wiki/File:Barnard2005.gif), Steve Quirk, Public domain, as used on the Wikipedia article [Stellar kinematics](https://en.wikipedia.org/wiki/Stellar_kinematics))
+
+- **Stellar kinematics**. "In astronomy, stellar kinematics is the observational study or measurement of the kinematics or motions of stars through space. Stellar kinematics encompasses the measurement of stellar velocities in the Milky Way and its satellites as well as the internal kinematics of more distant galaxies." ([Wikipedia](https://en.wikipedia.org/wiki/Stellar_kinematics))
+- **Structure and Kinematics of Early-Type Galaxies from Integral-Field Spectroscopy**. "Observations of galaxy isophotes, longs-slit kinematics and high-resolution photometry suggested a possible dichotomy between two distinct classes of E galaxies. But these methods are expensive for large galaxy samples. Instead, integral-field spectroscopic can efficiently recognize the shape, dynamics and stellar population of complete samples of early-type galaxies (ETGs)." ([arXiv:1602.04267](https://arxiv.org/abs/1602.04267))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Dark matter in elliptical galaxies]]

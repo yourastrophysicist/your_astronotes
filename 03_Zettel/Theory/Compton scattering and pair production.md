@@ -78,6 +78,17 @@ where
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Pair production|500](https://commons.wikimedia.org/wiki/Special:FilePath/Light-matter_interaction_-_schematic.svg?width=600)
+*Light-matter interaction diagrams* ([Commons file page](https://commons.wikimedia.org/wiki/File:Light-matter_interaction_-_schematic.svg), Ponor, CC BY-SA 4.0, as used on the Wikipedia article [Pair production](https://en.wikipedia.org/wiki/Pair_production))
+
+- **Pair production**. "Pair production is the creation of a subatomic particle and its antiparticle from a neutral boson. Examples include creating an electron and a positron, a muon and an antimuon, or a proton and an antiproton. Pair production often refers specifically to a photon creating an electron–positron pair near a nucleus." ([Wikipedia](https://en.wikipedia.org/wiki/Pair_production))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Compton Telescope]]

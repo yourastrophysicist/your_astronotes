@@ -57,6 +57,17 @@ this is **Russell's curve-of-growth method**, the historical basis of stellar ab
 - **moderate lines** (saturation): need to know microturbulence + thermal width independently. uncertain.
 - **strong lines** (damping wings): need accurate $\Gamma$ (collisional broadening parameters). usable but model-dependent.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Curve of growth|500](https://commons.wikimedia.org/wiki/Special:FilePath/Curve_of_growth.svg?width=600)
+*Lead figure of the Wikipedia article Curve of growth* ([Commons file page](https://commons.wikimedia.org/wiki/File:Curve_of_growth.svg), Vallastro, CC BY-SA 4.0, as used on the Wikipedia article [Curve of growth](https://en.wikipedia.org/wiki/Curve_of_growth))
+
+- **Curve of growth**. "In astronomy, the curve of growth describes the equivalent width of a spectral line as a function of the column density of the material from which the spectral line is observed." ([Wikipedia](https://en.wikipedia.org/wiki/Curve_of_growth))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Equivalent width]]

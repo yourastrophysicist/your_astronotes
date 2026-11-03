@@ -102,6 +102,17 @@ it represents the new frontier of stellar populations + cluster dynamics merging
 - **Stone, Metzger, Haiman 2017, MNRAS 464, 946** — AGN disc channel.
 - **Greene, Strader, Ho 2020, ARA&A 58, 257** — IMBH review including LIGO-Virgo.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Gravitational-wave observatory|500](https://commons.wikimedia.org/wiki/Special:FilePath/LIGO_schematic_%28multilang%29.svg?width=600)
+*Concept of LIGO: A schematic diagram of a laser interferometer with light storage arms* ([Commons file page](https://commons.wikimedia.org/wiki/File:LIGO_schematic_%28multilang%29.svg), Ligo.gif: The original uploader was MOBle at English Wikipedia. derivative work: Malyszkz language-switch: Rothwild Chin, Public domain, as used on the Wikipedia article [Gravitational-wave observatory](https://en.wikipedia.org/wiki/Gravitational-wave_observatory))
+
+- **Gravitational-wave observatory**. "A gravitational-wave detector (used in a gravitational-wave observatory) is any device designed to measure tiny distortions of spacetime called gravitational waves. Since the 1960s, various kinds of gravitational-wave detectors have been built and constantly improved." ([Wikipedia](https://en.wikipedia.org/wiki/Gravitational-wave_observatory))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Black holes in globular clusters]]

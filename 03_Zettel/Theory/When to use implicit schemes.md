@@ -84,6 +84,14 @@ ask:
 - **MHD with strong magnetic field gradients**: semi-implicit, treating Alfvén waves implicitly
 - **cosmological N-body**: explicit (collisionless dynamics is not stiff), so leapfrog with appropriate $\Delta t$
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Explicit and implicit methods**. "Explicit and implicit methods are approaches used in numerical analysis for obtaining numerical approximations to the solutions of ordinary and partial differential equations, as is required in computer simulations of physical processes." ([Wikipedia](https://en.wikipedia.org/wiki/Explicit_and_implicit_methods))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Initial value PDEs and FTCS]]

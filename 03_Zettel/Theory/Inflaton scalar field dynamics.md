@@ -101,6 +101,15 @@ $$\frac{\delta\rho}{\rho} \sim \frac{H^2}{\dot\phi}$$
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Inflaton**. "The inflaton field is a hypothetical scalar field that is conjectured to have driven cosmic inflation in the very early universe. The field, originally postulated by Alan Guth, provides a mechanism that can generate a period of rapid expansion from 10−35 to 10−34 seconds after the initial expansion, which consequently forms a universe consistent with observed spatial isotropy and homogeneity." ([Wikipedia](https://en.wikipedia.org/wiki/Inflaton))
+- **TASI Lectures on Inflation**. "In a series of five lectures I review inflationary cosmology. I begin with a description of the initial conditions problems of the Friedmann-Robertson-Walker (FRW) cosmology and then explain how inflation, an early period of accelerated expansion, solves these problems." ([arXiv:0907.5424](https://arxiv.org/abs/0907.5424))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

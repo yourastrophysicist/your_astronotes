@@ -63,6 +63,17 @@ current limits from PTAs (NANOGrav, EPTA): possible cosmological-phase-transitio
 
 if confirmed: a **direct probe** of physics beyond the Standard Model (e.g. dark phase transitions, hidden sectors).
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Phase transition|500](https://commons.wikimedia.org/wiki/Special:FilePath/Phase_change_-_en.svg?width=600)
+*Nomenclature of the phase changes of a system in English. This image is not drawn to scale, meaning there is no association between location and the enthalpy of the state of matter* ([Commons file page](https://commons.wikimedia.org/wiki/File:Phase_change_-_en.svg), F l a n k e r, penubag, Public domain, as used on the Wikipedia article [Phase transition](https://en.wikipedia.org/wiki/Phase_transition))
+
+- **Phase transition**. "In physics, chemistry and biology, a phase transition (or phase change) is the physical process of transition between one state of a medium and another. Commonly the term is used to refer to changes among the basic states of matter: solid, liquid, and gas, and in rare cases, plasma. A phase of a thermodynamic system and the states of matter have uniform physical properties." ([Wikipedia](https://en.wikipedia.org/wiki/Phase_transition))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Brief thermal history]]

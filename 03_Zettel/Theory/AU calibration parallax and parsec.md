@@ -68,6 +68,17 @@ range of geometric parallax:
 - Gaia DR3 (2022): $\sim 1$ to $10$ kpc, $\sim 10\,\mu$as precision for bright stars.
 - Gaia DR5 expected: $\sim 30$ kpc.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Parsec|500](https://commons.wikimedia.org/wiki/Special:FilePath/Stellarparallax_parsec1.svg?width=600)
+*Lead figure of the Wikipedia article Parsec* ([Commons file page](https://commons.wikimedia.org/wiki/File:Stellarparallax_parsec1.svg), Srain at English Wikipedia, Public domain, as used on the Wikipedia article [Parsec](https://en.wikipedia.org/wiki/Parsec))
+
+- **Parsec**. "The parsec (symbol: pc) is a unit of length used to measure the large distances to astronomical objects outside the Solar System, approximately equal to 3.26 light-years, 206,265 astronomical units (au), or 30.9 trillion kilometres (19.2 trillion miles)." ([Wikipedia](https://en.wikipedia.org/wiki/Parsec))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Annual stellar parallax]]

@@ -54,6 +54,14 @@ mathematically, the Bianchi identities are the GR statement of "exterior derivat
 
 physically: they encode the **diffeomorphism invariance** of the theory. coordinate freedom in GR is a gauge symmetry, and Bianchi expresses the constraint that this gauge be consistent.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Curvature form**. "In differential geometry, the curvature form describes curvature of a connection on a principal bundle. The Riemann curvature tensor in Riemannian geometry can be considered as a special case." ([Wikipedia](https://en.wikipedia.org/wiki/Curvature_form))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Riemann tensor]]

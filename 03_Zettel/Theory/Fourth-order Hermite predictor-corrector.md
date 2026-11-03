@@ -95,6 +95,14 @@ leapfrog wins for energy conservation over $10^9$ orbits at fixed timestep. Herm
 - **the jerk computation must be available** — fine for gravity, harder for other forces
 - **doesn't help for stiff problems**: the error advantage is wasted
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Predictor–corrector method**. "In numerical analysis, predictor–corrector methods belong to a class of algorithms designed to integrate ordinary differential equations – to find an unknown function that satisfies a given differential equation." ([Wikipedia](https://en.wikipedia.org/wiki/Predictor%E2%80%93corrector_method))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Leapfrog integrator]]

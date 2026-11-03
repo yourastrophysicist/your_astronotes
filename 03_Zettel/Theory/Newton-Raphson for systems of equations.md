@@ -77,6 +77,17 @@ when $\mathbf{f}$ comes from discretizing a PDE, the Jacobian inherits structure
 - **MCMC step**: HMC requires the gradient of the log-posterior; finding modes uses Newton on the gradient
 - **radiative transfer**: ALI iteration is essentially block-Newton-Raphson on the source function
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Newton's method|500](https://commons.wikimedia.org/wiki/Special:FilePath/Methode_newton.png?width=600)
+*Newton's method illustrated using the computer algebra package Maple* ([Commons file page](https://commons.wikimedia.org/wiki/File:Methode_newton.png), Cham at French Wikipedia, Public domain, as used on the Wikipedia article [Newton's method](https://en.wikipedia.org/wiki/Newton%27s_method))
+
+- **Newton's method**. "In numerical analysis, the Newton–Raphson method, also known simply as Newton's method, named after Isaac Newton and Joseph Raphson, is a root-finding algorithm which produces successively better approximations to the roots (or zeroes) of a real-valued function. The most basic version takes a real-valued function f, its derivative f′, and an initial guess x0 for a root of f." ([Wikipedia](https://en.wikipedia.org/wiki/Newton%27s_method))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Newton-Raphson method]] — 1D version

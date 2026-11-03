@@ -429,6 +429,14 @@ what we don't know:
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Lambda-CDM model**. "The Lambda-CDM, Lambda cold dark matter, or ΛCDM model is the standard form of the Big Bang theory of cosmology governing the chronology of the universe. As implied by its name, the model postulates a cosmological constant, denoted by lambda (Λ), associated with dark energy, cold dark matter, denoted by CDM as well as ordinary matter." ([Wikipedia](https://en.wikipedia.org/wiki/Lambda-CDM_model))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

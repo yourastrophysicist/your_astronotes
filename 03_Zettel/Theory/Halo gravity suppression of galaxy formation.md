@@ -66,6 +66,15 @@ the SMF is *not* the result of differing baryon budgets, it is the result of *fe
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Galaxy formation and evolution**. "In cosmology, the study of galaxy formation and evolution is concerned with the processes that formed a heterogeneous universe from a homogeneous beginning, the formation of the first galaxies, the way galaxies change over time, and the processes that have generated the variety of structures observed in nearby galaxies." ([Wikipedia](https://en.wikipedia.org/wiki/Galaxy_formation_and_evolution))
+- **The Connection between Galaxies and their Dark Matter Halos**. "In our modern understanding of galaxy formation, every galaxy forms within a dark matter halo. The formation and growth of galaxies over time is connected to the growth of the halos in which they form." ([arXiv:1804.03097](https://arxiv.org/abs/1804.03097))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Galaxy color, density and morphology]]

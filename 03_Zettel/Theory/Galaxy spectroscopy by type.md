@@ -83,6 +83,17 @@ a 2D diagnostic plot ($[OIII]/H\beta$ vs $[NII]/H\alpha$) separates:
 
 see [[BPT diagram]] for the full discussion.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Galaxy|500](https://commons.wikimedia.org/wiki/Special:FilePath/NGC_4414_%28NASA-med%29.jpg?width=600)
+*Lead figure of the Wikipedia article Galaxy* ([Commons file page](https://commons.wikimedia.org/wiki/File:NGC_4414_%28NASA-med%29.jpg), The Hubble Heritage Team (AURA/STScI/NASA)NASA Headquarters - Greatest Images of NASA (NASA-HQ-GRIN), Public domain, as used on the Wikipedia article [Galaxy](https://en.wikipedia.org/wiki/Galaxy))
+
+- **Galaxy**. "A galaxy is a physical system of stars, planetary systems, stellar remnants, substellar objects, interstellar gas, dust, and dark matter bound together by gravity. The word is derived from the Greek galaxias (γαλαξίας), meaning 'milky', a reference to the Milky Way galaxy that contains the Solar System." ([Wikipedia](https://en.wikipedia.org/wiki/Galaxy))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[H II region spectroscopy]]

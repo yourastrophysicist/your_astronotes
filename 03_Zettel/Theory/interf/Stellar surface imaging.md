@@ -105,6 +105,14 @@ stellar surface imaging is *the most important new science* enabled by modern op
 
 before interferometric imaging, stellar surfaces were inferred indirectly (from rotation curves, line profiles, photometric variations). now we can *see* them.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Doppler imaging**. "Inhomogeneous structures on stellar surfaces, i.e. temperature differences, chemical composition or magnetic fields, create characteristic distortions in the spectral lines due to the Doppler effect. These distortions will move across spectral line profiles due to the stellar rotation." ([Wikipedia](https://en.wikipedia.org/wiki/Doppler_imaging))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Stellar diameters and limb darkening]]

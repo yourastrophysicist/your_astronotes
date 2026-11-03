@@ -91,6 +91,17 @@ so for periodic integrands, plain trapezoidal *beats Simpson's rule* at large $N
 - **integration over a CMB sky map** with periodic boundaries
 - **comoving distance integral** $\int dz/E(z)$ for cosmology: smooth, trapezoidal works fine, but I usually use Simpson or scipy.integrate.quad
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Trapezoidal rule|500](https://commons.wikimedia.org/wiki/Special:FilePath/Trapezoidal_rule_illustration.svg?width=600)
+*Lead figure of the Wikipedia article Trapezoidal rule* ([Commons file page](https://commons.wikimedia.org/wiki/File:Trapezoidal_rule_illustration.svg), see file page, Public domain, as used on the Wikipedia article [Trapezoidal rule](https://en.wikipedia.org/wiki/Trapezoidal_rule))
+
+- **Trapezoidal rule**. "In calculus, the trapezoidal rule (informally trapezoid rule; or in British English trapezium rule) is a technique for numerical integration, i.e. approximating the definite integral: ∫ a b f ( x ) d x . $\int _{a}^{b}f(x)\,dx.$ The trapezoidal rule works by approximating the region under the graph of the function f ( x ) $f(x)$ as a trapezoid and calculating its area." ([Wikipedia](https://en.wikipedia.org/wiki/Trapezoidal_rule))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Trapezoidal rule]]

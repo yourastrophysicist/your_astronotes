@@ -217,6 +217,14 @@ plt.tight_layout()
 plt.savefig("ex4_nbody.pdf")
 ```
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Matplotlib**. "Matplotlib (a portmanteau of MATLAB, plot, and library) is a plotting library for the Python programming language and its numerical mathematics extension NumPy. It provides an object-oriented API for embedding plots into applications using general-purpose GUI toolkits like Tkinter, wxPython, Qt, or GTK." ([Wikipedia](https://en.wikipedia.org/wiki/Matplotlib))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Numpy arrays vs Python lists]]

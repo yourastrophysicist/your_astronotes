@@ -83,6 +83,18 @@ after Michelson:
 
 GI2T's first results in 1985 represented the modern era of optical amplitude interferometry — 65 years after Michelson's pioneering measurement.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Michelson stellar interferometer|500](https://commons.wikimedia.org/wiki/Special:FilePath/Michelson_stellar_interferometer.svg?width=600)
+*Scheme of the Michelson stellar interferometer* ([Commons file page](https://commons.wikimedia.org/wiki/File:Michelson_stellar_interferometer.svg), Alex-engraver, Public domain, as used on the Wikipedia article [Michelson stellar interferometer](https://en.wikipedia.org/wiki/Michelson_stellar_interferometer))
+
+- **Michelson stellar interferometer**. "The Michelson stellar interferometer is one of the earliest astronomical interferometers built and used. The interferometer was proposed by Albert A. Michelson in 1890, following a suggestion by Hippolyte Fizeau. The first such interferometer built was at the Mount Wilson Observatory, making use of its 100-inch (~250 centimeters) mirror." ([Wikipedia](https://en.wikipedia.org/wiki/Michelson_stellar_interferometer))
+- **Optical Interferometry in Astronomy**. "Here I review the current state of the field of optical stellar interferometry, concentrating on ground-based work although a brief report of space interferometry missions is included." ([arXiv:astro-ph/0307036](https://arxiv.org/abs/astro-ph/0307036))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Young experiment as a stellar interferometer]]

@@ -121,6 +121,15 @@ reading cue: the dirty beam is not a mysterious artifact; it is the Fourier tran
 
 source: first figure is a local synthetic demo; NRAO figures are from S. T. Myers, NRAO Synthesis Imaging Summer School page on a 30 s VLA A-configuration snapshot.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Aperture synthesis**. "Aperture synthesis or synthesis imaging is a type of interferometry that mixes signals from a collection of telescopes to produce images having the same angular resolution as an instrument the size of the entire collection." ([Wikipedia](https://en.wikipedia.org/wiki/Aperture_synthesis))
+- **Optical Interferometry in Astronomy**. "Here I review the current state of the field of optical stellar interferometry, concentrating on ground-based work although a brief report of space interferometry missions is included." ([arXiv:astro-ph/0307036](https://arxiv.org/abs/astro-ph/0307036))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[The (u, v) plane]]

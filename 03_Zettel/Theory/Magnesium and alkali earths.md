@@ -43,6 +43,14 @@ key diagnostic in:
 
 Ca ($Z = 20$): $[Ar] 4s^2$. ground $1\,^1S_0^e$. similar structure to Mg but the more important Ca features are from **Ca II**, the singly ionised stage.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Alkaline earth metal**. "The alkaline earth metals are six chemical elements in group 2 of the periodic table. They are beryllium (Be), magnesium (Mg), calcium (Ca), strontium (Sr), barium (Ba), and radium (Ra). The elements have very similar properties: they are all shiny, silvery-white, somewhat reactive metals, and they are less reactive than the alkali metals at standard temperature and pressure." ([Wikipedia](https://en.wikipedia.org/wiki/Alkaline_earth_metal))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Atomic term symbols]]

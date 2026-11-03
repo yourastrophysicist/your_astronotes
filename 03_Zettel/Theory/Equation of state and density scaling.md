@@ -71,6 +71,14 @@ real fluids can have $w$ depending on time. examples:
 
 modern dark-energy models try to constrain $w(z)$ observationally (e.g. via BAO, SN Ia, CMB). DESI 2024-2025 hints at $w \ne -1$, but inconclusive.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Equation of state (cosmology)**. "In cosmology, the equation of state of a perfect fluid is characterized by a dimensionless number w $w$ , equal to the ratio of its pressure p $p$ to its energy density ε $\varepsilon$ : w ≡ p ε . $w\equiv {\frac {p}{\varepsilon }}.$ It is closely related to the thermodynamic equation of state and ideal gas law." ([Wikipedia](https://en.wikipedia.org/wiki/Equation_of_state_%28cosmology%29))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Continuity equation]]

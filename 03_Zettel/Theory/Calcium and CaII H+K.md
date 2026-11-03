@@ -50,6 +50,17 @@ in **active stars** (rapid rotators, young Sun-like stars), the cores of Ca II H
 
 at moderate redshift, Ca II H + K shifts to redder optical wavelengths ($\sim 5800$ Å at $z = 0.5$). they remain the brightest absorption features and are routinely used to measure spectroscopic redshifts of galaxies in $z = 0$ to $1$ surveys (SDSS, BOSS).
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Fraunhofer lines|500](https://commons.wikimedia.org/wiki/Special:FilePath/Spectrum_of_blue_sky.svg?width=600)
+*Lead figure of the Wikipedia article Fraunhofer lines* ([Commons file page](https://commons.wikimedia.org/wiki/File:Spectrum_of_blue_sky.svg), This derivative work : Eric Bajart Which is a derivative of: File:Spectrum of blue sky.png by Remember the dot Which is , CC BY-SA 4.0, as used on the Wikipedia article [Fraunhofer lines](https://en.wikipedia.org/wiki/Fraunhofer_lines))
+
+- **Fraunhofer lines**. "The Fraunhofer lines are a set of spectral absorption lines. They are dark absorption lines, seen in the optical spectrum of the Sun, and are formed when atoms in the solar atmosphere absorb light being emitted by the solar photosphere. The lines are named after German physicist Joseph von Fraunhofer, who observed them in 1814." ([Wikipedia](https://en.wikipedia.org/wiki/Fraunhofer_lines))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Atomic term symbols]]

@@ -69,6 +69,15 @@ reionisation is a major science driver for:
 
 resolving when + how reionisation proceeded is a key open question of galaxy formation.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Reionization**. "In the fields of Big Bang theory and cosmology, reionization is the process that caused electrically neutral atoms in the primordial universe to reionize after the lapse of the "dark ages". Detecting and studying the reionization process is challenging but multiple avenues have been pursued. This reionization was driven by the formation of the first stars and galaxies." ([Wikipedia](https://en.wikipedia.org/wiki/Reionization))
+- **Observational constraints on Cosmic Reionization**. "Recent observations have set the first constraints on the epoch of reionization (EoR), corresponding to the formation epoch of the first luminous objects." ([arXiv:astro-ph/0602375](https://arxiv.org/abs/astro-ph/0602375))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Photon decoupling and CMB]]

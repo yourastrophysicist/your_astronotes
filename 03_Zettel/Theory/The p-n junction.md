@@ -107,6 +107,17 @@ The p-n junction is the fundamental detecting unit
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![P–n junction|500](https://commons.wikimedia.org/wiki/Special:FilePath/PN_diode_with_electrical_symbol.svg?width=600)
+*a PN diode that display the electrical symbol associated with it. The triangle corresponds to the p side, while the other side is the n side* ([Commons file page](https://commons.wikimedia.org/wiki/File:PN_diode_with_electrical_symbol.svg), Raffamaiden, CC BY-SA 3.0, as used on the Wikipedia article [P–n junction](https://en.wikipedia.org/wiki/P%E2%80%93n_junction))
+
+- **P–n junction**. "A p–n junction is a combination of two types of semiconductor materials, p-type and n-type, in a single crystal. The "n" (negative) side contains freely-moving electrons, while the "p" (positive) side contains freely-moving electron holes." ([Wikipedia](https://en.wikipedia.org/wiki/P%E2%80%93n_junction))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[CCD basics]]

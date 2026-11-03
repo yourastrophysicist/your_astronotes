@@ -83,6 +83,17 @@ midpoint is conditionally stable: it is stable for $\lvert 1 + h\lambda + h^2 \l
 - **lightweight integrations** where RK4 is overkill but Euler is too inaccurate
 - **embedded RK pairs** (e.g. RK23) use a midpoint-class step plus a higher-order step to estimate error for adaptive control. see [[Adaptive step size control]]
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Midpoint method|500](https://commons.wikimedia.org/wiki/Special:FilePath/Midpoint_method_illustration.png?width=600)
+*Illustration of Midpoint method* ([Commons file page](https://commons.wikimedia.org/wiki/File:Midpoint_method_illustration.png), Oleg Alexandrov, Public domain, as used on the Wikipedia article [Midpoint method](https://en.wikipedia.org/wiki/Midpoint_method))
+
+- **Midpoint method**. "In numerical analysis, a branch of applied mathematics, the midpoint method is a one-step method for numerically solving the differential equation, y ′ ( t ) = f ( t , y ( t ) ) , y ( t 0 ) = y 0 . $y'(t)=f(t,y(t)),\quad y(t_{0})=y_{0}.$ The explicit midpoint method is given by the formula the implicit midpoint method by for n = 0 , 1 , 2 , … $n=0,1,2,\dots$ Here, h $h$ is the step size — a small positive number, t n = t 0 + n h , $t_{n}=t_{0}+nh,$ and y n $y_{n}$ is the computed approximate value of y ( t n ) . $y(t_{n}).$ The explicit midpoint method is sometimes also known as the modified Euler method, the implicit method is the most simple collocation method, and, applied to Hamiltonian dynamics, a symplectic integrator." ([Wikipedia](https://en.wikipedia.org/wiki/Midpoint_method))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Euler method]]

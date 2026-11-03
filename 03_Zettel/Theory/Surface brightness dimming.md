@@ -61,6 +61,17 @@ at NIR wavelengths and sub-mm, the K-correction can **partially compensate** for
 
 so deep-field surveys at $H, K$ + ALMA sub-mm reach much higher $z$ than equivalent optical surveys.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Tolman surface brightness test|500](https://commons.wikimedia.org/wiki/Special:FilePath/Tolman_surface_brightness_test.png?width=600)
+*Lead figure of the Wikipedia article Tolman surface brightness test* ([Commons file page](https://commons.wikimedia.org/wiki/File:Tolman_surface_brightness_test.png), Stigmatella aurantiaca, CC BY-SA 4.0, as used on the Wikipedia article [Tolman surface brightness test](https://en.wikipedia.org/wiki/Tolman_surface_brightness_test))
+
+- **Tolman surface brightness test**. "The Tolman surface brightness test is one out of six cosmological tests that were conceived in the 1930s to check the viability of and compare new cosmological models. Tolman's test compares the surface brightness of galaxies as a function of their redshift (measured as z). Such a comparison was first proposed in 1930 by Richard C. Tolman as a test of whether the universe is expanding or static." ([Wikipedia](https://en.wikipedia.org/wiki/Tolman_surface_brightness_test))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Luminosity distance]]

@@ -76,6 +76,17 @@ confirming or denying their existence is one of the open frontiers of stellar dy
 - **Mezcua 2017, IJMPD 26, 1730021** — review of IMBH searches.
 - **Greene, Strader, Ho 2020, ARA&A 58, 257** — review of IMBHs across mass scales.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Intermediate-mass black hole|500](https://commons.wikimedia.org/wiki/Special:FilePath/HST_G1_%28Mayall_II%29.jpg?width=600)
+*HST G1 (Mayall II)* ([Commons file page](https://commons.wikimedia.org/wiki/File:HST_G1_%28Mayall_II%29.jpg), Michael Rich, Kenneth Mighell, and James D. Neill (Columbia University), and Wendy Freedman (Carnegie Observatories) and, Public domain, as used on the Wikipedia article [Intermediate-mass black hole](https://en.wikipedia.org/wiki/Intermediate-mass_black_hole))
+
+- **Intermediate-mass black hole**. "An intermediate-mass black hole (IMBH) is a class of black hole with mass in the range of 100 to 100,000 (102–105) solar masses: significantly higher than stellar black holes but lower than the hundred thousand to more than one billion (105–109) solar mass supermassive black holes." ([Wikipedia](https://en.wikipedia.org/wiki/Intermediate-mass_black_hole))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Black holes in globular clusters]]

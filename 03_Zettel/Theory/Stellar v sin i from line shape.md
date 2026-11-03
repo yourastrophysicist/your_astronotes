@@ -73,6 +73,17 @@ the **Rossiter-McLaughlin effect**: planet transits occult different velocity co
 ### Be and WR stars
 extreme rotators near critical breakup. used to identify rapidly rotating binaries, primordial fast rotators.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Stellar rotation|500](https://commons.wikimedia.org/wiki/Special:FilePath/Achernar.svg?width=600)
+*Shape of w:en:Achernar. there is a disk of gas near equator* ([Commons file page](https://commons.wikimedia.org/wiki/File:Achernar.svg), Fred the Oyster iThe source code of this SVG is valid. This vector image was created with Adobe Illustrator by v., CC BY-SA 4.0, as used on the Wikipedia article [Stellar rotation](https://en.wikipedia.org/wiki/Stellar_rotation))
+
+- **Stellar rotation**. "Stellar rotation is the angular motion of a star about its axis. The rate of rotation can be measured from the spectrum of the star, or by timing the movements of active features on the surface. The rotation of a star produces an equatorial bulge due to centrifugal force." ([Wikipedia](https://en.wikipedia.org/wiki/Stellar_rotation))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Rotational broadening]]

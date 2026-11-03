@@ -157,6 +157,17 @@ The spectral resolution is **higher at lower energies**
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![X-ray telescope|500](https://commons.wikimedia.org/wiki/Special:FilePath/Chandra_artist_illustration.jpg?width=600)
+*Artist illustration of the Chandra X-ray Observatory. Chandra is the most sensitive X-ray telescope ever built* ([Commons file page](https://commons.wikimedia.org/wiki/File:Chandra_artist_illustration.jpg), NASA/CXC/NGST, Public domain, as used on the Wikipedia article [X-ray telescope](https://en.wikipedia.org/wiki/X-ray_telescope))
+
+- **X-ray telescope**. "An X-ray telescope (XRT) is a telescope that is designed to observe remote objects in the X-ray spectrum. X-rays are absorbed by the Earth's atmosphere, so instruments to detect X-rays must be taken to high altitude by balloons, sounding rockets, or satellites." ([Wikipedia](https://en.wikipedia.org/wiki/X-ray_telescope))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[CCD readout]]

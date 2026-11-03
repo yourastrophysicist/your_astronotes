@@ -110,6 +110,18 @@ coronagraphy and interferometry are complementary:
 
 modern instruments (SPHERE, MagAO-X) often combine both: a coronagraph at the focus, with the interferometric nulling also possible on additional telescope pairs.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Coronagraph|500](https://commons.wikimedia.org/wiki/Special:FilePath/Cp22liberationdaytransient.png?width=600)
+*High Altitude Observatory (HAO) white-light coronagraph/polarimeter (C/P) image of the coronal transient of 5 May 1980, taken at 11:38 UT. NASA Solar Maximum Mission, launched on February 14, 1980* ([Commons file page](https://commons.wikimedia.org/wiki/File:Cp22liberationdaytransient.png), NASA, Public domain, as used on the Wikipedia article [Coronagraph](https://en.wikipedia.org/wiki/Coronagraph))
+
+- **Coronagraph**. "A coronagraph is a telescopic attachment designed to block out the direct light from a star or other bright object so that nearby objects – which otherwise would be hidden in the object's bright glare – can be resolved." ([Wikipedia](https://en.wikipedia.org/wiki/Coronagraph))
+- **Imaging Extrasolar Giant Planets**. "High-contrast adaptive optics imaging is a powerful technique to probe the architectures of planetary systems from the outside-in and survey the atmospheres of self-luminous giant planets." ([arXiv:1605.02731](https://arxiv.org/abs/1605.02731))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Nulling interferometry]]

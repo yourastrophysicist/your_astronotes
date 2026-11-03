@@ -53,6 +53,17 @@ so high-density nebulae have **reduced** 2-photon continuum and **enhanced** Ly$
 - **Lyman-alpha emitters at high $z$**: 2-photon contributes to the broadband UV continuum, complicating interpretation.
 - **quasar spectra**: the "small blue bump" near Mg II $\lambda 2798$ has a contribution from 2-photon.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Two-photon absorption|500](https://commons.wikimedia.org/wiki/Special:FilePath/Two_photons_absorption_energy_scheme.png?width=600)
+*Schematic of energy levels involved in two photons absorption* ([Commons file page](https://commons.wikimedia.org/wiki/File:Two_photons_absorption_energy_scheme.png), BP-Aegirsson, CC BY-SA 4.0, as used on the Wikipedia article [Two-photon absorption](https://en.wikipedia.org/wiki/Two-photon_absorption))
+
+- **Two-photon absorption**. "In atomic physics, two-photon absorption (TPA or 2PA), also called two-photon excitation or non-linear absorption, is the simultaneous absorption of two photons of identical or different frequencies in order to excite an atom or a molecule from one state (usually the ground state), via a virtual energy level, to a higher energy, most commonly an excited electronic state." ([Wikipedia](https://en.wikipedia.org/wiki/Two-photon_absorption))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Recombination continuum]]

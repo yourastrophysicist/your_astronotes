@@ -106,6 +106,17 @@ by ~2040, ngVLA + SKA + ALMA together will have:
 
 a transformative era for radio astronomy.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Very Large Array|500](https://commons.wikimedia.org/wiki/Special:FilePath/USA.NM.VeryLargeArray.02.jpg?width=600)
+*The Very Large Array near Socorro, New Mexico, United States* ([Commons file page](https://commons.wikimedia.org/wiki/File:USA.NM.VeryLargeArray.02.jpg), user:Hajor, CC BY-SA 3.0, as used on the Wikipedia article [Very Large Array](https://en.wikipedia.org/wiki/Very_Large_Array))
+
+- **Very Large Array**. "The Karl G. Jansky Very Large Array (VLA) is a centimeter-wavelength radio astronomy observatory in the southwestern United States built in the 1970s. It lies in central New Mexico on the Plains of San Agustin, between the towns of Magdalena and Datil, approximately 50 miles (80 km) west of Socorro." ([Wikipedia](https://en.wikipedia.org/wiki/Very_Large_Array))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Major radio interferometers]]

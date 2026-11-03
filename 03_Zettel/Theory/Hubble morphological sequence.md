@@ -130,6 +130,18 @@ When asked by Prof. Pizzella - *"Draw the Hubble tuning fork, define the quantit
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Hubble sequence|500](https://commons.wikimedia.org/wiki/Special:FilePath/Hubble_Tuning_Fork_diagram.svg?width=600)
+*Lead figure of the Wikipedia article Hubble sequence* ([Commons file page](https://commons.wikimedia.org/wiki/File:Hubble_Tuning_Fork_diagram.svg), Cosmogoblin, CC0, as used on the Wikipedia article [Hubble sequence](https://en.wikipedia.org/wiki/Hubble_sequence))
+
+- **Hubble sequence**. "The Hubble sequence is a morphological classification scheme for galaxies published by Edwin Hubble in 1926. It is often colloquially known as the Hubble tuning-fork diagram because the shape in which it is traditionally represented resembles a tuning fork. It was invented by John Henry Reynolds and Sir James Jeans." ([Wikipedia](https://en.wikipedia.org/wiki/Hubble_sequence))
+- **The Evolution of Galaxy Structure over Cosmic Time**. "I present a comprehensive review of the evolution of galaxy structure in the universe from the first galaxies we can currently observe at z~6 down to galaxies we see in the local universe. I further address how these changes reveal galaxy formation processes that galaxy structural analyses can provide." ([arXiv:1403.2783](https://arxiv.org/abs/1403.2783))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[CAS galaxy classification]]

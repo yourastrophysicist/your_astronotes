@@ -69,6 +69,17 @@ the modern descendant is **phase-shifting Fizeau interferometry** — much more 
 
 a soap bubble's iridescent colors are Newton's rings in *white light*: at each thickness, the wavelength corresponding to constructive interference is *visible*. as the bubble drains and gets thinner, the visible color changes from red to blue. then it goes black just before bursting, when $d \ll \lambda$.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Newton's rings|500](https://commons.wikimedia.org/wiki/Special:FilePath/20cm_Air_1.jpg?width=600)
+*Newton's Rings as observed through a microscope. The lens used is a 20cm convex lens and the light source is a sodium lamp* ([Commons file page](https://commons.wikimedia.org/wiki/File:20cm_Air_1.jpg), Warrencarpani, CC0, as used on the Wikipedia article [Newton's rings](https://en.wikipedia.org/wiki/Newton%27s_rings))
+
+- **Newton's rings**. "Newton's rings is a phenomenon in which an interference pattern is created by the reflection of light between two surfaces, typically a spherical surface and an adjacent touching flat surface. It is named after Isaac Newton, who investigated the effect in 1666." ([Wikipedia](https://en.wikipedia.org/wiki/Newton%27s_rings))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fringes of equal thickness]]

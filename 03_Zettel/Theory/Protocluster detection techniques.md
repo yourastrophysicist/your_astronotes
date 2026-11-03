@@ -75,6 +75,18 @@ protoclusters reveal:
 
 JWST is currently revolutionising this field with **spectroscopically confirmed protoclusters at $z = 7$ to $10$**.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Galaxy cluster|500](https://commons.wikimedia.org/wiki/Special:FilePath/BoRG-58.jpg?width=600)
+*Lead figure of the Wikipedia article Galaxy cluster* ([Commons file page](https://commons.wikimedia.org/wiki/File:BoRG-58.jpg), NASA, ESA, M. Trenti (University of Cambridge, UK and University of Colorado, Boulder, USA), L. Bradley (STScI), and the, CC BY 3.0, as used on the Wikipedia article [Galaxy cluster](https://en.wikipedia.org/wiki/Galaxy_cluster))
+
+- **Galaxy cluster**. "A galaxy cluster, or a cluster of galaxies, is a structure that consists of anywhere from hundreds to thousands of galaxies that are bound together by gravity, with typical masses ranging from 1014 to 1015 solar masses (M☉). Clusters consist of galaxies, heated gas, and dark matter. They are the biggest known gravitationally bound structures in the universe." ([Wikipedia](https://en.wikipedia.org/wiki/Galaxy_cluster))
+- **The realm of the galaxy protoclusters**. "The study of galaxy protoclusters is beginning to fill in unknown details of the important phase of the assembly of clusters and cluster galaxies. This review describes the current status of this field and highlights promising recent findings related to galaxy formation in the densest regions of the early universe." ([arXiv:1610.05201](https://arxiv.org/abs/1610.05201))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Galaxy clusters and overview of evolution]]

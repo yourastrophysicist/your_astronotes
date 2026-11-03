@@ -67,6 +67,14 @@ so the cosmological principle reduces all of cosmology to *one ODE for one funct
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Cosmological principle**. "In modern physical cosmology, the cosmological principle is the notion that the spatial distribution of matter in the universe is uniformly isotropic and homogeneous when viewed on a large enough scale, since the forces are expected to act equally throughout the universe on a large scale, and should, therefore, produce no observable inequalities in the large-scale structuring over the course of evolution of the matter field that was initially laid down by the Big Bang." ([Wikipedia](https://en.wikipedia.org/wiki/Cosmological_principle))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

@@ -53,6 +53,18 @@ see [[Photon sphere]].
 - **2014-2016**: dark-energy weak-lensing surveys (DES) begin precision cosmology.
 - **2019**: EHT image of M87.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Gravitational lens|500](https://commons.wikimedia.org/wiki/Special:FilePath/A_Horseshoe_Einstein_Ring_from_Hubble.JPG?width=600)
+*Lead figure of the Wikipedia article Gravitational lens* ([Commons file page](https://commons.wikimedia.org/wiki/File:A_Horseshoe_Einstein_Ring_from_Hubble.JPG), Lensshoe_hubble.jpg: ESA/Hubble & NASA derivative work: Bulwersator (talk), Public domain, as used on the Wikipedia article [Gravitational lens](https://en.wikipedia.org/wiki/Gravitational_lens))
+
+- **Gravitational lens**. "A gravitational lens is matter, such as a cluster of galaxies or a point particle, in sufficient quantity and density to bend light noticeably from a distant source as it travels toward an observer. The amount of gravitational lensing is described by Albert Einstein's general theory of relativity." ([Wikipedia](https://en.wikipedia.org/wiki/Gravitational_lens))
+- **Strong Lensing by Galaxies**. "Strong lensing is a powerful tool to address three major astrophysical issues: understanding the spatial distribution of mass at kpc and sub-kpc scale, where baryons and dark matter interact to shape galaxies as we see them; determining the overall geometry, content, and kinematics of the universe; studying distant galaxies, black holes, and active nuclei that are too small or too faint to be resolved or detected with current instrumentation." ([arXiv:1003.5567](https://arxiv.org/abs/1003.5567))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Strong vs weak lensing]]

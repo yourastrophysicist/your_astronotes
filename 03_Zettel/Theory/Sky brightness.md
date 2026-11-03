@@ -65,6 +65,17 @@ which says:
 
 so at faint magnitudes a small telescope at a dark site can outperform a big one in a city, especially for surface-brightness-limited science (low-surface-brightness galaxies, integrated cluster flux).
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Sky brightness|500](https://commons.wikimedia.org/wiki/Special:FilePath/Orion1_big.jpg?width=600)
+*Lead figure of the Wikipedia article Sky brightness* ([Commons file page](https://commons.wikimedia.org/wiki/File:Orion1_big.jpg), The original uploader was Albester at English Wikipedia., Public domain, as used on the Wikipedia article [Sky brightness](https://en.wikipedia.org/wiki/Sky_brightness))
+
+- **Sky brightness**. "Sky brightness refers to the visual perception of the sky and how it scatters and diffuses light. The fact that the sky is not completely dark at night is easily visible. If light sources (e.g." ([Wikipedia](https://en.wikipedia.org/wiki/Sky_brightness))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Earth atmosphere for observations]]

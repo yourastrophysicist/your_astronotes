@@ -66,6 +66,14 @@ at $z = 5$: $K \approx -5.7$ mag. so a sub-mm source at $z = 5$ is **brighter** 
        const    const    const    fading
 ```
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **K correction**. "K correction is a process for converting measurements of astronomical objects into their respective rest frames. The correction acts on that object's observed magnitude (or equivalently, its flux). Because astronomical observations often measure through a single filter or bandpass, observers only measure a fraction of the total spectrum, redshifted into the frame of the observer." ([Wikipedia](https://en.wikipedia.org/wiki/K_correction))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[K-correction]]

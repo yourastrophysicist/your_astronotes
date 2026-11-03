@@ -68,6 +68,17 @@ forbidden lines have very small $A_{21}$ ($\sim 10^{-2}$ to $10^0$ s$^{-1}$ vs $
 
 permitted lines have $n_c \sim 10^{14}$ cm$^{-3}$, so they're always in the low-$n_e$ regime in real nebulae. their ratios depend mostly on populations, not on $n_e$.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Two-state quantum system|500](https://commons.wikimedia.org/wiki/Special:FilePath/Stern-Gerlach_experiment.svg?width=600)
+*Lead figure of the Wikipedia article Two-state quantum system* ([Commons file page](https://commons.wikimedia.org/wiki/File:Stern-Gerlach_experiment.svg), Tatoute, CC BY-SA 4.0, as used on the Wikipedia article [Two-state quantum system](https://en.wikipedia.org/wiki/Two-state_quantum_system))
+
+- **Two-state quantum system**. "In quantum mechanics, a two-state system (also known as a two-level system) is a quantum system that can exist in any quantum superposition of two independent (physically distinguishable) quantum states. The Hilbert space describing such a system is two-dimensional. Therefore, a complete basis spanning the space will consist of two independent states." ([Wikipedia](https://en.wikipedia.org/wiki/Two-state_quantum_system))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Statistical equilibrium equations]]

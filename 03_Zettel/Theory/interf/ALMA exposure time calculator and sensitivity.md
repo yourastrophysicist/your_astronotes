@@ -81,6 +81,17 @@ reading cue: the exposure-time calculator is a practical wrapper around this sca
 
 source: local plot generated from the radiometer-equation scaling.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Atacama Large Millimeter Array|500](https://commons.wikimedia.org/wiki/Special:FilePath/ALMA_Antennas_on_Chajnantor.jpg?width=600)
+*Lead figure of the Wikipedia article Atacama Large Millimeter Array* ([Commons file page](https://commons.wikimedia.org/wiki/File:ALMA_Antennas_on_Chajnantor.jpg), Iztok Bončina/ESO, CC BY 4.0, as used on the Wikipedia article [Atacama Large Millimeter Array](https://en.wikipedia.org/wiki/Atacama_Large_Millimeter_Array))
+
+- **Atacama Large Millimeter Array**. "The Atacama Large Millimeter/submillimeter Array (ALMA) is an astronomical interferometer of 66 radio telescopes in the Atacama Desert of northern Chile, which observe electromagnetic radiation at millimeter and submillimeter wavelengths. The array has been constructed on the 5,000 m (16,000 ft) elevation Chajnantor plateau – near the Llano de Chajnantor Observatory and the Atacama Pathfinder Experiment." ([Wikipedia](https://en.wikipedia.org/wiki/Atacama_Large_Millimeter_Array))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Radiometer equation and SEFD]]

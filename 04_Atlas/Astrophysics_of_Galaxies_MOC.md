@@ -366,6 +366,79 @@ Canonical and modern arXiv astro-ph.GA/HE benchmark papers underlying the dark-m
 
 ---
 
+<!-- moc-sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+Every zettel in this map ends with a short sourced section: a definition quoted from Wikipedia (63 zettels) or from the abstract of an arXiv review (41 zettels), and, where a free figure exists, the credited lead figure of the Wikipedia article (Wikimedia Commons) or a figure from an openly licensed arXiv paper. The lecture-slide figures above are unchanged.
+
+| Zettel | Wikipedia | arXiv review | Figure |
+|---|---|---|---|
+| [[AGN spectroscopy]] | [Active galactic nucleus](https://en.wikipedia.org/wiki/Active_galactic_nucleus) | [arXiv:1505.00811](https://arxiv.org/abs/1505.00811) |  |
+| [[Alpha-Fe enhancement]] | [Alpha process](https://en.wikipedia.org/wiki/Alpha_process) |  | Commons |
+| [[Bullet Cluster and dark matter mapping]] | [Bullet Cluster](https://en.wikipedia.org/wiki/Bullet_Cluster) | [arXiv:hep-ph/0404175](https://arxiv.org/abs/hep-ph/0404175) | Commons |
+| [[CAS galaxy classification]] | [Galaxy morphological classification](https://en.wikipedia.org/wiki/Galaxy_morphological_classification) | [arXiv:1403.2783](https://arxiv.org/abs/1403.2783) | Commons |
+| [[Color bimodality of galaxies]] | [Galaxy color–magnitude diagram](https://en.wikipedia.org/wiki/Galaxy_color%E2%80%93magnitude_diagram) |  | Commons |
+| [[Color gradients in ellipticals]] | [Elliptical galaxy](https://en.wikipedia.org/wiki/Elliptical_galaxy) | [arXiv:1602.04267](https://arxiv.org/abs/1602.04267) | Commons |
+| [[Coma cluster]] | [Coma Cluster](https://en.wikipedia.org/wiki/Coma_Cluster) |  | Commons |
+| [[Dark matter in dwarf galaxies]] | [Dwarf galaxy](https://en.wikipedia.org/wiki/Dwarf_galaxy) | [arXiv:1901.05465](https://arxiv.org/abs/1901.05465) | Commons |
+| [[Dark matter in elliptical galaxies]] | [Elliptical galaxy](https://en.wikipedia.org/wiki/Elliptical_galaxy) | [arXiv:1602.04267](https://arxiv.org/abs/1602.04267) | Commons |
+| [[Dark matter rotation curves]] | [Galaxy rotation curve](https://en.wikipedia.org/wiki/Galaxy_rotation_curve) | [arXiv:astro-ph/0010594](https://arxiv.org/abs/astro-ph/0010594) | Commons |
+| [[Datacube redshift measurement]] | [Integral field spectrograph](https://en.wikipedia.org/wiki/Integral_field_spectrograph) | [arXiv:1602.04267](https://arxiv.org/abs/1602.04267) | Commons |
+| [[Datacube reduction]] | [Integral field spectrograph](https://en.wikipedia.org/wiki/Integral_field_spectrograph) | [arXiv:1602.04267](https://arxiv.org/abs/1602.04267) | Commons |
+| [[De Vaucouleurs and exponential profiles]] | [De Vaucouleurs's law](https://en.wikipedia.org/wiki/De_Vaucouleurs%27s_law) |  |  |
+| [[Deep-field surveys]] | [Hubble Deep Field](https://en.wikipedia.org/wiki/Hubble_Deep_Field) |  | Commons |
+| [[Double power-law modified Schechter]] | [Luminosity function (astronomy)](https://en.wikipedia.org/wiki/Luminosity_function_%28astronomy%29) | [arXiv:1106.2039](https://arxiv.org/abs/1106.2039) |  |
+| [[Early-type galaxy stellar populations]] | [Elliptical galaxy](https://en.wikipedia.org/wiki/Elliptical_galaxy) | [arXiv:1602.04267](https://arxiv.org/abs/1602.04267) | Commons |
+| [[Eigenspectra and spectral types]] | [Principal component analysis](https://en.wikipedia.org/wiki/Principal_component_analysis) |  | Commons |
+| [[Faber-Jackson relation]] | [Faber–Jackson relation](https://en.wikipedia.org/wiki/Faber%E2%80%93Jackson_relation) | [arXiv:1602.04267](https://arxiv.org/abs/1602.04267) |  |
+| [[Fundamental plane of ellipticals]] | [Fundamental plane (elliptical galaxies)](https://en.wikipedia.org/wiki/Fundamental_plane_%28elliptical_galaxies%29) | [arXiv:1602.04267](https://arxiv.org/abs/1602.04267) |  |
+| [[Galactic Center Sgr A and S-stars]] | [Sagittarius A*](https://en.wikipedia.org/wiki/Sagittarius_A*) |  |  |
+| [[Galaxy color, density and morphology]] | [Galaxy morphological classification](https://en.wikipedia.org/wiki/Galaxy_morphological_classification) | [arXiv:1403.2783](https://arxiv.org/abs/1403.2783) | Commons |
+| [[Galaxy morphology vs physical properties]] | [Galaxy morphological classification](https://en.wikipedia.org/wiki/Galaxy_morphological_classification) | [arXiv:1403.2783](https://arxiv.org/abs/1403.2783) | Commons |
+| [[Green valley and quenching tracks]] | [Galaxy color–magnitude diagram](https://en.wikipedia.org/wiki/Galaxy_color%E2%80%93magnitude_diagram) |  | Commons |
+| [[H I regions]] | [H I region](https://en.wikipedia.org/wiki/H_I_region) |  | Commons |
+| [[H II region spectroscopy]] | [H II region](https://en.wikipedia.org/wiki/H_II_region) | [arXiv:1910.09730](https://arxiv.org/abs/1910.09730) | Commons |
+| [[Hubble morphological sequence]] | [Hubble sequence](https://en.wikipedia.org/wiki/Hubble_sequence) | [arXiv:1403.2783](https://arxiv.org/abs/1403.2783) | Commons |
+| [[Integral-field spectroscopy IFU]] | [Integral field spectrograph](https://en.wikipedia.org/wiki/Integral_field_spectrograph) | [arXiv:1602.04267](https://arxiv.org/abs/1602.04267) | Commons |
+| [[Integrals of the Schechter function]] | [Luminosity function (astronomy)](https://en.wikipedia.org/wiki/Luminosity_function_%28astronomy%29) | [arXiv:1106.2039](https://arxiv.org/abs/1106.2039) |  |
+| [[Ionized gas kinematics]] | [Supermassive black hole](https://en.wikipedia.org/wiki/Supermassive_black_hole) | [arXiv:1304.7762](https://arxiv.org/abs/1304.7762) | Commons |
+| [[Ionized gas SMBH masses]] | [Supermassive black hole](https://en.wikipedia.org/wiki/Supermassive_black_hole) | [arXiv:1304.7762](https://arxiv.org/abs/1304.7762) | Commons |
+| [[Kormendy relation]] | [Fundamental plane (elliptical galaxies)](https://en.wikipedia.org/wiki/Fundamental_plane_%28elliptical_galaxies%29) | [arXiv:1602.04267](https://arxiv.org/abs/1602.04267) |  |
+| [[Lensing as a cosmological probe]] | [Gravitational lens](https://en.wikipedia.org/wiki/Gravitational_lens) | [arXiv:1003.5567](https://arxiv.org/abs/1003.5567) | Commons |
+| [[Local Group galaxies]] | [Local Group](https://en.wikipedia.org/wiki/Local_Group) |  | Commons |
+| [[LOSVD]] | [Stellar kinematics](https://en.wikipedia.org/wiki/Stellar_kinematics) | [arXiv:1602.04267](https://arxiv.org/abs/1602.04267) | Commons |
+| [[Low surface brightness galaxies]] | [Low surface brightness galaxy](https://en.wikipedia.org/wiki/Low_surface_brightness_galaxy) |  | Commons |
+| [[Luminosity function definition]] | [Luminosity function (astronomy)](https://en.wikipedia.org/wiki/Luminosity_function_%28astronomy%29) | [arXiv:1106.2039](https://arxiv.org/abs/1106.2039) |  |
+| [[M sigma relation]] | [M–sigma relation](https://en.wikipedia.org/wiki/M%E2%80%93sigma_relation) | [arXiv:1304.7762](https://arxiv.org/abs/1304.7762) | Commons |
+| [[Madau plot]] | [Star formation](https://en.wikipedia.org/wiki/Star_formation) | [arXiv:1403.0007](https://arxiv.org/abs/1403.0007) |  |
+| [[Magorrian relation]] | [M–sigma relation](https://en.wikipedia.org/wiki/M%E2%80%93sigma_relation) | [arXiv:1304.7762](https://arxiv.org/abs/1304.7762) | Commons |
+| [[MaNGA survey]] | [Sloan Digital Sky Survey](https://en.wikipedia.org/wiki/Sloan_Digital_Sky_Survey) |  | Commons |
+| [[Modified gravity alternatives]] | [Alternatives to general relativity](https://en.wikipedia.org/wiki/Alternatives_to_general_relativity) | [arXiv:1112.3960](https://arxiv.org/abs/1112.3960) |  |
+| [[Molecular clouds]] | [Molecular cloud](https://en.wikipedia.org/wiki/Molecular_cloud) | [arXiv:1204.3552](https://arxiv.org/abs/1204.3552) | Commons |
+| [[MOND]] | [Modified Newtonian dynamics](https://en.wikipedia.org/wiki/Modified_Newtonian_dynamics) | [arXiv:1112.3960](https://arxiv.org/abs/1112.3960) |  |
+| [[MUSE datacubes]] | [Multi-Unit Spectroscopic Explorer](https://en.wikipedia.org/wiki/Multi-Unit_Spectroscopic_Explorer) |  | Commons |
+| [[PCA spectral classification of galaxies]] | [Principal component analysis](https://en.wikipedia.org/wiki/Principal_component_analysis) |  | Commons |
+| [[Photodissociation regions PDRs]] | [Photodissociation region](https://en.wikipedia.org/wiki/Photodissociation_region) |  | Commons |
+| [[Photometric redshifts]] | [Photometric redshift](https://en.wikipedia.org/wiki/Photometric_redshift) | [arXiv:1805.12574](https://arxiv.org/abs/1805.12574) |  |
+| [[Red sequence and blue cloud]] | [Galaxy color–magnitude diagram](https://en.wikipedia.org/wiki/Galaxy_color%E2%80%93magnitude_diagram) |  | Commons |
+| [[Reverberation mapping]] | [Reverberation mapping](https://en.wikipedia.org/wiki/Reverberation_mapping) | [arXiv:1304.7762](https://arxiv.org/abs/1304.7762) |  |
+| [[Rotation curves]] | [Galaxy rotation curve](https://en.wikipedia.org/wiki/Galaxy_rotation_curve) | [arXiv:astro-ph/0010594](https://arxiv.org/abs/astro-ph/0010594) | Commons |
+| [[Schechter function in magnitudes]] | [Luminosity function (astronomy)](https://en.wikipedia.org/wiki/Luminosity_function_%28astronomy%29) | [arXiv:1106.2039](https://arxiv.org/abs/1106.2039) |  |
+| [[Schechter function]] | [Luminosity function (astronomy)](https://en.wikipedia.org/wiki/Luminosity_function_%28astronomy%29) | [arXiv:1106.2039](https://arxiv.org/abs/1106.2039) |  |
+| [[Schmidt-Kennicutt law]] | [Kennicutt–Schmidt law](https://en.wikipedia.org/wiki/Kennicutt%E2%80%93Schmidt_law) | [arXiv:1204.3552](https://arxiv.org/abs/1204.3552) |  |
+| [[SDSS overview]] | [Sloan Digital Sky Survey](https://en.wikipedia.org/wiki/Sloan_Digital_Sky_Survey) |  | Commons |
+| [[Sersic profile]] | [Sérsic profile](https://en.wikipedia.org/wiki/S%C3%A9rsic_profile) | [arXiv:1403.2783](https://arxiv.org/abs/1403.2783) | Commons |
+| [[Spectrograph design]] | [Optical spectrometer](https://en.wikipedia.org/wiki/Optical_spectrometer) |  | Commons |
+| [[Spectrograph types]] | [Optical spectrometer](https://en.wikipedia.org/wiki/Optical_spectrometer) |  | Commons |
+| [[Stellar dynamics SMBH masses]] | [Supermassive black hole](https://en.wikipedia.org/wiki/Supermassive_black_hole) | [arXiv:1304.7762](https://arxiv.org/abs/1304.7762) | Commons |
+| [[Stellar kinematics measurements]] | [Stellar kinematics](https://en.wikipedia.org/wiki/Stellar_kinematics) | [arXiv:1602.04267](https://arxiv.org/abs/1602.04267) | Commons |
+| [[Tully-Fisher relation]] | [Tully–Fisher relation](https://en.wikipedia.org/wiki/Tully%E2%80%93Fisher_relation) |  | Commons |
+| [[UV luminosity function]] | [Luminosity function (astronomy)](https://en.wikipedia.org/wiki/Luminosity_function_%28astronomy%29) | [arXiv:1106.2039](https://arxiv.org/abs/1106.2039) |  |
+| [[Virgo cluster]] | [Virgo Cluster](https://en.wikipedia.org/wiki/Virgo_Cluster) |  | Commons |
+| [[Water maser BH masses]] | [Astrophysical maser](https://en.wikipedia.org/wiki/Astrophysical_maser) |  |  |
+
+<!-- /moc-sources:wiki-arxiv -->
+
 ## Prof. Alessandro Pizzella Oral Exam Defense Preparation Matrix
 
 This defense matrix prepares the student for typical examination questions asked by **Prof. Alessandro Pizzella**, drawn from the course lectures and student LaTeX synthesis notes.

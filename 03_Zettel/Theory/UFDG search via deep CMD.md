@@ -42,6 +42,18 @@ see also [[Ultra-faint dwarf galaxies definition]], [[UFDG dark matter content]]
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Dwarf galaxy|500](https://commons.wikimedia.org/wiki/Special:FilePath/Large.mc.arp.750pix.jpg?width=600)
+*Image of the Large Magellanic Cloud and Supernova 1987A taken by the Kuiper Airborne Observatory (NASA 714) during its New Zealand deployment in 1987* ([Commons file page](https://commons.wikimedia.org/wiki/File:Large.mc.arp.750pix.jpg), NASA/Ames Research Center, Public domain, as used on the Wikipedia article [Dwarf galaxy](https://en.wikipedia.org/wiki/Dwarf_galaxy))
+
+- **Dwarf galaxy**. "A dwarf galaxy is a small galaxy composed of about 1,000 up to several billion stars, as compared to the Milky Way's 100–400 billion stars. The Large Magellanic Cloud, which closely orbits the Milky Way and contains over 30 billion stars, is sometimes classified as a dwarf galaxy; others consider it a full-fledged galaxy." ([Wikipedia](https://en.wikipedia.org/wiki/Dwarf_galaxy))
+- **The Faintest Dwarf Galaxies**. "The lowest luminosity (L < 10^5 L_sun) Milky Way satellite galaxies represent the extreme lower limit of the galaxy luminosity function. These ultra-faint dwarfs are the oldest, most dark matter-dominated, most metal-poor, and least chemically evolved stellar systems known." ([arXiv:1901.05465](https://arxiv.org/abs/1901.05465))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Search for Pop III stars in dwarf galaxies]]

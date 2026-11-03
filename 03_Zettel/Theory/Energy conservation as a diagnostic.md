@@ -88,6 +88,17 @@ case 3 is the most common cause of mysterious-looking energy plots in N-body wor
 
 for a cosmological simulation in an expanding background, energy is *not* conserved (the universe is expanding, work is being done). the right invariant is a different combination involving the scale factor. but for an *isolated* gravitational system (everything in this exam), energy conservation is exact and is the right diagnostic.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Energy drift|500](https://commons.wikimedia.org/wiki/Special:FilePath/Euler_leapfrog_comparison.gif?width=600)
+*This is a simulation of 10.000 particles orbiting a point mass at the center integrated using Euler and leapfrog steps* ([Commons file page](https://commons.wikimedia.org/wiki/File:Euler_leapfrog_comparison.gif), Perossello, CC BY-SA 4.0, as used on the Wikipedia article [Energy drift](https://en.wikipedia.org/wiki/Energy_drift))
+
+- **Energy drift**. "In computer simulations of mechanical systems, energy drift is the gradual change in the total energy of a closed system over time. According to the laws of mechanics, the energy should be a constant of motion and should not change." ([Wikipedia](https://en.wikipedia.org/wiki/Energy_drift))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Astrophysical N-body problem formulation]]

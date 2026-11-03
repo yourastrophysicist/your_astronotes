@@ -60,6 +60,15 @@ this monumental discovery earned Perlmutter, Schmidt, and Riess the **2011 Nobel
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Type Ia supernova**. "A Type Ia supernova (read: "type one-A") is a supernova that occurs in binary systems (two stars orbiting one another) in which one of the stars is a white dwarf. The other star can be anything from a giant star to an even smaller white dwarf. Physically, carbon–oxygen white dwarfs with a low rate of rotation are limited to below 1.44 solar masses (M☉)." ([Wikipedia](https://en.wikipedia.org/wiki/Type_Ia_supernova))
+- **Observational clues to the progenitors of Type-Ia supernovae**. "Type-Ia supernovae (SNe Ia) are important distance indicators, element factories, cosmic-ray accelerators, kinetic-energy sources in galaxy evolution, and endpoints of stellar binary evolution. It has long been clear that a SN Ia must be the runaway thermonuclear explosion of a degenerate carbon-oxygen stellar core, most likely a white dwarf (WD)." ([arXiv:1312.0628](https://arxiv.org/abs/1312.0628))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

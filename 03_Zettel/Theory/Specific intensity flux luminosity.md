@@ -66,6 +66,14 @@ $$F = \frac{L}{4\pi d^2} = \left(\frac{R}{d}\right)^2 \sigma_{SB} T^4$$
 | luminosity | $L$ | erg/s | no, intrinsic |
 | radiation density | $u_\nu$ | erg/cm$^3$/Hz | depends |
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Radiance**. "In radiometry, radiance is the radiant flux emitted, reflected, transmitted or received by a given surface, per unit solid angle per unit projected area. Radiance is used to characterize diffuse emission and reflection of electromagnetic radiation, and to quantify emission of neutrinos and other particles. The SI unit of radiance is the watt per steradian per square metre (W·sr−1·m−2)." ([Wikipedia](https://en.wikipedia.org/wiki/Radiance))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Blackbody radiation and Stefan-Boltzmann]]

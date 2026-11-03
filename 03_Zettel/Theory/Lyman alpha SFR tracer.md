@@ -60,6 +60,17 @@ which is just $L(\text{H}\alpha)$ calibration scaled by $1/8.7$. in reality, $f_
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Lyman-alpha emitter|500](https://commons.wikimedia.org/wiki/Special:FilePath/Lyman_Alpha_Blob.jpg?width=600)
+*Lead figure of the Wikipedia article Lyman-alpha emitter* ([Commons file page](https://commons.wikimedia.org/wiki/File:Lyman_Alpha_Blob.jpg), Left panel: D.Alexander et al. S.Chapman et al. T.Hayashino et al. J.Geach et al. Right Illustration: M.Weiss, Public domain, as used on the Wikipedia article [Lyman-alpha emitter](https://en.wikipedia.org/wiki/Lyman-alpha_emitter))
+
+- **Lyman-alpha emitter**. "A Lyman-alpha emitter (LAE) is a type of distant galaxy that emits Lyman-alpha radiation from neutral hydrogen. Most known LAEs are extremely distant, and because of the finite travel time of light they provide glimpses into the history of the universe. They are thought to be the progenitors of most modern Milky Way type galaxies." ([Wikipedia](https://en.wikipedia.org/wiki/Lyman-alpha_emitter))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[OII SFR tracer]]

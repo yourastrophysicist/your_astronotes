@@ -51,6 +51,17 @@ up: [[Observational_Cosmology_MOC]] · [[Surveys to remember]]
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Space telescope|500](https://commons.wikimedia.org/wiki/Special:FilePath/Wavelength_Sensitivity_of_Hubble%2C_Webb%2C_Roman%2C_and_Other_Observatories_%2801FEBQTM8Y4FESTQ4N2AFQDBXH%29.jpg?width=600)
+*Lead figure of the Wikipedia article Space telescope* ([Commons file page](https://commons.wikimedia.org/wiki/File:Wavelength_Sensitivity_of_Hubble,_Webb,_Roman,_and_Other_Observatories_%2801FEBQTM8Y4FESTQ4N2AFQDBXH%29.jpg), IMAGE: NASA, STScI, Public domain, as used on the Wikipedia article [Space telescope](https://en.wikipedia.org/wiki/Space_telescope))
+
+- **Space telescope**. "A space telescope (also known as space observatory) is a telescope in outer space used to observe astronomical objects. Suggested by Lyman Spitzer in 1946, the first operational telescopes were the American Orbiting Astronomical Observatory 2 launched in 1968, and the Soviet Orion 1 ultraviolet telescope aboard space station Salyut 1 in 1971." ([Wikipedia](https://en.wikipedia.org/wiki/Space_telescope))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Surveys to remember]]

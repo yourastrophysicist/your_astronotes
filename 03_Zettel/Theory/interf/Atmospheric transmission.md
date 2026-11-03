@@ -116,6 +116,17 @@ This means: **all X-ray and gamma-ray observatories must operate from space**
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Atmospheric window|500](https://commons.wikimedia.org/wiki/Special:FilePath/Atmospheric_Transmission.svg?width=600)
+*Lead figure of the Wikipedia article Atmospheric window* ([Commons file page](https://commons.wikimedia.org/wiki/File:Atmospheric_Transmission.svg), Д.Ильин: vectorization (File:Atmospheric Transmission-ru.svg); Cepheiden translation back to english, CC0, as used on the Wikipedia article [Atmospheric window](https://en.wikipedia.org/wiki/Atmospheric_window))
+
+- **Atmospheric window**. "An atmospheric window is a region of the electromagnetic spectrum that can pass through the atmosphere of Earth. The optical, infrared and radio windows comprise the three main atmospheric windows. The windows provide direct channels for Earth's surface to receive electromagnetic energy from the Sun, and for thermal radiation from the surface to leave to space." ([Wikipedia](https://en.wikipedia.org/wiki/Atmospheric_window))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Atmospheric transparency windows]]

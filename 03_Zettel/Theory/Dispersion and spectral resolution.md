@@ -72,6 +72,14 @@ with a $1200$ lines/mm grating instead: $R$ scales linearly $\to R \approx 1800$
 
 higher $R$ generally requires echelle and bigger grating (or finer ruling).
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Spectral resolution**. "The spectral resolution of a spectrograph, or, more generally, of a frequency spectrum, is a measure of its ability to resolve features in the electromagnetic spectrum." ([Wikipedia](https://en.wikipedia.org/wiki/Spectral_resolution))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Grating equation]]

@@ -69,6 +69,15 @@ total time from $r = \infty$ ($\eta = 0$) to $r = 0$ ($\eta = \pi$): $\tau_{\rm 
 
 quantitative: for a Sun-mass BH ($GM \sim 5\,\mu$s in time units), $\tau_{\rm horizon-to-singularity} \approx 15\,\mu$s. a millisecond, in human terms. for a supermassive BH like Sgr A$^\star$ ($M = 4\times 10^6\,M_\odot$), $\tau \sim 20$ s.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Schwarzschild geodesics**. "In general relativity, Schwarzschild geodesics describe the motion of test particles in the gravitational field of a central fixed mass M , {\textstyle M,} that is, motion in the Schwarzschild metric. Schwarzschild geodesics have been pivotal in the validation of Einstein's theory of general relativity." ([Wikipedia](https://en.wikipedia.org/wiki/Schwarzschild_geodesics))
+- **Lecture Notes on General Relativity**. "These notes represent approximately one semester's worth of lectures on introductory general relativity for beginning graduate students in physics. Topics include manifolds, Riemannian geometry, Einstein's equations, and three applications: gravitational radiation, black holes, and cosmology." ([arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Schwarzschild metric]]

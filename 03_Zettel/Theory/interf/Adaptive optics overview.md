@@ -71,6 +71,18 @@ second-generation systems (SPHERE on VLT, GPI on Gemini, MagAO-X on Magellan) pu
 
 the next generation telescopes (ELT $39$ m, GMT $25$ m, TMT $30$ m) all rely on AO to deliver useful resolution. the diffraction limit at $30$ m, K-band, is $\sim 15$ mas, $30\times$ better than HST. without AO it would all be lost.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Adaptive optics|500](https://commons.wikimedia.org/wiki/Special:FilePath/Adaptive_optics.gif?width=600)
+*Lead figure of the Wikipedia article Adaptive optics* ([Commons file page](https://commons.wikimedia.org/wiki/File:Adaptive_optics.gif), Jacopo Bertolotti, CC0, as used on the Wikipedia article [Adaptive optics](https://en.wikipedia.org/wiki/Adaptive_optics))
+
+- **Adaptive optics**. "Adaptive optics (AO) is a technique of precisely deforming a mirror in order to compensate for light distortion. It is used in astronomical telescopes and laser communication systems to remove the effects of atmospheric distortion, in microscopy, optical fabrication and in retinal imaging systems (ophthalmoscopy) to reduce optical aberrations." ([Wikipedia](https://en.wikipedia.org/wiki/Adaptive_optics))
+- **Adaptive Optics for Astronomy**. "Adaptive Optics is a prime example of how progress in observational astronomy can be driven by technological developments." ([arXiv:1201.5741](https://arxiv.org/abs/1201.5741))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Atmospheric seeing]]

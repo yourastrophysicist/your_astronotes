@@ -51,6 +51,17 @@ helium is the **second-most abundant element**, $\sim 24\%$ by mass in stars. it
 
 so the He I / He II ratio is a temperature thermometer for early-type stars. plus, He I and He II emission diagnose AGN (Seyfert) and hot evolved stars (PN central stars, sdO).
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Helium atom|500](https://commons.wikimedia.org/wiki/Special:FilePath/Helium_atom_%28not_to_scale%29.svg?width=600)
+*Helium atom (not to scale)* ([Commons file page](https://commons.wikimedia.org/wiki/File:Helium_atom_%28not_to_scale%29.svg), Original: Svdmolen and Jeanot Vector: King of Hearts, CC BY-SA 3.0, as used on the Wikipedia article [Helium atom](https://en.wikipedia.org/wiki/Helium_atom))
+
+- **Helium atom**. "A helium atom is an atom of the chemical element helium. Helium is composed of two electrons bound by the electromagnetic force to a nucleus containing two protons along with two neutrons, depending on the isotope, held together by the strong force. Unlike for the hydrogen atom, a closed-form solution to the Schrödinger equation for the helium atom has not been found." ([Wikipedia](https://en.wikipedia.org/wiki/Helium_atom))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Quantum numbers and atomic states]]

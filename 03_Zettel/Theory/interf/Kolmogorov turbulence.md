@@ -100,6 +100,14 @@ three quantities all scale as $\lambda^{6/5}$ (a consequence of the 5/3 phase-st
 
 these scalings are extensively verified observationally. they tell us why IR interferometry is dramatically easier than visible.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Turbulence**. "In fluid dynamics, turbulence or turbulent flow is fluid motion exhibiting chaotic changes in pressure and flow velocity. It is in contrast to laminar flow, which occurs when a fluid flows in parallel layers with no disruption between those layers." ([Wikipedia](https://en.wikipedia.org/wiki/Turbulence))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Atmospheric turbulence overview]]

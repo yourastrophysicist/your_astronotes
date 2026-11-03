@@ -87,6 +87,14 @@ PTAs are interferometric in *principle* (correlating signals from many "elements
 
 but the analogy is more deep than literal: PTAs measure GW *strain* (a tensor field), not EM waves. and the "baselines" (Earth-pulsar distances) are *kpc*, not km.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Pulsar timing array**. "A pulsar timing array (PTA) is a set of galactic pulsars that is monitored and analyzed to search for correlated signatures in the pulse arrival times on Earth. As such, they are galactic-sized detectors. Although there are many applications for pulsar timing arrays, the best known is the use of an array of millisecond pulsars to detect and analyse long-wavelength (i.e., low-frequency) gravitational wave background." ([Wikipedia](https://en.wikipedia.org/wiki/Pulsar_timing_array))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Very Long Baseline Interferometry VLBI]]

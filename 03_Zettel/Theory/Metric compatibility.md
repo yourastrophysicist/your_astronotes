@@ -52,6 +52,14 @@ several powerful tools:
 3. **first integral of geodesic equation**: along a geodesic, $g_{\mu\nu}\dot x^\mu \dot x^\nu$ is constant (proper time = affine parameter for timelike geodesics).
 4. **stress-energy conservation**: $\nabla^\mu T_{\mu\nu} = 0$ has a clean covariant form.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Metric connection**. "In mathematics, a metric connection is a connection in a vector bundle E equipped with a bundle metric; that is, a metric for which the inner product of any two vectors will remain the same when those vectors are parallel transported along any curve. This is equivalent to: A connection for which the covariant derivatives of the metric on E vanish. A principal connection on the bundle of orthonormal frames of E." ([Wikipedia](https://en.wikipedia.org/wiki/Metric_connection))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Levi-Civita connection]]

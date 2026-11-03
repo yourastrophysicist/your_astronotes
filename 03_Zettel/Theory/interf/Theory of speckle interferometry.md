@@ -97,6 +97,18 @@ speckle interferometry recovers spatial frequencies up to $u_{\max} = D/\lambda$
 
 so for *symmetric* sources, speckle interferometry achieves diffraction-limited resolution. for asymmetric sources, modifications ([[Bispectrum and triple correlation\|triple correlation]], Knox-Thompson) are needed.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Speckle imaging|500](https://commons.wikimedia.org/wiki/Special:FilePath/Zeta_bootis_short_exposure.png?width=600)
+*Lead figure of the Wikipedia article Speckle imaging* ([Commons file page](https://commons.wikimedia.org/wiki/File:Zeta_bootis_short_exposure.png), see file page, Public domain, as used on the Wikipedia article [Speckle imaging](https://en.wikipedia.org/wiki/Speckle_imaging))
+
+- **Speckle imaging**. "Speckle imaging comprises a range of high-resolution astronomical imaging techniques based on the analysis of large numbers of short exposures that freeze the variation of atmospheric turbulence. They can be divided into the shift-and-add (image stacking) method and the speckle interferometry methods." ([Wikipedia](https://en.wikipedia.org/wiki/Speckle_imaging))
+- **Optical Interferometry in Astronomy**. "Here I review the current state of the field of optical stellar interferometry, concentrating on ground-based work although a brief report of space interferometry missions is included." ([arXiv:astro-ph/0307036](https://arxiv.org/abs/astro-ph/0307036))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Speckle interferometry]]

@@ -93,6 +93,17 @@ when an interaction becomes inefficient ($\Gamma \lesssim H$), that species **de
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Thermal equilibrium|500](https://commons.wikimedia.org/wiki/Special:FilePath/Thermal_equilibrium_in_closed_system.png?width=600)
+*Development of a thermal equilibrium in a closed system* ([Commons file page](https://commons.wikimedia.org/wiki/File:Thermal_equilibrium_in_closed_system.png), Kku, CC BY-SA 4.0, as used on the Wikipedia article [Thermal equilibrium](https://en.wikipedia.org/wiki/Thermal_equilibrium))
+
+- **Thermal equilibrium**. "Two physical systems are in thermal equilibrium if there is no net flow of thermal energy between them when they are connected by a path permeable to heat. Thermal equilibrium obeys the zeroth law of thermodynamics. A system is said to be in thermal equilibrium with itself if the temperature within the system is spatially uniform and temporally constant." ([Wikipedia](https://en.wikipedia.org/wiki/Thermal_equilibrium))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

@@ -37,6 +37,17 @@ the total number of X-ray sources per unit cluster mass correlates with the enco
 
 X-ray positions need optical/UV/H$\alpha$ counterparts to classify each source. HST photometry, MUSE IFU spectroscopy, and Gaia astrometry have enabled detailed classification across galactic GCs. some X-ray sources turn out to be [[Hunting BHs via radial velocities\|stellar-mass black hole]] candidates if their companion is detected via radial velocities.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Low-mass X-ray binary|500](https://commons.wikimedia.org/wiki/Special:FilePath/A_binary_black_hole.jpg?width=600)
+*Lead figure of the Wikipedia article Low-mass X-ray binary* ([Commons file page](https://commons.wikimedia.org/wiki/File:A_binary_black_hole.jpg), ESO/L. Calçada, CC BY 4.0, as used on the Wikipedia article [Low-mass X-ray binary](https://en.wikipedia.org/wiki/Low-mass_X-ray_binary))
+
+- **Low-mass X-ray binary**. "Low-mass X-ray binaries (LMXBs or LMXRBs) are X-ray binary systems containing a compact object, typically a neutron star or black hole, and a normal star less than or equal to the mass of the Sun. LMXBs form when a high-mass star in a binary system with a low-mass star explodes in a supernova, becoming a neutron star or black hole." ([Wikipedia](https://en.wikipedia.org/wiki/Low-mass_X-ray_binary))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 - [[Stellar_Astrophysics_MOC]]
 - [[Cataclysmic variables in clusters]]

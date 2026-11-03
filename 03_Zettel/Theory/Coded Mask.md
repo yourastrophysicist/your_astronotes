@@ -55,6 +55,17 @@ where $B \otimes G$ is the background to be subtracted
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Coded aperture|500](https://commons.wikimedia.org/wiki/Special:FilePath/Coded_aperture_mask_%28for_gamma_camera%29.jpg?width=600)
+*Coded aperture mask for gamma camera (for SPECT)* ([Commons file page](https://commons.wikimedia.org/wiki/File:Coded_aperture_mask_%28for_gamma_camera%29.jpg), none (contains no original authorship), Public domain, as used on the Wikipedia article [Coded aperture](https://en.wikipedia.org/wiki/Coded_aperture))
+
+- **Coded aperture**. "Coded apertures or coded-aperture masks are grids, gratings, or other patterns of materials opaque to various wavelengths of electromagnetic radiation. The wavelengths are usually high-energy radiation such as X-rays and gamma rays. A coded "shadow" is cast upon a plane by blocking radiation in a known pattern." ([Wikipedia](https://en.wikipedia.org/wiki/Coded_aperture))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[A Brief History of X-ray and Gamma-ray Missions]]

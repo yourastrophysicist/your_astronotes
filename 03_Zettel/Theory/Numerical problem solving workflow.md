@@ -57,6 +57,14 @@ every exam exercise is this template scaled to a different class. recognising th
 - time step refined until the conserved quantity stabilizes
 - two integrators compared (e.g. midpoint vs leapfrog) on the same problem to see which is better
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Numerical analysis**. "Numerical analysis is the study of algorithms for the problems of continuous mathematics. These algorithms involve real or complex variables (in contrast to discrete mathematics), and typically use numerical approximation in addition to symbolic manipulation." ([Wikipedia](https://en.wikipedia.org/wiki/Numerical_analysis))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Math Numerical Methods course intro]]

@@ -46,6 +46,14 @@ the four most-cited:
 3. **recombination** ($z \sim 1100$): CMB last-scattering surface. anisotropies encode early-universe physics.
 4. **reionisation** ($z \sim 6$ to $10$): first ionising sources, end of the Dark Ages. CMB optical depth $\tau \sim 0.054$.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Chronology of the universe**. "The chronology of the universe describes the history and future of the universe according to the current understanding of physical cosmology. In this model, the earliest stage that is supported by observational evidence is known as inflation, which occurred 13.8 billion years ago. During this epoch, space underwent a period of extremely rapid expansion in a tiny fraction of a second." ([Wikipedia](https://en.wikipedia.org/wiki/Chronology_of_the_universe))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Brief thermal history]]

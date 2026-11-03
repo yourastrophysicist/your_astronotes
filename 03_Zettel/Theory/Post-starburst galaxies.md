@@ -61,6 +61,18 @@ evidence:
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Starburst galaxy|500](https://commons.wikimedia.org/wiki/Special:FilePath/Antennae_galaxies_xl.jpg?width=600)
+*Lead figure of the Wikipedia article Starburst galaxy* ([Commons file page](https://commons.wikimedia.org/wiki/File:Antennae_galaxies_xl.jpg), NASA, ESA, and the Hubble Heritage Team (STScI/AURA)-ESA/Hubble Collaboration, Public domain, as used on the Wikipedia article [Starburst galaxy](https://en.wikipedia.org/wiki/Starburst_galaxy))
+
+- **Starburst galaxy**. "A starburst galaxy is one undergoing an exceptionally high rate of star formation, as compared to the long-term average rate of star formation in the galaxy, or the star formation rate observed in most other galaxies. For example, the star formation rate of the Milky Way galaxy is approximately 3 M☉/yr, while starburst galaxies can experience star formation rates of 100 M☉/yr or more." ([Wikipedia](https://en.wikipedia.org/wiki/Starburst_galaxy))
+- **Evolution Through the Post-Starburst Phase: Using Post-Starburst Galaxies as Laboratories for Understanding the Processes that Drive Galaxy Evolution**. "Post-starburst (or "E+A") galaxies trace the fastest and most dramatic processes in galaxy evolution. Recent work studying the evolution of galaxies through this phase have revealed insights on how galaxies undergo structural and stellar population changes as well as the role of various feedback mechanisms." ([arXiv:2106.05982](https://arxiv.org/abs/2106.05982))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Galaxy mergers and SF]]

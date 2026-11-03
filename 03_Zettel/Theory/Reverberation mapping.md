@@ -157,6 +157,15 @@ $$M_\bullet = A \left[ \lambda L_\lambda(5100\text{ \AA}) \right]^{0.533} \left[
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Reverberation mapping**. "Reverberation mapping (or Echo mapping) is an astrophysical technique for measuring the structure of the broad-line region (BLR) around a supermassive black hole at the center of an active galaxy, and thus estimating the hole's mass. It is considered a "primary" mass estimation technique, i.e., the mass is measured directly from the motion that its gravitational force induces in the nearby gas." ([Wikipedia](https://en.wikipedia.org/wiki/Reverberation_mapping))
+- **Coevolution (Or Not) of Supermassive Black Holes and Host Galaxies**. "We review the observed demographics and inferred evolution of supermassive black holes (BHs) found by dynamical modeling of spatially resolved kinematics. Most influential was the discovery of a tight correlation between BH mass and the velocity dispersion of the host-galaxy bulge." ([arXiv:1304.7762](https://arxiv.org/abs/1304.7762))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[AGN spectroscopy]]

@@ -65,6 +65,17 @@ most powerful for extended sources but complex and heavy on data volume.
 
 each modern observatory has multiple instruments to cover different regimes. a typical PhD-level proposal picks the spectrograph based on (target multiplicity) × (need for $R$) × (need for spatial info) × (wavelength range).
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Optical spectrometer|500](https://commons.wikimedia.org/wiki/Special:FilePath/Spectrometer.svg?width=600)
+*Created with Inkscape* ([Commons file page](https://commons.wikimedia.org/wiki/File:Spectrometer.svg), Jooja, CC BY-SA 4.0, as used on the Wikipedia article [Optical spectrometer](https://en.wikipedia.org/wiki/Optical_spectrometer))
+
+- **Optical spectrometer**. "An optical spectrometer (spectrophotometer, spectrograph or spectroscope) is an instrument used to measure properties of light over a specific portion of the electromagnetic spectrum, typically used in spectroscopic analysis to identify materials. The variable measured is most often the irradiance of the light but could also, for instance, be the polarization state." ([Wikipedia](https://en.wikipedia.org/wiki/Optical_spectrometer))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Spectrograph design]]

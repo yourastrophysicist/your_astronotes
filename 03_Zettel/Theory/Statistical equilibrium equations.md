@@ -63,6 +63,14 @@ most photoionisation codes iterate:
 
 this is the photoionisation equilibrium calculation (Cloudy, MAPPINGS V).
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Detailed balance**. "In thermodynamics, the principle of detailed balance says that every process of energy transfer in one direction must also allow energy transfer in the opposite direction, and in equilibrium, the flux in both directions must be equal. For example, the principle can be used in kinetic systems which are decomposed into elementary processes (collisions, or steps, or elementary reactions)." ([Wikipedia](https://en.wikipedia.org/wiki/Detailed_balance))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Two-level atom]]

@@ -155,6 +155,17 @@ the spine of any oral question on the atmosphere is:
 4. **explain what AO does**: real-time wavefront measurement and correction, breaks the seeing limit, only really works in NIR, needs a guide star. the Strehl ratio is the figure of merit.
 5. **finish with where space wins**: UV ($< 300$ nm), far-IR ($25$ to $300\,\mu$m), and any science where stability or photometric precision beats raw aperture.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Atmosphere of Earth|500](https://commons.wikimedia.org/wiki/Special:FilePath/Top_of_Atmosphere.jpg?width=600)
+*Lead figure of the Wikipedia article Atmosphere of Earth* ([Commons file page](https://commons.wikimedia.org/wiki/File:Top_of_Atmosphere.jpg), NASA Earth Observatory, Public domain, as used on the Wikipedia article [Atmosphere of Earth](https://en.wikipedia.org/wiki/Atmosphere_of_Earth))
+
+- **Atmosphere of Earth**. "The atmosphere of Earth consists of a multi-layered gas mixture (commonly referred to as air) surrounding the Earth's planetary surface, which is retained by gravity. Like the atmospheres of other planets, Earth's atmosphere also contains variable quantities of suspended aerosols and particulates that create weather features such as clouds and hazes." ([Wikipedia](https://en.wikipedia.org/wiki/Atmosphere_of_Earth))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Observational_Astrophysics_MOC]] — Block 2 lives here

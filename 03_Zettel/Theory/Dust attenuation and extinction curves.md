@@ -67,6 +67,18 @@ a starburst / LIRG can have $A_V \sim 3$, $A_{\text{1500}} \sim 10$, almost all 
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Cosmic dust|500](https://commons.wikimedia.org/wiki/Special:FilePath/Porous_chondriteIDP.jpg?width=600)
+*Lead figure of the Wikipedia article Cosmic dust* ([Commons file page](https://commons.wikimedia.org/wiki/File:Porous_chondriteIDP.jpg), The original uploader was Amara at English Wikipedia., CC BY 1.0, as used on the Wikipedia article [Cosmic dust](https://en.wikipedia.org/wiki/Cosmic_dust))
+
+- **Cosmic dust**. "Cosmic dust – also called extraterrestrial dust, space dust, or star dust – is dust that occurs in outer space or has fallen onto Earth. Most cosmic dust particles measure between a few molecules and 0.1 mm (100 μm), such as micrometeoroids (<30 μm) and meteoroids (>30 μm)." ([Wikipedia](https://en.wikipedia.org/wiki/Cosmic_dust))
+- **The Dust Attenuation Law in Galaxies**. "Understanding the properties and physical mechanisms that shape dust attenuation curves in galaxies is one of the fundamental questions of extragalactic astrophysics, with a great practical significance for deriving the physical properties of galaxies, such as the star formation rate and stellar mass." ([arXiv:2001.03181](https://arxiv.org/abs/2001.03181))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Balmer decrement]]

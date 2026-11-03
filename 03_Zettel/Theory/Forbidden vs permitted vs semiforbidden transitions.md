@@ -53,6 +53,14 @@ the **two together** give complementary diagnostics:
 
 so the entire framework of nebular diagnostics ($T_e$, $n_e$, abundances) hinges on knowing which lines are permitted, which forbidden, and how each behaves.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Selection rule**. "In physics and chemistry, a selection rule, or transition rule, formally constrains the possible transitions of a system from one quantum state to another. Selection rules have been derived for electromagnetic transitions in molecules, in atoms, in atomic nuclei, and so on. The selection rules may differ according to the technique used to observe the transition." ([Wikipedia](https://en.wikipedia.org/wiki/Selection_rule))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Selection rules]]

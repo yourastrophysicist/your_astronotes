@@ -146,6 +146,17 @@ for name, val, err in zip(['A', 'λ', 'C'], popt, sigma_p):
     print(f"{name} = {val:.4g} ± {err:.4g}")
 ```
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Curve fitting|500](https://commons.wikimedia.org/wiki/Special:FilePath/Regression_pic_assymetrique.gif?width=600)
+*Lead figure of the Wikipedia article Curve fitting* ([Commons file page](https://commons.wikimedia.org/wiki/File:Regression_pic_assymetrique.gif), Cdang (Christophe Dang Ngoc Chan), CC BY-SA 3.0, as used on the Wikipedia article [Curve fitting](https://en.wikipedia.org/wiki/Curve_fitting))
+
+- **Curve fitting**. "Curve fitting is the process of constructing a curve, or mathematical function, that has the best fit to a series of data points, possibly subject to constraints. Curve fitting can involve either interpolation, where an exact fit to the data is required, or smoothing, in which a "smooth" function is constructed that approximately fits the data." ([Wikipedia](https://en.wikipedia.org/wiki/Curve_fitting))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Linear least squares]]

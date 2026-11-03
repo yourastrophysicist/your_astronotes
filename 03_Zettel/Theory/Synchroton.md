@@ -83,6 +83,14 @@ The spectrum is defined within $[\nu_{min}, \nu_{max}]$:
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Synchrotron radiation**. "Synchrotron radiation (also known as magnetobremsstrahlung) is the electromagnetic radiation emitted when relativistic charged particles are subject to an acceleration perpendicular to their velocity (a ⊥ v). It is produced artificially in some types of particle accelerators or naturally by fast electrons moving through magnetic fields." ([Wikipedia](https://en.wikipedia.org/wiki/Synchrotron_radiation))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Free-free continuum]]

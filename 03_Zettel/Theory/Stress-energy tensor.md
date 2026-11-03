@@ -69,6 +69,18 @@ see [[Continuity equation]] and [[Equation of state and density scaling]].
 
 in the weak-field, slow-motion limit, $T^{00} \to \rho c^2$ (mass-energy density), $T^{0i} \to \rho c v^i$, $T^{ij} \to $ small. plugging into Einstein's equation reproduces Poisson's equation $\nabla^2 \Phi = 4\pi G \rho$.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Stress–energy tensor|500](https://commons.wikimedia.org/wiki/Special:FilePath/StressEnergyTensor_contravariant.svg?width=600)
+*Contravariant components of the Stress-EnergyTensor, based on the work of file:StressEnergyTensor.svg by Bamse and Melchoir, recolourized and corrected* ([Commons file page](https://commons.wikimedia.org/wiki/File:StressEnergyTensor_contravariant.svg), Maschen, based on File:StressEnergyTensor.svg created by Bamse, CC0, as used on the Wikipedia article [Stress–energy tensor](https://en.wikipedia.org/wiki/Stress%E2%80%93energy_tensor))
+
+- **Stress–energy tensor**. "The stress–energy tensor, sometimes called the stress–energy–momentum tensor or the energy–momentum tensor, is a tensor field quantity that describes the density and flux of energy and momentum at each point in spacetime, generalizing the stress tensor of Newtonian physics. It is an attribute of matter, radiation, and non-gravitational force fields." ([Wikipedia](https://en.wikipedia.org/wiki/Stress%E2%80%93energy_tensor))
+- **Lecture Notes on General Relativity**. "These notes represent approximately one semester's worth of lectures on introductory general relativity for beginning graduate students in physics. Topics include manifolds, Riemannian geometry, Einstein's equations, and three applications: gravitational radiation, black holes, and cosmology." ([arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Einstein equations]]

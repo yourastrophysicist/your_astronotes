@@ -244,6 +244,18 @@ Two fundamental demarcation curves divide the BPT plane
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![H II region|500](https://commons.wikimedia.org/wiki/Special:FilePath/Nursery_of_New_Stars_-_GPN-2000-000972.jpg?width=600)
+*Lead figure of the Wikipedia article H II region* ([Commons file page](https://commons.wikimedia.org/wiki/File:Nursery_of_New_Stars_-_GPN-2000-000972.jpg), Hui Yang (University of Illinois) and NASA/ESA, Public domain, as used on the Wikipedia article [H II region](https://en.wikipedia.org/wiki/H_II_region))
+
+- **H II region**. "An H II region is a region of interstellar atomic hydrogen that is ionized. It is typically in a molecular cloud of partially ionized gas in which star formation has recently taken place, with a size ranging from one to hundreds of light years, and density from a few to about a million particles per cubic centimetre." ([Wikipedia](https://en.wikipedia.org/wiki/H_II_region))
+- **Understanding Galaxy Evolution through Emission Lines**. "We review the use of emission-lines for understanding galaxy evolution, focusing on excitation source, metallicity, ionization parameter, ISM pressure and electron density. We show that the UV, optical and infrared contain complementary diagnostics that can probe the conditions within different nebular ionization zones." ([arXiv:1910.09730](https://arxiv.org/abs/1910.09730))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[BPT diagram]]

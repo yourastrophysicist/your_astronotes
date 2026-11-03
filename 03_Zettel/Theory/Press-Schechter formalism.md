@@ -52,6 +52,15 @@ $$\boxed{\, \frac{dn}{dM} = \sqrt{\frac{2}{\pi}} \frac{\bar{\rho}}{M} \frac{\del
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Press–Schechter formalism**. "The Press–Schechter formalism is a mathematical model for predicting the number of objects (such as galaxies, galaxy clusters or dark matter halos) of a certain mass within a given volume of the Universe. It was described in an academic paper by William H. Press and Paul Schechter in 1974." ([Wikipedia](https://en.wikipedia.org/wiki/Press%E2%80%93Schechter_formalism))
+- **The Excursion Set Theory of Halo Mass Functions, Halo Clustering, and Halo Growth**. "I review the excursion set theory (EST) of dark matter halo formation and clustering. I recount the Press-Schechter argument for the mass function of bound objects and review the derivation of the Press-Schechter mass function in EST. The EST formalism is powerful and can be applied to numerous problems. I review the EST of halo bias and the properties of void regions." ([arXiv:astro-ph/0611454](https://arxiv.org/abs/astro-ph/0611454))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Observational_Cosmology_MOC]]

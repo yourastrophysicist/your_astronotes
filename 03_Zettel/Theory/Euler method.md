@@ -74,6 +74,17 @@ note the order: $\mathbf{p}$ first (using current $\mathbf{q}$), then $\mathbf{q
 
 semi-implicit Euler is the simplest symplectic integrator, and the conceptual ancestor of [[Leapfrog integrator]].
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Euler method|500](https://commons.wikimedia.org/wiki/Special:FilePath/Euler_method.svg?width=600)
+*Lead figure of the Wikipedia article Euler method* ([Commons file page](https://commons.wikimedia.org/wiki/File:Euler_method.svg), see file page, Public domain, as used on the Wikipedia article [Euler method](https://en.wikipedia.org/wiki/Euler_method))
+
+- **Euler method**. "In mathematics and computational science, the Euler method (also called the forward Euler method) is a first-order numerical procedure for solving ordinary differential equations (ODEs) with a given initial value. It is the most basic explicit method for numerical integration of ordinary differential equations and is the simplest Runge–Kutta method." ([Wikipedia](https://en.wikipedia.org/wiki/Euler_method))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Runge-Kutta 2 midpoint method]] — $O(h^2)$ at twice the cost

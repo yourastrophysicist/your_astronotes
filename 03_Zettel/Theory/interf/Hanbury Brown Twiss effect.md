@@ -72,6 +72,15 @@ at $\tau = 0$ and $\mathbf B$ small, $g^{(2)} = 2$ → twice as many coincidence
 
 this picture connects HBT to modern quantum optics, where photon-counting statistics are the foundation.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Hanbury Brown and Twiss effect**. "In physics, the Hanbury Brown and Twiss (HBT) effect is any of a variety of correlation and anti-correlation effects in the intensities received by two detectors from a beam of particles. HBT effects can generally be attributed to the wave–particle duality of the beam, and the results of a given experiment depend on whether the beam is composed of fermions or bosons." ([Wikipedia](https://en.wikipedia.org/wiki/Hanbury_Brown_and_Twiss_effect))
+- **Optical Intensity Interferometry with the Cherenkov Telescope Array**. "With its unprecedented light-collecting area for night-sky observations, the Cherenkov Telescope Array (CTA) holds great potential for also optical stellar astronomy, in particular as a multi-element intensity interferometer for realizing imaging with sub-milliarcsecond angular resolution." ([arXiv:1204.3624](https://arxiv.org/abs/1204.3624))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Intensity interferometry concept]]

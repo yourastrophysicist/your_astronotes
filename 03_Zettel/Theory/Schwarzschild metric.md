@@ -49,6 +49,15 @@ for typical objects (with $r_s = 2GM$):
 - **galactic centre BH** (Sgr A$^\star$, $4 \times 10^6\,M_\odot$): $r_s = 1.2 \times 10^7$ km, slightly bigger than the Sun.
 - **supermassive BH** (e.g. M87, $6.5\times 10^9\,M_\odot$): $r_s = 2 \times 10^{10}$ km, ~$120$ AU.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Schwarzschild metric**. "In Einstein's theory of general relativity, the Schwarzschild metric (also known as the Schwarzschild solution) is an exact solution to the Einstein field equations that describes the gravitational field outside a spherical mass, on the assumption that the electric charge of the mass, angular momentum of the mass, and universal cosmological constant are all zero." ([Wikipedia](https://en.wikipedia.org/wiki/Schwarzschild_metric))
+- **Lecture Notes on General Relativity**. "These notes represent approximately one semester's worth of lectures on introductory general relativity for beginning graduate students in physics. Topics include manifolds, Riemannian geometry, Einstein's equations, and three applications: gravitational radiation, black holes, and cosmology." ([arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Birkhoff theorem]]

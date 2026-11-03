@@ -123,6 +123,17 @@ z_query[~in_range] = np.nan
 
 or set `bounds_error=True` (default in many scipy interpolators) to raise an error.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Bilinear interpolation|500](https://commons.wikimedia.org/wiki/Special:FilePath/Bilininterp.png?width=600)
+*Lead figure of the Wikipedia article Bilinear interpolation* ([Commons file page](https://commons.wikimedia.org/wiki/File:Bilininterp.png), see file page, Public domain, as used on the Wikipedia article [Bilinear interpolation](https://en.wikipedia.org/wiki/Bilinear_interpolation))
+
+- **Bilinear interpolation**. "In mathematics, bilinear interpolation is a method for interpolating functions of two variables (e.g., x and y) using repeated linear interpolation. It is usually applied to functions sampled on a 2D rectilinear grid, though it can be generalized to functions defined on the vertices of (a mesh of) arbitrary convex quadrilaterals." ([Wikipedia](https://en.wikipedia.org/wiki/Bilinear_interpolation))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Linear interpolation]]

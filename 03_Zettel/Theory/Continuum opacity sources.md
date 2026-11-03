@@ -56,6 +56,17 @@ so the spectrum shape is **not** just a Planck curve; it is modulated by the wav
 
 ratios of continuum fluxes at carefully chosen wavelengths (e.g. just blue and red of the Balmer jump) provide $T$ + $\log g$ proxies. this is the basis of photometric stellar classification (Strömgren $uvby\beta$ system, Geneva system, Vilnius).
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Opacity|500](https://commons.wikimedia.org/wiki/Special:FilePath/Opacity_Translucency_Transparency.svg?width=600)
+*Opacity Translucency Transparency comparison* ([Commons file page](https://commons.wikimedia.org/wiki/File:Opacity_Translucency_Transparency.svg), Anynobody, CC BY-SA 3.0, as used on the Wikipedia article [Opacity](https://en.wikipedia.org/wiki/Opacity))
+
+- **Opacity**. "Opacity is the measure of impenetrability to electromagnetic or other kinds of radiation, especially visible light. In radiative transfer, it describes the absorption and scattering of radiation in a medium, such as a plasma, dielectric, shielding material, glass, etc. An opaque object is neither transparent nor translucent." ([Wikipedia](https://en.wikipedia.org/wiki/Opacity))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Equation of radiative transfer]]

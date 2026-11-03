@@ -136,6 +136,17 @@ Burrau (1913) hand-computed the first ~50 time units. Szebehely & Peters (1967) 
 
 the system has been a benchmark for chaotic-dynamics integrators ever since. one of the deeper results: even the *qualitative* outcome (which star escapes) depends on numerical precision. arbitrary-precision integrators have shown the question is well-defined but extraordinarily sensitive.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Three-body problem|500](https://commons.wikimedia.org/wiki/Special:FilePath/Three-body_Problem_Animation_with_COM.gif?width=600)
+*Approximate trajectories of three bodies of the same mass with zero initial velocities, demonstrating that, provided the system is closed, the centre of mass will be stationary* ([Commons file page](https://commons.wikimedia.org/wiki/File:Three-body_Problem_Animation_with_COM.gif), Dnttllthmmnm, CC BY-SA 4.0, as used on the Wikipedia article [Three-body problem](https://en.wikipedia.org/wiki/Three-body_problem))
+
+- **Three-body problem**. "In physics, specifically classical mechanics, the three-body problem is to take the initial positions and velocities (or momenta) of three point masses orbiting each other in space and then to calculate their subsequent trajectories using Newton's laws of motion and Newton's law of universal gravitation. Unlike the two-body problem, the three-body problem has no general closed-form analytic solution." ([Wikipedia](https://en.wikipedia.org/wiki/Three-body_problem))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Astrophysical N-body problem formulation]]

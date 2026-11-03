@@ -78,6 +78,14 @@ a cosmological constant has $w = -1$ exactly. observed $w \approx -1$ to $\sim 1
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Deceleration parameter**. "The deceleration parameter q $q$ in cosmology is a dimensionless measure of the cosmic acceleration of the expansion of space in a Friedmann–Lemaître–Robertson–Walker universe. It is defined by: q = d e f − a ¨ a a ˙ 2 $q\ {\stackrel {\mathrm {def} }{=}}\ -{\frac { {\ddot {a}}a}{ {\dot {a}}^{2}}}$ where a $a$ is the scale factor of the universe and the dots indicate derivatives by proper time." ([Wikipedia](https://en.wikipedia.org/wiki/Deceleration_parameter))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

@@ -59,6 +59,17 @@ this is the standard way to populate the [[HR diagram]] with both luminosity and
 
 instead of using $BC$, fit a model spectrum (Kurucz, PHOENIX, BT-Settl) to multi-band photometry directly. recovers $T_{\rm eff}$, $\log g$, $[Fe/H]$, and integrated $L$ in one Bayesian step. requires good filter throughput knowledge and reliable model atmospheres.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Bolometric correction|500](https://commons.wikimedia.org/wiki/Special:FilePath/Bolometrische_Korrektur_versus_Spektraltyp.png?width=600)
+*Lead figure of the Wikipedia article Bolometric correction* ([Commons file page](https://commons.wikimedia.org/wiki/File:Bolometrische_Korrektur_versus_Spektraltyp.png), Michael Oestreicher, CC BY-SA 4.0, as used on the Wikipedia article [Bolometric correction](https://en.wikipedia.org/wiki/Bolometric_correction))
+
+- **Bolometric correction**. "In astronomy, the bolometric correction is the correction made to the absolute visual magnitude of an object in order to convert it to an absolute bolometric magnitude. It is large for stars which radiate most of their energy outside of the visible range. A uniform scale for the correction has not yet been standardized." ([Wikipedia](https://en.wikipedia.org/wiki/Bolometric_correction))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Magnitudes and photometric systems]]

@@ -50,6 +50,14 @@ Na D appears as absorption in stars cooler than $\sim$ G0, becomes very strong i
 
 in hotter stars (B, A, F), Na is mostly ionised; the Na I D lines are weak or absent. so D-line strength **decreases with increasing $T$**.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Alkali metal**. "The alkali metals consist of the chemical elements lithium (Li), sodium (Na), potassium (K), rubidium (Rb), caesium (Cs), and francium (Fr). Together with hydrogen they constitute group 1, which lies in the s-block of the periodic table. All alkali metals have their outermost electron in an s-orbital: this shared electron configuration results in them having very similar characteristic properties." ([Wikipedia](https://en.wikipedia.org/wiki/Alkali_metal))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Quantum numbers and atomic states]]

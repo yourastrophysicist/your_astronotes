@@ -104,6 +104,17 @@ ALMA images the *outer* disk (10-100 AU); GRAVITY/VLTI images the *inner* disk (
 
 YSO surveys often combine both: ALMA for outer-disk gas/dust, VLTI/CHARA for inner-disk structure. modern science papers routinely fuse these data.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Protoplanetary disk|500](https://commons.wikimedia.org/wiki/Special:FilePath/HL_Tau_protoplanetary_disk.jpg?width=600)
+*Lead figure of the Wikipedia article Protoplanetary disk* ([Commons file page](https://commons.wikimedia.org/wiki/File:HL_Tau_protoplanetary_disk.jpg), ALMA (ESO/NAOJ/NRAO), CC BY 4.0, as used on the Wikipedia article [Protoplanetary disk](https://en.wikipedia.org/wiki/Protoplanetary_disk))
+
+- **Protoplanetary disk**. "A protoplanetary disk is a rotating circumstellar disc of dense gas and dust surrounding a young newly formed star, a T Tauri star, or Herbig Ae/Be star. The protoplanetary disk may not be considered an accretion disk; while the two are similar, an accretion disk is hotter and spins much faster, accreting matter onto a central body; it is also found on black holes, not only stars." ([Wikipedia](https://en.wikipedia.org/wiki/Protoplanetary_disk))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[VLTI Very Large Telescope Interferometer]]

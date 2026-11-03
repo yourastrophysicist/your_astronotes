@@ -68,6 +68,15 @@ inflation generates:
 
 current bound: $r < 0.06$ from CMB B-mode searches. detecting primordial GW would directly confirm inflation.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Cosmological perturbation theory**. "In physical cosmology, cosmological perturbation theory is the theory by which the evolution of structure is understood in the Big Bang model. Cosmological perturbation theory may be broken into two categories: Newtonian or general relativistic." ([Wikipedia](https://en.wikipedia.org/wiki/Cosmological_perturbation_theory))
+- **Cosmological perturbations**. "We review the study of inhomogeneous perturbations about a homogeneous and isotropic background cosmology. We adopt a coordinate based approach, but give geometrical interpretations of metric perturbations in terms of the expansion, shear and curvature of constant-time hypersurfaces and the orthogonal timelike vector field." ([arXiv:0809.4944](https://arxiv.org/abs/0809.4944))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Linearized metric perturbation]]

@@ -83,6 +83,14 @@ at each frequency channel. lets us image the spatial structure at each emission 
 
 introduced by **Lohmann, Weigelt, and Wirnitzer** (1983) — the "Erlangen group" in Germany. they showed that speckle data, processed via the bispectrum, recovered images with full asymmetric structure. the technique has been the standard for high-resolution single-aperture imaging since.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Bispectrum**. "In mathematics, in the area of statistical analysis, the bispectrum is a statistic used to search for nonlinear interactions. It is the third-order Polyspectrum." ([Wikipedia](https://en.wikipedia.org/wiki/Bispectrum))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Speckle interferometry]]

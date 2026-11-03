@@ -119,6 +119,17 @@ reading cue: VLTI depends on delay lines because the telescopes are separated ac
 
 source: ESO image eso9811a, VLTI delay line schematic.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Very Large Telescope|500](https://commons.wikimedia.org/wiki/Special:FilePath/Paranal_and_the_Pacific_at_sunset_%28dsc4088%2C_retouched%2C_cropped%29.jpg?width=600)
+*Lead figure of the Wikipedia article Very Large Telescope* ([Commons file page](https://commons.wikimedia.org/wiki/File:Paranal_and_the_Pacific_at_sunset_%28dsc4088,_retouched,_cropped%29.jpg), ESO/G. Hüdepohl (atacamaphoto.com), CC BY 4.0, as used on the Wikipedia article [Very Large Telescope](https://en.wikipedia.org/wiki/Very_Large_Telescope))
+
+- **Very Large Telescope**. "The Very Large Telescope (VLT) is an astronomical facility operated since 1998 by the European Southern Observatory, located on Cerro Paranal in the Atacama Desert of northern Chile. It consists of four individual telescopes, each equipped with a primary mirror that measures 8.2 metres (27 ft) in diameter." ([Wikipedia](https://en.wikipedia.org/wiki/Very_Large_Telescope))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Components of a modern interferometer]]

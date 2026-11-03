@@ -232,6 +232,123 @@ all **433 lecture slide figures** from the 9 official course PDFs live in `07_Im
 
 ---
 
+<!-- moc-sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+Every zettel in this map ends with a short sourced section: a definition quoted from Wikipedia (107 zettels) or from the abstract of an arXiv review (41 zettels), and, where a free figure exists, the credited lead figure of the Wikipedia article (Wikimedia Commons) or a figure from an openly licensed arXiv paper. The lecture-slide figures above are unchanged.
+
+| Zettel | Wikipedia | arXiv review | Figure |
+|---|---|---|---|
+| [[Aberration of light]] | [Aberration (astronomy)](https://en.wikipedia.org/wiki/Aberration_%28astronomy%29) |  | Commons |
+| [[Alt-azimuth equatorial transformations]] | [Astronomical coordinate systems](https://en.wikipedia.org/wiki/Astronomical_coordinate_systems) |  | Commons |
+| [[Alt-azimuth ↔ equatorial transformations]] | [Astronomical coordinate systems](https://en.wikipedia.org/wiki/Astronomical_coordinate_systems) |  | Commons |
+| [[Annual stellar parallax]] | [Stellar parallax](https://en.wikipedia.org/wiki/Stellar_parallax) |  | Commons |
+| [[Atmospheric refraction]] | [Atmospheric refraction](https://en.wikipedia.org/wiki/Atmospheric_refraction) |  | Commons |
+| [[Baryogenesis]] | [Baryogenesis](https://en.wikipedia.org/wiki/Baryogenesis) |  |  |
+| [[BBN_baryon_to_photon_ratio]] | [Baryon asymmetry](https://en.wikipedia.org/wiki/Baryon_asymmetry) | [arXiv:1505.01076](https://arxiv.org/abs/1505.01076) | Commons |
+| [[BBN_concordance_with_CMB]] | [Big Bang nucleosynthesis](https://en.wikipedia.org/wiki/Big_Bang_nucleosynthesis) | [arXiv:1505.01076](https://arxiv.org/abs/1505.01076) |  |
+| [[BBN_neutron_proton_ratio]] | [Big Bang nucleosynthesis](https://en.wikipedia.org/wiki/Big_Bang_nucleosynthesis) | [arXiv:1505.01076](https://arxiv.org/abs/1505.01076) |  |
+| [[BBN_NSE_initial_conditions]] | [Big Bang nucleosynthesis](https://en.wikipedia.org/wiki/Big_Bang_nucleosynthesis) | [arXiv:1505.01076](https://arxiv.org/abs/1505.01076) |  |
+| [[BBN_observations]] | [Big Bang nucleosynthesis](https://en.wikipedia.org/wiki/Big_Bang_nucleosynthesis) | [arXiv:1505.01076](https://arxiv.org/abs/1505.01076) |  |
+| [[BBN_overview]] | [Big Bang nucleosynthesis](https://en.wikipedia.org/wiki/Big_Bang_nucleosynthesis) | [arXiv:1505.01076](https://arxiv.org/abs/1505.01076) |  |
+| [[BBN_predictions]] | [Big Bang nucleosynthesis](https://en.wikipedia.org/wiki/Big_Bang_nucleosynthesis) | [arXiv:1505.01076](https://arxiv.org/abs/1505.01076) |  |
+| [[BBN_three_steps]] | [Big Bang nucleosynthesis](https://en.wikipedia.org/wiki/Big_Bang_nucleosynthesis) | [arXiv:1505.01076](https://arxiv.org/abs/1505.01076) |  |
+| [[Binary star evolution and mass transfer]] | [Binary star](https://en.wikipedia.org/wiki/Binary_star) |  | Commons |
+| [[Blackbody radiation and Stefan-Boltzmann]] | [Stefan–Boltzmann law](https://en.wikipedia.org/wiki/Stefan%E2%80%93Boltzmann_law) |  | Commons |
+| [[Boltzmann equation in cosmology]] | [Boltzmann equation](https://en.wikipedia.org/wiki/Boltzmann_equation) |  | Commons |
+| [[Brief thermal history]] | [Chronology of the universe](https://en.wikipedia.org/wiki/Chronology_of_the_universe) |  |  |
+| [[Celestial sphere and great circles]] | [Celestial sphere](https://en.wikipedia.org/wiki/Celestial_sphere) |  | Commons |
+| [[Cepheids and supernovae]] | [Cosmic distance ladder](https://en.wikipedia.org/wiki/Cosmic_distance_ladder) | [arXiv:1004.1856](https://arxiv.org/abs/1004.1856) | Commons |
+| [[Cluster ages from CMD turnoff]] | [Main sequence turnoff](https://en.wikipedia.org/wiki/Main_sequence_turnoff) |  | Commons |
+| [[CMB Spectral Distortions - What They Are and Where They Come From]] | [Cosmic microwave background spectral distortions](https://en.wikipedia.org/wiki/Cosmic_microwave_background_spectral_distortions) |  |  |
+| [[Conservation of entropy in a comoving volume]] | [Entropy (statistical thermodynamics)](https://en.wikipedia.org/wiki/Entropy_%28statistical_thermodynamics%29) |  |  |
+| [[Cosmic_inventory_baryons]] | [Baryon](https://en.wikipedia.org/wiki/Baryon) |  | Commons |
+| [[Cosmic_inventory_dark_energy]] | [Dark energy](https://en.wikipedia.org/wiki/Dark_energy) | [arXiv:1201.2434](https://arxiv.org/abs/1201.2434) |  |
+| [[Cosmic_inventory_dark_matter]] | [Dark matter](https://en.wikipedia.org/wiki/Dark_matter) | [arXiv:hep-ph/0404175](https://arxiv.org/abs/hep-ph/0404175) |  |
+| [[Cosmic_inventory_neutrinos]] | [Cosmic neutrino background](https://en.wikipedia.org/wiki/Cosmic_neutrino_background) |  |  |
+| [[Cosmic_inventory_overview]] | [Lambda-CDM model](https://en.wikipedia.org/wiki/Lambda-CDM_model) |  |  |
+| [[Cosmic_inventory_photons]] | [Cosmic microwave background](https://en.wikipedia.org/wiki/Cosmic_microwave_background) | [arXiv:astro-ph/0110414](https://arxiv.org/abs/astro-ph/0110414) | Commons |
+| [[Cosmic_inventory_photons_derivation]] | [Cosmic microwave background](https://en.wikipedia.org/wiki/Cosmic_microwave_background) | [arXiv:astro-ph/0110414](https://arxiv.org/abs/astro-ph/0110414) | Commons |
+| [[Cosmological distances]] | [Distance measure](https://en.wikipedia.org/wiki/Distance_measure) |  |  |
+| [[Cosmological principle]] | [Cosmological principle](https://en.wikipedia.org/wiki/Cosmological_principle) |  |  |
+| [[Cosmology calculator - how to use H0 Omega_m Omega_Lambda to get dL dA t_lookback]] | [Lambda-CDM model](https://en.wikipedia.org/wiki/Lambda-CDM_model) |  |  |
+| [[Culmination and rise-set]] | [Culmination](https://en.wikipedia.org/wiki/Culmination) |  | Commons |
+| [[Curvature parameter k]] | [Shape of the universe](https://en.wikipedia.org/wiki/Shape_of_the_universe) |  |  |
+| [[Dark matter on galactic scales]] | [Galaxy rotation curve](https://en.wikipedia.org/wiki/Galaxy_rotation_curve) | [arXiv:astro-ph/0010594](https://arxiv.org/abs/astro-ph/0010594) | Commons |
+| [[Dark matter relics - WIMP miracle]] | [Weakly interacting massive particle](https://en.wikipedia.org/wiki/Weakly_interacting_massive_particle) | [arXiv:hep-ph/0404175](https://arxiv.org/abs/hep-ph/0404175) |  |
+| [[Decoupling and freeze-out]] | [Decoupling (cosmology)](https://en.wikipedia.org/wiki/Decoupling_%28cosmology%29) | [arXiv:astro-ph/0110414](https://arxiv.org/abs/astro-ph/0110414) |  |
+| [[Density parameters and flatness]] | [Flatness problem](https://en.wikipedia.org/wiki/Flatness_problem) | [arXiv:0907.5424](https://arxiv.org/abs/0907.5424) | Commons |
+| [[Distance ladder derivations]] | [Cosmic distance ladder](https://en.wikipedia.org/wiki/Cosmic_distance_ladder) | [arXiv:1004.1856](https://arxiv.org/abs/1004.1856) | Commons |
+| [[Earth atmosphere for observations]] | [Atmosphere of Earth](https://en.wikipedia.org/wiki/Atmosphere_of_Earth) |  | Commons |
+| [[Earth coordinates]] | [Geographic coordinate system](https://en.wikipedia.org/wiki/Geographic_coordinate_system) |  | Commons |
+| [[Ecliptic system]] | [Ecliptic coordinate system](https://en.wikipedia.org/wiki/Ecliptic_coordinate_system) |  | Commons |
+| [[Electromagnetic radiation basics]] | [Electromagnetic radiation](https://en.wikipedia.org/wiki/Electromagnetic_radiation) |  | Commons |
+| [[Equatorial system]] | [Equatorial coordinate system](https://en.wikipedia.org/wiki/Equatorial_coordinate_system) |  | Commons |
+| [[Friedmann equations with Lambda]] | [Friedmann equations](https://en.wikipedia.org/wiki/Friedmann_equations) |  |  |
+| [[Friedmann models]] | [Friedmann–Lemaître–Robertson–Walker metric](https://en.wikipedia.org/wiki/Friedmann%E2%80%93Lema%C3%AEtre%E2%80%93Robertson%E2%80%93Walker_metric) |  |  |
+| [[Galactic Center]] | [Galactic Center](https://en.wikipedia.org/wiki/Galactic_Center) | [arXiv:1602.07702](https://arxiv.org/abs/1602.07702) | Commons |
+| [[Galactic coordinate system]] | [Galactic coordinate system](https://en.wikipedia.org/wiki/Galactic_coordinate_system) |  | Commons |
+| [[Galaxies across wavelengths]] | [Observational astronomy](https://en.wikipedia.org/wiki/Observational_astronomy) |  | Commons |
+| [[Galaxies in the local universe]] | [Galaxy morphological classification](https://en.wikipedia.org/wiki/Galaxy_morphological_classification) | [arXiv:1403.2783](https://arxiv.org/abs/1403.2783) | Commons |
+| [[Galaxy clusters and overview of evolution]] | [Galaxy cluster](https://en.wikipedia.org/wiki/Galaxy_cluster) |  | Commons |
+| [[Galaxy morphology vs physical properties]] | [Galaxy morphological classification](https://en.wikipedia.org/wiki/Galaxy_morphological_classification) | [arXiv:1403.2783](https://arxiv.org/abs/1403.2783) | Commons |
+| [[Growth factor D(z)]] | [Structure formation](https://en.wikipedia.org/wiki/Structure_formation) | [arXiv:0809.4944](https://arxiv.org/abs/0809.4944) |  |
+| [[Horizontal alt-azimuth system]] | [Horizontal coordinate system](https://en.wikipedia.org/wiki/Horizontal_coordinate_system) |  | Commons |
+| [[Hot vs cold dark matter]] | [Hot dark matter](https://en.wikipedia.org/wiki/Hot_dark_matter) | [arXiv:hep-ph/0404175](https://arxiv.org/abs/hep-ph/0404175) |  |
+| [[HR diagram]] | [Hertzsprung–Russell diagram](https://en.wikipedia.org/wiki/Hertzsprung%E2%80%93Russell_diagram) |  | Commons |
+| [[Hubble constant and deceleration parameter]] | [Deceleration parameter](https://en.wikipedia.org/wiki/Deceleration_parameter) |  |  |
+| [[Hubble law derivation low-z]] | [Hubble's law](https://en.wikipedia.org/wiki/Hubble%27s_law) | [arXiv:1004.1856](https://arxiv.org/abs/1004.1856) | Commons |
+| [[Hubble law exact form]] | [Hubble's law](https://en.wikipedia.org/wiki/Hubble%27s_law) | [arXiv:1004.1856](https://arxiv.org/abs/1004.1856) | Commons |
+| [[Hubble morphological sequence]] | [Hubble sequence](https://en.wikipedia.org/wiki/Hubble_sequence) | [arXiv:1403.2783](https://arxiv.org/abs/1403.2783) | Commons |
+| [[Hubble's law and cosmological redshift]] | [Hubble's law](https://en.wikipedia.org/wiki/Hubble%27s_law) | [arXiv:1004.1856](https://arxiv.org/abs/1004.1856) | Commons |
+| [[Inflation overview]] | [Cosmic inflation](https://en.wikipedia.org/wiki/Cosmic_inflation) | [arXiv:0907.5424](https://arxiv.org/abs/0907.5424) |  |
+| [[Inflaton scalar field dynamics]] | [Inflaton](https://en.wikipedia.org/wiki/Inflaton) | [arXiv:0907.5424](https://arxiv.org/abs/0907.5424) |  |
+| [[Interstellar absorption]] | [Extinction (astronomy)](https://en.wikipedia.org/wiki/Extinction_%28astronomy%29) |  | Commons |
+| [[Interstellar medium components and gas cycle]] | [Interstellar medium](https://en.wikipedia.org/wiki/Interstellar_medium) |  | Commons |
+| [[Jeans analysis in expanding universe]] | [Jeans instability](https://en.wikipedia.org/wiki/Jeans_instability) | [arXiv:0809.4944](https://arxiv.org/abs/0809.4944) | Commons |
+| [[Jeans theory and protostellar formation]] | [Star formation](https://en.wikipedia.org/wiki/Star_formation) | [arXiv:1204.3552](https://arxiv.org/abs/1204.3552) |  |
+| [[LambdaCDM current parameters]] | [Lambda-CDM model](https://en.wikipedia.org/wiki/Lambda-CDM_model) |  |  |
+| [[Linear evolution of perturbations in expanding universe]] | [Structure formation](https://en.wikipedia.org/wiki/Structure_formation) | [arXiv:0809.4944](https://arxiv.org/abs/0809.4944) |  |
+| [[Magnitudes and photometric systems]] | [Photometric system](https://en.wikipedia.org/wiki/Photometric_system) |  |  |
+| [[Main sequence, giants, supergiants, white dwarfs]] | [Main sequence](https://en.wikipedia.org/wiki/Main_sequence) |  | Commons |
+| [[Matter power spectrum and BAO]] | [Baryon acoustic oscillations](https://en.wikipedia.org/wiki/Baryon_acoustic_oscillations) | [arXiv:1201.2434](https://arxiv.org/abs/1201.2434) |  |
+| [[Milky Way structure]] | [Milky Way](https://en.wikipedia.org/wiki/Milky_Way) | [arXiv:1602.07702](https://arxiv.org/abs/1602.07702) | Commons |
+| [[Newtonian Friedmann derivation]] | [Friedmann equations](https://en.wikipedia.org/wiki/Friedmann_equations) |  |  |
+| [[Number density and energy density at thermal equilibrium]] | [Maxwell–Boltzmann statistics](https://en.wikipedia.org/wiki/Maxwell%E2%80%93Boltzmann_statistics) |  | Commons |
+| [[Old vs new vs chaotic inflation, slow-roll]] | [Eternal inflation](https://en.wikipedia.org/wiki/Eternal_inflation) |  |  |
+| [[Parallax and standard candles]] | [Cosmic distance ladder](https://en.wikipedia.org/wiki/Cosmic_distance_ladder) | [arXiv:1004.1856](https://arxiv.org/abs/1004.1856) | Commons |
+| [[Photon decoupling and CMB]] | [Cosmic microwave background](https://en.wikipedia.org/wiki/Cosmic_microwave_background) | [arXiv:astro-ph/0110414](https://arxiv.org/abs/astro-ph/0110414) | Commons |
+| [[Pre-main sequence evolution and protostars]] | [Pre-main-sequence star](https://en.wikipedia.org/wiki/Pre-main-sequence_star) |  | Commons |
+| [[Precession and nutation]] | [Axial precession](https://en.wikipedia.org/wiki/Axial_precession) |  | Commons |
+| [[Press-Schechter halo mass function]] | [Press–Schechter formalism](https://en.wikipedia.org/wiki/Press%E2%80%93Schechter_formalism) | [arXiv:astro-ph/0611454](https://arxiv.org/abs/astro-ph/0611454) |  |
+| [[Proper motion and stellar kinematics]] | [Proper motion](https://en.wikipedia.org/wiki/Proper_motion) |  | Commons |
+| [[Radiation quantities and inverse square law]] | [Inverse-square law](https://en.wikipedia.org/wiki/Inverse-square_law) |  | Commons |
+| [[Radiative transport]] | [Radiative transfer](https://en.wikipedia.org/wiki/Radiative_transfer) |  |  |
+| [[Robertson-Walker metric]] | [Friedmann–Lemaître–Robertson–Walker metric](https://en.wikipedia.org/wiki/Friedmann%E2%80%93Lema%C3%AEtre%E2%80%93Robertson%E2%80%93Walker_metric) |  |  |
+| [[Saha equation and recombination]] | [Saha ionization equation](https://en.wikipedia.org/wiki/Saha_ionization_equation) |  |  |
+| [[Sidereal vs solar time]] | [Sidereal time](https://en.wikipedia.org/wiki/Sidereal_time) |  | Commons |
+| [[Solar evolution and final stages]] | [Sun](https://en.wikipedia.org/wiki/Sun) |  | Commons |
+| [[Spectral energy distributions]] | [Spectral energy distribution](https://en.wikipedia.org/wiki/Spectral_energy_distribution) | [arXiv:1301.7095](https://arxiv.org/abs/1301.7095) |  |
+| [[Spherical collapse]] | [Spherical collapse model](https://en.wikipedia.org/wiki/Spherical_collapse_model) | [arXiv:astro-ph/0611454](https://arxiv.org/abs/astro-ph/0611454) |  |
+| [[Spherical trigonometry]] | [Spherical trigonometry](https://en.wikipedia.org/wiki/Spherical_trigonometry) |  | Commons |
+| [[Spherical_astronomy_complete]] | [Spherical astronomy](https://en.wikipedia.org/wiki/Spherical_astronomy) |  | Commons |
+| [[Spiral arm kinematics]] | [Spiral galaxy](https://en.wikipedia.org/wiki/Spiral_galaxy) |  | Commons |
+| [[Standard model problems]] | [Physics beyond the Standard Model](https://en.wikipedia.org/wiki/Physics_beyond_the_Standard_Model) |  | Commons |
+| [[Stellar evolution timescales]] | [Stellar evolution](https://en.wikipedia.org/wiki/Stellar_evolution) |  | Commons |
+| [[Stellar nucleosynthesis]] | [Stellar nucleosynthesis](https://en.wikipedia.org/wiki/Stellar_nucleosynthesis) |  | Commons |
+| [[Stellar populations I II III]] | [Stellar population](https://en.wikipedia.org/wiki/Stellar_population) | [arXiv:1301.7095](https://arxiv.org/abs/1301.7095) | Commons |
+| [[Stellar scaling relations]] | [Mass–luminosity relation](https://en.wikipedia.org/wiki/Mass%E2%80%93luminosity_relation) |  |  |
+| [[Stellar spectra and spectral classification]] | [Stellar classification](https://en.wikipedia.org/wiki/Stellar_classification) |  | Commons |
+| [[Stellar structure equations]] | [Stellar structure](https://en.wikipedia.org/wiki/Stellar_structure) |  | Commons |
+| [[Supernovae and compact remnants]] | [Supernova](https://en.wikipedia.org/wiki/Supernova) |  | Commons |
+| [[Temperature-time relation]] | [Chronology of the universe](https://en.wikipedia.org/wiki/Chronology_of_the_universe) |  |  |
+| [[Thermal equilibrium in the early universe]] | [Thermal equilibrium](https://en.wikipedia.org/wiki/Thermal_equilibrium) |  | Commons |
+| [[Time-redshift relation]] | [Redshift](https://en.wikipedia.org/wiki/Redshift) |  | Commons |
+| [[Type Ia supernovae as standard candles]] | [Type Ia supernova](https://en.wikipedia.org/wiki/Type_Ia_supernova) | [arXiv:1312.0628](https://arxiv.org/abs/1312.0628) |  |
+| [[ΛCDM current parameters]] | [Lambda-CDM model](https://en.wikipedia.org/wiki/Lambda-CDM_model) |  |  |
+
+<!-- /moc-sources:wiki-arxiv -->
+
 ## Oral Exam Defense Preparation Matrix
 
 tailored for the oral exam with **Prof. Nicola Bartolo** & **Prof. Giulia Rodighiero**:

@@ -102,6 +102,14 @@ every step requires choosing the right statistic for the photon count regime
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Astrostatistics**. "Astrostatistics is a discipline which spans astrophysics, statistical analysis and data mining. It is used to process the vast amount of data produced by automated scanning of the cosmos, to characterize complex datasets, and to link astronomical data to astrophysical theory." ([Wikipedia](https://en.wikipedia.org/wiki/Astrostatistics))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Lab_High-Energy_MOC]]

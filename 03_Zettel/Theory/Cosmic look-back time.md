@@ -57,6 +57,14 @@ the look-back time at $z = 5$ is $12.5$ Gyr (out of $13.8$). at $z = 10$ it's $1
 
 physical reason: the universe was compressed in time at early epochs. the first $\sim 1$ Gyr after the Big Bang covers $z = \infty$ down to $z \sim 6$.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Cosmic time**. "Cosmic time, or cosmological time, is the time coordinate used in the Big Bang models of physical cosmology. This concept of time avoids some issues related to relativity by being defined within a solution to the equations of general relativity widely used in cosmology." ([Wikipedia](https://en.wikipedia.org/wiki/Cosmic_time))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Time-redshift relation]]

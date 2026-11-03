@@ -106,6 +106,14 @@ mosaicking enables:
 
 modern interferometric astronomy without mosaicking would be limited to compact, single-pointing sources.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Image stitching**. "Image stitching or photo stitching is the process of combining multiple photographic images with overlapping fields of view to produce a segmented panorama or high-resolution image." ([Wikipedia](https://en.wikipedia.org/wiki/Image_stitching))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[CLEAN algorithm]]

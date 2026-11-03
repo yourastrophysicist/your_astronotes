@@ -42,6 +42,17 @@ These numbers define the Eddington ratios and accretion rates discussed in [[Acc
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Luminosity|500](https://commons.wikimedia.org/wiki/Special:FilePath/The_Sun_in_white_light.jpg?width=600)
+*Lead figure of the Wikipedia article Luminosity* ([Commons file page](https://commons.wikimedia.org/wiki/File:The_Sun_in_white_light.jpg), Matúš Motlo, CC BY-SA 4.0, as used on the Wikipedia article [Luminosity](https://en.wikipedia.org/wiki/Luminosity))
+
+- **Luminosity**. "Luminosity is an absolute measure of radiated electromagnetic energy per unit time, and is synonymous with the radiant power emitted by a light-emitting object. In astronomy, luminosity is the total amount of electromagnetic energy emitted per unit of time by a star, galaxy, or other luminous astronomical object. In SI units, luminosity is measured in joules per second, or watts." ([Wikipedia](https://en.wikipedia.org/wiki/Luminosity))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Lab_High-Energy_MOC]]

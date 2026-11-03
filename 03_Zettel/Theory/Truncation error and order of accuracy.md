@@ -83,6 +83,14 @@ for central difference ($p = 2$): $h_{\rm opt} \sim \epsilon^{1/3} \sim 10^{-5}$
 
 this is why I cannot just "use very small $h$" to make finite differences accurate. see [[Roundoff vs truncation balance]] for the full picture.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Truncation error**. "In numerical analysis and scientific computing, truncation error is an error caused by approximating a mathematical process. The term truncation comes from the fact that these simplifications often involve the truncation of an infinite series expansion so as to make the computation possible and practical." ([Wikipedia](https://en.wikipedia.org/wiki/Truncation_error))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Floating point representation and rounding errors]]

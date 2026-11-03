@@ -61,6 +61,14 @@ so radiation dilutes faster than matter, leading to **matter-radiation equality*
 
 species exchanges (e.g. $e^+$ annihilation transferring energy from $e^\pm$ to photons + neutrinos) need to be tracked carefully.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Continuity equation**. "A continuity equation or transport equation is an equation that describes the transport of some quantity. It is particularly simple and powerful when applied to a conserved quantity, but it can be generalized to apply to any extensive quantity." ([Wikipedia](https://en.wikipedia.org/wiki/Continuity_equation))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Friedmann equations]]

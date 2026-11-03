@@ -91,6 +91,17 @@ At large $\lambda$, the Poisson distribution **approaches the Gaussian**
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Probability distribution|500](https://commons.wikimedia.org/wiki/Special:FilePath/Standard_deviation_diagram_micro.svg?width=600)
+*Standard deviation* ([Commons file page](https://commons.wikimedia.org/wiki/File:Standard_deviation_diagram_micro.svg), Ainali, CC BY-SA 3.0, as used on the Wikipedia article [Probability distribution](https://en.wikipedia.org/wiki/Probability_distribution))
+
+- **Probability distribution**. "In probability theory and statistics, a probability distribution describes how probabilities are assigned to the possible results of a random phenomenon—more precisely, to events, which are sets of possible outcomes of a probabilistic experiment. Informally, a probability distribution tells us how likely different results are." ([Wikipedia](https://en.wikipedia.org/wiki/Probability_distribution))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Astrostatistics]]

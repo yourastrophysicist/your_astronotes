@@ -78,6 +78,14 @@ reading cue: this is the optical cousin of aperture synthesis. the object is dec
 
 source: local study diagram generated from the Abbe/Fourier-optics interpretation of image formation.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Fourier optics**. "Fourier optics is the study of classical optics using Fourier transforms (FTs), in which the waveform being considered is regarded as made up of a combination, or superposition, of plane waves. It has some parallels to the Huygens–Fresnel principle, in which the wavefront is regarded as being made up of a combination of spherical wavefronts (also called phasefronts) whose sum is the wavefront being studied." ([Wikipedia](https://en.wikipedia.org/wiki/Fourier_optics))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fraunhofer diffraction]]

@@ -90,6 +90,14 @@ $O(h^4)$. but four function evaluations and the optimal $h$ shifts to $\sim \eps
 - **velocity from time series of positions**: central difference, with windowing if noisy
 - **luminosity from time-series flux**: $dL/dt$ for transient classification
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Finite difference**. "A finite difference is a mathematical expression of the form f(x + b) − f(x + a). Finite differences (or the associated difference quotients) are often used as approximations of derivatives, such as in numerical differentiation." ([Wikipedia](https://en.wikipedia.org/wiki/Finite_difference))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Truncation error and order of accuracy]]

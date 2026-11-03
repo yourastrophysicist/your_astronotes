@@ -88,6 +88,14 @@ twinkling of stars has been observed since antiquity. the wave-optical explanati
 
 planets famously do not twinkle (much). the difference is primary education's introduction to scintillation: planets are extended sources averaging over the patches; stars are point sources and feel the full effect.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Twinkling**. "Twinkling, also called scintillation, is a generic term for variations in apparent brightness, colour, or position of a distant luminous object viewed through a medium. If the object lies outside the Earth's atmosphere, as in the case of stars and planets, the phenomenon is termed astronomical scintillation; for objects within the atmosphere, the phenomenon is termed terrestrial scintillation." ([Wikipedia](https://en.wikipedia.org/wiki/Twinkling))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Atmospheric turbulence overview]]

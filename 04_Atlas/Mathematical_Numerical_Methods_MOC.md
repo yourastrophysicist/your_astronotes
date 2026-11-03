@@ -449,6 +449,111 @@ This matrix details the core exam problems, algorithm implementations, and trap 
 
 ---
 
+<!-- moc-sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+Every zettel in this map ends with a short sourced section: a definition quoted from Wikipedia (95 zettels) or from the abstract of an arXiv review (0 zettels), and, where a free figure exists, the credited lead figure of the Wikipedia article (Wikimedia Commons) or a figure from an openly licensed arXiv paper. The lecture-slide figures above are unchanged.
+
+| Zettel | Wikipedia | arXiv review | Figure |
+|---|---|---|---|
+| [[Adaptive step size control]] | [Adaptive step size](https://en.wikipedia.org/wiki/Adaptive_step_size) |  | Commons |
+| [[Adaptive timesteps near close encounters]] | [Adaptive step size](https://en.wikipedia.org/wiki/Adaptive_step_size) |  | Commons |
+| [[Astrophysical N-body problem formulation]] | [N-body problem](https://en.wikipedia.org/wiki/N-body_problem) |  |  |
+| [[Bisection method]] | [Bisection method](https://en.wikipedia.org/wiki/Bisection_method) |  | Commons |
+| [[Boundary value PDEs and iteration]] | [Boundary value problem](https://en.wikipedia.org/wiki/Boundary_value_problem) |  | Commons |
+| [[Box-Muller transform for Gaussian random numbers]] | [Box–Muller transform](https://en.wikipedia.org/wiki/Box%E2%80%93Muller_transform) |  | Commons |
+| [[Built-in scipy integrators]] | [SciPy](https://en.wikipedia.org/wiki/SciPy) |  | Commons |
+| [[Bulirsch-Stoer extrapolation]] | [Bulirsch–Stoer algorithm](https://en.wikipedia.org/wiki/Bulirsch%E2%80%93Stoer_algorithm) |  |  |
+| [[Choosing a root finder]] | [Root-finding algorithm](https://en.wikipedia.org/wiki/Root-finding_algorithm) |  | Commons |
+| [[Collisional vs collisionless N-body]] | [N-body simulation](https://en.wikipedia.org/wiki/N-body_simulation) |  | Commons |
+| [[Computational complexity and speed]] | [Computational complexity](https://en.wikipedia.org/wiki/Computational_complexity) |  |  |
+| [[Cubic spline interpolation]] | [Spline interpolation](https://en.wikipedia.org/wiki/Spline_interpolation) |  |  |
+| [[Decision tree classifier]] | [Decision tree learning](https://en.wikipedia.org/wiki/Decision_tree_learning) |  |  |
+| [[Derivatives of noisy data]] | [Numerical differentiation](https://en.wikipedia.org/wiki/Numerical_differentiation) |  | Commons |
+| [[Discrete Fourier transform]] | [Discrete Fourier transform](https://en.wikipedia.org/wiki/Discrete_Fourier_transform) |  | Commons |
+| [[Energy conservation as a diagnostic]] | [Energy drift](https://en.wikipedia.org/wiki/Energy_drift) |  | Commons |
+| [[Euler method]] | [Euler method](https://en.wikipedia.org/wiki/Euler_method) |  | Commons |
+| [[Fast Fourier transform algorithm]] | [Fast Fourier transform](https://en.wikipedia.org/wiki/Fast_Fourier_transform) |  | Commons |
+| [[FFT in scipy and numpy]] | [Fast Fourier transform](https://en.wikipedia.org/wiki/Fast_Fourier_transform) |  | Commons |
+| [[Finite difference discretization]] | [Finite difference method](https://en.wikipedia.org/wiki/Finite_difference_method) |  |  |
+| [[Fitting practical recipe]] | [Curve fitting](https://en.wikipedia.org/wiki/Curve_fitting) |  | Commons |
+| [[Floating point representation and rounding errors]] | [Floating-point arithmetic](https://en.wikipedia.org/wiki/Floating-point_arithmetic) |  |  |
+| [[Forward backward and central differences]] | [Finite difference](https://en.wikipedia.org/wiki/Finite_difference) |  |  |
+| [[Fourier series math summary]] | [Fourier series](https://en.wikipedia.org/wiki/Fourier_series) |  | Commons |
+| [[Fourth-order Hermite predictor-corrector]] | [Predictor–corrector method](https://en.wikipedia.org/wiki/Predictor%E2%80%93corrector_method) |  |  |
+| [[Gauss elimination]] | [Gaussian elimination](https://en.wikipedia.org/wiki/Gaussian_elimination) |  | Commons |
+| [[Gauss-Seidel iteration]] | [Gauss–Seidel method](https://en.wikipedia.org/wiki/Gauss%E2%80%93Seidel_method) |  |  |
+| [[General linear least squares]] | [Linear least squares](https://en.wikipedia.org/wiki/Linear_least_squares) |  |  |
+| [[Goodness of fit and chi-squared]] | [Goodness of fit](https://en.wikipedia.org/wiki/Goodness_of_fit) |  |  |
+| [[Gram-Schmidt orthogonalization]] | [Gram–Schmidt process](https://en.wikipedia.org/wiki/Gram%E2%80%93Schmidt_process) |  | Commons |
+| [[Importance sampling]] | [Importance sampling](https://en.wikipedia.org/wiki/Importance_sampling) |  |  |
+| [[Initial value PDEs and FTCS]] | [FTCS scheme](https://en.wikipedia.org/wiki/FTCS_scheme) |  |  |
+| [[Initial value vs boundary value problems]] | [Boundary value problem](https://en.wikipedia.org/wiki/Boundary_value_problem) |  | Commons |
+| [[Interpretability vs accuracy in ML]] | [Explainable artificial intelligence](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence) |  |  |
+| [[Inverse transform sampling]] | [Inverse transform sampling](https://en.wikipedia.org/wiki/Inverse_transform_sampling) |  | Commons |
+| [[Iris dataset and the ML hello world]] | [Iris flower data set](https://en.wikipedia.org/wiki/Iris_flower_data_set) |  | Commons |
+| [[Lagrange polynomial interpolation]] | [Lagrange polynomial](https://en.wikipedia.org/wiki/Lagrange_polynomial) |  | Commons |
+| [[Leapfrog integrator]] | [Leapfrog integration](https://en.wikipedia.org/wiki/Leapfrog_integration) |  |  |
+| [[Linear interpolation]] | [Linear interpolation](https://en.wikipedia.org/wiki/Linear_interpolation) |  | Commons |
+| [[Linear least squares]] | [Linear least squares](https://en.wikipedia.org/wiki/Linear_least_squares) |  |  |
+| [[Linux for the astrophysicist]] | [Linux](https://en.wikipedia.org/wiki/Linux) |  |  |
+| [[LU decomposition]] | [LU decomposition](https://en.wikipedia.org/wiki/LU_decomposition) |  |  |
+| [[Matplotlib plotting essentials]] | [Matplotlib](https://en.wikipedia.org/wiki/Matplotlib) |  |  |
+| [[Matrix diagonalization $A = VDV^T$]] | [Diagonalizable matrix](https://en.wikipedia.org/wiki/Diagonalizable_matrix) |  |  |
+| [[Matrix inverse via linear systems]] | [Invertible matrix](https://en.wikipedia.org/wiki/Invertible_matrix) |  |  |
+| [[Modified midpoint method]] | [Midpoint method](https://en.wikipedia.org/wiki/Midpoint_method) |  | Commons |
+| [[Monte Carlo integration mean value method]] | [Monte Carlo integration](https://en.wikipedia.org/wiki/Monte_Carlo_integration) |  | Commons |
+| [[Multidimensional Monte Carlo integration]] | [Monte Carlo integration](https://en.wikipedia.org/wiki/Monte_Carlo_integration) |  | Commons |
+| [[N-body with Euler vs midpoint vs leapfrog]] | [N-body simulation](https://en.wikipedia.org/wiki/N-body_simulation) |  | Commons |
+| [[Newton divided differences]] | [Newton polynomial](https://en.wikipedia.org/wiki/Newton_polynomial) |  |  |
+| [[Newton-Raphson for systems of equations]] | [Newton's method](https://en.wikipedia.org/wiki/Newton%27s_method) |  | Commons |
+| [[Newton-Raphson method]] | [Newton's method](https://en.wikipedia.org/wiki/Newton%27s_method) |  | Commons |
+| [[Non-linear fitting with scipy]] | [Non-linear least squares](https://en.wikipedia.org/wiki/Non-linear_least_squares) |  |  |
+| [[Numerical problem solving workflow]] | [Numerical analysis](https://en.wikipedia.org/wiki/Numerical_analysis) |  |  |
+| [[Numpy arrays vs Python lists]] | [NumPy](https://en.wikipedia.org/wiki/NumPy) |  | Commons |
+| [[Optimal step size for derivatives]] | [Numerical differentiation](https://en.wikipedia.org/wiki/Numerical_differentiation) |  | Commons |
+| [[Overrelaxation]] | [Successive over-relaxation](https://en.wikipedia.org/wiki/Successive_over-relaxation) |  |  |
+| [[Pandas for tabular astrophysics data]] | [Pandas (software)](https://en.wikipedia.org/wiki/Pandas_%28software%29) |  |  |
+| [[Partial numerical derivatives]] | [Numerical differentiation](https://en.wikipedia.org/wiki/Numerical_differentiation) |  | Commons |
+| [[Partial pivoting]] | [Pivot element](https://en.wikipedia.org/wiki/Pivot_element) |  |  |
+| [[Physical interpretation of the FFT]] | [Fast Fourier transform](https://en.wikipedia.org/wiki/Fast_Fourier_transform) |  | Commons |
+| [[Polynomial fitting]] | [Polynomial regression](https://en.wikipedia.org/wiki/Polynomial_regression) |  | Commons |
+| [[Power iteration]] | [Power iteration](https://en.wikipedia.org/wiki/Power_iteration) |  |  |
+| [[Power spectrum estimation]] | [Spectral density estimation](https://en.wikipedia.org/wiki/Spectral_density_estimation) |  |  |
+| [[Pros and cons of linear solvers]] | [System of linear equations](https://en.wikipedia.org/wiki/System_of_linear_equations) |  |  |
+| [[Pseudo-random number generators]] | [Pseudorandom number generator](https://en.wikipedia.org/wiki/Pseudorandom_number_generator) |  |  |
+| [[Python language essentials]] | [Python (programming language)](https://en.wikipedia.org/wiki/Python_%28programming_language%29) |  |  |
+| [[QR algorithm for eigenvalues]] | [QR algorithm](https://en.wikipedia.org/wiki/QR_algorithm) |  |  |
+| [[QR decomposition]] | [QR decomposition](https://en.wikipedia.org/wiki/QR_decomposition) |  |  |
+| [[Random number seeds]] | [Random seed](https://en.wikipedia.org/wiki/Random_seed) |  |  |
+| [[Rejection sampling]] | [Rejection sampling](https://en.wikipedia.org/wiki/Rejection_sampling) |  | Commons |
+| [[Relaxation method]] | [Relaxation (iterative method)](https://en.wikipedia.org/wiki/Relaxation_%28iterative_method%29) |  |  |
+| [[Roundoff vs truncation balance]] | [Round-off error](https://en.wikipedia.org/wiki/Round-off_error) |  |  |
+| [[Runge phenomenon]] | [Runge's phenomenon](https://en.wikipedia.org/wiki/Runge%27s_phenomenon) |  | Commons |
+| [[Runge-Kutta 2 midpoint method]] | [Midpoint method](https://en.wikipedia.org/wiki/Midpoint_method) |  | Commons |
+| [[Runge-Kutta 4 method]] | [Runge–Kutta methods](https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods) |  | Commons |
+| [[Scipy and astropy quick reference]] | [SciPy](https://en.wikipedia.org/wiki/SciPy) |  | Commons |
+| [[Scipy interpolation tools]] | [Interpolation](https://en.wikipedia.org/wiki/Interpolation) |  |  |
+| [[Second derivatives]] | [Numerical differentiation](https://en.wikipedia.org/wiki/Numerical_differentiation) |  | Commons |
+| [[Shooting method]] | [Shooting method](https://en.wikipedia.org/wiki/Shooting_method) |  |  |
+| [[Simpson's rule]] | [Simpson's rule](https://en.wikipedia.org/wiki/Simpson%27s_rule) |  | Commons |
+| [[Sorting algorithms overview]] | [Sorting algorithm](https://en.wikipedia.org/wiki/Sorting_algorithm) |  | Commons |
+| [[Stability and the Courant condition]] | [Courant–Friedrichs–Lewy condition](https://en.wikipedia.org/wiki/Courant%E2%80%93Friedrichs%E2%80%93Lewy_condition) |  |  |
+| [[Systems of ODEs and higher-order ODEs]] | [Ordinary differential equation](https://en.wikipedia.org/wiki/Ordinary_differential_equation) |  | Commons |
+| [[The conda environment]] | [Conda (package manager)](https://en.wikipedia.org/wiki/Conda_%28package_manager%29) |  |  |
+| [[The Pythagorean three-body problem]] | [Three-body problem](https://en.wikipedia.org/wiki/Three-body_problem) |  | Commons |
+| [[Trapezoidal rule error estimate]] | [Trapezoidal rule](https://en.wikipedia.org/wiki/Trapezoidal_rule) |  | Commons |
+| [[Trapezoidal rule]] | [Trapezoidal rule](https://en.wikipedia.org/wiki/Trapezoidal_rule) |  | Commons |
+| [[Truncation error and order of accuracy]] | [Truncation error](https://en.wikipedia.org/wiki/Truncation_error) |  |  |
+| [[Two-dimensional interpolation]] | [Bilinear interpolation](https://en.wikipedia.org/wiki/Bilinear_interpolation) |  | Commons |
+| [[Vectorization and python speed]] | [Array programming](https://en.wikipedia.org/wiki/Array_programming) |  |  |
+| [[Verifying random samples]] | [Kolmogorov–Smirnov test](https://en.wikipedia.org/wiki/Kolmogorov%E2%80%93Smirnov_test) |  | Commons |
+| [[Weighted least squares]] | [Weighted least squares](https://en.wikipedia.org/wiki/Weighted_least_squares) |  |  |
+| [[What is machine learning]] | [Machine learning](https://en.wikipedia.org/wiki/Machine_learning) |  |  |
+| [[When to use implicit schemes]] | [Explicit and implicit methods](https://en.wikipedia.org/wiki/Explicit_and_implicit_methods) |  |  |
+
+<!-- /moc-sources:wiki-arxiv -->
+
 ## Essential Mathematical & Numerical Methods Formulas Quick Sheet
 
 | Method / Law | Mathematical Expression | Order & Computational Complexity |

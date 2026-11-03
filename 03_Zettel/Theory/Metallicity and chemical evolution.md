@@ -72,6 +72,18 @@ unaccounted metallicity shifts standard candle zero-points:
 - **TRGB**: $M_I^{\rm TRGB} \approx -4.0$ is exceptionally flat at low $Z$ but curves fainter at $[\mathrm{Fe}/\mathrm{H}] > -0.7$.
 - **RR Lyrae**: $M_V^{\rm RR} = 0.214\,[\mathrm{Fe}/\mathrm{H}] + 0.89$ (strong metallicity dependence).
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Metallicity|500](https://commons.wikimedia.org/wiki/Special:FilePath/A_Swarm_of_Ancient_Stars_-_GPN-2000-000930.jpg?width=600)
+*Lead figure of the Wikipedia article Metallicity* ([Commons file page](https://commons.wikimedia.org/wiki/File:A_Swarm_of_Ancient_Stars_-_GPN-2000-000930.jpg), NASA, The Hubble Heritage Team, STScI, AURA, Public domain, as used on the Wikipedia article [Metallicity](https://en.wikipedia.org/wiki/Metallicity))
+
+- **Metallicity**. "In astronomy, metallicity is the abundance of elements present in an object that are heavier than hydrogen and helium. Most of the normal currently detectable (i.e. non-dark) matter in the universe is either hydrogen or helium, and astronomers use the word metals as convenient shorthand for all elements except hydrogen and helium." ([Wikipedia](https://en.wikipedia.org/wiki/Metallicity))
+- **Modelling the chemical evolution of the Milky Way**. "In this review I will discuss the comparison between model results and observational data for the Milky Way, the predictive power of such models as well as their limits." ([arXiv:2106.13145](https://arxiv.org/abs/2106.13145))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Observational_Astrophysics_MOC]]

@@ -101,6 +101,17 @@ for this course, Jacobi/Gauss-Seidel/SOR is the relevant level. `scipy.sparse.li
 
 every elliptic problem in computational astrophysics reduces to this iterative-relaxation pattern.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Boundary value problem|500](https://commons.wikimedia.org/wiki/Special:FilePath/Boundary_value_problem-en.svg?width=600)
+*Boundary value problem for an arbitrary shape* ([Commons file page](https://commons.wikimedia.org/wiki/File:Boundary_value_problem-en.svg), Bounday_value_problem.PNG: User:Rex the first derivative work: Mircalla22 (talk), CC BY-SA 3.0, as used on the Wikipedia article [Boundary value problem](https://en.wikipedia.org/wiki/Boundary_value_problem))
+
+- **Boundary value problem**. "In the study of differential equations, a boundary-value problem is a differential equation subjected to constraints called boundary conditions. A solution to a boundary value problem is a solution to the differential equation which also satisfies the boundary conditions. Boundary value problems arise in several branches of physics as any physical differential equation will have them." ([Wikipedia](https://en.wikipedia.org/wiki/Boundary_value_problem))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Finite difference discretization]]

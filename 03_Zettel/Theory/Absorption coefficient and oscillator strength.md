@@ -55,6 +55,14 @@ practical: knowing $\tau_0$ and $f$ from atomic data, you get $N_l$. column dens
 
 historically: an oscillator with strength $f$ has the same time-integrated emission as a classical electron oscillating at the resonance frequency, times $f$. so $f = 1$ matches a classical oscillator; $f < 1$ for "weak" transitions, $f > 1$ rare ($f$ summed over all transitions from a given lower level satisfies the Thomas-Reiche-Kuhn sum rule, $\sum f = N_e$).
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Oscillator strength**. "In spectroscopy, oscillator strength is a dimensionless quantity that expresses the probability of absorption or emission of electromagnetic radiation in transitions between energy levels of an atom or molecule. For example, if an emissive state has a small oscillator strength, nonradiative decay will outpace radiative decay. Conversely, "bright" transitions will have large oscillator strengths." ([Wikipedia](https://en.wikipedia.org/wiki/Oscillator_strength))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Line profile function phi nu]]

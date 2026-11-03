@@ -86,6 +86,14 @@ a PRNG with period $T$ should not be used for simulations requiring more than $\
 - Mersenne Twister period $\sim 2^{19937}$: practically unlimited
 - PCG64 period $\sim 2^{128}$: practically unlimited
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Pseudorandom number generator**. "A pseudorandom number generator (PRNG), also known as a deterministic random bit generator (DRBG), is an algorithm for generating a sequence of numbers whose properties approximate the properties of sequences of random numbers. The PRNG-generated sequence is not truly random, because it is completely determined by an initial value or state, usually called the PRNG's seed (which may be based on truly random values)." ([Wikipedia](https://en.wikipedia.org/wiki/Pseudorandom_number_generator))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Random number seeds]]

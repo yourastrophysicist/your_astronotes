@@ -78,6 +78,17 @@ mergers are **not** the source of main-sequence SF at $z = 1$–$2$. Rodighiero 
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Galaxy merger|500](https://commons.wikimedia.org/wiki/Special:FilePath/NGC4676.jpg?width=600)
+*Lead figure of the Wikipedia article Galaxy merger* ([Commons file page](https://commons.wikimedia.org/wiki/File:NGC4676.jpg), NASA, H. Ford (JHU), G. Illingworth (UCSC/LO), M.Clampin (STScI), G. Hartig (STScI), the ACS Science Team, and ESA, Public domain, as used on the Wikipedia article [Galaxy merger](https://en.wikipedia.org/wiki/Galaxy_merger))
+
+- **Galaxy merger**. "Galaxy mergers can occur when two (or more) galaxies collide. They are the most violent type of galaxy interaction." ([Wikipedia](https://en.wikipedia.org/wiki/Galaxy_merger))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Galaxy color, density and morphology]]

@@ -67,6 +67,17 @@ quantitative example for a Salpeter IMF in an SSP:
 
 this is the answer to obs3.pdf and the foundation of UV-based SFR tracers (see [[UV SFR tracer]]).
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Planck's law|500](https://commons.wikimedia.org/wiki/Special:FilePath/Black_body.svg?width=600)
+*Black body spectral radiance curves for various temperatures after Planck, and comparison with the classical theory of Rayleigh-Jeans (in cgs units)* ([Commons file page](https://commons.wikimedia.org/wiki/File:Black_body.svg), Darth Kule, Public domain, as used on the Wikipedia article [Planck's law](https://en.wikipedia.org/wiki/Planck%27s_law))
+
+- **Planck's law**. "In physics, Planck's law (also Planck radiation law) describes the spectral density of electromagnetic radiation emitted by a black body in thermal equilibrium at a given temperature T, when there is no net flow of matter or energy between the body and its environment." ([Wikipedia](https://en.wikipedia.org/wiki/Planck%27s_law))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Blackbody radiation and Stefan-Boltzmann]]

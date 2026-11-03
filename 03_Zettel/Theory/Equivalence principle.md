@@ -16,6 +16,18 @@ name: "Equivalence principle"
 
 ![lez04_equivalence_principle.png](../../assets/images/lez04_equivalence_principle.png)
 *Lecture 04 Blackboard Derivation: Einstein Equivalence Principle (EEP), local inertial frames, and the elevator thought experiment.*
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Equivalence principle|500](https://commons.wikimedia.org/wiki/Special:FilePath/Elevator_gravity.svg?width=600)
+*Lead figure of the Wikipedia article Equivalence principle* ([Commons file page](https://commons.wikimedia.org/wiki/File:Elevator_gravity.svg), derivative work: Pbroks13 (talk) Elevator_gravity2.png: Markus Poessel (Mapos), CC BY-SA 3.0, as used on the Wikipedia article [Equivalence principle](https://en.wikipedia.org/wiki/Equivalence_principle))
+
+- **Equivalence principle**. "The equivalence principle is the hypothesis that the observed equivalence of gravitational and inertial mass is a consequence of nature. The weak form, known for centuries, relates to masses of any composition in free fall taking the same trajectories and landing at identical times." ([Wikipedia](https://en.wikipedia.org/wiki/Equivalence_principle))
+- **Lecture Notes on General Relativity**. "These notes represent approximately one semester's worth of lectures on introductory general relativity for beginning graduate students in physics. Topics include manifolds, Riemannian geometry, Einstein's equations, and three applications: gravitational radiation, black holes, and cosmology." ([arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 {% endraw %}
 
 <div class="backlinks-section">

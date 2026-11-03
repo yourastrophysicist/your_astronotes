@@ -408,6 +408,60 @@ Every single X-ray telescope diagram, detector schematic, XSPEC spectral fit, Sw
 
 ---
 
+<!-- moc-sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+Every zettel in this map ends with a short sourced section: a definition quoted from Wikipedia (44 zettels) or from the abstract of an arXiv review (5 zettels), and, where a free figure exists, the credited lead figure of the Wikipedia article (Wikimedia Commons) or a figure from an openly licensed arXiv paper. The lecture-slide figures above are unchanged.
+
+| Zettel | Wikipedia | arXiv review | Figure |
+|---|---|---|---|
+| [[A Brief History of X-ray and Gamma-ray Missions]] | [X-ray astronomy](https://en.wikipedia.org/wiki/X-ray_astronomy) |  | Commons |
+| [[Accretion onto compact objects]] | [Accretion (astrophysics)](https://en.wikipedia.org/wiki/Accretion_%28astrophysics%29) |  | Commons |
+| [[Angular Resolution]] | [Angular resolution](https://en.wikipedia.org/wiki/Angular_resolution) |  | Commons |
+| [[Appendix A - Optical telescopes]] | [Optical telescope](https://en.wikipedia.org/wiki/Optical_telescope) |  |  |
+| [[Appendix B - Aberrations]] | [Optical aberration](https://en.wikipedia.org/wiki/Optical_aberration) |  | Commons |
+| [[Appendix C - Telescope configurations]] | [Cassegrain reflector](https://en.wikipedia.org/wiki/Cassegrain_reflector) |  | Commons |
+| [[Appendix D - Gratings and spectrographs]] | [Diffraction grating](https://en.wikipedia.org/wiki/Diffraction_grating) |  | Commons |
+| [[Appendix E - Astronomical coordinates]] | [Astronomical coordinate systems](https://en.wikipedia.org/wiki/Astronomical_coordinate_systems) |  | Commons |
+| [[Astrostatistics]] | [Astrostatistics](https://en.wikipedia.org/wiki/Astrostatistics) |  |  |
+| [[Atmospheric transmission]] | [Atmospheric window](https://en.wikipedia.org/wiki/Atmospheric_window) |  | Commons |
+| [[Blandford-Znajek Mechanism]] | [Blandford–Znajek process](https://en.wikipedia.org/wiki/Blandford%E2%80%93Znajek_process) | [arXiv:1812.06025](https://arxiv.org/abs/1812.06025) | Commons |
+| [[Bragg Reflection]] | [Bragg's law](https://en.wikipedia.org/wiki/Bragg%27s_law) |  |  |
+| [[Bremsstrahlung]] | [Bremsstrahlung](https://en.wikipedia.org/wiki/Bremsstrahlung) |  | Commons |
+| [[CCD readout]] | [Charge-coupled device](https://en.wikipedia.org/wiki/Charge-coupled_device) |  | Commons |
+| [[CCDs for X-rays]] | [X-ray telescope](https://en.wikipedia.org/wiki/X-ray_telescope) |  | Commons |
+| [[Charge-Coupled Device]] | [Charge-coupled device](https://en.wikipedia.org/wiki/Charge-coupled_device) |  | Commons |
+| [[Coded Mask]] | [Coded aperture](https://en.wikipedia.org/wiki/Coded_aperture) |  | Commons |
+| [[Compton and Inverse Compton]] | [Compton scattering](https://en.wikipedia.org/wiki/Compton_scattering) |  | Commons |
+| [[Compton scattering and pair production]] | [Pair production](https://en.wikipedia.org/wiki/Pair_production) |  | Commons |
+| [[Compton Telescope]] | [Compton telescope](https://en.wikipedia.org/wiki/Compton_telescope) |  | Commons |
+| [[Distributions]] | [Probability distribution](https://en.wikipedia.org/wiki/Probability_distribution) |  | Commons |
+| [[Effective Area]] | [Aperture (antenna)](https://en.wikipedia.org/wiki/Aperture_%28antenna%29) |  |  |
+| [[Fitting]] | [Curve fitting](https://en.wikipedia.org/wiki/Curve_fitting) |  | Commons |
+| [[Grazing incidence]] | [Wolter telescope](https://en.wikipedia.org/wiki/Wolter_telescope) |  | Commons |
+| [[Innermost Stable Circular Orbit ISCO]] | [Innermost stable circular orbit](https://en.wikipedia.org/wiki/Innermost_stable_circular_orbit) | [arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019) |  |
+| [[Kerr Metric Horizon and Ergosphere Geometry]] | [Kerr metric](https://en.wikipedia.org/wiki/Kerr_metric) | [arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019) | Commons |
+| [[Luminosity and Flux for -Instrumentations]] | [Luminosity](https://en.wikipedia.org/wiki/Luminosity) |  | Commons |
+| [[Luminosity]] | [Luminosity](https://en.wikipedia.org/wiki/Luminosity) |  | Commons |
+| [[Mechanical Collimator]] | [Collimator](https://en.wikipedia.org/wiki/Collimator) |  |  |
+| [[p-value]] | [P-value](https://en.wikipedia.org/wiki/P-value) |  |  |
+| [[Photoelectric absorption]] | [Photoelectric effect](https://en.wikipedia.org/wiki/Photoelectric_effect) |  | Commons |
+| [[Point Spread Function (PSF)]] | [Point spread function](https://en.wikipedia.org/wiki/Point_spread_function) |  | Commons |
+| [[Processes of photon-matter interaction]] | [Gamma ray](https://en.wikipedia.org/wiki/Gamma_ray) |  | Commons |
+| [[Quantum efficiency]] | [Quantum efficiency](https://en.wikipedia.org/wiki/Quantum_efficiency) |  | Commons |
+| [[Radiative Processes]] | [Radiative transfer](https://en.wikipedia.org/wiki/Radiative_transfer) |  |  |
+| [[Rayleigh criterion]] | [Angular resolution](https://en.wikipedia.org/wiki/Angular_resolution) |  | Commons |
+| [[Relativistic Iron Line Profiles]] | [Accretion disk](https://en.wikipedia.org/wiki/Accretion_disk) | [arXiv:1302.3260](https://arxiv.org/abs/1302.3260) | Commons |
+| [[Seeing Effect]] | [Astronomical seeing](https://en.wikipedia.org/wiki/Astronomical_seeing) | [arXiv:1201.5741](https://arxiv.org/abs/1201.5741) | Commons |
+| [[Signal-Noise Ratio]] | [Signal-to-noise ratio](https://en.wikipedia.org/wiki/Signal-to-noise_ratio) |  | Commons |
+| [[Synchroton]] | [Synchrotron radiation](https://en.wikipedia.org/wiki/Synchrotron_radiation) |  |  |
+| [[Telescope resolving power]] | [Angular resolution](https://en.wikipedia.org/wiki/Angular_resolution) |  | Commons |
+| [[The p-n junction]] | [P–n junction](https://en.wikipedia.org/wiki/P%E2%80%93n_junction) |  | Commons |
+| [[Wolter Telescope]] | [Wolter telescope](https://en.wikipedia.org/wiki/Wolter_telescope) |  | Commons |
+| [[X-ray diffraction grating]] | [Diffraction grating](https://en.wikipedia.org/wiki/Diffraction_grating) |  | Commons |
+
+<!-- /moc-sources:wiki-arxiv -->
+
 ## High Energy Astrophysics Laboratory Oral Exam Defense Preparation Matrix
 
 ### Question 1: Grazing Incidence Reflection & The Wolter Type-I Telescope

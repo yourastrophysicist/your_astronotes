@@ -82,6 +82,17 @@ the price: a hypothetical scalar field (the **inflaton**) with a specific potent
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Physics beyond the Standard Model|500](https://commons.wikimedia.org/wiki/Special:FilePath/CMS_Higgs-event.jpg?width=600)
+*Lead figure of the Wikipedia article Physics beyond the Standard Model* ([Commons file page](https://commons.wikimedia.org/wiki/File:CMS_Higgs-event.jpg), Lucas Taylor / CERN, CC BY-SA 3.0, as used on the Wikipedia article [Physics beyond the Standard Model](https://en.wikipedia.org/wiki/Physics_beyond_the_Standard_Model))
+
+- **Physics beyond the Standard Model**. "Physics beyond the Standard Model (BSM) is the theoretical developments needed to explain the deficiencies of the Standard Model, such as the inability to explain the fundamental parameters of the Standard Model, the strong CP problem, neutrino oscillations, matter–antimatter asymmetry, and the nature of dark matter and dark energy." ([Wikipedia](https://en.wikipedia.org/wiki/Physics_beyond_the_Standard_Model))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

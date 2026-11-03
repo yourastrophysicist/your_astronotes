@@ -61,6 +61,17 @@ for **catalog work** I switch to the equatorial system (see [[Equatorial system]
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Horizontal coordinate system|500](https://commons.wikimedia.org/wiki/Special:FilePath/Azimuth-Altitude_schematic.svg?width=600)
+*A schematic diagram of the terms "Azimuth" and "Altitude" as they relate to the viewing of celestial objects* ([Commons file page](https://commons.wikimedia.org/wiki/File:Azimuth-Altitude_schematic.svg), TWCarlson, CC BY-SA 3.0, as used on the Wikipedia article [Horizontal coordinate system](https://en.wikipedia.org/wiki/Horizontal_coordinate_system))
+
+- **Horizontal coordinate system**. "The horizontal coordinate system is a celestial coordinate system that uses the observer's local horizon as the fundamental plane to define two angles of a spherical coordinate system: altitude and azimuth. Therefore, the horizontal coordinate system is sometimes called the az/el system, the alt/az system, or the alt-azimuth system, among others." ([Wikipedia](https://en.wikipedia.org/wiki/Horizontal_coordinate_system))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

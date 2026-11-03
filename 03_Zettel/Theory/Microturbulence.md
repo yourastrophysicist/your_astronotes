@@ -50,6 +50,14 @@ in the saturation regime of the curve of growth ([[Curve of growth]]), $W$ growt
 
 best practice: measure abundances from weak (linear-regime) lines, where $W \propto N \cdot f$ has no $v_{\rm turb}$ dependence.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Microturbulence**. "Microturbulence is a form of turbulence that varies over small distance scales." ([Wikipedia](https://en.wikipedia.org/wiki/Microturbulence))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Thermal Doppler broadening]]

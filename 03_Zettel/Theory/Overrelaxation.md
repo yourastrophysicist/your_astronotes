@@ -95,6 +95,14 @@ if the system is small, just use a direct solver (`np.linalg.solve`) and skip th
 - **multigrid** uses Gauss-Seidel or SOR as a "smoother" between coarse-grid corrections; the synergy gives $O(N)$ overall
 - **solving the Poisson equation** for self-gravitating systems on a grid
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Successive over-relaxation**. "In numerical linear algebra, the method of successive over-relaxation (SOR) is a variant of the Gauss–Seidel method for solving a linear system of equations, resulting in faster convergence. A similar method can be used for any slowly converging iterative process. It was devised simultaneously by David M. Young Jr." ([Wikipedia](https://en.wikipedia.org/wiki/Successive_over-relaxation))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Relaxation method]]

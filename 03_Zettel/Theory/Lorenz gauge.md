@@ -56,6 +56,15 @@ both are wave equations sourced by their currents. both have residual gauge free
 - in vacuum, after fixing residual gauge to TT, the remaining $h_{\mu\nu}$ contains exactly the 2 physical GW polarisations.
 - in matter, Lorenz gauge solves $\Box \bar h = -16\pi G T$ directly via Green's function (retarded propagator).
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Lorenz gauge condition**. "In electromagnetism, the Lorenz gauge condition or Lorenz gauge (after Ludvig Lorenz) is a partial gauge fixing of the electromagnetic vector potential by requiring ⁠ ∂ μ A μ = 0 $\partial _{\mu }A^{\mu }=0$ ⁠. The name is frequently confused with Hendrik Lorentz, who has given his name to many concepts in this field. The condition is Lorentz invariant." ([Wikipedia](https://en.wikipedia.org/wiki/Lorenz_gauge_condition))
+- **The basics of gravitational wave theory**. "Einstein's special theory of relativity revolutionized physics by teaching us that space and time are not separate entities, but join as ``spacetime''." ([arXiv:gr-qc/0501041](https://arxiv.org/abs/gr-qc/0501041))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Linearized metric perturbation]]

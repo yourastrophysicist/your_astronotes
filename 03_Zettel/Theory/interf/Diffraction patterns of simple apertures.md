@@ -123,6 +123,14 @@ reading cue: the circular-aperture case is the one to keep in memory. the centra
 
 source: local plot generated from the Airy-pattern Bessel formula.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Fraunhofer diffraction**. "In optics, the Fraunhofer diffraction equation is used to model the diffraction of waves when plane waves are incident on a diffracting object, and the diffraction pattern is viewed at a sufficiently long distance (a distance satisfying the Fraunhofer condition) from the object (in the far-field region), and also when it is viewed at the focal plane of an imaging lens." ([Wikipedia](https://en.wikipedia.org/wiki/Fraunhofer_diffraction))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fraunhofer diffraction]]

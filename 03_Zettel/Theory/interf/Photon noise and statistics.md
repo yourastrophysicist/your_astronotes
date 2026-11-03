@@ -95,6 +95,17 @@ three ways to reduce photon noise impact:
 
 for radio: (1) plus reducing $T_{\rm sys}$ via cryogenics.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Shot noise|500](https://commons.wikimedia.org/wiki/Special:FilePath/Photon-noise.jpg?width=600)
+*Lead figure of the Wikipedia article Shot noise* ([Commons file page](https://commons.wikimedia.org/wiki/File:Photon-noise.jpg), Mdf, CC BY-SA 3.0, as used on the Wikipedia article [Shot noise](https://en.wikipedia.org/wiki/Shot_noise))
+
+- **Shot noise**. "Shot noise or Poisson noise is a type of noise which can be modeled by a Poisson process. In electronics, shot noise originates from the discrete nature of electric charge. Shot noise also occurs in photon counting in optical devices, where shot noise is associated with the particle nature of light." ([Wikipedia](https://en.wikipedia.org/wiki/Shot_noise))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Electromagnetic waves and photons]]

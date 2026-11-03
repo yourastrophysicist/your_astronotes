@@ -81,6 +81,18 @@ an exam answer connecting these blocks demonstrates fluency across the most mode
 - **de Mink et al. 2009** — interacting binary pollution.
 - **Marino et al. 2018, AJ 156, 116** — spectroscopic confirmation of bimodal rotation in NGC 1866.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Star cluster|500](https://commons.wikimedia.org/wiki/Special:FilePath/M44_47x300s-10%C2%B0C_O30_G0_PM_RGB_03032022.jpg?width=600)
+*Amateuraufnahme mit Lacerta Newton Teleskop, f4, 800 mm Brennweite* ([Commons file page](https://commons.wikimedia.org/wiki/File:M44_47x300s-10%C2%B0C_O30_G0_PM_RGB_03032022.jpg), Fried Lauterbach, CC BY-SA 4.0, as used on the Wikipedia article [Star cluster](https://en.wikipedia.org/wiki/Star_cluster))
+
+- **Star cluster**. "A star cluster is a group of stars, that share an origin, formed at roughly the same time and held together by self-gravitation. Two main types of star clusters can be distinguished: globular clusters, tight groups of ten thousand to millions of old stars which are gravitationally bound; and open clusters, less tight groups of stars, generally containing fewer than a few hundred members." ([Wikipedia](https://en.wikipedia.org/wiki/Star_cluster))
+- **Multiple populations in globular clusters. Lessons learned from the Milky Way globular clusters**. "Recent progress in studies of globular clusters has shown that they are not simple stellar populations, being rather made of multiple generations. Evidence stems both from photometry and spectroscopy. A new paradigm is then arising for the formation of massive star clusters, which includes several episodes of star formation." ([arXiv:1201.6526](https://arxiv.org/abs/1201.6526))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Extended main sequence turn-off eMSTO]]

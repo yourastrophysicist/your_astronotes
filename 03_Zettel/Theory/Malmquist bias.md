@@ -58,6 +58,14 @@ it is the cosmologists' version of survivorship bias. the sample edge selects, t
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Malmquist bias**. "The Malmquist bias is an effect in observational astronomy which leads to the preferential detection of intrinsically bright objects. It was first described in 1922 by Swedish astronomer Gunnar Malmquist (1893–1982), who then greatly elaborated upon this work in 1925. In statistics, this bias is referred to as a selection bias or data censoring." ([Wikipedia](https://en.wikipedia.org/wiki/Malmquist_bias))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[1Vmax estimator]]

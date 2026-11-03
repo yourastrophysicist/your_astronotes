@@ -277,6 +277,134 @@ Every single spectral line population plot, observed stellar spectral comparison
 
 ---
 
+<!-- moc-sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+Every zettel in this map ends with a short sourced section: a definition quoted from Wikipedia (118 zettels) or from the abstract of an arXiv review (6 zettels), and, where a free figure exists, the credited lead figure of the Wikipedia article (Wikimedia Commons) or a figure from an openly licensed arXiv paper. The lecture-slide figures above are unchanged.
+
+| Zettel | Wikipedia | arXiv review | Figure |
+|---|---|---|---|
+| [[Absorption coefficient and oscillator strength]] | [Oscillator strength](https://en.wikipedia.org/wiki/Oscillator_strength) |  |  |
+| [[AGN spectroscopy]] | [Active galactic nucleus](https://en.wikipedia.org/wiki/Active_galactic_nucleus) | [arXiv:1505.00811](https://arxiv.org/abs/1505.00811) |  |
+| [[Appendix D - Gratings and spectrographs]] | [Diffraction grating](https://en.wikipedia.org/wiki/Diffraction_grating) |  | Commons |
+| [[Atomic term symbols]] | [Term symbol](https://en.wikipedia.org/wiki/Term_symbol) |  |  |
+| [[Balmer continuum]] | [Balmer jump](https://en.wikipedia.org/wiki/Balmer_jump) |  | Commons |
+| [[Balmer decrement]] | [Balmer series](https://en.wikipedia.org/wiki/Balmer_series) |  |  |
+| [[Blazed gratings]] | [Blazed grating](https://en.wikipedia.org/wiki/Blazed_grating) |  |  |
+| [[Boltzmann equation in spectroscopy]] | [Boltzmann distribution](https://en.wikipedia.org/wiki/Boltzmann_distribution) |  | Commons |
+| [[BPT diagram]] | [Low-ionization nuclear emission-line region](https://en.wikipedia.org/wiki/Low-ionization_nuclear_emission-line_region) | [arXiv:1910.09730](https://arxiv.org/abs/1910.09730) | Commons |
+| [[Bremsstrahlung]] | [Bremsstrahlung](https://en.wikipedia.org/wiki/Bremsstrahlung) |  | Commons |
+| [[Calcium and CaII H+K]] | [Fraunhofer lines](https://en.wikipedia.org/wiki/Fraunhofer_lines) |  | Commons |
+| [[Calcium population vs T]] | [Saha ionization equation](https://en.wikipedia.org/wiki/Saha_ionization_equation) |  |  |
+| [[Case A vs Case B recombination]] | [Carrier generation and recombination](https://en.wikipedia.org/wiki/Carrier_generation_and_recombination) |  |  |
+| [[Collisional excitation rate]] | [Collisional excitation](https://en.wikipedia.org/wiki/Collisional_excitation) |  |  |
+| [[Collisional ionisation rate]] | [Electron ionization](https://en.wikipedia.org/wiki/Electron_ionization) |  | Commons |
+| [[Collisional pressure broadening]] | [Spectral line](https://en.wikipedia.org/wiki/Spectral_line) |  |  |
+| [[Continuum opacity sources]] | [Opacity](https://en.wikipedia.org/wiki/Opacity) |  | Commons |
+| [[Cooling curve]] | [Radiative cooling](https://en.wikipedia.org/wiki/Radiative_cooling) |  |  |
+| [[Cooling rate in HII regions]] | [H II region](https://en.wikipedia.org/wiki/H_II_region) | [arXiv:1910.09730](https://arxiv.org/abs/1910.09730) | Commons |
+| [[Critical density]] | [Forbidden mechanism](https://en.wikipedia.org/wiki/Forbidden_mechanism) |  |  |
+| [[Curve of growth abundance analysis]] | [Curve of growth](https://en.wikipedia.org/wiki/Curve_of_growth) |  | Commons |
+| [[Curve of growth]] | [Curve of growth](https://en.wikipedia.org/wiki/Curve_of_growth) |  | Commons |
+| [[Damping wings]] | [Spectral line shape](https://en.wikipedia.org/wiki/Spectral_line_shape) |  | Commons |
+| [[Dilution factor]] | [Inverse-square law](https://en.wikipedia.org/wiki/Inverse-square_law) |  | Commons |
+| [[Dispersion and spectral resolution]] | [Spectral resolution](https://en.wikipedia.org/wiki/Spectral_resolution) |  |  |
+| [[Dust extinction in nebulae]] | [Extinction (astronomy)](https://en.wikipedia.org/wiki/Extinction_%28astronomy%29) |  | Commons |
+| [[Echelle spectroscopy]] | [Echelle grating](https://en.wikipedia.org/wiki/Echelle_grating) |  | Commons |
+| [[Eddington-Barbier approximation]] | [Limb darkening](https://en.wikipedia.org/wiki/Limb_darkening) |  | Commons |
+| [[Emission line stars]] | [Be star](https://en.wikipedia.org/wiki/Be_star) |  | Commons |
+| [[Equation of radiative transfer]] | [Radiative transfer](https://en.wikipedia.org/wiki/Radiative_transfer) |  |  |
+| [[Equilibrium temperature]] | [Planetary equilibrium temperature](https://en.wikipedia.org/wiki/Planetary_equilibrium_temperature) |  | Commons |
+| [[Equivalent vs nonequivalent electrons]] | [Electron configuration](https://en.wikipedia.org/wiki/Electron_configuration) |  | Commons |
+| [[Equivalent width]] | [Equivalent width](https://en.wikipedia.org/wiki/Equivalent_width) |  | Commons |
+| [[Flux calibration]] | [Spectrophotometry](https://en.wikipedia.org/wiki/Spectrophotometry) |  | Commons |
+| [[Forbidden line diagnostics]] | [Forbidden mechanism](https://en.wikipedia.org/wiki/Forbidden_mechanism) |  |  |
+| [[Forbidden lines]] | [Forbidden mechanism](https://en.wikipedia.org/wiki/Forbidden_mechanism) |  |  |
+| [[Forbidden vs permitted vs semiforbidden transitions]] | [Selection rule](https://en.wikipedia.org/wiki/Selection_rule) |  |  |
+| [[Free-free continuum]] | [Bremsstrahlung](https://en.wikipedia.org/wiki/Bremsstrahlung) |  | Commons |
+| [[Galactic novae spectroscopy]] | [Nova](https://en.wikipedia.org/wiki/Nova) |  | Commons |
+| [[Galaxy spectroscopy by type]] | [Galaxy](https://en.wikipedia.org/wiki/Galaxy) |  | Commons |
+| [[Grating equation]] | [Diffraction grating](https://en.wikipedia.org/wiki/Diffraction_grating) |  | Commons |
+| [[H I regions]] | [H I region](https://en.wikipedia.org/wiki/H_I_region) |  | Commons |
+| [[H II region spectroscopy]] | [H II region](https://en.wikipedia.org/wiki/H_II_region) | [arXiv:1910.09730](https://arxiv.org/abs/1910.09730) | Commons |
+| [[Heating rate in HII regions]] | [H II region](https://en.wikipedia.org/wiki/H_II_region) | [arXiv:1910.09730](https://arxiv.org/abs/1910.09730) | Commons |
+| [[Helium energy levels]] | [Helium atom](https://en.wikipedia.org/wiki/Helium_atom) |  | Commons |
+| [[Helium population vs T]] | [Saha ionization equation](https://en.wikipedia.org/wiki/Saha_ionization_equation) |  |  |
+| [[History of stellar classification]] | [Stellar classification](https://en.wikipedia.org/wiki/Stellar_classification) |  | Commons |
+| [[Hund's rules]] | [Hund's rules](https://en.wikipedia.org/wiki/Hund%27s_rules) |  |  |
+| [[Hydrogen population vs T]] | [Saha ionization equation](https://en.wikipedia.org/wiki/Saha_ionization_equation) |  |  |
+| [[Hydrogen spectral series]] | [Hydrogen spectral series](https://en.wikipedia.org/wiki/Hydrogen_spectral_series) |  | Commons |
+| [[Integral-field spectroscopy IFU]] | [Integral field spectrograph](https://en.wikipedia.org/wiki/Integral_field_spectrograph) | [arXiv:1602.04267](https://arxiv.org/abs/1602.04267) | Commons |
+| [[Ionisation parameter and ionisation state]] | [Photoionization](https://en.wikipedia.org/wiki/Photoionization) |  | Commons |
+| [[Ionisation parameter U]] | [Photoionization](https://en.wikipedia.org/wiki/Photoionization) |  | Commons |
+| [[Ionisation stratification]] | [Strömgren sphere](https://en.wikipedia.org/wiki/Str%C3%B6mgren_sphere) |  | Commons |
+| [[jj coupling]] | [Angular momentum coupling](https://en.wikipedia.org/wiki/Angular_momentum_coupling) |  |  |
+| [[Limb darkening]] | [Limb darkening](https://en.wikipedia.org/wiki/Limb_darkening) |  | Commons |
+| [[Line profile function phi nu]] | [Spectral line shape](https://en.wikipedia.org/wiki/Spectral_line_shape) |  | Commons |
+| [[Local thermodynamic equilibrium LTE]] | [Thermodynamic equilibrium](https://en.wikipedia.org/wiki/Thermodynamic_equilibrium) |  |  |
+| [[Macroturbulence]] | [Spectral line shape](https://en.wikipedia.org/wiki/Spectral_line_shape) |  | Commons |
+| [[Magnesium and alkali earths]] | [Alkaline earth metal](https://en.wikipedia.org/wiki/Alkaline_earth_metal) |  |  |
+| [[Magnesium population vs T]] | [Saha ionization equation](https://en.wikipedia.org/wiki/Saha_ionization_equation) |  |  |
+| [[Microturbulence]] | [Microturbulence](https://en.wikipedia.org/wiki/Microturbulence) |  |  |
+| [[MK luminosity classes]] | [Stellar classification](https://en.wikipedia.org/wiki/Stellar_classification) |  | Commons |
+| [[Multi-object spectroscopy MOS]] | [Optical spectrometer](https://en.wikipedia.org/wiki/Optical_spectrometer) |  | Commons |
+| [[N-slit interference and gratings]] | [Diffraction grating](https://en.wikipedia.org/wiki/Diffraction_grating) |  | Commons |
+| [[Natural broadening Lorentzian]] | [Spectral line shape](https://en.wikipedia.org/wiki/Spectral_line_shape) |  | Commons |
+| [[OIII forbidden lines]] | [Forbidden mechanism](https://en.wikipedia.org/wiki/Forbidden_mechanism) |  |  |
+| [[Optical depth]] | [Optical depth](https://en.wikipedia.org/wiki/Optical_depth) |  | Commons |
+| [[Optically thin recombination lines]] | [Emission spectrum](https://en.wikipedia.org/wiki/Emission_spectrum) |  | Commons |
+| [[Partition function]] | [Partition function (statistical mechanics)](https://en.wikipedia.org/wiki/Partition_function_%28statistical_mechanics%29) |  | Commons |
+| [[Pauli principle and electron configurations]] | [Pauli exclusion principle](https://en.wikipedia.org/wiki/Pauli_exclusion_principle) |  |  |
+| [[Photodissociation regions PDRs]] | [Photodissociation region](https://en.wikipedia.org/wiki/Photodissociation_region) |  | Commons |
+| [[Photoionisation balance]] | [Photoionization](https://en.wikipedia.org/wiki/Photoionization) |  | Commons |
+| [[Photoionization rate]] | [Photoionization](https://en.wikipedia.org/wiki/Photoionization) |  | Commons |
+| [[Planetary nebula spectroscopy]] | [Planetary nebula](https://en.wikipedia.org/wiki/Planetary_nebula) |  | Commons |
+| [[Population of excited levels]] | [Boltzmann distribution](https://en.wikipedia.org/wiki/Boltzmann_distribution) |  | Commons |
+| [[Quantum numbers and atomic states]] | [Quantum number](https://en.wikipedia.org/wiki/Quantum_number) |  | Commons |
+| [[Recombination continuum]] | [Carrier generation and recombination](https://en.wikipedia.org/wiki/Carrier_generation_and_recombination) |  |  |
+| [[Recombination line emissivity]] | [Emission spectrum](https://en.wikipedia.org/wiki/Emission_spectrum) |  | Commons |
+| [[Recombination rate]] | [Carrier generation and recombination](https://en.wikipedia.org/wiki/Carrier_generation_and_recombination) |  |  |
+| [[Rotational broadening]] | [Stellar rotation](https://en.wikipedia.org/wiki/Stellar_rotation) |  | Commons |
+| [[Russell-Saunders LS coupling]] | [Angular momentum coupling](https://en.wikipedia.org/wiki/Angular_momentum_coupling) |  |  |
+| [[Rydberg-Ritz formula]] | [Rydberg–Ritz combination principle](https://en.wikipedia.org/wiki/Rydberg%E2%80%93Ritz_combination_principle) |  |  |
+| [[Saha equation and recombination]] | [Saha ionization equation](https://en.wikipedia.org/wiki/Saha_ionization_equation) |  |  |
+| [[Saha ionisation equation]] | [Saha ionization equation](https://en.wikipedia.org/wiki/Saha_ionization_equation) |  |  |
+| [[Selection rules]] | [Selection rule](https://en.wikipedia.org/wiki/Selection_rule) |  |  |
+| [[SII forbidden lines]] | [Forbidden mechanism](https://en.wikipedia.org/wiki/Forbidden_mechanism) |  |  |
+| [[Single slit diffraction]] | [Diffraction](https://en.wikipedia.org/wiki/Diffraction) |  | Commons |
+| [[Sodium and alkalis]] | [Alkali metal](https://en.wikipedia.org/wiki/Alkali_metal) |  |  |
+| [[Sodium population vs T]] | [Saha ionization equation](https://en.wikipedia.org/wiki/Saha_ionization_equation) |  |  |
+| [[Source function]] | [Source function](https://en.wikipedia.org/wiki/Source_function) |  |  |
+| [[Spectrograph design]] | [Optical spectrometer](https://en.wikipedia.org/wiki/Optical_spectrometer) |  | Commons |
+| [[Spectrograph types]] | [Optical spectrometer](https://en.wikipedia.org/wiki/Optical_spectrometer) |  | Commons |
+| [[Spectroscopic ne diagnostics]] | [Plasma diagnostics](https://en.wikipedia.org/wiki/Plasma_diagnostics) |  |  |
+| [[Spectroscopic redshift from line shifts]] | [Redshift](https://en.wikipedia.org/wiki/Redshift) |  | Commons |
+| [[Spectroscopic Te diagnostics]] | [Plasma diagnostics](https://en.wikipedia.org/wiki/Plasma_diagnostics) |  |  |
+| [[Spectrum reduction pipeline]] | [Astronomical spectroscopy](https://en.wikipedia.org/wiki/Astronomical_spectroscopy) |  | Commons |
+| [[Stark broadening]] | [Stark effect](https://en.wikipedia.org/wiki/Stark_effect) |  | Commons |
+| [[Statistical equilibrium equations]] | [Detailed balance](https://en.wikipedia.org/wiki/Detailed_balance) |  |  |
+| [[Statistical weight g]] | [Degenerate energy levels](https://en.wikipedia.org/wiki/Degenerate_energy_levels) |  | Commons |
+| [[Stellar atmosphere structure]] | [Stellar atmosphere](https://en.wikipedia.org/wiki/Stellar_atmosphere) |  | Commons |
+| [[Stellar spectra and spectral classification]] | [Stellar classification](https://en.wikipedia.org/wiki/Stellar_classification) |  | Commons |
+| [[Stellar spectral types OBAFGKM]] | [Stellar classification](https://en.wikipedia.org/wiki/Stellar_classification) |  | Commons |
+| [[Stellar v sin i from line shape]] | [Stellar rotation](https://en.wikipedia.org/wiki/Stellar_rotation) |  | Commons |
+| [[Stellar velocity from Doppler shift]] | [Radial velocity](https://en.wikipedia.org/wiki/Radial_velocity) |  | Commons |
+| [[Supernova remnant spectroscopy]] | [Supernova remnant](https://en.wikipedia.org/wiki/Supernova_remnant) |  | Commons |
+| [[Supernova spectroscopy]] | [Supernova](https://en.wikipedia.org/wiki/Supernova) |  | Commons |
+| [[Symbiotic star spectroscopy]] | [Symbiotic binary](https://en.wikipedia.org/wiki/Symbiotic_binary) |  | Commons |
+| [[Synchroton]] | [Synchrotron radiation](https://en.wikipedia.org/wiki/Synchrotron_radiation) |  |  |
+| [[Synchrotron continuum]] | [Synchrotron radiation](https://en.wikipedia.org/wiki/Synchrotron_radiation) |  |  |
+| [[Thermal continuum from stellar photosphere]] | [Photosphere](https://en.wikipedia.org/wiki/Photosphere) |  | Commons |
+| [[Thermal Doppler broadening]] | [Doppler broadening](https://en.wikipedia.org/wiki/Doppler_broadening) |  | Commons |
+| [[Two-level atom]] | [Two-state quantum system](https://en.wikipedia.org/wiki/Two-state_quantum_system) |  | Commons |
+| [[Two-photon emission]] | [Two-photon absorption](https://en.wikipedia.org/wiki/Two-photon_absorption) |  | Commons |
+| [[Velocity dispersion from line width]] | [Velocity dispersion](https://en.wikipedia.org/wiki/Velocity_dispersion) |  |  |
+| [[Voigt profile]] | [Voigt profile](https://en.wikipedia.org/wiki/Voigt_profile) |  | Commons |
+| [[Wavelength calibration]] | [Astronomical spectroscopy](https://en.wikipedia.org/wiki/Astronomical_spectroscopy) |  | Commons |
+| [[Why the Sequence OBAFGKM]] | [Stellar classification](https://en.wikipedia.org/wiki/Stellar_classification) |  | Commons |
+
+<!-- /moc-sources:wiki-arxiv -->
+
 ## Prof. Stefano Ciroi Oral Exam Defense Preparation Matrix
 
 ### Question 1: The Grating Equation, Angular Dispersion, and Resolving Power

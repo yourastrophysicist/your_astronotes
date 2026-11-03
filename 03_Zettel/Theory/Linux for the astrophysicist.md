@@ -112,6 +112,14 @@ nohup python long_job.py &          # run in background, survives logout
 
 the exam happens at a real computer running Linux/macOS. when I write a python script, I am also operating in this environment: navigating to my work folder, running `python ex1.py`, viewing the plot, copying files to the upload location. fluency saves minutes that compound across four exercises.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Linux**. "Linux ( LIN-uuks) is a family of free and open-source software Unix-like operating systems based on the Linux kernel, which was first released on 17 September 1991 by Linus Torvalds." ([Wikipedia](https://en.wikipedia.org/wiki/Linux))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Python language essentials]]

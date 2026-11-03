@@ -145,6 +145,17 @@ For $\gamma \sim 1000$:
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Compton scattering|500](https://commons.wikimedia.org/wiki/Special:FilePath/Light-matter_interaction_-_schematic.svg?width=600)
+*Light-matter interaction diagrams* ([Commons file page](https://commons.wikimedia.org/wiki/File:Light-matter_interaction_-_schematic.svg), Ponor, CC BY-SA 4.0, as used on the Wikipedia article [Compton scattering](https://en.wikipedia.org/wiki/Compton_scattering))
+
+- **Compton scattering**. "Compton scattering (or the Compton effect) is the quantum theory of scattering of a high-frequency photon through an interaction with a charged particle, usually an electron. Specifically, when the photon interacts with a loosely bound electron, it releases the electron from an outer valence shell of an atom or molecule." ([Wikipedia](https://en.wikipedia.org/wiki/Compton_scattering))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Cooling curve]]

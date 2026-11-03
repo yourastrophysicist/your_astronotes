@@ -66,6 +66,14 @@ This is why all X-ray telescopes use **grazing incidence mirrors** (reflectors)
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Optical telescope**. "An optical telescope gathers and focuses light mainly from the visible part of the electromagnetic spectrum, to create a magnified image for direct visual inspection, to make a photograph, or to collect data through electronic image sensors." ([Wikipedia](https://en.wikipedia.org/wiki/Optical_telescope))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Lab_High-Energy_MOC]]

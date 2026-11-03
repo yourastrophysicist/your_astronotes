@@ -42,6 +42,17 @@ for late-type stars (G, K), state-of-the-art high-resolution spectroscopy reache
 
 uncertainties are larger for hot stars (where line forests are sparser), giants, and metal-poor stars (where lines are weak).
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Stellar atmosphere|500](https://commons.wikimedia.org/wiki/Special:FilePath/Solar_eclipse_1999_4.jpg?width=600)
+*Total Solar eclipse in France* ([Commons file page](https://commons.wikimedia.org/wiki/File:Solar_eclipse_1999_4.jpg), Luc Viatour, CC BY-SA 3.0, as used on the Wikipedia article [Stellar atmosphere](https://en.wikipedia.org/wiki/Stellar_atmosphere))
+
+- **Stellar atmosphere**. "The stellar atmosphere is the outer region of the volume of a star, lying above the stellar core, radiation zone and convection zone." ([Wikipedia](https://en.wikipedia.org/wiki/Stellar_atmosphere))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 - [[Spectroscopic determination of Teff]]
 - [[Spectroscopic determination of log g]]

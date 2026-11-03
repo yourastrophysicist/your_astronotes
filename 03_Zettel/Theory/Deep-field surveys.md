@@ -195,6 +195,17 @@ Conclusion - To derive robust cosmological luminosity functions and volume densi
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Hubble Deep Field|500](https://commons.wikimedia.org/wiki/Special:FilePath/HubbleDeepField.800px.jpg?width=600)
+*The Hubble Deep Field, a picture taken over the course of ten consecutive days in December 1995, by the Hubble Space Telescope* ([Commons file page](https://commons.wikimedia.org/wiki/File:HubbleDeepField.800px.jpg), Robert Williams (NASA, ESA, STScI), Public domain, as used on the Wikipedia article [Hubble Deep Field](https://en.wikipedia.org/wiki/Hubble_Deep_Field))
+
+- **Hubble Deep Field**. "The Hubble Deep Field (HDF) is an image of a small region in the constellation Ursa Major, constructed from a series of observations by the Hubble Space Telescope. It covers an area about 2.6 arcminutes on a side, about one 24-millionth of the whole sky, which is equivalent in angular size to a tennis ball at a distance of 100 metres." ([Wikipedia](https://en.wikipedia.org/wiki/Hubble_Deep_Field))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Protocluster detection techniques]]

@@ -112,6 +112,17 @@ the exam template's exercise 4 (Pythagorean three-body) asks for **midpoint** in
 
 so for the exam, the question's choice of integrator is part of the problem. follow what is asked.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![N-body simulation|500](https://commons.wikimedia.org/wiki/Special:FilePath/Galaxy_cluster_sim.png?width=600)
+*Lead figure of the Wikipedia article N-body simulation* ([Commons file page](https://commons.wikimedia.org/wiki/File:Galaxy_cluster_sim.png), Michael L. Umbricht, CC BY-SA 4.0, as used on the Wikipedia article [N-body simulation](https://en.wikipedia.org/wiki/N-body_simulation))
+
+- **N-body simulation**. "In physics and astronomy, an n-body simulation is a simulation of a dynamical system of particles, usually under the influence of physical forces, such as gravity (see n-body problem for other applications)." ([Wikipedia](https://en.wikipedia.org/wiki/N-body_simulation))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Euler method]]

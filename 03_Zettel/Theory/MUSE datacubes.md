@@ -42,6 +42,17 @@ A typical reduced MUSE cube contains:
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Multi-Unit Spectroscopic Explorer|500](https://commons.wikimedia.org/wiki/Special:FilePath/MUSE_on_Nasmyth_side_view.jpg?width=600)
+*The MUSE instrument on VLT seen from the side* ([Commons file page](https://commons.wikimedia.org/wiki/File:MUSE_on_Nasmyth_side_view.jpg), Gahouti Hansali, CC BY-SA 3.0, as used on the Wikipedia article [Multi-Unit Spectroscopic Explorer](https://en.wikipedia.org/wiki/Multi-Unit_Spectroscopic_Explorer))
+
+- **Multi-Unit Spectroscopic Explorer**. "The Multi-Unit Spectroscopic Explorer (MUSE) is an integral field spectrograph installed at the Very Large Telescope (VLT) of the European Southern Observatory (ESO). It operates in the visible wavelength range, and combines a wide field of view with a high spatial resolution and a large simultaneous spectral range (480-930 nm)." ([Wikipedia](https://en.wikipedia.org/wiki/Multi-Unit_Spectroscopic_Explorer))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Datacube redshift measurement]]

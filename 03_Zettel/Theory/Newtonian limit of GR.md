@@ -66,6 +66,18 @@ include higher-order terms:
 
 systematic post-Newtonian expansion handles binary inspirals to $\sim 4$PN currently.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Gravitoelectromagnetism|500](https://commons.wikimedia.org/wiki/Special:FilePath/Gravity_Probe_B_Confirms_the_Existence_of_Gravitomagnetism-en.jpg?width=600)
+*Diagram regarding the confirmation of Gravitomagnetism by Gravity Probe B* ([Commons file page](https://commons.wikimedia.org/wiki/File:Gravity_Probe_B_Confirms_the_Existence_of_Gravitomagnetism-en.jpg), Gravity Probe B Team, Stanford, NASA, Public domain, as used on the Wikipedia article [Gravitoelectromagnetism](https://en.wikipedia.org/wiki/Gravitoelectromagnetism))
+
+- **Gravitoelectromagnetism**. "Gravitoelectromagnetism, abbreviated GEM, is a set of formal analogies between the equations for electromagnetism and relativistic gravitation. More specifically, it is an analogy between Maxwell's field equations and an approximation, valid under certain conditions, to the Einstein field equations for general relativity." ([Wikipedia](https://en.wikipedia.org/wiki/Gravitoelectromagnetism))
+- **Lecture Notes on General Relativity**. "These notes represent approximately one semester's worth of lectures on introductory general relativity for beginning graduate students in physics. Topics include manifolds, Riemannian geometry, Einstein's equations, and three applications: gravitational radiation, black holes, and cosmology." ([arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Linearized metric perturbation]]

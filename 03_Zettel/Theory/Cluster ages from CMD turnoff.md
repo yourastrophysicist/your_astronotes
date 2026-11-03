@@ -36,6 +36,17 @@ globular clusters represent the oldest stellar populations in the Milky Way, set
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Main sequence turnoff|500](https://commons.wikimedia.org/wiki/Special:FilePath/Open_cluster_HR_diagram_ages.gif?width=600)
+*HR diagrams for two open clusters, showing the main sequence turn-off at different ages* ([Commons file page](https://commons.wikimedia.org/wiki/File:Open_cluster_HR_diagram_ages.gif), Created by User:Worldtraveller, CC BY-SA 3.0, as used on the Wikipedia article [Main sequence turnoff](https://en.wikipedia.org/wiki/Main_sequence_turnoff))
+
+- **Main sequence turnoff**. "The turnoff point for a star refers to the point on the Hertzsprung–Russell diagram where it leaves the main sequence after its main fuel is exhausted – the main sequence turnoff. By plotting the turnoff points of individual stars in a star cluster one can estimate the cluster's age." ([Wikipedia](https://en.wikipedia.org/wiki/Main_sequence_turnoff))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

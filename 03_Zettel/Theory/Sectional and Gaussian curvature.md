@@ -55,6 +55,14 @@ the sectional / Gaussian curvature is the **most physically transparent** measur
 
 for the universe, the **spatial 3-curvature** is parameterised by $k = -1, 0, +1$, and the local sectional curvatures are $\sim K = k/a^2$. directly observable via the angular size of the CMB acoustic peaks ($\Omega_k$).
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Sectional curvature**. "In Riemannian geometry, the sectional curvature is one of the ways to describe the curvature of Riemannian manifolds. The sectional curvature K ( σ p ) $K(\sigma _{p})$ depends on a two-dimensional linear subspace σ p $\sigma _{p}$ of the tangent space at a point p $p$ of the manifold." ([Wikipedia](https://en.wikipedia.org/wiki/Sectional_curvature))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Riemann tensor]]

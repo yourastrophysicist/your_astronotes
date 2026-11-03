@@ -78,6 +78,15 @@ collider production (LHC): no missing-energy signature consistent with WIMP pair
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Weakly interacting massive particle**. "Weakly interacting massive particles (WIMPs) are hypothetical particles that are one of the proposed candidates for dark matter. These particles would have mass and would interact with gravity, would have been created in abundance during the Big Bang, and would since have reduced in number because of self-annihilation caused by their weak interaction." ([Wikipedia](https://en.wikipedia.org/wiki/Weakly_interacting_massive_particle))
+- **Particle Dark Matter: Evidence, Candidates and Constraints**. "In this review article, we discuss the current status of particle dark matter, including experimental evidence and theoretical motivations. We discuss a wide array of candidates for particle dark matter, but focus on neutralinos in models of supersymmetry and Kaluza-Klein dark matter in models of universal extra dimensions." ([arXiv:hep-ph/0404175](https://arxiv.org/abs/hep-ph/0404175))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

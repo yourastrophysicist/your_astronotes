@@ -49,6 +49,15 @@ so the equivalence principle is **strictly local**. globally, gravity is real an
 
 GR builds on the strong EP. tested to spectacular precision by Eotvos-type experiments and by lunar laser ranging.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Local reference frame**. "In theoretical physics, a local reference frame (local frame) refers to a coordinate system or frame of reference that is only expected to function over a small region or a restricted region of space or spacetime. The term is most often used in the context of the application of local inertial frames to small regions of a gravitational field." ([Wikipedia](https://en.wikipedia.org/wiki/Local_reference_frame))
+- **Lecture Notes on General Relativity**. "These notes represent approximately one semester's worth of lectures on introductory general relativity for beginning graduate students in physics. Topics include manifolds, Riemannian geometry, Einstein's equations, and three applications: gravitational radiation, black holes, and cosmology." ([arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Manifold metric and signature]]

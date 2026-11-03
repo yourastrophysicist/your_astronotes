@@ -71,6 +71,18 @@ major IGM probes:
 - **21 cm tomography** (future): Nabokov + SKA. trace neutral H at high $z$.
 - **fast radio bursts (FRBs)**: dispersion measure probes electron column density along sight lines.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Outer space|500](https://commons.wikimedia.org/wiki/Special:FilePath/Webb%27s_First_Deep_Field.jpg?width=600)
+*Lead figure of the Wikipedia article Outer space* ([Commons file page](https://commons.wikimedia.org/wiki/File:Webb%27s_First_Deep_Field.jpg), NASA, ESA, CSA, and STScI, Public domain, as used on the Wikipedia article [Outer space](https://en.wikipedia.org/wiki/Outer_space))
+
+- **Outer space**. "Outer space, or simply space, is the expanse that exists beyond Earth's atmosphere and between celestial bodies. It contains ultra-low levels of particle densities, constituting a near-perfect vacuum of predominantly hydrogen and helium plasma, permeated by electromagnetic radiation, cosmic rays, neutrinos, magnetic fields and dust." ([Wikipedia](https://en.wikipedia.org/wiki/Outer_space))
+- **The Physics of the Intergalactic Medium**. "Intergalactic space is filled with a pervasive medium of ionized gas, the Intergalactic Medium (IGM). A residual neutral fraction is detected in the spectra of Quasi-Stellar Objects at both low and high redshifts, revealing a highly fluctuating medium with temperatures characteristic of photoionized gas." ([arXiv:0711.3358](https://arxiv.org/abs/0711.3358))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Reionization]]

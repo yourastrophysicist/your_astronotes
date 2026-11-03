@@ -216,6 +216,17 @@ $$\Gamma_{\rm tot}(A_V) = \Lambda_{\rm tot}(A_V, T_{\rm gas})$$
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Photodissociation region|500](https://commons.wikimedia.org/wiki/Special:FilePath/STScI-01F686BHJ60D8GR8VVRMA21V8J.png?width=600)
+*The image shows the 4 primary zones of a photodissociation region: the molecular zone, the dissociation front, the ionization front, and the fully ionized flow of gas* ([Commons file page](https://commons.wikimedia.org/wiki/File:STScI-01F686BHJ60D8GR8VVRMA21V8J.png), Jason Champion (CNRS), Pam Jeffries (STScI), PDRs4ALL ERS Team, CC0, as used on the Wikipedia article [Photodissociation region](https://en.wikipedia.org/wiki/Photodissociation_region))
+
+- **Photodissociation region**. "In astrophysics, photodissociation regions (or photon-dominated regions, PDRs) are predominantly neutral regions of the interstellar medium in which far ultraviolet photons strongly influence the gas chemistry and act as the most important source of heat." ([Wikipedia](https://en.wikipedia.org/wiki/Photodissociation_region))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Cooling curve]]

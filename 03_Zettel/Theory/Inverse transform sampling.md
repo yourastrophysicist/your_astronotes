@@ -112,6 +112,17 @@ samples = expon.rvs(scale=1/lam, size=N)
 - **cosmological volumes**: sampling redshifts uniformly in comoving volume, $P(z) \propto dV/dz$
 - **ray-tracing through media**: sampling free path lengths from $e^{-\tau}$ distributions
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Inverse transform sampling|500](https://commons.wikimedia.org/wiki/Special:FilePath/Inverse_transform_sampling.png?width=600)
+*Illustration of the inverse transform sampling* ([Commons file page](https://commons.wikimedia.org/wiki/File:Inverse_transform_sampling.png), Olivier Ricou, CC BY-SA 3.0, as used on the Wikipedia article [Inverse transform sampling](https://en.wikipedia.org/wiki/Inverse_transform_sampling))
+
+- **Inverse transform sampling**. "Inverse transform sampling (also known as inversion sampling, the inverse probability integral transform, the inverse transformation method, or the Smirnov transform) is a basic method for pseudo-random number sampling, i.e., for generating sample numbers at random from any probability distribution given its cumulative distribution function." ([Wikipedia](https://en.wikipedia.org/wiki/Inverse_transform_sampling))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Pseudo-random number generators]]

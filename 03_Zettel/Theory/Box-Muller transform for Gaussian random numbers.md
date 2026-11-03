@@ -96,6 +96,17 @@ plt.plot(x, np.exp(-x**2/2)/np.sqrt(2*np.pi))
 
 mean should be $\approx 0$, std $\approx 1$.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Box–Muller transform|500](https://commons.wikimedia.org/wiki/Special:FilePath/Box-Muller_transform_visualisation.svg?width=600)
+*Lead figure of the Wikipedia article Box–Muller transform* ([Commons file page](https://commons.wikimedia.org/wiki/File:Box-Muller_transform_visualisation.svg), Cmglee, CC BY-SA 3.0, as used on the Wikipedia article [Box–Muller transform](https://en.wikipedia.org/wiki/Box%E2%80%93Muller_transform))
+
+- **Box–Muller transform**. "In mathematics, the Box–Muller transform, introduced by George Edward Pelham Box and Mervin Edgar Muller, is a random number sampling method for generating pairs of independent, standard, normally distributed (zero expectation, unit variance) random numbers, given a source of uniformly distributed random numbers. The method was first mentioned explicitly by Raymond E. A. C." ([Wikipedia](https://en.wikipedia.org/wiki/Box%E2%80%93Muller_transform))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Inverse transform sampling]] — the general method that fails for Gaussian

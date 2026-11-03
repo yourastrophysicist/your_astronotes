@@ -490,6 +490,143 @@ Every single instrument layout, fringe diagram, UV coverage simulation, and obse
 
 ---
 
+<!-- moc-sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+Every zettel in this map ends with a short sourced section: a definition quoted from Wikipedia (127 zettels) or from the abstract of an arXiv review (38 zettels), and, where a free figure exists, the credited lead figure of the Wikipedia article (Wikimedia Commons) or a figure from an openly licensed arXiv paper. The lecture-slide figures above are unchanged.
+
+| Zettel | Wikipedia | arXiv review | Figure |
+|---|---|---|---|
+| [[Abbe experiment and Fourier optics]] | [Fourier optics](https://en.wikipedia.org/wiki/Fourier_optics) |  |  |
+| [[Adaptive optics overview]] | [Adaptive optics](https://en.wikipedia.org/wiki/Adaptive_optics) | [arXiv:1201.5741](https://arxiv.org/abs/1201.5741) | Commons |
+| [[Adaptive optics]] | [Adaptive optics](https://en.wikipedia.org/wiki/Adaptive_optics) | [arXiv:1201.5741](https://arxiv.org/abs/1201.5741) | Commons |
+| [[AGN and supermassive black holes]] | [Active galactic nucleus](https://en.wikipedia.org/wiki/Active_galactic_nucleus) | [arXiv:1505.00811](https://arxiv.org/abs/1505.00811) |  |
+| [[ALMA exposure time calculator and sensitivity]] | [Atacama Large Millimeter Array](https://en.wikipedia.org/wiki/Atacama_Large_Millimeter_Array) |  | Commons |
+| [[Amplitude-division interferometers]] | [Interferometry](https://en.wikipedia.org/wiki/Interferometry) |  | Commons |
+| [[Antenna effective area and gain]] | [Gain (antenna)](https://en.wikipedia.org/wiki/Gain_%28antenna%29) |  | Commons |
+| [[Aperture masking]] | [Aperture masking interferometry](https://en.wikipedia.org/wiki/Aperture_masking_interferometry) |  | Commons |
+| [[Aperture synthesis principle]] | [Aperture synthesis](https://en.wikipedia.org/wiki/Aperture_synthesis) | [arXiv:astro-ph/0307036](https://arxiv.org/abs/astro-ph/0307036) |  |
+| [[Apodization]] | [Apodization](https://en.wikipedia.org/wiki/Apodization) |  | Commons |
+| [[Atmospheric turbulence overview]] | [Astronomical seeing](https://en.wikipedia.org/wiki/Astronomical_seeing) | [arXiv:1201.5741](https://arxiv.org/abs/1201.5741) | Commons |
+| [[Bandpass calibration]] | [Radio astronomy](https://en.wikipedia.org/wiki/Radio_astronomy) |  | Commons |
+| [[Beam combiners]] | [Astronomical interferometer](https://en.wikipedia.org/wiki/Astronomical_interferometer) | [arXiv:astro-ph/0307036](https://arxiv.org/abs/astro-ph/0307036) | Commons |
+| [[Beam power pattern of a radio telescope]] | [Radiation pattern](https://en.wikipedia.org/wiki/Radiation_pattern) |  | Commons |
+| [[Beam splitter physics]] | [Beam splitter](https://en.wikipedia.org/wiki/Beam_splitter) |  | Commons |
+| [[Binary star orbits]] | [Binary star](https://en.wikipedia.org/wiki/Binary_star) |  | Commons |
+| [[Bispectrum and triple correlation]] | [Bispectrum](https://en.wikipedia.org/wiki/Bispectrum) |  |  |
+| [[Bracewell nuller]] | [Nuller](https://en.wikipedia.org/wiki/Nuller) |  |  |
+| [[Calibration overview]] | [Calibration (statistics)](https://en.wikipedia.org/wiki/Calibration_%28statistics%29) |  |  |
+| [[CHARA array]] | [CHARA array](https://en.wikipedia.org/wiki/CHARA_array) |  | Commons |
+| [[CLEAN algorithm]] | [CLEAN (algorithm)](https://en.wikipedia.org/wiki/CLEAN_%28algorithm%29) |  |  |
+| [[Closure amplitude]] | [Closure phase](https://en.wikipedia.org/wiki/Closure_phase) | [arXiv:astro-ph/0307036](https://arxiv.org/abs/astro-ph/0307036) |  |
+| [[COAST Cambridge Optical Aperture Synthesis Telescope]] | [Cambridge Optical Aperture Synthesis Telescope](https://en.wikipedia.org/wiki/Cambridge_Optical_Aperture_Synthesis_Telescope) |  | Commons |
+| [[Coherence function and visibility]] | [Coherence (physics)](https://en.wikipedia.org/wiki/Coherence_%28physics%29) |  |  |
+| [[Coherent vs incoherent imaging]] | [Coherence (physics)](https://en.wikipedia.org/wiki/Coherence_%28physics%29) |  |  |
+| [[Components of a modern interferometer]] | [Astronomical interferometer](https://en.wikipedia.org/wiki/Astronomical_interferometer) | [arXiv:astro-ph/0307036](https://arxiv.org/abs/astro-ph/0307036) | Commons |
+| [[Connected element interferometer]] | [Astronomical interferometer](https://en.wikipedia.org/wiki/Astronomical_interferometer) | [arXiv:astro-ph/0307036](https://arxiv.org/abs/astro-ph/0307036) | Commons |
+| [[Coronagraphy]] | [Coronagraph](https://en.wikipedia.org/wiki/Coronagraph) | [arXiv:1605.02731](https://arxiv.org/abs/1605.02731) | Commons |
+| [[Cosmological masers]] | [Astrophysical maser](https://en.wikipedia.org/wiki/Astrophysical_maser) |  |  |
+| [[Crowding limitation]] | [Source-monitoring error](https://en.wikipedia.org/wiki/Source-monitoring_error) |  |  |
+| [[Deconvolution algorithms compared]] | [Deconvolution](https://en.wikipedia.org/wiki/Deconvolution) |  | Commons |
+| [[Deformable mirrors and tip-tilt]] | [Deformable mirror](https://en.wikipedia.org/wiki/Deformable_mirror) | [arXiv:1201.5741](https://arxiv.org/abs/1201.5741) | Commons |
+| [[Delay lines and path-length equalization]] | [Astronomical interferometer](https://en.wikipedia.org/wiki/Astronomical_interferometer) | [arXiv:astro-ph/0307036](https://arxiv.org/abs/astro-ph/0307036) | Commons |
+| [[Diffraction patterns of simple apertures]] | [Fraunhofer diffraction](https://en.wikipedia.org/wiki/Fraunhofer_diffraction) |  |  |
+| [[Digitization quantization and timing in radio interferometry]] | [Quantization (signal processing)](https://en.wikipedia.org/wiki/Quantization_%28signal_processing%29) |  | Commons |
+| [[Dirty beam and dirty image]] | [Aperture synthesis](https://en.wikipedia.org/wiki/Aperture_synthesis) | [arXiv:astro-ph/0307036](https://arxiv.org/abs/astro-ph/0307036) |  |
+| [[Downconversion of signals in radio interferometers]] | [Heterodyne](https://en.wikipedia.org/wiki/Heterodyne) |  | Commons |
+| [[Dust shells and Wolf-Rayet stars]] | [Wolf–Rayet star](https://en.wikipedia.org/wiki/Wolf%E2%80%93Rayet_star) |  |  |
+| [[Earth rotation synthesis in radio]] | [Aperture synthesis](https://en.wikipedia.org/wiki/Aperture_synthesis) | [arXiv:astro-ph/0307036](https://arxiv.org/abs/astro-ph/0307036) |  |
+| [[Earth-rotation aperture synthesis]] | [Aperture synthesis](https://en.wikipedia.org/wiki/Aperture_synthesis) | [arXiv:astro-ph/0307036](https://arxiv.org/abs/astro-ph/0307036) |  |
+| [[Electromagnetic waves and photons]] | [Photon](https://en.wikipedia.org/wiki/Photon) |  |  |
+| [[Event Horizon Telescope EHT]] | [Event Horizon Telescope](https://en.wikipedia.org/wiki/Event_Horizon_Telescope) | [arXiv:1906.11238](https://arxiv.org/abs/1906.11238) | Commons |
+| [[Exoplanet imaging]] | [Methods of detecting exoplanets](https://en.wikipedia.org/wiki/Methods_of_detecting_exoplanets) | [arXiv:1605.02731](https://arxiv.org/abs/1605.02731) | Commons |
+| [[Fabry-Perot interferometer]] | [Fabry–Pérot interferometer](https://en.wikipedia.org/wiki/Fabry%E2%80%93P%C3%A9rot_interferometer) |  | Commons |
+| [[Flux calibration]] | [Spectrophotometry](https://en.wikipedia.org/wiki/Spectrophotometry) |  | Commons |
+| [[Fraunhofer diffraction]] | [Fraunhofer diffraction](https://en.wikipedia.org/wiki/Fraunhofer_diffraction) |  |  |
+| [[Fresnel biprism]] | [Ridged mirror](https://en.wikipedia.org/wiki/Ridged_mirror) |  |  |
+| [[Fresnel double mirror]] | [Young's interference experiment](https://en.wikipedia.org/wiki/Young%27s_interference_experiment) |  |  |
+| [[Fresnel-Arago laws]] | [Fresnel–Arago laws](https://en.wikipedia.org/wiki/Fresnel%E2%80%93Arago_laws) |  |  |
+| [[Fried parameter $r_0$]] | [Fried parameter](https://en.wikipedia.org/wiki/Fried_parameter) | [arXiv:1201.5741](https://arxiv.org/abs/1201.5741) |  |
+| [[Fringe tracking]] | [Astronomical interferometer](https://en.wikipedia.org/wiki/Astronomical_interferometer) | [arXiv:astro-ph/0307036](https://arxiv.org/abs/astro-ph/0307036) | Commons |
+| [[Fringe visibility and contrast]] | [Interferometric visibility](https://en.wikipedia.org/wiki/Interferometric_visibility) |  |  |
+| [[Fringes of equal inclination]] | [Wave interference](https://en.wikipedia.org/wiki/Wave_interference) |  | Commons |
+| [[Fringes of equal thickness]] | [Thin-film interference](https://en.wikipedia.org/wiki/Thin-film_interference) |  | Commons |
+| [[Frozen turbulence and Taylor hypothesis]] | [Turbulence](https://en.wikipedia.org/wiki/Turbulence) |  |  |
+| [[Future ground-based optical]] | [Extremely large telescope](https://en.wikipedia.org/wiki/Extremely_large_telescope) |  | Commons |
+| [[Future space-based]] | [Space telescope](https://en.wikipedia.org/wiki/Space_telescope) |  | Commons |
+| [[Galactic Center Sgr A and S-stars]] | [Sagittarius A*](https://en.wikipedia.org/wiki/Sagittarius_A*) |  |  |
+| [[Guide stars and laser guide stars]] | [Laser guide star](https://en.wikipedia.org/wiki/Laser_guide_star) | [arXiv:1201.5741](https://arxiv.org/abs/1201.5741) | Commons |
+| [[Hanbury Brown Twiss effect]] | [Hanbury Brown and Twiss effect](https://en.wikipedia.org/wiki/Hanbury_Brown_and_Twiss_effect) | [arXiv:1204.3624](https://arxiv.org/abs/1204.3624) |  |
+| [[Heterodyne vs direct detection]] | [Heterodyne](https://en.wikipedia.org/wiki/Heterodyne) |  | Commons |
+| [[Hypertelescope]] | [Antoine Émile Henry Labeyrie](https://en.wikipedia.org/wiki/Antoine_%C3%89mile_Henry_Labeyrie) |  |  |
+| [[Imaging artifacts]] | [Aperture synthesis](https://en.wikipedia.org/wiki/Aperture_synthesis) | [arXiv:astro-ph/0307036](https://arxiv.org/abs/astro-ph/0307036) |  |
+| [[Intensity interferometry concept]] | [Intensity interferometer](https://en.wikipedia.org/wiki/Intensity_interferometer) | [arXiv:1204.3624](https://arxiv.org/abs/1204.3624) |  |
+| [[Isoplanatic patch]] | [Isoplanatic patch](https://en.wikipedia.org/wiki/Isoplanatic_patch) | [arXiv:1201.5741](https://arxiv.org/abs/1201.5741) |  |
+| [[Keck interferometer]] | [W. M. Keck Observatory](https://en.wikipedia.org/wiki/W._M._Keck_Observatory) |  | Commons |
+| [[Kolmogorov turbulence]] | [Turbulence](https://en.wikipedia.org/wiki/Turbulence) |  |  |
+| [[Large Binocular Telescope LBT]] | [Large Binocular Telescope](https://en.wikipedia.org/wiki/Large_Binocular_Telescope) |  |  |
+| [[Light waves and the EM spectrum]] | [Electromagnetic spectrum](https://en.wikipedia.org/wiki/Electromagnetic_spectrum) |  | Commons |
+| [[Lloyd mirror]] | [Lloyd's mirror](https://en.wikipedia.org/wiki/Lloyd%27s_mirror) |  |  |
+| [[Lunar interferometry concepts]] | [Astronomical interferometer](https://en.wikipedia.org/wiki/Astronomical_interferometer) | [arXiv:astro-ph/0307036](https://arxiv.org/abs/astro-ph/0307036) | Commons |
+| [[Mach-Zehnder interferometer]] | [Mach–Zehnder interferometer](https://en.wikipedia.org/wiki/Mach%E2%80%93Zehnder_interferometer) |  |  |
+| [[Major radio interferometers]] | [Radio telescope](https://en.wikipedia.org/wiki/Radio_telescope) |  | Commons |
+| [[Maximum entropy method]] | [Principle of maximum entropy](https://en.wikipedia.org/wiki/Principle_of_maximum_entropy) |  |  |
+| [[Michelson laboratory interferometer]] | [Michelson interferometer](https://en.wikipedia.org/wiki/Michelson_interferometer) |  | Commons |
+| [[Michelson stellar interferometer]] | [Michelson stellar interferometer](https://en.wikipedia.org/wiki/Michelson_stellar_interferometer) | [arXiv:astro-ph/0307036](https://arxiv.org/abs/astro-ph/0307036) | Commons |
+| [[Mosaicking]] | [Image stitching](https://en.wikipedia.org/wiki/Image_stitching) |  |  |
+| [[Narrabri stellar interferometer]] | [Narrabri Stellar Intensity Interferometer](https://en.wikipedia.org/wiki/Narrabri_Stellar_Intensity_Interferometer) | [arXiv:1204.3624](https://arxiv.org/abs/1204.3624) |  |
+| [[Newton's rings]] | [Newton's rings](https://en.wikipedia.org/wiki/Newton%27s_rings) |  | Commons |
+| [[ngVLA Next Generation VLA]] | [Very Large Array](https://en.wikipedia.org/wiki/Very_Large_Array) |  | Commons |
+| [[NPOI Navy Prototype Optical Interferometer]] | [Navy Precision Optical Interferometer](https://en.wikipedia.org/wiki/Navy_Precision_Optical_Interferometer) |  | Commons |
+| [[Nulling interferometry]] | [Nuller](https://en.wikipedia.org/wiki/Nuller) |  |  |
+| [[Optical path difference OPD]] | [Optical path length](https://en.wikipedia.org/wiki/Optical_path_length) |  |  |
+| [[Optical transfer function]] | [Optical transfer function](https://en.wikipedia.org/wiki/Optical_transfer_function) |  |  |
+| [[Optimal array geometry]] | [Aperture synthesis](https://en.wikipedia.org/wiki/Aperture_synthesis) | [arXiv:astro-ph/0307036](https://arxiv.org/abs/astro-ph/0307036) |  |
+| [[Phase closure]] | [Closure phase](https://en.wikipedia.org/wiki/Closure_phase) | [arXiv:astro-ph/0307036](https://arxiv.org/abs/astro-ph/0307036) |  |
+| [[Phase referencing]] | [Very-long-baseline interferometry](https://en.wikipedia.org/wiki/Very-long-baseline_interferometry) |  |  |
+| [[Photon noise and statistics]] | [Shot noise](https://en.wikipedia.org/wiki/Shot_noise) |  | Commons |
+| [[Plane waves and Huygens principle]] | [Huygens–Fresnel principle](https://en.wikipedia.org/wiki/Huygens%E2%80%93Fresnel_principle) |  |  |
+| [[Point spread function]] | [Point spread function](https://en.wikipedia.org/wiki/Point_spread_function) |  | Commons |
+| [[Polarization in interferometry]] | [Polarization (waves)](https://en.wikipedia.org/wiki/Polarization_%28waves%29) |  | Commons |
+| [[Pulsar interferometry]] | [Pulsar](https://en.wikipedia.org/wiki/Pulsar) |  | Commons |
+| [[Pulsar timing arrays as interferometers]] | [Pulsar timing array](https://en.wikipedia.org/wiki/Pulsar_timing_array) |  |  |
+| [[Pulsating stars and Mira variables]] | [Mira variable](https://en.wikipedia.org/wiki/Mira_variable) |  |  |
+| [[Radiation mechanisms in astronomy and interferometers]] | [Emission spectrum](https://en.wikipedia.org/wiki/Emission_spectrum) |  | Commons |
+| [[Radio astronomy basics]] | [Radio astronomy](https://en.wikipedia.org/wiki/Radio_astronomy) |  | Commons |
+| [[Radio interferometer architecture]] | [Radio telescope](https://en.wikipedia.org/wiki/Radio_telescope) |  | Commons |
+| [[Radiometer equation and SEFD]] | [Radiometer](https://en.wikipedia.org/wiki/Radiometer) |  |  |
+| [[Sagnac interferometer]] | [Sagnac effect](https://en.wikipedia.org/wiki/Sagnac_effect) |  | Commons |
+| [[Scintillation and twinkling]] | [Twinkling](https://en.wikipedia.org/wiki/Twinkling) |  |  |
+| [[Self-calibration]] | [Closure phase](https://en.wikipedia.org/wiki/Closure_phase) | [arXiv:astro-ph/0307036](https://arxiv.org/abs/astro-ph/0307036) |  |
+| [[Sensitivity and modern revival]] | [Intensity interferometer](https://en.wikipedia.org/wiki/Intensity_interferometer) | [arXiv:1204.3624](https://arxiv.org/abs/1204.3624) |  |
+| [[Spatial coherence]] | [Coherence (physics)](https://en.wikipedia.org/wiki/Coherence_%28physics%29) |  |  |
+| [[Specific intensity and flux density]] | [Spectral flux density](https://en.wikipedia.org/wiki/Spectral_flux_density) |  |  |
+| [[Speckle imaging algorithms]] | [Speckle imaging](https://en.wikipedia.org/wiki/Speckle_imaging) | [arXiv:astro-ph/0307036](https://arxiv.org/abs/astro-ph/0307036) | Commons |
+| [[Speckle interferometry]] | [Speckle imaging](https://en.wikipedia.org/wiki/Speckle_imaging) | [arXiv:astro-ph/0307036](https://arxiv.org/abs/astro-ph/0307036) | Commons |
+| [[Stellar diameters and limb darkening]] | [Limb darkening](https://en.wikipedia.org/wiki/Limb_darkening) |  | Commons |
+| [[Stellar surface imaging]] | [Doppler imaging](https://en.wikipedia.org/wiki/Doppler_imaging) |  |  |
+| [[Steps in radio interferometric observations]] | [Radio astronomy](https://en.wikipedia.org/wiki/Radio_astronomy) |  | Commons |
+| [[Structure function and correlation function]] | [Structure function](https://en.wikipedia.org/wiki/Structure_function) |  |  |
+| [[Superposition and interference]] | [Superposition principle](https://en.wikipedia.org/wiki/Superposition_principle) |  |  |
+| [[Temporal coherence]] | [Coherence time](https://en.wikipedia.org/wiki/Coherence_time) |  |  |
+| [[The (u, v) plane]] | [Aperture synthesis](https://en.wikipedia.org/wiki/Aperture_synthesis) | [arXiv:astro-ph/0307036](https://arxiv.org/abs/astro-ph/0307036) |  |
+| [[The phase problem in interferometry]] | [Phase retrieval](https://en.wikipedia.org/wiki/Phase_retrieval) |  |  |
+| [[The Square Kilometre Array SKA]] | [Square Kilometre Array](https://en.wikipedia.org/wiki/Square_Kilometre_Array) |  | Commons |
+| [[Theory of speckle interferometry]] | [Speckle imaging](https://en.wikipedia.org/wiki/Speckle_imaging) | [arXiv:astro-ph/0307036](https://arxiv.org/abs/astro-ph/0307036) | Commons |
+| [[Two-element correlator]] | [Radio telescope](https://en.wikipedia.org/wiki/Radio_telescope) |  | Commons |
+| [[Van Cittert-Zernike theorem]] | [Van Cittert–Zernike theorem](https://en.wikipedia.org/wiki/Van_Cittert%E2%80%93Zernike_theorem) | [arXiv:astro-ph/0307036](https://arxiv.org/abs/astro-ph/0307036) |  |
+| [[Very Long Baseline Interferometry VLBI]] | [Very-long-baseline interferometry](https://en.wikipedia.org/wiki/Very-long-baseline_interferometry) |  |  |
+| [[VLTI Very Large Telescope Interferometer]] | [Very Large Telescope](https://en.wikipedia.org/wiki/Very_Large_Telescope) |  | Commons |
+| [[Wavefront sensors]] | [Wavefront](https://en.wikipedia.org/wiki/Wavefront) |  | Commons |
+| [[Wavefront-division interferometers]] | [Interferometry](https://en.wikipedia.org/wiki/Interferometry) |  | Commons |
+| [[Why intensity interferometry escapes atmospheric phase]] | [Intensity interferometer](https://en.wikipedia.org/wiki/Intensity_interferometer) | [arXiv:1204.3624](https://arxiv.org/abs/1204.3624) |  |
+| [[Why interferometry]] | [Astronomical interferometer](https://en.wikipedia.org/wiki/Astronomical_interferometer) | [arXiv:astro-ph/0307036](https://arxiv.org/abs/astro-ph/0307036) | Commons |
+| [[Wiener-Khinchin theorem]] | [Wiener–Khinchin theorem](https://en.wikipedia.org/wiki/Wiener%E2%80%93Khinchin_theorem) |  |  |
+| [[Young experiment as a stellar interferometer]] | [Double-slit experiment](https://en.wikipedia.org/wiki/Double-slit_experiment) |  | Commons |
+| [[Young stellar object disks]] | [Protoplanetary disk](https://en.wikipedia.org/wiki/Protoplanetary_disk) |  | Commons |
+
+<!-- /moc-sources:wiki-arxiv -->
+
 ## Astronomical Interferometry Oral Exam Defense Preparation Matrix
 
 ### Question 1: The Van Cittert-Zernike Theorem & Spatial Coherence

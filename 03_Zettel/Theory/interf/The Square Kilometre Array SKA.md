@@ -124,6 +124,17 @@ scientifically, SKA is expected to:
 - complement Earth-based optical instruments (ELT, JWST)
 - complement gravitational-wave observatories (LIGO, ET)
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Square Kilometre Array|500](https://commons.wikimedia.org/wiki/Special:FilePath/Artist_impression_SKA_telescopes.jpg?width=600)
+*Lead figure of the Wikipedia article Square Kilometre Array* ([Commons file page](https://commons.wikimedia.org/wiki/File:Artist_impression_SKA_telescopes.jpg), SKAO, CC BY 3.0, as used on the Wikipedia article [Square Kilometre Array](https://en.wikipedia.org/wiki/Square_Kilometre_Array))
+
+- **Square Kilometre Array**. "Square Kilometre Array (SKA) is an intergovernmental international radio telescope project being built in Australia (low-frequency) and South Africa (mid-frequency). The combining infrastructure, the Square Kilometre Array Observatory (SKAO), and headquarters, are located at the Jodrell Bank Observatory in the United Kingdom." ([Wikipedia](https://en.wikipedia.org/wiki/Square_Kilometre_Array))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Major radio interferometers]]

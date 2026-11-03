@@ -48,6 +48,14 @@ partial scattering (continuum + line scattering both present) gives a mixed sour
 $$S_\nu = (1-\omega) B_\nu + \omega J_\nu$$
 with $\omega$ the scattering fraction (albedo).
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Source function**. "The source function is a characteristic of a stellar atmosphere, and in the case of no scattering of photons, describes the ratio of the emission coefficient to the absorption coefficient. It is a measure of how photons in a light beam are removed and replaced by new photons by the material it passes through. Its units in the cgs-system are erg s−1 cm−2 sr−1 Hz−1 and in SI are W m−2 sr−1 Hz−1 ." ([Wikipedia](https://en.wikipedia.org/wiki/Source_function))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Equation of radiative transfer]]

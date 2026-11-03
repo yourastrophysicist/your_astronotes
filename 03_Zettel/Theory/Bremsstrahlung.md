@@ -60,6 +60,17 @@ Bremsstrahlung can be detected in visible, near-infrared, and ultraviolet
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Bremsstrahlung|500](https://commons.wikimedia.org/wiki/Special:FilePath/Bremsstrahlung.svg?width=600)
+*Lead figure of the Wikipedia article Bremsstrahlung* ([Commons file page](https://commons.wikimedia.org/wiki/File:Bremsstrahlung.svg), No machine-readable author provided. Journey234 assumed (based on copyright claims)., Public domain, as used on the Wikipedia article [Bremsstrahlung](https://en.wikipedia.org/wiki/Bremsstrahlung))
+
+- **Bremsstrahlung**. "In particle physics, bremsstrahlung (; German: [ˈbʁɛms.ʃtʁaːlʊŋ] ; from German bremsen 'to brake' and Strahlung 'radiation') is electromagnetic radiation produced by the deceleration of a charged particle when deflected by another charged particle, typically an electron by an atomic nucleus." ([Wikipedia](https://en.wikipedia.org/wiki/Bremsstrahlung))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Balmer continuum]]

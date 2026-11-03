@@ -79,6 +79,17 @@ a Fizeau interferometer is essentially a fringes-of-equal-inclination setup adap
 
 this is *the* standard method for testing telescope mirrors and other optical elements to fractional-wavelength precision.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Wave interference|500](https://commons.wikimedia.org/wiki/Special:FilePath/Interfering_surface_waves_on_a_lake.jpg?width=600)
+*Lead figure of the Wikipedia article Wave interference* ([Commons file page](https://commons.wikimedia.org/wiki/File:Interfering_surface_waves_on_a_lake.jpg), Markus Pössel, CC BY 4.0, as used on the Wikipedia article [Wave interference](https://en.wikipedia.org/wiki/Wave_interference))
+
+- **Wave interference**. "In physics, interference is a phenomenon in which two coherent waves are combined by adding their intensities or displacements with due consideration for their phase difference. The resultant wave may have greater amplitude (constructive interference) or lower amplitude (destructive interference) if the two waves are in phase or out of phase, respectively." ([Wikipedia](https://en.wikipedia.org/wiki/Wave_interference))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Optical path difference OPD]]

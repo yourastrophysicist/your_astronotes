@@ -86,6 +86,14 @@ this damps the oscillations and converges where vanilla relaxation diverges.
 - **Gauss-Seidel iteration** is relaxation applied to a linear system, equivalent to $\mathbf{x} = (D + L)^{-1}(\mathbf{b} - U\mathbf{x})$
 - **Picard iteration** for solving differential equations is relaxation on the integral form
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Relaxation (iterative method)**. "In numerical mathematics, relaxation methods are iterative methods for solving systems of equations, including nonlinear systems. Relaxation methods were developed for solving large sparse linear systems, which arose as finite-difference discretizations of differential equations." ([Wikipedia](https://en.wikipedia.org/wiki/Relaxation_%28iterative_method%29))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Bisection method]]

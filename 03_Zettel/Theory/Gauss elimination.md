@@ -89,6 +89,17 @@ $$\det A = \prod_{k=1}^N A_{kk}$$
 
 if I need to solve $A\mathbf{x}_i = \mathbf{b}_i$ for many $\mathbf{b}_i$, **do not redo the elimination each time**. factor $A = LU$ once (also $O(N^3)$) and reuse: each new RHS costs only $O(N^2)$. see [[LU decomposition]].
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Gaussian elimination|500](https://commons.wikimedia.org/wiki/Special:FilePath/Gaussian_elimination_animated.gif?width=600)
+*Animation of the execution of Gaussian elimination* ([Commons file page](https://commons.wikimedia.org/wiki/File:Gaussian_elimination_animated.gif), Jirka Fiala, CC BY-SA 4.0, as used on the Wikipedia article [Gaussian elimination](https://en.wikipedia.org/wiki/Gaussian_elimination))
+
+- **Gaussian elimination**. "In mathematics, Gaussian elimination, also known as row reduction, is an algorithm for solving systems of linear equations. It consists of a sequence of row-wise operations performed on the corresponding matrix of coefficients. This method can also be used to compute the rank of a matrix, the determinant of a square matrix, and the inverse of an invertible matrix." ([Wikipedia](https://en.wikipedia.org/wiki/Gaussian_elimination))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Partial pivoting]] — the fix for zero/tiny pivots

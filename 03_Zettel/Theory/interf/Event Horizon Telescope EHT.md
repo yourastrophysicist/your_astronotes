@@ -112,6 +112,18 @@ reading cue: this is the famous M87* ring/shadow reconstruction. it is the scien
 
 source: ESO/EHT images eso1907j and eso1907a.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Event Horizon Telescope|500](https://commons.wikimedia.org/wiki/Special:FilePath/Event_Horizon_Telescope_Collaboration_%28testing-general-relativity-with-the-event-horizon%29.jpg?width=600)
+*The web of international telescopes that comprised the Event Horizon Telescope in 2019* ([Commons file page](https://commons.wikimedia.org/wiki/File:Event_Horizon_Telescope_Collaboration_%28testing-general-relativity-with-the-event-horizon%29.jpg), D. Marrone/UofA, CC BY 4.0, as used on the Wikipedia article [Event Horizon Telescope](https://en.wikipedia.org/wiki/Event_Horizon_Telescope))
+
+- **Event Horizon Telescope**. "The Event Horizon Telescope (EHT) is a telescope array consisting of a global network of radio telescopes. The EHT project combines data from several very-long-baseline interferometry (VLBI) stations around Earth, which form a combined array with an angular resolution sufficient to observe objects the size of a supermassive black hole's event horizon." ([Wikipedia](https://en.wikipedia.org/wiki/Event_Horizon_Telescope))
+- **First M87 Event Horizon Telescope Results. I. The Shadow of the Supermassive Black Hole**. "When surrounded by a transparent emission region, black holes are expected to reveal a dark shadow caused by gravitational light bending and photon capture at the event horizon. To image and study this phenomenon, we have assembled the Event Horizon Telescope, a global very long baseline interferometry array observing at a wavelength of 1.3 mm." ([arXiv:1906.11238](https://arxiv.org/abs/1906.11238))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Very Long Baseline Interferometry VLBI]]

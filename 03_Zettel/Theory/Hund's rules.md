@@ -59,6 +59,14 @@ physical origins:
 - valid in **LS coupling**. for jj or intermediate, more careful analysis needed.
 - the predicted ground term is usually correct for $Z < 30$. for heavier atoms intermediate coupling can shift it.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Hund's rules**. "In atomic physics and quantum chemistry, Hund's rules refers to a set of rules that German physicist Friedrich Hund formulated around 1925, which are used to determine the term symbol that corresponds to the ground state of a multi-electron atom. The first rule is especially important in chemistry, where it is often referred to simply as Hund's Rule." ([Wikipedia](https://en.wikipedia.org/wiki/Hund%27s_rules))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Russell-Saunders LS coupling]]

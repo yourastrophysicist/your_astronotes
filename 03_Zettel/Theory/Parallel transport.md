@@ -55,6 +55,18 @@ with $A^{\rho\sigma}$ the antisymmetric area tensor of the loop. so the **Rieman
 
 this is the operational definition of curvature: not "how the manifold looks bent" but "how parallel transport fails to be path-independent."
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Parallel transport|500](https://commons.wikimedia.org/wiki/Special:FilePath/Parallel_Transport.svg?width=600)
+*Intrinsic curvature of the sphere: if you parallel-transport a vector around the closed loop ANB, the vector is shifted proportionally to the area delimited by the closed loop and to the curvature of the sphere* ([Commons file page](https://commons.wikimedia.org/wiki/File:Parallel_Transport.svg), Fred the Oyster, CC BY-SA 4.0, as used on the Wikipedia article [Parallel transport](https://en.wikipedia.org/wiki/Parallel_transport))
+
+- **Parallel transport**. "In differential geometry, parallel transport (or parallel translation) is a way of transporting geometrical data along smooth curves in a manifold. If the manifold is equipped with an affine connection (a covariant derivative or connection on the tangent bundle), then this connection allows one to transport vectors of the manifold along curves so that they stay parallel with respect to the connection." ([Wikipedia](https://en.wikipedia.org/wiki/Parallel_transport))
+- **Lecture Notes on General Relativity**. "These notes represent approximately one semester's worth of lectures on introductory general relativity for beginning graduate students in physics. Topics include manifolds, Riemannian geometry, Einstein's equations, and three applications: gravitational radiation, black holes, and cosmology." ([arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Christoffel symbols]]

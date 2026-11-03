@@ -125,6 +125,17 @@ Effect on X-ray QE:
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Quantum efficiency|500](https://commons.wikimedia.org/wiki/Special:FilePath/Quantum_efficiency_graph_for_WFPC2-en.svg?width=600)
+*A graph showing variation of quantum efficiency with wavelength of the CCD chip "PC1" in the Hubble Space Telescope's Wide Field and Planetary Camera WFPC2* ([Commons file page](https://commons.wikimedia.org/wiki/File:Quantum_efficiency_graph_for_WFPC2-en.svg), Quantum efficiency graph for WFPC2.png : Dicklyon Derivative work : Eric Bajart, CC BY-SA 3.0, as used on the Wikipedia article [Quantum efficiency](https://en.wikipedia.org/wiki/Quantum_efficiency))
+
+- **Quantum efficiency**. "The quantum efficiency (QE) of a photodetector is a measure of its electrical response to light. Another name for it is incident photon to converted electron (IPCE) ratio. In a charge-coupled device (CCD) or other photodetector, quantum efficiency is the ratio between the number of charge carriers collected at either terminal and the number of photons hitting the device's photoreactive surface." ([Wikipedia](https://en.wikipedia.org/wiki/Quantum_efficiency))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[CCD basics]]

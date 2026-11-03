@@ -26,6 +26,17 @@ key features along the RGB:
 
 **mass loss on the RGB.** stars lose $\Delta M \sim 0.1$ to $0.3 \, M_\odot$ on the upper RGB through the reimers wind (driven by chromospheric activity, $\dot M \propto L R / M$) before reaching the tip. this mass loss sets the envelope mass that the star carries onto the horizontal branch and therefore controls HB morphology.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Red-giant branch|500](https://commons.wikimedia.org/wiki/Special:FilePath/M5_colour_magnitude_diagram.png?width=600)
+*Lead figure of the Wikipedia article Red-giant branch* ([Commons file page](https://commons.wikimedia.org/wiki/File:M5_colour_magnitude_diagram.png), Lithopsian, CC BY-SA 4.0, as used on the Wikipedia article [Red-giant branch](https://en.wikipedia.org/wiki/Red-giant_branch))
+
+- **Red-giant branch**. "The red-giant branch (RGB), sometimes called the first giant branch, is the portion of the giant branch before helium ignition occurs in the course of stellar evolution. It is a stage that follows the main sequence for low- to intermediate-mass stars. Red-giant-branch stars have an inert helium core surrounded by a shell of hydrogen fusing via the CNO cycle." ([Wikipedia](https://en.wikipedia.org/wiki/Red-giant_branch))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 - [[Stellar_Astrophysics_MOC]]
 - [[Subgiant branch SGB]]

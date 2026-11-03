@@ -118,6 +118,17 @@ the dominance of radiative vs convective zones depends fundamentally on stellar 
 - **Kippenhahn, Weigert & Weiss**, *Stellar Structure and Evolution* (2nd ed., Springer) — the standard graduate reference for the four-equation formalism, MLT, and polytropic structure derived above.
 - **Bressan et al. (2012)**, *MNRAS* 427, 127, [arXiv:1208.4498](https://arxiv.org/abs/1208.4498) — the PARSEC stellar evolution code: modern numerical solution of the four structure equations with updated opacities, equations of state, and mixing-length calibration, used throughout the Padova isochrone grids referenced in [[Photometric chromosome maps]] and [[Extended main sequence turn-off eMSTO]].
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Stellar structure|500](https://commons.wikimedia.org/wiki/Special:FilePath/Sun_poster.svg?width=600)
+*Diagram of the Sun* ([Commons file page](https://commons.wikimedia.org/wiki/File:Sun_poster.svg), Kelvinsong, CC BY-SA 3.0, as used on the Wikipedia article [Stellar structure](https://en.wikipedia.org/wiki/Stellar_structure))
+
+- **Stellar structure**. "Stellar structure models describe the internal structure of a star in detail and make predictions about the luminosity, the color and the future evolution of the star. Different classes and ages of stars have different internal structures, reflecting their elemental makeup and energy transport mechanisms." ([Wikipedia](https://en.wikipedia.org/wiki/Stellar_structure))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

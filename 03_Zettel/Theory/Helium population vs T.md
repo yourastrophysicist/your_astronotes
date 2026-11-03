@@ -63,6 +63,14 @@ both peaks have the characteristic Saha + Boltzmann shape: cold rise, hot fall.
 
 both singlet (para-) and triplet (ortho-) He I lines come from levels at similar $\sim 20$ eV excitation. their bell curves vs $T$ are essentially the same shape. orthohelium has a slightly more populated $2\,^3S$ level due to its triplet metastability, so He I $\lambda 5876$ (D3) is often slightly stronger than the singlet equivalent.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Saha ionization equation**. "In physics, the Saha ionization equation is an expression that relates the ionization state of a gas in thermal equilibrium to the temperature and pressure. The equation is a result of combining ideas of quantum mechanics and statistical mechanics and is used to explain the spectral classification of stars. The expression was developed by physicist Meghnad Saha in 1920." ([Wikipedia](https://en.wikipedia.org/wiki/Saha_ionization_equation))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Boltzmann equation in spectroscopy]]

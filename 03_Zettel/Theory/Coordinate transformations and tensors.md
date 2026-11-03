@@ -51,6 +51,18 @@ the cure: replace $\partial$ with the **covariant derivative** $\nabla$, which a
 - **Riemann (1, 3)**: $R^\rho{}_{\sigma\mu\nu}$.
 - **Christoffel symbols (1, 2)** *not a tensor*: $\Gamma^\rho{}_{\mu\nu}$, even though they look indexed like one. they encode coordinate choice.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Tensor|500](https://commons.wikimedia.org/wiki/Special:FilePath/Components_stress_tensor.svg?width=600)
+*Components of the Cauchy stress tensor in Cartesian coordinates* ([Commons file page](https://commons.wikimedia.org/wiki/File:Components_stress_tensor.svg), Components stress tensor cartesian.svg: Sanpaz / derivative work: TimothyRias, CC BY-SA 3.0, as used on the Wikipedia article [Tensor](https://en.wikipedia.org/wiki/Tensor))
+
+- **Tensor**. "In mathematics, a tensor is an algebraic object that describes a multilinear relationship between sets of algebraic objects associated with a vector space. Tensors may map between different objects such as vectors, scalars, and even other tensors." ([Wikipedia](https://en.wikipedia.org/wiki/Tensor))
+- **Lecture Notes on General Relativity**. "These notes represent approximately one semester's worth of lectures on introductory general relativity for beginning graduate students in physics. Topics include manifolds, Riemannian geometry, Einstein's equations, and three applications: gravitational radiation, black holes, and cosmology." ([arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Manifold metric and signature]]

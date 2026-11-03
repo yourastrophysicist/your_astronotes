@@ -34,6 +34,14 @@ key subtleties. the **mass function** matters: an isochrone is only a curve, but
 
 the result of a successful isochrone fit is the *simultaneous* determination of cluster age, metallicity, distance, and reddening, with internal consistency checks from the multiple loci on the CMD (TO, RGB, HB, WD). for the milone group's high-precision HST work on multiple populations, isochrone fitting is the workhorse tool that converts photometric splits into helium and CNO abundance differences between sub-populations.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Isochron**. "In the mathematical theory of dynamical systems, an isochron is a set of initial conditions for the system that all lead to the same long-term behaviour." ([Wikipedia](https://en.wikipedia.org/wiki/Isochron))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 - [[Stellar_Astrophysics_MOC]]
 - [[Main sequence turn-off as age indicator]]

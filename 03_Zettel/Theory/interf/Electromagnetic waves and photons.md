@@ -78,6 +78,14 @@ but if I *measure* which slit a photon went through, the interference disappears
 
 for interferometry, the practical lesson: **never measure which path the light took** if you want to see fringes. delay lines, beam combiners, etc. are designed to make the two paths *indistinguishable*.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Photon**. "A photon (from Ancient Greek φῶς, φωτός (phôs, phōtós) 'light') is an elementary particle that is a quantum of the electromagnetic field, including electromagnetic radiation such as light and radio waves, and the force carrier for the electromagnetic force. Photons are massless particles that can only move at one speed, the speed of light measured in a vacuum. The photon belongs to the class of boson particles." ([Wikipedia](https://en.wikipedia.org/wiki/Photon))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Plane waves and Huygens principle]]

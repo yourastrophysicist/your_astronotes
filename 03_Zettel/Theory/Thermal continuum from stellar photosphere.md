@@ -58,6 +58,17 @@ $$F_{\rm bol} = \int F_\nu d\nu = \sigma_{SB} T_{\rm eff}^4$$
 
 photometric magnitudes depend on the convolution of $F_\lambda$ with filter throughput. the deviations from Planck contribute to the **bolometric correction** ([[Bolometric correction and effective temperature]]). for the Sun, $BC_V \approx -0.07$, very small. for an O5 star, $BC_V \approx -4.1$ (most light in UV).
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Photosphere|500](https://commons.wikimedia.org/wiki/Special:FilePath/Highest_resolution_photo_of_Sun_%28NSF%29_as_of_January_20%2C_2020.jpg?width=600)
+*Lead figure of the Wikipedia article Photosphere* ([Commons file page](https://commons.wikimedia.org/wiki/File:Highest_resolution_photo_of_Sun_%28NSF%29_as_of_January_20,_2020.jpg), NSO/AURA/NSF, CC BY 4.0, as used on the Wikipedia article [Photosphere](https://en.wikipedia.org/wiki/Photosphere))
+
+- **Photosphere**. "The photosphere is a star's outer shell from which light is radiated. It extends into a star's surface until the plasma becomes opaque, equivalent to an optical depth of approximately 2⁄3, or equivalently, a depth from which 50% of light will escape without being scattered. Stars, except perhaps neutron stars, have no solid or liquid surface." ([Wikipedia](https://en.wikipedia.org/wiki/Photosphere))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Continuum opacity sources]]

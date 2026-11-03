@@ -66,6 +66,15 @@ the cosmic SFR history is the integral of the galaxy LF over $L$ in slices of $z
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Star formation**. "Star formation is the process by which dense regions within molecular clouds in interstellar space—sometimes referred to as "stellar nurseries" or "star-forming regions"—collapse and form stars." ([Wikipedia](https://en.wikipedia.org/wiki/Star_formation))
+- **Cosmic Star Formation History**. "Over the past two decades, an avalanche of data from multiwavelength imaging and spectroscopic surveys has revolutionized our view of galaxy formation and evolution." ([arXiv:1403.0007](https://arxiv.org/abs/1403.0007))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Chemical evolution of galaxies]]

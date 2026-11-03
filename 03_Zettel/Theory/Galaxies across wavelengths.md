@@ -141,6 +141,17 @@ every photon absorbed by dust in the UV/optical is precisely re-emitted in the i
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Observational astronomy|500](https://commons.wikimedia.org/wiki/Special:FilePath/Mayall_Telescope.jpg?width=600)
+*Lead figure of the Wikipedia article Observational astronomy* ([Commons file page](https://commons.wikimedia.org/wiki/File:Mayall_Telescope.jpg), see file page, CC BY 2.5, as used on the Wikipedia article [Observational astronomy](https://en.wikipedia.org/wiki/Observational_astronomy))
+
+- **Observational astronomy**. "Observational astronomy is a division of astronomy that is concerned with recording data about the observable universe, the practice and study of observing celestial objects with the use of telescopes and other astronomical instruments. As a science, the study of astronomy does not rely on direct experiments with the objects in a distant universe." ([Wikipedia](https://en.wikipedia.org/wiki/Observational_astronomy))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

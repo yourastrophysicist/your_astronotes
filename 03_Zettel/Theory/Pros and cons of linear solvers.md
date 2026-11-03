@@ -108,6 +108,14 @@ U, s, Vt = np.linalg.svd(A)
 # truncate small s, then x = Vt.T @ ((U.T @ b) / s_truncated)
 ```
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **System of linear equations**. "In mathematics, a system of linear equations (or linear system) is a collection of two or more linear equations involving the same variables. For example, { 3 x + 2 y − z = 1 2 x − 2 y + 4 z = − 2 − x + 1 2 y − z = 0 ${\begin{cases}3x+2y-z=1\\2x-2y+4z=-2\\-x+{\frac {1}{2}}y-z=0\end{cases}}$ is a system of three equations in the three variables x, y, z." ([Wikipedia](https://en.wikipedia.org/wiki/System_of_linear_equations))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Gauss elimination]]

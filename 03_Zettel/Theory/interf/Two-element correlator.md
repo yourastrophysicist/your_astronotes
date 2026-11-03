@@ -123,6 +123,17 @@ reading cue: the correlator is where two voltage streams become one visibility. 
 
 source: local study diagram generated from the standard radio interferometer signal chain.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Radio telescope|500](https://commons.wikimedia.org/wiki/Special:FilePath/CSIRO_ScienceImage_4350_CSIROs_Parkes_Radio_Telescope_with_moon_in_the_background.jpg?width=600)
+*Lead figure of the Wikipedia article Radio telescope* ([Commons file page](https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_4350_CSIROs_Parkes_Radio_Telescope_with_moon_in_the_background.jpg), division, CSIRO, CC BY 3.0, as used on the Wikipedia article [Radio telescope](https://en.wikipedia.org/wiki/Radio_telescope))
+
+- **Radio telescope**. "A radio telescope is a specialized antenna and radio receiver used to detect radio waves from astronomical radio sources in the sky. Radio telescopes are the main observing instrument used in radio astronomy, which studies the radio frequency portion of the electromagnetic spectrum, just as optical telescopes are used to make observations in the visible portion of the spectrum in traditional optical astronomy." ([Wikipedia](https://en.wikipedia.org/wiki/Radio_telescope))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Radio interferometer architecture]]

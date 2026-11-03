@@ -46,6 +46,15 @@ compute $R_{\mu\nu}$ explicitly in this ansatz. several components vanish; the r
 
 result: the metric is exactly Schwarzschild, regardless of any time-dependent assumptions. **time-dependence vanishes** in the vacuum exterior.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Birkhoff's theorem (relativity)**. "In general relativity, Birkhoff–Jebsen's theorem states that any spherically symmetric solution of the vacuum field equations must be static and asymptotically flat. This means that the exterior solution (i.e. the spacetime outside of a spherical, nonrotating, gravitating body) must be given by the Schwarzschild metric." ([Wikipedia](https://en.wikipedia.org/wiki/Birkhoff%27s_theorem_%28relativity%29))
+- **Lecture Notes on General Relativity**. "These notes represent approximately one semester's worth of lectures on introductory general relativity for beginning graduate students in physics. Topics include manifolds, Riemannian geometry, Einstein's equations, and three applications: gravitational radiation, black holes, and cosmology." ([arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Schwarzschild metric]]

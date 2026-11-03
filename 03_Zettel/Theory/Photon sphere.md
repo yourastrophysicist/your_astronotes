@@ -54,6 +54,18 @@ for Kerr (rotating BH), the analog of the photon sphere is **two photon spheres*
 
 so a rotating BH has an asymmetric shadow, slightly squashed. EHT data on M87 + Sgr A$^\star$ are consistent with modest spin.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Photon sphere|500](https://commons.wikimedia.org/wiki/Special:FilePath/Black_Hole_Shadow.gif?width=600)
+*Lead figure of the Wikipedia article Photon sphere* ([Commons file page](https://commons.wikimedia.org/wiki/File:Black_Hole_Shadow.gif), Hugo Spinelli, CC0, as used on the Wikipedia article [Photon sphere](https://en.wikipedia.org/wiki/Photon_sphere))
+
+- **Photon sphere**. "A photon sphere, or photon ring or photon circle, arises in a neighbourhood of the event horizon of a black hole where gravity is so strong that emitted photons will not just bend around the black hole but also return to the point where they were emitted from and consequently display boomerang-like properties." ([Wikipedia](https://en.wikipedia.org/wiki/Photon_sphere))
+- **Lecture Notes on General Relativity**. "These notes represent approximately one semester's worth of lectures on introductory general relativity for beginning graduate students in physics. Topics include manifolds, Riemannian geometry, Einstein's equations, and three applications: gravitational radiation, black holes, and cosmology." ([arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Schwarzschild metric]]

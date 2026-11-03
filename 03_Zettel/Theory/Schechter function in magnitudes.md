@@ -240,6 +240,15 @@ When sketching the Schechter function in magnitudes on the blackboard.
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Luminosity function (astronomy)**. "In astronomy, a luminosity function gives the number of stars or galaxies per luminosity interval. Luminosity functions are used to study the properties of large groups or classes of objects, such as the stars in clusters or the galaxies in the Local Group. Note that the term "function" is slightly misleading, and the luminosity function might better be described as a luminosity distribution." ([Wikipedia](https://en.wikipedia.org/wiki/Luminosity_function_%28astronomy%29))
+- **Shedding Light on the Galaxy Luminosity Function**. "From as early as the 1930s, astronomers have tried to quantify the statistical nature of the evolution and large-scale structure of galaxies by studying their luminosity distribution as a function of redshift - known as the galaxy luminosity function (LF)." ([arXiv:1106.2039](https://arxiv.org/abs/1106.2039))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Double power-law modified Schechter]]

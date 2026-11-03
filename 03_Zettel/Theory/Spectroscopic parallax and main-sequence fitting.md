@@ -45,6 +45,14 @@ the Hyades cluster ($d \approx 46$ pc) is the historical zero-point: its main se
 
 a generalisation: fit a theoretical **stellar isochrone** (e.g. PARSEC, BaSTI, Y$^2$, MIST) to the cluster CMD, simultaneously fitting age, metallicity, distance modulus, and reddening. this works when the cluster has both a turnoff and a giant branch. used universally for globular cluster ages.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Spectroscopic parallax**. "Spectroscopic parallax is an astronomical method for measuring the distances to stars. Despite its name, it does not rely on the geometric parallax effect. The spectroscopic parallax technique can be applied to any star for which a spectrum can be recorded." ([Wikipedia](https://en.wikipedia.org/wiki/Spectroscopic_parallax))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Distance ladder derivations]]

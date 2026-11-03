@@ -107,6 +107,18 @@ reading cue: optical interferometry must physically equalize path length so the 
 
 source: ESO image eso9811a, VLTI delay line schematic.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Astronomical interferometer|500](https://commons.wikimedia.org/wiki/Special:FilePath/Disc_around_the_young_star_HD_163296.jpg?width=600)
+*Lead figure of the Wikipedia article Astronomical interferometer* ([Commons file page](https://commons.wikimedia.org/wiki/File:Disc_around_the_young_star_HD_163296.jpg), ESO/S. Renard, CC BY 4.0, as used on the Wikipedia article [Astronomical interferometer](https://en.wikipedia.org/wiki/Astronomical_interferometer))
+
+- **Astronomical interferometer**. "An astronomical interferometer or telescope array is a set of separate telescopes, mirror segments, or radio telescope antennas that work together as a single telescope to provide higher resolution images of astronomical objects such as stars, nebulas and galaxies by means of interferometry." ([Wikipedia](https://en.wikipedia.org/wiki/Astronomical_interferometer))
+- **Optical Interferometry in Astronomy**. "Here I review the current state of the field of optical stellar interferometry, concentrating on ground-based work although a brief report of space interferometry missions is included." ([arXiv:astro-ph/0307036](https://arxiv.org/abs/astro-ph/0307036))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Components of a modern interferometer]]

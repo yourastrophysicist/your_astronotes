@@ -58,6 +58,14 @@ removing electrons from neutral $Z$ atoms produces ions with simpler valence con
 
 isoelectronic ions have the same spectroscopic structure with rescaled energies (roughly $\propto Z_{\rm eff}^2$). useful for predicting unobserved spectra.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Pauli exclusion principle**. "In quantum mechanics, the Pauli exclusion principle states that two or more identical particles with half-integer spins (i.e., fermions) cannot simultaneously occupy the same quantum state. This principle was formulated by Austrian physicist Wolfgang Pauli in 1925 for electrons, and later extended to all fermions with his spin–statistics theorem of 1940." ([Wikipedia](https://en.wikipedia.org/wiki/Pauli_exclusion_principle))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Quantum numbers and atomic states]]

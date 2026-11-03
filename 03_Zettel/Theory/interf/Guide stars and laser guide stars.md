@@ -93,6 +93,18 @@ CHARA does not have LGS but is also looking at such upgrades.
 
 first LGS systems: late 1980s (US Air Force, "Star Wars" laser-imaging research). astronomical use: 1990s (Lick Observatory, Calar Alto). by 2005, every major AO system had LGS capability. by 2025, ELT-class telescopes have multi-LGS systems baked in.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Laser guide star|500](https://commons.wikimedia.org/wiki/Special:FilePath/The_most_powerful_laser_guide_star_system_in_the_world_sees_first_light_at_the_Paranal_Observatory.jpg?width=600)
+*This image shows the four beams emerging from the new laser system on Unit Telescope 4 of the VLT* ([Commons file page](https://commons.wikimedia.org/wiki/File:The_most_powerful_laser_guide_star_system_in_the_world_sees_first_light_at_the_Paranal_Observatory.jpg), ESO/G. Hüdepohl, CC BY 4.0, as used on the Wikipedia article [Laser guide star](https://en.wikipedia.org/wiki/Laser_guide_star))
+
+- **Laser guide star**. "A laser guide star is an artificial star image created for use in astronomical adaptive optics systems, which are employed in large telescopes in order to correct atmospheric distortion of light, a phenomenon termed astronomical seeing. Adaptive optics (AO) systems require a wavefront reference source of light called a guide star." ([Wikipedia](https://en.wikipedia.org/wiki/Laser_guide_star))
+- **Adaptive Optics for Astronomy**. "Adaptive Optics is a prime example of how progress in observational astronomy can be driven by technological developments." ([arXiv:1201.5741](https://arxiv.org/abs/1201.5741))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Adaptive optics]]

@@ -86,6 +86,14 @@ these are all open questions. but the basic framework — slow-roll inflation by
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Eternal inflation**. "In cosmology, eternal inflation is a prediction of some forms of the model of cosmic inflation, a theory developed to explain issues in the original Big Bang theory. According to eternal inflation, the decay of the meta-stable false vacuum in one region led to the inflationary phase of the universe's expansion." ([Wikipedia](https://en.wikipedia.org/wiki/Eternal_inflation))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

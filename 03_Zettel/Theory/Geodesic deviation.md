@@ -47,6 +47,15 @@ with $h_{\rm GW}$ the wave amplitude. for typical astrophysical sources, $h \sim
 
 this is **directly geodesic deviation**: the test masses are in free fall, and the GW imposes oscillating tidal forces via $R_{0i0j}$.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Geodesic deviation**. "In general relativity, if two objects are set in motion along two initially parallel trajectories, the presence of a tidal gravitational force will cause the trajectories to bend towards or away from each other, producing a relative acceleration between the objects." ([Wikipedia](https://en.wikipedia.org/wiki/Geodesic_deviation))
+- **Lecture Notes on General Relativity**. "These notes represent approximately one semester's worth of lectures on introductory general relativity for beginning graduate students in physics. Topics include manifolds, Riemannian geometry, Einstein's equations, and three applications: gravitational radiation, black holes, and cosmology." ([arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Riemann tensor]]

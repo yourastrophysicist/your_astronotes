@@ -48,6 +48,14 @@ $$\frac{n_X^{i+1}}{n_X^i} = \frac{\Gamma_i}{n_e\alpha_i}$$
 
 so high $\Gamma$ or low $n_e$ (high $U$) means more ionised; low $\Gamma$ or high $n_e$ means less ionised. see [[Photoionisation balance]] and [[Ionisation parameter U]].
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Carrier generation and recombination**. "In solid-state physics of semiconductors, carrier generation and carrier recombination are processes by which mobile charge carriers (electrons and electron holes) are created and eliminated. Carrier generation and recombination processes are fundamental to the operation of many optoelectronic semiconductor devices, such as photodiodes, light-emitting diodes and laser diodes." ([Wikipedia](https://en.wikipedia.org/wiki/Carrier_generation_and_recombination))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Photoionization rate]]

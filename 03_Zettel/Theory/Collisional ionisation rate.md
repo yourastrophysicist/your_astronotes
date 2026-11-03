@@ -58,6 +58,17 @@ solving gives the **collisional ionisation equilibrium (CIE)** abundance vs $T$ 
 
 at HII region temperatures, almost all atoms are in the lowest ionisation stage. at $T \sim 10^6$ K, intermediate stages dominate. at $T \sim 10^8$ K, fully stripped He-like + H-like stages dominate.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Electron ionization|500](https://commons.wikimedia.org/wiki/Special:FilePath/Electron_Ionization.svg?width=600)
+*Diagram of Electron Ionization, prepared with reference to Wikipedia article and http://schwinger.caltech.edu/~carl/ionization.html* ([Commons file page](https://commons.wikimedia.org/wiki/File:Electron_Ionization.svg), Evan Mason, CC BY-SA 4.0, as used on the Wikipedia article [Electron ionization](https://en.wikipedia.org/wiki/Electron_ionization))
+
+- **Electron ionization**. "Electron ionization (EI, formerly known as electron impact ionization and electron bombardment ionization) is an ionization method in which energetic electrons interact with solid or gas phase atoms or molecules to produce ions. EI was one of the first ionization techniques developed for mass spectrometry. However, this method is still a popular ionization technique." ([Wikipedia](https://en.wikipedia.org/wiki/Electron_ionization))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Photoionization rate]]

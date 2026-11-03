@@ -80,6 +80,15 @@ many ULIRGs host both a starburst and an AGN (Genzel 1998, Farrah 2003). decompo
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Luminous infrared galaxy**. "Luminous infrared galaxies or LIRGs are galaxies with luminosities above 1011 L☉. They are also referred to as submillimeter galaxies (SMGs) through their normal method of detection. LIRGs are more abundant than starburst galaxies, Seyfert galaxies and quasi-stellar objects at comparable luminosity." ([Wikipedia](https://en.wikipedia.org/wiki/Luminous_infrared_galaxy))
+- **Ultraluminous Infrared Galaxies**. "Ever since their discovery in the 1970's, UltraLuminous InfraRed Galaxies (ULIRGs; classically Lir>10^12Lsun) have fascinated astronomers with their immense luminosities, and frustrated them due to their singularly opaque nature, almost in equal measure." ([arXiv:astro-ph/0603031](https://arxiv.org/abs/astro-ph/0603031))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Chemical evolution of galaxies]]

@@ -48,6 +48,17 @@ gravitational contraction ceases, the star achieves complete thermal and hydrost
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Pre-main-sequence star|500](https://commons.wikimedia.org/wiki/Special:FilePath/LH_95.jpg?width=600)
+*LH 95 stellar nursery in the Large Magellanic Cloud* ([Commons file page](https://commons.wikimedia.org/wiki/File:LH_95.jpg), NASA, ESA, and the Hubble Heritage Team (STScI/AURA)-ESA/Hubble Collaboration, Public domain, as used on the Wikipedia article [Pre-main-sequence star](https://en.wikipedia.org/wiki/Pre-main-sequence_star))
+
+- **Pre-main-sequence star**. "A pre-main-sequence star (also known as a PMS star and PMS object) is a star in the stage when it has not yet reached the main sequence. Earlier in its life, the object is a protostar that grows by acquiring mass from its surrounding envelope of interstellar dust and gas. After the protostar blows away this envelope, it is optically visible, and appears on the stellar birthline in the Hertzsprung-Russell diagram." ([Wikipedia](https://en.wikipedia.org/wiki/Pre-main-sequence_star))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

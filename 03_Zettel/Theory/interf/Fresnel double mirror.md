@@ -104,6 +104,14 @@ Fresnel's contemporaries didn't know it, but his double-mirror device was concep
 
 this is exactly Stéphan's adaptation in the 1870s, and Michelson's 20-foot beam interferometer in 1920. the modern VLTI and CHARA are direct descendants.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Young's interference experiment**. "Young's interference experiment is any one of a number of optical experiments described or performed at the beginning of the nineteenth century by Thomas Young to demonstrate the wave theory of light. These experiments played a major role in the acceptance of the wave theory of light. One such experiment was the original version of the modern double-slit experiment." ([Wikipedia](https://en.wikipedia.org/wiki/Young%27s_interference_experiment))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Wavefront-division interferometers]]

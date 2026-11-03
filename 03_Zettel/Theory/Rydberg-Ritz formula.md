@@ -53,6 +53,14 @@ all states with the same $n$ are degenerate (Coulomb degeneracy, removed only by
 - **He II $\lambda 4686$**: hydrogenic He$^+$ Brackett line at optical, signature of very hot ionising sources (O stars, WN stars, AGN).
 - **radio recombination lines** (RRLs): high-$n$ transitions, e.g. H$110\alpha$ at $\sim 5$ GHz, used by ALMA / VLA to probe HII region kinematics.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Rydberg–Ritz combination principle**. "The Rydberg–Ritz combination principle is an empirical rule proposed by Walther Ritz in 1908 to describe the relationship of the spectral lines for all atoms, as a generalization of an earlier rule by Johannes Rydberg for the hydrogen atom and the alkali metals." ([Wikipedia](https://en.wikipedia.org/wiki/Rydberg%E2%80%93Ritz_combination_principle))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Hydrogen spectral series]]

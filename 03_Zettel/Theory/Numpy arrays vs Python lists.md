@@ -124,6 +124,17 @@ the typical exam / research workflow:
 
 if I find myself writing a `for` loop over data, the question is: can this be vectorized? 95% of the time the answer is yes.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![NumPy|500](https://commons.wikimedia.org/wiki/Special:FilePath/NumPy_Matplotlib_sin_x_plotted_with_red_dots.svg?width=600)
+*Lead figure of the Wikipedia article NumPy* ([Commons file page](https://commons.wikimedia.org/wiki/File:NumPy_Matplotlib_sin_x_plotted_with_red_dots.svg), MarsJson, CC BY-SA 4.0, as used on the Wikipedia article [NumPy](https://en.wikipedia.org/wiki/NumPy))
+
+- **NumPy**. "NumPy (pronounced NUM-py) is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays. The predecessor of NumPy, Numeric, was originally created by Jim Hugunin with contributions from several other developers." ([Wikipedia](https://en.wikipedia.org/wiki/NumPy))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Computational complexity and speed]]

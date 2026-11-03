@@ -120,6 +120,14 @@ where $\mathcal{F}(E) = F_E/E$ is the photon spectral flux
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Aperture (antenna)**. "In electromagnetics and antenna theory, the aperture of an antenna is defined as "A surface, near or on an antenna, on which it is convenient to make assumptions regarding the field values for the purpose of computing fields at external points." ([Wikipedia](https://en.wikipedia.org/wiki/Aperture_%28antenna%29))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Lab_High-Energy_MOC]]

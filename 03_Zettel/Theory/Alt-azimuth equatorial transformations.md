@@ -54,6 +54,17 @@ given $(h, \delta, \phi)$ I get $(A, a)$.
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Astronomical coordinate systems|500](https://commons.wikimedia.org/wiki/Special:FilePath/Ecliptic_equator_galactic_anim.gif?width=600)
+*Animated depiction of equatorial, ecliptic, and galactic coordinates on the celestial sphere. Each set of coordinates is displayed for a few seconds* ([Commons file page](https://commons.wikimedia.org/wiki/File:Ecliptic_equator_galactic_anim.gif), Tfr000 (talk) 16:32, 25 June 2012 (UTC), CC BY-SA 3.0, as used on the Wikipedia article [Astronomical coordinate systems](https://en.wikipedia.org/wiki/Astronomical_coordinate_systems))
+
+- **Astronomical coordinate systems**. "In astronomy, coordinate systems are used for specifying positions of celestial objects (satellites, planets, stars, galaxies, etc.) relative to a given reference frame, based on physical reference points available to a situated observer (e.g. the true horizon and north to an observer on Earth's surface)." ([Wikipedia](https://en.wikipedia.org/wiki/Astronomical_coordinate_systems))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

@@ -95,6 +95,14 @@ Mapelli's notes touch on the *idea* of interpretability mainly through the decis
 3. know that decision trees are interpretable, neural networks are not
 4. know that interpretability is a *real* tradeoff, not just a feature
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Explainable artificial intelligence**. "Within artificial intelligence (AI), explainable AI (XAI), generally overlapping with interpretable AI, interpretable machine learning and explainable machine learning (XML), is a field of research that explores methods that provide humans with the ability to exercise intellectual oversight over AI algorithms." ([Wikipedia](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Decision tree classifier]]

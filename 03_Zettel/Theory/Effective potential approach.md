@@ -52,6 +52,15 @@ $$V_{\rm eff}^{\rm null}(r) = \left(1 - \frac{2GM}{r}\right)\frac{L^2}{r^2}$$
 
 (no rest-mass term because photons are null.) extremum at $r = 3GM$, the **photon sphere**: an unstable circular photon orbit. the bright ring in EHT images of black holes.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Schwarzschild geodesics**. "In general relativity, Schwarzschild geodesics describe the motion of test particles in the gravitational field of a central fixed mass M , {\textstyle M,} that is, motion in the Schwarzschild metric. Schwarzschild geodesics have been pivotal in the validation of Einstein's theory of general relativity." ([Wikipedia](https://en.wikipedia.org/wiki/Schwarzschild_geodesics))
+- **Lecture Notes on General Relativity**. "These notes represent approximately one semester's worth of lectures on introductory general relativity for beginning graduate students in physics. Topics include manifolds, Riemannian geometry, Einstein's equations, and three applications: gravitational radiation, black holes, and cosmology." ([arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Geodesic equation]]

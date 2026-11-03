@@ -68,6 +68,18 @@ intense SF drives:
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Starburst galaxy|500](https://commons.wikimedia.org/wiki/Special:FilePath/Antennae_galaxies_xl.jpg?width=600)
+*Lead figure of the Wikipedia article Starburst galaxy* ([Commons file page](https://commons.wikimedia.org/wiki/File:Antennae_galaxies_xl.jpg), NASA, ESA, and the Hubble Heritage Team (STScI/AURA)-ESA/Hubble Collaboration, Public domain, as used on the Wikipedia article [Starburst galaxy](https://en.wikipedia.org/wiki/Starburst_galaxy))
+
+- **Starburst galaxy**. "A starburst galaxy is one undergoing an exceptionally high rate of star formation, as compared to the long-term average rate of star formation in the galaxy, or the star formation rate observed in most other galaxies. For example, the star formation rate of the Milky Way galaxy is approximately 3 M☉/yr, while starburst galaxies can experience star formation rates of 100 M☉/yr or more." ([Wikipedia](https://en.wikipedia.org/wiki/Starburst_galaxy))
+- **Star Formation in the Milky Way and Nearby Galaxies**. "We review progress over the past decade in observations of large-scale star formation, with a focus on the interface between extragalactic and Galactic studies. Methods of measuring gas contents and star formation rates are discussed, and updated prescriptions for calculating star formation rates are provided." ([arXiv:1204.3552](https://arxiv.org/abs/1204.3552))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Chemical evolution of galaxies]]

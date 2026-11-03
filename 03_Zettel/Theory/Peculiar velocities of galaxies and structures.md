@@ -60,6 +60,14 @@ these anisotropies probe $f\sigma_8$ where $f \approx \Omega_m^{0.55}$ is the li
 ### the Tully-Fisher and FP residuals
 at fixed redshift, peculiar velocities show up as residuals in distance-redshift relations. comparing TF or FP distances + redshifts gives a $v_{\rm pec}$ map.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Peculiar velocity**. "Peculiar velocity or peculiar motion refers to the velocity of an object relative to a rest frame—usually a frame in which the average velocity of some objects is zero." ([Wikipedia](https://en.wikipedia.org/wiki/Peculiar_velocity))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Hubble law]]

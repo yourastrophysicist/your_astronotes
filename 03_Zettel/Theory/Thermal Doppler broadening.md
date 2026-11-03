@@ -62,6 +62,17 @@ since $\Delta\nu_D \propto \sqrt T$, measuring the Doppler core of a line gives 
 
 caveat: must subtract macro/microturbulence and rotational broadening first.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Doppler broadening|500](https://commons.wikimedia.org/wiki/Special:FilePath/Doppler_Broadening_Example.png?width=600)
+*An example of doppler broadening. The solid line represents an unbroadened emission profile, and the dashed line represents a broadened emission profile* ([Commons file page](https://commons.wikimedia.org/wiki/File:Doppler_Broadening_Example.png), Planetphysicsguy, CC BY-SA 4.0, as used on the Wikipedia article [Doppler broadening](https://en.wikipedia.org/wiki/Doppler_broadening))
+
+- **Doppler broadening**. "In atomic physics, Doppler broadening is broadening of spectral lines due to the Doppler effect caused by a distribution of velocities of atoms or molecules. Different velocities of the emitting (or absorbing) particles result in different Doppler shifts, the cumulative effect of which is the emission (absorption) line broadening. This resulting line profile is known as a Doppler profile." ([Wikipedia](https://en.wikipedia.org/wiki/Doppler_broadening))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Line profile function phi nu]]

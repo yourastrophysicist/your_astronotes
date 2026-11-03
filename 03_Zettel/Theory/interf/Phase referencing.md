@@ -77,6 +77,14 @@ with good phase referencing:
 
 these correspond to position errors of $\sim$ mas at cm, $\sim$ arcsec at mm, $\sim$ tens of mas at VLBI. for sub-mas astrometry, even tighter constraints are needed (and additional techniques like gated VLBI, multi-frequency referencing).
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Very-long-baseline interferometry**. "Very-long-baseline interferometry (VLBI) is a type of astronomical interferometry used in radio astronomy. In VLBI a signal from an astronomical radio source, such as a quasar, is collected at multiple radio telescopes on Earth or in space. The distance between the radio telescopes is then calculated using the time difference between the arrivals of the radio signal at different telescopes." ([Wikipedia](https://en.wikipedia.org/wiki/Very-long-baseline_interferometry))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Calibration overview]]

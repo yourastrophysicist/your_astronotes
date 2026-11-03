@@ -72,6 +72,18 @@ the issue remains an active research question. see [[The Galactic Bulge]].
 - **Sumi et al. 2003** (MOA), **Udalski 1992** (OGLE).
 - **Clarkson et al. 2008**: HST proper-motion bulge CMD age $\sim 11$ Gyr (alternative to microlensing).
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Gravitational microlensing|500](https://commons.wikimedia.org/wiki/Special:FilePath/A_Horseshoe_Einstein_Ring_from_Hubble.JPG?width=600)
+*Lead figure of the Wikipedia article Gravitational microlensing* ([Commons file page](https://commons.wikimedia.org/wiki/File:A_Horseshoe_Einstein_Ring_from_Hubble.JPG), Lensshoe_hubble.jpg: ESA/Hubble & NASA derivative work: Bulwersator (talk), Public domain, as used on the Wikipedia article [Gravitational microlensing](https://en.wikipedia.org/wiki/Gravitational_microlensing))
+
+- **Gravitational microlensing**. "Gravitational microlensing is an astronomical phenomenon caused by the gravitational lens effect. It can be used to detect objects that range from the mass of a planet to the mass of a star, regardless of the light they emit. Typically, astronomers can only detect bright objects that emit much light (stars) or large objects that block background light (clouds of gas and dust)." ([Wikipedia](https://en.wikipedia.org/wiki/Gravitational_microlensing))
+- **Astrophysical Applications of Gravitational Microlensing**. "Since the first discovery of microlensing events nearly two decades ago, gravitational microlensing has accumulated tens of TBytes of data and developed into a powerful astrophysical technique with diverse applications. The review starts with a theoretical overview of the field and then proceeds to discuss the scientific highlights." ([arXiv:1207.3720](https://arxiv.org/abs/1207.3720))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[The Galactic Bulge]]

@@ -52,6 +52,15 @@ with these, you can:
 
 see Q11 - selected Schwarzschild Christoffels for the standard exam-style computation.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Schwarzschild metric**. "In Einstein's theory of general relativity, the Schwarzschild metric (also known as the Schwarzschild solution) is an exact solution to the Einstein field equations that describes the gravitational field outside a spherical mass, on the assumption that the electric charge of the mass, angular momentum of the mass, and universal cosmological constant are all zero." ([Wikipedia](https://en.wikipedia.org/wiki/Schwarzschild_metric))
+- **Lecture Notes on General Relativity**. "These notes represent approximately one semester's worth of lectures on introductory general relativity for beginning graduate students in physics. Topics include manifolds, Riemannian geometry, Einstein's equations, and three applications: gravitational radiation, black holes, and cosmology." ([arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Schwarzschild metric]]

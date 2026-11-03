@@ -56,6 +56,14 @@ the Friedmann equation is **Newtonian energy conservation in disguise**. the spa
 
 historically: Friedmann (1922) derived these equations from GR. McCrea + Milne (1934) showed the Newtonian shortcut. modern cosmology textbooks usually start with the Newtonian version + then upgrade to GR for pressure + lensing.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Friedmann equations**. "The Friedmann equations, also known as the Friedmann–Lemaître (FL) equations, are a set of equations in physical cosmology that govern cosmic expansion in homogeneous and isotropic models of the universe within the context of general relativity." ([Wikipedia](https://en.wikipedia.org/wiki/Friedmann_equations))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Newtonian Friedmann derivation]]

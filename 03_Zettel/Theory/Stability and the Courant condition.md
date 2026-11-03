@@ -78,6 +78,14 @@ before running any explicit PDE simulation:
 3. monitor the energy / norm growth as a sanity check
 4. if oscillations appear, halve $\Delta t$ and rerun
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Courant–Friedrichs–Lewy condition**. "In mathematics, the convergence condition by Courant–Friedrichs–Lewy (CFL) is a necessary condition for convergence while solving certain partial differential equations (usually hyperbolic PDEs) numerically. It arises in the numerical analysis of explicit time integration schemes, when these are used for the numerical solution." ([Wikipedia](https://en.wikipedia.org/wiki/Courant%E2%80%93Friedrichs%E2%80%93Lewy_condition))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Initial value PDEs and FTCS]]

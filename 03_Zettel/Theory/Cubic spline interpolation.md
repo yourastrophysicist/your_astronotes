@@ -80,6 +80,14 @@ prefer not-a-knot unless I have a physical reason for natural (e.g. genuinely fl
 - **photometric filter responses**: the band-integrated quantities depend on smooth spline interpolation of the measured filter curves
 - **light-curve modeling**: reconstructing a smooth light curve from sparse observations
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Spline interpolation**. "In the mathematical field of numerical analysis, spline interpolation is a form of interpolation where the interpolant is a special type of piecewise polynomial called a spline." ([Wikipedia](https://en.wikipedia.org/wiki/Spline_interpolation))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Linear interpolation]]

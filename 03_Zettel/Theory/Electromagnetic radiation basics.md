@@ -62,6 +62,17 @@ consequence: high-energy astrophysics (gamma-ray, X-ray, extreme UV) and mid/far
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Electromagnetic radiation|500](https://commons.wikimedia.org/wiki/Special:FilePath/VFPt_Solenoid_correct2.svg?width=600)
+*Diagram of a solenoid and its magnetic field lines. The shape of all lines was computed according to the laws of electrodynamics* ([Commons file page](https://commons.wikimedia.org/wiki/File:VFPt_Solenoid_correct2.svg), Geek3, CC BY-SA 3.0, as used on the Wikipedia article [Electromagnetic radiation](https://en.wikipedia.org/wiki/Electromagnetic_radiation))
+
+- **Electromagnetic radiation**. "In physics, electromagnetic radiation (EMR) or an electromagnetic wave (EMW) is a self-propagating wave of the electromagnetic field that carries momentum and radiant energy through space. It encompasses a broad spectrum, classified by frequency (inversely proportional to wavelength), ranging from radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, to gamma rays." ([Wikipedia](https://en.wikipedia.org/wiki/Electromagnetic_radiation))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

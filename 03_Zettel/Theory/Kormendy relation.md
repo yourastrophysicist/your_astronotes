@@ -200,6 +200,15 @@ This structural divergence proves that giant ellipticals and dwarf spheroidals a
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Fundamental plane (elliptical galaxies)**. "The fundamental plane is a set of bivariate correlations connecting some of the properties of normal elliptical galaxies. Some correlations have been empirically shown. The fundamental plane is usually expressed as a relationship between the effective radius, average surface brightness and central velocity dispersion of normal elliptical galaxies." ([Wikipedia](https://en.wikipedia.org/wiki/Fundamental_plane_%28elliptical_galaxies%29))
+- **Structure and Kinematics of Early-Type Galaxies from Integral-Field Spectroscopy**. "Observations of galaxy isophotes, longs-slit kinematics and high-resolution photometry suggested a possible dichotomy between two distinct classes of E galaxies. But these methods are expensive for large galaxy samples. Instead, integral-field spectroscopic can efficiently recognize the shape, dynamics and stellar population of complete samples of early-type galaxies (ETGs)." ([arXiv:1602.04267](https://arxiv.org/abs/1602.04267))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Faber-Jackson relation]]

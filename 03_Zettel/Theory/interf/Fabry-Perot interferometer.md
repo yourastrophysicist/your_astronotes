@@ -100,6 +100,17 @@ this is the architectural reason LIGO works at all: without the Fabry-Perot enha
 
 both are amplitude-division; the difference is whether the cavity is "open" (two beams, finite) or "closed" (multiple beams, infinite series).
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Fabry–Pérot interferometer|500](https://commons.wikimedia.org/wiki/Special:FilePath/Fabry_Perot_Interferometer_-_diagram.png?width=600)
+*Author: User:Stigmatella aurantiaca* ([Commons file page](https://commons.wikimedia.org/wiki/File:Fabry_Perot_Interferometer_-_diagram.png), User:Stigmatella aurantiaca, CC BY-SA 3.0, as used on the Wikipedia article [Fabry–Pérot interferometer](https://en.wikipedia.org/wiki/Fabry%E2%80%93P%C3%A9rot_interferometer))
+
+- **Fabry–Pérot interferometer**. "In optics, a Fabry–Pérot interferometer (FPI), or etalon, is an optical cavity made from two parallel reflecting surfaces (mirrors). Optical waves can pass through the optical cavity only when they are in resonance with it. It is named after French physicists Charles Fabry and Alfred Perot, who developed the instrument in 1899." ([Wikipedia](https://en.wikipedia.org/wiki/Fabry%E2%80%93P%C3%A9rot_interferometer))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Amplitude-division interferometers]]

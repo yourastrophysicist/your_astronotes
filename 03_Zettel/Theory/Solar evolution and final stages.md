@@ -66,6 +66,17 @@ after $\sim 50,000$ years, the nebula disperses into the interstellar medium, en
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Sun|500](https://commons.wikimedia.org/wiki/Special:FilePath/The_Sun_in_white_light.jpg?width=600)
+*Lead figure of the Wikipedia article Sun* ([Commons file page](https://commons.wikimedia.org/wiki/File:The_Sun_in_white_light.jpg), Matúš Motlo, CC BY-SA 4.0, as used on the Wikipedia article [Sun](https://en.wikipedia.org/wiki/Sun))
+
+- **Sun**. "The Sun is the star located at the centre of the Solar System. It is a massive sphere of hot plasma, heated to incandescence by nuclear fusion reactions in its core, radiating the energy from its surface mainly as visible light and infrared radiation, with 10% at ultraviolet energies. It is the main source of energy for life on Earth." ([Wikipedia](https://en.wikipedia.org/wiki/Sun))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

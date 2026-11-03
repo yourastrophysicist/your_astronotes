@@ -45,4 +45,14 @@ Relativistically broadened iron lines are observed in Seyfert galaxies (e.g. MCG
 - **Seminal Classical Reference**: Fabian et al. (1989), *MNRAS* 238, 729 — the original relativistic disk-line profile formalism.
 - **Recent arXiv Benchmark**: Fabian et al. (2009), *Nature* 459, 540 — X-ray reverberation confirmation of compact, relativistic reflection geometry in 1H0707-495. Full synthesis: [[Fabian_2009_Broad_Iron_Line_Reverberation_1H0707-495]].
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
 
+![Accretion disk|500](https://commons.wikimedia.org/wiki/Special:FilePath/Black_hole%27s_accretion_disk.jpg?width=600)
+*Lead figure of the Wikipedia article Accretion disk* ([Commons file page](https://commons.wikimedia.org/wiki/File:Black_hole%27s_accretion_disk.jpg), NASA’s Goddard Space Flight Center/Jeremy Schnittman, CC BY-SA 4.0, as used on the Wikipedia article [Accretion disk](https://en.wikipedia.org/wiki/Accretion_disk))
+
+- **Accretion disk**. "An accretion disk is a structure (often a circumstellar disk) formed by diffuse material in orbital motion around a massive central body. The central body is most frequently a star. Friction, uneven irradiance, magnetohydrodynamic effects, and other forces induce instabilities causing orbiting material in the disk to spiral inward toward the central body." ([Wikipedia](https://en.wikipedia.org/wiki/Accretion_disk))
+- **Measuring Black Hole Spin using X-ray Reflection Spectroscopy**. "I review the current status of X-ray reflection (a.k.a. broad iron line) based black hole spin measurements. This is a powerful technique that allows us to measure robust black hole spins across the mass range, from the stellar-mass black holes in X-ray binaries to the supermassive black holes in active galactic nuclei." ([arXiv:1302.3260](https://arxiv.org/abs/1302.3260))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->

@@ -94,6 +94,15 @@ three lessons from the modern revival:
 2. **synergies matter**: IACT arrays primarily for gamma rays, secondary use for II — both communities benefit
 3. **bright-star science is still rich**: even 50 years after Narrabri, we don't have detailed surface images of most bright stars. CTA-II will fill that gap
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Intensity interferometer**. "An intensity interferometer is the name given to devices that use the Hanbury Brown and Twiss effect. In astronomy, the most common use of such an astronomical interferometer is to determine the apparent diameter of a radio source or star. If the distance to the object can then be determined by parallax or some other method, the physical diameter of the star can then be inferred." ([Wikipedia](https://en.wikipedia.org/wiki/Intensity_interferometer))
+- **Optical Intensity Interferometry with the Cherenkov Telescope Array**. "With its unprecedented light-collecting area for night-sky observations, the Cherenkov Telescope Array (CTA) holds great potential for also optical stellar astronomy, in particular as a multi-element intensity interferometer for realizing imaging with sub-milliarcsecond angular resolution." ([arXiv:1204.3624](https://arxiv.org/abs/1204.3624))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Intensity interferometry concept]]

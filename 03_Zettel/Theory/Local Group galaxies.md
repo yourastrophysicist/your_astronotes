@@ -237,6 +237,17 @@ This requires that $96\%$ of the total mass of the Local Group consists of non-l
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Local Group|500](https://commons.wikimedia.org/wiki/Special:FilePath/Local_Group_and_nearest_galaxies.jpg?width=600)
+*Local Group and nearest galaxies. The photos of galaxies are not to scale* ([Commons file page](https://commons.wikimedia.org/wiki/File:Local_Group_and_nearest_galaxies.jpg), Antonio Ciccolella, CC BY-SA 4.0, as used on the Wikipedia article [Local Group](https://en.wikipedia.org/wiki/Local_Group))
+
+- **Local Group**. "The Local Group is the galaxy group that includes the Milky Way, where Earth is located. It consists of two collections of galaxies in a "dumbbell" shape; the Milky Way and its satellite galaxies form one lobe, and the Andromeda Galaxy and its satellite galaxies constitute the other." ([Wikipedia](https://en.wikipedia.org/wiki/Local_Group))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Coma cluster]]

@@ -77,6 +77,15 @@ quasars are the brightest AGN, observable to $z = 7$. their spectra at high $z$ 
 
 so AGN are not just targets but **probes** of cosmology.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Active galactic nucleus**. "An active galactic nucleus (AGN) is a compact region at the center of a galaxy that emits a significant amount of energy across the electromagnetic spectrum, with characteristics indicating that this luminosity is not produced by the stars. Such excess, non-stellar emissions have been observed in the radio, microwave, infrared, optical, ultra-violet, X-ray, and gamma ray wavebands." ([Wikipedia](https://en.wikipedia.org/wiki/Active_galactic_nucleus))
+- **Revisiting the Unified Model of Active Galactic Nuclei**. "This review describes recent developments related to the unified model of active galactic nuclei (AGN). It focuses on new ideas about the origin and properties of the central obscurer (torus), and the connection with its surrounding. The review does not address radio unification. AGN tori must be clumpy but the uncertainties about their properties are still large." ([arXiv:1505.00811](https://arxiv.org/abs/1505.00811))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Galaxy spectroscopy by type]]

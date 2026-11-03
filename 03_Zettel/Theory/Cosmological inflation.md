@@ -65,6 +65,15 @@ despite the success:
 
 these are some of the deepest open questions in physics.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Cosmic inflation**. "In physical cosmology, cosmic inflation, cosmological inflation, or just inflation, is a theory of exponential expansion of space in the very early universe. This enormous expansion supercooled the universe and ended when the energy content of the field driving inflation condensed into hot, dense particles, a process called reheating." ([Wikipedia](https://en.wikipedia.org/wiki/Cosmic_inflation))
+- **TASI Lectures on Inflation**. "In a series of five lectures I review inflationary cosmology. I begin with a description of the initial conditions problems of the Friedmann-Robertson-Walker (FRW) cosmology and then explain how inflation, an early period of accelerated expansion, solves these problems." ([arXiv:0907.5424](https://arxiv.org/abs/0907.5424))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Inflation overview]]

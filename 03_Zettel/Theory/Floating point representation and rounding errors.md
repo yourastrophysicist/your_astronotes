@@ -98,6 +98,14 @@ def isclose(a, b, rtol=1e-12, atol=1e-15):
 - **likelihood functions**: work in log space, $\log P = \sum \log p_i$, never $P = \prod p_i$
 - **N-body force computations**: $r^{-3}$ blows up if $r \to 0$, so use a softening $r \to \sqrt{r^2 + \epsilon^2}$
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Floating-point arithmetic**. "In computing, floating-point arithmetic (FP) is arithmetic on subsets of real numbers formed by a significand (a signed sequence of a fixed number of digits in some base) multiplied by an integer power of that base. Numbers of this form are called floating-point numbers." ([Wikipedia](https://en.wikipedia.org/wiki/Floating-point_arithmetic))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Truncation error and order of accuracy]] — the *other* error type

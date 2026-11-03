@@ -32,6 +32,17 @@ a typical massive [[Globular Clusters\|GC]] hosts $\sim 10\text{--}100$ CV candi
 
 CVs share the same parameter space as [[Millisecond pulsars in GCs\|MSPs]] and [[X-ray sources in globular clusters\|qLMXBs]]. the difference is the compact-object mass: WD for CVs, NS for MSP/LMXB. dynamical processing in dense cluster cores produces all three, and the CV/MSP/LMXB number ratios constrain the binary processing efficiency. some CVs are believed to be the descendants of [[Blue stragglers in star clusters\|blue stragglers]] that have evolved through the CE phase.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Cataclysmic variable star|500](https://commons.wikimedia.org/wiki/Special:FilePath/Cataclysmic_variable.svg?width=600)
+*Lead figure of the Wikipedia article Cataclysmic variable star* ([Commons file page](https://commons.wikimedia.org/wiki/File:Cataclysmic_variable.svg), Philip D. Hall, CC BY-SA 4.0, as used on the Wikipedia article [Cataclysmic variable star](https://en.wikipedia.org/wiki/Cataclysmic_variable_star))
+
+- **Cataclysmic variable star**. "In astronomy, cataclysmic variable stars (CVs) are stars which irregularly increase in brightness by a large factor, then drop back down to a quiescent state. They were initially called novae (from Latin 'new'), since those with an outburst brightness visible to the naked eye and an invisible quiescent brightness appeared as new stars in the sky." ([Wikipedia](https://en.wikipedia.org/wiki/Cataclysmic_variable_star))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 - [[Stellar_Astrophysics_MOC]]
 - [[X-ray sources in globular clusters]]

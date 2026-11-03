@@ -224,6 +224,18 @@ Key quantitative takeaways for the blackboard
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Molecular cloud|500](https://commons.wikimedia.org/wiki/Special:FilePath/LH_95.jpg?width=600)
+*LH 95 stellar nursery in the Large Magellanic Cloud* ([Commons file page](https://commons.wikimedia.org/wiki/File:LH_95.jpg), NASA, ESA, and the Hubble Heritage Team (STScI/AURA)-ESA/Hubble Collaboration, Public domain, as used on the Wikipedia article [Molecular cloud](https://en.wikipedia.org/wiki/Molecular_cloud))
+
+- **Molecular cloud**. "A molecular cloud—sometimes called a stellar nursery if star formation is occurring within—is a type of interstellar cloud of which the density and size permit absorption nebulae, the formation of molecules (most commonly molecular hydrogen, H2), and the formation of H II regions. This is in contrast to other areas of the interstellar medium that contain predominantly ionized gas." ([Wikipedia](https://en.wikipedia.org/wiki/Molecular_cloud))
+- **Star Formation in the Milky Way and Nearby Galaxies**. "We review progress over the past decade in observations of large-scale star formation, with a focus on the interface between extragalactic and Galactic studies. Methods of measuring gas contents and star formation rates are discussed, and updated prescriptions for calculating star formation rates are provided." ([arXiv:1204.3552](https://arxiv.org/abs/1204.3552))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[H I regions]]

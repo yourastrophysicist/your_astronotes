@@ -55,6 +55,14 @@ $$\frac{F(\lambda_1)}{F(\lambda_2)} \propto e^{-(E_1 - E_2)/k_BT_e}$$
 
 example: $[OIII]\,\lambda 4363/(\lambda 4959 + \lambda 5007)$ is highly $T_e$-sensitive because $\lambda 4363$ comes from a much higher level. see [[OIII forbidden lines]].
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Collisional excitation**. "Collisional excitation is a process in which the kinetic energy of a collision partner is converted into the internal energy of a reactant species." ([Wikipedia](https://en.wikipedia.org/wiki/Collisional_excitation))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Statistical equilibrium equations]]

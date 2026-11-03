@@ -89,6 +89,14 @@ eigenvalues, eigenvectors = np.linalg.eig(A)     # general A, complex eigenvalue
 `eigh` is faster and more accurate for symmetric matrices and should be preferred whenever possible.
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **QR algorithm**. "In numerical linear algebra, the QR algorithm or QR iteration is an eigenvalue algorithm: that is, a procedure to calculate the eigenvalues and eigenvectors of a matrix. The QR algorithm was developed in the late 1950s by John G. F. Francis and by Vera N. Kublanovskaya, working independently." ([Wikipedia](https://en.wikipedia.org/wiki/QR_algorithm))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[QR decomposition]]

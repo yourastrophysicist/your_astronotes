@@ -55,4 +55,14 @@ The Blandford-Znajek mechanism is now the leading explanation for the most power
 - **Recent arXiv Benchmark**: Blandford, Meier & Readhead (2019), *arXiv:1812.06025* — modern synthesis connecting this mechanism to the full AGN jet population. Full synthesis: [[Blandford_Meier_Readhead_2019_Relativistic_AGN_Jets]].
 - **Simulation Validation**: Porth et al. (2019), *arXiv:1904.04923* — GRMHD code comparison validating the simulation tools used to test this mechanism's MAD-state predictions. Full synthesis: [[Porth_2019_EHT_GRMHD_Code_Comparison]].
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
 
+![Blandford–Znajek process|500](https://commons.wikimedia.org/wiki/Special:FilePath/Active_Black_Hole_Squashes_Star_Formation.jpg?width=600)
+*Lead figure of the Wikipedia article Blandford–Znajek process* ([Commons file page](https://commons.wikimedia.org/wiki/File:Active_Black_Hole_Squashes_Star_Formation.jpg), NASA, Public domain, as used on the Wikipedia article [Blandford–Znajek process](https://en.wikipedia.org/wiki/Blandford%E2%80%93Znajek_process))
+
+- **Blandford–Znajek process**. "The Blandford–Znajek process is a mechanism for the extraction of energy from a rotating black hole, introduced by Roger Blandford and Roman Znajek in 1977. This mechanism is the most preferred description of how astrophysical jets are formed around spinning supermassive black holes, giving rise to the large-scale structures seen in radio galaxies." ([Wikipedia](https://en.wikipedia.org/wiki/Blandford%E2%80%93Znajek_process))
+- **Relativistic Jets in Active Galactic Nuclei**. "The nuclei of most normal galaxies contain supermassive black holes, which can accrete gas through a disk and become active. These Active Galactic Nuclei, AGN, can form jets which are observed on scales from AU to Mpc and from meter wavelengths to TeV gamma ray energies." ([arXiv:1812.06025](https://arxiv.org/abs/1812.06025))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->

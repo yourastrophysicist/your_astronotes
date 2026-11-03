@@ -121,6 +121,14 @@ with $C$ the full data covariance matrix. ignoring correlations underestimates p
 - **rotation-curve fitting** where outer points have larger velocity errors
 - **Hubble diagram with SN Ia**: weighted by per-SN distance modulus uncertainty
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Weighted least squares**. "Weighted least squares (WLS), also known as weighted linear regression, is a generalization of ordinary least squares and linear regression in which knowledge of the unequal variance of observations (heteroscedasticity) is incorporated into the regression. WLS is also a specialization of generalized least squares, when all the off-diagonal entries of the covariance matrix of the errors are null." ([Wikipedia](https://en.wikipedia.org/wiki/Weighted_least_squares))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Linear least squares]]

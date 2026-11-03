@@ -65,6 +65,18 @@ for this landmark experimental proof, **Reinhard Genzel and Andrea Ghez were awa
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Galactic Center|500](https://commons.wikimedia.org/wiki/Special:FilePath/Galactic_Cntr_full_cropped.jpg?width=600)
+*Lead figure of the Wikipedia article Galactic Center* ([Commons file page](https://commons.wikimedia.org/wiki/File:Galactic_Cntr_full_cropped.jpg), 2MASS/G. Kopan, R. Hurt, Public domain, as used on the Wikipedia article [Galactic Center](https://en.wikipedia.org/wiki/Galactic_Center))
+
+- **Galactic Center**. "The Galactic Center is the barycenter of the Milky Way and a corresponding point on the rotational axis of the galaxy. Its central massive object is a supermassive black hole of about 4 million solar masses, which is called Sagittarius A*, part of which is a very compact radio source arising from a bright spot in the region around the black hole, near the event horizon." ([Wikipedia](https://en.wikipedia.org/wiki/Galactic_Center))
+- **The Galaxy in Context: Structural, Kinematic and Integrated Properties**. "Our Galaxy, the Milky Way, is a benchmark for understanding disk galaxies. It is the only galaxy whose formation history can be studied using the full distribution of stars from white dwarfs to supergiants. The oldest components provide us with unique insight into how galaxies form and evolve over billions of years." ([arXiv:1602.07702](https://arxiv.org/abs/1602.07702))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

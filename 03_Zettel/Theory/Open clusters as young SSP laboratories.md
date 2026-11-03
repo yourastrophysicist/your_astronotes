@@ -24,6 +24,14 @@ their main weakness is small $N$, which means short-lived post-MS phases are sta
 
 a research-grade modern application is using gaia-DR3 astrometry to identify "moving groups" of common-origin stars dispersed from now-dissolved open clusters, recovering stellar associations that have already crossed their dissolution time.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Open cluster**. "An open cluster is a type of star cluster made of tens to a few thousand stars that were formed from the same giant molecular cloud and have roughly the same age. More than 1,100 open clusters have been discovered within the Milky Way galaxy, and many more are thought to exist." ([Wikipedia](https://en.wikipedia.org/wiki/Open_cluster))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 - [[Stellar_Astrophysics_MOC]]
 - [[Star cluster types]]

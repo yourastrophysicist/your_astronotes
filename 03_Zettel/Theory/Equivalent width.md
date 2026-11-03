@@ -58,6 +58,17 @@ values vary by stellar type and metallicity. line lists like Moore 1972 or NIST 
 
 for an emission line, $F_\lambda > F_c$, so the integrand is negative. by convention, $W$ for emission lines is reported as a positive number with a sign convention. typical: $W(H\alpha) \sim -50$ to $-1000$ Å for emission-line galaxies.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Equivalent width|500](https://commons.wikimedia.org/wiki/Special:FilePath/Definition_of_equivalent_width.svg?width=600)
+*Definition of equivalent width* ([Commons file page](https://commons.wikimedia.org/wiki/File:Definition_of_equivalent_width.svg), Д.Ильин: vectorization, CC0, as used on the Wikipedia article [Equivalent width](https://en.wikipedia.org/wiki/Equivalent_width))
+
+- **Equivalent width**. "The equivalent width of a spectral absorption line is the width of the rectangle which has the same area as that between the intensity profile of the absorption line as a function of wavelength, and the continuum level, with the height of the rectangle being the magnitude of the continuum emission. It is a measure of the strength of spectral features that is primarily used in astronomy." ([Wikipedia](https://en.wikipedia.org/wiki/Equivalent_width))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Line profile function phi nu]]

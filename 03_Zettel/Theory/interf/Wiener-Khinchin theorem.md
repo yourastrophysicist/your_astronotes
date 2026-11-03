@@ -52,6 +52,14 @@ both are telling the same deep story: correlation functions and spectra/images a
 
 Wiener-Khinchin says the power spectrum of a stationary signal is the Fourier transform of its autocorrelation. in radio astronomy this explains why correlators can extract spectral information from voltage correlations.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Wiener–Khinchin theorem**. "In applied mathematics and statistics, the Wiener–Khinchin theorem or Wiener–Khintchine theorem, also known as the Wiener–Khinchin–Einstein theorem or the Khinchin–Kolmogorov theorem, states that the power spectral density of a wide-sense-stationary random process is equal to the Fourier transform of that process's autocorrelation function." ([Wikipedia](https://en.wikipedia.org/wiki/Wiener%E2%80%93Khinchin_theorem))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Two-element correlator]]

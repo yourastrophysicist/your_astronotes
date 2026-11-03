@@ -101,6 +101,17 @@ so to convolve two signals, FFT both, multiply, inverse FFT. cost: $O(N \log N)$
 - **simulation initial conditions**: drawing Gaussian random fields with a target power spectrum (FFT a white-noise field and scale)
 - **cosmological power spectrum**: from a galaxy density field, Fourier transform and bin
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Discrete Fourier transform|500](https://commons.wikimedia.org/wiki/Special:FilePath/DFT_2sin%28t%29_%2B_cos%284t%29_25_points.svg?width=600)
+*Discrete Fourier Transform of 2sin(t) + cos(4t) with 25 points* ([Commons file page](https://commons.wikimedia.org/wiki/File:DFT_2sin%28t%29_%2B_cos%284t%29_25_points.svg), Cirosantilli2, CC BY-SA 4.0, as used on the Wikipedia article [Discrete Fourier transform](https://en.wikipedia.org/wiki/Discrete_Fourier_transform))
+
+- **Discrete Fourier transform**. "In mathematics, the discrete Fourier transform (DFT) is a discrete version of the Fourier transform that converts a finite sequence of numbers into another sequence of the same length, representing the amplitude and phase of different frequency components. In this way, it changes data from a description in terms of sampled values to a description in terms of oscillations." ([Wikipedia](https://en.wikipedia.org/wiki/Discrete_Fourier_transform))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fourier series math summary]]

@@ -74,6 +74,17 @@ every modern survey runs a version of this. results are usually delivered as "ca
 
 problems show up as residual gradients, donut shapes (telescope-shadow vignetting), or persistent stripes (electronic crosstalk).
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Flat-field correction|500](https://commons.wikimedia.org/wiki/Special:FilePath/Woy_Woy_Channel_-_Vignetted.jpg?width=600)
+*Woy Woy Channel with post-shoot vignetting* ([Commons file page](https://commons.wikimedia.org/wiki/File:Woy_Woy_Channel_-_Vignetted.jpg), TheDefiniteArticle, CC BY-SA 4.0, as used on the Wikipedia article [Flat-field correction](https://en.wikipedia.org/wiki/Flat-field_correction))
+
+- **Flat-field correction**. "Flat-field correction (FFC) is a digital imaging technique to mitigate pixel-to-pixel differences in the photodetector sensitivity and distortions in the optical path. It is a standard calibration procedure in everything from personal digital cameras to large telescopes." ([Wikipedia](https://en.wikipedia.org/wiki/Flat-field_correction))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[CCD basics]]

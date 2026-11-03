@@ -111,6 +111,15 @@ EHT data go through *intense* self-calibration: dozens of iterations on increasi
 
 EHT's M87 image is the result of massive self-calibration combined with multiple imaging algorithms.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Closure phase**. "The closure phase is an observable quantity in imaging astronomical interferometry, which allowed the use of interferometry with very long baselines. It forms the basis of the self-calibration approach to interferometric imaging. The observable which is usually used in most "closure phase" observations is actually the complex quantity called the triple product (or bispectrum)." ([Wikipedia](https://en.wikipedia.org/wiki/Closure_phase))
+- **Optical Interferometry in Astronomy**. "Here I review the current state of the field of optical stellar interferometry, concentrating on ground-based work although a brief report of space interferometry missions is included." ([arXiv:astro-ph/0307036](https://arxiv.org/abs/astro-ph/0307036))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Calibration overview]]

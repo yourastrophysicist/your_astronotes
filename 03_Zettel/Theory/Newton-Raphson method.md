@@ -95,6 +95,17 @@ or `scipy.optimize.brentq(f, a, b)` for the bracket-Brent hybrid.
 - **stellar structure**: find the central pressure $P_c$ for which the boundary condition $\rho(R) = 0$ at the surface is satisfied (this is shooting + Newton)
 - **fitting**: $\chi^2$ minimization is a multivariate Newton (with the gradient as $f$)
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Newton's method|500](https://commons.wikimedia.org/wiki/Special:FilePath/Methode_newton.png?width=600)
+*Newton's method illustrated using the computer algebra package Maple* ([Commons file page](https://commons.wikimedia.org/wiki/File:Methode_newton.png), Cham at French Wikipedia, Public domain, as used on the Wikipedia article [Newton's method](https://en.wikipedia.org/wiki/Newton%27s_method))
+
+- **Newton's method**. "In numerical analysis, the Newton–Raphson method, also known simply as Newton's method, named after Isaac Newton and Joseph Raphson, is a root-finding algorithm which produces successively better approximations to the roots (or zeroes) of a real-valued function. The most basic version takes a real-valued function f, its derivative f′, and an initial guess x0 for a root of f." ([Wikipedia](https://en.wikipedia.org/wiki/Newton%27s_method))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Bisection method]]

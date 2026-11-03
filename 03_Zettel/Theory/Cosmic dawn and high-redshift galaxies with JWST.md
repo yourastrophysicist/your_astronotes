@@ -32,6 +32,18 @@ JWST discovered a pervasive population of extremely compact, highly reddened obj
 - optical rest-frame emission is steep and red (indicating heavy dust attenuation or old stars).
 - NIRSpec shows broad H$\alpha$ emission lines (FWHM $> 2000 - 4000\text{ km s}^{-1}$), indicating supermassive black holes accreting at or above the Eddington limit in low-mass hosts ($M_{\text{BH}} / M_\star \sim 1 - 10\%$ vs $0.1\%$ locally), challenging standard SMBH seed formation models.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![James Webb Space Telescope|500](https://commons.wikimedia.org/wiki/Special:FilePath/JWST_spacecraft_model_3.png?width=600)
+*Lead figure of the Wikipedia article James Webb Space Telescope* ([Commons file page](https://commons.wikimedia.org/wiki/File:JWST_spacecraft_model_3.png), NASA, Public domain, as used on the Wikipedia article [James Webb Space Telescope](https://en.wikipedia.org/wiki/James_Webb_Space_Telescope))
+
+- **James Webb Space Telescope**. "The James Webb Space Telescope (JWST) is a space telescope designed to conduct infrared astronomy. It is the largest telescope in space, and is equipped with high-resolution and high-sensitivity instruments, allowing it to view objects too old, distant, or faint for the Hubble Space Telescope." ([Wikipedia](https://en.wikipedia.org/wiki/James_Webb_Space_Telescope))
+- **Observing the first galaxies**. "I endeavour to provide a thorough overview of our current knowledge of high-redshift galaxies and their evolution during the first billion years of cosmic time, corresponding to redshifts z > 5." ([arXiv:1205.1543](https://arxiv.org/abs/1205.1543))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Observational_Cosmology_MOC]]

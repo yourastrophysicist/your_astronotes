@@ -112,6 +112,17 @@ xx = np.linspace(-3, 3, 200)
 plt.plot(xx, P(xx) / Z, 'r-')      # Z = trapezoid integral of P
 ```
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Rejection sampling|500](https://commons.wikimedia.org/wiki/Special:FilePath/Rejection-sampling.svg?width=600)
+*$X$ is selected somewhere between $a$ and $b$; $U$ is drawn at random between 0 and $M g(X)$; in this case $U$ ends up in the rejection zone, therefore $X$ is rejected* ([Commons file page](https://commons.wikimedia.org/wiki/File:Rejection-sampling.svg), Mantheflan, CC0, as used on the Wikipedia article [Rejection sampling](https://en.wikipedia.org/wiki/Rejection_sampling))
+
+- **Rejection sampling**. "In numerical analysis and computational statistics, rejection sampling is a basic technique used to generate observations from a distribution. It is also commonly called the acceptance-rejection method or "accept-reject algorithm" and is a type of exact simulation method. The method works for any distribution in R m $\mathbb {R} ^{m}$ with a density." ([Wikipedia](https://en.wikipedia.org/wiki/Rejection_sampling))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Inverse transform sampling]]

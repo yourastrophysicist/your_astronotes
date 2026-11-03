@@ -88,6 +88,14 @@ Bracewell 1978 was published while interferometry was barely working at all in t
 
 his calculation framework — destructive interference on-axis, transmission off-axis — became the foundation for every modern nulling instrument. while no Bracewell-style space mission has yet flown, the concept shapes contemporary planning.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Nuller**. "A nuller is an optical instrument, e.g., a beam combiner for nulling interferometry, used to block or cancel out a strong source so that fainter signals near that source can be observed. This is typically useful to detect off-axis exoplanet or exozodiacal dust by interferometrically nulling out the on-axis parent star." ([Wikipedia](https://en.wikipedia.org/wiki/Nuller))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Nulling interferometry]]

@@ -46,6 +46,18 @@ an independent rung in the distance ladder: SBF can target the same galaxies as 
 - color dependence ($\sim 0.1$ mag/(V-I) mag) means accurate $V - I$ photometry is essential.
 - Poisson noise floor from atmosphere and detector limits the smallest detectable fluctuations.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Surface brightness fluctuation|500](https://commons.wikimedia.org/wiki/Special:FilePath/Extragalactic_Distance_Ladder_en.svg?width=600)
+*Lead figure of the Wikipedia article Surface brightness fluctuation* ([Commons file page](https://commons.wikimedia.org/wiki/File:Extragalactic_Distance_Ladder_en.svg), WilliamKF, TilmannR, CC BY-SA 3.0, as used on the Wikipedia article [Surface brightness fluctuation](https://en.wikipedia.org/wiki/Surface_brightness_fluctuation))
+
+- **Surface brightness fluctuation**. "Surface brightness fluctuation (SBF) is a secondary distance indicator used to estimate distances to galaxies. It is useful to 100 Mpc (parsec). The method measures the variance in a galaxy's light distribution arising from fluctuations in the numbers of and luminosities of individual stars per resolution element." ([Wikipedia](https://en.wikipedia.org/wiki/Surface_brightness_fluctuation))
+- **The Hubble Constant**. "Considerable progress has been made in determining the Hubble constant over the past two decades." ([arXiv:1004.1856](https://arxiv.org/abs/1004.1856))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Distance ladder derivations]]

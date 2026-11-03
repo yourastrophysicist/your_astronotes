@@ -94,6 +94,18 @@ modern MEMS and adaptive-secondary mirrors push to very thin (~100 μm) faceshee
 
 solutions: closed-loop calibration, redundant actuators, replaceable mirror sections.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Deformable mirror|500](https://commons.wikimedia.org/wiki/Special:FilePath/Deformable_mirror_correction.svg?width=600)
+*Lead figure of the Wikipedia article Deformable mirror* ([Commons file page](https://commons.wikimedia.org/wiki/File:Deformable_mirror_correction.svg), 2pem, CC BY-SA 3.0, as used on the Wikipedia article [Deformable mirror](https://en.wikipedia.org/wiki/Deformable_mirror))
+
+- **Deformable mirror**. "Deformable mirrors (DM) are mirrors whose surface can be deformed, in order to achieve wavefront control and correction of optical aberrations. Deformable mirrors are used in combination with wavefront sensors and real-time control systems in adaptive optics. In 2006 they found a new use in femtosecond pulse shaping." ([Wikipedia](https://en.wikipedia.org/wiki/Deformable_mirror))
+- **Adaptive Optics for Astronomy**. "Adaptive Optics is a prime example of how progress in observational astronomy can be driven by technological developments." ([arXiv:1201.5741](https://arxiv.org/abs/1201.5741))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Adaptive optics]]

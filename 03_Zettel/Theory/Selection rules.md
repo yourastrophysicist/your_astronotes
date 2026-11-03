@@ -64,6 +64,14 @@ given a transition specified by initial and final term symbols, check:
 
 if any rule is violated, identify whether it's M1 (parity preserved + $\Delta L = 0$), E2 ($\Delta J$ up to $\pm 2$), or intersystem ($\Delta S \ne 0$).
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Selection rule**. "In physics and chemistry, a selection rule, or transition rule, formally constrains the possible transitions of a system from one quantum state to another. Selection rules have been derived for electromagnetic transitions in molecules, in atoms, in atomic nuclei, and so on. The selection rules may differ according to the technique used to observe the transition." ([Wikipedia](https://en.wikipedia.org/wiki/Selection_rule))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Quantum numbers and atomic states]]

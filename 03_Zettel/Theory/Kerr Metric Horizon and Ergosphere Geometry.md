@@ -62,4 +62,14 @@ The Kerr geometry is probed directly by: (1) the Event Horizon Telescope's resol
 - **Foundational Astrophysical Treatment**: Bardeen, Press & Teukolsky (1972), *ApJ* 178, 347 — the locally-nonrotating-frame and ISCO formalism built directly on this geometry. Full synthesis: [[Bardeen_Press_Teukolsky_1972_Rotating_Black_Holes]].
 - **Recent arXiv Benchmark**: Event Horizon Telescope Collaboration (2022), *arXiv:2205.04465* — direct observational test of this metric via the Sgr A* shadow. Full synthesis: [[EHT_Collaboration_2022_Testing_Kerr_Metric_SgrA]].
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
 
+![Kerr metric|500](https://commons.wikimedia.org/wiki/Special:FilePath/Ergosphere_and_event_horizon_of_a_rotating_black_hole_%28no_animation%29.gif?width=600)
+*Lead figure of the Wikipedia article Kerr metric* ([Commons file page](https://commons.wikimedia.org/wiki/File:Ergosphere_and_event_horizon_of_a_rotating_black_hole_%28no_animation%29.gif), Yukterez (Simon Tyran, Vienna), CC BY-SA 4.0, as used on the Wikipedia article [Kerr metric](https://en.wikipedia.org/wiki/Kerr_metric))
+
+- **Kerr metric**. "The Kerr metric or Kerr geometry describes the geometry of empty spacetime around a rotating uncharged axially symmetric black hole with a quasispherical event horizon. The Kerr metric is an exact solution of the Einstein field equations of general relativity; these equations are highly non-linear, which makes exact solutions very difficult to find." ([Wikipedia](https://en.wikipedia.org/wiki/Kerr_metric))
+- **Lecture Notes on General Relativity**. "These notes represent approximately one semester's worth of lectures on introductory general relativity for beginning graduate students in physics. Topics include manifolds, Riemannian geometry, Einstein's equations, and three applications: gravitational radiation, black holes, and cosmology." ([arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->

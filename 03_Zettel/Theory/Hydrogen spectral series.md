@@ -59,6 +59,17 @@ each series line has strength proportional to (number of atoms in the lower leve
 
 Balmer line strength peaks at A0, exactly the spectral type Cecilia Payne identified as having maximum H I excitation.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Hydrogen spectral series|500](https://commons.wikimedia.org/wiki/Special:FilePath/Hydrogen_spectrum.svg?width=600)
+*Spectral lines of Hydrogen, divided into series. Shown on a logarithmic scale* ([Commons file page](https://commons.wikimedia.org/wiki/File:Hydrogen_spectrum.svg), OrangeDog, CC BY-SA 3.0, as used on the Wikipedia article [Hydrogen spectral series](https://en.wikipedia.org/wiki/Hydrogen_spectral_series))
+
+- **Hydrogen spectral series**. "The emission spectrum of atomic hydrogen has been divided into a number of spectral series, with wavelengths given by the Rydberg formula. These observed spectral lines are due to the electron making transitions between two energy levels in an atom. The classification of the series by the Rydberg formula was important in the development of quantum mechanics." ([Wikipedia](https://en.wikipedia.org/wiki/Hydrogen_spectral_series))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Rydberg-Ritz formula]]

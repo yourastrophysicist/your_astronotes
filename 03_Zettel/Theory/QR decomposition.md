@@ -80,6 +80,14 @@ QR is the matrix-level statement of Gram-Schmidt. seeing both side by side:
 | keeps track of projections $\mathbf{q}_k \cdot \mathbf{a}_i$ | stores them in $R$ |
 | stops at $i = N - 1$ | $R$ is $N \times N$ upper triangular |
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **QR decomposition**. "In linear algebra, a QR decomposition, also known as a QR factorization or QU factorization, is a decomposition of a matrix A into a product A = QR of an orthonormal matrix Q and an upper triangular matrix R. QR decomposition is often used to solve the linear least squares (LLS) problem and is the basis for a particular eigenvalue algorithm, the QR algorithm." ([Wikipedia](https://en.wikipedia.org/wiki/QR_decomposition))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Gram-Schmidt orthogonalization]]

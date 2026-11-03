@@ -56,6 +56,17 @@ dimensional combination with $n_H$ density:
 $$U \equiv \frac{Q}{4\pi r^2 n_H c}$$
 the **dimensionless ionisation parameter**. controls the ionisation state of the gas. high $U$ = high $\Gamma/n_H$ = highly ionised. low $U$ = mostly neutral.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Photoionization|500](https://commons.wikimedia.org/wiki/Special:FilePath/Hubble_green_filaments_20150402.jpg?width=600)
+*Lead figure of the Wikipedia article Photoionization* ([Commons file page](https://commons.wikimedia.org/wiki/File:Hubble_green_filaments_20150402.jpg), NASA, ESA, Galaxy Zoo Team and William Keel (University of Alabama, USA), Public domain, as used on the Wikipedia article [Photoionization](https://en.wikipedia.org/wiki/Photoionization))
+
+- **Photoionization**. "Photoionization is the physical process in which an ion is formed from the interaction of a photon with an atom or molecule." ([Wikipedia](https://en.wikipedia.org/wiki/Photoionization))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Collisional ionisation rate]]

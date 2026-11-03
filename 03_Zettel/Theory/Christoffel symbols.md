@@ -51,6 +51,15 @@ $\Gamma^t{}_{tr} = M/[r(r - 2M)]$, $\Gamma^r{}_{tt} = (M/r^2)(1 - 2M/r)$, $\Gamm
 ### FLRW
 $\Gamma^0{}_{ij} = a\dot a\,\gamma_{ij}$, $\Gamma^i{}_{0j} = (\dot a/a)\delta^i{}_j$. see [[FLRW metric]].
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Christoffel symbols**. "In mathematics and physics, the Christoffel symbols are an array of numbers describing a metric connection. The metric connection is a specialization of the affine connection to surfaces or other manifolds endowed with a metric, allowing distances to be measured on that surface." ([Wikipedia](https://en.wikipedia.org/wiki/Christoffel_symbols))
+- **Lecture Notes on General Relativity**. "These notes represent approximately one semester's worth of lectures on introductory general relativity for beginning graduate students in physics. Topics include manifolds, Riemannian geometry, Einstein's equations, and three applications: gravitational radiation, black holes, and cosmology." ([arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Levi-Civita connection]]

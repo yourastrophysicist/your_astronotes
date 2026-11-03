@@ -79,6 +79,14 @@ so two universes with different $\lvert k\rvert$ but the same $k/a^2$ are physic
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Shape of the universe**. "In physical cosmology, the shape of the universe refers to both its local geometry and cosmic topology. Local geometry is defined primarily by its curvature, general relativity explains how spatial curvature (local geometry) is constrained by gravity." ([Wikipedia](https://en.wikipedia.org/wiki/Shape_of_the_universe))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

@@ -57,6 +57,17 @@ a sidereal clock at the observatory then keeps track of $\Theta$ continuously. s
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Sidereal time|500](https://commons.wikimedia.org/wiki/Special:FilePath/Sidereal_Day_poster_%28simple%29.png?width=600)
+*This (somewhat low-res) poster is adapted from James O'Donoghue's amazing animation at File:Sidereal Day versus Solar Day.webm. Any efforts to vectorize this picture is highly appreciated* ([Commons file page](https://commons.wikimedia.org/wiki/File:Sidereal_Day_poster_%28simple%29.png), Dr. James O'Donoghue under YouTube alias "Interplanetary", CC BY 3.0, as used on the Wikipedia article [Sidereal time](https://en.wikipedia.org/wiki/Sidereal_time))
+
+- **Sidereal time**. "Sidereal time ("sidereal" pronounced sy-DEER-ee-əl, sə-) is a system of timekeeping used especially by astronomers. Using sidereal time and the celestial coordinate system, it is easy to locate the positions of celestial objects in the night sky. Sidereal time is a "time scale that is based on Earth's rate of rotation measured relative to the fixed stars"." ([Wikipedia](https://en.wikipedia.org/wiki/Sidereal_time))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

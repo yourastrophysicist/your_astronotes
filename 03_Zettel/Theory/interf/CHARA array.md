@@ -113,6 +113,17 @@ CHARA is the resolution king; VLTI is the sensitivity king. they are complementa
 
 modern interferometric science papers often combine CHARA's high-resolution images with VLTI's precise astrometry.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![CHARA array|500](https://commons.wikimedia.org/wiki/Special:FilePath/CHARA_1497.jpg?width=600)
+*One of the six telescopes that are part of the CHARA array, an astronomical interferometer. Location: Mt. Wilson Observatory complex, California, USA* ([Commons file page](https://commons.wikimedia.org/wiki/File:CHARA_1497.jpg), Davefoc, CC BY-SA 3.0, as used on the Wikipedia article [CHARA array](https://en.wikipedia.org/wiki/CHARA_array))
+
+- **CHARA array**. "The CHARA (Center for High Angular Resolution Astronomy) array is an optical interferometer, located on Mount Wilson, California. The array consists of six 1-metre (40 in) telescopes operating as an astronomical interferometer. Construction was completed in 2003." ([Wikipedia](https://en.wikipedia.org/wiki/CHARA_array))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Components of a modern interferometer]]

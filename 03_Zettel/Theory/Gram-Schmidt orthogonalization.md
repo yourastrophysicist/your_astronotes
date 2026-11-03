@@ -90,6 +90,17 @@ with $Q$ orthogonal ($Q^T Q = I$) and $R$ upper triangular with diagonal $\\lver
 
 $O(N^3)$ for an $N \times N$ matrix (the dominant cost is the dot products and rescalings).
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Gram–Schmidt process|500](https://commons.wikimedia.org/wiki/Special:FilePath/Gram%E2%80%93Schmidt_process.svg?width=600)
+*Lead figure of the Wikipedia article Gram–Schmidt process* ([Commons file page](https://commons.wikimedia.org/wiki/File:Gram%E2%80%93Schmidt_process.svg), No machine-readable author provided. Gustavb assumed (based on copyright claims)., Public domain, as used on the Wikipedia article [Gram–Schmidt process](https://en.wikipedia.org/wiki/Gram%E2%80%93Schmidt_process))
+
+- **Gram–Schmidt process**. "In mathematics, particularly linear algebra and numerical analysis, the Gram–Schmidt process or Gram-Schmidt algorithm is a way of finding a set of two or more vectors that are perpendicular to each other." ([Wikipedia](https://en.wikipedia.org/wiki/Gram%E2%80%93Schmidt_process))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[QR decomposition]]

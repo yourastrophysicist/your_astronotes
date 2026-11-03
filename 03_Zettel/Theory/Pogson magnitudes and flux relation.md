@@ -60,6 +60,17 @@ for the Sun: $m_V \approx -26.74$ (very bright apparent), $M_V = +4.83$ (modest 
 
 historical accident; people used logs and chose a coefficient that made Hipparchus's $1$st through $6$th magnitude scale work out to exactly $100\times$ in flux. there is nothing physically magical about $2.5$; it is just $5/2$. the entire system is a pre-instrument hack from when magnitudes were eyeball estimates.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Apparent magnitude|500](https://commons.wikimedia.org/wiki/Special:FilePath/65Cyb-LB3-apmag.jpg?width=600)
+*Lead figure of the Wikipedia article Apparent magnitude* ([Commons file page](https://commons.wikimedia.org/wiki/File:65Cyb-LB3-apmag.jpg), Kevin Heider @ LightBuckets, CC BY-SA 3.0, as used on the Wikipedia article [Apparent magnitude](https://en.wikipedia.org/wiki/Apparent_magnitude))
+
+- **Apparent magnitude**. "Apparent magnitude (m) is a measure of the brightness of a star, astronomical object or other celestial objects like artificial satellites. Its value depends on its intrinsic luminosity, its distance, and any extinction of the object's light caused by interstellar dust or atmosphere along the line of sight to the observer." ([Wikipedia](https://en.wikipedia.org/wiki/Apparent_magnitude))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Magnitudes and photometric systems]]

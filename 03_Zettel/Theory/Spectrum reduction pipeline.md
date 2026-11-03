@@ -93,6 +93,17 @@ raw frame
 - **MIDAS** (ESO): old, mostly retired.
 - **instrument-specific pipelines**: HARPS DRS, MUSE pipeline, X-shooter pipeline.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Astronomical spectroscopy|500](https://commons.wikimedia.org/wiki/Special:FilePath/Star-Spectroscope.jpg?width=600)
+*Lead figure of the Wikipedia article Astronomical spectroscopy* ([Commons file page](https://commons.wikimedia.org/wiki/File:Star-Spectroscope.jpg), Julius Scheiner, Public domain, as used on the Wikipedia article [Astronomical spectroscopy](https://en.wikipedia.org/wiki/Astronomical_spectroscopy))
+
+- **Astronomical spectroscopy**. "Astronomical spectroscopy is the study of astronomy using the techniques of spectroscopy to measure the spectrum of electromagnetic radiation, including visible light, ultraviolet, X-ray, infrared and radio waves that radiate from stars and other celestial objects. A stellar spectrum can reveal many properties of stars, such as their chemical composition, temperature, density, mass, distance and luminosity." ([Wikipedia](https://en.wikipedia.org/wiki/Astronomical_spectroscopy))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Spectrograph design]]

@@ -57,6 +57,17 @@ recent observations have located most of them in **diffuse gas in filaments** co
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Baryon|500](https://commons.wikimedia.org/wiki/Special:FilePath/Standard_Model_of_Elementary_Particles.svg?width=600)
+*Lead figure of the Wikipedia article Baryon* ([Commons file page](https://commons.wikimedia.org/wiki/File:Standard_Model_of_Elementary_Particles.svg), Cush, Public domain, as used on the Wikipedia article [Baryon](https://en.wikipedia.org/wiki/Baryon))
+
+- **Baryon**. "In particle physics, a baryon is a type of composite subatomic particle that contains an odd number of valence quarks, conventionally three. Protons and neutrons are examples of baryons; because baryons are composed of quarks, they belong to the hadron family of particles. Baryons are also classified as fermions because they have half-integer spin." ([Wikipedia](https://en.wikipedia.org/wiki/Baryon))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

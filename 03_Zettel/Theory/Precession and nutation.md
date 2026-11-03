@@ -66,6 +66,17 @@ to resolve astronomical positions with milliarcsecond (mas) accuracy:
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Axial precession|500](https://commons.wikimedia.org/wiki/Special:FilePath/Earth_precession.svg?width=600)
+*Precession of Earth's rotational axis due to the tidal force raised on Earth by the gravity of the Moon and Sun* ([Commons file page](https://commons.wikimedia.org/wiki/File:Earth_precession.svg), NASA, Mysid, Public domain, as used on the Wikipedia article [Axial precession](https://en.wikipedia.org/wiki/Axial_precession))
+
+- **Axial precession**. "In astronomy, axial precession is a gravity-induced, slow, and continuous change in the orientation of an astronomical body's rotational axis. In the absence of precession, the astronomical body's orbit would show axial parallelism. In particular, Earth's axial precession is the gradual shift in the orientation of Earth's axis of rotation." ([Wikipedia](https://en.wikipedia.org/wiki/Axial_precession))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

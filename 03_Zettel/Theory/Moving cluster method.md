@@ -39,6 +39,14 @@ modern Gaia parallaxes confirm the moving-cluster distance to better than $1\%$,
 
 with Gaia, distance to a cluster is now obtained by **inverting parallaxes** of cluster members and averaging (with proper Bayesian treatment of the asymmetry in $1/p$ for noisy $p$). still uses cluster membership criteria from proper motions + radial velocities. effectively the same idea: many stars constraining the same distance jointly beat the single-star precision.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Moving-cluster method**. "In astrometry, the moving-cluster method and the closely related convergent point method are means, primarily of historical interest, for determining the distance to star clusters. They were used on several nearby clusters in the first half of the 1900s to determine distance. The moving-cluster method is now largely superseded by other, usually more accurate distance measures." ([Wikipedia](https://en.wikipedia.org/wiki/Moving-cluster_method))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Distance ladder derivations]]

@@ -84,6 +84,14 @@ observe a pulsating star at:
 
 a typical Mira observation: 4-8 phases × 2 wavelengths × 5 baselines = 40+ measurements per phase. modeling extracts the time-evolving photosphere.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Mira variable**. "Mira variables (; named for the prototype star Mira) are a class of pulsating stars characterized by very red colours, pulsation periods longer than 100 days, and amplitudes greater than one magnitude in infrared and 2.5 magnitude at visual wavelengths." ([Wikipedia](https://en.wikipedia.org/wiki/Mira_variable))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Stellar diameters and limb darkening]]

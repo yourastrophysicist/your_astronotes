@@ -78,6 +78,14 @@ it also gives the **physical intuition** for why the cosmological constant is so
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Friedmann equations**. "The Friedmann equations, also known as the Friedmann–Lemaître (FL) equations, are a set of equations in physical cosmology that govern cosmic expansion in homogeneous and isotropic models of the universe within the context of general relativity." ([Wikipedia](https://en.wikipedia.org/wiki/Friedmann_equations))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

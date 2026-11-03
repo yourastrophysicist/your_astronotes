@@ -38,6 +38,17 @@ modern stellar-atmosphere codes (ATLAS9, MARCS, PHOENIX) have built-in partition
 
 quick-and-dirty: for most species below $T = 10^4$ K, $Z_i \approx g_i^{\rm ground}$ within $\sim 10\%$.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Partition function (statistical mechanics)|500](https://commons.wikimedia.org/wiki/Special:FilePath/Gasfas.png?width=600)
+*Lead figure of the Wikipedia article Partition function (statistical mechanics)* ([Commons file page](https://commons.wikimedia.org/wiki/File:Gasfas.png), User Rogper on sv.wikipedia, Public domain, as used on the Wikipedia article [Partition function (statistical mechanics)](https://en.wikipedia.org/wiki/Partition_function_%28statistical_mechanics%29))
+
+- **Partition function (statistical mechanics)**. "In physics, a partition function describes the statistical properties of a system in thermodynamic equilibrium. Partition functions are functions of the thermodynamic state variables, such as the temperature and volume. Most of the aggregate thermodynamic variables of the system, such as the total energy, free energy, entropy, and pressure, can be expressed in terms of the partition function or its derivatives." ([Wikipedia](https://en.wikipedia.org/wiki/Partition_function_%28statistical_mechanics%29))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Boltzmann equation in spectroscopy]]

@@ -84,6 +84,17 @@ reading cue: the antenna beam is the directional weighting of the sky. the same 
 
 source: local study diagram generated from $A_{\rm eff} = \eta A$ and $G = 4\pi A_{\rm eff}/\lambda^2$.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Radiation pattern|500](https://commons.wikimedia.org/wiki/Special:FilePath/Radiation-patterns-v.png?width=600)
+*Lead figure of the Wikipedia article Radiation pattern* ([Commons file page](https://commons.wikimedia.org/wiki/File:Radiation-patterns-v.png), James Wlodarczyk (--catslash 23:44, 31 July 2006 (UTC)), Public domain, as used on the Wikipedia article [Radiation pattern](https://en.wikipedia.org/wiki/Radiation_pattern))
+
+- **Radiation pattern**. "An antenna radiation pattern (or antenna pattern or far-field pattern) is the directional (angular) dependence of the field strength (sometimes also the phase) of the radio waves from the antenna or other source. Particularly in the fields of fiber optics, lasers, and integrated optics, the term radiation pattern may also be used as a synonym for the near-field pattern or Fresnel pattern." ([Wikipedia](https://en.wikipedia.org/wiki/Radiation_pattern))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Antenna effective area and gain]]

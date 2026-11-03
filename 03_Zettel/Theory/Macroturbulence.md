@@ -44,6 +44,17 @@ attributed to large-scale convective motions in the atmosphere, especially in co
 
 direct imaging of convective patterns (e.g. Betelgeuse with CHARA, or solar granulation) supports the picture.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Spectral line shape|500](https://commons.wikimedia.org/wiki/Special:FilePath/Permanganate_spectrum.png?width=600)
+*Vibronic spectrum of permanganate ion* ([Commons file page](https://commons.wikimedia.org/wiki/File:Permanganate_spectrum.png), Petergans, CC BY-SA 3.0, as used on the Wikipedia article [Spectral line shape](https://en.wikipedia.org/wiki/Spectral_line_shape))
+
+- **Spectral line shape**. "Spectral line shape or spectral line profile describes the form of an electromagnetic spectrum in the vicinity of a spectral line – a region of stronger or weaker intensity in the spectrum. Ideal line shapes include Lorentzian, Gaussian and Voigt functions, whose parameters are the line position, maximum height and half-width." ([Wikipedia](https://en.wikipedia.org/wiki/Spectral_line_shape))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Microturbulence]]

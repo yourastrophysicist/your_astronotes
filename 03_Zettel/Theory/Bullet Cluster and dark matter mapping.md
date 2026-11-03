@@ -224,6 +224,18 @@ This limit decisively rules out strongly self-interacting dark matter (SIDM) mod
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Bullet Cluster|500](https://commons.wikimedia.org/wiki/Special:FilePath/Bullet_cluster.jpg?width=600)
+*Lead figure of the Wikipedia article Bullet Cluster* ([Commons file page](https://commons.wikimedia.org/wiki/File:Bullet_cluster.jpg), User:Mac_Davis, Public domain, as used on the Wikipedia article [Bullet Cluster](https://en.wikipedia.org/wiki/Bullet_Cluster))
+
+- **Bullet Cluster**. "The Bullet Cluster (1E 0657-56) consists of two colliding clusters of galaxies. Strictly speaking, the name Bullet Cluster refers to the smaller subcluster, moving away from the larger one. It is at a comoving radial distance of 1.141 Gpc (3.72 billion light-years)." ([Wikipedia](https://en.wikipedia.org/wiki/Bullet_Cluster))
+- **Particle Dark Matter: Evidence, Candidates and Constraints**. "In this review article, we discuss the current status of particle dark matter, including experimental evidence and theoretical motivations. We discuss a wide array of candidates for particle dark matter, but focus on neutralinos in models of supersymmetry and Kaluza-Klein dark matter in models of universal extra dimensions." ([arXiv:hep-ph/0404175](https://arxiv.org/abs/hep-ph/0404175))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Coma cluster]]

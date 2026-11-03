@@ -59,6 +59,18 @@ a conformal compactification of Kruskal: maps the entire (infinite) Kruskal spac
 
 for Schwarzschild, the Penrose diagram is a square divided into four triangles (regions I-IV). singularities $r = 0$ are spacelike lines (curves of constant time, not place).
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Kruskal–Szekeres coordinates|500](https://commons.wikimedia.org/wiki/Special:FilePath/Kruskal_diagram_of_Schwarzschild_chart.svg?width=600)
+*Kruskal diagram showing Schwarzschild chart* ([Commons file page](https://commons.wikimedia.org/wiki/File:Kruskal_diagram_of_Schwarzschild_chart.svg), Dr Greg, CC BY-SA 3.0, as used on the Wikipedia article [Kruskal–Szekeres coordinates](https://en.wikipedia.org/wiki/Kruskal%E2%80%93Szekeres_coordinates))
+
+- **Kruskal–Szekeres coordinates**. "In general relativity, Kruskal–Szekeres coordinates, named after Martin Kruskal and George Szekeres, are a coordinate system for the Schwarzschild geometry for a black hole. These coordinates have the advantage that they cover the entire spacetime manifold of the maximally extended Schwarzschild solution and are well-behaved everywhere outside the physical singularity." ([Wikipedia](https://en.wikipedia.org/wiki/Kruskal%E2%80%93Szekeres_coordinates))
+- **Lecture Notes on General Relativity**. "These notes represent approximately one semester's worth of lectures on introductory general relativity for beginning graduate students in physics. Topics include manifolds, Riemannian geometry, Einstein's equations, and three applications: gravitational radiation, black holes, and cosmology." ([arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Schwarzschild metric]]

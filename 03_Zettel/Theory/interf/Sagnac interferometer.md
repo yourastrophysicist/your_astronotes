@@ -79,6 +79,17 @@ since $\lambda_{\rm dB}$ for a slow atom is much smaller than light's $\lambda$,
 
 both are amplitude-division interferometers; both use beam splitters; the topology is the difference.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Sagnac effect|500](https://commons.wikimedia.org/wiki/Special:FilePath/Sagnac_interferometer.svg?width=600)
+*Sagnac interferometer with three mirrors* ([Commons file page](https://commons.wikimedia.org/wiki/File:Sagnac_interferometer.svg), Krishnavedala, CC BY-SA 3.0, as used on the Wikipedia article [Sagnac effect](https://en.wikipedia.org/wiki/Sagnac_effect))
+
+- **Sagnac effect**. "The Sagnac effect, also called Sagnac interference, named after French physicist Georges Sagnac, is a phenomenon encountered in interferometry that is elicited by rotation. The Sagnac effect manifests itself in a setup called a ring interferometer or Sagnac interferometer. A beam of light is split and the two beams are made to follow the same path but in opposite directions." ([Wikipedia](https://en.wikipedia.org/wiki/Sagnac_effect))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Amplitude-division interferometers]]

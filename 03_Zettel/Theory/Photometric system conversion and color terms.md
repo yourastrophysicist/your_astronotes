@@ -47,6 +47,14 @@ or you need a different proxy color. extreme cases (e.g. emission-line galaxies,
 
 cross-matching catalogs from different surveys without a color-term correction biases the magnitudes by $\sim 0.05$ to $0.5$ mag in a systematic, color-dependent way. this is a **major source of systematic error** in cluster CMDs, photometric redshift catalogs, and Hubble-diagram analyses that combine SDSS, Pan-STARRS, DECam, and HST data.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Photometric system**. "In astronomy, a photometric system is a set of well-defined passbands (or optical filters), with a known sensitivity to incident radiation. The sensitivity usually depends on the optical system, detectors and filters used. For each photometric system a set of primary standard stars is provided." ([Wikipedia](https://en.wikipedia.org/wiki/Photometric_system))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Filter systems and bandpasses]]

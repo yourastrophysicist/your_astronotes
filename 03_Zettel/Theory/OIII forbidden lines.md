@@ -58,6 +58,14 @@ $$\frac{F(5007)}{F(H\beta)} \sim \frac{n(O^{2+})}{n_e}\cdot\frac{q_{O,1D \to ^3P
 
 at low metallicity, $n(O^{2+})/n_e$ small (less O total), and $T_e$ is high (less metal cooling), so the ratio depends on metallicity in a non-monotonic way. the famous "double-valued" R23 diagnostic ($R_{23} = ([OII] + [OIII])/H\beta$) reflects this.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Forbidden mechanism**. "In spectroscopy, a forbidden mechanism (forbidden transition or forbidden line) is a spectral line associated with absorption or emission of photons by atomic nuclei, atoms, or molecules which undergo a transition that is not allowed by a particular selection rule but is allowed if the approximation associated with that rule is not made." ([Wikipedia](https://en.wikipedia.org/wiki/Forbidden_mechanism))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Forbidden lines]]

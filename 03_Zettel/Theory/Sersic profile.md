@@ -113,6 +113,18 @@ For a de Vaucouleurs profile ($n=4$) - $\langle I \rangle_e \approx 3.607 I_e$, 
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Sérsic profile|500](https://commons.wikimedia.org/wiki/Special:FilePath/S%C3%A9rsic_models_with_different_%28n%29_indices.jpg?width=600)
+*Lead figure of the Wikipedia article Sérsic profile* ([Commons file page](https://commons.wikimedia.org/wiki/File:S%C3%A9rsic_models_with_different_%28n%29_indices.jpg), User:Fbot, Public domain, as used on the Wikipedia article [Sérsic profile](https://en.wikipedia.org/wiki/S%C3%A9rsic_profile))
+
+- **Sérsic profile**. "The Sérsic profile (or Sérsic model or Sérsic's law) is a mathematical function that describes how the intensity I $I$ of a galaxy varies with distance R $R$ from its center. It is a generalization of de Vaucouleurs' law. José Luis Sérsic first published his law in 1963." ([Wikipedia](https://en.wikipedia.org/wiki/S%C3%A9rsic_profile))
+- **The Evolution of Galaxy Structure over Cosmic Time**. "I present a comprehensive review of the evolution of galaxy structure in the universe from the first galaxies we can currently observe at z~6 down to galaxies we see in the local universe. I further address how these changes reveal galaxy formation processes that galaxy structural analyses can provide." ([arXiv:1403.2783](https://arxiv.org/abs/1403.2783))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[De Vaucouleurs and exponential profiles]]

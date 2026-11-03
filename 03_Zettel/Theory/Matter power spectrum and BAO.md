@@ -96,6 +96,15 @@ galaxies sit on the nodes of a vast filamentary network, with voids in between. 
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Baryon acoustic oscillations**. "In cosmology, baryon acoustic oscillations (BAO) are fluctuations in the density of the visible baryonic matter (normal matter) of the universe, caused by acoustic density waves in the primordial plasma of the early universe. In the same way that supernovae provide a "standard candle" for astronomical observations, BAO matter clustering provides a "standard ruler" for length scale in cosmology." ([Wikipedia](https://en.wikipedia.org/wiki/Baryon_acoustic_oscillations))
+- **Observational Probes of Cosmic Acceleration**. "The accelerating expansion of the universe is the most surprising cosmological discovery in many decades, implying that the universe is dominated by some form of "dark energy" with exotic physical properties, or that Einstein's theory of gravity breaks down on cosmological scales." ([arXiv:1201.2434](https://arxiv.org/abs/1201.2434))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

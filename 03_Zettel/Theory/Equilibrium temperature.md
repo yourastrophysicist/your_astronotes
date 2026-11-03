@@ -53,6 +53,17 @@ in some environments the gas is not in thermal equilibrium:
 
 modern photoionisation + radiation-hydrodynamics codes (Cloudy + Yt, MAPPINGS V) treat these effects.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Planetary equilibrium temperature|500](https://commons.wikimedia.org/wiki/Special:FilePath/Planetary_equilibrium_temperature_sketch.png?width=600)
+*Sketch of the situation for the planetary equilibrium temperature. The incoming solar radiation is absorbed and emitted as black-body radiation* ([Commons file page](https://commons.wikimedia.org/wiki/File:Planetary_equilibrium_temperature_sketch.png), Jcuhfehl, CC BY-SA 4.0, as used on the Wikipedia article [Planetary equilibrium temperature](https://en.wikipedia.org/wiki/Planetary_equilibrium_temperature))
+
+- **Planetary equilibrium temperature**. "The planetary equilibrium temperature is a theoretical temperature that a planet would be if it were in radiative equilibrium, typically under the assumption that it radiates as a black body being heated only by its parent star." ([Wikipedia](https://en.wikipedia.org/wiki/Planetary_equilibrium_temperature))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Heating rate in HII regions]]

@@ -43,6 +43,15 @@ a Riemannian manifold has only Euclidean-like distances; no concept of past / fu
 - **Schwarzschild**: $ds^2 = -(1 - 2GM/r)dt^2 + (1 - 2GM/r)^{-1}dr^2 + r^2 d\Omega^2$. signature $(-,+,+,+)$ in the exterior.
 - **FLRW**: $ds^2 = -dt^2 + a^2(t)\gamma_{ij}\,dx^i\,dx^j$. signature $(-,+,+,+)$.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Metric signature**. "In mathematics, the signature of a metric tensor g (or equivalently, a real quadratic form thought of as a real symmetric bilinear form on a finite-dimensional vector space) is the number (counted with multiplicity) of positive, negative and zero eigenvalues of the real symmetric matrix gab of the metric tensor with respect to a basis." ([Wikipedia](https://en.wikipedia.org/wiki/Metric_signature))
+- **Lecture Notes on General Relativity**. "These notes represent approximately one semester's worth of lectures on introductory general relativity for beginning graduate students in physics. Topics include manifolds, Riemannian geometry, Einstein's equations, and three applications: gravitational radiation, black holes, and cosmology." ([arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Coordinate transformations and tensors]]

@@ -31,6 +31,17 @@ both YSS and SSG are rare: typically a handful per cluster, $\lesssim 1\%$ of th
 
 YSS, SSG, [[Blue stragglers in star clusters\|BSS]], [[Cataclysmic variables in clusters\|CVs]], and [[Millisecond pulsars in GCs\|MSPs]] together form an inter-related family: products of the same dynamically processed binary populations that make GC cores so much weirder than the field.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Subgiant|500](https://commons.wikimedia.org/wiki/Special:FilePath/HR-diag-no-text-2.svg?width=600)
+*Lead figure of the Wikipedia article Subgiant* ([Commons file page](https://commons.wikimedia.org/wiki/File:HR-diag-no-text-2.svg), User:Spacepotato, CC BY-SA 3.0, as used on the Wikipedia article [Subgiant](https://en.wikipedia.org/wiki/Subgiant))
+
+- **Subgiant**. "A subgiant is a star that is brighter than a normal main-sequence star of the same spectral class, but not as bright as giant stars. The term subgiant is applied both to a particular spectral luminosity class and to a stage in the evolution of a star." ([Wikipedia](https://en.wikipedia.org/wiki/Subgiant))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 - [[Stellar_Astrophysics_MOC]]
 - [[Blue stragglers in star clusters]]

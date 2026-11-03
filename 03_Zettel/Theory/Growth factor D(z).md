@@ -81,6 +81,15 @@ so $D(z)$ is one of the central observables of late-time cosmology, complementar
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Structure formation**. "In physical cosmology, structure formation describes the creation of galaxies, galaxy clusters, and larger structures via gravitational and hydrodynamic processes operating on cosmological inhomogeneities. The universe, as is now known from observations of the cosmic microwave background radiation, began in a hot, dense, nearly uniform state approximately 13.8 billion years ago." ([Wikipedia](https://en.wikipedia.org/wiki/Structure_formation))
+- **Cosmological perturbations**. "We review the study of inhomogeneous perturbations about a homogeneous and isotropic background cosmology. We adopt a coordinate based approach, but give geometrical interpretations of metric perturbations in terms of the expansion, shear and curvature of constant-time hypersurfaces and the orthogonal timelike vector field." ([arXiv:0809.4944](https://arxiv.org/abs/0809.4944))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

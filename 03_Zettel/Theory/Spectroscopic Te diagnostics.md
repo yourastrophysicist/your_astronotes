@@ -59,6 +59,14 @@ $T_e$ is **anti-correlated with metallicity** (since metal-line cooling is the d
 
 so direct $T_e$ measurement gives metallicity. modern abundance work uses this extensively.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Plasma diagnostics**. "Plasma diagnostics are a pool of methods, instruments, and experimental techniques used to measure properties of a plasma, such as plasma components' density, distribution function over energy (temperature), their spatial profiles and dynamics, which enable to derive plasma parameters." ([Wikipedia](https://en.wikipedia.org/wiki/Plasma_diagnostics))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Forbidden line diagnostics]]

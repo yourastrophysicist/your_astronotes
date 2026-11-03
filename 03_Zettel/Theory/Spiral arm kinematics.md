@@ -87,6 +87,17 @@ by measuring $v_{r,\text{max}}(l)$ as a function of Galactic longitude $l$, radi
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Spiral galaxy|500](https://commons.wikimedia.org/wiki/Special:FilePath/Messier_77_spiral_galaxy_by_HST.jpg?width=600)
+*Lead figure of the Wikipedia article Spiral galaxy* ([Commons file page](https://commons.wikimedia.org/wiki/File:Messier_77_spiral_galaxy_by_HST.jpg), NASA, ESA & A. van der Hoeven, Public domain, as used on the Wikipedia article [Spiral galaxy](https://en.wikipedia.org/wiki/Spiral_galaxy))
+
+- **Spiral galaxy**. "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters." ([Wikipedia](https://en.wikipedia.org/wiki/Spiral_galaxy))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

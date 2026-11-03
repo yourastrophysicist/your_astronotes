@@ -63,6 +63,14 @@ depending on which source dominates, SNR scales differently with $t$:
 
 the regime determines whether to take long single exposures or short stacked ones. see [[The CCD equation]] for the full discussion.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Dark current (physics)**. "In physics and in electronic engineering, dark current is the relatively small electric current that flows through photosensitive devices such as a photomultiplier tube, photodiode, or charge-coupled device even when no photons enter the device; it consists of the charges generated in the detector when no outside radiation is entering the detector." ([Wikipedia](https://en.wikipedia.org/wiki/Dark_current_%28physics%29))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[CCD detectors and SNR]]

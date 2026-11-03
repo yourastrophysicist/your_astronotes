@@ -75,6 +75,17 @@ this is *the* modern method for optical-element characterization. used in:
 - semiconductor-fab metrology
 - precision-machine inspection
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Thin-film interference|500](https://commons.wikimedia.org/wiki/Special:FilePath/Dieselrainbow.jpg?width=600)
+*Diesel spill on a road* ([Commons file page](https://commons.wikimedia.org/wiki/File:Dieselrainbow.jpg), John (ex-user Guinnog), CC BY-SA 2.5, as used on the Wikipedia article [Thin-film interference](https://en.wikipedia.org/wiki/Thin-film_interference))
+
+- **Thin-film interference**. "Thin-film interference occurs when light waves reflected by the upper and lower boundaries of a thin film interfere with one another, increasing reflection at some wavelengths and decreasing it at others. When white light is incident on a thin film, this effect produces colorful reflections." ([Wikipedia](https://en.wikipedia.org/wiki/Thin-film_interference))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Optical path difference OPD]]

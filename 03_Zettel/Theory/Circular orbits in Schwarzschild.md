@@ -49,6 +49,15 @@ between $r = 3GM$ (photon sphere) and $r = 6GM$ (ISCO), circular **unstable** or
 - **iron K$\alpha$ line shape**: emitted by hot iron in accretion disks, broadened by Doppler + gravitational redshift. fitting the line shape gives the inner edge $r_{\rm ISCO}$, hence the BH spin.
 - **EHT shadow**: the BH "shadow" angular size is set by $\sim 5GM/c^2$, related to ISCO + photon sphere.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Schwarzschild geodesics**. "In general relativity, Schwarzschild geodesics describe the motion of test particles in the gravitational field of a central fixed mass M , {\textstyle M,} that is, motion in the Schwarzschild metric. Schwarzschild geodesics have been pivotal in the validation of Einstein's theory of general relativity." ([Wikipedia](https://en.wikipedia.org/wiki/Schwarzschild_geodesics))
+- **Lecture Notes on General Relativity**. "These notes represent approximately one semester's worth of lectures on introductory general relativity for beginning graduate students in physics. Topics include manifolds, Riemannian geometry, Einstein's equations, and three applications: gravitational radiation, black holes, and cosmology." ([arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Schwarzschild metric]]

@@ -98,6 +98,14 @@ three equivalent ways to write the FRW metric, useful in different contexts:
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Friedmann–Lemaître–Robertson–Walker metric**. "The Friedmann–Lemaître–Robertson–Walker metric (FLRW; ) is a metric that describes a homogeneous, isotropic, expanding (or otherwise, contracting, oscillating or constant) universe that is path-connected, but not necessarily simply connected. The general form of the metric follows from the geometric properties of homogeneity and isotropy." ([Wikipedia](https://en.wikipedia.org/wiki/Friedmann%E2%80%93Lema%C3%AEtre%E2%80%93Robertson%E2%80%93Walker_metric))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

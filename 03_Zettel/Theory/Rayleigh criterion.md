@@ -81,6 +81,17 @@ For **X-ray telescopes**:
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Angular resolution|500](https://commons.wikimedia.org/wiki/Special:FilePath/Event_Horizon_Telescope_and_Apollo_16.png?width=600)
+*Lead figure of the Wikipedia article Angular resolution* ([Commons file page](https://commons.wikimedia.org/wiki/File:Event_Horizon_Telescope_and_Apollo_16.png), Codehydro (Alexander Zhikun He), CC BY-SA 4.0, as used on the Wikipedia article [Angular resolution](https://en.wikipedia.org/wiki/Angular_resolution))
+
+- **Angular resolution**. "Angular resolution describes the ability of any image-forming device such as an optical or radio telescope, a microscope, a camera, or an eye, to distinguish small details of an object, thereby making it a major determinant of image resolution. It is used in optics applied to light waves, in antenna theory applied to radio waves, and in acoustics applied to sound waves." ([Wikipedia](https://en.wikipedia.org/wiki/Angular_resolution))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Adaptive optics overview]]

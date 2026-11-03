@@ -64,6 +64,17 @@ stellar atmosphere codes now produce synthetic spectra so detailed that they can
 
 Cecilia Payne's insight: **stars are essentially the same composition; the diversity of spectra is just a temperature ordering**. this is the spectroscopic version of the cosmological principle. it makes possible all of stellar astrophysics: a single grid of stellar atmosphere models in $(T_{\rm eff}, \log g, [Fe/H])$ predicts every star's spectrum.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Stellar classification|500](https://commons.wikimedia.org/wiki/Special:FilePath/HR-diag-no-text-2.svg?width=600)
+*Lead figure of the Wikipedia article Stellar classification* ([Commons file page](https://commons.wikimedia.org/wiki/File:HR-diag-no-text-2.svg), User:Spacepotato, CC BY-SA 3.0, as used on the Wikipedia article [Stellar classification](https://en.wikipedia.org/wiki/Stellar_classification))
+
+- **Stellar classification**. "In astronomy, stellar classification is the classification of stars based on their spectral characteristics. Electromagnetic radiation from the star is analyzed by splitting it with a prism or diffraction grating into a spectrum exhibiting the rainbow of colors interspersed with spectral lines." ([Wikipedia](https://en.wikipedia.org/wiki/Stellar_classification))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Why the Sequence OBAFGKM]]

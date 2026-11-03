@@ -174,6 +174,17 @@ Because of its moderate distance, Virgo played a pivotal role in resolving the 2
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Virgo Cluster|500](https://commons.wikimedia.org/wiki/Special:FilePath/Virgo_Cluster_taken_by_Vera_C._Rubin_%28noirlab2521a%29.jpg?width=600)
+*Lead figure of the Wikipedia article Virgo Cluster* ([Commons file page](https://commons.wikimedia.org/wiki/File:Virgo_Cluster_taken_by_Vera_C._Rubin_%28noirlab2521a%29.jpg), Credit: RubinObs/NOIRLab/SLAC/NSF/DOE/AURA, CC BY 4.0, as used on the Wikipedia article [Virgo Cluster](https://en.wikipedia.org/wiki/Virgo_Cluster))
+
+- **Virgo Cluster**. "The Virgo Cluster is a cluster of galaxies whose center is 53.8 ± 0.3 Mly (16.5 ± 0.1 Mpc) away in the constellation Virgo. Comprising approximately 1,300 (and possibly up to 2,000) member galaxies, the cluster forms the heart of the larger Virgo Supercluster, of which the Local Group (containing the Milky Way galaxy) is a member." ([Wikipedia](https://en.wikipedia.org/wiki/Virgo_Cluster))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Coma cluster]]

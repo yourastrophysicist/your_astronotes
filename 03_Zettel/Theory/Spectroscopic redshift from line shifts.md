@@ -61,6 +61,17 @@ systematic errors that limit precision:
 
 precision-RV applications (exoplanet detection): $\delta v \sim 0.1$ to $1$ m/s requires $\delta\lambda/\lambda \sim 10^{-9}$, well-controlled echelle spectrograph.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Redshift|500](https://commons.wikimedia.org/wiki/Special:FilePath/Redshift.svg?width=600)
+*Absorption lines in the optical spectrum of a supercluster of distant galaxies (BAS11) (right), as compared to those in the optical spectrum of the Sun (left). Arrows indicating Redshift* ([Commons file page](https://commons.wikimedia.org/wiki/File:Redshift.svg), Georg Wiora (Dr. Schorsch) created this image from the original JPG. Derivative work:Kes47 (talk), CC BY-SA 3.0, as used on the Wikipedia article [Redshift](https://en.wikipedia.org/wiki/Redshift))
+
+- **Redshift**. "In physics, a redshift is an increase in the wavelength, or equivalently, a decrease in the frequency, of electromagnetic radiation (such as light). The opposite change, a decrease in wavelength and increase in frequency and energy, is known as a blueshift." ([Wikipedia](https://en.wikipedia.org/wiki/Redshift))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Wavelength calibration]]

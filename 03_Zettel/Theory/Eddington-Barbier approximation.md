@@ -56,6 +56,17 @@ see [[Limb darkening]].
 
 modern stellar-atmosphere codes (PHOENIX, MARCS, ATLAS9) bypass Eddington-Barbier and solve the full RTE numerically. but for analytic intuition and quick estimates, EB remains essential.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Limb darkening|500](https://commons.wikimedia.org/wiki/Special:FilePath/2012_Transit_of_Venus_from_SF.jpg?width=600)
+*Lead figure of the Wikipedia article Limb darkening* ([Commons file page](https://commons.wikimedia.org/wiki/File:2012_Transit_of_Venus_from_SF.jpg), Brocken Inaglory, CC BY 2.5, as used on the Wikipedia article [Limb darkening](https://en.wikipedia.org/wiki/Limb_darkening))
+
+- **Limb darkening**. "Limb darkening is an optical effect seen in stars (including the Sun) and planets, where the central part of the disk appears brighter than the edge, or limb. Its understanding offered early solar astronomers an opportunity to construct models with such gradients. This encouraged the development of the theory of radiative transfer." ([Wikipedia](https://en.wikipedia.org/wiki/Limb_darkening))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Equation of radiative transfer]]

@@ -109,6 +109,17 @@ r_history = sol.y[:3*N].reshape(N, 3, len(sol.t))
 v_history = sol.y[3*N:].reshape(N, 3, len(sol.t))
 ```
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Ordinary differential equation|500](https://commons.wikimedia.org/wiki/Special:FilePath/Parabolic_trajectory.svg?width=600)
+*Illustration of a parabolic trajectory* ([Commons file page](https://commons.wikimedia.org/wiki/File:Parabolic_trajectory.svg), Oleg Alexandrov, Public domain, as used on the Wikipedia article [Ordinary differential equation](https://en.wikipedia.org/wiki/Ordinary_differential_equation))
+
+- **Ordinary differential equation**. "In mathematics, an ordinary differential equation (ODE) is a differential equation (DE) dependent on only a single independent variable. As with any other DE, its unknown(s) consists of one (or more) function(s) and involves the derivatives of those functions." ([Wikipedia](https://en.wikipedia.org/wiki/Ordinary_differential_equation))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Euler method]]

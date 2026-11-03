@@ -89,6 +89,14 @@ LBT continues to be upgraded:
 
 LBT will remain an important instrument for thermal-IR astronomy and Fizeau imaging through the 2030s.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Large Binocular Telescope**. "The Large Binocular Telescope (LBT) is an optical telescope for astronomy located on 10,700-foot (3,300 m) Mount Graham, in the Pinaleno Mountains of southeastern Arizona, United States. It is a part of the Mount Graham International Observatory." ([Wikipedia](https://en.wikipedia.org/wiki/Large_Binocular_Telescope))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Components of a modern interferometer]]

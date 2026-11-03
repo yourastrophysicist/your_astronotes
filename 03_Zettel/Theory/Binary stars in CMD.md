@@ -30,6 +30,17 @@ the same trick works for higher multiples. triples and quadruples shift even fur
 - **Milone et al. 2012, A&A 540, A16** — binary fractions in 59 Galactic GCs.
 - **Bedin et al. 2008, 2009** — high binary fraction in NGC 6791 and its impact on the WDCS.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Binary star|500](https://commons.wikimedia.org/wiki/Special:FilePath/Best_image_of_Alpha_Centauri_A_and_B.jpg?width=600)
+*Lead figure of the Wikipedia article Binary star* ([Commons file page](https://commons.wikimedia.org/wiki/File:Best_image_of_Alpha_Centauri_A_and_B.jpg), ESA/Hubble & NASA, CC BY 4.0, as used on the Wikipedia article [Binary star](https://en.wikipedia.org/wiki/Binary_star))
+
+- **Binary star**. "A binary star or binary star system is a system of two stars that are gravitationally bound to and in orbit around each other. Binary stars are among the most important objects in astrophysics because they allow direct measurement of stellar masses and test theories of stellar evolution." ([Wikipedia](https://en.wikipedia.org/wiki/Binary_star))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 - [[Stellar_Astrophysics_MOC]]
 - [[Cluster binary fraction methods]]

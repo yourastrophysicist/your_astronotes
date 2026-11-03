@@ -61,6 +61,15 @@ both $\rho_*$ (via $M_*/L$) and $\rho_{SFR}$ (via SFR/$L_{UV}$ or SFR/$L_{IR}$) 
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Galaxy formation and evolution**. "In cosmology, the study of galaxy formation and evolution is concerned with the processes that formed a heterogeneous universe from a homogeneous beginning, the formation of the first galaxies, the way galaxies change over time, and the processes that have generated the variety of structures observed in nearby galaxies." ([Wikipedia](https://en.wikipedia.org/wiki/Galaxy_formation_and_evolution))
+- **Cosmic Star Formation History**. "Over the past two decades, an avalanche of data from multiwavelength imaging and spectroscopic surveys has revolutionized our view of galaxy formation and evolution." ([arXiv:1403.0007](https://arxiv.org/abs/1403.0007))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Cosmic star formation history]]

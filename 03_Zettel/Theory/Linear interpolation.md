@@ -85,6 +85,17 @@ scipy: `scipy.interpolate.RegularGridInterpolator`.
 - if data is smoothly varying and I want $O(h^4)$ accuracy
 - if I am plotting the interpolant for presentation: cubic splines look better
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Linear interpolation|500](https://commons.wikimedia.org/wiki/Special:FilePath/LinearInterpolation.svg?width=600)
+*Illustration of linear interpolation* ([Commons file page](https://commons.wikimedia.org/wiki/File:LinearInterpolation.svg), Berland. Based on png-version Image:Linear_interpolation.png. Newer version by ElectroKid (☮ • ✍), Public domain, as used on the Wikipedia article [Linear interpolation](https://en.wikipedia.org/wiki/Linear_interpolation))
+
+- **Linear interpolation**. "In mathematics, linear interpolation is a method of function approximation using linear polynomials to construct new data points within the range of a discrete set of known data points." ([Wikipedia](https://en.wikipedia.org/wiki/Linear_interpolation))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Lagrange polynomial interpolation]]

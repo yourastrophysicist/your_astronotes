@@ -54,6 +54,15 @@ $$P_{\rm EM} = \frac{q^2 a^2}{6\pi\epsilon_0 c^3}$$
 
 depends on $a^2$, the squared acceleration. GR analog has $\dddot Q^2$ (squared third derivative of quadrupole). higher derivative reflects the higher-multipole leading order.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Gravitational wave**. "Gravitational waves are waves of spacetime curvature produced by the relative motion of gravitating masses and which propagate away at the speed of light. They were first predicted by Albert Einstein as a consequence of his general theory of relativity, appearing as "ripples in spacetime curvature"." ([Wikipedia](https://en.wikipedia.org/wiki/Gravitational_wave))
+- **The basics of gravitational wave theory**. "Einstein's special theory of relativity revolutionized physics by teaching us that space and time are not separate entities, but join as ``spacetime''." ([arXiv:gr-qc/0501041](https://arxiv.org/abs/gr-qc/0501041))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Quadrupole formula]]

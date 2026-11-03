@@ -59,6 +59,14 @@ a key fact: matter dominated **before** recombination ($z_{\rm eq} \approx 3400 
 - the gravitational potential at recombination is set by matter, not radiation.
 - this matters for the **CMB acoustic peaks**: the locations of peaks reflect the matter-dominated background.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Scale factor (cosmology)**. "The expansion of the universe is parametrized by a dimensionless scale factor a $a$ . Also known as the cosmic scale factor or sometimes the Robertson–Walker scale factor, this is a key parameter of the Friedmann equations. In the early stages of the Big Bang, most of the energy was in the form of radiation, and that radiation was the dominant influence on the expansion of the universe." ([Wikipedia](https://en.wikipedia.org/wiki/Scale_factor_%28cosmology%29))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Cosmic eras]]

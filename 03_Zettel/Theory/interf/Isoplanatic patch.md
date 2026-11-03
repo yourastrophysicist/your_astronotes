@@ -72,6 +72,15 @@ so the integral that defines $\theta_0$ has $z^{5/3}$ weighting because high-alt
 
 practical: most isoplanatic-angle-degrading turbulence is at *jet-stream altitude* (~10 km). a site with low jet-stream activity has large $\theta_0$.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Isoplanatic patch**. "The isoplanatic patch is defined as an arbitrary area of the sky over which the path length of incoming electromagnetic waves (such as light or radio waves) only varies by a relatively small amount relative to their wavelength. Typically this area is measured by angular size. Poor seeing, a larger telescope aperture, or a higher altitude for the dominant turbulent layers, will all decrease the size of a patch." ([Wikipedia](https://en.wikipedia.org/wiki/Isoplanatic_patch))
+- **Adaptive Optics for Astronomy**. "Adaptive Optics is a prime example of how progress in observational astronomy can be driven by technological developments." ([arXiv:1201.5741](https://arxiv.org/abs/1201.5741))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Atmospheric turbulence overview]]

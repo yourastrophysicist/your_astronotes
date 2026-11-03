@@ -123,6 +123,14 @@ popt, pcov = curve_fit(model, x, y, p0=p0, jac=jacobian)
 - **complicated likelihood (non-Gaussian)**: use MCMC or nested sampling
 - **discrete parameters**: LM cannot handle integers; use specialized algorithms
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Non-linear least squares**. "Non-linear least squares is the form of least squares analysis used to fit a set of m observations with a model that is non-linear in n unknown parameters (m ≥ n). It is used in some forms of nonlinear regression. The basis of the method is to approximate the model by a linear one and to refine the parameters by successive iterations." ([Wikipedia](https://en.wikipedia.org/wiki/Non-linear_least_squares))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Linear least squares]]

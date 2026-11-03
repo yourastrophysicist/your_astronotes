@@ -49,6 +49,17 @@ symbiotics offer an unusual window into:
 - **nucleosynthesis** in the burning shell on the WD.
 - **type Ia SN progenitors** (single-degenerate channel).
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Symbiotic binary|500](https://commons.wikimedia.org/wiki/Special:FilePath/Artists_Impression_of_R_Aquarii%2C_A_Symbiotic_Star.jpg?width=600)
+*A 3D Rendering of the star R Aquarii, a symbiotic star, during an outburst* ([Commons file page](https://commons.wikimedia.org/wiki/File:Artists_Impression_of_R_Aquarii,_A_Symbiotic_Star.jpg), NASA, ESA, and D. Berry (STScI), Public domain, as used on the Wikipedia article [Symbiotic binary](https://en.wikipedia.org/wiki/Symbiotic_binary))
+
+- **Symbiotic binary**. "A symbiotic binary is a type of binary star system, often simply called a symbiotic star. They usually contain a white dwarf with a companion red giant. The cool giant star loses material via Roche lobe overflow or through its stellar wind, which flows onto the hot compact star, usually via an accretion disk." ([Wikipedia](https://en.wikipedia.org/wiki/Symbiotic_binary))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Emission line stars]]

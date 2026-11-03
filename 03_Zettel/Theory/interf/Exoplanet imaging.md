@@ -100,6 +100,18 @@ exoplanet imaging has produced (selectively):
 
 these complement transit observations (which give bulk planet density) and radial velocity (which gives masses) for a complete picture.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Methods of detecting exoplanets|500](https://commons.wikimedia.org/wiki/Special:FilePath/Confirmed_exoplanets_by_methods_EPE.svg?width=600)
+*Lead figure of the Wikipedia article Methods of detecting exoplanets* ([Commons file page](https://commons.wikimedia.org/wiki/File:Confirmed_exoplanets_by_methods_EPE.svg), Betseg, CC BY-SA 4.0, as used on the Wikipedia article [Methods of detecting exoplanets](https://en.wikipedia.org/wiki/Methods_of_detecting_exoplanets))
+
+- **Methods of detecting exoplanets**. "Methods of detecting exoplanets usually rely on indirect strategies – that is, they do not directly image the planet but deduce its existence from another signal. Any planet is an extremely faint light source compared to its parent star. For example, a star like the Sun is about a billion times as bright as the reflected light from any of the planets orbiting it." ([Wikipedia](https://en.wikipedia.org/wiki/Methods_of_detecting_exoplanets))
+- **Imaging Extrasolar Giant Planets**. "High-contrast adaptive optics imaging is a powerful technique to probe the architectures of planetary systems from the outside-in and survey the atmospheres of self-luminous giant planets." ([arXiv:1605.02731](https://arxiv.org/abs/1605.02731))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Coronagraphy]]

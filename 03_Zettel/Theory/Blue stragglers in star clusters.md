@@ -27,6 +27,17 @@ BSS connect to other exotic populations: their evolved descendants populate the 
 
 historical note: sandage's 1953 paper was for years just an oddity; the BSS phenomenon was only taken seriously after subsequent CMDs of many GCs all showed the same feature. it is now one of the cleanest diagnostics of cluster dynamics we have.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Blue straggler|500](https://commons.wikimedia.org/wiki/Special:FilePath/Blue_Straggler_HRD_globular_cluster.svg?width=600)
+*Sketch of HRD of a globular cluster, showing blue stragglers* ([Commons file page](https://commons.wikimedia.org/wiki/File:Blue_Straggler_HRD_globular_cluster.svg), RicHard-59, CC BY-SA 3.0, as used on the Wikipedia article [Blue straggler](https://en.wikipedia.org/wiki/Blue_straggler))
+
+- **Blue straggler**. "A blue straggler is a type of star that is more luminous and bluer than expected. Typically identified in a stellar cluster, they have a higher effective temperature than the main sequence turnoff point for the cluster, where ordinary stars begin to evolve towards the red giant branch. Blue stragglers were first discovered by Allan Sandage in 1953 while performing photometry of the stars in the globular cluster M3." ([Wikipedia](https://en.wikipedia.org/wiki/Blue_straggler))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 - [[Stellar_Astrophysics_MOC]]
 - [[Blue straggler formation channels]]

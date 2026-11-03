@@ -61,6 +61,17 @@ every coordinate system I will use (alt-azimuth, equatorial, ecliptic, galactic)
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Celestial sphere|500](https://commons.wikimedia.org/wiki/Special:FilePath/Celestial_Sphere_-_Eq_w_Label_figures.png?width=600)
+*A 3D depiction of the celestial sphere with the sky "wrapped" around Earth at the center. The celestial equator, with label are shown, along with stick figures of the constellations* ([Commons file page](https://commons.wikimedia.org/wiki/File:Celestial_Sphere_-_Eq_w_Label_figures.png), ChristianReady, CC BY-SA 4.0, as used on the Wikipedia article [Celestial sphere](https://en.wikipedia.org/wiki/Celestial_sphere))
+
+- **Celestial sphere**. "In astronomy and navigation, the celestial sphere is an abstract sphere that has an arbitrarily large radius and is concentric to Earth. All objects in the sky can be conceived as being projected upon the inner surface of the celestial sphere, which may be centered on Earth or the observer. If centered on the observer, half of the sphere would resemble a hemispherical screen over the observing location." ([Wikipedia](https://en.wikipedia.org/wiki/Celestial_sphere))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

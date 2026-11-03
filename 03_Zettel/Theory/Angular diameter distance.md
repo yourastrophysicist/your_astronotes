@@ -52,6 +52,14 @@ $$\theta = D/d_A = 10\,\text{kpc}/(1308\,\text{Mpc}) \approx 1.6\,\text{arcsec}$
 
 resolved by HST and JWST routinely.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Angular diameter distance**. "In astronomy, angular diameter distance is a distance (in units of length) defined in terms of an object's physical size (also in units of length)," ([Wikipedia](https://en.wikipedia.org/wiki/Angular_diameter_distance))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - 03_Zettel/Theory/Cosmological distances

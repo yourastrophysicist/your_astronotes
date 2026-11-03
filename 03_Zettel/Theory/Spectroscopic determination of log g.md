@@ -49,6 +49,14 @@ $\log g$ separates dwarfs from giants of the same $T_{\rm eff}$ in the [[HR diag
 - strong-line wings: 0.1-0.3 dex.
 - asteroseismic: 0.02-0.05 dex.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Surface gravity**. "The surface gravity, g, of an astronomical object is the gravitational acceleration experienced at its surface at the equator, including the effects of rotation. Surface gravity may be understood as the acceleration due to gravity experienced by a hypothetical test particle located very close to the object's surface, which has negligible mass so as not to disturb the system." ([Wikipedia](https://en.wikipedia.org/wiki/Surface_gravity))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 - [[Atmospheric parameters Teff log g feh vmicro]]
 - [[Spectroscopic determination of Teff]]

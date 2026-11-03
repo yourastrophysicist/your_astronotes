@@ -82,6 +82,17 @@ reading cue: the two slits are the baby version of two telescope apertures. the 
 
 source: local study diagram generated from the standard Young/Fraunhofer geometry, $\Delta=m\lambda$ and $\Delta y\simeq \lambda L/d$.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Double-slit experiment|500](https://commons.wikimedia.org/wiki/Special:FilePath/Double-slit.svg?width=600)
+*An illustration of the 'Double-slit experiment' in physics* ([Commons file page](https://commons.wikimedia.org/wiki/File:Double-slit.svg), Original: NekoJaNekoJa Vector: Johannes Kalliauer, CC BY-SA 4.0, as used on the Wikipedia article [Double-slit experiment](https://en.wikipedia.org/wiki/Double-slit_experiment))
+
+- **Double-slit experiment**. "In modern physics, the double-slit experiment demonstrates that light and matter can exhibit behavior associated with both classical particles and classical waves. This type of experiment was first described by Thomas Young in 1801 when making his case for the wave behavior of visible light." ([Wikipedia](https://en.wikipedia.org/wiki/Double-slit_experiment))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Plane waves and Huygens principle]]

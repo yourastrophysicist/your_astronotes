@@ -59,6 +59,14 @@ at $\nu \sim 10$ GHz the two are comparable in star-forming galaxies; at higher 
 
 high-energy synchrotron-emitting electrons can also up-scatter low-energy photons via **inverse Compton** (see [[Compton and Inverse Compton]]). produces a second peak in the SED at higher frequencies, often X-ray to TeV $\gamma$-ray. blazars famously show synchrotron + IC two-peak SEDs.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Synchrotron radiation**. "Synchrotron radiation (also known as magnetobremsstrahlung) is the electromagnetic radiation emitted when relativistic charged particles are subject to an acceleration perpendicular to their velocity (a ⊥ v). It is produced artificially in some types of particle accelerators or naturally by fast electrons moving through magnetic fields." ([Wikipedia](https://en.wikipedia.org/wiki/Synchrotron_radiation))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Synchroton]] — the comprehensive existing note

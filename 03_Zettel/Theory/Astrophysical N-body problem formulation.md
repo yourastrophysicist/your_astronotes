@@ -95,6 +95,14 @@ the energy diagnostic: total energy should stay constant within the integrator's
 - **TreePM hybrid**: tree for short range, mesh for long range
 - **Fast Multipole Method (FMM)**: $O(N)$, the asymptotic king for large $N$
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **N-body problem**. "In physics, the n-body problem is the problem of predicting the individual motions of a group of celestial objects interacting with each other gravitationally. Solving this problem has been motivated by the desire to understand the motions of the Sun, Moon, planets, and visible stars." ([Wikipedia](https://en.wikipedia.org/wiki/N-body_problem))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Energy conservation as a diagnostic]]

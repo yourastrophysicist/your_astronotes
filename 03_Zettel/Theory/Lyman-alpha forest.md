@@ -58,6 +58,18 @@ besides Ly-α, the IGM clouds have metal absorption lines (C IV, Mg II, O VI). t
 - provide ionisation diagnostics (different ions in different temperature regimes).
 - map circumgalactic medium (CGM) around foreground galaxies.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Lyman-alpha forest|500](https://commons.wikimedia.org/wiki/Special:FilePath/Lymanalpha.gif?width=600)
+*Lead figure of the Wikipedia article Lyman-alpha forest* ([Commons file page](https://commons.wikimedia.org/wiki/File:Lymanalpha.gif), J. Shalf, Y. Zhang (UIUC) et al., GCCC, Public domain, as used on the Wikipedia article [Lyman-alpha forest](https://en.wikipedia.org/wiki/Lyman-alpha_forest))
+
+- **Lyman-alpha forest**. "In astronomical spectroscopy, the Lyman-alpha forest is a series of absorption lines in the spectra of distant galaxies and quasars arising from the Lyman-alpha electron transition of the neutral hydrogen atom. As the light encounters a neutral hydrogen atom, it is absorbed at a fixed frequency in the rest frame of the neutral hydrogen." ([Wikipedia](https://en.wikipedia.org/wiki/Lyman-alpha_forest))
+- **The Lyman Alpha Forest in the Spectra of QSOs**. "Observations of redshifted Lyman alpha forest absorption in the spectra of quasistellar objects (QSOs) provide a highly sensitive probe of the distribution of gaseous matter in the universe." ([arXiv:astro-ph/9806286](https://arxiv.org/abs/astro-ph/9806286))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Reionization]]

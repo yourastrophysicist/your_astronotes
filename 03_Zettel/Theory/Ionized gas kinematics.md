@@ -212,6 +212,18 @@ ho_{\mathrm{gas}}}{d\ln R} + \frac{d\ln \sigma_{\mathrm{gas}}^2}{d\ln R} \right]
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Supermassive black hole|500](https://commons.wikimedia.org/wiki/Special:FilePath/Black_hole_-_Messier_87.jpg?width=600)
+*Lead figure of the Wikipedia article Supermassive black hole* ([Commons file page](https://commons.wikimedia.org/wiki/File:Black_hole_-_Messier_87.jpg), Event Horizon Telescope, CC BY 4.0, as used on the Wikipedia article [Supermassive black hole](https://en.wikipedia.org/wiki/Supermassive_black_hole))
+
+- **Supermassive black hole**. "A supermassive black hole (SMBH or sometimes SBH) is the largest type of black hole, with its mass being on the order of hundreds of thousands, or millions to billions, of times the mass of the Sun (M☉). Black holes are a class of astronomical objects that have undergone gravitational collapse, leaving behind spheroidal regions of space that nothing, not even light, can escape." ([Wikipedia](https://en.wikipedia.org/wiki/Supermassive_black_hole))
+- **Coevolution (Or Not) of Supermassive Black Holes and Host Galaxies**. "We review the observed demographics and inferred evolution of supermassive black holes (BHs) found by dynamical modeling of spatially resolved kinematics. Most influential was the discovery of a tight correlation between BH mass and the velocity dispersion of the host-galaxy bulge." ([arXiv:1304.7762](https://arxiv.org/abs/1304.7762))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Datacube redshift measurement]]

@@ -306,6 +306,14 @@ When sketching de Vaucouleurs and exponential profiles on the blackboard.
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **De Vaucouleurs's law**. "de Vaucouleurs's law (also known as the de Vaucouleurs profile or the de Vaucouleurs model) is a mathematical function that describes how the surface brightness of an elliptical galaxy varies as a function of apparent distance from the center of the galaxy. The model is named after Gérard de Vaucouleurs who first formulated it in 1948." ([Wikipedia](https://en.wikipedia.org/wiki/De_Vaucouleurs%27s_law))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[CAS galaxy classification]]

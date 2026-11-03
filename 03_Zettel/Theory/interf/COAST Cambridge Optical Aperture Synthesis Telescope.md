@@ -64,6 +64,17 @@ the COAST team's expertise migrated to MIRC at CHARA, where many of the same res
 
 COAST shows that *demonstrating a technique* often precedes its scientific dominance. the 1996 image of Capella was scientifically modest but technically revolutionary. modern interferometric science is built on COAST's proof-of-concept.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Cambridge Optical Aperture Synthesis Telescope|500](https://commons.wikimedia.org/wiki/Special:FilePath/Cmglee_Cambridge_MRAO_COAST_bunker.jpg?width=600)
+*The interior of the bunker of the Cambridge Optical Aperture Synthesis Telescope at the Mullard Radio Astronomy Observatory, Cambridgeshire in June 2014* ([Commons file page](https://commons.wikimedia.org/wiki/File:Cmglee_Cambridge_MRAO_COAST_bunker.jpg), Cmglee, CC BY-SA 3.0, as used on the Wikipedia article [Cambridge Optical Aperture Synthesis Telescope](https://en.wikipedia.org/wiki/Cambridge_Optical_Aperture_Synthesis_Telescope))
+
+- **Cambridge Optical Aperture Synthesis Telescope**. "COAST, the Cambridge Optical Aperture Synthesis Telescope, is a multi-element optical astronomical interferometer with baselines of up to 100 metres, which uses aperture synthesis to observe stars with angular resolution as high as one thousandth of one arcsecond (producing much higher resolution images than individual telescopes, including the Hubble Space Telescope)." ([Wikipedia](https://en.wikipedia.org/wiki/Cambridge_Optical_Aperture_Synthesis_Telescope))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Components of a modern interferometer]]

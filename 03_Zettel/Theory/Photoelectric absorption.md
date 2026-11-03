@@ -84,6 +84,17 @@ Because photoelectric absorption is dominant at low X-ray energies:
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Photoelectric effect|500](https://commons.wikimedia.org/wiki/Special:FilePath/Photoelectric_effect_in_a_solid_-_diagram.svg?width=600)
+*Photoelectric effect in a solid: ultraviolet light ejects electrons from a crystal* ([Commons file page](https://commons.wikimedia.org/wiki/File:Photoelectric_effect_in_a_solid_-_diagram.svg), Ponor, CC BY-SA 4.0, as used on the Wikipedia article [Photoelectric effect](https://en.wikipedia.org/wiki/Photoelectric_effect))
+
+- **Photoelectric effect**. "The photoelectric effect is the emission of electrons from a material caused by electromagnetic radiation such as ultraviolet light. Electrons emitted in this manner are called photoelectrons. The phenomenon is studied in condensed matter physics, solid state, and quantum chemistry to draw inferences about the properties of atoms, molecules and solids." ([Wikipedia](https://en.wikipedia.org/wiki/Photoelectric_effect))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Atmospheric transmission]]

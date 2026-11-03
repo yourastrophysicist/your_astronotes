@@ -54,6 +54,14 @@ at LTE, every microscopic process is balanced by its inverse:
 
 so the rates of both directions are equal. this is what enforces $S_\nu = B_\nu$. break detailed balance (e.g. by a dilute radiation field) and LTE breaks.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Thermodynamic equilibrium**. "Thermodynamic equilibrium is a notion of thermodynamics with axiomatic status referring to an internal state of a single thermodynamic system, or a relation between several thermodynamic systems connected by more or less permeable or impermeable walls. In thermodynamic equilibrium, there are no net macroscopic flows of mass nor of energy within a system or between systems." ([Wikipedia](https://en.wikipedia.org/wiki/Thermodynamic_equilibrium))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Boltzmann equation in spectroscopy]]

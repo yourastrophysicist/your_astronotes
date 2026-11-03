@@ -101,6 +101,14 @@ for symmetric matrices, none of these troubles occur. **always check symmetry be
 - **stress tensor**: eigenvalues are principal stresses, eigenvectors give stress directions
 - **CMB power spectrum to map**: realizations sampled by drawing $\mathbf{a}_{\ell m} \sim \mathcal{N}(0, \Sigma)$ where $\Sigma$ is diagonal in $\ell$ but represented in pixel space requires diagonalization
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Diagonalizable matrix**. "In linear algebra, a square matrix A $A$ is called diagonalizable or non-defective if it is similar to a diagonal matrix. That is, if there exists an invertible matrix P $P$ and a diagonal matrix D $D$ such that P − 1 A P = D $P^{-1}AP=D$ . This is equivalent to A = P D P − 1 $A=PDP^{-1}$ ." ([Wikipedia](https://en.wikipedia.org/wiki/Diagonalizable_matrix))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[QR algorithm for eigenvalues]]

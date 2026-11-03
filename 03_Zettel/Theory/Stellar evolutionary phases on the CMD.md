@@ -33,6 +33,17 @@ a useful summary table (canonical values for a $\sim 12$ Gyr, $[\mathrm{Fe}/\mat
 
 each transition has a *clock-like* duration that the cluster CMD samples in proportion (fuel-consumption theorem, Renzini and Buzzoni 1986).
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Stellar evolution|500](https://commons.wikimedia.org/wiki/Special:FilePath/Triangle_of_everything_-_Stellar_Evolution.png?width=600)
+*Lead figure of the Wikipedia article Stellar evolution* ([Commons file page](https://commons.wikimedia.org/wiki/File:Triangle_of_everything_-_Stellar_Evolution.png), Avsa, CC BY-SA 4.0, as used on the Wikipedia article [Stellar evolution](https://en.wikipedia.org/wiki/Stellar_evolution))
+
+- **Stellar evolution**. "Stellar evolution is the process by which a star changes over the course of time. Depending on the mass of the star, its lifetime can range from a few million years for the most massive to trillions of years for the least massive, which is considerably longer than the current age of the universe. The table shows the lifetimes of stars as a function of their masses." ([Wikipedia](https://en.wikipedia.org/wiki/Stellar_evolution))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 - [[Stellar_Astrophysics_MOC]]
 - [[HR diagram]]

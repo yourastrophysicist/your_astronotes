@@ -67,6 +67,15 @@ PSR B1913+16 (Hulse + Taylor 1974). orbital period decreasing at $\sim 76\,\mu$s
 
 direct detection: GW150914 (LIGO 2015), Nobel 2017.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Quadrupole formula**. "In general relativity, the quadrupole formula describes the gravitational waves that are emitted from a system of masses in terms of the (mass) quadrupole moment." ([Wikipedia](https://en.wikipedia.org/wiki/Quadrupole_formula))
+- **The basics of gravitational wave theory**. "Einstein's special theory of relativity revolutionized physics by teaching us that space and time are not separate entities, but join as ``spacetime''." ([arXiv:gr-qc/0501041](https://arxiv.org/abs/gr-qc/0501041))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Linearized metric perturbation]]

@@ -179,6 +179,17 @@ rng = np.random.default_rng(42)
 plt.rcParams.update({'font.size': 12, 'figure.dpi': 100})
 ```
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![SciPy|500](https://commons.wikimedia.org/wiki/Special:FilePath/Psd_scipy.png?width=600)
+*PSD of ECG using scipy* ([Commons file page](https://commons.wikimedia.org/wiki/File:Psd_scipy.png), Shishirdasika, CC BY-SA 3.0, as used on the Wikipedia article [SciPy](https://en.wikipedia.org/wiki/SciPy))
+
+- **SciPy**. "SciPy (pronounced "sigh pie") is a free and open-source Python library used for scientific computing and technical computing. SciPy contains modules for optimization, linear algebra, integration, interpolation, special functions, fast Fourier transform, signal and image processing, ordinary differential equation solvers and other tasks common in science and engineering." ([Wikipedia](https://en.wikipedia.org/wiki/SciPy))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Numpy arrays vs Python lists]]

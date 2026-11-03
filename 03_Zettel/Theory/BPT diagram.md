@@ -71,6 +71,18 @@ BPT classifications are run on $\sim 10^6$ galaxies in SDSS spectroscopic sample
 - **galaxy evolution**: how AGN fraction depends on stellar mass, environment.
 - **starburst surveys**: identifying pure SF galaxies for SFR studies.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Low-ionization nuclear emission-line region|500](https://commons.wikimedia.org/wiki/Special:FilePath/M104_ngc4594_sombrero_galaxy_hi-res.jpg?width=600)
+*Lead figure of the Wikipedia article Low-ionization nuclear emission-line region* ([Commons file page](https://commons.wikimedia.org/wiki/File:M104_ngc4594_sombrero_galaxy_hi-res.jpg), NASA/ESA and The Hubble Heritage Team (STScI/AURA), Public domain, as used on the Wikipedia article [Low-ionization nuclear emission-line region](https://en.wikipedia.org/wiki/Low-ionization_nuclear_emission-line_region))
+
+- **Low-ionization nuclear emission-line region**. "A low-ionization nuclear emission-line region (LINER) is a type of galactic nucleus that is defined by its spectral line emission. The spectra typically include line emission from weakly ionized or neutral atoms, such as O, O+, N+, and S+. Conversely, the spectral line emission from strongly ionized atoms, such as O++, Ne++, and He+, is relatively weak." ([Wikipedia](https://en.wikipedia.org/wiki/Low-ionization_nuclear_emission-line_region))
+- **Understanding Galaxy Evolution through Emission Lines**. "We review the use of emission-lines for understanding galaxy evolution, focusing on excitation source, metallicity, ionization parameter, ISM pressure and electron density. We show that the UV, optical and infrared contain complementary diagnostics that can probe the conditions within different nebular ionization zones." ([arXiv:1910.09730](https://arxiv.org/abs/1910.09730))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Forbidden line diagnostics]]

@@ -78,6 +78,17 @@ root = brentq(f, a, b)
 - **finding cosmological recombination redshift**: $X_e(z) - 0.5 = 0$ from Saha equation
 - **inverting a tabulated function**: given $y$, find $x$ such that $f(x) = y$ when $f$ is monotonic but not analytic
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Bisection method|500](https://commons.wikimedia.org/wiki/Special:FilePath/Bisection_method.svg?width=600)
+*The Bisection Method* ([Commons file page](https://commons.wikimedia.org/wiki/File:Bisection_method.svg), Bisection_method.svg: Tokuchan derivative work: Tokuchan (talk), CC BY-SA 3.0, as used on the Wikipedia article [Bisection method](https://en.wikipedia.org/wiki/Bisection_method))
+
+- **Bisection method**. "In mathematics, the bisection method is a root-finding method that applies to any continuous function for which one knows two values with opposite signs. The method consists of repeatedly bisecting the interval defined by these values, then selecting the subinterval in which the function changes sign, which therefore must contain a root. It is a very simple and robust method, but it is also relatively slow." ([Wikipedia](https://en.wikipedia.org/wiki/Bisection_method))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Newton-Raphson method]]

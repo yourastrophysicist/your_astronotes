@@ -65,6 +65,14 @@ defined as $a = \Gamma/(4\pi\Delta\nu_D)$, the ratio of total Lorentzian (natura
 - $a \sim 1$: comparable, true Voigt regime.
 - $a \gg 1$: Lorentzian dominates throughout.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Spectral line**. "A spectral line is a weaker or stronger region in an otherwise uniform and continuous spectrum. It may result from emission or absorption of light in a narrow frequency range, compared with the nearby frequencies. Spectral lines are often used to identify atoms and molecules." ([Wikipedia](https://en.wikipedia.org/wiki/Spectral_line))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Natural broadening Lorentzian]]

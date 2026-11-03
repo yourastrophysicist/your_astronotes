@@ -70,6 +70,17 @@ $$\Gamma_{\rm per\,atom} = c\,n_\gamma\,\bar\sigma \approx c\,(U \cdot n_H)\,\ba
 
 so $U$ is essentially the dimensionless control parameter; $c$ and atomic constants enter only as overall normalisation.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Photoionization|500](https://commons.wikimedia.org/wiki/Special:FilePath/Hubble_green_filaments_20150402.jpg?width=600)
+*Lead figure of the Wikipedia article Photoionization* ([Commons file page](https://commons.wikimedia.org/wiki/File:Hubble_green_filaments_20150402.jpg), NASA, ESA, Galaxy Zoo Team and William Keel (University of Alabama, USA), Public domain, as used on the Wikipedia article [Photoionization](https://en.wikipedia.org/wiki/Photoionization))
+
+- **Photoionization**. "Photoionization is the physical process in which an ion is formed from the interaction of a photon with an atom or molecule." ([Wikipedia](https://en.wikipedia.org/wiki/Photoionization))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Photoionization rate]]

@@ -110,6 +110,17 @@ ${}^{56}\text{Fe}$ has the maximum binding energy per nucleon ($\approx 8.8$ MeV
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Stellar nucleosynthesis|500](https://commons.wikimedia.org/wiki/Special:FilePath/Nuclear_energy_generation.svg?width=600)
+*Lead figure of the Wikipedia article Stellar nucleosynthesis* ([Commons file page](https://commons.wikimedia.org/wiki/File:Nuclear_energy_generation.svg), RJHall translator: Manlleus (ca/es), CC BY-SA 3.0, as used on the Wikipedia article [Stellar nucleosynthesis](https://en.wikipedia.org/wiki/Stellar_nucleosynthesis))
+
+- **Stellar nucleosynthesis**. "In astrophysics, stellar nucleosynthesis is the creation of chemical elements by nuclear reactions within stars. Stellar nucleosynthesis has occurred since the original creation of hydrogen, helium and lithium during the Big Bang. As a predictive theory, it yields accurate estimates of the observed abundances of the elements." ([Wikipedia](https://en.wikipedia.org/wiki/Stellar_nucleosynthesis))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

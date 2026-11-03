@@ -98,6 +98,17 @@ with $M_{\rm Pl} = (8\pi G)^{-1/2}$ the reduced Planck mass.
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Maxwell–Boltzmann statistics|500](https://commons.wikimedia.org/wiki/Special:FilePath/Maxwell-Boltzmann_distribution_1.png?width=600)
+*Maxwell-Boltzmann distribution* ([Commons file page](https://commons.wikimedia.org/wiki/File:Maxwell-Boltzmann_distribution_1.png), User:Superborsuk, CC BY-SA 3.0, as used on the Wikipedia article [Maxwell–Boltzmann statistics](https://en.wikipedia.org/wiki/Maxwell%E2%80%93Boltzmann_statistics))
+
+- **Maxwell–Boltzmann statistics**. "In statistical mechanics, Maxwell–Boltzmann statistics describes the distribution of classical material particles over various energy states in thermal equilibrium. It is applicable when the temperature is high enough or the particle density is low enough to render quantum effects negligible." ([Wikipedia](https://en.wikipedia.org/wiki/Maxwell%E2%80%93Boltzmann_statistics))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

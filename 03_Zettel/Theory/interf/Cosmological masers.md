@@ -80,6 +80,14 @@ planned:
 
 these will provide independent $H_0$ measurements at $\sim 1\%$ precision by 2030s.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Astrophysical maser**. "An astrophysical maser is a naturally occurring source of stimulated spectral line emission, typically in the microwave portion of the electromagnetic spectrum. This emission may arise in molecular clouds, comets, planetary atmospheres, stellar atmospheres, or various other conditions in interstellar space." ([Wikipedia](https://en.wikipedia.org/wiki/Astrophysical_maser))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Very Long Baseline Interferometry VLBI]]

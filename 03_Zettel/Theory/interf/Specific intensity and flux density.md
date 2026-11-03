@@ -81,6 +81,14 @@ reading cue: $I_\nu$ lives on the sky direction by direction; $S_\nu$ is what I 
 
 source: local study diagram generated from $S_\nu=\int I_\nu P\,d\Omega$.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Spectral flux density**. "In spectroscopy, spectral flux density is the quantity that describes the rate at which energy is transferred by electromagnetic radiation through a real or virtual surface, per unit surface area and per unit wavelength (or, equivalently, per unit frequency). It is a radiometric rather than a photometric measure." ([Wikipedia](https://en.wikipedia.org/wiki/Spectral_flux_density))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Radio astronomy basics]]

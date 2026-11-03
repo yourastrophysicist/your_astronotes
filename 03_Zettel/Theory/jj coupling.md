@@ -39,6 +39,14 @@ most stellar spectroscopy is in the LS regime. but a few important cases:
 - **highly ionised heavy elements** in hot plasmas (X-ray spectroscopy, Fe XXIV, Ni XXV, etc.): jj-like.
 - **forbidden transitions** in nebulae: spin-forbidden ($\Delta S \ne 0$) lines like $[OIII]\,\lambda 4363$ are made possible by spin-orbit mixing, a deviation from pure LS.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Angular momentum coupling**. "In quantum mechanics, angular momentum coupling is the procedure of constructing eigenstates of total angular momentum out of eigenstates of separate angular momenta. For instance, the orbit and spin of a single particle can interact through spin–orbit interaction, in which case the complete physical picture must include spin–orbit coupling." ([Wikipedia](https://en.wikipedia.org/wiki/Angular_momentum_coupling))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Russell-Saunders LS coupling]]

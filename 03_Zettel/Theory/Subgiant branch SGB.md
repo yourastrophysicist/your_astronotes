@@ -26,6 +26,17 @@ observational consequences and uses on the CMD:
 
 operationally, the SGB is "where the rules change": below it the star is a MS object, above it a giant. its morphology encodes the SC limit physics, the degeneracy state at TO, and the age and chemistry mix of the cluster.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Subgiant|500](https://commons.wikimedia.org/wiki/Special:FilePath/HR-diag-no-text-2.svg?width=600)
+*Lead figure of the Wikipedia article Subgiant* ([Commons file page](https://commons.wikimedia.org/wiki/File:HR-diag-no-text-2.svg), User:Spacepotato, CC BY-SA 3.0, as used on the Wikipedia article [Subgiant](https://en.wikipedia.org/wiki/Subgiant))
+
+- **Subgiant**. "A subgiant is a star that is brighter than a normal main-sequence star of the same spectral class, but not as bright as giant stars. The term subgiant is applied both to a particular spectral luminosity class and to a stage in the evolution of a star." ([Wikipedia](https://en.wikipedia.org/wiki/Subgiant))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 - [[Stellar_Astrophysics_MOC]]
 - [[Main sequence on the CMD]]

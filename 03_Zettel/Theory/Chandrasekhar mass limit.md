@@ -56,6 +56,14 @@ historically, derived by Chandrasekhar in 1931 in his early twenties, this resul
 - **Chandrasekhar, S. (1931)**, *ApJ* 74, 81 — the original derivation, "The Maximum Mass of Ideal White Dwarfs" (pre-arXiv era).
 - **Chandrasekhar, S. (1935)**, *MNRAS* 95, 207 — the complete relativistic treatment across the full mass-radius relation, not only the $n=3$ limiting case.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Chandrasekhar limit**. "The Chandrasekhar limit () is the maximum mass of a stable white dwarf star. These stars resist gravitational collapse primarily through electron degeneracy pressure, compared to main sequence stars, which resist collapse through thermal pressure. The Chandrasekhar limit is the mass above which electron degeneracy pressure in the star's core is insufficient to balance the star's own gravitational self-attraction." ([Wikipedia](https://en.wikipedia.org/wiki/Chandrasekhar_limit))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 - [[White dwarf overview]]
 - [[White dwarf mass-radius relation]]

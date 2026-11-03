@@ -17,6 +17,17 @@ title: "Parallel transport and holonomy"
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Holonomy|500](https://commons.wikimedia.org/wiki/Special:FilePath/Holonomy-vis-with-label.png?width=600)
+*Visualisation of parallel transport on a sphere along a piecewise smooth curve. Initial vector is labelled as V, its parallel transport is labelled as P_\gamma(V)* ([Commons file page](https://commons.wikimedia.org/wiki/File:Holonomy-vis-with-label.png), User84446654, CC BY-SA 4.0, as used on the Wikipedia article [Holonomy](https://en.wikipedia.org/wiki/Holonomy))
+
+- **Holonomy**. "In differential geometry, the holonomy of a connection on a smooth manifold is the extent to which parallel transport around closed loops fails to preserve the geometrical data being transported. Holonomy is a general geometrical consequence of the curvature of the connection. For flat connections, the associated holonomy is a type of monodromy and is an inherently global notion." ([Wikipedia](https://en.wikipedia.org/wiki/Holonomy))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[General_Relativity_MOC]]

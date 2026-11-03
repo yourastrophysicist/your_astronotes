@@ -118,6 +118,15 @@ experimentally, $w$ is being measured to $\sim 1\%$ precision by SN Ia + BAO + C
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Dark energy**. "In physical cosmology and astronomy, dark energy is a proposed form of energy that affects the universe on its largest scales. Its primary effect is to drive the accelerating expansion of the universe. It also slows the rate of structure formation." ([Wikipedia](https://en.wikipedia.org/wiki/Dark_energy))
+- **Observational Probes of Cosmic Acceleration**. "The accelerating expansion of the universe is the most surprising cosmological discovery in many decades, implying that the universe is dominated by some form of "dark energy" with exotic physical properties, or that Einstein's theory of gravity breaks down on cosmological scales." ([arXiv:1201.2434](https://arxiv.org/abs/1201.2434))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

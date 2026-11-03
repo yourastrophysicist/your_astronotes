@@ -94,6 +94,17 @@ the next zettels build on light-as-wave by:
 
 so this zettel is the foundation. after it, every result is one more layer of structure on top of "light is a transverse EM wave with $E = E_0 \cos(\mathbf{k}\cdot\mathbf{r} - \omega t)$."
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Electromagnetic spectrum|500](https://commons.wikimedia.org/wiki/Special:FilePath/EM_Spectrum_Properties_edit.svg?width=600)
+*Lead figure of the Wikipedia article Electromagnetic spectrum* ([Commons file page](https://commons.wikimedia.org/wiki/File:EM_Spectrum_Properties_edit.svg), Inductiveload, NASA, CC BY-SA 3.0, as used on the Wikipedia article [Electromagnetic spectrum](https://en.wikipedia.org/wiki/Electromagnetic_spectrum))
+
+- **Electromagnetic spectrum**. "The electromagnetic spectrum is the full range of electromagnetic radiation, organized by frequency or wavelength. The spectrum is divided into separate bands, with different names for the electromagnetic waves within each band. From low to high frequency these are: radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, and gamma rays." ([Wikipedia](https://en.wikipedia.org/wiki/Electromagnetic_spectrum))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Plane waves and Huygens principle]]

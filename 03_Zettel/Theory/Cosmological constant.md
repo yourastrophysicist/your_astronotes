@@ -63,6 +63,18 @@ alternative: $\Lambda$ is **not** a constant but a slowly-varying scalar field $
 
 DESI 2024-2025 BAO + SN combinations hint at $w \ne -1$, possibly evolving. an active area of research.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Cosmological constant|500](https://commons.wikimedia.org/wiki/Special:FilePath/CMB_Timeline300_no_WMAP.jpg?width=600)
+*Lead figure of the Wikipedia article Cosmological constant* ([Commons file page](https://commons.wikimedia.org/wiki/File:CMB_Timeline300_no_WMAP.jpg), NASA/WMAP Science Team, Public domain, as used on the Wikipedia article [Cosmological constant](https://en.wikipedia.org/wiki/Cosmological_constant))
+
+- **Cosmological constant**. "In physical cosmology, the cosmological constant (usually denoted by the Greek capital letter lambda: Λ), alternatively called Einstein's cosmological constant, is a coefficient that Albert Einstein initially added to his field equations of general relativity. He later removed it; however, much later it was revived to express the energy density of space, or vacuum energy, that arises in quantum mechanics." ([Wikipedia](https://en.wikipedia.org/wiki/Cosmological_constant))
+- **Observational Probes of Cosmic Acceleration**. "The accelerating expansion of the universe is the most surprising cosmological discovery in many decades, implying that the universe is dominated by some form of "dark energy" with exotic physical properties, or that Einstein's theory of gravity breaks down on cosmological scales." ([arXiv:1201.2434](https://arxiv.org/abs/1201.2434))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Einstein equations]]

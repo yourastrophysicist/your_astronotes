@@ -88,6 +88,14 @@ example: the Voyager spacecraft trajectory was integrated for the original missi
 - **secular evolution of orbital elements** under perturbations
 - **stellar evolution computations** with smooth thermodynamic histories
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Bulirsch–Stoer algorithm**. "In numerical analysis, the Bulirsch–Stoer algorithm is a method for the numerical solution of ordinary differential equations which combines three powerful ideas: Richardson extrapolation, the use of rational function extrapolation in Richardson-type applications, and the modified midpoint method, to obtain numerical solutions to ordinary differential equations (ODEs) with high accuracy and comparatively little computational effort." ([Wikipedia](https://en.wikipedia.org/wiki/Bulirsch%E2%80%93Stoer_algorithm))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Modified midpoint method]]

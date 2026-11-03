@@ -115,6 +115,14 @@ never trust a fit without looking at the residuals.
 - **continuum subtraction in spectra**: fit a smooth polynomial to line-free regions, subtract to isolate emission lines
 - **CMB power spectrum fitting**: principle is the same although the parameter space is large
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Linear least squares**. "Linear least squares (LLS) is the least squares approximation of linear functions to data. It is a set of formulations for solving statistical problems involved in linear regression, including variants for ordinary (unweighted), weighted, and generalized (correlated) residuals. Numerical methods for linear least squares include inverting the matrix of the normal equations and orthogonal decomposition methods." ([Wikipedia](https://en.wikipedia.org/wiki/Linear_least_squares))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Weighted least squares]]

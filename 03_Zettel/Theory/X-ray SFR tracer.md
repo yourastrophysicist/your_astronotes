@@ -54,6 +54,17 @@ the relation between $L_X$ and SFR evolves: $L_X / \text{SFR} \propto (1+z)^\bet
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![X-ray binary|500](https://commons.wikimedia.org/wiki/Special:FilePath/Microquasar_GRO_J1655-40.jpg?width=600)
+*Lead figure of the Wikipedia article X-ray binary* ([Commons file page](https://commons.wikimedia.org/wiki/File:Microquasar_GRO_J1655-40.jpg), ESA, NASA, and Felix Mirabel (French Atomic Energy Commission and Institute for Astronomy and Space Physics/Conicet of A, CC BY 4.0, as used on the Wikipedia article [X-ray binary](https://en.wikipedia.org/wiki/X-ray_binary))
+
+- **X-ray binary**. "X-ray binaries are a class of binary stars that are luminous in X-rays. The X-rays are produced by matter falling from one component, called the donor (usually a relatively common main sequence star), to the other component, called the accretor, which can be a white dwarf, neutron star or black hole. The infalling matter releases gravitational potential energy, up to 30 percent of its rest mass, as X-rays." ([Wikipedia](https://en.wikipedia.org/wiki/X-ray_binary))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Free-free continuum]]

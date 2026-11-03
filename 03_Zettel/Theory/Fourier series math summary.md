@@ -99,6 +99,17 @@ this is the [[Discrete Fourier transform]]. the DFT inherits all the structure (
 - **convolutions with PSFs**: image formation = sky × PSF in real space → multiply in Fourier space
 - **matched filtering for gravitational waves**: optimal SNR achieved by FFT-domain operations
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Fourier series|500](https://commons.wikimedia.org/wiki/Special:FilePath/Fourier_series_and_transform.gif?width=600)
+*Lead figure of the Wikipedia article Fourier series* ([Commons file page](https://commons.wikimedia.org/wiki/File:Fourier_series_and_transform.gif), Lucas Vieira, CC0, as used on the Wikipedia article [Fourier series](https://en.wikipedia.org/wiki/Fourier_series))
+
+- **Fourier series**. "A Fourier series () is a series expansion of a periodic function into a sum of trigonometric functions. The Fourier series is an example of a trigonometric series. By expressing a function as a sum of sines and cosines, many problems involving the function become easier to analyze because trigonometric functions are well understood." ([Wikipedia](https://en.wikipedia.org/wiki/Fourier_series))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Discrete Fourier transform]]

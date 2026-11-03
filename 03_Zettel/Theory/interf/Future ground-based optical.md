@@ -94,6 +94,17 @@ every additional mirror/fiber in the optical chain costs photons. modern instrum
 
 these motivate space-based alternatives.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Extremely large telescope|500](https://commons.wikimedia.org/wiki/Special:FilePath/Comparison_optical_telescope_primary_mirrors.svg?width=600)
+*Lead figure of the Wikipedia article Extremely large telescope* ([Commons file page](https://commons.wikimedia.org/wiki/File:Comparison_optical_telescope_primary_mirrors.svg), Cmglee; data on holes in mirrors provided by an anonymous user from IP 71.41.210.146, CC BY-SA 3.0, as used on the Wikipedia article [Extremely large telescope](https://en.wikipedia.org/wiki/Extremely_large_telescope))
+
+- **Extremely large telescope**. "An extremely large telescope (ELT) is an astronomical observatory featuring an optical telescope with an aperture for its primary mirror from 20 metres up to 100 metres across, when discussing reflecting telescopes of optical wavelengths including ultraviolet (UV), visible, and near infrared wavelengths." ([Wikipedia](https://en.wikipedia.org/wiki/Extremely_large_telescope))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[VLTI Very Large Telescope Interferometer]]

@@ -59,6 +59,17 @@ departures from LTE: chromospheres, coronae, and any optically thin gas where ra
 
 Boltzmann gives populations within an ionisation stage; Saha ([[Saha ionisation equation]]) gives ratios between adjacent stages. together they specify the full distribution. usually computed with software (e.g. ATLAS9, MARCS, PHOENIX) that iterates.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Boltzmann distribution|500](https://commons.wikimedia.org/wiki/Special:FilePath/Boltzmann_distribution_graph.svg?width=600)
+*occupation probability following a Boltzmann distribution depeding on the energy difference and temperature* ([Commons file page](https://commons.wikimedia.org/wiki/File:Boltzmann_distribution_graph.svg), sonium, CC BY-SA 4.0, as used on the Wikipedia article [Boltzmann distribution](https://en.wikipedia.org/wiki/Boltzmann_distribution))
+
+- **Boltzmann distribution**. "In statistical mechanics and mathematics, a Boltzmann distribution (also called Gibbs distribution) is a probability distribution or probability measure that gives the probability that a system will be in a certain state as a function of that state's energy and the temperature of the system." ([Wikipedia](https://en.wikipedia.org/wiki/Boltzmann_distribution))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Saha ionisation equation]]

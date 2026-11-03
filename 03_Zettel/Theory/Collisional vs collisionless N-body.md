@@ -91,6 +91,17 @@ systems with $N \sim 10^7$ — the inner halos of galaxies, globular cluster ens
 
 the Pythagorean three-body problem of the exam template is squarely **collisional**: $N = 3$, no softening, direct force summation, the close-encounter dynamics is *the* answer. but it is small enough that even a fixed-step midpoint integrator works for short integrations.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![N-body simulation|500](https://commons.wikimedia.org/wiki/Special:FilePath/Galaxy_cluster_sim.png?width=600)
+*Lead figure of the Wikipedia article N-body simulation* ([Commons file page](https://commons.wikimedia.org/wiki/File:Galaxy_cluster_sim.png), Michael L. Umbricht, CC BY-SA 4.0, as used on the Wikipedia article [N-body simulation](https://en.wikipedia.org/wiki/N-body_simulation))
+
+- **N-body simulation**. "In physics and astronomy, an n-body simulation is a simulation of a dynamical system of particles, usually under the influence of physical forces, such as gravity (see n-body problem for other applications)." ([Wikipedia](https://en.wikipedia.org/wiki/N-body_simulation))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Astrophysical N-body problem formulation]]

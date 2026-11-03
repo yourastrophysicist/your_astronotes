@@ -61,6 +61,18 @@ the $\sim 5\sigma$ disagreement with the Planck-derived $H_0 = 67.4 \pm 0.5$ km/
 
 JWST + TRGB cross-checks are testing the local-ladder hypothesis. early JWST results (Riess 2024) confirm the SH0ES Cepheid distances at $\sim 1\%$, leaning toward new physics.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Cepheid variable|500](https://commons.wikimedia.org/wiki/Special:FilePath/Heic1323a_-1243686232.jpg?width=600)
+*Lead figure of the Wikipedia article Cepheid variable* ([Commons file page](https://commons.wikimedia.org/wiki/File:Heic1323a_-1243686232.jpg), NASA, ESA, and the Hubble Heritage Team (STScI/AURA)-Hubble/Europe Collaboration; Acknowledgment: H. Bond (STScI and Pen, Public domain, as used on the Wikipedia article [Cepheid variable](https://en.wikipedia.org/wiki/Cepheid_variable))
+
+- **Cepheid variable**. "A Cepheid variable () is a type of variable star that pulsates radially, varying in both diameter and temperature. It changes in brightness, with a well-defined stable period (typically 1–100 days) and amplitude. Cepheids are important cosmic benchmarks for scaling galactic and extragalactic distances; a strong direct relationship exists between a Cepheid variable's luminosity and its pulsation period." ([Wikipedia](https://en.wikipedia.org/wiki/Cepheid_variable))
+- **The Hubble Constant**. "Considerable progress has been made in determining the Hubble constant over the past two decades." ([arXiv:1004.1856](https://arxiv.org/abs/1004.1856))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Variable stars as standard candles]]

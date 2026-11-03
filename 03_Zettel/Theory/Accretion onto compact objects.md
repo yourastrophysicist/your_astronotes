@@ -124,6 +124,17 @@ AGN emit across the entire electromagnetic spectrum
 - **Shakura & Sunyaev (1973)**, *A&A* 24, 337 — the $\alpha$-disk model deriving $T(r)\propto r^{-3/4}$ from first principles. Full synthesis: [[Shakura_Sunyaev_1973_Thin_Accretion_Disk_Theory]].
 - **Bardeen, Press & Teukolsky (1972)**, *ApJ* 178, 347 — the ISCO and accretion-efficiency formulas used above. Full synthesis: [[Bardeen_Press_Teukolsky_1972_Rotating_Black_Holes]].
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Accretion (astrophysics)|500](https://commons.wikimedia.org/wiki/Special:FilePath/HL_Tau_protoplanetary_disk.jpg?width=600)
+*Lead figure of the Wikipedia article Accretion (astrophysics)* ([Commons file page](https://commons.wikimedia.org/wiki/File:HL_Tau_protoplanetary_disk.jpg), ALMA (ESO/NAOJ/NRAO), CC BY 4.0, as used on the Wikipedia article [Accretion (astrophysics)](https://en.wikipedia.org/wiki/Accretion_%28astrophysics%29))
+
+- **Accretion (astrophysics)**. "In astrophysics, accretion is the accumulation of matter into a massive object by gravitationally attracting more matter. If the matter is gaseous the result is an accretion disc. Accretion of solid matter such as dust will form larger solid objects." ([Wikipedia](https://en.wikipedia.org/wiki/Accretion_%28astrophysics%29))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Innermost Stable Circular Orbit ISCO]]

@@ -76,6 +76,14 @@ $$E(B-V)_{\text{star}} \simeq 0.44\, E(B-V)_{\text{gas}}$$
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Balmer series**. "The Balmer series, or Balmer lines in atomic physics, is one of a set of six named series describing the spectral line emissions of the hydrogen atom. The Balmer series is calculated using the Balmer formula, an empirical equation discovered by Johann Balmer in 1885." ([Wikipedia](https://en.wikipedia.org/wiki/Balmer_series))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[BPT diagram]]

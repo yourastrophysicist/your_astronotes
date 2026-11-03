@@ -99,6 +99,14 @@ this is leapfrog with the velocity eliminated (it is recoverable from difference
 - **WKB-method approximate quantum dynamics**
 - **solar-system longitude planet positions** (modern ephemerides)
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Leapfrog integration**. "In numerical analysis, leapfrog integration is a method for numerically integrating differential equations of the form x ¨ = d 2 x d t 2 = A ( x ) , ${\ddot {x}}={\frac {d^{2}x}{dt^{2}}}=A(x),$ or equivalently of the form v ˙ = d v d t = A ( x ) , x ˙ = d x d t = v , ${\dot {v}}={\frac {dv}{dt}}=A(x),\qquad {\dot {x}}={\frac {dx}{dt}}=v,$ particularly in the case of a dynamical system of classical mechanics." ([Wikipedia](https://en.wikipedia.org/wiki/Leapfrog_integration))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Euler method]]

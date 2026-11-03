@@ -28,6 +28,17 @@ in particular, the **grating envelope**: each individual groove of an N-slit gra
 
 this envelope is what makes the **blazed grating** useful: by tilting the groove face you shift the single-slit envelope to peak at a chosen order/wavelength, dramatically increasing throughput there.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Diffraction|500](https://commons.wikimedia.org/wiki/Special:FilePath/Laser_Interference.JPG?width=600)
+*Diffraction pattern of red laser beam made on a plate after passing through a small circular aperture in another plate. Physical optics is used to explain effects such as diffraction* ([Commons file page](https://commons.wikimedia.org/wiki/File:Laser_Interference.JPG), Wisky, CC BY-SA 3.0, as used on the Wikipedia article [Diffraction](https://en.wikipedia.org/wiki/Diffraction))
+
+- **Diffraction**. "Diffraction is the deviation of waves from straight-line propagation due to an obstacle or through an aperture, without any change in their energy. Diffraction is the same physical effect as interference, but interference is typically used for the superposition of a few waves, while the term diffraction is used when many waves are superposed." ([Wikipedia](https://en.wikipedia.org/wiki/Diffraction))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[N-slit interference and gratings]]

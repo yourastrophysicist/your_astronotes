@@ -88,6 +88,17 @@ mixed-age, metal-poor populations. CMDs show extended MS + RGB + multiple turnof
 - **Pietrinferni et al. 2004, 2006** — BaSTI isochrones.
 - **Marino et al. 2024** — MS knee in 47 Tuc.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Hertzsprung–Russell diagram|500](https://commons.wikimedia.org/wiki/Special:FilePath/HRDiagram.png?width=600)
+*Lead figure of the Wikipedia article Hertzsprung–Russell diagram* ([Commons file page](https://commons.wikimedia.org/wiki/File:HRDiagram.png), Richard Powell, CC BY-SA 2.5, as used on the Wikipedia article [Hertzsprung–Russell diagram](https://en.wikipedia.org/wiki/Hertzsprung%E2%80%93Russell_diagram))
+
+- **Hertzsprung–Russell diagram**. "A Hertzsprung–Russell diagram (abbreviated as H–R diagram, HR diagram or HRD) is a scatter plot of stars showing the relationship between the stars' absolute magnitudes or luminosities and their stellar classifications or effective temperatures. It is also sometimes called a color magnitude diagram." ([Wikipedia](https://en.wikipedia.org/wiki/Hertzsprung%E2%80%93Russell_diagram))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[HR diagram]]

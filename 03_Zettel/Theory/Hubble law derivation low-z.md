@@ -74,6 +74,18 @@ inconsistent at $\sim 5\sigma$ with the CMB-anchored value $67.4 \pm 0.5$. this 
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Hubble's law|500](https://commons.wikimedia.org/wiki/Special:FilePath/Raisinbread.gif?width=600)
+*raisin bread model of the universe* ([Commons file page](https://commons.wikimedia.org/wiki/File:Raisinbread.gif), w:en:User:ScienceApologist, Public domain, as used on the Wikipedia article [Hubble's law](https://en.wikipedia.org/wiki/Hubble%27s_law))
+
+- **Hubble's law**. "Hubble's law, officially the Hubble–Lemaître law, is the observation in physical cosmology that galaxies are moving away from Earth at speeds proportional to their distance. Thus, the farther a galaxy is from the Earth, the faster it moves away. A galaxy's recessional velocity is typically determined by measuring its redshift, a shift in the frequency of light emitted by the galaxy." ([Wikipedia](https://en.wikipedia.org/wiki/Hubble%27s_law))
+- **The Hubble Constant**. "Considerable progress has been made in determining the Hubble constant over the past two decades." ([arXiv:1004.1856](https://arxiv.org/abs/1004.1856))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

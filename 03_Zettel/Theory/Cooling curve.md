@@ -68,6 +68,14 @@ below $T \sim 10^3$ K, cooling shifts to:
 
 these dominate the cold ISM and molecular cloud cooling.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Radiative cooling**. "In the study of heat transfer, radiative cooling is the process by which a body loses heat by thermal radiation. As Planck's law describes, every physical body spontaneously and continuously emits electromagnetic radiation. Radiative cooling has been applied in various contexts throughout human history, including ice making in India and Iran, heat shields for spacecraft, and in architecture." ([Wikipedia](https://en.wikipedia.org/wiki/Radiative_cooling))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Heating rate in HII regions]]

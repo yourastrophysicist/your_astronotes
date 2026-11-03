@@ -119,6 +119,17 @@ for astronomy, where photons are abundant, this distinction is not practically i
 
 amplitude-division interferometry has not stopped evolving. it is one of the most active fields of modern optical engineering.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Interferometry|500](https://commons.wikimedia.org/wiki/Special:FilePath/Interferometer.svg?width=600)
+*Simple Michelson interferometer diagram* ([Commons file page](https://commons.wikimedia.org/wiki/File:Interferometer.svg), User:Stannered, CC BY-SA 3.0, as used on the Wikipedia article [Interferometry](https://en.wikipedia.org/wiki/Interferometry))
+
+- **Interferometry**. "Interferometry is a technique which uses the interference of superimposed waves to extract information." ([Wikipedia](https://en.wikipedia.org/wiki/Interferometry))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Wavefront-division interferometers]]

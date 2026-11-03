@@ -114,6 +114,17 @@ where $F = 0.115$ is the Fano factor for silicon — see [[CCDs for X-rays]]
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Charge-coupled device|500](https://commons.wikimedia.org/wiki/Special:FilePath/Delta-Doped_Charged_Coupled_Devices_%28CCD%29_for_Ultra-Violet_and_Visible_Detection.jpg?width=600)
+*Lead figure of the Wikipedia article Charge-coupled device* ([Commons file page](https://commons.wikimedia.org/wiki/File:Delta-Doped_Charged_Coupled_Devices_%28CCD%29_for_Ultra-Violet_and_Visible_Detection.jpg), see file page, Public domain, as used on the Wikipedia article [Charge-coupled device](https://en.wikipedia.org/wiki/Charge-coupled_device))
+
+- **Charge-coupled device**. "A charge-coupled device (CCD) is an integrated circuit containing an array of linked, or coupled, capacitors. Under the control of an external circuit, each capacitor can transfer its electric charge to a neighboring capacitor. CCD sensors are a major technology used in digital imaging." ([Wikipedia](https://en.wikipedia.org/wiki/Charge-coupled_device))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[CCD basics]]

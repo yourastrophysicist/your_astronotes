@@ -58,6 +58,15 @@ a **wave equation** with source. like Maxwell's $\Box A_\mu = -j_\mu/c^2$ in EM.
 1. **Newtonian limit**: slow motion + weak field. $h_{00} = -2\Phi/c^2$ recovers Poisson's equation $\nabla^2\Phi = 4\pi G\rho$. see [[Newtonian limit of GR]].
 2. **Gravitational waves**: vacuum solutions $\Box h_{\mu\nu} = 0$ admit travelling-wave solutions, the GWs detected by LIGO. see [[Plus and cross polarizations]] and [[Quadrupole formula]].
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Linearized gravity**. "In the theory of general relativity, linearized gravity is the application of perturbation theory to the metric tensor that describes the geometry of spacetime. As a consequence, linearized gravity is an effective method for modeling the effects of gravity when the gravitational field is weak. The usage of linearized gravity is integral to the study of gravitational waves and weak-field gravitational lensing." ([Wikipedia](https://en.wikipedia.org/wiki/Linearized_gravity))
+- **The basics of gravitational wave theory**. "Einstein's special theory of relativity revolutionized physics by teaching us that space and time are not separate entities, but join as ``spacetime''." ([arXiv:gr-qc/0501041](https://arxiv.org/abs/gr-qc/0501041))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Linearized Christoffel and Riemann]]

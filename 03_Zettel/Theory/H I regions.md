@@ -262,6 +262,17 @@ Key quantitative takeaways for the blackboard
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![H I region|500](https://commons.wikimedia.org/wiki/Special:FilePath/Dwingeloo_1_%28WISE%29.png?width=600)
+*Lead figure of the Wikipedia article H I region* ([Commons file page](https://commons.wikimedia.org/wiki/File:Dwingeloo_1_%28WISE%29.png), Ruslik0, NASA, Public domain, as used on the Wikipedia article [H I region](https://en.wikipedia.org/wiki/H_I_region))
+
+- **H I region**. "An HI region or H I region (read H one) is a cloud in the interstellar medium composed of neutral atomic hydrogen (HI), in addition to the local abundance of helium and other elements. (H is the chemical symbol for hydrogen, and "I" is the Roman numeral. It is customary in astronomy to use the Roman numeral I for neutral atoms, II for singly-ionized—HII is H+ in other sciences—and III for doubly-ionized, e.g." ([Wikipedia](https://en.wikipedia.org/wiki/H_I_region))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[H II region spectroscopy]]

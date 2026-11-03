@@ -117,6 +117,14 @@ print(f"a = {popt[0]:.3f} ± {perr[0]:.3f}")
 
 `absolute_sigma=True` is critical: tells curve_fit to trust the input errors and *not* rescale them based on the residuals. without it, the parameter uncertainties get inflated by $\sqrt{\chi^2_\nu}$ automatically (which can be wrong).
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Goodness of fit**. "The goodness of fit of a statistical model describes how well it fits a set of observations. Measures of goodness of fit typically summarize the discrepancy between observed values and the values expected under the model in question. Such measures can be used in statistical hypothesis testing, e.g." ([Wikipedia](https://en.wikipedia.org/wiki/Goodness_of_fit))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Linear least squares]]

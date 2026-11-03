@@ -88,6 +88,14 @@ magnitudes in two filter systems do not differ by a constant offset. they differ
 $$m_1 \approx m_2 + a + b(c_1 - c_2)$$
 where $(c_1 - c_2)$ is a color in either system. this is `obs6.pdf`'s key point: a 6000 K star and a 3000 K star feel a different shift between SDSS-i and Cousins-I, because they have different SED shapes through the (slightly different) i and I bandpasses. see [[Photometric system conversion and color terms]].
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Photometric system**. "In astronomy, a photometric system is a set of well-defined passbands (or optical filters), with a known sensitivity to incident radiation. The sensitivity usually depends on the optical system, detectors and filters used. For each photometric system a set of primary standard stars is provided." ([Wikipedia](https://en.wikipedia.org/wiki/Photometric_system))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Magnitudes and photometric systems]]

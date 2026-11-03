@@ -105,6 +105,17 @@ $\cos h = 0$, $h = \pm 90° = \pm 6$ h. star above horizon for exactly 12 h, ris
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Culmination|500](https://commons.wikimedia.org/wiki/Special:FilePath/Observers_Sky.png?width=600)
+*Shows some important circles like the meridian, the sphere of sky, the horizon; the observer ("Beobachter"), and some important points:* ([Commons file page](https://commons.wikimedia.org/wiki/File:Observers_Sky.png), User:Mathematicus, CC BY-SA 3.0, as used on the Wikipedia article [Culmination](https://en.wikipedia.org/wiki/Culmination))
+
+- **Culmination**. "In observational astronomy, culmination is the passage of a celestial object (such as the Sun, the Moon, a planet, a star, constellation or a deep-sky object) across the observer's local meridian. These events are also known as meridian transits, used in timekeeping and navigation, and measured precisely using a transit telescope." ([Wikipedia](https://en.wikipedia.org/wiki/Culmination))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

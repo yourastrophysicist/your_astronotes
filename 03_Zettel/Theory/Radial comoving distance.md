@@ -49,6 +49,14 @@ so $d_L \cdot d_A = d_C^2$, and $d_L = d_A(1+z)^2$, the **Etherington reciprocit
 
 for non-flat universes, replace $d_C$ in $d_L, d_A$ with the **transverse comoving distance** $d_M$, which absorbs the curvature corrections.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Comoving and proper distances**. "In standard cosmology, comoving distance and proper distance (or physical distance) are two closely related distance measures used by cosmologists to define distances between objects. Comoving distance factors out the expansion of the universe, giving a distance that does not change in time except due to local factors, such as the motion of a galaxy within a cluster." ([Wikipedia](https://en.wikipedia.org/wiki/Comoving_and_proper_distances))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - 03_Zettel/Theory/Cosmological distances

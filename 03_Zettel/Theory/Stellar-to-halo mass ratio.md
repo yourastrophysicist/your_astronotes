@@ -67,6 +67,15 @@ every galaxy formation model lives or dies on this plot. you have one curve, one
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Halo occupation distribution**. "The halo occupation distribution (HOD) is a parameter of the halo model of galaxy clustering. The halo model provides one view of the large scale structure of the universe as clumps of dark matter, while the HOD provides a view of how galactic matter is distributed within each of the dark matter clumps." ([Wikipedia](https://en.wikipedia.org/wiki/Halo_occupation_distribution))
+- **The Connection between Galaxies and their Dark Matter Halos**. "In our modern understanding of galaxy formation, every galaxy forms within a dark matter halo. The formation and growth of galaxies over time is connected to the growth of the halos in which they form." ([arXiv:1804.03097](https://arxiv.org/abs/1804.03097))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Halo gravity suppression of galaxy formation]]

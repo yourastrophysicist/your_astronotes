@@ -121,6 +121,17 @@ if the two curves visually agree, full credit. if they disagree, even partial wo
 | histogram clearly *different shape* | wrong CDF inversion or wrong analytic |
 | two curves agree everywhere | I am done |
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Kolmogorov–Smirnov test|500](https://commons.wikimedia.org/wiki/Special:FilePath/KS_Example.png?width=600)
+*Graph depicting an example of the Kolmogorov-Smirnov test. Matlab code shown below* ([Commons file page](https://commons.wikimedia.org/wiki/File:KS_Example.png), Bscan, CC0, as used on the Wikipedia article [Kolmogorov–Smirnov test](https://en.wikipedia.org/wiki/Kolmogorov%E2%80%93Smirnov_test))
+
+- **Kolmogorov–Smirnov test**. "In statistics, the Kolmogorov–Smirnov test (also K–S test or KS test) is a nonparametric test of the equality of continuous (or discontinuous, see Section 2.2), one-dimensional probability distributions. It can be used to test whether a sample came from a given reference probability distribution (one-sample K–S test), or to test whether or not two samples came from the same distribution (two-sample K–S test)." ([Wikipedia](https://en.wikipedia.org/wiki/Kolmogorov%E2%80%93Smirnov_test))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Inverse transform sampling]]

@@ -63,6 +63,15 @@ integrating individual galaxy SFHs over cosmological volumes generates the **cos
 $$\rho_{\rm SFR}(z) = 0.015\,\frac{(1+z)^{2.7}}{1 + [(1+z)/2.9]^{5.6}} \quad [M_\odot\,\text{yr}^{-1}\,\text{Mpc}^{-3}]$$
 the cosmic star formation rate density peaked at $z \approx 1.9$ ("cosmic noon", $\sim 10$ Gyr ago) and declined by an order of magnitude toward $z = 0$.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Star formation**. "Star formation is the process by which dense regions within molecular clouds in interstellar space—sometimes referred to as "stellar nurseries" or "star-forming regions"—collapse and form stars." ([Wikipedia](https://en.wikipedia.org/wiki/Star_formation))
+- **Star Formation in the Milky Way and Nearby Galaxies**. "We review progress over the past decade in observations of large-scale star formation, with a focus on the interface between extragalactic and Galactic studies. Methods of measuring gas contents and star formation rates are discussed, and updated prescriptions for calculating star formation rates are provided." ([arXiv:1204.3552](https://arxiv.org/abs/1204.3552))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Observational_Astrophysics_MOC]]

@@ -69,6 +69,17 @@ opacity sources differ by wavelength:
 
 so the spectrum is the integrated effect of all these contributions, each with its own $\kappa_\nu$.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Optical depth|500](https://commons.wikimedia.org/wiki/Special:FilePath/Aerosol_Optical_Depth_%28haze%29_at_Geronimo_Creek_Observatory%2C_Texas_%281990-2016%29.jpg?width=600)
+*Lead figure of the Wikipedia article Optical depth* ([Commons file page](https://commons.wikimedia.org/wiki/File:Aerosol_Optical_Depth_%28haze%29_at_Geronimo_Creek_Observatory,_Texas_%281990-2016%29.jpg), Forrest M. Mims III, CC BY-SA 4.0, as used on the Wikipedia article [Optical depth](https://en.wikipedia.org/wiki/Optical_depth))
+
+- **Optical depth**. "In physics, optical depth or optical thickness is the natural logarithm of the ratio of incident to transmitted radiant power through a material. Thus, the larger the optical depth, the smaller the fraction of transmitted radiant power through the medium. Spectral optical depth or spectral optical thickness is the natural logarithm of the ratio of incident to transmitted spectral radiant power through a material." ([Wikipedia](https://en.wikipedia.org/wiki/Optical_depth))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Equation of radiative transfer]]

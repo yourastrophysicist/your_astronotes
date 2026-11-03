@@ -48,6 +48,17 @@ the refractive index of dry air at standard $T, P$:
 $$n_0(\lambda) - 1 \approx 287.6 \times 10^{-6} \left[1 + 1.6 \times 10^{-2}/(\lambda^2/\mu m^2)\right]$$
 weakly chromatic in the optical, more strongly so in the UV. water vapour adds a small correction.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Atmospheric refraction|500](https://commons.wikimedia.org/wiki/Special:FilePath/Atmospheric_refraction_-_sunset_and_sunrise.png?width=600)
+*Sunset and sunrise: Shift of the perceived form and position of the sun due to the atmospheric refraction* ([Commons file page](https://commons.wikimedia.org/wiki/File:Atmospheric_refraction_-_sunset_and_sunrise.png), Sciencia58, CC BY-SA 4.0, as used on the Wikipedia article [Atmospheric refraction](https://en.wikipedia.org/wiki/Atmospheric_refraction))
+
+- **Atmospheric refraction**. "Atmospheric refraction is the deviation of light or other electromagnetic wave from a straight line as it passes through the atmosphere due to the variation in air density as a function of height. This refraction is due to the velocity of light through air decreasing (the refractive index increases) with increased density. Atmospheric refraction near the ground produces mirages." ([Wikipedia](https://en.wikipedia.org/wiki/Atmospheric_refraction))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Atmospheric refraction]]

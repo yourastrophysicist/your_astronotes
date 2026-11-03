@@ -100,6 +100,14 @@ so the same caveats apply: high-degree polynomial interpolation suffers from [[R
 - **iteratively refined interpolation** of a tabulated function
 - **higher-order finite-difference stencils** can be derived as divided differences
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Newton polynomial**. "In the mathematical field of numerical analysis, a Newton polynomial, named after its inventor Isaac Newton, is an interpolation polynomial for a given set of data points. The Newton polynomial is sometimes called Newton's divided differences interpolation polynomial because the coefficients of the polynomial are calculated using Newton's divided differences method." ([Wikipedia](https://en.wikipedia.org/wiki/Newton_polynomial))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Lagrange polynomial interpolation]]

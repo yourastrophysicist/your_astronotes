@@ -54,6 +54,15 @@ in Newtonian: $V_{\rm Newt}(r) = -GM/r + L^2/(2r^2)$. only **two** extrema (one 
 
 GR adds the $-GMl^2/r^3$ term. at small $r$, this dominates $L^2/r^2$, eating away the centrifugal barrier. result: **inside $r_{\rm ISCO} = 6GM$, no stable orbit exists**. infall is generic.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Schwarzschild geodesics**. "In general relativity, Schwarzschild geodesics describe the motion of test particles in the gravitational field of a central fixed mass M , {\textstyle M,} that is, motion in the Schwarzschild metric. Schwarzschild geodesics have been pivotal in the validation of Einstein's theory of general relativity." ([Wikipedia](https://en.wikipedia.org/wiki/Schwarzschild_geodesics))
+- **Lecture Notes on General Relativity**. "These notes represent approximately one semester's worth of lectures on introductory general relativity for beginning graduate students in physics. Topics include manifolds, Riemannian geometry, Einstein's equations, and three applications: gravitational radiation, black holes, and cosmology." ([arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Schwarzschild metric]]

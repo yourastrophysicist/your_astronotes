@@ -16,6 +16,17 @@ a third loose category, **stellar associations** (OB associations, T association
 
 a final observational pitfall: very young, massive, embedded clusters in the LMC (R136, NGC 2070) and in M82 are sometimes called "young massive clusters" or "super star clusters". their masses overlap the GC range, but their ages are $\lesssim 100$ Myr; whether they will survive to become old GCs depends on the residual-gas-expulsion phase and the tidal field of the host. they are the closest present-day analogues of what proto-GC formation might have looked like.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Star cluster|500](https://commons.wikimedia.org/wiki/Special:FilePath/M44_47x300s-10%C2%B0C_O30_G0_PM_RGB_03032022.jpg?width=600)
+*Amateuraufnahme mit Lacerta Newton Teleskop, f4, 800 mm Brennweite* ([Commons file page](https://commons.wikimedia.org/wiki/File:M44_47x300s-10%C2%B0C_O30_G0_PM_RGB_03032022.jpg), Fried Lauterbach, CC BY-SA 4.0, as used on the Wikipedia article [Star cluster](https://en.wikipedia.org/wiki/Star_cluster))
+
+- **Star cluster**. "A star cluster is a group of stars, that share an origin, formed at roughly the same time and held together by self-gravitation. Two main types of star clusters can be distinguished: globular clusters, tight groups of ten thousand to millions of old stars which are gravitationally bound; and open clusters, less tight groups of stars, generally containing fewer than a few hundred members." ([Wikipedia](https://en.wikipedia.org/wiki/Star_cluster))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 - [[Stellar_Astrophysics_MOC]]
 - [[Globular clusters as SSP laboratories]]

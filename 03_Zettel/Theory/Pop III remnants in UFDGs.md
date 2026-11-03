@@ -33,6 +33,18 @@ see also [[Ultra-faint dwarf galaxies definition]], [[UFDG star formation histor
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Dwarf galaxy|500](https://commons.wikimedia.org/wiki/Special:FilePath/Large.mc.arp.750pix.jpg?width=600)
+*Image of the Large Magellanic Cloud and Supernova 1987A taken by the Kuiper Airborne Observatory (NASA 714) during its New Zealand deployment in 1987* ([Commons file page](https://commons.wikimedia.org/wiki/File:Large.mc.arp.750pix.jpg), NASA/Ames Research Center, Public domain, as used on the Wikipedia article [Dwarf galaxy](https://en.wikipedia.org/wiki/Dwarf_galaxy))
+
+- **Dwarf galaxy**. "A dwarf galaxy is a small galaxy composed of about 1,000 up to several billion stars, as compared to the Milky Way's 100–400 billion stars. The Large Magellanic Cloud, which closely orbits the Milky Way and contains over 30 billion stars, is sometimes classified as a dwarf galaxy; others consider it a full-fledged galaxy." ([Wikipedia](https://en.wikipedia.org/wiki/Dwarf_galaxy))
+- **The First Galaxies**. "We review our current understanding of how the first galaxies formed at the end of the cosmic dark ages, a few 100 million years after the Big Bang. Modern large telescopes discovered galaxies at redshifts greater than seven, whereas theoretical studies have just reached the degree of sophistication necessary to make meaningful predictions." ([arXiv:1102.4638](https://arxiv.org/abs/1102.4638))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Critical metallicity for fragmentation]]

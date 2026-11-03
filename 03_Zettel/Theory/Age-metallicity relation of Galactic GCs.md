@@ -25,6 +25,18 @@ see also [[Galactic GC two-population age structure]], [[Halo accretion from dwa
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Globular cluster|500](https://commons.wikimedia.org/wiki/Special:FilePath/Globular_Cluster_M2.jpg?width=600)
+*Lead figure of the Wikipedia article Globular cluster* ([Commons file page](https://commons.wikimedia.org/wiki/File:Globular_Cluster_M2.jpg), NASA Hubble, CC BY 2.0, as used on the Wikipedia article [Globular cluster](https://en.wikipedia.org/wiki/Globular_cluster))
+
+- **Globular cluster**. "A globular cluster is a spheroidal conglomeration of stars that is bound together by gravity, with a higher concentration of stars towards its center. It can contain anywhere from tens of thousands to many millions of member stars, all orbiting in a stable, compact formation. This contrasts with open clusters, where the stars are only loosely bound and more easily disrupted." ([Wikipedia](https://en.wikipedia.org/wiki/Globular_cluster))
+- **Multiple Stellar Populations in Globular Clusters**. "Globular Clusters (GCs) exhibit star-to-star variations in specific elements (e.g., He, C, N, O, Na, Al) that bare the hallmark of high temperature H burning. These abundance variations can be observed spectroscopically and also photometrically, with the appropriate choice of filters, due to the changing of spectral features within the band pass." ([arXiv:1712.01286](https://arxiv.org/abs/1712.01286))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Bulge microlensing surveys]]

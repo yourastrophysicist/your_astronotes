@@ -84,6 +84,18 @@ so the Jeans analysis is also the foundation of star formation theory: clouds wi
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Jeans instability|500](https://commons.wikimedia.org/wiki/Special:FilePath/LH_95.jpg?width=600)
+*LH 95 stellar nursery in the Large Magellanic Cloud* ([Commons file page](https://commons.wikimedia.org/wiki/File:LH_95.jpg), NASA, ESA, and the Hubble Heritage Team (STScI/AURA)-ESA/Hubble Collaboration, Public domain, as used on the Wikipedia article [Jeans instability](https://en.wikipedia.org/wiki/Jeans_instability))
+
+- **Jeans instability**. "The Jeans instability is a concept in astrophysics that describes an instability that leads to the gravitational collapse of a cloud of gas or dust. It causes the collapse of interstellar gas clouds and subsequent star formation. It occurs when the internal gas pressure is not strong enough to prevent the gravitational collapse of a region filled with matter." ([Wikipedia](https://en.wikipedia.org/wiki/Jeans_instability))
+- **Cosmological perturbations**. "We review the study of inhomogeneous perturbations about a homogeneous and isotropic background cosmology. We adopt a coordinate based approach, but give geometrical interpretations of metric perturbations in terms of the expansion, shear and curvature of constant-time hypersurfaces and the orthogonal timelike vector field." ([arXiv:0809.4944](https://arxiv.org/abs/0809.4944))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

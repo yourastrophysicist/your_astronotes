@@ -56,6 +56,17 @@ since $\rho \propto M/R^3$ and $L \propto R^2 T^4$, the period correlates with l
 
 modern best practice: cross-check Cepheid + TRGB + Mira distances to the same galaxy. agreement at $\lesssim 0.05$ mag confirms systematic stability; disagreement signals a problem (dust, metallicity, blending). the ongoing $H_0$ tension is partly about whether Cepheid distances are systematically high vs TRGB.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Variable star|500](https://commons.wikimedia.org/wiki/Special:FilePath/Eso2003c.jpg?width=600)
+*Lead figure of the Wikipedia article Variable star* ([Commons file page](https://commons.wikimedia.org/wiki/File:Eso2003c.jpg), ESO/M. Montargès et al., CC BY 4.0, as used on the Wikipedia article [Variable star](https://en.wikipedia.org/wiki/Variable_star))
+
+- **Variable star**. "A variable star is a star whose brightness as seen from Earth (its apparent magnitude) changes systematically with time. This variation may be caused by a change in emitted light or by something partly blocking the light, so variable stars are classified as either: Intrinsic variables, whose inherent luminosity changes; for example, because the star swells and shrinks." ([Wikipedia](https://en.wikipedia.org/wiki/Variable_star))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Cepheid period-luminosity relation]]

@@ -50,6 +50,17 @@ absolute calibration is essential for:
 - line fluxes (e.g. star formation rates from $H\alpha$ luminosity).
 - spectrophotometric typing (photo-$z$, classification).
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Spectrophotometry|500](https://commons.wikimedia.org/wiki/Special:FilePath/Spektrofotometri.jpg?width=600)
+*Unicam 5625 UV/Vis Spectrophotometer* ([Commons file page](https://commons.wikimedia.org/wiki/File:Spektrofotometri.jpg), Skorpion87, Public domain, as used on the Wikipedia article [Spectrophotometry](https://en.wikipedia.org/wiki/Spectrophotometry))
+
+- **Spectrophotometry**. "Spectrophotometry is a branch of electromagnetic spectroscopy concerned with the quantitative measurement of the reflection or transmission properties of a material as a function of wavelength. Spectrophotometry uses photometers, known as spectrophotometers, that can measure the intensity of a light beam at different wavelengths." ([Wikipedia](https://en.wikipedia.org/wiki/Spectrophotometry))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Spectrograph design]]

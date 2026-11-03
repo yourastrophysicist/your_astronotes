@@ -100,6 +100,14 @@ vals, vecs = eigs(A_sparse, k=5, which='LM')        # largest magnitude
 
 `scipy.sparse.linalg.eigs` uses Arnoldi iteration (a sophisticated cousin of power iteration) and handles sparse matrices efficiently — often the right tool when only a few eigenvalues are needed.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Power iteration**. "In mathematics, power iteration (also known as the power method) is an eigenvalue algorithm: given a diagonalizable matrix A $A$ , the algorithm will produce a number λ $\lambda$ , which is the greatest (in absolute value) eigenvalue of A $A$ , and a nonzero vector v $v$ , which is a corresponding eigenvector of λ $\lambda$ , that is, A v = λ v $Av=\lambda v$ . The algorithm is also known as the Von Mises iteration." ([Wikipedia](https://en.wikipedia.org/wiki/Power_iteration))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[QR algorithm for eigenvalues]]

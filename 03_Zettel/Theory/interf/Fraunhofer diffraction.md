@@ -118,6 +118,14 @@ reading cue: Fraunhofer diffraction means the far-field pattern is the Fourier t
 
 source: local plot generated from $I(x)=[2J_1(x)/x]^2$.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Fraunhofer diffraction**. "In optics, the Fraunhofer diffraction equation is used to model the diffraction of waves when plane waves are incident on a diffracting object, and the diffraction pattern is viewed at a sufficiently long distance (a distance satisfying the Fraunhofer condition) from the object (in the far-field region), and also when it is viewed at the focal plane of an imaging lens." ([Wikipedia](https://en.wikipedia.org/wiki/Fraunhofer_diffraction))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Plane waves and Huygens principle]]

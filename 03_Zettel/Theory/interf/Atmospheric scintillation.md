@@ -47,6 +47,14 @@ these are related but different:
 
 both come from the same atmospheric turbulence, but they live in different observables. seeing is the dominant problem for *imaging resolution*; scintillation is the dominant problem for *time-series photometry from small telescopes*.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Twinkling**. "Twinkling, also called scintillation, is a generic term for variations in apparent brightness, colour, or position of a distant luminous object viewed through a medium. If the object lies outside the Earth's atmosphere, as in the case of stars and planets, the phenomenon is termed astronomical scintillation; for objects within the atmosphere, the phenomenon is termed terrestrial scintillation." ([Wikipedia](https://en.wikipedia.org/wiki/Twinkling))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Earth atmosphere for observations]]

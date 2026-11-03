@@ -52,6 +52,15 @@ mathematically: the diffeomorphism group acts on the metric by $g \to g + \mathc
 
 physically: $\nabla^\mu G_{\mu\nu} = 0$ has 4 components and matches the 4 components of $\nabla^\mu T_{\mu\nu} = 0$ (energy + 3-momentum conservation). so geometry's 10 equations $G_{\mu\nu} = 8\pi G T_{\mu\nu}$ minus 4 conservation conditions = **6 truly independent equations** for the metric. matches the 6 physical degrees of freedom of a dynamical metric (2 graviton polarisations + 4 gauge).
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Einstein tensor**. "In differential geometry, the Einstein tensor (named after Albert Einstein; also known as the trace-reversed Ricci tensor) is used to express the curvature of a pseudo-Riemannian manifold. In general relativity, it occurs in the Einstein field equations for gravitation that describe spacetime curvature in a manner that is consistent with conservation of energy and momentum." ([Wikipedia](https://en.wikipedia.org/wiki/Einstein_tensor))
+- **Lecture Notes on General Relativity**. "These notes represent approximately one semester's worth of lectures on introductory general relativity for beginning graduate students in physics. Topics include manifolds, Riemannian geometry, Einstein's equations, and three applications: gravitational radiation, black holes, and cosmology." ([arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Einstein equations]]

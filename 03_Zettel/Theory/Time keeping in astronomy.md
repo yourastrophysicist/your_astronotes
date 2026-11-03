@@ -45,6 +45,14 @@ UTC has been adjusted with **leap seconds** since 1972 to keep it close to UT1. 
 
 a single Julian Date can be ambiguous about which time scale it is in. always specify: JD$_{\rm TT}$, MJD$_{\rm UTC}$, etc.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Time standard**. "A time standard is a specification for measuring time: either the rate at which time passes or points in time or both. In modern times, several time specifications have been officially recognized as standards, where formerly they were matters of custom and practice. An example of a kind of time standard can be a time scale, specifying a method for measuring divisions of time." ([Wikipedia](https://en.wikipedia.org/wiki/Time_standard))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Equatorial system]] — sidereal time enters the hour angle

@@ -60,6 +60,14 @@ at low $z$, $d_L \approx cz/H_0$, recovering the Hubble flow. see [[Luminosity d
 
 at high $z$, an additional **K-correction** is needed because the observed band samples a different rest-frame wavelength than the calibrated $M$. see [[K-correction]].
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Distance modulus**. "The distance modulus is a way of expressing distances that is often used in astronomy. It describes distances on a logarithmic scale based on the astronomical magnitude system." ([Wikipedia](https://en.wikipedia.org/wiki/Distance_modulus))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Pogson magnitudes and flux relation]]

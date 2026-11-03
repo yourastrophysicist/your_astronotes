@@ -87,6 +87,14 @@ x2 = lu_solve((lu, piv), b2)
 - **least squares** ($A$ rectangular): use QR or SVD
 - **symmetric positive-definite**: use Cholesky
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **LU decomposition**. "In numerical analysis and linear algebra, lower–upper (LU) decomposition or factorization factors a matrix as the product of a lower triangular matrix and an upper triangular matrix (see matrix multiplication and matrix decomposition). The product sometimes includes a permutation matrix as well. LU decomposition can be viewed as the matrix form of Gaussian elimination." ([Wikipedia](https://en.wikipedia.org/wiki/LU_decomposition))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Gauss elimination]] — what LU caches

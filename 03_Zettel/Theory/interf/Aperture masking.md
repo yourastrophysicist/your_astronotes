@@ -79,6 +79,17 @@ modern alternative: kernel-phase imaging. uses the *full* aperture but extracts 
 
 so aperture masking is "interferometry within a single telescope" — same algorithms, more flux per element, less resolution.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Aperture masking interferometry|500](https://commons.wikimedia.org/wiki/Special:FilePath/Speckle_aperture_masking.svg?width=600)
+*Lead figure of the Wikipedia article Aperture masking interferometry* ([Commons file page](https://commons.wikimedia.org/wiki/File:Speckle_aperture_masking.svg), Original: Bob Tubbs (User:Rnt20 on en.wikipedia) after Peter Tuthill Vectorization: User:Mysid, Public domain, as used on the Wikipedia article [Aperture masking interferometry](https://en.wikipedia.org/wiki/Aperture_masking_interferometry))
+
+- **Aperture masking interferometry**. "Aperture masking interferometry (or Sparse aperture masking) is a form of speckle interferometry, that allows diffraction limited imaging from ground-based telescopes (like the Keck Telescope and the Very Large Telescope), and is a high contrast imaging mode on the James Webb Space Telescope." ([Wikipedia](https://en.wikipedia.org/wiki/Aperture_masking_interferometry))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Speckle interferometry]]

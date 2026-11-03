@@ -105,6 +105,17 @@ from Shack-Hartmann sub-aperture spot positions $(x_i, y_i)$, recover the wavefr
 
 the inversion is a sparse linear-system solve, doable in microseconds on modern FPGAs.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Wavefront|500](https://commons.wikimedia.org/wiki/Special:FilePath/Plane_wave_wavefronts_3D.svg?width=600)
+*The wavefronts of a plane wave traveling in 3-space* ([Commons file page](https://commons.wikimedia.org/wiki/File:Plane_wave_wavefronts_3D.svg), Onde_plane_3d.jpg: Fffred derivative work: Quibik (talk), Public domain, as used on the Wikipedia article [Wavefront](https://en.wikipedia.org/wiki/Wavefront))
+
+- **Wavefront**. "In physics, the wavefront of a time-varying wave field is the set (locus) of all points having the same phase. The term is generally meaningful only for fields that, at each point, vary sinusoidally in time with a single temporal frequency (otherwise the phase is not well defined). Wavefronts usually move with time." ([Wikipedia](https://en.wikipedia.org/wiki/Wavefront))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Adaptive optics]]

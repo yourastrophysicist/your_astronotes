@@ -42,6 +42,17 @@ an earlier candidate in M22 was based on radio continuum detection of two compac
 
 the next decade will multiply BH detections in clusters: ESO MUSE deep surveys, the upcoming ELT high-resolution spectrographs, Gaia astrometric binaries (already producing field BH candidates like Gaia BH1 and BH2), and combined RV+astrometry will yield population statistics. the predicted BH population per cluster is a key constraint on the [[BHs from gravitational waves\|LIGO-Virgo]] dynamical-merger channel.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Radial velocity|500](https://commons.wikimedia.org/wiki/Special:FilePath/Radialgeschwindigkeit.gif?width=600)
+*Lead figure of the Wikipedia article Radial velocity* ([Commons file page](https://commons.wikimedia.org/wiki/File:Radialgeschwindigkeit.gif), Averse, Public domain, as used on the Wikipedia article [Radial velocity](https://en.wikipedia.org/wiki/Radial_velocity))
+
+- **Radial velocity**. "The radial velocity or line-of-sight velocity of a target with respect to an observer is the rate of change of the vector displacement between the two points. It is formulated as the vector projection of the target-observer relative velocity onto the relative direction or line-of-sight (LOS) connecting the two points. The radial speed or range rate is the temporal rate of the distance or range between the two points." ([Wikipedia](https://en.wikipedia.org/wiki/Radial_velocity))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 - [[Stellar_Astrophysics_MOC]]
 - [[Black holes in globular clusters]]

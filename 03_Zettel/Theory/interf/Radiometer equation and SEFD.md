@@ -99,6 +99,14 @@ reading cue: the painful but important memory: sensitivity improves only as the 
 
 source: local plot generated from $\sigma\propto1/\sqrt{\Delta\nu t}$.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Radiometer**. "A radiometer is an instrument for measuring radiometric quantities such as radiant flux (power), irradiance, or radiance. Definitions typically limit radiometry to optical radiation, but some definitions include other kinds of electromagnetic radiation. Radiometers typically measure infrared radiation, visible radiation (light), ultraviolet radiation, or some combination of these." ([Wikipedia](https://en.wikipedia.org/wiki/Radiometer))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Antenna effective area and gain]]

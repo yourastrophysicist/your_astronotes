@@ -132,6 +132,15 @@ reading cue: two separated antennas measure a correlation of the incoming field.
 
 source: local study diagram generated from the standard narrow-field VCZ relation.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Van Cittert–Zernike theorem**. "The van Cittert–Zernike theorem, named after physicists Pieter Hendrik van Cittert and Frits Zernike, is a formula in coherence theory that states that under certain conditions the Fourier transform of the intensity distribution function of a distant, incoherent source is equal to its complex visibility. This implies that the wavefront from an incoherent source will appear mostly coherent at large distances." ([Wikipedia](https://en.wikipedia.org/wiki/Van_Cittert%E2%80%93Zernike_theorem))
+- **Optical Interferometry in Astronomy**. "Here I review the current state of the field of optical stellar interferometry, concentrating on ground-based work although a brief report of space interferometry missions is included." ([arXiv:astro-ph/0307036](https://arxiv.org/abs/astro-ph/0307036))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Spatial coherence]]

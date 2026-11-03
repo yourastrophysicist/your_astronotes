@@ -79,6 +79,14 @@ for full-rank tall $A$ ($M > N$), $A^+ = (A^T A)^{-1} A^T$, and $A^+ \mathbf{b}$
 - **deconvolution of an image with a known PSF**: ill-conditioned, regularization essential
 - **inverting a rotation matrix**: trivial since $R^{-1} = R^T$, no general algorithm needed
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Invertible matrix**. "In linear algebra, an invertible matrix (non-singular, non-degenerate or regular) is a square matrix that has an inverse. In other words, if a matrix is invertible, it can be multiplied by its inverse matrix to yield the identity matrix. Invertible matrices are the same size as their inverse." ([Wikipedia](https://en.wikipedia.org/wiki/Invertible_matrix))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Gauss elimination]]

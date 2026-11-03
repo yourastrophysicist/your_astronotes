@@ -99,6 +99,17 @@ reading cue: an interferometric observation is a chain of decisions and correcti
 
 source: local workflow diagram generated from the standard radio-reduction sequence.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Radio astronomy|500](https://commons.wikimedia.org/wiki/Special:FilePath/USA.NM.VeryLargeArray.02.jpg?width=600)
+*The Very Large Array near Socorro, New Mexico, United States* ([Commons file page](https://commons.wikimedia.org/wiki/File:USA.NM.VeryLargeArray.02.jpg), user:Hajor, CC BY-SA 3.0, as used on the Wikipedia article [Radio astronomy](https://en.wikipedia.org/wiki/Radio_astronomy))
+
+- **Radio astronomy**. "Radio astronomy is a subfield of astronomy that studies celestial objects using radio waves. It started in 1933, when Karl Jansky at Bell Telephone Laboratories reported radiation coming from the Milky Way. Subsequent observations have identified a number of different sources of radio emission." ([Wikipedia](https://en.wikipedia.org/wiki/Radio_astronomy))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Calibration overview]]

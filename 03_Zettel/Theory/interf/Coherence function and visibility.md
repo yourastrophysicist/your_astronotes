@@ -122,6 +122,14 @@ reading cue: visibility is the normalized coherence between two points in the wa
 
 source: local study diagram generated from the standard mutual-coherence geometry.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Coherence (physics)**. "In physics, coherence expresses the potential for two waves to interfere. Two monochromatic beams from a single source always interfere. Even for wave sources that are not strictly monochromatic, they may still be partly coherent." ([Wikipedia](https://en.wikipedia.org/wiki/Coherence_%28physics%29))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Spatial coherence]]

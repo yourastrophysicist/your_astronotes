@@ -103,6 +103,17 @@ each takes the basic Michelson geometry and adapts it for a specific measurement
 
 both are called "Michelson interferometer" and both share the inventor, but they are *different physical devices*.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Michelson interferometer|500](https://commons.wikimedia.org/wiki/Special:FilePath/Michelson_Interferometer.jpg?width=600)
+*Lead figure of the Wikipedia article Michelson interferometer* ([Commons file page](https://commons.wikimedia.org/wiki/File:Michelson_Interferometer.jpg), see file page, CC BY-SA 4.0, as used on the Wikipedia article [Michelson interferometer](https://en.wikipedia.org/wiki/Michelson_interferometer))
+
+- **Michelson interferometer**. "The Michelson interferometer is a common configuration for optical interferometry and was invented by the American physicist Albert Abraham Michelson in 1887. Using a beam splitter, a light source is split into two arms. Each of those light beams is reflected back toward the beamsplitter which then combines their amplitudes using the superposition principle." ([Wikipedia](https://en.wikipedia.org/wiki/Michelson_interferometer))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Amplitude-division interferometers]]

@@ -76,6 +76,14 @@ a wide-bandwidth source has very short temporal coherence. fringes only form for
 
 interferometers care about this because *delay lines* must equalize the path lengths of the two arms to within the **coherence length** $L_c = c/\Delta\nu$. for VLTI in the H-band ($\Delta\lambda/\lambda \sim 0.1$): $L_c \sim 16$ μm. the delay lines must hold the path difference to within microns.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Coherence (physics)**. "In physics, coherence expresses the potential for two waves to interfere. Two monochromatic beams from a single source always interfere. Even for wave sources that are not strictly monochromatic, they may still be partly coherent." ([Wikipedia](https://en.wikipedia.org/wiki/Coherence_%28physics%29))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Plane waves and Huygens principle]]

@@ -51,6 +51,14 @@ at high $z$, the situation gets richer. several distance concepts diverge:
 
 at low $z$ all coincide; at high $z$ they diverge dramatically. see 03_Zettel/Theory/Cosmological distances.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Comoving and proper distances**. "In standard cosmology, comoving distance and proper distance (or physical distance) are two closely related distance measures used by cosmologists to define distances between objects. Comoving distance factors out the expansion of the universe, giving a distance that does not change in time except due to local factors, such as the motion of a galaxy within a cluster." ([Wikipedia](https://en.wikipedia.org/wiki/Comoving_and_proper_distances))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[FLRW metric]]

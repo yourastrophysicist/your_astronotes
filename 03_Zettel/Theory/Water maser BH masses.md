@@ -220,6 +220,14 @@ When sketching water maser kinematics on the blackboard.
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Astrophysical maser**. "An astrophysical maser is a naturally occurring source of stimulated spectral line emission, typically in the microwave portion of the electromagnetic spectrum. This emission may arise in molecular clouds, comets, planetary atmospheres, stellar atmospheres, or various other conditions in interstellar space." ([Wikipedia](https://en.wikipedia.org/wiki/Astrophysical_maser))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Galactic Center Sgr A and S-stars]]

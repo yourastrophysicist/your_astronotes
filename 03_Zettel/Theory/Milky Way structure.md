@@ -72,6 +72,18 @@ the Sun is situated in the Orion-Cygnus spur (between the major Sagittarius and 
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Milky Way|500](https://commons.wikimedia.org/wiki/Special:FilePath/ESO-VLT-Laser-phot-33a-07.jpg?width=600)
+*Lead figure of the Wikipedia article Milky Way* ([Commons file page](https://commons.wikimedia.org/wiki/File:ESO-VLT-Laser-phot-33a-07.jpg), ESO/Y. Beletsky, CC BY 4.0, as used on the Wikipedia article [Milky Way](https://en.wikipedia.org/wiki/Milky_Way))
+
+- **Milky Way**. "The Milky Way or Milky Way Galaxy, or simply the Galaxy, is the galaxy that includes the Solar System, with the name describing the galaxy's appearance from Earth: a hazy band of light seen in the night sky formed by stars in other arms of the galaxy, which are so far away that they cannot be individually distinguished by the naked eye." ([Wikipedia](https://en.wikipedia.org/wiki/Milky_Way))
+- **The Galaxy in Context: Structural, Kinematic and Integrated Properties**. "Our Galaxy, the Milky Way, is a benchmark for understanding disk galaxies. It is the only galaxy whose formation history can be studied using the full distribution of stars from white dwarfs to supergiants. The oldest components provide us with unique insight into how galaxies form and evolve over billions of years." ([arXiv:1602.07702](https://arxiv.org/abs/1602.07702))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

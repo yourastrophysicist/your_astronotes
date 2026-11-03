@@ -101,6 +101,14 @@ both effects set hard limits on the OPD an interferometer can usefully employ.
 
 a Michelson laboratory interferometer with one moving mirror sweeps OPD by twice the mirror motion (light goes there and back). counting fringes as the mirror moves gives a wavelength-precision distance measurement. this is the basis of laser metrology and was, until 2018, the legal definition of the metre.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Optical path length**. "In optics, optical path length (OPL, denoted Λ in equations), also known as optical length or optical distance, is the vacuum length that light travels over the same time taken to travel through a given medium length." ([Wikipedia](https://en.wikipedia.org/wiki/Optical_path_length))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Light waves and the EM spectrum]]

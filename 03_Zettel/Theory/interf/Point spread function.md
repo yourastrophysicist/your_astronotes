@@ -126,6 +126,17 @@ reading cue: the PSF is the image of a point source. for an ideal circular apert
 
 source: local plot generated from the Airy-pattern Bessel formula.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Point spread function|500](https://commons.wikimedia.org/wiki/Special:FilePath/Convolution_Illustrated_eng.png?width=600)
+*Convolution illustrated: longitudinal (XZ) central slice of a 3D image acquired by a fluorescence microscope* ([Commons file page](https://commons.wikimedia.org/wiki/File:Convolution_Illustrated_eng.png), Default007, Public domain, as used on the Wikipedia article [Point spread function](https://en.wikipedia.org/wiki/Point_spread_function))
+
+- **Point spread function**. "The point spread function (PSF) describes the response of a focused optical imaging system to an idealized point source of light. In casual terms, for a given camera, it is the blurry blob image captured from pointing that camera at a single speck of light. More technically, a PSF is a form of impulse response function (IRF) for a focused optical imaging system, in spatial terms (as opposed to temporal terms)." ([Wikipedia](https://en.wikipedia.org/wiki/Point_spread_function))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fraunhofer diffraction]]

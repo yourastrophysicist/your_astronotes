@@ -49,6 +49,17 @@ at moderate $v\sin i$ (5-20 km/s) the rotation kernel can be confused with **mac
 - combined with rotational period from photometry (spots), $v\sin i$ gives stellar inclination.
 - in clusters, rotation distributions trace age and binary history; in stellar populations, fast rotators may produce extended turn-offs in the [[Color-magnitude diagrams of clusters]].
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Stellar rotation|500](https://commons.wikimedia.org/wiki/Special:FilePath/Achernar.svg?width=600)
+*Shape of w:en:Achernar. there is a disk of gas near equator* ([Commons file page](https://commons.wikimedia.org/wiki/File:Achernar.svg), Fred the Oyster iThe source code of this SVG is valid. This vector image was created with Adobe Illustrator by v., CC BY-SA 4.0, as used on the Wikipedia article [Stellar rotation](https://en.wikipedia.org/wiki/Stellar_rotation))
+
+- **Stellar rotation**. "Stellar rotation is the angular motion of a star about its axis. The rate of rotation can be measured from the spectrum of the star, or by timing the movements of active features on the surface. The rotation of a star produces an equatorial bulge due to centrifugal force." ([Wikipedia](https://en.wikipedia.org/wiki/Stellar_rotation))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 - [[Atmospheric parameters Teff log g feh vmicro]]
 - [[Microturbulence]]

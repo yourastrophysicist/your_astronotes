@@ -104,6 +104,17 @@ stellar interferometers like VLTI use beam splitters to combine the light from m
 
 modern instruments (GRAVITY, MATISSE) use silicon photonic chips with thousands of beam-splitting junctions, all with the same $\pi$-asymmetry, enabling coherent multi-baseline interference on a single chip.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Beam splitter|500](https://commons.wikimedia.org/wiki/Special:FilePath/Beam-splitter.svg?width=600)
+*beam splitter* ([Commons file page](https://commons.wikimedia.org/wiki/File:Beam-splitter.svg), MikeRun, CC BY-SA 4.0, as used on the Wikipedia article [Beam splitter](https://en.wikipedia.org/wiki/Beam_splitter))
+
+- **Beam splitter**. "A beam splitter or beamsplitter is an optical device that splits a beam of light into a transmitted and a reflected beam. It is a crucial part of many optical experimental and measurement systems, such as interferometers, also finding widespread application in fibre optic telecommunications." ([Wikipedia](https://en.wikipedia.org/wiki/Beam_splitter))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Amplitude-division interferometers]]

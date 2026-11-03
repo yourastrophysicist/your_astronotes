@@ -77,6 +77,14 @@ after $e^\pm$ annihilation (everything settled), $g_{*s}$ is constant and $\eta$
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Entropy (statistical thermodynamics)**. "The concept entropy was first developed by German physicist Rudolf Clausius in the mid-nineteenth century as a thermodynamic property that predicts that certain spontaneous processes are irreversible or impossible. In statistical mechanics, entropy is formulated as a statistical property using probability theory." ([Wikipedia](https://en.wikipedia.org/wiki/Entropy_%28statistical_thermodynamics%29))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

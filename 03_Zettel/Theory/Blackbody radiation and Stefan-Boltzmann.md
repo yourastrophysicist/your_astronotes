@@ -105,6 +105,17 @@ real stars are not perfect blackbodies because their atmospheres have wavelength
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Stefan–Boltzmann law|500](https://commons.wikimedia.org/wiki/Special:FilePath/Stefan_Boltzmann_001.svg?width=600)
+*Lead figure of the Wikipedia article Stefan–Boltzmann law* ([Commons file page](https://commons.wikimedia.org/wiki/File:Stefan_Boltzmann_001.svg), Netheril96, CC BY-SA 3.0, as used on the Wikipedia article [Stefan–Boltzmann law](https://en.wikipedia.org/wiki/Stefan%E2%80%93Boltzmann_law))
+
+- **Stefan–Boltzmann law**. "The Stefan–Boltzmann law, also known as Stefan's law, describes the intensity of the thermal radiation emitted by matter in terms of that matter's temperature. It is named for Josef Stefan, who empirically derived the relationship, and Ludwig Boltzmann who derived the law theoretically." ([Wikipedia](https://en.wikipedia.org/wiki/Stefan%E2%80%93Boltzmann_law))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

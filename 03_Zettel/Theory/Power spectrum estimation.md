@@ -116,6 +116,14 @@ $$P(f) = \int R(\tau) e^{-2\pi i f \tau} d\tau$$
 
 where $R(\tau) = \langle x(t) x(t + \tau)\rangle$ is the autocorrelation. so the power spectrum *is* the Fourier transform of the autocorrelation. either domain gives the same information.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Spectral density estimation**. "In statistical signal processing, the goal of spectral density estimation (SDE) or simply spectral estimation is to estimate the spectral density (also known as the power spectral density or the second-order Polyspectrum) of a signal from a sequence of time samples of the signal. Intuitively speaking, the spectral density characterizes the frequency content of the signal." ([Wikipedia](https://en.wikipedia.org/wiki/Spectral_density_estimation))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Discrete Fourier transform]]

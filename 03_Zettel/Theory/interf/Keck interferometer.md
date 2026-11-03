@@ -55,6 +55,17 @@ KI demonstrated:
 
 these capabilities now exist at VLTI (but with multiple smaller dishes). the dual-10m approach didn't survive, but the techniques developed at KI are still part of modern interferometric practice.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![W. M. Keck Observatory|500](https://commons.wikimedia.org/wiki/Special:FilePath/KeckTelescopes-hi.png?width=600)
+*W. M. Keck Observatory* ([Commons file page](https://commons.wikimedia.org/wiki/File:KeckTelescopes-hi.png), T. Wynne / JPL, Public domain, as used on the Wikipedia article [W. M. Keck Observatory](https://en.wikipedia.org/wiki/W._M._Keck_Observatory))
+
+- **W. M. Keck Observatory**. "The W. M. Keck Observatory is an astronomical observatory with two telescopes at an elevation of 4,145 meters (13,600 ft) near the summit of Mauna Kea in the U.S. state of Hawaii. Both telescopes have 10 m (33 ft) aperture primary mirrors, and, when completed in 1993 (Keck I) and 1996 (Keck II), they were the largest optical reflecting telescopes in the world. They have been the third and fourth largest since 2006." ([Wikipedia](https://en.wikipedia.org/wiki/W._M._Keck_Observatory))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Components of a modern interferometer]]

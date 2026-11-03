@@ -70,6 +70,14 @@ Christiaan Huygens (1690): his *Traité de la Lumière* introduced this construc
 
 today Huygens' principle is *the* practical tool for tracing light through complex optical systems. it underwrites every diffraction calculation in interferometry.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Huygens–Fresnel principle**. "The Huygens–Fresnel principle (named after Dutch physicist Christiaan Huygens and French physicist Augustin-Jean Fresnel) states that every point on a wavefront is itself the source of spherical wavelets and that the secondary wavelets emanating from different points mutually interfere. The sum of these spherical wavelets forms a new wavefront." ([Wikipedia](https://en.wikipedia.org/wiki/Huygens%E2%80%93Fresnel_principle))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Superposition and interference]]

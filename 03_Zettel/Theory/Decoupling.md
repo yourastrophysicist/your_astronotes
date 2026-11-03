@@ -82,6 +82,15 @@ so the universe has a **history of decouplings**:
 
 each leaves a frozen relic abundance, observable today (CMB, $C\nu B$, dark matter halos, etc.).
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Decoupling (cosmology)**. "In cosmology, decoupling is a period in the development of the universe when different types of particles fall out of thermal equilibrium with each other. This occurs as a result of the expansion of the universe, as their interaction rates decrease (and mean free paths increase) up to this critical point." ([Wikipedia](https://en.wikipedia.org/wiki/Decoupling_%28cosmology%29))
+- **Cosmic Microwave Background Anisotropies**. "Cosmic microwave background (CMB) temperature anisotropies have and will continue to revolutionize our understanding of cosmology." ([arXiv:astro-ph/0110414](https://arxiv.org/abs/astro-ph/0110414))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Photon decoupling and CMB]]

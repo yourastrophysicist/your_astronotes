@@ -59,6 +59,17 @@ $$Q_{H,\rm ion} = \int n_e n_p \alpha_B\,dV$$
 
 each recombination produces **one Balmer photon** on average (about $0.45$ H$\alpha$ photons; the fraction varies with $T_e$). so HII regions are recombination-line "engines" that convert ionising photons (mostly UV) into Balmer-line photons (visible).
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Emission spectrum|500](https://commons.wikimedia.org/wiki/Special:FilePath/MHL.png?width=600)
+*Emission spectrum of a metal halide lamp* ([Commons file page](https://commons.wikimedia.org/wiki/File:MHL.png), Philips Lighting, CC BY-SA 2.5 nl, as used on the Wikipedia article [Emission spectrum](https://en.wikipedia.org/wiki/Emission_spectrum))
+
+- **Emission spectrum**. "The emission spectrum of a chemical element or chemical compound is the spectrum of frequencies of electromagnetic radiation emitted due to electrons making a transition from a high energy state to a lower energy state. The photon energy of the emitted photons is equal to the energy difference between the two states." ([Wikipedia](https://en.wikipedia.org/wiki/Emission_spectrum))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Optically thin recombination lines]]

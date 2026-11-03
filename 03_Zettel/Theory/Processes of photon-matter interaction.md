@@ -101,6 +101,17 @@ Key boundaries (for the boundary $\sigma_{ph} = \sigma_C$):
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Gamma ray|500](https://commons.wikimedia.org/wiki/Special:FilePath/Gamma_radiation_%28alternative%29.svg?width=600)
+*A diagram showing a nucleus decaying by emission of a gamma ray. Protons are red and neutrons are blue* ([Commons file page](https://commons.wikimedia.org/wiki/File:Gamma_radiation_%28alternative%29.svg), Inductiveload, changes by Habitator terrae, CC BY-SA 4.0, as used on the Wikipedia article [Gamma ray](https://en.wikipedia.org/wiki/Gamma_ray))
+
+- **Gamma ray**. "A gamma ray, also known as gamma radiation (symbol γ), is a penetrating form of electromagnetic radiation arising from high-energy interactions like the radioactive decay of atomic nuclei or astronomical events like solar flares. Lower energy gamma radiation overlaps the upper end of X-ray radiation; they are distinguished by their different origins." ([Wikipedia](https://en.wikipedia.org/wiki/Gamma_ray))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Lab_High-Energy_MOC]]

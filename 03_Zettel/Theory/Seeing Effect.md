@@ -143,6 +143,18 @@ Scintillation is worse for:
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Astronomical seeing|500](https://commons.wikimedia.org/wiki/Special:FilePath/Seeing_Moon.gif?width=600)
+*Lead figure of the Wikipedia article Astronomical seeing* ([Commons file page](https://commons.wikimedia.org/wiki/File:Seeing_Moon.gif), Philipp Salzgeber [1], CC BY-SA 2.0 at, as used on the Wikipedia article [Astronomical seeing](https://en.wikipedia.org/wiki/Astronomical_seeing))
+
+- **Astronomical seeing**. "In astronomy, seeing is the degradation of the image of an astronomical object due to turbulence in the atmosphere of Earth that may become visible as blurring, twinkling or variable distortion. The origin of this effect is rapidly changing variations of the optical refractive index along the light path from the object to the detector." ([Wikipedia](https://en.wikipedia.org/wiki/Astronomical_seeing))
+- **Adaptive Optics for Astronomy**. "Adaptive Optics is a prime example of how progress in observational astronomy can be driven by technological developments." ([arXiv:1201.5741](https://arxiv.org/abs/1201.5741))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Atmospheric seeing]]

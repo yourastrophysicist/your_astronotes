@@ -76,6 +76,14 @@ at high $z$ they diverge. for a SN Ia at $z = 1$ in ΛCDM: $d_C \approx 3.4$ Gpc
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Distance measure**. "Distance measures are used in physical cosmology to generalize the concept of distance between two objects or events in an expanding universe." ([Wikipedia](https://en.wikipedia.org/wiki/Distance_measure))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

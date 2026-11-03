@@ -439,6 +439,17 @@ Each generation of instruments has revealed phenomena invisible to the previous 
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![X-ray astronomy|500](https://commons.wikimedia.org/wiki/Special:FilePath/Ill-2_O3.jpg?width=600)
+*Gamma ray absorbation in the atmosphere* ([Commons file page](https://commons.wikimedia.org/wiki/File:Ill-2_O3.jpg), F. Granato (ESA/Hubble), Public domain, as used on the Wikipedia article [X-ray astronomy](https://en.wikipedia.org/wiki/X-ray_astronomy))
+
+- **X-ray astronomy**. "X-ray astronomy is an observational branch of astronomy which deals with the study of X-ray observation and detection from astronomical objects. X-radiation is absorbed by the Earth's atmosphere, so instruments to detect X-rays must be taken to high altitude by balloons, sounding rockets, and satellites." ([Wikipedia](https://en.wikipedia.org/wiki/X-ray_astronomy))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Lab_High-Energy_MOC]]

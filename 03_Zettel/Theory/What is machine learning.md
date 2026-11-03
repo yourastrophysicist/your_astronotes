@@ -122,6 +122,14 @@ every supervised model in scikit-learn follows this pattern: instantiate, `fit`,
 
 ML is full of footguns. the discipline is in the *experimental protocol* (proper splitting, cross-validation, holdouts), not just the algorithm.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Machine learning**. "Machine learning (ML) is a field of study in artificial intelligence concerned with the development and study of statistical algorithms that can learn from data and generalize to unseen data, and thus perform tasks without being explicitly programmed. Statistics and mathematical optimisation methods compose the foundations of machine learning." ([Wikipedia](https://en.wikipedia.org/wiki/Machine_learning))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Decision tree classifier]]

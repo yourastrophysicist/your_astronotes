@@ -95,6 +95,14 @@ Labeyrie's hypertelescope idea has influenced:
 
 even if hypertelescopes are never built at scale, the concept frames the discussion of "direct imaging" alternatives to sparse-aperture interferometry.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Antoine Émile Henry Labeyrie**. "Antoine Émile Henry Labeyrie (born 12 May 1943) is a French astronomer, who held the Observational astrophysics chair at the Collège de France between 1991 and 2014, where he is currently professor emeritus." ([Wikipedia](https://en.wikipedia.org/wiki/Antoine_%C3%89mile_Henry_Labeyrie))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Nulling interferometry]]

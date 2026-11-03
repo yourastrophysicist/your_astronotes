@@ -57,6 +57,17 @@ where $\alpha_P = 192.86^\circ$ ($12^{\rm h}51.4^{\rm m}$), $\delta_P = +27.13^\
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Galactic coordinate system|500](https://commons.wikimedia.org/wiki/Special:FilePath/Artist%27s_impression_of_the_Milky_Way_%28updated_-_annotated%29.jpg?width=600)
+*Lead figure of the Wikipedia article Galactic coordinate system* ([Commons file page](https://commons.wikimedia.org/wiki/File:Artist%27s_impression_of_the_Milky_Way_%28updated_-_annotated%29.jpg), NASA/JPL-Caltech/ESO/R. Hurt, Public domain, as used on the Wikipedia article [Galactic coordinate system](https://en.wikipedia.org/wiki/Galactic_coordinate_system))
+
+- **Galactic coordinate system**. "The galactic coordinate system (GCS) is a celestial coordinate system in spherical coordinates, with the Sun as its center, the primary direction aligned with the approximate center of the Milky Way Galaxy, and the fundamental plane parallel to an approximation of the galactic plane but offset to its north." ([Wikipedia](https://en.wikipedia.org/wiki/Galactic_coordinate_system))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

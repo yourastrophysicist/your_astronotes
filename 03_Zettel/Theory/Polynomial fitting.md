@@ -108,6 +108,17 @@ minimum-AIC or minimum-BIC over $M$ picks a sensible degree.
 
 most of the time, what I want is a *low-degree* polynomial fit (M = 2-4). higher degrees are usually a signal that I should be using a different model.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Polynomial regression|500](https://commons.wikimedia.org/wiki/Special:FilePath/Polyreg_scheffe.svg?width=600)
+*Plot of a cubic polynomial fit using multiple least squares to a simulated data set. Along with the point estimate, a 95% simultaneous confidence band (CB) constructed using Scheffe's method is shown* ([Commons file page](https://commons.wikimedia.org/wiki/File:Polyreg_scheffe.svg), Skbkekas, CC BY 3.0, as used on the Wikipedia article [Polynomial regression](https://en.wikipedia.org/wiki/Polynomial_regression))
+
+- **Polynomial regression**. "In statistics, polynomial regression is a form of regression analysis in which the relationship between the independent variable x and the dependent variable y is modeled as a polynomial in x. Polynomial regression fits a nonlinear relationship between the value of x and the corresponding conditional mean of y, denoted E(y |x)." ([Wikipedia](https://en.wikipedia.org/wiki/Polynomial_regression))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Linear least squares]]

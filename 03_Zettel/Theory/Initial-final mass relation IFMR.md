@@ -49,6 +49,18 @@ three main observational handles:
 
 current frontier: the IFMR is not perfectly monotonic. there is some evidence for a kink near $M_{\rm ZAMS} \sim 2\,M_\odot$ at solar metallicity, attributed to carbon-star formation and changes in dredge-up efficiency.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![White dwarf|500](https://commons.wikimedia.org/wiki/Special:FilePath/Sirius_A_and_B_Hubble_photo.editted.PNG?width=600)
+*Placed pointer to Sirius B* ([Commons file page](https://commons.wikimedia.org/wiki/File:Sirius_A_and_B_Hubble_photo.editted.PNG), NASA, ESA, H. Bond (STScI), and M. Barstow (University of Leicester); modified by Bokus, Public domain, as used on the Wikipedia article [White dwarf](https://en.wikipedia.org/wiki/White_dwarf))
+
+- **White dwarf**. "A white dwarf is a very dense type of star: in an Earth-sized volume, it packs a mass that is comparable to the Sun. A white dwarf radiates light from residual heat and eventual crystallization, not from nuclear fusion. Stars like the Sun, whose mass is not high enough to collapse into a neutron star or black hole, are expected to become white dwarf stars later in their evolution." ([Wikipedia](https://en.wikipedia.org/wiki/White_dwarf))
+- **Evolutionary and pulsational properties of white dwarf stars**. "Abridged. White dwarf stars are the final evolutionary stage of the vast majority of stars, including our Sun. The study of white dwarfs has potential applications to different fields of astrophysics." ([arXiv:1007.2659](https://arxiv.org/abs/1007.2659))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 - [[White dwarf overview]]
 - [[White dwarf types He CO ONeMg]]

@@ -64,6 +64,15 @@ $$\frac{v^4}{r^2} = \frac{G M a_0}{r^2} \implies v_{\rm flat} = (G M a_0)^{1/4}$
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Alternatives to general relativity**. "Alternatives to general relativity are physical theories that attempt to describe the phenomenon of gravitation in competition with Einstein's theory of general relativity. There have been many different attempts at constructing an ideal theory of gravity." ([Wikipedia](https://en.wikipedia.org/wiki/Alternatives_to_general_relativity))
+- **Modified Newtonian Dynamics (MOND): Observational Phenomenology and Relativistic Extensions**. "A wealth of astronomical data indicate the presence of mass discrepancies in the Universe. The motions observed in a variety of classes of extragalactic systems exceed what can be explained by the mass visible in stars and gas." ([arXiv:1112.3960](https://arxiv.org/abs/1112.3960))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Bullet Cluster and dark matter mapping]]

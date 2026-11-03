@@ -209,6 +209,17 @@ When sketching the PCA spectral classification plane on the blackboard.
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Principal component analysis|500](https://commons.wikimedia.org/wiki/Special:FilePath/GaussianScatterPCA.svg?width=600)
+*Lead figure of the Wikipedia article Principal component analysis* ([Commons file page](https://commons.wikimedia.org/wiki/File:GaussianScatterPCA.svg), Nicoguaro, CC BY 4.0, as used on the Wikipedia article [Principal component analysis](https://en.wikipedia.org/wiki/Principal_component_analysis))
+
+- **Principal component analysis**. "Principal component analysis (PCA) is a linear dimensionality reduction technique with applications in exploratory data analysis, visualization and data preprocessing. The data are linearly transformed onto a new coordinate system such that the directions (principal components) capturing the largest variation in the data can be easily identified. PCA is a form of feature selection by collapsing correlated features." ([Wikipedia](https://en.wikipedia.org/wiki/Principal_component_analysis))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[CAS galaxy classification]]

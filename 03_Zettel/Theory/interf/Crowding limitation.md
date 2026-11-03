@@ -67,6 +67,14 @@ three approaches:
 
 chapter 4 of Labeyrie discusses the crowding limit for *sparse-aperture* arrays specifically (where dirty beams have very high sidelobes). for filled-aperture or near-filled arrays (VLA, ALMA), crowding is rarely the binding constraint — sensitivity or atmospheric phase is.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Source-monitoring error**. "A source-monitoring error is a type of memory error where the source of a memory is incorrectly attributed to some specific recollected experience. For example, individuals may learn about a current event from a friend, but later report having learned about it on the local news, thus reflecting an incorrect source attribution." ([Wikipedia](https://en.wikipedia.org/wiki/Source-monitoring_error))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Dirty beam and dirty image]]

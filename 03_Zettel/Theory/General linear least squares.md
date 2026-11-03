@@ -122,6 +122,14 @@ for polynomial fitting on $[0, L]$, the design matrix with $\phi_k(x) = x^k$ is 
 - **PSF fitting**: model an image as a sum of pre-computed PSF templates
 - **photometric calibration**: relate measured fluxes to standard fluxes via a linear color term
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Linear least squares**. "Linear least squares (LLS) is the least squares approximation of linear functions to data. It is a set of formulations for solving statistical problems involved in linear regression, including variants for ordinary (unweighted), weighted, and generalized (correlated) residuals. Numerical methods for linear least squares include inverting the matrix of the normal equations and orthogonal decomposition methods." ([Wikipedia](https://en.wikipedia.org/wiki/Linear_least_squares))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Linear least squares]]

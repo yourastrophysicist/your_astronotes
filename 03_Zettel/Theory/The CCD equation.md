@@ -71,6 +71,14 @@ planning rule: aim for $N_{\rm sky} \gtrsim 10\sigma_{\rm RN}^2$ per pixel per e
 - **PSF photometry**: see [[PSF photometry]]. equivalent to weighting pixels by the PSF, recovers some SNR vs aperture in crowded fields.
 - **stacking**: $K$ exposures combined optimally give $\sqrt{K}$ improvement in sky/source-limited; in read-noise-limited, only linearly in $K$ if the noise per stack is dominated by readout.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Signal-to-noise ratio (imaging)**. "Signal-to-noise ratio (SNR) is used in imaging to characterize image quality. The sensitivity of a (digital or film) imaging system is typically described in the terms of the signal level that yields a threshold level of SNR." ([Wikipedia](https://en.wikipedia.org/wiki/Signal-to-noise_ratio_%28imaging%29))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[CCD detectors and SNR]] — the comprehensive companion

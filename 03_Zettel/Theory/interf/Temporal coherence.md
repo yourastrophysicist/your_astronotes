@@ -101,6 +101,14 @@ $\lambda = 589$ nm, $\Delta\lambda$ depends on the filter:
 
 a Michelson interferometer with a moving mirror sweeping through delays $\tau$. the recorded $I(\tau)$ is the autocorrelation $\Gamma_{11}(\tau)$. Fourier transform → spectrum $S(\nu)$.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Coherence time**. "For an electromagnetic wave, the coherence time is the time over which a propagating wave (especially a laser or maser beam) may be considered coherent, meaning that its phase is, on average, predictable. In long-distance transmission systems, the coherence time may be reduced by propagation factors such as dispersion, scattering, and diffraction." ([Wikipedia](https://en.wikipedia.org/wiki/Coherence_time))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Coherent vs incoherent imaging]]

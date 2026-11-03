@@ -133,6 +133,17 @@ When asked by Prof. Pizzella - *"What is the green valley, what does its existen
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Galaxy color–magnitude diagram|500](https://commons.wikimedia.org/wiki/Special:FilePath/Galaxy_color-magnitude_diagram-en.svg?width=600)
+*Galaxy color-magnitude diagram showing red sequence, green valley, and blue cloud* ([Commons file page](https://commons.wikimedia.org/wiki/File:Galaxy_color-magnitude_diagram-en.svg), Original: Joshua Schroeder Vector: M0tty, CC BY-SA 3.0, as used on the Wikipedia article [Galaxy color–magnitude diagram](https://en.wikipedia.org/wiki/Galaxy_color%E2%80%93magnitude_diagram))
+
+- **Galaxy color–magnitude diagram**. "The galaxy color–magnitude diagram shows the relationship between absolute magnitude (a measure of luminosity) and mass of galaxies. A preliminary description of the three areas of this diagram was made in 2003 by Eric F." ([Wikipedia](https://en.wikipedia.org/wiki/Galaxy_color%E2%80%93magnitude_diagram))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Color bimodality of galaxies]]

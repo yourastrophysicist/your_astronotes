@@ -51,6 +51,14 @@ the SED of a galaxy at any moment is the **superposition** of contributions from
 
 this is the spectral basis for population-synthesis SED fitting (see [[Stellar population synthesis]] and `obs5.pdf`/`obs7.pdf`).
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Mass–luminosity relation**. "In astrophysics, the mass–luminosity relation is an empirical and theoretical relationship between a star's mass and its luminosity The relationship is represented by the equation: L L ⊙ = ( M M ⊙ ) a ${\frac {L}{L_{\odot }}}=\left({\frac {M}{M_{\odot }}}\right)^{a}$ where L☉ and M☉ are the luminosity and mass of the Sun and 1 < a < 6. The value a = 3.5 is commonly used for main-sequence stars." ([Wikipedia](https://en.wikipedia.org/wiki/Mass%E2%80%93luminosity_relation))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Planck law Wien Stefan-Boltzmann]]

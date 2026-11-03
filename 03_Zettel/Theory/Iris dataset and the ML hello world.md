@@ -138,6 +138,17 @@ for a one-chapter introduction in a numerical methods course, iris is exactly ri
 - **star/galaxy/QSO classification** in photometric surveys: classification with $\sim 5$-band photometry, like a 5-feature iris on $10^9$ objects
 - **transient classification** in real-time: classification with light-curve features
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Iris flower data set|500](https://commons.wikimedia.org/wiki/Special:FilePath/Iris_dataset_scatterplot.svg?width=600)
+*The scatterplot of Iris flower data set, collected by Edgar Anderson and popularized in the Machine learning community by Ronald Fisher* ([Commons file page](https://commons.wikimedia.org/wiki/File:Iris_dataset_scatterplot.svg), Nicoguaro, CC BY 4.0, as used on the Wikipedia article [Iris flower data set](https://en.wikipedia.org/wiki/Iris_flower_data_set))
+
+- **Iris flower data set**. "The Iris flower data set or Fisher's Iris data set is a multivariate data set used and made famous by the British statistician and biologist Ronald Fisher in his 1936 paper The use of multiple measurements in taxonomic problems as an example of linear discriminant analysis." ([Wikipedia](https://en.wikipedia.org/wiki/Iris_flower_data_set))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Decision tree classifier]]

@@ -106,6 +106,17 @@ def mc_integrate_2d(f, x_range, y_range, N):
 - **phase-space integrals** for cross sections
 - **importance sampling** for rare events (e.g. rare supernova progenitor channels)
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Monte Carlo integration|500](https://commons.wikimedia.org/wiki/Special:FilePath/MonteCarloIntegrationCircle.svg?width=600)
+*An illustration of Monte Carlo integration* ([Commons file page](https://commons.wikimedia.org/wiki/File:MonteCarloIntegrationCircle.svg), Yoderj, Mysid, CC0, as used on the Wikipedia article [Monte Carlo integration](https://en.wikipedia.org/wiki/Monte_Carlo_integration))
+
+- **Monte Carlo integration**. "In mathematics, Monte Carlo integration is a technique for numerical integration using random numbers. It is a particular Monte Carlo method that numerically computes a definite integral. While other algorithms usually evaluate the integrand at a regular grid, Monte Carlo randomly chooses points at which the integrand is evaluated." ([Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_integration))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Importance sampling]]

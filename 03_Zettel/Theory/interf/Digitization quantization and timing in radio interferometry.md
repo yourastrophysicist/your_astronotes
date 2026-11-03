@@ -68,6 +68,17 @@ reading cue: after downconversion, the interferometer turns voltages into timed 
 
 source: local study diagram generated from a sampled and quantized voltage model.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Quantization (signal processing)|500](https://commons.wikimedia.org/wiki/Special:FilePath/Quantization_error.png?width=600)
+*Lead figure of the Wikipedia article Quantization (signal processing)* ([Commons file page](https://commons.wikimedia.org/wiki/File:Quantization_error.png), Gregory Maxwell, CC BY 3.0, as used on the Wikipedia article [Quantization (signal processing)](https://en.wikipedia.org/wiki/Quantization_%28signal_processing%29))
+
+- **Quantization (signal processing)**. "In mathematics and digital signal processing, quantization is the process of mapping input values from a large set (often a continuous set) to output values in a (countable) smaller set, often with a finite number of elements. Rounding and truncation are typical examples of quantization processes." ([Wikipedia](https://en.wikipedia.org/wiki/Quantization_%28signal_processing%29))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Downconversion of signals in radio interferometers]]

@@ -353,6 +353,134 @@ Every single publication figure, Planck CMB spectrum, 21cm cosmology plot, quasa
 
 ---
 
+<!-- moc-sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+Every zettel in this map ends with a short sourced section: a definition quoted from Wikipedia (118 zettels) or from the abstract of an arXiv review (78 zettels), and, where a free figure exists, the credited lead figure of the Wikipedia article (Wikimedia Commons) or a figure from an openly licensed arXiv paper. The lecture-slide figures above are unchanged.
+
+| Zettel | Wikipedia | arXiv review | Figure |
+|---|---|---|---|
+| [[1Vmax estimator]] | [Luminosity function (astronomy)](https://en.wikipedia.org/wiki/Luminosity_function_%28astronomy%29) | [arXiv:1106.2039](https://arxiv.org/abs/1106.2039) |  |
+| [[AGN and supermassive black holes]] | [Active galactic nucleus](https://en.wikipedia.org/wiki/Active_galactic_nucleus) | [arXiv:1505.00811](https://arxiv.org/abs/1505.00811) |  |
+| [[AGN taxonomy unified model and feedback]] | [Active galactic nucleus](https://en.wikipedia.org/wiki/Active_galactic_nucleus) | [arXiv:1505.00811](https://arxiv.org/abs/1505.00811) |  |
+| [[Angular diameter distance]] | [Angular diameter distance](https://en.wikipedia.org/wiki/Angular_diameter_distance) |  |  |
+| [[Balmer decrement]] | [Balmer series](https://en.wikipedia.org/wiki/Balmer_series) |  |  |
+| [[Big Bang nucleosynthesis]] | [Big Bang nucleosynthesis](https://en.wikipedia.org/wiki/Big_Bang_nucleosynthesis) | [arXiv:1505.01076](https://arxiv.org/abs/1505.01076) |  |
+| [[BPT emission line diagnostic diagram]] | [Low-ionization nuclear emission-line region](https://en.wikipedia.org/wiki/Low-ionization_nuclear_emission-line_region) | [arXiv:1910.09730](https://arxiv.org/abs/1910.09730) | Commons |
+| [[Brief thermal history]] | [Chronology of the universe](https://en.wikipedia.org/wiki/Chronology_of_the_universe) |  |  |
+| [[Chemical evolution of galaxies]] | [Metallicity](https://en.wikipedia.org/wiki/Metallicity) | [arXiv:2106.13145](https://arxiv.org/abs/2106.13145) | Commons |
+| [[CMB - discovery and blackbody spectrum]] | [Cosmic microwave background](https://en.wikipedia.org/wiki/Cosmic_microwave_background) | [arXiv:astro-ph/0110414](https://arxiv.org/abs/astro-ph/0110414) | Commons |
+| [[CMB anisotropies]] | [Cosmic microwave background](https://en.wikipedia.org/wiki/Cosmic_microwave_background) | [arXiv:astro-ph/0110414](https://arxiv.org/abs/astro-ph/0110414) | Commons |
+| [[CMB power spectrum]] | [Cosmic microwave background](https://en.wikipedia.org/wiki/Cosmic_microwave_background) | [arXiv:astro-ph/0110414](https://arxiv.org/abs/astro-ph/0110414) | Commons |
+| [[Color bimodality of galaxies]] | [Galaxy color–magnitude diagram](https://en.wikipedia.org/wiki/Galaxy_color%E2%80%93magnitude_diagram) |  | Commons |
+| [[Comoving vs proper coordinates]] | [Comoving and proper distances](https://en.wikipedia.org/wiki/Comoving_and_proper_distances) |  |  |
+| [[Cosmic dawn and high-redshift galaxies with JWST]] | [James Webb Space Telescope](https://en.wikipedia.org/wiki/James_Webb_Space_Telescope) | [arXiv:1205.1543](https://arxiv.org/abs/1205.1543) | Commons |
+| [[Cosmic look-back time]] | [Cosmic time](https://en.wikipedia.org/wiki/Cosmic_time) |  |  |
+| [[Cosmic star formation history]] | [Star formation](https://en.wikipedia.org/wiki/Star_formation) | [arXiv:1403.0007](https://arxiv.org/abs/1403.0007) |  |
+| [[Cosmic stellar mass density growth]] | [Galaxy formation and evolution](https://en.wikipedia.org/wiki/Galaxy_formation_and_evolution) | [arXiv:1403.0007](https://arxiv.org/abs/1403.0007) |  |
+| [[Cosmological evolution of perturbations in the cosmic fluid]] | [Structure formation](https://en.wikipedia.org/wiki/Structure_formation) | [arXiv:0809.4944](https://arxiv.org/abs/0809.4944) |  |
+| [[Cosmological inflation]] | [Cosmic inflation](https://en.wikipedia.org/wiki/Cosmic_inflation) | [arXiv:0907.5424](https://arxiv.org/abs/0907.5424) |  |
+| [[Cosmological principle]] | [Cosmological principle](https://en.wikipedia.org/wiki/Cosmological_principle) |  |  |
+| [[Cosmological redshift]] | [Redshift](https://en.wikipedia.org/wiki/Redshift) |  | Commons |
+| [[Cosmology calculator - how to use H0 Omega_m Omega_Lambda to get dL dA t_lookback]] | [Lambda-CDM model](https://en.wikipedia.org/wiki/Lambda-CDM_model) |  |  |
+| [[Curvature parameter k]] | [Shape of the universe](https://en.wikipedia.org/wiki/Shape_of_the_universe) |  |  |
+| [[Curvature-dynamics relation]] | [Friedmann equations](https://en.wikipedia.org/wiki/Friedmann_equations) |  |  |
+| [[Deceleration parameter]] | [Deceleration parameter](https://en.wikipedia.org/wiki/Deceleration_parameter) |  |  |
+| [[Decoupling]] | [Decoupling (cosmology)](https://en.wikipedia.org/wiki/Decoupling_%28cosmology%29) | [arXiv:astro-ph/0110414](https://arxiv.org/abs/astro-ph/0110414) |  |
+| [[Density parameters]] | [Friedmann equations](https://en.wikipedia.org/wiki/Friedmann_equations) |  |  |
+| [[Double power-law modified Schechter]] | [Luminosity function (astronomy)](https://en.wikipedia.org/wiki/Luminosity_function_%28astronomy%29) | [arXiv:1106.2039](https://arxiv.org/abs/1106.2039) |  |
+| [[Driver 1998 counts by morphology]] | [Galaxy morphological classification](https://en.wikipedia.org/wiki/Galaxy_morphological_classification) | [arXiv:1403.2783](https://arxiv.org/abs/1403.2783) | Commons |
+| [[Dust attenuation and extinction curves]] | [Cosmic dust](https://en.wikipedia.org/wiki/Cosmic_dust) | [arXiv:2001.03181](https://arxiv.org/abs/2001.03181) | Commons |
+| [[Friedmann solutions]] | [Friedmann equations](https://en.wikipedia.org/wiki/Friedmann_equations) |  |  |
+| [[Fundamental plane of ellipticals]] | [Fundamental plane (elliptical galaxies)](https://en.wikipedia.org/wiki/Fundamental_plane_%28elliptical_galaxies%29) | [arXiv:1602.04267](https://arxiv.org/abs/1602.04267) |  |
+| [[Galaxy color, density and morphology]] | [Galaxy morphological classification](https://en.wikipedia.org/wiki/Galaxy_morphological_classification) | [arXiv:1403.2783](https://arxiv.org/abs/1403.2783) | Commons |
+| [[Galaxy main sequence of star formation]] | [Star formation](https://en.wikipedia.org/wiki/Star_formation) | [arXiv:1204.3552](https://arxiv.org/abs/1204.3552) |  |
+| [[Galaxy mergers and SF]] | [Galaxy merger](https://en.wikipedia.org/wiki/Galaxy_merger) |  | Commons |
+| [[Galaxy morphology vs physical properties]] | [Galaxy morphological classification](https://en.wikipedia.org/wiki/Galaxy_morphological_classification) | [arXiv:1403.2783](https://arxiv.org/abs/1403.2783) | Commons |
+| [[Galaxy SED fitting]] | [Spectral energy distribution](https://en.wikipedia.org/wiki/Spectral_energy_distribution) | [arXiv:1301.7095](https://arxiv.org/abs/1301.7095) |  |
+| [[Galaxy size-luminosity relation]] | [Galaxy formation and evolution](https://en.wikipedia.org/wiki/Galaxy_formation_and_evolution) | [arXiv:1804.03097](https://arxiv.org/abs/1804.03097) |  |
+| [[Galaxy time scales]] | [Galaxy formation and evolution](https://en.wikipedia.org/wiki/Galaxy_formation_and_evolution) | [arXiv:1804.03097](https://arxiv.org/abs/1804.03097) |  |
+| [[GR Friedmann with Lambda]] | [Friedmann equations](https://en.wikipedia.org/wiki/Friedmann_equations) |  |  |
+| [[Gravitational lensing - intro]] | [Gravitational lens](https://en.wikipedia.org/wiki/Gravitational_lens) | [arXiv:1003.5567](https://arxiv.org/abs/1003.5567) | Commons |
+| [[Green valley and quenching tracks]] | [Galaxy color–magnitude diagram](https://en.wikipedia.org/wiki/Galaxy_color%E2%80%93magnitude_diagram) |  | Commons |
+| [[Growth factor D(z)]] | [Structure formation](https://en.wikipedia.org/wiki/Structure_formation) | [arXiv:0809.4944](https://arxiv.org/abs/0809.4944) |  |
+| [[H-alpha SFR tracer]] | [Star formation](https://en.wikipedia.org/wiki/Star_formation) | [arXiv:1204.3552](https://arxiv.org/abs/1204.3552) |  |
+| [[Halo gravity suppression of galaxy formation]] | [Galaxy formation and evolution](https://en.wikipedia.org/wiki/Galaxy_formation_and_evolution) | [arXiv:1804.03097](https://arxiv.org/abs/1804.03097) |  |
+| [[Halo mass function vs galaxy mass function]] | [Halo mass function](https://en.wikipedia.org/wiki/Halo_mass_function) | [arXiv:astro-ph/0611454](https://arxiv.org/abs/astro-ph/0611454) |  |
+| [[High-redshift galaxy selection and Lyman break technique]] | [Lyman-break galaxy](https://en.wikipedia.org/wiki/Lyman-break_galaxy) | [arXiv:1205.1543](https://arxiv.org/abs/1205.1543) | Commons |
+| [[Hubble law]] | [Hubble's law](https://en.wikipedia.org/wiki/Hubble%27s_law) | [arXiv:1004.1856](https://arxiv.org/abs/1004.1856) | Commons |
+| [[Initial mass function]] | [Initial mass function](https://en.wikipedia.org/wiki/Initial_mass_function) | [arXiv:1001.2965](https://arxiv.org/abs/1001.2965) | Commons |
+| [[Integrals of the Schechter function]] | [Luminosity function (astronomy)](https://en.wikipedia.org/wiki/Luminosity_function_%28astronomy%29) | [arXiv:1106.2039](https://arxiv.org/abs/1106.2039) |  |
+| [[Intergalactic medium]] | [Outer space](https://en.wikipedia.org/wiki/Outer_space) | [arXiv:0711.3358](https://arxiv.org/abs/0711.3358) | Commons |
+| [[IR SFR tracer]] | [Star formation](https://en.wikipedia.org/wiki/Star_formation) | [arXiv:1204.3552](https://arxiv.org/abs/1204.3552) |  |
+| [[Jeans analysis in expanding universe]] | [Jeans instability](https://en.wikipedia.org/wiki/Jeans_instability) | [arXiv:0809.4944](https://arxiv.org/abs/0809.4944) | Commons |
+| [[K-correction in optical vs sub-mm]] | [K correction](https://en.wikipedia.org/wiki/K_correction) |  |  |
+| [[K-correction]] | [K correction](https://en.wikipedia.org/wiki/K_correction) |  |  |
+| [[Lensing as a cosmological probe]] | [Gravitational lens](https://en.wikipedia.org/wiki/Gravitational_lens) | [arXiv:1003.5567](https://arxiv.org/abs/1003.5567) | Commons |
+| [[LF by morphology and SED]] | [Luminosity function (astronomy)](https://en.wikipedia.org/wiki/Luminosity_function_%28astronomy%29) | [arXiv:1106.2039](https://arxiv.org/abs/1106.2039) |  |
+| [[Linear vs nonlinear regime]] | [Structure formation](https://en.wikipedia.org/wiki/Structure_formation) | [arXiv:0809.4944](https://arxiv.org/abs/0809.4944) |  |
+| [[LIRGs ULIRGs HyLIRGs]] | [Luminous infrared galaxy](https://en.wikipedia.org/wiki/Luminous_infrared_galaxy) | [arXiv:astro-ph/0603031](https://arxiv.org/abs/astro-ph/0603031) |  |
+| [[Luminosity distance]] | [Luminosity distance](https://en.wikipedia.org/wiki/Luminosity_distance) |  |  |
+| [[Luminosity function definition]] | [Luminosity function (astronomy)](https://en.wikipedia.org/wiki/Luminosity_function_%28astronomy%29) | [arXiv:1106.2039](https://arxiv.org/abs/1106.2039) |  |
+| [[Lyman alpha SFR tracer]] | [Lyman-alpha emitter](https://en.wikipedia.org/wiki/Lyman-alpha_emitter) |  | Commons |
+| [[Lyman-alpha forest]] | [Lyman-alpha forest](https://en.wikipedia.org/wiki/Lyman-alpha_forest) | [arXiv:astro-ph/9806286](https://arxiv.org/abs/astro-ph/9806286) | Commons |
+| [[Magorrian relation]] | [M–sigma relation](https://en.wikipedia.org/wiki/M%E2%80%93sigma_relation) | [arXiv:1304.7762](https://arxiv.org/abs/1304.7762) | Commons |
+| [[Malmquist bias]] | [Malmquist bias](https://en.wikipedia.org/wiki/Malmquist_bias) |  |  |
+| [[Matter power spectrum and BAO]] | [Baryon acoustic oscillations](https://en.wikipedia.org/wiki/Baryon_acoustic_oscillations) | [arXiv:1201.2434](https://arxiv.org/abs/1201.2434) |  |
+| [[Matter vs radiation density scaling]] | [Scale factor (cosmology)](https://en.wikipedia.org/wiki/Scale_factor_%28cosmology%29) |  |  |
+| [[Missing baryons]] | [Missing baryon problem](https://en.wikipedia.org/wiki/Missing_baryon_problem) | [arXiv:0711.3358](https://arxiv.org/abs/0711.3358) |  |
+| [[N-body simulations]] | [N-body simulation](https://en.wikipedia.org/wiki/N-body_simulation) |  | Commons |
+| [[Newtonian derivation of Friedmann]] | [Friedmann equations](https://en.wikipedia.org/wiki/Friedmann_equations) |  |  |
+| [[Non-parametric galaxy morphology metrics]] | [Galaxy morphological classification](https://en.wikipedia.org/wiki/Galaxy_morphological_classification) | [arXiv:1403.2783](https://arxiv.org/abs/1403.2783) | Commons |
+| [[OII SFR tracer]] | [Star formation](https://en.wikipedia.org/wiki/Star_formation) | [arXiv:1204.3552](https://arxiv.org/abs/1204.3552) |  |
+| [[Other SFR tracer lines]] | [Star formation](https://en.wikipedia.org/wiki/Star_formation) | [arXiv:1204.3552](https://arxiv.org/abs/1204.3552) |  |
+| [[Peculiar velocities of galaxies and structures]] | [Peculiar velocity](https://en.wikipedia.org/wiki/Peculiar_velocity) |  |  |
+| [[Perturbations in an expanding universe]] | [Structure formation](https://en.wikipedia.org/wiki/Structure_formation) | [arXiv:0809.4944](https://arxiv.org/abs/0809.4944) |  |
+| [[Phase transitions]] | [Phase transition](https://en.wikipedia.org/wiki/Phase_transition) |  | Commons |
+| [[Photo-z biases and catastrophic outliers]] | [Photometric redshift](https://en.wikipedia.org/wiki/Photometric_redshift) | [arXiv:1805.12574](https://arxiv.org/abs/1805.12574) |  |
+| [[Photometric redshifts]] | [Photometric redshift](https://en.wikipedia.org/wiki/Photometric_redshift) | [arXiv:1805.12574](https://arxiv.org/abs/1805.12574) |  |
+| [[Polarization E and B modes]] | [Cosmic microwave background](https://en.wikipedia.org/wiki/Cosmic_microwave_background) | [arXiv:astro-ph/0110414](https://arxiv.org/abs/astro-ph/0110414) | Commons |
+| [[Post-starburst galaxies]] | [Starburst galaxy](https://en.wikipedia.org/wiki/Starburst_galaxy) | [arXiv:2106.05982](https://arxiv.org/abs/2106.05982) | Commons |
+| [[Press-Schechter formalism]] | [Press–Schechter formalism](https://en.wikipedia.org/wiki/Press%E2%80%93Schechter_formalism) | [arXiv:astro-ph/0611454](https://arxiv.org/abs/astro-ph/0611454) |  |
+| [[Protocluster detection techniques]] | [Galaxy cluster](https://en.wikipedia.org/wiki/Galaxy_cluster) | [arXiv:1610.05201](https://arxiv.org/abs/1610.05201) | Commons |
+| [[Radial comoving distance]] | [Comoving and proper distances](https://en.wikipedia.org/wiki/Comoving_and_proper_distances) |  |  |
+| [[Radio SFR tracer]] | [Star formation](https://en.wikipedia.org/wiki/Star_formation) | [arXiv:1204.3552](https://arxiv.org/abs/1204.3552) |  |
+| [[Recombination]] | [Recombination (cosmology)](https://en.wikipedia.org/wiki/Recombination_%28cosmology%29) | [arXiv:astro-ph/0110414](https://arxiv.org/abs/astro-ph/0110414) |  |
+| [[Red sequence and blue cloud]] | [Galaxy color–magnitude diagram](https://en.wikipedia.org/wiki/Galaxy_color%E2%80%93magnitude_diagram) |  | Commons |
+| [[Redshift distribution of flux-limited samples]] | [Malmquist bias](https://en.wikipedia.org/wiki/Malmquist_bias) |  |  |
+| [[Reionization]] | [Reionization](https://en.wikipedia.org/wiki/Reionization) | [arXiv:astro-ph/0602375](https://arxiv.org/abs/astro-ph/0602375) |  |
+| [[Robertson-Walker metric]] | [Friedmann–Lemaître–Robertson–Walker metric](https://en.wikipedia.org/wiki/Friedmann%E2%80%93Lema%C3%AEtre%E2%80%93Robertson%E2%80%93Walker_metric) |  |  |
+| [[Schechter function in magnitudes]] | [Luminosity function (astronomy)](https://en.wikipedia.org/wiki/Luminosity_function_%28astronomy%29) | [arXiv:1106.2039](https://arxiv.org/abs/1106.2039) |  |
+| [[Schechter function]] | [Luminosity function (astronomy)](https://en.wikipedia.org/wiki/Luminosity_function_%28astronomy%29) | [arXiv:1106.2039](https://arxiv.org/abs/1106.2039) |  |
+| [[Schechter K-band luminosity function]] | [Luminosity function (astronomy)](https://en.wikipedia.org/wiki/Luminosity_function_%28astronomy%29) | [arXiv:1106.2039](https://arxiv.org/abs/1106.2039) |  |
+| [[Schmidt-Kennicutt law]] | [Kennicutt–Schmidt law](https://en.wikipedia.org/wiki/Kennicutt%E2%80%93Schmidt_law) | [arXiv:1204.3552](https://arxiv.org/abs/1204.3552) |  |
+| [[SED fitting for SFH]] | [Spectral energy distribution](https://en.wikipedia.org/wiki/Spectral_energy_distribution) | [arXiv:1301.7095](https://arxiv.org/abs/1301.7095) |  |
+| [[SFH from resolved CMDs]] | [Star formation](https://en.wikipedia.org/wiki/Star_formation) | [arXiv:1204.3552](https://arxiv.org/abs/1204.3552) |  |
+| [[SFR and stellar mass density connection]] | [Star formation](https://en.wikipedia.org/wiki/Star_formation) | [arXiv:1403.0007](https://arxiv.org/abs/1403.0007) |  |
+| [[SFR tracer comparison]] | [Star formation](https://en.wikipedia.org/wiki/Star_formation) | [arXiv:1204.3552](https://arxiv.org/abs/1204.3552) |  |
+| [[Space and ground facilities relevant for OC]] | [Space telescope](https://en.wikipedia.org/wiki/Space_telescope) |  | Commons |
+| [[Spherical collapse]] | [Spherical collapse model](https://en.wikipedia.org/wiki/Spherical_collapse_model) | [arXiv:astro-ph/0611454](https://arxiv.org/abs/astro-ph/0611454) |  |
+| [[Star formation history parametrizations]] | [Star formation](https://en.wikipedia.org/wiki/Star_formation) | [arXiv:1204.3552](https://arxiv.org/abs/1204.3552) |  |
+| [[Star formation rate and sSFR]] | [Star formation](https://en.wikipedia.org/wiki/Star_formation) | [arXiv:1204.3552](https://arxiv.org/abs/1204.3552) |  |
+| [[Starburst galaxies]] | [Starburst galaxy](https://en.wikipedia.org/wiki/Starburst_galaxy) | [arXiv:1204.3552](https://arxiv.org/abs/1204.3552) | Commons |
+| [[Stellar mass function]] | [Galaxy formation and evolution](https://en.wikipedia.org/wiki/Galaxy_formation_and_evolution) | [arXiv:1804.03097](https://arxiv.org/abs/1804.03097) |  |
+| [[Stellar population synthesis]] | [Stellar population](https://en.wikipedia.org/wiki/Stellar_population) | [arXiv:1301.7095](https://arxiv.org/abs/1301.7095) | Commons |
+| [[Stellar-to-halo mass ratio]] | [Halo occupation distribution](https://en.wikipedia.org/wiki/Halo_occupation_distribution) | [arXiv:1804.03097](https://arxiv.org/abs/1804.03097) |  |
+| [[Strong vs weak lensing]] | [Weak gravitational lensing](https://en.wikipedia.org/wiki/Weak_gravitational_lensing) | [arXiv:astro-ph/9912508](https://arxiv.org/abs/astro-ph/9912508) | Commons |
+| [[Supernova Hubble diagram]] | [Type Ia supernova](https://en.wikipedia.org/wiki/Type_Ia_supernova) | [arXiv:1312.0628](https://arxiv.org/abs/1312.0628) |  |
+| [[Surface brightness dimming]] | [Tolman surface brightness test](https://en.wikipedia.org/wiki/Tolman_surface_brightness_test) |  | Commons |
+| [[Surveys to remember]] | [Astronomical survey](https://en.wikipedia.org/wiki/Astronomical_survey) |  | Commons |
+| [[Time-redshift relation]] | [Redshift](https://en.wikipedia.org/wiki/Redshift) |  | Commons |
+| [[Transition epochs]] | [Chronology of the universe](https://en.wikipedia.org/wiki/Chronology_of_the_universe) |  |  |
+| [[Tully-Fisher relation]] | [Tully–Fisher relation](https://en.wikipedia.org/wiki/Tully%E2%80%93Fisher_relation) |  | Commons |
+| [[UV SFR tracer]] | [Star formation](https://en.wikipedia.org/wiki/Star_formation) | [arXiv:1204.3552](https://arxiv.org/abs/1204.3552) |  |
+| [[UV slope and IRX-beta relation]] | [Cosmic dust](https://en.wikipedia.org/wiki/Cosmic_dust) | [arXiv:2001.03181](https://arxiv.org/abs/2001.03181) | Commons |
+| [[Various models of the universe]] | [Physical cosmology](https://en.wikipedia.org/wiki/Physical_cosmology) |  | Commons |
+| [[X-ray SFR tracer]] | [X-ray binary](https://en.wikipedia.org/wiki/X-ray_binary) |  | Commons |
+| [[ΛCDM current parameters]] | [Lambda-CDM model](https://en.wikipedia.org/wiki/Lambda-CDM_model) |  |  |
+
+<!-- /moc-sources:wiki-arxiv -->
+
 ## Prof. Giulia Rodighiero & Prof. Paolo Cassata Oral Exam Defense Preparation Matrix
 
 ### Question 1: Physics of CMB Acoustic Peaks and Parameter Sensitivities

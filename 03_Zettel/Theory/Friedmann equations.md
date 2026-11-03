@@ -64,6 +64,14 @@ $$H(z)^2 = H_0^2\!\left[\Omega_r(1+z)^4 + \Omega_m(1+z)^3 + \Omega_\Lambda + \Om
 
 each species's contribution scales with $z$ according to its equation of state. used for distance + age calculations in cosmology.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Friedmann equations**. "The Friedmann equations, also known as the Friedmann–Lemaître (FL) equations, are a set of equations in physical cosmology that govern cosmic expansion in homogeneous and isotropic models of the universe within the context of general relativity." ([Wikipedia](https://en.wikipedia.org/wiki/Friedmann_equations))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[FLRW metric]]

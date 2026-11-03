@@ -79,6 +79,14 @@ similar idea: speckle interferometry uses the fact that each short-exposure imag
 
 for design purposes, Taylor's hypothesis is good enough to set $\tau_0$ values; for fine-tuning AO performance, the limitations matter.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Turbulence**. "In fluid dynamics, turbulence or turbulent flow is fluid motion exhibiting chaotic changes in pressure and flow velocity. It is in contrast to laminar flow, which occurs when a fluid flows in parallel layers with no disruption between those layers." ([Wikipedia](https://en.wikipedia.org/wiki/Turbulence))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Atmospheric turbulence overview]]

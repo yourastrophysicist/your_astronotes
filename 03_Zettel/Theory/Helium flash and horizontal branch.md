@@ -30,6 +30,17 @@ based on $L_1$, clusters are classified into three groups: G1 (metal-rich, $[{\r
 
 CMD signatures and uses. the HB is a well-defined horizontal feature near $M_V = 0.5$ that anchors the cluster's distance modulus once $[\mathrm{Fe}/\mathrm{H}]$ is known (calibration $M_V^\mathrm{HB} = 0.18 [\mathrm{Fe}/\mathrm{H}] + 0.85$ approximately). its colour distribution encodes RGB mass loss and helium content, and the RR Lyrae stars within the strip provide a fully independent distance via the $PLZ$ relation.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Helium flash|500](https://commons.wikimedia.org/wiki/Special:FilePath/Helium_flash.svg?width=600)
+*Fusion of helium in the core of low mass stars* ([Commons file page](https://commons.wikimedia.org/wiki/File:Helium_flash.svg), RicHard-59, CC BY-SA 3.0, as used on the Wikipedia article [Helium flash](https://en.wikipedia.org/wiki/Helium_flash))
+
+- **Helium flash**. "A helium flash is a very brief thermal runaway nuclear fusion of large quantities of helium into carbon through the triple-alpha process in the core of low-mass stars (between 0.8 solar masses (M☉) and 2.0 M☉) during their red giant phase. The Sun is predicted to experience a flash 1.2 billion years after it leaves the main sequence." ([Wikipedia](https://en.wikipedia.org/wiki/Helium_flash))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 - [[Stellar_Astrophysics_MOC]]
 - [[Red giant branch RGB]]

@@ -57,6 +57,17 @@ $$\boxed{\, v_t = 4.7404 \, d(\text{pc}) \, \mu(''/\text{yr}) \approx 4.74 \, \f
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Proper motion|500](https://commons.wikimedia.org/wiki/Special:FilePath/Proper_motion.svg?width=600)
+*Vectors showing relation between an object's proper motion and its velocity* ([Commons file page](https://commons.wikimedia.org/wiki/File:Proper_motion.svg), Original: Brews ohare Vectorisation: CheChe, CC BY-SA 3.0, as used on the Wikipedia article [Proper motion](https://en.wikipedia.org/wiki/Proper_motion))
+
+- **Proper motion**. "Proper motion is the angular speed of an astronomical object, such as a star, as it moves across the sky. It is an astrometric measure, giving an object's change in angular position over time relative to the center of mass of the Solar System. This parameter is measured relative to the distant stars or a stable reference such as the International Celestial Reference Frame (ICRF)." ([Wikipedia](https://en.wikipedia.org/wiki/Proper_motion))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

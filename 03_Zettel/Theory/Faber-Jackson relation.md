@@ -231,6 +231,15 @@ When sketching the Faber-Jackson relation on the blackboard.
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Faber–Jackson relation**. "The Faber–Jackson relation provided the first empirical power-law relation between the luminosity L $L$ and the central stellar velocity dispersion σ $\sigma$ of elliptical galaxy, and was presented by the astronomers Sandra M. Faber and Robert Earl Jackson in 1976. Their relation can be expressed mathematically as: L ∝ σ γ $L\propto \sigma ^{\gamma }$ with the index γ $\gamma$ approximately equal to 4." ([Wikipedia](https://en.wikipedia.org/wiki/Faber%E2%80%93Jackson_relation))
+- **Structure and Kinematics of Early-Type Galaxies from Integral-Field Spectroscopy**. "Observations of galaxy isophotes, longs-slit kinematics and high-resolution photometry suggested a possible dichotomy between two distinct classes of E galaxies. But these methods are expensive for large galaxy samples. Instead, integral-field spectroscopic can efficiently recognize the shape, dynamics and stellar population of complete samples of early-type galaxies (ETGs)." ([arXiv:1602.04267](https://arxiv.org/abs/1602.04267))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Alpha-Fe enhancement]]

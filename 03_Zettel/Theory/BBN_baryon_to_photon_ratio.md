@@ -82,6 +82,18 @@ agreement of $\Omega_b h^2$ from BBN with $\Omega_b h^2$ from CMB peaks is one o
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Baryon asymmetry|500](https://commons.wikimedia.org/wiki/Special:FilePath/ElectronPositronAnnihilation.svg?width=600)
+*Annihilation of a electron and a positron creating an off shell photon which decays into an new electron positron pair* ([Commons file page](https://commons.wikimedia.org/wiki/File:ElectronPositronAnnihilation.svg), Dirk Hünniger, Joel Holdsworth, CC BY-SA 3.0, as used on the Wikipedia article [Baryon asymmetry](https://en.wikipedia.org/wiki/Baryon_asymmetry))
+
+- **Baryon asymmetry**. "In physical cosmology, the baryon asymmetry problem, also known as the matter asymmetry problem or the matter–antimatter asymmetry problem, is the observed imbalance in baryonic matter and antibaryonic matter in the observable universe." ([Wikipedia](https://en.wikipedia.org/wiki/Baryon_asymmetry))
+- **Big Bang Nucleosynthesis: 2015**. "Big-bang nucleosynthesis (BBN) describes the production of the lightest nuclides via a dynamic interplay among the four fundamental forces during the first seconds of cosmic time." ([arXiv:1505.01076](https://arxiv.org/abs/1505.01076))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

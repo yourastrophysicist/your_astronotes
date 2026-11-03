@@ -173,6 +173,96 @@ Canonical and modern arXiv astro-ph.IM benchmark papers underlying the detector 
 
 ---
 
+<!-- moc-sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+Every zettel in this map ends with a short sourced section: a definition quoted from Wikipedia (80 zettels) or from the abstract of an arXiv review (22 zettels), and, where a free figure exists, the credited lead figure of the Wikipedia article (Wikimedia Commons) or a figure from an openly licensed arXiv paper. The lecture-slide figures above are unchanged.
+
+| Zettel | Wikipedia | arXiv review | Figure |
+|---|---|---|---|
+| [[Adaptive optics overview]] | [Adaptive optics](https://en.wikipedia.org/wiki/Adaptive_optics) | [arXiv:1201.5741](https://arxiv.org/abs/1201.5741) | Commons |
+| [[Age-metallicity degeneracy]] | [Metallicity](https://en.wikipedia.org/wiki/Metallicity) | [arXiv:2106.13145](https://arxiv.org/abs/2106.13145) | Commons |
+| [[Alt-azimuth ↔ equatorial transformations]] | [Astronomical coordinate systems](https://en.wikipedia.org/wiki/Astronomical_coordinate_systems) |  | Commons |
+| [[Annual stellar parallax]] | [Stellar parallax](https://en.wikipedia.org/wiki/Stellar_parallax) |  | Commons |
+| [[Aperture photometry]] | [Photometry (astronomy)](https://en.wikipedia.org/wiki/Photometry_%28astronomy%29) |  | Commons |
+| [[Atmospheric dispersion]] | [Atmospheric refraction](https://en.wikipedia.org/wiki/Atmospheric_refraction) |  | Commons |
+| [[Atmospheric extinction]] | [Extinction (astronomy)](https://en.wikipedia.org/wiki/Extinction_%28astronomy%29) |  | Commons |
+| [[Atmospheric layers]] | [Atmosphere of Earth](https://en.wikipedia.org/wiki/Atmosphere_of_Earth) |  | Commons |
+| [[Atmospheric refraction]] | [Atmospheric refraction](https://en.wikipedia.org/wiki/Atmospheric_refraction) |  | Commons |
+| [[Atmospheric scintillation]] | [Twinkling](https://en.wikipedia.org/wiki/Twinkling) |  |  |
+| [[Atmospheric seeing]] | [Astronomical seeing](https://en.wikipedia.org/wiki/Astronomical_seeing) | [arXiv:1201.5741](https://arxiv.org/abs/1201.5741) | Commons |
+| [[Atmospheric transparency windows]] | [Atmospheric window](https://en.wikipedia.org/wiki/Atmospheric_window) |  | Commons |
+| [[AU calibration parallax and parsec]] | [Parsec](https://en.wikipedia.org/wiki/Parsec) |  | Commons |
+| [[Balmer decrement]] | [Balmer series](https://en.wikipedia.org/wiki/Balmer_series) |  |  |
+| [[Blackbody radiation and Stefan-Boltzmann]] | [Stefan–Boltzmann law](https://en.wikipedia.org/wiki/Stefan%E2%80%93Boltzmann_law) |  | Commons |
+| [[Bolometric correction and effective temperature]] | [Bolometric correction](https://en.wikipedia.org/wiki/Bolometric_correction) |  | Commons |
+| [[CCD basics]] | [Charge-coupled device](https://en.wikipedia.org/wiki/Charge-coupled_device) |  | Commons |
+| [[CCD calibration steps]] | [Flat-field correction](https://en.wikipedia.org/wiki/Flat-field_correction) |  | Commons |
+| [[CCD detectors and SNR]] | [Signal-to-noise ratio](https://en.wikipedia.org/wiki/Signal-to-noise_ratio) |  | Commons |
+| [[CCD noise sources]] | [Dark current (physics)](https://en.wikipedia.org/wiki/Dark_current_%28physics%29) |  |  |
+| [[CCD readout chain]] | [Charge-coupled device](https://en.wikipedia.org/wiki/Charge-coupled_device) |  | Commons |
+| [[Celestial sphere and great circles]] | [Celestial sphere](https://en.wikipedia.org/wiki/Celestial_sphere) |  | Commons |
+| [[Cepheid period-luminosity relation]] | [Cepheid variable](https://en.wikipedia.org/wiki/Cepheid_variable) | [arXiv:1004.1856](https://arxiv.org/abs/1004.1856) | Commons |
+| [[Cluster ages from CMD turnoff]] | [Main sequence turnoff](https://en.wikipedia.org/wiki/Main_sequence_turnoff) |  | Commons |
+| [[Color indices]] | [Color index](https://en.wikipedia.org/wiki/Color_index) |  |  |
+| [[Color-magnitude diagrams of clusters]] | [Hertzsprung–Russell diagram](https://en.wikipedia.org/wiki/Hertzsprung%E2%80%93Russell_diagram) |  | Commons |
+| [[Culmination and rise-set]] | [Culmination](https://en.wikipedia.org/wiki/Culmination) |  | Commons |
+| [[Distance ladder derivations]] | [Cosmic distance ladder](https://en.wikipedia.org/wiki/Cosmic_distance_ladder) | [arXiv:1004.1856](https://arxiv.org/abs/1004.1856) | Commons |
+| [[Distance modulus]] | [Distance modulus](https://en.wikipedia.org/wiki/Distance_modulus) |  |  |
+| [[Earth atmosphere for observations]] | [Atmosphere of Earth](https://en.wikipedia.org/wiki/Atmosphere_of_Earth) |  | Commons |
+| [[Earth coordinates]] | [Geographic coordinate system](https://en.wikipedia.org/wiki/Geographic_coordinate_system) |  | Commons |
+| [[Ecliptic system]] | [Ecliptic coordinate system](https://en.wikipedia.org/wiki/Ecliptic_coordinate_system) |  | Commons |
+| [[Equatorial system]] | [Equatorial coordinate system](https://en.wikipedia.org/wiki/Equatorial_coordinate_system) |  | Commons |
+| [[Filter systems and bandpasses]] | [Photometric system](https://en.wikipedia.org/wiki/Photometric_system) |  |  |
+| [[Fundamental plane of ellipticals]] | [Fundamental plane (elliptical galaxies)](https://en.wikipedia.org/wiki/Fundamental_plane_%28elliptical_galaxies%29) | [arXiv:1602.04267](https://arxiv.org/abs/1602.04267) |  |
+| [[Galactic coordinate system]] | [Galactic coordinate system](https://en.wikipedia.org/wiki/Galactic_coordinate_system) |  | Commons |
+| [[Horizontal alt-azimuth system]] | [Horizontal coordinate system](https://en.wikipedia.org/wiki/Horizontal_coordinate_system) |  | Commons |
+| [[HR diagram]] | [Hertzsprung–Russell diagram](https://en.wikipedia.org/wiki/Hertzsprung%E2%80%93Russell_diagram) |  | Commons |
+| [[Hubble flow distances]] | [Hubble's law](https://en.wikipedia.org/wiki/Hubble%27s_law) | [arXiv:1004.1856](https://arxiv.org/abs/1004.1856) | Commons |
+| [[Initial mass function]] | [Initial mass function](https://en.wikipedia.org/wiki/Initial_mass_function) | [arXiv:1001.2965](https://arxiv.org/abs/1001.2965) | Commons |
+| [[Interstellar absorption]] | [Extinction (astronomy)](https://en.wikipedia.org/wiki/Extinction_%28astronomy%29) |  | Commons |
+| [[K-correction]] | [K correction](https://en.wikipedia.org/wiki/K_correction) |  |  |
+| [[Lick indices]] | [Stellar population](https://en.wikipedia.org/wiki/Stellar_population) | [arXiv:1301.7095](https://arxiv.org/abs/1301.7095) | Commons |
+| [[Magnitudes and photometric systems]] | [Photometric system](https://en.wikipedia.org/wiki/Photometric_system) |  |  |
+| [[Main sequence, giants, supergiants, white dwarfs]] | [Main sequence](https://en.wikipedia.org/wiki/Main_sequence) |  | Commons |
+| [[Mass-luminosity relation]] | [Mass–luminosity relation](https://en.wikipedia.org/wiki/Mass%E2%80%93luminosity_relation) |  |  |
+| [[Metallicity and chemical evolution]] | [Metallicity](https://en.wikipedia.org/wiki/Metallicity) | [arXiv:2106.13145](https://arxiv.org/abs/2106.13145) | Commons |
+| [[Moving cluster method]] | [Moving-cluster method](https://en.wikipedia.org/wiki/Moving-cluster_method) |  |  |
+| [[Photometric redshifts]] | [Photometric redshift](https://en.wikipedia.org/wiki/Photometric_redshift) | [arXiv:1805.12574](https://arxiv.org/abs/1805.12574) |  |
+| [[Photometric system conversion and color terms]] | [Photometric system](https://en.wikipedia.org/wiki/Photometric_system) |  |  |
+| [[Planck law Wien Stefan-Boltzmann]] | [Planck's law](https://en.wikipedia.org/wiki/Planck%27s_law) |  | Commons |
+| [[Pogson magnitudes and flux relation]] | [Apparent magnitude](https://en.wikipedia.org/wiki/Apparent_magnitude) |  | Commons |
+| [[Precession nutation aberration parallax]] | [Axial precession](https://en.wikipedia.org/wiki/Axial_precession) |  | Commons |
+| [[Proper motion and stellar kinematics]] | [Proper motion](https://en.wikipedia.org/wiki/Proper_motion) |  | Commons |
+| [[PSF photometry]] | [Photometry (astronomy)](https://en.wikipedia.org/wiki/Photometry_%28astronomy%29) |  | Commons |
+| [[SED fitting basics]] | [Spectral energy distribution](https://en.wikipedia.org/wiki/Spectral_energy_distribution) | [arXiv:1301.7095](https://arxiv.org/abs/1301.7095) |  |
+| [[SFR tracers from population synthesis]] | [Star formation](https://en.wikipedia.org/wiki/Star_formation) | [arXiv:1204.3552](https://arxiv.org/abs/1204.3552) |  |
+| [[Sidereal vs solar time]] | [Sidereal time](https://en.wikipedia.org/wiki/Sidereal_time) |  | Commons |
+| [[Single stellar population SSP]] | [Stellar population](https://en.wikipedia.org/wiki/Stellar_population) | [arXiv:1301.7095](https://arxiv.org/abs/1301.7095) | Commons |
+| [[Sky brightness]] | [Sky brightness](https://en.wikipedia.org/wiki/Sky_brightness) |  | Commons |
+| [[Solar evolution and final stages]] | [Sun](https://en.wikipedia.org/wiki/Sun) |  | Commons |
+| [[Specific intensity flux luminosity]] | [Radiance](https://en.wikipedia.org/wiki/Radiance) |  |  |
+| [[Spectroscopic parallax and main-sequence fitting]] | [Spectroscopic parallax](https://en.wikipedia.org/wiki/Spectroscopic_parallax) |  |  |
+| [[Spherical trigonometry]] | [Spherical trigonometry](https://en.wikipedia.org/wiki/Spherical_trigonometry) |  | Commons |
+| [[SPS code families]] | [Stellar population](https://en.wikipedia.org/wiki/Stellar_population) | [arXiv:1301.7095](https://arxiv.org/abs/1301.7095) | Commons |
+| [[Star formation history of a population]] | [Star formation](https://en.wikipedia.org/wiki/Star_formation) | [arXiv:1204.3552](https://arxiv.org/abs/1204.3552) |  |
+| [[Stellar evolution timescales]] | [Stellar evolution](https://en.wikipedia.org/wiki/Stellar_evolution) |  | Commons |
+| [[Stellar population synthesis]] | [Stellar population](https://en.wikipedia.org/wiki/Stellar_population) | [arXiv:1301.7095](https://arxiv.org/abs/1301.7095) | Commons |
+| [[Stellar populations I II III]] | [Stellar population](https://en.wikipedia.org/wiki/Stellar_population) | [arXiv:1301.7095](https://arxiv.org/abs/1301.7095) | Commons |
+| [[Stellar scaling relations]] | [Mass–luminosity relation](https://en.wikipedia.org/wiki/Mass%E2%80%93luminosity_relation) |  |  |
+| [[Stellar spectra and spectral classification]] | [Stellar classification](https://en.wikipedia.org/wiki/Stellar_classification) |  | Commons |
+| [[Surface brightness fluctuations]] | [Surface brightness fluctuation](https://en.wikipedia.org/wiki/Surface_brightness_fluctuation) | [arXiv:1004.1856](https://arxiv.org/abs/1004.1856) | Commons |
+| [[The CCD equation]] | [Signal-to-noise ratio (imaging)](https://en.wikipedia.org/wiki/Signal-to-noise_ratio_%28imaging%29) |  |  |
+| [[Time keeping in astronomy]] | [Time standard](https://en.wikipedia.org/wiki/Time_standard) |  |  |
+| [[TRGB tip of the red giant branch]] | [Tip of the red-giant branch](https://en.wikipedia.org/wiki/Tip_of_the_red-giant_branch) | [arXiv:1004.1856](https://arxiv.org/abs/1004.1856) | Commons |
+| [[Tully-Fisher relation]] | [Tully–Fisher relation](https://en.wikipedia.org/wiki/Tully%E2%80%93Fisher_relation) |  | Commons |
+| [[Type Ia supernovae as standard candles]] | [Type Ia supernova](https://en.wikipedia.org/wiki/Type_Ia_supernova) | [arXiv:1312.0628](https://arxiv.org/abs/1312.0628) |  |
+| [[UV SFR tracer]] | [Star formation](https://en.wikipedia.org/wiki/Star_formation) | [arXiv:1204.3552](https://arxiv.org/abs/1204.3552) |  |
+| [[Variable stars as standard candles]] | [Variable star](https://en.wikipedia.org/wiki/Variable_star) |  | Commons |
+| [[Why hot massive stars dominate luminosity]] | [Mass–luminosity relation](https://en.wikipedia.org/wiki/Mass%E2%80%93luminosity_relation) |  |  |
+
+<!-- /moc-sources:wiki-arxiv -->
+
 ## Prof. Paolo Cassata Oral Exam Defense Preparation Matrix
 
 This matrix prepares the student for the exact questions asked by Prof. Paolo Cassata, drawn directly from the verified course exam drafts (`obs1.pdf` through `obs7.pdf`).

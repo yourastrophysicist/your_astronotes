@@ -78,6 +78,17 @@ equivalent statement: $\alpha = \Theta - h$. so a star is at the meridian (its h
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Equatorial coordinate system|500](https://commons.wikimedia.org/wiki/Special:FilePath/Celestial_Sphere_-_Equatorial_Coordinate_System.png?width=600)
+*A 3D depiction of the celestial sphere with the sky "wrapped" around Earth at the center. The full equatorial coordinate system is shown, along with locations of the Sun in the sky at equinoxes and solstices* ([Commons file page](https://commons.wikimedia.org/wiki/File:Celestial_Sphere_-_Equatorial_Coordinate_System.png), ChristianReady, CC BY-SA 4.0, as used on the Wikipedia article [Equatorial coordinate system](https://en.wikipedia.org/wiki/Equatorial_coordinate_system))
+
+- **Equatorial coordinate system**. "The equatorial coordinate system is a celestial coordinate system widely used to specify the positions of celestial objects." ([Wikipedia](https://en.wikipedia.org/wiki/Equatorial_coordinate_system))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

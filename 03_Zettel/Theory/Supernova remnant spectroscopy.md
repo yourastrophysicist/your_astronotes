@@ -65,6 +65,17 @@ a young SNR (937 yr old, observed in 1054 AD) with a **central pulsar** (PSR B05
 
 the Crab is **the** prototype pulsar wind nebula, key calibrator for high-energy astronomy.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Supernova remnant|500](https://commons.wikimedia.org/wiki/Special:FilePath/Crab_Nebula.jpg?width=600)
+*Lead figure of the Wikipedia article Supernova remnant* ([Commons file page](https://commons.wikimedia.org/wiki/File:Crab_Nebula.jpg), NASA, ESA, J. Hester and A. Loll (Arizona State University), Public domain, as used on the Wikipedia article [Supernova remnant](https://en.wikipedia.org/wiki/Supernova_remnant))
+
+- **Supernova remnant**. "A supernova remnant (SNR) is the structure resulting from the explosion of a star in a supernova. The supernova remnant is bounded by an expanding shock wave. It consists of ejected material expanding from the explosion, and the interstellar material it sweeps up and shocks along the way." ([Wikipedia](https://en.wikipedia.org/wiki/Supernova_remnant))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Supernova spectroscopy]]

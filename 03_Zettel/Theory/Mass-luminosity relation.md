@@ -66,6 +66,14 @@ $$\tau_{\rm MS} \approx 10\,\text{Gyr}\,\left(\frac{M}{M_\odot}\right)^{-2.5}$$
 3. **mass-to-light ratio stability in the infrared**:
    the mass-to-light ratio $\Upsilon_V \equiv M_*/L_V$ grows by a factor $> 100$ between ages $10$ Myr and $10$ Gyr. however, in the near-infrared $K$-band ($2.2\,\mu$m), red giants and low-mass MS stars emit near their Rayleigh-Jeans peak, keeping $\Upsilon_K \approx 0.6\text{--}1.0\,M_\odot/L_\odot$ stable within $\sim 30\%$ across all mature stellar ages. this makes near-IR photometry the gold standard for measuring total stellar masses in galaxies.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Mass–luminosity relation**. "In astrophysics, the mass–luminosity relation is an empirical and theoretical relationship between a star's mass and its luminosity The relationship is represented by the equation: L L ⊙ = ( M M ⊙ ) a ${\frac {L}{L_{\odot }}}=\left({\frac {M}{M_{\odot }}}\right)^{a}$ where L☉ and M☉ are the luminosity and mass of the Sun and 1 < a < 6. The value a = 3.5 is commonly used for main-sequence stars." ([Wikipedia](https://en.wikipedia.org/wiki/Mass%E2%80%93luminosity_relation))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Observational_Astrophysics_MOC]]

@@ -86,6 +86,18 @@ a deep question. if $\Omega_K(t)$ were anything but tiny in the early universe, 
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Flatness problem|500](https://commons.wikimedia.org/wiki/Special:FilePath/End_of_universe.jpg?width=600)
+*Lead figure of the Wikipedia article Flatness problem* ([Commons file page](https://commons.wikimedia.org/wiki/File:End_of_universe.jpg), see file page, Public domain, as used on the Wikipedia article [Flatness problem](https://en.wikipedia.org/wiki/Flatness_problem))
+
+- **Flatness problem**. "The flatness problem (also known as the oldness problem) is a cosmological fine-tuning problem within the Big Bang model of the universe. Measurements find the current universe close to perfectly flat and expansion of the universe increases flatness. Consequently the early universe must have been exceptionally close to flat." ([Wikipedia](https://en.wikipedia.org/wiki/Flatness_problem))
+- **TASI Lectures on Inflation**. "In a series of five lectures I review inflationary cosmology. I begin with a description of the initial conditions problems of the Friedmann-Robertson-Walker (FRW) cosmology and then explain how inflation, an early period of accelerated expansion, solves these problems." ([arXiv:0907.5424](https://arxiv.org/abs/0907.5424))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

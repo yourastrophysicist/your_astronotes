@@ -140,6 +140,14 @@ Mapelli's notes cover decision trees as a *teaser*, not a full ML curriculum. fo
 
 is enough.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Decision tree learning**. "Decision tree learning is a supervised learning approach used in statistics, data mining and machine learning. In this formalism, a classification or regression decision tree is used as a predictive model to draw conclusions about a set of observations." ([Wikipedia](https://en.wikipedia.org/wiki/Decision_tree_learning))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[What is machine learning]]

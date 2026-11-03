@@ -128,6 +128,17 @@ plt.semilogy(freqs, amplitude)
 plt.xlabel('frequency [Hz]'); plt.ylabel('amplitude')
 ```
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Fast Fourier transform|500](https://commons.wikimedia.org/wiki/Special:FilePath/DIT-FFT-butterfly.svg?width=600)
+*Decimation in time of a length-N DFT into two length-N/2 DFTs followed by a combining stage* ([Commons file page](https://commons.wikimedia.org/wiki/File:DIT-FFT-butterfly.svg), Yangwenbo99, CC BY-SA 4.0, as used on the Wikipedia article [Fast Fourier transform](https://en.wikipedia.org/wiki/Fast_Fourier_transform))
+
+- **Fast Fourier transform**. "A fast Fourier transform (FFT) is an algorithm that computes the discrete Fourier transform (DFT), or its inverse (IDFT), of a sequence. A Fourier transform converts a signal from its original domain (often time or space) to a representation in the frequency domain and vice versa. The DFT is obtained by decomposing a sequence of values into components of different frequencies." ([Wikipedia](https://en.wikipedia.org/wiki/Fast_Fourier_transform))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Discrete Fourier transform]]

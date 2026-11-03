@@ -188,6 +188,18 @@ When sketching the Magorrian relation during the oral examination.
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![M–sigma relation|500](https://commons.wikimedia.org/wiki/Special:FilePath/Msigma.jpg?width=600)
+*The M-sigma relation* ([Commons file page](https://commons.wikimedia.org/wiki/File:Msigma.jpg), Msigma at English Wikipedia, CC BY-SA 3.0, as used on the Wikipedia article [M–sigma relation](https://en.wikipedia.org/wiki/M%E2%80%93sigma_relation))
+
+- **M–sigma relation**. "The M–sigma (or M–σ) relation is an empirical correlation between the stellar velocity dispersion σ of a galaxy bulge and the mass M of the supermassive black hole at its center. The M–σ relation was first presented in 1999 during a conference at the Institut d'Astrophysique de Paris in France by David Merritt." ([Wikipedia](https://en.wikipedia.org/wiki/M%E2%80%93sigma_relation))
+- **Coevolution (Or Not) of Supermassive Black Holes and Host Galaxies**. "We review the observed demographics and inferred evolution of supermassive black holes (BHs) found by dynamical modeling of spatially resolved kinematics. Most influential was the discovery of a tight correlation between BH mass and the velocity dispersion of the host-galaxy bulge." ([arXiv:1304.7762](https://arxiv.org/abs/1304.7762))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Faber-Jackson relation]]

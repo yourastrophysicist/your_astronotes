@@ -101,6 +101,17 @@ skipping this step is the cause of more wrong-answer bugs than any algorithm cho
 - **finding eigenvalues by shooting**: bracket the energy, bisect on the wave-function boundary residual
 - **MCMC mode-finding**: Newton on the gradient of the log-posterior
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Root-finding algorithm|500](https://commons.wikimedia.org/wiki/Special:FilePath/Zeros_of_a_function.png?width=600)
+*The zeros of a function f, graphed in blue, are those places where the graph crosses the x-axis* ([Commons file page](https://commons.wikimedia.org/wiki/File:Zeros_of_a_function.png), Jacobolus, CC BY-SA 4.0, as used on the Wikipedia article [Root-finding algorithm](https://en.wikipedia.org/wiki/Root-finding_algorithm))
+
+- **Root-finding algorithm**. "In numerical analysis, a root-finding algorithm is an algorithm for finding zeros, also called roots, of a function. A root of the function f is a number x such that f(x) = 0. As the zeros typically cannot be computed exactly, nor expressed in closed form, root-finding algorithms provide approximations to the zeros." ([Wikipedia](https://en.wikipedia.org/wiki/Root-finding_algorithm))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Bisection method]]

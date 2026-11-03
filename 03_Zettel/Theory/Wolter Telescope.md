@@ -66,6 +66,17 @@ The main difference between them is given by the **ratio between the focal lengt
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Wolter telescope|500](https://commons.wikimedia.org/wiki/Special:FilePath/Wolter-I.svg?width=600)
+*Mirror arrangement of a Wolter telescope, type I* ([Commons file page](https://commons.wikimedia.org/wiki/File:Wolter-I.svg), Andreas 9384, CC BY-SA 4.0, as used on the Wikipedia article [Wolter telescope](https://en.wikipedia.org/wiki/Wolter_telescope))
+
+- **Wolter telescope**. "A Wolter telescope is a telescope for X-rays that only uses grazing incidence optics – mirrors that reflect X-rays at very shallow angles in the regime of total external reflection." ([Wikipedia](https://en.wikipedia.org/wiki/Wolter_telescope))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Angular Resolution]]

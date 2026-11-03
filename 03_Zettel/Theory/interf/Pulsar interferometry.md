@@ -104,6 +104,17 @@ these will:
 - detect *individual* SMBH binaries within ~10 years
 - precisely characterize the GW background
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Pulsar|500](https://commons.wikimedia.org/wiki/Special:FilePath/PIA18848-PSRB1509-58-ChandraXRay-WiseIR-20141023.jpg?width=600)
+*Lead figure of the Wikipedia article Pulsar* ([Commons file page](https://commons.wikimedia.org/wiki/File:PIA18848-PSRB1509-58-ChandraXRay-WiseIR-20141023.jpg), NASA/CXC/SAO (X-Ray); NASA/JPL-Caltech (Infrared), Public domain, as used on the Wikipedia article [Pulsar](https://en.wikipedia.org/wiki/Pulsar))
+
+- **Pulsar**. "A pulsar (pulsating star, on the model of quasar) is a highly magnetized rotating neutron star that emits beams of electromagnetic radiation out of its magnetic poles. This radiation can be observed only when a beam of emission is pointing toward Earth (similar to the way a lighthouse can be seen only when the light is pointed in the direction of an observer), and is responsible for the pulsed appearance of emission." ([Wikipedia](https://en.wikipedia.org/wiki/Pulsar))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Major radio interferometers]]

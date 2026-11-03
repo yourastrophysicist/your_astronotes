@@ -33,6 +33,17 @@ the **resolving power** of an $N$-line grating in order $m$ is
 $$R = \lambda/\Delta\lambda = m N$$
 for a $5000$-line grating in $m = 1$, $R = 5000$. typical optical spectrographs have $R = 10^3$ to $10^5$.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Diffraction grating|500](https://commons.wikimedia.org/wiki/Special:FilePath/Diffraction_grating.jpg?width=600)
+*World's largest multilayer dielectric diffraction grating in 2005* ([Commons file page](https://commons.wikimedia.org/wiki/File:Diffraction_grating.jpg), The original uploader was Deglr6328 at English Wikipedia., Public domain, as used on the Wikipedia article [Diffraction grating](https://en.wikipedia.org/wiki/Diffraction_grating))
+
+- **Diffraction grating**. "In optics, a diffraction grating is a grating with a periodic structure of appropriate scale so as to diffract light, or another type of electromagnetic radiation, into several beams traveling in different directions (i.e., different diffraction angles) known as diffracted orders. The emerging coloration is a form of structural coloration." ([Wikipedia](https://en.wikipedia.org/wiki/Diffraction_grating))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Single slit diffraction]]

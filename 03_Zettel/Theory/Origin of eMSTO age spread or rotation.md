@@ -91,6 +91,17 @@ if true, this unifies the eMSTO + chromosome map phenomena into a single evoluti
 - **Milone et al. 2018** — observational split upper MS.
 - **Marino et al. 2018** — spectroscopic confirmation.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Star cluster|500](https://commons.wikimedia.org/wiki/Special:FilePath/M44_47x300s-10%C2%B0C_O30_G0_PM_RGB_03032022.jpg?width=600)
+*Amateuraufnahme mit Lacerta Newton Teleskop, f4, 800 mm Brennweite* ([Commons file page](https://commons.wikimedia.org/wiki/File:M44_47x300s-10%C2%B0C_O30_G0_PM_RGB_03032022.jpg), Fried Lauterbach, CC BY-SA 4.0, as used on the Wikipedia article [Star cluster](https://en.wikipedia.org/wiki/Star_cluster))
+
+- **Star cluster**. "A star cluster is a group of stars, that share an origin, formed at roughly the same time and held together by self-gravitation. Two main types of star clusters can be distinguished: globular clusters, tight groups of ten thousand to millions of old stars which are gravitationally bound; and open clusters, less tight groups of stars, generally containing fewer than a few hundred members." ([Wikipedia](https://en.wikipedia.org/wiki/Star_cluster))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Extended main sequence turn-off eMSTO]]

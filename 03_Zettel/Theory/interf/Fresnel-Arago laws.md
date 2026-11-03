@@ -84,6 +84,14 @@ simple lab demo: a Young's two-slit setup with a polarizer in front of each slit
 
 this is a standard undergraduate physics experiment, and a clean demonstration of all three laws.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Fresnel–Arago laws**. "The Fresnel–Arago laws are three laws which summarise some of the more important properties of interference between light of different states of polarization. Augustin-Jean Fresnel and François Arago, both discovered the laws, which bear their name." ([Wikipedia](https://en.wikipedia.org/wiki/Fresnel%E2%80%93Arago_laws))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Light waves and the EM spectrum]]

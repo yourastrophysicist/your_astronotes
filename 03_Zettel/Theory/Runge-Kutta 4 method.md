@@ -86,6 +86,17 @@ even without an embedded estimator, I can estimate the local error by running RK
 - **dust grain dynamics** in a stellar wind
 - **isochrone integration** for stellar models
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Runge–Kutta methods|500](https://commons.wikimedia.org/wiki/Special:FilePath/Comparison_of_the_Runge-Kutta_methods_for_the_differential_equation_%28red_is_the_exact_solution%29.svg?width=600)
+*Comparison of the Runge-Kutta methods for the differential equation* ([Commons file page](https://commons.wikimedia.org/wiki/File:Comparison_of_the_Runge-Kutta_methods_for_the_differential_equation_%28red_is_the_exact_solution%29.svg), png image Svchb; svg image tobi; English translation by Profywld, CC BY-SA 3.0, as used on the Wikipedia article [Runge–Kutta methods](https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods))
+
+- **Runge–Kutta methods**. "In numerical analysis, the Runge–Kutta methods (English: RUUNG-ə-KUUT-tah) are a family of explicit and implicit iterative methods, which include the Euler method, used in discretization for the approximate solutions of differential equations. These methods were developed around 1900 by the German mathematicians Carl Runge and Wilhelm Kutta." ([Wikipedia](https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Euler method]]

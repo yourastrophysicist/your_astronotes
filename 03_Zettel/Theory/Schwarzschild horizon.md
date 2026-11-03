@@ -54,6 +54,18 @@ for typical objects:
 - **Sgr A$^\star$** ($4 \times 10^6\,M_\odot$): $r_s = 1.2 \times 10^7$ km, a bit bigger than the Sun.
 - **M87 BH** ($6.5 \times 10^9\,M_\odot$): $r_s = 1.9 \times 10^{10}$ km, ~$130$ AU.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Event horizon|500](https://commons.wikimedia.org/wiki/Special:FilePath/Black_hole_details.svg?width=600)
+*A simple illustration of a non-spinning black hole* ([Commons file page](https://commons.wikimedia.org/wiki/File:Black_hole_details.svg), Sandstorm de, CC BY-SA 4.0, as used on the Wikipedia article [Event horizon](https://en.wikipedia.org/wiki/Event_horizon))
+
+- **Event horizon**. "In astrophysics, an event horizon is a boundary in spacetime beyond which no signal can ever reach a given observer. Wolfgang Rindler coined the term in the 1950s. In 1784, John Michell proposed that gravity can be strong enough in the vicinity of massive compact objects that even light cannot escape." ([Wikipedia](https://en.wikipedia.org/wiki/Event_horizon))
+- **Lecture Notes on General Relativity**. "These notes represent approximately one semester's worth of lectures on introductory general relativity for beginning graduate students in physics. Topics include manifolds, Riemannian geometry, Einstein's equations, and three applications: gravitational radiation, black holes, and cosmology." ([arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Schwarzschild metric]]

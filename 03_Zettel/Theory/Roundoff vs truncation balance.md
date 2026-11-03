@@ -88,6 +88,14 @@ unless I have measured the optimal $h$ for my specific function:
 
 these are the conventional defaults in `scipy.optimize.approx_fprime` and `scipy.differentiate.derivative`.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Round-off error**. "In computing, a roundoff error, also called rounding error, is the difference between the result produced by a given algorithm using exact arithmetic and the result produced by the same algorithm using finite-precision, rounded arithmetic. Rounding errors are due to inexactness in the representation of real numbers and the arithmetic operations done with them. This is a form of quantization error." ([Wikipedia](https://en.wikipedia.org/wiki/Round-off_error))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Floating point representation and rounding errors]]

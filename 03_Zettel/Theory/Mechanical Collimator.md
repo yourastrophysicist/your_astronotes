@@ -83,6 +83,14 @@ Both instruments share the same fundamental limitation:
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Collimator**. "A collimator is a device which narrows a beam of particles or waves. “To narrow” can mean either to cause the directions of motion to become more aligned in a specific direction (i.e., make collimated light or parallel rays), or to cause the spatial cross section of the beam to become smaller (beam limiting device)." ([Wikipedia](https://en.wikipedia.org/wiki/Collimator))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Coded Mask]]

@@ -51,6 +51,17 @@ planned upgrades:
 
 these would push NPOI back toward the cutting edge of imaging.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Navy Precision Optical Interferometer|500](https://commons.wikimedia.org/wiki/Special:FilePath/NPOI.Usic.jpg?width=600)
+*Navy Prototype Optical Interferometer, Anderson Mesa, Flagstaff* ([Commons file page](https://commons.wikimedia.org/wiki/File:NPOI.Usic.jpg), spaceblanket, CC BY-SA 3.0, as used on the Wikipedia article [Navy Precision Optical Interferometer](https://en.wikipedia.org/wiki/Navy_Precision_Optical_Interferometer))
+
+- **Navy Precision Optical Interferometer**. "The Navy Precision Optical Interferometer (NPOI) is an American astronomical interferometer, with the world's largest baselines, operated by the Naval Research Laboratory (NRL). Until the end of 2022, it was operated by a consortium that included NRL with the Naval Observatory Flagstaff Station (NOFS) and Lowell Observatory." ([Wikipedia](https://en.wikipedia.org/wiki/Navy_Precision_Optical_Interferometer))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Components of a modern interferometer]]

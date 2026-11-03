@@ -168,6 +168,14 @@ rbf = RBFInterpolator(points, values, kernel='thin_plate_spline')
 - **scattered data outside the convex hull** of the input gives NaN with `method='cubic'`; nearest-neighbor extrapolation if `method='nearest'`
 - **periodic data** — use `bc_type='periodic'` in CubicSpline, or pre-replicate the data
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Interpolation**. "In the mathematical field of numerical analysis, interpolation is a type of estimation, a method of constructing (finding) new data points based on the range of a discrete set of known data points. In engineering and science, one often has a number of data points, obtained by sampling or experimentation, which represent the values of a function for a limited number of values of the independent variable." ([Wikipedia](https://en.wikipedia.org/wiki/Interpolation))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Linear interpolation]]

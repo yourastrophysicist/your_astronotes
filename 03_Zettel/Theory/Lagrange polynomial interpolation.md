@@ -87,6 +87,17 @@ with coefficients $a_i$ computed from divided differences. advantage: adding a n
 
 see [[Newton divided differences]].
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Lagrange polynomial|500](https://commons.wikimedia.org/wiki/Special:FilePath/Lagrange_polynomial.svg?width=600)
+*Lead figure of the Wikipedia article Lagrange polynomial* ([Commons file page](https://commons.wikimedia.org/wiki/File:Lagrange_polynomial.svg), User:Glosser.ca, CC BY-SA 3.0, as used on the Wikipedia article [Lagrange polynomial](https://en.wikipedia.org/wiki/Lagrange_polynomial))
+
+- **Lagrange polynomial**. "In numerical analysis, the Lagrange interpolating polynomial is the unique polynomial of lowest degree that interpolates a given set of data. Given a data set of coordinate pairs ⁠ ( x j , y j ) $\textstyle (x_{j},y_{j})$ ⁠, the ⁠ x j $\textstyle x_{j}$ ⁠ are called nodes and the ⁠ y j $\textstyle y_{j}$ ⁠ are called values." ([Wikipedia](https://en.wikipedia.org/wiki/Lagrange_polynomial))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Linear interpolation]]

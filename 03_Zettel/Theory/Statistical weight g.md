@@ -50,6 +50,17 @@ $$Z(T) = \sum_i g_i\,e^{-E_i/k_BT}$$
 
 at low $T$, $Z \approx g_{\rm ground}$ (only ground populated). at high $T$, more excited levels contribute. used in Saha when many levels are populated; tabulated in atomic-data libraries (NIST ASD, VALD).
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Degenerate energy levels|500](https://commons.wikimedia.org/wiki/Special:FilePath/Degenerate_energy_levels.svg?width=600)
+*A visual representation of degenerate energy levels in a quantum system* ([Commons file page](https://commons.wikimedia.org/wiki/File:Degenerate_energy_levels.svg), Anypodetos, CC BY-SA 4.0, as used on the Wikipedia article [Degenerate energy levels](https://en.wikipedia.org/wiki/Degenerate_energy_levels))
+
+- **Degenerate energy levels**. "In quantum mechanics, an energy level is degenerate if it corresponds to two or more different measurable states of a quantum system. Conversely, two or more different states of a quantum mechanical system are said to be degenerate if they give the same value of energy upon measurement." ([Wikipedia](https://en.wikipedia.org/wiki/Degenerate_energy_levels))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Atomic term symbols]]

@@ -22,6 +22,17 @@ two sub-phases:
 
 CMD signatures. AGB stars sit slightly *blueward* of the RGB at low $L$ but reach $L$ above the RGB tip. they are sparsely populated in low-mass clusters because the TP-AGB lifetime is short ($\sim 10^6$ yr); old MW GCs typically show a handful of AGB stars. the **AGB clump** or "AGB bump" is the analogue of the RGB bump for AGB stars. dusty AGBs are bright in mid-IR and provide the dominant *near-IR luminosity* of intermediate-age (1-2 Gyr) populations, complicating SSP models.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Asymptotic giant branch|500](https://commons.wikimedia.org/wiki/Special:FilePath/M5_colour_magnitude_diagram.png?width=600)
+*Lead figure of the Wikipedia article Asymptotic giant branch* ([Commons file page](https://commons.wikimedia.org/wiki/File:M5_colour_magnitude_diagram.png), Lithopsian, CC BY-SA 4.0, as used on the Wikipedia article [Asymptotic giant branch](https://en.wikipedia.org/wiki/Asymptotic_giant_branch))
+
+- **Asymptotic giant branch**. "The asymptotic giant branch (AGB) is a region of the Hertzsprung–Russell diagram populated by evolved cool luminous stars. This is a period of stellar evolution undertaken by all low- to intermediate-mass stars (about 0.5 to 8 solar masses) late in their lives. Observationally, an asymptotic-giant-branch star will appear as a bright red giant with a luminosity ranging up to thousands of times greater than the Sun." ([Wikipedia](https://en.wikipedia.org/wiki/Asymptotic_giant_branch))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 - [[Stellar_Astrophysics_MOC]]
 - [[Helium flash and horizontal branch]]

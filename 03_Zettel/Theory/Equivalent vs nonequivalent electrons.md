@@ -55,6 +55,17 @@ for any configuration with both equivalent and nonequivalent groups:
 
 textbooks (Cowan, *Theory of Atomic Structure*; Condon-Shortley) tabulate the allowed-terms tables for $\ell^n$ configurations up to filled shells.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Electron configuration|500](https://commons.wikimedia.org/wiki/Special:FilePath/Electron_orbitals.svg?width=600)
+*Electron orbitals* ([Commons file page](https://commons.wikimedia.org/wiki/File:Electron_orbitals.svg), Patricia.fidi, Public domain, as used on the Wikipedia article [Electron configuration](https://en.wikipedia.org/wiki/Electron_configuration))
+
+- **Electron configuration**. "In atomic physics and quantum chemistry, the electron configuration is the distribution of electrons of an atom or molecule (or other physical structure) in atomic or molecular orbitals. For example, the electron configuration of the neon atom is 1s2 2s2 2p6, meaning that the 1s, 2s, and 2p subshells are occupied by two, two, and six electrons, respectively." ([Wikipedia](https://en.wikipedia.org/wiki/Electron_configuration))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Quantum numbers and atomic states]]

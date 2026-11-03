@@ -105,6 +105,15 @@ these specific dependences are what make BBN such a powerful probe:
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Big Bang nucleosynthesis**. "In physical cosmology, Big Bang nucleosynthesis (also known as primordial nucleosynthesis, and abbreviated as BBN) is a model for the production of light nuclei (including, but not limited to, 2H, 3He, 4He, and 7Li) during the first ~20 minutes of the evolution of the universe." ([Wikipedia](https://en.wikipedia.org/wiki/Big_Bang_nucleosynthesis))
+- **Big Bang Nucleosynthesis: 2015**. "Big-bang nucleosynthesis (BBN) describes the production of the lightest nuclides via a dynamic interplay among the four fundamental forces during the first seconds of cosmic time." ([arXiv:1505.01076](https://arxiv.org/abs/1505.01076))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

@@ -65,6 +65,18 @@ while the IMF appears remarkably universal across the solar neighborhood, young 
 - **Population III**: pristine zero-metallicity gas lacking metal-line cooling predicts characteristic masses $M_{\rm char} \sim 10\text{--}100\,M_\odot$.
 - **open cluster segmentation**: Gaia DR3 analysis of 78 open clusters reveals a segmented IMF ($dN/dM \propto M^{-2.5}$ for $M > 1\,M_\odot$ and $M^{-1.5}$ for $M < 1\,M_\odot$; Cordoni et al. 2023).
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Initial mass function|500](https://commons.wikimedia.org/wiki/Special:FilePath/LH_95.jpg?width=600)
+*LH 95 stellar nursery in the Large Magellanic Cloud* ([Commons file page](https://commons.wikimedia.org/wiki/File:LH_95.jpg), NASA, ESA, and the Hubble Heritage Team (STScI/AURA)-ESA/Hubble Collaboration, Public domain, as used on the Wikipedia article [Initial mass function](https://en.wikipedia.org/wiki/Initial_mass_function))
+
+- **Initial mass function**. "In astronomy, the initial mass function (IMF) is an empirical function that describes the initial distribution of masses for a population of stars during star formation. IMF not only describes the formation and evolution of individual stars, it also serves as an important link that describes the formation and evolution of galaxies." ([Wikipedia](https://en.wikipedia.org/wiki/Initial_mass_function))
+- **A Universal Stellar Initial Mass Function? A Critical Look at Variations**. "Few topics in astronomy initiate such vigorous discussion as whether or not the initial mass function (IMF) of stars is universal, or instead sensitive to the initial conditions of star formation." ([arXiv:1001.2965](https://arxiv.org/abs/1001.2965))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Observational_Astrophysics_MOC]]

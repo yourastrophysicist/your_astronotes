@@ -47,6 +47,14 @@ while ionisation balance is primarily used for $\log g$ (see [[Spectroscopic det
 - absolute: $\Delta T_{\rm eff} \sim 100\text{-}300$ K
 - differential (star-to-star within similar parameters): $\Delta T_{\rm eff} \sim 10\text{-}50$ K
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Effective temperature**. "The effective temperature (aka ET) of a body such as a star or planet is the temperature of a black body that would emit the same total energy as electromagnetic radiation. Effective temperature is often used as an estimate of a body's surface temperature when the body's emissivity curve (as a function of wavelength) is not known." ([Wikipedia](https://en.wikipedia.org/wiki/Effective_temperature))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 - [[Atmospheric parameters Teff log g feh vmicro]]
 - [[Spectroscopic determination of log g]]

@@ -105,6 +105,15 @@ David Fried introduced the parameter in his 1965 paper "Statistics of a Geometri
 
 the parameter is now everywhere in optical astronomy and adaptive-optics literature. when someone says "the seeing is 0.6 arcsecond" they implicitly mean $r_0 \approx 17$ cm at 500 nm.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Fried parameter**. "When observing a star through a telescope, the atmosphere distorts the incoming light, making images blurry and causing stars to twinkle. The Fried parameter, or Fried's coherence length, is a quantity that measures the strength of this optical distortion. It is denoted by the symbol r 0 $r_{0}$ and has units of length, usually expressed in centimeters." ([Wikipedia](https://en.wikipedia.org/wiki/Fried_parameter))
+- **Adaptive Optics for Astronomy**. "Adaptive Optics is a prime example of how progress in observational astronomy can be driven by technological developments." ([arXiv:1201.5741](https://arxiv.org/abs/1201.5741))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Atmospheric turbulence overview]]

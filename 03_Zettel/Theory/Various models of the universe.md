@@ -87,6 +87,17 @@ at high $z$ ($z \gtrsim 0.5$): $\Lambda$CDM predicts SN Ia **fainter** than EdS 
 
 this is the SN Ia signature that revolutionised cosmology in 1998.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Physical cosmology|500](https://commons.wikimedia.org/wiki/Special:FilePath/CMB_Timeline300_no_WMAP.jpg?width=600)
+*Lead figure of the Wikipedia article Physical cosmology* ([Commons file page](https://commons.wikimedia.org/wiki/File:CMB_Timeline300_no_WMAP.jpg), NASA/WMAP Science Team, Public domain, as used on the Wikipedia article [Physical cosmology](https://en.wikipedia.org/wiki/Physical_cosmology))
+
+- **Physical cosmology**. "Physical cosmology is a branch of physics concerned with modeling the universe based on the laws of physics. A cosmological model provides a mathematical description of the largest-scale structures and dynamics of the universe and allows study of fundamental questions about its origin, structure, evolution, and ultimate fate." ([Wikipedia](https://en.wikipedia.org/wiki/Physical_cosmology))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Friedmann equations]]

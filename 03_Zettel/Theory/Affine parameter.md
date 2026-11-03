@@ -46,6 +46,18 @@ sometimes useful to use a different parameter. for example, in computing photon 
 
 practical: convert to an affine parameter when doing physics; convert back when comparing to coordinate-based observation.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Affine connection|500](https://commons.wikimedia.org/wiki/Special:FilePath/Parallel_transport_sphere.svg?width=600)
+*An affine connection on the sphere rolls the affine tangent plane from one point to another. As it does so, the point of contact traces out a curve in the plane: the development* ([Commons file page](https://commons.wikimedia.org/wiki/File:Parallel_transport_sphere.svg), Silly rabbit at English Wikipedia, CC BY-SA 3.0, as used on the Wikipedia article [Affine connection](https://en.wikipedia.org/wiki/Affine_connection))
+
+- **Affine connection**. "In differential geometry, an affine connection is a geometric object on a smooth manifold which connects nearby tangent spaces, so it permits tangent vector fields to be differentiated as if they were functions on the manifold with values in a fixed vector space. Connections are among the simplest methods of defining differentiation of the sections of vector bundles." ([Wikipedia](https://en.wikipedia.org/wiki/Affine_connection))
+- **Lecture Notes on General Relativity**. "These notes represent approximately one semester's worth of lectures on introductory general relativity for beginning graduate students in physics. Topics include manifolds, Riemannian geometry, Einstein's equations, and three applications: gravitational radiation, black holes, and cosmology." ([arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Geodesic equation]]

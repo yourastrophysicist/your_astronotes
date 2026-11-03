@@ -52,6 +52,15 @@ for radiation, $T = -\rho + 3p = 0$. so the trace-reversed form gives $R_{\mu\nu
 
 both are equivalent. choice is a matter of computational convenience.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Einstein field equations**. "In the general theory of relativity, the Einstein field equations (EFE; also known as Einstein's equations) relate the geometry of spacetime to the distribution of matter-energy within it." ([Wikipedia](https://en.wikipedia.org/wiki/Einstein_field_equations))
+- **Lecture Notes on General Relativity**. "These notes represent approximately one semester's worth of lectures on introductory general relativity for beginning graduate students in physics. Topics include manifolds, Riemannian geometry, Einstein's equations, and three applications: gravitational radiation, black holes, and cosmology." ([arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Einstein equations]]

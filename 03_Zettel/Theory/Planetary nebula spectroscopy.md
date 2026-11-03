@@ -59,6 +59,17 @@ PN abundances reflect the **AGB nucleosynthesis** of the progenitor:
 
 so PN spectra carry the chemical legacy of intermediate-mass star evolution and contribute to Galactic chemical evolution.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Planetary nebula|500](https://commons.wikimedia.org/wiki/Special:FilePath/Planetary_nebulae_with_annotated_information.jpg?width=600)
+*Lead figure of the Wikipedia article Planetary nebula* ([Commons file page](https://commons.wikimedia.org/wiki/File:Planetary_nebulae_with_annotated_information.jpg), Pablo Carlos Budassi, CC BY-SA 4.0, as used on the Wikipedia article [Planetary nebula](https://en.wikipedia.org/wiki/Planetary_nebula))
+
+- **Planetary nebula**. "A planetary nebula is a type of emission nebula consisting of an expanding, glowing shell of ionized gas ejected from red giant stars late in their lives. The term "planetary nebula" is a misnomer because they are unrelated to planets. The term originates from the planet-like round shape of these nebulae observed by astronomers through early telescopes." ([Wikipedia](https://en.wikipedia.org/wiki/Planetary_nebula))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[H II region spectroscopy]]

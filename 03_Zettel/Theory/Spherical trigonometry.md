@@ -108,6 +108,17 @@ so once I know the three master equations and the sine rule, everything else is 
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Spherical trigonometry|500](https://commons.wikimedia.org/wiki/Special:FilePath/Triangle_trirectangle.png?width=600)
+*Lead figure of the Wikipedia article Spherical trigonometry* ([Commons file page](https://commons.wikimedia.org/wiki/File:Triangle_trirectangle.png), Coyau, CC BY-SA 3.0, as used on the Wikipedia article [Spherical trigonometry](https://en.wikipedia.org/wiki/Spherical_trigonometry))
+
+- **Spherical trigonometry**. "Spherical trigonometry is the branch of spherical geometry and trigonometry that deals with the metrical relationships between the sides and angles of spherical triangles, traditionally expressed using trigonometric functions. On the sphere, geodesics are great circles. Spherical trigonometry is of great importance for calculations in astronomy, geodesy, and navigation." ([Wikipedia](https://en.wikipedia.org/wiki/Spherical_trigonometry))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

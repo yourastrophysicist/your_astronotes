@@ -64,6 +64,17 @@ unique because we can spatially resolve the surface. observations show:
 
 other stars are point sources, but Sun-as-a-star spectroscopy + interferometric resolution of bright stars (Betelgeuse, Antares) extends the picture.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Stellar atmosphere|500](https://commons.wikimedia.org/wiki/Special:FilePath/Solar_eclipse_1999_4.jpg?width=600)
+*Total Solar eclipse in France* ([Commons file page](https://commons.wikimedia.org/wiki/File:Solar_eclipse_1999_4.jpg), Luc Viatour, CC BY-SA 3.0, as used on the Wikipedia article [Stellar atmosphere](https://en.wikipedia.org/wiki/Stellar_atmosphere))
+
+- **Stellar atmosphere**. "The stellar atmosphere is the outer region of the volume of a star, lying above the stellar core, radiation zone and convection zone." ([Wikipedia](https://en.wikipedia.org/wiki/Stellar_atmosphere))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Equation of radiative transfer]]

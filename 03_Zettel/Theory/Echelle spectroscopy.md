@@ -52,6 +52,17 @@ backbone of Galactic Archaeology surveys: GALAH, APOGEE-2, 4MOST-HR. abundance-p
 - **HIRES** (Keck): historic high-$z$ galaxy and quasar spectroscopy.
 - **FEROS** at La Silla: small-aperture echelle.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Echelle grating|500](https://commons.wikimedia.org/wiki/Special:FilePath/Echelle_Principle.svg?width=600)
+*Lead figure of the Wikipedia article Echelle grating* ([Commons file page](https://commons.wikimedia.org/wiki/File:Echelle_Principle.svg), Boris Považay (Cardiff University), Public domain, as used on the Wikipedia article [Echelle grating](https://en.wikipedia.org/wiki/Echelle_grating))
+
+- **Echelle grating**. "An echelle grating (from French échelle, meaning "ladder") is a type of diffraction grating characterised by a relatively low groove density, but a groove shape optimized for use at high incidence angles and therefore in high diffraction orders. Higher diffraction orders provide increased dispersion (spacing) of spectral features at the detector, enabling increased differentiation of these features." ([Wikipedia](https://en.wikipedia.org/wiki/Echelle_grating))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Grating equation]]

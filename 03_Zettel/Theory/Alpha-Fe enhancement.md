@@ -260,6 +260,17 @@ Key quantitative takeaways for the blackboard
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Alpha process|500](https://commons.wikimedia.org/wiki/Special:FilePath/Kernfusionen1_en.png?width=600)
+*Creation of elements beyond carbon through alpha process* ([Commons file page](https://commons.wikimedia.org/wiki/File:Kernfusionen1_en.png), Qniemiec, CC BY-SA 4.0, as used on the Wikipedia article [Alpha process](https://en.wikipedia.org/wiki/Alpha_process))
+
+- **Alpha process**. "The alpha process, also known as alpha capture or the alpha ladder, is one of two classes of nuclear fusion reactions by which stars convert helium into heavier elements. The other class is a cycle of reactions called the triple-alpha process, which consumes only helium, and produces carbon. The alpha process most commonly occurs in massive stars and during supernovae." ([Wikipedia](https://en.wikipedia.org/wiki/Alpha_process))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Color gradients in ellipticals]]

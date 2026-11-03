@@ -58,6 +58,15 @@ $R_{00} = -3\ddot a/a$, $R_{ij} = (a\ddot a + 2\dot a^2 + 2k)\,\gamma_{ij}$, $R 
 ### gravitational wave (linearised TT)
 $R_{\mu\nu} = 0$ to first order in $h$ (vacuum). $R = 0$. but $R_{0x0x} \sim \ddot h_+$ is non-zero (the Weyl part). this is what LIGO measures.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Ricci curvature**. "In differential geometry, the Ricci curvature tensor, named after Gregorio Ricci-Curbastro, measures how a curved space locally differs from flat space by tracking how nearby geodesics spread apart or converge. Formally, it is a symmetric rank-two tensor obtained by taking a trace of the Riemann curvature tensor of a Riemannian or pseudo-Riemannian metric." ([Wikipedia](https://en.wikipedia.org/wiki/Ricci_curvature))
+- **Lecture Notes on General Relativity**. "These notes represent approximately one semester's worth of lectures on introductory general relativity for beginning graduate students in physics. Topics include manifolds, Riemannian geometry, Einstein's equations, and three applications: gravitational radiation, black holes, and cosmology." ([arXiv:gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Riemann tensor]]

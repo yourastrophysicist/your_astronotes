@@ -47,6 +47,17 @@ Holtsmark (1919) derived the field distribution of perturbing ions in a quasi-st
 
 at $T < 7000$ K, van der Waals dominates for most lines (collisions with neutral H, He). at $T > 10\,000$ K, Stark dominates for H lines. metals see both regimes depending on conditions.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Stark effect|500](https://commons.wikimedia.org/wiki/Special:FilePath/Hfspec1.svg?width=600)
+*Energy level spectra of hydrogen in electric field* ([Commons file page](https://commons.wikimedia.org/wiki/File:Hfspec1.svg), Д.Ильин: vectorization, translation, CC0, as used on the Wikipedia article [Stark effect](https://en.wikipedia.org/wiki/Stark_effect))
+
+- **Stark effect**. "The Stark effect is the shifting and splitting of spectral lines of atoms and molecules due to the presence of an external electric field. It is the electric-field analogue of the Zeeman effect, where a spectral line is split into several components due to the presence of the magnetic field." ([Wikipedia](https://en.wikipedia.org/wiki/Stark_effect))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Collisional pressure broadening]]

@@ -58,6 +58,14 @@ surface brightness $\sigma = $ flux per solid angle $\propto F/\theta^2 = (L/d_L
 
 see [[Surface brightness dimming]].
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Luminosity distance**. "Luminosity distance DL is defined in terms of the relationship between the absolute magnitude M and apparent magnitude m of an astronomical object. M = m − 5 log 10 ⁡ D L 10 pc $M=m-5\log _{10}{\frac {D_{L}}{10\,{\text{pc}}}}\!\,$ which gives: D L = 10 ( m − M ) 5 + 1 $D_{L}=10^{ {\frac {(m-M)}{5}}+1}$ where DL is measured in parsecs." ([Wikipedia](https://en.wikipedia.org/wiki/Luminosity_distance))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - 03_Zettel/Theory/Cosmological distances

@@ -84,6 +84,14 @@ $$\det A = (-1)^{\text{swaps}} \prod_{k=1}^N A_{kk}$$
 
 after elimination. the parity of the number of row swaps must be tracked.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Pivot element**. "The pivot or pivot element is the element of a matrix, or an array, which is selected first by an algorithm (e.g. Gaussian elimination, simplex algorithm, etc.), to do certain calculations. In the case of matrix algorithms, a pivot entry is usually required to be at least distinct from zero, and often distant from it; in this case finding this element is called pivoting." ([Wikipedia](https://en.wikipedia.org/wiki/Pivot_element))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Gauss elimination]] — the unpivoted algorithm

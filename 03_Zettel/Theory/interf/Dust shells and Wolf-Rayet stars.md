@@ -113,6 +113,14 @@ ALMA observes the *cooler* outer dust shells (sub-mm thermal emission). VLTI/CHA
 
 modern WR star observations routinely combine both, telling a complete story of how a star loses mass and becomes a supernova progenitor.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Wolf–Rayet star**. "Wolf–Rayet stars, often abbreviated as WR stars, are a rare heterogeneous set of stars with unusual spectra showing prominent broad emission lines of ionised helium and highly ionised nitrogen or carbon. The spectra indicate very high surface enhancement of heavy elements, depletion of hydrogen, and strong stellar winds." ([Wikipedia](https://en.wikipedia.org/wiki/Wolf%E2%80%93Rayet_star))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Stellar surface imaging]]

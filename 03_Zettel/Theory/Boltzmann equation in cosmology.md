@@ -91,6 +91,17 @@ so once you have the cross-sections and masses, you can in principle compute the
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Boltzmann equation|500](https://commons.wikimedia.org/wiki/Special:FilePath/StairsOfReduction.svg?width=600)
+*Stairs of model reduction from microscopic dynamics to macroscopic continuum dynamics* ([Commons file page](https://commons.wikimedia.org/wiki/File:StairsOfReduction.svg), Jarash The copyright holder of this file, User:Agor153, allows anyone to use it for any purpose, provided that the copyr, CC BY-SA 3.0, as used on the Wikipedia article [Boltzmann equation](https://en.wikipedia.org/wiki/Boltzmann_equation))
+
+- **Boltzmann equation**. "The Boltzmann equation or Boltzmann transport equation (BTE) describes the statistical behaviour of a thermodynamic system not in a state of equilibrium; it was devised by Ludwig Boltzmann in 1872. The classic example of such a system is a fluid with temperature gradients in space causing heat to flow from hotter regions to colder ones, by the random but biased transport of the particles making up that fluid." ([Wikipedia](https://en.wikipedia.org/wiki/Boltzmann_equation))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

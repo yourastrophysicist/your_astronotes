@@ -129,6 +129,14 @@ df.to_parquet("processed.parquet")     # binary, much faster
 - splitting a sample by redshift bin and computing color-magnitude statistics
 - aggregating photometric points into nightly averages
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Pandas (software)**. "Pandas (styled as pandas) is a software library written for the Python programming language for data manipulation and analysis. In particular, it offers data structures and operations for manipulating numerical tables and time series. It is free software released under the three-clause BSD license." ([Wikipedia](https://en.wikipedia.org/wiki/Pandas_%28software%29))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Numpy arrays vs Python lists]]

@@ -167,6 +167,17 @@ When asked by Prof. Pizzella - *"What is the SDSS, how did its photometric and s
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Sloan Digital Sky Survey|500](https://commons.wikimedia.org/wiki/Special:FilePath/NGC5681_-_SDSS_DR14.jpg?width=600)
+*Lead figure of the Wikipedia article Sloan Digital Sky Survey* ([Commons file page](https://commons.wikimedia.org/wiki/File:NGC5681_-_SDSS_DR14.jpg), Sloan Digital Sky Survey, CC BY 4.0, as used on the Wikipedia article [Sloan Digital Sky Survey](https://en.wikipedia.org/wiki/Sloan_Digital_Sky_Survey))
+
+- **Sloan Digital Sky Survey**. "The Sloan Digital Sky Survey (SDSS) is a major multi-spectral imaging and spectroscopic redshift survey using a dedicated 2.5-m wide-angle optical telescope at Apache Point Observatory in New Mexico, United States. The project was named after the Alfred P. Sloan Foundation, which contributed significant funding. Data collection began in 2000." ([Wikipedia](https://en.wikipedia.org/wiki/Sloan_Digital_Sky_Survey))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Color bimodality of galaxies]]

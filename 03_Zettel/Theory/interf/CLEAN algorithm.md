@@ -118,6 +118,14 @@ reading cue: CLEAN starts from a dirty image like this: real sky convolved with 
 
 source: S. T. Myers, NRAO Synthesis Imaging Summer School page on snapshot imaging.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **CLEAN (algorithm)**. "The CLEAN algorithm is a computational algorithm to perform a deconvolution on images created in radio astronomy. It was published by Jan Högbom in 1974 and several variations have been proposed since then. The algorithm assumes that the image consists of a number of point sources." ([Wikipedia](https://en.wikipedia.org/wiki/CLEAN_%28algorithm%29))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Dirty beam and dirty image]]

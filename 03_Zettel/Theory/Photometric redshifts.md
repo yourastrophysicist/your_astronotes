@@ -72,6 +72,15 @@ photo-$z$ quality is quantified by two standard metrics evaluated against spectr
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Photometric redshift**. "A photometric redshift is an estimate for the recession velocity of an astronomical object such as a galaxy or quasar, made without measuring its spectrum." ([Wikipedia](https://en.wikipedia.org/wiki/Photometric_redshift))
+- **The many flavours of photometric redshifts**. "For more that seventy years, the measurements of fluxes of galaxies at different wavelengths and derived colours have been used to estimate their corresponding cosmological distances. From the fields of galaxy and AGN evolution to precision cosmology, the number of scientific projects relying on such distance measurements, called photometric redshifts, have exploded." ([arXiv:1805.12574](https://arxiv.org/abs/1805.12574))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Observational_Astrophysics_MOC]]

@@ -31,6 +31,14 @@ so a single blazed grating is **optimal for one $\lambda$ region**. to cover mul
 
 echelle gratings are blazed at very high $\theta_B$ to send light into very high orders ($m = 30$ to $100$). this gives high $R$ in compact instruments, but requires a cross-disperser to separate the densely overlapping orders.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Blazed grating**. "A blazed grating – also called echelette grating (from French échelle lit. 'ladder') – is a special type of diffraction grating. It is optimized to achieve maximum light efficiency in a given diffraction order. For this purpose, maximum optical power is concentrated in the desired diffraction order while the residual power in the other orders (particularly the zeroth) is minimized." ([Wikipedia](https://en.wikipedia.org/wiki/Blazed_grating))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Grating equation]]

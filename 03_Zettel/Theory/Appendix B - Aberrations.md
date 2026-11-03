@@ -75,6 +75,17 @@ This is the best possible angular resolution
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Optical aberration|500](https://commons.wikimedia.org/wiki/Special:FilePath/Lens_chromatic_aberration.png?width=600)
+*Scheme of chromatic aberation of an optical lense* ([Commons file page](https://commons.wikimedia.org/wiki/File:Lens_chromatic_aberration.png), Panther, uploaded here by Maksim, CC BY-SA 3.0, as used on the Wikipedia article [Optical aberration](https://en.wikipedia.org/wiki/Optical_aberration))
+
+- **Optical aberration**. "In optics, aberration is a property of optical systems, such as lenses and mirrors, that causes the image created by the optical system to not be a true reproduction of the object being observed. Aberrations cause the image formed by a lens to be blurred, distorted in shape or have color fringing or other effects not seen in the object, with the nature of the distortion depending on the type of aberration." ([Wikipedia](https://en.wikipedia.org/wiki/Optical_aberration))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Lab_High-Energy_MOC]]

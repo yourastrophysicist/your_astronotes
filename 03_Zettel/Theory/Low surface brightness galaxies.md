@@ -241,6 +241,17 @@ When asked by Prof. Pizzella - *"What are Low Surface Brightness galaxies, why w
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Low surface brightness galaxy|500](https://commons.wikimedia.org/wiki/Special:FilePath/NGC_45_GALEX_WikiSky.jpg?width=600)
+*NGC 45 galaxy by GALEX* ([Commons file page](https://commons.wikimedia.org/wiki/File:NGC_45_GALEX_WikiSky.jpg), en:NASA, en:WikiSky, Public domain, as used on the Wikipedia article [Low surface brightness galaxy](https://en.wikipedia.org/wiki/Low_surface_brightness_galaxy))
+
+- **Low surface brightness galaxy**. "A low-surface-brightness galaxy, or LSB galaxy, is a diffuse galaxy with a surface brightness that, when viewed from Earth, is at least one magnitude lower than the ambient night sky. Most LSBs are dwarf galaxies, and most of their baryonic matter is in the form of neutral gaseous hydrogen, rather than stars. They appear to have over 95% of their mass as non-baryonic dark matter." ([Wikipedia](https://en.wikipedia.org/wiki/Low_surface_brightness_galaxy))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Dark matter in dwarf galaxies]]

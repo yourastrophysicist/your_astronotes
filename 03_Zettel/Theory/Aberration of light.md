@@ -70,6 +70,17 @@ students frequently confuse aberration and parallax. they must be rigorously dis
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Aberration (astronomy)|500](https://commons.wikimedia.org/wiki/Special:FilePath/Simple_stellar_aberration_diagram.svg?width=600)
+*simple diagram of (stellar) aberration* ([Commons file page](https://commons.wikimedia.org/wiki/File:Simple_stellar_aberration_diagram.svg), BlankAxolotl, CC BY-SA 3.0, as used on the Wikipedia article [Aberration (astronomy)](https://en.wikipedia.org/wiki/Aberration_%28astronomy%29))
+
+- **Aberration (astronomy)**. "In astronomy, aberration (also referred to as astronomical aberration, stellar aberration, or velocity aberration) is a phenomenon where celestial objects exhibit an apparent motion about their true positions based on the velocity of the observer: It causes objects to appear to be displaced towards the observer's direction of motion." ([Wikipedia](https://en.wikipedia.org/wiki/Aberration_%28astronomy%29))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

@@ -56,6 +56,17 @@ at very high column density, the line core saturates (zero flux) and the optical
 
 DLA systems in QSO sight lines have $N \sim 10^{20}$ to $10^{22}$ cm$^{-2}$ of HI; their Lyman alpha line shows extreme damping wings extending many Å. the wing width directly gives $N$.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Voigt profile|500](https://commons.wikimedia.org/wiki/Special:FilePath/VoigtPDF.svg?width=600)
+*SVG version of * ([Commons file page](https://commons.wikimedia.org/wiki/File:VoigtPDF.svg), Shiyu Ji, CC BY-SA 4.0, as used on the Wikipedia article [Voigt profile](https://en.wikipedia.org/wiki/Voigt_profile))
+
+- **Voigt profile**. "The Voigt profile (named after Woldemar Voigt) is a probability distribution given by a convolution of a Cauchy–Lorentz distribution and a Gaussian distribution. It is often used in analyzing data from spectroscopy or diffraction." ([Wikipedia](https://en.wikipedia.org/wiki/Voigt_profile))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Line profile function phi nu]]

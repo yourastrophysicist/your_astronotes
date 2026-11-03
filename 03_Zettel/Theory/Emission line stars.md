@@ -69,6 +69,17 @@ emission-line stars trace specific evolutionary phases:
 
 each connects to the broader narrative of massive-star evolution.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Be star|500](https://commons.wikimedia.org/wiki/Special:FilePath/Achernar.svg?width=600)
+*Shape of w:en:Achernar. there is a disk of gas near equator* ([Commons file page](https://commons.wikimedia.org/wiki/File:Achernar.svg), Fred the Oyster iThe source code of this SVG is valid. This vector image was created with Adobe Illustrator by v., CC BY-SA 4.0, as used on the Wikipedia article [Be star](https://en.wikipedia.org/wiki/Be_star))
+
+- **Be star**. "Be stars are a heterogeneous set of stars with B spectral types and emission lines. A narrower definition, sometimes referred to as classical Be stars, is a non-supergiant B star whose spectrum has, or had at some time, one or more Balmer emission lines." ([Wikipedia](https://en.wikipedia.org/wiki/Be_star))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Galactic novae spectroscopy]]

@@ -86,6 +86,14 @@ reading cue: interference is not an abstract word here. it is literally wave amp
 
 source: local study diagram generated from the standard Young/Fraunhofer geometry.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Superposition principle**. "The superposition principle, also known as superposition property, states that, for all linear systems, the net response caused by two or more stimuli is the sum of the responses that would have been caused by each stimulus individually. So that if input A produces response X, and input B produces response Y, then input (A + B) produces response (X + Y)." ([Wikipedia](https://en.wikipedia.org/wiki/Superposition_principle))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Plane waves and Huygens principle]]

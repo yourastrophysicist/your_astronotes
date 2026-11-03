@@ -233,6 +233,15 @@ When sketching the Schmidt-Kennicutt law on the blackboard.
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Kennicutt–Schmidt law**. "In astronomy, the Kennicutt–Schmidt law is an empirical relation between the surface gas density and star formation rate (SFR) in a given region. The relation was first examined by Maarten Schmidt in a 1959 paper where he proposed a relationship between the surface density of gas and the rate at which stars are formed within that cloud." ([Wikipedia](https://en.wikipedia.org/wiki/Kennicutt%E2%80%93Schmidt_law))
+- **Star Formation in the Milky Way and Nearby Galaxies**. "We review progress over the past decade in observations of large-scale star formation, with a focus on the interface between extragalactic and Galactic studies. Methods of measuring gas contents and star formation rates are discussed, and updated prescriptions for calculating star formation rates are provided." ([arXiv:1204.3552](https://arxiv.org/abs/1204.3552))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Dark matter rotation curves]]

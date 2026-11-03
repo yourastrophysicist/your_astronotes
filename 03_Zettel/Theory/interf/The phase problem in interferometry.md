@@ -113,6 +113,14 @@ EHT achieves μas-resolution images using:
 
 both are spectacular demonstrations of how to get around the phase problem.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Phase retrieval**. "Phase retrieval is the process of algorithmically finding solutions to the phase problem." ([Wikipedia](https://en.wikipedia.org/wiki/Phase_retrieval))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Phase closure]]

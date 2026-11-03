@@ -107,6 +107,17 @@ choose based on the science: faster methods for routine observations, slower/bet
 - **on-the-fly RML**: real-time Bayesian imaging during observations
 - **hybrid methods**: combine speed of CLEAN with accuracy of RML
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Deconvolution|500](https://commons.wikimedia.org/wiki/Special:FilePath/Deconvolution_of_an_astronomical_image.png?width=600)
+*Stacked images of the crater Copernicus before and after deconvolution using the Lucy Richardson method. No other processing has been applied* ([Commons file page](https://commons.wikimedia.org/wiki/File:Deconvolution_of_an_astronomical_image.png), Stub Mandrel, CC BY-SA 4.0, as used on the Wikipedia article [Deconvolution](https://en.wikipedia.org/wiki/Deconvolution))
+
+- **Deconvolution**. "In mathematics, deconvolution is the inverse of convolution. Both operations are used in signal processing and image processing. For example, it may be possible to recover the original signal after a filter (convolution) by using a deconvolution method with a certain degree of accuracy." ([Wikipedia](https://en.wikipedia.org/wiki/Deconvolution))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[CLEAN algorithm]]

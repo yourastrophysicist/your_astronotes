@@ -68,6 +68,14 @@ between, the ratio drops smoothly from $\sim 1.5$ to $\sim 0.45$. this is the di
 
 so $[SII]$ is the most-used because the wavelengths are accessible and the lines are bright in HII regions.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Forbidden mechanism**. "In spectroscopy, a forbidden mechanism (forbidden transition or forbidden line) is a spectral line associated with absorption or emission of photons by atomic nuclei, atoms, or molecules which undergo a transition that is not allowed by a particular selection rule but is allowed if the approximation associated with that rule is not made." ([Wikipedia](https://en.wikipedia.org/wiki/Forbidden_mechanism))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Forbidden lines]]

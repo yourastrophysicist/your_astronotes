@@ -241,6 +241,17 @@ Because galaxy clusters are the largest gravitationally collapsed structures in 
 
 
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Coma Cluster|500](https://commons.wikimedia.org/wiki/Special:FilePath/Coma_cluster_from_Estonia.jpg?width=600)
+*Lead figure of the Wikipedia article Coma Cluster* ([Commons file page](https://commons.wikimedia.org/wiki/File:Coma_cluster_from_Estonia.jpg), Taavi Niittee/Tõrva Astronoomiaklubi/Tõrva Astronomy Club, CC BY 4.0, as used on the Wikipedia article [Coma Cluster](https://en.wikipedia.org/wiki/Coma_Cluster))
+
+- **Coma Cluster**. "The Coma Cluster (Abell 1656) is a large cluster of galaxies that contains over 1,000 identified galaxies. Along with the Leo Cluster (Abell 1367), it is one of the two major clusters comprising the Coma Supercluster. It is located in and takes its name from the constellation Coma Berenices." ([Wikipedia](https://en.wikipedia.org/wiki/Coma_Cluster))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## Linked References
 
 - [[Bullet Cluster and dark matter mapping]]

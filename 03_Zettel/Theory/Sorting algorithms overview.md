@@ -125,6 +125,17 @@ arr_sorted_by_b = arr[np.argsort(b)]    # sort arr by the order of b
 - **merging two catalogs**: stable sort by RA, then sort by Dec, with index tracking — Timsort handles stability
 - **MCMC posterior quantiles**: `np.percentile` does the right thing internally
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Sorting algorithm|500](https://commons.wikimedia.org/wiki/Special:FilePath/Merge_sort_animation.gif?width=600)
+*Sorting a random list using merge sort* ([Commons file page](https://commons.wikimedia.org/wiki/File:Merge_sort_animation.gif), Nuno Nogueira (Nmnogueira), CC BY-SA 2.5, as used on the Wikipedia article [Sorting algorithm](https://en.wikipedia.org/wiki/Sorting_algorithm))
+
+- **Sorting algorithm**. "In computer science, a sorting algorithm is an algorithm that puts elements of a list into an order. The most frequently used orders are numerical order and lexicographical order, and either ascending order or descending order. Efficient sorting is important for optimizing the efficiency of other algorithms (such as search and merge algorithms) that require input data to be in sorted lists." ([Wikipedia](https://en.wikipedia.org/wiki/Sorting_algorithm))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Computational complexity and speed]]

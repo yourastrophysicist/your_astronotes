@@ -73,6 +73,17 @@ reading cue: the mixer multiplies the sky signal by a local oscillator. after fi
 
 source: local study diagram generated from the heterodyne identity.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Heterodyne|500](https://commons.wikimedia.org/wiki/Special:FilePath/IdealMixer.svg?width=600)
+*vector graphic, frequency mixer circuit with english annotations* ([Commons file page](https://commons.wikimedia.org/wiki/File:IdealMixer.svg), Jarmokivekas, CC BY-SA 3.0, as used on the Wikipedia article [Heterodyne](https://en.wikipedia.org/wiki/Heterodyne))
+
+- **Heterodyne**. "A heterodyne is the result of mixing two signals in a nonlinear device to produce new frequency components, notably sum and difference frequencies of the original signals. This process, called heterodyning, is fundamental to signal processing and radio systems." ([Wikipedia](https://en.wikipedia.org/wiki/Heterodyne))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Heterodyne vs direct detection]]

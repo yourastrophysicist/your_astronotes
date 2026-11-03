@@ -145,6 +145,14 @@ reading cue: calibration is the middle of the observing story. the raw visibilit
 
 source: local workflow diagram generated from the standard radio-reduction sequence.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Calibration (statistics)**. "There are two main uses of the term calibration in statistics that denote special types of statistical inference problems." ([Wikipedia](https://en.wikipedia.org/wiki/Calibration_%28statistics%29))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Bandpass calibration]]

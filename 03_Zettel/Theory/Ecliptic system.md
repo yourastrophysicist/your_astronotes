@@ -64,6 +64,17 @@ $$\cos\beta \sin\lambda = \sin\delta \sin\varepsilon + \cos\delta \cos\varepsilo
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Ecliptic coordinate system|500](https://commons.wikimedia.org/wiki/Special:FilePath/Ecliptic_grid_globe.png?width=600)
+*Diagram of ecliptic coordinates, depicting the ecliptic, equator, ecliptic poles, longitude and latitude, and the vernal equinox direction* ([Commons file page](https://commons.wikimedia.org/wiki/File:Ecliptic_grid_globe.png), Tfr000 (talk) 21:07, 19 June 2012 (UTC), CC BY-SA 3.0, as used on the Wikipedia article [Ecliptic coordinate system](https://en.wikipedia.org/wiki/Ecliptic_coordinate_system))
+
+- **Ecliptic coordinate system**. "In astronomy, the ecliptic coordinate system is a celestial coordinate system commonly used for representing the apparent positions, orbits, and pole orientations of Solar System objects. Because most planets (except Mercury) and many small Solar System bodies have orbits with only slight inclinations to the ecliptic, using it as the fundamental plane is convenient." ([Wikipedia](https://en.wikipedia.org/wiki/Ecliptic_coordinate_system))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

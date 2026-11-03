@@ -62,6 +62,17 @@ space astrometry removed the atmosphere:
 
 ---
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Stellar parallax|500](https://commons.wikimedia.org/wiki/Special:FilePath/Stellarparallax_parsec1.svg?width=600)
+*Lead figure of the Wikipedia article Stellar parallax* ([Commons file page](https://commons.wikimedia.org/wiki/File:Stellarparallax_parsec1.svg), Srain at English Wikipedia, Public domain, as used on the Wikipedia article [Stellar parallax](https://en.wikipedia.org/wiki/Stellar_parallax))
+
+- **Stellar parallax**. "Stellar parallax is the apparent shift of position (parallax) of any nearby star (or other object) against the background of distant stars. By extension, it is a method for determining the distance to the star through trigonometry, the stellar parallax method." ([Wikipedia](https://en.wikipedia.org/wiki/Stellar_parallax))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]

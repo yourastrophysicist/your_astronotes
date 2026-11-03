@@ -95,6 +95,14 @@ FTCS is the conceptual key to the rest of computational PDE work:
 - the **transition to implicit** is the template for stiff-problem methods
 - the **discretized Laplacian** $u_{i+1} - 2u_i + u_{i-1}$ is the building block of every grid-based PDE solver
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **FTCS scheme**. "In numerical analysis, the FTCS (forward time-centered space) method is a finite difference method used for numerically solving the heat equation and similar parabolic partial differential equations. It is a first-order method in time, explicit in time, and is conditionally stable when applied to the heat equation." ([Wikipedia](https://en.wikipedia.org/wiki/FTCS_scheme))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Finite difference discretization]]

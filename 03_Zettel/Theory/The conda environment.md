@@ -115,6 +115,14 @@ conda env export > environment.yml
 git add environment.yml; git commit -m "add scikit-learn"
 ```
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Conda (package manager)**. "Conda is an open-source, cross-platform, language-agnostic package manager and environment management system. It was originally developed to solve package management challenges faced by Python data scientists. It is a free use package manager for Python and R. Anaconda Python distribution was developed by Anaconda Inc.; then later spun out as a separate package, released under the BSD license." ([Wikipedia](https://en.wikipedia.org/wiki/Conda_%28package_manager%29))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Linux for the astrophysicist]]

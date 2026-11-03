@@ -80,6 +80,14 @@ beyond just Sgr A*:
 
 GRAVITY observations of these populations will refine our understanding of stellar dynamics in the most extreme galactic environment.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+- **Sagittarius A***. "Sagittarius A*, abbreviated as Sgr A* ( SADGE-AY-star), is the supermassive black hole at the Galactic Center of the Milky Way. Viewed from Earth, it is located near the border of the constellations Sagittarius and Scorpius, about 5.6° south of the ecliptic, visually close to the Butterfly Cluster (M6) and Lambda Scorpii. Sagittarius A* is a bright and very compact astronomical radio source." ([Wikipedia](https://en.wikipedia.org/wiki/Sagittarius_A*))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[VLTI Very Large Telescope Interferometer]]

@@ -46,6 +46,17 @@ an observatory at $4200$ m sits above $\sim 40\%$ of the atmosphere by mass and 
 
 practical pre-2020 list: Mauna Kea ($4200$ m), Cerro Paranal ($2600$ m), Cerro Pachón ($2700$ m), La Palma ($2400$ m), San Pedro Mártir ($2800$ m), Cerro Tololo ($2200$ m). future ELTs: Cerro Armazones ($3000$ m), Maunakea-South.
 
+<!-- sources:wiki-arxiv -->
+## Wikipedia and arXiv sources
+
+![Atmosphere of Earth|500](https://commons.wikimedia.org/wiki/Special:FilePath/Top_of_Atmosphere.jpg?width=600)
+*Lead figure of the Wikipedia article Atmosphere of Earth* ([Commons file page](https://commons.wikimedia.org/wiki/File:Top_of_Atmosphere.jpg), NASA Earth Observatory, Public domain, as used on the Wikipedia article [Atmosphere of Earth](https://en.wikipedia.org/wiki/Atmosphere_of_Earth))
+
+- **Atmosphere of Earth**. "The atmosphere of Earth consists of a multi-layered gas mixture (commonly referred to as air) surrounding the Earth's planetary surface, which is retained by gravity. Like the atmospheres of other planets, Earth's atmosphere also contains variable quantities of suspended aerosols and particulates that create weather features such as clouds and hazes." ([Wikipedia](https://en.wikipedia.org/wiki/Atmosphere_of_Earth))
+
+> Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
+<!-- /sources:wiki-arxiv -->
+
 ## see also
 
 - [[Earth atmosphere for observations]]
